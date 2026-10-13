@@ -8,6 +8,8 @@ What she needed was not permission. It was material. A furnace is built out of t
 
 She felt a hunger that was not hunger, because she had not been hungry since the first Foundation. It was the furnace want, specific and physical, and it sat under her ribs beside the plate and did not move when she breathed.
 
+It had been under her ribs since the clearing, on bad flat with nobody watching, and it had never once been a wish for anything a county could hand her. It was a want for brick, in a shed, at a price, on a board, and every part of it she could get to with a bar over her shoulder.
+
 ## The Shed
 
 The seller kept a shed a mile past the mill with a yard of sorted stock, crucibles and firebrick and iron wire and clay of three grades, and a board with prices on it in a hand nobody needed to read twice.
@@ -21,6 +23,14 @@ She passed the cart turn where she had once been offered twenty coppers for a ra
 The seller was a woman of about fifty with burned hands and a short manner, and she looked at Ning Yan’s hands once, the way people on that reach looked at hands, and priced accordingly.
 
 “Two hands work,” the seller said, pointing with a stick. “Brick there. Wire there. Clay at the back. Crucible small and large.”
+
+She put her own hands on the bench under the board and turned them over, and Ning Yan watched her do it and did not take her own hands off her sides.
+
+“That is a right,” the seller said, “with a heel gone out of it. And that is a left with two things missing at the front of it.”
+
+“Yes,” Ning Yan said.
+
+“Then you have heard the price,” the seller said, “and it does not change for the telling.”
 
 Ning Yan added it the way she added everything, on her fingers and then again to check, and the number came out past anything five coppers a day could hold in one hand.
 
@@ -60,6 +70,8 @@ The seller marked the board with a stub of chalk, three strokes against a measur
 
 That was the whole of the dealing on that reach. The price, and nothing else beside it.
 
+She did not ask what happened to a person who took the stock and could not pay. She had a bar over her shoulder and a booking in a book four hundred yards behind her, and both of those were answers, and the seller had already given the only one she was going to get.
+
 ## The Hook Sets
 
 She walked back to the hut in the dark with no coppers in it but bread money and a tally in her head instead, three strokes on a board a mile past the mill, and she sat against the boards.
@@ -80,7 +92,7 @@ The ninety for the road west had been eighteen days away when the road opened. I
 
 She could not save the road and feed the furnace. She had put money she had not got behind material priced for people with two whole hands, and the chalk strokes would not wash off the board in the shed even if she stopped eating, which she could not do, because bread was five a day and the number in her hand was the same morning and night.
 
-She had bought the first stage of the third realm out of far-side wages before it was bought out of anything else. That was what fifty days after the ninth looked like on paper, and the paper was a chalk mark in a shed a mile past a mill with a wheel that was not turning.
+She had bought the first stage of the third realm out of far-side wages before it was bought out of anything else. That was what forty-seven days after the ninth looked like on paper, and the paper was a chalk mark in a shed a mile past a mill with a wheel that was not turning.
 
 He said one thing that night and it was in the present tense and it bought nothing.
 

@@ -10,11 +10,13 @@ At about the second hour a slab she had set early slid on the sledge boards with
 
 ## The Slab
 
-It was the same hand the load had come down across on the twenty-first of a month two months back, the hand with four fingers’ worth of grip that had taken the heavy end anyway.
+It was the same hand the load had come down across on the twenty-first of a month thirty-five days back, the hand with four fingers’ worth of grip that had taken the heavy end anyway.
 
 The slab pinned the four fingers against the sledge rail for about as long as it took to count eleven, and the pain came up white and complete, and she got her shoulder under the edge and lifted with the furnace through the middle of the stroke and moved the hand clear by hand at the end, because the turn was gone and there was no other way.
 
 Nobody came. That was the shape of the bank in weather, every person holding their own load, rain on every face, and there was no version of the slab where a man saw it.
+
+The yard went on around her for eleven counts. A bar went in, a stone came up, a cart wheel found the wet and made a noise about it, and eleven counts of that is a long time when the four fingers are pinned against a rail and the rain is going into the sleeve that is over them.
 
 She stood in the rain with the hand held against her coat and counted breath in four, and worked the fingers one at a time, and all four moved, and the blood stayed where it belonged, under the skin, and that was the whole of the mercy.
 
@@ -40,11 +42,15 @@ The ground was warm.
 
 Not fire-warm. Ground-warm, the way earth holds what is put into it past the line, steady and without witness. Seven days since the stage, and the earth still held it, and no county book had taken any of it, because no county had a column for a thing taken past its own boundary.
 
+She put the heel-gone hand down beside the warm place and it was cold beside it, the same earth the same inch apart, and she lay the two hands flat and left them there until the cold in the left one had gone up to meet the right, which took about the time of four breaths and gave her nothing except the shape of the difference.
+
+Then she took them up and put them in her coat, because a woman who sits with her hands in the earth behind a hut in the dark on a working reach is a woman somebody will have an opinion about, and there was nobody she wanted an opinion from.
+
 ## The Lamp
 
 She had no lamp in the hut and never asked for one, because a booked woman with a furnace banked under boards needed no light to count by, and the dark was honest.
 
-She sat in it with the swollen hand in her lap and the warm earth under her other palm, and counted the days to the twenty-seventh on her fingers, one for each pay still to come, and the count came out in ones, the way counts come out past the line.
+She sat in it with the swollen hand in her lap and the warm earth under her other palm, and counted the days to the twenty-seventh on her fingers, and the count came out in ones, the way counts come out past the line.
 
 One hand bound. One furnace banked. One column waiting. One season holding. That was the arithmetic of the twenty-sixth, and it asked nothing of her but the next day.
 
@@ -72,11 +78,19 @@ She lay awake a while with her palm on the warmth through the boards’ gap, and
 
 Given: strength through the middle of every stroke, stone rising for half hands the way it rose for whole ones, the heavy end held and regained. Taken: the turn at the end, two holds, twenty-nine coppers, the road west at ninety standing behind all of it like a wall.
 
-The count came out the way counts come out past the line, given and taken both true, neither touching the other, and she slept with her palm on the warmth until the fourth hour, and woke with the binding damp and the fingers aching, and worked each one before she stood.
+The count came out the way counts come out past the line, given and taken both true, neither touching the other.
 
-She sat back against the boards with rain running off the roof edge and worked out what she wanted, concretely, with the swollen hand in her lap.
+She got up out of the dark at about the third hour, which was earlier than the yard and earlier than she needed, and went up the four hundred yards to the trestle in the wet, because a swelling hand is a thing that gets worse if you lie on it, and stood there without a lamp with her left hand flat on the open page.
 
-She wanted the hand to hold to the twenty-seventh. Five days of bank work with a pay-day at the end of it, and the column waiting, and the furnace banked every night, and nothing else.
+Her own line ran nineteen days long, the eighth of a month to the twenty-sixth, and there was nothing on it she had not put there herself, and it had eleven minutes a line in it and no other meaning whatever, and it would still be there on the seventh with the next date going in under the far date in his hand.
+
+Da came up the track at about the fourth hour with his hood down and the rain running off the end of his nose, looked at the trestle, looked at her standing at it with a bound hand, and said, “Reading it,” not as a question, and went on up the ramp.
+
+She walked back down the four hundred yards and lay on the boards with her palm through the gap on the warm earth, and slept until the fourth hour, and woke with the binding damp and the fingers aching, and worked each one before she stood.
+
+Rain came off the roof edge onto the ground by the door. She worked out what she wanted, concretely, with the swollen hand in her lap.
+
+She wanted the hand to hold to the twenty-seventh. One day of bank work with a pay-day at the end of it, and the column waiting, and the furnace banked that night, and nothing else.
 
 He said one thing that evening and it was present tense and it bought nothing.
 

@@ -34,7 +34,7 @@ He turned one for her two in the first hour. She turned three for his two by the
 
 At midday she sat on the sledge with bread from the store, five coppers at the seventh hour, eaten outside with her back to the wind, and watched two more road carts go up the track with covers rolled and rails for bags.
 
-The drivers sat forward. That was the road seat, and she knew it from the cart turn two months back, and from four years of watching carts go where she could not follow.
+The drivers sat forward. That was the road seat, and she knew it from the cart turn a month and a half back, and from four years of watching carts go where she could not follow.
 
 She felt envy go through her like weather, plain and unadorned, and put it down beside the bread. A booked woman does not envy a road seat. She writes the date in and works the bank.
 

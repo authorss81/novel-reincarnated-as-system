@@ -12,8 +12,8 @@ moved two sentences in ch 220 and ch 232, made the weekday rule canon, and reope
 Live threads below carry into **Volume 5, *Mortal Ash*, ch 239–298**. The
 full state of each one at the last page of Volume 4 is in `state/continuity.md` under
 ***Established facts, Volume 4 complete (ch 179–238)*** and ***Volume 4 running ledger — at end of ch 238***.
-**VOLUME 5 IS OPEN. Batch 0002 (ch 253–267) IS WRITTEN — 21,450 words of body prose over fifteen chapters,
-day 507 to day 521, ONE bracketed layer line in the batch, at ch 258.** `outline/volume-05.md` is written and is
+**VOLUME 5 IS OPEN. Batch 0002 (ch 253–267) IS WRITTEN AND REPAIRED — 25,382 words of body prose over fifteen
+chapters, average ~1,692, day 507 to day 521, ONE bracketed layer line in the batch, at ch 258.** `outline/volume-05.md` is written and is
 the authority for Volume 5; `outline/batches/volume-05-batch-0001.md` was the card file it was drafted
 against and every card's beat is on the page. Batch 0002 was drafted against
 `workspace/volume-05-batch-0002/PROMPT.md` with no card file, and every pinned item in that prompt is on the
@@ -71,7 +71,7 @@ controller alone, so this record does not write one.**
 
 ## Volume 5 Batch 0002 (ch 253–267) — what this batch added, and what is now live going into Batch 0003
 
-**Fifteen chapters, 21,450 words of body prose, day 507 to day 521. ONE bracketed layer line, at ch 258.**
+**Fifteen chapters, 25,382 words of body prose, average ~1,692, day 507 to day 521. ONE bracketed layer line, at ch 258.**
 Pressure: **debt coming due** — and nothing else. Full record in `state/continuity.md`.
 
 | Thread | Owner | Planned resolution | State |
@@ -89,6 +89,16 @@ Pressure: **debt coming due** — and nothing else. Full record in `state/contin
   pending, at nine feet, off page. The register *reconciled*; the plate worn, undescribed; MEMBER ABSENT ×3;
   year carrying, unmentioned. No office above the Standing Office named. *Kiln-born* zero. The eleven not
   raised. No second Lung, no second appointment. No new names, no new enemy, nothing a romance.**
+
+### One proposed repair carried out of Batch 0002 and not applied
+
+- **Ch 251 reads *on the twenty-sixth of a month three months ago* for the day she stood two hours in front of
+  the board and took ninety parts of an answer out of a man nine feet away. Ch 236 dates that at day 459 and
+  ch 251 is days 503–504, so the interval is forty-four or forty-five days.** This is the same overstatement
+  `logs/volume-05-batch-0002.review.log` found and repaired in ch 258, 260 and 267 of the batch below it.
+  **Ch 251 belongs to Volume 5 Batch 0001, a closed phase, and was not opened.** Ch 262's matching *twenty-sixth
+  of a month* now carries no figure at all, so the two chapters do not contradict. **Do not treat ch 251's
+  *three months* as canon. A phase that may reopen Volume 5 Batch 0001 should correct it.**
 
 ## Volume 4 — every thread below is confirmed OPEN on this file. Nothing here is retired.
 

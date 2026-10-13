@@ -4,7 +4,7 @@ On the twenty-fifth a hauler came east on the coming round and sat at the yard f
 
 The hauler was a woman of about forty with a road face and a pot she shared the way haulers share, and she had come off the nine-day road that morning with bags and papers and a cart that needed a wheel looked at.
 
-Ning Yan sat at the edge of the eight feet the way she sat every night, inside the warmth while eleven men held it, colder than she had been in a hut with three boards, and listened the way she had listened at a pot two months back.
+Ning Yan sat at the edge of the eight feet the way she sat every night, inside the warmth while eleven men held it, colder than she had been in a hut with three boards, and listened the way she had listened at a pot thirty days back.
 
 The fire burned on the eleven men’s hours, free to her and costing her nothing, and at about the eighth hour four of them would let it down into the stones without asking anybody, the way they always did.
 
@@ -18,6 +18,8 @@ The hauler talked about the road the way haulers talk, ruts and water and where 
 
 Three facts from nine days west, in a hauler’s mouth at a fire, by accident and without weight. A light that did not stop. A bundle going down a stair and arms going up with it and coming down empty. Nine men on a floor and all of them still on it.
 
+She put her bread down on the stones beside her knee to free both hands, because the three facts were going to sit in her for a long time and she wanted them somewhere they could be held, and a man across the fire looked at the bread on the stones and did not look at her.
+
 Ning Yan felt love go through her like a hand again, the way it had at the cart turn, and under it grief, and she put both where she put everything.
 
 She could not ask a second question. To ask would be to say the tower was news to her that was not news, that she knew whose stair the bundle went down and whose arms came down empty, that nine men on a floor nine days west were the cost of every decision she made.
@@ -30,9 +32,13 @@ So she asked the question a worker asks at a fire, about the road.
 
 A man across the fire asked about the wheel the hauler’s cart needed, and the hauler answered it at length, wood and iron and where the wobble sat, and the talk went to wheels the way talk goes at fires, and Ning Yan sat inside the eight feet with the three facts held quietly, the way she held everything that could not be asked after.
 
+She got one word in about the sixth hour, when the hauler said the road was hard at the bottom, and she said, “I have been at the bottom of it,” and the hauler said, “Then you know it takes a wheel,” and the talk went on, and that was the entire conversation between them and it had cost her nothing and given her nothing and she counted it as the best kind.
+
 ## The Departure
 
 The hauler went east in the morning with the wheel mended and the pot washed, the way haulers go, without farewell, and the yard worked on, and that night the fire was let down at about the eighth hour by four men without asking anybody, the way it always was.
+
+She had not asked the hauler’s name and had not given her own, and at about the fourth hour in the morning she stood at the ramp and watched the team get away east with the wheel running straight, and worked out that in nine days that hauler would unload on a floor nine days west and would say nothing about a woman on a bank four hundred yards past a post, and that this was the correct and ordinary way for the world to work.
 
 She banked the furnace with the three facts standing beside the fair copy in her head, two sightings of one road, one from the track at the post and one from a fire at the yard.
 
@@ -47,6 +53,8 @@ She walked back to the hut in the dark with the furnace banked and the bar by th
 The bundle going down the stair and the clerk’s arms going up four flights was the road the fair copy had travelled, seen from the other end, nine days west, in a hauler’s mouth that had never met the writer and did not know his name.
 
 The tower lit at the fourth hour was the stair still carrying. The nine men still on the floor were the cost, held steady, doing the only thing they were built to do.
+
+She worked out what it would take to get a fourth fact, and there was no way to get it that did not cost the three, because the only instrument she had for nine days of road was the plain ignorance of somebody who did not know there was anything to know. She had spent that instrument once already, at a pot, and she was not going to spend it twice on the same road.
 
 ## The Pot
 
@@ -80,9 +88,9 @@ At the plank that evening she wrote the date in, eleven minutes, the page held f
 
 Given: three facts from nine days west, a mended wheel watched true, a day worked and paid on the twenty-seventh to come. Cost: nothing the book could hold, only standings, a tower lit and nine men standing and a bundle on a stair.
 
-The man at the plank went down the column in the ordinary way, and the date went in under the far date in his hand, and the column held days the way it always held them, without comment on what rode beside them.
+She wanted, for about as long as the count took, to have it both ways. She wanted the three facts to be worth something, and she wanted them not to be worth anything, and she stood there finding out that wanting both of those was allowed and cost nothing and meant nothing, which was the way most wanting went on that reach.
 
-The column took the day. The standings stayed outside it, the way love and grief stayed outside it, and she put her hand flat on the book for a line’s length, and went to the hut.
+The man at the plank went down the column in the ordinary way, and the date went in under the far date in his hand, and the column held days the way it always held them, without comment on what rode beside them.
 
 The column took the day. The standings stayed outside it, the way love and grief stayed outside it, and she put her hand flat on the book for a line’s length, and went to the hut.
 

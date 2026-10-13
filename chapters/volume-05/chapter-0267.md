@@ -6,15 +6,19 @@ She was at the trestle with the book open, writing the date in with the flat of 
 
 It came low, under the arm, the way thick drift rang under a bar, and kept coming after the source stopped, for about as long as it took to count eleven, and she knew the shape of it the way she knew her own breath.
 
-An announcement. Made nine days west, inside the bound, in the open, the way stages go inside the bound unless they are ordered otherwise. She knew the shape of it the way she knew her own breath, four counts and then the sound, and then the drift taking it.
+An announcement. Made nine days west, inside the bound, in the open, the way stages go inside the bound unless they are ordered otherwise. Four counts and then the sound, and then the drift taking it, and no part of it carrying any distance she could measure.
 
 The man at the plank stopped his pen for about two seconds and went on. The eleven men at the fire heard nothing they had a word for. The keeper up at the post set down his paste and stood still with his head turned west, listening to a thing he had heard for nine years without ever being told it.
+
+She wrote the rest of the line in the same hand and the same size, the flat of the second finger moving and the number of strokes the same as any other day, because nobody else on the reach had a word for what had come out of the west at the fourth hour and the page was not going to become the place where it was written down.
 
 ## The Board
 
 At about the sixth hour the keeper came down the post with a strip wet with paste and put it up, and on it, among the marks nobody on the reach could read, was a fresh reading in his hand.
 
-She saw it from the bank, a dark line on pale cloth, still damp, and she knew what it was before she had finished the stone, because she had watched him write a thing he could not read once before, on the twenty-ninth of a month three months back, when the sound had been hers.
+He did not read it out. He stepped back down the ladder about a foot, looked at it from the side the way a man looks at work he has just done, and came down the rest of the way, and picked the paste pot up off the ground where he had set it, and stood holding it with his head turned west again before he went back up the track.
+
+She saw it from the bank, a dark line on pale cloth, still damp, and she knew what it was before she had finished the stone, because she had watched him write a thing he could not read once before, fifty-nine days back, on the twenty-ninth of a month, when the sound had been hers.
 
 ## The Walk Past
 
@@ -24,9 +28,9 @@ The strip stood damp on the post among the strips going up every nine or ten day
 
 A stage told nine days west had come east past the line as sound the drift carried. It had gone onto the far-side board as a reading. That was what the board was for, and she held the knowing the way she held the bar, with both hands, until evening.
 
-A stage told nine days west had come east past the line as sound the drift carried. It had gone onto the far-side board as a reading. That was what the board was for.
+She carried on with the furnace under her and the knowledge under that, setting down early, moving stone by hand, and she waited for the evening fire the way she waited for everything on that reach, by working until it came.
 
-She worked the morning with the furnace under her and the knowledge under that, setting down early, moving stone by hand, and she waited for the evening fire the way she waited for everything on that reach, by working until it came.
+A man at the easy end asked her, halfway down the bank, whether the sound in the morning had been thunder, and she said it had not been thunder and had not been anything she knew, and he said, “Right,” and went back to his stone, and that was the entire account the yard ever took of a thing that had gone under all of them.
 
 ## The Day Between
 
@@ -36,7 +40,7 @@ Da moved two men to the ramp boards to check them, because sound in the ground l
 
 She held the bar for the lifting while a man half her age drove the wedges, and the furnace ran through the middle of the hold, steady and banked, and the rails came true.
 
-No person on the yard said one word about the morning’s sound. It had gone along the ground under all of them and up through all of their shoes, and none of them had a word for it but the keeper, and the keeper was four hundred yards up the track with his paste and his strips.
+The yard did not come back to it. The sound had gone along the ground under all of them and up through all of their shoes, and it had asked nothing of anybody, and by the middle of the day it was a thing that had happened in the morning, the way rain is a thing that happened in the morning.
 
 ## The Fire
 
@@ -68,6 +72,8 @@ That was the whole of it, said once, in a worker’s mouth, on the page, in shor
 
 She put her hands flat on the earth behind the hut where the ground was warm, and felt what was charged there, steady and without witness, hers and in no book.
 
+Eight days since the nineteenth, and the earth had not given any of it back, and there was no instrument she could think of and no office within nine days of road that could ask her about it, and the two facts together were the whole of what she had gained for twenty-nine coppers and two holds and the turn out of her stroke.
+
 ## The Two Holdings
 
 She held the two holdings beside each other in the dark, the way she held everything beside the book, plainly and without machinery.
@@ -79,6 +85,10 @@ On the post four hundred yards up the track, a reading taken off drift-carried s
 One she had paid for with twenty-nine coppers and two holds and the turn out of her stroke. One had ridden the drift past the line and gone onto a board, costing her nothing, because the board took readings and the ground took stages.
 
 She wanted, concretely, to keep the furnace banked through the coming days. That was the want, small and hers, and it held.
+
+Under the want there was another one she did not put anywhere, because it had no instrument and no date: that the stage would come back through the ground one day the way it had gone out of the west this morning, and that the whole yard would hear it and every man on it would know what it was.
+
+That was not a thing she had any right to want. She wanted it anyway.
 
 He said one thing that night and it was present tense and it bought nothing.
 

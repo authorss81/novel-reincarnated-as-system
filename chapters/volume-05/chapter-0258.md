@@ -4,7 +4,7 @@ On the nineteenth of the month she paid the board down to nothing and took the f
 
 The day began at the plank at about the sixth hour with the book open and the wind off the rise, and the man at the plank read nothing and said nothing, because it was an ordinary working morning and she was an ordinary worker with a season in his book.
 
-She worked the bank through the morning on the heavy end with nine holds and four fingers, and turned stone the way she had turned it for seven weeks, and at about the second hour Da paid her the day’s understanding without words, the way foremen pay it, by pointing at the ramp and walking away.
+She worked the bank through the morning on the heavy end with nine holds and four fingers, and turned stone the way she had turned it for six weeks, and at about the second hour Da paid her the day’s understanding without words, the way foremen pay it, by pointing at the ramp and walking away.
 
 She was done at the fourth hour. A day worked is a day paid and the pay would come on the twenty-seventh with the rest, unmovable, and today’s hours went into the column in the evening the way every day’s hours went in.
 
@@ -20,6 +20,8 @@ A man at the easy end watched one stone land true and nodded once, the way men n
 
 She did not tell the yard. A stage taken past the line was not yard business until the ground said otherwise, and the ground said nothing until it was asked.
 
+She had told no person in three days, not the man at the plank and not the woman with the scarred forearm and not the seller with the board, and the word furnace had not been out loud to a living person since the ninth, and that had been said to the ground.
+
 ## The Board Wiped
 
 She walked to the shed a mile past the mill with the bar over her shoulder and two coppers left in the cloth, and the seller wiped the board clean with the side of her hand, though it had stood clear since the day before, and helped load the brick onto a carrier’s cart for the two coppers.
@@ -29,6 +31,8 @@ She walked to the shed a mile past the mill with the bar over her shoulder and t
 The brick rode back in a carrier’s cart for two coppers she paid out of tomorrow’s bread and went hungry-adjacent for, which was nothing, because hunger had left her at the first Foundation and never come back.
 
 By the sixth hour the furnace stood behind the hut, brick coursed and clayed, wire bound, the small crucible seated in the middle like a cupped hand. It had cost twenty-nine coppers at board prices, six days of wages, three days of debt-carrying, two holds out of a foundation, and the road west.
+
+She put the back of her wrist against the outside of the ring the way a person tests a thing that will not say whether it is hot, and the wire and the brick came up warm against the skin in under a count of four, and she took the wrist away and put it back, once, to be sure.
 
 She stood and looked at it, and what she felt was fear, plain and physical, the way she had felt it before the ninth on the far end of working ground.
 
@@ -42,11 +46,13 @@ He said one sentence and it was present tense and it bought nothing and advised 
 
 “You are ordering,” he said. “And I am here.”
 
+That was all he said. He had said one sentence at the first Foundation and one at the ninth and he said them the same way each time, in the same order, as a man reading out a condition he had read out before, and she had never once been able to get anything out of the second clause of it.
+
 She emptied herself the way the four-clause order required, the order a body must be moved in, empty first and then take, and she had learned the order out of eleven volumes read to her by a fair hand years ago and never forgotten a word of it.
 
 The furnace lit under her.
 
-It was not fire from outside. It was a furnace of her own coming up under the foundation the way a floor comes up under feet, built out of twenty-nine coppers of far-side material and fifty days of far-side wages and a body with four fingers on one hand and nine holds on the other.
+It was not fire from outside. It was a furnace of her own coming up under the foundation the way a floor comes up under feet, built out of twenty-nine coppers of far-side material and forty-one days of far-side wages and a body with four fingers on one hand and nine holds on the other.
 
 The ground took it.
 
@@ -57,6 +63,8 @@ There was nobody within nine days of road to be told. There was no book in any o
 ## The Heat
 
 The heat came second, up through the foundation the way warmth comes up through banked ash, steady and without flame.
+
+It came up her back first and then down through both heels into the beaten earth, and the earth under the ring did not warm her feet so much as take the cold out of them, and she had not had her feet taken that way once since she was a child in a house with a floor.
 
 It ran the four counts of her breath and settled them without changing them. It ran the cracked aperture and held it without mending it, because nothing inside the bound repaired an aperture and she was past the bound and the rule held anyway.
 
@@ -76,13 +84,15 @@ The turn at the end of the stroke was gone.
 
 Not weakened. Gone. The furnace had taken the strong turn the way furnaces take what they are built to use, and the bar came over at the end of the stroke flat and dead, without the flick that put stone where she wanted it.
 
+She put the slab down and tried it the way she had tried holds after the heel went, and it did not come, and she tried it again anyway, because a thing she had done since she was sixteen does not go away in one evening whatever the reason, and she wanted to be wrong about it in front of nobody.
+
 She stood on the bank in the dusk with a slab under the bar and tried it three times, and three times the stone went where the bar put it and not where she meant, and the third time she set the bar down and stood with her hands on her knees breathing in four counts.
 
 The first thing she could no longer do with a bar one-handed. That was the price on the page, and it would not come back, and no practice would rebuild the turn because the turn had gone into the furnace the way order goes into everything she pays for.
 
 [Ning Yan, past the line, servant-born, under no ceiling any county holds. Golden Core, stage one, is held.]
 
-The layer said it once, in the far-side house form, announcing and nothing more, the first thing it had said since the twenty-ninth of a month three months back. It explained nothing and advised nothing.
+The layer said it once, in the far-side house form, announcing and nothing more, the first thing it had said since the twenty-ninth of a month fifty days back. It explained nothing and advised nothing.
 
 She stood past the last working point with a furnace of her own under her and four fingers on one hand and nine holds on the other and a turn gone out of the bar work, and the ground held what no county could hear.
 

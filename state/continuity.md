@@ -3122,11 +3122,12 @@ Both are inside the card's own beat and neither changes a card, a day, a title o
 
 ## Established facts, Volume 5 Batch 0002 (ch 253–267) — DEBT COMING DUE
 
-**Fifteen chapters, 21,450 words of body prose — the `#` title line and every `##` section heading excluded,
-by the method the Volume 3, Volume 4 and Volume 5 Batch 0001 records use.** Day 507 to day 521, one day per
-chapter. ONE bracketed layer line in fifteen chapters, at ch 258 — the first thing the layer has said since
-ch 237. Drafted against `workspace/volume-05-batch-0002/PROMPT.md` with no card file; every pinned item in
-that prompt is on the page. No chapter in Volumes 1–4 was opened.
+**Fifteen chapters, 25,382 words of body prose — the `#` title line and every `##` section heading excluded,
+by the method the Volume 3, Volume 4 and Volume 5 Batch 0001 records use**, and 25,740 raw. Day 507 to day
+521, one day per chapter. ONE bracketed layer line in fifteen chapters, at ch 258 — the first thing the layer
+has said since ch 237. Drafted against `workspace/volume-05-batch-0002/PROMPT.md` with no card file; every
+pinned item in that prompt is on the page. No chapter in Volumes 1–4 was opened. **The figures in this
+block are post-review-repair; see *Volume 5 Batch 0002 — REVIEW REPAIR* at the foot of this file.**
 
 ### The batch in one paragraph
 
@@ -3237,9 +3238,11 @@ zero.** *His eyes widened*, *he couldn't believe it*, *suddenly*, *little did he
 Authorial scaffolding — *this chapter*, *this volume*, *the reader*, *in this batch*: **zero.** Named
 weekdays: **zero.** Calendar months named: **zero.** Harem or romance: **none.** Speeches closed in all
 fifteen files. Markdown plain in all fifteen files. **No paragraph over 90 words.** Word counts by file are
-1,908 · 1,438 · 1,417 · 1,590 · 1,397 · 1,371 · 1,349 · 1,353 · 1,373 · 1,358 · 1,378 · 1,387 · 1,400 ·
-1,379 · 1,352 — **none under the 1,300 floor; fourteen sit under the 1,800 guide, ch 253 inside it; none above it; longest ch
-253 at 1,908.** Total 21,450, average ~1,430.
+1,911 · 1,620 · 1,613 · 1,716 · 1,689 · 1,664 · 1,629 · 1,752 · 1,646 · 1,616 · 1,670 · 1,704 · 1,764 · 1,724 · 1,664
+1,664 — **none under the 1,300 floor; **eight sit under the 1,800 guide and seven sit inside it; none above
+it; longest ch 253 at 1,911, shortest ch 262 at 1,616.** Total 25,382, average ~1,692. **The monotonic
+decline the review flagged is gone: the spread is now 1,616–1,911 across the fifteen, against 1,349–1,908
+across the same fifteen before repair.**
 
 ### Three drafting decisions recorded against the prompt
 
@@ -3348,3 +3351,116 @@ sent; the register still reading *reconciled*; MEMBER ABSENT three times and unr
 and unthanked; ch 150's refusal untouched; the year of non-forgiveness not mentioned once in fourteen
 chapters and still carrying; Feng absent and his fair Foundation copy unspent at ch 262; Yuan's own page
 unspent at ch 272; the surface answer still owed at ch 267.
+
+---
+
+## Volume 5 Batch 0002 — REVIEW REPAIR (applied after `logs/volume-05-batch-0002.review.log`)
+
+**Two duplicated paragraphs removed, an interval figure corrected in three chapters and four more, one local
+repetition cut, the batch grown by 3,932 words of body prose to close the length regression, and one
+structural fault repaired that the review did not raise. The planned plot, the fifteen titles, the chapter
+order, the day table, every pinned beat and the single bracketed layer line are unchanged.** No chapter in
+Volumes 1–4 was opened and **no chapter of Volume 5 Batch 0001 was opened.**
+
+### The reviewer's findings, all five answered
+
+**1 — `chapter-0267.md:25` and `:27`, two consecutive paragraphs opening on the same two sentences.** The
+second was the first cut short. The surviving paragraph carries the beat and keeps *…and she held the
+knowing the way she held the bar, with both hands, until evening*; the fragment is gone. **The paragraph
+that followed it opened *She worked the morning* inside a midday section and has been recast to *She carried
+on*** — the walk past is at midday and the rest of the twenty-eighth runs from there to the fire.
+
+**2 — `chapter-0264.md:85` and `:87`, byte-identical consecutive paragraphs.** One removed. The kept copy
+is the one with *love and grief*, and it now stands once, directly before the chapter's closing beat, so
+*Both standings held. Neither answered the other.* lands on the last line as it did.
+
+**3 — *the twenty-ninth of a month three months back*, wrong in three chapters.** Ch 237 is day 462 and
+months are thirty days, so the interval is not three months. **It is now counted in days, which is this
+character's own unit and which grows correctly across the three chapters**: **ch 258 (day 512) *fifty days
+back***, **ch 260 (day 514) *fifty-two days back***, **ch 267 (day 521) *fifty-nine days back***. The three
+figures are not a disagreement; they are one fixed event measured from three different days, and the drift
+between them is the reader's proof that the count is real.
+
+**4 — The length regression.** The batch ran 1,349–1,908 with a steady fall across it; it now runs
+**1,616–1,911** and the decline is gone. **3,932 words of body prose added, none of it new plot**: worked
+hours described concretely instead of summarised, five characters given one more beat each in their own
+register (the trestle clerk's unreadable slate, the burn-hands seller counting, the mild man of sixty at the
+store explaining what saying a thing costs, the hauler's single exchange about the road, the mill-end worker
+sliding one place along the stones at the fire), the slab going under the hand counted out in eleven, the
+ground's warmth read with two hands side by side, the middle bank giving her a number instead of a shrug,
+and the three-am trestle at ch 265. **8 chapters now sit inside the 1,800 guide and 7 under it; none is
+below the 1,300 floor and none is above the guide.**
+
+**5 — `chapter-0267.md:5` and `:7`, *the way she knew her own breath* twice in a four-line span.** The
+second instance is gone and the sentence that held it now reads *Four counts and then the sound, and then
+the drift taking it, and no part of it carrying any distance she could measure.*
+
+### Faults found in repair, of the same class as finding 3, all in this batch
+
+**6 — Four more elapsed figures that did not reconcile against the pinned day table.** Ch 253's cart turn,
+at ch 236 and forty-nine days back, had been *two months* — now **a month and a half**. Ch 264's pot, at
+ch 244 and **thirty days back**, had been *two months* — now **thirty days**. Ch 265's load across the
+four-fingered hand, at ch 242's twenty-first and **thirty-five days back**, had been *two months* — now
+**thirty-five days**. Ch 262's keeper, whose one question is **not independently datable anywhere in the
+manuscript**, had been dated *three months back* twice — **the figure is removed** rather than replaced,
+because no day in the record supports any number. **Ch 261's *two months back* at the cart turn is correct
+at sixty-one days and was left alone.**
+
+**7 — Three loose counts inside the furnace arithmetic.** Ch 255's *fifty days after the ninth* is
+**forty-seven days** at day 509. Ch 258's *fifty days of far-side wages* is **forty-one days** at day 512,
+she having gone onto that bank on day 471. Ch 257's *forty-one since the book took her name* measured the
+wrong book: **forty-one since the book took her hours, seventeen since the book took her name**, ch 247
+being the first of a month and she saying it then. Ch 258 and ch 259's *seven weeks* of bank work at forty-one
+and forty-two days is now **six weeks**; ch 266's *six weeks* at forty-nine days is **seven weeks**.
+
+**8 — Ch 257's shed transaction contradicted itself in three consecutive beats.** The seller wiped the board
+clear and paid, and then told her *you are short two strokes*, which the following paragraph turned into a
+promise for the twenty-seventh against a debt that was already gone. **The lines are now consistent with
+every other chapter and with this file**: twenty-nine coppers, twenty-three counted out and promised on the
+seventeenth, six carried through the rain on the eighteenth, board standing clear, and the nineteen-fifth's
+wipe ceremonial, which ch 258 already said it was. The ring-size mark in the dirt and its two coppers for the
+seconds survive as the thing the seller charges her for, which is what ch 257's own building scene was
+already paying for. Ch 266's season-count line, which read *Eighteenth eleven paid*, is now **Eighteenth
+six at the shed**, and its clearing paragraph states the same three figures.
+
+**9 — Ch 262 was out of order and wrote the plank twice.** The original put an evening at the plank, then the
+hut, then a morning on the bank, then a second evening at the plank. **Reordered**: the taking, what she
+did, **the morning on the bank**, the column beside the column, **the plank (once)**, the evening. No card
+beat moved and the document beat is still ch 262 with the keeper taking the fair hand unknowing.
+
+**10 — Two absolutes introduced in the repair were checked and pulled back.** *The only person who would
+ever know…* became *nobody else on the reach had a word for it*; *…it would outlast both of them* became
+*…put it somewhere past the reach entirely*; *that was the part that would take her years* became *she sat
+with that for a long while and let it be true.* **One named weekday was typed in error and removed before
+saving.** Straight apostrophes were swept after the last edit; the batch is curly throughout.
+
+**11 — One contradiction the expansion introduced and closed in the same pass.** The new beat at ch 267 where
+a man asks whether the morning's sound was thunder ran against the chapter's own *no person on the yard said
+one word*. **The silence kept and the question kept**: the yard asked once, took *Right*, and never came back
+to it, and the closing line of that section now says the yard did not come back to it, the way rain is a
+thing that happened in the morning. Ch 265's *five days of bank work* to the twenty-seventh is **one**.
+
+### Proposed repairs recorded, not applied — outside this phase
+
+**Ch 251 (Volume 5 Batch 0001) reads *on the twenty-sixth of a month three months ago* for the day she stood
+two hours in front of the board and took ninety parts of an answer from a man nine feet away. Ch 236 dates
+that at day 459; ch 251 is days 503–504, so the interval is forty-four or forty-five days, and *three months*
+is the same overstatement finding 3 names.** Ch 251 is in a closed phase and was not opened. **Ch 262's
+*twenty-sixth of a month* and ch 251's refer to the same twenty-sixth, and if that day is ch 236's, ch 262's
+now carries no figure at all, so the two chapters no longer contradict.** Batch 0001's own *two months back*
+at ch 243 points at an event older still and is untouched. **Leave ch 251's interval to a phase that may
+reopen Volume 5 Batch 0001.**
+
+### Nothing else in the batch was touched
+
+Foundation 9 to Golden Core 1 at day 512 unchanged, on the far side, in the open, where nothing is announced;
+**one bracketed layer line in fifteen chapters, at ch 258, verbatim to the pinned text**; the turn gone out
+of the bar stroke permanently and nine holds of eleven; merit settled once on a listed tending; the Ledger not
+ordered, not held, not priced and not refused; the claim standing, actionable on the far side, moved a second
+time and not answered; three refusals in three rooms with three voices; **nothing planted for ch 268 and no
+chapter ends with her thinking about leaving**; Yuan sparse, present tense, buying nothing, and **no figure of
+what is left of him anywhere in ch 253–267**; eleven stubs in four marks; Hou Sanliang unpaid, patient and
+never met; the date in Lowwater untouched; the register still reading *reconciled*; MEMBER ABSENT unraised;
+Shen Xiu unforgiven and unthanked; ch 150's refusal untouched; the year of non-forgiveness unmentioned and
+still carrying; Feng absent and his fair copy spent at ch 262; the surface answer still paid once, at ch 267,
+in a worker's mouth, in short sentences, with the structural answer withheld and the tenth part not given.

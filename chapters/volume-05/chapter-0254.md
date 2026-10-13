@@ -18,6 +18,8 @@ She came up with the bar over her shoulder and set it against the leg of the tre
 
 The clerk waited until she had her hands down. He had manners, or an office had trained manners into him, and the difference did not matter.
 
+He set the slate on the trestle and turned it round so the marks faced her, and she could not read the marks, because they were in a shorthand nobody teaches in a stone yard and nobody at eighteen in one has ever had cause to learn. He turned it back without noticing that she had tried.
+
 “The room sent me about the sheet,” he said. “The one on the spike with the figure on it.”
 
 Behind him the yard worked on. Stone came up the sledge and went on carts. Nobody stopped to listen, because a clerk at a trestle is a thing that happens on a working reach and men who are paid by the day do not spend the day on it.
@@ -43,6 +45,14 @@ Four sentences and no adjective, the same price said in a different room with a 
 “And who gives them,” she said.
 
 “She does,” he said. “The woman at the top of it. Nobody takes them off a paper somebody else read out. She says it and the room takes them. Until she says it the figure stands and it costs the room nothing to stand.”
+
+“And if I said it,” she said. “Would the room read my hours onto that sheet.”
+
+“Does not matter what I do with it,” the clerk said. “She says it and the room takes it. What the room does with it is the room’s business, and all of it is after she has said it.”
+
+“Then it is all after,” she said, “and before is still mine.”
+
+“Before is yours,” the clerk said.
 
 He closed the satchel. He had said the whole of what he had come to say, and he had said it to the woman at the top of the column without knowing she was the woman, because he had never asked her name and the book had it at the top in a hand he could not read.
 
@@ -71,6 +81,8 @@ The clerk’s visit went round the yard the way things go round yards, without w
 She wanted to tell them it meant nothing. That was the want that sat under the work all afternoon, to turn round at the sledge and say it out loud, that the office had asked and she had said no and the yard was the yard and nothing had changed.
 
 She did not. A refusal at a trestle is not yard business until the woman makes it yard business, and she was not going to make eleven men carry a figure that had been hers since she was sixteen.
+
+Da came by the bank near the fourth hour to move a stone off her line and did it in one lift without a word, and went back up the ramp. It was the only thing that had happened on the yard all day that she had not had to pay for.
 
 So she worked, stone after stone, setting down early, moving by hand, nine holds and four fingers, the furnace unlit and the body what it was, breath in four counts, arm open a third of the time.
 

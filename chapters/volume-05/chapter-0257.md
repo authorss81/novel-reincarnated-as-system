@@ -6,9 +6,9 @@ The seller took the coins without counting them twice, counted once, and wiped t
 
 Ning Yan stood with water running off her coat and felt something close to gladness, which frightened her more than the debt, because gladness on that reach was always followed by a price.
 
-“You are short two strokes,” the seller said. “Brick waits. Wire waits. Clay waits. Breakage is still yours.”
+“The brick is yours and it goes on the cart today,” the seller said. “Wire and clay go with it. Breakage is still yours, and there is no second crucible on that board and no money behind you for one.”
 
-“On the twenty-seventh,” Ning Yan said.
+She marked the ring in the dirt at the end of the shed-yard with the stick while Ning Yan watched, two strokes across and one deep, the size of a base, and said a base was not stock and came out of the mill’s seconds at two coppers the ring.
 
 She walked back to the yard in weather that had settled into the ground, and she worked the day on the heavy end with nine holds in the left hand instead of eleven, and learned what two holds cost.
 
@@ -19,6 +19,8 @@ Two holds is not two ninths of a hand. It is the turn at the end of a stroke and
 She woke before the fourth hour with the ring of brick standing behind the hut in the dark, and checked it before the yard the way she checked everything, bar laid across, level both ways, wire holding.
 
 The morning was clear after rain, and the track ran water at the bottom, and she walked to the yard with the bar over her shoulder and the bound hand in her coat, and counted the days to the twenty-seventh on her fingers as she walked.
+
+At the trestle she put the bar against the leg and worked each of the nine holds once before the first stone, in order, the way a person tests an instrument, and the ninth was the smallest of them and the one the share had taken, and it was still there and it was smaller than it had been.
 
 Nine days. Five coppers a day. Six on the board, six in the cloth from the kiln shed. The arithmetic held the way columns hold, in order, with dates.
 
@@ -40,6 +42,8 @@ She wanted, concretely and without ceremony, to finish the day without dropping 
 
 After the plank she went to the hut and built the furnace base in the dark behind the three boards, out of seconds from the mill kiln bought for two coppers out of bread-adjacent money she could not spare and spared anyway.
 
+She had no lamp and did not want one, because a lamp behind three boards at four hundred yards from a yard is a thing somebody sees, and the only person who would have seen it was the keeper, and the keeper came up that track every nine or ten days whether or not there was anything to put in it.
+
 The base was a ring of firebrick on beaten earth, levelled with the flat of the second finger and checked with a bar laid across, twice in both directions. The wire went round it in three turns, twisted with the left hand’s nine holds and held with the right’s four fingers.
 
 It took two hours, and her breath held at four counts through all of it, and the cold sat in her the way a stone is cold, and the hut held none of the day’s fire because there was no fire in it. She worked the wire turns twice over, because wire loosened in the night cold.
@@ -47,6 +51,8 @@ It took two hours, and her breath held at four counts through all of it, and the
 She sat back against the boards and looked at the ring in the dark, and what she felt was not pride. It was grief, sudden and complete, for the eleven holds she had built from nothing since the fourth of a month four months back, two of them now gone into a settled share that would not come back.
 
 She had paid foundation for channel the way she had paid it two seasons back on bad flat, told before spent, said yes to, and the grief was the price of having said it with her eyes open.
+
+What she did not know, and could not have told anybody if they had asked her, was whether the ninth hold would go the same way on some other day for some other thing. She had assumed it would. Assuming it was free, and she had been living on the free assumption for about a day and a half.
 
 He said nothing that night. There was nothing to buy and nothing to advise, and he knew the shape of her grief the way he knew the shape of everything she carried, from the inside and without touching it.
 
@@ -59,6 +65,8 @@ She had asked the seller one question when she took the seconds, about the seati
 She seated it slow that night, eleven minutes with the flat of the second finger on the rim, checking the seat the way she checked everything, turning the small crucible a finger’s width at a time until it sat without rocking.
 
 The clay took the shape of the seating and held it. The wire held the brick. The ring stood level under the bar laid across, true in both directions.
+
+Twice in the night she went out and laid the bar across it again, because cold moves earth and earth moves a ring, and both times it had not moved enough to matter, and both times she went out anyway.
 
 It was the best work she had done with nine holds and four fingers, and no person on the reach would ever see it, because a furnace base behind a hut was not a thing people looked at, and that was the whole of its honesty.
 
@@ -76,7 +84,7 @@ She wanted the furnace lit before the twenty-seventh. That was the decision she 
 
 She would work every day to the twenty-seventh, pay the board down stroke by stroke, and take the stage at her own order in the open where nothing was announced, the way she had taken the ninth on the far end of working ground fifty days back.
 
-Fifty days since the ninth. Forty-one since the book took her name. The intervals held, the way intervals hold when a body is built out of wages and not wishes.
+Forty-nine days since the ninth. Forty-one since the book took her hours. Seventeen since the book took her name. The intervals held, the way intervals hold when a body is built out of wages and not wishes.
 
 She folded the ticket and put it in the oilcloth with the ten stubs and the chalk strip, above the plate she never described, and laid the bar by the door.
 

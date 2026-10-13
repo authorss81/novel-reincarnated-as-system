@@ -24,11 +24,21 @@ The store was the far-side counter and five coppers, bread at the seventh hour, 
 
 “Nothing but the asking,” he said. “A figure is only paid against something. The only things on this side a figure can be paid against are hours worked past the last working point. There is one run with dates and it is yours. If you ever say yes the room takes them. Until you say it the figure stands.”
 
+“And if I said yes and then came to want to have not said it.”
+
+“Then you have said it,” the man said. “That is the whole of what saying is. I have been sixty for a good while and I have watched a good many people say a thing to make a room stop, and the room does stop, and the thing is said.”
+
+He said it without weight, the way a man says a thing about a road, and he was not warning her and he was not persuading her. He was telling her what the shape of the door was so that she would not walk into it thinking she could walk back out.
+
+She looked at his hands on the counter. They were clerk’s hands gone soft at the joints, stained at the second finger the way her own were stained at the second finger, and she thought that he had been a person on a book once and had ended up in a store and that this was not an accident that had happened to him this month.
+
 The price a third time, in a third room, with a third voice in it. At the counter at speed. At the trestle by daylight. At a store at the seventh hour, mild and direct, from a man who did not know the figure was hers and had never asked.
 
 ## The Shape
 
 She felt the anger come up, and under it something colder, which was the knowledge that the room would keep sending voices until she said yes or the season ended, and the season had no date on the page and no length, only a far date in a different hand.
+
+What frightened her about the third voice was not that it was a voice. It was that it was the last one available to the room without a paper, and a room that has run out of voices sends somebody with a reason, and a reason is harder to refuse than a price.
 
 She gave the refusal the shape the room had earned, plain and out loud, with her hands down and nothing in her coat.
 
@@ -47,6 +57,8 @@ She stood outside with empty hands and watched the store work the way stores wor
 A boy of about nineteen bought nails by count and argued the count the way boys argue counts, and the storekeeper counted again without hurry, and the boy paid and went out satisfied.
 
 It was ordinary and settled and lit, the way the whole reach was ordinary, and she stood in it with three refusals standing behind her and a furnace banked four hundred yards east, and felt the distance between the store’s morning and her own the way she felt the cold, as a thing that did not stop.
+
+She stood there past the point of needing to stand there, which was new, and she worked out what it was: that she had nowhere else to be that hour and nowhere to be it that was worse. That was a freedom and it had the shape of a room four hundred yards up the track.
 
 She wanted the morning to stay ordinary. That was the want, sudden and small, to stand at a counter where figures were nails and oil and bread, counted and paid and done.
 

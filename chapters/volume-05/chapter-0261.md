@@ -16,6 +16,8 @@ She told the man at the plank before the day was worked, standing at the trestle
 
 He wrote nothing, because there was nothing to write. A day not worked is a day not paid and no hours can be moved in either direction by anybody, and the pay-day on the twenty-seventh would arrive whether or not she worked the twenty-second.
 
+He turned the page so the run below her line was clear before she had asked for it, which was the only kindness in the exchange and he did it without looking up and would not have called it anything.
+
 “The road,” he said. It was not a question.
 
 “The road,” she said. “Back before dark.”
@@ -25,6 +27,10 @@ He nodded once and went back down the column, and she set the bar against the le
 The track was strange under her feet without the weight, the rise steeper for being unloaded, the wind with nothing to lean against. She walked it the way she had walked the bad flat in the dark, one stretch at a time, counting breath in four.
 
 At the post she stopped the way she had decided two hundred yards back she would not, and looked at the board for about two seconds, at the strips going up every nine or ten days whether or not there was anything to put in them, and the strip that had gone up this month that she would never be able to read.
+
+The last strip on it was four days old and damp at the lower corner, and the paste had not taken properly at that corner and the cloth had lifted about the width of a thumb, and she put her hand out and pressed it down.
+
+It was not courage and it was not a decision. It was a thing a person does with a loose corner when her hands are empty and she has four hundred yards of track to walk.
 
 Then she walked on, because she was not going to stand in front of it again, and the road west was past it and not in it.
 
@@ -48,6 +54,10 @@ She walked to the marker and put her hand flat on it for about two seconds, the 
 
 It was. Ruts west as far as she could see, wet at the bottom, passable. Nine days hard going. Ninety for a person and one bag off the far end of the reach. The coming a different number nobody had quoted.
 
+A cart came out of the west while she stood there, loaded and covered, going east at a walk, and the driver did not slow for her and did not look at her either, and she stood in the wet and let it go past the way a thing goes past that has no part in her.
+
+Three days to the coming round, if it came when it came, which it would not. She had wanted a date since the fourth hour and the road had given her a loaded cart going the other way and nothing else.
+
 She felt love go through her like a hand, for the nine men and the floor and the light, and under it grief, and under that the hook of the booking holding her where she stood, and she stood until the driver called time.
 
 “What does the coming cost,” she asked on the ride back, because a rate asked on a cart is a rate in the register she trusted, plain and with nobody behind it.
@@ -64,11 +74,13 @@ A day not worked is a day not paid. The twenty-seventh would pay for the days in
 
 She went to the plank in the dusk and stood at the book with empty hands, and the man at the plank did not look up, and the column stood with the twenty-second absent from it the way an unworked day stands, present as a gap and nothing else.
 
+She put her finger on the day above the gap and the day below it and measured the space with her thumbnail, about the width of a nail, and there was nothing written in it and nothing to write in it, and she took her hand off the book and left it alone.
+
 ## The Morning After
 
 She went out at the fourth hour with the bar over her shoulder and took the middle bank without being told, because the heavy end was earned back and not assumed, and Da watched three stones land and pointed at the ramp without a word.
 
-The heavy end took her back the way yards take back labour that spent a day on a road and came back, without comment and without welcome, stone after stone, set early, move by hand.
+She took the heavy end back the way yards take back labour that spent a day on a road and came back, without comment and without welcome, stone after stone, set early, move by hand.
 
 A man at the easy end asked where the road went, the way men ask things they have no stake in, and she answered it the way workers answer, short and with stone in her hands.
 

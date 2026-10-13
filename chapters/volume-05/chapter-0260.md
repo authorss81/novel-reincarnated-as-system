@@ -30,6 +30,8 @@ At midday she carried stone to the ramp and Da said it the way he said everythin
 
 “With no date,” Da said. “Round carries what it carries. Comes when it comes.”
 
+He put the stone on the cart and turned the bar of the gate over with his hip, and she saw that the sheet was not going to the bag rail and was not going to the man’s own box, and it was not going anywhere she could name, which was the whole shape of it.
+
 Nine days west. A paper with a figure on it riding under a cover with bags and persons, on a round that went when it was full and came when it came, toward a counting room in Lowwater with a date in it entered by a hand that was not the counting room’s.
 
 She set the stone down and went back for the next, and she worked out what had changed and what had not, the way she worked out everything, with the bar in her hands.
@@ -52,6 +54,16 @@ She asked the question a worker asks, in the ordinary voice, with her hands down
 
 Two of the four men looked up at the word figure the way men look up at words that might be work, and looked down again when it was not.
 
+The man at the counter turned the spike about a finger’s width so the sheet sat square on the desk, and she watched him do it and understood, standing there with her hands down, that the spike had been squared by that hand every morning for a month and that none of the squaring had ever been about her.
+
+“Where does it stand now,” she said. “It stood at the counter and I was told it was standing. Where is it standing now.”
+
+“On the spike,” he said, “where it stood when you asked. Office to office does not change where a sheet stands. It changes which room is holding it.”
+
+“Then no room is holding it.”
+
+“The room that has it is holding it,” he said, “and a room nine days west will be holding it, and in between it is on a cart under a cover with bags on it. That is what moving is. It is not the same as answering.”
+
 “With whose hand on it,” she said.
 
 “Office hand,” he said. “Not a person’s. The round carries office paper the way the trestle carries hours. That is what the round is for.”
@@ -62,13 +74,21 @@ Two of the four men looked up at the word figure the way men look up at words th
 
 He did not know the figure was hers and he had never asked. He read the standing off the sheet in front of him at the speed a man reads, and the four men heard papers read out loud the way they always heard them, and were not interested.
 
+She asked him one more thing and it was the last thing she asked in that room that day, and she asked it because the first answer had been true and had left a door open, and she had learned at sixteen that an office which leaves a door open has already decided to come through it.
+
+“Does the room want anything else,” she said. “It wants the hours. Does it want a person.”
+
+“No,” he said. “A figure is paid against hours or it is not paid at all. The room has no use for the woman. That is not a courtesy, it is how the sheet is written, and I have read it out four times now to four different rooms and it says the same thing in all of them.”
+
+She put that away the way she put away everything the counter had given her, in the place behind the plate she did not describe to herself, and it was the first thing in a month an office had handed her that was actually for her.
+
 She felt relief go through her first, that nothing had been taken, and then anger, that the paper had gone without her word on it, and then the cold settling underneath both, which was the knowledge that an office that can act will act in the way offices act, by writing, whether or not the woman is standing at the counter.
 
 ## What Moved
 
 She walked back down the track in the dusk past the post with the board on it, and worked out the movement the way she had worked out the second asking on the fifteenth.
 
-First movement: read aloud in a room that could act, on the twenty-ninth of a month three months back. Standing, actionable, not answered.
+First movement: read aloud in a room that could act, on the twenty-ninth of a month fifty-two days back. Standing, actionable, not answered.
 
 Second movement: a draft west on a carrier’s round with no date on it, office to office, nine days hard road. Standing, actionable, not answered.
 

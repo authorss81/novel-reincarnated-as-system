@@ -2,7 +2,7 @@
 
 On the twentieth she learned the furnace the way she had learned every stage since the thaw, by working under it.
 
-She went out at the fourth hour with the bar over her shoulder and the furnace new under her foundation, and the bank looked the same as it had looked for seven weeks, low soil over stone, sledge, ramp, carts, eleven men, Da at the top with one hand on the rail.
+She went out at the fourth hour with the bar over her shoulder and the furnace new under her foundation, and the bank looked the same as it had looked for six weeks, low soil over stone, sledge, ramp, carts, eleven men, Da at the top with one hand on the rail.
 
 The first stone told her the shape of the change. The bar went under and came up with the furnace behind it, stronger through the middle of the stroke than she had ever been, stone rising the way it rose for men with two whole hands and whole shoulders.
 
@@ -14,6 +14,8 @@ She turned it into method by the sixth hour, the way she turned everything into 
 
 It cost time on every stone. It cost the heel-gone palm a fresh opening by midday, bound with the spare strip. It cost her the standing she had held on the heavy end, because Da watched three stones land wrong and moved her to the middle of the bank without a word, the way foremen move labour that has changed shape.
 
+The three stones were not bad stones. They were the same stones she had turned forty of the day before and the day before that. The bar simply no longer ended where she meant it to end, and no amount of arm made up the last hand’s width.
+
 She felt shame go through her like weather, hot and complete, and under it anger, and under that a hard, small gladness that the furnace was hers and lit and paid for, and none of the three moved the stones any faster.
 
 The middle of the bank was honest work and she did it honestly, stone after stone, setting down early, moving by hand, breathing in four counts, the furnace steady under her like a second spine.
@@ -22,7 +24,21 @@ The middle of the bank was honest work and she did it honestly, stone after ston
 
 The middle bank was lighter stone and tighter footing, and the men there worked a rhythm she had to learn by watching, shorter lifts, quicker sets, no time between.
 
+It ran two stones in five light and three in five heavy, and the light ones went fast and the heavy ones took the hand round, and by midday she had worked out that the place Da had put her was the place she would have chosen, which was the part she had not expected.
+
 A woman of about thirty with a scarred forearm worked the next stretch, and she watched Ning Yan for half the morning the way workers watch changed labour, and at midday she said it plainly, sitting on the sledge with empty hands, without weight.
+
+## The Count
+
+The woman counted too, in her own way, and at about the third hour she said a number over the top of her own stone.
+
+“Nineteen.”
+
+“Nineteen what.”
+
+“Ours,” the woman said. “You are one under me and I am one under the man at the far rail. Yesterday you were three over me.”
+
+Ning Yan set her stone down early and looked at the two stretches either side without meaning to, and the woman went back to her own rhythm and did not say one word more about it that day, and that was how the middle bank told her where she stood.
 
 “You lost the turn.”
 
@@ -51,6 +67,8 @@ She watched it go down with the furnace steady under her own foundation, one fir
 The trestle fire warmed whoever stood in it while it burned. The furnace warmed nobody but her and never went out. That was what twenty-nine coppers bought, and the price of whole hands, and breakage hers and done.
 
 A man across the fire said something about a wheel to Da, and Da answered it, and the talk went on the way talk goes on at fires, and she sat inside the eight feet with stone dust on her coat and said nothing, because the arrangement stood and the word was available in no form.
+
+A man from the easy end shifted over on the stones to make room for her the way he had made room a hundred times, and she sat where she had sat for six weeks at the edge of the eight feet, and he did not ask why she was not closer, and she did not say, and the not-asking was the whole of what the yard had given her since the crossing.
 
 ## The Test
 

@@ -38,6 +38,8 @@ And merit was the only thing in the world that lowered what he carried, and the 
 
 She wanted the six coppers the way she wanted the seventeenth’s pay, because the shed woman’s chalk strokes stood at twenty-nine short and the seventeenth was today. That was the concrete want, and under it was the older one, the one she did not say out loud even in her own head.
 
+She had not eaten since the bread at the seventh hour and she was not hungry, and there was no version of this day in which she turned that into something she could spend.
+
 ## The Pay-Day
 
 She went to the plank at about the seventh hour and the man at the plank read the run and tore one more strip off at the rule, face down on the plank, into her coat.
@@ -66,6 +68,8 @@ The water came over her shoes in the first hour and stayed there. The brick edge
 
 By the fourth hour she had the measure of it. It was the blind run’s small brother, fourteen days by hand compressed into one day in a flooded shed, no lime marks and no lime, only brick and water and a firing that would not wait.
 
+The kiln-master had said the firing was the second week out. She worked that into the count and did not let the count work into her, and by the sixth hour the two heaps at the back had gone to one long heap she was turning the whole length of.
+
 Her breath stayed at four counts. Her right arm stayed open a third of the time and she worked round it the way she always worked round it. Nobody came to check her and nobody relieved her. There was no version of the shed where a person came.
 
 ## The Grades
@@ -85,6 +89,8 @@ What she felt in the sixth hour was not despair. It was a clean, cold fury at th
 At dark the kiln-master came with a lamp, a man of about sixty with ash on his coat, and walked the stacks with one finger on the grades and said nothing for about four minutes.
 
 Then he said, “Cleared,” in the ordinary voice, and paid six coppers into her hand, kiln money, wet and warm from his pocket.
+
+He went back out through the water to the second heap and looked at that too, and came back and nodded, and did not pay for it twice, and the not-paying-twice told her more about the man than the six coppers did.
 
 She stood in the flooded shed with water over her shoes and six coppers in a hand with four fingers on it, and she felt the thing go through the ground the way she had felt it go two seasons back on the far end of bad flat.
 

@@ -35,6 +35,19 @@ This file is **append-only and long, and most of it is history.** You do not nee
 - **This file is never pruned by a writing phase.** If a section is wrong, correct it in place and say
   so in the phase's repair note rather than deleting the record.
 
+- **Batch 0002 of Volume 5 has been through review and repair.** `logs/volume-05-batch-0002.review.log` found
+  two duplicated paragraphs (ch 264, ch 267), an elapsed interval wrong in three chapters (*three months back*
+  for fifty days), a monotonic length decline across the batch, and one local repetition in ch 267. Applying
+  those, four further interval slips of the same class, a shed transaction that contradicted itself in ch 257,
+  a season count in ch 266 that named a figure no chapter supported, and a section order in ch 262 that put an
+  evening at the plank before a morning on the bank and then wrote the plank again — **all repaired. The batch
+  grew 21,450 → 25,382 words of body prose (average ~1,430 → ~1,692) and the decline is gone.** Full
+  reasoning, every figure, and one proposed repair for ch 251 that belongs to a closed phase are in
+  `state/continuity.md` under *Volume 5 Batch 0002 — REVIEW REPAIR*. **A Batch 0003 drafter reads the repaired
+  chapters, not the review log.** The fifteen titles, the day table, every pinned beat, the single bracketed
+  layer line and the surface answer at ch 267 did not move, and no chapter in Volumes 1–4 or in Volume 5
+  Batch 0001 was opened.
+
 - **Batch 0001 has been through review and repair.** `logs/next-0004.review.log` found seven duplicated
   closing paragraphs, a stub-count contradiction, four instances of authorial scaffolding, straight ASCII
   quotes in four files and a false word-count claim; three further day and count slips were found against
@@ -43,7 +56,7 @@ This file is **append-only and long, and most of it is history.** You do not nee
   the day table and the planned plot did not move, and no chapter in Volumes 1–4 was opened.** The batch is
   **25,886 words of body prose over fourteen chapters, average ~1,849**, three chapters under the 1,800 guide
   (241, 243, 246) and none above it. **A Batch 0002 drafter reads the repaired chapters, not the review log.**
-- **Volume:** 5 of 16 — **Mortal Ash (ch 239–298)** — outlined in `outline/volume-05.md`. **BATCH 0001 (ch 239–252) WRITTEN — 25,886 words of body prose over fourteen chapters, day 471 to day 506, ZERO bracketed layer lines in the batch. BATCH 0002 (ch 253–267) WRITTEN — 21,450 words of body prose over fifteen chapters, day 507 to day 521, ONE bracketed layer line in the batch, at ch 258. BATCHES 0003 (ch 268–283) AND 0004 (ch 284–298) ARE NOT WRITTEN AND ARE NOT YET CARDED.** Volume 4 remains closed and audited: Batch 0001 (ch 179–192), 28,607 · Batch 0002 (ch 193–208), 31,900 · Batch 0003 (ch 209–222), 28,581 · Batch 0004 (ch 223–238), 31,484 — file set 120,572 words. Volume 3 file set 135,014.
+- **Volume:** 5 of 16 — **Mortal Ash (ch 239–298)** — outlined in `outline/volume-05.md`. **BATCH 0001 (ch 239–252) WRITTEN — 25,886 words of body prose over fourteen chapters, day 471 to day 506, ZERO bracketed layer lines in the batch. BATCH 0002 (ch 253–267) WRITTEN AND REPAIRED — **25,382 words of body prose over fifteen chapters, average ~1,692**, day 507 to day 521, ONE bracketed layer line in the batch, at ch 258. BATCHES 0003 (ch 268–283) AND 0004 (ch 284–298) ARE NOT WRITTEN AND ARE NOT YET CARDED.** Volume 4 remains closed and audited: Batch 0001 (ch 179–192), 28,607 · Batch 0002 (ch 193–208), 31,900 · Batch 0003 (ch 209–222), 28,581 · Batch 0004 (ch 223–238), 31,484 — file set 120,572 words. Volume 3 file set 135,014.
 - **Volume 5 goal**, fixed by `outline/series.md` §9: *In this volume, Ning Yan must finish the world they came from, or leaving it costs everyone she left standing in it.*
 - **Chapter written:** **1–267. THE NOVEL RUNS TO CHAPTER 1000. VOLUME 5 IS OPEN AT CH 267.**
 - **Next phase:** **the Volume 5 Batch 0003 drafting phase — ch 268–283 — and its prompt is `workspace/volume-05-batch-0003/PROMPT.md`.** It is the only workspace directory this run created and it has no `.done` marker, which `PHASE_SYSTEM.md` gives to the controller alone. **The blocker recorded at the Volume 4 close and at the Volume 5 planning close is RESOLVED — `workspace/volume-04-close-record/` and `workspace/volume-05-batch-0001/` both hold `.done` markers (commits `88ddc33` and `3e32724`) and neither is deferred. Do not raise it again.**
