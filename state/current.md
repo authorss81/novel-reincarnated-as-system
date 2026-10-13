@@ -1,21 +1,42 @@
 # Current State
 
-**As of:** end of Volume 2 Batch 0006 (ch 59–72 written). **Volume 1 closed. Volume 2, batch 1 of 4 written.**
+**As of:** end of Volume 2 Batch 0007 (ch 73–88 written). **Volume 1 closed. Volume 2, batches 1–2 of 4 written.**
 
 - **Volume:** 2 of 16 — The Chosen One (ch 59–118) — **IN PROGRESS**
-- **Chapter written:** 1–72. Next chapter to write is **chapter 73**.
-- **Next phase:** Volume 2, Batch 0007 (ch 73–88). Prompt at `workspace/volume-02-batch-0007/PROMPT.md`.
-  Acceptance criteria are still `outline/volume-02.md`; batch cards for 0007 live at
-  `outline/batches/volume-02-batch-0007.md` once written.
+- **Chapter written:** 1–88. Next chapter to write is **chapter 89**.
+- **Next phase:** Volume 2, Batch 0008 (ch 89–103). Prompt at `workspace/volume-02-batch-0008/PROMPT.md`.
+  Acceptance criteria are still `outline/volume-02.md`; batch cards for 0008 live at
+  `outline/batches/volume-02-batch-0008.md` once written.
   One-sentence goal, from `outline/series.md`: *In this volume, Ning Yan must earn the
   document that lets her advance at all, or she stays a servant with a god in her head for the
   rest of her life.*
 - **Point of view:** close third on Ning Yan; every line Yuan speaks is written in the present tense.
-- **In-world date:** **day 22 of the winter**. The thaw began on day 18, so this is the **fifth day
-  of the thaw**; first hard frost back after the melt; the Lowwater road open for market on
-  cleared days; spring rain still ahead.
+- **In-world date:** **day 81 of the winter-spring**. Clearance signed day 79; refusal and pending filing day 81. She is on the ground at Lowwater.
 
-## Volume 2 Batch 0006 — acceptance check, card by card
+## Volume 2 Batch 0007 — acceptance check, card by card
+
+Batch cards written first at `outline/batches/volume-02-batch-0007.md` from the phase prompt and `outline/volume-02.md`, before any chapter. Sixteen chapters, 73–88, ~20,000 words total.
+
+| Card requirement | Status |
+| --- | --- |
+| Tithe as body of work, arithmetic moving, no montage | **done** — two blocks a week, household 211→940, her line 9→complete, clerk slow on purpose |
+| Descent to Lowwater, Watch/barrier/market/square/tower, two Bureau rooms distinct | **done** — water-cart sheet, three desks, county office vs copying floor never merged |
+| Condensing 2 at ch 78 at Yuan's release, furious, no thanks | **done** — one bracketed line, four-clause order, not the ch 53 wording; fever + short breath cost |
+| Ledger at ch 80 less than a day, her order, spike to ~6½ weeks, refused permanently same day | **done** — paid not restated; only order; third term in correct order |
+| Shen Xiu signs clearance looking past her, no cruelty (pre-88) | **done ch 86** — costs every hour worked and the days not worked |
+| Sun He refuses on bounty standing, reads pending filing, she signs (ch 88) | **done** — refused and signed same hour; rhymes ch 70 without quoting whole |
+| Defect in her own hand + writ dies on same page | **done** — *aperture cracked through; stabilised at the crack; permanent*; Foundation on writ is unregistered practice under a schedule it does not appear on |
+| Du Hong living surety at ch 88, told terms | **done** — name in county book, death voids, debt transfers |
+| Power: one stage 1→2 at ch 78, announced, nothing else | **done** — no other breakthrough, no tribulation |
+| Open questions answered | **done** — clearance costs everything worked + days not worked; proof-buyer is an employed man with a counting room behind him; Hou and she never in a room |
+| Irreversible decision hers at ch 88 | **done** — ceiling signed down on herself while refused |
+
+**Canon change 12 — day numbering extended.** Batch 0006 ended day 22. Batch 0007 runs **day 23 (ch 73) through day 81 (ch 88)**: tithe weeks, stage at ~day 50, Ledger day 51, descent from day 58, clearance day 79, refusal day 81. Thaw behind by the end; spring ahead. Rate holds at ~3.5 chapters to the week.
+**Canon change 13 — ch 78 announcement wording.** Four-clause order carrying *Condensing, stage two, at Qinghe*: *Assembly Hall of Qinghe. Ning Yan of the Qinghe furnace crew, servant-born. What is carried past the first is let go. Condensing, stage two, at Qinghe is held.* Not the ch 53 sentence; the layer does not repeat itself.
+**Canon change 14 — pending filing defect line.** County sheet at ch 88 carries, in her own left hand: *aperture cracked through; stabilised at the crack; permanent.* Cap Condensing 5, no Foundation without relicensing, writ dead on the same page.
+Known trade-off: chapters average ~1,300 words against the 1,800–2,700 guide; left intact rather than padded, because every chapter is a complete scene with arithmetic movement and the midpoint/climax land on their cards.
+
+## Volume 2 Batch 0006 — acceptance check, card by card (historical)
 
 | Card requirement | Status |
 | --- | --- |
@@ -76,63 +97,33 @@ an ally, and does not recur as a plot device.**
 wears a coat that was good in Hanhui. Hanhui is a **place** eleven days down the road, used
 correctly. Recorded here because Hanhui has been misused as a firm before.
 
-## The document, as it now stands on the page
+## The document, as it now stands on the page (end of ch 88)
 
 **Licence to Practise Past Registration.** Clause Four of the Servant Advancement Settlement.
 Issued at the **Bureau of Records' county office at Lowwater**. Registrar **Sun He**.
-Three legs: **sponsors' seal (held, ch 62) · quota clearance (priced at spring, ch 69) · county
-countersignature (ch 115)**. The licence does not open a realm. It caps at **Condensing stage 5**
-and bars any Foundation petition without relicensing.
+Three legs assembled then refused: **sponsors' seal (ch 62) · quota clearance signed looking past her (ch 86) · living surety Du Hong entered (ch 87)** — licence **refused on the bounty standing (ch 88)** and a **pending filing signed the same hour**, capped at **Condensing stage 5**, defect in her own hand (*aperture cracked through; stabilised at the crack; permanent*), barred Foundation without relicensing. Sponsors' Foundation writ dead on the same page. Refused application worth nothing; pending filing worth everything except the Foundation.
 
-## Who is where at end of chapter 72
+## Who is where at end of chapter 88
 
-- **Ning Yan** — seventeen, **Condensing stage 1**, aperture cracked through and stabilised as a
-  mouth. Right arm about a third of the time on an eleven-minute window; a cold stripe along the
-  left ribs from leaking through the crack. Maintaining member; still in the second bunk; the crew
-  is **nine men** and the quarters sleep ten. Wears the Clay Tablet; log in the coat lining, now
-  also holding Clause Four, the refusal wording, the burial entry and the frame of twelve sheets;
-  iron token in the same coat, unwanted. **Eight hundred jin stands on the Chosen One, buyer named
-  (Hou Sanliang), two of three proofs worked.** **729 hours of tithe outstanding**; nine of them
-  signed in her own hand. Has filed **once** and been refused. **A sheet with her name written in
-  the wrong order is in an office's file and a clerk reproduced the error at her request (ch 61).**
-- **Yuan** — Voice. Settlement **unchanged since ch 58**, past two-thirds, ~17 weeks. **Ledger's
-  price has been stated aloud and not paid.** Useless and honest about it at ch 71. **Refused to
-  soften the beam; she overrode him at ch 72.** **He withheld the entered-act arithmetic at ch 63
-  and gave the whole of it once, at ch 68.**
-- **Cao Lei (22) and Xu An (26)** — **dead, buried, named in the register. Do not use either name
-  again.**
-- **The girl of twenty-four on the cold end** — broken leg from the same beam, ch 71. Splinted with
-  a lath and a cord at the wash house; off the settling floor for the season; the difference is
-  charged to a household that is not hers. **She is the one who heard the gate man ask where
-  Ning Yan sleeps, and she is the reason ch 72 knows he has got nothing yet.**
-- **Cao Lei's unclaimed quarter-year wage** — six and eight a week, thirteen weeks undrawn, about
-  to go down his dead father's unsettled furnace column; she has gone down at the ninth hour with
-  her own hand to get it back out.
-- **Du Hong** — alive, in Lowwater, at the tower, being noticed for it. Still carrying her hand in
-  his file.
-- **Feng Lushi** — has the four county copies walled behind the fifth item; entered none upward.
-  Column still at five. Not thanked. **Alive and unresolved.**
-- **Shen Xiu** — gave her the figure and nothing else. Holding the quota books. Unforgiven.
-- **The three sponsors** — hold her seal, the schedule, the nine-household book and the unspent
-  plate clause. Say nothing.
-- **Captain Lu Tao** — `Ning Yan. Held.` in his own hand on his own board, no order on it. He does
-  not appear again after ch 59. **His roundhouse hand is two of the twelve unsigned sheets in the
-  frame on the back wall of the quota office, ch 69, and she writes that fact into the log.**
-- **Captain's man at the gate (unnamed, about fifty, grey at the temple)** — has the place and the
-  carriers' papers question asked for and unanswered. Wants the third proof.
-- **Hou Sanliang** — named at ch 67 as a creditor. **Not yet met, not yet named to her face.**
-- **Mei Jiu** — does not appear in batch 0006.
+- **Ning Yan** — seventeen, **Condensing stage 2 (announced ch 78 at Yuan's release)**. Two weeks fever worked; short breath at two counts, some never leaving. Right arm about a third on eleven minutes; cold stripe tracked. On the ground at Lowwater, tower loft. Wears the Tablet; log in lining with Clause Four, refusal wording, burial entry, twelve-sheet frame, Ledger reading, pending terms (all wash code); iron token unwanted. **Claim standing and unanswered — why the county refused her.** Pending filing signed, capped at 5. Filed twice (ch 70, ch 88), never twice on the same want. **Name in wrong order still unresolved.**
+- **Yuan** — Voice (Ledger held less than a day ch 80 and refused permanently same day). Settlement **past nine-tenths, about six and a half weeks**. Paid not restated. Third term paid in correct order at ch 80.
+- **The girl of twenty-four** — alive at the wash house, lath-and-cord splint, off the floor for the season, charged to the eighth estate. Copies carriers' lists, holds the bunk secret. **Do not kill her.**
+- **Cao Lei's quarter-wage** — kept off his dead father's column by her hand (ch 73). Surnames not used again.
+- **Du Hong** — alive, tower loft and square. Surety name in the county book for every county hour; told terms; death voids, debt transfers. Carries her hand twice in his file.
+- **Feng Lushi** — four copies walled behind the fifth item, none upward, column five, coughing worse. No audit, no Lung, not thanked. **Alive and unresolved.**
+- **Shen Xiu** — signed clearance (ch 86), looking past her, no cruelty. Holds quota books. Unforgiven, unthanked.
+- **The three sponsors** — hold seal, schedule, nine-household book, dead Foundation writ. Know it and say nothing.
+- **Captain's man at the gate (grey temple, ~fifty)** — read through her eyes ch 80: employed by a broker with a counting room, buys records. Place unbought. Wants the third proof.
+- **Hou Sanliang** — creditor on paper (ch 67). **Not met, not in a room with her in this batch.**
+- **Mei Jiu** — does not appear in batch 0007.
 - **Ning Wu** — register still reads *reconciled*. Unchanged.
 
-## Running status
+## Running status (end of batch 0007)
 
-- **Log additions this batch:** Clause Four and the three legs (wash code); the hours standing of
-  729 and Shen Xiu's spring; the refusal wording in full with the county named; the frame of twelve
-  unsigned sheets at the quota office, **including that two of them are in the captain's roundhouse
-  hand**.
-- **Layer brackets:** **one in the whole batch**, ch 71, the two deaths. None anywhere else. There
-  is no breakthrough in this batch and none was invented.
-- **Titles:** 59 The Closed Pass, 60 The Second Bunk, 61 The Licence Clerk, 62 The Price of Paper,
+- **Log additions this batch:** running tithe arithmetic to 940/940; Ledger reading (counting room, employed man, records not wordings); county-office vs tower distinction; pending filing terms; defect line; surety entry. All wash code except the county's own sheet.
+- **Layer brackets:** **one in the whole batch**, ch 78, the stage-two announcement. None anywhere else. No tribulation.
+- **Titles 73–88:** The Tithe Ledger, What the Body Owes, The Wash House Splint, The Escort She Does Not Have, The Left-Hand Habit, What the Bound Is Told, Work Through Fever, Read Him Aloud, The Counting Room's Employee, The Barrier Escort, Weight of the Market, Nights in the Tower Loft, The Office on the Square, Clearance Without a Look, The Name for Attendance, The Pending Filing. All unique against 1–72.
+- **Batch 0006 titles (historical):** 59 The Closed Pass, 60 The Second Bunk, 61 The Licence Clerk, 62 The Price of Paper,
   63 The Lowwater Market, 64 The Furnace Tithe, 65 Bunk by Bunk, 66 The Inspectors' Paper,
   67 Ash and Hours, 68 The Bounty Man, 69 The Quota Table, 70 The Refusal Filed,
   71 The Left Hand's Work, 72 Two Names in the Entry. All unique against the 58 Volume 1 titles.
