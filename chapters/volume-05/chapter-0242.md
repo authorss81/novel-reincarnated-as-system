@@ -16,7 +16,7 @@ The ramp is plank on earth and it is used by everybody at that yard all day, and
 
 It was cold and there was a wind coming off the rise that went through a coat as if the coat were not there. The stone was wet from the night and a wet slab does not hold a boot the way a dry one does, and that cost her time and nothing else, and it was the same for eleven other people and it did not make her special and it did not make her slow.
 
-Four fingers' worth of grip on the right hand. Eleven holds in the other one that hold to the end of a stroke out of about seventy that have been tried, and the order is gone out of that hand with the heel of it, so every grip is built from nothing, one at a time, in the second it takes to decide what to do with a bar.
+Four fingers’ worth of grip on the right hand. Eleven holds in the other one that hold to the end of a stroke out of about seventy that have been tried, and the order is gone out of that hand with the heel of it, so every grip is built from nothing, one at a time, in the second it takes to decide what to do with a bar.
 
 Right arm open a third of the time, and about a third more of the time than that by the sixth hour.
 
@@ -70,9 +70,9 @@ There is not one person within nine days of road who would do anything with it n
 
 ## What It Cost
 
-She lost the rest of that day's ramp work.
+She lost the rest of that day’s ramp work.
 
-That is the whole of the price and it is a real one: the heavy end is where the day's worth is and she was not on it after the second and a half, and the rest of the day she did the easy end with the eleven men at the easy end, at five coppers, the same as everybody.
+That is the whole of the price and it is a real one: the heavy end is where the day’s worth is and she was not on it after the second and a half, and the rest of the day she did the easy end with the eleven men at the easy end, at five coppers, the same as everybody.
 
 The day is paid at five coppers like every other day.
 
@@ -96,7 +96,7 @@ There are four men at that yard and none of them had come over at any point duri
 
 She wanted, for about a day and a half afterwards, for it to have been one of the hundred things that happen at a yard.
 
-A hand goes on a ramp. It happens, and a man puts a cloth on it, and a man at the pot says something about somebody else's hand, and on the seventh of the month it is a thing that happened to somebody else and she has heard about it. That is what a yard is for.
+A hand goes on a ramp. It happens, and a man puts a cloth on it, and a man at the pot says something about somebody else’s hand, and on the seventh of the month it is a thing that happened to somebody else and she has heard about it. That is what a yard is for.
 
 She got the other thing. She was the only person within nine days of road who would remember that it had happened on the ramp on the twentieth of a month, and there was not one other pair of eyes on this reach that had seen it happen.
 

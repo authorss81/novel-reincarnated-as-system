@@ -60,7 +60,7 @@ Under her, the whole way back:
 
 “You carry,” he said. “And it is carried.”
 
-The twenty-seventh closed on a woman with fifteen stubs, a furnace twice lit, a slowed hand, a true column, family paper placed and open, and about nine days of road behind her that she had walked both ways and would not walk again in this book.
+The twenty-seventh closed on a woman with fifteen stubs, a furnace twice lit, a slowed hand, a true column, family paper placed and open, and about nine days of road behind her that she had walked both ways and would not walk again.
 
 Something on the far side now held her hours, his line, and a figure no county could answer for. No county nine days west knew any of it.
 

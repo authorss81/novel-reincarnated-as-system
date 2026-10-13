@@ -4,7 +4,7 @@ On the ninth she came down the last rise and saw the floor nine days west spread
 
 She had been walking nine days. The bag strap had worn a groove in the good shoulder. The bread was gone since yesterday. The oilcloth against her ribs held eleven stubs in four marks, the dead weight tickets, and a paper for her brother’s name folded clear of every mark in the space above, written in her own hand with the flat of the second finger, eleven minutes a line, the way she wrote everything.
 
-She stood on the rise and looked at it, and what she felt was grief, plain and unadorned, the kind that has no machinery in it at all. Nine days of road and a floor and nine men and a tower with a light in it. She would not walk that reach again in this book, and she knew it the way she knew her own breath.
+She stood on the rise and looked at it, and what she felt was grief, plain and unadorned, the kind that has no machinery in it at all. Nine days of road and a floor and nine men and a tower with a light in it. She would not walk that reach again, and she knew it the way she knew her own breath.
 
 What she wanted was narrow and physical and she could have said it out loud without embarrassment. She wanted the hour on that floor to be an hour she had walked nine days for, in her own hand, with her name in the air where a man could hear it, and then she wanted the road east and the rest of her life.
 

@@ -3926,3 +3926,187 @@ body prose only: 1,749 · 1,467 · 1,891 · 1,766 · 1,510 · 1,780 · 1,758 · 
 pinned house form, so Volume 5's bracket budget of three remains spent at 258 / 275 / 292. All fifteen files
 close every speech with curly quotes and none carries a blockquote, a code fence, a table or a horizontal
 rule. No controller file was touched.
+
+---
+
+## Volume 5 close — repairs
+
+**`outline/volume-05.md` walked line by line against ch 239–298. Twelve faults were found in the chapters and
+repaired at word or sentence level. Nine findings are recorded with a reason and no repair. Four inaccurate
+state-file claims were corrected. The full table, the evidence and the fifteen preserved items are in
+`state/current.md` under `## Volume 5 close audit — CLOSED`.**
+
+**Nothing structural moved.** The planned plot, the sixty titles, the chapter order, the three pinned stage
+days (512, 556, 600), the pinned claim dates (294–295, 296, 297), the four batch climaxes, every irreversible
+decision, the two deliberate Batch 0004 drafting decisions (the far date on the thirtieth, and the family
+account settling in a far-side book) and the ending all stay where they were. **No chapter was replaced and no
+chapter was added or removed. `outline/series.md` and `outline/ending.md` are byte-unchanged.**
+
+**Volume 5 file set after repair: 101,204 words of body prose over sixty chapters**, chapter titles and
+`##` section headings excluded (101,160 before this close). **Per file, body prose:** 239 1,801 · 240 1,813 ·
+241 1,769 · 242 1,861 · 243 1,767 · 244 1,881 · 245 1,862 · 246 1,777 · 247 1,962 · 248 1,890 · 249 1,894 ·
+250 1,954 · 251 1,827 · 252 1,839 · 253 1,911 · 254 1,620 · 255 1,613 · 256 1,713 · 257 1,689 · 258 1,664 ·
+259 1,629 · 260 1,752 · 261 1,646 · 262 1,616 · 263 1,670 · 264 1,704 · 265 1,764 · 266 1,724 · 267 1,664 ·
+268 1,371 · 269 1,365 · 270 1,342 · 271 1,466 · 272 1,649 · 273 1,358 · 274 1,352 · 275 1,542 · 276 1,421 ·
+277 1,341 · 278 1,375 · 279 1,380 · 280 1,352 · 281 1,433 · 282 1,516 · 283 1,508 · 284 1,749 · 285 1,467 ·
+286 1,893 · 287 1,766 · 288 1,510 · 289 1,780 · 290 1,755 · 291 1,589 · 292 1,607 · 293 1,752 · 294 1,893 ·
+295 1,918 · 296 2,079 · 297 1,828 · 298 2,571. **None under the 1,300 floor; none above the 2,700 guide; no
+paragraph over 99 words.**
+
+### The twelve repairs, and why each one was made
+
+1. **ch 248 — a duplicated paragraph.** *She did not answer him and she did not spend a mark on it* is
+   byte-identical in ch 242 and ch 248. Recast at 248: *She did not answer him, and nothing in her hand moved,
+   and she let the sentence stand where he had put it.* Ch 242 keeps the earlier copy. **This is the defect
+   class the Volume 5 Batch 0001 and 0002 reviews found seven and two times respectively and repaired; the two
+   remaining instances in the volume were in Batch 0001 and slipped through.**
+
+2. **ch 275 — two duplicated paragraphs with ch 258, seventeen chapters apart.** The easy-end man's nod and the
+   whole lead-in to the order were byte-identical between the Golden Core 1 chapter and the Golden Core 2
+   chapter. Both recast at 275. **The order's own words — *Now. At my order. Here.* — are deliberately kept
+   identical in both chapters**, because ch 258 sets up the repetition as a ritual (*He had said one sentence at
+   the first Foundation and one at the ninth and he said them the same way each time… as a man reading out a
+   condition he had read out before*) and identical wording is the point. What changed is the frame, and the
+   new frame at 275 carries a true beat: *she had given the other two out loud and was not going to give the
+   third one under a board.*
+
+3. **ch 295 — a duplicated paragraph with ch 287.** *He tore one more strip off at the rule and put it face
+   down on the plank and into her coat* is byte-identical in the two chapters, and both are pay-day beats
+   eight chapters apart. Recast at 295. **Nothing about the pay-day moved.**
+
+4. **ch 278 — a named calendar month.** *A team that had gone down the cart road **in April***. The rule is no
+   calendar month named anywhere, and ch 219's *June* was repaired at the Volume 3 Batch 0004 review for the
+   same reason. → *in the middle of the season.* **This is the only calendar month in ch 239–298 and the only
+   one Volume 5's construction budgets failed to catch. A wider grep finds the month still named fifteen
+   times in closed Volumes 2 and 3 (February, March, June, September, December) — recorded as a proposed
+   repair below, not applied, because it is not this phase's manuscript to reopen.**
+
+5. **ch 251 — a wrong interval, carried out of Batch 0002 unapplied.** *On the twenty-sixth of a month **three
+   months ago***, against ch 236 at day 459 and ch 251 at days 503–504, which is forty-four or forty-five days.
+   `state/open-threads.md` recorded this as a proposed repair for *a phase that may reopen Volume 5 Batch
+   0001*; **this is that phase.** → *on the twenty-sixth of a month **a month and a half back***. The sentence
+   is about the ninety-parts answer given at ch 236, and no beat depends on the interval.
+
+6. **ch 256, 271, 283, 290, 292, 295, 297 — authorial scaffolding, seven instances across seven chapters.**
+   *for the rest of the book* (256) · *in this book* (271, 283) · *nothing in this book was ever going to be a
+   romance* (290) · *it had never in **five volumes** explained or advised anything* (292) · *the one road she
+   had gone down **four volumes*** (295) · *was going to carry for **the rest of the book*** (297).
+   `workspace/volume-05-batch-0004/PROMPT.md` carried an explicit rule — *No authorial scaffolding at all:
+   this chapter, this volume, the reader, this batch, in this batch, another batch* — and Batch 0004's own
+   continuity block recorded the count as **zero**. Every instance is cut and recast into the world's own time:
+   *the cost was in her hand and staying there* · *She would not walk that reach again* · *would not walk
+   again* · *it was never going to be anything else* · *it had never in four years explained or advised
+   anything* · *the one road she had gone down for four years* · *was going to carry for as long as either of
+   them was standing*.
+   **The three diegetic *this book* at ch 296 and ch 297 are untouched and are correct**: they are the
+   far-side office's own ledger, spoken by two people about the book in front of them. **The eleven *volumes*
+   that are physical objects — Feng's four hundred and eleven, the eleven volumes given to her, the eleven
+   volumes her order was read out of at ch 258 — are untouched and are correct.**
+
+7. **ch 298 — the surface answer re-voiced, in the final chapter.** *The bound had treated it as a gift. It
+   was a receipt* and *Being told was never the same as being charged, and she had worked that out on a reach
+   in the last week of a season from a worker's mouth in short sentences…* `outline/volume-05.md` pins the
+   surface answer to **ch 267 alone — *Paid exactly once, in a worker's mouth, in short sentences, and never
+   re-voiced anywhere in Batch 0003 or Batch 0004*** — and Batch 0004's own continuity block claims it is
+   *never re-voiced*. It was. **Both sentences cut.** The section now carries the private knowing without the
+   answer: *What a man at a fire had worked out in short sentences in the last week of the season was still
+   hers alone, and nobody inside the boundary had heard a word of it, and nobody ever would.* **The section's
+   three jobs are untouched: the announcement rule as a fact of her life, the silence, and the first silence
+   that is hers.**
+
+8. **ch 286 and ch 291 — a construction Volume 4 retired.** *About four seconds* ran **four times in Batch
+   0004** (286, 290, 291, 293) and Batch 0004's continuity block recorded it as **zero**. The Volume 4 close
+   audit retired it explicitly: *about four seconds… a declining rhythm, not a metronome, and not a number to
+   reach for again.* Recast at 286 (*understood the whole of the room before the stove had ticked twice*) and
+   at 291 (*She had a moment in which she could have said it, and it went past while she was standing there*).
+   **290 and 293 keep it, deliberately** — at 290 it is the width of the window in which she could have said
+   no, and at 293 it is the gap between the relief and the horror. **Two uses in fifteen chapters is a
+   measure, not a metronome, and the next phase should know the figure was thinned from four to two and why.**
+
+9. **ch 239–252 — forty-one straight ASCII apostrophes across all fourteen files of Batch 0001**, against
+   curly apostrophes throughout Batches 0002–0004 and a Batch 0004 record of *zero straight quotes or
+   apostrophes after the sweep*. Converted. **Volume 5 is now typographically uniform.**
+   **Proposed repair, not applied: the same character sweep across Volumes 1–4 is 1,588 instances** (292 /
+   353 / 513 / 430 by volume). It is a whole-manuscript change, mechanical in the same way, and it belongs to a
+   phase that is already sweeping character-level canon rules across volumes — the Volume 4 close review did
+   exactly that for the weekday rule at eight instances. **It is recorded here so the next phase that opens a
+   canon sweep knows it exists, and it is not this phase's to do.**
+
+10. **ch 248 and ch 295 counted above.** The total is twelve repairs: three duplicated paragraphs (248, 275 ×2,
+    295 — five paragraphs across three chapters), one calendar month (278), one interval (251), seven
+    scaffolding instances (256, 271, 283, 290, 292, 295, 297), one re-voiced surface answer (298), two
+    *about four seconds* (286, 291) and one typographic sweep (239–252, forty-one characters).
+
+### Findings recorded and NOT repaired, with the reason
+
+1. **The Yuan tag.** *He said one thing that night and it was present tense and it bought nothing* stands four
+   times verbatim (261, 262, 264, 267) and three more in the *evening* variant (263, 265, 266), and the
+   construction runs the whole of Batch 0002 — eleven chapters, 253–267. **Zero in ch 268–298.** The phase
+   prompt's record — *seven times in ch 261–267* — reconciles exactly if the three *evening* variants are
+   counted as the same construction; the verbatim string is four. **Recorded, not repaired:** it is a ledger
+   line and not emphasis, it always precedes his speech, it is never a chapter's closing line, the utterance
+   under each tag is different every time, and Batch 0002 was audited with it and Batch 0003's review already
+   broke the run. Breaking it again here would delete an authorised motif on a preference.
+2. **The present-tense block at ch 297, *What It Is*.** Four paragraphs of close third on Ning Yan in the
+   present tense. **Recorded, not repaired:** the construction is the volume's established register for a
+   durable state, with precedent at ch 239:31, 241:11, 249:23, 251:101 and 252:49; no completed event is
+   narrated in the present; and the rule's purpose — the present marks *his* frame — is not in play.
+3. **Wei Ran on four cards, where the outline names Batches 0001 and 0004.** Recorded; every appearance is a
+   rate, a road or an opinion, and nothing in the volume is a romance.
+4. **Bai Zhu named aloud once in the volume, at ch 297**, against Volume 4's *named once at ch 150, spoken
+   twice more*. Recorded; the operative rule — no document he signs carries his name — holds, and at ch 297 he
+   writes nothing at all.
+5. ***Reconciled* read on the page seven times** against required fact 10's *read once at the close*. Recorded;
+   it is the subject of one chapter (282) and a reference in six, and it is never corrected.
+6. **The four weeks every foundation costs her is never stated.** The outline says Volume 5 *carries* the four
+   months in the body; what is on the page is the cost of each stage and the unnameable tenth item of the list
+   at ch 291. **Not repaired, because stating the four weeks is naming the thing `outline/ending.md` §8 reserves
+   for ch 1000.**
+7. **`about four seconds` stands twice after repair**, at 290 and 293, deliberately. Recorded so the next
+   phase does not "finish" the sweep.
+8. **The claim moves four times** (237 read aloud, 260 drafted, 268 authorised, 294–295 answered) where the
+   close prompt counts three. Recorded; the prompt compresses the authorisation into the answer and the page
+   has all four.
+9. **`workspace/volume-05-close/` holds no `.done` marker.** Not this phase's: `PHASE_SYSTEM.md` gives the
+   marker to the controller alone. Recorded for the controller or the operator, on the Volume 4 close's
+   precedent.
+
+### Corrections made to the state files
+
+- `state/open-threads.md` carried the ch 251 interval (*three months ago*) as an unapplied proposed repair from
+  Batch 0002, under a heading that said a later phase should do it. **This close did it, and the heading now
+  says so.** That file also still carried the impossible measure the Batch 0004 review had repaired in ch 297
+  — *eleven days of road further from him than a list she has never seen*, which had been propagated to
+  `current.md` and `chapter-summaries.md` and missed here — and recorded *Wei Ran appears twice in Volume 5*,
+  against four. All three corrected.
+- `state/book-metadata.md` and the volume line in `state/current.md` carried the file set as 101,160. It is
+  **101,204** after these repairs.
+- `state/chapter-summaries.md` did not record the volume close at all, and its *Volumes 5–16* block still named
+  the Volume 5 close as the next phase. Corrected, and a **Volume 5 closed — audited** section added beneath it.
+
+### Confirmed still true after repair
+
+`grep` for a line beginning with `[` returns **exactly three in sixty chapters**, at ch 258, 275 and 292, each
+in the far-side house form matching the pinned text character for character; **there is no other square-bracketed
+line anywhere in ch 239–298.** All seven weekday names return **zero** across ch 239–298. All twelve calendar
+month names return **zero** across ch 239–298. `tribulation` returns zero. `kiln-born`, `Anchor`,
+`Sisterhood`, `Lung`, `appointment`, `MEMBER ABSENT`, `sponsor`, `Shen Xiu` and `*volume*` all return zero.
+Every one of the sixty files closes every speech with curly quotes, and **there is not one straight double
+quote or straight apostrophe left in the volume.** Zero blockquotes, code fences, tables and horizontal rules.
+**No bold at all in the volume; eleven italics, all of them documentary (*reconciled*, *for*, *on an account*,
+*I am paying this*).** No controller file was touched, and `outline/volume-06.md` does not exist.
+
+### Volume 5 running ledger — at the close of the volume, day 620
+
+| Item | Value at the close of Volume 5 |
+| --- | --- |
+| Her stage | **GOLDEN CORE 3, day 600**, taken at her own order, in daylight, where nothing is announced. Bracket 3 of 3. **Cost: entered as good in a book the bound cannot read, and she cannot be un-entered** — the first cost in five volumes that is not on her body. Paper still Foundation the first stage, never opened |
+| Body | Short breath four counts; **right index gone, four fingers' grip**; **right arm open a third → half, permanent, ch 288**; aperture cracked through and permanent; nine of eleven holds; turn gone; middle-bank method; not hungry; cold like a stone; **eighteen** |
+| Employment | **SEASON OVER.** Column closed on the thirtieth at a far date in another man's hand; pays 7th/17th/27th (590/600/610); **eighteen counterfoils in four marks and no nineteenth**; the book shuts at the dark and goes into the box at the mill on the first cart; **the twenty-eighth, twenty-ninth and thirtieth worked and never paid** |
+| The furnace | **Finished and paid for.** Sixty-one bricks on edge, two days out of the column, the seam clayed. Taken cold once and relit. **The ground under it gave nothing back and never will, and she has never said so out loud** |
+| Settlement | **Merit settled twice in Volume 5** (256, 290), neither time on a death, both shares told before spent. **Ledger ENDED as a standing held stage at ch 272**; what replaces it is his readability, said on the page in his own terms |
+| Claim | **ANSWERED.** 800 jin, answered in ink at ch 294 and read out once in a room with nine men in it, drafted west with no date, paid into Hou Sanliang's counting room, **date off the page by Luo Ping's hand at ch 295. Hou paid and never met; Luo Ping never met** |
+| Family | **Ning Bo's account DISCHARGED at ch 296 in a far-side office's own book, where it can be closed, and doing nothing in Lowwater, which the chapter says out loud. Ning Wu's decade ENTERED at ch 297 as a line with no mark on it. He does not appear and is not met. Register still *reconciled*, read and never corrected** |
+| Yuan | **Readable from outside the bound without her, and therefore findable.** Unentered state and the date of the morning he died, gone, named on the page before the line went in. **No figure of what is left of him anywhere in ch 239–298** |
+| Inside | **One report, once, ch 295.** Floor, nine men, the same nine; wash house; tower light; counting room; the date off the page |
+| Still open | The Hunter's request pending and the line's own people still not knowing she exists · everything above the Standing Office of the Second Account · *kiln-born* in two heads and on no paper · what became of the eleven · why the register reads *reconciled* · the year still carrying · **and the country past the last working point, which she stood half a mile short of and did not go past** |

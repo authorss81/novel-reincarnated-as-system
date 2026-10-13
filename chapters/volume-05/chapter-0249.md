@@ -10,7 +10,7 @@ Then he went along the column with the rule and tore the strip off at the rule a
 
 The seventh is a short one for a pay-day.
 
-That is not a thing anybody would say out loud. The pays are the seventh, the seventeenth and the twenty-seventh, and the seventh is the first of the three and the one where the money runs out, and the trestle at about the seventh hour on the seventh is quieter than it is on the other two because about half the men on that yard had nothing standing in the column since the seventeenth and had spent the week on their own ground or on somebody else's.
+That is not a thing anybody would say out loud. The pays are the seventh, the seventeenth and the twenty-seventh, and the seventh is the first of the three and the one where the money runs out, and the trestle at about the seventh hour on the seventh is quieter than it is on the other two because about half the men on that yard had nothing standing in the column since the seventeenth and had spent the week on their own ground or on somebody else’s.
 
 He still did it at the seventh hour. He read the run, and he took the rule off the ledger and tore the strip, and he put it on the plank face down, and it took him about as long as the other two.
 
@@ -26,7 +26,7 @@ He sets the rule against the line and tears and puts it face down and the face d
 
 The strip goes into a coat and the coat goes to a hut and the strip comes out again in ten days. That is the entire route a piece of paper takes on this reach.
 
-On the other side of a line of work a wedge of these went up a stair once, out of nine days of a contractor's book, and a clerk read it in a room and a ceiling came down. Here there is no stair. Here it goes in a coat and stays there.
+On the other side of a line of work a wedge of these went up a stair once, out of nine days of a contractor’s book, and a clerk read it in a room and a ceiling came down. Here there is no stair. Here it goes in a coat and stays there.
 
 On the far side of that post there is one office within nine days of road that has ever been in a position to do anything with an hour of hers, and it is four hundred yards up the track, and the paper has been in a coat.
 
@@ -48,7 +48,7 @@ The rest came in a hand that is not hers over two months, and they are the fifth
 
 She laid them out against each other the way a clerk lays two columns out, and the dates came out clean, and the hours came out at eleven on every one of them where the stretch was the same, and not one of the nine refers to anything else that she has ever been in.
 
-There are three dates in a sub-contractor's book nine days east that she worked and that are not in it, and they are true, and she did not fill them and she did not write them here either.
+There are three dates in a sub-contractor’s book nine days east that she worked and that are not in it, and they are true, and she did not fill them and she did not write them here either.
 
 ## The Ninth Of Nine
 
@@ -82,7 +82,7 @@ Four years is a long time to want one instrument.
 
 She did not write down what a stub is worth.
 
-There is nothing within nine days of road to compare one to. The course's stubs are in a county book nine days east and go up a stair in a wedge of paper read out loud by a clerk in a room. These are in an oilcloth against her ribs and they are in four marks, written by four different men in four different hands, and not one of the four knows what his mark is worth and not one of the four has ever been asked.
+There is nothing within nine days of road to compare one to. The course’s stubs are in a county book nine days east and go up a stair in a wedge of paper read out loud by a clerk in a room. These are in an oilcloth against her ribs and they are in four marks, written by four different men in four different hands, and not one of the four knows what his mark is worth and not one of the four has ever been asked.
 
 She put the ninth one in the oilcloth above the plate with the other eight, and the plate took the weight of it the way it has taken the weight of all of it for two months.
 
@@ -90,7 +90,7 @@ Then she folded the oilcloth and put it back and went out and got the bar.
 
 ## What It Is Worth In A Different Country
 
-Inside the bound a wedge of paper had gone up a stair out of nine days of a contractor's book on the seventh of a month, and a clerk in a room she was nine seconds from had read it aloud to people who had never seen the man and never seen the ground, and the number that came back down it was the number that moved her ceiling.
+Inside the bound a wedge of paper had gone up a stair out of nine days of a contractor’s book on the seventh of a month, and a clerk in a room she was nine seconds from had read it aloud to people who had never seen the man and never seen the ground, and the number that came back down it was the number that moved her ceiling.
 
 That is what a stub is worth on that side of a line of work. It is worth exactly the height of the office that reads it.
 

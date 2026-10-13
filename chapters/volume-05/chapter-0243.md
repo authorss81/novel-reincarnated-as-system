@@ -34,7 +34,7 @@ Wei Ran came back four paces.
 
 “Who is your team.”
 
-“He is nineteen and he is my brother's boy and he is worth the eight.”
+“He is nineteen and he is my brother’s boy and he is worth the eight.”
 
 That was the rate. She gave it in three sentences about a fact and not about her and she did not look at her while she said it.
 
@@ -66,7 +66,7 @@ At five a day that is eighteen days of the only thing she can sell, and she is n
 
 It is not a price that stops her. It is a price she can put her hand on and count, and that is the part she did not expect.
 
-Nobody else within nine days of road has one. The men at the trestle are all going the other way or are not going. The mill is four miles east and nobody four miles east has any reason to know what the road inside the line costs, and the line's own people have not had a road to price since the season closed.
+Nobody else within nine days of road has one. The men at the trestle are all going the other way or are not going. The mill is four miles east and nobody four miles east has any reason to know what the road inside the line costs, and the line’s own people have not had a road to price since the season closed.
 
 She has been on the far side of a line of work for nineteen days and the price of the going has been in her head the whole time as a thing that does not exist, because it does not exist, and a woman came past with a cart this morning and put a figure on it and walked on.
 
@@ -74,7 +74,7 @@ She has been on the far side of a line of work for nineteen days and the price o
 
 That is the whole of his trade and he said it while walking and she has been turning it over since.
 
-Six a load to the mill is not about stone. It is about a team of two and a cart and about a third of a day each way, and the eight a day is what a nineteen-year-old with his own back is worth and he is her brother's boy, which means the eight is what a man is worth to a woman who owns him.
+Six a load to the mill is not about stone. It is about a team of two and a cart and about a third of a day each way, and the eight a day is what a nineteen-year-old with his own back is worth and he is her brother’s boy, which means the eight is what a man is worth to a woman who owns him.
 
 There is no part of that number that has anything to do with what a person can lift.
 
@@ -108,7 +108,7 @@ She went down the track to the mill with the empty cart and the wind behind her 
 
 She wrote it on the back of the third dead weight ticket at about the seventh hour, sitting on the step of the store with the bar across her knees.
 
-The ration's marks are on that ticket already and she wrote clear of every one of them, in the space above, with the flat of a second finger on the left hand at about eleven minutes a line.
+The ration’s marks are on that ticket already and she wrote clear of every one of them, in the space above, with the flat of a second finger on the left hand at about eleven minutes a line.
 
 Six a load. Eight a day for a man and his own back. Four of these loads on a cart. Ninety, west, for a person and one bag, and it is not a favour.
 

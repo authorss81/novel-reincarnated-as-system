@@ -32,7 +32,7 @@ She turned stone the rest of the day with the sentence under the work, and the s
 
 On the eighth the rain came hard and the bank went soft, and Da called the yard off the high cuts and put them to the low bank where the stone came cleaner. She worked the low bank with water running off her sleeves, four fingers pink with cold, furnace steady through the middle of every stroke.
 
-At midday they ate under the lean-to with rain drumming on the boards, eleven men and her, bread damp, hands steaming. The talk was about the low bank and the ramp boards and a team that had gone down the cart road in April and taken a fortnight to come out of the cut again. A man told the whole story twice and it got worse the second time. She laughed with them at the right places, briefly, the way workers laugh at other people’s troubles that are not theirs.
+At midday they ate under the lean-to with rain drumming on the boards, eleven men and her, bread damp, hands steaming. The talk was about the low bank and the ramp boards and a team that had gone down the cart road in the middle of the season and taken a fortnight to come out of the cut again. A man told the whole story twice and it got worse the second time. She laughed with them at the right places, briefly, the way workers laugh at other people’s troubles that are not theirs.
 
 The woman with the scarred forearm sat beside her with rain in her hair and had nothing to add about carriers’ lists, and did not add it, and Ning Yan was grateful to her for the not adding of it in a way she had no way to show.
 

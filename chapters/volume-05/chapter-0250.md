@@ -74,7 +74,7 @@ She was still at it.
 
 That is the part of it that is not about her and is the part she thought about for about an hour afterwards. The fire did not go out because the wind got up or because the night came or because anybody had decided anything.
 
-It went out because four men had finished, and a woman with a season booked to the end of it and a bar and four fingers' worth of grip on one hand had not been asked, and had not thought to ask, because there is nothing on this reach to ask.
+It went out because four men had finished, and a woman with a season booked to the end of it and a bar and four fingers’ worth of grip on one hand had not been asked, and had not thought to ask, because there is nothing on this reach to ask.
 
 She stood at the trestle until it had gone down to the stones and then she walked back to the third hut and it was not warmer, and it was the same one she has slept in since the second of a month.
 

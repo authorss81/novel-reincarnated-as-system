@@ -110,9 +110,9 @@ And there was not one person within nine days of road who could ask her a questi
 
 Everything that had ever happened to her inside that boundary had been announced.
 
-Every stage, in order, in a flat sentence, in a voice that was not a voice, to every living person inside the line at once, with a price on it by morning. The bound had treated it as a gift. It was a receipt.
+Every stage, in order, in a flat sentence, in a voice that was not a voice, to every living person inside the line at once, and a price on it by morning.
 
-Being told was never the same as being charged, and she had worked that out on a reach in the last week of a season from a worker’s mouth in short sentences, and nobody inside the boundary had heard a word of it and nobody ever would.
+What a man at a fire had worked out in short sentences in the last week of the season was still hers alone, and nobody inside the boundary had heard a word of it, and nobody ever would.
 
 She was standing past the last working point with a furnace of her own under her that nobody had given her, that no county had licensed and no county could hear and that she had paid for out of her own wages a day at a time, and she had lit it three times and banked it every night and had dug out its dead ash twice.
 

@@ -8,7 +8,7 @@ Da had the yard on ordinary stone and the cart runs going up the track twice a d
 
 On the twenty-seventh the pay-day came and she stood in the queue with stone dust on her coat and the man at the plank read her run from the seventh to the twenty-seventh, days in order, hours against them, the writing hours gone on top and unpriced, the two gaps from the course of brick in plain ink in front of him.
 
-He tore one more strip off at the rule and put it face down on the plank and into her coat.
+He tore the strip off at the rule, face down, and put it into her coat the way he had put the last one there, which was without ceremony and without once looking up.
 
 Eighteen stubs, in the oilcloth, in four marks, none checkable by anybody within nine days of road.
 
@@ -98,7 +98,7 @@ She wanted to know whether the account of a furnace-man had been written off in 
 
 That was six questions and she was not going to ask one of them.
 
-A second question is the end of the only road there is, and she had learned that on a reach nine days east of a county that had never heard of her. She was going to learn it here in the same way: standing at a sledge with the bar in her hands, saying nothing at all, while the one road she had gone down four volumes came back with an answer in it.
+A second question is the end of the only road there is, and she had learned that on a reach nine days east of a county that had never heard of her. She was going to learn it here in the same way: standing at a sledge with the bar in her hands, saying nothing at all, while the one road she had gone down for four years came back with an answer in it.
 
 The hauler did two sledge-loads of hauling for wedges and was paid for them in kind at the ramp and went out along the track east without looking back at the bank, which was the correct thing and cost her nothing.
 

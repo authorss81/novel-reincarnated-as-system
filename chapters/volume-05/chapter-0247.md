@@ -28,7 +28,7 @@ It took eleven minutes with the flat of the second finger on the left hand and t
 
 She held the near corner down with four fingers and a thumb.
 
-The wind came off the rise and went through her and she did not stop and the corner went twice and the second time it went it went about a finger's width further than the first and she held it and finished the name.
+The wind came off the rise and went through her and she did not stop and the corner went twice and the second time it went it went about a finger’s width further than the first and she held it and finished the name.
 
 She did not ask him to hold it the second time and he was already holding it, and neither of them said one word about either of those two things, and after about forty seconds he took his hand off the page and went back down the column and wrote the days in beside the dates in the ordinary way, from the first, and the second, and the third.
 
@@ -36,9 +36,9 @@ She did not ask him to hold it the second time and he was already holding it, an
 
 There is more of a month about the first than about any other day, and it took her about an hour to work out why the far side of a line of work had taught it to her in three weeks.
 
-On the first, a man writes a day's line before the day is worked.
+On the first, a man writes a day’s line before the day is worked.
 
-That is how the course's book worked and that is how this one works, and it is the whole of what a first of a month is in a country that keeps hours on paper, and it meant that at about the seventh hour on the first there was a line in that column with a date at the left of it and no hours against it and no way at all for anybody to know whether it would get any.
+That is how the course’s book worked and that is how this one works, and it is the whole of what a first of a month is in a country that keeps hours on paper, and it meant that at about the seventh hour on the first there was a line in that column with a date at the left of it and no hours against it and no way at all for anybody to know whether it would get any.
 
 She had watched a hundred people not care about that. She had watched four men in two counties care about it very much.
 

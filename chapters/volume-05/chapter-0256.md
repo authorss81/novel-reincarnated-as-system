@@ -112,4 +112,4 @@ She walked back to the yard in the dark with six coppers and seventeen owed-agai
 
 Ledger she did not order and did not think about ordering. That standing stayed held and unspent, hers to order, untouched.
 
-The seventeenth was paid. The furnace was six short. The layer had been fed once on tended work, and the cost was in her hand for the rest of the book.
+The seventeenth was paid. The furnace was six short. The layer had been fed once on tended work, and the cost was in her hand and staying there.

@@ -30,7 +30,7 @@ Eight a load. Five coppers a day at a trestle, five in and five out and the numb
 
 “I am telling you this because the going is short of carts and I have a team and you are standing at the end of a reach with nothing to carry and an arm.” She flicked the reins. “And because you have been on this ground five months and you have never once taken anything off it that anybody paid for.”
 
-Then she went, at the speed a carter goes, and did not look back, and that was the whole of what Wei Ran had ever been, and it was a trade and a rate and a road and an opinion, and nothing in this book was ever going to be a romance.
+Then she went, at the speed a carter goes, and did not look back, and that was the whole of what Wei Ran had ever been, and it was a trade and a rate and a road and an opinion, and it was never going to be anything else.
 
 Ning Yan watched the cart go up the track and did not take it, and could not have said out loud why, except that the thirtieth was in sixteen days and a column that starts again in the middle of a season is a column with a hole in it in front of everybody, and she had put two holes in that column herself on the first of the month in plain ink.
 

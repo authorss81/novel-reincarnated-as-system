@@ -4,7 +4,7 @@ She went up the cart track on the tenth of the month at about the seventh hour, 
 
 A month ago she stood nine feet off the outside of that door for about four minutes and did not go in, and she worked out on a stone, in about nine seconds, why.
 
-There is no version of a woman with four fingers' worth of grip on one hand, and eleven holds in the other, and no pot, and no household, and a licence she has never opened, becoming somebody that room has to act for.
+There is no version of a woman with four fingers’ worth of grip on one hand, and eleven holds in the other, and no pot, and no household, and a licence she has never opened, becoming somebody that room has to act for.
 
 That has changed.
 
@@ -16,7 +16,7 @@ Four hundred yards of cart track and then the post, and she did not stop at the 
 
 There is a board on that post and a keeper who comes up it with a cart every nine or ten days, and on the tenth of the month she walked past it without slowing and did not look at it, and that was a thing she had decided about two hundred yards back.
 
-She is not going to stand in front of it again. She stood in front of it for two hours on the twenty-sixth of a month three months ago and got ninety parts of an answer out of a man who works nine feet away from it every day of his life, and there is a tenth part and it is not coming off that board, and there is no instrument within nine days of road that would get it off.
+She is not going to stand in front of it again. She stood in front of it for two hours on the twenty-sixth of a month a month and a half back and got ninety parts of an answer out of a man who works nine feet away from it every day of his life, and there is a tenth part and it is not coming off that board, and there is no instrument within nine days of road that would get it off.
 
 The walk is about eleven minutes and she was at the door of the low room at about the seventh hour of a clear evening.
 
@@ -52,11 +52,11 @@ She did not say her name. She did not say the figure on the spike is hers. She a
 
 There were three sentences in her when she was at the counter and not one of them was about books.
 
-The first one was her name. The second one was that the figure on the spike has been hers since she was sixteen and that it was entered in a counting room in Lowwater by a hand that is not the counting room's. The third one was that she had crossed three-quarters of a mile of the worst ground on nine days on the second of a month with her hands cut to get to a room where nobody had ever heard of her.
+The first one was her name. The second one was that the figure on the spike has been hers since she was sixteen and that it was entered in a counting room in Lowwater by a hand that is not the counting room’s. The third one was that she had crossed three-quarters of a mile of the worst ground on nine days on the second of a month with her hands cut to get to a room where nobody had ever heard of her.
 
 She gave none of the three.
 
-She asked a woman-at-a-counter's question about a wage-book and got a woman's answer about a wage-book and stood there for four more minutes, and then she asked the only other one there was.
+She asked a woman-at-a-counter’s question about a wage-book and got a woman’s answer about a wage-book and stood there for four more minutes, and then she asked the only other one there was.
 
 ## Then He Went Back To The Sheet
 

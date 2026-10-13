@@ -24,7 +24,7 @@ She has never once asked him for any of it and he has never once waited to be as
 
 He said it at about the seventh hour in the ordinary voice, and he said it the way he has said it four other times, which is the whole of the reason she listens to it at all.
 
-“I have not bought anything, I have not threatened you, I have not touched you, I have not entered anything and I have not asked you a question,” he said, “and I have been on this side of that post for sixty days and I have not put one word in anybody's book on this side of it, and I want that in the same breath as everything else so that you do not have to spend a morning on it.”
+“I have not bought anything, I have not threatened you, I have not touched you, I have not entered anything and I have not asked you a question,” he said, “and I have been on this side of that post for sixty days and I have not put one word in anybody’s book on this side of it, and I want that in the same breath as everything else so that you do not have to spend a morning on it.”
 
 Then he took the notebook out from under his arm and stood holding it.
 
@@ -54,7 +54,7 @@ Nine feet off. A notebook against his side. A wind off the rise.
 
 ## What She Did Not Ask
 
-She did not ask him what was in the space. She had been told at the fourth of a month three months back and it was a countersignature in an office's hand dated from this side of the post and it was not an answer to what he asked for, and it is not an answer today.
+She did not ask him what was in the space. She had been told at the fourth of a month three months back and it was a countersignature in an office’s hand dated from this side of the post and it was not an answer to what he asked for, and it is not an answer today.
 
 She did not ask him whether the people on the line knew she existed, because he told her they do not, and he was right, and she has not forgotten either half of it in three months.
 
@@ -110,7 +110,7 @@ She had two sentences of him and she spent them on nothing that was useful.
 
 “You have spent four years wanting him to be the one man in this you could be angry at,” he said, and she did not move, “and he is standing nine feet off your own plank and he has never once given you a reason.”
 
-She did not answer him and she did not spend a mark on it.
+She did not answer him, and nothing in her hand moved, and she let the sentence stand where he had put it.
 
 What they bought her was a thing that is going to sit on her for about a week: that the man who has spent nine years telling her the truth is going to go on doing it, and that he is going to go on doing it about something she wants, and that there is not one thing she can do with that.
 

@@ -34,15 +34,15 @@ The morning’s stones were ordinary and she worked them the way she would remem
 
 She chose each lift the way she had chosen lifts since the fourth of a month four months back, bar under, nine holds, weight up, no turn at the end, set down true. The missing turn was there in its absence, felt every time and never spoken of.
 
-A man at the easy end watched one stone land true and nodded once, the way men nod at work that needs no comment, and she nodded back, and that was the whole of the farewell the bank got.
+A man at the easy end watched one stone land true and did not say a word about it, and she took the next one off the bank and set it down in the same place, and the whole of the farewell the yard had for her was that a stone had landed true and nobody had made anything of it.
 
 She was done at the fourth hour. A day worked is a day paid and the pay would come on the seventh with the rest, unmovable, and today’s hours would go into the column in the morning the way every day’s hours went in.
 
 Behind the hut the furnace stood banked, brick and wire and clay, forty-four days since the nineteenth, eighty-five days of far-side wages behind the second stage and forty-four behind the first, materials bought at far-side prices, body with four fingers on one hand.
 
-She stood with her hands down, in daylight, the way she had stood for every order since the fourth of a month four months back, and gave it.
+She stood with her hands down, in daylight, the way she had stood for every order since the fourth of a month four months back, and gave it out loud, because she had given the other two out loud and was not going to give the third one under a board.
 
-“Now,” she said, to him and to the ground and to nobody else. “At my order. Here.”
+“Now,” she said. “At my order. Here.”
 
 He said one sentence, and it bought nothing and advised nothing.
 

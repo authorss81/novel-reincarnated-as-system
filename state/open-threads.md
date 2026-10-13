@@ -1,37 +1,38 @@
 # Open Threads
 
-**Volume 1 is closed. Volume 2 is closed and audited (ch 59–118). VOLUME 3 IS CLOSED AND AUDITED (ch 119–178).
+**Volume 1 is closed. Volume 2 is closed and audited (ch 59–118). VOLUME 3 IS CLOSED AND AUDITED (CH 119–178).
 VOLUME 4 IS CLOSED AND AUDITED (ch 179–238, 120,572 words across four batches: 28,607 · 31,900 · 28,581 ·
-31,484, chapter titles and section headings excluded).** The Volume 3 close audit table is in `state/current.md`
+31,484, chapter titles and section headings excluded). VOLUME 5 IS CLOSED AND AUDITED (ch 239–298, 101,204
+words across four batches: 25,886 · 25,382 · 22,738 · 27,154, after the volume-close repair).** The Volume 3 close audit table is in `state/current.md`
 under `## Volume 3 close audit — CLOSED`, and **the review's reversal of one of the audit's rules is written up
 under *Close review repair* in that same block — read it before using any four-county or nine-county figure
 from this run.** The Volume 4 close audit table is in `state/current.md` under
 `## Volume 4 close audit — CLOSED`, **and its close review is written up under *Close review repair* in that same
 block — read it before using any weekday, stage-day or word-count figure out of this run, because the review
 moved two sentences in ch 220 and ch 232, made the weekday rule canon, and reopened six closed chapters.**
-Live threads below carry into **Volume 5, *Mortal Ash*, ch 239–298**. The
-full state of each one at the last page of Volume 4 is in `state/continuity.md` under
-***Established facts, Volume 4 complete (ch 179–238)*** and ***Volume 4 running ledger — at end of ch 238***.
-**VOLUME 5 IS COMPLETE AT CH 298.** Batches 0001–0003 are written and repaired and Batch 0004 (ch 284–298) is
-written and repaired: **27,154 words of body prose over fifteen chapters, average ~1,810**, day 581 to day 620, ONE
-bracketed layer line, at ch 292, and Volume 5's bracket budget of three is spent. `outline/volume-05.md` is written and is
-the authority for Volume 5; `outline/batches/volume-05-batch-0001.md` was the card file it was drafted
-against and every card's beat is on the page. Batch 0002 was drafted against
-`workspace/volume-05-batch-0002/PROMPT.md` with no card file, and every pinned item in that prompt is on the
-page. The full record is in `state/continuity.md` under
-***Established facts, Volume 5 Batch 0002 (ch 253–267) — DEBT COMING DUE*** and ***Volume 5 running
-ledger — at end of ch 267***.
-**VOLUME 5 IS COMPLETE AT CH 298. Next to write is the Volume 5 close phase**, whose prompt is already written at
-`workspace/volume-05-close/PROMPT.md` — **read it, do not rewrite it.** *(Corrected at review: this line
-previously said the prompt directory did not yet exist. Batch 0004 created it as its one next-phase
-directory.)* **The Volume 5 Batch 0004 drafting prompt was `workspace/volume-05-batch-0004/PROMPT.md` and every
-pinned item in it is on the page.**
+**The Volume 5 close audit table is in `state/current.md` under `## Volume 5 close audit — CLOSED`, and its
+reasoning is in `state/continuity.md` under `## Volume 5 close — repairs`. READ BOTH BEFORE PLANNING VOLUME 6:
+they carry twelve repairs made in the chapters, nine findings recorded and not repaired, and **the protagonist
+answered in writing**, which `outline/series.md` §2 makes a standing requirement on every volume from here.**
+Live threads below carry into **Volume 6, *The Real Realm*, ch 299–360**. The
+full state of each one at the last page of Volume 5 is in `state/continuity.md` under
+***Volume 5 running ledger — at the close of the volume, day 620***.
+**VOLUME 5 IS CLOSED AND AUDITED AT CH 298.** All four batches are written and repaired: Batch 0001
+(ch 239–252) and Batch 0002 (ch 253–267) and Batch 0003 (ch 268–283) and Batch 0004 (ch 284–298),
+day 471 to day 620, **three bracketed layer lines in sixty, at ch 258, 275 and 292, and the budget is spent.**
+`outline/volume-05.md` is written and was the authority for Volume 5; `outline/batches/volume-05-batch-0001.md`
+was the card file Batch 0001 was drafted against and every card's beat is on the page. Batches 0002–0004 were
+drafted against their own prompts and every pinned item in each is on the page.
+**Next to write is the Volume 6 planning phase**, whose prompt is at `workspace/volume-05-close-record/PROMPT.md`
+— **its whole job is to write `outline/volume-06.md` and open Volume 6's planning. `outline/volume-06.md` does
+not exist yet and must not exist until that phase writes it. Do not create a Volume 6 batch directory here; the
+self-dispatch workflow selects the next phase.**
 **The blocker recorded here at the Volume 4 close and repeated at the Volume 5 planning close is RESOLVED**:
 `workspace/volume-04-close-record/` and `workspace/volume-05-batch-0001/` both now hold `.done` markers
 written by the controller (commits `88ddc33` and `3e32724`) and neither is deferred. **Do not raise it
-again.** What is still true and needs the controller, not this file: `workspace/volume-05-batch-0002/` is the
-only directory this run created, it has no `.done` marker, and **`PHASE_SYSTEM.md` gives the marker to the
-controller alone, so this record does not write one.**
+again.** What is still true and needs the controller, not this file: `workspace/volume-05-close/` holds no
+`.done` marker, and **`PHASE_SYSTEM.md` gives the marker to the controller alone, so this record does not write
+one.**
 
 ## Volume 5 Batch 0001 (ch 239–252) — what this batch added, and what is now live going into Batch 0002
 
@@ -104,26 +105,42 @@ Volume 5 Batch 0004 (ch 284–298) — ASH AND LEAVING*** and ***Volume 5 runnin
 | **Golden Core 3** | Ning Yan | **Vol 5, Batch 0004** | **TAKEN AND CLOSED.** Day 600, the seventeenth, a pay-day, forty-four days after GC2, at her own order in daylight where eleven men could see. One bracket. **Cost: entered as good in a book the bound cannot read, and she cannot be un-entered** |
 | **The claim** | series | **Vol 5, Batch 0004** | **ANSWERED AND CLOSED.** 800 jin, read out once in a room, drafted west with no date, paid into Hou Sanliang's counting room, **date off the page by Luo Ping's hand, not struck out.** **Hou paid and never met; Luo Ping never met** |
 | **Ning Bo's account** | family | **Vol 5, Batch 0004** | **DISCHARGED WHERE IT CAN BE CLOSED** — a far-side office's own book, ch 296, paid for out of her foundation by his doing, at a cost she cannot name. **It does nothing in Lowwater and the chapter says so out loud** |
-| **Ning Wu's decade** | family | **Vol 5, Batch 0004** | **ENTERED.** A line in the same book: name, county, ten years, ten years of his own, no mark on it, not read out. **Not met. Eleven days of road further from him than a list she has never seen** |
+| **Ning Wu's decade** | family | **Vol 5, Batch 0004** | **ENTERED.** A line in the same book: name, county, ten years, ten years of his own, no mark on it, not read out. **Not met. The list is nine days of road away, or further, in the hands of somebody whose name the woman who told her did not have; the line is four hundred yards behind her.** *(Corrected at the volume close: this line previously read *eleven days of road further from him than a list she has never seen*, an impossible measure the Batch 0004 review had already repaired in ch 297 and propagated to two other files and not to this one.)* |
 | **Mortal ash** | series | **Vol 5, Batch 0004** | **PAID.** Ch 298: the mortal books left closed, reconciled where they read reconciled, blank where they go west blank, and the ash shaken off a coat and left where it falls |
 | **Merit, second of two** | Yuan | **Vol 5** | **SETTLED (290)** on the season's last listed run closed, told before spent, **spent at 296 out of her foundation, and the price is the one nobody alive can name or measure.** Nothing in Volume 5 kills anybody |
 
-### Still open at the close of Volume 5, for the Volume 5 close to record and for Volume 6
+### Still open at the close of Volume 5, recorded by the Volume 5 close and handed to Volume 6
 
 - **The Hunter's request is still pending.** The space holds a date, *Held*, and the countersignature on her
   petition in an office's hand; none of it is an answer. A Wall writ is not issued to a field agent. **The
   line's own people still do not know she exists.**
 - **Everything above the Standing Office of the Second Account is still unread.** Nothing in ch 239–298 goes
-  one notch further and nothing in it tries.
+  one notch further and nothing in it tries. **No Scribe, no Anchor, no Sisterhood, nothing about what he was
+  before he died.**
 - ***Kiln-born*** is in two heads and on no paper. Zero across Volume 5.
 - **What became of the eleven** is not raised anywhere in Volume 5.
-- **The register still reads *reconciled***, read once at ch 298, never corrected. **The Clay Plate is still
-  worn against her ribs**, described exactly once and never taken off.
+- **The register still reads *reconciled***, read as the subject of a chapter at ch 282 and again at ch 298,
+  never corrected. **The Clay Plate is still worn against her ribs**, described once and never taken off.
 - **The year of non-forgiveness is still running**, touched at ch 297 at low volume and retired nowhere.
+  **She does not forgive him and she does not tell him to stop.**
 - **No second Lung and no second appointment.** Feng never on the page in Volume 5 after ch 262.
-- **Wei Ran** appears twice in Volume 5, at ch 253 and ch 290, both as a rate and a road. Nothing a romance.
+- **Wei Ran appears four times in Volume 5, at ch 243, 253, 269 and 290** *(corrected at the volume close —
+  this file previously recorded twice)*, every time as a rate and a road and an opinion. Nothing a romance.
+- **She has no wages, no season and no booking at the close of Volume 5.** The column closed on the thirtieth
+  in another man's hand, eighteen counterfoils in four marks and no nineteenth, and the three working days
+  before it were never paid and never will be.
+- **She is entered as good in a far-side office's book and cannot be un-entered.**
+- **Yuan is readable from outside the bound without her, and therefore findable** — and the chapter that made
+  him findable said on the page that being read means being sent for. **He has lost the date of the morning
+  he died. The Ledger is no longer hers to order and there is nothing she can order instead.**
 - **What is past the last working point**, farmed and lit, with offices above the one office whose name is
-  known — she stood half a mile short of a mill whose wheel has not turned and went no further.
+  known — she stood half a mile short of a mill whose wheel has not turned since before she came, and went no
+  further. **This is Volume 6's question and it is on the page as a fact, not as a plan.**
+- **Carried as proposed repairs for a phase that may reopen closed chapters, not applied here:** the straight
+  ASCII apostrophe sweep across Volumes 1–4 (**1,588 instances**; Volume 5 is clean) and the named calendar
+  months still standing in closed Volumes 2 and 3 (**fifteen instances: February, March, June, September,
+  December**). Both are character-level, both are mechanical, and both belong to a phase already doing a canon
+  sweep across volumes. **Neither may be done as a side effect of drafting.**
 
 ## Volume 5 Batch 0002 (ch 253–267) — what this batch added, and what is now live going into Batch 0003
 
@@ -146,15 +163,14 @@ Pressure: **debt coming due** — and nothing else. Full record in `state/contin
   year carrying, unmentioned. No office above the Standing Office named. *Kiln-born* zero. The eleven not
   raised. No second Lung, no second appointment. No new names, no new enemy, nothing a romance.**
 
-### One proposed repair carried out of Batch 0002 and not applied
+### One proposed repair carried out of Batch 0002 and not applied — **APPLIED AT THE VOLUME 5 CLOSE**
 
-- **Ch 251 reads *on the twenty-sixth of a month three months ago* for the day she stood two hours in front of
+- ~~**Ch 251 reads *on the twenty-sixth of a month three months ago* for the day she stood two hours in front of
   the board and took ninety parts of an answer out of a man nine feet away. Ch 236 dates that at day 459 and
-  ch 251 is days 503–504, so the interval is forty-four or forty-five days.** This is the same overstatement
-  `logs/volume-05-batch-0002.review.log` found and repaired in ch 258, 260 and 267 of the batch below it.
-  **Ch 251 belongs to Volume 5 Batch 0001, a closed phase, and was not opened.** Ch 262's matching *twenty-sixth
-  of a month* now carries no figure at all, so the two chapters do not contradict. **Do not treat ch 251's
-  *three months* as canon. A phase that may reopen Volume 5 Batch 0001 should correct it.**
+  ch 251 is days 503–504, so the interval is forty-four or forty-five days.**~~ **DONE. The Volume 5 close
+  repaired it to *on the twenty-sixth of a month a month and a half back*, and the sentence now agrees with ch
+  236 and with the chapter's own day. Nothing beat moved. Do not treat any figure of *three months* as canon at
+  ch 251; it is not on the page.**
 
 ## Volume 4 — every thread below is confirmed OPEN on this file. Nothing here is retired.
 

@@ -6,7 +6,7 @@ She asked it at the counter on the twelfth of the month at about the seventh hou
 
 He did not have to look anything up. He put his hand on the sheet the way he had put it there two days before and he said it out loud at the speed a man reads so that the people behind him could hear it, and there were six of them behind him and none of them moved.
 
-“A claim is a figure,” he said. “A figure is only paid against something. The only things on this side of that line a claim can be paid against are hours worked past the last working point. And there is one run of those with dates in it on this reach and it is in a book four hundred yards down that track with a woman's name at the top of it.”
+“A claim is a figure,” he said. “A figure is only paid against something. The only things on this side of that line a claim can be paid against are hours worked past the last working point. And there is one run of those with dates in it on this reach and it is in a book four hundred yards down that track with a woman’s name at the top of it.”
 
 He put his hand off the paper.
 
@@ -36,7 +36,7 @@ She did not give it to them.
 
 ## In The Same Breath
 
-“Nobody in this room is going to take a person's hours off a piece of paper that somebody else read out loud in a room,” he said. “If she ever says yes they will take them. And until she says it the claim stands and it costs us nothing to stand.”
+“Nobody in this room is going to take a person’s hours off a piece of paper that somebody else read out loud in a room,” he said. “If she ever says yes they will take them. And until she says it the claim stands and it costs us nothing to stand.”
 
 Then he went back to his book.
 
@@ -54,7 +54,7 @@ The only thing in this country that can be charged for is a day somebody worked.
 
 That is the whole of it and she worked out how long ago she had stopped being able to be surprised by a fact of that shape.
 
-She came across three-quarters of a mile of the worst ground on nine days in the dark on the second of a month because a claim of eight hundred jin was travelling on a licence she had never opened, and because the county that had the answer was nine days east and the line's own people did not know she existed, and because being outside was the only place where nobody could put her hours into anything.
+She came across three-quarters of a mile of the worst ground on nine days in the dark on the second of a month because a claim of eight hundred jin was travelling on a licence she had never opened, and because the county that had the answer was nine days east and the line’s own people did not know she existed, and because being outside was the only place where nobody could put her hours into anything.
 
 And the ground past the last working point is not a place where nothing is charged. It is the only place within nine days of road where the charge can be met at all.
 
@@ -72,9 +72,9 @@ Once, in her own head, in about nine words, with no speech of any kind, standing
 
 She did not say it out loud and she did not say it to him and she did not say it to the six men and she did not write it anywhere. She has said no to a thing like this three times in four years and this is the fourth, and it took nine seconds and there was nothing in it.
 
-It closed nothing she can see. Hou Sanliang is still unpaid and still patient and has still never met her, and a date is still entered against that figure in a counting room in Lowwater by a hand that is not the counting room's, and it has not been torn off and it is not going to be torn off by anything she does or does not do on this reach.
+It closed nothing she can see. Hou Sanliang is still unpaid and still patient and has still never met her, and a date is still entered against that figure in a counting room in Lowwater by a hand that is not the counting room’s, and it has not been torn off and it is not going to be torn off by anything she does or does not do on this reach.
 
-The bill is still hers. She has just found out who the creditor's clerk is.
+The bill is still hers. She has just found out who the creditor’s clerk is.
 
 ## The Walk Back
 

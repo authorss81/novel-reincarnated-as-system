@@ -64,7 +64,7 @@ At some point the talk stopped for a moment, the way talk stops, and in the gap 
 
 He nodded and the talk came back. He had held a bar for her for eleven days in the middle of the season and he had seen the four fingers and done the arithmetic and had never once said a number out loud, and now he was telling her what she was doing tomorrow in the tone of a man telling a woman the weather, and he was not being kind and he was not asking anything.
 
-She wanted, at that fire, with the bar across her knees, to say one true sentence to one person in her own life. She had about four seconds in which she could have said it and there was no sentence, and that was correct, because there was nothing in her that she could say out loud to a man at a fire that would have been anything but a lie dressed as a confession.
+She wanted, at that fire, with the bar across her knees, to say one true sentence to one person in her own life. She had a moment in which she could have said it, and it went past while she was standing there, and there was no sentence, and that was correct, because there was nothing in her that she could say out loud to a man at a fire that would have been anything but a lie dressed as a confession.
 
 She wanted, concretely, to get tomorrow right. To stand at the fourth hour in the open, in daylight, where the yard could see it, and give the order, and take what it took, and be standing at the bar by the sixth hour with four fingers and four counts and whatever else, because the sixth hour was a working hour and the sixth hour did not care and had never once cared.
 

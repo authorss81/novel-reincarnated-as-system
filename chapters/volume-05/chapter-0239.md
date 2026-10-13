@@ -16,7 +16,7 @@ And there is a column nearest the near side of the plank, and that one is hers.
 
 Her name is at the top of it in a hand that is hers and has been there since the second of a month. Under it there are dates, in order, and hours against the dates, and the run is continuous, and that is the only instrument the world has ever handed her, and she has it again three-quarters of a mile past the post.
 
-She wrote today's date in herself, standing at the plank at about the sixth hour with the wind coming off the rise behind her.
+She wrote today’s date in herself, standing at the plank at about the sixth hour with the wind coming off the rise behind her.
 
 It took her about eleven minutes. The writing hand is the left one and it has the heel of it gone and it goes with the flat of the second finger, and that is how every county hour of her life has been written since she was fifteen.
 
@@ -28,13 +28,13 @@ He did not look up while she wrote and he did not look up after, and he did not 
 
 There is a store on this side of the flat. It is a room with a counter in it and a board over the counter with nothing written on the board, and bread at five coppers, and it is the only place on this ground where anything is sold.
 
-It is not the store she has been buying bread in for two months. That one is between the last stake and the cart turn, on the line's own side, and it has shelves, and a woman behind the counter who has been there every day of her life and who read her name off a board about nine times and never once used it.
+It is not the store she has been buying bread in for two months. That one is between the last stake and the cart turn, on the line’s own side, and it has shelves, and a woman behind the counter who has been there every day of her life and who read her name off a board about nine times and never once used it.
 
 This one is on the far side of that flat and she has never stood in it before the seventh hour this morning.
 
 Same bread. Same price. Same hour.
 
-There is a difference between them and the difference is only that she had to cross the flat to reach this one, and she did that on the second of a month with her hands cut and nobody within a day's walk, and everything on the other side of it is the same as everything on this side of it.
+There is a difference between them and the difference is only that she had to cross the flat to reach this one, and she did that on the second of a month with her hands cut and nobody within a day’s walk, and everything on the other side of it is the same as everything on this side of it.
 
 She put five coppers on the counter and went out and ate it on the step with her back to the wind.
 

@@ -26,7 +26,7 @@ She put five coppers in his hand out of about thirty he was holding and he put i
 
 He finished the line he was on and squared the page against the plank with the heel of his hand.
 
-“The book closes for a stretch,” he said. “When the carts stop there is no work and nobody's hours, and the men go home to their own ground and the book sits, and when they come back it opens again on the same page and I go on down the column.”
+“The book closes for a stretch,” he said. “When the carts stop there is no work and nobody’s hours, and the men go home to their own ground and the book sits, and when they come back it opens again on the same page and I go on down the column.”
 
 “And after that.”
 
@@ -64,9 +64,9 @@ A day is a thing she can miss. A day she misses is five coppers she does not get
 
 A booking is the opposite of that. A booking is a line that has her name on it and a far end, and every day inside it is a day that is already owed to somebody before she gets up.
 
-She worked that out standing up, at a plank, in about as long as it takes to count out a day's coppers, and it came out that a season is more days than she has worked on this reach.
+She worked that out standing up, at a plank, in about as long as it takes to count out a day’s coppers, and it came out that a season is more days than she has worked on this reach.
 
-And she knew, standing there, exactly what that number was for, and what it was for was that on the twenty-seventh of every month for the rest of the run there would be a line in a book four hundred yards from a room with a stove in it that had a woman at the top of it and a woman's days in it and a date at the far end.
+And she knew, standing there, exactly what that number was for, and what it was for was that on the twenty-seventh of every month for the rest of the run there would be a line in a book four hundred yards from a room with a stove in it that had a woman at the top of it and a woman’s days in it and a date at the far end.
 
 That is what a booking buys. It is not wages. It is a thing that can be set against a figure.
 
@@ -108,6 +108,6 @@ There is a reason and it is arithmetic and it is that a woman who is owed nothin
 
 And the other reason is the old one and it is not arithmetic at all and she did not look at it, and it is that she has been on her own in a country where not one thing she does is written down anywhere except a plank, for twenty-five days, and a book that says she was here is worth more than a day of not having to ask.
 
-She did not say either of those out loud and neither of them goes on the page of anybody's book.
+She did not say either of those out loud and neither of them goes on the page of anybody’s book.
 
 The man at the plank had a rule and a book and a second date to write at the far end of a column, and he had not written it yet, and he had not said no.

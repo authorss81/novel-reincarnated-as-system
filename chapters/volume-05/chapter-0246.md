@@ -58,7 +58,7 @@ Nobody in that room knows she exists.
 
 ## What It Costs One Person
 
-She stood at the side of a plank on the far side of a line of work and understood that the only instrument in the world that can close a bill of eight hundred jin is a column of hours belonging to a woman who has four fingers' worth of grip on one hand.
+She stood at the side of a plank on the far side of a line of work and understood that the only instrument in the world that can close a bill of eight hundred jin is a column of hours belonging to a woman who has four fingers’ worth of grip on one hand.
 
 The instrument is hers. She is the only person who can decide to give it away or to keep it.
 

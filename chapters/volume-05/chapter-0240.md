@@ -100,7 +100,7 @@ There is nothing past that. Not a field and not a hedge and not a fence, just gr
 
 She has never seen ground with nothing on it before in her life.
 
-Inside a bound, every square foot of it is somebody's. That is not a law, it is what a bound is, and she had gone four years without ever standing on ground that was not worked or hedged or built or fenced, and she had not known that was what a life looked like until about the fourth hour of the sixth evening on the far side of a line of work.
+Inside a bound, every square foot of it is somebody’s. That is not a law, it is what a bound is, and she had gone four years without ever standing on ground that was not worked or hedged or built or fenced, and she had not known that was what a life looked like until about the fourth hour of the sixth evening on the far side of a line of work.
 
 She turned round and went back past the mill with the last of the light behind her, and the mill was lit, and the track was empty, and she was the only person within nine days of road walking on it.
 

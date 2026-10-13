@@ -16,7 +16,7 @@ She had forgotten what it is like to be in a room where nobody is talking to her
 
 It is not restful. It is the opposite of restful. Every one of them was talking across her and over her and past her, and the two hours were about a cart at the mill and a debt between two of them and a brother-in-law and a price for threshing, and she understood about half of it and had no part in any of it, and it went on exactly as it would have gone on if she had got up and gone.
 
-Inside the bound every room she has stood in has turned. A registrar's hall. A hall with no roof. A foreman's gate. A counter. A county office. A room with nine rows in it and a man with a door.
+Inside the bound every room she has stood in has turned. A registrar’s hall. A hall with no roof. A foreman’s gate. A counter. A county office. A room with nine rows in it and a man with a door.
 
 The first thing she had done here was to work out how to be in a room without turning it, and she had got it right, and the cost of getting it right is that she spent two hours in a room on the far side of a line of work hearing nine days of road go past her.
 

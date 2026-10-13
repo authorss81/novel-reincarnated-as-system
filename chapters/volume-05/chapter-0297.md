@@ -74,7 +74,7 @@ He did not ask her a question. He had never asked her a question in any room in 
 
 That was the whole of what he said and he said it without weight and without a threat in it and without anything in it that cost him anything, and it was the truest thing anybody had said to her in five months.
 
-She did not thank him. She had not thanked him in a room in front of twenty people in a county and she was not going to start on a track, and the account between them had been carrying for four years and was going to carry for the rest of the book.
+She did not thank him. She had not thanked him in a room in front of twenty people in a county and she was not going to start on a track, and the account between them had been carrying for four years and was going to carry for as long as either of them was standing.
 
 She did not tell him to stop. She had never once told him to stop and she had thought about telling him to stop perhaps nine times in five months and had not done it, and she was not going to do it now, and the reason was the same reason as the thanks and it had nothing to do with him.
 

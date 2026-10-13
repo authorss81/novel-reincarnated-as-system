@@ -62,7 +62,7 @@ He closed the book on his palm, which was what the man at the plank did with a b
 
 “A figure is a figure and it is only paid against something. If the something has a start and an end and is true all the way through, I can write it out and send it. If it goes on and on with no end on it, I cannot write it out at all, because a thing I cannot put a date to is a thing nobody past this post can put a date to either.”
 
-She stood at the counter and understood the whole of the room in about four seconds, the way she understood things, which was fast and without comfort.
+She stood at the counter and understood the whole of the room before the stove had ticked twice, the way she understood things, which was fast and without comfort.
 
 He needed her to stop. He needed the run to be finite and closed and dated on both ends before he could do the one thing the room was built to do. And he could not move the far date, and she could not move it, and neither of them had ever been going to be able to move it, and it had been written in the second of a month by a clerk with a slate who had put his own mark beside it.
 

@@ -34,7 +34,7 @@ She had been in a room once with nine rows of figures in it and a man with a doo
 
 That is what the far-side book is and it is the same object as nine counties and a district and a course, and the reason nobody on nine days of road has ever heard of her is that in all of them she is a row, and a row is a thing that arrives and goes and the office does not need to know a name to move it.
 
-Here she is a row too. The difference is that a row on this side of a line of work is a woman's whole reason for being in a country.
+Here she is a row too. The difference is that a row on this side of a line of work is a woman’s whole reason for being in a country.
 
 The pay is the wage for the days in the column and the column is the only evidence there is. If a day is not in there then the day did not happen and there is no second copy of it anywhere on this reach and no man alive can put it back.
 
@@ -58,7 +58,7 @@ From the fourth to the thirteenth. The seventh is in the middle of it. Then the 
 
 She got used to the ten inside four days and then stopped noticing it, in about the way she stopped noticing the five coppers, which is to say she noticed it every single day and never once found it interesting.
 
-The interesting part is not the interval. The interesting part is that the interval is a line of somebody else's making, and that the wage on a given morning is decided by a set of days that were fixed before she came here, and that there is no version of any of this in which she can change it.
+The interesting part is not the interval. The interesting part is that the interval is a line of somebody else’s making, and that the wage on a given morning is decided by a set of days that were fixed before she came here, and that there is no version of any of this in which she can change it.
 
 That is the whole of a pay-day and it took a book and a man at it to teach her.
 
