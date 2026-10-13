@@ -25,12 +25,16 @@ This file is **append-only and long, and most of it is history.** You do not nee
 - **In-world date:** **day 219** of Volume 3's own clock — the first week of the deep cold, the third month of it. **Day 0 is the last day of the thaw** (canon change 30). **Month-day = day − 133** on a thirty-day month (ch 150 puts day 136 at the third of the month): the third monthly attendance was day 209, **the sixteenth**; the winter return was read at the second hour on day 212, **the nineteenth**; the petition was filed day 213, the twentieth. **The season's road shut on day 117** and has not opened.
 
 **What the close audit confirmed, in one place.** `outline/volume-03.md` has been walked line by line against
-ch 119–178 and **all thirteen named items PASS**; **nine faults in the chapters were found and all nine
-repaired**, six further findings are recorded with a reason, and four inaccurate claims in the state files
+ch 119–178 and **all thirteen named items PASS**; **nine faults in the chapters were found and repaired**,
+six further findings are recorded with a reason, and four inaccurate claims in the state files
 were corrected; **the eleven items that had to be preserved after the volume are all eleven confirmed**,
 including that **Bai Zhu is named at ch 150 and on no document he signs**; **the final chapter image is
 confirmed element by element at ch 178 and nothing follows it**; and the next phase is the **Volume 3 close
-record**. Full table at `## Volume 3 close audit — CLOSED` below.
+record**. **The close review then reversed one of those nine repairs** — the audit's four-county / nine-county
+footprint rule was backwards and contradicted four closed Volume 1 chapters, so **ch 160, ch 163 and ch 176
+were reverted to four counties** and ch 131's age was corrected to the canon figure. Full table at
+`## Volume 3 close audit — CLOSED` below, and **the reversal is written up under
+*Close review repair* in that same block — read it before using any footprint figure from the audit.**
 
 ## Who is where at end of chapter 178 — VOLUME 3 CLOSED AND AUDITED (cold reader starts here)
 
@@ -38,9 +42,10 @@ record**. Full table at `## Volume 3 close audit — CLOSED` below.
   front of nine men.** Ceiling 9, relicensed ch 132, **seven conditions on the back, referenced and never
   re-listed; the claim is the seventh and the last thing on the paper.** **There is nothing above nine on
   the front of the document anywhere in the world**, and a registrar has said so out loud in a room.
-  **The stage column reads one, two, three, five, six, seven, nine — three holes in nine lines, and nine
-  counties that have it in order.** **The fourth stage of her life and the eighth are on no paper in nine
-  counties and never will be.** **Short breath three counts on stairs, never back to two. The heel of her
+  **The stage column reads one, two, three, five, six, seven, nine — three holes in nine lines, written into
+  the county books of four counties out of nine, and read out across all nine.** **Nine counties is what is
+  heard; four counties is what is written** (V1 ch 46, *in four counties of nine*). **The fourth stage of her
+  life and the eighth are on no paper in nine counties and never will be.** **Short breath three counts on stairs, never back to two. The heel of her
   left hand is gone** — she writes the county hour with the flat of a second finger, eleven minutes longer
   than she used to, **and she told nine men so out loud at ch 172.** Right arm open a third of the time.
   **The second licence is nailed STRAIGHT above the second bunk. The first is rolled in the lining of her
@@ -261,10 +266,11 @@ sixth. **That call is reversed here.** It is a repetition tic by the `AGENTS.md`
 a trade for a relative count in three chapters: ch 153, ch 161 and ch 173. **ch 150, 162, 163 and 174 keep
 the figure** — see **R3** in the table below for which were left and why.
 
-**Recorded, not repaired at the Batch 0004 review — split here.** Ch 131 reads **“She was twenty”** and
+**Recorded, not repaired at the Batch 0004 review — split here.** Ch 131 read **“She was twenty”** and
 named a weekday (*on a Thursday in the morning*). **The weekday half is closed: repaired in the chapters at
-R2, and ch 119–178 now names no weekday anywhere.** *“She was twenty”* remains standing, is not this pass's
-to open, and is the only surviving item on that list.
+R2, and ch 119–178 now names no weekday anywhere.** *“She was twenty”* was left standing at that pass.
+**Both halves are now closed: the age was repaired at the close review to “She was eighteen.”** See
+*Close review repair* above.
 
 ### Volume 3 Batch 0004 — review pass and repair (fix phase)
 
@@ -289,8 +295,9 @@ speech; no blockquote, code fence, table or rule was introduced; every chapter i
 and above the 1,300 floor — **the close audit finds this wrong: ch 138 and ch 151 are below the guide and nine
 chapters are above it**; **Volume 3 file set 135,020 words** at this date, Batch 0001 **36,809**, Batch 0002
 **36,742**, Batch 0003 **30,961**, Batch 0004 **30,508** — **now 135,014 / 30,958 / 30,505 after the audit's six
-repairs** — and the same figures are restated in `state/book-metadata.md`,
-`state/continuity.md`, `state/open-threads.md` and `workspace/volume-03-batch-0004/SUMMARY.md`.
+repairs, and unchanged by the close review's one-word reverts** — and the same figures are restated in
+`state/book-metadata.md`, `state/continuity.md`, `state/open-threads.md` and
+`workspace/volume-03-batch-0004/SUMMARY.md`.
 
 ---
 
@@ -298,14 +305,17 @@ repairs** — and the same figures are restated in `state/book-metadata.md`,
 
 `outline/volume-03.md` has been walked line by line against ch 119–178. **Every named item is recorded below
 with a chapter reference. All thirteen PASS.** The audit found **nine faults in the chapters and repaired all
-nine**, word-level or single-number, in seven chapters; **six more are recorded as findings with a reason**,
-one of them the ch 131 item standing by a prior decision and not this phase's to open; and **four were faults
-in the state files themselves**, which are corrected here and in `state/continuity.md`, `state/open-threads.md`,
-`state/chapter-summaries.md` and `state/book-metadata.md`. No batch was replaced, no card beat moved, the
-single bracket stayed at ch 171, the irreversible step stayed at ch 150, and every ending stayed where it was.
+nine**, word-level or single-number, in seven chapters; **six more are recorded as findings with a reason**;
+and **four were faults in the state files themselves**, which are corrected here and in
+`state/continuity.md`, `state/open-threads.md`, `state/chapter-summaries.md` and `state/book-metadata.md`. No
+batch was replaced, no card beat moved, the single bracket stayed at ch 171, the irreversible step stayed at
+ch 150, and every ending stayed where it was.
 
-**Counts after repair: Batch 0001 36,809 · Batch 0002 36,742 · Batch 0003 30,958 · Batch 0004 30,505 ·
-Volume 3 file set 135,014.** The pre-audit figure was 135,020; the nine repairs removed six words and added none.
+**Three of those nine repairs were later reversed by the close review** and the block *Close review repair*
+below supersedes this one wherever the two disagree. **Counts after repair: Batch 0001 36,809 · Batch 0002
+36,742 · Batch 0003 30,958 · Batch 0004 30,505 · Volume 3 file set 135,014.** The pre-audit figure was
+135,020; the audit's repairs removed six words and the close review's three reverts and one age fix were
+one-word swaps, so **135,014 is the figure both before and after the review.**
 
 ### The audit table
 
@@ -356,28 +366,28 @@ Volume 3 file set 135,014.** The pre-audit figure was 135,020; the nine repairs 
 
 **Nine word- or number-level repairs, in seven chapters.** **No batch was replaced, no card beat moved, the
 single bracket stayed at ch 171, the irreversible step stayed at ch 150, and every ending stayed where it
-was.** Six of the nine are the same single error in the same figure — the footprint of the **stage column and
-the announcements** is **nine counties** (ch 120, 132 line 217, 148, 171, 173, 178) and six chapters had it at
-**four**, which is the claim's and the furnace schedule's footprint and is correct *there*. Two are Hou's
-counting room being put nine counties away when it is **in Lowwater**, where she is standing.
+was.** Six of the nine were one figure, put at four where it should have been nine; two are Hou's counting
+room being put nine counties away when it is **in Lowwater**, where she is standing; one is the winter's
+length at ch 176. **Three of the six were the wrong half of the figure and were reverted at the close
+review** — see *Close review repair* below. The audit's own statement of the rule is superseded there.
 
 | # | Ch | Fault | Change |
 | --- | --- | --- | --- |
-| 1 | 150 | **"about four hundred people in four counties who had heard a woman's body get to six and get to seven"** — the sentence opens *Nine counties* and then puts the announcement in four | **nine counties.** Its echo at ch 161 repaired with it, so the two still echo exactly |
-| 2 | 153 | **"It had been dramatic in four counties."** The announcement, at four in the morning | **nine counties** |
-| 3 | 160 | **"And there was a hole in a column four counties wide."** The stage column, two lines under *no sound in nine counties* | **nine counties wide** |
-| 4 | 161 | **"about four hundred people in four counties who had heard her body get to six and get to seven"** — the echo of ch 150 line 143 | **nine counties** |
-| 5 | 163 | **"A hole in a stage column in four counties"** — against ch 132 line 217 (*readable in order by anybody in nine counties*) and ch 174, read aloud in a room | **nine counties** |
-| 6 | 163 | **"a date against it nine counties away in a counting room she had never been in"** — Hou Sanliang's counting room is **in Lowwater** (ch 135 line 57, ch 147 line 77, ch 155, ch 173 line 159) | **"in a counting room she had never been in"**, matching ch 173 |
-| 7 | 176 | **"a paper in four counties with three holes in it"** — the same footprint error, four days before ch 178's *nine counties that had it in order* | **a paper in nine counties** |
-| 8 | 176 | **"about eleven weeks of winter left in it"** — four days before ch 178, which says **about six weeks of winter still to come in it**. Both figures land on the same end of the winter (day 184 + 11 weeks = day 215 + 7 weeks = day 219 + 6 weeks), so ch 176 was the wrong one | **about seven weeks** |
-| 9 | 177 | **"sitting nine counties away in a counting room she had never been in"** — the same, at the last look she takes at the claim before the volume ends | **sitting in a counting room she had never been in** |
+| 1 | 150 | **"about four hundred people in four counties who had heard a woman's body get to six and get to seven"** — the sentence opens *Nine counties* and then puts the announcement in four. **Correct: what is *heard* is nine counties** (V1 ch 46, *in four counties of nine*; ch 55, *going round nine counties*) | **nine counties.** Its echo at ch 161 repaired with it, so the two still echo exactly. **Stands at the close review.** |
+| 2 | 153 | **"It had been dramatic in four counties."** The announcement, at four in the morning | **nine counties.** **Stands at the close review.** |
+| 3 | 160 | **"And there was a hole in a column four counties wide."** The stage column, two lines under *no sound in nine counties* | **REVERTED at the close review to four counties.** The audit's change to nine was wrong: this is the **written** column, and V1 canon puts documents in four counties |
+| 4 | 161 | **"about four hundred people in four counties who had heard her body get to six and get to seven"** — the echo of ch 150 line 143 | **nine counties.** **Stands at the close review.** |
+| 5 | 163 | **"A hole in a stage column in four counties"** — the audit changed this to nine on the authority of ch 132 line 217 | **REVERTED at the close review to four counties.** See *Close review repair* below |
+| 6 | 163 | **"a date against it nine counties away in a counting room she had never been in"** — Hou Sanliang's counting room is **in Lowwater** (ch 135 line 57, ch 147 line 77, ch 155, ch 173 line 159) | **"in a counting room she had never been in"**, matching ch 173. **Stands at the close review.** |
+| 7 | 176 | **"a paper in four counties with three holes in it"** — the audit changed this to nine | **REVERTED at the close review to four counties.** A paper is paper |
+| 8 | 176 | **"about eleven weeks of winter left in it"** — four days before ch 178, which says **about six weeks of winter still to come in it**. Both figures land on the same end of the winter (day 184 + 11 weeks = day 215 + 7 weeks = day 219 + 6 weeks), so ch 176 was the wrong one | **about seven weeks.** **Stands at the close review.** |
+| 9 | 177 | **"sitting nine counties away in a counting room she had never been in"** — the same, at the last look she takes at the claim before the volume ends | **sitting in a counting room she had never been in.** **Stands at the close review.** |
 
 **Six words left the manuscript and nothing else did.** The four-county figure survives where it belongs —
-the claim at ch 132 ×2, 140, 148 ×2; the furnace schedule at ch 148 and 159 (each of which pairs *nine
-counties* with *a furnace schedule in four counties* in the same sentence, on purpose); the Bureau's bundles
-at ch 138; the sponsors' book at ch 128. **That distinction is now written down as a rule in
-`state/open-threads.md` so it does not blur again.**
+the claim at ch 132 ×2, 140, 148 ×2; the furnace schedule at ch 148 and 159; the Bureau's bundles at
+ch 138; the sponsors' book at ch 128. **At the close review this paragraph and the repair rows above were
+corrected: the footprint rule was the wrong way round, and three of the nine repairs were reverted.** Read
+*Close review repair* below before using any figure from this audit.
 
 **Verified after repair:** all sixty files have balanced speech; **zero** blockquotes, code fences, tables or
 rules; **zero** weekdays; **zero** banned reflexes (*his eyes widened*, *he couldn't believe it*, *suddenly*,
@@ -431,15 +441,22 @@ paragraph 90 words; **Volume 3 file set 135,014 words** — Batch 0001 36,809 ·
   **fourteen chapters**. Corrected above and in `state/continuity.md`.
 - **"The four seconds: one use at ch 171"** — **wrong.** Thirty-six uses across twenty-six chapters.
   Corrected in `state/continuity.md`.
-- **Volume 3 file set** — 135,020 → **135,014** after the nine repairs. Restated in `state/book-metadata.md`,
-  `state/continuity.md`, `state/open-threads.md` and `workspace/volume-03-close/SUMMARY.md`.
+- **Volume 3 file set** — 135,020 → **135,014** after the audit's repairs. Restated in
+  `state/book-metadata.md`, `state/continuity.md`, `state/open-threads.md` and
+  `workspace/volume-03-close/SUMMARY.md`.
+- **"The name in the wrong order: five uses across four chapters (120 ×2, 129, 158, 162)"** — **wrong, and
+  wrong in the close audit's own sweep.** It is **six uses across five chapters**: ch 120:15, ch 129:27,
+  ch 129:29, **ch 149:5**, ch 158:15, ch 162:65. The second ch 120 hit is stones put back on a mat in the
+  wrong order, not the name. Corrected in `state/continuity.md` and above.
+- **"The footprint of the stage column is nine counties"** — **wrong, and reversed at the close review.**
+  Nine is the heard footprint, four is the written one. See *Close review repair* below.
 
 ### Still standing, and not this phase's to open
 
-**Ch 131 reads "She was twenty."** `bible/characters.md` fixes her at eighteen in Volume 3 and the phrase was
-caught in two later drafts and cut. It is the only surviving item on that list and it **is not opened here.**
-**Recorded as a proposed repair** in the usual form: cut the number, or fold it into the surrounding clause,
-in a Volume 4 fix pass that has a reason to open ch 131.
+**Nothing. The last item on this list is closed.** Ch 131 read *"She was twenty."* — `bible/characters.md`
+fixes her at **eighteen in Volume 3** and ch 131 is in Volume 3. **Repaired at the close review to
+*"She was eighteen."***, so the beat survives and the page stops contradicting the bible. No other chapter
+in ch 119–178 states her age.
 
 ### The construction-budget sweep
 
@@ -456,13 +473,65 @@ range, not as a rule breach.**
 **The seven relicensing conditions re-listed: zero.** **The suppression arithmetic re-run: zero** — the three
 gaps are ruled in four words at ch 174 and Sun He stops. **The claim-as-entered-act arithmetic: once**, at
 ch 155, and not restated. **What a surety is for: zero.** **The signed-shift roster rule re-explained: zero.**
-**The name in the wrong order: five uses across four chapters** (120 ×2, 129, 158, 162), every one of them the
+**The name in the wrong order: six uses across five chapters** (120, 129 ×2, 149, 158, 162), every one of them the
 copyist's habit *used* and none of them *taught*; ch 129 is the one the outline permits. **The carriers' run
 lists: ch 146 supplies them, ch 155 and 158 use them, ch 164 refers back** — a mechanism, not a refrain.
 **The shoring over the cold end: zero** — she works it at ch 164–170 and it does not fail. ***The shape of a
 happy life*: zero.** **Weekdays: zero.** **Authorial scaffolding: zero.** **`his eyes widened`,
 `he couldn't believe it`, `suddenly`, `little did he know`: zero.** **No harem, nothing a romance, no new final
 enemy.**
+
+### Close review repair — this block supersedes the footprint rule above
+
+The volume-close review re-audited this phase and **reversed the central rule the close audit wrote.** The
+audit held that *nine counties* was the footprint of the stage column and the relicensed licence and that
+*four counties* was the claim's and the furnace schedule's. **That is the wrong way round, and it breaks four
+closed Volume 1 chapters.**
+
+**The canon, from Volume 1, in the characters' own words:**
+
+- **ch 46** — *the same advancement, **in four counties of nine**. Hanhui wrote that it was done for
+  discipline. Shouyi wrote that no name had been given at all.*
+- **ch 55** — *The announcement had been going round **nine counties** for three days, and Du Hong had read
+  **her four counties' versions**.*
+- **ch 53** — *somewhere in **four counties** four copyists were writing down four sentences about it.*
+- **ch 55** — *There were **four copies of it in four counties**, because the announcement had gone out to four
+  counties and each had written it down in its own book.*
+- **ch 58** — *The design was on a document **in four counties**.*
+
+**So: NINE counties is what is heard. FOUR counties is what is written.** Volume 2 says the same in one
+sentence (ch 115): *An announcement is audible inside the bound.* Volume 3's own unedited text says it twice —
+**ch 148:51** and **ch 159:61** both put the stage column and the annex on a furnace schedule **in four
+counties**, in the same sentence as *nine counties* knowing about it.
+
+**What the audit's authority actually was, and is not.** The audit cited ch 132:217 — *readable in order by
+anybody in nine counties with a stamp and a reason*. That sentence is about **obtainability**: with a stamp
+and a reason, a person in any county may get a certified copy and read it. **It is not a statement about
+which books the column is entered in**, and it cannot license putting the column itself in nine books.
+
+**Repaired here — three one-word reverts, ch 160, ch 163, ch 176.** All three are now back at **four
+counties**: *a hole in a column four counties wide* (ch 160), *A hole in a stage column in four counties*
+(ch 163), *a paper in four counties with three holes in it* (ch 176). **The three heard-footprint repairs
+stand** — ch 150, ch 153 and ch 161 are about what people *heard*, which is nine. **Ch 178's *nine counties
+that had it in order* stands** and is the reading, not the books; ch 171 (*It went out of the bound in every
+voice in nine counties*) is the volume's idiom for it.
+
+**This makes Volume 3 harsher, not softer, and that is correct.** One advancement entered in four counties is
+entered four times and billed four times. That is what happened to her father at ch 55 and it is what the
+three holes in her own column now do to her, in four county books, permanently.
+
+**Rule as it now stands, for Volume 4:** nine for hearing, reading out, going round, or a certified copy
+obtainable with grounds; four for anything written into a book. The rule is in `state/open-threads.md`.
+
+**Also at this review:** ch 131's **"She was twenty."** repaired to **"She was eighteen."** against
+`bible/characters.md` (*seventeen at the start of Volume 1; eighteen in Volume 3*). One word. See
+*Closed at the close review* in `state/continuity.md`.
+
+**And one operational finding, not repaired because it is not this phase's to touch:**
+`workspace/volume-03-close/` has **no `.done` marker**, where `volume-03-batch-0003` and `-0004` both have
+one. `.done` is written by `scripts/novel_runner.sh` on the success path and is a controller artifact.
+**Recorded, not touched** — if the close phase re-dispatches, that is the runner's business, not a writing
+phase's.
 
 ### The Volume 4 hand-off
 
@@ -622,7 +691,8 @@ nowhere on the page** (two ages were caught in Batch 0003 draft — at ch 156 an
 **Ch 131 also named a weekday** (*on a Thursday in the morning*); Batch 0003 names **zero** weekdays and
 two were caught in draft and cut. **Neither chapter was opened when this batch was written. Both were
 opened at the Batch 0004 fix pass and the weekday is gone** — see *Volume 3 Batch 0004 — review pass and
-repair (fix phase)*, item **R2**. *She was twenty* at ch 131 is still standing and untouched.
+repair (fix phase)*, item **R2**. *She was twenty* at ch 131 stood untouched through this batch and **was
+repaired at the close review** — see *Close review repair*.
 
 ---
 
@@ -771,7 +841,7 @@ was opened.
 
 | Ch | Fault | Note |
 | --- | --- | --- |
-| 131 | The closing line reads **“She was twenty.”** | `bible/characters.md` fixes her at **seventeen at the start of Volume 1, eighteen in Volume 3**, and the manuscript's own elapsed time across Volumes 1–3 is about fourteen months, which does not reach twenty. The smallest repair would be to cut the number or move it into the surrounding clause. **Not edited** — Batch 0001 is closed and the batch prompt forbids reopening 119–132. **Batch 0002 therefore states her age nowhere on the page**, and where a character has to have one (the bounty man's old description at ch 140) it reads *a woman of about eighteen*, which agrees with the bible. |
+| 131 | The closing line reads **“She was twenty.”** | `bible/characters.md` fixes her at **seventeen at the start of Volume 1, eighteen in Volume 3**, and the manuscript's own elapsed time across Volumes 1–3 is about fourteen months, which does not reach twenty. The smallest repair would be to cut the number or move it into the surrounding clause. **Not edited** — Batch 0001 is closed and the batch prompt forbids reopening 119–132. **Batch 0002 therefore states her age nowhere on the page**, and where a character has to have one (the bounty man's old description at ch 140) it reads *a woman of about eighteen*, which agrees with the bible. **CLOSED at the close review: repaired to “She was eighteen.”** |
 | 131 | Deng Chao's speech read **“he read a line in a registrar's bundle out loud on a Thursday in the morning.”** | A weekday is named. Volume 3 Batch 0002's own hard rule is **no weekday anywhere**, and two were caught in draft and cut; this one predates it. **Not edited then** — Batch 0001 was closed and the batch prompt forbade reopening 119–132. **REPAIRED at the Batch 0004 fix pass:** read **“in the morning of the day the crate went”**, with ch 128's signing rule re-cast as *the day after the crate goes* and ch 128's bundle line as *on the day the crate went*, so the rule ch 131 pays off survives without the name. **ch 119–178 now names no weekday at all.** |
 
 ## Volume 2 close audit

@@ -132,7 +132,7 @@ That night she stood at the top of the third flight and looked down the hill at 
 
 It was burning. It had been burning since the coal came and it would burn until the spring, and this quarter the thing that went up the four flights of that tower's stair went up in a district clerk's arms and came down in his arms empty, and the man who owned the lamp had put it that way himself in the middle of the autumn in writing.
 
-She had been standing on that stair for four months doing arithmetic on the same three things, and the three things were: about seven weeks of winter left in it, a paper in nine counties with three holes in it, and a line on a shelf saying that an instrument not held in this county had been referred upward.
+She had been standing on that stair for four months doing arithmetic on the same three things, and the three things were: about seven weeks of winter left in it, a paper in four counties with three holes in it, and a line on a shelf saying that an instrument not held in this county had been referred upward.
 
 None of them had changed and none of them was going to.
 

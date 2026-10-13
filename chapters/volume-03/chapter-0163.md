@@ -74,7 +74,7 @@ About three weeks of what was in her head. Eleven weeks of winter left in it.
 
 A licence in oilcloth against her ribs above a clay plate, with seven conditions and a ceiling of nine in her own hand and an eight hundred jin claim standing on the back of it that had a date against it in a counting room she had never been in.
 
-A hole in a stage column in nine counties that read one, two, three, five, six, seven, and then a space.
+A hole in a stage column in four counties that read one, two, three, five, six, seven, and then a space.
 
 A reading in about three weeks, at the second hour, in front of a room, with a registrar in it and a man at the back of it and a clerk who turns the sheet round so that the queue can see that it is signed.
 

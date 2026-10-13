@@ -192,4 +192,4 @@ The win was in her chest on the four-mile road down in the sun and she felt it t
 
 And about halfway down, at the turn at the willows, past the weigh-station where a road four miles long began, the short breath came up at a rise she had gone up forty times, and she had to stand at the side of a cart track with a bundle of paper against her chest and wait for it.
 
-She was twenty. It was the first weeks of summer, in the light of a morning that had cost her four marks and a clearance and a sentence she had written for a registrar to read about an aperture that had not healed by one letter.
+She was eighteen. It was the first weeks of summer, in the light of a morning that had cost her four marks and a clearance and a sentence she had written for a registrar to read about an aperture that had not healed by one letter.

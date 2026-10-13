@@ -1205,10 +1205,11 @@ items, every repair and every finding is in `state/current.md` under `## Volume 
 What follows is only what a cold reader of this file needs, and it corrects three claims above that the
 audit found to be inaccurate.
 
-- **Word counts.** Batch 0003 **30,958**, Batch 0004 **30,505**, **Volume 3 file set 135,014** after **nine
-  word-level repairs in seven chapters** (ch 150, 153, 160, 161, 163, 176, 177). Six words left the
-  manuscript and nothing else did. The four-county / nine-county footprint rule is now in
-  `state/open-threads.md`.
+- **Word counts.** Batch 0003 **30,958**, Batch 0004 **30,505**, **Volume 3 file set 135,014** after the
+  audit's word-level repairs in seven chapters (ch 150, 153, 160, 161, 163, 176, 177). Six words left the
+  manuscript and nothing else did, and **the close review's three reverts were one-word swaps, so the total
+  is still 135,014.** **The four-county / nine-county footprint rule is now in `state/open-threads.md`, in
+  its corrected Volume 1 form: nine counties is what is heard, four counties is what is written.**
 - **Chapter length, corrected.** The Batch 0004 record said *every chapter inside the 1,800–2,700 guide and
   none under the floor*. **That is wrong.** **Ch 138 is 1,779 and ch 151 is 1,653**, both below the guide;
   **nine chapters are above it** (126, 127, 129, 130, 131, 132, 135, 140, 150), longest **ch 140 at 3,193**.
@@ -1236,14 +1237,16 @@ audit found to be inaccurate.
   **"Nobody thanked her"** at ch 172, past tense. *Nobody knew*: **zero** — the Batch 0004 claim of one at
   ch 164 is wrong, the actual line is *he was not thanked*. *Nobody said anything*: **nine uses across eight
   chapters** (125, 131 ×2, 134, 154, 159, 162, 172, 174), one per seven and a half chapters, at the top of
-  the acceptable range and not a breach. *The name in the wrong order*: **five uses across four chapters**
-  (120 ×2, 129, 158, 162), every one of them used and none taught.
+  the acceptable range and not a breach. *The name in the wrong order*: **six uses across five chapters**
+  (120, 129 ×2, 149, 158, 162), every one of them used and none taught.
 - **Du Hong's name is used four times in Volume 3** (ch 119, 125, 138, 160), all of them as remembered weight
   inside a live scene. Cao Lei and Xu An are never named in Volume 3. **The burial line is not reopened**: no
   cause is re-argued, nothing is buried again, and no dead name goes into a document. **Not repaired**; see
   `state/current.md`.
-- **Standing and untouched:** ch 131 still reads **"She was twenty."** It is the only surviving item on the
-  closed-chapter list and this phase did not open ch 131 to fix it.
+- **Closed at the close review:** ch 131 read **"She was twenty."** **The canon figure is eighteen** —
+  `bible/characters.md`: *Seventeen at the start of Volume 1; eighteen in Volume 3* — and ch 131 is in
+  Volume 3. **Repaired to "She was eighteen."** at the close review rather than cut, so the beat stays and
+  the page stops contradicting the bible. Nothing else in ch 119–178 states her age.
 
 ### Carried forward, unchanged, into Volume 4
 
@@ -1268,7 +1271,7 @@ word, and she has about ten days of channel.**
 | Her stage | **Condensing 9, ANNOUNCED at her own order on day 198, witnessed by nine men at the cold end.** Ceiling **Condensing 9** in her own hand, relicensed ch 132, and **there is nothing above it on the document.** Arm at a third. Aperture cracked through and permanent. **Short breath three counts on stairs, never back to two. The heel of her left hand is gone**, told out loud to nine men at ch 172, and every county hour takes eleven minutes longer |
 | Licence | **RELICENSED, ch 132.** Clause Four, ceiling nine, **seven conditions**, the claim the seventh and the last. **Nothing above nine on the front of it anywhere in the world.** **The second licence is nailed straight above the second bunk (ch 178). The first is rolled in the lining of her coat, taken down before it went soft.** A relicensing at Foundation the first stage is **petitioned, numbered, received, routed and barred, not refused, and not withdrawable** (ch 175) |
 | Hours | 940/940 tithe level (ch 86) + 311 season (ch 113) + 58 annex level at the thaw (ch 147) + winter annex on **forty-three weight tickets, her hour on thirty-four of them**. *Irregular* stamped on the front of the Qinghe furnace schedule for the **fourth** time this year. The quarterly schedule went up the twentieth of the month in the same crate as the referral, the request and the petition |
-| In-world date | **day 219** — first week of the deep cold, the third month of it. **The season's road shut on day 117 and has not opened.** The lane behind a well is running again at four loads a week, bought at nine coppers a load. **The stage column reads one, two, three, five, six, seven, nine — three holes in nine lines, in nine counties** |
+| In-world date | **day 219** — first week of the deep cold, the third month of it. **The season's road shut on day 117 and has not opened.** The lane behind a well is running again at four loads a week, bought at nine coppers a load. **The stage column reads one, two, three, five, six, seven, nine — three holes in nine lines, written into the county books of four counties out of nine and read out across all nine** |
 | Settlement | **about ten days** (from about ten at ch 140, less four and a half at ch 149 = about five and a half, less thirty-six days of rationed use = about three, less the eleven chapters to the close), against **about six weeks of winter still to come in it**. **Ledger is hers to order and his to hold only on her word, and she did not order it** |
 | Bounty | 800 jin, standing, unanswered, the seventh condition, travelling on the licence. **Looked at at ch 177 and not torn off.** **A date has been entered against it in a Lowwater counting room by a hand that is not the counting room's.** **Hou Sanliang still unpaid, still patient, still never met.** **The ch 150 handover would have answered it in full and she refused it in a room with two witnesses** |
 | The referral | **Filed, dated day 212, read twice in a low room in front of twenty people, and gone up the stair past every office she has ever stood in front of.** Carries her name, her stages **in order**, and her hours. **Carries no agent's name.** The subject was standing in the room. The dismantling it orders **can only be executed past a boundary no county paper crosses** |

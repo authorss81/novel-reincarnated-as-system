@@ -247,24 +247,29 @@ bracket or ending moved. The audit table and the repair note are in `state/curre
 | 177 | Out of the Oilcloth | Day 217. **Small, warm, domestic, competent.** She takes the second licence out of the oilcloth on the bench in the wash house and lays it flat. The front: **Condensing nine** in her own writing and a new line under the defect saying it restores nothing, entered on a loft mat in the summer. The back: she does not read the seven conditions, because she read them once, and she looks at the last line, **the eight hundred jin, seventh and last**, and does not tear it off, and it was still there when the crate went. The Clay Plate stays against her ribs. The first licence comes down off two nails, going soft at the crease of a defect line she wrote herself, and gets rolled into her coat lining before it is unreadable. Four nails, six coppers. **She practises at the foot of the bunk in the dark — three straight out of five, and the fifth splits the pine — and then in daylight in the yard behind the Hall, where the second hour teaches her the third thing: the hand does not want to be watched, and the stroke is something she has been doing rather than letting the arm finish.** She will do it at the seventh hour, when nine men come in and somebody says something about the fire. No bracket. |
 | 178 | Straight | Day 219. **THE FINAL IMAGE, all seven elements, then stop.** First week of the deep cold. The fire goes down twice between the fourth hour and the light. Ten people sleep in twelve bunks. She is in the second bunk and she can see the one light in Lowwater from the stair, and **the thing that goes up that tower's four flights this quarter goes up in a district clerk's arms and comes down in his arms empty, because Feng asked for it in writing in the autumn and was not refused and was not thanked for it.** **The licence comes out of the oilcloth for the second day running.** She has two arms' worth of practice at nailing and one arm. She strikes it, it stops a third of the way in, she strikes it again, **and it goes in straight**, and there is no way on earth of correcting it now and no need to. The second nail goes straight too. Then she tells Yuan the thing is gone up the stair past every office she has ever stood in front of, to an office **whose name he still cannot read**, and she says she was never going to stop him. **She asks how much of it is there, and he tells her the truth: about ten days.** Ten days, and about six weeks of winter still to come in it. A licence with nothing on it above nine. Three holes in nine lines and nine counties that have it in order. A petition barred. About a hundred and forty coppers. **She has the Ledger to order and she does not order it.** And in the last line, with the fire down to a bed of ash and ten people asleep, she does not tell him to stop. |
 
-## Volume 3 closed — audited
+## Volume 3 closed — audited, then reviewed
 
 **Audited against `outline/volume-03.md` line by line at the volume close. PASS on all thirteen named
-items, with nine word-level repairs made in the chapters.** No title, chapter order, card beat, bracket or
-ending moved. The full audit table, the repair list, the five findings recorded and not repaired, and the
-corrections to three inaccurate claims in the state files are in `state/current.md` under
-`## Volume 3 close audit — CLOSED`. **What the close changed on the page, for Volume 4 to read first:**
+items.** No title, chapter order, card beat, bracket or ending moved. The full audit table, the repair list,
+the findings recorded and not repaired, and the corrections to inaccurate claims in the state files are in
+`state/current.md` under `## Volume 3 close audit — CLOSED`, with the close review's reversal of one of the
+audit's rules under **Close review repair** in the same block. **What the close changed on the page, for
+Volume 4 to read first:**
 
-- **The footprint of nine counties and the footprint of four counties are different things and were being
-  confused.** Nine counties hears the announcements and reads the relicensed licence in order. Four counties
-  is the claim's footprint and the furnace schedule's. **Six chapters had the stage column or an
-  announcement at four** (ch 150, 153, 160, 161, 163, 176). All six repaired. The distinction is now a rule
-  in `state/open-threads.md`.
+- **The footprint of nine counties and four counties is a distinction between what is HEARD and what is
+  WRITTEN — not between the claim and the licence.** Volume 1 says it in the characters' own mouths at ch
+  46: *the same advancement, **in four counties of nine***, and at ch 55: *going round **nine counties** for
+  three days, and Du Hong had read **her four counties' versions***. **Nine counties is what is heard; four
+  counties is what is written into the books.** One advancement entered in four counties is entered four
+  times and billed four times, which is what happened to her father at ch 55. **The close audit got this
+  backwards and the close review reversed it: ch 160, ch 163 and ch 176 are back at four counties for the
+  stage column and the paper.** The three *heard*-footprint repairs stand (ch 150, 153, 161). Ch 178's *nine
+  counties that had it in order* stands and is the reading. The rule is now in `state/open-threads.md`.
 - **Hou Sanliang's counting room is in Lowwater, where she is standing.** Ch 163 and ch 177 had it *nine
-  counties away*. Both repaired to match ch 173.
+  counties away*. Both repaired to match ch 173, and both stand.
 - **Ch 176 said about eleven weeks of winter where ch 178, four days later, says about six.** Day 184 plus
   eleven weeks, day 219 plus six weeks, and day 215 plus **seven** all land on the same end of the winter,
-  so ch 176 was the wrong one. Repaired.
+  so ch 176 was the wrong one. Repaired, and it stands.
 - **"Eleven weeks" is retired.** It stood in fourteen chapters of Volume 3 carrying at least five different
   meanings. The state files had recorded it as standing in four chapters. It is now prohibited in Volume 4,
   and the two figures Volume 4 will need are given as derivations: **the Hunter arrived on day 2, and the
@@ -275,11 +280,16 @@ corrections to three inaccurate claims in the state files are in `state/current.
 - **Du Hong's name is used four times** (ch 119, 125, 138, 160), all as remembered weight inside a live
   scene; Cao Lei and Xu An are never named in Volume 3. The burial line is not reopened. Recorded, not
   repaired, and recorded here so it is not rediscovered as an unknown fault.
-- **Ch 131 still reads "She was twenty."** Standing since the Batch 0002 review and not opened by this
-  phase. Proposed repair: cut the number, or fold it into the surrounding clause.
+- **Ch 131's age is now correct.** It read *"She was twenty."* against `bible/characters.md` — *seventeen
+  at the start of Volume 1; eighteen in Volume 3*. **Repaired at the close review to *"She was eighteen."***
+  rather than cut, so the beat survives and nothing else in ch 119–178 states her age. **The last item on the
+  closed-chapter list is closed.**
+- **The name in the wrong order is six uses across five chapters** (120, 129 ×2, 149, 158, 162), not five
+  across four — corrected at the close review.
 - **The chapter-length record was wrong.** Nothing is under the 1,300 floor; **ch 138 (1,779) and ch 151
   (1,653) sit below the 1,800 guide and nine chapters sit above 2,700**, longest ch 140 at 3,193.
-  Volume 3 closed at **135,014 words over sixty chapters**, average ~2,250.
+  Volume 3 closed at **135,014 words over sixty chapters**, average ~2,250 — **unchanged by the close
+  review, whose three reverts and one age fix were one-word swaps.**
 
 ## Volumes 4–16
 

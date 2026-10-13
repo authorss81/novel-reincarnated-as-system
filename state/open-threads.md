@@ -1,12 +1,15 @@
 # Open Threads
 
 **Volume 1 is closed. Volume 2 is closed and audited (ch 59–118). VOLUME 3 IS CLOSED AND AUDITED (ch 119–178):
-all four batches written and the close audit run. The full audit table is in `state/current.md` under
-`## Volume 3 close audit — CLOSED`.** Live threads below carry into **Volume 4, *The Wall*, ch 179–238**.
-**Volume 3 closed at 135,014 words over sixty chapters** (Batch 0003 30,958 · Batch 0004 30,505, after the
-audit's six word-level repairs). The Volume 3 facts and a fresh Volume 3 running ledger **at end of ch 178**
-are in `state/continuity.md`. Volume 4's outline is **not yet written**; the next phase writes it, on the
-shape fixed by `outline/volume-03.md` *New question for Volume 4* and `outline/series.md` §9.
+all four batches written, the close audit run, and the close review applied. The full audit table is in
+`state/current.md` under `## Volume 3 close audit — CLOSED`, and **the review's reversal of one of the
+audit's rules is written up under *Close review repair* in that same block — read it before using any
+four-county or nine-county figure from this run.** Live threads below carry into **Volume 4, *The Wall*,
+ch 179–238**. **Volume 3 closed at 135,014 words over sixty chapters** (Batch 0003 30,958 · Batch 0004 30,505,
+after the audit's six word-level repairs; **the close review's three reverts and one age fix were one-word
+swaps and the total is unchanged**). The Volume 3 facts and a fresh Volume 3 running ledger **at end of
+ch 178** are in `state/continuity.md`. Volume 4's outline is **not yet written**; the next phase writes it,
+on the shape fixed by `outline/volume-03.md` *New question for Volume 4* and `outline/series.md` §9.
 
 **The clock:** day 0 = the last day of the thaw. Ch 132 = day 39 · ch 148 = about day 130 · ch 163 = about
 day 184 · **ch 178 = day 219**, the first week of the deep cold. The season's road **shut on day 117** and
@@ -167,31 +170,44 @@ Every one of these is on the page and none of it may be re-run.**
   163 and only at 163 is **a request on a public shelf for an instrument this county does not hold.**
 - **Do not put the ninth stage in the column by accident.** The winter return reads one, two, three, five,
   six, seven, **nine** — the eight is a space and always is.
-- **Do not re-run the suppression arithmetic a fourth time.** It is spent three times: ch 104, ch 159–160
+- **Do not re-run the suppression arithmetic again.** It is spent three times: ch 104, ch 159–160
   and ch 161. At the reading, Sun He rules the gaps and stops, as he has ruled them three times already.
+  **The signed-shift roster rule is spent with it** — stated once, by Cao Lei at ch 60, demonstrated at
+  ch 65, 66, 71 and 72, and not to be explained again.
 - **Do not meet Hou Sanliang and do not answer the dated entry.** A date against a claim is a schedule,
-  and Batch 0004's job is the reading and the referral, not the claim.
+  and Batch 0004's job was the reading and the referral, not the claim. **Carried into Volume 4 under the
+  close-audit additions at the foot of this file — stated there once, not twice.**
 
 ## Do not do these — the Volume 3 close audit additions (all held; the volume is closed and audited)
 
 These come out of the audit itself and bind **Volume 4** first.
 
-- **Do not use the phrase "eleven weeks" again.** It is retired. It carried four different meanings across
-  fourteen chapters of Volume 3 and was arithmetically wrong against the day table in most of them. **If a
-  Volume 4 chapter needs the Hunter's span in this county, re-derive it from day 2 (his arrival, ch 119) to
-  the day in question. If it needs the winter, the winter ends at about day 261** (ch 163, day 184 plus
-  eleven weeks; ch 178, day 219 plus six weeks).
+- **Do not use the phrase "eleven weeks" again.** It is retired. It carried **at least five** different
+  meanings across fourteen chapters of Volume 3 — the Hunter's span in this county, weeks of the lane,
+  weeks of savings, weeks of winter remaining, and a forward projection — and was arithmetically wrong
+  against the day table in most of them. **If a Volume 4 chapter needs the Hunter's span in this county,
+  re-derive it from day 2 (his arrival, ch 119) to the day in question. If it needs the winter, the winter
+  ends at about day 261** (ch 163, day 184 plus eleven weeks; ch 178, day 219 plus six weeks).
 - **Do not let "about four seconds" become a metronome.** Thirty-six uses across twenty-six chapters of
   Volume 3. It is a rhythm and not a rule, and Volume 3 never restates the four seconds or the release rule
   from ch 53–54 — **Volume 4 must not either**. If a pause needs a number, use a different number.
 - **Do not put the claim's counting room outside this county.** Hou Sanliang's counting room is **in
   Lowwater**, and it is where the dated entry was made (ch 155). Two Volume 3 chapters wrongly called it
   *nine counties away*; both were repaired at the audit.
-- **Do not let the footprint of four counties and the footprint of nine counties blur.** **Nine counties**
-  hears the announcements and reads the relicensed licence in order. **Four counties** is the claim's
-  footprint (entered in four counties against the Chosen One) and the furnace schedule's, and the Bureau's
-  quarterly bundles come out of four counties. Six Volume 3 chapters had the stage column in four counties;
-  all six were repaired at the audit. **The distinction is deliberate.**
+- **Do not let the footprint of four counties and the footprint of nine counties blur.** **This is Volume 1
+  canon and it runs on hearing versus paper, not on stage column versus claim.**
+  **NINE counties = what is heard.** An announcement is audible inside the bound and every county takes its
+  own copy in its own time in the words of whoever reads it out — ch 46 (*the same advancement, in four
+  counties of nine*), ch 55 (*going round nine counties for three days*), ch 114, ch 171.
+  **FOUR counties = what is written.** The county books a stage column is entered in, the licence that is
+  hung on a furnace schedule, the annex, the claim, the four county books that each billed Ning Bo twice,
+  and the Bureau's quarterly bundles — ch 53, ch 55, ch 58 (*the design was on a document in four
+  counties*), ch 132, ch 138, ch 140, ch 148, ch 159, ch 160, ch 163, ch 176.
+  **A third thing that is neither:** ch 132 says a certified copy is *readable in order by anybody in nine
+  counties with a stamp and a reason*. That is **obtainability**, not the location of a book, and it is
+  what makes her visible and expensive. Ch 178's *nine counties that had it in order* is the **reading**,
+  not the books. **The Volume 3 close audit got this rule backwards and three chapters were reverted at
+  the close review** — see `state/current.md`, *Close review repair*.
 - **Do not soften the referral, and do not answer the empty space.** It is gone up the stair past every
   office she has ever stood in front of, and the district has answered *referred upward, answer pending*.
   **Volume 4 opens on that answer space.** Do not fill it in the first batch.
@@ -205,6 +221,5 @@ These come out of the audit itself and bind **Volume 4** first.
   order, at ch 150, and restated at ch 157, ch 163 and ch 176.
 - **Do not meet Hou Sanliang, answer the dated entry, or resolve the claim inside Volume 4's first batch.**
   The ch 150 handover would have answered it in full and she refused it in a room with two witnesses, and
-  nothing in 151–178 softened that.
-- **Do not re-list the seven relicensing conditions, re-run the suppression arithmetic, or explain the
-  signed-shift roster rule.** All spent; all audited once more at the Volume 3 close.
+  nothing in 151–178 softened that. **This is the one place the rule is stated; the Batch 0004 block above
+  points here rather than repeating it.**

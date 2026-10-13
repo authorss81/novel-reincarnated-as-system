@@ -6,13 +6,19 @@ words** over sixty chapters, average ~2,250. Counts are body prose only, excludi
 
 `outline/volume-03.md` has been walked line by line against the manuscript. **All thirteen named audit items
 PASS.** Nine faults were found in the chapters and **all nine were repaired**, word-level or single-number, in
-seven chapters. **Six further findings are recorded with the reason they were not repaired**, one of them the
-ch 131 item standing by a prior decision. **Four claims in the state files were found to be inaccurate and
-are corrected.** No batch was replaced, no card beat moved, the single bracket stayed at ch 171, the
-irreversible step stayed at ch 150, and every ending stayed where it was.
+seven chapters. **Six further findings are recorded with the reason they were not repaired.** **Four claims in
+the state files were found to be inaccurate and are corrected.** No batch was replaced, no card beat moved, the
+single bracket stayed at ch 171, the irreversible step stayed at ch 150, and every ending stayed where it was.
+
+**The close review that followed re-audited this phase and reversed one of its nine repairs.** The four-county
+/ nine-county footprint rule was backwards and broke four closed Volume 1 chapters; **ch 160, ch 163 and ch 176
+were reverted to four counties**, **ch 131's age was corrected to the canon figure of eighteen**, a miscount
+of the *name in the wrong order* (five across four) was corrected to **six across five**, and three duplicated
+prohibitions were collapsed in `state/open-threads.md`. **Word count is unchanged at 135,014.** Everything
+else this phase recorded is verified sound and stands.
 
 The full table, with a chapter reference on every row, is in `state/current.md` under
-`## Volume 3 close audit — CLOSED`.
+`## Volume 3 close audit — CLOSED`, with the reversal under **Close review repair** in the same block.
 
 ## Did the volume pay
 
@@ -159,13 +165,32 @@ would have done.** Swept: the only hit for *wish* or *regret* in twenty-eight ch
 ever learns what they are.*** The question is not what the Wall is. **The question is what a paper in order
 does when the only office that can answer it is on the other side of one.**
 
-## What the audit repaired
+## What the audit repaired — and what the close review reversed
 
-Nine changes, seven chapters, six words removed. **Six of the nine are the same error in the same figure:**
-the footprint of the stage column and the announcements is **nine counties**, and six chapters had it at
-four — ch 150, 153, 160, 161, 163, 176. **Two are Hou's counting room being put nine counties away when it
-is in Lowwater** — ch 163 and ch 177. **One is ch 176's winter figure**, which contradicted the final image
-four days later and is now *about seven weeks*.
+Nine changes, seven chapters, six words removed. **Two are Hou's counting room being put nine counties away
+when it is in Lowwater** — ch 163 and ch 177; **both stand**. **One is ch 176's winter figure**, which
+contradicted the final image four days later and is now *about seven weeks*; **it stands**. **Three are the
+heard footprint and stand** — ch 150, 153 and 161 are about what people *heard*, which is nine counties.
+
+**Three of the six footprint repairs were the wrong half of the figure and HAVE BEEN REVERTED at the close
+review.** The audit held that the stage column lives in nine counties. It does not. **Volume 1 says it in the
+characters' own mouths — ch 46: *the same advancement, **in four counties of nine***; ch 55: *going round nine
+counties for three days, and Du Hong had read **her four counties' versions***.** **Nine counties is what is
+heard; four counties is what is written into the books.** One advancement entered in four counties is entered
+four times and billed four times, which is precisely what happened to her father at ch 55.
+
+Volume 3's own unedited text agrees, twice, in the sentences the audit defended: **ch 148:51** and
+**ch 159:61** both put the stage column and the annex on a furnace schedule **in four counties**, in the same
+sentence as nine counties knowing about it. The audit's authority, **ch 132:217** — *readable in order by
+anybody in nine counties with a stamp and a reason* — is about **obtainability**, not about which books the
+column is entered in.
+
+**Reverted at the close review, one word each:** ch 160 (*a hole in a column **four** counties wide*), ch 163
+(*A hole in a stage column in **four** counties*), ch 176 (*a paper in **four** counties with three holes in
+it*). **Word count is unchanged at 135,014.** **Ch 178's *nine counties that had it in order* stands** — that
+is the reading, not the books, and ch 171 (*It went out of the bound in every voice in nine counties*) is the
+volume's own idiom for it. **Ch 131's *"She was twenty."* was also closed at the close review**, repaired to
+*"She was eighteen."* against `bible/characters.md` rather than cut.
 
 ## What the audit recorded and did not repair
 
@@ -179,7 +204,9 @@ four days later and is now *about seven weeks*.
    recorded. It is a rhythm and not a rule — the release rule is not restated anywhere in the volume — so it
    is recorded and left, with a rule for Volume 4 not to let it become a metronome.
 4. **Ch 177 carries no dialogue.** Adjudicated at the Batch 0004 review and deliberately unchanged.
-5. **Ch 131 still reads "She was twenty."** Standing since the Batch 0002 review, not opened by this phase.
+5. **Ch 131's age — CLOSED at the close review.** The canon figure is **eighteen** (*seventeen at the start
+   of Volume 1; eighteen in Volume 3*) and ch 131 is in Volume 3. Repaired, not cut. **The closed-chapter
+   list is now empty.**
 
 ## Next
 

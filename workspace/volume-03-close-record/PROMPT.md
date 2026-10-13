@@ -40,8 +40,9 @@ correctly.
 2. **`state/continuity.md`** — a new `## Established facts, Volume 3 complete (ch 119–178)` block
    consolidating the volume's hard facts in one place for a cold reader: the relicensed licence and its seven
    conditions (**referenced, never re-listed**); the three legs and their order; the claim as the seventh and
-   last condition; the four stages and the three holes in a nine-line column; **nine counties and four
-   counties as two different footprints**; Yuan's stage and clock; the audit and the Lung and what they cost;
+   last condition; the four stages and the three holes in a nine-line column; **nine counties as what is
+   heard and four counties as what is written** (see the hard rule below — the close audit had this backwards
+   and the close review corrected it); Yuan's stage and clock; the audit and the Lung and what they cost;
    the milestone; the referral; the petition; and the register, the plate and the eleven. Mark clearly what is
    **Volume 4 material** and what is **held for Volume 5 or later**.
 3. **`state/current.md`** — replace the `## Next phase:` bullet so it names **Volume 4, Batch 0001** at the
@@ -150,8 +151,15 @@ Restate these once, in the outline, and never again in a batch prompt.
   the retired figure.
 - **Do not let "about four seconds" become a metronome.** It is the volume rhythm of Volume 3 and it is not
   a rule. If a pause needs a number, use a different number.
-- **Nine counties and four counties are different footprints.** Nine hears the announcements and reads the
-  relicensed licence in order. Four is the claim's footprint and the furnace schedule's. Do not blur them.
+- **Nine counties is what is heard; four counties is what is written.** This is Volume 1 canon, in the
+  characters' own mouths — ch 46: *the same advancement, **in four counties of nine***; ch 55: *going round
+  nine counties for three days, and Du Hong had read **her four counties' versions***. **Nine** for hearing,
+  being read out, going round, everyone knowing, and for a certified copy obtainable with a stamp and a
+  reason (ch 132). **Four** for anything written into a book: the county books a stage column is entered in,
+  the licence, the annex, the furnace schedule, the claim, the Bureau's quarterly bundles. **The stage column
+  is in four.** **The close audit wrote this rule backwards and the close review reversed it** — ch 160, 163
+  and 176 were reverted to four. **Do not reintroduce the audit's version from any state file that has not
+  been corrected; check the wording you copy against `state/open-threads.md`.**
 - **Do not introduce a new final enemy.** The Scribe is fixed in `outline/ending.md` and is not improvised at
   the end of the run.
 - **Volume 4 is not Volume 3 again.** It must be a different shape of pressure from every one of Volume 3's
@@ -222,7 +230,9 @@ that is the next phase's job. Do not create a second planning prompt.
 - **Do not write chapters.**
 - **Do not reopen `chapters/volume-01/`, `chapters/volume-02/` or `chapters/volume-03/`.** All three are
   closed and audited. If you find a fault, record it in `state/current.md` as a proposed repair and do not
-  edit the chapter in this phase. **Ch 131's "She was twenty" is already on that list** and is not yours.
+  edit the chapter in this phase. **The closed-chapter list is now empty**: ch 131's age was the last item
+  and it was repaired to *eighteen* at the close review, and the close review's footprint reverts (ch 160,
+  163, 176) are settled. **A new finding is a finding, not a reopening.**
 - **Do not edit `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`, `opencode.json`,
   `scripts/`, `.github/workflows/`, `.opencode/agent/` or `state/phase-ledger.json`.**
 - **Do not resolve anything Volume 3 deliberately left open** — what became of the eleven, the office Yuan
