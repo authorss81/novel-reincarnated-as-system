@@ -4147,7 +4147,9 @@ quote or straight apostrophe left in the volume.** Zero blockquotes, code fences
 **No bold at all in the volume; twelve italic spans, all of them documentary** — *reconciled* ×5, *Reconciled*
 (the chapter title), *for* ×2, *on* ×2, *on an account*, *I am paying this*, and the far-side office's own
 discharge line at ch 296. *(Corrected at the review: this said eleven.)* No controller file was touched, and
-`outline/volume-06.md` does not exist.
+`outline/volume-06.md` did not exist. *(Corrected at the Volume 6 close review: it exists now — written and
+repaired at source by the Volume 6 planning phase. The sentence stands as the state of the world at the Volume 5
+close, and the live position is in `state/current.md` and `state/open-threads.md`.)*
 
 ### Volume 5 running ledger — at the close of the volume, day 620
 

@@ -26,16 +26,20 @@ day 471 to day 620, **three bracketed layer lines in sixty, at ch 258, 275 and 2
 `outline/volume-05.md` is written and was the authority for Volume 5; `outline/batches/volume-05-batch-0001.md`
 was the card file Batch 0001 was drafted against and every card's beat is on the page. Batches 0002–0004 were
 drafted against their own prompts and every pinned item in each is on the page.
-**Next to write is the Volume 6 planning phase**, whose prompt is at `workspace/volume-05-close-record/PROMPT.md`
-— **its whole job is to write `outline/volume-06.md` and open Volume 6's planning. `outline/volume-06.md` does
-not exist yet and must not exist until that phase writes it. Do not create a Volume 6 batch directory here; the
-self-dispatch workflow selects the next phase.**
+**VOLUME 6 IS PLANNED AND ITS FIRST BATCH IS CARDED. Next to write is Batch 0001's chapters (ch 299–313),
+drafted against `outline/volume-06.md` and `outline/batches/volume-06-batch-0001.md` — fifteen cards at 1,540
+lines, running ch 299–313, day 621 to day 645.** **Both files exist.** `outline/volume-06.md` is the
+authority for Volume 6 and was written by the Volume 6 planning phase; the card file was written by the card
+phase that prompt dispatched. **A later version of this block said that `outline/volume-06.md` did not exist, must
+not exist until that phase wrote it, and that no Volume 6 batch directory could be created. Every clause of that
+was false once the planning phase finished, and it is struck here — a phase that trusted it would have refused to
+open the volume.** Neither file is to be re-derived from this file; read both.
 **The blocker recorded here at the Volume 4 close and repeated at the Volume 5 planning close is RESOLVED**:
-`workspace/volume-04-close-record/` and `workspace/volume-05-batch-0001/` both now hold `.done` markers
-written by the controller (commits `88ddc33` and `3e32724`) and neither is deferred. **Do not raise it
-again.** What is still true and needs the controller, not this file: `workspace/volume-05-close/` holds no
-`.done` marker, and **`PHASE_SYSTEM.md` gives the marker to the controller alone, so this record does not write
-one.**
+`workspace/volume-04-close-record/`, `workspace/volume-05-batch-0001/` and `workspace/volume-05-close/` all now
+hold `.done` markers written by the controller (commits `88ddc33`, `3e32724` and `baca347`) and none of them is
+deferred. **Do not raise it again.** What is still true and needs the controller, not this file:
+`workspace/volume-05-close-record/` holds `.attempts`, `.deferred` and `.retry-after` and no `.done`, and
+**`PHASE_SYSTEM.md` gives those markers to the controller alone, so this file neither writes nor clears one.**
 
 ## Volume 5 Batch 0001 (ch 239–252) — what this batch added, and what is now live going into Batch 0002
 

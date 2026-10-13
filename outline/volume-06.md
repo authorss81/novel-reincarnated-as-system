@@ -278,9 +278,9 @@ chapter. They announce; they never explain and they never advise. That is Volume
 | Batch | Chapters | Pressure | Arc |
 | --- | --- | --- | --- |
 | 0001 | 299–313 (15) | **reading and being read** | the box gone out on the first cart; her column read upward by offices that never needed a bound; work without a season; the mill passed; **GC4 at ch 310** |
-| 0002 | 314–329 (16) | **work without hire** | no wages, no booking, a furnace to feed at far-side prices with four fingers; listed clearings past the last working point; GC5 at ch 321; the Hand first spent at ch 325; the second vouching agreed |
-| 0003 | 330–345 (16) | **sending and being sent for** | the readable line looked at; the sending written; GC6–GC7; Yuan addressed at ch 338; the refusal taking shape |
-| 0004 | 346–360 (15) | **standing and refusing to stand** | vouched twice over; GC8–GC9; the sending refused; Nascent Soul begun by hand and not by sound; what surviving looks like |
+| 0002 | 314–329 (16) | **work without hire** | no wages, no booking, a furnace to feed at far-side prices with four fingers; listed clearings past the last working point settling merit twice; GC5 at ch 321; the Hand first spent at ch 325; the second vouching agreed |
+| 0003 | 330–345 (16) | **sending and being sent for** | the readable line looked at; the sending written; GC6–GC7; Yuan addressed at ch 338; the box circuit broken at ch 344 |
+| 0004 | 346–360 (15) | **standing and refusing to stand** | GC8–GC9; the second vouching learned of at ch 357; the sending refused at ch 358; Nascent Soul begun by hand at ch 360; what surviving looks like |
 
 **No two consecutive batches run the same pressure.** None of them is a keeping, a debt, a family paper, an ash, a
 ration, a hiring, a tending, a crossing, an audit, an examination, a hunt, a signature or a confinement.
@@ -296,10 +296,12 @@ names a stage is not a licence to move it.
    it, with no wages and a furnace to feed.
 3. Golden Core 4 is taken where nothing is announced, and the reading goes upward by hand instead of by sound.
 4. Listed clearings past the last working point settle merit twice, told before spent, out of her foundation.
-5. He moves the world through her once, at a cart turn, and becomes a little of what he hates.
+5. He moves the world through her at a cart turn — ch 325, a box going on instead of waiting a season — and becomes
+   a little of what he hates.
 6. She agrees to be vouched a second time, for materials, knowing what a second vouching is.
 7. An office above sends for the line, and the sending is a paper with her column on it and his holding under it.
-8. He is addressed as a holder, away from her hearing, and loses the last unaddressed place.
+8. **Hand is spent a second time** at ch 338, to let an office's hand address him as the holder, away from her
+   hearing, **and he loses the last place he could stand unaddressed.**
 9. Golden Core 9, and with it the finding that the second vouching was copied upward in a hand she has never seen.
    She cannot be un-entered twice over.
 10. She refuses the sending — to present the line in person — and the refusal is entered, and stands.
@@ -351,11 +353,14 @@ in.
 
 ## Volume climax (ch 357–360)
 
-The vouching, the refusal, the handover, and the surviving.
+**The finding, the refusal, the handover, and the surviving.** The vouching itself was said at the midpoint; what
+is left to pay for it arrives here.
 
 1. **Ch 357. Golden Core 9**, taken past the line at her own order, in the open, where nothing is announced. The
-   furnace of her own finished twice over. She becomes the kind of person two offices will vouch for, and the
-   chapter says what that costs one person in one plain sentence.
+   furnace of her own finished. **She has been a person two offices will vouch for since the midpoint** — that
+   was the yes at ch 329, in daylight, for materials — **and what this chapter gives her is the rest of it: the
+   second vouching was copied upward, in a hand she has never seen.** She cannot be un-entered twice over, and
+   the chapter says what that costs one person in one plain sentence.
 2. **Ch 358. The sending refused.** The office above asks for the line in person — him through her, presented where
    doors shut — and she refuses, out loud, in daylight, with her name said, and the refusal is entered in the
    office's own book. It cannot be undone. From that hour the country past the line has to deal with her where she
@@ -371,7 +376,8 @@ The vouching, the refusal, the handover, and the surviving.
 - **Golden Core 9 reached (ch 357)**, taken at her own order past the line where nothing is announced. Six stages in
   about seven months, real intervals, real costs, no skipped breakthrough, no tribulation. **The paper still says
   Foundation the first stage and she has never touched it.** What finishing a realm past the world's ceiling looks
-  like is a furnace of her own vouched twice over and a person two offices will vouch for.
+  like is a furnace of her own vouched twice over and a woman who finds out, on the last step, what the second of
+  those two vouchings was copied into — **the same finding as the climax above and not a second one.**
 - **The structural answer begun (ch 331–359, and not before):** the line past the last working point is walked, kept,
   copied and vouched by offices that never needed a bound — kept up by hand, by people paid by the day and by the
   clearing, with families on it — and announcements do not reach past the bound because the bound is a room and the
@@ -573,10 +579,14 @@ misread, which is the one thing Volume 7's goal owns.**
 
 | Batch | Chapters | Pressure | Arc |
 | --- | --- | --- | --- |
-| 0001 | 299–313 (15) | reading and being read | the box out on the first cart; her column read upward; work without a season; the mill passed; GC4 at ch 310 |
-| 0002 | 314–329 (16) | work without hire | clearings past the last working point; GC5 at ch 321; merit twice begun; Hand first spent at ch 325; the second vouching agreed |
-| 0003 | 330–345 (16) | sending and being sent for | the line looked at; GC6–GC7; Yuan addressed at ch 338; the box circuit broken at ch 344 |
-| 0004 | 346–360 (15) | standing and refusing to stand | GC8–GC9; the second vouching learned of at ch 357; the sending refused at ch 358; Nascent Soul begun by hand at ch 360; surviving |
+| 0001 | 299–313 (15) | reading and being read | the box gone out on the first cart; her column read upward by offices that never needed a bound; work without a season; the mill passed; GC4 at ch 310 |
+| 0002 | 314–329 (16) | work without hire | no wages, no booking, a furnace to feed at far-side prices with four fingers; listed clearings past the last working point settling merit twice; GC5 at ch 321; the Hand first spent at ch 325; the second vouching agreed |
+| 0003 | 330–345 (16) | sending and being sent for | the readable line looked at; the sending written; GC6–GC7; Yuan addressed at ch 338; the box circuit broken at ch 344 |
+| 0004 | 346–360 (15) | standing and refusing to stand | GC8–GC9; the second vouching learned of at ch 357; the sending refused at ch 358; Nascent Soul begun by hand at ch 360; what surviving looks like |
+
+**This table is the same table as *Pressure rotation across the volume* above and says the same thing. Where two
+copies of an authority ever disagree, that one is the authority — and the four rows above are the repaired pair,
+one closer review having found them giving different answers.**
 
 Each batch carries its own goal, midpoint, escalation and climax, at least one scene of physical risk or a real
 deadline, and at least one irreversible step. The volume's break (ch 344) and refusal (ch 358) are each one batch's
