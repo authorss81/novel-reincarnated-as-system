@@ -4,7 +4,9 @@ She went up all nine steps on the ninth day at the second hour, with her left ha
 
 There was snow on the terrace. Not much and not white.
 
-The ash had been falling for nine days and it did not settle, and what came down on the ninth night was snow, and the snow went through eleven days of ash on its way and arrived grey, so that the whole of the Nine Steps Terrace had a grey dusting on it and the rail had a line of grey and white along the top of it that would be gone by morning. There were three days left in the fall. She had been counting since the fourth morning and she would keep counting until it stopped, and then she would know what a man in her head looked like on the tenth day of an ordinary winter.
+The ash had been falling for nine days and it did not settle, and what came down on the ninth night was snow, and the snow went through eleven days of ash on its way and arrived grey, so that the whole of the Nine Steps Terrace had a grey dusting on it and the rail had a line of grey and white along the top of it that would be gone by morning.
+
+There were two days left in the fall. She had been counting since the fourth morning and she would keep counting until it stopped, and then she would know what a man in her head looked like on the tenth day of an ordinary winter.
 
 She stood at the ninth step and looked down over Qinghe.
 
@@ -36,7 +38,10 @@ She did not move.
 
 “You have said that.”
 
-“I have said the shape of it. Here is the part I have not said.” He was quiet for a moment. “I have been inside the designation for six years and for five of them there was nothing there. There was a space and a shape and no name on it, and the whole of my existence was standing in an empty room waiting for somebody to need me, and I never once looked at what the room was made of, because I was nineteen and dead and glad to be anything.”
+“I have said the shape of it. Here is the part I have not said.” He was quiet for a moment. “I have been inside the designation for six years and for five of them there was nothing there.”
+
+“There was a space and a shape
+There was a space and a shape and no name on it, and the whole of my existence was standing in an empty room waiting for somebody to need me, and I never once looked at what the room was made of, because I was nineteen and dead and glad to be anything.”
 
 “And now.”
 
@@ -94,7 +99,10 @@ He stopped.
 
 She had never said that to him. She had refused him a quest in the third night of the winter and she had refused him a hand in the middle of a stair in a records room and she had told him to go quiet in a cart, and none of those had been this, because none of those had been a thing she wanted while she was saying it.
 
-“You have been in me for four months,” she said, “and you have spent me four times and you have decided one thing about me without me and told me about it afterwards, and I have not forgiven that and I am not going to. And in the last nine days you have told me more in one sitting on a step than you told me in the first ten weeks, and I have sat here and listened to all of it, and I can feel the shape of what you are doing, and you are doing it because I am about to be examined and you want me to have the whole of it before that happens.”
+“You have been in me for four months,” she said, “and you have spent me four times and you have decided one thing about me without me and told me about it afterwards, and I have not forgiven that and I am not going to.”
+
+“And in the last nine days
+And in the last nine days you have told me more in one sitting on a step than you told me in the first ten weeks, and I have sat here and listened to all of it, and I can feel the shape of what you are doing, and you are doing it because I am about to be examined and you want me to have the whole of it before that happens.”
 
 “Yes.”
 
@@ -132,7 +140,10 @@ She told him three things, in order, in the voice she used for reading tallies o
 
 “One. I am keeping you. Not forgiving you. Employed. If you are going to be a voice in my head for the rest of this then I am going to say what the work is, out loud, in a room, where you can be held to it.”
 
-“Two. The work is my brother. *Assessed, reassigned, unreconciled*, above the authority of a furnace, in a hand nobody at Qinghe recognises, reassigned at thirteen and alive, because he is alive — I know he is alive, he was on the Warden's post with a white stone on it and that post is a list and a list does not carry dead names. Ning Wu in a book, in ink, where somebody has to look at it. That is the whole of the work. It is not a favour and it is not forgiveness and it is the only thing I have ever asked anybody for.”
+“Two. The work is my brother. *Assessed, reassigned, unreconciled*, above the authority of a furnace, in a hand nobody at Qinghe recognises, reassigned at thirteen and alive, because he is alive — I know he is alive, he was on the Warden's post with a white stone on it and that post is a list and a list does not carry dead names.”
+
+“Ning Wu in a book, in ink
+Ning Wu in a book, in ink, where somebody has to look at it. That is the whole of the work. It is not a favour and it is not forgiveness and it is the only thing I have ever asked anybody for.”
 
 “Three. You do not decide anything about me again without telling me first. Not after. Not as a kindness. Not because it works and you can see that it works.”
 

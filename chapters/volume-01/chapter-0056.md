@@ -146,6 +146,42 @@ It was a plain iron thing the size of a thumb, with the number of the maintainin
 
 “Maintaining member,” said Ning Yan, and did not put it away, and held it in her left hand for the rest of that hour while four clerks made four copies of a document she had just lied on, and the copies went up to nine counties, and she had bought one word.
 
+## The Second Name
+
+She went back in.
+
+“Clerk.”
+
+He had the fair hand up before she had got to the table.
+
+“Enter a second entry,” she said. “On the same sheet. Mine.”
+
+It was the wrong thing to ask for. The clerk looked at the Speaker. The Speaker looked at Lu Kang. Lu Kang looked at the thing on the table for a while and then said, “The member has standing from the hour she signed. Read it as she dictates it.”
+
+She dictated it standing up, with her left hand flat on the table and the token still in the other one, and she did not soften it, because softening it was a thing you could hear in a room.
+
+“Entered at the second hour and forty-four minutes of the fifth day, by Ning Yan, maintaining member of Qinghe: that Du Hong, advanced to inner rank at the first sitting of this Hall in the winter session upon the recommendation of the undersigned; that he was directed by this Hall to report the undersigned, and entered nothing, and returned nothing; that the undersigned has held the fact of that direction since before the hearing entered on the fourth day and has entered nothing until this hour; and that she enters it now, on her own hand, and asks this Hall to do nothing whatever with it.”
+
+“Read it back,” she said.
+
+Xie Shuo read it back, and read the words the way they were written and not the way they sounded, because that was the whole of what he was for, and the only one of the forty-one people in that building who heard what it sounded like was her.
+
+It sounded like a woman with a price on her head putting her own hand under a man’s name so that neither of them could be taken alone.
+
+“Enter it.”
+
+He entered it.
+
+She felt the arithmetic finish, standing there, which took about a second and a half. Two files with her hand in them instead of one. Any man in nine counties who wanted to know where the Chosen One slept, or what she said, or who carried her paper for her, would open Du Hong first, because Du Hong was the cheaper door and there were eight hundred jin on it.
+
+She had made herself the expensive one, out loud, in front of forty-one witnesses, having asked nobody. That was how things got done in that sect. It was also the reason things got done in that sect.
+
+She had been angry for three days and the anger had not needed a reason, and now it had a use. That was worse, because she would not afterwards be able to tell whether she had been angry or had been shopping.
+
+Du Hong was at the back, out of the two ranks, in a coat he slept in, looking at her. He put his hand flat on his own chest through the cloth, once, and said nothing at all, because there were forty-one witnesses and he was a person who understood what a room was.
+
+She said thank you to the inside of her own attention and got nothing, and this time she noted the hour.
+
 ## After
 
 She went out of the Hall at the fourth hour and the ash was coming down and the sky over Qinghe had gone the colour of a coin.

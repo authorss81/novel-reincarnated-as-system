@@ -28,6 +28,10 @@ The second said: *Condensing, stage one, at Qinghe. A servant born of Qinghe fur
 
 She folded both papers and put them in her coat.
 
+There were two men on that gate who had not been on it when she came up those stairs, and one of them had asked Du Hong what his file said before he had got to the fourth step. He had told him, because the book was open and the man was not going to go away.
+
+She put that beside four copies of a document going up to nine counties, and did not have anything to say to it.
+
 Nine days. Three of them spent standing in front of a Bureau copyist saying eight words until he got them right, and the copyist had been the only man in nine counties who was ever going to get them right, and he had got them right on the sixth asking.
 
 That was not carelessness, and on the sixth night she had not liked working it out. Everything she had learned about being counted had been about the sentence. This was about the copying. A thing copied four hundred times belongs to the ear that copies it, and the only part anybody will ever be able to check is a document that a person with authority has put a name to.

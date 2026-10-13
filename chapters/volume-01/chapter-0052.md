@@ -30,9 +30,9 @@ The light came down in a line. Not a bolt — a line, narrow, white, the width o
 
 It threw her eleven feet. She went across the pale square of worn plank and into the bench at the wall and took the bench apart and lay in what was left of it with her ears ringing and the smell of her own hair burning coming up off her scalp.
 
-“Ninth hour and fourteen minutes,” said Xie Shuo, from somewhere she could not see. “The count of witnesses is nine hundred and sixty-one.”
+“Ninth hour and fourteen minutes,” said Xie Shuo, from somewhere she could not see. “The count of witnesses is nine hundred and eleven.”
 
-“Ninth hour and nineteen minutes,” said Xie Shuo. “The count of witnesses is nine hundred and sixty-one.”
+“Ninth hour and nineteen minutes,” said Xie Shuo. “No change to the count.”
 
 He had got back to his table. He had crawled to it. She understood later that a clerk had taken his coat and held it over his head.
 
@@ -64,9 +64,9 @@ The second one took her hand.
 
 She felt it arrive as a column of heat up the arm that had already stopped reporting, and when it left, the arm went out of the conversation entirely, and she made a noise on the floor she had not planned to make and which every person in that room heard.
 
-“Ninth hour and twenty-six minutes,” said Xie Shuo. “The count of witnesses is nine hundred and sixty-one.”
+“Ninth hour and twenty-six minutes,” said Xie Shuo. “The count is unchanged.”
 
-“Ninth hour and twenty-six minutes,” said Xie Shuo. “The count of witnesses is nine hundred and sixty-one.”
+“Ninth hour and twenty-six minutes,” said Xie Shuo, again. “The count is unchanged.”
 
 He was reading the count because the trial had been entered with a provision that any witness might ask for the hour and the count, and nobody in that building had asked for anything, and a man with a fair hand was doing his job in a building that was being taken apart around him.
 
@@ -132,7 +132,7 @@ Every single one of them had seen her get struck five times and get up five time
 
 The Speaker was on his feet at the table. The stewards were on the floor. Somewhere behind her a man was reading the hour out loud and had stopped twice and started again, and what he eventually said, in a fair flat voice with a hand that was not steady for the first time in the volume, was this:
 
-“Ninth hour and forty-one minutes. The count of witnesses is nine hundred and sixty-one. The member is on the floor.”
+“Ninth hour and forty-one minutes. The count of witnesses is nine hundred and eleven. The member is on the floor.”
 
 She had got to Condensing stage one.
 

@@ -15,7 +15,7 @@
 3. Ning Wu's record reads *assessed, reassigned, unreconciled.* **CONFLICT — see canon change 1 below.** The register now reads *reconciled*, bought with a signature in ch 56. The truth is unchanged and is still held by her.
 4. Qiu Zhulang is alive, pensioned, and not a villain in waiting. **DONE** — ch 50.
 5. Feng Lushi is alive and has copied her name upward. **DONE** — ch 55.
-6. Du Hong is an inner disciple because she asked for it. **DONE (unchanged from ch 33);** his report order is still undischarged and she still holds the secret — ch 53.
+6. Du Hong is an inner disciple because she asked for it. **DONE (unchanged from ch 33) and now paid on the page.** She was still furious with him about the coat in ch 55, and in ch 56 she entered the whole of it in her own hand — the advancement on her recommendation, the report order, the fact that he filed nothing, and the fact that she has known since before the trial and entered nothing until that hour. **He knows she knows, as of ch 56.**
 7. Yuan's Settlement has risen twice and fallen once. **DONE (accumulating; running tally now five rises, two falls, past two-thirds)** — ch 54.
 8. The Clay Tablet is with Ning Yan and the Elder Hall has only been shown where the Kiln is. **DONE** — ch 56.
 
@@ -24,7 +24,7 @@ Final-chapter image in `outline/volume-01.md`: **honoured exactly** — first sn
 ## Proposed canon changes (recorded explicitly, not made silently)
 
 **Canon change 1 — Ning Wu's register entry.**
-`outline/volume-01.md` item 3 and its Concrete Resolution section say his record *remains* *assessed, reassigned, unreconciled*, not answered. The binding batch cards for ch 48 and ch 56 require her to buy the word *reconciled* with the sponsorship signature. The batch cards win. **Canon:** the register of Qinghe and of three other counties reads *reconciled*, entered with the hour, the clerk's name and the fact that it was asked for and not offered. The truth is unchanged: *assessed, reassigned, unreconciled*, reassigned above furnace authority at thirteen, alive, on the Warden's list. The proof of the reassignment is the Clay Plate she is still wearing. The lie stays on her head for Volumes 2–4. `outline/volume-01.md` has **not** been edited — controller-owned planning file, and the conflict is recorded here instead.
+`outline/volume-01.md` item 3 and its Concrete Resolution section say his record *remains* *assessed, reassigned, unreconciled*, not answered. The binding batch cards for ch 48 and ch 56 require her to buy the word *reconciled* with the sponsorship signature. The batch cards win. **Canon:** the register of Qinghe and of three other counties reads *reconciled*, entered with the hour, the clerk's name and the fact that it was asked for and not offered. The truth is unchanged: *assessed, reassigned, unreconciled*, reassigned above furnace authority at thirteen, alive, on the Warden's list. The proof of the reassignment is the Clay Plate she is still wearing. The lie stays on her head for Volumes 2–4. `outline/volume-01.md` was **not** edited for this at drafting time — controller-owned planning file — but it **was** edited during the batch-0005 review repair for two unrelated internal contradictions (Clay Tablet, Du Hong). If this canon change is ever reversed, edit the outline bullet with it.
 
 **Canon change 2 — Qiu's line.**
 *the shape of a happy life* is reserved by `bible/terminology.md` and `outline/ending.md` for a second speaking by Ning Wu in Volume 16. It had never been spoken on the page. It is now spoken **once**, by Qiu Zhulang, in ch 50. Used once. Do not use it again until Volume 16.
@@ -47,7 +47,7 @@ Confirmed still unshared. She refused to explain it on a floor in front of the w
 - **Elder Pei Shou** — Speaker. Ruled the trial, ruled the release, watched his Hall lose its roof. Not an enemy, not a friend.
 - **Clerk Xie Shuo** — read the record in ch 53 and entered her brother's one word in ch 56. Ruined quietly by Qiu's faction off page after ch 56; gone from the Hall's table by the end of the batch. Last time the reader hears his name was ch 56.
 - **Mei Jiu** — fourth-rank inner, stage 8. Gave away an unwritten compression for nothing on ch 47 and is not thanked. Returns Vol 2.
-- **Du Hong** — inner by her recommendation. Carried the four county sheets down to Lowwater in her own copies in ch 58. Does not know she knows he was sent to report her. Dies in Volume 2 because of her.
+- **Du Hong** — eighteen, inner by her recommendation since the winter session. Carried the four county sheets down to Lowwater in her own copies in ch 58. **She told him on the sixth step in ch 55 that she has known about the report order since before the trial, and entered it on the Hall record in ch 56, so he knows.** His file now carries her hand as well as his, and a man looking for the Chosen One will open him first. Dies in Volume 2 because of her.
 - **Feng Lushi** — alive, coughing, in Lowwater. Has the Bureau order to omit her still disobeyed, four unindexed copies upward, and as of market day a fifth item: eight words, her own hand, no name on it. **Has not yet been given the four county sheets** — Du Hong is carrying copies down the road as of ch 58.
 - **Captain Lu Tao, Old Gao** — Lowwater Watch, unchanged, return Vol 2 and Vol 5.
 - **Shen Xiu** — list-holder, will not look at her, unchanged.
@@ -75,4 +75,15 @@ Confirmed still unshared. She refused to explain it on a floor in front of the w
 
 ## Construction budget — do not reuse
 
-Foundation-tax-as-withdrawal (ch 36), tax-takes-order (ch 38), damage-as-technique (ch 39), four-clause order (ch 40), layer-is-editable (ch 42), Yuan-is-read (ch 43) are **spent**. In this batch: the refusal finding, the second-book furnace, the four seconds, the account opened in four offices, and *the shape of a happy life* are each **spent**. The nine-hundred-and-eleven count is spent. The nine-hundred-and-sixty-one count is spent. The number fifty-eight is **not** a motif; use it once more and it dies.
+Foundation-tax-as-withdrawal (ch 36), tax-takes-order (ch 38), damage-as-technique (ch 39), four-clause order (ch 40), layer-is-editable (ch 42), Yuan-is-read (ch 43) are **spent**. In this batch: the refusal finding, the second-book furnace, the four seconds, the account opened in four offices, and *the shape of a happy life* are each **spent**. The witness count is **nine hundred and eleven** — planted in ch 46, entered twice in ch 52, spent. Do not restate it a third time and do not turn it into a motif. The number fifty-eight is **not** a motif; use it once more and it dies.
+
+## Volume 1 review repair (after batch 0005)
+
+Repaired against `logs/volume-01-batch-0005.review.log` without restarting the batch or changing the planned plot. No titles, no chapter order, no endings changed.
+
+- **Witness count restored to canon.** Ch 46 closes on nine hundred and eleven, twice. The batch had drifted to *nine hundred and sixty-one* and repeated it five times. Ch 52 now states nine hundred and eleven at the first strike and at the final reading only; the two intervening readouts keep the ritual and drop the number. Ch 51's "nine hundred-odd pulses" and two of ch 50's five uses of "nine hundred" were removed so the count is not a motif.
+- **Ash-fall arithmetic corrected.** Ch 57 said nine days fallen and three left, which made twelve against a canon of eleven. It now reads two left, agreeing with ch 57's later line and ch 58.
+- **Du Hong delivered.** Required fact 6 was on the page only in ch 33 and carried no fury and no trace in the closing batch. Added `## The Coat` to ch 55 and `## The Second Name` to ch 56, and two lines of consequence to ch 58.
+- **Paragraph ceiling.** Both paragraphs over ~120 words (ch 49, ch 51) were split, as were all six over ~90 in ch 54 and all four in ch 57.
+- **`outline/volume-01.md` corrected** on two points the review flagged as outline-internal contradictions: the Clay Tablet is not surrendered, and the Du Hong bullet now describes what is actually on the page.
+- **Known trade-off:** ch 55 is 3665 words and ch 56 is 3350, against a batch norm of 2100–3050. Both now carry a two-chapter payoff, and no existing approved prose was cut to make room.

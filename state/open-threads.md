@@ -30,7 +30,7 @@
 | **A designation can be set aside from outside the bound** | Yuan | Vol 2–3 | **opened ch 57.** A request from outside, no consent required, and the office that would make it has a name he cannot read |
 | **The right arm** | Ning Yan | Vol 4–6 | **opened ch 52.** Out of function; a third of it comes back. `outline/series.md` costs her an index finger permanently in Vol 4 — this is a separate loss and must not be doubled into the same hand |
 | **Settlement past two-thirds and a refused Ledger** | Yuan | Vol 3–5 | **opened ch 54.** Roughly four months of channel left before he cannot hold it open. He chose to lose his reach rather than become an office |
-| **Du Hong's report order + the sheets** | Du Hong | Vol 2 | **advanced ch 53, 58.** He carried her off the floor without asking; he carries four county sheets down the mountain in copies in her hand. He does not know she knows he was sent to report her. Dies in Vol 2 because of her |
+| **Du Hong's report order + the sheets** | Du Hong | Vol 2 | **advanced ch 53, 55, 56, 58.** He carried her off the floor without asking; he carries four county sheets down the mountain in copies in her hand. **She told him on the sixth step in ch 55 that she has always known, and entered the whole of it on the Hall record in ch 56 — so he knows she knows, and his file now carries her hand. Two men are on the gate as of ch 58.** Dies in Vol 2 because of her |
 | Shen Xiu's report, never forgiven | Shen Xiu | closed Vol 1 | closed act, open wound |
 | Two furnace crew friends, unnamed, die Vol 2 | Volume 2 | Vol 2 | planted ch 32, on page again ch 47 |
 | Reassignment signature, Bureau hand | series | Vol 5 | planted ch 36 — nobody at Qinghe recognises; Feng has not been asked |

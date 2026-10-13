@@ -134,7 +134,7 @@ Nothing anybody in that hall had done had been about her.
 
 She had been fourteen when her father was taken. She had not cried about it, then or afterwards, because crying had not been one of the available procedures. She had gone and found her brother and taken his things and done the whole of a removal for two people by herself, and she had understood at the time that she was being brave about it, and she had been wrong about that too — she had been working, which is a different thing, and which does not ask anything of you.
 
-Now she was standing in a hall in front of nine hundred people and a man had just lost forty-one years for eleven minutes on her account, and she had let him walk past her without opening her mouth.
+Now she was standing in a hall in front of every person in it and a man had just lost forty-one years for eleven minutes on her account, and she had let him walk past her without opening her mouth.
 
 That was all.
 
@@ -156,7 +156,7 @@ Xie Shuo stood up. He had not stopped writing since the fifth hour. He had the w
 
 “Furnace crew,” said Xie Shuo.
 
-He looked out over the room. He had a page in front of him and nine hundred people in front of him and the ash coming down through three high windows into a light that put no shadow at all.
+He looked out over the room. He had a page in front of him and the whole of that hall in front of him and the ash coming down through three high windows into a light that put no shadow at all.
 
 “Ning Yan, servant-rank of the Qinghe furnace crew, sealed for Condensing on the eighth day past, is called to the floor for the hearing entered at the fourth hour of the fourth day, and the hearing is a public advancement, and the voice is to be let.”
 

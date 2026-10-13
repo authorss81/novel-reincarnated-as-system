@@ -2,7 +2,9 @@
 
 The hall was fuller than it had been for the accounts, and every person in it turned when she walked onto the floor, and the turning made a sound like a hundred and forty feet of weather arriving at once.
 
-She had thought about this for nine days. She had thought about it as a walk from the wall to the middle of a room, about forty paces, and she had not once allowed herself to think about what it would feel like to be looked at by everybody at the same time while doing the hardest thing she had ever attempted, because she did not have a model for it. She had fought four things in the Verge in the dark with nobody watching and she had won, and she had once stood in a corridor with eleven men in it and been permitted to speak, and there was nothing in either of those that prepared her for a floor.
+She had thought about this for nine days. She had thought about it as a walk from the wall to the middle of a room, about forty paces, and she had not once allowed herself to think about what it would feel like to be looked at by everybody at the same time while doing the hardest thing she had ever attempted, because she did not have a model for it.
+
+She had fought four things in the Verge in the dark with nobody watching and she had won, and she had once stood in a corridor with eleven men in it and been permitted to speak, and there was nothing in either of those that prepared her for a floor.
 
 She was worse at it than she had expected and she was better at the other thing than she had expected, and those two facts turned out to be the same fact.
 
@@ -74,7 +76,9 @@ She went round the worn square twice, and the second time she felt something in 
 
 It was *timing*.
 
-She had been working on this for nine days the way a person works on a lock with cold hands. Condensing was the second realm and the first thing it did was take the air that a Body-Forging body breathed in and spent, and let out, and spent, forty thousand times a day, and turn it into a thing that a person owned. Her chest knew how to do that. Her chest had been doing it since she was born, and the problem had never been her chest. The problem was the crack, which was a hole through the centre of the thing that was supposed to hold it, and everything she had poured through that hole in three months had gone out sideways into a pattern instead of staying in a place.
+She had been working on this for nine days the way a person works on a lock with cold hands. Condensing was the second realm and the first thing it did was take the air that a Body-Forging body breathed in and spent, and let out, and spent, forty thousand times a day, and turn it into a thing that a person owned.
+
+Her chest knew how to do that. Her chest had been doing it since she was born, and the problem had never been her chest. The problem was the crack, which was a hole through the centre of the thing that was supposed to hold it, and everything she had poured through that hole in three months had gone out sideways into a pattern instead of staying in a place.
 
 Mei Jiu's cloth came out from under her jacket and she put her hand against her own sternum and did the thing a woman in Beihe had taught a woman in Qinghe who had taught a fourth-rank inner disciple who had given it away for nothing on a landing in the dark.
 
@@ -122,7 +126,7 @@ It did not go away. It was still there, in the front of her, and she could feel 
 
 It was the only thing she had ever been good at.
 
-For nine days she had been trying to do this in cold air on a flat above the yard with nobody counting. Here there were nine hundred-odd pulses she could feel coming off the floor at her, and every one of them was afraid, and the fear of a room like that is a substance, and she took it the way you take a handle.
+For nine days she had been trying to do this in cold air on a flat above the yard with nobody counting. Here she could feel the whole of them coming off the floor at her, and every one of them was afraid, and the fear of a room like that is a substance, and she took it the way you take a handle.
 
 Her chest came in on itself like a fist.
 

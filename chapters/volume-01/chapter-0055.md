@@ -12,7 +12,7 @@ Her right arm was gone. Not numb. It was there and it was the right size and it 
 
 She was stronger than she had ever been and she had lost the use of one arm, and no clerk in nine counties could put those two facts on the same page.
 
-The ash was thinner. It had been the heaviest on the fourth day and by the sixth it had gone to a grey grain that hung rather than fell, and it was still on the sill, in the lye, on the backs of the washing crew, and it would be for five more days because eleven days is eleven days.
+The ash was thinner. It had been the heaviest on the fourth day and by the sixth it had gone to a grey grain that hung rather than fell, and it was still on the sill, in the lye, on the backs of the washing crew, and it would be for five more days.
 
 ## Three Names in a Day
 
@@ -163,6 +163,60 @@ She took her hand off the table.
 He wrote it right.
 
 She sat there afterwards with the anger still going round in her chest and understood that it was the first straight thing she had felt since the fourth morning, and that it had come out of a copyist's hand rather than out of anything that had been done to her, and that this was apparently the arrangement.
+
+## The Coat
+
+He came and found her on the sixth step about an hour after the copyist had gone down the mountain. She had been waiting for him since the second morning without admitting it to herself.
+
+Du Hong. The inner coat, worn since the winter session, the cloth gone the colour of a thing that is washed in a wash house. Eighteen, and holding a rope.
+
+She had had the sentence ready since the trial and had not said it in four days, because every time she got to the place where she would have said it, he was carrying something.
+
+“You were sent to report me.”
+
+He stopped on the step.
+
+“By the Hall. In writing. To an inner disciple who was supposed to have wanted it. I saw it before the trial and I have never once said a word about it in any room.”
+
+“You have not.”
+
+“No,” she said. “And that is what I have been doing to you for a fortnight. You were handed a woman to report and you came back with nothing, and every office in this sect that opens your file finds it, and nobody has asked you why, because I have never mentioned it out loud.”
+
+“Why have you not mentioned it.”
+
+“Because you told me at the well-house that you would not go back to being nobody, and that me asking would take it from you.” Her voice went for about a second and came back. “And then I could not say it. Every week I did not say it I bought the same silence again, and it was the only thing I owned that nobody in this sect knew I owned.”
+
+Du Hong looked out at the weather.
+
+“They will come for it now,” he said. “For you, not for the report. There is a price on you this morning and every man on that road knows it, and I am the one man on that road who has been inside your business for four months. That is not a thing you can hold open.”
+
+“I know.”
+
+“Then say whatever it is you are going to make me do.”
+
+“I am going to put it on the record,” she said. “All of it. That you were advanced on my recommendation, and that you were sent to report me, and that you did not, and that I have known it since before the trial and have entered nothing until now. My hand. The hour.”
+
+“That is the one thing in this sect nobody can use you on afterwards.”
+
+“Yes.”
+
+“Your name goes in a file with mine in it. A claim at eight hundred jin does not want you in a building with no roof. It wants a person who has been inside your business for four months.”
+
+“Yes,” she said. “If you are not on my page, Du Hong, you are the cheapest walk in the bound. If you are on my page with my hand under your name, then everybody who opens you opens me, and I am expensive.”
+
+Snow that was not white went sideways across the terrace between them.
+
+“You are angry,” he said.
+
+“Yes.”
+
+“At me.”
+
+“No,” she said. “At you, at the Hall, at the whole of them in that room who watched me get struck five times and then went home and slept. Mostly at you.”
+
+“All right,” said Du Hong.
+
+That was the entire interview. She went on down the steps with the anger still going round inside her and the taste of a thing she had been carrying since before the trial suddenly gone out of her mouth, and it did not feel like winning either.
 
 ## The Price of It
 

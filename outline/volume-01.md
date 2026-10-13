@@ -60,10 +60,10 @@ She is alive. She is also a target for the rest of the book. That is the trade a
 ## Concrete resolution
 
 - Qiu Zhulang is stripped of the furnace at the Assembly and kept as a pensioned elder. He survives, diminished, and entirely sincere, and is a recurring figure for the rest of the series.
-- The Clay Tablet is surrendered to the Elder Hall. Ning Yan keeps the copy she made, which is the first thing she ever stole and the first thing she ever risked her life for.
+- The Clay Tablet is **not** surrendered. Ning Yan gives the Elder Hall the road to the Broken Kiln and keeps the plate itself, declared in a sworn entry to be nowhere in her possession, which is the first thing she has ever done that is not strictly true. The Elder's Hall never sees the plate again.
 - Ning Yan's family account is written off in exchange for her silence about the layer. It is not the account she wanted settled.
 - Ning Wu's record remains *assessed, reassigned, unreconciled.* Not answered.
-- Du Hong is made an inner disciple on her recommendation, which she has to do while furious with him.
+- Du Hong was made an inner disciple on her recommendation at the winter session, and she is still furious with him about what the coat cost, and in the volume's last week she enters the whole of it on the record in her own hand — the advancement, the report order she never filed, and the fact that she has known since before the trial and said nothing until now. He is an inner disciple because she asked for it, and his name is in a file with hers in it for the rest of the book.
 - Feng Lushi is left alive, coughing, with her story copied upward in his own fair hand.
 
 ## New question for the next volume

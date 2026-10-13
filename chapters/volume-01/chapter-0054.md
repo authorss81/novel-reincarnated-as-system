@@ -4,7 +4,9 @@ They wanted to put her in the anteroom and she said no, and then they wanted to 
 
 She made him stop at the sixth step.
 
-From there you could see the street. Forty feet of dressed oak and two hundred years of roof lay across it in three pieces and a fourth was on top of the well, and the ash was coming down onto all of it in a grey column that had begun to look like wet cement. Men were already up on the undercroft roof trying to get at the beams, and both great doors were propped open on nothing at all, and forty people stood in the street looking up at the shape of the gap where a building had been a building.
+From there you could see the street. Forty feet of dressed oak and two hundred years of roof lay across it in three pieces and a fourth was on top of the well, and the ash was coming down onto all of it in a grey column that had begun to look like wet cement.
+
+Men were already up on the undercroft roof trying to get at the beams, and both great doors were propped open on nothing at all, and forty people stood in the street looking up at the shape of the gap where a building had been a building.
 
 She sat down on the sixth step. The stone went cold through her skirt and up her back into the place the fever had been sitting in, which had been the height of a bad cold since the second day past and had gone somewhere else entirely in the last hour.
 
@@ -30,11 +32,15 @@ She put her left hand flat on the step. The stone under it was the same stone sh
 
 He told her. He told it flatly and in order and without any apology in it anywhere, because he had decided during nineteen minutes in which he had said nothing at all that if he was going to do this he was going to do it properly, which was, she understood about a third of the way through, the most frightening version of him available.
 
-“A report does not go out on its own,” he said. “It is made, and then it is released, and the release is the act of whoever is holding the sentence. That is not a rule of this sect or of that office you have been reading sheets from. It is older than the sect. Every advancement inside this bound for a hundred years has gone out the instant it was ready, and not one of them has ever waited, and that is not because nobody has ever held one. It is because nobody who was holding one has ever had a reason to.”
+“A report does not go out on its own,” he said. “It is made, and then it is released, and the release is the act of whoever is holding the sentence. That is not a rule of this sect or of that office you have been reading sheets from. It is older than the sect.”
+
+“Every advancement inside this bound for a hundred years has gone out the instant it was ready, and not one of them has ever waited, and that is not because nobody has ever held one. It is because nobody who was holding one has ever had a reason to.”
 
 “Why would a reason exist.”
 
-“Because holding one costs nothing and letting one go costs the whole of the room.” He was quiet for a moment. “Ning Yan, look at what you are actually asking me about. If I had held that report, then the only record of this morning in nine counties would be nine clerks with pens in a building with no roof, writing down that a girl was struck five times and got up four times and lay on a floor for two minutes and forty. And no voice. Nothing in any chest in any village. A Hall full of men arguing about whether it had happened.”
+“Because holding one costs nothing and letting one go costs the whole of the room.” He was quiet for a moment. “Ning Yan, look at what you are actually asking me about.”
+
+“If I had held that report, then the only record of that morning in nine counties would be nine clerks with pens in a building with no roof, writing down that a girl was struck five times and got up four times and lay on a floor for two minutes and forty. And no voice. Nothing in any chest in any village. A Hall full of men arguing about whether it had happened.”
 
 “So nothing would have happened.”
 
@@ -44,7 +50,9 @@ He gave it to her in pieces.
 
 “You are sealed for Condensing. The seal runs a year from the eighth day past. You were on the floor at the ninth hour today and you did not go through, or you went through and four men in this building ruled that you did not. Either way the register of Qinghe says a member who was sealed has not attempted. That is a hole, and it is the exact shape a furnace looks for, and it has been that shape for six hundred years.”
 
-“Inside a month there would be a form. The form would be about the seal, because a seal that has not been used is a seal in dispute, and there is a clause for that which somebody thought about carefully. It would go to a room with two men in it. You would be called to a room with two men in it, and one of them would be kind about it, because that is how they keep it quiet, and he would tell you the account can be settled in service and your brother's would be looked at, and he would not be lying about any of it.”
+“Inside a month there would be a form. The form would be about the seal, because a seal that has not been used is a seal in dispute, and there is a clause for that which somebody thought about carefully.”
+
+“It would go to a room with two men in it. You would be called to a room with two men in it, and one of them would be kind about it, because that is how they keep it quiet, and he would tell you the account can be settled in service and your brother's would be looked at, and he would not be lying about any of it.”
 
 “And if I had gone through and they had ruled that I had not.”
 
@@ -64,7 +72,9 @@ She had asked, in other words, to be counted.
 
 And he had sat inside the machinery for four seconds and let the count happen.
 
-If he had held it, the only record of that morning in nine counties would have been nine clerks with pens in a building with no roof, writing down that a girl was struck five times and got up four times and lay on a floor for two minutes and forty. No voice. Nothing in any chest in any village. By eleven years from now nine counties would have four different sentences about a morning that had actually happened in one room in front of everybody the sect could put in a building.
+If he had held it, the only record of that morning in nine counties would have been nine clerks with pens in a building with no roof, writing down that a girl was struck five times and got up four times and lay on a floor for two minutes and forty.
+
+No voice. Nothing in any chest in any village. By eleven years from now nine counties would have four different sentences about a morning that had actually happened in one room in front of everybody the sect could put in a building.
 
 That was the whole trade. It had been made for her by a thing with no hands, in four seconds, in a building that was falling down, and it had cost her the only thing she had ever wanted, which was to do a thing on purpose and have it be real.
 
@@ -154,7 +164,9 @@ He came back about four minutes later with a different silence.
 
 “What does that do.”
 
-“It means that in about four months I stop being able to hold the channel open, and after that there is nothing in your head and no bargain was ever made and you spent four months talking to a wall.” He said it in the flattest voice he had. “And it has made me an offer. There is a version of this where I can read every cultivator inside the bound and not just you, and issue the announcements myself, and choose what goes out and what does not. It is open now. It will be open for about ninety seconds.”
+“It means that in about four months I stop being able to hold the channel open, and after that there is nothing in your head and no bargain was ever made and you spent four months talking to a wall.” He said it in the flattest voice he had.
+
+“And it has made me an offer. There is a version of this where I can read every cultivator inside the bound and not just you, and issue the announcements myself, and choose what goes out and what does not. It is open now. It will be open for about ninety seconds.”
 
 “Take it.”
 

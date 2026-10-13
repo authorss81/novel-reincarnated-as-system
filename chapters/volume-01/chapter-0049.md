@@ -58,7 +58,9 @@ They let her sit for eight hours because the rule said a member might wait in th
 
 She sat on the second bench with her coat on and the log in the lining and the tablet against her skin, and she let the eight hours happen.
 
-The ash came in on the boots of forty or fifty people and none of it went out, and the light through the north window changed four times, and at some point in the fifth hour it began to rain, thinly, and the rain came in as grey and settled on the floor paste and made it darker. There was a bench of outer disciples near the door who came in out of it at intervals and looked at her and looked away. A furnace-crew shift came through at the seventh hour and stopped as one body when they saw her and then went on, and one of them put a cup of water on the bench beside her without looking at her and without a word, and it was still warm.
+The ash came in on the boots of forty or fifty people and none of it went out, and the light through the north window changed four times, and at some point in the fifth hour it began to rain, thinly, and the rain came in as grey and settled on the floor paste and made it darker.
+
+There was a bench of outer disciples near the door who came in out of it at intervals and looked at her and looked away. A furnace-crew shift came through at the seventh hour and stopped as one body when they saw her and then went on, and one of them put a cup of water on the bench beside her without looking at her and without a word, and it was still warm.
 
 The cough came at the fourth hour, in the middle of the room, with forty people in it, and she managed it in the way she had practised on the landing: four short pulls and then a hold, with her face turned a quarter turn toward the wall and her right hand flat on her knee, and it took eleven seconds and it made a noise and eleven people heard it and two of the clerks wrote something down.
 
