@@ -220,7 +220,7 @@ Major turn: She tries the voice. Yuan can hold the tablet through her — he can
 Information revealed: He can act through her. It is slower and it costs her more and he has been saving it.
 Action or decision: She does not let him do it twice. She reads the tablet herself and writes it out in her log, in her own hand, in characters a Bureau clerk cannot read quickly.
 Emotional change: She has started the log. The log is the first thing in the whole series she does entirely for herself.
-Power or resource change: Yuan's Settlement spikes on the touch and he loses something — the first private detail he ever tells her about, which is his mother's name, and then never again.
+Power or resource change: Body-Forging 7 → 8 lands here, out of walking and carrying rather than a fight. Yuan's Settlement spikes on the touch and he loses something — the first private detail he ever tells her about, which is his mother's name, and then never again.
 Continuity facts to preserve: Yuan loses his mother's name when he touches a thing. He has not had one for six years and he says so, and then never says it again.
 Opening gate: n/a.
 Ending type: discovery — the log exists, and it is the weapon for the whole volume.

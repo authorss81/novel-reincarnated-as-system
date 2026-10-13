@@ -39,17 +39,17 @@ Sixty-one. Kind to servants' children in a general, unfocused way. Believes the 
 
 A field agent of the Warden's office, sent to find and dismantle an unauthorised System. Polite, patient, and genuinely good at the job. He does not lie to her, at any point, and it is much worse. He believes he is doing a mercy and can be made to argue for the walls on his own.
 
-### The Wall — and the sects that profit from it, Volume 6
+### The Wall — and the sects that live on it, Volumes 4–6
 
-The antagonist is a piece of geography defended by people who live on it. Not evil. Just load-bearing.
+The antagonist is a piece of geography defended by people who live on it, most of whom make a living off it. Not evil. Just load-bearing.
 
 ### Shuyin — Warden, Volume 9
 
 Nine hundred years. Has kept the walls so the real realm does not notice. Keeps a list of every ascension the bound has swallowed. Some of the names on it are his friends. He is the most tired person in the series and the closest thing it has to an honest man.
 
-### The Order of the Recruited, Volume 12
+### The Order of the Recruited, Volume 8, returning in Volume 12
 
-Wants Ning Yan as an instrument and has the shape of one. Not a villain so much as a job description with a budget.
+Wants Ning Yan as an instrument and has the shape of one. She refuses it in Volume 8, and it comes back for her in Volume 12 with a budget attached. Not a villain so much as a job description.
 
 ### The Scribe, Volumes 15 and 16
 
@@ -65,9 +65,9 @@ The intelligence above Yuan, and by its own account the reason the walls exist. 
 
 **Shen Xiu** — Team Elder of the Verge run. A tired man executing a quota, not a villain. The instrument of the Volume 1 midpoint.
 
-**Feng Lushi** — Keeper of the Lantern-Register at Lowwater. A mortal clerk with a consumptive cough, twenty-two years of writing down announcements. He is the only person in Volume 1 who believes her. He writes it down. In Volume 3 he takes a Lung offered by the Bureau and she has to deal with the man who believed her.
+**Feng Lushi** — Keeper of the Lantern-Register at Lowwater. A mortal clerk with a consumptive cough, twenty-two years of writing down announcements. He is the only person in Volume 1 who believes her. He writes it down. In Volume 3 he takes a Lung offered by the Bureau and she has to deal with the man who believed her. He survives that. He dies in Volume 11 taking a Lung and writing down what he saw, and the writing is what gets her through the Wall.
 
-**Wei Ran** — mortal-born, ascends improperly in Volume 3, the first person she meets who went through without permission. Slow-burn line begins in Volume 4 when she is twenty. Goes off page.
+**Wei Ran** — nineteen when she appears in Volume 3, mortal-born, ascends improperly, the first person Ning Yan meets who went through without permission. The slow-burn line begins in Volume 4 when she is twenty. Goes off page.
 
 **Wen the Lamp-mender** — of the Lantern order. One genuinely surprising encounter per appearance. Carries people across the Verge for reasons she does not give.
 
