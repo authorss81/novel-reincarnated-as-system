@@ -1,6 +1,6 @@
 # A Tower He Cannot Feed
 
-She spent the whole of the ninetysixth day looking for one honest reason to tell a man of sixty-two not to take a hundredweight of coal, and she did not find one, and she went about it properly.
+She spent the whole of the ninety-sixth day looking for one honest reason to tell a man of sixty-two not to take a hundredweight of coal, and she did not find one, and she went about it properly.
 
 She started at the bottom, which was the road.
 
@@ -60,7 +60,7 @@ She had worked that out on the loft mat at about the second hour and she had not
 
 ## What She Told Him
 
-She said it at the sixth hour on the ninetysixth, on the copying floor, with the lamp behind him and her slate frame still on the bench where she had left it at the second hour.
+She said it at the sixth hour on the ninety-sixth, on the copying floor, with the lamp behind him and her slate frame still on the bench where she had left it at the second hour.
 
 “Feng. You said you would give him an answer at the ninth hour.”
 

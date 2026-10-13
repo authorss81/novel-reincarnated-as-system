@@ -80,7 +80,7 @@ It is. A clerk of four years found the word *escort* in a tariff of the district
 
 “Yes.”
 
-“And a quarter of a train, worked at the rate of a two-armed woman, is a figure that will be questioned by somebody in about nine weeks who has no reason to know anything about you.”
+“A quarter share, worked at the rate of a two-armed woman, is a figure that will be questioned by somebody in about nine weeks who has no reason to know anything about you.”
 
 “That is the whole of it,” said Ning Yan.
 
@@ -94,7 +94,7 @@ Twenty coppers a day and a quarter of a train's share. On a good week the share 
 
 Her load rate at the lane behind the well was twelve coppers. She was getting, on a good week, about twenty-two, which was more than any load day she had ever worked in her life.
 
-And the rate per hour of it was a third of a two-armed guard's, because a two-armed man on that road carries the bar and walks, and she carried the bar with her left and her right was out about one time in three, and a quarter of a train was divided by eight and then by the days the road took.
+And the rate per hour of it was a third of a two-armed guard's, because a two-armed man on that road carries the bar and walks, and she carried the bar with her left and her right was out about one time in three, and the quarter was divided by eight and then by the days the road took.
 
 She was being paid as a licence holder and worked as a woman with one arm, and both of those were on paper, and the only one of the two that anybody would ever read was the one on paper.
 

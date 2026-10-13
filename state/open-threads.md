@@ -3,7 +3,7 @@
 **Volume 1 is closed. Volume 2 is closed and audited (ch 59–118). Volume 3 is open: Batch 0001 (ch
 119–132) and Batch 0002 (ch 133–148) written.** Live threads below carry into Volume 3 Batch 0003,
 ch 149–163.
-**Volume 3 Batch 0002 closed at 37,063 words over sixteen chapters, average ~2,316.** The Volume 2
+**Volume 3 Batch 0002 closed at 36,742 words over sixteen chapters, average ~2,296.** The Volume 2
 close audit is in `state/current.md`; the Volume 3 Batch 0001 and 0002 facts and a fresh Volume 3
 running ledger are in `state/continuity.md`. Volume 3's batch plan is in `outline/volume-03.md`.
 

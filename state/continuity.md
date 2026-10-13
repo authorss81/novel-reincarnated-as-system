@@ -320,7 +320,7 @@ rather than made silently, in the same convention as *Date clash — ch 111 vs c
 
 ## Established facts, Volume 3 Batch 0001 (ch 119–132) — EXAMINATION AND EXPOSURE
 
-Volume 3 opens. Fourteen chapters, **37,177 words**, average ~2,656. **Day 0 is the last day of the
+Volume 3 opens. Fourteen chapters, **36,795 words**, average ~2,628. **Day 0 is the last day of the
 thaw** (canon change 30); the batch runs **day 2 (ch 119) to day 39 (ch 132)**, five and a half weeks.
 Chapter days: 119 = 2 · 120 = 4–5 (the only two-day card) · 121 = 8 · 122 = 11 · 123 = 14 · 124 = 17 ·
 125 = 20 · 126 = 23 · 127 = 25 · 128 = 27 · 129 = 28 · 130 = 31 · 131 = 35 · 132 = 39.
@@ -462,12 +462,14 @@ Arithmetic correction only; no beat moves.
   Sentence, The Second Application, The Dead Writ, The Certified Copy, Under a Misspelling, The Quiet
   Book, The Order of the Crate, Level With the Asked, Nine in Her Own Hand, Relicensed. All unique
   against 1–118.
-- **Chapter length:** 37,177 words over 14 chapters, **average ~2,656 — inside the 1,800–2,700 guide on
-  the average.** Seven sit individually above the guide and seven inside: ch 120 (2,710), 126 (2,779),
-  127 (2,792), 129 (2,945), 130 (3,003), 131 (2,784) and 132 (3,029) — the public lane, the dread of
+- **Chapter length:** 36,795 words of body prose over 14 chapters, **average ~2,628 — inside the 1,800–2,700
+  guide on the average.** Six sit individually above the guide and eight inside: ch 126 (2,748), 127
+  (2,761), 129 (2,916), 130 (2,973), 131 (2,750) and 132 (3,002) — the public lane, the dread of
   being correct, the misspelling, the crate, the clearance, the three marks and the countersignature,
   all of which are complete scenes. **The first record of this batch said eleven of the fourteen were
-  individually inside and named only three long ones; that was wrong and is corrected here.** Nothing
+  individually inside and named only three long ones; that was wrong and is corrected here.** A second
+  record counted full files including `##` headings and so listed **seven**, with ch 120 at 2,710; on body
+  prose ch 120 is 2,689 and comes inside. **Counts are body prose only.** Nothing
   under the 1,300 floor; no monotone decline. No trade-off recorded. **Do not read the average as a
   precedent either way — write each chapter to its scene.**
 - **New minor character:** **Da Shan**, the man at the board in the hiring lane. Not a villain, not an
@@ -500,12 +502,22 @@ audited. **She does not forgive him** — stated once at ch 121 and running into
 
 ## Established facts, Volume 3 Batch 0002 (ch 133–148) — AUDIT AND MERCY
 
-Sixteen chapters, **37,063 words**, average ~2,316. **Day 0 is the last day of the thaw** (canon
+Sixteen chapters, **36,742 words**, average ~2,296. **Day 0 is the last day of the thaw** (canon
 change 30). Ch 132 = day 39; **this batch runs day 42 to about day 130**, and Batch 0003 opens at about
 **day 133**. Chapter days: 133 = 42 · 134 = 48 · 135 = 48→81 (spans) · 136 = 83 · 137 = 86 · 138 = 89 ·
 139 = 90 · 140 = 92 · 141 = 95 · 142 = 96 · 143 = 97 · 144 = 99 · 145 = 104 · 146 = 110 · 147 = 114 ·
 148 = 116→130 (spans). **The pacing inside the batch is uneven on purpose** — ch 133–135 carry six
 weeks, the other thirteen carry five.
+
+**Two day seams against that fixed table, recorded and not re-dated.** The outline forbids re-dating
+without reconciling every elapsed figure, and in both cases the page is self-consistent while the
+table is the narrower of the two, so the table is the thing that is slightly short rather than the
+prose being wrong. **Do not "correct" either of these in Batch 0003, and do not build a figure on top of
+them.** (1) **Ch 143 closes on day 99**, not inside the 93–97 span, because he signs at the ninth hour of
+day 97 and the Listener's first return is two days later — day 99 is also ch 144's own day, so the two
+chapters share it. (2) **Ch 147 has the season's road shut on day 117**, one day past the 97–116 span,
+and she learns the date at the weigh-station on day 114. **Day 117 is carried into Batch 0003's prompt
+and into `state/current.md` and must not move.**
 
 **Power: Condensing 5 → 6 at ch 135, announced at her order; Condensing 6 → 7 at ch 148, announced at
 her order. Nothing else. No tribulation. Three bracketed layer lines in the batch, one each in ch 135,
@@ -668,10 +680,15 @@ ch 140 and ch 148, fresh four-clause wording, none reusing ch 53 / 78 / 92 / 114
   The Four Behind the Fifth, A Name Nobody Keeps, Paid in Sequence, Oil for the Cough, A Tower He Cannot
   Feed, Mercy With a Hook, A Hired Guard, Loaded and Watched, Under Licence Scope, The Last Load, Three
   Counts. All unique against 1–132.
-- **Chapter length:** 37,063 words over 16 chapters, **average ~2,316**. Five sit above the 1,800–2,700
-  guide (135 2,817 · 136 2,553 · 139 2,710 · 140 3,155 · 141 2,660) and the rest inside it; shortest is
-  ch 138 at 1,804. Nothing is under the 1,300 floor and there is no monotone decline. No trade-off
-  recorded. **Do not read the average as a precedent — write each chapter to its scene.**
+- **Chapter length:** 36,742 words of body prose over 16 chapters, **average ~2,296**. **Two sit above
+  the 1,800–2,700 guide** (135 at 2,792 · 140 at 3,193, and 140 is the batch's climax) and the other
+  fourteen inside it; shortest is ch 138 at 1,779. Nothing is under the 1,300 floor and there is no
+  monotone decline. No trade-off recorded. **Do not read the average as a precedent — write each chapter
+  to its scene.**
+- **Word-count convention, stated once:** every figure in the state files counts **body prose only —
+  everything outside the `##` section headings.** An earlier record counted full files, which inflated
+  every figure by the length of the headings; Batch 0001's 37,177 is 36,795 on this convention and
+  Batch 0002's 37,063 is 36,742. Both are corrected here. Use body prose for anything new.
 
 ### Construction budget — spent in Batch 0002, not to reuse
 

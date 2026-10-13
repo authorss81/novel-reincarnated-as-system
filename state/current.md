@@ -2,7 +2,23 @@
 
 **As of:** Volume 3 Batch 0002 (ch 133–148) written. **VOLUME 1 CLOSED. VOLUME 2 CLOSED AND AUDITED. VOLUME 3 OPEN.**
 
-- **Volume:** 3 of 16 — The Hunter (ch 119–178) — outlined in `outline/volume-03.md`; **Batch 0001 written (ch 119–132), 37,177 words over fourteen chapters; Batch 0002 written (ch 133–148), 37,063 words over sixteen chapters.**
+## How to read this file
+
+This file is **append-only and long, and most of it is history.** You do not need all of it to write.
+
+- **For a cold start, read only three things, in order:** *Who is where at end of chapter 148* (below),
+  *What Volume 3 must not do* (below), and the **Batch 0002 acceptance check** just under it. Those
+  cover the live position.
+- **For canon you must not contradict,** go to `state/continuity.md` and `state/open-threads.md`, which
+  are the authoritative per-batch records.
+- **Everything below the Volume 3 Batch 0002 acceptance check is a superseded historical block** unless
+  its heading says otherwise. Blocks are marked *historical*, *superseded*, or **HISTORICAL**. Do not
+  treat them as current state and do not re-date anything on the strength of one.
+- Blocks marked *moved to the top* are pointers only; the content itself is at the top of the file.
+- **This file is never pruned by a writing phase.** If a section is wrong, correct it in place and say
+  so in the phase's repair note rather than deleting the record.
+
+- **Volume:** 3 of 16 — The Hunter (ch 119–178) — outlined in `outline/volume-03.md`; **Batch 0001 written (ch 119–132), 36,795 words over fourteen chapters; Batch 0002 written (ch 133–148), 36,742 words over sixteen chapters.**
 - **Chapter written:** 1–148. Next chapter to write is **chapter 149**, which opens **Volume 3 Batch 0003** (ch 149–163): hunting with a calendar, and the volume's irreversible decision.
 - **Next phase:** **Volume 3, Batch 0003**, at `workspace/volume-03-batch-0003/PROMPT.md`.
   The one-sentence volume goal is fixed by `outline/series.md` §9: *In this volume, Ning Yan must survive being hunted as an unauthorised System, or Yuan is dismantled and she is told she imagined him.*
@@ -50,13 +66,13 @@ Written after batch 0009 closed Volume 2; re-checked after Batch 0001. **The Fen
 
 **Do not open a second accident, death, frostbite, starvation or rescue.** The shoring over the cold end was signed over at the seventh hour in Volume 2, not re-inspected; five men are posted against a strength of six.
 
-**Do not record a chapter-length trade-off.** Guide 1,800–2,700; floor 1,300. Batch 0009 closed at 28,234 words over fifteen chapters, ~1,882 average. **Volume 3 Batch 0001 closed at 37,177 words over fourteen chapters, ~2,656 average** — inside the guide on the average, with **seven of the fourteen individually above it** (120, 126, 127, 129, 130, 131, 132) and seven inside. The first record said eleven were inside and named three long ones; that was wrong and is corrected. Nothing is padded and length follows the scene, so the long ones stand. **Volume 3 Batch 0002 closed at 37,063 words over sixteen chapters, ~2,316 average** — inside the guide on the average, five of the sixteen above it (135, 136, 139, 140, 141) and eleven inside; shortest 1,804, nothing under the floor.
+**Do not record a chapter-length trade-off.** Guide 1,800–2,700; floor 1,300. Batch 0009 closed at 28,234 words over fifteen chapters, ~1,882 average. **Volume 3 Batch 0001 closed at 36,795 words of body prose over fourteen chapters, ~2,628 average** — inside the guide on the average, with **six of the fourteen individually above it** (126, 127, 129, 130, 131, 132) and eight inside. The first record said eleven were inside and named three long ones; that was wrong and is corrected, and an earlier correction to *seven* counted full files, so ch 120 is inside on this convention. Nothing is padded and length follows the scene, so the long ones stand. **Volume 3 Batch 0002 closed at 36,742 words of body prose over sixteen chapters, ~2,296 average** — inside the guide on the average, **two of the sixteen above it** (135 at 2,792 · 140 at 3,193, and 140 is the batch's climax) and fourteen inside; shortest 1,779, nothing under the floor. **Counts are body prose only — everything outside the `##` section headings.** An earlier record counted full files and inflated every figure; Batch 0001's 37,177 is 36,795 on this convention. Both corrected.
 
 ## Volume 3 Batch 0001 — acceptance check, card by card
 
 Cards written first at `outline/batches/volume-03-batch-0001.md` from the phase prompt and
-`outline/volume-03.md`, before any chapter. Fourteen chapters, 119–132, **37,177 words, average
-~2,656.**
+`outline/volume-03.md`, before any chapter. Fourteen chapters, 119–132, **36,795 words, average
+~2,628.**
 
 | Card requirement | Status |
 | --- | --- |
@@ -117,7 +133,7 @@ because the alternative was editing a closed volume's arithmetic for a planning 
 ## Volume 3 Batch 0002 — acceptance check, card by card
 
 Cards written first at `outline/batches/volume-03-batch-0002.md` from the phase prompt and
-`outline/volume-03.md`, before any chapter. Sixteen chapters, 133–148, **37,063 words, average ~2,316.**
+`outline/volume-03.md`, before any chapter. Sixteen chapters, 133–148, **36,742 words, average ~2,296.**
 
 | Card requirement | Status |
 | --- | --- |
@@ -361,6 +377,33 @@ from. They are the historical record of what was planned for a closed batch, not
 
 **Word counts are unaffected** — every repair substitutes one word for one word. Ch 116 2,083 · ch 118
 2,604 · batch 0009 28,234 · Volume 2 file set 111,226, all unchanged from the Volume 2 close.
+
+### Volume 3 Batch 0002 review repair (fix phase)
+
+`logs/volume-03-batch-0002.review.log` reviewed the **written batch**, ch 133–148, and returned eight
+findings: two major, three moderate, three minor. **The batch was not restarted. The planned plot is
+untouched — no card beat, no chapter order, no title, no bracket, no ending, and no chapter 149 or ch
+150 decision taken or foreshadowed.** The two major findings were real defects in the batch's climax and
+its day-clock and both are repaired on the page.
+
+| # | Finding | Correction | Plot changed? |
+| --- | --- | --- | --- |
+| 1 | **Major — the quarterstaff teleported into her hand at the climax.** Ch 140 has her put the staff down at L31 and never pick it up; she is using it on the man at L133 and it appears under her left hand at L159 with nothing on the page between. Compounding it, L163 had her cover a quarter mile *on her knees in the dust* yet arrive *with a quarterstaff in her left hand*. | **One line added at the top of *The Killing*:** she goes back down the eleven paces and picks the staff out of the mud **with her left hand, in front of him**, and takes the weight of it again — and he watches the whole of that and does not move. That also makes explicit the right-to-left handover the chapter depends on, since the right arm is out one time in three. **The kneel line now carries the staff** — dragged across her knees — so nothing is in her hand that is not accounted for. | No. The kill, its cause, its cost and its bracket are unchanged; the weapon is simply picked up on the page instead of between paragraphs. |
+| 2 | **Major — typo, ch 142.** `ninetysixth` with no hyphen, twice (L3 and L63), where the rest of the manuscript writes *ninety-sixth*. It was the only true missing-hyphen compound ordinal in all 148 chapters. | Both corrected to **ninety-sixth**. Verified: no missing-hyphen compound ordinal anywhere in ch 1–148 now. | No. |
+| 3 | **Moderate — close-third break, ch 140.** *Before a thing happens she knows where a person's weight is going to be… She could not write the rule down. She had never once been able to write the rule down.* Detached third-person essay about the POV character in the middle of her own live action, against a prompt that requires close third on Ning Yan in every external scene. | Re-voiced into her interior and into the present tense: fourteen months of reading the nine men and the forty men, never once got into words she could say out loud, **it did not arrive as a rule, it arrived as a knowing, ahead of her hands**. The following line — *His weight went left* — now lands as the knowing arriving rather than as narration about it. | No. |
+| 4 | **Moderate — a stated instruction not followed, ch 133.** The batch prompt says the channel figure is *about three weeks at ch 132… Say it once at each end and not in between.* Ch 133 restated it as its closing beat: *Say the number again / About three weeks.* | The figure is **cut from ch 133 entirely** and the beat becomes the fact that it cannot be asked for twice: she asks for the weeks again and he would give her the ceiling, the column and the thirty-one hours twice each, because those are figures she has somewhere to put, and the weeks he gives her once. Her line now opens *A ceiling at nine* and runs to the twelve unsigned sheets as before. **The channel is still stated at ch 132 and at ch 140 and nowhere between**, which is what the instruction asked for. | No. The channel arc, its cost and its figure are unchanged. |
+| 5 | **Moderate — the summary's word counts did not match the files, and the guard's hire was filed to the wrong chapters.** Every figure counted full files, so all were inflated by the length of the `##` headings; and the escort-road section filed the hire under ch 144–148 when the contractor offers it at ch 136 and she prices it at ch 137, and ch 144 adds only Tan. | **The convention is now stated once** — *body prose only, everything outside the `##` section headings* — in `state/continuity.md`, `state/current.md`, `state/book-metadata.md` and `workspace/volume-03-batch-0002/SUMMARY.md`, and every figure in seven files was corrected to it. Batch 0001's 37,177 is **36,795** on this convention and Batch 0002's is **36,742**. Two figures that the convention change moved across a threshold are corrected with it: Batch 0001 has **six** chapters above the guide, not seven (ch 120 is 2,689, not 2,710), and Batch 0002 has **two**, not five. **The escort-road section now reads *the road opens ch 136, ch 144–148* and attributes the hire to ch 136 and the pricing to ch 137.** `state/chapter-summaries.md` was checked and was already right. | No. |
+| 6 | **Minor — two day seams against the fixed table.** Ch 147 has the season's road shut on **day 117** where the table caps 144–147 at 116, and ch 143 closes on **day 99** where the table caps 141–143 at 97. Both are self-consistent on the page; the table is the narrower of the two. | **Recorded, not re-dated.** The outline forbids re-dating without reconciling every elapsed figure, day 117 is already carried into Batch 0003's prompt and into the live state, and day 99 is ch 144's own day, so the two chapters share it. Both are now written up in `state/continuity.md` under the Batch 0002 clock with an instruction not to "correct" them in Batch 0003. | No. |
+| 7 | **Minor — `state/current.md` growing without bound, and a stale header.** Append-only across three batches (17,875 → 20,566 → 22,358 words) and read in full by every phase prompt; the batch-0009 status block still read *Running status (end of batch 0009) — **this batch**, ch 104–118*. | **A *How to read this file* block now sits at the top**, naming the three blocks a cold reader needs and stating that everything below the Batch 0002 acceptance check is superseded history. **The stale header is marked HISTORICAL and superseded** and its *this batch* bullet changed to *batch 0009*, so the pronoun can no longer be misread as the live batch. The file is **not pruned** — these are hard-won records, and the convention is to correct in place and note it. | No. |
+| 8 | **Minor — repetition at the edge of budget, ch 144.** *Twenty coppers* three times and *a quarter of a train* four times in one chapter, then the same arithmetic again at night. | **Two substitutions.** Sun He's warning now opens *That, worked at the rate of a two-armed woman…* instead of *And a quarter of a train…*, and the late sum now reads *and the quarter was divided by eight*. The chapter keeps its deliberate echo of the terms — a chapter about a woman re-adding the same sum is entitled to say it twice — but the phrase now stands twice rather than four times. | No. |
+
+**Not changed, deliberately.** The batch's subheading density (5.8 per chapter, matching batch 0001) is
+house style, not drift. The three bracketed layer lines stay one each in ch 135, 140 and 148. The
+ch 140 kill, the ch 143 taking of the Lung, the ch 148 announcement and the three counts are all as
+written. **Verified after repair:** zero banned reflexes, zero watched constructions, zero outline
+scaffolding, zero named weekdays, balanced quotes, no blockquotes, code fences, tables or rules in
+ch 133–148 or anywhere in ch 1–148, longest paragraph in the batch 90 words, 148 unique titles with no
+collision, and no missing-hyphen compound ordinal in the manuscript.
 
 ## Volume 3 — the two open structural questions
 
@@ -687,9 +730,11 @@ by it. **Do not re-list these.**
 
 Moved to the top of this file for cold readers. Read it there.
 
-## Running status (end of batch 0009) — **this batch, ch 104–118, VOLUME 2 CLOSED**
+## Running status (end of batch 0009, **HISTORICAL — superseded; this is ch 104–118, VOLUME 2 CLOSED, not the live batch**)
 
-- **Log additions this batch:** *held, fourth stage, no line out, is the filing any good, gap or breach*; *sought, right to be absent, gone*; *looked, two men, wall, buying nothing, four days, unhurried*; *coin offered and refused; we are to be here*; *board, asked fifth, sixth, left*; *gone from the sheet, second hour, entered, not consulted*; *paper for a licence: schedule, Hall clerk, certified, season's hours, via quarter*; *struck, all copies, dry brush, one plain line and no word*; *nine men, nobody signs, and the nine hundred yards they moved*; *311, last week closed*; *six conditions, the sixth is the claim*; *a word six hundred years old gone out of the only paper that had it — not written down again*. **No word written in the log except that plain line naming the loss.** The schedule terms, the defect line and the surety entry were carried, not re-entered.
+**SUPERSEDED. The live position is at the top of this file** — *Who is where at end of chapter 148* and *What Volume 3 must not do*. Nothing below this line is current state. Kept for the record; *this batch* in the bullets under it means **batch 0009**, not whatever is being written now.
+
+- **Log additions (batch 0009, historical):** *held, fourth stage, no line out, is the filing any good, gap or breach*; *sought, right to be absent, gone*; *looked, two men, wall, buying nothing, four days, unhurried*; *coin offered and refused; we are to be here*; *board, asked fifth, sixth, left*; *gone from the sheet, second hour, entered, not consulted*; *paper for a licence: schedule, Hall clerk, certified, season's hours, via quarter*; *struck, all copies, dry brush, one plain line and no word*; *nine men, nobody signs, and the nine hundred yards they moved*; *311, last week closed*; *six conditions, the sixth is the claim*; *a word six hundred years old gone out of the only paper that had it — not written down again*. **No word written in the log except that plain line naming the loss.** The schedule terms, the defect line and the surety entry were carried, not re-entered.
 - **Layer brackets:** **one in the whole batch** — **ch 114**, the stage-five announcement at her order, four-clause order, carrying the ceiling. **Ch 104 has none at all**: a suppressed stage reads as nothing having happened. No tribulation.
 - **Day numbering, batch 0009:** ch 103 day 122 (burial) → suppression at the flats at day 132 (ch 104) → the road up and the Hall about the middle of the thaw (ch 112–113) → **stage five at the fourth hour of an afternoon, three weeks under the filing (ch 114)** → countersignature at the end of the batch (ch 115–118). She closes Volume 2 in the first week of summer by the calendar.
 - **The volume's internal span, as audited:** ch 115 states *eleven weeks* since the pending filing at ch 88 and ch 116 states *six weeks* since ch 106, and the two agree. The plan called the volume four months; the manuscript ran to about five and a half (ch 116: *From the sixth of December to the last day of the thaw*). **Recorded in the close audit, not repaired — the page reconciles with itself.**

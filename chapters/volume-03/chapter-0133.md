@@ -152,11 +152,13 @@ That was not a feeling. She had braced for a feeling and there was not one there
 
 She lay down on the bunk with her arm out to the side.
 
-“Say the number again,” she said.
+“Say the weeks again,” she said.
 
-“About three weeks.”
+He would have given her the ceiling twice if she wanted it, and the column, and the thirty-one hours, and the six weeks in front of her, because those were figures she had somewhere to put and she would ask again in the morning and get them again.
 
-“About three weeks,” said Ning Yan, “and a ceiling at nine, and six weeks of this in front of me, and a column that is thirty-one hours behind a figure I wrote myself in a room with four tables and a frame of twelve unsigned sheets on the back wall.”
+The weeks he gave her once, and she knew before she had got to the end of her own sentence that he would not do it twice, and she had known it since the thaw and had asked anyway, because asking was cheaper than carrying a number without checking it.
+
+“A ceiling at nine,” said Ning Yan, “and six weeks of this in front of me, and a column that is thirty-one hours behind a figure I wrote myself in a room with four tables and a frame of twelve unsigned sheets on the back wall.”
 
 She put her hand over her eyes.
 

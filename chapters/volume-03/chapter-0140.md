@@ -114,6 +114,8 @@ Three weeks of a voice in her head and ten weeks of one, and the ten weeks bough
 
 ## The Killing
 
+She went back down the eleven paces and picked the staff out of the mud with her left hand, in front of him, and took the weight of it again. He watched the whole of that and did not move.
+
 He had a length of chain on his belt and he took it out.
 
 She had a quarterstaff and one arm and no order.
@@ -122,7 +124,7 @@ What she had was shoulders.
 
 That was the thing about it, and it was the thing she could not explain afterward to a man with clean hands or to a clerk in a county room.
 
-It was also the only thing that had ever worked for her. Before a thing happens she knows where a person's weight is going to be, because she has spent fourteen months reading nine men at a furnace mouth and forty men at a board in a lane. She could not write the rule down. She had never once been able to write the rule down.
+It was also the only thing that had ever worked for her. Fourteen months of reading nine men at a furnace mouth and forty men at a board in a lane, and she had never once got it out of her head in words she could say out loud to a clerk. It did not arrive as a rule. It arrived as a knowing, ahead of her hands, of where a man was going to be while he was still deciding to go there.
 
 His weight went left. He had been left-handed with the chain since she came round the cart and his left shoulder came down first because a man who has spent his life being paid to talk to people does not fight like a soldier.
 
@@ -158,7 +160,7 @@ There was no order. There was a staff under her left hand and a man in front of 
 
 She hit him on the way past.
 
-The bridge was a quarter of a mile up the grade and she did the whole of it on her knees in the dust and got there before he was down, and she stood on the bridge with a quarterstaff in her left hand and her right arm hanging and watched a man in good boots come up a country road on one knee.
+The bridge was a quarter of a mile up the grade and she did the whole of it on her knees in the dust with the staff dragged across her knees and got there before he was down, and she stood on the bridge with the staff in her left hand and her right arm hanging and watched a man in good boots come up a country road on one knee.
 
 He got to the third cart.
 

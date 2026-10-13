@@ -1,6 +1,7 @@
 # Batch 0002 Summary (Volume 3, ch 133–148)
 
-Sixteen chapters, **37,063 words** (~2,316/chapter). **Audit and mercy.**
+Sixteen chapters, **36,742 words of body prose** (~2,296/chapter), counting everything outside the `##`
+section headings. **Audit and mercy.**
 
 She works **two clocks at once** — the furnace floor at Qinghe from the ninth hour and the lane behind a
 well at Lowwater, four miles of road between them on cleared cart days, and a county hour at the third
@@ -104,8 +105,10 @@ full from the next* — and he carries it down to the lane himself. **She is the
 to report. She cannot un-take it, she does not ask him not to take it, and she does not forgive him.**
 Relief that he is alive and fed, immediately curdled.
 
-**Escort road and stage seven (ch 144–148).** A guard's hire at twenty coppers a day and a quarter of
-the train; a contractor's hired guard called **Tan**; a drag pin at a quarter of a mile, eleven tons,
+**Escort road and stage seven (the road opens ch 136, ch 144–148).** The hire is the contractor's own —
+**twenty coppers a day and a quarter of the train, offered at ch 136 and priced by her at ch 137**, five
+weeks to the close of the season's road. **Ch 144 adds only the second man**: a contractor's hired guard
+called **Tan**, paid out of his own pocket; a drag pin at a quarter of a mile, eleven tons,
 eleven inches of clearance and a river four feet below the ditch, **which she does not see coming** —
 and that is the ch 140 pace, absent, on the page. Four hours short at the season's close and **she works
 the difference rather than writing it**, because a column is a record of a body. The second hand on the
@@ -145,10 +148,12 @@ Shen Xiu's fifty-eight used and not explained; the claim-as-entered-act arithmet
 and not restated**; no tribulation; **Ledger not taken and nothing on the page touching a price**;
 Merit from one source only, told before spent.
 
-**Length:** 37,063 words over sixteen chapters, average ~2,316, inside the 1,800–2,700 guide on the
-average. Five sit above the guide (135 2,817 · 136 2,553 · 139 2,710 · 140 3,155 · 141 2,660) and eleven
-inside; the shortest is ch 138 at 1,804. Nothing is under the 1,300 floor and there is no monotone decline
-across the batch. **The average is not a per-chapter precedent — write each chapter to its scene.**
+**Length:** 36,742 words of **body prose** over sixteen chapters — every word outside the `##` section
+headings, so the figures are not inflated by markup and are comparable with each other — average ~2,296,
+inside the 1,800–2,700 guide on the average. **Two sit above the guide** (135 at 2,792 · 140 at 3,193,
+and 140 is the batch's climax and the extra length is deliberate); the shortest is ch 138 at 1,779.
+Nothing is under the 1,300 floor and there is no monotone decline across the batch. **The average is
+not a per-chapter precedent — write each chapter to its scene.**
 
 **Two faults in a closed batch, recorded and not repaired** (Batch 0001 is closed and the phase prompt
 forbids reopening 119–132): ch 131's closing line reads *"She was twenty"* against `bible/characters.md`'s

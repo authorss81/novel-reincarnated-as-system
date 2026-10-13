@@ -176,7 +176,7 @@ bracket or ending moved. The audit table and the repair note are in `state/curre
 
 ## Volume 3 — The Hunter (ch 119–178)
 
-### Batch 0001 (ch 119–132) — examination and exposure. WRITTEN, 37,177 words over fourteen chapters.
+### Batch 0001 (ch 119–132) — examination and exposure. WRITTEN, 36,795 words over fourteen chapters.
 
 | Ch | Title | Summary |
 | --- | --- | --- |
@@ -195,7 +195,7 @@ bracket or ending moved. The audit table and the repair note are in `state/curre
 | 131 | Nine in Her Own Hand | Day 35, the roofless Hall. Pei An reads it standing, Deng Chao reads it out, Lu Kang asks four questions and none of them is about her intentions — and then says, in front of two men and a clerk, that this is the hardest signature of his life and he is putting it down anyway, because the alternative is a member handed over with her schedule and **this Hall is a book that has been opened**. Three marks and a stamp. **She writes her ceiling for the third time in the book: nine, in her own hand** — and re-enters her own defect with a new sentence under it: *the defect restores nothing*. The second book is not mentioned by anybody in the corridor. The register still reads *reconciled*. She thanks none of them and wins and pays for it in the same hour. |
 | 132 | Relicensed | Day 39, the county office on the square, ninth in the queue, with the quarter's return already on Sun He's table. He stands up and reads the application **in order, out loud, to a room**, and reads seven conditions: the second amended so annexed hours are furnace hours by certification and not another schedule, the sixth new one that the annex returns with the quarter on the same crate in the same order, and **the claim the seventh and the last thing on the paper**, entered because he is required to. The stamp falls. He does not say *you may pick up your licence* this time and she notices. The Hunter is eight feet back at the counter filling in a form; she does not look at him. **Channel: about three weeks.** She does not tell him to stop. |
 
-### Batch 0002 (ch 133–148) — audit and mercy. WRITTEN, 37,063 words over sixteen chapters.
+### Batch 0002 (ch 133–148) — audit and mercy. WRITTEN, 36,742 words over sixteen chapters.
 
 | Ch | Title | Summary |
 | --- | --- | --- |
