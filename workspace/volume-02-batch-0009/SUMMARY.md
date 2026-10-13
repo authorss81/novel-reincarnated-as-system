@@ -18,7 +18,7 @@ She nails it crooked over her own bunk. The whole of Volume 2 is counted off at 
 
 **Titles 104–118:** The Ash-Flats · Nine Days Unfed · Stands to Me · The Quiet Lane · Stone and Paper · The Safest Thing Here · The Sealed Slip · Struck Wherever Copied · Nine Men · The Roofless Hall · Glad of the Noise · Countersignature · The Conditions · Nailed Above the Second Bunk · A Second Cough. All unique against 1–103.
 
-**Checks run:** every speech closed (`“` count == `”` count in all fifteen files); no paragraph over ninety words, the longest being exactly ninety (ch 109); one bracketed layer line in the batch, at ch 114; Yuan in the present tense throughout, including subordinate clauses; no blockquotes, code blocks, tables or horizontal rules; no outline or authorial scaffolding in any narration or thought; titles unique across all 118 chapters.
+**Checks run:** every speech closed (`“` count == `”` count in all fifteen files); no paragraph over ninety words, the longest being exactly ninety (three of them — ch 109, ch 115 and ch 117); one bracketed layer line in the batch, at ch 114; Yuan in the present tense throughout, including subordinate clauses; no blockquotes, code blocks, tables or horizontal rules; no outline or authorial scaffolding in any narration or thought; titles unique across all 118 chapters.
 
 **Canon changes 21–29** recorded in `state/current.md`. Six licence conditions fixed on the page and carried. **Do not re-list them.**
 

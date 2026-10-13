@@ -30,7 +30,7 @@ What is still needed is the **standing record**, written so that a model with a 
 memory of Volume 2 can start chapter 119 correctly.
 
 1. **`state/book-metadata.md`** — set Volume 2 as closed, its chapter range, its word count
-   (**28,234 over 15 chapters in batch 0009; 111,242 across the volume file set**), its status, and
+   (**28,234 over 15 chapters in batch 0009; 111,226 across the volume file set**), its status, and
    that the next volume is *The Hunter*, ch 119–178. Follow the file's existing shape.
 2. **`state/continuity.md`** — a new `## Established facts, Volume 2 complete (ch 59–118)` block
    consolidating the volume's hard facts in one place for a cold reader: the document and its six
