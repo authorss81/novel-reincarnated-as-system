@@ -115,7 +115,7 @@ on day 506. Batch 0002 opens on day 507, and Golden Core 1 is pinned at ch 258, 
   480, 490, 500, 510.** **Three pay-days fall inside this batch: 480, 490 and 500.** Do not invent a
   weekly, fortnightly or month-end rhythm, and **do not say *week*: the world has no named weeks.**
 - **The dates this batch must not move:** **day 470**, the seventh, where Volume 4 closed; **day 512**,
-  Golden Core 1, ch 258, Batch 0002; **day 262's** document, Batch 0002; **ch 272's** sustained scene,
+  Golden Core 1, ch 258, Batch 0002; **ch 262's** document, Batch 0002; **ch 272's** sustained scene,
   Batch 0003.
 - **No calendar month is named anywhere, and no weekday is named anywhere**, from narration or from any
   mouth. The weekday rule is canon in `bible/world.md` and a grep of ch 1–238 returns zero. **Two closed
@@ -398,8 +398,8 @@ body does not.
   Nothing in these fourteen chapters may put a stage on her, bring a base up, or bracket a line.
 - **ZERO bracketed layer lines in this batch.** In fourteen chapters. There is no stage, nothing is
   listed, nothing is killed and nothing is cleared, and the layer has nothing to say. **This silence is
-  deliberate: the first line of Volume 5 is the Golden Core 1 bracket at ch 258, and it must land as the
-  first thing the layer has said since ch 237.**
+  deliberate: the first layer line of Volume 5 is the Golden Core 1 bracket at ch 258, and it must land as
+  the first thing the layer has said since ch 237.**
 - **No tribulation. No trial of any kind is drawn in this shape of book.**
 - **Ledger: not taken, not held, not priced, not refused.** It is hers to order and she does not order
   it. **The volume's own irreversible step with it is at ch 272, in Batch 0003.**
@@ -1284,8 +1284,10 @@ west reopening and on a thing that has to be written and has not been written.**
   from it is reused as emphasis.** Available here, all spent or revoiced and **not available plain**:
   *nobody asked* · *nobody was thanked* · *there is no form* · *there is no column* · *the record remained*
   · *nobody knew* · *nobody said anything* · *eleven weeks* (retired, zero) · **about four seconds**
-  (nine uses in Volume 4's Batches 0001–0002, one in Batch 0003, **none in Batch 0004** — a declining
-  rhythm, not a metronome, **and not a number to reach for**).
+  (**eight uses in Volume 4's Batches 0001–0002 — three in 0001 (ch 181 twice, ch 191) and five in 0002
+  (ch 198 twice, ch 205, ch 208 twice) — one in Batch 0003 (ch 212), none in Batch 0004, nine in the
+  volume whole and none in its last sixteen chapters. A declining rhythm, not a metronome, and not a
+  number to reach for.**)
 - **Absolutes in this book are literal.** A sentence that says *nobody*, *every*, *never* or *only* is a
   claim about the whole manuscript and will be checked. **Write the claim you can hold.**
 - **Never:** *his eyes widened*, *he couldn't believe it*, *suddenly*, *little did he know*.
@@ -1293,8 +1295,9 @@ west reopening and on a thing that has to be written and has not been written.**
   and a cost, **and nobody is hurt, nobody dies and nobody is saved.**
 - **Do not put the surface answer on the page.** *Being told is what happens inside and being charged is
   what the ground carries, and the bound never noticed the difference* is **Batch 0002's, paid once, in a
-  worker's mouth, in short sentences at ch 280's equivalent.** **Nothing here may say it, hint at it or
-  gesture at it.** Batch 0001 pays a narrower thing: *a figure is only paid against something.*
+  worker's mouth, in short sentences at ch 267**, the last chapter of that batch. **Nothing here may say
+  it, hint at it or gesture at it.** Batch 0001 pays a narrower thing: *a figure is only paid against
+  something.*
 - **Do not name anything above the Standing Office of the Second Account. Do not introduce a new final
   enemy.** The Scribe is fixed in `outline/ending.md` and belongs to Volume 15.
 - **Do not spend Feng's second Lung or give him a second appointment. Do not open the relicensed licence.
@@ -1353,18 +1356,31 @@ west reopening and on a thing that has to be written and has not been written.**
 
 ---
 
-## Proposed repairs and flags — nothing has been edited
+## Proposed repairs and flags — no chapter has been edited
 
 - **Nothing in `chapters/volume-01/` through `chapters/volume-04/` was opened, and no chapter is
   proposed for repair.** No fault was found in the text while planning this batch.
-- **Flagged for whoever plans Batch 0002, not resolved here.** `outline/volume-05.md` says, under
-  *Concrete resolution*, **"The surface answer paid (ch 280, Batch 0002's close)"** — but the same file's
-  *Pressure rotation* and *Batch plan* tables put Batch 0002 at **ch 253–267** and Batch 0003 at **ch
-  268–283**, so **ch 280 is not Batch 0002's close and no card in this batch touches either chapter.**
-  The batch allocation and the sixty-chapter total are the authority and they are consistent; **the
-  chapter number in that one line is the thing that is out.** Whoever plans Batch 0002 and Batch 0003
-  should pin the surface answer once and record the pin. **This batch's allocation does not depend on it.**
-- **Flagged, same reason, same owner.** `outline/volume-05.md`'s power table gives **Golden Core 1 at ch
-  258, day 512, "42 days after Foundation 9"**, and Foundation 9 is on **day 462**, which is fifty days.
-  **Day 512 is the pinned date and this batch does not move it**; only the interval word is out, and only
-  Batch 0002 needs it. **This batch's day table was built backwards from day 512 and is unaffected.
+- **Both flags this file raised against `outline/volume-05.md` have since been repaired at source, and this
+  file now agrees with the volume outline. Neither is carried forward as open.**
+  - **The surface answer's chapter number.** This file flagged that *Concrete resolution* read "The surface
+    answer paid (ch 280, Batch 0002's close)" while the *Batch plan* tables put Batch 0002 at ch 253–267 —
+    so ch 280 was not that batch's close, and it is a chapter that does not exist in the plan.
+    `outline/volume-05.md` now reads ch 267 in all three places, *Concrete resolution* and both *Batch
+    plan* rows, and the surface answer is pinned once there and nowhere else in the volume. The pin is
+    carried under *Traps for the drafting phase* above. Batch 0001's allocation never depended on it.
+  - **The Golden Core 1 interval word.** This file flagged that the power table gave "42 days after
+    Foundation 9" where Foundation 9 is on day 462 and Golden Core 1 is on day 512, which is fifty days.
+    `outline/volume-05.md` now reads 50 days after Foundation 9 and 42 days after the volume's first day —
+    both true, and the day table is unchanged. Day 512 was never in dispute and is not now. This batch's
+    day table was built backwards from day 512 and was unaffected throughout.
+- **Two faults in this card file itself, found in review and repaired here rather than in any chapter.**
+  - **The surface answer was still routed in *Traps for the drafting phase* to "ch 280's equivalent,"**
+    which would have sent a Batch 0002 drafter after a chapter outside their range. It now reads ch 267,
+    the last chapter of Batch 0002.
+  - **The *about four seconds* count in the same trap block was misstated** as nine uses in Batches
+    0001–0002, one in Batch 0003 and none in Batch 0004, which implies ten across the volume. Measured
+    against the manuscript it is eight, one and none — nine whole. The corrected figure, with the chapters
+    that carry it, is now given in that block, and it agrees with `outline/volume-05.md`.
+- **One mislabel in this card file, found in review and repaired here.** The list of dates this batch must
+  not move read "day 262's document" where 262 is a chapter and not a day, in a list whose other two
+  entries already said `ch`. It now reads ch 262.

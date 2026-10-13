@@ -12,8 +12,12 @@ moved two sentences in ch 220 and ch 232, made the weekday rule canon, and reope
 Live threads below carry into **Volume 5, *Mortal Ash*, ch 239–298**. The
 full state of each one at the last page of Volume 4 is in `state/continuity.md` under
 ***Established facts, Volume 4 complete (ch 179–238)*** and ***Volume 4 running ledger — at end of ch 238***.
-**The next phase is the Volume 5 planning phase**, at `workspace/volume-04-close-record/PROMPT.md`, which
-writes `outline/volume-05.md` and creates exactly one Volume 5 Batch 0001 card prompt.
+**The Volume 5 planning phases have both run.** `outline/volume-05.md` is written and is the authority for
+Volume 5, and `outline/batches/volume-05-batch-0001.md` is written at fourteen cards for **ch 239–252**.
+**Next to write is the Volume 5 Batch 0001 drafting phase.** It cannot be opened from this file: the two
+planning phase directories `workspace/volume-04-close-record/` and `workspace/volume-05-batch-0001/` hold
+finished deliverables with no `.done` marker and are carrying `.deferred` with expired `.retry-after`
+timers, and the marker belongs to the controller alone under `PHASE_SYSTEM.md`. **Escalate.**
 
 ## Volume 4 — every thread below is confirmed OPEN on this file. Nothing here is retired.
 
