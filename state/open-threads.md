@@ -1,14 +1,16 @@
 # Open Threads
 
 **Volume 1 is closed. Volume 2 is closed and audited (ch 59–118). VOLUME 3 IS CLOSED AND AUDITED (ch 119–178).
-VOLUME 4 IS WRITTEN IN FULL (ch 179–238, 120,566 words across four batches: 28,608 · 31,941 · 28,568 ·
-31,490) AND IS NOT YET AUDITED.** The Volume 3 close audit table is in `state/current.md` under
+VOLUME 4 IS CLOSED AND AUDITED (ch 179–238, 120,571 words across four batches: 28,607 · 31,900 · 28,580 ·
+31,484, section headings excluded).** The Volume 3 close audit table is in `state/current.md` under
 `## Volume 3 close audit — CLOSED`, and **the review's reversal of one of the audit's rules is written up
 under *Close review repair* in that same block — read it before using any four-county or nine-county figure
-from this run.** Live threads below carry into **Volume 5, *Mortal Ash*, ch 239–298**. The full state of each
-one at the last page of Volume 4 is in `state/continuity.md` under
+from this run.** The Volume 4 close audit table is in `state/current.md` under
+`## Volume 4 close audit — CLOSED`. Live threads below carry into **Volume 5, *Mortal Ash*, ch 239–298**. The
+full state of each one at the last page of Volume 4 is in `state/continuity.md` under
 ***Established facts, Volume 4 complete (ch 179–238)*** and ***Volume 4 running ledger — at end of ch 238***.
-**The next phase is the Volume 4 close audit**, at `workspace/volume-04-close/PROMPT.md`.
+**The next phase is the Volume 5 planning phase**, at `workspace/volume-04-close-record/PROMPT.md`, which
+writes `outline/volume-05.md` and creates exactly one Volume 5 Batch 0001 card prompt.
 
 ## Volume 4 — every thread below is confirmed OPEN on this file. Nothing here is retired.
 
@@ -41,9 +43,10 @@ and reopens on day 254**, per a sealed county notice on the public shelf by the 
 earlier* — and the thaw is on about the same day and **was eleven days off at day 243**. **Months are thirty
 days and a month begins every thirty days, so month-day = `((day − 134) mod 30) + 1` and day 134 was the first of
 a month** (ch 150: day 136 is the third of the month; ch 222: day 376 is the third of a month, as it must be
-eight months on). **This block used to read *month-day = day − 133*; that was an offset that held only for day
-134 to day 163 and it is wrong for Volume 4, where every month-day is day − 373 across days 374 to 463 and day
-− 463 from day 464.** The monthly attendances are
+eight months on). **CORRECTED AT THE VOLUME 4 CLOSE: this block used to read *days 374 to 463 read
+day − 373*, which was wrong for days 404 onward. The correct form is the formula above. Equivalently: days
+374–403 read day − 373 · days 404–433 read day − 403 · days 434–463 read day − 433 · days 464 onward read
+day − 463.** The monthly attendances are
 **day 147 the fourteenth, day 178 the fifteenth, day 209 the sixteenth, day 239 the sixteenth** — thirty
 days from the third, the drift ending. Volume 3 ran **day 2 to day 219**; **Volume 4 Batch 0001 ran day 220
 to day 253**; **Batch 0002 ran day 254 to day 280**; **Batch 0003 ran day 281 to day 376**, and ch 223 onward
@@ -155,19 +158,54 @@ was touched.**
 | **MEMBER ABSENT** | **ENTERED A THIRD TIME, PERMANENT, AND THE SHEET WENT WEST FOR THE LAST TIME THIS SEASON.** Reason column a foot and a half wide and blank. **Nobody offered her the word a second time** |
 | **The register, the plate, Shen Xiu, the sponsors' second book, the eleven, Ning Wu, the ch 150 refusal** | **NOT RAISED. NOT SOFTENED. NOT RETIRED** |
 
-### The one structural question the close must answer in writing — the protagonist
+### The one structural question — the protagonist — ANSWERED AT THE VOLUME 4 CLOSE
 
 **Yuan has been a voice only and off-panel for two volumes of sixteen.** `outline/series.md` §2 names
 **Yuan, male**, as the protagonist and `state/book-metadata.md` records **Gender: Male**, so the male-led
 requirement is met at series level. **Volume 4's close third is on Ning Yan throughout.** Yuan is present
-through ch 179–238 as a voice: present-tense speech, rationed to four marks and then to one, a standing
-held twice and refused once, and a name read at ch 236 that he had said four times he could not read.
+through ch 179–238 as a voice: present-tense speech, rationed to four marks and then to one, a standing held
+twice and refused once, and a name read at ch 236 that he had said four times he could not read.
 
-**Nothing in ch 179–238 may settle this and nothing did.** It is recorded here for
-`workspace/volume-04-close/PROMPT.md`, and **the close must state in writing what Volume 4 did with the
-book's protagonist before Volume 5 opens** — in the close summary, in `state/current.md` and in the Volume 5
-hand-off — and must not re-frame ch 179–238, retitle the volume, introduce a new final enemy, or take
-anything Volume 5 owns.
+**ANSWERED. The finding, stated without softening: sixty chapters of close third on a woman who is not the
+protagonist, in which the protagonist has no scene, no body, no room and nobody to speak to, is a structural
+debt two volumes of sixteen old. It is not enough.**
+
+**What he did across ch 179–238, all of it his own decisions, all of it paid for by her:** he **found a hand
+that wrote a date against a claim** (eight days out of ten, ch 187) · he **held a standing for a crossing and
+was paid for it out of a base that was not finished** (one day out of three, stated at ch 231, taken at ch
+233, put down when the crossing was over) · he **intercepted a share of a settled job and spent it** (ch 235,
+out of her foundation, one stage short of finished) · he **restored his own life** (about six weeks at the
+last page) · and he **read one name he had said four times he could not read, in one breath, and stopped**
+(ch 236).
+
+**What Volume 5 does about it, decided before Volume 5 opens:** **the shape of Volume 5 is itself the
+correction, inside its own sixty chapters.** Volume 5 must put Yuan on the page in his own right for **at least
+one sustained scene in which he acts, or is acted on, away from her hearing** — not more rationed sentences,
+not a description of him, not a dream — **and it must take something that is his and that the ending still
+needs**, because `outline/ending.md` is fixed that he refuses the bargain, takes the fall and is gone before
+ch 1000, **and a man the reader has never seen in a room cannot carry a fall.**
+
+**What may not happen:** the close **may not** re-frame ch 179–238, **may not** re-title the volume, **may
+not** introduce a new final enemy, and **may not** take anything Volume 5 owns — **the family account, Ning
+Wu's decade, the four months erased in Chapter 3, and the bargain and the fall. The Scribe is fixed in
+`outline/ending.md` and belongs to Volume 15**, and this decision does not touch it.
+
+**The full statement is in `state/current.md` under *The protagonist, answered in writing*, and in
+`workspace/volume-04-close/SUMMARY.md`.**
+
+### One unspent item the close audit added
+
+**Feng's fair hand copying the Foundation column, and his copies going up a stair that now belongs to a
+district clerk and past the line into a book the far side keeps.** `outline/volume-04.md` promised this *from
+ch 224*. **It is not on the page: Feng appears once in the whole volume, at ch 181, on day 223, before
+Foundation 1 at day 276, and Volume 4's Batch 0003 and Batch 0004 cards forbade him appearing without a card.**
+What is on the page and confirmed: alive, warm for the first time in twenty-two years, sixty-two, the fair
+hand, the district clerk carrying the bundle up four flights with a strap over his shoulder and coming down
+with his arms empty, a quarter off his own stair at his own written request entered not refused and not
+thanked for, the Listener's standing for life, **and that she did not thank him** (ch 181). **No second
+appointment and no second Lung is spent — Volume 11 owns them. Column at five is carried canon and is not
+restated in Volume 4.** **The beat is available and it belongs to the far side, which is where Volume 5
+starts.**
 
 ### The volume-close phase is required and has been written
 
@@ -232,7 +270,7 @@ several rows above are still open.
 | The unnamed fourth child of the Ning household | Volume 1 | Vol 5 | open — untouched through the whole volume |
 | Why Qiu keeps the furnace names in his head | Qiu | Vol 5 | advanced — stripped ch 50, pensioned, alive, sincere. **Does not appear in batch 0006.** Do not use him as a comfort in batch 0007 without a reason |
 | The second book: nine households struck over eleven years | Lu Kang / Deng Chao / Pei An | Vol 2–5 | **opened ch 48, advanced ch 67, irreversible decision at ch 128, held through ch 148.** She holds the weapon in a coat lining, states the price aloud in the corridor, is told *then don't*, and does not. **Nothing about it is lodged, copied or spoken anywhere in ch 119–178 — checked and true across Batch 0002 as well; the sponsors do not appear in that batch and the word *writ* is not used about them.** Hou Sanliang is the creditor on three of the nine and **his counting room has opened its book again (ch 135), told off a copied carriers' slate; he has still never been met.** Qiu still does not know |
-| Feng Lushi's lung | Feng | Vol 3 (**taken ch 143**), Vol 11 (a second) | **TAKEN, ch 143.** The audit is **spent** (ch 136–140): a lawful request, five sheets answered truly, the column at twenty-two years of five, the four county copies walled behind the fifth item with **one of them struck by an office no county keeps**, and the ch 117 fair line. **Cost to him: suspension from the stair for one quarter, a clerk carrying the upward bundle, the four copies read at the county table. He is not dismissed** — volumes, stipend, column and house all stay, and *the district does not terminate an examination.* The **Listener's appointment** (ch 141 offered, ch 143 taken): district wage quarterly, oil, a hundredweight of coal, a chair in the county office on reading days — **for reporting the stair upward truly and in full, whether or not it is entered, for life, set-aside-able on request from without the bound.** He lives, coughs less, writes more, and is owned. **Column at five.** He has not asked her a question since. **The second Lung is Volume 11 and is unspent.** |
+| Feng Lushi's lung | Feng | Vol 3 (**taken ch 143**), Vol 11 (a second) | **TAKEN, ch 143.** The audit is **spent** (ch 136–140): a lawful request, five sheets answered truly, the column at twenty-two years of five, the four county copies walled behind the fifth item with **one of them struck by an office no county keeps**, and the ch 117 fair line. **Cost to him: suspension from the stair for one quarter, a clerk carrying the upward bundle, the four copies read at the county table. He is not dismissed** — volumes, stipend, column and house all stay, and *the district does not terminate an examination.* The **Listener's appointment** (ch 141 offered, ch 143 taken): district wage quarterly, oil, a hundredweight of coal, a chair in the county office on reading days — **for reporting the stair upward truly and in full, whether or not it is entered, for life, set-aside-able on request from without the bound.** He lives, coughs less, writes more, and is owned. **Column at five.** He has not asked her a question since. **The second Lung is Volume 11 and is unspent.** **VOLUME 4 ADDED, at the close: he appears once in the whole volume, at ch 181 — alive, warm, fair hand, the district clerk's arms on his stair, not thanked — and the one beat Volume 4 promised for him, his fair copies going past the line into a book the far side keeps, was never given. It is unspent and available to Volume 5; see *One unspent item the close audit added* above.** |
 | **Shuyin, Warden, and the instrument not held in this county** | Yuan / series | **Vol 9 (Warden), Vol 4 (the instrument)** | **CLOSED AS A BATCH ARC AT CH 174. THE ENGINE OF VOLUME 4.** A field agent of a Warden's office **cannot unmake a System inside a bound without a Wall writ**. He said it out loud, in a low room, in front of twenty people, on the second hour of the nineteenth of the month. He **certified in a Warden's hand that the System is real, unauthorised and carried by a licensee in good standing, and referred the dismantling upward to the Warden**; the referral carries her name, her stages **in order** and her hours, carries no agent's name, and has gone up the stair past every office she has ever stood in front of. **The request for the instrument went live with it**, written four weeks earlier and waiting for the reading. **The district has answered: received, numbered, referred upward, no instrument held in the district either, and an empty space the width of a line.** **Volume 4 opens on that empty space. Do not fill it in the first batch. The Wall was never described in Volume 3 and may not be described, crossed or named until Volume 4's own logic has earned it — see the Volume 4 table above** |
 | Shuyin's list, and whether his own name is on it | Vol 9 | Vol 9 | open — untouched |
 | The Clay Tablet and what it is made of | Volume 1 | Vol 5, remembered Vol 16 | **advanced ch 66; untouched ch 104–118; open into Volume 3.** Still worn, still not surrendered, texture not redescribed. Stated once more at ch 117 as a plain fact — against her chest since the sixth day of the winter and against it when she dies |

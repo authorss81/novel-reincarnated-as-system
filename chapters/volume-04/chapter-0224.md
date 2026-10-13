@@ -100,7 +100,7 @@ He put his thumb on the plank the way he puts it on a book.
 
 He looked at the two hundred yards of ground between the trestle and the wire.
 
-“So that is my half of it and I would do the whole of it again on Friday,” he said, “and you may stand there and be angry about it and I would rather you did than that you thanked me for it.”
+“So that is my half of it and I would do the whole of it again on any working morning,” he said, “and you may stand there and be angry about it and I would rather you did than that you thanked me for it.”
 
 Then he said: “I am not going to say it out here again,” and walked back inside the wire.
 

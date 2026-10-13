@@ -2079,13 +2079,105 @@ died, and no page before ch 236 names it.
 **Bracketed layer lines: eight in sixty, one at each announced stage, and none at all in ch 234.** The seven
 relicensing conditions: **never re-listed**, except the seventh read aloud once on the far side at ch 237. The
 four conditions of the Volume 2 licence: never re-listed. The suppression arithmetic: spent three times in
-Volume 3 and **said once, in new words, at ch 234, and not argued again.** What a surety is for: spent. The
-four seconds: **never used as a metronome anywhere in the volume.** ***Eleven weeks*: zero.*** **No calendar
-month and no weekday is named anywhere in ch 179–238** — **one exception is known to stand, in ch 224**
-("he would do the whole of it again on Friday"), recorded for the close. ***Nobody asked, nobody was thanked,
-there is no form, there is no column, the record remained, nobody knew, nobody said anything*: all spent or
-revoiced above them, and none available plain.** *The shape of a happy life*: zero. Authorial scaffolding:
-zero. Banned reflexes: zero.
+Volume 3 and **said once, in new words, at ch 234, and not argued again.** What a surety is for: spent.
+***Eleven weeks*: zero.**** ***Nobody asked, nobody was thanked, there is no form, there is no column, the
+record remained, nobody knew, nobody said anything*: all spent or revoiced above them, and none available
+plain.** *The shape of a happy life*: zero. Authorial scaffolding: zero. Banned reflexes: zero.
+
+### VOLUME 4 CLOSE AUDIT — CORRECTIONS TO THIS FILE (ch 179–238), written at the volume close
+
+**`outline/volume-04.md` walked line by line against the manuscript. Four faults were repaired in the
+chapters; five findings are recorded with a reason; three inaccurate claims in the state files are corrected
+here and in `state/current.md`, `state/open-threads.md` and `state/book-metadata.md`. The full table is
+`## Volume 4 close audit — CLOSED` in `state/current.md`. Nothing below replaces any per-batch block.**
+
+**Corrections to this file.**
+
+1. **THE FOUR SECONDS.** The line above used to read *"The four seconds: never used as a metronome anywhere
+   in the volume."* **That was not accurate.** *About four seconds* appears **nine times** in ch 179–238:
+   **ch 181 (×2), 191, 198 (a section heading and a line), 205, 208 (×2), 212.** All nine are in Batches
+   0001 and 0002, **one is in Batch 0003, and there are none in Batch 0004.** It is a declining rhythm and
+   not a metronome, and no other pause figure is displaced by it — the volume's own alternatives are *as long
+   as it takes to count eleven*, *about nine seconds*, *about two seconds*, *a second and a half* and *four
+   minutes*. **The rule stands and is unchanged: do not let it become a metronome.** The record is corrected
+   to say what is on the page.
+2. **THE WEEKDAY.** *No calendar month and no weekday is named anywhere in ch 179–238* **is now true.** Ch 224
+   carried the volume's only instance — *I would do the whole of it again on Friday* — and **the close audit
+   repaired it in place to *on any working morning*.** The exception no longer stands.
+3. **THE MONTH RULE.** The rule as it stood read *"Days 374 to 463 read day − 373; day 464 begins the next
+   month and reads day − 463."* **That is wrong for days 404 onward.** The correct statement is
+   **`((day − 134) mod 30) + 1`,** which is the formula already given above it and which agrees with every
+   month-day on the page: **days 374–403 read day − 373 · 404–433 read day − 403 · 434–463 read day − 433 ·
+   464 onward reads day − 463.** Under the wrong form, days 412 and 440 and 462 and 470 came out as 39, 67,
+   89 and 97; under the correct form they are the ninth, the seventh, the twenty-ninth and the seventh,
+   which is what ch 228, ch 234, ch 237 and ch 238 each say in the chapter.
+4. **THE WORD COUNTS.** The volume file set was recorded as 120,566. **It is 120,571 after the close
+   repairs, section headings excluded** — which is the method every per-batch figure uses, and the reason the
+   raw `wc -w` count is higher. Per batch, headings excluded: **28,607 · 31,900 · 28,580 · 31,484.** The
+   per-batch summary figures in `workspace/` differ from these by a few dozen words each and are historical
+   records of the moment each batch closed; **the audited figures are the ones above.**
+
+**Repairs made in the chapters at the volume close.**
+
+- **ch 224** — the only named weekday in the volume (*on Friday*) → **on any working morning**.
+- **ch 232** — *she had four fingers' worth of nothing on the other one that she had not noticed yet* → **and
+  every part of her that had gone wrong since the thaw had gone wrong on that side.** A direct pre-echo of
+  the right index finger, three chapters before ch 235.
+- **ch 179** — *that is the finger that can still do a turn at the end of a stroke* → **because a coin will go
+  across the flat of that one and not across a fingertip.** The construction belonged to ch 235 and was being
+  spent fifty-six chapters early.
+- **ch 220** — **the fifth stage was dated *the nineteenth of this month*, which is day 362 and makes the
+  interval twenty-four days.** **The pinned day is 360, which is the seventeenth**, twenty-two days from the
+  twenty-fifth of the month before, and the chapter's own heading and nine later chapters all date the strike
+  to the seventeenth. Corrected to **the seventeenth**, with *it came in the same week* → **it came earlier in
+  that same day** and the two *two days* recast as **the rest of the day** and **the hours between the two of
+  them**. The chapter's argument — that the two things are not connected — is preserved and sharpens,
+  because the stage and the strike are now four hours apart on one day.
+
+**Findings recorded and not repaired, with the reason.**
+
+1. **Bai Zhu's name is spoken twice more than the outline's *named once*:** in narration at ch 189 (×3) and
+   by Ning Yan's own mouth at ch 196. **The operative rule — no document he signs carries his name — is intact
+   and confirmed at ch 220 and ch 238**, and both spoken uses were authorised by Volume 4's own batch cards.
+2. **The ch 234 cost is echoed at ch 236, not at ch 235.** Each of the four costs is named exactly twice in
+   the volume and never a third time.
+3. **Feng's fair hand copying the Foundation column, and his copies going past the line into a book the far
+   side keeps, are not on the page.** He appears once in the whole volume, at ch 181, and Volume 4's Batch
+   0003 and Batch 0004 cards forbade him appearing without a card. **Carried unspent into Volume 5.**
+4. **Bai Zhu's win at ch 218 stands and is not escalated**, and he is not a villain at any point.
+5. **The far-side keeper's reason for giving her a knife at ch 236 is an outside man's eye catching how she
+   holds her right hand, and is recorded here because it is the only sentence in the volume that could be
+   read as pricing the finger a second time.**
+
+**The fifteen required continuity facts are confirmed one at a time, and three of them have changed shape.**
+The three, stated in the form the last page actually used:
+
+- **Item 9 — the unreadable office. IT IS NO LONGER UNREADABLE.** Yuan read it at ch 236, in one breath:
+  **the Standing Office of the Second Account**, a middle office with others above it. **What is still
+  unreadable is everything above that one.** *Kiln-born* is still in two heads and on no paper and returned
+  zero across ch 119–238.
+- **Item 12 — Ledger. Taken twice in Volume 4 and refused once out loud.** Batch 0001: eight days out of ten
+  for a name. Batch 0001: refused once, out loud, at a moment it would have been easy. Batch 0004: one day out
+  of three for a crossing, held under a day and put down when the crossing was over. **It is hers to order at
+  the last page and she does not order it.**
+- **Item 13 — the year of non-forgiveness. Changed shape and still running.** It is not forgiveness, it is a
+  purchase, and the account is carrying. The sentence the last page actually used is ch 230's: *That is not
+  forgiveness. It is a purchase, and the account is still carrying, and it will be carrying at the end of the
+  book.* **Do not retire it.** `outline/ending.md` is fixed that she forgives him in ch 1000 and it is
+  housekeeping that closes because he is gone.
+
+**The protagonist question, answered at the close.** **Yuan is the book's protagonist and he has been a voice
+only, off-panel, for two volumes of sixteen.** What he did across ch 179–238, all of it his own decisions:
+he **found a hand that wrote a date against a claim**; he **held a standing for a crossing and was paid out of
+a base that was not finished**; he **intercepted a share of a settled job and spent it**; he **restored his own
+life**; and he **read one name he had said four times he could not read, in one breath, and stopped.** **Every
+one of them was paid for by her, in hours, in a stage, or in a finger. That is not enough, and the finding is
+stated without softening: sixty chapters of close third on a woman who is not the protagonist, in which the
+protagonist has no scene, no body, no room and nobody to speak to, is a structural debt two volumes of sixteen
+old. Volume 5 takes the correction inside its own sixty chapters — at least one sustained scene in which Yuan
+acts, or is acted on, away from her hearing — and it takes something that is his, because a man the reader has
+never seen in a room cannot carry the fall `outline/ending.md` fixes for him. Full statement in
+`state/current.md` under *The protagonist, answered in writing*.**
 
 ---
 

@@ -116,7 +116,7 @@ She stood in a lane in the third month of the cold and let a man in her head be 
 
 She did not go in at the counter.
 
-She went across the square and down the lane behind it to the wash house and took the board up in the corner where the water does not get, and the tin was under it, and she counted it on the bench under the lamp with the flat of her right second finger because that is the finger that can still do a turn at the end of a stroke, and the heel of the other one is not there any more and has not been since the ice.
+She went across the square and down the lane behind it to the wash house and took the board up in the corner where the water does not get, and the tin was under it, and she counted it on the bench under the lamp with the flat of her right second finger, because a coin will go across the flat of that one and not across a fingertip, and the heel of the other one is not there any more and has not been since the ice.
 
 It took longer than it should have. It took the better part of a quarter of an hour, because a person cannot count quickly with the side of a finger, and there is no faster way to do it and there is not going to be one.
 

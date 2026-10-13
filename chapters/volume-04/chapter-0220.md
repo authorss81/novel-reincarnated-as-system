@@ -82,21 +82,21 @@ She did not thank him for any of that. She did not thank him on the eleventh of 
 
 ## The Fifth Stage
 
-It came in the same week.
+It came earlier in that same day.
 
-She had the interval running from the twenty-fifth of the month before, twenty-two days, and it came on the nineteenth of this month, and she took it at about the fourth hour in a bunk with three boards on it in a hut with nine men asleep in it, in the ordinary way.
+She had the interval running from the twenty-fifth of the month before, twenty-two days, and it came on the seventeenth of this month, and she took it at about the fourth hour in a bunk with three boards on it in a hut with nine men asleep in it, in the ordinary way.
 
 [Ning Yan of the county of Lowwater, servant-born, under a ceiling written in her own hand. Foundation, stage five, is held.]
 
-And here is the thing about the two of them, and she had about two days to sit with it, and two days was enough.
+And here is the thing about the two of them, and she had the rest of the day to sit with it, and the rest of the day was enough.
 
 They were not connected.
 
 Her name came out of a contractor's book on the seventeenth because a rule that is nine years old and has been used twice and was right twice has been applied to it, and the foreman squared his book.
 
-The stage came on the nineteenth because a base gets heavier and the intervals lengthen and twenty-two days is what twenty-two days is.
+The stage came at the fourth hour because a base gets heavier and the intervals lengthen and twenty-two days is what twenty-two days is.
 
-She had two days in which to be certain that one had nothing to do with the other, and being certain of it was worse than not knowing.
+She had the hours between the two of them in which to be certain that one had nothing to do with the other, and being certain of it was worse than not knowing.
 
 Because if the stage had cost her the name, then she could have put the two together and carried both of them as one thing. She could have said: that is what it took. That is the price. And a price is a thing a person can hold.
 
