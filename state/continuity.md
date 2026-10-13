@@ -1402,10 +1402,14 @@ The Wall as a shape of work rather than a shape of stone. Foundation 1 → 9 and
 **Wei Ran may first appear in this volume, twenty, mortal-born** (`outline/series.md` §7; she is absent
 from Volumes 1–3 and the line goes off page and is not the main relationship).
 
-### Planned in `outline/batches/volume-04-batch-0001.md` — Batch 0001, ch 179–192, NOT YET DRAFTED
+### Planned in `outline/batches/volume-04-batch-0001.md` — Batch 0001, ch 179–192, **NOW DRAFTED**
 
-These are **planned** and are recorded here because Batch 0002's drafter reads continuity before it reads
-the cards, and because two of them **change a figure that the Volume 3 record carries.**
+**All fourteen chapters are on the page.** What follows was the plan and is kept because Batch 0002's
+drafter reads continuity before it reads the cards. **Where the draft and the plan differ, the draft is
+recorded in the block above and the one difference that matters is:** the plan put the tin's projection at
+day 246 and the gap before the road at eight days; the draft carries the arithmetic from the county's own
+month table, which gives **the end of this month and seven days**. Same shape, one day out, and **seven days
+is the figure on the page.** Everything else in the plan was drafted as written.
 
 - **The fourth monthly attendance is day 239, and she attends it.** Month-day = day − 133 on a
   thirty-day month, so 239 − 133 = 106, and 106 leaves **16** over three whole months — **the sixteenth**,
@@ -1427,6 +1431,150 @@ the cards, and because two of them **change a figure that the Volume 3 record ca
   board she is choosing not to spend**, and **no card after ch 190 and no hand-off line may call it
   empty, spent or gone.** A draft carried *a tin with nothing in it* into the ch 191 pull, the ch 192
   inventory and the Batch 0002 hand-off; that coinage is retired.
+
+
+---
+
+## Established facts, Volume 4 Batch 0001 (ch 179–192) — RATION AND SILENCE
+
+**Fourteen chapters, 28,611 words, average ~2,044.** Day **220 to day 253**, and nothing falls between
+batches: **Batch 0002 opens on day 254** with the season's road open. **Zero bracketed layer lines in
+fourteen chapters.** The whole batch is a ration-and-silence pressure and none of Volume 3's four shapes
+and none of Volume 2's confinement is rebuilt in it.
+
+### The clock, as drafted
+
+- **Day 0 is the last day of the thaw. Ch 178 is day 219; ch 179 is day 220; ch 192 ends on day 253; ch 193 is day 254.**
+- **Month-day = day − 133 on a thirty-day month.** The fourth monthly attendance is **day 239, the sixteenth**,
+  at the third hour, **thirty days** on from the third at day 209 — the first gap between two attendances a
+  chapter has been allowed to state. **She attends it.** Missing it is Batch 0002's irreversible decision at
+  ch 205 and **nothing in Batch 0001 plants it, foreshadows it or lets her think about it.**
+- **The season's road opens on the eighth of the ninth month, or later, and not earlier** — the county
+  notice on the public shelf, sealed, with a thumbprint of melted and refrozen frost on the corner. The thaw
+  falls on about the same day: at day 243 it is **eleven days off**.
+- **The tin.** About a hundred and forty coppers at ch 178 (day 219). Four loads a week at nine coppers =
+  thirty-six a week. The projection runs out **at the end of this month** and the road is the eighth of the
+  next: **seven days short.** She pays **four coppers** to the girl at ch 183 (a shade under a day of stone,
+  so the projection does not move). She **stops buying on the morning of day 240** with about thirty coppers
+  left, which is about six nights of stone. **From the 240th the tin is about thirty coppers under a board
+  she is choosing not to spend.** **Nothing after ch 190 calls it empty, spent or gone, and no later chapter
+  re-counts it against a different figure.**
+- **The channel.** *About ten days* was said once at ch 178 and **is not repeated in ch 179–184.** The price
+  reaches a page **twice, both times as the price**: ch 185 (**eight days out of about ten**) and ch 187
+  (named again immediately before the word). **What is left, about two days, is said once at ch 187 and she
+  refuses to have it said twice.** The ration is **four a day** (ch 184, in her own hand on the card, and
+  referred to after that, never restated and never multiplied by a number of days), and **ch 191 is the only
+  place the falling-off goes into numbers — three, then two, then one.** Ch 192 states what is left of him
+  **once, in her own count, with no figure in it.** No bare Settlement fraction anywhere. No total and no
+  arithmetic on any page.
+- **Ledger.** Taken **once** (ch 187), price named before the word, held less than a day, put down when it is
+  over and **not offered to hold it again**. **Refused once out loud** (ch 191), on a mat, **before he can
+  say the price**, with no explanation attached. **Merit: none. Nothing in ch 179–192 can restore the channel.**
+
+### What the batch established on the page
+
+1. **A ruled space on a form is the place where an entry gets made, not an unanswered question** (ch 179).
+   The office that fills it is the one the referral went to. **The space is written on the page more than
+   once and is never filled** — its first entry is Batch 0003 and its answer is Batch 0004.
+2. **The county publishes a date and a clerk has sealed it onto a boundary** (ch 179). She can see the edge
+   of the whole of her position from inside it. The county's day and the carriers' word differ by about a
+   week (ch 183), and the carriers are the ones who go and look.
+3. **A Ledger price is paid out of a quantity of channel and not out of time.** The reading is short; the
+   price is what is gone afterwards (ch 187).
+4. **A voice can be rationed, and the person rationing him is worse at it than he is**, because he wants to
+   spend them and she wants to save them (ch 184, ch 191).
+5. **Her eleven minutes and her four miles are worth nothing to nine men** (ch 186). The signed-shift rule is
+   *used* — she cannot sign for nine men because she is not one of the crew — and not explained.
+6. **The word *irregular* was on the front of the quarterly for the fourth time and is not stamped a fifth**
+   (ch 186). The Hall sheet is written out by her in eleven minutes in a hall with no roof.
+7. **What the eight days bought (ch 187):** **Luo Ping**, thirty-nine, a schedule-man with sixteen years of
+   other people's schedules, **with a wife and a boy of eleven who live past this county's boundary.**
+   **What it did not buy:** her, the claim, the date, the reason for any of it, the answer on the shelf.
+   **The claim stands and the date stays in the counting room in Lowwater. Hou Sanliang is not met and does
+   not appear.**
+8. **The year of non-forgiveness changed shape and did not close (ch 185 and ch 188).** The once-a-year
+   reserved sentence was spent **on the price**, so that when the year came round there was nothing set
+   aside for it. What replaced it is **a purchase and not forgiveness**, plus relief at not having to prove
+   to an empty room that she is angry. **The account still carries and must still carry at ch 1000.**
+9. **She stopped buying the stone on the morning of day 240 (ch 190)** and made nine men cold for four nights
+   on purpose. **Nobody is hurt, nothing breaks, nobody dies, nobody is rescued.** **Qin noticed the fire had
+   gone out, filled a bucket himself and asked nothing.**
+10. **What a carrier knows about a road is loads, days, and a place where a cart turns** (ch 191), and the
+    run lists show that **the carriers do not run past a certain point because there is nothing on the far
+    side of it for them to run to.** That is a fact about carriers and **is not a description of anything and
+    is not written as one.**
+
+### Construction budget — spent in Batch 0001, not to reuse
+
+Bracketed layer lines: **zero, in fourteen chapters.** The seven relicensing conditions re-listed: **zero**
+(referenced once in ch 179 and ch 192 as the back of the licence). The suppression arithmetic: **zero** — at
+ch 189 the three gaps are ruled in the ordinary four words and Sun He **does not say the ruling aloud**, which
+is the Volume 3 arrangement restated as silence. The signed-shift roster rule re-explained: **zero.** *There
+is no form*: **zero. There is no column*: **zero. The record remained*: **zero.** *Nobody asked*: **zero.**
+*Nobody knew*: **zero.** *Nobody was thanked*: **one**, at ch 183, and it is the girl — the one place in the
+book where that construction is allowed, because she has arranged it in advance for two years and has told
+three washerwomen. *Nobody said anything*: **two**, at ch 183 and ch 184, spaced. *Nothing*: kept under
+control; the batch is ration-and-silence and the word is used where the subject is the ration. *The line*:
+**never used of the Wall.** **No Wall described, crossed or named; no geography past a marker post; the word
+*the line* is not available; no office named; no second outside-bound request; no new final enemy.** The four
+seconds: **zero.** *Eleven weeks*: **zero.** **Weekdays: zero named anywhere in ch 179–192** — five were
+caught in draft (Tuesday, Friday ×2, Thursday) and cut. Banned reflexes: **zero.** Authorial scaffolding:
+**zero**; *this chapter*, *this volume*, *the reader*, *the whole series*, and the word *batch*: **zero** —
+one leaked into ch 186 and one into ch 190 and both were cut.
+
+### Carried forward, unchanged, into Batch 0002 (ch 193–208)
+
+- **Condensing 9, announced, ceiling nine in her own hand.** **Nothing above nine on the front of the document
+  anywhere in the world.** The stage column reads **one, two, three, five, six, seven, nine** — three holes
+  in nine lines, **in the county books of four counties out of nine and read out across all nine.**
+- **The second relicensing** is petitioned, numbered, received, routed, **barred, not refused**, and **not
+  withdrawable by her**; only an office above this county can complete it, and only on a schedule this county
+  does not keep. **Foundation 1 is ch 207, in Batch 0002.**
+- **The referral** is up the stair past every office she has ever stood in front of, carries her name, her
+  stages in order and her hours, **carries no agent's name**, and can only be executed past a boundary no
+  county paper crosses. **The district's answer is still four words and an empty space.**
+- **The claim stands** — eight hundred jin, seventh and last on the licence — with a **date entered against it
+  in Hou Sanliang's counting room in Lowwater by a hand that is not that room's**, by a man now known to be
+  **Luo Ping**. **The date was not torn off. Hou is unpaid, patient and never met.**
+- **Feng Lushi** alive, warm, column at five, a Listener for life, a quarter off his own stair at his own
+  written request, **has not asked her a question since the autumn and is not thanked.** No second appointment
+  and no second Lung before Volume 11. **The copying floor and the county office are different rooms.**
+- **The girl of twenty-four** alive, a crooked leg, four paid hours a week plus four out of a district fund,
+  a quarter paid forward to the thaw, **not thanked**, and now holding forty-one run lists nobody wanted.
+- **Nine men and her. Ten sleepers in twelve bunks. Never ten men.** *Irregular* stamped for the fourth time
+  and not a fifth. **Qin stands beside her in a queue now. Gao holds the frame and has said the sum out loud
+  twice.**
+- **Da Shan**: board behind a well, eight frames, nine coppers a load, **has lost four loads a week** and said
+  the true thing about it and was not thanked. **He never asks.**
+- **Yuan.** Voice. **About two days of channel left**, rationed, thinning. **Ledger is hers to order and his
+  to hold only on her word; taken once at ch 187 and refused once at ch 191.** **He still cannot read the
+  office name above this county and has not said so a fifth time in this batch.** He is silent about it
+  throughout, which is the correct use of him here.
+- **The register still reads *reconciled*. The Clay Plate is still worn.** Shen Xiu does not appear. **The
+  three sponsors silent** and nothing about their second book is lodged, copied or spoken in ch 179–192.
+  **What became of the eleven is not raised.**
+- **She does not forgive him and she does not tell him to stop.** The ch 150 refusal is not softened,
+  deferred, reopened or regretted anywhere in the batch and no chapter lets her wonder what she would have
+  done.
+
+### Volume 4 running ledger — at end of ch 192
+
+| Item | Value at end of ch 192 |
+| --- | --- |
+| Her stage | **Condensing 9 for all fourteen chapters and no stage taken and no stage prepared.** Ceiling nine in her own hand. **Foundation 1 is ch 207, Batch 0002.** Short breath three counts on stairs, never back to two. The heel of her left hand gone; every county hour eleven minutes with the flat of a second finger. Right arm open a third of the time. Aperture cracked through and permanent |
+| Licence | **Relicensed ch 132, seven conditions on the back, the claim the seventh and last, nothing above nine on the front of it anywhere in the world.** The second licence nailed straight above the second bunk; the first rolled in the lining of her coat. **The Foundation petition is barred, not refused, and not withdrawable** |
+| In-world date | **day 253.** First week of the deep cold, the third month of it. **The season's road reopens on day 254** — the eighth of the ninth month, or later, and not earlier, per the county notice. **The thaw is on about the same day.** The carriers' word is about a week later and has not been tested |
+| Hours | *Irregular* on the front of the Qinghe furnace schedule for the **fourth** time and **not a fifth**. The crew's hours are on a sheet that is not a claim. **The Hall sheet is written out by her in eleven minutes, in a hall with no roof** |
+| Settlement | **About two days**, rationed at four a day and thinning. **Ledger taken once at ch 187 (eight days out of about ten, named before the word, held under a day, put down and not offered again) and refused once out loud at ch 191.** **Merit: none. Nothing in the batch can restore it** |
+| Bounty | 800 jin, standing, unanswered, the seventh condition, travelling with the licence. **A date entered against it in a Lowwater counting room by a hand that is not that room's — and that hand is now named: Luo Ping, thirty-nine, a schedule-man, with a wife and a boy of eleven past this county's boundary.** **The date was not torn off. The claim was not answered. Hou Sanliang is unpaid, patient and never met** |
+| The referral | Up the stair past every office she has ever stood in front of. **The district's answer is still four words and an empty space the width of a line, at the last page of the batch.** The request is still pending |
+| Crew | **nine men and her; ten sleepers in twelve bunks.** They have read the refusal, the nine, the word on the front of their own schedule and three holes in a column. **Qin now stands beside her in a queue instead of eight feet off, and filled a bucket himself when the fire went out, and asked nothing.** Gao holds the frame and has said the sum out loud twice |
+| Money | **About thirty coppers under a board in the corner of the wash house where the water does not get**, held since the morning she stopped buying the stone on the 240th. **The tin is not empty and is not spent** |
+| Feng Lushi | Alive, warm, column at five, a Listener for life, a quarter off his own stair. **Has not asked her a question since the autumn. Not thanked** |
+| The girl of twenty-four | Alive, a crooked leg, four paid hours a week plus four out of a district fund, a quarter paid forward to the thaw, **not thanked**, and holding forty-one copied run lists that show the carriers do not run past a certain point |
+| Da Shan | Eight frames on the board behind a well, nine coppers a load, **four loads a week lost and said so and not thanked**, never asks a question |
+| Register / plate | *reconciled* / worn. **She does not forgive him and she does not tell him to stop** |
+| Decision taken | **She is going east when the road opens, on purpose, with him.** Not to escape the hunt — the hunt is behind her and out of reach — but because no office inside this county will certify hours worked past its boundary, and the name she bought points that way. **She has not packed and has not said goodbye and has not told nine men in a speech** |
 
 ### Held for Volume 5 or later
 

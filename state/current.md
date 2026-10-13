@@ -1,15 +1,15 @@
 # Current State
 
-**As of:** Volume 3 close record written. **VOLUME 1 CLOSED. VOLUME 2 CLOSED AND AUDITED. VOLUME 3 CLOSED AND AUDITED — CH 1–178 ON THE PAGE. VOLUME 4 OUTLINED.**
+**As of:** Volume 4, Batch 0001 written. **VOLUME 1 CLOSED. VOLUME 2 CLOSED AND AUDITED. VOLUME 3 CLOSED AND AUDITED — CH 1–178 ON THE PAGE. VOLUME 4 OPEN — CH 179–192 ON THE PAGE.**
 
 ## How to read this file
 
 This file is **append-only and long, and most of it is history.** You do not need all of it to write.
 
-- **For a cold start, read only three things, in order:** ***Who is where at end of chapter 178***
-  (below), ***What Volume 3 must not do*** (below), and the **Batch 0004 acceptance check** just under
-  it. Those cover the live position. The first two blocks in this file are exactly those two, and a
-  Volume 4 drafter should not have to read past them to start.
+- **For a cold start, read only two things, in order:** ***Who is where at end of chapter 192*** (the
+  block below the acceptance check, written at the top of the Volume 4 Batch 0001 record) and
+  ***What Volume 3 must not do*** (below), which Volume 4 still inherits in full. A Volume 4 Batch 0002
+  drafter should not have to read past those to start.
 - **For canon you must not contradict,** go to `state/continuity.md` and `state/open-threads.md`, which
   are the authoritative per-batch records.
 - **Everything below the Volume 3 Batch 0004 acceptance check is a superseded historical block** unless
@@ -19,12 +19,12 @@ This file is **append-only and long, and most of it is history.** You do not nee
 - **This file is never pruned by a writing phase.** If a section is wrong, correct it in place and say
   so in the phase's repair note rather than deleting the record.
 
-- **Volume:** 3 of 16 — The Hunter (ch 119–178) — outlined in `outline/volume-03.md`, **ALL FOUR BATCHES WRITTEN AND THE VOLUME AUDITED**: Batch 0001 (ch 119–132), 36,809 words over fourteen chapters; Batch 0002 (ch 133–148), 36,742 words over sixteen chapters; Batch 0003 (ch 149–163), 30,958 words over fifteen chapters; Batch 0004 (ch 164–178), 30,505 words over fifteen chapters. **Volume 3 file set: 135,014 words.** All figures are post-audit-repair.
-- **Next volume:** **4 of 16 — *The Wall* (ch 179–238), outlined in `outline/volume-04.md`.** Goal fixed by `outline/series.md` §9: *In this volume, Ning Yan must break the boundary, or neither of them ever learns what they are.*
-- **Chapter written:** **1–178. THE NOVEL RUNS TO CHAPTER 1000; VOLUME 3 IS COMPLETE AND AUDITED.** Nothing of ch 179 onward is drafted.
-- **Next phase:** **Volume 4, Batch 0001 — the planning phase**, at `workspace/volume-04-batch-0001/PROMPT.md`. **It writes the batch cards only**, at `outline/batches/volume-04-batch-0001.md`, out of `outline/volume-04.md` and this file, **before any chapter is drafted**. Volume 4 is **sixty chapters sized to its own arc, not to a fixed count**, and Volume 4's own outline fixes its shape. **Volume 4 opens on the empty answer space the width of a line on a public shelf by a door, and that space must NOT be answered in the first batch.** The one-sentence goal of Volume 3 was paid and is recorded as PASS at the first row of the audit table below: *Ning Yan must survive being hunted as an unauthorised System, or Yuan is dismantled and she is told she imagined him.* She is still alive, still licensed, still hunted in writing, and still has him — with about ten days left.
+- **Volume:** 4 of 16 — **The Wall (ch 179–238)** — outlined in `outline/volume-04.md`, **BATCH 0001 WRITTEN (ch 179–192, 28,611 words over fourteen chapters, average ~2,044)**. Volume 3 (ch 119–178) remains **all four batches written and audited**: Batch 0001 (ch 119–132), 36,809 words over fourteen chapters; Batch 0002 (ch 133–148), 36,742 words over sixteen chapters; Batch 0003 (ch 149–163), 30,958 words over fifteen chapters; Batch 0004 (ch 164–178), 30,505 words over fifteen chapters. **Volume 3 file set: 135,014 words.** All figures are post-audit-repair.
+- **Volume 4 goal**, fixed by `outline/series.md` §9: *In this volume, Ning Yan must break the boundary, or neither of them ever learns what they are.* Batch allocation fixed by `outline/volume-04.md`: **0001 = ch 179–192 (written) · 0002 = ch 193–208 · 0003 = ch 209–222 · 0004 = ch 223–238.**
+- **Chapter written:** **1–192. THE NOVEL RUNS TO CHAPTER 1000; VOLUME 3 IS COMPLETE AND AUDITED; VOLUME 4 IS OPEN THROUGH BATCH 0001.** Nothing of ch 193 onward is drafted.
+- **Next phase:** **Volume 4, Batch 0002 — the drafting phase**, at `workspace/volume-04-batch-0002/PROMPT.md`. **It writes ch 193–208 in prose**, against `outline/volume-04.md` (*Pressure rotation*, Batch 0002: *hiring, the road, and whose book an hour goes into*) and `outline/batches/volume-04-batch-0001.md`'s hand-off. **It opens on day 254 with the season's road open** and **relicenses and announces Foundation 1 at ch 207.** **The cards for Batch 0002 have not been written yet** — if the next phase is a planning turn instead, the single output is `outline/batches/volume-04-batch-0002.md` and no chapter prose. Volume 4 is **sixty chapters sized to its own arc, not to a fixed count.** The one-sentence goal of Volume 3 was paid and is recorded as PASS at the first row of the audit table below; **Volume 4's own goal is unpaid and its midpoint is ch 205.**
 - **Point of view:** close third on Ning Yan; every line Yuan speaks is written in the present tense.
-- **In-world date:** **day 219** of Volume 3's own clock — the first week of the deep cold, the third month of it. **Day 0 is the last day of the thaw** (canon change 30). **Month-day = day − 133** on a thirty-day month (ch 150 puts day 136 at the third of the month): the third monthly attendance was day 209, **the sixteenth**; the winter return was read at the second hour on day 212, **the nineteenth**; the petition was filed day 213, the twentieth. **The season's road shut on day 117** and has not opened.
+- **In-world date:** **day 253** of the run's own clock — the third month of the cold. **Day 0 is the last day of the thaw** (canon change 30). **Month-day = day − 133** on a thirty-day month (ch 150 puts day 136 at the third of the month): the fourth monthly attendance was **day 239, the sixteenth**, thirty days on from the third at day 209. **The season's road shut on day 117 and reopens on day 254**, per a sealed county notice on the public shelf; **Batch 0002 opens there.** The thaw is on about the same day.
 
 **What the close audit confirmed, in one place.** `outline/volume-03.md` has been walked line by line against
 ch 119–178 and **all thirteen named items PASS**; **nine faults in the chapters were found and repaired**,
@@ -41,7 +41,72 @@ were reverted to four counties** and ch 131's age was corrected to the canon fig
 `## Volume 3 close audit — CLOSED` below, and **the reversal is written up under
 *Close review repair* in that same block — read it before using any footprint figure from the audit.**
 
-## Who is where at end of chapter 178 — VOLUME 3 CLOSED AND AUDITED (cold reader starts here)
+## Who is where at end of chapter 192 — VOLUME 4 BATCH 0001 CLOSED (cold reader starts here)
+
+Full record: `state/continuity.md` under ***Established facts, Volume 4 Batch 0001 (ch 179–192)*** and
+***Volume 4 running ledger — at end of ch 192***. **Day 253.** The season's road reopens on **day 254**.
+
+- **Ning Yan** — **CONDENSING 9.** Unchanged all fourteen chapters; **no stage was taken and no stage was
+  prepared.** Ceiling 9 in her own hand, relicensed ch 132, **seven conditions on the back, referenced and
+  never re-listed; the claim the seventh and last thing on the paper. There is nothing above nine on the
+  front of the document anywhere in the world.** The stage column reads **one, two, three, five, six, seven,
+  nine — three holes in nine lines, in the county books of four counties out of nine and read out across all
+  nine.** Short breath three counts on stairs, never back to two. **The heel of her left hand is gone** and
+  every county hour takes eleven minutes with the flat of a second finger. Right arm open a third of the
+  time. Aperture cracked through and permanent. **The second licence is nailed STRAIGHT above the second
+  bunk; the first is rolled in the lining of her coat.** The Foundation petition is **entered, numbered,
+  routed, barred — not refused — and not withdrawable by her.**
+- **Yuan** — Voice. **About two days of channel left**, rationed at **four sentences a day**, and the ration
+  is thinning on its own. **Ledger was taken once in this batch, at ch 187, for eight days out of about ten,
+  named aloud before the word, held under a day, put down when it was over and not offered to hold it again**
+  — and **refused once out loud at ch 191**, on a mat, before he could say the price, with no explanation
+  attached. **Merit: none. Nothing in ch 179–192 can restore the channel.** He still cannot read the office
+  name above this county and **did not say so a fifth time in this batch.** Four conditions hers, three his,
+  standing and never re-listed.
+- **Luo Ping — NEW MINOR, ch 187.** Thirty-nine, a **schedule-man**: a working man who keeps a schedule for
+  somebody else's office and is sent in to put dates into it, four or five offices in a season, sixteen
+  years. **He wrote the date against the claim into Hou Sanliang's counting room in Lowwater by a hand that
+  is not that room's.** He has a wife and a boy of eleven **past this county's boundary.** **She has not
+  gone to find him, has not written to him, and does not appear in a room in this batch.**
+- **The referral** — up the stair past every office she has ever stood in front of, carrying her name, her
+  stages in order and her hours, carrying no agent's name, executable only past a boundary no county paper
+  crosses. **The district's answer on the public shelf is still four words and an empty space the width of
+  a line. It was read at ch 179 and referred to at ch 189 and it is still empty at ch 192.**
+- **The claim** — eight hundred jin, standing, unanswered, **the date still in the counting room and not torn
+  off**. **Hou Sanliang unpaid, patient, never in a room with her, never met.**
+- **The girl of twenty-four** — alive, a crooked leg, four paid hours a week at the trough plus four more out
+  of a district fund for the cold months, a quarter paid forward to the thaw, **not thanked**. **She is now
+  the holder of forty-one copied carriers' run lists**, which are the source of everything known about what
+  the carriers say about the pass and about the point past which they do not run.
+- **The crew** — **nine men and her; ten sleepers in twelve bunks.** They have read the refusal, the nine, the
+  word on the front of their own schedule and three holes in a column. **Gao holds the frame and has now said
+  the sum out loud twice**, the second time in front of her. **Qin now stands beside her in a queue instead of
+  eight feet off**, and on the second morning the stone stopped he **noticed the fire had gone out, filled a
+  bucket himself, and asked nothing.** The word *irregular* is on the front of the quarterly for the fourth
+  time in a year and **is not stamped a fifth.**
+- **Da Shan** — the board behind a well, eight frames, **nine coppers a load, four loads a week**. **He lost
+  those four loads a week on the morning she stopped buying and said the true thing about it and was not
+  thanked.** He has never asked her a question and never will.
+- **Feng Lushi** — alive, warm, column at five, a Listener for life, a quarter off his own stair at his own
+  written request, **has not asked her a question since the autumn and is not thanked.** He told her, in
+  ch 181, why he will not.
+- **Shen Xiu** unforgiven, unthanked, **does not appear**. **The three sponsors silent** and nothing about
+  their second book is lodged, copied or spoken in ch 179–192. **The register still reads *reconciled*. The
+  Clay Plate is still worn.** Ning Wu does not appear.
+- **Money** — **about thirty coppers** under a board in the corner of the wash house where the water does
+  not get. **The tin is not empty and is not spent**; it is being held for a road.
+- **The decision** — **she is going east when the road opens, on purpose, with him.** Not to escape the hunt,
+  which is behind her and out of reach. Because **no office inside this county will certify hours worked
+  past its boundary**, and the name she bought points that way, and a second relicensing needs a schedule.
+  **She has not packed, has not said goodbye, and has not told nine men in a speech.**
+- **She does not forgive him and she does not tell him to stop.** The ch 150 refusal is not softened,
+  deferred, reopened or regretted anywhere in ch 179–192, and no chapter lets her wonder what she would have
+  done. **The year of non-forgiveness changed shape at ch 185 and ch 188 and did not close:** the sentence
+  she kept back once a year went on a price instead, and what replaced the refusal is a purchase.
+
+---
+
+## Who is where at end of chapter 178 — VOLUME 3 CLOSED AND AUDITED (Volume 4's inherited position; still binding)
 
 - **Ning Yan** — **CONDENSING 9. Announced at her own order on day 198, in the open, at the cold end, in
   front of nine men.** Ceiling 9, relicensed ch 132, **seven conditions on the back, referenced and never
