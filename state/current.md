@@ -150,9 +150,15 @@ on day 620 after the season closed still produced nothing, which is ch 298's who
   and once only, at ch 284: *which was the measure she had for everything now*. Recast or removed at 288
   (the second declaration), 294, 297 and 298. It still lands at ch 289 (the face) and at ch 295 (the word), and
   the batch still ends on it at 298. **Those five are Batch 0004's and the count is Batch 0004's — ch 284–298. The
-  whole-volume figure is ten across seven chapters (242 ×1, 265 ×3, 267, 284, 289, 295 ×2, 298) and it is correct
-  about its own span. A budget that quotes this measure must say which span it is measuring; the two numbers do
-  not disagree and neither is wrong.**
+  whole-volume figure is eleven across eight chapters (242 ×1, 265 ×3, 267, 284, 288, 289, 295 ×2, 298) and it is
+  correct about its own span. A budget that quotes this measure must say which span it is measuring; the two
+  numbers do not disagree and neither is wrong.**
+  *(CORRECTED ON THE volume-06-batch-0001 REVIEW PASS: this entry stood at ten across seven chapters and
+  omitted ch 288. The instance at ch 288:27 — *Eleven counts, and she counted them afterwards the way she
+  had counted every one of them since a stage in the fourth month of a year she has never had to name* — is
+  a real one, and the reason it is not in the list is that the repair above **recast its wording and did
+  not remove it**. **The Batch 0004 count of five is untouched; this correction concerns the whole-volume
+  figure only.** No chapter was opened.)*
 
 **Length.** The review recorded eight of fifteen chapters under the 1,800 guide as a note, not a failure.
 After repair: **9 under it, 6 at or above it, none under the 1,300 floor, none above the 2,700 guide.** Average
@@ -485,11 +491,19 @@ was also re-headed from *The plate still worn or gone* to *The plate*.
    that trusted that line would have refused to open the volume.**
 2. **The eleven-counts measure is recorded at two different figures.** The Volume 5 close audit records it at
    **five**, which is correct *inside Batch 0004* (284, 289, 295, 297, 298).
-   `outline/batches/volume-06-batch-0001.md` greps the whole volume and returns **ten instances across seven
-   chapters** — 242, 265 ×3, 267, 284, 289, 295 ×2, 298. **Both figures are right about different spans and the
+   `outline/batches/volume-06-batch-0001.md` greps the whole volume and returns **eleven instances across eight
+   chapters** — 242, 265 ×3, 267, 284, 288, 289, 295 ×2, 298. **Both figures are right about different spans and the
    card file carries both.** No chapter was opened. **The close review resolved it in the state files rather than
-   in a chapter: the five is now labelled as Batch 0004's count and the ten as the volume's, in
+   in a chapter: the five is now labelled as Batch 0004's count and the eleven as the volume's, in
    *Volume 5 Batch 0004 — REVIEW REPAIR* above. Whichever a later budget quotes, it must say its span.**
+   *(CORRECTED ON THE volume-06-batch-0001 REVIEW PASS, in two places in this file and in the card file's own
+   note. This entry had said the card file returns **ten across seven chapters** and omitted ch 288, and the
+   card file in turn had said this finding stood in `state/current.md` **and** `state/continuity.md`.
+   **Both claims were wrong.** `state/continuity.md` never carried the figure — its only two hits for the
+   measure are a different one, in a different volume — and this file carried the wrong figure at *Volume 5
+   Batch 0004 — REVIEW REPAIR* above and here. Both now read eleven in eight with 288 named. **Nothing in
+   `state/continuity.md` needed changing, which is worth saying plainly, because a correction note that hands
+   a later phase the wrong file list is how a wrong number survives a review.)*)
 
 ## Volume 6 planning — close review repair
 

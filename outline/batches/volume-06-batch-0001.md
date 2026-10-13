@@ -148,10 +148,19 @@ in this batch may add a nineteenth, because there is no plank to tear one off.**
   the yard's working ground since ch 239, and the volume outline's own word for what Golden Core 4 takes from
   her. **The rate for a reach is said out loud once, at ch 302, and it is seven coppers.** After ch 309 it is
   five, and after ch 310 she can open half a reach.
-- **Five coppers figures in the batch, and no others. The drafter must reconcile every coppers figure on a
-  page to this table.** *(Corrected here: this rule first read *Three figures and no others*, which ch 311
-  contradicted — that chapter needs the price of a charge and three days of half-reaches as well. A rule a
-  card breaks is not a rule.)*
+- **Five coppers figures in the batch, and no others, and no card may put a total on a page that this table
+  does not carry.** The five are **eight, six, two and a half, seven and a half and nine**, and they belong
+  to four chapters: **303, 309, 310 and 311.** **The rate is not a total** — seven a reach and five a reach
+  are in this block and not in the count of five. **The days this table does not name — the fourteenth, the
+  fifteenth, the eighteenth, the nineteenth, the twentieth, the twenty-first, the twenty-second and the
+  twenty-ninth — are worked, and paid for, and get no figure on the page.** A drafter who needs a number for
+  one of those days has not got one here and may not make one. *(Corrected twice on this page. It first read
+  *Three figures and no others*, which ch 311 contradicted — that chapter needs the price of a charge and
+  three days of half-reaches as well. It then read *Five figures and no others* while two cards of this same
+  file still broke it: ch 302's ending type scheduled the eight a day early and in the wrong chapter, and
+  ch 305's resource line carried a **twelve** that reconciles against nothing, since two days at seven a
+  reach is nearer sixteen. Both cards are corrected below and the rule is written here in the form that
+  survives them.)*
 
 | | Day | What she opens | Rate a reach | Coppers in her hand |
 | --- | --- | --- | --- | --- |
@@ -438,7 +447,7 @@ and the brick money is nine.
 - **She learns what being entered as good is for.** Not safety. **Attention.** A witness is one thing and a
   reader is another, and a reader does not have to be near you.
 - **She finds out that her body has a price and that the price is not hers.** Eight coppers on the sixteenth,
-  six on the twenty-four th, two and a half on the twenty-fifth, **and the certificate that made her readable
+  six on the twenty-fourth, two and a half on the twenty-fifth, **and the certificate that made her readable
   is the reason for two thirds of it.**
 - **She works anyway.** Five chapters of work with no season, no book, no stub and no name on anything, and
   she does not stop, and **the reason she does not stop is not the same reason as ch 246 and she knows it.**
@@ -782,10 +791,11 @@ Emotional change: **Her body has a price for the first time since she crossed, a
 instead of a day — seven coppers for a yard of drain instead of five coppers for a whole day of a yard's
 work — and she is not glad, because the two numbers are not the same kind of number and she cannot tell
 which one is her.** *(Corrected here: this field first read *eleven coppers better than the yard paid her*.
-That figure reconciles with nothing — the far-side wage was five coppers a day (ch 298:105) and the gate
-rate is seven a reach — and the batch's money block gives a drafter no fourth figure to spend. The
-comparison that is on the page is the one between a **day** and a **reach**.)* She is **ashamed**, in a way
-she cannot put down, of how fast she went to find out.
+  That figure reconciles with nothing — the far-side wage was five coppers a day (ch 298:105) and the gate
+  rate is seven a reach — and the batch's money block gives a drafter no fourth figure to spend. **Eleven is
+  a retired figure and no drafter may spend it, in a comparison or in an aside.** The
+  comparison that is on the page is the one between a **day** and a **reach**.)* She is **ashamed**, in a way
+  she cannot put down, of how fast she went to find out.
 
 Power or resource change: **None. Golden Core 3.** Nine holds, four fingers, one arm at half, and a reach of
 drain opened in a day that four counts of breath and one half-arm should not have opened.
@@ -796,7 +806,11 @@ figure is a romance.** **Fact 2** — the arm open half the time and nothing off
 reach she opens is opened at the top of what she has, not beyond it.** **Fact 5** — what crossing cost stands
 where it stands and **this chapter adds to it and does not restate it.**
 
-Ending type: discovery — eight coppers is a real number and it comes out of her own hand.
+Ending type: discovery — **a reach of her own arm has been priced out loud by a farmer who is right, and
+she has heard the price of it, and she does not wait a second day to go back and be paid it.** *(Corrected
+here: this line first read *eight coppers is a real number and it comes out of her own hand*, which scheduled
+the batch's one total a day early and in the wrong chapter — the money is the sixteenth's, and it is ch 303's
+and not this one's. **No total is given in this chapter.**)*
 
 Next-chapter pull: The seventeenth is tomorrow and there is no book, and the ring behind her has not been lit
 since the season ended.
@@ -915,8 +929,10 @@ to her had happened to her. **A strip of cloth with three words on it means a pe
 anybody is now holding a piece of paper that says she is good, and somebody above that paper wants to know
 whether she is still at it.**
 
-Power or resource change: **None. Golden Core 3.** Two days of drain at seven a reach, twelve coppers, and a
-strip of cloth that is not in her hands and cannot be.
+Power or resource change: **None. Golden Core 3.** Two days of drain at the gate at seven a reach and **no
+figure for either day, because the eighteenth and the nineteenth are not on the money table and a drafter may
+not put them there** — the money is real and it is not written down — and a strip of cloth that is not in her
+hands and cannot be.
 
 Continuity fact to preserve: **Fact 9** — **nothing above the Standing Office of the Second Account is named
 and the strip carries no name of any kind**, no seal, no heading she can read, no signature. **Fact 3** — no
@@ -1047,8 +1063,9 @@ Information revealed: **Four things, once each.**
 Action or decision: **She says it.** *There is more.* Out loud, in daylight, in the ordinary voice, at the
 second hour, with a clerk in the room and four other people copying. **She confirms the gap, because the gap
 is true and it is hers and she has never once put a true day in as a false one.** And she does not ask for
-anything, does not explain herself, and is not thanked. **She cannot be un-answered and the answer is going
-up the stair with the answer.**
+anything and does not explain herself. **This card may not carry the thanked fact: the batch spends that
+beat once, at 309, and it is not this chapter's.** She cannot be un-answered and the answer is going
+up the stair with the answer.
 
 Emotional change: **The one that has to be on the page in one plain sentence about one person:** *Her column
 was the only thing in the world she could prove about herself, and from the fourth hour of the twenty-third
@@ -1382,14 +1399,14 @@ as zero and left unqualified would be exactly the fault the Volume 5 close was t
 | **Bracketed layer lines** | **3 in 60** in Volume 5, at 258, 275, 292, each matching the far-side house form character for character. **Volume 6's budget is six in sixty-two** | **Exactly 1, at ch 310**, in the far-side house form, matching the pinned text character for character. **Zero in the other fourteen chapters** |
 | ***About four seconds*** | **2 in Volume 5** — ch 290:81 and ch 293:39 — **kept deliberately at the Volume 5 close**, which recorded the figure as *thinned from four to two* and told the next phase not to finish the sweep. Retired by the Volume 4 close as *a declining rhythm, not a metronome* | **0 in this batch.** The two Volume 5 uses are the whole remaining allowance in Volume 6 and neither may be matched here |
 | ***Eleven weeks*** | **0 across Volume 5.** Retired | **0** |
-| ***Nobody asked · nobody was thanked · there is no form · there is no column · the record remained · nobody knew · nobody said anything*** | **0 across all 60 chapters of Volume 5**, by grep, case-insensitive | **0 as phrases.** The **true facts** behind them are available in new words, and **the retired 309 one — that nobody thanks anybody and the word is in no form — may be stated once in the batch, at ch 309, and once only** |
-| **The seven relicensing conditions** | **Never re-listed in Volume 5.** `grep` for *seven condition* across ch 239–298 returns **two lines, both at ch 294** — the seventh named as discharged, and the clerk's own sentence saying he did not say the seven and did not name the first six. **ADDED TO THIS PAGE ON THE RE-RUN: the rule is a hard rule of `outline/volume-06.md` and the foot of `state/continuity.md`, and the first draft of this budget page did not carry it** | **0.** No card in ch 299–313 may list the seven, enumerate them, count them, refer to their number, or put any of them on a page. **The licence stays shut and no card says a clearance, a seal or a countersignature was required or not required** |
+| ***Nobody asked · nobody was thanked · there is no form · there is no column · the record remained · nobody knew · nobody said anything*** | **0 across all 60 chapters of Volume 5**, by grep, case-insensitive | **0 as phrases.** The **true facts** behind them are available in new words, and **the retired 309 one — that nobody thanks anybody and the word is in no form — may be stated once in the batch, at ch 309, and once only.** **One card only, and it is 309: ch 308's action field carried *is not thanked* as well and has been corrected, because a beat licensed on two cards gets delivered twice. A card that carries *not thanked* as a state fact about somebody else — ch 312's Feng, *alive, warm, column at five, not thanked* — may not put the word in a mouth either** |
+| **The seven relicensing conditions** | **Never re-listed in Volume 5.** `grep -i` for *seven condition* across ch 239–298 returns **one line, ch 294:31** — the clerk saying he did not say the seven and did not name the first six. The singular returns **two: ch 268:19**, where the room where the seventh condition had been read out loud once is named in passing, **and ch 294:21**, where the seventh is named as discharged. **Three references in all, all at a distance from the conditions themselves, and not one of them enumerates or counts them.** *(This row first quoted the command as returning *two lines, both at ch 294*, which is what the pattern looks like if the singular is folded into it. The grep as written returns one line; the second is 294:21 and matches *seventh*, and a third reference at 268 had been missed. Stated here in the exact form it was run, because a budget that quotes a command has to quote it right.)* **ADDED TO THIS PAGE ON THE RE-RUN: the rule is a hard rule of `outline/volume-06.md` and the foot of `state/continuity.md`, and the first draft of this budget page did not carry it** | **0.** No card in ch 299–313 may list the seven, enumerate them, count them, refer to their number, or put any of them on a page. **The licence stays shut and no card says a clearance, a seal or a countersignature was required or not required** |
 | ***He said one thing that night and it was present tense and it bought nothing*** (the Yuan tag) | Ruled **not** scaffolding at the Volume 5 close review — it names a diegetic register rule and a dramatic fact, not the book's construction. **Zero from ch 268 on.** The tag was repaired at the Volume 5 close review at five chapters so no string stands more than twice | **0 verbatim, and the whole tag as a construction is not available again.** If a drafter wants the beat, it must be a **fresh sentence**, **at most one in the batch**, immediately before his one-breath speech, and it may not be the retired wording |
-| ***Under her, …:*** — the one-breath speech lead-in, **measured as the whole family and not as one string** | **10 lead-ins in 10 chapters across Volume 5**: 273, 279, 280, 281, 282, 283, 284, 289, 290, 296. **Of those, 4 are inside Batch 0004** (284, 289, 290, 296) and the exact string *Under her, with* is **3** (280, 284, 290), with one variant form *Under the reach, with* at 289 and six forms carrying no *with* at all. **None of the ten closes a chapter** — a narration paragraph follows every one of them | **At most 1**, in one chapter, **and it may not close a chapter**. This is the honest volume-wide figure; the 4 is the batch-local one and is not the standing count |
-| ***About as long as it takes to count eleven* / the eleven-counts measure** | **11 instances in 8 chapters across Volume 5** — 242 (1), 265 (3), 267 (1), 284 (1), 288 (1), 289 (1), 295 (2), 298 (1). **Declared at ch 284**: *the measure she had for everything now*. **CORRECTED HERE: the figure carried into this file's first draft was 10 in 7 chapters, which omitted ch 288** (*Eleven counts, and she counted them afterwards the way she had counted every one of them since a stage in the fourth month of a year she has never had to name*) — and that one **re-states the measure and is therefore a second declaration on the page.** `state/current.md` (*Volume 5 Batch 0004 — REVIEW REPAIR*) and `state/continuity.md` carry the same 10-in-7 figure and need the same correction by the phase that owns them; **no chapter is reopened and no instance is cut here** | **At most 1 in the batch**, **and it may not be a declaration** — ch 284 already spent that, and ch 288 is what a second one looks like. **Not at ch 313**, which is the chapter Volume 5 closed on the phrase |
+| ***Under her, …:*** — the one-breath speech lead-in, **measured as the whole family and not as one string** | **11 lead-ins in 11 chapters across Volume 5**: 273, 278, 279, 280, 281, 282, 283, 284, 289, 290, 296. **Of those, 4 are inside Batch 0004** (284, 289, 290, 296) and the exact string *Under her, with* is **3** (280, 284, 290), with one variant form *Under the reach, with* at 289 and **seven** forms carrying no *with* at all. **None of the eleven closes a chapter** — a narration paragraph follows every one of them, and ch 278's is the one an earlier count on this page had dropped | **At most 1**, in one chapter, **and it may not close a chapter**. This is the honest volume-wide figure; the 4 is the batch-local one and is not the standing count. *(Corrected here on the review pass: the row carried **10 in 10** and named the chapters, and the list itself had lost 278 — *Under her, at the plank*, the lead-in to *You are near. And you are not there.* The family is 11 in 11 and the six forms carrying no *with* are seven. The allowance does not move and no chapter is reopened.)* |
+| ***About as long as it takes to count eleven* / the eleven-counts measure** | **11 instances in 8 chapters across Volume 5** — 242 (1), 265 (3), 267 (1), 284 (1), 288 (1), 289 (1), 295 (2), 298 (1). **Declared at ch 284**: *the measure she had for everything now*. **CORRECTED HERE: the figure carried into this file's first draft was 10 in 7 chapters, which omitted ch 288** (*Eleven counts, and she counted them afterwards the way she had counted every one of them since a stage in the fourth month of a year she has never had to name*) — and that one **re-states the measure and is therefore a second declaration on the page.** The same 10-in-7 figure stood in **`state/current.md` and nowhere else — twice, in *Volume 5 Batch 0004 — REVIEW REPAIR* and again in the close-review finding below it — and `state/continuity.md` never carried it at all; its only two hits are a different measure in a different volume.** The review pass found this row's location claim was itself wrong and it is corrected here; **both `state/current.md` figures now read 11 in 8 with 288 named and the span labelled**; **no chapter is reopened and no instance is cut here** | **At most 1 in the batch**, **and it may not be a declaration** — ch 284 already spent that, and ch 288 is what a second one looks like. **Not at ch 313**, which is the chapter Volume 5 closed on the phrase |
 | ***His eyes widened · he couldn't believe it · suddenly · little did he know*** | **0 across Volume 5**, by grep | **0** |
 | **The surface answer** — being told is not being charged | **Paid once, ch 267, in a worker's mouth, in short sentences.** The Volume 5 close cut two re-voicings at ch 298 as repair 7 | **0. It may not be said, hinted at, gestured at or paraphrased in any mouth in this batch** |
-| **Named weekdays / named calendar months / named weeks** | **Three separate counts, because they are three separate rules and one zero cannot stand for all three.** Weekday names: **0**. Calendar month names: **0** — the single grep hit is the modal verb *may* at ch 296:59 and not a month. Numbered or planetary weeks: **0**. **Relative week expressions: 3, and they are standing and were not repaired at the close** — ch 244:97 and ch 244:99 *this week*, and ch 298:115 *the last week of the season* | **0 for all three bans.** *About three weeks*, *about two weeks*, *the last week of a season* and *this week* are ordinary relative stretches and are **available**; the ban is on *named* weeks, on weekday names and on calendar months |
+| **Named weekdays / named calendar months / named weeks** | **Four separate counts, because they are four separate rules and one zero cannot stand for them.** Weekday names: **0**. Calendar month names: **0** — the single grep hit is the modal verb *may* at ch 296:59 and not a month. Numbered or planetary weeks: **0**. **Relative week stretches: 20 in 15 chapters, and they are standing and were not repaired at the close** — *the third week of doing it* at 241, *this week* twice and *two weeks after you have stopped* at 244, *three weeks* at 247, *five weeks* at 249, *a week ago* at 251, *six weeks* at 258 and twice at 259, *seven weeks* at 266 and 270, *nine weeks* at 284, *five weeks ago* at 286, *three weeks* at 291, *five weeks back* twice at 294, *five weeks back* and *a week ago* at 296, and *the last week of the season* at 298 | **0 for all four bans.** *About three weeks*, *about two weeks*, *five weeks ago*, *the last week of a season* and *this week* are ordinary relative stretches and are **available and in ordinary use**; the ban is on *named* weeks, on weekday names and on calendar months. *(Corrected here on the review pass: the row stood at **3**, which was two strings — *this week* at 244 ×2 and *the last week of the season* at 298 — and not a count of relative week stretches at all. A drafter reading *3* could have believed there was a quota. The 20 is the count of every week-denominated stretch in the volume.)* |
 | **Harem, romance** | **None in Volume 5.** Wei Ran on four cards, every one a rate, a road or an opinion | **None.** Wei Ran on **one card**, 302, in that register |
 | **Bold** | **No bold at all in Volume 5** — the Batch 0004 review de-bolded the last two spans and recorded *the batch now contains no bold at all*. Twelve italic spans in the volume, all documentary | **0 bold.** Italics scarce and documentary only — *reconciled*, a quoted entry, an office's own hand |
 | **Markdown** | Zero blockquotes, code fences, tables and horizontal rules in 60 files | **0** of each. Title heading, optional section headings, plain paragraphs |
@@ -1514,27 +1531,30 @@ nothing is asserted here that was not derived.
 - **The Golden Core 4 interval: 638 − 600 = 38 days**, matching `outline/volume-06.md`'s table.
 - **The five coppers figures (eight, six, two and a half, seven and a half, nine) reconcile** against seven a reach before the
   strip, five a reach after it, and a reach narrowing to half. The 309 rate change is −two-thirds of money per
-  reach and the 310 change halves the work, and **2½ is what is left of 5 on half a reach.**
+  reach and the 310 change halves the work, and **2½ is what is left of 5 on half a reach.** **Two cards
+  used to break that reconciliation and do not any more** — ch 302's ending type and ch 305's resource line,
+  both repaired on the review pass and both written up in the section below.
 - **Authorial scaffolding in Volume 5: three *this book* lines, all diegetic, and zero of the construction
   class** — reproduced with chapter and line numbers on the budget page, because the Volume 5 close recorded
   seven shipped against a budget that said zero and this file will not repeat that.
 - **Sixteen spent constructions grepped against Volume 5** — all zero except *about four seconds* (2), the
-  eleven-counts measure, the *Under her, …* lead-in, the three brackets and the three relative week
-  expressions. **Every one is given a number and an allowance above.**
-- **One of those numbers did not match the manuscript and is corrected on this re-run.** The close records the
-  eleven-counts measure at **five inside Batch 0004**, and the file's first draft carried the volume-wide figure
-  as **10 instances across 7 chapters** — 242, 265 ×3, 267, 284, 289, 295 ×2, 298. **A fresh grep returns
-  11 instances across 8 chapters: ch 288:27 carries one and was in neither list.** It is a real instance —
-  *Eleven counts, and she counted them afterwards the way she had counted every one of them since a stage in
-  the fourth month of a year she has never had to name* — and it restates the measure, so it is a second
-  declaration on the page. **The budget page now carries 11 in 8. The same 10-in-7 figure stands in
-  `state/current.md` (*Volume 5 Batch 0004 — REVIEW REPAIR*) and in `state/continuity.md`, and this cards phase
-  does not own either file: the correction is recorded here for the phase that does. No chapter was opened and
-  no instance was cut.**
-- **The *Under her, with* row was also carrying a batch-local figure in a volume-wide column** — 4, which is
-  right for Batch 0004 and wrong as a standing count. The family is **10 lead-ins in 10 chapters** (273,
-  279–284, 289, 290, 296). Corrected on the budget page, which now names the family, the batch-local count and
-  the exact-string count separately.
+  eleven-counts measure, the *Under her, …* lead-in, the three brackets and **twenty relative week stretches
+  in fifteen chapters**. **Every one is given a number and an allowance above.**
+- **Two of those numbers did not match the manuscript on the review pass and both are corrected.** The
+  eleven-counts measure: the close records it at **five inside Batch 0004**, and the file's first draft carried
+  the volume-wide figure as **10 instances across 7 chapters** — 242, 265 ×3, 267, 284, 289, 295 ×2, 298. **A
+  fresh grep returns 11 instances across 8 chapters: ch 288:27 carries one and was in neither list.** It is a
+  real instance — *Eleven counts, and she counted them afterwards the way she had counted every one of them
+  since a stage in the fourth month of a year she has never had to name* — and it restates the measure, so it
+  is a second declaration on the page. **The budget page now carries 11 in 8. The same 10-in-7 figure stood in
+  `state/current.md` alone, in two places and not in `state/continuity.md` at all, and both of the
+  `state/current.md` figures now read 11 in 8 with 288 named. No chapter was opened and no instance was cut.**
+- **The *Under her, with* row was carrying a batch-local figure in a volume-wide column** — 4, which is
+  right for Batch 0004 and wrong as a standing count. The family is **11 lead-ins in 11 chapters** (273,
+  278, 279–284, 289, 290, 296) and the first version of that correction read 10 in 10 with 278 missing, which
+  the review pass caught. Corrected on the budget page, which now names the family, the batch-local count, the
+  exact-string count and the seven forms that carry no *with*, and the *none closes a chapter* claim is
+  re-verified against all eleven.
 - **`reconciled` was quoted as *7 times*, which is its chapter count and not its occurrence count.** A fresh
   grep returns **16 occurrences across 14 lines in 7 chapters** — 250, 279 ×2, 282 ×8, 292, 294 ×2, 296, 298.
   Corrected on the budget page. The allowance does not move: **no card in this batch reads the register.**
@@ -1553,33 +1573,42 @@ climax, irreversible decision, bracket or stage moved, and no chapter in `chapte
    in 7 chapters*; a fresh grep returns **11 in 8**, ch 288 being absent from both this file and the state
    files it was copied from. The budget page and the checked-before-writing list now carry 11 in 8, the
    instance is quoted, and the batch's single allowance carries the extra condition the instance shows —
-   **it may not be a declaration.** The same figure in `state/current.md` and `state/continuity.md` is
-   recorded here as needing the same correction by the phase that owns those files.
+   **it may not be a declaration.** The same figure in `state/current.md` is recorded here as needing the
+   same correction by the phase that owns those files. **Corrected again on the review pass, which found
+   this paragraph itself had the location wrong: it is `state/current.md` alone, in two places, and
+   `state/continuity.md` never carried it. Both `state/current.md` figures now read 11 in 8.**
 2. **A batch-local figure in a volume-wide column — the *Under her, …* lead-in.** It stood at *4 uses in 4
-   chapters*, which is right for Batch 0004 and wrong as a standing count. The family is **10 in 10**.
+   chapters*, which is right for Batch 0004 and wrong as a standing count. The family is **11 in 11**.
    Corrected, with the family, the batch-local count and the exact-string count given separately and the
-   *none closes a chapter* claim re-verified against all ten.
+   *none closes a chapter* claim re-verified against all eleven. **The first correction of this defect read
+   10 in 10 and lost ch 278 in the act of writing the correction; the review pass caught it and the row now
+   carries 11 in 11 with the seven forms that carry no *with*.**
 3. **A measure quoted without saying which measure it was — *reconciled*.** It stood at *7 times*, which is
    the chapter count. **16 occurrences across 14 lines in 7 chapters** is the occurrence count. Corrected;
    allowance unchanged at zero.
 4. **One zero standing for three rules — named weeks.** The row claimed zero across Volume 5 for weekdays,
-   calendar months and weeks together, and the evidence given covered only the first two. They are now three
+   calendar months and weeks together, and the evidence given covered only the first two. They are now four
    counts: weekday names 0, calendar month names 0 (the one grep hit is the modal verb *may* at ch 296:59),
-   numbered or planetary weeks 0 — and **3 relative week expressions that are standing and unrepaired**
-   (ch 244 ×2 *this week*, ch 298 *the last week of the season*), which is what stops a drafter reading the
-   zero as a ban on ordinary stretches.
+   numbered or planetary weeks 0 — and **20 relative week stretches in 15 chapters that are standing and
+   unrepaired**, which is what stops a drafter reading the zero as a ban on ordinary stretches. **The first
+   correction of this defect put that last figure at 3, which was two strings and not a count of stretches;
+   a drafter could have read the 3 as a quota. Corrected again on the review pass.**
 5. **A rule a card of this file broke — *Three figures and no others*, against ch 311.** Ch 311 needs the
    price of a charge and three days of half-reaches. The rule is now **five figures**, the table carries all
    five, and the historic figures that may not be quoted as current rates — five coppers a day at the yard
    and twenty-nine coppers on a promise — are named as bans rather than left as loose numbers.
 6. **A carried construction the budget page did not carry — the seven relicensing conditions.**
    `outline/volume-06.md` names *the seven relicensing conditions **never re-listed*** among its hard rules for
-   Volume 6, and the foot of `state/continuity.md` carries it, **and the budget page had no row for it.** A
-   grep returns **two lines across ch 239–298, both at ch 294** — the seventh named as discharged, and the
-   clerk saying he did not say the seven and did not name the first six — so the rule holds in the manuscript
-   and only the budget was silent about it. **The row is added with a zero allowance and the standing
-   instruction that no card may enumerate, count or refer to them.** This is the failure the prompt names in
-   its plainer form: **a rule that binds every card, carried by no card file.**
+   Volume 6, and the foot of `state/continuity.md` carries it, **and the budget page had no row for it.**
+   `grep -i` for *seven condition* across ch 239–298 returns **one line, ch 294:31** — the clerk saying he did
+   not say the seven and did not name the first six — and the singular returns two more, **ch 268:19** and
+   **ch 294:21**, the seventh named as discharged. **So the rule holds in the manuscript and only the budget
+   was silent about it. The row is added with a zero allowance and the standing instruction that no card may
+   enumerate, count or refer to them.** This is the failure the prompt names in its plainer form: **a rule
+   that binds every card, carried by no card file.** **Corrected on the review pass: this paragraph had quoted
+   the grep as returning two lines both at ch 294, which is what the result looks like if the singular is
+   silently folded into the plural, and it had missed 268 altogether. The row now quotes the command as run
+   and gives all three references.**
 7. **A word that could carry a later batch's act into this one — *vouched*, at ch 308 and ch 309.** Both cards
    used it for what is in fact **the same office on the same copying floor that entered her as good at ch 292**
    — she is answering a strip, not being vouched for again. `outline/volume-06.md` keeps the *second* vouching
@@ -1611,6 +1640,60 @@ character who is not in the chapter.** **Replaced with the correct line: *None. 
 the road, nothing bought, nothing sold, and the counter's line with a date on it is not in her hands.**
 **No card, title, day, beat, turn, midpoint or climax moved.**
 
+### Seven findings from the review of this file, and what each one was
+
+**This file was written on a first attempt that was deferred, repaired once on its own re-run, and then
+reviewed. The review returned seven findings and all seven are repaired here. Two of them are the fault this
+file exists to prevent — a rule its own cards break and a count that does not reproduce — and three more are
+the same species of error one degree along: a figure quoted in the wrong unit, a count taken from the wrong
+span, a command quoted in a form that does not return what it is said to return. **No card beat, day, title,
+turn, midpoint, climax, irreversible decision, bracket or stage moved, no prose was rewritten for style, and
+no chapter in `chapters/volume-01/` … `chapters/volume-05/` was opened.**
+
+1. **The money rule was still broken by this file's own cards.** *Five coppers figures in the batch, and no
+   others* had two counterexamples standing on the page: **ch 305's resource line carried twelve coppers**,
+   which reconciles against nothing, since two days at seven a reach is nearer sixteen than twelve, and **the
+   batch's one total was scheduled twice** — ch 302's ending type paid the eight out a day early, in the
+   wrong chapter, in a card that sits inside a dozen lines of the ch 303 card claiming to be the only one
+   that gives a total. **A rule a card breaks is not a rule, so both cards are corrected: ch 302's ending type now ends on the price of a reach
+   instead of on the money, ch 305's line now says there is no figure for the eighteenth or the nineteenth,
+   and the rule itself is rewritten in the form that survives them** — five figures, four chapters, the rate
+   excluded from the count, and the eight unnamed days named as days that are worked and get no figure.
+2. **The *Under her, …* family was 11 in 11 and the row said 10 in 10.** The correction that raised it from 4
+   to 10 had itself lost a chapter. **ch 278 — *Under her, at the plank* — was missing**, and it is the
+   lead-in to the one-breath speech a reader of Volume 5 will have marked. The row now carries 11 in 11, the
+   seven forms that carry no *with*, and the *none closes a chapter* claim re-verified against all eleven
+   rather than ten.
+3. **Relative week stretches were counted at 3 and are 20.** The row had counted two strings — *this week* and
+   *the last week of the season* — and called the result a count of relative week stretches. The real figure is
+   **20 occurrences across 15 chapters**, every one of them standing and unrepaired at the Volume 5 close. **A
+   drafter reading the 3 could have read it as a quota**, which is the one thing the row exists to prevent. Now
+   four counts where there were three, with the stretches listed by chapter.
+4. **The note handing the stale eleven-counts figure to another phase named the wrong file and the wrong
+   number of places.** It said `state/current.md` **and** `state/continuity.md` carried the 10-in-7 figure.
+   **`state/continuity.md` never carried it** — its only two hits are a different measure in a different
+   volume — **and `state/current.md` carried it twice, not once.** Both sites now read **11 in 8 with 288
+   named and the span labelled**, so a later phase cannot inherit the wrong number from a file that says it is
+   waiting for correction.
+5. **A quoted command did not return what the row said it returned.** *grep* for *seven condition* across
+   ch 239–298 returns **one line, 294:31**. The second line the row described, 294:21, matches the *singular*,
+   and folding a singular into a plural is how a count comes to look verified when it was never run. **A third
+   reference had been missed altogether at 268:19.** The row now quotes the command as run and gives all three.
+6. **The one permitted use of the retired *nobody was thanked* beat was licensed on two cards.** The budget
+   allows it once, at ch 309. **Ch 308's action field carried *is not thanked* as well**, so a drafter working
+   from the cards could have delivered it twice, which is the same rule-break as finding 1 in a different
+   column. **Ch 308's field now carries the beat nowhere** and says so, and the budget row now also stops a
+   card that carries *not thanked* as a state fact — ch 312's Feng — from putting the word in a mouth.
+7. **A stray space in a number the file tells a drafter to reconcile: *twenty-four th*.** Now *twenty-fourth*,
+   in the block that gives the three days of money.
+
+**What the review confirmed and this pass left alone, deliberately:** the batch's irreversible decision at
+ch 308, the unrescued physical risk at ch 307, the ring deadline, the midpoint's reversal, all fifteen titles
+against 298 headings, the day arithmetic for 621–645, the GC4 interval of 38 days, the bracket's character for
+character match with ch 258/275/292, the eleven-counts measure at **11 in 8**, and *reconciled* at **16
+occurrences across 14 lines in 7 chapters**. The reviewer's own check put those last two at exactly the
+figures this file already carried, which is the reason the remaining findings are of the kind they are.
+
 ### Two flags raised against `outline/volume-06.md`, recorded, and nothing in the outline was edited
 
 1. **The Golden Core 4 chapter number against the Batch 0002 rotation row.** *Pressure rotation* row 0002 reads
@@ -1636,4 +1719,7 @@ fully available, because the batch is about eight coppers, five coppers, nine co
 
 **Recorded so the next phase does not have to re-derive it: the batch has 15 cards, 25 days, one stage, one
 bracket, one irreversible decision, one physical-risk scene, one deadline, and five coppers figures, and
-every one of them reconciles to a line in `outline/volume-06.md` or to a grep against the closed manuscript.**
+every one of them reconciles to a line in `outline/volume-06.md` or to a grep against the closed manuscript.
+The five coppers figures are stated once each, at **303, 309, 310 and 311**, and **no card of this file
+states a sixth — a drafter who has run out of table has run out of numbers, and the answer is not to
+invent one.**
