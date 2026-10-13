@@ -101,7 +101,7 @@ day 470.**
 | 15 | **The final chapter image, element by element** | **PASS** | **A wage-book open on a trestle** (ch 238, the last working paragraph and the first). **A column of hours that is hers**, near side of the plank. **About eleven minutes because of the flat of a second finger, and longer because of the other hand** — *she held the corner down with four fingers and a thumb and the corner went twice* and *She did not ask him to hold it the second time.* **The price said out loud in the ordinary voice because that is what is said on a line, and written down in the price column without anybody looking up.** **Behind her, a board on a post, dated, nine lines in it, eight of them with something on them and one with nothing on it at all**, in a hand nobody on that line can read and every person at that trestle can recognise as a hand from the other side, and *She has seen a column like that before and nobody else in this country has ever seen one.* **Nine days of road behind her, a floor, nine men, and a tower with a light in it — said once.** **Nothing follows it:** the last paragraph is the man at the trestle tearing a strip off the book, and six of them in an oilcloth in three marks, none checkable |
 | 16 | **Feng** — alive, warm, owned, column at five; his fair hand copies the Foundation column; his copies go up a stair that now belongs to a district clerk **and past the line into a book the far side keeps**; he is not thanked; **no second appointment and no second Lung spent** | **FAIL — PARTLY, RECORDED WITH A PROPOSED REPAIR** | **On the page and confirmed: alive and warm for the first time in twenty-two years (ch 181); sixty-two; the fair hand and a column copied at the quarter; the district clerk carrying the bundle up four flights with a strap over his shoulder and coming down with his arms empty (ch 181, 191, 192); the Listener's standing for life, the quarter off his own stair at his own written request, entered not refused and not thanked for; **a keeper who has not asked her a question and whom she does not thank — *She did not thank him* (ch 181)**; and **no second appointment and no second Lung anywhere in the volume — Volume 11 owns them. Column at five is carried canon and is not restated on the page in Volume 4.** **NOT ON THE PAGE: he appears once in the whole volume, at ch 181, on day 223 — before Foundation 1 at day 276 — so his fair hand copying the Foundation column is not shown, and his copies going past the line into a book the far side keeps, which `outline/volume-04.md` promised *from ch 224*, is not shown either. The Batch 0003 and Batch 0004 cards forbid him appearing without a card and no card gave him one. NOT REPAIRED, because putting a man nine days west onto the line, or a fair copy into a book past the boundary, is a structural addition and not a word-level repair, and the close phase is not allowed to invent a beat. **PROPOSED REPAIR, carried into the Volume 5 hand-off as unspent: the fair copy of the Foundation column going up a stair that now belongs to a district clerk, and then past the line into a book the far side keeps.** What he has instead at the last page is one image and one sentence: *a tower with a light in it*, said once, at ch 238, and not again |
 | 17 | **Hard rules** — close third throughout; **every sentence Yuan speaks in the present tense and no other character ever in a marked present frame**; **at most one bracketed layer line per chapter, eight in the volume, one at each announced stage, none at all in ch 234**; markdown plain; every speech closed; two to four sentences a paragraph and nothing over about 120 words; 1,800–2,700 guide and 1,300 floor; **no harem and nothing a romance**; **no calendar month and no weekday named anywhere in ch 179–238**; the mother never named aloud by her; *the shape of a happy life* unspent; nothing told of what Yuan was before he died | **PASS after one repair** | **Close third on Ning Yan in every external scene. Every speech closed — `count('“') == count('”')` in all sixty files, verified after repair. Markdown clean: zero blockquotes, zero code fences, zero tables, zero horizontal rules in any of the sixty files.** **Length: 120,571 words over sixty chapters, average ~2,010; shortest ch 214 at 1,666, longest ch 179 at 2,722 — nothing over the 2,700 guide by more than twenty-two words on one chapter, nothing under the 1,300 floor, and eight chapters sit below the 1,800 guide.** **Paragraphs: none over 120 words; fourteen sit in the 90–113 band and are the dialogue-heavy ones.** **Yuan's present tense verified by sweeping every quoted span in ch 179–238 for a past-tense marker: every hit is a statement about a completed third-person event, which is the standing ch 57 exception. No other character is in a marked present frame.** **REPAIRED — ch 224 named a weekday: *I would do the whole of it again on Friday.* Recast as *on any working morning*, which is the volume's own idiom and carries the same bluntness. `grep` for all seven weekday names now returns zero.** **No calendar month is named anywhere in ch 179–238.** No harem, nothing a romance; the mother is referred to once (ch 195, *her mother's face*) and never named; *the shape of a happy life* returns zero; nothing is told of what Yuan was before he died |
-| 18 | **The construction budget**, all four batches swept | **PASS WITH NOTE** | ***Nobody asked*: 0 · *nobody was thanked*: 1, as a section heading at ch 200 and the batch's permitted use, the three sponsors · *there is no form*: 0 · *there is no column*: 0 · *the record remained*: 0 · *nobody knew*: 1 (ch 196, *a country where nobody knew her face*) · *nobody said anything*: 0. ***Eleven weeks*: 0.***** **Authorial scaffolding** — *this chapter, this volume, the next chapter, in this batch, the whole series, the reader*: **0.** ***His eyes widened*, *he couldn't believe it*, *suddenly*, *little did he know*: 0.** **The seven relicensing conditions: referenced four times, never re-listed** (190, 192, 207, 230) **and the seventh alone read aloud once, at ch 237.** **The four relicensing conditions of the Volume 2 licence: never re-listed.** **What a surety is for: 0 — the word appears three times as an object on a sheet and is never defined.** **The suppression arithmetic: not re-run anywhere.** **The reason-column rule: five statements across sixty chapters (199, 205, 208, 212, 225), the last of them the chapter in which the column goes west for the last time, and never more than twice in consecutive chapters.** **The counterfoil: defined once, at ch 208, and used.** **The ch 150 refusal: not softened, deferred, reopened or regretted in any line.** **THE ONE NOTE: *about four seconds* appears nine times across the volume — ch 181 (×2), 191, 198 (a section heading and a line), 205, 208 (×2), 212. Batch attribution, as measured against the manuscript and corrected in review: eight of the nine are in Batches 0001 and 0002 (Batch 0001 is three — ch 181 ×2 and 191; Batch 0002 is five — ch 198 ×2, 205 and 208 ×2), one is in Batch 0003 (ch 212), and Batch 0004 has zero. This note as first written said the nine were *all* in Batches 0001 and 0002 while listing ch 212, which is in Batch 0003, and that has been corrected. The per-batch cards record it as cut from Batch 0003 except for a single instance at ch 212, and the cards are right. It is a declining rhythm and not a metronome, but the standing record in `state/continuity.md` claimed it was *never used as a metronome anywhere in the volume*, which is not accurate and has been corrected** |
+| 18 | **The construction budget**, all four batches swept | **PASS WITH NOTE** | ***Nobody asked*: 0 · *nobody was thanked*: 1, as a section heading at ch 200 and the batch's permitted use, the three sponsors · *there is no form*: 0 · *there is no column*: 0 · *the record remained*: 0 · *nobody knew*: 1 (ch 196, *a country where nobody knew her face*) · *nobody said anything*: 0. ***Eleven weeks*: 0.***** **Authorial scaffolding** — *this chapter, this volume, the next chapter, in this batch, the whole series, the reader*: **0.** ***His eyes widened*, *he couldn't believe it*, *suddenly*, *little did he know*: 0.** **The seven relicensing conditions: referenced four times, never re-listed** (190, 192, 207, 230) **and the seventh alone read aloud once, at ch 237.** **The four relicensing conditions of the Volume 2 licence: never re-listed.** **What a surety is for: 0 — the word appears three times as an object on a sheet and is never defined.** **The suppression arithmetic: not re-run anywhere.** **The reason-column rule: five statements across sixty chapters (199, 205, 208, 212, 225), the last of them the chapter in which the column goes west for the last time, and never more than twice in consecutive chapters.** **The counterfoil: defined once, at ch 208, and used.** **The ch 150 refusal: not softened, deferred, reopened or regretted in any line.** **THE ONE NOTE: *about four seconds* appears eight times across the volume — ch 181 (×2), 191, 198, 205, 208 (×2), 212 — and a grep of `chapters/volume-04/` for *four second* returns eight and only eight, so this is a measurement and not an estimate. ch 198 is one prose line and is not a section heading. Batch attribution, as measured against the manuscript: three in Batch 0001 (ch 181 ×2, ch 191), four in Batch 0002 (ch 198, ch 205, ch 208 ×2), one in Batch 0003 (ch 212), and Batch 0004 has zero. This note as first written said nine, counted ch 198 in twice, and put all nine in Batches 0001 and 0002 while listing ch 212, which is in Batch 0003; a first repair re-partitioned the uses and left the nine standing, and the Volume 5 planning close review caught the count itself — it is eight. The per-batch cards record it as cut from Batch 0003 except for a single instance at ch 212, and the cards are right. It is a declining rhythm and not a metronome, but the standing record in `state/continuity.md` claimed it was *never used as a metronome anywhere in the volume*, which is not accurate and has been corrected. `outline/volume-05.md` and `outline/batches/volume-05-batch-0001.md` carried the wrong nine forward as inherited canon and are now brought into line with the eight** |
 
 ### The four repairs, made in the chapters
 
@@ -281,7 +281,8 @@ Volume 5 open without it.**
 ## Volume 5 planning — re-run, verified, and three defects repaired at source
 
 **The Volume 5 planning phase re-ran against work it had already completed. `outline/volume-05.md` (278
-lines) and `workspace/volume-05-batch-0001/PROMPT.md` (72 lines) were already on disk, and
+lines as it stood before the three repairs below; **318 lines as it stands now**) and
+`workspace/volume-05-batch-0001/PROMPT.md` (72 lines, unchanged) were already on disk, and
 `outline/batches/volume-05-batch-0001.md` had already been written by the phase that prompt dispatched. The
 re-run therefore verified both deliverables against `outline/series.md`, `outline/ending.md`,
 `outline/volume-04.md` and the audited state files rather than rewriting them. Nothing was rewritten. No
@@ -344,6 +345,76 @@ erased in Chapter 3*), `state/current.md` line 202, and `state/open-threads.md` 
 `outline/ending.md` §8 says they are named once in the final chapter.** **The reading in all three is the
 wrong one and is corrected above and at source.** `state/continuity.md` line 1629 does not make the claim
 either way; it lists the four months under *Held for Volume 5 **or later***, which is correct and stands.
+
+---
+
+## Volume 5 planning close review — findings applied
+
+`logs/volume-04-close-record.review.log` reviewed commits `b528f08` → `d4f4784` and returned seven findings.
+**Four were faults in the files and are repaired at source. Three are process notes about the pipeline and
+are recorded here and nowhere else, because the files that own them are controller-owned.** **No planned
+plot moved. No card, chapter, title, day, batch split, cost, antagonist beat, the ch 272 scene or anything
+in `outline/ending.md` changed.** Every edit below is a number that was wrong, a figure with no day behind
+it, a sentence that contradicted itself, or a stale line count.
+
+### Repaired at source
+
+1. **F1 — an arithmetic error the repair itself introduced.** `outline/volume-05.md` gave Golden Core 1
+   (ch 258, day 512) as *"50 days after Foundation 9 (day 462); 42 days after the volume's first day"*.
+   **512 − 471 = 41**, and the forty was the discredited pre-repair interval re-anchored rather than
+   removed. Now reads **41 days after the volume's first day (day 471)**, which is 512 − 462 = 50 and
+   512 − 471 = 41, both true. **Day 512 was never in dispute.** The card file's flag, which had certified
+   the wrong pair as *"both true"*, is corrected with it.
+2. **F2 — the review fix blessed a wrong absolute.** *About four seconds* appears **eight** times in
+   ch 179–238, not nine: **ch 181 (×2), 191, 198, 205, 208 (×2), 212**, and ch 198 is one prose line and
+   never a section heading. Batch attribution is **three in Batch 0001, four in Batch 0002, one in Batch
+   0003, none in Batch 0004**, none in the volume's last sixteen chapters. Corrected in **four** places
+   that carried the nine: `outline/volume-05.md` hard rules, `outline/batches/volume-05-batch-0001.md`
+   traps block and flags, `state/continuity.md` close-audit correction 1, and **row 18 of the close-audit
+   table above**, which is where the figure was first asserted. **A fifth copy sits in
+   `workspace/volume-04-close-record/PROMPT.md` and has deliberately been left there**: it is this phase's own
+   dispatched instruction, already executed, and it is not a file a writer run amends. The prompt the next
+   phase will actually read, `workspace/volume-05-batch-0001/PROMPT.md`, carries no count, and both files on
+   its mandatory read list — `state/continuity.md` and this one — are now right.
+3. **F3 — the ch 243 card contradicted itself on age.** *Resistance* gave **Wei Ran** as twenty and the
+   card's *Continuity fact to preserve* read *"the book does not romanticise that she is eighteen."* Canon is
+   **Wei Ran twenty, Ning Yan eighteen**. The batch's own character list repeated the dropped subject. **The
+   subject is restored at both sites and each now names which woman the age belongs to.** The register of
+   the card — a rate, a road and not a favour — is untouched.
+4. **F4 — four durations with no day behind them, in a book where absolutes are literal.** Her crossing
+   date is nowhere given, so *"went through without permission **four months ago**"* is **dropped** and now
+   says she has never said when, which is what ch 222 does. *"Has not been able to ask a question for
+   **four months**"* is **pinned to the fourteenth, ch 229, day 417**, the last time a road back inside was
+   put in front of her, with the interval given as a card fact and expressly kept off the page, which is the
+   rule the batch already runs on. *"True for **two months**"*, twice — the five-coppers wage is **canon at
+   ch 238, day 470**, and Batch 0001 opens on day 471, so the arithmetic is **days** old; both are
+   re-anchored to ch 238 and neither carries a duration. A fifth, *"What **four months** of Volume 4
+   bought"*, matched no span in the volume and now reads *the back half of Volume 4*, which is what ch 221
+   and ch 232 are.
+
+### Recorded, not acted on, because the files are not this run's to change
+
+- **F5 — two phases now own the same deliverable.** The planning phase's prompt says the batch cards are the
+  next phase's job, and the review-fix pass nonetheless edited the next phase's card file. That is
+  reconciliation and it was defensible; the cost is that both phases own one file, and F2 and F3 were the
+  residue. **The residue is now cleared.** Which phase writes the cards is dispatch, and dispatch is
+  controller-owned.
+- **F6 — the next phase ran out of order.** `workspace/volume-05-batch-0001/` carries `.deferred`,
+  `.attempts: 1` and `.retry-after`, and its card file was committed at 19:53, before the planning phase
+  finished at 20:09, so it was drafted against the pre-repair outline. Per `PHASE_SYSTEM.md`, `.deferred`
+  means rate-limited, not failed. **The outcome is reconciled and is now verified against the repaired
+  outline**, which is the thing that mattered.
+- **F7, first half — a stale figure in this file.** It described `outline/volume-05.md` as 278 lines; it is
+  318. **Now reads 278 as it stood before the three repairs and 318 as it stands now**, so the statement
+  is true in both readings.
+- **F7, second half — `state/phase-ledger.json` is absent from the repository.** `AGENTS.md` and
+  `PHASE_SYSTEM.md` both name it and both forbid editing it. **It is presumed to be created at runtime by
+  the workflow, and it has deliberately not been created here.** A hand-written ledger is a worse fault
+  than an absent one, and it would be controller-owned the moment it existed.
+
+**Read this block before using the Golden Core intervals, the four-seconds count or any elapsed duration in
+`outline/batches/volume-05-batch-0001.md`.** The Volume 5 planning is otherwise closed and the batch cards
+are the next phase's.
 
 ---
 

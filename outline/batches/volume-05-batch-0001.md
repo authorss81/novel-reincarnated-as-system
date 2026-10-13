@@ -125,7 +125,9 @@ on day 506. Batch 0002 opens on day 507, and Golden Core 1 is pinned at ch 258, 
 ### The money — **canon for this batch, do not re-derive**
 
 **Five coppers a day at the trestle. Five coppers of bread a day at a store. The number in her hand is the
-same at the start of every day and at the end of it, and has been for two months.**
+same at the start of every day and at the end of it, and it has not moved since the wage was said out loud
+at the trestle at ch 238.** That was the last day of Volume 4, day 470, and this batch opens on day 471, so
+the arithmetic is days old and not months old. **No card may give it a duration.**
 
 - **The wage is five coppers a day and it is said out loud at a trestle in the ordinary voice because
   that is what is said on a line**, and the man at the plank writes the five in the price column and does
@@ -297,7 +299,8 @@ below is invented; if a fact is not in those blocks it is not canon and a card m
   direction.
 - **Wei Ran, twenty**, mortal-born, one team, went through without permission, last on the page at ch 229
   as a rate and a road and not a favour. **One card at most, in that register. Nothing in this batch is a
-  romance and the book does not romanticise that she is eighteen.**
+  romance and the book does not romanticise that Ning Yan is eighteen** — she is eighteen, Wei Ran is
+  twenty, and the ages are not interchangeable.
 - **Ning Wu does not appear.**
 
 ## Batch midpoint (ch 246)
@@ -579,7 +582,8 @@ Information revealed: **Four things, established once each and not carried as ex
 First, the day's work and the shape of it. Second, the book's two things that matter: **a price column
 that takes the rate said out loud**, and **a column nearest the near side of the plank that is hers**, in
 order, with dates. Third, the store past the post, in one paragraph, as a counter and a tin and five
-coppers, and the arithmetic that has been true for two months: **five in the morning and five at the
+coppers, and the arithmetic the wage fixes — true the first time she does it and true every time after,
+and **no card gives it a duration**: **five in the morning and five at the
 counter in the evening and the number in her hand is the same both times.** Fourth, **a strip goes up on
 the post every nine or ten days whether or not there is anything to put in it**, and she has seen it twice
 now and is not going to ask about it, because she asked once at ch 236 and the answer was nine years long.
@@ -774,9 +778,9 @@ Immediate goal: Find out what a load costs on this reach and what the road that 
 from the one person on this side of the line who has been up and down it.
 
 Resistance: **Wei Ran is a working woman with a trade and an opinion and she is not being kind.** She is
-twenty, mortal-born, one team, she went through without permission four months ago and said so in four
-words and has never elaborated on it. **She answers what is asked and nothing else and she is in a hurry
-with a load.** She did not come here for her. **What she gives is a rate and a road — what a cart
+twenty, mortal-born, one team, she went through without permission and has never said when, and she said
+so in four words in a field and has never elaborated on it. **She answers what is asked and nothing else
+and she is in a hurry with a load.** She did not come here for her. **What she gives is a rate and a road — what a cart
 carries on this reach, what a man costs to hire with a team, and what the road west will cost when it
 opens, which is a number nobody else within nine days of road has**, because everybody here is going the
 other way or not going.
@@ -793,10 +797,13 @@ one and does not thank her and is not thanked.** She writes the figures on the b
 weight ticket with the flat of a second finger at eleven minutes a line, because that is the only hand
 she has for writing and there is nobody else within nine days of road to do it for her.
 
-Emotional change: **The specific relief of a person who has not been able to ask a question for four
-months and gets one answered in the ordinary voice.** And underneath it the thing that will not go away:
-this is the second time a carter has offered her a rate and a road and not a favour, and the pattern is
-becoming a habit she has not decided about.
+Emotional change: **The specific relief of a person who has not been able to ask what the road back inside
+costs since the fourteenth — ch 229, day 417, the last time a carter came past that trestle, when twenty
+coppers for a lift past the cart turn was offered to her and she did not take it up — and gets one asked
+question answered in the ordinary voice.** The interval is sixty-eight days and **it is a card fact only:
+no number goes on the page at this card**, which is the rule the whole batch runs on. And underneath it
+the thing that will not go away: this is the second time a carter has offered her a rate and a road and
+not a favour, and the pattern is becoming a habit she has not decided about.
 
 Power or resource change: **None. Foundation 9.** No figure from her own money; the figures are rates and
 they go on a ticket, **not into a total** — the one total was at ch 241 and there is no second.
@@ -804,8 +811,9 @@ they go on a ticket, **not into a total** — the one total was at ch 241 and th
 Continuity fact to preserve: **Wei Ran on one card only, in the register she is in — a rate, a road, a
 load, an opinion. Nothing in this batch is a romance and no card may move her in any direction.** She was
 last on the page at ch 229 as a rate and a road and not a favour and **she is still that.** **Nothing a
-romance. No harem. The book does not romanticise that she is eighteen.** **No card in this batch may
-name a weekday**, and Wei Ran does not have one.
+romance. No harem. The book does not romanticise that Ning Yan is eighteen.** **Ning Yan is eighteen
+and Wei Ran is twenty; the two ages belong to two different people and no card may swap them.** **No card
+in this batch may name a weekday**, and Wei Ran does not have one.
 
 Ending type: discovery — the only price anybody can quote her for going back inside is the price of the
 going, and there is a number on it.
@@ -1086,7 +1094,7 @@ heard of her, and the office that could is the one with the claim on the spike. 
 ordinary thing: ten days of five, and the stubs, and the pay-day arriving whether or not she worked it,
 exactly as it arrived at ch 241 and exactly as it will arrive again.**
 
-Information revealed: **What four months of Volume 4 bought.** Two books in two hands were taken apart on
+Information revealed: **What the back half of Volume 4 bought.** Two books in two hands were taken apart on
 purpose at ch 221, then squared at ch 232 and let go, and three empty dates that are true are still empty
 in a sub-contractor's book on the other side of the line. **And here, past the post, since the second of
 a month, there has been one hand in order with dates, and a run of it, and she has never once had to
@@ -1284,10 +1292,9 @@ west reopening and on a thing that has to be written and has not been written.**
   from it is reused as emphasis.** Available here, all spent or revoiced and **not available plain**:
   *nobody asked* · *nobody was thanked* · *there is no form* · *there is no column* · *the record remained*
   · *nobody knew* · *nobody said anything* · *eleven weeks* (retired, zero) · **about four seconds**
-  (**eight uses in Volume 4's Batches 0001–0002 — three in 0001 (ch 181 twice, ch 191) and five in 0002
-  (ch 198 twice, ch 205, ch 208 twice) — one in Batch 0003 (ch 212), none in Batch 0004, nine in the
-  volume whole and none in its last sixteen chapters. A declining rhythm, not a metronome, and not a
-  number to reach for.**)
+  (**eight uses in ch 179–238 — three in Batch 0001 (ch 181 twice, ch 191), four in Batch 0002 (ch 198,
+  ch 205, ch 208 twice), one in Batch 0003 (ch 212), none in Batch 0004, and none in the volume's last
+  sixteen chapters. A declining rhythm, not a metronome, and not a number to reach for.**)
 - **Absolutes in this book are literal.** A sentence that says *nobody*, *every*, *never* or *only* is a
   claim about the whole manuscript and will be checked. **Write the claim you can hold.**
 - **Never:** *his eyes widened*, *he couldn't believe it*, *suddenly*, *little did he know*.
@@ -1370,17 +1377,45 @@ west reopening and on a thing that has to be written and has not been written.**
     carried under *Traps for the drafting phase* above. Batch 0001's allocation never depended on it.
   - **The Golden Core 1 interval word.** This file flagged that the power table gave "42 days after
     Foundation 9" where Foundation 9 is on day 462 and Golden Core 1 is on day 512, which is fifty days.
-    `outline/volume-05.md` now reads 50 days after Foundation 9 and 42 days after the volume's first day —
-    both true, and the day table is unchanged. Day 512 was never in dispute and is not now. This batch's
-    day table was built backwards from day 512 and was unaffected throughout.
+    `outline/volume-05.md` now reads **50 days after Foundation 9 and 41 days after the volume's first
+    day, which is day 471** — 512 − 462 = 50 and 512 − 471 = 41 — and the day table is unchanged. **The
+    first repair kept the discredited figure a second time by re-anchoring it as "42 days after the
+    volume's first day", which is neither interval and was the old number wearing a new label; the close
+    review caught it and it is 41.** Day 512 was never in dispute and is not now. This batch's day table
+    was built backwards from day 512 and was unaffected throughout.
 - **Two faults in this card file itself, found in review and repaired here rather than in any chapter.**
   - **The surface answer was still routed in *Traps for the drafting phase* to "ch 280's equivalent,"**
     which would have sent a Batch 0002 drafter after a chapter outside their range. It now reads ch 267,
     the last chapter of Batch 0002.
-  - **The *about four seconds* count in the same trap block was misstated** as nine uses in Batches
-    0001–0002, one in Batch 0003 and none in Batch 0004, which implies ten across the volume. Measured
-    against the manuscript it is eight, one and none — nine whole. The corrected figure, with the chapters
-    that carry it, is now given in that block, and it agrees with `outline/volume-05.md`.
+  - **The *about four seconds* count in the same trap block was misstated twice.** It first read as nine
+    uses in Batches 0001–0002, one in Batch 0003 and none in Batch 0004, which implies ten across the
+    volume, and a first repair re-partitioned the uses while leaving *nine in the volume whole* standing.
+    **A grep of `chapters/volume-04/` for *four second* returns eight and only eight: ch 181 (×2), 191,
+    198, 205, 208 (×2), 212** — ch 198 carries one, in the prose, and is not a section heading. The
+    corrected figure, eight, with its batch attribution and the chapters that carry it, is now given in
+    that block, and it agrees with `outline/volume-05.md`, `state/continuity.md` and `state/current.md`,
+    all three of which carried the wrong nine and have been corrected here.
 - **One mislabel in this card file, found in review and repaired here.** The list of dates this batch must
   not move read "day 262's document" where 262 is a chapter and not a day, in a list whose other two
   entries already said `ch`. It now reads ch 262.
+- **Two further faults in this card file, found by the `volume-04-close-record` planning close review and
+  repaired here. No card, title, day, beat or turn changed.**
+  - **Ch 243 contradicted itself on age.** *Resistance* gave **Wei Ran** as twenty and *Continuity fact to
+    preserve*, two lines later, read *"the book does not romanticise that she is eighteen."* Canon is
+    **Wei Ran twenty, Ning Yan eighteen** (`bible/characters.md`, `state/open-threads.md`:35). The batch's
+    own character list repeated the same dropped subject. **The subject is restored in both places and each
+    now names which woman the age belongs to**, so a drafter cannot resolve it the wrong way. The ages were
+    the only thing at issue; the card still reads a rate, a road and not a favour.
+  - **Four durations had no day behind them and absolutes in this book are literal.** *"She went through
+    without permission **four months ago**"* — her crossing is nowhere given a day, and she is on the page at
+    ch 229; the figure is **dropped** and the card now says she went through and has never said when, which
+    is what ch 222 does. *"Has not been able to ask a question for **four months**"* — the last time a road
+    back inside was put in front of her is **the fourteenth, ch 229, day 417**, and the card now says that,
+    with the interval given as a card fact and expressly kept off the page, which is the rule the batch runs
+    on. *"The arithmetic that has been true for **two months**"* in *The money* and again in ch 239's
+    *Information revealed* — the five-coppers wage is **canon at ch 238, day 470**, and this batch opens on
+    day 471, so the arithmetic is **days old**. Both are re-anchored to ch 238 and neither carries a
+    duration. A fourth, *"What **four months** of Volume 4 bought"*, matched no span in the volume and now
+    reads *the back half of Volume 4*, which is what ch 221 and ch 232 are.
+- **One figure in `outline/volume-05.md` corrected at source by the same review, and this file now agrees:**
+  the Golden Core 1 interval, above. Nothing else in the volume outline moved.

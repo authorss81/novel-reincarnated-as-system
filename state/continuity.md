@@ -2098,16 +2098,17 @@ here and in `state/current.md`, `state/open-threads.md` and `state/book-metadata
 **Corrections to this file.**
 
 1. **THE FOUR SECONDS.** The line above used to read *"The four seconds: never used as a metronome anywhere
-   in the volume."* **That was not accurate.** *About four seconds* appears **nine times** in ch 179–238:
-   **ch 181 (×2), 191, 198 (a section heading and a line), 205, 208 (×2), 212.** **Batch attribution, as
-   measured against the manuscript and corrected in review: eight of the nine are in Batches 0001 and 0002
-   — Batch 0001 is three (ch 181 ×2, ch 191) and Batch 0002 is five (ch 198 ×2, ch 205, ch 208 ×2) — one is
-   in Batch 0003 (ch 212), and there are none in Batch 0004.** The sentence as first written said all nine
-   were in Batches 0001 and 0002 and then, in the same sentence, that one was in Batch 0003; it is
-   corrected here. It is a declining rhythm and not a metronome, and no other pause figure is displaced by
-   it — the volume's own alternatives are *as long as it takes to count eleven*, *about nine seconds*, *about
-   two seconds*, *a second and a half* and *four minutes*. **The rule stands and is unchanged: do not let it
-   become a metronome.** The record is corrected to say what is on the page.
+   in the volume."* **That was not accurate.** *About four seconds* appears **eight times** in ch 179–238:
+   **ch 181 (×2), 191, 198, 205, 208 (×2), 212.** **Batch attribution, as measured against the manuscript
+   by grep of `chapters/volume-04/`: three are in Batch 0001 (ch 181 ×2, ch 191), four in Batch 0002
+   (ch 198, ch 205, ch 208 ×2), one in Batch 0003 (ch 212), and there are none in Batch 0004.** The
+   sentence as first written said nine and put ch 198 in twice, once as a section heading, and the first
+   repair kept the nine while re-partitioning the uses; **the count is eight and ch 198 is one prose line.**
+   It is a declining rhythm and not a metronome, and no other pause figure is displaced by it — the
+   volume's own alternatives are *as long as it takes to count eleven*, *about nine seconds*, *about two
+   seconds*, *a second and a half* and *four minutes*. **The rule stands and is unchanged: do not let it
+   become a metronome.** The record is corrected to say what is on the page, and `outline/volume-05.md`,
+   `outline/batches/volume-05-batch-0001.md` and `state/current.md` have been brought into line with it.
 2. **THE WEEKDAY.** *No calendar month and no weekday is named anywhere in ch 179–238* **is true.** Ch 224
    carried the volume's only instance — *I would do the whole of it again on Friday* — and **the close audit
    repaired it in place to *on any working morning*.** The exception no longer stands. **The close review then
