@@ -2,7 +2,7 @@
 
 The arithmetic started on the seventeenth and it took her four days, and it is worth setting down because every part of it was true and not one part of it changed anything.
 
-There are two books. One of them ends on the seventeenth of a month that is three months back and the other one has three empty dates in it, and there is not one stretch of continuous work in either of them on nine days of road.
+There are two books. One of them ends on the seventeenth of a month that is two months back and the other one has three empty dates in it, and there is not one stretch of continuous work in either of them on nine days of road.
 
 There are five stubs in an oilcloth against her ribs, with five marks on them, and not one of the five can be compared with either book, and a man at a desk would have to hold two books and five papers and decide which of them he believed, and there is no version of a rule about hours that lets a man do that and be honest about it.
 
@@ -30,7 +30,7 @@ She got as far as that on the seventeenth and stopped, and did not go near the g
 
 She keeps the count on the back of a dead weight ticket.
 
-Four marks. It has been four marks for a while and it has been going down on its own for about three months and she is the only person in the world who is keeping it, and she has not added to it since the tenth of a month that is now four months back.
+Four marks. It has been four marks for a while and it has been going down on its own for about three months and she is the only person in the world who is keeping it, and she has not spent one of them since the tenth of the month before.
 
 The rest is written on the same tickets in the same hand with the flat of a second finger: eleven holds that hold to the end of a stroke and about fifty that do not; the four stage tests; the cost of the fifth, which is a name struck out of a wage-book in a foreman's own hand; the cost of the sixth, which is a hand flat on a board and nothing written in it; the cost of the seventh, which is three empty dates and nine men who stood a stretch for nothing.
 
@@ -44,7 +44,7 @@ She has never told him that he is the only other person in the world who knows a
 
 She did not order it on the twentieth, and she did not order it on the twenty-first, and on the twenty-second at about the fourth hour, at the trestle, before she picked the bar up, she spent one of the four.
 
-She had not spent one in five days and she did not want to go on to the bad flat without knowing what was there, and he is the only thing in her life that reads anything at all, and the four marks do not last the fortnight that is in front of her if she spends at the rate she has been spending at.
+She had not spent one since the tenth of the month before and she did not want to go on to the bad flat without knowing what was there, and he is the only thing in her life that reads anything at all, and the four marks do not last as far as the day that is in front of her if she spends at the rate she has been spending at.
 
 She let one go and it bought her exactly this, in the ordinary voice, in her head:
 
@@ -94,7 +94,7 @@ That is the fear, and it took about nine minutes to get hold of and it took the 
 
 She decided it on the twenty-second and she did not say the word, and the price is still unsaid, and it will be said at a trestle in daylight before she says anything else.
 
-The day she chose was the fifth of the next month, which is eighteen days off, and the reason she chose it is arithmetic and not temper: twenty-eight days from the seventh, the base turns again on the seventh of that month, and she wants the crossing inside the turn and not outside it, because a base that is moving is a base that will carry anything she can put into it and will not carry anything at all if she tries to hold it still.
+The day she chose was the fifth of the next month, which is thirteen days off, and the reason she chose it is arithmetic and not temper: twenty-eight days from the seventh, the base turns again on the seventh of that month, and she wants the crossing inside the turn and not outside it, because a base that is moving is a base that will carry anything she can put into it and will not carry anything at all if she tries to hold it still.
 
 She has never hired onto ground nobody is paid to record. She is going to say her name out loud at a trestle and ask for the worst ground on nine days, in daylight, in the ordinary voice, and put her hand on the standing and say one word, and then she is going to be where the layer reads.
 

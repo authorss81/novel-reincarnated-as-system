@@ -18,18 +18,24 @@ ch 231 opens on a man with a notebook attending a course he has already shut aga
 renumbered to make the split.** All sixteen cards stand as written. **The four pinned stage days (386, 412,
 440, 462) and the pinned attendance day (389) are untouched.**
 
-## The one deliberate deviation, recorded
+## The two deliberate deviations, recorded
 
-The card table gives ch 228 as day 412 alone and ch 229 as days 413–419. **Ch 228's cost is three missing
-days, so the chapter as written runs 412–414, and ch 229 opens on day 415, the twelfth, and covers five
-days rather than seven.** Nothing on the calendar moves: the nine-day span 412–426 is fully covered, the
-attendance is still the sixteenth, and ch 230 still opens on the seventeenth of the next month as pinned.
-**Do not "correct" ch 228 back to a single day.** The board lines on the foreman's board are dated the
-ninth, the tenth and the eleventh to match.
+**One, the three missing days.** The card table gives ch 228 as day 412 alone and ch 229 as days 413–419.
+**Ch 228's cost is three missing days, so the chapter as written runs 412–414, and ch 229 opens on day 415,
+the twelfth, and covers five days rather than seven.** Nothing on the calendar moves: the nine-day span
+412–426 is fully covered, the attendance is still the sixteenth, and ch 230 still opens on the seventeenth
+of the next month as pinned. **Do not "correct" ch 228 back to a single day.** The board lines on the
+foreman's board are dated the ninth, the tenth and the eleventh to match, and **Foundation 7 is taken on
+day 412, on the first of the three days, exactly as pinned.**
+
+**Two, ch 225 opens on the fifteenth.** The card table gives ch 225 as 387–393, the 14th to the 20th. **Ch
+224 closes at the seventh hour of the fourteenth**, so ch 225 opens on **day 388, the fifteenth**, and runs
+388–393. Day 387 is the one day in this half with no scene in it and it belongs to ch 224's tail. **The
+pinned attendance day (389) is untouched** and the sheet still goes west on the sixteenth.
 
 ## What is on the page
 
-**15,884 words over eight chapters, average ~1,986.** Longest ch 228 at 2,223; shortest ch 225 at 1,683.
+**15,906 words over eight chapters, average ~1,988.** Longest ch 228 at 2,244; shortest ch 225 at 1,672.
 **Nothing above the 2,700 guide, nothing under the 1,300 floor, one chapter under the 1,800 guide (225).**
 **Two bracketed layer lines in eight chapters, at ch 224 and ch 228; six chapters carry none.** All eight
 chapters carry quoted speech. Forty-nine section headings, 5.5 a chapter. Longest paragraph 113 words, none
@@ -66,8 +72,10 @@ he does not become a man who asked one.** None of them is a villain. None of the
   and he said *You know the day.* **Ch 231 is where the price is stated before the word; ch 233 is where the
   word is said.**
 - **The channel has four marks on the back of a dead weight ticket and no figure of what is left is stated
-  anywhere.** Nothing in ch 223–230 kills anything or clears a listed trial, so **nothing can have restored
-  it.** Ch 235 is the only mechanism.
+  anywhere.** **Two ration spends are on the page — ch 223, which bought nothing at all, and ch 230, which
+  bought *Say it and I hold it as long as you want it held* and three sentences back** — and the count has
+  not moved between the tenth of the month before and the twenty-second. Nothing in ch 223–230 kills
+  anything or clears a listed trial, so **nothing can have restored it.** Ch 235 is the only mechanism.
 - **The right index finger is whole.** It is named nowhere, priced nowhere and foreshadowed nowhere in
   ch 223–230. **One draft line at ch 230 came within a sentence of foreshadowing it and was cut.**
 - **The Hunter is a man in a plain coat at two hundred yards on the twenty-third with his notebook shut,

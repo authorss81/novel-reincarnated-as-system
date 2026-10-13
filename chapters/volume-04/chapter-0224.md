@@ -64,7 +64,7 @@ And a thing else arrived at the ninth hour of the thirteenth, and it is not work
 
 They can tell.
 
-That is what the hand on the board said. He put it flat because he had felt something come up through the boards the trestle stands on the same way it comes up through the ground when the drift is thick, and then he stood there, and he did not write a line, because a board is a board and it carries dates and stretches and hours and prices and there is not one of those things that a sound can be entered against.
+That is what the hand on the board said. He put it flat because he had felt something come up through the props the board stands on the same way it comes up through the ground when the drift is thick, and then he stood there, and he did not write a line, because a board is a board and it carries dates and stretches and hours and prices and there is not one of those things that a sound can be entered against.
 
 ## A Wage-Book Is For Hours
 
@@ -72,7 +72,7 @@ She got it in the end and it took her about a day and a half, and she got it sta
 
 Cui Bao came out past the wire on the fourteenth, in the afternoon, on the ordinary business of a man walking to a place where he has to be.
 
-He did not come to her. There were about two hundred yards of ground between the trestle and where he stopped, and he stopped at the trestle because there is a pot at the trestle and a man with a book at it, the way a man stops at anything.
+He did not come to her. There were about two hundred yards of ground between the trestle and the wire, and he had crossed all of it, and he stopped at the trestle because there is a pot at the trestle and a man with a book at it, the way a man stops at anything.
 
 “Twenty-two,” the sub-contractor said. “That is the one that is slow.”
 
@@ -92,7 +92,7 @@ Cui Bao stood at the end of the plank with his hands at his sides for about as l
 
 She did not say anything.
 
-“I closed my ground against you on the eighth,” he said. “A man in a plain coat read a referral out of a notebook at my table and said the thing in your head is unauthorised and carried by a licensee in good standing, and both halves of that are on his paper and both halves of it are correct, and I acted on it inside a week. My run is a fortnight shorter. Nine men are idle and my daughter is idle and the contract is smaller than it was on the first of this month, and every hour of that is right.”
+“I closed my ground against you on the eighth of the month before,” he said. “A man in a plain coat read a referral out of a notebook at my table and said the thing in your head is unauthorised and carried by a licensee in good standing, and both halves of that are on his paper and both halves of it are correct, and I acted on it inside a week. My run is a fortnight shorter. Nine men are idle and my daughter is idle and the contract is smaller than it was on the first of this month, and every hour of that is right.”
 
 He put his thumb on the plank the way he puts it on a book.
 

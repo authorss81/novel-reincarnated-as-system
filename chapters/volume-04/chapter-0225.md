@@ -4,7 +4,7 @@ The sheet comes round once a month.
 
 That is the arrangement and it has not changed in four years, and it is a strip of county paper about the length of a forearm with an attendance column on it that is not joined to the hours column, and it travels east on a man who runs his own round and goes back west on the same man four days later, or eleven, or whenever he gets to it.
 
-It came round past the last stake on the fourteenth of the month with a cart of oil and salt behind him, and it came at about the second hour, which is when it always comes, and it is still folded in three when he got off the cart.
+It came round past the last stake on the fifteenth of the month with a cart of oil and salt behind him, and it came at about the second hour, which is when it always comes, and it is still folded in three when he got off the cart.
 
 ## The Carrier
 
@@ -18,7 +18,7 @@ The oil went into the store in four rounds by the two of them, about eleven copp
 
 She said nothing.
 
-“Member absent,” Pei said. “And after that column there is one that is a foot and a half wide and it has been empty three months running and it is not mine to fill, because it travels down the same road as your hours do and I am not a man who writes in your hours.”
+“She is absent,” Pei said. “And after that column there is one that is a foot and a half wide and it has been empty three months running and it is not mine to fill, because it travels down the same road as your hours do and I am not a man who writes in your hours.”
 
 He put his finger on the empty column and left it there for about the length of a cart being unloaded.
 
@@ -36,13 +36,13 @@ He put the sheet in the inside of his coat, folded in three, against his chest.
 
 ## Why Not
 
-There was a word she could have written and she did not write it, and she had not been offered it a second time by either of the two decent men who had offered it once, and she was not going to be offered it a third time by a man with a coat that had been repainted twice, and the reason is not modesty.
+There was a word she could have written and she did not write it, and she had not been offered it a second time by either of the two decent men who had offered it once, and she was not going to be offered it a third time by anybody, and the reason is not modesty.
 
 The word would have gone in the column after the attendance column and it would have travelled west nine days to an office that had already written a date against a standing claim in a counting room, and the reason column is the column her hours go in.
 
 That is the entire reason. It is one sentence and it has been true for four years and it is the single reason there is.
 
-She had been offered the word twice, once by a decent man at a trestle inside the wire and once by a decent man with a coat that had been repainted twice, and each of them had offered it exactly one time, and she had not taken it either time, and both of those sheets had gone west with a foot and a half of blank paper in the reason column.
+She had been offered the word twice, once by a decent man at a trestle inside the wire and once by this man, on an earlier round of his, and each of them had offered it exactly one time, and she had not taken it either time, and both of the sheets had gone west with a foot and a half of blank paper in the reason column.
 
 “Twice,” she said.
 
@@ -80,7 +80,7 @@ There is a board at the course's trestle with dates on it, and the dates are whe
 
 There is no date west on it after this man.
 
-She had known that since a month that is four months back, when the carrier came back east on the third and went west again and there was a date, and the man after him runs his own book and leaves when he leaves.
+She had known that since a month that is three months back, when the carrier came back east on the third and went west again and there was a date, and the man after him runs his own book and leaves when he leaves.
 
 So that was the last strip of paper with her name on it that will leave this reach for the rest of the run.
 
@@ -92,7 +92,7 @@ She bought bread at the store that evening and it was five coppers and she had a
 
 That is the arrangement and it has been the arrangement for two months.
 
-The sixth stage had cost her something in the afternoon two days before that was not the cold and was not the hand. Eleven men on a course with nothing to do had heard a thing go up out of the ground at about the ninth hour, and not one of them had been able to write it down, and she had watched a tender put his hand flat on a board and take it off again.
+The sixth stage had cost her something in the afternoon three days before that was not the cold and was not the hand. Eleven men on a course with nothing to do had heard a thing go up out of the ground at about the ninth hour, and not one of them had been able to write it down, and she had watched a tender put his hand flat on a board and take it off again.
 
 That is what a stage costs on ground where people are paid to hear ground.
 

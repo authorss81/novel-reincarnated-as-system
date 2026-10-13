@@ -3,7 +3,7 @@
 **Volume 1 is closed. Volume 2 is closed and audited (ch 59–118). VOLUME 3 IS CLOSED AND AUDITED (ch 119–178).
 VOLUME 4 IS OPEN: BATCH 0001 IS WRITTEN (ch 179–192, 28,608 words), BATCH 0002 IS WRITTEN (ch 193–208,
 31,941 words), BATCH 0003 IS WRITTEN (ch 209–222, 28,568 words post-review-repair) AND BATCH 0004 IS
-HALF WRITTEN (ch 223–230, 15,884 words over eight chapters; ch 231–238 NOT DRAFTED).** The Volume 3
+HALF WRITTEN (ch 223–230, 15,906 words over eight chapters; ch 231–238 NOT DRAFTED).** The Volume 3
 close audit table is in `state/current.md` under `## Volume 3 close audit — CLOSED`, and **the review's
 reversal of one of the audit's rules is written up under *Close review repair* in that same block — read it
 before using any four-county or nine-county figure from this run.** Live threads below carry into **Volume 4,
@@ -127,7 +127,7 @@ Ma Sheng, the girl of nineteen and eleven men won their own win at ch 218 and pa
 ## Volume 4 Batch 0004 (ch 223–238) — HALF DRAFTED. ch 223–230 ON THE PAGE; ch 231–238 NOT DRAFTED
 
 **`outline/batches/volume-04-batch-0004.md` holds sixteen cards. Eight chapters of prose are on the page
-(ch 223–230, 15,884 words) and eight are not.** Full record for what is drafted is in
+(ch 223–230, 15,906 words) and eight are not.** Full record for what is drafted is in
 `state/continuity.md` under ***Established facts, Volume 4 Batch 0004 FIRST HALF (ch 223–230)*** and
 ***Volume 4 running ledger — at end of ch 230***. **The next phase is the second half of the drafting
 phase**, at `workspace/continuation/next-0003/PROMPT.md`, and it writes **ch 231–238 in prose and then
@@ -144,7 +144,7 @@ renumbered to make the split, and no pinned date was touched.**
 | **MEMBER ABSENT** | **ENTERED A THIRD TIME, PERMANENT, AND THE SHEET HAS GONE WEST FOR THE LAST TIME THIS SEASON.** Reason column a foot and a half wide and blank. **Nobody offered her the word a second time**, which is the construction and is now spent |
 | **The blind run** | **DESCRIBED IN FULL AND NOT ENTERED.** No mark, no stake, no board, no ring, a foot and a bit on the low side, two men in the ground with a bar across them. **She has been inside it on one knee. She has not hired onto it and ch 233 hires her** |
 | **Ledger** | **NOT ORDERED.** The decision is taken in her own head at ch 230; the word and the price are both unsaid. **He was offered the chance and took it and said four sentences and she chose them** |
-| **The channel** | **FOUR MARKS. NO FIGURE STATED ANYWHERE. ONE RATION SPEND IN EIGHT CHAPTERS. He does not grow back** |
+| **The channel** | **FOUR MARKS. NO FIGURE STATED ANYWHERE. TWO RATION SPENDS IN EIGHT CHAPTERS — ch 223 bought nothing and ch 230 bought the price of four sentences.** He does not grow back |
 | **Merit** | **NONE. Nothing kills anything and nothing clears a listed trial** |
 | **The right index finger** | **WHOLE AND UNSPENT. Named nowhere, priced nowhere, foreshadowed nowhere in ch 223–230** |
 | **Foundation 8 and Foundation 9** | **Not taken.** Pinned at ch 234 (day 440, suppressed, no bracket) and ch 237 (day 462, the one that goes past the line) |

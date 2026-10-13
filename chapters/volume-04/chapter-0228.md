@@ -6,6 +6,20 @@ That is the fact of the three days and it is the only fact of them that anybody 
 
 The sub-contractor wrote her down at the fourth hour on the ninth because he writes every day down at the fourth hour, and he wrote the mark of the stretch she works on, and then she went past it.
 
+## The Fourth Hour
+
+She took the seventh stage at about the fourth hour on the first of the three days, sitting on the ground with her back against a rise about three hundred yards past the last stake, in the ordinary way, which is the way she has taken every stage for two years.
+
+[Ning Yan of the county of Lowwater, servant-born, under a ceiling written in her own hand. Foundation, stage seven, is held.]
+
+It went out. It does not say where she was and it does not say what heard it.
+
+Nine hundred yards inside the wire, a course with nine idle men and a girl of nineteen and a foreman and a tender heard a stage go up at about the fourth hour, and every one of them looked at the ground they were standing on, and not one of them knew where to look.
+
+Nine men and a girl and a man with a board, on a course whose board has had a hole in it for a month, and the sound arrived and it did not carry a direction.
+
+She got up about a minute later and went on out past the last mark, because a rise is not ground that anybody is paid to work.
+
 ## The Ground In Between
 
 She went about two hundred yards and stopped.
@@ -30,25 +44,11 @@ Her left hand is a hand that builds every grip from nothing, one at a time, befo
 
 Her hands were cut by the time the light went. Not badly. In the ordinary way, across the two places where a bar held a hand.
 
+She was out there in the dark of the first night with her hands cut across the two places a bar holds a hand, and the base under her had gone another step heavier and colder, and the thing she had been feeling come up half a step since the thirteenth of the month before came up the rest of the way, all at once, in about the length of a breath.
+
+And the first thing she felt about it was relief, and the second thing she felt about it was that she had four marks on the back of a dead weight ticket and had not spent one of them since the tenth of the month before.
+
 She slept in the hut with three boards in it because the hut is hers and the trestle is not and there is no man on that ground with a book who would have a place in it for a woman who did not come in.
-
-## The Second Day
-
-She took the seventh stage at about the fourth hour on the second of the three days, sitting on the ground with her back against a rise about three hundred yards past the last stake, in the ordinary way, which is the way she has taken every stage for two years.
-
-[Ning Yan of the county of Lowwater, servant-born, under a ceiling written in her own hand. Foundation, stage seven, is held.]
-
-It went out. It does not say where she was and it does not say what heard it.
-
-Nine hundred yards inside the wire, a course with nine idle men and a girl of nineteen and a foreman and a tender heard a stage go up at about the fourth hour, and every one of them looked at the ground they were standing on, and not one of them knew where to look.
-
-Nine men and a girl and a man with a board, on a course whose board has had a hole in it for a month, and the sound arrived and it did not carry a direction.
-
-She got up about a minute later and worked another eleven hours.
-
-She was out there in the dark of the second night with her hands cut across the two places a bar holds a hand, and the base under her had gone another step heavier and colder, and the thing she had been feeling come up half a step since the thirteenth of the month before came up the rest of the way, all at once, in about the length of a breath.
-
-And the first thing she felt about it was relief, and the second thing she felt about it was that she had four marks on the back of a dead weight ticket and had not spent one of them in five days.
 
 ## What Ten Hours Costs On It
 
@@ -68,7 +68,7 @@ She came in on the third evening.
 
 She came in on the outside of the wire, past the trestle and past the last stake and along about a hundred and forty yards of the course's own ground, at about the seventh hour, with her hands cut and her breath at four counts and eleven hours of nothing behind her that no book on earth is going to be told about.
 
-The board is at the trestle inside the wire and it faces out, because a board that a foreman reads aloud has to face the men.
+The board stands at the wire on the course's own ground and it faces out, because a board that a foreman reads aloud has to face the men.
 
 She stopped about forty feet off it and read it, the way she reads a board, which is from the bottom up.
 
@@ -136,4 +136,4 @@ He looked at the three dates and he ran a thumb down past them and stopped, and 
 
 Three dates in a book that is true.
 
-She is eighteen years old and she has the seventh stage and the order gone out of her left hand and about three coppers and there is not one stretch of continuous work in either of the two books on nine days of road, and there is not going to be one now, because the only run she ever had was put in two places by her own mouth on purpose, and three of the days that would have gone into the making of one went into ground nobody records.
+She is eighteen years old and she has the seventh stage and the order gone out of her left hand and about five coppers and there is not one stretch of continuous work in either of the two books on nine days of road, and there is not going to be one now, because the only run she ever had was put in two places by her own mouth on purpose, and three of the days that would have gone into the making of one went into ground nobody records.

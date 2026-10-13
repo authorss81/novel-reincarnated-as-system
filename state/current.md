@@ -19,7 +19,7 @@ This file is **append-only and long, and most of it is history.** You do not nee
 - **This file is never pruned by a writing phase.** If a section is wrong, correct it in place and say
   so in the phase's repair note rather than deleting the record.
 
-- **Volume:** 4 of 16 — **The Wall (ch 179–238)** — outlined in `outline/volume-04.md`, **BATCH 0001 WRITTEN (ch 179–192, 28,608 words over fourteen chapters, average ~2,043) · BATCH 0002 WRITTEN (ch 193–208, 31,941 words over sixteen chapters, average ~1,996) · BATCH 0003 WRITTEN (ch 209–222, 28,568 words over fourteen chapters, average ~2,041) · BATCH 0004 HALF WRITTEN (ch 223–230, 15,884 words over eight chapters, average ~1,986)**. Volume 3 (ch 119–178) remains **all four batches written and audited**: Batch 0001 (ch 119–132), 36,809 words over fourteen chapters; Batch 0002 (ch 133–148), 36,742 words over sixteen chapters; Batch 0003 (ch 149–163), 30,958 words over fifteen chapters; Batch 0004 (ch 164–178), 30,505 words over fifteen chapters. **Volume 3 file set: 135,014 words.** All figures are post-audit-repair.
+- **Volume:** 4 of 16 — **The Wall (ch 179–238)** — outlined in `outline/volume-04.md`, **BATCH 0001 WRITTEN (ch 179–192, 28,608 words over fourteen chapters, average ~2,043) · BATCH 0002 WRITTEN (ch 193–208, 31,941 words over sixteen chapters, average ~1,996) · BATCH 0003 WRITTEN (ch 209–222, 28,568 words over fourteen chapters, average ~2,041) · BATCH 0004 HALF WRITTEN (ch 223–230, 15,906 words over eight chapters, average ~1,988)**. Volume 3 (ch 119–178) remains **all four batches written and audited**: Batch 0001 (ch 119–132), 36,809 words over fourteen chapters; Batch 0002 (ch 133–148), 36,742 words over sixteen chapters; Batch 0003 (ch 149–163), 30,958 words over fifteen chapters; Batch 0004 (ch 164–178), 30,505 words over fifteen chapters. **Volume 3 file set: 135,014 words.** All figures are post-audit-repair.
 - **Volume 4 goal**, fixed by `outline/series.md` §9: *In this volume, Ning Yan must break the boundary, or neither of them ever learns what they are.* Batch allocation fixed by `outline/volume-04.md`: **0001 = ch 179–192 (written) · 0002 = ch 193–208 (written) · 0003 = ch 209–222 (written) · 0004 = ch 223–238 — sixteen cards, EIGHT CHAPTERS WRITTEN (223–230) AND EIGHT NOT (231–238).** The allocation table's four rows sum to the volume's sixty.
 - **Chapter written:** **1–230. THE NOVEL RUNS TO CHAPTER 1000; VOLUME 3 IS COMPLETE AND AUDITED; VOLUME 4 IS OPEN THROUGH ch 230.** **Sixteen cards exist for ch 223–238 at `outline/batches/volume-04-batch-0004.md`; eight chapters of prose exist and eight do not.**
 - **Next phase:** **Volume 4, Batch 0004, CONTINUED — the second half of the drafting phase**, at `workspace/continuation/next-0003/PROMPT.md`. **It writes ch 231–238 in prose — eight chapters — and ch 238 is the last chapter of the volume, so that phase must write `workspace/volume-04-close/PROMPT.md` in the same call.** It owns the blind run hired onto, Ledger held briefly at a stated price, Foundation 8 suppressed with no bracket at all, the trial cleared, the channel restored out of her foundation, **the right index finger**, Yuan reading the office name above this county, Foundation 9 past the line, the break, the certification and the fixed final image.
@@ -56,15 +56,15 @@ Full record: `state/continuity.md` under ***Established facts, Volume 4 Batch 00
 - **The Hunter has not appeared.** He is a man in a plain coat with a notebook shut against his side, seen at two hundred yards across the ground on the twenty-third, not writing. **He is named nowhere in ch 223–230 and no document he signs carries a name.** He certifies the crossing at ch 238.
 - **The office above this county is not named, not asked for, and he is silent about it.** He reads it at ch 236 and not one page earlier.
 - **The far-side board is not touched in ch 223–230** and its last column with one of her dates in it is exactly as ch 216 left it.
-- **Yuan.** Voice. **One ration spend in eight chapters (ch 230) and it bought him the word *not today* and three sentences in return.** **Four marks on the back of a dead weight ticket and the count has not moved in months. No figure of what is left is stated anywhere in ch 223–230.** **Ledger NOT ordered in ch 223–230 — the decision is taken in her own head on the twenty-second and the word is not said and the price is not said.** The standing is not explained and the refusal is not run again. **Merit: none. Nothing in ch 223–230 kills anything or clears a listed trial and the channel does not come back.** **He does not grow back and he is quieter at the end of this half than at the start.**
+- **Yuan.** Voice. **Two ration spends in eight chapters — ch 223, which bought nothing at all, and ch 230, which bought him the word *not today* and three sentences in return.** **Four marks on the back of a dead weight ticket and the count has not moved between the tenth of the month before and the twenty-second. No figure of what is left is stated anywhere in ch 223–230.** **Ledger NOT ordered in ch 223–230 — the decision is taken in her own head on the twenty-second and the word is not said and the price is not said.** The standing is not explained and the refusal is not run again. **Merit: none. Nothing in ch 223–230 kills anything or clears a listed trial and the channel does not come back.** **He does not grow back and he is quieter at the end of this half than at the start.**
 - **The year of non-forgiveness was touched once, at low volume, at ch 230** — she goes on using him on purpose, in the plainest terms, **and it is not forgiveness and the account still carries.** She does not forgive him and she does not tell him to stop.
 - **The course is closed against her and stays closed.** Cui Bao came out past the wire once, on the fourteenth, in the afternoon, and said the whole of it: **the referral was correct, he acted on it, he would do it again on Friday, and he heard her stage go on the thirteenth and wrote none of it down.** Nine men and a girl of nineteen went out on three days of a stretch that is on their board, unpaid, and told her nothing, and she found out from a plank at forty feet.
 - **The sub-contractor is not the course and has become a person.** About forty-five, four columns and a painted mark, and he has now squared his book with three empty dates in it and said, without looking up: *a hole you cannot see is worse than one you can.* **He does not know what she is and does not ask.**
-- **Pei, about sixty, a carrier, NEW MINOR (ch 225).** He is the hand that writes the attendance column and he has carried her sheet three months. **He said the thing about the reason column once, did not say it twice, and did not ask her a question about it, because in a year he does not want to be a man who asked one.** He carries oil and salt and about eleven coppers' worth of trade and **he took the last strip of paper with her name on it out of that reach on the sixteenth and there is no date west on any board after him for the rest of the season.**
+- **Pei, about sixty, a carrier, NEW MINOR (ch 225).** He is the hand that writes the attendance column and he has carried her sheet three months. **He offered her the word once himself, on an earlier round of his, and has not offered it a second time** — in the chapter he says only that the column is not his to fill because it travels down the same road as her hours, and that he will not say it again until he has to write in it; **he did not ask her a question about it, because in a year he does not want to be a man who asked one.** He carries oil and salt and about eleven coppers' worth of trade and **he took the last strip of paper with her name on it out of that reach on the sixteenth and there is no date west on any board after him for the rest of the season.**
 - **The woman at the store between the last stake and the cart turn, NEW MINOR (ch 226).** She has never asked anything. She has thought about the fact that there is a woman coming out of that line without a pot, put the bread down on the other side of the salt, told her to stop standing in the middle of the floor, and did not call it an offer. **Not a thread.**
 - **Wei Ran appears once, at ch 229, and goes off page.** She came past the trestle with one team and a load, said the correct thing — he would not give a better stretch and he would think about it for a day — and offered **twenty coppers to be set down past the cart turn and picked up on the way back**, which is a rate and a road and not a favour. **She then said the true thing about the bad flat in the ordinary voice: she has taken two loads that way in four years and she went round both times, and about half the people who look at ground nobody hires on go.** **Nothing is a romance. Nothing is a thread.**
 - **The bad flat, learned on the page (ch 227).** Three-quarters of a mile, **no mark, no stake and no board at any point on it.** Drift a foot and a bit on the low side all the way, thickest where the work was worst. **No ring anywhere in it** — the low side answers every turn of a boot and does not announce which way it is going, and it does not tell you, which is the danger. **Two men in the ground about four inches deep with a bar laid across them, drift closed over the both of them, and the bar still there.** No board, no name, no wage, no man who stands a stretch on it. **The shortage there was never strength; it is how long a person can be wrong in it and not go in.** She went down into it on one knee on the first of the month and told nobody but the reader.
-- **MEMBER ABSENT is on the sheet for the sixteenth, for the third time, permanent**, in a column of its own, with **a foot and a half of blank paper in the reason column going west for the last time this season.** She did not write the word because the reason column is the column her hours go in. **She was not offered the word a second time by anybody** — the offer that was made once and not made again is the whole construction, and the carrier who is the hand that writes the column **says he will not ask her a question about it, because in a year he does not want to be a man who asked one.**
+- **MEMBER ABSENT is on the sheet for the sixteenth, for the third time, permanent**, in a column of its own, with **a foot and a half of blank paper in the reason column going west for the last time this season.** She did not write the word because the reason column is the column her hours go in, **and she never says the reason aloud — it is given once in narration and not in her mouth.** **The word has been offered twice and no man has offered it a second time** — the decent man at a trestle inside the wire offered it once and did not offer it again, and **Pei offered it once himself on an earlier round of his** and in this scene says only that it is not his to fill because it travels down the same road as her hours; **he does not ask her a question about it, because in a year he does not want to be a man who asked one.**
 - **Two books in two hands and neither carries a run**, and this half of the batch made that worse rather than better: **three empty dates in the sub-contractor's book that are true and are never going to be filled, because a book that keeps hours that were not worked on the stretch it names is a book that lies.**
 - **Five counterfoils in the oilcloth above the Clay Plate** — four in one contractor's mark and **the first one in the world in a different mark, from a man who is not answerable to the man who struck her name out of a book.** A mark nobody checks is worth what the man who makes it is worth, and it goes in a coat and is kept, and **not one of the five can be compared with either book.**
 - **Nothing Volume 3 left open was answered.** The claim stands with its date; Hou Sanliang is not met; what became of the eleven is not raised; the office above this county is not named; the sponsors' second book is lodged nowhere; **Shen Xiu unforgiven and unthanked; the register still reads *reconciled*; the Clay Plate still worn; Ning Wu does not appear.** The ch 150 refusal is not softened, deferred, reopened or regretted in any line, and no line lets her wonder what she would have done. **The Hunter's request is still pending** and the empty space has not been answered in any form.
@@ -188,6 +188,107 @@ coppers, four stubs of paper in an oilcloth, and a licence she has never touched
   refusal is not softened, deferred, reopened or regretted in any line, and no line lets her wonder what she
   would have done. **The year of non-forgiveness was not touched at all in this batch.**
   **She does not forgive him and she does not tell him to stop.**
+
+---
+
+## Volume 4 Batch 0004 first half, review repair (fix phase)
+
+Repaired against `logs/next-0002.review.log` **without restarting the batch, without changing the planned plot,
+and without moving a pinned date.** **No title changed, no chapter order changed, no card rewritten, no stage
+announced earlier or later, no cost, irreversible decision or ending changed. No chapter was rewritten: every
+repair below is a sentence, a date, a distance or a figure inside the prose that was already written.** The
+prose the reviewer passed is untouched. **The four pinned stage days (386, 412, 440, 462) and the pinned
+attendance day (389) stand exactly as they were.** Read this before using any ch 223–230 date, distance or
+figure quoted anywhere else in the state files.
+
+- **1 — The batch's own engine had a date in it that would have collapsed it (ch 223).** The course's book
+  was said to run *"from the fourth of the month before last to the seventeenth of this one"* — which, on the
+  pinned calendar, put hours of the current month (day 390) into a book **whose partner the sub-contractor
+  had been keeping since day 364**, so her hours would have sat in two hands across the same seventeen days
+  and "two books and not one run in either" would have been false. **Now: *to the seventeenth of the month
+  before*, which is day 360** — the day her name was struck, the day `outline/batches/volume-04-batch-0004.md`
+  §The money already pins (*her name was struck out on the seventeenth and the hours to that day stand*),
+  and the day ch 221 and ch 224's Cui Bao already name. The hole between the two books is three days and is
+  true.
+- **2 — The seventh stage was a day late, which moved the base's turn (ch 228, and its echo in ch 229).**
+  Foundation 7 is **pinned to day 412, the ninth**, and the chapter took it *"on the second of the three
+  days"* = day 413. **The stage section has been moved ahead of the working section and retaken on the ninth
+  at the fourth hour**, which also puts it before the two hours she spends working out why the ground is
+  quiet instead of after them; no prose was cut, the night paragraph moved into the first day and reads *the
+  dark of the first night*, and ch 229's *"the second of the three days"* became *the first*. **Twenty-eight
+  days from day 412 is day 440, the suppressed eighth at ch 234**, so ch 230's arithmetic now stands.
+- **3 — Two figures in ch 230 that the next phase would have inherited.** *"The fifth of the next month,
+  which is eighteen days off"* → **thirteen days off** (day 438 is thirteen days after the twenty-second, and
+  it is the day ch 233 is pinned to). The ration line's *"do not last the fortnight that is in front of her"*
+  → **as far as the day that is in front of her**. The error came from `outline/batches/volume-04-batch-0004.md`
+  *Batch midpoint*, which said *eighteen days short of the suppressed eighth* and *ten days past Foundation 7*;
+  the card now reads **fourteen days short and eight days past**. **Neither the card nor any chapter may put
+  ch 233 on a day other than 438–439.**
+- **4 — Ch 225's offered word contradicted the scene it stood in.** The chapter recorded Pei as having
+  offered her the word *in the same paragraph that has him refusing to fill the column*, and said in another
+  paragraph that nobody had offered it a second time. **One construction now runs through all three:** two
+  men, one offer each, never a second time from either — **the decent man at a trestle inside the wire, and
+  Pei himself on an earlier round of his**, which is what his *"I have said that to you before"* means. Her
+  **"Twice."** and his **"Twice."** are the lines that beat depends on and both stand. The state files are
+  corrected to match; `state/current.md` and `state/continuity.md` no longer claim she **said the reason
+  aloud**, which she does not do anywhere in ch 223–230 — the reason is narration, once, and not in her mouth.
+  **That matters because ch 231 is pinned to the price being stated in the ordinary voice, once, and a state
+  file that says she already said a reason aloud in this shape spends the next chapter's construction.**
+- **5 — Ch 225 ran its clock backwards.** Ch 224 closes at the seventh hour of the fourteenth; ch 225 opened
+  with the carrier arriving *on the fourteenth at about the second hour*. **The carrier now comes on the
+  fifteenth** and the sheet is written on the sixteenth, which is what the heading *The Sixteenth* always
+  said. **Ch 225 as written runs 388–393, not 387–393** — recorded below and in the batch summary as a
+  second deliberate deviation from the card's day row. Pei also no longer reads the entry out as *"Member
+  absent"* before the day he writes it, and *two days before* the sixth stage became *three days before*.
+- **6 — Three distances and two objects in one chapter (ch 224, ch 228).** *"There were about two hundred
+  yards of ground between the trestle and where he stopped, and he stopped at the trestle"* cancelled itself;
+  the term is **the wire**, and Cui Bao crosses the two hundred yards and stops at the trestle. **The
+  course is nine hundred yards inside the wire and the wire is two hundred yards from the trestle**, which is
+  the figure the rest of the volume uses, and `state/chapter-summaries.md` no longer says the course is two
+  hundred yards in. The tender's hand is now on **the props the board stands on** (ch 216: *two planks set
+  on end props*) instead of on the sub-contractor's trestle, and in ch 228 the foreman's board **stands at
+  the wire on the course's own ground** and is not called the trestle, which belongs to the sub-contractor
+  past the last stake. Cui Bao's *"the eighth"* is now *the eighth of the month before*, which is day 351 and
+  not day 381.
+- **7 — The money drifted against a wage the book fixes as flat (ch 223, 226, 228).** Five in the morning and
+  five out in the evening and the number does not move. **Ch 228's *about three coppers* is now *about five***,
+  which is also what ch 229 gives for the twelfth, and ch 226's balance sentence now says **five in the
+  morning and five at the bread counter in the evening** instead of reading as five both ways. **The bread is
+  five coppers on every page**: ch 226's *"gave the woman four coppers for it"* is five, and the four coppers
+  in the shop belongs to **the oil**, which is now named as the oil. **Ch 230's *about ten coppers* is
+  correct and was left alone** — it is the fourth hour on the twenty-second, before that day's bread — and
+  the ledger line in `state/continuity.md` has been corrected to the true pair of figures instead.
+- **8 — Three backward month references did not reconcile with the calendar.** The tin is gone on **day 268**,
+  which is the fifteenth of a month four months before ch 226 and five before ch 229; **ch 226's *five* is now
+  *four* and ch 229's *five* stands.** **Ch 225's carrier — ch 210, day 286 — is *three months back*, not
+  four.** **Ch 229's *fourth of a month two months back* is *three months back***, which is the month ch 223
+  dates the loss of the order to. **Deliberately left alone:** ch 223's *"the eighteenth of a month two months
+  back"* and the *twenty-six days* that follow it, which do not reconcile to the pinned day 338 and would
+  need a sentence rewritten rather than a figure corrected, and ch 224's unattached *"three months back"*,
+  which names no event.
+- **9 — The ration's own arithmetic did not reconcile, and the state files counted it wrong.** Ch 223 spends a
+  mark on the tenth of the month — that spend is carded, it is on the page, and it is why the count is four
+  marks in ch 228 and ch 230. **Ch 228's *had not spent one of them in five days* and ch 230's *She had not
+  spent one in five days* are now *since the tenth of the month before*** (day 383 to day 412 is twenty-nine
+  days, not five), **and ch 230's *she has not added to it since the tenth of a month that is now four
+  months back* is gone** — the last spend before the twenty-second is the tenth of the month before, and the
+  four marks have not moved since. **There are two ration spends in ch 223–230, not one:** ch 223, which
+  bought nothing at all, and ch 230, which bought four sentences. Corrected in `state/continuity.md`,
+  `state/current.md`, `state/open-threads.md`, the batch summary and the next phase's prompt.
+- **10 — State files that had silently corrected their own chapters (finding 8 of the review).** Corrected:
+  `state/chapter-summaries.md` **five feet → two feet** (ch 223), **two hundred → nine hundred yards**
+  (ch 224), **ten coppers → about five** and **the fourth stage's cost → the sixth stage's cost** (ch 225),
+  **the second of the three days → the first** and **the board's location** (ch 228), **three months → two
+  months back** (ch 230). Corrected in `state/continuity.md` and `state/current.md`: the offered-word
+  construction, the reason-not-spoken, the money ledger and the ch 225 day span. Corrected in
+  `workspace/continuation/next-0003/PROMPT.md`: **eighteen days → thirteen days off**, so the next phase
+  cannot inherit it.
+- **11 — A ten-word overcount, and the figures that carried it.** The half was recorded at 15,884 words. Body
+  prose excluding `#` and `##` heading lines is **15,906 over eight chapters, average ~1,988** — longest ch 228
+  at 2,244, shortest ch 225 at 1,672, **still one chapter under the 1,800 guide (225)**, forty-nine section
+  headings, longest paragraph 113 words. Corrected in `state/book-metadata.md`,
+  `state/chapter-summaries.md`, `state/open-threads.md`, `state/current.md` and the batch summary. **Nothing
+  else about the batch changed.**
 
 ---
 

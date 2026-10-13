@@ -10,9 +10,9 @@ Ten days is fifty coppers of work and she had about ten coppers in her hand on t
 
 That is the whole arithmetic and it is the only one that has to be done, and she did it on the first of the ten days and then she stopped doing it, because a woman who stands at a bread counter working out whether she can eat is a woman who has started counting and counting does not stop.
 
-She had five coppers in the morning and five coppers in the evening and the number was the same.
+Five coppers in the morning and five coppers at the bread counter in the evening, and the number in her hand was the same both times.
 
-There was a tin behind a board in a corner of a wash house nine days west with about a hundred and forty coppers in it, and it had been gone since the evening of a day in a month that is five months back, and there was not one thing in the world to go back to.
+There was a tin behind a board in a corner of a wash house nine days west with about a hundred and forty coppers in it, and it had been gone since the evening of a day in a month that is four months back, and there was not one thing in the world to go back to.
 
 ## Oil And Salt
 
@@ -22,7 +22,7 @@ The woman behind the counter had a name on a board and Ning Yan read it about ni
 
 “I am.”
 
-“That is four coppers and it will go further if you do not cook it. You cook it, it goes in a pot and the pot is the pot, and there is no pot out here that is not somebody's.”
+“The oil is four coppers and it will go further if you do not cook it. You cook it, it goes in a pot and the pot is the pot, and there is no pot out here that is not somebody's.”
 
 “I do not have a pot.”
 
@@ -42,7 +42,7 @@ The woman behind the counter had a name on a board and Ning Yan read it about ni
 
 “You have not eaten since the fourth hour and you are going to eat now, and you can do that here, because people eat in a store all day and I have stopped counting them.” She put her elbow on the shelf. “That is not an offer. That is a woman telling you to stop standing in the middle of my floor.”
 
-She ate the bread on the step outside with her back to the wind, which is where she has eaten it for two months, and it was better than it had any right to be, and she gave the woman four coppers for it and the woman took four.
+She ate the bread on the step outside with her back to the wind, which is where she has eaten it for two months, and it was better than it had any right to be, and she gave the woman five coppers for it and the woman took five.
 
 That was the whole of it. Forty seconds and a shelf, and a thing about a pot that was not asked about and was not a kindness, and she has not mentioned it since and neither has the woman.
 

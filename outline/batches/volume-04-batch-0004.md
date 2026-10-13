@@ -347,7 +347,7 @@ facts, Volume 4 Batch 0003 (ch 209–222)*** and ***Volume 4 running ledger — 
 
 **She decides to spend the one instrument she has not spent, and the spending is for a crossing and not for a stage.**
 
-Ch 230 sits at days 420–426, the 17th–23rd, ten days past Foundation 7 and eighteen days short of the suppressed
+Ch 230 sits at days 420–426, the 17th–23rd, eight days past Foundation 7 and fourteen days short of the suppressed
 eighth, with two books holding her name and neither carrying a run, about ten coppers turning over in bread, and
 the blind run still unentered. The sub-contractor's mark is in his book in order with dates and the course's book
 holds her hours to the seventeenth and nothing after. She has been working a stretch that is somebody's job and the

@@ -88,13 +88,13 @@ She did not go.
 
 ## The Seventh Stage In The Body
 
-The seventh came on the second of the three days she spent on ground nobody records and it is in her body now the way the sixth is and the fifth is, and it is three things.
+The seventh came on the first of the three days she spent on ground nobody records and it is in her body now the way the sixth is and the fifth is, and it is three things.
 
 She is heavy. There is a base under her that a body carries instead of a spine and it is colder than the sixth and colder than the fifth and it is the coldest thing about her, and she is cold at a fire and out of it and cold in a hut with three boards in it, and it is not weather and it will not be weather.
 
 She is strong in a way that has stopped being useful. The two feet of it up in one movement, the four turns of a bar without shifting her feet — a man at the trestle watched her do it on the fifteenth and said one word about it and went back to his pot, and the word was not a compliment, it was the word a man uses when he is looking at something he does not have to do.
 
-And her left hand has got eleven holds in it that hold to the end of a stroke, out of about sixty she has tried since the fourth of a month two months back, and she loses two or three in a week and writes the ones that hold on the back of a dead weight ticket with the flat of a second finger at eleven minutes a line.
+And her left hand has got eleven holds in it that hold to the end of a stroke, out of about sixty she has tried since the fourth of a month three months back, and she loses two or three in a week and writes the ones that hold on the back of a dead weight ticket with the flat of a second finger at eleven minutes a line.
 
 She is eighteen years old and she is the best body on nine days of road and she is the slowest hand on the one stretch she is allowed to work, and both of those have been true for six weeks and this week is the first one where she has been able to hold both of them at once without something in her closing up.
 

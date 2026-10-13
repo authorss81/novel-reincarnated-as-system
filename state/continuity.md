@@ -1941,10 +1941,16 @@ because the first full attempt at sixteen chapters returned without writing anyt
 
 **Ch 223 opens at day 377, the fourth of a month, and ch 230 ends at day 426, the twenty-third.** Both
 reconcile against `((day − 134) mod 30) + 1` and against **day − 373 across days 374 to 463.** Chapter
-days as written: **223 = the 4th to the 12th (377–385) · 224 = the 13th (386) · 225 = the 14th to the 20th
-(387–393), with the attendance on the sixteenth (389) · 226 = the 21st to the 30th (394–403) · 227 = the
+days as written: **223 = the 4th to the 12th (377–385) · 224 = the 13th (386) · 225 = the 15th to the 20th
+(388–393), with the attendance on the sixteenth (389) · 226 = the 21st to the 30th (394–403) · 227 = the
 1st to the 8th (404–411) · 228 = the 9th to the 11th (412–414) · 229 = the 12th to the 16th (415–419) ·
 230 = the 17th to the 23rd (420–426).**
+
+**A second deliberate deviation from the card table's day row, recorded here so the continuation does not
+"correct" it back.** The card row gives ch 225 as 387–393, the 14th to the 20th. **Ch 224 closes at the
+seventh hour of the fourteenth, so ch 225 opens on day 388, the fifteenth**, and runs 388–393. Day 387 is
+the one day in the volume with no scene in it and it belongs to ch 224's tail; the attendance day (389) is
+untouched.
 
 **One deliberate deviation from the card file's day table, recorded here so the continuation does not
 "correct" it back.** The card table gives ch 228 as day 412 alone and ch 229 as days 413–419. **Ch 228's
@@ -1983,13 +1989,15 @@ six chapters with none.** The suppression at ch 234 has not been written and wil
   it down, and he would do the whole of it again on Friday.** He does not want her to thank him. **He is
   right and nothing so far in this volume proves him wrong.**
 - **MEMBER ABSENT, the third time (ch 225), on the sixteenth.** **One sentence carries it** and the rest
-  of the chapter is the reason it is blank. **The word was not offered a second time by anybody** — the
-  carrier who is the hand that writes the column says once that it is not his to fill because it travels
-  down the same road as her hours, and says he will not ask her a question about it **because in a year he
-  does not want to be a man who asked one.** **She answers the reason aloud once, in the ordinary voice:
-  the reason column is for hours, and a road put in it is the last thing an office will read about her
-  before it decides what she is.** The sheet goes west on the sixteenth and **there is no date west on any
-  board after that man for the rest of the season.**
+  of the chapter is the reason it is blank. **The word has been offered twice and no man has offered it a
+  second time** — the decent man at a trestle inside the wire offered it once and did not offer it again,
+  and **the carrier Pei offered it once himself, on an earlier round of his**, and in this scene says
+  only that it is not his to fill because it travels down the same road as her hours, and says he will not
+  ask her a question about it **because in a year he does not want to be a man who asked one.** **She does
+  not say the reason aloud at all — it is given in narration once and not in her mouth: the reason column
+  is for hours, and a road put in it is the last thing an office will read about her before it decides
+  what she is.** The sheet goes west on the sixteenth and **there is no date west on any board after that
+  man for the rest of the season.**
 - **The bad flat is described on the ground, as ground and not as a trial (ch 227).** Three-quarters of a
   mile, **no mark, no stake, no board at any point on it.** Drift a foot and a bit on the low side all
   the way. **No ring anywhere in it.** The low side answers every turn of a boot and does not say which
@@ -2023,7 +2031,7 @@ six chapters with none.** The suppression at ch 234 has not been written and wil
 - **The decision (ch 230), taken in her own head and not spoken.** Two books cannot make a run. Hours in
   order with dates do not cross a boundary no county paper crosses. A listed trial is not paid by hours in
   either book. **She decides to hold the Ledger for the crossing and not for a stage, chooses the day —
-  the fifth of the next month, eighteen days off, inside the turn of the base — and says neither the word
+  the fifth of the next month, thirteen days off, inside the turn of the base — and says neither the word
   nor the price.** He is offered the chance and takes it: *"Say it and I hold it as long as you want it
   held."* · *"Not for a stage."* · *"No."* · *"Not today."* · *"You know the day."* **Ledger is not
   ordered in ch 223–230.**
@@ -2098,11 +2106,11 @@ leaks, a chapter number at ch 223 and a batch phrase at ch 225, were both cut be
 | Licence | **Relicensed on the second set of legs, all three outside this county** (clearance 264, seal 265, countersignature 266). **A document she has never touched.** Seven conditions referenced and never re-listed; the claim the seventh and last. The first licence is still rolled in the lining of her coat; the second is still nailed straight above the second bunk, nine days west |
 | In-world date | **Day 426, the twenty-third of a month.** First working season on the line, past the last stake |
 | Hours | **Six coppers a day on the course's ground until the seventeenth of a month two months back, and five coppers a day at a sub-contractor's trestle since the twenty-first of that month.** **Two books, two hands, the hours split, and neither carries a continuous run.** Her name is out of the course's book. **Three empty dates in the sub-contractor's that are true and will stay empty.** **Five counterfoils in the oilcloth, in two marks** |
-| Settlement | **One ration spend in eight chapters (ch 230). No figure of what is left is stated anywhere in ch 223–230.** Four marks on a dead weight ticket, unmoved for months. **Ledger NOT ordered — the decision is taken and the word and the price are both unsaid.** Merit: none. **He does not grow back and he is quieter at the end of this half than at the start** |
+| Settlement | **Two ration spends in eight chapters — ch 223, which bought nothing, and ch 230, which bought *Say it and I hold it as long as you want it held* and three sentences back. No figure of what is left is stated anywhere in ch 223–230.** Four marks on a dead weight ticket, unmoved between the tenth of the month before and the twenty-second. **Ledger NOT ordered — the decision is taken and the word and the price are both unsaid.** Merit: none. **He does not grow back and he is quieter at the end of this half than at the start** |
 | Bounty | 800 jin, standing, unanswered, the seventh and last condition, travelling on the licence. The date is still in the counting room in Lowwater. Hou Sanliang unpaid, patient, never met. **Not raised in ch 223–230** |
 | The referral | Up the stair past every office she has ever stood in front of. **Its answer space still holds a date and the office word *Held*.** The request is pending and **not answered in any form anywhere in ch 223–230** |
 | Crew | **nine men and her; ten sleepers in twelve bunks, nine days west.** Not mentioned in ch 223–230 |
-| Money | **About five coppers in hand at the last page.** Bread bought at a store at five coppers a day. **The tin is gone since the evening of day 268** and never counted again |
+| Money | **About ten coppers in hand at the fourth hour on the last page and about five after the bread counter in the evening.** **Five in the morning and five out in the evening, and the number the same.** Bread bought at a store at five coppers a day. **The tin is gone since the evening of day 268** and never counted again |
 | The course | **Closed against her, lawfully and correctly, and still closed.** Cui Bao said the whole of it once and would do it again. Eleven men and a girl of nineteen stood a stretch for three days for nothing and told her nothing. Nine men idle, the girl idle, the contract smaller, the board with a hole in it. **They are right** |
 | Past the last stake | **A sub-contractor with a book of his own, four columns, a painted mark, five coppers and a place at the fire, who has squared his book with three empty dates in it and does not know what she is.** A carrier, Pei, took the last west-going strip of paper out of the reach on the sixteenth and **no date west follows him.** A store with a woman behind the counter who has not asked. **Wei Ran, one team, offered a road at twenty coppers and off page.** **The bad flat: three-quarters of a mile, unmarked, quiet, a foot and a bit on the low side, two men in it, and she has not been hired onto it** |
 | Register / plate | *reconciled* / worn. **She does not forgive him and she does not tell him to stop.** The year was touched once, at low volume, at ch 230, and did not close |

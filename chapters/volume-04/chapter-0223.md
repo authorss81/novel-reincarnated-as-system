@@ -40,7 +40,7 @@ The hand is not the only cost and it is not the largest one. What the hand does 
 
 She did the arithmetic on the second morning and it came out the same as it had come out on the first.
 
-There are hours in the course's book in a foreman's hand from the fourth of the month before last to the seventeenth of this one, in order, with dates on them, and a wedge of paper in a building at Stony Ford went up a stair out of them, and none of that is touched by anything happening on this ground.
+There are hours in the course's book in a foreman's hand from the fourth of the month before last to the seventeenth of the month before, in order, with dates on them, and a wedge of paper in a building at Stony Ford went up a stair out of them, and none of that is touched by anything happening on this ground.
 
 And there are hours in this man's book from the twenty-first of the month before, in order, with dates on them, and they go into the same reach and the same season and the same nine days of road.
 

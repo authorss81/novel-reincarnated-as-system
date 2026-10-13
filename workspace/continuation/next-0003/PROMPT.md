@@ -36,11 +36,14 @@ still says Foundation the first stage on the front of it.**
   walk it. The shortage there was never strength. She has been inside it on one knee. She has NOT been
   hired onto it and has not put a bar in it.**
 - **Ledger is hers to order and is NOT ordered.** She decided on the twenty-second that she will hold it
-  for the crossing and not for a stage, and chose the day — the fifth of the next month, eighteen days off,
+  for the crossing and not for a stage, and chose the day — the fifth of the next month, thirteen days off,
   inside the turn of the base. **He said *Say it and I hold it as long as you want it held* and she said
   *Not today* and he said *You know the day*. NEITHER THE WORD NOR THE PRICE HAS BEEN SAID.**
 - **The channel has four marks on the back of a dead weight ticket and no figure of what is left is stated
-  anywhere in ch 223–230. Merit: none. Nothing in ch 223–230 kills anything or clears a listed trial.**
+  anywhere in ch 223–230. Two ration spends are on the page in this half — ch 223, which bought nothing,
+  and ch 230, which bought four sentences — and the count has not moved between the tenth of the month
+  before and the twenty-second. Merit: none. Nothing in ch 223–230 kills anything or clears a listed
+  trial.**
 - **The right index finger is WHOLE. It is named nowhere, priced nowhere and foreshadowed nowhere in
   ch 223–230. Do not foreshadow it before ch 235.**
 - **The Hunter is a man in a plain coat at two hundred yards on the twenty-third with his notebook shut
