@@ -2,22 +2,25 @@
 
 ## What this phase is
 
-**You are writing the cards for Volume 4's closing batch: chapters 223–238. Fourteen cards. The output of this
+**You are writing the cards for Volume 4's closing batch: chapters 223–238. Sixteen cards. The output of this
 turn is exactly one file — `outline/batches/volume-04-batch-0004.md` — and no chapter prose at all.**
 
 Volume 4 is **not** complete. Batch 0003 (ch 209–222) is on the page and its record is in
 `workspace/volume-04-batch-0003/SUMMARY.md`. `outline/volume-04.md` is fixed and is **not** being re-planned.
 
 **If `outline/batches/volume-04-batch-0004.md` does not exist when you start**, then this turn is a **planning
-turn** and its single output is that one file — fourteen cards, ch 223–238 — and **no chapter prose at all**. A
+turn** and its single output is that one file — sixteen cards, ch 223–238 — and **no chapter prose at all**. A
 card is a set of instructions, not a scene. Read `outline/volume-04.md` (*Pressure rotation*, Batch 0004;
 *Volume climax*; *Concrete resolution*; *The final chapter image*) and `outline/batches/volume-04-batch-0003.md`
 for the shape the cards take, write the file, and stop. **Do not write both cards and chapters in one call; that
 is the single commonest way a phase returns nothing.**
 
-**If the file does exist, you are drafting.** The drafting phase may not add a requirement, move a day, open a
-bracketed line the cards do not give it, add a fifth stage the table does not pin, cross anything before its card
-says so, or soften anything.
+**If the file does exist, you are drafting.** Write ch 223–238 in prose, in card order, and update every state
+file. The drafting phase may not add a requirement, move a day, open a bracketed line the cards do not give it,
+add a fifth stage the table does not pin, cross anything before its card says so, or soften anything. **Ch 238 is
+the last chapter of Volume 4, so on finishing ch 238 this same phase must write exactly one next-phase prompt:
+`workspace/volume-04-close/PROMPT.md`.** It is the volume close, not another batch, and it is **not** something a
+later phase will pick up for you — create it in this same call as the last chapter, or the volume has no close.
 
 ## Read before you start
 
@@ -32,9 +35,11 @@ full, including the Volume 4 table and the Batch 0003 block**, `state/chapter-su
 
 ## The batch
 
-**Chapters 223–238. Fourteen cards.** The count is not yours to choose: `outline/volume-04.md` *Pressure
+**Chapters 223–238. Sixteen cards.** The count is not yours to choose: `outline/volume-04.md` *Pressure
 rotation* allocates Batch 0004 to ch 223–238, and it is the volume's **last batch**, so **a volume-close phase
-follows this one and this turn may not create it.**
+follows this one and this turn may not create it.** 223 to 238 inclusive is sixteen chapters, the allocation
+table's four rows sum to the volume's sixty, and **no card may be dropped, merged or renumbered to make the
+number come out otherwise.**
 
 **Pressure: crossing and what it costs.** Batch 0001 was ration and silence. Batch 0002 was a road, a counter
 and a wage-book. Batch 0003 was the daily work of tending a line, and the people who live on it won, lawfully,
@@ -47,14 +52,15 @@ against her; the break; **Foundation 6–9**.*
 
 **One correction to the record you are inheriting, already applied.** Batch 0003 was repaired after its review
 (`logs/volume-04-batch-0003.review.log`) and the state files carry the post-repair figures. **Use these and not
-the older ones: 28,568 words, average ~2,041; longest ch 218 (2,425), shortest ch 214 (1,666); below the 1,800
-guide are 212, 214 and 219; ninety section headings at 6.4 a chapter, not 116 at 8.3; longest paragraph 99
-words, not 94.** Two facts moved: **she has rebuilt the order in her hand twice, not four times** (the heel
-went once, three years and a bit ago; she put two years into it; Foundation 4 took it again), and **the course
-crew is eleven men and the girl of nineteen and nobody else** — ch 209 in the first draft drew forty-five men
-out of a group of twelve and it has been repaired. **No calendar month is named anywhere in ch 209–222; that
-batch keeps time by ordinal day of the month only and this one does the same.** All fourteen chapters carry
-quoted speech; five did not in the first draft, and **this batch does not go back to narration about a scene.**
+the older ones: 28,568 words, average ~2,041; longest ch 218 (2,425), shortest ch 214 (1,666); **one** chapter
+under the 1,800 guide, ch 214, and 212 (1,809) and 219 (1,856) sit just above it; ninety section headings at 6.4
+a chapter, not 116 at 8.3; longest paragraph 99 words, not 94.** Two facts moved: **she has rebuilt the order
+in her hand twice, not four times** (the heel went once, three years and a bit ago; she put two years into it;
+Foundation 4 took it again), and **the course crew is eleven men and the girl of nineteen and nobody else** — ch
+209 in the first draft drew forty-five men out of a group of twelve and it has been repaired. **No calendar
+month is named anywhere in ch 209–222; that batch keeps time by ordinal day of the month only and this one does
+the same.** All fourteen chapters of Batch 0003 carry quoted speech; five did not in the first draft, and **this
+batch does not go back to narration about a scene.**
 
 **What is pinned and may not move:** **Foundation 6 at ch 224 (day 386) · Foundation 7 at ch 228 (day 412) ·
 Foundation 8 at ch 234 (day 440, SUPPRESSED at her own order, no bracketed line in the chapter) · Foundation 9
@@ -68,10 +74,14 @@ outline and is not improvised.**
 
 - **Ch 222 is day 376 — the third of a month. Batch 0004 opens at about day 377 and its first pinned day is 386
   (Foundation 6 at ch 224).** Nothing falls between batches.
-- **Month-day = day − 133 on a thirty-day month.** **Day 374 is the first, day 386 is the thirteenth, day 404
-  is the first, day 412 is the ninth, day 430 is the twenty-seventh, day 440 is the seventh, day 462 is the
-  twenty-ninth.** **Derive every month-day from that arithmetic and never from a phrase**, and put the full
-  month-day for every chapter in a day table at the head of the card file.
+- **Months are thirty days and a month begins every thirty days. The month-day of any day is
+  `((day − 134) mod 30) + 1`** — the first of a month was day 134, and the months that matter here begin on days
+  **254 · 284 · 314 · 344 · 374 · 404 · 434**. **The figure 133 was an offset, not a rule: it held only for
+  day 134 to day 163 and it does not hold anywhere in Volume 4.** Every day from 374 to 463 is in one month and
+  reads **day − 373**; day 464 begins the next and reads **day − 463**. **Day 374 is the first, day 386 is the
+  thirteenth, day 404 is the first, day 412 is the ninth, day 430 is the twenty-seventh, day 440 is the seventh,
+  day 462 is the twenty-ninth.** **Derive every month-day from that arithmetic and never from a phrase**, and put
+  the full month-day for every chapter in a day table at the head of the card file.
 - **The attendance falls on day 389, the sixteenth**, thirty days on from day 359, **and it is the last one
   before the volume closes.** Derive it and put the month-day in the day table. **Nothing in ch 223–238 may put
   it right, may soften it, and nothing may convert MEMBER ABSENT into anything.**
@@ -230,8 +240,10 @@ If at the last page she is merely working, the batch has failed.
   the finding at the foot of the card file and carry on.
 - **Do not resolve anything Volume 3 deliberately left open** — the dated entry against the claim, what became
   of the eleven, whether Ning Wu forgives her.
-- **Do not create a prompt for a Volume 4 close batch.** This turn's single output is this one file. The
-  volume-close phase is dispatched by the self-dispatch workflow after Batch 0004 is drafted.
+- **Do not create a Volume 4 close prompt while this turn is the planning turn.** The planning turn's single
+  output is the one card file. **But the drafting turn must create it** — `workspace/volume-04-close/PROMPT.md`,
+  once, after ch 238 is written. Volume 4 ends at ch 238 and a volume close is required; it is not optional and it
+  is not to be skipped on the grounds that the workflow will dispatch one.
 
 ## The card file this turn must produce
 
@@ -251,9 +263,9 @@ If at the last page she is merely working, the batch has failed.
 - **the action and deadline requirement — at least one scene with physical risk and at least one real
   deadline;**
 - **the batch's irreversible decisions, named as hers;**
-- **a chapters-at-a-glance table and the fourteen titles, checked mechanically for uniqueness against all 222
+- **a chapters-at-a-glance table and the sixteen titles, checked mechanically for uniqueness against all 222
   existing chapters and against each other, with no weather, no clock time, no date and no ages;**
-- **fourteen cards**, each with: chapter and POV, location and time with the day, immediate goal, resistance,
+- **sixteen cards**, each with: chapter and POV, location and time with the day, immediate goal, resistance,
   information revealed, action or decision, emotional change, power or resource change, the bracketed line where
   one is pinned, ending type, and next-chapter pull;
 - **a construction budget carried in and out**, naming what Batch 0003 spent so that none of it is reused;
@@ -263,3 +275,15 @@ If at the last page she is merely working, the batch has failed.
 
 Nothing else. **Write the file and stop.** The drafting phase of Batch 0004 reads it and writes ch 223–238 in
 prose.
+
+## After the chapters — the drafting turn only
+
+The cards file already exists, so this branch ends with **sixteen chapters and a closed volume**, and it closes
+with two obligations.
+
+1. **Update `state/`** — `current.md`, `continuity.md`, `open-threads.md`, `chapter-summaries.md`,
+   `book-metadata.md`, and `workspace/volume-04-batch-0004/SUMMARY.md`. Post-repair figures, every one of them
+   measured off the written files and not carried forward from a plan.
+2. **Write exactly one next-phase prompt: `workspace/volume-04-close/PROMPT.md`.** Ch 238 is the last chapter of
+   Volume 4, so this is the close and not a further batch. Create it in this same call as ch 238. Do not create a
+   second one and do not leave it to be picked up later.

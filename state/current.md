@@ -1,6 +1,6 @@
 # Current State
 
-**As of:** Volume 4, Batch 0003 written. **VOLUME 1 CLOSED. VOLUME 2 CLOSED AND AUDITED. VOLUME 3 CLOSED AND AUDITED — CH 1–178 ON THE PAGE. VOLUME 4 OPEN — CH 179–222 ON THE PAGE.**
+**As of:** Volume 4, Batch 0003 written, Batch 0004 planned. **VOLUME 1 CLOSED. VOLUME 2 CLOSED AND AUDITED. VOLUME 3 CLOSED AND AUDITED — CH 1–178 ON THE PAGE. VOLUME 4 OPEN — CH 179–222 ON THE PAGE, CH 223–238 IN CARDS.**
 
 ## How to read this file
 
@@ -19,12 +19,13 @@ This file is **append-only and long, and most of it is history.** You do not nee
 - **This file is never pruned by a writing phase.** If a section is wrong, correct it in place and say
   so in the phase's repair note rather than deleting the record.
 
-- **Volume:** 4 of 16 — **The Wall (ch 179–238)** — outlined in `outline/volume-04.md`, **BATCH 0001 WRITTEN (ch 179–192, 28,608 words over fourteen chapters, average ~2,043) · BATCH 0002 WRITTEN (ch 193–208, 31,941 words over sixteen chapters, average ~1,996) · BATCH 0003 WRITTEN (ch 209–222, 28,068 words over fourteen chapters, average ~2,005)**. Figures are post-review-repair; the tense pass in ch 179–192 netted −3 words and changed no beat, and Batch 0003's tense pass was a line-level repair that changed no beat. Volume 3 (ch 119–178) remains **all four batches written and audited**: Batch 0001 (ch 119–132), 36,809 words over fourteen chapters; Batch 0002 (ch 133–148), 36,742 words over sixteen chapters; Batch 0003 (ch 149–163), 30,958 words over fifteen chapters; Batch 0004 (ch 164–178), 30,505 words over fifteen chapters. **Volume 3 file set: 135,014 words.** All figures are post-audit-repair.
-- **Volume 4 goal**, fixed by `outline/series.md` §9: *In this volume, Ning Yan must break the boundary, or neither of them ever learns what they are.* Batch allocation fixed by `outline/volume-04.md`: **0001 = ch 179–192 (written) · 0002 = ch 193–208 (written) · 0003 = ch 209–222 (written) · 0004 = ch 223–238.**
-- **Chapter written:** **1–222. THE NOVEL RUNS TO CHAPTER 1000; VOLUME 3 IS COMPLETE AND AUDITED; VOLUME 4 IS OPEN THROUGH BATCH 0003.** Nothing of ch 223 onward is drafted.
-- **Next phase:** **Volume 4, Batch 0004 — the drafting phase**, at `workspace/volume-04-batch-0004/PROMPT.md`. **It writes ch 223–238 in prose and it is the crossing.** Batch 0003 walked the line, paid for **Foundation 2 at ch 211 · 3 at ch 214 · 4 at ch 217 · 5 at ch 220**, let **the line's own people close their course against her lawfully and correctly and pay for it themselves** (ch 218–220), and left her holding **a fact about the drift that eleven men could not work out and that she can never prove and has told nobody** (ch 213). **Batch 0004 owns the blind run, the listed trial, the channel restored, the right index finger, the announcement past the line, and the break.**
+- **Volume:** 4 of 16 — **The Wall (ch 179–238)** — outlined in `outline/volume-04.md`, **BATCH 0001 WRITTEN (ch 179–192, 28,608 words over fourteen chapters, average ~2,043) · BATCH 0002 WRITTEN (ch 193–208, 31,941 words over sixteen chapters, average ~1,996) · BATCH 0003 WRITTEN (ch 209–222, 28,568 words over fourteen chapters, average ~2,041)**. Figures are post-review-repair; the tense pass in ch 179–192 netted −3 words and changed no beat, and Batch 0003's tense pass was a line-level repair that changed no beat. Volume 3 (ch 119–178) remains **all four batches written and audited**: Batch 0001 (ch 119–132), 36,809 words over fourteen chapters; Batch 0002 (ch 133–148), 36,742 words over sixteen chapters; Batch 0003 (ch 149–163), 30,958 words over fifteen chapters; Batch 0004 (ch 164–178), 30,505 words over fifteen chapters. **Volume 3 file set: 135,014 words.** All figures are post-audit-repair.
+- **Volume 4 goal**, fixed by `outline/series.md` §9: *In this volume, Ning Yan must break the boundary, or neither of them ever learns what they are.* Batch allocation fixed by `outline/volume-04.md`: **0001 = ch 179–192 (written) · 0002 = ch 193–208 (written) · 0003 = ch 209–222 (written) · 0004 = ch 223–238 — sixteen chapters.** The allocation table's four rows sum to the volume's sixty.
+- **Chapter written:** **1–222. THE NOVEL RUNS TO CHAPTER 1000; VOLUME 3 IS COMPLETE AND AUDITED; VOLUME 4 IS OPEN THROUGH BATCH 0003.** **Sixteen cards exist for ch 223–238 at `outline/batches/volume-04-batch-0004.md` and no prose is drafted.**
+- **Next phase:** **Volume 4, Batch 0004 — the drafting phase**, at `workspace/volume-04-batch-0004/PROMPT.md`. **It writes ch 223–238 in prose — sixteen chapters — and it is the crossing.** Batch 0003 walked the line, paid for **Foundation 2 at ch 211 · 3 at ch 214 · 4 at ch 217 · 5 at ch 220**, let **the line's own people close their course against her lawfully and correctly and pay for it themselves** (ch 218–220), and left her holding **a fact about the drift that eleven men could not work out and that she can never prove and has told nobody** (ch 213). **Batch 0004 owns the blind run, the listed trial, the channel restored, the right index finger, the announcement past the line, and the break. Ch 238 is the last chapter of the volume, so the drafting phase must also write `workspace/volume-04-close/PROMPT.md` in the same call.**
 - **Point of view:** close third on Ning Yan; every line Yuan speaks is written in the present tense.
-- **In-world date:** **day 376** of the run's own clock — the first working season on the line, month-day = day − 133 on a thirty-day month. The season's road shut on day 117 and reopened on day 254. **Day 0 is the last day of the thaw** (canon change 30). **Day 284, day 314 and day 344 were the firsts of three months; day 299, day 329 and day 359 were the four monthly attendances and all three fell inside Batch 0003 — day 299 is a scene (ch 212) and the other two are one sentence each.**
+- **In-world date:** **day 376** of the run's own clock — the first working season on the line, **the third of a month.** The season's road shut on day 117 and reopened on day 254. **Day 0 is the last day of the thaw** (canon change 30). **Day 284, day 314 and day 344 were the firsts of three months; day 299, day 329 and day 359 were the four monthly attendances and all three fell inside Batch 0003 — day 299 is a scene (ch 212) and the other two are one sentence each.**
+- **The month rule, corrected at the Batch 0004 review.** Months are thirty days and a month begins every thirty days, **so the month-day of any day is `((day − 134) mod 30) + 1`.** Day 134 was the first of a month. **The old line in this file said `month-day = day − 133`; that was an offset that held only for day 134 to day 163, it is Volume 3's figure, and it is wrong everywhere in Volume 4.** Under the correct rule **day 376 is the third**, which is what `chapter-0222.md` says on the page, and **every attendance in the run reconciles** — day 147 the fourteenth, day 178 the fifteenth, day 209 the sixteenth, day 239 the sixteenth, day 299, 329, 359 and 389 all the sixteenth. The months Batch 0004 lands in begin on days 254 · 284 · 314 · 344 · 374 · 404 · 434, so **days 374 to 463 read day − 373 and day 464 begins the next month and reads day − 463.** The historical Volume 3 audit blocks further down this file keep their own `day − 133` wording; those blocks are superseded records of a past decision and are not re-dated.
 
 **What the close audit confirmed, in one place.** `outline/volume-03.md` has been walked line by line against
 ch 119–178 and **all thirteen named items PASS**; **nine faults in the chapters were found and repaired**,
@@ -160,6 +161,73 @@ coppers, four stubs of paper in an oilcloth, and a licence she has never touched
 
 ---
 
+## Volume 4 Batch 0004 planning review repair (fix phase)
+
+Repaired against `logs/volume-04-batch-0004.review.log` **without restarting the phase and without changing the
+planned plot.** **No card was rewritten, no card was added, dropped, merged or renumbered, no day moved, no
+stage moved, no cost, irreversible decision or ending touched.** Batch 0004 is still a planning turn: **sixteen
+cards exist and no chapter is drafted.** Every fix below is a correction to a *number, a rule or a citation* in
+a planning file. **Read this before using any batch 0004 figure or date quoted anywhere else in the state files.**
+
+- **1 — The chapter count. Batch 0004 is sixteen chapters, not fourteen.** 223–238 inclusive is sixteen, the
+  allocation table in `outline/volume-04.md` *Pressure rotation across the volume* gives **0004 = ch 223–238**,
+  and that table's four rows (14 + 16 + 14 + 16) sum to the volume's sixty. The phase prompt said **fourteen**
+  in five places — *Fourteen cards* twice, *fourteen cards* twice, *fourteen titles* once — and the card file
+  inherited it while writing **sixteen** cards. Corrected in
+  `workspace/volume-04-batch-0004/PROMPT.md` (five places) and in `outline/batches/volume-04-batch-0004.md` (five:
+  the batch goal, *Chapter range*, *Required power changes*, and the two bracket-count lines — **thirteen of the
+  sixteen chapters** carry no bracket, not eleven of fourteen). **Three "fourteen" figures are correct and were
+  deliberately left alone**: Batch 0003's own fourteen chapters (ch 209–222), ch 235's fourteen days on the
+  blind run, and Batch 0003's fourteen chapters carrying quoted speech.
+- **2 — A note at the foot of the card file cited a heading that does not exist.** It attributed a conflicting
+  chapter count to `outline/volume-04.md` ***What changed***. **That section is not in the file.** The claim has
+  been replaced with a true record: the figure came from the phase prompt, sixteen is correct, and the card file
+  now says sixteen throughout.
+- **3 — A stale word count in this file.** Line 22 reported Batch 0003 as **28,068 / ~2,005** while labelling the
+  figures post-review-repair. **Those were the pre-repair numbers**, and they disagreed with
+  `state/book-metadata.md`, `state/continuity.md`, `state/chapter-summaries.md`, `state/open-threads.md` and the
+  phase prompt, which all carry **28,568 / ~2,041**. Corrected here. **Recounted off the files to confirm:**
+  body prose only, excluding `#` and `##` heading lines, ch 209–222 = **28,568 words over fourteen chapters,
+  average 2,041, longest 218 (2,425), shortest 214 (1,666)** — exactly the post-repair figures, and the
+  long-paragraph and heading counts of 99 words and 90 also check out.
+- **4 — The calendar arithmetic in this file was wrong and the drafter would have inherited it.** It read
+  *month-day = day − 133*. **It is now the rule and not an offset: months are thirty days, a month begins every
+  thirty days, and the month-day of any day is `((day − 134) mod 30) + 1`,** because day 134 was the first of a
+  month. **133 held only for day 134 to day 163 and holds nowhere in Volume 4.** **Verified against every date on
+  the page**: day 136 (ch 150) the third · day 147 the fourteenth · day 178 the fifteenth · **day 376 (ch 222)
+  the third** · day 386 the thirteenth · day 389 the sixteenth · day 404 the first · day 412 the ninth · day 462
+  the twenty-ninth · day 470 the seventh, and **all twenty-nine rows of the card file's day table reconcile**.
+  Corrected in `state/current.md`, `state/open-threads.md`, `outline/batches/volume-04-batch-0004.md` (clock block
+  and the day-table note) and `workspace/volume-04-batch-0004/PROMPT.md`. **Five more instances stood in
+  `state/continuity.md`**, in the *Established facts* blocks for Batches 0001, 0002 and 0003 — the standing canon
+  record the Batch 0004 drafting phase is told to read for canon, so the wrong label was corrected in all five,
+  and **every derived date in them was checked and every one is already correct**: day 147 the fourteenth, day 178
+  the fifteenth, day 239 the sixteenth, day 254 the first, day 281 the 28th, day 283 the 30th, day 284 the first,
+  day 212 the nineteenth, day 213 the twentieth. **One of them also carried a broken derivation and is now fixed:
+  the ch 239 line read *239 − 133 = 106, and 106 leaves 16 over three whole months*; the subtraction and the 106
+  were wrong and day 239 is the sixteenth directly.** **Deliberately not changed:** the same label still stands
+  in the three closed batches' own card files (`outline/batches/volume-04-batch-0001/0002/0003.md`) and in this
+  file's historical Volume 3 audit table. Their derived dates are correct, they are closed artifacts, and Batch
+  0004 is pinned by its own card file, which carries the correct rule — **reopening closed batches to relabel a
+  formula would cost more than it is worth, and a drafter is not sent to those files for facts.**
+- **5 — One figure found while applying the fixes and corrected here.** `state/book-metadata.md` and the phase
+  prompt said **three** chapters of Batch 0003 sat below the 1,800 word guide. **One does: ch 214 at 1,666.**
+  Ch 212 (1,809) and ch 219 (1,856) clear the guide. Both files now say so.
+- **6 — Two items the reviewer logged as decisions and NOT repairs, now carried to the volume close.**
+  **The point of view**, and **the close phase**. Neither is touched by this repair and **nothing in ch 223–238
+  may settle either.** `outline/series.md` §2 names **Yuan, male**, as the protagonist and the metadata records
+  Gender: Male, so the male-led requirement holds at series level, but **Volume 4 is close third on Ning Yan and
+  Yuan has been a voice only, and absent from the page's point of view, for two volumes of sixteen.** That is
+  defensible on the series outline's own terms and it is **the open question of the close**. And **ch 238 is the
+  last chapter of Volume 4, so a volume-close phase is required**: the prompt's planning branch does not create
+  it and **its drafting branch now creates `workspace/volume-04-close/PROMPT.md` in the same call as ch 238.**
+  Both are recorded in `state/open-threads.md` under *Volume 4 Batch 0004 (ch 223–238) — PLANNED*.
+- **Nothing was found wrong with the chapters.** The reviewer's mechanical pass over ch 209–222 was clean on
+  banned constructions, chapter markdown, bracket formatting and title uniqueness, and it found the Batch 0003
+  repair itself good. **No chapter was edited by this phase and none may be.**
+
+---
+
 ## Volume 4 Batch 0003 review repair (fix phase)
 
 Repaired against `logs/volume-04-batch-0003.review.log` **without restarting the batch and without changing the
@@ -192,8 +260,9 @@ earlier or later, no cost, no irreversible decision and no ending changed. **Rea
 - **Section-heading density reduced**: twenty-six argument labels deleted, **116 headings down to 90, 8.3 a
   chapter down to 6.4**, against Volume 3's 6.2 and Volume 2's 2.3. Scene divisions all stay.
 - **Corrected figures.** **28,568 words, average ~2,041** (was 28,068 / ~2,005). Longest ch 218 (2,425),
-  shortest **ch 214 (1,666)**. Below the 1,800 guide: **212 (1,809), 214 (1,666), 219 (1,856)**. **Longest
-  paragraph is 99 words (ch 220)** — the summary had said 94 — and none is over 120; median paragraph 31
+  shortest **ch 214 (1,666)**. Below the 1,800 guide: **ch 214 only (1,666)** — 212 (1,809) and 219 (1,856)
+  clear it by nine and fifty-six words and an earlier draft of this line wrongly listed all three as below.
+  **Longest paragraph is 99 words (ch 220)** — the summary had said 94 — and none is over 120; median paragraph 31
   words.
 - **Known trade-off, stated rather than hidden.** The batch-level monotony the reviewer also logged — *"That
   is"* opening 86 sentences in 1,146, against *"She had"* 61 and *"It is"* 50 — was **not** swept across all

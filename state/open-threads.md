@@ -40,15 +40,21 @@ nothing in that block before the thread's own volume.**
 **The clock:** day 0 = the last day of the thaw. Ch 132 = day 39 · ch 148 = about day 130 · ch 163 = about
 day 184 · ch 178 = day 219 · **ch 179 = day 220 · ch 192 = day 253**. The season's road **shut on day 117
 and reopens on day 254**, per a sealed county notice on the public shelf by the door — *or later, and not
-earlier* — and the thaw is on about the same day and **was eleven days off at day 243**. **Month-day =
-day − 133** on a thirty-day month (ch 150: day 136 is the third of the month); the monthly attendances are
+earlier* — and the thaw is on about the same day and **was eleven days off at day 243**. **Months are thirty
+days and a month begins every thirty days, so month-day = `((day − 134) mod 30) + 1` and day 134 was the first of
+a month** (ch 150: day 136 is the third of the month; ch 222: day 376 is the third of a month, as it must be
+eight months on). **This block used to read *month-day = day − 133*; that was an offset that held only for day
+134 to day 163 and it is wrong for Volume 4, where every month-day is day − 373 across days 374 to 463 and day
+− 463 from day 464.** The monthly attendances are
 **day 147 the fourteenth, day 178 the fifteenth, day 209 the sixteenth, day 239 the sixteenth** — thirty
 days from the third, the drift ending. Volume 3 ran **day 2 to day 219**; **Volume 4 Batch 0001 ran day 220
 to day 253**; **Batch 0002 ran day 254 to day 280**; **Batch 0003 ran day 281 to day 376**, and ch 223 onward
 is Batch 0004. **In Batch 0003 the attendances fell on day 299, day 329 and day 359 — all three the
 sixteenth, thirty days apart — and day 284, day 314 and day 344 were the firsts of three months.** **The four
 stages in Batch 0003 fell on day 296, day 316, day 338 and day 360, at intervals of twenty, twenty,
-twenty-two and twenty-two days.** Batch 0004's first pinned day is **386 (Foundation 6 at ch 224)**.
+twenty-two and twenty-two days.** Batch 0004's first pinned day is **386 (Foundation 6 at ch 224)**, the
+thirteenth of the month that began on day 374, and **Batch 0004's attendance is day 389, the sixteenth, thirty
+days on from day 359 and the last one before the volume closes.** Batch 0004 is **sixteen** chapters, ch 223–238.
 
 ## Volume 4 Batch 0002 (ch 193–208) — what this batch added, closed by Batch 0003
 
@@ -116,6 +122,26 @@ Ma Sheng, the girl of nineteen and eleven men won their own win at ch 218 and pa
   buy nothing.** **Ledger not ordered; the standing was used once at ch 216 in one sentence of narration, with
   no dialogue, no price and nobody told.** **The named permanent cost of Foundation — the right index finger —
   is not named, priced or foreshadowed anywhere in this batch.**
+
+## Volume 4 Batch 0004 (ch 223–238) — PLANNED, cards written, no chapter drafted
+
+**`outline/batches/volume-04-batch-0004.md` holds sixteen cards and there is no prose yet.** Batch 0004 is
+**sixteen chapters**, not fourteen, and the allocation table in `outline/volume-04.md` *Pressure rotation across
+the volume* is the authority. Two things the Batch 0004 review raised are **not** repairs and are **not** settled
+by this file. They are carried here so that the **Volume 4 close** owns them.
+
+- **THE POINT OF VIEW IS THE OPEN QUESTION OF THE CLOSE — Yuan has been off-panel for two volumes of sixteen.**
+  `outline/series.md` §2 names the protagonist as **Yuan, male**, and `state/book-metadata.md` records
+  **Gender: Male**, so the male-led requirement is met at series level. **Volume 4's close third is on Ning Yan
+  and ch 179–238 is hers throughout.** `outline/series.md` §136–137 frames her deliberately as *the door* and as
+  *his engine*, and **Yuan is present in Volume 4 as a voice only** — present-tense speech, rationed, and
+  silent about the office above this county until ch 236. **Nothing may be written in ch 223–238 to settle this,
+  and the drafting phase may not re-frame him.** It is a decision for `workspace/volume-04-close/PROMPT.md`, and
+  that prompt must state in writing what the volume did with the book's protagonist before Volume 5 opens.
+- **The volume-close phase is required and may not be skipped.** Ch 238 is the last chapter of Volume 4.
+  `workspace/volume-04-batch-0004/PROMPT.md` now carries the instruction in both branches: **the planning turn
+  does not create the close prompt, and the drafting turn creates `workspace/volume-04-close/PROMPT.md` in the
+  same call as ch 238.** A Volume 4 close is not a further batch and Volume 5 does not begin without one.
 
 ## Volume 3 — the two structural questions
 

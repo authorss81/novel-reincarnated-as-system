@@ -987,7 +987,9 @@ Fifteen chapters, **30,508 words**, average ~2,034. **Day 0 is the last day of t
 176 = 215 · 177 = 217 · 178 = 219.
 
 **The month-day table, fixed at review and canon.** Ch 150 puts day 136 at **the third of the month**, so
-**month-day = day − 133** on a thirty-day month. The three monthly attendances are **day 147, day 178 and
+**months run thirty days from a first at day 134 and month-day = `((day − 134) mod 30) + 1`.** (This block used
+to read *month-day = day − 133*, which is an offset true only for day 134 to day 163; every date stated below is
+correct under the rule above.) The three monthly attendances are **day 147, day 178 and
 day 209 = the sixteenth**; **the winter return is read at the second hour on day 212 = the nineteenth**;
 the petition is filed day 213 = the twentieth; the crate goes up the twentieth; the district's slip comes
 down two days after; nine men read the schedule in the Hall on **the twenty-second**. Ch 164 and ch 165
@@ -1411,9 +1413,10 @@ day 246 and the gap before the road at eight days; the draft carries the arithme
 month table, which gives **the end of this month and seven days**. Same shape, one day out, and **seven days
 is the figure on the page.** Everything else in the plan was drafted as written.
 
-- **The fourth monthly attendance is day 239, and she attends it.** Month-day = day − 133 on a
-  thirty-day month, so 239 − 133 = 106, and 106 leaves **16** over three whole months — **the sixteenth**,
-  at the third hour, in person, in her own hand. **Derive it that way and not from 106 itself.**
+- **The fourth monthly attendance is day 239, and she attends it.** Month-day = `((day − 134) mod 30) + 1` on a
+  thirty-day month, and 239 is **the sixteenth**, at the third hour, in person, in her own hand. **Derive it that
+  way and not from any leftover count.** (This line once read *239 − 133 = 106, and 106 leaves 16 over three whole
+  months*; the subtraction and the 106 were wrong and the month-day is the sixteenth directly.)
 - **Why thirty days and not the thirty-one the first three ran at — a drift that ends here, recorded so
   nobody "corrects" it.** The three attendances Volume 3 put on the page are **day 147, day 178 and day
   209**, thirty-one days apart, which on this formula walks them **the fourteenth, the fifteenth and the
@@ -1445,7 +1448,7 @@ and none of Volume 2's confinement is rebuilt in it.
 ### The clock, as drafted
 
 - **Day 0 is the last day of the thaw. Ch 178 is day 219; ch 179 is day 220; ch 192 ends on day 253; ch 193 is day 254.**
-- **Month-day = day − 133 on a thirty-day month.** The fourth monthly attendance is **day 239, the sixteenth**,
+- **Month-day = `((day − 134) mod 30) + 1` on a thirty-day month.** The fourth monthly attendance is **day 239, the sixteenth**,
   at the third hour, **thirty days** on from the third at day 209 — the first gap between two attendances a
   chapter has been allowed to state. **She attends it.** Missing it is Batch 0002's irreversible decision at
   ch 205 and **nothing in Batch 0001 plants it, foreshadows it or lets her think about it.**
@@ -1671,7 +1674,7 @@ place; the batch was not restarted.**
   Nothing falls between batches. **Foundation 2 at day 296 · 3 at day 316 · 4 at day 338 · 5 at day 360** —
   intervals of twenty, twenty, twenty-two and twenty-two days from the one before, as `outline/volume-04.md`
   gives them.
-- **Month-day = day − 133 on a thirty-day month.** Day 281 is the 28th and day 283 is the 30th; **day 284 is
+- **Month-day = `((day − 134) mod 30) + 1` on a thirty-day month.** Day 281 is the 28th and day 283 is the 30th; **day 284 is
   the first** and day 314 and day 344 are the firsts after that. **The three attendances in this batch are
   day 299, day 329 and day 359 — all the sixteenth, thirty days apart.** Day 299 is the scene at ch 212; the
   day 329 sheet and the day 359 sheet each go west in **one sentence** inside ch 215 and ch 219.
@@ -1927,6 +1930,41 @@ present about forms, offices, counties and classes of person, which is house voi
 
 ---
 
+## Established facts, Volume 4 Batch 0004 (ch 223–238) — PLANNED ONLY. NO CHAPTER DRAFTED
+
+**Nothing in this block is on the page.** It records what sixteen cards at
+`outline/batches/volume-04-batch-0004.md` pin, so that the drafting phase cannot move one. The position this batch
+starts from is the Batch 0003 block above, unchanged. **Batch 0004 is sixteen chapters, not fourteen** — 223–238
+inclusive, per the allocation table in `outline/volume-04.md` *Pressure rotation across the volume*.
+
+- **The clock.** Ch 223 opens at about **day 377** and the batch runs to about **day 470**. **Months are thirty
+  days and the month-day of any day is `((day − 134) mod 30) + 1`**; days 374–463 read day − 373 and day 464
+  begins the next month. **The old figure `day − 133` was Volume 3's offset and is wrong here.** Day 376 is the
+  third, as `chapter-0222.md` says.
+- **The four stages, pinned and unmovable.** **Foundation 6 at ch 224 (day 386, bracket) · Foundation 7 at ch 228
+  (day 412, bracket) · Foundation 8 at ch 234 (day 440, SUPPRESSED at her own order, and its chapter carries no
+  bracketed line at all) · Foundation 9 at ch 237 (day 462, bracket past the line).** Intervals twenty-six,
+  twenty-six, twenty-eight, twenty-two. **Three bracketed lines in sixteen chapters, at 224, 228 and 237, and
+  thirteen chapters carry none.**
+- **The attendance.** **Day 389, the sixteenth**, thirty days on from day 359, **one sentence inside ch 225**, and
+  the last one before the volume closes. MEMBER ABSENT goes with it a third time, permanent, reason column blank.
+- **What the batch closes.** The blind run hired onto and cleared by hand (ch 233–235) · the listed trial cleared
+  and **Merit settling on a finished job** · the channel restored out of it, he intercepts a share and spends it
+  out of her foundation · **the right index finger gone permanently at ch 235 and offered back by nobody** · the
+  announcement past the line at ch 237 · the course closed lawfully against her · the break at ch 238 · the volume's
+  fixed final image. **Nothing kills anybody; Volume 3's kill is spent.**
+- **Ledger.** Held once, briefly, at ch 233, at a price stated before the word, put down when it is over, and hers
+  to order at the last page. The standing is not taught again.
+- **Still unresolved at ch 238 and not to be answered here.** The Hunter's request · the office above this county,
+  which **he reads at ch 236 and no page earlier** · the dated entry against the claim · what became of the eleven
+  · the Scribe, the Anchor and Yuan's origin.
+- **Two items this batch may not settle, carried to the volume close.** **The point of view** — Yuan is a voice
+  only in Volume 4 and ch 179–238 is close third on Ning Yan; see `state/open-threads.md`. And **the volume-close
+  phase itself**, which the drafting phase must write as `workspace/volume-04-close/PROMPT.md` in the same call as
+  ch 238.
+
+---
+
 ## Established facts, Volume 4 Batch 0002 (ch 193–208) — HIRING, THE ROAD, AND WHOSE BOOK AN HOUR GOES INTO
 
 **Sixteen chapters, 31,941 words, average ~1,996.** Day **254 to day 280**. Longest ch 199 (2,677), shortest
@@ -1940,7 +1978,7 @@ the attendance (205) and the stage nobody heard (207); the valleys are the camp 
 
 - **Day 0 is the last day of the thaw. Ch 192 is day 253. Ch 193 is day 254 and ch 208 ends on day 280.**
   Ch 207 is **day 276**. Nothing falls between batches.
-- **Month-day = day − 133 on a thirty-day month.** **Day 254 is the first of the month. Day 268 is the
+- **Month-day = `((day − 134) mod 30) + 1` on a thirty-day month.** **Day 254 is the first of the month. Day 268 is the
   fifteenth. Day 269 is the sixteenth** — thirty days on from the sixteenth at day 239. Ch 204 therefore
   happens on **the day before the sixteenth**, which is what the chapter says, and ch 193 happens **on the
   first**. The ch 205 card's "the sixteenth" is on the page and **the sixth is not on the page anywhere.**

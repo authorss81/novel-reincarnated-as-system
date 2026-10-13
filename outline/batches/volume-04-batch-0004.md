@@ -18,7 +18,7 @@ and spent an attendance. Batch 0003 was the daily work of tending a line, and th
 lawfully, correctly, and at their cost. **This one is the crossing.** It is not another walk, not another audit,
 not another document read back at her, and not Batch 0003's tending again.
 
-Four Foundation stages go through her body in fourteen chapters, at the pinned chapters, on the pinned
+Four Foundation stages go through her body in sixteen chapters, at the pinned chapters, on the pinned
 days, each one paid for in a different thing and each cost named once in new words: **what the ear is told
 apart from what the board is owed · three days no book can find · an hour worked that leaves the same width
 of nothing on the far side · a sound heard where nothing is ever announced, paid for out of a hand.**
@@ -80,9 +80,11 @@ trestle in front of her, writing her name in a book, in a country where nothing 
 
 ## Chapter range
 
-**Chapters 223–238. Fourteen cards.** The count is not a choice: it is the volume's own allocation table
-in `outline/volume-04.md` (*Pressure rotation*, Batch 0004 = 223–238). **Four stages are pinned to
-chapters 224, 228, 234 and 237 and cannot move.** What this file decides is the distribution.
+**Chapters 223–238. Sixteen cards.** The count is not a choice: it is the volume's own allocation table
+in `outline/volume-04.md` (*Pressure rotation across the volume*, row 0004 = 223–238), and that table's four rows
+sum to the volume's sixty chapters. **Four stages are pinned to chapters 224, 228, 234 and 237 and cannot
+move.** What this file decides is the distribution. **This batch is sixteen chapters long and every one of them
+has a card.**
 
 **The beats of the arc, and the card each one took.** The arc is fixed in `outline/volume-04.md`,
 *Pressure rotation, Batch 0004*: *the blind run; the trial cleared; the channel restored and the finger gone;
@@ -141,10 +143,14 @@ here is not in the volume.
 **Ch 222 ended on day 376, the third of a month. Ch 223 opens at about day 377 and the first pinned day is 386
 (Foundation 6 at ch 224).** Nothing falls between batches.
 
-- **Month-day = day − 133 on a thirty-day month.** Day 374 is the first, day 386 is the thirteenth, day 404 is
-  the first, day 412 is the ninth, day 430 is the twenty-seventh, day 440 is the seventh, day 462 is the
-  twenty-ninth. Derive every month-day from that arithmetic and never from a phrase. **The full month-day for every
-  chapter is in the day table below and no card may contradict it.**
+- **Months are thirty days and a month begins every thirty days. The month-day of any day is
+  `((day − 134) mod 30) + 1`** — the first of a month was day 134, and the months that matter here begin on days
+  **254 · 284 · 314 · 344 · 374 · 404 · 434**. **The figure 133 was an offset and not a rule: it held only for
+  day 134 to day 163 and it holds nowhere in Volume 4.** Every day from 374 to 463 falls in one month and reads
+  **day − 373**; day 464 begins the next and reads **day − 463**. Day 374 is the first, day 386 is the
+  thirteenth, day 404 is the first, day 412 is the ninth, day 430 is the twenty-seventh, day 440 is the seventh,
+  and day 462 is the twenty-ninth. Derive every month-day from that arithmetic and never from a phrase. **The
+  full month-day for every chapter is in the day table below and no card may contradict it.**
 - **The attendance in this batch is day 389, the sixteenth**, thirty days on from day 359, and it is the last one
   before the volume closes. It is one sentence inside ch 225. Nothing may put it right, soften it, or convert
   MEMBER ABSENT into anything.
@@ -190,7 +196,8 @@ here is not in the volume.
 
 **Month-day is on the right. Reconcile every elapsed figure a drafter writes against this table.** No card
 may put anything before day 377 or after day 470, and no card may move a pinned date. Month-day derived as
-day − 133 on a thirty-day month.
+`((day − 134) mod 30) + 1` on a thirty-day month, which is **day − 373 across days 374–463** and **day − 463 from
+day 464**.
 
 | Ch | Day / days | Month-day | Card | Pinned |
 | --- | --- | --- | --- | --- |
@@ -406,7 +413,7 @@ takes a finger out of her hand while she is still building the base under it.**
 
 ## Required power changes
 
-**Foundation 5 → Foundation 9 across fourteen chapters. Four stages, three brackets, one suppression, and not one
+**Foundation 5 → Foundation 9 across sixteen chapters. Four stages, three brackets, one suppression, and not one
 of the four costs is the same thing. No stage is skipped, no stage is prepared early, and no tribulation is
 drawn in this shape of book.**
 
@@ -417,7 +424,7 @@ drawn in this shape of book.**
 | **Foundation 8** | **234** | **440** | twenty-eight days | **no — SUPPRESSED at her own order, no bracketed line in the chapter at all** | **What the filing records is an hour worked, and the board on the far side of the line records an absence of the same width.** Said once, in new words, at ch 234; felt at 234 and once more at 235 and not again. The suppression arithmetic is not re-run |
 | **Foundation 9** | **237** | **462** | twenty-two days, the last one | **yes** | **The announcement goes past the line.** And the tax that pays for the channel takes the right index finger, permanently, at the blind run (ch 235). Named once at ch 237 for the sound; the finger named once at ch 235 for the body. Neither named again |
 
-**The bracketed layer line — three in fourteen chapters, one at each announced stage, and one only.**
+**The bracketed layer line — three in sixteen chapters, one at each announced stage, and one only.**
 
 - **On its own line, in square brackets, never bold, never italics, never a heading.** It **announces. It
   never explains and it never advises.**
@@ -426,7 +433,7 @@ drawn in this shape of book.**
   — and the same at 228 with *seven*, at 237 with *nine*.
 - **It does not name where she is. It does not say that anything heard it or that nothing heard it. It does not
   say anything about the drift, the board, the noise, the ground, the finger, the channel or the people.**
-- **Eleven of the fourteen chapters carry no bracket at all, and ch 234 carries none by order.** The silence has
+- **Thirteen of the sixteen chapters carry no bracket at all, and ch 234 carries none by order.** The silence has
   a shape and it must not be explained. Eight Foundation announcements went inside the bound and none was heard
   past the line; the ninth goes out where nothing is announced.
 - **Merit: one settlement, at ch 235, on a cleared listed trial.** Nothing kills anything. Nothing else clears
@@ -1331,7 +1338,12 @@ Carried out — none of the above is available in plain form anywhere in ch 223�
   the blind run while the base is one stage short of finished. This file follows the phase prompt and pins the
   taking to **ch 235 (days 441–454)** and the announcement to **ch 237 (day 462)**, with the finger named once at
   235 and not again at 237. Noted, not re-planned.
-- `outline/volume-04.md` *What changed* says sixteen chapters where the allocation is fourteen (ch 223–238). Read
-  as fourteen. Noted, not re-planned.
+- **Corrected on review, not re-planned — the chapter count.** This file was first drafted carrying **fourteen**
+  cards, inherited from the phase prompt, while writing **sixteen** of them. `outline/volume-04.md`
+  *Pressure rotation across the volume*, row 0004, allocates **ch 223–238**, which is sixteen chapters, and the
+  table's four rows sum to the volume's sixty. An earlier note in this file attributed a conflicting figure to a
+  section called *What changed*; **`outline/volume-04.md` has no such heading** and the attribution was void.
+  **Sixteen is correct and every figure in this file now reads sixteen.** Batch 0003's own fourteen chapters
+  (ch 209–222) and ch 235's fourteen days are untouched and still say fourteen.
 - Batch 0003's SUMMARY line *"That is" opening 86 sentences* was left as monotony, not breach, for the next audit.
   This batch does not sweep it and does not add to it on purpose. Noted.
