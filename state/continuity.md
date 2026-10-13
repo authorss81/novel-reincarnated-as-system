@@ -3303,6 +3303,229 @@ Both inside pinned items, changing no day, no stage, no title and no ending.
 
 ---
 
+## Established facts, Volume 5 Batch 0004 (ch 284–298) — ASH AND LEAVING (DRAFTED)
+
+**Fifteen chapters, day 581 to day 622. 27,087 words of body prose, average ~1,805 — the `#` title line and
+every `##` section heading excluded, by the method the Volume 5 Batch 0001–0003 records use. None under the
+1,300 floor; none above the 2,700 guide. ONE bracketed layer line in fifteen chapters, at ch 292, and
+Volume 5's bracket budget of three is now spent: 258, 275, 292. No chapter in Volumes 1–4 was opened and no
+chapter of Volume 5 Batches 0001–0003 was opened. Drafted against `workspace/volume-05-batch-0004/PROMPT.md`
+with no card file; every pinned item in that prompt is on the page. THIS IS THE LAST CHAPTER OF VOLUME 5.**
+
+### The batch in one paragraph
+
+The furnace goes out in the night and the ground under it gives nothing back. She lays the seam herself and
+pays for a course of brick in two days of her own column, because she is not hungry and every copper she earns
+has exactly one use. She reads the far date at the end of her column for the first time — the thirtieth,
+twenty-six days — and works out that the three days before it are fifteen coppers nobody will pay her. The
+reach's last run is a low bank nobody is hired on; she takes it off outside the book and outside the wage, and
+**the face lets go on her in the cut and takes her right arm from a third to half and closes the ramp for
+good.** The season's last stone goes on a cart, merit settles a second time on a listed run and not on a death,
+and he names the price before he moves. **Golden Core 3 at day 600, a pay-day, at her own order in daylight
+where eleven men can see her — and the cost is the first one in five volumes that is not on her body at all:
+she is entered as good in a book the bound cannot read and she cannot be un-entered.** **The claim is answered,
+read out once in a room, drafted west with no date on it, paid into Hou Sanliang's counting room, and the date
+comes off the page by the hand that wrote it — Luo Ping's, a man she bought by name and never met.** He spends
+what she earned and the furnace-man's account is discharged in the only place in the world it can be
+discharged, four hundred yards behind her, and what it costs her is the one thing she cannot name. Her
+brother's decade goes into the same book as a line with no mark on it, and nobody will ever read it. **The
+season ends on the thirtieth, the next pay-day produces nothing, and she shakes the ash off her coat and leaves
+it where it falls.**
+
+### What is established on the page in ch 284–298 and was not canon at ch 283
+
+1. **The furnace went out in the night on the twenty-eighth of a month (day 581)** and the seam opened a
+   finger's width, and **the ground under the ring gave nothing back and has never given anything back.**
+   Sixty-nine days and sixty-nine nights of it went into a hole in a field four hundred yards east of the post.
+   **She has known since the first Foundation and has never said it out loud.**
+2. **She paid for a course of brick in two days out of her own column** (the first and second of a month,
+   days 584–585), laid the top course of the ring **on edge instead of flat**, sixty-one bricks, out of clay
+   dug by hand from the yard's own low bank. **Da asks one question — *Fever?* — and takes the two days into
+   the column and puts no mark against them.** Two gaps now stand in her column in plain ink in front of him.
+3. **The far date at the end of her column is the thirtieth, read on the fourth (day 587) and told to her on
+   the third (day 586) by the man at the plank, who looked up for the first time.** Twenty-six days.
+4. **The twenty-eighth, twenty-ninth and thirtieth of the season's last month are working days that are
+   never paid**, because the next pay-day is the seventh of the next month and by then the season is shut.
+   Fifteen coppers. **This is the batch's money beat and it is arithmetic, not hunger: she has not been
+   hungry since the first Foundation.**
+5. **The office needs her column to have a start and an end and to be true all the way through before it can
+   write the figure out.** Said in the ordinary voice at the counter on the fourth; *on the day is fine*.
+6. **The reach's last run is a low bank at the end of the reach past the cart turn**, four days for a crew,
+   off the ground before the last cart or the season's last run does not count. **Da does not hire on it and
+   says the true reason out loud**, and offers her one thing to report: whether the face is holding.
+7. **She takes it off and it is not in his book and she is not paid for it.** Unbooked, unwaged, unwitnessed.
+8. **THE PHYSICAL RISK, ch 288, days 593–594.** The whole line of an undercut face lets go at once at about the
+   fifth hour with her in the cut to the thigh and the bar under the falling lip. Eleven counts. She gets out
+   on the bar with four fingers and nothing else, and **nobody within a day's walk comes, because nobody is
+   within a day's walk.**
+9. **THE PERMANENT COST: the right arm goes from open a third of the time to open half, and does not go back.**
+   **The ramp is closed and the heavy end is gone for good at that yard.** She builds banks out in lines with
+   a bar's end instead of lifting, which is worth less than lifting and more than nothing.
+10. **The yard rearranges itself around her without a word being said**, and the man from the mill end works a
+    row out to the bar at her pace and then says one true sentence about it and goes to his end.
+11. **Merit settles a second and last time, on a listed far-side run closed and not on a death.** He tells the
+    price before he moves and holds the share for six days.
+12. **The price is the Foundation tax and it is the one cost in five volumes that leaves nothing to point at.**
+    She looks for it for two days and finds the breath, the arm, the finger, the holds, the aperture, the
+    writing hour all exactly as they were. **Not one person alive can tell her how much, including him.**
+13. **Wei Ran, one card, in her own register: eight a load past the cart turn where carts are short, and take
+    it below eight and you are being paid what a two-handed woman is paid for a thing a two-handed woman
+    does.** She does not take it. A rate and a road and an opinion; nothing a romance; off page at the cart turn.
+14. **GOLDEN CORE 3, ch 292, day 600 — the seventeenth of a month, which is a pay-day — forty-four days after
+    Golden Core 2 at day 556, at her own order, in daylight, in the middle of a reach with eleven men two
+    hundred yards behind her who stop work and go back to work and are never told.** One bracket, third of
+    the volume, character for character the pinned text.
+15. **GC3's cost, pinned and on the page: she becomes a person a far-side office will vouch for — entered as
+    good in a book the bound cannot read — and she cannot be un-entered.** It is the first cost in the whole
+    book that is not in her body. In one plain sentence, what it costs one person: **the word good follows her
+    into every room she has not yet stood in, and there is not one thing in her hands that can tell her whether
+    it is true.** She asks to be taken out of it and is told a book does not give a thing back.
+16. **The entry is written and NOT read out** — an entry that answers nothing gets written down, and the
+    seventh condition was read aloud in that room once because it answered something. That difference is the
+    whole distance between an office that can act and an office that can only keep.
+17. **Ch 294, the answer.** Eight days before the thirtieth she goes up and the man behind the counter reads
+    the answer out once in a room with nine men in it: the figure, the run from the second of a month four
+    months back to the thirtieth, twelve gaps entered by the wage-holder and true, the wage-holder entered at
+    the seventeenth as good, **the seventh condition discharged, and the seven conditions are not re-listed**;
+    eight hundred jin payable in Lowwater at the counting room of Hou Sanliang and nowhere else.
+18. **The draft goes west the same day on the carrier's round with no date on it**, because a dated draft is
+    held for a date. **Irreversible: she cannot un-answer it and no county in nine days of road will ever learn
+    that it closed.**
+19. **Ch 295, nine days of waiting, the last pay-day of the season (the eighteenth stub), the three unpaid
+    days, the column closed at the thirtieth, the book into the box at the mill.** Then a hauler, once, by
+    report: **the draft came into Lowwater, took it, paid the figure — eight hundred — and the date came off the
+    page. Not struck out. Off.** **Not a clerk's hand.** A clerk strikes out and writes beside it why.
+20. **The hand that took the date off is the hand that wrote it: Luo Ping, thirty-nine, a wife and a boy of
+    eleven past the county's boundary, a schedule-man, never met, bought once for eight days of a man's life at
+    ch 187. HOU SANLIANG IS PAID AND NEVER MET AND NEVER GOING TO BE MET.** She wanted the eighth question and
+    did not ask it, because a second question is the end of the only road there is.
+21. **Ch 296, the family account, by his doing.** The line he spends the share on appears in the far-side
+    office's own book on the second and is entered by the office in the office's own hand on the third, because
+    an office enters a thing that answers something on its own page. **Its text, in full:**
+    *Balance carried forward, Ning Yan, of Lowwater, against the furnace account of Ning Bo, discharged. Six
+    years carried. No balance standing. Nothing carried against the name.*
+22. **What it does in Lowwater is nothing.** He cannot write in a county and has never held an instrument in
+    one. **The account is closed where it can be closed, and the volume's own line is *Ning Bo's column closed
+    where it can be closed.*** The county's furnace column still reads unsettled, balance carried forward,
+    credit held, and the register still reads *reconciled*, and no county in nine days of road will ever know.
+23. **THE COST SHE CANNOT NAME, stated in the chapter and not named in any state file.** The price is taken
+    and unfindable. What is lost is the floor under every cost she has ever paid: the account had been there
+    since she was eleven, and everything that had ever been taken off her had been taken against it, and the
+    taking had been **a payment and not a robbery**, and there is now nothing left to pay it on, and the last
+    page in the world with her father's name on it is four hundred yards behind her in a country his name never
+    travelled to.
+24. **Ch 297, Ning Wu's decade entered.** She goes to the counter and asks for a line — a name, a county, ten
+    years — and gives it in the order she worked out on a reach: assessed at the Broken Kiln, reassigned above
+    furnace authority, ten years on a carriers' list that is not crew and not floor, kept by somebody whose
+    name the woman who told her did not know, ten years of his own. **The clerk says that is not how a line
+    goes in this book and writes it anyway, in the ordinary hand, with the date in the left margin and no mark
+    on it, and does not read it out. HE DOES NOT APPEAR. HE IS NOT MET. THERE IS NOTHING YET TO FORGIVE.**
+    It is eleven days of road further from him than the list she has never seen.
+25. **The Hunter at nine feet off the track, one card, one true sentence, no question:** *you are a good woman
+    in a book four hundred yards from here, and there is not a page I am allowed to write on, and I would not
+    promise you it would agree with that book.* **She does not thank him and does not tell him to stop and the
+    year carries.**
+26. **Ch 298, the season ends on the thirtieth and the seventh of the next month produces nothing.** No queue,
+    no strip, the book shut at the dark and into the box at the mill. **Eighteen counterfoils in four marks at
+    the last page and no nineteenth.** The column is finished, it is hers, and it stays.
+27. **The ash.** She opens the ring for the last time, spreads the dead ash on the flat stone and looks at it,
+    shakes it off her coat, and **it falls the way ash falls and does not settle and she leaves it where it
+    falls.** The ash of a bound that burned its books to keep a ceiling at nine and the ash of a ring of brick
+    and clay and wire four hundred yards behind her are the same trade, and she has been inside both.
+28. **The first silence that is hers.** Past the last working point, with a furnace of her own that nobody
+    gave her, where nothing is said when it happens.
+29. **Nine days of road behind her, walked twice, never again.** Past the cart turn there is a mill whose wheel
+    has not turned since before she came and ground beyond it that nobody on that reach has a reason to go on.
+    **She stops half a mile short of it, finds she is not afraid of it, and is frightened by that.**
+
+### What this batch spent and what it did not
+
+- **Golden Core 3 taken at ch 292, day 600.** ONE bracketed layer line in fifteen chapters, at ch 292, and
+  none anywhere else. **Volume 5's bracket budget of three is now spent: 258, 275, 292.** No suppression, no
+  absence arithmetic, no tribulation.
+- **Merit settles twice in the volume and neither time on a death** — ch 256 on a listed tending cleared, and
+  ch 290 on the season's last listed run closed. **Nothing in Volume 5 kills anybody.**
+- **The Foundation tax is spent once in this batch and once in Volume 5 Batch 0002**, each time told before
+  spent, and **neither time leaves anything she can point at.**
+- **Yuan: sparse present-tense voice, and he acts twice** — one line in a record an office reads (ch 296) and
+  the willingness to be findable that came out of it at ch 272 and carries. **No figure of what is left of him
+  anywhere in ch 284–298.** The identical *He said one thing that night and it was present tense and it bought
+  nothing* sentence does not appear once in the batch.
+- **Ledger: not ordered, not held as a standing, not priced, not refused — it ended as a standing held stage
+  at ch 272 and what replaces it is his readability, said on the page in his own terms at ch 296.** Say which
+  on the page: **done.**
+- **The right index finger not named, not priced, not counted.** Four fingers' worth of grip used throughout.
+  **Nothing gives it back and nothing offers to.**
+- **The relicensed licence never opened. The register read once at the close (ch 298) and never corrected.
+  The Clay Plate worn against her ribs and described exactly once, as an object nobody has read. MEMBER ABSENT
+  not raised and not softened. What became of the eleven not raised. The ch 150 refusal untouched. The year
+  of non-forgiveness untouched, at low volume, in ch 297. The sponsors' second book nowhere. No second Lung,
+  no second appointment. No office above the Standing Office of the Second Account named or attempted.
+  *Kiln-born* zero. No calendar month, no weekday, no named week.**
+- **The seven relicensing conditions never re-listed; the seventh is named as discharged once, at ch 294, in
+  the reading of the answer.**
+- **The claim ANSWERED at ch 294–295: eight hundred jin, answered in ink, read out once in a room, drafted
+  west, paid into Hou Sanliang's counting room, date off the page by Luo Ping's hand. Hou paid and never met.
+  Luo Ping never met.** No longer a direction.
+- **The Hunter's request is still pending.** The space holds a date and *Held* and the countersignature on
+  her petition in an office's hand, and none of that is an answer. **The line's own people still do not know
+  she exists, and the second line's people knew her hours for a season and now know her name is good.**
+- **Feng never on the page.** No second Lung, no second appointment.
+- **No new final enemy, no named villain, no new names except Luo Ping's name spoken in her own head and the
+  Hunter's, which was already named in Volume 4.** Every institution on this reach is doing the only thing it
+  is built to do and every one of them is right.
+- **Inside the bound: one report, once, at ch 295**, by a hauler at the yard, three facts, no second question.
+  **No scene west of the line anywhere in the batch.**
+
+### Construction budget — Volume 5 Batch 0004 (ch 284–298), spent, not to reuse plain
+
+**Bracketed layer lines: 1 in fifteen chapters, at ch 292**, in the far-side house form, matching the pinned
+text character for character. **The seven relicensing conditions: not re-listed, the seventh named as discharged
+once.** The counterfoil rule used, not taught. *Nobody asked*, *nobody was thanked*, *there is no form*, *there
+is no column*, *the record remained*, *nobody knew*, *nobody said anything*: **zero, all of them** — the two
+that came closest were revoiced into *not one of the eleven said a word* (287) and *a book does not give a
+thing back and there is nothing a person can write that takes a line out of one* (293). **About four seconds:
+zero. Eleven weeks: zero.** *His eyes widened*, *he couldn't believe it*, *suddenly*, *little did he know*:
+**zero.** Authorial scaffolding — *this chapter*, *this volume*, *the reader*, *in this batch*, *another
+batch*: **zero.** Named weekdays: **zero** — one (*It is Tuesday*) was typed into ch 296 and cut before
+saving. Calendar months named: **zero.** Harem or romance: **none; Wei Ran is a rate and a road on one card
+(ch 290).** Speeches closed in all fifteen files, curly throughout, zero straight quotes or apostrophes after
+the sweep. Markdown plain in all fifteen files: no blockquote, no code fence, no table, no horizontal rule.
+**No paragraph over 90 words in any of the fifteen.** Word counts by file are 1,749 · 1,467 · 1,886 · 1,766 ·
+1,516 · 1,780 · 1,735 · 1,576 · 1,607 · 1,736 · 1,900 · 1,904 · 2,081 · 1,788 · 2,596 — **none under the
+1,300 floor and none above the 2,700 guide; total 27,087, average ~1,805, which is the best of Volume 5's four
+batches and the first above the 1,800 guide on average.**
+
+### Two drafting decisions recorded against the prompt
+
+Both inside pinned items, changing no day, no stage, no title and no ending.
+
+1. **The far date is the thirtieth of the month that began on day 584, and the season's last pay-day is the
+   twenty-seventh.** That gives the batch its real deadline (an office that cannot write a figure out until the
+   run has an end on it), its money beat (three working days nobody pays for), and its leaving (a pay-day that
+   arrives with nothing on the book).
+2. **The family account settles in a far-side book and not in a county, and the chapter says so out loud.**
+   The pinned line is *Ning Bo's column closed where it can be closed* and the mechanism has to be honest
+   about what a far-side office can do: it enters the line because it answers something on its own page, and it
+   does nothing in Lowwater, because no instrument in nine days of road reaches a county. **Nothing in the batch
+   corrects the register, and the county's furnace column still reads unsettled.**
+
+### Volume 5 running ledger — at end of ch 298
+
+| Item | Value at end of ch 298 |
+| --- | --- |
+| Her stage | **GOLDEN CORE 3, day 600, the seventeenth of a month, at her own order, in the open, nothing announced.** Bracket third of volume (ch 292), and Volume 5's bracket budget of three is spent. **Cost: she is entered as good in a book the bound cannot read and cannot be un-entered** — the first cost in five volumes that is not on her body. Paper still Foundation the first stage, never opened. Right arm open half; turn gone; 9 of 11 holds |
+| Body | Short breath four; right index gone, four fingers' grip; right arm open a third → **half, permanent, ch 288**; aperture cracked permanent; not hungry; cold like stone; **eighteen** |
+| Employment/hours | **SEASON CLOSED on the thirtieth at the far date in another man's hand.** Pays 7th/17th/27th (590 / 600 / 610); **eighteen stubs in four marks and no nineteenth**; **the twenty-eighth, twenty-ninth and thirtieth of the last month worked and never paid** |
+| The furnace | **Finished and paid for.** The ring laid on edge, sixty-one bricks, two days out of the column; the seam clayed; the course holds; **it has been taken cold once and relit and the ground under it gave nothing back, and it never will** |
+| Settlement | **Merit settled twice in Volume 5** (256, 290), neither time on a death. **Ledger ENDED as a standing held stage at ch 272**; the Foundation tax spent twice (256, 296), each time told before spent; **the ch 296 price is the one nobody can name or measure**. Yuan readable without her, death-day date gone, apology kept; no figure of him |
+| Claim | **ANSWERED.** 800 jin, answered in ink at ch 294, read out once in a room, drafted west with no date, paid into Hou Sanliang's counting room, **date off the page by Luo Ping's hand at ch 295**. **Hou paid and never met; Luo Ping never met** |
+| Family | **Ning Bo's account DISCHARGED at ch 296 in a far-side book, where it can be closed.** **Ning Wu's decade ENTERED at ch 297 as a line with no mark on it in the same book.** Register still *reconciled*, read once, never corrected |
+| Inside | **One report, once, ch 295.** Floor nine men; wash house; tower light; counting room; **the date off the page** |
+| Still open | Hunter request pending; above the Standing Office of the Second Account; *kiln-born*; the eleven; why the register reads *reconciled*; the year carrying; **and everything past the last working point, which she stood half a mile short of at the last page and did not go past** |
+
+---
+
 ## Volume 5 Batch 0001 — REVIEW REPAIR (applied after `logs/next-0004.review.log`)
 
 **Nine defects repaired in the chapters and three in the state files. The planned plot, the fourteen titles,

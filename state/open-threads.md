@@ -12,16 +12,18 @@ moved two sentences in ch 220 and ch 232, made the weekday rule canon, and reope
 Live threads below carry into **Volume 5, *Mortal Ash*, ch 239–298**. The
 full state of each one at the last page of Volume 4 is in `state/continuity.md` under
 ***Established facts, Volume 4 complete (ch 179–238)*** and ***Volume 4 running ledger — at end of ch 238***.
-**VOLUME 5 IS OPEN. Batch 0002 (ch 253–267) IS WRITTEN AND REPAIRED — 25,382 words of body prose over fifteen
-chapters, average ~1,692, day 507 to day 521, ONE bracketed layer line in the batch, at ch 258.** `outline/volume-05.md` is written and is
+**VOLUME 5 IS COMPLETE AT CH 298.** Batches 0001–0003 are written and repaired and Batch 0004 (ch 284–298) is
+written: **27,087 words of body prose over fifteen chapters, average ~1,805**, day 581 to day 622, ONE
+bracketed layer line, at ch 292, and Volume 5's bracket budget of three is spent. `outline/volume-05.md` is written and is
 the authority for Volume 5; `outline/batches/volume-05-batch-0001.md` was the card file it was drafted
 against and every card's beat is on the page. Batch 0002 was drafted against
 `workspace/volume-05-batch-0002/PROMPT.md` with no card file, and every pinned item in that prompt is on the
 page. The full record is in `state/continuity.md` under
 ***Established facts, Volume 5 Batch 0002 (ch 253–267) — DEBT COMING DUE*** and ***Volume 5 running
 ledger — at end of ch 267***.
-**Next to write is the Volume 5 Batch 0003 drafting phase, ch 268–283.** Its prompt is
-`workspace/volume-05-batch-0003/PROMPT.md`.
+**VOLUME 5 IS COMPLETE AT CH 298. Next to write is the Volume 5 close phase**, whose prompt directory does not
+yet exist. **The Volume 5 Batch 0004 drafting prompt was `workspace/volume-05-batch-0004/PROMPT.md` and every
+pinned item in it is on the page.**
 **The blocker recorded here at the Volume 4 close and repeated at the Volume 5 planning close is RESOLVED**:
 `workspace/volume-04-close-record/` and `workspace/volume-05-batch-0001/` both now hold `.done` markers
 written by the controller (commits `88ddc33` and `3e32724`) and neither is deferred. **Do not raise it
@@ -69,7 +71,7 @@ controller alone, so this record does not write one.**
 - **Power: Foundation 9 for all fourteen chapters. Golden Core 1 is ch 258, day 512, Batch 0002.** Merit zero,
   the channel not restored and not measured, Ledger not ordered and not refused.
 
-## Volume 5 Batch 0003 (ch 268–283) — what this batch added, and what is now live going into Batch 0004
+## Volume 5 Batch 0003 (ch 268–283) — what this batch added, closed by Batch 0004
 
 **Sixteen chapters, day 522 to day 580. ONE bracketed layer line, at ch 275.** Pressure: **family paper**.
 
@@ -77,16 +79,49 @@ controller alone, so this record does not write one.**
 | --- | --- | --- | --- |
 | **Authorisation** | Ning Yan | **Vol 5, Batch 0003** | **TAKEN AND CLOSED.** Ch 268, cold: far-side office takes 800-jin claim onto its own book against hours past the line. Leaving now costs the far side |
 | **Return inside** | Ning Yan | **Vol 5, Batch 0003** | **DONE ONCE.** Ch 271 (day 532): attendance stood, paper for Ning Bo placed, walked out. No second inside scene |
-| **Yuan entered** | Yuan | **Vol 5** | **ENTERED (272).** Readable without her; date of death-day gone; apology kept. Ledger as standing held stage ENDED |
+| **Yuan entered** | Yuan | **Vol 5** | **ENTERED (272).** Readable without her; date of death-day gone; apology kept. Ledger as standing held stage ENDED. **Carried into Batch 0004 and used: the readability is what the family account is spent through (296)** |
 | **Golden Core 2** | Ning Yan | **Vol 5, Batch 0003** | **TAKEN AND CLOSED.** Day 556, the third of the month, one bracket. Cost: slowed finger + writing hours cost their hours |
-| **Ning Bo / Ning Wu** | family | **Vol 5, Batch 0004** | **WORKED / REACHABLE.** Settled ch 296 / entered ch 297 — Batch 0004's |
-| **Claim answered** | series | **Vol 5, Batch 0004** | **NOT ANSWERED.** Ch 294–295 are Batch 0004's; Luo Ping's hand tears the date; Hou paid |
+| **Ning Bo / Ning Wu** | family | **Vol 5, Batch 0004** | **CLOSED.** Ning Bo's account discharged in a far-side book at ch 296; Ning Wu's decade entered as a line at ch 297 |
+| **Claim answered** | series | **Vol 5, Batch 0004** | **ANSWERED.** Ch 294–295 |
 
 **Batch 0003 is repaired and its review findings are answered** (see `state/continuity.md`, ***Volume 5 Batch
 0003 — REVIEW REPAIR***). Length floor cleared on all sixteen chapters; day table corrected to the pinned
 Golden Core 2 day 556, which also makes the ch 292 Golden Core 3 interval correct at forty-four days; the
-authorisation, the cost and every other beat unmoved. **Batch 0004 opens on day 581 and must hold the floor
-from ch 284.**
+authorisation, the cost and every other beat unmoved.
+
+## Volume 5 Batch 0004 (ch 284–298) — THE LAST BATCH OF VOLUME 5
+
+**Fifteen chapters, day 581 to day 622. ONE bracketed layer line, at ch 292 — and Volume 5's budget of three
+is spent.** Pressure: **ash and leaving**. Full record in `state/continuity.md` under ***Established facts,
+Volume 5 Batch 0004 (ch 284–298) — ASH AND LEAVING*** and ***Volume 5 running ledger — at end of ch 298***.
+
+| Thread | Owner | Planned resolution | State |
+| --- | --- | --- | --- |
+| **The furnace of her own** | Ning Yan | **Vol 5, Batch 0004** | **FINISHED AND PAID FOR.** The ring laid on edge, sixty-one bricks, two days out of her own column. It went out once in the night and was relit, and the ground under it gave nothing back, and never will. **She has never said that out loud** |
+| **The season** | far side | **Vol 5, Batch 0004** | **CLOSED ON THE THIRTIETH at a far date in another man's hand.** The twenty-eighth, twenty-ninth and thirtieth worked and never paid. **Eighteen counterfoils in four marks and no nineteenth.** She is off the book |
+| **Golden Core 3** | Ning Yan | **Vol 5, Batch 0004** | **TAKEN AND CLOSED.** Day 600, the seventeenth, a pay-day, forty-four days after GC2, at her own order in daylight where eleven men could see. One bracket. **Cost: entered as good in a book the bound cannot read, and she cannot be un-entered** |
+| **The claim** | series | **Vol 5, Batch 0004** | **ANSWERED AND CLOSED.** 800 jin, read out once in a room, drafted west with no date, paid into Hou Sanliang's counting room, **date off the page by Luo Ping's hand, not struck out.** **Hou paid and never met; Luo Ping never met** |
+| **Ning Bo's account** | family | **Vol 5, Batch 0004** | **DISCHARGED WHERE IT CAN BE CLOSED** — a far-side office's own book, ch 296, paid for out of her foundation by his doing, at a cost she cannot name. **It does nothing in Lowwater and the chapter says so out loud** |
+| **Ning Wu's decade** | family | **Vol 5, Batch 0004** | **ENTERED.** A line in the same book: name, county, ten years, ten years of his own, no mark on it, not read out. **Not met. Eleven days of road further from him than a list she has never seen** |
+| **Mortal ash** | series | **Vol 5, Batch 0004** | **PAID.** Ch 298: the mortal books left closed, reconciled where they read reconciled, blank where they go west blank, and the ash shaken off a coat and left where it falls |
+| **Merit, second of two** | Yuan | **Vol 5** | **SETTLED (290)** on the season's last listed run closed, told before spent, **spent at 296 out of her foundation, and the price is the one nobody alive can name or measure.** Nothing in Volume 5 kills anybody |
+
+### Still open at the close of Volume 5, for the Volume 5 close to record and for Volume 6
+
+- **The Hunter's request is still pending.** The space holds a date, *Held*, and the countersignature on her
+  petition in an office's hand; none of it is an answer. A Wall writ is not issued to a field agent. **The
+  line's own people still do not know she exists.**
+- **Everything above the Standing Office of the Second Account is still unread.** Nothing in ch 239–298 goes
+  one notch further and nothing in it tries.
+- ***Kiln-born*** is in two heads and on no paper. Zero across Volume 5.
+- **What became of the eleven** is not raised anywhere in Volume 5.
+- **The register still reads *reconciled***, read once at ch 298, never corrected. **The Clay Plate is still
+  worn against her ribs**, described exactly once and never taken off.
+- **The year of non-forgiveness is still running**, touched at ch 297 at low volume and retired nowhere.
+- **No second Lung and no second appointment.** Feng never on the page in Volume 5 after ch 262.
+- **Wei Ran** appears twice in Volume 5, at ch 253 and ch 290, both as a rate and a road. Nothing a romance.
+- **What is past the last working point**, farmed and lit, with offices above the one office whose name is
+  known — she stood half a mile short of a mill whose wheel has not turned and went no further.
 
 ## Volume 5 Batch 0002 (ch 253–267) — what this batch added, and what is now live going into Batch 0003
 
