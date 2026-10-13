@@ -2,11 +2,13 @@
 
 She rode up with the water cart at dawn on the seventy-ninth day with the household at nine hundred and twelve worked and twenty-eight standing.
 
-The cut held frost in the shadow and the barrier board stood with the captain's line on it, no order, no clerk's name. The Watchman nodded her through on the cart sheet. Old Gao had the barrels loaded and his mark beside hers. Nothing unrecorded. That was the rule she had made after the burial register, and she keeps the rules she makes.
+The cut held frost in the shadow and the barrier board stood with the captain's line on it, no order, no clerk's name. The Watchman nodded her through on the cart sheet. Old Gao had the barrels loaded and his mark beside hers, and the sheet went down with her name on it and came back up with her name on it, which is the whole of what a sheet can be made to do.
+
+She had made that rule herself after the burial register and she kept it the way she kept tallies, by using it.
 
 The quota office anteroom held four benches and the smell of wet wool that does not leave in nine years. She sat second and waited, breathing two counts, with the tithe sheets in her sleeve and four months of hours in Shen Xiu's winter book. The clerk with the broken finger sat at the third table with his own family's sheet, waiting his turn like everyone else. He nodded to her once. Slow writing keeps the book balanced. Both knew it.
 
-“You want this,” said Yuan. “You fear it and you want it.”
+“You want this,” said Yuan. “You have wanted it since the autumn and it is four feet away from you.”
 
 “I want it,” said Ning Yan. “I sit and I wait. You watch the brush and you keep quiet.”
 
@@ -51,6 +53,18 @@ At the door she stopped. There was something to say about the early report, thre
 It took eleven minutes to get to the furnace floor and she spent the whole of it with the clearance in her sleeve.
 
 The floor took her back without ceremony. The shift leader gave her the channel. The foreman had six on the board and six in the hole, name on the line. The clerk at the table four feet from the mouth looked at the signed sheet when she showed it, nodded once, and wrote *cleared* against her line in his slow hand.
+
+Past the settling floor she did not slow down and did not look up, and the new timber with the foreman's charcoal mark on it was four feet over her head and sound, and she walked under it holding a sheet that said her household owed nothing at all.
+
+The sheet covered the hours and the days without hours in them. It covered nothing else that had happened in the winter. Two men were still under the ground at the top of the road and a girl's season was still charged to a household that was not hers, and the claim over her head was exactly where it had been that morning, and not one of those things was arithmetic.
+
+“You are thinking about the two,” said Yuan.
+
+“I am thinking about the difference,” said Ning Yan. “Between the number and the two. The difference is a month of short breath and an arm that comes back eleven minutes and a bed I did not sleep in twice.”
+
+“That is part of the cost.”
+
+“That is the part the book does not keep,” said Ning Yan. “The book keeps hours. I keep the rest, and I keep it in the same hand, and there is a clerk at that table who will never ask me for it because it is not his column.”
 
 The refused slip under the cover with three seals showing stayed where it was. In about nine weeks no clerk would need to find it. The clearance had found it first.
 

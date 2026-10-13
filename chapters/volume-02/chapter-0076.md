@@ -56,26 +56,60 @@ He went up to the barrier and spoke to the Watchman there for two minutes. The W
 
 ## The Letter
 
-She rode the rail down at the tenth hour with her feet braced against the barrels and the whole mountain falling away below her.
-
-The letter in her sleeve was from Du Hong, brought up by the carts two days past. She had read it four times in the quarters and knew it by heart, and she read it again on the boards with the wind taking the edge of the paper, because reading it again was work.
+She gave him the letter at the trestle. It was from Du Hong, brought up by the carts two days past, and she had read it four times in the quarters and knew it by heart, and she read it again standing in the wind with Old Gao's hand on the cart rail, because reading it again was work.
 
 It said the four copies sat behind the fifth item and none had gone upward. It said Feng coughed worse and copied fairly and ate little. It said a man had been to three county desks on the square asking which clerk keeps the copies of the Qinghe advancement, and had paid, and had asked after carriers' papers by name. It said the tower loft had a spare mat and the town had ears, and to come down entered and in daylight or not at all.
 
-She folded it and put it back. The cart went through the cut with the Watchman walking the rail above it, and the barrier board fell behind, and the town came up to meet them with its smoke and its noise and its square full of carts.
+“Paper and carriers and a place to lie down,” said Old Gao, who reads badly and slower. “That is what your letter says. It does not say what you are going down there for.”
 
-Two hundred and eighty-three worked in the winter book. Six hundred and fifty-seven standing. Twenty-seven in her own hand.
+“The only stamp that can make hours into a licence,” said Ning Yan. “That is what I am going down there for.”
 
-She did the numbers on the boards with the barrels knocking against her knees. Two blocks in the week, nine hours, against a household that moved thirty-odd with eleven hands. The tithe did not wait for her to travel. It moved while she rode, and she would have to earn her part of it on the ground.
+“Then go down there for it,” said Old Gao. “The pass is open and my cart is here.”
 
-“You fear it,” said Yuan. “You want the ground and you fear it.”
+“I go down there for it,” she said. “Today I have nothing that can carry it.”
 
-“I fear it,” said Ning Yan. “I want it more. That is why I ride a water cart instead of walking.”
+Old Gao looked at her for a moment too long, the way old men look at a young one who has said something she has not explained, and then he took his hand off the rail.
 
-“You ride it well,” said Yuan. “I see you and I stay with you.”
+“Nine hour at the trestle,” he said. “Any cleared day. You stand there before the barrels go on and I write you on the sheet or I do not. If you are not standing there, the water goes down empty and I say nothing about it to anybody.”
 
-The cart came into the square at the eleventh hour. The county office stood on the far side of it with its shutters open and its queue already forming. The Lantern Register tower stood above the roofs with its lamp unlit at midday. Between them the market ran its noise, and through the noise she saw a man in a good coat standing at a county desk with a coin on the wood, polite and unhurried, paying for records in daylight.
+“I will be standing there.”
 
-She got off the boards with her feet in Lowwater mud for the first time in four months, entered on a sheet, watched, and alive. The Watchman turned the cart and went back up without looking at her again, which was correct. The guard was water. The water was gone.
+She went back up the nine steps with the letter in her sleeve and the wind taking the edge of her coat, and she went down to the furnace floor instead of down the road.
 
-The man in the good coat did not look at her either. He did not need to. She was a body on a square, and a body is the one proof that cannot be bought at a desk.
+## The Arithmetic of It
+
+Two hundred and eighty-three worked in the winter book. Six hundred and fifty-seven standing. Twenty-seven in her own hand, and the next four and a half due on the table at the eighth hour with her own signature on the line.
+
+She did the sum on the steps. It was the sum she had done every day since the burial, and it was the sum that decided everything, and it did not care which road she slept on.
+
+It cared whether she signed. Go down and she signs on a day when the channel has cooled overnight and the wall has to be held by a mouth instead of a hand, or she signs from a square four miles below the pass and pays the day in the cart and the stair both ways. Stay and she signs on the morning after a night on the floor with nine men and a leaking roof.
+
+Two blocks a week. Nine hours. Against a household that moved thirty-odd with eleven hands and a crew short two men. The tithe did not wait for her to travel. It moved while she rode, and it would move while she thought about riding.
+
+“You have bought a road and you are not standing on it,” said Yuan.
+
+“I have a cart and a sheet with room on it for my name,” said Ning Yan. “That is a thing I did not have in the autumn. It keeps.”
+
+“You wait for something.”
+
+“I wait until I can carry what I go down there to carry,” said Ning Yan. “If I go down with a left hand that cannot hold the wall and an hour that will not turn four counts, I am a body in a town with a bounty on it and a clerk with a stamp. A body buys nothing and sells nothing. It only walks about where the desks can see it.”
+
+“You count it now,” said Yuan. “You say it out loud and you keep the count.”
+
+“I count it,” said Ning Yan. “I keep it because it is mine and not because you say so.”
+
+The market smoke lay flat over the road all the way to the town, and the sun came off the snowfields on both sides of the cut until the whole four miles of it shone like water. Somewhere down there a man in a good coat was paying a clerk for the writing, and she would be in that square inside a month with her name on a sheet and her feet on the ground.
+
+She went down to the furnace floor at the seventh hour and held the channel for four hours with her left hand on the rail and signed the block at the eighth with the clerk writing it slow.
+
+At the tenth hour she stood at the trestle with the barrels roped and the sheet folded on the rail and Old Gao waiting with the brush in his hand, and she did not step onto the boards. The Watchman at the bridge looked up the cut at her and she looked back at him, and he left her name off the sheet, because that is what a sheet is.
+
+“The water goes down empty,” said Old Gao.
+
+“The water goes down,” said Ning Yan. “I will be on the next cleared day that I am worth carrying.”
+
+Old Gao put the brush in his coat and did not argue. Old men do not argue with a person who has given them a day and a reason, and he had decided what she was worth some time before she had.
+
+Twenty-seven in her own hand. The cart standing at the trestle with the sheet still folded, the Watch walking the rail, and the road open under both. She had asked for passage instead of a guard, because a guard is a place, and a place can be bought.
+
+What she had not asked for was what to do with it once she had it.

@@ -86,6 +86,6 @@ Three hundred and nineteen. Six hundred and twenty-one. Thirty-six in her own ha
 
 “I watch it,” said Yuan. “I tell it true and I soften nothing.”
 
-She slept. The bound talked round her in nine counties about what she had become, in the exact words the layer had given it, and the man in the good coat wrote down a number and put it with the place unbought and the carriers' names unanswered. She had paid for visibility with fever and breath, in ink no clerk could lose.
+She slept. The bound talked round her in nine counties about what she had become, in the exact words the layer had given it, and the man in the good coat wrote down a number and put it with the two things he had been refused, in the order he had been refused them. She had paid for visibility with fever and breath, in ink no clerk could lose.
 
 She did not thank him. She did not stop him either. That was the whole of it, and it would have to be enough.

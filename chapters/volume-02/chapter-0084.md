@@ -40,7 +40,9 @@ He put the volume back. His hand shook on the shelf edge, and he held it there t
 
 “He pays at the desks,” said Feng. “Records, not wordings. Wordings go wrong in two counties by nightfall. Records sit.”
 
-She nodded. The distinction between the two Bureau rooms stood in front of her in lamplight: the copying floor here, where county sheets are copied upward by mortal clerks, and the county office on the square, where Sun He holds the county book and stamps. Different rooms, different books, different hands. Merging them is how men get lost, and she did not get lost.
+She nodded. The distinction between the two Bureau rooms stood in front of her in lamplight: the copying floor here, where county sheets are copied upward by mortal clerks, and the county office on the square, where Sun He holds the county book and stamps. Different rooms, different books, different hands.
+
+A sheet copied here is not stamped there, and a stamp given there does not come back up this stair, and a person who forgets which stair a thing went down finds out at the worst possible hour with the paper still in his hand.
 
 “Column stays at five,” she said.
 
@@ -82,4 +84,40 @@ He went down again with the stone in his hand. She lay on the mat with the shutt
 
 She slept with the docket in her lining and the four copies walled behind a loose spine below her. Six hundred and ten. Three hundred and thirty. A tower that copies nothing upward for her, a column at five, a cough getting worse, a mat under a shutter that does not shut.
 
-It was not safety. It was a roof that was not sect ground, and for this winter that was enough to work from.
+It was not safety. It was a roof that was not sect ground, and that was a different thing, and she had spent the day learning the difference the hard way.
+
+## The Page
+
+On the ninth night she asked Feng the question straight out, because the day she asked it sideways would be the day he answered it sideways too.
+
+“Does anything in this tower have my name on it.”
+
+He did not ask which kind of name. He put his brush in the rack and turned the fair hand over and looked at it.
+
+“The intake schedule,” he said. “Entered as labour, two loads a day, your hand and the name you sign. It goes up on the third evening by the carts.”
+
+“And the mat.”
+
+“The mat is not entered anywhere,” said Feng. “There is no paper in this tower that says a person sleeps here, and I would not put one up if there were, because everything this floor writes goes up the stair and out.”
+
+She stood in the copying floor among five tables and a stove that did not warm them and understood what she had come down the pass to find, which was not what Du Hong's letter had said and not what the man in the good coat was buying.
+
+She was living under a man who could not write her down without handing her to whatever the tower copies up to. She was eating soup from a boy whose name a county clerk had written in a file. She was entered on a furnace book four miles above her and nowhere else, and a page saying that no household in this town had her was worth money to a man who had understood paper better than she had.
+
+“Then a clerk can write that I belong to nobody,” she said, “and nobody in this tower can write the opposite.”
+
+“A clerk can write whatever the law lets him write,” said Feng. “The county is the only room in this town that will put a line under a person and stand a county hand behind it. That is not mine to give and I am not going to pretend it is.”
+
+She took the stair once and lay on the mat with her coat for a blanket. The breath went short on the landing and stayed short. The shutter was still where Du Hong had nailed it and the wind still worked at the gap, and the square noise came up in three trades at once and none of them was hers.
+
+So there were two numbers now and she could not add them together. There was a household standing at three hundred and thirty on a mountain book that a county clerk has never read, and there was a page in a county file, being written this week, for coin, saying that no door in Lowwater has her name on it.
+
+The hours were the first half of the answer and they were four months of signing four and a half at a time. The county was the second half and it would not even look at her without the first half in her hand. And a man in a good coat could put his page into a file at the eleventh hour on any morning he chose, and it would sit there and get older whether she had hours or not.
+
+She lay in the dark and made the decision in the way she made all of them, which was out loud, alone, and in numbers.
+
+“I go up on the dawn cart,” she said. “The book has to square before anything else is worth asking for, and every week I sit in this loft is a week that page gets older.”
+
+“You will lose the square days,” said Yuan.
+
+“I will lose them here or I will lose them there,” said Ning Yan. “The book does not weigh where I sleep. It weighs whether I sign.”

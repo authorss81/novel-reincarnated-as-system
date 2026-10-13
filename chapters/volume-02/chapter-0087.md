@@ -18,7 +18,7 @@ She looked at him across the mat. Eighteen, ambitious, generous, bad at lying. H
 
 “You were told what it costs.”
 
-“I was told,” said Du Hong. “The clerk read it plain. Death voids it. The debt transfers. I know.”
+“The clerk read it twice and wrote it out for me on a slip,” said Du Hong. “That is what a man does when he means to sign and does not want to have been lied to.”
 
 She thought of the burial register in her own left hand, the first document naming her as the cause of anything. She thought of two names the clerk wrote slow and a mother who will not be at her door. She thought of a girl with a lath splint copying slates, charged to a household not hers. Taking names is what she does. It had never yet been free.
 
@@ -26,9 +26,15 @@ She thought of the burial register in her own left hand, the first document nami
 
 He laughed once, short. “Because your hand is in my file twice and my name is nowhere that matters. Because you put yourself expensive to keep me cheap and it did not work. Because somebody has to stand and I am standing here.”
 
+“What do you want,” said Ning Yan.
+
+He looked at the shutter instead of at her, and for a while the only sound was Feng's brush two floors down through the boards.
+
+“My name in a book where it is the whole line of it,” he said. “Everything since the autumn has been filed under you, because your hand is the hand that put me where I am, and a file does not care which of the two of us did the work. A county book has my name and nothing else in it. That is all I want out of it, and it costs you something, and I would rather be told than not.”
+
 “You die and it comes to me,” said Ning Yan. “You live and every county hour owns you.”
 
-“I live,” said Du Hong. “I attend with you. That is the whole of it.”
+“I live,” said Du Hong. “I attend with you, hour by hour, and the book says my name on it every time.”
 
 ## The Sponsors' Silence
 
@@ -68,9 +74,11 @@ Sun He sat at the far table with the county book open. The queue moved. When her
 
 “I stand surety,” said Du Hong. “For her attendance at every county hour. Write my name.”
 
-The registrar looked at him once, the way a man looks at a line. “You were told what it is.”
+The registrar looked at him once, the way a man looks at a line.
 
-“I was told,” said Du Hong. “Death voids it. The debt transfers to her. I know.”
+“You were told what it is.”
+
+“I was told,” said Du Hong.
 
 Sun He entered it. The brush moved in the county book, fair and final. A living name for attendance, void on death, debt to her. Du Hong watched his name go down without flinching, because flinching is for rooms where somebody might save you and this was not one.
 

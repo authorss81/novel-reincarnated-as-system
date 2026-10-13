@@ -2,17 +2,17 @@
 
 She walked into the county office on the square on the eighty-first day certain the licence was hers, with three legs under her arm and Du Hong beside her.
 
-The shutters stood open and the queue ran out the door into the market noise. Sun He sat at the far table with the county book open and the stamp at his hand, nineteen years holding that book in his face. She took her place fourth and waited, breathing two counts, with the sponsors' seal, the quota clearance signed without a look, and the surety name fresh in the book.
+The shutters stood open and the queue ran out the door into the market noise. Sun He was at the far table with the county book open and the stamp at his hand, and nineteen years of that book were in the lines of his face. She took her place fourth and stood in it, because a queue is where a body in a county office is least worth looking at, with the sponsors' seal, the quota clearance signed without a look, and the surety name fresh in the book.
 
-The application was complete. Seal, clearance, surety. No part is the licence, but all parts together the county countersigns. She had worked four months of tithe for it, two hundred and eleven to nine hundred and forty, fever and short breath, a stage the whole bound could recite. The refused slip from the Hall sat up the mountain under the tithe book cover. This paper would replace it.
+The application was complete. Seal, clearance, surety. No part is the licence, but all parts together the county countersigns. She had worked four months of tithe for it, two hundred and eleven to nine hundred and forty, fever and short breath, a stage the whole bound could recite. Up the mountain the three-sealed refusal still lay under the cover of the tithe book where no clerk had been told to look for it and no clerk had. This paper would replace it.
 
-“You hold it,” said Yuan. “You want it and you hold steady.”
+“You want it,” said Yuan. “You carry it in and you do not know what it says.”
 
-“I hold it,” said Ning Yan. “I walk in entered. That is all I have.”
+“I carry it in,” said Ning Yan. “I walk in entered. That is all I have.”
 
 ## The Refusal
 
-Sun He called her at the tenth hour.
+Sun He called her at the tenth hour, and she stood up out of the queue with her hands at her sides before he had finished saying her name.
 
 She laid the papers on the table in order: the sealed application, the clearance with Shen Xiu's hand on it, the surety entry. The three seals stood above the old Hall refusal the way they had stood before nine people in a queue. The anteroom went quiet the way rooms go quiet when a stamp is about to fall.
 
@@ -20,7 +20,11 @@ He read the seal. He read the clearance. He read the surety. Then he turned page
 
 “Application refused,” he said. “The sponsors' seal stands. Quota clearance stands. The surety stands. The bounty standing voids them.”
 
-The words landed the way the burial clerk's brush lands, without hurry. A licenced practitioner cannot stand under an unanswered claim. The claim stands in the layer against the Chosen One, and the county does not countersign a name the layer holds. A claim of this kind stands till answered in its own terms, and this office does not lift it.
+The words landed the way the burial clerk's brush lands, without hurry. She had asked a registrar about this exact wall in a queue three weeks ago and had been given the shape of it for nothing, and here it was, with three legs laid out on the table underneath it.
+
+The man in the good coat was buying a page in a county file that said no household in this town had her entered against it, and she had come down four miles on a dawn cart to get onto a page with a county hand on it.
+
+The county had looked at everything she carried and refused to countersign a name the layer held. So the page she wanted would have to be a page about her body instead of her name, and there was one, and the registrar was already turning to it.
 
 She took it standing with her hands at her sides. It rhymed the Hall refusal without repeating it, same shape and different book: want of standing instead of want of clearance, county instead of Hall, bounty instead of hours. She had filed once at the Hall and been refused. She had brought three legs to Lowwater and been refused again, in the same hour as the paper that would save her.
 
@@ -34,7 +38,7 @@ He turned to a fresh sheet in the county book. The brush sat ready. The queue wa
 
 He read the terms plainly, the way Shen Xiu reads figures. The sheet counts every hour worked and the days not worked, continuous, no gap. It records stages as announced. It enters the defect in the applicant's own hand. It caps practice at the fifth stage of Condensing. It bars any Foundation petition without relicensing. A refused application is worth nothing. A pending one is worth everything the body can still hold.
 
-She heard the ceiling the way she had heard it in the inquiry, and this time it had a brush behind it. Fifth stage. Where a cracked aperture stops. Her mouth for an aperture, stabilised at the crack, would take her to five and no further. Beyond that the paper stops and the practice without paper is breach.
+She heard the ceiling for the first time with a brush behind it. Fifth stage. Where a cracked aperture stops. Her mouth for an aperture, stabilised at the crack, would take her to five and no further. Beyond that the paper stops and the practice without paper is breach.
 
 ## The Defect
 

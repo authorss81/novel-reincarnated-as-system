@@ -58,6 +58,40 @@ One said the man asks after packets unsigned and always pays for the writing eve
 
 She carried the yoke up the tower stair with the wood knocking her shoulders and set it down without spilling. The breath pulled short at two counts and settled. Feng nodded to her from the fair-hand desk without stopping the brush. The intake clerk entered the water as labour on the schedule sheet, and the sheet would go up by the carts on the third evening, and the clerk with the broken finger would write it slow.
 
-She lay on the mat with the square noise coming through the shutter gap. Five hundred and twenty. Four hundred and twenty. The man paid at three desks for records. The counting room stacked them by household. She slept with the strap marks on her shoulders and the arithmetic ticking, and the market's weight settled over her like a blanket that does not warm.
+## The Thing He Was Buying
 
-In the morning she went down for another strap. The desks opened. The man came at the eleventh hour. The coin sat on the wood. The writing went into files. And she carried past with stone and paper, a body unbuyable at any desk, working her hours toward spring.
+On the third afternoon the desks opened at the tenth hour as they always did, and she was past them with stone on her shoulder at the fifth hour, and the man in the good coat was at the third desk.
+
+She was nine feet off. She slowed for no reason a body has, the way a body slows coming off a curb, and the square noise thinned the way square noise does at nine feet from a man talking to a clerk.
+
+“Then write the asking,” she heard him say. “Write it plain and put it in the file. I want the page to stand by itself. I want it to say that a man from the Qinghe furnace crew came down this road and that no house in this town has her entered against it. No keeper, no line, no name on any door.”
+
+The clerk said something she did not get.
+
+“No,” said the man, pleasant. “Not her name. The absence. Buy me the absence and I will pay for the writing twice, because a page that says nobody has her is worth more to me than a page that says where she is.”
+
+She walked on with the stone on her shoulder and her face doing nothing, because a face is a thing a man can read from nine feet the way he reads a blotter.
+
+It took her until the third stair to understand what he had bought.
+
+Not the place. The place was a thing a clerk could refuse.
+
+The absence of a place was a thing a clerk could write down, and a written absence stands on its own in a file and does not need anybody to say it out loud again. Somebody in this town would read that page one day, in an office with a seal, and go looking for a body that no household claimed and no door named, and every hand that had fed her or given her a mat would be a hand that had been sheltering something on nobody's page.
+
+The tower's intake sheet entered her as a hand carrying loads. Old Gao's sheet entered her as a carrier's hand for one day in a fortnight. The furnace entered her as a member on schedule with a line of hours against it, four miles up a pass nobody at that desk would visit. On paper she was a body in a square with nothing behind her and nothing in front of her, and fifty-eight days of making herself hard to take had not put one line of her into any book in this town.
+
+That was the whole of it. That was what the third proof was, and he was buying it in daylight, politely, at a desk, with a coin and a clerk's brush and a page that would stand without him.
+
+She put the stone down at the wall and stood with her hands empty, and the tower stood above her with four copies walled behind a loose spine and a stair that cost one stop, and Du Hong came up that stair most evenings with soup and a file, and none of it was on a page the county would read.
+
+“You know it,” said Yuan.
+
+“I know it,” said Ning Yan.
+
+“You will have to get onto a page.”
+
+“I know that too,” she said. “And I know what page it is, and what it costs, and that I have four months of hours to put on it first, and that the paper I am working toward is the only paper in this county that will put me inside a book with a county's hand on it while a claim is standing over my head.”
+
+She picked the stone up again and carried it in.
+
+She lay on the mat that night with five hundred and twenty worked behind her and four hundred and twenty standing, and the square noise coming through the gap in the shutter, and the arithmetic ticking, and one new number on top of all of it that no clerk was keeping: a man in a good coat had paid twice for the writing, and the writing was *she belongs to nobody*, and every day she stayed in this town that page got older.

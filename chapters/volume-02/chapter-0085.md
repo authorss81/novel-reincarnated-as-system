@@ -36,17 +36,33 @@ He turned a page back. “The county answers claims by paper. The layer answers 
 
 “What does this office give instead.”
 
-He looked past her at the queue, then back at the book. “The county gives a pending filing to hands that work. Hours, stages and defect on the county's own sheet, counted from the day the tithe book opened, carrying a ceiling where a cracked aperture stops. It is worth everything except the Foundation. It is refused as a licence and kept as a filing.”
+He looked past her at the queue, then back at the book. He was silent for the length of time a registrar takes to decide whether a question is a courtesy or an attempt at a door.
 
-She wrote nothing. Writing in front of him is a statement. She memorised the terms the way she memorises tallies and put them with the docket in her head: hours continuous, stages recorded, defect entered in her own hand, ceiling at the fifth stage of Condensing, no Foundation petition without relicensing.
+“The county gives less than it takes,” he said. “And I do not read a lesser paper to a hand that has not brought me the greater one. Bring me clearance and I will read it to you, and you will sign it or burn it, and after that both of those are in my hands.”
 
-“Ceiling at five,” she said.
+She wrote nothing. Writing in front of him is a statement. She stood there and let it not be answered, and the not-answering told her three things in the time it took: there was a paper, it was lower than a licence, and this office gave it to hands that worked instead of hands that asked.
 
-“Where a cracked aperture stops,” said Sun He. “The sheet says what the body says. The hand that signs it is yours.”
+“Why not.”
+
+“Because a woman who has not cleared cannot be shown what she would only have to refuse,” said Sun He. “And because in nineteen years I have handed it out four times and three of the four came back to me signed.”
+
+“Does it count hours.”
+
+“It counts hours,” said Sun He. “That is what it is made of.”
+
+Then he looked at her the way a man looks at a line in a book that has surprised him, and he said the rest of it to himself as much as to her, in the low flat voice of an office that has been saying things to itself for nineteen years.
+
+“You will get your clearance, because the book will square whether or not you are alive to want it. And when it does, the paper I am not reading you today will tell you how far a person with a mouth for an aperture is allowed to go, and you will have to decide whether that is more or less than what you had this morning. Nobody ever asks me which of the two I think.”
+
+She stood with that for a moment. He had told her the room had a floor in it, and he had told her in the hearing of a queue, which was more than the law required of a man who had nineteen years of practice at saying nothing.
+
+“Do you think it is less,” said Ning Yan.
+
+“I think a floor is worth having at seventeen and worth arguing with at twenty,” said Sun He. “That is a matter of age and not of the county. Next.”
 
 ## The Two Rooms
 
-She left the office with the terms in her head and went to the tower to set them beside the other room.
+She left the office with the shape of it in her head and went to the tower to set it beside the other room.
 
 The copying floor ran quiet with brushes. Feng sat at the fair-hand desk, coughing, copying. She set a load of paper on the intake table and stood a moment watching him write, fair and steady and thinning.
 
@@ -58,22 +74,28 @@ The copying floor ran quiet with brushes. Feng sat at the fair-hand desk, coughi
 
 “Lowwater is the county and the town,” said Feng. “You have it right. Most hands merge them and get lost.”
 
-She climbed to the loft and wrote the terms in wash code on the docket edge: pending filing, hours from the day the book opened, stages, defect in her own hand, ceiling five, no Foundation without relicensing. Then she lay on the mat and did the arithmetic.
+She climbed to the loft and wrote in wash code on the docket edge what the office had actually given her: three legs, a standing this office will not lift, and a lesser paper given to hands that work, counted in hours, terms not read to a hand that has not cleared. Then she lay on the mat and did the arithmetic.
 
 Seven hundred worked in the winter book. Two hundred and forty standing. A hundred and twenty-eight in her own hand, continuous, no gap.
 
-“You hear it,” said Yuan. “You know the ceiling and you do not flinch.”
+“You have a paper and no terms,” said Yuan.
 
-“I hear it,” said Ning Yan. “I work toward it. A ceiling at five is a room. No ceiling is the road.”
+“I have a paper and no terms,” said Ning Yan. “That is the same as a paper I cannot sign, and it is not the same as no paper. There is a difference and it is worth two hundred and forty hours.”
 
-“It is a leash also,” said Yuan. “I see it and I say so.”
+“You do not know what is on it.”
 
-“It is a leash and a lever and a room,” said Ning Yan. “I take it if the county offers. That is why I ask before I file.”
+“No. I know what it is made of, which is hours, and I know a man in a good coat is buying a page that says I belong to nobody, and I know the county is the only room in this town that will put a line under a person and stand a hand behind it. Those three are enough to walk with.”
 
-She left the tower with the terms in code and walked the square once to learn the queue's shape. The office takes names till the fifth hour and stamps till the seventh. Carriers stand separate from households. Sureties stand with the applicant and give their names aloud. She watched a surety stand for a mason's boy, a father with his hands full of hat, and heard the clerk read the void-and-transfer terms the way clerks read weather. The father said he knew and the brush moved.
+“It is a floor,” said Yuan. “I say so before you find out.”
+
+“If it is a floor I will put my hands on the wall and find out how high it is,” said Ning Yan. “I am not going to guess at a floor in the dark and be surprised by it. That is why I ask before I file.”
+
+She left the tower with the shape in code and walked the square once to learn the queue's shape. The office takes names till the fifth hour and stamps till the seventh. Carriers stand separate from households. Sureties stand with the applicant and give their names aloud. She watched a surety stand for a mason's boy, a father with his hands full of hat, and heard the clerk read the void-and-transfer terms the way clerks read weather. The father said he knew and the brush moved.
 
 She memorised the order of it the way she memorises tallies: papers first, surety spoken, mark set, copy kept. No plea. No scene. The county does not examine hands. It examines paper, because that is what a county office does, and the paper is either excellent or it is not.
 
-She slept with the terms ticking behind her eyes. The county office stamped on the square. The tower copied behind the fifth item. Between them the desks sold records for coin, and the man in the good coat stacked them in a counting room by household.
+She slept with the shape ticking behind her eyes. The county office stamped on the square. The tower copied behind the fifth item. Between them the desks sold records for coin, and the man in the good coat stacked them in a counting room by household.
 
-The licence waited on clearance and standing. Clearance waited on hours. Standing waited on a claim no office lifts. She had asked for the shape of the wall instead of walking into it. That was the whole of the day's work, and it held.
+The licence waited on clearance and standing. Clearance waited on hours, and it was made of the same hours as the lesser paper, and that was the one thing the registrar had given her for free in nineteen years of holding that book. Standing waited on a claim no office lifts. She had asked for the shape of the wall instead of walking into it, and now she knew which wall she was building against, and it was a number.
+
+That was the whole of the day's work, and it held.
