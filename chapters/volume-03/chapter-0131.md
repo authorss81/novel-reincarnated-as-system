@@ -10,7 +10,7 @@ Deng Chao had a sheet in front of him and a brush and the clearing cup from the 
 
 Deng Chao read it.
 
-He read everything out. He had read the terms of her pending filing out loud in the winter in a corridor in front of a queue, and he read a season's schedule out loud on the twentieth day of the month, and he read a line in a registrar's bundle out loud on a Thursday in the morning, and he was going to read this one out loud because he was the one who did it and there was nobody else in the building to stop him.
+He read everything out. He had read the terms of her pending filing out loud in the winter in a corridor in front of a queue, and he read a season's schedule out loud on the twentieth day of the month, and he read a line in a registrar's bundle out loud in the morning of the day the crate went, and he was going to read this one out loud because he was the one who did it and there was nobody else in the building to stop him.
 
 “A relicensing, made under Clause Four of the Servant Advancement Settlement, by a servant-born of Qinghe who holds a licence to practise past registration at the county of Lowwater, countersigned at the third hour of a day in the middle of the spring.”
 
@@ -120,7 +120,7 @@ He put his hands behind his back.
 
 He turned round and looked down the length of a Hall with no roof.
 
-“There is a man in Lowwater who has paid a county clerk for a certified copy of our season's schedule and has read it at a public counter and has said two true things about her terms in a county room in front of a queue, and Sun He has written it up, and the line went up to us in a bundle on a Thursday, and none of the three of us has answered it.”
+“There is a man in Lowwater who has paid a county clerk for a certified copy of our season's schedule and has read it at a public counter and has said two true things about her terms in a county room in front of a queue, and Sun He has written it up, and the line went up to us in a bundle on the day the crate went, and none of the three of us has answered it.”
 
 “There is no version of the three of us that is going to answer it.”
 

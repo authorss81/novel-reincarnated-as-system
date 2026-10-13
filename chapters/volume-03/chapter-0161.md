@@ -96,13 +96,13 @@ She stood on a step in the ice with a copy of her own sheet in her hand.
 
 “No,” said Ning Yan.
 
-“I know,” he said. “You have been not saying no to me for eleven weeks without ever once saying it, and I have not asked you for anything, and that is not going to change, and I want you to hear the whole of that in one breath so that you do not have to spend a morning on it.”
+“I know,” he said. “You have been not saying no to me at a counter in this room since the thaw without ever once saying it, and I have not asked you for anything, and that is not going to change, and I want you to hear the whole of that in one breath so that you do not have to spend a morning on it.”
 
 ## The Cold, and the Arithmetic of It
 
 She went out to the quarry and put in eight loads and lost the rest of the day, and that was the second morning in two months, and about four hundred coppers since the refusal, and none of it was the point.
 
-The point was standing on a step in the ice and being told, courteously, by a man who bought one thing off a county in eleven weeks, that he had made his case seven months ago at a public counter and that the case had just been entered by a registrar who did not know there was a case.
+The point was standing on a step in the ice and being told, courteously, by a man who had bought one thing off a county and nothing since, that he had made his case seven months ago at a public counter and that the case had just been entered by a registrar who did not know there was a case.
 
 That was all he had done. He had not moved a piece. He had not asked one question of one person in seven months. He had not threatened, had not lied, had not touched her, had not entered her rooms, had not paid a man, had not put a word in a keeper's ear, and had not once done anything that a person could call wrong.
 

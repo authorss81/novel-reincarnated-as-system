@@ -95,10 +95,18 @@ Repair whatever the audit finds, **in the chapters**, at word or sentence level.
 story movement; **do not replace a batch.** The planned plot, the titles, the chapter order, the card beats,
 the single irreversible step at ch 171 and every ending stay where they are.
 
-**Two faults are already recorded as standing and closed-chapter-only, and are not this phase's to open:**
-ch 131's *She was twenty* and its named weekday, and the *eleven weeks* figure for the Hunter's span that
-ch 150, 153, 161, 162, 163 and 174 all carry. Record any new finding of the same kind as a proposed repair in
+**One fault is already recorded as standing and closed-chapter-only, and is not this phase's to open:
+ch 131's *She was twenty*.** Record any new finding of the same kind as a proposed repair in
 `state/current.md` and do not open a closed chapter to fix it.
+
+**Two faults the Batch 0004 review recorded as standing have since been closed, and this prompt must not
+promise a rule the manuscript breaks.** The named weekday went out of ch 123, 128 and 131 at the Batch 0004
+fix pass — **ch 119–178 now names none, and rule 12 above holds as written** — with ch 128's rule re-cast as
+*the day after the crate goes*, which ch 131 still pays off. And the *eleven weeks* figure was traded for a
+relative count in ch 153, 161 and 173; **it now stands only at ch 150, 162, 163 and 174**, where ch 163 is
+accounting for it in full and ch 174's *learned eleven weeks earlier* is exact. **Sweep for the phrase and
+record where it stands; do not reopen those four chapters to re-derive it, and do not let it creep back into
+a chapter the figure was traded out of.**
 
 ## Then close the volume
 

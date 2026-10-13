@@ -88,9 +88,9 @@ The line went through her like cold water, and she understood it about a second 
 
 He was going to stand at the back of that room once a month for the rest of the winter and she would not know him by sight, and the only reason she knew his name was a form.
 
-“You have bought one thing off this county in eleven weeks,” she said.
+“You have bought one thing off this county in all the weeks of this cold,” she said.
 
-“I have bought one thing off this county in eleven weeks,” he said, “and there was a reason for it in June that has been made out of date by the autumn, and I am not going to buy a second thing, and I would rather tell you that than have you stand at a counter wondering.”
+“I have bought one thing off this county in all the weeks of this cold,” he said, “and there was a reason for it in June that has been made out of date by the autumn, and I am not going to buy a second thing, and I would rather tell you that than have you stand at a counter wondering.”
 
 “What was the reason.”
 

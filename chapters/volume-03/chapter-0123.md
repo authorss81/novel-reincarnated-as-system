@@ -90,11 +90,11 @@ The girl picked the brush up, squared it against the bench, and put it down agai
 
 “You do not have to say it back to me.”
 
-“I am not going to say it back to you because if I say it back to you it is a thing you have given me and then I owe you a thing, and I have got enough of those,” said the girl. “You have said it in a room with a third person in it. There is a washerwoman at the far trough who is going to have heard the whole of it and she will have an opinion about it by Thursday.”
+“I am not going to say it back to you because if I say it back to you it is a thing you have given me and then I owe you a thing, and I have got enough of those,” said the girl. “You have said it in a room with a third person in it. There is a washerwoman at the far trough who is going to have heard the whole of it and she will have an opinion about it by the end of the week.”
 
 “There is a washerwoman at the far trough?”
 
-“There are three women at the far trough,” said the girl, “and all three of them know everything that happens in this building, and by Thursday one of them will have said it in a market, and you did not buy it and you did not sell it. You just said a true thing in a room where people were.”
+“There are three women at the far trough,” said the girl, “and all three of them know everything that happens in this building, and inside a week one of them will have said it in a market, and you did not buy it and you did not sell it. You just said a true thing in a room where people were.”
 
 ## Not Thanked
 
@@ -152,7 +152,7 @@ The girl almost smiled and did not quite.
 
 It went up the lane behind her in the last of the light, the way everything in this town went up the lane behind her, except that this time she was not the thing being carried.
 
-A washerwoman at the far trough had heard it, and by Thursday there would be a market in Lowwater in which a sentence about the licensed one at the stone end was a thing a person could say, and it would be true, and there would be no office in nine counties that could find out who had said it or strike it, because a sentence in a lane is not a document and a county keeps documents.
+A washerwoman at the far trough had heard it, and by the end of the week there would be a market in Lowwater in which a sentence about the licensed one at the stone end was a thing a person could say, and it would be true, and there would be no office in nine counties that could find out who had said it or strike it, because a sentence in a lane is not a document and a county keeps documents.
 
 That was the part she had not expected at all.
 
@@ -162,4 +162,4 @@ Four miles up the mountain there was a schedule with nine households on it and t
 
 She had been paid by loads for thirteen days and not one of them was on any paper in this bound.
 
-It went up the lane ahead of her, in a wash house, in a market by Thursday, in a mouth she had not asked.
+It went up the lane ahead of her, in a wash house, in a market inside the week, in a mouth she had not asked.

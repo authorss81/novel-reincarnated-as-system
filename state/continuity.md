@@ -320,7 +320,7 @@ rather than made silently, in the same convention as *Date clash — ch 111 vs c
 
 ## Established facts, Volume 3 Batch 0001 (ch 119–132) — EXAMINATION AND EXPOSURE
 
-Volume 3 opens. Fourteen chapters, **36,795 words**, average ~2,628. **Day 0 is the last day of the
+Volume 3 opens. Fourteen chapters, **36,809 words**, average ~2,629. **Day 0 is the last day of the
 thaw** (canon change 30); the batch runs **day 2 (ch 119) to day 39 (ch 132)**, five and a half weeks.
 Chapter days: 119 = 2 · 120 = 4–5 (the only two-day card) · 121 = 8 · 122 = 11 · 123 = 14 · 124 = 17 ·
 125 = 20 · 126 = 23 · 127 = 25 · 128 = 27 · 129 = 28 · 130 = 31 · 131 = 35 · 132 = 39.
@@ -386,7 +386,7 @@ Arithmetic correction only; no beat moves.
 - **The girl of twenty-four (ch 123).** A carrier asked her, by name-less description, whether the
   licensed one at the stone end is licensed by Qinghe or by the county, and she said she did not know,
   because she copies lists and does not read them. Ning Yan says the sentence out loud once in the
-  wash house: **by the county.** Not thanked, does not thank. Three washerwomen heard it; by Thursday
+  wash house: **by the county.** Not thanked, does not thank. Three washerwomen heard it; by the end of the week
   it is in a market, for nothing. **The county's written request for the season's furnace schedule
   goes up the quarter's return sheet on the girl's own hour, entered by her, into the crate at ch 129.**
   **Alive. Do not kill her.**
@@ -462,7 +462,7 @@ Arithmetic correction only; no beat moves.
   Sentence, The Second Application, The Dead Writ, The Certified Copy, Under a Misspelling, The Quiet
   Book, The Order of the Crate, Level With the Asked, Nine in Her Own Hand, Relicensed. All unique
   against 1–118.
-- **Chapter length:** 36,795 words of body prose over 14 chapters, **average ~2,628 — inside the 1,800–2,700
+- **Chapter length:** 36,809 words of body prose over 14 chapters, **average ~2,629 — inside the 1,800–2,700
   guide on the average.** Six sit individually above the guide and eight inside: ch 126 (2,748), 127
   (2,761), 129 (2,916), 130 (2,973), 131 (2,750) and 132 (3,002) — the public lane, the dread of
   being correct, the misspelling, the crate, the clearance, the three marks and the countersignature,
@@ -687,7 +687,7 @@ ch 140 and ch 148, fresh four-clause wording, none reusing ch 53 / 78 / 92 / 114
   to its scene.**
 - **Word-count convention, stated once:** every figure in the state files counts **body prose only —
   everything outside the `##` section headings.** An earlier record counted full files, which inflated
-  every figure by the length of the headings; Batch 0001's 37,177 is 36,795 on this convention and
+  every figure by the length of the headings; Batch 0001's 37,177 is 36,809 on this convention and
   Batch 0002's 37,063 is 36,742. Both are corrected here. Use body prose for anything new.
 
 ### Construction budget — spent in Batch 0002, not to reuse
@@ -720,7 +720,7 @@ about ch 149 is foreshadowed, named or touched.** **She does not forgive him.**
 
 ## Established facts, Volume 3 Batch 0003 (ch 149–163) — HUNTING WITH A CALENDAR
 
-Fifteen chapters, **30,946 words**, average ~2,063. **Day 0 is the last day of the thaw.**
+Fifteen chapters, **30,961 words**, average ~2,064. **Day 0 is the last day of the thaw.**
 Ch 148 = about day 130; **this batch runs day 133 to about day 184.** Chapter days: 149 = 133 · 150 = 136 ·
 151 = 139 · 152 = 140 · 153 = 147 · 154 = 150 · 155 = 153 · 156 = 156 · 157 = 158 · 158 = 161 · 159 = 164 ·
 160 = 166→175 (spans) · 161 = 178 · 162 = 181 · 163 = 184.
@@ -910,7 +910,7 @@ anywhere in 149–163.**
   Monthly Reading, The Signing Hand, A Date in a Counting Room, Walking In, Nothing Chalked, The Weight
   Ticket, Before It Comes, The Second Hole, Where He Is Right, What Da Shan Told Him, Not Held in This
   County. **All unique against 1–148.**
-- **Chapter length:** 30,946 words over 15 chapters, **average ~2,063**, counted after the Batch 0003
+- **Chapter length:** 30,961 words over 15 chapters, **average ~2,064**, counted after the Batch 0003
   review repair. Ch 150 at 2,863 is above the 1,800–2,700 guide and is the milestone; the other fourteen
   are inside or just below it; the shortest is ch 151 at 1,653. **Nothing under the 1,300 floor and no monotone decline. Do not read the
   average as a precedent.** Counts are body prose only.
@@ -981,7 +981,7 @@ weeks**, ch 160 **~3 weeks**, cause *thirty-six days of ordinary use*). **Do not
 
 ## Established facts, Volume 3 Batch 0004 (ch 164–178) — COST AND SIGNATURE. VOLUME 3 CLOSED.
 
-Fifteen chapters, **30,505 words**, average ~2,034. **Day 0 is the last day of the thaw.** This batch runs
+Fifteen chapters, **30,508 words**, average ~2,034. **Day 0 is the last day of the thaw.** This batch runs
 **day 187 to day 219.** Chapter days: 164 = 187 · 165 = 189 · 166 = 191 · 167 = 194 · 168 = 196 ·
 169 = 197 · 170 = 197 (later) · 171 = 198 · 172 = 203 · 173 = 209 · 174 = 212 · 175 = 213 ·
 176 = 215 · 177 = 217 · 178 = 219.
@@ -1096,7 +1096,7 @@ the Lantern Register of this county*); the fourth clause advances the ordinal by
   and he is referring the dismantling upward to the Warden.** The referral **carries her name, her stages in
   order and her hours, and carries no agent's name.** **The request on the public shelf goes live and goes on
   the crate with it, four weeks after it was written.** He bought one certified copy and a receipt off that
-  counter in eleven weeks and nothing else.
+  counter and nothing else.
 - **Canon change 63 — the Foundation petition (ch 175).** Four lines on Hall paper: a relicensing with the
   ceiling at **Foundation, the first stage**, on a relicensed licence with seven conditions, grounded on an
   hours record continuous from the origin date and held in this county in full. **She folds the filing copy
@@ -1155,7 +1155,7 @@ the Lantern Register of this county*); the fourth clause advances the ordinal by
 - **Titles 164–178:** The Last Card, The Pay-Off, Nine Coppers a Load, The Cold End, The Notice, The Man
   Who Stayed, Another Hand, Nine, Eleven Minutes, The Ceiling Reached, One, Two, Three, Barred, What Went
   Up, Out of the Oilcloth, Straight. **All unique against 1–178.**
-- **Chapter length:** 30,505 words over 15 chapters, **average ~2,034**, counted after review repair.
+- **Chapter length:** 30,508 words over 15 chapters, **average ~2,034**, counted after review repair.
   Longest is ch 176 at 2,215 and ch 178 at 2,234; shortest is ch 169 at 1,812. **Nothing under the 1,300
   floor, no chapter above the 1,800–2,700 guide, and no monotone decline.**
 
@@ -1175,6 +1175,28 @@ three at ch 135 and ch 148. `his eyes widened`, `he couldn't believe it`, `sudde
 Authorial scaffolding: **zero**; *this chapter*, *this volume*, *the reader*, *the whole series*, and the
 word *batch*: **zero.** **No Wall described, no crossing, no geography past a marker post, no second
 outside-bound office, no new final enemy.**
+
+### Repaired after the Batch 0004 review — two standing faults, now closed
+
+`logs/volume-03-batch-0004.review.log` swept ch 119–178 and found two claims in the state files that the
+manuscript did not carry. Both were repaired in the chapters; the full table is in `state/current.md`.
+
+- **No weekday is named anywhere in ch 119–178.** `Thursday` stood ten times: ch 123 ×4, ch 128 ×4,
+  ch 131 ×2. **All ten are out.** **The crate rule that ch 128 builds and ch 131 pays off survives without
+  the name — the bundle came up *on the day the crate went*, the sponsors seal *the day after the crate
+  goes*, and Deng Chao read that line *in the morning of the day the crate went*.** ch 123's four became
+  *by the end of the week* and *inside the week*. Nothing else in the volume was touched.
+- **The *eleven weeks* figure now stands at ch 150, 162, 163 and 174 only.** It was traded for a relative
+  count at **ch 153** (*in all the weeks of this cold*, twice, keeping his exact echo), **ch 161** (*at a
+  counter in this room since the thaw*; *had bought one thing off a county and nothing since*) and
+  **ch 173** (*at any counter in this county*, which also removes a doubled construction thirty lines from
+  *I have asked you nothing in eleven weeks*). **The two chapters where it was flatly wrong against the day
+  table are ch 153 (day 147) and ch 161 (day 178), and neither states it now.** It is left where it is the
+  subject rather than a tic: **ch 163 accounts for it in full** and **ch 174's *learned eleven weeks earlier*
+  is exact against day 133 → 212.**
+
+**Counts after this repair:** Batch 0001 **36,809** · Batch 0002 **36,742** · Batch 0003 **30,961** ·
+Batch 0004 **30,508** · **Volume 3 file set 135,020.**
 
 ### Carried forward, unchanged, into Volume 4
 

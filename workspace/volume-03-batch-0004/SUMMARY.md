@@ -1,6 +1,6 @@
 # Volume 3, Batch 0004 — ch 164–178. Cost and signature. VOLUME 3 CLOSED.
 
-**Fifteen chapters, 164–178. 30,505 words, average ~2,034.** Counts are body prose only, `##` section
+**Fifteen chapters, 164–178. 30,508 words, average ~2,034.** Counts are body prose only, `##` section
 headings removed. Longest 2,234 (ch 178), shortest 1,812 (ch 169), **every chapter inside the 1,800–2,700
 guide and none under the 1,300 floor.**
 
@@ -90,9 +90,20 @@ chapters; and four elapsed figures in 175 and 178 — *nine weeks*, *nine months
 were borrowed from a different clock. All reconciled. Word counts, bracket counts, quote balance, paragraph
 lengths and title uniqueness were re-run mechanically over the whole batch afterwards.
 
-**One inherited fault was recorded and not repaired:** the *eleven weeks* figure for the Hunter's span,
-which ch 150, 153, 161, 162, 163 and 174 all carry and which is wrong against the Volume 3 day table. Moving
-it would desynchronise five closed, reviewed chapters to fix a sixth. **Proposed for a future pass.**
+**Two faults recorded here as inherited and not repaired have since been closed, in a review-and-fix pass
+after this summary was written.** Both are recorded in full in `state/current.md` under *Volume 3 Batch 0004
+— review pass and repair (fix phase)*:
+
+- **The named weekday.** Ch 123, ch 128 and ch 131 named `Thursday` ten times between them, which all four
+  Volume 3 batch cards forbid, and the close audit promised a rule the manuscript broke. **Repaired in the
+  chapters, not excused in the prompt:** ch 123's four became *by the end of the week* / *inside a week*,
+  ch 128's rule was re-cast as **the day after the crate goes** — which ch 131 still pays off — and ch 131's
+  two became *the day the crate went*. **Volume 3 now names no weekday at all.**
+- **The *eleven weeks* figure.** This summary proposed it for a future pass. **The pass happened.** It was
+  traded for a relative count at **ch 153 and ch 161, the two places where it stood as elapsed-so-far against
+  a day the table will not carry**, and at **ch 173, the chapter in this batch that used it four times.**
+  **It now stands at ch 150, 162, 163 and 174 only**, and at ch 163 it is the subject of the accounting
+  rather than a tic. **No chapter was restarted, no card beat moved, and no ending changed.**
 
 ## The final image
 

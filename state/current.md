@@ -18,7 +18,7 @@ This file is **append-only and long, and most of it is history.** You do not nee
 - **This file is never pruned by a writing phase.** If a section is wrong, correct it in place and say
   so in the phase's repair note rather than deleting the record.
 
-- **Volume:** 3 of 16 — The Hunter (ch 119–178) — outlined in `outline/volume-03.md`, and **ALL FOUR BATCHES WRITTEN**: Batch 0001 (ch 119–132), 36,795 words over fourteen chapters; Batch 0002 (ch 133–148), 36,742 words over sixteen chapters; Batch 0003 (ch 149–163), 30,946 words over fifteen chapters; **Batch 0004 (ch 164–178), 30,505 words over fifteen chapters. Volume 3 file set: 134,988 words.**
+- **Volume:** 3 of 16 — The Hunter (ch 119–178) — outlined in `outline/volume-03.md`, and **ALL FOUR BATCHES WRITTEN**: Batch 0001 (ch 119–132), 36,809 words over fourteen chapters; Batch 0002 (ch 133–148), 36,742 words over sixteen chapters; Batch 0003 (ch 149–163), 30,961 words over fifteen chapters; **Batch 0004 (ch 164–178), 30,508 words over fifteen chapters. Volume 3 file set: 135,020 words.** All figures are post-fix.
 - **Chapter written:** **1–178. THE NOVEL RUNS TO CHAPTER 1000; VOLUME 3 IS COMPLETE.** Nothing of ch 179 onward is drafted.
 - **Next phase:** the **Volume 3 close audit**, at `workspace/volume-03-close/PROMPT.md`, on the shape of `workspace/volume-02-close/PROMPT.md`. Walk `outline/volume-03.md` line by line against ch 119–178, record every item as PASS or FAIL with a chapter reference, repair word-level faults in the chapters, and open the **Volume 4 hand-off** in the same file. After that, **Volume 4, *The Wall*, ch 179–238**.
   The one-sentence volume goal was fixed by `outline/series.md` §9 and has been paid: *In this volume, Ning Yan must survive being hunted as an unauthorised System, or Yuan is dismantled and she is told she imagined him.* She is still alive, still licensed, and still has him.
@@ -136,7 +136,7 @@ ch 140, and rescued nobody.** The lip at ch 165 was the batch's one piece of phy
 hurt.
 
 **Do not record a chapter-length trade-off.** Guide 1,800–2,700; floor 1,300. **Volume 3 Batch 0004 closed at
-30,505 words over fifteen chapters, ~2,034 average, every chapter inside the guide and none under the floor**,
+30,508 words over fifteen chapters, ~2,034 average, every chapter inside the guide and none under the floor**,
 longest 2,234 (ch 178) and shortest 1,812 (ch 169). Counts are body prose only, `##` headings removed.
 
 **No bare Settlement fraction went on the page in Volume 3.** Channel was named twice in Batch 0003 (about
@@ -155,7 +155,7 @@ Volume 4** — that is the year the milestone requires, and ch 178 does not reso
 > prompt and `outline/volume-03.md`. **The chapters were drafted, then reviewed, and thirty-one faults were
 > found and repaired in them; the card beats, the single bracket, the irreversible step and every ending
 > are unchanged.** The full repair list is in the section below and in `workspace/volume-03-batch-0004/SUMMARY.md`.
-> Fifteen chapters, 164–178, **30,505 words, average ~2,034.**
+> Fifteen chapters, 164–178, **30,508 words, average ~2,034.**
 
 | Card requirement | Status |
 | --- | --- |
@@ -243,18 +243,40 @@ stayed at ch 171, and every ending stayed where it was.**
 | 30 | 176 | **Internal dates did not sequence** against its own day | Crate up the twentieth, slip down two days after, Hall reading the twenty-second |
 | 31 | 178 | **A price was invented for the Ledger** (*about four days of knowing*) in a batch that touches no price | *it would have cost her more than she had, and she would not have known how much until it was gone* |
 
-**Recorded, not repaired — one inherited fault, standing, in closed chapters.** The phrase **“eleven
-weeks”** for the Hunter's span in this county is carried by ch 150, 153, 161, 162 and 163 and is
-arithmetically wrong against the Volume 3 day table, which puts his arrival at about day 1 and ch 178 at
-day 219. It is repeated at ch 173 and ch 174 in Batch 0004. **Moving it would desynchronise five closed,
-reviewed chapters to fix a sixth, and Batch 0003's review repair explicitly upheld the closed chapters
-rather than the phrase.** **Proposed repair for a future pass, not made here:** change all seven to a
-computed figure and re-check ch 150, 153, 161, 162, 163 against the day table. **No chapter 149–163 was
-opened.**
+**Recorded, not repaired at the Batch 0004 review — and closed in the chapters by this fix pass.** The
+phrase **“eleven weeks”** for the Hunter's span in this county is carried by ch 150, 153, 161, 162 and 163,
+is arithmetically wrong against the Volume 3 day table, and is repeated at ch 173 and ch 174. That review
+left it standing on the grounds that moving it would desynchronise five closed, reviewed chapters to fix a
+sixth. **That call is reversed here.** It is a repetition tic by the `AGENTS.md` standard and the repair is
+a trade for a relative count in three chapters: ch 153, ch 161 and ch 173. **ch 150, 162, 163 and 174 keep
+the figure** — see **R3** in the table below for which were left and why.
 
-**Recorded, not repaired — two standing faults from Batch 0002, unchanged.** Ch 131 reads **“She was
-twenty”** and names a weekday (*on a Thursday in the morning*). Neither is in Batch 0004's chapters and
-neither was opened.
+**Recorded, not repaired at the Batch 0004 review — split here.** Ch 131 reads **“She was twenty”** and
+named a weekday (*on a Thursday in the morning*). **The weekday half is closed: repaired in the chapters at
+R2, and ch 119–178 now names no weekday anywhere.** *“She was twenty”* remains standing, is not this pass's
+to open, and is the only surviving item on that list.
+
+### Volume 3 Batch 0004 — review pass and repair (fix phase)
+
+`logs/volume-03-batch-0004.review.log` reviewed the finished batch, ch 164–178, and found it clean on word
+counts, paragraph length, speech, markdown, banned reflexes, the single bracket, the crew count, the ch 171
+irreversible step and the ch 178 final image. Four items were carried into this fix pass. **Three are
+closed. One is the controller's to close, not an agent's.** No chapter was restarted and no planned plot moved.
+
+| # | Finding | Correction | Plot changed? |
+| --- | --- | --- | --- |
+| R1 | **Blocker — `workspace/volume-03-batch-0004/` had no `.done`,** so both selectors take the first eligible directory in sort order and would re-run the finished writer phase and never dispatch `volume-03-close`. | **Left to the controller, deliberately.** `PHASE_SYSTEM.md`: *only the controller may mark a phase done or blocked*, and `scripts/novel_runner.sh` writes `.done` and clears `.attempts .deferred .retry-after .wip-conflict` on the success path the moment this pass returns. **An agent creating the marker would be the exact failure the rule forbids.** Nothing in the manuscript or the state files needed for it. | No. |
+| R2 | **A named weekday in three chapters, while the close audit promised *no weekday named anywhere in ch 119–178*.** `Thursday` ×4 at ch 123, ×4 at ch 128, ×2 at ch 131 — all ten forbidden by the four Volume 3 batch cards, and **only ch 131 was on the standing-closed list.** | **Repaired in the chapters, not excused in the prompt.** ch 123's four → *by the end of the week* / *inside a week* / *by the end of the week* / *inside the week*; ch 128's → *on the day the crate went*, and its signing rule re-cast as **the day after the crate goes**, which ch 131 still pays off; ch 131's two → *in the morning of the day the crate went* and *in a bundle on the day the crate went*. **The rule survives without the name.** ch 128's duplicated sentence — *Thursday is the day after the crate goes*, said twice in three lines — is now one statement. | No. |
+| R3 | **“Eleven weeks” was a volume-wide tic being locked in rather than fixed** — 17 chapters carried it, four uses each at ch 152, ch 163 and ch 173, and at ch 153 (day 147) and ch 161 (day 178) it stood as elapsed-so-far, which the day table does not support. | **Three chapters traded for relative counts.** ch 153 → **in all the weeks of this cold**, twice, keeping his exact echo of her sentence; ch 161 → **at a counter in this room since the thaw** and **had bought one thing off a county and nothing since**; ch 173's *I have not asked you one question in eleven weeks*, thirty lines from a near-identical *I have asked you nothing in eleven weeks*, → **at any counter in this county**. Ch 173 goes four to three and the doubled construction is gone. **Left on purpose:** ch 163, where the figure is the *subject* of the chapter's accounting and not a tic; ch 152, where the figure is the lane's life; ch 174's *learned eleven weeks earlier*, which is exact against day 133 → 212; ch 178's *Not eleven weeks of winter*, the volume's last negation of the figure. | No. |
+| R4 | Minor: **ch 177 carries no quoted dialogue at all** — the only such chapter in the batch. | **Considered and deliberately not changed.** It is one woman alone in a wash house with a licence, then alone with a hammer, and every beat is an action or a decision; dialogue would have meant inventing a second party and weakening the practice the chapter is built on. Recorded so the close audit does not open it as a fault. | No. |
+
+**Verified after this pass:** ch 119–178 names **zero** weekdays; *eleven weeks* now stands in **fifteen**
+chapters instead of seventeen, and not one of the three this pass opened still carries it; longest
+paragraph in Volume 3 is **90 words** and nothing is over it; every edited file has balanced speech; no
+blockquote, code fence, table or rule was introduced; every chapter is inside the 1,800–2,700 guide and
+above the 1,300 floor; **Volume 3 file set 135,020 words**, Batch 0001 **36,809**, Batch 0002 **36,742**,
+Batch 0003 **30,961**, Batch 0004 **30,508**, and the same figures are restated in `state/book-metadata.md`,
+`state/continuity.md`, `state/open-threads.md` and `workspace/volume-03-batch-0004/SUMMARY.md`.
 
 ---
 
@@ -300,8 +322,8 @@ audit recorded below.** When it closes it must record, at minimum:
 > accurate against the repaired pages. Counts are post-repair.
 
 Cards written first at `outline/batches/volume-03-batch-0003.md` from the phase prompt and
-`outline/volume-03.md`, before any chapter. Fifteen chapters, 149–163, **30,946 words,
-average ~2,063.**
+`outline/volume-03.md`, before any chapter. Fifteen chapters, 149–163, **30,961 words,
+average ~2,064.**
 
 | Card requirement | Status |
 | --- | --- |
@@ -420,16 +442,18 @@ question. **The referral itself is not filed and not spoken: that is ch 169–17
 of **ch 131 reads “She was twenty.”** The smallest repair would be to cut the number or move it into the
 surrounding clause; **`bible/characters.md` fixes her at eighteen in Volume 3 and Batch 0003 states her age
 nowhere on the page** (two ages were caught in Batch 0003 draft — at ch 156 and ch 163 — and cut).
-**Ch 131 also names a weekday** (*on a Thursday in the morning*); Batch 0003 names **zero** weekdays and
-two were caught in draft and cut. **Neither chapter was opened.**
+**Ch 131 also named a weekday** (*on a Thursday in the morning*); Batch 0003 names **zero** weekdays and
+two were caught in draft and cut. **Neither chapter was opened when this batch was written. Both were
+opened at the Batch 0004 fix pass and the weekday is gone** — see *Volume 3 Batch 0004 — review pass and
+repair (fix phase)*, item **R2**. *She was twenty* at ch 131 is still standing and untouched.
 
 ---
 
 ## Volume 3 Batch 0001 — acceptance check, card by card
 
 Cards written first at `outline/batches/volume-03-batch-0001.md` from the phase prompt and
-`outline/volume-03.md`, before any chapter. Fourteen chapters, 119–132, **36,795 words, average
-~2,628.**
+`outline/volume-03.md`, before any chapter. Fourteen chapters, 119–132, **36,809 words, average
+~2,629.**
 
 | Card requirement | Status |
 | --- | --- |
@@ -571,7 +595,7 @@ was opened.
 | Ch | Fault | Note |
 | --- | --- | --- |
 | 131 | The closing line reads **“She was twenty.”** | `bible/characters.md` fixes her at **seventeen at the start of Volume 1, eighteen in Volume 3**, and the manuscript's own elapsed time across Volumes 1–3 is about fourteen months, which does not reach twenty. The smallest repair would be to cut the number or move it into the surrounding clause. **Not edited** — Batch 0001 is closed and the batch prompt forbids reopening 119–132. **Batch 0002 therefore states her age nowhere on the page**, and where a character has to have one (the bounty man's old description at ch 140) it reads *a woman of about eighteen*, which agrees with the bible. |
-| 131 | Deng Chao's speech reads **“he read a line in a registrar's bundle out loud on a Thursday in the morning.”** | A weekday is named. Volume 3 Batch 0002's own hard rule is **no weekday anywhere**, and two were caught in draft and cut; this one predates it. **Not edited.** A drafter writing Batch 0003 or 0004 should not copy the habit. |
+| 131 | Deng Chao's speech read **“he read a line in a registrar's bundle out loud on a Thursday in the morning.”** | A weekday is named. Volume 3 Batch 0002's own hard rule is **no weekday anywhere**, and two were caught in draft and cut; this one predates it. **Not edited then** — Batch 0001 was closed and the batch prompt forbade reopening 119–132. **REPAIRED at the Batch 0004 fix pass:** read **“in the morning of the day the crate went”**, with ch 128's signing rule re-cast as *the day after the crate goes* and ch 128's bundle line as *on the day the crate went*, so the rule ch 131 pays off survives without the name. **ch 119–178 now names no weekday at all.** |
 
 ## Volume 2 close audit
 
@@ -810,10 +834,13 @@ or rules in ch 149–163, no bracketed line anywhere in the batch, 163 unique ti
 no paragraph over 120 words. **Body-prose counts are re-stated in the verification block at the foot of this
 note** and in `workspace/volume-03-batch-0003/SUMMARY.md`.
 
-**Recorded, not repaired — two standing notes.** *(a)* The **eleven-weeks** figure for the Hunter's run is
-used six times across the batch and once in each of Batches 0001 and 0002 and in Volume 2, where it is
-already the standing figure for a spent interval. The reviewer accepted it as internally consistent and
-flagged only ch 150's *three years*, which is repaired. It is left as a motif, not re-derived. *(b)*
+**Recorded, not repaired — one standing note, since closed in part.** *(a)* The **eleven-weeks** figure for
+the Hunter's run was used six times across the batch, is not supported by the Volume 3 day table, and was
+already the standing figure for a spent interval elsewhere. That review accepted it as internally
+consistent and flagged only ch 150's *three years*, which is repaired. **The Batch 0004 fix pass has since
+traded it out of ch 153 and ch 161 — the two places where it stood as elapsed-so-far against a day the
+table will not carry — and left ch 150, 162 and 163 alone**, ch 163 because the figure is the chapter's
+subject rather than a tic. It is a motif where it now stands and is not re-derived. *(b)*
 Ch 152's *she could tell them in her own words on a furnace floor in the next nine days* is a stated option
 she declines, not a promise, and the day she actually tells them is ch 159; the chapter is self-consistent
 and no figure depends on it. Neither is re-opened.

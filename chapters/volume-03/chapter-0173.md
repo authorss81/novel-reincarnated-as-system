@@ -110,7 +110,7 @@ He turned his little book round in his hands and shut it.
 
 “So you are going to do it in front of me without telling me.”
 
-“I am going to do it in front of you and tell you what it is the moment before I do it,” he said, “and that is the whole of what I am able to give anybody in this county, and I have not asked you one question in eleven weeks and I am not going to start.”
+“I am going to do it in front of you and tell you what it is the moment before I do it,” he said, “and that is the whole of what I am able to give anybody in this county, and I have not asked you one question at any counter in this county and I am not going to start.”
 
 ## The Queue
 

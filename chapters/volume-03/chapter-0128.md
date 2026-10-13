@@ -8,7 +8,7 @@ She had come up on a cart day and got here at the second hour and had stood at t
 
 “Sun He has written up about me,” said Ning Yan.
 
-“We have read it,” said Lu Kang. “It came up in a bundle on Thursday and Deng Chao read it out and then we all three sat here and did not say anything for an hour, and you have come up the road to find out what we decided.”
+“We have read it,” said Lu Kang. “It came up in a bundle on the day the crate went and Deng Chao read it out and then we all three sat here and did not say anything for an hour, and you have come up the road to find out what we decided.”
 
 “What did you decide.”
 
@@ -138,11 +138,11 @@ They were afraid of a paper she had promised not to write.
 
 And in about four years, or nine, or eleven, one of the three of them would be dead, and the other two would still be here, and the arrangement she had made in a corridor would still be standing, and it would be standing between three families and one county and no office at all.
 
-“Sign it on Thursday,” said Lu Kang. “Bring the sheet with the clearance on it and the annex certified and your hand on the ceiling, and we will put three marks on it in this corridor at the west table, and Deng Chao will read it out because he reads everything out, and then you take it down four miles to a man with a stamp.”
+“Sign it the day after the crate goes,” said Lu Kang. “Bring the sheet with the clearance on it and the annex certified and your hand on the ceiling, and we will put three marks on it in this corridor at the west table, and Deng Chao will read it out because he reads everything out, and then you take it down four miles to a man with a stamp.”
 
-“Thursday is the day after the crate goes.”
+“The day after the crate goes.”
 
-“Thursday is the day after the crate goes,” said Lu Kang. “We cannot seal a sheet on a day a bundle is going up the same stair. There will be two of us on this floor and a bundle.”
+“We cannot seal a sheet on a day a bundle is going up the same stair,” said Lu Kang. “There will be two of us on this floor and a bundle.”
 
 ## What She Took Down
 
