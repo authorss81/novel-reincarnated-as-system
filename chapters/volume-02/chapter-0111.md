@@ -78,7 +78,7 @@ There were four county hand-copies and three of them had never carried it, and t
 
 The striking looked like nothing. That was the thing about it she had not been ready for. A line through one cell in a second position reads as a clerk tidying a sheet, and there are a hundred thousand sheets in this bound with a line through one cell in them, and not one of them means what this one means.
 
-Four hundred years. Eleven entries. Eleven status words. And now one of them was a fair sheet in a tower with a dry line through it, and the six hundred years were still in the volumes on the high shelf, where nobody had been and nobody was going to go, because the request had said *wherever it is copied* and not *wherever it is bound*.
+Four hundred years. Eleven entries. Eleven status words. And now one of them was a fair sheet in a tower with a dry line through it, and the six hundred years were still in the volumes on the high shelf, which nobody goes up to, because the request had said *wherever it is copied* and not *wherever it is bound*.
 
 She stood in front of the shelf and worked out whether the volumes counted.
 

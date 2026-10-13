@@ -72,7 +72,7 @@ Then he struck it. On the county hand-copies walled behind the fifth item — al
 
 The word stayed on her own county sheet in the county office on the square, because the county keeps its own, and it was going there next, and she knew that while the brush was still moving.
 
-She did not ask him to read it. She did not ask him whether he recognised the hand, and she sat on a stool by a window for an hour and did not ask him a single question, because the one question worth asking in that room would have been an order to a man who had just done her a thing no one was ever going to thank him for, and she was not going to spend it.
+She did not ask him to read it. She did not ask him whether he recognised the hand, and she sat on a stool by a window for an hour and did not ask him a single question, because the one question worth asking in that room would have been an order to a man who had just done her a thing nobody in that tower was ever going to say out loud, and she was not going to spend it.
 
 The thing to notice was not the hand. The thing to notice was that the hand was ordinary.
 
@@ -102,4 +102,4 @@ Feng sealed his sheet and put it at the bottom of the crate with the fair hand o
 
 Two heads held the word. Her own, and the one that had never recognised it and had said so the first time and had said so again this hour in front of a witness who could not hear him.
 
-Three, if a man counts the paper, and the paper was being struck now, one sheet after another, on a fair copying floor in a town four miles from a county office, by a keeper of twenty-two years who had gone at it without being thanked and would not be thanked and had not asked.
+Three, if a man counts the paper, and the paper was being struck now, one sheet after another, on a fair copying floor in a town four miles from a county office, by a keeper of twenty-two years who had gone at it without being thanked and had not asked.

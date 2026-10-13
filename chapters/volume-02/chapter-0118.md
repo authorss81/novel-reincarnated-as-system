@@ -82,7 +82,7 @@ She said that to the ceiling. She had it worked out in about nine seconds and sh
 
 “You say them.”
 
-“First,” said Ning Yan. “The channel is spent on nothing that is not hours. No merrit from a thing that happens to me. No reading a man through my eyes. No Ledger, and there is no version of the rest of the winter where there is Ledger, and I do not care what it is worth, and it was once and that was once and it cost four and a half weeks that you did not tell me about.”
+“First,” said Ning Yan. “The channel is spent on nothing that is not hours. No merit from a thing that happens to me. No reading a man through my eyes. No Ledger, and there is no version of the rest of the winter where there is Ledger, and I do not care what it is worth, and it was once and that was once and it cost four and a half weeks that you did not tell me about.”
 
 “It stands once,” said Yuan. “It stands behind your order and not mine, and I have not held it since the same day.”
 

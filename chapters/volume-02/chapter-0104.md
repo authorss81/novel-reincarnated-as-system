@@ -18,7 +18,7 @@ She took the filing copy out of her coat with her left hand and worked it agains
 
 It was in the plainest hand the county has, which is a hand that does not want to be remembered. Hours, stages and defect, on the county's own sheet, counted from the day the tithe book opened. It recorded stages **as announced**. She had read that line at the desk on the eighty-first day and had taken it for a formality, the way a woman takes the small print on a sheet she is signing under a brush somebody else is holding.
 
-There were five words in it that she had not looked at.
+There were two words in it that she had not looked at.
 
 A stage that is announced goes into four county books and lands in the county sheet with a hand on it and an hour. A stage that is not announced goes nowhere. It is not that it is hidden. It is that it does not exist in any office in nine counties, and a filing is a chain of stages, and a chain with a missing link is not a shorter chain.
 

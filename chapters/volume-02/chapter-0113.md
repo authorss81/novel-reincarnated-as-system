@@ -60,7 +60,7 @@ Deng Chao and Pei An were behind him and neither of them came forward, and she s
 
 He turned and went along the west table and out into the rain, and Pei An went with him, and Deng Chao stayed where he was for a moment with his hand on the back of the bench and then went too, and none of the three of them said anything else, and the Hall clerk copied his own name into the certification column and did not look up while he did it.
 
-She did not thank him. She would have said thank you to a man who had helped her and he had not helped her; he had stamped his own paper, which was the only thing left in the building he could still lawfully do, and the three of them had known what it would cost her since the day they signed it and had let her sign anyway, and there was no arrangement on any side of this in which one of those men was owed anything.
+She would have said thank you to a man who had helped her, and he had not helped her. He had stamped his own paper, which was the only thing left in the building he could still lawfully do, and the three of them had known what it would cost her since the day they signed it and had let her sign anyway, and there was no arrangement on any side of this in which one of those men was owed anything.
 
 That was the leash and the lever and the room, all three, in one stamp, in the rain, under a roof that had been gone since the autumn.
 

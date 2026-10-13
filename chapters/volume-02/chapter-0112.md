@@ -18,7 +18,7 @@ The road above the bridge runs four miles through timber to the terrace, and the
 
 The foreman put her on the settling floor and then put her on the cold end of it, and did it in front of the shift and without a reason, and the nine men watched her go down.
 
-Nobody said nothing. Nine men do not say nothing. Two of them, going down the stair behind her, said a thing at the bottom of it in the low voice that men use when they are being honest at each other rather than at you, and the words were *she did it* and *she buried him herself*, and neither of them was wrong, and both of them said it to the other one and not to her, which is the most a furnace crew can offer.
+Nine men do not say nothing. Two of them, going down the stair behind her, said a thing at the bottom of it in the low voice that men use when they are being honest at each other rather than at you, and the words were *she did it* and *she buried him herself*, and neither of them was wrong, and both of them said it to the other one and not to her, which is the most a furnace crew can offer.
 
 “Say it to me,” said Ning Yan.
 

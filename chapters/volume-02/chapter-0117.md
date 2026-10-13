@@ -12,7 +12,7 @@ Nine men in a coal-smelling room in twelve bunks looking at a sheet of county pa
 
 “Licence to Practise Past Registration.”
 
-Nobody said anything.
+It got to the middle of the room and stopped there.
 
 “It is hers,” said the foreman from the doorway. “You can read it. It is nailed up where a man can read it. That is what nails are for.”
 
@@ -40,9 +40,9 @@ Down the road at Lowwater, the Lantern Register tower was lit from the inside, a
 
 *Stage five, at Qinghe, announced. Witnessed a countersignature at the county office at Lowwater. Copy of the announcement struck under request from without the bound. Entered upward with the quarter. Entered here. Not entered in the column.*
 
-The column stood at five where it had stood since the market day. The four county copies stayed walled behind the fifth item. Nobody in this bound had audited this tower in twenty-two years and nobody was going to start because a licence got stamped in a county office with a man's name at the bottom of the witness line.
+The column stood at five where it had stood since the market day. The four county copies stayed walled behind the fifth item. Nobody in this bound had audited this tower in twenty-two years and was going to start, because a licence got stamped in a county office with a man's name at the bottom of the witness line.
 
-That was the whole of what Feng Lushi had done in the spring, and he had not been thanked for it and would not be, and there is a line in a fair hand at the back of a fair volume in a tower four miles down the road, which is the only place in nine counties where any of it is written down.
+That was the whole of what Feng Lushi had done in the spring, and there is a line in a fair hand at the back of a fair volume in a tower four miles down the road, which is the only place in nine counties where any of it is written down.
 
 She lay in the second bunk with the arm out to the side and the lamp at the foot of the stair and the licence crooked above her feet.
 
@@ -58,7 +58,7 @@ The three sponsors held a Foundation writ that a stamped sheet had killed, in a 
 
 Shen Xiu had closed the winter book on the last day of the thaw with three hundred and eleven hours entered in a column of his own and eleven days of her absence in the gap between the rows where a clerk's own absences go, and he had signed it looking past her and had not asked her a single question, and would not for the rest of his life.
 
-Hou Sanliang was sitting in Lowwater with a piece of county paper he had not paid for, at a desk he owned, holding paper on three of nine households, and he was not in a hurry, and he was not owed by anybody and nobody was going to come and tell him anything. His man had not been paid in a month and had gone home and would go back. The eight hundred jin stood and answered nothing.
+Hou Sanliang was sitting in Lowwater with a piece of county paper he had not paid for, at a desk he owned, holding paper on three of nine households, and he was not in a hurry, and he was not owed by anybody and no one was going to come and tell him anything. His man had not been paid in a month and had gone home and would go back. The eight hundred jin stood and answered nothing.
 
 The girl of twenty-four was in a wash house four miles down the road with a leg that had set crooked, copying lists for the eighth estate, charging a county request to her own hour in a return sheet, and she was alive, and she was the safest thing in that town and had been since a winter she did not describe.
 
