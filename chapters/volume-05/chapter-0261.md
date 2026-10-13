@@ -92,7 +92,7 @@ She worked the day with the gap of the twenty-second standing in the column behi
 
 She felt the loss as lightness, which was strange, and then as weight, which was true. She had left the far reach on a road that reopened and come back inside the fence, deliberately, at a cost, and the booking held, and the road held, and neither had moved for her.
 
-He said one thing that night and it was present tense and it bought nothing.
+He said one thing that night and it was present tense, and it bought nothing, because she had walked nine coppers of road to know it herself.
 
 “You are back,” he said. “And the road is behind you.”
 

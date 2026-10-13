@@ -2,9 +2,15 @@
 
 ## What this phase is
 
-**Volume 5 is closed and audited. Ch 239–298 is on the page, the close audit is complete, twelve chapter-level
-faults were repaired, nine findings were recorded and not repaired, and the fifteen required continuity facts
-are confirmed.**
+**Volume 5 is closed and audited, and its close review has been applied. Ch 239–298 is on the page, the close
+audit is complete, **ten repairs were made in the chapters in ten categories — twenty individual faults across
+nineteen reopened chapters and thirty-one chapter files —**, eight findings were recorded and not repaired, and
+the fifteen required continuity facts are confirmed.
+
+**Every count and word figure below is derived from the chapters and was re-derived at the close review. Do not
+inherit a number from an older record: the close itself carried a stale volume total, stale per-batch totals and
+a stale reopened-chapter list, and all of them are corrected. If you quote a figure anywhere in Volume 6's
+planning, derive it.**
 
 **This phase does two things and no more.** First it writes **`outline/volume-06.md`**, the volume outline for
 Volume 6, *The Real Realm*, ch 299–360. Second it creates exactly one Volume 6 planning prompt —
@@ -22,12 +28,21 @@ not create a Volume 6 batch directory. Both are yours.**
 `AGENTS.md`, `NOVEL_SPEC.md`, `OUTLINE_GUIDE.md`, `outline/series.md`, `outline/ending.md`,
 **`outline/volume-05.md` in full** (the closed volume you are writing the successor of, and the template's
 immediate parent), the six `bible/` files, `state/current.md` **in full — the cold-reader block at the top
-first, then `## Volume 5 close audit — CLOSED`**, `state/continuity.md` **including *Volume 5 close — repairs*
-and *Volume 5 running ledger — at the close of the volume, day 620***, `state/open-threads.md` in full,
+first, then `## Volume 5 close audit — CLOSED`**, `state/continuity.md` **including *Volume 5 close — repairs*,
+*Volume 5 close — REVIEW REPAIR* and *Volume 5 running ledger — at the close of the volume, day 620***,
+`state/open-threads.md` in full,
 `state/chapter-summaries.md` (**including *Volume 5 closed — audited***), `state/book-metadata.md`,
 `workspace/volume-05-close/SUMMARY.md`, and chapters **284–298** at minimum. Extend to 268–283, and then to
 253–267, if the verified context budget safely allows; the four batch records in `state/continuity.md` are the
 compressed record of the earlier half and must be read if those chapters are not.
+
+**Two things in there are easy to get wrong, and both are recorded in the review block.** The four batch-review
+sections of `state/continuity.md` quote **pre-close word totals** (25,886 / 25,382 / 22,738 / 27,154, summing to
+101,160). **Those are snapshots of what those reviews counted at their own phase. The current Volume 5 figures are
+101,266 total, per batch 25,897 / 25,441 / 22,771 / 27,157**, and they are the ones to use. And the Yuan tag —
+*He said one thing that night and it was present tense and it bought nothing* — is **a device, not scaffolding**:
+the close review ruled on it explicitly, kept it, and recast five of its instances so no string in the run stands
+more than twice. **Do not treat it as an error to remove.**
 
 **Read `outline/volume-04.md` as well if you have not.** `outline/volume-03.md` is the template a volume
 outline takes, `outline/volume-04.md` is the template for a volume that crossed a boundary, and

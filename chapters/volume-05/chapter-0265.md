@@ -92,7 +92,7 @@ Rain came off the roof edge onto the ground by the door. She worked out what she
 
 She wanted the hand to hold to the twenty-seventh. One day of bank work with a pay-day at the end of it, and the column waiting, and the furnace banked that night, and nothing else.
 
-He said one thing that evening and it was present tense and it bought nothing.
+He said one thing that evening and it was present tense, and it bought nothing, and it was only reporting what the ground was doing.
 
 “It is in the ground,” he said. “And it is staying there.”
 

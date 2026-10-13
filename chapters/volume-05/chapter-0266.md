@@ -78,7 +78,7 @@ At the plank she wrote the date in, eleven minutes with the flat of the second f
 
 She put her hand flat on the book for a line’s length, and the book was a wage-book kept by people who were not a county and were not obliged to keep it, and the column on the near side was hers, and that was the whole of what she knew.
 
-He said one thing that evening and it was present tense and it bought nothing.
+He said one thing that evening and it was present tense, and it bought nothing, and it was the only sentence she had been given that day which cost her nothing.
 
 “You are paid,” he said. “And you are kept.”
 

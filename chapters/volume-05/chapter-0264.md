@@ -66,7 +66,7 @@ She sat against the boards in the hut and held the two mouthfuls the way she hel
 
 She wanted to write it down. That was the concrete want, to put three facts on the back of a dead weight ticket in wash-code the way she used to put everything down. She did not, because a ticket with inside news in a far-side hut was a paper no reach could hold, and she folded the want away with the rest.
 
-He said one thing that night and it was present tense and it bought nothing.
+He said one thing that night and it was present tense, and it bought nothing, and it was the whole of what he had come to say.
 
 “They are standing,” he said. “And you are standing.”
 

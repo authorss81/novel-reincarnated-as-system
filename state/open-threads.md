@@ -2,8 +2,8 @@
 
 **Volume 1 is closed. Volume 2 is closed and audited (ch 59–118). VOLUME 3 IS CLOSED AND AUDITED (CH 119–178).
 VOLUME 4 IS CLOSED AND AUDITED (ch 179–238, 120,572 words across four batches: 28,607 · 31,900 · 28,581 ·
-31,484, chapter titles and section headings excluded). VOLUME 5 IS CLOSED AND AUDITED (ch 239–298, 101,204
-words across four batches: 25,886 · 25,382 · 22,738 · 27,154, after the volume-close repair).** The Volume 3 close audit table is in `state/current.md`
+31,484, chapter titles and section headings excluded). VOLUME 5 IS CLOSED AND AUDITED (ch 239–298, 101,266
+words across four batches: 25,897 · 25,441 · 22,771 · 27,157, after the volume close and its review repair).** The Volume 3 close audit table is in `state/current.md`
 under `## Volume 3 close audit — CLOSED`, and **the review's reversal of one of the audit's rules is written up
 under *Close review repair* in that same block — read it before using any four-county or nine-county figure
 from this run.** The Volume 4 close audit table is in `state/current.md` under
@@ -11,9 +11,12 @@ from this run.** The Volume 4 close audit table is in `state/current.md` under
 block — read it before using any weekday, stage-day or word-count figure out of this run, because the review
 moved two sentences in ch 220 and ch 232, made the weekday rule canon, and reopened six closed chapters.**
 **The Volume 5 close audit table is in `state/current.md` under `## Volume 5 close audit — CLOSED`, and its
-reasoning is in `state/continuity.md` under `## Volume 5 close — repairs`. READ BOTH BEFORE PLANNING VOLUME 6:
-they carry twelve repairs made in the chapters, nine findings recorded and not repaired, and **the protagonist
-answered in writing**, which `outline/series.md` §2 makes a standing requirement on every volume from here.**
+reasoning is in `state/continuity.md` under `## Volume 5 close — repairs` and `## Volume 5 close — REVIEW REPAIR`.
+READ ALL THREE BEFORE PLANNING VOLUME 6: they carry **ten repairs in ten categories — twenty individual faults
+across nineteen reopened chapters and thirty-one files** — made in the chapters, eight findings recorded and not
+repaired, and **the protagonist answered in writing**, which `outline/series.md` §2 makes a standing requirement
+on every volume from here. **The review also ruled on the Yuan tag and recast five of its instances; the tag is
+not authorial scaffolding and the device was kept.**
 Live threads below carry into **Volume 6, *The Real Realm*, ch 299–360**. The
 full state of each one at the last page of Volume 5 is in `state/continuity.md` under
 ***Volume 5 running ledger — at the close of the volume, day 620***.
@@ -36,7 +39,7 @@ one.**
 
 ## Volume 5 Batch 0001 (ch 239–252) — what this batch added, and what is now live going into Batch 0002
 
-**Fourteen chapters, 25,886 words of body prose, day 471 to day 506. Zero bracketed layer lines.** Pressure:
+**Fourteen chapters, 25,897 words of body prose, day 471 to day 506. Zero bracketed layer lines.** Pressure:
 **keeping and being kept** — and nothing else. Full record in `state/continuity.md`.
 
 | Thread | Owner | Planned resolution | State |
@@ -144,7 +147,7 @@ Volume 5 Batch 0004 (ch 284–298) — ASH AND LEAVING*** and ***Volume 5 runnin
 
 ## Volume 5 Batch 0002 (ch 253–267) — what this batch added, and what is now live going into Batch 0003
 
-**Fifteen chapters, 25,382 words of body prose, average ~1,692, day 507 to day 521. ONE bracketed layer line, at ch 258.**
+**Fifteen chapters, 25,441 words of body prose, average ~1,696, day 507 to day 521. ONE bracketed layer line, at ch 258.**
 Pressure: **debt coming due** — and nothing else. Full record in `state/continuity.md`.
 
 | Thread | Owner | Planned resolution | State |

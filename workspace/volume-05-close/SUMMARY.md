@@ -4,15 +4,18 @@
 
 `outline/volume-05.md` walked line by line against the sixty chapters that are on the page. Every named item is
 recorded as PASS or FAIL with a chapter reference in `state/current.md` under `## Volume 5 close audit — CLOSED`.
-Twelve faults were found in the chapters and repaired at word or sentence level. Nine findings are recorded with
-a reason and no repair. Four inaccurate state-file claims were corrected. **No chapter was replaced. Nothing
+Ten repairs were made in the chapters, at word or sentence level, in ten categories and twenty individual faults
+across nineteen reopened chapters and thirty-one chapter files. Eight findings are recorded with a reason and no
+repair. Five inaccurate state-file claims were corrected. **No chapter was replaced. Nothing
 structural moved** — not the plot, not the sixty titles, not the chapter order, not the three pinned stage days
 (512, 556, 600), not the pinned claim dates (294–295, 296, 297), not the four batch climaxes, not one
 irreversible decision, not the ending. `outline/series.md` and `outline/ending.md` are byte-unchanged, and
 `outline/volume-06.md` does not exist.
 
-**Volume 5 file set after repair: 101,204 words of body prose over sixty chapters**, chapter titles and `##`
-section headings excluded (101,160 before the close). **Day 471 to day 620. Three bracketed layer lines in sixty,
+**Volume 5 file set after repair: 101,266 words of body prose over sixty chapters**, chapter titles and `##`
+section headings excluded (101,204 after the close, 101,160 before it). **Per batch: 25,897 · 25,441 · 22,771 ·
+27,157 — the close refreshed the volume total and left the four batch totals at their pre-close values, which the
+close review corrected.** **Day 471 to day 620. Three bracketed layer lines in sixty,
 at ch 258, 275 and 292, each matching the pinned text character for character.**
 
 ## The volume in one paragraph
@@ -86,7 +89,7 @@ volume, introduced no new final enemy, and took nothing the ending owns — **th
 the Anchor, the Sisterhood and the Scribe are untouched, and the Scribe belongs to Volume 15.** The year of
 non-forgiveness was not retired, he was not forgiven, and she was not allowed to tell him to stop.
 
-## The twelve repairs
+## The ten repairs
 
 | Ch | Fault | Repair |
 | --- | --- | --- |
@@ -99,9 +102,9 @@ non-forgiveness was not retired, he was not forgiven, and she was not allowed to
 | 298 | **The surface answer re-voiced in the final chapter**, in two sentences, against the pin that it is paid once at ch 267 | both cut; the section keeps the private knowing and drops the answer |
 | 286 · 291 | *About four seconds*, a construction Volume 4 retired, four times in Batch 0004 against a recorded zero | recast at two; kept at 290 and 293 deliberately |
 | 239–252 | Forty-one straight ASCII apostrophes in all fourteen files of Batch 0001 | converted; Volume 5 is uniform |
+| 261 · 262 · 264 · 265 · 266 | **The Yuan tag, five times byte-identical** — ruled on at the close review as *not* scaffolding, but the run itself repaired | five tags recast so no string in the run stands more than twice; device, position and every line of his dialogue untouched |
 
-**Nine findings recorded and not repaired**, each with its reason in `state/current.md`: the Yuan tag's run
-through Batch 0002 (a ledger line, never a chapter's closer, each utterance different); the present-tense
+**Eight findings recorded and not repaired**, each with its reason in `state/current.md`: the present-tense
 documentary block at ch 297; Wei Ran on four cards where the outline names two batches; Bai Zhu named aloud
 once; *reconciled* read seven times and corrected never; **the four weeks every foundation costs her never
 stated, because stating it names what `outline/ending.md` §8 reserves for ch 1000**; two *about four seconds*
@@ -184,13 +187,43 @@ absolutes in this book are literal.**
 was the bargain and it was permanent* about a cost at ch 259, and *the end of a bargain* about a thanks at
 ch 297. **Feng's death is nowhere.** The close itself previews none of them.
 
+## The close review, applied
+
+The close review audited this close and returned four findings. **All four are resolved, and the state layer is
+now consistent.**
+
+1. **The reopened-chapter list was short and mis-batched.** `state/book-metadata.md` said *eleven chapters
+   across three batches*. The list falls across **four** batches, and it omitted **ch 292, ch 297 and ch 298**,
+   each of which carries a real repair. **The close reopened fourteen chapters; the review re-opened five more;
+   nineteen chapters across four batches have now been reopened, and thirty-one chapter files have been touched
+   in all.**
+2. **"Twelve repairs" had no traceable source.** The table has **ten rows**. The count is now derived rather
+   than asserted — **ten categories, twenty individual faults, nineteen chapters, thirty-one files, four
+   batches** — and the derivation is written into both `state/current.md` and `state/continuity.md`.
+3. **A fourth stale figure was found while fixing the second:** the close refreshed the volume word total to
+   101,204 but left all four per-batch totals at their pre-close values, so they summed to 101,160 against a
+   volume figure of 101,204. **All word counts are now re-derived from the chapters**, and the batch-review
+   blocks that quote the old figures carry a note saying they are snapshots. Two guide-band counts that had
+   their inside/under figures reversed were corrected at the same time.
+4. **The deferred judgement was ruled on.** The close cut seven scaffolding instances for being talk about the
+   book's construction while recording the Yuan tag as an authorised motif. **Ruling: the tag is not scaffolding**
+   — it names a diegetic register rule and a fact about the scene, never the novel's length, volumes or reader
+   — so **the device was kept and the run was repaired instead**, at five chapters. Full reasoning in
+   `state/continuity.md` under `## Volume 5 close — REVIEW REPAIR`.
+
+**The close's own finding 1 said the verbatim tag stood four times and named only 261, 262, 264 and 267. It is
+five — ch 253 is byte-identical.** Corrected in place, with the correction recorded rather than the error
+deleted, on the same principle as the close's own handling of its earlier count.
+
 ## After this phase
 
-**Volume 5 is closed and audited.** The audit table is complete, every fault is either repaired in the chapters
-or recorded as a finding with a reason, the fifteen required items are confirmed one at a time, and the
-protagonist question is answered in the form above. **`state/current.md`, `state/continuity.md`,
-`state/open-threads.md`, `state/chapter-summaries.md` and `state/book-metadata.md` are updated and consistent.**
-**`outline/series.md` and `outline/ending.md` are unchanged. `outline/volume-06.md` does not exist.**
+**Volume 5 is closed and audited, and its close review has been applied.** The audit table is complete, every
+fault is either repaired in the chapters or recorded as a finding with a reason, the fifteen required items are
+confirmed one at a time, and the protagonist question is answered in the form above. **`state/current.md`,
+`state/continuity.md`, `state/open-threads.md`, `state/chapter-summaries.md` and `state/book-metadata.md` are
+updated and consistent, and every figure quoted in them is derived from the chapters rather than inherited.**
+**`outline/series.md`, `outline/ending.md` and `outline/volume-05.md` are unchanged. `outline/volume-06.md` does
+not exist.**
 
 **The next phase is the Volume 6 planning phase**, and its whole job is to write `outline/volume-06.md` and open
 Volume 6's planning. **This close did not create a Volume 6 batch directory — the self-dispatch workflow selects

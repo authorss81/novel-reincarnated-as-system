@@ -84,7 +84,7 @@ She felt the strangeness of being a person whose stages stood in order in a fair
 
 A thing kept by people who were not a county could be lost by people who were not a county. She worked that out in the dark with her palm flat on the boards, and it did not make the sheet worth less. It made it worth exactly what it had cost, which was nothing, and she sat with that for a long while and let it be true.
 
-He said one thing that night and it was present tense and it bought nothing.
+He said one thing that night and it was present tense, and it bought nothing. She had worked it out in the dark before he said it.
 
 “It is kept,” he said. “And it is not yours to keep.”
 

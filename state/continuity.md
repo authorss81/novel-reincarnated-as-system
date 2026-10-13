@@ -3931,10 +3931,11 @@ rule. No controller file was touched.
 
 ## Volume 5 close — repairs
 
-**`outline/volume-05.md` walked line by line against ch 239–298. Twelve faults were found in the chapters and
-repaired at word or sentence level. Nine findings are recorded with a reason and no repair. Four inaccurate
-state-file claims were corrected. The full table, the evidence and the fifteen preserved items are in
-`state/current.md` under `## Volume 5 close audit — CLOSED`.**
+**`outline/volume-05.md` walked line by line against ch 239–298. Ten repairs were made in the chapters, in ten
+categories and twenty individual faults, across nineteen reopened chapters and thirty-one chapter files. Eight
+findings are recorded with a reason and no repair. Five inaccurate state-file claims were corrected. The full
+table, the count derivation, the evidence and the fifteen preserved items are in `state/current.md` under
+`## Volume 5 close audit — CLOSED`.**
 
 **Nothing structural moved.** The planned plot, the sixty titles, the chapter order, the three pinned stage
 days (512, 556, 600), the pinned claim dates (294–295, 296, 297), the four batch climaxes, every irreversible
@@ -3942,18 +3943,30 @@ decision, the two deliberate Batch 0004 drafting decisions (the far date on the 
 account settling in a far-side book) and the ending all stay where they were. **No chapter was replaced and no
 chapter was added or removed. `outline/series.md` and `outline/ending.md` are byte-unchanged.**
 
-**Volume 5 file set after repair: 101,204 words of body prose over sixty chapters**, chapter titles and
-`##` section headings excluded (101,160 before this close). **Per file, body prose:** 239 1,801 · 240 1,813 ·
+**Volume 5 file set after repair: 101,266 words of body prose over sixty chapters**, chapter titles and
+`##` section headings excluded (101,204 after this close, 101,160 before it; +62 from the close review's five
+Yuan-tag recasts). **Per file, body prose, as at the close review:** 239 1,801 · 240 1,813 ·
 241 1,769 · 242 1,861 · 243 1,767 · 244 1,881 · 245 1,862 · 246 1,777 · 247 1,962 · 248 1,890 · 249 1,894 ·
 250 1,954 · 251 1,827 · 252 1,839 · 253 1,911 · 254 1,620 · 255 1,613 · 256 1,713 · 257 1,689 · 258 1,664 ·
-259 1,629 · 260 1,752 · 261 1,646 · 262 1,616 · 263 1,670 · 264 1,704 · 265 1,764 · 266 1,724 · 267 1,664 ·
+259 1,629 · 260 1,752 · 261 1,658 · 262 1,628 · 263 1,670 · 264 1,716 · 265 1,774 · 266 1,740 · 267 1,664 ·
 268 1,371 · 269 1,365 · 270 1,342 · 271 1,466 · 272 1,649 · 273 1,358 · 274 1,352 · 275 1,542 · 276 1,421 ·
 277 1,341 · 278 1,375 · 279 1,380 · 280 1,352 · 281 1,433 · 282 1,516 · 283 1,508 · 284 1,749 · 285 1,467 ·
 286 1,893 · 287 1,766 · 288 1,510 · 289 1,780 · 290 1,755 · 291 1,589 · 292 1,607 · 293 1,752 · 294 1,893 ·
-295 1,918 · 296 2,079 · 297 1,828 · 298 2,571. **None under the 1,300 floor; none above the 2,700 guide; no
-paragraph over 99 words.**
+295 1,918 · 296 2,079 · 297 1,828 · 298 2,571. **Per batch: 0001 25,897 · 0002 25,441 · 0003 22,771 ·
+0004 27,157.** **None under the 1,300 floor; none above the 2,700 guide; no paragraph over 99 words.**
 
-### The twelve repairs, and why each one was made
+**Read the per-batch figures quoted inside the four batch-review blocks above this one as snapshots taken by
+those reviews.** They were counted at their own phase and the volume close then repaired chapters inside all four
+batches, so **0001 25,886, 0002 25,382, 0003 22,738 and 0004 27,154 — which sum to 101,160 — are the pre-close
+figures, not the current ones.** The close refreshed the volume total to 101,204 and left the four batch totals
+behind it, which is the inconsistency the close review corrected. **The current per-batch figures are the ones in
+the line above.**
+
+### The ten repairs, and why each one was made
+
+*Corrected at the close review. This list was headed **the twelve repairs** and item 10 gave a total of twelve
+that its own arithmetic did not produce; the count was carried into four other files on the strength of it. The
+heading is now **ten categories**, and the derived counts are in item 11 below.*
 
 1. **ch 248 — a duplicated paragraph.** *She did not answer him and she did not spend a mark on it* is
    byte-identical in ch 242 and ch 248. Recast at 248: *She did not answer him, and nothing in her hand moved,
@@ -4032,21 +4045,58 @@ paragraph over 99 words.**
    exactly that for the weekday rule at eight instances. **It is recorded here so the next phase that opens a
    canon sweep knows it exists, and it is not this phase's to do.**
 
-10. **ch 248 and ch 295 counted above.** The total is twelve repairs: three duplicated paragraphs (248, 275 ×2,
-    295 — five paragraphs across three chapters), one calendar month (278), one interval (251), seven
-    scaffolding instances (256, 271, 283, 290, 292, 295, 297), one re-voiced surface answer (298), two
-    *about four seconds* (286, 291) and one typographic sweep (239–252, forty-one characters).
+10. **ch 261, 262, 264, 265 and 266 — the Yuan tag, run five times byte-identical.** Repaired at the close
+    review. **Ruling first, because the close had decided the opposite and left it standing: the tag is not
+    authorial scaffolding, and the close's cut of seven scaffolding instances and its retention of this tag can
+    both hold.** The scaffolding instances were cut because they are talk about **the novel's own construction** —
+    *in this book*, *for the rest of the book*, *in five volumes*, *four volumes*. The tag names neither the book's
+    length, its volumes nor its reader. It names a **diegetic register rule** (his speech is in the present tense,
+    the standing consequence of his frame) and **a dramatic fact about the scene** (the line bought nothing). It is
+    a ledger line, and it survives the test the scaffolding instances fail. **The device was therefore kept.**
+    **The run was not.** Eleven near-identical sentences across eleven of Batch 0002's fifteen chapters, five of
+    them byte-identical, is inside `AGENTS.md`'s condition on the same construction used more than twice in a row —
+    and this close had already applied exactly that standard to *about four seconds*, thinning four uses to two,
+    which is why leaving the two positions standing was not defensible. **Five tags recast so that no string in
+    the run now stands more than twice:** 261 *…and it bought nothing, because she had walked nine coppers of road
+    to know it herself* · 262 *…and it bought nothing. She had worked it out in the dark before he said it* ·
+    264 *…and it bought nothing, and it was the whole of what he had come to say* · 265 *…and it bought nothing,
+    and it was only reporting what the ground was doing* · 266 *…and it bought nothing, and it was the only
+    sentence she had been given that day which cost her nothing*. **253, 255, 258, 259, 263 and 267 keep their
+    tag** — 253 and 267 bookend the run and 259 and 263 are the two evening instances. **No beat, no line of his
+    dialogue and no pinned item moved; every tag still sits in the same position, immediately before the same
+    utterance.** +62 words of body prose, all in Batch 0002.
+
+11. **The count, derived from items 1–10.** Every count in the state layer now derives from this list:
+
+    | Measure | Count | Derivation |
+    | --- | --- | --- |
+    | **Repair categories** | **10** | items 1–10 |
+    | **Individual faults** | **20** | 3 duplicated-paragraph sites (248, 275, 295) + 1 calendar month (278) + 1 wrong interval (251) + 7 scaffolding instances (256, 271, 283, 290, 292, 295, 297) + 1 re-voiced surface answer (298) + 2 retired *about four seconds* (286, 291) + 5 over-run Yuan tags (261, 262, 264, 265, 266) |
+    | **Chapters reopened with a substantive repair** | **19** | 248, 251, 256, 261, 262, 264, 265, 266, 271, 275, 278, 283, 286, 290, 291, 292, 295, 297, 298 |
+    | **Chapter files touched in all** | **31** | the 19 above, plus the 12 Batch 0001 files carrying the typographic sweep and nothing else (239–247, 249, 250, 252) |
+    | **Batches the 19 fall in** | **4** | 0001 (248, 251) · 0002 (256, 261, 262, 264, 265, 266) · 0003 (271, 275, 278, 283) · 0004 (286, 290, 291, 292, 295, 297, 298) |
+
+    **Three figures in the close's own record were wrong.** It said *twelve* repairs, which matched no measure
+    above. It said eleven chapters were reopened, omitting **292, 297 and 298**. And it said those chapters fell
+    across *three* batches; they fall across **four**. Separately, it called the duplication repairs *five
+    paragraphs across three chapters* — it is **four** (248 ×1, 275 ×2, 295 ×1).
 
 ### Findings recorded and NOT repaired, with the reason
 
-1. **The Yuan tag.** *He said one thing that night and it was present tense and it bought nothing* stands four
-   times verbatim (261, 262, 264, 267) and three more in the *evening* variant (263, 265, 266), and the
-   construction runs the whole of Batch 0002 — eleven chapters, 253–267. **Zero in ch 268–298.** The phase
-   prompt's record — *seven times in ch 261–267* — reconciles exactly if the three *evening* variants are
-   counted as the same construction; the verbatim string is four. **Recorded, not repaired:** it is a ledger
-   line and not emphasis, it always precedes his speech, it is never a chapter's closing line, the utterance
-   under each tag is different every time, and Batch 0002 was audited with it and Batch 0003's review already
-   broke the run. Breaking it again here would delete an authorised motif on a preference.
+1. **The Yuan tag — RULED ON AND REPAIRED at the close review.** *He said one thing that night and it was
+   present tense and it bought nothing* stood **five times byte-identical, at ch 253, 261, 262, 264 and 267**,
+   with **one further variant at ch 255** (*in the present tense*) and **one at ch 258** (*one sentence… and
+   advised nothing*), and **four in the *evening* form, at ch 259, 263, 265 and 266** — eleven of Batch 0002's
+   fifteen chapters. **Zero in ch 268–298.** *(Corrected at the review: this finding said the verbatim string
+   stood **four** times and named only 261, 262, 264 and 267, and went out of its way to correct an earlier count
+   on that basis. It is **five** — **ch 253 is byte-identical**, and was named in the same finding as part of the
+   run. The close's own note that *seven times in ch 261–267* reconciles only if the evening variants are counted
+   as the same construction.)* **The close recorded it, not repaired, as an authorised motif.** The review held
+   that this could not stand beside the close's simultaneous cut of seven scaffolding instances — *it was present
+   tense and it bought nothing* is a sentence about the prose technique — and asked for a ruling rather than a
+   further deferral to Batch 0002's audit. **The ruling is in repair 10 above: it is not scaffolding, the device
+   is kept, and the run is repaired at five chapters so that no string stands more than twice.** The finding is
+   kept in this list rather than deleted, because the reasoning is the record of a decision that was reversed.
 2. **The present-tense block at ch 297, *What It Is*.** Four paragraphs of close third on Ning Yan in the
    present tense. **Recorded, not repaired:** the construction is the volume's established register for a
    durable state, with precedent at ch 239:31, 241:11, 249:23, 251:101 and 252:49; no completed event is
@@ -4080,7 +4130,8 @@ paragraph over 99 words.**
   `current.md` and `chapter-summaries.md` and missed here — and recorded *Wei Ran appears twice in Volume 5*,
   against four. All three corrected.
 - `state/book-metadata.md` and the volume line in `state/current.md` carried the file set as 101,160. It is
-  **101,204** after these repairs.
+  **101,204** after these repairs. *(Corrected again at the close review: **101,266**, and the four per-batch
+  totals, which the close had left at their pre-close values, are now 25,897 / 25,441 / 22,771 / 27,157.)*
 - `state/chapter-summaries.md` did not record the volume close at all, and its *Volumes 5–16* block still named
   the Volume 5 close as the next phase. Corrected, and a **Volume 5 closed — audited** section added beneath it.
 
@@ -4093,8 +4144,10 @@ month names return **zero** across ch 239–298. `tribulation` returns zero. `ki
 `Sisterhood`, `Lung`, `appointment`, `MEMBER ABSENT`, `sponsor`, `Shen Xiu` and `*volume*` all return zero.
 Every one of the sixty files closes every speech with curly quotes, and **there is not one straight double
 quote or straight apostrophe left in the volume.** Zero blockquotes, code fences, tables and horizontal rules.
-**No bold at all in the volume; eleven italics, all of them documentary (*reconciled*, *for*, *on an account*,
-*I am paying this*).** No controller file was touched, and `outline/volume-06.md` does not exist.
+**No bold at all in the volume; twelve italic spans, all of them documentary** — *reconciled* ×5, *Reconciled*
+(the chapter title), *for* ×2, *on* ×2, *on an account*, *I am paying this*, and the far-side office's own
+discharge line at ch 296. *(Corrected at the review: this said eleven.)* No controller file was touched, and
+`outline/volume-06.md` does not exist.
 
 ### Volume 5 running ledger — at the close of the volume, day 620
 
@@ -4110,3 +4163,74 @@ quote or straight apostrophe left in the volume.** Zero blockquotes, code fences
 | Yuan | **Readable from outside the bound without her, and therefore findable.** Unentered state and the date of the morning he died, gone, named on the page before the line went in. **No figure of what is left of him anywhere in ch 239–298** |
 | Inside | **One report, once, ch 295.** Floor, nine men, the same nine; wash house; tower light; counting room; the date off the page |
 | Still open | The Hunter's request pending and the line's own people still not knowing she exists · everything above the Standing Office of the Second Account · *kiln-born* in two heads and on no paper · what became of the eleven · why the register reads *reconciled* · the year still carrying · **and the country past the last working point, which she stood half a mile short of and did not go past** |
+
+---
+
+## Volume 5 close — REVIEW REPAIR
+
+The close review audited the close and returned four findings. **Three were count errors in the state layer and
+one was an editorial judgement that had been deferred twice. All four are now resolved.** The chapters were
+re-opened once, at five sentences. **No chapter was replaced, no beat moved, no title changed, and
+`outline/series.md`, `outline/ending.md` and `outline/volume-05.md` are untouched.**
+
+### 1 — The reopened-chapter list was short and mis-batched. REPAIRED.
+
+`state/book-metadata.md` recorded *eleven chapters across three batches*, and named ch 248, 251, 256, 271, 275,
+278, 283, 286, 290, 291, 295. **Against the commit it is wrong twice over.** The list falls across **four**
+batches, not three — 248 and 251 in 0001, 256 in 0002, 271/275/278/283 in 0003, 286/290/291/295 in 0004. And it
+**omits ch 292, ch 297 and ch 298**, each of which carries a real repair in that commit: 292 *five volumes* →
+*four years*, 297 *for the rest of the book* → *for as long as either of them was standing*, and 298's two
+re-voicings of the surface answer cut. **The close reopened fourteen chapters with a substantive repair, and the
+close review re-opened five more (261, 262, 264, 265, 266). The current list is nineteen chapters across four
+batches.** Thirty-one chapter files have been touched in all, counting the twelve that carry only the
+typographic sweep.
+
+### 2 — "Twelve repairs" had no traceable source. REPAIRED.
+
+*Twelve repairs* was carried in `current.md`, `continuity.md`, `open-threads.md`, `chapter-summaries.md` and
+the close summary. **The repairs table has ten rows.** The count was corrected to a derived vocabulary —
+**ten categories, twenty individual faults, nineteen chapters, thirty-one files, four batches** — and the
+derivation table is now written into both `current.md` and `continuity.md` so the figures can be re-derived
+rather than trusted. **A fourth stale figure was found while doing this and is also corrected:** the close
+refreshed the volume word total to 101,204 but left all four per-batch totals at their pre-close values, so they
+summed to 101,160 against a volume figure of 101,204. Per-batch and per-file counts are now re-derived from the
+chapters in every state file, and the batch-review blocks that quote the old figures carry a note saying they
+are snapshots.
+
+### 3 — The audit's own precision claim was off by one. REPAIRED.
+
+Finding 1 stated the verbatim tag *stands four times verbatim (ch 261, 262, 264, 267)* and corrected an earlier
+count on the strength of it. **It is five — ch 253 is byte-identical**, and was named in the same finding as
+part of the run. The close's companion claim that the duplication repairs were *five paragraphs across three
+chapters* is also wrong; it is **four** (248 ×1, 275 ×2, 295 ×1). Both corrected in place, with the correction
+recorded rather than the error deleted.
+
+### 4 — The judgement deferred twice. RULED ON AND REPAIRED.
+
+The close cut seven instances of authorial scaffolding — *in this book*, *for the rest of the book*, *in five
+volumes*, *four volumes* — on the ground that they are talk about the book's own construction. In the same
+document it recorded eleven instances of *it was present tense and it bought nothing* as an authorised motif.
+The review held that both positions could not stand and asked for an explicit ruling.
+
+**RULING: the tag is not scaffolding.** The scaffolding instances are about the novel — its length, its
+volumes, its reader. The tag is about **the world**: a diegetic register rule (his speech is in the present
+tense, the standing consequence of his frame) and a dramatic fact about the scene (the line bought nothing).
+It is a ledger line, and it passes the test the scaffolding instances fail. **The device was kept.**
+
+**But the run was a fault, and it is repaired.** Eleven near-identical sentences across eleven of fifteen
+consecutive chapters, five of them byte-identical and four more byte-identical in a second variant, is inside
+`AGENTS.md`'s condition on a construction used more than twice in a row — and this same close applied that
+standard to *about four seconds*, thinning four uses to two. **Five tags recast (261, 262, 264, 265, 266) so
+that no string in the run now stands more than twice.** 253, 255, 258, 259, 263 and 267 keep their tag; 253 and
+267 bookend the run. **No beat, no line of his dialogue and no pinned item moved; every tag still sits
+immediately before the same utterance.** **+62 words of body prose, all in Batch 0002.**
+
+### Re-verified after the review repair
+
+`grep` for a line beginning with `[` still returns **exactly three in sixty chapters**, at 258, 275 and 292.
+Weekday names, calendar month names, `tribulation`, `Anchor`, `Sisterhood`, `Scribe`, `kiln-born`, `Lung`,
+`appointment`, `MEMBER ABSENT`, `sponsor` and `Shen Xiu` all return **zero**. Zero straight apostrophes, zero
+bold, zero blockquotes, code fences, tables or horizontal rules. **The longest paragraph in the volume is still
+exactly 99 words.** The three named duplicate paragraphs (248/242, 275/258, 295/287) remain gone, and a
+paragraph-level duplicate scan returns **only the two intentional bookend pairs of the Yuan tag, at 253/267 and
+259/263.**
