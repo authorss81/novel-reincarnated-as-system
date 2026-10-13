@@ -2,7 +2,7 @@
 
 The last block of the face was at the bottom bench and it was the biggest thing in the ground, and it had to come off before the light because the haul was long and the grade was white.
 
-She was at the lip at the first hour because Bo needed the fastest pair of hands on the setting, and the fastest pair of hands on that face had been hers for eight weeks, and Bo had stopped pretending about it in the fourth week by putting her on the lip first and then pretending afterwards.
+She was at the lip at the first hour because Bo needed the fastest pair of hands on the setting, and the fastest pair of hands on that face had been hers since the middle of the first month of the cold, and Bo had stopped pretending about it in the fourth week of it by putting her on the lip first and then pretending afterwards.
 
 The block came down in three pieces and the third piece was the one that moved.
 
@@ -82,13 +82,13 @@ Kan had moved fast. She would think about that for a while and she would not be 
 
 Bo paid at the rope, in the open, with the money in a cloth bag and the cards on the board, and he read them out, because that is how a quarry pays and there is nothing private about a face.
 
-There were eight weeks of them on the board.
+There were forty-three of them on the board and her hour was at the left of thirty-four of those.
 
-She had put a hundred and twenty loads on that rope herself, at twelve coppers, and had worked the days she could between the crew's hours four miles up the hill.
+She had put a hundred and seventy loads on that rope herself, at twelve coppers, and had worked the days she could between the crew's hours four miles up the hill.
 
-“One hundred and forty-four hundred,” said Bo.
+“Two thousand and forty,” said Bo.
 
-Nobody said anything, because it was a count and not a sum, and a hundred and twenty loads at twelve coppers is fourteen hundred and forty and every man there could do it.
+The rope went on working, because it was a count and not a sum, and a hundred and seventy loads at twelve coppers is two thousand and forty, and every man there could do it.
 
 “And there is the hand,” said Bo.
 
@@ -98,35 +98,35 @@ He did not look up. He said it in the same voice he used for a block.
 
 Kan said, “The hand was on the sledge.”
 
-“The hand was on the sledge,” said Bo, “on the ice, on the fourth of the month, and it cost me two loads off a man on the fourth bench because he cannot get a load up to the lip on his own any more, and it has cost her a third of a hundred and twenty loads.”
+“The hand was on the sledge,” said Bo, “on the ice, on the fourth of the month, and it cost me two loads off a man on the fourth bench because he cannot get a load up to the lip on his own any more, and it has cost her a third of a hundred and seventy loads.”
 
 He put his thumb into the cloth bag and counted out the difference on the flat of the board.
 
-“Four hundred and eighty is what the hand took out of it,” he said. “Nine hundred and sixty is what she has got. And I am telling the whole of it in the open because the alternative is that the man on the fourth bench finds out in the spring that his two loads were mine, and he will not find that out from me twice.”
+“Six hundred and eighty is what the hand took out of it,” he said. “One thousand three hundred and sixty is what she has got. And I am telling the whole of it in the open because the alternative is that the man on the fourth bench finds out in the spring that his two loads were mine, and he will not find that out from me twice.”
 
-Four hundred and eighty.
+Six hundred and eighty.
 
-Nine hundred and sixty.
+One thousand three hundred and sixty.
 
 She had known the number for two months. She had worked it out on a sledge on the ice with her hand under her coat, and then she had worked it out again with a figure on a slate, and again with a figure in a bag in a wash house, and the three times had been arithmetic.
 
-It was different being handed to it by a man in the open in front of nine others.
+It was different being handed to it by a man in the open in front of four others.
 
-Nobody said anything about it. Every man there could multiply two hundred and forty by twelve in his head, and every one of them looked at the board instead, because that is what a man does with a number that belongs to somebody else.
+Not one of them said a word about it. Every man there could multiply a hundred and seventy by twelve in his head, and every one of them looked at the board instead, because that is what a man does with a number that belongs to somebody else.
 
 ## Three Miles West
 
-She walked the three miles west in the dark with the cold in the front of her and the arm open about half the way and closed the rest, and a hundred and twenty loads in the cloth bag against her ribs under her coat.
+She walked the three miles west in the dark with the cold in the front of her and the arm open about half the way and closed the rest, and a hundred and seventy loads in the cloth bag against her ribs under her coat.
 
-Nine hundred and sixty coppers, on top of about two hundred and thirty in a tin four miles off.
+One thousand three hundred and sixty coppers, on top of about two hundred and thirty in a tin four miles off.
 
-That was eleven hundred and ninety coppers in two places in this county, and she had never had that much money in one place in her life, and she was going to spend most of it before the thaw, and there was no work of any kind in this county to spend it on.
+That was one thousand five hundred and ninety coppers in two places in this county, and she had never had that much money in one place in her life, and she was going to spend most of it before the thaw, and there was no work of any kind in this county to spend it on.
 
 “You are thinking about the money,” said Yuan.
 
 “I am thinking about the money.”
 
-“You have four hundred and eighty coppers of it that you did not have in the autumn, and that number is the hand, and you have worked it out four times and you are working it out again.”
+“You have six hundred and eighty coppers of it that you did not have in the autumn, and that number is the hand, and you have worked it out four times and you are working it out again.”
 
 “I am working out whether a man can afford a thing I have not asked him for,” said Ning Yan. “Not you. He is owed nothing by anybody and he came down a face at a speed that has a cost in his knees and he did not ask me a single question about the arm while he was doing it.”
 
@@ -140,4 +140,4 @@ She came off the three miles at the wash house road and turned up the hill, and 
 
 Behind her four miles east a face had four days of stone in it at the first hour this morning and none at all at the second hour, and a hoist that will not be turned again until the thaw.
 
-There was no stone in this county now for five coppers a load, and there had been for eight weeks.
+There was no stone in this county now for twelve coppers a load, and there had not been for five coppers a load since before the ice.

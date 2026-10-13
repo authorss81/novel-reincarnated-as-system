@@ -1,6 +1,6 @@
 # The Ceiling Reached
 
-The third hour of the fourteenth of the month was the same third hour as the other two mornings, and the queue was the same queue, and the young clerk at the counter was the same young clerk, and none of it was the same at all.
+The third hour of the sixteenth of the month was the same third hour as the other two mornings, and the queue was the same queue, and the young clerk at the counter was the same young clerk, and none of it was the same at all.
 
 Eight feet back from the wall, on the other side of the room from the counter, in a good coat that had been good in the summer, was the man who had bought one thing off this county in eleven weeks.
 
@@ -58,11 +58,11 @@ She looked at the front of her own sheet.
 
 He turned the sheet round so the front was toward her and put one finger on it, well clear of the writing.
 
-“A relicensing is a second application down the same three legs, with a continuous hours record from the same origin date, and it buys a ceiling in the member's own hand and it restores nothing. The first leg is a clearance from the quota office. The second is three seals. The third is mine.”
+“The same three legs as the one you have already been through, and the same hours record from the same origin date, and it buys a ceiling in the member's own hand and it restores nothing. Clearance from the quota office. Three seals. And then me.”
 
 “Yes.”
 
-“And every one of those three legs needs a schedule,” said Sun He, “of hours worked at the ceiling being asked for. Condensing six needed six hours. Condensing nine needed nine hours, and you have got them, on a bank four miles up a mountain and on a face three miles east, and the county holds all of it.”
+“And every one of those three legs needs a schedule,” said Sun He, “of hours worked at the ceiling being asked for. Condensing six needed six hours. Condensing nine needed nine hours, and you have got them, on a bank up the east road and on a face three miles east, and the county holds all of it.”
 
 He took his finger off the paper.
 
@@ -94,7 +94,7 @@ He did not say the rest of it there either.
 
 He came down off the wall when she had the sheet back in her hand, and he stopped at a distance, and he said what he had to say in three sentences without being asked for any of it.
 
-“I will be in this room on the seventeenth at the second hour.”
+“I will be in this room on the nineteenth at the second hour.”
 
 She did not say anything.
 
@@ -106,7 +106,7 @@ She did not say anything.
 
 He turned his little book round in his hands and shut it.
 
-“If I tell you now, you have three days to think about it, and every hour of those three days will be you deciding what I am. And you cannot do that. You have never been able to do that and you have never tried, and I am not going to hand you four days of it on the seventeenth’s doorstep in this cold.”
+“If I tell you now, you have three days to think about it, and every hour of those three days will be you deciding what I am. And you cannot do that. You have never been able to do that and you have never tried, and I am not going to hand you three days of it on the nineteenth’s doorstep in this cold.”
 
 “So you are going to do it in front of me without telling me.”
 
@@ -122,7 +122,7 @@ Today the queue had a different sound in it, and the sound was that two people w
 
 They had heard the ninth hour four days ago. They would have heard it the way everybody inside the bound had, in their own voices, for four seconds.
 
-Nobody said anything to her about it. The man behind her asked his oil-return question and the woman in front asked hers and the clerk pressed the binder and the press shut, and at the back of the room a man in a good coat wrote four words in a small book with a pen that did not run.
+Not one of them said a word to her about it. The man behind her asked his oil-return question and the woman in front asked hers and the clerk pressed the binder and the press shut, and at the back of the room a man in a good coat wrote four words in a small book with a pen that did not run.
 
 ## What He Does Not Ask
 
@@ -154,7 +154,7 @@ She had reached the top of it on the fifth day before this one, in front of nine
 
 And the paper had run out at exactly the moment she arrived, which was not a coincidence and was not a punishment. It was simply what a document is. A document is an agreement between a person and a paper about how far a person may go, and it is finished when the person is there.
 
-Three days to the seventeenth.
+Three days to the nineteenth.
 
 She had a licence with nothing left on it, a claim travelling on the back of it with a date entered against it in a counting room she had never been in, a morning in four, and one thing she had not yet said to anybody in this county, which was that she intended to file for the only paper that would go past what she had just finished.
 

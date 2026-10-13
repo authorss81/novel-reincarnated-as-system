@@ -6,7 +6,7 @@ She was not posted there.
 
 That was the thing she had been carrying about for four weeks without turning it over, and it came out on the fourth week like a stone coming off a bench. She was not the crew's. She was a member of the crew and a licensed practitioner and the holder of a licence with a ceiling in her own hand, and there was no one in that building with the standing to post a woman to the cold end for a season, and nobody had posted her.
 
-She signed for her own shift. Any man of the crew could sign for a shift and a signed shift was a legal fact and the floor was checked against a mark, and she signed for hers every morning with the flat of a second finger, and then she walked forty feet past eight men to the cold end and worked there alone.
+She signed for her own shift every morning with the flat of a second finger, and then she walked forty feet past nine men to the cold end and worked there alone.
 
 ## Ten Days
 
@@ -28,17 +28,17 @@ The ninth was coming and it was not close.
 
 The eighth had been the strangest thing that had ever happened inside her and it had felt like an address — a specific place with something in it that stayed. This was the opposite of that. This was loud, and it was everywhere, and it was the whole of her from the hair down, and there was no finding it without looking for it, and it had started in the second week of the cold end and had got louder every day since.
 
-She had held it four times in her life. The first four had been let go out of her into nine counties at once and her life since had been the space where each of them used to be.
+She had held it five times since the fourth stage. Three of the five had gone out of her into nine counties at once and two had not, and the two that had not had left a hole in a column the same width as any other hole, and her life since had been the space where each of them used to be.
 
-The fifth was going to be different and she had known that since the winter schedule went on the board, and the reason was not the stage.
+The sixth was going to be different and she had known that since the winter schedule went on the board, and the reason was not the stage.
 
 It was the floor.
 
 There was nowhere in that building for a thing that size to happen quietly, and she had been spending four weeks finding that out on her own, and the finding was that she could do it at the cold end and nowhere else, because forty feet of empty floor was the whole of what she had, and the crew had taken the other half of the room by never standing in it.
 
-“I can do it here,” she said, “and I cannot do it anywhere else, and the reason I can do it here is that eight men have been kind to me for four weeks.”
+“I can do it here,” she said, “and I cannot do it anywhere else, and the reason I can do it here is that nine men have been kind to me for four weeks.”
 
-“The eight men are not being kind to you.”
+“The nine men are not being kind to you.”
 
 “I know,” said Ning Yan.
 
@@ -54,9 +54,9 @@ Both times he stood for about four seconds first, at the edge of the light, wher
 
 She had wanted, both times, to say a name. Not his. Any of them.
 
-The roster rule was that any man of the crew could sign for a shift and the floor was checked against a mark, and if she had said one man’s name out loud at the near end of the floor in front of eight others — *put him on the cold end for the last hour, I have the last hour alone again* — then that man would have come.
+The roster at the near end was that any man of the crew could sign for a shift and the floor was checked against a mark, and if she had said one man’s name out loud in front of the others — *put him on the cold end for the last hour, I have the last hour alone again* — then that man would have come, and the other eight would have known she had asked.
 
-And the other seven would have known she had asked, and the asking would have been the end of the quiet and the beginning of a thing that one man on a cold end in the second month of the cold could not be at that end alone twice a week anyway.
+And the asking would have been the end of the quiet and the beginning of a thing that one man on a cold end in the second month of the cold could not be at that end alone twice a week anyway.
 
 So she said nothing, and the two hours at the grate were the two hours at the grate.
 
@@ -84,7 +84,7 @@ A body that is being built wants to be able to tell what is going into it. Stone
 
 This was not work. She had been standing in the cold at the far end of a floor for nineteen shifts, in the same place, at the same mark, doing the same nine minutes over again and over, and there was no card for it and there would not be one, because a card is a thing that certifies an hour and this was not an hour at all. It was a fifth week of nothing, in the cold, at the end of a building, alone.
 
-That was what the eighth had been too, and she had put that one in a hut on purpose because a hut has a stove and a bench and a door, and this one had no door in it at all and was forty feet from eight men who would hear every sound she made and would not be able to help with any of them.
+That was what the eighth had been too, and she had put that one in a hut on purpose because a hut has a stove and a bench and a door, and this one had no door in it at all and was forty feet from nine men who would hear every sound she made and would not be able to help with any of them.
 
 She stood at the mark at about the fourth hour on the fourth day and let the thing run through her without steering it, which was the only technique she had for it and which she had worked out on the second week and had not told anybody about.
 

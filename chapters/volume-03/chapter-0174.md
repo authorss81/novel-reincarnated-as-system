@@ -1,10 +1,10 @@
 # One, Two, Three
 
-The second hour on the seventeenth of the month had a queue in it that went out into the square, which it did not usually have at the second hour, which was the first thing she understood on the step.
+The second hour on the nineteenth of the month had a queue in it that went out into the square, which it did not usually have at the second hour, which was the first thing she understood on the step.
 
 The county was reading the winter return, and the winter return was read in public, and anybody might stand in the room.
 
-She came in at about the second hour with her filing copy under her right arm and her left hand inside her coat and she was the fourteenth person in the queue, and the queue went eleven people back to the door and then six more outside it, and every one of them was there because there was a queue.
+She came in at about the second hour with her filing copy under her right arm and her left hand inside her coat and she was the fourteenth person in the queue, and the queue went back past the door and then six more outside it, and every one of them was there because there was a queue.
 
 ## The Room
 
@@ -36,7 +36,7 @@ He went over two more ruled lines. The same width. He did not hurry them and he 
 
 “Nine.”
 
-The nine was the announcement. It was on the sheet because a county has to enter a stage that was announced, and he had entered it on the fourteenth with the date and the place and the fact that the member had made it, and there it was in the ordinary hand in the last line of the column, at the top of a column that had three holes in it.
+The nine was the announcement. It was on the sheet because a county has to enter a stage that was announced, and he had entered it on the sixteenth with the date and the place and the fact that the member had made it, and there it was in the ordinary hand in the last line of the column, at the top of a column that had three holes in it.
 
 ## The Rulings
 
@@ -114,7 +114,7 @@ It said her name. It said her stages, in order, which were the ones in the colum
 
 It said her hours.
 
-It carried no agent's name. That was in the sheet and it was in the book and she had learned nine months earlier, in a worse hour than this one, that a document which carries no name is the shape that everything dangerous takes, because a name can be refused and an office cannot.
+It carried no agent's name. That was in the sheet and it was in the book and she had learned eleven weeks earlier, in a worse hour than this one, that a document which carries no name is the shape that everything dangerous takes, because a name can be refused and an office cannot.
 
 He signed the covering line and the signature was the office's and not his.
 
@@ -124,7 +124,7 @@ He signed the covering line and the signature was the office's and not his.
 
 She did not say anything.
 
-“It was written eleven weeks ago with a number and a date, and it asked for an instrument not held in this county, for use in this county, after the reading of the winter return.” He put his hand flat on the table. “The reading has been done. It goes up on the next crate, and it goes up with this, and I have told you that it goes and not that it does.”
+“It was written four weeks ago with a number and a date, and it asked for an instrument not held in this county, for use in this county, after the reading of the winter return.” He put his hand flat on the table. “The reading has been done. It goes up on the next crate, and it goes up with this, and I have told you that it goes and not that it does.”
 
 He picked up the sheet and folded it once and gave it to the clerk.
 
@@ -148,8 +148,8 @@ She did not wish she had said yes. She checked, standing there, in about the tim
 
 She went out into the cold with the filing copy in her right hand and the ninth in her column and the referral in a press under a counter, and there were eleven people in the queue behind her who had heard all of it.
 
-The shelf by the door had ten things on it.
+The shelf by the door had eleven things on it.
 
 Sun He had not looked at her once in four minutes of it and had stamped the attendance and had ruled the gaps and had written four words at the foot of a column, and he had not said anything else, because he had said it three times in nineteen months and there was no fourth sentence in this county that would be better than the first three.
 
-She went down the step, and it was the seventeenth of the month, and there was one day left in which a piece of paper could still be filed in this county that would go past everything she had just finished.
+She went down the step, and it was the nineteenth of the month, and there was one day left in which a piece of paper could still be filed in this county that would go past everything she had just finished.

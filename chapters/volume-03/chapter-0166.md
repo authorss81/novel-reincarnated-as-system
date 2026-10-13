@@ -1,10 +1,10 @@
 # Nine Coppers a Load
 
-The bank above the Hall had poor stone in it — grey, thin, no bigger than a man's two fists — and a man with a bar and a sledge could break and load it at nine coppers, which was four more than the cut three miles east had been charging her since the middle of the summer.
+The bank up the east road had poor stone in it — grey, thin, no bigger than a man's two fists — and a man with a bar and a sledge could break and load it at nine coppers, which was three coppers under what the cut three miles east had been charging her since the ice came on, and four coppers over what she had been paying for the four loads a week she put onto a board behind a well.
 
 That was the whole of what stopped on the morning after the face closed.
 
-There was no stone in this county for five coppers a load, because the only place in this county that sold stone at five coppers a load had been a face with a hoist worked by four men, and that was gone, and nobody in the county was going to start another one before the thaw.
+There was no stone in this county for twelve coppers a load, because the only place in this county that sold stone at twelve coppers a load had been a face with a hoist worked by four men, and that was gone, and nobody in the county was going to start another one before the thaw.
 
 She stood at the board behind a well on the second morning after the pay-off and did the arithmetic with the numbers on the wall.
 
@@ -18,23 +18,23 @@ She had been buying four loads a week onto that fourth table since the week afte
 
 And what she had been buying was not the carrying.
 
-The carrying was four men and their boots and a sledge down four miles. The stone was the thing that cost money, and she had been buying it at the cut at five coppers a load, off the top of her own hours, out of a tin in a wash house.
+The carrying was four men and their boots and a sledge down four miles. The stone was the thing that cost money, and she had been buying it at five coppers a load — a rate of her own, from a man with four tables — off the top of her own hours, out of a tin in a wash house.
 
-A load is a load at four coppers a load or at nine. A frame is a frame.
+A load is a load at five coppers a load or at nine. A frame is a frame.
 
 ## What Da Shan Said
 
 He said it on the third morning, while she was standing at the side of his board with her hands in her coat, and he said it in the ordinary voice a man uses when he is telling you the price of something he is already charging you.
 
-“Six weeks now,” said Da Shan. “Forty loads.”
+“Ten days,” said Da Shan. “Ten loads.”
 
-“Forty-two,” said Ning Yan.
+“Ten,” said Ning Yan.
 
-“Forty-two loads off you and off the crew, at the rate your crew are getting it at my end, and I have been charging you nine and I have been putting it on my own slate against the stone, and I am going to keep charging you nine.”
+“Ten loads off you and off the crew, at the rate your crew are getting it at my end, and I have been charging you five and I have been putting it on my own slate against the stone, and I am going to keep charging you nine.”
 
 “I know you have.”
 
-“You do not,” said Da Shan, “because if you knew that you would have offered to stop, and if you had offered to stop I would have said yes, and then the fourth table would have been dead for six weeks and I would have had six fewer men on this board since the middle of the month.”
+“You do not,” said Da Shan, “because if you knew that you would have offered to stop, and if you had offered to stop I would have said yes, and then the fourth table would have been dead for ten days and I would have had ten fewer men on this board since the middle of the month.”
 
 He wrote the day up along the top of the board with a charcoal stub, the way he wrote every day up along the top, and he did not write a name against any of the four loads, and he never had.
 
@@ -52,17 +52,19 @@ That was the whole of it, and he never asked her where it came from and he never
 
 ## What It Came To
 
-Nine coppers, four loads, and seven weeks between then and a thaw she did not have a date for.
+Nine coppers, four loads a week, and six weeks between then and a thaw she did not have a date for.
 
-That was a hundred and eighty six coppers. She worked it out on the walk down the four miles and she had it right before she got to the bottom.
+That was two hundred and sixteen coppers. She worked it out on the walk down the four miles and she had it right before she got to the bottom.
 
-Before the autumn she had been buying at five, and the forty loads she had already put on that board had cost her two hundred and ten, out of a tin that held two hundred and thirty in the middle of the month and had held nothing at all in the summer when the words on the front of her schedule had been going up and down a mountain in a crate.
+Four coppers a load over the five she had been paying was sixteen a week, and six weeks of that was ninety-six, and ninety-six coppers was the entire price of the decision.
 
-She had done it on purpose. She had worked out the whole cost of it in about eleven seconds in the autumn with a bar in her hand, and she had been right about the mechanism and wrong about the price, because the price had been five and it was nine.
+Before the middle of the month she had been buying at five, and the ten loads she had already put on that board had cost her fifty, out of a tin that held two hundred and thirty in the middle of the month and had held nothing at all in the summer when the words on the front of her schedule had been going up and down a mountain in a crate.
+
+She had done it on purpose. She had worked out the whole cost of it in about eleven seconds standing at his wall with a bar in her hand, and she had been right about the mechanism and wrong about the price, because the price had been five and it is nine.
 
 ## The Tin
 
-The tin was in the wash house under a board, in the corner where the water does not get, and it had about two hundred and thirty coppers in it when the pay-off came, and the pay-off was nine hundred and sixty, and so it had about eleven hundred and ninety, which was more money than she had ever had in one place in her life.
+The tin was in the wash house under a board, in the corner where the water does not get, and it had about two hundred and thirty coppers in it when the pay-off came, and the pay-off was one thousand three hundred and sixty, and so it had about one thousand five hundred and ninety, which was more money than she had ever had in one place in her life.
 
 On the second evening she sat on a bench in the wash house with it and did the whole of the winter on the back of the slate she used for hours, in figures, in the order a person does it when the figures are the only thing in the world.
 
@@ -110,14 +112,14 @@ The four miles up took an hour and the third flight cost three counts and there 
 
 She stood at the top of the stair in the dark for about a minute, in a room where nobody had said anything to her, and worked out the two sums.
 
-A hundred and eighty six coppers of stone for a board behind a well.
+Two hundred and sixteen coppers of stone still to buy for a board behind a well.
 
 A quarter in a wash house for a girl with a crooked leg.
 
-Neither of them was on any schedule in nine counties. Neither of them would ever be read aloud at the second hour in a county office or copied up a stair or stamped at the front of anything, and there was no paper anywhere that either of them could be written on, and she had spent five hundred and forty coppers of eleven hundred and ninety on them before the oil went in.
+Neither of them was on any schedule in nine counties. Neither of them would ever be read aloud at the second hour in a county office or copied up a stair or stamped at the front of anything, and there was no paper anywhere that either of them could be written on, and she had put nine hundred and fifty coppers of one thousand five hundred and ninety into them before the oil went in.
 
-Nine coppers a load. Four coppers more than the stone cost her in the autumn, because a face with a hoist is cheaper than a bank with a bar, and the face was shut, and the only difference between the two numbers was the winter.
+Nine coppers a load. Four coppers over what the stone had cost her for the ten days she had been buying it, because a bank with a bar in it is worked by whoever turns up and a face is worked by a hoist and four men, and the only difference between the two numbers was the winter.
 
-She went to the far end of the floor in the morning and it was forty feet from the other eight men, and the cold end was the coldest place in the building, and she was not posted there and she was not the crew's to post.
+She went to the far end of the floor in the morning and it was forty feet from the other nine men, and the cold end was the coldest place in the building, and she was not posted there and she was not the crew's to post.
 
 She signed for her own shift and went to work.

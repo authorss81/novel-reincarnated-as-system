@@ -50,7 +50,7 @@ It took about four sentences and she had had them ready for nine weeks.
 
 “The heel of my left hand is gone,” said Ning Yan. “It came off a sledge handle on the ice at a quarry three miles east on the fourth of the month. I can hold.”
 
-“I cannot make the turn at the end of a stroke, so about a third of every load I carry goes and does not come back, and six hundred and eighty coppers of that was counted out in the open at a rope in front of nine men and I did not say a word about it because there was nobody there to say it to.”
+“I cannot make the turn at the end of a stroke, so about a third of every load I carry goes and does not come back, and six hundred and eighty coppers of that was counted out in the open at a rope in front of four men and I did not say a word about it because there was nobody there to say it to.”
 
 Nine men stood at a grate.
 
@@ -128,7 +128,7 @@ Nobody thanked her. She had not told them to and she would have been furious if 
 
 ## Six Days
 
-On the sixth day after that it was the third hour and it was the fourteenth of the month, and the county office on the square had a queue in it, and the Hunter would be at the back of it eight feet off the wall buying nothing.
+On the sixth day after that it was the third hour and it was the sixteenth of the month, and the county office on the square had a queue in it, and the Hunter would be at the back of it eight feet off the wall buying nothing.
 
 She had a morning to sign in, and after it there were three days.
 

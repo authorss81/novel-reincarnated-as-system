@@ -46,7 +46,7 @@ And he stood there for the rest of the shift.
 
 He had come to ask her something. She was certain of it and he was not going to say it, and she worked out the shape of it in about the second hour.
 
-She had held four stages in her life and let three of them go and put the fourth down on a stove on purpose, alone, on purpose, with a stove and a bench and a door.
+She had held five stages since the fourth and let three of them go and put two of them down on a stove on purpose, alone, with a bench and a door.
 
 She had never once had a witness to any of it.
 
@@ -72,7 +72,7 @@ The eighth had been quiet in her for four months. It had been an address — a p
 
 There was no room in that for what came up on the last day of the fifth week.
 
-It was not an address. It was a **loudness**, and it was everywhere at once, from the top of her head to the soles of her feet, and it was not in her chest and it was not in her head and it was not anywhere she could put her hand on, and she was standing at a mark on a cold furnace floor with eight men within forty feet and no door at all between her and any of them.
+It was not an address. It was a **loudness**, and it was everywhere at once, from the top of her head to the soles of her feet, and it was not in her chest and it was not in her head and it was not anywhere she could put her hand on, and she was standing at a mark on a cold furnace floor with nine men within forty feet and no door at all between her and any of them.
 
 She got through the rest of the shift on her feet.
 
@@ -80,11 +80,9 @@ She did the last hour of the setting-out at the mark with her hand on the cold s
 
 ## Holding It
 
-She had held it four times in her life.
+She had held it five times since the fourth stage, and three of the five had gone out of her, out loud, into nine counties at once, and she had known on the morning after each of those that she was going to do it again, and had worked out about how long, and had worked.
 
-The first four had been let go, out loud, into nine counties at once, and she had known on the morning after each of them that she was going to do it again, and had worked out about how long, and had worked.
-
-The fifth one sat in her like a stone in a boot.
+The sixth one sat in her like a stone in a boot.
 
 She took it up the four miles and the third flight and into a room with nine men breathing in it, and she lay in the second bunk with the heel of her left hand under the lining and the right arm open, and it was there all night.
 
@@ -112,7 +110,7 @@ She had been holding that stage down since the middle of the summer. There was n
 
 She lay in the dark and said it again, because it was the true version and it was going to be hard to be asked about it later.
 
-“I have held four stages and let three of them go and I put the fourth down on a stove in a hut on purpose. That has been the whole shape of my life since the spring: I find the room, I shut the door, and I hold it. And there is no door in this.”
+“I have held five stages since the fourth and let three of them go and I put two of them down on a stove in a hut on purpose. That has been the whole shape of my life since the spring: I find the room, I shut the door, and I hold it. And there is no door in this.”
 
 “There is no door in this,” he said.
 
@@ -120,7 +118,7 @@ She lay in the dark and said it again, because it was the true version and it wa
 
 ## Tomorrow
 
-The ninth hour of the following morning was the ninth hour of a working shift on a furnace floor, and the cold end was forty feet from eight men, and she was going to stand at the mark and say it in the ordinary voice with her hand on the cold stone.
+The ninth hour of the following morning was the ninth hour of a working shift on a furnace floor, and the cold end was forty feet from nine men, and she was going to stand at the mark and say it in the ordinary voice with her hand on the cold stone.
 
 There was one thing to do first, and she wanted it entered properly, and there was exactly one person in this county who entered things properly and reported them upward whether or not they were entered.
 

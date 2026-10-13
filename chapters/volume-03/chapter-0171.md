@@ -34,7 +34,7 @@ She put both hands flat on the stone at the mark.
 
 ## The Ninth Hour
 
-The setting came out of the mark and the grate was loaded and the carry went, and eight men stood in the whole of the light at the near end of a furnace floor forty feet from her.
+The setting came out of the mark and the grate was loaded and the carry went, and nine men stood in the whole of the light at the near end of a furnace floor forty feet from her.
 
 “Let it go,” said Ning Yan.
 
@@ -56,13 +56,13 @@ She felt it the way she had felt the sixth and the seventh and the fourth, and t
 
 That was the whole of it. Every stage she had ever held had gone out of her and left a space that her life had to live in. This one went out and took the space with it, and she was standing at a mark at the cold end of a furnace floor with her hands flat on the cold stone and she was full, top to the soles of her feet, with no gap anywhere in her anywhere, and she had never in her life been that.
 
-It lasted about four seconds and then it was ordinary again, and the ordinary was at the top of the second realm.
+It was over and then it was ordinary again, and the ordinary was at the top of the second realm.
 
-## The Four Seconds, And Then The Shift
+## And Then The Shift
 
 She got through the rest of it the way a person gets through a thing that is not finished.
 
-The setting came out of the mark and she walked it out. A woman at a board behind a well stopped in the middle of a sentence to a carrier and stood where she was for four seconds and then finished the sentence. A girl at a trough in a wash house put a cloth down. Nine men in a market square four miles off looked at nothing in particular, and one of them put his hand on the wall he was standing next to.
+The setting came out of the mark and she walked it out. A woman at a board behind a well stopped dead in the middle of a sentence to a carrier and then finished it. A girl at a trough in a wash house put a cloth down. Nine men in a market square four miles off looked at nothing in particular, and one of them put his hand on the wall he was standing next to.
 
 That is what an announcement is inside a bound. It is not a sound. It is a thing that arrives in everybody at once, in the voice they already have, and for about four seconds every person inside it is standing exactly where they were.
 
@@ -70,9 +70,9 @@ Then the shift went on, everywhere, all at once, the way a shift goes on.
 
 ## The Room
 
-Eight men on a furnace floor hear an announcement the way everybody inside the bound hears one.
+Nine men on a furnace floor hear an announcement the way everybody inside the bound hears one.
 
-It comes out of the air in their own voices, in a room they are standing in, with nobody in the room making it. She had forgotten that. She had spent two months at a mark forty feet from eight men working out what it would sound like from inside a room, and the answer was that it would sound like the room.
+It comes out of the air in their own voices, in a room they are standing in, with nobody in the room making it. She had forgotten that. She had spent five weeks at a mark forty feet from nine men working out what it would sound like from inside a room, and the answer was that it would sound like the room.
 
 Nobody moved for about a second and a half.
 
@@ -92,7 +92,7 @@ He turned round.
 
 “All right.”
 
-“You said the thing about the fourteenth,” said Gao. “I am not asking about it now.”
+“You said the thing about the nineteenth,” said Gao. “I am not asking about it now.”
 
 “No.”
 
@@ -108,15 +108,15 @@ He went back to the grate.
 
 She worked it out at the mark with the setting going on behind her and the crew not coming near the far end of the floor for the rest of the shift, which was new, and which was the thing.
 
-The thing was not the nine counties. Nine counties was four seconds and it was done.
+The thing was not the nine counties. Nine counties was over before the setting came back out of the mark.
 
 The thing was that she was now, on paper, in the ordinary way, at the top of the second realm, and the column on her licence would read one, two, three, five, six, seven, **nine**, and under those nine lines there would be three holes instead of two, and every office above this county that ever read that column would read a woman who has been standing at the top of it for four months and has twice put a stage out of the paper on purpose.
 
-And in fourteen days she was going to file the only piece of paper she had left that could be answered.
+And in fourteen days a paper was going to go up a stair out of this county with her name and her hours in order on it, and it was not going to be a paper she could hold.
 
-She said it out loud. She had not planned to say it out loud and she said it at the mark, at about the ninth hour, to eight men within forty feet, because the alternative was that nine men worked out what she was standing in the middle of on their own over the next fortnight and came to it wrong.
+She said it out loud. She had not planned to say it out loud and she said it at the mark, at about the ninth hour, to nine men within forty feet, because the alternative was that nine men worked out what she was standing in the middle of on their own over the next fortnight and came to it wrong.
 
-“There is a thing coming on the seventeenth,” she said.
+“There is a thing coming on the nineteenth,” she said.
 
 The floor went quiet in the way a floor goes quiet.
 
@@ -138,11 +138,11 @@ The floor went quiet in the way a floor goes quiet.
 
 ## The End of the Shift
 
-The shift ended and eight men went off the floor and one of them, at the end, came up the forty feet to the cold end and stood at the edge of it, where a man can stand and look at a floor and not be standing on a floor.
+The shift ended and nine men went off the floor and one of them, at the end, came up the forty feet to the cold end and stood at the edge of it, where a man can stand and look at a floor and not be standing on a floor.
 
 Qin.
 
-He did not say anything about the nine. He stood there for about four seconds and then he said, “It was you,” which was not a question, and which was not about the ninth hour.
+He did not say anything about the nine. He stood there for about a second and a half and then he said, “It was you,” which was not a question, and which was not about the ninth hour.
 
 “No,” said Ning Yan. “I did not make it.”
 
@@ -154,6 +154,8 @@ He nodded once and went off the floor.
 
 She stood at the cold end of an empty furnace floor in the second month of the cold with the mark cold under her hand and eleven minutes of ordinary work left in the day, and nine counties full of a fact about her that could not be got back.
 
-She had held a stage down twice in her life on purpose. The first one had cost her four months of paper and the only document she had ever had. This one had cost her fourteen days and a room.
+She had put a stage down twice in her life on purpose and had paid for it twice. The first had cost four months of paper and the only document she had ever had. The second had cost the width of a hole in a column that an office above this county had read correctly.
+
+This morning had cost fourteen days and a room, and the fourteen days were going to be spent on the nineteenth whether she liked it or not.
 
 She would do it again in the morning.

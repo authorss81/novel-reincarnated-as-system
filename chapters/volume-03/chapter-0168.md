@@ -2,7 +2,7 @@
 
 The sheet on the shelf by the door was not an order. It was a notice, and the difference between the two is that an order has somebody's standing behind it and a notice has a rule's, and a rule does not have to want anything.
 
-It said that the winter return for this county would be read at the second hour on the seventeenth of the month, that a member whose hours were on it was to stand in the room while they were read, and that a member who was not in the room would have her hours read without her.
+It said that the winter return for this county would be read at the second hour on the nineteenth of the month, that a member whose hours were on it was to stand in the room while they were read, and that a member who was not in the room would have her hours read without her.
 
 There was a number at the top and a date at the bottom, six days old, and the date was the day a clerk had written it out, and no human being had put it there at all.
 
@@ -44,7 +44,7 @@ And the wash house, where four paid hours a week were hers to be at or not to be
 
 That was the whole of the cost and it was four or five coppers' worth of a life and a morning of a woman's bad leg, and she wrote it out in figures on the back of the slate she used for hours, because that is what she did, and then she wrote one more figure under it.
 
-Zero days of loading. The yard that sells stone was four days east and the season's road shut on the one hundred and seventeenth day and it is not going to open before the thaw, so the forty loads a week going onto a board behind a well now come off a bank four miles up the mountain at nine coppers a load and are paid out of a tin, and no morning in four changes that and no morning in four costs her anything else.
+Zero days of loading. The yard that sells stone by the load was four days east and the season's road shut on the one hundred and seventeenth day and it is not going to open before the thaw. Da Shan gets his stone off a bank up the east road at nine coppers and is charged for it by weight whether she is buying or not, so the four loads a week going onto the fourth table come out of a tin, and no morning in four changes that.
 
 The cost of going into that room was a morning and a woman's bad leg.
 
@@ -74,7 +74,7 @@ She went down to the wash house before she went up, because there was a morning 
 
 The girl was at the trough with the last copied list in front of her and a quarter in her coat, and she looked up when Ning Yan came in and did not ask what was wrong, which is a thing that people who are paid by the week learn to do very quickly.
 
-“The seventeenth,” said Ning Yan. “First hour to fourth. I will be off the trough and you will have it alone.”
+“The nineteenth,” said Ning Yan. “First hour to fourth. I will be off the trough and you will have it alone.”
 
 “Then I will hold it alone,” said the girl.
 
@@ -84,15 +84,15 @@ The girl was at the trough with the last copied list in front of her and a quart
 
 Ning Yan stood at the trough for about four seconds and worked out that she had come down here to give a person an excuse and had been handed a fact instead, and that the fact was that there was nothing on that board this month for anybody to be paid for.
 
-“Write to the eighth estate,” she said. “Tell them the wash house held on the seventeenth on a member’s attendance and that the hours are the same hours and are not shortened, and that if they shorten them I will enter it at my next county hour as a shortening of a working member’s paid time by a third party, which is a line on their sheet and not on mine.”
+“Write to the eighth estate,” she said. “Tell them the wash house held on the nineteenth on a member’s attendance and that the hours are the same hours and are not shortened, and that if they shorten them I will enter it at my next county hour as a shortening of a working member’s paid time by a third party, which is a line on their sheet and not on mine.”
 
 “That is a threat.”
 
-“It is a filing,” said Ning Yan. “It is a thing I will do on purpose and I would rather do it on a Tuesday than have them shorten your hours and have you say nothing.”
+“It is a filing,” said Ning Yan. “It is a thing I will do on purpose and I would rather have it on their sheet than have them shorten your hours and have you say nothing.”
 
 The girl looked at the trough for a while.
 
-“All right,” she said. “I will write it. And I will tell the three of them on Thursday, because you are not going to, and because that is what I am for.”
+“All right,” she said. “I will write it. And I will tell the three of them this week, because you are not going to, and because that is what I am for.”
 
 “That is what you are for.”
 
@@ -104,7 +104,7 @@ She had not. That was the whole of what the girl was for, and it was the reason 
 
 She told them at the ninth hour on the floor, standing at the near end where the grate was, with eight men and her own shift signed for and the cold end forty feet behind her.
 
-“I am off the floor for a morning on the seventeenth,” she said. “The county is reading the winter return and a member whose hours are on it stands in the room while they are read. Gao, that is your morning and it is not mine, and I would take it back if I could, and I cannot, because the sheet says a member and I am the member.”
+“I am off the floor for a morning on the nineteenth,” she said. “The county is reading the winter return and a member whose hours are on it stands in the room while they are read. Gao, that is your morning and it is not mine, and I would take it back if I could, and I cannot, because the sheet says a member and I am the member.”
 
 Nine men looked at the floor.
 
@@ -120,12 +120,12 @@ Nine men looked at the floor.
 
 ## The Week Before
 
-The reading was on the seventeenth. The attendance was on the fourteenth, three days before it, and that was the standing order Sun He had entered under a refusal in a book in a press under a counter, and she had been coming in once a month since the middle of the summer for a morning and a signature and about eleven minutes of standing in a room that wrote down what was said in it.
+The reading was on the nineteenth. The attendance was on the sixteenth, three days before it, and that was the standing order Sun He had entered under a refusal in a book in a press under a counter, and she had been coming in once a month since the middle of the summer for a morning and a signature and about eleven minutes of standing in a room that wrote down what was said in it.
 
-On the fourteenth she would be read and she would sign and she would go home.
+On the sixteenth she would be read and she would sign and she would go home.
 
-On the seventeenth the whole column would be read, in order, in a room with a queue at the door.
+On the nineteenth the whole column would be read, in order, in a room with a queue at the door.
 
-She went up the hill and the third flight cost three counts and she let it be three, and she lay in the second bunk with nine men breathing and the fourth week of five almost done, and the ninth stood up in her like a thing waiting for the last door to open.
+She went up the hill and the third flight cost three counts and she let it be three, and she lay in the second bunk with nine men breathing and the fifth week of the cold end two days off the end of it, and the ninth stood up in her like a thing waiting for the last door to open.
 
 Three days to the attendance. Three days after that, the room.

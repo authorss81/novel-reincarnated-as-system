@@ -1,18 +1,16 @@
 # Barred
 
-She took the second licence out of the oilcloth at about the sixth hour of the morning and put it on the bench under the lamp in the wash house, which was the only flat surface in four miles that belonged to her, and she read the back of it for the first time since the summer.
+She took the second licence out of the oilcloth at about the sixth hour of the morning and put it on the bench under the lamp in the wash house, which was the only flat surface in four miles that belonged to her, and then she folded it back up without reading it.
 
-Seven conditions. She did not read them out and she did not read them again. She had read them once and they were the same seven things and they were the reason the document existed.
+She had read it in the summer, once, in a county office, with a registrar watching. She knew what was on the back of it and she was not going to stand at a bench and look at seven conditions for the sake of looking at them, and the seven were the reason the document existed.
 
-The claim was the seventh and it was the last thing on the paper.
-
-She put it back in the oilcloth and put the oilcloth against her ribs above the Clay Plate, which was where it had been since the fourth day of the summer, and went down the four miles with it and walked up the four miles to the county office on the square.
+She put the oilcloth against her ribs above the Clay Plate, which was where it had been since the fourth day of the summer, and went down the hill with it and across the town to the county office on the square.
 
 She had about a day and a half of light left and she was going to file it today, because the thing she had learned in nineteen months of paper was that a document does not do anything until it is on a counter, and everything on the counter goes up on the crate.
 
 ## The Sheet
 
-She wrote it herself, on a sheet of the Hall's paper, at a bench in the Hall with nine men at the near end of the floor behind her.
+She wrote it herself, on a sheet of the Hall's paper, at a bench in the hall with no roof, an hour before the crew came off the floor.
 
 It was four lines.
 
@@ -24,7 +22,7 @@ It was four lines.
 
 *Asked: that the three legs be completed and that the countersignature be given.*
 
-That was all of it. Nine weeks earlier she had written an application for a relicensing with the ceiling at Condensing nine on the same bench with a pen that had been ground down to a stub, and it had taken four months of paper and three men and a registrar to get that one through.
+That was all of it. In the middle of the summer she had written an application for a relicensing with the ceiling at Condensing nine on the same bench with a pen that had been ground down to a stub, and it had taken four months of paper and three men and a registrar to get that one through.
 
 This one took about a quarter of an hour.
 
@@ -140,7 +138,7 @@ It buys a date and a number and a bar in the ordinary hand, in a county that has
 
 That is all. A document with a number on it, in the only direction there is, with an office above this county written on it and not described, saying that a woman at the top of the second realm asked this county for the paper that would carry her into the next one, and this county wrote down that it could not do it.
 
-Nine months ago the thing in her head had been the reason she was hunted.
+In the middle of the winter the thing in her head had been the reason she was hunted.
 
 She had spent every month since making it into paper, on the theory that paper is the only thing in this world that survives being wrong about. The licence. The claim. The refusal. The stage column with its honest holes in it.
 

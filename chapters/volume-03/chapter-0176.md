@@ -1,6 +1,6 @@
 # What Went Up
 
-The crate went up the stair on the nineteenth with two pieces of paper in it that had both been entered in this county in the same two days, and she stood at the foot of the stair on the last morning and watched a man in a district coat put a strap over his shoulder.
+The crate went up the stair on the twentieth with two pieces of paper in it that had both been entered in this county in the same two days, and she stood at the foot of the stair the next morning and watched a man in a district coat put a strap over his shoulder.
 
 She had spent eighteen months learning what a county does with a person. It stamped her, and copied her, and put a word on the front of her hours, and it had never once sent anything out of the building in her direction with a number on it that she had not put there herself.
 
@@ -10,7 +10,7 @@ Four things, one crate, one stair.
 
 ## What Came Down
 
-A slip came down on the twentieth and it was pinned to the shelf by the door, which had ten things on it on the morning before the reading and had nine this morning.
+A slip came down two days after that and it was pinned to the shelf by the door, which had eleven things on it when she walked out of this county on the twentieth and had eleven now, because one had gone up the stair and one had come down.
 
 It was the district's answer to the request.
 
@@ -22,11 +22,11 @@ And then, under that, in a clerk's hand, four words, and then an empty space the
 
 The space was empty.
 
-She read it standing up, the way she read everything on that shelf, with the queue behind her and about nine minutes before it moved, and then she read it a second time, because the first time had been for understanding and the second one was for the fact of it.
+She read it standing up, the way she read everything on that shelf, in a room with a queue behind her and about nine minutes before it moved, and then she read it a second time, because the first time had been for understanding and the second one was for the fact of it.
 
 He had told her in a low room in front of twenty people that he would tell her what he was going to do and not what it would be answered with, and he had told her that the answer would be given above this county and not in it.
 
-Three days later the district had written down, on the shelf by the door, in a clerk's hand, that the answer was not here either.
+That was the district's whole answer, in a clerk's hand, on the shelf by a door, and what it said was that the answer was not here either.
 
 ## The Schedule
 
@@ -34,7 +34,7 @@ The quarterly schedule went up on the same crate and it went up with the word on
 
 That had been her decision, in the summer, made in about eleven seconds, and she had been right about it then and she had been right about it on the morning in a quarry when a man wrote a card with an hour in at the left and a load in at the right on one line because she had asked him to stand at a rope.
 
-Nine men read the schedule in the Hall on the twenty-first, because a crew reads its own schedule and that has been true every winter since before she was in it.
+Nine men read the schedule in the Hall on the twenty-second, because a crew reads its own schedule and that has been true every winter since before she was in it.
 
 They read a nine at the top of a stage column.
 
@@ -64,7 +64,7 @@ They went to work. She went to the cold end forty feet past the grate and worked
 
 ## What Was Left In The County
 
-She did the whole of it on the walk down the four miles on the twenty-second, in the order she always did it, which is by what a person can still act on.
+She did the whole of it on the walk down the four miles that morning, in the order she always did it, which is by what a person can still act on.
 
 A floor at Qinghe with nine men on it and a cold end at the far end and a crew that reads its own board.
 
@@ -74,23 +74,23 @@ A tower four miles off with four hundred and eleven volumes in it, of which abou
 
 A wash house with a girl in it who had a quarter in her coat and a bad leg and two months of uncopied lists and nothing coming down the road.
 
-A board behind a well with eight frames on it, four of which had been off in the middle of the month and were back because four men of a crew carried stone down a hill four times a week on their own time.
+A board behind a well with eight frames on it, two of which had been off in the middle of the month and were back because four men of a crew carried stone down a hill four times a week on their own time.
 
 A tin under a board in the corner where the water does not get.
 
 And a county office on a square where a registrar stamped things and a young clerk wrote an application in a fair hand and neither of them had any authority to finish either of the two documents that had gone out of the building on the same crate.
 
-And about three hundred and sixty coppers in the tin, which was the oil and the salt and the stone and the girl's four coppers a week to a thaw that had no date, and about four months after that.
+And about a hundred and forty coppers in the tin, which was the oil and the salt and the stone and the girl's four coppers a week to a thaw that had no date, and about four months after that.
 
 ## The Board Behind The Well
 
-She went down the four miles on the twenty-third and stood at the side of Da Shan's board for about four minutes, which was the fourth time in a month she had stood there with nothing to say.
+She went down the four miles again that afternoon and stood at the side of Da Shan's board for about four minutes, which was the fourth time in ten days she had stood there with nothing to say.
 
 Eight frames.
 
-Two had been off in the middle of the month and both of them were back on the wall, and four loads a week had been coming down the hill on a sledge off a bank four miles up the mountain, and four men of the Qinghe furnace were carrying them on their own time and had been carrying them for a month, and the bank had shut the price of stone from five coppers to nine.
+Two had been off in the middle of the month and both of them were back on the wall, and four loads a week had been coming down the hill on a sledge off a bank up the east road, and four men of the Qinghe furnace were carrying them on their own time and had been carrying them since she told them to, and the bank had shut the price of stone from five coppers to nine.
 
-That was forty-two loads. Three hundred and seventy-eight coppers, out of a tin, for two frames on a wall that had come off it in the middle of the winter because a woman with one arm had made two tables worth having in the autumn and a stranger had read a sheet off it.
+That was ten loads at nine. Ninety coppers, out of a tin, for two frames on a wall that had come off it in the middle of the winter because a woman with one arm had made two tables worth having in the autumn and a stranger had read a sheet off it.
 
 “A man came in on the twelfth,” said Da Shan, “and asked me how many loads came down that week and I told him because it is my board.”
 
@@ -102,13 +102,13 @@ She did not say anything.
 
 “I told him because it is my board and it is on my board in chalk and he could have counted it himself off the wall in nine seconds,” said Da Shan. “I have never once in nineteen years put a wrong number on this wall for anybody, and I was not going to start because the question was a strange one.”
 
-That was the whole of what he said. He chalked the day up along the top, the way he wrote every day up along the top, and he did not write a name against any of the four loads, and he never had, and she had put three hundred and seventy-eight coppers of a winter that has no wage behind it onto a wall behind a well and had said nine words to the man about it in six weeks.
+That was the whole of what he said. He chalked the day up along the top, the way he wrote every day up along the top, and he did not write a name against any of the four loads, and he never had, and she had put ninety coppers of a winter that has no wage behind it onto a wall behind a well and had said nine words to the man about it in ten days.
 
 ## The Trough
 
-The girl was at the trough with a list that had come in off a cart on the twenty-first, the first thing that had come down the road in a fortnight, and she had it copied and it was finished and she had about four paid hours a week of nothing in it.
+The girl was at the trough with a list that had come in off a cart that morning, the first thing that had come down the road in a fortnight, and she had it copied and it was finished and she had about four paid hours a week of nothing in it.
 
-“The quarter holds until the thaw,” said Ning Yan, “and you write to the eighth estate about the seventeenth, which you did, and which they have answered in four lines that I have read because you put it on the bench where I could get at it.”
+“The quarter holds until the thaw,” said Ning Yan, “and you write to the eighth estate about the nineteenth, which you did, and which they have answered in four lines that I have read because you put it on the bench where I could get at it.”
 
 “They wrote that the hours are the same hours.”
 
@@ -128,7 +128,7 @@ The girl looked at the trough.
 
 ## The Lamp
 
-On the twenty-second night she stood at the top of the third flight and looked down the hill at the one light in Lowwater.
+That night she stood at the top of the third flight and looked down the hill at the one light in Lowwater.
 
 It was burning. It had been burning since the coal came and it would burn until the spring, and this quarter the thing that went up the four flights of that tower's stair went up in a district clerk's arms and came down in his arms empty, and the man who owned the lamp had put it that way himself in the middle of the autumn in writing.
 

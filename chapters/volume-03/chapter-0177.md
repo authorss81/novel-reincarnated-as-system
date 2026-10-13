@@ -1,6 +1,6 @@
 # Out of the Oilcloth
 
-She took it out on the third evening, on the bench in the wash house, under the lamp, with the door shut because the lamp in that room is a lamp the eighth estate pays for and the eighth estate counts the oil.
+She took it out on the second evening after the crate went, on the bench in the wash house, under the lamp, with the door shut because the lamp in that room is a lamp the eighth estate pays for and the eighth estate counts the oil.
 
 The oilcloth came open with a sound like a page.
 
@@ -12,9 +12,9 @@ She laid it flat on the bench and smoothed it with the flat of her right hand.
 
 The front was the thing she had spent four months of paper to get.
 
-**Licence to Practise Past Registration.** Clause Four. Her name at the top in the county's hand. Below that, the ceiling, in her own writing: **Condensing nine**, entered at about the fourth hour of a morning on a loft mat, four months before, with a new line under the defect.
+**Licence to Practise Past Registration.** Clause Four. Her name at the top in the county's hand. Below that, the ceiling, in her own writing: **Condensing nine**, entered at about the fourth hour of a morning on a loft mat in the summer, with a new line under the defect.
 
-It restores nothing. That was in her hand too, under the defect, and it was the sentence she had added when she understood what a relicensing actually is, and it was true, and it had been true for four months and it was going to be true for as long as the paper existed.
+It restores nothing. That was in her hand too, under the defect, and it was the sentence she had added when she understood what a relicensing actually is, and it was true, and it had been true since the summer and it was going to be true for as long as the paper existed.
 
 She had reached nine on the fifth day before the reading and the front of this document had been finished ever since.
 
@@ -34,9 +34,9 @@ The claim. Seventh. Last thing on the paper. Travelling with the document, and u
 
 She looked at it for a long time.
 
-She did not tear it off. There was no version of this in which she tore it off — it was the seventh of seven and the last line, and the paper behind it was her licence, and the claim had been entered on a document at a registrar's desk because a registrar is required to enter it, and there is not one clerk in nine counties who could strike it without striking the licence with it.
+She was not going to tear it off. It was the seventh of seven and the last line, and the paper behind it was her licence, and the claim had been entered on a document at a registrar's desk because a registrar is required to enter it, and there is not one clerk in nine counties who could strike it without striking the licence with it.
 
-But she looked at it, and that was the first time in four months she had looked at it, and she had to look at it because in nine days it was going up a stair with everything else in a crate in both directions at once and she wanted to know it was still there.
+But she looked at it, and that was the first time in five months she had laid her eyes on it properly, and she had to look at it because the day before it had gone up a stair with everything else in it in both directions at once and she wanted to know it was still there.
 
 It was still there.
 
@@ -68,7 +68,7 @@ They were ordinary square nails about four inches long with cut heads, and he co
 
 ## Practice
 
-She practised at the foot of the bunk after the lamp was out, sitting on the floor with her back against the frame, with a scrap of soft pine off the Hall's crate that she had brought down.
+She practised at the foot of the bunk after the lamp was out, sitting on the floor with her back against the frame, with a scrap of soft pine off the Hall's crate that a man had left for her at the end of the day.
 
 The problem was the arm. She had held one nail this way two winters ago with two hands and had put the licence up crooked at the fourth hour in a hurry, and she had got it crooked because she was holding the nail with one hand and swinging with the other and neither of them was steady, and a nail that is held badly and struck badly does one of two things: it goes in crooked, or it splits the wood.
 
@@ -94,23 +94,23 @@ There was no version of tomorrow where she could correct it afterwards.
 
 ## The Yard Behind The Hall
 
-She took the scrap of pine down to the yard behind the Hall in the morning, in daylight, with the sun on the wall, because a thing you have only learned in the dark is a thing you have half learned.
+She took the scrap of pine out to the yard behind the Hall in the morning, in daylight, with the sun on the wall, because a thing you have only learned in the dark is a thing you have half learned.
 
 There was nobody in the yard at about the seventh hour and there was a bench along the wall that had been there since before she came to the Hall, and a scrap of pine on the end of it about the size of her hand, left there by a man who repairs the Hall's shutters and does not clear them off.
 
-She hammered eleven nails into it over the better part of an hour.
+She hammered eleven nails into it over the better part of two hours.
 
 The first three were crooked. The fourth went in about a third of a right angle. The fifth was straight. The sixth was straight. The seventh she split, because she put a swing into it, because a nail that is a third of the way home wants a tap.
 
-The eighth, ninth, tenth and eleventh were straight, and she knew which of them had been straight and which had not before she looked, which is the entire difference between the ninth hour of the first week of the deep cold and the seventh hour of the third, and it took two hours on a bench in the sun to find out.
+The eighth, ninth, tenth and eleventh were straight, and she knew which of them had been straight and which had not before she looked at them, which is the whole difference between a thing done in the dark and a thing done in daylight.
 
-She worked out the two things that mattered again in daylight, which is where she had worked out everything else this year.
+And in the sun, with one wall warm down the side of her, she found out a third thing, which was that the hand did not want to be watched.
 
-The first was that she could not make the tight turn at the end of a stroke, which had been true since the ice, and that a nail does not want a tight turn. A nail wants to be struck, and striking is a different motion from hauling, and the whole difference between the hand she had had in the autumn and the hand she had now was about a quarter of an inch at the end of the stroke.
+The first hour she was putting the hammer on the nail. The second hour she was not. Somewhere in between the stroke had stopped being something she was doing and had become something she was letting the arm finish, and the arm knew a good deal more about the end of a stroke than she did and always had.
 
-The second was that she had two arms' worth of practice at this and one arm, and that the practice had been spent putting the first one up crooked at the fourth hour in a hurry.
+She had been trying to do the stroke. She had not been trying to let it be done.
 
-There was no version of the seventh hour where she could correct it afterwards.
+That was worth the two hours on a bench in the sun.
 
 ## The Hour
 

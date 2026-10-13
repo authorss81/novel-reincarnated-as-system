@@ -24,11 +24,11 @@ He was about fifty and he had a way of saying a thing as if it were about someth
 
 He marked the block and went on up the rope hand over hand.
 
-She had been working three miles east for eight weeks and she knew what a straight answer cost in that cut, because the two things she had said yes to in the winter had both been asked in exactly that voice by a man who does not look up. She had said yes to both. One of them had cost her the heel of her hand.
+She had been working three miles east since the first month of the cold and she knew what a straight answer cost in that cut, because the two things she had said yes to in the winter had both been asked in exactly that voice by a man who does not look up. She had said yes to both. One of them had cost her the heel of her hand.
 
 ## The Cards
 
-Kan had the slate on a board by the hut and a charcoal stub in a roll of leather, and he wrote the hour in at the left and the load in at the right on one line, and he had done it every day for eight weeks without being asked twice.
+Kan had the slate on a board by the hut and a charcoal stub in a roll of leather, and he wrote the hour in at the left and the load in at the right on one line, and he had done it on every day the rope ran since she came to it without being asked twice.
 
 Forty-one cards.
 
@@ -40,7 +40,7 @@ He had started doing it three days after she asked him and had not mentioned it 
 
 “Forty-one,” said Kan.
 
-“There will be fifty-three.”
+“There will be forty-three. The face has two days left in it and there is one card a day while it runs.”
 
 “There will be,” he said, “if you are here for the last one, and the last one is a long sledge and not five loads, and I am going to write it as one load and I am not going to split it across three lines because a card is a card.”
 
@@ -60,7 +60,7 @@ That was the whole road. Nine steps, four of them done by men who did not know w
 
 “You have thought about this.”
 
-“I have been the man holding the pen for eight weeks,” said Kan. “You think about a pen.”
+“I have been the man holding the pen since the ice came on,” said Kan. “You think about a pen.”
 
 ## The Grade
 
@@ -106,7 +106,7 @@ He put the charcoal back into the leather and thought about it for the length of
 
 “I am not doing it for you.”
 
-“No,” said Ning Yan. “You are doing it because it is the only honest way to write down what happens on a rope, and because the alternative is that eight weeks of it goes up as a gap, and a gap is worse than a word.”
+“No,” said Ning Yan. “You are doing it because it is the only honest way to write down what happens on a rope, and because the alternative is that two months of it goes up as a gap, and a gap is worse than a word.”
 
 “Yes,” said Kan. “A gap is worse than a word.”
 
@@ -118,7 +118,7 @@ She put the block down on the face instead of letting it go, because letting a b
 
 It took about a minute and a half to come back and about four minutes to be sure it was coming back.
 
-Nobody on that face saw it, because they were all on the fourth bench and a man at a rope is looking at the rope, and that was not luck. That was eight weeks of building a rhythm around the third of the time so that the third of the time happened where nobody was standing.
+Nobody on that face saw it, because they were all on the fourth bench and a man at a rope is looking at the rope, and that was not luck. That was two months of building a rhythm around the third of the time, so that the third of the time happened where nobody was standing.
 
 She had done the same thing with the hour at the county office, where she wrote the column with the flat of a second finger and took eleven minutes over what used to take four, in a room with a queue in it, on a day when a man with a certified copy read the same column aloud and wrote down what he read.
 
@@ -128,11 +128,13 @@ Nobody in nine counties knew what her hand was.
 
 On the second night she counted them on the board by the hut, in the light off the window of the hut, with Kan holding the lamp and not saying anything about the fact that a woman was counting another man's cards.
 
+She looked at the dark end of the road and at the white on the top bench and at the lamp in Kan's hand and thought about the whole of it in one line, the way a person thinks about a thing they can do once.
+
 Forty-one.
 
-Fifty-three when the face was empty.
+Forty-three when the face was empty.
 
-And the fifty-third was a long sledge, because the last block in a face is always the one at the bottom, and it is the longest haul on the ground, and the light goes off the grade at the second hour now, and a hoist does not run after the light.
+And the forty-third was a long sledge, because the last block in a face is always the one at the bottom, and it is the longest haul on the ground, and the light goes off the grade at the second hour now, and a hoist does not run after the light.
 
 She looked at the dark end of the road and at the white on the top bench and at the lamp in Kan's hand and thought about the whole of it in one line, the way a person thinks about a thing they can do once.
 

@@ -979,7 +979,239 @@ half weeks and ch 160 accounts for the fall to about three across thirty-six day
 use on the page.** `outline/volume-03.md`'s Settlement table has been corrected to match (ch 150 **~5½
 weeks**, ch 160 **~3 weeks**, cause *thirty-six days of ordinary use*). **Do not "fix" either figure back.**
 
-## Volume 3 running ledger — at end of ch 163
+## Established facts, Volume 3 Batch 0004 (ch 164–178) — COST AND SIGNATURE. VOLUME 3 CLOSED.
+
+Fifteen chapters, **30,505 words**, average ~2,034. **Day 0 is the last day of the thaw.** This batch runs
+**day 187 to day 219.** Chapter days: 164 = 187 · 165 = 189 · 166 = 191 · 167 = 194 · 168 = 196 ·
+169 = 197 · 170 = 197 (later) · 171 = 198 · 172 = 203 · 173 = 209 · 174 = 212 · 175 = 213 ·
+176 = 215 · 177 = 217 · 178 = 219.
+
+**The month-day table, fixed at review and canon.** Ch 150 puts day 136 at **the third of the month**, so
+**month-day = day − 133** on a thirty-day month. The three monthly attendances are **day 147, day 178 and
+day 209 = the sixteenth**; **the winter return is read at the second hour on day 212 = the nineteenth**;
+the petition is filed day 213 = the twentieth; the crate goes up the twentieth; the district's slip comes
+down two days after; nine men read the schedule in the Hall on **the twenty-second**. Ch 164 and ch 165
+carried no month-day at all. **A draft read fourteenth → seventeenth; it was moved to the binding day
+table, and the fourteen-day gap between the announcement (day 198) and the referral (day 212) is now the
+only elapsed figure either chapter needs.**
+
+**Power: Condensing 8 → 9 at ch 171, ANNOUNCED at her own order, WITNESSED BY THE CREW, at the cold end,
+at the ninth hour. Nothing else. No tribulation. EXACTLY ONE bracketed layer line in the whole batch, and
+it is at ch 171:**
+
+[Assembly Hall of Qinghe. Ning Yan of the Qinghe furnace crew, servant-born, under a ceiling written in her own hand. What is carried past the seventh is let go. Condensing, stage nine, at Lowwater is held.]
+
+Third clause fresh against ch 135 (*on a licence whose ceiling is nine*) and ch 148 (*entered upward through
+the Lantern Register of this county*); the fourth clause advances the ordinal by the stage. **Not a reuse.**
+
+### Cost and signature (ch 164–178)
+
+- **The quarry (ch 164–165).** Eleven men cut to **five** — four on the haul, one on the hoist. The face
+  has **four days of stone** a bar can reach and then nothing until the thaw. Bo asks one question in the
+  whole run. **Kan has forty-one cards** (canon change 48, unchanged) and she forecasts **forty-three** —
+  one a day the rope runs, and the binding day table leaves exactly two days. **Her hour is at the left of
+  thirty-four of them.** The pay-off is counted in the open at the rope: **a hundred and seventy loads at
+  twelve coppers = two thousand and forty gross; a third went at the hand = six hundred and eighty; one
+  thousand three hundred and sixty in her hand.** Twelve coppers is canon (ch 154, 157, 160, 163) —
+  eighteen before the hand, and **the hand does not go back**. The tin goes from about two hundred and
+  thirty to **about one thousand five hundred and ninety**.
+- **Canon change 53 — the stone, and what she has been buying (ch 166).** The cut charged **twelve**. The
+  only stone left is **a bank up the east road at nine coppers a load**; the yard that sells by the load is
+  **four days east** and the season's road shut on day 117. **She has been buying the stone, not the loads**
+  — the carrying is four men and their boots, and four of her crew do it on their own time. **Da Shan says
+  out loud that he has been charging her five and is going to charge nine**, and that if she had offered to
+  stop he would have said yes. She keeps buying. **Six weeks × four loads = 216 coppers; the four coppers
+  a load is 96 of that, and 96 is the whole price of the decision.**
+- **Canon change 54 — the cold end is not hers (ch 167).** **Nobody has the standing to post a woman to
+  the cold end for a season, and nobody has posted her.** She signs for her own shift every morning and
+  walks forty feet past **nine men**. Ten days and nineteen shifts without one of them coming to that end.
+  **The crew's silence was distance, not respect, and it had been distance since the schedule went on the
+  board.** The fifth week of five builds nine; the ninth is not an address the way the eighth was, it is
+  loud and everywhere, and there is no door in that building for it.
+- **Canon change 55 — the notice and the registrar's line (ch 168).** **A notice has a rule behind it and an
+  order has a person's.** The winter return is read at the second hour on the nineteenth and a member whose
+  hours are on it stands in the room while they are read. **Under it, written by a registrar and not by a
+  rule: a member attending may be shown the sheet before it is read, and may ask for an hour not to be read
+  to be entered as read and not as absent.** That line is for one person or for everybody, and a registrar
+  does not write lines for everybody. **She goes.** Cost of going: four miles each way, a morning in four,
+  the third flight with three counts, and a morning of the girl's bad leg. Cost of not going: a column
+  with three holes in it, read into a room that decides.
+- **Canon change 56 — Qin (ch 169, 171, 172).** **NEW MINOR CHARACTER: Qin, twenty-two, two winters on the
+  crew.** He comes to the cold end on the last morning of the fifth week and stands in it and does not work,
+  and **she does not send him back.** He has watched eight other men get good at leaving a room and has
+  worked out that the leaving has a shape. **He never asks her the question.** He writes nothing down, is
+  not thanked, is not forgiven, does not become a plot, and is on the floor at the announcement with Gao.
+  By ch 172 he has walked four miles down the mountain four times to stand eight feet off in a queue while
+  she writes a column, and says he was going to keep doing it.
+- **Canon change 57 — the tower, and the stair carried by another hand (ch 170, 176, 178).** **Feng is warm
+  for the first time in twenty-two years, sixty-two, coughing less, writing more, owned, a Listener for
+  life.** The upward bundle goes up four flights in a district clerk's arms and comes down empty, **because
+  Feng asked for the stair to be taken off him to be written as permanent.** He has copied all four county
+  copies of her stage column in fair hand — one, two, three, two ruled lines, five, six, seven, two ruled
+  lines — **for the building, not the county.** **He cannot read what is in the gaps and has not been able
+  to for nine years**, and he has thought about it for four weeks and done nothing, and calls that the
+  correct answer and not much of one. **He has not asked her a question since ch 143 and asks none here.**
+  He tells her to stand at the mark **before** the ninth hour, not at it: the setting comes out at the ninth
+  and nine men working is the same nine men and costs her nothing.
+- **Canon change 58 — the announcement, and its price (ch 171).** **Condensing 9, at her own order, in the
+  open, at the cold end, in front of nine men.** **It takes the space with it** — she is full, top to the
+  soles of her feet, with no gap anywhere in her anywhere, and she has never in her life been that — and it
+  is over before the setting comes back out of the mark. **Her holding-or-telling decision is settled on the
+  page and is not re-opened:** telling puts her exact position in nine counties **fourteen days before a
+  referral carrying her name, her stages and her hours in order goes up the stair**; holding it a fourth
+  time gives the column a fourth hole, which the county rules an absence and an office above this county
+  reads as concealment, **and she would then be doing the thing she does in order to be suspected of doing
+  it.** **She tells the crew, out loud, at the mark, on the day, rather than letting nine men work it out
+  off a board over a fortnight.** The price is also in the room: **the cold end fills with people and stays
+  filled and is never hers again.**
+- **Canon change 59 — the hand said out loud (ch 172).** Nine men have noticed: Gao stopped asking her to
+  hold the slate; Qin walks to the counter; **a young clerk offers to write the column for her and is
+  refused**, because eleven minutes in her hand is four minutes in a clerk's and then there are two hands on
+  it. **At the ninth hour on a furnace floor, in front of all nine, she says: the heel of her left hand is
+  gone, a third of every load goes and does not come back, the county column takes eleven minutes where it
+  used to take four.** Gao's whole response is *then say so at the frame and I will hold it*, and he holds
+  it. **Nobody thanks her because she did not tell them to and would have been furious if they had.**
+- **Canon change 60 — the licence has nothing left on it (ch 173).** **A county has to enter a stage that
+  was announced** — date, place, and the fact that the member made it, or it is a different document. Then
+  Sun He stops and does arithmetic. **The ceiling is nine; she is at nine; there is nothing above nine on
+  the document.** A second relicensing needs a schedule of hours worked at the ceiling being asked for, and
+  **this county does not keep a schedule of work done past its boundary — not kept elsewhere, not kept at
+  all**, because past the boundary the work is done by people this county does not employ, examine, or hold
+  a second hand for. **The licence she fought for in the summer is finished the moment she reaches the top
+  of it, and that is not a punishment; it is what a document is.**
+- **Canon change 61 — the reading, in order (ch 174).** The winter return is read **in public, at the second
+  hour, with a queue out into the square**. The column reads **one, two, three, five, six, seven, nine**.
+  Each of the three gaps is ruled in the margin with the county's four words, *No stage entered for this
+  county at this date*, and **Member present** is written at the foot. **Sun He states the ruling aloud and
+  stops, because he has said it three times in nineteen months and there is no fourth sentence in this
+  county better than the first three.** **She signs it herself — eleven minutes with the flat of a second
+  finger, the first figure about fifty seconds and the ninth about twenty, in front of a queue that does not
+  shuffle** — and every person in the room can see the shape of what is not there on her left hand.
+- **Canon change 62 — the certification and the referral (ch 174).** **In a Warden's hand, signed by the
+  office and not by a person, read twice, in front of a registrar, a clerk and two members of the public:**
+  the thing in her head is **real**; it is **unauthorised**; it is **carried by a licensee in good
+  standing** whose licence, ceiling, conditions and defect stand and **whose seventh condition travels with
+  her and is not answered by this instrument**. **Then, spoken, not written: a field man of a Warden's
+  office cannot unmake a System inside the bound without a Wall writ, there is no such writ in this county,
+  and he is referring the dismantling upward to the Warden.** The referral **carries her name, her stages in
+  order and her hours, and carries no agent's name.** **The request on the public shelf goes live and goes on
+  the crate with it, four weeks after it was written.** He bought one certified copy and a receipt off that
+  counter in eleven weeks and nothing else.
+- **Canon change 63 — the Foundation petition (ch 175).** Four lines on Hall paper: a relicensing with the
+  ceiling at **Foundation, the first stage**, on a relicensed licence with seven conditions, grounded on an
+  hours record continuous from the origin date and held in this county in full. **She folds the filing copy
+  of her own licence in behind the four lines, front outward**, so the seventh condition goes up the stair
+  with the petition — and because a thing nobody has looked at cannot be refused. **Entered, routed,
+  barred — NOT refused** — with the ground of the bar entered as the absence of a schedule and **not** the
+  standing of the applicant, and a last line written slower than the rest: ***the answer to this application
+  is not this office's to write.*** **Sun He takes the clerk's pen, not his own, which is the difference
+  between a thing entered and a thing ruled. Once entered it cannot be withdrawn by her**, and it is dated
+  the day after a referral went up out of this county, so both papers ride the same crate. **Foundation 1
+  belongs to Volume 4.**
+- **Canon change 64 — what went up, and what came down (ch 176).** One crate, one stair: the quarterly
+  schedule with *irregular* on the front for the fourth time this year, the referral, the request, and her
+  petition. **The district's answer to the request: received, numbered, referred upward, no instrument held
+  in the district either, and an empty space the width of a line where an answer was meant to go.** Nine men
+  read the schedule in the Hall and **Gao does the sum out loud, on purpose, in a hall, so that nine men
+  have heard it from a mouth instead of off a wall.** **Da Shan says a man came in on the twelfth and asked
+  how many loads came down that week, and he told him, because it is his board.** The board behind a well has
+  **eight frames, two of which were off and are back.** **The tin is about a hundred and forty coppers.**
+- **Canon change 65 — the licence comes out of the oilcloth (ch 177, 178).** She takes it out **on the bench
+  in the wash house**, reads the front and looks at the last line of the back **without reading the seven
+  conditions, because she read them once**, and does not tear off the eight hundred jin. **The Clay Plate
+  stays against her ribs**; the register still reads *reconciled*. **The first licence comes down off two
+  nails**, going soft at the crease of a defect line she wrote herself, and is rolled into her coat lining
+  before it is unreadable. Four nails, six coppers. **She practises in the dark at the foot of the bunk —
+  three straight out of five, the fifth splitting the pine — and then in daylight in the yard behind the
+  Hall, where the second hour teaches her the third thing: the hand does not want to be watched, and the
+  stroke is something she has been doing rather than letting the arm finish.** **At the seventh hour, with
+  nine men coming in off the shift, she nails the second licence up straight above her own bunk. Ten
+  sleepers, twelve bunks, and the tower lamp burning four miles off.**
+- **Canon change 66 — the final image (ch 178).** **First week of the deep cold.** She asks how much of it is
+  there and he tells her the truth: **about ten days** — and about six weeks of winter still to come in it.
+  **The Ledger is hers to order and she does not order it**, and no price is named anywhere in this batch.
+  **She does not forgive him. She does not tell him to stop.**
+
+### Other Batch 0004 facts
+
+- **Channel: about ten days at ch 178, said once, in weeks, in the final image and nowhere else.** The ch 160
+  figure (about three weeks) was not repeated. **No bare Settlement fraction is on the page anywhere in
+  Volume 3.** Ten less four and a half is five and a half, less thirty-six days of rationed use is three,
+  less the eleven chapters to the close is about ten days; **that arithmetic stays where Batch 0003 left it
+  and is not re-derived on the page.**
+- **Ledger: not taken. It is hers to order and his to hold only on her word — used once, at ch 178, where
+  she does not exercise it.** **Merit: none.** The ch 140 kill is spent.
+- **The claim:** standing, unanswered, the seventh condition, travelling on the licence, **looked at and not
+  torn off at ch 177.** **The dated entry in the counting room is a fact and is not acted on.**
+  **Hou Sanliang unpaid, patient, never in a room with her, never met.**
+- **The refusal at ch 150 is the condition every scene in this batch happens inside.** Nothing in 164–178
+  softens, defers, reopens or regrets it; no chapter lets her wonder what she would have done; and at ch
+  174 she **checks, standing in the room, that she does not wish she had said yes.**
+- **Not in this batch:** the girl of twenty-four **is on the page and stays alive**, paid a quarter in
+  advance, gains four coppers a week out of a district fund for the cold months because she wrote the
+  second document and not the first, and is not thanked. Shen Xiu, the three sponsors, Hou and Wei Ran do
+  not appear. **Nothing about the sponsors' second book is lodged, copied or spoken anywhere in
+  ch 119–178.**
+- **Titles 164–178:** The Last Card, The Pay-Off, Nine Coppers a Load, The Cold End, The Notice, The Man
+  Who Stayed, Another Hand, Nine, Eleven Minutes, The Ceiling Reached, One, Two, Three, Barred, What Went
+  Up, Out of the Oilcloth, Straight. **All unique against 1–178.**
+- **Chapter length:** 30,505 words over 15 chapters, **average ~2,034**, counted after review repair.
+  Longest is ch 176 at 2,215 and ch 178 at 2,234; shortest is ch 169 at 1,812. **Nothing under the 1,300
+  floor, no chapter above the 1,800–2,700 guide, and no monotone decline.**
+
+### Construction budget — spent in Batch 0004, not to reuse
+
+The seven relicensing conditions re-listed: **zero.** The claim's position on the paper: **used once, at
+ch 177, as a thing looked at.** The suppression arithmetic re-run: **zero** — the three gaps are ruled with
+four words and Sun He stops. The signed-shift roster rule **re-explained: zero** (a draft restated the ch
+60 rule twice in ch 167; both were cut and the consequence kept). *There is no form*: **zero.
+*There is no column*: **zero.** *The record remained*: **zero.** *Nobody asked*: **zero.** *Nobody knew*:
+**one, at ch 164, doing real work** — nobody in nine counties knows what her hand is. *Nobody was thanked*:
+**one, at ch 172**, and it is the one place the construction is allowed because the girl has spent two
+volumes setting not-being-thanked up as protection. **Nobody said anything: reduced from six to three and
+spaced across three chapters.** The four seconds: **one use at ch 171 plus the one-word beat**, against
+three at ch 135 and ch 148. `his eyes widened`, `he couldn't believe it`, `suddenly`, `little did he know`:
+**zero.** Weekdays: **zero named anywhere in the batch** — two were caught in draft at ch 168 and cut.
+Authorial scaffolding: **zero**; *this chapter*, *this volume*, *the reader*, *the whole series*, and the
+word *batch*: **zero.** **No Wall described, no crossing, no geography past a marker post, no second
+outside-bound office, no new final enemy.**
+
+### Carried forward, unchanged, into Volume 4
+
+**A Warden's office outside the bound now holds her name, her stages in order and her hours, certified by
+her own county.** Crew **nine men; ten sleepers in twelve bunks.** The girl of twenty-four alive, four paid
+hours plus four from a district fund for the cold months. Hou Sanliang **unpaid, patient, never in a room
+with her, never met**; his counting room holds a **date**. Shen Xiu unforgiven, unthanked. The three
+sponsors silent; **nothing about the second book is lodged, copied or spoken anywhere in ch 119–178.**
+The register still reads *reconciled*; **the plate is still worn.** *Kiln-born* in two heads and no paper;
+**the office name still unreadable and still not named.** The fourth and eighth stages of her life and
+nothing else are on no paper. **The Foundation writ is dead and not revoked and the relicensing did not
+revive it; the second relicensing is petitioned, numbered, barred and not withdrawable, and only an office
+above this county can complete it.** **The second licence is now nailed up straight over the second bunk;
+the first is rolled in her coat lining.** The tower intake line at the ninth hour is not audited and is not
+examined as a change. **She does not forgive him.** **Ledger is hers to order and his to hold only on her
+word, and she has about ten days of channel.**
+
+## Volume 3 running ledger — at end of ch 178 (VOLUME 3 CLOSED)
+
+| Item | Value at end of ch 178 |
+| --- | --- |
+| Her stage | **Condensing 9, ANNOUNCED at her own order on day 198, witnessed by nine men at the cold end.** Ceiling **Condensing 9** in her own hand, relicensed ch 132, and **there is nothing above it on the document.** Arm at a third. Aperture cracked through and permanent. **Short breath three counts on stairs, never back to two. The heel of her left hand is gone**, told out loud to nine men at ch 172, and every county hour takes eleven minutes longer |
+| Licence | **RELICENSED, ch 132.** Clause Four, ceiling nine, **seven conditions**, the claim the seventh and the last. **Nothing above nine on the front of it anywhere in the world.** **The second licence is nailed straight above the second bunk (ch 178). The first is rolled in the lining of her coat, taken down before it went soft.** A relicensing at Foundation the first stage is **petitioned, numbered, received, routed and barred, not refused, and not withdrawable** (ch 175) |
+| Hours | 940/940 tithe level (ch 86) + 311 season (ch 113) + 58 annex level at the thaw (ch 147) + winter annex on **forty-three weight tickets, her hour on thirty-four of them**. *Irregular* stamped on the front of the Qinghe furnace schedule for the **fourth** time this year. The quarterly schedule went up the twentieth of the month in the same crate as the referral, the request and the petition |
+| In-world date | **day 219** — first week of the deep cold, the third month of it. **The season's road shut on day 117 and has not opened.** The lane behind a well is running again at four loads a week, bought at nine coppers a load. **The stage column reads one, two, three, five, six, seven, nine — three holes in nine lines, in nine counties** |
+| Settlement | **about ten days** (from about ten at ch 140, less four and a half at ch 149 = about five and a half, less thirty-six days of rationed use = about three, less the eleven chapters to the close), against **about six weeks of winter still to come in it**. **Ledger is hers to order and his to hold only on her word, and she did not order it** |
+| Bounty | 800 jin, standing, unanswered, the seventh condition, travelling on the licence. **Looked at at ch 177 and not torn off.** **A date has been entered against it in a Lowwater counting room by a hand that is not the counting room's.** **Hou Sanliang still unpaid, still patient, still never met.** **The ch 150 handover would have answered it in full and she refused it in a room with two witnesses** |
+| The referral | **Filed, dated day 212, read twice in a low room in front of twenty people, and gone up the stair past every office she has ever stood in front of.** Carries her name, her stages **in order**, and her hours. **Carries no agent's name.** The subject was standing in the room. The dismantling it orders **can only be executed past a boundary no county paper crosses** |
+| Crew | nine men; ten sleepers in twelve bunks. **They have read the refusal, the nine, the word on the front of their own schedule and three holes in a column, and Gao has done the sum out loud in a hall so nine men have heard it from a mouth.** Qin, twenty-two, walks to the county counter. Gao holds the frame |
+| Feng Lushi | **alive, warm for the first time in twenty-two years, coughing less, writing more, owned, sixty-two. Column at five.** A Listener for life. Suspended from the stair one quarter by his own written request, a clerk carrying the bundle upward and coming down empty. **Has not asked her a question since ch 143.** Cannot read what is in the gaps of her column and has stopped trying |
+| Sponsors | three marks on a sheet, ch 131, bought with silence. **Nothing about the second book is lodged, copied or spoken anywhere in ch 119–178.** Foundation writ dead and not revoked. They do not appear |
+| Shen Xiu | unforgiven, unthanked. **Does not appear** |
+| The girl of twenty-four | **alive**, copying carriers' run lists, four paid hours a week at the trough **plus four more out of a district fund for the cold months**, because she wrote the second document and not the first. Leg set crooked. Charged to the eighth estate. Not thanked |
+| Da Shan | board behind a well, **eight frames, two of which were off and are back**. Charging nine coppers a load and saying so to her face. Never asked a question and never will |
+| Register / plate | *reconciled* / worn. **She does not forgive him and she does not tell him to stop** |
+
+## Volume 3 running ledger — at end of ch 163 (SUPERSEDED by the ch 178 ledger above)
 
 | Item | Value at end of ch 163 |
 | --- | --- |
@@ -996,7 +1228,7 @@ weeks**, ch 160 **~3 weeks**, cause *thirty-six days of ordinary use*). **Do not
 | The girl of twenty-four | **alive**, copying carriers' run lists, four paid hours, leg set crooked, charged to the eighth estate. **Paid on the day; not thanked; told out loud at ch 155 that asking where a slate came from has put her under a line, and she asked for it to be recorded between them** |
 | Register / plate | *reconciled* / worn. **The second licence is still not nailed up; the first is still crooked over her own bunk.** She does not forgive him |
 
-## Volume 3 running ledger — at end of ch 148 (SUPERSEDED by the ch 163 ledger above)
+## Volume 3 running ledger — at end of ch 148 (SUPERSEDED by the ch 178 ledger above)
 
 | Item | Value at end of ch 148 |
 | --- | --- |
