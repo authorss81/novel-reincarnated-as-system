@@ -71,18 +71,22 @@ controller alone, so this record does not write one.**
 
 ## Volume 5 Batch 0003 (ch 268–283) — what this batch added, and what is now live going into Batch 0004
 
-**Sixteen chapters, day 522 to ~580. ONE bracketed layer line, at ch 275.** Pressure: **family paper**.
+**Sixteen chapters, day 522 to day 580. ONE bracketed layer line, at ch 275.** Pressure: **family paper**.
 
 | Thread | Owner | Planned resolution | State |
 | --- | --- | --- | --- |
 | **Authorisation** | Ning Yan | **Vol 5, Batch 0003** | **TAKEN AND CLOSED.** Ch 268, cold: far-side office takes 800-jin claim onto its own book against hours past the line. Leaving now costs the far side |
-| **Return inside** | Ning Yan | **Vol 5, Batch 0003** | **DONE ONCE.** Ch 271: attendance stood, paper for Ning Bo placed, walked out. No second inside scene |
+| **Return inside** | Ning Yan | **Vol 5, Batch 0003** | **DONE ONCE.** Ch 271 (day 532): attendance stood, paper for Ning Bo placed, walked out. No second inside scene |
 | **Yuan entered** | Yuan | **Vol 5** | **ENTERED (272).** Readable without her; date of death-day gone; apology kept. Ledger as standing held stage ENDED |
-| **Golden Core 2** | Ning Yan | **Vol 5, Batch 0003** | **TAKEN AND CLOSED.** Day 556, one bracket. Cost: slowed finger + writing hours cost their hours |
+| **Golden Core 2** | Ning Yan | **Vol 5, Batch 0003** | **TAKEN AND CLOSED.** Day 556, the third of the month, one bracket. Cost: slowed finger + writing hours cost their hours |
 | **Ning Bo / Ning Wu** | family | **Vol 5, Batch 0004** | **WORKED / REACHABLE.** Settled ch 296 / entered ch 297 — Batch 0004's |
 | **Claim answered** | series | **Vol 5, Batch 0004** | **NOT ANSWERED.** Ch 294–295 are Batch 0004's; Luo Ping's hand tears the date; Hou paid |
 
-**Length repair flag:** several Batch 0003 chapters sit under the 1,300 floor; beats/dates/bracket/pinned items are fixed and must not move — expansion only. Batch 0004 must hold the floor from ch 284.
+**Batch 0003 is repaired and its review findings are answered** (see `state/continuity.md`, ***Volume 5 Batch
+0003 — REVIEW REPAIR***). Length floor cleared on all sixteen chapters; day table corrected to the pinned
+Golden Core 2 day 556, which also makes the ch 292 Golden Core 3 interval correct at forty-four days; the
+authorisation, the cost and every other beat unmoved. **Batch 0004 opens on day 581 and must hold the floor
+from ch 284.**
 
 ## Volume 5 Batch 0002 (ch 253–267) — what this batch added, and what is now live going into Batch 0003
 

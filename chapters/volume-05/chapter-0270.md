@@ -1,6 +1,6 @@
 # The Unworked Day
 
-On the first of the month the road rose and the wind came off the high ground with grit in it, and she walked with her head down and the bag strap cut into the good shoulder.
+On the second of the month the road rose and the wind came off the high ground with grit in it, and she walked with her head down and the bag strap cut into the good shoulder.
 
 She had been walking three days. The settled country was behind her. The working ground ran alongside in stretches, tended and untended, and the crews on it were dots with bars, and the drift under the bar rang faintly when the wind dropped, low, under the arm, the way thick drift rang under a bar. She kept what the sound said against what she knew, in order, and told nobody, including him.
 
@@ -12,7 +12,7 @@ She wanted, concretely, to reach the next shelter before dark with the paper sti
 
 ## The Seventh
 
-On the second of the month the road dropped into a valley with a stream in it, and the stream ran high with rain, and the crossing was a plank bridge with rails gone soft at the fixings.
+On the third of the month the road dropped into a valley with a stream in it, and the stream ran high with rain, and the crossing was a plank bridge with rails gone soft at the fixings.
 
 She tested the rails the way she tested everything before she trusted it, hand flat, weight leaned, and the wood gave a finger’s width and held. A carrier’s cart had gone over before her, wheels wet, and the boards held that, and she went over with the bag high on her back and the oilcloth against her ribs, breath in four counts, arm open a third of the time, and did not look down at the water.
 
@@ -24,13 +24,15 @@ What she felt then was anger, sudden and hot, at her own carelessness, and then 
 
 ## The Gap
 
-On the third of the month she walked through country that had been worked and left, banks caved, cuts grown over, and the road narrowed to a track between hedges. The pay-day of the seventeenth stood eleven days east behind her and fourteen days west ahead of nothing, because she would still be on the road when it arrived.
+On the fourth of the month she walked through country that had been worked and left, banks caved, cuts grown over, and the road narrowed to a track between hedges. The pay-day of the seventeenth stood thirteen days ahead of her and she would still be on the road when it arrived, because there was no date on her that anybody could move.
 
 A day not worked was a day not paid and no day could be moved in either direction by anybody. The twenty-second had stood as a gap once, present as a gap and nothing else, and now the seventeenth would stand as a gap the same way, and the twenty-seventh after it if the road held her that long. The column would show them clean. That was the rule of stubs on that reach, that dates came out clean or the stub was nothing.
 
 She counted the cost on her knee at dusk with a stub of charcoal, clear of the ration marks on the ticket, the way she had counted the season on her fingers in the dark. Ninety west spent. Bread three days bought, six more to buy off carriers at their prices. Two pay-days missed if she walked fast, three if she walked slow. The furnace banked nine days east, holding or not holding.
 
 She put the ticket back in the oilcloth, above the plate she never described, and felt the weight of the season in the cloth against her ribs, paper and stubs and marks, all of it hers and none of it checkable.
+
+A mile along the track she passed a working crew of four breaking out a low cut, the same bar, the same set-early, and the foreman stood with them watching her go by instead of watching the stone. She did not stop. There was no work west for her that would pay in anything she could spend, and a yard that asked a stranger to set stone for nothing would be a yard that asked for something else.
 
 What she felt was not regret. It was the heaviness of a thing carried straight, debt paid where debt could be paid, road paid where road had to be paid, column clean, season holding.
 
@@ -42,14 +44,14 @@ One of them talked about a wheel lost off a cart past the valley, spokes stove, 
 
 The older one looked at her hands in the firelight, four fingers on one, the flat of the second finger stained with charcoal and stone dust, and looked away. Nobody on a carrier’s road asked about hands. Hands were yard business. The road was not.
 
-She banked her own small fire the way she banked the furnace, sparingly, three sticks laid true, and slept with the oilcloth inside her coat and the bag strap round her wrist. The ground was hard under the blanket. The furnace ticked under her foundation from six days away, steady or out, and there was no instrument that could tell her which.
+She banked her own small fire the way she banked the furnace, sparingly, three sticks laid true, and slept with the oilcloth inside her coat and the bag strap round her wrist. The ground was hard under the blanket. The furnace ticked under her foundation from five days away, steady or out, and there was no instrument that could tell her which.
 
 At first light she walked on with frost on the grass and the bag lighter by one bread, and the track narrowed between hedges grown tall with late growth. A hare broke from the hedge and ran ahead of her a hundred yards before cutting away, and she watched it go the way she watched everything that moved without being driven, plainly and without wanting anything from it.
 
-He said one thing that night and it was present tense and it bought nothing.
+He said it at the fire pit, and it bought nothing.
 
 “You are walking,” he said. “And it is holding.”
 
-The third closed on a woman five days west with a bag, a paper, eleven stubs, a furnace banked nine days east, two pay-days standing as gaps ahead of her, and a plank bridge behind her that had shifted and held.
+The fourth closed on a woman five days west with a bag, a paper, eleven stubs, a furnace banked five days east, two pay-days standing as gaps ahead of her, and a plank bridge behind her that had shifted and held.
 
 The road did not care what she carried. She carried it anyway.

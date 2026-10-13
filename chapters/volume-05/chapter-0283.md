@@ -18,26 +18,50 @@ No overlap. No contradiction. No gap east of the road. Five off the far-side pla
 
 The dates came out clean. That was the rule of stubs on that reach, and all fifteen came out clean.
 
-She folded them back into the oilcloth in four marks, above the plate she never described, beside the dead weight tickets, and the oilcloth had got heavier and it had got no bigger. That was the arithmetic of a season carried in a fold of cloth against the ribs, and she had felt it every day for eleven weeks without once having a name for what she was carrying, and now that it had names she found she carried it steadier than before.
+She folded them back into the oilcloth in four marks, above the plate she never described, beside the dead weight tickets, and the oilcloth had got heavier and it had got no bigger. That was the arithmetic of a season carried in a fold of cloth against the ribs, and she had felt it every day since the second of a month four months back without once having a name for what she was carrying, and now that it had names she found she carried it steadier than before.
 
-## The Close
+That was the odd part and she turned it over twice looking for the trick in it. She had come to the reach with a licence and a dead father’s account and four fingers.
+
+On this pay-day she had fifteen strips of paper that no man within nine days of road could check, a furnace in the ground that no county could hear, an eight hundred jin figure standing on a book she could not read, a paper on a board nine days west with her father’s name on it, a decade of her brother’s in somebody’s mouth, and a man on a strip on a post who had given up the morning he died so that her hours would go on being counted after her.
+
+The licence had been for work inside a county. The furnace was for a yard nobody had heard of. The figure was on the wrong side of the line. The paper was in the wrong county. The decade was a sentence a woman with a scarred forearm had said once on a bank. And the man was on a strip of cloth under a lump of wet paste on a post.
+
+Not one of those things was hers. Every one of them had been put somewhere else — in a room, on a board, in a book, in the earth, in the past — and she had carried the whole of it with two hands and about four fingers, and she had carried it a long way, and it had never once got heavier in a place she could point at.
+
+## The Work
 
 She worked the day in the middle of the bank, hand bound against the dust, setting down early, moving stone by hand, furnace steady through the middle of every stroke. By midday Da moved her back to the heavy end without a word, pointing at the ramp and walking away, and she took it with nine holds and four bound fingers and no turn and a slowed finger, and the heavy end held.
 
-At the plank she wrote the date in, longer, hour gone, page held flat without being asked, column going down in order under the far date in his hand. She put her hand flat on the book for a line’s length, and the column was hers, and that was the whole of what she knew.
+The heavy end had come back three times now in four months, and each time it had come back to a body that had lost something first. The turn had gone and the heavy end came back anyway. The finger had gone and the heavy end came back anyway. Whatever the next thing took, she understood, with the bar in her hands and the afternoon still to run, that the heavy end would come back anyway, and that this was not a comfort, because it meant the ground did not care what it took.
+
+She thought about the low building and the eight hundred jin and the room with a stove in it and the twenty-nine coppers and the two holds and the turn, and about a book four hundred yards past the post with her hours under a figure on it, and she did not say any of it out loud and did not need to, because a man who has held a bar for a woman for nine days does not require her to say it.
+
+## The Word
+
+In the afternoon the low building sent word by a boy that her column stood entered against the figure, hours in order, season at each end, and the figure stood on the office’s own book the way figures stand on books kept by hand. She heard it at the sledge with the bar in her hands, and nodded once, and worked on.
+
+The boy waited for an answer that was not his to carry, and she gave him none, because there was none to give. He was about fifteen and had walked four hundred yards to say six words and would walk four hundred yards back, and she looked at him properly for the length of a breath, which she had not done for a child of the county since she was one.
+
+“Tell them the hours go in,” she said. “Every day I stand here.”
+
+He said he would, and he would have said it twice if she had asked, and he went up the track at the speed boys go up a track they have been sent up, and she watched him to the top and then went back to the bank.
+
+Nothing on the post had been touched. The figure was on a book and not on a post. But somebody in a room with a stove in it had written it down again in his own hand, in his own book, from her own mouth, and that was the first time since the twenty-ninth that the figure had moved without her moving it, and it had moved because it was standing on a book with her hours under it.
+
+That was what she had bought with a yes, and it was still the largest thing she had done in four months.
+
+## The Fire
 
 At the fire eleven men and her sat at the eight feet, and the woman with the scarred forearm moved one place along without asking, nearer than before, and put her bag down in the gap, and Da talked about wedges and rails, and the furnace ticked under her foundation, and the board on the post held two lines nobody on the reach could read, and the paper nine days west held a name where somebody had to look at it, and the far-side office held a figure against hours she worked past the line.
 
-She walked back to the hut in the dark with the furnace banked and the bar by the door, and held what the batch had changed beside what it had left open, plainly and without machinery.
+She walked back to the hut in the dark with the furnace banked and the bar by the door.
 
-In the afternoon the low building had sent word by a boy that her column stood entered against the figure, hours in order, season at each end, and the figure stood on the office’s own book the way figures stand on books kept by hand. She had heard it at the sledge with the bar in her hands, and nodded once, and worked on. The boy waited for an answer that was not his to carry, and she gave him none, because there was none to give.
-
-Authorised onto a far-side book against hours past the line, cold, irreversible, leaving costing the far side instead of the bound. Gone back inside once, on purpose, in daylight, and walked back out. Him entered as a readable line away from her hearing, date of his death-day gone, apology kept, readable without her, Ledger ended. Second stage taken at her own order where nothing was announced, slowed finger, every writing hour costing its hour. Father’s account opened and worked, not settled. Brother’s decade made reachable, not met. Register read once for what it was, reconciled, never corrected.
-
-He said one thing that night and it was present tense and it bought nothing.
+Under her, the whole way back:
 
 “You carry,” he said. “And it is carried.”
 
 The twenty-seventh closed on a woman with fifteen stubs, a furnace twice lit, a slowed hand, a true column, family paper placed and open, and about nine days of road behind her that she had walked both ways and would not walk again in this book.
 
-Something on the far side now held her hours, his line, and a figure no county could answer for. No county nine days west knew any of it. The season held.
+Something on the far side now held her hours, his line, and a figure no county could answer for. No county nine days west knew any of it.
+
+The season held. And what the season was carrying, and what she was, and what the next stage would take out of her hands, all of it stood in one place where nothing in the world could reach it and no book on either side of the line could put a word on it.

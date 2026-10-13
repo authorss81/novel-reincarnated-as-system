@@ -16,11 +16,13 @@ What she felt was fear, plain and physical, the kind that sits low in the stomac
 
 ## The Bag
 
-She packed the way she packed everything on that reach, sparingly and by weight. Bread for three days at five coppers a day, bought at the store at the seventh hour and eaten outside with her back to the wind. A spare strip of cloth. The knife. The oilcloth with eleven stubs in four marks above the plate she never described, beside the dead weight tickets with the ration marks and the folded figures of rates, six a load and eight a day and ninety west for a person and one bag, written clear of every mark in the space above.
+She packed the way she packed everything on that reach, sparingly and by weight. Bread for three days at five coppers a day, bought at the store at the seventh hour and eaten outside with her back to the wind. A spare strip of cloth. The knife.
+
+The oilcloth with eleven stubs in four marks above the plate she never described, beside the dead weight tickets with the ration marks and the folded figures of rates, six a load and eight a day and ninety west for a person and one bag, written clear of every mark in the space above.
 
 Ninety coppers for a person and one bag. Wei Ran had given the going once, on the road, as rate and road and not a favour, and the coming was a different number nobody had quoted. Ning Yan counted the coppers out of the cloth where she kept the pay-day strips, face down, contractor’s marks on the back, and put them in a separate fold. The furnace money was done and the bread money was separate and the road money was this.
 
-The furnace she banked low before she left, the way she banked it at night, three handfuls of ash over steady heat, brick coursed and clayed, wire bound, the small crucible seated in the middle like a cupped hand. Eight days since the nineteenth and the earth behind the hut had not given any of it back. It would hold banked for days if the weather held. If it went out she would relight it. That was the arithmetic and it was hers.
+The furnace she banked low before she left, the way she banked it at night, three handfuls of ash over steady heat, brick coursed and clayed, wire bound, the small crucible seated in the middle like a cupped hand. Eleven days since the nineteenth and the earth behind the hut had not given any of it back. It would hold banked for days if the weather held. If it went out she would relight it. That was the arithmetic and it was hers.
 
 The woman with the scarred forearm watched her tie the bag from two places along the stones and said nothing, and then moved one place nearer without asking and without comment, and put her own bag down in the gap.
 
@@ -30,7 +32,7 @@ The woman with the scarred forearm watched her tie the bag from two places along
 
 That was the whole of the farewell the yard got. Nobody within nine days of road could be told what the paper was for, because the paper was for a name in a book, in ink, where somebody had to look at it, and that was family paper and not yard business.
 
-He said one thing before she stepped off and it was present tense and it bought nothing.
+He said it at the stones before she stepped off, and it bought nothing.
 
 “You are going,” he said. “And I am here.”
 
@@ -50,9 +52,11 @@ On the second day the rain came and went the way rain comes and goes on working 
 
 A carrier passed her at midday with an empty cart going east, and the driver nodded the way drivers nod at walkers, without slowing. The draft west had gone on a carrier’s round with no date on it, office to office, eleven days back, and this cart was not that one, and she did not ask. Asking was a kind of revealing and she had nothing to reveal that the road needed.
 
-She counted days on her fingers at dusk the way she counted everything the rain could take. First of a month tomorrow. Then the seventeenth eleven days after that, a pay-day she would miss, standing as a gap. Then the twenty-seventh. The column would hold the gaps and the season at each end, and the name at the top in two hands, and that was the whole of what she knew.
+She counted days on her fingers at dusk the way she counted everything the rain could take. The seventeenth was sixteen days off and it was a pay-day she would miss, standing as a gap. Then the twenty-seventh after it. The column would hold the gaps and the season at each end, and the name at the top in two hands, and that was the whole of what she knew.
 
-She wanted, concretely, to keep the paper dry through the next seven days. That was the want, small and hers, and it sat beside the larger one the way stone sits beside stone, plain and unmovable.
+Two of the carriers in the shelter had rolled their beds out before the others and lay with their coats on, the way men sleep when they have counted the days between here and wherever they are going and got a number they did not like. Nobody said the number out loud. It sat in the room anyway, in three separate silences.
+
+She wanted, concretely, to keep the paper dry through the next seven days, and to come back to a column that had not been closed behind her while she was gone. That was the want, small and hers, and it sat beside the larger one without needing to be said twice.
 
 The thirtieth closed on a woman two days west with ninety coppers spent, bread damp, oilcloth dry, furnace banked nine days east, column holding gaps she could not move, and a paper for her brother’s name folded clear of every mark in the space above the tickets.
 

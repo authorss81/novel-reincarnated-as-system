@@ -40,11 +40,9 @@ She had heard those sentences before, in that voice, in front of those men, and 
 
 The stove ticked. One of the six men shifted on his bench and the bench creaked. Nobody looked at her the way men look at a woman. They looked at her the way men look at a column that has just been named.
 
-She understood the rule perfectly. It was plain and complete and it had no machinery in it at all. A figure was only paid against something, and the only things on this side of the line a figure could be paid against were hours worked past the last working point, and there was one run of those with dates in it on this reach and it was hers.
+The rule was plain and complete and it had no machinery in it at all. A figure was only paid against something, and the only things on this side of the line a figure could be paid against were hours worked past the last working point, and there was one run of those with dates in it on this reach and it was hers.
 
-She also understood that it would move the weight off every back she had left nine days west and put it onto ground she stood on.
-
-That was the whole of it, and it sat in her the way stone sits in a sledge, plain and unmovable.
+It would also move the weight off every back she had left nine days west and put it onto ground she stood on. That was the whole of it, and it sat in her plain and unmovable.
 
 “What does it cost the room?” Ning Yan said.
 
@@ -60,7 +58,7 @@ She stood at the counter with stone dust on her sleeves and felt the season in t
 
 What she felt then was not steadiness. It was anger, clean and sudden, at every book that had ever held her family by a corner and never once been made to carry anything itself. The bound’s books could not close without her and never would, and the people she had left standing carried it, and the room in front of her was offering to carry it instead, on paper, in ink, where somebody had to look at it.
 
-She wanted, concretely, for the nine men on a floor nine days west to finish a season without her name in the margin of it. That was the want, and it was not small, and it stood beside the anger the way stone stands beside stone.
+She wanted, concretely, for the nine men on a floor nine days west to finish a season without her name in the margin of it. That was the want, and it was not small, and it stood beside the anger without arguing with it.
 
 “Yes,” Ning Yan said. “Take it onto your book. Against my hours.”
 
@@ -70,9 +68,9 @@ From that hour leaving would cost the far side instead of the bound. That was wh
 
 He read the entry out once, the way offices read entries out, without looking up, and the six men heard it the way men hear paper, without comment.
 
-She walked back to the hut in the dark with the bar over her shoulder and banked the furnace with three handfuls of ash, and sat against the boards with the oilcloth against her ribs and felt what she had done settle the way days settle at fires, stone by stone, into something carried.
+She walked back to the hut in the dark with the bar over her shoulder and banked the furnace with three handfuls of ash, and sat against the boards with the oilcloth against her ribs and felt what she had done settle into something carried.
 
-He said one thing that night and it was present tense and it bought nothing.
+He said one thing before she slept, and it bought nothing.
 
 “You are held,” he said. “And you are holding.”
 

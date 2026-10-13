@@ -3279,15 +3279,15 @@ Both inside pinned items, changing no day, no stage, no title and no ending.
 | What changed | **A furnace of her own, taken where nothing is announced. Three refusals standing. A draft nine days west. A fair copy in a far-side book. The surface answer paid.** She is kept, paid, refused, furnished and answered-at-last in the one thing the series owed |
 | Still open | **The authorisation (ch 268, Batch 0003's); the return inside once; Ning Bo's account; Ning Wu's decade; Yuan entered (ch 272); Golden Core 2 (ch 275, day 556); the claim answered (ch 294–295); the Hunter's request; everything above the Standing Office of the Second Account; *kiln-born*; the eleven; *reconciled*; the year, still carrying** |
 
-## Established facts, Volume 5 Batch 0003 (ch 268–283) — FAMILY PAPER (DRAFTED; length repair pending)
+## Established facts, Volume 5 Batch 0003 (ch 268–283) — FAMILY PAPER (DRAFTED AND REPAIRED)
 
-- **Ch 268 (day 522–524): authorisation, cold.** Far-side office takes 800-jin claim onto its own book against hours past the line at her yes. Irreversible; leaving now costs far side. No plant before the hour.
-- **Ch 269–270:** road west, 90 coppers, bag, gaps; plank bridge risk, no rescue. **Ch 271:** return inside once — floor, nine men, wash house, tower light, counting room date seen-not-torn; paper for Ning Bo placed, daylight, name said, asking nothing, entered, walked out. One inside scene only.
-- **Ch 272 *The Man the Board Keeps*:** close third on Yuan (flagged once). Present-tense speech only from him; no other present frame. Cost stated before entry: unentered state + date of death-day; apology kept, day lost. Keeper's hand enters him as readable line; from this hour readable without her. **Ledger as standing held stage ENDS (said on page).**
-- **Ch 273–274:** walk out, report by mouth once; column holds gaps; furnace banked-held. **Ch 275 (day 551–556): GC2** at her order in the open, nothing announced. **One bracket, second of volume** (pinned text). Cost: second-finger flat longer than 11 min permanent + every writing hour costs its hour.
-- **Ch 276–283:** slowed writing carried; Ning Bo worked-not-settled (by-mouth once); Ning Wu reachable-not-met (carriers'-list line once); heavy end regained; slab risk; keeper's strip (his readability standing); register read once as *reconciled*, never corrected; 15 stubs in four marks by ch 283; pays 530/540/550/560/570/580 carried as gaps/worked.
-- **Held:** claim authorised-not-answered; Hou unpaid never met; Lowwater date untouched; Luo Ping direction; surface answer paid-closed, never revoiced; no office above Standing Office; no second Lung/appointment; Feng never on page; Hunter pending off page; Wei Ran off page this batch; year carrying unmentioned; MEMBER ABSENT ×3; plate worn undescribed; ch 150 standing; no new enemy/villain; no month/weekday named; curly quotes; one bracket total.
-- **REPAIR FLAG:** chapters run 736–1,416 words raw (several under 1,300 floor). Beats, days, bracket, titles, pinned costs and the ch 272 scene are fixed — **expansion inside existing cards only**, no beat moved, no second bracket, no new scene west of the line.
+- **Ch 268 (day 522, the twenty-ninth): authorisation, cold.** Far-side office takes 800-jin claim onto its own book against hours past the line at her yes. Irreversible; leaving now costs the far side. No plant before the hour.
+- **Ch 269–270:** road west, 90 coppers, bag, gaps; plank bridge risk, no rescue. Departure day 523 (the thirtieth), nine days' walk. **Ch 271 (day 532, the ninth): return inside once** — floor, nine men, wash house, tower light, counting room date seen-not-torn; paper for Ning Bo placed, daylight, name said, asked for and entered, walked out. One inside scene only.
+- **Ch 272 *The Man the Board Keeps*:** close third on Yuan (flagged once). **The chapter is in the present tense throughout — that is its frame, and it is his; no other character is ever in a present frame and every sentence he speaks is present tense.** Cost stated before entry: unentered state + date of death-day; apology kept, day lost. Keeper's hand enters him as readable line; from that hour readable without her. **The Ledger stops holding him as a standing in a book, said on the page in his own terms.**
+- **Ch 273–274:** walk out on the twelfth (day 535), nine days east, arriving on the twenty-first (day 544); report by mouth once; column holds gaps; furnace banked twenty-one days and held. **Ch 275 (pay-day day 550, order on day 556, the third of the month): GC2** at her order in the open, nothing announced. **One bracket, second of volume** (pinned text, character for character). Cost: second-finger flat longer than 11 min permanent + every writing hour costs its hour.
+- **Ch 276–283:** slowed writing carried from the fourth of the month (557); Ning Bo worked-not-settled (by-mouth once, ch 277); Ning Wu reachable-not-met (carriers'-list line once, ch 278); heavy end regained (ch 279); slab missed by a boot's width (ch 280); keeper's strip, his readability standing (ch 281); register read once as *reconciled*, never corrected (ch 282); 15 stubs in four marks by ch 283; pays 530/540/550/560/570/580 carried as gaps/worked.
+- **Held:** claim authorised-not-answered; Hou unpaid never met; Lowwater date untouched; Luo Ping direction; surface answer paid-closed, never revoiced; no office above Standing Office named; no second Lung/appointment; Feng never on page; Hunter pending off page; Wei Ran off page this batch; year carrying unmentioned; MEMBER ABSENT ×3; plate worn undescribed; ch 150 standing; no new enemy/villain; no month/weekday named; curly quotes; one bracket total.
+- **Length repaired.** 22,738 words of body prose over sixteen chapters, average ~1,421; **none under the 1,300 floor**; shortest ch 277 at 1,341, longest ch 272 at 1,649. No paragraph over 100 words. See ***Volume 5 Batch 0003 — REVIEW REPAIR*** at the foot of this file.
 
 ### Volume 5 running ledger — at end of ch 283
 
@@ -3486,3 +3486,155 @@ never met; the date in Lowwater untouched; the register still reading *reconcile
 Shen Xiu unforgiven and unthanked; ch 150's refusal untouched; the year of non-forgiveness unmentioned and
 still carrying; Feng absent and his fair copy spent at ch 262; the surface answer still paid once, at ch 267,
 in a worker's mouth, in short sentences, with the structural answer withheld and the tenth part not given.
+
+## Volume 5 Batch 0003 — REVIEW REPAIR (applied after `logs/volume-05-batch-0003.review.log`)
+
+**Thirteen findings answered. Authorial scaffolding, an ending preview and three forbidden tier names cut from
+the batch's centrepiece; the day table corrected against the pinned Golden Core 2 date; the twenty-chapter
+identical Yuan tag broken; 5,689 words of body prose added inside the existing cards; one duplicated sentence
+and two reversed day-orders fixed. The planned plot, the sixteen titles, the chapter order, the pinned beats,
+the single bracketed layer line and the ending are unchanged.** No chapter in Volumes 1–4 was opened, and no
+chapter of Volume 5 Batch 0001 or Batch 0002 was opened.
+
+### Blocking
+
+**1 — The 1,300-word floor. Fourteen of sixteen chapters were under it.** The batch ran 736–1,416 raw,
+average ~1,076, against Batch 0002's ~1,692. **It now runs 1,341–1,649 body prose, total 22,738, average
+~1,421.** Per file: 268 1,371 · 269 1,365 · 270 1,342 · 271 1,469 · 272 1,649 · 273 1,358 · 274 1,352 ·
+275 1,507 · 276 1,421 · 277 1,341 · 278 1,371 · 279 1,380 · 280 1,352 · 281 1,433 · 282 1,516 · 283 1,511.
+**None is under the floor and none is above the 2,700 guide.** The growth is inside the existing cards, not
+beside them: the low building's six words to the woman with the scarred forearm about her sister's wash house
+(ch 280), the twenty-third of nothing happening on the bank and what a body is instead of what it does (274),
+the seller's board and the price of the length (276), the stub run laid out and what a stub is actually worth
+(277, 283), the pillar of the bridge valley and the bread bought dear off a carrier (273), the younger man
+putting the eleventh slab out himself while she said nothing (280), the marker on the high ground and the
+keeper's paste going pale and hard and grey (273, 281), the two hands at the head of the column and who put
+them there (282), and the arithmetic of what leaving now costs the far side, worked out in a store doorway
+for the first time since the twenty-ninth (279). **Ch 272 and ch 275, the two the review called the batch's
+centrepiece and summaries, are now the longest and third-longest in the batch and read as scenes.**
+
+**2 — `chapter-0272.md`, authorial scaffolding, an ending preview and forbidden tier names.** Four deletions
+and one rewrite. Gone: *Ledger as a standing held stage ends with this volume*; the paragraph beginning *That
+is what the ending needs*, which named the Court, the fall and **the reader**, and ended *He does not know any
+of that yet*; the clause *and it will hold to the end of the book, through Hand and Door and Court and
+Announcement, until the fall*; and the rule recital *Every sentence he speaks is present tense. No other
+sentence in this room is his.* The pinned requirement that the chapter **say which** is now met in fiction:
+*the Ledger is no longer holding him as a standing in a book, because the strip on the board holds him now and
+the strip does not need her to look at it.* The chapter now runs 1,649 words with the want, the price and the
+consequence given three full passes instead of one summary.
+
+**3 — *This batch* leaked into the prose in six chapters.** Removed from ch 271 (*This was the batch's one
+inside-the-bound scene by plan* and *Luo Ping's hand would tear it off, in another batch, in another season*),
+ch 273 (twice), ch 275 (*the only bracket in this batch*), ch 277, ch 278, ch 280, ch 282 and ch 283. **Zero
+instances of *this chapter*, *this volume*, *the reader*, *in this batch* or *another batch* now stand in
+ch 268–283.**
+
+**4 — Golden Core 2 did not land on its pinned day.** It was being taken on the pay-day (day 550, the
+twenty-seventh); the pin is **day 556, the third of the month**, forty-four days after Golden Core 1. **The
+order is now given on the third of the month** and ch 276 opens on the fourth, so the cost is first carried
+on the correct day and the batch's downstream days shift by it: ch 276 fourth · ch 277 fifth and sixth · ch 278
+seventh and eighth · ch 279 tenth and eleventh · ch 280 thirteenth · ch 281 seventeenth and eighteenth ·
+ch 282 twentieth and twenty-first · ch 283 twenty-seventh. The pay-days still fall on 530 / 540 / 550 / 560 /
+570 / 580 and the stub count still climbs 11 → 12 → 13 → 14 → 15 in exact step with them. **Golden Core 3 at
+ch 292, day 600, is now correctly forty-four days after Golden Core 2 at day 556**, and
+`workspace/volume-05-batch-0004/PROMPT.md` needs no change to its interval.
+
+**5 — `state/current.md`'s cold-reader block was broken.** The ch 283 block had been inserted between the
+ch 267 heading and the ch 267 body, so the entire Batch 0002 record sat under the Batch 0003 heading and
+contradicted it on the reader's first line. **The ch 283 block is now above the ch 267 heading, each heading
+is attached to its own body, and the ch 267 heading is marked superseded rather than *kept*.**
+
+### Continuity
+
+**6 — `chapter-0272.md` narrated ch 273's ending as already past**, and its last line borrowed her phrasing so
+the referent blurred. **Both paragraphs are replaced.** The chapter now closes on the keeper walking down off
+the ladder with an empty paste pot, not knowing what he has done, and on the fact that nine days east a woman
+is walking and does not know it has happened yet. **Ch 273 keeps its own arrival and its own hook.**
+
+**7 — `chapter-0273.md`'s sections ran out of order** (the seventeenth before the fifteenth and the
+sixteenth). **Reordered to fourteenth, fifteenth, sixteenth, seventeenth,** and the Yuan beat moved with the
+night it belongs to.
+
+**8 — The nine-day walk was off by one.** Departure day 523, arrival day 544 for the return. **Ch 271 now
+arrives on the ninth (532), nine days out; ch 273 leaves on the twelfth (535) and ch 274 arrives on the
+twenty-first (544), nine days.** Ch 273's *four days east of the floor, five days west of the yard* is
+corrected to **five days east of the floor, four days west of the yard** on the seventeenth.
+
+### Repetition
+
+**9 — *He said one thing that night and it was present tense and it bought nothing* ran twenty chapters deep.**
+**Broken across all sixteen.** Five chapters keep a tagged version in a different shape (268 *before she
+slept*; 269 *at the stones before she stepped off*; 270 *at the fire pit*; 274 *that night*; 275 *one
+sentence… and advised nothing*). Nine chapters drop the tag entirely and carry his line bare against her
+interiority. **A ch 279 antecedent that a reader could have taken for the man with the bad shoulder now reads
+*Under her, where nobody at a fire could hear it*,** and the bare chapters carry varied one-line leads — *Under
+her, at the plank*, *under the noise of eleven men*, *under the talk, where it was only hers*, *under her, at
+the fire*, *under her, at the boards*, *under her, the whole way back* — so that every one of his sentences
+is still audibly present tense without the narration reciting the rule. **The residue in ch 261–267 (Batch
+0002, closed and audited) is recorded below as a proposed repair and was not touched.**
+
+**10 — The stone simile cluster.** **All repeats inside a single chapter are gone.** One instance of *the way
+water goes past a stone* remains in ch 269 and one of *the ground was cold the way stone is cold* in ch 270.
+Ch 268, 272 and 279 no longer carry the image at all: 272's decision now *sat in him like a decision*, 268's
+yes sits *plain and unmovable* and its close *settle into something carried*, 279's fire *comes down on her
+like a load settling into a sledge*.
+
+**11 — *She wanted, concretely… That was the want, small and hers, and it held* ran sixteen times, twice in
+eight and three times in ch 274.** **Ch 274's three are now one**, and the want is carried differently across
+the batch: inside a scene rather than under it in ch 271 (*What she wanted was narrow and physical and she
+could have said it out loud without embarrassment*), as a thing she cannot have in ch 277 (*She wanted it
+anyway, the way a person wants weather*), as an act of will in ch 273, 276 and 279, and in ch 281 as the
+**new** want, which is the arc of the chapter: *she wanted, concretely, to see the keeper's strip go up and
+know without reading what it carried.* **Sixteen wants, sixteen chapters, sixteen different carriers.**
+
+**12 — *Eleven weeks* at ch 283 is gone**, replaced with the count in the unit the book uses, *every day since
+the second of a month four months back*. **Ch 271's *Nobody asked her a question* is rewritten** into what
+actually happens on the floor. **Ch 274 and ch 281's *nobody said anything* are both gone**, cut into the
+concrete reason, *the west was not yard business* and *the strip was the keeper's business and the yard's
+business was stone.*
+
+**13 — Two spec sentences lifted into narration.** Ch 268's *She understood the rule perfectly* and ch 272's
+*He understands the rule perfectly* — the AGENTS.md example line, used as prose — **are both cut.** Ch 275's
+*understood in short sentences what it meant for one person*, which described the craft rule instead of
+performing it, **is cut, and the two short sentences it was standing in front of now stand alone**: *She
+would write slower for the rest of her life. / Every date would cost her the hour it took.*
+
+### Faults found in repair, of the same class, all in this batch
+
+**14 — Two reversed day-orders.** Ch 274's twenty-third came after the twenty-fourth, and ch 277's section
+headed *The Thirty* opened *On the second* and belonged before the fourth. **Ch 274 is now twenty-second,
+twenty-third, twenty-fourth.** Ch 277 opens on the fifth with the hauler and runs to the sixth; its third
+section is headed **The Shape Of It** and holds the old mill worker's account of how old accounts close.
+
+**15 — `chapter-0279.md` carried the same sentence twice in three lines** (*A name in a book, in ink, where
+somebody has to look at it. That was what a name was owed.*). **One is gone.** The section that held it is
+headed **The Lines**, not *The Ledger Talk*, so that it cannot be read against the Ledger, and the word
+*audit* is gone from it in favour of *the entire check the far side ever gave her column*.
+
+**16 — Four elapsed figures that did not reconcile.** Ch 269's *Eight days since the nineteenth* at day 523 is
+**eleven days**. Ch 274's *It had held banked nine days* is **twenty-one days**, banked on the thirtieth and
+checked on the twenty-first, and the road-side references to it are now counted from the day she is standing.
+Ch 274's *Forty-four days since the nineteenth* at day 547 is **thirty-five days, and nine more to the third**.
+Ch 269's *the seventeenth eleven days after that* at day 524 is **sixteen days off**. Ch 275's *fifty days of
+far-side wages behind the first stage* is **eighty-five behind the second and forty-four behind the first**,
+she having gone onto that bank on day 471.
+
+**17 — A duplicated shelter paragraph in ch 273** (a night under a roof with five walkers, then a second night
+in a shelter with two) **is gone**, and a sentence that said a want *held through the morning* inside an
+afternoon section now says afternoon.
+
+### Held exactly as drafted
+
+Bracket discipline (one layer line in sixteen chapters, at ch 275, matching the pinned text character for
+character). Titles, all sixteen, unchanged and still unique across 283 chapters. Every speech closed with
+curly quotes in all sixteen files. Markdown plain: no blockquote, fence, table or rule. No month or weekday
+named. No office above the Standing Office of the Second Account named anywhere. No new villain. The
+authorisation cold at ch 268 with nothing planted for it. One inside-the-bound scene, at ch 271. The register
+read once as *reconciled* at ch 282 and never corrected. The surface answer never revoiced.
+
+### Proposed repair, not applied — outside this phase
+
+**The identical sentence *He said one thing that night and it was present tense and it bought nothing* stands
+seven times in ch 261–267, Batch 0002, which was closed and audited before this batch was written.** The run
+now reads as one break at ch 268 and one after. Batch 0004 must not use the sentence in that form, and the
+seven instances in ch 261–267 are left for a Volume 5 close repair, recorded here so it is not lost.

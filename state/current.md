@@ -83,16 +83,17 @@ Full record: `state/continuity.md` under ***Established facts, Volume 5 Batch 00
 - **The surface answer is NOT paid.** Batch 0001 pays the narrower thing only: *a figure is only paid against something, and the only thing in this country that can be charged for is a day somebody worked.* **The volume's surface answer is ch 267, in a worker's mouth, in short sentences, and Batch 0002 must pay it at the last chapter and not before.**
 - **The far-side board is not re-counted.** Its image was ch 236 and ch 238. What is on the page now is the routine: a strip goes up every nine or ten days whether or not there is anything in it.
 
-## Who is where at end of chapter 267 — VOLUME 5 BATCH 0002 DRAFTED (kept; Batch 0003 block follows)
-
 ## Who is where at end of chapter 283 — VOLUME 5 BATCH 0003 DRAFTED (cold reader starts here)
 
-**Day ~580 — the twenty-seventh of a month. She is past the last working point, at the stone yard, booked to the end of the season, Golden Core 2, furnace twice lit.** Full record in `state/continuity.md` (*Established facts, Volume 5 Batch 0003* + running ledger at ch 283).
+**Day 580 — the twenty-seventh of a month. She is past the last working point, at the stone yard, booked to the end of the season, Golden Core 2, furnace twice lit, fifteen stubs.** Full record in `state/continuity.md` (*Established facts, Volume 5 Batch 0003* + running ledger at ch 283).
 
 - **Ning Yan — GOLDEN CORE 2**, taken day 556 at her own order in the open where nothing is announced (ch 275, one bracket, second of volume). Cost: flat of second finger longer than eleven minutes, permanently; every writing hour costs its hour. Paper still says Foundation the first stage, never opened.
 - **Body:** short breath four counts; right index gone, four fingers' grip; nine of eleven holds; turn gone; middle-bank method; right arm open a third; aperture cracked permanent; not hungry; cold like stone; **eighteen.**
 - **What the batch changed:** authorisation onto far-side book against hours past the line (ch 268, cold, irreversible); return inside once, paper for Ning Bo placed, walked out (ch 271); Yuan entered as readable line away from her hearing (ch 272, *The Man the Board Keeps*), date of death-day gone, apology kept, Ledger as standing held stage ENDED; GC2 (ch 275); Ning Bo worked-not-settled; Ning Wu reachable-not-met; register read once as reconciled, never corrected.
-- **Claim:** authorised onto far-side book, standing, moved, NOT answered (294–295 are Batch 0004's). Hou unpaid, never met; Lowwater date untouched; Luo Ping direction. **Next phase:** **the Volume 5 Batch 0004 drafting phase — ch 284–298 — prompt `workspace/volume-05-batch-0004/PROMPT.md`.** Batch 0003 chapters run short of the 1,300 floor in places; repair (expansion inside existing cards, no beat moved) is recorded in `state/continuity.md` and belongs to a repair pass, not to Batch 0004.
+- **Claim:** authorised onto far-side book, standing, moved, NOT answered (294–295 are Batch 0004's). Hou unpaid, never met; Lowwater date untouched; Luo Ping direction. **Next phase:** **the Volume 5 Batch 0004 drafting phase — ch 284–298 — prompt `workspace/volume-05-batch-0004/PROMPT.md`.**
+- **Batch 0003 is repaired and its review findings are answered** (day table corrected to the pinned GC2 day 556; authorial scaffolding, the ending preview and the tier names cut from ch 272; the *He said one thing that night and it was present tense and it bought nothing* run broken across sixteen chapters; 22,738 words of body prose, average ~1,421, none under the 1,300 floor). Full record at the foot of `state/continuity.md` under ***Volume 5 Batch 0003 — REVIEW REPAIR***. **No beat, date, stage, title, bracket or planned event moved.**
+
+## Who is where at end of chapter 267 — VOLUME 5 BATCH 0002 DRAFTED (superseded by the block above; kept as the record at ch 267)
 
 Full record: `state/continuity.md` under ***Established facts, Volume 5 Batch 0002 (ch 253–267) — DEBT COMING DUE*** and ***Volume 5 running ledger — at end of ch 267***. **Day 521 — the twenty-eighth of a month. She is past the last working point of a line of work, in somebody's ordinary country, at a stone yard, booked to the end of the season, with a furnace of her own.**
 
