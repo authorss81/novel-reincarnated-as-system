@@ -78,7 +78,7 @@ He does not answer. He is counting.
 
 ## Planned power and relationship progression
 
-- **Her:** Body-Forging 3 → stage 9 (ch 3) → **stage 4** (ch 3, the tax) → stage 6 (ch 11) → stage 7 (ch 14) → stage 8 (ch 24) → stage 9 (ch 53) → **Condensing stage 1** (ch 56). Cracked aperture from ch 36 onward, permanent and visible. One lost technique: the Ashwood Nine-Step, recovered by muscle memory only, never by the page again.
+- **Her:** Body-Forging 3 → stage 9 (ch 3) → **stage 4** (ch 3, the tax) → stage 6 (ch 11) → stage 7 (ch 14) → stage 8 (ch 22) → stage 9 (ch 53) → **Condensing stage 1** (ch 56). Cracked aperture from ch 36 onward, permanent and visible. One lost technique: the Ashwood Nine-Step, recovered by muscle memory only, never by the page again.
 - **His:** Noise → Voice. He becomes coherent, continuous and readable during the climax, and the first time the layer can log him by name.
 - **Them:** suspicion with a job to do, ending in a working partnership with one unclosed argument, which is the thing he spends and the thing she notices.
 

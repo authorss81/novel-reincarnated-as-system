@@ -188,7 +188,7 @@ Major turn: Yuan comes back in her head and the first thing he says is that he c
 Information revealed: The layer logs removals. The Clay Tablet is the first thing in sixteen years that has come out of a sealed place.
 Action or decision: She keeps walking. She does not ask him to pay for it and he does not offer.
 Emotional change: The partnership has a ledger now, and she is holding one end of it.
-Power or resource change: Yuan's Settlement rises again. Her foundation tax is untouched for this one, which she notices and he does not comment on.
+Power or resource change: Body-Forging 7 → 8, out of four miles of walking with a plate that is heavier than it looks and of not sleeping. Built from carrying, like stage six, and for the same reason. Yuan's Settlement rises again. Her foundation tax is untouched for this one, which she notices and he does not comment on.
 Continuity facts to preserve: She does not ask him to pay. He never volunteers. This pattern repeats until Volume 5 and it is the worst thing about him.
 Opening gate: n/a.
 Ending type: cost — they are both keeping books now.
@@ -220,8 +220,8 @@ Major turn: She tries the voice. Yuan can hold the tablet through her — he can
 Information revealed: He can act through her. It is slower and it costs her more and he has been saving it.
 Action or decision: She does not let him do it twice. She reads the tablet herself and writes it out in her log, in her own hand, in characters a Bureau clerk cannot read quickly.
 Emotional change: She has started the log. The log is the first thing in the whole series she does entirely for herself.
-Power or resource change: Body-Forging 7 → 8 lands here, out of walking and carrying rather than a fight. Yuan's Settlement spikes on the touch and he loses something — the first private detail he ever tells her about, which is his mother's name, and then never again.
-Continuity facts to preserve: Yuan loses his mother's name when he touches a thing. He has not had one for six years and he says so, and then never says it again.
+Power or resource change: Body-Forging 7 → 8 has already landed in ch 22, out of four miles of walking and the weight of the tablet, not a fight. Nothing grows in this chapter. Yuan's Settlement spikes on the touch and he loses something — the first private detail he ever gives her, which is his mother's name, and then never again.
+Continuity facts to preserve: **Ruling on the mother's name.** He has carried the name for six years as a thing he could still say, because his mother has been dead six years. In ch 24 he says it to her out loud, and the touch takes the name itself — not the grief, not the fact of the death, the name. Afterwards he cannot say what she was called, and he never says it again, and he never says he has forgotten. Do not write it as a loss he had already suffered: the cost lands here, once, and the reader must feel it land.
 Opening gate: n/a.
 Ending type: discovery — the log exists, and it is the weapon for the whole volume.
 Next-chapter pull: She goes up the mountain with the tablet and finds Elder Qiu waiting for her.

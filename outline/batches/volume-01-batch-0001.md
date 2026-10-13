@@ -22,7 +22,7 @@ Yuan goes from incoherent noise to a continuous voice. Ning Yan goes from alone 
 
 ## Required power changes
 
-Ning Yan: Body-Forging 3 → 9 (ch 3) → **4** (ch 4). The drop is the cost, shown as an event. Yuan: Noise → Voice.
+Ning Yan: Body-Forging 3 → 9 (ch 3) → **4** (ch 3, the tax, on the same page as the peak). The drop is the cost, shown as an event. Yuan: Noise → Voice.
 
 ## Required world reveals
 

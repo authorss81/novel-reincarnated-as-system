@@ -7,4 +7,4 @@ Length: Novels
 Warning: General Audiences
 Relationship: other
 Abbreviation: Reincarnated
-Tags: system, cultivation, reincarnation, rebirth, strongfemalelead, suspense
+Tags: system, cultivation, reincarnation, rebirth, levelup, suspense
