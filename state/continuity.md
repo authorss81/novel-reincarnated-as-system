@@ -3279,6 +3279,28 @@ Both inside pinned items, changing no day, no stage, no title and no ending.
 | What changed | **A furnace of her own, taken where nothing is announced. Three refusals standing. A draft nine days west. A fair copy in a far-side book. The surface answer paid.** She is kept, paid, refused, furnished and answered-at-last in the one thing the series owed |
 | Still open | **The authorisation (ch 268, Batch 0003's); the return inside once; Ning Bo's account; Ning Wu's decade; Yuan entered (ch 272); Golden Core 2 (ch 275, day 556); the claim answered (ch 294–295); the Hunter's request; everything above the Standing Office of the Second Account; *kiln-born*; the eleven; *reconciled*; the year, still carrying** |
 
+## Established facts, Volume 5 Batch 0003 (ch 268–283) — FAMILY PAPER (DRAFTED; length repair pending)
+
+- **Ch 268 (day 522–524): authorisation, cold.** Far-side office takes 800-jin claim onto its own book against hours past the line at her yes. Irreversible; leaving now costs far side. No plant before the hour.
+- **Ch 269–270:** road west, 90 coppers, bag, gaps; plank bridge risk, no rescue. **Ch 271:** return inside once — floor, nine men, wash house, tower light, counting room date seen-not-torn; paper for Ning Bo placed, daylight, name said, asking nothing, entered, walked out. One inside scene only.
+- **Ch 272 *The Man the Board Keeps*:** close third on Yuan (flagged once). Present-tense speech only from him; no other present frame. Cost stated before entry: unentered state + date of death-day; apology kept, day lost. Keeper's hand enters him as readable line; from this hour readable without her. **Ledger as standing held stage ENDS (said on page).**
+- **Ch 273–274:** walk out, report by mouth once; column holds gaps; furnace banked-held. **Ch 275 (day 551–556): GC2** at her order in the open, nothing announced. **One bracket, second of volume** (pinned text). Cost: second-finger flat longer than 11 min permanent + every writing hour costs its hour.
+- **Ch 276–283:** slowed writing carried; Ning Bo worked-not-settled (by-mouth once); Ning Wu reachable-not-met (carriers'-list line once); heavy end regained; slab risk; keeper's strip (his readability standing); register read once as *reconciled*, never corrected; 15 stubs in four marks by ch 283; pays 530/540/550/560/570/580 carried as gaps/worked.
+- **Held:** claim authorised-not-answered; Hou unpaid never met; Lowwater date untouched; Luo Ping direction; surface answer paid-closed, never revoiced; no office above Standing Office; no second Lung/appointment; Feng never on page; Hunter pending off page; Wei Ran off page this batch; year carrying unmentioned; MEMBER ABSENT ×3; plate worn undescribed; ch 150 standing; no new enemy/villain; no month/weekday named; curly quotes; one bracket total.
+- **REPAIR FLAG:** chapters run 736–1,416 words raw (several under 1,300 floor). Beats, days, bracket, titles, pinned costs and the ch 272 scene are fixed — **expansion inside existing cards only**, no beat moved, no second bracket, no new scene west of the line.
+
+### Volume 5 running ledger — at end of ch 283
+
+| Item | Value at end of ch 283 |
+| --- | --- |
+| Her stage | **GOLDEN CORE 2, day 556, at her own order, open, nothing announced.** Bracket second of volume (ch 275). Cost: second-finger flat longer than 11 min permanent; every writing hour costs its hour. Paper still Foundation the first stage, never opened. Turn gone; middle-bank method; 9 of 11 holds |
+| Body | Short breath four; right index gone, four fingers' grip; right arm open a third; aperture cracked permanent; not hungry; cold like stone; **eighteen** |
+| Employment/hours | **BOOKED TO END OF SEASON.** Pays 7th/17th/27th (530/540/550/560/570/580 as gaps/worked); **fifteen stubs in four marks**, none checkable in nine days |
+| Settlement | Merit settled per plan (256 + Batch 0003/0004); **Ledger ENDED as standing stage at ch 272**; Yuan readable without her, death-day date gone, apology kept; no figure of him |
+| Claim | **AUTHORISED onto far-side book (ch 268), standing, moved, NOT answered.** Hou unpaid never met; Lowwater date untouched; Luo Ping direction |
+| Inside | **One scene (ch 271)** + by-mouth consequences only. Floor nine men; wash house; tower light; counting room date in it |
+| Still open | GC3 (292/600); claim answered (294–295); family settled (296); Ning Wu entered (297); ash/leaving (298); Hunter pending; above-Standing-Office; *kiln-born*; eleven; *reconciled*; year carrying |
+
 ---
 
 ## Volume 5 Batch 0001 — REVIEW REPAIR (applied after `logs/next-0004.review.log`)
