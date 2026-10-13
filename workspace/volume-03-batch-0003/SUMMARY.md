@@ -1,6 +1,6 @@
 # Volume 3, Batch 0003 — Chapters 149–163 — SUMMARY
 
-**Hunting with a calendar.** Fifteen chapters, **30,824 words, average ~2,055**. Cards written first at
+**Hunting with a calendar.** Fifteen chapters, **30,946 words, average ~2,063**, counted after the Batch 0003 review repair. Cards written first at
 `outline/batches/volume-03-batch-0003.md`; the cards were binding and every beat in them is on the page.
 Day 133 to about day 184. **Zero bracketed layer lines in the batch, including ch 160.**
 
@@ -59,22 +59,36 @@ stays alive** and is told out loud, at ch 155, that a question of Ning Yan's put
 ## Mechanical record
 
 **Every speech closed** in all fifteen. **No bracketed layer line in the batch.** No blockquote, code block,
-table or horizontal rule. **No paragraph over 90 words.** **No weekday named.** Zero uses of *there is no
-column*, *there is no form*, *nobody asked*, *nobody was thanked*, *the record remained*, *nobody knew*.
-Zero authorial scaffolding — the word *batch* was caught once in draft at ch 160 and cut. Zero banned
-reflexes. Two ages on Ning Yan and two weekday references were caught in draft and cut; **no age is stated
-anywhere in 149–163.** Length: ch 150 at 2,860 is above the 1,800–2,700 guide and is the milestone; the
-other fourteen are inside or just below; the shortest is ch 151 at 1,654; nothing under the 1,300 floor and
-no monotone decline. **Counts are body prose only, with `^#+ ` heading lines removed and
+table or horizontal rule. **Longest paragraph in the batch 88 words.** **No weekday named.** Zero uses of
+*there is no column*, *there is no form*, *nobody asked*, *nobody was thanked*, *the record remained*,
+*nobody knew*. Zero authorial scaffolding — the word *batch* was caught once in draft at ch 160 and cut.
+Zero banned reflexes. Two ages on Ning Yan and two weekday references were caught in draft and cut; **no age
+is stated anywhere in 149–163.** Length: ch 150 at 2,863 is above the 1,800–2,700 guide and is the
+milestone; the other fourteen are inside or just below; the shortest is ch 151 at 1,653; nothing under the
+1,300 floor and no monotone decline. **Counts are body prose only, with `^#+ ` heading lines removed and
 `len(text.split())` — the convention that reproduces Batch 0001's 36,795 and Batch 0002's 36,742 exactly.**
+
+## Review repair (fix phase)
+
+`logs/volume-03-batch-0003.review.log` found **twenty-two faults** in this batch — seven blockers, seven
+majors, eight minors — that the acceptance check had recorded as clean. **All twenty-two are repaired in the
+chapters.** The batch was not restarted and the planned plot is untouched: no card beat, no chapter order,
+no title, no bracket, no ending, and the ch 150 refusal is neither softened nor re-decided. **The binding
+day table was upheld and the prose was moved onto it**, which set the refusal-to-attendance gap at
+**eleven days** across seven chapters; **the winter return was relabelled so it is not read inside this
+batch**, leaving Batch 0004's central set piece intact; and **the channel arithmetic was reconciled** —
+ten less four and a half is **five and a half**, not three, so ch 149 says five and a half and ch 160
+accounts on the page for the fall to three. Full table in `state/current.md` § *Volume 3 Batch 0003 review
+repair* and in `state/continuity.md` § *Repaired at the Volume 3 Batch 0003 review repair*.
 
 ## Clock handed to Batch 0004
 
-ch 163 = **about day 184**, second month of the cold. **Batch 0004 opens at about day 187 and closes the
-volume.** The winter return is read about three weeks off the end of this batch. **Condensing 9 is ch 171
-and is announced at her own order, witnessed by the crew.** **The referral is ch 169–175 and is not spent
-here** — what is spent here is a numbered, dated request on a public shelf for an instrument this county
-does not hold, and nothing else.
+ch 163 = **day 184**, second month of the cold. **Batch 0004 opens at about day 187 and closes the
+volume.** **The winter crate left the Hall on day 167 and its schedule went on the board on day 181; the
+return itself has not come back down and is read about three weeks off the end of this batch, at the second
+hour.** **Condensing 9 is ch 171 and is announced at her own order, witnessed by the crew.** **The referral
+is ch 169–175 and is not spent here** — what is spent here is a numbered, dated request on a public shelf
+for an instrument this county does not hold, and nothing else.
 
 ## Next phase
 

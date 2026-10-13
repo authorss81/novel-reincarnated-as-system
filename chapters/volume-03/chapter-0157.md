@@ -14,7 +14,7 @@ There is no paid work in this county for a licensed woman with one arm until the
 
 The water channel behind a well is not work. It is stone coming down off carts that are already going somewhere, and when there is no stone coming down it is not a job, it is a place to stand.
 
-She had about nine weeks of savings in a lining and it was not nine weeks of savings, because she had been putting a third of every load into a tin at the wash house since the thaw and the tin had come to about two hundred and thirty coppers, and eighteen coppers a load at the quarry for six days would be about a hundred and fifty a week if the block kept running.
+She had about nine weeks of savings in a lining and it was not nine weeks of savings, because she had been putting a third of every load into a tin at the wash house since the thaw and the tin had come to about two hundred and thirty coppers, and twelve coppers a load at the quarry for six days, at the five loads a day she was putting in since the ice, would be about three hundred and sixty a week if the block kept running.
 
 That was the whole of the arithmetic of a winter and it came to about six weeks.
 
@@ -22,9 +22,9 @@ After six weeks there was the furnace floor, and the furnace floor was not paid,
 
 ## What She Did Not Say
 
-Da Shan had a board and four tables and no other trade, and the board had been down to four men on a bad day and nine on a good one all through the cold, and two of those tables had been the fourth and the third since the thaw, and both of them had been the fourth and the third because a woman with one arm had put nine loads a day on the fourth and made it worth two men.
+Da Shan had a board, four tables and a wall of frames, and no other trade, and the board had been down to four men on a bad day and nine on a good one all through the cold, and two of those tables had been the fourth and the third since the thaw, and both of them had been the fourth and the third because a woman with one arm had put nine loads a day on the fourth and made it worth two men.
 
-She was going to be working three miles east from the next morning.
+She had been working three miles east for eighteen days and she was going to be working three miles east on the next morning.
 
 She did not tell him.
 
@@ -100,19 +100,19 @@ That is what it is to be good at something for a year. Nobody says anything abou
 
 ## Six Weeks
 
-On the third morning she went out at the sixth hour with a bar on her shoulder and four miles of road in front of her and about two hundred and thirty coppers in a tin, and the quarry was three miles east on the Verge road and the hoist was about four men short because the cold had taken two off and the block at the top was iced.
+Eighteen days in and the hoist was about four men short, because the cold had taken two off and the block at the top was iced, and about two hundred and thirty coppers in a tin was not getting any heavier.
 
-Bo wrote the number at the rope. Eleven loads before the light went.
+Bo wrote the number at the rope. Five loads before the light went.
 
-She put in eleven loads and the hand held, and the hand was going to be a problem at about the eight-load mark for the rest of her life, and she had worked that out on the third morning and had not told anybody and was not going to.
+She put in five loads and the hand held, and the hand was going to be a problem at about the six-load mark for the rest of her life, and she had worked that out in the nine days after the ice and had not told anybody and was not going to.
 
 Six weeks of that.
 
-Six weeks of eleven loads and eighteen coppers and four and a half hours on a furnace floor at the ninth hour and a flight of stair that costs three counts up and eight down, and then six weeks after that with nothing at all in it, and then a thaw that was not going to come until the road came, and the road was not going to come until the weather did, and none of that had a date on it that anybody had ever written down.
+Six weeks of five loads and twelve coppers and four and a half hours on a furnace floor at the ninth hour and a flight of stair that costs three counts up and eight down, and then six weeks after that with nothing at all in it, and then a thaw that was not going to come until the road came, and the road was not going to come until the weather did, and none of that had a date on it that anybody had ever written down.
 
 She had worked out in the spring that there were no paid work and no road and no date on any of it, and she had worked it out again now with two hands instead of one and about two hundred and thirty coppers, and the second time round it was worse by about a third and she had done the whole of it in about nine minutes.
 
-Nine weeks to a date she could not put on a calendar.
+Nine weeks, and not one of them carrying a date she could put on a wall.
 
 A winter on top of that.
 

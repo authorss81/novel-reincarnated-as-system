@@ -18,7 +18,7 @@ This file is **append-only and long, and most of it is history.** You do not nee
 - **This file is never pruned by a writing phase.** If a section is wrong, correct it in place and say
   so in the phase's repair note rather than deleting the record.
 
-- **Volume:** 3 of 16 — The Hunter (ch 119–178) — outlined in `outline/volume-03.md`; **Batch 0001 written (ch 119–132), 36,795 words over fourteen chapters; Batch 0002 written (ch 133–148), 36,742 words over sixteen chapters; Batch 0003 written (ch 149–163), 30,824 words over fifteen chapters.**
+- **Volume:** 3 of 16 — The Hunter (ch 119–178) — outlined in `outline/volume-03.md`; **Batch 0001 written (ch 119–132), 36,795 words over fourteen chapters; Batch 0002 written (ch 133–148), 36,742 words over sixteen chapters; Batch 0003 written (ch 149–163), 30,946 words over fifteen chapters.**
 - **Chapter written:** 1–163. Next chapter to write is **chapter 164**, which opens **Volume 3 Batch 0004** (ch 164–178): cost and signature, and it closes the volume.
 - **Next phase:** **Volume 3, Batch 0004**, at `workspace/volume-03-batch-0004/PROMPT.md`. Its binding cards go in `outline/batches/volume-03-batch-0004.md` and must be written **before any chapter**.
   The one-sentence volume goal is fixed by `outline/series.md` §9: *In this volume, Ning Yan must survive being hunted as an unauthorised System, or Yuan is dismantled and she is told she imagined him.*
@@ -41,8 +41,10 @@ This file is **append-only and long, and most of it is history.** You do not nee
   under a day, at a price of four and a half weeks out of about ten that she named before she said the
   word; he put it down the same day and refuses permanently for the volume. From ch 150 Ledger is hers to
   order and his to hold only on her word.** **Channel about three weeks (ch 160), against eleven weeks of
-  winter.** Four conditions hers, three his. **Since ch 121 he sees her arm go before she can, at no cost,
-  as standing Voice.**
+  winter** — and that three is what is left of the five and a half she had after paying four and a half out
+  of ten, less thirty-six days of rationed ordinary use. **That arithmetic is on the page and is not to be
+  re-derived.** Four conditions hers, three his. **Since ch 121 he sees her arm go before she can, at no
+  cost, as standing Voice.**
 - **The girl of twenty-four** — **alive** at the wash house, leg set crooked, four paid hours out of six,
   charged to the eighth estate. **Paid eight coppers on the day at ch 155; not thanked.** She has told
   Ning Yan out loud that a question of Ning Yan's — *where did this slate come from* — put her **under the
@@ -106,19 +108,24 @@ Written after batch 0009 closed Volume 2; re-checked after Batches 0001, 0002 an
 
 **Do not break the silence bought at ch 128.** Nothing about the sponsors' second book — the nine struck households, the eleven-year spacing, the fourth line citing the maintaining members' ledger, the roundhouse hand in the frame of twelve unsigned sheets — is lodged, copied or spoken anywhere in ch 119–178. **The seal was bought with silence.** Check every chapter.
 
-**The ch 133–148 and ch 149–163 prohibitions are spent and hold.** Neither batch touched a price outside ch 149, and ch 149 named one out loud and paid it. The arm beat at ch 121 is standing Voice at no cost and must never be written as a cost. **No bare Settlement fraction goes on the page again in Volume 3 — speak in weeks.** Channel was named twice in Batch 0003 (about ten and the price at ch 149; **about three** at ch 160) and **must not be named again in Batch 0004.**
+**The ch 133–148 and ch 149–163 prohibitions are spent and hold.** *(Batch 0003's own chapters went through a review repair; the card beats and the prohibitions are unchanged, and the elapsed figures between day 133 and day 184 are now the repaired ones.)* Neither batch touched a price outside ch 149, and ch 149 named one out loud and paid it. The arm beat at ch 121 is standing Voice at no cost and must never be written as a cost. **No bare Settlement fraction goes on the page again in Volume 3 — speak in weeks.** Channel was named twice in Batch 0003 (**about ten and the price at ch 149, leaving about five and a half**; **about three** at ch 160, with the thirty-six days of rationed use accounted for on the page) and **must not be named again in Batch 0004.**
 
 **The audit and the Lung are spent.** Audit ch 136–140, offer ch 141, **taking ch 143**. He is a **Listener**, alive, coughing less, column at five, suspended from the stair for one quarter and **not dismissed**. **Do not offer him a second appointment or a second Lung before Volume 11.** The intake line at the ninth hour was never audited as a change and never is.
 
 **Do not open a second accident, death, frostbite, starvation or rescue.** The shoring over the cold end was signed over at the seventh hour in Volume 2, not re-inspected; five men are posted against a strength of six. **Batch 0003 opened one bodily loss and it was a hand off a sledge handle, not a death, and the batch closed with nobody dying.**
 
-**Do not record a chapter-length trade-off.** Guide 1,800–2,700; floor 1,300. Batch 0009 closed at 28,234 words over fifteen chapters, ~1,882 average. **Volume 3 Batch 0001 closed at 36,795 words of body prose over fourteen chapters, ~2,628 average** — inside the guide on the average, with **six of the fourteen individually above it** (126, 127, 129, 130, 131, 132) and eight inside. The first record said eleven were inside and named three long ones; that was wrong and is corrected, and an earlier correction to *seven* counted full files, so ch 120 is inside on this convention. Nothing is padded and length follows the scene, so the long ones stand. **Volume 3 Batch 0002 closed at 36,742 words of body prose over sixteen chapters, ~2,296 average** — inside the guide on the average, **two of the sixteen above it** (135 at 2,792 · 140 at 3,193, and 140 is the batch's climax) and fourteen inside; shortest 1,779, nothing under the floor. **Volume 3 Batch 0003 closed at 30,824 words over fifteen chapters, ~2,055 average** — inside the guide on the average, with **ch 150 at 2,860 above it** (and it is the milestone) and the other fourteen inside or just below; shortest is ch 151 at 1,654, nothing under the floor, no monotone decline. **Counts are body prose only — everything outside the `##` section headings.** An earlier record counted full files and inflated every figure; Batch 0001's 37,177 is 36,795 on this convention. All corrected.
+**Do not record a chapter-length trade-off.** Guide 1,800–2,700; floor 1,300. Batch 0009 closed at 28,234 words over fifteen chapters, ~1,882 average. **Volume 3 Batch 0001 closed at 36,795 words of body prose over fourteen chapters, ~2,628 average** — inside the guide on the average, with **six of the fourteen individually above it** (126, 127, 129, 130, 131, 132) and eight inside. The first record said eleven were inside and named three long ones; that was wrong and is corrected, and an earlier correction to *seven* counted full files, so ch 120 is inside on this convention. Nothing is padded and length follows the scene, so the long ones stand. **Volume 3 Batch 0002 closed at 36,742 words of body prose over sixteen chapters, ~2,296 average** — inside the guide on the average, **two of the sixteen above it** (135 at 2,792 · 140 at 3,193, and 140 is the batch's climax) and fourteen inside; shortest 1,779, nothing under the floor. **Volume 3 Batch 0003 closed at 30,946 words over fifteen chapters, ~2,063 average** — inside the guide on the average, with **ch 150 at 2,863 above it** (and it is the milestone) and the other fourteen inside or just below; shortest is ch 151 at 1,653, nothing under the floor, no monotone decline. **Counts are body prose only — everything outside the `##` section headings.** An earlier record counted full files and inflated every figure; Batch 0001's 37,177 is 36,795 on this convention. All corrected.
 
 ## Volume 3 Batch 0003 — acceptance check, card by card
 
+> **This check was written by the drafting phase and it recorded no faults. The review that followed found
+> twenty-two and they were all repaired in the chapters — see *Volume 3 Batch 0003 review repair* below.**
+> Every row below stands after that repair; nothing in the card set changed and the *done* column is now
+> accurate against the repaired pages. Counts are post-repair.
+
 Cards written first at `outline/batches/volume-03-batch-0003.md` from the phase prompt and
-`outline/volume-03.md`, before any chapter. Fifteen chapters, 149–163, **30,824 words,
-average ~2,055.**
+`outline/volume-03.md`, before any chapter. Fifteen chapters, 149–163, **30,946 words,
+average ~2,063.**
 
 | Card requirement | Status |
 | --- | --- |
@@ -578,6 +585,62 @@ written. **Verified after repair:** zero banned reflexes, zero watched construct
 scaffolding, zero named weekdays, balanced quotes, no blockquotes, code fences, tables or rules in
 ch 133–148 or anywhere in ch 1–148, longest paragraph in the batch 90 words, 148 unique titles with no
 collision, and no missing-hyphen compound ordinal in the manuscript.
+
+### Volume 3 Batch 0003 review repair (fix phase)
+
+`logs/volume-03-batch-0003.review.log` reviewed the **written batch**, ch 149–163, and found the batch
+strong on its irreversible decision, its changes and its temperature, but its self-audit **recorded no
+faults and had missed a substantial cluster of hard continuity and canon errors**, several of which the
+Batch 0004 prompt had already inherited as canon. **Twenty-two faults found, twenty-two repaired in the
+chapters. The batch was not restarted. The planned plot is untouched — no card beat, no chapter order, no
+title, no bracket, no ending, and the ch 150 refusal is neither softened nor re-decided anywhere.**
+
+**The one decision that governs the elapsed-time cluster:** the binding day table in
+`outline/batches/volume-03-batch-0003.md` is canon and the prose had drifted away from it, so **the prose
+was moved onto the table.** The refusal is **day 136**; the first attendance is **day 147**; the gap is
+**eleven days** and every chapter in the batch now reads it that way.
+
+| # | Finding | Correction | Plot changed? |
+| --- | --- | --- | --- |
+| B1 | **Blocker — ch 159 re-dated the volume's irreversible decision.** *Yesterday morning I refused a piece of paper*, on day 164, of a refusal that happened on day 136. | **Twenty-eight days ago.** The twenty-eight-day gap is the premise of the notice scene and of ch 151, 152, 153 and 158. | No. |
+| B2 | **Blocker — ch 163 contradicted its own binding day and month.** Day 181 three times and *the first month of the cold*, which is ch 162's day and a month ch 162 had already left. | **Day 184** and **the second month of the cold**. | No. |
+| B3 | **Blocker — ch 152 violated the binding day table.** *The one hundred and forty-second day*, with *eight days off* to a day-147 attendance. Two exclusive dates in one chapter. | **The one hundred and fortieth day**; **the seventh of the month and the attendance seven days off.** Ch 150 already puts day 136 at *the third of the month*, which makes day 140 the seventh. | No. |
+| B4 | **Blocker — a systematic elapsed-time drift between the refusal and the first attendance**, read as four days in seven chapters. | **One decision applied across all seven.** Ch 149 *five days* → **four**; ch 150 *five days* → **seven** for the mat and *yesterday / the afternoon before / a day and a half before* → **three days** in three places; ch 151 *the day before yesterday* → **three days ago**; ch 153 three instances of *four days* → **eleven**; ch 156 *nine days earlier* → **twenty**; ch 158 *nine days ago* → **twenty-five**. | No. |
+| B5 | **Blocker — ch 153 broke the fourth stage.** *She had said the fourth stage out loud to nobody, once, in a room with eleven witnesses, and the county had ruled it a hole* — the opposite of ch 104 on all three counts. | **Held down once, alone on the flats with a stone in her hand, no office in nine counties ever heard of it, and the registrar ruled the empty column an absence.** | No. |
+| B6 | **Blocker — ch 162 read the winter return inside the batch**, spending the beat Batch 0004's central set piece is built on. | **Relabelled.** The schedule comes out of the crate and goes on the Hall board; **the return itself has not come back down** — it is in the county office waiting to be read in front of a room she will not be in. Batch 0004's set piece is intact. | No. It strengthens it. |
+| B7 | **Blocker — ch 163 double-stamped the winter annex** (copyist, then clerk, in one paragraph) **and advanced the irregular to a fourth** that ch 158 had already spent as the third. | **Opening rewritten.** Ch 163 now opens on her walking **the week's annexed hours** down the four miles and the clerk pressing the binder without asking a question. **The irregular is stamped three times this year.** Corrected in the ch 163 ledger and in the Batch 0004 prompt. | No. |
+| M8 | **Ch 157 restarted the quarry** she has been working since ch 152, and played her first-shift scene a second time. | **Mid-run throughout** — *she had been working three miles east for eighteen days*, and the *Six Weeks* section opens eighteen days in. | No. |
+| M9 | **Ch 157 had the post-injury economics backwards** — eighteen coppers, eleven loads, an eight-load limit against ch 154's twelve coppers and five loads. | **Twelve coppers, five loads, a six-load limit**, and the weekly figure made true. Ch 157 also reconciles Da Shan's **four tables** with ch 162's **wall of frames**. | No. |
+| M10 | **Ch 160 had a day-count and a week-length fault** — *the six days when the hoist ran and on the two when it did not* is eight, and the stage was held eight days, not six weeks. | **Six days a week**; **eight days**; **the second month of the cold**; and ch 163's nine loads cut to **six**, against ch 154's and ch 157's figures. | No. |
+| M11 | **Ch 154 contradicted its own injury** — *a left hand come off at the wrist*, in a chapter arguing that **the heel** is what turns. | **At the heel.** | No. |
+| M12 | **Ch 162's internal count** — *Gao and two others* against *four loads a week* and *four crewmen*. | **Gao and three others.** | No. |
+| M13 | **Ch 162 revived the lane** ch 157 ruled out for four months, with no line to bridge it. | **A line.** The four men at the fourth table are Da Shan's own and **she had not been one of them since the board went dead**; what comes back is four frames she buys out of her own hours, **inside a fortnight**. | No. |
+| M14 | **Ch 150 said three years of a stranger** where canon puts Bai Zhu's arrival at ch 118, this spring. | **Eleven weeks**, the figure the batch already uses four times, including twice in ch 150 itself. | No. |
+| N1 | Minors, all in the chapters: ch 154 *eleven loads of core-stone* → **three** (the chapter then counts one, two, three); ch 156 *not a escort* → **an escort**; ch 159 *a keeper with four hundred volumes* → **four hundred and eleven**; ch 154:55's self-cancelling paragraph rewritten; ch 156's *her name, her age* → **her crew, her county and the road**, which is what the quoted speech contains; ch 157's repeated *Nine weeks to a date she could not put on a calendar* reworded so it is not verbatim five days after ch 155's; ch 158's *the quarter's crate* → **the winter crate**, against the copyist's own *a winter return, not the quarter's*; ch 159's *a fortnight* / *about a month* and ch 158's *a week after that* reconciled so the board scene lands on ch 162's day 181. | | No. |
+| N2 | **Also repaired, not in the reviewer's list:** ch 149's *the twenty-ninth day* → **the hundred and twenty-ninth day** (the card's day 129; the old phrasing read as day 29); ch 149's past-tense *a room he does not come into* → **did not**. | | No. |
+
+**The channel arithmetic — decided rather than flagged.** The reviewer was right that ten minus four and a
+half is five and a half and that the batch said three. **The ch 140 figure is published in a closed chapter
+and in `outline/volume-03.md`, and the four-and-a-half price is published in six places in this batch, so
+neither moves. Ch 149 now says about five and a half weeks, and ch 160 accounts on the page for the fall
+to about three across thirty-six days of twice-a-day rationed use.** `outline/volume-03.md`'s Settlement
+table was corrected to match (ch 150 **~5½ weeks**; ch 160 **~3 weeks**, cause *thirty-six days of ordinary
+use*), and `workspace/volume-03-batch-0004/PROMPT.md` now carries the arithmetic with an instruction not to
+"correct" either figure back.
+
+**Verified after repair:** zero banned reflexes, zero watched constructions, zero outline scaffolding
+(the word *batch* swept again), zero named weekdays, balanced quotes, no blockquotes, code fences, tables
+or rules in ch 149–163, no bracketed line anywhere in the batch, 163 unique titles with no collision, and
+no paragraph over 120 words. **Body-prose counts are re-stated in the verification block at the foot of this
+note** and in `workspace/volume-03-batch-0003/SUMMARY.md`.
+
+**Recorded, not repaired — two standing notes.** *(a)* The **eleven-weeks** figure for the Hunter's run is
+used six times across the batch and once in each of Batches 0001 and 0002 and in Volume 2, where it is
+already the standing figure for a spent interval. The reviewer accepted it as internally consistent and
+flagged only ch 150's *three years*, which is repaired. It is left as a motif, not re-derived. *(b)*
+Ch 152's *she could tell them in her own words on a furnace floor in the next nine days* is a stated option
+she declines, not a promise, and the day she actually tells them is ch 159; the chapter is self-consistent
+and no figure depends on it. Neither is re-opened.
 
 ## Volume 3 — the two open structural questions
 

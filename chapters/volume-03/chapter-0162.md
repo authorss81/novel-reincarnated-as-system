@@ -1,6 +1,8 @@
 # What Da Shan Told Him
 
-The winter crate came up to the Hall in the second month of the cold and sat on a bench for a week, and then the schedule went on the board at the second hour, and nine men read it before the eighth hour of that day.
+The winter crate came up to the Hall in the second month of the cold and sat on a bench for a week, and the schedule came out of it and went on the board at the second hour, and nine men read it before the eighth hour of that day.
+
+The return itself had not come back down. It was in a county office on the square four miles off, waiting to be read in front of a room, and she was not going to be in that room when it was.
 
 She was standing at the end of the furnace floor when it happened and she did not need to be told. A crew reads its own schedule. That had been true in the autumn when a clerk had written one word on the front of it and stamped it, and it was true now, and nine men walked past a board in a hall with no roof and stopped.
 
@@ -22,11 +24,11 @@ The crew was nine men who had been told the worst thing first, at the ninth hour
 
 That was not the expensive part.
 
-The expensive part was that she had spent about nine days in the summer and six weeks in the winter being frightened of nine men reading a board, and had been right about the mechanism and wrong about the men, and had built the whole of her behaviour for a quarter out of the mistake.
+The expensive part was that she had spent about four weeks being frightened of nine men reading a board, and had been right about the mechanism and wrong about the men, and had built the whole of her behaviour for a quarter out of the mistake.
 
 ## The Board Behind the Well
 
-She went down the four miles on the fourth day and stood at the board at about the fifth hour, when the light was going, and there were four men at the fourth table and two frames out of the eight on the wall.
+She went down the four miles two days later and stood at the board at about the fifth hour, when the light was going, and there were four men at the fourth table and she had not been one of them since the board went dead, and two frames out of the eight on the wall.
 
 Six frames.
 
@@ -90,7 +92,7 @@ She did not thank Da Shan.
 
 She did not ask him about it. She did not say a single word to him about the eleven weeks, or the schedule, or the stranger, or the reading of it, and she stood at his board with her two hundred and thirty coppers worth of winter coming and her right hand open, and she looked at two empty frames.
 
-Then she went up four miles and got Gao and two others and put it to them on the floor at the ninth hour, and it was a request and not an order, and she was specific about it.
+Then she went up four miles and got Gao and three others and put it to them on the floor at the ninth hour, and it was a request and not an order, and she was specific about it.
 
 “Your own time. Not the crew's hours and not the tithe. Four days a week, the first hour after the carts, for as long as there is stone coming off carts. He does not know you are coming and he does not know why, and I am not going to tell him, and if he asks you where it came from you tell him the crew sent you.”
 
@@ -104,9 +106,9 @@ Gao looked at her for about four seconds.
 
 And that was the entire transaction, and there was no speech in it.
 
-Nine men at a furnace floor never once mentioned where four loads a week were going to, for about four weeks. A man at a board behind a well had two frames out of the wall again in the second week of the second month of the cold and never knew why, and did not ask.
+Nine men at a furnace floor never once mentioned where four loads a week were going to, for about four weeks. A man at a board behind a well had two frames out of the wall again inside a fortnight and never knew why, and did not ask.
 
-That was the single greatest kindness anybody did her that winter. It cost her about four loads a day, and she did not tell him, and was never going to.
+That was the single greatest kindness anybody did her that winter. It cost her about four loads a week out of her own hours, and she did not tell him, and was never going to.
 
 ## The Second Time He Was Asked
 

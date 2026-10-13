@@ -1,14 +1,14 @@
 # What Stops Talking
 
-The paper had been on the mat for five days and it took her about ninety seconds to open it, because a thing you have decided not to do for five days turns out to be very fast once you start.
+The paper had been on the mat for seven days and it took her about ninety seconds to open it, because a thing you have decided not to do for seven days turns out to be very fast once you start.
 
 She read it standing up in a cold room above a copying room at Lowwater on the morning of the one hundred and thirty-sixth day, with Feng Lushi's lamp going in its cage on the fourth landing below her, and she read it twice, and she did not sit down.
 
 It was four sheets. It was headed by the Warden's office. It was signed by the Warden's office, and it carried a number in the corner and nothing else that named a person of any kind.
 
-She had known every term on it since the afternoon before, because a man had read them through her eyes at a price she had named out loud in front of a keeper, and every one of them was true.
+She had known every term on it since the afternoon three days ago, because a man had read them through her eyes at a price she had named out loud in front of a keeper, and every one of them was true.
 
-Nothing about it had changed in five days.
+Nothing about it had changed in seven days.
 
 ## The Room He Chose
 
@@ -122,7 +122,7 @@ He did not answer for about as long as it took him to decide that he was going t
 
 ## The Clause in the Middle
 
-She read the whole of it again, slowly, because she had read it twice in five days and both times she had been reading for the line about the thing in her head.
+She read the whole of it again, slowly, because she had read it twice that morning and both times she had been reading for the line about the thing in her head.
 
 It was the fourth line of the second sheet, in the ordinary place, in the ordinary words, the way a thing is written when the person who wrote it did not think there was anything to hide in it.
 
@@ -162,7 +162,7 @@ She turned round to the man who had not lied to her for eleven weeks.
 
 “All right,” he said.
 
-“Write down that I was offered it and that I refused it and that I was told the terms were as read and that I verified them yesterday by my own means and that I am not repeating how.”
+“Write down that I was offered it and that I refused it and that I was told the terms were as read and that I verified them three days ago by my own means and that I am not repeating how.”
 
 “I am not writing down how,” said Sun He, without looking up. “I am writing down what was offered, what was said, and the hour.”
 
@@ -204,17 +204,17 @@ And Sun He wrote it too, in the county book, in the column where names of office
 
 She watched two men write the same two syllables into two different books.
 
-Three years of a stranger at a first desk, buying nothing, giving his name to nobody, and he had given it to a form.
+Eleven weeks of a stranger at a first desk, buying nothing, giving his name to nobody, and he had given it to a form.
 
 ## What She Did Not Say
 
 Outside, on the step, in the cold, with the queue going round her, she stood still until her breath came back and then she walked to the end of the lane and stood against a wall where the wind had gone round the corner.
 
-She had four and a half weeks less than she had had on the morning before the fever and about three weeks of him left and a claim standing on the back of her licence with her name on it and a creditor in Lowwater who would wait another year because she had said no in a county office.
+She had four and a half weeks less than she had had on the morning before the fever and about five and a half weeks of him left and a claim standing on the back of her licence with her name on it and a creditor in Lowwater who would wait another year because she had said no in a county office.
 
 She did not thank him for the reading.
 
-He had put the terms into her head a day and a half before she needed them and it had cost him nothing to do and it had cost her four and a half weeks that do not come back out, and she had said the word *read him* out loud on a keeper's floor in front of a man who reports in full whether or not it is entered.
+He had put the terms into her head three days before she needed them and it had cost him nothing to do and it had cost her four and a half weeks that do not come back out, and she had said the word *read him* out loud on a keeper's floor in front of a man who reports in full whether or not it is entered.
 
 She did not forgive him for it.
 

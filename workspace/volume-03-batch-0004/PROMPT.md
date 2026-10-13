@@ -21,6 +21,14 @@ a chapter, in the same run, and record every decision in `state/current.md` as y
 `workspace/volume-03-batch-0003/SUMMARY.md`. Do not re-derive them. Chapters **149–163** are closed; do not
 reopen them — record any fault as a proposed repair in `state/current.md` and do not edit the chapter.
 
+**Batch 0003 went through a review repair.** The binding day table in
+`outline/batches/volume-03-batch-0003.md` was upheld and the prose was moved onto it, a cluster of elapsed-time
+figures between the refusal (day 136) and the first attendance (day 147) was set to **eleven days**, the
+winter return was relabelled so it is **not read inside Batch 0003**, and the channel arithmetic was
+reconciled (ten less four and a half is **five and a half**, falling to three at ch 160). Read
+`state/continuity.md` § *Repaired at the Volume 3 Batch 0003 review repair* before you rely on any elapsed
+figure or any week count from 149–163.
+
 If an output limit is reached, stop at a chapter boundary, save what exists, mark the batch resumable, and
 leave the next-chapter pull in place.
 
@@ -51,17 +59,23 @@ including *Established facts, Volume 3 Batch 0003* and the **Volume 3 running le
 - **Yuan:** Voice. **Ledger taken once in Volume 3, at ch 149, on her spoken word, in public, under a day,
   at a price of four and a half weeks out of about ten that she named before the word; put down the same day
   and refused permanently for the volume. From ch 150 Ledger is hers to order and his to hold only on her
-  word.** **Channel about three weeks (ch 160)** against **eleven weeks of winter**. **Say that figure
-  once, at ch 178, where the volume's final image puts it, and not before.** Four conditions hers, three
-  his. **Since ch 121 he sees her arm go before she can, at no cost, as standing Voice.**
-- **In-world clock:** **day 0 is the last day of the thaw**; ch 163 = **about day 184**, second month of
-  the cold; **this batch opens at about day 187 and closes the volume.** **The season's road shut on day
-  117 and has not opened; do not open it.** The lane behind a well went dead on day 158. **The quarry three
-  miles east is the only paid work in the county and it is running out** — she has about six weeks of it
-  and then a furnace floor, a tin of two hundred and thirty coppers, and no paid work until the thaw. The
-  **furnace floor at Qinghe, four and a half hours a day and a crew of nine men**, plus the four miles and
-  the third flight, is what is left. **Fix the exact day for each chapter in the cards.** The **winter
-  return is read about three weeks off the end of Batch 0003** — set its exact day in the cards and hold it.
+  word.** **Channel about three weeks (ch 160) against eleven weeks of winter.** **Ten less four and a half
+  is five and a half, and the fall from five and a half to three is thirty-six days of twice-a-day rationed
+  use — the whole of that arithmetic is on the page at ch 149 and ch 160 and must not be "corrected".** Say
+  the ch 160 figure **once, at ch 178**, where the volume's final image puts it, and not before. Four
+  conditions hers, three his. **Since ch 121 he sees her arm go before she can, at no cost, as standing
+  Voice.**
+- **In-world clock:** **day 0 is the last day of the thaw**; ch 163 = **day 184**, second month of the
+  cold; **this batch opens at about day 187 and closes the volume.** **The season's road shut on day 117 and
+  has not opened; do not open it.** The lane behind a well went dead on day 158 — **and what ch 162 shows
+  coming back in it is four frames she is buying out of her own hours, not work.** The quarry three miles
+  east is the only paid work in the county and it is running out — she has about six weeks of it and then a
+  furnace floor, a tin of two hundred and thirty coppers, and no paid work until the thaw. The **furnace
+  floor at Qinghe, four and a half hours a day and a crew of nine men**, plus the four miles and the third
+  flight, is what is left. **Fix the exact day for each chapter in the cards.** **The winter crate left the
+  Hall on day 167 and its schedule went on the board on day 181 (ch 162) — but the return itself has not
+  come back down and nothing in Batch 0003 read it. The winter return is read at the second hour, about
+  three weeks off the end of Batch 0003: set its exact day in the cards and hold it.**
 - **Geography, unchanged:** Lowwater is a county *and* the town under Qinghe Sect. The Bureau has **two**
   Lowwater premises and they are **different rooms** — the copying floor inside Feng Lushi's tower, and
   the county office on the square. **Never merge them. There is no Qinghe county office; Qinghe is a
@@ -114,8 +128,9 @@ volume closes on a licence nailed straight over a bunk.
   four-clause line and a reason. **Do not reuse the ch 53, 78, 92, 114, 135, 140 or 148 sentences.**
 - **Ledger: not taken. It is hers to order and his to hold only on her word — use that standing once.**
 - **Merit: none in Volume 3 outside the ch 140 kill, which is spent.**
-- **Channel: about three weeks at ch 160.** **Say the figure once, at ch 178, in weeks. Nothing before
-  that.** **No bare Settlement fraction goes on the page again in Volume 3.**
+- **Channel: about three weeks at ch 160**, which is about five and a half less thirty-six days of rationed
+  use. **Say the figure once, at ch 178, in weeks. Nothing before that.** **No bare Settlement fraction
+  goes on the page again in Volume 3.**
 - **The claim:** standing, unanswered, the seventh condition, **with a date entered against it in a Lowwater
   counting room by a hand that is not the counting room's.** **Do not answer it and do not reopen the ch
   140 body.** Hou Sanliang remains unpaid, patient, **never in a room with her and never met** — the

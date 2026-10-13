@@ -3,7 +3,7 @@
 **Volume 1 is closed. Volume 2 is closed and audited (ch 59–118). Volume 3 is open: Batches 0001
 (ch 119–132), 0002 (ch 133–148) and 0003 (ch 149–163) written.** Live threads below carry into Volume 3
 Batch 0004, ch 164–178, which closes the volume.
-**Volume 3 Batch 0003 closed at 30,824 words over fifteen chapters, average ~2,055.** The
+**Volume 3 Batch 0003 closed at 30,946 words over fifteen chapters, average ~2,063.** The
 Volume 2 close audit is in `state/current.md`; the Volume 3 Batch 0003 facts and a fresh Volume 3 running
 ledger **at end of ch 163** are in `state/continuity.md`. Volume 3's batch plan is in
 `outline/volume-03.md`; the binding cards for Batch 0004 go in `outline/batches/volume-03-batch-0004.md`
@@ -127,18 +127,24 @@ nothing after it can unwrite it.**
 - **Hunted in writing.** The refusal stands in a Warden's book; **the county examines her monthly, not
   quarterly**, at the third hour, in person, in her own hand. **The heel of her left hand is gone** and
   every county hour costs eleven minutes she did not used to pay.
-- **About three weeks of channel** against eleven weeks of winter. **Ledger is hers to order and his to
+- **About three weeks of channel** against eleven weeks of winter — three being what is left of the **five
+  and a half** she had after paying four and a half out of ten at ch 149, less thirty-six days of rationed
+  ordinary use. **That arithmetic is on the page and is not to be re-derived.**
+  **Ledger is hers to order and his to
   hold only on her word.** **Batch 0004 must name no price, take no Ledger and spend no Merit.**
 - **The winter return** is read in order at the county office about three weeks off the end of Batch
   0003: **one, two, three, five, six, seven, nine**, with the two absences ruled and written down the way
-  Sun He writes things down. **The Hunter attends, buys nothing, certifies in a Warden's hand that the
+  Sun He writes things down. **Nothing in Batch 0003 read it** — the crate left the Hall on day 167, the
+  schedule went on the board on day 181, and the return itself has not come back down.
+  **The Hunter attends, buys nothing, certifies in a Warden's hand that the
   System is real, unauthorised and carried by a licensee in good standing, and refers the dismantling
   upward for want of a Wall writ. THAT IS ch 169–175 AND IT IS NOT SPENT.**
 - **A request for an instrument not held in this county is on a public shelf** — numbered, dated, unsent.
 - **A date is entered against the eight hundred jin** in a Lowwater counting room, in a stranger's hand.
 - **Two bodies.** A boy of fourteen — now fifteen, and **Ruan** — was let go on the escort road and got in.
   A man in good boots was not.
-- **The word *irregular* is on the front of the Qinghe furnace schedule**, four times this year, nine men
+- **The word *irregular* is on the front of the Qinghe furnace schedule**, **three times this year** —
+  nine men
   have read it, and **four of them are putting four loads a week onto the board behind a well.**
 - **The girl of twenty-four is alive** and has been told out loud that a question of Ning Yan's put her
   under a line. **Hou Sanliang is unpaid, patient, and has never been met.** Shen Xiu, the three sponsors

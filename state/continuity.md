@@ -720,7 +720,7 @@ about ch 149 is foreshadowed, named or touched.** **She does not forgive him.**
 
 ## Established facts, Volume 3 Batch 0003 (ch 149–163) — HUNTING WITH A CALENDAR
 
-Fifteen chapters, **30,824 words**, average ~2,055. **Day 0 is the last day of the thaw.**
+Fifteen chapters, **30,946 words**, average ~2,063. **Day 0 is the last day of the thaw.**
 Ch 148 = about day 130; **this batch runs day 133 to about day 184.** Chapter days: 149 = 133 · 150 = 136 ·
 151 = 139 · 152 = 140 · 153 = 147 · 154 = 150 · 155 = 153 · 156 = 156 · 157 = 158 · 158 = 161 · 159 = 164 ·
 160 = 166→175 (spans) · 161 = 178 · 162 = 181 · 163 = 184.
@@ -893,8 +893,12 @@ anywhere in 149–163.**
 
 ### Other Batch 0003 facts
 
-- **Channel: about ten weeks going in; named once at ch 149 as the price; about three weeks at ch 160,**
-  against **eleven weeks of winter left in it.** **No bare Settlement fraction on the page.**
+- **Channel: about ten weeks at ch 140 going in; the price is named once at ch 149 and the remainder is
+  stated there — about five and a half weeks — and about three weeks at ch 160**, against **eleven weeks
+  of winter left in it.** **Ten minus four and a half is five and a half, and the gap between that and
+  ch 160's three is thirty-six days of twice a day under her own ch 118 conditions; that arithmetic is
+  now on the page at ch 160 and must not be "corrected" back to three.** **No bare Settlement fraction on
+  the page.**
 - **Merit: none.** The only Merit in Volume 3 is the ch 140 kill.
 - **No paid work in this county for a licensed woman with one arm until the thaw**, except the quarry
   three miles east, which runs about six more weeks out of a tin of two hundred and thirty coppers.
@@ -906,9 +910,9 @@ anywhere in 149–163.**
   Monthly Reading, The Signing Hand, A Date in a Counting Room, Walking In, Nothing Chalked, The Weight
   Ticket, Before It Comes, The Second Hole, Where He Is Right, What Da Shan Told Him, Not Held in This
   County. **All unique against 1–148.**
-- **Chapter length:** 30,824 words over 15 chapters, **average ~2,055**. Ch 150 at 2,860 is
-  above the 1,800–2,700 guide and is the milestone; the other fourteen are inside or just below it; the
-  shortest is ch 151 at 1,654. **Nothing under the 1,300 floor and no monotone decline. Do not read the
+- **Chapter length:** 30,946 words over 15 chapters, **average ~2,063**, counted after the Batch 0003
+  review repair. Ch 150 at 2,863 is above the 1,800–2,700 guide and is the milestone; the other fourteen
+  are inside or just below it; the shortest is ch 151 at 1,653. **Nothing under the 1,300 floor and no monotone decline. Do not read the
   average as a precedent.** Counts are body prose only.
 
 ### Construction budget — spent in Batch 0003, not to reuse
@@ -941,15 +945,49 @@ and untouched. **The tower intake line at the ninth hour is not audited and not 
 softens, defers or reopens the ch 150 refusal, and nothing in it can unwrite it.** **She does not forgive
 him.**
 
+### Repaired at the Volume 3 Batch 0003 review repair (fix phase)
+
+**Twenty-two faults found by the reviewer and repaired in the chapters.** The planned plot, the titles, the
+chapter order, the card beats, the single irreversible decision, the zero-bracket budget and every ending
+are unchanged. All repairs are word-level or one-sentence level. **The binding day table in
+`outline/batches/volume-03-batch-0003.md` was upheld in every disputed case and the prose was moved onto it
+— the day table is canon and the chapters had drifted away from it.**
+
+| # | Finding | Repair |
+| --- | --- | --- |
+| 1 | **Ch 159 re-dated the volume's irreversible decision.** *Yesterday morning I refused a piece of paper* on day 164, when the refusal is ch 150 on day 136. | **Twenty-eight days ago.** The notice scene's whole premise is the twenty-eight-day gap. |
+| 2 | **Ch 163 contradicted its own binding day and month** — day 181 three times and *the first month of the cold*, after ch 162 opened in the second. | **Day 184** and **the second month of the cold**, both places. |
+| 3 | **Ch 152 violated the binding day table** — *the one hundred and forty-second day*, with *eight days off* to an attendance that is on day 147. | **The one hundred and fortieth day**; **the seventh of the month and the attendance seven days off** (day 136 is *the third of the month* on the page at ch 150, so day 140 is the seventh). |
+| 4 | **A systematic elapsed-time drift between the refusal and the first attendance.** The chapters read it as four days throughout. | **One decision, applied across seven chapters.** Ch 149 paper on the mat *five days* → **four**; ch 150 *five days* → **seven** for the mat and *yesterday / the afternoon before / a day and a half before* → **three days ago / three days ago / three days before**; ch 151 *the day before yesterday* → **three days ago** and *the next day* → **three days after that**; ch 153 three instances of *four days* → **eleven**; ch 156 *nine days earlier* → **twenty**; ch 158 *nine days ago* → **twenty-five**. |
+| 5 | **Ch 153 broke the fourth stage** — *she had said the fourth stage out loud to nobody, once, in a room with eleven witnesses, and the county had ruled it a hole*. That is the opposite of ch 104. | **Held down once, alone on the flats with a stone in her hand, no office in nine counties ever heard of it, and the registrar ruled the empty column an absence.** |
+| 6 | **Ch 162 read the winter return inside the batch**, spending the beat Batch 0004's central set piece needs. | **Relabelled.** The schedule comes out of the crate and goes on the Hall board; **the return itself has not come back down**, it is in the county office waiting to be read in front of a room, and she will not be in that room. |
+| 7 | **Ch 163 double-stamped the winter annex and advanced the irregular to a fourth** that ch 158 already spent as the third. | **Opening rewritten.** The copyist's stamping, the second stamping at the counter and *the fourth time in a year* are gone. Ch 163 now opens on her walking **the week's annexed hours** down the four miles and the clerk pressing the binder without a question. **The irregular is stamped three times this year, not four** — corrected in the ch 163 ledger above. |
+| 8 | **Ch 157 restarted the quarry** she had been working since ch 152. | **Mid-run.** *She had been working three miles east for eighteen days*; the *Six Weeks* section now opens eighteen days in. |
+| 9 | **Ch 157 had the post-injury economics backwards** — eighteen coppers, eleven loads, an eight-load limit, against ch 154's twelve coppers and five loads. | **Twelve coppers, five loads, a six-load limit**, and the weekly figure made true (**about three hundred and sixty** at five loads on six days). Ch 157 also now reconciles Da Shan's **four tables** with ch 162's **wall of frames**. |
+| 10 | **Ch 160 had a day-count and a week-length fault** — *the six days when the hoist ran and on the two when it did not* is eight, and the stage was held eight days, not six weeks. | **Six days a week**; **eight days**; **the second month of the cold**. |
+| 11 | **Ch 154 contradicted its own injury** — *a left hand come off at the wrist* against a wound at the heel and a chapter arguing about the heel. | **At the heel.** |
+| 12 | **Ch 162's internal count** — *Gao and two others* against four loads and *four crewmen*. | **Gao and three others.** |
+| 13 | **Ch 162 revived the lane** ch 157 ruled out for four months, with no line to bridge it. | **A line.** The four men at the fourth table are Da Shan's own and **she had not been one of them since the board went dead**; what comes back is four frames she is buying out of her own hours, **inside a fortnight**. |
+| 14 | **Ch 150 said three years of a stranger** where canon puts Bai Zhu's arrival at ch 118. | **Eleven weeks**, the figure the batch already uses. |
+| — | *Also repaired, not in the reviewer's list:* ch 149's *the twenty-ninth day* → **the hundred and twenty-ninth day** (the card's day 129; the old phrasing read as day 29); ch 149's past-tense *a room he does not come into* → **did not**; ch 163's nine loads at the quarry → **six**, against ch 154's and ch 157's figures. | |
+| Minors | ch 154 *eleven loads of core-stone* → **three** (the chapter then counts one, two, three); ch 156 *not a escort* → **an escort**; ch 159 *a keeper with four hundred volumes* → **four hundred and eleven**; ch 154:55 rewritten, the self-cancelling *six days ago, in the summer of her own body, and she was six days into the ice*; ch 156's *her name, her age* → **her crew, her county and the road**, which is what the quoted speech contains; ch 157's *Nine weeks to a date she could not put on a calendar* → **Nine weeks, and not one of them carrying a date she could put on a wall**, so the line is not repeated verbatim five days after ch 155's; ch 158's *the quarter's crate* → **the winter crate**, against the copyist's own *a winter return, not the quarter's*; ch 159's *a fortnight* and *about a month* → **a little under three weeks** and **under three weeks**, so the board scene lands on ch 162's day 181; ch 158's *a week after that* → **ten days after that**, same reconciliation. | |
+
+**The channel arithmetic — decided, not merely flagged.** Ten weeks at ch 140 is published in a closed
+chapter and in `outline/volume-03.md`; the price of four and a half weeks is published in six places in this
+batch. Neither moves. **Ten less four and a half is five and a half, so ch 149 now says about five and a
+half weeks and ch 160 accounts for the fall to about three across thirty-six days of twice-a-day rationed
+use on the page.** `outline/volume-03.md`'s Settlement table has been corrected to match (ch 150 **~5½
+weeks**, ch 160 **~3 weeks**, cause *thirty-six days of ordinary use*). **Do not "fix" either figure back.**
+
 ## Volume 3 running ledger — at end of ch 163
 
 | Item | Value at end of ch 163 |
 | --- | --- |
 | Her stage | **Condensing 8, SUPPRESSED, on no paper in nine counties.** Ceiling **Condensing 9**, entered in her own hand, countersigned ch 132. Arm at a third, unchanged. Aperture cracked through and permanent. **Short breath THREE COUNTS on stairs, never back to two. The heel of her left hand is gone**, and every county hour takes eleven minutes longer. 8 → 9 is ch 171, announced |
 | Licence | **RELICENSED, ch 132.** Clause Four, ceiling nine, **seven conditions**, the claim the seventh and the last. Foundation barred again without a second relicensing, and the second needs a schedule the county does not keep past the boundary. **The second licence is still in oilcloth against her ribs and is not nailed up; the first is still crooked over her own bunk going soft** |
-| Hours | 940/940 tithe level (ch 86) + 311 season (ch 113) + 58 annex level at the thaw (ch 147). **Winter annex: quarry hours now on a weight ticket with an hour and a load on one line (ch 158), certified off forty-one cards, irregular stamped the fourth time this year.** Winter crate called for day 161, went up about day 167, reached the Hall in the second month of the cold, **on the schedule board, with the refusal on it** |
+| Hours | 940/940 tithe level (ch 86) + 311 season (ch 113) + 58 annex level at the thaw (ch 147). **Winter annex: quarry hours now on a weight ticket with an hour and a load on one line (ch 158), certified off forty-one cards, irregular stamped the third time this year — ch 163 no longer stamps a fourth.** Winter crate called for day 161, went up day 167, reached the Hall in the second month of the cold, **schedule on the board with the refusal on it (ch 162); the return itself has NOT come back down and is read in Batch 0004** |
 | In-world date | **about day 184** — the second month of the cold. **The season's road shut on day 117 and has not opened.** The lane behind a well has been dead since day 158. **The winter return is read in about three weeks, at the second hour** |
-| Settlement | **about three weeks** (from about ten at ch 140, less four and a half at ch 149), against **eleven weeks of winter**. **Ledger is hers to order and his to hold only on her word** |
+| Settlement | **about three weeks** (from **about ten at ch 140, less four and a half at ch 149 = about five and a half, less thirty-six days of rationed ordinary use**), against **eleven weeks of winter**. **Ledger is hers to order and his to hold only on her word** |
 | Bounty | 800 jin, standing, unanswered, the seventh condition, travelling on the licence. **A date has been entered against it in a Lowwater counting room by a hand that is not the counting room's** — a date to answer by, for entry for execution. **Hou Sanliang still unpaid, still patient, still never met.** **The refusal at ch 150 would have answered it and she said no in a room with two witnesses.** The Hunter has a certified copy, a receipt, five sheets, a Listener, **two monthly attendances**, and a line on a public shelf |
 | Crew | nine men; quarters sleep ten in twelve bunks. **They have read the refusal on the schedule and have said nothing about it, and Gao stands on her other side at the grate** |
 | Feng Lushi | **alive, warm for the first time in twenty-two years, coughing less, writing more, owned. Column at five.** A Listener for life, reporting the stair upward truly in full. Suspended from the stair one quarter; volumes, stipend, column and house retained. **Has not asked her a question since ch 143** |

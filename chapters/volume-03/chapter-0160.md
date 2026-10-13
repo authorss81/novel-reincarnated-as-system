@@ -10,7 +10,7 @@ It was an address.
 
 Every stage she had ever held had gone out of her into nine counties in about nine seconds, and her life since the first one had been the space where it used to be.
 
-Now there was something in that space and it was staying. It was there on the six days when the hoist ran and on the two when it did not. It was there on a mat in the loft, on the third flight of a crew quarters, and in a county office at the third hour with two witnesses and a man at the back of the room.
+Now there was something in that space and it was staying. It was there on the six days a week when the hoist ran and it was there on the days it did not. It was there on a mat in the loft, on the third flight of a crew quarters, and in a county office at the third hour with two witnesses and a man at the back of the room.
 
 It did not get quieter. It got more specific. By the third week she could find the edge of it without looking for it.
 
@@ -32,7 +32,7 @@ She could not go back. Not because it was dangerous — because a second visit i
 
 So she put it in loads.
 
-Eight on a good day. Eleven on a day when the block was running and the ice was off the grade. Twelve coppers a load, five days of that in a week, and five weeks of it from the first morning she said yes at the lip of that cut.
+Five on an ordinary one, six on a day when the block was running and the ice was off the grade, and that was the whole of it. Twelve coppers a load, six days of that in a week, and five weeks of it from the first morning she said yes at the lip of that cut.
 
 That is what she worked it with, and it worked, in the way that working it does.
 
@@ -98,7 +98,7 @@ She felt it, on the bench, about four seconds after it went down, and there was 
 
 It was like putting a heavy stone down.
 
-There had been a weight in her chest since the sixth day of a morning in the first month of the cold that she had not known was a weight until it stopped, and it was the weight of carrying a thing that had to be decided about every single day, and it had been deciding about it every day for six weeks, and now it was not going to be decided about any more.
+There had been a weight in her chest since a night eight days ago in the second month of the cold that she had not known was a weight until it stopped, and it was the weight of carrying a thing that had to be decided about every single day, and it had been deciding about it every day since, and now it was not going to be decided about any more.
 
 It was gone and it was eight and it was hers, and there was no notice period on it and no hour set by an office above the county and no sound in nine counties.
 
@@ -112,7 +112,7 @@ And there was a hole in a column four counties wide.
 
 “You have never not asked.”
 
-“You had a week to say one word,” said Ning Yan, “and you said one word, and it was the right one, and I have been working on the same thing for six weeks and you were not in the room.”
+“You had a week to say one word,” said Ning Yan, “and you said one word, and it was the right one, and I have been working on the same thing since a night eight days ago and you were not in the room.”
 
 “I was in the room.”
 
@@ -128,9 +128,11 @@ They went up four miles and the third flight cost three counts going up and eigh
 
 “About three weeks,” said Yuan.
 
-“Out of ten.”
+“Out of what.”
 
-“Out of the ten it was on the morning you said the word in a cold room with a paper folded twice on the mat,” he said. “Four and a half of them went on that and about three are left, and you have told me twice this week that you are not going to ask me for another reading, and I am not going to offer you one.”
+“Out of the ten it was on the morning you said the word in a cold room with a paper folded twice on the mat,” he said. “Four and a half of them went on that. There were five and a half on the afternoon you walked out of the county office, and thirty-six days of twice a day have come off them since.”
+
+“And that is what your own spring conditions are worth, and it is the only thing standing between three weeks and none at all. And you have told me twice this week that you are not going to ask me for another reading, and I am not going to offer you one.”
 
 “I am not going to ask for one.”
 

@@ -10,7 +10,7 @@ He looked at her for a second and a half before he answered.
 
 “Yes.”
 
-“Off the fourth bridge,” said the man. “He came in with a hundred and forty other people over about nine days and I remember him because he came the whole way with a line and not a escort, and I told him at the gate that nobody walks a lead in the cold without saying so at the gate, and he said a man had taken his ear at the side of the road and told him to walk.”
+“Off the fourth bridge,” said the man. “He came in with a hundred and forty other people over about nine days and I remember him because he came the whole way with a line and not an escort, and I told him at the gate that nobody walks a lead in the cold without saying so at the gate, and he said a man had taken his ear at the side of the road and told him to walk.”
 
 ## Four Days a Week
 
@@ -96,7 +96,7 @@ The clerk wrote for about twenty, and did not ask her name, and did not ask for 
 
 It took her about four minutes to understand what she had just done, standing at the fourth table with a harness under one arm three feet away.
 
-She had said her name, her age, her crew, her county and the road, out loud, in a yard with eleven men in it, to a clerk with a very good hand.
+She had said her crew, her county and the road, out loud, in a yard with eleven men in it, to a clerk with a very good hand.
 
 In the wash house she had said one true sentence about herself and three washerwomen had heard it and it had been in a market inside a week. That had been at the third hour of a morning and it had cost her a county hour.
 
@@ -126,4 +126,4 @@ He was fifteen. He went back to the harness and did not ask her why, and she wen
 
 And at the top of the lane, in the cold, she worked out that she had done it anyway, and that she would do it again, and that the reason she would do it again was not the boy.
 
-It was that a woman who could stand in a yard and say a true thing about herself out loud was the same woman who had said *no* in a county office nine days earlier in front of two witnesses, and the two of those had cost her about the same, and she could only afford one kind of them, and she had picked.
+It was that a woman who could stand in a yard and say a true thing about herself out loud was the same woman who had said *no* in a county office twenty days earlier in front of two witnesses, and the two of those had cost her about the same, and she could only afford one kind of them, and she had picked.

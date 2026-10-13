@@ -258,8 +258,8 @@ conditions (hours only, spoken twice a day, never idled):
 | Ch 118, end Vol 2 | a little under three-quarters (~0.75) | ~6 weeks | seventeen chapters of ordinary use since ch 101 |
 | Ch 132, relicensed | ~0.82 | ~3 weeks | fourteen chapters rationed, two quarterly readings |
 | Ch 140, after the kill | ~0.70 | ~10 weeks | Merit from the listed kill, told-before-spent |
-| Ch 150, after the reading | ~0.85 | ~4 weeks | Ledger held under a day — costs ~4½ weeks |
-| Ch 160, stage eight suppressed | ~0.88 | ~3 weeks | ten chapters ordinary use |
+| Ch 150, after the reading | ~0.85 | ~5½ weeks | Ledger held under a day — costs ~4½ weeks out of ten |
+| Ch 160, stage eight suppressed | ~0.88 | ~3 weeks | thirty-six days of ordinary use, twice a day, never idled |
 | Ch 171, stage nine announced | ~0.93 | ~2 weeks | eleven chapters, two announcements carried |
 | Ch 178 | past nine-tenths (~0.94) | **about ten days** | seven chapters to the close |
 

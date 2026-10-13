@@ -10,11 +10,11 @@ That was the whole of what they had taken, and they had taken it without a word 
 
 ## The Line in the Book
 
-She went back the next day to ask about it and she asked it badly and Sun He corrected her, which is a thing he is good at.
+She went back three days after that to ask about it and she asked it badly and Sun He corrected her, which is a thing he is good at.
 
 “Who put it there,” she said.
 
-“It is in the standing order,” said Sun He, “and I entered it at the fourth hour of the day before yesterday, and I entered it in the ordinary way, and I would like to get on with the queue.”
+“It is in the standing order,” said Sun He, “and I entered it at the fourth hour three days ago, and I entered it in the ordinary way, and I would like to get on with the queue.”
 
 “Whose standing order.”
 

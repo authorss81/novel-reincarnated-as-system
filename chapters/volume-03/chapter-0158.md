@@ -94,7 +94,7 @@ He looked at her.
 
 “That is not much of a thing to offer a man with a pen in his hand.”
 
-“It is the only one I have,” said Ning Yan, “and it is the same one I gave a man in a county office nine days ago, and it has not cost me anything yet, and I would rather say the true thing than say the large thing.”
+“It is the only one I have,” said Ning Yan, “and it is the same one I gave a man in a county office twenty-five days ago, and it has not cost me anything yet, and I would rather say the true thing than say the large thing.”
 
 ## The Irregular
 
@@ -104,9 +104,9 @@ He had never once asked her where the hours came from. That had been settled in 
 
 She had a hole in a column that nobody in nine counties could fill and no office above this county had ever seen, and she had filled it in three days at a rope with a pen belonging to a man who had every reason not to.
 
-She went up four miles with her left hand under the lining and her right hand open, and the quarter's crate went down that road on the sixth day with her hours on it and the annex on it and the irregular on it and, on a separate sheet in the middle of it, three lines and a date and a man's name.
+She went up four miles with her left hand under the lining and her right hand open, and the winter crate went down that road on the sixth day with her hours on it and the annex on it and the irregular on it and, on a separate sheet in the middle of it, three lines and a date and a man's name.
 
-She had about four days before it reached the Hall, and a week after that before the Hall's clerk would put it on the schedule board and the crew would come in off the cold end and read it.
+She had about four days before it reached the Hall, and ten days after that before the Hall's clerk would put the schedule on the board and the crew would come in off the cold end and read it.
 
 She had decided, at the water channel that morning, about eleven seconds, what she would say when that happened.
 

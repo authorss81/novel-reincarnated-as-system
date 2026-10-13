@@ -1,5 +1,10 @@
 # Volume 3, Batch 0003 — Chapters 149–163
 
+> **Reviewed and repaired.** These cards were **binding and were upheld in full**; the review of the written
+> batch moved the prose onto this file's day table rather than moving the day table. Two planning figures are
+> corrected in place and marked *(repaired after the review)* — the channel arithmetic at ch 149/160. The
+> full finding list is in `state/continuity.md` § *Repaired at the Volume 3 Batch 0003 review repair*.
+
 ## Batch goal
 
 She breaks the one term she wrote in the spring, in public, on her own word, with the price named before
@@ -120,7 +125,9 @@ still there and she still has not forgiven him for what the reading cost.
   hold only on her word.**
 - **Merit: none in this batch.** The only Merit in Volume 3 is the ch 140 kill, already spent.
 - **Channel: about ten weeks going in. State it once at ch 149 and once at ch 160, in weeks, and not in
-  between.** **No bare Settlement fraction goes on the page again in Volume 3.**
+  between.** *(Repaired after the review: ten less the four and a half is **five and a half**, which is what
+  ch 149 now says, and the fall to about three by ch 160 is thirty-six days of ordinary rationed use and is
+  accounted for on the page at ch 160.)* **No bare Settlement fraction goes on the page again in Volume 3.**
 - **The claim:** standing, unanswered, the seventh condition. **Do not answer it.** **Do not reopen the
   ch 140 body.** Hou unpaid, patient, **never in a room with her and never met** — his counting room
   arrives only as a date on a copied slate (ch 155).
@@ -218,8 +225,10 @@ he says yes said. Then she goes up and says the word alone.
 Emotional change: The terror is of her own handwriting, not of the paper. She has spent fourteen months
 building a life out of documents that hold still, and she is about to spend four and a half weeks of the
 only thing she has that does not hold still, in public, on her own signature.
-Power or resource change: **Ledger taken and put down the same day. Channel about ten weeks → about
-three weeks by ch 160.** **No bracketed line.**
+Power or resource change: **Ledger taken and put down the same day. Channel about ten weeks → about five
+and a half at the price, and about three weeks by ch 160.** **Ten less four and a half is five and a half;
+the fall to three is ordinary rationed use and is accounted for on the page at ch 160.**
+**No bracketed line.**
 
 Continuity fact to preserve: She does not thank him and she does not forgive him. Do not re-list the ch
 118 conditions or the seven licence conditions — reference the term as *the sentence she wrote in the

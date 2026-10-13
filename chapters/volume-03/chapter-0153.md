@@ -42,7 +42,7 @@ A column that is filled has to be filled. A column that is empty is an absence, 
 
 Which meant that nobody would ever come.
 
-She had said the fourth stage out loud to nobody, once, in a room with eleven witnesses, and the county had ruled it a hole and closed the door on it, and she had been furious for about a week and then she had been quietly glad for eleven months.
+She had held the fourth stage down once, alone on the flats east of the town with a stone in her hand, and no office in nine counties had ever heard of it, and a registrar had ruled the empty column an absence and closed the door on it, and she had been furious for about a week and then she had been quietly glad for eleven months.
 
 ## Eight Feet Back
 
@@ -84,7 +84,7 @@ She stopped, because a man who says *do not waste an hour* is a man telling you 
 
 “No,” he said.
 
-The line went through her like cold water, and she understood it about a second late, and it was this: she knew the name. It had been written into two books in this room four days ago and it had been in her head for four days, and she had never once, in any of the four times she had looked at the back of this room, been able to put a face on it.
+The line went through her like cold water, and she understood it about a second late, and it was this: she knew the name. It had been written into two books in this room eleven days ago and it had been in her head for eleven days, and she had never once, in any of the four times she had looked at the back of this room, been able to put a face on it.
 
 He was going to stand at the back of that room once a month for the rest of the winter and she would not know him by sight, and the only reason she knew his name was a form.
 
@@ -104,7 +104,7 @@ It was a sheet of county paper about the length of her forearm. Hours in a colum
 
 And in the ordinary place, at the foot, three lines and a date and two syllables.
 
-She had refused in a room and a clerk had written it and the room had gone on, and four days later it was on a piece of paper in her own hand's keeping, in a lane in Lowwater, and it looked like nothing.
+She had refused in a room and a clerk had written it and the room had gone on, and eleven days later it was on a piece of paper in her own hand's keeping, in a lane in Lowwater, and it looked like nothing.
 
 That was the thing about documents, and it was the thing she had built a life on out of for fourteen months. Every piece of paper that had ever come at her had been a room with people in it — a queue, a clerk, a table, a man who could not refuse her because the rule said so — and on a sheet of paper on its own it was nine lines of writing about a furnace worker.
 
@@ -120,7 +120,7 @@ Three miles east to the west and then four miles up the mountain, at about the f
 
 She had lost a day. Eighteen coppers a load, six loads, over a hundred coppers, and the whole of the sixth hour of work, because a monthly attendance is read at the third hour and a quarry is worked at the third hour.
 
-That was the price of a diary and she had been told the arithmetic four days ago.
+That was the price of a diary and she had been told the arithmetic eleven days ago.
 
 “You have not said anything,” said Yuan.
 

@@ -1,8 +1,8 @@
 # Not Held in This County
 
-The Hall's copyist brought the winter annex up on the ninth day of the second month of the cold and stamped it and wrote *irregular* on the front of the Qinghe furnace schedule for the fourth time in a year, and she carried the binder down four miles herself because a member's hours go down in person and it is four miles and there is nothing else to do with them.
+She walked the week's annexed hours down the four miles herself on the hundred and eighty-fourth day, because a member's hours go down in person and it is four miles and there is nothing else to do with them.
 
-She put it on the counter on the one hundred and eighty-first day at about the fifth hour and the clerk took it and stamped it and put it in a press with two other things, and she stood in the office with about eleven minutes before the queue moved, and she looked at the shelf.
+She got it on the counter at about the fifth hour and the clerk took the binder and put it in a press with two other things without asking her a single question about it, and she stood in the office with about eleven minutes before the queue moved, and she looked at the shelf.
 
 ## The Shelf by the Door
 
@@ -68,7 +68,7 @@ So she looked at the number for eleven more seconds and then she put it back and
 
 ## The Whole of What Is Left
 
-She stood on the step of the county office on the one hundred and eighty-first day of the first month of the cold with her own filing copy in her right hand and did the arithmetic, and it came out where it always came out.
+She stood on the step of the county office on the one hundred and eighty-fourth day of the second month of the cold with her own filing copy in her right hand and did the arithmetic, and it came out where it always came out.
 
 About three weeks of what was in her head. Eleven weeks of winter left in it.
 
@@ -120,7 +120,7 @@ She did not say anything for about nine seconds.
 
 ## The Stone
 
-She went out three miles east and put in nine loads before the light came off the cut, at twelve coppers a load, with the left hand under a strip of lining and the right hand open about a third of the time, and Kan wrote the hour and the number on a card in the same line and did not ask about the hand and was never going to.
+She went out three miles east and put in six loads before the light came off the cut, at twelve coppers a load, with the left hand under a strip of lining and the right hand open about a third of the time, and Kan wrote the hour and the number on a card in the same line and did not ask about the hand and was never going to.
 
 She had a crew of nine and a hall with no roof and a board with a word on the front of it that she had put there herself, and a keeper on a fourth stair who was warm for the first time in twenty-two years and would report her upward truly for the rest of his life, and a girl in a wash house with a leg set crooked who had told three washerwomen in advance so that she could not be thanked.
 
@@ -130,8 +130,8 @@ She did not forgive him.
 
 She had said on a mat in a loft that she would not ask him to stop, once, in the spring, and had not asked, and was not going to, and that was a year old now and it was the same arrangement it had been that day except that he was not going to be able to stop either, because there were three weeks of him left and she had said the word once in a year and was not going to say it again.
 
-She put nine loads on the stone and went home up a hill of a thousand feet and stood at the top of the third flight in the dark in a room with ten sleepers, and the count was three, and she let it be three.
+She put six loads on the stone and went home up a hill of a thousand feet and stood at the top of the third flight in the dark in a room with ten sleepers, and the count was three, and she let it be three.
 
 Four miles down the same hill, on a shelf by the door of a county office, a sheet with a number at the top of it and a date and a line that said an instrument not held in this county was requested from the office above it, for use in this county, after a reading.
 
-Nothing had been sent. And a woman with about three weeks of a voice left in her, standing at the top of a stair in the first month of the cold, understood for the first time that the paper which could finish her was not in this county, and was not going to be brought to it, and that the only thing between her and it was a line on a shelf in a room where anybody may read.
+Nothing had been sent. And a woman with about three weeks of a voice left in her, standing at the top of a stair in the second month of the cold, understood for the first time that the paper which could finish her was not in this county, and was not going to be brought to it, and that the only thing between her and it was a line on a shelf in a room where anybody may read.
