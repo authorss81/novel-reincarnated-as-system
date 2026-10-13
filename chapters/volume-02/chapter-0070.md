@@ -106,15 +106,15 @@ She stood on the landing with the wet corner of a roofless hall four feet away a
 
 She did not tear it.
 
-She wants that written down as well, because it is the most obvious thing in the world to do and she has been asked about it by people who were not there.
+She thought about tearing it, the way anybody tears anything, and then she stood on a landing in the weather and thought about it properly instead.
 
-She stood on a landing with a thumb on the corner of a piece of paper for a minute and a half, and she did not tear it. A refusal on paper is worth more to her than the application was, and there is no sense in destroying a document that has a county clerk's hand and an hour on it.
+A refusal on paper is worth more to her than the application was. It has a county clerk’s hand on it and an hour on it and a county named under the sentence, and there is no sense in destroying a document that already exists.
 
 ## Once
 
 She did not go down the landing and put up a second one.
 
-That was the entire discipline of the twentieth day and it took her about four seconds to decide, standing on the landing, wet to the knee on one side, with nine people behind her who had all now looked at her.
+That was the entire discipline of the twentieth day and it took her the length of a look down the landing, wet to the knee on one side, with nine people behind her who had all now looked at her.
 
 There was a rule, and it was not written anywhere: an application is a thing you do once and then you keep. A second application is a different application, and the first one is then in the file.
 
@@ -144,7 +144,7 @@ She wrote the wording in the log at the second hour of the afternoon, in the was
 
 Then she sat with her right arm out of its own weight and looked at the four lines for a while, and the fourth of them was the one she did not write but understood.
 
-*She said the county out loud because I asked her to and nobody had asked her to in two years.*
+*She said the county out loud because I asked her to, and she will remember that I asked.*
 
 She put the brush down.
 

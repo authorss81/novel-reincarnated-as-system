@@ -62,9 +62,7 @@ Then Cao Lei stood up off his bunk.
 
 He got up off the edge of it in one movement, which for a man who had been on a furnace floor eleven years and had got up off a bunk at the second hour every day of his life meant nothing, and about half the room turned round.
 
-The roster is on a board at the foot of the stair. It is written up on the second evening and goes to the quota office on the third, and it is a board of names in shift order for a week, and the shift leader of that week signs it.
-
-It is sect property. It goes where sect property goes. It cannot be carried out of a building by a woman with a claim on her, and it cannot be carried out by a man with one either, but it can be read by anybody who comes up those stairs, and any man of that crew can put his mark against a shift.
+The inspector’s brush had stopped. He was looking at the board at the foot of the stair, where it hung every working day of that winter under one nail, and she watched him decide not to look at it for another second.
 
 Xu An stood up after him, on the other side of the room, so that they were not together.
 
@@ -106,7 +104,7 @@ The inspector wrote something else. Then he put the brush down and looked at the
 
 That was the moment she understood that she had been given something, and that it had a price on it that had not been on it in that room an hour ago.
 
-A signed shift is a legal fact. She had known that for a week, because she had read it in a clause on the first page of a book with a cracked spine and said the sentence out loud in a room with a stove in it.
+A signed shift is a legal fact. She had known that for a week, because a man with a jar of oil had stood up out of a stool in a room with a stove in it and told her, and she had repeated it back at him before she let him do it.
 
 The two men had stood up in a room with two inspectors in it and said the whole of it aloud to eleven witnesses, which is four times what she had asked of them, and for a reason she had not given them and never would have: that a thing said once in a room is in the chests of everybody in it, and a thing said in a room with an officer of the maintaining members in it is a thing that cannot be got back.
 

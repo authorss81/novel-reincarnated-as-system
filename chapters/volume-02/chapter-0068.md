@@ -48,7 +48,7 @@ Nobody in that yard moved.
 
 He put a coin on the table. Not a lot. Enough to be serious and not enough to be a scandal.
 
-The clerk looked at the coin for about four seconds.
+The clerk looked at the coin for a long time.
 
 “This is not a county matter,” he said.
 
@@ -128,7 +128,7 @@ The drip went on at the edge of the eaves.
 
 ## What She Said
 
-She did not say it then. That is in the record and she has never moved it an inch.
+She did not say it then, and she did not say it on the step above the yard, and there is an hour in the record that agrees with her on both counts.
 
 There was a rule and she had made it on the ninth step of the terrace on the ninth day of the ash in the voice she used for tallies: nothing decided about her again without telling her first. He had told her. He had told her first, in order, with the number in it, on a step, in the drip, and he had then stopped and waited.
 
@@ -138,7 +138,7 @@ Twenty-three days of thaw. Two men on a settling floor. A paper in a clerk's tra
 
 “Tell me the other thing,” she said. “The one you have been not-saying since the fourth hour past midday when I wrote four lines in a docket.”
 
-He was quiet for about a second and a half.
+He was quiet while she waited.
 
 “A claim in the bound is entered by the layer,” he said. “Every one. That is what an entered act is; it is not a rumour and it is not a rumour's echo, it is a line the layer put in four counties with the hour on it, and it is against something, because the layer does not enter an act against nothing.”
 

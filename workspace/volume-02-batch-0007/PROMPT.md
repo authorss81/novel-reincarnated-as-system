@@ -107,7 +107,20 @@ These are on the page and are **spent**:
   total (ch 68). **Stated once. At ch 80 it is PAID, not restated.**
 - **The refusal wording** fixed at ch 70. Rhymed at ch 88 and ch 115; never quoted twice whole.
 - The six unsigned lines about hours and the frame of twelve sheets (ch 64, ch 69). Seen and logged;
-  not explained.
+  not explained. **Two of the twelve are in Captain Lu Tao's roundhouse hand.**
+- **The crew is nine men, not eleven.** Cao Lei and Xu An died under the beam at ch 71. The
+  quarters sleep ten. Every headcount from the ninth hour of the morning on the twenty-second day
+  reads **nine**. A **girl of twenty-four on the cold end broke her leg in the same beam** (ch 71–72):
+  splinted with a lath and a cord, off the settling floor for the season, the difference charged to
+  a household that is not hers — and **she heard the gate man ask where Ning Yan sleeps and knows
+  he got nothing.** She is a live thread. Do not forget her and do not kill her.
+- **Her tithe line reads nine hours in her own hand** — two shifts of four and a half, ch 64 and
+  ch 67 — out of the 729 standing. The refused licence slip is under the cover of that book.
+- **A sheet with her name written in the wrong order** (ch 60, paid at ch 61). An office has her
+  name down wrong and the new Hall clerk reproduced the error at her request. **Do not resolve it in
+  this batch.**
+- **The claim-as-entered-act arithmetic is given once, at ch 68.** Yuan *failed* to give it at ch 63
+  and said why. It is not restated here.
 - Cao Lei's oil jar and the back stair (ch 32).
 
 Also watch the spent constructions listed in `state/continuity.md`: *nobody asked, nobody was

@@ -14,7 +14,7 @@ The older inspector did not move at all.
 
 He wrote it. Two lines, small neat hand, and he took his time about it in a way she understood, because he was giving her the shape of the moment and there was no reason on earth for him to do that.
 
-“Entered at the second hour of the morning of the sixteenth day, refused in the doorway before eleven witnesses, by Ning Yan, maintaining member,” said the inspector, reading it back. “Is that correct.”
+“Entered at the tenth hour of the morning of the sixteenth day, refused in the doorway before eleven witnesses, by Ning Yan, maintaining member,” said the inspector, reading it back. “Is that correct.”
 
 “That is correct.”
 
@@ -68,7 +68,7 @@ Nobody in the room said one word.
 
 “I am taking the roster,” said the inspector, “because it is sect property and you are not, and because you have made a very careful, very correct refusal and I have honoured it, and it has left me standing in a room with a member's name on a board and no line on my sheet for her name at all.”
 
-She did not have an answer to that. She would go back over it for four months afterwards, on worse nights than this one, and never find one.
+She did not have an answer to that. She stood in the doorway and watched a board come off a wall.
 
 ## What the Board Said
 
@@ -108,7 +108,7 @@ The foreman did not look at the two of them. He looked at the board, and then at
 
 He said it slowly.
 
-“Two men of a crew against a shift of a member. The member's hours are the member's. The other hours have to be somewhere by the first of the month, and they are not, and I have a settling floor to open in eleven days and I am short of four.”
+“Two men of a crew against a shift of a member. The member’s hours are the member’s. The other hours have to be somewhere by the first of the month, and they are not, and I have a settling floor to open in eleven days and I am short of two, and the two of you are standing on my stair.”
 
 Nobody said anything.
 
@@ -120,23 +120,25 @@ Xu An said nothing at all.
 
 ## The Part She Did Not Say
 
-She had until the twelfth hour to say something and she did not say it, and she wants that written down in the same way she wants the hour written down.
+She had until the twelfth hour to say something.
 
-There were four things available to her at that moment and she knows all four of them and she had all four of them in her hand.
+She stood in the doorway and worked out, quickly and in order, the four things she could do about a foreman putting two men on a settling floor, and she did none of them.
 
-She could have said that the entry was made by a crew member's lawful mark, which was true, and she could have put her hand on her own schedule certification, which was also true, and the schedule and the board are the same book read twice, and a foreman who will not reconcile two documents that agree cannot reconcile anything at all.
+She could have said the entry was made by a crew member’s lawful mark, which was true, and put her hand on her own schedule certification, which was also true — the schedule and the board are the same book read twice, and a foreman who will not reconcile two documents that agree will not reconcile anything at all.
 
-She could have used the sentence she had been building since the eighth hour, which was that a maintaining member's hours are the maintaining member's hours and the crew's cover of them is a matter between the crew and her and is not entered anywhere and therefore cannot be found in a document, and that a document is the only thing in nine counties that has ever moved her, and she had built her entire winter on that and could have used it now.
+She could have used the sentence she had been building since the eighth hour: that a maintaining member’s hours are the maintaining member’s hours, and that the crew’s cover of them is a matter between the crew and her, entered nowhere, and therefore findable in no document in nine counties. She had built her whole winter on the fact that a document is the only thing that has ever moved her. She could have used it now.
 
 She could have said nothing and let it stand, which is what she did.
 
-Or she could have stood in a doorway and said *take me instead*.
+Or she could have stepped into the doorway and said *take me instead*.
 
-She has been asked since whether there was a fifth thing. There was not. There were four and she had all four and she used none of them, and what she used instead was the plate.
+She had four and she used none of them. What she used instead was the plate.
 
 Because the reason she could not say *take me instead* was a fired plate the size of a hand against her ribs with the assessment of a child of thirteen written into it, four county originals folded into the back of a stolen laundry ledger inside her coat, and a false oath in her own hand with the hour on it in a minute book in a building with no roof.
 
-She chose four lives that were not hers over one life that was. That is the arithmetic. It is not complicated and it does not improve on being read.
+She chose two lives that were not hers over one life that was.
+
+The arithmetic was not complicated and it did not improve on being read.
 
 ## The Plate
 

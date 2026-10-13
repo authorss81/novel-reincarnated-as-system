@@ -38,7 +38,7 @@ She did not shout, which she has never been able to explain and has not tried to
 
 She was a hundred and forty feet down the floor with one arm and eleven inches of water in a channel and nine feet of lift.
 
-The lip was twenty feet off. There were men between her and it. It is a channel floor; you do not run on a channel floor, you run along it, and she got about eleven feet before she had to put a hand out.
+The lip was twenty feet off. There were men between her and it. It is a channel floor; you do not run on a channel floor, you run along it, and she got eleven feet before she had to put a hand out.
 
 Cao Lei was on the near side of the beam and Xu An was on the far side with his back to it, and the beam went across the lip between them and came down onto the near shoring, and the near shoring went.
 
@@ -94,7 +94,7 @@ It is not a discovery. It is a habit, and the habit is older than the crack, and
 
 ## What Was Under It
 
-The heap came down at about the second night hour, with bars, in about eleven minutes, and the healer got up the stairs forty minutes after the beam went.
+The heap came down at about the second night hour, with bars, in less than a quarter of an hour, and the healer got up the stairs forty minutes after the beam went.
 
 Forty minutes is a very long time if you have been under a thing.
 
@@ -109,6 +109,30 @@ Then she looked at Ning Yan, who was sitting against the wall of the channel wit
 “You do not.”
 
 “No,” said Ning Yan. “I know how long it was.”
+
+## The Other One
+
+The girl of twenty-four was on the stone against the wall with her leg out straight in front of her and a folded coat under her shoulders, because there had been nothing else to put under her.
+
+She had not gone off the lip slowly. Everybody within thirty feet of a thing that size moves.
+
+“Can you stand on it,” said Ning Yan.
+
+“Ask the healer.”
+
+The healer had not come down to her yet.
+
+Ning Yan put her left hand flat on the girl’s knee above the break and held it there and tried nothing else, and after a while the girl stopped making a noise and opened her eyes.
+
+“You are the one from the gate,” she said. “He asked where you sleep.”
+
+“Yes.”
+
+“He did not get it.”
+
+“No.”
+
+“Good,” said the girl, and shut her eyes again.
 
 ## The Thing in Her Head
 
@@ -132,11 +156,11 @@ So she held the channel for three more hours on her own and she was not a god in
 
 That is what she has never been able to put down afterward, and she has put down almost everything else: that the only time in her life she wanted him to be something other than a voice, he told her no, correctly, in the first second, without hesitating.
 
-They came at about the ninth hour of the morning. Eleven of them, up and down, in daylight, on a floor.
+They came at about the ninth hour of the morning. Nine of them, up and down, in daylight, on a floor.
 
 She had been awake for two days and she was on her feet when they came, and she had washed in the trough at the fifth hour and she was in a clean coat and her hair was wet and her right arm was out of its own weight.
 
-She had washed. She wants that written down too, because it is the thing that has been asked about the most and it is the reason the two men in that hall looked at her and then away.
+She had washed. Nobody had told her to. It was the only thing she could do that was not about the beam, and it was the reason the two men in that hall looked at her and then away.
 
 She washed their faces. There was not a facility in that building for washing two dead men and she did it in the trough at the cold end with a rag and cold water because it was what her mother had done for her father twice in her life, and she did it with her left hand, one at a time, and she got the ground off them, and she was not sick, and afterwards she was sick for two days.
 
@@ -146,13 +170,13 @@ The layer had said it. It had been inside her chest since the fourth hour, and s
 
 [The furnace at Qinghe. Two of the crew are ended beneath a fallen beam.]
 
-She stood up off the cold end of the channel in front of eleven men with wet hair and a clean coat, and they all heard it, because everything in the bound hears it, and every one of them had heard a sentence in their chest on the eighth day of the winter that said her name.
+She stood up off the cold end of the channel in front of nine men with wet hair and a clean coat, and they all heard it, because everything in the bound hears it, and every one of them had heard a sentence in their chest on the eighth day of the winter that said her name.
 
 ## What She Said to Yuan
 
 “You are going to tell me now what happened.”
 
-He did not answer for about four seconds.
+He did not answer for a while.
 
 “I am not going to tell you anything that makes it smaller.”
 
@@ -176,7 +200,7 @@ He did not answer for about four seconds.
 
 “Don’t.”
 
-“You did the only thing in that building that could have been done, and eleven men are alive because of it, and it does not touch the other thing, and you are not allowed to put the two of them in the same place, and that is not me being kind to you. That is me telling you that a document that puts them in the same place is a false document, and you have spent your whole life on not writing those.”
+“You did the only thing in that building that could have been done, and nine men are alive because of it, and it does not touch the other thing, and you are not allowed to put the two of them in the same place, and that is not me being kind to you. That is me telling you that a document that puts them in the same place is a false document, and you have spent your whole life on not writing those.”
 
 She stood in a furnace hall at the ninth hour of the morning with two men laid out on a plank and a boiler of water going on the fire behind her.
 
@@ -186,6 +210,6 @@ She stood in a furnace hall at the ninth hour of the morning with two men laid o
 
 “I am going to say both of them out loud.”
 
-“To eleven men, and then in a register, and then at the burial, and nobody in this sect is going to let you do that twice.”
+“To nine men, and then in a register, and then at the burial, and nobody in this sect is going to let you do that twice.”
 
 “No,” she said. “Nobody is going to let me do that twice.”

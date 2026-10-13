@@ -16,7 +16,7 @@ Cao Lei had the end of her bunk. She had known that in the autumn and had not ha
 
 “Then ask it.”
 
-He looked at the fire, which was a fire in a quarters and not a fire at a furnace, and gave it about four seconds.
+He looked at the fire, which was a fire in a quarters and not a fire at a furnace, and gave it five or six.
 
 “The floor,” he said. “What it was. The four of them on it.”
 
@@ -114,7 +114,7 @@ It was Cao Lei who found the actual shape of it, about an hour later, when the l
 
 “The foreman is right about the count and he is wrong about you,” said Xu An, “and he will not be wrong about it out loud, and in February he will be short and he will take it out of the first two men he can find, and neither of us is going to be the first two men he finds.”
 
-She sat on the bunk and did the arithmetic, and the arithmetic took about four seconds, and there was no good answer in it.
+She sat on the bunk and did the arithmetic, and the arithmetic took no time at all, and there was no good answer in it.
 
 Then Cao Lei said the thing.
 
@@ -176,9 +176,7 @@ That was the trouble. They were being kind to her, and she had taken it, and it 
 
 “It is done, then,” said Xu An, and got up, and the room went back to the ordinary noise of eleven men at the end of a short day.
 
-Outside, the sky over the mountain was a hard clean black with stars in it for the first time in eleven days. Somewhere down the hill a lamp-mender was already reading four different sentences about her into a market square, and the thing she had bought in that room in the morning was going to cost two men their lives inside a month.
-
-She did not know that yet.
+Outside, the sky over the mountain was a hard clean black with stars in it for the first time in eleven days. Somewhere down the hill a lamp-mender was already reading four different sentences about her into a market square, and not one of the four had the shape of what had happened in that room since the ash stopped.
 
 She lay in the second bunk with her coat under her and the log in the lining and the plate against her chest and let a warmth she did not trust come all the way in.
 

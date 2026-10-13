@@ -134,7 +134,7 @@ She took the brush. It was a flat brush cut to a width so that the writing would
 
 She wrote with her left hand. The name came out in the ugly slanting way a left hand writes and it took her about four seconds and she did not apologise for any of it, and the clerk blotted it, and when she lifted the brush the six lines on the sheet were still the six lines on the sheet.
 
-Four hours. One shift. One night.
+Four and a half hours. One shift. One night.
 
 Two years ago Ning Bo's six years had been carried forward in a column and settled by being near the nearest unspent thing, and there had not been one hour of labour in that column anywhere. She had gone looking for labour in the furnace's whole history and had found that the furnace did not keep it, and the reason the furnace did not keep it was on a sheet on a wall in a building she had never been in.
 

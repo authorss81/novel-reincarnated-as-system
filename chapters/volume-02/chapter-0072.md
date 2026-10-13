@@ -38,7 +38,7 @@ He looked at the second board.
 
 Nobody answered again.
 
-He wrote it and he took the brush to the cause column and he waited with the tip of it about an inch off the paper, and there were eleven men of that crew standing on the top row in a wind, and an old man of seventy with a brush he had been holding since before she was born.
+He wrote it and he took the brush to the cause column and he waited with the tip of it about an inch off the paper, and there were nine men of that crew standing on the top row in a wind, and an old man of seventy with a brush he had been holding since before she was born.
 
 “Cause,” he said.
 
@@ -50,7 +50,7 @@ Nobody in that burial ground said anything at all, and there was a wind, and the
 
 “Eight days ago two officers of the maintaining members came up the stair of our quarters with an instrument for an examination of crew effects and I refused to consent to the examination of my bunk, and I refused it aloud, and they honoured it.”
 
-She said it in the voice she used for tallies. She had been told in the autumn that this was the voice she used when she was reading tallies to eleven women who did not want to hear them, and she used it now in front of eleven men who very much did not want to hear it.
+She said it in the voice she used for tallies. She had been told in the autumn that this was the voice she used when she was reading tallies to eleven women who did not want to hear them, and she used it now in front of nine men who very much did not want to hear it.
 
 “They did not come for the plate. I know that they did not come for the plate, and they told me so while they were packing up, and I want that said at this burial so that nobody repeats afterwards that they came for my goods.”
 
@@ -124,7 +124,7 @@ Afterwards they put her on the north step of the Hall with the board of the regi
 
 She wrote with her left hand.
 
-It came out in the ugly slanting way a left hand writes and it took her about four minutes to do the two names and it took her about eleven minutes to do the rest of it, and there was a clerk sitting at a table four feet away who did not read over her shoulder and who offered her the brush twice, because it is a bad brush and a clerk knows it is a bad brush.
+It came out in the ugly slanting way a left hand writes and it took her four minutes to do the two names and it took her the better part of an hour to do the rest of it, and there was a clerk sitting at a table four feet away who did not read over her shoulder and who offered her the brush twice, because it is a bad brush and a clerk knows it is a bad brush.
 
 *Entered on the twenty-second day at the burial hour by Ning Yan, maintaining member of Qinghe: that Cao Lei and Xu An, of the Qinghe furnace crew, were ended on the second night hour of the twenty-first day beneath a slag beam on the settling floor, in work doubled upon them by the order of the floor foreman, upon the settling floor of this sect, where the strength required is six and the strength posted is four;*
 
@@ -164,7 +164,7 @@ The clerk with the broken finger looked at it and then at her.
 
 He did that. He put the corner of it under the cover of the tithe book at the side nearest the hand that writes, and it sat there with the three seals showing.
 
-That is what she wanted. In about nine weeks a clerk at the quota office will open that book on a third evening and count four and a half hours against a member, and there will be a piece of county paper under his wrist telling him what the four and a half hours are for.
+That is what she wanted. In about nine weeks a clerk at the quota office will open that book on a third evening and count nine hours against a member, and there will be a piece of county paper under his wrist telling him what the nine hours are for.
 
 “Enter the reason,” she said. “In your own hand. On my line.”
 
@@ -186,7 +186,7 @@ He wrote it. *Member on schedule.* Four words in a clerk’s hand against the tw
 
 ## Nine Hours
 
-She went down on the cold end at the ninth hour of the night because the frost had put a skin on the melt water and the channel was skinned over and a skinned channel does not run and a skinned channel has to be opened, and because there was a foreman who had signed a shoring at the seventh hour and eleven men on a floor and about seven hundred hours in a book a hundred feet and eleven steps away.
+She went down on the cold end at the ninth hour of the night because the frost had put a skin on the melt water and the channel was skinned over and a skinned channel does not run and a skinned channel has to be opened, and because there was a foreman who had signed a shoring at the seventh hour and nine men on a floor and about seven hundred hours in a book a hundred feet and eleven steps away.
 
 There were five men in the hole.
 
@@ -200,13 +200,15 @@ The foreman had put five, which was one more than he had put four, and he had pu
 
 She worked the channel for four hours with her left hand on the rail and the crack open and the cold stripe along her ribs, and she got eight bad minutes in the hour down to seven, and she did not look up once after the first ten minutes, because a woman on a cold end looking up is a woman on a cold end counting the hours to the close of the thaw.
 
+Down at the wash house the girl of twenty-four had her leg in a splint made of a lath and a piece of cord, because that was what there was, and she would be off the settling floor for the rest of the season, and the difference would be taken out of a household that was not hers.
+
 At the second hour a boy came up the track from the burial ground with a slate and a lamp and asked whether there was anything at the bottom of the ground that belonged to the quarters, and said that the old man with the board had sent him, and said it in the voice of a boy who has been sent.
 
-“Six and eight,” said Ning Yan. “Cao Lei’s were six and eight. They are not in his kit bag and they are not in the quarters. He will have had them in a coat on the plank, and the coat has been on the plank a day.”
+“Six and eight,” said Ning Yan. “Six and eight a week is his wage, and there are thirteen weeks of it on that slate and not one of them has been drawn. Count them off and give me the sum.”
 
 She stopped.
 
-The coat was on the plank in the settling hall. There were men in that hall going through the things of two men who had been on a floor, and there were men paid to do it, and a wage slip in a dead man's pocket is not money. It is an unclaimed quarter of a furnace-crew year and it goes down a column, and the column on that coat was his father’s, and his father was unsettled, and an unsettled column takes anything unspent that comes near it.
+The coat was on the plank in the settling hall. There were men in that hall going through the things of two men who had been on a floor, and there were men paid to do it, and a wage slip in a dead man's pocket is not money. It is an unclaimed quarter of a furnace-crew year and it goes down a column, and the column on that coat was his father's, and his father was unsettled, and an unsettled column takes anything unspent that comes near it.
 
 “Take this down to the old man,” said Ning Yan. “Tell him a quarter’s wage came off that coat and went into the furnace column of the father and that I will get it back out with my own hand in the morning, and tell him nobody is to open that coat tonight.”
 

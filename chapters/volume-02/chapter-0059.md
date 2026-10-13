@@ -12,7 +12,7 @@ She went down. Nine steps on a left hand that had held a rail since the sixth da
 
 The yard was doing the ordinary morning. Coal at the furnace mouth. The washing crew out at the trough before the light because they were always out at the trough before the light. Forty feet of dressed oak lying in three pieces along the street where the Hall's roof used to be, squared and counted and stacked, because timber is timber.
 
-Nobody stopped her. That was the thing she noticed and did not enjoy noticing: eleven hundred people in this sect, and not one of them asked her where she was going, and every one of them turned a fraction to watch her do it.
+Nobody stopped her. That was the thing she noticed and did not enjoy noticing: eleven hundred people in this sect went on with the morning around her as though she were weather, and every one of them turned a fraction to watch her do it.
 
 ## The Barrier
 

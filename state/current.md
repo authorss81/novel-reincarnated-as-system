@@ -11,14 +11,15 @@
   document that lets her advance at all, or she stays a servant with a god in her head for the
   rest of her life.*
 - **Point of view:** close third on Ning Yan; every line Yuan speaks is written in the present tense.
-- **In-world date:** the twenty-second day of the thaw; first hard frost back after the melt;
-  the Lowwater road open for market on cleared days; spring rain still ahead.
+- **In-world date:** **day 22 of the winter**. The thaw began on day 18, so this is the **fifth day
+  of the thaw**; first hard frost back after the melt; the Lowwater road open for market on
+  cleared days; spring rain still ahead.
 
 ## Volume 2 Batch 0006 — acceptance check, card by card
 
 | Card requirement | Status |
 | --- | --- |
-| Fourteen chapters, one scene per card, in card order | **done** — 59–72, 30,000–35,000 words total |
+| Fourteen chapters, one scene per card, in card order | **done** — 59–72, 35,700 words total |
 | Batch goal: the name of the document, two of three legs, two funerals | **done** — licence named ch 61, seal leg ch 62, clearance priced ch 69, Cao Lei and Xu An buried ch 72 |
 | Batch midpoint (ch 65–66): inspectors, refusal before witnesses, roster taken | **done** — ch 65 the friends claim the shift aloud and she refuses at the eighth hour; ch 66 the second refusal in the doorway and the roster is taken |
 | **Irreversible decision (ch 66), hers, costing two lives at ch 71** | **done** — she had four moves available and used none of them, including *take me instead* |
@@ -37,8 +38,9 @@
 against chapters, and ch 58 is day 9. Batch 0006 therefore runs **day 10 (ch 59), day 11 (ch 60),
 day 12 (ch 61 and 62), day 14 (ch 63), day 15 (ch 64), day 16 (ch 65 and 66), day 17 (ch 67),
 day 18 (ch 68, thaw begins), day 19 (ch 69), day 20 (ch 70), day 21 (ch 71, night),
-day 22 (ch 72, burial).** The in-world date at the end of the batch is the twenty-second day of
-the thaw. Ch 71's deaths are dated to the twenty-first day in the burial register entry at ch 72.
+day 22 (ch 72, burial).** The batch ends on **day 22 of the winter**, which is the **fifth day of
+the thaw** — *not* the twenty-second day of the thaw. Ch 71's deaths are dated to the twenty-first
+day in the burial register entry at ch 72.
 
 **Canon change 7 — the plate clause has a clock.** The sponsorship requires the plate
 *within the week of signature* (ch 48 wording, ch 56 schedule). Signed on day 5, that fell due at
@@ -47,18 +49,21 @@ a deadline instead of a scene about a trap, and the clause is now two days overd
 **It is not resolved in batch 0006.** It stays in the sponsors' hands as an unspent weapon for
 Volume 3 and later.
 
-**Canon change 8 — the two crew friends have surnames from ch 59.** They are carried as **Cao Lei**
-and **Xu An** — surnames only, no given names, for forty chapters — and are **named in full for the
-first time at the burial in ch 72**, in the register entry she writes. This is consistent with the
-outline's "they stay unnamed" and is the only place either name is spelled out. **Do not use either
-name again.**
+**Canon change 8 — the two crew friends carry surnames from ch 59.** They are **Cao Lei** (22)
+and **Xu An** (26), surnames only, and they are named on the page in **nine chapters** — 59, 60,
+64, 65, 66, 67, 69, 71 and 72. Neither given name is ever spoken; the burial register at ch 72 is
+the only document that spells either out in full. The outline's "they stay unnamed" is satisfied in
+the sense that matters — **no one ever says their given names aloud, and after ch 72 neither
+surname may be used again.**
 
 **Canon change 9 — the quota office.** `outline/volume-02.md` and `bible/characters.md` do not fix
 where Shen Xiu's quota office is. Placed at the back of the furnace building with one window and
 four tables, with an anteroom of four benches in front of it, and **a frame on its back wall
 holding twelve unsigned sheets.** That frame is the one the tithe clerk described at ch 64; she
-sees it at ch 69 and enters it in the log in wash code. **Who wrote the twelve sheets is deliberately
-unexplained for the whole run.** The one on hours is held for Volume 7.
+sees it at ch 69 and enters it in the log in wash code. **Two of the twelve are written in the
+roundhouse hand — Captain Lu Tao's hand, off the `Ning Yan. Held.` line on his own barrier board.
+That is the real plant and it is recorded in the log, not just on the page.** Who wrote the twelve
+sheets is deliberately unexplained for the whole run. The one on hours is held for Volume 7.
 
 **Canon change 10 — the tithe clerk is a minor character with a position.** Three planks, four feet
 from the furnace mouth, a brush cut flat, a broken finger set an inch too long, a worse cough than
@@ -83,17 +88,26 @@ and bars any Foundation petition without relicensing.
 
 - **Ning Yan** — seventeen, **Condensing stage 1**, aperture cracked through and stabilised as a
   mouth. Right arm about a third of the time on an eleven-minute window; a cold stripe along the
-  left ribs from leaking through the crack. Maintaining member; still in the second bunk; the quarters
-  **sleep ten**. Wearsthe Clay Tablet; log in the coat lining, now also holding Clause Four, the
-  refusal wording, the burial entry and the frame of twelve sheets; iron token in the same coat,
-  unwanted. **Eight hundred jin stands on the Chosen One, buyer named (Hou Sanliang), two of three
-  proofs worked.** **729 hours of tithe outstanding.** Has filed **once** and been refused.
+  left ribs from leaking through the crack. Maintaining member; still in the second bunk; the crew
+  is **nine men** and the quarters sleep ten. Wears the Clay Tablet; log in the coat lining, now
+  also holding Clause Four, the refusal wording, the burial entry and the frame of twelve sheets;
+  iron token in the same coat, unwanted. **Eight hundred jin stands on the Chosen One, buyer named
+  (Hou Sanliang), two of three proofs worked.** **729 hours of tithe outstanding**; nine of them
+  signed in her own hand. Has filed **once** and been refused. **A sheet with her name written in
+  the wrong order is in an office's file and a clerk reproduced the error at her request (ch 61).**
 - **Yuan** — Voice. Settlement **unchanged since ch 58**, past two-thirds, ~17 weeks. **Ledger's
   price has been stated aloud and not paid.** Useless and honest about it at ch 71. **Refused to
-  soften the beam; she overrode him at ch 72.**
-- **Cao Lei (22) and Xu An (26)** — **dead, buried, named in the register. Do not use again.**
-- **Cao Lei's unclaimed quarter-year wage** — about to go down his dead father's unsettled furnace
-  column; she has gone down at the ninth hour with her own hand to get it back out.
+  soften the beam; she overrode him at ch 72.** **He withheld the entered-act arithmetic at ch 63
+  and gave the whole of it once, at ch 68.**
+- **Cao Lei (22) and Xu An (26)** — **dead, buried, named in the register. Do not use either name
+  again.**
+- **The girl of twenty-four on the cold end** — broken leg from the same beam, ch 71. Splinted with
+  a lath and a cord at the wash house; off the settling floor for the season; the difference is
+  charged to a household that is not hers. **She is the one who heard the gate man ask where
+  Ning Yan sleeps, and she is the reason ch 72 knows he has got nothing yet.**
+- **Cao Lei's unclaimed quarter-year wage** — six and eight a week, thirteen weeks undrawn, about
+  to go down his dead father's unsettled furnace column; she has gone down at the ninth hour with
+  her own hand to get it back out.
 - **Du Hong** — alive, in Lowwater, at the tower, being noticed for it. Still carrying her hand in
   his file.
 - **Feng Lushi** — has the four county copies walled behind the fifth item; entered none upward.
@@ -101,8 +115,9 @@ and bars any Foundation petition without relicensing.
 - **Shen Xiu** — gave her the figure and nothing else. Holding the quota books. Unforgiven.
 - **The three sponsors** — hold her seal, the schedule, the nine-household book and the unspent
   plate clause. Say nothing.
-- **Captain Lu Tao** — `Ning Yan. Held.` in his own hand. Says he has a name on a gate who is
-  asking for her at the gate.
+- **Captain Lu Tao** — `Ning Yan. Held.` in his own hand on his own board, no order on it. He does
+  not appear again after ch 59. **His roundhouse hand is two of the twelve unsigned sheets in the
+  frame on the back wall of the quota office, ch 69, and she writes that fact into the log.**
 - **Captain's man at the gate (unnamed, about fifty, grey at the temple)** — has the place and the
   carriers' papers question asked for and unanswered. Wants the third proof.
 - **Hou Sanliang** — named at ch 67 as a creditor. **Not yet met, not yet named to her face.**
@@ -113,13 +128,43 @@ and bars any Foundation petition without relicensing.
 
 - **Log additions this batch:** Clause Four and the three legs (wash code); the hours standing of
   729 and Shen Xiu's spring; the refusal wording in full with the county named; the frame of twelve
-  unsigned sheets at the quota office, now that she has seen it.
+  unsigned sheets at the quota office, **including that two of them are in the captain's roundhouse
+  hand**.
 - **Layer brackets:** **one in the whole batch**, ch 71, the two deaths. None anywhere else. There
   is no breakthrough in this batch and none was invented.
 - **Titles:** 59 The Closed Pass, 60 The Second Bunk, 61 The Licence Clerk, 62 The Price of Paper,
   63 The Lowwater Market, 64 The Furnace Tithe, 65 Bunk by Bunk, 66 The Inspectors' Paper,
   67 Ash and Hours, 68 The Bounty Man, 69 The Quota Table, 70 The Refusal Filed,
   71 The Left Hand's Work, 72 Two Names in the Entry. All unique against the 58 Volume 1 titles.
+
+## Volume 2 batch 0006 review repair — historical note
+
+Repaired against `logs/volume-02-batch-0006.review.log`. **The batch was not restarted and the
+planned plot was not changed**: no title, no chapter order, no card beat, no ending. What moved:
+- **Ch 60 no longer foretells the climax.** The line handing the reader the two deaths eleven
+  chapters early is gone; ch 60 now closes on the sky and on the fact that none of the four versions
+  of her in the square has the shape of what happened in that room.
+- **The entered-act arithmetic is given once, at ch 68.** Ch 63 now has Yuan *fail* to give it and
+  say why — it cannot come out of a ledger, it comes out of a man asked in daylight in front of
+  witnesses, and he will not say it from above a crowd. Ch 68 keeps the full reveal untouched.
+- **The crew headcount decrements.** Nine men after the deaths, in ch 71 and ch 72 and the state
+  files. The eleven/eleven/fourteen of the accident itself are unchanged and are correct.
+- **The ch 66 hour contradiction is fixed** (tenth hour, not second hour) and the ch 72 register
+  entry agrees.
+- **The hours she has entered with her own hand reconcile** across ch 64, 65, 67 and 72: a
+  four-and-a-half-hour shift, two of them, nine hours in the tithe book.
+- **The ch 69 sheet count is twelve** and the ch 69 clearance arithmetic closes: her 729 is the whole
+  of her obstacle, and the book's 611-hour gap is on five estates that are not hers.
+- **The ch 63 date contradiction is fixed**; the ch 65 roster paragraph is gone and the rule is
+  sourced to the quarters, not to a book; **the ch 60 folded sheet is paid off in ch 61**.
+- **The third casualty is carried into ch 72** and into the state files.
+- **The voice is repaired to close third** throughout: five authorial-summary breaks removed, the
+  ch 55 proof definition no longer restated three times in ch 63, and the "she wants that written
+  down" construction cut from all three of its appearances.
+- **Numeric tics reduced** — "about four seconds" 17→7, "second and a half" 7→5, the verbatim
+  repeated sentence in ch 69 removed.
+- Known trade-off: **ch 71 and ch 72 are 3,015 and 3,157 words** and were left long rather than cut,
+  because the added third-casualty beat is load-bearing for the next batch.
 
 ## What batch 0007 must not do
 

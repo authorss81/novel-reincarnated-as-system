@@ -18,6 +18,24 @@ Xie Shuo had read a record in a building with no roof and entered one word in it
 
 His brush stopped. He did not look up and he did not look at the stairs, and she understood that he had done both of those things on purpose and had been practising.
 
+She put the folded sheet down on the table in front of him and kept her hand flat on it.
+
+“Where did this come from.”
+
+“I did not put it there,” he said. “It was on this table at the fifth hour and it has been on it every morning since, and on the day before yesterday it was on the Hall table at the west end with the queue papers under it.”
+
+“Whose hand is that.”
+
+“A copyist's. It is not a hand that writes names. It is a hand that writes down what it has been given.”
+
+“Then give it something. Write my name.”
+
+He took a slip out of the tray and squared it and wrote three characters on the top of it, and then he turned it round.
+
+They were in the wrong order.
+
+“So,” said Ning Yan.
+
 “Yes,” he said.
 
 ## What She Came For
@@ -128,7 +146,7 @@ She put that away without moving her face.
 
 “Hours.”
 
-The whole room went cold in about four seconds, and it was not the open sky.
+The whole room went cold at once, and it was not the open sky.
 
 “It is counted in hours,” said the clerk. “Your household’s hours against the year. Every hour worked in the furnace crew counts to the household and comes off the year, and the household is square when the hours worked are equal to or greater than the hours asked. And the hours asked for this year are in a book in the quota office and I have never seen it.”
 

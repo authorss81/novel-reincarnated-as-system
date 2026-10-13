@@ -70,7 +70,7 @@ Nowhere near cold, in a building with no roof, at the sixth hour of the evening,
 
 “Then what has come due is not an article.” She heard her own voice do the thing it did and she let it. “What has come due is the clause. And the clause is on your paper. And the denial is on your paper. And both of them are in the same file in the same building, and you have built that, and I have helped you build it, and I did it in the same hour.”
 
-Nobody said anything for about four seconds, and one of the braziers moved in the wind.
+Nobody said anything at all for long enough that one of the braziers moved in the wind.
 
 ## The Bargain She Watched Herself Do
 
@@ -110,7 +110,7 @@ Which it had been, and the day before which it had been made, was the day the sc
 
 Lu Kang took out the seal. He did it without hurry and without ceremony, the way a man picks up a thing he has used ten thousand times, and he pressed it on the lower right of the sheet, and he held it there for a count of four because that is how long a good ink takes, and lifted it, and set the seal beside the ink block.
 
-She watched the whole thing. She had wanted that document for four days and it was eleven paces long and it had taken four seconds to make and it was now a thing in the world that could not be un-made.
+She watched the whole thing. She had wanted that document for four days and it was eleven paces long and it had taken one press of a seal to make and it was now a thing in the world that could not be un-made.
 
 “You have your part,” he said.
 

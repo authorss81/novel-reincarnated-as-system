@@ -22,7 +22,7 @@ He did not look up when she came in. He had looked up in the autumn at a rail by
 
 He was working. That was not an insult and she had known for about ninety seconds that it was not, and she had known it before she had got through the door, and she had come anyway.
 
-The room filled up the way a room fills: a boy at the fourth table with a bad cold, a woman from the washing crew with a folded paper, a man of about sixty who put his hands flat on the table to stand up. They did not look at her. That was a thing she had not expected and it turned out later to be the single most useful half hour of her winter.
+The room filled up the way a room fills: a boy at the fourth table with a bad cold, a woman from the washing crew with a folded paper, a man of about sixty who put his hands flat on the table to stand up. They did not look at her. That was a thing she had not expected, and sitting in a room where nothing was being done to her turned out to be the single most useful half hour she had had that winter.
 
 She had spent four months being looked at by rooms. Eleven hundred disciples, forty in a yard, nine hundred and eleven at a hearing, and every single time the looking had been the work: a thing done to her, or a thing being asked of her, or a thing she was standing in the middle of.
 
@@ -44,7 +44,7 @@ She had heard about them from a clerk with a broken finger at a table four feet 
 
 The sixth one was the one about hours. She read it again from four feet away in the bad light through the window and it said exactly what the clerk had said and not one word more.
 
-The other eleven she could not read. Not because of the light. Two of them were in a hand that had been taught letters in a roundhouse and eleven were in four different hands and none of them had a signature on them, and one of the eleven was about something she did not have a name for, and one appeared to be a list of names.
+The other eleven she could not read. Not because of the light. Two of them were in a hand that had been taught letters in a roundhouse and nine were in four different hands and none of them had a signature on them, and one of them was about something she did not have a name for, and one appeared to be a list of names.
 
 Four of the twelve were about households she had never heard of, and the dates on two of those were eleven years apart.
 
@@ -52,7 +52,7 @@ She looked at it for a long time and then she took the docket out of her left sl
 
 She wrote it standing up, at the back of a bench, in grey close weather with the melt running off the eaves and no sun anywhere in it.
 
-*Twelve sheets in a frame at the back of the quota office. Unsigned all twelve. One of them is the hours sheet and eleven are not. Two have eleven-year spacing on households I do not know. I have now seen this.*
+*Twelve sheets in a frame at the back of the quota office. Unsigned all twelve. One of them is the hours sheet and eleven are not. Two are in the roundhouse hand of the captain at the fourth bridge and nine are in other hands. Two have eleven-year spacing on households I do not know. I have now seen this.*
 
 ## The Figure
 
@@ -90,15 +90,15 @@ She sat on the corner of the bench behind him, which was not a seat for the publ
 
 He did not say anything else about it. He picked the brush up again.
 
-“Quota clearance certifies that a household owes nothing to the Bureau for the year, and that the winter book is square. It is two things and both of them are numbers. When your household's worked hours equal your household's asked hours and the household owes nothing and the winter book is square, the certificate is written and I sign it and it is a stamp and it takes a clerk a quarter of an hour.”
+“Quota clearance certifies that a household owes nothing to the Bureau for the year and that the winter book closes square. It is two things and both of them are numbers. The first is your line: your household’s worked hours level with your household’s asked hours at the close of the year. The second is the book, and the book closes square when every estate standing on it is level or accounted for, and that half is mine and has nothing whatever to do with your arm.”
 
 “And the winter book is not square.”
 
-“It is six hundred and eleven hours short of square on the ninth estate alone,” said Shen Xiu. “It is short on five estates, and I have three clerks, and one of them has a hand that will not be right until the frost goes.”
+“It is out by six hundred and eleven hours,” said Shen Xiu. “Not on the ninth estate. On five estates that are not yours and that I am not going to discuss with you on a bench. Those five are the reason I have not had a free hand on the closing since the sixth day, and they will be level or accounted for before the year turns, because that is the entire of what I am for.”
 
-He put the brush down, which he had not done for any of the forty other people in that room.
+He squared the sheet.
 
-“I will tell you the thing you have come for and then I will tell you what it is not, and then I will not say anything else about it, because I have a book to close.”
+“I will tell you what you can put a date on and then I will tell you what it is not, and then I will not say anything else about it, because I have a book to close.”
 
 “Go on.”
 
@@ -124,7 +124,9 @@ He turned the sheet a quarter.
 
 He turned the sheet a half.
 
-“I will tell you what I can put a date on. The hours have to be worked. That is the furnace and the settling work and whatever else is on a crew's schedule between now and the close of the thaw, and that is between nine hundred and forty and about six hundred more than you can put in with one arm, and I have not adjusted the asked figure for your arm and neither can you and I will not.”
+“I will tell you what I can put a date on. The hours have to be worked. That is the furnace and the settling work and whatever else is on a crew’s schedule, and this is the sum of it: seven hundred and twenty-nine hours.”
+
+“Twenty-three days of thaw will not do it. There is the spring behind the thaw and that is where the certificate is, and a stage one with a dead arm on a furnace floor is not the man who gets through those hours fastest. And I have not adjusted the asked figure for your arm and neither can you and I will not.”
 
 “Then adjust it.”
 
@@ -142,7 +144,7 @@ She sat on the corner of a desk a mile from where she was entitled to be standin
 
 “Then spring,” said Ning Yan.
 
-“Spring,” said Shen Xiu. “If you work every shift between now and the close of the thaw, and the book does not come in short, it is the middle of spring for the certificate and the first week of the summer for the county to receive it, and the county is at Lowwater and eleven days of road, and I have never in nineteen years known a county to move faster than the season.”
+“Spring,” said Shen Xiu. “If the hours are worked between now and the close of the thaw and the rest of them worked after it, and my five estates are level or accounted for before the year turns, it is the middle of spring for the certificate and the first week of the summer for the county to receive it, and the county is at Lowwater and eleven days of road, and I have never in nineteen years known a county to move faster than the season.”
 
 He put the brush in the rack.
 

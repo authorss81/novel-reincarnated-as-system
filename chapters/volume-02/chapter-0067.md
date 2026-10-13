@@ -102,13 +102,11 @@ A man down at the bottom of that hill holding paper on three of the nine househo
 
 ## What She Did
 
-She looked at the tray for about four seconds and then she looked at the clerk, and the clerk was counting.
+She looked at the tray long enough to read it three times and then she looked at the clerk, and the clerk was counting.
 
 He was going along the ninth sheet with his brush, saying the numbers out, and he would be at the end of them in about two minutes, and then he would square the stack and put it on the left, and then he would put the tray back under the desk, and the paper on top of the tray would go with the tray to wherever a paper goes at the end of a day, and he would not know that it had been read.
 
-Nothing in the world asked her to do anything.
-
-That was the part that sat badly afterwards. There was no bell. There was no sentence coming round inside her chest.
+There was no bell. There was no sentence coming round inside her chest, and she had spent four months being told there would be.
 
 There was a piece of paper four inches from her left hand and a clerk counting out loud and about two minutes of the room's attention in the wrong place. She could have taken it. She could have asked the young man at the next table to carry a message up to a captain of the Watch on the barrier of the fourth bridge, and it would have been in the square at Lowwater by the noon hour tomorrow.
 
@@ -132,7 +130,7 @@ She did not do any of those things.
 
 “It is anybody else's sheet,” said Ning Yan. “That is the point of it.”
 
-He entered it and squared the stack and put it on the left, and then he put the tray back under the desk with the top of it showing, because the top of it always shows, and he said, “Nine hours and a half this week. The sheet goes to the quota office on the third evening and the clerk up there is slower than me.”
+He entered it and squared the stack and put it on the left, and then he put the tray back under the desk with the top of it showing, because the top of it always shows, and he said, “Nine hours this week. The sheet goes to the quota office on the third evening and the clerk up there is slower than me.”
 
 “Thank you,” said Ning Yan.
 
@@ -142,7 +140,7 @@ He entered it and squared the stack and put it on the left, and then he put the 
 
 ## What She Took Up the Stair
 
-She went up the stair to the crew quarters with the cold on her and eight and a half hours in a week in a book a mile away that she had not asked for and could not stop, and above her for the rest of the night there were two men on a settling floor being cheerful about a song.
+She went up the stair to the crew quarters with the cold on her and nine hours in a week in a book a hundred feet away that she had not asked for and could not stop, and above her for the rest of the night there were two men on a settling floor being cheerful about a song.
 
 She did not write it in the log. There was a line she could have put in — *the creditor on three of the nine is Hou Sanliang of Lowwater and his paper cites the maintaining members' schedule by name* — and she looked at the coat lining and did not write it, because she had read a paper upside down over a clerk's tray while he counted, and that is not a thing you can defend in four years with a pen.
 
@@ -162,6 +160,6 @@ She stood on the fourth step of nine with her hand on the cold rail and her righ
 
 It was going to be a name at the end of it, and she had known for eleven days what the end of a name like that looks like, and she had not once let herself finish the sentence about who would be standing nearest it.
 
-Four and a half hours. Nine and a half. The spring.
+Four and a half hours. Nine hours. The spring.
 
 She went up the rest of the stairs and did not say one word to either of them about any of it.
