@@ -69,6 +69,7 @@ Read `state/current.md` § *The protagonist, answered in writing* before writing
 - **The scene is on a card. The chapter is ch 272, *The Man the Board Keeps*. What it is about, in one sentence:** away from her hearing, in the layer's own reading-space where something walks a row once a day and looks at him, Yuan lets a far-side keeper's hand enter him as a readable line so that her hours hold — and from that hour an office past the line can read him without her.
 - **What the scene costs him, in advance, the way Volume 4 named the finger in advance:** his unentered state, and the date of the morning he died. He keeps the apology and loses the day it happened on. From ch 272 he can be read from outside the bound without her, which is the first step toward being findable — what `outline/ending.md` §1 needs when he has been doing the readable thing on purpose since Volume 14, what the Court stage needs when the Scribe finds him, and what the fall needs, because a man the reader has never seen in a room cannot carry a fall. **It is something of his, and something the ending still needs.** He has already paid the finger and the foundation through her; this one comes out of him.
 - **What may not happen:** the close may not re-frame ch 179–238, may not re-title Volume 4, may not introduce a new final enemy, and may not take anything Volume 5 owns — the family account, Ning Wu's decade, the four months erased in Chapter 3, the bargain and the fall. The Scribe is fixed in `outline/ending.md` and belongs to Volume 15, and Volume 5 must not touch it.
+- **The four months erased in Chapter 3 are Volume 5's to carry and not to name.** `outline/ending.md` §8 is fixed and is the authority: **they are named once, in the final chapter, as a loss that is never recovered and is not forgiven.** Volume 5 carries them in the body — in the base that went out from under her in Chapter 3, and in the four weeks every foundation costs her — **and does not name them, in narration, in dialogue, or on any card.** The Volume 4 close recorded them among Volume 5's own things (`outline/volume-04.md`, `state/current.md`, `state/open-threads.md`); that reading is corrected here against `outline/ending.md`. Naming them twice makes the ending's absolute false, and the close review's rule is that absolutes in this book are literal. See *Repaired at the Volume 5 planning re-run*, below.
 - **What Volume 5 must carry unchanged:** close third on Ning Yan for every external scene; every sentence Yuan speaks in the present tense, and no other character ever in a marked present frame, with the standing ch 57 exception about completed third-person events.
 
 ## The three structural facts this volume inherits, and must not re-derive
@@ -81,7 +82,7 @@ Read `state/current.md` § *The protagonist, answered in writing* before writing
 
 **Foundation 9 is the top of the second realm and there is nothing above nine anywhere in the world.** `outline/series.md` §4 puts **Golden Core 1–9 in Volumes 4–6**, and the gain is **a furnace of her own** and the cost is **she becomes the kind of person the furnace was built for.** `bible/power-system.md` once put Golden Core in Volumes 4–5; the manuscript put all nine Foundations in Volume 4, so **Volume 5 is where Golden Core starts, and it starts here.**
 
-**Golden Core 1 → 3 across sixty chapters, in about five months, day 470 to about day 620.** Real stages. Real months. Real costs. No skipped breakthrough. No tribulation — no trial of any kind is drawn in this shape of book. **The first interval is the longest, at fifty days, because that stage is bought out of a season of far-side wages before it is bought out of anything else; the two after it are even, at forty-four days each, because a furnace gets heavier to carry and the ground does not get easier.** Every stage takes something out of her that does not come back, and every one of them is built out of far-side wage-work, materials bought at far-side prices, and a body with four fingers on one hand.
+**Golden Core 1 → 3 across sixty chapters, in about five months, day 471 to about day 620.** Real stages. Real months. Real costs. No skipped breakthrough. No tribulation — no trial of any kind is drawn in this shape of book. **The first interval is the longest, at fifty days, because that stage is bought out of a season of far-side wages before it is bought out of anything else; the two after it are even, at forty-four days each, because a furnace gets heavier to carry and the ground does not get easier.** Every stage takes something out of her that does not come back, and every one of them is built out of far-side wage-work, materials bought at far-side prices, and a body with four fingers on one hand.
 
 | Stage | Chapter | Day | Interval | What it costs, on the page |
 | --- | --- | --- | --- | --- |
@@ -106,7 +107,7 @@ Read `state/current.md` § *The protagonist, answered in writing* before writing
 
 - **Past the boundary is ordinary country**, settled, farmed, lit: a trestle with a book, a fire under it, eleven men, a building with a stove and six men, a post with a nine-year column, a counter where a claim can be read aloud. Volume 6 owns what the real realm is; **Volume 5 owns only that this reach of it is somebody's ordinary country and that she must finish her books in it.**
 - **The road west is closed for the season at the close of Volume 4** and reopens in Volume 5's second batch — nine days of hard road, a carrier's round with no date on it, then a county that can no longer hear her. **Going back inside is legal and unremarkable; it is the paperwork, not the road, that stopped at the boundary, and now there is paperwork on both sides of it.**
-- **She works the far reach from day 470 to about day 620** — the rest of one season and the start of another — at five coppers a day, bread from a store, no share in any cook-fire, materials bought out of wages she has had to rebuild since the crossing.
+- **She works the far reach from day 471 to about day 620** — the rest of one season and the start of another — at five coppers a day, bread from a store, no share in any cook-fire, materials bought out of wages she has had to rebuild since the crossing. **Ch 238 closed on day 470 and ch 239 opens on day 471; Volume 5 Batch 0001 ends on day 506 and Batch 0002 opens on day 507.**
 - **Inside the bound, going on without her is also on the page**, once per batch and never more: the crew, the wash house, the tower with a light in it, the counting room with a date in it — people doing the only thing they are built to do, nine days west, out of her reach.
 
 ## Major factions and faces
@@ -129,7 +130,7 @@ Volume 4 ran ration and silence · hiring, the road and whose book an hour goes 
 | --- | --- | --- | --- |
 | 0001 | 239–252 (14) | **keeping and being kept** | the far-side wage-book that already holds her; the claim read aloud standing in a room that can act; ordinary country that asks nothing; Feng's stair still carrying |
 | 0002 | 253–267 (15) | **debt coming due** | the claim's second movement begins; the road west reopens and a draft goes west; Golden Core 1; Feng's fair Foundation copy past the line; the surface answer paid, at ch 267 |
-| 0003 | 268–283 (16) | **family paper** | Ning Bo's account, Ning Wu's decade made reachable, the register still *reconciled*, the four months erased in Chapter 3 named once; Yuan's sustained scene at ch 272; Golden Core 2 |
+| 0003 | 268–283 (16) | **family paper** | Ning Bo's account, Ning Wu's decade made reachable, the register still *reconciled*, the four months erased in Chapter 3 carried and not named; Yuan's sustained scene at ch 272; Golden Core 2 |
 | 0004 | 284–298 (15) | **ash and leaving** | the furnace of her own finished and paid for; the claim answered and the date torn off; Golden Core 3; mortal ash; what leaving costs and who acts |
 
 **No two consecutive batches run the same pressure.** None of them is an audit, an examination, a hunt, a signature, a ration, a hiring, a tending or a crossing, and none of them is a confinement.
@@ -188,12 +189,12 @@ The furnace, the claim, the third stage, and the leaving.
 - **Golden Core 3 reached (ch 292)**, taken at her own order on the far side where nothing is announced. Three stages in five months, real intervals, real costs, no skipped breakthrough, no tribulation. **The paper still says Foundation the first stage and she has never touched it.** What finishing a realm past the world's ceiling looks like is a furnace of her own and a person the furnace was built for.
 - **The surface answer paid (ch 267, Batch 0002's close):** when an announcement is heard past the line the rule is not broken — the drift carries it — and being told was never the same as being charged. Said once, in a worker's mouth, in short sentences. **Pinned once, here and in both Batch 0002 rows below, and nowhere else in the volume.** The tenth part is not given and the crews are not proved wrong.
 - **The claim moved a second time and answered (ch 294–295):** first read aloud on the far side at ch 237, now taken onto the far side's own book and paid west by draft; the Lowwater date torn off by the hand that wrote it; Hou paid, patient to the end, never met. **Standing at the open, moved in the middle, answered at the close.**
-- **The family account settled (ch 296), by his doing**, at a cost to her she cannot name. Ning Bo's column closed where it can be closed. The four months erased in Chapter 3 named once, as a loss never recovered and not forgiven.
+- **The family account settled (ch 296), by his doing**, at a cost to her she cannot name. Ning Bo's column closed where it can be closed. **The four months erased in Chapter 3 are carried through this volume in the body and are not named. `outline/ending.md` §8 owns their naming and it happens once, in ch 1000, and Volume 5 does not touch it.**
 - **Ning Wu reachable and not met (ch 297):** ten years of his own put where somebody has to look at them. He does not appear. He does not forgive her; there is nothing yet to forgive.
 - **Feng's fair Foundation copy past the line (ch 262):** the unspent beat Volume 4 promised from ch 224, given a home. His stair, his hand and his quarter taken small and off page. No second Lung, no second appointment.
 - **Yuan entered (ch 272):** readable without her from that hour, date of his death-day gone, apology kept. Ledger as a standing held stage ends with this volume.
 - **Who acts at the close:** she acts (the stages, the return inside, the authorisation), he acts (the family account, the entered line), the far-side office acts (the claim, the draft), Luo Ping's hand acts (the date torn off), and the bound acts by doing nothing — nine counties hear nothing, because there is no column for it.
-- **What she is at the last page of Volume 5:** Golden Core 3, with a furnace of her own, four fingers on one hand, a licence she has never opened, a wage-book column that is hers on the far side, about weeks of channel, and sixty-two days of mortal ash on her boots.
+- **What she is at the last page of Volume 5:** Golden Core 3, with a furnace of her own, four fingers on one hand, a licence she has never opened, a wage-book column that is hers on the far side, about weeks of channel, and about five months of far-side ash on her boots.
 - **What is still open:** the Hunter's request still pending; everything above the Standing Office of the Second Account still unread; *kiln-born* still in two heads and on no paper; what became of the eleven still not raised; the register still *reconciled*; the plate still worn; the year still carrying; and whatever is past the last working point, farmed and lit, that has now started asking for her by the column that is hers.
 
 ## Final chapter image (ch 298)
@@ -239,7 +240,7 @@ Volume 6 is ***The Real Realm***, ch 299–360, goal fixed by `outline/series.md
 13. **The year of non-forgiveness resolved or still running:** **STILL RUNNING, in one sentence:** *That is not forgiveness. It is a purchase, and the account is still carrying, and it will be carrying at the end of the book.* She does not forgive him and she does not tell him to stop.
 14. **The channel, about how much and what it cost to get it:** about six weeks at the open of Volume 5; restored twice in Volume 5 by listed jobs cleared and not by killings, each share intercepted and spent out of her foundation and not coming back; about weeks at the close, said once, in weeks.
 15. **Wei Ran, whether she is on the page and what she has:** on the page as a line in Batches 0001 and 0004 — a trade, a team, a rate and an opinion, and nothing else. Nothing a romance.
-16. **Whatever Volume 5 changes about any of them:** Golden Core 1–3 taken past the line with no county paper; the claim answered west by draft; the family account settled by his doing at a cost to her she cannot name; Ning Wu's decade reachable and not met; the four months erased in Chapter 3 named once as unrecovered loss; Yuan entered and readable without her, date of his death-day gone; Ledger as a held standing ended; the surface answer paid; the tenth part still not given.
+16. **Whatever Volume 5 changes about any of them:** Golden Core 1–3 taken past the line with no county paper; the claim answered west by draft; the family account settled by his doing at a cost to her she cannot name; Ning Wu's decade reachable and not met; **the four months erased in Chapter 3 carried and not named, their naming reserved to ch 1000 by `outline/ending.md` §8**; Yuan entered and readable without her, date of his death-day gone; Ledger as a held standing ended; the surface answer paid; the tenth part still not given.
 
 ## Hard rules for the Volume 5 drafters (restated once, not twice)
 
@@ -263,6 +264,7 @@ Volume 6 is ***The Real Realm***, ch 299–360, goal fixed by `outline/series.md
 - **Do not undo MEMBER ABSENT.** It stands three times, it is permanent, the reason column is a foot and a half wide and blank, and the sheet went west for the last time this season.
 - **Do not correct the register.** It still reads *reconciled* and nothing may let it be corrected.
 - **Do not take the Clay Plate off.** It is still against her ribs. It is the object whose texture she remembers in ch 1000 and Volume 16 owns that.
+- **Do not name the four months erased in Chapter 3.** **Volume 5 carries them and does not name them.** `outline/ending.md` §8 is fixed that they are named once, in the final chapter, as a loss that is never recovered and is not forgiven. **No narration, no dialogue, no card.** They are legible on the page only as the body: a base that went out from under her, four weeks at every foundation, a furnace bought out of her own wages.
 - **Do not spend Feng's second Lung or give him a second appointment.** **Volume 11 owns both.** **What Volume 5 may take from him instead is his stair, his hand and his quarter, and it has not been established that they are still his to take — check `state/open-threads.md`.** **The one unspent Feng beat the Volume 4 audit added is available and belongs to this volume: his fair hand copying the Foundation column, and his copies going up a stair that now belongs to a district clerk and past the line into a book the far side keeps.** `outline/volume-04.md` promised it from ch 224 and Volume 4's own cards never gave it a home.
 - **Do not let anything in Volume 5 preview `outline/ending.md`.** In particular: **do not name Feng's death, do not place the Anchor, do not touch the Sisterhood, do not put the bargain on the table.** Volume 5 is the last mortal volume and it is the volume in which she is furthest from the ending and least entitled to know any of it.
 
@@ -276,3 +278,41 @@ Volume 6 is ***The Real Realm***, ch 299–360, goal fixed by `outline/series.md
 | 0004 | 284–298 (15) | ash and leaving | claim answered; Golden Core 3; mortal ash; leaving |
 
 Each batch carries its own goal, midpoint, escalation and climax, at least one scene of physical risk or a real deadline, and at least one irreversible step. The volume's irreversible decision is the far-side authorisation in Batch 0003; no batch restates it as its own.
+
+## Repaired at the Volume 5 planning re-run
+
+**This file was written once and then re-run against itself. Nothing was rewritten. Three defects were found
+and repaired here; one is recorded in `state/current.md` and is not this file's to fix. No chapter in
+Volumes 1–4 was opened and no batch card was written.**
+
+1. **The four months erased in Chapter 3 were named in Volume 5, in three places** — the Batch 0003 row of
+   the pressure rotation, *Concrete resolution*, and required fact 16 — **and that contradicts
+   `outline/ending.md` §8**, which is fixed and is the authority for the end of the book: *The four months
+   erased in Chapter 3 are named once, in the final chapter, as a loss that is never recovered and is not
+   forgiven.* **All three now read carried and not named**, and a hard rule has been added above so that no
+   drafter spends it. **Why `outline/ending.md` wins:** it opens *This file is the authority for the end of
+   the book. Nothing in it may be rewritten later in the run*, and the close review's second binding rule is
+   that **absolutes in this book are literal** — *named once* is an absolute, and naming them here as well
+   would make it false against the manuscript. **What Volume 5 loses by the repair: nothing load-bearing.**
+   Its promise is the claim, the family account, the furnace and the leaving, and none of the four runs on
+   the four months. **What it gains:** ch 1000 keeps the only naming it was ever going to get.
+2. **"sixty-two days of mortal ash on her boots"** in *Concrete resolution* was an unsourced figure. Sixty-two
+   is Feng's age and is used twice elsewhere in this file for him; the volume runs day 471 to about day 620,
+   which is about five months. **Now reads *about five months of far-side ash on her boots*.**
+3. **The volume's clock opened on day 470 in two places** (*Power progression* and *Geography*). **Day 470 is
+   where Volume 4 closed; ch 239 opens on day 471**, as `outline/batches/volume-05-batch-0001.md` pins at its
+   own clock block (Batch 0001 ends day 506, Batch 0002 opens day 507). **Both now read day 471**, and the
+   *Geography* block carries the three pins so the card file and this file cannot drift again.
+
+**Verified and left alone, having been checked rather than assumed:** the goal sentence against
+`outline/series.md` §9 (verbatim) · the Volume 4 question (verbatim from `outline/volume-04.md`) · the
+antagonist against `outline/series.md` §6 item 4, and not Volume 4's Wall and not a named villain · the
+far-side keeper as *about fifty-five* against ch 236 and the strip cadence as *about once in ten days*
+against ch 216 · the girl of twenty-four at the wash house and Feng at sixty-two against
+`state/continuity.md` · Golden Core 1–3 against `outline/series.md` §4 and the 50 / 44 / 44-day intervals
+against Foundation 9 on day 462 · the month arithmetic (day 470 the seventh, 480 the seventeenth, 490 the
+twenty-seventh, 500 the seventh again, months from day 464 and 494) against the `((day − 134) mod 30) + 1`
+rule the close review made canon · Yuan's ch 272 scene and its price against `outline/ending.md` §1 and §2 ·
+and the absence of a harem, a romance, a named weekday, a named calendar month, a second Lung, a second
+appointment, a correction to the register, a break of the ch 128 silence, a softening of the ch 150 refusal,
+a retirement of the year, or any office above the Standing Office of the Second Account.

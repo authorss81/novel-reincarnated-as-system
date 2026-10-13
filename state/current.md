@@ -278,6 +278,75 @@ Volume 5 open without it.**
 
 ---
 
+## Volume 5 planning — re-run, verified, and three defects repaired at source
+
+**The Volume 5 planning phase re-ran against work it had already completed. `outline/volume-05.md` (278
+lines) and `workspace/volume-05-batch-0001/PROMPT.md` (72 lines) were already on disk, and
+`outline/batches/volume-05-batch-0001.md` had already been written by the phase that prompt dispatched. The
+re-run therefore verified both deliverables against `outline/series.md`, `outline/ending.md`,
+`outline/volume-04.md` and the audited state files rather than rewriting them. Nothing was rewritten. No
+chapter in Volumes 1–4 was opened. No batch card was written and no second prompt was created.**
+
+**The deliverables are complete against the phase's own list.** `outline/volume-05.md` carries the title,
+the range, the goal sentence verbatim from `outline/series.md` §9, the Volume 4 question verbatim as a fact
+on the page, the antagonist from §6 item 4 and not Volume 4's Wall, the surface answer owned and bounded
+against the structural answer, the starting state read off this file, the protagonist section with the ch
+272 scene named and its price named in advance, the three inherited structural facts, a Golden Core 1–3
+ladder with days and intervals and a re-derived announcement rule, a four-batch pressure rotation with no
+two consecutive alike, the hard rules, the sixteen required continuity facts, a concrete resolution against
+the closing chapters, and a new question for Volume 6 that comes out of what Volume 5 resolves. The prompt
+carries the goal, the read-off starting condition, the relationships, the midpoint, the climax, the
+protagonist requirement and its statement that the ch 272 scene is not Batch 0001's to spend, the carry
+forward, the sizing rule, and the do-nots.
+
+### Three defects found and repaired in `outline/volume-05.md`
+
+1. **THE FOUR MONTHS ERASED IN CHAPTER 3 WERE NAMED IN VOLUME 5, AND THAT CONTRADICTS THE FIXED ENDING.**
+   The file named them in three places — the Batch 0003 row of the pressure rotation, *Concrete resolution*
+   at ch 296, and required continuity fact 16. **`outline/ending.md` §8 is fixed and is the authority: *The
+   four months erased in Chapter 3 are named once, in the final chapter, as a loss that is never recovered
+   and is not forgiven.*** **All three now read carried and not named**, and a hard rule was added so no
+   drafter spends it. **Why `outline/ending.md` wins:** it opens *This file is the authority for the end of
+   the book. Nothing in it may be rewritten later in the run*, and the close review's second binding rule is
+   that **absolutes in this book are literal** — *named once* is an absolute, and naming them here as well
+   would make it false against the manuscript. **Volume 5 loses nothing load-bearing: its promise is the
+   claim, the family account, the furnace and the leaving, and none of the four runs on the four months.
+   Ch 1000 keeps the only naming it was ever going to get.**
+2. **An unsourced figure.** *Concrete resolution* read **sixty-two days of mortal ash on her boots**.
+   Sixty-two is Feng's age and is used for him twice elsewhere in the same file; the volume runs day 471 to
+   about day 620, which is about five months. **Now reads about five months of far-side ash on her boots.**
+3. **The volume's clock opened on day 470 in two places.** Day 470 is where Volume 4 closed and ch 239 opens
+   on **day 471**, as `outline/batches/volume-05-batch-0001.md` pins at its own clock block (Batch 0001 ends
+   day 506, Batch 0002 opens day 507). **Both now read day 471**, and the *Geography* block carries all three
+   pins so the outline and the card file cannot drift apart again.
+
+**`workspace/volume-05-batch-0001/PROMPT.md` was given one addition:** the four-months do-not is now in its
+*Carry forward* list, so a planning model that reads only the prompt cannot spend ch 1000's beat.
+
+### One finding recorded and NOT repaired, because it is not this phase's to fix
+
+**`state/open-threads.md` line 33 gives the wrong chapter for the relicensing's third leg.** It reads
+**"Vol 4 — ANSWERED IN LEG THREE, ch 266"** and **"The answer came at ch 266 on day 266"**, where
+**day 266 is right and the chapter is not.** Canon is **ch 201** for the countersignature, delivered on the
+licence at **ch 207** — confirmed three ways: `state/current.md` close-audit row 1 (*clearance ch 198 →
+the sponsors' seal ch 200 → countersignature ch 201*), `outline/batches/volume-04-batch-0002.md` (*Leg three
+is an office's hand on day 266*, with the three legs pinned at 198 / 200 / 201), and the audit's
+*Established facts* block. **The duplication of 266 in both the chapter and the day slot is the signature of
+a stale edit.** **PROPOSED REPAIR, not made here:** in that one row, **ch 266 → ch 201**, on both
+occurrences, leaving *day 266* as it stands. `state/open-threads.md` is not a file this phase was asked to
+edit and a closed state file is not silently amended on a planning run.
+
+### A standing conflict this run should know about, recorded once
+
+**Three closed files say the four months erased in Chapter 3 are Volume 5's own thing** —
+`outline/volume-04.md` (*Volume 5's own things — the family account, Ning Wu's decade, the four months
+erased in Chapter 3*), `state/current.md` line 202, and `state/open-threads.md` line 197 — **and
+`outline/ending.md` §8 says they are named once in the final chapter.** **The reading in all three is the
+wrong one and is corrected above and at source.** `state/continuity.md` line 1629 does not make the claim
+either way; it lists the four months under *Held for Volume 5 **or later***, which is correct and stands.
+
+---
+
 ## Who is where at end of chapter 230 — VOLUME 4 BATCH 0004 FIRST HALF, CLOSED (SUPERSEDED by the block above; kept as the cold-reader record the second half opened on)
 
 **What the close audit confirmed, in one place.** `outline/volume-03.md` has been walked line by line against
