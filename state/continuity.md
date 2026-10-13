@@ -4236,3 +4236,361 @@ bold, zero blockquotes, code fences, tables or horizontal rules. **The longest p
 exactly 99 words.** The three named duplicate paragraphs (248/242, 275/258, 295/287) remain gone, and a
 paragraph-level duplicate scan returns **only the two intentional bookend pairs of the Yuan tag, at 253/267 and
 259/263.**
+
+---
+
+# Volume 6 — The Real Realm (ch 299–360), Batch 0001 (ch 299–313)
+
+## Established facts, Volume 6 Batch 0001 (ch 299–313) — READING AND BEING READ
+
+**Fifteen chapters, 24,514 words of body prose, average ~1,634, day 621 to day 645. ONE bracketed layer line, at
+ch 310. Chapter titles and section headings excluded. Drafted against `outline/volume-06.md` and against the
+fifteen cards at `outline/batches/volume-06-batch-0001.md`. Every card beat is on the page.**
+
+### The batch in one sentence
+
+She sent her column up in a box, found out that being entered as good had meant it would be read by a floor
+that never needed a bound, worked a season that is not a season because there is no book to put it in, and
+answered the question the reading produces — in daylight, out loud, one stair above a counter she had never
+been above.
+
+### The new machinery, established once at ch 300 and used after that
+
+- **A book that closes clean on the thirtieth is a finished book. It goes in a tray. The tray goes up to the
+  mill on the first cart. Every reach on that ground sends one a month.** Up the road past the store there is a
+  stair in the counting house and everything that goes up it is read against everything else that went up it.
+  **Nothing comes back down.** Five sentences from a man with a rule and a paste-pot, between two trays, at the
+  second hour of the eleventh, after one question. **No chapter after ch 300 teaches it and no mouth in the
+  batch says a box could stay.** The break is ch 344, Batch 0003's, and nothing here foreshadows it.
+- **The mill** is a working building with a wheel that has not turned since before she came. The wheel is not
+  what the place is for. It has a shed, a loading door, a bench with a folded blanket, a lean-to, a paste-pot,
+  and a yard with a stack of trays under boards and sacking. **The mill is where boxes pass through; it is not
+  the archive.**
+- **The sorter** — a man past forty with the shoulders of a man who has carried trays for thirty years. Not a
+  character, not a confidant, **asked one question and given five sentences and nothing since.** He is right,
+  stays right, never explains why the rule is the rule, and lets her sleep on his floor with the sentence *you
+  can have the floor till the cart wants turning back. Not after.*
+- **The counter** — the man behind it is the same clerk as ch 297 and ch 294, the same counter, stove, spike
+  and six men. He appears at **301, 305, 306 and 308 only.** He is not an antagonist and does not know more
+  than a counter knows.
+- **The copying floor** — one flight above the counter, entered once in ch 299–313. Tables, four people, a
+  stack of sheets about as high as a man's chest with a string round it, a paste-pot on each table. **The
+  stair above it goes up out of the light, is looked at for nine seconds, and is never entered, described or
+  named.**
+- **A strip of cloth is the only channel between floors.** It is the same cloth the keeper's board is made of,
+  cut to the same shape, with three columns ruled on it and a line across near the bottom. It comes down off
+  the round of carts and it carries **no name, no heading she can read, no seal and no signature.** The answer
+  does not go back down into the counter's book. **It goes up, or it does not go.**
+- **Pei** — a farmer of about fifty with a boy of nine, half a mile east of the mill. Right throughout. Says
+  the rate out loud once and pays what he is told because he has been told.
+
+### The clock
+
+Ch 298 closed on **day 620, the seventh of a month.** **Batch 0001 ran day 621 to day 645** — the eighth of a
+month to the second of the next. Months are thirty days, month-day `((day − 134) mod 30) + 1`; the month this
+batch opens in began on day 614 and the next begins on **day 644**. Every day 621–645 is covered once.
+
+| Ch | Day / days | Month-day | Title |
+| --- | --- | --- | --- |
+| 299 | 621 | the 8th | The First Cart |
+| 300 | 622–624 | the 9th–11th | The Closed Season |
+| 301 | 625–626 | the 12th–13th | What The Counter Said |
+| 302 | 627–628 | the 14th–15th | Past The Last Farm |
+| 303 | 629 | the 16th | Seven Coppers At The Gate |
+| 304 | 630 | the 17th | **MIDPOINT** — What The Box Was For |
+| 305 | 631–632 | the 18th–19th | The Strip Off The Cart |
+| 306 | 633–634 | the 20th–21st | Is There More |
+| 307 | 635 | the 22nd | The Cut She Went Down |
+| 308 | 636 | the 23rd | **IRREVERSIBLE** — One Stair Up |
+| 309 | 637 | the 24th | **CLIMAX** — Priced From Above |
+| 310 | 638 | the 25th | **GOLDEN CORE 4** — Half A Reach |
+| 311 | 639–641 | the 26th–28th | The Brick Money |
+| 312 | 642–643 | the 29th–30th | The Bundle Going Up |
+| 313 | 644–645 | the 1st–2nd | The Ground Past The Mill |
+
+- **The far-side pay-cycle is dead and was not revived.** Pays fell on the seventh, the seventeenth and the
+  twenty-seventh at the trestle. **There is no trestle, no plank, no book and no pay-cycle anywhere in ch
+  299–313.** **Day 630, the seventeenth, came and nothing happened on it — one sentence at ch 304, and it is
+  not a scene.** Ch 298 already spent a pay-day producing nothing and this batch did not spend it twice.
+- **The season is not named and no date is put on any road or turn.** What is used is *what is lit and what is
+  not*, a thirtieth, a pay-cycle that is gone, and the fact that the ground past the mill is flat and farmed.
+  **Rain is referred to once, at ch 307, as having fallen two days back, which is not a season.**
+- **No named weekday, no named calendar month, no named week.**
+
+### The money — five figures, four chapters, and the rate twice
+
+| | Day | What she opens | Rate a reach | Coppers in her hand |
+| --- | --- | --- | --- | --- |
+| **ch 303** | the 16th | a reach and a little over | **seven** | **eight** |
+| **ch 309** | the 24th | a reach and a little over | **five** | **six** |
+| **ch 310** | the 25th | half a reach | **five** | **two and a half** |
+| **ch 311** | the 26th–28th | half a reach a day | **five** | **two and a half a day, seven and a half across three days** |
+| **ch 311** | — | — | — | **nine**, for a full charge |
+
+- **These five are the whole of it.** The days the table does not name — the 14th, 15th, 18th, 19th, 20th,
+  21st, 22nd, 23rd, 26th's own second half — are worked and paid for and **get no figure on the page.** The
+  fourteenth, fifteenth, twentieth and twenty-first were worked and paid at the gate with the count done by
+  Pei out loud and **never written down anywhere in the batch.**
+- **The rate is said out loud twice in the batch and no more:** seven at ch 302, five at ch 309. Five a reach
+  is also referred to at 310, 311 and 313 as the standing rate, which is use and not a third quotation.
+- **The historic figures are named as history and never as a current rate:** five coppers a day at the yard
+  (302, 306, 308, 310) and twenty-nine coppers on a promise (303, 306).
+- **Nothing else has a price in this batch.** Bread, the shop at a gate two hundred yards back toward the mill,
+  and the material shed past the mill are all real and none of them is given a figure. **The eleventh figure is
+  not available and a drafter who needs one has run out of table.**
+- **She is not hired anywhere in this batch.** No booking, no term, no stub, no name on anything, paid in her
+  own hand at a gate at the end of the day for what was done, and **that is not employment and she does not
+  want it to be** (ch 302).
+
+### Body at the last page (ch 313)
+
+**GOLDEN CORE 4**, taken day 638, the twenty-fifth, at her own order, in the open, in a drain bank on Pei's
+field at the fourth hour, past the last working point, **where nothing is announced.**
+
+- **Right index finger gone, four fingers' worth of grip.** Not improved anywhere in the batch and nothing
+  offers it back.
+- **Right arm open half the time, permanent, since ch 288.** Used at 302, 307, 309, 310, 311 and named at 310
+  as the reason she cannot carry a full charge. **Not made worse and not made better by ch 307.**
+- **Nine holds out of eleven in the left hand.** No hold spent anywhere in the batch.
+- **Four counts of breath everywhere.** Unchanged through ch 307 and ch 310.
+- **Cold the way a stone is cold.** Unchanged.
+- **Not hungry since the first Foundation** — and at ch 311 she names a different thing and says in her own head
+  that she is not going to call it hunger.
+- **The turn at the end of a bar stroke: gone.** The middle-bank method: in use.
+- **Aperture cracked through and permanent.**
+- **Eighteen years old.**
+- **The relicensed licence still says Foundation the first stage on the front of it and she has never touched
+  it.** `licence` and `license` both return **zero** across ch 299–313. **No clearance, seal or countersignature
+  is invented for anything and no chapter says one was or was not required.**
+- **The Clay Plate is worn against her ribs and is not described.** `plate` returns **zero** across the batch.
+
+### The stage, at ch 310
+
+**Golden Core 4, day 638, the twenty-fifth — thirty-eight days after Golden Core 3 at day 600.** Taken at her
+own order, in the open, in the middle of a reach, bar in her left hand, **nobody within two hundred yards.**
+
+Bracket, on its own line, matching the pinned text character for character and the only square-bracketed line
+in the batch:
+
+[Ning Yan, past the line, servant-born, under no ceiling any county holds. Golden Core, stage four, is held.]
+
+- **The layer said it once and stopped.** It did not explain and it did not advise and it did not begin.
+- **Nothing was announced.** There is nobody inside to be told and no county book on that ground to take
+  anything down; the sound went into the ground under Pei's field and about a quarter of a mile into the air,
+  and nothing came back. **What the offices above took was the reading, not the sound.**
+- **The cost, permanent and named once, in three parts:** the flat of a second finger **from longer to
+  longest**, so that **every line she writes anywhere now costs her the hour it is written in twice over**;
+  **the yard work she can still price one-handed narrows to half a reach**; and nothing else. She works out the
+  third part on the page in nine words about a sheet of paper and a room she cannot get to.
+- **There was no part of her that was slower**, and the chapter says in plain words that that is the part that
+  is frightening.
+- **No tribulation. No suppression and no absence arithmetic.** `tribulation` returns zero.
+
+### The irreversible decision of this batch — ch 308, *One Stair Up*
+
+**At about the second hour of the twenty-third she said *there is more*, out loud, in daylight, on a copying
+floor one stair above the counter, to a clerk with a brush, with four other people in the room copying.**
+
+- **She did not give her name. The room found it** — read off a column and matched to the woman standing
+  there. That is the batch's whole idea in one gesture.
+- **She confirmed the gap** — the twenty-second, and the twenty-third to the fourth hour — in the ordinary
+  voice, because the gap is true and hers and she has never once put a true day in as a false one. **She said
+  *I was under a bank* and he wrote it down.**
+- **The price, in one plain sentence about one person:** *Her column was the only thing in the world she could
+  prove about herself, and from the fourth hour of the twenty-third it is a thing somebody else can read.*
+- **Nobody persuaded her.** The refusal not to answer was available to her at 306 and she took two days over it
+  and went down a drain both days instead, and then a bank came in on her.
+- **She cannot be un-answered. The answer went up the stair with the answer.**
+- **This is NOT the second vouching.** It is **the same office on the same floor** that entered her as good at
+  ch 292, and a running column is not a second office vouching. **A drafter may use *written down* and *in the
+  book*; the word *vouched* is not used anywhere in ch 299–313, and `vouch` returns zero across the batch.**
+- **The words *sending* and *sent for* are used nowhere in ch 299–313.** `grep` returns zero. Ch 358 and
+  Batch 0003 own them.
+- **The finding that being read means being sent for is not softened anywhere in the batch.**
+
+### The physical risk — ch 307, *The Cut She Went Down*, day 635, the twenty-second
+
+A silted stone drain on the low side of Pei's field, to the chest, cold, a man has to go in on his back, loose
+standing clay at the shoulder from rain two days back. **The bank came in on her while she was on her back.**
+Four minutes under it. **There was nobody within a mile who would have come and not one of them would have
+come and there was no version of that afternoon in which a man stood in that cut.**
+
+**She got out with the bar.** Nothing broke in her that she has not had back once; the four fingers, the arm,
+the nine holds and the count of breath were all exactly what they had been at the fourth hour. **Nobody died.
+Nobody was hurt except her. Nobody was saved.** She told Pei the low side was under and would want a spade and
+two men on a rope, **and she did not tell him about the shoulder, and there was nothing in that for her.**
+
+**The cost is in days and not on her body: the twenty-second, and the morning of the twenty-third.**
+**This is the batch's one use of the eleven-counts measure and it is not a declaration** — *in about as long as
+it takes to count eleven*. Volume 5 declared it once at ch 284; the batch does not repeat that.
+
+### The deadline — the ring
+
+**Open and cold since the seventh of the month; taken cold and unlit since the twenty-first.** It was carried
+out of the field behind her own boards at the yard on the **thirteenth**, on her back under the bar, and it
+stands at the back of the mill shed in a corner.
+
+- **Relit at the sixteenth** (ch 303) out of what was left in her hand after bread and material. Banked low.
+  Broken down to a carrying size on the flat stone by the door at the dark, **eleven minutes on a poor piece
+  with the flat of a second finger**, and the flat has been longer than eleven minutes since ch 275.
+- **Banked lower every night from the nineteenth.** A banked fire is not a fire. The twentieth and the
+  twenty-first are the two nights of ch 306.
+- **A third of a charge bought on the twenty-sixth and carried back in two loads**, and the ring lit low again
+  on the twenty-eighth. It has not been hot since the twenty-first and will not be again for four days at two
+  and a half a day.
+- **A full charge is nine coppers and does not come in a size one arm can carry.** Half a reach a day at five
+  is two and a half a day, so: **four days of clearing for one charge, and then three trips for the same one.**
+  That is the whole of ch 311 and it is the pull into Batch 0002.
+- **The ground under the ring gives nothing back.** Carried in the body and in narration at ch 306 and never
+  said out loud by her, and the only sentence she says about it on the boards is *It is not holding*, which is
+  about the clay.
+
+### The angle of what was read — ch 308
+
+**The word is *good*. It is a certificate. A certificate says the person does not need the whole of a day's
+rate.** Put in the book at the second hour of the seventeenth of a month, in the open, at the last working
+point, in front of eleven men, by her own mouth, when she was seventeen. **She wanted to be checked by
+somebody, once, and the only instrument on that ground that could check a woman was a stage eleven men could
+see her take. It checked her. It is now costing her two coppers a reach, permanently, and the rate does not
+come back up.**
+
+**The batch's anger is in the arithmetic and does not come out of her mouth.** It is the first real anger since
+the crossing and it is aimed at an institution and cannot be spent on anybody: **everything that has ever been
+done to her in this country was done to her by somebody who was right, and being right is the part that costs
+her.**
+
+### Wei Ran
+
+**One card, ch 302, on the fifteenth.** She does not stop the cart; she slows it. She gives a rate (*seven a
+yard on that gate, it is what the other gate pays and it is not worth the walk*), a road (*the ground turns to
+soup about two hundred yards past that hedge and it will hold a wheel about half a season, every year, not one
+year*; *a cut in it about a mile on*) and an opinion, in about as many sentences as it takes to say them.
+**She offers no team, no cart, no favour, no word to anybody and no face to anybody.** She is twenty and Ning
+Yan is eighteen and **the book does not romanticise that and nothing in this batch is a romance.**
+**She appears in five cards of Volume 5 and this is the sixth and the last before Batch 0004.**
+
+### Feng, by report, once
+
+**Ch 312, in a carter's mouth, to a woman at a gate, and never asked for.** *There is a stair about nine days
+west of here. Men go up it carrying bundles and they come down with nothing in their hands, and they have been
+doing that since before I was driving.* He has never met Feng Lushi, does not know his name, and never thinks
+about it again. **No tower, no light and no floor of nine men — those were ch 244 and ch 295 and are not
+repeated. The tenth part is not given. Nothing here proves the crews wrong, and nothing here says that what she
+is doing past the mill is the same as what is done nine days west.** **No second Lung and no second appointment;
+both unspent and both still unspent.**
+
+### Yuan in this batch
+
+**Five sentences in fifteen chapters, one each at ch 302, 304, 306, 311 and 313. Every one in the present
+tense. None buys anything, advises anything, explains anything or advances anything.**
+
+- **No figure of what is left of him is on any page.** No count, no fraction, no percentage, no decimal, no
+  elapsed span that measures him. The ordinary numbers of the world — coppers, reaches, holds, hours — are in
+  full use throughout and none of them is about him.
+- **His ch 272 losses are not given back by one word:** the unentered state and the date of the morning he died
+  are still gone, and nothing in the batch softens the finding that being read means being sent for.
+- **The Ledger is never ordered, held, priced, refused or thought about.** `grep` for *Ledger* returns nothing
+  in ch 299–313 outside this record.
+- **Merit: zero.** Nothing killed, nothing listed cleared, the channel not restored, not spent and not
+  measured. **The Hand is not spent and not refused in this batch** — it is spent at ch 325 and refused at
+  ch 355, both Batch 0002's and Batch 0004's.
+- **The sustained scene in which he is on the page in his own right is ch 338, *The Room With Doors*, in Batch
+  0003. Nothing in these fifteen chapters moves, duplicates, pre-spends or describes it.**
+
+### Untouched, unraised, and still true at ch 313
+
+**The register still reads *reconciled* — `grep` for *reconciled* returns zero across the batch, because no
+card in this batch reads the register and the allowance for it was zero.** MEMBER ABSENT stands three times and
+was not raised · the ch 150 refusal unsoftened · the ch 128 silence unbroken and nothing about the sponsors'
+second book lodged, copied or spoken · **the year of non-forgiveness still carrying and not mentioned once in
+these fifteen chapters** · Shen Xiu unforgiven and unthanked · *kiln-born* zero on the page and still in two
+heads · what became of the eleven not raised · **no office above the Standing Office of the Second Account
+named, and no office named at all** · the surface answer not re-voiced, hinted at or paraphrased · the seventh
+condition never listed, counted or referred to · **the four months erased in Chapter 3 carried in the body and
+never named** — `grep` for *erased*, *base went out*, *four weeks* and *could not account* returns **zero** ·
+the claim not reopened and the word *claim* not used of a figure · Hou Sanliang paid, never met, not on the
+page · Luo Ping never met · Ning Wu does not appear and the list is not asked after · **Bai Zhu is off the
+page in this batch entirely** — his request is still pending and the line's own people still do not know she
+exists · no harem and nothing a romance · she never says her mother's name · no new enemy and no named villain.
+
+### Live at the end of this batch, going into Batch 0002
+
+- **She is a running column.** A person who is good, who works, in a book one flight above a counter, in a hand
+  she has never seen, copied upward. **The twenty-second and the morning of the twenty-third are missing out of
+  it and are recorded as missing**, in the words *I was under a bank*.
+- **The rate for a reach is five coppers and she can open half of one.** Two and a half a day.
+- **A charge of the ring's material is nine, at a size one arm cannot carry in one trip.** The ring is lit low
+  and not full. **Four days of clearing for one charge and then three trips for the same one.**
+- **The only thing on that ground that can pay for brick in a size one arm can carry is not coppers** — and she
+  named the three candidates standing in a yard on the twenty-sixth and took none of them.
+- **Past the mill the ground is flat, farmed and lit and there is nothing on it, and she is standing on it**,
+  about a mile and a half east of a wheel that has not turned since before she came, sleeping on the ground.
+- **Eighteen counterfoils in four marks and no nineteenth, for ever, because there is no plank.**
+- **About weeks at the open and no figure after it.**
+- **The three words *is there more* are on a stack against a wall one flight above a counter, answered.**
+
+### Open after the batch, going into Batch 0002
+
+- **What does an office above a copying floor do with a person it has written down as good?** Answered in part,
+  in money: it sets a rate. **One office has, the same one, at ch 292 and again at ch 308.** Open: whether
+  anything is sent for, and that is Batch 0003's.
+- **What is above the copying floor?** Never entered, never described, never named. Looked at for nine seconds.
+- **Where does a tray go when it has gone up?** It is not the mill's to keep and it is not the counter's.
+- **How does a woman with four fingers feed a furnace that needs nine coppers a charge?** **This is Batch
+  0002's whole pressure and nothing in these fifteen chapters answers it.**
+
+---
+
+## Volume 6 running ledger — at end of ch 313
+
+| Item | Value at end of ch 313 |
+| --- | --- |
+| Her stage | **GOLDEN CORE 4, day 638, the twenty-fifth**, at her own order, in the open, past the last working point, **where nothing is announced**. Bracket 1 of Volume 6's six. **Cost: the flat of a second finger from longer to longest, so every written line costs its hour twice over, and the priced reach narrows to half.** Paper still Foundation the first stage, never opened |
+| Body | Short breath four; right index gone, four fingers' grip; right arm open half, permanent, since ch 288; aperture cracked permanent; nine of eleven holds; turn gone; middle-bank method; not hungry; cold like a stone; **eighteen** |
+| Employment | **NOTHING.** No wages, no season, no booking, no stub, no name on anything. **A day's clearing priced by the yard at five coppers a reach, paid at a gate at the end of the day in her own hand, and she can open half a reach.** **Eighteen counterfoils in four marks and no nineteenth, for ever.** The trestle, the plank and the eleven men are left behind and not visited again in ch 299–313 |
+| The furnace | **Open and cold.** Relit low on the sixteenth, banked lower from the nineteenth, **a third of a charge bought on the twenty-sixth and carried back in two loads, lit low again on the twenty-eighth.** A full charge is nine coppers at a size one arm cannot carry in one trip. **The ground under it gives nothing back and never has and she has never said so out loud** |
+| Circuit | **The box circuit is established and unbroken.** A book that closes clean on the thirtieth goes in a tray and up the stair to be read against other finished books, and **nothing comes back down.** Every reach sends one a month. **Her column is in a tray in a stack in the mill yard under boards and sacking.** She went into the copying floor once, on the twenty-third, and the stair above it was never taken |
+| The reading | **She is a running column in a book one flight above the counter, in a hand she has never seen.** The strip asked *is there more* on the eighteenth, sat on a bench, went into the book face down with a clean square of nothing beside it, and was answered on the twenty-third in daylight. **The word *good* is a certificate and is now costing her two coppers a reach** |
+| Settlement | **Merit zero. Nothing killed, nothing cleared.** Ledger never ordered, held, priced or refused. **Hand not spent and not refused — ch 325 and ch 355, Batch 0002 and Batch 0004.** Yuan: five present-tense sentences in fifteen chapters, **no figure of him on any page**, readable without her and therefore findable, the two ch 272 losses still gone |
+| Claim | **ANSWERED** (ch 294–295) and not reopened. Hou Sanliang paid, never met, not on the page. The four counties that carried the figure still carry it |
+| Family | Ning Bo's account discharged in a far-side book at ch 296; Ning Wu's decade entered at ch 297. **Neither is on the page in ch 299–313.** Register still *reconciled*, unread in this batch |
+| Inside | **One report, once, ch 312, from a carter's mouth**: a stair about nine days west, bundles up, nothing down, going on longer than he has been driving. **No tower, no light, no floor of nine men. The tenth part not given. Nothing proves the crews wrong** |
+| Still open | The Hunter's request pending and the line's own people still not knowing she exists · everything above the copying floor, and above the Standing Office of the Second Account · *kiln-born* in two heads and on no paper · what became of the eleven · why the register reads *reconciled* · the year still carrying · **and a woman standing on flat ground about a mile and a half east of a mill with two and a half coppers a day, a charge at nine, and no book in the world with her name at the top of it that she can reach** |
+
+---
+
+## Construction budget — Volume 6 Batch 0001 (ch 299–313), measured by grep, not promised
+
+**Every figure below was run against the fifteen files after they were written, not asserted in advance. The
+card file's page said zero by absence of text; this is the measurement of text.**
+
+| Construction | Result across ch 299–313 |
+| --- | --- |
+| **Authorial scaffolding** — *this chapter, this volume, in this book, for the rest of the book, the reader, in this batch, another batch, N volumes* | **0** |
+| **Bracketed layer lines** | **1, at ch 310**, matching the pinned text character for character. Zero in the other fourteen chapters |
+| ***About four seconds*** (retired out of Volume 4, two uses left standing in Volume 5) | **0.** Two instances were written into ch 304 and cut before the batch was saved |
+| ***Eleven weeks*** (retired) | **0** |
+| ***Nobody asked · nobody was thanked · there is no form · there is no column · the record remained · nobody knew · nobody said anything*** | **0 as phrases.** The true facts are used in new words: ch 309 carries the **one** permitted instance of the thanks fact in this batch (*she did not thank him for paying her… she was not going to thank him*), and a **second instance written into ch 300 was cut** |
+| **The Yuan tag** *He said one thing that night and it was present tense and it bought nothing* | **0 verbatim, and the tag as a construction is not available.** No lead-in of any shape was used before any of his five lines |
+| ***Under her, …:*** — the one-breath speech lead-in, as a whole family | **0** |
+| ***About as long as it takes to count eleven* / the eleven-counts measure** | **1, at ch 307**, and it is **not a declaration** (ch 284 spent that). **Not at ch 313** |
+| ***His eyes widened · he couldn't believe it · suddenly · little did he know*** | **0** |
+| **The surface answer** — being told is not being charged | **0.** Not said, hinted at, gestured at or paraphrased in any mouth |
+| **Named weekdays / named calendar months / named weeks** | **0 / 0 / 0** for all three bans. *Five months ago*, *a week since*, *about half a season*, *about a month* are ordinary relative stretches and are in ordinary use |
+| **Harem, romance** | **None.** Wei Ran on one card, 302, in the rate-and-road register |
+| **Bold** | **0.** **Italic four spans in the whole batch**, all documentary: *good* at 301, *Is there more* and *where did this come off* at 305, *I was under a bank* at 313 |
+| **Markdown** | **0** blockquotes, code fences, tables and horizontal rules across the fifteen files |
+| **Quotes** | **Every speech closed in all fifteen files**; **0 straight apostrophes and 0 straight double quotes** |
+| **Paragraphs** | Longest paragraph in the batch is exactly 100 words, at ch 309. No paragraph over 110 |
+| **Duplicated paragraphs** | **0.** A paragraph-level duplicate scan across the fifteen files returns nothing |
+| **Length** | **24,514 words of body prose over fifteen chapters, average ~1,634. None under the 1,300 floor and none above the 2,700 guide.** Per file: 299 1,927 · 300 1,685 · 301 1,787 · 302 1,591 · 303 1,557 · 304 1,787 · 305 1,822 · 306 1,722 · 307 1,498 · 308 1,694 · 309 1,440 · 310 1,465 · 311 1,579 · 312 1,558 · 313 1,402 |
+| **Titles** | All fifteen unique against all 298 closed headings and against each other; **313 `^# ` headings across the manuscript, zero collisions** |
+| **Tribulation / suppression arithmetic** | **0 / 0** |
+| ***Kiln-born*, Anchor, Sisterhood, Lung, appointment, MEMBER ABSENT, sponsor, Shen Xiu, Scribe, reconciled, erased, base went out, four weeks, could not account, vouched, sending, sent for, licence, license, plate*** | **Zero on the page of this batch** |
+| **The seven relicensing conditions** | **0.** Never listed, counted, enumerated or referred to by number |
+
+**Two faults were found by measurement and repaired inside this batch before it was saved, and both are recorded
+because a budget that only ever reports clean is not a budget:** *about four seconds* written twice at ch 304,
+and the retired thanks fact written at ch 300 as well as at its one licensed home at ch 309. Both were cut and
+re-counted. **No beat, day, title, turn, midpoint, climax, irreversible decision, bracket or stage moved, and
+no chapter in `chapters/volume-01/` … `chapters/volume-05/` was opened.**
