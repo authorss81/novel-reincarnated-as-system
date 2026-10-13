@@ -14,6 +14,22 @@ If you find yourself drafting prose, stop and record the finding instead.
 closed state this batch carries forward. Extend to 268–283, then 253–267, if the verified context budget
 safely allows.
 
+## The protagonist — carried from `outline/volume-06.md`, and not re-plannable here
+
+**Yuan is the protagonist of this book and he is male** (`outline/series.md` §2, and `state/book-metadata.md`
+records Gender: Male). Volume 6 is the **first volume of *Hand*** — *move the world through her* — and the cost of
+Hand is that he becomes the architecture he hates. Volume 5 put him on the page in his own right once, at ch 272,
+in his own frame, away from her hearing, and it cost him his unentered state and the date of the morning he died.
+
+**Volume 6 puts him on the page that way again, and it is not Batch 0001's chapter to do it.** The one planned
+for Volume 6 is **ch 338, *The Room With Doors*, in Batch 0003**, and the rule on it is in the bullet list below.
+**Batch 0001 gives him rationed present-tense voice and his readability carried, and nothing more.**
+
+What Batch 0001 must not do: re-frame ch 272 · describe him instead of staging him · give back his unentered state
+or the date of the morning he died · soften the finding that being read means being sent for · order, hold, price
+or refuse the Ledger · state a figure of what is left of him · spend Hand. **The ending still needs him findable,
+and this batch is where a reader finds out he is findable without her.**
+
 ## The shape to write in
 
 Write the cards in the same shape `outline/batches/volume-05-batch-0001.md` took: batch goal, starting
@@ -57,8 +73,12 @@ gives him one, and then stair/hand/quarter only. Ning Wu not appearing. Bound by
 
 - Card the box going out, the column being read upward, the first work without a season, and walking past the
   mill. Card Golden Core 4 at ch 310 day 638 with its cost (second finger's flat to longest, priced work
-  narrowing to half a reach) and its single bracket in the far-side house form. No other bracket in the batch.
-  No other stage. No tribulation. No suppression arithmetic.
+  narrowing to half a reach) and its single bracket in the far-side house form. **Volume 6's bracket budget is
+  six in sixty-two — one at each Golden Core stage and none anywhere else — so this batch's one at ch 310 is the
+  whole of it, and the far-side form is fixed and must match character for character.** No other bracket in the
+  batch. No other stage. No tribulation. No suppression arithmetic. **Golden Core 4 is inside this batch's range;
+  the volume outline's Batch 0002 rotation row is a shorthand and the *Power progression* table is the authority
+  on the day, so nothing here may be pushed into Batch 0002 and nothing in Batch 0002 may be pulled back.**
 - Card at least one scene of physical risk or a real deadline, and at least one irreversible step that is this
   batch's own (not the volume's break at ch 344 and not the refusal at ch 358).
 - **The sustained Yuan scene planned in `outline/volume-06.md` (ch 338, *The Room With Doors*) is not Batch
@@ -79,8 +99,10 @@ gives him one, and then stair/hand/quarter only. Ning Wu not appearing. Bound by
   sect, Lowwater the county and town, the Bureau's two Lowwater rooms never merged; no document he signs carries
   his name; the relicensing legs in order with no new leg invented and no card saying one was required or not
   required; the surface answer never re-voiced; the tenth part not given.
-- Carry the fifteen preserved facts (sixteen numbered rows in `outline/volume-06.md` § *Required continuity
-  facts*, rows 1–16, plus row 17 as the change log) and state on each card which fact it preserves.
+- Carry the preserved-continuity list in `outline/volume-06.md` § *Required continuity facts*: **rows 1–15 are the
+  fifteen items the Volume 5 close audit confirmed one at a time and they are not to be re-derived here** · row 16
+  is his readability and the date of the morning he died · row 17 is Volume 6's change log. **State on each card
+  which row it preserves.**
 - Pressure discipline: this batch is reading and being read and nothing else — not keeping, debt, family paper,
   ash, ration, hiring, tending, crossing, audit, examination, hunt, signature, confinement, or Batch 0002's work
   without hire.

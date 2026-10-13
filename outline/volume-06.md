@@ -39,6 +39,17 @@ maintained. Something on the other side of it is real. Announcements do not reac
 bound is a room.* **The surface answer was paid, once, at ch 267, and may not be paid again.** The origin
 answer (Volume 11) and the moral answer (Volumes 15–16) are not Volume 6's and may not be previewed.
 
+## Central pressure
+
+**She is a person an office can read, and she has no wages, no season, and a furnace to feed at far-side prices
+with four fingers on one hand.** The bound she came out of is nine days of road behind her and answers to nobody.
+The country past the last working point is farmed and lit, keeps its books by hand, and has begun reading her —
+and every office that reads a line can also act on it.
+
+**Nothing in this volume is an enemy. The pressure is that being legible has a price list, she is the one paying
+it, and no instrument in the country past the mill can tell her what it comes to.** It is not a chase and it is
+not a siege. It is a woman being entered, and the entry working.
+
 ## Where she is at the last page — read off the state files, not re-derived
 
 Golden Core 3, past the line, day 620 — the seventh of a month, past the last working point, out of
@@ -84,14 +95,18 @@ in his own right, in his own frame, away from her hearing, and it costs him some
 - **His stage table moves: Ledger is Volumes 3–5, and Volume 6 is the first volume of *Hand* — *move the world
   through her* — and the cost of Hand is *he becomes the architecture he hates*.** That is the Volume 6 beat
   and the exact shape of the debt ch 272 opened: a man who made himself a readable line has to discover that
-  being readable is not the same as being a hand. In this volume he moves an office's hand through her column
-  at least once — a reading carried, a cart turned, a box held — and the chapter says whose hand moved and what
-  it moved him toward.
+  being readable is not the same as being a hand. **Hand is spent twice in this volume, at ch 325 and at ch 338,
+  and refused once at ch 355.** Ch 325 is a cart's turning moved through her column so a box goes on instead of
+  waiting a season; ch 338 is a holding addressed so her furnace hours hold without her standing there. **The
+  chapter says whose hand moved and what it moved him toward.**
 - **The lead's escalation stage moves too: she was *Manipulating* in Volumes 3–5, and Volume 6 is the first
-  volume of *Breaking* (Volumes 6–8). Volume 6 must break something and refuse something.** What is broken: the
+  volume of *Breaking* (Volumes 6–8).** `outline/series.md` §5 gives that stage as *opening the Wall and
+  refusing the Order*, and **both of those are three-volume work: the Order is a Volume 8 antagonist and the
+  Wall is the Volume 6–10 structural answer.** **Volume 6 takes the first rung, and says so here so that no
+  drafter goes looking for a Wall to open.** Volume 6 must break something and refuse something. **What is broken:** the
   closed-season box circuit — the rule that a far-side book holds only hours and closes clean on the thirtieth.
   She forces a book past the last working point to carry a furnace and a readable line it did not build, and
-  from that hour no box on that reach closes clean again. What is refused: a sending — an office above the one
+  from that hour no box on that reach closes clean again. **What is refused:** a sending — an office above the one
   office she knows the name of sends for the line, for him through her, to be presented in person, and she
   refuses to present it. Both are on cards before they are on pages.
 - **The outline plans, by card and by batch, at least one further sustained scene in which he is on the page in
@@ -176,13 +191,18 @@ in his own right, in his own frame, away from her hearing, and it costs him some
 
 ## Major locations
 
+**Three things in this volume are called a line and they are not the same thing, and no chapter may blur them.**
+**The line of work** is the boundary Volume 4 earned, nine days of road behind her. **The line** that comes down
+on cloth at the post is the keeper's strip, the shape she already knows. **The readable line** is him, entered at
+ch 272 and addressed as a holder at ch 338. **Reading** is what offices do with any of it.
+
 - Past the last working point: farmed country, lit houses, hedged ground, a cart track going on past a mill whose
   wheel has not turned since before she came.
 - The stone yard and the reach behind her, closed, its book in a box on a cart.
 - The far-side office with the counter and the stove, four hundred yards behind her, holding everything she finished.
 - The rooms above it she has never stood in, reached only by what offices copy upward by hand.
-- The mill, the cart turn, the post with the board, the store step — the last Einrichtungen of somebody's ordinary
-  country, which Volume 6 leaves behind by walking past them.
+- The mill, the cart turn, the post with the board, the store step — the last of somebody's ordinary country's
+  fittings, which Volume 6 leaves behind by walking past them.
 
 ## Major factions
 
@@ -217,7 +237,7 @@ was required or not required.**
 | Golden Core 6 | 332 | 712 | 38 days | one more hold out of the eleven goes — nine to eight — spent into a listed clearing she clears by hand past the last working point, told before spent, and not coming back |
 | Golden Core 7 | 342 | 749 | 37 days | the short breath goes past four counts where work is heaviest — five counts on a loaded reach — and never comes back to four there |
 | Golden Core 8 | 352 | 786 | 37 days | the middle-bank method stops paying — the bar she learned to carry one-handed now needs two hands she does not have, and the heavy end closes to her for good |
-| Golden Core 9 | 357 | 818 | 32 days, the last one shorter because she is no longer carrying it on wages alone | the furnace-finished body: she becomes a person two offices will vouch for instead of one, and the second vouching is copied upward in a hand she has never seen — she cannot be un-entered twice over |
+| Golden Core 9 | 357 | 818 | 32 days, the last one shorter because she is no longer carrying it on wages alone | the furnace-finished body — she has been a person two offices will vouch for since the midpoint, and only here does she learn the second vouching was copied upward in a hand she has never seen. She cannot be un-entered twice over |
 | Nascent Soul 1 | 360 | 845 | 27 days, the handover | reach begins — work at a distance, once, by accident, at a cost the chapter names in one plain sentence: she is surprised by nobody in the room where it happens, and the surprise does not come back |
 
 **The announcement rule, re-derived for the far side, on the page in the outline and not deferred to a batch.**
@@ -257,13 +277,17 @@ chapter. They announce; they never explain and they never advise. That is Volume
 
 | Batch | Chapters | Pressure | Arc |
 | --- | --- | --- | --- |
-| 0001 | 299–313 (15) | **reading and being read** | the box gone out on the first cart; her column read upward by offices that never needed a bound; work without a season; the mill passed |
-| 0002 | 314–329 (16) | **work without hire** | no wages, no booking, a furnace to feed at far-side prices with four fingers; listed clearings past the last working point; GC4–GC5; the Hand first spent |
+| 0001 | 299–313 (15) | **reading and being read** | the box gone out on the first cart; her column read upward by offices that never needed a bound; work without a season; the mill passed; **GC4 at ch 310** |
+| 0002 | 314–329 (16) | **work without hire** | no wages, no booking, a furnace to feed at far-side prices with four fingers; listed clearings past the last working point; GC5 at ch 321; the Hand first spent at ch 325; the second vouching agreed |
 | 0003 | 330–345 (16) | **sending and being sent for** | the readable line looked at; the sending written; GC6–GC7; Yuan addressed at ch 338; the refusal taking shape |
 | 0004 | 346–360 (15) | **standing and refusing to stand** | vouched twice over; GC8–GC9; the sending refused; Nascent Soul begun by hand and not by sound; what surviving looks like |
 
 **No two consecutive batches run the same pressure.** None of them is a keeping, a debt, a family paper, an ash, a
 ration, a hiring, a tending, a crossing, an audit, an examination, a hunt, a signature or a confinement.
+
+**The rows above are a shorthand and the *Power progression* table is the authority on the day.** Golden Core 4 is
+at ch 310, which is inside Batch 0001's range, and Batch 0002 therefore carries Golden Core 5 alone. A row that
+names a stage is not a licence to move it.
 
 ## The escalation sequence
 
@@ -273,11 +297,13 @@ ration, a hiring, a tending, a crossing, an audit, an examination, a hunt, a sig
 3. Golden Core 4 is taken where nothing is announced, and the reading goes upward by hand instead of by sound.
 4. Listed clearings past the last working point settle merit twice, told before spent, out of her foundation.
 5. He moves the world through her once, at a cart turn, and becomes a little of what he hates.
-6. An office above sends for the line, and the sending is a paper with her column on it and his holding under it.
-7. He is addressed as a holder, away from her hearing, and loses the last unaddressed place.
-8. Golden Core 9 is vouched twice over, and she cannot be un-entered twice over.
-9. She refuses the sending — to present the line in person — and the refusal is entered, and stands.
-10. Nascent Soul 1 is taken by hand and not by sound, and the realm ladder hands over to Volume 7 with nobody
+6. She agrees to be vouched a second time, for materials, knowing what a second vouching is.
+7. An office above sends for the line, and the sending is a paper with her column on it and his holding under it.
+8. He is addressed as a holder, away from her hearing, and loses the last unaddressed place.
+9. Golden Core 9, and with it the finding that the second vouching was copied upward in a hand she has never seen.
+   She cannot be un-entered twice over.
+10. She refuses the sending — to present the line in person — and the refusal is entered, and stands.
+11. Nascent Soul 1 is taken by hand and not by sound, and the realm ladder hands over to Volume 7 with nobody
     having heard it.
 
 ## The midpoint (ch 329–330)
@@ -286,12 +312,17 @@ ration, a hiring, a tending, a crossing, an audit, an examination, a hunt, a sig
 in coppers — and finds out that work that is not wages is still hours, and hours are still a column, and a column
 is still read.**
 
-Fifteen chapters of being read have taught her the price of the entry as good: every day she works past the mill
-goes into a book somebody above can read, whether or not anybody pays her for it. At the midpoint she takes the
-clearing anyway, in daylight, says her name out loud the way she has said it at every trestle, asks nothing, and is
-entered — and from that hour leaving the reach no longer takes her out of the books. The irreversible decision of
-the volume's first half is hers: she lets the second office vouch for her to get the materials Golden Core 7 needs,
-knowing a second vouching is copied further than the first and cannot be taken back.
+A month of being read has taught her the price of the entry as good: every day she works past the mill goes into a
+book somebody above can read, whether or not anybody pays her for it. At the midpoint she takes the clearing
+anyway, in daylight, says her name out loud the way she has said it at every trestle, asks nothing, and is entered
+— and from that hour leaving the reach no longer takes her out of the books.
+
+**The irreversible decision of the volume's first half is hers, and it is a yes and not a fight:** she lets a
+second office vouch for her, to get the materials Golden Core 7 needs, knowing a second vouching is copied
+further than the first and cannot be taken back. **That is the act. Ch 357 is the consequence — her finding out
+what the second vouching has already been copied into — and neither of those two chapters states the other.** The
+refusal at ch 358 is a different kind of act altogether: the vouching she agreed to, and the presenting she will
+not do.
 
 ## Feng in Volume 6
 
@@ -374,8 +405,8 @@ read, and she moves a stone she never touched, once, the length of a reach, and 
 it. Nothing is said when it happens. An office writes it down afterward, in a hand she has never seen, because the
 hand can read what happened.
 
-Nine days of road behind her, and a floor, and nine men, and a tower with a light in it. She will not walk it again
-in this book.
+Nine days of road behind her, and a floor, and nine men, and a tower with a light in it. **She will not walk it
+again.**
 
 **Everything that ever happened to her inside that boundary was announced. She is standing in a place where things
 happen and are written down afterward by people who were not there, with a reach of her own that nobody gave her,
@@ -442,8 +473,8 @@ misread, which is the one thing Volume 7's goal owns.**
    office. **Everything above that one office is still unread in name and stays unread.** No office above is named on
    any card.
 10. **The register still *reconciled*.** Read and never corrected. Nothing in Volume 6 corrects it.
-11. **The plate still worn or gone:** **STILL WORN**, against her ribs. The object whose texture she remembers in
-    ch 1000; Volume 16 owns that.
+11. **The plate:** **STILL WORN**, against her ribs. The object whose texture she remembers in
+    ch 1000; Volume 16 owns that. Nothing in Volume 6 takes it off or describes it.
 12. **Ledger: entered once without her order at ch 272 and then closed as a standing held stage — say which, how many
     times and at what price each:** entered once without her order at ch 272, at the price stated before the line went
     in (his unentered state and the date of the morning he died), and closed as a standing held stage with that
@@ -542,10 +573,10 @@ misread, which is the one thing Volume 7's goal owns.**
 
 | Batch | Chapters | Pressure | Arc |
 | --- | --- | --- | --- |
-| 0001 | 299–313 (15) | reading and being read | the box out on the first cart; her column read upward; work without a season; the mill passed |
-| 0002 | 314–329 (16) | work without hire | clearings past the last working point; GC4–GC5; merit twice begun; Hand first spent |
-| 0003 | 330–345 (16) | sending and being sent for | the line looked at; GC6–GC7; Yuan addressed at ch 338; the second vouching |
-| 0004 | 346–360 (15) | standing and refusing to stand | GC8–GC9; the sending refused; Nascent Soul begun by hand; surviving |
+| 0001 | 299–313 (15) | reading and being read | the box out on the first cart; her column read upward; work without a season; the mill passed; GC4 at ch 310 |
+| 0002 | 314–329 (16) | work without hire | clearings past the last working point; GC5 at ch 321; merit twice begun; Hand first spent at ch 325; the second vouching agreed |
+| 0003 | 330–345 (16) | sending and being sent for | the line looked at; GC6–GC7; Yuan addressed at ch 338; the box circuit broken at ch 344 |
+| 0004 | 346–360 (15) | standing and refusing to stand | GC8–GC9; the second vouching learned of at ch 357; the sending refused at ch 358; Nascent Soul begun by hand at ch 360; surviving |
 
 Each batch carries its own goal, midpoint, escalation and climax, at least one scene of physical risk or a real
 deadline, and at least one irreversible step. The volume's break (ch 344) and refusal (ch 358) are each one batch's

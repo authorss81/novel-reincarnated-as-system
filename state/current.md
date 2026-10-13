@@ -1,6 +1,6 @@
 # Current State
 
-**As of:** Volume 5 closed and audited, ch 298. **VOLUME 1 CLOSED. VOLUME 2 CLOSED AND AUDITED. VOLUME 3 CLOSED AND AUDITED — CH 1–178 ON THE PAGE. VOLUME 4 CLOSED AND AUDITED — CH 179–238 ON THE PAGE. VOLUME 5 CLOSED AND AUDITED — CH 239–298 ON THE PAGE. THE NEXT PHASE IS THE VOLUME 6 PLANNING PHASE.**
+**As of:** Volume 5 closed and audited, ch 298, and Volume 6 planned. **VOLUME 1 CLOSED. VOLUME 2 CLOSED AND AUDITED. VOLUME 3 CLOSED AND AUDITED — CH 1–178 ON THE PAGE. VOLUME 4 CLOSED AND AUDITED — CH 179–238 ON THE PAGE. VOLUME 5 CLOSED AND AUDITED — CH 239–298 ON THE PAGE. `outline/volume-06.md` IS WRITTEN — VOLUME 6 IS PLANNED. THE NEXT PHASE IS THE VOLUME 6 BATCH 0001 CARD PHASE.**
 
 ## How to read this file
 
@@ -63,7 +63,7 @@ This file is **append-only and long, and most of it is history.** You do not nee
 - **Volume:** 5 of 16 — **Mortal Ash (ch 239–298)** — outlined in `outline/volume-05.md`, **CLOSED AND AUDITED.** BATCH 0001 (ch 239–252) WRITTEN AND REPAIRED — 25,897 words of body prose over fourteen chapters, day 471 to day 506, ZERO bracketed layer lines in the batch. BATCH 0002 (ch 253–267) WRITTEN AND REPAIRED — 25,441 words of body prose over fifteen chapters, average ~1,696, day 507 to day 521, ONE bracketed layer line, at ch 258. BATCH 0003 (ch 268–283) WRITTEN AND REPAIRED — 22,771 words of body prose over sixteen chapters, average ~1,423, day 522 to day 580, ONE bracketed layer line, at ch 275. BATCH 0004 (ch 284–298) WRITTEN AND REPAIRED — 27,157 words of body prose over fifteen chapters, average ~1,810, day 581 to day 620, ONE bracketed layer line, at ch 292, and Volume 5's bracket budget of three is spent. Volume 5 file set ch 239–298: **101,266 words of body prose over sixty chapters after the close review's five recasts** (101,204 after the volume close, 101,160 before it). **All five figures were re-derived against the chapters at the close review; the per-batch totals the close left at their pre-close values are corrected here.** Volume 4 remains closed and audited: Batch 0001 (ch 179–192), 28,607 · Batch 0002 (ch 193–208), 31,900 · Batch 0003 (ch 209–222), 28,581 · Batch 0004 (ch 223–238), 31,484 — file set 120,572 words. Volume 3 file set 135,014.
 - **Volume 5 goal**, fixed by `outline/series.md` §9: *In this volume, Ning Yan must finish the world they came from, or leaving it costs everyone she left standing in it.*
 - **Chapter written:** **1–298. THE NOVEL RUNS TO CHAPTER 1000. VOLUME 5 IS CLOSED AND AUDITED AT CH 298.**
-- **Next phase:** **the Volume 6 planning phase.** Its prompt is `workspace/volume-05-close-record/PROMPT.md`, written by this close; **it writes `outline/volume-06.md` and opens Volume 6's planning, and it does not draft chapters.** `outline/volume-06.md` does not exist yet and must not exist until that phase writes it. **Do not create the Volume 6 batch directory here — the self-dispatch workflow selects the next phase.** This record does not write a `.done` marker, which `PHASE_SYSTEM.md` gives to the controller alone. **The blocker recorded at the Volume 4 close and at the Volume 5 planning close is RESOLVED — `workspace/volume-04-close-record/` and `workspace/volume-05-batch-0001/` both hold `.done` markers (commits `88ddc33` and `3e32724`) and neither is deferred. Do not raise it again.**
+- **Next phase:** **the Volume 6 Batch 0001 card phase**, whose prompt is `workspace/volume-06-batch-0001/PROMPT.md`, written by the Volume 6 planning phase. **`outline/volume-06.md` EXISTS and is the authority for Volume 6.** **Do not re-plan the volume and do not create a second Volume 6 prompt — the self-dispatch workflow selects the next phase.** This record does not write a `.done` marker, which `PHASE_SYSTEM.md` gives to the controller alone. **The blocker recorded at the Volume 4 close and at the Volume 5 planning close is RESOLVED — `workspace/volume-04-close-record/` and `workspace/volume-05-batch-0001/` both hold `.done` markers (commits `88ddc33` and `3e32724`) and neither is deferred. Do not raise it again.**
 - **Point of view:** close third on Ning Yan; every line Yuan speaks is written in the present tense. **The close audit has now answered the two-volumes-of-sixteen protagonist question in writing — see *The protagonist, answered* below and in `workspace/volume-04-close/SUMMARY.md`.**
 - **In-world date:** **day 620** of the run's own clock at ch 298 — the seventh of a month, past the last working point of the line, on the far side, **out of employment, with no season and no wages.** **Batch 0001 ran day 471 to day 506 and its three pay-days were day 480 (the seventeenth), day 490 (the twenty-seventh) and day 500 (the seventh). Batch 0002 ran day 507 to day 521 and its two pay-days were day 510 (the seventeenth) and day 520 (the twenty-seventh). Batch 0003 ran day 522 to day 580 and its pay-days were day 530, 540, 550, 560, 570 and 580. Batch 0004 ran day 581 to day 620 and its pay-days were day 590, 600 and 610 — day 600 is also the pinned Golden Core 3 date — and the next pay-day after the season closed, day 620, produced nothing.** The season's road shut on day 117 and reopened on day 254. **Day 0 is the last day of the thaw** (canon change 30). **Day 299, 329, 359 and 389 were the attendances of the run so far in this stretch and all four fell on the sixteenth; day 389 was the last one and it is one sentence inside ch 225.**
 - **The month rule.** Months are thirty days and a month begins every thirty days, **so the month-day of any day is `((day − 134) mod 30) + 1`.** Day 134 was the first of a month. **Days 374–403 read day − 373 · days 404–433 read day − 403 · days 434–463 read day − 433 · days 464 onward read day − 463.** (The rule as it stood before this audit said "days 374 to 463 read day − 373", which was wrong for days 404 onward, and is corrected here and in `state/open-threads.md`.) The months Volume 4 lands in began on days 254 · 284 · 314 · 344 · 374 · 404 · 434.
@@ -100,7 +100,7 @@ Full record: `state/continuity.md` under ***Established facts, Volume 5 Batch 00
 - **Yuan.** **Merit settled a second time (ch 290) on a listed run closed, not on a death; told before spent; the share held six days and spent at ch 296 out of her foundation, and the price is the one nobody can name or measure.** **Ledger ended as a standing held stage at ch 272 and what replaces it is his readability, said on the page.** No figure of what is left of him anywhere in ch 284–298.
 - **The Hunter.** One card, ch 297, nine feet off a track, one true sentence, no question, no name on anything he has written. **His request is still pending.** The line's own people still do not know she exists.
 - **Untouched:** the relicensed licence never opened; the register read once and never corrected; the Clay Plate worn against her ribs; **MEMBER ABSENT ×3, unraised**; the year of non-forgiveness carrying and untouched; the three sponsors silent; **Feng never on the page**, no second Lung, no second appointment; nothing above the Standing Office of the Second Account named; *kiln-born* zero; what became of the eleven not raised; the ch 150 refusal not softened. **The surface answer paid once at ch 267 and never re-voiced. The tenth part is not given.**
-- **The volume is CLOSED AND AUDITED.** Full table, every repair and the protagonist answer are in **`## Volume 5 close audit — CLOSED`** below. **`outline/volume-06.md` does not exist yet.** Next phase: **the Volume 6 planning phase**, prompt `workspace/volume-05-close-record/PROMPT.md`.
+- **The volume is CLOSED AND AUDITED.** Full table, every repair and the protagonist answer are in **`## Volume 5 close audit — CLOSED`** below. **`outline/volume-06.md` now exists and was written and then repaired by the Volume 6 planning phase — see `## Volume 6 planning — re-run, verified, and eight defects repaired at source` below.** Next phase: **the Volume 6 Batch 0001 card phase**, prompt `workspace/volume-06-batch-0001/PROMPT.md`.
 
 ## Volume 5 Batch 0004 — REVIEW REPAIR
 
@@ -383,6 +383,104 @@ to **write `outline/volume-06.md`** — *The Real Realm*, ch 299–360, goal fix
 this volume, Ning Yan must survive what is on the other side, or the crossing was a death and not an escape* —
 and to open Volume 6's planning. **`outline/volume-06.md` must not exist until that phase writes it, and this
 close did not create a Volume 6 batch directory.**
+
+## Volume 6 planning — re-run, verified, and eight defects repaired at source
+
+**The Volume 6 planning phase re-ran against work it had already completed. `outline/volume-06.md` (552 lines
+as it stood before the repairs below; **583 lines as it stands now**) and
+`workspace/volume-06-batch-0001/PROMPT.md` (107 lines) were already on disk, and
+`outline/batches/volume-06-batch-0001.md` had already been written by the phase that prompt dispatched — 1,541
+lines, fifteen cards, ch 299–313, and it raises two flags against the outline that are answered below. **The
+re-run therefore verified both deliverables against `outline/series.md`, `outline/ending.md`,
+`outline/volume-05.md` and the audited state files rather than rewriting them. Nothing was rewritten wholesale.
+No chapter in Volumes 1–5 was opened. No batch card was written and no second prompt was created.**
+
+**The deliverables are complete against the phase's own list.** `outline/volume-06.md` carries the title, the
+range, the goal sentence verbatim from §9, the Volume 5 question verbatim as a fact on the page, the antagonist
+from §6 item 4 with no named villain and no new final enemy, the structural answer owned and bounded against the
+ch 267 surface answer, the last-page state read off the audited files, the protagonist section with the ch 338
+scene named and its price named in advance, the three inherited structural facts, **Golden Core 4–9 plus
+Nascent Soul 1 with a chapter, a day, an interval and a cost each and a re-derived announcement rule**, a
+four-batch pressure rotation with no two consecutive alike, what is broken and what is refused, the hard rules,
+the seventeen required continuity facts, a concrete resolution against the closing chapters, and a new question
+for Volume 7 that comes out of what Volume 6 resolves. The prompt carries the goal, the read-off starting
+condition, the relationships, the midpoint, the climax, **the protagonist requirement stated in its own
+right**, its statement that the ch 338 scene is not Batch 0001's to spend, the carry forward, the sizing rule,
+the two failure modes forbidden twice, and the do-nots.
+
+### Eight defects found and repaired in `outline/volume-06.md`
+
+1. **A German word had got into the plan.** *Major locations* read *the last **Einrichtungen** of somebody's
+   ordinary country*. **Now reads** *the last of somebody's ordinary country's fittings*. It stood in no batch
+   prompt and in no card file — `grep` returns it in this one file only.
+2. **Authorial scaffolding, in the one section of the outline that is a template for chapter prose.**
+   *Final chapter image* closed *Nine days of road behind her … She will not walk it again **in this book*** —
+   which is the exact string `AGENTS.md` and this file's own hard-rules block forbid, and which Volume 5 cut
+   seven times at its close. **Now reads** *She will not walk it again*, on the Volume 5 close's own repair
+   idiom. **A plan that puts a banned string in the mouth of its final chapter is how seven of them shipped.**
+3. **The second vouching was spent twice.** The midpoint at ch 329–330 named *she lets the second office vouch
+   for her … and cannot be taken back* as the volume's irreversible decision, and Golden Core 9 at ch 357 then
+   paid *she cannot be un-entered twice over* as its cost. **Both were the same act counted twice, which is
+   the failure `AGENTS.md` names as a chapter ending on a neutral action.** **Now split and labelled: ch 329 is
+   the act — she says yes, in daylight, for materials — and ch 357 is the consequence, her finding out what the
+   second vouching has already been copied into. Neither chapter states the other**, the ch 357 cost row, the
+   escalation sequence and *Concrete resolution* were all brought into line, and the refusal at ch 358 is
+   distinguished from both.
+4. **The Batch 0002 rotation row contradicted the power table.** The row read *GC4–GC5*, while *Power
+   progression* pins Golden Core 4 at **ch 310, which is inside Batch 0001's 299–313**. **Both rows now name
+   the stages with the chapters that carry them**, and a line under the table says the rows are a shorthand and
+   the power table is the authority on the day. **This is flag 1 raised against the outline by
+   `outline/batches/volume-06-batch-0001.md`, which declined to edit it because the outline was not that
+   phase's to re-plan. It is this phase's, and it is answered here. No chapter, day, cost or bracket moved,
+   and the card file's own reading — GC4 in Batch 0001, GC5 in Batch 0002 — is the one now written down.**
+5. **The midpoint's elapsed count was wrong.** *Fifteen chapters of being read* describes Batch 0001 only; by
+   ch 329 she has been read for thirty-one chapters. **Now reads** *A month of being read.*
+6. **`## Central pressure` was missing.** `OUTLINE_GUIDE.md` lists it as a required element of a volume outline
+   and `outline/volume-05.md` carries one; `outline/volume-06.md` did not. **Added**, stating that being legible
+   has a price list, she is the one paying it, no instrument past the mill can tell her what it comes to, and
+   **nothing in the volume is an enemy**.
+7. **The escalation rung was unstated.** `outline/series.md` §5 gives *Breaking* (Volumes 6–8) as *opening the
+   Wall and refusing the Order*, and neither of those is Volume 6's — the Order is a Volume 8 antagonist and the
+   Wall is the Volume 6–10 structural answer. **Left as it stood, a drafter could read §5 and go looking for a
+   Wall to open.** The protagonist section now says in terms that Volume 6 takes the first rung and that the
+   break and the refusal are the far-side ones already specified.
+8. **Three different things are called a line.** Flag 2 raised by the card file: the line of work, the keeper's
+   strip that comes down on cloth, and the readable line that is him. **A four-line disambiguation now opens
+   *Major locations*** so no chapter blurs them.
+
+Two further repairs are cosmetic and recorded here rather than argued: *the volume's word **reading*** is now
+distinguished from *the line*, and **the Hand commitment was tightened from *at least once* to the two pinned
+chapters, ch 325 and ch 338**, so no drafter treats a number as a floor to exceed. Required continuity fact 11
+was also re-headed from *The plate still worn or gone* to *The plate*.
+
+### Two repairs made in `workspace/volume-06-batch-0001/PROMPT.md`
+
+1. **The protagonist requirement was referred to and never stated.** The phase requires the prompt to carry it.
+   It carried the ch 338 rule and his ration but not the requirement itself, so a planning model reading only
+   the prompt did not know **that Yuan is the protagonist and is male**, that Volume 6 is the first volume of
+   *Hand*, or that a batch which describes him instead of staging him has failed. **A section now states it**,
+   including the things this batch must not do to him and the note that **the ending still needs him findable**.
+2. **The preserved-facts reference was miscounted and the bracket budget was local.** *Rows 1–16 plus row 17* is
+   now *rows 1–15 are the fifteen the close audit confirmed, row 16 is his readability and the morning he died,
+   row 17 is the change log*, and the batch's single bracket now carries **Volume 6's own figure — six in
+   sixty-two, one at each Golden Core stage** — so a planner cannot treat one-per-batch as the rule.
+
+### Two findings recorded and NOT repaired, because they are not this phase's to fix
+
+1. **`state/open-threads.md` is now wrong about Volume 6's own outline.** Its *Still open* block reads
+   ***`outline/volume-06.md` does not exist yet and must not exist until that phase writes it. Do not create a
+   Volume 6 batch directory here.*** **All three of those files exist**, because this phase wrote the first two
+   and the phase they dispatched wrote the third. **PROPOSED REPAIR, not made here:** delete or restate that
+   sentence and replace the *Next to write* pointer with the live next phase.
+   `state/open-threads.md` is not a file this phase was asked to edit and a closed state file is not silently
+   amended on a planning run. **It matters because a later phase that trusts that line will refuse to open the
+   volume.**
+2. **The eleven-counts measure is recorded at two different figures.** The Volume 5 close audit records it at
+   **five**, which is correct *inside Batch 0004* (284, 289, 295, 297, 298).
+   `outline/batches/volume-06-batch-0001.md` greps the whole volume and returns **ten instances across seven
+   chapters** — 242, 265 ×3, 267, 284, 289, 295 ×2, 298. **Both figures are right about different spans and the
+   card file carries both.** No chapter was opened and no count in `state/` was touched. **Whichever a later
+   budget uses must say which span it is measuring.**
 
 
 ## Who is where at end of chapter 283 — VOLUME 5 BATCH 0003 DRAFTED (superseded by the block above; kept as the record at ch 283)
