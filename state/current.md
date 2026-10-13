@@ -2,9 +2,9 @@
 
 **As of:** end of Volume 1 Batch 0005 (ch 47–58 written). **Volume 1 is complete.**
 
-- **Volume:** 1 of 16 — A Voice in the Dark (ch 1–58) — CLOSED
-- **Chapter written:** 1–58. Next chapter to write is chapter 59, in Volume 2.
-- **Next phase:** Volume 2, Batch 0006 (ch 59+). **`outline/volume-02.md` does not exist yet and must be planned before drafting.** One-sentence goal, from `outline/series.md`: *In this volume, Ning Yan must earn the document that lets her advance at all, or she stays a servant with a god in her head for the rest of her life.*
+- **Volume:** 2 of 16 — The Chosen One (ch 59–118) — PLANNED, not yet drafted
+- **Chapter written:** 1–58. Next chapter to write is chapter 59.
+- **Next phase:** Volume 2, Batch 0006 (ch 59–72). **`outline/volume-02.md` is written and is the acceptance criteria for this batch**; the chapter cards are `outline/batches/volume-02-batch-0006.md` and the phase prompt is `workspace/volume-02-batch-0006/PROMPT.md`. One-sentence goal, from `outline/series.md`: *In this volume, Ning Yan must earn the document that lets her advance at all, or she stays a servant with a god in her head for the rest of her life.*
 - **Point of view:** close third on Ning Yan; every line Yuan speaks is written in the present tense.
 - **In-world date:** winter, the ninth day of an eleven-day ash fall. First snow of the season, grey with ash. The pass at the fourth bridge is closed; the Lowwater road opens for market on the third day.
 
@@ -37,6 +37,82 @@ The Assembly Hall of Qinghe loses its roof in ch 52 and is never rebuilt. The op
 
 **Canon change 5 — the Ashwood Nine-Step source.**
 Confirmed still unshared. She refused to explain it on a floor in front of the whole sect (ch 51) and did not tell Yuan either.
+
+## Volume 2 plan decisions (planning phase, nothing drafted yet)
+
+These are **planned**, not canon. They are recorded here so the first drafter does not have to
+re-derive them, and so that if one is changed later the change is visible rather than silent.
+Full reasoning is in `outline/volume-02.md`. An earlier draft of that outline was rejected during
+planning for the eight errors listed at the foot of this section.
+
+1. **The document is named.** The *Licence to Practise Past Registration*, issued at the
+   **Bureau of Records' county office at Lowwater**, under **Clause Four of the Servant
+   Advancement Settlement**. Three legs: the sponsors' seal, quota clearance from Shen Xiu's
+   office, the county countersignature at Lowwater. **Clause Four, not Nine** — ch 41 already
+   spent a ninth clause.
+2. **Geography.** Lowwater is a county *and* the town under Qinghe Sect. The Bureau's two
+   Lowwater premises are different rooms: the copying floor in Feng Lushi's tower, and the
+   county office on the square. **There is no Qinghe county office; Qinghe is a sect.**
+3. **Hanhui is a place**, eleven days down the road, not a firm. Hou Sanliang is a broker **of
+   Lowwater** holding paper on three of the nine struck households.
+4. **Every Condensing stage in Volume 2 is announced to the whole bound.** Canon, not a change
+   (`bible/power-system.md`, `state/continuity.md` world rule 3). A stage is an ordeal in the
+   body and never a silence. **No tribulation** — a tribulation is drawn by a *trial* (ch 52)
+   and there is no trial in Volume 2. Each stage therefore ends in a decision about whether the
+   sentence is released: ch 78 released, ch 92 released, ch 104 **suppressed at her order**,
+   ch 114 **released at her order**.
+5. **Yuan takes Ledger exactly once**, at ch 80, on her spoken order, for less than a day, at a
+   Settlement spike past nine-tenths. He refuses to hold it again the same day and permanently.
+   `outline/series.md` assigns Ledger to Volumes 3–5; this is the one deliberate, recorded
+   exception and it is not a band change.
+6. **The Merit source of Volume 2 is the kill at ch 100**, and there is no other — Merit settles
+   on a listed kill or a cleared trial, and Volume 2 has no trial. At ch 101 he **tells her
+   before he spends it** and she says yes: rule three paid in full, the ch 54 wound answered in
+   the correct order. The tax takes sequence, not substance, and a left-hand sequence rebuilt
+   at ch 78 is gone. Nothing she loses comes back.
+7. **Settlement clock, stated once.** Channel is weeks of ordinary use remaining, measured against the
+   volume's own rate of ~3.5 chapters a week: ch 58 past two-thirds (~0.67), ~17 weeks → ch 80 past
+   nine-tenths (~0.91), ~6½ weeks (the Ledger spike costs ~4½ weeks) → ch 100 still ~0.91, **about five
+   days left** → ch 101 back to ~0.68, ~11 weeks (Merit spent) → ch 118 ~0.75, ~6 weeks.
+   **Without the kill at ch 100 he is dry inside ch 101.** The Merit comes from that one listed kill
+   and there is no other source in the volume.
+8. **The lie is an exaggeration, not a reversal.** He already told her in ch 57 that a
+   designation is a *writ*, not a reward, and does not unsay it. In ch 92–94 he hardens her own
+   ch 55 conclusion — that the claim cannot take her quietly — into a floor. She works out alone
+   at ch 100 that being Chosen **prices** her rather than sheltering her: the eleven were
+   spaced irregularly because they were *spent at different rates*, not found at different
+   times. **She does not conclude that the Foundation tax was designed.** That is the Volume 11
+   origin answer and is not spent here. Non-forgiveness runs from ch 100 through Volume 3 into
+   the opening of Volume 4 — that is the year the milestone requires.
+9. **Feng Lushi is not resolved in Volume 2.** He receives the four county copies on market day
+  (ch 63 — the road opens ch 61), walls them behind the fifth item, the column stays at five, he
+  coughs, he witnesses the countersignature at ch 115. **No Bureau audit** (that is the Vol 3 traitor beat) and **the offered
+  Lung is neither offered nor refused here** — he takes one in Volume 3.
+
+### Errors the rejected first draft of `outline/volume-02.md` contained
+
+Recorded because each one is a trap that will still be in the next model's head if it is not
+named. The first planning pass produced an outline with eleven hard contradictions with canon
+and was thrown out; a second pass produced six more, which are also listed.
+
+**First pass:** the lie contradicted ch 57 by reversing "a designation is a writ, not a reward";
+a rule that intra-realm stages are not announced, against canon; Ledger retaken in three
+different chapters; the Merit economy inverted, unfunded and renamed *Merit-adjacent reserve*;
+Settlement arithmetic that could not survive its own length; a "Qinghe county office at
+Lowwater"; Hanhui used as a firm; *Cracking* used as a furnace maintenance phase; a second
+ninth clause against ch 41's; the records room moved out from under the furnace; three
+better rooms where the page says four; the first and second filings each dated twice; the
+Volume 11 tax answer handed over at ch 100; the bureau's ears re-revealed although ch 55 and
+58 established them; Feng audited and the Lung refused inside Volume 2; and a Volume 1 closing
+beat reused as the Volume 2 one.
+
+**Second pass:** a sealed-effects regulation that cancelled itself the moment the crew covered
+her shift; ch 104's suppressed breakthrough justified by a licence that does not exist until
+ch 115, and thirty-seven chapters of unexplained sponsorship breach; a Settlement table whose
+rows contradicted the sentence beneath it; Feng receiving the county copies at ch 76 in one
+file and ch 63 in the other; the sworn non-possession of the plate attributed to the sponsors
+instead of to **her**, which is ch 56's beat; and the first filing dated at ch 65 and ch 70 in
+the same breath as a card insisting she files once.
 
 ## Who is where at end of chapter 58
 
