@@ -123,6 +123,7 @@ She walked away from the first desk at the ninth hour and a half with the market
 She got as far as the lane behind the well before it came.
 
 He was not what she had been dreading.
+
 That was the first half, and the first half was enormous, and she had been carrying it since the autumn without ever having put it down: she had been walking four miles up a mountain and four miles back with a stone in her shoe since the sixth day of the winter, and the stone was *somebody will come for me*, and it turned out that the somebody was a man in his forties with clean hands who asked about hours and said thank you.
 
 The second half came a quarter of an hour later and it curdled the first one whole.

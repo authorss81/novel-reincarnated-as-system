@@ -133,7 +133,9 @@ That is what a licence costs a woman who has no one standing behind her, and the
 She wrote it in the docket in the wash code at the ninth hour with the lamp turned away.
 
 *County hour, third hour, day 8. Walked it. 19 minutes each way and it is 21 when the square is full. Hours are on the Qinghe schedule only and the county hour is not on any schedule I can see, and no schedule of mine can be made to hold the walk.*
+
 *Four loads gone, eight coppers, and it will be four loads gone every day the road is open and I am not going to ask for the hour to be moved, because the hour is the registrar's table and the table does not move for a woman with a licence.*
+
 *No surety stands for me. If I am ill there is nobody. If the arm goes in a lane at the second hour there is nobody. I go or the hour is a gap, and a gap in the hours breaks a filing, and a broken filing is the whole of the licence gone and the eight hundred jin standing on nothing.*
 
 She stopped the brush there and read it back and did not put the last line in, because the last line was not true yet and she was not going to write a thing in a log that was not true.
@@ -166,4 +168,4 @@ He was quiet for a moment. She lay in the lamplight with her arm out to the side
 
 “Not for a long time,” said Ning Yan.
 
-Below her, at the bottom of the lane, the board was still up, and there was a mat standing on a bank at the edge of the track with stones still in it, and eleven people had walked round a mat all afternoon without one of them having been asked to do anything at all about it.
+At the bottom of the lane the mat was standing on the bank where she had left it, with the stones still in it, and eleven people had walked round a mat all afternoon without one of them having been asked to do anything at all about it.

@@ -133,7 +133,9 @@ And the licence that took four months and a dead man's name and a defect in her 
 She wrote it in the log on the back of the docket, in the wash code, lying on the loft mat with the lamp turned away.
 
 *Hired. Stone. Board behind the well. Six loads to the water. Twelve coppers the load. Left hand on the board because the right one is out about one time in three and the man did not ask why.*
+
 *The sheet is not a county sheet. Nobody certifies it. Nobody copies it upward. Nobody has ever heard of it.*
+
 *I am on it in chalk in a lane forty paces long, and there are eleven strangers in that lane and not one of them knows what I am, and I am going to keep coming back for as long as the road is open.*
 
 Then she stopped, and looked at it, and added one line underneath in the same code, because it was true and because she was the sort of woman who had been the sort of woman since she was eleven.

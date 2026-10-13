@@ -180,4 +180,8 @@ The two things he said in that room were going to reach three men four miles up 
 
 And she had spent nineteen days walking a lane and giving a man in a market one true sentence and telling a girl in a wash house another one, and the man at the counter had walked out of the office with the whole of her in his hand.
 
-None of it was a threat. Not one person in that room had done anything wrong. A clerk had sold a copy. A man had read it. A room had heard two sentences. A registrar had written an hour in a book.
+None of it was a threat. Not one person in that room had done anything wrong, and that was the part of it that sat under her ribs.
+
+And it would get to them, and there would be nothing in the world she could set down beside it, and she would be standing in a Hall with no roof explaining what she had done with a stranger's questions about her.
+
+She got up and put the lamp out at the ninth hour and lay down on the good side, and it was not the lamp that had kept her up.

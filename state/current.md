@@ -2,12 +2,12 @@
 
 **As of:** Volume 3 Batch 0001 (ch 119–132) written. **VOLUME 1 CLOSED. VOLUME 2 CLOSED AND AUDITED. VOLUME 3 OPEN.**
 
-- **Volume:** 3 of 16 — The Hunter (ch 119–178) — outlined in `outline/volume-03.md`; **Batch 0001 written (ch 119–132), 37,159 words over fourteen chapters.**
+- **Volume:** 3 of 16 — The Hunter (ch 119–178) — outlined in `outline/volume-03.md`; **Batch 0001 written (ch 119–132), 37,177 words over fourteen chapters.**
 - **Chapter written:** 1–132. Next chapter to write is **chapter 133**, which opens **Volume 3 Batch 0002** (ch 133–148): audit and mercy.
 - **Next phase:** **Volume 3, Batch 0002**, at `workspace/volume-03-batch-0002/PROMPT.md`. It writes the batch cards for Volume 3 Batch 0002 out of `outline/volume-03.md` and the state files as they now stand, before any chapter is drafted.
   The one-sentence volume goal is fixed by `outline/series.md` §9: *In this volume, Ning Yan must survive being hunted as an unauthorised System, or Yuan is dismantled and she is told she imagined him.*
 - **Point of view:** close third on Ning Yan; every line Yuan speaks is written in the present tense.
-- **In-world date:** **day 39** of Volume 3's own clock. **Day 0 is the last day of the thaw** (canon change 30), which is where the season's books close. She stands at **Condensing 5 with a ceiling of Condensing 9**, in the first weeks of summer, five and a half weeks on from a licence that capped her at five.
+- **In-world date:** **day 39** of Volume 3's own clock. **Day 0 is the last day of the thaw** (canon change 30), which is where the season's books close. She stands at **Condensing 5 with a ceiling of Condensing 9**, in the first weeks of summer, five and a half weeks on from a licence that capped her at five. **Batch 0002 runs day 42 to about day 130** — not day 120; the corrected clock and its day table are at the foot of this file and in `workspace/volume-03-batch-0002/PROMPT.md`, and **Batch 0003 opens at about day 133.**
 
 ## Who is where at end of chapter 132 — VOLUME 3 BATCH 0001 CLOSED (cold reader starts here)
 
@@ -52,13 +52,13 @@ Written after batch 0009 closed Volume 2; re-checked after Batch 0001. **The Fen
 
 **Do not open a second accident, death, frostbite, starvation or rescue.** The shoring over the cold end was signed over at the seventh hour in Volume 2, not re-inspected; five men are posted against a strength of six.
 
-**Do not record a chapter-length trade-off.** Guide 1,800–2,700; floor 1,300. Batch 0009 closed at 28,234 words over fifteen chapters, ~1,882 average. **Volume 3 Batch 0001 closed at 37,159 words over fourteen chapters, ~2,654 average, with eleven of the fourteen individually inside the guide and three long ones on the crate, the clearance and the countersignature.**
+**Do not record a chapter-length trade-off.** Guide 1,800–2,700; floor 1,300. Batch 0009 closed at 28,234 words over fifteen chapters, ~1,882 average. **Volume 3 Batch 0001 closed at 37,177 words over fourteen chapters, ~2,656 average** — inside the guide on the average, with **seven of the fourteen individually above it** (120, 126, 127, 129, 130, 131, 132) and seven inside. The first record said eleven were inside and named three long ones; that was wrong and is corrected. Nothing is padded and length follows the scene, so the long ones stand.
 
 ## Volume 3 Batch 0001 — acceptance check, card by card
 
 Cards written first at `outline/batches/volume-03-batch-0001.md` from the phase prompt and
-`outline/volume-03.md`, before any chapter. Fourteen chapters, 119–132, **37,159 words, average
-~2,654.**
+`outline/volume-03.md`, before any chapter. Fourteen chapters, 119–132, **37,177 words, average
+~2,656.**
 
 | Card requirement | Status |
 | --- | --- |
@@ -821,6 +821,54 @@ do not turn it into a motif). The number fifty-eight is **not** a motif. The fou
 release rule are spent at ch 54 — she derives the four seconds from the rule alone and **neither
 of them ever says the number out loud; do not say it now.** Volume 2 batch 0006's own spent list
 is at the foot of `state/continuity.md`.
+
+## Volume 3 Batch 0001 review repair — historical note
+
+Repaired against `logs/next.review.log` without restarting the batch and without changing the
+planned plot. **No title, no chapter order, no ending type, no condition, no bracket and no word of
+plot changed.** What moved:
+
+- **Paragraph cap, the real defect.** Seventeen paragraphs rendered over ninety words, two over the
+  hard hundred-and-twenty ceiling (the three-line wash-code log in **0121** at 164 words and Sun He's
+  licence valuation in **0132** at 139). **Every one of the seventeen had the same cause** — two or
+  three lines joined by a *single* newline where a blank line belongs, which markdown renders as one
+  paragraph. All seventeen are split at their natural beats. **In the ten chapters that took nothing
+  but the split, not one non-blank line differs from what was written**, checked line for line against
+  the pre-fix file. Longest rendered paragraph is now **90 words** (ch 125 and ch 130). Net across
+  the batch: **+18 words.**
+- **A garbled merge at the close of 0131.** *"It was the first weeks of summer. in the light of a
+  morning"* was two sentences run together with a lowercase start. Now one sentence.
+- **A duplicated closing image.** 0119 and 0121 both ended on *the board was still up*. The mat on
+  the bank is the better image and the one that carries 0121's actual beat, so **0121 keeps the mat
+  and loses the board**; 0119's board-and-chalk close is untouched.
+- **A narrator prolepsis at the close of 0132** — *she would not find that out until much later,
+  which is the shape of the whole of this* — same family as the banned *little did he know*. Cut.
+  The chapter now ends on **one coin and one sheet**, which carries the irony without announcing it.
+- **A four-declarative recap at the close of 0126** — *a clerk had sold a copy, a man had read it,
+  a room had heard two sentences, a registrar had written an hour* — replaced with a landed beat:
+  the dread of being correct, and a woman putting the lamp out and lying down on the good side.
+- **`workspace/volume-03-batch-0001/SUMMARY.md` was reporting a check that was false.** It claimed no
+  paragraph over ninety words. It now records what is true and states the correction rather than
+  quietly replacing it.
+  - **Why the check was false, and the rule that follows.** The original number — *longest exactly
+    ninety, ch 125 and ch 130* — is precisely the figure the batch has **after** the fix. The check
+    was almost certainly run with a splitter that broke on `\n` rather than on a blank line, so it
+    measured the file's *lines* and never measured the paragraphs a renderer produces. **A paragraph
+    check on a markdown chapter must split on `\n\s*\n`.** Run it that way or it is not a check.
+
+**Day clock, corrected.** Batch 0002's prompt fixed the batch at *day 42 to day 120* and separately at
+*stage six about day 81*, which cannot both hold. Reconciled against `outline/volume-03.md`: **stage
+six is six weeks of double-schedule labour after day 39, so day 81 at ch 135; stage seven is five
+weeks of escort-road work after stage six, so day 116 at ch 148; the two weeks of fever it costs
+carry the batch close to day 130.** Batch 0002 therefore runs **day 42–130** with deliberately uneven
+pacing — ch 133–135 carry six weeks, the other thirteen carry five — and **Batch 0003 opens at about
+day 133.** The day table is in `workspace/volume-03-batch-0002/PROMPT.md`. **This is an arithmetic
+correction and moves no beat.**
+
+**Not touched, and flagged for the controller rather than edited:** `reviews/` is empty and
+`state/phase-ledger.json` does not exist, so no durable record of this review survives a checkout;
+and Batch 0002's prompt still requires the writer to author sixteen chapter cards and sixteen
+chapters in one run. Both are controller-owned.
 
 ## Volume 1 review repair (after batch 0005) — historical note
 

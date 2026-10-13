@@ -129,6 +129,7 @@ She took the brush in her left hand and wrote a number on the certification line
 It was fifty-eight.
 
 That was what she had worked out on a loft mat on the twenty-eighth night with a docket in her coat, and it was not a round number and it was not a hopeful number.
+
 It was six loads a day on the days the road was open and three hours at the water channel a day at a rate that was a third of what a two-armed woman gets out of the same channel in the same hour, which is what she had actually been doing since the fourth day of the first week of summer and had not admitted to anybody.
 
 Fifty-eight hours in the seven weeks that were left.
@@ -202,6 +203,7 @@ That was the part that sat badly.
 Not the signature. The signature was a line in a book and he had made it in one stroke and she had the whole of it.
 
 Something else: he had not weighed it.
+
 Not for her, not for anyone, not for the fact that she was the only member in eleven years to advance on a schedule that had nine households struck out of it, and when she had been in that room in the spring she had believed, without ever having tested it, that a man with a quota book would eventually move a figure for an arm, and he had told her in the thaw that he would not, and she had gone away from it not believing him.
 
 Down the four miles of road she worked out the whole of what the clearance had bought, because it was the first leg and it had to be done first and three men in a corridor had made her understand why before they had said it.

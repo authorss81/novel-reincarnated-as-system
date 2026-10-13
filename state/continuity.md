@@ -320,10 +320,29 @@ rather than made silently, in the same convention as *Date clash — ch 111 vs c
 
 ## Established facts, Volume 3 Batch 0001 (ch 119–132) — EXAMINATION AND EXPOSURE
 
-Volume 3 opens. Fourteen chapters, **37,159 words**, average ~2,654. **Day 0 is the last day of the
+Volume 3 opens. Fourteen chapters, **37,177 words**, average ~2,656. **Day 0 is the last day of the
 thaw** (canon change 30); the batch runs **day 2 (ch 119) to day 39 (ch 132)**, five and a half weeks.
 Chapter days: 119 = 2 · 120 = 4–5 (the only two-day card) · 121 = 8 · 122 = 11 · 123 = 14 · 124 = 17 ·
 125 = 20 · 126 = 23 · 127 = 25 · 128 = 27 · 129 = 28 · 130 = 31 · 131 = 35 · 132 = 39.
+
+**Repaired after the batch-0001 review.** No fact above moved, and no chapter day moved. The repair
+was to the rendering, not the record: seventeen paragraphs were over the ninety-word guide and two
+were over the hard hundred-and-twenty ceiling, every one of them caused by single newlines where blank
+lines belonged, and all are now split — **in the ten chapters that took nothing but the split, not one
+non-blank line differs from what was written.** Longest rendered paragraph is now **90 words**. Two closers were
+de-duplicated (0119 / 0121 both ended on *the board was still up*; **0121 now ends on the mat on the
+bank**, which is that chapter's own beat), two narrator prolepsises were cut (0126, 0132 — 0132 now
+ends on *one coin and one sheet*), one garbled sentence was repaired (0131), and one recap close was
+replaced with a landed beat (0126). `workspace/volume-03-batch-0001/SUMMARY.md` had reported a
+paragraph check that was false and now states the correction.
+
+**The forward clock, corrected and inherited.** Ch 132 = **day 39**. **Batch 0002 runs day 42 to about
+day 130**, not day 120: stage six is six weeks of double-schedule labour after day 39 and lands at
+**ch 135 on day 81**; stage seven is five weeks of escort-road work after stage six and lands at
+**ch 148 on day 116**; the two weeks of fever stage seven costs carry the close to about day 130.
+Pacing inside the batch is uneven on purpose — ch 133–135 carry six weeks, the other thirteen carry
+five — and **Batch 0003 opens at about day 133**. Table in `workspace/volume-03-batch-0002/PROMPT.md`.
+Arithmetic correction only; no beat moves.
 
 - **Power: nothing. Condensing 5 for all fourteen chapters, ceiling raised to nine by paper at ch 132.**
   No stage reached, no tribulation, no trial. **Zero bracketed layer lines in the batch** — nothing
@@ -443,11 +462,14 @@ Chapter days: 119 = 2 · 120 = 4–5 (the only two-day card) · 121 = 8 · 122 =
   Sentence, The Second Application, The Dead Writ, The Certified Copy, Under a Misspelling, The Quiet
   Book, The Order of the Crate, Level With the Asked, Nine in Her Own Hand, Relicensed. All unique
   against 1–118.
-- **Chapter length:** 37,159 words over 14 chapters, **average ~2,654 — inside the 1,800–2,700 guide on
-  the average, and eleven of the fourteen individually inside it.** The three that run long are ch 129
-  (2,945), ch 130 (3,003) and ch 132 (3,060) — the crate, the clearance and the countersignature, all
-  of which are complete scenes. Nothing under the 1,300 floor; no monotone decline. No trade-off
-  recorded. **Do not read the average as a precedent either way — write each chapter to its scene.**
+- **Chapter length:** 37,177 words over 14 chapters, **average ~2,656 — inside the 1,800–2,700 guide on
+  the average.** Seven sit individually above the guide and seven inside: ch 120 (2,710), 126 (2,779),
+  127 (2,792), 129 (2,945), 130 (3,003), 131 (2,784) and 132 (3,029) — the public lane, the dread of
+  being correct, the misspelling, the crate, the clearance, the three marks and the countersignature,
+  all of which are complete scenes. **The first record of this batch said eleven of the fourteen were
+  individually inside and named only three long ones; that was wrong and is corrected here.** Nothing
+  under the 1,300 floor; no monotone decline. No trade-off recorded. **Do not read the average as a
+  precedent either way — write each chapter to its scene.**
 - **New minor character:** **Da Shan**, the man at the board in the hiring lane. Not a villain, not an
   ally, no function beyond the hire. He says his deduction out loud so that it is clear it came off one
   woman and nobody else, and the batch keeps him for that.

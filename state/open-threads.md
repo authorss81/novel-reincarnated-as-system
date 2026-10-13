@@ -3,9 +3,15 @@
 **Volume 1 is closed. Volume 2 is closed and audited (ch 59–118). Volume 3 is open: Batch 0001 written
 (ch 119–132).** Live threads below carry into Volume 3 Batch 0002, ch 133–148.
 **Batches 0006–0009 (Volume 2) written; VOLUME 2 CLOSED AND AUDITED. Volume 3 Batch 0001 written,
-37,159 words over fourteen chapters.** The Volume 2 close audit is in `state/current.md` under
+37,177 words over fourteen chapters, and repaired against its review without a restart or a plot
+change.** The Volume 2 close audit is in `state/current.md` under
 `## Volume 2 close audit`; the Volume 3 Batch 0001 facts and a fresh Volume 3 running ledger are at the
 foot of `state/continuity.md`. Volume 3's batch plan is in `outline/volume-03.md`.
+
+**The clock, inherited and corrected:** ch 132 = **day 39**, day 0 = the last day of the thaw.
+**Batch 0002 runs day 42 to about day 130** — not day 120 — with stage six at **ch 135 on day 81** and
+stage seven at **ch 148 on day 116**, and **Batch 0003 opens at about day 133.** Day table in
+`workspace/volume-03-batch-0002/PROMPT.md`.
 
 ## Volume 3 — the two structural questions
 

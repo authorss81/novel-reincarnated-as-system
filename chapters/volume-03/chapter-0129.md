@@ -135,6 +135,7 @@ He did not offer to carry anything.
 That was in the log afterwards and she wrote it down because it was the single strangest thing that happened to her that day and she wanted to be sure later that it had happened.
 
 She got the crate up onto her left shoulder in the room and she got it down four flights of a tower stair with it on her shoulder, and she stopped twice, and at the second stop the arm came open and she changed it across and went on.
+
 Feng stood at the top of the stair with his hand on the rail and coughed, twice, in the way of a man who has something in his chest and is not going to spend it, and he did not come down.
 
 “You do not have to,” said Ning Yan.

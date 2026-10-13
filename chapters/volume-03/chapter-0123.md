@@ -125,11 +125,13 @@ The girl stopped her with the brush, not looking up.
 “Tell me.”
 
 “The county asked for the furnace schedule in writing. Twice, on the ordinary form, any applicant can fill in. It came down the road with the quarter's crate and it sat on a shelf in the third room for two days because nobody in that building knows what a furnace schedule is and nobody wanted to send it back wrong.”
+
 She pulled a sheet across. “So I have written it up on the return sheet with the hour on it, and the hour is my hour and not yours, and it goes up the quarter with everything else that goes up the quarter, and you cannot stop it and you would not want to.”
 
 “You told me that in the spring.”
 
 “I told you that in the spring and it is still true and it is going in the crate on the twenty-eighth day,” said the girl, “and there is a difference now, and the difference is that this time there is a man in this town who has asked me four times in six weeks which office certifies her hours, and the answer is the same answer, and the answer is going into a crate in eleven days on my hour.”
+
 “I am telling you so that you are not standing in this room in a fortnight being surprised.”
 
 The water ran the whole length of the three troughs.

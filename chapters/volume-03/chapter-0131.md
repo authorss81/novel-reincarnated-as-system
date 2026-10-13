@@ -75,6 +75,7 @@ They did not do it quickly.
 That was the thing she had not been ready for, and she had gone up the mountain in the spring braced for three men putting three marks down in about a minute and a half and being finished.
 
 Pei An read the whole sheet first, at the west table, standing, holding it, turning it about a quarter turn to get the light off the wet stone.
+
 He read the clearance and the schedule and the annex and the four clauses and the two of hers, and he checked the hour on the clearance against the hour in the quota book entry that Deng Chao had copied out and brought up in his coat, and he checked the name on the certification line and did not say anything about the order of it, which she noticed and which she had thought about since.
 
 Then Deng Chao read it all out again to Lu Kang.
@@ -120,6 +121,7 @@ He put his hands behind his back.
 He turned round and looked down the length of a Hall with no roof.
 
 “There is a man in Lowwater who has paid a county clerk for a certified copy of our season's schedule and has read it at a public counter and has said two true things about her terms in a county room in front of a queue, and Sun He has written it up, and the line went up to us in a bundle on a Thursday, and none of the three of us has answered it.”
+
 “There is no version of the three of us that is going to answer it.”
 
 “Then you could surrender her to the office that asked,” said Pei An.
@@ -159,6 +161,7 @@ She had written a ceiling down on herself and the third time had been higher tha
 “Say it.”
 
 “I have got a ceiling of nine in my own hand on a sheet with three sponsors' marks on it and a clearance in a book four miles from here,” said Ning Yan, “and I have got exactly the same body I had in the winter.”
+
 “The aperture is the same aperture and the arm is the same arm and the fourth stage of my life is still on no paper in nine counties, and I have been up this road twice to get a number written down and both times I have paid for it with something I cannot get back.”
 
 “That is what it is.”
@@ -174,6 +177,7 @@ Nobody said anything about the book.
 That was the arrangement, and it held in a corridor with a rail down the side of it, and she stood at the west table with a sheet with three marks on it and did not say one word about nine households struck in one stroke over eleven years, and neither did Deng Chao, and neither did Pei An, and neither did Lu Kang, and the clerk at the copy bench thirty feet away copied something else.
 
 The three registers of Qinghe and of three other counties still read *reconciled* for a boy of thirteen who was taken for the kiln and who was alive, on a list, four days' road past a marker post with a white stone on it.
+
 She had gone into the low corner of that Hall and put a schedule of a road into a clerk's hand and kept the road's reason, and it had bought her a signature and it had cost her something she had never been able to name and was never going to be able to name, and the word in that book was a lie with her hand under it.
 
 “Go down,” said Lu Kang. “Take it down yourself. Do not send it with the courier.”
@@ -188,4 +192,4 @@ The win was in her chest on the four-mile road down in the sun and she felt it t
 
 And about halfway down, at the turn at the willows, past the weigh-station where a road four miles long began, the short breath came up at a rise she had gone up forty times, and she had to stand at the side of a cart track with a bundle of paper against her chest and wait for it.
 
-She was twenty. It was the first weeks of summer. in the light of a morning that had cost her four marks and a clearance and a sentence she had written for a registrar to read about an aperture that had not healed by one letter.
+She was twenty. It was the first weeks of summer, in the light of a morning that had cost her four marks and a clearance and a sentence she had written for a registrar to read about an aperture that had not healed by one letter.

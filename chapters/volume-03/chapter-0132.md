@@ -41,6 +41,7 @@ He did stand up, which she had not expected, and put his thumb on the top of it,
 “Three legs,” said the clerk at his elbow. “Seal, clearance, countersignature.”
 
 “Sponsors' seal of the maintaining members of the Hall of Qinghe, all three, on one sheet, in the corridor at the west end, on the thirty-fifth day of the quarter.” He moved his thumb down.
+
 “Quota clearance from the office of the furnace building of Qinghe, granted at the fourth hour of the thirty-first, signed in the quota book and not on this sheet, and the applicant does not enter into that office and was not in a room with the man who keeps it until the day of the signing.”
 
 “That is the leg,” said the clerk.
@@ -104,6 +105,7 @@ He took the stamp and set it down and did not press it.
 The queue waited.
 
 “What has changed is that the labour is on the sheet and it is now on the sheet twice. Nine hundred and forty hours of a tithe and three hundred and eleven of a season and four weeks of an annex in a certified column of its own, continuous from the first entry of the book, and I have had a boy of seventeen run a finger down the whole length of your line and not find anything, because there is nothing in it to find.”
+
 He set the stamp square with the edge of the table. “That is what this licence is worth. It is worth a stamp. It is still not worth a thing you have to be careful about on a road, and the seventh condition is the reason that is true and not a lie.”
 
 He pressed it and lifted it.
@@ -214,4 +216,4 @@ And down in the square, four miles from the ladder she had just come off, a man 
 
 It had her name on it, and it had the address of an annex, and it had a ceiling of nine in it, and it had eight hundred jin standing against a Chosen One who was licensed, capped no longer at five, examined inside a schedule a man in Hanhui had certified, and readable in order by anybody in nine counties with a stamp and a reason.
 
-It had cost him one coin and one sheet. She would not find that out until much later, and by then she would not be able to do anything about it, which is the shape of the whole of this.
+It had cost him one coin and one sheet.

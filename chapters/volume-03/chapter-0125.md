@@ -41,6 +41,7 @@ That was all he said, and then he stopped, and the rain came through the fourth 
 She had prepared three things to say and she had not said any of them.
 
 She had prepared *I know what is in your second book.* She had prepared the fourth line of a debt paper, read upside down over a clerk's tray in a county office in the winter, with its eleven-month-and-eleven-day spacing and its citation of the ledger of the maintaining members of Qinghe by name.
+
 She had had it ready since the seventeenth day, written out in the wash code on a docket in a coat lining, and she had not taken it out and she was not going to take it out, and the reason she was not going to take it out was not mercy and was not fear.
 
 It was that she did not have anywhere to put it.
@@ -54,6 +55,7 @@ So she stood in the rain-light under a dry awning with three men who were not an
 They had not refused.
 
 That was the whole of the difference and it was the worst of it, because a refusal is an answer. A refusal can be argued with, worked around, appealed to a higher office, waited on, or bought.
+
 Three men saying nothing is a door that is not shut, standing open in a wall, with nobody behind it, for as long as the three of them can hold their faces like that, and they can hold it for a very long time, because they have had practice since the sixth day of the winter.
 
 “Lu Kang,” she said. “I am going to ask you a second question and I am going to ask it once. If you do not want it, say so and I will go.”
@@ -75,6 +77,7 @@ He looked at her.
 “So it is still there.”
 
 “It is still there and it is still signed by three of us and it cannot be used for anything at all, and if you went to the Foundation tomorrow you would be doing unregistered practice under a schedule you do not appear on, and it would breach the sponsorship that issued it, and the breach would be on a county sheet in nine counties in about four days.”
+
 He said it without any weight in it at all. “That is not me refusing you. That is a document being dead.”
 
 Then he said the other thing, and he said it to the rain coming through the fourth place rather than to her, and it took her eleven weeks and the rest of that afternoon and most of the following night to understand that he had told her the reason and had not known he was doing it.

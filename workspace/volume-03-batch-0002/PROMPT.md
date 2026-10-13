@@ -39,10 +39,28 @@ and chapters **119–132** for voice. Extend to 113–118 if the budget safely a
   once, not to be re-derived before ch 140. **Since ch 121 he sees her arm go before she can, at no
   cost, as standing Voice.** Four conditions hers, three his.
 - **In-world clock:** **day 0 is the last day of the thaw.** Batch 0001 ran day 2 to day 39 and
-  **ch 132 is day 39.** This batch is roughly **day 42 to day 120**; fix the exact day for each chapter
-  in the cards and reconcile every elapsed figure against it. **Stage six is six weeks of the double
-  schedule after day 39** (so about day 81), and **stage seven is five weeks of escort-road work after
-  stage six** (so about day 116–120). Record the day table in the cards.
+  **ch 132 is day 39.** This batch runs **day 42 to about day 130**, and the pacing inside it is
+  **deliberately uneven.** Fix the exact day for each chapter in the cards and reconcile every elapsed
+  figure against the table below. The table is a correction of the batch span, not a change of plan:
+  six weeks and then five weeks of labour cannot both fit inside day 42–120, and the two stage
+  intervals are canon in `outline/volume-03.md`.
+
+  | Chapters | Days | What the days are for |
+  | --- | --- | --- |
+  | 133–134 | 42–48 | The double schedule opens and its first week is worked |
+  | 135 | 48–81 | **Six weeks of double-schedule labour under the relicensed ceiling.** Announced at her order on **day 81** |
+  | 136–140 | 81–93 | The lawful request, the audit, and the kill on the escort road |
+  | 141–143 | 93–97 | The Lung, offered at 95 and taken at 97 |
+  | 144–147 | 97–116 | Escort-road work under licence scope |
+  | 148 | 116–130 | **Five weeks of escort-road work after stage six**, announced at her order on **day 116**; two weeks of fever carry the close to about day 130 |
+
+  **Stage six is six weeks of the double schedule after day 39, which is day 81, and ch 135 is where it
+  lands — so ch 133–135 carry six weeks between them and the remaining thirteen chapters carry five.**
+  That is the shape and not an error. A drafter who spreads sixteen chapters evenly across the span
+  breaks every elapsed figure in the batch. **Stage seven is five weeks of escort-road work after
+  stage six**, so it lands on day 116 whatever else moves, and the two weeks of fever it costs end the
+  batch near day 130. **Batch 0003 therefore opens at about day 133.** Record the day table in the
+  cards.
 - **The road is OPEN this batch.** The pass is a winter event; the cart days are counted and the road
   shuts with the weather. Do not close it. **No weekday is named anywhere.**
 - **Geography, unchanged:** Lowwater is a county *and* the town under Qinghe Sect. The Bureau has
@@ -71,8 +89,10 @@ one working arm and very nearly dies, and the only thing that pays for it is the
   not. **Da Shan and the board** can carry over as the lane. Crew nine, ten sleepers. The annex hours
   are working and the quota book is watching them.
 - **Ch 135 — Condensing 6, announced at her order. BATCH MIDPOINT-BEAT.** Six weeks of double-schedule
-  labour under the relicensed ceiling, sleeping in the quarters, **arm at a third throughout.** The
-  announcement is a **fresh four-clause sentence carrying the new ceiling**, the way ch 114 carried the
+  labour under the relicensed ceiling, sleeping in the quarters, **arm at a third throughout.** This
+  chapter spans **day 48 to day 81** — the double schedule is already running from ch 133, and ch 135
+  carries the six weeks of it and the arrival. The announcement is a **fresh four-clause sentence
+  carrying the new ceiling**, the way ch 114 carried the
   old one. **This is the layer's first bracketed line since ch 114 — twenty-one chapters of silence —
   and it must land as one.** Cost, on the page: **the announcement fixes her annex address in nine
   counties**, and **Hou Sanliang's counting room opens its book again.**
@@ -147,9 +167,13 @@ paper is laid.
   tense. No other character is ever written in a marked present frame.**
 - Chapter markdown: title heading, optional section headings, plain paragraphs, scarce bold or italic.
   **No blockquotes, code blocks, tables, horizontal rules.** Two to four sentences a paragraph; break
-  over about ninety words; **never over about 120.** Roughly **1,800–2,700 words, floor 1,300**. Batch
-  0001 closed at 37,159 words over fourteen chapters, average ~2,654, with three long ones; **that
-  average is not a per-chapter precedent.** Write each chapter to its own scene. **Do not record a
+  over about ninety words; **never over about 120.** **Check the paragraph count by splitting on a
+  blank line, not on a newline** — batch 0001 reported a clean paragraph check that was false because
+  its splitter measured lines and not paragraphs, and seventeen of its paragraphs rendered over ninety
+  words as a result. Roughly **1,800–2,700 words, floor 1,300**. Batch
+  0001 closed at 37,177 words over fourteen chapters, average ~2,656, with seven of the fourteen
+  individually above the guide and nothing padded; **that average is not a per-chapter precedent, and
+  neither is its seven long ones.** Write each chapter to its own scene. **Do not record a
   length trade-off.**
 - **Close every speech** (`“` == `”`). Multi-paragraph speech closes and reopens per paragraph, the way
   ch 115 and ch 116 do it. Narration is never left inside an open quote.

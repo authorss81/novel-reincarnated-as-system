@@ -176,7 +176,7 @@ bracket or ending moved. The audit table and the repair note are in `state/curre
 
 ## Volume 3 — The Hunter (ch 119–178)
 
-### Batch 0001 (ch 119–132) — examination and exposure. WRITTEN, 37,159 words over fourteen chapters.
+### Batch 0001 (ch 119–132) — examination and exposure. WRITTEN, 37,177 words over fourteen chapters.
 
 | Ch | Title | Summary |
 | --- | --- | --- |
