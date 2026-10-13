@@ -2081,9 +2081,10 @@ died, and no page before ch 236 names it.
 relicensing conditions: **never re-listed**, except the seventh read aloud once on the far side at ch 237. The
 four conditions of the Volume 2 licence: never re-listed. The suppression arithmetic: spent three times in
 Volume 3 and **said once, in new words, at ch 234, and not argued again.** What a surety is for: spent.
-***About four seconds*: nine across ch 179–238 — eight in Batches 0001–0002, one at ch 212 in Batch 0003,
-none in Batch 0004 and none in the last sixteen chapters. A declining rhythm, not a metronome, and not a
-number to reach for again.** ***Eleven weeks*: zero.**** ***Nobody asked, nobody was thanked, there is no
+***About four seconds*: eight across ch 179–238 — three in Batch 0001 (ch 181 twice, ch 191), four in Batch
+0002 (ch 198, ch 205, ch 208 twice), one at ch 212 in Batch 0003, none in Batch 0004 and none in the last
+sixteen chapters. A declining rhythm, not a metronome, and not a number to reach for again.*** ***Eleven
+weeks*: zero.**** ***Nobody asked, nobody was thanked, there is no
 form, there is no column, the record remained, nobody knew, nobody said anything*: all spent or revoiced
 above them, and none available plain.** *The shape of a happy life*: zero. Authorial scaffolding: zero.
 Banned reflexes: zero.
@@ -2109,6 +2110,10 @@ here and in `state/current.md`, `state/open-threads.md` and `state/book-metadata
    seconds*, *a second and a half* and *four minutes*. **The rule stands and is unchanged: do not let it
    become a metronome.** The record is corrected to say what is on the page, and `outline/volume-05.md`,
    `outline/batches/volume-05-batch-0001.md` and `state/current.md` have been brought into line with it.
+   **The budget line immediately above this block was still reading *nine* when the Volume 5 Batch 0001
+   planning review reached it, and has now been corrected in place to eight and re-partitioned 3 / 4 / 1 / 0
+   — so this correction is no longer outstanding anywhere and the sentence a drafter reads at the foot of
+   the volume now agrees with this one.**
 2. **THE WEEKDAY.** *No calendar month and no weekday is named anywhere in ch 179–238* **is true.** Ch 224
    carried the volume's only instance — *I would do the whole of it again on Friday* — and **the close audit
    repaired it in place to *on any working morning*.** The exception no longer stands. **The close review then

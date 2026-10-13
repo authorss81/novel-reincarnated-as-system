@@ -746,8 +746,8 @@ first time there is nothing behind the day.**
 
 Power or resource change: **None. Foundation 9.** **This is the one chapter in the batch permitted to
 state a total, and it states it once, and it states it as a thing she already knows.** A seventh
-counterfoil comes off at the rule, face down on the plank. **No bracket. No figure of him, no Settlement
-fraction and no count of what is left.**
+counterfoil comes off at the rule, face down on the plank. **No bracket, and nothing on the page that
+measures him — no figure of him, no Settlement fraction, no count of what is left.**
 
 Continuity fact to preserve: **The rate is five and it was said out loud at a trestle in the ordinary
 voice at ch 238 and is said out loud again here in the same words and no other words.** The counterfoil
@@ -770,16 +770,15 @@ Immediate goal: Take the heavy end of the bank and find out what she can still d
 in one day, with no one helping.
 
 Resistance: **The stone.** Broken out of a low bank past the post with a bar and a sledge and put up a
-ramp onto carts — **the chapter is watched from the fourth hour to the seventh and the day runs a good deal
-longer than that, which is the point: a man at that yard is here from the fourth to the seventh and she is
-still going when the cart is loaded**, and the ramp is where a load is a load and not a figure. **Weather
-is on it and weather is not a plot: cold, a wind off the rise, and a wet stone that does not hold a boot
-the way a dry one does, and it costs her nothing but time. **Four fingers'
-worth of grip on one hand. Eleven holds in the other out of about seventy tried, and the order is gone out
-of that hand with the heel of it, so every grip is built from nothing, one at a time, before the bar
-lands.** Right arm open a third of the time and about a third more by the sixth hour. **Four counts of
-breath everywhere.** She does more in a day than any man on that yard and it is visible from the ramp and
-she does not once ask for the work and is not refused it and is not thanked.
+ramp onto carts — **and the day runs long past the part of it she is at the plank for, which is the point,
+and she is still on the ramp when the cart is loaded** — and the ramp is where a load is a load and not a
+figure. **Weather is on it and weather is not a plot: cold, a wind off the rise, and a wet stone that does
+not hold a boot the way a dry one does, and it costs her nothing but time.** **Four fingers' worth of grip
+on one hand. Eleven holds in the other out of about seventy tried, and the order is gone out of that hand
+with the heel of it, so every grip is built from nothing, one at a time, before the bar lands.** Right arm
+open a third of the time and about a third more by the sixth hour. **Four counts of breath everywhere.**
+She does more in a day than any man on that yard and it is visible from the ramp and she does not once ask
+for the work and is not refused it and is not thanked.
 
 Information revealed: **She is the strongest body within nine days of road and the yard has a ramp.** The
 only thing anybody here can measure about her is what she turns. **And the hand has a limit, and the
@@ -1009,7 +1008,8 @@ plank writes what he is given, and the keeper writes strips he cannot read, and 
 doing the only thing they are built to do and every one of them is right.** She wants, concretely, for
 one of them to be a villain, and there is not going to be one.
 
-Power or resource change: **None. Foundation 9.** **No bracket. No figure of him, no Settlement fraction and no count of what is left.**
+Power or resource change: **None. Foundation 9.** **No bracket, and the channel rule in its narrow form:
+nothing that measures him, no Settlement fraction, nothing counting down what is left of him.**
 
 Continuity fact to preserve: **Do not name an office above the Standing Office of the Second Account, and
 do not have Yuan state again that he cannot read one.** He read that one office in one breath at ch 236
@@ -1058,8 +1058,8 @@ difference, and she did it anyway.** She wants, concretely, to be a woman who wo
 season somewhere, and she has just made that impossible to have for free.
 
 Power or resource change: **None. Foundation 9.** **This is the batch's irreversible decision and it
-costs days, not power.** No bracket. No figure of him, no Settlement fraction and no count of what is
-left.
+costs days, not power.** No bracket. He is not measured on this page — no figure of him, no Settlement
+fraction, and nothing that counts what is left.
 
 Continuity fact to preserve: **From this chapter she is kept, and no card after it may describe her as
 passing through, between places, or on her way anywhere.** **No card may put her on the road west and no
@@ -1207,8 +1207,8 @@ by anybody for it.** She wants, concretely, a pot and a shelf and a fire she doe
 coppers a day to stand near, and the wanting is so ordinary that it embarrasses her, and she does not say
 it out loud to anyone.
 
-Power or resource change: **None. Foundation 9.** No bracket. No figure of him, no Settlement fraction and
-no count of what is left.
+Power or resource change: **None. Foundation 9.** No bracket, no Settlement fraction, and no page that puts
+a number on what is left of him.
 
 Continuity fact to preserve: **The cold is not explained and does not get a source again** — it had none at
 ch 226 and it has none here, and **that was said once, in new words, and is used here, not repeated.**
@@ -1257,8 +1257,8 @@ not proud and she is angry in the plain and complete way she was angry on a ston
 time she is angry at herself**, because the thing she wants from that room is an answer and the only
 thing the room has is an ability, and she has wanted them confused for four volumes.
 
-Power or resource change: **None. Foundation 9.** No bracket. No figure of him, no Settlement fraction and
-no count of what is left.
+Power or resource change: **None. Foundation 9.** No bracket. Nothing here is a figure of him, a fraction
+of him, or a count of what is left of him.
 
 Continuity fact to preserve: **The seven relicensing conditions are not re-listed and the seventh is not
 read aloud a second time.** **The claim is not answered, not paid, not assessed, not entered anywhere and
@@ -1312,8 +1312,8 @@ because a woman who would take the free end of this would not be the woman who c
 bar and four fingers to be somewhere nobody had heard of her.** What she feels, once, in plain words, is
 that the bill is still hers, and that she has just found out who the creditor's clerk is.
 
-Power or resource change: **None. Foundation 9.** No bracket. **No figure of him on the page, no
-Settlement fraction and no count of what is left.**
+Power or resource change: **None. Foundation 9.** No bracket. **He is not counted here: no figure of him on
+the page, no Settlement fraction, no count of what is left.**
 
 Continuity fact to preserve: **The claim stands. Eight hundred jin. Not answered, not paid, not assessed,
 not torn off.** Hou Sanliang unpaid, patient and never met; the date in Lowwater untouched; Luo Ping a
@@ -1539,17 +1539,38 @@ west reopening and on a thing that has to be written and has not been written.**
       **named** week and no named weekday, and *about six weeks* is how this book says what it says. It now
       reads that way. **The thaw was also given as running eleven days ahead of a road opening; `state/open-threads.md`
       has the thaw and the opening on the same day, and it now says so.**
-- **One fault found in a closed file, recorded here and NOT repaired, because this phase may write one file
-  and that file is this one.** `state/continuity.md`, in the block headed *Construction budget, spent in ch
-  179–238*, still reads ***About four seconds*: nine across ch 179–238 — eight in Batches 0001–0002, one at
-  ch 212 in Batch 0003***. **A grep of `chapters/volume-04/` for *four second* returns eight: ch 181 (×2),
-  191, 198, 205, 208 (×2), 212 — three in Batch 0001, four in Batch 0002, one in Batch 0003, none in
-  Batch 0004 and none in the last sixteen chapters.** The correction is written out in full at
-  `state/continuity.md` line 2100, in the corrections block immediately beneath, and in `state/current.md`;
-  **the budget line above it was never corrected in place and is the one a drafter walking to the foot of
-  the file will read.** **PROPOSED REPAIR, not made here: change *nine* to *eight* and re-partition to three
-  in Batch 0001, four in Batch 0002, one in Batch 0003, none in Batch 0004.** The figure in this file's own
-  traps block is right.
+- **The one fault this pass found in a closed file has been repaired, and the closed file is `state/continuity.md`.**
+  `state/continuity.md`, in the block headed *Construction budget, spent in ch 179–238*, still read
+  ***About four seconds*: nine across ch 179–238 — eight in Batches 0001–0002, one at ch 212 in Batch 0003***.
+  **A grep of `chapters/volume-04/` for *four second* returns eight: ch 181 (×2), 191, 198, 205, 208 (×2), 212 —
+  three in Batch 0001, four in Batch 0002, one in Batch 0003, none in Batch 0004 and none in the last sixteen
+  chapters.** The correction was already written out in the corrections block beneath it and in
+  `state/current.md`; **what was still wrong was the budget line itself, which is the one a drafter walking to
+  the foot of the file reads.** **REPAIRED AT THE REVIEW OF THIS PHASE: *nine* is now *eight* and the partition
+  is written out as three / four / one / none in `state/continuity.md`, and the corrections block says in terms
+  that the line above it has been corrected in place, so the two no longer disagree.** The figure in this file's
+  own traps block was right and is unchanged.
+- **Three faults the review of this phase found in this file, and all three are repaired. Nothing else moved.**
+  1. **THE CH 242 RESISTANCE CARRYED AN ODD NUMBER OF EMPHASIS MARKERS.** The paragraph opened *Weather* and
+     never closed it, so the *Four fingers'* and *Four counts of breath* spans fell out of alignment and the
+     closing sentence of the paragraph rendered bold to the end. **This was a regression introduced by the
+     repair pass above, and the file had no unbalanced paragraph before it.** The original structure is restored
+     exactly — *The stone* · the day clause · *Weather* · *Four fingers'* · plain right arm · *Four counts* — and
+     the file now balances.
+  2. **THE SAME CLAUSE INVENTED THE FAR-SIDE MEN'S HOURS.** It read *"a man at that yard is here from the
+     fourth to the seventh and she is still going when the cart is loaded"*, and opened with *"the chapter is
+     watched from the fourth hour to the seventh"*, which names no watcher and reads as scaffolding. **Ch 237 and
+     ch 238 establish no working hours for the men on that yard** — the only clock the manuscript gives is her
+     own, at the fourth hour and the seventh hour going while she writes (ch 238) — and this file's own rule is
+     that a fact not in those blocks is not canon and no card may use it. **Both sentences are gone.** What
+     remains is the point without the schedule: **the day runs long past the part of it she is at the plank for,
+     and she is still on the ramp when the cart is loaded.** No hour for a man is stated anywhere on this card.
+  3. **THE NARROWED CHANNEL RULE HAD BEEN PASTED VERBATIM SEVEN TIMES.** *"No bracket. No figure of him, no
+     Settlement fraction and no count of what is left."* is functional as boilerplate, but seven identical
+     sentences in fourteen cards is a wall a drafter reads past rather than a rule. **All seven sites still carry
+     all three prohibitions and none has been dropped or weakened; six of them have been reworded**, and only
+     the first (ch 239) keeps the full canonical sentence. **The prohibition itself is still stated once, in
+     canon form, in *The channel*, and a drafter needs nothing else to know it.**
 - **Verified at this re-run and left alone, having been checked rather than assumed:** all fourteen titles
   against every `^# ` heading in `chapters/volume-01/` through `chapters/volume-04/` — 238 headings, no
   collision, and no collision among the fourteen; every title between three and seven words and between
