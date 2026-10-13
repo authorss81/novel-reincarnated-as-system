@@ -28,7 +28,7 @@ was the card file Batch 0001 was drafted against and every card's beat is on the
 drafted against their own prompts and every pinned item in each is on the page.
 **VOLUME 6 IS OPEN AND BATCH 0001 IS WRITTEN. Next to write is Batch 0002's chapters (ch 314–329), pressure
 *work without hire*, against `outline/volume-06.md` and `workspace/volume-06-batch-0002/PROMPT.md`.**
-**Batch 0001 (ch 299–313) is on the page: 24,514 words of body prose over fifteen chapters, average ~1,634,
+**Batch 0001 (ch 299–313) is on the page: 24,531 words of body prose over fifteen chapters, average ~1,635,
 day 621 to day 645, ONE bracketed layer line at ch 310, Golden Core 4 at ch 310, the irreversible decision at
 ch 308 and the unrescued physical risk at ch 307.** `outline/volume-06.md` is the authority for Volume 6 and
 the card file `outline/batches/volume-06-batch-0001.md` is on disk and every card beat in it is on the page. **A later version of this block said that `outline/volume-06.md` did not exist, must
@@ -642,7 +642,7 @@ These come out of the audit itself and bind **Volume 4** first.
 
 ## Volume 6 Batch 0001 (ch 299–313) — what this batch added, live going into Batch 0002
 
-**Fifteen chapters, 24,514 words of body prose, average ~1,634, day 621 to day 645. ONE bracketed layer line, at
+**Fifteen chapters, 24,531 words of body prose, average ~1,635, day 621 to day 645. ONE bracketed layer line, at
 ch 310.** Pressure: **reading and being read** — and nothing else. Full record in `state/continuity.md` under
 ***Established facts, Volume 6 Batch 0001 (ch 299–313) — READING AND BEING READ*** and ***Volume 6 running
 ledger — at end of ch 313***.

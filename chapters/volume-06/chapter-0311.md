@@ -10,11 +10,11 @@ She asked for the clay and the brick that a poor firing of a ring takes, and he 
 
 That is the number. She got it once and he said it once and she did not ask him again about it in any form, and she has not asked anybody about it since.
 
-Nine coppers for a full charge, at prices past the mill, in a country where a day of clearing at a gate five hundred yards from that shed is worth two and a half.
+Nine coppers for a full charge, at prices past the mill, in a country where a day of clearing at a gate about five hundred yards from that shed is worth two and a half.
 
 ## The Size Of A Charge
 
-The second thing she found out is the whole chapter and it took her about four minutes.
+The second thing she found out took her about four minutes and she had it before she was off the step.
 
 A full charge does not come in a size one arm can carry.
 
@@ -32,7 +32,7 @@ She did it in the yard with her back against the outside of the lean-to and it t
 
 A reach is a reach.
 
-A reach and a half was what she could open in a day at the fourth hour, and the rate was five coppers, and two and a half is what is left of five on half a reach.
+Half a reach was what she could open in a day at the fourth hour, and the rate was five coppers, and two and a half is what is left of five on half of one.
 
 Three days of half reaches is seven and a half.
 
@@ -68,9 +68,9 @@ She broke it to a carrying size on the flat stone by the door at the dark with t
 
 ## Three Days Is Enough
 
-The twenty-seventh was a reach and a half.
+The twenty-seventh was half a reach.
 
-The twenty-eighth was a reach and a half.
+The twenty-eighth was half a reach.
 
 Seven and a half in three days, less what a third of a sack cost her, and the ring came up on the night of the twenty-eighth banked low in the corner of the shed floor, lower than it had ever been, and it gave her back about as much as a thing of that size gives back.
 

@@ -82,7 +82,7 @@ On the first night out past the wheel she had slept on the ground, because there
 
 “It has been twenty-three days since you walked out of that yard,” he said. “That is the longest you have gone in one direction without stopping.”
 
-She did not answer him and she did not tell him to stop.
+She did not answer him out loud and she did not tell him to stop, and she sat with her back against the boards and let the cold come up through her.
 
 She was eighteen years old and she was standing in a country where an office could read her and a wage could be set for her and there was nobody within nine days of road who knew her name, and she had been afraid of all three of those for five months, and she had gone on walking.
 

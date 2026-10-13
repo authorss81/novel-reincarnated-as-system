@@ -20,7 +20,7 @@ She had known that on the eighteenth and had gone home and worked it out anyway,
 
 The square of nothing in that book was about the size of four fingers.
 
-She did not ask the man behind the counter anything. She put her hand flat on the counter on the side she could reach it with, the way she had done five times in five months, and she said, “The book is open to a blank.”
+She did not ask the man behind the counter anything. Her hand went down flat on the counter on the side she could reach it with, and she said, “The book is open to a blank.”
 
 “It is,” he said.
 

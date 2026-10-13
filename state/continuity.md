@@ -4243,9 +4243,10 @@ paragraph-level duplicate scan returns **only the two intentional bookend pairs 
 
 ## Established facts, Volume 6 Batch 0001 (ch 299–313) — READING AND BEING READ
 
-**Fifteen chapters, 24,514 words of body prose, average ~1,634, day 621 to day 645. ONE bracketed layer line, at
+**Fifteen chapters, 24,531 words of body prose, average ~1,635, day 621 to day 645. ONE bracketed layer line, at
 ch 310. Chapter titles and section headings excluded. Drafted against `outline/volume-06.md` and against the
-fifteen cards at `outline/batches/volume-06-batch-0001.md`. Every card beat is on the page.**
+fifteen cards at `outline/batches/volume-06-batch-0001.md`. Every card beat is on the page.** *(24,514 before
+the review repair; the seventeen words are the repair itself and no beat, day, title or stage moved.)*
 
 ### The batch in one sentence
 
@@ -4566,7 +4567,7 @@ card file's page said zero by absence of text; this is the measurement of text.*
 
 | Construction | Result across ch 299–313 |
 | --- | --- |
-| **Authorial scaffolding** — *this chapter, this volume, in this book, for the rest of the book, the reader, in this batch, another batch, N volumes* | **0** |
+| **Authorial scaffolding** — *this chapter, this volume, in this book, for the rest of the book, the reader, in this batch, another batch, N volumes* | **0 as scaffolding.** **One instance of the string was found and cut at review:** *the second thing she found out is the whole chapter*, at ch 311, which is scaffolding and not a thing a person in a shed thinks. The one surviving hit is **ch 305, *the answer does not go back down into this book*** — that is the physical ledger in the counter's room, not this manuscript, and it is left standing. Grepping the literal string *in this book* therefore returns one hit that is correct prose |
 | **Bracketed layer lines** | **1, at ch 310**, matching the pinned text character for character. Zero in the other fourteen chapters |
 | ***About four seconds*** (retired out of Volume 4, two uses left standing in Volume 5) | **0.** Two instances were written into ch 304 and cut before the batch was saved |
 | ***Eleven weeks*** (retired) | **0** |
@@ -4582,8 +4583,8 @@ card file's page said zero by absence of text; this is the measurement of text.*
 | **Markdown** | **0** blockquotes, code fences, tables and horizontal rules across the fifteen files |
 | **Quotes** | **Every speech closed in all fifteen files**; **0 straight apostrophes and 0 straight double quotes** |
 | **Paragraphs** | Longest paragraph in the batch is exactly 100 words, at ch 309. No paragraph over 110 |
-| **Duplicated paragraphs** | **0.** A paragraph-level duplicate scan across the fifteen files returns nothing |
-| **Length** | **24,514 words of body prose over fifteen chapters, average ~1,634. None under the 1,300 floor and none above the 2,700 guide.** Per file: 299 1,927 · 300 1,685 · 301 1,787 · 302 1,591 · 303 1,557 · 304 1,787 · 305 1,822 · 306 1,722 · 307 1,498 · 308 1,694 · 309 1,440 · 310 1,465 · 311 1,579 · 312 1,558 · 313 1,402 |
+| **Duplicated paragraphs** | **0 exact.** A paragraph-level duplicate scan across the fifteen files returns nothing. **Near-duplicate scan at ≥0.5 six-gram overlap: 12 pairs before repair, 6 after, and the six are the book's standing motifs** — the strongest-body sentence at 299/304/307 (two pairs), the *whole of the hiring* frame at 300/302, the did-the-sum / did-not-do-the-sum pair at 309/310, the channel's *In the shed at the mill, on the boards* header at 302/304/306/311, and the inventory-then-the-sentence pair inside 300. **Six verbatim repeats were broken at review: 304, 306, 307, 308, 310, 313** |
+| **Length** | **24,531 words of body prose over fifteen chapters, average ~1,635. None under the 1,400 floor and none above the 2,700 guide.** Per file: 299 1,927 · 300 1,685 · 301 1,787 · 302 1,591 · 303 1,557 · 304 1,792 · 305 1,822 · 306 1,712 · 307 1,498 · 308 1,696 · 309 1,440 · 310 1,467 · 311 1,578 · 312 1,558 · 313 1,421 |
 | **Titles** | All fifteen unique against all 298 closed headings and against each other; **313 `^# ` headings across the manuscript, zero collisions** |
 | **Tribulation / suppression arithmetic** | **0 / 0** |
 | ***Kiln-born*, Anchor, Sisterhood, Lung, appointment, MEMBER ABSENT, sponsor, Shen Xiu, Scribe, reconciled, erased, base went out, four weeks, could not account, vouched, sending, sent for, licence, license, plate*** | **Zero on the page of this batch** |
@@ -4594,3 +4595,56 @@ because a budget that only ever reports clean is not a budget:** *about four sec
 and the retired thanks fact written at ch 300 as well as at its one licensed home at ch 309. Both were cut and
 re-counted. **No beat, day, title, turn, midpoint, climax, irreversible decision, bracket or stage moved, and
 no chapter in `chapters/volume-01/` … `chapters/volume-05/` was opened.**
+
+### Volume 6 Batch 0001 (ch 299–313) — REVIEW REPAIR
+
+**Thirteen prose repairs across seven chapters — ch 304, 306, 307, 308, 310, 311 and 313 — and one arithmetic
+fault that had propagated into this ledger and into `state/chapter-summaries.md`. No beat, day, title, turn,
+midpoint, climax, irreversible decision, bracket or stage moved, and nothing in `chapters/volume-01/` …
+`chapters/volume-05/` was opened. The batch was not restarted and no chapter was rewritten.**
+
+**The fault that mattered — ch 311's arithmetic contradicted ch 310 and its own card.** The chapter opened
+*Half a reach was what she could open in a day* and then said *The twenty-seventh was a reach and a half* and
+*The twenty-eighth was a reach and a half*, at five coppers a reach, which is fifteen coppers across two days
+against the **seven and a half** the same chapter states at the bottom and against **two and a half a day** in
+the money table above. Golden Core 4 at day 638 had already halved her to a half reach a day, and the twenty-
+seventh and twenty-eighth are two days after it. **Three lines now read half a reach**, and the four-line
+arithmetic is **half a reach a day at five = two and a half, three days = seven and a half, a charge = nine,
+so four days of clearing and then three trips** — which reconciles with ch 310, with the card at
+`outline/batches/volume-06-batch-0001.md`, and with ch 313. **`state/chapter-summaries.md` carried the same
+error in the ch 311 entry and was corrected with it.** Nothing else in the batch touched the money: the five
+figures, the four chapters and the rate are exactly as they were.
+
+**Authorial scaffolding, one instance, cut.** ch 311 opened the size-of-a-charge section with *The second thing
+she found out is the whole chapter.* It now reads *The second thing she found out took her about four minutes
+and she had it before she was off the step.* **The row above now stands at zero and says so honestly.**
+
+**Six verbatim repeats broken, at 304, 306, 307, 308, 310 and 313.** The gate payment was described in almost
+the same words three times, at 303, 309 and 310; **310** now reads *The same fold in the inside of the door
+frame, the count done by him out loud, into her own hand.* The counter hand — *flat on the counter on the side
+she could reach* — stood at 305, 306 and 308; **306** and **308** were recast and 305 keeps it. The refusal of
+the channel, *She did not answer him and she did not tell him to stop*, stood whole at 304 and whole again at
+313; **313** now reads *She did not answer him out loud and she did not tell him to stop, and she sat with her
+back against the boards and let the cold come up through her*, so the batch does not close on a line it has
+already used. The strongest-body sentence was one sentence three times; **307** now opens *For four years*, and
+the three instances no longer share a frame. *worked until the light was off the field* stood at 302 and 304;
+**304** now reads *did not come out of it until*. *About as long as it takes to look at a door* at 308 echoed
+312; **308** now reads *the length of one look at a door*. **About four minutes** ran twice inside 310; the
+second now reads *the length of a breath she could not feel the end of*.
+
+**Deliberate, and left standing.** The *In the shed at the mill, on the boards* channel header is a ritual and
+runs at 302, 304, 306 and 311. *That was the whole of the hiring and it took about as long as the tray took to
+lift* answers *…as long as the gate took to open* at 302, and the pair marks the two thresholds. At 309 she
+does the sum and at 310 she does not, and the shared sentence is the point of the pair. The short line at 300,
+*She had not been in use since the seventh of a month*, distils the inventory above it and the next paragraph
+names it as the sentence the whole chapter was sitting on. **None of these was touched.**
+
+**One hedge added and no distance moved.** ch 310 puts the material shed *about a quarter of a mile* east of
+the gate and ch 311 said *five hundred yards* flat; the gate-to-shed figure at 311 now reads *about five
+hundred yards*, so both statements are hedged and neither asserts a number the other denies. **No map
+changed.**
+
+**Re-measured after the repair:** 0 exact duplicate paragraphs; 6 near-duplicate pairs, all motifs; 0 bold;
+4 italic spans, all documentary, unchanged; 1 bracketed line, at ch 310, matching the pinned text; 0 blockquotes,
+code fences, tables or horizontal rules; every speech closed, 0 straight quotes; longest paragraph still 100
+words at ch 309; **24,531 words, average ~1,635, shortest ch 313 at 1,421, longest ch 299 at 1,927.**

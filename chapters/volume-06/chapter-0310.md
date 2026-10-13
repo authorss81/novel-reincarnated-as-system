@@ -56,7 +56,7 @@ She got half a reach done by the seventh hour and came up out of the cut and sto
 
 ## Two And A Half
 
-He paid her out of the fold of cloth in the inside of the door frame into her own hand with the count done by him out loud.
+The same fold in the inside of the door frame, the count done by him out loud, into her own hand.
 
 Two and a half.
 
@@ -68,7 +68,7 @@ She put it in the front of her coat where she kept it and did not do the sum.
 
 She did not have the fear she had at the third.
 
-At the third, in the middle of a reach at the last working point, she had stood still for about four minutes and had not been able to account for a single thing that had happened, and it had taken eleven men two hundred yards behind her to go back to work.
+At the third, in the middle of a reach at the last working point, she had stood still for the length of a breath she could not feel the end of and had not been able to account for a single thing that had happened, and it had taken eleven men two hundred yards behind her to go back to work.
 
 This was not that.
 

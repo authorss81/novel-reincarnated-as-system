@@ -6,7 +6,7 @@ She knew what the answer was before she had walked a mile.
 
 She had known it on the twentieth and she had known it on the twenty-first and she had gone down into a drain both days instead of going west, and the twenty-second had happened underneath her, and there was not going to be a twenty-fourth on which to do it.
 
-She walked in with silt still on her coat from a field and put her hand flat on the counter on the side she could reach it with.
+She walked in with silt still on her coat from a field and put her hand flat on the counter, on the side of it that she could reach, and kept it there.
 
 “The strip,” she said. “Is there more.”
 
@@ -24,7 +24,7 @@ The man behind the counter did not move for a moment, and then he put his pen do
 
 That was the whole of the conversation. He did not refuse her, because she had not asked him to do anything. She had asked a question and the answer to it was in a room one flight above him, and a counter keeps books about a room.
 
-She stood there about as long as it takes to look at a door.
+She stood there the length of one look at a door.
 
 At the back of that room there were two doors, and one of them had the stair behind it and the other one had a bench and a broom against it, and above the head of the stair where it went out of the room there was another stair going on up out of the light.
 

@@ -126,7 +126,7 @@ Then she got up and went back down into the cut and finished the reach she had s
 
 She was not going and standing under the post that evening and she was not going and finding the board, and she did not go and stand in a room with a stove in it.
 
-She went back into the water at about the seventh hour and worked until the light was off the field.
+She went back into the water at about the seventh hour and did not come out of it until the light was off the field.
 
 In the shed at the mill, on the boards, with the ring banked low behind her and her coat still on:
 

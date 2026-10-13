@@ -52,7 +52,7 @@ There was nobody within a mile of that cut who would have come.
 
 She was on her back under a bank two feet of standing clay over her with the light out, two hundred yards from a gate where a man and a boy of nine were about their own afternoon, and it had not once occurred to her, at any point between the fourth hour and the dark, that it might be a thing worth asking herself.
 
-She had been the strongest body within nine days of road for four years and she had spent the whole of that advantage underground in a hole with four fingers and an arm at half, and the thing she was angry about afterwards was not the bank.
+For four years she had been the strongest body within nine days of road, and she had spent the whole of that advantage underground in a hole with four fingers and an arm at half, and the thing she was angry about afterwards was not the bank.
 
 It was that it had taken a hole to find out.
 
