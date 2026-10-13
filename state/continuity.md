@@ -1629,12 +1629,41 @@ not learn she saw him as a readout before then either.
 
 ## Established facts, Volume 4 Batch 0003 (ch 209–222) — THE LINE WALKED, AND THE PEOPLE WHO LIVE ON IT
 
-**Fourteen chapters, 28,068 words, average ~2,005.** Day **281 to day 376**. Longest ch 218 (2,425), shortest
-ch 214 (1,559). **Four bracketed layer lines in fourteen chapters, at ch 211, 214, 217 and 220, and zero in
-the other ten.** Batch shape is not monotonic (2,038 · 1,872 · 2,078 · **1,700** · **2,370** · **1,559** ·
-2,160 · 1,917 · 1,860 · **2,425** · **1,756** · 1,999 · 2,107 · 2,227): the peaks are the noise in the ground
+**Fourteen chapters, 28,568 words, average ~2,041** (post-review-repair; pre-repair 28,068 / ~2,005). Day
+**281 to day 376**. Longest ch 218 (2,425), shortest
+ch 214 (1,666). **Four bracketed layer lines in fourteen chapters, at ch 211, 214, 217 and 220, and zero in
+the other ten.** Batch shape is not monotonic (2,038 · 1,872 · 2,078 · **1,809** · **2,247** · **1,666** ·
+2,160 · 1,917 · **1,984** · **2,425** · **1,856** · 2,184 · 2,105 · 2,227): the peaks are the noise in the ground
 (213) and the ground closing (218); the valleys are the kind word that is not said twice (212), the third
 stage (214) and the girl who is idle (219).
+
+### Review repair on this batch — `logs/volume-04-batch-0003.review.log`
+
+**No fact, day, stage, cost, decision or ending changed. Four errors and three craft findings repaired in
+place; the batch was not restarted.**
+
+- **ch 209** — a crew of eleven men and a girl can no longer send forty-five men to cells. **"about forty of
+  them… and five went to one"** → **"about nine of them… and two went to one."** The course crew is
+  **eleven men and a girl of nineteen**, as ch 209's own sixth-hour reading and every later chapter already
+  said.
+- **ch 217** — the rebuild count. **"four times in her life — once at eleven, once at fifteen, once at
+  nineteen, and this was the one that finished"** put one of the four in her future at an age she never
+  reaches. **She had done it twice in her life, and this was the one that finished.** This is the only
+  standing fact the review changed: **the heel went once, three years and a bit ago, and she put two years
+  into rebuilding the order, so the rebuild has happened twice — once, and once more.**
+- **ch 219** — **"the hand is the thing that went in June"** → **"…that went on the twenty-fifth."** **No
+  calendar month is named anywhere in ch 209–222**, and the only time-keeping in the batch is the ordinal day
+  of the month. The twenty-fifth is the day ch 217 gives.
+- **ch 221** — a garbled clause, *"in the two weeks that followedowing two weeks"*, repaired to *"in the two
+  weeks that followed."*
+- **Speech.** **All fourteen chapters now carry quoted speech.** Five (212, 214, 217, 219, 220) carried none
+  in the first draft. The added exchanges are ordinary camp speech and **change nothing**: the trestle talk
+  about the thirty-nine while she waits (212) · the girl of nineteen naming that she is stopping on every
+  pull (214) · a man asking why she stops and being told her hand is slow (217) · a man asking the foreman
+  whether the stretch comes back, and the girl asking whether the forty will be put on (219) · the
+  foreman's daughter asking him in the open what the line through the name is (220).
+- **Restatement cut** in ch 213 and ch 212, and **twenty-six argument-label headings removed**, 116 down to
+  90, 6.4 a chapter.
 
 ### The clock, as drafted
 
@@ -1691,7 +1720,9 @@ stage (214) and the girl who is idle (219).
 5. **MEMBER ABSENT for the second time, on the sixteenth, in a column of its own**, with eleven days of good
    hours beside it and a foot and a half of blank paper in the reason column (ch 212). **Ma Sheng did not
    offer the word again.** He read her line, stood there with his hands at his sides, and went and wrote a
-   man's hours against a stretch. **The offer at ch 205 was never a rule and never a standing arrangement —
+   man's hours against a stretch. **Three men had been arguing at that trestle for the half hour before he
+   came about whether the thirty-nine reads on the nineteenth, and she stood inside that talk waiting for a
+   fourth sentence that did not come.** **The offer at ch 205 was never a rule and never a standing arrangement —
    it was a man, not asked, saying a thing he was entitled to say once.** She learns that she had been
    relying on it, and that it took nine seconds to come down, and that it was built out of nothing.
 6. **Thick drift under a bar makes a noise and keeps making it after the bar stops**, low, under the arm,
@@ -1708,7 +1739,9 @@ stage (214) and the girl who is idle (219).
    three is gone and is not coming back.** She says it once, plainly, and does not say it again in this
    batch. **She is stronger on the flat than she has ever been and worse on the ground she is paid for, and
    both of those are true at the same time and there is nobody in nine days of road to tell her which she
-   is.**
+   is.** **The girl of nineteen stopped at the end of her eight yards and told her she was stopping on every
+   pull — the first true thing anybody has said to her about her body in four years — and she gave her no
+   answer, because there was none she could give.**
 8. **The Hunter attends for thirteen days, buys nothing, asks nothing, threatens nothing, touches nothing,
    enters nothing, and says in the same breath that he has not asked her a question and is not going to
    start** (ch 215). **A field man of a Warden's office cannot unmake a System inside a bound; that is what a
@@ -1733,6 +1766,9 @@ stage (214) and the girl who is idle (219).
     be at the top of the pull.** The distance the order has to travel is four inches. **The writing hand is
     unchanged — the flat of a second finger, eleven minutes** — and she wrote that on the ticket on purpose.
     **The girl of nineteen has the order and is nineteen and is not stupid and is not wrong about any of it.**
+    **At the ninth hour a man she had never spoken to put his bar down flat and asked her why she was
+    stopping on every pull; she said her hand was slow, and he said his was slow too, and went back into it,
+    and asked her nothing else.**
 11. **The ground closed (ch 218).** The decision was made at a table in a room at the west end, by the
     foreman, the tender and the man in the plain coat, **and the reason was the Hunter's own referral read
     out of his notebook by him, because a foreman asked a man with a notebook what the paper was and he
@@ -1747,7 +1783,10 @@ stage (214) and the girl who is idle (219).
     shorter, the contract is smaller, the board has a hole in it where a mark used to get a figure, nine
     men are idle, and the girl of nineteen is idle because a rule does not make an exception for a foreman's
     daughter either, and she is somebody's daughter.** **The men are slower in that ring than she was and do
-    not know it and never will.**
+    not know it and never will.** **One man asked the foreman outright, on the fourteenth, whether the
+    stretch would come back on, and got no reason and no tone. The girl of nineteen asked Ning Yan, on the
+    other side of a cart wheel on the ninth, whether the forty would be put on before the month turns, and
+    was told no, and said she would ask her father, and then that he would say he did not know.**
 13. **She stood outside the wire alone in the worst ground on nine days for about an hour and a half** (ch
     219). **The boot went. She put her weight over the pull. She did not fall, nothing broke, nobody was
     hurt, nobody came.** She got back over the wire undramatically and nobody saw it. **She was jealous of
@@ -1757,7 +1796,10 @@ stage (214) and the girl who is idle (219).
     at the second hour of the seventeenth, with a stroke of a pen, and **he did not do it at night and he
     did not do it in a room**. **The hours to that day stand; the rate stops; the book does not close.** It
     is **the first time in four years a piece of paper has been about her that was written by a person who
-    does not know her.** **The Hunter was there, wrote it down afterward, and said nothing to her.**
+    does not know her.** **The Hunter was there, wrote it down afterward, and said nothing to her.** **His
+    daughter asked him, ten feet off and in the open, what the line was; he told her once and flat that the
+    hours are in the book and stay in it and that a hole in the book is a hole in it, and she said *Oh* and
+    went and got her bar, and nobody looked at Ning Yan while any of it happened.**
 15. **Foundation 5, day 360 — the same week, and the two things are not connected** (ch 220). She had two
     days to be certain of that and being certain was worse than not knowing, because if the stage had cost
     her the name she could have carried both as one thing. **The relief is real and is not defeat: as long as

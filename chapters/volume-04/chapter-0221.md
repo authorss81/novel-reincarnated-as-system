@@ -8,8 +8,6 @@ A course pays by the day and it pays out of a contract, and a contract is held b
 
 She is not too strong for the work. There is no such thing as too strong. There is a book, and the book does not have her in it, and a woman who is not in the book is a woman standing in the open next to a piece of work that eleven men do not need her for.
 
-## Where There Is Anything To Be Had
-
 Past the last stake.
 
 Past the last mark on the board, past the last thing anybody on that course attends, past the wire, there is about three-quarters of a mile of ground that belongs to nobody on that camp's books and to a man who has a book of his own.
@@ -66,7 +64,7 @@ He looked at her about for the length of a mouthful.
 
 That was the whole of what he said about it.
 
-She did not go on it. She did not ask him about it, then or afterwards, and she did not ask him why nobody hires on it and she did not ask him who would be responsible if somebody fell in it, and she has not asked him any of those things at any point in the two weeks that followedowing two weeks.
+She did not go on it. She did not ask him about it, then or afterwards, and she did not ask him why nobody hires on it and she did not ask him who would be responsible if somebody fell in it, and she has not asked him any of those things at any point in the two weeks that followed.
 
 She heard it, and she put it where she puts things she is not going to use yet, and she went back to the trestle and said that she would take what he was offering.
 
@@ -79,8 +77,6 @@ She said it in daylight, at the trestle, with her name said out loud for the sec
 He wrote it in. He wrote the date and the mark of a stretch and the word of the hours in his own hand, in a book that is not the course's book, with four columns and a painted mark, and he did not ask her to confirm anything because there was nothing to confirm.
 
 Five coppers a day and a place at the fire. And bread bought at a store in the mornings, because she is not in the fire, and that arrangement has been the arrangement for two months.
-
-## What It Is
 
 Two books in two hands.
 
@@ -125,8 +121,6 @@ He said that about the way a man says the name of a carter or the owner of a kil
 And then: “A carter will take a person out past the last stake for money. Not on a schedule. You go when he goes and you pay him what he asks and he will take you over the rise and set you down in the middle of a field and come back for you in the evening if he is coming back that way, and he usually is.”
 
 He said: “It is not nothing. It is ordinary country and there are people in it and none of them are waiting for you.”
-
-## The Cost Felt Once More
 
 The fire that is not lit out of her share is the same fire it was at the end of a month that is now four months back, and it is five coppers a day instead of six, and the bread she buys at the store is the same bread.
 

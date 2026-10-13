@@ -10,8 +10,6 @@ She had said *you will be here on the course when I am*, and he had said it back
 
 He did not come to the trestle.
 
-## What He Did For Thirteen Days
-
 He stood on the high ground and he came down to the wire in the middle of the day and he stood about ten feet outside it and watched eleven men and a girl work, and he wrote.
 
 That is all he did, for thirteen days, and it is more than anybody else in nine counties has done about her in four years.
@@ -98,8 +96,6 @@ She stood at the plank and understood it in the time it takes to put a board dow
 
 She did not go and stand in front of him. She thought about going and stood there until her arm was open and did not, and there was no version of standing in front of him that changed anything at all, and she had worked that out at a trestle in a county four hundred miles west about two years before she ever heard of him.
 
-## What She Felt, Precisely
-
 It was not fear. She wanted that written down because she had expected it to be fear every day for four years and it had never once been fear.
 
 It was the specific and entirely adult humiliation of being told, by an honest man who did not want to tell her, that the only thing that can be done about her is going to be done by strangers who have never met her and who will be right.
@@ -113,8 +109,6 @@ The question was whether a line of work keeps its working ground open to an unau
 She was the unauthorised thing. That was in a certificate in a Warden's hand that a clerk entered into a book nine days and four hundred miles west, and it was true, and she had relicensed above it three times and had not touched the paper.
 
 And there is a licensed one in good standing at the centre of it. That is on the same paper. Both are on the same paper.
-
-## The Thing Underneath She Did Not Look At
 
 He said he does not want it.
 

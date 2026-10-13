@@ -160,6 +160,51 @@ coppers, four stubs of paper in an oilcloth, and a licence she has never touched
 
 ---
 
+## Volume 4 Batch 0003 review repair (fix phase)
+
+Repaired against `logs/volume-04-batch-0003.review.log` **without restarting the batch and without changing the
+planned plot.** No title changed, no chapter order changed, no card moved, no day moved, no stage announced
+earlier or later, no cost, no irreversible decision and no ending changed. **Read this before using any batch
+0003 figure quoted anywhere else in the state files.**
+
+- **Four hard errors, all small line repairs.** **ch 221:** a garbled clause, *"in the two weeks that
+  followedowing two weeks"* → *"in the two weeks that followed."* **ch 209:** a crew of eleven men and a girl
+  was sending forty-five men to cells — **"about forty of them… and five went to one"** → **"about nine of
+  them… and two went to one."** **ch 217:** *"she had done it four times in her life — once at eleven, once at
+  fifteen, once at nineteen"* put one of the four in her future at an age she never reaches; **she had done it
+  twice in her life, and this was the one that finished.** **ch 219:** the only calendar month in the batch,
+  *"the hand is the thing that went in June"* → **"…that went on the twenty-fifth"**, which is the day ch 217
+  gives. **No calendar month is named anywhere in ch 209–222.**
+- **The only standing fact the review changed: she has rebuilt the order in her hand twice, not four times.**
+  The heel went once, three years and a bit ago; she put two years into rebuilding; Foundation 4 took it again.
+  Everything else in the ch 217 cost — the four inches, the turn that cannot be built, the writing hand
+  unchanged — is as drafted.
+- **Five of fourteen chapters carried no dialogue at all** (212, 214, 217, 219, 220) and the batch had drifted
+  toward narration *about* a scene. **All fourteen now carry quoted speech.** Every added exchange is ordinary
+  camp speech and **changes no fact, no number, no card and no ending**: three men at the trestle arguing about
+  the thirty-nine while she waits for a sentence that does not come (212) · the girl of nineteen naming that
+  she is stopping on every pull (214) · a man asking why she stops, and being told her hand is slow (217) · a
+  man asking the foreman whether the stretch comes back, and the girl asking whether the forty will be put on
+  (219) · **the foreman's own daughter asking him in the open what the line through the name is, and being
+  told once and flat that the hours are in the book and stay in it (220).**
+- **Restated insights cut** where ch 213 delivered "she found it / she cannot prove it / she told nobody" across
+  three closing blocks, and where ch 212 restated the floor she built out of nine seconds of a decent man.
+- **Section-heading density reduced**: twenty-six argument labels deleted, **116 headings down to 90, 8.3 a
+  chapter down to 6.4**, against Volume 3's 6.2 and Volume 2's 2.3. Scene divisions all stay.
+- **Corrected figures.** **28,568 words, average ~2,041** (was 28,068 / ~2,005). Longest ch 218 (2,425),
+  shortest **ch 214 (1,666)**. Below the 1,800 guide: **212 (1,809), 214 (1,666), 219 (1,856)**. **Longest
+  paragraph is 99 words (ch 220)** — the summary had said 94 — and none is over 120; median paragraph 31
+  words.
+- **Known trade-off, stated rather than hidden.** The batch-level monotony the reviewer also logged — *"That
+  is"* opening 86 sentences in 1,146, against *"She had"* 61 and *"It is"* 50 — was **not** swept across all
+  fourteen chapters. A blanket rewrite of the declarative gear would have cost the good prose the reviewer
+  passed and the batch its voice. It was reduced where it was thickest (ch 212 and ch 213) and left alone
+  where it is doing the work of the present tense the novel runs on. **There are still zero same-opener
+  repeats back to back within a paragraph**, so this is monotony, not a mechanical breach, and it is the
+  right thing for the next audit to take up rather than this one.
+
+---
+
 ## Who is where at end of chapter 208 — VOLUME 4 BATCH 0002 CLOSED (cold reader starts here)
 
 Full record: `state/continuity.md` under ***Established facts, Volume 4 Batch 0002 (ch 193–208)*** and

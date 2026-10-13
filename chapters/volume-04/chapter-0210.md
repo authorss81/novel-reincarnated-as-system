@@ -76,8 +76,6 @@ The space the width of a line, which had been empty since a clerk in that county
 
 A date, and one word.
 
-## What The Word Means
-
 *Held.*
 
 It is an office word and it means that the paper is in a room and has been looked at by somebody whose business it is to look at papers, and that nothing has been done to it.
@@ -85,8 +83,6 @@ It is an office word and it means that the paper is in a room and has been looke
 That is all it means. That is the entire content of it. A clerk wrote it in a county nine days and four hundred miles west, in the ordinary hand, because a form has a place for it and the place was empty and somebody had to put something in the place.
 
 That clerk did not write it for her. That clerk does not know her name. It is possible that clerk did not read the form.
-
-## What She Heard In It
 
 She stood at a trestle in the open on a working morning with a slip of county paper in her hand and eleven people about forty feet off doing a morning, and she looked at the six letters of it for a length of time that a person who was only reading would not have needed.
 
@@ -109,8 +105,6 @@ She stood at the trestle on the morning he went anyway, at the fourth hour, beca
 He loaded two satchels and the crate and one crate that was not lamp oil. He did not take passengers, because he had said so about four days ago in a lane for no reason at all.
 
 He went east at about the fifth hour and the camp went on.
-
-## What It Is To Be This Sort Of Person
 
 There is no money.
 

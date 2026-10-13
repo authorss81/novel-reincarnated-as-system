@@ -12,8 +12,6 @@ She stood still with a bar in a hole in the ground at the fifth hour of a workin
 
 Not faded. Stopped.
 
-## What It Was Not
-
 It was not a loud sound. That is the first thing to say about it and it is the thing that took her two days to get past.
 
 A loud sound is one you turn your head for. This was low, under the bar and inside the ground and up the inside of the arm, and it had no edge on it, and it was about the volume of a man breathing hard four yards off in a hut, and if eleven men had been standing on that ground at the fourth hour she does not think one of them would have heard it.
@@ -47,8 +45,6 @@ She was right. She was right about that as she is right about a pace.
 She was also faster than Ning Yan in that ground and had been since the second week of the month before last, and the difference between the two of them is not strength.
 
 It is never strength. Nobody on that course has ever thought it was strength, including the woman who has been standing in it.
-
-## Why It Is Not Strength
 
 A bar has to be turned over at the top of the pull, in one movement, and the turn has to be there before the arm knows it is going, because the ground is wet to about two feet and if the bar comes up flat the wet under it has nothing to hold to and it comes off in the foot and the boot goes.
 
@@ -116,33 +112,23 @@ That is the whole of what she said and she did not build anything on it and she 
 
 There is a difference between a thing that has been found and a theory, and she built three theories in four years and two of them were wrong and one of them was about a man in her head, and she knows what a theory costs and she knows exactly what hers would cost here.
 
-It cannot be proved. That is the first thing.
-
-She would have to say out loud, to a foreman or a tender or eleven men, that the ground under a line of work gets louder the more has been said, and there is not one instrument in nine days of road that would show it, because the only control in the world is a woman standing in a different place with a different number of things in her.
-
-She would have to be a licensed one explaining what is in her head to a man with a broken thumbnail who has never asked her a question since the day she came out here.
+It cannot be proved. That is the first thing and it is the whole of it. The only control in the world is a woman standing in a different place with a different number of things in her, and there is not one instrument in nine days of road that would show the difference.
 
 She kept it.
 
-That is not a thing she decided in a room. She decided it in the ring on the eleventh, and she did not decide it because she was afraid, and she thought about it for two days afterwards looking for the fear and did not find it where she expected it.
+Not because she was afraid. She decided it in the ring on the eleventh and she went looking for the fear afterwards for two days and did not find it where she expected it.
 
-It is that a fact she cannot prove is worth exactly nothing to a person who is paid by the day, and the moment she said it out loud she would have stopped being a hand on a board and become a licensed one with an opinion, and in a place where people are paid by the day the two of those do not both get to happen.
+A fact she cannot prove is worth exactly nothing to a person who is paid by the day, and the moment she said it out loud she would have stopped being a hand on a board and become a licensed one with an opinion, and in a place where people are paid by the day the two of those do not both get to happen.
 
-She did not say it to the foreman and she did not say it to the tender and she did not offer to fix anybody's schedule.
+She did not say it to the voice, because he cannot read a board, and the only thing he could have done with it was spend something she had not got, and she would have had to pay for it out of a column.
 
-And she did not say it to the voice, because he cannot read a board, and the only thing he could have done with it was spend something she had not got, and she would have had to pay for it out of a column.
-
-## What That Left Her With
-
-She was standing in a foot of the residue of her own announcements in the ground of a country that has never heard one.
-
-That is the sentence for it and she did not say it out loud and was never going to say it out loud to anybody.
+She was standing in a foot of the residue of her own announcements in the ground of a country that has never heard one, and she was never going to say that sentence out loud to anybody.
 
 Nine counties has a word for *servant-born*. Nine counties has a word for *irregular* and a word for *the Chosen One* and a word for the eleventh of a list of eleven designations that two heads hold and no paper does.
 
 There is no word anywhere within nine days of road for a woman whose advancement has leaked into the ground of people who never heard it.
 
-There is not one. She looked for one for two days and there was not one, and the not-finding of one is the worst thing that has happened to her in four years and it is not a thing anybody has done to her.
+She looked for one for two days. There was not one, and the not-finding of one is the worst thing that has happened to her in four years, and it is not a thing anybody has done to her.
 
 ## The Thing She Said Instead
 

@@ -22,7 +22,7 @@ A man came in off a stretch at the second hour or the third and said what he had
 
 The whole of the arrangement was that a hole was visible.
 
-There were eleven men and a girl of nineteen who came past that board every morning before the light was off the hill, and they looked at it and went out, and about forty of them went to a cell that was empty and five went to one that had a figure in it and had been filled again on a day when the stretch was not due.
+There were eleven men and a girl of nineteen who came past that board every morning before the light was off the hill, and they looked at it and went out, and about nine of them went to a cell that was empty and two went to one that had a figure in it and had been filled again on a day when the stretch was not due.
 
 Nobody upstairs of that board existed.
 
@@ -93,8 +93,6 @@ She had been in rooms for four years. She had stood in a hall with no roof with 
 And the whole of the thing that was holding nine days of work together on that plank was sixty painted marks and a rule that a man attends a stretch on the day the stretch is due.
 
 She argued none of it, and she was given no answer, and she did not look for one.
-
-## The Four Places They Were Right
 
 The tender said one thing about the board on the second morning of the three and it was not advice and it was not for her.
 

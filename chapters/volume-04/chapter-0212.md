@@ -44,6 +44,24 @@ That was the same decision and it took about as long as turning a bar over, and 
 
 At about the fifth hour he came past the trestle, and he read her line, because he comes and looks at everything that comes round, and he read the attendance column and he read the fourth column and then he stood there for a bit with his hands at his sides.
 
+There had been three men at that trestle for the half hour before that, and it was the ordinary talk of a camp at the fifth hour.
+
+“Will the thirty-nine read on the nineteenth.”
+
+“The thirty-nine reads when the thirty-nine reads.”
+
+“My father had the thirty-nine in the first week.”
+
+“He had it in the first week. It is not in the first week now.”
+
+The man who had asked took that and went and got his bar, which is what a man does at a trestle on a course, and the other two stayed where they were.
+
+Twice in five weeks she had stood in that spot, and on both of the other times somebody had said a thing to her that was not about work.
+
+She stood on the other side of the plank and waited.
+
+It was about four seconds, and she was aware of every one of them, and nothing came.
+
 And then he went away.
 
 That is all.
@@ -82,13 +100,11 @@ This was something else entirely, and it was small, and she had not known it was
 
 She had known since about the fourth hour of some day in the last month that a man on this course would say something, and she had gone on working, and the going-on-working had been made of the knowing.
 
-There is a difference between a thing that has happened and a thing that a person has decided to expect, and the difference is that a thing that has happened has an end and an expectation does not, and an expectation is a structure you have built out of nothing that a person can take away in nine seconds by not arriving.
+There is a difference between a thing that has happened and a thing a person has decided to expect. A thing that has happened has an end. An expectation does not.
 
-It took nine seconds to come down and it was still standing.
+It came down in about nine seconds, and she was still standing at the trestle when it had.
 
-He had not known he was doing it. He had said one true thing in the ordinary voice to a woman standing in front of a board, and she had gone away and built a floor out of it.
-
-That is the whole of what she had, and she had gone away and built it herself, out of about nine seconds of a man being decent.
+He had not known he was doing it. He had said one true thing in the ordinary voice to a woman standing in front of a board, and she had gone away and built a floor out of nine seconds of a man being decent.
 
 ## The Cold Was Still In Her
 

@@ -2,7 +2,7 @@
 
 **Volume 1 is closed. Volume 2 is closed and audited (ch 59–118). VOLUME 3 IS CLOSED AND AUDITED (ch 119–178).
 VOLUME 4 IS OPEN: BATCH 0001 IS WRITTEN (ch 179–192, 28,608 words), BATCH 0002 IS WRITTEN (ch 193–208,
-31,941 words) AND BATCH 0003 IS WRITTEN (ch 209–222, 28,068 words).** The Volume 3
+31,941 words) AND BATCH 0003 IS WRITTEN (ch 209–222, 28,568 words post-review-repair).** The Volume 3
 close audit table is in `state/current.md` under `## Volume 3 close audit — CLOSED`, and **the review's
 reversal of one of the audit's rules is written up under *Close review repair* in that same block — read it
 before using any four-county or nine-county figure from this run.** Live threads below carry into **Volume 4,
@@ -76,7 +76,7 @@ Ma Sheng, the girl of nineteen and eleven men won their own win at ch 218 and pa
 
 ## Volume 4 Batch 0003 (ch 209–222) — what this batch added, and what is now live going into Batch 0004
 
-**Fourteen chapters, 28,068 words. Day 281 to day 376. Four bracketed layer lines, at ch 211, 214, 217 and
+**Fourteen chapters, 28,568 words after the review repair. Day 281 to day 376. Four bracketed layer lines, at ch 211, 214, 217 and
 220, and zero in the other ten chapters.** Full record in `state/continuity.md` under
 ***Established facts, Volume 4 Batch 0003 (ch 209–222)*** and ***Volume 4 running ledger — at end of ch 222***.
 

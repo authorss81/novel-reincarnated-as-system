@@ -46,8 +46,6 @@ The sequence is gone.
 
 Every grip now has to be built from the beginning, one at a time, by her, in about the length of a breath, before the bar lands. And a bar in a ring has to be turned over in a single movement and there is nobody within nine days of road to learn that from and there is not time to watch a woman learn a hand and no room in a working day for a woman who is learning one.
 
-## What Building One From Nothing Is Like
-
 It is not slow in the arm.
 
 That is the part nobody who has not had one believes. The arm does what it is told and the arm is the strongest thing on that ground and it has never once been the thing that failed.
@@ -78,6 +76,18 @@ She got it over.
 
 She got every bar over for eleven hours.
 
+At about the ninth hour a man she had never spoken to put his own bar down flat and asked her, in the ordinary voice a man asks another man a thing at a ring, why she was stopping on every pull.
+
+“Why are you stopping on every pull.”
+
+“My hand is slow.”
+
+“Mine is slow too,” he said, and went back into it, and asked her nothing else.
+
+She got on with the work.
+
+She turned four hundred bars over that day, one at a time, from the beginning of every one, and the morning went on the way mornings do.
+
 ## What She Wrote About It
 
 On the back of a dead weight ticket, in her own hand, with the flat of a second finger, in about eleven minutes for the four lines, because a county hour takes eleven minutes and an ordinary one takes the same.
@@ -100,7 +110,9 @@ That has not changed and nothing on the twenty-fifth of that month changed it, a
 
 ## The Girl Of Nineteen
 
-The girl of nineteen did her eight yards in eight minutes at about the eighth hour on the twenty-fifth and did not look over, and the whole of the difference between the two of them was in the turn at the top of the pull.
+The girl of nineteen came past at about the eighth hour on the twenty-fifth, did her eight yards in eight minutes, and did not stop at the end of it.
+
+She had stopped once, on the third of a month, and asked a question about it. She did not ask it again, and she did not look over, and the whole of the difference between the two of them was in the turn at the top of the pull.
 
 She was nineteen.
 
@@ -118,11 +130,11 @@ She had lost the ability to do the ordinaryest thing on it.
 
 That is what she has on the twenty-fifth of the month, and the foreman did not soften it and it did not cost him a day's pay, and it changed nothing at all about the wage-book, and the mark of a cross went against her name in the column for the thirty-ninth day of the season the way it goes against every name on that page.
 
-## What Nobody Out Here Can Use
-
 There is a thing about the hand that is worth saying once and only once, because it is the whole of it.
 
-Two years of rebuilding a working hand from nothing, and she had done it four times in her life — once at eleven, once at fifteen, once at nineteen, and this was the one that finished.
+Two years of rebuilding a working hand from nothing, and she had done it twice in her life.
+
+This was the one that finished.
 
 There is nobody within nine days of road who has anything to do with any of it. Nobody in nine counties has ever asked her for it. It is not on the licence and it is not on the back of the licence and it is not in any of the five documents with her hand on them, and the one office that could ever want it does not know that she exists.
 

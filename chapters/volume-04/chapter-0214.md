@@ -58,7 +58,17 @@ And at about the seventh hour she had to put the bar down and stand still for a 
 
 She was better and she was worse and both of those were true at the same time and there was nobody within nine days of road who could tell her which of them she was.
 
-The girl of nineteen did her eight yards in eight minutes at about the eighth hour and did not look over.
+The girl of nineteen came past at about the eighth hour on the same morning, did her eight yards in eight minutes, and stopped at the end of it with her bar on her shoulder.
+
+“You are stopping,” she said.
+
+“I am not stopping.”
+
+“You are stopping on every pull. You were not doing that in the last month.”
+
+That was true, and it was the first thing anybody had said to her about her own body in four years, and there was no answer to it that did not begin with a sentence she was not going to say at a ring at the eighth hour of a working day.
+
+“Then I will leave it,” the girl said, and went down to the far end of it.
 
 ## What She Did About It On The Fourth
 

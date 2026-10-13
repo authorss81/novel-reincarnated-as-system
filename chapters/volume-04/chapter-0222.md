@@ -24,8 +24,6 @@ It did not ring.
 
 It made the sound a bar makes when a bar goes into six inches of anything, and that is the sound, and it stopped when the bar stopped, and there was nothing underneath it afterwards.
 
-## The Thing That Was Under Her Boots
-
 She stood in the middle of that field in the middle of the morning with a bar in her hands and did not move for about a minute and a half.
 
 On the seventeenth of a month that is now two months back she had stood at the far end of the working reach with a bar she had not needed to bring and had said one sentence to herself in the ordinary way a person talks to themselves in the open.
@@ -75,8 +73,6 @@ She came over, because there was a woman standing in a field holding a bar and n
 The woman looked at her for about as long as a person looks at a thing they are going to buy or sell.
 
 “Wei Ran,” she said. “I run one team out past the far end and back. If you want to be picked up, you stand at the gate at the seventh hour and I do not take anybody who is standing in a field.”
-
-## The One Question
 
 She asked it once, in the ordinary voice, at about the second hour of the afternoon, sitting on the flat cart with her boots off because she had been in them since the fourth hour and the ground out here is not a ring.
 
@@ -139,8 +135,6 @@ Past the ground she had been standing in all day there is a rise and over the ri
 She had not been near it. She was not going to be near it before somebody paid her to be near it.
 
 She got on the flat cart at about the seventh hour with her bar and her boots on and she was set down in a stand of ground about two hundred yards past the last stake at about the light, and there was a fire going at the sub-contractor's trestle and four men at it and a book open on the plank.
-
-## What She Has
 
 The quietest ground on nine days, and a woman of twenty on a flat cart who went through without permission and said four words about it and loaded stone.
 

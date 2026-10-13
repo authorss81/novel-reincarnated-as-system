@@ -22,7 +22,7 @@ She stood outside the wire on the eleventh, at about the sixth hour, and a man c
 
 He was not slower than she was. He was slower than she is.
 
-He had been on that ring about eleven years and had the ring and not the hand, and the hand is the thing that went in June on a low side of the forty, and there was no way on earth to give him the hand and she was not allowed to stand in that ring to try.
+He had been on that ring about eleven years and had the ring and not the hand, and the hand is the thing that went on the twenty-fifth, on a low side of the forty, and there was no way on earth to give him the hand and she was not allowed to stand in that ring to try.
 
 He will be measurably worse at that job for the rest of the season than she was at it, and he does not know it, and never will know it, and there is nobody in nine days of road he could ask.
 
@@ -38,7 +38,11 @@ It did not change.
 
 One of them asked the foreman, on about the fourteenth, whether the stretch would come back on, in the ordinary way a man asks a foreman a thing at a trestle.
 
-Cui Bao said it would not and did not give a reason.
+“Will that stretch come back on.”
+
+“No.”
+
+Cui Bao gave no reason at all, and the man who asked took it and went and got his coat.
 
 That is a thing a foreman can do and it is not a lie and it is not unkind. There is nowhere in that camp to put the reason. The reason is a certificate in a book in a county four hundred miles west and a rule nine years old, and a man standing in the open does not need any of it.
 
@@ -53,6 +57,18 @@ She was not put on any of them.
 Cui Bao did not put his daughter on the run because the run is a run and the run is not a place for a foreman's family, and that is not coldness and it is not even much of a rule, it is a thing a man of about fifty does on a line where a foreman's daughter working beside him every day is the fastest way in the world to have the whole camp decide what he is.
 
 She stood about too. She sat on a cart wheel about nine days' worth of afternoons and she did not ask and she was not sulking and she was nineteen and idle in a working season in a country where nobody is paid for anything they are not doing.
+
+She came and sat on the other side of the same wheel on the ninth, at about the sixth hour, and said nothing for about a quarter of an hour.
+
+Then she said: “Do you know if they will put the forty on before the month turns.”
+
+“No.”
+
+“Then I will ask my father.”
+
+“He will say he does not know.”
+
+The girl thought about that for a bit and then said: “That is what he will say.” And she stayed on the wheel.
 
 ## The Fourth Hour Of The Fourteenth
 
@@ -79,8 +95,6 @@ She did not fall.
 Nothing broke. There was nobody there to see it and nobody was hurt, and it was not a rescue and it was not a close thing, and her arm was not even open.
 
 She stood outside the wire in the worst ground on nine days for about an hour and a half.
-
-## What That Was
 
 There was nothing on earth she could do with being strong.
 

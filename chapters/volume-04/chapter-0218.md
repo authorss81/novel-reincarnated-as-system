@@ -26,8 +26,6 @@ So the ground closes. From the morning of it. And it closes on the person, and i
 
 That is what it is, and she had known it was coming since the eleventh of the last month at a wire, standing forty feet off, and there had not been one hour of the twenty-two days since in which she could have done one thing about it.
 
-## What Was On The Paper
-
 Two things, and they are on the same paper, and both of them are true.
 
 The first: the thing that is in her head is unauthorised.
@@ -43,8 +41,6 @@ Both are on the same paper.
 Both are true at the same time and neither one cancels the other.
 
 There is not one argument in the world a woman standing at a trestle can make against a piece of paper that says a thing is unauthorised and carried by a licence. The second half of that paper is the only half with a name on it, and the name on it is hers, and she put it there herself, at a trestle, in the second week of a month that is four months back.
-
-## The Room
 
 The room at the west end of the camp is where the wedges of paper live, and it has a table in it and a stove in it, and on the fourth of a month there were four men in it: the foreman, the tender, the man with the board, and the man in the plain coat with the notebook.
 
@@ -99,8 +95,6 @@ And a foreman of about fifty with a daughter on that line was not being careful 
 He was doing the only thing he is built to do, and he was doing it correctly, and he had been right about everything since a trestle in the second week of a month that is four months back.
 
 She had no counter.
-
-## What It Cost Him
 
 Nothing at all, on that morning.
 

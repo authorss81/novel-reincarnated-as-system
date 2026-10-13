@@ -26,6 +26,22 @@ That is what a foreman does. A name that is on a run and not on the ground is a 
 
 He did it standing up, in the open, at about the second hour of the seventeenth, with about six men within thirty feet, and he did not do it at night and he did not do it in a room.
 
+His daughter was standing about ten feet off with her coat over her arm, and she had been standing there since before he came out with the book.
+
+“Da. Is that hers.”
+
+“It is the line closed on her.”
+
+“That is her hours.”
+
+“It is her rate from the eighth. Her hours are in the book and they were in the book the morning the ground shut, and that is the last morning they can be in it, so they stay in it. A man at a desk four hundred miles west reads this book in order with dates on it and a hole in it is a hole in it.”
+
+He said it once and flat and about the work, in the ordinary voice, with a thumb still on the line he had drawn.
+
+The girl stood there for a bit and then said, “Oh,” and went and got her bar out of the hut.
+
+Ning Yan was close enough to touch the plank the whole of it and was in none of it, and nobody looked at her while any of it happened.
+
 ## What Stands And What Stops
 
 The hours stand.
@@ -86,8 +102,6 @@ Because if the stage had cost her the name, then she could have put the two toge
 
 They were two things that happened in the same week, and neither of them was about the other, and she was eighteen years old and standing at a trestle at the west end of a nine-day line with about ten coppers and a bunk and a fire that is not lit out of her share.
 
-## What A Name Being Struck Out Of A Board Is
-
 It is not a wound.
 
 It is a line through a name in an ordinary book, drawn by a man doing his job in the second hour of the afternoon in the open.
@@ -101,8 +115,6 @@ This was a foreman squaring a wage-book on the seventeenth of a month.
 He does not know what she is. He was told that the thing in her head was unauthorised and he believed it because it was on a paper and because it is correct, and he did not care in the way a person cares about a thing they are doing to a person.
 
 He cared in the way a person cares about a line of work and about eleven men and a daughter and a contract.
-
-## What She Felt About It
 
 Not defeat.
 

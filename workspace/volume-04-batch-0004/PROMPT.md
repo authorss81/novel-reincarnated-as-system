@@ -45,6 +45,17 @@ correctly, and at their cost. **This one is the crossing.** It is **not** anothe
 **the channel restored and the finger gone**; the announcement past the line; the course closed lawfully
 against her; the break; **Foundation 6–9**.*
 
+**One correction to the record you are inheriting, already applied.** Batch 0003 was repaired after its review
+(`logs/volume-04-batch-0003.review.log`) and the state files carry the post-repair figures. **Use these and not
+the older ones: 28,568 words, average ~2,041; longest ch 218 (2,425), shortest ch 214 (1,666); below the 1,800
+guide are 212, 214 and 219; ninety section headings at 6.4 a chapter, not 116 at 8.3; longest paragraph 99
+words, not 94.** Two facts moved: **she has rebuilt the order in her hand twice, not four times** (the heel
+went once, three years and a bit ago; she put two years into it; Foundation 4 took it again), and **the course
+crew is eleven men and the girl of nineteen and nobody else** — ch 209 in the first draft drew forty-five men
+out of a group of twelve and it has been repaired. **No calendar month is named anywhere in ch 209–222; that
+batch keeps time by ordinal day of the month only and this one does the same.** All fourteen chapters carry
+quoted speech; five did not in the first draft, and **this batch does not go back to narration about a scene.**
+
 **What is pinned and may not move:** **Foundation 6 at ch 224 (day 386) · Foundation 7 at ch 228 (day 412) ·
 Foundation 8 at ch 234 (day 440, SUPPRESSED at her own order, no bracketed line in the chapter) · Foundation 9
 at ch 237 (day 462).** Intervals: twenty-six, twenty-six, twenty-eight, twenty-two days. `outline/volume-04.md`

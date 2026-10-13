@@ -88,8 +88,6 @@ Her hand was on it that evening, in a hut with a mat and three boards in it, and
 
 That is the whole of it and it is nine seconds long and there is no price attached to it anywhere, and it was not the second time she had refused a thing and it was not going to be explained here what the standing is or where it came from or what it costs, because it is hers to order and his to hold only on her word and she had not said the word.
 
-## The Ease Of It
-
 What she went over afterwards, on the mat, in the dark, was not the wanting.
 
 It was how quick it was.
@@ -101,8 +99,6 @@ That was the cold of it.
 She had expected — she had got a coat on for it, in her mind, the way she gets a coat on for weather — to find that refusing was heavy. She had found out in the time it takes to count eleven that it is the easiest thing she does.
 
 That is what it is to have something on the edge of you that you have not used. It sits there. You can get at it whenever you want. You do not have to decide anything to have it, and the not-deciding is free, and it is free, and that was the whole price of it, and she had been carrying a free thing around inside her for four years and had never once made it do anything.
-
-## What It Means To Her That She Cannot Use
 
 A piece of information about herself, going into a book that somebody past the last stake keeps, in a form that is not a reading, dated the day she took a stage.
 
