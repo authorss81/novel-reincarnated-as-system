@@ -216,7 +216,7 @@ Snow that was not white went sideways across the terrace between them.
 
 “All right,” said Du Hong.
 
-That was the entire interview. She went on down the steps with the anger still going round inside her and the taste of a thing she had been carrying since before the trial suddenly gone out of her mouth, and it did not feel like winning either.
+That was the entire interview. She went on down the steps with the anger still going round inside her and the taste of a thing she had been carrying since before the trial gone clean out of her mouth, and it did not feel like winning either.
 
 ## The Price of It
 

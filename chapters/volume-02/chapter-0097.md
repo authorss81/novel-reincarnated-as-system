@@ -10,15 +10,43 @@ The buyer stood at the first desk, paying for the writing of a refusal. The youn
 
 “I carry it,” said Ning Yan. “You hold it with me. That is enough walking for today.”
 
-“I hold it,” said Yuan. “I stay with you and I ask nothing.”
+“I hold it,” said Yuan. “I do not ask what it is.”
+
+She had not expected him to ask, and being unexpected was how she knew he had not.
 
 In the afternoon Feng sent her to dust again, and she dusted and did not open another volume. Opening twice is a habit, and habits are read. She wanted to ask what the word meant. She wanted to ask Yuan again, though he had said he has no word for it. She wanted to write it in wash code where no clerk reads quickly.
 
 She did none of it. Wanting is not spending, and she had spent enough that season to know the difference.
 
-Instead she washed at the trough behind the tower with her left hand, hung dead right in the sleeve, and mended the shutter cord where it had slipped. Du Hong came up with a nail and a stone for a hammer without being asked, fixed it in ten minutes, went down again with the stone in his hand.
+What she did instead was watch the four ranks of volumes that stood out of the nine, because knowing which shelves a thing has been read from is worth as much as knowing what it says, and she had worked that out on a furnace floor where a man who keeps going to one corner of a wall is telling you something.
+
+Four ranks. Four volumes. Eleven entries. Four hundred years of nothing and then two lines within ninety years of each other, and one of the two is hers.
+
+And every one of the four stood open at the same page, because that is what a hand does when it comes back to a thing it wants: it leaves the book where it was.
+
+The fifth rank was shut and had been shut a long time, and the fifth rank was where Feng's own unindexed column lived, and she looked at the fifth rank the way you look at a man you have decided not to ask anything today.
+
+She had eleven days of daylight left before the stamp and a ledger that wanted the hours, and she had been working out for four weeks what she could carry and what she could not, and it had narrowed down this morning to one question: whether a thing said aloud to a man who copies is a thing that travels.
+
+She had been saying things to Feng. Small ones. That she needed the county sheet. That the filing needs stages recorded. That the tower is the copy and not the record. Every one of them was true, and every one of them had told a man who writes down what he has been given that the second position on a sheet was worth mentioning.
+
+That was the cost of talking to the only hand in the world that could have found out. It was not that he would tell. It was that a man who has been asked small true things begins, quite reasonably, to wait for the large one.
+
+So she washed at the trough behind the tower with her left hand, hung dead right in the sleeve, and mended the shutter cord where it had slipped. Du Hong came up with a nail and a stone for a hammer without being asked, fixed it in ten minutes, went down again with the stone in his hand.
 
 “You climb for quiet,” she said after him, the way she had said it weeks ago, and he grinned up the stair without stopping.
+
+The cord held after him. She put her weight on it twice and it held, and she stood in the yard with the wind coming off the roofs and the square noise underneath it, and she worked out what she wanted.
+
+What she wanted was to ask Feng one question. Not the meaning of the word. The question of who wrote the Lowwater sheet, and in what position, and whether the position was in his copy before the county had it or after.
+
+If it was after, then a clerk in a county office had copied it out of a book six hundred years old into a sheet about her, and a man had paid for that page or had not, and either way there was a name in a county file with a word in it.
+
+If it was before, then it was not a clerk at all. It was a tower that had already known, and every copy that went up the stair had carried it, and Feng had put four copies behind the fifth item and had not asked her a single question about the second position on any of them.
+
+Both of those were useful. She wanted both of them enough that her hands had closed on the cloth.
+
+She did not ask. Asking Feng a question about a sheet he handed her without comment would tell a man of twenty-two years' copying that the second position was worth a question, and from that hour every sheet he ever handed anybody would be a sheet somebody wanted.
 
 Feng called her down after the clerks left and stood at the wall with a lamp.
 
@@ -46,6 +74,6 @@ It meant nothing she could use. That was the horror and the mercy of it. A disco
 
 “I hold it,” said Yuan. “I do not leave it and I do not fill it.”
 
-She slept with the docket in her lining and the filing copy in her sleeve, and the square noise thin through the gap, and one word with nobody to hold it except the two of them, both unable to read the hand that wrote it and both unwilling to ask anyone who might.
+She slept with the docket in her lining and the filing copy in her sleeve, and the wind working at the gap where the cord held, and one word with nobody to hold it except the two of them, both unable to read the hand that wrote it and both unwilling to ask anyone who might.
 
 The wrong-order name stayed unresolved in the Hall with no roof. The twelve-sheet frame stayed logged in wash code, untouched. The office with a name he cannot read stayed unopened. Paper older than pursuit sat behind a loose spine and said one word, and the word stayed where paper cannot follow.

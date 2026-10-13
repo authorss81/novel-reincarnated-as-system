@@ -44,7 +44,7 @@ No voice counted with her. No warmth leaned toward her. Her hands shook as she l
 
 She set it down. She moved along the shelves, checking year marks cut into the clay edges, looking for the year Ning Wu was thirteen, the year the kiln took him. Her fingers left trails in dust. The quiet pressed on her ears until she heard blood.
 
-This was the most frightening thing that happened in this volume. Not the knife at her throat. Not the sheath. Being without him where she needed him, discovering that partnership was a thing that could be taken by a room, and going on working anyway.
+Nothing that had ever happened to her had frightened her the way that had. Not the knife at her throat. Not the sheath. Being without him where she needed him, discovering that partnership was a thing that could be taken by a room, and going on working anyway.
 
 She found the year row. She knelt on the cold brick with dust in her throat and began to read by touch in failing light.
 

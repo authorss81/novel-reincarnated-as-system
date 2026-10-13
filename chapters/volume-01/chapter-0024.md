@@ -42,9 +42,9 @@ She sat shaking with the tablet in her lap and understood what he could do and w
 
 She did not let him do it twice. She read the tablet herself, tilting it to window light, tracing the small brushed lines on its face, a name that was not her brother’s, a date, a disposition in the same three words. Then she took out paper, brush, ink, and wrote it out in her log, in her own hand, in characters a Bureau clerk could not read quickly, cramped laundry-hand shorthand mixed with tower marks.
 
-She started the log. The log was the first thing in the whole series she did entirely for herself, not for quota, not for quest, not for+ proof to show an elder. A book of accounts in her own hand, kept for the day she could use it.
+She started the log. The log was the first thing she had ever done entirely for herself, not for quota, not for a quest, not for proof to show an elder. A book of accounts in her own hand, kept for the day she could use it.
 
-When she finished she tied the log inside her lining, put the tablet back against her skin, and sat with the weight of both. Nothing grew in this chapter. Stage eight held. The work was paper, and paper was heavier than stages.
+When she finished she tied the log inside her lining, put the tablet back against her skin, and sat with the weight of both. Nothing grew. Stage eight held. The work was paper, and paper was heavier than stages.
 
 Yuan spoke once more, thin.
 

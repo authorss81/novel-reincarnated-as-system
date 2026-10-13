@@ -35,7 +35,12 @@ Batch cards written first at `outline/batches/volume-02-batch-0008.md` from the 
 **Canon change 15 — day numbering extended.** Batch 0007 ended day 81. Batch 0008 runs **day 82 (ch 89) through day 122 (ch 103)**: first week ch 89, pursuit ch 90, four weeks load ch 91, stage day 111 (ch 92), lie ch 93–94, feet ch 95, word ch 96–97, stamp ch 98, count ch 99–100, kill day 121 (ch 101), death night 121 (ch 102), burial day 122 (ch 103). About six weeks ordinary use ch 80→100, Settlement ~6½ weeks → ~five days → ~11 weeks.
 **Canon change 16 — ch 92 announcement wording.** Four-clause order carrying *Condensing, stage three, at Lowwater*: *Assembly Hall of Qinghe. Ning Yan of the Qinghe furnace crew, servant-born. What is carried past the second is let go. Condensing, stage three, at Lowwater is held.* Not ch 53 or ch 78 wording.
 **Canon change 17 — ch 101 layer line.** Single bracket for the listed kill: *[The road at Lowwater. One of the entered is ended by her hand.]* Only brackets in batch are ch 92 and ch 101.
-Known trade-off: chapters average ~800 words against the 1,800–2,700 guide; left intact rather than padded, because every chapter is a complete scene with movement and the midpoint/climax land on their cards, as in batch 0007.
+
+## Chapter-length decision (settled once; do not re-record as an exception)
+
+Batch 0007 averaged ~1,300 words and batch 0008 averaged ~811, against the 1,800–2,700 guide in `AGENTS.md`. Both batches carried the same note, "known trade-off, left intact rather than padded," three batches running. **That note is retired.**
+
+Batch 0008 has been repaired to **~1,483 words/chapter, 22,269 words total** (was 12,176). The remedy was scene material, not padding: new scenes and beats inside the existing cards, never new plot. **Standing rule for the rest of the run:** the guide is 1,800–2,700; the floor is 1,300; **a batch that lands a monotone decline across its chapters, or an average under 1,300, is a failed batch.** Do not record a trade-off. Fix the chapters.
 
 ## Volume 2 Batch 0007 — acceptance check, card by card
 
@@ -58,7 +63,6 @@ Batch cards written first at `outline/batches/volume-02-batch-0007.md` from the 
 **Canon change 12 — day numbering extended.** Batch 0006 ended day 22. Batch 0007 runs **day 23 (ch 73) through day 81 (ch 88)**: tithe weeks, stage at ~day 50, Ledger day 51, descent from day 58, clearance day 79, refusal day 81. Thaw behind by the end; spring ahead. Rate holds at ~3.5 chapters to the week.
 **Canon change 13 — ch 78 announcement wording.** Four-clause order carrying *Condensing, stage two, at Qinghe*: *Assembly Hall of Qinghe. Ning Yan of the Qinghe furnace crew, servant-born. What is carried past the first is let go. Condensing, stage two, at Qinghe is held.* Not the ch 53 sentence; the layer does not repeat itself.
 **Canon change 14 — pending filing defect line.** County sheet at ch 88 carries, in her own left hand: *aperture cracked through; stabilised at the crack; permanent.* Cap Condensing 5, no Foundation without relicensing, writ dead on the same page.
-Known trade-off: chapters average ~1,300 words against the 1,800–2,700 guide; left intact rather than padded, because every chapter is a complete scene with arithmetic movement and the midpoint/climax land on their cards.
 
 ## Volume 2 Batch 0006 — acceptance check, card by card (historical)
 
@@ -142,11 +146,14 @@ Three legs assembled then refused: **sponsors' seal (ch 62) · quota clearance s
 - **Mei Jiu** — does not appear in batch 0007.
 - **Ning Wu** — register still reads *reconciled*. Unchanged.
 
-## Running status (end of batch 0008)
+## Running status (end of batch 0008) — **this batch, ch 89–103**
 
-- **Log additions this batch:** running tithe arithmetic to 940/940; Ledger reading (counting room, employed man, records not wordings); county-office vs tower distinction; pending filing terms; defect line; surety entry. All wash code except the county's own sheet.
-- **Layer brackets:** **one in the whole batch**, ch 78, the stage-two announcement. None anywhere else. No tribulation.
-- **Titles 73–88:** The Tithe Ledger, What the Body Owes, The Wash House Splint, The Escort She Does Not Have, The Left-Hand Habit, What the Bound Is Told, Work Through Fever, Read Him Aloud, The Counting Room's Employee, The Barrier Escort, Weight of the Market, Nights in the Tower Loft, The Office on the Square, Clearance Without a Look, The Name for Attendance, The Pending Filing. All unique against 1–72.
+- **Log additions this batch:** pending life as attendance (county hours, stamp days, tower readings, carrying loads); buyer at three desks; counting-room reports; the third desk and the refused household line; the turn from pages to hours; two feet paid by the week, both faces in wash code; *looked, eleven, column, one word, Lowwater second position, one of four* — **the word itself written nowhere**; the safe-side sentence held unspent; the four causes at the burial. **The pending filing terms, the defect line and the surety entry were carried, not re-entered.** All wash code except the county's own sheet.
+- **Layer brackets:** **two in the whole batch** — **ch 92**, the stage-three announcement at her order, and **ch 101**, the listed kill. No other bracket anywhere in 89–103. No tribulation.
+- **Day numbering, batch 0008:** day 82 (ch 89) → day 122 (ch 103). Stage day 111 (ch 92), attempt and kill day 121 (ch 101), death night 121 (ch 102), burial day 122 (ch 103).
+- **Settlement clock, batch 0008:** ~11 weeks carried in from ch 88 → **about five days of ordinary margin (ch 99–100)** → **~11 weeks after the Merit spend at ch 101**. Next: ~6 weeks at ch 118.
+- **Titles 89–103:** The Filing Copy, The Man Who Pays for Writing, Four Weeks of Stone, Where She Sleeps, The Safe Side, Eleven Bodies, What Walks Behind Coin, Kiln-Born, A Word With Nobody, The Cheap Door, Five Days of Margin, What Being Chosen Costs, The Listed Kill, Feng Holding the Lamp, Four Causes. All unique against 1–88.
+- **Titles 73–88 (historical):** The Tithe Ledger, What the Body Owes, The Wash House Splint, The Escort She Does Not Have, The Left-Hand Habit, What the Bound Is Told, Work Through Fever, Read Him Aloud, The Counting Room's Employee, The Barrier Escort, Weight of the Market, Nights in the Tower Loft, The Office on the Square, Clearance Without a Look, The Name for Attendance, The Pending Filing.
 - **Batch 0006 titles (historical):** 59 The Closed Pass, 60 The Second Bunk, 61 The Licence Clerk, 62 The Price of Paper,
   63 The Lowwater Market, 64 The Furnace Tithe, 65 Bunk by Bunk, 66 The Inspectors' Paper,
   67 Ash and Hours, 68 The Bounty Man, 69 The Quota Table, 70 The Refusal Filed,
@@ -181,7 +188,71 @@ planned plot was not changed**: no title, no chapter order, no card beat, no end
 - Known trade-off: **ch 71 and ch 72 are 3,015 and 3,157 words** and were left long rather than cut,
   because the added third-casualty beat is load-bearing for the next batch.
 
+## Volume 2 batch 0008 review repair — historical note
+
+Repaired against `logs/volume-02-batch-0008.review.log`. **The batch was not restarted and the
+planned plot was not changed**: no title, no chapter order, no card beat, no bracket, no ending.
+What moved:
+- **Length, in every chapter.** 12,176 → **22,269 words**, average ~811 → ~1,483. Added as scene
+  material inside the existing cards — a direct approach from the good coat at the county door,
+  the three desks worked desk by desk, the girl of twenty-four twice on the page, the younger man
+  describing her by her pace, the ruled pencil line in the volume, the tower is the copy and not
+  the record, the walk-back through every occasion the layer had ever handed her, the Watch at the
+  tower foot at the ninth hour, the burial cart, the county receiving the burial line. **No new
+  card beat and no new plot.** The old "known trade-off" notes are retired; see the chapter-length
+  decision above.
+- **The duplicated sentence is gone.** The byte-identical mat/shutter line in ch 89 and ch 99 is
+  replaced in both, and the 13-of-15 mat closer is broken up so that no two adjacent chapters close
+  on the same beat.
+- **`one word with nobody to hold it` runs once**, in ch 97, which is the chapter it names. Cut from
+  98, 99 and 100.
+- **`I touch nothing` runs once**, in ch 90. **`I am with you / I am here` runs four times** (93 ×2,
+  97, 99, 101) and each carries different weight.
+- **All authorial scaffolding is out of the batch** — *in this volume*, *the next chapter*, *not in
+  this batch*, *the volume's only source*, *the volume's loss*. Also out of `chapters/volume-01/
+  chapter-0019.md` and `chapter-0024.md`, where the same leak had been standing, plus a `not for+`
+  text artifact in ch 24.
+- **Two banned reflexes cleared from closed Volume 1** while the batch was being swept: `suddenly` in
+  `chapter-0012.md` and `chapter-0055.md`. The book is now at zero for every entry on the `AGENTS.md`
+  *Never:* list.
+- **The *Running status (end of batch 0008)* block was describing batch 0007.** Rewritten: batch
+  0008's log additions, its **two** brackets (92, 101), its day numbering, its Settlement clock, and
+  the 89–103 titles. This block is what batch 0009 reads first, and it was actively misleading.
+
+**Canon change 18 — the Watch, night 121 (ch 102).** The Watch reaches the tower foot at the ninth
+hour, not at the killing. It writes **a body, a road, a ditch; that a man was shouting about a
+refused place and the shouting was finished when it arrived; and that one man was carried up the
+tower stair alive at the fourth hour with a lamp.** It does not write that the corpse was answering
+to an act entered in the layer — **no office in Lowwater has a form with a column for it**, and that
+is the mechanism by which the eight hundred jin still stands unanswered at dawn. It records her one
+statement, *entered*, as a statement by the injured party and no more than that. Mechanism, no
+villain, no speech.
+
+**Canon change 19 — the county holds the burial line and the debt (ch 103).** At the second hour on
+day 122 she lodges the burial line at the county office on the square. A clerk asks whether she is
+a member of the household; she answers *I am the undersigned*, then *It is what I entered*; he
+writes her answer into the corner and stamps it with **the same stamp as the pending filing**. He
+then confirms the surety is entered in this county under Du Hong's own name at his own voice, and
+she asks him to write the transfer as **Stands to me**, and he writes it **in the county book,
+where a county keeps a line**, and says nothing about it. **The county now holds two documents
+with her hand on both, neither of them about her advancement, and the debt is on paper before it is
+in her head.** She also enters a **fifth** cause at the burial — that the second man would not have
+stood where she could reach him had he not been reading his file aloud over a boy in the water —
+because a clerk who writes four causes and stops where the story gets comfortable has been softened.
+
+**Canon change 20 — the intake line moves to the ninth hour (ch 95).** The younger man buys a
+carrier at the end of the tower lane and learns **her pace**, not her name: *there is a woman sets
+the loads down slow.* To break the description she has her tower intake line moved from the fifth
+hour to the ninth, **entered by Feng as a tower change and not a request, because a request carries a
+reason and a change carries a sheet.** She knows the cost and takes it: the change goes up the same
+stair as everything else, and a reader of that stair learns that her hours were moved. Where forty
+other hands set loads down, one woman does not.
+
+Also now on the page and carried: **the girl of twenty-four, three times in repair** (ch 91 the four-hour correction in person and the gate man she left in the water; ch 94, where she is asked directly whether she is safe and answers that she is the safest thing in the town and has been since a winter she does not describe; ch 103, where she sends an unasked-for correction slate to a burial); **Feng and the clerks' cover story** — a fall on the stair, carried out to the wash house before the cold got into him — written down by every one of them because it is easier than the other thing; **the counting-room woman** at the third desk, four households read and priced with no hand on her arm (ch 98), which is what moves the pursuit from bodies to households in her own head; **the third desk's sheet goes up at the quarter in the same crate as the rest** (ch 99); **Sun He**, who says the longest sentence he has said to her and it is a clerk telling a holder how to keep a record clean (ch 94).
+
 ## What batch 0007 must not do
+
+*(Historical. Superseded for batch 0009 by the block below.)*
 
 Do not reopen the refusal. Do not soften it, undo it, or find a version of it that was somebody
 else's fault. Do not open a second accident, a second frostbite, a second death on the crew, or a
@@ -189,6 +260,20 @@ rescue. Do not let Yuan order himself anything — **the Ledger order is hers at
 only one.** Do not spend the eleven designations or the office Yuan cannot read before ch 96 and
 ch 110. Do not audit Feng. Do not offer him a Lung. Do not name Wei Ran. Do not kill Du Hong
 before ch 102. Do not put Hou Sanliang and her in a room before batch 0008.
+
+## What batch 0009 must not do
+
+Added after the batch-0008 review repair. **Do not reopen the Watch.** The refusal, the shouting and
+the finished shouting are written, and the reason the claim still stands is that no office in
+Lowwater has a form with a column for a layer act — do not have a clerk invent one. **Do not open
+the burial line or the county debt line again.** Both are lodged and stamped, and the county now
+holds two documents with her hand on them and neither is about her advancement. **Do not put her
+back on the fifth hour.** The intake line moved to the ninth at ch 95 and forty hands share it,
+which is the only reason a woman setting loads down slow is not a description. **Do not have Feng
+send her intake change up the stair and do not audit the stair.** The office that reads the
+announcements after they go out is ch 110, and the slip must **not** wear the unrecognised Bureau
+hand from ch 36. Do not open a second frostbite, starvation or rescue arc. The batch's pressure is
+grief, arithmetic and a licence.
 
 ## Volume 1 acceptance check — `outline/volume-01.md`, fact by fact
 

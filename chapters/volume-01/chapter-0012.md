@@ -32,7 +32,7 @@ The Reader closed the book. “Quarter-token of Ning Yan, settled by proxy of Du
 
 She was whole. She was a credit. Both at once.
 
-She did not speak. She stepped forward, took the token with both hands, bowed to the dais, and walked back into the ranks with her legs steady under her, though the scar burned and stage six felt suddenly thin as paper. She stopped wanting a document that said her brother was dead and started wanting one that said what actually happened to him. That was the change, cold and complete, and it would carry her further than any quota.
+She did not speak. She stepped forward, took the token with both hands, bowed to the dais, and walked back into the ranks with her legs steady under her, though the scar burned and stage six went thin as paper all at once. She stopped wanting a document that said her brother was dead and started wanting one that said what actually happened to him. That was the change, cold and complete, and it would carry her further than any quota.
 
 After the reading broke, Du Hong found her by the wall, furious on her behalf. “You were used,” he whispered. “Six years as a credit and no one told you—”
 
