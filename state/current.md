@@ -1,14 +1,14 @@
 # Current State
 
-**As of:** Volume 4, Batch 0002 written. **VOLUME 1 CLOSED. VOLUME 2 CLOSED AND AUDITED. VOLUME 3 CLOSED AND AUDITED — CH 1–178 ON THE PAGE. VOLUME 4 OPEN — CH 179–208 ON THE PAGE.**
+**As of:** Volume 4, Batch 0003 written. **VOLUME 1 CLOSED. VOLUME 2 CLOSED AND AUDITED. VOLUME 3 CLOSED AND AUDITED — CH 1–178 ON THE PAGE. VOLUME 4 OPEN — CH 179–222 ON THE PAGE.**
 
 ## How to read this file
 
 This file is **append-only and long, and most of it is history.** You do not need all of it to write.
 
-- **For a cold start, read only two things, in order:** ***Who is where at end of chapter 208*** (the
-  block at the top, written at the Volume 4 Batch 0002 record) and ***What Volume 3 must not do*** (below),
-  which Volume 4 still inherits in full. A Volume 4 Batch 0003 drafter should not have to read past those
+- **For a cold start, read only two things, in order:** ***Who is where at end of chapter 222*** (the
+  block at the top, written at the Volume 4 Batch 0003 record) and ***What Volume 3 must not do*** (below),
+  which Volume 4 still inherits in full. A Volume 4 Batch 0004 drafter should not have to read past those
   to start.
 - **For canon you must not contradict,** go to `state/continuity.md` and `state/open-threads.md`, which
   are the authoritative per-batch records.
@@ -19,12 +19,12 @@ This file is **append-only and long, and most of it is history.** You do not nee
 - **This file is never pruned by a writing phase.** If a section is wrong, correct it in place and say
   so in the phase's repair note rather than deleting the record.
 
-- **Volume:** 4 of 16 — **The Wall (ch 179–238)** — outlined in `outline/volume-04.md`, **BATCH 0001 WRITTEN (ch 179–192, 28,608 words over fourteen chapters, average ~2,043)** and **BATCH 0002 WRITTEN (ch 193–208, 31,941 words over sixteen chapters, average ~1,996)**. Figures are post-review-repair; the tense pass in ch 179–192 netted −3 words and changed no beat. Volume 3 (ch 119–178) remains **all four batches written and audited**: Batch 0001 (ch 119–132), 36,809 words over fourteen chapters; Batch 0002 (ch 133–148), 36,742 words over sixteen chapters; Batch 0003 (ch 149–163), 30,958 words over fifteen chapters; Batch 0004 (ch 164–178), 30,505 words over fifteen chapters. **Volume 3 file set: 135,014 words.** All figures are post-audit-repair.
-- **Volume 4 goal**, fixed by `outline/series.md` §9: *In this volume, Ning Yan must break the boundary, or neither of them ever learns what they are.* Batch allocation fixed by `outline/volume-04.md`: **0001 = ch 179–192 (written) · 0002 = ch 193–208 (written) · 0003 = ch 209–222 · 0004 = ch 223–238.**
-- **Chapter written:** **1–208. THE NOVEL RUNS TO CHAPTER 1000; VOLUME 3 IS COMPLETE AND AUDITED; VOLUME 4 IS OPEN THROUGH BATCH 0002.** Nothing of ch 209 onward is drafted.
-- **Next phase:** **Volume 4, Batch 0003 — the drafting phase**, at `workspace/volume-04-batch-0003/PROMPT.md`. **It writes ch 209–222 in prose.** Batch 0002 has opened the road, hired her, put her hours in a contractor's wage-book, taken the second relicensing in three legs, put **MEMBER ABSENT** on her member's sheet at ch 205, and **relicensed and announced Foundation 1 at ch 207** — **announced inside the bound and heard by nobody at all**, because she is nine days outside it. **Batch 0003 is the line walked and the people who live on it**, per `outline/volume-04.md` (*Pressure rotation*): **Foundation 2 at ch 211 · 3 at ch 214 · 4 at ch 217 · 5 at ch 220**, and **the line's own win, off page, at their cost.** The volume's midpoint is paid and **its closing batch, ch 223–238, owns the blind run, the finger and the crossing.**
+- **Volume:** 4 of 16 — **The Wall (ch 179–238)** — outlined in `outline/volume-04.md`, **BATCH 0001 WRITTEN (ch 179–192, 28,608 words over fourteen chapters, average ~2,043) · BATCH 0002 WRITTEN (ch 193–208, 31,941 words over sixteen chapters, average ~1,996) · BATCH 0003 WRITTEN (ch 209–222, 28,068 words over fourteen chapters, average ~2,005)**. Figures are post-review-repair; the tense pass in ch 179–192 netted −3 words and changed no beat, and Batch 0003's tense pass was a line-level repair that changed no beat. Volume 3 (ch 119–178) remains **all four batches written and audited**: Batch 0001 (ch 119–132), 36,809 words over fourteen chapters; Batch 0002 (ch 133–148), 36,742 words over sixteen chapters; Batch 0003 (ch 149–163), 30,958 words over fifteen chapters; Batch 0004 (ch 164–178), 30,505 words over fifteen chapters. **Volume 3 file set: 135,014 words.** All figures are post-audit-repair.
+- **Volume 4 goal**, fixed by `outline/series.md` §9: *In this volume, Ning Yan must break the boundary, or neither of them ever learns what they are.* Batch allocation fixed by `outline/volume-04.md`: **0001 = ch 179–192 (written) · 0002 = ch 193–208 (written) · 0003 = ch 209–222 (written) · 0004 = ch 223–238.**
+- **Chapter written:** **1–222. THE NOVEL RUNS TO CHAPTER 1000; VOLUME 3 IS COMPLETE AND AUDITED; VOLUME 4 IS OPEN THROUGH BATCH 0003.** Nothing of ch 223 onward is drafted.
+- **Next phase:** **Volume 4, Batch 0004 — the drafting phase**, at `workspace/volume-04-batch-0004/PROMPT.md`. **It writes ch 223–238 in prose and it is the crossing.** Batch 0003 walked the line, paid for **Foundation 2 at ch 211 · 3 at ch 214 · 4 at ch 217 · 5 at ch 220**, let **the line's own people close their course against her lawfully and correctly and pay for it themselves** (ch 218–220), and left her holding **a fact about the drift that eleven men could not work out and that she can never prove and has told nobody** (ch 213). **Batch 0004 owns the blind run, the listed trial, the channel restored, the right index finger, the announcement past the line, and the break.**
 - **Point of view:** close third on Ning Yan; every line Yuan speaks is written in the present tense.
-- **In-world date:** **day 280** of the run's own clock — the first working season on the line. **Day 0 is the last day of the thaw** (canon change 30). **Month-day = day − 133** on a thirty-day month (ch 150 puts day 136 at the third of the month): the fourth monthly attendance was **day 239, the sixteenth**, thirty days on from the third at day 209. **The season's road shut on day 117 and reopens on day 254**, per a sealed county notice on the public shelf; **Batch 0002 opens there.** The thaw is on about the same day.
+- **In-world date:** **day 376** of the run's own clock — the first working season on the line, month-day = day − 133 on a thirty-day month. The season's road shut on day 117 and reopened on day 254. **Day 0 is the last day of the thaw** (canon change 30). **Day 284, day 314 and day 344 were the firsts of three months; day 299, day 329 and day 359 were the four monthly attendances and all three fell inside Batch 0003 — day 299 is a scene (ch 212) and the other two are one sentence each.**
 
 **What the close audit confirmed, in one place.** `outline/volume-03.md` has been walked line by line against
 ch 119–178 and **all thirteen named items PASS**; **nine faults in the chapters were found and repaired**,
@@ -40,6 +40,125 @@ footprint rule was backwards and contradicted four closed Volume 1 chapters, so 
 were reverted to four counties** and ch 131's age was corrected to the canon figure. Full table at
 `## Volume 3 close audit — CLOSED` below, and **the reversal is written up under
 *Close review repair* in that same block — read it before using any footprint figure from the audit.**
+
+## Who is where at end of chapter 222 — VOLUME 4 BATCH 0003 CLOSED (cold reader starts here)
+
+Full record: `state/continuity.md` under ***Established facts, Volume 4 Batch 0003 (ch 209–222)*** and
+***Volume 4 running ledger — at end of ch 222***. **Day 376 — the third of a month.** She is **outside the
+wire**, on ground that is nobody's job, past the last stake, at the sub-contractor's rate, with about ten
+coppers, four stubs of paper in an oilcloth, and a licence she has never touched.
+
+- **Ning Yan** — **FOUNDATION 5**, reached at her own order on day 360 and announced in the ordinary way.
+  **Four stages in one season, four brackets, four costs, and not one of them the same thing.** Ceiling on
+  the front of the relicensed licence is still **Foundation the first stage** and the relicensed licence is
+  **still a document she has never touched**; seven conditions referenced and never re-listed; the claim the
+  seventh and last. **The stage column in four county books reads one, two, three, five, six, seven, nine,
+  with a space above the row she is standing in, and nine days of road away nobody has been told.**
+  **Body at the last page:** short breath **four counts on the flat, on the line and on a grade — three is
+  gone and does not come back**. **The order is gone out of her left hand** — she can hold, carry and pull,
+  and every grip now has to be built from nothing, one at a time, before the bar lands. **The heel of her
+  left hand is still gone and that is not what this cost; every county hour still takes eleven minutes with
+  the flat of a second finger, unchanged.** Right arm open a third of the time. Aperture cracked through and
+  permanent. **Not hungry since the first Foundation**, and cold at the fire and out of it, and **she is not
+  in the fire at all since the middle of the month before** — her own bread at the store, six coppers then
+  five.
+- **The course is closed against her, lawfully and correctly.** A rule nine years old, used twice, right
+  both times: **a course may close its own working ground against a person it does not carry.** The reason
+  was **the Hunter's own referral, read out of his notebook at a table by him**, which says the thing in her
+  head is unauthorised and is carried by a licensee in good standing; both are on the same paper and both
+  are true. It reached her on the eighth of a month at about the sixth hour at a trestle, in nine words, in
+  the ordinary voice, and **she said nothing at all in her own defence.**
+- **What it cost them, and it is on the ground and not in a speech.** The stretch she kept went back in
+  **three days** and the ring is loud again inside a week. The run is shorter, **the contract is smaller**,
+  **the board has a hole in it** where a mark used to get a figure, **nine men are idle** and **the girl of
+  nineteen is idle and she is somebody's daughter.** They are right and nothing in this volume proves them
+  wrong.
+- **The Hunter's win, and he does not want it.** He walked nine days east because his order is executable
+  here and nowhere else on earth, and on the eleventh of a month he said, in the ordinary voice, in front of
+  her, that **he does not want it executed and wants the answer pending**, because a pending answer is a
+  question somebody above him has to answer and he has never believed the answer would be the right one. He
+  bought nothing, threatened nothing, touched her, entered nothing, asked no question and said so in the
+  same breath. **He is named nowhere in this batch and no document he signs carries a name.**
+- **Her name is struck out of a contractor's wage-book**, in a foreman's own hand, in the open, at the
+  second hour of the seventeenth of a month, with a stroke of a pen. **The hours to that day stand.** The
+  rate stops. The book does not close.
+- **The batch's irreversible decision, ch 221.** She hires on under a **sub-contractor** past the last
+  stake: **five coppers a day and a place at the fire**, his own book with four columns and a painted mark,
+  a man who is not answerable to the foreman and **who does not know why the course closed and does not
+  ask.** Her name said out loud for the second time on that ground, in daylight, nobody persuaded.
+  **From that hour two books in two hands hold her name and neither is answerable to the other, and the
+  hours split, so neither carries a continuous run — which is the exact instrument the whole relicensing
+  was built out of.** She took it apart herself and did not do the arithmetic out loud.
+- **What she knows that nobody else does, and has told nobody (ch 213).** Thick drift under a bar **makes a
+  noise and keeps making it after the bar stops**, for about as long as it takes to count eleven, and eleven
+  men and a girl have an ordinary working word for it — *a stretch that has got loud.* Over sixteen days she
+  kept what the board said against what she remembers of what nine counties have heard, in order, over four
+  years: **the loud stretches are nearest the inside end, the worst is the worst-worked, and the quietest
+  ground on nine days is at the far end, which is where there is nothing to announce because there is nobody
+  there.** She said it to herself once, in one plain sentence, and built no theory on it. **It cannot be
+  proved, because the only control in the world is herself.** She told nobody, including him, and she has
+  not moved since.
+- **The last column on the board (ch 216).** At the far end of the far plank, past the last stretch the
+  crew works, there is a narrower column with no heading she can read and **nothing on this course fills
+  it.** It is filled by a strip of the same cloth, off a cart from the far end of the working reach,
+  **nine years**, a hand from past the last stake, a cart that is not identified on that course. **She can
+  read the frame and not one word inside it**, and **one line in it is dated the thirteenth of this month —
+  the day she took the second Foundation — and is in a form none of the nine years around it is in.** She is
+  the only person within nine days of road who can tell that line from a reading, **she told nobody she had
+  told the difference, and she did not say out loud what the line is.** **Her hand was on the Ledger on the
+  evening of that day and she did not order it** — one sentence of narration, no dialogue, no price, nobody
+  told.
+- **The district's answer space took its first entry (ch 210).** A carrier came back east on the third of a
+  month with the county's round. **A date and one office word: *Held.*** It means the paper is in a room and
+  nothing has been done to it. **She heard a second meaning in it, she is the only person within nine days
+  who could, and she told nobody and did not put it in a sentence with a verb even in her own head.**
+  **The request is still pending. The referral is still pending. Nothing was answered.**
+- **MEMBER ABSENT** is on the sheet for the sixteenth, for the second time, **in a column of its own**, with
+  a foot and a half of blank paper in the reason column that she chose and that is going nine days west
+  blank. **She did not write the word because the reason column is the column her hours go in.** Nothing
+  about it is softened, requalified or converted, and **Ma Sheng did not offer it a second time** — he read
+  her line at the trestle and went and wrote a man's hours against a stretch, and that was the whole of it.
+- **The road west has closed for the season (ch 210).** The carrier came back on the third and the next one
+  is a man who runs his own book and leaves when he leaves, **and after him there is no date west on that
+  board for the rest of the season.** She stood at the trestle when he went anyway, at the fourth hour, on a
+  working morning, because that is where she is at the fourth hour.
+- **Wei Ran, twenty, mortal-born**, a carter with one team out past the far end of the working reach and
+  back. **She is the first person Ning Yan has met who went through without permission.** Asked one direct
+  question, she said so in four words and did not elaborate, and she said the correct thing about the line
+  as a fact and not as comfort. **She goes off page at the end of ch 222 and nothing is opened that Batch
+  0004 does not honour.** Nothing in Volume 4 is a romance.
+- **The far end (ch 222).** She paid a working day's rate — five coppers — to be set down in a field past
+  the last stake. **The drift is thin, there is no ring, and a bar into six inches of it does not ring.**
+  The quietest ground on nine days is the ground where there is nobody to be announced, and she was standing
+  on it. **There is no word within nine days of road for either of the two things she has learned this
+  season: the noise, and the quiet.**
+- **A stretch nobody is hired on** — the worst ground on nine days, on nobody's book, nobody's job — was
+  **named by the sub-contractor in the ordinary way and she did not go on it and has not asked about it.**
+  Past the ground she was standing on, and Batch 0004 begins on it.
+- **Yuan.** Voice. **Four ration spends in fourteen chapters — ch 210, 213, 218, 222 — and two of them buy
+  nothing at all, and the chapter does not say what he said on the fourth.** **No figure of what is left is
+  stated anywhere in ch 209–222: no total, no arithmetic, no fraction, no rate.** The ration has been going
+  down on its own for about three months and she is the only person in the world keeping a count of it.
+  **He does not grow back and he is quieter at the end of this batch than at the start.** **Ledger: not
+  ordered. The standing was used once, at ch 216, and not explained and not refused a second time.**
+  **Merit: none. Nothing in ch 209–222 kills anything or clears a listed trial and the channel does not
+  come back.** **The right index finger is named nowhere, priced nowhere and foreshadowed nowhere.** He
+  **still cannot read the office name above this county and is silent about it throughout the batch.**
+- **The crew at Qinghe** — **nine men and her; ten sleepers in twelve bunks, nine days west.** Not in this
+  batch. Not mentioned, not raised, not counted.
+- **Money.** About **ten coppers** in hand at the end of the batch. **Six coppers a day and a place at the
+  fire at the course; five coppers at the sub-contractor's trestle.** The difference is never explained and
+  is not a mystery. **The tin is gone since the evening of day 268** and nothing after that calls it
+  anything but gone, and it is not counted anywhere in this batch.
+- **Nothing Volume 3 left open was answered.** The claim stands with its date; Hou Sanliang is not met;
+  what became of the eleven is not raised; the office above this county is not named and is not asked for;
+  the sponsors' second book is lodged nowhere and spoken of nowhere; **Shen Xiu unforgiven and unthanked;
+  the register still reads *reconciled*; the Clay Plate still worn; Ning Wu does not appear.** The ch 150
+  refusal is not softened, deferred, reopened or regretted in any line, and no line lets her wonder what she
+  would have done. **The year of non-forgiveness was not touched at all in this batch.**
+  **She does not forgive him and she does not tell him to stop.**
+
+---
 
 ## Who is where at end of chapter 208 — VOLUME 4 BATCH 0002 CLOSED (cold reader starts here)
 

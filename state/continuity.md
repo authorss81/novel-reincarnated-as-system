@@ -1627,6 +1627,264 @@ remembered at the last page of the book.** *The shape of a happy life*, spent un
 Wu. **Yuan's origin, Volume 11** — he never tells her what he was before he died before then, and does
 not learn she saw him as a readout before then either.
 
+## Established facts, Volume 4 Batch 0003 (ch 209–222) — THE LINE WALKED, AND THE PEOPLE WHO LIVE ON IT
+
+**Fourteen chapters, 28,068 words, average ~2,005.** Day **281 to day 376**. Longest ch 218 (2,425), shortest
+ch 214 (1,559). **Four bracketed layer lines in fourteen chapters, at ch 211, 214, 217 and 220, and zero in
+the other ten.** Batch shape is not monotonic (2,038 · 1,872 · 2,078 · **1,700** · **2,370** · **1,559** ·
+2,160 · 1,917 · 1,860 · **2,425** · **1,756** · 1,999 · 2,107 · 2,227): the peaks are the noise in the ground
+(213) and the ground closing (218); the valleys are the kind word that is not said twice (212), the third
+stage (214) and the girl who is idle (219).
+
+### The clock, as drafted
+
+- **Day 0 is the last day of the thaw. Ch 208 ended on day 280. Ch 209 is day 281 and ch 222 is day 376.**
+  Nothing falls between batches. **Foundation 2 at day 296 · 3 at day 316 · 4 at day 338 · 5 at day 360** —
+  intervals of twenty, twenty, twenty-two and twenty-two days from the one before, as `outline/volume-04.md`
+  gives them.
+- **Month-day = day − 133 on a thirty-day month.** Day 281 is the 28th and day 283 is the 30th; **day 284 is
+  the first** and day 314 and day 344 are the firsts after that. **The three attendances in this batch are
+  day 299, day 329 and day 359 — all the sixteenth, thirty days apart.** Day 299 is the scene at ch 212; the
+  day 329 sheet and the day 359 sheet each go west in **one sentence** inside ch 215 and ch 219.
+- **The carrier came back east about day 286, the third of the month**, with the county's round. The run
+  after that one is a man who runs his own book and leaves when he leaves, **and after him there is no date
+  west on that board for the rest of the season.** Spent at ch 210 and not used again.
+- **No weekday is named anywhere in ch 209–222.** ***Eleven weeks*: zero** — it appeared three times in draft
+  and every one was cut. **The four seconds: zero** — it appeared twice in draft and both were cut.
+
+### The money, as drafted
+
+- **The tin is gone since the evening of day 268** and is not named, counted or revived anywhere in this
+  batch. About **ten coppers in hand** at the end of it.
+- **Six coppers a day and a place at the fire at the course**, and the fire and the bunk and the bread all
+  come out of the same six — **one number, not two** (ch 211).
+- **Foundation 2 was bought with five days of the six coppers — thirty coppers — and it was paid for by not
+  putting a share into the cook-fire.** She stopped putting in on the eighth of the month, paid at the plank
+  on the twelfth, and the fire was not lit out of her share from the thirteenth. **About eleven cold days in
+  two stretches.** She then settled permanently on **her own bread bought at the store and no share in a
+  fire at all**, and that arrangement holds to the end of the batch.
+- **From ch 221 the rate is five coppers and not six**, because a sub-contractor pays what a sub-contractor
+  pays. **Six is the rate at the course and five is the rate off it, the difference is never explained, and
+  it is not a mystery.**
+
+### What the batch established on the page
+
+1. **A line of work is kept by a board and a bar, and the board is the whole of the coordination** (ch 209).
+   Readings go up before light; the foreman reads the board with a thumb and sends eleven men to cells that
+   are empty; a man attends a stretch on the day it is due and not the day it is convenient, and puts fresh
+   marks on it as he goes, and **the marking is what tomorrow is made of**. **Nobody upstream of that board
+   exists.**
+2. **She is the slowest person on the only object there is** (ch 209). A day's line takes her eleven minutes
+   where the tender takes four, so the readings go up late on about two days in three. **Nobody is rude,
+   nobody is cruel, nobody offers to take a line off her, and nothing about it is ever mentioned again**,
+   because a place where people are paid by the day does not stop the line for a slow hand. **The whole
+   review is that the tender read a line she wrote and did not change it.**
+3. **The road west closed for the season** (ch 210). **The district's answer space took its first entry: a
+   date and one office word, *Held*** — the paper is in a room and nothing has been done to it. **She heard
+   a second meaning in it, is the only person within nine days of road who could, and told nobody and did not
+   put it into a sentence with a verb even in her own head.** **The request and the referral are still
+   pending and nothing was answered.**
+4. **Foundation 2, day 296**, bought out of wages. **The cost is what the six stops covering.** The bracket
+   announces and goes about two hundred yards into a field. **She is not hungry and has not been since the
+   first Foundation; she notices it on the day of the stage and does not have time for the thing underneath
+   it.**
+5. **MEMBER ABSENT for the second time, on the sixteenth, in a column of its own**, with eleven days of good
+   hours beside it and a foot and a half of blank paper in the reason column (ch 212). **Ma Sheng did not
+   offer the word again.** He read her line, stood there with his hands at his sides, and went and wrote a
+   man's hours against a stretch. **The offer at ch 205 was never a rule and never a standing arrangement —
+   it was a man, not asked, saying a thing he was entitled to say once.** She learns that she had been
+   relying on it, and that it took nine seconds to come down, and that it was built out of nothing.
+6. **Thick drift under a bar makes a noise and keeps making it after the bar stops**, low, under the arm,
+   for about as long as it takes to count eleven (ch 213). **Eleven men and a girl of nineteen have an
+   ordinary working word for it — a stretch that has got loud** — and they say it as a fact about ground.
+   Over sixteen days she kept the board against what nine counties have heard, in order, over four years:
+   **the loud stretches are nearest the inside end, the worst of them is the worst-worked, and the quietest
+   ground on nine days is at the far end, where there is nothing to announce because there is nobody there.**
+   **She said it to herself once, in one plain sentence, built no theory on it, told nobody, and did not tell
+   him** — he cannot read a board and the only thing he could have done with it was spend something she had
+   not got out of her own column. **It cannot be proved: the only control in the world is herself.** Nothing
+   in this batch gives the tender's tenth part or proves the crews wrong.
+7. **Foundation 3, day 316.** Short breath goes to **four counts on the flat, on the line and on a grade, and
+   three is gone and is not coming back.** She says it once, plainly, and does not say it again in this
+   batch. **She is stronger on the flat than she has ever been and worse on the ground she is paid for, and
+   both of those are true at the same time and there is nobody in nine days of road to tell her which she
+   is.**
+8. **The Hunter attends for thirteen days, buys nothing, asks nothing, threatens nothing, touches nothing,
+   enters nothing, and says in the same breath that he has not asked her a question and is not going to
+   start** (ch 215). **A field man of a Warden's office cannot unmake a System inside a bound; that is what a
+   Wall writ is for, and a Wall writ is issued by the line's own people to somebody who lives on it, and she
+   is not one of them and the line does not know she exists.** What the line can do is **close its own
+   working ground against a person it does not carry.** **He does not want it executed. He wants the answer
+   pending, and he says so out loud, in the ordinary voice, in front of her.** She saw him write the rule
+   down at the wire at about forty feet and understood in the time it takes to put a board down that it was
+   over, and did not go and stand in front of him.
+9. **The far column of the board** (ch 216): a narrower column past the last stretch the crew works, no
+   heading she can read, **nothing on this course fills it**, filled by a strip off a cart from the far end
+   of the reach, nine years, nobody able to read it, nobody having ever asked. **She can read the frame and
+   not one word of the content, and one line in it is dated the thirteenth of this month — the day she took
+   the second Foundation — and is in a form none of the nine years around it is in.** She tells nobody that
+   she has told the difference and does not say out loud what the line is. **Her hand was on the Ledger that
+   evening and she did not order it** — one sentence of narration, no dialogue, no price, nobody told — and
+   **the ease of that is the cold of the chapter.**
+10. **Foundation 4, day 338.** **Not the heel — the order.** Two years of rebuilding a hand with no heel
+    into a working hand: the wrist already turned, the fingers already closing, the turn before anybody
+    thinks. After this she can still hold, carry, pull and work, and **every grip has to be built from
+    nothing, one at a time, before the bar lands, and the turn in a ring cannot be built because it has to
+    be at the top of the pull.** The distance the order has to travel is four inches. **The writing hand is
+    unchanged — the flat of a second finger, eleven minutes** — and she wrote that on the ticket on purpose.
+    **The girl of nineteen has the order and is nineteen and is not stupid and is not wrong about any of it.**
+11. **The ground closed (ch 218).** The decision was made at a table in a room at the west end, by the
+    foreman, the tender and the man in the plain coat, **and the reason was the Hunter's own referral read
+    out of his notebook by him, because a foreman asked a man with a notebook what the paper was and he
+    answered him truthfully.** Both halves of the referral are true and both are on the same paper. It
+    reached her at a trestle at about the sixth hour **in about nine words in the ordinary voice and
+    everybody carried on.** **She said nothing. There is no version of anything she could have said, and
+    she had four years of paper behind her and the paper was about to be read correctly.** **Nobody stopped
+    her and nothing was taken out of her hands: she is not the kind of person the ground closes on, and
+    that is the whole reason it worked.**
+12. **What it cost them, shown on the ground and not in a speech** (ch 218–219). **The stretch went back in
+    three days** — faster than last time, and she knew the four places where it takes a boot. **The run is
+    shorter, the contract is smaller, the board has a hole in it where a mark used to get a figure, nine
+    men are idle, and the girl of nineteen is idle because a rule does not make an exception for a foreman's
+    daughter either, and she is somebody's daughter.** **The men are slower in that ring than she was and do
+    not know it and never will.**
+13. **She stood outside the wire alone in the worst ground on nine days for about an hour and a half** (ch
+    219). **The boot went. She put her weight over the pull. She did not fall, nothing broke, nobody was
+    hurt, nobody came.** She got back over the wire undramatically and nobody saw it. **She was jealous of
+    nine men who are going to be measurably worse at a job she is not allowed to do, and being ashamed of it
+    did not stop it.**
+14. **Her name was struck out of a contractor's wage-book** (ch 220), in a foreman's own hand, in the open,
+    at the second hour of the seventeenth, with a stroke of a pen, and **he did not do it at night and he
+    did not do it in a room**. **The hours to that day stand; the rate stops; the book does not close.** It
+    is **the first time in four years a piece of paper has been about her that was written by a person who
+    does not know her.** **The Hunter was there, wrote it down afterward, and said nothing to her.**
+15. **Foundation 5, day 360 — the same week, and the two things are not connected** (ch 220). She had two
+    days to be certain of that and being certain was worse than not knowing, because if the stage had cost
+    her the name she could have carried both as one thing. **The relief is real and is not defeat: as long as
+    her name was in that book it was the only book in the world with her name in it, and now there is a
+    second possibility.** She is eighteen, standing at a trestle, and she is the most expensive worker on a
+    ground that is shut.
+16. **The batch's irreversible decision (ch 221).** **She hires on under a sub-contractor at five coppers.**
+    His book has four columns and a painted mark, he is not answerable to the foreman, **he does not know why
+    the course closed and does not ask, because a man who runs work out past the last stake has never asked a
+    hired hand why she came.** **From that hour two books in two hands hold her name and neither can be
+    checked against the other, and the hours split so neither carries a continuous run — the exact instrument
+    the whole relicensing was built out of.** She took it apart with her own mouth at a trestle in daylight
+    and nobody had to be persuaded. **It is the best deal she has been offered in four volumes and she knows
+    exactly what it is.**
+17. **A stretch nobody is hired on** was named by the sub-contractor in the ordinary way — the worst ground on
+    nine days, on nobody's book, nobody's job — **and she did not go on it and did not ask about it** (ch 221).
+    It is **Batch 0004's** and it is named in this batch and nothing else.
+18. **The far side is somebody's ordinary country and nobody is waiting for her** (ch 222). Five coppers for a
+    cart. Drift thin, no ring, a bar into six inches that does not ring. **Wei Ran, twenty, mortal-born, one
+    team out past the far end of the working reach and back** — the first person Ning Yan has met who went
+    through without permission. **Asked one direct question, she said so in four words and did not
+    elaborate.** She said the correct thing about the line **as a fact and not as comfort**, and it was right,
+    and it is a thing Ning Yan did not know. **She goes off page at the end of the chapter.**
+19. **There is no word within nine days of road for either of the two things she has learned this season**
+    (ch 222): **the noise, and the quiet.** Nine counties has a word for *servant-born*, for *irregular*, for
+    *the Chosen One*, and for the eleventh of a list of eleven designations, **and there is nothing anywhere
+    for a woman whose advancement has leaked into the ground of people who never heard it.**
+
+### Construction budget — spent in Batch 0003, not to reuse
+
+Bracketed layer lines: **four in fourteen chapters, at ch 211, 214, 217 and 220**, and **zero in the other
+ten**. Each names her, names her county, names Foundation, names the stage and stops — **no location, no
+advice, no explanation, and nothing about what heard it.** The seven relicensing conditions re-listed:
+**zero** — the licence and the claim are referenced and never told. The suppression arithmetic: **zero.** The
+signed-shift roster rule: **zero.** ***There is no form*: zero. *There is no column*: zero** — and ch 216
+has a column that exists and has been full for nine years, which is the opposite of the construction.
+***The record remained*: zero.** ***Nobody asked*: zero** in plain form. ***Nobody was thanked*: zero** —
+the construction is spent at ch 200 on the three sponsors and this batch reaches the same territory through
+*the offer that was not made a second time* and *a word read out of a board for nothing*, which are different
+constructions and both of them are on the page once. *Nobody knew*: **zero**. *Nobody said anything*: **zero**
+in plain form. ***Nobody else alive* used three times in one paragraph in draft at ch 213 and all three were
+cut.** *The line*, *tending*, *the course* and *drift* are spent words from ch 199 and are **used and never
+re-explained**; the chapter that describes the line doing its work (ch 209) says nothing about either side of
+anything and **nothing in this batch proves the crews wrong or supplies the tenth part.** *A Wall writ* is
+named once as an instrument, in his mouth, at ch 215, and **the Wall itself is not described.** **No office
+named. No new final enemy. Nothing Volume 5 owns is spent.** *The shape of a happy life*: zero.
+***Kiln-born* and the eleven designations: **not on the page** (the eleven designations are referred to as a
+list of eleven and are not listed). The **right index finger**: **named nowhere, priced nowhere,
+foreshadowed nowhere.** Weekdays: **zero named.** ***Eleven weeks*: zero. The four seconds: zero.** Banned
+reflexes: **zero.** Authorial scaffolding: **zero** — *this chapter*, *this volume*, *this batch* and *on the
+page* each leaked into draft in four chapters and every one was cut. Nothing is restated in meta terms: the
+seven relicensing conditions, the nine/four county rule (stated once at ch 211 in the form the close review
+set), the reason-column rule (referenced at ch 212 in new words and not re-taught), the counterfoil
+(referenced at ch 208's block and not re-described), the ch 150 refusal (not touched, not softened, not
+regretted, and no line lets her wonder what she would have done). Present perfect and simple present on
+Ning Yan and on named characters in narration was swept across all fourteen and reduced to the structural
+present about forms, offices, counties and classes of person, which is house voice and stays.
+
+### Carried forward, unchanged, into Batch 0004 (ch 223–238)
+
+- **FOUNDATION 5.** Ceiling on the front of the relicensed licence **still reads Foundation the first stage**
+  and she has still never touched it. **Foundation 6 at ch 224 (day 386) · 7 at ch 228 (day 412) · 8 at
+  ch 234 (day 440, SUPPRESSED at her own order, no bracketed line in the chapter) · 9 at ch 237 (day 462,
+  the announcement that goes past the line).** **Ch 236 is the first page on which Yuan reads the office name
+  above this county.**
+- **Short breath four counts everywhere, three is gone. The order is gone out of the left hand. The heel is
+  gone and that is not what either stage cost. The writing hand is unchanged — eleven minutes with the flat of
+  a second finger.** The **right index finger** is unspent and unnamed.
+- **MEMBER ABSENT**, on her member's sheet, separately from her hours, not payable in hours, permanent, with
+  a blank reason column going west for the second time. **Nothing in Batch 0004 may undo it.**
+- **A relicensing complete in three legs, all outside this county**, in the order clearance → seal →
+  countersignature. **Not re-told, not re-listed.** The claim stands with its date. Hou Sanliang is unpaid,
+  patient and never met.
+- **The course is closed against her lawfully and correctly, off page, at her own cost and at theirs.** The
+  ground is shut; the board has a hole in it; nine men and a girl of nineteen are idle; the stretch she kept
+  went back in three days.
+- **Two books in two hands now hold her name**, one at six coppers on the course's ground and one at five
+  past the last stake, and **neither carries a continuous run of her hours.** This is the damage the
+  irreversible decision did and it is Batch 0004's standing condition.
+- **Four counterfoils** — the only object in the world that can certify an hour she worked out there — plus
+  dead weight tickets with a ration's marks on them, a note of four stage tests and a note of the cost of the
+  fifth stage.
+- **Cui Bao**, **Ma Sheng**, **the girl of nineteen** and eleven men, who are right, and whom nothing in
+  this volume proves wrong. **Their own win happened and it cost them.**
+- **The Hunter's win landed and he does not want it.** He wants the answer pending. **He is not named in
+  this batch and no document he signs carries a name.**
+- **What she knows about the drift and has told nobody** (ch 213): the loud stretches are nearest the inside
+  end, the quietest ground on nine days is at the far end where there is nobody to be announced. **Unprovable
+  and unprovable-looking.** Batch 0004 owns what she does with it.
+- **The last column on the board**, nine years of it, one line dated the day she took the second Foundation,
+  in a hand from past the last stake, **and she does not know what the line is.** **Batch 0004's and Volume
+  6–10's.**
+- **The empty answer space is no longer empty**: a date and *Held*, and **that is not an answer to the
+  request.** The referral and the request are **still pending**. **Batch 0004 puts the countersignature on her
+  petition into the space and that is not an answer either, and the volume's last joke.**
+- **Wei Ran**, twenty, mortal-born, a carter with one team, **off page at ch 222.**
+- **The stretch nobody is hired on**, named at ch 221 and not entered. **The blind run is Batch 0004's.**
+- **About ten coppers, bread bought at a store, no share in a fire, five coppers a day.**
+- **The channel: four ration spends in fourteen chapters, two of which bought nothing, and no figure of what
+  is left stated anywhere in ch 209–222.** Ledger not ordered; the standing used once, at ch 216, without
+  explanation. **Merit: none. Nothing in this batch kills anything or clears a listed trial, and the channel
+  does not come back.** Batch 0004 clears the trial and restores it at a price out of her foundation.
+- **The register still reads *reconciled*. The Clay Plate still worn. Shen Xiu unforgiven and unthanked. The
+  three sponsors silent and their second book lodged nowhere and spoken of nowhere. What became of the eleven
+  is not raised. Ning Wu does not appear. Nine days of road behind her and nothing on it has told her
+  anything.** **She does not forgive him and she does not tell him to stop.**
+
+### Volume 4 running ledger — at end of ch 222
+
+| Item | Value at end of ch 222 |
+| --- | --- |
+| Her stage | **FOUNDATION 5, reached day 360 and announced at her own order.** The paper still says Foundation the first stage. Short breath four counts on the flat, on the line and on a grade; three is gone. The order is gone out of the left hand; the hand still holds, carries and pulls, and every grip is built from nothing. The heel of the left hand is gone and is not the cost; every county hour is still eleven minutes with the flat of a second finger. Right arm open a third of the time. Aperture cracked through and permanent. Not hungry since the first Foundation. Not in the cook-fire; her own bread at the store |
+| Licence | **Relicensed on the second set of legs, all three outside this county** (clearance 264, seal 265, countersignature 266). **A document she has never touched.** Seven conditions referenced and never re-listed; the claim the seventh and last. The first licence is still rolled in the lining of her coat; the second is still nailed straight above the second bunk, nine days west. The Foundation petition is barred, not refused, and not withdrawable |
+| In-world date | **day 376, the third of a month.** First working season on the line. Nine days east of Lowwater, and now past the last stake of the working reach |
+| Hours | **Six coppers a day on the course's ground until the seventeenth of a month, and five coppers a day at a sub-contractor's trestle from the twenty-first.** Two books, two hands, the hours split, **and neither carries a continuous run.** Her name is out of the course's book. **Four counterfoils in the oilcloth** |
+| Settlement | **Four ration spends in the batch (ch 210, 213, 218, 222) and two of them bought nothing. No figure of what is left is stated anywhere in ch 209–222.** Ledger not ordered; the standing used once at ch 216 without a price. Merit: none. **He does not grow back and he is quieter at the end of this batch than at the start** |
+| Bounty | 800 jin, standing, unanswered, the seventh and last condition, travelling on the licence. The date is still in the counting room in Lowwater. The hand is still named and has been found and answered nothing. Hou Sanliang unpaid, patient, never met |
+| The referral | Up the stair past every office she has ever stood in front of. **Its answer space took its first entry: a date and the office word *Held* — the paper is held and nothing has been done to it.** The request is still pending and is not answered anywhere in this batch |
+| Crew | **nine men and her; ten sleepers in twelve bunks, nine days west.** Not in this batch and not mentioned. Gao kept the second bunk. Qin walked her to the dressed stone. **She has sent nothing and received nothing** |
+| Money | **About ten coppers. Gone since the evening of day 268** and never counted again. Bread bought at a store at five coppers a day |
+| The course | **Closed against her on the eighth of a month, lawfully and correctly, on a rule nine years old that has been used twice and was right twice.** Eleven men, Cui Bao, Ma Sheng, a girl of nineteen who is somebody's daughter. Nine men idle, the girl idle, the contract smaller, the board with a hole in it, the stretch she kept back in three days. **They are right** |
+| Past the last stake | **A sub-contractor with a book of his own, four columns, a painted mark, four men and sometimes six, five coppers and a place at the fire.** A carter will take a person out past the last stake for money. **Wei Ran, twenty, mortal-born, one team out past the far end of the reach and back, off page.** A stretch nobody is hired on, named and not entered |
+| Register / plate | *reconciled* / worn. **She does not forgive him and she does not tell him to stop.** The year was not touched in this batch |
+| Decision taken | **She has split her hours across two books in two hands so that neither of them can carry a continuous run of her work, and she did it on purpose, in daylight, at a trestle, and nobody had to be persuaded.** She is outside the wire, five coppers a day, eighteen years old, and she is holding a fact about the drift that eleven men could not work out and that she can never prove and has told nobody |
+
+---
+
 ## Established facts, Volume 4 Batch 0002 (ch 193–208) — HIRING, THE ROAD, AND WHOSE BOOK AN HOUR GOES INTO
 
 **Sixteen chapters, 31,941 words, average ~1,996.** Day **254 to day 280**. Longest ch 199 (2,677), shortest
