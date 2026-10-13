@@ -551,10 +551,19 @@ obtainable with grounds; four for anything written into a book. The rule is in `
 *Closed at the close review* in `state/continuity.md`.
 
 **And one operational finding, not repaired because it is not this phase's to touch:**
-`workspace/volume-03-close/` has **no `.done` marker**, where `volume-03-batch-0003` and `-0004` both have
-one. `.done` is written by `scripts/novel_runner.sh` on the success path and is a controller artifact.
-**Recorded, not touched** — if the close phase re-dispatches, that is the runner's business, not a writing
+`workspace/volume-03-close/` had **no `.done` marker**, where `volume-03-batch-0003` and `-0004` both had
+one. `.done` is written by the runner on the success path — every `novel: complete <phase>` commit in this
+repository contains that one empty file and nothing else — and is a controller artifact.
+**Recorded, not touched** — if a close phase re-dispatches, that is the runner's business, not a writing
 phase's.
+
+**Same finding, restated at the close-record review, and still not touched:**
+`workspace/volume-03-close-record/` also carries no `.done`, and
+`logs/volume-03-close-record.review.log` confirms the dispatcher's skip rule at
+`.github/workflows/novels.yml` will treat that directory as pending, because its first prompt line is
+`# Volume 3 close record` and matches neither the `outline` nor the `phase` token the skip rule looks for.
+**No marker was created here.** The runner writes it when this review/fix pass returns successfully, and
+a writing phase must not pre-empt it.
 
 ### The Volume 4 hand-off
 
@@ -1442,7 +1451,7 @@ Moved to the top of this file for cold readers. Read it there.
 
 ## Running status (end of batch 0009, **HISTORICAL — superseded; this is ch 104–118, VOLUME 2 CLOSED, not the live batch**)
 
-**SUPERSEDED. The live position is at the top of this file** — *Who is where at end of chapter 148* and *What Volume 3 must not do*. Nothing below this line is current state. Kept for the record; *this batch* in the bullets under it means **batch 0009**, not whatever is being written now.
+**SUPERSEDED. The live position is at the top of this file** — *Who is where at end of chapter 178* and *What Volume 3 must not do*. Nothing below this line is current state. Kept for the record; *this batch* in the bullets under it means **batch 0009**, not whatever is being written now.
 
 - **Log additions (batch 0009, historical):** *held, fourth stage, no line out, is the filing any good, gap or breach*; *sought, right to be absent, gone*; *looked, two men, wall, buying nothing, four days, unhurried*; *coin offered and refused; we are to be here*; *board, asked fifth, sixth, left*; *gone from the sheet, second hour, entered, not consulted*; *paper for a licence: schedule, Hall clerk, certified, season's hours, via quarter*; *struck, all copies, dry brush, one plain line and no word*; *nine men, nobody signs, and the nine hundred yards they moved*; *311, last week closed*; *six conditions, the sixth is the claim*; *a word six hundred years old gone out of the only paper that had it — not written down again*. **No word written in the log except that plain line naming the loss.** The schedule terms, the defect line and the surety entry were carried, not re-entered.
 - **Layer brackets:** **one in the whole batch** — **ch 114**, the stage-five announcement at her order, four-clause order, carrying the ceiling. **Ch 104 has none at all**: a suppressed stage reads as nothing having happened. No tribulation.

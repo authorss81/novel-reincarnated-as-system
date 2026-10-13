@@ -31,39 +31,54 @@ to 149–163 and 119–148 if the verified context budget safely allows it; **th
 checks in `state/current.md` are the compressed record of that half and must be read if the chapters
 are not.**
 
-## Part one — size the batch to its arc, not to a count
+## Part one — distribute the arc across fourteen fixed chapters
 
-**This batch is not fourteen chapters because Volume 3's first batch was fourteen.** It is as long as
-the ration-and-silence arc needs and as short as the last chapter that is still doing work.
+**The chapter count is not yours to choose. `outline/volume-04.md` allocates Batch 0001 to ch 179–192,
+fourteen chapters, and Batch 0002 to 193–208.** Fourteen is not a target to hit, avoid, or argue with. It
+is the volume's own allocation table, and the midpoint and climax cards are pinned to it.
+
+**What is yours is the distribution.** Fourteen cards have to carry the whole ration-and-silence arc, and
+how that arc falls across them — where the Ledger purchase sits, which card is the midpoint, how many
+cards the crew and the tin get — is the judgement this phase exists to make.
 
 The arc this batch must close is fixed in `outline/volume-04.md` *(Pressure rotation, Batch 0001)*:
 **the last ten days of him; the Ledger purchase that finds the name; the year of non-forgiveness
 changes shape; the empty space is not filled; the crew; the tin.**
 
-**Sizing rules you must satisfy:**
+**Distribution rules you must satisfy:**
 
-- **Every card requirement gets a chapter and a turn.** A requirement that has nowhere to live is
-  either given a chapter or cut from this batch and written into the batch's *carried forward* list.
-  Say which you did, in the file.
-- **No chapter may be split to hit a number and none may be padded to reach one.** If the arc closes on
-  chapter 12, the batch is twelve chapters. If it needs sixteen, it is sixteen.
-- **State the count you chose and the sentence from the arc that decided it.**
+- **Every requirement in the arc gets its own chapter and a turn.** A requirement with nowhere to live
+  inside ch 179–192 is either folded into a neighbouring card or cut from this batch and written into
+  the batch's *carried forward* list. Say which you did, in the file.
+- **No card may be split to fill a slot and none may be padded to fill one.** If a card holds one scene,
+  that is the card — and the days around it still have to be on the page somewhere.
+- **Say where the arc's six beats fall across the fourteen chapters, and name the card each one took.**
 - **A batch whose chapter word counts fall monotonically across its chapters is a failed batch.**
   Design the shape with peaks: a loss, a decision, a small warm scene, a peak.
 
-**Likely neighbours:** Batch 0002 (*hiring, the road, and whose book an hour goes into*) opens with the
-season's road opening at about **day 254**. **Do not open the road inside Batch 0001** and do not spend
-the journey. Batch 0001 ends with the thaw about eleven days off and one day of channel left or nearly
-none.
+**Likely neighbours, and the seam between them.** Batch 0002 (*hiring, the road, and whose book an hour
+goes into*) opens with the season's road opening at about **day 254**. **Do not open the road inside
+Batch 0001** and do not spend the journey.
+
+**Three figures fix this batch's clock, and they are the same three `outline/volume-04.md` gives.** Ch
+178 is day 219, so **ch 179 opens on day 220**. The road opens at about day 254, so **ch 192 ends on day
+253 and ch 193 opens on day 254 — day 244 to day 253 belongs to this batch and to no other**, and the
+last cards have to carry it. The thaw is **eleven days off at about day 243**, which is where this
+batch's pressure peaks: it is the deadline the batch counts to, not the state of its last page. And
+**what is left of him is about two days of channel, rationed to roughly four sentences a day — not one
+day and not none.**
 
 ## Part two — the shape your cards must take
 
 `outline/batches/volume-03-batch-0001.md` is the template. Carry this structure, in this order:
 
 1. **Batch goal** — what this batch buys, in prose, and **what it does not buy**.
-2. **Chapter range** — the count you chose, the arc sentence that decided it, the in-world clock, and a
-   **chapter-by-chapter day table**. Day 0 is the last day of the thaw and **day 219 is ch 178**. Give
-   every chapter a day. Reconcile every elapsed figure you write in a card against that table.
+2. **Chapter range** — **ch 179–192, fourteen cards, fixed by the volume's own allocation table**; where
+   the arc's beats fall across them; the in-world clock; and a **chapter-by-chapter day table**. Day 0 is
+   the last day of the thaw, **day 219 is ch 178, ch 179 is day 220, ch 192 is day 253, and ch 193 is
+   day 254.** Give every one of the fourteen cards a day, and **let a card carry more than one day** —
+   days 244 to 253 have to sit somewhere, and the last cards are where they sit. Reconcile every elapsed
+   figure you write in a card against that table.
 3. **Starting condition — read off the audited state files, not invented.** Lift it from
    `state/current.md` *Who is where at end of chapter 178*. If a fact is not in that block or in
    `state/continuity.md` *Established facts, Volume 3 complete*, **it is not canon and you may not use
@@ -133,8 +148,8 @@ Do not let a chapter make it a reconciliation.
 `outline/volume-03.md` and `state/open-threads.md` both say it: **Volume 4 opens on that space and must
 not be filled in the first batch.** Ch 179 meets it. A drafter may write it on the page more than once
 — she goes back and reads it, it is a thing she does — **and it stays empty of an answer for as long
-as this batch runs.** Batch 0001 is sized to its own arc and is not fourteen chapters because nothing says
-it is. Batch 0003 gives it its first entry, a date and a
+as this batch runs.** Batch 0001 is ch 179–192 and the space stays empty inside all fourteen of them.
+Batch 0003 gives it its first entry, a date and a
 word. Batch 0004 gives it the answer. **Neither is this batch.**
 
 **The crew, the girl and the tin — the batch's temperature.** Nine men and her, ten sleepers in twelve
@@ -262,15 +277,16 @@ the card file so the drafting phase has it in front of it.
 
 Before you write **`.done`** or return, confirm all of this in the file you wrote:
 
-- The chapter count is justified by the arc, and the day table reconciles with day 219 at ch 178 and
-  with **day 254** for the road opening that Batch 0002 needs.
+- **The fourteen cards are ch 179–192** and the arc's beats are distributed across them, and the day
+  table reconciles with **day 219 at ch 178, day 220 at ch 179, day 253 at ch 192, and day 254 at ch
+  193** for the road opening Batch 0002 needs. **No day is unassigned and no day is assigned twice.**
 - **Every chapter has a turn and an ending type, and every ending is a new question, a new danger, a
   revelation, a decision, a reversal, an emotional consequence or an unanswered mystery.** None ends on
   a neutral action — not going home, not filing it, not writing it down.
 - **At least one irreversible decision** by the lead, which costs something real and closes an option.
   **Not** the volume's ch-205 decision, which is Batch 0002's.
 - **At least one scene with physical risk or a real deadline.**
-- **The emotional temperature varies** — not fourteen chapters of cold procedure. Include a loss, a
+- **The emotional temperature varies** — not fourteen cards of cold procedure. Include a loss, a
   decision, a small warm scene, a peak, and a consequence.
 - **Titles: all unique against all 178 existing chapters and against each other. Names, not summaries.**
   No weather, clock time, date or age.

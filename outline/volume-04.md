@@ -164,7 +164,11 @@ not conflate them and do not send her back to it.
   season is about nine days' hard road from Lowwater**, along the Verge road past the fourth bridge and
   then up out of the Verge onto the high ground. **Nine days out, one way.**
 - **The season's road shut on day 117 and opens at about day 254**, the first week of the third month of
-  the cold. The opening of the road is Volume 4's first deadline and it is on the page at ch 179.
+  the cold. The opening of the road is Volume 4's first deadline and it is on the page at ch 179. **The
+  days are owned by batch and they meet: Batch 0001 runs day 220 to day 253 and Batch 0002 opens on day
+  254.** The thaw is **eleven days off at about day 243**, which is where Batch 0001's pressure peaks —
+  it is the deadline that batch counts to, not the state of its last page, and the last ten days of
+  waiting are still on the page inside Batch 0001. **No day in this volume falls between two batches.**
 - **She arrives at the course at about day 263. The countersignature that opens Foundation lands at about
   day 266. Foundation 1 is reached at about day 276.** Every later date in this outline is measured
   from that one and from the day table, never from a phrase.
@@ -238,7 +242,7 @@ the reader if the pattern has been held for eight chapters.
 | Foundation 8 | 234 | 440 | 28 days | **SUPPRESSED at her own order — no bracketed line in the chapter at all.** What the filing records is an hour worked, and the board on the far side of the line **records an absence of the same width** |
 | Foundation 9 | 237 | 462 | 22 days, the last one | **THE ANNOUNCEMENT GOES PAST THE LINE.** And the tax that pays for the channel takes the right index finger, permanently |
 
-**The volume closes at about day 472 — about eight and a half months from day 220, spanning the rest of
+**The volume closes at about day 470 — about eight and a half months from day 220, spanning the rest of
 the winter, the thaw, and one full working season on the line.** The stage intervals lengthen through
 the middle of the volume because the base gets heavier to carry, and the last one is shorter because
 she is not carrying it alone and because the work at the blind run is work at the top of what she is.
@@ -587,8 +591,9 @@ and are not spent in Volume 4.
   member's sheet and the county book. Nothing in ch 179–238 can unwrite it and no chapter may let her
   wonder what she would have done.
 - **Do not answer the empty space on the shelf in the first batch.** It is the volume's opening image and
-  it stays an empty space for as long as Batch 0001 runs. **Batch 0001 is sized to its own arc and is not
-  fourteen chapters because nothing says it is** — read the number off the cards when they exist.
+  it stays an empty space for as long as Batch 0001 runs. **Batch 0001 is ch 179–192, fourteen chapters,
+  fixed by the allocation table above** — what the arc decides is how those fourteen cards are
+  distributed, not how many there are.
 - **Do not describe the Wall before the volume's own logic has earned it.** In Volume 3 it existed only
   as **a writ this county does not hold**, said once, in Bai Zhu's mouth at ch 174, with no description
   of anything on either side of it. The first honest description is on the line, in Batch 0002, when
