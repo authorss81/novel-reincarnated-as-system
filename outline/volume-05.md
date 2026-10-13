@@ -81,11 +81,11 @@ Read `state/current.md` § *The protagonist, answered in writing* before writing
 
 **Foundation 9 is the top of the second realm and there is nothing above nine anywhere in the world.** `outline/series.md` §4 puts **Golden Core 1–9 in Volumes 4–6**, and the gain is **a furnace of her own** and the cost is **she becomes the kind of person the furnace was built for.** `bible/power-system.md` once put Golden Core in Volumes 4–5; the manuscript put all nine Foundations in Volume 4, so **Volume 5 is where Golden Core starts, and it starts here.**
 
-**Golden Core 1 → 3 across sixty chapters, in about five months, day 470 to about day 620.** Real stages. Real months. Real costs. No skipped breakthrough. No tribulation — no trial of any kind is drawn in this shape of book. The intervals lengthen because the furnace gets heavier to carry. Every stage takes something out of her that does not come back, and every one of them is built out of far-side wage-work, materials bought at far-side prices, and a body with four fingers on one hand.
+**Golden Core 1 → 3 across sixty chapters, in about five months, day 470 to about day 620.** Real stages. Real months. Real costs. No skipped breakthrough. No tribulation — no trial of any kind is drawn in this shape of book. **The first interval is the longest, at fifty days, because that stage is bought out of a season of far-side wages before it is bought out of anything else; the two after it are even, at forty-four days each, because a furnace gets heavier to carry and the ground does not get easier.** Every stage takes something out of her that does not come back, and every one of them is built out of far-side wage-work, materials bought at far-side prices, and a body with four fingers on one hand.
 
 | Stage | Chapter | Day | Interval | What it costs, on the page |
 | --- | --- | --- | --- | --- |
-| Golden Core 1 | 258 | 512 | 42 days after Foundation 9 | the furnace lit out of her own wages — five coppers a day against materials priced for people with two whole hands — and the first thing she can no longer do with a bar one-handed |
+| Golden Core 1 | 258 | 512 | **50 days** after Foundation 9 (day 462); 42 days after the volume's first day | the furnace lit out of her own wages — five coppers a day against materials priced for people with two whole hands — and the first thing she can no longer do with a bar one-handed |
 | Golden Core 2 | 275 | 556 | 44 days | the flat of the second finger goes from eleven minutes a line to longer, permanently, and every hour she writes after it costs her the hour it is written in |
 | Golden Core 3 | 292 | 600 | 44 days | she becomes a person a far-side office will vouch for — entered as good in a book the bound cannot read — and she cannot be un-entered |
 
@@ -128,7 +128,7 @@ Volume 4 ran ration and silence · hiring, the road and whose book an hour goes 
 | Batch | Chapters | Pressure | Arc |
 | --- | --- | --- | --- |
 | 0001 | 239–252 (14) | **keeping and being kept** | the far-side wage-book that already holds her; the claim read aloud standing in a room that can act; ordinary country that asks nothing; Feng's stair still carrying |
-| 0002 | 253–267 (15) | **debt coming due** | the claim's second movement begins; the road west reopens and a draft goes west; Golden Core 1; Feng's fair Foundation copy past the line; the surface answer paid |
+| 0002 | 253–267 (15) | **debt coming due** | the claim's second movement begins; the road west reopens and a draft goes west; Golden Core 1; Feng's fair Foundation copy past the line; the surface answer paid, at ch 267 |
 | 0003 | 268–283 (16) | **family paper** | Ning Bo's account, Ning Wu's decade made reachable, the register still *reconciled*, the four months erased in Chapter 3 named once; Yuan's sustained scene at ch 272; Golden Core 2 |
 | 0004 | 284–298 (15) | **ash and leaving** | the furnace of her own finished and paid for; the claim answered and the date torn off; Golden Core 3; mortal ash; what leaving costs and who acts |
 
@@ -186,7 +186,7 @@ The furnace, the claim, the third stage, and the leaving.
 ## Concrete resolution (ch 292–298)
 
 - **Golden Core 3 reached (ch 292)**, taken at her own order on the far side where nothing is announced. Three stages in five months, real intervals, real costs, no skipped breakthrough, no tribulation. **The paper still says Foundation the first stage and she has never touched it.** What finishing a realm past the world's ceiling looks like is a furnace of her own and a person the furnace was built for.
-- **The surface answer paid (ch 280, Batch 0002's close):** when an announcement is heard past the line the rule is not broken — the drift carries it — and being told was never the same as being charged. Said once, in a worker's mouth, in short sentences. The tenth part is not given and the crews are not proved wrong.
+- **The surface answer paid (ch 267, Batch 0002's close):** when an announcement is heard past the line the rule is not broken — the drift carries it — and being told was never the same as being charged. Said once, in a worker's mouth, in short sentences. **Pinned once, here and in both Batch 0002 rows below, and nowhere else in the volume.** The tenth part is not given and the crews are not proved wrong.
 - **The claim moved a second time and answered (ch 294–295):** first read aloud on the far side at ch 237, now taken onto the far side's own book and paid west by draft; the Lowwater date torn off by the hand that wrote it; Hou paid, patient to the end, never met. **Standing at the open, moved in the middle, answered at the close.**
 - **The family account settled (ch 296), by his doing**, at a cost to her she cannot name. Ning Bo's column closed where it can be closed. The four months erased in Chapter 3 named once, as a loss never recovered and not forgiven.
 - **Ning Wu reachable and not met (ch 297):** ten years of his own put where somebody has to look at them. He does not appear. He does not forgive her; there is nothing yet to forgive.
@@ -249,7 +249,7 @@ Volume 6 is ***The Real Realm***, ch 299–360, goal fixed by `outline/series.md
 - **Close every speech.** `text.count('“') == text.count('”')` before finishing.
 - No harem. **Nothing in Volume 5 is a romance.** Wei Ran is a line that may run and is not the main relationship, and she was last on the page at ch 229 as a rate and a road and not a favour.
 - *The shape of a happy life* is spent until Volume 16, by Ning Wu. **Ning Yan never says her mother's name.** Yuan never tells her what he was before he died before Volume 11, and does not learn she saw him as a readout before Volume 11 either.
-- Do not re-explain known principles. **Walk the construction budget at the foot of `state/continuity.md` before writing and confirm nothing from it is reused as emphasis.** The Volume 4 entries that carry into Volume 5: **eight bracketed lines in sixty** · the seven relicensing conditions **never re-listed** except the seventh read aloud once at ch 237 · what a surety is for, spent · the suppression arithmetic, spent · **about four seconds, nine times across Volume 4 and none in its last sixteen chapters — a declining rhythm, not a metronome, and not a number to reach for again** · **the phrase "eleven weeks" is retired out of Volume 3 and is zero in Volume 4** · *nobody asked*, *nobody was thanked*, *there is no form*, *there is no column*, *the record remained*, *nobody knew*, *nobody said anything* — all spent or revoiced and none available plain.
+- Do not re-explain known principles. **Walk the construction budget at the foot of `state/continuity.md` before writing and confirm nothing from it is reused as emphasis.** The Volume 4 entries that carry into Volume 5: **Volume 4 spent eight bracketed lines in sixty, one at each announced Foundation stage and none at all in ch 234 — that is Volume 4's figure and it is not Volume 5's, which is three, stated above** · the seven relicensing conditions **never re-listed** except the seventh read aloud once at ch 237 · what a surety is for, spent · the suppression arithmetic, spent · **about four seconds, nine times across Volume 4 and none in its last sixteen chapters — a declining rhythm, not a metronome, and not a number to reach for again** · **the phrase "eleven weeks" is retired out of Volume 3 and is zero in Volume 4** · *nobody asked*, *nobody was thanked*, *there is no form*, *there is no column*, *the record remained*, *nobody knew*, *nobody said anything* — all spent or revoiced and none available plain.
 - **Do not name the office above this county, or anything above it.** At ch 236 he read **the Standing Office of the Second Account**, a middle office with others above it, and stopped. **Everything above that one office is still unread and stays unread.**
 - **Do not introduce a new final enemy.** The Scribe is fixed in `outline/ending.md` and belongs to Volume 15.
 - **Volume 5 is not Volume 4 again and not Volume 3 again and not Volume 2 again.**
@@ -271,7 +271,7 @@ Volume 6 is ***The Real Realm***, ch 299–360, goal fixed by `outline/series.md
 | Batch | Chapters | Pressure | Arc |
 | --- | --- | --- | --- |
 | 0001 | 239–252 (14) | keeping and being kept | far-side wage-book; claim standing in a room that can act; ordinary country; Feng's stair still carrying |
-| 0002 | 253–267 (15) | debt coming due | draft west; Golden Core 1; Feng's fair copy past the line; surface answer paid |
+| 0002 | 253–267 (15) | debt coming due | draft west; Golden Core 1; Feng's fair copy past the line; surface answer paid, at ch 267 |
 | 0003 | 268–283 (16) | family paper | return inside once; family account; Ning Wu's decade reachable; Yuan entered at ch 272; Golden Core 2 |
 | 0004 | 284–298 (15) | ash and leaving | claim answered; Golden Core 3; mortal ash; leaving |
 
