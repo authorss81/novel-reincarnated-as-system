@@ -6,7 +6,31 @@ Ash hung in the air in a pale suspension, catching the light of the boundary lam
 
 She walked sixth in line. Her basket banged her thigh. The voice had not spoken since the staging ground, and she had spent the whole two-hour march arguing with herself about whether hunger and fear could count breaths.
 
-Du Hong walked ahead of her, eighteen and broad and bad at hiding anything he felt. He kept turning to check the rope coil over his shoulder, the way boys did when they wanted their hands to have work. Behind her, two senior disciples named Lu Fen and Xie Qiao talked in low voices about bounty marks, about which sheath would be heavy this season, about who on the run could be followed and who could be left.
+Lu Mei walked behind her and had said nothing for an hour, which was wrong. Lu Mei was a girl who filled a silence the way water filled a cracked jar, out of spite and self-respect.
+
+“You have not asked me a single thing,” Lu Mei said.
+
+“I do not need to ask. I can see.”
+
+“You can see a spine through a coat.” Lu Mei hitched her pack higher. Her fingers were raw to the second knuckle. “All right. Then watch. I have decided to go back to Lowwater with the first cart that will have me, and if I am dead by then I will simply not be, and nobody at the laundry will say.”
+
+“That is a very long speech for someone who is cold.”
+
+“It is the fourth speech. I do three more on the way down.”
+
+Du Hong walked ahead of her, eighteen and broad and bad at hiding anything he felt. He kept turning to check the rope coil over his shoulder, the way boys did when they wanted their hands to have work. Han Shu walked on the other side of Du Hong, still talking, telling a story about a furnace-crew foreman and a goat that had gone into the core-stone store and been found much later, digested, with a human boot in it.
+
+“It was not my boot,” Han Shu said.
+
+“It was absolutely your boot,” Du Hong said, without turning round.
+
+“It was a boot from the kitchens. Boots in the kitchens are not assigned.”
+
+“Everything in the kitchens is assigned, that is the entire point of the kitchens.”
+
+Han Shu laughed so hard he walked into a trunk, and the line behind him laughed too, and for eleven seconds the Verge was an ordinary place where twelve people were walking to a job.
+
+Behind Ning Yan, two senior disciples named Lu Fen and Xie Qiao talked in low voices about bounty marks, about which sheath would be heavy this season, about who on the run could be followed and who could be left.
 
 Ning Yan listened with her shoulders. That was what her mother Ning Xue had called it, folding laundry beside her at fourteen before the wet lungs took her. You did not watch faces. You watched the line across the back, where people decided to lose on purpose long before their hands knew.
 
@@ -36,11 +60,33 @@ Du Hong dropped back beside her. “You felt it too?” he whispered. “The gro
 
 She nodded. The ground had gone warm. The voice had said *sleeps*, and the air near the tower stones shivered faintly with breath.
 
+They walked the ring of the tower and Lu Fen stood a little apart with his hands behind his back, looking at nothing, while the others broke camp. Xie Qiao took the far side. The twelve of them were not a squad. A squad has someone who gives the orders. This had Shen Xiu with his list-board and the rest of them waiting to find out what he had decided.
+
+Han Shu dropped onto a stone beside her and put his head in his hands.
+
+“I have done the arithmetic,” he said. “Four hands, and I cannot climb, and I am not fast, and there are things in these trees that go up.”
+
+“You climbed the terrace rail in third month,” Du Hong said.
+
+“That was a rail. That was a rail with a roof on it.”
+
+“The terrace rail had a roof over it and you still went up it.”
+
+“I went up it and came down it and my inner girl laughed at me for a week.” Han Shu lifted his head. His face in the lamplight was younger than sixteen. “Ning Yan. If it comes for me tonight, where do I stand?”
+
+Ning Yan considered him. It was the sort of question her mother would have liked being asked and would have answered with a hand on the back of the neck.
+
+“Behind something with a door,” she said. “Not behind me. I do not have a door.”
+
+Han Shu nodded like a man being handed a commission. He got up, found a slab of fallen stone with a cavity under it, dragged a length of dead root across the mouth of it, and sat down inside his own arrangement with his knife across his knees.
+
+Lu Fen watched him do it. Then Lu Fen watched Ning Yan do nothing at all, and Ning Yan understood that a man who notices a competent arrangement is a man who is measuring it against his own.
+
 The voice spoke again, careful, fast, as if laying out goods on a counter.
 
 “I offer a quest. You clear the tower. You take the record plate. You file the kill. The price is half a stage of your progress. I cannot take it back. You decide.”
 
-Ning Yan stopped behind a trunk. Half a stage. She was Body-Forging stage three, which had taken her five months of dawn practice on the terrace edge, holding heat in her legs until they shook, breathing through the burn while Mei Jiu and the inner girls laughed past her to the practice hall. Half a stage was two months with her hands in cold water and her ribs aching. She understood the words the way she understood weights on a scale.
+Ning Yan stopped behind a trunk. Half a stage. She was Body-Forging stage three, which had taken her four months of dawn practice on the terrace edge, holding heat in her legs until they shook, breathing through the burn while Mei Jiu and the inner girls laughed past her to the practice hall. Half a stage was two months with her hands in cold water and her ribs aching. She understood the words the way she understood weights on a scale.
 
 *How did you know the price,* she thought.
 
@@ -54,6 +100,14 @@ Honest, or honest-sounding. She could not tell yet, and the not-telling frighten
 
 Lu Fen called from ahead. “Keep up. We lost light.”
 
+Lu Mei had drifted back to her side. “You have gone strange,” she said. “You look at him like you are looking at a debt.”
+
+“I am looking at a plate.”
+
+“There is no plate on that tower. I looked at the tower.”
+
+“There is a plate on the inside of it,” Ning Yan said, and did not explain, and Lu Mei, to her credit, did not ask twice.
+
 The Ashjaw breathed under the tower. She could hear it now that she listened for it, a wet bellows rasp, in and out, patient as a furnace-man. Four hands. The quota bell at dawn in some days' count, Shen Xiu's dots, her father's name in the furnace column, her brother's kiln tally closed without a body. Everything she had ever been counted as narrowed to this one sleeping shape in the stones.
 
 She thought of the infirmary lamp. She thought of being substituted.
@@ -62,7 +116,7 @@ She thought of the infirmary lamp. She thought of being substituted.
 
 “You accept. I hold the door. You do the work.”
 
-Warmth touched the back of her neck, faint as breath through cloth. Her legs felt half a step quicker, her lungs half a measure deeper, as if the air itself leaned toward her. Qi answered her, a half-step faster than it ever had in five months of practice.
+Warmth touched the back of her neck, faint as breath through cloth. Her legs felt half a step quicker, her lungs half a measure deeper, as if the air itself leaned toward her. Qi answered her, a half-step faster than it ever had in four months of practice.
 
 She moved.
 
@@ -80,9 +134,11 @@ The jaw cracked. The beast screamed through its own blood. It thrashed, tail tak
 
 Silence came back. Her ears rang.
 
-Du Hong arrived shouting, rope in hands, Lu Fen behind him with his knife already out and his shoulders screaming the lie she had read an hour before.
+Du Hong arrived shouting, rope in hands, Lu Fen behind him with his knife already out and his shoulders screaming the lie she had read an hour before. Han Shu came last and stood at a respectable distance with his arms folded and a scholarly expression, as though he had been asked for his opinion.
 
-But Ning Yan barely heard them. Something warm settled into the voice in her head, like tea poured into an empty cup held in cold hands.
+She got her hand in under the hinge and tore the jaw-plate loose. Pine, not stone. Chalk on one face, a date cut into the other corner in a mender's hand, the sort of thing nobody thinks to check twice. She put it inside her robe and did not look at it again until she was out of the trees.
+
+But Ning Yan barely heard any of them. Something warm settled into the voice in her head, like tea poured into an empty cup held in cold hands.
 
 The voice made a sound that was not words. Relief. Hunger eased.
 
@@ -96,6 +152,6 @@ Lu Fen stared at the carcass, at the intact hinge, at her hands on the knife. Ca
 
 “That jaw was ours,” he said. “We tracked it.”
 
-Ning Yan looked at his shoulders and saw the fight coming before his hand moved. She stood, legs shaking, blood cooling on her sleeves, and understood with sudden cold clarity that something had to have been taken to pay for that warmth in her legs.
+Ning Yan looked at his shoulders and saw the fight coming before his hand moved. She stood, legs shaking, blood cooling on her sleeves, and understood with a clarity that felt like cold water that something had to have been taken to pay for that warmth in her legs.
 
 But for now she stood over her kill, four hands whole in the snow, and the voice in her head hummed faintly like a lamp newly lit.
