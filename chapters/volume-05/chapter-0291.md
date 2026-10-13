@@ -1,6 +1,6 @@
 # Nine Holds
 
-The sixteenth was an ordinary day and she worked it the way ordinary days were worked, which she had learned to do without resenting it somewhere around the eighth month of being on this reach.
+The sixteenth was an ordinary day and she worked it the way ordinary days were worked, which she had learned to do without resenting it somewhere around the fourth month of being on this reach.
 
 Da put her on the ordinary end in the morning without a word, which was the fourth time in five months he had put her on work she could do with what she had left, and it was never a kindness and it was always correct, and she had never once been able to find the seam between the two.
 
@@ -72,7 +72,7 @@ The sixteenth closed on a woman with a list of nine items and no name for the te
 
 She banked the ring with three handfuls of ash and sat against the boards with the oilcloth against her ribs and felt the heat come up through the base the way it came up every night, and it was thinner than it had been before the course came out of it, and it would come back over the days, and tonight it was enough.
 
-Under her, at the boards, with the ash still ticking:
+At the boards that night, with the ash still ticking under her and the oilcloth against her ribs:
 
 “You are going to take it,” he said. “And I am going to be here.”
 

@@ -8,7 +8,7 @@ The man behind the counter had the book open flat and the sheet on the spike and
 
 “A name,” Ning Yan said. “A county. Ten years.”
 
-He did not move for about as long as it takes to count five, and then he said, “Say the name,” in a voice that had changed, because the voice an office uses for a figure is not the voice it uses for a thing somebody is asking out loud.
+He did not move for a moment, and then he said, “Say the name,” in a voice that had changed, because the voice an office uses for a figure is not the voice it uses for a thing somebody is asking out loud.
 
 “Ning Wu,” she said. “Of Lowwater. My brother.”
 
@@ -42,7 +42,9 @@ It is a line in a book four hundred yards behind her in a country her brother ha
 
 That is the whole of what she has done. It is a name and a county and ten years and the fact that the years are his own and are not carried on a balance against a dead furnace-man, in a hand no person in nine days of road will ever read, in a book that is kept by people who are not a county and are not obliged to keep it, four hundred yards from a reach that eleven men work.
 
-It is not enough. It is eleven days of road further from him than the list she has never seen.
+It is not enough. It is nowhere near enough.
+
+The list is nine days of road away, or further, in the hands of somebody whose name the woman who told her did not have. The line is four hundred yards behind her in a book kept by people who are not a county.
 
 She had worked out, standing at the counter, exactly what she was doing, and it was this: she had spent four years being unable to do one single thing about her brother, and now there was a thing, and it was tiny, and it was the only one, and she was going to do it and then she was going to go on being unable to do the rest of it.
 
@@ -102,7 +104,7 @@ And the seventh of the month on the morrow, which was a pay-day, and a season th
 
 She banked the ring with three handfuls of ash and sat against the boards in the dark and put the oilcloth against her ribs — eighteen stubs in four marks, the dead weight tickets, the folded figures of rates, the plate above them that she never described — and did not open it.
 
-Under her, in the hut that night:
+In the hut that night, with the dark against the boards and the oilcloth where she had left it:
 
 “You have put him where somebody has to look,” he said. “And you have not asked for anything else.”
 

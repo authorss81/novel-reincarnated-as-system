@@ -22,7 +22,7 @@ He turned the page back about four inches, the way he turned it back for the day
 
 He did not say anything else, and he did not tear anything, and there was no strip, and there was nothing to put in her coat.
 
-She stood at the plank for the length of about eleven counts after that, because there was nothing else to do with her hands, and then she went and worked, because there was a yard and she could set stone on it whatever else was true.
+She stood at the plank for a while after that, because there was nothing else to do with her hands, and then she went and worked, because there was a yard and she could set stone on it whatever else was true.
 
 ## The First Thing
 
@@ -32,7 +32,7 @@ It is not rest. She had had four hours a day of nothing since the second of a mo
 
 She walked out past the trestle to the end of the reach and stood at the place where the bank had been, which was a flat scar with a scrape through it and nine feet of lines gone to weather, and there was nothing in the world for her to do there.
 
-That was the whole of it. Not hardship. Not despair. **The first thing she had to do in a season of her life with nothing in it was to stand at the end of a reach with her hands in her coat, because there was no work, because the work was finished, because the season had a date at each end and the second one had come.**
+That was the whole of it. Not hardship. Not despair. The first thing she had to do in a season of her life with nothing in it was to stand at the end of a reach with her hands in her coat, because there was no work, because the work was finished, because the season had a date at each end and the second one had come.
 
 ## The Things That Were True
 

@@ -78,7 +78,7 @@ She had wanted that. In the second month of a year she could not name she had wa
 
 On the second day of the clearing the bank was down to about nine feet and the lines were laid and the cart was loaded twice, and Da came out to the end of the reach on foot, which he did perhaps twice a season.
 
-Seventeen days to the thirtieth. One bank to finish. No ramp. No heavy end. Four fingers and an arm at half and a bar in the left hand.
+Eighteen days to the thirtieth. One bank to finish. No ramp. No heavy end. Four fingers and an arm at half and a bar in the left hand.
 
 He stood at the top of the cut and looked down at the lines of stone laid out on the flat, nine feet of them, going away in two long rows toward the cart, in the exact order a sledge could take them without a man having to stop and think.
 
@@ -98,7 +98,7 @@ Under the reach, with the stone still going on:
 
 “I am down,” he said. “And you are on top.”
 
-On the twelfth she went up the reach at the fourth hour and worked the ordinary end all day, setting early, moving stone by hand, four fingers and no turn and a slowed flat and a bar in the left hand because the right would not go over her shoulder.
+On the thirteenth she went up the reach at the fourth hour and worked the ordinary end all day, setting early, moving stone by hand, four fingers and no turn and a slowed flat and a bar in the left hand because the right would not go over her shoulder.
 
 It held. The ordinary end held all day, and the bank was off the ground by the middle of the afternoon, and the last of it went on the cart in a load of four that she walked up onto the bed and could not have lifted an inch of it, and she stepped back from it and watched the cart go up the reach with the season’s last stone on it.
 

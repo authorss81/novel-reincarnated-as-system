@@ -48,7 +48,7 @@ The word was good. The word had a price. In four years she had heard that word i
 
 “An office.”
 
-“An office,” he said. “There is one of these within nine days of road. Past that there is nothing in nine days of road there is at all, and the county nine days west cannot read this page and has never been able to and is not going to be able to in the next thousand years.”
+“An office,” he said. “There is one of these within nine days of road. Past nine days of road there is nothing at all, and the county nine days west cannot read this page and has never been able to and is not going to be able to in the next thousand years.”
 
 ## What Good Is
 
@@ -100,10 +100,10 @@ Ten days to the thirtieth. One figure. One run with twelve holes in it. One offi
 
 She wanted, concretely, to have that office’s book closed on her inside of ten days, with a word in it she had not chosen, in a country that could not be argued with, nine days of road from the only family she had left in the world.
 
-Under her, at the boards that night, with the ring ticking through a course of brick she had laid herself:
+The ring was ticking through a course of brick she had laid herself, and the counter was four hundred yards behind her and nine days of road from anybody who could be told anything about what had happened in it:
 
 “You are readable,” he said. “And that is not a kindness.”
 
 She had not told him she was glad. There was no reason on that reach for a word spoken at a low table on the fourth hour to reach him at all, and she had watched the ceiling for a while wondering about that and had come to no conclusion she was willing to act on.
 
-The twenty-first closed on a woman who had been entered as good in a book four hundred yards behind her, by a clerk who had never asked her name, and who could not be un-entered, and who was one day closer to a thirtieth than she had been the day before.
+The twentieth closed on a woman who had been entered as good in a book four hundred yards behind her, by a clerk who had never asked her name, and who could not be un-entered, and who was one day closer to a thirtieth than she had been the day before.

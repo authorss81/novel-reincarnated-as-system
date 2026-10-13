@@ -3305,7 +3305,7 @@ Both inside pinned items, changing no day, no stage, no title and no ending.
 
 ## Established facts, Volume 5 Batch 0004 (ch 284–298) — ASH AND LEAVING (DRAFTED)
 
-**Fifteen chapters, day 581 to day 622. 27,087 words of body prose, average ~1,805 — the `#` title line and
+**Fifteen chapters, day 581 to day 620. 27,154 words of body prose, average ~1,810 — the `#` title line and
 every `##` section heading excluded, by the method the Volume 5 Batch 0001–0003 records use. None under the
 1,300 floor; none above the 2,700 guide. ONE bracketed layer line in fifteen chapters, at ch 292, and
 Volume 5's bracket budget of three is now spent: 258, 275, 292. No chapter in Volumes 1–4 was opened and no
@@ -3420,7 +3420,9 @@ it where it falls.**
     name the woman who told her did not know, ten years of his own. **The clerk says that is not how a line
     goes in this book and writes it anyway, in the ordinary hand, with the date in the left margin and no mark
     on it, and does not read it out. HE DOES NOT APPEAR. HE IS NOT MET. THERE IS NOTHING YET TO FORGIVE.**
-    It is eleven days of road further from him than the list she has never seen.
+    It is not enough and it is nowhere near enough. The list is nine days of road away, or further, in the
+    hands of somebody whose name the woman who told her did not have. The line is four hundred yards behind her.
+    **She got a line. She had asked for a line. It was in a book, and that is the whole of what she did.**
 25. **The Hunter at nine feet off the track, one card, one true sentence, no question:** *you are a good woman
     in a book four hundred yards from here, and there is not a page I am allowed to write on, and I would not
     promise you it would agree with that book.* **She does not thank him and does not tell him to stop and the
@@ -3491,10 +3493,11 @@ batch*: **zero.** Named weekdays: **zero** — one (*It is Tuesday*) was typed i
 saving. Calendar months named: **zero.** Harem or romance: **none; Wei Ran is a rate and a road on one card
 (ch 290).** Speeches closed in all fifteen files, curly throughout, zero straight quotes or apostrophes after
 the sweep. Markdown plain in all fifteen files: no blockquote, no code fence, no table, no horizontal rule.
-**No paragraph over 90 words in any of the fifteen.** Word counts by file are 1,749 · 1,467 · 1,886 · 1,766 ·
-1,516 · 1,780 · 1,735 · 1,576 · 1,607 · 1,736 · 1,900 · 1,904 · 2,081 · 1,788 · 2,596 — **none under the
-1,300 floor and none above the 2,700 guide; total 27,087, average ~1,805, which is the best of Volume 5's four
-batches and the first above the 1,800 guide on average.**
+**No paragraph over 90 words in any of the fifteen.** Word counts by file are 1,749 · 1,467 · 1,891 · 1,766 ·
+1,510 · 1,780 · 1,758 · 1,581 · 1,607 · 1,752 · 1,893 · 1,904 · 2,079 · 1,825 · 2,592 — **none under the
+1,300 floor and none above the 2,700 guide; total 27,154, average ~1,810, which is the best of Volume 5's four
+batches and the first above the 1,800 guide on average.** *(Corrected at review: the first record gave the
+pre-repair figures above and the batch end day as 622. Ch 298 is wholly on the seventh, which is day 620.)*
 
 ### Two drafting decisions recorded against the prompt
 
@@ -3861,3 +3864,65 @@ read once as *reconciled* at ch 282 and never corrected. The surface answer neve
 seven times in ch 261–267, Batch 0002, which was closed and audited before this batch was written.** The run
 now reads as one break at ch 268 and one after. Batch 0004 must not use the sentence in that form, and the
 seven instances in ch 261–267 are left for a Volume 5 close repair, recorded here so it is not lost.
+
+## Volume 5 Batch 0004 — REVIEW REPAIR (applied after `logs/volume-05-batch-0004.review.log`)
+
+**The full reasoning, the finding-by-finding table and every figure are in `state/current.md` under *Volume 5
+Batch 0004 — REVIEW REPAIR*. This is the compact record. Nothing in the planned plot, no beat, no date, no
+title, no bracket, no stage and no irreversible decision moved, and no chapter outside ch 284–298 was opened.**
+
+**1 — BLOCKING, and it was in the state file, not the chapters.** Batch 0004 wrote
+`workspace/volume-05-close/PROMPT.md` and then recorded in `state/current.md`, in two places, that the
+directory *does not yet exist and this phase did not create it*. The close phase is instructed to read
+`current.md` first and was being told its own prompt was absent. Both lines corrected: the directory exists,
+holds a 220-line prompt, and the close phase is told to read it and not rewrite it.
+
+**2 — the batch end day was wrong by two, in six files.** Ch 298 is wholly on the seventh (*The seventh of the
+month came clear*; ch 297 ends *The seventh of the month was tomorrow*), and under the month rule the seventh is
+**day 620**. *Day 622 / the ninth of a month* had been copied into `current.md` (three places, one of which
+contradicted the In-world date block in the same file), `book-metadata.md`, `continuity.md` (two places),
+`open-threads.md` and `chapter-summaries.md`. **All corrected. The batch ran day 581 to day 620.** Its pay-days
+— 590, 600, 610 — were always right, and day 600 remains the pinned Golden Core 3 date.
+
+**3 — chapter repairs.** `293:51` broken sentence (*Past that there is nothing in nine days of road there is at
+all*) → *Past nine days of road there is nothing at all*. `293:109` closed the chapter on the *twenty-first*
+when the boy came on the nineteenth and she went up on the twentieth → *The twentieth closed*. `290:9`
+duplicated phrase (*a great deal more about it*) → *a good deal more*. `290:3` re-staged the season's last
+stone going on the cart after `289:103` had already done it → the fourteenth is now a distinct event, **Da
+closes the listed run off at the top of the reach with his thumb on the last line of it**, her hand on a cart
+bed still warm where the load had lain; the merit settlement the chapter turns on is untouched. `291:3`
+*the eighth month of being on this reach* against *five months* stated seven times and a day count of about
+four → *the fourth month*. `286:97` carried the workflow's word — *the whole of the batch's arithmetic* →
+*the whole of it*. `297:45` *eleven days of road further from him than the list she has never seen*, an
+impossible measure that had already propagated into `state/current.md:98` → **nine days of road, the list in
+the hands of somebody whose name the woman who told her did not have, the line four hundred yards behind her**,
+propagated to `current.md` and `chapter-summaries.md` with it.
+
+**4 — one further day-sequence defect, found while applying the above and not in the review log.** Ch 289
+staged the second day of the clearing as the thirteenth (*Seventeen days to the thirtieth*) and then went back
+to *On the twelfth* for the day the bank came off, before closing on the thirteenth. Now *Eighteen days to
+the thirtieth* on the twelfth and *On the thirteenth* for the bank. The thirteenth's closer still carries
+*seventeen days left of a season*, which is right, and ch 290 opens on the fourteenth with *the thirtieth was
+in sixteen days*, which is also right.
+
+**5 — craft findings, applied at word level.** **Markup as emphasis:** ch 298's bolded sixty-word paragraph and
+ch 286's bolded bare date line are de-bolded; the book's legitimate italics (*reconciled*, the discharged
+balance, *on an account*) are untouched, and **the batch now contains no bold at all.** **The *Under her,
+with X:* tag** ran ten times in nine of fifteen chapters and closed five of them; it is now **four uses in four
+chapters, one per chapter, none closing a chapter** — 284, 289, 290 and 296 keep it, and 290, 291, 293, 294,
+296 and 297 were recast into six different lead-ins that still announce the one-breath scene.
+**The *eleven counts* measure** ran nine times and had been declared twice; it is now **five**, declared once
+and once only at ch 284 (*which was the measure she had for everything now*), with the second declaration at
+ch 288 removed and ch 294, 297 and 298 recast. It still carries ch 289 (the face), ch 295 (the word) and the
+batch's last line at 298.
+
+**6 — figures.** Nine of fifteen chapters now sit inside the 1,800 guide and six under it; none under the
+1,300 floor, none above the 2,700 guide; average ~1,810, still the best of Volume 5's four batches. Per file,
+body prose only: 1,749 · 1,467 · 1,891 · 1,766 · 1,510 · 1,780 · 1,758 · 1,581 · 1,607 · 1,752 · 1,893 ·
+1,904 · 2,079 · 1,825 · 2,592 — **27,154 words over fifteen chapters, 27,469 raw. Volume 5 file set ch
+239–298: 101,160 words of body prose over sixty chapters.**
+
+**7 — confirmed still true after repair.** One bracketed layer line in fifteen chapters, at ch 292, in the
+pinned house form, so Volume 5's bracket budget of three remains spent at 258 / 275 / 292. All fifteen files
+close every speech with curly quotes and none carries a blockquote, a code fence, a table or a horizontal
+rule. No controller file was touched.

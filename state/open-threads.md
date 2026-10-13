@@ -13,7 +13,7 @@ Live threads below carry into **Volume 5, *Mortal Ash*, ch 239–298**. The
 full state of each one at the last page of Volume 4 is in `state/continuity.md` under
 ***Established facts, Volume 4 complete (ch 179–238)*** and ***Volume 4 running ledger — at end of ch 238***.
 **VOLUME 5 IS COMPLETE AT CH 298.** Batches 0001–0003 are written and repaired and Batch 0004 (ch 284–298) is
-written: **27,087 words of body prose over fifteen chapters, average ~1,805**, day 581 to day 622, ONE
+written and repaired: **27,154 words of body prose over fifteen chapters, average ~1,810**, day 581 to day 620, ONE
 bracketed layer line, at ch 292, and Volume 5's bracket budget of three is spent. `outline/volume-05.md` is written and is
 the authority for Volume 5; `outline/batches/volume-05-batch-0001.md` was the card file it was drafted
 against and every card's beat is on the page. Batch 0002 was drafted against
@@ -21,8 +21,10 @@ against and every card's beat is on the page. Batch 0002 was drafted against
 page. The full record is in `state/continuity.md` under
 ***Established facts, Volume 5 Batch 0002 (ch 253–267) — DEBT COMING DUE*** and ***Volume 5 running
 ledger — at end of ch 267***.
-**VOLUME 5 IS COMPLETE AT CH 298. Next to write is the Volume 5 close phase**, whose prompt directory does not
-yet exist. **The Volume 5 Batch 0004 drafting prompt was `workspace/volume-05-batch-0004/PROMPT.md` and every
+**VOLUME 5 IS COMPLETE AT CH 298. Next to write is the Volume 5 close phase**, whose prompt is already written at
+`workspace/volume-05-close/PROMPT.md` — **read it, do not rewrite it.** *(Corrected at review: this line
+previously said the prompt directory did not yet exist. Batch 0004 created it as its one next-phase
+directory.)* **The Volume 5 Batch 0004 drafting prompt was `workspace/volume-05-batch-0004/PROMPT.md` and every
 pinned item in it is on the page.**
 **The blocker recorded here at the Volume 4 close and repeated at the Volume 5 planning close is RESOLVED**:
 `workspace/volume-04-close-record/` and `workspace/volume-05-batch-0001/` both now hold `.done` markers
@@ -91,7 +93,7 @@ authorisation, the cost and every other beat unmoved.
 
 ## Volume 5 Batch 0004 (ch 284–298) — THE LAST BATCH OF VOLUME 5
 
-**Fifteen chapters, day 581 to day 622. ONE bracketed layer line, at ch 292 — and Volume 5's budget of three
+**Fifteen chapters, day 581 to day 620. ONE bracketed layer line, at ch 292 — and Volume 5's budget of three
 is spent.** Pressure: **ash and leaving**. Full record in `state/continuity.md` under ***Established facts,
 Volume 5 Batch 0004 (ch 284–298) — ASH AND LEAVING*** and ***Volume 5 running ledger — at end of ch 298***.
 

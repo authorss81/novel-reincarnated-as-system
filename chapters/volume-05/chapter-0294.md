@@ -20,7 +20,7 @@ He read it out once, and he read it out the way an answer is read out in a room 
 
 “Dates in order. Twelve gaps, entered by the wage-holder and true. The wage-holder entered at the seventeenth as good. The seventh condition is discharged. The figure is answered at eight hundred jin and is payable in Lowwater at the counting room of Hou Sanliang and nowhere else.”
 
-He stopped, and picked the pen up, and wrote the whole of it into the book in about as long as it takes to count eleven, and he had not looked down once while he read it and he did not look up after.
+He stopped, and picked the pen up, and wrote the whole of it into the book without hurry, and he had not looked down once while he read it and he did not look up after.
 
 Nine men in a room with a stove in it had just heard the figure of a bounty that had been standing in four counties for four years answered by an office four hundred yards past the last working point of a line of work, on the word of a woman standing at the counter who had four fingers on one hand.
 
@@ -94,7 +94,7 @@ The twenty-second closed on a woman with eight hundred jin discharged, eight day
 
 She went back to the bank and worked the rest of the day with the bar in her left hand and lifted four stones to the younger man’s four, and she did not lose once, and she said nothing at all at the fire, and the eleven men said nothing to her, and that was the whole of what the far side did with the largest thing that had ever happened on it.
 
-Under her, at the boards, with the ring going:
+At the boards, in the dark, with the ring going:
 
 “It is answered,” he said. “And I am still holding what you earned.”
 

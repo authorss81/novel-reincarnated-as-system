@@ -6,9 +6,11 @@ It was at the end of her column, in the small hand of the clerk on the trestle w
 
 She had not read it once. She had read the run and the gaps and the hours and she had stopped her eye four inches short every single time, and the stopping was not a decision. A thing you have looked at a hundred times without seeing is not a thing you decided not to see. It is a thing your eye goes round, the way a tongue goes round a missing tooth.
 
-**The Twenty-Seventh. Thirtieth. Same As Last.**
+The Twenty-Seventh. Thirtieth. Same As Last.
 
 It came out of her the way a thing comes out of you that you have been carrying in a closed hand, and she stood at the plank with the date gone in and understood that she had known it perfectly the whole time and had not been spending a copper of her attention on it, and that a body will do that with a fact it is not ready for.
+
+None of it was hers to change.
 
 ## The Sum
 
@@ -94,7 +96,7 @@ She walked back up the reach with the bar on her shoulder and the sun going down
 
 ## What It Came To
 
-She walked back down the track with the light going and the bar over her shoulder and the whole of the batch’s arithmetic assembled in her head without being asked for, which was how the important ones always came.
+She walked back down the track with the light going and the bar over her shoulder and the whole of it assembled in her head without being asked for, which was how the important ones always came.
 
 Twenty-six days. One figure. One column. One office that could answer and one county nine days west that would never hear that it had been answered, because a county book has no column for a thing done past its own boundary and never has had.
 

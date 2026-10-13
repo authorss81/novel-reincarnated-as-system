@@ -114,7 +114,7 @@ She put her hand flat on the book for a line’s length, feeling the paper under
 
 “There,” she said. “That is enough. That is the whole of what I came for.”
 
-Under her, going down the track with the stove behind her and nothing on that reach in front of her at all:
+Going down the track with the stove behind her and nothing on that reach in front of her at all:
 
 “It is done,” he said. “And I did it.”
 

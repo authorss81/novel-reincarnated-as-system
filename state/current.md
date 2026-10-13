@@ -59,12 +59,12 @@ This file is **append-only and long, and most of it is history.** You do not nee
   the day table and the planned plot did not move, and no chapter in Volumes 1–4 was opened.** The batch is
   **25,886 words of body prose over fourteen chapters, average ~1,849**, three chapters under the 1,800 guide
   (241, 243, 246) and none above it. **A Batch 0002 drafter reads the repaired chapters, not the review log.**
-- **Volume:** 5 of 16 — **Mortal Ash (ch 239–298)** — outlined in `outline/volume-05.md`. **BATCH 0001 (ch 239–252) WRITTEN AND REPAIRED — 25,886 words of body prose over fourteen chapters, day 471 to day 506, ZERO bracketed layer lines in the batch. BATCH 0002 (ch 253–267) WRITTEN AND REPAIRED — **25,382 words of body prose over fifteen chapters, average ~1,692**, day 507 to day 521, ONE bracketed layer line, at ch 258. BATCH 0003 (ch 268–283) WRITTEN AND REPAIRED — **22,738 words of body prose over sixteen chapters, average ~1,421**, day 522 to day 580, ONE bracketed layer line, at ch 275. BATCH 0004 (ch 284–298) WRITTEN — **27,087 words of body prose over fifteen chapters, average ~1,805**, day 581 to day 622, ONE bracketed layer line, at ch 292, and Volume 5's bracket budget of three is spent.** Volume 5 file set ch 239–298: **101,095 words of body prose over sixty chapters.** Volume 4 remains closed and audited: Batch 0001 (ch 179–192), 28,607 · Batch 0002 (ch 193–208), 31,900 · Batch 0003 (ch 209–222), 28,581 · Batch 0004 (ch 223–238), 31,484 — file set 120,572 words. Volume 3 file set 135,014.
+- **Volume:** 5 of 16 — **Mortal Ash (ch 239–298)** — outlined in `outline/volume-05.md`. **BATCH 0001 (ch 239–252) WRITTEN AND REPAIRED — 25,886 words of body prose over fourteen chapters, day 471 to day 506, ZERO bracketed layer lines in the batch. BATCH 0002 (ch 253–267) WRITTEN AND REPAIRED — **25,382 words of body prose over fifteen chapters, average ~1,692**, day 507 to day 521, ONE bracketed layer line, at ch 258. BATCH 0003 (ch 268–283) WRITTEN AND REPAIRED — **22,738 words of body prose over sixteen chapters, average ~1,421**, day 522 to day 580, ONE bracketed layer line, at ch 275. BATCH 0004 (ch 284–298) WRITTEN AND REPAIRED — **27,154 words of body prose over fifteen chapters, average ~1,810**, day 581 to day 620, ONE bracketed layer line, at ch 292, and Volume 5's bracket budget of three is spent.** Volume 5 file set ch 239–298: **101,160 words of body prose over sixty chapters.** Volume 4 remains closed and audited: Batch 0001 (ch 179–192), 28,607 · Batch 0002 (ch 193–208), 31,900 · Batch 0003 (ch 209–222), 28,581 · Batch 0004 (ch 223–238), 31,484 — file set 120,572 words. Volume 3 file set 135,014.
 - **Volume 5 goal**, fixed by `outline/series.md` §9: *In this volume, Ning Yan must finish the world they came from, or leaving it costs everyone she left standing in it.*
 - **Chapter written:** **1–298. THE NOVEL RUNS TO CHAPTER 1000. VOLUME 5 IS COMPLETE AT CH 298 AND IS AWAITING ITS CLOSE.**
-- **Next phase:** **the Volume 5 close phase.** `outline/volume-05.md` ends at ch 298 and every chapter of it is on the page, so the only thing a close phase may write is `workspace/volume-05-close/PROMPT.md`. **That directory does not yet exist and this phase did not create it**, because `AGENTS.md` gives a drafting phase exactly one next-phase directory and a Volume 5 close is not a drafting phase. **This record does not write a `.done` marker**, which `PHASE_SYSTEM.md` gives to the controller alone. **The blocker recorded at the Volume 4 close and at the Volume 5 planning close is RESOLVED — `workspace/volume-04-close-record/` and `workspace/volume-05-batch-0001/` both hold `.done` markers (commits `88ddc33` and `3e32724`) and neither is deferred. Do not raise it again.**
+- **Next phase:** **the Volume 5 close phase.** `outline/volume-05.md` ends at ch 298 and every chapter of it is on the page, so the only thing a close phase may write is `workspace/volume-05-close/PROMPT.md`. **That directory exists and was created by Batch 0004, which wrote `workspace/volume-05-close/PROMPT.md` (220 lines) as its one next-phase directory. Read it; do not rewrite it.** **This record does not write a `.done` marker**, which `PHASE_SYSTEM.md` gives to the controller alone. **The blocker recorded at the Volume 4 close and at the Volume 5 planning close is RESOLVED — `workspace/volume-04-close-record/` and `workspace/volume-05-batch-0001/` both hold `.done` markers (commits `88ddc33` and `3e32724`) and neither is deferred. Do not raise it again.**
 - **Point of view:** close third on Ning Yan; every line Yuan speaks is written in the present tense. **The close audit has now answered the two-volumes-of-sixteen protagonist question in writing — see *The protagonist, answered* below and in `workspace/volume-04-close/SUMMARY.md`.**
-- **In-world date:** **day 620** of the run's own clock at ch 298 — the seventh of a month, past the last working point of the line, on the far side, **out of employment, with no season and no wages.** **Batch 0001 ran day 471 to day 506 and its three pay-days were day 480 (the seventeenth), day 490 (the twenty-seventh) and day 500 (the seventh). Batch 0002 ran day 507 to day 521 and its two pay-days were day 510 (the seventeenth) and day 520 (the twenty-seventh). Batch 0003 ran day 522 to day 580 and its pay-days were day 530, 540, 550, 560, 570 and 580. Batch 0004 ran day 581 to day 622 and its pay-days were day 590, 600 and 610 — day 600 is also the pinned Golden Core 3 date — and the next pay-day after the season closed, day 620, produced nothing.** The season's road shut on day 117 and reopened on day 254. **Day 0 is the last day of the thaw** (canon change 30). **Day 299, 329, 359 and 389 were the attendances of the run so far in this stretch and all four fell on the sixteenth; day 389 was the last one and it is one sentence inside ch 225.**
+- **In-world date:** **day 620** of the run's own clock at ch 298 — the seventh of a month, past the last working point of the line, on the far side, **out of employment, with no season and no wages.** **Batch 0001 ran day 471 to day 506 and its three pay-days were day 480 (the seventeenth), day 490 (the twenty-seventh) and day 500 (the seventh). Batch 0002 ran day 507 to day 521 and its two pay-days were day 510 (the seventeenth) and day 520 (the twenty-seventh). Batch 0003 ran day 522 to day 580 and its pay-days were day 530, 540, 550, 560, 570 and 580. Batch 0004 ran day 581 to day 620 and its pay-days were day 590, 600 and 610 — day 600 is also the pinned Golden Core 3 date — and the next pay-day after the season closed, day 620, produced nothing.** The season's road shut on day 117 and reopened on day 254. **Day 0 is the last day of the thaw** (canon change 30). **Day 299, 329, 359 and 389 were the attendances of the run so far in this stretch and all four fell on the sixteenth; day 389 was the last one and it is one sentence inside ch 225.**
 - **The month rule.** Months are thirty days and a month begins every thirty days, **so the month-day of any day is `((day − 134) mod 30) + 1`.** Day 134 was the first of a month. **Days 374–403 read day − 373 · days 404–433 read day − 403 · days 434–463 read day − 433 · days 464 onward read day − 463.** (The rule as it stood before this audit said "days 374 to 463 read day − 373", which was wrong for days 404 onward, and is corrected here and in `state/open-threads.md`.) The months Volume 4 lands in began on days 254 · 284 · 314 · 344 · 374 · 404 · 434.
 
 ## Who is where at end of chapter 252 — VOLUME 5 BATCH 0001 DRAFTED (cold reader starts here)
@@ -88,18 +88,80 @@ Full record: `state/continuity.md` under ***Established facts, Volume 5 Batch 00
 
 ## Who is where at end of chapter 298 — VOLUME 5 COMPLETE (cold reader starts here)
 
-**Day 622 — the ninth of a month. She is past the last working point, at the end of a season that closed on the thirtieth, Golden Core 3, eighteen stubs, no wages and no season.** Full record in `state/continuity.md` (*Established facts, Volume 5 Batch 0004 (ch 284–298) — ASH AND LEAVING* + running ledger at ch 298).
+**Day 620 — the seventh of a month. She is past the last working point, at the end of a season that closed on the thirtieth, Golden Core 3, eighteen stubs, no wages and no season.** Full record in `state/continuity.md` (*Established facts, Volume 5 Batch 0004 (ch 284–298) — ASH AND LEAVING* + running ledger at ch 298). *(Corrected at review: the first record of this block gave day 622 and the ninth of a month. Ch 298 is wholly on the seventh — "The seventh of the month came clear", and ch 297 ends "The seventh of the month was tomorrow" — and under the month rule at line 68 the seventh is **day 620**, which is what the In-world date block in this file already said. The batch therefore ends on day 620, not 622.)*
 
 - **Ning Yan — GOLDEN CORE 3**, taken day 600 (the seventeenth, a pay-day) at her own order, in daylight, in the middle of a reach where eleven men were two hundred yards behind her. **The volume's third and last bracket.** Cost: **she is entered as good in a book the bound cannot read, and she cannot be un-entered** — the first cost in five volumes that is not on her body. Paper still Foundation the first stage, never opened.
 - **Body:** short breath four counts; **right index gone, four fingers' grip**; **right arm open half the time, permanent, since a face let go on her in a cut at the end of a reach**; nine of eleven holds; turn gone; middle-bank method; aperture cracked permanent; not hungry; cold like stone; **eighteen.**
 - **What the batch changed:** the furnace of her own finished and paid for in **two days out of her own column**; the far date read at last — the thirtieth — and **the three working days before it that nobody pays for**; the reach's last run taken off outside the book and outside the wage; **the heavy end and the ramp closed for good**; **Golden Core 3 and the entry as good**; **the claim ANSWERED** and the Lowwater date **torn off by Luo Ping's hand**; **Hou paid and never met**; **Ning Bo's account discharged where it can be closed**; **Ning Wu's decade entered as a line with no mark on it**; the season closed and the next pay-day producing nothing.
 - **The claim: ANSWERED.** Eight hundred jin, answered in ink at ch 294, read out once in a room with nine men in it, drafted west on the carrier's round with no date, paid into Hou Sanliang's counting room. **The seventh condition discharged and the seven conditions never re-listed. The date came off the page — not struck out, off — by the hand that wrote it. Hou Sanliang is paid and has never been met. Luo Ping was never met.**
 - **Ning Bo's account.** Discharged in the far-side office's own book: *balance carried forward, Ning Yan, of Lowwater, against the furnace account of Ning Bo, discharged; six years carried; no balance standing; nothing carried against the name.* **It does nothing in Lowwater, because no instrument in nine days of road reaches a county, and the account is closed where it can be closed.** The county's furnace column still reads unsettled and the register still reads *reconciled*.
-- **Ning Wu.** A line in the same book: name, county, ten years, ten years of his own, no mark on it, not read out. **He does not appear and is not met. He is eleven days of road further from her than a list she has never seen.**
+- **Ning Wu.** A line in the same book: name, county, ten years, ten years of his own, no mark on it, not read out. **He does not appear and is not met. The list he is on is nine days of road away, or further, in the hands of somebody whose name the woman who told her did not have; the line about him is four hundred yards behind her.**
 - **Yuan.** **Merit settled a second time (ch 290) on a listed run closed, not on a death; told before spent; the share held six days and spent at ch 296 out of her foundation, and the price is the one nobody can name or measure.** **Ledger ended as a standing held stage at ch 272 and what replaces it is his readability, said on the page.** No figure of what is left of him anywhere in ch 284–298.
 - **The Hunter.** One card, ch 297, nine feet off a track, one true sentence, no question, no name on anything he has written. **His request is still pending.** The line's own people still do not know she exists.
 - **Untouched:** the relicensed licence never opened; the register read once and never corrected; the Clay Plate worn against her ribs; **MEMBER ABSENT ×3, unraised**; the year of non-forgiveness carrying and untouched; the three sponsors silent; **Feng never on the page**, no second Lung, no second appointment; nothing above the Standing Office of the Second Account named; *kiln-born* zero; what became of the eleven not raised; the ch 150 refusal not softened. **The surface answer paid once at ch 267 and never re-voiced. The tenth part is not given.**
-- **Next phase:** **the Volume 5 close phase**, whose prompt directory does not yet exist. `outline/ending.md` is untouched and Volume 5 previewed nothing in it.
+- **Next phase:** **the Volume 5 close phase**, whose prompt is already written at `workspace/volume-05-close/PROMPT.md`. `outline/ending.md` is untouched and Volume 5 previewed nothing in it.
+
+## Volume 5 Batch 0004 — REVIEW REPAIR
+
+`logs/volume-05-batch-0004.review.log` audited the fifteen chapters against the volume outline and found
+**one blocking state-file error, one day error propagated to six files, six chapter-level defects, and
+three craft findings.** Applying them surfaced **one further day-sequence defect in ch 289.** All of it is
+applied. **No beat, date, title, bracket, stage, irreversible decision or planned event moved, and no chapter
+outside ch 284–298 was opened.**
+
+**Blocking — the next phase was misdirected by this file.** Batch 0004 wrote
+`workspace/volume-05-close/PROMPT.md` and this file then told the close phase the directory *does not exist
+and this phase did not create it*, in two places (the Next phase line and the ch 298 block). Both corrected
+above: the directory exists, holds a 220-line prompt, and the close phase is told to **read it and not
+rewrite it.** This is the one finding that would have cost the next run real work.
+
+**Day 622 → day 620.** Ch 298 is wholly on the seventh (*The seventh of the month came clear*; ch 297 ends
+*The seventh of the month was tomorrow*), and under the month rule in this file the seventh is **day 620**.
+*Day 622 / the ninth of a month* was wrong on both counts and had been copied into `current.md` (three
+places), `book-metadata.md`, `continuity.md`, `open-threads.md` and `chapter-summaries.md`. All corrected.
+**The batch ran day 581 to day 620.** Its pay-days — 590, 600, 610 — are unchanged and correct; the pay-day
+on day 620 after the season closed still produced nothing, which is ch 298's whole point.
+
+**Chapter repairs.**
+
+| Ch | Fault | Repair |
+| --- | --- | --- |
+| 293 | **Broken sentence** — *Past that there is nothing in nine days of road there is at all* | *Past nine days of road there is nothing at all* |
+| 293 | **Wrong closer** — the chapter closed on the *twenty-first*, but the boy came on the nineteenth, she went up on the twentieth (lines 3, 41, 89) and *Ten days to the thirtieth* only computes from the twentieth | *The twentieth closed* |
+| 290 | **Duplicated phrase** — *She thought about it a great deal more about it* | *She thought about it a good deal more* |
+| 290 | **One completion staged twice** — 289 had the season's last stone on the cart and watched it go up the reach; 290 opened on the fourteenth with her hand flat on *the last of the stones as it went up onto the cart bed* and the same last run going up the track. Recast so the fourteenth is a distinct event: **Da closes the listed run off at the top of the reach with his thumb on the last line of it**, and her hand is on a **cart bed still warm where the load had lain.** The merit settlement that the chapter turns on is untouched |
+| 291 | **Interval contradiction** — *somewhere around the eighth month of being on this reach*, against *five months* stated seven times in the batch and a day count (arrival day 471, ch 291 day 599) of about four months | *the fourth month* |
+| 289 | **Day sequence ran backwards inside the chapter** — the second day of the clearing is staged with *Seventeen days to the thirtieth* (the thirteenth, day 596), and the chapter then went back to *On the twelfth* for the bank coming off before closing on the thirteenth. **Found while applying the day repairs above, not in the review log** | *Eighteen days to the thirtieth* on the twelfth, and *On the thirteenth* for the day the bank comes off. The thirteenth's close still carries *seventeen days left of a season*, which is correct, and ch 290 opens on the fourteenth with *the thirtieth was in sixteen days* |
+| 286 | **Workflow language in narration** — *the whole of the batch's arithmetic assembled in her head* | *the whole of it assembled in her head* |
+| 297 | **Impossible measure** — *eleven days of road further from him than the list she has never seen*, which measures a distance to a thing she cannot locate, and had already propagated here at line 98 | **Nine days of road, the list in the hands of somebody whose name the woman who told her did not have, the line four hundred yards behind her** — and propagated to `current.md` and `continuity.md` |
+
+**Craft findings, applied at word level with no plot change.**
+
+- **Markup as emphasis.** Ch 298 bolded a sixty-word paragraph and ch 286 bolded a bare date line. Both
+  de-bolded; the stress now falls in the sentence construction (298) and the date stands on its own as a
+  deliberate beat with *None of it was hers to change* under it (286). The book's legitimate italics —
+  *reconciled*, the discharged balance, *on an account* — are untouched.
+- **The *Under her, with X:* tag was in nine of fifteen chapters, ten uses, and closed five chapters.**
+  Thinned to **four uses in four chapters, one per chapter, none closing a chapter**: 284, 289, 290, 296
+  keep the tag; 290, 291, 293, 294, 296 and 297 had it recast into six different lead-ins that still
+  announce the one-breath scene. The motif survives where it earns and has stopped being punctuation.
+- **The *eleven counts* measure ran nine times and had been declared twice.** Cut to **five**, declared once
+  and once only, at ch 284: *which was the measure she had for everything now*. Recast or removed at 288
+  (the second declaration), 294, 297 and 298. It still lands at ch 289 (the face) and ch 295 (the word), and
+  the batch still ends on it at 298.
+
+**Length.** The review recorded eight of fifteen chapters under the 1,800 guide as a note, not a failure.
+After repair: **9 under it, 6 inside it, none under the 1,300 floor, none above the 2,700 guide.** Average
+~1,810 is still the best of Volume 5's four batches. **Per file, body prose only:** 284 1,749 · 285 1,467 ·
+286 1,891 · 287 1,766 · 288 1,510 · 289 1,780 · 290 1,758 · 291 1,581 · 292 1,607 · 293 1,752 · 294 1,893 ·
+295 1,904 · 296 2,079 · 297 1,825 · 298 2,592 — **27,154 words over fifteen chapters, 27,469 raw.**
+**Volume 5 file set ch 239–298: 101,160 words of body prose over sixty chapters** (recounted across the
+whole directory after repair; the pre-repair record said 101,095).
+
+**Confirmed still true after repair.** One bracketed layer line in fifteen chapters, at ch 292, in the pinned
+house form; the volume's bracket budget of three remains spent at 258 / 275 / 292. All fifteen files close
+every speech with curly quotes and none carries a blockquote, a code fence, a table or a horizontal rule.
+No controller file was touched.
 
 ## Who is where at end of chapter 283 — VOLUME 5 BATCH 0003 DRAFTED (superseded by the block above; kept as the record at ch 283)
 

@@ -1,12 +1,12 @@
 # Told Before Spent
 
-On the fourteenth she stood at the far end of the reach with her hand flat on the last of the stones as it went up onto the cart bed, and behind her the bank was a flat scar with nine feet of lines scraped out of it, and the yard’s last run of the season was going up the track on four wheels.
+On the fourteenth Da closed the run off at the top of the reach with his thumb on the last line of it, and she stood at the far end with her hand flat on the cart bed where the load had lain, and the bed was still warm, and behind her the bank was a flat scar with nine feet of lines scraped out of it and nothing on the track but the barrows going back.
 
 It was a listed run. Every run the yard put out was a listed run, in the way that every job a place sets down is a job in the world’s own bookkeeping before anybody has said the word for it, and when a listed run is closed something settles out of the ground it was done on.
 
 She felt it as a cold that came up through the base at about the fourth hour, not into her but through her, the way a thing comes up through a floor from a room below, and it went away as fast as it came and she put her hand on the ring behind the hut and found it hot and did not think anything more about it.
 
-She thought about it a great deal more about it over the next two days.
+She thought about it a good deal more over the next two days.
 
 ## The Team
 
@@ -92,7 +92,7 @@ That was all it was.
 
 She did not say no, and she did not say yes, and she did not thank him, and she went back to the bank and lifted four stones up the line before the light went, and the fifteen closed on a woman holding something in her hands that was hers and was going to be spent, and two days to the pay-day, and fifteen to the thirtieth, and a line in a record four hundred yards behind her that had not been written yet.
 
-Under her, going up the reach with the last load she could lift alone:
+Going up the reach at the top of the slope with the last load she could lift alone, where there was nobody at all:
 
 “You are owed,” he said. “And I am paying it.”
 

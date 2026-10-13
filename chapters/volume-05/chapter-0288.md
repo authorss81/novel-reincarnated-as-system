@@ -24,7 +24,7 @@ That was the whole of it. That was the entire mechanism of how she got out of a 
 
 The bar took the weight. That was what the bar was for and she had been putting it under things for four months without ever once needing it to be the only thing between her and the ground. She felt it take, and she put her left hand on the flat of it above her head, and she shoved, and she got a knee up.
 
-Eleven counts. She counted them afterwards and she counted them correctly, and eleven counts is the measure she has had for everything since a stage in the fourth month of a year she has never had to name.
+Eleven counts, and she counted them afterwards the way she had counted every one of them since a stage in the fourth month of a year she has never had to name.
 
 Then she was out, on the flat of the bank, on her hands and her knees, and the bank was where it had fallen, and the bar was half in under it, and the wind was moving the dust off it in a long grey sheet.
 
