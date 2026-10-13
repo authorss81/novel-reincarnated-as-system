@@ -12,14 +12,16 @@ moved two sentences in ch 220 and ch 232, made the weekday rule canon, and reope
 Live threads below carry into **Volume 5, *Mortal Ash*, ch 239–298**. The
 full state of each one at the last page of Volume 4 is in `state/continuity.md` under
 ***Established facts, Volume 4 complete (ch 179–238)*** and ***Volume 4 running ledger — at end of ch 238***.
-**VOLUME 5 IS OPEN. Batch 0001 (ch 239–252) IS WRITTEN — 25,886 words of body prose over fourteen chapters,
-day 471 to day 506, and ZERO bracketed layer lines in the batch.** `outline/volume-05.md` is written and is
+**VOLUME 5 IS OPEN. Batch 0002 (ch 253–267) IS WRITTEN — 21,450 words of body prose over fifteen chapters,
+day 507 to day 521, ONE bracketed layer line in the batch, at ch 258.** `outline/volume-05.md` is written and is
 the authority for Volume 5; `outline/batches/volume-05-batch-0001.md` was the card file it was drafted
-against and every card's beat is on the page. The full record is in `state/continuity.md` under
-***Established facts, Volume 5 Batch 0001 (ch 239–252) — KEEPING AND BEING KEPT*** and ***Volume 5 running
-ledger — at end of ch 252***.
-**Next to write is the Volume 5 Batch 0002 drafting phase, ch 253–267.** Its prompt is
-`workspace/volume-05-batch-0002/PROMPT.md`.
+against and every card's beat is on the page. Batch 0002 was drafted against
+`workspace/volume-05-batch-0002/PROMPT.md` with no card file, and every pinned item in that prompt is on the
+page. The full record is in `state/continuity.md` under
+***Established facts, Volume 5 Batch 0002 (ch 253–267) — DEBT COMING DUE*** and ***Volume 5 running
+ledger — at end of ch 267***.
+**Next to write is the Volume 5 Batch 0003 drafting phase, ch 268–283.** Its prompt is
+`workspace/volume-05-batch-0003/PROMPT.md`.
 **The blocker recorded here at the Volume 4 close and repeated at the Volume 5 planning close is RESOLVED**:
 `workspace/volume-04-close-record/` and `workspace/volume-05-batch-0001/` both now hold `.done` markers
 written by the controller (commits `88ddc33` and `3e32724`) and neither is deferred. **Do not raise it
@@ -66,6 +68,27 @@ controller alone, so this record does not write one.**
   and used at ch 242. Nothing gives it back and nothing offers to.
 - **Power: Foundation 9 for all fourteen chapters. Golden Core 1 is ch 258, day 512, Batch 0002.** Merit zero,
   the channel not restored and not measured, Ledger not ordered and not refused.
+
+## Volume 5 Batch 0002 (ch 253–267) — what this batch added, and what is now live going into Batch 0003
+
+**Fifteen chapters, 21,450 words of body prose, day 507 to day 521. ONE bracketed layer line, at ch 258.**
+Pressure: **debt coming due** — and nothing else. Full record in `state/continuity.md`.
+
+| Thread | Owner | Planned resolution | State |
+| --- | --- | --- | --- |
+| **Golden Core 1** | Ning Yan | **Vol 5, Batch 0002** | **TAKEN AND CLOSED.** Day 512, at her own order, in the open past the post, where nothing is announced. One bracket, far-side house form, first since ch 237. Cost: the turn out of the bar stroke, permanently. **Golden Core 2 is ch 275, day 556, Batch 0003's** |
+| **The surface answer** | series | **Vol 5, Batch 0002** | **PAID AND CLOSED.** Once, at ch 267, in a worker's mouth, in short sentences: being told and being charged were never the same thing. Tenth part not given; crews not proved wrong; structural answer untouched |
+| **Feng's fair Foundation copy** | Feng / keeper | **Vol 5, Batch 0002** | **PAST THE LINE AND CLOSED.** Ch 262: one sheet into a far-side book by the keeper's paste, unknowing; rest of the bundle back on the cart. Feng never on the page |
+| **The claim's second movement** | series | **Vol 5, Batch 0004** | **MOVED, NOT ANSWERED.** Draft west day 514 on a carrier's round with no date, office to office. Price still her column; refused three times. **The authorisation is ch 268, Batch 0003's, arriving cold** |
+| **The road west** | series | **Vol 5, Batch 0002** | **OPEN.** Ninety going, nine days hard, coming unquoted. She rode it a day (261) and came back; the twenty-second a gap |
+| **Merit, first of two** | Yuan | **Vol 5** | **SETTLED ONCE (256), on a listed tending, told before spent, two holds gone.** Second settlement is Batch 0004's. Ledger untouched |
+
+### Held, confirmed, not touched by Batch 0002
+
+- **Hou unpaid, patient, never met; Lowwater date untouched; Luo Ping a direction. The Hunter's request still
+  pending, at nine feet, off page. The register *reconciled*; the plate worn, undescribed; MEMBER ABSENT ×3;
+  year carrying, unmentioned. No office above the Standing Office named. *Kiln-born* zero. The eleven not
+  raised. No second Lung, no second appointment. No new names, no new enemy, nothing a romance.**
 
 ## Volume 4 — every thread below is confirmed OPEN on this file. Nothing here is retired.
 

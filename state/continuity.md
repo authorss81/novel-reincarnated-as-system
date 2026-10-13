@@ -3120,6 +3120,162 @@ Both are inside the card's own beat and neither changes a card, a day, a title o
 | Still open | **The Hunter's request; everything above the Standing Office of the Second Account; *kiln-born*; what became of the eleven; why the register reads *reconciled*; the year of non-forgiveness, still carrying; Golden Core 1 (ch 258, day 512); the surface answer (ch 267); Feng's fair Foundation copy past the line (ch 262); Yuan entered (ch 272)** |
 
 
+## Established facts, Volume 5 Batch 0002 (ch 253–267) — DEBT COMING DUE
+
+**Fifteen chapters, 21,450 words of body prose — the `#` title line and every `##` section heading excluded,
+by the method the Volume 3, Volume 4 and Volume 5 Batch 0001 records use.** Day 507 to day 521, one day per
+chapter. ONE bracketed layer line in fifteen chapters, at ch 258 — the first thing the layer has said since
+ch 237. Drafted against `workspace/volume-05-batch-0002/PROMPT.md` with no card file; every pinned item in
+that prompt is on the page. No chapter in Volumes 1–4 was opened.
+
+### The batch in one paragraph
+
+The road west reopens and a draft goes west on a carrier's round with no date on it, and the claim moves a
+second time without being answered. **She takes twenty-nine coppers of furnace material on promise against
+booked pays — money she has not got — and closes the road behind her for the season.** A listed tending
+cleared by hand settles merit once, told before spent. **Golden Core 1 is taken at her own order, in the
+open, where nothing is announced, day 512, one bracket, costing the turn out of her bar stroke permanently.**
+A fair hand's Foundation copy goes past the line into a far-side book, taken unknowing. **She refuses the
+office three times in three rooms with three voices. The surface answer is paid once, at ch 267, in a
+worker's mouth, in short sentences: being told and being charged were never the same thing.**
+
+### What is established on the page in ch 253–267 and was not canon at ch 252
+
+1. **The road west reopened, day 507, the fourteenth.** Carrier carts through to the line and past it. Wei
+   Ran's going rate, said once, walking, in her own register: **ninety coppers for a person and one bag,
+   nine days hard going, not a favour. The coming is a different number and nobody has quoted it.**
+2. **The carrier's round carries papers and bags and persons with no date on it.** Goes when full, comes
+   when it comes. Nine days hard going each way.
+3. **The claim's second movement: a draft west, office to office, on the carrier's round, no date on it,
+   day 514.** Moved and not answered. Not paid, not assessed, not torn off. The date in Lowwater untouched.
+4. **Three refusals in three rooms with three voices.** At the trestle in daylight by a young clerk with a
+   slate (254, out loud); at the store at the seventh hour by a mild man of about sixty (263, out loud);
+   once before at the counter in her own head (252, carried). The price each time: her column, and nobody
+   takes it until she says it. **A refusal given once can be given again — and has been, twice.**
+5. **The furnace materials: twenty-nine coppers at board prices** — brick, wire, a small crucible, middle
+   clay — from a shed a mile past the mill kept by a woman of about fifty with burned hands. Price for
+   whole hands; breakage hers. **Taken on promise against booked pays: twenty-three on the seventeenth,
+   six after, board clear on the eighteenth.**
+6. **The booking as credit.** The seller carries the shortfall on the strength of the booked column — a run
+   with a date at each end and her name on both. **The batch's irreversible decision (255): future pays
+   spoken for, the ninety for the road unreachable, the road closed behind her though it stands open.**
+7. **A listed tending cleared (256):** kiln brick sorted by grade in a flooded shed past the mill, by hand,
+   alone, done by dark, six coppers kiln money on top of yard wage. **Merit settled once, on a finished job
+   and not on a death. Told before spent, yes said, a share intercepted out of her foundation, two holds
+   gone and not coming back. Ledger not ordered and not touched.**
+8. **The furnace base built by hand (257):** a ring of firebrick on beaten earth behind the hut, wired
+   three turns, the small crucible seated slow at eleven minutes. The seller's lesson: half hands seat it
+   true.
+9. **Golden Core 1 (258, day 512):** at her own order, in the open past the post, where nothing is
+   announced. **The ground takes it; no county hears it.** One bracketed layer line, far-side house form,
+   announcing and nothing more. **Cost: the turn at the end of the bar stroke, gone permanently;
+   one-handed bar work done.** The furnace gives strength through the middle and nothing at the end.
+10. **The middle bank learned (259):** lift with the furnace, set early, move by hand. A scarred woman
+    names it: furnace work takes the fine and leaves the strong. Heavy end regained by the twenty-seventh.
+11. **The deliberate road day (261, the twenty-second):** she leaves the reach on the reopened road with
+    empty hands, rides a mill carrier to the cart turn for four coppers, looks west, and comes back inside
+    the yard fence before dark. **A decision with a cost: the day not worked is not paid, nine coppers the
+    day costs. No crossing, no scene west of the line.**
+12. **The fair copy past the line (262):** a bundle of fair sheets on the keeper's cart, a column one
+    through nine with one hole, in the order she stood in. The keeper pastes one sheet into a book the far
+    side keeps **without knowing what it is.** Up a stair that belongs to a district clerk, through other
+    arms, small and off the page. She knows the hand and does not name it.
+13. **Inside the bound once, by report (264):** a hauler off the coming round at the yard fire — tower lit
+    at the fourth hour, a bundle on a stair, nine men still on the floor. No second question asked.
+14. **The slab (265, the twenty-sixth):** rain, a slab across the four-fingered hand, nobody saw it. Bound
+    with the keeper's strip. The ground behind the hut warm where the furnace went in — what is charged
+    there stays there.
+15. **Pay-day the twenty-seventh (266, day 520):** days in order, the twenty-second a gap. **Eleven stubs
+    in four marks, no overlap, no contradiction, no gap.** Debt to the shed cleared. Binding off at night.
+16. **The surface answer (267, the twenty-eighth):** a stage told inside the bound nine days west rides the
+    drift past the line and goes on the far-side board as a reading, heard by the whole yard as sound
+    without a word for it. **Said once, in an old mill worker's mouth, in short sentences: being told is
+    one thing and being charged is another; sound comes east, drift carries it, board takes it, that is a
+    reading; what goes in the ground stays there, no county book takes it; told is told, charged is
+    charged, they were never the same thing.** The ninety-parts account stands. The tenth part not given.
+    Nothing proves the crews wrong.
+17. **Bread stopped.** Five in and five out held to the twenty-second; from the twenty-third she buys no
+    bread, because the furnace took the bread money and she has not been hungry since the first Foundation.
+    Resumed on the twenty-seventh. A visible change, paid in a daily ritual, not in hunger.
+
+### What this batch spent and what it did not
+
+- **Golden Core 1 taken at ch 258, day 512. ONE bracketed layer line in fifteen chapters, at ch 258, and
+  none in any other chapter.** No suppression, no absence arithmetic, no tribulation.
+- **Merit settled once (256), on a listed tending cleared and not on a death. Nothing killed.** Two holds
+  spent out of her foundation, told before spent, not coming back.
+- **Yuan: sparse present-tense voice, buying nothing except the once-priced share at ch 256. No figure of
+  what is left of him anywhere in ch 253–267.** The *about six weeks* at ch 236 is still the last figure of
+  him in the manuscript.
+- **Ledger: not ordered, not held, not priced, not refused, not thought about.** Hers to order and she does
+  not order it. The volume's irreversible step with it is ch 272, Batch 0003's.
+- **The right index finger not named, not priced, not counted.** Four fingers' worth of grip used throughout,
+  bound at ch 265–266. Nothing gives it back and nothing offers to.
+- **The relicensed licence never opened. The register never mentioned. The Clay Plate never described, never
+  removed. MEMBER ABSENT not raised. What became of the eleven not raised. The ch 150 refusal untouched. The
+  year of non-forgiveness unmentioned and still carrying. The sponsors' second book nowhere. Ning Wu absent.
+  No second Lung, no second appointment. No office above the Standing Office of the Second Account named or
+  attempted. *Kiln-born* zero. No calendar month, no weekday, no named week.**
+- **The claim not answered, not paid, not assessed, not torn off. Hou Sanliang unpaid, patient, never met.
+  The Lowwater date untouched. Luo Ping a direction. No authorisation of the claim onto any book — ch 268,
+  Batch 0003's, arrives cold: nothing here plants it, and no chapter ends with her thinking about leaving.**
+- **The Hunter does not appear.** His nine-feet standing and pending request carried unchanged.
+- **Wei Ran on one card (253), as rate and road. Nothing a romance.**
+- **The seven relicensing conditions never re-listed; the seventh never read aloud again.** The figure is
+  referred to as a figure, a sheet, a draft — never read off paper.
+- **Feng never on the page.** His hand, his stair (now a district clerk's), his quarter carried by report
+  and by paste only.
+- **No new final enemy, no named villain, no new names at all.** Keeper, man at the plank, Da, eleven men,
+  seller, kiln-master, hauler, clerks, workers: each doing the only thing built to do, each right.
+
+### Construction budget — Volume 5 Batch 0002 (ch 253–267), spent, not to reuse plain
+
+**Bracketed layer lines: 1 in fifteen chapters, at ch 258**, in the far-side house form, first since ch 237.
+*Nobody asked*, *nobody was thanked*, *there is no form*, *there is no column*, *the record remained*,
+*nobody knew*, *nobody said anything*: **zero, all of them.** **About four seconds: zero. Eleven weeks:
+zero.** *His eyes widened*, *he couldn't believe it*, *suddenly*, *little did he know*: **zero.**
+Authorial scaffolding — *this chapter*, *this volume*, *the reader*, *in this batch*: **zero.** Named
+weekdays: **zero.** Calendar months named: **zero.** Harem or romance: **none.** Speeches closed in all
+fifteen files. Markdown plain in all fifteen files. **No paragraph over 90 words.** Word counts by file are
+1,908 · 1,438 · 1,417 · 1,590 · 1,397 · 1,371 · 1,349 · 1,353 · 1,373 · 1,358 · 1,378 · 1,387 · 1,400 ·
+1,379 · 1,352 — **none under the 1,300 floor; fourteen sit under the 1,800 guide, ch 253 inside it; none above it; longest ch
+253 at 1,908.** Total 21,450, average ~1,430.
+
+### Three drafting decisions recorded against the prompt
+
+Both inside pinned items, changing no day, no stage, no title and no ending.
+
+1. **The furnace money was reworked from forty-one coppers with eleven kept back to twenty-nine on promise.**
+   The first form broke the batch's own money canon — five in and five out leaves nothing to keep back, and
+   eleven kept back out of nothing could not be shown. The second form holds: no money down, twenty-three on
+   the seventeenth out of the pay, six of kiln money after, board clear on the eighteenth, bread stopped
+   from the twenty-third because the money ran out and she is not hungry. The road closes through committed
+   pays, which is the irreversible cost.
+2. **Ch 253's road time was corrected from four days to nine.** The first form gave the going as four days,
+   against the pinned nine days of hard road and the nine-days-west floor. Corrected to nine days hard
+   going in Wei Ran's mouth before saving.
+3. **The road day (261) stays past the line and the inside-bound matter stays by report (264).** The prompt
+   gives the drafter ownership of any scene west of the line and requires justification. No scene west of the
+   line is taken: the deliberate road trip rides to the cart turn on the far side and back inside the yard
+   fence, costing the day's pay, so ch 268's return inside arrives cold. The batch's one inside-the-bound
+   card is the hauler's report at the yard fire, asked nothing after.
+
+### Volume 5 running ledger — at end of ch 267
+
+| Item | Value at end of ch 267 |
+| --- | --- |
+| Her stage | **GOLDEN CORE 1, taken day 512 at her own order, in the open, where nothing is announced.** Fifty days after Foundation 9, forty-one after the volume's first day. The paper still says Foundation the first stage and **she has still never opened it.** Cost: the turn at the end of a bar stroke gone, permanently; middle-bank method in its place. Short breath four counts everywhere. **Right index finger gone, permanently; four fingers' worth of grip left.** Nine holds of eleven in the left. Every county hour eleven minutes with the flat of a second finger. Right arm open a third of the time. Aperture cracked through and permanent. Not hungry since the first Foundation; bread stopped 23rd–27th, resumed 27th. Cold the way a stone is cold. **Eighteen years old** |
+| Where she is | **Far side, about six hundred yards past the working ground, at a trestle with a wage-book, a stone yard past it, a store on the track, a low building four hundred yards past the post, a post with a board, a mill two miles east, a hut with three boards four hundred yards east with a furnace behind it.** Ordinary country, asking nothing |
+| Employment | **BOOKED TO THE END OF THE SEASON**, five coppers a day, a date at each end of the column in two hands. The season has no date and no length. **Future pays spoken for against twenty-nine coppers of furnace material — paid in full on the eighteenth.** She cannot be un-entered |
+| Hours | **One hand, in order, with dates, continuous since the second of a month, with the twenty-second a true gap.** Pays on the seventeenth (510) and twenty-seventh (520); a day not worked is a day not paid, nothing movable. **Eleven stubs in four marks in the oilcloth above the Clay Plate, none checkable within nine days of road** |
+| Settlement | **No figure of him anywhere in ch 253–267.** Merit settled **once**, on a listed tending, told before spent, share out of her foundation, two holds gone. Ledger **not ordered, not held, not priced, not refused** |
+| The claim | **STANDING, ACTIONABLE ON THE FAR SIDE, MOVED A SECOND TIME, NOT ANSWERED.** Draft west on a carrier's round with no date, office to office. **Price still her column; refused three times.** Hou unpaid, patient, never met; Lowwater date untouched; Luo Ping a direction; **no authorisation, nothing planted for ch 268** |
+| The referral | **Still pending.** Countersignature dated from the far side, not an answer. Line's own people still do not know she exists; second line's people know her hours and not her name. Hunter at nine feet, off page this batch |
+| Inside the bound | **Tower lit at the fourth hour; bundle on a stair; nine men still on the floor.** By report once (264). **No scene west of the line** |
+| Money | **Furnace debt cleared on the eighteenth (23 + 6 = 29).** Bread stopped 23rd–27th. **Ninety for the road west when it opens — open now — unreachable, pays spoken for; the coming unquoted** |
+| What changed | **A furnace of her own, taken where nothing is announced. Three refusals standing. A draft nine days west. A fair copy in a far-side book. The surface answer paid.** She is kept, paid, refused, furnished and answered-at-last in the one thing the series owed |
+| Still open | **The authorisation (ch 268, Batch 0003's); the return inside once; Ning Bo's account; Ning Wu's decade; Yuan entered (ch 272); Golden Core 2 (ch 275, day 556); the claim answered (ch 294–295); the Hunter's request; everything above the Standing Office of the Second Account; *kiln-born*; the eleven; *reconciled*; the year, still carrying** |
+
 ---
 
 ## Volume 5 Batch 0001 — REVIEW REPAIR (applied after `logs/next-0004.review.log`)
