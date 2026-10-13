@@ -1930,6 +1930,312 @@ present about forms, offices, counties and classes of person, which is house voi
 
 ---
 
+## Established facts, Volume 4 complete (ch 179–238) — THE COLD-READER STANDING RECORD
+
+**Volume 4 is written to its last chapter.** This block is the whole volume in one place and it is what the
+Volume 4 close audit walks, and what Volume 5's planner reads first. The per-batch blocks below it stay as
+the detailed record; nothing here replaces them.
+
+**Sixty chapters, 120,616 words, day 220 to day 470.** Batch 0001 ch 179–192 (28,608 words) · 0002 ch
+193–208 (31,941) · 0003 ch 209–222 (28,568) · 0004 ch 223–238 (31,540, written in two halves). **Four
+bracketed layer lines in Batches 0001–0003 and eight in the volume: Foundation 1 (207), 2 (211), 3 (214), 4
+(217), 5 (220), 6 (224), 7 (228), and 9 (237). Foundation 8 (234) was suppressed at her own order and its
+chapter carries no bracket at all.**
+
+### What the volume did, in one paragraph
+
+**She was out of the execution range of a dismantling order because she was inside the bound, and the only
+countersignature that could take her ceiling up was past a boundary no county paper crosses, and she could
+not have the counter and not the execution.** She went nine days east to a line of work, was hired by the day
+at five coppers, relicensed at Foundation the first stage on a schedule read aloud out of a contractor's
+wage-book, took four stages in a season at four separate prices, split her own hours across two books on
+purpose and lost the run she had paid for, hired onto the stretch nobody is hired on, cleared it in fourteen
+days by hand, **paid a channel back out of a base one stage short of finished and lost the right index
+finger for it**, suppressed a stage into a gap on a board the far side keeps, took the ninth out loud where
+nothing is announced, **was heard a mile past the post by a country that has never heard one, and crossed** —
+first as a dated line the layer put in a book she was not standing in, then as a body, three-quarters of a
+mile of quiet ground and a day and a half.
+
+### The stages, all nine
+
+| Stage | Ch | Day | Bracket | What it cost, named once |
+| --- | --- | --- | --- | --- |
+| Foundation 1 | 207 | 276 | yes | the relicensing's hours read out of a wage-book this county does not hold; four weeks of a body never full and cold at once |
+| Foundation 2 | 211 | 296 | yes | she bought the materials out of a tin she had to rebuild twice |
+| Foundation 3 | 214 | 316 | yes | short breath to four counts, and it never came back |
+| Foundation 4 | 217 | 338 | yes | the left-hand order, two years of rebuilding, gone and not coming back |
+| Foundation 5 | 220 | 360 | yes | a name struck out of a wage-board in a foreman's own hand |
+| Foundation 6 | 224 | 386 | yes | **the sound in their ears becomes a line on a board and the people on the line can tell a stage from a bill** |
+| Foundation 7 | 228 | 412 | yes | **three days no book can find, and eleven men who stand a stretch for nothing** |
+| **Foundation 8** | **234** | **440** | **NONE — suppressed at her own order** | **what the filing records is an hour worked, and the board on the far side records an absence of the same width** |
+| **Foundation 9** | **237** | **462** | **yes — and it went past the line** | **the announcement goes past the line**, and the far side writes it in its own board |
+
+**Intervals of twenty, twenty, twenty-two, twenty-two, twenty-six, twenty-six, twenty-eight and twenty-two
+days — lengthening through the middle, shorter at the last because the last one was not carried alone.** No
+skipped breakthrough, none prepared early, **no tribulation anywhere in the volume.**
+
+### The five irreversible decisions of Batch 0004
+
+1. **Ch 233 — she hired onto the stretch nobody is hired on and held the standing for the crossing.** The
+   blind run is on nobody's book, paid worst, and the layer lists it because the layer lists the jobs that
+   settle a debt. **Her name said out loud for the third time on that ground, at a trestle, in daylight,
+   nobody persuaded.** The price had been said before the word at ch 231: **one day out of the three she
+   was keeping, held under a day, put down when the crossing was over.**
+2. **Ch 234 — she suppressed Foundation 8 at her own order.** No bracketed line in the chapter at all. **The
+   hole is on a board she cannot read and it is there for nine years.**
+3. **Ch 235 — she cleared the trial knowing what the spending came out of.** **Merit settled on a finished
+   job and not on a dead man; he intercepted a share and spent it out of her foundation while the base was
+   one stage short of finished, and it did not come back. The right index finger went, permanently, at the
+   blind run.** She told the crew out loud, in the ordinary voice, because the ch 172 precedent is a
+   precedent now.
+4. **Ch 237 — she announced Foundation 9 at her own order where nothing is announced.** The sound went past
+   the line because the drift carries it, and the far side wrote it down because that is what the board is
+   for. **It cannot be unheard past the line.**
+5. **Ch 238 — she wrote her name in a book on the far side.** With the flat of a second finger and four
+   fingers' worth of grip left on the other hand, saying the price out loud because that is what is said on
+   a line. **From that hour she is across, on a wage-board the far side keeps, in a column that is hers.**
+
+### Yuan's economy across the volume
+
+**Ledger taken twice, refused once out loud, and hers to order at the last page.** Batch 0001: **eight days
+out of ten**, for the hand that wrote a date in Hou Sanliang's counting room — Luo Ping, thirty-nine, with a
+wife and a boy of eleven past this county's boundary. **Refused once, out loud, at a moment it would have
+been easy**, and used once without a price. Batch 0004: **one day out of three, stated before the word at
+ch 231, the word said at ch 233, held under a day, put down when the crossing was over.**
+
+**The channel: about ten days at ch 178; eight spent in Batch 0001; about two days rationed to roughly four
+sentences a day that she chose and counted, with no figure of what was left stated anywhere until ch 236;
+and about six weeks at the last page, restored out of her foundation at ch 235.** **Merit settled once in
+the whole volume, on a cleared listed trial, and nothing in Volume 4 killed anybody.**
+
+**What he can read changed once.** He had said four times that he could not read the office name above this
+county. **At ch 236 he read it out loud in one breath: the Standing Office of the Second Account.** A middle
+office, with others above it. **He stopped there.** No Scribe, no Anchor, nothing about what he was before he
+died, and no page before ch 236 names it.
+
+### Fifteen required continuity facts, at the last page
+
+1. **Foundation 9, licensed by the second relicensing, countersigned past the county's boundary in an
+   office's hand and not a person's, on a schedule this county does not hold, read out of a contractor's
+   wage-book.** The paper still says Foundation the first stage and **she has still never touched it.**
+2. **The right index finger — gone, permanently, at the far end of the blind run, at about the sixth hour on
+   the twenty-first of a month, told out loud to the crew in the ordinary voice.** The finger that makes the
+   turn at the end of a stroke, and the finger a licence nail goes in with. **Four fingers' worth of grip left
+   on that hand. Nothing in the book gives it back and nothing offers to.**
+3. **The relicensing legs, in order: clearance (264) → seal (265) → countersignature (266).** Not inverted.
+4. **What the boundary is, in the terms Volume 4 earned:** a line of work, tended by hand, paid by the day;
+   drift; the residue of everything the bound is told, running along it and pooling where the ground is soft
+   and thickening where the work was worst. **Ninety parts true. The tenth part is not given.** And the layer
+   logs a thing leaving a place, which is why a board nine years old on the far side has a dated column with
+   her hand in it and nobody else's.
+5. **What crossing cost, in hours and in people:** eleven men and a girl stood a stretch for three days for
+   nothing and told her nothing; **three empty dates that are true in a wage-book at a trestle**; nine men
+   idle and a girl of nineteen idle and she is somebody's daughter; a name struck out of a contractor's
+   wage-book; and the crew who were told out loud about a finger.
+6. **The claim: STANDING AND MOVED, NOT ANSWERED.** Eight hundred jin, the seventh and last condition,
+   travelling on a licence nobody has touched. **At ch 237 somebody on the far side read the seventh condition
+   out loud in a room**, which put it into the first office within nine days of road that can act on it in
+   its whole life. **Hou Sanliang unpaid, patient and never met. A date is still entered against it in a
+   counting room in Lowwater and has not been torn off.**
+7. **The referral and the empty space:** the space took a **date and the office word *Held*** at ch 210, and
+   **at ch 238 the countersignature on her petition**, in an office's hand, dated from the far side. **It is
+   not an answer to the request. The request is still pending — a Wall writ is not issued to a field agent,
+   and the line's own people still do not know she exists.**
+8. **Feng's Lung: the first is spent (ch 143), the second is Volume 11 and is unspent.** What Volume 4 took
+   from him instead: his fair hand, his stair, his quarter. **Alive, warm, column at five, not thanked.**
+9. ***Kiln-born* is still in two heads and on no paper. The office above this county is NO LONGER UNREADABLE
+   — read at ch 236, a middle office with others above it, and everything above that one is still unread.**
+10. **The register still reads *reconciled*.**
+11. **The plate is still worn**, against her ribs, above the oilcloth, under six counterfoils and three dead
+    weight tickets.
+12. **Ledger: held and refused, and held and spent. Taken twice in Volume 4 and refused once out loud.** Eight
+    days out of ten for a name; **one day out of three for the crossing**; refused once at a moment it would
+    have been easy. **Hers to order at the last page and she does not order it.**
+13. **The year of non-forgiveness: CHANGED SHAPE AND STILL RUNNING.** It is not forgiveness and the account
+    is not closed. It is a purchase, and `outline/ending.md` is fixed that she forgives him in ch 1000 and it
+    is housekeeping that closes because he is gone.
+14. **The channel: about six weeks at the last page**, restored by a listed trial cleared and not by a
+    killing, out of a base that was one stage short of finished when he spent it.
+15. **Wei Ran: appeared once in Batch 0004, at ch 229, and is off page.** Twenty coppers and a road, not a
+    favour; the true thing about the bad flat; **nothing is a romance.**
+
+### Hard things the volume did not do
+
+- It did not answer the Hunter's request in any form, and did not soften, defer, reopen or regret the ch 150
+  refusal.
+- It did not retire the non-forgiveness, and did not undo MEMBER ABSENT.
+- It did not answer what became of the eleven, and did not break the silence bought at ch 128.
+- It did not resolve the claim, tear off the date, put Hou Sanliang in a room, or re-list the seven
+  relicensing conditions except once, where the far side reads the seventh out loud.
+- It did not name the Scribe or the Anchor, did not tell her what he was before he died, and did not let her
+  tell him she had seen him as a readout.
+- It did not kill anybody, did not turn the county, the registrar, Shen Xiu, the sponsors, Feng, the sub-
+  contractor or the crews into villains, and **did not prove the crews wrong.**
+- It introduced no new final enemy and spent nothing Volume 5 owns.
+
+### Construction budget, spent in ch 179–238 and not available in plain form again
+
+**Bracketed layer lines: eight in sixty, one at each announced stage, and none at all in ch 234.** The seven
+relicensing conditions: **never re-listed**, except the seventh read aloud once on the far side at ch 237. The
+four conditions of the Volume 2 licence: never re-listed. The suppression arithmetic: spent three times in
+Volume 3 and **said once, in new words, at ch 234, and not argued again.** What a surety is for: spent. The
+four seconds: **never used as a metronome anywhere in the volume.** ***Eleven weeks*: zero.*** **No calendar
+month and no weekday is named anywhere in ch 179–238** — **one exception is known to stand, in ch 224**
+("he would do the whole of it again on Friday"), recorded for the close. ***Nobody asked, nobody was thanked,
+there is no form, there is no column, the record remained, nobody knew, nobody said anything*: all spent or
+revoiced above them, and none available plain.** *The shape of a happy life*: zero. Authorial scaffolding:
+zero. Banned reflexes: zero.
+
+---
+
+## Established facts, Volume 4 Batch 0004 SECOND HALF (ch 231–238) — DRAFTED. THE LAST CHAPTER OF THE VOLUME
+
+### The clock, as drafted
+
+**Ch 231 = days 427–433, the 24th–30th · 232 = 434–437, the 1st–4th · 233 = 438–439, the 5th–6th · 234 =
+440, the 7th · 235 = 441–454, the 8th–21st · 236 = 455–461, the 22nd–28th · 237 = 462, the 29th · 238 =
+463–470, the 30th and then the 1st–7th.** All reconcile against `((day − 134) mod 30) + 1` and against
+**day − 373 across days 374–463, day − 463 from day 464.** **The four pinned stage days (386, 412, 440, 462)
+and the pinned attendance day (389) are untouched.**
+
+### What the eight chapters established on the page
+
+- **The price, stated before the word (ch 231), once, in the ordinary voice, with nothing attached to it:**
+  **"One day out of the three you are keeping."** The count on the back of the dead weight ticket was
+  **four marks, unmoved from the tenth of a month that is now two months back**; one spent on the twenty-second
+  for four sentences, **one spent on the twenty-sixth to hear the price**, **two left, one of which is the
+  price itself and one of which is the last mark she will ever spend on purpose.** He did not advise her
+  either way. **The standing was not used in this chapter.**
+- **The Hunter at ch 231**, seven days on high ground, three lines in the notebook and no more: **the course
+  closed its ground lawfully and correctly; the person in question was hired on by a sub-contractor outside
+  the wire at five against six and has put her hours in his book in order with dates; she is working past
+  the last stake on a stretch carrying somebody else's mark and has asked for nothing since except bread.**
+  **He bought nothing, threatened nothing, touched her, entered nothing and asked her nothing, and said all
+  of that in one breath so that she would not have to spend a morning on it.**
+- **Two true books and no run (ch 232).** She squared both. **No hour in both and no hour in neither** —
+  the best split a person can have and worth nothing. **A run is one hand in order with dates.** She wrote
+  it out on the back of the third dead weight ticket, took eleven minutes a line with the flat of a second
+  finger, and **did not ask for the copy she had said out loud once, and the sub-contractor did not offer it
+  twice and told her one true unasked thing about the course's book instead.** **The calm is the chapter:**
+  she stopped. **She is not calm because anything got better.**
+- **The blind run entered (ch 233).** She asked for it out loud at a trestle in daylight on the fifth and
+  **nobody persuaded her.** He gave her three true things: **it is nobody's job, it pays two coppers, and it
+  does not go in his book.** **Her name said out loud for the third time on that ground.** **He told her in
+  the present tense that the stretch is listed** — the layer lists jobs, not men, and that one is on it
+  because it is work nobody will take and nobody has finished — **and did not advise her.** She spent the
+  standing on her own word and put it down when the crossing was over.
+- **Foundation 8 suppressed (ch 234), with no bracketed line in the chapter.** She said the word in a hut and
+  it did not go, and **she did not tell him to let it go**, and the base came up the last step while she was
+  standing in the dark not saying anything. **She wanted it on the far-side board more than she ever wanted
+  nine counties to hear it, and that was the reason, and it is the mistake she understood too late to undo.**
+  **On the far side a keeper ruled a line, wrote the date at the left, and did not fill the rest of it.**
+- **The clearing (ch 235), fourteen days, the 8th to the 21st.** By hand, by day, alone, with a bar, out at
+  about the fifth and in by the seventh, building a hold about forty times an hour and losing about eleven a
+  day. **On the fifteenth she went in — down to about the hip, on her back in six inches of it, up again on
+  her hands.** Nobody within a day and a half's walk. Nothing broke in her she has not had back once. **On
+  the twenty-first she laid the last mark in lime, one mark about the width of a hand, and a second at the
+  foot of the rise.**
+- **Merit settled on the finished job (ch 235).** He said it in three sentences: the job is on the list, it
+  is finished, it has settled; **it is not a man, it never was a man**; and he was taking a share and
+  spending it out of her foundation, **out of a base one stage short of finished, because that is the only
+  place it is.** **He gave no figure and she did not ask.** The channel came back whole about a quarter of
+  an hour later.
+- **The right index finger (ch 235), named once.** It went at about the sixth hour at the far end, nine feet
+  off a mark laid in lime a quarter of an hour before. **It did not hurt; it went the way the order went out
+  of her left hand.** It is the finger that turns a bar over at the end of a stroke and the finger a licence
+  nail goes in with, and there is one nailed straight above a bunk nine days west. **She told them out loud
+  at the plank, in the ordinary voice, before they could work out whether she was going to lose another one.
+  The sub-contractor wrote her down on the twenty-second and did not look up and said *Twenty-two. Five.
+  Same as the rest*, and she did not thank him for it.** **Nothing gives it back and nothing offers to.**
+- **The honest partial answer (ch 236), once, against a board, in a worker's mouth.** A keeper of about
+  fifty-five who has put a strip up for nine years and has never read one of them: the line is not stone and
+  was never in the same place on both sides of itself; it is a line of work kept by people going out on it
+  with bars; where they go and go on time it holds and where they do not it leaks; what comes out of a
+  stretch that has not been kept is drift, thick on the worst-worked ground and thin where nobody works,
+  **and his end of it is the thin end because there is nothing this side of the rise for it to come to.**
+  **Ninety parts of that is what the men on your side of it say, and I have been out nine years and I have
+  never seen the other ten.** **She put it against four months of her own measuring and it did not move, said
+  it to herself once in plain words, and built nothing on it and left the tenth part where she keeps the three
+  empty dates.**
+- **The office above this county (ch 236), in one breath, for the first time in four years: the Standing
+  Office of the Second Account.** A middle office with others above it. **He stopped there.** She did not
+  ask for one notch more and **wanted to ask whether it is the office that countersigned her petition more
+  than she wanted anything else, and did not.**
+- **Six weeks (ch 236), said once, in weeks, and the only figure of what was left stated in the batch.**
+  He said it unasked: **about six weeks of him, and nothing in this country that makes it longer except a
+  base that is not finished yet.**
+- **Foundation 9 and the sound past the line (ch 237).** Announced at her own order at the fourth hour on
+  the twenty-ninth, in the open, on ground she had tended, and she did not hold it. **Nobody within nine days
+  of road heard it.** About a quarter of a second after it went into the ground she felt it go along,
+  **east, past the post, out into country she has never been in.** A man of fifty-five at a post stood with
+  a pen about an inch above the cloth for as long as it takes to read a line and then wrote, and pushed the
+  strip behind the plank, and **did not come and ask her what the sound was.**
+- **The claim read aloud (ch 237).** A man at a counter four hundred yards past the post read the conditions
+  of a licence out loud to a room, in the ordinary voice, **and the seventh of them was a standing claim of
+  eight hundred jin entered on the licence, travelling with it, and not affected by it.** She was nine feet
+  outside the door. **Nobody in that room knew she was standing there.** **She did not go in.**
+- **The break (ch 238), in this order.** **First the layer:** a dated line went into a board that was already
+  on the far side before she got there, in the narrow column, the ninth thing in it since before she came
+  east — **he could see the line going in and could not see any part of her on either side of it.** **Then
+  her body:** the high ground, then three-quarters of a mile of the low side at four counts with four fingers
+  on one hand, a day and a half, one fall on the knee at about a third of the way along, out at the fifth hour
+  on the second.
+- **Bai Zhu at ch 238.** **He certified the crossing in a Warden's hand, dated on that side of it, signed by
+  the office and not by a person** — his second document in the book and the same shape as his first — and
+  said in one breath that he had bought nothing, threatened nothing, touched her, entered nothing, asked her
+  nothing, **and had not in six days spoken to a man on this side of the post.** **He did not ask her to
+  come.**
+- **What went into the space at last (ch 238):** **the countersignature on her petition, in an office's
+  hand, dated from the far side** — because it is the only thing anybody above him could put there. **It is
+  not an answer to his request and his request is still pending.** He said both, in the ordinary voice,
+  before she had to ask twice.
+- **The final image, exactly as `outline/volume-04.md` fixes it:** a wage-book open on a trestle, a column
+  of hours that is hers, **about eleven minutes because of the flat of a second finger and longer because
+  the hand on the other side has four fingers' worth of grip left on it**, **the price said out loud in the
+  ordinary voice because that is what is said on a line and written down in the price column without
+  anybody looking up**, and behind her **a board on a post, dated, nine lines in it, eight of them with
+  something on them and one of them with nothing on it at all**, in a hand nobody on the line can read and
+  every person on the line can recognise as a hand from the other side. **Nine days of road behind her, a
+  floor, nine men, and a tower with a light in it** — said once. **Nothing follows it.**
+
+### Construction budget — spent in ch 231–238, not to reuse
+
+Bracketed layer lines: **one in eight chapters, at ch 237, house form unchanged, and ch 234 carries none by
+order.** The seven relicensing conditions: **never re-listed; the seventh read aloud once, in a room, at
+ch 237, which is the whole of it.** The suppression arithmetic: **zero — said once at ch 234 in new words
+and not argued again.** *There is no form*: zero. *There is no column*: zero. *Nobody asked*: zero in plain
+form. *Nobody was thanked*: zero. *Nobody knew*: zero. ***Nobody said anything*: zero** in plain form —
+the silence at the pot at ch 235 is *there was a silence at the pot about as long as it takes to count
+eleven*. *The record remained*: zero. *Nobody else alive*: zero. **Nine counties is what is heard and four
+is what is written, said once in ch 237 and never contradicted.** *The line*, *tending*, *the course* and
+*drift*: **used, never explained.** **The honest partial answer is given once, at ch 236, and is ninety
+parts.** *Kiln-born*: not on the page. **No new final enemy. Nothing Volume 5 owns is spent. No calendar
+month named. No weekday named** — the one that stands, in ch 224, is recorded in `state/current.md` for the
+close. ***Eleven weeks*: zero. *About four seconds*: zero.** Banned reflexes: zero. Authorial scaffolding:
+zero — a chapter-number leak at ch 231 was caught and cut before the phase finished. **All eight chapters
+carry quoted speech and every one of Yuan's sentences is present tense.**
+
+### Volume 4 running ledger — at end of ch 238
+
+| Item | Value at end of ch 238 |
+| --- | --- |
+| Her stage | **FOUNDATION 9, reached day 462 at her own order, announced in the open where nothing is announced, and the first announcement in four years heard past the line. There is nothing above nine anywhere in the world.** The paper still says Foundation the first stage and she has still never touched it. Short breath four counts everywhere. **The right index finger gone, permanently.** Four fingers' worth of grip left on that hand. The order gone out of the left hand and the heel with it; eleven holds out of about seventy tried. Every county hour is eleven minutes with the flat of a second finger. Right arm open a third of the time. Aperture cracked through and permanent. Not hungry since the first Foundation. Cold the way a stone is cold |
+| Where she is | **On the far side of a line of work, in ordinary settled country, at a trestle with a wage-book on it, a fire under it and eleven men on it.** A building with a stove and six men in it. A board on a post. Nobody there has ever heard a stage announced. **Nobody there asked her a question** |
+| Licence | **Relicensed on the second set of legs, all three outside this county** (clearance 264, seal 265, countersignature 266). **A document she has never touched.** Seven conditions referenced and never re-listed; the claim the seventh and last. **She did not open it in this volume** |
+| In-world date | **Day 470, the seventh of a month** |
+| Hours | **On the far side, five coppers a day, in a contractor's book on a trestle, in order, with dates, kept by people who are not a county and are not obliged to keep it.** Before that: two books in two hands past the last stake at five coppers, neither carrying a continuous run, **three empty dates in the second one that are true**. **Six counterfoils in the oilcloth, in three marks, none checkable against anything** |
+| Settlement | **About six weeks at the last page, said once, in weeks.** Restored at ch 235 out of her foundation by a cleared listed trial. **Merit: one settlement in the whole volume, on a finished job. Nothing in Volume 4 killed anything.** **Ledger: taken twice in Volume 4 and refused once out loud; hers to order at the last page and not ordered** |
+| Bounty | **800 jin, standing, the seventh and last condition, travelling on the licence. MOVED and NOT ANSWERED** — read out loud in a room on the far side at ch 237, in the first office within nine days of road that can act on it. The date in Hou Sanliang's counting room is not torn off. **Hou unpaid, patient, never met** |
+| The referral | **Up the stair past every office she has ever stood in front of. Its answer space holds a date and the office word *Held*, and now the countersignature on her petition in an office's hand dated from the far side. The request is still pending.** A Wall writ is not issued to a field agent. **The line's own people still do not know she exists** |
+| Crew | **nine men and her; ten sleepers in twelve bunks, nine days west. A floor and a tower with a light in it. Said once, at ch 238** |
+| Money | **Five coppers a day and bread bought at a store.** **The tin is gone since the evening of day 268** and never counted again |
+| The course | **Closed against her, lawfully and correctly, and still closed.** Eleven men and a girl of nineteen stood a stretch for three days for nothing and told her nothing. **They are right and nothing in this volume proves them wrong** |
+| The far side | **A trestle with a book, eleven men paid by the day, a room with a counter and a stove, and a post with a nine-year column on it kept by a man of about fifty-five who fills it off a cart and has never read a word of it.** Ordinary country, farmed and lit, and **they asked her nothing** |
+| Register / plate | *reconciled* / worn. **She does not forgive him and she does not tell him to stop.** The year changed shape and did not close |
+| Decision taken | **She is across, entered in a book on the far side in a column that is hers, with a standing of six weeks of him that she has not ordered and a claim of eight hundred jin that has just been read aloud in a room that can act on it. Eighteen years old, four fingers on one hand, a licence she has never opened, and nine days of road behind her** |
+
+---
+
 ## Established facts, Volume 4 Batch 0004 FIRST HALF (ch 223–230) — DRAFTED. EIGHT CHAPTERS OF THE SIXTEEN ARE ON THE PAGE
 
 **This is the standing record for the first half of Batch 0004.** The second half — **ch 231–238, eight

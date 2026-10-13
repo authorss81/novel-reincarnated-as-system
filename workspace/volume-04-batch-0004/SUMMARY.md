@@ -1,7 +1,8 @@
-# Volume 4, Batch 0004 — Summary, first half (ch 223–230)
+# Volume 4, Batch 0004 — Summary (ch 223–238)
 
-**Status: HALF WRITTEN. Eight chapters of sixteen are on the page. ch 231–238 are NOT DRAFTED and are the
-whole of the rest of the batch, including the climax and the last chapter of the volume.**
+**Status: WRITTEN IN FULL. Sixteen chapters, 31,540 words, and ch 238 is the last chapter of Volume 4.
+`workspace/volume-04-close/PROMPT.md` was written in the same call as ch 238. Volume 4 is written through
+ch 238 and is waiting for its close audit.**
 
 ## Why the batch was split
 
@@ -30,71 +31,105 @@ day 412, on the first of the three days, exactly as pinned.**
 
 **Two, ch 225 opens on the fifteenth.** The card table gives ch 225 as 387–393, the 14th to the 20th. **Ch
 224 closes at the seventh hour of the fourteenth**, so ch 225 opens on **day 388, the fifteenth**, and runs
-388–393. Day 387 is the one day in this half with no scene in it and it belongs to ch 224's tail. **The
+388–393. Day 387 is the one day in the volume with no scene in it and it belongs to ch 224's tail. **The
 pinned attendance day (389) is untouched** and the sheet still goes west on the sixteenth.
 
 ## What is on the page
 
-**15,906 words over eight chapters, average ~1,988.** Longest ch 228 at 2,244; shortest ch 225 at 1,672.
-**Nothing above the 2,700 guide, nothing under the 1,300 floor, one chapter under the 1,800 guide (225).**
-**Two bracketed layer lines in eight chapters, at ch 224 and ch 228; six chapters carry none.** All eight
-chapters carry quoted speech. Forty-nine section headings, 5.5 a chapter. Longest paragraph 113 words, none
-over 120; median paragraph 28–45.
+**31,540 words over sixteen chapters, average ~1,969.** First half 15,906 over eight chapters (average
+~1,988); **second half 15,634 over eight chapters**. Longest ch 235 at 2,279; shortest ch 225 at 1,672.
+**Nothing above the 2,700 guide, nothing under the 1,300 floor, three chapters under the 1,800 guide
+(225 · 233 · 234).** **Four bracketed layer lines in sixteen chapters, at ch 224, 228 and 237, and ch 234
+carries none by order.** All sixteen chapters carry quoted speech and every sentence Yuan speaks is in the
+present tense.
 
 ## The shape of it
 
-**Foundation 5 → Foundation 7.** Two costs named once each and not the same thing: **a sound that becomes a
-line on a board and that the people on the line can tell from work (ch 224)** and **three days no book can
-find, and eleven men who stand a stretch for nothing (ch 228).**
+**Foundation 5 → Foundation 9. Three stages in sixteen chapters and a fourth that does not happen out loud.**
+Four costs, each named once in new words and none of them the same thing: **a sound that becomes a line on
+a board and that the people on the line can tell from work (224) · three days no book can find, and eleven
+men who stand a stretch for nothing (228) · an hour worked here and an absence of the same width on a board
+the far side keeps (234) · the announcement goes past the line (237).**
 
-The batch's own engine — *two books in two hands and neither carries a run* — is not repeated as a rule.
-It is **made worse on purpose.** Three empty dates go into the sub-contractor's book and stay empty, because
-a book that keeps hours that were not worked on the stretch it names is a book that lies, and a man squares
-his book over the top of them and says so without looking up. **That is the irreversible cost of this
-half, and it is not recoverable and was not chosen as a trade: the three days went into ground nobody
-records, and there is no hour in the world that will ever go into them.**
+The engine — *two books in two hands and neither carries a run* — is made worse on purpose and then
+**stopped**. Three empty dates go into a sub-contractor's book and stay empty, because a book that keeps
+hours that were not worked is a book that lies. At ch 232 she squares both books, works out that a clean
+split is worth nothing, **says the one question out loud once and does not ask it again**, and decides to
+be read somewhere else instead. **That is the first time in four months that she is calm, and the calm is
+not because anything got better.**
 
-The other thing this half did was make three people out of institutions, without softening any of them.
-**Cui Bao says the whole of his position once and says he would do it again on Friday. The sub-contractor
-becomes a man who does not know what she is and protects the truth of his own book at her expense. Pei, a
-carrier, is the hand that writes the attendance column and refuses to ask her a question about it so that
-he does not become a man who asked one.** None of them is a villain. None of them is proved wrong.
+**The batch's irreversible decisions, all hers, all costing something real:**
 
-## What is set up for ch 231–238 and must not be spent early
+1. **Ch 233 — she hires onto the stretch nobody is hired on and holds the standing for the crossing.** Her
+   name said out loud for the third time on that ground, in daylight, at a trestle, nobody persuaded. **The
+   price was said before the word at ch 231 — one day out of three — and the word is said at ch 233 and
+   held under a day and put down when the crossing was over.**
+2. **Ch 234 — she suppresses Foundation 8 at her own order.** No bracketed line in the chapter at all, and
+   **for the first time the absence is on a board the far side keeps.** She understands in four minutes that
+   she has put a hole on a board she cannot read and cannot take it back.
+3. **Ch 235 — she clears the trial knowing what the spending comes out of.** **Merit settles on a finished
+   job and not on a dead man**, he intercepts a share and spends it out of her foundation while the base is
+   one stage short of finished, and **the right index finger goes, permanently, at the blind run.**
+4. **Ch 237 — she announces Foundation 9 at her own order where nothing is announced**, and the drift
+   carries it a mile past the last working point, and a keeper writes it down and asks her nothing.
+5. **Ch 238 — she writes her name in a book on the far side**, with the flat of a second finger and four
+   fingers' worth of grip left on the other hand.
 
-- **The blind run has been entered, described and not hired onto.** No mark, no stake, no board, no ring, a
-  foot and a bit on the low side, two men in the ground with a bar laid across them, two men and a day and
-  a half to walk it, and the shortage is never strength. **Ch 233 hires her in daylight at a trestle, with
-  Ledger held briefly at a price stated before the word.** She has been inside it on one knee. She has not
-  put a bar in it.
-- **Ledger is hers to order and is NOT ordered.** The decision is taken; **the word is not said and the
-  price is not said.** He said *Say it and I hold it as long as you want it held*, and she said *Not today*,
-  and he said *You know the day.* **Ch 231 is where the price is stated before the word; ch 233 is where the
-  word is said.**
-- **The channel has four marks on the back of a dead weight ticket and no figure of what is left is stated
-  anywhere.** **Two ration spends are on the page — ch 223, which bought nothing at all, and ch 230, which
-  bought *Say it and I hold it as long as you want it held* and three sentences back** — and the count has
-  not moved between the tenth of the month before and the twenty-second. Nothing in ch 223–230 kills
-  anything or clears a listed trial, so **nothing can have restored it.** Ch 235 is the only mechanism.
-- **The right index finger is whole.** It is named nowhere, priced nowhere and foreshadowed nowhere in
-  ch 223–230. **One draft line at ch 230 came within a sentence of foreshadowing it and was cut.**
-- **The Hunter is a man in a plain coat at two hundred yards on the twenty-third with his notebook shut,
-  not writing.** He is named nowhere in the eight chapters and no document he signs carries a name. **He
-  appears at ch 231 or 232 and certifies the crossing at ch 238.**
-- **The office above this county is unreadable and unasked for**, and he is silent about it. **He reads it
-  at ch 236, in one breath, a middle office with others above it, and stops.**
-- **The far-side board is untouched.** Its narrow column with one of her dates in it and one more that is
-  not a reading stands exactly as ch 216 left it. **Ch 236–238 is where it starts to matter.**
-- **Wei Ran is off page** after one appearance at ch 229. Nothing is a romance.
-- **The claim stands, Hou Sanliang is not met, the request is pending, the empty space has not been
-  answered in any form, the eleven are not raised, the sponsors' second book is lodged nowhere, Shen Xiu is
-  unforgiven and unthanked, the register still reads *reconciled*, the Clay Plate is still worn, Ning Wu
-  does not appear, and the ch 150 refusal is not softened, deferred, reopened or regretted in one line.**
-- **She does not forgive him and she does not tell him to stop.** The year was touched once, at low volume,
-  at ch 230, and did not close.
+**What the batch ends on, in one line:** she is across, entered in a book kept by people who are not a
+county and are not obliged to keep it, **the countersignature on her petition is in the space on the shelf
+and it is not an answer to the request, and the request is still pending.**
+
+## The people
+
+Nobody in this batch became a villain and nobody was proved wrong.
+
+- **The Hunter** attends seven days at ch 231, writes three lines and buys nothing, and says in one breath
+  that he has threatened nothing, touched nothing, entered nothing and asked nothing. At ch 238 he
+  **certifies the crossing in a Warden's hand, signed by the office and not by a person**, and does not ask
+  her to come. **What she wants from him at ch 231 is that he lie once, so that she can be angry at a person
+  instead of at a procedure.** He cannot.
+- **The sub-contractor** says the price of the blind run out loud twice so that she has it properly, does
+  not fill three empty dates, does not offer a thing twice, tells her one true thing about the course's book
+  that she did not ask for, and on the morning after the finger goes **writes her down and does not look up
+  and says *Twenty-two. Five. Same as the rest*.** She does not thank him for it.
+- **The man with the boot** says he will come and look at the flat on the eleventh and will not go down into
+  it; he does not come at all; he says out loud once that he does not know where the hours go.
+- **Cui Bao** appears once, at ch 224, and says the whole of his position and would do it again. **They are
+  right.**
+- **NEW, and he matters:** a **keeper of about fifty-five at the far end of the working reach**, who has
+  been putting a strip up behind a plank for nine years off a cart and has never read one word of any of
+  them, **gives her a knife and a spare strip because she is holding her right hand in a way that made the
+  tool look like a thing to be done one-handed**, asks her nothing in two visits, says the honest partial
+  answer once against his own board, and **writes her ninth stage down without asking her what the sound
+  was.**
+
+## The cost of the realm, named
+
+**The right index finger.** Named once, at ch 235, in new words: **the finger that makes the turn at the end
+of a stroke, and the finger a licence nail goes in with** — and there is one nailed straight above a bunk
+nine days west that a voice she could not touch put in on her hand four months back. **Lost at the far end
+of the blind run at about the sixth hour on the twenty-first, nine feet off a mark laid in lime a quarter of
+an hour before. Four fingers' worth of grip left on that hand. Nothing in the book gives it back and nothing
+offers to.** It is not named at ch 234 and not named at ch 237, and nothing before ch 235 foreshadows it.
+
+## What the batch did not answer
+
+The Hunter's request · what became of the eleven · the sponsors' second book · Shen Xiu · the register ·
+the Clay Plate · Ning Wu · anything above the Standing Office of the Second Account · anything Volume 5 owns.
+**It did not kill anybody, did not retire the year of non-forgiveness, did not undo MEMBER ABSENT, did not
+soften the ch 150 refusal in one line, and did not prove the crews wrong.**
+
+## The open question the close inherits
+
+**Yuan has been a voice only and off-panel for two volumes of sixteen.** `outline/series.md` §2 names him
+as the protagonist and the male-led requirement is met at series level, but ch 179–238 is close third on
+Ning Yan throughout. **Nothing in this batch settled it and nothing in it may.**
+`workspace/volume-04-close/PROMPT.md` is required to state in writing what Volume 4 did with the book's
+protagonist before Volume 5 opens.
 
 ## Next
 
-`workspace/continuation/next-0003/PROMPT.md` — **ch 231–238 in prose, eight chapters**, and then
-**`workspace/volume-04-close/PROMPT.md` in the same call**, because ch 238 is the last chapter of the
-volume.
+`workspace/volume-04-close/PROMPT.md` — **the Volume 4 close audit.** It walks `outline/volume-04.md` line
+by line against ch 179–238, walks the **fifteen** *Required continuity facts to preserve after the volume*,
+answers the protagonist question above, and creates exactly one follow-up prompt, the Volume 5 planning
+phase.

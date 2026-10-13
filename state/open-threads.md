@@ -1,17 +1,14 @@
 # Open Threads
 
 **Volume 1 is closed. Volume 2 is closed and audited (ch 59–118). VOLUME 3 IS CLOSED AND AUDITED (ch 119–178).
-VOLUME 4 IS OPEN: BATCH 0001 IS WRITTEN (ch 179–192, 28,608 words), BATCH 0002 IS WRITTEN (ch 193–208,
-31,941 words), BATCH 0003 IS WRITTEN (ch 209–222, 28,568 words post-review-repair) AND BATCH 0004 IS
-HALF WRITTEN (ch 223–230, 15,906 words over eight chapters; ch 231–238 NOT DRAFTED).** The Volume 3
-close audit table is in `state/current.md` under `## Volume 3 close audit — CLOSED`, and **the review's
-reversal of one of the audit's rules is written up under *Close review repair* in that same block — read it
-before using any four-county or nine-county figure from this run.** Live threads below carry into **Volume 4,
-*The Wall*, ch 179–238**, and the full state of each one after ch 230 is in `state/continuity.md` under
-***Established facts, Volume 4 Batch 0001 (ch 179–192)***, ***…Batch 0002 (ch 193–208)***,
-***…Batch 0003 (ch 209–222)***, ***…Batch 0004 FIRST HALF (ch 223–230)*** and ***Volume 4 running
-ledger — at end of ch 230***. **The next phase is Volume 4, Batch 0004, second half**, at
-`workspace/continuation/next-0003/PROMPT.md`: **ch 231–238, and then the volume-close prompt.**
+VOLUME 4 IS WRITTEN IN FULL (ch 179–238, 120,616 words across four batches: 28,608 · 31,941 · 28,568 ·
+31,540) AND IS NOT YET AUDITED.** The Volume 3 close audit table is in `state/current.md` under
+`## Volume 3 close audit — CLOSED`, and **the review's reversal of one of the audit's rules is written up
+under *Close review repair* in that same block — read it before using any four-county or nine-county figure
+from this run.** Live threads below carry into **Volume 5, *Mortal Ash*, ch 239–298**. The full state of each
+one at the last page of Volume 4 is in `state/continuity.md` under
+***Established facts, Volume 4 complete (ch 179–238)*** and ***Volume 4 running ledger — at end of ch 238***.
+**The next phase is the Volume 4 close audit**, at `workspace/volume-04-close/PROMPT.md`.
 
 ## Volume 4 — every thread below is confirmed OPEN on this file. Nothing here is retired.
 
@@ -30,7 +27,7 @@ nothing in that block before the thread's own volume.**
 | **The year of non-forgiveness** | Ning Yan / Yuan | runs from ch 100; changes shape in Vol 4 | **OPEN AND NOT RETIRED. IT CHANGED SHAPE IN BATCH 0001 AND DID NOT CLOSE, AND IT WAS NOT TOUCHED AT ALL IN BATCH 0003.** From ch 100 through all of Volume 3 and into Volume 4. **At ch 185 she spent the once-a-year reserved sentence — the one she kept back to say out loud that she had not forgiven him — on the Ledger price instead, so that when the year came round at ch 188 there was nothing set aside for it. At ch 188 she did not say it, and what replaced the performance is a purchase: she goes on using him on purpose. She records that what she feels is relief at not having to prove to an empty room that she is angry, and immediately that the relief's cost is that she has just agreed to spend him.** At ch 206, in Batch 0002, it was touched **once, at low volume**, as a purchase that still carries. **Fourteen chapters in Batch 0003 do not mention it.** **She does not forgive him and does not tell him to stop.** `outline/ending.md` is fixed that she forgives him in ch 1000 and **it is housekeeping, not a relief, and the account closes because he is gone** — so **the account must still be carrying at the end of the book and no volume may retire it** |
 | **The claim and the dated entry against it** | Ning Yan | Vol 4–5 | **OPEN, AND THE HAND IS NOW NAMED.** Eight hundred jin, standing, unanswered, the seventh and last condition, travelling on the relicensed licence. **A date has been entered against it in Hou Sanliang's counting room in Lowwater, by a hand that is not the counting room's.** **Batch 0001 bought that hand for eight days of a Ledger: Luo Ping, thirty-nine, a schedule-man, with a wife and a boy of eleven past this county's boundary (ch 187).** **A direction, not an answer. The date was not torn off at ch 177 and was not torn off at ch 187; she has not been to the counting room; the claim is not resolved; Hou is unpaid, patient and never met.** **Do not resolve it and do not reopen the ch 140 body** |
 | **Hou Sanliang, of Lowwater** | Ning Yan | Vol 4–5 | **OPEN.** Unpaid, patient, **never in a room with her, never met**, through all of Volume 3 **and through all of Volume 4 Batch 0001.** **His counting room is in Lowwater, where she is standing** — two Volume 3 chapters wrongly called it nine counties away and both were repaired at the audit. The ch 150 handover would have paid him in full out of a purse that is not this county's and **she refused it in a room with two witnesses.** **She stood in a lane nine minutes from his counting room's door at ch 188 and did not go in. His room holds a date, and Batch 0001 now holds the name of the hand that wrote it (Luo Ping). The claim is not resolved and Hou is not met.** |
-| **What Yuan is, and what he was before he died** | series mystery | Vol 11 | **OPEN.** Voice. **Channel about ten days (ch 178)** — the volume opens on the last of it, and `outline/volume-04.md` plans **eight of the ten days spent in Batch 0001 on one Ledger reading at a stated price**, leaving **about two days rationed to roughly four sentences a day that she chooses and counts**, until a **listed trial cleared in Batch 0004** restores it at the cost of her foundation and her right index finger. **Ledger retaken ONCE in Volume 3 (ch 149), under a day, four and a half weeks, put down the same day and refused permanently; from ch 150 it is hers to order and his to hold only on her word, and at ch 178 she has it to order and does not order it.** **He still cannot read the office name above this county and has said four times that he cannot and is not going to say it a fifth time to be different about it** — `outline/volume-04.md` has him read it at ch 236 and not one page before. `outline/ending.md` is fixed and must not be pre-spent: she has known since Volume 11 and stayed; the origin is Volume 11; the Scribe is Volume 15 |
+| **What Yuan is, and what he was before he died** | series mystery | Vol 11 | **OPEN.** Voice. **Channel about ten days (ch 178)** — the volume opens on the last of it, and `outline/volume-04.md` plans **eight of the ten days spent in Batch 0001 on one Ledger reading at a stated price**, leaving **about two days rationed to roughly four sentences a day that she chooses and counts**, until a **listed trial cleared in Batch 0004** restores it at the cost of her foundation and her right index finger. **Ledger retaken ONCE in Volume 3 (ch 149), under a day, four and a half weeks, put down the same day and refused permanently; from ch 150 it is hers to order and his to hold only on her word, and at ch 178 she has it to order and does not order it.** **He said four times that he could not read the office name above this county and was not going to say it a fifth time to be different about it — and AT ch 236 HE READ IT OUT LOUD IN ONE BREATH: the Standing Office of the Second Account, a middle office with others above it, and he stopped there.** `outline/ending.md` is fixed and must not be pre-spent: **everything above that one office is still unread and stays unread;** she has known since Volume 11 and stayed; the origin is Volume 11; the Scribe is Volume 15 |
 | **Ning Wu, assessed and reassigned** | Ning Yan | Vol 10 | **OPEN AND UNCHANGED THROUGH ALL OF VOLUME 3 AND ALL OF VOLUME 4 BATCH 0001.** The register still reads *reconciled*; the Clay Plate is still against her chest above the oilcloth, and she puts her hand flat on it through the oilcloth at ch 187 and again at ch 192. **He has not appeared and is not mentioned in ch 179–192.** `outline/ending.md` is fixed that he is alive at the end and **does not forgive her, and has not** |
 | **The register** | Ning Yan | Vol 10 | **OPEN. Still reads *reconciled*.** The truth is unchanged and the reconciling is a lie with a signature under it. Do not correct it and do not let it be corrected |
 | **The Clay Plate** | Volume 1 | Vol 5, remembered Vol 16 | **OPEN AND STILL WORN**, against her ribs above the oilcloth, never surrendered, texture not redescribed. `outline/ending.md` is fixed: **it is the object whose texture she remembers in the last chapter, because it is the only thing the layer ever let out of a sealed place.** Do not spend that |
@@ -56,6 +53,8 @@ stages in Batch 0003 fell on day 296, day 316, day 338 and day 360, at intervals
 twenty-two and twenty-two days.** Batch 0004's first pinned day is **386 (Foundation 6 at ch 224)**, the
 thirteenth of the month that began on day 374, and **Batch 0004's attendance is day 389, the sixteenth, thirty
 days on from day 359 and the last one before the volume closes.** Batch 0004 is **sixteen** chapters, ch 223–238.
+**Volume 4 as a whole runs day 220 to day 470 and closes at day 470, the seventh of a month, with her across
+the line and entered in a wage-book on the far side.**
 
 ## Volume 4 Batch 0002 (ch 193–208) — what this batch added, closed by Batch 0003
 
@@ -124,49 +123,59 @@ Ma Sheng, the girl of nineteen and eleven men won their own win at ch 218 and pa
   no dialogue, no price and nobody told.** **The named permanent cost of Foundation — the right index finger —
   is not named, priced or foreshadowed anywhere in this batch.**
 
-## Volume 4 Batch 0004 (ch 223–238) — HALF DRAFTED. ch 223–230 ON THE PAGE; ch 231–238 NOT DRAFTED
+## Volume 4 Batch 0004 (ch 223–238) — WRITTEN IN FULL. THE BATCH IS THE LAST OF VOLUME 4
 
-**`outline/batches/volume-04-batch-0004.md` holds sixteen cards. Eight chapters of prose are on the page
-(ch 223–230, 15,906 words) and eight are not.** Full record for what is drafted is in
-`state/continuity.md` under ***Established facts, Volume 4 Batch 0004 FIRST HALF (ch 223–230)*** and
-***Volume 4 running ledger — at end of ch 230***. **The next phase is the second half of the drafting
-phase**, at `workspace/continuation/next-0003/PROMPT.md`, and it writes **ch 231–238 in prose and then
-`workspace/volume-04-close/PROMPT.md` in the same call, because ch 238 is the last chapter of the
-volume.** The batch was split at the batch midpoint (ch 230) because the first full attempt at sixteen
-chapters returned without writing anything; **nothing in the card file was rewritten, moved, dropped or
-renumbered to make the split, and no pinned date was touched.**
+**`outline/batches/volume-04-batch-0004.md` holds sixteen cards and sixteen chapters of prose are on the
+page (31,540 words; ch 223–230 in the first half and ch 231–238 in the second, which also wrote
+`workspace/volume-04-close/PROMPT.md`).** Full record in `state/continuity.md` under
+***Established facts, Volume 4 Batch 0004 FIRST HALF (ch 223–230)***, ***…SECOND HALF (ch 231–238)***,
+***…complete (ch 179–238)*** and the running ledger at end of ch 238. **The batch was split at the batch
+midpoint (ch 230) because the first full attempt at sixteen chapters returned without writing anything;
+nothing in the card file was rewritten, moved, dropped or renumbered to make the split, and no pinned date
+was touched.**
 
-### What the first half moved, and what it did not answer
+### What the batch moved, and what it still does not answer
 
-| Thread | State after ch 230 |
+| Thread | State after ch 238 |
 | --- | --- |
-| **Two books in two hands** | **WORSE, DELIBERATELY.** Three empty dates are now in the sub-contractor's book, they are true, and they are never going to be filled. He squares the book over the top of them and says a hole you cannot see is worse than one you can |
-| **MEMBER ABSENT** | **ENTERED A THIRD TIME, PERMANENT, AND THE SHEET HAS GONE WEST FOR THE LAST TIME THIS SEASON.** Reason column a foot and a half wide and blank. **Nobody offered her the word a second time**, which is the construction and is now spent |
-| **The blind run** | **DESCRIBED IN FULL AND NOT ENTERED.** No mark, no stake, no board, no ring, a foot and a bit on the low side, two men in the ground with a bar across them. **She has been inside it on one knee. She has not hired onto it and ch 233 hires her** |
-| **Ledger** | **NOT ORDERED.** The decision is taken in her own head at ch 230; the word and the price are both unsaid. **He was offered the chance and took it and said four sentences and she chose them** |
-| **The channel** | **FOUR MARKS. NO FIGURE STATED ANYWHERE. TWO RATION SPENDS IN EIGHT CHAPTERS — ch 223 bought nothing and ch 230 bought the price of four sentences.** He does not grow back |
-| **Merit** | **NONE. Nothing kills anything and nothing clears a listed trial** |
-| **The right index finger** | **WHOLE AND UNSPENT. Named nowhere, priced nowhere, foreshadowed nowhere in ch 223–230** |
-| **Foundation 8 and Foundation 9** | **Not taken.** Pinned at ch 234 (day 440, suppressed, no bracket) and ch 237 (day 462, the one that goes past the line) |
-| **The Hunter's request and the empty space** | **NOT ANSWERED IN ANY FORM.** The space still holds a date and the office word *Held*. The Hunter is a man in a plain coat at two hundred yards on the twenty-third and is named nowhere in the eight chapters |
-| **The office above this county** | **UNREADABLE AND UNASKED FOR.** He reads it at ch 236 and not one page earlier |
-| **The far-side board** | **UNTOUCHED in ch 223–230**, exactly as ch 216 left it |
-| **Wei Ran** | **ONCE, at ch 229, and off page.** A rate and a road, not a favour; the true thing about the bad flat; **nothing is a romance** |
-| **The claim, Hou Sanliang, the eleven, the sponsors' second book, Shen Xiu, the register, the plate, Ning Wu** | **NOT RAISED. NOT SOFTENED. NOT RETIRED** |
+| **Two books in two hands** | **WASTED ON PURPOSE, AND PAID FOR.** Three empty dates in the sub-contractor's book, true, never going to be filled. **She squared both and gave up making a run out of them (ch 232) and did not ask for the copy she had said out loud.** She is now on a third book, on the far side, with a continuous run in it |
+| **The blind run** | **DESCRIBED, ENTERED, WORKED AND CLEARED.** Hired onto at a trestle in daylight with her name said out loud a third time (233); **fourteen days by hand, alone, with a bar; down to the hip on the fifteenth and up again on her hands; the last mark laid in lime on the twenty-first** |
+| **The listed trial** | **CLEARED (235). Merit settled on a finished job and not on a death. Nothing in Volume 4 killed anybody** |
+| **The channel** | **ABOUT SIX WEEKS at the last page, said once, in weeks.** Restored out of her foundation while the base was one stage short of finished, and it did not come back |
+| **The right index finger** | **GONE, PERMANENTLY, AT THE BLIND RUN (235).** Named once, felt, told out loud to the crew. **Four fingers' worth of grip left on that hand. Nothing gives it back and nothing offers to** |
+| **Ledger** | **TAKEN TWICE IN VOLUME 4 AND REFUSED ONCE OUT LOUD.** Batch 0001: eight days out of ten for a name. Batch 0004: one day out of three for the crossing, stated before the word (231), the word said (233), held under a day, put down when it was over. **Hers to order at the last page and not ordered** |
+| **Foundation 8** | **SUPPRESSED AT HER OWN ORDER (234), no bracketed line in the chapter.** **The gap is on a board the far side keeps and it is there for nine years** |
+| **Foundation 9** | **ANNOUNCED AT HER OWN ORDER WHERE NOTHING IS ANNOUNCED (237). The first announcement in four years heard past the line, and the far side wrote it down and asked nothing** |
+| **The boundary** | **BROKEN, TWICE, BOTH ON THE PAGE.** First the layer logged a dated crossing into a board already on the far side, in a column that is hers (238); then her body, three-quarters of a mile of quiet ground and a day and a half |
+| **The Hunter's request and the empty space** | **THE SPACE TOOK THE COUNTERSIGNATURE ON HER PETITION, in an office's hand, dated from the far side — and THAT IS NOT AN ANSWER.** The request is still pending. A Wall writ is not issued to a field agent. **The line's own people still do not know she exists** |
+| **The office above this county** | **READ, AT ch 236, IN ONE BREATH: the Standing Office of the Second Account.** A middle office with others above it. **He stopped there and nothing after ch 236 goes one notch further** |
+| **The far-side board** | **MATTERS.** Nine lines at the last page, **eight with something on them and one with nothing on it at all**, in a hand nobody on the line can read |
+| **The claim** | **MOVED AND NOT ANSWERED (237).** Somebody on the far side read the seventh condition out loud in a room, which put an eight hundred jin standing claim into the first office within nine days of road that can act on it. **Hou Sanliang unpaid, patient, never met; the date in his counting room is not torn off** |
+| **Wei Ran** | **ONCE, at ch 229, and off page. A rate and a road, not a favour; nothing is a romance** |
+| **MEMBER ABSENT** | **ENTERED A THIRD TIME, PERMANENT, AND THE SHEET WENT WEST FOR THE LAST TIME THIS SEASON.** Reason column a foot and a half wide and blank. **Nobody offered her the word a second time** |
+| **The register, the plate, Shen Xiu, the sponsors' second book, the eleven, Ning Wu, the ch 150 refusal** | **NOT RAISED. NOT SOFTENED. NOT RETIRED** |
 
-### Two structural questions carried to the volume close, both unchanged
+### The one structural question the close must answer in writing — the protagonist
 
-- **THE POINT OF VIEW IS THE OPEN QUESTION OF THE CLOSE — Yuan has been off-panel for two volumes of
-  sixteen.** `outline/series.md` §2 names the protagonist as **Yuan, male**, and
-  `state/book-metadata.md` records **Gender: Male**, so the male-led requirement is met at series level.
-  **Volume 4's close third is on Ning Yan and ch 179–238 is hers throughout.** Yuan is present in
-  ch 223–230 as a voice only — present-tense speech, rationed to four marks, and four sentences at
-  ch 230 of which she chose three. **Nothing in ch 223–238 may settle this, and the drafting phase may not
-  re-frame him.** It is a decision for `workspace/volume-04-close/PROMPT.md`, and that prompt must state
-  in writing what the volume did with the book's protagonist before Volume 5 opens.
-- **The volume-close phase is required and may not be skipped.** Ch 238 is the last chapter of Volume 4.
-  **The phase that writes ch 238 writes `workspace/volume-04-close/PROMPT.md` in the same call.** A Volume
-  4 close is not a further batch and Volume 5 does not begin without one.
+**Yuan has been a voice only and off-panel for two volumes of sixteen.** `outline/series.md` §2 names
+**Yuan, male**, as the protagonist and `state/book-metadata.md` records **Gender: Male**, so the male-led
+requirement is met at series level. **Volume 4's close third is on Ning Yan throughout.** Yuan is present
+through ch 179–238 as a voice: present-tense speech, rationed to four marks and then to one, a standing
+held twice and refused once, and a name read at ch 236 that he had said four times he could not read.
+
+**Nothing in ch 179–238 may settle this and nothing did.** It is recorded here for
+`workspace/volume-04-close/PROMPT.md`, and **the close must state in writing what Volume 4 did with the
+book's protagonist before Volume 5 opens** — in the close summary, in `state/current.md` and in the Volume 5
+hand-off — and must not re-frame ch 179–238, retitle the volume, introduce a new final enemy, or take
+anything Volume 5 owns.
+
+### The volume-close phase is required and has been written
+
+`workspace/volume-04-close/PROMPT.md` was written in the same call as ch 238, because ch 238 is the last
+chapter of Volume 4. **It audits ch 179–238 against `outline/volume-04.md` line by line, walks the fifteen
+*Required continuity facts to preserve after the volume* one at a time with the three changed-shape answers
+stated plainly, answers the protagonist question above, and creates exactly one follow-up prompt — the Volume
+5 planning phase.**
 
 ## Volume 3 — the two structural questions
 
