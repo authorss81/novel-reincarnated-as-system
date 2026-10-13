@@ -18,7 +18,7 @@ She counted the lines, because she could count them and because counting them is
 
 Nine years of them, and a strip about four inches wide every nine or ten days, and nine days of this month on it.
 
-And in the middle of the month, between a line dated the twenty-first and a line dated the second of the next, there is a strip with a date on it at the left and nothing at all on the rest of it.
+And in the middle of the month, between a line dated the thirtieth of the month before and a line dated about the ninth of this one, there is a strip with a date on it at the left and nothing at all on the rest of it.
 
 Four inches wide.
 
@@ -26,9 +26,9 @@ It is the width of every other strip that has ever gone into that column, includ
 
 She stood and looked at it for about as long as it takes a man to read a line.
 
-Then she did the other thing she could do, which is the thing she has been able to do since a month that is four months back, and it came to the same place it has come to every time. She looked at the dated line above it and the dated line below it and she knew which of the two was a reading and which was not, because a reading is a number of yards worked at a place on a day by a man, and she has been reading that kind of number for four years in nine counties and cannot be shown one by accident.
+Then she did the other thing she could do, which is the thing she has been able to do since a month that is four months back, and it came to the same place it has come to every time. She looked at the dated line above it and the dated line below it and she knew they were readings, because a reading is a number of yards worked at a place on a day by a man, and she has been reading that kind of number for four years in nine counties and cannot be shown one by accident.
 
-The two in the middle of that month were not readings. One of them was hers and she had put it there herself, and the other one is a hole the width of a stage.
+The strip is hers and it is a hole the width of a stage.
 
 ## The Man Who Keeps It
 
@@ -65,8 +65,6 @@ He put his thumb on the plank.
 He turned and looked out along the ground the way a man looks out along ground he has walked every working day of nine years.
 
 “The line is not stone,” he said. “It was never in the same place on both sides of itself and it does not move in a night.”
-
-He turned and looked out along the ground the way a man looks out along ground he has walked every working day of nine years.
 
 “It is a line of work. It is kept by people going out on it with bars in their hands, and where they go and go on time the line holds, and where they do not it leaks. And what comes out of a stretch that has not been kept is drift.”
 

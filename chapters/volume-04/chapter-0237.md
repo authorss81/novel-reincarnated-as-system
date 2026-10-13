@@ -36,7 +36,7 @@ She did not build a theory on it. She stood on ground she had tended with a bar 
 
 ## What It Did A Mile Past
 
-The man who keeps the board writes one line a day and he has written one a day for nine years whether or not he has anything to put in it.
+The man who keeps the board puts one up every nine or ten days and has done for nine years whether or not he has anything to put in it.
 
 She was at the post about two hours later at about the sixth hour, because there was nothing else to do with a morning, and she was about forty feet off when he came up with the cart.
 

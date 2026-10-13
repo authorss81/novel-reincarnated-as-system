@@ -19,7 +19,7 @@ This file is **append-only and long, and most of it is history.** You do not nee
 - **This file is never pruned by a writing phase.** If a section is wrong, correct it in place and say
   so in the phase's repair note rather than deleting the record.
 
-- **Volume:** 4 of 16 — **The Wall (ch 179–238)** — outlined in `outline/volume-04.md`, **ALL FOUR BATCHES WRITTEN. BATCH 0001 (ch 179–192, 28,608 words over fourteen chapters) · BATCH 0002 (ch 193–208, 31,941 words over sixteen chapters) · BATCH 0003 (ch 209–222, 28,568 words over fourteen chapters) · BATCH 0004 (ch 223–238, 31,540 words over sixteen chapters, written in two halves — 15,906 for ch 223–230 and 15,634 for ch 231–238).** Volume 4 file set: **120,616 words.** Volume 3 (ch 119–178) remains **all four batches written and audited**: Batch 0001 (ch 119–132), 36,809 words over fourteen chapters; Batch 0002 (ch 133–148), 36,742 words over sixteen chapters; Batch 0003 (ch 149–163), 30,958 words over fifteen chapters; Batch 0004 (ch 164–178), 30,505 words over fifteen chapters. **Volume 3 file set: 135,014 words.**
+- **Volume:** 4 of 16 — **The Wall (ch 179–238)** — outlined in `outline/volume-04.md`, **ALL FOUR BATCHES WRITTEN. BATCH 0001 (ch 179–192, 28,608 words over fourteen chapters) · BATCH 0002 (ch 193–208, 31,941 words over sixteen chapters) · BATCH 0003 (ch 209–222, 28,568 words over fourteen chapters) · BATCH 0004 (ch 223–238, 31,490 words over sixteen chapters, written in two halves — 15,906 for ch 223–230 and 15,584 for ch 231–238, post-review-repair).** Volume 4 file set: **120,566 words.** Volume 3 (ch 119–178) remains **all four batches written and audited**: Batch 0001 (ch 119–132), 36,809 words over fourteen chapters; Batch 0002 (ch 133–148), 36,742 words over sixteen chapters; Batch 0003 (ch 149–163), 30,958 words over fifteen chapters; Batch 0004 (ch 164–178), 30,505 words over fifteen chapters. **Volume 3 file set: 135,014 words.**
 - **Volume 4 goal**, fixed by `outline/series.md` §9: *In this volume, Ning Yan must break the boundary, or neither of them ever learns what they are.* **The boundary is broken, twice, both on the page.**
 - **Chapter written:** **1–238. THE NOVEL RUNS TO CHAPTER 1000; VOLUME 3 IS COMPLETE AND AUDITED; VOLUME 4 IS COMPLETE THROUGH ch 238 AND IS WAITING FOR ITS CLOSE AUDIT.**
 - **Next phase:** **the Volume 4 close audit**, at `workspace/volume-04-close/PROMPT.md`, written in the same call as ch 238. It audits ch 179–238 against `outline/volume-04.md` line by line, walks **the fifteen** *Required continuity facts to preserve after the volume*, **states in writing what Volume 4 did with the book's protagonist** before Volume 5 opens, and creates exactly one follow-up prompt — the Volume 5 planning phase. **It writes no prose.**
@@ -43,7 +43,7 @@ Full record: `state/continuity.md` under ***Established facts, Volume 4 complete
 - **Bai Zhu.** **Named once in the book, at ch 150, to a form, and on no document he signs.** At ch 231 he attended seven days, wrote three lines, bought nothing, threatened nothing, touched her, entered nothing, asked nothing, and said all of that in one breath. At ch 238 he **certified the crossing in a Warden's hand, signed by the office and not by a person** — his second document in the book and the same shape as his first — and said the whole of the rest of it in one breath again. **He did not ask her to come.**
 - **The office above this county.** **Read at ch 236, in one breath, for the first time in four years: the Standing Office of the Second Account.** A middle office, with others above it. **He stopped there and nothing after ch 236 goes one notch further.** No Scribe. No Anchor. Nothing about what he was before he died.
 - **The claim.** **Eight hundred jin, standing, the seventh and last condition, travelling on the licence.** A date is entered against it in Hou Sanliang's counting room in Lowwater and has not been torn off. **At ch 237 somebody on the far side read the seventh condition out loud in a room, which put an eight hundred jin standing claim into the first office within nine days of road that can act on it in its whole life. Not resolved. Hou Sanliang unpaid, patient and never met.**
-- **Yuan.** Voice. **Three ration spends in the last eight chapters — ch 231, which bought the price, and the count is four marks on the back of a dead weight ticket; ch 233 spent the standing, not a mark, at a price of one day out of three, held under a day and put down when the crossing was over.** **Merit settled once, at ch 235, on a finished job and not on a death, and he intercepted a share and spent it out of her foundation while the base was one stage short of finished, and it did not come back.** **The channel is restored and is about six weeks at the last page**, said once, in weeks. **Ledger is hers to order at the last page and she did not order it.** **He still has not told her what he was before he died and she still has not told him she saw him as a readout.**
+- **Yuan.** Voice. **Two spends on the column of marks in the last eight chapters — ch 231, which bought the price, and the count is four marks on the back of a dead weight ticket; ch 233 spent the standing, not a mark, at a price of one day out of three, held under a day and put down when the crossing was over.** **Merit settled once, at ch 235, on a finished job and not on a death, and he intercepted a share and spent it out of her foundation while the base was one stage short of finished, and it did not come back.** **The channel is restored and is about six weeks at the last page**, said once, in weeks. **Ledger is hers to order at the last page and she did not order it.** **He still has not told her what he was before he died and she still has not told him she saw him as a readout.**
 - **The year of non-forgiveness was touched once in this batch, at ch 230, at low volume** — she goes on using him on purpose, **and it is not forgiveness and the account still carries.** She does not forgive him and she does not tell him to stop.
 - **MEMBER ABSENT stands three times and is permanent**, with the reason column a foot and a half wide and blank, and **the sheet went west for the last time this season.** No date west on any board after that man. The word was offered twice and no man has offered it a second time.
 - **The course is closed against her and stays closed.** Two books in two hands, neither carrying a continuous run, **and three empty dates in the second one that are true and are never going to be filled.** Cui Bao said the whole of his position once and would do it again. **They are right and nothing in this volume proves them wrong.**
@@ -215,6 +215,81 @@ coppers, four stubs of paper in an oilcloth, and a licence she has never touched
   refusal is not softened, deferred, reopened or regretted in any line, and no line lets her wonder what she
   would have done. **The year of non-forgiveness was not touched at all in this batch.**
   **She does not forgive him and she does not tell him to stop.**
+
+---
+
+## Volume 4 Batch 0004 second half, review repair (fix phase)
+
+Repaired against `logs/next-0003.review.log` **without restarting the batch, without changing the planned
+plot and without moving a pinned date.** **No title changed, no chapter order changed, no card rewritten,
+no stage announced earlier or later, no cost, irreversible decision or ending changed, and nothing Volume 5
+owns was spent.** Eight sentences changed inside prose that was already written — one of them a duplicated
+paragraph cut — and every state figure that carried them was corrected with them. **Read this before using any ch 231–238 figure, date or place
+quoted anywhere else in the state files.** The four pinned stage days (386, 412, 440, 462) and the pinned
+attendance day (389) stand exactly as they were.
+
+- **1 — A duplicated paragraph, and the only true mechanical fault in the eight chapters (ch 236).** *He
+  turned and looked out along the ground the way a man looks out along ground he has walked every working
+  day of nine years* appeared twice, once either side of *The line is not stone*. The second copy is gone.
+  No sentence was rewritten and the beat still works: he looks out along the ground, says the line is not
+  stone, and then says what it is.
+- **2 — A date that could not exist, in the one place ch 234 had pinned it (ch 236).** She stands at the far
+  board **on the twenty-second**, and the chapter put the blank strip *between a line dated the twenty-first
+  and a line dated the second of the next* — **the second of the next month is day 465 and she is at day
+  455.** It is now **between a line dated the thirtieth of the month before and a line dated about the
+  ninth of this one**, which brackets the seventh, and ch 234's *On the seventh of that month he put one up*
+  is what the strip is. The paragraph after it no longer claims she could not tell a reading from a
+  non-reading among the flanking lines — **the flanking lines are readings, the strip between them is hers,
+  and it is a hole the width of a stage.** `state/chapter-summaries.md` carried the broken pair and is
+  corrected with it.
+- **3 — The far-side board was in two places at once (ch 238).** Ch 236, ch 237 and ch 238 itself put it at
+  **the post on the rise**, four hundred yards short of the trestle, and the final image said *behind her at
+  the trestle*. It now reads **behind her, up the rise**. **The final image is otherwise untouched** — a
+  wage-book open on a trestle, a column of hours that is hers, the price said out loud, and a board on a
+  post with nine lines in it, eight written and one with nothing at all — exactly as
+  `outline/volume-04.md` fixes it and as the phase prompt pinned it.
+- **4 — The keeper's cadence contradicted itself between two chapters (ch 237).** Ch 236 gives **a strip
+  about four inches wide every nine or ten days**, which is what ch 216 and ch 234 both establish; ch 237
+  said he **writes one line a day and has written one a day for nine years**. Ch 237 now reads **puts one
+  up every nine or ten days and has done for nine years whether or not he has anything to put in it**, and
+  the scene is better for it: he comes up with the cart, stops with the pen an inch above the cloth for as
+  long as it takes to read a line, and writes something he has no reason to write except that he heard it.
+- **5 — A promise was dated to the wrong day (ch 235).** *I said on the seventh that I would come and look
+  at it on the eleventh* — **the promise is made at ch 233 on the fifth, and ch 234's seventh has no such
+  line in it.** Now *on the fifth*. The man still does not come, and nothing else in the beat moved.
+- **6 — The money on the plank contradicted the wage the chapter had already fixed (ch 231).** *About five
+  coppers in her hand on the twenty-fourth and about five on the thirtieth*, five in and five out for bread
+  — and then *four coppers on the plank* on the thirtieth, in the same chapter. **Five.**
+- **7 — A figure the ledger did not carry.** The blind run pays **two coppers a day in her hand and in no
+  book at all** from the fifth (ch 233), which is on the page and was missing from the money rows. The
+  *Hours* and *Money* rows of the ch 238 ledger now say so, and record that **no balance is stated anywhere
+  in ch 231–238.**
+- **8 — State files that had drifted from their own chapters.** Corrected in
+  `state/chapter-summaries.md`: a **garbled run-together at the end of the ch 238 batch-position paragraph**
+  (*stop.ure stated*), a **section header and a Volumes 5–16 line that still said the second half was not
+  drafted**, and the ch 236 row's broken dates. In `state/book-metadata.md` and
+  `workspace/volume-04-batch-0004/SUMMARY.md`: **the bracket count in Batch 0004 is THREE (ch 224, 228 and
+  237), not four** — the sentence named three chapters and said four — and the word figures. Corrected in
+  `state/current.md`: **two spends in ch 231–238, not three** (ch 231's mark and ch 233's standing are the
+  only two the chapters show). In `state/continuity.md`: two blocks that still declared the second half
+  **NOT DRAFTED** now point at the drafted record instead of contradicting it.
+- **9 — The word figures, recounted off the files after the repairs.** Body prose excluding `#` and `##`
+  heading lines: **ch 231–238 = 15,584 over eight chapters** (was 15,634), **Batch 0004 = 31,490 over
+  sixteen, average ~1,968**, **Volume 4 file set = 120,566**. Longest ch 235 at 2,279, shortest ch 225 at
+  1,672, **three chapters in the batch under the 1,800 guide (225, 233, 234) and ten in the volume**. The
+  figures in `state/book-metadata.md`, `state/chapter-summaries.md`, `state/current.md` and the batch
+  summary are all corrected to these.
+- **Checked and passed, nothing changed.** Chapter markdown (no blockquote, code block, table or rule),
+  every speech closed, the eight titles unique against all 238, **one bracketed layer line in eight chapters
+  and it is at ch 237, ch 234 carrying none by order**, no calendar month and no weekday named anywhere in
+  ch 231–238, no *eleven weeks*, no *about four seconds*, none of the retired constructions, no paragraph
+  over 120 words (longest 113, in ch 230), and every sentence Yuan speaks in the present tense.
+- **Carried to the close audit rather than rewritten.** In ch 237, *There are nine counties inside a line
+  and one of them has just been read a figure out loud in a room that is not on their side of anything* is
+  a passive construction that parses two ways, and the sentence after it is the one that carries the
+  meaning: **the figure was read out, and the people in that room can act on it.** Nothing about the claim's
+  standing was touched. **The board's nine lines and its nine years of strips** are both fixed by
+  `outline/volume-04.md`'s final image and by ch 234, and were left exactly as written.
 
 ---
 

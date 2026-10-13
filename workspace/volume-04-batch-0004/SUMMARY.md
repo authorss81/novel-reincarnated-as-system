@@ -1,6 +1,6 @@
 # Volume 4, Batch 0004 — Summary (ch 223–238)
 
-**Status: WRITTEN IN FULL. Sixteen chapters, 31,540 words, and ch 238 is the last chapter of Volume 4.
+**Status: WRITTEN IN FULL. Sixteen chapters, 31,490 words, and ch 238 is the last chapter of Volume 4.
 `workspace/volume-04-close/PROMPT.md` was written in the same call as ch 238. Volume 4 is written through
 ch 238 and is waiting for its close audit.**
 
@@ -36,11 +36,11 @@ pinned attendance day (389) is untouched** and the sheet still goes west on the 
 
 ## What is on the page
 
-**31,540 words over sixteen chapters, average ~1,969.** First half 15,906 over eight chapters (average
-~1,988); **second half 15,634 over eight chapters**. Longest ch 235 at 2,279; shortest ch 225 at 1,672.
-**Nothing above the 2,700 guide, nothing under the 1,300 floor, three chapters under the 1,800 guide
-(225 · 233 · 234).** **Four bracketed layer lines in sixteen chapters, at ch 224, 228 and 237, and ch 234
-carries none by order.** All sixteen chapters carry quoted speech and every sentence Yuan speaks is in the
+**31,490 words over sixteen chapters, average ~1,968**, post-review-repair. First half 15,906 over eight
+chapters (average ~1,988); **second half 15,584 over eight chapters**. Longest ch 235 at 2,279; shortest
+ch 225 at 1,672. **Nothing above the 2,700 guide, nothing under the 1,300 floor, three chapters under the
+1,800 guide (225 · 233 · 234).** **Three bracketed layer lines in sixteen chapters, at ch 224, 228 and 237,
+and ch 234 carries none by order.** All sixteen chapters carry quoted speech and every sentence Yuan speaks is in the
 present tense.
 
 ## The shape of it

@@ -1936,11 +1936,12 @@ present about forms, offices, counties and classes of person, which is house voi
 Volume 4 close audit walks, and what Volume 5's planner reads first. The per-batch blocks below it stay as
 the detailed record; nothing here replaces them.
 
-**Sixty chapters, 120,616 words, day 220 to day 470.** Batch 0001 ch 179–192 (28,608 words) · 0002 ch
-193–208 (31,941) · 0003 ch 209–222 (28,568) · 0004 ch 223–238 (31,540, written in two halves). **Four
-bracketed layer lines in Batches 0001–0003 and eight in the volume: Foundation 1 (207), 2 (211), 3 (214), 4
-(217), 5 (220), 6 (224), 7 (228), and 9 (237). Foundation 8 (234) was suppressed at her own order and its
-chapter carries no bracket at all.**
+**Sixty chapters, 120,566 words, day 220 to day 470.** Batch 0001 ch 179–192 (28,608 words) · 0002 ch
+193–208 (31,941) · 0003 ch 209–222 (28,568) · 0004 ch 223–238 (31,490, written in two halves). **Five
+bracketed layer lines in Batches 0001–0003 (207, 211, 214, 217, 220), three in Batch 0004 (224, 228
+and 237), and eight in the volume:** Foundation 1 (207), 2 (211), 3 (214), 4 (217), 5 (220), 6 (224), 7
+(228), and 9 (237). Foundation 8 (234) was suppressed at her own order and its chapter carries no bracket
+at all.**
 
 ### What the volume did, in one paragraph
 
@@ -2223,12 +2224,12 @@ carry quoted speech and every one of Yuan's sentences is present tense.**
 | Where she is | **On the far side of a line of work, in ordinary settled country, at a trestle with a wage-book on it, a fire under it and eleven men on it.** A building with a stove and six men in it. A board on a post. Nobody there has ever heard a stage announced. **Nobody there asked her a question** |
 | Licence | **Relicensed on the second set of legs, all three outside this county** (clearance 264, seal 265, countersignature 266). **A document she has never touched.** Seven conditions referenced and never re-listed; the claim the seventh and last. **She did not open it in this volume** |
 | In-world date | **Day 470, the seventh of a month** |
-| Hours | **On the far side, five coppers a day, in a contractor's book on a trestle, in order, with dates, kept by people who are not a county and are not obliged to keep it.** Before that: two books in two hands past the last stake at five coppers, neither carrying a continuous run, **three empty dates in the second one that are true**. **Six counterfoils in the oilcloth, in three marks, none checkable against anything** |
+| Hours | **On the far side, five coppers a day, in a contractor's book on a trestle, in order, with dates, kept by people who are not a county and are not obliged to keep it.** Before that: two books in two hands past the last stake at five coppers, neither carrying a continuous run, **three empty dates in the second one that are true**, **and two coppers a day more from the fifth for the blind run, paid in her hand and going into no book at all**. **Six counterfoils in the oilcloth, in three marks, none checkable against anything** |
 | Settlement | **About six weeks at the last page, said once, in weeks.** Restored at ch 235 out of her foundation by a cleared listed trial. **Merit: one settlement in the whole volume, on a finished job. Nothing in Volume 4 killed anything.** **Ledger: taken twice in Volume 4 and refused once out loud; hers to order at the last page and not ordered** |
 | Bounty | **800 jin, standing, the seventh and last condition, travelling on the licence. MOVED and NOT ANSWERED** — read out loud in a room on the far side at ch 237, in the first office within nine days of road that can act on it. The date in Hou Sanliang's counting room is not torn off. **Hou unpaid, patient, never met** |
 | The referral | **Up the stair past every office she has ever stood in front of. Its answer space holds a date and the office word *Held*, and now the countersignature on her petition in an office's hand dated from the far side. The request is still pending.** A Wall writ is not issued to a field agent. **The line's own people still do not know she exists** |
 | Crew | **nine men and her; ten sleepers in twelve bunks, nine days west. A floor and a tower with a light in it. Said once, at ch 238** |
-| Money | **Five coppers a day and bread bought at a store.** **The tin is gone since the evening of day 268** and never counted again |
+| Money | **Five coppers a day at the trestle from the fourth, two coppers a day more from the fifth for the blind run, five coppers a day on the far side from the fourth, and bread bought at a store at five coppers a day.** **No balance is stated anywhere in ch 231–238.** **The tin is gone since the evening of day 268** and never counted again |
 | The course | **Closed against her, lawfully and correctly, and still closed.** Eleven men and a girl of nineteen stood a stretch for three days for nothing and told her nothing. **They are right and nothing in this volume proves them wrong** |
 | The far side | **A trestle with a book, eleven men paid by the day, a room with a counter and a stove, and a post with a nine-year column on it kept by a man of about fifty-five who fills it off a cart and has never read a word of it.** Ordinary country, farmed and lit, and **they asked her nothing** |
 | Register / plate | *reconciled* / worn. **She does not forgive him and she does not tell him to stop.** The year changed shape and did not close |
@@ -2239,9 +2240,10 @@ carry quoted speech and every one of Yuan's sentences is present tense.**
 ## Established facts, Volume 4 Batch 0004 FIRST HALF (ch 223–230) — DRAFTED. EIGHT CHAPTERS OF THE SIXTEEN ARE ON THE PAGE
 
 **This is the standing record for the first half of Batch 0004.** The second half — **ch 231–238, eight
-chapters — is NOT DRAFTED**, and nothing in this block may be treated as if it were. The cards at
-`outline/batches/volume-04-batch-0004.md` pin the rest. The batch was split at the batch midpoint
-because the first full attempt at sixteen chapters returned without writing anything.
+chapters — IS NOW ALSO DRAFTED**, and is recorded in ***Established facts, Volume 4 Batch 0004 SECOND HALF
+(ch 231–238)*** above. Nothing in this block may be treated as covering ch 231–238, and the day rows below
+end at ch 230. The cards at `outline/batches/volume-04-batch-0004.md` pin the rest. The batch was split at
+the batch midpoint because the first full attempt at sixteen chapters returned without writing anything.
 
 ### The clock, as drafted
 
@@ -2424,10 +2426,13 @@ leaks, a chapter number at ch 223 and a batch phrase at ch 225, were both cut be
 
 ---
 
-## Established facts, Volume 4 Batch 0004 (ch 223–238) — THE PLANNING RECORD FOR THE EIGHT CHAPTERS THAT ARE NOT DRAFTED
+## Established facts, Volume 4 Batch 0004 (ch 223–238) — THE PLANNING RECORD (SUPERSEDED: all sixteen chapters are now on the page)
 
 **Nothing in this block is on the page.** It records what sixteen cards at
-`outline/batches/volume-04-batch-0004.md` pin, so that the drafting phase cannot move one. **Ch 223–230
+`outline/batches/volume-04-batch-0004.md` pin, so that no drafting phase could move one. **It was written
+before either half of the batch was drafted and both halves are now on the page**; what is on the page is
+recorded in the FIRST HALF, SECOND HALF and *Volume 4 complete* blocks above, and those govern. Read this
+block for the pins only. **Ch 223–230
 ARE NOW DRAFTED and are recorded in the block above; this block governs ch 231–238 only, and the position
 those eight chapters start from is the ch 230 ledger above, not the ch 222 one.** Batch 0004 is sixteen
 chapters, not fourteen — 223–238 inclusive, per the allocation table in `outline/volume-04.md`

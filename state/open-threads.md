@@ -1,8 +1,8 @@
 # Open Threads
 
 **Volume 1 is closed. Volume 2 is closed and audited (ch 59–118). VOLUME 3 IS CLOSED AND AUDITED (ch 119–178).
-VOLUME 4 IS WRITTEN IN FULL (ch 179–238, 120,616 words across four batches: 28,608 · 31,941 · 28,568 ·
-31,540) AND IS NOT YET AUDITED.** The Volume 3 close audit table is in `state/current.md` under
+VOLUME 4 IS WRITTEN IN FULL (ch 179–238, 120,566 words across four batches: 28,608 · 31,941 · 28,568 ·
+31,490) AND IS NOT YET AUDITED.** The Volume 3 close audit table is in `state/current.md` under
 `## Volume 3 close audit — CLOSED`, and **the review's reversal of one of the audit's rules is written up
 under *Close review repair* in that same block — read it before using any four-county or nine-county figure
 from this run.** Live threads below carry into **Volume 5, *Mortal Ash*, ch 239–298**. The full state of each
@@ -126,7 +126,7 @@ Ma Sheng, the girl of nineteen and eleven men won their own win at ch 218 and pa
 ## Volume 4 Batch 0004 (ch 223–238) — WRITTEN IN FULL. THE BATCH IS THE LAST OF VOLUME 4
 
 **`outline/batches/volume-04-batch-0004.md` holds sixteen cards and sixteen chapters of prose are on the
-page (31,540 words; ch 223–230 in the first half and ch 231–238 in the second, which also wrote
+page (31,490 words; ch 223–230 in the first half and ch 231–238 in the second, which also wrote
 `workspace/volume-04-close/PROMPT.md`).** Full record in `state/continuity.md` under
 ***Established facts, Volume 4 Batch 0004 FIRST HALF (ch 223–230)***, ***…SECOND HALF (ch 231–238)***,
 ***…complete (ch 179–238)*** and the running ledger at end of ch 238. **The batch was split at the batch

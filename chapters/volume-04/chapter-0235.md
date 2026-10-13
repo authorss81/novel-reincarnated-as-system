@@ -122,7 +122,7 @@ The sub-contractor wrote her down on the twenty-second at the fourth hour and di
 
 That was the whole of what he said about it and it was the whole of what she needed, and she did not thank him for it, because thanking him would have made it a thing he had done for her and it was not that.
 
-The man with the boot said: “I said on the seventh that I would come and look at it on the eleventh and I did not come.”
+The man with the boot said: “I said on the fifth that I would come and look at it on the eleventh and I did not come.”
 
 “You said you would not go down into it.”
 

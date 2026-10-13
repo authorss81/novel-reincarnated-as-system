@@ -120,7 +120,7 @@ He did not ask her to come.
 
 ## Nine Lines
 
-Behind her at the trestle there is a board on a post, and it is dated at the top, and it has nine lines in it.
+Behind her, up the rise, there is a board on a post, and it is dated at the top, and it has nine lines in it.
 
 Eight of them have something on them. One of them has nothing on it at all.
 

@@ -80,7 +80,7 @@ She wanted him to lie once. That was the want and she had not known she had it u
 
 He said it four months back on high ground that he did not want it. He was attending it. He was keeping the minutes.
 
-That is the difference between a betrayer and an honest man who is losing, and it is the whole of why she cannot leave and cannot come closer, and she stood at the trestle on the thirtieth at about the seventh hour with four coppers on the plank and understood that she had spent one of the last three of him on the price of it, and that it was the right purchase, and that it was going to cost more than the three of them together.
+That is the difference between a betrayer and an honest man who is losing, and it is the whole of why she cannot leave and cannot come closer, and she stood at the trestle on the thirtieth at about the seventh hour with five coppers on the plank and understood that she had spent one of the last three of him on the price of it, and that it was the right purchase, and that it was going to cost more than the three of them together.
 
 ## Five Days
 
