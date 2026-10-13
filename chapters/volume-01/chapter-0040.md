@@ -26,7 +26,7 @@ She felt the room get colder by four degrees and did not look at the sheet.
 
 “They have written you out of the record,” she said.
 
-“They have written you out of the record upward. They have not written you out of the room. I hear you. I always hear you; that is not something an instruction touches. He wiped his mouth with the cloth and put it down.
+“They have written you out of the record upward. They have not written you out of the room. I hear you. I always hear you; that is not something an instruction touches.” He wiped his mouth with the cloth and put it down.
 
 “I have been copying upward as directed for eight days. I have also been copying upward in the third column of the middle register, which is my own, which goes nowhere and is read by nobody, and which I have used four times since you came down the mountain.”
 

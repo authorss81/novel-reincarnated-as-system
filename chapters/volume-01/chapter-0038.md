@@ -50,7 +50,7 @@ Silence in her head, and a quality of silence she had not felt before, which was
 
 “I do not know what you mean,” he said.
 
-“You do. You are describing a hand going into a shelf and pulling out the board, and you think that took the board. It did not take the board. It took the way the board was put in.
+“You do. You are describing a hand going into a shelf and pulling out the board, and you think that took the board. It did not take the board. It took the way the board was put in.”
 
 “The shelf is still here. It is stage four and it will do more in nine minutes than a soldier at nine does in an hour, and it will do that again tomorrow, because the shelf is not gone. What is gone is that the boards go in in that order now, and that order was the newest thing I had, and you took it because it was on top.”
 

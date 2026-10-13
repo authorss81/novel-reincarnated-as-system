@@ -72,7 +72,7 @@ The road came up out of the willows onto the terrace road and the whole weight o
 
 “It is not the weather. There are people in the room.”
 
-“Then I do not know which of them I am. It came out of him before he could stop it and it came out exactly the way it would have come out of a mouth. “Ning Yan. I have believed for six years that I am a mistake in something enormous, and that was bearable, because a mistake is not responsible for anything and nobody is.
+“Then I do not know which of them I am.” It came out of him before he could stop it and it came out exactly the way it would have come out of a mouth. “Ning Yan. I have believed for six years that I am a mistake in something enormous, and that was bearable, because a mistake is not responsible for anything and nobody is.
 
 And you have just told me there is a row and a ledger and a set of hands. If there are hands then somebody wrote me down. If somebody wrote me down then I am an entry. I am in a column.
 
@@ -88,7 +88,7 @@ She was not going to comfort him. He would have taken it as a transaction and go
 
 “I cannot sit up. I have never had a back.”
 
-“Be awake, then. Be sharp. She turned and looked at him as near as the channel allowed, which was the inside of her own attention. “I am not going to comfort you and I want you to understand why before I say the rest.
+“Be awake, then. Be sharp.” She turned and looked at him as near as the channel allowed, which was the inside of her own attention. “I am not going to comfort you and I want you to understand why before I say the rest.
 
 What I am about to say is not kindness. It is use, and it is the plainest use anybody has ever made of you, and you will get more out of it than you would out of kindness, and I would like you to hear that from me before you start hoping.”
 
@@ -100,7 +100,7 @@ And for none of that do I need a god. I need something awake inside my head that
 
 “That is what you have.”
 
-“That is what I had. What I have is a thing that has just found out it is written down somewhere and has gone quiet for the first time in six years. She let that sit. “So be sharp.
+“That is what I had. What I have is a thing that has just found out it is written down somewhere and has gone quiet for the first time in six years.” She let that sit. “So be sharp.
 
 Because when we find out who is in that room, one of them is going to reach your line, and I am going to be the only person inside the bound who knows the day it happens, and you are going to be the only thing in that room that knows it too, and neither of us is going to be able to prove a word of it.”
 

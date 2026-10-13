@@ -32,7 +32,7 @@ It was a single sheet, Bureau hand, and it was a detention form, and it had a su
 
 “There is one clause for taking things out of sealed ground.”
 
-“There are two. She did not move from the bench and she made her voice the voice she used for reading tallies out loud in the wash house, which was the only voice she had that nobody ever argued with. “I stood in front of the sixth clause in the assessment room at the Broken Kiln and read it by hand because there was no lamp.
+“There are two.” She did not move from the bench and she made her voice the voice she used for reading tallies out loud in the wash house, which was the only voice she had that nobody ever argued with. “I stood in front of the sixth clause in the assessment room at the Broken Kiln and read it by hand because there was no lamp.
 
 The sixth clause is about kiln material. Fired clay, fired core-stone, the output of a kiln. It is theft. It is punishable by the county and it is not a sect matter, because a sect cannot lose fired clay, it can only be robbed of it.”
 

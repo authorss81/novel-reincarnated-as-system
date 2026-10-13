@@ -37,18 +37,26 @@ does not say it a second time.
 
 Chapter titles are names, not summaries: three to twelve words, unique, no weather, no clock time, no
 dates, no ages, no dialogue. The titles are already fixed in the batch cards. Use them exactly:
-47 Waiting, 48 Terms, 49 The Signature, 50 Qiu's Fall, 51 The Floor, 52 The Tribulation,
+47 Waiting, 48 Terms, 49 Withheld, 50 Qiu's Fall, 51 The Floor, 52 The Tribulation,
 53 The Record of the Trial, 54 What It Cost Him, 55 Three Days Visible, 56 The Signature,
 57 The Shape of the Silence, 58 The Count.
 
-Note the deliberate echo in the card titles: **49 The Signature** and **56 The Signature**. That is
-intentional and is the shape of the volume. Both must exist and both must be in the table of contents.
+Every one of these twelve is unique and must stay that way. An earlier draft gave both ch 49 and
+ch 56 the title *The Signature*; that was wrong twice over, because titles must be unique in the book
+and because **ch 49 is not the signing** — its own card says she is not signed until ch 56. Ch 49 is
+named for the holding. Ch 56 keeps *The Signature*.
 
 Chapter markdown: title heading, optional section headings, plain paragraphs, sparse bold or italic. No
 blockquotes, no code blocks, no tables, no horizontal rules. Two to four sentences per paragraph, break
 over about 90 words, never over about 120. Around 1,800–2,700 words per chapter unless the scene needs
 longer. **Chapters 50 and 53 are the two heaviest in the book so far; do not let them run long because
 the prose is good. Every chapter must be a complete scene.**
+
+**Quote mechanics.** Close every speech. If a speech runs over more than one paragraph, the first
+paragraph ends with a closing quote and the next opens with a fresh one. Narration never sits inside
+an open quote — if a line contains narration such as *he wiped his mouth with the cloth*, the quote
+closes before it. Batch 0004 shipped seven unclosed quotes of exactly that shape and they were a
+review failure; check your own chapters before you finish.
 
 ## What this batch has to do besides write well
 
@@ -66,6 +74,24 @@ the prose is good. Every chapter must be a complete scene.**
   with opinions (52), the loneliest four seconds of her life (53), the cost to the one who cannot pay
   it (54), three days of being the most talked-about person in nine counties (55), one lie bought with
   another (56), a limit that works (57), a number instead of a threat (58).
+- **The Cracking from the end of ch 46 is open and it prices the whole batch.** Canon: ash falls for
+  **eleven days** after a Cracking and does not settle. The trial is four days out, so **ch 47–52 all
+  happen inside the ash fall**, and it is still falling in ch 55. It is not an event that waits for
+  ch 52 — it is the air in every one of those rooms, and it is worse on her specifically because her
+  lungs have taken six years of it. Each card for 47–50 carries its own ash line; follow them. Ash on
+  the sill, in the lye, on the washing crew's backs, in the corridor, on the anteroom floor, in the
+  hall at dawn. Dust in the bargains, in the anteroom, in the hall where a man loses his furnace.
+  Do not re-announce the Cracking. One bracketed layer line about it in the first ash chapter, then
+  the body of the fall on the page for the rest.
+- **The four seconds in ch 53 and the reveal in ch 54 are one mechanism, not a contradiction.** A
+  breakthrough on the Assembly floor is not reportable until a sitting officer *releases* it, and the
+  release is that officer's own act and cannot be compelled by anyone in the hall. Every advancement in
+  nine counties has gone out the instant an officer released it. So four seconds is the length of a man
+  deciding. In ch 54 she works out from the rule alone that the decision was **his** — the Chosen
+  One's report passes through the reader, and the reader can hold it. He must not volunteer it. Do not
+  write the four seconds as a malfunction, a pause, a delay, or something going wrong. They are the
+  visible edge of the choice she is looking straight at without knowing what it is, and the audience
+  realises before she does.
 - **Do not re-explain.** Construction watch: *nobody asked, nobody was thanked, there is no form, there
   is no column, the record remained, nobody knew.* All dead. Foundation-tax-as-withdrawal (ch 36),
   tax-takes-order (ch 38), damage-as-technique (ch 39), four-clause order (ch 40), layer-is-editable

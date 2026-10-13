@@ -138,7 +138,9 @@ The hall was completely quiet now.
 
 That landed in a room that had been hearing about harvests for four hours, and it landed as noise, and it landed because she said it in exactly the voice she used for reading tallies in a wash house, which was the only voice she had that nobody ever argued with.
 
-“The eighth day past, the same hour, the same advancement, in four counties of nine. Hanhui wrote that it was done for discipline. Shouyi wrote that no name had been given at all. Wanzhou wrote that a servant had done it. Lowwater wrote what was said. She had the sheets inside her coat and she did not take them out, because a person who takes out paper in a room of nine hundred becomes a person arguing about paper.
+“The eighth day past, the same hour, the same advancement, in four counties of nine. Hanhui wrote that it was done for discipline. Shouyi wrote that no name had been given at all. Wanzhou wrote that a servant had done it. Lowwater wrote what was said.”
+
+She had the sheets inside her coat and she did not take them out, because a person who takes out paper in a room of nine hundred becomes a person arguing about paper.
 
 “I have all four in a book in my coat in a hand that a Bureau clerk cannot read quickly. I am not showing it to you. I am telling you that it is in a book, with the date on it, and that a private advancement cannot be checked by anybody, ever, and that an announced one can be checked by four women in a market square who were not even in the room.”
 

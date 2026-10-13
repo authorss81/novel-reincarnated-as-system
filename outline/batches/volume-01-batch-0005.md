@@ -40,6 +40,7 @@ Chapter: 47
 POV and location: Ning Yan. The furnace crew's quarters, day one of four.
 Immediate goal: Not to be injured before the trial.
 Resistance: Nine hundred people watching her and four days of preparation and a sect that has already decided the interesting thing is the filing.
+Ash load: **The Cracking opened at the end of ch 46 and ash falls for eleven days.** Every one of ch 47–52 happens inside that fall. Day one: ash on the sill, in the lye, on the washing crew's backs, in her lungs. It is a cough hazard and a visibility hazard and it makes her stair climb cost more than it should. It must be a physical condition of every chapter in this run, not an event that only happens in 52.
 Major turn: Mei Jiu comes to her room and gives her the one thing nobody has — an inner disciple's compression technique, given for nothing, with no explanation and none ever offered.
 Information revealed: Mei Jiu is not going to compete with her. Mei Jiu has decided she would rather the Hall be frightened of what happens if Ning Yan is refused.
 Emotional change: An ally she did not ask for and cannot repay, which is the kind she understands best.
@@ -55,6 +56,7 @@ Chapter: 48
 POV and location: Ning Yan. A corridor outside the Assembly Hall, day two.
 Immediate goal: Not to sign anything before the trial.
 Resistance: The offer is genuinely excellent and is genuinely a bargain: inner sponsorship, Foundation within two years, the family account written off the day she signs, the Clay Tablet surrendered, and her silence about the layer.
+Ash load: Day two. Ash has got into the corridor and into the paper. The Hall's clerks are working with wet lungs and a brazier burning the wrong thing; the bargaining happens in a hall where everybody is coughing and pretending not to. Dust in the bargains.
 Information revealed: The Elder Hall's faction that wants Qiu gone has been running its own furnace arrangements and does not care who he was.
 Action or decision: She asks for one clause. The clause is that her brother's record be entered in the register as *reconciled* rather than left open. They agree. They agree immediately.
 Emotional change: The worst thirty seconds of the volume, because she nearly says yes.
@@ -64,17 +66,18 @@ Opening gate: n/a.
 Ending type: cost — she buys the only thing she wanted with the only thing she had left.
 Next-chapter pull: She has to sign it before the trial or lose it, and signing before the trial makes the trial look bought.
 
-## Chapter 49 — The Signature
+## Chapter 49 — Withheld
 
 Chapter: 49
 POV and location: Ning Yan. The Assembly Hall anteroom, day three.
 Immediate goal: Sign, and keep the trial clean.
 Resistance: Signing before the trial makes the trial look bought. Not signing loses the account and the brother and the tablet's protection.
+Ash load: Day three. Ash on the anteroom floor that boots carry in and do not carry out, so the floor is grey with it by the fourth hour. She is asked to wait in a room where the waiting is the point, and the ash gives her a cough she has to manage in public.
 Major turn: She signs **after** the trial, in front of witnesses, and refuses to give them a date until she has broken through. The Elder Hall does not agree. She waits.
 Information revealed: A document can be withheld as an act of leverage, and she learns how to hold one in Volume 2 and uses it on somebody she likes.
 Emotional change: She has crossed from asking for mercy to bargaining, and it happened in a corridor, and she did not notice it happening.
 Power or resource change: None.
-Continuity facts to preserve: She is not signed until ch 56. The offer lapses once and is renewed, which shows the Elder Hall wants her.
+Continuity facts to preserve: She is not signed until ch 56. The offer lapses once and is renewed, which shows the Elder Hall wants her. This chapter is **not** the signature — the title is about the holding, not the signing.
 Opening gate: n/a.
 Ending type: decision — she takes the trial first and the bargain second, and it is the first thing she has ever done from strength.
 Next-chapter pull: The trial is in the morning and she is not going to sleep.
@@ -85,12 +88,13 @@ Chapter: 50
 POV and location: Ning Yan. The Assembly Hall, dawn of the trial, before anything starts.
 Immediate goal: Be in the room when the accounts are read.
 Resistance: She has nothing to do with Qiu's fall and cannot affect it, which is exactly why it is in the chapter.
+Ash load: Day four, trial morning. The ash fall is at its heaviest and the hall doors have to be propped because ash packs the hinges. Everything in the room is grey and breathing it. He is stripped of the furnace in that air, in front of people whose lungs are full, which makes the scene worse than the cards otherwise read.
 Major turn: Qiu is stripped of the furnace on a procedural vote about an eleven-minute promotion, and he stands there and takes it without a word, and he says one sentence to her on the way out: *I have never once been asked what I am allowed to think.*
 Information revealed: The man is not a monster. The sentence is the thesis of the whole book and it comes from the villain and nobody understands it.
 Action or decision: She lets him go past. She does not say anything. She will spend three volumes being unable to say anything about this.
 Emotional change: She got what she came for and it does not feel like winning, and this is the first time she understands what Yuan feels like.
 Power or resource change: None.
-Continuity facts to preserve: Qiu is alive, pensioned, and returns in Volume 4 and Volume 9. The sentence is never repeated word for word until the final chapter.
+Continuity facts to preserve: Qiu is alive, pensioned, and returns in Volume 4 and Volume 9. The sentence is never repeated word for word until the final chapter. The ash continues through 51, 52 and 53 and is still falling in 55.
 Opening gate: n/a.
 Ending type: emotional consequence — a victory that costs her the only thing she wanted from it, which was an admission.
 Next-chapter pull: Her name is called.
@@ -134,6 +138,7 @@ POV and location: Ning Yan. The Hall floor, immediately after.
 Immediate goal: Get off the floor before the Hall's stewards.
 Resistance: Nine hundred witnesses, a roofless hall, and a clerk who has to write down what he just saw.
 Major turn: The announcement does not go out. Four seconds of nothing, in which the entire hall waits for a sound, and then it goes out, and it is not the sentence anyone expected.
+**Mechanics of the four seconds — this is fixed here and ch 54 must not contradict it.** The announcement cannot go out until it is *ruled*; a breakthrough on the Assembly floor is not reportable until a sitting officer releases it, and the rule is that the release is the officer's own act and cannot be compelled. Every advancement in nine counties has gone out the instant an officer released it. Four seconds is the length of a man deciding. Ch 54 reveals what the decision **was** — he held the release and let it go. The four seconds are not a mystery and not a malfunction; they are the visible edge of his choice, and she is looking straight at them without knowing what they are.
 Information revealed: The announcement includes her status. *Servant-born.* It has never included a status before, because no servant-born has ever advanced in the open.
 Action or decision: She does not get to choose the sentence. She gets to hear it, in front of everyone, with the whole bound listening.
 Emotional change: The loneliest four seconds of her life and then the loudest thing she has ever been part of.
@@ -149,7 +154,7 @@ Chapter: 54
 POV and location: Ning Yan. The Hall floor, minutes later, still in the debris.
 Immediate goal: Find out why he is quiet.
 Resistance: He is. For the first time since Chapter 3 he has nothing to say and he is letting her have the room.
-Major turn: He explains the choice. He had the authority to suppress the announcement. A suppressed breakthrough reads as nothing having happened; nothing having happened is what a furnace looks for. He chose the announcement over her safety because a servant-born who announces is too public to harvest quietly.
+Major turn: He explains the choice. The release of the announcement was his to make and nobody else's, because a Chosen One's report does not pass through a county clerk — it passes through the reader, and the reader can hold it. A suppressed breakthrough reads as nothing having happened; nothing having happened is what a furnace looks for. He held the release for four seconds and then let it go. He chose the announcement over her safety because a servant-born who announces is too public to harvest quietly. **He does not tell her about the four seconds being his. She works out that it was him from the rule alone, and that is worse, because it means he was the only person in nine counties who could have stopped it and the only one who chose not to.**
 Information revealed: The layer logged him for the first time. It has a name for him now and it is the one he had before he died.
 Emotional change: She understands him completely and she does not forgive him and she stays.
 Power or resource change: Yuan's Settlement passes two-thirds. He is at Ledger for about ninety seconds and refuses it.

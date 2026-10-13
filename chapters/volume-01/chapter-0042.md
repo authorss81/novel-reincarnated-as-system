@@ -62,7 +62,7 @@ She looked at the oldest woman.
 
 “That is the whole of our job.”
 
-“Then they are not making mistakes. Ning Yan kept her voice down, because two hundred people in a market were a different thing entirely from seven women in a soot room with a locked door. “Look at Wanzhou. Look at the wrist.
+“Then they are not making mistakes.” Ning Yan kept her voice down, because two hundred people in a market were a different thing entirely from seven women in a soot room with a locked door. “Look at Wanzhou. Look at the wrist.
 
 That hand has been unsteady since before I came down off the mountain, and the sentence on that sheet has no wobble in it at all. That sentence was handed to her. And look at Shouyi. That is not an ear, that is a copyist with good ink. And Hanhui — hold it to the lamp.”
 

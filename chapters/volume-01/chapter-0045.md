@@ -122,4 +122,4 @@ Two men had offered to arrange her life in exchange for her giving it up. The fi
 
 They had been the same offer. They had arrived in the same shape, in the same week, from the same building, and neither of them had cost the giver anything they would miss.
 
-She had been given her life twice by two different people and it had come to her in an envelope both times, and she had signed nothing, and she had a seal she did not want and a hearing she had asked for, and the floor was nine hundred people and a weather event, and the weather had opinions about everything in this world.
+She had been given her life twice by two different people and it had come to her in an envelope both times, and she had signed nothing, and she had a seal she did not want and a hearing she had asked for, and the floor was nine hundred people and a weather event, and she had never once in her life been on the side of the weather.
