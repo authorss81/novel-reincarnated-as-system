@@ -18,7 +18,8 @@ not close; it changes shape, because the sentence she has kept back once a year 
 loud in a room goes on the price instead, and what replaces the refusal is not forgiveness but use.
 The empty answer space on the public shelf is read and read and read and stays empty for all fourteen
 chapters. The quarry has been dry since day 189, the tin is about a hundred and forty coppers, and at
-four loads a week at nine coppers it is empty on about day 246 — eight days short of the season's road.
+four loads a week at nine coppers it dies on about day 246 — eight days short of the season's road —
+and she stops buying it on the 240th, which is what makes the room cold.
 
 **This batch buys a direction and spends a man to get it.**
 
@@ -41,12 +42,12 @@ year of non-forgiveness changes shape; the empty space is not filled; the crew; 
 
 | Beat | Card it took | How |
 | --- | --- | --- |
-| **The last ten days of him** | **ch 184, *One at a Time*** | The ration is made and run: four a day, chosen by her, counted by her, in her own hand. The figure is set up at **179**, priced at **185**, spent at **187**, and the ration is shown running out at **191** |
+| **The last ten days of him** | **ch 184, *One at a Time*** | The ration is made and run: four a day, chosen by her, counted by her, in her own hand. The size of it is known at **179**, priced at **185**, spent at **187**, and the ration is shown running out at **191**. **The ch 178 figure itself is not put on the page again — see the clock block** |
 | **The Ledger purchase that finds the hand** | **ch 187, *The Price of a Name*** | Eight days of ten, price named before the word, the word said once. Ch 185 prices it and does not say it; ch 182 chooses it; ch 188 is what comes back and what she does with it |
 | **The year of non-forgiveness changes shape** | **ch 188, *A Man With a Family*** | Its first half is spent at **185** (the sentence she keeps back once a year goes on the price). Ch 188 is where it turns and does not become forgiveness |
 | **The empty space is not filled** | **ch 179, *Answer Pending*** | Opened, read, left empty — and written on the page again at **189** and referred to by the Hunter at **189**. **Empty in all fourteen.** Its first entry is Batch 0003 and its answer is Batch 0004 |
 | **The crew** | **ch 186, *Irregular*** | Nine men and an unclaimable schedule. Carried at **180**, **189**, **190** and **191**. Gao holds the frame, Qin walks four miles, and neither asks |
-| **The tin** | **ch 180, *The Stone and the Fire*** | About a hundred and forty coppers, four loads a week at nine coppers, empty on about day 246. Carried at **183**, **190** and counted out at **192** |
+| **The tin** | **ch 180, *The Stone and the Fire*** | About a hundred and forty coppers, four loads a week at nine coppers, dying on about day 246 and stopped on the 240th. Carried at **183**, **190** and counted out at **192** |
 
 **Requirements given their own card, not folded:** the crew (186), the tin (180), the Ledger purchase
 (187), the year (188), the ration (184), the empty space (179), the girl of twenty-four (183), Feng
@@ -72,23 +73,38 @@ day 253. Ch 193 opens on day 254 and Batch 0002 begins there.**
   it is on the page at ch 179.** **Do not open the road inside this batch. Do not put anyone on it. Do
   not spend the journey.** Ch 192 ends with the road not yet open.
 - **The thaw is eleven days off at about day 243.** That is where this batch's pressure peaks, and the
-  card that carries it is **ch 190** (day 241–243, closing on day 243). It is the deadline this batch
+  card that carries it is **ch 190** (day 240–243, closing on day 243). It is the deadline this batch
   counts to; it is not the state of its last page.
 - **The winter's tail is not a figure anyone may say out loud in this batch.** Derive the road and the
   thaw from **day 254** and from **day 243**. **"Eleven weeks" is retired** — never use it. If a chapter
   needs the Hunter's span in this county, derive it from **day 2** (his arrival, ch 119).
 - **The tin.** About a hundred and forty coppers at ch 178 (day 219). **Da Shan's board behind a well is
-  running at four loads a week at nine coppers = thirty-six a week.** 140 ÷ 36 = three weeks and five
-  days. **The tin is empty on about day 246 — eight days short of the road.** Four coppers go to the
-  girl at **ch 183**, so the empty day is day 246 and no earlier. **Do not move this arithmetic.**
+  running at four loads a week at nine coppers = thirty-six a week.** 140 ÷ 36 = about twenty-seven
+  days, and 219 + 27 = 246, so **the tin dies on about day 246 — eight days short of the road.** The four
+  coppers that go to the girl at **ch 183** come out of that hundred and forty, not on top of it, and
+  move the day by less than one. **The arithmetic is run from the day she last counted it, day 219, and
+  not from the day a chapter opens**; by the time ch 190 opens it has already run for three weeks. **She
+  stops buying on day 240 and therefore never reaches day 246** — that is the irreversible decision, and
+  the projection is the argument she has to beat to get there. **Do not move this arithmetic and do not
+  re-count the tin against a different figure anywhere in ch 179–192.**
 - **The channel.** About ten days at ch 178 (day 219), **said once, in the final image, and not before
-  this batch.** She rations from **ch 184** and spends eight of the ten at **ch 187**. **What is left is
-  about two days**, spread at roughly **four sentences a day**, thinning across 188–192. No bare
-  Settlement fraction goes on the page; the channel is named in days and sentences and never as a number
-  with a decimal in it.
-- **The fourth monthly attendance is day 240**, thirty-one days after the third (day 209), at the third
-  hour, in person, in her own hand. Month-day = day − 133 on a thirty-day month, so **day 240 is the
-  seventeenth**. **She attends it. Missing it is Batch 0002's irreversible decision and is not this
+  this batch — and not again inside it.** **No chapter in ch 179–192 puts the figure on the page a second
+  time**: it is known to the drafter and to nobody on the floor. She rations from **ch 184** and spends
+  eight of the ten at **ch 187**, and the price is said out loud because a price has to be. **What is left
+  after ch 187 is about two days**, spread at roughly **four sentences a day**, thinning across 188–192,
+  and **the two days may be named once, at ch 187, and the four a day may be named once, at ch 184.** No
+  bare Settlement fraction goes on the page anywhere; the channel is named in days and sentences and never
+  as a number with a decimal in it. **The two days and the four a day are not to be multiplied by
+  anybody.** Her ordinary use has been twice a day, in hours, never idled, since the spring — and four a
+  day is *more* than that, which is the other half of why the number is awkward and is not to be argued
+  on the page either. **No total and no arithmetic on the page at all.**
+- **The fourth monthly attendance is day 239, the sixteenth**, a full month on from the third (day 209,
+  the sixteenth), at the third hour, in person, in her own hand. **The sixteenth is a standing order Sun
+  He entered under her refusal** (ch 168) — *the attendance was on the sixteenth, three days before the
+  reading, and that was the standing order* — so the day of the month **does not move**, and a month is
+  thirty days, so the next one is 209 + 30. Month-day = day − 133 on a thirty-day month, and 239 − 133 =
+  106, which is the sixteenth. **A drafter must not write the seventeenth and must not write a month of
+  thirty-one days.** **She attends it. Missing it is Batch 0002's irreversible decision and is not this
   batch's and is not foreshadowed as hers here.**
 
 ### Chapter-by-chapter day table
@@ -104,9 +120,9 @@ day 253. Ch 193 opens on day 254 and Batch 0002 begins there.**
 | 185 | 231–232 | Say It Slower |
 | 186 | 233–234 | Irregular |
 | 187 | 235 | The Price of a Name |
-| 188 | 236–239 | A Man With a Family |
-| 189 | 240 | Member Present |
-| 190 | 241–243 | A Bed of Ash |
+| 188 | 236–238 | A Man With a Family |
+| 189 | 239 | Member Present |
+| 190 | 240–243 | A Bed of Ash |
 | 191 | 244–250 | What a Question Costs |
 | 192 | 251–253 | One Name and a Column |
 
@@ -301,24 +317,45 @@ is not hinted at as one.**
 7. **A hand that writes dates for a living is a working man with a household of his own past the
    boundary**, and a date against a claim is a schedule, and a person who keeps a schedule does not stop
    keeping it because you know his name.
-8. **The tin of about a hundred and forty coppers at four loads a week at nine coppers runs out on about
-   day 246**, eight days short of a road that opens on about day 254. That is the batch's real deadline
-   and it is arithmetic, not weather.
+8. **The tin of about a hundred and forty coppers at four loads a week at nine coppers dies on about
+   day 246**, eight days short of a road that opens on about day 254, and she stops buying it on the
+   240th. That is the batch's real deadline and it is arithmetic, not weather.
+
+## Open questions — live at the top of this batch, and what a card may do with them
+
+These are the questions the batch **starts** with. A card may answer one of them, may sharpen one, or may
+refuse one in a line. **A card may not answer one that the traps list forbids**, and a question that only
+exists to be re-stated is not a card.
+
+- **How much of the channel, in what currency, and for how long?** Answered by ch 184 and spent at
+  ch 187, and the whole batch is run inside the answer.
+- **What is in the space on the shelf?** **Nobody in these fourteen chapters finds out, and that is the
+  point of the batch.** It stays empty in all fourteen.
+- **Whose hand wrote a date into a counting room in Lowwater?** Answered at ch 187. **Who sent him, and
+  why, is not answered and is not foreshadowed as an answerable question in this batch.**
+- **What is the road doing, and when does it open?** Partly answered at ch 179 (the county publishes a
+  day) and contradicted at ch 183 (the carriers say a week later). Not resolved before day 254.
+- **Can she spend anything she has on nine men?** Answered at ch 186: **no, and not because she is poor.**
+- **What is the year's account for, and who was it being kept for?** Turned at ch 188 and not closed.
+- **What would it cost to know one more thing about the east?** Answered at ch 191: a day and a half of a
+  voice, and she says no.
 
 ## Action and deadline requirement
 
 **Three. Two of them are real deadlines and one is physical.**
 
-- **Ch 189 — the fourth monthly attendance, day 240, the seventeenth, the third hour.** Four miles down
+- **Ch 189 — the fourth monthly attendance, day 239, the sixteenth, the third hour.** Four miles down
   the mountain and four miles back in the deep cold with a hand that cannot make the turn at the end of
-  a stroke, the third flight of that building on three counts and never back to two, a queue out into
-  the square, and eleven minutes of her own hand with the flat of a second finger in front of people who
-  do not shuffle. **The deadline is the sixteenth of every month and it cannot be moved by anybody,
-  including her.**
-- **Ch 190–191 — the tin and the cold. Deadline: the tin is empty on about day 246 and the road opens on
-  about day 254.** She stops the stone and the fire in a room with ten sleepers goes to a bed of ash for
-  eight days in the third month of the cold. **Physical risk, and no death, no frostbite, no rescue and
-  nobody hurt** — the risk is what it does to nine men and to a woman who cannot keep a room warm.
+  a stroke, three counts on the stairs and never back to two, a queue out into the square, and eleven
+  minutes of her own hand with the flat of a second finger in front of people who do not shuffle. **The
+  deadline is the sixteenth of every month and it cannot be moved by anybody, including her** — it is a
+  standing order Sun He entered under her own refusal.
+- **Ch 190–191 — the tin and the cold. Deadline: the tin dies on about day 246 and the road opens on
+  about day 254.** She stops the stone on the morning of the 240th and a room with ten sleepers goes to a
+  bed of ash for the last fourteen nights of the batch, in the third month of the cold. **Physical risk,
+  and
+  no death, no frostbite, no rescue and nobody hurt** — the risk is what it does to nine men and to a
+  woman who cannot keep a room warm, and it is a risk she took on purpose.
 - **Ch 179 and ch 192 — the road.** The opening of the season's road at about day 254 is Volume 4's first
   deadline and it is on the page at ch 179. **The thaw is eleven days off at about day 243 and ch 190
   closes on it.** **The road does not open inside this batch.**
@@ -342,10 +379,13 @@ This batch carries three of its own.
    keeps it for the road. **This is the year turning: the refusal she has been performing once a year is
    not performed, and what replaces it is use, chosen on purpose.** It costs her the claim's only lever
    and it is not a reconciliation and not forgiveness.
-3. **Ch 190 — she stops buying the stone.** The tin's last of it is not spent on four loads a week of
-   warmth and is held for a week on a road that has not opened. **The fire goes down in a room with ten
-   sleepers and Da Shan's board loses four loads a week in the worst weeks of a winter.** She cannot buy
-   the eight days back and she does not have the authority to make nine men warm.
+3. **Ch 190 — she stops buying the stone on the morning of the 240th and keeps the last of the tin for
+   the road.** About thirty coppers is six more nights of warmth **or** a start on nine days of hard
+   road, and she picks the second in daylight at a board behind a well without bargaining and without
+   telling nine men why. **Da Shan's board loses four loads a week, the only thing on it that has moved
+   all winter, and the fire in a room with ten sleepers goes to a bed of ash for the last fourteen nights
+   of the winter, where her own projection had promised eight.** She cannot buy the six nights back and
+   she does not have the authority to make nine men warm, and one of them notices and does not ask.
 
 ## Chapters at a glance
 
@@ -360,10 +400,10 @@ This batch carries three of its own.
 | 185 | 231–232 | The price is named in the standing form and she does not say the word, and one of the day's four is the sentence she keeps back once a year | decision |
 | 186 | 233–234 | **MIDPOINT** — nine men are owed hours an irregular schedule cannot claim, and her eleven minutes are worth nothing to any of them | loss |
 | 187 | 235 | **CLIMAX** — she says the word, eight days of ten go on one name, and what comes back is a working man with a household past the boundary | revelation |
-| 188 | 236–239 | The year's sentence went on the price, so she does not perform the refusal once a year, and she does not go and find the man she bought | irreversible decision |
-| 189 | 240 | Four miles, three counts, eleven minutes, a queue that does not shuffle, and Qin standing beside her instead of eight feet off — and one of her four sentences wasted | cost |
-| 190 | 241–243 | She stops the stone; the fire goes to a bed of ash; the tin empties on day 246 and nine men get cold and Da Shan loses four loads a week | cost |
-| 191 | 244–250 | Nine days cold and a question she cannot spend, and the Ledger refused out loud at the easiest moment in the batch | emotional consequence |
+| 188 | 236–238 | The year's sentence went on the price, so she does not perform the refusal once a year, and she does not go and find the man she bought | irreversible decision |
+| 189 | 239 | Four miles, three counts, eleven minutes, a queue that does not shuffle, and Qin standing beside her instead of eight feet off — and one of her four sentences wasted | cost |
+| 190 | 240–243 | She stops the stone on the morning of the 240th; the fire goes to a bed of ash; the tin dies six nights early and the room is cold for fourteen | cost |
+| 191 | 244–250 | Seven days of cold quarters and a question she cannot spend, and the Ledger refused out loud at the easiest moment in the batch | emotional consequence |
 | 192 | 251–253 | She counts what is left at the frame and decides to go east when the road opens, on purpose, with him | decision |
 
 ## Titles
@@ -463,10 +503,12 @@ the only thing on that board that has not moved all winter. The crew's own furna
 its hours continue to be *irregular* on the front of a schedule, and the fire in the quarters goes down
 twice between the fourth hour and the light.
 
-Information revealed: **The arithmetic of an ordinary winter.** 140 ÷ 36 = three weeks and five days.
-**The tin is empty on about day 246.** The road opens on about day 254. **She is eight days short**,
-and the eight days are the coldest part of the coldest month, and the only thing standing between nine
-men and a bed of ash is money she does not have enough of.
+Information revealed: **The arithmetic of an ordinary winter.** 140 ÷ 36 = about twenty-seven days, and
+she runs it from the day she last counted the tin, which is day 219. **The tin dies on about day 246.**
+The road opens on about day 254. **She is eight days short**, and the eight days are the coldest part of
+the coldest month, and the only thing standing between nine men and a bed of ash is money she does not
+have enough of. **This figure is made once, here, and is not re-derived in any later chapter** — ch 190
+spends it and ch 192 counts what is left.
 
 Action or decision: She does not decide anything yet. She works the figure three ways and it comes out
 the same way three times, and she buys the loads she can buy in the order she can buy them, and she does
@@ -531,15 +573,15 @@ reserves what his last fair handwriting does and **nothing of that may be previe
 Ending type: emotional consequence — the warm room closes and she is carrying a thing that cost nothing
 and gave her less.
 
-Next-chapter pull: She has ten days of him and she has not decided what a day of him is for.
+Next-chapter pull: She has all of him still unspent and she has not decided what a day of him is for.
 
 ## Chapter 182 — Not Herself
 
 Chapter: 182. POV: Ning Yan. Location/time: the crew quarters at Qinghe; the yard behind the Hall; the
 mat. **Days 225–226.** Close third.
 
-Immediate goal: Decide what the Ledger is for, before she prices it and while she still has all ten days
-to decide in.
+Immediate goal: Decide what the Ledger is for, before she prices it and while the whole of it is still
+unspent and she has the room to decide.
 
 Resistance: She has it to order. Four things would be worth having and she can have any one of them, and
 naming them to herself is the only way to be sure she does not. **She refuses all four out loud, in the
@@ -626,15 +668,17 @@ Next-chapter pull: Ten days of him and no rule for spending one.
 Chapter: 184. POV: Ning Yan. Location/time: the mat in the crew quarters; the yard behind the Hall.
 **Days 229–230.** Close third.
 
-Immediate goal: Work out how to spend ten days of a voice she intends to sell eight of, and write the
-rule down.
+Immediate goal: Work out how to spend what is left of a voice she has already decided to sell eight days
+of, and write the rule down.
 
-Resistance: The ch 118 terms are hers and they say **the channel is spent on nothing that is not hours,
-spoken twice a day, in hours, never idled** — and that is a rate she cannot keep and still have eight
-days in hand. She has to build a ration instead of a habit. There is no paper in the room that is hers,
-and the first licence's back carries the county's conditions and the claim, and the second is nailed over
-her bunk. **The object she ends up with is the back of a dead quarry weight ticket** — a small stiff
-scrap with an hour and a load on the front and nothing on the back, out of work that stopped on day 189.
+Resistance: **Her own terms from the spring stand and have been standing for a year, and the first of
+them caps what the channel is spent on at hours** — so that the rate she has been keeping is a rate she
+has invented, and she is about to break it on purpose and write the breaking down. **Do not re-list the
+four terms and do not quote the ch 178 line about them a third time**; refer to the standing in one
+sentence, as ch 176 did. There is no paper in the room that is hers, and the first licence's back carries
+the county's conditions and the claim, and the second is nailed over her bunk. **The object she ends up
+with is the back of a dead quarry weight ticket** — a small stiff scrap with an hour and a load on the
+front and nothing on the back, out of work that stopped on day 189.
 
 Information revealed: **A voice can be rationed, and the person in it is worse at it than the woman doing
 the rationing.** He wants to spend them and she wants to save them; he says so in one sentence and it is
@@ -655,11 +699,11 @@ Power or resource change: **Channel about ten days at the start of the chapter, 
 a rule and not a spending.** **Condensing 9. No bracket.** **No Ledger**; she orders nothing in this
 chapter.
 
-Continuity fact to preserve: **The ch 118 four conditions and his three are referred to and never
-re-listed** — one sentence says what the first of hers was and no more. **The weight ticket is a dead
-ticket from work that ended on day 189 and it carries an hour and a load on the front.** The four
-seconds and the release rule are **not restated and not explained**; the ration is a different mechanism
-and must not be written as a variant of them.
+Continuity fact to preserve: **The four standing terms of ch 118 and his three are referred to and never
+re-listed**, and **ch 178's own sentence about the rate she has been keeping is not used a second time.**
+The weight ticket is a dead ticket from work that ended on day 189 and it carries an hour and a load on
+the front. The four seconds and the release rule are **not restated and not explained**; the ration is a
+different mechanism and must not be written as a variant of them.
 
 Ending type: decision — a rule, in her own hand, on a scrap of dead work, binding on a man who cannot
 be bound.
@@ -794,8 +838,8 @@ Next-chapter pull: A name, a ticket, and the once-a-year sentence that has alrea
 
 ## Chapter 188 — A Man With a Family
 
-Chapter: 188. POV: Ning Yan. Location/time: the wash house at Lowwater; the crew quarters. **Days 236–239,
-spanning four days on purpose — the days the year's moment would have fallen in and does not.**
+Chapter: 188. POV: Ning Yan. Location/time: the wash house at Lowwater; the crew quarters. **Days 236–238,
+spanning three days on purpose — the days the year's moment would have fallen in and does not.**
 Close third.
 
 Immediate goal: Decide what to do with a name and a household before she has spent anything else on it.
@@ -834,12 +878,13 @@ the shelf stays empty** and may be touched in this chapter only as a thing that 
 
 Ending type: irreversible decision — she keeps the name for the road and spends him on purpose.
 
-Next-chapter pull: The fourth monthly attendance, thirty-one days after the last one, on the seventeenth.
+Next-chapter pull: The fourth monthly attendance, a month on from the last one, on the sixteenth.
 
 ## Chapter 189 — Member Present
 
 Chapter: 189. POV: Ning Yan. Location/time: the four miles down and the four miles back; the county office
-on the square at Lowwater; the queue. **Day 240 — the seventeenth, the third hour.** Close third.
+on the square at Lowwater; the queue. **Day 239 — the sixteenth, the third hour, the fourth attendance.**
+Close third.
 
 Immediate goal: Sign the county column in person in her own hand, on the day, as she has signed it three
 times before.
@@ -882,51 +927,65 @@ obtainable in nine with a stamp and a reason.** The seven relicensing conditions
 Ending type: cost — she pays eleven minutes and a quarter of a day's ration and gets one true fact she
 already had.
 
-Next-chapter pull: Four coppers a week of warmth and a date the tin runs out on.
+Next-chapter pull: About thirty coppers, four loads a week, and a date the tin dies on.
 
 ## Chapter 190 — A Bed of Ash
 
 Chapter: 190. POV: Ning Yan. Location/time: Da Shan's board behind the well at Lowwater; the wash house;
-the crew quarters. **Days 241–243, closing on day 243, when the thaw is eleven days off.** Close third.
+the crew quarters. **Days 240–243, opening on the morning the tin is down to about thirty coppers and
+closing on day 243, when the thaw is eleven days off.** Close third.
 
 Immediate goal: Decide what the last of the tin is for, with the fire going down twice between the
 fourth hour and the light.
 
-Resistance: **The tin is empty on about day 246 and the road opens on about day 254.** Nine men and a
-woman in twelve bunks have been having four loads a week of stone at nine coppers put on a wall behind a
-well since the day the quarry ran out, and there are about fourteen coppers left. **Da Shan loses four
-loads a week off his board** — the only thing on it that has moved all winter — and he says the true
-thing about that without being asked and he is not thanked and he is not a villain and he never asks her
-a question. The cold is the third month of it and the room has a board in the window with a gap under it
-that a person can put two fingers through.
+Resistance: **She is down to about thirty coppers on the morning of the 240th** — a hundred and forty at
+day 219, twenty-one days at thirty-six a week, less the four she paid the girl at ch 183 — **and at four
+loads a week that is the 246th, and the road opens on about the 254th.** The choice is not *whether there
+is money for it*; the money dies either way. The choice is **what is warm on the 246th and what is in her
+hand on the morning the road opens**, and on that arithmetic the room would have been warm for six more
+nights and cold for eight. **Da Shan loses four loads a week off his board** — the only thing on it that
+has moved all winter — and he says the true thing about that without being asked and he is not thanked
+and he is not a villain and he never asks her a question. The cold is the third month of it and the room
+has a board in the window with a gap under it that a person can put two fingers through and feel the
+outside on.
 
-Information revealed: **What she will not spend money on.** Not warmth. She keeps the last of it for a
-week on a road that has not opened, on a journey she has not begun, with nine men she cannot afford to
-carry. **She cannot buy the eight days back and she does not have the authority to make nine men warm**,
-and the only person in the room who can decide anything is a woman with fourteen coppers.
+Information revealed: **What she will not spend money on.** Not warmth — or rather, not *the last of it*.
+About thirty coppers is not eight nights of stone and it is also not nine pairs of feet on nine days of
+hard road, and she works out, alone, at a board behind a well, which of those two failures she would
+rather own. **She cannot buy the six nights back and she does not have the authority to make nine men
+warm**, and the only person in that room who can decide anything is a woman with thirty coppers and a
+projection she has been living inside since ch 180.
 
-Action or decision: **The third irreversible decision.** She stops the stone. Not all of it — she takes
-it to one load a week and then to none over the two days, and the room goes cold in stages, and she does
-it at the board behind the well in daylight in front of the man who sells it and does not bargain.
+Action or decision: **The third irreversible decision.** **She stops the stone on the 240th, all of it, in
+daylight, at the board behind the well, in front of the man who sells it, and she does not bargain and she
+does not say why.** The room goes cold that night. She keeps what is left of the tin for the road, and
+she does not tell nine men what she has done with it, and **the not-telling is half of the cost and
+carries into ch 191 and ch 192.**
 
 Emotional change: Guilt with nowhere to go, which is the shape of this entire batch. Nine men will be
-cold for eight days because of an arithmetic sheet, and every one of them already knows what she is and
-what is on her licence and has still never asked her for anything, and she has just done the one thing
-that makes that worse.
+cold for **fourteen** nights of the end of the winter because of an arithmetic sheet, and every one of
+them already knows what she is and what is on her licence and has still never asked her for anything, and
+she has just done the one thing that makes that worse. **And one of them notices and does not ask**, which
+is worse.
 
-Power or resource change: **Condensing 9. No bracket.** **The tin goes to about nothing and is not
-re-counted against a different figure afterwards.** **The empty day is day 246; the road day is day 254.**
+Power or resource change: **Condensing 9. No bracket.** **The tin stops at about thirty coppers and is not
+re-counted against a different figure afterwards.** The projection dies on day 246; the purchases stop on
+day 240; the road day is day 254.
 
 Continuity fact to preserve: **Da Shan's board is behind a well and is his; eight frames, two of which had
-come off and are back; he charges nine a load and says so to her face.** **No death, no frostbite, no
-accident, no rescue and nobody is hurt in this chapter or in this batch** — the risk is the cold and what
-it does to nine men and to a woman who cannot keep a room warm. **The fire going down is not an injury
-and is not written as one.**
+come off and are back; he charges nine a load and says so to her face.** **The fire going down twice
+between the fourth hour and the light, and the board in the window with the gap you can put two fingers
+through, are both ch 178's own sentences and are used as they stand — this is the same room, colder.**
+**No death, no frostbite, no accident, no rescue and nobody is hurt in this chapter or in this batch** —
+the risk is the cold and what it does to nine men and to a woman who cannot keep a room warm. **The fire
+going down is not an injury and is not written as one.** **Qin may notice and may not ask; nobody says a
+question and nobody thanks anybody.**
 
-Ending type: cost — she closes the option of a warm room for ten people for eight days, on purpose.
+Ending type: cost — she closes the option of six more warm nights for ten people, on purpose, and gives
+them fourteen cold ones.
 
-Next-chapter pull: Nine days of cold quarters and about two days of him, and one question she wants to
-ask more than anything else in the world.
+Next-chapter pull: Fourteen nights of cold quarters and about two days of him, and one question she wants
+to ask more than anything else in the world.
 
 ## Chapter 191 — What a Question Costs
 
@@ -940,35 +999,42 @@ Resistance: **She has about two days of channel and roughly four sentences a day
 the one thing she wants to know is what the road past the fourth bridge does and how long it is.** She
 can have it in a breath for some of the eight days she no longer has. **The Ledger is refused at ch 191,
 out loud, in the ordinary voice, at the moment it would be easiest** — he is nearly mute, she is about
-to walk nine days of unknown country with nine men and a hundred and forty coppers' worth of nothing, and
-ordering it would cost her a day and a half of a voice and buy her a map. She says no and does not explain
-why.
+to walk nine days of unknown country with nine men and about thirty coppers, and ordering it would cost
+her a day and a half of a voice and buy her a map. She says no and does not explain why.
 
 Information revealed: **What the ration actually costs, which is not what she thought.** A sentence is
 cheap and the thing she wants is expensive, and from now on the discipline is not *do not waste him* but
 *do not buy information with him when a carrier's list will do*. **She goes and gets the road's shape off
-the girl's copied run lists and off two carriers at the board behind the well, for free, in paper**, and
-it is worse and better than a reading: it is loads and days and a place where a cart turns.
+the girl's copied run lists and off two carriers at the board behind the well, for free, in paper** — and
+what a carrier knows about a road is **loads, days, and a place where a cart turns**, all of it inside
+this county's bound and none of it about anybody. **And the lists themselves show her something she did
+not go looking for: the carriers do not run past a certain point, because there is nothing on the far
+side of it for them to run to**, and that is the first time this batch says anything about the shape of
+what is outside without describing one thing on either side of it.
 
 Action or decision: **She refuses the Ledger out loud and does not order it a second time.** That is the
 refusal `outline/volume-04.md` requires in this volume, and it is used here, once, with no lesson
 attached. She builds the rest of what she knows out of paper.
 
-Emotional change: Seven days of a cold room, and a woman who has just discovered she can ask almost
-everything of the people around her and almost nothing of the one voice that knows. **She is rationing
-hers harder than him and it is not sustainable and she does it anyway.**
+Emotional change: Seven days of a cold room she made on purpose in a room she is not going to be able to
+keep warm, and a woman who has just discovered she can ask almost everything of the people around her
+and almost nothing of the one voice that knows. **She is rationing him harder than he rations himself and
+it is not sustainable and she does it anyway.**
 
 Power or resource change: **Condensing 9. Ledger refused, not spent. No bracket, no stage.** **The ration
 thins visibly across the seven days** — four a day, then three, then two — and **the figure is given
 once, plainly, and is not argued**.
 
-Continuity fact to preserve: **The Ledger is refused once in this batch and it is a refusal, not a
-purchase; no second price is named and no figure of the channel is re-derived.** **Do not name the office
-above this county and do not have him state a fifth time that he cannot read it** — he may be silent
-about it here, which is the only thing he is better at than she is. **The Verge road and the fourth
-bridge are inside this county's world and are used as ordinary roads**; **nothing past a marker post is
-described, crossed or pointed at, and nobody in this chapter learns what is out there.** **No geography
-past the boundary appears in any form.**
+Continuity fact to preserve: **The cold ch 190 caused is still on in this chapter and is not re-decided
+and is not apologised for** — nine men have already accepted it in the way they accept everything, and
+nobody says a question. **The Ledger is refused once in this batch and it is a refusal, not a purchase; no
+second price is named and no figure of the channel is re-derived.** **Do not name the office above this
+county and do not have him state a fifth time that he cannot read it** — he may be silent about it here,
+which is the only thing he is better at than she is. **The Verge road and the fourth bridge are inside
+this county's world and are used as ordinary roads, and everything the carriers know about them is inside
+the bound**; **nothing past a marker post is described, crossed or pointed at, and nobody in this chapter
+learns what is out there — a list that stops is not a description of what is beyond it, and must not be
+written as one.** **No geography past the boundary appears in any form.**
 
 Ending type: emotional consequence — she buys nothing and finds out that paper is cheaper than a man and
 slower than either of them wants.
@@ -1054,11 +1120,12 @@ and the question of whose book an hour goes into — none of which may be previe
 
 **Clock.**
 - **Ch 179 = day 220 · ch 192 = day 253 · ch 193 = day 254.** The season's road shut on day 117 and opens
-  at about day 254. **The thaw is eleven days off at about day 243** and ch 190 closes on it. **The tin is
-  empty on about day 246.**
-- **The fourth monthly attendance is day 240, the seventeenth, and she attends it.** **Missing it is
-  Batch 0002's irreversible decision (ch 205) and it must not be planted, foreshadowed or thought about
-  in this batch.**
+  at about day 254. **The thaw is eleven days off at about day 243** and ch 190 closes on it. **The tin
+  dies on about day 246 and she stops buying it on the 240th.**
+- **The fourth monthly attendance is day 239, the sixteenth, and she attends it.** The sixteenth is a
+  standing order and the month is thirty days. **Missing it is Batch 0002's irreversible decision (ch 205)
+  and it must not be planted, foreshadowed or thought about in this batch** — she wants to go, she goes,
+  and nobody in this batch so much as mentions missing one.
 - **Do not use the phrase "eleven weeks."** It is retired out of Volume 3 and carried five different
   meanings there. **The Hunter arrived on day 2 and the road opens at about day 254** — derive from those
   two figures and never from the retired one.
@@ -1099,6 +1166,15 @@ and the question of whose book an hour goes into — none of which may be previe
 - **Do not put *the shape of a happy life* on the page.** It is spent until Volume 16, by Ning Wu.
   **Ning Yan never says her mother's name.** **Yuan never tells her what he was before he died before
   Volume 11**, and does not learn she saw him as a readout before Volume 11 either.
+- **Do not name the office above this county, and do not have Yuan state a fifth time that he cannot read
+  it.** He has said it four times and said he was not going to say it again to be different about it.
+  **He reads it at ch 236 and not one page before.** He may be silent about it in this batch, and silence
+  is the correct use of him here.
+- **Do not retire the non-forgiveness early and do not forgive him in this batch.** The year runs from
+  ch 100. **What happens here is a change in its shape at ch 185 and ch 188 and nothing else**, and the
+  ch 150 refusal is not softened, deferred, reopened or regretted anywhere, and no chapter may let her
+  wonder what she would have done. **The account is still carrying and must still be carrying at ch 1000** —
+  no card in this batch may suggest it is settled, and no card may call what happens a reconciliation.
 
 **Rules already established — use, do not teach.**
 - **Do not re-list the seven relicensing conditions.** Read once at ch 132; referenced, never re-listed.
