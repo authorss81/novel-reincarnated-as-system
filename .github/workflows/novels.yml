@@ -1,0 +1,302 @@
+name: novel-batch
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+    inputs:
+      probe:
+        description: "Run a model and repository-secret probe without writing novel files"
+        required: false
+        default: false
+        type: boolean
+  repository_dispatch:
+    types: [novel_tick]
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+concurrency:
+  group: novel-${{ github.repository }}-writer
+  cancel-in-progress: false
+
+env:
+  OPENCODE_API_KEY: ${{ secrets.OPENCODE_API_KEY }}
+  GH_TOKEN: ${{ github.token }}
+  DISABLE_DIRECT_DISPATCH: "1"
+  NOVEL_MODEL: opencode/space-bunny-free
+  NOVEL_FALLBACK_MODELS: opencode/muse-spark-1.3-contributor-free,opencode/muse-spark-1.2-contributor-free,opencode/nemotron-3-ultra-free,opencode/nemotron-3.5-lightning-free,opencode/mimo-v2.6-flash-free,opencode/ling-3.0-flash-fin-free
+
+jobs:
+  probe:
+    if: ${{ inputs.probe == true }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Install OpenCode
+        run: bash scripts/install_opencode.sh logs
+      - name: Create logs directory
+        run: mkdir -p logs
+      - name: Check repository secret
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [ -z "${OPENCODE_API_KEY:-}" ] || [ "$OPENCODE_API_KEY" = "***" ] || [ "${#OPENCODE_API_KEY}" -lt 10 ]; then
+            echo "OPENCODE_API_KEY is missing, masked, or too short"
+            exit 1
+          fi
+          echo "OPENCODE_API_KEY is present"
+      - name: Probe models
+        shell: bash
+        run: |
+          set -euo pipefail
+          probe_log="logs/model-probe.log"
+          : > "$probe_log"
+          for model in opencode/space-bunny-free opencode/muse-spark-1.3-contributor-free opencode/muse-spark-1.2-contributor-free opencode/nemotron-3-ultra-free opencode/nemotron-3.5-lightning-free opencode/mimo-v2.6-flash-free opencode/ling-3.0-flash-fin-free; do
+            safe_name="${model//\//_}"
+            if timeout 90s opencode run --model "$model" --agent novel-reviewer "Do not edit files. Reply with exactly NOVEL_MODEL_PROBE_OK and the model name." > "logs/probe-${safe_name}.log" 2>&1 && grep -q "NOVEL_MODEL_PROBE_OK" "logs/probe-${safe_name}.log"; then
+              echo "MODEL_PROBE_OK $model"
+              exit 0
+            fi
+            echo "MODEL_PROBE_FAILED $model"
+          done
+          echo "MODEL_PROBE_FAILED_ALL"
+          cat "$probe_log"
+          exit 1
+
+  run-batch:
+    if: ${{ inputs.probe != true }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    permissions:
+      contents: write
+      actions: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Install OpenCode
+        run: bash scripts/install_opencode.sh logs
+      - name: Create logs directory
+        run: mkdir -p logs
+      - name: Record available models
+        run: opencode models | tee logs/models.log
+      - name: Run next novel batch
+        run: bash scripts/novel_runner.sh
+      - name: Request EPUBs for a finished manuscript
+        # A push made with GITHUB_TOKEN does not trigger other workflows, so the
+        # build is requested explicitly once the novel and its synopsis exist.
+        # Never fatal: the epub workflow also polls on a schedule.
+        if: ${{ hashFiles('state/complete.md') != '' && hashFiles('state/synopsis.md') != '' }}
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -uo pipefail
+          gh api -X POST "repos/${GITHUB_REPOSITORY}/actions/workflows/epub.yml/dispatches" --silent \
+            && echo "requested an EPUB build" \
+            || echo "could not request an EPUB build; the scheduled build will pick it up"
+
+  retrigger:
+    needs: run-batch
+    if: ${{ always() && needs.run-batch.result != 'cancelled' && needs.run-batch.result != 'skipped' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - name: Checkout latest main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Check phase state and wait out any backoff
+        id: phase
+        env:
+          RETRIGGER_MAX_WAIT_SECONDS: "1500"
+        run: |
+          set -euo pipefail
+          exists=false
+          has_done=false
+          has_blocked=false
+          has_deferred=false
+          next_retry=""
+          deadline=$(( $(date +%s) + RETRIGGER_MAX_WAIT_SECONDS ))
+
+          scan() {
+            local scan_now prompt phase_dir retry_at
+            exists=false
+            has_deferred=false
+            next_retry=""
+            scan_now="$(date +%s)"
+            while IFS= read -r prompt; do
+              [ -n "$prompt" ] || continue
+              phase_dir="$(dirname "$prompt")"
+              if [ -f "$phase_dir/.retired" ]; then
+                continue
+              fi
+              # Anchored on punctuation, matching the runner. A loose
+              # 'Retired ... phase' match skipped real phases whose prose merely
+              # mentioned the word.
+              if grep -qiE '^retired[.:]' "$prompt"; then
+                continue
+              fi
+              # Mirror the runner's rule: a volume outline phase whose outline
+              # already exists is finished work, not pending work.
+              if [ ! -f "$phase_dir/.done" ]; then
+                first_line_lc="$(head -n 1 "$prompt" | tr '[:upper:]' '[:lower:]')"
+                if [[ "$first_line_lc" =~ volume[[:space:]]+([0-9]+).*outline.*phase ]]; then
+                  outline_vol="${BASH_REMATCH[1]}"
+                  if [ -f "outline/volume-${outline_vol}.md" ] && ! find "$phase_dir" -name 'chapter-*.md' -print -quit | grep -q .; then
+                    continue
+                  fi
+                fi
+              fi
+              if [ -f "$phase_dir/.retry-after" ]; then
+                retry_at="$(cat "$phase_dir/.retry-after" 2>/dev/null || echo 0)"
+                if [ "$retry_at" -gt "$scan_now" ]; then
+                  has_deferred=true
+                  if [ -z "$next_retry" ] || [ "$retry_at" -lt "$next_retry" ]; then
+                    next_retry="$retry_at"
+                  fi
+                  continue
+                fi
+              fi
+              if [ ! -f "$phase_dir/.done" ] && [ ! -f "$phase_dir/.blocked" ]; then
+                exists=true
+              fi
+            done < <(find workspace -name PROMPT.md -type f | sort)
+            if find workspace -type f -name .done -print -quit | grep -q .; then
+              has_done=true
+            fi
+            if find workspace -type f -name .blocked -print -quit | grep -q .; then
+              has_blocked=true
+            fi
+          }
+
+          # GitHub cron delivery is unreliable at this fleet size, so a phase that is
+          # only waiting out its own backoff is waited out here and re-dispatched
+          # immediately instead of idling until the next schedule tick.
+          while :; do
+            scan
+            if [ "$exists" = true ]; then
+              break
+            fi
+            if [ "$has_deferred" != true ] || [ -z "$next_retry" ]; then
+              break
+            fi
+            now_ts="$(date +%s)"
+            if [ "$now_ts" -ge "$deadline" ]; then
+              break
+            fi
+            wait_for=$(( next_retry - now_ts ))
+            remaining=$(( deadline - now_ts ))
+            if [ "$wait_for" -le 0 ]; then
+              break
+            fi
+            if [ "$wait_for" -gt "$remaining" ]; then
+              wait_for="$remaining"
+            fi
+            echo "No eligible phase; waiting ${wait_for}s for a deferred phase."
+            sleep "$wait_for"
+          done
+
+          echo "exists=$exists" >> "$GITHUB_OUTPUT"
+          echo "has_done=$has_done" >> "$GITHUB_OUTPUT"
+          echo "has_blocked=$has_blocked" >> "$GITHUB_OUTPUT"
+          echo "has_deferred=$has_deferred" >> "$GITHUB_OUTPUT"
+      - name: Seed continuation phase
+        id: seed
+        if: steps.phase.outputs.exists != 'true' && steps.phase.outputs.has_done == 'true' && steps.phase.outputs.has_blocked != 'true' && steps.phase.outputs.has_deferred != 'true'
+        run: |
+          set -euo pipefail
+          if [ -f state/complete.md ]; then
+            if [ -f state/synopsis.md ]; then
+              echo "Repository is complete and already has a synopsis"
+              echo "created=false" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            synopsis_dir="workspace/postface/synopsis"
+            if [ ! -f "$synopsis_dir/PROMPT.md" ]; then
+              mkdir -p "$synopsis_dir"
+              cat > "$synopsis_dir/PROMPT.md" <<'EOF'
+          # SYNOPSIS PHASE
+
+          The manuscript is finished. Write ONE file, `state/synopsis.md`, and create no phase after it.
+
+          Read `NOVEL_SPEC.md`, `outline/series.md`, `outline/ending.md`, `state/current.md`, and enough of the
+          finished chapters to be accurate about the opening situation, the central problem, the turn the
+          volume structure puts on the reader, and how the lead actually lives at the end.
+
+          `state/synopsis.md` must contain exactly these two headings and nothing else:
+
+          ## Back cover
+
+          Sixty to one hundred and twenty words, the blurb a reader sees before buying. It states the promise of
+          the book and the situation it happens in. It must not spoil the ending, name later volumes, or reveal
+          any resolution. No exclamation marks, no "in a world where", no rhetorical question.
+
+          ## Synopsis
+
+          Two hundred and fifty to four hundred and fifty words. It gives the premise, the lead, the central
+          pressure, the kind of opposition the book actually uses, and what the reader gets to watch over the
+          length. It may name the final movement's subject, but it must not narrate the resolution.
+
+          Write plain prose. Do not edit chapters, outlines, bibles, `NOVEL_SPEC.md`, any controller file, or
+          any existing state file other than creating this one.
+          EOF
+              git config user.name "novel-fleet-bot"
+              git config user.email "novel-fleet-bot@users.noreply.github.com"
+              git add "$synopsis_dir/PROMPT.md"
+              git commit -m "novel: add synopsis phase for the finished manuscript"
+              git push origin HEAD:main
+            fi
+            echo "created=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          continuation_dir="workspace/continuation/next"
+          if [ -f "$continuation_dir/.done" ] || [ -f "$continuation_dir/.blocked" ]; then
+            n=1
+            while [ -e "$(printf 'workspace/continuation/next-%04d' "$n")" ]; do
+              n=$((n + 1))
+            done
+            continuation_dir="$(printf 'workspace/continuation/next-%04d' "$n")"
+          fi
+          if [ -f "$continuation_dir/PROMPT.md" ]; then
+            echo "created=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          mkdir -p "$continuation_dir"
+          cat > "$continuation_dir/PROMPT.md" <<'EOF'
+          Continue the novel from the last completed phase. Read NOVEL_SPEC.md, the series outline and ending, the relevant volume outline, state/current.md, the rolling summaries, and the previous 20 chapters. If the current volume is complete, plan the next volume and write its first 10 to 20 chapter batch. Otherwise write the next planned batch. Do not stop at an outline. Update manuscript state files and create exactly one next phase prompt before marking this phase done. Do not edit controller, workflow, agent, or dispatcher files.
+          EOF
+          git config user.name "novel-fleet-bot"
+          git config user.email "novel-fleet-bot@users.noreply.github.com"
+          git add "$continuation_dir/PROMPT.md"
+          git commit -m "novel: seed continuation phase"
+          git push origin HEAD:main
+          echo "created=true" >> "$GITHUB_OUTPUT"
+      - name: Re-dispatch next tick
+        # Only a successful run re-dispatches immediately. A failed run is left
+        # to the schedule, so a run that fails instantly (bad secret, syntax
+        # error, ignored-file abort) cannot spin at full speed.
+        if: needs.run-batch.result == 'success' && (steps.phase.outputs.exists == 'true' || steps.seed.outputs.created == 'true')
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          sleep 30
+          gh api -X POST \
+            -H "Accept: application/vnd.github+json" \
+            "repos/${GITHUB_REPOSITORY}/dispatches" \
+            -f event_type=novel_tick \
+            -f "client_payload[phase]=auto" \
+            -f "client_payload[reason]=retrigger" \
+            -f "client_payload[run_id]=${{ github.run_id }}"
