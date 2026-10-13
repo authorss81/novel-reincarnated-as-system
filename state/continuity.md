@@ -318,6 +318,181 @@ rather than made silently, in the same convention as *Date clash — ch 111 vs c
 - **Titles 104–118:** The Ash-Flats, Nine Days Unfed, Stands to Me, The Quiet Lane, Stone and Paper, The Safest Thing Here, The Sealed Slip, Struck Wherever Copied, Nine Men, The Roofless Hall, Glad of the Noise, Countersignature, The Conditions, Nailed Above the Second Bunk, A Second Cough. All unique against 1–103.
 - **Chapter length:** 28,234 words over 15 chapters, average ~1,882. **The guide (1,800–2,700) was met on the average, not per chapter: ten of the fifteen sit below 1,800 individually** — ch 106 1,712 · 107 1,683 · 108 1,765 · 109 1,743 · 110 1,650 · 111 1,752 · 112 1,640 · 113 1,799 · 114 1,743 · 117 1,703 — and the batch carries its length in ch 115 (2,657), 116 (2,083) and 118 (2,604), which are the grant, the conditions and the close. Shortest 1,640 (ch 112); **nothing is under the 1,300 floor**, and the run is not a monotone decline across the batch. No trade-off recorded. **Word count is post-volume-close-repair.** **Do not read the average as a per-chapter precedent for Volume 3** — write each chapter to its own scene and hold the floor.
 
+## Established facts, Volume 3 Batch 0001 (ch 119–132) — EXAMINATION AND EXPOSURE
+
+Volume 3 opens. Fourteen chapters, **37,159 words**, average ~2,654. **Day 0 is the last day of the
+thaw** (canon change 30); the batch runs **day 2 (ch 119) to day 39 (ch 132)**, five and a half weeks.
+Chapter days: 119 = 2 · 120 = 4–5 (the only two-day card) · 121 = 8 · 122 = 11 · 123 = 14 · 124 = 17 ·
+125 = 20 · 126 = 23 · 127 = 25 · 128 = 27 · 129 = 28 · 130 = 31 · 131 = 35 · 132 = 39.
+
+- **Power: nothing. Condensing 5 for all fourteen chapters, ceiling raised to nine by paper at ch 132.**
+  No stage reached, no tribulation, no trial. **Zero bracketed layer lines in the batch** — nothing
+  announced, nothing listed, nothing killed. **This is deliberate and load-bearing: ch 135's stage-six
+  announcement is the layer's first line since ch 114, twenty-one chapters later, and the Hunter hears
+  it from the square.** No Ledger, no price named, nothing foreshadowed toward ch 149. No Merit.
+- **No romance, no harem, no Wei Ran, no new final enemy.** **Bai Zhu is not named anywhere in the
+  batch.** The stranger at the first desk is unnamed throughout and gives his name to nobody.
+- **Channel clock.** Ch 118 ~6 weeks (a little under three-quarters) → **ch 132 about three weeks**.
+  Stated **once**, at ch 132, in her own arithmetic: six weeks at the bunk in the spring, three now,
+  rationed by her own ch 118 conditions (hours only, twice a day, never idled) and it is still three.
+  **Do not re-derive before ch 140's kill.** *Recorded, not repaired:* the volume outline's channel
+  table expresses these as a rising Settlement fraction (0.75 → 0.82 → 0.70), and ch 118's published
+  line reads *a little under three-quarters* of remaining channel. **The two are in tension and the
+  page resolves it by speaking only in weeks from ch 121 onward.** Do not put a bare fraction on the
+  page again in Volume 3.
+
+### What the batch established
+
+- **Paid work outside the crew, in Lowwater (ch 119).** The lane behind the well: four tables, one man
+  with a board, **Da Shan** (minor, no plot function), six loads to a water channel at **twelve coppers
+  the load**, counted at the third hour. **The hirer's sheet is not a county sheet** — no office mark,
+  no county stamp, nobody certifies or countersigns it, it does not go up a stair and is not copied
+  upward. It is chalk and a column and it is wiped at the end of the day. She signs it in her **left
+  hand**; the man does not ask about the right one.
+- **The county hour (ch 121).** Kept at the **third hour** of the middle of the day at the county
+  office on the square. **The lane is nineteen minutes from the square and twenty-one when the square
+  is full.** Every county hour therefore costs **four loads and eight coppers — half a day's pay — for
+  as long as the road is open.** No schedule she can see can hold the walk. **The county hour is not
+  weekly by rule and no weekday is named anywhere in the batch.**
+- **The arm, seen early (ch 121).** Yuan tells her the arm is going **before** it goes. This is
+  standing **Voice** reach — he reads her, only her, only near her — and **it costs nothing and no
+  price is named**. She says once that it is not a favour and is not going to happen often, and he
+  says he does it whenever it is true. From ch 121 she knows every time, early, and cannot do anything
+  with it. **This runs for the whole volume.** Do not write it as Ledger and do not write it as a cost.
+- **Ch 122 — she answers the Hunter.** He asks **who certifies her hours**, in daylight, in a market,
+  in front of a queue. **She had four moves available including saying nothing at all and walking on,
+  and used none.** She answered: *the Hall's clerk at Qinghe, under a maintaining member's stamp, up
+  the quarter's crate, read by the county in the fifth week of summer.* **That answer cannot be
+  un-tellen and is on no paper.** Irreversible.
+- **The girl of twenty-four (ch 123).** A carrier asked her, by name-less description, whether the
+  licensed one at the stone end is licensed by Qinghe or by the county, and she said she did not know,
+  because she copies lists and does not read them. Ning Yan says the sentence out loud once in the
+  wash house: **by the county.** Not thanked, does not thank. Three washerwomen heard it; by Thursday
+  it is in a market, for nothing. **The county's written request for the season's furnace schedule
+  goes up the quarter's return sheet on the girl's own hour, entered by her, into the crate at ch 129.**
+  **Alive. Do not kill her.**
+- **The relicensing mechanism (ch 124, used thereafter).** A second application down the same three
+  legs, with an hours record **continuous from the day the tithe book opened** (the origin date ch 115
+  reads aloud). Condition two is the door: hire hours are not furnace hours and no amendment can put
+  them there. **The annex is the way round — hours written onto the Qinghe furnace schedule by the
+  Hall's copyist, certified by the Hall's clerk, stamped by a maintaining member, and returned at the
+  quarter, are furnace-schedule hours by certification and not by place. Legal since the clause was
+  written. Nobody in nine counties has ever paid for it before.** The annex puts her hours into the
+  quota book and unlevels a line that has been level since the middle of the spring. **The claim
+  rides on the new stamp, entered last, because Sun He is required to enter it.**
+- **The Hunter's first purchase (ch 126 — batch midpoint).** **A certified copy of the Qinghe furnace
+  schedule**, coin on open wood, at the public counter, at her county hour, eight feet from her while
+  she signs her own hours in her own hand. He reads the whole of it there, stops on the stage column
+  (one, two, three, the gap, five), and says two true things to a young clerk of four years:
+  **the next stage must be announced or the paper fails its own terms**, and **a licensee capped at
+  five cannot be examined past five.** The clerk half agrees with him **aloud**. **Sun He hears both
+  and says *he is right about the stage column* while writing the hour.** The line goes up in the
+  quarter's bundle on the twenty-fourth and Sun He is **required** to tell the maintaining members.
+  **He buys one thing in the whole batch and it is this, and he keeps the receipt, folded square.**
+  He lies to nobody, threatens nobody, touches nobody, enters no room, pays for no force, and is not
+  from the Bureau, which is true.
+- **His room (ch 127).** **Over the tanner's, four rooms, nine years.** A strip of sacking on the door
+  carries the name against the tallow render and the lamp oil, written by a woman who cannot read, from
+  the lodger's own mouth: **Chou Zhyan — a clerk's misspelling with the doubled letter in it**, made
+  from memory with no form in the room. She recognises it because the Hall's copyist has made the
+  opposite mistake for a year. **She does not go up the stairs.** He has stood on Feng's fourth stair
+  five times since the spring and has **never once asked for anything**. **No audit of Feng, no Lung
+  offered or refused, column at five, four county copies still walled behind the fifth item.**
+- **The quiet book (ch 128) — the batch's irreversible decision, and it is a decision not to act.**
+  She states the condition aloud in the corridor — *if I use it, the seal is bought, and a bought
+  signature is a purchase and not a sponsorship* — and they say **then don't**, and she doesn't.
+  **Nothing about the sponsors' second book, the nine struck households, the eleven-year schedule, the
+  fourth line citing the maintaining members' ledger, or the frame of twelve unsigned sheets is lodged,
+  copied or spoken anywhere in ch 119–178. The seal was bought with silence.** She can never go back to
+  not-knowing that they know she knows. **The sponsors' silence on the writ is now purchased and they
+  go on saying nothing.**
+- **The crate (ch 129).** Day 28, **on the day and not the day before.** The Hall clerk writes her
+  **name in the wrong order on the certification — the one permitted use in this batch, and
+  unexplained — and Lu Kang reads it and does not correct it.** The county reads a crate **in the
+  order it is stacked**; she works that out, does not tell a sixty-one-year-old keeper how to do his
+  job, and gets the schedule onto the top and a list in her own hand onto the very top of that.
+  **Feng coughs on the stair and does not offer to carry anything.** She will not put a paper crate on
+  a cart. A boy of seventeen runs one finger down four months of her column and finds nothing.
+  **The road is OPEN throughout this batch.** The crate day does not move.
+- **The second clearance (ch 130).** Shen Xiu asks his **first question in a year**: *whose hours are
+  in the annex, yours alone or the crew's.* She answers hers alone. **He will not weight a figure for
+  one arm, will not close a season early, and makes her write the asked figure in her own hand: fifty-
+  eight hours in the seven weeks left.** He signs **in one stroke, without looking up**, which he has
+  never done for anybody. **He states the ch 34 early report out loud, unasked, under the desk.** She
+  says *I have not forgiven you* and is not thanked. **Something close to respect, which she does not
+  convert into anything.** The frame of twelve unsigned sheets is on the back wall and **is not
+  examined**.
+- **Three marks (ch 131).** Pei An reads it standing, Deng Chao reads it out, Lu Kang asks four
+  questions **and none of them is about her intentions**, and then says out loud, for the record, that
+  it is the hardest signature of his life and that he is signing it anyway, because the alternative is a
+  member handed over with her schedule in a hand and **this Hall is a book that has been opened.**
+  **She writes her own ceiling for the third time in the book: Condensing nine**, re-enters her own
+  defect (*aperture cracked through; stabilised at the crack; permanent*) and adds one new line under
+  it: ***the defect restores nothing to the aperture. It is entered here again because this is a new
+  document and a document carries what it carries.*** She thanks nobody.
+- **The relicensing granted (ch 132).** Sun He **stands up and reads the application in order, out
+  loud, to a room.** **Seven conditions on the back**: the six carried forward, the **second amended**
+  so that the certified annex is furnace hours by certification and not another schedule, plus **one
+  new sixth condition** — the annex hours return with the quarter, on the same crate and in the same
+  order as the schedule they are annexed to, and an annex that is not returned is not on the schedule.
+  **The eight hundred jin is the seventh and the last thing on the paper**, entered because he is
+  required to. He does not say *you may pick up your licence* this time and she notices. He says the
+  licence is worth exactly a stamp and the seventh condition is the reason that is true and not a lie.
+  **Do not re-list the seven conditions in any chapter after this one — reference, never re-list.**
+- **Titles 119–132:** The Hire Sheet, Where the Work Is, The Nineteen Minutes, The First Desk, One True
+  Sentence, The Second Application, The Dead Writ, The Certified Copy, Under a Misspelling, The Quiet
+  Book, The Order of the Crate, Level With the Asked, Nine in Her Own Hand, Relicensed. All unique
+  against 1–118.
+- **Chapter length:** 37,159 words over 14 chapters, **average ~2,654 — inside the 1,800–2,700 guide on
+  the average, and eleven of the fourteen individually inside it.** The three that run long are ch 129
+  (2,945), ch 130 (3,003) and ch 132 (3,060) — the crate, the clearance and the countersignature, all
+  of which are complete scenes. Nothing under the 1,300 floor; no monotone decline. No trade-off
+  recorded. **Do not read the average as a precedent either way — write each chapter to its scene.**
+- **New minor character:** **Da Shan**, the man at the board in the hiring lane. Not a villain, not an
+  ally, no function beyond the hire. He says his deduction out loud so that it is clear it came off one
+  woman and nobody else, and the batch keeps him for that.
+
+### Construction budget — spent in Batch 0001, not to reuse
+
+The six licence conditions as written out (ch 115–116, re-listed once more at ch 132 **as a fresh
+document with seven** — do not write them again). *There is no form* (cut entirely at drafting, 0
+uses). *There is no column* (2 uses, once each at ch 124 and 127, different meanings). The suppression
+arithmetic (ch 115, used at ch 126 **by the Hunter, correctly, in one paragraph — do not run it
+again**). The suppression **consequence** for the filing is used at ch 131 and ch 132 in one line
+each. *Nobody asked*, *nobody was thanked*, *the record remained*, *nobody knew*: **zero.** The four
+seconds (ch 53–54): **not used as a beat**; ordinary elapsed time appears six times and the numeral four
+was cut from two of them. Authorial scaffolding: **zero.** `his eyes widened`, `he couldn't believe it`,
+`suddenly`, `little did he know`: **zero.**
+
+### Carried forward, unchanged
+
+Crew **nine men; quarters sleep ten in twelve bunks.** The girl of twenty-four alive. Hou Sanliang
+unpaid, patient, **never in a room with her, never met** — he does not appear in this batch. Feng alive,
+unaudited, coughing, column at **five**, **no Lung offered or refused**, four county copies walled behind
+the fifth item, the volumes on the high shelf not copies and not struck. Shen Xiu unforgiven, unthanked.
+The three sponsors silent on a dead, unrevoked Foundation writ. Register still reads *reconciled*;
+**the plate is still worn**; the fourth stage of her life is still on no paper in nine counties and
+never will be. *Kiln-born* in two heads and no paper; the office name still unreadable. Surety void,
+debt hers. The twelve-sheet frame logged and untouched. The tower intake line at the ninth hour, not
+audited. **She does not forgive him** — stated once at ch 121 and running into Volume 4.
+
+## Volume 3 running ledger
+
+| Item | Value at end of ch 132 |
+| --- | --- |
+| Her stage | **Condensing 5.** Ceiling **Condensing 9**, entered in her own hand, countersigned ch 132. 5 → 6 is ch 135, in Batch 0002. Arm at a third, unchanged. Aperture cracked through and permanent |
+| Licence | **RELICENSED, ch 132.** Clause Four. Sun He countersigned. **Seven conditions on the back**, the sixth new (annex returns with the quarter) and the **claim the seventh and the last**. Defect re-entered in her own hand with a new line under it. Foundation barred again without a second relicensing, and the second needs a schedule the county does not keep past the boundary |
+| Hours | 940/940 tithe level (ch 86) + 311 season (ch 113) + **58 annex hours asked and certified, ch 130**. Return crate **day 28**; the county book holds it in the fourth week and Sun He reads it in the fifth. Annex returns at the next quarter |
+| In-world date | **day 39.** First weeks of summer, five and a half weeks after the last day of the thaw. Road still open; cart days counted |
+| Settlement | **about three weeks (ch 132)**, from about six at ch 118. Rationed by her own conditions and still falling |
+| Bounty | 800 jin, standing, unanswered, **now the seventh condition of two stamps**. Hou Sanliang unpaid, patient, never met. **The Hunter holds a certified copy of her schedule, a receipt, a form with her annex address on it, and a room under a clerk's misspelling** |
+| Crew | nine men; quarters sleep ten in twelve bunks |
+| Feng Lushi | alive, coughing, column at **five**, unaudited, **no Lung**. A stranger has stood on his fourth stair five times and asked for nothing. He did not offer to carry the crate |
+| Sponsors | **three marks on a sheet, ch 131, bought with silence.** Foundation writ dead and not revoked, unresolved. Their silence on it is now purchased |
+| Shen Xiu | unforgiven, unthanked. Signed the second clearance in one stroke without looking up and told her about the early report unasked |
+| The girl of twenty-four | **alive**, copying carriers' lists, four paid hours. Entered the county's schedule request on her own hour; her sheet is in the crate |
+| Register / plate | *reconciled* / worn. She does not forgive him |
+
 ## Volume 2 running ledger
 
 | Item | Value at end of ch 118 — VOLUME 2 CLOSED |
