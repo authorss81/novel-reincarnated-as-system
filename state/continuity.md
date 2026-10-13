@@ -41,7 +41,7 @@ Rules of record. Anything below is canon. If a batch needs to change one of thes
 - Long accumulating sentences are the voice, but a revelation gets short plain sentences at the point of impact.
 - One simple sentence about one person after any stretch of machinery.
 - Never: "his eyes widened", "he couldn't believe it", "suddenly", "little did he know".
-- Construction watch: *nobody asked, nobody was thanked, there is no form, there is no column, the record remained, nobody knew.* Effective once or twice each, then dead.
+- Construction watch: *nobody asked, nobody was thanked, there is no form, there is no column, the record remained, nobody knew.* Effective once or twice each, then dead. Used in batch 0001: furnace column (ch 1,12). Do not reuse without new meaning.
 
 ## Content
 
@@ -55,6 +55,20 @@ Rules of record. Anything below is canon. If a batch needs to change one of thes
 
 Yuan (was Yuan Sheng), Ning Yan, Ning Xue, Ning Bo, Ning Wu, Qiu Zhulang, Bai Zhu, Shuyin, Du Hong, Mei Jiu, Shen Xiu, Feng Lushi, Wei Ran, Wen the lamp-mender. Sects: Qinghe, Beihe, Canglan, Luoyuan, Shouyi, Wanzhou, Hanhui, Dushou, Tianshu. Places: Nine Steps Terrace, Lowwater, the Ashwood Verge, the Broken Kiln, the Lantern Register tower. Institutions: the Bureau of Records, the Lantern order, the Elder's Hall, the Warden's office, the Order of the Recruited, the Scribe.
 
-## Established facts
+## Established facts (through ch 12)
 
-None yet. Chapter 1 is unwritten.
+- Ning Yan: Body-Forging 3 (ch 1–2) → 9 briefly ch 3 → **4** ch 3–4 → 5 ch 8 → 6 ch 11. Scar sternum to hip ch 3, permanent. Ashwood Nine-Step lost as technique ch 3, habit survives ch 4.
+- Ch 1: quarter-token four hands short, dawn quota bell; voice knows name/realm/stage/breathing (16/min); she speaks Ning Wu aloud, Shen Xiu hears sound not his own.
+- Ch 2: first quest stated cost half-stage, accepted; Ashjaw killed with Nine-Step; Merit settles warm into Yuan; Settlement drops sliver.
+- Ch 3 (irreversible): Yuan spends Merit without consent to stop killing stroke; price from foundation; wakes stage 4, asks what it took, he does not answer.
+- Quota 28 believed in yard; layer announces harvest 33 (Lin Shou taken) ch 7.
+- Announcements audible bound-wide, one sentence, report only (Mei Jiu stage 8 ch 6; sheath cleared ch 8).
+- Quest cost always stated, always paid by her (ch 2 half-stage, ch 8 full stage + aperture risk); Yuan bound, cannot lie.
+- Shen Xiu tired man with quota, four names, left fourth line open (ch 11), carried Pei Lan (ch 9). Not villain.
+- Du Hong 18, ambitious, bad at lying, first ally; filed Ashjaw under own name ch 5, keeps jaw-plate.
+- Feng Lushi consumptive clerk, 22 years fair hand, 19 Listeners, believes her ch 10, copy bears post-closure date.
+- Pei Lan 19, furnace-crew, broken leg, carried in whole ch 11.
+- Furnace column: six-year unsettled Ning Bo account, Ning Yan held as credit, three-generations rule (ch 12).
+- Yuan Noise → Voice; Settlement risen twice/fallen once per outline accounting.
+- Layer brackets used: ch 6, ch 7, ch 8 only (one each). All other chapters zero.
+- Not yet visited: Broken Kiln interior, records room, Assembly. Lowwater tower visited ch 10 only.
