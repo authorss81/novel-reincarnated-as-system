@@ -12,12 +12,60 @@ moved two sentences in ch 220 and ch 232, made the weekday rule canon, and reope
 Live threads below carry into **Volume 5, *Mortal Ash*, ch 239–298**. The
 full state of each one at the last page of Volume 4 is in `state/continuity.md` under
 ***Established facts, Volume 4 complete (ch 179–238)*** and ***Volume 4 running ledger — at end of ch 238***.
-**The Volume 5 planning phases have both run.** `outline/volume-05.md` is written and is the authority for
-Volume 5, and `outline/batches/volume-05-batch-0001.md` is written at fourteen cards for **ch 239–252**.
-**Next to write is the Volume 5 Batch 0001 drafting phase.** It cannot be opened from this file: the two
-planning phase directories `workspace/volume-04-close-record/` and `workspace/volume-05-batch-0001/` hold
-finished deliverables with no `.done` marker and are carrying `.deferred` with expired `.retry-after`
-timers, and the marker belongs to the controller alone under `PHASE_SYSTEM.md`. **Escalate.**
+**VOLUME 5 IS OPEN. Batch 0001 (ch 239–252) IS WRITTEN — 26,135 words of body prose over fourteen chapters,
+day 471 to day 506, and ZERO bracketed layer lines in the batch.** `outline/volume-05.md` is written and is
+the authority for Volume 5; `outline/batches/volume-05-batch-0001.md` was the card file it was drafted
+against and every card's beat is on the page. The full record is in `state/continuity.md` under
+***Established facts, Volume 5 Batch 0001 (ch 239–252) — KEEPING AND BEING KEPT*** and ***Volume 5 running
+ledger — at end of ch 252***.
+**Next to write is the Volume 5 Batch 0002 drafting phase, ch 253–267.** Its prompt is
+`workspace/volume-05-batch-0002/PROMPT.md`.
+**The blocker recorded here at the Volume 4 close and repeated at the Volume 5 planning close is RESOLVED**:
+`workspace/volume-04-close-record/` and `workspace/volume-05-batch-0001/` both now hold `.done` markers
+written by the controller (commits `88ddc33` and `3e32724`) and neither is deferred. **Do not raise it
+again.** What is still true and needs the controller, not this file: `workspace/volume-05-batch-0002/` is the
+only directory this run created, it has no `.done` marker, and **`PHASE_SYSTEM.md` gives the marker to the
+controller alone, so this record does not write one.**
+
+## Volume 5 Batch 0001 (ch 239–252) — what this batch added, and what is now live going into Batch 0002
+
+**Fourteen chapters, 26,135 words of body prose, day 471 to day 506. Zero bracketed layer lines.** Pressure:
+**keeping and being kept** — and nothing else. Full record in `state/continuity.md`.
+
+| Thread | Owner | Planned resolution | State |
+| --- | --- | --- | --- |
+| **The far-side wage-book, and the season in it** | series | **Vol 5, Batch 0001** | **OPEN AND THE BATCH'S WHOLE SUBJECT.** Pays fall on the seventh, the seventeenth and the twenty-seventh; a day not worked is a day not paid and no day can be moved in either direction by anybody; there is nothing to borrow against and nobody to borrow from. **She is booked to the end of the season with a date at each end of the run and cannot be un-entered** (ch 247). **No card in Batch 0002 may describe her as passing through or on her way anywhere** |
+| **The far-side office that can act** | series | **Vol 5** | **OPEN AND SHARPENED TWICE.** At ch 251 the claim is confirmed standing, entered in good order, travelling on the licence, not affected by the relicensing, and **actionable on this side** — the first office within nine days of road ever in a position to act on it. **At ch 252 the price of acting is named: her own column of hours, and nobody in that room will take it without her word.** The room does not know the figure is hers and has never asked |
+| **The price of acting, and her refusal of it** | Ning Yan | **Vol 5, Batch 0003** | **OPEN. THE BATCH'S LAST BEAT.** She said no once at ch 252, in her own head, in about nine words, with no speech and nobody hearing. **A refusal given once can be given again in a different room with a different voice in it.** **The volume's irreversible decision — authorising the office to take the eight hundred jin onto its own book against hours worked past the line — is ch 268, Batch 0003's, and no card in Batch 0001 planted it** |
+| **The Hunter's position** | Bai Zhu | **Vol 5** | **OPEN AND NOT WHAT SHE ASSUMED.** At ch 248, at nine feet, in the ordinary voice: **he does not want the claim answered by the far side either**, because an answered claim is an answer somebody above him has to reckon with and he has never believed the reckoning would be the right one — **and the same is true of his own order and he has said that before.** A professional disagreeing with his own office for the second time in this book, on the record, at no cost to himself and at the whole of the cost to her. **He also says he will be on that side of the post for the rest of the run and will not come inside nine feet again unless she puts him there.** **His request is still pending** |
+| **The light in the tower, and nine men on a floor** | Feng / crew | **Vol 5, by report only** | **OPEN, AND IT IS NOW KNOWN ONLY BY REPORT.** At ch 244 a hauler at a pot gave three facts she could not have got any other way and did not write down: **a tower with a light on at the fourth hour that does not stop; a bundle going down a stair and a clerk's arms going up four flights and coming down empty; and a floor of nine men and the same nine and all of them still on it.** **Feng does not appear. No scene west of the line. No document arrives.** The fair copy of the Foundation column going past the line into a book the far side keeps is **ch 262, Batch 0002, and is unspent** |
+| **The far-side board on the post** | series | **Vol 5–6** | **OPEN, NOT ANSWERED, AND NOT RE-COUNTED.** Its image was ch 236 and ch 238 and **re-counting it is the procedure loop.** What is on the page in this batch is the routine only: a strip goes up every nine or ten days whether or not there is anything to put in it, and the strip that went up this month is one she will never be able to read |
+| **The road west** | series | **Vol 5, Batch 0002** | **SHUT FOR THE SEASON AND IT GETS ITS OPENING DAY IN BATCH 0002.** Named once in this batch, at ch 243, by Wei Ran, who has no date for it either. **Wei Ran quoted the going at ninety coppers for a person and one bag. The coming is a different number and nobody has quoted it** |
+
+### Held, confirmed, not touched by Batch 0001
+
+- **The claim stands at eight hundred jin and is not answered, not paid, not assessed and not torn off. Hou
+  Sanliang is unpaid, patient and never met. The date in his counting room in Lowwater is untouched. Luo Ping
+  is a direction. No draft has been written and none has been sent — Batch 0002's.**
+- **The Hunter's request is still pending.** The space holds the countersignature dated from the far side and
+  that is not an answer. **The line's own people still do not know she exists, and the second line's people
+  know her hours and not her name.**
+- **The relicensed licence was never opened. The register is never mentioned. The Clay Plate is still worn
+  against her ribs and was not described. MEMBER ABSENT stands three times and was not raised. What became of
+  the eleven is not raised. The ch 150 refusal is not softened. The year of non-forgiveness is not mentioned at
+  all in these fourteen chapters and is still carrying. The three sponsors' second book is lodged, copied and
+  spoken nowhere. Ning Wu does not appear. No second Lung and no second appointment.**
+- **The office above this county is not named.** He read the Standing Office of the Second Account in one
+  breath at ch 236 and stopped, and **nothing in ch 239–252 goes one notch further and nothing in it even
+  tries.**
+- **The surface answer is NOT paid.** Batch 0001 pays the narrower thing only: *a figure is only paid against
+  something, and the only thing in this country that can be charged for is a day somebody worked.* The volume's
+  surface answer is **ch 267**, in a worker's mouth, in short sentences, and **no card in Batch 0002 may pay it
+  early.**
+- **The right index finger is not named, priced or foreshadowed.** Four fingers' worth of grip left on that hand
+  and used at ch 242. Nothing gives it back and nothing offers to.
+- **Power: Foundation 9 for all fourteen chapters. Golden Core 1 is ch 258, day 512, Batch 0002.** Merit zero,
+  the channel not restored and not measured, Ledger not ordered and not refused.
 
 ## Volume 4 — every thread below is confirmed OPEN on this file. Nothing here is retired.
 

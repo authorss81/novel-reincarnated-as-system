@@ -2935,3 +2935,184 @@ Volume 2 is closed and audited. Nineteen outline items PASS; fifteen word-level 
 ### Construction budget — not to reuse in Volume 3 or later
 
 Damage-as-technique (ch 39, used again ch 64, 64+71, held for Vol 7). Tax-takes-order (ch 38). The four seconds and the release rule (ch 53–54). Layer-is-editable (ch 42). The eleven designations (ch 57). The eight hundred jin and its proof definition (ch 55 — **used once** ch 63, do not define it again). The four rooms refused (ch 55, recalled once ch 60). *The shape of a happy life* (ch 50, Vol 16). The witness count nine hundred and eleven (ch 46). Cao Lei's oil jar and the back stair (ch 32). The **consent regulation** (stated ch 65 — use, do not explain). The **signed-shift roster rule** (stated ch 60, **given once** — use, do not explain). **The claim-as-entered-act arithmetic** (ch 63 withheld, **given once at ch 68** — do not restate). **Ledger's price** (stated ch 68 — do not restate at ch 80, just pay it). The **refusal wording** (fixed ch 70 — rhyme it, do not repeat it). **Six unsigned lines about hours** (ch 64 — used, do not re-explain). **The folded sheet with her name in the wrong order** (ch 60, paid ch 61 — used). **The quota-office frame of twelve unsigned sheets** (ch 64 described, ch 69 seen — **two of the twelve are in Lu Tao's roundhouse hand**).  **Spent in batch 0009, do not repeat:** the **six licence conditions** as written on the back (ch 115–116, use not re-explain); **what a surety is for** (ch 106, stated once, do not define again); **the suppression arithmetic** — a stage is announced or it is nowhere, and the filing counts stages as announced (ch 104, then paid at ch 115 as an absence not a breach; do not argue it a third time); **the sealed slip's position-not-characters rule** (ch 110, spent, do not re-run a second request); **the good coat at the sixth column** (ch 108) and **the coin on a shut desk** (ch 116); **the name in the wrong order** (ch 60/61/118 — stated a third time by the Hall clerk at 118 and still unresolved; do not use again until Volume 3+); **nine days of not eating** (ch 105); **Lu Kang's silent stamp** (ch 113); **Feng's three sentences in order** (ch 110); **Ning Yan's four conditions and Yuan's three** (ch 118 — these are her standing terms now and may be *referred to*, never re-listed). Spent *close-third breaks into authorial summary* — the batch was repaired against the ch 59–72 review and the voice is present tense throughout; do not reintroduce it.
+
+---
+
+## Established facts, Volume 5 Batch 0001 (ch 239–252) — KEEPING AND BEING KEPT
+
+**Fourteen chapters, 26,135 words of body prose — the `#` title line and every `##` section heading excluded,
+by the method the Volume 3 and Volume 4 records use — and 26,769 raw, headings included.** Day 471 to day 506. ZERO bracketed layer lines in fourteen chapters, which is
+deliberate: the first layer line of Volume 5 is the Golden Core 1 bracket at ch 258 and it has to land as the
+first thing the layer has said since ch 237.** Batched against `outline/batches/volume-05-batch-0001.md`. Every
+card's beat is on the page. No chapter in Volumes 1–4 was opened.
+
+### The batch in one paragraph
+
+She works a stone bank past the post at five coppers a day and is **kept** by a wage-book that already holds
+her. The country is farmed, hedged, lit and ordinary, and it asks nothing of her, and the strongest body within
+nine days of road is measured on it entirely by what she turns over with a bar. **She is booked to the end of
+the season at her own order, in daylight, at a trestle, with her name said out loud — the second time she has
+said it on that ground — and she cannot be un-entered.** The claim is confirmed standing and **actionable on
+the far side**, and the only thing on the far side that a figure can be paid against is her own column of
+hours, and **she says no once, in her own head, with no speech and nobody hearing.** Hou is still unpaid.
+
+### What is established on the page in ch 239–252 and was not canon at ch 238
+
+1. **The far-side wage-book.** Two things in it that matter: **a price column that takes the rate said out
+   loud**, and **a column nearest the near side of the plank that is hers** — her name at the top in her own
+   flat-of-a-second-finger hand since the second of a month, dates in order, hours against them, continuous.
+   **She writes the date in herself at about eleven minutes; the man at the plank holds the page flat with his
+   palm because the plank is not level, without being asked, and does not say her name.**
+2. **The pay-cycle, established once, out of the days already in the book: pays fall on the seventh, the
+   seventeenth and the twenty-seventh of a month** — a ten-day instalment, three in a thirty-day month. **The
+   three pay-days inside this batch are day 480, the seventeenth; day 490, the twenty-seventh; and day 500,
+   the seventh of the next month.** Stubs come off at the rule **once a pay**, face down on the plank, into a
+   coat.
+3. **A day not worked is a day not paid, and no hours can be moved in either direction by anybody.** She asks
+   the only question she puts to anybody in ch 241 and is told *there is no such thing* in four words. There is
+   nothing to borrow against and nobody to borrow from. The pay-day arrives whether or not she worked it.
+4. **The store on the far side** — a counter, five coppers, bread bought at the seventh hour, the only place
+   on this ground where anything is sold. **It is NOT the ch 226 store and the two are never merged**: that one
+   is between the last stake and the cart turn inside the line's country, with shelves and a woman behind the
+   counter and a pan put back under a shelf. Same bread, same price, same hour.
+5. **The yard.** Stone out of a low bank — about two feet of soil over about nine feet of stone — broken with
+   bars, walked up on a timber sledge and put on carts at a ramp. **Eleven men and one more at the ramp, who is
+   called Da and is the only man at that yard who has said a word to her about the work.** Tools in the end
+   house at the seventh hour, bread in the yard, and the fire under the trestle let down at about the eighth.
+6. **Wei Ran's rates, given once in four sentences and used once:** six a load to the mill, eight a day for a
+   man with his own back, four of these loads on a cart. **And ninety coppers for a person and one bag on the
+   road west when it opens** — eighteen days of wages, and a number nobody else within nine days of road has.
+   **The road west is shut for the season**, named once, by her, with no date from anybody. **The coming is a
+   different number from the going and nobody has quoted it.**
+7. **The three facts from inside the bound, at ch 244, by report and by accident, from a hauler at a pot who
+   has never met Feng Lushi and does not know his name:** a tower with a light in it that is on at the fourth
+   hour and does not stop; a bundle going down the stair and a clerk's arms going up four flights with it and
+   coming down empty; **the floor is nine men and it is the same nine and they are all still on it.** She
+   writes none of it down and asks no second question. **This is the batch's one inside-the-bound card and the
+   only news from inside the bound she has had since she crossed.**
+8. **The four plain sentences of the midpoint, at ch 246** — the book on the plank is the only book in the
+   world that holds her as a person with days in it; the sheet on a spike four hundred yards away is the only
+   other piece of paper within nine days of road with her name on it; both are in the same country and no
+   county within nine days of road has heard of either; **and a figure is only paid against something, and the
+   only hours on this side of the line that can be set against a figure are hers.** Then she does not stop
+   working.
+9. **A season can be written at the rule**, with a date at each end and one name, in the same hand as the
+   days, in the same book. Nobody forbids it, nobody offers it, nobody promises anything about it.
+10. **The booking, at ch 247 — the batch's irreversible decision.** She says her name the second time on that
+    ground and the man at the plank writes **a second date at the far end of her column in a different hand.**
+    Two ends of one line written by two people about forty minutes apart. **It costs her the option of leaving
+    on a morning's notice**, which was the only option she had that was worth nothing and the last one that
+    was hers. **The season gets no date and no number anywhere in this batch.**
+11. **The Hunter, at ch 248, one card.** Nine feet, plain coat, notebook shut against his side, the standing
+    one-breath form — he has not bought anything, threatened anything, touched her, entered anything or asked
+    her a question. **And once, in the ordinary voice: he does not want the claim answered either**, because an
+    answered claim is an answer somebody above him has to reckon with and he has never once believed the
+    reckoning would be the right one, **and the same is true of his own order and he has said that before.**
+    He also says he will be on that side of the post for the rest of the run and will not come inside nine feet
+    again unless she puts him there. **Not a threat, not an escalation, not a reversal of ch 218.**
+12. **The stubs.** Nine at ch 249, in four marks, in the oilcloth above the Clay Plate. Laid out on her knee
+    in the order they were torn off: **no overlap, no contradiction, no gap.** For the first time in the book
+    she can prove she was somewhere, and the proof is four marks written by four men who do not know each
+    other and have never met her.
+13. **The cold.** The remedy is free past the post and it is not enough. **Inside the bound she paid five coppers
+    a day for the right to stand inside eight feet of the same fire.** The eight feet exist only while eleven
+    men are sitting in them, and at about the eighth hour four of them let the fire down into the stones
+    without asking anybody.
+14. **The office, at ch 251–252, the batch climax.** Same room, same counter, same six men, same stove, same
+    man who read the conditions out loud at ch 237. **He reads off a sheet, out loud, at the speed a man reads:
+    the claim is entered in good order, travels with the licence, is not affected by the relicensing, stands,
+    and is actionable on this side of the line, and this is the first office within nine days of road that has
+    ever been in a position to act on it in its whole life.** **He does not say her name and does not ask for
+    it, and he did not know the figure was hers.** The price, said once, in about forty words: **a claim is a
+    figure; a figure is only paid against something; the only things on this side of the line a claim can be
+    paid against are hours worked past the last working point; and there is one run of those with dates in it
+    on this reach and it is in a book four hundred yards from here with a woman's name at the top of it. And
+    that is her column, and nobody in that room is going to take a person's hours off a piece of paper somebody
+    else read out loud in a room, and if she ever says yes they will take them, and until she says it the claim
+    stands and it costs them nothing to stand.**
+
+### What this batch spent and what it did not
+
+- **Foundation 9 for all fourteen chapters. No stage taken, held or prepared. ZERO bracketed layer lines. No
+  tribulation. No suppression and no absence arithmetic.**
+- **Merit: zero. Nothing killed, nothing cleared, the channel not restored, and no figure of what is left of
+  him stated anywhere in ch 239–252.** No Settlement fraction, no percentage, no decimal, no elapsed span that
+  measures him. The *about six weeks* at ch 236 is the last figure of him in the manuscript.
+- **Yuan: six sentences across fourteen chapters, at most two in one chapter (ch 248), all present tense, all
+  buying nothing.** ch 240 · ch 242 · ch 246 · ch 248 (×2) · ch 252. **The ch 272 sustained scene is Batch
+  0003's and nothing in this batch touches it.**
+- **Ledger: not ordered, not held, not priced, not refused, and not thought about.** Hers to order and she
+  does not order it. The volume's irreversible step with it is ch 272.
+- **The right index finger is not named, not priced, not counted and not foreshadowed.** Four fingers' worth
+  of grip left on that hand, used at ch 242 where the load comes down across it. **Nothing gives it back and
+  nothing offers to.**
+- **The relicensed licence is never opened. The register is never mentioned. The Clay Plate is never described
+  and never taken off. MEMBER ABSENT is not raised. What became of the eleven is not raised. The ch 150 refusal
+  is not softened, deferred, reopened or regretted. The year of non-forgiveness is not mentioned at all. The
+  three sponsors' second book is lodged, copied and spoken nowhere. Ning Wu does not appear and is not
+  mentioned. No second Lung and no second appointment. No office above the Standing Office of the Second
+  Account is named and Yuan does not restate that he cannot read one. *Kiln-born* is zero. No calendar month
+  and no weekday named. No named week.**
+- **The claim is not answered, not paid, not assessed and not torn off. Hou Sanliang is not mentioned, not met
+  and not paid. The date in his counting room in Lowwater is untouched. Luo Ping is a direction. No draft is
+  written and none is sent — Batch 0002's.**
+- **The Hunter's request is still pending. The space holds the countersignature dated from the far side and
+  that is still not an answer. The line's own people still do not know she exists, and the second line's people
+  know her hours and not her name.**
+- **The surface answer is NOT paid here.** Batch 0001 pays the narrower thing only — *a figure is only paid
+  against something, and the only thing in this country that can be charged for is a day somebody worked.*
+  The volume's surface answer is ch 267, Batch 0002's close.
+- **The far-side board is not re-counted.** Its image was ch 236 and ch 238. What is on the page in this batch
+  is the routine: a strip goes up every nine or ten days whether or not there is anything to put in it.
+- **Nothing is a new final enemy and no institution on this reach becomes a villain.** The keeper, the man at
+  the plank, Da, the eleven men, the hauler, the men at the counter and the office are all doing the only thing
+  they are built to do and every one of them is right.
+
+### Construction budget — Volume 5 Batch 0001 (ch 239–252), spent, not to reuse plain
+
+**Bracketed layer lines: 0 in fourteen chapters.** The seven relicensing conditions: **not re-listed and the
+seventh not read aloud again** — the claim's *standing* is what is read at ch 251 and the conditions themselves
+are not. **The counterfoil rule is used, not taught** (defined once at ch 208). **The "a mark nobody checks is
+worth what the man who made it is worth" line is stated once in this batch (ch 241) and its ch 249 use was cut
+during drafting and replaced with the stair.** *Nobody asked*, *nobody was thanked*, *there is no form*, *there
+is no column*, *the record remained*, *nobody knew*, *nobody said anything*: **zero, all of them** — the
+nearest available constructions were revoiced to *not one man*, *there was not one pair of eyes*, *there is not
+one line in it*. **About four seconds: zero.** **Eleven weeks: zero.** *His eyes widened*, *he couldn't
+believe it*, *suddenly*, *little did he know*: **zero.** Authorial scaffolding — *this chapter*, *this volume*,
+*the reader*, *in this batch*: **zero.** Named weekdays: **zero.** Calendar months named: **zero.** Harem or
+romance: **none; Wei Ran is a rate and a road on one card.** Speeches closed in all fourteen files. Markdown
+plain in all fourteen files: no blockquote, no code fence, no table, no horizontal rule. **No paragraph over 90 words; the two longest are exactly 90 and the next two are 89.** Word counts by file
+are 1,853 · 1,849 · 1,809 · 1,937 · 1,814 · 1,969 · 1,932 · 1,862 · 2,013 · 1,937 · 1,974 · 2,001 · 1,875 ·
+1,944, all inside the 1,800–2,700 guide and none under the 1,300 floor.
+
+### Two drafting decisions recorded against the card file
+
+Both are inside the card's own beat and neither changes a card, a day, a title or an ending.
+
+1. **Ch 250 was not to repeat ch 226's exit.** The card gave the chapter the same small humiliation as ch 226
+   — four men turning to talk about a job in a voice that has come to somebody she was not asked about — and
+   ch 226 already used that exact exit word for word. **The exit was therefore given a different cause: the
+   fire belongs to the eleven men, it burns on their hours, and at about the eighth hour four of them let it
+   down into the stones without asking anybody.** The chapter's discovery and its want are untouched.
+2. **Ch 249's continuity line was cut rather than restated.** The card's *Continuity fact to preserve* carried
+   "a mark nobody checks is worth exactly what the man who made it is worth", which is the ch 229 line and
+   which ch 241 already carried in this batch. It was replaced with the far-side-specific truth, which is
+   stronger and is not on the page anywhere else: **a stub is worth the height of the office that reads it,
+   and on this reach there is no stair.**
+
+### Volume 5 running ledger — at end of ch 252
+
+| Item | Value at end of ch 252 |
+| --- | --- |
+| Her stage | **FOUNDATION 9 for all of ch 239–252 and unchanged. There is nothing above nine anywhere in the world.** The paper still says Foundation the first stage and **she has still never opened it.** Short breath four counts everywhere. **The right index finger gone, permanently; four fingers' worth of grip left on that hand, used at ch 242 and not named or priced there.** The order gone out of the left hand with the heel of it; eleven holds out of about seventy tried. Every county hour eleven minutes with the flat of a second finger. Right arm open a third of the time. Aperture cracked through and permanent. Not hungry since the first Foundation. Cold the way a stone is cold. **Eighteen years old** |
+| Where she is | **Far side of a line of work, about six hundred yards past the working ground, at a trestle with a wage-book on a plank, a fire under it and eleven men. A stone yard past the trestle. A store on the track. A low building four hundred yards past the post with a counter, a stove and six men. A post with a board on it, four hundred yards back. A mill two miles east with a wheel that is not turning.** Ordinary country and it asks nothing |
+| Employment | **BOOKED TO THE END OF THE SEASON**, at five coppers a day, in the column nearest the near side of the plank, **with a date at each end of the run, the far one written by the man at the plank in a different hand.** The season has no date and no length on the page. **She cannot be un-entered without a fact going round this reach about a woman who took a term and walked off it** |
+| Hours | **One hand, in order, with dates, continuous since the second of a month, and not split once in this batch.** Pays on the seventh, the seventeenth and the twenty-seventh; a day not worked is a day not paid and no day can be moved. **Nine stubs in four marks in the oilcloth above the Clay Plate, none checkable by anybody within nine days of road** |
+| Settlement | **About six weeks at the open of the batch and NO FIGURE OF HIM ANYWHERE AFTER IT.** Merit: **zero.** Ledger: **not ordered, not held, not priced, not refused** |
+| The claim | **STANDING, ACTIONABLE ON THE FAR SIDE, AND NOT ANSWERED.** Eight hundred jin, travelling on the licence, confirmed at ch 251 by the office that has held it on a spike for a month. **The price of acting is her own column, said once at ch 252. She said no once, in her own head, with no speech.** Hou unpaid, patient, never met; the date in Lowwater untouched; Luo Ping a direction; **no draft written and none sent** |
+| The referral | **Still pending.** The space holds a countersignature dated from the far side and that is not an answer. A Wall writ is not issued to a field agent. **The line's own people still do not know she exists, and the second line's people know her hours and not her name.** **The Hunter does not want the claim answered either, and wants his request pending, and has said so out loud at nine feet for the second time in this book** |
+| Inside the bound | **A tower with a light in it that is on at the fourth hour and does not stop. A bundle going down a stair and a clerk's arms going up four flights and coming down empty. A floor of nine men and the same nine and all of them still on it.** Known only by report, from a stranger's mouth at a pot, ch 244, nine days away, and she has no way to ask again. **No scene west of the line in this batch** |
+| Money | **Five coppers a day and five coppers of bread a day, and the number in her hand the same at the start and the end of the day.** The one total in the batch is at ch 241. The tin is gone since the evening of day 268 and is not brought back. **Ninety coppers is the quoted price of the road west when it opens, and the road west is shut for the season with no date from anybody** |
+| What changed | **She is a person a wage-book holds. She is booked and cannot be un-entered. An office four hundred yards away has been told, in the ordinary voice, in front of six men, that a figure on a sheet in that room is actionable on this side — and does not know the woman it is about is standing at the counter.** The road that goes back inside is still shut and no draft has been written |
+| Still open | **The Hunter's request; everything above the Standing Office of the Second Account; *kiln-born*; what became of the eleven; why the register reads *reconciled*; the year of non-forgiveness, still carrying; Golden Core 1 (ch 258, day 512); the surface answer (ch 267); Feng's fair Foundation copy past the line (ch 262); Yuan entered (ch 272)** |
+
