@@ -1,22 +1,51 @@
 # Current State
 
-**As of:** end of Volume 2 Batch 0009 (ch 104–118 written). **VOLUME 1 CLOSED. VOLUME 2 CLOSED AND AUDITED.**
+**As of:** Volume 2 close record (this phase). **VOLUME 1 CLOSED. VOLUME 2 CLOSED AND AUDITED.**
 
-- **Volume:** 2 of 16 — The Chosen One (ch 59–118) — **COMPLETE, CLOSE-AUDITED**
+- **Volume:** 3 of 16 — The Hunter (ch 119–178) — **OUTLINED in `outline/volume-03.md`; no chapters written.**
 - **Chapter written:** 1–118. Next chapter to write is **chapter 119**, which opens **Volume 3, *The Hunter* (ch 119–178)**.
-- **Next phase:** **Volume 2 close record**, at `workspace/volume-02-close-record/PROMPT.md`. It writes
-  the final resolution of Volume 2 into the state files and then writes `outline/volume-03.md`
-  (*The Hunter*, ch 119–178, sixty chapters, goal fixed by `outline/series.md` §9) plus exactly one
-  Volume 3 planning prompt. Acceptance criteria for Volume 3 are not yet written;
-  the one-sentence goal is fixed by `outline/series.md` §9: *In this volume, Ning Yan must survive
-  being hunted as an unauthorised System, or Yuan is dismantled and she is told she imagined him.*
-  Batch cards for 0009 live at `outline/batches/volume-02-batch-0009.md`.
-  One-sentence goal, from `outline/series.md`: *In this volume, Ning Yan must earn the
-  document that lets her advance at all, or she stays a servant with a god in her head for
-  the rest of her life.* — **PAID. The volume's promise is delivered at ch 115, and audited.**
-  **The Volume 2 close audit is recorded below.**
+- **Next phase:** **Volume 3, Batch 0001**, at the Volume 3 planning prompt this phase creates: `workspace/volume-03-batch-0001/PROMPT.md`. It writes the batch cards for Volume 3 Batch 0001 out of `outline/volume-03.md` and the audited state files, before any chapter is drafted. The one-sentence goal is fixed by `outline/series.md` §9: *In this volume, Ning Yan must survive being hunted as an unauthorised System, or Yuan is dismantled and she is told she imagined him.* Batch cards for 0009 live at `outline/batches/volume-02-batch-0009.md`.
+  Volume 2's one-sentence goal, from `outline/series.md`: *In this volume, Ning Yan must earn the document that lets her advance at all, or she stays a servant with a god in her head for the rest of her life.* — **PAID. The volume's promise is delivered at ch 115, and audited.**
+  **The Volume 2 close audit is recorded below. Cold readers start with the next two blocks and then read `outline/volume-03.md`.**
 - **Point of view:** close third on Ning Yan; every line Yuan speaks is written in the present tense.
 - **In-world date:** burial day 122 (ch 103); stage four suppressed on the flats at day 132 (ch 104); the road up and the Hall at about the middle of the thaw (ch 112–113); **stage five taken at the fourth hour of an afternoon, three weeks under the filing (ch 114)**; countersignature and the return of the crate at the end of the batch (ch 115–118). **She ends Volume 2 in the crew quarters at Qinghe in spring rain, in the first week of summer by the calendar.**
+
+## Who is where at end of chapter 118 — VOLUME 2 CLOSED (cold reader starts here)
+
+- **Ning Yan** — seventeen, **Condensing stage 5 (announced ch 114 at her order), capped there by her own hand.** **Licenced to practise past registration** under Clause Four, capped at five, barred from Foundation without relicensing, defect entered, six conditions on the back and the eight hundred jin standing claim among them. Short breath two counts. Right arm open a third of the time. **The fourth stage of her life is on no paper in nine counties and never will be.** Nine days of not eating, in the spring. Wears the Tablet; log in the lining with the schedule terms, the no-surety request and the *kiln-born* line, never the word; iron token unwanted. **Claim standing, unanswered, now on her licence.** She does not forgive him.
+- **Yuan** — Voice. Ledger held less than a day at ch 80 on her order and refused permanently the same day; **not retaken anywhere in ch 104–118**. Settlement **a little under three-quarters, about six weeks.** Told her the rate of it only when asked at ch 118 and never hid it. Four conditions hers, three his.
+- **The girl of twenty-four** — **alive**, leg set crooked, four paid hours out of six, copying carriers' lists at the Lowwater wash house, charged to the eighth estate. Entered the county's schedule request on her own hour. **Not thanked.**
+- **Cao Lei's quarter-wage** — kept off his dead father's column by her hand (ch 73). Surnames not used again.
+- **Du Hong** — dead day 121, buried day 122. Surety void, debt hers. Four causes all hers at burial, and a fifth. Carried her hand twice in his file and her copies in his coat.
+- **Feng Lushi** — **alive, coughing, column at five, unaudited, no Lung offered and not refused.** Walled four copies, struck one of them on a request he could not read, witnessed a countersignature for four hours without reading a line, wrote one line at the back of a fair volume off the warm shelf. A second cough in his stairwell that is not his. **Not thanked.**
+- **Shen Xiu** — entered 311 hours, never looked at her, holds the quota books. Unforgiven, unthanked, will stay so.
+- **The three sponsors** — hold a Foundation writ the licence killed at ch 88. **Lu Kang certified the furnace schedule in silence at ch 113.** All three say nothing and will go on saying nothing.
+- **The man in the good coat (grey temple, ~fifty)** — read through her eyes at ch 80. Tried the sixth column at ch 108 and left. Put a coin on a shut desk at ch 116, picked it up, and went home. Still employed, still patient.
+- **Hou Sanliang** — creditor on paper (ch 67). **Unpaid, patient, never in a room with her, never met.**
+- **A stranger at the first desk in Lowwater** — twice a week, buys nothing, gives his name to nobody, tells carriers he is not from the Bureau. **UNNAMED. Bai Zhu is not named in Volume 2.**
+- **Registrar Sun He** — refused her at ch 88 on the bounty standing, ruled an absence is not a breach at ch 115, countersigned, and said *you will be careful on a road*. Nineteen years of the county book.
+- **Mei Jiu** — does not appear in Volume 2.
+- **Ning Wu** — register still reads *reconciled*. Unchanged. Alive.
+
+## What Volume 3 must not do (cold reader reads this second)
+
+Added after batch 0009 closes Volume 2. **The Feng-audit lines lapse with Volume 2: the audit is Volume 3's beat per `outline/volume-03.md`. Everything else stands.**
+
+**Do not reopen the Watch, the burial line, the county debt line or the no-surety request.** All four are lodged, stamped and closed on the page; see `state/current.md` canon changes 18–20 and 23.
+
+**Do not put her back on the fifth hour at the intake table.** The line moved to the ninth at ch 95 and stands there; the good coat tried the sixth column at ch 108 and was told the fifth is not it. **Do not audit the change.**
+
+**Do not spend a second strike request or a second outside-bound office.** The slip at ch 110 is the only one in this run, and the volumes on the high shelf are not copies and were not struck.
+
+**Do not answer what became of the eleven.** It is deliberately unexplained for the whole run and the answer belongs to Volume 12.
+
+**Do not name Bai Zhu in the opening chapters.** The stranger at the first desk in Lowwater is unnamed and gives his name to nobody. Name him only when the Volume 3 outline says so.
+
+**Do not let her forgive anybody.** Non-forgiveness runs from ch 100 through Volume 3 into the opening of Volume 4 — that is the year the milestone requires.
+
+**Do not lift the ceiling.** Condensing 5 is the top of her. Anything past it is a Foundation matter, and the licence bars a Foundation petition without relicensing, and any Volume 3 stage above five is a relicensing.
+
+**Do not record a chapter-length trade-off.** Guide 1,800–2,700; floor 1,300. Batch 0009 closed at 28,234 words over fifteen chapters, ~1,882 average.
 
 ## Volume 2 close audit
 
@@ -435,20 +464,7 @@ by it. **Do not re-list these.**
 
 ## Who is where at end of chapter 118 — VOLUME 2 CLOSED
 
-- **Ning Yan** — seventeen, **Condensing stage 5 (announced ch 114 at her order), capped there by her own hand.** **Licenced to practise past registration** under Clause Four, capped at five, barred from Foundation without relicensing, defect entered, six conditions on the back and the eighth hundred jin standing claim among them. Short breath two counts. Right arm open a third of the time. **The fourth stage of her life is on no paper in nine counties and never will be.** Nine days of not eating, in the spring. Wears the Tablet; log in the lining with the schedule terms, the no-surety request and the *kiln-born* line, never the word; iron token unwanted. **Claim standing, unanswered, now on her licence.** She does not forgive him.
-- **Yuan** — Voice. Ledger held less than a day at ch 80 on her order and refused permanently the same day; **not retaken anywhere in ch 104–118**. Settlement **a little under three-quarters, about six weeks.** Told her the rate of it only when asked at ch 118 and never hid it. Four conditions hers, three his.
-- **The girl of twenty-four** — **alive**, leg set crooked, four paid hours out of six, copying carriers' lists at the Lowwater wash house, charged to the eighth estate. Entered the county's schedule request on her own hour. **Not thanked.**
-- **Cao Lei's quarter-wage** — kept off his dead father's column by her hand (ch 73). Surnames not used again.
-- **Du Hong** — dead day 121, buried day 122. Surety void, debt hers. Four causes all hers at burial, and a fifth. Carried her hand twice in his file and her copies in his coat.
-- **Feng Lushi** — **alive, coughing, column at five, unaudited, no Lung offered and not refused.** Walled four copies, struck one of them on a request he could not read, witnessed a countersignature for four hours without reading a line, wrote one line at the back of a fair volume off the warm shelf. A second cough in his stairwell that is not his. **Not thanked.**
-- **Shen Xiu** — entered 311 hours, never looked at her, holds the quota books. Unforgiven, unthanked, will stay so.
-- **The three sponsors** — hold a Foundation writ the licence killed at ch 88. **Lu Kang certified the furnace schedule in silence at ch 113.** All three say nothing and will go on saying nothing.
-- **The man in the good coat (grey temple, ~fifty)** — read through her eyes at ch 80. Tried the sixth column at ch 108 and left. Put a coin on a shut desk at ch 116, picked it up, and went home. Still employed, still patient.
-- **Hou Sanliang** — creditor on paper (ch 67). **Unpaid, patient, never in a room with her, never met.**
-- **A stranger at the first desk in Lowwater** — twice a week, buys nothing, gives his name to nobody, tells carriers he is not from the Bureau. **UNNAMED. Bai Zhu is not named in Volume 2.**
-- **Registrar Sun He** — refused her at ch 88 on the bounty standing, ruled an absence is not a breach at ch 115, countersigned, and said *you will be careful on a road*. Nineteen years of the county book.
-- **Mei Jiu** — does not appear in Volume 2.
-- **Ning Wu** — register still reads *reconciled*. Unchanged. Alive.
+Moved to the top of this file for cold readers. Read it there.
 
 ## Running status (end of batch 0009) — **this batch, ch 104–118, VOLUME 2 CLOSED**
 
@@ -577,25 +593,7 @@ before ch 102. Do not put Hou Sanliang and her in a room before batch 0008.
 
 ## What Volume 3 must not do
 
-Added after batch 0009 closes Volume 2.
-
-**Do not reopen the Watch, the burial line, the county debt line or the no-surety request.** All four are lodged, stamped and closed on the page; see `state/current.md` canon changes 18–20 and 23.
-
-**Do not put her back on the fifth hour at the intake table.** The line moved to the ninth at ch 95 and stands there; the good coat tried the sixth column at ch 108 and was told the fifth is not it. **Do not audit the change.**
-
-**Do not have Feng send her intake change up the stair, do not audit the stair, and do not audit Feng.** He struck one of his own copies on a request he could not read (ch 110) and wrote one line at the back of a fair volume that is not in his column (ch 117). Both are on the page and both are quiet. **The offered Lung is taken in Volume 3 — that is the beat, and it is not spent here.**
-
-**Do not spend a second strike request or a second outside-bound office.** The slip at ch 110 is the only one in this run, and the volumes on the high shelf are not copies and were not struck.
-
-**Do not answer what became of the eleven.** It is deliberately unexplained for the whole run and the answer belongs to Volume 12.
-
-**Do not name Bai Zhu in the opening chapters.** The stranger at the first desk in Lowwater is unnamed and gives his name to nobody. Name him only when the Volume 3 outline says so.
-
-**Do not let her forgive anybody.** Non-forgiveness runs from ch 100 through Volume 3 into the opening of Volume 4 — that is the year the milestone requires.
-
-**Do not lift the ceiling.** Condensing 5 is the top of her. Anything past it is a Foundation matter, and the licence bars a Foundation petition without relicensing, and any Volume 3 stage above five is a relicensing.
-
-**Do not record a chapter-length trade-off.** Guide 1,800–2,700; floor 1,300. Batch 0009 closed at 28,234 words over fifteen chapters, ~1,882 average.
+Moved to the top of this file for cold readers, with the Feng-audit lapse noted. Read it there.
 
 ## Volume 1 acceptance check — `outline/volume-01.md`, fact by fact
 
