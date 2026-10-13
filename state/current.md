@@ -18,7 +18,7 @@ This file is **append-only and long, and most of it is history.** You do not nee
   file is not to be re-planned. **Batch 0002 (ch 253–267) has no card file yet and no planning record beyond
   the two rows in `outline/volume-05.md`; its drafting prompt is
   `workspace/volume-05-batch-0002/PROMPT.md`.**
-## Volume 4 close audit — CLOSED`** is the record of the Volume 4 close. **Read it if you are auditing,
+- **`## Volume 4 close audit — CLOSED`** is the record of the Volume 4 close. **Read it if you are auditing,
   planning Volume 5, or using any figure from this run's last volume** — it carries the four repairs made in
   the chapters, the five findings recorded and not repaired, and the three corrections to inaccurate state-file
   claims. **Read *Close review repair*, the last block inside it, before any of that: the review audited the
@@ -34,7 +34,15 @@ This file is **append-only and long, and most of it is history.** You do not nee
 - **This file is never pruned by a writing phase.** If a section is wrong, correct it in place and say
   so in the phase's repair note rather than deleting the record.
 
-- **Volume:** 5 of 16 — **Mortal Ash (ch 239–298)** — outlined in `outline/volume-05.md`. **BATCH 0001 (ch 239–252) WRITTEN — 26,135 words of body prose over fourteen chapters, day 471 to day 506, ZERO bracketed layer lines in the batch. BATCHES 0002 (ch 253–267), 0003 (ch 268–283) AND 0004 (ch 284–298) ARE NOT WRITTEN AND ARE NOT YET CARDED.** Volume 4 remains closed and audited: Batch 0001 (ch 179–192), 28,607 · Batch 0002 (ch 193–208), 31,900 · Batch 0003 (ch 209–222), 28,581 · Batch 0004 (ch 223–238), 31,484 — file set 120,572 words. Volume 3 file set 135,014.
+- **Batch 0001 has been through review and repair.** `logs/next-0004.review.log` found seven duplicated
+  closing paragraphs, a stub-count contradiction, four instances of authorial scaffolding, straight ASCII
+  quotes in four files and a false word-count claim; three further day and count slips were found against
+  the card file's day table while applying them. **All repaired, with the reasoning, in
+  `state/continuity.md` under *Volume 5 Batch 0001 — REVIEW REPAIR*.** **The fourteen titles, the card beats,
+  the day table and the planned plot did not move, and no chapter in Volumes 1–4 was opened.** The batch is
+  **25,886 words of body prose over fourteen chapters, average ~1,849**, three chapters under the 1,800 guide
+  (241, 243, 246) and none above it. **A Batch 0002 drafter reads the repaired chapters, not the review log.**
+- **Volume:** 5 of 16 — **Mortal Ash (ch 239–298)** — outlined in `outline/volume-05.md`. **BATCH 0001 (ch 239–252) WRITTEN — 25,886 words of body prose over fourteen chapters, day 471 to day 506, ZERO bracketed layer lines in the batch. BATCHES 0002 (ch 253–267), 0003 (ch 268–283) AND 0004 (ch 284–298) ARE NOT WRITTEN AND ARE NOT YET CARDED.** Volume 4 remains closed and audited: Batch 0001 (ch 179–192), 28,607 · Batch 0002 (ch 193–208), 31,900 · Batch 0003 (ch 209–222), 28,581 · Batch 0004 (ch 223–238), 31,484 — file set 120,572 words. Volume 3 file set 135,014.
 - **Volume 5 goal**, fixed by `outline/series.md` §9: *In this volume, Ning Yan must finish the world they came from, or leaving it costs everyone she left standing in it.*
 - **Chapter written:** **1–252. THE NOVEL RUNS TO CHAPTER 1000. VOLUME 5 IS OPEN AT CH 252.**
 - **Next phase:** **the Volume 5 Batch 0002 drafting phase — ch 253–267 — and its prompt is `workspace/volume-05-batch-0002/PROMPT.md`.** It is the only workspace directory this run created and it has no `.done` marker, which `PHASE_SYSTEM.md` gives to the controller alone. **The blocker recorded at the Volume 4 close and at the Volume 5 planning close is RESOLVED — `workspace/volume-04-close-record/` and `workspace/volume-05-batch-0001/` both hold `.done` markers (commits `88ddc33` and `3e32724`) and neither is deferred. Do not raise it again.**

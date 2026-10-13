@@ -32,7 +32,7 @@ The man at the ramp is called Da and everybody at that yard calls him Da and he 
 
 He stood at the top of the ramp all day with a hand on the side of a cart and he is the only man on that ground who has ever said one word to her about the work, and what he said was on the second day at about the fifth hour.
 
-"You are putting them down flat," he said. "Put them down on the edge. They go round if they go round and a cart that will not shut is a cart you do not get paid for."
+“You are putting them down flat,” he said. “Put them down on the edge. They go round if they go round and a cart that will not shut is a cart you do not get paid for.”
 
 She put the next four down on the edge, and the cart shut on all four, and he did not say one word about the four, and neither of them said anything else that day.
 
@@ -107,7 +107,5 @@ But it is the whole of what it is to be the strongest body on nine days of road 
 “Nobody on that yard is going to put a cloth on it,” he said, “and you are not going to tell one of them, and so the only person who is going to remember it is you.”
 
 She did not answer him and she did not spend a mark on it.
-
-A team went past the yard on the twenty-second at about the second hour with a load on it, and the carter had been up and down this reach in four years.
 
 A team went past the yard on the twenty-second at about the second hour with a load on it, and the carter had been up and down this reach in four years.

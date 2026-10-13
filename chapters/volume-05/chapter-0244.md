@@ -108,6 +108,4 @@ She did not write any of it down.
 
 She had a back of a dead weight ticket to write it on and a flat of a second finger and about eleven minutes a line and she did not write one word of it anywhere, because the three facts are about nine men and she has got them in her head and she is not going to put them on paper where somebody at a plank can come across them.
 
-The twenty-seventh is a pay-day, and a man at a plank can tell her what happens to a book when the carts stop.
-
-The twenty-seventh is a pay-day. A man at the plank can tell her what happens to a book when the carts stop.
+The twenty-seventh is a pay-day. The man at the plank can tell her what happens to a book when the carts stop.

@@ -22,7 +22,7 @@ She has never once asked him for any of it and he has never once waited to be as
 
 ## The One Breath
 
-He said it at about the seventh hour in the ordinary voice, and he said it the way he has said it four other times in this book, which is the whole of the reason she listens to it at all.
+He said it at about the seventh hour in the ordinary voice, and he said it the way he has said it four other times, which is the whole of the reason she listens to it at all.
 
 “I have not bought anything, I have not threatened you, I have not touched you, I have not entered anything and I have not asked you a question,” he said, “and I have been on this side of that post for sixty days and I have not put one word in anybody's book on this side of it, and I want that in the same breath as everything else so that you do not have to spend a morning on it.”
 
@@ -70,7 +70,7 @@ She did not write anything and she did not ask him to come back and she did not 
 
 On the fourth he came down at the fifth hour and wrote for an hour at nine feet and then went up the rise again, and on the way out he stopped about where the track turns and turned round.
 
-"I am going to be on this side of that post for the rest of this run," he said, "and I will not come inside nine feet again unless you put me there. That is not a thing you have to answer."
+“I am going to be on this side of that post for the rest of this run,” he said, “and I will not come inside nine feet again unless you put me there. That is not a thing you have to answer.”
 
 Then he went.
 
@@ -84,7 +84,7 @@ And this is the one man within nine days of road who has never taken a single th
 
 What he wants and what she wants were the same thing from the fourth of a month three months back until about ninety seconds ago.
 
-He has not lied. He has not escalated. He has not said one word that is not true and he has not threatened her with anything at all and he has never taken anything and he is a professional disagreeing with his own office for the second time in this book, out loud, in front of one person, at no cost to himself and at the whole of the cost to her.
+He has not lied. He has not escalated. He has not said one word that is not true and he has not threatened her with anything at all and he has never taken anything and he is a professional disagreeing with his own office for the second time, out loud, in front of one person, at no cost to himself and at the whole of the cost to her.
 
 You have spent four years wanting him to be the one man in this you could be angry at. He is standing nine feet off your own plank and he has never once given you a reason.
 

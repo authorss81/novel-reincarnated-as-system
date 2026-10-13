@@ -14,7 +14,7 @@ That is not a thing anybody would say out loud. The pays are the seventh, the se
 
 He still did it at the seventh hour. He read the run, and he took the rule off the ledger and tore the strip, and he put it on the plank face down, and it took him about as long as the other two.
 
-She has been on this side of the post for about four weeks and she has watched that man do that four times and there is not one thing in the way he does it that has ever changed, and she has started to look forward to the seventh about as much as she looks forward to anything.
+She has been on this side of the post for about five weeks and she has watched that man do that three times and there is not one thing in the way he does it that has ever changed, and she has started to look forward to the seventh about as much as she looks forward to anything.
 
 That is the whole of what the far side has given her that could be called a good thing, and it is a man putting a strip on a plank face down at the same hour on the same three dates.
 
@@ -106,10 +106,8 @@ For four years the only instrument this world has given her is a continuous run 
 
 She broke it on purpose with her own hands in daylight to stop a man in a plain coat from executing a piece of paper, and she has been carrying the pieces of it in an oilcloth ever since, and on the seventh of a month at about the eighth hour on a step on the far side of a post she laid out nine of them and they were in order.
 
-For the first time in this book she can prove she was somewhere.
+It is the first time she has been able to prove she was somewhere.
 
 That is the whole of it and it took four marks and four men who do not know each other and have never met her and would not care.
-
-She went out at the fourth hour the next morning with the bar in her left hand, and there is a fire under that trestle that she does not pay for and has never had to.
 
 She went out at the fourth hour the next morning and she had the bar in her left hand and there was a fire under the trestle that she did not pay for and did not have to.

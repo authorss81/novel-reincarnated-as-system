@@ -50,9 +50,9 @@ Nine days of road behind her, and a floor, and nine men, and a tower with a ligh
 
 ## The Whole Of The Day
 
-She worked the whole of the day. She took the heavy end of the bank, because the heavy end is there and because not one man at that yard is going to walk over and give it to her, and she is not going to stand at the face of a bank working the easy end for two days so that somebody will offer her the other one.
+She worked the whole of the day. She took the heavy end of the bank, because the heavy end is there and because there is no man at that yard who is going to walk over and give it to her, and she is not going to stand at the face of a bank working the easy end for two days so that one of them offers her the other.
 
-And she did more of the day than any of them, and it was visible from the ramp, and it is not visible anywhere else, and no man at that yard looked up from what he was doing to see it happen.
+And she did more of the day than any of them, and it was visible from the ramp, and it is not visible anywhere else, and every one of the eleven of them went on doing what he was doing.
 
 That is the whole of the eighth. She worked a day on the far side of a line of work at five coppers and she bought a loaf and she stood at a plank for eleven minutes with her hand in a book and nothing happened to her.
 
@@ -66,7 +66,7 @@ They have a rhythm. She is not in it and she was never going to be in it, and af
 
 She chose it every day she has been here. That took her about a day to work out and she did not find it remarkable and then found it remarkable and then stopped finding it remarkable again.
 
-At about the seventh hour they put the tools in the end house and one of them put a pot on and there was bread in the yard, and she ate in it, and not one man at that yard looked up to work out whether she had paid for it or not, because it was not a thing that went in a column.
+At about the seventh hour they put the tools in the end house and one of them put a pot on and there was bread in the yard, and she ate in it, and she did not have to say one word about paying for it, because it was not a thing that went in a column.
 
 At about the eighth hour they went up the track to the mill in ones and twos and the yard was empty and the fire under the trestle was let down, and that is how a day ends on this reach and there is no bell on it and no one calls it.
 
@@ -74,9 +74,9 @@ At about the eighth hour they went up the track to the mill in ones and twos and
 
 She expected to be conspicuous.
 
-There is not one thing on this reach that can see what she is. The strongest man at that yard has a bad shoulder and a bar and he is not the strongest man here, and the strongest body within nine days of road is paid five coppers a day and is measured entirely by what she turns over with a bar in a day, and nothing else about her exists in the ordinary way that people see each other.
+Nothing on this reach can see what she is. The strongest man at that yard has a bad shoulder and a bar and he is not the strongest man here, and the strongest body within nine days of road is paid five coppers a day and is measured entirely by what she turns over with a bar in a day, and nothing else about her exists in the ordinary way that people see each other.
 
-Not one man at that trestle said her name. Not one of them asked her where she came from, or how she learned the stone, or what she was doing at the end of the bank, and eleven men worked a yard about nine feet from her all day and not one of them put her in the middle of a thing.
+Not one man at that trestle said her name. None of them asked her where she came from, or how she learned the stone, or what she was doing at the end of the bank, and eleven men worked a yard about nine feet from her all day and not a single one of them put her in the middle of a thing.
 
 She had spent four years being looked at, written down, priced, licensed, referred, closed against and read out loud in rooms.
 

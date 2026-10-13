@@ -16,7 +16,7 @@ She went in on the fifth because the door was open and nobody came at her.
 
 Inside there were two men and a bench and a stove and a smell of oil and cut stone, and one of them looked up and one of them did not, and neither of them asked her anything, and she stood in there for about ten minutes and looked at a wheel with iron on it.
 
-One of them said, "It wants about four days of rain and then it runs and nobody has the wood for it."
+One of them said, “It wants about four days of rain and then it runs and nobody has the wood for it.”
 
 That was the whole of what was said in there by anybody, and she went out and shut the door behind her.
 

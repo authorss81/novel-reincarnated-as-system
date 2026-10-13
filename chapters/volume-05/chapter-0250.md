@@ -114,4 +114,4 @@ The ninth of a month was a day like every day since the second. She is in a term
 
 And the only thing that changed about the cold between the two sides of a line of work is which of them charges her for it.
 
-Four hundred yards up that track there is a low room with a counter in it and a stove and six men, and the man at the counter reads papers out loud, and on the seventh of that month she is going to go into it.
+Four hundred yards up that track there is a low room with a counter in it and a stove and six men, and the man at the counter reads papers out loud, and on the tenth of that month she is going to go into it.

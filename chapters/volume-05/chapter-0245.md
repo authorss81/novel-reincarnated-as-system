@@ -106,10 +106,8 @@ She did not say to herself why.
 
 There is a reason and it is arithmetic and it is that a woman who is owed nothing at the end of a day has to turn up at the fourth hour every day of a cold season to be worth something, and she is eighteen years old and she has been the strongest body on nine days of road since she was fourteen and neither of those things is going to happen again by itself.
 
-And the other reason is the old one and it is not arithmetic at all and she did not look at it, and it is that she has been on her own in a country where not one thing she does is written down anywhere except a plank, for twenty-three days, and a book that says she was here is worth more than a day of not having to ask.
+And the other reason is the old one and it is not arithmetic at all and she did not look at it, and it is that she has been on her own in a country where not one thing she does is written down anywhere except a plank, for twenty-five days, and a book that says she was here is worth more than a day of not having to ask.
 
 She did not say either of those out loud and neither of them goes on the page of anybody's book.
-
-The man at the plank had a rule and a book and a second date to write at the far end of a column, and he had not written it, and he had not said no.
 
 The man at the plank had a rule and a book and a second date to write at the far end of a column, and he had not written it yet, and he had not said no.

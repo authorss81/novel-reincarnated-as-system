@@ -2940,8 +2940,8 @@ Damage-as-technique (ch 39, used again ch 64, 64+71, held for Vol 7). Tax-takes-
 
 ## Established facts, Volume 5 Batch 0001 (ch 239–252) — KEEPING AND BEING KEPT
 
-**Fourteen chapters, 26,135 words of body prose — the `#` title line and every `##` section heading excluded,
-by the method the Volume 3 and Volume 4 records use — and 26,769 raw, headings included.** Day 471 to day 506. ZERO bracketed layer lines in fourteen chapters, which is
+**Fourteen chapters, 25,886 words of body prose — the `#` title line and every `##` section heading excluded,
+by the method the Volume 3 and Volume 4 records use — and 26,520 raw, headings included.** Day 471 to day 506. ZERO bracketed layer lines in fourteen chapters, which is
 deliberate: the first layer line of Volume 5 is the Golden Core 1 bracket at ch 258 and it has to land as the
 first thing the layer has said since ch 237.** Batched against `outline/batches/volume-05-batch-0001.md`. Every
 card's beat is on the page. No chapter in Volumes 1–4 was opened.
@@ -3082,8 +3082,11 @@ believe it*, *suddenly*, *little did he know*: **zero.** Authorial scaffolding �
 *the reader*, *in this batch*: **zero.** Named weekdays: **zero.** Calendar months named: **zero.** Harem or
 romance: **none; Wei Ran is a rate and a road on one card.** Speeches closed in all fourteen files. Markdown
 plain in all fourteen files: no blockquote, no code fence, no table, no horizontal rule. **No paragraph over 90 words; the two longest are exactly 90 and the next two are 89.** Word counts by file
-are 1,853 · 1,849 · 1,809 · 1,937 · 1,814 · 1,969 · 1,932 · 1,862 · 2,013 · 1,937 · 1,974 · 2,001 · 1,875 ·
-1,944, all inside the 1,800–2,700 guide and none under the 1,300 floor.
+are 1,801 · 1,813 · 1,769 · 1,861 · 1,767 · 1,881 · 1,862 · 1,777 · 1,962 · 1,882 · 1,894 · 1,954 · 1,824 ·
+1,839, none under the 1,300 floor. **Three sit under the 1,800 guide — 241 (1,769), 243 (1,767) and 246 (1,777)
+— and none is above it; the longest is ch 247 at 1,962.** *(Corrected at review: the figures first recorded here
+were the raw per-file totals under a body-prose heading, and the claim that all fourteen were inside the guide was
+false.)*
 
 ### Two drafting decisions recorded against the card file
 
@@ -3110,9 +3113,82 @@ Both are inside the card's own beat and neither changes a card, a day, a title o
 | Hours | **One hand, in order, with dates, continuous since the second of a month, and not split once in this batch.** Pays on the seventh, the seventeenth and the twenty-seventh; a day not worked is a day not paid and no day can be moved. **Nine stubs in four marks in the oilcloth above the Clay Plate, none checkable by anybody within nine days of road** |
 | Settlement | **About six weeks at the open of the batch and NO FIGURE OF HIM ANYWHERE AFTER IT.** Merit: **zero.** Ledger: **not ordered, not held, not priced, not refused** |
 | The claim | **STANDING, ACTIONABLE ON THE FAR SIDE, AND NOT ANSWERED.** Eight hundred jin, travelling on the licence, confirmed at ch 251 by the office that has held it on a spike for a month. **The price of acting is her own column, said once at ch 252. She said no once, in her own head, with no speech.** Hou unpaid, patient, never met; the date in Lowwater untouched; Luo Ping a direction; **no draft written and none sent** |
-| The referral | **Still pending.** The space holds a countersignature dated from the far side and that is not an answer. A Wall writ is not issued to a field agent. **The line's own people still do not know she exists, and the second line's people know her hours and not her name.** **The Hunter does not want the claim answered either, and wants his request pending, and has said so out loud at nine feet for the second time in this book** |
+| The referral | **Still pending.** The space holds a countersignature dated from the far side and that is not an answer. A Wall writ is not issued to a field agent. **The line's own people still do not know she exists, and the second line's people know her hours and not her name.** **The Hunter does not want the claim answered either, and wants his request pending, and has said so out loud at nine feet for the second time** |
 | Inside the bound | **A tower with a light in it that is on at the fourth hour and does not stop. A bundle going down a stair and a clerk's arms going up four flights and coming down empty. A floor of nine men and the same nine and all of them still on it.** Known only by report, from a stranger's mouth at a pot, ch 244, nine days away, and she has no way to ask again. **No scene west of the line in this batch** |
 | Money | **Five coppers a day and five coppers of bread a day, and the number in her hand the same at the start and the end of the day.** The one total in the batch is at ch 241. The tin is gone since the evening of day 268 and is not brought back. **Ninety coppers is the quoted price of the road west when it opens, and the road west is shut for the season with no date from anybody** |
 | What changed | **She is a person a wage-book holds. She is booked and cannot be un-entered. An office four hundred yards away has been told, in the ordinary voice, in front of six men, that a figure on a sheet in that room is actionable on this side — and does not know the woman it is about is standing at the counter.** The road that goes back inside is still shut and no draft has been written |
 | Still open | **The Hunter's request; everything above the Standing Office of the Second Account; *kiln-born*; what became of the eleven; why the register reads *reconciled*; the year of non-forgiveness, still carrying; Golden Core 1 (ch 258, day 512); the surface answer (ch 267); Feng's fair Foundation copy past the line (ch 262); Yuan entered (ch 272)** |
 
+
+---
+
+## Volume 5 Batch 0001 — REVIEW REPAIR (applied after `logs/next-0004.review.log`)
+
+**Nine defects repaired in the chapters and three in the state files. The planned plot, the fourteen titles,
+the chapter order, every card beat, the four pay-days and the day table were not changed.** No chapter in
+Volumes 1–4 was opened. The day arithmetic that underpins the batch survives intact: ch 239 = days 471–473,
+ch 249 = days 498–500 and ch 252 = days 505–506, with pays on days 480, 490 and 500.
+
+**1 — Six chapters ended on a duplicated paragraph (242, 244, 245, 246, 249, 252).** 242 was byte-identical
+and the other five differed by trivial edits. In each the better copy was kept and the other removed, and the
+two endings that carry the batch were the ones that mattered: **ch 249 now closes once, on the fire under the
+trestle that she does not pay for, and ch 252 now closes once, on *The only thing that has changed on this
+reach since the second of a month is that an office four hundred yards away now knows exactly which book it
+would have to open.*** 244's kept copy is the two-sentence one and now reads *The man at the plank*, which is
+the volume's idiom in eleven other places against one. 245 keeps the copy carrying *yet*. 246 keeps the copy
+that names its subject, so the closing paragraph does not open on a bare *He*.
+
+**2 — A seventh duplicate, inside ch 247, not at the close.** *“All of it.”* stood twice in succession, once
+as her answer and once as a copy of it. One removed. **The ch 248 echo at her thought and at his spoken line
+is not a duplicate and was left alone**: it is twenty-two paragraphs apart, in a different voice, and it is
+the chapter's whole beat — she works out what he is, and then he says it back to her.
+
+**3 — The stub count.** Ch 252 said **eight** stubs where ch 249, `state/current.md` and the card file all
+say **nine**. Nine is right and the chapter now says nine. Three of the nine come off the far-side plank on
+days 480, 490 and 500, one man and one mark; six come from inside the bound over two months.
+
+**4 — Four instances of authorial scaffolding**, the same class the Batch 0002 prompt bans. Ch 248 *the way he
+has said it four other times in this book* → *four other times*, and *for the second time in this book* →
+*for the second time*. Ch 249 *For the first time in this book she can prove she was somewhere* → *It is the
+first time she has been able to prove she was somewhere.* Ch 251 *For four volumes she had wanted the office
+and the answer confused* → **For four years**, which is her span and the batch's own idiom at ch 245, ch 248
+and ch 249. **The count of four other times was checked against ch 248's own enumeration** — a hall with no
+roof, a step in a lane, on high ground, and the fourth of a month three months back — and is correct.
+
+**5 — Straight ASCII quotes in four files** (ch 240, 242, 247, 248, seven in all). All converted to the
+book's curly pair. **There is now not one straight quote in the batch.**
+
+**6 — Day and count slips the review did not raise, found here against the card file's own day table.**
+**Ch 249 said she had watched the pay four times and had been on that side for about four weeks.** The pay
+dates are the seventh, the seventeenth and the twenty-seventh; she crossed on the second of a month, so by the
+seventh of the following month there have been **three** pays and **thirty-five days**. *About five weeks,
+and three times.* Left unrepaired this chapter contradicted itself fourteen paragraphs later, where it counts
+three far-side strips. **Ch 250's closing forward-reference named the seventh of that month; ch 251 is the
+tenth**, and the seventh was two days behind her. *On the tenth of that month.* **Ch 245 counted twenty-three
+days alone; the second of a month to the twenty-seventh is twenty-five.** *Twenty-five days.*
+
+**7 — Ch 239's rhetorical engine was over-run.** *Not one man* and *not one of them* stood six times in one
+chapter, three of them inside a single paragraph. Four were recast — *there is no man at that yard who is*,
+*every one of the eleven of them went on doing what he was doing*, *she did not have to say one word about
+paying for it*, *Nothing on this reach can see what she is*, and *None of them asked her where she came from*.
+**The two strongest instances are kept** — the establishing *not one of them has put her anywhere on it* at
+the open, and *Not one man at that trestle said her name*, which is the chapter's line. **The meaning did not
+move: the country still asks her nothing.**
+
+**8 — Three state-file repairs.** `state/current.md` line 21 had been corrupted into a bare H2 with an orphan
+`**`, breaking the cold-reader read order; restored as the list item it was. The batch's word counts were
+recorded as the **raw** per-file totals under a **body prose** heading, and the claim that all fourteen
+chapters sat inside the 1,800 guide was false; **three sit under it — 241 (1,769), 243 (1,767) and 246
+(1,777)** — and none is above it, so the batch total is **25,886 words of body prose over fourteen chapters,
+average ~1,849**, and 26,520 raw. Two summary phrasings that quoted the repaired chapter sentences were
+brought back into line with the page.
+
+**Nothing else in the batch was touched.** Foundation 9 and nothing above nine anywhere in the world; the
+right index finger gone; about six weeks of channel; zero bracketed layer lines; Yuan's six sentences in
+present tense; merit zero; the Ledger not ordered, not held, not priced and not refused; the claim standing
+at eight hundred jin, actionable on the far side, not answered, not paid and not assessed; nine stubs in four
+marks; Hou Sanliang unpaid, patient and never met; the date in Lowwater untouched; no draft written and none
+sent; the register still reading *reconciled*; MEMBER ABSENT three times and unraised; Shen Xiu unforgiven
+and unthanked; ch 150's refusal untouched; the year of non-forgiveness not mentioned once in fourteen
+chapters and still carrying; Feng absent and his fair Foundation copy unspent at ch 262; Yuan's own page
+unspent at ch 272; the surface answer still owed at ch 267.

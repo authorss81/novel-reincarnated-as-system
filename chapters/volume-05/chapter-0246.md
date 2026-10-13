@@ -106,6 +106,4 @@ She did not answer him.
 
 At the seventh hour she wrote the date in and it took about eleven minutes and the man at the plank held the page flat with his palm without being asked.
 
-He has a second date to write at the far end of a column and a rule to write it at, and he has not written it, and she has not asked him for it again.
-
 The man at the plank has a second date to write at the far end of a column and a rule to write it at, and he has not written it, and she has not asked him for it again.

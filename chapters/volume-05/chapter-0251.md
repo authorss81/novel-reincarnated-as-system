@@ -118,7 +118,7 @@ She was angry, in the plain and complete way, standing at a counter about four h
 
 And she was angry at herself, which was new, and it took the whole of the walk back down the track.
 
-For four volumes she had wanted the office and the answer confused. She had wanted a room that could act and a thing she could not be got for to act on, and she had crossed a flat in the dark to get to one, and she had got to it, and the room can act.
+For four years she had wanted the office and the answer confused. She had wanted a room that could act and a thing she could not be got for to act on, and she had crossed a flat in the dark to get to one, and she had got to it, and the room can act.
 
 The difference between what she wanted and what she has is about nine feet of wind and a door.
 

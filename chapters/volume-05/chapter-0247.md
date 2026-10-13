@@ -86,11 +86,9 @@ On the fifth of the month at about the sixth hour a man of about thirty at the e
 
 That was not a question about anything. It was a man on a job checking a thing about the labour on a job, the way a man checks the weather in the morning.
 
-"Yes," she said.
+“Yes,” she said.
 
-"All of it."
-
-"All of it."
+“All of it.”
 
 He went back to the easy end and did not say one word else, and that was the first question anybody on that reach had put to her in about a month, and it was about the fourth hour, and the answer cost her nothing and told him everything he needed to know.
 

@@ -4,7 +4,7 @@ She asked it at the counter on the twelfth of the month at about the seventh hou
 
 “What would it take.”
 
-He did not have to look anything up. He put his hand on the sheet the way he had put it there a day before and he said it out loud at the speed a man reads so that the people behind him could hear it, and there were six of them behind him and none of them moved.
+He did not have to look anything up. He put his hand on the sheet the way he had put it there two days before and he said it out loud at the speed a man reads so that the people behind him could hear it, and there were six of them behind him and none of them moved.
 
 “A claim is a figure,” he said. “A figure is only paid against something. The only things on this side of that line a claim can be paid against are hours worked past the last working point. And there is one run of those with dates in it on this reach and it is in a book four hundred yards down that track with a woman's name at the top of it.”
 
@@ -102,12 +102,10 @@ That is the whole of what she knows and every part of it came out of an ordinary
 
 She did not open the licence. She has not opened it in four years and she did not open it on the twelfth of a month with the price of the claim in her head.
 
-She did not write anything anywhere. There were eight stubs in the oilcloth against her ribs in four marks and a plate under all of them and a hut with three boards in it four hundred yards east.
+She did not write anything anywhere. There were nine stubs in the oilcloth against her ribs in four marks and a plate under all of them and a hut with three boards in it four hundred yards east.
 
 She was Foundation nine, and there is nothing above nine anywhere in the world, and the only place on this reach where anybody could ever act on her is four hundred yards behind her at a counter, and the only thing they would act on is a column of hours that is hers.
 
 She went to the hut.
 
 The season runs to the end of the carts, the road that goes back inside is shut, and there is a thing that has to be written and has not been written. The only thing that has changed on this reach since the second of a month is that an office four hundred yards away now knows exactly which book it would have to open.
-
-The season runs to the end of the carts and the road that goes back inside is shut and there is a thing that has to be written and has not been written, and the only thing that has changed on this reach since the second of a month is that an office four hundred yards away now knows exactly which book it would have to open.
