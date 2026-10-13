@@ -1,15 +1,15 @@
 # Current State
 
-**As of:** Volume 4, Batch 0001 written. **VOLUME 1 CLOSED. VOLUME 2 CLOSED AND AUDITED. VOLUME 3 CLOSED AND AUDITED — CH 1–178 ON THE PAGE. VOLUME 4 OPEN — CH 179–192 ON THE PAGE.**
+**As of:** Volume 4, Batch 0002 written. **VOLUME 1 CLOSED. VOLUME 2 CLOSED AND AUDITED. VOLUME 3 CLOSED AND AUDITED — CH 1–178 ON THE PAGE. VOLUME 4 OPEN — CH 179–208 ON THE PAGE.**
 
 ## How to read this file
 
 This file is **append-only and long, and most of it is history.** You do not need all of it to write.
 
-- **For a cold start, read only two things, in order:** ***Who is where at end of chapter 192*** (the
-  block below the acceptance check, written at the top of the Volume 4 Batch 0001 record) and
-  ***What Volume 3 must not do*** (below), which Volume 4 still inherits in full. A Volume 4 Batch 0002
-  drafter should not have to read past those to start.
+- **For a cold start, read only two things, in order:** ***Who is where at end of chapter 208*** (the
+  block at the top, written at the Volume 4 Batch 0002 record) and ***What Volume 3 must not do*** (below),
+  which Volume 4 still inherits in full. A Volume 4 Batch 0003 drafter should not have to read past those
+  to start.
 - **For canon you must not contradict,** go to `state/continuity.md` and `state/open-threads.md`, which
   are the authoritative per-batch records.
 - **Everything below the Volume 3 Batch 0004 acceptance check is a superseded historical block** unless
@@ -19,12 +19,12 @@ This file is **append-only and long, and most of it is history.** You do not nee
 - **This file is never pruned by a writing phase.** If a section is wrong, correct it in place and say
   so in the phase's repair note rather than deleting the record.
 
-- **Volume:** 4 of 16 — **The Wall (ch 179–238)** — outlined in `outline/volume-04.md`, **BATCH 0001 WRITTEN (ch 179–192, 28,608 words over fourteen chapters, average ~2,043)**. Figures are post-review-repair; the tense pass in ch 179–192 netted −3 words and changed no beat. Volume 3 (ch 119–178) remains **all four batches written and audited**: Batch 0001 (ch 119–132), 36,809 words over fourteen chapters; Batch 0002 (ch 133–148), 36,742 words over sixteen chapters; Batch 0003 (ch 149–163), 30,958 words over fifteen chapters; Batch 0004 (ch 164–178), 30,505 words over fifteen chapters. **Volume 3 file set: 135,014 words.** All figures are post-audit-repair.
-- **Volume 4 goal**, fixed by `outline/series.md` §9: *In this volume, Ning Yan must break the boundary, or neither of them ever learns what they are.* Batch allocation fixed by `outline/volume-04.md`: **0001 = ch 179–192 (written) · 0002 = ch 193–208 · 0003 = ch 209–222 · 0004 = ch 223–238.**
-- **Chapter written:** **1–192. THE NOVEL RUNS TO CHAPTER 1000; VOLUME 3 IS COMPLETE AND AUDITED; VOLUME 4 IS OPEN THROUGH BATCH 0001.** Nothing of ch 193 onward is drafted.
-- **Next phase:** **Volume 4, Batch 0002 — the drafting phase**, at `workspace/volume-04-batch-0002/PROMPT.md`. **It writes ch 193–208 in prose**, against `outline/volume-04.md` (*Pressure rotation*, Batch 0002: *hiring, the road, and whose book an hour goes into*) and `outline/batches/volume-04-batch-0001.md`'s hand-off. **It opens on day 254 with the season's road open** and **relicenses and announces Foundation 1 at ch 207.** **The cards for Batch 0002 have not been written yet** — if the next phase is a planning turn instead, the single output is `outline/batches/volume-04-batch-0002.md` and no chapter prose. Volume 4 is **sixty chapters sized to its own arc, not to a fixed count.** The one-sentence goal of Volume 3 was paid and is recorded as PASS at the first row of the audit table below; **Volume 4's own goal is unpaid and its midpoint is ch 205.**
+- **Volume:** 4 of 16 — **The Wall (ch 179–238)** — outlined in `outline/volume-04.md`, **BATCH 0001 WRITTEN (ch 179–192, 28,608 words over fourteen chapters, average ~2,043)** and **BATCH 0002 WRITTEN (ch 193–208, 31,941 words over sixteen chapters, average ~1,996)**. Figures are post-review-repair; the tense pass in ch 179–192 netted −3 words and changed no beat. Volume 3 (ch 119–178) remains **all four batches written and audited**: Batch 0001 (ch 119–132), 36,809 words over fourteen chapters; Batch 0002 (ch 133–148), 36,742 words over sixteen chapters; Batch 0003 (ch 149–163), 30,958 words over fifteen chapters; Batch 0004 (ch 164–178), 30,505 words over fifteen chapters. **Volume 3 file set: 135,014 words.** All figures are post-audit-repair.
+- **Volume 4 goal**, fixed by `outline/series.md` §9: *In this volume, Ning Yan must break the boundary, or neither of them ever learns what they are.* Batch allocation fixed by `outline/volume-04.md`: **0001 = ch 179–192 (written) · 0002 = ch 193–208 (written) · 0003 = ch 209–222 · 0004 = ch 223–238.**
+- **Chapter written:** **1–208. THE NOVEL RUNS TO CHAPTER 1000; VOLUME 3 IS COMPLETE AND AUDITED; VOLUME 4 IS OPEN THROUGH BATCH 0002.** Nothing of ch 209 onward is drafted.
+- **Next phase:** **Volume 4, Batch 0003 — the drafting phase**, at `workspace/volume-04-batch-0003/PROMPT.md`. **It writes ch 209–222 in prose.** Batch 0002 has opened the road, hired her, put her hours in a contractor's wage-book, taken the second relicensing in three legs, put **MEMBER ABSENT** on her member's sheet at ch 205, and **relicensed and announced Foundation 1 at ch 207** — **announced inside the bound and heard by nobody at all**, because she is nine days outside it. **Batch 0003 is the line walked and the people who live on it**, per `outline/volume-04.md` (*Pressure rotation*): **Foundation 2 at ch 211 · 3 at ch 214 · 4 at ch 217 · 5 at ch 220**, and **the line's own win, off page, at their cost.** The volume's midpoint is paid and **its closing batch, ch 223–238, owns the blind run, the finger and the crossing.**
 - **Point of view:** close third on Ning Yan; every line Yuan speaks is written in the present tense.
-- **In-world date:** **day 253** of the run's own clock — the third month of the cold. **Day 0 is the last day of the thaw** (canon change 30). **Month-day = day − 133** on a thirty-day month (ch 150 puts day 136 at the third of the month): the fourth monthly attendance was **day 239, the sixteenth**, thirty days on from the third at day 209. **The season's road shut on day 117 and reopens on day 254**, per a sealed county notice on the public shelf; **Batch 0002 opens there.** The thaw is on about the same day.
+- **In-world date:** **day 280** of the run's own clock — the first working season on the line. **Day 0 is the last day of the thaw** (canon change 30). **Month-day = day − 133** on a thirty-day month (ch 150 puts day 136 at the third of the month): the fourth monthly attendance was **day 239, the sixteenth**, thirty days on from the third at day 209. **The season's road shut on day 117 and reopens on day 254**, per a sealed county notice on the public shelf; **Batch 0002 opens there.** The thaw is on about the same day.
 
 **What the close audit confirmed, in one place.** `outline/volume-03.md` has been walked line by line against
 ch 119–178 and **all thirteen named items PASS**; **nine faults in the chapters were found and repaired**,
@@ -40,6 +40,107 @@ footprint rule was backwards and contradicted four closed Volume 1 chapters, so 
 were reverted to four counties** and ch 131's age was corrected to the canon figure. Full table at
 `## Volume 3 close audit — CLOSED` below, and **the reversal is written up under
 *Close review repair* in that same block — read it before using any footprint figure from the audit.**
+
+## Who is where at end of chapter 208 — VOLUME 4 BATCH 0002 CLOSED (cold reader starts here)
+
+Full record: `state/continuity.md` under ***Established facts, Volume 4 Batch 0002 (ch 193–208)*** and
+***Volume 4 running ledger — at end of ch 208***. **Day 280.** She is on the course, in a bunk with three
+boards and a mat on it, nine days east of Lowwater, with about ten coppers and four stubs of paper in an
+oilcloth.
+
+- **Ning Yan** — **FOUNDATION 1, reached at day 276 and announced at her own order in the ordinary way,
+  and heard by nobody.** Ceiling at **Foundation the first stage**, relicensed on the **second** set of
+  legs, all three of them outside this county: **a contractor's clearance at a counter on day 264**, **three
+  marks on a sheet in a room at the west end of the camp on the evening of day 265**, and **a countersignature
+  in an office's hand and not a person's on day 266**, applied to a schedule made by **Ren Shu** reading the
+  contractor's wage-book aloud to a room she was not in the middle of. **The relicensed licence is a document
+  she has never touched.** Seven conditions referenced, never re-listed; the claim the seventh and last, on
+  the back, untouched. **The stage column reads one, two, three, five, six, seven, nine, one** — three holes
+  in nine lines as before, **in the county books of four counties out of nine and read out across all nine.**
+  **Nine counties have heard nothing this year**; the four books that would carry it are nine days west and
+  have not been told. Short breath three counts on stairs, four on a grade, never back to two. **The heel of
+  her left hand is gone** and every county hour still takes eleven minutes with the flat of a second finger.
+  Right arm open a third of the time. Aperture cracked through and permanent. **A cold has started under her
+  ribs that will not go for four weeks** — a body that has never been full and cold at the same time — and
+  **she is not hungry.**
+- **MEMBER ABSENT.** **This is the batch's irreversible decision and the volume's. Day 269, the sixteenth.**
+  Entered in the county's own two words, in the hand that writes *Member present*, in the attendance column
+  of the county's monthly member sheet, which travels with the work. **Beside it, in a column that is not
+  joined to it, nine days of her hours stand in order with dates on them in a contractor's hand, and every
+  one of them is good, and no quantity of hours reaches the attendance.** **She was offered the one word
+  that could have gone in the reason column, by Ma Sheng, unasked, in the ordinary voice, and did not write
+  it** — because **the reason column is the column her hours go in**, in the only book in the world that can
+  certify an hour she worked out here, read in order with dates by an office past the boundary. **Permanent.
+  Not payable in hours. On her member's sheet. The first thing she has ever lost by choosing to move rather
+  than by being stopped**, and she was not stopped: she did not count the sixteenth, and there are four days
+  in the road where she could have turned round, and she has refused out loud in her own head the version in
+  which anything was taken out of her hands.
+- **The wage-book.** A contractor's book with four columns — **date · stretch · hours · price** — and the
+  price column is the reason column, and the hours go in it. Eleven men, a foreman, a girl of nineteen, a
+  tender, **paid by the day at six coppers a day and a place at the fire**, which does not leave anything to
+  put by. **Six coppers is the day's wage at the end of the road and the passage to reach it cost more per
+  day than the wage pays.**
+- **The first honest description of the line is on the page, at ch 199, in a worker's mouth.** They call it
+  **the line**, call the work **tending**, call the job **the course**. Where the work is done well and on
+  time the line holds; where it is not, it leaks, and what comes out of a badly kept stretch is **drift**, and
+  the drift is thicker where the work is worst. Ninety parts of it: the residue of everything said inside
+  goes in the ground on the far side and runs along and pools and thickens where the ground is soft. **They
+  are right and nothing in this volume proves them wrong.** What the drift is made of and who put it there is
+  not answered and was not asked.
+- **Cui Bao**, about fifty, foreman, eleven men, **a daughter of nineteen on the line**, right about
+  everything and wanting nothing from her but her hours. **Ma Sheng**, about thirty, tender, **nine years on
+  the course**, keeps the carriers' board, read the west-going line out of it for her in under a minute for
+  nothing, and brought her a second blanket without a word. **Neither is a villain and neither is wrong.**
+- **Ren Shu**, a clerk of the schedule office at Stony Ford, who reads a contractor's book aloud to a room
+  and not to her. **The office that countersigned is not his office and was not named.**
+- **Luo Ping** — **found, and at work.** Thirty-nine, sixteen years of other people's schedules, four or five
+  offices in a season. **He told her, unasked, exactly what his trade is, and that nobody in sixteen years
+  has ever asked him whether a date ought to have gone in. He does not know who sent him on that occasion
+  and would not say if he did.** **Finding him answered nothing.** The claim stands, the date is not torn
+  off, **Hou Sanliang is unpaid, patient, and has never been met and does not appear.** His wife and boy of
+  eleven are **eleven days west** and she did not tell him she knew, because it would be a way of making him
+  small.
+- **Bai Zhu.** At ch 196 only, on high ground, in a plain coat with a notebook, having walked east ahead of a
+  road he is under no instruction to walk. **He bought nothing, threatened nothing, touched her, entered her
+  rooms, and did not ask her a question and said so in the same breath.** He gave her one true thing about
+  where she was going that he had no business giving, in the ordinary voice, **and she did not thank him,
+  because thanking him would have made his work into a kindness.** **Named in nobody's mouth; no document
+  he signs was produced; he is not seen again in this batch.** The referral and the request are **still
+  pending** and the district's answer is **still four words and an empty space the width of a line.**
+- **The counterfoils.** **Four stubs of paper off a contractor's book, about nine inches by two**, each with
+  a date, hours, stretch, rate and the contractor's mark, and a painted mark of the stretch on the corner.
+  **This is the only object in the world that can certify an hour she worked out there.** She keeps them in
+  the oilcloth, above the Clay Plate, with three dead weight tickets.
+- **She has seen three hundred yards of a nine-day line.** The map is on the back of a board in a room and
+  **nine days** is written on it. Cui Bao has not walked it end to end this season and most men have not.
+- **Yuan.** Voice. **About two days of channel at ch 192, rationed, thinning** — **spent once in this batch
+  at ch 193 and wasted, once at ch 194, once at ch 196 and it bought the truest thing he has said to her in
+  a volume, two at ch 203 and they bought the least, and once at ch 204.** **At the worst of the second day
+  on the climb her hand was on it and she did not order it, and no price is named anywhere in ch 193–208.**
+  **Ledger: not ordered, no refusal scene, no price.** **Merit: none. Nothing in this batch kills anything or
+  clears anything the layer has listed.** **He does not grow back and he is quieter at the end of this batch
+  than at the start of it.** He is **silent throughout about the office above this county.**
+- **The crew at Qinghe** — **nine men and her; ten sleepers in twelve bunks.** She has not seen them since
+  the morning of the first of the month, **cannot send anything and cannot tell them anything**, and named
+  them in her own head at ch 205 as the cost. **Gao kept the second bunk and said so instead of saying the
+  sum a third time. Qin walked her to the dressed stone and put a warm flat of bread into her hand and asked
+  nothing.** Nine men are nine days west and have not been told anything.
+- **The girl of twenty-four** — alive, forty-two copied run lists, **the forty-second carried the course's
+  roll of hands and is the only reason a roster has ever reached a wash house in this county.** Not thanked,
+  not paid, not offered.
+- **Money** — **about thirty coppers on day 254**, spent on a seat at a contractor's cart at the fourth
+  bridge (twenty-two coppers, two days, to the turn of the Verge) and two days of food and four more days of
+  bread. **Six coppers a day in and six coppers a day out.** **The tin is gone by the evening of day 268**
+  and nothing after that calls it anything but gone.
+- **Nothing Volume 3 left open was answered.** The empty space is still empty; the claim stands with its
+  date; what became of the eleven is not raised; the office above this county is not named; the sponsors'
+  second book is lodged nowhere and spoken of nowhere; **Shen Xiu unforgiven and unthanked; the register
+  still reads *reconciled*; the Clay Plate still worn; Feng Lushi alive and not thanked; Ning Wu does not
+  appear.** **She does not forgive him and she does not tell him to stop**, and the year was touched once at
+  ch 206, at low volume, as a purchase that is still carrying with not one line in it that says settled.
+- **Nothing is announced in this country.** It is not a failure. There is a room and she is not in it.
+
+---
 
 ## Who is where at end of chapter 192 — VOLUME 4 BATCH 0001 CLOSED (cold reader starts here)
 

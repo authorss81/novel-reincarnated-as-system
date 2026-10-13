@@ -1627,6 +1627,235 @@ remembered at the last page of the book.** *The shape of a happy life*, spent un
 Wu. **Yuan's origin, Volume 11** — he never tells her what he was before he died before then, and does
 not learn she saw him as a readout before then either.
 
+## Established facts, Volume 4 Batch 0002 (ch 193–208) — HIRING, THE ROAD, AND WHOSE BOOK AN HOUR GOES INTO
+
+**Sixteen chapters, 31,941 words, average ~1,996.** Day **254 to day 280**. Longest ch 199 (2,677), shortest
+ch 203 (1,637). **One bracketed layer line in sixteen chapters, at ch 207.** Batch shape is not monotonic
+(2,007 · 1,994 · 2,080 · 2,216 · **1,684** · 2,069 · **2,677** · 1,778 · 2,057 · 1,714 · **1,637** · 1,716 ·
+**2,277** · 1,852 · 2,172 · 2,011): the peaks are the county that does not exist (196), the wage-book (199),
+the attendance (205) and the stage nobody heard (207); the valleys are the camp that does not turn round
+(197), the man who cannot be caught (203) and the board that cannot be bought (204).
+
+### The clock, as drafted
+
+- **Day 0 is the last day of the thaw. Ch 192 is day 253. Ch 193 is day 254 and ch 208 ends on day 280.**
+  Ch 207 is **day 276**. Nothing falls between batches.
+- **Month-day = day − 133 on a thirty-day month.** **Day 254 is the first of the month. Day 268 is the
+  fifteenth. Day 269 is the sixteenth** — thirty days on from the sixteenth at day 239. Ch 204 therefore
+  happens on **the day before the sixteenth**, which is what the chapter says, and ch 193 happens **on the
+  first**. The ch 205 card's "the sixteenth" is on the page and **the sixth is not on the page anywhere.**
+- **Nine days out, one way.** Day 254 to about day 263, along the Verge road past the fourth bridge and up
+  out of the Verge onto the high ground. The carrier at the fourth bridge says **eight days on foot if you
+  go at it and eight if you have a bad night** — nine days is the reach she writes on the back of her hand.
+- **The carrier's turnaround is about eighteen days east and back**, and the last west-going carrier went
+  eleven days before day 268. **The attendance was therefore never reachable, and ch 204 says so once and
+  ch 205 says it once and neither card makes it a logistics question.**
+- **The tin.** About **thirty coppers** on day 254. **Twenty-two** for a contractor's cart, two days, to the
+  turn of the Verge; two days of food and four more days of bread; about four and a half coppers on day 267;
+  **six coppers a day in and six coppers a day out** from the first working morning; **gone by the evening of
+  day 268**, and nothing after that calls it anything but gone. **It is never re-counted against any other
+  figure** and is never called empty or spent before the evening of day 268.
+- **The channel.** About two days at ch 192, rationed, thinning. **Six ration spends in the whole batch** —
+  ch 193 (wasted), ch 194, ch 196 (buys the truest thing he has said to her in a volume), two at ch 203 (buy
+  the least, and she knows it while she says them), ch 204 (the date, out loud, to nobody). **No figure of
+  what is left is stated anywhere in ch 193–208**, no total, no arithmetic, no bare Settlement fraction, and
+  **the ration is never counted back into a rate and never multiplied by a number of days.** Two whole days
+  with nothing in them at ch 206. **He does not grow back.**
+- **No weekday is named anywhere in ch 193–208.** ***Eleven weeks*: zero.** **The four seconds: zero.**
+
+### What the batch established on the page
+
+1. **A roster reached a Lowwater wash house because a girl of twenty-four copies carriers' run lists** (ch
+   193). **Forty-two lists**, and the forty-second had the course's roll of hands along the bottom of it where
+   a carrier's own entries had been rubbed out for reuse — eleven men, a foreman's name, a day rate, a
+   tender's name and the working reach in a carrier's shorthand. **It is a job, not a favour.** She is not
+   thanked, not paid, and not offered anything.
+2. **The season's road reopened on the morning of day 254** and she was on it before the light was off the
+   hill, **with no speech made to nine men** (ch 193). Gao holds the frame and, instead of saying the sum a
+   third time, says that the second bunk has not been moved off. **Qin walks her to the dressed stone and
+   puts a warm flat of bread into her hand and asks nothing.**
+3. **The reach is nine days and the wage at the end of it is six coppers a day, and the passage costs more
+   per day than the wage pays** (ch 194). She buys a seat at the fourth bridge for **twenty-two coppers**,
+   which is the first money she has spent on herself in the book. A carrier knows **loads, days and the four
+   places where a cart turns**, and **the last one turns because there is nothing past it worth an axle**.
+4. **A body at Condensing nine has a limit, and it is not the limit of a person who has done nothing** (ch
+   195). The fullness does not make the work cheaper; it makes the work heavier, because there is more of her
+   in every thing she lifts. **Three counts on a flat, four on a grade, and five there and not taken.** At
+   the worst of the second day her hand was on the Ledger and **she did not order it**, and no price is named
+   anywhere in the batch. **She is alone for three days and being alone is not a shortage for the first time
+   in three volumes.**
+5. **Past the boundary is somebody's ordinary country** (ch 196). Lit windows that are lit because somebody
+   wanted them lit and not because a rule says to put them there; fields with ditches and gates; a road used
+   and not maintained; lime mortar in a ditch. **Nothing is announced out here, because nothing is announced
+   out here**, and she thinks about it once, in one sentence, and does not turn it into a theory.
+6. **Bai Zhu walked east ahead of a road he was under no instruction to walk**, bought nothing, attended,
+   watched, wrote everything down, **never asked her a question and said so in the same breath**, and gave
+   her one true thing about where she was going that he had no business giving. **She did not thank him.**
+   **He is not seen again in this batch.**
+7. **The course is a place where people are paid by the day and the day does not care who turns up in it**
+   (ch 197). She stands at the edge of a camp for the better part of a day with a bag in her hand and is
+   never asked what she wants. **She is the strongest body in that camp and the least useful person on it,
+   for the first time in her life, because strength has never once been the shortage.**
+8. **A name with a county behind it is the only thing that makes a set of hours into a record** (ch 198).
+   She says it in four seconds; it is the same name she had never been able to put in a place that wanted
+   it. **Legibility is not safety and she takes it anyway**, understanding in about two seconds that she has
+   made herself findable by the one office that can act on the claim. **She would do it again in the morning,
+   and that is the frightening part and not the finding.**
+9. **THE FIRST HONEST DESCRIPTION OF THE LINE IN THE BOOK, and it is ninety parts true** (ch 199), given in
+   the mouths of the people who live on it. **The line · tending · the course · drift.** Where the work is
+   done and done well and on time the line holds; where it is not, it leaks. **The drift is thicker where the
+   work is worst**, and the tender's own account is that what is said inside goes in the ground on the far
+   side and runs along and pools where the ground is soft. **He says ninety parts of it is that and that he
+   has never seen the tenth part.** What the drift is made of and who put it there **is not answered and was
+   not asked in those words and is Volume 6–10's.**
+10. **The wage-book has four columns — date, stretch, hours, price — and the price column is the reason
+    column, and the hours go in it** (ch 199). **She sees that in four seconds and does not know what it
+    will cost her until ch 205.**
+11. **Three men who sign other men's hours for a living put three marks on a sheet in a room at the west end
+    of the camp** (ch 200), **for no charge and with no question asked, because there was a bundle on the
+    table and that was the day.** One of them tells her unprompted that she has bought a week and not a
+    name. **The reason they sign is not stated, not hinted at and not explained**, and nothing about the
+    sponsors' second book is lodged or spoken. **She says thank you to nobody and that is not coldness.**
+12. **The third leg is not a person** (ch 201). **Ren Shu**, a clerk of the schedule office at Stony Ford,
+    reads a wedge of paper aloud to a room and not to her. **She is in the room and is not in the middle of
+    it; she is nine seconds from walking to the stand and does not**, because a number she read herself would
+    be worth nothing to her, since a relicensing needs a schedule and not a figure a woman saw once. **The
+    countersignature goes on in an office's hand and not a man's**, on a sheet she will not hold again, with
+    a line of office-name above the seal that she does not read and does not ask for. **The bar Sun He wrote
+    was not an obstacle; it was a description of where she was standing.**
+13. **The drift is thickest where the work is worst, and the people are right** (ch 202). The ring is a foot
+    of it on the low side of the worst stretch, it is cleared and it is back in three days, and the reason is
+    a schedule two seasons old and eleven men. **The girl of nineteen does the same eight yards in eight
+    minutes that she takes forty to do.** She says not one word about the drift to the foreman or the tender
+    and **does not offer to fix a schedule**, because the answer would be *no, ma'am*, which is how a place
+    says a thing about itself.
+14. **Luo Ping is at work** (ch 203). Sixteen years of other people's schedules, four or five offices in a
+    season, and **nobody has ever asked him whether a date ought to have gone in**. **He does not know who
+    sent him on that occasion and would not say if he did.** She asks two questions, gets two true answers,
+    stops. **She does not tell him what the date was against, and she does not tell him she knows about the
+    household, because it would be a way of making him small.** **A schedule-man is a trade and not a person.
+    Finding him answered nothing and she had known it before she got to the door.**
+15. **The board says there is no west-going carrier this week, and the tin is empty** (ch 204). **The reason
+    she is nine days from a county counter is thirty coppers and a seat at a bridge — and underneath it,
+    unargued: she had known since the first of the month and had not counted the sixteenth.**
+16. **MEMBER ABSENT, on the county's monthly member sheet, at the sixteenth, in the county's own two words**
+    (ch 205). **Entered separately from her hours. Not payable in hours. Permanent. On her member's sheet.**
+    Ma Sheng tells her unasked that any person standing on the course may write a word in the reason column
+    and that the word **does not take the attendance out**. **She does not write it**, because **the reason
+    column is the column her hours go in**, in the only book in the world that can certify an hour she
+    worked out here. **She has a reason in her mouth for about four seconds and does not say it.** It is the
+    batch's and the volume's irreversible decision and **nobody stopped her**.
+17. **A body that has never been full and cold at the same time** (ch 206). A cold two inches under the
+    breastbone that is there at the fire and under three blankets, **and she is not hungry**, and it will
+    not go for four weeks. **Foundation puts a base under the fullness, and nothing she has already spent on
+    technique can be put back on top of it.** The year is touched **once**, at low volume: the account is a
+    purchase, it is still carrying, and **there is not one line in it that says settled**. Ma Sheng brings a
+    second blanket without a word; **she does not thank him and does not know why she does not.**
+18. **FOUNDATION 1, relicensed and announced at her own order on day 276** (ch 207), **and it does not go
+    far.** Announcements are heard inside the bound and reach no further than the bound, and she is nine
+    days outside it, and **there is a room and she was not in it.** **Nine counties is what is heard and nine
+    counties have heard nothing this year; four is what is written and the four books that would carry it
+    are nine days west and have not been told.** The relicensed licence is **a document she never touches**,
+    dated from the far side, and **every hour that bought it was read out of a book she was not shown by a
+    man who was under no obligation to show it to her, and if he had been wrong by an hour nobody in the
+    world would ever know.** The bracketed line is the **first thing the announcement layer has said since
+    ch 171** and **the only thing it says in the whole batch**.
+19. **A counterfoil is the stub a worker keeps when a wage-book pays** (ch 208) — the date, the hours, the
+    stretch, the rate, the contractor's mark, and a painted mark of the stretch on the corner. **It is the
+    only object in the world that can certify an hour she worked out there**, it is worth more than every
+    document nine counties has ever given her, and **nobody in nine counties has ever seen one.** She takes
+    four of them. **She has seen three hundred yards of a nine-day line** and has not gone west.
+
+### The three legs of the second relicensing, as drafted — **clearance → seal → countersignature**, Volume 3 order, not inverted
+
+1. **Day 264, at a trestle — a contractor's clearance.** An ordinary working paper in Cui Bao's own hand,
+   with **no county stamp and no county number**, and worth nothing to any relicensing. She takes it because
+   a woman with no clearance does not get paid. **It goes in a different book from the county one and that is
+   the batch's argument in one object.**
+2. **The evening of day 265, in a room at the west end of the camp — three marks on a sheet.** **Lu Kang,
+   Deng Chao and Pei An**, signing other men's hours because it was their ordinary day. **Nobody asked her a
+   question, nothing was charged, and nobody was thanked.** **The reason is not stated and is not to be
+   guessed at.**
+3. **Day 266 — a countersignature in an office's hand and not a person's**, on a schedule read aloud out of
+   the contractor's wage-book by **Ren Shu** of the schedule office at Stony Ford, past the county's boundary,
+   on a schedule this county does not keep. **The number is not given to her. The office above this county is
+   not named. The seven relicensing conditions are not re-listed anywhere in ch 193–208.**
+
+### Construction budget — spent in Batch 0002, not to reuse
+
+Bracketed layer lines: **one in sixteen chapters, at ch 207**, and it names her, names Foundation, names the
+first stage and stops — **no location, no advice, no explanation, and nothing about what heard it.** The
+seven relicensing conditions re-listed: **zero** (the back of the licence referenced at ch 207 and never
+told). The suppression arithmetic: **zero**; the column's three holes are carried forward and not re-run.
+The signed-shift roster rule: **zero.** *There is no form*: **zero. There is no column*: **zero. The record
+remained*: **zero.** *Nobody asked*: **zero** (revoiced twice out of three draft uses). *Nobody knew*: **one**,
+at ch 196, in a settled sense and not a revelation. ***Nobody was thanked*: one**, at ch 200, and it is the
+three sponsors, which is the batch's one permitted use of that construction. *Nobody said anything*: **zero**
+(one draft use doubled in a single sentence and was cut). ***The line*: unavailable until ch 199, spoken there
+by the foreman in a worker's mouth, and available to the narrator only after she has heard it**; *tending*
+and *drift* on the same terms. **No Wall, no boundary, no drift and nothing about either side of anything
+before ch 199, and nothing about either side at all in the batch.** **No office named.** **No second outside-
+bound request. No new final enemy. Wei Ran does not appear and is not mentioned.** *Kiln-born* and the eleven
+designations: **zero.** The index finger: **named nowhere, priced nowhere, foreshadowed nowhere** — the four
+weeks of cold is the whole of what the stage costs on the page here. Weekdays: **zero named**. ***Eleven
+weeks*: zero. The four seconds: zero.** Banned reflexes: **zero.** Authorial scaffolding: **zero** — *this
+batch*, *this chapter*, *this one*, and *on the page* all leaked into five chapters in draft and every one
+was cut. *Nothing*: **eighty-seven across sixteen chapters** and thinned where it clustered (ch 195, 200,
+206). *Eleven men*: **carried, because the count is load-bearing, and thinned where it stacked (ch 207).**
+**Present perfect and simple present on Ning Yan and on named characters in narration: zero.** A grep that
+matches `(she|he|they) (has|have|is|does|will|can)` on narration lines **and strips anything inside “ ”**
+finds only the structural present about forms, offices, counties and classes of person, which is house voice
+and stays.
+
+### Carried forward, unchanged, into Batch 0003 (ch 209–222)
+
+- **FOUNDATION 1** for the whole of the next batch. **Foundation 2 at ch 211, 3 at ch 214, 4 at ch 217, 5
+  at ch 220**, per `outline/volume-04.md`. **Foundation 8 is suppressed at ch 234 and Foundation 9 goes past
+  the line at ch 237**, and **ch 236 is the first page on which Yuan reads the office name above this county.**
+- **MEMBER ABSENT**, on her member's sheet, separately from her hours, **not payable in hours**, permanent.
+  **Nothing in Batch 0003 may undo it.**
+- **A relicensing complete in three legs, all of them outside this county**, in the order clearance → seal →
+  countersignature. **Not re-told, not re-listed.**
+- **Four weeks of a body that has never been full and cold at the same time**, live, physical, not yet four
+  weeks old. **The named permanent cost of the stage is still unnamed and unspent.**
+- **Cui Bao** (foreman, about fifty, eleven men, a daughter of nineteen on the line) and **Ma Sheng** (tender,
+  about thirty, nine years on the course, the first person out here to do something for her for nothing).
+  **They are right, and nothing in this volume proves them wrong.**
+- **Ren Shu** of the schedule office at Stony Ford, who reads a wage-book aloud to a room and not to her.
+  **The countersigning office is not his and was not named.**
+- **Luo Ping, found and working.** **The claim stands and the date is not torn off.**
+- **A wage-book with a column for hours worked out there, a price column and a reason column — and the price
+  column and the reason column are the same column and the hours go in it.**
+- **Four counterfoils** — the only object in the world that can certify an hour she worked out there.
+- **A member's sheet travelling with the work, and a county whose offices are nine days west.**
+- **About two days of channel, rationed and thinning, quieter at the end of this batch than at the start.**
+  **Ledger not ordered in this batch and no price named in it. Merit: none.**
+- **The claim standing with its date. Hou Sanliang unpaid, patient and never met. The empty answer space
+  still empty. The referral still pending. The register still reads *reconciled*. The Clay Plate still worn.
+  Shen Xiu unforgiven and unthanked. The three sponsors' second book lodged nowhere and spoken of nowhere.
+  What became of the eleven not raised. Ning Wu does not appear.** **She does not forgive him and she does
+  not tell him to stop.**
+- **Three hundred yards of a nine-day line, seen. The rest of it is Batch 0003's.**
+
+### Volume 4 running ledger — at end of ch 208
+
+| Item | Value at end of ch 208 |
+| --- | --- |
+| Her stage | **FOUNDATION 1, reached day 276, relicensed and announced at her own order.** Ceiling at Foundation the first stage. Short breath three counts on stairs, four on a grade, never back to two. The heel of her left hand gone; every county hour eleven minutes with the flat of a second finger. Right arm open a third of the time. Aperture cracked through and permanent. **A cold under the ribs that will not go for four weeks, and she is not hungry** |
+| Licence | **Relicensed on the second set of legs, all three outside this county** (clearance 264, seal 265, countersignature 266). **A document she has never touched.** Seven conditions referenced and never re-listed; the claim the seventh and last. **The first licence is still rolled in the lining of her coat; the second is still nailed straight above the second bunk, nine days west.** The Foundation petition is barred, not refused, and not withdrawable |
+| In-world date | **day 280.** First working season on the line, first working month, nine days east of Lowwater. **The thaw is past and nobody on that course mentions a winter.** The county's monthly sheet for the sixteenth is going west |
+| Hours | **Six coppers a day and a place at the fire, entered in a contractor's book by a foreman at the start of the day. Nine days of them in good order on the sheet that went west on the sixteenth. Ten days of them read aloud into a schedule on the seventh of the month by a man she was not shown.** **Four counterfoils in the oilcloth** |
+| Settlement | **About two days at ch 192, rationed and thinning. Six spends in the batch and none in the second half.** **Ledger not ordered and no price named. Merit: none.** He does not grow back and is quieter at the end of this batch than at the start |
+| Bounty | 800 jin, standing, unanswered, the seventh and last condition, travelling on the licence. **The date is still in the counting room in Lowwater. The hand is still named, and has been found, and answered nothing. Hou Sanliang unpaid, patient, never met** |
+| The referral | Up the stair past every office she has ever stood in front of. **The district's answer is still four words and an empty space the width of a line.** The request is still pending and is not answered anywhere in this batch |
+| Crew | **nine men and her; ten sleepers in twelve bunks, nine days west.** Gao kept the second bunk. Qin walked her to the dressed stone and gave her a warm flat of bread and asked nothing. **She has sent nothing and received nothing and has not seen them since the first of the month** |
+| Money | **Gone since the evening of day 268.** Six coppers a day in and six coppers a day out; about ten coppers in hand at ch 208 |
+| The course | **Eleven men, Cui Bao, Ma Sheng, a girl of nineteen.** Paid by the day. A wire round the working ground a person not on the book goes outside. A trestle, a book, a board for the carriers' schedule, a cook-fire and eleven men in a ring who do not work |
+| Register / plate | *reconciled* / worn. **She does not forgive him and she does not tell him to stop. The year was touched once at ch 206 as a purchase that still carries** |
+| Decision taken | **She is going to stay. She is relicensed above Condensing nine, in debt of an attendance that cannot be paid for in hours, working on a line of work maintained by hand by people who are right, and holding the only book in the world that can say she was here. She has seen three hundred yards of nine days and has not gone west** |
+
+---
+
 ## Volume 3 running ledger — at end of ch 163 (SUPERSEDED by the ch 178 ledger above)
 
 | Item | Value at end of ch 163 |
