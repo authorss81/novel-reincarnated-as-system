@@ -88,15 +88,15 @@ The thing she had done to nine men was this.
 
 There is a fire in that room on those four nights that would have been there, and there was not going to be one, because a woman stood at a board behind a well at about the sixth hour that morning with thirty coppers in a tin and did not buy four loads a week.
 
-And every one of the nine knows what she is.
+And every one of the nine knew what she was.
 
-They know she is a licensed member of this county with a ceiling of nine and seven conditions on the back of it. They know a certificate went through that building in the middle of the winter and that a man certified in a Warden's hand that the thing in her head is real and unauthorised and carried by a person in good standing, and they know it went up a stair past every office she has ever stood in front of.
+They knew she was a licensed member of this county with a ceiling of nine and seven conditions on the back of it. They knew a certificate had gone through that building in the middle of the winter and that a man had certified in a Warden's hand that the thing in her head was real and unauthorised and carried by a person in good standing, and they knew it had gone up a stair past every office she had ever stood in front of.
 
-They know she is hunted in writing, and they know she told nine men out loud about the heel of her hand in a hall with no roof, and they know there is a hole where the fourth stage should be and another where the eighth should be and that a county wrote both of them down in four words three times and stopped.
+They knew she was hunted in writing, and they knew she had told nine men out loud about the heel of her hand in a hall with no roof, and they knew there was a hole where the fourth stage should be and another where the eighth should be and that a county had written both of them down in four words three times and stopped.
 
-They know she is eighteen.
+They knew she was eighteen.
 
-And not one of them has ever asked her for anything, and not one of them has ever asked her for a single thing in two winters, and she has been carrying nine men around inside her head as a thing she was building something for.
+And not one of them had ever asked her for anything, and not one of them had ever asked her for a single thing in two winters, and she had been carrying nine men around inside her head as a thing she was building something for.
 
 And in the morning she went down a hill and made nine men cold for four nights on purpose, at a board, in daylight, over about thirty coppers, for a road.
 
@@ -120,7 +120,7 @@ She stood at the frame and held a bar and did not look at him, and the whole of 
 
 It was worse than if he had asked.
 
-That is the part she has not been able to put down since. Nine men read a nine and three holes in a column and the word on the front of their own schedule and a word said out loud about a hand, and none of them said anything, and she had priced that silence at about the cheapest thing anybody had ever done for her and she had been right about that.
+That is the part she had not been able to put down since. Nine men read a nine and three holes in a column and the word on the front of their own schedule and a word said out loud about a hand, and none of them said anything, and she had priced that silence at about the cheapest thing anybody had ever done for her and she had been right about that.
 
 A man who notices a fire has gone out and fills a bucket himself and says nothing is a different silence entirely, and she had no idea what it was worth, and she had been the one who made it.
 

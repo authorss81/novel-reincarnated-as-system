@@ -40,7 +40,7 @@ He did not say anything about it, and that was the correct thing for him to do, 
 
 The second was the claim.
 
-Eight hundred jin, standing, the seventh and the last thing on the back of a licence, travelling with the paper, going up every quarter with a schedule, sitting in a counting room in Lowwater that she has never been in against a date entered by somebody who was not the man who counted.
+Eight hundred jin, standing, the seventh and the last thing on the back of a licence, travelling with the paper, going up every quarter with a schedule, sitting in a counting room in Lowwater that she had never been in against a date entered by somebody who was not the man who counted.
 
 It would have gone in a breath. That was the thing about it. It would have been the cheapest of the five, because a claim is a debt and a debt is a number and a number is the sort of thing a ledger is good at, and there is a man who is owed and has been owed for a year and has not asked and has not met her and has a room within a mile of where she sleeps.
 
@@ -60,7 +60,7 @@ She refused it because the price of that is not eight days.
 
 It is everything, eventually, in a shape neither of them would recognise, and she had read that far in the middle of the summer in about nine seconds and had not wanted to look at it since.
 
-She spent a sentence on it and he said almost nothing at all, and the almost-nothing was the loudest thing he has ever not said.
+She spent a sentence on it and he said almost nothing at all, and the almost-nothing was the loudest thing he had ever not said.
 
 ## The Fourth
 
@@ -84,7 +84,7 @@ Not one of them had been about somebody else.
 
 And the fifth thing was a hand.
 
-A hand had written a date into a counting room in Lowwater, and the date was a date to answer by, and the claim was a claim against her, and the hand that wrote the date was not the counting room's and is not hers and had never in its life been hers, and a person who keeps a schedule for other people does not stop keeping it because somebody in a cold room four miles up a hill has decided he is interesting.
+A hand had written a date into a counting room in Lowwater, and the date was a date to answer by, and the claim was a claim against her, and the hand that wrote the date was not the counting room's and was not hers and had never in its life been hers, and a person who keeps a schedule for other people does not stop keeping it because somebody in a cold room four miles up a hill has decided he is interesting.
 
 That was the only one on the list that was somebody else's day to keep.
 
@@ -100,7 +100,7 @@ She did not tell the nine men, who had read a nine and three holes in a column a
 
 She did not tell him either, and that was the fourth refusal and she had not counted it as one, and he had noticed her not saying it, and he said nothing about that as well.
 
-There are four sentences of him gone on four things she did not buy, and a finite quantity of him in her head that she has not counted, and a hundred and forty coppers under a board in a wash house four miles down, and a word that is now two days away from being said.
+There were four sentences of him gone on four things she did not buy, and a finite quantity of him in her head that she had not counted, and a hundred and forty coppers under a board in a wash house four miles down, and a word that was now two days away from being said.
 
 She lay in the cold and put her right hand flat on the oilcloth over the shape of the plate under it and did not think about what she was going to ask for.
 

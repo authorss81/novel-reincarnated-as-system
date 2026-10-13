@@ -52,11 +52,11 @@ She was looking at the column and she was not reading it. Everyone in that hall 
 
 ## The Thing She Knows About Signing
 
-Any man of the crew can sign for a shift. That has been true since the spring before this one and it is the reason a crew of nine runs a furnace floor of thirty without anybody ever being off it, and it is the rule she has been standing inside of for two years without ever once needing to think about it.
+Any man of the crew can sign for a shift. That had been true since the spring before this one and it was the reason a crew of nine ran a furnace floor of thirty without anybody ever being off it, and it was the rule she had been standing inside of for two years without ever once needing to think about it.
 
 She thought about it for about as long as it takes to count nine.
 
-She could not sign for nine men. She is not one of the nine. The crew signs for the crew and she is a licensed person on a schedule that is a member's sheet with an annex on it, and a member's sheet and a crew's sheet are two different objects and they are kept in two different places by two different sets of men.
+She could not sign for nine men. She was not one of the nine. The crew signs for the crew and she was a licensed person on a schedule that was a member's sheet with an annex on it, and a member's sheet and a crew's sheet were two different objects and they were kept in two different places by two different sets of men.
 
 And a woman who entered a shift she did not work on a crew's sheet would not be using a rule.
 
@@ -68,7 +68,7 @@ There was nothing available to her here. That was the finding.
 
 She had spent nineteen months building two things.
 
-The first was a signature. Her name went into a stage column in the county book of this county and of three others out of nine, and it was a real hand on real paper and a county reads it and a district copies it and a crate carries it up a stair past every office she has ever stood in front of, and there is not a clerk in nine counties who could strike her out of anything.
+The first was a signature. Her name went into a stage column in the county book of this county and of three others out of nine, and it was a real hand on real paper and a county read it and a district copied it and a crate carried it up a stair past every office she had ever stood in front of, and there was not a clerk in nine counties who could strike her out of anything.
 
 The second was eleven minutes. It took eleven minutes with the flat of a second finger where it used to take four, and she had said that out loud to nine men in this hall about six weeks ago, and they had heard it from a mouth, and Gao had put a bar down and said something about the frame that she had taken as an offer.
 
@@ -84,9 +84,9 @@ Her signature is in a column that decides what a county thinks a person is. It i
 
 The only thing in that room that could pay anybody was the frame, and the frame does not pay, and the thing she owns is a column.
 
-She is eighteen years old. She is licensed to a ceiling of nine and hunted in writing by an office she has never seen. She can walk four miles down a mountain in the deep cold on three counts and back again on three counts, and she has signed a quarterly with her own hand and got a date put on a shelf in a county office and a bar on an application she cannot take back.
+She was eighteen years old. She was licensed to a ceiling of nine and hunted in writing by an office she had never seen. She could walk four miles down a mountain in the deep cold on three counts and back again on three counts, and she had signed a quarterly with her own hand and got a date put on a shelf in a county office and a bar on an application she could not take back.
 
-And she is the only person in that hall who cannot pay anybody.
+And she was the only person in that hall who could not pay anybody.
 
 ## What She Did About It
 
@@ -96,7 +96,7 @@ There was nothing to do. That is the whole of what she did about it, and it took
 
 It took eleven minutes where it had taken four the year before.
 
-Gao held the board and did not ask her a single question, and he did not offer again, and he has not asked her anything since and did not ask her anything then.
+Gao held the board and did not ask her a single question, and he did not offer again, and he had not asked her anything since and did not ask her anything then.
 
 She put the pen down and squared the sheet and went down the hill, and there were nine men in a hall behind her being owed a quarter's work by a piece of paper they could not press, and there was nothing whatever on that floor that she was able to do about it, and she had spent six weeks believing that what she had built was for them.
 

@@ -86,15 +86,15 @@ At about the ninth hour she came back up and lay down and put four marks on a de
 
 That is what the ration looks like now and it is not what she built it for.
 
-She had built it to stop herself buying information with him. She has been spending it on things she knew the answers to, at a rate of about two a day on a floor and two more in a cold room, and the card has four marks in every row of it and a stroke through each day, and there is not a single mark on that card in front of a question that mattered.
+She had built it to stop herself buying information with him. She had been spending it on things she knew the answers to, at a rate of about two a day on a floor and two more in a cold room, and the card had four marks in every row of it and a stroke through each day, and there was not a single mark on that card in front of a question that mattered.
 
-He has not said a word about that. She checked on the second night and he has not said a word about it at all, and a man who says nothing at all for three days about a thing he has been living inside is either being careful or is waiting for her to notice.
+He had not said a word about that. She checked on the second night and he had not said a word about it at all, and a man who said nothing at all for three days about a thing he was living inside was either being careful or was waiting for her to notice.
 
-She has noticed. She is going to keep spending.
+She had noticed. She was going to keep spending.
 
 ## The Relief
 
-The relief is the part she did not expect and has not been able to put down since.
+The relief is the part she did not expect and had not been able to put down since.
 
 It was not that she had forgiven him. It was that the yearly thing was over.
 
@@ -106,18 +106,18 @@ Not because it was settled.
 
 Because the sentence had gone on a price, and a person who is spending a man on purpose does not also owe him an annual performance of being owed.
 
-That is what replaced it. Not forgiveness, not absolution, not the closure of anything at all. A purchase, on a chosen day, at a stated price, with the price said out loud first — which is the exact form of every other thing she has done to him since the middle of the summer.
+That is what replaced it. Not forgiveness, not absolution, not the closure of anything at all. A purchase, on a chosen day, at a stated price, with the price said out loud first — which is the exact form of every other thing she had done to him since the middle of the summer.
 
 And then, about nine counts later, the cost of the relief arrived, and it was this:
 
-She has just agreed to spend him.
+She had just agreed to spend him.
 
-Not for a year. Not once a year in a room. She is going to spend him on days, in the amounts, in the order she decides, for as long as he lasts, and the discipline on the back of a dead card with four marks in a row is not a discipline she is doing for him.
+Not for a year. Not once a year in a room. She was going to spend him on days, in the amounts, in the order she decided, for as long as he lasted, and the discipline on the back of a dead card with four marks in a row was not a discipline she was doing for him.
 
 She lay in the cold and let that sit.
 
-The account did not close. It is not the same account it was on the seventh hour of a bench two days ago and it will not be the same account in the spring, and the year that runs from a morning in the middle of the last summer is not over, and nothing in it has been forgiven in, and nowhere in it does anything say settled.
+The account did not close. It was not the same account it had been on the seventh hour of a bench two days ago and it would not be the same account in the spring, and the year that ran from a morning in the middle of the last summer was not over, and nothing in it had been forgiven in, and nowhere in it did anything say settled.
 
-What changed is that she is no longer keeping it for him.
+What changed was that she was no longer keeping it for him.
 
-She is spending it on herself, out loud, at a price, on purpose, and the only thing in this room that is worse than the relief is that she felt it the moment she sat down.
+She was spending it on herself, out loud, at a price, on purpose, and the only thing in this room that was worse than the relief was that she had felt it the moment she sat down.

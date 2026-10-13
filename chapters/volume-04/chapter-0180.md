@@ -98,7 +98,7 @@ That is the whole of what it is.
 
 It does not buy a board for the window, because a board for the window is four coppers and she could have had that in the autumn. It does not buy a second stove, and there is nowhere in this county to put a second stove. It does not buy the nine men's hours and it does not buy a quarter of a winter.
 
-And it does not buy a bed, which is the thing she wanted it to buy. A bed is a place, and she has not got one, and the only room in this town she has ever been able to put her coat down in is a wash house with eleven women on the floor in the third month of the cold.
+And it does not buy a bed, which is the thing she wanted it to buy. A bed is a place, and she had not got one, and the only room in this town she had ever been able to put her coat down in was a wash house with eleven women on the floor in the third month of the cold.
 
 The girl at the trough is paid four coppers a week out of it and four more out of a district fund for the cold months, and has already had a quarter paid forward to the thaw.
 

@@ -108,7 +108,7 @@ He did not say anything the whole way down the hill or the whole way round the s
 
 She noticed it at about the third hour, in the lane behind the wash house, standing with her hand on a board, and she did not ask him why, and the not-asking was the first thing about this week that she had chosen rather than found.
 
-She has spent a year and a half finding out what a day of him is worth by using it. She has never once in nineteen months had a whole morning in which he did not say anything at all, and there is no rule about that, and there is nothing in the spring's standing that says he must.
+She had spent a year and a half finding out what a day of him is worth by using it. She had never once in nineteen months had a whole morning in which he did not say anything at all, and there is no rule about that, and nothing in the spring's standing that says he must.
 
 She stood in a lane in the third month of the cold and let a man in her head be quiet for four miles and did not spend one sentence of it finding out why.
 
@@ -164,9 +164,9 @@ She stood at the foot of the crew stair and worked the last of it out with her t
 
 The road opens on the eighth of the ninth month.
 
-And everything she had to do in this county before that — the space on the shelf, the bar on the petition, the eight hundred jin with a date written into somebody else's book by a hand that is not that book's — is a thing she has to do before the eighth, or after it, or from the other side of it.
+And everything she had to do in this county before that — the space on the shelf, the bar on the petition, the eight hundred jin with a date written into somebody else's book by a hand that is not that book's — had to be done before the eighth, or after it, or from the other side of it.
 
-There was no third thing to do with a ruled space. It was ruled, and the office that fills it is up a stair she has never seen the top of, and there is nothing whatever she can do to it from four miles inside a line that a clerk in this county sealed a date onto in the afternoon.
+There was no third thing to do with a ruled space. It was ruled, and the office that fills it is up a stair she had never seen the top of, and there was nothing whatever she could do to it from four miles inside a line that a clerk in this county sealed a date onto in the afternoon.
 
 She went up the four miles with a hundred and forty coppers and a date, and she got up the last of the stair on three counts and never got back to two, and she did not tell one person on that floor about any of it.
 

@@ -48,7 +48,7 @@ Three times, down the margin, beside three gaps.
 
 He did not say it out loud.
 
-She noticed that he did not say it out loud, and she worked out why while she was standing there, and it was because he has said that ruling three times in nineteen months, twice with a man in the room who had said the opposite thing at a public counter in the summer, and there is no fourth sentence in that county that would be better than the first three.
+She noticed that he did not say it out loud, and she worked out why while she was standing there, and it was because he had said that ruling three times in nineteen months, twice with a man in the room who had said the opposite thing at a public counter in the summer, and there is no fourth sentence in that county that would be better than the first three.
 
 So he ruled the three gaps in the ordinary hand and wrote *Member present* at the foot of the column and dated it and did not add anything at all.
 

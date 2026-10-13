@@ -293,7 +293,7 @@ Volume 4 to read first:**
 
 ## Volume 4 — The Wall (ch 179–238)
 
-### Batch 0001 (ch 179–192) — ration and silence. WRITTEN, 28,611 words over fourteen chapters, average ~2,044.
+### Batch 0001 (ch 179–192) — ration and silence. WRITTEN, 28,608 words over fourteen chapters, average ~2,043.
 
 **No stage is taken in this batch and there is not one bracketed layer line in fourteen chapters.** Condensing 9 throughout, day 220 to day 253.
 

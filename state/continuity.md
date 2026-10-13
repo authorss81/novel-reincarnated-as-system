@@ -1437,7 +1437,7 @@ is the figure on the page.** Everything else in the plan was drafted as written.
 
 ## Established facts, Volume 4 Batch 0001 (ch 179–192) — RATION AND SILENCE
 
-**Fourteen chapters, 28,611 words, average ~2,044.** Day **220 to day 253**, and nothing falls between
+**Fourteen chapters, 28,608 words, average ~2,043.** Day **220 to day 253**, and nothing falls between
 batches: **Batch 0002 opens on day 254** with the season's road open. **Zero bracketed layer lines in
 fourteen chapters.** The whole batch is a ration-and-silence pressure and none of Volume 3's four shapes
 and none of Volume 2's confinement is rebuilt in it.
@@ -1556,6 +1556,47 @@ one leaked into ch 186 and one into ch 190 and both were cut.
 - **She does not forgive him and she does not tell him to stop.** The ch 150 refusal is not softened,
   deferred, reopened or regretted anywhere in the batch and no chapter lets her wonder what she would have
   done.
+
+### Repaired after the Batch 0001 review — one standing fault and two small ones, now closed
+
+`logs/next-0001.review.log` swept ch 179–192 and found one substantive fault and two minor ones. All three
+are repaired. **No beat, figure, name, date or decision was changed, and nothing Batch 0002 owns was
+opened or moved.**
+
+- **Present-tense narration on Ning Yan and on other named characters.** `outline/volume-04.md` *Hard rules*
+  and `outline/batches/volume-04-batch-0001.md` both set it: *Every sentence Yuan speaks is written in the
+  present tense. **No other character is ever in the present tense***. The batch broke this in roughly thirty
+  lines across twelve chapters — present perfect (*She has spent*, *she has never been inside it*, *She had
+  noticed*) and simple present (*She is going to keep spending*, *She is eighteen years old*, *She is the
+  only person in that hall who cannot pay anybody*). **All repaired to past or past perfect.** Worst and
+  most load-bearing was **ch 188**, the batch's payoff: the ration block, the relief block and the agreement
+  to spend him were **re-voiced by hand, not swapped**, so the landing keeps its beat — *She had noticed.
+  She was going to keep spending.* Also repaired: **ch 190**, the block where nine men state what they know
+  about her (now *They knew she was…* through four paragraphs, with the *and not one of them had ever asked
+  her* anaphora intact); **ch 187**, the Luo Ping dossier (now past, with *He had a wife. He had a boy of
+  eleven.* and *He was a man with a family.* unchanged in cadence); and one-line drift in ch 179, 180, 181,
+  182, 185, 186, 189 and 191. **The structural present about forms, offices, counties and classes of person
+  was left alone and must be left alone** — *A ruled space on a form is not a question*, *a schedule-man
+  goes into a counting room*, *there is nowhere in this county she is allowed to keep a book*, *a carrier
+  knows which side of a cutting holds snow*. That register is house voice and is not a fault.
+- **The ch 187 repeated-number tic.** *Nine minutes' walk* stood twice within six lines, with *about nine
+  seconds* in the same sentence. **The second distance and the seconds figure are out.** The geography is
+  established once, in *What Came Back*, and the afternoon now turns on *before she had her breath back*.
+  Nine minutes is still stated once in ch 187 and once in ch 188, where it is the point of the scene.
+- **An overclaim in `workspace/volume-04-batch-0001/SUMMARY.md`**, which certified the tense rule as
+  *checked mechanically*. The check had matched neither present-perfect narration nor the POV subject, so it
+  missed all thirty lines. **The claim is corrected in place**, with the grep that would actually catch this
+  written down for the next batch.
+- **A second overclaim the review did not catch**, of the same species and in the same two files:
+  *Nothing is under the 1,800 guide* was false of ch 186, at 1,745 before this repair and 1,747 after it.
+  **Corrected in `state/book-metadata.md`, in the batch SUMMARY, and here.** The Volume 3 entry in
+  `book-metadata.md` already states the convention correctly — naming the chapters that sit outside the
+  guide rather than asserting that none do — and Volume 4 now matches it.
+
+**Counts after this repair:** Batch 0001 **28,608** (was 28,611). Longest ch 179 **2,684**, shortest ch 186
+**1,747**. Nothing above the 2,700 guide, nothing near the 1,300 floor; **ch 186 sits below the 1,800
+guide**, which `state/book-metadata.md` and this batch's SUMMARY had both claimed was untrue of the whole
+batch — corrected in both.
 
 ### Volume 4 running ledger — at end of ch 192
 

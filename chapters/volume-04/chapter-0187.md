@@ -44,25 +44,25 @@ A hand.
 
 Not her hand, not a hand at the tower, not a hand in the county office on the square, not the roundhouse hand that wrote in a room in this county twenty years ago. A working hand, a right hand, a hand that has written several thousand dates and has never once written a name.
 
-It wrote one date into a counting room in Lowwater on a sheet that belongs to a creditor she has never met, against an eight hundred jin claim that is the seventh and the last thing on the back of a licence nailed over her head in a room four miles up a hill.
+It wrote one date into a counting room in Lowwater on a sheet that belonged to a creditor she had never met, against an eight hundred jin claim that was the seventh and the last thing on the back of a licence nailed over her head in a room four miles up a hill.
 
-The room is in this county. The room is in this town. It is about nine minutes' walk from a wash house where a girl with a crooked leg is paid four coppers a week, and she has never been inside it, and she could walk to its door this morning in the cold and would be turned out of it by a man with a list of who is not admitted.
+The room is in this county. The room is in this town. It is about nine minutes' walk from a wash house where a girl with a crooked leg is paid four coppers a week, and she had never been inside it, and she could walk to its door this morning in the cold and would be turned out of it by a man with a list of who is not admitted.
 
 ## The Name
 
 **Luo Ping.**
 
-Thirty-nine. A schedule-man, which is a working trade in the nine counties and is not a rank of anything: a man who keeps a schedule for somebody else's office and is sent to put the dates into it. He has been doing it since he was about twenty-three, which is sixteen years, and he does four or five offices in a season and there are men who do it for forty years and are still doing it.
+Thirty-nine. A schedule-man, which is a working trade in the nine counties and is not a rank of anything: a man who keeps a schedule for somebody else's office and is sent to put the dates into it. He had been doing it since he was about twenty-three, which was sixteen years, and he did four or five offices in a season and there were men who did it for forty years and were still doing it.
 
-He has a wife. He has a boy of eleven.
+He had a wife. He had a boy of eleven.
 
-And they are not here.
+And they were not here.
 
 That is the part of it that took her an hour to get round to on a mat in the cold, and it is the part that the eight days were for, and she had not known when she said the word that it was going to be this.
 
-The household is past this county's boundary. East, on the working side of a line this county draws and seals and posts dates about on a public shelf. He is at the counting room on this side and his wife and his boy are on the other, and that is ordinary, and it is not ordinary, and it is a fact about a man's household and not about anything else, and there is no line in what she bought that separates the two.
+The household was past this county's boundary. East, on the working side of a line this county draws and seals and posts dates about on a public shelf. He was at the counting room on this side and his wife and his boy were on the other, and that is ordinary, and it is not ordinary, and it is a fact about a man's household and not about anything else, and there was no line in what she bought that separated the two.
 
-He is a man with a family. That is what eight days came back with.
+He was a man with a family. That is what eight days came back with.
 
 ## What It Did Not Buy
 
@@ -102,7 +102,7 @@ She had been on the mat since the ninth hour of the night before with the cold c
 
 She went down the hill with an empty hand.
 
-She did not go to the county office. She did not go to the counting room, which is about nine minutes' walk from the wash house and which she has never been inside, and she stood at the bottom of the hill in the second hour of the afternoon and worked out, in about nine seconds, that she was not going to be let in, and that even if she were let in there would be nothing in the room for her.
+She did not go to the county office. She did not go to the counting room, which she had never been inside, and she stood at the bottom of the hill in the second hour of the afternoon and worked out, before she had her breath back, that she was not going to be let in, and that even if she were let in there would be nothing in the room for her.
 
 So she went to the wash house and stood in the girl's light for an hour and a half without buying anything, and the girl let her, and at the end of it the girl said:
 
@@ -134,15 +134,15 @@ A name is not a ledger entry.
 
 Everything she had done for nineteen months had been a ledger entry. Her name was an entry. Her hours were entries. The claim was an entry. The stage column was an entry with three holes in it and the holes were entries too, because a county writes down an absence as carefully as it writes down a stage, and she had learned that in a low room in front of twenty people.
 
-She had bought an entry this morning. That was what eight days bought: one line in a place she cannot go and read, about a man she has never met, in exchange for most of the only voice she has.
+She had bought an entry this morning. That was what eight days bought: one line in a place she could not go and read, about a man she had never met, in exchange for most of the only voice she had.
 
 And what came back was not a line.
 
 It was a man of thirty-nine with a wife and a boy of eleven who live on the other side of this county's boundary, and it is not possible to hold that as a line, and it is not possible to spend it as a line, and it is not possible to put it in a column and cross a day off against it.
 
-He is somebody's husband and somebody's father. He has been at that for eleven years and for six of them he has been going in and out of a boundary to do it. Somebody in that house washes his clothes. Somebody in that house knows what he is doing today.
+He was somebody's husband and somebody's father. He had been at that for eleven years and for six of them he had been going in and out of a boundary to do it. Somebody in that house washes his clothes. Somebody in that house knows what he is doing today.
 
-And she has bought his name out of a man in her head at eight days of him, on her word, in a cold room, and said the price out loud first, and now she has to decide what she is going to do with it, and the decision is hers and cannot be given back.
+And she had bought his name out of a man in her head at eight days of him, on her word, in a cold room, and said the price out loud first, and now she had to decide what she was going to do with it, and the decision was hers and could not be given back.
 
 She lay on her side in the cold and did not say anything for about as long as it takes to count nine.
 
@@ -152,4 +152,4 @@ Eight days of him, gone.
 
 A name, in her head, that was not an entry.
 
-Luo Ping, thirty-nine, a schedule-man with a boy of eleven and a wife who is not in this county, somewhere east of a boundary that has a date on it on a public shelf in a building four miles from where she is lying.
+Luo Ping, thirty-nine, a schedule-man with a boy of eleven and a wife who is not in this county, somewhere east of a boundary that has a date on it on a public shelf in a building four miles from where she was lying.

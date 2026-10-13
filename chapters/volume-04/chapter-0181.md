@@ -6,7 +6,7 @@ The copying floor inside the tower was the only room in four miles that had been
 
 She went up them rather than down into them, because the tower's floor is the second and the copying floor is the fourth, and going down is two flights and going up is four, and she had learned in the autumn that she would rather pay four flights going up than two flights coming down, because the two flights coming down would arrive at her second floor before she had decided anything.
 
-The stair is a stone stair with a rail on the third side of it that a man put there himself in the spring before she came, when he was sixty and still coughing, and he has never once been thanked for the rail by anybody including himself.
+The stair is a stone stair with a rail on the third side of it that a man put there himself in the spring before she came, when he was sixty and still coughing, and he had never once been thanked for the rail by anybody including himself.
 
 Three counts on the third flight, going up, since the ice. Never back to two. She had said that out loud to nine men in a furnace hall in the middle of the month and had written a number against it on a piece of paper in her own hand in a county office in the summer, and both of those things were true and neither of them made the stair shorter.
 
@@ -76,13 +76,13 @@ Below his floor, on the second, is the reading room, and above his floor, on the
 
 That is what the arrangement is. One quarter off his own stair, at his own written request, entered on his own sheet in the ordinary hand, not refused and not thanked for.
 
-What it bought him is the only thing he has ever asked for in twenty-two years, which is that the thing that goes up this stair goes up true.
+What it bought him is the only thing he had ever asked for in twenty-two years, which is that the thing that goes up this stair goes up true.
 
-A district wage quarterly. Oil. A hundredweight of coal. A chair in the county office on reading days, which he has never once sat in and which is standing empty in a low room with eleven windows in it this morning.
+A district wage quarterly. Oil. A hundredweight of coal. A chair in the county office on reading days, which he had never once sat in and which was standing empty in a low room with eleven windows in it this morning.
 
 And the standing of a Listener, for life, set aside able at his own request, on the understanding that whatever comes up this stair goes up as it is — entered or not entered, held or not held, refused or not refused — and that a keeper who loses a thing on the way up has not lost it.
 
-That is the trade. He made it in the autumn on a sheet of his own paper and he has not gone back into it once, and there is a notice of it on the wall of the landing in his own hand so that a man carrying a bundle up four flights knows what he is carrying and what it is for.
+That is the trade. He made it in the autumn on a sheet of his own paper and he had not gone back into it once, and there is a notice of it on the wall of the landing in his own hand so that a man carrying a bundle up four flights knows what he is carrying and what it is for.
 
 “They do not use the chair,” said Feng Lushi.
 

@@ -86,7 +86,7 @@ She went down the hill on the second morning of that pair of days with a bar in 
 
 Gao had the slate at the near end. She signed her own hour off the end of it with the flat of a second finger, in the ordinary hand, at the ordinary speed, and he took it and looked down the column and did not say the thing he had said in a hall on the twenty-second.
 
-He has said it once. He is not a man who says a thing twice to the same nine men, and she had worked that out about six weeks ago and had never once tested it.
+He had said it once. He was not a man who said a thing twice to the same nine men, and she had worked that out about six weeks ago and had never once tested it.
 
 At the far end she worked forty feet of a setting bench that does not get the sun until the second hour, and the stone at the cold end is cold all the way to a hand's depth in this month, and a person's breath goes up in front of her face and hangs there.
 

@@ -1,7 +1,7 @@
 # Open Threads
 
 **Volume 1 is closed. Volume 2 is closed and audited (ch 59–118). VOLUME 3 IS CLOSED AND AUDITED (ch 119–178).
-VOLUME 4 IS OPEN: BATCH 0001 IS WRITTEN (ch 179–192, 28,611 words over fourteen chapters).** The Volume 3
+VOLUME 4 IS OPEN: BATCH 0001 IS WRITTEN (ch 179–192, 28,608 words over fourteen chapters).** The Volume 3
 close audit table is in `state/current.md` under `## Volume 3 close audit — CLOSED`, and **the review's
 reversal of one of the audit's rules is written up under *Close review repair* in that same block — read it
 before using any four-county or nine-county figure from this run.** Live threads below carry into **Volume 4,

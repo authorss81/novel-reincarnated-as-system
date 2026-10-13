@@ -1,8 +1,9 @@
 # Volume 4, Batch 0001 (ch 179–192) — SUMMARY
 
-**Fourteen chapters. 28,611 words, average ~2,044.** Day **220 to day 253**. Longest ch 179 (2,689),
-shortest ch 186 (1,745). Nothing under the 1,800 guide, nothing above the 2,700 guide, nothing under the
-1,300 floor. **Zero bracketed layer lines in fourteen chapters.**
+**Fourteen chapters. 28,608 words, average ~2,043.** Day **220 to day 253**. Longest ch 179 (2,684),
+shortest ch 186 (1,747). Nothing above the 2,700 guide, nothing under the 1,300 floor; **ch 186 sits below
+the 1,800 guide** and is the batch's only chapter that does. **Zero bracketed layer lines in fourteen
+chapters.**
 
 ## What this batch was
 
@@ -88,7 +89,15 @@ does not happen inside this batch.
   ago and told three washerwomen. *Nobody asked*: zero. *There is no form*: zero. *There is no column*: zero.
   *The record remained*: zero.
 - Speech balanced in every chapter. No blockquote, code fence, table or horizontal rule. Present tense for
-  Yuan only; **no other character is ever in the present tense** — checked mechanically.
+  Yuan only; **no other character is ever in the present tense.** **This line was first written claiming the
+  rule had been "checked mechanically", and that check had matched neither present-perfect narration nor the
+  POV subject, so it missed roughly thirty present-tense narration lines across eleven chapters — including
+  the ch 188 payoff block. The drift was found in review and repaired (present perfect → past perfect;
+  present → past; the ch 188 block re-voiced by hand).** For a future batch: a grep on this rule must match
+  `(she|he|they) (has|have|is|does|will|can)` on narration lines **and exclude anything inside “ ”**, or it
+  will report clean on the drift. The structural present about forms, offices, counties, classes of person
+  ("a schedule-man goes into a counting room", "there is nowhere in this county she is allowed to keep a
+  book") is house voice and stays.
 - **Nine counties is what is heard; four counties is what is written.** Correct in every use.
 - **No death, no frostbite, no accident, no rescue, nobody hurt** anywhere in the batch.
 - **Nothing opened that Batch 0002 owns.** The road does not open inside ch 179–192.
@@ -100,6 +109,30 @@ draft carries the arithmetic from the county's own month table — day 220 to th
 last of the stone, the road is the eighth of the next month — which gives **the end of this month and seven
 days**. Same shape, one day out, and **seven is the figure on the page**. Nothing else in the cards was
 altered. This is recorded in `state/continuity.md` rather than silently.
+
+## Review repair, recorded
+
+Batch 0001 went out to review with one substantive fault and two small ones. All three are fixed and no
+plot, card beat or decision was touched.
+
+1. **Present-tense narration on Ning Yan and on other named characters** — roughly thirty lines across
+   twelve chapters, against `outline/volume-04.md` *Hard rules*: *No other character is ever in the present
+   tense*. Repaired to past / past perfect. **The ch 188 payoff block (the ration, the relief, the agreement
+   to spend him) was re-voiced by hand** rather than swapped, so the three-beat landing — *She had noticed.
+   She was going to keep spending.* — keeps its rhythm. Also repaired: the ch 190 block where nine men state
+   what they know about her, the ch 187 dossier of Luo Ping, and one-line drift in ch 179, 180, 181, 182,
+   185, 186, 189 and 191. **The structural present about forms, offices, counties and classes of person is
+   untouched** — it is house voice, and Batch 0002 should keep using it.
+2. **The ch 187 repeated-number tic.** *Nine minutes' walk* appeared twice within six lines and *about nine
+   seconds* beside it. The second distance and the seconds figure are gone; the geography is established once,
+   in *What Came Back*, and the afternoon now turns on *before she had her breath back*.
+3. **An overclaim in this file**, corrected in place under *Mechanical compliance*.
+4. **A second overclaim this file and `state/book-metadata.md` both carried** — *nothing under the 1,800
+   guide* — which was false of ch 186 both before and after this repair. Both files now say that ch 186 sits
+   below the guide and that it is the only chapter in the batch that does, matching the convention the
+   Volume 3 entry in `book-metadata.md` already uses.
+
+Net effect on counts: **28,611 → 28,608 words.** No beat, figure, name or decision changed.
 
 ## Live at the end of the batch, going into Batch 0002
 

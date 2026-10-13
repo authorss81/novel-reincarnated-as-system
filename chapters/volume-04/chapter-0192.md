@@ -4,7 +4,7 @@ The road does not open in any of the three days this was counted over.
 
 It opens in the morning after it, and the notice on the shelf by the door of the county office says the eighth of the ninth month, and the carriers' word — which is not a notice and is not sealed and has never once been wrong — says nearer a week after that.
 
-She is going on the county's arithmetic.
+She was going on the county's arithmetic.
 
 There is no other arithmetic. A notice with a seal on it is a thing a person can act on, and a thing a person can act on is worth seven days of being wrong, and there is nothing else in nine counties that is worth acting on.
 
@@ -12,7 +12,7 @@ There is no other arithmetic. A notice with a seal on it is a thing a person can
 
 She counted it out on the back of a dead weight card in the yard behind the Hall on the second of those three days, in daylight, with the sun on the wall, because a thing you have only done in the dark you have half done.
 
-A licence with nothing above nine on the front of it anywhere in the world, nailed straight over a second bunk, seven conditions on the back that she had read once and has never read again.
+A licence with nothing above nine on the front of it anywhere in the world, nailed straight over a second bunk, seven conditions on the back that she had read once and had never read again.
 
 An eight hundred jin claim with a date written against it in a counting room in this town by a hand that is not that room's, entered on the seventh and last thing on a piece of paper, and the date is still in there.
 
@@ -52,7 +52,7 @@ That was the first thing she put on the card and then scratched out. It was true
 
 The hunt is behind her and out of reach, and out of reach is not safe; it is only somewhere she cannot get to from here.
 
-A referral has gone up a stair past every office she has ever stood in front of. It carries her name and her stages in order and her hours, and it carries no agent's name, and the only thing that can execute it is past a boundary no county paper crosses.
+A referral had gone up a stair past every office she had ever stood in front of. It carries her name and her stages in order and her hours, and it carries no agent's name, and the only thing that can execute it is past a boundary no county paper crosses.
 
 Staying inside keeps her out of its reach. It also keeps her under a ceiling of nine with nothing above it on any piece of paper in the world.
 
@@ -62,13 +62,13 @@ So it was not the hunt.
 
 It was this.
 
-A relicensing needs a schedule of hours worked at the ceiling asked for. She knows that, because a registrar in this county wrote it on a bar in the ordinary hand, on the ground that this county holds no schedule of work done past its boundary and is not able to certify one, and then wrote a last line slower than the rest saying the answer to her application is not that office's to write.
+A relicensing needs a schedule of hours worked at the ceiling asked for. She knew that, because a registrar in this county wrote it on a bar in the ordinary hand, on the ground that this county holds no schedule of work done past its boundary and is not able to certify one, and then wrote a last line slower than the rest saying the answer to her application is not that office's to write.
 
 And that is the whole of the trap, and she had turned it over and looked at it from every side in three weeks:
 
-She needs hours worked past this county's boundary. No office inside this county will certify them, because this county does not employ anybody out there, does not examine anybody out there, and does not hold a second hand on anybody out there, and a county cannot certify a thing it has no hand on.
+She needed hours worked past this county's boundary. No office inside this county would certify them, because this county does not employ anybody out there, does not examine anybody out there, and does not hold a second hand on anybody out there, and a county cannot certify a thing it has no hand on.
 
-And she has a name.
+And she had a name.
 
 **Luo Ping.** A working hand. A schedule-man, thirty-nine, who keeps a schedule for somebody else's office and is sent to put dates into it, four or five offices in a season, with a wife and a boy of eleven who live past this county's boundary and have for some years.
 
@@ -118,7 +118,7 @@ There is nothing in four miles to pack nine days of hard road out of. There is a
 
 She did not say goodbye. She did not say it to a girl with a bad leg or to a keeper with a cleaned lamp chimney or to a board behind a well, and she was not going to say it to nine men either.
 
-She did not tell them what was coming in a way that would be a speech, because a speech is a thing a person makes when they are frightened of a room, and she was not frightened of that room, and because there is nothing in this county she can offer nine men that is better than what they have and she has no authority to make nine men anything.
+She did not tell them what was coming in a way that would be a speech, because a speech is a thing a person makes when they are frightened of a room, and she was not frightened of that room, and because there was nothing in this county she could offer nine men that was better than what they had and she had no authority to make nine men anything.
 
 She counted at the frame.
 
@@ -126,4 +126,4 @@ She wrote a column of marks on a dead weight card in her own hand, and under the
 
 The road opens in the morning.
 
-She is going east, on purpose, with a name and a rule and about thirty coppers, and the last thing she did before the light was put her right hand flat on the oilcloth over the shape of the plate and work out, one more time, the exact size of what she had left to spend.
+She was going east, on purpose, with a name and a rule and about thirty coppers, and the last thing she did before the light was put her right hand flat on the oilcloth over the shape of the plate and work out, one more time, the exact size of what she had left to spend.

@@ -16,13 +16,13 @@ She had four rows of one mark on it and she was not going to finish the seventh 
 
 The road is the only thing left in her calendar.
 
-Not the quarry and not the wall behind a well and not the four loads a week she has stopped buying. The road. What it does past the fourth bridge, and how much of it there is, and what is on the other side of a bend in it.
+Not the quarry and not the wall behind a well and not the four loads a week she had stopped buying. The road. What it does past the fourth bridge, and how much of it there is, and what is on the other side of a bend in it.
 
-She has nine counties of carriers' word and one county notice and a girl with forty-one run lists in a pile in a wash house, and she has been inside the bound her entire life, and everything she knows about what is east of the fourth bridge is a road name.
+She had nine counties of carriers' word and one county notice and a girl with forty-one run lists in a pile in a wash house, and she had been inside the bound her entire life, and everything she knew about what was east of the fourth bridge was a road name.
 
 He can tell her in a breath.
 
-That is the whole of what it is. She does not need eight days for it and she does not need four and she does not need one. She needs a fraction of what she spent on a name, and a name was the last of the eight.
+That is the whole of what it is. She did not need eight days for it and she did not need four and she did not need one. She needed a fraction of what she had spent on a name, and a name was the last of the eight.
 
 It would buy her a map. Not a drawn one — a thing put into words, from the inside, in the voice of a man who has never once been wrong about a shape.
 
@@ -78,7 +78,7 @@ And none of it was about anybody.
 
 Not one sentence of it was about a man or a name or a household or a line in a county book. It was about loads, and days, and a place where a cart turns, and a woman alone, and snow on the north side of a cutting.
 
-She stood in a lane in Lowwater at about the fourth hour with forty-one sheets in her head and a carrier's afternoon in her head, and she worked out that the road she has to walk is a road with an ordinary shape and ordinary difficulties and no surprises in it at all, and that a voice in her head could have told her the same in about nine seconds.
+She stood in a lane in Lowwater at about the fourth hour with forty-one sheets in her head and a carrier's afternoon in her head, and she worked out that the road she had to walk was a road with an ordinary shape and ordinary difficulties and no surprises in it at all, and that a voice in her head could have told her the same in about nine seconds.
 
 ## The Other Thing The Lists Show
 
