@@ -42,7 +42,7 @@ year of non-forgiveness changes shape; the empty space is not filled; the crew; 
 
 | Beat | Card it took | How |
 | --- | --- | --- |
-| **The last ten days of him** | **ch 184, *One at a Time*** | The ration is made and run: four a day, chosen by her, counted by her, in her own hand. The size of it is known at **179**, priced at **185**, spent at **187**, and the ration is shown running out at **191**. **The ch 178 figure itself is not put on the page again — see the clock block** |
+| **The last ten days of him** | **ch 184, *One at a Time*** | The ration is made and run: four a day, chosen by her, counted by her, in her own hand. The size of it is known at **179**, priced at **185**, spent at **187**, and the ration is shown running out at **191**. **The ch 178 figure is not re-derived anywhere and reaches a page only inside the price at 185 and 187 — see the clock block** |
 | **The Ledger purchase that finds the hand** | **ch 187, *The Price of a Name*** | Eight days of ten, price named before the word, the word said once. Ch 185 prices it and does not say it; ch 182 chooses it; ch 188 is what comes back and what she does with it |
 | **The year of non-forgiveness changes shape** | **ch 188, *A Man With a Family*** | Its first half is spent at **185** (the sentence she keeps back once a year goes on the price). Ch 188 is where it turns and does not become forgiveness |
 | **The empty space is not filled** | **ch 179, *Answer Pending*** | Opened, read, left empty — and written on the page again at **189** and referred to by the Hunter at **189**. **Empty in all fourteen.** Its first entry is Batch 0003 and its answer is Batch 0004 |
@@ -80,32 +80,49 @@ day 253. Ch 193 opens on day 254 and Batch 0002 begins there.**
   needs the Hunter's span in this county, derive it from **day 2** (his arrival, ch 119).
 - **The tin.** About a hundred and forty coppers at ch 178 (day 219). **Da Shan's board behind a well is
   running at four loads a week at nine coppers = thirty-six a week.** 140 ÷ 36 = about twenty-seven
-  days, and 219 + 27 = 246, so **the tin dies on about day 246 — eight days short of the road.** The four
-  coppers that go to the girl at **ch 183** come out of that hundred and forty, not on top of it, and
-  move the day by less than one. **The arithmetic is run from the day she last counted it, day 219, and
-  not from the day a chapter opens**; by the time ch 190 opens it has already run for three weeks. **She
-  stops buying on day 240 and therefore never reaches day 246** — that is the irreversible decision, and
-  the projection is the argument she has to beat to get there. **Do not move this arithmetic and do not
-  re-count the tin against a different figure anywhere in ch 179–192.**
-- **The channel.** About ten days at ch 178 (day 219), **said once, in the final image, and not before
-  this batch — and not again inside it.** **No chapter in ch 179–192 puts the figure on the page a second
-  time**: it is known to the drafter and to nobody on the floor. She rations from **ch 184** and spends
-  eight of the ten at **ch 187**, and the price is said out loud because a price has to be. **What is left
-  after ch 187 is about two days**, spread at roughly **four sentences a day**, thinning across 188–192,
-  and **the two days may be named once, at ch 187, and the four a day may be named once, at ch 184.** No
-  bare Settlement fraction goes on the page anywhere; the channel is named in days and sentences and never
-  as a number with a decimal in it. **The two days and the four a day are not to be multiplied by
-  anybody.** Her ordinary use has been twice a day, in hours, never idled, since the spring — and four a
-  day is *more* than that, which is the other half of why the number is awkward and is not to be argued
-  on the page either. **No total and no arithmetic on the page at all.**
-- **The fourth monthly attendance is day 239, the sixteenth**, a full month on from the third (day 209,
-  the sixteenth), at the third hour, in person, in her own hand. **The sixteenth is a standing order Sun
-  He entered under her refusal** (ch 168) — *the attendance was on the sixteenth, three days before the
-  reading, and that was the standing order* — so the day of the month **does not move**, and a month is
-  thirty days, so the next one is 209 + 30. Month-day = day − 133 on a thirty-day month, and 239 − 133 =
-  106, which is the sixteenth. **A drafter must not write the seventeenth and must not write a month of
-  thirty-one days.** **She attends it. Missing it is Batch 0002's irreversible decision and is not this
-  batch's and is not foreshadowed as hers here.**
+  days, and 219 + 27 = 246, so **the tin's projection dies on about day 246 — eight days short of the
+  road.** The four coppers that go to the girl at **ch 183** come out of that hundred and forty, not on
+  top of it, and move the day by less than one. **The arithmetic is run from the day she last counted it,
+  day 219, and not from the day a chapter opens**; by the time ch 190 opens it has already run for three
+  weeks. **She stops buying on day 240 and therefore never reaches day 246** — that is the irreversible
+  decision, and the projection is the argument she has to beat to get there. **From the 240th the tin is
+  about thirty coppers under a board that she is choosing not to spend**, and that is what Batch 0002
+  inherits. **Do not move this arithmetic, do not re-count the tin against a different figure anywhere in
+  ch 179–192, and do not call it empty in ch 190 or after — the word is not true of it after the 240th.**
+- **The channel.** About ten days at ch 178 (day 219), left there in the final image of Volume 3.
+  **Only what follows may reach a page in ch 179–192, and each item has one home:**
+  - **Four a day** — **ch 184**, in her own hand on the ticket, the first figure of the channel to reach
+    a page in this batch. After that it may be referred to as **the day's four** and is **never counted
+    back into a rate and never multiplied by a number of days.**
+  - **The price, eight days out of about ten** — **ch 185**, said back to him slower than he said it,
+    and **named once more at ch 187 immediately before the word**, which is the standing ch 149 form and
+    the only place in this batch where one figure is deliberately said twice. **What is left, about two
+    days**, is said **once**, at ch 187, in the same breath as the price.
+  - **The thinning** — **ch 191 is the one place the falling-off may be put in numbers**, and it is
+    **three and then two across seven days, and not the four of ch 184.**
+  **The ten itself is the drafter's figure and is never spoken.** **Ch 192 states once, in her own count,
+  what is left of him, and puts no number in it.** **No total and no arithmetic on any page, and nobody
+  multiplies two of these figures by anything.** No bare Settlement fraction goes on the page anywhere;
+  the channel is named in days and in sentences and never as a number with a decimal in it. Her ordinary
+  use has been twice a day, in hours, never idled, since the spring — and four a day is *more* than that,
+  which is the other half of why the number is awkward and is not to be argued on the page either.
+  **A card line in this file may quote any of these numbers as often as the drafter needs one — a card
+  line is not a page, and both this bullet and the tin's above are about the chapter.**
+- **The fourth monthly attendance is day 239, the sixteenth**, at the third hour, in person, in her own
+  hand. **Month-day = day − 133, taken on a thirty-day month**, so 239 − 133 = 106, and 106 leaves **16**
+  over three whole months — **the sixteenth**. **A drafter must not read 106 itself as a month-day, and
+  must not write the seventeenth and must not write a month of thirty-one days.**
+  **Why thirty days and not the thirty-one the first three ran at — recorded so nobody "corrects" it
+  later.** The three attendances Volume 3 put on the page are day 147, day 178 and day 209, thirty-one days
+  apart, which on this formula walks them **the fourteenth, the fifteenth and the sixteenth.** Ch 168
+  states the standing order in Sun He's own entry as *the attendance was on the sixteenth*, and **209 is
+  the sixteenth**, so **the day of the month does not move and the gap is thirty: 209 + 30 = 239.** The
+  drift that a month of thirty-one days would have carried forward is **finished at 239, not continued**.
+  **The Volume 3 seam still stands** — no closed chapter states the gap between day 147 and day 178 and
+  none may be given one — **and the thirty days from 209 to 239 is the first such gap a chapter may
+  state.**
+  **She attends it. Missing it is Batch 0002's irreversible decision and is not this batch's and is not
+  foreshadowed as hers here.**
 
 ### Chapter-by-chapter day table
 
@@ -468,8 +485,8 @@ Emotional change: She expected a blank and got a form. The difference makes it w
 space that nobody has written in is a space somebody is supposed to write in, and there is a name for the
 office that does the writing that she cannot read.
 
-Power or resource change: **None. Condensing 9.** Channel about ten days as ch 178 left it and not
-re-derived. **No bracket in this chapter.**
+Power or resource change: **None. Condensing 9.** The channel is untouched and **carries no figure on any
+page in this chapter** — see the clock block. **No bracket in this chapter.**
 
 Continuity fact to preserve: The shelf held **eleven** things at ch 178 and holds **twelve** now, because
 one went up the stair and one came down at ch 176 and the county has put up a notice. **The space is
@@ -518,8 +535,8 @@ down; the chapter is the arithmetic and one man's board and a room that is cold.
 Emotional change: Not dread — a clerk's feeling. She has been out of money before and this is the first
 time the thing running out has a *date* she can write down, and it is eight days before a door opens.
 
-Power or resource change: **None. Condensing 9.** Four coppers will leave the tin at ch 183 and the
-empty day is still day 246. **No bracket.**
+Power or resource change: **None. Condensing 9.** Four coppers will leave the tin at ch 183 and **the
+projected last day is still day 246**. **No bracket.**
 
 Continuity fact to preserve: **Da Shan is never thanked and is not a villain.** The quarry, Bo and Kan
 are **not reopened** and are not on the page in this chapter. **Ten sleepers in twelve bunks, nine men
@@ -641,7 +658,7 @@ is the only source in this county she can ask for free.
 Action or decision: She pays the girl **four coppers out of the tin for an hour of copying that was not
 on the girl's sheet** — a purchase, plainly, and no ceremony — and gets the side-by-side of the notice
 and the last carrier's list. **She does not thank her and is not thanked.** Four coppers leave the tin
-and the empty day stays day 246.
+and the projected last day stays day 246.
 
 Emotional change: Relief at having found a free source, immediately followed by the specific ugliness of
 buying an hour of a woman's time from a woman with a crooked leg who has already arranged to be
@@ -661,7 +678,7 @@ her work.**
 Ending type: new danger — the road is a week later than the day on the notice, and the tin is a week
 shorter than the road.
 
-Next-chapter pull: Ten days of him and no rule for spending one.
+Next-chapter pull: What is left of him, and no rule for spending one.
 
 ## Chapter 184 — One at a Time
 
@@ -695,8 +712,9 @@ Emotional change: The loneliness of a discipline nobody can witness. For the fir
 is keeping a book in a world that keeps books about her, and this one has her handwriting on it and
 nobody will ever read it.
 
-Power or resource change: **Channel about ten days at the start of the chapter, untouched — the ration is
-a rule and not a spending.** **Condensing 9. No bracket.** **No Ledger**; she orders nothing in this
+Power or resource change: **Channel untouched, and the ration is a rule and not a spending. Four a day is on
+the page here, once, in her own hand on the ticket — the first figure of the channel to reach a page in
+this batch.** **Condensing 9. No bracket.** **No Ledger**; she orders nothing in this
 chapter.
 
 Continuity fact to preserve: **The four standing terms of ch 118 and his three are referred to and never
@@ -848,7 +866,7 @@ Resistance: **The year's moment comes due and there is nothing set aside for it,
 reserved sentence on the price at ch 185.** She has said out loud once, on a wall in a lane, that she has
 not forgiven him, and at ch 176 she recorded that she was not going to say it again for a while, and this
 is the day the year comes round. **She does not say it.** And she cannot, because the sentence went on a
-price. She has a name, she has about two days of channel left, and she could spend every one of them
+price. She has a name, she has the rest of him, and she could spend all of it
 tonight, inside the bound, standing in a lane in Lowwater outside a counting room she has never been in.
 
 Information revealed: **What replaces the refusal.** Not forgiveness. **A purchase.** She is going on
@@ -867,8 +885,9 @@ to an empty room that she is angry. **And then the cost of the relief, which is 
 to spend him.**
 
 Power or resource change: **Condensing 9.** The ticket now carries a column of marks and a name. **The
-ration is visible on the page once** — four a day at the start of the chapter, thinning by the end, and
-**the figure is stated once and not argued.**
+ration is visible on the page through the marks on the ticket and not through a figure** — the day's four
+was named once at ch 184 and is referred to, not restated, and **nothing is counted or multiplied here.**
+**No bracket, no Ledger.**
 
 Continuity fact to preserve: **She does not forgive him. She does not tell him to stop.** The ch 150
 refusal is not softened, deferred, reopened or regretted, and **no chapter may let her wonder what she
@@ -912,8 +931,8 @@ Emotional change: Being next to somebody in a queue. Eleven minutes in front of 
 her own crew standing close enough that she can hear him breathing, and the one thing she wants to say
 to him is four sentences long and she is not going to say them to a person who cannot hear them.
 
-Power or resource change: **Condensing 9. One sentence of four spent and wasted. No bracket, no stage, no
-Ledger.**
+Power or resource change: **Condensing 9. One of the day's four spent and wasted, and the day's four is
+referred to and not restated.** No bracket, no stage, no Ledger.
 
 Continuity fact to preserve: **Bai Zhu never lies, threatens, touches her, enters her rooms or pays for
 force, and asks her no question and says so in the same breath.** **He is named once, at ch 150, to a
@@ -927,7 +946,7 @@ obtainable in nine with a stamp and a reason.** The seven relicensing conditions
 Ending type: cost — she pays eleven minutes and a quarter of a day's ration and gets one true fact she
 already had.
 
-Next-chapter pull: About thirty coppers, four loads a week, and a date the tin dies on.
+Next-chapter pull: About thirty coppers, four loads a week, and a board behind a well at Lowwater.
 
 ## Chapter 190 — A Bed of Ash
 
@@ -962,14 +981,15 @@ does not say why.** The room goes cold that night. She keeps what is left of the
 she does not tell nine men what she has done with it, and **the not-telling is half of the cost and
 carries into ch 191 and ch 192.**
 
-Emotional change: Guilt with nowhere to go, which is the shape of this entire batch. Nine men will be
-cold for **fourteen** nights of the end of the winter because of an arithmetic sheet, and every one of
-them already knows what she is and what is on her licence and has still never asked her for anything, and
-she has just done the one thing that makes that worse. **And one of them notices and does not ask**, which
-is worse.
+Emotional change: Guilt with nowhere to go, which is the shape of this entire batch. **The four nights of
+this chapter are cold because of an arithmetic sheet, and so are the ten nights that follow them to the
+last page of the batch**, and every one of the nine already knows what she is and what is on her licence
+and has still never asked her for anything, and she has just done the one thing that makes that worse.
+**And one of them notices and does not ask**, which is worse.
 
 Power or resource change: **Condensing 9. No bracket.** **The tin stops at about thirty coppers and is not
-re-counted against a different figure afterwards.** The projection dies on day 246; the purchases stop on
+re-counted against a different figure afterwards, and nothing after this chapter may call it empty.** The
+projection dies on day 246; the purchases stop on
 day 240; the road day is day 254.
 
 Continuity fact to preserve: **Da Shan's board is behind a well and is his; eight frames, two of which had
@@ -981,10 +1001,10 @@ the risk is the cold and what it does to nine men and to a woman who cannot keep
 going down is not an injury and is not written as one.** **Qin may notice and may not ask; nobody says a
 question and nobody thanks anybody.**
 
-Ending type: cost — she closes the option of six more warm nights for ten people, on purpose, and gives
-them fourteen cold ones.
+Ending type: cost — she closes the option of six more warm nights for ten people, on purpose, and starts
+the cold that runs, four nights here and ten more after them, to the last page of the batch.
 
-Next-chapter pull: Fourteen nights of cold quarters and about two days of him, and one question she wants
+Next-chapter pull: Ten more nights of cold quarters, and one question she wants
 to ask more than anything else in the world.
 
 ## Chapter 191 — What a Question Costs
@@ -995,8 +1015,9 @@ length of them.** Close third.
 
 Immediate goal: Find out the shape of the road east without paying for it.
 
-Resistance: **She has about two days of channel and roughly four sentences a day and it is thinning, and
-the one thing she wants to know is what the road past the fourth bridge does and how long it is.** She
+Resistance: **She has what is left of the channel after ch 187 and it is thinning faster than the ticket
+says, and the one thing she wants to know is what the road past the fourth bridge does and how long it
+is.** She
 can have it in a breath for some of the eight days she no longer has. **The Ledger is refused at ch 191,
 out loud, in the ordinary voice, at the moment it would be easiest** — he is nearly mute, she is about
 to walk nine days of unknown country with nine men and about thirty coppers, and ordering it would cost
@@ -1022,8 +1043,9 @@ and almost nothing of the one voice that knows. **She is rationing him harder th
 it is not sustainable and she does it anyway.**
 
 Power or resource change: **Condensing 9. Ledger refused, not spent. No bracket, no stage.** **The ration
-thins visibly across the seven days** — four a day, then three, then two — and **the figure is given
-once, plainly, and is not argued**.
+thins visibly across the seven days, and this is the one place in the batch where the falling-off goes
+into numbers** — **the four of ch 184 is not restated and three and then two are on the page once** — and
+**the figures are given plainly and are not argued.**
 
 Continuity fact to preserve: **The cold ch 190 caused is still on in this chapter and is not re-decided
 and is not apologised for** — nine men have already accepted it in the way they accept everything, and
@@ -1039,7 +1061,7 @@ written as one.** **No geography past the boundary appears in any form.**
 Ending type: emotional consequence — she buys nothing and finds out that paper is cheaper than a man and
 slower than either of them wants.
 
-Next-chapter pull: Three days, a tin with nothing in it, and a name on a ticket.
+Next-chapter pull: Three days, about thirty coppers she is not spending, and a name on a ticket.
 
 ## Chapter 192 — One Name and a Column
 
@@ -1051,15 +1073,15 @@ Immediate goal: Count what she is taking and decide where she goes when the road
 Resistance: **The road does not open in this chapter.** It opens in the morning after this one and the
 notice says one day and the carriers say another and she is going on the county's arithmetic because
 there is no other. What she has: a licence with nothing above nine on it, a claim with a date in it, an
-empty space on a shelf, a crew of nine, a wash house with a girl in it, a keeper in a tower, **a tin
-with nothing in it**, **a ticket with a name and a column of marks on it**, and about two days of a voice
-left, of which she has been spending four a day and is now down to what she can justify.
+empty space on a shelf, a crew of nine, a wash house with a girl in it, a keeper in a tower, **about
+thirty coppers under a board that she decided on the 240th not to spend**, **a ticket with a name and a
+column of marks on it**, and a voice she has been living on four a day, now down to what she can justify.
 
 Information revealed: **She is going east, on purpose, and she is spending him to get there.** Not to
 escape the hunt — the hunt is behind her and out of reach and she knows what that costs. She is going
 because the only book that can hold hours worked past this county's boundary is kept by people this county
 does not employ, examine or hold a second hand for, and she has a name that points at them, and she has
-about two days of a voice and a licence with nothing above nine on the front of it anywhere in the
+what is left of him and a licence with nothing above nine on the front of it anywhere in the
 world. **The account between them is a purchase now and she has stopped pretending otherwise.**
 
 Action or decision: **She counts at the frame, in her own hand, and decides.** She does not pack for nine
@@ -1071,7 +1093,8 @@ and unfamiliar relief of a woman who has stopped arguing with a man in her head 
 him.** And under it, once, unargued, the thing she is not going to say out loud this year.
 
 Power or resource change: **Condensing 9 for the last time in this batch. No stage, no bracket, no
-Ledger, no Merit.** Channel: what is left, stated once, in her own count, and not re-derived.
+Ledger, no Merit.** Channel: **what is left of him is stated once, in her own count, with no number in
+it**, and not re-derived.
 
 Continuity fact to preserve: **She does not forgive him. The account is still carrying.** The claim
 stands and the dated entry stands and **Hou Sanliang is not met**. **The empty space on the shelf is
@@ -1120,12 +1143,16 @@ and the question of whose book an hour goes into — none of which may be previe
 
 **Clock.**
 - **Ch 179 = day 220 · ch 192 = day 253 · ch 193 = day 254.** The season's road shut on day 117 and opens
-  at about day 254. **The thaw is eleven days off at about day 243** and ch 190 closes on it. **The tin
-  dies on about day 246 and she stops buying it on the 240th.**
-- **The fourth monthly attendance is day 239, the sixteenth, and she attends it.** The sixteenth is a
-  standing order and the month is thirty days. **Missing it is Batch 0002's irreversible decision (ch 205)
-  and it must not be planted, foreshadowed or thought about in this batch** — she wants to go, she goes,
-  and nobody in this batch so much as mentions missing one.
+  at about day 254. **The thaw is eleven days off at about day 243** and ch 190 closes on it. **The tin's
+  projection dies on about day 246, and she stops buying it on the 240th so that it never does.**
+- **The fourth monthly attendance is day 239, the sixteenth, and she attends it.** **Thirty days on from
+  the third at day 209 and not thirty-one** — the first three ran thirty-one days apart and walked
+  themselves a day later each month, and ch 168's standing order is the sixteenth, so the drift ends
+  here. **Derive it as (239 − 133) on a thirty-day month, not as 106.** **Missing it is Batch 0002's
+  irreversible decision (ch 205) and it must not be planted, foreshadowed or thought about in this batch**
+  — she wants to go, she goes, and nobody in this batch so much as mentions missing one.
+- **The tin is not empty.** From the 240th it is about thirty coppers she is keeping for the road.
+  **No card after ch 190 and no hand-off line may say it is empty, spent or gone** — see the clock block.
 - **Do not use the phrase "eleven weeks."** It is retired out of Volume 3 and carried five different
   meanings there. **The Hunter arrived on day 2 and the road opens at about day 254** — derive from those
   two figures and never from the retired one.
@@ -1265,7 +1292,8 @@ and the question of whose book an hour goes into — none of which may be previe
 - **A licence at Condensing nine with nothing above it on the front of the document anywhere in the
   world**, and a second relicensing petitioned, barred and not withdrawable.
 - **Nine men with no work and a cold room**, and a girl with four hours and a crooked leg, and a keeper
-  in a tower, and a tin with nothing in it.
+  in a tower, and **about thirty coppers under a board that she chose not to spend, held for a road that
+  opens on day 254 — the tin is not empty and is not spent.**
 - **The year of non-forgiveness, resolved into something that is not forgiveness and not an
   absolution.**
 - **A season's road that opens in the morning after the last page of this batch.**

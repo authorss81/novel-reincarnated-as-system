@@ -1402,6 +1402,32 @@ The Wall as a shape of work rather than a shape of stone. Foundation 1 → 9 and
 **Wei Ran may first appear in this volume, twenty, mortal-born** (`outline/series.md` §7; she is absent
 from Volumes 1–3 and the line goes off page and is not the main relationship).
 
+### Planned in `outline/batches/volume-04-batch-0001.md` — Batch 0001, ch 179–192, NOT YET DRAFTED
+
+These are **planned** and are recorded here because Batch 0002's drafter reads continuity before it reads
+the cards, and because two of them **change a figure that the Volume 3 record carries.**
+
+- **The fourth monthly attendance is day 239, and she attends it.** Month-day = day − 133 on a
+  thirty-day month, so 239 − 133 = 106, and 106 leaves **16** over three whole months — **the sixteenth**,
+  at the third hour, in person, in her own hand. **Derive it that way and not from 106 itself.**
+- **Why thirty days and not the thirty-one the first three ran at — a drift that ends here, recorded so
+  nobody "corrects" it.** The three attendances Volume 3 put on the page are **day 147, day 178 and day
+  209**, thirty-one days apart, which on this formula walks them **the fourteenth, the fifteenth and the
+  sixteenth.** Ch 168 states the standing order in Sun He's own entry as *the attendance was on the
+  sixteenth* — *three days before the reading* — and **209 is the sixteenth**, so **the day of the month
+  does not move and the gap is thirty: 209 + 30 = 239.** **A draft read day 240 and the seventeenth; that
+  was wrong and is retired.** **The Volume 3 seam still stands** — no closed chapter states the gap
+  between day 147 and day 178 and none may be given one — **and the thirty days from 209 to 239 is the
+  first such gap a chapter may state.** **Missing the attendance is Batch 0002's irreversible decision at
+  ch 205 and must not be planted in Batch 0001.**
+- **The tin is never empty in Batch 0001.** About a hundred and forty coppers at ch 178 (day 219) at four
+  loads a week and nine coppers a load; the projection runs out on **about day 246**, eight days short of
+  a road that opens on about day 254; and **she stops buying on day 240, in daylight, and holds what is
+  left — about thirty coppers — for the road.** From the 240th the tin is **about thirty coppers under a
+  board she is choosing not to spend**, and **no card after ch 190 and no hand-off line may call it
+  empty, spent or gone.** A draft carried *a tin with nothing in it* into the ch 191 pull, the ch 192
+  inventory and the Batch 0002 hand-off; that coinage is retired.
+
 ### Held for Volume 5 or later
 
 **What the Foundation stages do to a body that is still being built** (the index finger is the named one
