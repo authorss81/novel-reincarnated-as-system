@@ -30,7 +30,7 @@ She put the filing copy away.
 
 She did not startle. After eight months you do not startle at a voice that arrives without air.
 
-“You have had one in you since Tuesday,” said Yuan. “I have watched it come. It is ready and it is not released and it is mine to release and not yours, and I do not do it until you say.”
+“You have had one in you for days,” said Yuan. “I have watched it come. It is ready and it is not released and it is mine to release and not yours, and I do not do it until you say.”
 
 That was the term. The third one, standing since a winter step on a terrace, in the plain words she had set for him and he had broken once and been stopped once: nothing decided about her again without telling her first. He had not held it four seconds this time. He had held it three days and had come and found her on a mud flat east of town and asked her before the light went, and had set out what each choice did while he asked.
 

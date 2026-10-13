@@ -32,7 +32,7 @@ The clerk looked at her for a moment with the brass rule in his hand.
 
 “Then I will stand where I stood.”
 
-She had two arms and one of them did not work, and she had a filing that required her to be in a room at an hour, and she had known since a Tuesday afternoon in the spring that the sheet would be struck and had done nothing about it, because there was nothing anybody could do about it and she had gone down to the wash house instead.
+She had two arms and one of them did not work, and she had a filing that required her to be in a room at an hour, and she had known since an afternoon in the spring that the sheet would be struck and had done nothing about it, because there was nothing anybody could do about it and she had gone down to the wash house instead.
 
 She stood in the ante-room for the length of it and let the word be gone.
 
@@ -90,7 +90,7 @@ The square was outside in the rain that had started at noon and gone on all afte
 
 She went up the lane and past the two men on the wall, who got up out of the way of the boards she was carrying and said good afternoon, in the way of two men who have been sitting on a wall for six weeks and have made no arrangement with anybody at all.
 
-Four days up and four days down, and she had known since Tuesday at the wash house, and she had been at the wash house for no reason she had given anybody.
+Four days up and four days down, and she had known since that afternoon at the wash house, and she had been at the wash house for no reason she had given anybody.
 
 She went up the tower and got the coat out of the lining and the filing copy and the docket and the last slate of carriers' sheets for the month, and put the slate down in front of Feng without a word.
 

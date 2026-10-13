@@ -10,7 +10,7 @@ Then it went past the fourth. That was the part she had not asked about.
 
 The crack opened the whole way down, the whole length of the left ribs, cold and wide and doing work with nothing asked of it, and the heat that came up out of her was not the heat of a body releasing something.
 
-It was the heat of a body being let go of something it had been holding since a Thursday in the autumn. It came up through the floor plates and put a smell out of the settling floor that four men on the far end of the room looked up at.
+It was the heat of a body being let go of something it had been holding since the autumn. It came up through the floor plates and put a smell out of the settling floor that four men on the far end of the room looked up at.
 
 The whole channel went at once. She felt it go the way she had felt the channel tear on a road at the foot of a tower two months ago, except that this time it went where it was supposed to go, and the mouth of it was the ceiling she had signed for herself in her own hand in a county office, and for one breath she could feel the paper on the top of the fifth stage the way a man feels a roof.
 
@@ -48,7 +48,7 @@ That was the whole of the bargain and she had made it in the mud and had been ca
 
 The noise was the record. There was no other way for a stage to get into a county book, and a county book was the only thing in nine counties that could stand between a woman and an office that did not want her standing.
 
-If the layer said nothing, the county wrote nothing, and a county that has written nothing has nothing to strike, and she would have stood up a filing at the end of the thaw with one, two and three on it and a registrar deciding on a Tuesday whether a hole was a breach.
+If the layer said nothing, the county wrote nothing, and a county that has written nothing has nothing to strike, and she would have stood up a filing at the end of the thaw with one, two and three on it and a registrar deciding on a morning in a month whether a hole was a breach.
 
 She had held a stage back for eleven days so that a market would not price her on the morning she buried Du Hong. It had cost her a stage off every book in the bound and nine days of not eating and it had not cost her one hour of paper, because a filing with a gap in it and a filing with a lie in it are two different animals, and she had chosen the gap.
 

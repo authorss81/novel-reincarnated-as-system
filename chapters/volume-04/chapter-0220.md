@@ -100,7 +100,7 @@ She had the hours between the two of them in which to be certain that one had no
 
 Because if the stage had cost her the name, then she could have put the two together and carried both of them as one thing. She could have said: that is what it took. That is the price. And a price is a thing a person can hold.
 
-They were two things that happened in the same week, and neither of them was about the other, and she was eighteen years old and standing at a trestle at the west end of a nine-day line with about ten coppers and a bunk and a fire that is not lit out of her share.
+They were two things that happened inside one day, hours apart, and neither of them was about the other, and she was eighteen years old and standing at a trestle at the west end of a nine-day line with about ten coppers and a bunk and a fire that is not lit out of her share.
 
 It is not a wound.
 

@@ -22,7 +22,7 @@ She said it the way she said everything, which was as a fact with a number in it
 
 Ning Yan did not move.
 
-“Asked in writing,” said the girl. “Twice. A county request on the ordinary form, the one any applicant can fill in, asking for the current season's furnace schedule with its hours certified, for attachment to a filing already standing at this office. It came down the road with the quarter's crate and it has been sitting on the shelf in the third room since Tuesday because nobody in this building knows what a furnace schedule is and nobody wanted to be the one who sent it back wrong.”
+“Asked in writing,” said the girl. “Twice. A county request on the ordinary form, the one any applicant can fill in, asking for the current season's furnace schedule with its hours certified, for attachment to a filing already standing at this office. It came down the road with the quarter's crate and it has been sitting on the shelf in the third room ever since, because nobody in this building knows what a furnace schedule is and nobody wanted to be the one who sent it back wrong.”
 
 “Nobody can send it back wrong. It is not theirs to send.”
 

@@ -43,6 +43,7 @@ Nine Steps Terrace in snow. Furnace smoke that tastes of iron at the back of the
 - Ascending past Condensing into Foundation is announced. Everyone within the bound hears it. This is treated as good news.
 - Death by harvest leaves an unsettled account. It follows the family for three generations unless someone with authority writes it off.
 - No one inside the bound has ever met anyone who came back from beyond the Wall. This is presented in the text as a fact about the world and not as a fact about the Wall.
+- **The world has no named weeks and no named weekdays.** A day is counted as an hour of the day and a day of a month, and a month is thirty days, so **month-day = `((day − 134) mod 30) + 1`**, with day 134 the first of a month. People say *four days up and four days down*, *the third of the month*, *the second hour of the afternoon*, *the end of the thaw*, *a month from now* — and they do not say Monday. **No narration in this book names a weekday, and none may.** This is written into canon here because the rule was previously inferred from Volume 4's practice and enforced at one line while eight standing instances survived in Volumes 1 and 2; all eight were repaired at the Volume 4 close review (ch 40, 47, 104, 109, 111 ×2, 114) and a grep of `chapters/` for all seven weekday names now returns zero across ch 1–238.
 
 ## The reveal discipline
 
@@ -54,4 +55,4 @@ Winter is the quota season and the volume's pressure. The Verge burns in summer 
 
 ## What must never appear
 
-No modern technology. No firearms. No printed press. No other Earth. No martial arts terminology imported from outside the setting — the setting's vocabulary is in `bible/terminology.md` and is used consistently.
+No modern technology. No firearms. No printed press. No other Earth. No martial arts terminology imported from outside the setting — the setting's vocabulary is in `bible/terminology.md` and is used consistently. **No named weekday, in any register and from any mouth** — see *Rules of the world that hold everywhere*.

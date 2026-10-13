@@ -12,6 +12,7 @@ Rules of record. Anything below is canon. If a batch needs to change one of thes
 6. Death by harvest leaves an **account** that follows a family three generations.
 7. Qi is finite. Running dry is the most common cause of death under thirty.
 8. Nothing inside the bound repairs an aperture. Damage is permanent and visible.
+9. **The world has no named weeks and no named weekdays.** A day is an hour of the day and a day of a month; a month is thirty days, so month-day = `((day − 134) mod 30) + 1`, day 134 being the first of a month. Characters say *four days up and four days down*, *the third of the month*, *the second hour of the afternoon*. **Narration may not name a weekday, in any register and from any mouth.** Written into canon at the Volume 4 close review; all eight standing instances in Volumes 1 and 2 were repaired the same day.
 
 ## The layer's rules
 
@@ -2101,9 +2102,13 @@ here and in `state/current.md`, `state/open-threads.md` and `state/book-metadata
    as it takes to count eleven*, *about nine seconds*, *about two seconds*, *a second and a half* and *four
    minutes*. **The rule stands and is unchanged: do not let it become a metronome.** The record is corrected
    to say what is on the page.
-2. **THE WEEKDAY.** *No calendar month and no weekday is named anywhere in ch 179–238* **is now true.** Ch 224
+2. **THE WEEKDAY.** *No calendar month and no weekday is named anywhere in ch 179–238* **is true.** Ch 224
    carried the volume's only instance — *I would do the whole of it again on Friday* — and **the close audit
-   repaired it in place to *on any working morning*.** The exception no longer stands.
+   repaired it in place to *on any working morning*.** The exception no longer stands. **The close review then
+   found that the rule had been inferred from this one volume, written nowhere in `bible/` or `outline/`, and
+   enforced at that single line while eight standing instances survived in Volumes 1 and 2. The rule is now
+   canon in `bible/world.md` (*Rules of the world that hold everywhere* and *What must never appear*) and all
+   eight were repaired — see the close-review block beneath this one.**
 3. **THE MONTH RULE.** The rule as it stood read *"Days 374 to 463 read day − 373; day 464 begins the next
    month and reads day − 463."* **That is wrong for days 404 onward.** The correct statement is
    **`((day − 134) mod 30) + 1`,** which is the formula already given above it and which agrees with every
@@ -2111,28 +2116,31 @@ here and in `state/current.md`, `state/open-threads.md` and `state/book-metadata
    464 onward reads day − 463.** Under the wrong form, days 412 and 440 and 462 and 470 came out as 39, 67,
    89 and 97; under the correct form they are the ninth, the seventh, the twenty-ninth and the seventh,
    which is what ch 228, ch 234, ch 237 and ch 238 each say in the chapter.
-4. **THE WORD COUNTS.** The volume file set was recorded as 120,566. **It is 120,571 after the close
-   repairs, section headings excluded** — which is the method every per-batch figure uses, and the reason the
-   raw `wc -w` count is higher. Per batch, headings excluded: **28,607 · 31,900 · 28,580 · 31,484.** The
-   per-batch summary figures in `workspace/` differ from these by a few dozen words each and are historical
-   records of the moment each batch closed; **the audited figures are the ones above.**
+4. **THE WORD COUNTS.** The volume file set was recorded as 120,566. **It was 120,571 after the close
+   repairs, chapter titles and `##` section headings excluded** — which is the method every per-batch figure
+   uses, and the reason the raw `wc -w` count is higher. Per batch, headings excluded: **28,607 · 31,900 ·
+   28,580 · 31,484.** The per-batch summary figures in `workspace/` differ from these by a few dozen words each
+   and are historical records of the moment each batch closed; **the audited figures are the ones above.**
+   **CORRECTED AGAIN BY THE CLOSE REVIEW: the ch 220 sentence it repaired is one word longer than the text it
+   replaced, so the volume is 120,572 and Batch 0003 is 28,581.**
 
 **Repairs made in the chapters at the volume close.**
 
 - **ch 224** — the only named weekday in the volume (*on Friday*) → **on any working morning**.
 - **ch 232** — *she had four fingers' worth of nothing on the other one that she had not noticed yet* → **and
-  every part of her that had gone wrong since the thaw had gone wrong on that side.** A direct pre-echo of
-  the right index finger, three chapters before ch 235.
+  every part of her that had gone wrong since the thaw had gone wrong in that hand.** A hand-scoped echo of
+  the right index finger, three chapters before ch 235. **The first form of this repair — *…on that side* — was
+  itself wrong and was corrected by the close review; see the block beneath this one.**
 - **ch 179** — *that is the finger that can still do a turn at the end of a stroke* → **because a coin will go
   across the flat of that one and not across a fingertip.** The construction belonged to ch 235 and was being
   spent fifty-six chapters early.
 - **ch 220** — **the fifth stage was dated *the nineteenth of this month*, which is day 362 and makes the
   interval twenty-four days.** **The pinned day is 360, which is the seventeenth**, twenty-two days from the
-  twenty-fifth of the month before, and the chapter's own heading and nine later chapters all date the strike
-  to the seventeenth. Corrected to **the seventeenth**, with *it came in the same week* → **it came earlier in
-  that same day** and the two *two days* recast as **the rest of the day** and **the hours between the two of
-  them**. The chapter's argument — that the two things are not connected — is preserved and sharpens,
-  because the stage and the strike are now four hours apart on one day.
+  twenty-fifth of the month before, and **the chapter's own title — *Struck Out* — and nine later chapters all
+  date the strike to the seventeenth.** Corrected to **the seventeenth**, with *it came in the same week* →
+  **it came earlier in that same day** and the two *two days* recast as **the rest of the day** and **the hours
+  between the two of them.** The chapter's argument — that the two things are not connected — is preserved and
+  sharpens, because the stage and the strike are now hours apart on one day.
 
 **Findings recorded and not repaired, with the reason.**
 
@@ -2178,6 +2186,60 @@ old. Volume 5 takes the correction inside its own sixty chapters — at least on
 acts, or is acted on, away from her hearing — and it takes something that is his, because a man the reader has
 never seen in a room cannot carry the fall `outline/ending.md` fixes for him. Full statement in
 `state/current.md` under *The protagonist, answered in writing*.**
+
+### VOLUME 4 CLOSE REVIEW REPAIR — what the review found and what was changed
+
+**The close was audited line by line, all word counts and the day arithmetic reproduced, and the markdown, the
+titles and the bracketed-line budget all verified clean. Five findings were raised. Four were real and are
+repaired here; one is operational and is recorded for the controller. No beat, title, order, ending or planned
+plot was touched, and nothing a batch or volume owns was taken.**
+
+1. **ch 220 kept the old timing in one sentence.** The close moved the stage and the strike into one day —
+   the stage at about the fourth hour, the strike in the second hour of the afternoon, *the rest of the day was
+   enough*, *the hours between the two of them* — and left *They were two things that happened in the **same
+   week*** four paragraphs later, which cancels the reason the repair was made. **Repaired to *They were two
+   things that happened inside one day, hours apart*.** Nothing else in the chapter carries the old span.
+2. **ch 232's first repair claimed more than the body allows.** *Every part of her that had gone wrong since
+   the thaw had gone wrong on that side* is contradicted by two established losses that are not lateral: the
+   breath down to four counts and the loss of appetite, both from ch 214. **Repaired to *…had gone wrong in
+   that hand***, which is what the fact supports — the order out of the left hand, the heel gone with it, and
+   a right hand that is whole until ch 235 — and which still scopes the sentence away from the finger.
+3. **The weekday rule was unwritten and unenforced outside one volume.** It is now **canon in
+   `bible/world.md`**, in *Rules of the world that hold everywhere* and again under *What must never appear*:
+   **the world has no named weeks and no named weekdays; narration may not name one.** The eight standing
+   instances in Volumes 1 and 2 were repaired at word level — **ch 40** (*I was worse on **Tuesday*** → *I was
+   worse three days ago*) · **ch 47** (*repeated in a wash house by **Friday*** → *by the end of the week*) ·
+   **ch 104** (*one in you since **Tuesday*** → *one in you for days*) · **ch 109** (*on the shelf since
+   **Tuesday*** → *on the shelf since it came down with the crate*) · **ch 111** (*since a **Tuesday** afternoon
+   in the spring* → *since an afternoon in the spring*; *since **Tuesday** at the wash house* → *since that
+   afternoon at the wash house*) · **ch 114** (*holding since a **Thursday** in the autumn* → *holding since the
+   autumn*; *a registrar deciding on a **Tuesday*** → *on a morning in a month*). **A grep of `chapters/` for
+   all seven weekday names now returns zero across ch 1–238.** **Reopening closed chapters is not new to this
+   book — Volume 3's Batch 0001 review reopened two Volume 2 chapters, ch 116 and ch 118, over a date that
+   contradicted the channel's own figure. This is the first reopening made to apply a canon rule across
+   volumes**, because the rule had never been written down anywhere.
+   **Two closed batch cards still describe beats in weekday terms and neither beat is on the page:**
+   `outline/batches/volume-01-batch-0003.md` (*It is a normal Tuesday*) and `outline/batches/volume-04-batch-0002.md`
+   (*a matter of a man's Tuesday*). They are left as historical planning records. **The rule in `bible/world.md`
+overrides them, and no planner or drafter may lift either phrase.** No sense, beat or fact was altered in any
+    of the eight chapters.
+ 4. **Two records of the close were wrong about the text.** `workspace/volume-04-close/SUMMARY.md` cited
+ Repair 4 by *the chapter's own heading is The Seventeenth* without saying which kind of heading it meant — **the
+ chapter title is *Struck Out* and *The Seventeenth* is its second section heading, at line 9, so the citation
+ was loose rather than false** — and `state/book-metadata.md` described the word-count method as excluding
+   headings* when the figures also exclude the `#` title line. **Both corrected in place.**
+5. **Operational, and not the writing phase's to make: `workspace/volume-04-close/` has no `.done`.** The
+   close audit is complete and the workflow gates dispatch on that marker, so an audited close can re-run and
+   re-touch the four repaired chapters. **`PHASE_SYSTEM.md` says only the controller may mark a phase done, and
+   no writing phase was instructed to write it here, so it has deliberately not been created.** Every other
+   phase directory in the repository carries the marker. **This is for the controller or the operator.**
+6. **Carried, not a defect: the protagonist correction is wholly deferred into Volume 5.** Yuan is the named
+   protagonist, has been a voice only and off-panel for two volumes of sixteen, and `outline/ending.md` fixes
+   that he takes the fall and is gone before ch 1000. The requirement is now a hard constraint on Volume 5's
+   shape — **at least one sustained scene in which he acts, or is acted on, away from her hearing, and it costs
+   him something the ending still needs** — and it is written into `state/open-threads.md`,
+   `state/current.md` and `workspace/volume-04-close-record/PROMPT.md`. **It is load-bearing on a phase that
+   has not started.** Do not let Volume 5 open without it.
 
 ---
 
@@ -2386,7 +2448,9 @@ six chapters with none.** The suppression at ch 234 has not been written and wil
 - **Cui Bao came out past the wire once, at ch 224**, in the afternoon of the fourteenth, and said the
   whole of it: **the referral was correct, he acted on it inside a week, the run is a fortnight shorter,
   nine men are idle and his daughter is idle, he heard her stage go on the thirteenth and wrote none of
-  it down, and he would do the whole of it again on Friday.** He does not want her to thank him. **He is
+  it down, and he says he would do the whole of it again on any working morning.** *(The line as drafted
+  read *on Friday* and was repaired at the Volume 4 close; the weekday is gone.)* He does not want her to
+  thank him. **He is
   right and nothing so far in this volume proves him wrong.**
 - **MEMBER ABSENT, the third time (ch 225), on the sixteenth.** **One sentence carries it** and the rest
   of the chapter is the reason it is blank. **The word has been offered twice and no man has offered it a

@@ -1,12 +1,15 @@
 # Volume 4 close audit — SUMMARY
 
-**Volume 4 is CLOSED AND AUDITED. Ch 179–238, sixty chapters, 120,571 words, day 220 to day 470.**
+**Volume 4 is CLOSED AND AUDITED, AND THE CLOSE HAS BEEN REVIEWED. Ch 179–238, sixty chapters, 120,572 words, day 220 to day 470.**
 
 `outline/volume-04.md` has been walked line by line against the manuscript. **Four faults were found in the
 chapters and repaired at word or sentence level. Five findings are recorded with a reason and not repaired.
 Three inaccurate claims in the state files were corrected. The fifteen *Required continuity facts to
 preserve after the volume* are confirmed one at a time, and three of them have changed shape and are stated
-in the form the last page actually used. The protagonist question is answered in writing.**
+in the form the last page actually used. The protagonist question is answered in writing.** **The close was
+then reviewed: two of the four repairs were themselves faulty and are fixed, a rule the audit had inferred and
+never written down is now canon and has been enforced across the whole manuscript, and four state-file figures
+are corrected. See *Close review repair* at the end of this file.**
 
 **The full table is `## Volume 4 close audit — CLOSED` in `state/current.md`. The standing record for a cold
 reader is `## Established facts, Volume 4 complete (ch 179–238)` in `state/continuity.md`, with the close
@@ -69,12 +72,17 @@ and **day 360 is the seventeenth of a month** under the rule the book has used s
 (`((day − 134) mod 30) + 1`). The chapter put the stage on the nineteenth, which is **day 362 and an interval
 of twenty-four days**, contradicting three things at once: the pinned day, the twenty-two days the chapter
 itself measures from the twenty-fifth of the month before, and the **twenty-six** days to Foundation 6 at day
-386 — 386 minus 362 is twenty-four, not twenty-six. The strike was never in doubt: the chapter's own heading
-is *The Seventeenth*, the strike is at the second hour of the seventeenth, and **nine later chapters (221,
-228, 230, 231, 232 ×3, 234, 236) date it to the seventeenth.** The strike stays; the stage moves to meet it,
-four hours earlier in the same day. **The chapter's load-bearing argument — that the two things are not
-connected, and that being certain of that is worse than not knowing — is preserved and in fact sharpens**,
-because two events four hours apart invite a connection more strongly than two events two days apart.
+386 — 386 minus 362 is twenty-four, not twenty-six. The strike was never in doubt: **the chapter's second
+section heading is *The Seventeenth*, the strike is at the second hour of the afternoon on the seventeenth,
+and **nine later chapters (221, 228, 230, 231, 232 ×3, 234, 236) date it to the seventeenth.** The strike
+stays; the stage moves to meet it, hours earlier in the same day. **The chapter's load-bearing argument — that
+the two things are not connected, and that being certain of that is worse than not knowing — is preserved and
+in fact sharpens**, because two events hours apart invite a connection more strongly than two events two days
+apart. **Two sentences carried the old timing over the repair and were corrected at the close review: *They
+were two things that happened in the same week* → *They were two things that happened inside one day, hours
+apart*, and a sentence in ch 232 that claimed every loss since the thaw had been on one side of her body,
+which is not true of the breath and is now scoped to the hand. See *Close review repair* at the end of this
+file.**
 
 ---
 
@@ -138,11 +146,13 @@ days 412, 440, 462 and 470 came out as the thirty-ninth, sixty-seventh, eighty-n
 the correct form they are the ninth, the seventh, the twenty-ninth and the seventh, **which is what ch 228,
 ch 234, ch 237 and ch 238 each say inside the chapter.**
 
-**The word counts.** The volume file set was recorded as 120,566. **It is 120,571 after the four repairs,
-section headings excluded** — the method every per-batch figure uses, and the reason the raw `wc -w` count
-runs higher. Per batch, headings excluded: **28,607 · 31,900 · 28,580 · 31,484.** The `workspace/` per-batch
-figures are historical records of the moment each batch closed and differ by a few dozen words; **the audited
-figures above are the ones to use.**
+**The word counts.** The volume file set was recorded as 120,566. **It was 120,571 after the four repairs,
+chapter titles and `##` section headings excluded** — the method every per-batch figure uses, and the reason
+the raw `wc -w` count runs higher. Per batch, headings excluded: **28,607 · 31,900 · 28,580 · 31,484.** The
+`workspace/` per-batch figures are historical records of the moment each batch closed and differ by a few dozen
+words; **the audited figures above are the ones to use.** **The close review then repaired one more sentence at
+ch 220, which is one word longer than the text it replaced, so the current audited figures are 120,572 for the
+volume and 28,581 for Batch 0003. Every state file that carried 120,571 or 28,580 has been corrected.**
 
 **The status of the volume.** `state/current.md`, `state/open-threads.md` and `state/book-metadata.md` all
 said *not yet audited*. **They now say closed and audited**, and each names the next phase.
@@ -413,4 +423,44 @@ Volume 5 hand-off, corrected status and clock) · `state/continuity.md` (close-a
 
 **Chapters touched:** four. `chapters/volume-04/chapter-0179.md` · `chapter-0220.md` · `chapter-0224.md` ·
 `chapter-0232.md`. **Nothing in `chapters/volume-01/`, `chapters/volume-02/` or `chapters/volume-03/` was
-opened.**
+opened** — until the close review, below, which reopened six of them.
+
+---
+
+## Close review repair
+
+**A review ran against this close after it was written. It reproduced every figure in this file, confirmed the
+scope, the markdown, the titles, the bracketed-line budget, the four pinned stage days, the pinned attendance
+day, both recorded deviations and all sixty endings, and returned five findings. Four were real and are fixed.
+One is the controller's and is not fixed here. Nothing in the plot moved.**
+
+1. **ch 220 carried the old timing four paragraphs below the sentences the close had just rewritten.**
+   *They were two things that happened in the same week* → **They were two things that happened inside one
+   day, hours apart.** The close's own reason for moving the stage was that events hours apart invite a
+   connection more strongly than events two days apart, and the surviving sentence cancelled it.
+2. **ch 232's repair was itself an overclaim.** *every part of her that had gone wrong since the thaw had gone
+   wrong on that side* is contradicted by the breath count at four and the lost appetite, both from ch 214 and
+   neither lateral → **…had gone wrong in that hand**, which is what the fact supports and which still keeps
+   the sentence away from the finger.
+3. **The weekday rule was inferred from one volume, written nowhere, and broken eight times.** It is now canon
+   in `bible/world.md` and world rule 9 in `state/continuity.md`: **the world has no named weeks, and
+   narration may not name a weekday in any register or from any mouth.** The eight standing instances in closed
+   Volumes 1 and 2 were repaired at word level — **ch 40, 47, 104, 109, 111 (×2), 114 (×2)** — and a grep of
+   `chapters/` for all seven weekday names now returns zero across ch 1–238. **This reopened six closed Volume 1
+   and Volume 2 chapters. Reopening closed chapters is not new to this book — Volume 3's Batch 0001 review
+   reopened two Volume 2 chapters, ch 116 and ch 118, over a date that contradicted the channel's own figure —
+   but this is the first reopening made to apply a canon rule across volumes, because the rule had never been
+   written down anywhere.** Volume 2's recorded file set is **unchanged at 111,226** on its own raw-count
+   method, because the repairs replaced as many words as they removed.
+4. **Two records were wrong about the text.** `state/book-metadata.md`'s word-count method description and its
+   claim that ch 179 was *twenty-two words over* the 2,700 guide — a raw count with the headings in, against a
+   file whose own stated method excludes them; by that method ch 179 is 2,683 and ch 199 is 2,661. **The
+   reviewer also asserted that no heading called *The Seventeenth* exists in ch 220. That is wrong: the chapter
+   title is *Struck Out* and *The Seventeenth* is its second section heading at line 9. The audit's citation
+   was loose about which it meant and is now written precisely; the finding is not adopted.** Volume 4's
+   audited figures move to **120,572 over the volume and 28,581 for Batch 0003**, and every state file that
+   carried 120,571 or 28,580 has been corrected.
+5. **Operational: `workspace/volume-04-close/` carries no `.done` marker.** The workflow gates dispatch on it,
+   so this finished audit is still eligible and will re-run against an already-audited volume. **`PHASE_SYSTEM.md`
+   says only the controller may mark a phase done, so this phase has deliberately not written the file. For the
+   controller or the operator.**

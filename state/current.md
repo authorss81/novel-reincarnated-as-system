@@ -15,7 +15,9 @@ This file is **append-only and long, and most of it is history.** You do not nee
 - **`## Volume 4 close audit — CLOSED`** is the record of the Volume 4 close. **Read it if you are auditing,
   planning Volume 5, or using any figure from this run's last volume** — it carries the four repairs made in
   the chapters, the five findings recorded and not repaired, and the three corrections to inaccurate state-file
-  claims.
+  claims. **Read *Close review repair*, the last block inside it, before any of that: the review audited the
+  close, moved two sentences in ch 220 and ch 232, made the weekday rule canon and repaired eight standing
+  breaches of it in Volumes 1 and 2, and changed two recorded figures.**
 - **For canon you must not contradict,** go to `state/continuity.md` and `state/open-threads.md`, which
   are the authoritative per-batch records.
 - **Everything below the Volume 3 Batch 0004 acceptance check is a superseded historical block** unless
@@ -25,10 +27,10 @@ This file is **append-only and long, and most of it is history.** You do not nee
 - **This file is never pruned by a writing phase.** If a section is wrong, correct it in place and say
   so in the phase's repair note rather than deleting the record.
 
-- **Volume:** 4 of 16 — **The Wall (ch 179–238)** — outlined in `outline/volume-04.md`, **ALL FOUR BATCHES WRITTEN AND THE VOLUME CLOSED AND AUDITED.** BATCH 0001 (ch 179–192, 28,607 words over fourteen chapters) · BATCH 0002 (ch 193–208, 31,900) · BATCH 0003 (ch 209–222, 28,580) · BATCH 0004 (ch 223–238, 31,484, written in two halves — post-review-repair and post-close-repair). Volume 4 file set: **120,571 words, section headings excluded** — the method the per-batch records use, and the close audit moved the file-set figure up by five words after repairing four chapters. Volume 3 (ch 119–178) remains **all four batches written and audited**: Batch 0001 (ch 119–132), 36,809 words over fourteen chapters; Batch 0002 (ch 133–148), 36,742 words over sixteen chapters; Batch 0003 (ch 149–163), 30,958 words over fifteen chapters; Batch 0004 (ch 164–178), 30,505 words over fifteen chapters. **Volume 3 file set: 135,014 words.**
+- **Volume:** 4 of 16 — **The Wall (ch 179–238)** — outlined in `outline/volume-04.md`, **ALL FOUR BATCHES WRITTEN AND THE VOLUME CLOSED AND AUDITED, AND THE CLOSE REVIEWED.** BATCH 0001 (ch 179–192, 28,607 words over fourteen chapters) · BATCH 0002 (ch 193–208, 31,900) · BATCH 0003 (ch 209–222, 28,581) · BATCH 0004 (ch 223–238, 31,484, written in two halves — post-review-repair and post-close-repair). Volume 4 file set: **120,572 words, chapter titles and section headings excluded** — the method the per-batch records use; the close audit moved the file-set figure up by five words after repairing four chapters and **the close review moved it up by one more, at ch 220.** Volume 3 (ch 119–178) remains **all four batches written and audited**: Batch 0001 (ch 119–132), 36,809 words over fourteen chapters; Batch 0002 (ch 133–148), 36,742 words over sixteen chapters; Batch 0003 (ch 149–163), 30,958 words over fifteen chapters; Batch 0004 (ch 164–178), 30,505 words over fifteen chapters. **Volume 3 file set: 135,014 words.**
 - **Volume 4 goal**, fixed by `outline/series.md` §9: *In this volume, Ning Yan must break the boundary, or neither of them ever learns what they are.* **The boundary is broken, twice, both on the page, in that order.**
 - **Chapter written:** **1–238. THE NOVEL RUNS TO CHAPTER 1000; VOLUME 3 IS COMPLETE AND AUDITED; VOLUME 4 IS CLOSED AND AUDITED.**
-- **Next phase:** **the Volume 5 planning phase**, at `workspace/volume-04-close-record/PROMPT.md`, written by the Volume 4 close audit. It writes **`outline/volume-05.md`** — *Mortal Ash*, ch 239–298, goal fixed by `outline/series.md` §9 — and creates exactly one Volume 5 Batch 0001 card prompt. **It writes no chapters and no prose.**
+- **Next phase:** **the Volume 5 planning phase**, at `workspace/volume-04-close-record/PROMPT.md`, written by the Volume 4 close audit. It writes **`outline/volume-05.md`** — *Mortal Ash*, ch 239–298, goal fixed by `outline/series.md` §9 — and creates exactly one Volume 5 Batch 0001 card prompt. **It writes no chapters and no prose.** **ONE THING IS BLOCKING THIS AND IS NOT THE WRITING PHASE'S TO FIX: `workspace/volume-04-close/` holds `PROMPT.md` and `SUMMARY.md` and no `.done` marker, while every other phase directory in the repository has one. `novels.yml` gates dispatch on that marker, so the finished close audit is still eligible and will re-run against an already-audited volume. `PHASE_SYSTEM.md` says only the controller may mark a phase done, so this phase has deliberately not written the file. Raise it with the controller or the operator.**
 - **Point of view:** close third on Ning Yan; every line Yuan speaks is written in the present tense. **The close audit has now answered the two-volumes-of-sixteen protagonist question in writing — see *The protagonist, answered* below and in `workspace/volume-04-close/SUMMARY.md`.**
 - **In-world date:** **day 470** of the run's own clock — the seventh of a month, past the last working point of the line, on the far side. The season's road shut on day 117 and reopened on day 254. **Day 0 is the last day of the thaw** (canon change 30). **Day 299, 329, 359 and 389 were the attendances of the run so far in this stretch and all four fell on the sixteenth; day 389 was the last one and it is one sentence inside ch 225.**
 - **The month rule.** Months are thirty days and a month begins every thirty days, **so the month-day of any day is `((day − 134) mod 30) + 1`.** Day 134 was the first of a month. **Days 374–403 read day − 373 · days 404–433 read day − 403 · days 434–463 read day − 433 · days 464 onward read day − 463.** (The rule as it stood before this audit said "days 374 to 463 read day − 373", which was wrong for days 404 onward, and is corrected here and in `state/open-threads.md`.) The months Volume 4 lands in began on days 254 · 284 · 314 · 344 · 374 · 404 · 434.
@@ -68,7 +70,8 @@ close ran, so the completed table below was created rather than filled in. Nothi
 with a reason and no repair. Three inaccurate figures in the state files were corrected. Fifteen required
 continuity facts are confirmed one at a time. The protagonist question is answered in writing.**
 
-**Volume 4 file set after repair: 120,571 words, section headings excluded. Sixty chapters, day 220 to
+**Volume 4 file set after repair: 120,572 words, chapter titles and section headings excluded — the close audit's
+figure was 120,571 and the close review added one word at ch 220. Sixty chapters, day 220 to
 day 470.**
 
 ### The eighteen checks
@@ -98,11 +101,11 @@ day 470.**
 
 **1 — ch 224, a named weekday.** *I would do the whole of it again on Friday* → *I would do the whole of it again on any working morning.* The rule is no weekday anywhere in ch 179–238; **the repair costs nothing, because nothing in the plot turns on the day of the week and *a working morning* is the idiom the volume already uses eight times.**
 
-**2 — ch 232, a foreshadow of the finger, three chapters early.** *…and she had four fingers' worth of nothing on the other one that she had not noticed yet because nothing had been asked of that hand* → *…and every part of her that had gone wrong since the thaw had gone wrong on that side.* The volume's rule is that nothing before ch 235 foreshadows the index finger.
+**2 — ch 232, a foreshadow of the finger, three chapters early.** *…and she had four fingers' worth of nothing on the other one that she had not noticed yet because nothing had been asked of that hand* → *…and every part of her that had gone wrong since the thaw had gone wrong in that hand.* The volume's rule is that nothing before ch 235 foreshadows the index finger. **The first form of this repair said *on that side*, which was wider than the body allows — the breath and the appetite both went, and neither is lateral. The close review scoped it to the hand.**
 
 **3 — ch 179, the construction ch 235 needs, spent fifty-six chapters early.** *…because that is the finger that can still do a turn at the end of a stroke* → *…because a coin will go across the flat of that one and not across a fingertip.* The reason she used that finger is preserved; the phrase is not.
 
-**4 — ch 220, the fifth stage on the wrong day of the month.** *…and it came on the nineteenth of this month* and *The stage came on the nineteenth* → *…and it came on the seventeenth of this month* and *The stage came at the fourth hour*, with *It came in the same week* → *It came earlier in that same day* and the two *two days* recast as *the rest of the day* and *the hours between the two of them*. **Day 360 is the seventeenth, the twenty-two days from the twenty-fifth of the month before land there, and the interval to day 386 is twenty-six only if the fifth is on the seventeenth. The chapter's own section heading is *The Seventeenth* and nine later chapters date the strike to the seventeenth, so the strike was never in doubt and the stage was the error.** The load-bearing argument of the chapter — that the two things are not connected — is preserved and in fact sharpens, because the two are now four hours apart on one day rather than two days apart.
+**4 — ch 220, the fifth stage on the wrong day of the month.** *…and it came on the nineteenth of this month* and *The stage came on the nineteenth* → *…and it came on the seventeenth of this month* and *The stage came at the fourth hour*, with *It came in the same week* → *It came earlier in that same day* and the two *two days* recast as *the rest of the day* and *the hours between the two of them*. **Day 360 is the seventeenth, the twenty-two days from the twenty-fifth of the month before land there, and the interval to day 386 is twenty-six only if the fifth is on the seventeenth. The chapter's second section heading is *The Seventeenth* and nine later chapters date the strike to the seventeenth, so the strike was never in doubt and the stage was the error.** The load-bearing argument of the chapter — that the two things are not connected — is preserved and in fact sharpens, because the two are now hours apart on one day rather than two days apart. **Corrected again at the close review: one sentence four paragraphs down still read *two things that happened in the same week*, and it now reads *two things that happened inside one day, hours apart*.**
 
 **Nothing else in the volume was touched.** The planned plot, the sixty titles, the chapter order, the card beats, the four pinned stage days (386, 412, 440, 462), the pinned attendance day (389), both recorded deviations (ch 225 opening on the fifteenth, ch 228 running 412–414) and every ending stay where they were.
 
@@ -221,6 +224,51 @@ had, and it is worth it, because the alternative is a book with no protagonist i
 - **MEMBER ABSENT stands three times and is permanent**, with a reason column a foot and a half wide and blank, and **the sheet went west for the last time this season.** **No date west on any board after that man.**
 - **The register still reads *reconciled*. The Clay Plate is still worn. Shen Xiu is unforgiven and unthanked. The three sponsors are silent. Feng is alive, warm, column at five, and not thanked. Ning Wu does not appear. What became of the eleven is not raised. She does not forgive him and she does not tell him to stop.**
 - **And the unspent item this audit added: Feng's fair hand copying the Foundation column, and his copies going up a stair that now belongs to a district clerk and past the line into a book the far side keeps.** Volume 4's own cards forbade him a second appearance and the beat was never given. **It is available, and it belongs to the far side, which is where Volume 5 starts.**
+
+### Close review repair — the Volume 4 close, audited after the fact
+
+**A review ran against the finished close and reproduced its arithmetic: batches 28,607 / 31,900 / 28,581 /
+31,484 = 120,572, Volume 3 at 135,014, and `((360 − 134) mod 30) + 1 = 17` with 386 − 360 = 26. Markdown, titles
+and the bracketed-line budget came back clean, the scope of the close was clean, and the four pinned stage days,
+the pinned attendance day, both recorded deviations and all sixty endings were confirmed untouched. Five
+findings came out of it. Four were real and are repaired; the fifth is the controller's.**
+
+1. **ch 220 kept the old timing in one sentence.** *They were two things that happened in the **same week***,
+   four paragraphs below the sentences the close had just moved into one day. **Now *They were two things
+   that happened inside one day, hours apart*.** Nothing else in the chapter carries the old span.
+2. **ch 232's repair claimed more than the body allows.** *every part of her that had gone wrong since the thaw
+   had gone wrong on that side* is contradicted by two losses that are not lateral — the breath down to four
+   counts and the loss of appetite, both established at ch 214. **Now *…had gone wrong in that hand***, which
+   is what the fact supports and still scopes the sentence away from the finger lost at ch 235.
+3. **The weekday rule was inferred, unenforced outside one volume, and broken eight times.** It is now **canon
+   in `bible/world.md`** — *Rules of the world that hold everywhere* and *What must never appear* — and also
+   world rule 9 in `state/continuity.md`: **the world has no named weeks; narration may not name a weekday,
+   from any register and from any mouth.** The eight standing instances in closed Volumes 1 and 2 were repaired
+   at word level: **ch 40** · **ch 47** · **ch 104** · **ch 109** · **ch 111 (×2)** · **ch 114 (×2)**. **A grep of
+   `chapters/` for all seven weekday names now returns zero across ch 1–238.** **Reopening closed chapters is
+   not new to this book — Volume 3's Batch 0001 review reopened two Volume 2 chapters, ch 116 and ch 118, over a
+   date that contradicted the channel's own figure. **This is the first reopening that exists to apply a canon
+   rule across volumes**, because the rule had never been written down anywhere. **Volume 2's recorded file set
+   is unchanged at 111,226** on its own raw-count method, because the repairs replaced as many words as they
+   removed; Volume 4's moves from 120,571 to **120,572**.
+4. **Two records were wrong about the text, and both are corrected in place.** `state/book-metadata.md`
+   described the word-count method as excluding *`##` section headings* when the figures also exclude the `#`
+   chapter title line, and it claimed ch 179 was *twenty-two words over* the 2,700 guide on a raw count; by the
+   method the file itself states, ch 179 is **2,683** and ch 199 is 2,661, so nothing in Volume 4 is over the
+   guide. **One reviewer claim was itself wrong and is not adopted: it said no heading called *The Seventeenth*
+   existed in ch 220. The chapter title is *Struck Out* and the section heading *The Seventeenth* is at line 9;
+   the audit's original citation was loose about which it was, and is now written precisely.**
+5. **Operational, and deliberately not fixed here: `workspace/volume-04-close/` has no `.done`.** The close is
+   finished, every other phase directory in the repository carries the marker, and `novels.yml` gates dispatch on
+   it, so an audited close is still eligible and will re-run. **`PHASE_SYSTEM.md` says only the controller may
+   mark a phase done, so this phase has not written it. This is for the controller or the operator.**
+
+**Carried deliberately and flagged: the protagonist correction is wholly deferred into Volume 5.** Yuan is the
+named protagonist, has been a voice only and off-panel for two volumes of sixteen, and `outline/ending.md`
+fixes that he takes the fall and is gone before ch 1000. The requirement is now a hard constraint on Volume
+5's shape — **at least one sustained scene in which he acts, or is acted on, away from her hearing, and it
+costs him something the ending still needs.** It is load-bearing on a phase that has not started. **Do not let
+Volume 5 open without it.**
 
 ---
 

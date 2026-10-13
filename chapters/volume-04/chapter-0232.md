@@ -80,7 +80,7 @@ She had been cold for about six weeks — cold at the fire and out of it, cold a
 
 That is the whole of what it was and it is worth more than the four hours.
 
-She was not calm because anything had got better. The attendance had gone west with a foot and a half of blank paper in it and it was never coming back. The three empty dates were in a book at a trestle and were going to stay empty. The order was gone out of her left hand and eleven holds out of about sixty, and every part of her that had gone wrong since the thaw had gone wrong on that side.
+She was not calm because anything had got better. The attendance had gone west with a foot and a half of blank paper in it and it was never coming back. The three empty dates were in a book at a trestle and were going to stay empty. The order was gone out of her left hand and eleven holds out of about sixty, and every part of her that had gone wrong since the thaw had gone wrong in that hand.
 
 She was calm because she had stopped.
 

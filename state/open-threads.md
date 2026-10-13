@@ -1,12 +1,15 @@
 # Open Threads
 
 **Volume 1 is closed. Volume 2 is closed and audited (ch 59–118). VOLUME 3 IS CLOSED AND AUDITED (ch 119–178).
-VOLUME 4 IS CLOSED AND AUDITED (ch 179–238, 120,571 words across four batches: 28,607 · 31,900 · 28,580 ·
-31,484, section headings excluded).** The Volume 3 close audit table is in `state/current.md` under
-`## Volume 3 close audit — CLOSED`, and **the review's reversal of one of the audit's rules is written up
+VOLUME 4 IS CLOSED AND AUDITED (ch 179–238, 120,572 words across four batches: 28,607 · 31,900 · 28,581 ·
+31,484, chapter titles and section headings excluded).** The Volume 3 close audit table is in `state/current.md`
+under `## Volume 3 close audit — CLOSED`, and **the review's reversal of one of the audit's rules is written up
 under *Close review repair* in that same block — read it before using any four-county or nine-county figure
 from this run.** The Volume 4 close audit table is in `state/current.md` under
-`## Volume 4 close audit — CLOSED`. Live threads below carry into **Volume 5, *Mortal Ash*, ch 239–298**. The
+`## Volume 4 close audit — CLOSED`, **and its close review is written up under *Close review repair* in that same
+block — read it before using any weekday, stage-day or word-count figure out of this run, because the review
+moved two sentences in ch 220 and ch 232, made the weekday rule canon, and reopened six closed chapters.**
+Live threads below carry into **Volume 5, *Mortal Ash*, ch 239–298**. The
 full state of each one at the last page of Volume 4 is in `state/continuity.md` under
 ***Established facts, Volume 4 complete (ch 179–238)*** and ***Volume 4 running ledger — at end of ch 238***.
 **The next phase is the Volume 5 planning phase**, at `workspace/volume-04-close-record/PROMPT.md`, which
@@ -207,13 +210,35 @@ appointment and no second Lung is spent — Volume 11 owns them. Column at five 
 restated in Volume 4.** **The beat is available and it belongs to the far side, which is where Volume 5
 starts.**
 
+### Two rules the close review made binding, one of them now canon
+
+1. **NO NAMED WEEKDAY, EVER.** **The world has no named weeks.** A day is an hour of the day and a day of a
+   month, a month is thirty days, month-day = `((day − 134) mod 30) + 1` with day 134 the first of a month, and
+   characters say *four days up and four days down*, *the third of the month*, *the second hour of the
+   afternoon*. **The rule is now written into `bible/world.md`** under *Rules of the world that hold
+   everywhere* and again under *What must never appear*. It was inferred from Volume 4's practice, enforced
+   retroactively at one line, and broken eight times in closed Volumes 1 and 2; **all eight were repaired at the
+   review** (ch 40, 47, 104, 109, 111 ×2, 114) and a grep of `chapters/` for all seven weekday names returns
+   zero across ch 1–238. **Volume 5 may not name one either, from narration or from any character's mouth.**
+   **Two closed batch cards still describe beats in weekday terms — `outline/batches/volume-01-batch-0003.md` and
+   `outline/batches/volume-04-batch-0002.md` — and neither beat is on the page. Do not lift either phrase.**
+2. **ABSOLUTES IN THIS BOOK ARE LITERAL.** A sentence that says *every part of her that had gone wrong*, or
+   *never used as a metronome*, or *the volume's only instance*, is a claim about the whole manuscript and will
+   be checked against the whole manuscript. Two of the close audit's own records broke this rule and were
+   corrected in place. **Write the claim you can hold.**
+
 ### The volume-close phase is required and has been written
 
 `workspace/volume-04-close/PROMPT.md` was written in the same call as ch 238, because ch 238 is the last
 chapter of Volume 4. **It audits ch 179–238 against `outline/volume-04.md` line by line, walks the fifteen
 *Required continuity facts to preserve after the volume* one at a time with the three changed-shape answers
 stated plainly, answers the protagonist question above, and creates exactly one follow-up prompt — the Volume
-5 planning phase.**
+5 planning phase. **The close has since been reviewed. Its findings are in `state/current.md` under *Close
+review repair* inside the `## Volume 4 close audit — CLOSED` block, and in `workspace/volume-04-close/SUMMARY.md`.
+Three of them change what a reader of this file must know: two sentences moved in ch 220 and ch 232, the
+weekday rule above is now canon and six closed chapters in Volumes 1 and 2 were reopened and repaired under it,
+and the audited figures are 120,572 over the volume with Batch 0003 at 28,581. One finding is not the writing
+phase's to make and is recorded for the controller: `workspace/volume-04-close/` carries no `.done` marker.**
 
 ## Volume 3 — the two structural questions
 

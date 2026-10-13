@@ -102,7 +102,7 @@ Inner disciple. Fourth rank. Two years at stage eight with a seal of her own and
 
 “No.”
 
-The two words came out flat and fast and she put a hand on the doorframe to hold it open and did not come over it, and Ning Yan understood the whole of it in about a second and a half: that a furnace-crew servant-rank girl standing in a doorway with a fourth-rank inner disciple visible behind her in a corridor with no lamp in it would be a thing that got repeated in a wash house by Friday.
+The two words came out flat and fast and she put a hand on the doorframe to hold it open and did not come over it, and Ning Yan understood the whole of it in about a second and a half: that a furnace-crew servant-rank girl standing in a doorway with a fourth-rank inner disciple visible behind her in a corridor with no lamp in it would be a thing that got repeated in a wash house by the end of the week.
 
 Mei Jiu put her right hand through the gap and held something out.
 

@@ -12,7 +12,7 @@ She did not look at the sheet. He saw her not look at it, and something in his f
 
 “You are worse,” she said.
 
-“I am exactly the same. I was worse on Tuesday.” He coughed, and it took a while, and he did not hide it. “You are worse.”
+“I am exactly the same. I was worse three days ago.” He coughed, and it took a while, and he did not hide it. “You are worse.”
 
 “Both true.” She set the wrapped book on the desk. “This is the furnace records book. The reassignment page is in it. I wrote nothing in it. I am returning it to the man who wrote it.”
 
