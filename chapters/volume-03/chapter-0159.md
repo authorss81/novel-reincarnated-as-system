@@ -1,12 +1,12 @@
 # Before It Comes
 
-She told them on the fourth evening, at the ninth hour, on the floor, a fortnight before a clerk's hand was going to put a sheet on a board in front of them.
+She told them on the fourth evening, at the ninth hour, on the floor, a little under three weeks before a clerk's hand was going to put a sheet on a board in front of them.
 
 She had thought about how for nine days and had not got anywhere with it, and the reason she had not got anywhere was that there are about eleven ways to say a thing like that and every one of them is a different woman saying it.
 
 She put down the bar and stood up straight, which cost her something, because the floor at the ninth hour is the one place in nine counties where she had ever been listened to by eleven people at once.
 
-“Yesterday morning I refused a piece of paper,” said Ning Yan.
+“Twenty-eight days ago I refused a piece of paper,” said Ning Yan.
 
 Nine men stopped, in the way a furnace floor stops, which is not all at once.
 
@@ -18,7 +18,7 @@ Gao said, “Why.”
 
 Nobody said anything for about nine seconds, which is about nine years.
 
-“That is the whole of it,” she said. “It was true, all of it, and it does not touch the four announcements. It is in this house in about a month, on the winter schedule, under our hours. You are all going to read it. I would rather you heard it from me at the ninth hour than off a board.”
+“That is the whole of it,” she said. “It was true, all of it, and it does not touch the four announcements. It is in this house in under three weeks, on the winter schedule, under our hours. You are all going to read it. I would rather you heard it from me at the ninth hour than off a board.”
 
 She picked the bar back up.
 
@@ -40,7 +40,7 @@ It came on the same night, at about the third hour, on a mat in a cold loft in L
 
 She lay there and let it go all the way down, and it went down and it did not come out.
 
-That was the difference between this one and the one in the summer at the end of a season. That one had gone out of her into nine counties in about nine seconds and there had been nine counties in it and a lamp burning on the fourth landing and a keeper with four hundred volumes to copy an announcement into by the second hour.
+That was the difference between this one and the one in the summer at the end of a season. That one had gone out of her into nine counties in about nine seconds and there had been nine counties in it and a lamp burning on the fourth landing and a keeper with four hundred and eleven volumes to copy an announcement into by the second hour.
 
 This one she took hold of.
 
@@ -64,7 +64,7 @@ And there was no way to set a date on that.
 
 The last two had gone at the fourth hour of a morning. Both of them. Both times chosen by her, and both times not chosen by anything except a body with nothing to put in it.
 
-She had been at seven for weeks. If this went out now it went out at the third hour of a night, in the first month of the cold, with no notice and no preparation. A furnace crew four miles up a mountain, a girl in a wash house, and a keeper on a fourth stair would all hear it before they had finished being frightened about it.
+She had been at seven for weeks. If this went out now it went out at the third hour of a night, in the second month of the cold, with no notice and no preparation. A furnace crew four miles up a mountain, a girl in a wash house, and a keeper on a fourth stair would all hear it before they had finished being frightened about it.
 
 And it would be nine.
 

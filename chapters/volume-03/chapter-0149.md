@@ -12,9 +12,9 @@ That was the whole of it. A sheet can be checked by a person with two eyes and a
 
 It was ordinary paper. County-good, from the look of it, the same stock as the office stationery that had come off a copying floor at the second hour, folded twice, not sealed, not addressed, and with nothing on the outside of it that named a person of any kind.
 
-The man who had brought it had knocked on the frame of the loft door on the morning of the twenty-ninth day and had not come in when she called out, and she had been in the bed with a fever on and had got up and opened the door about nine minutes later and the mat was empty.
+The man who had brought it had knocked on the frame of the loft door on the morning of the hundred and twenty-ninth day and had not come in when she called out, and she had been in the bed with a fever on and had got up and opened the door about nine minutes later and the mat was empty.
 
-So the paper had been lying on the mat for four days in a room above a copying room, and she had gone down the stair and up the stair eleven times in those four days without picking it up, and Feng Lushi had not mentioned it, because he had not seen it, because it had been put down inside a room he does not come into.
+So the paper had been lying on the mat for four days in a room above a copying room, and she had gone down the stair and up the stair eleven times in those four days without picking it up, and Feng Lushi had not mentioned it, because he had not seen it, because it had been put down inside a room he did not come into.
 
 “Open it,” said Yuan.
 
@@ -78,7 +78,7 @@ She went back up four flights and sat down on the mat in a cold room with a shee
 
 “Say it slower.”
 
-“It costs four and a half weeks out of about ten weeks of what I have,” said Yuan. “That is the whole price and it is not partly paid and it does not come back out. When it is done there will be about three weeks left.”
+“It costs four and a half weeks out of about ten weeks of what I have,” said Yuan. “That is the whole price and it is not partly paid and it does not come back out. When it is done there will be about five and a half weeks left.”
 
 “That is not what I asked.”
 
@@ -186,7 +186,7 @@ She had it in her mouth and it was the wrong shape — it would have been the sa
 
 She looked at the paper.
 
-It was still folded twice. It had been on a mat in a cold room for five days and it was going to be opened tomorrow in a room with a table in it, and she knew every term on it, and every term on it was true, and that was the difficulty and it had been the difficulty since before the fever and would be the difficulty tomorrow.
+It was still folded twice. It had been on a mat in a cold room for four days and it was going to be opened in three days in a room with a table in it, and she knew every term on it, and every term on it was true, and that was the difficulty and it had been the difficulty since before the fever and would be the difficulty on the day she opened it.
 
 “I am not opening it tonight,” said Ning Yan.
 

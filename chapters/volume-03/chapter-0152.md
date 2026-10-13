@@ -4,7 +4,7 @@ The board behind the well had been wiped and not chalked on four days out of nin
 
 Da Shan wrote the day up along the top in charcoal because he had always done it, and then he stood at the side of a frame with his back to it for about a minute, and then he went and had a smoke, and there was one man at the fourth table on a bad morning and none at the first.
 
-She had eleven weeks of the lane in her at the thaw and four weeks left in it now, and she did the division on the step on the morning of the one hundred and forty-second day, standing up, in the cold, with the numbers going out of her head before she got them all down.
+She had eleven weeks of the lane in her at the thaw and four weeks left in it now, and she did the division on the step on the morning of the one hundred and fortieth day, standing up, in the cold, with the numbers going out of her head before she got them all down.
 
 ## Two Days a Week
 
@@ -116,7 +116,7 @@ That was the shape of a day in the first month of the cold and she would be livi
 
 He did not have anything to say to that.
 
-It was the fourth of the month and the monthly attendance was eight days off.
+It was the seventh of the month and the monthly attendance was seven days off.
 
 On the morning of that day she would stand in a county office at the third hour, in front of two witnesses and a clerk and a man who had bought one certified copy of her schedule in eleven weeks. The county would read her column out loud with him in the room. And there was a line on the sheet for the day after that, in his own hand, in a book that was not hers.
 

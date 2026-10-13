@@ -10,7 +10,7 @@ It was an address.
 
 Every stage she had ever held had gone out of her into nine counties in about nine seconds, and her life since the first one had been the space where it used to be.
 
-Now there was something in that space and it was staying. It was there on the six days when the hoist ran and on the two when it did not. It was there on a mat in the loft, on the third flight of a crew quarters, and in a county office at the third hour with two witnesses and a man at the back of the room.
+Now there was something in that space and it was staying. It was there on the six days a week when the hoist ran and it was there on the days it did not. It was there on a mat in the loft, on the third flight of a crew quarters, and in a county office at the third hour with two witnesses and a man at the back of the room.
 
 It did not get quieter. It got more specific. By the third week she could find the edge of it without looking for it.
 
@@ -32,7 +32,7 @@ She could not go back. Not because it was dangerous — because a second visit i
 
 So she put it in loads.
 
-Eight on a good day. Eleven on a day when the block was running and the ice was off the grade. Twelve coppers a load, five days of that in a week, and five weeks of it from the first morning she said yes at the lip of that cut.
+Five loads on a day when the block was running and the ice was off the grade, six on a good one, and that was all of it. Twelve coppers a load, six days of that in a week, and five weeks of it from the first morning she said yes at the lip of that cut.
 
 That is what she worked it with, and it worked, in the way that working it does.
 
@@ -98,7 +98,7 @@ She felt it, on the bench, about four seconds after it went down, and there was 
 
 It was like putting a heavy stone down.
 
-There had been a weight in her chest since the sixth day of a morning in the first month of the cold that she had not known was a weight until it stopped, and it was the weight of carrying a thing that had to be decided about every single day, and it had been deciding about it every day for six weeks, and now it was not going to be decided about any more.
+There had been a weight in her chest since a night eight days ago in the second month of the cold that she had not known was a weight until it stopped, and it was the weight of carrying a thing that had to be decided about every single day, and it had been deciding about it every day since, and now it was not going to be decided about any more.
 
 It was gone and it was eight and it was hers, and there was no notice period on it and no hour set by an office above the county and no sound in nine counties.
 
@@ -112,7 +112,7 @@ And there was a hole in a column four counties wide.
 
 “You have never not asked.”
 
-“You had a week to say one word,” said Ning Yan, “and you said one word, and it was the right one, and I have been working on the same thing for six weeks and you were not in the room.”
+“You had a week to say one word,” said Ning Yan, “and you said one word, and it was the right one, and I have been working on the same thing since a night eight days ago and you were not in the room.”
 
 “I was in the room.”
 

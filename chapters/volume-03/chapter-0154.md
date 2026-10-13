@@ -1,6 +1,6 @@
 # The Signing Hand
 
-Six days in at the quarry the ice found the place where the water ran off the cut and put it across the grade, and the grade is where the sledges go, and on the seventh day the sledge with no wheel on the near side came down eleven loads of core-stone on a sheet of ice about a foot wide.
+Six days in at the quarry the ice found the place where the water ran off the cut and put it across the grade, and the grade is where the sledges go, and on the seventh day the sledge with no wheel on the near side came down three loads of core-stone on a sheet of ice about a foot wide.
 
 The first one went through.
 
@@ -52,7 +52,11 @@ She was paid at twelve for five weeks.
 
 What would have saved her nine seconds was a thing she had built out of five weeks on an escort road in the summer, when a train on it taught her the point at which a wheel begins to lean a quarter of a mile out.
 
-It was gone. She had spent it in the summer at the fourth bridge, out of her own foundation, told before it was spent, and it was not the knowledge that had gone. It was the order. She still knew what a leaning sledge looks like and she had known where it was going the moment the near runner lifted, six days ago, in the summer of her own body, and she was six days into the ice and had nothing at all to say between the two.
+It was gone. She had spent it in the summer at the fourth bridge, out of her own foundation, told before it was spent, and what had gone was not the knowledge.
+
+It was the order.
+
+She still knew what a leaning sledge looks like. She knew where the third one was going in the half-second before the ice took it, in the ordinary way a woman who has carried stone for a year knows things, and there was nothing at all to be said between a thing she knew and a thing that could have told her sooner.
 
 She turned the second one with a bar and her left hand was not on the bar.
 
@@ -126,4 +130,4 @@ Nobody in nine counties was going to ask her to have it done properly.
 
 He did not answer that.
 
-He had been watching a right arm go for nine days and a left hand come off at the wrist and he had said four words about it in total, all of them about the schedule, and he was not going to say the other thing either, because the other thing was that he had been in her head since the first year and had been worth four and a half weeks and one sequence and had not been worth this.
+He had been watching a right arm go for nine days and a left hand come off at the heel and he had said four words about it in total, all of them about the schedule, and he was not going to say the other thing either, because the other thing was that he had been in her head since the first year and had been worth four and a half weeks and one sequence and had not been worth this.
