@@ -1,12 +1,12 @@
 # Open Threads
 
-**Volume 1 is closed. Volume 2 is closed and audited (ch 59–118). VOLUME 3 IS CLOSED (ch 119–178): all four
-batches written, and the Volume 3 close audit is open.** Live threads below carry into **Volume 4,
-*The Wall*, ch 179–238**.
-**Volume 3 Batch 0004 closed at 30,508 words over fifteen chapters, average ~2,034.** The Volume 3 facts
-and a fresh Volume 3 running ledger **at end of ch 178** are in `state/continuity.md`. Volume 4's batch
-cards are not written; the Volume 4 shape is fixed by `outline/volume-03.md` *New question for Volume 4* and
-`outline/series.md` §9.
+**Volume 1 is closed. Volume 2 is closed and audited (ch 59–118). VOLUME 3 IS CLOSED AND AUDITED (ch 119–178):
+all four batches written and the close audit run. The full audit table is in `state/current.md` under
+`## Volume 3 close audit — CLOSED`.** Live threads below carry into **Volume 4, *The Wall*, ch 179–238**.
+**Volume 3 closed at 135,014 words over sixty chapters** (Batch 0003 30,958 · Batch 0004 30,505, after the
+audit's six word-level repairs). The Volume 3 facts and a fresh Volume 3 running ledger **at end of ch 178**
+are in `state/continuity.md`. Volume 4's outline is **not yet written**; the next phase writes it, on the
+shape fixed by `outline/volume-03.md` *New question for Volume 4* and `outline/series.md` §9.
 
 **The clock:** day 0 = the last day of the thaw. Ch 132 = day 39 · ch 148 = about day 130 · ch 163 = about
 day 184 · **ch 178 = day 219**, the first week of the deep cold. The season's road **shut on day 117** and
@@ -171,3 +171,40 @@ Every one of these is on the page and none of it may be re-run.**
   and ch 161. At the reading, Sun He rules the gaps and stops, as he has ruled them three times already.
 - **Do not meet Hou Sanliang and do not answer the dated entry.** A date against a claim is a schedule,
   and Batch 0004's job is the reading and the referral, not the claim.
+
+## Do not do these — the Volume 3 close audit additions (all held; the volume is closed and audited)
+
+These come out of the audit itself and bind **Volume 4** first.
+
+- **Do not use the phrase "eleven weeks" again.** It is retired. It carried four different meanings across
+  fourteen chapters of Volume 3 and was arithmetically wrong against the day table in most of them. **If a
+  Volume 4 chapter needs the Hunter's span in this county, re-derive it from day 2 (his arrival, ch 119) to
+  the day in question. If it needs the winter, the winter ends at about day 261** (ch 163, day 184 plus
+  eleven weeks; ch 178, day 219 plus six weeks).
+- **Do not let "about four seconds" become a metronome.** Thirty-six uses across twenty-six chapters of
+  Volume 3. It is a rhythm and not a rule, and Volume 3 never restates the four seconds or the release rule
+  from ch 53–54 — **Volume 4 must not either**. If a pause needs a number, use a different number.
+- **Do not put the claim's counting room outside this county.** Hou Sanliang's counting room is **in
+  Lowwater**, and it is where the dated entry was made (ch 155). Two Volume 3 chapters wrongly called it
+  *nine counties away*; both were repaired at the audit.
+- **Do not let the footprint of four counties and the footprint of nine counties blur.** **Nine counties**
+  hears the announcements and reads the relicensed licence in order. **Four counties** is the claim's
+  footprint (entered in four counties against the Chosen One) and the furnace schedule's, and the Bureau's
+  quarterly bundles come out of four counties. Six Volume 3 chapters had the stage column in four counties;
+  all six were repaired at the audit. **The distinction is deliberate.**
+- **Do not soften the referral, and do not answer the empty space.** It is gone up the stair past every
+  office she has ever stood in front of, and the district has answered *referred upward, answer pending*.
+  **Volume 4 opens on that answer space.** Do not fill it in the first batch.
+- **Do not describe the Wall, cross it, name it, or put geography past a marker post on the page.** In
+  Volume 3 it exists only as **a writ this county does not hold**, said once, in Bai Zhu's mouth at ch 174.
+  Nothing else about it was spent.
+- **Do not name the office above this county.** Yuan has now said four times, in front of her and on the
+  page at ch 178, that he cannot read it and is not going to say it a fifth time to be different about it.
+- **Do not retire the non-forgiveness early.** It runs from ch 100 into the opening of Volume 4. She has not
+  forgiven him for the price of the ch 149 reading and does not thank him for it, both said once, in that
+  order, at ch 150, and restated at ch 157, ch 163 and ch 176.
+- **Do not meet Hou Sanliang, answer the dated entry, or resolve the claim inside Volume 4's first batch.**
+  The ch 150 handover would have answered it in full and she refused it in a room with two witnesses, and
+  nothing in 151–178 softened that.
+- **Do not re-list the seven relicensing conditions, re-run the suppression arithmetic, or explain the
+  signed-shift roster rule.** All spent; all audited once more at the Volume 3 close.

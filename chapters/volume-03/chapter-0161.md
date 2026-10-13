@@ -120,7 +120,7 @@ In a book on a shelf in an office above this county there was a certified copy o
 
 Both books said the same thing. Both books said: the column stops at seven.
 
-One of them said *she did not do it* and one of them said *there is nothing there to do*, and both of those were true, and about four hundred people in four counties who had heard her body get to six and get to seven had never heard either sentence.
+One of them said *she did not do it* and one of them said *there is nothing there to do*, and both of those were true, and about four hundred people in nine counties who had heard her body get to six and get to seven had never heard either sentence.
 
 She had lived for a year inside the gap between those two sentences and had never had to.
 

@@ -102,7 +102,7 @@ There had been a weight in her chest since a night eight days ago in the second 
 
 It was gone and it was eight and it was hers, and there was no notice period on it and no hour set by an office above the county and no sound in nine counties.
 
-And there was a hole in a column four counties wide.
+And there was a hole in a column nine counties wide.
 
 ## What She Said About It
 

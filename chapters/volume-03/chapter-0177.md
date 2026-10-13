@@ -30,7 +30,7 @@ She turned the sheet over and looked at the last line.
 
 **The eight hundred jin.**
 
-The claim. Seventh. Last thing on the paper. Travelling with the document, and unanswered, and going up every quarter with a schedule, and sitting nine counties away in a counting room she had never been in against a date entered by somebody who was not the man who counted.
+The claim. Seventh. Last thing on the paper. Travelling with the document, and unanswered, and going up every quarter with a schedule, and sitting in a counting room she had never been in against a date entered by somebody who was not the man who counted.
 
 She looked at it for a long time.
 

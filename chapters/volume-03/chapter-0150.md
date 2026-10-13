@@ -140,7 +140,7 @@ She read it four times.
 
 She put her hand flat on the wood.
 
-Nine counties. The third hour of a morning in the spring, and the fourth hour of a morning at the end of a season, and about four hundred people in four counties who had heard a woman's body get to six and get to seven.
+Nine counties. The third hour of a morning in the spring, and the fourth hour of a morning at the end of a season, and about four hundred people in nine counties who had heard a woman's body get to six and get to seven.
 
 There was a girl in a wash house who had heard it and told three washerwomen in advance. There was a keeper on a fourth stair who had written one of them down in a fair hand at the back of a fair volume. There was a man over a tanner's door who had stood at a public counter and said out loud that the next stage had to go into that column.
 

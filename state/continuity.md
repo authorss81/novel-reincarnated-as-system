@@ -1196,7 +1196,54 @@ manuscript did not carry. Both were repaired in the chapters; the full table is 
   is exact against day 133 → 212.**
 
 **Counts after this repair:** Batch 0001 **36,809** · Batch 0002 **36,742** · Batch 0003 **30,961** ·
-Batch 0004 **30,508** · **Volume 3 file set 135,020.**
+Batch 0004 **30,508** · **Volume 3 file set 135,020.** *(Superseded by the close audit below: 135,014.)*
+
+### Volume 3 close audit — corrections to this file (VOLUME 3 CLOSED AND AUDITED)
+
+`outline/volume-03.md` has been walked line by line against ch 119–178. **The full table, all thirteen audit
+items, every repair and every finding is in `state/current.md` under `## Volume 3 close audit — CLOSED`.**
+What follows is only what a cold reader of this file needs, and it corrects three claims above that the
+audit found to be inaccurate.
+
+- **Word counts.** Batch 0003 **30,958**, Batch 0004 **30,505**, **Volume 3 file set 135,014** after **nine
+  word-level repairs in seven chapters** (ch 150, 153, 160, 161, 163, 176, 177). Six words left the
+  manuscript and nothing else did. The four-county / nine-county footprint rule is now in
+  `state/open-threads.md`.
+- **Chapter length, corrected.** The Batch 0004 record said *every chapter inside the 1,800–2,700 guide and
+  none under the floor*. **That is wrong.** **Ch 138 is 1,779 and ch 151 is 1,653**, both below the guide;
+  **nine chapters are above it** (126, 127, 129, 130, 131, 132, 135, 140, 150), longest **ch 140 at 3,193**.
+  **Nothing is under the 1,300 floor** and nothing is padded or truncated. Volume average ~2,250. Longest
+  paragraph in the volume is 90 words.
+- **"Eleven weeks" — the state record was wrong, and the number is now retired.** The Batch 0004 record said
+  the phrase *now stands at ch 150, 162, 163 and 174 only*. **It stands in fourteen chapters, twenty-eight
+  uses**: 122, 125, 128, 131, 132, 148, 150, 151, 152, 162, 163, 173, 174, 178. It carries at least five
+  different senses — the Hunter's span in this county, weeks of the lane, weeks of savings, weeks of winter
+  remaining, and a forward projection. **The fix pass did what it said:** ch 153 and ch 161 no longer carry it
+  at all, and ch 173 is down from four uses to three. **The one instance that contradicted the volume's
+  final image — ch 176, *about eleven weeks of winter left in it*, against ch 178's *about six weeks of winter
+  still to come in it* — was repaired at the audit to *about seven weeks*, which is correct for its day.**
+  Everything else is **left standing by explicit instruction and carried out of the volume as a retired
+  figure. NO NEW USE OF "ELEVEN WEEKS" IN VOLUME 4. If a Volume 4 chapter needs the Hunter's span, re-derive
+  it from day 2 — his arrival, ch 119 — to the day in question; and if it needs the winter, the winter ends
+  at about day 261 (ch 163 day 184 + eleven weeks; ch 178 day 219 + six weeks).**
+- **"About four seconds" — the state record was wrong.** The Batch 0004 record said *one use at ch 171 plus
+  the one-word beat*. **It is thirty-six uses across twenty-six chapters**, maximum three in any one chapter
+  (135, 148, 162), never twice in a row. **This is a rhythm, not a rule** — none of the thirty-six is a
+  re-explanation of the four seconds and the release rule from ch 53–54, which are not restated anywhere in
+  Volume 3. **Recorded, not repaired**, and Volume 4 should not let it become a metronome: if a pause needs a
+  number, use a different number.
+- **Construction-budget sweeps, corrected.** *Nobody was thanked*: **zero**; the one allowed instance is
+  **"Nobody thanked her"** at ch 172, past tense. *Nobody knew*: **zero** — the Batch 0004 claim of one at
+  ch 164 is wrong, the actual line is *he was not thanked*. *Nobody said anything*: **nine uses across eight
+  chapters** (125, 131 ×2, 134, 154, 159, 162, 172, 174), one per seven and a half chapters, at the top of
+  the acceptable range and not a breach. *The name in the wrong order*: **five uses across four chapters**
+  (120 ×2, 129, 158, 162), every one of them used and none taught.
+- **Du Hong's name is used four times in Volume 3** (ch 119, 125, 138, 160), all of them as remembered weight
+  inside a live scene. Cao Lei and Xu An are never named in Volume 3. **The burial line is not reopened**: no
+  cause is re-argued, nothing is buried again, and no dead name goes into a document. **Not repaired**; see
+  `state/current.md`.
+- **Standing and untouched:** ch 131 still reads **"She was twenty."** It is the only surviving item on the
+  closed-chapter list and this phase did not open ch 131 to fix it.
 
 ### Carried forward, unchanged, into Volume 4
 

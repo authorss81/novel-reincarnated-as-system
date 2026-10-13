@@ -1,6 +1,6 @@
 # Current State
 
-**As of:** Volume 3 Batch 0004 (ch 164–178) written. **VOLUME 1 CLOSED. VOLUME 2 CLOSED AND AUDITED. VOLUME 3 CLOSED — CH 1–178 ON THE PAGE — AND THE CLOSE AUDIT IS OPEN.**
+**As of:** Volume 3 close audit run and closed. **VOLUME 1 CLOSED. VOLUME 2 CLOSED AND AUDITED. VOLUME 3 CLOSED AND AUDITED — CH 1–178 ON THE PAGE.**
 
 ## How to read this file
 
@@ -18,14 +18,21 @@ This file is **append-only and long, and most of it is history.** You do not nee
 - **This file is never pruned by a writing phase.** If a section is wrong, correct it in place and say
   so in the phase's repair note rather than deleting the record.
 
-- **Volume:** 3 of 16 — The Hunter (ch 119–178) — outlined in `outline/volume-03.md`, and **ALL FOUR BATCHES WRITTEN**: Batch 0001 (ch 119–132), 36,809 words over fourteen chapters; Batch 0002 (ch 133–148), 36,742 words over sixteen chapters; Batch 0003 (ch 149–163), 30,961 words over fifteen chapters; **Batch 0004 (ch 164–178), 30,508 words over fifteen chapters. Volume 3 file set: 135,020 words.** All figures are post-fix.
-- **Chapter written:** **1–178. THE NOVEL RUNS TO CHAPTER 1000; VOLUME 3 IS COMPLETE.** Nothing of ch 179 onward is drafted.
-- **Next phase:** the **Volume 3 close audit**, at `workspace/volume-03-close/PROMPT.md`, on the shape of `workspace/volume-02-close/PROMPT.md`. Walk `outline/volume-03.md` line by line against ch 119–178, record every item as PASS or FAIL with a chapter reference, repair word-level faults in the chapters, and open the **Volume 4 hand-off** in the same file. After that, **Volume 4, *The Wall*, ch 179–238**.
-  The one-sentence volume goal was fixed by `outline/series.md` §9 and has been paid: *In this volume, Ning Yan must survive being hunted as an unauthorised System, or Yuan is dismantled and she is told she imagined him.* She is still alive, still licensed, and still has him.
+- **Volume:** 3 of 16 — The Hunter (ch 119–178) — outlined in `outline/volume-03.md`, **ALL FOUR BATCHES WRITTEN AND THE VOLUME AUDITED**: Batch 0001 (ch 119–132), 36,809 words over fourteen chapters; Batch 0002 (ch 133–148), 36,742 words over sixteen chapters; Batch 0003 (ch 149–163), 30,958 words over fifteen chapters; Batch 0004 (ch 164–178), 30,505 words over fifteen chapters. **Volume 3 file set: 135,014 words.** All figures are post-audit-repair.
+- **Chapter written:** **1–178. THE NOVEL RUNS TO CHAPTER 1000; VOLUME 3 IS COMPLETE AND AUDITED.** Nothing of ch 179 onward is drafted.
+- **Next phase:** the **Volume 3 close record** at `workspace/volume-03-close-record/PROMPT.md`, on the shape of `workspace/volume-02-close-record/PROMPT.md`. It writes the **final resolution of Volume 3 into the state files**, then writes **`outline/volume-04.md`** — *The Wall*, ch 179–238, goal fixed by `outline/series.md` §9: *In this volume, Ning Yan must break the boundary, or neither of them ever learns what they are.* — and creates exactly one Volume 4 planning prompt. After that, **Volume 4 opens on the empty answer space on a shelf by a door.** The one-sentence volume goal was paid and is recorded as PASS at the first row of the audit table below: *Ning Yan must survive being hunted as an unauthorised System, or Yuan is dismantled and she is told she imagined him.* She is still alive, still licensed, still hunted in writing, and still has him — with about ten days left.
 - **Point of view:** close third on Ning Yan; every line Yuan speaks is written in the present tense.
 - **In-world date:** **day 219** of Volume 3's own clock — the first week of the deep cold, the third month of it. **Day 0 is the last day of the thaw** (canon change 30). **Month-day = day − 133** on a thirty-day month (ch 150 puts day 136 at the third of the month): the third monthly attendance was day 209, **the sixteenth**; the winter return was read at the second hour on day 212, **the nineteenth**; the petition was filed day 213, the twentieth. **The season's road shut on day 117** and has not opened.
 
-## Who is where at end of chapter 178 — VOLUME 3 CLOSED (cold reader starts here)
+**What the close audit confirmed, in one place.** `outline/volume-03.md` has been walked line by line against
+ch 119–178 and **all thirteen named items PASS**; **nine faults in the chapters were found and all nine
+repaired**, six further findings are recorded with a reason, and four inaccurate claims in the state files
+were corrected; **the eleven items that had to be preserved after the volume are all eleven confirmed**,
+including that **Bai Zhu is named at ch 150 and on no document he signs**; **the final chapter image is
+confirmed element by element at ch 178 and nothing follows it**; and the next phase is the **Volume 3 close
+record**. Full table at `## Volume 3 close audit — CLOSED` below.
+
+## Who is where at end of chapter 178 — VOLUME 3 CLOSED AND AUDITED (cold reader starts here)
 
 - **Ning Yan** — **CONDENSING 9. Announced at her own order on day 198, in the open, at the cold end, in
   front of nine men.** Ceiling 9, relicensed ch 132, **seven conditions on the back, referenced and never
@@ -95,8 +102,8 @@ This file is **append-only and long, and most of it is history.** You do not nee
 
 ## What Volume 3 must not do (cold reader reads this second)
 
-Written after batch 0009 closed Volume 2; re-checked after Batches 0001, 0002, 0003 and now after the
-volume closed. **Everything here is now history that Volume 4 must respect.**
+Written after batch 0009 closed Volume 2; re-checked after Batches 0001, 0002 and 0003, and again at the
+**Volume 3 close audit**, whose full table is below this block. **Everything here is now history that Volume 4 must respect.**
 
 **Do not reopen the Watch, the burial line, the county debt line or the no-surety request.** All four are
 lodged, stamped and closed on the page.
@@ -135,9 +142,12 @@ request** and **not dismissed**. **Do not offer him a second appointment or a se
 ch 140, and rescued nobody.** The lip at ch 165 was the batch's one piece of physical risk and nobody was
 hurt.
 
-**Do not record a chapter-length trade-off.** Guide 1,800–2,700; floor 1,300. **Volume 3 Batch 0004 closed at
-30,508 words over fifteen chapters, ~2,034 average, every chapter inside the guide and none under the floor**,
-longest 2,234 (ch 178) and shortest 1,812 (ch 169). Counts are body prose only, `##` headings removed.
+**Do not record a chapter-length trade-off.** Guide 1,800–2,700; floor 1,300. **Volume 3 closed at 135,014
+words over sixty chapters, ~2,250 average. Nothing is under the 1,300 floor.** Nine chapters sit above the
+2,700 guide (ch 126, 127, 129, 130, 131, 132, 135, 140, 150 — longest **ch 140 at 3,193**) and two sit below the
+1,800 guide (**ch 138 at 1,779 and ch 151 at 1,653**). Counts are body prose only, `##` headings removed.
+**The Batch 0004 record's claim that every chapter was inside the guide was inaccurate and is corrected here
+and in `state/continuity.md`. The guide is a guide; nothing in the volume is padded and nothing is truncated.**
 
 **No bare Settlement fraction went on the page in Volume 3.** Channel was named twice in Batch 0003 (about
 ten and the price at ch 149, leaving about five and a half; about three at ch 160 with the thirty-six days of
@@ -270,48 +280,215 @@ closed. One is the controller's to close, not an agent's.** No chapter was resta
 | R3 | **“Eleven weeks” was a volume-wide tic being locked in rather than fixed** — 17 chapters carried it, four uses each at ch 152, ch 163 and ch 173, and at ch 153 (day 147) and ch 161 (day 178) it stood as elapsed-so-far, which the day table does not support. | **Three chapters traded for relative counts.** ch 153 → **in all the weeks of this cold**, twice, keeping his exact echo of her sentence; ch 161 → **at a counter in this room since the thaw** and **had bought one thing off a county and nothing since**; ch 173's *I have not asked you one question in eleven weeks*, thirty lines from a near-identical *I have asked you nothing in eleven weeks*, → **at any counter in this county**. Ch 173 goes four to three and the doubled construction is gone. **Left on purpose:** ch 163, where the figure is the *subject* of the chapter's accounting and not a tic; ch 152, where the figure is the lane's life; ch 174's *learned eleven weeks earlier*, which is exact against day 133 → 212; ch 178's *Not eleven weeks of winter*, the volume's last negation of the figure. | No. |
 | R4 | Minor: **ch 177 carries no quoted dialogue at all** — the only such chapter in the batch. | **Considered and deliberately not changed.** It is one woman alone in a wash house with a licence, then alone with a hammer, and every beat is an action or a decision; dialogue would have meant inventing a second party and weakening the practice the chapter is built on. Recorded so the close audit does not open it as a fault. | No. |
 
-**Verified after this pass:** ch 119–178 names **zero** weekdays; *eleven weeks* now stands in **fifteen**
-chapters instead of seventeen, and not one of the three this pass opened still carries it; longest
-paragraph in Volume 3 is **90 words** and nothing is over it; every edited file has balanced speech; no
-blockquote, code fence, table or rule was introduced; every chapter is inside the 1,800–2,700 guide and
-above the 1,300 floor; **Volume 3 file set 135,020 words**, Batch 0001 **36,809**, Batch 0002 **36,742**,
-Batch 0003 **30,961**, Batch 0004 **30,508**, and the same figures are restated in `state/book-metadata.md`,
+**Verified after this pass** — *as it stood at the end of the Batch 0004 fix pass; the close audit below
+corrects two of these claims and restates the word counts.* ch 119–178 names **zero** weekdays; *eleven
+weeks* stood in **fifteen** chapters instead of seventeen, and not one of the three this pass opened still
+carried it — **the close audit's full sweep finds it in fourteen chapters and carries it out as a retired
+number**; longest paragraph in Volume 3 is **90 words** and nothing is over it; every edited file has balanced
+speech; no blockquote, code fence, table or rule was introduced; every chapter is inside the 1,800–2,700 guide
+and above the 1,300 floor — **the close audit finds this wrong: ch 138 and ch 151 are below the guide and nine
+chapters are above it**; **Volume 3 file set 135,020 words** at this date, Batch 0001 **36,809**, Batch 0002
+**36,742**, Batch 0003 **30,961**, Batch 0004 **30,508** — **now 135,014 / 30,958 / 30,505 after the audit's six
+repairs** — and the same figures are restated in `state/book-metadata.md`,
 `state/continuity.md`, `state/open-threads.md` and `workspace/volume-03-batch-0004/SUMMARY.md`.
 
 ---
 
-## Volume 3 close audit — OPENED
+## Volume 3 close audit — CLOSED
 
-`outline/volume-03.md` has **not yet been walked line by line against ch 119–178.** The audit is open and
-belongs to the next phase, at `workspace/volume-03-close/PROMPT.md`, **on the shape of the Volume 2 close
-audit recorded below.** When it closes it must record, at minimum:
+`outline/volume-03.md` has been walked line by line against ch 119–178. **Every named item is recorded below
+with a chapter reference. All thirteen PASS.** The audit found **nine faults in the chapters and repaired all
+nine**, word-level or single-number, in seven chapters; **six more are recorded as findings with a reason**,
+one of them the ch 131 item standing by a prior decision and not this phase's to open; and **four were faults
+in the state files themselves**, which are corrected here and in `state/continuity.md`, `state/open-threads.md`,
+`state/chapter-summaries.md` and `state/book-metadata.md`. No batch was replaced, no card beat moved, the
+single bracket stayed at ch 171, the irreversible step stayed at ch 150, and every ending stayed where it was.
 
-1. The one-sentence goal from `outline/series.md` §9 — *Ning Yan must survive being hunted as an
-   unauthorised System, or Yuan is dismantled and she is told she imagined him* — and **whether she
-   survived it.**
-2. The **relicensing**, leg by leg and in the inverted order the outline forbids tidying back:
-   clearance (130) → three sponsors' seal (131) → Sun He's countersignature (132), and all five costs.
-3. The **four stages** — 5→6 (135), 6→7 (148), **7→8 suppressed (160)**, **8→9 announced (171)** — with
-   real months, no tribulation, and the bracketed-line count.
-4. **Yuan's track**: Voice to 149, Ledger taken once at 149 and refused, the standing changing hands at 150
-   and used at 178 without being used, Merit once at 140, and the **Settlement clock reconciled from ~6
-   (118) to about ten days (178)**.
-5. **The Hunter's schedule**, week by week, against *The Hunter's schedule* in the outline, including that
-   he is right about the hole at ch 126 and **right about it again at 174**, and that what he never does he
-   never does.
-6. The **audit and the Lung**, and what they cost Feng, and that he is alive at the end of the volume.
-7. **The milestone at ch 149–150**: hunting rather than handed over, and that nothing after it re-opens it.
-8. **The volume climax, ch 169–175**, and the referral as its subject being the woman standing in the room.
-9. **The concrete resolution list, item by item**, against ch 176–178.
-10. **The eleven items that must be preserved after the volume**, all eleven confirmed.
-11. **The final chapter image, element by element**, and that nothing follows it.
-12. **Hard rules**: close third, present tense for Yuan only, brackets, markdown, closed speeches,
-    paragraph lengths, chapter lengths, and the whole construction budget.
-13. **The Volume 4 hand-off**, which must state that **a Warden's office outside the bound now holds her
-    name, her stages and her hours in order, certified by her own county — and that the dismantling it has
-    ordered can only be executed, and the Foundation relicensing she has petitioned can only be
-    countersigned, past a boundary no county paper crosses.**
+**Counts after repair: Batch 0001 36,809 · Batch 0002 36,742 · Batch 0003 30,958 · Batch 0004 30,505 ·
+Volume 3 file set 135,014.** The pre-audit figure was 135,020; the nine repairs removed six words and added none.
 
+### The audit table
+
+| # | Item from `outline/volume-03.md` | Verdict | Where |
+| --- | --- | --- | --- |
+| 1 | **The one-sentence goal** (`series.md` §9) — *Ning Yan must survive being hunted as an unauthorised System, or Yuan is dismantled and she is told she imagined him* | **PASS** | She is alive at ch 178, licensed, relicensed to Condensing 9, and **Yuan is still in her head**: ch 178 asks how much is there and is told *about ten days*. **Both halves of the sentence are still live and the volume says so.** The half that was hunted is live as a **referral gone up the stair past every office she has ever stood in front of** (ch 174, restated ch 178 § *What Was Going Up*). The half that was dismantled is live as **about ten days of channel against about six weeks of winter still to come in it** (ch 178 § *How Much Was Left*), with the Foundation petition barred and not withdrawable (ch 175). Nothing in the volume pretends either half is settled. |
+| 2a | **The relicensing, leg by leg, in the order the outline forbids tidying back** — clearance (130) → three sponsors' seal (131, all three on one sheet) → Sun He's countersignature (132) | **PASS** | ch 130 *Level With the Asked* (Shen Xiu's second clearance, asked figure fifty-eight in her own hand); ch 131 *Nine in Her Own Hand* (Deng Chao reads, Lu Kang and Pei An mark, **all three on the thirty-fifth day, in the corridor at the west end** — ch 132 line 43 reads the seal back as *all three, on one sheet*); ch 132 *Relicensed* (Sun He). **The inversion against Volume 2 survives**: Volume 2 ran seal → clearance → countersignature and this volume runs the other way, deliberately. **The motive is on the page**: ch 128 line 99 and 125 (the exchange in the corridor), ch 130 line 211 (*three men who could not account for a member in a book were carrying a liability and had spent two volumes refusing to create one*), ch 131 line 169 (*the cheapest thing available to them this year is a member they can account for, and that is not a kindness*). **The ch 126 purchase stays in causation**: ch 126 ends with the two true things said in a registrar's room reaching three men four miles up a mountain, which is what makes the relicensing happen at all. |
+| 2b | **All five costs, each one on a page** | **PASS** | (1) *A new ceiling in her own hand at nine, defect re-entered, Foundation barred again* — ch 131 § *The Sheet*, the line **it restores nothing** written by her. (2) *The claim re-entered on the new licence as the last condition* — ch 132 line 87, read aloud by Sun He as the seventh and last. (3) *Seven conditions* — ch 132; referenced at ch 151, 163, 173, 175, 177 and **re-listed nowhere after 132**. (4) *The nine-household knowledge surrendered for the whole volume* — ch 128 line 99 (*nothing about the second book is lodged, copied, spoken or written, anywhere, by any of us, ever*); ch 131 line 177 shows the silence being kept at the moment of the seal; **swept: the nine struck households, the eleven-year spacing, the fourth line citing the maintaining members' ledger and the roundhouse hand appear nowhere in ch 132–178.** (5) *Both schedules at once for a season with no surety, every county hour in person in her own hand, a missed hour a gap that breaks the filing* — ch 129 line 179 (the crate, the whole length, no gap), ch 133 § *The Two Clocks*, ch 147 *The Last Load* (asked and worked level at the close). |
+| 3a | **Four stages**: 5→6 (ch 135), 6→7 (ch 148), **7→8 suppressed (ch 160)**, **8→9 announced (ch 171, witnessed by nine men)** | **PASS** | Brackets read out and verified: **ch 135** (*stage six*), **ch 140** (the listed kill), **ch 148** (*stage seven*), **ch 171** (*stage nine*). **Four bracketed layer lines in sixty chapters.** Ch 140's is the Merit bracket, not a stage bracket — the kill buys sequence and the man falls inside the bound, which is why the layer speaks. **ch 160 carries none, by rule**, and the batch check confirms zero brackets in 149–163. **ch 171 carries exactly one**, fresh four-clause, and is witnessed by nine men on a furnace floor. |
+| 3b | **Real months, real recovery, no skipped breakthrough, no tribulation** | **PASS** | ch 133–135 carry six weeks; 135→148 five weeks of escort-road work; 152→160 five weeks of quarry carrying; 164→171 five weeks at the cold end. **The volume runs day 2 to day 219** — the first week of summer to the first week of the deep cold. `tribulation`: **zero occurrences in ch 119–178.** No stage is drawn out of weather or skipped. |
+| 4a | **Voice until ch 149** | **PASS** | He is Voice for ch 119–148. The only instrument above Voice named in the volume is Ledger, and he says so himself at ch 138 and ch 163. |
+| 4b | **Ledger taken once in Volume 3, on her spoken word, in public, under a day, four and a half weeks named aloud before the word, put down the same day, refused permanently** | **PASS** | ch 149 *Carried Down the Stair*. Said on the copying floor at the ninth hour with Feng twenty feet below her writing her down; **the price is spoken three times before the word is said** (ch 149 lines 77 and 81, then the word at line 107); held **from the hundred and thirty-third day to the afternoon of the same day** (ch 149 line 151, *it ran for most of a day and then it stopped*); **refused for good at line 159** (*there is going to be no version of this where you get it back by asking me properly later*). **What it buys** is on the page and limited: the room, the board of dates, **the eight remaining proofs in order**, the return already sent upward with her hours in it, and the four sheets verified true line by line. **What it does not buy is on the page too**: the office name, the eleven, the design — all three refused in the same breath, ch 149 line 147. |
+| 4c | **From ch 150 the standing is hers to order and his to hold only on her word; at ch 178 she has it to order and does not order it** | **PASS** | Stated once on the page at ch 160 (*this time it is not me deciding that I will not. It is me not being allowed to*), and **used exactly once, at ch 178 § *What She Did Not Do*** — she has it and does not order it, and no price is named. |
+| 4d | **Merit once, at ch 140, told before it was spent** | **PASS** | ch 140: *I have to tell you what it costs before I spend it* (line 77), *about ten weeks out of about three* (line 99), *Say yes or say no. I am asking* / *Yes. Spend it. I say yes* (line 107), and line 229: *I have told you before I spent it, and you said yes.* **One kill in sixty chapters**; **Merit: none anywhere else.** The tax is paid in full and does not come back — the escort-road pace is gone. |
+| 4e | **The Settlement clock: ~6 (118) → ~3 (132) → ~10 (140) → ~5½ (149) → ~3 (160) → about ten days (178). Ten less four and a half is five and a half and must not be "corrected"** | **PASS** | ch 132 line 187 *About three weeks*; ch 140 lines 99 and 241 *About ten weeks*; ch 149 line 81 *It costs four and a half weeks out of about ten weeks of what I have… there will be about five and a half weeks left*; ch 150 line 213 *four and a half weeks less… and about five and a half weeks of him left*; ch 160 lines 129–133 *About three weeks* — *Four and a half of them went on that. There were five and a half on the afternoon you walked out of the county office, and thirty-six days of twice a day have come off them since*; ch 178 line 103 *About ten days*. **The arithmetic is stated on the page and has not been "corrected".** **No bare Settlement fraction appears anywhere in ch 119–178.** |
+| 5a | **Weeks 1–3 (ch 119–125): the first desk, twice a week, buying nothing** | **PASS** | ch 120 line 141 (four carriers in six weeks, *he still buys nothing and he still gives his name to nobody and he is still not from the Bureau, which is true*), ch 122 line 9, ch 123 line 47 (*day one: a man at the first desk bought nothing and asked a girl on the ninth line what a schedule is*). |
+| 5b | **Week 4 (ch 126): the purchase, and his being right about the hole** | **PASS** | ch 126 *The Certified Copy*. Coin on open wood, receipt kept and folded square against the counter, a queue behind him, daylight. **He is right:** *The next stage has to go into that column. Whatever it is, wherever it is taken, on whatever schedule, at whatever hour. It has to go into that column or it is not on the schedule, and the schedule is the thing the licence is hung on.* **And he is right twice more, in front of Sun He:** ch 153 and ch 161. |
+| 5c | **Weeks 5–10 (ch 127–148): a room under a clerk's misspelling, the lawful request, the Lung offered** | **PASS** | ch 127 *Under a Misspelling* (he gives a name a clerk would have made, doubled letter, out of a lane, off his own mouth). The lawful request is ch 136 *The Lawful Request*; the Lung is offered ch 141 *Oil for the Cough*. |
+| 5d | **Ch 149–150: the handover laid and waited on** | **PASS** | On the mat from day 129 unopened (ch 149, **four days**), and he gives her three days at ch 149 line 197, which is the wait. **He does not hurry the answer** and the paper is not withdrawn. |
+| 5e | **Weeks 13–end (ch 151–178): he examines her lawfully, attends both readings from the square, buys nothing else, writes everything down, and refers the matter upward instead of dismantling inside the bound** | **PASS** | ch 153 and ch 161 (attended, eight feet back, never in the queue, never a question), ch 173 (*the man who had bought one thing off this county in eleven weeks*), ch 174 (attends the winter return, certifies, refers upward). **One certified copy and a receipt in the whole volume**, restated by him himself at ch 174 line 101. |
+| 5f | **He is right about the hole a second time, at ch 174** | **PASS, with a note** | The second instance is carried on the record rather than spoken: **ch 174 line 55** — Sun He rules the three gaps as *not a breach* in front of the room, and the narration records that he has said it three times in nineteen months, **twice with a man in this room who had said the opposite thing at a public counter in the summer**, and that *no clerk could write down both of them being right*. The certification entered at the same table (line 93) stands the licence on the Hunter's reading of that column. **The narrator confirms he was right at ch 178 line 75: *he had been right about a hole in a column in the summer when nobody in nine counties had been able to contradict him.*** The reader is given the verdict, not a second sermon. |
+| 5g | **What he never does: lie, threaten, touch her, enter her rooms, pay for force, ask Feng for the word** | **PASS** | Listed in one line at ch 161 line 107 — *He had not threatened, had not lied, had not touched her, had not entered her rooms, had not paid a man, had not put a word in a keeper's ear.* Also: ch 126 line 183 (*None of it was a threat*), ch 140 line 51 (*a description and not a threat… I have not touched anybody and I do not intend to touch you*), ch 142 line 147 and ch 143 line 29 (Feng reads the Lung paper three times looking for the place where it lies and cannot find one). **The one time he is asked whether he is Bureau he says he is not, which is true** — ch 120 line 141 and ch 141 line 27. |
+| 6a | **Is a keeper obliged to answer truthfully, and does the answer carry the four walled copies and the struck one?** | **PASS** | ch 136 line 37, the terms of the request as read to Feng: *This is a lawful request. It is answered in writing. An answer that is not given is a refusal.* ch 137 *A Keeper Answers* — he answers it in one go, truthfully, and cannot answer it partly (*a partial answer to a request for the paper a stair carries is not a smaller truth. It is a bigger lie*, ch 136 line 115). **The answer carries the intake line at the ninth hour as a form and not as a change** (ch 137 line 87), **the four county copies walled behind the fifth item** (ch 137 line 55), **and the struck one** (ch 137 line 61: *Copy of the announcement struck under request from without the bound. Entered upward with the quarter. Entered here. Not entered in the column*), plus the ch 117 fair line (ch 138 line 27, *the fourth is a fair line at the back of a volume*). The county finds the concealment at ch 139 and enters it **without an inference** (ch 139 line 47). |
+| 6b | **What it cost Feng: a quarter off the stair, a clerk carrying upward, every hour true** | **PASS** | ch 139 line 169 (*it was not a punishment and it was not a dismissal*, *the district does not terminate an examination*, ch 139 line 177); ch 141 line 163; ch 143 lines 99–103 (*a quarter of a stair to make up and a bundle that goes up on a clerk's arm*); ch 149 lines 65–69. **The cost of the appointment** is stated at ch 139 line 201 and at ch 141 line 227: *every hour I put in a column is going to go up a stair in a hand that belongs to a Listener.* |
+| 6c | **Alive, warm, column at five, not dismissed at ch 178** | **PASS** | ch 176 line 73 (*a keeper who was sixty-two and warm and had asked her no questions since the autumn*) and ch 178 line 123 (*a keeper in a tower of sixty-two who is warm*). Column at five is on the page at ch 127 line 79, ch 136 line 209, ch 137 line 49 and ch 139 line 187, and is never contradicted. **Not dismissed**: ch 139 lines 169–177; **he has not asked her a question since ch 143**, and ch 170 line 131 is the one time he speaks to her in 164–178, about her column and not about her. **The second Lung is Volume 11 and is unspent.** |
+| 7a | **The milestone: hunting rather than handed over, with the handover verified true first** | **PASS** | ch 149 buys the verification (four sheets, line by line, *every line was true*). ch 150 opens the paper in front of two witnesses **in the room she chose, not his** (ch 150 § *The Room She Chose*), asks the two questions a competent person asks of a mercy (who pays — the Warden's own purse, to the creditor, in full, on the day; what happens to the thing in her head — it goes out on a date inside the winter, and *I do not know what happens to it, and neither does anyone in this room*), gets true answers, **refuses aloud, twice, and signs in her own hand**. |
+| 7b | **Nothing in 151–178 softens, defers, reopens or regrets the refusal, and no chapter lets her wonder what she would have done — and ch 174 actively checks it** | **PASS** | Swept for *regret / wish / if I had / had said yes / could take it back* across 151–178: **the only hit is ch 174 line 145** — *She did not wish she had said yes. She checked, standing there… and there was nothing in her about it, and she had been careful about that for three months and she was careful about it now.* The refusal is instead the **condition** of the volume: the monthly attendance is its price (ch 151), and the referral exists **because** of it (ch 174 § *The Subject*). |
+| 8a | **The climax, ch 169–175: the ninth announced at her order on the cold end; the winter return read in order; the two absences ruled and written down the way Sun He writes things down; the Hunter attending, buying nothing, certifying in a Warden's hand, referring the dismantling upward for want of a Wall writ** | **PASS** | ch 171 (the ninth hour, the cold end, nine men in the building, *she says the word in the open and does not hold it four days*). ch 174: read at the second hour on the nineteenth, **one. Two. Three.** / **Five. Six. Seven.** / **Nine**, three gaps ruled in the ordinary hand in the county's four-word formula, *Member present* at the foot, the ruling spoken once and **stopped**. The Hunter **buys nothing** (*one certified copy and a receipt off this counter in eleven weeks and bought nothing else*), reads the certification twice, and says the Wall writ **in his own mouth, once, plainly, with no description of anything**. **The request went up on the same crate.** |
+| 8b | **The subject of the referral standing in the room** | **PASS** | ch 174 § *The Subject*: *the thing that had just been referred upward out of the county had a subject, and the subject was in the room. It was in the room because of a piece of paper she had opened in a county office in the middle of the winter, in front of two witnesses…* |
+| 9 | **The concrete resolution list, item by item** | **PASS, all eleven findable** | Relicensed with ceiling nine in her own hand, seven conditions, claim last (ch 177 § *The Front*, ch 178 line 53) · Condensing 9 reached and announced, witnessed by the crew (ch 171) · Foundation petitioned and **barred, not refused**, not withdrawable (ch 175 § *It Cannot Be Taken Back*) · Hunted in writing, the county examining her **monthly** (ch 151, ch 174) · Claim standing, unanswered, travelling on the new licence, Hou unpaid and never met (ch 177 § *The Back*) · Du Hong and the two crew in the ground with causes entered (Volume 2; **see the note below on the name**) · Feng audited, Lung taken, stair carried by another hand for a quarter, every hour upward true, column at five, alive (ch 143, ch 176, ch 178) · **The two items on nobody's paper still on nobody's paper** — *kiln-born* in two heads (**`grep` returns the word zero times across ch 119–178**; Feng holds a struck shape and no word, ch 176 line 73 is the last time anyone looks at that tower's shelves), the office name unreadable (ch 178 line 89), nothing answered about the eleven (ch 149 line 143, three refusals in one breath) · Register still *reconciled*, plate still worn (ch 177 § *The Plate*) · Settlement past nine-tenths, about ten days, Ledger hers to order and unused (ch 178) · Non-forgiveness running into Volume 4 (ch 176 lines 143–145). |
+| 10 | **The eleven items that must be preserved after the volume** | **PASS, all eleven** | 1 Condensing 9 announced at her order, ceiling lifted 5→9 by relicensing on her own hand, Foundation petitioned and barred (135/148/160/171, 131–132, 175) · 2 the relicensed licence with all three legs, seven conditions and the claim last (130–132) · 3 claim standing, Hou unpaid and never met (177, 155) · 4 the three dead crew, causes entered (Volume 2; ch 119/125/138/160 remember, never re-argue) · 5 Feng's Lung taken, quarter off the stair, every hour upward true, column at five, alive (141/143) · 6 the two items on nobody's paper, nothing answered about the eleven (149, 178) · 7 register *reconciled* (177) · 8 plate worn (177) · 9 Ledger broken once on her public word, refused again the same day, then hers to order, about ten days left (149/150/178) · 10 the year of non-forgiveness running (130, 141, 143, 150, 157, 163, 176) · 11 **Bai Zhu first named at ch 150, on the entered refusal, and never before** — `grep` returns the name in exactly three chapters, 150, 173 and 174; at 150 a clerk asks him for the agent who laid the paper and he gives two syllables to a form; at 173 and 174 it is narration and speech-attribution, and **the referral and the certification both carry the office and not a person** (ch 174 line 117: *It carried no agent's name*; line 119: *He signed the covering line and the signature was the office's and not his*). |
+| 11 | **The final chapter image, element by element, and that nothing follows it** | **PASS, every element** | First week of the deep cold (ch 178 line 3) · the second licence **nailed straight** above the second bunk, two nails, head height (lines 47–63; *It was straight*) · ten sleepers in twelve bunks (lines 5, 7, 143) · the tower lamp burning, **carried this quarter by another man's hands** (lines 9, 143) · a referral gone up the stair past every office she has ever stood in front of (lines 77–81), to an office whose name he still cannot read (line 89) · **about ten days** (line 103) · **she does not tell him to stop** (line 145). **Nothing follows it — ch 178 is the last file in the volume and the last line is the last sentence.** |
+| 12a | **Hard rules: close third throughout** | **PASS** | Read across 164–178; every external scene is inside Ning Yan's head, including the four scenes that take place in rooms she is not in, which are rendered as what reaches her. |
+| 12b | **Every sentence Yuan speaks in the present tense; no other character ever in a marked present frame** | **PASS** | Swept every quoted line in ch 119–178 containing a past-tense marker. **Every one is a statement about a completed third-person event**, which is the standing exception set by ch 57 — *I took the left-hand order out of you in the thaw and it was gone whole* (140), *It was never in the room* (149), *I have told you before I spent it* (140). **No other character is in a marked present frame.** |
+| 12c | **At most one bracketed layer line per chapter** | **PASS** | **Four in sixty chapters** — 135, 140, 148, 171. One each. |
+| 12d | **Markdown plain: no blockquote, code block, table or horizontal rule** | **PASS** | Mechanically swept across all sixty files: **zero.** |
+| 12e | **Every speech closed** | **PASS** | `“` count equals `”` count in all sixty files. |
+| 12f | **Two to four sentences a paragraph, nothing over about 120 words** | **PASS** | Longest paragraph in the volume is **90 words** (ch 125, 130, 131, 135, 136, 167, 170). Nothing approaches 120. |
+| 12g | **1,800–2,700 guide, 1,300 floor** | **PASS on the floor; the guide is exceeded in both directions, which the rule permits — and the state claim about it was wrong** | **Nothing is under the 1,300 floor.** Nine chapters sit above the 2,700 guide (126, 127, 129, 130, 131, 132, 135, 140, 150; longest ch 140 at 3,193) and two sit below the 1,800 guide (**ch 138 at 1,779 and ch 151 at 1,653**). The guide is a guide. **The Batch 0004 record's claim that "every chapter inside the guide and none under the floor" was inaccurate and is corrected below.** |
+| 12h | **No harem; nothing in Volume 3 is a romance** | **PASS** | Zero. |
+| 12i | **Wei Ran absent** | **PASS** | `grep` returns **zero** in ch 119–178. |
+| 12j | **No weekday named anywhere in ch 119–178** | **PASS** | `grep` returns **zero**. The ten named uses at ch 123, 128 and 131 went out at the Batch 0004 fix pass and **have not come back**; ch 128's rule survives as *the day after the crate goes*, which ch 131 still pays off. |
+| 12k | **The mother is never named aloud by her; *the shape of a happy life* unspent; nothing told of what Yuan was before he died; nothing learned about the readout** | **PASS** | `grep` for *Ning Wu*, *mother*, *happy life*, *before he died*, *readout*, *Scribe*, *fragment*: **zero hits** in any form. |
+| 12l | **Nothing a romance, no new final enemy, no Wall described, no crossing, no geography past a marker post, no second outside-bound office** | **PASS** | Swept. The Wall is named only as **a writ this county does not hold** (ch 174), once, in the Hunter's mouth, with no description of anything on either side of it. |
+| 13 | **The Volume 4 hand-off** | **PASS — and it is on the page, not a plan** | See *The Volume 4 hand-off* below. |
+
+### Repairs made in the chapters during this audit
+
+**Nine word- or number-level repairs, in seven chapters.** **No batch was replaced, no card beat moved, the
+single bracket stayed at ch 171, the irreversible step stayed at ch 150, and every ending stayed where it
+was.** Six of the nine are the same single error in the same figure — the footprint of the **stage column and
+the announcements** is **nine counties** (ch 120, 132 line 217, 148, 171, 173, 178) and six chapters had it at
+**four**, which is the claim's and the furnace schedule's footprint and is correct *there*. Two are Hou's
+counting room being put nine counties away when it is **in Lowwater**, where she is standing.
+
+| # | Ch | Fault | Change |
+| --- | --- | --- | --- |
+| 1 | 150 | **"about four hundred people in four counties who had heard a woman's body get to six and get to seven"** — the sentence opens *Nine counties* and then puts the announcement in four | **nine counties.** Its echo at ch 161 repaired with it, so the two still echo exactly |
+| 2 | 153 | **"It had been dramatic in four counties."** The announcement, at four in the morning | **nine counties** |
+| 3 | 160 | **"And there was a hole in a column four counties wide."** The stage column, two lines under *no sound in nine counties* | **nine counties wide** |
+| 4 | 161 | **"about four hundred people in four counties who had heard her body get to six and get to seven"** — the echo of ch 150 line 143 | **nine counties** |
+| 5 | 163 | **"A hole in a stage column in four counties"** — against ch 132 line 217 (*readable in order by anybody in nine counties*) and ch 174, read aloud in a room | **nine counties** |
+| 6 | 163 | **"a date against it nine counties away in a counting room she had never been in"** — Hou Sanliang's counting room is **in Lowwater** (ch 135 line 57, ch 147 line 77, ch 155, ch 173 line 159) | **"in a counting room she had never been in"**, matching ch 173 |
+| 7 | 176 | **"a paper in four counties with three holes in it"** — the same footprint error, four days before ch 178's *nine counties that had it in order* | **a paper in nine counties** |
+| 8 | 176 | **"about eleven weeks of winter left in it"** — four days before ch 178, which says **about six weeks of winter still to come in it**. Both figures land on the same end of the winter (day 184 + 11 weeks = day 215 + 7 weeks = day 219 + 6 weeks), so ch 176 was the wrong one | **about seven weeks** |
+| 9 | 177 | **"sitting nine counties away in a counting room she had never been in"** — the same, at the last look she takes at the claim before the volume ends | **sitting in a counting room she had never been in** |
+
+**Six words left the manuscript and nothing else did.** The four-county figure survives where it belongs —
+the claim at ch 132 ×2, 140, 148 ×2; the furnace schedule at ch 148 and 159 (each of which pairs *nine
+counties* with *a furnace schedule in four counties* in the same sentence, on purpose); the Bureau's bundles
+at ch 138; the sponsors' book at ch 128. **That distinction is now written down as a rule in
+`state/open-threads.md` so it does not blur again.**
+
+**Verified after repair:** all sixty files have balanced speech; **zero** blockquotes, code fences, tables or
+rules; **zero** weekdays; **zero** banned reflexes (*his eyes widened*, *he couldn't believe it*, *suddenly*,
+*little did he know*); **zero** authorial scaffolding (*this chapter*, *this volume*, *the next chapter*, *in
+this batch*, *the whole series*, *the reader*); four bracketed lines, one each at 135, 140, 148, 171; longest
+paragraph 90 words; **Volume 3 file set 135,014 words** — Batch 0001 36,809 · Batch 0002 36,742 · Batch 0003
+30,958 · Batch 0004 30,505. All sixty titles unique against 1–178 and none restates weather, hour, date or age.
+
+### Findings recorded and NOT repaired, with the reason
+
+1. **Du Hong's name is used four times in Volume 3** — ch 119 line 77 (*Du Hong paid me in a coat he stole*),
+   ch 125 line 87, ch 138 line 89 (Feng's guilt over a false sheet), ch 160 line 19 (the suppression, *she
+   worked the same grief with which she had worked Du Hong*). The outline's resolution list says **their
+   names are not used again**; Cao Lei and Xu An are indeed never named in Volume 3, and Du Hong is used four
+   times, all of them as remembered weight inside a live scene. **The burial line is not reopened**: no
+   cause is re-argued, nothing is buried again, and no dead name goes into a document. **Not repaired, and
+   the reason is recorded: removing the name damages four good beats to satisfy a line whose operative
+   purpose — the burial line stays shut — is already satisfied.** Recorded here so it is not rediscovered as
+   an unknown fault.
+2. **"Eleven weeks" stands in fourteen chapters, twenty-eight uses, and carries at least five different
+   senses** — the Hunter's span in this county (ch 150, 162, 163, 173, 174), weeks of the lane (152), weeks
+   of savings (152), weeks of winter remaining (163), and a projection (151). **The state record was wrong
+   on this.** The Batch 0004 fix pass traded it out of ch 153 and ch 161 (confirmed: **neither chapter carries
+   it now**), reduced ch 173 from four uses to three, and left it deliberately at ch 150, 162, 163 and 174.
+   The audit's sweep found it in **fourteen** chapters, not four. **The one instance that contradicted the
+   final image — ch 176 — is repaired above.** The rest is **left standing by explicit instruction** and
+   **carried out of the volume as a retired number**: *no new use of "eleven weeks" is permitted in Volume 4,
+   and no elapsed figure may be built on it.* Where a Volume 4 chapter needs the Hunter's span, it is
+   re-derived from **day 2 (his arrival, ch 119) to the day in question**.
+3. **"About four seconds" is the volume's standard pause-length and appears thirty-six times across
+   twenty-six chapters**, with a maximum of three in any one chapter (135, 148, 162) and never twice in a row.
+   The Batch 0004 record claimed *one use at ch 171 plus the one-word beat*; that is **inaccurate** and is
+   corrected below. **This is not a rule violation**: the four seconds and the release rule were established
+   at ch 53–54 as his unit of speech, and none of these thirty-six is a re-explanation of that rule — they are
+   ordinary elapsed time, varied by the situation, and the *release rule itself* is never re-explained.
+   **Recorded, not repaired.** It is a rhythm, not a rule, and cutting thirty-six uses across a closed volume
+   would be a batch-level intervention this phase is not authorised to make.
+4. **Ch 177 carries no dialogue at all** — the only such chapter in the volume. Already adjudicated at the
+   Batch 0004 review (item R4) and deliberately unchanged: one woman alone in a wash house with a licence,
+   then alone with a hammer. **Confirmed here and not reopened.**
+5. **Ch 166 ends on "She signed for her own shift and went to work."** Read against the paragraph above it —
+   the cold end is the coldest place in the building, she is not posted there and it is not the crew's to
+   post — this is the enactment of a decision, not a neutral action. **Passes.**
+
+### Corrections to the state files this audit found to be inaccurate
+
+- **"every chapter inside the guide and none under the floor"** (Batch 0004 record) — **wrong.** ch 138 is
+  1,779 and **ch 151 is 1,653**, both below the 1,800 guide; nine chapters are above 2,700. Nothing is under
+  the 1,300 floor. Corrected in `state/continuity.md`, `state/book-metadata.md` and this file.
+- **"The *eleven weeks* figure now stands at ch 150, 162, 163 and 174 only"** — **wrong.** It stands in
+  **fourteen chapters**. Corrected above and in `state/continuity.md`.
+- **"The four seconds: one use at ch 171"** — **wrong.** Thirty-six uses across twenty-six chapters.
+  Corrected in `state/continuity.md`.
+- **Volume 3 file set** — 135,020 → **135,014** after the nine repairs. Restated in `state/book-metadata.md`,
+  `state/continuity.md`, `state/open-threads.md` and `workspace/volume-03-close/SUMMARY.md`.
+
+### Still standing, and not this phase's to open
+
+**Ch 131 reads "She was twenty."** `bible/characters.md` fixes her at eighteen in Volume 3 and the phrase was
+caught in two later drafts and cut. It is the only surviving item on that list and it **is not opened here.**
+**Recorded as a proposed repair** in the usual form: cut the number, or fold it into the surrounding clause,
+in a Volume 4 fix pass that has a reason to open ch 131.
+
+### The construction-budget sweep
+
+**Spent and not reused as emphasis:** *there is no form* **zero** · *there is no column* **two**, once each at
+ch 124 and 127, different meanings · *the record remained* **zero** · *nobody asked* **zero** ·
+*nobody was thanked* **zero**; the one allowed instance is **"Nobody thanked her"** at ch 172 line 127, in the
+past tense, where the girl has set not-being-thanked up as protection for two volumes · *nobody knew* **zero**
+(the Batch 0004 record claimed one at ch 164; the actual line there is *he was not thanked*, and ch 164 line 57
+reads *four of them done by men who did not know what she was* — **no instance of the construction exists**).
+**Nobody said anything: nine uses across eight chapters** — 125, 131 ×2, 134, 154, 159, 162, 172, 174 — four of
+them inside Batch 0003 and five inside Batch 0004, never twice in one chapter except ch 131. That is one use
+per seven and a half chapters and none is load-bearing twice; **recorded as at the top of the acceptable
+range, not as a rule breach.**
+**The seven relicensing conditions re-listed: zero.** **The suppression arithmetic re-run: zero** — the three
+gaps are ruled in four words at ch 174 and Sun He stops. **The claim-as-entered-act arithmetic: once**, at
+ch 155, and not restated. **What a surety is for: zero.** **The signed-shift roster rule re-explained: zero.**
+**The name in the wrong order: five uses across four chapters** (120 ×2, 129, 158, 162), every one of them the
+copyist's habit *used* and none of them *taught*; ch 129 is the one the outline permits. **The carriers' run
+lists: ch 146 supplies them, ch 155 and 158 use them, ch 164 refers back** — a mechanism, not a refrain.
+**The shoring over the cold end: zero** — she works it at ch 164–170 and it does not fail. ***The shape of a
+happy life*: zero.** **Weekdays: zero.** **Authorial scaffolding: zero.** **`his eyes widened`,
+`he couldn't believe it`, `suddenly`, `little did he know`: zero.** **No harem, nothing a romance, no new final
+enemy.**
+
+### The Volume 4 hand-off
+
+The audit does not plan Volume 4. It records what is **true on the page at ch 178** and Volume 4 opens on it:
+
+> **A Warden's office outside the bound now holds her name, her stages and her hours — in order — certified
+> by her own county. The dismantling it has ordered can only be executed, and the Foundation relicensing she
+> has petitioned can only be countersigned, past a boundary no county paper crosses.**
+
+And alongside it, all of it on the page:
+
+- **She is at Condensing 9, the top of the second realm, with a ceiling of nine and nothing above it on the
+  document.** Sun He said so out loud in a room (ch 173) and a registrar put it in a county's book. The next
+  stage is Foundation the first stage, and the paper that would carry her there is **petitioned, numbered,
+  received, routed, barred and not withdrawable** (ch 175).
+- **The district has already answered once**: received, numbered, referred upward, no instrument held in the
+  district either, and an empty space the width of a line on a public shelf by a door (ch 176).
+- **About ten days of channel**, said once, in Volume 3, in weeks, in the final image. **Ledger is hers to
+  order and his to hold only on her word, and she has never ordered it.** **She does not forgive him and she
+  does not tell him to stop.**
+- **A date is entered against the eight hundred jin in a counting room she has never been in.** Hou Sanliang
+  is unpaid and patient and has never been met.
+- **Nothing Volume 4 owns was spent in Volume 3**: no description of the Wall, no crossing, no geography past
+  a marker post, no Warden but his field agent's signature and the name of his office, which **Yuan still
+  cannot read and has now said four times he cannot and is not going to say it a fifth time to be different
+  about it** (ch 178).
 ---
 
 ## Volume 3 Batch 0003 — acceptance check, card by card

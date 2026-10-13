@@ -58,7 +58,7 @@ There were nine people in the room and about eleven in the queue, and nobody in 
 
 That was the other thing she had not expected, and it took her out of the building before she understood it. A county office reads a stage column out loud the way it reads a number out loud. It was not dramatic in the room.
 
-It had been dramatic in four counties. It had been dramatic at four in the morning in front of nine men. This morning it was a man reading down a sheet for a queue that wanted to be served.
+It had been dramatic in nine counties. It had been dramatic at four in the morning in front of nine men. This morning it was a man reading down a sheet for a queue that wanted to be served.
 
 That was what her life was now. The only room in nine counties where it mattered was the one with nobody in it but the three of them.
 

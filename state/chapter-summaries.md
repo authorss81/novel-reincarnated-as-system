@@ -176,7 +176,7 @@ bracket or ending moved. The audit table and the repair note are in `state/curre
 
 ## Volume 3 — The Hunter (ch 119–178)
 
-### Batch 0001 (ch 119–132) — examination and exposure. WRITTEN, 36,795 words over fourteen chapters.
+### Batch 0001 (ch 119–132) — examination and exposure. WRITTEN, 36,809 words over fourteen chapters.
 
 | Ch | Title | Summary |
 | --- | --- | --- |
@@ -246,6 +246,40 @@ bracket or ending moved. The audit table and the repair note are in `state/curre
 | 176 | What Went Up | Day 215. **Everything that can leave this county leaves it, in one crate, on one morning**: the quarterly schedule with *irregular* on the front for the fourth time, the referral, the request for the instrument, and her petition with a number and a bar on it. Two days later the district answers the request the way a district answers — **received, numbered, referred upward, no instrument held in the district either, and an empty space the width of a line where an answer was meant to go.** Nine men read the schedule in the Hall on the twenty-second and **Gao does the sum out loud at the near end, in a hall, on purpose, so nine men have heard it from a mouth instead of off a wall.** Da Shan tells her a man came in on the twelfth, asked how many loads came down that week, wrote it in a book, and he told him because it is his board. The stone she has been buying is ten loads at nine coppers. **About a hundred and forty coppers in the tin.** She does not forgive him and is not going to on the strength of a good winter. No bracket. |
 | 177 | Out of the Oilcloth | Day 217. **Small, warm, domestic, competent.** She takes the second licence out of the oilcloth on the bench in the wash house and lays it flat. The front: **Condensing nine** in her own writing and a new line under the defect saying it restores nothing, entered on a loft mat in the summer. The back: she does not read the seven conditions, because she read them once, and she looks at the last line, **the eight hundred jin, seventh and last**, and does not tear it off, and it was still there when the crate went. The Clay Plate stays against her ribs. The first licence comes down off two nails, going soft at the crease of a defect line she wrote herself, and gets rolled into her coat lining before it is unreadable. Four nails, six coppers. **She practises at the foot of the bunk in the dark — three straight out of five, and the fifth splits the pine — and then in daylight in the yard behind the Hall, where the second hour teaches her the third thing: the hand does not want to be watched, and the stroke is something she has been doing rather than letting the arm finish.** She will do it at the seventh hour, when nine men come in and somebody says something about the fire. No bracket. |
 | 178 | Straight | Day 219. **THE FINAL IMAGE, all seven elements, then stop.** First week of the deep cold. The fire goes down twice between the fourth hour and the light. Ten people sleep in twelve bunks. She is in the second bunk and she can see the one light in Lowwater from the stair, and **the thing that goes up that tower's four flights this quarter goes up in a district clerk's arms and comes down in his arms empty, because Feng asked for it in writing in the autumn and was not refused and was not thanked for it.** **The licence comes out of the oilcloth for the second day running.** She has two arms' worth of practice at nailing and one arm. She strikes it, it stops a third of the way in, she strikes it again, **and it goes in straight**, and there is no way on earth of correcting it now and no need to. The second nail goes straight too. Then she tells Yuan the thing is gone up the stair past every office she has ever stood in front of, to an office **whose name he still cannot read**, and she says she was never going to stop him. **She asks how much of it is there, and he tells her the truth: about ten days.** Ten days, and about six weeks of winter still to come in it. A licence with nothing on it above nine. Three holes in nine lines and nine counties that have it in order. A petition barred. About a hundred and forty coppers. **She has the Ledger to order and she does not order it.** And in the last line, with the fire down to a bed of ash and ten people asleep, she does not tell him to stop. |
+
+## Volume 3 closed — audited
+
+**Audited against `outline/volume-03.md` line by line at the volume close. PASS on all thirteen named
+items, with nine word-level repairs made in the chapters.** No title, chapter order, card beat, bracket or
+ending moved. The full audit table, the repair list, the five findings recorded and not repaired, and the
+corrections to three inaccurate claims in the state files are in `state/current.md` under
+`## Volume 3 close audit — CLOSED`. **What the close changed on the page, for Volume 4 to read first:**
+
+- **The footprint of nine counties and the footprint of four counties are different things and were being
+  confused.** Nine counties hears the announcements and reads the relicensed licence in order. Four counties
+  is the claim's footprint and the furnace schedule's. **Six chapters had the stage column or an
+  announcement at four** (ch 150, 153, 160, 161, 163, 176). All six repaired. The distinction is now a rule
+  in `state/open-threads.md`.
+- **Hou Sanliang's counting room is in Lowwater, where she is standing.** Ch 163 and ch 177 had it *nine
+  counties away*. Both repaired to match ch 173.
+- **Ch 176 said about eleven weeks of winter where ch 178, four days later, says about six.** Day 184 plus
+  eleven weeks, day 219 plus six weeks, and day 215 plus **seven** all land on the same end of the winter,
+  so ch 176 was the wrong one. Repaired.
+- **"Eleven weeks" is retired.** It stood in fourteen chapters of Volume 3 carrying at least five different
+  meanings. The state files had recorded it as standing in four chapters. It is now prohibited in Volume 4,
+  and the two figures Volume 4 will need are given as derivations: **the Hunter arrived on day 2, and the
+  winter ends at about day 261.**
+- **"About four seconds" is a rhythm and not a rule** — thirty-six uses across twenty-six chapters, and the
+  state files had recorded it as three. The four seconds and the release rule from ch 53–54 are not
+  restated anywhere in Volume 3 and must not be in Volume 4.
+- **Du Hong's name is used four times** (ch 119, 125, 138, 160), all as remembered weight inside a live
+  scene; Cao Lei and Xu An are never named in Volume 3. The burial line is not reopened. Recorded, not
+  repaired, and recorded here so it is not rediscovered as an unknown fault.
+- **Ch 131 still reads "She was twenty."** Standing since the Batch 0002 review and not opened by this
+  phase. Proposed repair: cut the number, or fold it into the surrounding clause.
+- **The chapter-length record was wrong.** Nothing is under the 1,300 floor; **ch 138 (1,779) and ch 151
+  (1,653) sit below the 1,800 guide and nine chapters sit above 2,700**, longest ch 140 at 3,193.
+  Volume 3 closed at **135,014 words over sixty chapters**, average ~2,250.
 
 ## Volumes 4–16
 
