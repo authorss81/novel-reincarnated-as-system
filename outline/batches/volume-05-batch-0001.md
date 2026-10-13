@@ -54,7 +54,7 @@ the batch midpoint and climax this phase is required to card.
 
 | Beat | Card it took | How |
 | --- | --- | --- |
-| **The far-side wage-book that already holds her** | **ch 239, *The Stone Yard*** | The book is opened once and its shape is established: a price column that takes the rate said out loud, and a column nearest the near side of the plank that is hers. The day's work past the post is named once. The batch's real arithmetic goes on the page: **five in and five out, and the number in her hand is the same at the start and the end of every day.** Carried at 241, 245, 247, 249 |
+| **The far-side wage-book that already holds her** | **ch 239, *The Stone Yard*** | The book is opened once and its shape is established: a price column that takes the rate said out loud, and a column nearest the near side of the plank that is hers. The day's work past the post is named once. The batch's real arithmetic goes on the page **once, at ch 241**: **five in and five out, and the number in her hand is the same at the start and the end of every day** — **and the reader has already been given that sentence at ch 226, inside the bound, so ch 241 recognises it and does not reperform it.** Carried at 241, 245, 247, 249 |
 | **A day not worked is a day not paid** | **ch 241, *The Number In Her Hand*** | The far-side pay-cycle is established once, on the page, out of the days already in the book — **pays on the seventh, the seventeenth and the twenty-seventh of a month** — and the deadline is built: **no hours can be moved, in either direction, by anybody, and the pay-day arrives whether or not she worked it.** Carried at 245 and 249 |
 | **Ordinary country that asks nothing** | **ch 240, *The Country Asks Nothing*** | The reach at evening: farmed, lit, hedged, a cart track. Eleven men at a trestle who have never heard an announcement in their lives. **The turn: her strength is worth nothing on this reach and the only thing anybody here can measure is the bar.** And the batch's first free answer — one ordinary question, asked of a man who does not have to answer it, answered in the ordinary way |
 | **Feng's stair still carrying** | **ch 244, *A Light In The Tower*** | **The one inside-the-bound-by-consequence card in the batch.** A far-side mouth at a pot reports a tower with a light in it that goes on at the fourth hour, and a clerk's arms going up four flights and coming down empty. **Feng does not appear. No scene west of the line. No document arrives. Nothing about the sponsors' second book is lodged, copied or spoken** |
@@ -80,10 +80,13 @@ nine stubs are (249), the office confirmation (251), the price of acting (252).
   men and the same stove as ch 237**, and the same man who read the seventh condition out loud once. He
   may speak in this batch, in the ordinary voice, and **he is not an antagonist and he does not know more
   than an office knows.**
-- **The woman at the store** is folded into **239**, where she is established once in one paragraph as a
-  counter, a tin and five coppers, and used at **241**, **245** and **250**. **She is not a character in
-  this batch and may not be made into one.** She may not ask her a question and may not do a kindness that
-  is a scene.
+- **The counter on the far side** is folded into **239**, where it is established once in one paragraph as
+  a counter and five coppers, and used at **241**, **245** and **250**. **Whoever is behind it is not a
+  character in this batch and may not be made into one.** She or he may not ask her a question and may not
+  do a kindness that is a scene. **And this is not the counter of ch 226** — that one had shelves, a name on
+  a board she read nine times and never used, a pot under a shelf, and a woman who told her to stop
+  standing in the middle of the floor. **Nothing of that crosses the flat. Do not merge the two stores, do
+  not carry the pot or the shelves or the kindness across, and do not give the far-side counter a face.**
 
 **Cut from this batch and written into *carried forward*:** the draft west; Golden Core 1 and the
 materials priced for people with two whole hands; the surface answer; the road west reopening; the
@@ -101,9 +104,10 @@ on day 506. Batch 0002 opens on day 507, and Golden Core 1 is pinned at ch 258, 
   `((day − 134) mod 30) + 1`, day 134 being the first of a month. Days 464 onward read day − 463. The
   month Volume 5 opens in began on day 464; the next begins on day 494.**
 - **Day 0 is the last day of the thaw.** Volume 4's road shut on day 117 and reopened on day 254, and
-  **the thaw was about eleven days off at day 243** — the thaw runs about eleven days ahead of a road
-  opening. **A drafter must not re-derive it for Volume 5.** If a chapter needs the season, it needs
-  **the carts stopping**, not a date.
+  **the thaw was about eleven days off at day 243** — **so the thaw and the road opening fall on the same
+  day, and a drafter must not write the thaw as running ahead of a road or behind one.** **A drafter must
+  not re-derive the thaw for Volume 5.** If a chapter needs the season, it needs **the carts stopping**,
+  not a date.
 - **The road west is shut for the season.** This is `outline/volume-05.md` canon (*Geography*): the road
   that goes back inside **is closed for the season at the close of Volume 4 and reopens in Batch 0002.**
   **No card in this batch may put her on it, put anybody on it, or give it an opening day.** It may be
@@ -113,7 +117,10 @@ on day 506. Batch 0002 opens on day 507, and Golden Core 1 is pinned at ch 258, 
   in the book.** She was hired on **the fourth** and paid on **the seventh**, and the seventh is the
   anchor: **pays fall on the seventh, the seventeenth and the twenty-seventh of a month** — **day 470,
   480, 490, 500, 510.** **Three pay-days fall inside this batch: 480, 490 and 500.** Do not invent a
-  weekly, fortnightly or month-end rhythm, and **do not say *week*: the world has no named weeks.**
+  weekly, fortnightly or month-end rhythm: **a ten-day instalment and three of them in a thirty-day month
+  is the shape, and a drafter may not call any part of it a week, because the world has no named weeks.**
+  **Weeks as a rough stretch of time — *about six weeks*, *a week back* — are ordinary and stay
+  available.**
 - **The dates this batch must not move:** **day 470**, the seventh, where Volume 4 closed; **day 512**,
   Golden Core 1, ch 258, Batch 0002; **ch 262's** document, Batch 0002; **ch 272's** sustained scene,
   Batch 0003.
@@ -121,6 +128,10 @@ on day 506. Batch 0002 opens on day 507, and Golden Core 1 is pinned at ch 258, 
   mouth. The weekday rule is canon in `bible/world.md` and a grep of ch 1–238 returns zero. **Two closed
   batch cards still describe beats in weekday terms — `outline/batches/volume-01-batch-0003.md` and
   `outline/batches/volume-04-batch-0002.md` — and neither beat is on the page. Do not lift either phrase.**
+- **The ban is on NAMED weeks and named weekdays, not on the word.** *Three days up and three days down*,
+  *the third of a month*, *about six weeks* and *a week back* are how this book measures and they all stay
+  available. **Do not read this as a ban on the word *week*** — an earlier version of this line said *do not
+  say week* and would have struck the channel's own unit off the page.
 
 ### The money — **canon for this batch, do not re-derive**
 
@@ -133,17 +144,24 @@ the arithmetic is days old and not months old. **No card may give it a duration.
   that is what is said on a line**, and the man at the plank writes the five in the price column and does
   not look up. That is canon at ch 238 and it is not renegotiated, argued or improved on in this batch.
 - **Bread is five coppers and it is bought every day at the seventh hour** and eaten outside with her back
-  to the wind. **The store past the post is established once, at ch 239, in one paragraph** — a counter,
-  a tin, five coppers, the only place past the post where anything is sold — and **it is not a
-  character.**
+  to the wind. **The store on this side is established once, at ch 239, in one paragraph** — a counter,
+  five coppers, the only place on this ground where anything is sold — and **it is not a character.**
+- **THERE ARE TWO STORES IN THIS BATCH'S WORLD AND THEY ARE NOT THE SAME BUILDING.** *Bread At The
+  Store*, ch 226, is between the last stake and the cart turn, inside the line's own country: a room with
+  shelves, a woman who has been behind the counter every day of her life, a pot under a shelf she put back,
+  and the line *You have not eaten since the fourth hour and you are going to eat now.* **The one
+  established at ch 239 is on the far side of the bad flat, past the post, and she has never stood in it.**
+  Same price, same hour, same bread. **A drafter must not merge them, must not carry the pot, the shelves
+  or the kindness across the flat, and must not give the far-side counter a face.**
 - **She owns: a pan under a shelf, a bar, a knife and a spare strip of cloth the keeper gave her at
   ch 236, six counterfoils in an oilcloth in three marks, three dead weight tickets with a ration column
-  on the back of one, an oilcloth, and the Clay Plate.** **The tin is gone since the evening of day 268
-  and was never counted again.**
+  on the back of one, an oilcloth, and the Clay Plate.** **The tin of coppers is gone since the evening of
+  day 268 and was never counted again**, and nothing in this batch may bring a tin back.
 - **No balance may be stated more than once in the batch**, and the statement of it is made at **ch 241**
   and nowhere else. **No other card may name a total, a sum, a saving or a shortfall.** Every other card
   that touches money touches it through a *day*, a *price said out loud*, or a *stub*, and never through
-  a total.
+  a total. **The arithmetic itself is not new either — ch 226 put five in and five out and the number the
+  same on the page — so ch 241 recognises it and does not reperform it.**
 - **No new price may be used that has not been established on the page in the card that uses it**, and
   each new price is used once. Materials, food other than bread, and fuel are all Batch 0002 and 0004
   territory.
@@ -155,12 +173,19 @@ the arithmetic is days old and not months old. **No card may give it a duration.
 
 ### The channel — **canon for this batch, do not re-derive**
 
-**About six weeks, said once, at ch 236, and not one page since. This batch states no figure at all.**
+**About six weeks, said once, at ch 236, and not one page since. This batch states no figure of what is
+left of him at all.**
 
-- **No number of any kind may appear on the page in ch 239–252** — not days, not weeks, not a fraction,
-  not a mark count on the ration column, not a Settlement figure, not a percentage. **The six weeks at
-  ch 236 is the last figure in this run and the next one is not this batch's.** If a card needs to say
-  *less than he was*, it says *less than he was*.
+- **THE RULE IS ABOUT HIM AND NOT ABOUT THE WORLD.** What is banned on the page in ch 239–252 is: **any
+  figure of the channel, any count of what remains of it, any Settlement fraction, any percentage, any
+  decimal, and any elapsed span that measures him.** The six weeks at ch 236 is the last figure of him in
+  this run and the next one is not this batch's. If a card needs to say *less than he was*, it says *less
+  than he was*.
+- **Ordinary numbers are the batch's subject and are available.** This batch is about a pay-cycle, a
+  seventeenth, a season, days and coppers, four fingers, nine stubs, an eleven-minute line. **A drafter
+  must not read a blanket ban on figures here** — the earlier version of this line said *no number of any
+  kind* and contradicted its own chapter cards; it was narrowed at review and the narrowing is deliberate.
+  What no card may do is measure him.
 - **No bare Settlement fraction goes on the page.** The channel is named in weeks and in sentences and
   never as a number with a decimal in it.
 - **He speaks in at most eight sentences across all fourteen chapters, never more than two in one
@@ -228,11 +253,13 @@ below is invented; if a fact is not in those blocks it is not canon and a card m
   with the flat of a second finger** and that is how she writes, on everything, including this batch.
   Right arm open a third of the time. Aperture cracked through and permanent. **Not hungry since the
   first Foundation.** Cold the way a stone is cold. **Eighteen years old.**
-- **Where she is.** On the far side of a line of work, in ordinary settled country, **about four hundred
-  yards past the last working point**: a trestle with a book open on a plank, a fire under it, and about
-  eleven men on that side of it; a low building about four hundred yards past the post with a counter in
-  it, a stove and about six men; a post with a board on it; a cart track. **Nobody there has ever heard a
-  stage announced. Nobody there has asked her a question.**
+- **Where she is.** On the far side of a line of work, in ordinary settled country, **about six hundred
+  yards past the last working point and about four hundred past the post** — the post is at the top of the
+  rise and the working ground runs out about two hundred yards short of it (ch 238) — **at a trestle with
+  a book open on a plank, a fire under it, and about eleven men on that side of it;** a low building about
+  four hundred yards past the post with a counter in it, a stove and about six men; a post with a board on
+  it; a cart track; a store on the far side of the flat, a counter and five coppers, which is **not** the
+  store of ch 226. **Nobody there has ever heard a stage announced. Nobody there has asked her a question.**
 - **The book.** A wage-book on a trestle, kept by people who are not a county and are not obliged to keep
   it. **A column of hours nearest the near side of the plank that is hers, in order, with dates.** A price
   column. **A counterfoil torn off at the rule and put face down on the plank — six stubs in the oilcloth
@@ -331,7 +358,7 @@ thinks. **What this opens, on the page: the only thing on this reach that can an
 own column, and the only person who can give that column up is her** — which is ch 251 and ch 252, and
 which is the batch's climax, and which Batch 0003 turns into an authorisation she signs.
 
-No Ledger, no stage, no announcement, no bracket, no figure of any kind.
+No Ledger, no stage, no announcement, no bracket, and no figure of him.
 
 ## Batch climax (ch 251–252)
 
@@ -503,9 +530,10 @@ This batch carries three of its own.
    is kept.** She cannot be un-entered without a fact going round this reach about a woman who took a
    term and walked off it, and the fact would be true, and it would be in eleven men's mouths before it
    was in a book. **It costs her the option of leaving on a morning's notice — which is the only option
-   she had that was worth nothing and the last one that was hers.** And it puts a further forty days of
+   she had that was worth nothing and the last one that was hers.** And it puts the rest of the season's
    hours into a column that an office four hundred yards away has just been shown it can be used against
-   her. **She does it knowing both halves, and she does it in daylight, and nobody persuades her.**
+   her. **She does it knowing both halves, and she does it in daylight, and nobody persuades her. No card
+   may give the season a length: the season gets no date and no number in this batch.**
 2. **Ch 246 — she does not stop working.** The understanding arrives and the decision is to go out at the
    fourth hour the next morning and work again. **It costs her the option of being idle on this side of
    the line**, which is the only safety the crossing bought her and the cheapest thing she has ever thrown
@@ -571,9 +599,10 @@ in a book.
 
 Resistance: **Nothing resists her and that is the problem.** Nobody on this reach has asked her a
 question, has told her what is wrong with her, has refused her anything or offered her anything. The
-store has a counter and a tin and five coppers. The man at the plank writes the date in about eleven
-minutes with the flat of a second finger and holds the book flat with his palm without being asked, and
-does not look up, and does not say her name. The work is stone — broken out of a low bank past the post
+store has a counter and five coppers. **She writes the date into the column herself, and it takes her about
+eleven minutes with the flat of a second finger on the left hand; the man at the plank keeps the book flat
+for her with his palm because the plank is not level, and he does it without being asked, and he does not
+look up, and he does not say her name.** The work is stone — broken out of a low bank past the post
 with bars and a sledge and put on carts — and eleven men do it and she does it and **the pay is the same
 for all of them.** The keeper comes up the rise with his cart in the evening, puts a strip up, and goes
 down without a word.
@@ -581,16 +610,21 @@ down without a word.
 Information revealed: **Four things, established once each and not carried as explanation.**
 First, the day's work and the shape of it. Second, the book's two things that matter: **a price column
 that takes the rate said out loud**, and **a column nearest the near side of the plank that is hers**, in
-order, with dates. Third, the store past the post, in one paragraph, as a counter and a tin and five
-coppers, and the arithmetic the wage fixes — true the first time she does it and true every time after,
-and **no card gives it a duration**: **five in the morning and five at the
-counter in the evening and the number in her hand is the same both times.** Fourth, **a strip goes up on
-the post every nine or ten days whether or not there is anything to put in it**, and she has seen it twice
-now and is not going to ask about it, because she asked once at ch 236 and the answer was nine years long.
+order, with dates. Third, **the store on the far side of the flat**, in one paragraph, as a counter and
+five coppers and bread bought at the seventh hour, **and it is not the store she has been buying bread in
+for two months.** That one is *Bread At The Store*, ch 226, between the last stake and the cart turn, with
+shelves and a woman behind it who offered her a pot once; **this one is on the other side of three-quarters
+of a mile of the worst ground on nine days and she has never stood in it, and a drafter must not merge
+the two, must not give her the pot, and must not put a scene of kindness in either.** Fourth, **a strip
+goes up on the post every nine or ten days whether or not there is anything to put in it**, and she has
+seen it twice now and is not going to ask about it, because she asked once at ch 236 and the answer was
+nine years long.
 
 Action or decision: She works the whole day, takes the heavy end of the bank because it is there and
 because nobody is going to give it to her, and **does not spend a sentence of him on any of it.** She
-buys her bread and puts five coppers on the counter and the tin takes it. **The chapter's want is to get
+buys her bread at the seventh hour, puts five coppers on the counter, and walks out and eats it outside
+with her back to the wind, **and she does not do the sum standing there, because the sum was done at a
+counter two months back and the answer is the same and she knows it.** **The chapter's want is to get
 through a day on this side without having to be anything to anybody. Its emotion is the flat strange
 ache of being entirely unremarked on by eleven men, which is what she came for and is not what she
 wanted.**
@@ -600,8 +634,9 @@ about two hours and then turns into something with no name in it. **She has been
 nine days for four years and the top of the second realm and there is not one thing on this reach that
 can see any of it.**
 
-Power or resource change: **None. Foundation 9.** Six coppers in, five out, one bread. **No bracket.**
-**No figure of any kind on the page.**
+Power or resource change: **None. Foundation 9.** One day worked, one loaf bought, five coppers on the
+counter. **No bracket. No figure of him, no Settlement fraction and no count of what is left. And no
+sum: the arithmetic is ch 241's and this card may not make it.**
 
 Continuity fact to preserve: **The licence is not opened.** The relicensed licence is a document she has
 never opened, its front still says Foundation the first stage, seven conditions are referenced and never
@@ -688,8 +723,14 @@ it comes, is exactly what ten days of five is, and it is spent before it is coun
 
 Information revealed: **The far side pays in three-day-of-the-month instalments and a day is a whole
 thing.** The wage is for the days in the column and the column is the only evidence. **And the batch's
-one total: five in, five out, and the number in her hand the same at the start and the end.** Stated
-once, in her own arithmetic, and **not by anybody else and not twice.**
+one total — five in, five out, and the number in her hand the same at the start and the end — which the
+reader has already been given once, at a bread counter inside the bound at ch 226, in almost these words.**
+**So this card does not perform the arithmetic as though it were new. She recognises it, and the
+recognition is the beat: the same sum at the same price in a different country, and the only thing that
+has changed is that this counter has no shelf on it and no pot under it and the ground between the two
+counters is three-quarters of a mile she crossed in the dark.** Stated once, in her own arithmetic, **not
+by anybody else and not twice**, and **the chapter spends no paragraphs on a calculation the reader has
+already watched her do.**
 
 Action or decision: She works all three days, says the rate out loud at the plank in the ordinary voice
 because that is what is said on a line, takes the pay, spends it on bread over the days it was earned
@@ -704,8 +745,9 @@ the day for four years and it has never once cost her this, and it costs her thi
 first time there is nothing behind the day.**
 
 Power or resource change: **None. Foundation 9.** **This is the one chapter in the batch permitted to
-state a total, and it states it once.** A seventh counterfoil comes off at the rule, face down on the
-plank. **No bracket.**
+state a total, and it states it once, and it states it as a thing she already knows.** A seventh
+counterfoil comes off at the rule, face down on the plank. **No bracket. No figure of him, no Settlement
+fraction and no count of what is left.**
 
 Continuity fact to preserve: **The rate is five and it was said out loud at a trestle in the ordinary
 voice at ch 238 and is said out loud again here in the same words and no other words.** The counterfoil
@@ -728,7 +770,11 @@ Immediate goal: Take the heavy end of the bank and find out what she can still d
 in one day, with no one helping.
 
 Resistance: **The stone.** Broken out of a low bank past the post with a bar and a sledge and put up a
-ramp onto carts, eleven hours, and the ramp is where a load is a load and not a figure. **Four fingers'
+ramp onto carts — **the chapter is watched from the fourth hour to the seventh and the day runs a good deal
+longer than that, which is the point: a man at that yard is here from the fourth to the seventh and she is
+still going when the cart is loaded**, and the ramp is where a load is a load and not a figure. **Weather
+is on it and weather is not a plot: cold, a wind off the rise, and a wet stone that does not hold a boot
+the way a dry one does, and it costs her nothing but time. **Four fingers'
 worth of grip on one hand. Eleven holds in the other out of about seventy tried, and the order is gone out
 of that hand with the heel of it, so every grip is built from nothing, one at a time, before the bar
 lands.** Right arm open a third of the time and about a third more by the sixth hour. **Four counts of
@@ -794,8 +840,9 @@ and does not plan to.**
 Action or decision: She buys the answer with the same thing she has always bought answers with, which is
 work and a place to stand, and gets it in four sentences. **She does not offer a favour and is not offered
 one and does not thank her and is not thanked.** She writes the figures on the back of the third dead
-weight ticket with the flat of a second finger at eleven minutes a line, because that is the only hand
-she has for writing and there is nobody else within nine days of road to do it for her.
+weight ticket — **clear of the ration's marks, which are already on it, and not going over a single one
+of them** — with the flat of a second finger at eleven minutes a line, because that is the only hand she
+has for writing and there is nobody else within nine days of road to do it for her.
 
 Emotional change: **The specific relief of a person who has not been able to ask what the road back inside
 costs since the fourteenth — ch 229, day 417, the last time a carter came past that trestle, when twenty
@@ -835,14 +882,13 @@ work at the far end of nine days the way men talk about a job they have finished
 two facts and neither is addressed to her: **there is a tower up on that side with a light in it that
 goes on at the fourth hour and has not stopped, and a man goes down the stair with a bundle in his arms
 and a clerk's arms go up four flights with it and come down empty.** And one more thing, said as a fact
-about a floor: **the crew is one man short of what it was and has been for months, and the floor is the
-same floor it was.** **Nobody at that pot has ever met Feng Lushi, does not know his name, and is not
+about a floor: **the floor is nine men and it is the same floor it was, and they are all still on it.** **Nobody at that pot has ever met Feng Lushi, does not know his name, and is not
 describing him.**
 
 Information revealed: **Feng's stair is still carrying, and it is carrying, and it is being carried by
 other people's mouths to a woman nine days away who cannot ask a second question.** The light does not
 stop. The arms go up and come down empty, which is what he asked for in writing in the autumn and was not
-refused and was not thanked for. **The crew is short a man and the floor is the floor.** That is all.
+refused and was not thanked for. **The floor is nine men and it is the floor it was.** That is all.
 **That is the whole of what this card is allowed to bring across the line, and it is enough to hurt her
 for a day and a half.**
 
@@ -870,8 +916,9 @@ thing.** **No second appointment and no second Lung before Volume 11; both unspe
 thanked**, and the word is available in no form. **Nothing about the sponsors' second book is lodged,
 copied or spoken. The Clay Plate is not described. Ning Wu does not appear and is not mentioned. What
 became of the eleven is not raised. The register is not corrected and is not mentioned.** The crew is
-**nine men and a floor** and **one man short**, which is a consequence and not an accusation, **and
-nothing here proves the crews wrong.**
+**nine men and a floor and the same nine men**, which is what ch 238 said once and this card does not
+develop, **and nothing here proves the crews wrong. A drafter may not invent a shortfall, a departure or
+a length of time — no man has left that floor and no card may say one has.**
 
 Ending type: emotional consequence — the light goes on at the fourth hour and she is nine days from it
 and cannot ask.
@@ -962,7 +1009,7 @@ plank writes what he is given, and the keeper writes strips he cannot read, and 
 doing the only thing they are built to do and every one of them is right.** She wants, concretely, for
 one of them to be a villain, and there is not going to be one.
 
-Power or resource change: **None. Foundation 9.** **No bracket. No figure of any kind on the page.**
+Power or resource change: **None. Foundation 9.** **No bracket. No figure of him, no Settlement fraction and no count of what is left.**
 
 Continuity fact to preserve: **Do not name an office above the Standing Office of the Second Account, and
 do not have Yuan state again that he cannot read one.** He read that one office in one breath at ch 236
@@ -1011,7 +1058,8 @@ difference, and she did it anyway.** She wants, concretely, to be a woman who wo
 season somewhere, and she has just made that impossible to have for free.
 
 Power or resource change: **None. Foundation 9.** **This is the batch's irreversible decision and it
-costs days, not power.** No bracket. No figure of any kind.
+costs days, not power.** No bracket. No figure of him, no Settlement fraction and no count of what is
+left.
 
 Continuity fact to preserve: **From this chapter she is kept, and no card after it may describe her as
 passing through, between places, or on her way anywhere.** **No card may put her on the road west and no
@@ -1033,8 +1081,8 @@ Immediate goal: Get through a week of the days she has just booked and find out 
 to a claim that has been read out loud in a room with a stove in it.
 
 Resistance: **He is at nine feet, in a plain coat, with a notebook shut against his side, and he has not
-asked her a question since the fourth of a month and is not going to now.** He attends. He writes three
-lines over two days and she never sees the page. **He buys nothing, threatens nothing, touches her,
+asked her a question since the fourth of a month and is not going to now.** He attends. He writes, and
+she never sees the page, and she does not ask to. **He buys nothing, threatens nothing, touches her,
 enters nothing, asks her nothing, and says all of that in one breath so that she does not have to spend
 a morning on it** — the standing ch 231 and ch 238 form, and it is not explained and it is not defended,
 it is simply said, because he says things that way and always has.
@@ -1061,7 +1109,7 @@ able to be angry at him, and she cannot, because everything he says is true and 
 anything.
 
 Power or resource change: **None. Foundation 9.** **Two of the batch's eight sentences of his, and no
-figure of any kind on the page.** No bracket.
+figure of him on the page and no Settlement fraction.** No bracket.
 
 Continuity fact to preserve: **Bai Zhu is named once in the book, at ch 150, to a form, and on no
 document he signs.** Narration may refer to him as the Hunter and **a card may use the word name about
@@ -1117,8 +1165,8 @@ different men wrote in four different hands and none of them knows what they are
 Power or resource change: **None. Foundation 9.** **Nine stubs in four marks.** No total. **No bracket.**
 
 Continuity fact to preserve: **The counterfoil is defined once, at ch 208, and used — not explained.** The
-oilcloth holds six counters plus one, three dead weight tickets, and the plate, and **the plate is still
-worn and is not described.** **No total in this chapter** — the one total was at ch 241. **Do not run the
+oilcloth holds **nine counterfoils in four marks**, three dead weight tickets, and the plate under all of
+them against her ribs, and **the plate is still worn and is not described.** **No total in this chapter** — the one total was at ch 241. **Do not run the
 count against a different figure anywhere in ch 239–252.** **The three empty dates in the sub-contractor's
 book are referred to once, in one clause, and are not filled and are not revisited.**
 
@@ -1159,7 +1207,8 @@ by anybody for it.** She wants, concretely, a pot and a shelf and a fire she doe
 coppers a day to stand near, and the wanting is so ordinary that it embarrasses her, and she does not say
 it out loud to anyone.
 
-Power or resource change: **None. Foundation 9.** No bracket. No figure of any kind.
+Power or resource change: **None. Foundation 9.** No bracket. No figure of him, no Settlement fraction and
+no count of what is left.
 
 Continuity fact to preserve: **The cold is not explained and does not get a source again** — it had none at
 ch 226 and it has none here, and **that was said once, in new words, and is used here, not repeated.**
@@ -1201,14 +1250,15 @@ and it is not the question she came with. She does not say her name. She does no
 She asks the ordinary question a worker asks, and gets the ordinary answer, and **the answer is the
 climax.**
 
-Emotional change: **Four years of carrying a figure for sixteen to nineteen years old and watching a
-stranger carry it past her, and it turns out the room it landed in has been sitting on it for three
+Emotional change: **She has carried that figure since she was sixteen, she is eighteen years old,
+and she has just watched a stranger carry it past her, and it turns out the room it landed in has been sitting on it for three
 weeks and has not done anything and is not going to be stopped by her.** She is not frightened and she is
 not proud and she is angry in the plain and complete way she was angry on a stone at ch 237, and **this
 time she is angry at herself**, because the thing she wants from that room is an answer and the only
 thing the room has is an ability, and she has wanted them confused for four volumes.
 
-Power or resource change: **None. Foundation 9.** No bracket. No figure of any kind.
+Power or resource change: **None. Foundation 9.** No bracket. No figure of him, no Settlement fraction and
+no count of what is left.
 
 Continuity fact to preserve: **The seven relicensing conditions are not re-listed and the seventh is not
 read aloud a second time.** **The claim is not answered, not paid, not assessed, not entered anywhere and
@@ -1217,7 +1267,8 @@ date in his counting room in Lowwater is not touched.** **No draft is written an
 Batch 0002's.** **No card may name an office above the Standing Office of the Second Account.** **The man
 at the counter is the same man and the same room and the same six men and the same stove as ch 237, and he
 is doing the only thing the room is built to do.** **She does not give her name and nobody asks her for
-it, and that is the point: the room has been holding her figure for three weeks and has never asked whose
+it, and that is the point: the room has been holding her figure since the twenty-ninth of a month and has
+   never asked whose
 it is.**
 
 Ending type: discovery — the figure has been sitting in a room that can act on it, in the open, in the
@@ -1261,7 +1312,8 @@ because a woman who would take the free end of this would not be the woman who c
 bar and four fingers to be somewhere nobody had heard of her.** What she feels, once, in plain words, is
 that the bill is still hers, and that she has just found out who the creditor's clerk is.
 
-Power or resource change: **None. Foundation 9.** No bracket. **No figure of any kind on the page.**
+Power or resource change: **None. Foundation 9.** No bracket. **No figure of him on the page, no
+Settlement fraction and no count of what is left.**
 
 Continuity fact to preserve: **The claim stands. Eight hundred jin. Not answered, not paid, not assessed,
 not torn off.** Hou Sanliang unpaid, patient and never met; the date in Lowwater untouched; Luo Ping a
@@ -1274,8 +1326,8 @@ Ending type: decision — she says no once, to an empty room, in her own head, a
 this batch she decides anything about.
 
 Next-chapter pull: The season she is booked into runs to the end of the carts, the road that goes back
-inside is shut, and the only thing that has changed on this reach in three weeks is that an office four
-hundred yards away now knows exactly which book it would have to open. **Batch 0002 opens on the road
+inside is shut, and the only thing that has changed on this reach since the second of a month is that an
+office four hundred yards away now knows exactly which book it would have to open. **Batch 0002 opens on the road
 west reopening and on a thing that has to be written and has not been written.**
 
 ---
@@ -1419,3 +1471,98 @@ west reopening and on a thing that has to be written and has not been written.**
     reads *the back half of Volume 4*, which is what ch 221 and ch 232 are.
 - **One figure in `outline/volume-05.md` corrected at source by the same review, and this file now agrees:**
   the Golden Core 1 interval, above. Nothing else in the volume outline moved.
+- **The card file was re-run and audited against the manuscript rather than rewritten. Ten faults were found
+  in this file and repaired here. No card, title, day, beat, turn, midpoint or climax changed, nothing in
+  the chapter sequence moved, and no chapter in Volumes 1–4 was opened.** The audit walked ch 236, 237 and
+  238 and ch 226 and ch 230 in full, grepped all 238 chapter titles, re-derived the month-day formula against
+  every day in the table, and checked the construction budget by grep.
+  1. **THE BATCH BANNED ITS OWN SUBJECT.** The channel block read *"No number of any kind may appear on the
+     page in ch 239–252 — not days, not weeks…"*, and seven chapter cards repeated *"No figure of any kind
+     on the page."* **The batch is about a pay-cycle, a seventeenth, a season, four fingers, nine stubs and an
+     eleven-minute line**; the rule contradicted its own cards and would have struck the chapter table out of
+     the draft. **The rule was about him and not about the world and is now written that way**: no figure of
+     the channel, no count of what remains of it, no Settlement fraction, no percentage, no decimal, and no
+     elapsed span that measures him. The prohibition is narrowed in *The channel* and in all seven cards,
+     and the narrowing is stated at each site so it cannot be re-broadened.
+  2. **THE ARITHMETIC HAD ALREADY BEEN DONE ON THE PAGE, TWICE, AND THE CARDS DID NOT KNOW IT.** **Ch 226,
+     *Bread At The Store*, is a whole chapter about buying bread at five coppers at the seventh hour, with
+     the section heading *What Five Is For* and the sentence *"Five coppers in the morning and five coppers
+     at the bread counter in the evening, and the number in her hand was the same both times."*** Ch 239 and
+     ch 241 were both carded to put that exact arithmetic on the page again, and ch 241 as the batch's *one
+     permitted total*. **A total stated once is now once across two chapters, and the second one recognises
+     it instead of performing it** — the same sum, the same price, a different country, and the ground
+     between the two counters is the bad flat she crossed in the dark. **This is a better chapter than the
+     one it replaces and it is the same chapter in the same place.**
+  3. **THERE ARE TWO STORES AND THE CARDS HAD COLLAPSED THEM INTO ONE.** The store of ch 226 is between the
+     last stake and the cart turn, inside the line's own country, with shelves and a woman who once told her
+     to stop standing in the middle of the floor. The counter carded at ch 239 is on the far side of the
+     bad flat and she has never stood in it. **The distinction is now written into *The money*, into the
+     folded-requirements block and into ch 239 itself**, with an instruction not to carry the pot, the
+     shelves or the kindness across the flat and not to give the far-side counter a face.
+  4. **CH 239 GAVE THE MAN AT THE PLANK HER HAND.** The card read *"The man at the plank writes the date in
+     about eleven minutes with the flat of a second finger."* **Ch 238: it is she who writes the date, on the
+     left hand, in about eleven minutes; he keeps the book flat with his palm because the plank is not
+     level, and she does not ask him to hold it the second time.** The card now says that, and the eleven
+     minutes are hers again.
+  5. **CH 239'S POWER LINE ADDED UP TO SOMETHING THAT IS NOT TRUE.** It read *"Six coppers in, five out, one
+     bread."* **The wage is five and the bread is five and there is no sixth.** It also broke the file's own
+     rule that only ch 241 states a sum. **It now reads one day worked, one loaf bought, five coppers on the
+     counter, and the sum is ch 241's.**
+  6. **THE DISTANCE WAS WRONG IN THE STARTING CONDITION.** The trestle was given as *"about four hundred
+     yards past the last working point."* **Ch 238: the working ground runs out about two hundred yards
+     short of the post, and the trestle is about four hundred yards past the post** — so it is about six
+     hundred past the working ground. Corrected in *Starting condition*, and ch 237's building is confirmed
+     at about four hundred yards past the post, which is why ch 252 can put the book four hundred yards
+     from the counter.
+  7. **CH 244 INVENTED A MAN WHO LEFT.** The card had a stranger at a pot report *"the crew is one man short
+     of what it was and has been for months."* **The crew at Qinghe is nine men and a floor and it is said
+     once at ch 238; no man has left it, and the duration had no day behind it** — the same class of fault
+     as the four durations the close review raised. **The shortfall and the duration are both gone.** The
+     card now reports that the floor is nine men and the same floor it was, and a drafter may not invent a
+     departure.
+  8. **THREE ELAPSED FIGURES DID NOT RECONCILE.** *"The room has been holding her figure for three weeks"*
+     (ch 251, twice) — **the seventh condition was read out loud on day 462 and ch 251 is days 503–504,
+     which is six weeks**; three weeks is correct only to day 483 and the card was carrying a batch-level
+     figure into a chapter card. Now *"since the twenty-ninth of a month."* The same error at ch 252's
+     next-chapter pull (*"changed on this reach in three weeks"* — she came out on day 465 and ch 252 is day
+     506) now reads *"since the second of a month."* And ch 247's *"a further forty days of hours"* was a
+     length given to a season this batch forbids from having a date; it now reads *"the rest of the season's
+     hours"* and the card says outright that no card may give the season a length.
+  9. **CH 249 CONTRADICTED ITSELF ON THE STUBS.** The action line put the ninth stub in the oilcloth and the
+     continuity line two paragraphs later said the oilcloth *"holds six counters plus one."* **Six is what
+     she crossed with; by ch 249 it is nine in four marks**, and the Clay Plate is under all of them against
+     her ribs (ch 230). Corrected.
+  10. **TWO SMALLER THINGS.** Ch 251 read *"Four years of carrying a figure for sixteen to nineteen years
+      old"* — **she is eighteen** (ch 186, 208, 220, 228, 229, and `bible/characters.md`), and sixteen-plus-four
+      is not nineteen. It now reads that she has carried the figure since she was sixteen. And the clock
+      block's *"do not say week"* would have struck the channel's own unit off the page: the canon is no
+      **named** week and no named weekday, and *about six weeks* is how this book says what it says. It now
+      reads that way. **The thaw was also given as running eleven days ahead of a road opening; `state/open-threads.md`
+      has the thaw and the opening on the same day, and it now says so.**
+- **One fault found in a closed file, recorded here and NOT repaired, because this phase may write one file
+  and that file is this one.** `state/continuity.md`, in the block headed *Construction budget, spent in ch
+  179–238*, still reads ***About four seconds*: nine across ch 179–238 — eight in Batches 0001–0002, one at
+  ch 212 in Batch 0003***. **A grep of `chapters/volume-04/` for *four second* returns eight: ch 181 (×2),
+  191, 198, 205, 208 (×2), 212 — three in Batch 0001, four in Batch 0002, one in Batch 0003, none in
+  Batch 0004 and none in the last sixteen chapters.** The correction is written out in full at
+  `state/continuity.md` line 2100, in the corrections block immediately beneath, and in `state/current.md`;
+  **the budget line above it was never corrected in place and is the one a drafter walking to the foot of
+  the file will read.** **PROPOSED REPAIR, not made here: change *nine* to *eight* and re-partition to three
+  in Batch 0001, four in Batch 0002, one in Batch 0003, none in Batch 0004.** The figure in this file's own
+  traps block is right.
+- **Verified at this re-run and left alone, having been checked rather than assumed:** all fourteen titles
+  against every `^# ` heading in `chapters/volume-01/` through `chapters/volume-04/` — 238 headings, no
+  collision, and no collision among the fourteen; every title between three and seven words and between
+  thirteen and twenty-eight characters · the month-day of every day from 471 to 506 against
+  `((day − 134) mod 30) + 1`, all thirty-six correct, every day covered once and none twice · the three
+  pay-days at days 480, 490 and 500 and the ten-day instalment that makes them reconcile · the crossing at
+  the second of a month, day 465, and ch 238's hiring on the fourth and first pay on the seventh, day 470 ·
+  the rate of five off the line against six on it (ch 237) · the office building at about four hundred
+  yards past the post (ch 237) and the trestle at about four hundred yards past the post (ch 238) · the
+  strip cadence of nine or ten days (ch 237) and the keeper at about fifty-five (ch 237) · the eight feet of
+  fire she pays five coppers a day to stand near inside the bound (ch 231) and the bread at five (ch 226) ·
+  the pan under the shelf (ch 226), the knife and the strip of cloth (ch 236), the tin gone since day 268,
+  and the three dead weight tickets with the ration on the back of one (ch 230) · **Ning Yan eighteen and
+  Wei Ran twenty** · the eight *about four seconds* uses and the zero of *eleven weeks* in ch 179–238 ·
+  that `outline/volume-05.md` still names ch 267, not ch 280, for the surface answer, and day 471 as the
+  volume's first day.
