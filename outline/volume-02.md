@@ -539,7 +539,7 @@ and none of them is another hall.
 - *The shape of a happy life* is spent until Volume 16, by Ning Wu. Ning Yan never says her
   mother's name. Yuan never tells her what he was before he died before Volume 11, and does
   not learn she saw him as a readout before Volume 11 either.
-- No harem. Nothing in Volume 2 is a romance. Wei Ran does not appear before Volume 3.
+- No harem. Nothing in Volume 2 is a romance. Wei Ran does not appear before Volume 4.
 - Do not re-explain known principles: the four seconds, the release rule, tax-takes-order,
   layer-is-editable, damage-as-technique, the eleven designations, or the bounty. Watch the
   spent constructions listed in `state/continuity.md`.

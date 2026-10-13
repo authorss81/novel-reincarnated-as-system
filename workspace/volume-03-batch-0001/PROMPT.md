@@ -40,8 +40,10 @@ In the same shape `outline/batches/volume-02-batch-0009.md` took, write to
 
 - Batch goal, chapter range, starting condition read off the audited state files (not invented),
   starting relationships.
-- Batch midpoint (the Hunter's first purchase and being right about the hole) and batch climax (the
-  relicensing granted at ch 132).
+- Batch midpoint (the Hunter's first purchase at ch 126 and being right about the hole) and batch
+  climax (the relicensing granted at ch 132). These are not adjacent: the midpoint is six chapters
+  before the climax and the cards must show the purchase causing the relicensing, not sitting beside
+  it.
 - Required character changes, required power changes, required world reveals, open questions after
   the batch.
 - An action-and-deadline requirement (at least one scene of physical risk or a real deadline — here
@@ -59,9 +61,18 @@ In the same shape `outline/batches/volume-02-batch-0009.md` took, write to
   right hand open a third of the time, Settlement a little under three-quarters and about six weeks,
   Feng's lamp burning, stranger at the first desk asking what a schedule is.
 - **No stage above five in this batch.** Condensing 5 throughout; 5 → 6 is ch 135 in Batch 0002.
-  Relicensing (ch 131–132) lifts the ceiling; nothing climbs before the paper does. No tribulation.
+  Relicensing (ch 130–132) lifts the ceiling; nothing climbs before the paper does. No tribulation.
+- **The Hunter's first purchase is the batch midpoint, at ch 126** — not a ch 131 beat. A certified
+  copy of her schedule, coin on open wood, receipt kept, and he reads the hole (one, two, three,
+  five) and says in daylight that the next stage must be announced or the paper fails its own terms.
+  He is right. It is what puts the relicensing in motion, so it must land well before ch 130.
+- **The relicensing legs run clearance → seal → countersignature (ch 130, 131, 132), inverted from
+  Volume 2 on purpose.** Do not tidy them back to the Volume 2 order; `outline/volume-03.md` gives
+  the sponsors' motive for the inversion and a drafter who "corrects" it destroys the cause.
 - **Bai Zhu is not named in this batch.** The stranger buys nothing until the certified copy, gives
-  his name to nobody, tells carriers he is not from the Bureau. Naming is ch 152 per the outline.
+  his name to nobody, tells carriers he is not from the Bureau. He is first named at **ch 150, on the
+  entered refusal**, per `outline/volume-03.md` — not at 152 and not on the handover paper, which
+  carries no agent's name.
 - **Ledger is not taken in this batch.** The break is ch 149. Price paid, never restated, never
   anticipated on the page.
 - **Feng is not audited in this batch.** The audit is ch 136–140. The Lung is not offered here.

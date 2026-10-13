@@ -67,7 +67,7 @@ The intelligence above Yuan, and by its own account the reason the walls exist. 
 
 **Feng Lushi** — Keeper of the Lantern-Register at Lowwater. A mortal clerk with a consumptive cough, twenty-two years of writing down announcements. He is the only person in Volume 1 who believes her. He writes it down. In Volume 3 he takes a Lung offered by the Bureau and she has to deal with the man who believed her. He survives that. He dies in Volume 11 taking a Lung and writing down what he saw, and the writing is what gets her through the Wall.
 
-**Wei Ran** — nineteen when she appears in Volume 3, mortal-born, ascends improperly, the first person Ning Yan meets who went through without permission. The slow-burn line begins in Volume 4 when she is twenty. Goes off page.
+**Wei Ran** — twenty when she appears in Volume 4, mortal-born, ascends improperly, the first person Ning Yan meets who went through without permission. The slow-burn line begins there and goes off page. **She does not appear in Volumes 1, 2 or 3 at all.** `outline/series.md` §7 fixes the line at Volume 4 at the earliest and she is twenty there; `outline/volume-03.md` carries the same rule in its hard rules. The earlier version of this file said she appeared in Volume 3 at nineteen, which contradicted both — Volume 3 is the Hunter and has no room for her.
 
 **Wen the Lamp-mender** — of the Lantern order. One genuinely surprising encounter per appearance. Carries people across the Verge for reasons she does not give.
 

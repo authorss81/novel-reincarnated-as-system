@@ -135,8 +135,8 @@ This turns the volume from *survive examination* into *survive hunting*.
 
 ## The relicensing — decided here
 
-Both structural questions gathered in `state/current.md` are decided in this outline and nowhere
-else.
+Both structural questions gathered in `state/current.md` (section *Volume 3 — the two open
+structural questions*) are decided in this outline and nowhere else.
 
 **Route: through the sponsors, put in front of her by the Hunter.** She does not ask for it. Bai
 Zhu, needing a subject he can lawfully examine past stage five, tells Sun He that a licensee capped
@@ -149,7 +149,14 @@ a book opened.
 **The three legs, second time down:** the sponsors' seal (Lu Kang, Deng Chao, Pei An, all three on
 the same sheet, ch 131); a second quota clearance from Shen Xiu's office (the annex hours level
 with the asked figure at the close of the season, ch 130); the county countersignature (Sun He,
-ch 132). The hours record is continuous from the same origin date as the first — the day the tithe
+ch 132). **The order is inverted from Volume 2 on purpose and must not be tidied back.** Volume 2
+ran seal → clearance → countersignature. Here the clearance comes first because Shen Xiu's annex
+figure has to be level before three men will put a seal on a ceiling above five: a member they
+cannot account for in the winter book is the exact liability they have spent two volumes refusing
+to create, and they know it because ch 69 put her hours in front of them. The seal then has
+something to seal (ch 131), and Sun He has a document worth his stamp (ch 132). **A drafter who
+"corrects" this order destroys the sponsors' motive and moves the Hunter's ch 126 purchase out of
+causation.** The hours record is continuous from the same origin date as the first — the day the tithe
 book opened — because ch 115 reads that requirement aloud and it holds for every application after
 it. The paid-work hours outside the crew are annexed to the furnace schedule and certified by the
 same Hall clerk under Lu Kang's stamp, which is why condition two can be amended without breaking
@@ -257,17 +264,20 @@ book has said so, and the last time it needs to.
 He is patient and he does not lie. A patient professional is only frightening if the reader can see
 his calendar. His reads:
 
-- **Weeks 1–4 (ch 119–130).** At the first desk twice a week, market days, buys nothing. Asks what
+- **Weeks 1–3 (ch 119–125).** At the first desk twice a week, market days, buys nothing. Asks what
   a furnace schedule is until a carrier's girl tells him it is a sheet. Reads public announcements
   only. **Refuses:** force, payment for bodies, the tower stair uninvited, meeting Hou Sanliang,
   entering the quarters. **Waiting for:** the first quarterly return.
-- **Week 5 (ch 131–133).** Pays for the first thing in the volume: a certified copy of her schedule
+- **Week 4 (ch 126).** Pays for the first thing in the volume: a certified copy of her schedule
   at the county office, coin on open wood, receipt kept. Reads the hole (one, two, three, five) and
   says so to Sun He's clerk, in daylight: the next stage must be announced or the paper fails its
   own terms. **He is right.** The reader has seen Sun He's ruling and knows the county reads absence;
   the reader also knows the Warden's office is a different reader, and nothing stops the second
-  reading.
-- **Weeks 6–10 (ch 134–147).** Takes a room in Lowwater under a clerk's misspelling of a name that
+  reading. **This is the batch 0001 midpoint** — it lands two thirds of the way through ch 119–132
+  and it is the thing that puts the relicensing in motion. It is not a ch 131 beat: the purchase,
+  being right about the hole, and the sponsors being told are one causal run, and the relicensing
+  cannot begin until the man who made it available has gone back to his room.
+- **Weeks 5–10 (ch 127–147).** Takes a room in Lowwater under a clerk's misspelling of a name that
   is not his. Serves Feng a lawful request for the stair's paper upward — which is what audits the
   tower, because a lawful request is answered in writing. Offers Feng the Lung after the audit finds
   the four copies: a Listener's appointment, a living wage, oil for the cough. Mercy with a hook.
@@ -323,7 +333,11 @@ over**. The shape of the decision:
   term, in public, for something specific.
 - **Ch 150.** She opens the paper, hears it read, asks the two questions a competent person asks of
   a mercy (who pays, and what happens to the thing in my head), gets true answers, and refuses it
-  aloud. She signs the refusal. The refusal is entered. The non-forgiveness holds through both
+  aloud. She signs the refusal. The refusal is entered. **The paper carries no agent's name** — it
+  is signed by the Warden's office — and the clerk who enters the refusal writes in the name of the
+  agent who laid it, which is how the stranger at the first desk is named in this chapter and not
+  one chapter later on a document he never signs. **Nothing after this chapter can unwrite it:** he
+  was never a rumour again. The non-forgiveness holds through both
   chapters — she does not thank Yuan for the reading and does not forgive him for the price of it.
 
 ## Volume climax (ch 169–175)
@@ -428,8 +442,11 @@ volume's irreversible decision is ch 150 and belongs to batch 0003; no batch res
    day); thereafter hers to order, his to hold only on her word. Settlement past nine-tenths, about
    ten days.
 10. The year of non-forgiveness still running into the opening of Volume 4.
-11. Bai Zhu named at ch 152 on the handover paper, never before; the Hunter referred the dismantling
-    upward for want of a Wall writ.
+11. Bai Zhu **first named at ch 150, on the entered refusal, and never before**. The handover paper
+    is signed by the Warden's office and carries **no agent's name**; the clerk who enters her
+    refusal in the Warden's book writes the name of the agent who laid the paper, and that is the
+    first time the stranger at the first desk is anything but a stranger. He is named at 150 and not
+    later on the paper. The Hunter referred the dismantling upward for want of a Wall writ.
 
 ## Hard rules for drafters (restated once, not twice)
 
