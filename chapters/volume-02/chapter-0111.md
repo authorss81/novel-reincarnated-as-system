@@ -10,7 +10,7 @@ It is a strange thing to watch a word come out of your own record.
 
 She had thought for eleven weeks that she was carrying a piece of paper that a clerk in a bad hat had written out of a book six hundred years old into the one place in nine counties where it had been set down in a second position where nobody reads, and she had been carrying it the way a woman carries a stone in a shoe: not comfortably, and not without knowing it was there.
 
-Now it was out of the sheet, and out of the tower's four copies, and out of the shelf, and the county sheet of her advancement of the fourteenth day of the thaw read exactly like the county sheet of any other advancement in this bound.
+Now it was out of the sheet, and out of the tower's four copies, and out of the shelf, and the county sheet of her advancement read exactly like the county sheet of any other advancement in this bound.
 
 Nothing in it was false. That was the part she could not get round. Every mark on that sheet was still true — her county, her stage, her advancement, her hours. And the second position was blank, and it had not been blank at any time before the second hour of this afternoon, and the office that had put a word there had gone on using it in the ordinary course for three months and had now been instructed by somebody outside the bound to take it back out.
 
@@ -66,7 +66,7 @@ She wrote it in the docket in the lining, in the wash code, on the back of the l
 
 And then, because the log was in the lining and the wash code was in the log and the log had been a laundry ledger's back pages for a year and she had been so careful about what went into it for so long that she had forgotten what it was for, she stood in the middle of a county ante-room at the second hour and wrote a line of plain text, without code, at the foot of the docket.
 
-*A word six hundred years old is gone out of the only paper that had it and two people I did not ask are holding what is left of it. I have it in my head. I am not writing it down again.*
+*A word six hundred years old is gone out of the only paper that had it and a man I did not ask is holding what is left of it. I have it in my head. I am not writing it down again.*
 
 Then she put the docket away, because a thing written in plain is a thing that can be read by anyone who ever handles her coat, and there are four hundred people in Lowwater who handle coats.
 
@@ -78,7 +78,7 @@ There were four county hand-copies and three of them had never carried it, and t
 
 The striking looked like nothing. That was the thing about it she had not been ready for. A line through one cell in a second position reads as a clerk tidying a sheet, and there are a hundred thousand sheets in this bound with a line through one cell in them, and not one of them means what this one means.
 
-Four hundred years. Eleven entries. Eleven status words. And now one of them was a fair sheet in a tower with a dry line through it, and the six hundred years were still in the volumes on the high shelf, which nobody goes up to, because the request had said *wherever it is copied* and not *wherever it is bound*.
+Six hundred years. Eleven entries. Eleven status words. And now one of them was a fair sheet in a tower with a dry line through it, and the whole of them were still in the volumes on the high shelf, which nobody goes up to, because the request had said *wherever it is copied* and not *wherever it is bound*.
 
 She stood in front of the shelf and worked out whether the volumes counted.
 
@@ -88,7 +88,7 @@ That was the whole of what the door closed on. Not a silence. A shelf.
 
 The square was outside in the rain that had started at noon and gone on all afternoon, the three desks shuttered, the counting lane barred, the tower lamp already going in the middle of the day with the old man coughing on three floors.
 
-She went up the lane and past the two men on the wall, who got up out of the way of the boards she was carrying and said good afternoon, in the way of two men who have been sitting on a wall for a fortnight and have made no arrangement with anybody at all.
+She went up the lane and past the two men on the wall, who got up out of the way of the boards she was carrying and said good afternoon, in the way of two men who have been sitting on a wall for six weeks and have made no arrangement with anybody at all.
 
 Four days up and four days down, and she had known since Tuesday at the wash house, and she had been at the wash house for no reason she had given anybody.
 

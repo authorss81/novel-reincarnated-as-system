@@ -36,7 +36,7 @@ She got up off the mat at Lowwater. She went down four days of road past a barri
 
 She went down four days of road again and stood in a queue in the wet and had a piece of paper stamped. And then she carried it up four days of road and nailed it over her own bunk at a slant.
 
-Ten men slept in that room. Twelve bunks. Nine on the crew and one on the settling floor and her.
+Ten slept in that room. Twelve bunks. Nine men on the crew and her on the settling floor.
 
 A licence nailed over a bunk is not a reward and there is nothing in the arrangement that will make it one. She had bought it with a dead man's name and her own defect in her own hand and three hundred and eleven hours of a furnace's schedule, and she had put it in the only place she had ever lived in that was hers, which was over her own head.
 
@@ -54,7 +54,7 @@ Yuan answered, because that is what he does.
 
 She lay with it. Six weeks. Two months and a half of the channel, and it did not go up while she lay there and it did not come down either, and it was the only number in the year that had behaved itself.
 
-She did the arithmetic against the calendar, lying still, with the wood of the bunk frame behind her head and ten men breathing in a room that had held twelve.
+She did the arithmetic against the calendar, lying still, with the wood of the bunk frame behind her head and nine men breathing in a room that had held twelve.
 
 Five weeks to the quarter's return. Five weeks to a crate that goes up the stair and down the road and into a county office where a registrar reads what comes in the crate in the order the crate is stacked.
 
@@ -110,7 +110,7 @@ There was a long silence in a coal-smelling room with ten sleepers in it.
 
 “They do not change,” said Ning Yan. “They are the ones I have checked most often.”
 
-She lay on the coat with the lamp at the foot of the stair going down and the paper going soft over her feet and her brother's name in four registers reading *reconciled*, and eleven hundred yards away down the mountain the tower was lit and a fair hand was copying upward a bundle that went at the quarter.
+She lay on the coat with the lamp at the foot of the stair going down and the paper going soft over her feet and her brother's name in four registers reading *reconciled*, and four miles down the mountain the tower was lit and a fair hand was copying upward a bundle that went at the quarter.
 
 ## The Sheet
 

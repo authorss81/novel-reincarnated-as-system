@@ -84,10 +84,10 @@ The crew came down at the ninth hour and worked around her and worked the cold e
 
 She held the wall on the cold end with the left hand flat on cold brick and let the channel run the way it had run without asking her since the second of the month, and the crack sat open as a mouth and did work and paid at the rim, and she let it, because the filing wanted the hours and the hours were all she had.
 
-Then she went up the stair and lay on the mat in the second bunk of the quarters with ten men breathing round her, and the arm lay out to the side because it did that, and she put the filing copy out of the lining and looked at the stage column of it in the lamplight.
+Then she went up the stair and lay on the mat in the second bunk of the quarters with nine men breathing round her, and the arm lay out to the side because it did that, and she put the filing copy out of the lining and looked at the stage column of it in the lamplight.
 
 One. Two. Three.
 
-And then a space, the width of two ruled lines, where the fourth was not, and would not be, and could not be put in now by anybody including her, because a county that has entered a striking on a sheet at the second hour this morning does not take a line back before the quarter at the earliest, and she had known that when she said it in the mud, and she had said it anyway.
+And then a space, the width of two ruled lines, where the fourth was not, and would not be, and could not be put in now by anybody including her, because a county that has struck a line on a sheet does not take the line back before the quarter at the earliest, and she had known that when she said it in the mud, and she had said it anyway.
 
 Six weeks from the last day of the thaw for the return, and the road open to carts before the ninth hour and shut by the eleventh, and four days up and four days down.

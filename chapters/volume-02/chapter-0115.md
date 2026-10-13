@@ -42,7 +42,7 @@ Ning Yan watched him read it. She had been waiting eleven weeks for a man to sto
 
 “And then five.”
 
-“It reads one, two, three, and then five,” said Ning Yan. “I reached the fourth stage on the twelfth day after the burial and it was not announced. It is not on the county sheet. It is not on the tower's copies. It is not in any book in nine counties, and it cannot be put in one now, because this office entered a striking on this sheet at the second hour this morning and a county does not take a line back off a struck sheet before the quarter.”
+“It reads one, two, three, and then five,” said Ning Yan. “I reached the fourth stage on the twelfth day after the burial and it was not announced. It is not on the county sheet. It is not on the tower's copies. It is not in any book in nine counties, and it cannot be put in one now, because this office struck this sheet at the second hour and entered the striking, and a county does not take a line back off a struck sheet before the quarter.”
 
 She said it without stopping, because it had been in her for eleven days and she had walked it through four hundred times and there was not one part of it she was going to soften in front of a clerk.
 
@@ -184,8 +184,8 @@ They went out into the rain on the square together and the queue went past them 
 
 The market was shutting. The three desks had their boards in and the second desk had a coin on the wood that was a day old, and the counting lane was barred, and out over the roofs of Lowwater there was nothing to see and nothing to hear.
 
-No man on any square in nine counties was saying anything about the ceiling of the most famous woman in the bound. An announcement is audible inside the bound, and Lowwater is inside the bound, and she had heard it four months ago, and it had cost her eight years on her father's column.
+No man on any square in nine counties was saying anything about the ceiling of the most famous woman in the bound. An announcement is audible inside the bound, and Lowwater is inside the bound, and she had heard it in the winter, and it had cost her eight years on her father's column.
 
-She had been told her own number in a market in the middle of the spring, and it had told a man with a good coat where she stood, and eight weeks ago two men had sat on a wall and bought nothing.
+She had been told her own number in a market in the middle of the ash fall, and it had told a man with a good coat where she stood, and five weeks ago two men had sat on a wall and bought nothing.
 
-The claim was on the licence. It was in the fourth condition from the bottom and it was in the county's own hand and it was going up the quarter with the crate and down to nine counties with everything else, and a man with a counting room had just been handed, by a registrar doing his duty, the one page he had come four hundred miles down the road to buy.
+The claim was on the licence. It was the sixth condition and the last thing on the paper and it was in the county's own hand and it was going up the quarter with the crate and down to nine counties with everything else, and a man with a counting room had just been handed, by a registrar doing his duty, the one page he had come four hundred miles down the road to buy.

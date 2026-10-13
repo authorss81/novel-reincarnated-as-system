@@ -187,7 +187,79 @@ Yuan (was Yuan Sheng), Ning Yan, Ning Xue, Ning Bo, Ning Wu, Qiu Zhulang, Bai Zh
 - **Titles 89–103:** The Filing Copy, The Man Who Pays for Writing, Four Weeks of Stone, Where She Sleeps, The Safe Side, Eleven Bodies, What Walks Behind Coin, Kiln-Born, A Word With Nobody, The Cheap Door, Five Days of Margin, What Being Chosen Costs, The Listed Kill, Feng Holding the Lamp, Four Causes. All unique against 1–88.
 - **Repaired against `logs/volume-02-batch-0008.review.log`:** 12,176 → **22,269 words**, ~1,483/chapter, floor 1,300. The byte-identical mat/shutter sentence (89/99) removed and the 13-of-15 mat closer broken up. `one word with nobody to hold it` cut to one use (97, the chapter it names). `I touch nothing` cut to one use (90). `I am with you / I am here` cut to four (93 ×2, 97, 99, 101). All authorial scaffolding out of the batch and out of `volume-01/chapter-0019.md` and `chapter-0024.md`. **No title, no chapter order, no card beat, no bracket and no ending changed.**
 
-## Established facts, batch 0009 (ch 104–118) — GRIEF AND THE GRANT. VOLUME 2 CLOSED.
+## Established facts, batch 0009 (ch 104–118) — GRIEF AND THE GRANT. VOLUME 2 CLOSED AND AUDITED.
+
+**Volume 2 close audit — `outline/volume-02.md` walked line by line against the manuscript. PASS
+on every named item except the fifteen faults repaired below. Full table and repair note in
+`state/current.md` under `## Volume 2 close audit`. No title, chapter order, card beat, bracket or
+ending moved. No canon change resulted: every repair moves a figure back onto an existing canonical
+fact.**
+
+### Repaired at the Volume 2 close (word-level; post-repair 28,234 words over 15 chapters)
+
+- **The quarters' head count — five places, ch 113, 114, 117, 118.** The batch had drifted to *ten
+  men* in a room that canon fixes as **nine men and her = ten sleepers** (ch 73: *Nine men. Ten
+  sleepers.*). Ch 118's version explicitly enumerated eleven (*Nine on the crew and one on the
+  settling floor and her*) and ch 117 already said *nine men* three other times. **Fixed to *ten
+  sleepers* / *nine men breathing* throughout. This is the outline's final image (*ten sleepers
+  instead of twelve*) and it now reads true everywhere it appears.**
+- **The claim's position on the licence — ch 115, 116.** Called *the fourth condition from the
+  bottom* and *four lines from the bottom* three times. **It is the sixth condition and the last
+  thing on the paper.** Fixed.
+- **The four-century slip — ch 111.** *Four hundred years. Eleven entries.* against six hundred years,
+  fixed at ch 57 and restated at 93, 96, 97, 110, 111, 117. **Ch 96's *the last entry was four
+  hundred years back* is a different fact (the gap since the previous designation) and stands;
+  ch 110's *a thing four hundred years old* refers to the same gap and stands.**
+- **Head count of the word *kiln-born* — ch 111.** The plain-text log line made it three heads.
+  **It is two** (hers and Yuan's, fixed at ch 110 and ch 117); Feng holds a struck shape and no word.
+- **A striking that had not happened yet — ch 113 and ch 115.** Both said the county entered the
+  striking *at the second hour this morning*, which is days earlier and four miles away, and in ch 115
+  it is the stated reason the fourth stage can never be entered. Rewritten without the false morning.
+- **Date clash — ch 111 vs ch 112.** Ch 111 was dated the fourteenth day of the thaw, the same day
+  ch 112 puts on the mountain at the other end of a four-mile road. Ch 111's date removed.
+- **Weather — ch 114.** *in the snow of a market day*, in a chapter confirmed four times over as
+  rain. Fixed.
+- **Elapsed time to the tower-foot road — ch 114, 116.** *a month ago* ×3, against a ch 106 → ch 115
+  span fixed at six weeks by ch 115's *eleven weeks* and ch 116's *six weeks ago*. Now *two months
+  ago*. Ch 106's own *a month ago* stands (three weeks).
+- **Elapsed time to the ch 53 announcement — ch 115.** *four months ago* and *in the middle of the
+  spring*, both wrong by ~24 weeks and by season; the announcement is in the ash fall, in the winter.
+  Now *she had heard it in the winter* and *in a market in the middle of the ash fall*.
+- **Residence — ch 116.** *eleven months* in the tower; it is about three.
+- **Distance — ch 118.** *eleven hundred yards away down the mountain* against a four-mile road stated
+  twice in the same chapter. Now *four miles down the mountain*.
+- **How long the two men have been on the wall — ch 111.** *a fortnight* → *six weeks*.
+
+### Audited and confirmed (load-bearing for Volume 3)
+
+- **Legs and filings.** Three legs: sponsors' seal **ch 62**, quota clearance **ch 86**, county
+  countersignature **ch 115**. Refused twice (ch 70 for want of clearance, ch 88 for want of standing)
+  and granted once. **She files once and only once per want** — ch 65 states it in the negative
+  (*She did not file anything*) and it holds: two filings in sixty chapters, and the ch 88 pending
+  filing is signed in the same hour she is refused.
+- **The irreversible decision is hers at ch 88 and is paid at ch 115, not restated.** Sun He: *I
+  cannot restore it to you. You have not asked me to, and I would not have done it if you had.* Her
+  answer: *I would not have wanted it done.*
+- **Yuan's present tense governs his self-reference.** Present throughout 104–118. Statements about
+  completed **third-person** events (the bodies in the ground, the eleven, the announcement in the
+  winter) keep the past tense — the ch 57 convention, where he says *I have been inside the
+  designation for six years and for five of them there was nothing there.* No other character is
+  written in a marked present frame.
+- **One bracketed line in the closing batch, ch 114.** Ch 104 has none at all. No tribulation anywhere
+  in Volume 2.
+- **Ledger.** Ch 80 was the only holding; **not retaken anywhere in 104–118.** Ch 118 puts it into a
+  standing term she wrote four chapters before Volume 3 opens: *No Ledger, and there is no version of
+  the rest of the winter where there is Ledger, and I do not care what it is worth.* **Any move to
+  Ledger in Volume 3 is her breaking her own written term, and the price is ~4½ weeks of a channel
+  that stands at ~6.**
+- **Non-forgiveness runs.** Stated on the page at ch 106, 114, 116 (*Not yet. Not for a long time*)
+  and 118, where the refusal to ask him to stop is given a reason that is hers alone: *I have not
+  been inside myself once this year without finding you at the bottom of it, and I am not going to
+  spend the last of it on a thing that is only mine.* The year still runs into Volume 4.
+- **The volume's own span.** The plan called it four months; the manuscript ran to about five and a
+  half, from the sixth of December to the last day of the thaw, closing in the first week of summer.
+  **The page reconciles with itself** (ch 115's *eleven weeks* against ch 116's *six weeks ago*;
+  ch 114's *six weeks to the return* against ch 118's *five weeks*). Recorded, not repaired.
 
 - **Two stages only, one silent and one announced.** **Condensing 3 → 4 at ch 104, SUPPRESSED at her order, no bracketed line in that chapter at all.** Begun in the body ten days after the burial, trained on the Verge flats in thaw mud, one four-pound stone carried thirty yards all day. **He asks first and asks properly** — third term honoured in the correct order, three days held, both choices and both costs laid out, no recommendation — and says plainly that he **cannot know** whether a hole in the chain breaks the filing. Cost: the stage reaches no county book in nine counties, and the county sheet reads one, two, three, then five; **she stops eating for nine days and he cannot make her eat and cannot say why in any way that helps.** **Condensing 4 → 5 at ch 114, ANNOUNCED at her order.** Three weeks under the filing, working the cold end of the furnace floor at Qinghe with nine men two hundred yards off. **First time she is glad of the noise**, because the noise is the record. Cost: the announcement tells nine counties where she is before the ink is dry on her own signature. **No tribulation. No trial. No second Merit source. No Ledger retake.** Arm still at a third throughout.
 - **Ch 114 announcement wording, fixed and never to be repeated:** *Assembly Hall of Qinghe. Ning Yan of the Qinghe furnace crew, servant-born, entered on the furnace schedule of this Hall. Nothing further is let go. Condensing, stage five, at Qinghe is held.* Four-clause order; not ch 53, ch 78 or ch 92. **The third clause carries the ceiling** — the layer reports, and what it reports is that nothing further is let go.
@@ -197,10 +269,11 @@ Yuan (was Yuan Sheng), Ning Yan, Ning Xue, Ning Bo, Ning Wu, Qiu Zhulang, Bai Zh
 - **Ch 110 — the sealed slip.** Ordinary county stationery with nothing above the county mark, sealed with a grey wafer, came up in the quarter's crate to the **copying floor**, not to the county office. It carries **a request from outside the bound that the term standing in the second position of the status column be struck wherever it is copied within the tower and within the county sheet of the applicant's advancement**, and it identifies the term **by its position and not by its characters**, with an instruction to copy the shape of it, not read it. **The office attached has a name and Yuan cannot read it — the fourth time he has said so, and this time in front of a witness.** Feng states the order of his own three sentences, copies the **shape** of the characters without reading them, strikes the four walled county copies, his working sheet and the shelf copy, and keeps the shape. **She does not ask him to recognise the hand and he recognises nothing; the hand is an ordinary Lowwater county hand and gives Yuan nothing at all. The slip must NOT wear the unrecognised Bureau hand from ch 36.** The **volumes** on the high shelf are not copies, are not struck, and nobody is going to climb four flights to find out. **Nothing answers what became of the eleven.** *Kiln-born* now in **two heads and no paper** — hers and Yuan's. Feng holds a struck shape, not a word. **Column stays at five. Set-aside/unreadable office is spent here.**
 - **Ch 113 — the sponsors.** **Lu Kang certifies the furnace schedule in silence**: reads the whole of it, does not look at the nine households, takes the Hall's stamp off the wall and stamps it himself, says nothing. She says to his face that the Foundation writ died on the county sheet the hour she signed the ceiling; Pei An's answer is that it has not been revoked, Lu Kang's is that it has no road left to anywhere. **She does not thank him.** All three remain silent on the dead writ into Volume 3.
 - **Ch 117 — Feng's one line.** At the back of a fair volume off the warm shelf: *stage five, at Qinghe, announced; witnessed a countersignature at the county office at Lowwater; copy of the announcement struck under request from without the bound; entered upward with the quarter, entered here, not entered in the column.* **The column stays at five. No audit. No Lung.** He witnesses at ch 115 for four hours, **reads nothing**, writes one line with nothing in it that could be carried upward, and says afterwards that it was like copying.
+- **Relicensing, as the manuscript now holds it (audited; gathered for Volume 3, not decided).** A relicensing is **a second application down the same three legs** — sponsors' seal, quota clearance, county countersignature — and it would carry a **continuous hours record from the same origin date as the first**, because ch 115 reads that requirement aloud when it turns the pending filing into a licence. It restores nothing: not the aperture (condition five), not the defect line, not a surety, not a road. What it buys is a **ceiling in her own hand**, which is the same act at ch 88 that killed the sponsors' Foundation writ — and the writ is dead, not revoked (ch 113). **The claim is on the licence as condition six, and Sun He's ch 115 precedent is that a claim in a county book cannot be unlisted by a man stamping a different document and that he is required to enter it** — so a relicensed licence is a licence the claim is re-entered on. Condition two (hours on the Qinghe furnace schedule only) and condition one (every county hour, in person, in her own hand, no surety) are both what make her safe and both are what a relicensing would strain. **Full material in `state/current.md` under `## Volume 3 — the two open structural questions`.**
 - **Ch 118 — the Hunter.** A sheet in Feng's fair hand comes down with the crate: a **second cough in the tower stairwell that is not his**, a man at the first desk in the market twice a week who **buys nothing**, **gives his name to nobody**, and **tells the carriers he is not from the Bureau**. **He is unnamed. Bai Zhu is NOT named in Volume 2.**
 - **Other chapter-0009 facts.** The **surety's real function** is named once, at ch 106: he was in the room *so that a day could be a day*; with him dead, a missed county hour is a gap and a gap breaks a filing. The **good coat tries the sixth column** at ch 108, is told the fifth is not it and the sixth is, and leaves; at ch 116 he **puts a coin on a shut desk, picks it up, and goes home**. **The girl of twenty-four stays alive** and is at the wash house through ch 109; her hours are four paid out of six, charged to the eighth estate, and she enters the county's schedule request on the quarter's return sheet **on her own hour** (ch 109). Crew **nine**, quarters **ten**, all four days the road. **The intake line stays at the ninth hour; no audit of the change.** The Hall **still has no roof** and the rain goes through it onto the furnace floor schedule in four places (ch 113, 118). **The name in the wrong order is NOT resolved** — the Hall clerk states at ch 118 that he has no other version and no corrected sheet has ever been brought.
 - **Titles 104–118:** The Ash-Flats, Nine Days Unfed, Stands to Me, The Quiet Lane, Stone and Paper, The Safest Thing Here, The Sealed Slip, Struck Wherever Copied, Nine Men, The Roofless Hall, Glad of the Noise, Countersignature, The Conditions, Nailed Above the Second Bunk, A Second Cough. All unique against 1–103.
-- **Chapter length:** 28,236 words over 15 chapters, average ~1,882. Guide 1,800–2,700 met; nothing under the 1,300 floor. No trade-off recorded.
+- **Chapter length:** 28,234 words over 15 chapters, average ~1,882. Guide 1,800–2,700 met; nothing under the 1,300 floor. No trade-off recorded. **Word count is post-volume-close-repair.**
 
 ## Volume 2 running ledger
 
@@ -214,7 +287,7 @@ Yuan (was Yuan Sheng), Ning Yan, Ning Xue, Ning Bo, Ning Wu, Qiu Zhulang, Bai Zh
 | Settlement | **a little under three-quarters, about six weeks (ch 118).** ~17 (ch 58) → ~6½ (ch 80) → ~five days (ch 100) → ~11 (ch 101) → **~6 (ch 118)**. Ledger refused permanently at ch 80 |
 | Bounty | **800 jin, standing, unclaimed, proof failed on the body.** **Now entered on the licence as condition six and travelling with it.** Two men on a wall, unhurried. **A stranger at the first desk in Lowwater, unnamed, buying nothing, giving his name to nobody (ch 118)** |
 | Surety | **void. Debt stands to her, written in the county book at ch 103.** No surety may stand for her again without relicensing (ch 106, ch 115) |
-| Crew | **nine men; quarters sleep ten.** Cao Lei and Xu An dead day 21; Du Hong dead day 121, buried day 122 |
+| Crew | **nine men; quarters sleep ten.** Cao Lei and Xu An dead day 21; Du Hong dead day 121, buried day 122. **Audited: the closing batch said "ten men" in five places and is repaired to "ten sleepers" / "nine men breathing" — the count is nine men and her, in twelve bunks, and must not be written as ten men.** |
 | *Kiln-born* | **struck from every copy inside the bound at ch 110–111 on request from outside it.** Two heads, no paper. The office name still unreadable. **The volumes on the high shelf are not struck** |
 | Feng Lushi | alive, coughing, column at **five**, unaudited, **no Lung offered**. One fair line at the back of a fair volume, not entered in the column |
 | Sponsors | hold a Foundation writ that the licence killed at ch 88; **Lu Kang certified the schedule in silence at ch 113**; all three silent |

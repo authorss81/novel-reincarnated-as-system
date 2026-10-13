@@ -12,7 +12,7 @@ The crack opened the whole way down, the whole length of the left ribs, cold and
 
 It was the heat of a body being let go of something it had been holding since a Thursday in the autumn. It came up through the floor plates and put a smell out of the settling floor that four men on the far end of the room looked up at.
 
-The whole channel went at once. She felt it go the way she had felt the channel tear on a road at the foot of a tower a month ago, except that this time it went where it was supposed to go, and the mouth of it was the ceiling she had signed for herself in her own hand in a county office, and for one breath she could feel the paper on the top of the fifth stage the way a man feels a roof.
+The whole channel went at once. She felt it go the way she had felt the channel tear on a road at the foot of a tower two months ago, except that this time it went where it was supposed to go, and the mouth of it was the ceiling she had signed for herself in her own hand in a county office, and for one breath she could feel the paper on the top of the fifth stage the way a man feels a roof.
 
 She came back into herself on the floor with her cheek on cold brick and both hands out flat and the breath in her at two counts.
 
@@ -54,7 +54,7 @@ She had held a stage back for eleven days so that a market would not price her o
 
 This was the other half of the choice, and it cost the other thing.
 
-“Let me be plain with you,” said Yuan, “because you are going to want to know what it bought and I am not going to let you find out later. There are nine counties and a tower four miles down the road and a county office on a square with a clerk at the side of it who has your mark on two documents. That sentence has just told all of it where you are standing, tonight, in the snow of a market day.”
+“Let me be plain with you,” said Yuan, “because you are going to want to know what it bought and I am not going to let you find out later. There are nine counties and a tower four miles down the road and a county office on a square with a clerk at the side of it who has your mark on two documents. That sentence has just told all of it where you are standing, tonight, in the rain of a market day.”
 
 “I know,” said Ning Yan. “I told you to say it. That is the fourth thing I have done this year that I cannot get back, and it is the first one I have been glad of.”
 
@@ -84,6 +84,6 @@ At the top of the stair in the dark she stopped, for the length of four counts, 
 
 “You are not pretending,” said Yuan. “You are standing in the dark on nine stairs being glad, and I can hear it, and it is the loudest thing you have said to me since the ninth step.”
 
-She went to her bunk. Ten men in twelve bunks and a lamp going at the foot of the stair and a licence that did not exist yet, and the fourth stage a hole in her record that nobody on earth could ever fill, and above her the roof of the Hall four hundred yards off with rain going through it onto a floor with nothing on it.
+She went to her bunk. Ten sleepers in twelve bunks and a lamp going at the foot of the stair and a licence that did not exist yet, and the fourth stage a hole in her record that nobody on earth could ever fill, and above her the roof of the Hall four hundred yards off with rain going through it onto a floor with nothing on it.
 
 Six weeks to the return. Four days down. The channel under about three-quarters and thinning by ordinary use, and there was nothing in the layer tonight that had cost her anything except that she had told the truth out loud, twice, in the dark, to a man who cannot be thanked and cannot be forgiven and cannot be told to stop.

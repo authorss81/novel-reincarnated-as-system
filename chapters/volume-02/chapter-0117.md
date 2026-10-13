@@ -4,7 +4,7 @@ The second bunk in the crew quarters had a board over it four feet long and the 
 
 It went up crooked and it stayed crooked. It was four feet of oilcloth-backed paper with a county stamp on it and six conditions written on the back and it was the first thing any of them had seen on a wall in that room in three years, which was the tithe-sheet a woman had entered into the cover of a book in the winter and nobody had looked at that either.
 
-Ten men slept in twelve bunks. Nine of them worked the furnace and one of them did not, and the tenth was on the settling floor that week and had been for a month because the floor was short again, and nobody had any idea that this was connected to anything.
+Ten slept in twelve bunks. Nine of them worked the furnace and the tenth did not, and she had been on the settling floor that week and for a month before it because the floor was short again, and nobody had any idea that this was connected to anything.
 
 The crew came in at the second night hour and stopped.
 
@@ -32,7 +32,7 @@ The foreman did not move out of the doorway.
 
 “No,” said Ning Yan. “I am not asking and nobody here is going to and we can all stop standing about it.”
 
-She got up into the bunk. The lamp was at the foot of the stair and ten men breathed in a room that had been twelve three winters ago, and the quarters had not had a roof issue and had not had a beam issue and had had two funerals and a killing, and the boards over the bunks were the only thing in the room that had not changed.
+She got up into the bunk. The lamp was at the foot of the stair and ten slept in a room that had held twelve three winters ago, and the quarters had not had a roof issue and had not had a beam issue and had had two funerals and a killing, and the boards over the bunks were the only thing in the room that had not changed.
 
 Up the mountain at the same hour, the Hall had no roof and the rain went through it in four places onto a floor with a table at the west end, and the water in the low corner had joined another pool and the second pool had joined the wall.
 

@@ -10,7 +10,7 @@ The first was the one Du Hong had bought with his name, and she had gone and got
 
 *No surety may stand for the applicant again without relicensing.*
 
-Fifteen years, maybe. A woman who is in a room at every hour of every month for fifteen years does not die in a bed. And the only man who had ever offered to stand in a room for her had been beaten into thaw water for it a month ago at the foot of a tower four miles down this road.
+Fifteen years, maybe. A woman who is in a room at every hour of every month for fifteen years does not die in a bed. And the only man who had ever offered to stand in a room for her had been beaten into thaw water for it two months ago at the foot of a tower four miles down this road.
 
 The sixth one was on the back in the county's own hand and it was eight hundred jin.
 
@@ -20,7 +20,7 @@ The sixth one was on the back in the county's own hand and it was eight hundred 
 
 “You are carrying a bounty on a licence.”
 
-“I am carrying a bounty on a licence in the county's own hand, in the fourth line from the bottom, entered under a claim that has been standing in four counties since the autumn and that has never once been answered, and it is going up the quarter in the crate with everything else on it.”
+“I am carrying a bounty on a licence in the county's own hand, in the sixth condition, entered under a claim that has been standing in four counties since the autumn and that has never once been answered, and it is going up the quarter in the crate with everything else on it.”
 
 “That is the sixth condition,” said Yuan. “Read it again.”
 
@@ -56,7 +56,7 @@ And at the second hour of that afternoon a registrar had put one in her hand.
 
 “It is not good.”
 
-“It is not good and it is mine,” said Ning Yan, “and I have been in a house with a tower over it for eleven months, and I have not had to think about where I will be in the autumn, and that is not nothing, whatever else it is.”
+“It is not good and it is mine,” said Ning Yan, “and I have been in a house with a tower over it for three months, and I have not had to think about where I will be in the autumn, and that is not nothing, whatever else it is.”
 
 She looked at him across the wet square and he did not go back to the wall. He stood at the second desk with his tube in his hand and put a coin on the wood, which was a waste, because the desk was shut and the clerks were gone, and then he picked the coin up again and put it back in his pocket, which was the first thing she had ever seen him do that was not part of a trade.
 
@@ -92,7 +92,7 @@ She lay on the mat and put the arithmetic against the calendar and it came out t
 
 “Say it.”
 
-“I have got what I wanted,” said Ning Yan. “From the sixth of December to the last day of the thaw, and I got it with a stamp and a seal and a dead man’s name crossed out and my own defect in my own hand and a bounty in the county's writing four lines from the bottom, and the man who was going to buy me was standing in the rain watching the door I came out of.”
+“I have got what I wanted,” said Ning Yan. “From the sixth of December to the last day of the thaw, and I got it with a stamp and a seal and a dead man’s name crossed out and my own defect in my own hand and a bounty in the county's writing as the last thing on the back of it, and the man who was going to buy me was standing in the rain watching the door I came out of.”
 
 “That is what it is.”
 
@@ -102,7 +102,7 @@ She lay on the mat and put the arithmetic against the calendar and it came out t
 
 “I have got a room,” said Ning Yan. “Five stages, a schedule, a quarter, and a document that says I may practise in the open for the first time in my life.”
 
-“I am seventeen years old and I am lying in a tower above a town with a man on the wall who has just been handed the best piece of paper I will ever own. I buried Du Hong a month ago, and the fourth stage of my life is in nobody's book, and it cost me nine days of not eating, and I have not forgiven you.”
+“I am seventeen years old and I am lying in a tower above a town with a man on the wall who has just been handed the best piece of paper I will ever own. I buried Du Hong two months ago, and the fourth stage of my life is in nobody's book, and it cost me nine days of not eating, and I have not forgiven you.”
 
 “You have not forgiven me.”
 
