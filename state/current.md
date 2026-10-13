@@ -128,7 +128,9 @@ creating a new one.
   ch 118's *five weeks*). The **plan** called the volume four months and the manuscript has run to
   about five and a half, which is why ch 116 says *From the sixth of December to the last day of the
   thaw* and ch 118 closes in the first week of summer. The page is internally consistent; the
-  planning figure was the thing that moved. Recorded, not repaired.
+  planning figure was the thing that moved. Recorded, not repaired. **One exception, repaired since:
+  the *second week of summer* for the first return in ch 116 and ch 118 was never supported by any
+  calendar, and is now *the fifth week of summer* — see Canon change 30.**
 
 ### Close-record review pass (fix phase)
 
@@ -185,6 +187,33 @@ titles unique, one bracketed layer line in the closing batch at ch 114, 28,234 w
 chapters, 111,226 across the volume file set. `outline/volume-03.md` now agrees with
 `workspace/volume-03-batch-0001/PROMPT.md` on the purchase chapter, the leg order, the ceiling, and
 the naming chapter.
+
+### Volume 3 Batch 0001 review repair (fix phase)
+
+`logs/volume-03-batch-0001.review.log` reviewed the **Volume 3 Batch 0001 planning pass** — the cards in
+`outline/batches/volume-03-batch-0001.md`, ch 119–132. No chapter had been drafted, so the reviewer was
+reviewing a plan, not prose, and returned three findings. **The planned plot is untouched: no card beat,
+no chapter order, no title except the one already changed at the planning pass, no bracket, no
+ending.**
+
+| # | Finding | Correction | Plot changed? |
+| --- | --- | --- | --- |
+| 1 | **The re-dating silently reinterpreted published prose.** The planning pass moved the batch from day 2–45 to **day 2–39** and the crate from day 35 to **day 28**, which resolves a real tension — ch 116 says four weeks off the last day of the thaw and a five-week working count, ch 118 says *five weeks to the quarter's return* — in ch 116's favour and reclassifies ch 118's figure as the working count. The reviewer accepted the reading and asked for it to be **recorded**, because it is a canon change to a **closed volume** and the repo has a convention for exactly that (*Date clash — ch 111 vs ch 112*; *Canon change 15 — day numbering extended*). | Recorded as **Canon change 30** in `state/continuity.md` under *Repaired at the Volume 3 Batch 0001 planning pass*, and the batch's *In-world clock* note now states the two-number rule so the drafter is not left to reconcile ch 118 in their head. | No. It is a date anchor, not a beat. |
+| 2a | **The ch 118 calendar clash, unaddressed.** Ch 118 says *the first return is the second week of summer* (so does ch 116). **No version of the calendar supported it** — not the old day-35 plan and not day 28; under either the crate goes in the fourth week and Sun He reads it in the fifth. The reviewer was explicit that this is the item which surfaces on the page rather than in a note, and that resolving it is a decision about a closed volume rather than a drafting call. | **Decided and repaired word-level in the chapters.** Ch 116 *second* → **fifth**; ch 118 *second* → **fifth** twice and *first week* → **fourth week**, so the county book must hold it in the fourth week for the registrar to read it in the fifth. This is the smallest change that makes the page agree with ch 116's own four-weeks / five-weeks / first-week-after arithmetic. **Ch 118's *five weeks to the quarter's return* is left alone** — it is the working count, the number she has counted by since ch 118, and not a claim about the crate day. | No. The arithmetic she does on the page, her four conditions and his three are all unchanged. |
+| 2b | **Two stale leftovers the re-dating missed.** The ch 128 next-chapter pull still said the crate goes on the *thirty-fifth day*, twelve lines above a ch 129 card that says *Twenty-eighth day*; and the Hunter's carry-forward fact said *in six and a half weeks*, against the table's own *five and a half*. | Both corrected. *The line a drafter reads to open ch 129 now points at the crate's real day.* | No. |
+| 3 | **The ch 123 retitle from *Her Own Hour* to *One True Sentence*.** The old title restated a canon line at ch 109 (*she had put it in the quarter's crate on her own hour*). | Correct, and all fourteen card titles verified unique against every chapter heading in Volumes 1 and 2. No action. | No. |
+
+**Also repaired here, not in the reviewer's findings:** one clarifying sentence in the batch's day table.
+Ch 120 is the only card that spans two days (day 4 to day 5) while the table anchors it at day 5, and
+its pull — *a county hour in three days* — is counted from the close and lands on ch 121, day 8. The
+table now says so, so the next drafter does not read it as a fault and "fix" it.
+
+**Recorded, not repaired:** the Volume 2 batch 0009 cards (`outline/batches/volume-02-batch-0009.md`)
+still carry *the first return comes in the second week of summer*, which is where the bad figure came
+from. They are the historical record of what was planned for a closed batch, not canon.
+
+**Word counts are unaffected** — every repair substitutes one word for one word. Ch 116 2,083 · ch 118
+2,604 · batch 0009 28,234 · Volume 2 file set 111,226, all unchanged from the Volume 2 close.
 
 ## Volume 3 — the two open structural questions
 

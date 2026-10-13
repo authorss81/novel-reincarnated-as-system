@@ -31,9 +31,20 @@ she has been counting since ch 118 is the *working count*, which is the crate da
 week. Ch 129 is the crate, on **day 28**. Nothing in this batch may move the crate off day 28 or move
 it earlier, and nothing may treat the return as arriving before it.
 
+**The week the return lands in is now the fifth week of summer.** Ch 116 and ch 118 each used to say
+*the second week of summer*, which no version of the calendar supported — not the old day-35 plan and
+not day 28. **Repaired word-level in the chapters on the review pass** (*second* → *fifth*, and ch 118's
+*first week* → *fourth week*), so the page now agrees with ch 116's own four-weeks / five-weeks /
+first-week-after arithmetic. Ch 116's separate line *five weeks to the quarter's return* was **left
+alone deliberately**: it is the working count, which is the number she has been counting by since ch 118,
+and it is not a claim about the crate day. Do not "correct" it. Full note in `state/continuity.md`
+under *Repaired at the Volume 3 Batch 0001 planning pass*.
+
 Chapter days: 119 = day 2 · 120 = 5 · 121 = 8 · 122 = 11 · 123 = 14 · 124 = 17 · 125 = 20 ·
 126 = 23 · 127 = 25 · 128 = 27 · 129 = 28 · 130 = 31 · 131 = 35 · 132 = 39. Do not re-date these
-without reconciling every elapsed figure in the chapter.
+without reconciling every elapsed figure in the chapter. **Ch 120 is the only card that spans two
+days** — it opens on day 4 and closes on day 5, and its next-chapter pull (*a county hour in three
+days*) is counted from the close, which is ch 121 on day 8. Every other chapter is a single day.
 
 **The county hour is not weekly by rule.** Nothing on the page fixes its cadence. This batch has two
 county-hour scenes, at day 8 and day 23, and a drafter must not invent a weekly rule, name a weekday,
@@ -530,7 +541,7 @@ Continuity fact to preserve: **The silence is bought with the seal and it holds 
 *reconciled* and is not touched here.
 Ending type: irreversible decision, paid in silence.
 Next-chapter pull: The annex has to be certified by the Hall clerk and the crate goes on the
-thirty-fifth day and not the one before.
+twenty-eighth day and not the one before.
 
 ## Chapter 129 — The Order of the Crate
 
@@ -765,7 +776,7 @@ and no handover paper is laid.
   of twenty-one chapters** — and the Hunter will hear it from the square.
 - **About three weeks of channel.** Named once at ch 132, not re-derived until ch 140.
 - **The Hunter has a room in Lowwater under a clerk's misspelling, a certified copy of her
-  schedule, and a receipt.** In six and a half weeks he has bought one thing and it is a sheet of
+  schedule, and a receipt.** In five and a half weeks he has bought one thing and it is a sheet of
   paper with her hours on it.
 - **A licensee capped at five cannot be examined past five** is in the county office's memory in a
   registrar's own hand, and three sponsors know that their sealed member's paper stops where an

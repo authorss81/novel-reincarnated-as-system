@@ -58,7 +58,7 @@ She did the arithmetic against the calendar, lying still, with the wood of the b
 
 Five weeks to the quarter's return. Five weeks to a crate that goes up the stair and down the road and into a county office where a registrar reads what comes in the crate in the order the crate is stacked.
 
-Six weeks of channel. And the first return is the second week of summer, and there is no way to get a thing into a county book in the second week of summer if the book does not have it in the first week of summer. The return takes five weeks and is sent by a road that shuts.
+Six weeks of channel. And the first return is the fifth week of summer, and there is no way to get a thing into a county book in the fifth week of summer if the book does not have it in the fourth week of summer. The return takes five weeks and is sent by a road that shuts.
 
 Six weeks is not enough for a licence that has five weeks in it before its first return.
 

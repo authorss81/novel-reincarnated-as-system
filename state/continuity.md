@@ -230,6 +230,49 @@ fact.**
   twice in the same chapter. Now *four miles down the mountain*.
 - **How long the two men have been on the wall — ch 111.** *a fortnight* → *six weeks*.
 
+### Repaired at the Volume 3 Batch 0001 planning pass (fix phase)
+
+Raised by `logs/volume-03-batch-0001.review.log` against the **batch cards**, not the prose. The
+planning phase re-dated Volume 3 Batch 0001 from day 2–45 to **day 2–39** and moved the crate from day
+35 to **day 28**. The reviewer accepted the new date and asked for two things, both now done. This is
+the **first canon change touching a closed volume since the Volume 2 close**, and it is recorded here
+rather than made silently, in the same convention as *Date clash — ch 111 vs ch 112* and *Canon change
+15 — day numbering extended*.
+
+- **Canon change 30 — the quarter's return is pinned to day 28, and day 0 is the last day of the
+  thaw.** Ch 116 says the hours are returned at the quarter, *four weeks off the last day of the thaw*,
+  that the crate goes up *on the day and not the one before*, that the *working count is five weeks*,
+  and that *Sun He reads a return in the first week after it*. That is day 0 = last day of the thaw,
+  crate day 28, reading in the fifth week of summer. **Ch 118 says *five weeks to the quarter's
+  return***, and the batch planning pass reclassified that as the **working count** (crate day plus
+  Sun He's reading week) rather than as the crate day. **This is the resolution and it stands.**
+- **The clash this created, and the word-level repair — ch 116 and ch 118.** Both chapters also said
+  *the first return is the second week of summer*, inherited from the Volume 2 batch 0009 cards
+  (`outline/batches/volume-02-batch-0009.md`, the ch 116 and ch 118 cards). **No version of the
+  calendar supported it** — not the superseded day-35 plan and not day 28; under either, the return is
+  read in the fifth week. Repaired word-level: ch 116 *second* → **fifth**; ch 118 *second* → **fifth**
+  twice, and *first week* → **fourth week** (the book must hold it in the fourth week for the registrar
+  to read it in the fifth). **Ch 118's *five weeks to the quarter's return* is left alone on purpose** —
+  it is the working count, it is the number she has been counting by since ch 118, and it is not a claim
+  about the crate day. **Do not "correct" it.** Word count unchanged: ch 116 2,083, ch 118 2,604, the
+  batch 28,234, Volume 2 111,226.
+- **What is now fixed for Volume 3 and may not be moved again.** Day 0 = the last day of the thaw and
+  where the season's books close (ch 115). Ch 118 sits in the days immediately after it. Batch 0001 runs
+  **day 2 (ch 119) to day 39 (ch 132)**, five and a half weeks. **Ch 129 is the crate, on day 28.** The
+  return is *read* in the fifth week of summer and may not be treated as arriving earlier. **Ch 120 is
+  the only card that spans two days** (day 4 to day 5; its pull, *a county hour in three days*, is
+  counted from the close and lands on ch 121, day 8). **The county hour is not weekly by rule** and no
+  drafter may name a weekday. Full table in `outline/batches/volume-03-batch-0001.md` under *In-world
+  clock*.
+- **Titles.** Ch 123 is **One True Sentence**, changed at the planning pass from *Her Own Hour*, which
+  restated a canon line at ch 109 (*she had put it in the quarter's crate on her own hour*). All
+  fourteen card titles verified unique against every chapter heading in Volumes 1 and 2.
+- **Left alone, deliberately.** The 74 curly apostrophes normalised to straight at the planning pass —
+  correct, not damage; the rest of the repository is straight-quoted and this file was the outlier. The
+  day-35 → day-28 move itself, which is a planning change and moves no chapter. The Volume 2 batch 0009
+  cards, which are historical and still carry the *second week of summer* figure they gave the two
+  chapters; they are a record of what was planned, not canon.
+
 ### Audited and confirmed (load-bearing for Volume 3)
 
 - **Legs and filings.** Three legs: sponsors' seal **ch 62**, quota clearance **ch 86**, county

@@ -80,7 +80,7 @@ The Foundation: barred without relicensing, and relicensing is a new application
 
 The claim: standing, unanswered, travelling with the paper, and no office in nine counties has a form with a column for a thing that happened to a man in a ditch because of an act entered in a layer, and it will be standing at the first return and at the second and at every return after that until somebody puts a body and a place and a name on it, and there are eight of those left and every one of them is further away and dearer.
 
-The first return is the second week of summer.
+The first return is the fifth week of summer.
 
 The season's road shuts with the weather and there is no carrying after the last cart day without a writ, and a licence does not carry a writ, and the pass is four miles up and iced shut by the first snow and open again by nobody until it is open.
 

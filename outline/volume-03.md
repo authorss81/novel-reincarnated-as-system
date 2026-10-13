@@ -35,11 +35,19 @@ at the quarter, the announcements move at the body's pace, and both of them move
   conditions hers (hours only; no Merit off her body; nothing decided about her body including its
   rate; no stage above five; he tells her on the day it is gone), three his (unchanged since the
   ninth step).
-- **In-world date:** the first week of summer. Spring rain through the roofless Hall. The licence
+- **In-world date:** the first week of summer. **Day 0 is the last day of the thaw**, and every day in
+  this volume is counted from it. Spring rain through the roofless Hall. The licence
   nailed crooked above the second bunk, going soft in the damp. Ten sleepers in twelve bunks. Feng's
   lamp burning down the mountain. A stranger at the first desk in Lowwater twice a week, buying
   nothing, giving his name to nobody, telling carriers he is not from the Bureau, asking what a
   furnace schedule is. Unnamed.
+- **The return, and its two numbers (canon change 30 — do not re-derive, do not move).** Ch 116 fixes
+  it: **four weeks off the last day of the thaw, the crate goes up on the day and not the one before,
+  the working count is five weeks, and Sun He reads a return in the first week after it.** So the
+  crate leaves the tower on **day 28**, which is ch 129 and the last day of the fourth week of summer,
+  and the first return is **read in the fifth week of summer**. **Her five weeks, the number she has
+  been counting by since ch 118, is the working count** — crate day plus Sun He's reading week — and is
+  not a claim about the crate day. Batch 0001 runs day 2 to day 39.
 - **Held objects:** the Clay Tablet (hers, lied about on the record); the log with the four county
   originals and the struck line that is not the word; the licence itself, with the filing copy worn
   soft in the same lining.
