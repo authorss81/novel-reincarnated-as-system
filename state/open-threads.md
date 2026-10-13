@@ -2,15 +2,16 @@
 
 **Volume 1 is closed. Volume 2 is closed and audited (ch 59–118). VOLUME 3 IS CLOSED AND AUDITED (ch 119–178).
 VOLUME 4 IS OPEN: BATCH 0001 IS WRITTEN (ch 179–192, 28,608 words), BATCH 0002 IS WRITTEN (ch 193–208,
-31,941 words) AND BATCH 0003 IS WRITTEN (ch 209–222, 28,568 words post-review-repair).** The Volume 3
+31,941 words), BATCH 0003 IS WRITTEN (ch 209–222, 28,568 words post-review-repair) AND BATCH 0004 IS
+HALF WRITTEN (ch 223–230, 15,884 words over eight chapters; ch 231–238 NOT DRAFTED).** The Volume 3
 close audit table is in `state/current.md` under `## Volume 3 close audit — CLOSED`, and **the review's
 reversal of one of the audit's rules is written up under *Close review repair* in that same block — read it
 before using any four-county or nine-county figure from this run.** Live threads below carry into **Volume 4,
-*The Wall*, ch 179–238**, and the full state of each one after Batch 0003 is in `state/continuity.md` under
-***Established facts, Volume 4 Batch 0001 (ch 179–192)***, ***Established facts, Volume 4 Batch 0002
-(ch 193–208)***, ***Established facts, Volume 4 Batch 0003 (ch 209–222)*** and ***Volume 4 running ledger — at
-end of ch 222***. **The next phase is Volume 4, Batch 0004** at
-`workspace/volume-04-batch-0004/PROMPT.md`: **the crossing.**
+*The Wall*, ch 179–238**, and the full state of each one after ch 230 is in `state/continuity.md` under
+***Established facts, Volume 4 Batch 0001 (ch 179–192)***, ***…Batch 0002 (ch 193–208)***,
+***…Batch 0003 (ch 209–222)***, ***…Batch 0004 FIRST HALF (ch 223–230)*** and ***Volume 4 running
+ledger — at end of ch 230***. **The next phase is Volume 4, Batch 0004, second half**, at
+`workspace/continuation/next-0003/PROMPT.md`: **ch 231–238, and then the volume-close prompt.**
 
 ## Volume 4 — every thread below is confirmed OPEN on this file. Nothing here is retired.
 
@@ -123,25 +124,49 @@ Ma Sheng, the girl of nineteen and eleven men won their own win at ch 218 and pa
   no dialogue, no price and nobody told.** **The named permanent cost of Foundation — the right index finger —
   is not named, priced or foreshadowed anywhere in this batch.**
 
-## Volume 4 Batch 0004 (ch 223–238) — PLANNED, cards written, no chapter drafted
+## Volume 4 Batch 0004 (ch 223–238) — HALF DRAFTED. ch 223–230 ON THE PAGE; ch 231–238 NOT DRAFTED
 
-**`outline/batches/volume-04-batch-0004.md` holds sixteen cards and there is no prose yet.** Batch 0004 is
-**sixteen chapters**, not fourteen, and the allocation table in `outline/volume-04.md` *Pressure rotation across
-the volume* is the authority. Two things the Batch 0004 review raised are **not** repairs and are **not** settled
-by this file. They are carried here so that the **Volume 4 close** owns them.
+**`outline/batches/volume-04-batch-0004.md` holds sixteen cards. Eight chapters of prose are on the page
+(ch 223–230, 15,884 words) and eight are not.** Full record for what is drafted is in
+`state/continuity.md` under ***Established facts, Volume 4 Batch 0004 FIRST HALF (ch 223–230)*** and
+***Volume 4 running ledger — at end of ch 230***. **The next phase is the second half of the drafting
+phase**, at `workspace/continuation/next-0003/PROMPT.md`, and it writes **ch 231–238 in prose and then
+`workspace/volume-04-close/PROMPT.md` in the same call, because ch 238 is the last chapter of the
+volume.** The batch was split at the batch midpoint (ch 230) because the first full attempt at sixteen
+chapters returned without writing anything; **nothing in the card file was rewritten, moved, dropped or
+renumbered to make the split, and no pinned date was touched.**
 
-- **THE POINT OF VIEW IS THE OPEN QUESTION OF THE CLOSE — Yuan has been off-panel for two volumes of sixteen.**
-  `outline/series.md` §2 names the protagonist as **Yuan, male**, and `state/book-metadata.md` records
-  **Gender: Male**, so the male-led requirement is met at series level. **Volume 4's close third is on Ning Yan
-  and ch 179–238 is hers throughout.** `outline/series.md` §136–137 frames her deliberately as *the door* and as
-  *his engine*, and **Yuan is present in Volume 4 as a voice only** — present-tense speech, rationed, and
-  silent about the office above this county until ch 236. **Nothing may be written in ch 223–238 to settle this,
-  and the drafting phase may not re-frame him.** It is a decision for `workspace/volume-04-close/PROMPT.md`, and
-  that prompt must state in writing what the volume did with the book's protagonist before Volume 5 opens.
+### What the first half moved, and what it did not answer
+
+| Thread | State after ch 230 |
+| --- | --- |
+| **Two books in two hands** | **WORSE, DELIBERATELY.** Three empty dates are now in the sub-contractor's book, they are true, and they are never going to be filled. He squares the book over the top of them and says a hole you cannot see is worse than one you can |
+| **MEMBER ABSENT** | **ENTERED A THIRD TIME, PERMANENT, AND THE SHEET HAS GONE WEST FOR THE LAST TIME THIS SEASON.** Reason column a foot and a half wide and blank. **Nobody offered her the word a second time**, which is the construction and is now spent |
+| **The blind run** | **DESCRIBED IN FULL AND NOT ENTERED.** No mark, no stake, no board, no ring, a foot and a bit on the low side, two men in the ground with a bar across them. **She has been inside it on one knee. She has not hired onto it and ch 233 hires her** |
+| **Ledger** | **NOT ORDERED.** The decision is taken in her own head at ch 230; the word and the price are both unsaid. **He was offered the chance and took it and said four sentences and she chose them** |
+| **The channel** | **FOUR MARKS. NO FIGURE STATED ANYWHERE. ONE RATION SPEND IN EIGHT CHAPTERS. He does not grow back** |
+| **Merit** | **NONE. Nothing kills anything and nothing clears a listed trial** |
+| **The right index finger** | **WHOLE AND UNSPENT. Named nowhere, priced nowhere, foreshadowed nowhere in ch 223–230** |
+| **Foundation 8 and Foundation 9** | **Not taken.** Pinned at ch 234 (day 440, suppressed, no bracket) and ch 237 (day 462, the one that goes past the line) |
+| **The Hunter's request and the empty space** | **NOT ANSWERED IN ANY FORM.** The space still holds a date and the office word *Held*. The Hunter is a man in a plain coat at two hundred yards on the twenty-third and is named nowhere in the eight chapters |
+| **The office above this county** | **UNREADABLE AND UNASKED FOR.** He reads it at ch 236 and not one page earlier |
+| **The far-side board** | **UNTOUCHED in ch 223–230**, exactly as ch 216 left it |
+| **Wei Ran** | **ONCE, at ch 229, and off page.** A rate and a road, not a favour; the true thing about the bad flat; **nothing is a romance** |
+| **The claim, Hou Sanliang, the eleven, the sponsors' second book, Shen Xiu, the register, the plate, Ning Wu** | **NOT RAISED. NOT SOFTENED. NOT RETIRED** |
+
+### Two structural questions carried to the volume close, both unchanged
+
+- **THE POINT OF VIEW IS THE OPEN QUESTION OF THE CLOSE — Yuan has been off-panel for two volumes of
+  sixteen.** `outline/series.md` §2 names the protagonist as **Yuan, male**, and
+  `state/book-metadata.md` records **Gender: Male**, so the male-led requirement is met at series level.
+  **Volume 4's close third is on Ning Yan and ch 179–238 is hers throughout.** Yuan is present in
+  ch 223–230 as a voice only — present-tense speech, rationed to four marks, and four sentences at
+  ch 230 of which she chose three. **Nothing in ch 223–238 may settle this, and the drafting phase may not
+  re-frame him.** It is a decision for `workspace/volume-04-close/PROMPT.md`, and that prompt must state
+  in writing what the volume did with the book's protagonist before Volume 5 opens.
 - **The volume-close phase is required and may not be skipped.** Ch 238 is the last chapter of Volume 4.
-  `workspace/volume-04-batch-0004/PROMPT.md` now carries the instruction in both branches: **the planning turn
-  does not create the close prompt, and the drafting turn creates `workspace/volume-04-close/PROMPT.md` in the
-  same call as ch 238.** A Volume 4 close is not a further batch and Volume 5 does not begin without one.
+  **The phase that writes ch 238 writes `workspace/volume-04-close/PROMPT.md` in the same call.** A Volume
+  4 close is not a further batch and Volume 5 does not begin without one.
 
 ## Volume 3 — the two structural questions
 

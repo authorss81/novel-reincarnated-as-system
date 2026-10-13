@@ -1930,12 +1930,194 @@ present about forms, offices, counties and classes of person, which is house voi
 
 ---
 
-## Established facts, Volume 4 Batch 0004 (ch 223–238) — PLANNED ONLY. NO CHAPTER DRAFTED
+## Established facts, Volume 4 Batch 0004 FIRST HALF (ch 223–230) — DRAFTED. EIGHT CHAPTERS OF THE SIXTEEN ARE ON THE PAGE
+
+**This is the standing record for the first half of Batch 0004.** The second half — **ch 231–238, eight
+chapters — is NOT DRAFTED**, and nothing in this block may be treated as if it were. The cards at
+`outline/batches/volume-04-batch-0004.md` pin the rest. The batch was split at the batch midpoint
+because the first full attempt at sixteen chapters returned without writing anything.
+
+### The clock, as drafted
+
+**Ch 223 opens at day 377, the fourth of a month, and ch 230 ends at day 426, the twenty-third.** Both
+reconcile against `((day − 134) mod 30) + 1` and against **day − 373 across days 374 to 463.** Chapter
+days as written: **223 = the 4th to the 12th (377–385) · 224 = the 13th (386) · 225 = the 14th to the 20th
+(387–393), with the attendance on the sixteenth (389) · 226 = the 21st to the 30th (394–403) · 227 = the
+1st to the 8th (404–411) · 228 = the 9th to the 11th (412–414) · 229 = the 12th to the 16th (415–419) ·
+230 = the 17th to the 23rd (420–426).**
+
+**One deliberate deviation from the card file's day table, recorded here so the continuation does not
+"correct" it back.** The card table gives ch 228 as day 412 alone and ch 229 as days 413–419. **Ch 228's
+cost is three missing days, so the chapter as written runs 412–414**, and **ch 229 therefore opens on day
+415, the twelfth, and covers five days (415–419)** rather than seven. The *effect* on the calendar is nil
+and the arc is intact: three empty dates in the sub-contractor's book, eleven men standing a stretch for
+nothing, Foundation 7 taken on day 412 exactly as pinned. **The four pinned stage days (386, 412, 440,
+462) and the pinned attendance day (389) are untouched.**
+
+### The stages as drafted
+
+**FOUNDATION 5 → FOUNDATION 7 across eight chapters. Two bracketed layer lines, at ch 224 and ch 228, and
+six chapters with none.** The suppression at ch 234 has not been written and will carry no bracket.
+
+| Stage | Ch | Day | Bracket | What it cost, on the page, named once |
+| --- | --- | --- | --- | --- |
+| **Foundation 6** | **224** | **386** | **yes** | **The sound in their ears becomes a line on a board, and the people on the line can tell the difference between a stage and a bill.** Eleven idle men look up, the girl of nineteen is the only one who does not, a foreman comes out and looks up and down the run and finds nothing, and a tender puts his hand flat on a board and takes it off again. A board carries dates and stretches and hours and prices and a sound goes into none of them |
+| **Foundation 7** | **228** | **412** | **yes** | **Three days she cannot be found, and eleven men who stand a stretch for nothing.** She takes it with her back against a rise three hundred yards past the last stake, in the ordinary way, and the sound arrives on a course nine hundred yards inside the wire and **does not carry a direction** — a board with a hole in it and a hand that does not know where to look |
+
+**No tribulation is drawn in this shape of book. No stage is skipped and none is prepared early.**
+
+### What the eight chapters established on the page
+
+- **The split, shown by the day.** Nine consecutive mornings at the fourth hour into a sub-contractor's
+  book with four columns and a painted mark, at five coppers, with bread bought at a store and **no share
+  in the cook-fire.** She is **the strongest body on nine days and the slowest hand on a stretch that
+  somebody else's mark is painted beside**, and both of those are stated as fact by a foreman and by four
+  men and neither is a mystery.
+- **The grips (ch 223, 231's material).** The order is gone out of her left hand and every hold is built
+  from nothing before the bar lands. **She keeps a count: eleven holds that hold to the end of a stroke
+  out of about sixty tried, written on the back of a dead weight ticket with the flat of a second finger
+  at eleven minutes a line.** Lost holds are not written down.
+- **Cui Bao came out past the wire once, at ch 224**, in the afternoon of the fourteenth, and said the
+  whole of it: **the referral was correct, he acted on it inside a week, the run is a fortnight shorter,
+  nine men are idle and his daughter is idle, he heard her stage go on the thirteenth and wrote none of
+  it down, and he would do the whole of it again on Friday.** He does not want her to thank him. **He is
+  right and nothing so far in this volume proves him wrong.**
+- **MEMBER ABSENT, the third time (ch 225), on the sixteenth.** **One sentence carries it** and the rest
+  of the chapter is the reason it is blank. **The word was not offered a second time by anybody** — the
+  carrier who is the hand that writes the column says once that it is not his to fill because it travels
+  down the same road as her hours, and says he will not ask her a question about it **because in a year he
+  does not want to be a man who asked one.** **She answers the reason aloud once, in the ordinary voice:
+  the reason column is for hours, and a road put in it is the last thing an office will read about her
+  before it decides what she is.** The sheet goes west on the sixteenth and **there is no date west on any
+  board after that man for the rest of the season.**
+- **The bad flat is described on the ground, as ground and not as a trial (ch 227).** Three-quarters of a
+  mile, **no mark, no stake, no board at any point on it.** Drift a foot and a bit on the low side all
+  the way. **No ring anywhere in it.** The low side answers every turn of a boot and does not say which
+  way it has moved. **Two men in the ground four inches deep with a bar laid across them, drift closed
+  over the both of them, and the bar still there.** **Two men and a day and a half to walk it.** **The
+  shortage was never strength — it is how long a person can be wrong in it and not go in.** **She went
+  down into it on one knee on the first of the month and has not hired onto it and has not asked.**
+- **The three missing days (ch 228) are not the bad flat.** They are **the ground in between** — two
+  hundred yards past the last mark, on nobody's plank, quiet, and the only ground within that distance
+  where the base will turn. **She has not been on the bad flat and no card before ch 233 may put her
+  there.** She slept in her own hut, cut a man's better bar out of a lean-to and left the other one.
+- **Eleven men and a girl of nineteen stood a stretch for three days, unpaid, and told her nothing** —
+  three new lines on the foreman's board, dated the ninth, the tenth and the eleventh, with a stretch in
+  the column and **no man against any of them.** She found out from a plank at forty feet. **Being carried
+  for three days by people who are right about her is worse than being refused by them**, and that is said
+  once and not argued.
+- **The three empty dates are entered in the sub-contractor's book and left empty (ch 229).** He squares
+  the book, runs his thumb down three empty lines, goes on, and says: **if I put hours in there and a man
+  reads that book in six weeks he has got a hole he cannot see, and a hole he cannot see is worse than one
+  he can.** **A hole you cannot see is worse than one you can** is the line of the chapter and it is his.
+- **A fifth counterfoil (ch 229), in a second contractor's mark.** Four of one mark and now **one in a
+  different mark from a man not answerable to the man who struck her name out of a book.** **A mark
+  nobody checks is worth what the man who makes it is worth: it goes in a coat, it is carried about by a
+  person, and it is kept — and not one of the five can be compared with either book.**
+- **Wei Ran, once, at ch 229, and off page.** Twenty coppers and a road, not a favour. **She has taken
+  two loads past the cart turn in four years and went round both times, and about half the people who look
+  at ground nobody hires on go.** Nothing is a romance.
+- **New minors, both closed in their own chapter.** **Pei**, a carrier of about sixty, the hand that
+  writes the attendance column (ch 225). **The woman at the store**, who has thought about the fact that
+  there is a woman coming out of that line without a pot, and has not asked (ch 226).
+- **The decision (ch 230), taken in her own head and not spoken.** Two books cannot make a run. Hours in
+  order with dates do not cross a boundary no county paper crosses. A listed trial is not paid by hours in
+  either book. **She decides to hold the Ledger for the crossing and not for a stage, chooses the day —
+  the fifth of the next month, eighteen days off, inside the turn of the base — and says neither the word
+  nor the price.** He is offered the chance and takes it: *"Say it and I hold it as long as you want it
+  held."* · *"Not for a stage."* · *"No."* · *"Not today."* · *"You know the day."* **Ledger is not
+  ordered in ch 223–230.**
+- **The fear is admitted once (ch 230).** Not of the bad flat. Of **spending him on purpose, out of a base
+  that is one stage short of finished**, with nothing at the end of it this time but a quarter of a mile of
+  ground nobody records. **She went and looked at it and put it down and picked it up about four times,
+  and it is not a reason.**
+- **The year of non-forgiveness was touched once, at low volume, at ch 230** — she goes on using him on
+  purpose, **it is not forgiveness, and the account still carries and will carry at the end of the
+  book.** She does not forgive him and she does not tell him to stop.
+
+### Construction budget — spent in ch 223–230, not to reuse
+
+Bracketed layer lines: **two in eight chapters, at ch 224 and ch 228**, house form unchanged. **Six
+chapters carry none at all.** The seven relicensing conditions re-listed: **zero** — the licence and the
+claim are referenced and never told, and the only new object on the licence this half is the Clay Plate as
+the thing she has not taken off in four years. The suppression arithmetic: **zero.** ***There is no form*:
+zero. *There is no column*: zero** — and this half is full of columns that exist and are full, and ch 229
+is about a column with three honest gaps in it. ***The record remained*: zero.*** ***Nobody asked*: zero
+in plain form** — the territory is reached through *the word that was not offered a second time* (225)
+and *he does not want to be a man who asked one* (225), each once, and they are different constructions.
+***Nobody was thanked*: zero.*** ***Nobody knew*: zero.*** ***Nobody said anything*: zero** in plain form.
+***Nobody else alive*: zero.*** *The line*, *tending*, *the course* and *drift* are **spent words from
+ch 199 and are used and never re-explained** — and the honest partial answer to what the drift is made of
+is **NOT given in ch 223–230**; that is ch 236. **No office named. No new final enemy. Nothing Volume 5
+owns is spent.** *The shape of a happy life*: zero. ***Kiln-born* and the eleven designations: **not on
+the page.** **The right index finger: named nowhere, priced nowhere, foreshadowed nowhere** — one draft
+line at ch 230 that came close was cut before the chapter was finished. Weekdays: **zero named.** No
+calendar month named anywhere in ch 223–230. ***Eleven weeks*: zero. *About four seconds*: zero** — one
+draft instance at ch 227 was cut. **Banned reflexes: zero.** **Authorial scaffolding: zero** — two draft
+leaks, a chapter number at ch 223 and a batch phrase at ch 225, were both cut before the phase finished.
+**Every chapter carries quoted speech**, and **every one of Yuan's sentences is present tense.**
+
+### Carried forward, unchanged, into ch 231–238
+
+- **FOUNDATION 7.** Ceiling on the front of the relicensed licence **still reads Foundation the first
+  stage** and she has still never touched it. **Foundation 8 at ch 234 (day 440, SUPPRESSED, no bracketed
+  line in the chapter) · Foundation 9 at ch 237 (day 462, the announcement that goes past the line).**
+  **Ch 236 is the first page on which Yuan reads the office name above this county, and he has said four
+  times that he cannot.**
+- **Short breath four counts everywhere, three is gone. The order is gone out of the left hand and the
+  heel with it. The writing hand is unchanged — eleven minutes with the flat of a second finger. Eleven
+  holds that hold, out of about sixty tried.** The **right index finger is whole and unspent.**
+- **MEMBER ABSENT, three times, permanent**, with the reason column a foot and a half wide and blank, and
+  **the sheet has gone west for the last time this season.**
+- **The claim stands with its date.** Hou Sanliang unpaid, patient and never met. **The request is still
+  pending and the space has not been answered in any form.** The referral is still pending and executable
+  only past the boundary.
+- **The course is closed against her, lawfully and correctly, and stays closed.** Two books in two hands,
+  neither carrying a continuous run, **and three empty dates in the second one that are true.**
+- **Five counterfoils in the oilcloth, in two marks, none comparable with either book. The Clay Plate is
+  under them against her chest. Three dead weight tickets, two of them full, one carrying the ration's
+  four marks.**
+- **The blind run is not entered.** It has been seen from a rise, walked with a cart and entered on one
+  knee, and the sub-contractor has named it twice and warned her about it once.
+- **Ledger is hers to order and is NOT ordered. The decision is taken; the word is not said and the price
+  is not said. The channel has four marks on it and no figure of what is left is stated anywhere.**
+- **Merit: none. Nothing kills anything and nothing clears a listed trial.**
+- **Wei Ran is off page.** Pei and the woman at the store are closed in their own chapters. **The Hunter
+  is a man in a plain coat at two hundred yards on the twenty-third, not writing, and he is named
+  nowhere.** The office above this county is unreadable and unasked for. The far-side board is untouched.
+- **The register still reads *reconciled*. The Clay Plate still worn. Shen Xiu unforgiven and unthanked.
+  The three sponsors silent. What became of the eleven is not raised. Ning Wu does not appear. The crew
+  at Qinghe is nine days west and is not mentioned.** **She does not forgive him and she does not tell him
+  to stop.**
+
+### Volume 4 running ledger — at end of ch 230
+
+| Item | Value at end of ch 230 |
+| --- | --- |
+| Her stage | **FOUNDATION 7, reached day 412 at her own order, announced in the ordinary way, and taken three days out of every book.** The paper still says Foundation the first stage. Short breath four counts everywhere. The order gone out of the left hand and the heel with it; every grip built from nothing before the bar lands. Eleven holds of about sixty. The heel's loss is not the cost; every county hour is still eleven minutes with the flat of a second finger. Right arm open a third of the time. Aperture cracked through and permanent. Not hungry since the first Foundation. Not in the cook-fire; her own bread at the store |
+| Licence | **Relicensed on the second set of legs, all three outside this county** (clearance 264, seal 265, countersignature 266). **A document she has never touched.** Seven conditions referenced and never re-listed; the claim the seventh and last. The first licence is still rolled in the lining of her coat; the second is still nailed straight above the second bunk, nine days west |
+| In-world date | **Day 426, the twenty-third of a month.** First working season on the line, past the last stake |
+| Hours | **Six coppers a day on the course's ground until the seventeenth of a month two months back, and five coppers a day at a sub-contractor's trestle since the twenty-first of that month.** **Two books, two hands, the hours split, and neither carries a continuous run.** Her name is out of the course's book. **Three empty dates in the sub-contractor's that are true and will stay empty.** **Five counterfoils in the oilcloth, in two marks** |
+| Settlement | **One ration spend in eight chapters (ch 230). No figure of what is left is stated anywhere in ch 223–230.** Four marks on a dead weight ticket, unmoved for months. **Ledger NOT ordered — the decision is taken and the word and the price are both unsaid.** Merit: none. **He does not grow back and he is quieter at the end of this half than at the start** |
+| Bounty | 800 jin, standing, unanswered, the seventh and last condition, travelling on the licence. The date is still in the counting room in Lowwater. Hou Sanliang unpaid, patient, never met. **Not raised in ch 223–230** |
+| The referral | Up the stair past every office she has ever stood in front of. **Its answer space still holds a date and the office word *Held*.** The request is pending and **not answered in any form anywhere in ch 223–230** |
+| Crew | **nine men and her; ten sleepers in twelve bunks, nine days west.** Not mentioned in ch 223–230 |
+| Money | **About five coppers in hand at the last page.** Bread bought at a store at five coppers a day. **The tin is gone since the evening of day 268** and never counted again |
+| The course | **Closed against her, lawfully and correctly, and still closed.** Cui Bao said the whole of it once and would do it again. Eleven men and a girl of nineteen stood a stretch for three days for nothing and told her nothing. Nine men idle, the girl idle, the contract smaller, the board with a hole in it. **They are right** |
+| Past the last stake | **A sub-contractor with a book of his own, four columns, a painted mark, five coppers and a place at the fire, who has squared his book with three empty dates in it and does not know what she is.** A carrier, Pei, took the last west-going strip of paper out of the reach on the sixteenth and **no date west follows him.** A store with a woman behind the counter who has not asked. **Wei Ran, one team, offered a road at twenty coppers and off page.** **The bad flat: three-quarters of a mile, unmarked, quiet, a foot and a bit on the low side, two men in it, and she has not been hired onto it** |
+| Register / plate | *reconciled* / worn. **She does not forgive him and she does not tell him to stop.** The year was touched once, at low volume, at ch 230, and did not close |
+| Decision taken | **She will hold the Ledger for the crossing, on the fifth of the next month, inside the turn of the base, at a price to be stated before the word. Neither the word nor the price has been said.** She is past the last stake, five coppers a day, eighteen years old, holding a bad flat she has been inside and has not been hired onto |
+
+---
+
+## Established facts, Volume 4 Batch 0004 (ch 223–238) — THE PLANNING RECORD FOR THE EIGHT CHAPTERS THAT ARE NOT DRAFTED
 
 **Nothing in this block is on the page.** It records what sixteen cards at
-`outline/batches/volume-04-batch-0004.md` pin, so that the drafting phase cannot move one. The position this batch
-starts from is the Batch 0003 block above, unchanged. **Batch 0004 is sixteen chapters, not fourteen** — 223–238
-inclusive, per the allocation table in `outline/volume-04.md` *Pressure rotation across the volume*.
+`outline/batches/volume-04-batch-0004.md` pin, so that the drafting phase cannot move one. **Ch 223–230
+ARE NOW DRAFTED and are recorded in the block above; this block governs ch 231–238 only, and the position
+those eight chapters start from is the ch 230 ledger above, not the ch 222 one.** Batch 0004 is sixteen
+chapters, not fourteen — 223–238 inclusive, per the allocation table in `outline/volume-04.md`
+*Pressure rotation across the volume*.
 
 - **The clock.** Ch 223 opens at about **day 377** and the batch runs to about **day 470**. **Months are thirty
   days and the month-day of any day is `((day − 134) mod 30) + 1`**; days 374–463 read day − 373 and day 464
