@@ -1,14 +1,15 @@
 # Current State
 
-**As of:** Volume 3 close audit run and closed. **VOLUME 1 CLOSED. VOLUME 2 CLOSED AND AUDITED. VOLUME 3 CLOSED AND AUDITED — CH 1–178 ON THE PAGE.**
+**As of:** Volume 3 close record written. **VOLUME 1 CLOSED. VOLUME 2 CLOSED AND AUDITED. VOLUME 3 CLOSED AND AUDITED — CH 1–178 ON THE PAGE. VOLUME 4 OUTLINED.**
 
 ## How to read this file
 
 This file is **append-only and long, and most of it is history.** You do not need all of it to write.
 
-- **For a cold start, read only three things, in order:** *Who is where at end of chapter 178* (below),
-  *What Volume 3 must not do* (below), and the **Batch 0004 acceptance check** just under it. Those
-  cover the live position.
+- **For a cold start, read only three things, in order:** ***Who is where at end of chapter 178***
+  (below), ***What Volume 3 must not do*** (below), and the **Batch 0004 acceptance check** just under
+  it. Those cover the live position. The first two blocks in this file are exactly those two, and a
+  Volume 4 drafter should not have to read past them to start.
 - **For canon you must not contradict,** go to `state/continuity.md` and `state/open-threads.md`, which
   are the authoritative per-batch records.
 - **Everything below the Volume 3 Batch 0004 acceptance check is a superseded historical block** unless
@@ -19,8 +20,9 @@ This file is **append-only and long, and most of it is history.** You do not nee
   so in the phase's repair note rather than deleting the record.
 
 - **Volume:** 3 of 16 — The Hunter (ch 119–178) — outlined in `outline/volume-03.md`, **ALL FOUR BATCHES WRITTEN AND THE VOLUME AUDITED**: Batch 0001 (ch 119–132), 36,809 words over fourteen chapters; Batch 0002 (ch 133–148), 36,742 words over sixteen chapters; Batch 0003 (ch 149–163), 30,958 words over fifteen chapters; Batch 0004 (ch 164–178), 30,505 words over fifteen chapters. **Volume 3 file set: 135,014 words.** All figures are post-audit-repair.
+- **Next volume:** **4 of 16 — *The Wall* (ch 179–238), outlined in `outline/volume-04.md`.** Goal fixed by `outline/series.md` §9: *In this volume, Ning Yan must break the boundary, or neither of them ever learns what they are.*
 - **Chapter written:** **1–178. THE NOVEL RUNS TO CHAPTER 1000; VOLUME 3 IS COMPLETE AND AUDITED.** Nothing of ch 179 onward is drafted.
-- **Next phase:** the **Volume 3 close record** at `workspace/volume-03-close-record/PROMPT.md`, on the shape of `workspace/volume-02-close-record/PROMPT.md`. It writes the **final resolution of Volume 3 into the state files**, then writes **`outline/volume-04.md`** — *The Wall*, ch 179–238, goal fixed by `outline/series.md` §9: *In this volume, Ning Yan must break the boundary, or neither of them ever learns what they are.* — and creates exactly one Volume 4 planning prompt. After that, **Volume 4 opens on the empty answer space on a shelf by a door.** The one-sentence volume goal was paid and is recorded as PASS at the first row of the audit table below: *Ning Yan must survive being hunted as an unauthorised System, or Yuan is dismantled and she is told she imagined him.* She is still alive, still licensed, still hunted in writing, and still has him — with about ten days left.
+- **Next phase:** **Volume 4, Batch 0001 — the planning phase**, at `workspace/volume-04-batch-0001/PROMPT.md`. **It writes the batch cards only**, at `outline/batches/volume-04-batch-0001.md`, out of `outline/volume-04.md` and this file, **before any chapter is drafted**. Volume 4 is **sixty chapters sized to its own arc, not to a fixed count**, and Volume 4's own outline fixes its shape. **Volume 4 opens on the empty answer space the width of a line on a public shelf by a door, and that space must NOT be answered in the first batch.** The one-sentence goal of Volume 3 was paid and is recorded as PASS at the first row of the audit table below: *Ning Yan must survive being hunted as an unauthorised System, or Yuan is dismantled and she is told she imagined him.* She is still alive, still licensed, still hunted in writing, and still has him — with about ten days left.
 - **Point of view:** close third on Ning Yan; every line Yuan speaks is written in the present tense.
 - **In-world date:** **day 219** of Volume 3's own clock — the first week of the deep cold, the third month of it. **Day 0 is the last day of the thaw** (canon change 30). **Month-day = day − 133** on a thirty-day month (ch 150 puts day 136 at the third of the month): the third monthly attendance was day 209, **the sixteenth**; the winter return was read at the second hour on day 212, **the nineteenth**; the petition was filed day 213, the twentieth. **The season's road shut on day 117** and has not opened.
 
@@ -29,8 +31,11 @@ ch 119–178 and **all thirteen named items PASS**; **nine faults in the chapter
 six further findings are recorded with a reason, and four inaccurate claims in the state files
 were corrected; **the eleven items that had to be preserved after the volume are all eleven confirmed**,
 including that **Bai Zhu is named at ch 150 and on no document he signs**; **the final chapter image is
-confirmed element by element at ch 178 and nothing follows it**; and the next phase is the **Volume 3 close
-record**. **The close review then reversed one of those nine repairs** — the audit's four-county / nine-county
+confirmed element by element at ch 178 and nothing follows it**. **The close record has since been
+written: the standing record is in `state/continuity.md` under *Established facts, Volume 3 complete
+(ch 119–178)*, and `outline/volume-04.md` exists. The next phase is Volume 4, Batch 0001, at the
+planning prompt.**
+**The close review then reversed one of those nine repairs** — the audit's four-county / nine-county
 footprint rule was backwards and contradicted four closed Volume 1 chapters, so **ch 160, ch 163 and ch 176
 were reverted to four counties** and ch 131's age was corrected to the canon figure. Full table at
 `## Volume 3 close audit — CLOSED` below, and **the reversal is written up under
@@ -163,6 +168,24 @@ speaks in weeks too.
 
 **Do not let her forgive him.** Non-forgiveness runs from ch 100 through Volume 3 **into the opening of
 Volume 4** — that is the year the milestone requires, and ch 178 does not resolve it.
+
+### Where Volume 4 opens — all of it is on the page at ch 178
+
+> **A Warden's office outside the bound now holds her name, her stages and her hours — in order —
+> certified by her own county. The dismantling it has ordered can only be executed, and the Foundation
+> relicensing she has petitioned can only be countersigned, past a boundary no county paper crosses.**
+
+The rest of it, all read off the block above: **she is at Condensing 9 with a ceiling of nine and nothing
+above nine on the document anywhere in the world** · the Foundation petition is **barred and not
+withdrawable** on the ground that **this county keeps no schedule of work done past its boundary** ·
+the district has answered the Hunter's request with **an empty space the width of a line** · **about
+ten days of channel** against **about six weeks of winter still to come in it** · **Ledger is hers to
+order and she has not ordered it** · **a date is entered against the eight hundred jin in a counting
+room in Lowwater** · the season's road has been shut since day 117 and has not opened.
+
+**The Wall has never been described.** In Volume 3 it existed only as *a writ this county does not
+hold*, said once, in Bai Zhu's mouth at ch 174. **Nothing Volume 4 owns was spent in Volume 3.** The
+outline is `outline/volume-04.md`; the first batch is planned at `workspace/volume-04-batch-0001/`.
 
 ## Volume 3 Batch 0004 — acceptance check, card by card
 

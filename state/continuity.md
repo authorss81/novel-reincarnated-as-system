@@ -1283,6 +1283,135 @@ word, and she has about ten days of channel.**
 | Da Shan | board behind a well, **eight frames, two of which were off and are back**. Charging nine coppers a load and saying so to her face. Never asked a question and never will |
 | Register / plate | *reconciled* / worn. **She does not forgive him and she does not tell him to stop** |
 
+## Established facts, Volume 3 complete (ch 119–178) — cold-reader standing record
+
+**Volume 3 is closed and audited.** Sixty chapters, **135,014 words** (Batch 0001 36,809 · Batch 0002 36,742 ·
+Batch 0003 30,958 · Batch 0004 30,505), average ~2,250. The volume ran **day 2 to day 219**. The audit
+table, all thirteen items and every repair is in `state/current.md` under `## Volume 3 close audit —
+CLOSED`; **the close review's reversal of the footprint rule supersedes it wherever the two disagree,
+and is written up under *Close review repair* in that same block.**
+
+This block consolidates the whole volume in one place for a model with no memory of it. Nothing below
+is a plan. Everything is on the page.
+
+- **The relicensed licence (ch 130–132).** Granted by **Sun He**, Registrar, at the Lowwater county
+  office on the square. **Clause Four, ceiling at Condensing nine in her own hand.** The defect
+  re-entered in her own hand under a new sentence she wrote herself: *it restores nothing.* **Seven
+  conditions on the back — read once at ch 132 and referenced, never re-listed, anywhere in ch 119–178.**
+  **The eight hundred jin is the seventh and the last thing on the paper.** Relicensing restored
+  nothing: not the aperture, not the fourth stage, not a surety, not the road.
+- **The three legs, and their order.** **Clearance (ch 130, Shen Xiu's second clearance) → the three
+  sponsors' seal on one sheet (ch 131, Lu Kang, Deng Chao, Pei An) → Sun He's countersignature
+  (ch 132).** The order is **inverted from Volume 2 on purpose** and must not be tidied back. Motive:
+  the sponsors' annex figure has to be level before three men will seal a ceiling above five.
+  Hours record continuous from the same origin date as the first — the day the tithe book opened.
+- **The claim as the seventh and last condition.** Eight hundred jin, **standing, unanswered**, travelling
+  on the licence. **Hou Sanliang unpaid, patient, and never in a room with her, never met.** The ch 150
+  handover would have paid him in full out of the Warden's purse and **she refused it aloud before two
+  witnesses and signed the refusal.** **A date has been entered against the claim in Hou's counting
+  room in Lowwater, by a hand that is not the counting room's.** A date against a claim is a schedule.
+  Not resolved. Not tore off.
+- **Four stages in the volume, and the three holes.** **Condensing 5 → 6 (ch 135, announced) · 6 → 7
+  (ch 148, announced) · 7 → 8 (ch 160, SUPPRESSED at her order, no bracketed line in the chapter at all)
+  · 8 → 9 (ch 171, ANNOUNCED at her order, witnessed by nine men at the cold end).** **Four bracketed
+  layer lines in sixty chapters** — 135, 140 (a Merit bracket, not a stage), 148, 171. **No tribulation
+  anywhere. No skipped breakthrough.**
+  **The stage column reads one, two, three, five, six, seven, nine — three holes in nine lines.**
+  **NINE counties is what is HEARD; FOUR counties is what is WRITTEN** (V1 ch 46, *in four counties of
+  nine*; ch 55, *going round nine counties… and Du Hong had read her four counties' versions*). **The
+  column is entered in the county books of four counties out of nine**; a certified copy is *readable
+  in order by anybody in nine counties with a stamp and a reason* (ch 132) — that is obtainability,
+  not the location of a book. **The close audit wrote this backwards; the close review reversed it and
+  ch 160, 163 and 176 are back at four.**
+- **Yuan's stage and the clock.** **Voice throughout.** Ledger held **once** in the volume, at **ch 149**,
+  on her spoken word, in public on the copying floor, **under a day, at a price of four and a half weeks
+  named aloud before the word**, put down the same day and **refused permanently for the volume**.
+  **From ch 150 Ledger is hers to order and his to hold only on her word — and at ch 178 she has it to
+  order and does not order it.** Standing Voice terms: he sees her arm go before she can, at no cost,
+  and names the price before he spends it. **Channel at ch 178: about ten days**, said once, in weeks,
+  in the final image. **Merit: one listed kill (ch 140, on the escort road), told-before-spent, and
+  nothing else in sixty chapters.**
+- **The audit and the Lung, and what they cost Feng.** Audit **ch 136–140**, offer **ch 141**, taken
+  **ch 143**. He answered the lawful request truly and could not answer it partly. **A quarter off the
+  stair, a district clerk carrying the upward bundle, the four walled county copies read at the county
+  table, his fair-hand line re-entered truly upward.** He is **not dismissed**: volumes, stipend, column
+  and house stay, and *the district does not terminate an examination.* **Column at five. A Listener for
+  life — wage, oil, a hundredweight of coal, a chair in the county office on reading days — for
+  reporting the stair upward truly in full.** Warm for the first time in twenty-two years, coughing less,
+  writing more, sixty-two, owned. **Has not asked her a question since ch 143. Not thanked. The second
+  Lung is Volume 11 and is unspent.**
+- **The milestone (ch 150).** She chose to be **hunted** rather than **handed over** (series §7 item 4).
+  A true mercy, **verified true line by line** through her own eyes at the cost of four and a half
+  weeks she named before the word, refused aloud before two witnesses in the county office on the
+  square, and **signed in her own hand.** The paper carried **no agent's name**; a clerk taking the
+  name of the agent who laid it is how **Bai Zhu** is named, **once, at ch 150, to a form.** The refusal
+  is entered in a Warden's book, on her member's sheet, and in the county book. **Nothing in ch 119–178
+  softens, defers, reopens or regrets it**, no chapter lets her wonder what she would have done, and
+  at **ch 174** she checks, standing in the room, that she does not wish she had said yes.
+- **The petition (ch 175).** Four lines on Hall paper, her filing copy of the licence folded in behind
+  them **front outward** so the seventh condition went up the stair with it. **Received, numbered,
+  routed, BARRED — not refused — and not withdrawable by her.** Ground of the bar: **this county holds
+  no schedule of work done past its boundary and cannot certify one** — and expressly not the standing
+  of the applicant. Last line, written slower than the rest: *the answer to this application is not this
+  office's to write.* Dated the day after a referral went up out of this county; both papers rode the
+  same crate.
+- **The referral (ch 174).** **Read twice in a low room in front of twenty people.** **Bai Zhu certified
+  in a Warden's hand, signed by the office and not by a person,** that the System is real, unauthorised
+  and carried by a licensee in good standing whose seventh condition travels with her; and **said out
+  loud, once, in his own mouth, that a field man of a Warden's office cannot unmake a System inside the
+  bound without a Wall writ, there is no such writ in this county, and he is referring the dismantling
+  upward to the Warden.** The referral **carries her name, her stages in order and her hours, carries no
+  agent's name, and has gone up the stair past every office she has ever stood in front of.**
+- **The district's answer and the empty space (ch 176).** The public shelf by the door carries the
+  district's answer to his request: **received, numbered, referred upward, no instrument held in the
+  district either — and an empty space the width of a line where an answer was meant to go.**
+  **Volume 4 opens on that space and must not fill it in the first batch.**
+- **The register, the plate, and the four documents.** **The register still reads *reconciled*** for
+  Ning Wu; the truth unchanged. **The Clay Plate is still worn against her ribs**, above the oilcloth,
+  and has never been surrendered. **The second licence is nailed STRAIGHT above the second bunk; the
+  first is rolled in the lining of her coat,** taken down before it went soft at the crease of a defect
+  line she wrote herself.
+- **Held objects:** the Clay Plate · the oilcloth and licence against her ribs · **a tin of about a
+  hundred and forty coppers under a board in the corner of the wash house where the water does not get**
+  · the four county volumes of her hours · the ch 66 refusal under the cover of the tithe book · the
+  ch 103 surety transfer reading *Stands to me* · the ch 106 no-surety request.
+- **Crew.** **Nine men and her. Ten sleepers in twelve bunks. Never written as ten men.** They have read
+  the refusal, the ninth, the word on the front of their own schedule and three holes in a column, and
+  **Gao has done the sum out loud in a hall** so that nine men have heard it from a mouth.
+  **Qin, twenty-two, walks four miles to stand eight feet off in a queue while she writes a column and
+  never asks her a question.** Gao holds the frame.
+- **The girl of twenty-four.** **Alive.** Leg set crooked, four paid hours a week at the trough **plus
+  four more out of a district fund for the cold months**, because she wrote the second document and not
+  the first. Paid a quarter to the thaw in advance. **Not thanked** — she has set not-being-thanked up as
+  protection for two volumes. Copying carriers' run lists that nobody has ever wanted.
+- **Not on any paper, and not to be resolved in Volume 4's first batch.** ***Kiln-born*** in two heads
+  and no paper; the volumes on the high shelf are not copies and were not struck. **The office name
+  above this county, which Yuan cannot read and has now said four times he cannot and is not going to
+  say it a fifth time to be different about it.** **What became of the eleven.** The design of the
+  Foundation tax. Whether Ning Wu forgives her. The Foundation writ, dead and not revoked.
+- **Retired numbers and rhythms.** **"Eleven weeks" is retired out of the volume** — derive the
+  Hunter's span from **day 2** and the end of winter from **about day 261**. **"About four seconds" is a
+  rhythm and not a rule** (thirty-six uses across twenty-six chapters); if a pause needs a number, use a
+  different one. **No weekday is named anywhere in ch 119–178.**
+
+### Volume 4 material (decided in `outline/volume-04.md`)
+
+The relicensing's cost opening the volume — a ceiling at nine buys a ceiling, not a body, and the second
+relicensing needs a schedule of hours worked past this county's boundary. The answer to the empty space.
+The Wall as a shape of work rather than a shape of stone. Foundation 1 → 9 and what the stages cost.
+**Wei Ran may first appear in this volume, twenty, mortal-born** (`outline/series.md` §7; she is absent
+from Volumes 1–3 and the line goes off page and is not the main relationship).
+
+### Held for Volume 5 or later
+
+**What the Foundation stages do to a body that is still being built** (the index finger is the named one
+and it is permanent). **What a line of work is worth to the people who live on it.** **Ning Wu and the
+register.** **Whether the year of non-forgiveness resolves and what replaces it.** **The claim.** **The
+second relicensing's third leg.** **The four months erased in Chapter 3.** **The Clay Plate's texture,
+remembered at the last page of the book.** *The shape of a happy life*, spent until Volume 16, by Ning
+Wu. **Yuan's origin, Volume 11** — he never tells her what he was before he died before then, and does
+not learn she saw him as a readout before then either.
+
 ## Volume 3 running ledger — at end of ch 163 (SUPERSEDED by the ch 178 ledger above)
 
 | Item | Value at end of ch 163 |
