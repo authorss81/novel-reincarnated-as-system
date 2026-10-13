@@ -42,7 +42,7 @@ Nine days. Every mile of it. A woman walking alone on a road with a bag, going s
 
 In her own county that is not a thing that happens twice. At the fourth mile somebody has said something to somebody. By the second day there is a version of her at a trough and a version of her at a frame and a version of her in a lane, and by the fourth day there is a version of her at a counter with the wrong thing said about her in its margin.
 
-Here, nothing. Because here there was no clerk and no frame and no trough and no counter, and nobody had ever been asked to write a licensed one down, and there was no version of her anywhere because there was no hand that would ever make one.
+Here, nothing. Because here there was no clerk and no frame and no trough and no counter, and nobody had ever been asked to write a licensed one down, and there was nothing on that ground that would ever put her on a page.
 
 She was standing on a rise outside a hamlet at the second hour of a still evening and she found that she had walked nine days into a country where nobody was waiting for her and had not once been frightened of it, and that this was the first thing since the winter that had not cost her anything to get.
 

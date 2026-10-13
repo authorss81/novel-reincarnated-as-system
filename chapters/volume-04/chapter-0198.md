@@ -46,13 +46,15 @@ The moment the name was down there was a woman with a county behind her in a con
 
 It was the same thing a registrar had written on a bar in the ordinary hand. It was exactly that. And a referral had gone up a stair past every office she had ever stood in front of, and it carried her name and her stages in order and her hours, and it could only be executed past a boundary no county paper crossed.
 
-She had about two seconds in which the whole shape of what she was doing was visible to her at once, standing at a trestle with the book open in front of her, in daylight.
+She had the length of a breath in which the whole shape of what she was doing was visible to her at once, standing at a trestle with the book open in front of her, in daylight.
 
 She said nothing about any of it.
 
-There was no version of that morning in which she did not say the name. The alternative was nine days of a body at Condensing nine walking back up a road she could not pay for, and a woman with no clearance does not get paid, and the thing she had come here for was a book that keeps hours, and a name was the only key to that a person had ever had.
+She was going to say the name. Every other thing that happened that morning was a way of not getting to it.
 
-She said the name first and thought about it afterwards, and thought about it in about two seconds, and it stayed said.
+The alternative was nine days of a body at Condensing nine walking back up a road she could not pay for, and a woman with no clearance does not get paid, and the thing she had come here for was a book that keeps hours, and a name was the only key to that a person had ever had.
+
+She said the name first and thought about it afterwards, and it stayed said.
 
 ## The Half Second Afterwards
 
@@ -72,7 +74,7 @@ So the two halves of the trap, the counter and the execution, which she had know
 
 She did not regret it.
 
-That is the part she turned over twice on the walk back from the trestle and it came out the same both times. She would do it again in the morning. She would do it again this afternoon, in a bunk with three boards and a mat on it, in a cold morning with her arm open, on the tenth day and the eleventh.
+That is the part she turned over twice on the walk back from the trestle and it came out the same both times. She would do it again in the morning. She would do it again this afternoon, in a bunk with three boards and a mat on it, in a cold morning with her arm open, on the twelfth and the thirteenth.
 
 And that was the frightening part, and it was not the finding, and the finding was that she would do it again and it was no use at all to her knowing why.
 

@@ -2,7 +2,7 @@
 
 The stretch the foreman put her on was a ring, which is what they called the low side of anything, and it was the worst ground on the whole nine days and everybody in the camp knew it before she got to it.
 
-She found out about it at the wire, on the third morning, because she asked one question and got an answer that was a warning dressed as a fact.
+She found out about it at the wire, on her fourth morning, because she asked one question and got an answer that was a warning dressed as a fact.
 
 “That is the ring on the low side of number thirty-one,” the man with the broken thumbnail said. “You will want the long bar and not the short one, and you will want your left boot off about four times, and do not stand with both feet in it, because it is not the depth that is the problem, it is that it takes the boot.”
 
@@ -18,7 +18,7 @@ She went over the wire behind them with a bar and none of them said anything to 
 
 It came up over the top of a boot.
 
-That is the whole of it and it is worth saying exactly, because there is no other kind of ground in this book and it is not mud and it is not water and it is not cold in any way that can be got at with a fire.
+That is the whole of it and it is worth saying exactly, because there is no other kind of ground she has ever stood in and it is not mud and it is not water and it is not cold in any way that can be got at with a fire.
 
 It is about a foot of it in the low place and it is grey and it is wet all the way down under the grey, and when you stand in it your weight goes through the grey into the wet and the wet takes hold of the boot, and if you put your weight forward the boot stays where it is and the leg keeps going.
 
@@ -40,7 +40,7 @@ She stood on it and put her whole weight into a bar and the ground held.
 
 She worked eleven hours and she cleared about forty yards of it. The ring was four hundred yards long.
 
-On the ninth day of last month they had cleared it and it had been back by the twelfth. She had heard that from a man holding a board on the morning of the twenty-seventh and she had done the arithmetic on it standing up, and the arithmetic was right, and it was not the whole answer.
+On the ninth day of last month they had cleared it and it had been back by the twelfth. She had heard that from the man with the board on her second morning here, and she had done the arithmetic on it standing up, and the arithmetic was right, and it was not the whole answer.
 
 The whole answer is that the ring is the bottom of a slope of work about a mile long, and the whole slope was not done in the season before, and the season before that, and the season before that.
 
@@ -84,7 +84,7 @@ She did not say one word about the drift to the foreman or to the tender.
 
 Not because she was managing him.
 
-Because there was nothing to say that would not have been a version of what the man with the broken thumbnail had already said in front of him, and the two of them had been saying it for years and had never once been asked to account for it by anybody from outside.
+Because there was nothing to say that the man with the broken thumbnail had not already said in front of him, and the two of them had been saying it for years and had never once been asked to account for it by anybody from outside.
 
 She was the first person from outside who had stood inside a wire and seen it. She was also the last person in the world who was going to walk in there and start an argument about a two-season-old schedule with eleven men standing in it.
 

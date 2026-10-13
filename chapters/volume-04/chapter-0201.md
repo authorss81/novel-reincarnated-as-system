@@ -12,7 +12,7 @@ He was about fifty and had the hands of a man who has spent thirty years turning
 
 He read the request. He looked at her sheet with the three marks on it. He went out and came back with a wedge of paper about the thickness of a county almanac and put it on the table with a lamp on it.
 
-“The wages come up off the west-going carrier on the seventh,” he said. “The book is with the contractor. I take what is in the book. I read it to the room and the room sets the schedule and the room sends the schedule up, and the schedule goes up with the sheet on it and the sheet is what it is for.”
+“The wages come up off the west-going carrier on the twenty-third,” he said. “The book is with the contractor. I take what is in the book. I read it to the room and the room sets the schedule and the room sends the schedule up, and the schedule goes up with the sheet on it and the sheet is what it is for.”
 
 “Who reads it?”
 
@@ -58,7 +58,7 @@ So she stayed at the near end of the table and said nothing, and she was never a
 
 That was the whole of it, and she went over it a great many times afterwards, and it came out the same every time.
 
-She cannot check one of them. She was hired on the fourth of the month by a man who wrote her hours in at the start of the day. She worked. She was paid six coppers a day by that man for a fixed number of days. There is no point at which the number that got read out of the wedge of paper in that room was anything she ever saw.
+She cannot check one of them. She was hired on the eleventh of the month by a man who wrote her hours in at the start of the day. She worked. She was paid six coppers a day by that man for a fixed number of days. There is no point at which the number that got read out of the wedge of paper in that room was anything she ever saw.
 
 He read her name and her hours and about a second and a half of everything in her life, and he read it correctly or he did not.
 
@@ -86,7 +86,7 @@ He said the words to her the way he said everything, which was twice and flatly.
 
 “How many days.”
 
-“That is not a question I answer.” He did not raise his voice or change anything about his manner. “It is on a wedge and it goes up on the seventh, and after the seventh it is not a number anybody in this room can change, and there is nothing in that number for you to check. That is the arrangement. I am not going to tell you it is a good one and I am not going to tell you it is a bad one.”
+“That is not a question I answer.” He did not raise his voice or change anything about his manner. “It is on a wedge and it goes up on the twenty-third, and after the twenty-third it is not a number anybody in this room can change, and there is nothing in that number for you to check. That is the arrangement. I am not going to tell you it is a good one and I am not going to tell you it is a bad one.”
 
 She did not ask a second one.
 
@@ -126,4 +126,4 @@ That was never an obstacle. She had gone round it nine days in about four minute
 
 It was a description of where she was standing.
 
-She stood in a valley with a stove in the middle of it and ten days owed from the seventh and a hand that was going to sign a number she was not going to be shown, and the registrar had written the whole of her situation on a bar in the ordinary hand without ever meeting her and without being wrong about one word of it.
+She stood in a valley with a stove in the middle of it and ten days owed from the next morning and a hand that was going to sign a number she was not going to be shown, and the registrar had written the whole of her situation on a bar in the ordinary hand without ever meeting her and without being wrong about one word of it.

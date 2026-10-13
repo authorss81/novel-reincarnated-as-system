@@ -12,11 +12,11 @@ That is his whole reason and he did not dress it up, and when she said so later 
 
 ## Four Columns
 
-She looked at it for four seconds and then she stopped looking at it and stood very still.
+She read the whole page and then she stopped reading it and stood very still.
 
 Four columns.
 
-The first was a date. The second was a stretch, written in a shorthand with numbers in it, and beside every stretch on the page was a small painted mark of some kind, a bar and a cross and a ring, and she worked out inside four seconds that a mark stood for a place.
+The first was a date. The second was a stretch, written in a shorthand with numbers in it, and beside every stretch on the page was a small painted mark of some kind, a bar and a cross and a ring, and she worked out standing there that a mark stood for a place.
 
 The third was hours.
 
@@ -28,7 +28,7 @@ The price column and the reason column are the same column.
 
 That is what a fourth column with nothing in it on most lines is. It is not a place for a second number. It is a place where somebody may put a word, and it is the only place on the page where a word fits, and the hours go in the page on the same lines.
 
-She looked at it for four seconds and did not know what it was going to cost her, and that is a thing that only happens to a person about four times in a life.
+She read it twice and did not know what it was going to cost her, and that is a thing that only happens to a person about four times in a life.
 
 ## What They Said About It
 
@@ -108,7 +108,7 @@ This man had the rule the way it was because the rule was the work and the work 
 
 And he was right.
 
-She could see the proof of it in four seconds from where she was standing, and the proof was on about sixty yards of ground inside that wire, and it was the worst ground she had ever looked at and there were eleven men on it.
+She could see the proof of it from where she was standing, and the proof was on about sixty yards of ground inside that wire, and it was the worst ground she had ever looked at and there were eleven men on it.
 
 ## What She Did Not Do
 
@@ -126,7 +126,7 @@ So she worked the ground and said nothing, and it was the first time in four yea
 
 ## What She Spent
 
-She spent nothing of the day's ration in that, and the reason was in the chapter and it was not a speech.
+She spent nothing of the day's ration in that, and the reason was not a speech.
 
 There was a question she had wanted to ask all morning and it was the same question in four different shapes, and it was: *who is behind the stretch you are not getting to?*
 

@@ -1,6 +1,6 @@
 # Luo Ping
 
-The room at the back of the camp where the week's days got written into somebody else's book was a hut with a counter in it and a stove and a window, and there was a man in it doing the work when she came, and she had come eleven days east to ask a man one question.
+The room at the back of the camp where the week's days got written into somebody else's book was a hut with a counter in it and a stove and a window, and there was a man in it doing the work when she came, and she had come nine days east to ask a man one question.
 
 He was about thirty-nine and thin in the wrists and there was a wedge of paper squared on the counter in front of him with a date at the top of it.
 
@@ -44,7 +44,7 @@ He said: “I have been in every counting room between here and there four times
 
 She stopped there.
 
-She had two more in her, and she had them ready, and she worked out standing at the counter of a hut in a cold country that she was not going to ask them and that the asking was the whole of what she had come eleven days to do.
+She had two more in her, and she had them ready, and she worked out standing at the counter of a hut in a cold country that she was not going to ask them and that the asking was the whole of what she had come nine days to do.
 
 Because he had been in a counting room in Lowwater in the spring, and a date had gone into a book in that room against an eight hundred jin claim standing against a woman, and the date was not a figure, it was a day, and he had written the day.
 
@@ -76,7 +76,7 @@ And she did not tell him she knew about the household either.
 
 That was the thing she was actually careful about, and it was the only part of the two days she would want written down anywhere.
 
-Eleven days west of that camp on high ground there was a woman and a boy of eleven who did not know that their husband had put a date in a room in Lowwater for money. He had not said so and she did not say so, and she did not say so because saying it would have been a way of making him small.
+Nine days west of that camp on high ground there was a woman and a boy of eleven who did not know that their husband had put a date in a room in Lowwater for money. He had not said so and she did not say so, and she did not say so because saying it would have been a way of making him small.
 
 She thought about it for a while on the way back, which was a thing she had no right to do, and then she did not think about it again.
 
@@ -122,4 +122,4 @@ A woman could spend eight days of the only voice she had left to find one, arriv
 
 The road was nine days and the road did not need him. He was on the road because the road goes where his work goes.
 
-That was the whole of what eleven days bought, and she had known it before she got to the door.
+That was the whole of what nine days bought, and she had known it before she got to the door.

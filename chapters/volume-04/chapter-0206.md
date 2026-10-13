@@ -108,7 +108,7 @@ She folded it and put it on the bunk and used it and never said anything about i
 
 ## The Account
 
-There was a thing she had been carrying since the hundredth chapter and she touched it once in those six days, standing at a trestle, at about the eighth hour, in the ordinary voice she used for arithmetic.
+There was a thing she had been carrying since the deep cold of the winter and she touched it once in those six days, standing at a trestle, at about the eighth hour, in the ordinary voice she used for arithmetic.
 
 It was a purchase and it was still carrying.
 

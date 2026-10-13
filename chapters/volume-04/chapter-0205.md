@@ -24,11 +24,11 @@ It was the county's own two words and it was in the hand that writes Member pres
 
 The same hand. The same pen. The same four words in the same order in a building nine days up the road, except that the other ruling was made by a man standing in a room with her in it, and this one had been made by nobody at all.
 
-Beside it, in the fourth column, in a contractor's hand, in ink that was two days old, were the hours she had worked since the fourth day of the month.
+Beside it, in the fourth column, in a contractor's hand, in ink that was two days old, were the hours she had worked since the eleventh of the month.
 
-Nine days of them. They were in order. They were in good order. Every one of them had a date against it and a stretch against it and a mark against it, and the total at the foot of her own line was in six columns of something that were the only part of the whole sheet that had ever been anybody's business.
+Five days of them. They were in order. They were in good order. Every one of them had a date against it and a stretch against it and a mark against it, and the total at the foot of her own line was in six columns of something that were the only part of the whole sheet that had ever been anybody's business.
 
-Nine days, and every one of them good, and not one hour of them had anything to do with the two words in the column next to them.
+Five days, and every one of them good, and not one hour of them had anything to do with the two words in the column next to them.
 
 She stood and looked at that for a long time.
 
@@ -90,11 +90,11 @@ She stood at the trestle for a bit longer and then went and got her bar and went
 
 By the time she was in the ring, the carrier had the sheet in the satchel and the satchel was on the wall, and the sheet was going west on the next carrier whenever the next carrier went.
 
-It was going with two words in one column and nine days of good hours in the other and about a foot and a half of empty ruled paper in the middle, where a county clerk in nine days would eventually look, and see the space, and rule it, and stop.
+It was going with two words in one column and five days of good hours in the other and about a foot and a half of empty ruled paper in the middle, where a county clerk in nine days would eventually look, and see the space, and rule it, and stop.
 
 ## The Whole Of It, In Order
 
-She worked it out standing up, in daylight, with a sheet in front of her, because it took four seconds and it could not be done anywhere else.
+She worked it out standing up, in daylight, with a sheet in front of her, and it could not be done anywhere else.
 
 She had gone east on the morning of the first of the month.
 
@@ -108,7 +108,7 @@ There is no version of the last nine days in which anybody took the counting out
 
 That was the thing about it, and three months had not got her used to it. Hours did not buy it. Money did not buy it.
 
-There was a column about six hundred miles of paper away where the word went, and it was the width of a line, and there was exactly one line in it, and she did not fill it in.
+There was a column about four hundred miles of paper away where the word went, and it was the width of a line, and there was exactly one line in it, and she did not fill it in.
 
 ## What She Refused To Say Out Loud
 
@@ -118,7 +118,7 @@ That is the sentence. She went back over it afterwards about forty times, on a r
 
 Nobody stopped her. There was no order. There was no county clerk who had refused to paper her and there was no man in a good coat who had put a hand on her arm and there was no letter and no rider and no threat of any kind.
 
-She got on a cart at the fourth bridge on the second day of a month and put the whole last fourteen days of winter and a season of rationing and about thirty coppers and a plate and a licence and a document about eight hundred jin into a bag, and she did not count the sixteenth, and she walked off the top of a hill.
+She walked off the top of a hill on the morning of the first of the month, with about thirty coppers and a plate and a licence and a document about eight hundred jin in a bag, and she did not count the sixteenth, and she got on a cart at the fourth bridge the next day and went on east.
 
 Nine men in a cold room four miles up the other side of that hill were nine days behind her, and she was not going to see them before the thaw, and she could send nothing and tell them nothing.
 
@@ -147,8 +147,6 @@ And the one item she had lost in four years was the one they could never have he
 She could have written to them. There was no way to write to them.
 
 She could have told Qin on the morning of the first at a dressed stone with nothing written on it, with a flat of bread going warm in a coat, and she had said nothing, and it had not occurred to her to say it, and that was not a decision she had made either.
-
-She put four feet of ground and worked out how many feet were left.
 
 And she was not going to let it become the road's fault, or the winter's, or a county's.
 

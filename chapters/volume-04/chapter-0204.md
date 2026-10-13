@@ -34,7 +34,7 @@ Eighteen days east and back. The carrier that went west eleven days ago with the
 
 Tomorrow was the sixteenth of the month.
 
-It was never going to be reachable. Not by a cart and not by a cart that went faster. Nine days east and eighteen days on the road and a turnaround that does not care who has a reason, and the sixteenth is in the morning and there has never been a version of the last nine days in which a woman who left a county on the morning of the twenty-fourth of a month was going to be standing on a square at the third hour of the sixteenth.
+It was never going to be reachable. Not by a cart and not by a cart that went faster. Nine days east and eighteen days on the road and a turnaround that does not care who has a reason, and the sixteenth is in the morning, and a woman who walked off the top of a hill on the morning of the first of the month was never going to be standing on a square in Lowwater at the third hour of the sixteenth.
 
 She had not counted it. That was not an excuse and she did not use it as one. She had not counted it, and the reason she had not counted it was not that the road was hard or that the tin was thin or that a county had written something on a bar in the ordinary hand.
 
@@ -70,7 +70,7 @@ Ma Sheng read the west-going line out of a board to a woman standing in front of
 
 That was the whole of why he did it. It took under a minute and it cost him nothing and to this day he did not know that he had done anything.
 
-He was the first person in eleven days who had done something for her for nothing.
+He was the first person in five days who had done something for her for nothing.
 
 He was not doing it for her sake. He was doing it because he keeps a board and somebody was standing in front of his board in the ordinary course of a morning, and a man who keeps a board reads it out to whoever is standing there. He would have read it to a carter. He would have read it to the girl.
 

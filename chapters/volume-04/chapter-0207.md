@@ -1,10 +1,10 @@
 # Foundation One
 
-The last of the ten was the twenty-sixth and the schedule went up on the seventh, and she was not in the room.
+The last of the ten was the twenty-third and the schedule went up on the same morning, and she was not in the room.
 
-She had gone in on the sixth, once, on the strength of having asked once and been told no, and she stood in the doorway for about four minutes and then left, because there was nothing in the room that a woman standing in the doorway could do and staying in it would have made her the sort of person who stays in rooms.
+She had gone in the week before, once, on the strength of having asked once and been told no, and she stood in the doorway for about four minutes and then left, because there was nothing in the room that a woman standing in the doorway could do and staying in it would have made her the sort of person who stays in rooms.
 
-So the number was read out of a wedge of paper on the seventh of the month by a clerk whose job it is to turn a contractor's book into a schedule, and she was about four miles away on the ring, at the third hour, with a bar.
+So the number was read out of a wedge of paper on the morning of the twenty-third by a clerk whose job it is to turn a contractor's book into a schedule, and she was about four miles away on the ring, at the third hour, with a bar.
 
 She never knew the number.
 
@@ -22,7 +22,7 @@ The front of it read: **Foundation, stage one.**
 
 And under it, in the space where a ceiling is written, in the same unhurried set of strokes that had put a line of office-name above the seal: a ceiling that had never existed on the front of any document in any office in the world.
 
-There is nothing above nine. There had been nothing above nine on the front of the document anywhere in the world for four months, and a registrar had said so out loud in a room, and it was true, and it had stopped being true on the seventh of the month by a hand that is not a man's.
+There is nothing above nine. There had been nothing above nine on the front of the document anywhere in the world for four months, and a registrar had said so out loud in a room, and it was true, and it had stopped being true on the morning of the twenty-third by a hand that is not a man's.
 
 The back of it was the back of it. Seven conditions on it, unrepealed, unre-listed, untouched — and she did not read it and did not need to, because she had read it once in a county office nine days and four hundred miles behind her and it had not changed and nothing in this world was ever going to change the last line of it.
 
@@ -46,7 +46,7 @@ Four counties is what is written, and four county books carry a stage column, an
 
 It is not that something went wrong.
 
-That was the thing she turned over most afterwards, on every one of the six days she had left on the course.
+That was the thing she turned over most afterwards, on every one of the four days she had left on the course.
 
 It was not a failure and it was not a malfunction and it was not the layer being broken. Announcements were heard inside the bound and went no further than the bound, and she was nine days outside it, and there was a room and she was not in it, and the whole of the arrangement was about where the room was.
 
@@ -54,7 +54,7 @@ Nobody out here has ever heard one. Not the foreman, not the tender, not the gir
 
 In the whole of the country she was standing in, in every life in it, not one person had ever heard a stage said out loud.
 
-She had walked nine days out of a place where everything that has ever happened to her was said out loud to nine counties in about four seconds, and she had come to a place where the largest thing that has ever happened to her can be said perfectly clearly and there is nobody within nine days who would know what it was.
+She had walked nine days out of a place where everything that has ever happened to her was said out loud to nine counties in the ordinary way, and she had come to a place where the largest thing that has ever happened to her can be said perfectly clearly and there is nobody within nine days who would know what it was.
 
 It went about two hundred yards, into a field.
 
@@ -80,7 +80,7 @@ She put the licence in the oilcloth against her ribs, above a Clay Plate that ha
 
 ## The Ten Days Before It
 
-The ten days from the seventh of the month onward were the easiest ten days she worked in her life, and that is a thing she would not have believed if she had been told.
+The ten days from the fourteenth of the month onward were the easiest ten days she worked in her life, and that is a thing she would not have believed if she had been told.
 
 The column had her name in it and the column was counting, and a thing that is counting does not need anything else from her.
 

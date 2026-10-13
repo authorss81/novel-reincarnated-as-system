@@ -114,7 +114,7 @@ She asked him what he made of the nine men in that cold room, and he gave her a 
 
 Then she walked.
 
-Behind her, from that hour onward, were a wash house, a square, a shelf with a ruled line on it and nothing in the line, a tower with a light in it, a board behind a well, a girl at a copying frame, and nine men in a cold room with a bucket standing by the grate.
+Behind her, from that hour onward, were a wash house, a square, a shelf with a ruled space on it and nothing in the space, a tower with a light in it, a board behind a well, a girl at a copying frame, and nine men in a cold room with a bucket standing by the grate.
 
 Every paper in her life had been written by somebody she could walk to.
 

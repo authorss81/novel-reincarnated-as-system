@@ -76,13 +76,13 @@ The ration had been the day's ration since the cold county and it was not a numb
 
 On the second day she spent none. Not one. There was a point in the middle of that false rise where a single sentence would have bought her the shape of the ground beyond the next rise, and it would have been a good buy, and she went without, and the reason was that she could not tell what it would cost and she was nine days out of a county with no money in it and there was no way to ask.
 
-On the third day she spent one, and it bought nothing at all, and she had it back the next day at one and then had nothing at all for two whole days.
+On the third day she spent one, and it bought nothing at all, and after that there was nothing at all for two whole days.
 
 That is what the falling-off does when nobody is counting it. It does not go down evenly. It goes down where it is used.
 
-She had been using it twice a day in hours since the spring, on a foundry floor, where two sentences was a shift and four was a discipline she had written on the back of a dead weight ticket in her own hand.
+She had been spending it since the spring at a rate she had set for herself on a foundry floor and had written on the back of a dead weight ticket in her own hand, and the rate had been right for a place where a body at nine is put to work four hours after it gets up.
 
-Out here two of them was a shape she wanted and four was a day she could not afford to have, and she was spending it the way a woman spends coin, which is badly, because she was the only one who knew how little there was.
+Out here a single one of them was a shape she wanted and four of them was a day she could not afford to have, and she was spending it the way a woman spends coin, which is badly, because she was the only one who knew how little there was.
 
 ## What A Body At Nine Is
 

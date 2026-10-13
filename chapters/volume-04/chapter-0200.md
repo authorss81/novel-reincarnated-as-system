@@ -26,11 +26,11 @@ It was warm.
 
 That was the first thing, and it was the thing she was not braced for. She had stood at a trestle in the open all day in the wind and she came into a room in the dark at the end of it that was warm, with a fire in it, and men in it, and three men writing, and nobody stood up.
 
-For about four seconds she stood just inside the door and let it be warm.
+She stood just inside the door and let it be warm.
 
 She had been cold for nine days. She had had a bake and a tin and a flat wall with no roof on the third night, and a fire she could not reach in a county a fortnight ago. She had not been in a warm room with other people in it for the whole of that time and she had been telling herself it did not matter.
 
-It mattered. Four seconds was enough to find out.
+It mattered. It did not take long to find out.
 
 That was the only warm thing in nine days that had not cost her, and that was the whole of what the room gave her.
 
@@ -38,7 +38,7 @@ They asked her nothing. Not one question in that room, and she found out afterwa
 
 “Sit there,” Pei An said, and put the top sheet in front of her, and turned round.
 
-She gave them the sheet. There is a form of words for that and it took her about four seconds and none of them looked up.
+She gave them the sheet. There is a form of words for that and she said it in the ordinary voice and none of them looked up.
 
 ## Three Marks
 
@@ -114,7 +114,7 @@ That is worth understanding on its own. There are exactly two documents in her l
 
 The line said: **A sheet with three marks on it is worth a week and not a name.**
 
-She looked at it for a while after she had written it, because it was the first true thing about the road that she had been able to put down in one line, and because it was nine days old and it had taken a hundred sheets and three men and a room with a fire in it to arrive at.
+She looked at it for a while after she had written it, because it was the first true thing about the road that she had been able to put down in one line, and because it was six days old and it had taken a hundred sheets and three men and a room with a fire in it to arrive at.
 
 She had wanted a sponsor, and she had prepared to pay for one, and she had budgeted a purse that no longer existed, and she had written the sentence on the flat by the fourth bridge on the second day in the dust behind a stone load with the driver looking at his near ox.
 
