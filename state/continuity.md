@@ -55,20 +55,20 @@ Rules of record. Anything below is canon. If a batch needs to change one of thes
 
 Yuan (was Yuan Sheng), Ning Yan, Ning Xue, Ning Bo, Ning Wu, Qiu Zhulang, Bai Zhu, Shuyin, Du Hong, Mei Jiu, Shen Xiu, Feng Lushi, Wei Ran, Wen the lamp-mender. Sects: Qinghe, Beihe, Canglan, Luoyuan, Shouyi, Wanzhou, Hanhui, Dushou, Tianshu. Places: Nine Steps Terrace, Lowwater, the Ashwood Verge, the Broken Kiln, the Lantern Register tower. Institutions: the Bureau of Records, the Lantern order, the Elder's Hall, the Warden's office, the Order of the Recruited, the Scribe.
 
-## Established facts (through ch 12)
+## Established facts (through ch 24)
 
-- Ning Yan: Body-Forging 3 (ch 1–2) → 9 briefly ch 3 → **4** ch 3–4 → 5 ch 8 → 6 ch 11. Scar sternum to hip ch 3, permanent. Ashwood Nine-Step lost as technique ch 3, habit survives ch 4.
-- Ch 1: quarter-token four hands short, dawn quota bell; voice knows name/realm/stage/breathing (16/min); she speaks Ning Wu aloud, Shen Xiu hears sound not his own.
-- Ch 2: first quest stated cost half-stage, accepted; Ashjaw killed with Nine-Step; Merit settles warm into Yuan; Settlement drops sliver.
-- Ch 3 (irreversible): Yuan spends Merit without consent to stop killing stroke; price from foundation; wakes stage 4, asks what it took, he does not answer.
-- Quota 28 believed in yard; layer announces harvest 33 (Lin Shou taken) ch 7.
-- Announcements audible bound-wide, one sentence, report only (Mei Jiu stage 8 ch 6; sheath cleared ch 8).
-- Quest cost always stated, always paid by her (ch 2 half-stage, ch 8 full stage + aperture risk); Yuan bound, cannot lie.
-- Shen Xiu tired man with quota, four names, left fourth line open (ch 11), carried Pei Lan (ch 9). Not villain.
-- Du Hong 18, ambitious, bad at lying, first ally; filed Ashjaw under own name ch 5, keeps jaw-plate.
-- Feng Lushi consumptive clerk, 22 years fair hand, 19 Listeners, believes her ch 10, copy bears post-closure date.
-- Pei Lan 19, furnace-crew, broken leg, carried in whole ch 11.
-- Furnace column: six-year unsettled Ning Bo account, Ning Yan held as credit, three-generations rule (ch 12).
-- Yuan Noise → Voice; Settlement risen twice/fallen once per outline accounting.
-- Layer brackets used: ch 6, ch 7, ch 8 only (one each). All other chapters zero.
-- Not yet visited: Broken Kiln interior, records room, Assembly. Lowwater tower visited ch 10 only.
+- Ning Yan: Body-Forging 3 (ch 1–2) → 9 briefly ch 3 → **4** ch 3–4 → 5 ch 8 → 6 ch 11 → 7 ch 14 (yard losing/work) → 8 ch 22 (4-mile carry + no sleep, tax untouched). Scar sternum to hip ch 3, permanent. Ashwood Nine-Step lost as technique ch 3, habit survives ch 4/14.
+- Ch 13: furnace column is account, 3-gen rule, settled in kind/service; billed 6 years in air. Du Hong protects from specific number he does not know.
+- Ch 14 (deadline): winter drill in 9 days. First deliberate omission between them (asks what else he took, true+incomplete, both let stand). Log foreshadowed.
+- Ch 15: past stage 9 needs sect seal/sponsor; servants cannot be sealed. Map absent not locked. Mei Jiu not bad, own account, seal cost.
+- Ch 16: layer is office not sky, somebody speaks/writes it; Bureau is visible part. Ning chooses not to know (first time).
+- Ch 17: Feng 400 vols, index in head, hand degrading plot fact. Fourth column no heading; Ning Wu in it.
+- Ch 18: Warden's marker post (same Vol 4). Wen cart stops, cannot cross (unable not unwilling). Kiln sealed by layer.
+- Ch 19: 40 min truly-alone, only this volume, metallic taste. Yuan absent not blocked, returns count wrong.
+- Ch 20 onward exact wording: *assessed, reassigned, unreconciled*. Kiln assesses/manufactures.
+- Ch 21 irreversible: decides aloud to empty room to take tablet. Tablet single fired plate size of hand, surface like skin (described once, remembered Vol 16).
+- Ch 22: removal logged [Removal from sealed ground is logged.]; first thing out 16 years. 7→8 carry, tax untouched noticed. Settlement rises again. She does not ask pay / he never volunteers (pattern to Vol 5).
+- Ch 23: Wen will not touch (professional disgust). Tablet made of people / core-stone fired qi. Wears against skin rest Vol 1, never comfortable.
+- Ch 24: Yuan can act through her hand (first time in 19 years he picks anything up), slower costs more. Log started in own hand clerks cannot read quickly. Settlement spikes, loses mother's name (name itself, not grief; never says again, never says forgotten). Qiu waits — unresolved.
+- Layer brackets used: ch 6,7,8,22 only. All other ch 1–24 zero.
+- Not yet visited: records room, Assembly. Broken Kiln interior done 19–21. Aperture rim cracked unknown to her.

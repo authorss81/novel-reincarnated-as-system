@@ -1,28 +1,31 @@
 # Current State
 
-**As of:** end of Volume 1 Batch 0001 (ch 1–12 written).
+**As of:** end of Volume 1 Batch 0002 (ch 13–24 written).
 
 - **Volume:** 1 of 16 — A Voice in the Dark (ch 1–58)
-- **Chapter written:** 1–12. Next chapter to write is chapter 13.
-- **Next phase:** Volume 1, Batch 0002 (ch 13–24), cards in `outline/batches/volume-01-batch-0002.md`
+- **Chapter written:** 1–24. Next chapter to write is chapter 25.
+- **Next phase:** Volume 1, Batch 0003 (ch 25–36), cards in `outline/batches/volume-01-batch-0003.md`
 - **Point of view:** close third on Ning Yan; every line Yuan speaks is written in the present tense.
-- **In-world date:** winter, the year of the Low Water. Eighth morning after the Verge run, day of the ledger reading.
+- **In-world date:** winter, Low Water year. Second week after ledger reading; winter drill in nine days (ch 14 deadline running).
 
-## Who is where at end of chapter 12
+## Who is where at end of chapter 24
 
-- **Ning Yan** — seventeen, outer disciple counted whole, Body-Forging stage 6. Scar sternum to hip. Ashwood Nine-Step lost as technique, held as habit. Holds tower record plate original, boundary mark, Feng Lushi's copy with post-closure date. Name public in furnace column as credit (inherited Ning Bo account).
-- **Yuan** — Voice stage, continuous. Settlement risen hard in ch 3, fallen sliver in ch 2 and ch 8. Cannot see own number. Has not answered what the spending took.
-- **Shen Xiu** — Team Elder, left fourth loss line open then smudged shut; carried Pei Lan half-way without comment. Tired, not villain.
-- **Du Hong** — eighteen, filed Ashjaw plate under own name, holds four-hands credit, owes Ning Yan debt. First ally.
-- **Pei Lan** — nineteen, furnace-crew inner, broken leg, fever broke under her coat. Carried in as whole.
-- **Lu Fen / Xie Qiao** — senior disciples, competing claim failed, Xie Qiao wrist broken by rebound, fled. Know she cleared sheath.
-- **Mei Jiu** — inner disciple stage 8 (announced ch 6), watching Ning Yan after ledger reading.
-- **Feng Lushi** — Lantern Register keeper at Lowwater, alive, consumptive, 22 years fair hand. Believes her, copied plate, noted post-closure date. Has never heard of her before ch 10 (preserved).
-- **Qiu Zhulang** — not yet on page. Elder of the Furnace, above.
+- **Ning Yan** — seventeen, outer disciple, Body-Forging stage 8 (6→7 ch 14 yard, 7→8 ch 22 kiln road). Aperture rim cracked, unknown to her. Scar sternum-hip. Ashwood Nine-Step lost as technique, habit only. Wears Clay Tablet against skin (ch 23 onward). Holds Feng's two copies + own knee-copy + own log started ch 24 in hand clerks cannot read quickly. Elder Qiu waiting at terrace steps.
+- **Yuan** — Voice stage, continuous except 40 min sealed silence ch 19. Settlement risen twice/fallen once entering batch; risen again ch 22; spiked ch 24 on through-hand touch. Cannot see own number. Lost mother's name ch 24 (touch cost — name itself taken, grief remains, never says again). Can act through her hand, slower, costs more, saved until ch 24.
+- **Du Hong** — eighteen, filed Ashjaw, protecting her from specific number he does not know (ch 13). Training partner, beaten her then witnessed 6→7.
+- **Mei Jiu** — inner stage 8, not bad person, own account/seal cost revealed ch 15. Rival → person.
+- **Wen the Lamp-mender** — answered once ch 16: layer is office not sky, Bureau is visible part. Cart cannot cross Warden's marker ch 18. Will not touch tablet ch 23 (professional disgust). Tablet made of people / core-stone is fired qi.
+- **Feng Lushi** — 400 volumes, index in head, handwriting degrading (plot fact ch 17). Fourth column with no heading; Ning Wu line copied. Alive, coughing.
+- **Shen Xiu** — tired man with quota, not villain. Off-page this batch.
+- **Qiu Zhulang** — not yet spoken, waiting end of ch 24 pull. Do not resolve early.
+- **Ning Wu** — record wording fixed from ch 20: *assessed, reassigned, unreconciled*. Fourth column is *reassigned*.
 
 ## Running status
 
-- Winter quota believed 28 in yard; layer announced harvest 33 (Lin Shou taken). Difference unresolved.
-- Ning Wu: taken at 13 for kiln, record closed last winter per sect; Feng's copy date shows tower marked after closure. Status: assessed, reassigned, unreconciled (to be worded exactly from ch 20 onward).
-- Yuan designation active; Ning Yan partnered, watching not blaming. Log not yet started (starts ch 24).
-- Clay Tablet, Broken Kiln interior, records room, Assembly untouched. Lowwater tower visited (ch 10) but Broken Kiln/records room/Assembly not yet entered.
+- Furnace column = harvest account, 3 generations, settled in kind/service; Ning Bo 6-year account billed in air/service.
+- Seal/permit required past stage 9 (ch 15). Map not locked, simply absent for names not on list.
+- Broken Kiln sealed by layer marker not masonry; Lantern order cannot cross; Warden's marker post (same post Vol 4).
+- Kiln assesses/manufactures (stalled opened, useful part moved into failing, both filed same number), not kills.
+- Clay Tablet: single fired plate size of hand, surface like skin (described once ch 21). First thing out of sealed place in 16 years (ch 22). Layer logs removals (bracket ch 22).
+- 40 min truly-alone time ch 19 — only this volume, metallic taste remembered.
+- Log started ch 24. Records room, Assembly untouched. Winter drill in 9 days.
