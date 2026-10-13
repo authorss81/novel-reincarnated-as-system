@@ -1,31 +1,31 @@
 # Current State
 
-**As of:** end of Volume 1 Batch 0002 (ch 13–24 written).
+**As of:** end of Volume 1 Batch 0003 (ch 25–36 written).
 
 - **Volume:** 1 of 16 — A Voice in the Dark (ch 1–58)
-- **Chapter written:** 1–24. Next chapter to write is chapter 25.
-- **Next phase:** Volume 1, Batch 0003 (ch 25–36), cards in `outline/batches/volume-01-batch-0003.md`
+- **Chapter written:** 1–36. Next chapter to write is chapter 37.
+- **Next phase:** Volume 1, Batch 0004 (ch 37–46), cards in `outline/batches/volume-01-batch-0004.md`
 - **Point of view:** close third on Ning Yan; every line Yuan speaks is written in the present tense.
-- **In-world date:** winter, Low Water year. Second week after ledger reading; winter drill in nine days (ch 14 deadline running).
+- **In-world date:** winter. Assembly in nineteen days (ch 36 pull). Winter drill done.
 
-## Who is where at end of chapter 24
+## Who is where at end of chapter 36
 
-- **Ning Yan** — seventeen, outer disciple, Body-Forging stage 8 (6→7 ch 14 yard, 7→8 ch 22 kiln road). Aperture rim cracked, unknown to her. Scar sternum-hip. Ashwood Nine-Step lost as technique, habit only. Wears Clay Tablet against skin (ch 23 onward). Holds Feng's two copies + own knee-copy + own log started ch 24 in hand clerks cannot read quickly. Elder Qiu waiting at terrace steps.
-- **Yuan** — Voice stage, continuous except 40 min sealed silence ch 19. Settlement risen twice/fallen once entering batch; risen again ch 22; spiked ch 24 on through-hand touch. Cannot see own number. Lost mother's name ch 24 (touch cost — name itself taken, grief remains, never says again). Can act through her hand, slower, costs more, saved until ch 24.
-- **Du Hong** — eighteen, filed Ashjaw, protecting her from specific number he does not know (ch 13). Training partner, beaten her then witnessed 6→7.
-- **Mei Jiu** — inner stage 8, not bad person, own account/seal cost revealed ch 15. Rival → person.
-- **Wen the Lamp-mender** — answered once ch 16: layer is office not sky, Bureau is visible part. Cart cannot cross Warden's marker ch 18. Will not touch tablet ch 23 (professional disgust). Tablet made of people / core-stone is fired qi.
-- **Feng Lushi** — 400 volumes, index in head, handwriting degrading (plot fact ch 17). Fourth column with no heading; Ning Wu line copied. Alive, coughing.
-- **Shen Xiu** — tired man with quota, not villain. Off-page this batch.
-- **Qiu Zhulang** — not yet spoken, waiting end of ch 24 pull. Do not resolve early.
-- **Ning Wu** — record wording fixed from ch 20: *assessed, reassigned, unreconciled*. Fourth column is *reassigned*.
+- **Ning Yan** — seventeen, furnace crew servant-rank inner, Body-Forging stage 4 (9→4 ch 36 through-hand spend). Aperture cracked through, permanent. Second scar left shoulder to hip + old sternum-hip scar. Ashwood Nine-Step gone with order taken. Wears Clay Tablet against skin; log in poor-hand wash code in lining; holds reassignment book page copy + book wrapped for Feng. In laundry room, found by Du Hong. Assembly in 19 days, no seal.
+- **Yuan** — Voice stage, continuous, louder. Settlement over half (spiked ch 36). Through-hand full cost demonstrated ch 34–36. Reads shape of technique, cannot describe, only locates (ch 26). Mother's name never said again.
+- **Qiu Zhulang** — 61, kind, gave five names ch 28 (one not servant, Vol 5 plant), admitted reassignment signed above authority in unknown hand ch 29, offered furnace crew + bed + stipend + account write-off if she stops asking ch 30, promoted her in Hall ch 31 (midpoint reversal), came down to records room on own authority and lost argument on purpose ch 35. Not coward/martyr. Not at furnace when barring ordered.
+- **Shen Xiu** — reported her ch 34 three days early for son's clerkship/inner place (set up ch 27). Tired/honest, never forgiven.
+- **Du Hong** — inner by her recommendation, sent to report her in three days, has not (ch 33). Knows pallet paper → Feng plan. Dies Vol 2 because of her — started.
+- **Feng Lushi** — alive, has not yet received book. Four copies upward to come ch 40.
+- **Two furnace crew friends** — made ch 32, unnamed, both die Vol 2.
+- **Ning Wu** — *assessed, reassigned, unreconciled*; reassignment signature Bureau hand nobody at Qinghe recognises (ch 36, Feng recognises Vol 5).
 
 ## Running status
 
-- Furnace column = harvest account, 3 generations, settled in kind/service; Ning Bo 6-year account billed in air/service.
-- Seal/permit required past stage 9 (ch 15). Map not locked, simply absent for names not on list.
-- Broken Kiln sealed by layer marker not masonry; Lantern order cannot cross; Warden's marker post (same post Vol 4).
-- Kiln assesses/manufactures (stalled opened, useful part moved into failing, both filed same number), not kills.
-- Clay Tablet: single fired plate size of hand, surface like skin (described once ch 21). First thing out of sealed place in 16 years (ch 22). Layer logs removals (bracket ch 22).
-- 40 min truly-alone time ch 19 — only this volume, metallic taste remembered.
-- Log started ch 24. Records room, Assembly untouched. Winter drill in 9 days.
+- Log: stolen laundry ledger back pages, deliberately poor hand, rubbish-camouflage (ch 25). Seed Vol 4 + Feng fair-hand Wall discovery.
+- Seal needed past stage 9; servants not sealed. Family account deferred not settled (ch 31).
+- Elder Hall moves off record when it wants (barred records room ch 34–35).
+- Foundation tax = withdrawal taking what is on top (ch 36 reveal). Nothing lost comes back.
+- Layer brackets used this batch: ch 36 only [Through-hand expenditure is logged...]. All other ch 25,26,27,28,29,30,31,32,33,34,35 zero.
+- Tablet texture not redescribed (ch 21 once only). Tablet worn on skin throughout.
+- Reassignment page signature Bureau hand; Bureau readers / layer editing to come ch 42.
+- Not yet visited: Assembly Hall. Records room done ch 34–35.

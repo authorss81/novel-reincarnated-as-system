@@ -57,7 +57,7 @@ Yuan (was Yuan Sheng), Ning Yan, Ning Xue, Ning Bo, Ning Wu, Qiu Zhulang, Bai Zh
 
 ## Established facts (through ch 24)
 
-- Ning Yan: Body-Forging 3 (ch 1–2) → 9 briefly ch 3 → **4** ch 3–4 → 5 ch 8 → 6 ch 11 → 7 ch 14 (yard losing/work) → 8 ch 22 (4-mile carry + no sleep, tax untouched). Scar sternum to hip ch 3, permanent. Ashwood Nine-Step lost as technique ch 3, habit survives ch 4/14.
+- Ning Yan: Body-Forging 3 (ch 1–2) → 9 briefly ch 3 → **4** ch 3–4 → 5 ch 8 → 6 ch 11 → 7 ch 14 (yard losing/work) → 8 ch 22 (4-mile carry + no sleep, tax untouched). Scar sternum to hip ch 3, permanent. Ashwood Nine-Step lost as technique ch 3, habit survives ch 4/14. → 9 ch 26 (locate-work) → **4** ch 36 (through-hand spend, order taken, Nine-Step habit gone). Second scar left shoulder-hip ch 36. Aperture rim cracked (unknown) → cracked through ch 36 permanent.
 - Ch 13: furnace column is account, 3-gen rule, settled in kind/service; billed 6 years in air. Du Hong protects from specific number he does not know.
 - Ch 14 (deadline): winter drill in 9 days. First deliberate omission between them (asks what else he took, true+incomplete, both let stand). Log foreshadowed.
 - Ch 15: past stage 9 needs sect seal/sponsor; servants cannot be sealed. Map absent not locked. Mei Jiu not bad, own account, seal cost.
@@ -70,5 +70,18 @@ Yuan (was Yuan Sheng), Ning Yan, Ning Xue, Ning Bo, Ning Wu, Qiu Zhulang, Bai Zh
 - Ch 22: removal logged [Removal from sealed ground is logged.]; first thing out 16 years. 7→8 carry, tax untouched noticed. Settlement rises again. She does not ask pay / he never volunteers (pattern to Vol 5).
 - Ch 23: Wen will not touch (professional disgust). Tablet made of people / core-stone fired qi. Wears against skin rest Vol 1, never comfortable.
 - Ch 24: Yuan can act through her hand (first time in 19 years he picks anything up), slower costs more. Log started in own hand clerks cannot read quickly. Settlement spikes, loses mother's name (name itself, not grief; never says again, never says forgotten). Qiu waits — unresolved.
+- Ch 25: log is stolen laundry ledger back pages, deliberately poor hand, wash-code inside learner's strokes, rubbish-camouflage. Seed Vol 4 + Feng fair-hand Wall discovery.
+- Ch 26: Body-Forging 8→9 via work + locate. Yuan reads shape of technique off living person, cannot describe in words, only locates. Used Vol 7/13. Winter drill in 3 days met.
+- Ch 27: Shen Xiu to report for son's clerkship/inner place; reports ch 34 three days early, never forgiven. Tired/honest not villain.
+- Ch 28: Qiu 61, kind, keeps five names in head not paper, gives all five freely. One not servant — plant, Vol 5 payoff.
+- Ch 29: Ning Wu *reassigned, signed above furnace authority, in hand Qiu does not know*. Feng recognises Vol 5. Hunt points upward.
+- Ch 30: offer real — furnace crew servant-rank inner, bed indoors, stipend, family account written off if she stops asking. Refused then accepted ch 31 as trap-inside-kindness. Second offer logged Vol 4 echo.
+- Ch 31: midpoint reversal — Qiu promotes to furnace crew in Hall, approved 11 min, genuine. Bed, stipend, account deferred not settled.
+- Ch 32: furnace procedure live = kiln wall word for word, ordinary horror. Two crew friends made, unnamed, both die Vol 2.
+- Ch 33: Du Hong inner by her recommendation, sent to report in 3 days, has not. Pallet paper → Feng plan. Dies Vol 2 because of her — start.
+- Ch 34: irreversible consent — barred records room, Shen reports early, only way through her, full through-hand cost stated, she says do it. First consented tax; never again until Vol 16.
+- Ch 35: Qiu not ordering barring, comes down on own authority, stands between Hall men and door, loses argument on purpose. Not coward/martyr.
+- Ch 36: 9→4, aperture cracked through permanent, second scar left shoulder-hip, permanently weaker rest of book. Settlement over half. Tax is withdrawal taking what is on top. Signature Bureau hand nobody recognises; Feng will recognise. Assembly in 19 days, no seal.
+- Layer brackets used: ch 6,7,8,22,36 only. All other ch 1–36 zero.
 - Layer brackets used: ch 6,7,8,22 only. All other ch 1–24 zero.
 - Not yet visited: records room, Assembly. Broken Kiln interior done 19–21. Aperture rim cracked unknown to her.

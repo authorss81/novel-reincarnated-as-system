@@ -38,3 +38,20 @@ No cards written. Titles planned in `outline/series.md`.
 ## Rolling volume summary
 
 Ch 13–24: anger→investigation, office discovery, hope in bad hand, terror alone, disgust, tablet out + logged, evidence-as-person, log started. Power 6→7→8, rim cracked unknown. Settlement risen again + spiked, mother's name lost. Qiu waits. Next: evidence to Elder Hall, absorption, furnace (ch 25–36).
+
+## Batch 0003 (ch 25–36)
+
+| Ch | Title | Summary |
+| --- | --- | --- |
+| 25 | The Log | Laundry room night. Starts written record in stolen ledger back pages, deliberately poor hand with wash-code inside, rubbish-camouflage clerks skip. Dates first page. Hunted→author. Seed Vol 4 + Feng fair-hand. Pull: needs stage 9. |
+| 26 | Rebuilding | Yard + ash-flats eleven days. Uses Yuan as teacher not door — he locates shape, cannot describe. Stops him then asks anyway; grudging trust. 8→9. Winter drill in three days. Pull: eligible for seal, not allowed. |
+| 27 | Shen Xiu's Price | Lower terrace night before drill. Shen Xiu admits offered son's clerkship/inner place to report servant-born with seal, already decided, wants not to be told why. She offers log copy in his hand; he refuses, says she makes him stupid. Disappointed in decent man. Pull: Qiu finds her. |
+| 28 | The Elder of the Furnace | Furnace room morning. Qiu kind, asks of father, tells four others with father and remembers all five, 61 not lying. Keeps names in head not paper. She asks; he gives all five freely, one not servant (Vol 5 plant). Villain-as-man. Pull: asks of Ning Wu. |
+| 29 | Ning Wu | Furnace room still. Qiu answers truthfully: reassigned, signed above his authority in hand he does not know, not told did not ask forty years. Furnace is department with manager. She decides on purpose to find what is above. Hunt points upward. Pull: what of ones not reassigned. |
+| 30 | The Offer | Furnace room same day. Real offer: furnace crew servant-rank inner, bed indoors, stipend, family account written off if she stops asking. Qiu applied account six years himself. She asks of non-reassigned; he tells firing truth. Wants bed more than anything. Will refuse what she needs. Pull: refusal costs more. |
+| 31 | The Turn | Outer yard three days later, Elder Hall. Qiu petitions admission to furnace crew; approved eleven minutes, genuine promotion. She accepts as impure necessity, keeps log. Trapped inside kindness. Rank up, body unchanged. Pull: inside building, records room under it. |
+| 32 | Inside | Crew quarters + floor ten days. Learns routines, bed indoors, good at belonging. Floor shows procedure live = kiln wall word for word, warm, first-name terms — ordinary horror. Makes two unnamed crew friends (die Vol 2). Clean hatred. Pull: records room twice monthly, next in three days. |
+| 33 | Du Hong | Outer yard evening. Du Hong inner by her recommendation, sent to report her in three days, has not, told reward, says she ruined career. She does not ask him not to; pallet→Feng contingency set. Terrifying followership; death seed Vol 2. Pull: Shen reports early instead. |
+| 34 | The Report | Records room below furnace. Takes book with only reassignment copy in nine counties; Shen reports three days early, door barred. Yuan states through-hand full cost; she makes him say whole — price is body, takes top, may kill — and consents with facts. Irreversible. Pull: furnace floor inside. |
+| 35 | The Furnace Floor | Barred room being moved. Qiu's people not Qiu bar it; Qiu comes down on own authority, stands between Hall men and door, loses argument on purpose to buy minutes. She lets him, does not forgive, does not tell why. Complicated rescue. Pull: spend happens. |
+| 36 | What It Cost | Laundry room two days later. Cannot hold brush/stand. 9→4, aperture cracked through permanent, Nine-Step order gone, second scar shoulder-hip. Tax is withdrawal taking what is on top. Reads page: Bureau-hand signature nobody recognises. Asks calm what she was; that was mine. Settlement over half. Assembly nineteen days, stage 4 cracked, no seal. |
