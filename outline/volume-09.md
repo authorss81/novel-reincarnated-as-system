@@ -320,7 +320,7 @@ which is the first time in nine hundred years that has happened.
 - **The Order of the Recruited** — refused, silent, absent. **Volume 9 meets it as a refusal standing in a book and
   nowhere else.**
 
-## Power progression: Severance 1 → 3, three stages in 149 days, at 121 and 76 and 73 apart, and the quickening is the point
+## Power progression: Severance 1 → 3, three stages in 270 days from the ceiling, at intervals of 121, 76 and 73, and the quickening is the point
 
 `outline/series.md` §4 puts **Severance 1–9 in Volumes 9–11**. She is at **Nascent Soul 9** at ch 478. **Volume 9
 therefore carries Severance 1, 2 and 3 — the first three — and Volumes 10 and 11 carry 4–6 and 7–9.** Nothing is moved
@@ -338,12 +338,13 @@ never called by any trade term when it is opened.**
 
 **Why the intervals shorten, and the chapter says so.** Volume 8 took two stages in 215 days at intervals of 76 and 139
 — day 1,076 to day 1,291 — because the board was full and she could not be paid and the furnace would not light itself.
-**Volume 9 takes three in 149 days at intervals of 121, 76 and 73 — day 1,291 to day 1,561 — and 121 is the gap from the
+**Volume 9 takes three in 270 days from Nascent Soul 9 — day 1,291 to day 1,561 — at intervals of 121, 76 and 73, and the
+three stages themselves stand 149 days apart from the first of them to the third, and 121 is the gap from the
 ceiling to the first step past it and not the length of any climb.** Because: she has stopped waiting to be paid · she
 has stopped waiting to be asked · the furnace is no longer the way past anything · **and from ch 488 she has opened the
 only document in the world with her name against it, alone, without being read to, so there is no office left to wait
 for.** A stage past the ceiling has always cost her a place somebody else kept for her. **For the last thirty-seven days
-of Volume 9 — day 1,562 to day 1,598 — there is no place left that is hers.**
+of Volume 9 — day 1,562 to day 1,598 inclusive — there is no place left that is hers.**
 
 **The month rule: a month is thirty days, day 134 was the first of a month, and month-day is
 `((day − 134) mod 30) + 1`.** Every day below has been re-derived under that rule and none is a wish. Months in this
@@ -492,10 +493,13 @@ stage is not a licence to move it.
     **DAY ANCHORS FOR BATCH 0003, re-derived and pinned, because three figures in this outline depend on them: ch 516 on
     day 1,514 — the first of the month beginning 1,514 · ch 518 on day 1,521 — the eighth of the same month · ch 519 on
     day 1,525 — the twelfth of that month · ch 520 on day 1,529 — the sixteenth of that month · ch 523 on day 1,561 — the
-    eighteenth of the month beginning 1,544.** **Day 1,521 minus day 1,256 is two hundred and sixty-five days, and that is
-    the length of his silence before he has something to spend — the figure used in §*Concrete resolution*.** A Batch 0003
-    drafter who moves any of these five days must move the two hundred and sixty-five with them and must re-derive it, not
-    carry it.
+    eighteenth of the month beginning 1,544.** **Two figures come out of those days and both are computed from day 1,256,
+    which is ch 462 and the day the Hand went down: day 1,521 minus 1,256 is two hundred and sixty-five days, which is his
+    silence when the door is opened at ch 518, and day 1,529 minus 1,256 is two hundred and seventy-three days, which is
+    his silence when he speaks at ch 520 and is the count behind the *over two hundred days* that §*Concrete resolution*
+    carries.** A Batch 0003
+    drafter who moves any of these five days must move both figures with them and must re-derive them, not
+    carry them.
 13. **Severance 3 at ch 523**, on day 1,561, and the road behind her. **She walks the two miles of lane and they do not go
     anywhere she has been.**
 14. **The demand at its maximum at ch 530–533**, by a man of nine hundred years who is right about every part of it, in
@@ -587,8 +591,8 @@ a trade.** **No harem. Nothing in Volume 9 is a romance.**
 
 ## Concrete resolution (ch 530–538)
 
-- **Severance 3 reached (ch 523)**, and three stages taken in 149 days across the volume — **1,412 · 1,488 · 1,561** — with
-  real intervals of 121, 76 and 73 days, **real months, no skipped breakthrough, no tribulation, no stage announced by
+- **Severance 3 reached (ch 523)**, and three stages taken across the volume — **1,412 · 1,488 · 1,561** — **149 days
+  from the first to the third and 270 from Nascent Soul 9**, with real intervals of 121, 76 and 73 days, **real months, no skipped breakthrough, no tribulation, no stage announced by
   anything but the layer's one sentence going into the ground.** **The paper is opened at ch 488 and never called by any
   trade term.**
 - **The structural answer continued (ch 484, 497, 505, 514, 531):** five mouths, five new people, five different
@@ -814,7 +818,8 @@ permission given (ch 518), and a keeping refused (ch 535).**
 **Method B in every figure in this section: body prose is every line not beginning `#`, so the `#` chapter title line
 and every `##` section heading are excluded.**
 
-Volume 8's nineteen chapters under the 1,800 guide were thirteen of Batch 0002's fifteen, and the volume's midpoint
+Measured on method B chapter by chapter, **twenty-two of Volume 8's fifty-eight chapters sit under the 1,800 guide, and
+fourteen of the twenty-two are Batch 0002's fifteen**, and the volume's midpoint
 fell in the thinnest stretch of the book. **Volume 9 sets per-batch floors so that cannot happen twice:** each batch of
 fifteen targets **27,000–30,000 words of body prose on method B, average 1,800–2,000**, no batch under **26,000**, no
 chapter under the 1,300 floor and none above the 2,700 guide without a scene that needs it. **The volume targets
