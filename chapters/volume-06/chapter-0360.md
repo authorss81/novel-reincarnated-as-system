@@ -46,7 +46,7 @@ She had a thing now that she had not chosen and could not repeat and would never
 
 The carter came by on the twenty-fifth at about the eighth hour with the shafts down and a strip in his hand, because a strip had come off the bundle at the works and it had her name at the top of it and the man who kept the board would not hold a thing for anybody and had given it to the first cart that went west.
 
-She took it at the gate post with the bar against her knee.
+She took it at the gate post and stood with it in her hand, and there was nothing else in either of them.
 
 The first of it was the ordinary reading and she could read that. Her name. A column of days with dates down the margin and hours against them and a season marked at each end and the word above the hours that said good.
 
@@ -94,7 +94,7 @@ It was in a hand she had never seen, on a strip a carter had put in her hand at 
 
 She turned the strip over. There was nothing on the back of it.
 
-She put it inside her coat against the oilcloth where two other things had lain for thirteen weeks and were not there now, and she took the bar off her knee and put it under her arm and went west toward a gate that paid one copper a day and a shed with a fire in it that lit itself.
+She put it inside her coat against the oilcloth where two other things had lain for thirteen weeks and were not there now, and she went west on foot toward a gate that paid one copper a day and a shed with a fire in it that lit itself.
 
 She was not going back inside. She had said so to nobody and she had never had to, because there was nothing on nine days of road that could take her there and nothing in nine days of road behind her that had not already been counted.
 

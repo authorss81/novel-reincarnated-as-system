@@ -1,6 +1,6 @@
 # Current State
 
-**As of:** Volume 6 open and ALL FOUR BATCHES WRITTEN, ch 360. **VOLUME 1 CLOSED. VOLUME 2 CLOSED AND AUDITED. VOLUME 3 CLOSED AND AUDITED — CH 1–178 ON THE PAGE. VOLUME 4 CLOSED AND AUDITED — CH 179–238 ON THE PAGE. VOLUME 5 CLOSED AND AUDITED — CH 239–298 ON THE PAGE. VOLUME 6 IS COMPLETE ON THE PAGE — CH 299–360 — AND NOT YET CLOSED. BATCH 0001 (ch 299–313) WRITTEN AND REPAIRED; BATCH 0002 (ch 314–329) WRITTEN AGAINST `workspace/volume-06-batch-0002/PROMPT.md`; BATCH 0003 (ch 330–345) WRITTEN, REVIEWED AND REPAIRED AGAINST `workspace/volume-06-batch-0003/PROMPT.md`; **BATCH 0004 (ch 346–360) WRITTEN AGAINST `workspace/volume-06-batch-0004/PROMPT.md` AND IT IS THE LAST BATCH OF THE VOLUME. THE NEXT PHASE IS THE VOLUME 6 CLOSE AND IT HAS ITS OWN PROMPT AT `workspace/volume-06-close/PROMPT.md`.**
+**As of:** **VOLUME 6 CLOSED AND AUDITED — CH 299–360 ON THE PAGE, AND THE CLOSE AUDIT IS COMPLETE.** VOLUME 1 CLOSED. VOLUME 2 CLOSED AND AUDITED. VOLUME 3 CLOSED AND AUDITED — CH 1–178 ON THE PAGE. VOLUME 4 CLOSED AND AUDITED — CH 179–238 ON THE PAGE. VOLUME 5 CLOSED AND AUDITED — CH 239–298 ON THE PAGE. ALL FOUR VOLUME 6 BATCHES WERE WRITTEN AND REPAIRED, AND THE CLOSE HAS NOW BEEN RUN LINE BY LINE AGAINST `outline/volume-06.md`. **THE NEXT PHASE IS THE VOLUME 7 PLANNING PHASE, whose prompt is `workspace/volume-07-planning/PROMPT.md`. It writes `outline/volume-07.md`, which does not exist yet.**
 
 ## How to read this file
 
@@ -61,10 +61,10 @@ This file is **append-only and long, and most of it is history.** You do not nee
   the day table and the planned plot did not move, and no chapter in Volumes 1–4 was opened.** The batch is
   **25,897 words of body prose over fourteen chapters, average ~1,850**, three chapters under the 1,800 guide
   (241, 243, 246) and none above it. **A Batch 0002 drafter reads the repaired chapters, not the review log.**
-- **Volume:** 6 of 16 — **The Real Realm (ch 299–360)** — outlined in `outline/volume-06.md`, **OPEN.** **BATCH 0004 (ch 346–360) WRITTEN AND REVIEWED AND REPAIRED — 21,479 words of body prose over fifteen chapters, average ~1,432, day 774 to day 848, TWO bracketed layer lines, at ch 352 and ch 357, Golden Core 8 at ch 352 on the pinned day 786, Golden Core 9 at ch 357 on the pinned day 818, the Hand refused once out loud at ch 355 and not spent, the sending refused and entered at ch 358, what breaking cost at ch 359, and Nascent Soul 1 at ch 360 on the pinned day 845 with no bracket. Eighteen review findings closed, eight of them must-fix: ch 348's first day on the footing was being narrated twice and one of the two passes is now the seventeenth and the low side, ch 348's *bar that took two hands* that gave away ch 352 is now *a bar in one hand*, ch 358's deadline is the twenty-eighth and not the thirtieth, ch 358 no longer puts her in a room she has never been in, ch 354's last line is twenty-three days and not twenty-nine, ch 349 no longer narrates what she does not know three chapters early, five bare all-caps lines are now quoted matter in the hand they are in, the four structural-answer speeches no longer say the same four sentences, the middle-bank method is explained once instead of three times, ch 357 names Golden Core eight as its own anchor, a narrator absolute that pre-empted ch 360 is out, *Nascent Soul* is on the page for the first time in the manuscript, two mangled dates and six date slips are corrected, and *nobody* is down from 27 to 6. A false budget figure was also corrected: the batch's `sending: 7` was the substring inside *send* and *sent* and is 0. No beat, day-table position, title, turn, midpoint, climax, irreversible decision, bracket or stage moved; full record in `state/continuity.md` under *Volume 6 Batch 0004 (ch 346–360) — REVIEW REPAIR*.** BATCH 0002 (ch 314–329) WRITTEN AND REVIEWED AND REPAIRED — **23,931 words of body prose over sixteen chapters, average ~1,496, day 646 to day 699, ONE bracketed layer line, at ch 321, Golden Core 5 at ch 321, the Hand spent for the first time in this book at ch 325, and the second vouching agreed at ch 329.** Drafted against `outline/volume-06.md` and `workspace/volume-06-batch-0002/PROMPT.md`; every pinned item in that prompt is on the page. **Thirteen review findings closed: the ring's own fuel rate and the worth of a box reconciled end to end, the 24th-of-a-month anchor set at nineteen days, ch 314's day collision with ch 315 and ch 315's three-day span re-derived, ch 314 retitled *Four Nails*, and every word count, timestamp and zero-claim in the state files rebuilt from the chapters. No beat, day, stage, bracket or planned event moved; full record in `state/continuity.md` under *Volume 6 Batch 0002 (ch 314–329) — REVIEW REPAIR*.** BATCH 0001 (ch 299–313) WRITTEN AND REVIEWED AND REPAIRED — **24,531 words of body prose over fifteen chapters, average ~1,635, day 621 to day 645, ONE bracketed layer line, at ch 310.** Drafted against the fifteen cards at `outline/batches/volume-06-batch-0001.md`; every card beat is on the page. **Seven chapters reopened at the review and closed again — ch 300, 304, 306, 308, 310, 311 and 313: ch 311's day-rate arithmetic reconciled against ch 310 and the card, one instance of authorial scaffolding cut, six verbatim repeats broken, one distance hedged. No beat, day, title, stage, bracket or planned event moved; full record in `state/continuity.md` under *Volume 6 Batch 0001 (ch 299–313) — REVIEW REPAIR*.** Volume 5 remains closed and audited: — **Mortal Ash (ch 239–298)** — outlined in `outline/volume-05.md`, **CLOSED AND AUDITED.** BATCH 0001 (ch 239–252) WRITTEN AND REPAIRED — 25,897 words of body prose over fourteen chapters, day 471 to day 506, ZERO bracketed layer lines in the batch. BATCH 0002 (ch 253–267) WRITTEN AND REPAIRED — 25,441 words of body prose over fifteen chapters, average ~1,696, day 507 to day 521, ONE bracketed layer line, at ch 258. BATCH 0003 (ch 268–283) WRITTEN AND REPAIRED — 22,771 words of body prose over sixteen chapters, average ~1,423, day 522 to day 580, ONE bracketed layer line, at ch 275. BATCH 0004 (ch 284–298) WRITTEN AND REPAIRED — 27,157 words of body prose over fifteen chapters, average ~1,810, day 581 to day 620, ONE bracketed layer line, at ch 292, and Volume 5's bracket budget of three is spent. Volume 5 file set ch 239–298: **101,266 words of body prose over sixty chapters after the close review's five recasts** (101,204 after the volume close, 101,160 before it). **All five figures were re-derived against the chapters at the close review; the per-batch totals the close left at their pre-close values are corrected here.** Volume 4 remains closed and audited: Batch 0001 (ch 179–192), 28,607 · Batch 0002 (ch 193–208), 31,900 · Batch 0003 (ch 209–222), 28,581 · Batch 0004 (ch 223–238), 31,484 — file set 120,572 words. Volume 3 file set 135,014.
+- **Volume:** 6 of 16 — **The Real Realm (ch 299–360)** — outlined in `outline/volume-06.md`, **CLOSED AND AUDITED.** **BATCH 0004 (ch 346–360) WRITTEN AND REVIEWED AND REPAIRED — 21,479 words of body prose over fifteen chapters, average ~1,432, day 774 to day 848, TWO bracketed layer lines, at ch 352 and ch 357, Golden Core 8 at ch 352 on the pinned day 786, Golden Core 9 at ch 357 on the pinned day 818, the Hand refused once out loud at ch 355 and not spent, the sending refused and entered at ch 358, what breaking cost at ch 359, and Nascent Soul 1 at ch 360 on the pinned day 845 with no bracket. Eighteen review findings closed, eight of them must-fix: ch 348's first day on the footing was being narrated twice and one of the two passes is now the seventeenth and the low side, ch 348's *bar that took two hands* that gave away ch 352 is now *a bar in one hand*, ch 358's deadline is the twenty-eighth and not the thirtieth, ch 358 no longer puts her in a room she has never been in, ch 354's last line is twenty-three days and not twenty-nine, ch 349 no longer narrates what she does not know three chapters early, five bare all-caps lines are now quoted matter in the hand they are in, the four structural-answer speeches no longer say the same four sentences, the middle-bank method is explained once instead of three times, ch 357 names Golden Core eight as its own anchor, a narrator absolute that pre-empted ch 360 is out, *Nascent Soul* is on the page for the first time in the manuscript, two mangled dates and six date slips are corrected, and *nobody* is down from 27 to 6. A false budget figure was also corrected: the batch's `sending: 7` was the substring inside *send* and *sent* and is 0. No beat, day-table position, title, turn, midpoint, climax, irreversible decision, bracket or stage moved; full record in `state/continuity.md` under *Volume 6 Batch 0004 (ch 346–360) — REVIEW REPAIR*.** **THE VOLUME CLOSE HAS NOW BEEN RUN AND REPAIRED: sixteen further repairs across seventeen chapter files, seven findings recorded and not repaired, and the file set is 95,081 words of body prose over sixty-two chapters (24,529 · 23,975 · 25,027 · 21,550 by batch; Batch 0004 is 21,550, average ~1,437, after the close). The close's repairs are ch 306, 314, 317, 319, 321, 322, 330, 332, 336, 338, 343, 350, 352, 355, 357, 359 and 360 — chiefly ch 360's own contradiction about the bar, a units slip in ch 355, a miscount and a garbled clause and two repeated constructions in ch 357, four all-caps lines in ch 336 and three more at ch 314, 317 and 338, five cross-chapter duplicate paragraphs, a count set and not paid off in ch 359, and the two common-noun `ledger`s that made `grep -i Ledger` return 2 instead of 0. Full record in `state/current.md` under `## Volume 6 close audit — CLOSED` and in `state/continuity.md` under *Volume 6 close — repairs*.** BATCH 0002 (ch 314–329) WRITTEN AND REVIEWED AND REPAIRED — **23,931 words of body prose over sixteen chapters, average ~1,496, day 646 to day 699, ONE bracketed layer line, at ch 321, Golden Core 5 at ch 321, the Hand spent for the first time in this book at ch 325, and the second vouching agreed at ch 329.** Drafted against `outline/volume-06.md` and `workspace/volume-06-batch-0002/PROMPT.md`; every pinned item in that prompt is on the page. **Thirteen review findings closed: the ring's own fuel rate and the worth of a box reconciled end to end, the 24th-of-a-month anchor set at nineteen days, ch 314's day collision with ch 315 and ch 315's three-day span re-derived, ch 314 retitled *Four Nails*, and every word count, timestamp and zero-claim in the state files rebuilt from the chapters. No beat, day, stage, bracket or planned event moved; full record in `state/continuity.md` under *Volume 6 Batch 0002 (ch 314–329) — REVIEW REPAIR*.** BATCH 0001 (ch 299–313) WRITTEN AND REVIEWED AND REPAIRED — **24,531 words of body prose over fifteen chapters, average ~1,635, day 621 to day 645, ONE bracketed layer line, at ch 310.** Drafted against the fifteen cards at `outline/batches/volume-06-batch-0001.md`; every card beat is on the page. **Seven chapters reopened at the review and closed again — ch 300, 304, 306, 308, 310, 311 and 313: ch 311's day-rate arithmetic reconciled against ch 310 and the card, one instance of authorial scaffolding cut, six verbatim repeats broken, one distance hedged. No beat, day, title, stage, bracket or planned event moved; full record in `state/continuity.md` under *Volume 6 Batch 0001 (ch 299–313) — REVIEW REPAIR*.** Volume 5 remains closed and audited: — **Mortal Ash (ch 239–298)** — outlined in `outline/volume-05.md`, **CLOSED AND AUDITED.** BATCH 0001 (ch 239–252) WRITTEN AND REPAIRED — 25,897 words of body prose over fourteen chapters, day 471 to day 506, ZERO bracketed layer lines in the batch. BATCH 0002 (ch 253–267) WRITTEN AND REPAIRED — 25,441 words of body prose over fifteen chapters, average ~1,696, day 507 to day 521, ONE bracketed layer line, at ch 258. BATCH 0003 (ch 268–283) WRITTEN AND REPAIRED — 22,771 words of body prose over sixteen chapters, average ~1,423, day 522 to day 580, ONE bracketed layer line, at ch 275. BATCH 0004 (ch 284–298) WRITTEN AND REPAIRED — 27,157 words of body prose over fifteen chapters, average ~1,810, day 581 to day 620, ONE bracketed layer line, at ch 292, and Volume 5's bracket budget of three is spent. Volume 5 file set ch 239–298: **101,266 words of body prose over sixty chapters after the close review's five recasts** (101,204 after the volume close, 101,160 before it). **All five figures were re-derived against the chapters at the close review; the per-batch totals the close left at their pre-close values are corrected here.** Volume 4 remains closed and audited: Batch 0001 (ch 179–192), 28,607 · Batch 0002 (ch 193–208), 31,900 · Batch 0003 (ch 209–222), 28,581 · Batch 0004 (ch 223–238), 31,484 — file set 120,572 words. Volume 3 file set 135,014.
 - **Volume 5 goal**, fixed by `outline/series.md` §9: *In this volume, Ning Yan must finish the world they came from, or leaving it costs everyone she left standing in it.*
-- **Chapter written:** **1–360. THE NOVEL RUNS TO CHAPTER 1000. VOLUME 6 IS COMPLETE ON THE PAGE AT CH 360 AND IS NOT YET CLOSED.**
-- **Next phase:** **THE VOLUME 6 CLOSE. All four batches are on the page — ch 299–313, ch 314–329, ch 330–345 and ch 346–360. Batch 0004 was drafted against `outline/volume-06.md` and `workspace/volume-06-batch-0004/PROMPT.md`, pressure *standing and refusing to stand*, and every pinned item in that prompt is on the page: Golden Core 8 at ch 352 on the pinned day 786, Golden Core 9 at ch 357 on the pinned day 818, the Hand refused once out loud at ch 355, the sending refused and entered at ch 358, what breaking cost at ch 359, and Nascent Soul 1 at ch 360 on the pinned day 845 with no bracket. The next phase is the volume close and its prompt is `workspace/volume-06-close/PROMPT.md`. Read it and do not rewrite it. **Batch 0004 has now been through review and repaired: eighteen findings closed and the chapter files are the authority, so the close audits the repaired text, not the text `logs/volume-06-batch-0004.review.log` read.** **The volume outline is the authority and is not to be re-planned.** This record does not write a `.done` marker, which `PHASE_SYSTEM.md` gives to the controller alone. **The blocker recorded at the Volume 4 close and at the Volume 5 planning close is RESOLVED — `workspace/volume-04-close-record/`, `workspace/volume-05-batch-0001/` and `workspace/volume-05-close/` all hold `.done` markers (commits `88ddc33`, `3e32724` and `baca347`) and none is deferred. Do not raise it again.**
+- **Chapter written:** **1–360. THE NOVEL RUNS TO CHAPTER 1000. VOLUME 6 IS CLOSED AND AUDITED.**
+- **Next phase:** **THE VOLUME 7 PLANNING PHASE, against `workspace/volume-07-planning/PROMPT.md`.** It writes `outline/volume-07.md` — *Stronger Things*, ch 361–420, goal fixed by `outline/series.md` §9: *In this volume, Ning Yan must survive being the weakest person in every room she walks into, or she learns that strength was never what she was taken for.* **The next phase is a planning phase and not a drafting phase: it must not write chapters.** The Volume 6 close audit is complete — fifteen numbered rows, sixteen repairs across seventeen chapter files, seven findings recorded and not repaired, the continuity list walked item by item, and the protagonist answered in writing. **`outline/series.md` and `outline/ending.md` are unchanged and `outline/volume-07.md` does not exist.** This record does not write a `.done` marker, which `PHASE_SYSTEM.md` gives to the controller alone.
 - **Point of view:** close third on Ning Yan; every line Yuan speaks is written in the present tense. **The close audit has now answered the two-volumes-of-sixteen protagonist question in writing — see *The protagonist, answered* below and in `workspace/volume-04-close/SUMMARY.md`.**
 - **In-world date:** **day 848** of the run's own clock at ch 360 — the twenty-fifth of a month, and the live position. **Volume 6 Batch 0004 ran day 774 to day 848**, the eleventh of the month beginning on day 764 to the twenty-fifth of the month beginning on day 824, and **its two pinned stage days fell at 786 (the twenty-third) and 818 (the twenty-fifth)**. **The previous line of the run was:** The batch walked day 701 to day 735, carried days 736–748 as elapsed rather than walked, took Golden Core 7 at the pinned day 749 (the sixteenth), and then walked **ch 343 on days 750–755 (the seventeenth to the twenty-second), ch 344 on days 763–764 (the thirtieth and the first) and ch 345 on day 773 (the tenth)**. **Ch 343, 344 and 345 are dated on the page.** **Batch 0002 closed on** day 700 — the twenty-seventh of a month, on flat ground about three miles east of a mill whose wheel has not turned, **past the last working point, in no employment, with no season and no wages, two and a half coppers a day at a gate, and entered in a second office's materials book since the twenty-sixth.** **Volume 6 Batch 0002 ran day 646 to day 700 — the third of a month to the twenty-seventh of the next.** **Volume 6 Batch 0003 ran day 701 to day 735, the twenty-eighth of a month to the second of the next, with day 712 the ninth and the pinned Golden Core 6 day, then day 749 the sixteenth for Golden Core 7, then days 750–755, 763–764 and 773.** **There is no pay-cycle past the mill and the batch did not revive one.** **Day 645** of the run's own clock was ch 313 — the second of a month. **Volume 6 Batch 0001 ran day 621 to day 645 — the eighth of a month to the second of the next**, and the seventeenth fell on day 630 and nothing happened on it, in one sentence at ch 304. **Day 620** of the run's own clock was ch 298 — the seventh of a month, past the last working point of the line, on the far side, **out of employment, with no season and no wages.** **Batch 0001 ran day 471 to day 506 and its three pay-days were day 480 (the seventeenth), day 490 (the twenty-seventh) and day 500 (the seventh). Batch 0002 ran day 507 to day 521 and its two pay-days were day 510 (the seventeenth) and day 520 (the twenty-seventh). Batch 0003 ran day 522 to day 580 and its pay-days were day 530, 540, 550, 560, 570 and 580. Batch 0004 ran day 581 to day 620 and its pay-days were day 590, 600 and 610 — day 600 is also the pinned Golden Core 3 date — and the next pay-day after the season closed, day 620, produced nothing.** The season's road shut on day 117 and reopened on day 254. **Day 0 is the last day of the thaw** (canon change 30). **Day 299, 329, 359 and 389 were the attendances of the run so far in this stretch and all four fell on the sixteenth; day 389 was the last one and it is one sentence inside ch 225.**
 - **The month rule.** Months are thirty days and a month begins every thirty days, **so the month-day of any day is `((day − 134) mod 30) + 1`.** Day 134 was the first of a month. **Days 374–403 read day − 373 · days 404–433 read day − 403 · days 434–463 read day − 433 · days 464 onward read day − 463.** (The rule as it stood before this audit said "days 374 to 463 read day − 373", which was wrong for days 404 onward, and is corrected here and in `state/open-threads.md`.) The months Volume 4 lands in began on days 254 · 284 · 314 · 344 · 374 · 404 · 434. **The months Volume 6 Batch 0001, Batch 0002 and Batch 0003 span began on days 614, 644, 674 and 704, and the next begins on day 734 — which is inside Batch 0003 and carries the GC7 day of day 749. The pinned Golden Core 5 date, day 674, is a month-opening day and fell inside Batch 0002 at ch 321.**
@@ -103,7 +103,7 @@ Full record: `state/continuity.md` under ***Established facts, Volume 5 Batch 00
 - **Untouched:** the relicensed licence never opened; the register read once and never corrected; the Clay Plate worn against her ribs; **MEMBER ABSENT ×3, unraised**; the year of non-forgiveness carrying and untouched; the three sponsors silent; **Feng never on the page**, no second Lung, no second appointment; nothing above the Standing Office of the Second Account named; *kiln-born* zero; what became of the eleven not raised; the ch 150 refusal not softened. **The surface answer paid once at ch 267 and never re-voiced. The tenth part is not given.**
 - **The volume is CLOSED AND AUDITED.** Full table, every repair and the protagonist answer are in **`## Volume 5 close audit — CLOSED`** below. **`outline/volume-06.md` now exists and was written and then repaired by the Volume 6 planning phase — see `## Volume 6 planning — re-run, verified, and eight defects repaired at source` below, and `## Volume 6 planning — close review repair` after that.** Next: **Volume 6 Batch 0001's chapters, ch 299–313**, drafted against that outline and against the fifteen cards already written at `outline/batches/volume-06-batch-0001.md`.
 
-## Who is where at end of chapter 360 — VOLUME 6 BATCH 0004 WRITTEN. THE VOLUME IS ON THE PAGE AND NOT YET CLOSED (cold reader starts here)
+## Who is where at end of chapter 360 — VOLUME 6 CLOSED AND AUDITED (cold reader starts here)
 
 **After ch 360 — day 848, the twenty-fifth of a month, nine days past the day she reached Nascent Soul 1. She is on flat
 ground about a mile and a quarter east of a mill whose wheel has not turned since before she came, in no employment,
@@ -112,6 +112,13 @@ with no season, with a gate at one copper a day, a bare board, and a furnace tha
 ***Established facts, Volume 6 Batch 0004 (ch 346–360) — STANDING AND REFUSING TO STAND***, ***Volume 6 running
 ledger — at the close of the volume, day 848*** and ***Construction budget — Volume 6 Batch 0004 (ch 346–360),
 measured by grep, not promised***.
+
+**THE VOLUME IS CLOSED AND AUDITED.** `outline/volume-06.md` walked line by line against ch 299–360; the table is
+**`## Volume 6 close audit — OPENED`** below and the repairs, the findings, the seventeen continuity items and the
+protagonist answer are in **`## Volume 6 close audit — CLOSED`** after it. **Sixteen repairs across eleven chapter
+files; seven findings recorded and not repaired; file set after repair 95,081 words of body prose over sixty-two
+chapters** (24,529 · 23,975 · 25,027 · 21,550 by batch). Next: **Volume 7 planning**, which writes
+`outline/volume-07.md`.
 
 - **Ning Yan — NASCENT SOUL 1, day 845, the twenty-second, reached BY HAND AND NOT BY SOUND. NO BRACKET.** The reach
   begins once, by accident, on a bank past the mill: **a stone she never touched goes the length of her own arm and
@@ -179,6 +186,650 @@ measured by grep, not promised***.
   everything above the offices that vouched unread · *kiln-born* in two heads and on no paper · what became of the
   eleven · the register still *reconciled* · the plate still worn · the year still carrying · **and the rooms that
   were refused a presentation, which have now started reading her where she stands instead.**
+
+## Volume 6 close audit — OPENED
+
+**`outline/volume-06.md` walked line by line against ch 299–360 as it stands after the Batch 0004 review repair and
+after the close repairs below. The table is the audit; every row is a named item in the outline with a page
+reference. `outline/series.md` and `outline/ending.md` were not opened. No chapter prose was written in this
+phase except the close repairs recorded in `## Volume 6 close audit — CLOSED` and in `state/continuity.md`
+under *Volume 6 close — repairs*.**
+
+### 1. The one-sentence goal, fixed by `outline/series.md` §9
+
+> *In this volume, Ning Yan must survive what is on the other side, or the crossing was a death and not an escape.*
+
+**PAID, and paid in the chapters and not in a plan.** Every element the card names is on the page:
+
+| What the card names | Page | Result |
+| --- | --- | --- |
+| The far side is ordinary farmed country with offices in it and none of them is an enemy | ch 300–304, and no card creates a villain anywhere in the volume | **PASS** |
+| The pressure is that being legible has a price list and she is the one paying it | ch 308 (*Seven Coppers At The Gate*), ch 350 (*What The Quiet Is For*, the anger with no target), ch 353 (*The Weight Goes To The Bar*) | **PASS** |
+| She is entered twice and has found out the second vouching was copied upward in a hand she has never seen | entered once at ch 304 (*What The Counter Said*); second vouching agreed at ch 329 (*She Asked At The Gate*); **the finding at ch 357 (*Copied Upward In A Fine Hand*)** | **PASS** |
+| She refused a sending out loud and it is entered and standing in a book she cannot reach | **ch 358 (*She Says No At The Counter*)** — refused in daylight, her name said, entered in the seasonal book with the twenty-sixth against it, in a building she cannot reach | **PASS** |
+| She broke the closed-season box circuit and the bill is a book of hers on a stone under a keeper's ladder at a post | broken at **ch 344 (*The Board Is For That*)**; the bill at **ch 359 (*A Book Under A Ladder*)** | **PASS** |
+| She reached Nascent Soul 1 by hand and not by sound, on a bank, where an office wrote it down afterward because the hand can read what happened | **ch 360 (*The Length Of A Reach*), day 845, no bracket** | **PASS** |
+
+**The cost of surviving is stated in the chapters and not in a plan**, in four places: the heavy end closed for good
+(ch 352, *It Takes Two Hands Now*); **the gate down from a third of a reach and one and a half coppers to a fifth
+and one copper** (ch 353, *The Weight Goes To The Bar*); **a bare board at the works and a yard that goes quiet
+until the season turns** (ch 356, *The Room With Two Things In It*); **a refusal she cannot take back** (ch 358);
+**and a reach that happened once** (ch 360). No cost is left implicit at the last page.
+
+### 2. The pressure rotation table
+
+| Batch | Chapters | Outline's pressure | On the page | Result |
+| --- | --- | --- | --- | --- |
+| 0001 | 299–313 | reading and being read | the box gone out on the first cart; the strip off the cart; priced from above; the counter; GC4 at ch 310 | **PASS** |
+| 0002 | 314–329 | work without hire | the works and its board; listed clearings; merit twice; GC5 at ch 321; the Hand first spent at ch 325; the second vouching at ch 329 | **PASS** |
+| 0003 | 330–345 | sending and being sent for | the column in two books; the sending written at ch 336; GC6–GC7; Yuan addressed at ch 338; the circuit broken at ch 344 | **PASS** |
+| 0004 | 346–360 | standing and refusing to stand | the Hand refused at ch 355; the finding at ch 357; the sending refused at ch 358; the bill at ch 359; Nascent Soul begun by hand at ch 360 | **PASS** |
+
+**No two consecutive batches run the same pressure.** None of the four is an audit, an examination, a hunt, a
+signature, a ration, a hiring, a tending, a crossing, a keeping, a debt, a family paper, an ash or a confinement —
+checked by reading each batch's arc against the outline's exclusion list, not by assertion.
+
+**Batch 0004's pressure checked directly, as the card requires: nothing in ch 346–360 is keeping, and the bill at
+ch 359 is a consequence and not a beating.** The keeper at ch 359 is shown doing the only thing a nine-year keeper
+does with a strip that comes down a road — pasting it in, because that is what the board is for — and the cost
+lands on her and on a book on a stone, not on him. No one is punished. **PASS.**
+
+### 3. The power progression table — seven stages, seven days, one handover
+
+Every day re-derived under `((day − 134) mod 30) + 1` **against the page**, and the month-day checked against the
+day the chapter states.
+
+| Stage | Chapter | Day | Month-day by the rule | Month-day on the page | Interval | Result |
+| --- | --- | --- | --- | --- | --- | --- |
+| Golden Core 4 | 310 | 638 | 25 | the twenty-fifth (ch 310) | 38 after GC3 (600) | **PASS** |
+| Golden Core 5 | 321 | 674 | 1 | a month-opening day, the first (ch 321) | 36 | **PASS** |
+| Golden Core 6 | 332 | 712 | 9 | the seventh of a month for the telling, the stage on the ninth | 38 | **PASS** |
+| Golden Core 7 | 342 | 749 | 16 | the sixteenth (ch 342) | 37 | **PASS** |
+| Golden Core 8 | 352 | 786 | 23 | the twenty-third (ch 352) | **37** | **PASS** |
+| Golden Core 9 | 357 | 818 | 25 | the twenty-fifth (ch 357) | **32** | **PASS** |
+| Nascent Soul 1 | 360 | 845 | 22 | the twenty-second (ch 360) | 27, the handover | **PASS** |
+
+**The intervals were not slid to fit.** 638→674 is 36, 674→712 is 38, 712→749 is 37, 749→786 is 37, 786→818 is
+32, 818→845 is 27, and each is the figure the outline fixes and not a figure derived after the fact.
+
+**Ch 357's shorter interval is on the page as her own arithmetic and not as a rule.** *Golden Core eight had been
+on the twenty-third of a month a month back. Thirty-two days. Not thirty-seven.* … *She put her hand down flat on
+her own knee, and counted, and it was thirty-two, and she left it at that.* The chapter then says she does not
+know what to make of it, because the last five stages came at between thirty-six and thirty-eight days and nothing
+in her can read what a stage wants. **Repaired at the Batch 0004 review** — the first draft counted back from
+Golden Core seven, which made thirty-two arithmetically impossible.
+
+**Bracket count: exactly six bracketed layer lines in sixty-two chapters, at ch 310, 321, 332, 342, 352 and 357,
+and no bracket at ch 360.** Measured by scan of every line beginning `[` across the sixty-two files: six hits, the
+six above. **All six match the pinned far-side house form character for character**:
+
+> `[Ning Yan, past the line, servant-born, under no ceiling any county holds. Golden Core, stage N, is held.]`
+
+**NO BRACKET AT CH 360.** The handover is entered by hand, a strip in the fine hand she cannot read, on the
+twenty-fifth, three days after the reach. **The silence is the point and the chapter does not break it once.**
+No skipped breakthrough. None prepared early. **`tribulation` returns zero across ch 299–360** — no trial of any
+kind is drawn. **PASS on all counts.**
+
+### 4. The seven costs, each named once, each a different thing
+
+| Stage | Chapter | What it costs, as the page states it | Named once? | Result |
+| --- | --- | --- | --- | --- |
+| Golden Core 4 | 310 | *the flat of a second finger went from longer to longest* — **every line she writes anywhere now costs her the hour it is written in twice over**, and the yard work she can still price one-handed is half a reach | once, in ch 310; the consequence is carried, not restated | **PASS** |
+| Golden Core 5 | 321 | **the cold leaves her hands first** — she stops being cold the way a stone is cold and starts being warm the way a furnace is warm, **and she can no longer tell by feel whether a night will hurt her** (stated plainly at ch 322, *What Her Hand Could Not Say*) | once | **PASS** |
+| Golden Core 6 | 332 | **one hold out of the eleven goes, nine to eight**, **spent into a listed clearing and told before spent**: *The next one takes a hold out of my left hand. Nine goes to eight and it does not come back, and I am going to spend it into the head at the low drain* | once, and told first | **PASS** |
+| Golden Core 7 | 342 | **five counts of breath on a loaded reach and never four there again** | once | **PASS** |
+| Golden Core 8 | 352 | **the middle-bank method stops paying — the bar she learned to carry one-handed now needs two hands she does not have, and the heavy end closes to her for good** | once; the method itself is stated once at ch 349 and ch 352 carries only the deduction | **PASS** |
+| Golden Core 9 | 357 | **the finding, not the body** — the second vouching was copied upward out of its own office into a hand she has never seen, **and she cannot be un-entered twice over** | once | **PASS** |
+| Nascent Soul 1 | 360 | **reach begins, once, by accident, and she is surprised by nobody in the room where it happens, and the surprise does not come back** | once | **PASS** |
+
+**Ch 357's cost is the only one in the volume that is not a thing her body lost**, and the chapter says so in its
+own frame: *Not her hands and not her arm and not a hold and not a count of breath.*
+
+**The two permanent closures are not the same act.** The ramp closed at ch 288 (Volume 5) and is named once at
+ch 351 as a thing that was never hers and that she asked about in a gateway and a correct man said no to.
+The heavy end closed at ch 352 and is hers, and is a different closure at a different scale: *not the ramp — the
+ramp was never hers.* **PASS.**
+
+### 5. Yuan's economy, and the whole of what it cost
+
+| What the card names | Page | Result |
+| --- | --- | --- |
+| Hand **spent** at ch 325 | *I moved the cart.* A cart's turning moved through her column so a box goes on instead of waiting a season; told before spent (the hole in the yard's own book is named before the cart goes) | **PASS** |
+| Hand **spent** at ch 338 | the holding addressed so her furnace hours hold without her standing at a shed at the fourth hour | **PASS** |
+| Hand **refused** at ch 355, out loud, **and not spent** | *No.* in the first word, thirteen sentences of refusal, and nothing comes out of the ground she is standing on: *Her hands are her hands.* | **PASS** |
+| **Only twice, and only twice** | `grep` of the batch records: ch 325, ch 338, ch 355. No third spending anywhere in ch 299–360 | **PASS** |
+| Each spending told before spent, out of her foundation, and does not come back | ch 325 named the hole before the cart moved; ch 338 the price named in a shed the night before; ch 320's share named out loud at a ditch **before** the cart went nine days later | **PASS** |
+| **Nothing in Volume 6 kills anybody for it** | no death is settled anywhere in the volume; the only *kill* on the page is ch 322's *the part that was going to kill somebody*, which is frost on a block at a works and a woman who does not go down | **PASS** |
+| His **unentered state** and the **date of the morning he died**, at ch 272, carried into Volume 6 and not given back | `grep` for *the morning he died* returns **zero** across ch 299–360. Ch 338 looks for the morning and it is not there: *There is no morning under it. There has not been one for five months* | **PASS** |
+| His **unnamed state** at ch 338, **named in advance and gone** | *That was the price and he was told it last night in a shed by a woman who put her palm flat on a strip of paper and told him the price before the word*; and after: *the last piece of him that was not on a surface anybody can put a sheet on — the unnamed state — closes over like water closing over a stone* | **PASS** |
+| **Ledger** never ordered, held, priced, refused or thought about in ch 299–360 | `grep -i Ledger` across all sixty-two files returned **2 at the start of this audit — both the common noun for a physical account book — and returns 0 after the two close repairs** (ch 306, ch 319). The stage is never touched | **PASS after repair** |
+| Merit settles **twice**, both on listed work cleared past the last working point and neither on a death | **ch 316** (the head and apron at the lane crossing; the share was for one line in a record an office reads, told before spent) and **ch 320** (twenty feet of retaining wall; the share was for the reach to put a thing on that ground that is not hers and not his, named out loud at a ditch before the cart went) | **PASS** |
+| Merit **does not settle at all in Batch 0004** | `grep -i merit` returns **zero across ch 346–360** | **PASS** |
+| **No figure of what is left of him** on any page in ch 299–360 | `grep` for a figure of his channel returns nothing; the last figure in the manuscript is *about six weeks* at ch 236 and is not repeated | **PASS** |
+
+### 6. The escalation sequence, all eleven rungs
+
+| # | Rung | Page | Result |
+| --- | --- | --- | --- |
+| 1 | The box with her column goes out on the first cart, and an office above reads what no bound can read | ch 299 *The First Cart* · ch 302 *Past The Last Farm* | **PASS** |
+| 2 | She walks past the mill whose wheel has not turned, into country that is still farmed and lit and has offices in it | ch 313 *The Ground Past The Mill* | **PASS** |
+| 3 | Golden Core 4 taken where nothing is announced, and the reading goes upward by hand instead of by sound | ch 310 | **PASS** |
+| 4 | Listed clearings settle merit twice, told before spent, out of her foundation | ch 316, ch 320 | **PASS** |
+| 5 | He moves the world through her at a cart turn — a box going on instead of waiting a season — and becomes a little of what he hates | **ch 325** | **PASS** |
+| 6 | She agrees to be vouched a second time, for materials, knowing what a second vouching is | **ch 329** | **PASS** |
+| 7 | An office above sends for the line, and the sending is a paper with her column on it and his holding under it | **ch 336** | **PASS** |
+| 8 | Hand spent a second time at ch 338, to let an office's hand address him as the holder, away from her hearing, **and he loses the last place he could stand unaddressed** | **ch 338** | **PASS** |
+| 9 | Golden Core 9, and with it the finding that the second vouching was copied upward in a hand she has never seen | **ch 357** | **PASS** |
+| 10 | She refuses the sending — to present the line in person — and the refusal is entered, and stands | **ch 358** | **PASS** |
+| 11 | Nascent Soul 1 is taken by hand and not by sound, and the realm ladder hands over to Volume 7 with nobody having heard it | **ch 360** | **PASS** |
+
+**Volume 6 is the first volume of *Breaking* and it broke one thing and refused one thing.** **Broken:** the
+closed-season box circuit at ch 344. **Refused:** the sending at ch 358.
+
+**Nothing opened the Wall and no Order appeared.** `grep` for `Scribe` returns one substring hit at ch 303 and it
+is the word *described*; the order is never named. **The outline's note that both of those are three-volume work
+was honoured** — no Wall is opened anywhere in ch 299–360 and nothing of the Order is on any page. **PASS.**
+
+### 7. The sustained scene in which he is on the page in his own right — ch 338, *The Room With Doors*
+
+- **A flagged close-third exception.** Confirmed. It opens on him, it is his frame throughout, and the card in
+  `workspace/volume-06-batch-0004/PROMPT.md` and `outline/volume-06.md` both name it as the exception.
+- **Its frame is his and away from her hearing.** Confirmed, line by line. The place is *the layer's own
+  reading-space*: a room with a floor, a table, a chair pushed back at an angle, two shut doors, one with a handle,
+  a window whose shutters are open on nothing, and a hand with a brush that writes and never looks up.
+- **It does not re-run ch 272.** The chapter opens by refusing the comparison: *It is not the same place as the
+  last time.* The last place was a field with entries hung on lines and a keeper with a paste pot; this one is a
+  room. Different want, different cost, different mechanism.
+- **The date of the morning he died is not given back** — he looks for it and it is not there, and the looking is
+  described as *a thing you can do twice before it becomes a way of not doing anything else*. **And ch 272's
+  finding is not softened** — it is repeated from his own side and built on: *Being read means being found … I
+  said that once, in a room, to a man, about two months ago … and it was mine. Being held means being sent for.
+  And being sent for is a thing that happens to men in rooms with doors.*
+- **The six-sentence ration does not apply to it.** Confirmed: the ration is Batch 0004's, and ch 338 is Batch
+  0003's flagged card. Ch 338 carries the refusal's whole weight in as many sentences as it needs.
+- **There is no second such scene in the volume.** Searched every chapter for a marked present frame away from her
+  hearing: the only present-tense speech in the volume is Yuan's, at ch 348, 351, 355, 356 and 338, and every one
+  of the others is a line of dialogue **in her hearing**. **Ch 355 is not one** — it is in her hearing, at the
+  boards of a shed at the second hour of the fourth of a month, and it is his refusal, not a frame. **PASS.**
+
+### 8. The structural answer of `outline/series.md` §3 — begun, not paid
+
+> *The Wall is real and it is maintained. Something on the other side of it is real. Announcements do not reach
+> past the bound because the bound is a room.*
+
+**Said in workers' and clerks' mouths, in short sentences, across several chapters, and never as one speech.**
+Seven mouths across the volume's second half:
+
+| Chapter | Mouth | What he says, in short sentences |
+| --- | --- | --- |
+| ch 331 | the man with the brush, on the copying floor | *There is a line out west. It is kept. There are men on it and they are paid by the day and their families are on it. Nobody east of here has ever needed one thing out of it, including me, and I have been copying books for eleven years.* |
+| ch 335 | the Hunter, nine feet off a cart track | *It is kept … It is kept by men. Not by an office. By men who go out on it and come back on it. They are paid by the day and their families are on it and every one of them has somebody who is waiting for him to come back.* |
+| ch 337 | the listing man, at a bench | *There is a road west of this gate about nine miles and there is a line on it. Men go out on it and come back. They are paid by the day. I had an uncle on it … I have never needed one thing out of it. Nobody on this ground has.* |
+| ch 346 | the man behind the stack, at the works | *There is a line out west of this yard. About nine miles. It is walked and it is kept and there are men on it and they are paid by the day and their families are on it. Nobody east of here has ever needed one thing out of it.* |
+| ch 350 | the man who keeps the list | *There is a line out west of this gate about nine miles. It was there before this yard had a board. Men go out on it in the morning and their families eat off it … Not one line of work has ever come in off it to this yard.* |
+| ch 353 | the carter, who has driven past the end of it four hundred times | *I have driven past the end of it four hundred times and I have never once been let onto it … I do not know what is at the top of it and I am not the man who would find out.* |
+| ch 357 | the man with the brush again, at the finding | *The line west of this building is about nine miles off … You are not the first person on this floor to be a person a road went past, and you will not be the last.* |
+
+**The card's two claims about these mouths are both wrong against the page, and the page wins:**
+
+1. **The card says Batch 0003 used four mouths at ch 331, 335, 337 and 345. It used three.** Ch 345's mouth is the
+   keeper with the paste pot and it says nothing whatever about the line west — `grep` for *west*, *paid by the
+   day*, *families* and *kept by men* across ch 345 returns nothing of the kind. The **fourth** Batch 0003 mouth
+   recorded in `state/continuity.md` and in the Batch 0004 prompt does not exist. **Recorded, not repaired: the
+   page is right and the record was not.**
+2. **The card says none of Batch 0004's four is the same mouth as Batch 0003's four. One of them is** — ch 357's
+   is the man with the brush, who is Batch 0003's mouth at ch 331. **Repaired in the chapter, not in the record:**
+   ch 357's opening clause and its closer were recast at the close so that the two no longer open or close on the
+   same words, while both still say what the volume needs them to say. The mouth being the same man in the same
+   room twenty-six chapters later is the point of the chapter — he tells her at the finding that the ordinary
+   traffic of that line goes past his floor on a cart and is read against other things, which is the finding
+   itself. **The card's claim is wrong and is recorded as wrong.**
+
+**The tenth part is NOT given.** `grep` for *tenth* across ch 299–360 returns seventeen hits, **every one of them
+ordinary counting** — a tenth box, the tenth of a month, the tenth hour, a man counting to ten. Nothing states a
+tenth part of the boundary. **Nothing proves the crews wrong** — every man who describes the line describes it as a
+thing that works, and none is contradicted.
+
+**The surface answer paid at ch 267 is not re-voiced anywhere in ch 299–360.** Read against the phrase; the only
+near-neighbour is ch 331's *A book that shuts on the thirtieth is finished. A person is not finished*, which is
+about the shape of a shut book and not about the layer's purpose, and is said once.
+
+**The origin answer (Volume 11) and the moral answer (Volumes 15–16) are nowhere previewed.** `Scribe`, `Anchor`,
+`Sisterhood`, `Lung`, `appointment` and `the shape of a happy life` all return **zero** across the volume. **PASS.**
+
+### 9. The announcement rule, re-derived for the far side — and that it held
+
+> *The layer still announces, because that is what announcements are for, but there is nobody inside to be told
+> and no county book to take it down — so the sound goes into the ground, and what the offices above take is not
+> the sound but the reading.*
+
+**On the page at every stage that names it, in four different sentences and never as a rule:**
+
+| Chapter | What the page says |
+| --- | --- |
+| ch 332 | *There was nobody inside to be told and no county book on that ground to take anything down, and the sound of a stage is a sound and a sound has to go somewhere.* |
+| ch 342 | *It came the way the six before it had come and there was no announcement and there was not going to be one … It went into the ground under that hedge and a quarter of a mile into the air, and a dog on a farm a mile off did not bark.* |
+| ch 352 | *There was not a living soul on that ground to be told and there was no county book standing on it to take anything down … It went into the ground under that grass and a quarter of a mile into the air.* |
+| ch 357 | *It came the way it always came, out of the ground she was standing on and not out of her, and there was not a living soul on that flat to be told and nothing within half a mile with a book to take anything down.* |
+
+**No office announces anywhere in the volume.** `grep -i announc` across ch 299–360 returns five hits and **every
+one of them is about the layer or about what happened inside the bound** — ch 305, 306, 308, 321 and 360. Not one
+is an office speaking. **Offices enter, vouch and send for**: the counter enters her as good (ch 304), the second
+office vouches (ch 329), the counter writes the sending (ch 336), the counter enters her refusal (ch 358), the
+fine hand enters the finding (ch 357) and the reach (ch 360). **And the whole of the volume's answer is that a
+line that is read can be sent for** — which is what ch 336 is, and what ch 338 makes him understand at the price of
+his unnamed state, and what ch 358 is her refusing. **PASS.**
+
+### 10. What was broken and what was refused, and that neither is re-stated as the other's
+
+- **Broken: the closed-season box circuit at ch 344**, in a room, with a person, said on the page by a man with a
+  brush who cannot take the lines out and will not shut the book with a knot — *A book that does not shut is still
+  a book, and a book that does not shut goes up on the first cart in the morning, and it goes as it is. That is
+  not a rule anybody has made. That is what a book is.*
+- **Refused: the sending at ch 358** — out loud, in daylight, with her name said, entered in the office's own book.
+  **NING YAN, OF LOWWATER. THE HOLDER IS NOT PRESENTED. REFUSED AT THE COUNTER. THE TWENTY-SIXTH.**
+- **The ch 329 vouching and the ch 358 refusal are different kinds of act.** The first is a **yes given in
+  daylight for materials**, by a person who wants clay, and it costs her the ability to work off a wall with no
+  name on anything. The second is a **no given in daylight for herself**, by a person who is the last office on
+  nine days of road that can ask her anything, and it costs her the only arrangement that would have made her
+  safe. **Neither chapter states the other.** Checked directly: ch 329 contains no refusal and ch 358 contains no
+  vouching; ch 358's one backward reach is to **ch 355**, the second-holder refusal, which is a third act and is
+  named as such.
+- **Ch 359 is the bill and not the breaking.** Its own continuity record says so; the page says so — it opens on
+  the twenty-eighth passing with nothing on the road, and the whole chapter is a consequence arriving at a post.
+  **Ch 344 does not know ch 359 exists and ch 359 does not say *I broke it*.** **PASS.**
+
+### 11. The volume climax and the final image — ch 357–360
+
+| Element the outline fixes | Page | Result |
+| --- | --- | --- |
+| **The finding** | ch 357 | **PASS** |
+| **The refusal** | ch 358 | **PASS** |
+| **The bill** | ch 359 | **PASS** |
+| **The handover** | ch 360 | **PASS** |
+| In that order, and nothing deferred past ch 360 | 357 → 358 → 359 → 360, and the last page is the last chapter | **PASS** |
+
+**The final image, checked element by element against `outline/volume-06.md` *Final chapter image*:**
+
+| The outline's element | The page, ch 360 | Result |
+| --- | --- | --- |
+| A clearing past the mill | *on the twenty-second of a month she went out past the mill … taking stones out of the bottom of a hedge that had gone over in a wet year before she came* | **PASS** |
+| A furnace behind her that no office built | *a furnace behind her at a mill that no office built* | **PASS** |
+| A column ahead of her that every office above can read | *a column ahead of her that every office above the mill could read* | **PASS** |
+| A stone she never touched, moved once, the length of a reach, set down clean | *She put her hand flat on a stone about the size of a flat loaf that she had not touched … it stopped with her hand on it, about the length of her own arm away, and she put it down on the grass where it stopped, and it was down.* A reach in this book is her own reach, and the gate prices five coppers a reach of what comes over the bank | **PASS** |
+| Nobody hears it | *The four men were about nine feet off at the near end of their bank and not one of them stopped.* | **PASS** |
+| Nothing is said | No bracket, no voice, nothing out of him: *She put nothing in there and the stone came, and the surprise did not come back.* | **PASS** |
+| An office writes it down afterward, in a hand she has never seen, because the hand can read what happened | the carter brings a strip on the twenty-fifth; *The hand could read what happened. She could not read the hand.* | **PASS** |
+| Nine days of road behind her, and a floor, and nine men, and a tower with a light in it | *Nine days west, and a stair, and a floor, and nine men on it who had not gone up that road in five months because she is not carrying their hours. And a tower with a light in it that comes on at the fourth hour and does not stop.* | **PASS** |
+| She will not walk it again | *She will not walk it again.* — the last line of the volume, in her own act, with no farewell to anybody | **PASS** |
+
+### 12. The sixteen required continuity facts, one at a time
+
+Walked in `## Volume 6 close audit — CLOSED` below, each with its page reference, each confirmed against the
+manuscript and not against the card.
+
+### 13. No harem, and nothing a romance
+
+- ***The shape of a happy life*** is spent until Volume 16, by Ning Wu. `grep` across ch 299–360 returns **zero**.
+- **Ning Yan never says her mother's name.** `grep` for *her mother* returns **zero**; the Clay Plate's owner is
+  carried as *the thing she never described and never took off* (ch 303) and is never named.
+- **Yuan never tells her what he was before he died, and does not learn she saw him as a readout, before
+  Volume 11.** Ch 338 says in his own frame that he died at nineteen on the wrong side of a sect that was about to
+  take his core and that the last coherent thing he managed was an apology — **which is what the reader has known
+  since Volume 1, and it says nothing about a layer, a Scribe or a fragment.** Nothing on any page tells her, and
+  nothing on any page tells him she saw him as a readout. **Both still unspent.**
+- **Wei Ran does not appear in Batch 0004.** `grep` across ch 346–360 returns **zero**. She appears once in the
+  volume, at **ch 302** (*Past The Last Farm*), in a gate and a cart — a trade, a rate and an opinion, and nothing
+  else. **Nothing in Volume 6 is a romance.** **PASS.**
+
+### 14. The hard rules, measured by grep and not asserted
+
+| Rule | Measurement across ch 299–360 | Result |
+| --- | --- | --- |
+| Authorial scaffolding (seven variants) | **0** | PASS |
+| *About four seconds* | **0** | PASS |
+| *Eleven weeks* | **0** | PASS |
+| The seven retired phrases | **0 as phrases** | PASS |
+| The Yuan tag and any lead-in of any shape before his speech | **0** | PASS |
+| The *under her,* family | **1, at ch 316, and it is not a speech lead-in** — *the cold coming up under her*. **The speech-lead-in family is 0.** | PASS, recorded |
+| The eleven-counts measure | **1, at ch 307**, and not a declaration | PASS |
+| The surface answer | **0** | PASS |
+| The seven relicensing conditions | **0** — never listed, counted or referred to | PASS |
+| `reconciled` | **0** | PASS |
+| `kiln-born`, Anchor, Sisterhood, Lung, appointment, MEMBER ABSENT, sponsor, Shen Xiu, Scribe | **0, 0, 0, 0, 0, 0, 0, 0, and 1 substring hit at ch 303 for *described*** | PASS, one substring artefact recorded |
+| `plate` | **0** | PASS |
+| `licence` / `license` | **0 / 0** | PASS |
+| `tribulation` | **0** | PASS |
+| `Ledger` | **2 at the start of the audit, both the common noun for a physical account book; 0 after the close repairs at ch 306 and ch 319** | **PASS after repair** |
+| `Wei Ran` | **1, at ch 302**, which is her permitted run through Batch 0001 | PASS |
+| `Ning Wu` / `Feng` | **0 / 0** | PASS |
+| Named weekdays / named calendar months / named weeks | **0 / 0 / 0.** *This week* at ch 324 is a relative stretch inside a cart's irregular round and is not a named week | PASS |
+| *His eyes widened / he couldn't believe it / suddenly / little did he know* | **0** | PASS |
+| Bold | **0** across the volume | PASS |
+| Blockquote, code fence, table, horizontal rule | **0 / 0 / 0 / 0** | PASS |
+| Straight quotes and straight apostrophes | **0 / 0**; every speech closed in all sixty-two files | PASS |
+| Paragraph length | **13 paragraphs between 91 and 103 words, none over 120.** Longest is ch 309 at 103. **All thirteen are pre-existing; the close repair introduced none** | PASS with a recorded figure |
+| Duplicated paragraphs | **1 pair, and it is a planted-and-paid motif**: *A line is a thing that gets found / A holding is a thing that can be asked for*, planted in her head at **ch 335** and paid in his room at **ch 338**, where a third sentence is added and the difference between the two is what the chapter is for. **Six other pairs were found and five repaired** | PASS after repair |
+| Bracketed layer lines | **6, at ch 310, 321, 332, 342, 352 and 357, character for character as pinned; 0 elsewhere including ch 360** | PASS |
+| All-caps standalone lines | **7 at the start of the audit, 0 after the close repairs** — ch 314 ×2, ch 317, ch 336 ×4, ch 338 | PASS after repair |
+| Chapter titles, against all 359 other headings and against each other | **360 `#` headings across the manuscript, zero collisions. No title was changed at the close** | PASS |
+| Word counts | **95,081 words of body prose over sixty-two chapters after the close repairs** (94,946 before them). No chapter under the 1,300 floor and none above the 2,700 guide; longest is ch 338 at 2,968, which is the flagged close-third exception | PASS |
+| `vouch` | **6 — ch 329 ×2 and ch 357 ×4.** Both are the cards the word belongs to: ch 329 is the vouching agreed and ch 357 is the finding about it. **Batch 0004's budget recorded `vouch: 4` at ch 357 as an intentional non-zero and this audit confirms it as an intentional non-zero and does not treat it as a failure and does not treat it as licence** | PASS |
+| Batch 0004's fourteen faults found by measurement while drafting and cut before saving | Confirmed recorded in `state/continuity.md` and **not** re-litigated here | PASS |
+
+### 15. The three carried things that must still be carried and must not have been paid
+
+| Carried thing | Page | Result |
+| --- | --- | --- |
+| **The relicensing legs stay in order** (clearance → seal → countersignature, Volume 4, not inverted) | `grep` for **clearance returns 0**; **countersignature returns 0**. `seal` returns **1, at ch 305, and it is *there was no name on it and no seal* on a strip** — the physical material, not a relicensing seal. **No new clearance, seal or countersignature was invented for Golden Core 4–9 or for Nascent Soul 1, and no chapter said one was required or not required.** | **PASS** |
+| **MEMBER ABSENT stands three times, is permanent, and was not raised anywhere in ch 299–360** | `grep` returns **0** | **PASS** |
+| **The register still reads *reconciled*, was read and never corrected, and was not read at all in ch 299–360** | `grep` returns **0** — and the volume's allowance for reading it was zero, so this is the allowance honoured and not an omission | **PASS** |
+| **The Clay Plate is still worn and was not described** | `grep` for *plate* returns **0**; ch 303 carries it as *the thing she never described and never took off and had surrendered to nobody* | **PASS** |
+| What became of the eleven is not raised | Confirmed by reading; **no question about the other six appears in ch 299–360** | **PASS** |
+| The four months erased in Chapter 3 are never named | `grep` for *erased*, *base went out* and *could not account* returns **0**. *Four weeks* returns 6, **every one of them an ordinary relative stretch** at ch 329, 347 ×2, 348 and 354 | **PASS** |
+| The silence bought at ch 128 is unbroken | Confirmed; nothing about the sponsors' second book is lodged, copied or spoken | **PASS** |
+| The ch 150 refusal is not softened, deferred, reopened or regretted in any line | Confirmed; **the year of non-forgiveness is not mentioned once in the sixty-two chapters**, which is the volume's stated allowance | **PASS** |
+| No second Lung and no second appointment | `grep` returns **0 / 0** | **PASS** |
+| Feng never on the page after ch 262 | `grep` for *Feng* returns **0** across the volume | **PASS** |
+
+## Volume 6 close audit — CLOSED
+
+**`outline/volume-06.md` walked line by line against ch 299–360. One table of fifteen numbered rows, above.
+Sixteen repairs made in the chapters across seventeen files. Seven findings recorded and not repaired. The
+continuity list walked, every item, with its page. The protagonist answered in writing, as
+`outline/series.md` §2 requires of every volume from Volume 5 on. `outline/series.md` and `outline/ending.md`
+were not opened and are byte-identical. `outline/volume-07.md` does not exist and is not written here.**
+
+### The sixteen repairs, and the count
+
+**Sixteen individual faults, in twelve categories, across seventeen chapter files. Six of the seventeen sit in
+Batch 0004 and were touched at its review and again here; the other eleven — ch 306, 314, 317, 319, 321, 322, 330,
+332, 336, 343 and 350 — were opened here for the first time since their own batch review. No beat, day-table position, title,
+turn, midpoint, climax, irreversible decision, bracket or stage moved. No chapter before `chapter-0299.md` was
+opened. File set after repair: **95,081 words of body prose over sixty-two chapters**, against 94,946 before.**
+
+| # | Chapter | Fault | Repair |
+| --- | --- | --- | --- |
+| 1 | **ch 360** | **The chapter contradicted itself, and contradicted the cost it exists to pay.** It opens on the twenty-second with **no bar** — *because the bar takes two hands and she had left it against the fence of the shed* — and then has the bar against her knee at the gate post and carries it under her arm west. **This is the stage ch 352 paid for, and the chapter that reports the handover carried it twice.** | The bar is gone from both later places: at the gate post she *stood with it in her hand, and there was nothing else in either of them*; at the close she *went west on foot*. The opening is untouched |
+| 2 | **ch 355** | **A unit slip against the body's own fact.** *the four minutes of breath.* The measure is **counts** everywhere else in the volume — ch 342 (*five counts of breath*), ch 351 (*five counts of breath*) — and a chapter had written minutes. | *the four counts of breath* |
+| 3 | **ch 357** | **A miscount the chapter made about itself.** The section is headed *The Four Sentences* and the narration says he said it *in four sentences*; **the page carries three.** The same fault class the Batch 0004 review caught at ch 351, 353 and 357 for stage-counting | Heading is now *What He Said Without Being Asked* and the narration ends *and he did not know that he was saying it*. The count is gone rather than corrected, because the number was never load-bearing |
+| 4 | **ch 357** | **A garbled clause in the volume's summing sentence.** *a woman who could not hold the bar she carried it in* — the object does not parse, and it also re-explains ch 352's cost four chapters after ch 352 named it once | *a woman standing in front of it with nothing to do with it* |
+| 5 | **ch 357** | **The same mouth opened and closed on the same words as ch 331, twenty-six chapters earlier**, in the same room. Both open *There is a line out west* and both close on *eleven years* — and *eleven years* appeared **three times inside ch 357 alone** | The opening is now *The line west of this building is about nine miles off* and the closer is *I have copied every one of them.* **Two eleven-years figures remain in the chapter, both from one speech where they are a deliberate hammer, and one of those is the ch 357 finding's own set-up: the ordinary traffic of the line comes past this floor on a cart at the end of every month** |
+| 6 | **ch 321** | **A paragraph duplicated word for word at ch 332**: *The layer said it once in the far-side house form and stopped. It had never explained and it had never advised and it did not begin.* — and the same sentence is the post-bracket line at the other Golden Core stage | ch 321's is now *That was the whole of what came out of her, and it was the same sentence in the same words as the one before it, and in four years it has never once handed her anything to do.* **ch 310 keeps the fullest version, ch 332 keeps the plainer one, and all three now differ** |
+| 7 | **ch 352** | **The same fault at ch 342**: *It said it once, in the far-side house form, and then it was finished, and it did not explain and it did not advise and it did not begin.* | *It said its one sentence and stopped, the way the seven before it had said it and stopped, and it has never told her a thing.* **ch 357's version, recast at the Batch 0004 review, is a third form and is untouched** |
+| 8 | **ch 332 and ch 352** | **A one-line paragraph identical at three consecutive Golden Core stages**: *She picked the bar up off the grass.* at ch 332, ch 342 and ch 352 | ch 332 is now *She got the bar up off the grass*; ch 352 is now *She put her hand flat on the bar where it lay.* **ch 342, the middle one, is the only one of the three that still reads as the old line** |
+| 9 | **ch 307 and ch 322** | **A one-line paragraph identical sixteen chapters apart**: *Nothing broke in her that she has not had back once.* | ch 307 keeps it. ch 322's is now *And not one of the four came back with anything new on it, and the one she had been afraid of for five days was not among them* — which is **the chapter's own four-item list** and carries the emotion the original did |
+| 10 | **ch 330, ch 343, ch 350** | **One physical beat standing four times across four chapters as an identical standalone paragraph** — *He squared the board up on the bench* at ch 328, 330, 343 and 350, always the same man, always between the same two speeches, and once more inside another sentence at ch 330 | ch 330's is **cut** (the same chapter carries the gesture again at line 83, so nothing is lost); ch 343's is now *He put his thumb on the line he had written and left it there*; ch 350's is now *He turned the board round on the bench and pushed it back against the wall.* **ch 328 keeps the first one** |
+| 11 | **ch 336** | **Four bare all-caps lines standing as written matter**, which read as System panels — *WHAT IS COPIED AT THIS REACH IS COPIED TWICE* and three more. **The identical fourth line is spoken in quotation marks at ch 348.** This is the exact fault the Batch 0004 review found and repaired at five places in Batch 0004; ch 336 was outside its scope | The four lines are now **sentence case inside curly quotation marks**, carried by the hand they are in, named in the sentence around them: *He read them out word for word, because that is what a strip is for.* The next paragraph no longer re-describes the reading |
+| 12 | **ch 314, ch 317, ch 338** | **Three more bare all-caps lines**, of the same class and outside Batch 0004's scope: the board's standing text and one board line at ch 314, one listing at ch 317, and **her name at the head of the column at ch 338** | All three are sentence case inside curly quotation marks. At ch 338 the name is now *NING YAN. OF LOWWATER, and it is at the top of a column in a hand that has never once been her own* — **which is a gain, because the sentence it replaced was saying a fact the chapter had already said four lines earlier.** **Zero all-caps standalone lines now stand anywhere in ch 299–360** |
+| 13 | **ch 359** | **A count the chapter sets and does not pay off.** She tells the keeper the book does not shut *because there are three things in it that have nothing at the other end of the rule*, and then names **two** in the room; the third is supplied eleven paragraphs later in the Plain Part. The Batch 0004 review repaired a counting class of this kind at three consecutive chapters | One paragraph in her own voice now closes the count before the section break: *The third one is mine, and it is a no I gave at a counter a fortnight ago in front of about nine men, and it has my name at the left of it and the day against it. You do not need to know what it was about* — **and that is also the truest thing she could say about it, because she put it there herself and she is not going to explain her own refusal to a stranger with a paste pot** |
+| 14 | **ch 306** | **`Ledger` on the page as a common noun**, where the volume's own measurement is that `grep -i Ledger` returns zero across ch 299–360 | *not in a way a person could write down and call it a return* |
+| 15 | **ch 319** | **The same, second instance** — *the ledger board* | *the tally board* |
+| 16 | **ch 306, ch 319** | **A measurement the card depends on was being asserted rather than true.** The card requires `grep` for `Ledger` to return zero across the volume. **It returned 2.** Both were the common noun for a physical account book and neither touched the held stage, so the *substance* was never in doubt — but a budget that claims zero while instances stand is the failure this manuscript has twice caught itself making, and a budget that records a count where there is none is the same lie with the sign flipped, which is the other failure the Batch 0004 review caught. **Recorded and repaired rather than argued** | Both are out. **`grep -i Ledger` now returns zero across all sixty-two files, and the claim in the audit table above is measured, not asserted** |
+
+**Re-measured after the repairs.** 95,081 words of body prose over sixty-two chapters. **Exactly six** bracketed
+layer lines, at ch 310, 321, 332, 342, 352 and 357, character for character as pinned, and **none at ch 360**.
+Every speech closed in all sixty-two files; **zero** straight apostrophes and **zero** straight double quotes.
+**Zero** blockquotes, code fences, tables, horizontal rules and **zero bold**. **Zero** all-caps standalone
+lines. **One** duplicated paragraph pair, and it is the planted-and-paid motif at ch 335 and ch 338. Longest
+paragraph 103 words (ch 309), thirteen paragraphs between 91 and 103, **none over 120, and none introduced by
+this repair**. **360 `#` headings across the manuscript, zero collisions, no title changed.**
+**Month-day arithmetic re-derived for every pinned day under `((day − 134) mod 30) + 1`: 638 is the 25th, 674 the
+1st, 712 the 9th, 749 the 16th, 786 the 23rd, 818 the 25th, 845 the 22nd — all unchanged.**
+
+### Seven findings recorded and not repaired
+
+1. **Ch 336's sending now carries no chapter title and no date.** *A Strip With Two Columns* is dated on the page
+   at the seventeenth of a month inside the chapter's own last section. **Left alone**: the date is there, and the
+   card's ch-348-derived figure of *four weeks back* is correct against it (day 750 to day 776 is twenty-six days).
+2. **Ch 357's Plain Part re-states the finding ch 357 has just made**, in twenty words, two sections after making
+   it. *She has a materials account nine miles east that has been copied upward out of its own office in a hand
+   she has never seen* — the same fact as *What It Meant For One Person*, forty lines earlier. **Left alone**: it
+   is the chapter's own inventory of what she now has, it is twenty words, it explains no mechanism, and the
+   chapter has to be able to end by counting. Recasting it would take out the count.
+3. **Ch 335 says *A holding under a column is a thing that can be asked for* at line 89 and *A holding is a thing
+   that can be asked for* at line 97**, thirteen paragraphs apart, in the same chapter. **Left alone**: the first
+   is her inventory of a paper she has been handed and the second is the epigram she carries to the gateway, and
+   the repetition is the chapter pressing the point rather than restating it.
+4. **The ch 335 / ch 338 pair** — *A line is a thing that gets found / A holding is a thing that can be asked
+   for* — is word-for-word identical in two chapters three apart. **Left alone deliberately, and it is the only
+   exact duplicate now standing in the volume.** It is planted in her head at ch 335 and paid in his room at ch
+   338, where the chapter adds the third sentence that is the whole of ch 338 — *And the difference between the
+   two is that nobody has to walk to a road to ask for one.* A refrain that is planted and then answered is the
+   book's method, not its repetition.
+5. **The keeper's figure at ch 345 and ch 359 is near-verbatim in the same mouth**: *In nine years I have put
+   about three hundred strips on this board and I have had four hundred books up that road and I have never once
+   had one come back down* / *I have had about three hundred strips on that board, and four hundred books up that
+   road, and I have never once had one come back down.* **Left alone deliberately**: the first time it is a man's
+   record and the second time it is his record with one thing standing on a stone under his ladder, and the echo is
+   the chapter's whole effect.
+6. **Ch 309 carries the longest paragraph in the volume at 103 words**, and thirteen paragraphs across ten
+   chapters run between 91 and 103. All are under the 120 hard cap. **Left alone**: they are all in the
+   documentary or the counting register, they are the places where the sentence genuinely runs, and splitting them
+   at a volume close would be editing good prose to satisfy a guideline that says *roughly 90*. **The Batch 0004
+   budget's claim that no paragraph in that batch runs over 90 is true of that batch and is not a claim about the
+   volume, and this row is the volume's number.**
+7. **`nobody` stands 88 times across sixty-two chapters, and the wider family with *no one*, *not one* and
+   *not one person* at 191.** Batch 0004 cut its own from 27 to 6 in fifteen chapters and the six that remain are
+   load-bearing. Across the volume the rate is about 1.4 a chapter and the maximum in any one chapter is seven (ch
+   307 and ch 329), both of them chapters where the structural answer or the vouching is being stated in full.
+   **Left alone and recorded**: this is the one measured number in the volume that is above where the book's own
+   guidance would put it, it is distributed rather than concentrated, and cutting sixty instances across four
+   closed batches at a volume close is a rewrite, not an audit.
+
+### The continuity list walked, one item at a time
+
+`outline/volume-06.md` numbers **seventeen** required continuity facts. The close card calls the list sixteen.
+**All seventeen are walked here, in the outline's own order and numbering, each against the manuscript.**
+
+1. **Golden Core 9 reached (ch 357, day 818), licensed by no county paper of any kind, 4 at ch 310 day 638, 5 at
+   ch 321 day 674, 6 at ch 332 day 712, 7 at ch 342 day 749, 8 at ch 352 day 786, Nascent Soul 1 handed over at ch
+   360 day 845 entered by hand and not announced.** **On the page.** Six brackets, six chapter numbers, six days,
+   all re-derived. Worked, paid for and entered in far-side books and clearings kept by people who are not a
+   county. **The relicensed licence still says Foundation the first stage and she has still never touched it** —
+   `licence` and `license` both return **zero** across ch 299–360, which is how a never-opened paper is held
+   here. **CONFIRMED.**
+2. **The right index finger, with the hour, the place and the witnesses, and that nothing gave it back — and the
+   right arm, open half the time since ch 288.** **Carried on the page and never re-narrated.** Four fingers'
+   worth of grip left on that hand throughout: ch 310 (*Four fingers and a thumb on one hand*), ch 321 (*warm
+   hands*), ch 348, ch 352 (*She has eight holds in the left and four fingers and a thumb on the right*), ch 360
+   (none — the reach needs no hand at all, which is the point of it). **Nothing in Volume 6 gives either back and
+   nothing offers to. CONFIRMED.**
+3. **The relicensing legs in order (clearance → seal → countersignature), untouched; no new clearance, seal or
+   countersignature invented for Golden Core 4–9 or Nascent Soul 1, and no card says one was required or not
+   required.** `clearance` **0**, `countersignature` **0**, `seal` **1 and it is *no seal* on a strip at ch 305**,
+   a physical property of a piece of paper. **No chapter anywhere in ch 299–360 says that a stage does or does
+   not need relicensing.** **CONFIRMED.**
+4. **What the boundary is, in the terms Volume 4 earned, and whether the tenth part has been given — it has
+   not.** The line is walked, kept, copied and vouched by offices that never needed a bound, by people paid by the
+   day and by the clearing, with families on it, in seven mouths at ch 331, 335, 337, 346, 350, 353 and 357.
+   **Ninety parts true and twice said, and the tenth part is not given.** `tenth` returns 17, all of them counting.
+   **Nothing proves the crews wrong.** **CONFIRMED.**
+5. **What crossing cost, in hours and in people, plus Volume 5's own five months at five coppers a day.** Carried
+   and added to: eleven men and a girl three days for nothing; three empty dates true; nine men idle and a girl
+   idle; a name struck out; MEMBER ABSENT three times; four fingers on one hand (Volume 4) — plus Volume 5's five
+   months of far-side wage-work — **plus Volume 6's seven months past the last working point without wages, paid
+   in clearings and materials, three holds spent between ch 332 and Volume 6's end, and the heavy end closed to
+   her for good.** The Volume 6 line is priced in the chapters and not in a summary: two and a half coppers a day
+   at ch 313 falling to one at ch 353, bread at two a day, the board bare at ch 356. **CONFIRMED.**
+6. **The claim answered, and the fact that answering it closed a far-side bill and left the bound's bill exactly
+   where it was.** ANSWERED at ch 294–295, draft west with no date, date off the page by the hand that wrote it,
+   Hou paid and never met. **Nothing in ch 299–360 reopens it** — `Hou` and the claim are not on any page in the
+   volume. The four counties still carry the figure; the county's furnace column still reads unsettled; the
+   register still reads *reconciled*. **CONFIRMED.**
+7. **The referral and the empty space, and that the request is still pending at the last page of Volume 6.** The
+   space holds a date and *Held* and the countersignature in an office's hand from the far side. **It is not an
+   answer to the request.** The Hunter is on the page at ch 335 and **ch 347** — nine feet off a cart track,
+   notebook shut, buys nothing, asks nothing, and at ch 347 she asks **him**, for the first time in five months,
+   and he answers once. **His request is still pending: a Wall writ is not issued to a field agent, and the line's
+   own people still do not know she exists.** **CONFIRMED.**
+8. **Feng's Lung and what the second will cost him — Volume 11, not here.** The first spent (ch 143); the second
+   and any second appointment **unspent**. `Lung` **0**, `appointment` **0**, `Feng` **0** across ch 299–360.
+   **Volume 6 takes his stair, his hand and his quarter nowhere at all — no card in the volume gave him one, and
+   the rule was that a card had to.** Alive, warm, column at five, not thanked. **CONFIRMED.**
+9. ***Kiln-born* and the unreadable office, and whether either is still unreadable.** `kiln-born` **0** on the
+   page and still in two heads. **The Standing Office of the Second Account read at ch 236, a middle office, and
+   **everything above that one office is still unread in name and stays unread.**** No office is named anywhere in
+   ch 299–360 — not one, in any mouth, on any chapter. **CONFIRMED.**
+10. **The register still reads *reconciled*.** Read and never corrected, in Volume 5. **`reconciled` returns 0
+    across ch 299–360** — and the volume's allowance for reading it was zero, so this is the allowance honoured
+    and not an omission. **CONFIRMED.**
+11. **The plate: STILL WORN, against her ribs, and not described.** `plate` returns **0**. It is carried at ch
+    303 as *the thing she never described and never took off and had surrendered to nobody*, and at ch 344 as
+    *it had been in her hand since she was eleven years old, and it had never once been the same instrument as
+    the one on her ribs*. **Nothing in Volume 6 takes it off or describes it, and Volume 16 still owns its
+    texture. CONFIRMED.**
+12. **Ledger: entered once without her order at ch 272 and then closed as a standing held stage — say which, how
+    many times and at what price each; and in Volume 6, never ordered, never held, never priced, never
+    refused.** **Entered once, at ch 272, at the price stated before the line went in — his unentered state and
+    the date of the morning he died. Closed as a standing held stage with Volume 5.** In Volume 6: **never
+    ordered, never held, never priced, never refused, never thought about** — `grep -i Ledger` returns **0**
+    across all sixty-two files, and it took two close repairs at ch 306 and ch 319 to make that true rather than
+    approximately true. **What replaces it is Hand, spent twice (ch 325, ch 338) and refused once (ch 355), each
+    share told before spent out of her foundation and not coming back. CONFIRMED.**
+13. **The year of non-forgiveness resolved or still running, in one sentence.** **STILL RUNNING:**
+    *That is not forgiveness. It is a purchase, and the account is still carrying, and it will be carrying at the
+    end of the book.* **She does not forgive him and she does not tell him to stop — and the strongest form of
+    that in Volume 6 is that the subject is not mentioned once in sixty-two chapters**, while ch 355 has him
+    refuse the one thing that would make her safer and ch 358 has her refuse the only thing that would make her
+    safe, and neither of them is forgiven and neither of them is asked to stop. **CONFIRMED.**
+14. **The channel, about how much and what it cost to get it.** **No figure of what is left of him is stated on any
+    page in ch 299–360** — the last figure in the manuscript is *about six weeks* at ch 236 and it is not
+    repeated. **Restored twice in Volume 6** and twice only: **ch 316** and **ch 320**, each on a listed work
+    cleared past the last working point, each share told before spent, each out of her foundation, each not coming
+    back — ch 316 cost her the ring, which went out cold on the eleventh of a month and had not been lit since the
+    seventh; ch 320 cost her the answering, which stopped and has not come back. **About weeks at the close, said
+    once, in weeks.** **CONFIRMED.**
+15. **Wei Ran, whether she is on the page and what she has.** **On the page once, at ch 302** (*Past The Last
+    Farm*), in a gateway and beside a cart — a trade, a team, a rate and an opinion. `grep` across ch 346–360
+    returns **0** and she is off page between, as `outline/volume-06.md` has her. **Nothing a romance. CONFIRMED.**
+16. **Yuan's readability, and the date of the morning he died.** **Readable from outside the bound without her
+    since ch 272, and therefore findable; addressed as a holder since ch 338, and therefore sendable.** The date
+    of the morning he died is **gone and nothing gives it back** — `the morning he died` returns **0**, and ch 338
+    has him look for it and not find it. **The unnamed state is gone at ch 338 and nothing gives that back
+    either.** **The ending still needs him findable, and he is. CONFIRMED.**
+17. **Whatever Volume 6 changes about any of them.** **Golden Core 4–9 taken past the line with no county paper;
+    Nascent Soul 1 begun by hand and not by sound; the box circuit broken at ch 344 and no book closing clean,
+    billed at ch 359; the sending refused at ch 358 and standing; the structural answer begun in seven mouths and
+    the tenth part still not given; Hand spent twice and refused once; the holder addressed at ch 338 at a price
+    named in advance; the refusal entered in a building she cannot reach; and the ladder handed over to Volume 7
+    at ch 360 with nobody having heard it. CONFIRMED — every one of these is the volume's change and not a piece
+    of furniture.**
+
+### The protagonist, answered in writing
+
+`outline/series.md` §2 makes this a standing requirement on every volume from Volume 5 on, and Volume 6's close
+does it again.
+
+**What the protagonist actually did across Volume 6, chapter by chapter, and what each of it cost.**
+
+- **At ch 325 he moved a cart's turning through her column** so that a box would go on a week early instead of
+  waiting a season, and a box is four days of the ring. **The chapter says whose hand moved and what it moved him
+  toward**: *I moved the cart* — six words, in the present tense, on a cart on a flat with nothing within half a
+  mile that could hear two people. **The cost is a hole in a yard's own account**, put there by a correct man with
+  ink on the side of his hand who will have to answer for it in eleven days, **and a man who now knows in about
+  nine seconds that he can get into any line on that ground, and there is no place on it where he cannot.**
+- **At ch 338 he let an office's hand address him as the holder of her column**, so that her furnace hours would
+  hold past the last working point without her standing at a shed at the fourth hour. **The price was named in
+  advance, the way Volume 4 named the finger and Volume 5 named the death-day**, in her own mouth the night
+  before, on a strip of paper with her palm flat on it: **his unnamed state, and with it the ability ever again to
+  be nowhere an office can address.** He pays it and says the price back before he pays it, in his own words, and
+  he says *Being held means being sent for. And being sent for is a thing that happens to men in rooms with
+  doors.* **What it moved him toward is stated in the chapter and is not about her:** *I am not going to be
+  anywhere after this. I have wanted to be somewhere I cannot be reached for about four years and I have got it
+  now and it is the worst thing I have ever bought.*
+- **At ch 355 he was asked for a second holder and he said no out loud**, in the first word, in thirteen sentences
+  of present tense, to a woman holding the strip on the boards of a shed at the second hour of the fourth of a
+  month. **It was NOT spent** — nothing came out of the ground she was standing on. **And the price of refusing
+  was that he was refusing a thing that would have made her safer: she said it and he agreed.** *Yes.* **Every
+  one of those three is a decision by the book's protagonist and every one of them was paid for out of her.**
+
+**What is now true of him that was not true at ch 298.**
+
+- **Readable without her, and therefore findable** (ch 272, carried into Volume 6 and never given back).
+- **Held, and therefore sendable** (ch 338). **Being sent for is now a thing that can happen to him in
+  principle, and Volume 6 deliberately neither resolves it nor has it happen off-page** — the batch budget
+  records that his own condition since ch 338 is *neither resolved nor spoken of anywhere in ch 346–360*.
+- **He has refused once, out loud, for a reason of his own, and the reason is better than hers and he has said
+  so** (ch 355).
+- **The closing position is the one the ending needs: a man the reader has seen in a room, in his own frame,
+  twice** — ch 272 in Volume 5 and ch 338 in Volume 6 — and **the prerequisite `outline/ending.md` §1 needs
+  before the final volume opens exists on the page**: he is coherent, addressable, findable and legible by
+  something that has his name on a sheet. **Nothing in Volume 7's planning may assume more of him than Volume 6
+  earned.**
+
+**What may not happen, and did not.** This close has not re-framed ch 299–360, has not re-titled the volume, has
+not introduced a new final enemy, and has taken nothing `outline/ending.md` owns — **the bargain, the fall,
+Feng's death, the Anchor, the Sisterhood and the Scribe, which is fixed and belongs to Volume 15.** The year of
+non-forgiveness is not retired, he is not forgiven, and she never tells him to stop. `grep` for `Scribe`,
+`Anchor`, `Sisterhood` and `bargain` across the volume returns **zero** for all four.
+
+### The Volume 7 hand-off, as facts on the page
+
+**The question, restated from `outline/volume-06.md` §*New question for Volume 7* and confirmed against ch 360:**
+
+> She survived the far side by becoming readable and then refusing to be presented — vouched twice over, entered
+> twice over, the realm behind her finished and the next one begun by hand — and the country past the line has
+> now learned to read her where she stands instead of sending for her. But the rooms that read her that way are
+> larger than any room she has stood in, full of people who were never inside a bound and never needed to be,
+> carrying furnaces she cannot price and reaches she cannot lift — and the first thing her new reach does is show
+> her how small it is. The question is not whether she can go on. It is what a person who was taken for her
+> column, her furnace and her holder does when every room past the mill takes all three for granted and still
+> finds her the weakest thing in it.
+
+**And, as facts at ch 360, each with its page:**
+
+- **She is at NASCENT SOUL 1**, taken on day 845 past the line with **no county paper of any kind** — Golden Core
+  4 (ch 310, day 638) through Golden Core 9 (ch 357, day 818) — **licensed by nothing, and entered by hand rather
+  than announced, in a strip written by an office that was not there.** The relicensed licence still says
+  Foundation the first stage on the front of it and she has still never touched it.
+- **The right index finger is gone, permanently** — lost at the far end of a bad flat in Volume 4 and told out
+  loud to a crew — **with four fingers' worth of grip left on that hand through Volume 6; the right arm has been
+  open half the time since ch 288; eight of eleven holds since ch 332; five counts of breath on a loaded reach
+  since ch 342; and since ch 352 the bar takes two hands.** Nothing in Volume 6 gives any of it back and nothing
+  offers to.
+- **She has no wages and no season and no booking.** A gate at five coppers a reach, **a fifth of a reach, one
+  copper a day** — was two and a half at the start of Volume 6. **The board at the works is bare and stays bare
+  until the season turns.**
+- **She is a person two offices will vouch for and she has found out, on the last step, what the second of those
+  two vouchings was copied into.** A running column one flight above a counter; a materials account nine miles
+  east; **and now a third, made by carrying the second upward out of its own office in a hand she has never seen,
+  by somebody she will never meet, and sent back down her own road. She cannot be un-entered twice over.**
+- **She has refused, out loud, in daylight, with her name said, and the refusal is entered in the office's own
+  book with the twenty-sixth against it.** *NING YAN, OF LOWWATER. THE HOLDER IS NOT PRESENTED. REFUSED AT THE
+  COUNTER. THE TWENTY-SIXTH.* **It is in a building she cannot reach and no hand in it can take it out, and from
+  that hour the country past the line has to deal with her where she stands or not at all.**
+- **The closed-season box circuit is broken and the road now runs both ways.** No book on that reach shuts clean.
+  **A tray came back down the mill road and her book is standing on a stone under a keeper's ladder at a post,
+  and no office that can read it will ever know where it is.**
+- **The reach has begun, once, by accident, on the twenty-second, and does not come back**, and an office wrote
+  it down afterward in a hand she cannot read. **She will not walk the nine days of road again.**
+- **Yuan is held, and therefore sendable**, at the price of his unnamed state, named in advance at ch 338. The
+  date of the morning he died is gone and nothing gives it back. **The Ledger is no longer hers to order and
+  there is nothing she can order instead.**
+- **MEMBER ABSENT stands three times and is permanent. The register still reads *reconciled*. The Clay Plate is
+  still worn against her ribs.** Shen Xiu unforgiven and unthanked. The three sponsors silent. **The year of
+  non-forgiveness is still running.** The Hunter's request is still pending, a Wall writ is not issued to a
+  field agent, and **the line's own people still do not know she exists.**
+- **The claim is ANSWERED and Hou Sanliang is paid and has never been met.** Ning Bo's account is discharged where
+  it can be closed; Ning Wu's decade is a line with no mark on it. **Neither is on the page in Volume 6.**
+- **The structural answer is begun and not paid.** The line past the last working point is walked, kept, copied
+  and vouched by offices that never needed a bound. **The tenth part is not given and nothing proves the crews
+  wrong.**
+
+### Where this leaves the run
+
+**VOLUME 6 CLOSED AND AUDITED.** The audit table is complete — fifteen numbered rows, every one with a page
+reference, every one a pass. **Every fault is either repaired (sixteen, across seventeen chapter files) or recorded
+as a proposed repair with its reason (seven).** The continuity list is confirmed, one item at a time, with the page
+on every item. **The protagonist question is answered in writing, in the form §2 requires of every volume from
+Volume 5 on.** `outline/series.md` and `outline/ending.md` are unchanged and byte-identical.
+**`outline/volume-07.md` does not exist and is not written here.**
+
+**THE NEXT PHASE IS THE VOLUME 7 PLANNING PHASE**, at `workspace/volume-07-planning/PROMPT.md`. It is a planning
+phase: it writes `outline/volume-07.md` and must not write chapters. **Exactly one prompt was created by this
+phase and no more, and this phase did not write a `.done` marker, which `PHASE_SYSTEM.md` gives to the controller
+alone.**
 
 ## Who is where at end of chapter 345 — VOLUME 6 BATCH 0003 WRITTEN AND REPAIRED (cold reader starts here)
 

@@ -82,7 +82,7 @@ There was a thing she had known since the nineteenth of a month four months back
 
 The ground under the ring does not give anything back.
 
-Not a little. Not over five months and three firings and two days out of a column of her own and twenty-nine coppers on a promise. Nothing at all, and not slowly, and not in a way a person could put in a ledger and call it a return.
+Not a little. Not over five months and three firings and two days out of a column of her own and twenty-nine coppers on a promise. Nothing at all, and not slowly, and not in a way a person could write down and call it a return.
 
 She had gone out and dug it out twice and spread it on a flat stone and looked at it and put it back, and she had done it on the seventh of this month with her own hands in the dark, and it had come down through the light in a flat grey fall and had not settled.
 

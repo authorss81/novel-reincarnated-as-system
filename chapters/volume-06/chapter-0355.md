@@ -90,6 +90,6 @@ And then, because she had learned four years ago that a thing said in a shed at 
 
 “I am going to have to tell somebody no as well,” she said. “And I do not know yet who, and I have not worked it out.”
 
-He did not say one word about her hours or her column or the four fingers or the eight holds or the four minutes of breath. He had said four sentences about a man at the works and he had said no, and he was not going to be asked again.
+He did not say one word about her hours or her column or the four fingers or the eight holds or the four counts of breath. He had said four sentences about a man at the works and he had said no, and he was not going to be asked again.
 
 She folded the strip in three and put it inside her coat against the oilcloth, where the first one had been since the seventeenth of a month, which is six weeks back, and the two of them lay against her ribs and there was nothing in her that had come back from the night.

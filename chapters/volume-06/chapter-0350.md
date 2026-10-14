@@ -22,7 +22,7 @@ Four lines and two months, and then nothing until the season turned.
 
 “When those four are done there is nothing on that board until the season turns,” he said. “Not because the yard has nothing to do. Because no man has put anything down. It is not a season here the way it is at the yard nine miles west. It is a board and a man puts lines on it when he has them.”
 
-He squared the board up on the bench.
+He turned the board round on the bench and pushed it back against the wall.
 
 “There are two men on this yard’s books who are on nothing after those four. They go to the low work at the far end and the low work is cut and put back and it is not footing.”
 

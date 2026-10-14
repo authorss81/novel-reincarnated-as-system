@@ -16,11 +16,11 @@ It came the way the seven before it had come. There was not a living soul on tha
 
 [Ning Yan, past the line, servant-born, under no ceiling any county holds. Golden Core, stage eight, is held.]
 
-It said it once, in the far-side house form, and then it was finished, and it did not explain and it did not advise and it did not begin.
+It said its one sentence and stopped, the way the seven before it had said it and stopped, and it has never told her a thing.
 
 ## What It Took
 
-She picked the bar up off the grass.
+She put her hand flat on the bar where it lay.
 
 It came up.
 

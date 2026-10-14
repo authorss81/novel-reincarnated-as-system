@@ -50,7 +50,7 @@ She laid the last of the new foot at about two feet below where the old one was 
 
 About a fifth of a box.
 
-That is what a dressed block is out of two boxes and the man at the yard had a number for it without being asked, standing in the gateway on the twenty-second at about the eighth hour with the counting frame and the ledger board and no particular expression at all.
+That is what a dressed block is out of two boxes and the man at the yard had a number for it without being asked, standing in the gateway on the twenty-second at about the eighth hour with the counting frame and the tally board and no particular expression at all.
 
 “Twenty-three,” he said. “You are owed twenty-three and not twenty-five.”
 

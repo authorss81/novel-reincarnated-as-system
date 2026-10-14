@@ -44,7 +44,7 @@ The layer said it once in the far-side house form and stopped. It had never expl
 
 ## What It Took
 
-She picked the bar up off the grass.
+She got the bar up off the grass.
 
 She had picked it up off flat stone a hundred and forty times in five months and she had done it with the fingers on her left hand closing on it and the heel of the right one under it, and on the ninth of a month at about the fourth hour and a quarter, a mile and a quarter east of a mill, the fingers closed on it and the heel did not get under.
 

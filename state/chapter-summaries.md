@@ -803,3 +803,57 @@ Batch 0001 (ch 299–313) — READING AND BEING READ* and *Volume 6 running ledg
 - **Ch 359 — *A Book Under A Ladder* (days 821–840, the twenty-eighth to the seventeenth) — WHAT BREAKING COST.** **The break is ch 344's and this is the bill and the two chapters do not say the other.** The second twenty-eighth passes with nothing on the road. The tray goes up on the first with the cord over a page fanned open — the seventh. **On the ninth, about the eleventh hour — eight days after the first cart had gone up, not nine — a tray comes back down the mill road on the cart that takes the empties up.** A cord is still round it and the book will not shut. **The man behind the counter could not keep it on a counter and could not send it up a fifth time, and he was right, and that is the bill.** A keeper of about fifty-five who has kept that board nine years has never in nine years had a book come down the road. He asks *what do I do with a book.* **The bill is said in a room with a person** — a low building at the back of the board with a bench in it — **and she tells him: a furnace no office on nine days of road built, a holder not one person in the world can produce, and a refusal with her name at the left of it.** He pastes the strip in anyway, because that is what the board is for, **and then he says the other half, which is new: the board is for the strips.** The book goes under the ladder on a stone, because the stone is the driest thing he has, and it stands there. **No office that reads that fine hand is ever going to know where it is**, and the only man holding it cannot read it and will not tell anybody, because there is nobody to tell. *Emotion: the plain part about one person, and it is a woman in a shed a mile up that road who cleared some work off a board because she wanted clay.*
 
 - **Ch 360 — *The Length Of A Reach* (days 845–848, the twenty-second to the twenty-fifth) — NASCENT SOUL 1. NO BRACKET.** The board has been bare for about a month, the season has not turned, the gate pays one copper, and she goes out past the mill at the seventh hour **with no bar**, because the bar takes two hands and it has stood against the fence of the shed since the twenty-third of the month before last. A gang of four men two hundred yards off. She puts her hand flat on a stone she has not touched. **It comes.** Not up. Along, at the pace her hand goes, the length of her own arm, and it stops with her hand on it and she puts it down where it stopped. **The hole it was in is the shape the stone was in and there is no dust around the far side of it.** **Nobody hears it: four men nine feet off do not stop, and that is correct of them, because a stone that goes four feet and stops is a thing a man with a bar can do.** **Nothing is said.** No bracket, no announcement, no voice. **And she is surprised by nobody in the room where it happens, and the surprise does not come back** — where he is, in the room with the floor and the table and the two shut doors, **nothing at all happened, because she had not put this there**, and she had been able to put everything else there for four years. She goes back on the twenty-fourth and the twenty-fifth and it does not repeat, and the not being disappointed was the other half of the cost. **On the twenty-fifth a carter brings her a strip off the bundle because her name is at the top of it, and she can read the ordinary half and cannot read four or five lines in the fine hand — and she does not need to, because there is a date on that strip and she knows the date. **The fine hand has put a word at the head of those four or five lines and she cannot read a letter of it, and she knows that word too: the one after Golden Core, Nascent Soul, the fifth, a name she has had since before she could count to nine, and she went into it three days ago on a bank behind a mill with four men two hundred yards off and nothing said out loud.**** *(The realm's name was on no page in the manuscript before this. It is a name on a page here and not a panel: ch 360 still carries no bracket, and the silence when the stone moves is unbroken.)* *The hand can read what happened. She cannot read the hand.* Nine days of road behind her, a stair, a floor, nine men, a tower with a light in it. Everything that ever happened to her inside that boundary was announced, out loud, to nine people who had to write it down before she finished saying it. **She will not walk it again** — said in her own act, without a farewell to anybody. *Emotion: not surprise, and the absence of it, and the first thing in five months she has not been able to pay for and cannot buy again.*
+
+---
+
+## Volume 6 closed — audited
+
+**`outline/volume-06.md` walked line by line against ch 299–360. Sixteen faults repaired across seventeen chapter
+files, seven findings recorded and not repaired, the seventeen-item continuity list walked one at a time, and the
+protagonist answered in writing. File set after the close repairs: 95,081 words of body prose over sixty-two
+chapters (94,946 before them), by batch 24,529 · 23,975 · 25,027 · 21,550.**
+
+**The goal, fixed by `outline/series.md` §9 — *In this volume, Ning Yan must survive what is on the other side, or
+the crossing was a death and not an escape* — is paid.** The far side is ordinary farmed country with offices in it
+and none of them an enemy; the pressure is that being legible has a price list and she is the one paying it; she is
+entered twice and on the last step finds out the second vouching was copied upward in a hand she has never seen;
+she refuses a sending out loud, in daylight, with her name said, and it is entered and standing in a building she
+cannot reach; she breaks the closed-season box circuit and the bill is a book of hers on a stone under a keeper's
+ladder at a post; and she reaches Nascent Soul 1 by hand and not by sound, on a bank, where an office writes it
+down afterward because the hand can read what happened. **The cost of surviving is stated in the chapters and not
+in a plan**: the heavy end closed for good, the gate at one copper a day, a bare board, a refusal she cannot take
+back, and a reach that happened once.
+
+**Four pressures, four batches, no repeat:** reading and being read · work without hire · sending and being sent
+for · standing and refusing to stand. **The volume took the first rung of *Breaking* and broke one thing (the
+closed-season box circuit, ch 344) and refused one thing (the sending, ch 358). Nothing opened the Wall and no
+Order appeared.**
+
+**Six bracketed layer lines in sixty-two chapters**, at ch 310, 321, 332, 342, 352 and 357, and **none at ch 360**:
+Golden Core 4 (day 638) · 5 (674) · 6 (712) · 7 (749) · 8 (786) · 9 (818), and Nascent Soul 1 (845) entered by
+hand. Seven costs, each named once and each a different thing, and **ch 357's is the only one that is not a thing
+her body lost.** No tribulation anywhere in the volume.
+
+**Yuan: Hand spent twice (ch 325, ch 338) and refused once out loud (ch 355) and not spent.** His unentered state
+and the date of the morning he died are carried and not given back; his unnamed state went at ch 338, named in
+advance. **Ledger never ordered, held, priced, refused or thought about** — `grep -i Ledger` returns zero across
+the volume after two close repairs. Merit settles twice and neither time on a death (ch 316, ch 320) and not at all
+in Batch 0004. **No figure of what is left of him is stated on any page in ch 299–360.**
+
+**The structural answer is begun in seven mouths — ch 331, 335, 337, 346, 350, 353 and 357 — and the tenth part is
+not given and nothing proves the crews wrong.** *(Corrected at the close audit: the record previously said four
+mouths in Batch 0003 at ch 331, 335, 337 **and 345**; ch 345's mouth says nothing about the line west. There are
+seven, not eight.)*
+
+**The protagonist, answered in writing.** He moved a cart's turning through her column at ch 325 so a box would go
+on a week early. He let an office's hand address him as the holder of her column at ch 338 so her furnace hours
+would hold without her, at the price of his unnamed state, named in advance. He was asked for a second holder at
+ch 355 and said no out loud, and was not spent, and the price of refusing was that he was refusing a thing that
+would have made her safer — she said so and he agreed. **Every one of those was paid for out of her.** He is now
+readable without her and findable, held and sendable, and **being sent for is a thing that can happen to him in
+principle and Volume 6 neither resolves it nor has it happen off-page.** The closing position is the one the ending
+needs: **a man the reader has seen in a room, in his own frame, twice.**
+
+**Full table, every repair and the hand-off: `state/current.md` under `## Volume 6 close audit — OPENED` and `##
+Volume 6 close audit — CLOSED`. Figures re-derived from the chapters: `state/continuity.md` under `## Volume 6 close
+— repairs`. Next phase: **the Volume 7 planning phase**, which writes `outline/volume-07.md`.**

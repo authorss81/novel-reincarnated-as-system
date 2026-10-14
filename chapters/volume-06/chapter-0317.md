@@ -72,7 +72,7 @@ The low head and the apron at the lane crossing had gone off it on the seventh a
 
 Under that there were two more, and one of them said:
 
-FOOT OF RETAINING WALL GONE UNDER THE DITCH BETWEEN THE TWO FARMS. FOUR DAYS. TWO BOXES.
+“Foot of retaining wall gone under the ditch between the two farms. Four days. Two boxes.”
 
 Four days. Two boxes.
 

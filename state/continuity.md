@@ -6180,3 +6180,91 @@ unchanged, and every repaired relative interval in this batch now agrees with th
   narrator-adjacent register in the first two hundred words of the batch; correcting it means choosing which of three
   numbers the writer meant, and no downstream beat, date or payment turns on it. **Written down so the next reader
   does not have to find it again.**
+
+---
+
+## Volume 6 close — repairs
+
+**Applied at the Volume 6 close, against `outline/volume-06.md` walked line by line. Sixteen individual faults, in
+twelve categories, across seventeen chapter files. No beat, day-table position, title, turn, midpoint, climax,
+irreversible decision, bracket or stage moved, and no chapter before `chapters/volume-06/chapter-0299.md` was
+opened.** The full audit table is in `state/current.md` under `## Volume 6 close audit — OPENED` and the repairs
+and findings are under `## Volume 6 close audit — CLOSED`.
+
+### The sixteen repairs, by file
+
+| # | File | Fault | Repair |
+| --- | --- | --- | --- |
+| 1 | ch 360 | **Self-contradiction against the volume's most expensive cost.** Opens on the twenty-second with no bar — *because the bar takes two hands and she had left it against the fence of the shed* — then has the bar against her knee at the gate post (line 49) and carried under her arm west (line 97) | Bar removed from both. Line 49: *she stood with it in her hand, and there was nothing else in either of them*. Line 97: *she went west on foot* |
+| 2 | ch 355 | **Unit slip.** *the four minutes of breath*. The measure is **counts** in every other instance in the volume (ch 342, ch 351) | *the four counts of breath* |
+| 3 | ch 357 | **A miscount the chapter made about itself** — heading *The Four Sentences*, narration *in four sentences*, three sentences on the page | Heading *What He Said Without Being Asked*; narration ends *and he did not know that he was saying it*. **The number is removed rather than corrected: it was never load-bearing** |
+| 4 | ch 357 | **Garbled clause in the volume's summing sentence**: *a woman who could not hold the bar she carried it in* — the object does not parse, and it re-explains ch 352's cost four chapters after ch 352 named it once | *a woman standing in front of it with nothing to do with it* |
+| 5 | ch 357 | **Same mouth opening and closing on the same words as ch 331** — both open *There is a line out west*, both close on *eleven years*, and *eleven years* appeared **three times inside ch 357 alone** | Opening: *The line west of this building is about nine miles off*. Closer: *I have copied every one of them.* **Two eleven-years figures remain, both inside the one speech where they are a deliberate hammer, and one of those is the finding's own set-up** |
+| 6 | ch 321 | **A paragraph duplicated word for word at ch 332**: *The layer said it once in the far-side house form and stopped. It had never explained and it had never advised and it did not begin.* | *That was the whole of what came out of her, and it was the same sentence in the same words as the one before it, and in four years it has never once handed her anything to do.* **ch 310 keeps the fullest version, ch 332 the plainer one, and all three now differ** |
+| 7 | ch 352 | **The same fault at ch 342**: *It said it once, in the far-side house form, and then it was finished, and it did not explain and it did not advise and it did not begin.* | *It said its one sentence and stopped, the way the seven before it had said it and stopped, and it has never told her a thing.* **ch 357's third form, recast at the Batch 0004 review, is untouched** |
+| 8 | ch 332, ch 352 | **One identical line at three consecutive Golden Core stages**: *She picked the bar up off the grass* at ch 332, ch 342, ch 352 | ch 332: *She got the bar up off the grass*. ch 352: *She put her hand flat on the bar where it lay.* **ch 342, the middle one, is the only one that still reads as the old line** |
+| 9 | ch 322 | **A one-line paragraph identical to ch 307's, sixteen chapters apart**: *Nothing broke in her that she has not had back once.* | ch 307 keeps it. ch 322: *And not one of the four came back with anything new on it, and the one she had been afraid of for five days was not among them* — **which is that chapter's own four-item list, and carries the emotion the original did** |
+| 10 | ch 330, ch 343, ch 350 | **One physical beat standing four times as an identical standalone paragraph**: *He squared the board up on the bench* at ch 328, 330, 343, 350 — same man, same position between the same two speeches, and once more inside another sentence at ch 330 | ch 330 **cut** (the same chapter carries the gesture again at line 83). ch 343: *He put his thumb on the line he had written and left it there*. ch 350: *He turned the board round on the bench and pushed it back against the wall.* **ch 328 keeps the first** |
+| 11 | ch 336 | **Four bare all-caps lines standing as written matter**, reading as System panels. The identical fourth line is spoken in quotation marks at ch 348 | Sentence case inside curly quotation marks, carried by the hand they are in: *He read them out word for word, because that is what a strip is for* |
+| 12 | ch 314, ch 317, ch 338 | **Three more bare all-caps lines** of the same class, all outside Batch 0004's review scope: the board's standing text and one listing at ch 314, one listing at ch 317, **and her name at the head of the column at ch 338** | All sentence case inside curly quotation marks. At ch 338: *NING YAN. OF LOWWATER, and it is at the top of a column in a hand that has never once been her own* — **a gain: it replaces a sentence that was saying a fact the chapter had already stated four lines earlier** |
+| 13 | ch 359 | **A count the chapter sets and does not pay off**: *three things in it that have nothing at the other end of the rule*, of which two are named in the room; the third is supplied eleven paragraphs later in the Plain Part | One paragraph in her own voice closes the count before the section break: *The third one is mine, and it is a no I gave at a counter a fortnight ago in front of about nine men, and it has my name at the left of it and the day against it. You do not need to know what it was about* — **and it is the truest thing she could say about it: she put it there herself** |
+| 14 | ch 306 | **`Ledger` on the page as a common noun** for a physical account book, where the volume's own measurement is that `grep -i Ledger` returns zero | *not in a way a person could write down and call it a return* |
+| 15 | ch 319 | **The same, second instance** — *the ledger board* | *the tally board* |
+| 16 | ch 306, ch 319 | **A measurement the record depends on was asserted rather than true.** `grep -i Ledger` across ch 299–360 returned **2**, not 0. Both were the common noun and neither touched the held stage, so the substance was never in doubt — but **a budget that claims zero while instances stand is the failure this manuscript has caught itself making twice, and a budget that records a count where there is none is the same lie with the sign flipped** | **Recorded and cut rather than argued.** `grep -i Ledger` now returns **0** across all sixty-two files |
+
+### Figures, re-derived from the chapters after the repairs
+
+| Measure | After the close repairs | Before |
+| --- | --- | --- |
+| Volume 6 file set, body prose, headings excluded | **95,081 words over 62 chapters** | 94,946 |
+| Batch 0001 (ch 299–313) | 24,529, average ~1,635 | 24,531 |
+| Batch 0002 (ch 314–329) | 23,975, average ~1,498 | 23,931 |
+| Batch 0003 (ch 330–345) | 25,027, average ~1,564 | 25,005 |
+| Batch 0004 (ch 346–360) | **21,550, average ~1,437** | 21,479, average ~1,432 |
+| Bracketed layer lines | **6 — ch 310, 321, 332, 342, 352, 357**, character for character as pinned. **0 at ch 360** | unchanged |
+| All-caps standalone lines | **0** | 7 |
+| Exact cross-chapter duplicate paragraphs | **1 — the ch 335 / ch 338 refrain**, planted and paid | 8 |
+| `grep -i Ledger` across ch 299–360 | **0** | 2 |
+| Straight quotes / straight apostrophes | **0 / 0**; every speech closed in all 62 files | unchanged |
+| Blockquotes / code fences / tables / horizontal rules / bold | **0 / 0 / 0 / 0 / 0** | unchanged |
+| Longest paragraph | **103 words (ch 309)**; 13 paragraphs between 91 and 103; **none over 120, and none introduced by this repair** | unchanged |
+| Chapter titles | 360 `#` headings manuscript-wide, **zero collisions, no title changed at the close** | unchanged |
+| Month-day, re-derived under `((day − 134) mod 30) + 1` | **638 the 25th · 674 the 1st · 712 the 9th · 749 the 16th · 786 the 23rd · 818 the 25th · 845 the 22nd** | unchanged |
+
+**Per file, Batch 0004 after the close:** 346 1,361 · 347 1,326 · 348 1,403 · 349 1,354 · 350 **1,508** · 351 1,322 ·
+352 1,326 · 353 1,507 · 354 1,385 · 355 1,393 · 356 1,455 · 357 **1,698** · 358 1,533 · 359 **1,454** · 360 **1,525**.
+
+### Two claims in the close card that were wrong against the page
+
+**The page wins in both cases, as the card directs. Neither is repaired; both are recorded.**
+
+1. **The card says Batch 0003 used four structural-answer mouths, at ch 331, 335, 337 and 345. It used three.**
+   `grep` for *west*, *paid by the day*, *families* and *kept by men* across ch 345 returns nothing of the kind:
+   ch 345's mouth is the keeper with the paste pot and his whole card is about strips and boards. **The fourth
+   Batch 0003 mouth recorded in the *Established facts, Volume 6 Batch 0003* block above and in
+   `workspace/volume-06-batch-0004/PROMPT.md` does not exist on the page.** The volume has **seven** structural
+   answer mouths, not eight: ch 331, 335, 337, 346, 350, 353 and 357.
+2. **The card says none of Batch 0004's four is the same mouth as Batch 0003's four. One of them is** — ch 357's
+   is the man with the brush, who is Batch 0003's mouth at ch 331, in the same room, twenty-six chapters earlier.
+   **The chapter was repaired** (repair 5 above) so that the two no longer open or close on the same words, and
+   **both still say what the volume needs them to say**, because the mouth being the same man at the finding is the
+   finding's set-up: he tells her that the ordinary traffic of that line goes past his floor on a cart at the end
+   of every month and is read against other things. **The card's claim is wrong and is recorded as wrong.**
+
+### Recorded at the close and not repaired
+
+Seven findings, with reasons, are in `state/current.md` under `### Seven findings recorded and not repaired`. The
+three that a Volume 7 drafter is most likely to trip over:
+
+- **The only exact duplicate paragraph standing in the volume** is *A line is a thing that gets found / A holding
+  is a thing that can be asked for* at ch 335 and ch 338. **It is planted in her head at ch 335 and paid in his room
+  at ch 338**, where the chapter adds the third sentence that is the whole of ch 338. A refrain that is planted and
+  then answered is this book's method, not its repetition.
+- **The keeper's figure at ch 345 and ch 359 is near-verbatim in the same mouth.** The first time it is a man's
+  record; the second time it is his record with one thing standing on a stone under his ladder. The echo is the
+  chapter's effect.
+- **`nobody` stands 88 times across sixty-two chapters, and the wider family with *no one*, *not one* and *not one
+  person* at 191** — about 1.4 a chapter, maximum seven in one chapter (ch 307 and ch 329), both of them chapters
+  where the structural answer or the vouching is being stated in full. **This is the one measured number in the
+  volume above where the book's own guidance would put it**, it is distributed rather than concentrated, and
+  cutting sixty instances across four closed batches at a volume close is a rewrite rather than an audit.

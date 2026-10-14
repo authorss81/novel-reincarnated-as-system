@@ -46,13 +46,13 @@ She stood in the road a long way off and counted them.
 
 There was a board on the wall inside the gate, made of the same stuff as the keeper’s board at the post two miles behind her, and there was writing on it, and she stood in front of it and read it because it was at eye height and there was nothing a person can do about a thing that is put up at eye height.
 
-It said:
+It said, in the ordinary hand of a man who paints a board once and leaves it:
 
-LISTED WORK. PAID IN WHAT THE WORK WAS MADE OF. NO HIRE. NO SEASON. NO NAME ON THE LINE. TAKE IT DOWN AND IT IS YOURS TO FINISH. PUT IT BACK AND IT WAITS FOR THE NEXT ONE.
+“Listed work. Paid in what the work was made of. No hire. No season. No name on the line. Take it down and it is yours to finish. Put it back and it waits for the next one.”
 
 And under that, in a smaller hand, one line:
 
-LOW HEAD AND APRON AT THE LANE CROSSING. FOUR DAYS. ONE BOX.
+“Low head and apron at the lane crossing. Four days. One box.”
 
 She read it twice.
 

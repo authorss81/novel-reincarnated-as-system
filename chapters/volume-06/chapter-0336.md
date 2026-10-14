@@ -56,17 +56,11 @@ He stopped there and took his thumb off the paper.
 
 ## The Words Under The Columns
 
-Under both columns, in the same hand as the fine one, there were four lines and nothing else on the strip.
+Under both columns, in the same hand as the fine one, there were four lines and nothing else on the strip. He read them out word for word, because that is what a strip is for.
 
-WHAT IS COPIED AT THIS REACH IS COPIED TWICE.
+“What is copied at this reach is copied twice. The column of Ning Yan, of Lowwater, is kept and is copied and is not on this ground. The holder is to be presented in person in the room named under the holder. The doors of that room shut on the twenty-eighth of a month.”
 
-THE COLUMN OF NING YAN, OF LOWWATER, IS KEPT AND IS COPIED AND IS NOT ON THIS GROUND.
-
-THE HOLDER IS TO BE PRESENTED IN PERSON IN THE ROOM NAMED UNDER THE HOLDER.
-
-THE DOORS OF THAT ROOM SHUT ON THE TWENTY-EIGHTH OF A MONTH.
-
-He read that out too, word for word, because it is what the strip was for, and then he squared it up on the bench and put his hands flat on either side of it and looked at her.
+Then he squared it up on the bench and put his hands flat on either side of it and looked at her.
 
 “I have kept this board eleven years,” he said. “I have had strips off that bundle before and I have never once had one with a word on it at the bottom.”
 

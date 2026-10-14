@@ -36,7 +36,7 @@ It did not go up. It came down about a finger’s width and it sat there and it 
 
 Then she broke a lump off a box against the wall and put it in at the low end and the fire came up against the brick and stood there about nine feet high and it was hers.
 
-That was the last of the six, and the whole of what finishing a realm past the world’s ceiling turned out to be was a fire in a shed at a mill that no office had built and two offices had vouched for, and a woman who could not hold the bar she carried it in.
+That was the last of the six, and the whole of what finishing a realm past the world’s ceiling turned out to be was a fire in a shed at a mill that no office had built and two offices had vouched for, and a woman standing in front of it with nothing to do with it.
 
 ## The Copying Floor, Second Hour
 
@@ -84,15 +84,15 @@ That was his.
 
 And both of them were in the hand she could not read.
 
-## The Four Sentences
+## What He Said Without Being Asked
 
-He was standing four feet off with his sleeves turned up and he said the rest of it without being asked, in the ordinary voice, the way he said everything, and in four sentences.
+He was standing four feet off with his sleeves turned up and he said the rest of it without being asked, in the ordinary voice, the way he said everything, and he did not know that he was saying it.
 
-“There is a line out west of this building about nine miles,” he said. “It is kept, and what is on it is paid for by the day out of a place I have never seen, and every month-end the ordinary traffic of it comes past this floor on a cart and is read against other things.”
+“The line west of this building is about nine miles off,” he said. “It is kept, and what is on it is paid for by the day out of a place I have never seen, and every month-end the ordinary traffic of it comes past this floor on a cart and is read against other things.”
 
 He turned the brush over in his hand and did not use it.
 
-“You are not the first person on this floor to be a person a road went past, and you will not be the last, and I have been the man who copies it for eleven years.”
+“You are not the first person on this floor to be a person a road went past, and you will not be the last, and I have copied every one of them.”
 
 ## What It Meant For One Person
 

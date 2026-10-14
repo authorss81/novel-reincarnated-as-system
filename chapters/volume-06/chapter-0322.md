@@ -54,7 +54,7 @@ The nine holds out of eleven in the left hand. She went through them against the
 
 The count of breath. Four. Four everywhere, at rest and after, exactly as it had been at the fourth hour of the first of a month.
 
-Nothing broke in her that she has not had back once.
+And not one of the four came back with anything new on it, and the one she had been afraid of for five days was not among them.
 
 ## The Human Sentence
 

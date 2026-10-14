@@ -86,7 +86,7 @@ He did not look at the dirt.
 
 “That is the yard’s line and the yard’s figure is what four men do it in,” he said, “and it is not a figure about you and it was never going to be. You are owed one box and you have got one box. If you put it back on the board, it waits for the next one and I have had a gully on that board for eleven years that never got done because two different women took it off and neither of them finished it.”
 
-He squared the board up on the bench.
+He put his thumb on the line he had written and left it there.
 
 “You did not put it back on,” he said. “That is the whole of what the day cost you and you worked it out yourself before you got here, so I am not going to say it again at length.”
 

@@ -26,7 +26,9 @@ On the sheet there are two columns.
 
 The left-hand column is a running column of days. Five months of them, dates down the margin, hours against them, a season marked at each end, and at the top of the column a name he can read.
 
-NING YAN. OF LOWWATER.
+NING YAN. OF LOWWATER, and it is at the top of a column in a hand that has never once been her own.
+
+He has never seen that name written.
 
 He has never seen that name written. He has read it four thousand times in a layer and he has never once seen a person put it down on anything.
 

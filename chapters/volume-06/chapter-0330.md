@@ -46,8 +46,6 @@ She did not say anything.
 
 “Everything that goes to the mill goes into that,” he said. “I have not had a reason to care about it before today. You have handed me a reason to care about it today.”
 
-He squared the board up on the bench.
-
 “You wanted your name on this ground,” he said. “It is on it. You had better know that putting a column on that board has cost me exactly nothing, because I do the same work with a line on it that I did without one.”
 
 ## What She Had Wanted

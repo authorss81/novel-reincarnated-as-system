@@ -36,7 +36,7 @@ She stood in the open and waited for it to be over and it was over at about four
 
 [Ning Yan, past the line, servant-born, under no ceiling any county holds. Golden Core, stage five, is held.]
 
-The layer said it once in the far-side house form and stopped. It had never explained and it had never advised and it did not begin.
+That was the whole of what came out of her, and it was the same sentence in the same words as the one before it, and in four years it has never once handed her anything to do.
 
 ## What She Noticed
 

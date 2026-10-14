@@ -46,6 +46,10 @@ She took her hand off.
 
 “The other one is a holder. There is a name under a line in that book that not one person in the world can produce, and the man who wrote it is not going to be able to produce it, because he refused in a shed at the second hour of the fourth of a month and he was not asked for anything for it.”
 
+She looked at the tray on the bench and not at him.
+
+“The third one is mine,” she said, “and it is a no I gave at a counter a fortnight ago in front of about nine men, and it has my name at the left of it and the day against it. You do not need to know what it was about.”
+
 ## What He Said
 
 He stood at the other end of that bench and looked at the tray for a while.

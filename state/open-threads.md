@@ -26,7 +26,16 @@ day 471 to day 620, **three bracketed layer lines in sixty, at ch 258, 275 and 2
 `outline/volume-05.md` is written and was the authority for Volume 5; `outline/batches/volume-05-batch-0001.md`
 was the card file Batch 0001 was drafted against and every card's beat is on the page. Batches 0002–0004 were
 drafted against their own prompts and every pinned item in each is on the page.
-**VOLUME 6 IS COMPLETE ON THE PAGE AT CH 360 AND IS NOT YET CLOSED. ALL FOUR BATCHES ARE WRITTEN. Next is the volume close, against `workspace/volume-06-close/PROMPT.md`, which the Volume 6 Batch 0004 draft wrote.**
+**VOLUME 6 IS CLOSED AND AUDITED AT CH 360.** `outline/volume-06.md` has been walked line by line against the
+page, sixteen faults repaired across seventeen chapter files, seven findings recorded and not repaired, the
+seventeen-item continuity list walked one at a time, and **the protagonist answered in writing**, which
+`outline/series.md` §2 makes a standing requirement on every volume from Volume 5 on. **Volume 6 file set after the
+close: 95,081 words of body prose over sixty-two chapters (24,529 · 23,975 · 25,027 · 21,550 by batch).**
+**THE NEXT PHASE IS THE VOLUME 7 PLANNING PHASE, at `workspace/volume-07-planning/PROMPT.md`. It writes
+`outline/volume-07.md`, which does not exist.** The audit table is in `state/current.md` under
+`## Volume 6 close audit — OPENED`; the repairs, the findings, the continuity list and the hand-off are under
+`## Volume 6 close audit — CLOSED`; every figure is re-derived from the chapters in `state/continuity.md` under
+`## Volume 6 close — repairs`. **READ ALL THREE BEFORE PLANNING VOLUME 7.**
 **Batch 0001 (ch 299–313) is on the page: 24,531 words of body prose over fifteen chapters, average ~1,635,
 day 621 to day 645, ONE bracketed layer line at ch 310, Golden Core 4 at ch 310, the irreversible decision at
 ch 308 and the unrescued physical risk at ch 307.**
@@ -753,7 +762,7 @@ Volume 6 Batch 0003 (ch 330–345) — SENDING AND BEING SENT FOR*, *Volume 6 ru
 | **The cross-reference** | series | **Vol 6–7** | **NEW AND LIVE.** Every month a man with a brush on the copying floor copies her column out against another book by hand, *so that a thing about you is also a thing about what you have done.* **She cannot see either book and neither can see the other**, and the fine hand is the one holding his. The room above the counter reads what goes up the road against everything else that went up it |
 | **Her body at the last page** | Ning Yan | **Vol 6, GC8 at ch 352 and GC9 at ch 357** | **GOLDEN CORE 7. Eight of eleven holds** (nine at the ninth of a month, eleven at the start of Volume 6). **Five counts of breath on a loaded reach and never four there.** Four fingers and a thumb, right arm open half the time, aperture cracked permanent. **A third of a reach at a gate and one and a half coppers a day, down from half and two and a half at GC5.** **Four listed things cleared in seven weeks, four lines left on the board, five more coming down over two months, and then the yard goes quiet until the season turns** |
 | **The Hunter's request** | Bai Zhu | **Still open at the last page of Volume 6** | **ON THE PAGE, ch 335 only, and it is still pending.** He bought nothing, asked nothing, and said once in the ordinary voice that **he does not want the sending answered either**, because an answered thing goes up and somebody above him has to reckon with the answer and he has never believed the reckoning would be the right one. **A Wall writ is not issued to a field agent. The line's own people still do not know she exists.** He also said *your brother is on it* once, flatly |
-| **The structural answer** | series | **Vol 6, begun** | **BEGUN, IN FOUR MOUTHS, IN SHORT SENTENCES, ACROSS ch 331, 335, 337 AND 345.** The line out west is kept by men, paid by the day, families on it, nineteen years, and **nobody east of here has ever needed one thing out of it** until she asked for her name on a wall. **The tenth part is not given and nothing proves the crews wrong — Bai Zhu says flatly that he has met four men who worked it and not one of them could tell him what was at the other side of it** |
+| **The structural answer** | series | **Vol 6, begun — CLOSED AND AUDITED** | **BEGUN IN SEVEN MOUTHS, IN SHORT SENTENCES: ch 331 (the man with the brush), 335 (the Hunter), 337 (the listing man), 346 (the man behind the stack), 350 (the man who keeps the list), 353 (the carter) and 357 (the man with the brush again, at the finding).** The line out west is kept by men, paid by the day, families on it, and **nobody east of here has ever needed one thing out of it** until she asked for her name on a wall. **The tenth part is not given and nothing proves the crews wrong. The origin answer (Volume 11) and the moral answer (Volumes 15–16) are nowhere previewed.** *(Corrected at the close audit: the record previously said FOUR mouths in Batch 0003 at ch 331, 335, 337 **and 345**. Ch 345's mouth is the keeper with the paste pot and it says nothing about the line west. There are seven, not eight.)* |
 | **The fine hand** | series | **Vol 6–7** | **NEW AND OPEN.** She can read her own name on the strip that came down and cannot read four or five lines in the hand that has a holding under her days. The keeper cannot read it either. **Somebody is going to have to stand in a building with a counter in it and a floor over the counter and answer a question, and the answer is not hers to read first** |
 
 ### Held, confirmed, not touched by Batch 0003
@@ -777,3 +786,51 @@ Volume 6 Batch 0003 (ch 330–345) — SENDING AND BEING SENT FOR*, *Volume 6 ru
   that hand through Volume 6. Nothing gives it back and nothing offers to.
 - **Volume 6 bracket budget: four of six spent**, at ch 310, 321, 332 and 342. Two remain, at ch 352 and ch 357.
   None at ch 360 — the handover is entered by hand and not announced.
+
+---
+
+## Volume 6 close — what Volume 7 inherits, as facts on the page
+
+**Recorded at the Volume 6 close, ch 360, day 848. Full audit in `state/current.md` under `## Volume 6 close audit
+— CLOSED`.**
+
+### New and open, and still open on the last page of the volume
+
+| Thread | Status at ch 360 |
+| --- | --- |
+| **The rooms that were refused a presentation** | **NEW, AND THEY HAVE CHANGED BEHAVIOUR.** From ch 358 the country past the line has to deal with her where she stands or not at all, and **the offices that read her have started reading her where she stands instead of sending for her.** The open work of Volume 7 |
+| **The reach** | **NEW. Begun once, by accident, on the twenty-second, on a bank past the mill.** Does not come back. She tried it on the twenty-fourth and the twenty-fifth and it does not repeat, and the not being disappointed was the other half of the cost. **An office wrote it down afterward in a fine hand she cannot read, at a gate post, three days later, and she does not need to read a word of it because she knows the date** |
+| **The refusal** | **Entered and standing.** *Ning Yan, of Lowwater. The holder is not presented. Refused at the counter. The twenty-sixth.* In the counter's own seasonal book, in a building she cannot reach, **and no hand in that building can take it out** |
+| **Her own book** | **Standing on a stone under a keeper's ladder at a post on the mill road, nine feet off a road, open in the middle, unreadable to the only man holding it.** **No office that reads that fine hand is ever going to know where it is** |
+| **The second vouching** | **Copied upward out of the office that keeps it, in a hand she has never seen, by somebody she will never meet, and sent back down her own road so a man with a brush could set her against herself.** She cannot be un-entered twice over |
+| **The closed-season box circuit** | **BROKEN and billed.** No book on that reach shuts clean. Four trays went up with a page fanned open and a fifth came back down. The road now runs both ways |
+| **Being sent for (his condition since ch 338)** | **A thing that can happen to him in principle. Volume 6 deliberately neither resolves it nor has it happen off-page, and the Batch 0004 budget records that it is not spoken of anywhere in ch 346–360.** It is open work and Volume 7 may begin it |
+| **The Hunter's request** | **STILL PENDING.** On the page at ch 335 and ch 347. **A Wall writ is not issued to a field agent. The line's own people still do not know she exists** |
+| **The fine hand** | **Open.** She has now seen its output three times — the holding (ch 336, 357), the upward copy of her own vouching (ch 357), and the reach (ch 360) — and has never once been able to read a letter of it. **She knows what is in it every time and cannot read the hand** |
+| **Everything above the copying floor** | **Unread and unnamed.** No office is named anywhere in ch 299–360, and nothing above the copying floor, nothing above the second office, and nothing above the Standing Office of the Second Account is entered, described or named |
+
+### Held, confirmed, and not touched by the Volume 6 close
+
+- The register still reads *reconciled* and `reconciled` returns **zero** across ch 299–360 — the volume's
+  allowance for reading it was zero, so nothing in the volume read it.
+- The Clay Plate is still worn against her ribs, `plate` returns **zero**, and it was not described.
+- The relicensed licence was never opened. `licence` and `license` both return **zero** across the volume.
+- MEMBER ABSENT stands three times, is permanent, and was not raised anywhere in ch 299–360.
+- **The year of non-forgiveness is not mentioned once in sixty-two chapters and is still carrying.**
+- Shen Xiu unforgiven and unthanked. The three sponsors silent and their second book never lodged, copied or
+  spoken.
+- **Ning Wu does not appear.** Feng does not appear; no second Lung and no second appointment. What became of the
+  eleven is not raised. The four months erased in Chapter 3 are never named. The ch 150 refusal is not softened,
+  deferred, reopened or regretted. The ch 128 silence is unbroken.
+- **The claim is ANSWERED and not reopened.** Hou Sanliang is paid, never met, and not on the page in Volume 6.
+  Ning Bo's account is discharged where it can be closed and is not on the page in Volume 6.
+- **`Ledger` returns zero across ch 299–360** after two close repairs at ch 306 and ch 319 removed the two
+  common-noun instances that made the measurement false rather than true. Hand was spent twice (ch 325, ch 338)
+  and refused once (ch 355), and merit settles twice and neither time on a death (ch 316, ch 320) and **not at
+  all in Batch 0004**.
+- **Volume 6's bracket budget of six is spent**, at ch 310, 321, 332, 342, 352 and 357. **Ch 360 carries none, by
+  order: the handover is entered by hand and not announced.**
+- **No harem and nothing a romance.** Wei Ran is on the page once, at ch 302, as a trade, a rate and an opinion,
+  and is off page between. **Ning Yan never says her mother's name.**
+- **The protagonist is on the page in his own right twice in six volumes** — ch 272 and ch 338 — and Volume 7 may
+  use the form again and may not assume more of him than those two chapters earned.
