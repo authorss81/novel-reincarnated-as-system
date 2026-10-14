@@ -89,11 +89,13 @@ She said, “I have spent a year believing that a figure in a column is how a th
 
 She said, “A figure does not get a person into a room. It gets a person’s price into a room. And the difference between those two things is the whole of what I have come up a stair for, and I worked it out on my back under a table with my fingers and I am not going to be able to put it anywhere.”
 
+That one went out loud on the stone under that table with the cross-beam across her back, and there is no part of this room that hears a thing said in it, and what came back was the same as what came back on the first of the month, which is a voice and not a person.
+
 He said, “That is the first thing you have said up here that you did not know when you said it.”
 
 She said, “That is the first thing I have said up here at all that you have heard.”
 
-## What She Wants Now
+## What She Wants And Is Not Going Down For
 
 And then she said what she wants, which is not a thing she wants in this room and is a thing she wants at the bottom of a stair eight hundred and eighty steps below this one.
 

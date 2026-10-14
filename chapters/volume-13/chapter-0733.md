@@ -8,7 +8,7 @@ She was on the floor at the near end of that table with her back against the doo
 
 The hands came off the near edge of the table.
 
-That is the first thing and she was not ready for it, because in twenty-two days the hands have not come off that edge once, not for a count of a hundred, not in the middle of nothing.
+That is the first thing and she was not ready for it, because in fifty days the hands have not come off that edge once, not for a count of a hundred, not in the middle of nothing.
 
 One hand went up above the head and past it, and she could not see where it went because the lamp is in a cage on a shelf and the shelf is above her own head where she is sitting.
 
@@ -24,17 +24,17 @@ It came down to the line cut in the stone and it stopped there, exactly on the c
 
 And then the light went up.
 
-She watched the bottom edge of the bright place come off that cut and go back up the wall past where it had been, and up past the top of the cage, and higher than the light had ever been in twenty-two days, and then it came back down and settled where it usually is.
+She watched the bottom edge of the bright place come off that cut and go back up the wall past where it had been, and up past the top of the cage, and then it came back down and settled where it usually is, which is at the top of that cage with twenty-nine days of it in front of it again.
 
 And the whole of that was eleven seconds and she counted them.
 
 ## What Was Different Afterwards
 
-She had been measuring that person for twenty-two days without knowing it, because she measures everything that is in front of her, and she had four hundred counts on the fourteenth of this month when she tried to put them in a column and gave it up.
+She had been measuring that person for fourteen days without knowing it, because she measures everything that is in front of her, and she had four hundred counts on the fourteenth of this month when she tried to put them in a column and gave it up.
 
 The forearm on the table’s edge is smaller.
 
-Not thinner. Smaller. She put her eye on it from four feet off with her own hand held up at arm’s length beside it the way she has held a slate up against a line on a board, and the round of it is smaller by the width of her thumb nail.
+Not thinner. Smaller. She put her eye on it from four feet off with her own hand held up at arm’s length beside it the way she has held a slate up against a line on a board, and the first figure she got off it was the width of her thumb nail, and that figure was wrong, and she has said which figure is the right one further down and has not moved off it.
 
 The face is different at the cheek. The hand that came down and went back onto the table edge is a hand she would have measured differently yesterday.
 
@@ -78,11 +78,13 @@ He said, “You are going to be able to tell in about two months.”
 
 She said, “I am not going to be here in two months.”
 
-She said, “I am going to be in this room until the light in that cage is on a line cut in a wall. And by then there will not be one count left of that arm that is the same, and that is going to be the only figure about me in this building that has been true for longer than a month.”
+She said, “I am going to be here on the thirtieth of this month, because that is the day that line in the wall gets reached if a hand does not turn that lamp before it, and on the twenty-fifth of this month I said out loud that I was not going to be here on the twenty-eighth, and I have been here since the second hour of it and I have not gone down that stair.”
+
+She said, “And by the thirtieth of this month there will not be one reading of that arm that is the same as the reading before it, and a figure about me in this building that has held for fifty days is the longest one that has ever stood in this room, and it is not going in a row.”
 
 ## What She Said To Him About It
 
-And then, at the ninth hour, she said the one thing in this room she has not said to the person at the table, and she said it to him and not out loud, which is a thing she has done four times in nineteen years and never in a room.
+And then, at the ninth hour, she said the one thing in this room she has not said to the person at the table, and every line of what follows she said to him and not out loud, which is the other way she says things, and it does not need a room to be empty in.
 
 She said, “I could do it.”
 
@@ -107,7 +109,7 @@ And then she said what she does not know, out loud, standing, in the ordinary vo
 
 She said, “I do not know what it is.”
 
-She said, “There is a light in a cage with no oil in it and no wick in it and nothing behind it, and a person stands at a table and puts a hand up into the cage and the light comes down and goes up, and I have watched it once and I have been in this room twenty-two days and I do not know what any of it is made of and there is not one thing in this room that is going to tell me.”
+She said, “There is a light in a cage with no oil in it and no wick in it and nothing behind it, and a person stands at a table and puts a hand up into the cage and the light comes down and goes up, and I have watched it once and I have been in this room fifty days and I do not know what any of it is made of and there is not one thing in this room that is going to tell me.”
 
 ## What She Can Compute
 
@@ -127,7 +129,7 @@ She said, “There is a person at that table who is less every time that lamp is
 
 ## The Part She Cannot Say
 
-And then she stopped, and she stopped for a reason she said out loud at the ninth hour of that day with the light at the far end of the room standing higher than it had stood in twenty-two days.
+And then she stopped, and she stopped for a reason she said out loud at the ninth hour of that day with the light at the far end of the room back at the top of that cage where the second hour of that morning had put it.
 
 She said, “I have got a hand and a table I can get up on and a lamp in a cage with four bars in it.”
 

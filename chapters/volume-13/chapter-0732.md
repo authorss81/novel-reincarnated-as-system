@@ -58,11 +58,11 @@ Then she put the other half of it out loud, which is the part with a date in it.
 
 She said, “A lamp that was at the top of that cage on the first of this month reaches that line on the twenty-ninth day after it. That is the twenty-ninth day of a month of thirty days, which is the thirtieth.”
 
-She said, “Two thousand three hundred and twenty-four plus twenty-nine is two thousand three hundred and fifty-three, and two thousand three hundred and fifty-three is the thirtieth of the month beginning 2,324, and today is the twenty-second, and the difference is eight days.”
+She said, “Two thousand three hundred and twenty-four plus twenty-nine is two thousand three hundred and fifty-three, and two thousand three hundred and fifty-three is the thirtieth of the month beginning 2,324, and today is the twenty-fifth, and the difference is five days.”
 
 She said, “And the next forty things come up that stair on the first of the month beginning 2,354, which is the day after, and I do not have to do anything about any of this at all, because the room will turn that lamp when the room turns it.”
 
-She said, “And I have eight days and there is nothing I am going to do with eight days, and I am not going to be here on the twenty-eighth.”
+She said, “And I have five days and there is nothing I am going to do with five days, and I am not going to be here on the twenty-eighth.”
 
 
 ## One Day In Every Month
@@ -91,7 +91,7 @@ She said, “Two of my own hand a day.”
 
 She said, “Fifty-eight divided by two is twenty-nine, and a month is thirty, and one in thirty days in every month goes by with that lamp standing on that line and nothing turning it.”
 
-She said, “And the whole of what I have found out in fifty-five days in this building is that there is one day in every month in it that has never once been spent, and I am the only person who knows it, and I have got no hand to spend it with that is not the hand I have got.”
+She said, “And the whole of what I have found out in forty-eight days in this building is that there is one day in every month in it that has never once been spent, and I am the only person who knows it, and I have got no hand to spend it with that is not the hand I have got.”
 
 And then she said the reason she was not going to do anything about it, and she said it as arithmetic and not as a feeling, because it is the only way she is able to say anything at all.
 
@@ -106,7 +106,7 @@ And then she said why she was not going to say any of it to a person, out loud, 
 
 She said, “That lamp has been run on twenty-nine days in a month of thirty since before anybody alive was born and the room has never once been late.”
 
-She said, “And it is not late. A hand turns it as often as it has to. And if a woman stood at that table and told a room of correct people that their lamp is a day short and there is a day going by unused, then the only thing that would have happened is that a room which has not looked at me in twenty-two days would have had a reason to.”
+She said, “And it is not late. A hand turns it as often as it has to. And if a woman stood at that table and told a room of correct people that their lamp is a day short and there is a day going by unused, then the only thing that would have happened is that a room which has not looked at me since the first of this month would have had a reason to.”
 
 She said, “And I am not going to buy a row with a sentence that is a guess about a lamp.”
 

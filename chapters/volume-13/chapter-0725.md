@@ -20,7 +20,7 @@ The light off the lamp comes toward her down the length of it the whole way, and
 
 She said, out loud, on her knees, at arm’s length from the cage, in the ordinary voice:
 
-“I have been in a room for twenty days being unable to reach anything and I have got to the end of it in a count of two hundred and forty and the end of it is a lamp with nothing in it.”
+“I have been in a room for seventeen days being unable to reach anything and I have got to the end of it in a count of two hundred and forty and the end of it is a lamp with nothing in it.”
 
 ## What She Looked For And Did Not Find
 
@@ -36,7 +36,7 @@ She said, “And there is nothing behind the light. I put my hand in behind it t
 
 She put her hand in behind it again to be sure, and it was wall.
 
-She said, “That is the whole of it and I have got it down in a count of a hundred and it took me twenty days to be able to say it because I could not get to it.”
+She said, “That is the whole of it and I have got it down in a count of a hundred and it took me seventeen days to be able to say it because I could not get to it.”
 
 
 ## What Is Not In It
@@ -101,7 +101,7 @@ It is burning now, and it was burning on the third of this month when the oil fo
 
 She said, out loud, in the ordinary voice, at the sixth hour of the twenty-seventh of the month beginning 2,294, standing at the far end of a long table in a room with a person in it:
 
-“So it is not fed out of a jar. A jar runs out in a day and a half and the lamp at the top of this stair has been going for thirty days and there is nothing in this building to feed it with.”
+“So it is not fed out of a jar. A jar runs out in a day and a half and the lamp at the far end of this table has been going for twenty-four days and there is nothing in this building to feed it with.”
 
 She said, “And there is a person standing at that table who has been standing at it for four hundred years, and I have watched that person for twenty days and the only thing they have done that I can see is stand at the near edge of that table with both hands on it.”
 

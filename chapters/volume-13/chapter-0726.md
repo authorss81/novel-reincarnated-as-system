@@ -1,6 +1,6 @@
 # What Came Up The Stair
 
-She waited three days for the first of the month beginning 2,324, and the waiting was the longest work she has ever done with nothing in her hands, and on the twenty-eighth of the month beginning 2,294 she said out loud that it was twenty-three days since she came up this stair and that she was the only person in this building who knew that.
+She waited three days for the first of the month beginning 2,324, and the waiting was the longest work she has ever done with nothing in her hands, and on the twenty-eighth of the month beginning 2,294 she said out loud that it was twenty days since she came up this stair and that she was the only person in this building who knew that.
 
 ## Boots Before The Man
 
@@ -30,17 +30,19 @@ She did not do nothing for twenty-three days. She wants that written down somewh
 
 She counted the days down. She counted them out loud at the seventh hour every day, standing at the near end of the table, because that is what she does with a thing that is going to happen and she has never been able to do it any other way.
 
-On the twenty-eighth of the month beginning 2,294 there were twenty-three days to go and she said that figure out loud and it was the fourth number in a month and it was the only one in this building that changed.
+On the twenty-eighth of the month beginning 2,294 there were three days to go and she said that figure out loud and it was the fourth number in a month and it was the only one in this building that changed.
 
-On the second of the month beginning 2,294 there were twenty days.
+On the twenty-ninth of that month there were two, and on the thirtieth of that month there was one.
 
-On the twenty-eighth of that month there was one day to go, and she stood in the open door at the ninth hour and looked at a dark stair at the far end of a room with a lamp burning in a cage at the other end of it, and she had nothing to do with that night and she did not sleep it, and she counted it.
+And she stood in the open door at the ninth hour of the thirtieth of that month and looked at a dark stair at the far end of a room with a lamp burning in a cage at the other end of it, and she had nothing to do with that night and she did not sleep it, and she counted it.
 
 And on the morning of the first she got up off the floor at the first hour with the count of four hundred she had done in the night and she went and put her hand on the near edge of that table with her left hand and got a hand on it and stood there for a count of nine, and then she let it go and stood back four feet.
 
 She said, out loud, in the ordinary voice, at the first hour of the first of a month beginning 2,324:
 
 “I have been in this room twenty-three days for a thing that arrives once a month on the first, and the twenty-three days were not the waiting. The twenty-three days were me finding out that a first is not a date up here. It is a day something comes up a stair.”
+
+And that went out loud in a room with no part of it that hears, and the one at the table did not look up. What she said next she said to him with her mouth shut, standing four feet off the end of a table with her arms at her sides, and that is the other way she says things.
 
 He said, “You have said that before.”
 

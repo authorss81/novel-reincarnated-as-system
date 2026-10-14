@@ -8,7 +8,7 @@ On the twentieth of the month beginning 2,294, at the fifth hour, she stood at t
 
 The edge of the table was a hand’s width above the top of her reach and she got her knuckles to it and her knuckles are not a hand.
 
-On the twenty-first she put her left shoulder into the frame of it under the top and pushed, and the table moved. It moved a quarter of an inch on the floor and every one of her four counts of breath went out of her at once, and she stood with her hands flat on it and her heart going like a bird’s and did not move it again.
+On the twenty-first she put her left shoulder into the frame of it under the top and pushed, and every one of her four counts of breath went out of her at once, and she stood with her hands flat on it and her heart going like a bird’s and did not move it again that day.
 
 On the twenty-second she got three fingers and a thumb over the edge from underneath and hung on, and the wood came out of her hand before she had her weight on it, and she was on the floor on both knees in the dark half of that room with an open arm and her breath at nine and nothing broken.
 
@@ -22,7 +22,7 @@ She let it go and stepped back and her heart was going and she stood with her ha
 
 And then she said out loud, standing, in the ordinary voice, in a room with a person in it:
 
-“I have been in this building for a month and there is a lamp in a cage burning at the far end of this room and I have never once been in a place where the furniture moved when I touched it.”
+“I have been in this building for fourteen days and there is a lamp in a cage burning at the far end of this room and I have never once been in a place where the furniture moved when I touched it.”
 
 She said, “And there is a person nine feet back along this table who has both hands on the edge of it, and a table that moves a quarter of an inch is a table that has been pushed.”
 

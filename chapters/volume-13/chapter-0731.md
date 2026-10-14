@@ -4,7 +4,7 @@ She decided what to do about the bar on the eighteenth of the month beginning 2,
 
 ## What It Costs To Put It Down
 
-Nine feet of ash, four inches by six, a hold-iron at each end and no strap on it and no notch cut for a hand anywhere along it, and it has been against the wall on the left of that room since the seventh of this month and she has not been near it once.
+Nine feet nine of ash, four inches by six, a hold-iron at each end and no strap on it and no notch cut for a hand anywhere along it, and it has been lying against the wall on the left of that room since the morning she came up this stair with it on her shoulder and she has not been near it once.
 
 She picked it up on the eighteenth of the month beginning 2,324 at the second hour, with three fingers and a thumb on one end and her left hand in the middle of it, and it cost her twenty-nine counts.
 
@@ -54,9 +54,9 @@ And on the twentieth of the month beginning 2,324 she picked it up a third time 
 
 And then she said, out loud, in the ordinary voice, standing against the far wall of that room with a bar across both hands and an open arm:
 
-“If I carried this to the foot of that stair I would carry it down nine hundred and four steps of a stair that turns and then eight hundred and eighty steps of another one that has a rail on the first four of them and nothing on the second four of them, at seven counts of breath on anything that rises and nine standing still, and I would do it with three fingers and a thumb and an arm that is not going to close.”
+“If I carried this to the foot of that stair I would carry it down nine hundred steps of a stair that turns and then eight hundred and eighty steps of another one that has a rail on the first four of them and nothing on the second four of them, at seven counts of breath on anything that rises and nine standing still, and I would do it with three fingers and a thumb and an arm that is not going to close.”
 
-She said, “And it is not the weight. It has never been the weight. It is that there is nothing at the bottom of those stairs to put it against, and nothing on this table to lay it on, and nothing in this room that a bar is for, and I am not going to be able to stand at the top of nine hundred and four steps and hold nine feet nine over my head to hand it to a person who has never been in this room.”
+She said, “And it is not the weight. It has never been the weight. It is that there is nothing at the bottom of those stairs to put it against, and nothing on this table to lay it on, and nothing in this room that a bar is for, and I am not going to be able to stand at the top of nine hundred steps and hold nine feet nine over my head to hand it to a person who has never been in this room.”
 
 She said, “And I am not going to be able to put it down.”
 

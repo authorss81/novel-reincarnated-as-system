@@ -40,7 +40,7 @@ She said, “And it is in her hand.”
 
 She said it and then she lay there for a count of a hundred and she did not say anything else, because the human sentence came to her in that hundred and there is no version of it she is going to put on a page.
 
-A thing she wrote about herself at a frame in the grit with nobody in a hundred yards, in her own hand, on an open arm, is on a strip of wood on the floor of a room four miles above a mountain, in her own hand, and the only person in the world who could ever recognise it as hers is her.
+A thing she wrote about herself at a frame in the grit with not one person in a hundred yards, in her own hand, on an open arm, is on a strip of wood on the floor of a room four miles above a mountain, in her own hand, and the only person in the world who could ever recognise it as hers is her.
 
 And it is out of date, and there is no mark on it saying so, and the figure at the head of it has never once been checked by a person who could correct it.
 
@@ -109,6 +109,6 @@ She lay there for a count of a hundred.
 
 She said, “And I cannot hold it.”
 
-She said, “I can hold four numbers and I have held a bar nine feet nine on a shoulder since she was nine years old and I have held a figure in my head for seven hundred and seventy-five days.”
+She said, “I can hold four numbers and I have held a bar nine feet nine on a shoulder since I was nine years old and I have held a figure in my head for seven hundred and seventy-five days.”
 
 She said, “And that figure is in a column on a strip of wood on the floor of a room four miles above a mountain and it is not mine to hold, and I am going to have to go and look at it every day for as long as I am in this room, and there is not one thing I can do about it.”
