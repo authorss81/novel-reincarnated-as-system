@@ -94,7 +94,7 @@ At the sixth hour and ten minutes she turned round to the stack and said it out 
 
 “I have been carrying a question and I cannot tell you which morning I made it in, and it is a true question, and I am going to ask it. And if it has already been asked then I have asked it twice, and I am not going to find out.”
 
-## What She Is Left With
+## Five Questions On The Board
 
 She counted it on the back of the board at the seventh hour of the twenty-fifth, with the lines in her own hand covered by her own hand, and it took her ten minutes and she got the same answer at the end of it.
 

@@ -114,10 +114,10 @@ She did not say the other thing. She has not said it to a living person since sh
 
 And at the fourth hour she went out of the east gate on a furnace ground with the bar on her shoulder and the furnace going over behind her and the smoke straight up, and the man of fifty was at the mouth with a bar of his own and did not look up, and the boy of fifteen was on the low roof with a bit of chalk in his hand.
 
-She was four hundred yards off the ground and on the two miles of flat with no carts on them when she looked up, for the first time in ten years that she could remember doing on purpose, and there was nothing up there over that ground that had ever been named to her by anything at all.
+She was four hundred yards off the ground and on the two miles of wet ground with no carts on them when she looked up, for the first time in ten years that she could remember doing on purpose, and there was nothing up there over that ground that had ever been named to her by anything at all.
 
 The bar came off her shoulder at the four hundred yards and went onto her right, because the right is the arm that is open four days in five and it was the fourth day of five, and it came off at the four hundred yards on purpose and it stayed off for the rest of that day and for the next two, which is what she has done since she was fifteen.
 
-She walked the two miles of flat with nobody on them and then the wall with the opening standing open in it, four feet and a bit, and then two miles of wet ground with a rut in it, and there was nothing at all to lie down on between the gate and the wall and there had not been for as long as she could remember, and she had used that fact nine times in this life and this was the tenth.
+She walked the two miles of wet ground with a rut in it and nobody on them and then the wall with the opening standing open in it, four feet and a bit, and then the two miles of flat, and there was nothing at all to lie down on between the gate and the wall and there had not been for as long as she could remember, and she had used that fact nine times in this life and this was the tenth.
 
 She was lighter at the fifth hour of the seventeenth of the month beginning 1,994 than she was at the fourth hour of it, which is four hundred and fifty days of it, counting the eighteenth of the month beginning 1,544 as the first, and not one of them going back, and she was walking west with her hands empty and nine coppers she could not count and there was not one person in the world who was going to tell her anything.

@@ -110,6 +110,6 @@ He said, “You can carry a bar up four flights and you have carried one since y
 
 And she took the sheet out of the light and put it in the drawer and turned the key, and it was the first time in five years that a thing she had done had been done for him rather than by him, and she noticed it and said none of it, and she has still not.
 
-She was lighter at the tenth hour of the twentieth of the month beginning 2,024 than she was at the fifth hour of it, which is four hundred and eighty days of it, counting the eighteenth of the month beginning 1,544 as the first, and not one of them going back.
+She was lighter at the tenth hour of the twentieth of the month beginning 2,024 than she was at the fifth hour of it, which is four hundred and eighty-three days of it, counting the eighteenth of the month beginning 1,544 as the first, and not one of them going back.
 
 And there were four sheets of a fair hand in a locked drawer four feet from her and a key in the front of her bag, and he had not said one word to her about when she was to read them, and she was not going to ask him, because he would tell her, and she would listen, and she had four days of her own about telling.

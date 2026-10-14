@@ -48,7 +48,7 @@ And then she sat back on her heels and looked at twenty heaps that were all exac
 
 She kicked the row apart and she counted them again, properly, with the flat of the bar, and she got nineteen heaps of between fourteen and nineteen inches and one heap of about nine, and that is a real row of ash on a real floor and it says not one thing about anything at all, which is what she wanted.
 
-## Nineteen Years
+## Twenty Heaps In The Ash
 
 Six thousand nine hundred and thirty-five days, if a year is three hundred and sixty-five, and she has had that figure since the third of the month beginning 1,904 and she has not looked at it since.
 

@@ -1640,8 +1640,8 @@ thing left is a voice that has been counting with her for eight years. **She doe
 
 ### Batch 0001 (ch 601–615) — day 1,831–1,841 — WRITTEN
 
-**`chapters/volume-11/` holds ch 601–615, fifteen chapters, 28,446 words of body prose on method B (every line not
-beginning `#`), day 1,831 to day 1,841, average 1,896 a chapter. Zero bracketed layer lines. Severance 6 throughout.
+**`chapters/volume-11/` holds ch 601–615, fifteen chapters, 29,284 words of body prose on method B (every line not
+beginning `#`), day 1,831 to day 1,841, average 1,952 a chapter. Zero bracketed layer lines. Severance 6 throughout.
 One irreversible step, at ch 609. Fifteen titles, none colliding with the 600 standing headings.**
 
 - **ch 601, day 1,831 (the eighteenth of the month beginning 1,814), *The Bar Laid Down*.** Dawn at the turn with his
@@ -2136,3 +2136,56 @@ staying, and neither can be taken back. **A founder's fair hand is in her coat a
 are still five blank leaves.** Her brother is walked back to, twice now, and has not forgiven her and has not. Wei Ran's
 rate has ended and the road behind it ended with it. The Hunter's request is pending and he does not raise it. Shuyin
 went past her on a flat and was not thanked. **The sky is the only thing in the world nobody has read.**
+
+## VOLUME 11 — *What He Was*, ch 601–660 — THE VOLUME IN ONE COMPACT PASS (Volume 11 close)
+
+**Sixty chapters, 118,748 words of body prose on method B (per file: every line not beginning `#`, counted per file
+and summed), average 1,979 a chapter, day 1,831 to day 2,060. Batch 0001 29,284 · Batch 0002 29,748 · Batch 0003
+29,966 · Batch 0004 29,750. Three bracketed layer lines in sixty, at ch 616, ch 632 and ch 648. Severance 6 → 9 at
+day 1,842 · 1,917 · 1,997, intervals 70 · 75 · 80. The seventh frame scene at ch 644. The four batch blocks above are
+the per-chapter record; this is the volume in one pass, with the close's corrected figures and its repairs folded in.
+Full audit in `state/continuity.md` under ***VOLUME 11 CLOSE — What He Was, ch 601–660***.**
+
+**BATCH 0001 — ch 601–615, day 1,831–1,841, ASKING HIM WHAT HE WAS.** Nine coppers she cannot count · a bar on a
+shoulder with an arm open four days in five · eleven days at a turn with nothing on the board · bread earned by trade
+at a store woman's rate · a brother walked west past her and let go · **ch 606 she decides the question is askable ·
+ch 609 she asks it out loud, alone, in the dark, and it cannot be un-asked, and he names the terms instead: one at a
+time, in daylight · ch 615 she says them on the stones at the ninth hour and does not write them down.** Ends with a
+furnace, a number and nineteen, and a place to walk to.
+
+**BATCH 0002 — ch 616–630, day 1,842–1,916, BEING TOLD.** **ch 616 SEVERANCE 7 and its cost, named once: she cannot
+hear what she is told about him ·** a name that will not stay in her head said on a made road · a shut book opened
+once in nineteen years and a clerk's good hand · **ch 624 she writes `YUAN SHENG` in her own book and it cannot be
+put back un-written ·** a trade and not a kindness · **ch 630 the harvest named truly at the midpoint, and the telling
+misses, and the bill is hers.** Ends with her wanting the morning.
+
+**BATCH 0003 — ch 631–645, day 1,917–1,996, KNOWING.** **ch 632 SEVERANCE 8 and its cost, named once: she cannot keep
+him by asking ·** six days of one question · a shown place walked to its end · **ch 636 and ch 640 two more mouths, a
+clerk's fair hand and a kiln boy grown old ·** one in twenty and a lever rubbed out again · **ch 644 the seventh frame
+scene and the answer that a fragment is not used up by being known · ch 645 she tells him the tax is designed, in front
+of thirteen people, and stays.** Ends with him going to stop being an entry.
+
+**BATCH 0004 — ch 646–660, day 1,997–2,060, STAYING.** **ch 648 SEVERANCE 9 and its cost, named once: she cannot go
+back to not knowing, and the layer says nothing after it ·** the sky announced to nobody, named once at ch 649 and not
+explained · staying is not being kept · the last rate on that ground ends and the road behind it · **ch 652–654 Feng
+Lushi sees him and takes the Lung and writes seven sentences in a fair hand — the fifth and last origin mouth and the
+only one written down · ch 655 he dies ordinary · ch 656 she reads it alone and cannot be un-read · ch 657 she learns
+the whole of it in daylight and does not leave · ch 658 she stays, out loud, once · ch 659 the brother, walked back to
+a second time, and a man of nine hundred past at nine feet · ch 660 the turn at dawn, a bare board, seventeen miles in
+the dark, and *I am going up*.** Ends with him still talking.
+
+### The six irreversible steps, all verified in fact
+
+**ch 609** the asking · **ch 624** `YUAN SHENG` written, four capital strokes, no solvent and no hand · **ch 645** the
+tax named as designed and she stays · **ch 653** the instrument taken and spent in the moment it is in his hands ·
+**ch 655** he dies, ordinary, and it cannot be un-died · **ch 658** she stays knowing and it cannot be un-stayed.
+
+### The fourteen repairs the Volume 11 close made, in one line each
+
+**ch 648:89** the volume's and the manuscript's only named weekday, *a Tuesday*, → *an ordinary day* · **ch 654:113**
+a going-lighter out by three, *four hundred and eighty* → *four hundred and eighty-three* · **ch 660:5** the gate-to-wall
+leg returned to *the two miles of flat*, which ch 660:7, ch 618 and the Volume 10 spine all say it is · **ch 649:117
+and :121** the two legs transposed so the volume has **one wall** and not two · **ch 643:9** *thirteen miles of made
+road* → *eleven*, the map's figure, the same rule the Batch 0004 repair applied at ch 659:119 · **ch 624:111, ch
+637:7, ch 621:93, ch 621:25, ch 627:57, ch 624:9, ch 633:97, ch 642:51** eight duplicate section headings renamed, so
+Volume 11 now carries zero.

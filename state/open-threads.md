@@ -2591,7 +2591,7 @@ place and remains the one next phase.
 
 ## VOLUME 11 BATCH 0001 CLOSED — ch 601–615, day 1,831–1,841
 
-**`chapters/volume-11/` holds ch 601–615, fifteen chapters, 28,446 words of body prose on method B, average 1,896 a
+**`chapters/volume-11/` holds ch 601–615, fifteen chapters, 29,284 words of body prose on method B, average 1,952 a
 chapter, zero bracketed layer lines, Severance 6 throughout, one irreversible step at ch 609.** The one next phase is
 `workspace/volume-11-batch-0002/PROMPT.md` — ch 616–630, day 1,842–1,916, pressure *being told*.
 
@@ -2866,3 +2866,115 @@ REPAIR***; each is also itemised in `workspace/volume-11-close/PROMPT.md`.**
    he writes, the second afternoon (day 2,040) where she comes back, and the thirteenth (day 2,036, inside ch 653's
    span) where he rehearsed it to an empty room. **Not repaired: it is the cause of the fifth origin mouth.**
    **Volume 12 inherits whatever the close decides, not whichever date it likes.**
+
+## VOLUME 11 CLOSED AND AUDITED at ch 660 — what Volume 12 inherits, and the eight findings it must not inherit as clean prose
+
+**Sixty chapters, 118,748 words of body prose on method B (per file), average 1,979, day 1,831 to day 2,060. Three
+brackets in the volume at ch 616, 632 and 648 and six bracket characters. Severance 9 at day 1,997. The seventh
+frame scene at ch 644 and no eighth. The close audited `outline/volume-11.md` section by section, made fourteen page
+repairs across eleven chapters, and recorded eight findings it deliberately did not repair. Full record in
+`state/continuity.md` under ***VOLUME 11 CLOSE — What He Was, ch 601–660***.**
+
+### Closed on the page — Volume 12 inherits these as standing, and re-derives none of them
+
+| Thread | State at the close of Volume 11 |
+| --- | --- |
+| **The volume goal** | **DISCHARGED.** *Ning Yan must learn what Yuan was before he died.* She asked at ch 609, took the answer across four mouths and a fifth in a dead clerk's fair hand at ch 652–654, read it alone at ch 656 and aloud in daylight at ch 657, and stayed at ch 658. The ending owns the founding document and the volume wrote it without naming it |
+| **Severance 7 · 8 · 9** | **ALL THREE TAKEN AND CLOSED.** day 1,842 · day 1,917 · day 1,997, at intervals of 70 · 75 · 80, 155 from the seventh to the ninth, 225 from Severance 6. The costs, each named once and re-derived nowhere: **she cannot hear what she is told about him** (ch 616) · **she cannot keep him by asking** (ch 632) · **she cannot go back to not knowing** (ch 648). The layer announced her three times and said nothing after the ninth, and that silence is named once in her own thought at ch 649 and not explained |
+| **The asking** | **CLOSED AND IRREVERSIBLE (ch 609).** *What were you before you started counting*, out loud, alone, in the dark, on a turn. Un-askable. The lever — asking twice — is carried four times in the volume and **declined every time** |
+| **`YUAN SHENG` written** | **CLOSED AND IRREVERSIBLE (ch 624).** Four capital strokes in her own hand on the third leaf of a book against her ribs, with a date and a place. Blanket does not take ink back |
+| **The tax named as designed** | **CLOSED AND IRREVERSIBLE (ch 645).** Said in a yard at the ninth hour in front of thirteen people and she did not leave |
+| **The fifth origin mouth** | **CLOSED. Feng Lushi, ch 652–654, in his fair hand, on four sheets, seven sentences, the only one of the five written on the page.** The origin is paid: fragment, harvest at nineteen, a levy of one in twenty made to a figure by somebody who chose it, a name kept in two hands nineteen years apart. `Scribe` is spent **once**, at ch 644, in his own frame, never speaking. **The moral answer is unpaid and nothing proves the crews wrong** |
+| **Feng Lushi** | **CLOSED AND IRREVERSIBLE (ch 653, ch 655).** Sixty-seven, a cough that got worse every year for nineteen years, blood in a cloth, five winters of coal bought out of a hundredweight that came up a road in four days five years ago and whose number he never once said out loud to anybody. Took the Lung at the second hour of the eleventh of the month beginning 2,024; it was spent in the moment it was in his hands. Wrote seven sentences. Died at about the fifth hour of the twenty-first, buried at the fourth hour of the twenty-second, three feet from the back wall of the tower, with a handle she took at the foot of the board. **He is not thanked and he is on no page after ch 655** |
+| **Ning Wu** | **CLOSED AS SPENT TWICE.** Walked west past her at ch 605 and walked back to at ch 659. `Ning Wu` on word boundaries returns **1** across ch 601–660. She said his name out loud in the open in a ground of two hundred people; he told her he found out about the fraction at three and has told nobody in nine years because if one of them knew there would be nothing on the rows in a month. She asked him no question, said none of the other thing, and he did not say her name. **It settles nothing, twice, and the year is not mentioned once** |
+| **Shuyin** | **CLOSED AS SPENT. Walked past, survived, not thanked.** ch 659, at nine feet on a flat four miles short of a wall, going her way, with a shut book; the fifth sentence he has ever said to her, and it was not about himself. **`Shuyin` returns 0 on the page and that is correct: he is `## The Old Man On The Road` at ch 659:9 and *a man of nine hundred*, 8 times across ch 603, 604, 605, 607, 609, 612, 613 and 659. He is named nowhere. He is not a final enemy and he returns** |
+| **The Hunter** | **CLOSED. On the page twice**, ch 619 and ch 650, both at nine feet with the notebook shut under his arm, and **she asked him both times.** Whether a person who knows what a voice was is safer — he does not know, and it is the fourth question anybody has ever asked him that he would rather not answer. Whether staying is the same as being kept — it is not, and he has watched it turn into keeping three times and gives her two. **His request is pending to the last page. `Hunter` returns 0 across the volume** |
+| **Wei Ran** | **CLOSED. ch 607 and ch 651**, the last rate on a road that has stopped going anywhere: six coppers the four miles, said out loud going and coming. The bed at the mill is finished. **Nothing in either card that is not a trade** |
+| **Yuan's track** | **Door is closed across Volumes 9–11.** **He opens no wall in Volume 11.** Answerable became about himself: terms named at ch 614–615, the seventh frame scene at ch 644, being read at ch 657 without stopping it. He is going to stop being an entry. **The ending still needs him findable, and he is** |
+
+### Open, and the door — Volume 12's engine
+
+| Thread | State |
+| --- | --- |
+| **The road up** | **OPEN AND THE DOOR.** At the sixth hour of the seventh of the month beginning 2,054, on a store road, with a bare board four hundred yards behind her and nothing in the sky that has ever been announced to her by anything at all, she said out loud once, standing, in daylight: **I am going up.** **She has not got the rest of it, nobody in nine days of road has ever been up one, and the last of the ceiling went into the ground sixty-three days earlier, in front of thirteen people.** Nothing on the page previews what is up there |
+| **Forty-one strokes** | **OPEN AND UNPLACED, on purpose.** Down the right-hand margin of the fourth sheet, in Feng's hand, with no heading and no line under them. He saw a tally and did not know what it was and wrote it down anyway and worded none of it. She has carried them since and has said out loud that she is not going to find out |
+| *****Twenty-two days***** | **OPEN AND UNPLACED.** Still equated to no dated interval anywhere in Volume 11. ch 603:101 refuses the equation in the open; ch 625:77 is a count of twenty-two that is not it; ch 642:129 is *four hundred and twenty-two days*, which is not it either. **A card may put it in front of her again — re-heard, or a count of twenty-two that is not it — and no card may equate it to a dated interval in Volume 12** |
+| **The window · the lime · the hut light** | **Unspent and untouched.** The window a hundred yards off the east side, the lime off the bar at ch 604, the hut light |
+| **The contents of the ash barrow** | **Open and unraised** |
+| **The five blank leaves** | **Open. She wrote one leaf of eight and did not copy Feng's four sheets, and five are five are blank** |
+| **The lamp** | A keeper's lamp burns while the keeper is in the building. She put the cloth over it and left it burning with no keeper and said so out loud in front of a witness. **The boy of sixteen will ask the carter about the quarter's bundle on the first** |
+
+### The eight findings the Volume 11 close recorded and deliberately did NOT repair
+
+**None of these is a plot error. None may be silently corrected by Volume 12, and none may be quoted as clean prose.**
+
+1. **F1 — ch 650 and ch 651 hold three incompatible positions and the close may not choose.** ch 650's relative days and
+   its two going-lighter figures (**459** and **460**, resolving to **day 2,019 and day 2,020**) agree with each other
+   and put the chapter at 2,013–2,020. **ch 650:153 and ch 651:111 both name the seventh of the month beginning
+   1,994 = day 2,000**, twenty days earlier, and ch 651:111 also puts him at the ninth hour where ch 650:33 puts him
+   at the seventh, and ch 651:113 and :115 both say *That was two days ago* about a scene six days back. **The Batch
+   0004 card says a fourth thing, 2,011–2,018.** Reconciling any of them means moving a day. **No day was moved.**
+2. **F2 — ch 649:63, *I said one thing in a yard two days ago***, spoken on the sixteenth about a sentence said on
+   the third: **thirteen days.** Left, because the line's own logic (*not doing it twice in seven days*) has no true
+   referent and fixing the interval is a scene rewrite.
+3. **F3 — the rows' distance past the wall.** ch 618 puts them **two hundred and three hundred yards** east of it;
+   ch 659:5 and ch 660:3 put them **four miles** past it and the walk at seventeen. Two hundred days apart on the
+   page. **The close repaired ch 660:5's breakdown so it sums to seventeen against the map without depending on the
+   answer, and left the answer open.**
+4. **F4 — the furnace ground's distance from the turn is sixty-five on the page and 154 in
+   `workspace/volume-11-batch-0004/PROMPT.md:103`.** ch 643:9 and ch 660:71 both give sixty-five. The 154 is a
+   transcription of a different quantity — days elapsed since Severance 7, not a distance. **The close recorded the
+   conflict, reconciled nothing, and both figures stand.**
+5. **F5 — the tower's spoken day-counts in ch 653 and ch 654 do not agree with the dates the page gives**, and the
+   readings are multiple: *nine days* at ch 653:33 against ch 652:3's fourth, *five days* at ch 653:95 and :161,
+   *six days* at ch 654:27. **Left, because choosing between the readings inside the climax sequence is a scene
+   decision and not a defect repair.**
+6. **F6 — ch 654's three-way date is ADJUDICATED AGAINST and is NOT a conflict.** ch 654:11 fixes the second
+   afternoon to **the thirteenth** of the month beginning 2,024, and ch 654:23's *this morning* agrees with it; the
+   **sixteenth** at lines 3 and 27 is a later and different beat — the finishing of the writing, three days on. **One
+   scene on the thirteenth and one on the sixteenth. Nothing needed repairing and nothing was repaired.**
+7. **F7 — the volume's last fifteen chapters are exertion, not danger.** Seventeen miles in the dark on an arm open
+   four days in five, four hours on stones by a trough, two coppers she cannot count. **No pursuit, no injury, no
+   hard deadline anywhere in ch 646–660.** As the cards were written. **Volume 12 must not be handed a Volume 11 that
+   had a chase in it, because it did not.**
+8. **F8 — three craft words are over their lines and were left over them.** `nobody` **34** against under thirty ·
+   `eleven` **44** against under forty · `thank` **16** against zero, all sixteen in Batches 0001 and 0002 and 0 in
+   Batches 0003 and 0004. **Left, because every sentence using them is true and repairing a count means softening a
+   sentence.** Volume 12 should be under all three and should not read Volume 11's figures as a licence. **Two of the
+   forty-four `eleven` are map corrections — ch 659:119 at the Batch 0004 repair and ch 643:9 at the close — and the
+   other forty-two are prose.**
+
+### Held, confirmed by the close, and not to be raised in Volume 12
+
+- **The year of non-forgiveness is not mentioned once.** `forgiv` returns **0 across ch 601–660**. The permissions at
+  ch 609 and ch 645 are permissions and no line calls either of them a forgiveness.
+- **No figure of what is left of him** is stated anywhere in the volume, in her hearing or out of it. What Feng wrote
+  is his age.
+- **No person is thanked by her.** `thank` is 0 across ch 631–660 and the sixteen in the volume are all the refusal
+  being named as a refusal.
+- **The terms do not move: one at a time, in daylight, standing.** Stated at ch 614 and ch 615 and never varied. **No
+  chapter in Volume 11 had her asking two things at once, and the lever is not pulled anywhere.**
+- **The uncleared retirements stand**: `Ledger` 0 · `reconciled` 0 · `plate` 0 · `kiln-born` 0 · `MEMBER ABSENT` not
+  raised · the register unread · the eleven not raised · **the four erased months of Chapter 3 never named** (the
+  fifteen `four months` on the volume's page are all elapsed durations) · the ch 150 refusal not softened · **no new
+  clearance, seal or countersignature named or implied** · **one Lung and one appointment and both are Feng's and
+  both are spent, and Feng is dead after ch 655.**
+- **The surface answer is not re-voiced.** `charged · bookkeeping · receipt · bounded world` are all 0.
+- **The furnace sect is still not a hall, a conspiracy, a court or a throne.** One furnace, one harvest book, one
+  rule, one morning nineteen years ago, and no wing, no rank list, no committee and no title beyond what the dead
+  held. **No chapter in Volume 11 put her inside the harvest**, and no page of either furnace book is read out loud
+  by anybody.
+- **The map, as repaired and as it now stands.** The turn on the store road · the post nine miles west of it by strip
+  road · the cottage four miles west of the turn, the mill five, the store behind it fourteen from the post · the
+  lane four miles west · **the wall thirteen miles east of the turn, eleven of made road to the gate and two of flat
+  past it, with a fence on the north side that goes on for a mile and then stops and a row of stones on the south
+  side at intervals, and nothing between the gate and the wall to lie down on** · a rut in wet ground coming out from
+  under the wall on the far side · the rows · the furnace ground east of that · **Lowwater west of everything, the
+  tower four miles up a mountain from the square.** **The close transposed ch 649's two legs so that the volume has
+  ONE wall and not two.** How far the rows sit past it is F3 and is open.
+- **`outline/ending.md` is unspent.** The Anchor is not placed · release is not shown · the Sisterhood is not touched ·
+  nobody explains why a bounded world needs readers · **Feng's fair handwriting is on the page once and read once and
+  is not called a founding document** · Qiu's line is not spoken · the Clay Tablet is not described · the four erased
+  months are not named · the announcement that names her is not re-voiced. **The moral answer is unpaid and the
+  Sincerity of the Scribe is never adjudicated.**
+- **No new final enemy was introduced.**

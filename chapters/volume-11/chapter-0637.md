@@ -4,7 +4,7 @@ She carried it out of the gate on the fifteenth of the month beginning 1,934 at 
 
 That is the method and it is worth six coppers a day of nothing.
 
-## What Came Out Of The Ground
+## Thirty-One Lengths
 
 On the sixteenth she put up thirty-one lengths of broken stone off the kiln floor in one day and it is the best day she has done on that ground and the man of fifty-one wrote it up on the board in a good hand at the sixth hour and hung the board where anybody could see it.
 

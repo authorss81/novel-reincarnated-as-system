@@ -6,7 +6,7 @@ One question, asked once.
 
 And then the same question, asked again.
 
-That is the lever. There is no third part to it and there never has been, and it has been in her bag since the eighth of a month ten volumes back and she has carried it through a wall and a gate and thirteen miles of made road and sixty-five days on foot and four months of a woman asking for her husband’s book.
+That is the lever. There is no third part to it and there never has been, and it has been in her bag since the eighth of a month ten volumes back and she has carried it through a wall and a gate and eleven miles of made road and sixty-five days on foot and four months of a woman asking for her husband’s book.
 
 ## What The Lever Is
 

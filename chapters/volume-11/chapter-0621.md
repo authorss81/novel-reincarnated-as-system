@@ -22,7 +22,7 @@ She said it without any weight on it at all. That was the thing Ning Yan went ov
 
 “You may say anything you like,” the woman said. “It has not got anything to do with it.”
 
-## Why
+## Why She Shut It
 
 She said it standing in the doorway with one hand on the frame and she took her time about it, and she was not cruel and she was not slow and she was not enjoying herself, and she gave the whole of it in a minute and a half.
 
@@ -90,7 +90,7 @@ She said, “I cannot get at it.”
 
 He said, “Then go and get bread and come back to the name with a full hand. That is the order the two of them have to be done in and it is not the order you would have chosen.”
 
-## What She Is Left Holding
+## On The Stone Wall
 
 She did that at the seventh hour of the twenty-eighth, sitting on the stone wall on the west side of the yard with her feet in the ash.
 

@@ -86,7 +86,7 @@ The woman of forty-five said it again, word for word, the same thing, and it did
 
 She said, “You have.”
 
-The woman of forty-five said, “Then that is twice and it is still a Tuesday and my husband is still nine years at a work on himself and it has not taken you anywhere, and I have known that since the month beginning 1,874 and I did not think it was worth saying.”
+The woman of forty-five said, “Then that is twice and it is still an ordinary day and my husband is still nine years at a work on himself and it has not taken you anywhere, and I have known that since the month beginning 1,874 and I did not think it was worth saying.”
 
 And the woman of forty-five went in and shut the door, and that was the exchange, and she was right on every part of it.
 

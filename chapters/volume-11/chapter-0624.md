@@ -6,7 +6,7 @@ The blanket book. The board with the stone under the back of it. The nib. The ca
 
 And the copper, which she put at the end of the row without any reason except that it was in the bag and it was the only thing in the bag that was not for the writing.
 
-## The Sixth Hour
+## The Door At The Sixth
 
 The woman opened the door at the sixth and did not say good and came out onto the step with the book in her hands, cloth boards, string round it, nineteen years of dust gone off the top of it with the sleeve of a coat.
 
@@ -108,7 +108,7 @@ She said, “You cannot thank me for it either.”
 
 He said, “No,” he said, “and I have not got an instrument for it, and there has never been one in eight years, and I have said nothing about it.”
 
-## The Asking
+## Is That Your Name
 
 She said it out loud at the ninth hour of the twelfth of the month beginning 1,874, standing up, in daylight, on open ground, with a book of eight leaves on the stones at her feet and the ink not dry.
 

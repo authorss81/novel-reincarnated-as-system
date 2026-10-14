@@ -2,7 +2,7 @@
 
 She walked the seventeen miles in the dark.
 
-That is all of it and it is the last thing she does in this life that costs her anything that is not in her head. Four miles of made road off the rows, two miles of wet ground with a rut in it, and the rest of it made road from the gate to the turn.
+That is all of it and it is the last thing she does in this life that costs her anything that is not in her head. Four miles of made road off the rows, the two miles of flat between the gate and the wall, and the rest of it made road from the gate to the turn.
 
 A wall with an opening standing open in it four feet and a bit, a fence on the north side that goes on for a mile and then stops, and a row of stones on the south side at intervals set up by somebody for a reason she has never worked out.
 
