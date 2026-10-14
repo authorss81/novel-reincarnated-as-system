@@ -1,6 +1,6 @@
 # Five And Not Four
 
-A third of a reach is one and a half coppers, and she worked a third of a reach at Pei’s gate on the seventeenth of a month and again on the eighteenth, and it was the first time in two months that she had stood in that drain and been paid for less than half of it.
+A third of a reach is one and a half coppers, and she worked a third of a reach at Pei’s gate on the seventeenth of a month and again on the eighteenth, and for the second morning running she was paid less than half of it, which had not happened in two months.
 
 ## The Sum
 
@@ -70,13 +70,13 @@ Everything she had was still in her and she was lying in a wet ditch in the seco
 
 ## The Day She Lost
 
-She lost the whole of the second day and she got about six feet of the nine done in the remaining four hours, and she was a day behind the board at about the seventh hour of the second day and she finished it at about the sixth hour of the fifth.
+She lost the whole of the second day and she got about six feet of the nine done in the remaining four hours, and she was a day behind the board at about the seventh hour of the second day and she finished it at about the sixth hour of the fifth day.
 
 Five days where the board had said four.
 
 ## What The Man Said About It
 
-She was in the gateway at about the seventh hour on the fifth with one box against the wall behind her and eight holds in her left hand and a dirt bank down the right side of her face, and the man who kept the list was at the bench with the board off and his ink.
+She was in the gateway at about the seventh hour of the fifth day with one box against the wall behind her and eight holds in her left hand and a dirt bank down the right side of her face, and the man who kept the list was at the bench with the board off and his ink.
 
 He did not look at the dirt.
 

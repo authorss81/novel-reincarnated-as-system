@@ -84,7 +84,7 @@ He has been behind it since the seventeenth of a month five months back. It is n
 
 He has been *unnamed*.
 
-He has been a voice in a layer and a line on a board and a thing a room could read, and he has never been a word in a sentence. He has been the whole of what nobody could point at. Nine days of standing behind a thing that an office cannot name, on a ground where offices read everything else, and it was the only piece of him that was not findable, and he has never once used it and he has never once thought about it in terms of use.
+He has been a voice in a layer and a line on a board and a thing a room could read, and he has never been a word in a sentence. He has been the whole of what nobody could point at. Five months of standing behind a thing that an office cannot name, on a ground where offices read everything else, and it was the only piece of him that was not findable, and he has never once used it and he has never once thought about it in terms of use.
 
 They do not need to find him.
 
@@ -156,7 +156,7 @@ He waits for the morning. It is not there and he does not expect it and that is 
 
 Then the ground closes.
 
-The last piece of him that was not on a surface anybody can put a sheet on — the unnamed state, the nine days of standing behind a word he refused, the only part of this he has that no office on nine days of road had a word for — closes over like water closing over a stone.
+The last piece of him that was not on a surface anybody can put a sheet on — the unnamed state, the five months of standing behind a word he refused, the only part of this he has that no office on nine days of road had a word for — closes over like water closing over a stone.
 
 It does not hurt the way the morning had hurt. It hurts the way a hand hurts when it has been holding something for four years and puts it down.
 
@@ -196,6 +196,6 @@ The hand has found the two lines with no end on them. The hand will deal with th
 
 It picks the brush up again and finishes the figure.
 
-The room is a room. The doors are shut. There is a woman three miles east of it at the second hour of the twenty-second of a month who has just got off the boards and is standing with her palm flat on a cold stone by a door that tells her nothing, and she will find out in about four days what she has bought, and she will find it out from the fire, and she will not be able to give it back to him or take it back from herself.
+The room is a room. The doors are shut. Two miles west of a yard, at the second hour of the twenty-second of a month, a woman has just got off the boards and is standing with her palm flat on a cold stone by a door that tells her nothing, and she will find out in about four days what she has bought, and she will find it out from the fire, and she will not be able to give it back to him or take it back from herself.
 
 That is the whole of the hour, and it cannot be undone, and nothing in this room was done to him.

@@ -16,8 +16,6 @@ It came the way the six before it had come and there was no announcement and the
 
 There was nobody inside to be told and no county book on that ground to take anything down, and the sound of a stage is a sound and a sound has to go somewhere. It went into the ground under that hedge and a quarter of a mile into the air, and a dog on a farm a mile off did not bark, and it was over at about four minutes.
 
-It was over at about four minutes.
-
 [Ning Yan, past the line, servant-born, under no ceiling any county holds. Golden Core, stage seven, is held.]
 
 It said it once, in the far-side house form, and then it was finished, and it did not explain and it did not advise and it did not begin.
@@ -86,4 +84,4 @@ Five coppers a reach.
 
 Half a reach was what her body could open on a day and it had been half a reach for two months and it was going to stop being half a reach at about the seventh hour of the sixteenth of a month.
 
-She went in at the seventh hour and opened the drain and it took her until about the eighth hour to get as far as she used to get by the eighth, and the count went to five about nine feet in, and she worked the rest of it at five, and Pei came out at about the eighth hour with the bar and his boy on the fence with a stick and he did not say one word about it.
+She went in at the seventh hour and opened the drain and it took her until about the eighth hour to get as far as she used to get by the seventh, and the count went to five about nine feet in, and she worked the rest of it at five, and Pei came out at about the eighth hour with the bar and his boy on the fence with a stick and he did not say one word about it.

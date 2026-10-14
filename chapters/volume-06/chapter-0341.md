@@ -18,7 +18,7 @@ So she made three.
 
 Four dressed pieces under one arm, taken off a stack against a wall in a size that was meant to be carried two at a time by a man with two arms, and the bar in her left hand, and a bank of four feet between her and the top of the gully.
 
-She had done it about nine hundred times in four years with nine holds in that hand, and she had done it about four hundred times in five months with a hold gone.
+She had done it about nine hundred times in four years with eleven holds in that hand, and she had done it about four hundred times in five months with one of them gone.
 
 ## Five
 
@@ -84,4 +84,4 @@ It was the first time in five months that the fire had been lit and she had noth
 
 She found out on the third night that there is a thing a body does with two spare hours on boards in a shed, and it is to clean the bar, and then to sit and look at the two doors.
 
-And she wrote none of it down, and she told nobody, and she did not sleep well on about four of the fourteen nights, and on the fifteenth of a month she went out past the last hedge at about the fourth hour with the bar laid down on the grass and nothing within about half a mile that had ever heard anything.
+And she wrote none of it down, and she told nobody, and she did not sleep well on about four of the fourteen nights, and on the sixteenth of a month she carried the bar out past the last hedge before the light and laid it down on the grass, in a place where nothing within about half a mile had ever heard anything.

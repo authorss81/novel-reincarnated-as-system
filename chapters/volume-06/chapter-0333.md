@@ -2,7 +2,7 @@
 
 The head at the low drain on the far side of the elms is about a hundred and ten bricks, a foot and a half of footing on the low side, and two days of the board’s four men.
 
-She had it done in two days on the seventh of a month and there was one box against the wall of the open end of the building waiting for her, and she had nine holds in her left hand that morning and eight holds in her left hand by the time she had finished, and she did not find that out at the drain.
+She had it done in two days on the seventh of a month and there was one box against the wall of the open end of the building waiting for her, and she carried nine holds in her left hand into that yard on the morning of the ninth and carried eight out of it, and she did not find that out at the drain.
 
 She found out at the gate.
 
@@ -10,7 +10,7 @@ She found out at the gate.
 
 Nothing came up, and nothing had come up since the twenty-fourth of the last month, and she did not stand in a gateway being disappointed about it.
 
-Her base stayed quiet all day. The ring kept burning two miles west and there was no place in her where anything went out through the ground, and on the seventh of a month she took a box of dressed stone off a wall nine miles east of a mill with four fingers and a thumb on her right hand and eight holds on her left.
+Her base stayed quiet all day. The ring kept burning two miles west and there was no place in her where anything went out through the ground, and on the ninth of a month she took a box of dressed stone off a wall nine miles east of a mill with four fingers and a thumb on her right hand and eight holds on her left.
 
 She had been two days in a ditch a hundred yards from a bar that would take the weight of her without her asking it to.
 
@@ -26,7 +26,7 @@ The four fingers and the thumb.
 
 The left hand.
 
-She did all of that at about the seventh hour on the seventh of a month at the yard gate, standing up, in the ordinary order, with a box standing against the wall behind her and the man behind the stack about nine feet off going on with his own afternoon.
+She did all of that at about the seventh hour on the ninth of a month at the yard gate, standing up, in the ordinary order, with a box standing against the wall behind her and the man behind the stack about nine feet off going on with his own afternoon.
 
 Then she put her left hand on the rim of the box and closed it, twice, hard, the way you close it on a gate post in a wind.
 
@@ -54,7 +54,7 @@ A listing is not priced by what she can hold. A listing is two days and a box, a
 
 The board does not go down.
 
-That had been true since the third of a month back and she had said it out loud at a ditch and been glad of it, and she was still glad of it standing at this gate on the seventh of a month with eight holds and a finished job behind her.
+That had been true since the third of a month back and she had said it out loud at a ditch and been glad of it, and she was still glad of it standing at this gate on the ninth of a month with eight holds and a finished job behind her.
 
 She had bought a clearing she could not have cleared before, and she had paid for it with the thing that took the fire and then took the answering, and now it had taken a hand.
 

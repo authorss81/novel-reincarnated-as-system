@@ -18,12 +18,22 @@ budget in the batch's own continuity block **as it goes**, not afterwards.
 **Batch 0003's prompt said Batch 0004 opens at day 736. It does not.** Batch 0003's own instruction was: hold day
 712 inside days 701–735, take Golden Core 7 at ch 342 on the pinned day 749, and **carry days 736–748 as elapsed
 rather than walked.** The chapters did exactly that: ch 341 carries the fourteen days in a section of its own,
-ch 342 is dated the sixteenth of a month (day 749), and **ch 343, 344 and 345 carry no date on the page at all
-and follow it.**
+ch 342 is dated the sixteenth of a month (day 749), and **ch 343, 344 and 345 are dated on the page and follow
+it: ch 343 on the seventeenth through the fifth day of the listing (days 750–755), ch 344 on a thirtieth and the
+first of the month after it (days 763–764), ch 345 on the tenth day after that first (day 773).**
+*(Corrected at the Volume 6 Batch 0003 review. The first record of this handoff said ch 343–345 carried no date on
+the page at all. They do, and the table below is derived from the chapters.)*
 
-**So Batch 0004 opens after day 749.** The fifteen chapters here sit between the late months of the month that
-began on day 734 and the month after it, and the first thing this phase does is derive a day table from the
-chapter that exists, not from the prompt that was wrong.
+**So Batch 0004 opens after day 773.** The fifteen chapters here sit between the month that began on day 764 and
+the two months after it, and the first thing this phase does is derive a day table from the chapters that exist,
+not from the prompt that was wrong.
+
+| Ch | Days | Month-day | What is on the page |
+| --- | --- | --- | --- |
+| 342 | **749, pinned** | the 16th | Golden Core 7, the bracket |
+| 343 | 750–755 | the 17th–22nd | gate on the 17th and 18th, the listing taken on the 18th, five days against the board's four, finished on the fifth day |
+| 344 | 763–764 | the 30th, then the 1st | the book that will not shut, four words back, the tray corded at the fourth hour of the 1st, the keeper at the post |
+| 345 | 773 | the 10th | the strip that did not go flat, ten days on the board, the first thing in nine years to come down that road |
 
 ## Read before you start
 
@@ -81,16 +91,17 @@ or the ch 338 one.
 
 ## Pinned items — derive none of these
 
-1. **Days after 749.** Month-day is `((day − 134) mod 30) + 1`. The month ch 342 sits in began on **day 734**, so
-   **day 749 is the sixteenth of a month**, and the next month begins on **day 764**. **Verify every pinned day
-   against that rule before it goes on the page.**
+1. **Days after 773.** Month-day is `((day − 134) mod 30) + 1`. The month ch 342 sits in began on **day 734** and
+   runs to **day 763**; the next begins on **day 764** and runs to **day 793**; the one after that begins on **day
+   794** and runs to **day 823**; the next begins on **day 824**. **Day 773 is the tenth of the month that began on
+   day 764, and Batch 0004 opens after it. Verify every pinned day against that rule before it goes on the page.**
 2. **Golden Core 8 — ch 352, day 786.** *Thirty-seven days after Golden Core 7.* `((786 − 134) mod 30) + 1 = 23`:
-   **the twenty-third of a month** (the month beginning on day 734 runs to day 763). Bracket five of six, matching the far-side house form character for character:
+   **the twenty-third of a month** (day 786 sits in the month beginning on **day 764**, which runs to day 793). Bracket five of six, matching the far-side house form character for character:
 
    `[Ning Yan, past the line, servant-born, under no ceiling any county holds. Golden Core, stage eight, is held.]`
 
 3. **Golden Core 9 — ch 357, day 818.** *Thirty-two days.* `((818 − 134) mod 30) + 1 = 25`: **the twenty-fifth of a
-   month** (the month beginning on day 764). Bracket six of six, and the last bracket in the volume:
+   month** (day 818 sits in the month beginning on **day 794**, which runs to day 823). Bracket six of six, and the last bracket in the volume:
 
    `[Ning Yan, past the line, servant-born, under no ceiling any county holds. Golden Core, stage nine, is held.]`
 

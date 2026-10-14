@@ -10,13 +10,13 @@ She stood about nine feet off and watched him put the cord on.
 
 A book that shuts clean on the thirtieth is a finished book.
 
-It goes in a tray and the tray goes on the first cart up the road to the counting house, and everything that goes up that road gets read against everything else that went up it, and nothing comes back down. She had that in five sentences on the eleventh of a month in a shed, from a man working at a bench between two trays, and it had not changed and was not going to.
+It goes in a tray and the tray goes on the first cart up the road to the counting house, and everything that goes up that road gets read against everything else that went up it, and nothing comes back down. She had that in five sentences on the eighth of a month in a shed, from a man working at a bench between two trays, and it had not changed and was not going to.
 
-Three trays since she had walked out past a wheel that had not turned.
+Four trays since she had walked out past a wheel that had not turned.
 
-The first had gone up in the month after she came past the mill, with two months of days in it and the word above the hours that said she was good. The second had gone on the thirtieth of the month before this one. The third was on the bench in front of her with a cord going round it and a knot in the man’s teeth.
+The first had gone up in the month after she came past the mill, with two months of days in it and the word above the hours that said she was good. The second had gone on the thirtieth of the month before that one. The third had gone on the thirtieth of the month before this one. The fourth was on the bench in front of her with a cord going round it and a knot in the man’s teeth.
 
-She had been in three trays and she would be in one every month for as long as she kept working, and there was not one thing on nine days of road that could take her out of them, and she had known that since the third of a month in this yard in a gateway.
+She had been in four trays and she would be in one every month for as long as she kept working, and there was not one thing on nine days of road that could take her out of them, and she had known that since the third of a month in this yard in a gateway.
 
 What was new was that she was about to be in one from the inside.
 
@@ -24,7 +24,7 @@ What was new was that she was about to be in one from the inside.
 
 She left the book on the bench at about the eighth hour and watched the man put the knot in the cord, and then she went up the road to the counting house and stood at the counter on the side she could reach with a whole hand.
 
-There was one thing she had wanted to ask since the twenty-eighth of a month and she asked it once, in the ordinary voice, in daylight, with a man behind the counter and six of his men at their cups.
+There was one thing she had wanted to ask since the twenty-eighth of the month before this one and she asked it once, in the ordinary voice, in daylight, with a man behind the counter and six of his men at their cups.
 
 “Where does my material go.”
 
@@ -58,7 +58,7 @@ She wanted to ask him what happens to a book that has got a line in it with noth
 
 She did not ask it.
 
-She had asked one question a month in this building and got it, and on the seventh of a month she had stood on a step and worked out that asking a second question tells a man the first one mattered, and she had spent four years learning what that costs a person who has to write it down.
+She had asked one question a month in this building and got it, and on the thirtieth of the month before this one she had stood on a step and worked out that asking a second question tells a man the first one mattered, and she had spent four years learning what that costs a person who has to write it down.
 
 So she stood at the counter and looked at about nine feet of room and asked the question in her own head instead, in the ordinary voice, and had the answer before the pen went back down on the desk.
 
@@ -82,7 +82,7 @@ She walked back up the road to the mill in the dark with the bar on her shoulder
 
 A line is not much. She had worked that out standing at that counter a month before and had not enjoyed the working of it.
 
-And it was in a book that shut on the thirtieth, and it had been for five months, and the fourth one would be corded up in the yard at the eighth hour tonight and would go up the road on the first cart in the morning, and there would be one every month after that for as long as she cleared a single listed thing on nine days of road.
+And it was in a book that shut on the thirtieth, and it had been for five months, and this one had been corded up in the yard at the eighth hour tonight and would go up the road on the first cart in the morning, and there would be one every month after that for as long as she cleared a single listed thing on nine days of road.
 
 She got to the mill at about the eleventh hour and the ring was burning in the corner of the shed with the yard empty, and she put her bag down against the wall and stood in the doorway looking at it.
 

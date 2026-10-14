@@ -76,7 +76,7 @@ There were four people in that room. The man with the brush, and three others at
 
 It was not difficult work. Anyone who can read can do it. What it took was to do the same eight hundred strokes a day for eleven years without once deciding what the column meant, and every one of the four of them had been at it long enough for it to be in their hands.
 
-None of them looked at her while she stood there and none of them stopped, and she understood inside about four minutes that she was in a room where a person is a thing being done to a column of.
+None of them looked at her while she stood there and none of them stopped, and she understood inside about four minutes that she was in a room where a person is a thing being done to a column.
 
 That is what it means to be read. It is not being watched. It is being the eighth hundred strokes of somebody’s ordinary afternoon.
 

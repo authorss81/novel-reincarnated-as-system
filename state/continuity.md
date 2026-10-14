@@ -5113,14 +5113,16 @@ mentioned · Bai Zhu and Wei Ran off the page · no harem and no romance.
 
 ## Established facts, Volume 6 Batch 0003 (ch 330–345) — SENDING AND BEING SENT FOR
 
-**Sixteen chapters, 25,000 words of body prose, average ~1,562, day 701 to day 735 walked, plus ch 342 at the
-pinned day 749 and ch 343–345 undated after it. TWO bracketed layer lines, at ch 332 and at ch 342 — brackets 3
-and 4 of Volume 6's six. Chapter titles and section headings excluded. Drafted against `outline/volume-06.md` and
-against `workspace/volume-06-batch-0003/PROMPT.md`, which is this batch's card. Every pinned item in it is on the
-page. There is no card file for this batch and this section is its record.**
+**Sixteen chapters, 25,005 words of body prose, average ~1,563, day 701 to day 735 walked, plus ch 342 at the
+pinned day 749 and ch 343–745 dated after it to day 773. TWO bracketed layer lines, at ch 332 and at ch 342 —
+brackets 3 and 4 of Volume 6's six. Chapter titles and section headings excluded. Drafted against
+`outline/volume-06.md` and against `workspace/volume-06-batch-0003/PROMPT.md`, which is this batch's card. Every
+pinned item in it is on the page. There is no card file for this batch and this section is its record. Figures in
+this block were re-derived against the chapters at review; see ***Volume 6 Batch 0003 — REVIEW REPAIR*** at the
+foot of this file.**
 
-Per file, body prose: 330 1,378 · 331 1,315 · 332 1,328 · 333 1,398 · 334 1,364 · 335 1,422 · 336 1,384 ·
-337 1,710 · 338 2,970 · 339 1,424 · 340 1,377 · 341 1,356 · 342 1,336 · 343 1,675 · 344 1,777 · 345 1,786.
+Per file, body prose: 330 1,378 · 331 1,314 · 332 1,328 · 333 1,398 · 334 1,364 · 335 1,422 · 336 1,384 ·
+337 1,710 · 338 2,968 · 339 1,420 · 340 1,395 · 341 1,358 · 342 1,329 · 343 1,673 · 344 1,777 · 345 1,787.
 
 ### The batch in one sentence
 
@@ -5139,7 +5141,7 @@ this batch opens in began on day 674 and the next began on day 704 and the one a
 | 330 | 701–702 | the 28th, 29th | The Name Against Material |
 | 331 | 703–704 | the 30th, the 1st | The Column In Two Hands |
 | 332 | 705–712 | the 2nd–9th | **GOLDEN CORE 6** — Eight Holds (stage on the 9th) |
-| 333 | 713–714 | the 10th, 11th | The Clearing She Bought |
+| 333 | 712 | the 9th | The Clearing She Bought |
 | 334 | 715–717 | the 12th–14th | The Cart Comes Back |
 | 335 | 718–719 | the 15th, 16th | He Does Not Want It Answered |
 | 336 | 720–722 | the 17th–19th | A Strip With Two Columns |
@@ -5149,19 +5151,28 @@ this batch opens in began on day 674 and the next began on day 704 and the one a
 | 340 | 732–733 | the 29th, 30th | The Book On The Thirtieth |
 | 341 | 734–735, then fourteen days carried as elapsed | the 1st, 2nd, then to the 15th | Four Counts And A Load |
 | 342 | **749 (pinned)** | the 16th | **GOLDEN CORE 7** — Five Counts |
-| 343 | undated, after 749 | — | Five And Not Four |
-| 344 | undated; a thirtieth after 749 | — | **THE BREAK** — The Board Is For That |
-| 345 | undated; the tenth day after that | — | It Does Not Close Clean |
+| 343 | 750–755 | the 17th–22nd | Five And Not Four |
+| 344 | 763–764 | the 30th, then the 1st | **THE BREAK** — The Board Is For That |
+| 345 | 773 | the 10th | It Does Not Close Clean |
 
 - **Day 712 verified** as the ninth of a month: `((712 − 134) mod 30) + 1 = 9`. **Day 749 verified** as the
-  sixteenth: `((749 − 134) mod 30) + 1 = 16`. Both match the pinned prompt.
+  sixteenth: `((749 − 134) mod 30) + 1 = 16`. Both match the pinned prompt. **Days 750, 755, 763, 764 and 773
+  verified the same way** as the 17th, the 22nd, the 30th, the 1st and the 10th.
+- **Ch 333 is the ninth and not the tenth and eleventh.** *(Corrected at the Volume 6 Batch 0003 review. The first
+  record of this table put ch 333 on days 713–714 because the chapter had dated the discovery of the eighth hold
+  to the seventh of a month, which contradicted the pinned Golden Core 6 at day 712 and the chapter's own
+  arithmetic — *Eight of eleven at the ninth*. The chapter was corrected; the table follows the page.)*
 - **The prompt's own rule applied and recorded:** no chapter may reach past day 735 except the GC7 card. Days
   736–748 are **carried as elapsed, not walked** — ch 341's last section is *The Fourteen Days* and says so in
-  one sentence. **Ch 343, 344 and 345 carry no date on the page at all** and follow ch 342; they fall after
-  day 749 in run-clock terms. **Batch 0004 does not in fact open at day 736.** The page wins; the Batch 0004
-  prompt says so at its head.
+  one sentence. **Ch 343, 344 and 345 are dated on the page and follow ch 342.** Ch 343 opens on the seventeenth
+  (the gate, a third of a reach), takes its listing on the eighteenth and runs it five days to the twenty-second;
+  ch 344 is a thirtieth and the first of the month after it, the tray corded at the fourth hour of the first; ch
+  345 is the tenth day after that first, with the strip ten days on the board and the cart that carried it down on
+  the first. **Batch 0004 does not open at day 736 and does not open at day 749. It opens after day 773.** The page
+  wins; the Batch 0004 prompt says so at its head and carries the corrected table.
 - **No named weekday, no named calendar month, no named week.** *Nine or ten days*, *about a month*, *eleven
-  minutes a piece*, *three weeks*, *fourteen days* are ordinary relative stretches.
+  minutes a piece*, *three weeks*, *five weeks*, *close on eight weeks*, *fourteen days* are ordinary relative
+  stretches.
 - **No pay-cycle.** Nothing falls on a date on that ground and no card revived one.
 
 ### New machinery, established once and used after
@@ -5254,10 +5265,10 @@ been exactly her.
 - **Out of her foundation**, not her hand and not a book. What leaves her is *the thing under her base* — the
   part of a body that keeps a fire lit in a room she has to walk to. He is not there and has not been; the reach
   is hers and she gives it.
-- **What it costs him, named on the page before it is paid:** the unnamed state. Nine days of standing behind the
-  last thing in him that an office cannot write on, given up so that a holding can have a name on it. **After it
-  he is not nowhere.** A holding has to be held by name, and a name is a word an office can put on a strip and
-  carry up a road, and there is no such thing as a road that does not go where that word goes.
+- **What it costs him, named on the page before it is paid:** the unnamed state. Five months of standing behind
+  the last thing in him that an office cannot write on, given up so that a holding can have a name on it.
+  **After it he is not nowhere.** A holding has to be held by name, and a name is a word an office can put on a
+  strip and carry up a road, and there is no such thing as a road that does not go where that word goes.
 - **It is not a re-run of ch 272 and the two chapters do not share a setting, a cost, a want or a verb.** Ch 272
   is a field of lines with a keeper's paste pot; ch 338 is **a room, with a floor, a table, a chair pushed back
   at an angle, two shut doors and one with a handle on it**, and a hand with a brush that is slow and is making a
@@ -5268,7 +5279,9 @@ been exactly her.
   and **the six-sentence ration does not apply to it**. It has **six utterances, every sentence in the present
   tense**. It follows ch 272's own handling of a frame in which the room is described in the present, which is
   the precedent the volume outline set for this scene.
-- **Yuan outside ch 338: one utterance in sixteen chapters, at ch 337.** Nothing at ch 330–336, 339–345.
+- **Yuan outside ch 338: two utterances in sixteen chapters, at ch 332 and at ch 337.** Nothing at ch 330–331,
+  333–336, 339–345. *(Corrected at review. The first record said one, at ch 337, and missed ch 332's* All right.
+  *at the top of the low drain on the seventh of a month.)*
 - **Nothing in Volume 6 kills anybody for it.**
 
 ### Merit
@@ -5383,7 +5396,7 @@ and no second appointment** · the fourth erased months carried in the body.
 | The furnace | **Lit and holding without her since the second hour of the twenty-second of a month**, in a shed at the mill, out of what she has been buying with the hand of her own that is left. It answers nothing and has not since the twenty-fourth of the last month. The ground under it gives nothing back and never has and she has never said so out loud |
 | Circuit | **BROKEN, at ch 344.** A book on that reach no longer shuts clean because two lines in it have no end on them. A tray went up on the first cart with a page fanned open in it. A strip came off it and a keeper pasted it in because that is what the board is for. **A question came back down the mill road on the tenth day, the first thing in nine years to come down it** |
 | The reading | **Three books, none of them hers to see, two of them read against each other by hand every month**, and a sending written against her column with his holding under it and the room not named on the strip |
-| Settlement | **Merit zero in this batch.** Nothing killed, nothing measured, no figure of him on any page. Ledger never ordered, held, priced or refused. **Hand spent twice in Volume 6 — at ch 325 and at ch 338 — and refused none yet; ch 355 is Batch 0004's.** Yuan: **one utterance in sixteen chapters outside ch 338, and six in ch 338**, all present tense; readable, and now **addressed, and therefore sendable**; the two ch 272 losses still gone |
+| Settlement | **Merit zero in this batch.** Nothing killed, nothing measured, no figure of him on any page. Ledger never ordered, held, priced or refused. **Hand spent twice in Volume 6 — at ch 325 and at ch 338 — and refused none yet; ch 355 is Batch 0004's.** Yuan: **two utterances in sixteen chapters outside ch 338 (ch 332 and ch 337), and six in ch 338**, all present tense; readable, and now **addressed, and therefore sendable**; the two ch 272 losses still gone |
 | Claim | **ANSWERED** (ch 294–295) and not reopened. Hou Sanliang paid, never met, not on the page |
 | Family | Ning Bo's account discharged at ch 296; Ning Wu's decade entered at ch 297. **Neither is on the page in ch 330–345**, and at ch 335 Bai Zhu says *your brother is on it* once, flatly, and nothing else |
 | Inside | **Nothing.** Batch 0001 spent the one sight of it at ch 312. **The tenth part is not given and nothing proves the crews wrong** |
@@ -5410,21 +5423,21 @@ not a budget.**
 | ***About as long as it takes to count eleven* / the eleven-counts measure** | **0**, and **not at ch 338.** `grep` for *count eleven* and *eleven counts* returns zero |
 | ***His eyes widened · he couldn't believe it · suddenly · little did he know*** | **0** |
 | **The surface answer** | **0.** Not said, hinted at, gestured at or paraphrased in any mouth |
-| **Named weekdays / named calendar months / named weeks** | **0 / 0 / 0.** *Nine or ten days*, *eleven minutes a piece*, *about a month*, *fourteen days*, *three weeks* are ordinary relative stretches |
+| **Named weekdays / named calendar months / named weeks** | **0 / 0 / 0.** *Nine or ten days*, *eleven minutes a piece*, *about a month*, *fourteen days*, *three weeks*, *five weeks*, *close on eight weeks* are ordinary relative stretches |
 | **Harem, romance** | **None.** Wei Ran is off the page in this batch, as `outline/volume-06.md` has her between Batches 0001 and 0004 |
 | **Bold** | **0.** `grep` for `**` returns zero across the sixteen files. **Italic nine spans in the whole batch**, all documentary and all scarce: *all right* (337, 339) · *What it gets.*, *What it costs.*, *readable from outside*, *in the line*, *entered*, *unnamed*, *somewhere* (338) |
 | **Markdown** | **0** blockquotes, code fences, tables and horizontal rules across the sixteen files. Title heading and `##` section headings only |
 | **Quotes** | **Every speech closed in all sixteen files** (`text.count('“') == text.count('”')` in every file); **0 straight apostrophes and 0 straight double quotes.** Eight lines carrying straight apostrophes were written in ch 338, 342, 343 and 345 and swept to the curly form before the batch was saved |
 | **Paragraphs** | **Longest paragraph in the batch is 99 words.** No paragraph over 100. Twelve paragraphs were written between 92 and 124 words and eleven were split at a natural beat; the last, at ch 345, is the *simple part about one person* and is now two paragraphs |
-| **Duplicated paragraphs** | **0 exact.** A paragraph-level duplicate scan returns nothing. **Three exact duplicates were written and cut** — the *layer said it once in the far-side house form* line and the *nobody inside to be told* line between ch 332 and ch 342, and *she put the pieces down at the top of the bank* between ch 341 and ch 342. **Near-duplicate scan at ≥0.45 six-gram overlap across chapters: 3**, all of them the deliberate stage-ritual parallel between ch 332 and ch 342 (0.63 on the *the stage came the way the…* paragraph, 0.45 on the *nobody inside to be told* paragraph) and the pinned bracket itself at 0.79. **The two utterances are not the same sentence and the bracket is a pinned string.** A fourth pair at 0.87 between ch 337 and ch 340 was written and cut |
-| **Length** | **25,000 words of body prose over sixteen chapters, average ~1,562** (25,741 raw, headings included). Per file: 330 1,378 · 331 1,315 · 332 1,328 · 333 1,398 · 334 1,364 · 335 1,422 · 336 1,384 · 337 1,710 · 338 2,970 · 339 1,424 · 340 1,377 · 341 1,356 · 342 1,336 · 343 1,675 · 344 1,777 · 345 1,786. **None under the 1,300 floor and none above the 2,700 guide except ch 338**, which is the sustained scene in which he is on the page in his own right and which `workspace/volume-06-batch-0003/PROMPT.md` allows to be as long as the scene needs. Counts are body prose only, `#` titles and `##` headings excluded. Four chapters were written under the floor — 330, 331, 341 and 342 at 1,103 to 1,148 — and were brought over it by adding scene, not by padding: the twenty-ninth at the board (330), the three other copyists on the floor (331), the one unwatched day at the mill (341) and eleven climbs of the bank (342) |
+| **Duplicated paragraphs** | **0 substantive.** A paragraph-level exact-duplicate scan returns **nine pairs, and every one of them is a deliberate ritual beat of five words or fewer** — *She squared the board up on the bench* (330, 343) · *Yes.* (331, 335, 343, 345) · *All right.* (333, 334) · *She did it standing up.* and *She picked the bar up off the grass* (332, 342, the same stage twice) · *A line is a thing that gets found* and *A holding is a thing that can be asked for* (335, 338, the same fact said twice on purpose) · *HELD.* twice inside ch 338 · *Four.* three times in and across ch 341–342. **No duplicated prose paragraph.** **Four exact duplicates of substance were written and cut** — the *layer said it once in the far-side house form* line and the *nobody inside to be told* line between ch 332 and ch 342, *she put the pieces down at the top of the bank* between ch 341 and ch 342, and a fourth pair at 0.87 between ch 337 and ch 340. **A fifth was found by review and cut: ch 342 repeated *It was over at about four minutes.* as a whole paragraph immediately after the sentence that ended with it.** Near-duplicate scan at ≥0.45 six-gram overlap across chapters: 3, all of them the deliberate stage-ritual parallel between ch 332 and ch 342 (0.63 on the *the stage came the way the…* paragraph, 0.45 on the *nobody inside to be told* paragraph) and the pinned bracket itself at 0.79. **The two utterances are not the same sentence and the bracket is a pinned string** |
+| **Length** | **25,005 words of body prose over sixteen chapters, average ~1,563** (25,753 raw, headings included). Per file: 330 1,378 · 331 1,314 · 332 1,328 · 333 1,398 · 334 1,364 · 335 1,422 · 336 1,384 · 337 1,710 · 338 2,968 · 339 1,420 · 340 1,395 · 341 1,358 · 342 1,329 · 343 1,673 · 344 1,777 · 345 1,787. **None under the 1,300 floor and none above the 2,700 guide except ch 338**, which is the sustained scene in which he is on the page in his own right and which `workspace/volume-06-batch-0003/PROMPT.md` allows to be as long as the scene needs. Counts are body prose only, `#` titles and `##` headings excluded. Four chapters were written under the floor — 330, 331, 341 and 342 at 1,103 to 1,148 — and were brought over it by adding scene, not by padding: the twenty-ninth at the board (330), the three other copyists on the floor (331), the one unwatched day at the mill (341) and eleven climbs of the bank (342). *(The review counted raw words; every figure above moves by a handful of words after the repairs of 14 October, and none of them changes a floor or guide position.)* |
 | **Titles** | All sixteen unique against all 329 existing headings and against each other; **345 `^# ` headings across the manuscript, zero collisions** |
 | **Tribulation / suppression arithmetic** | **0 / 0.** Merit does not settle in this batch |
 | ***Kiln-born*, Anchor, Sisterhood, Lung, appointment, MEMBER ABSENT, sponsor, Shen Xiu, Scribe, reconciled, erased, base went out, could not account, licence, license, plate, Ledger, Wei Ran, Ning Wu, vouch, Feng, Bai Zhu, wei** | **Zero on the page of this batch**, all measured by `grep -i`. **`vouch` returns zero**: the second vouching is not re-vouched anywhere and is spoken about only as the second office and as an account. `Bai Zhu` returns exactly one hit, at ch 335, and the Hunter is named once in the batch and is *he* and *the man with the notebook* after that |
 | **The seven relicensing conditions** | **0.** Never listed, counted, enumerated or referred to by number |
 | **`sending`** | **1, at ch 336**, the chapter in which the sending is written. **Zero in ch 330–335** |
 | **`sent for`** | **1, at ch 338**, inside his own line. **Zero in ch 330–337 and in ch 339–345** |
-| **Yuan's sentences** | **Seven utterances in sixteen chapters.** One outside ch 338, at ch 337 (nine sentences, one block, every one present tense, telling the price before it is spent). **Six at ch 338**, which is the sustained scene in his own right and in his own frame, away from her hearing, and **the six-sentence ration does not apply to it.** Every sentence he speaks in the batch is in the present tense and no other character in any external scene is in a present frame |
+| **Yuan's sentences** | **Eight utterances in sixteen chapters.** Two outside ch 338 — ch 332's *All right.* at the top of the low drain (one sentence) and ch 337's price named before it is spent (**four sentences**, one block, every one present tense; ch 339 says *four sentences* of it in her own mouth, which agrees). **Six at ch 338**, which is the sustained scene in his own right and in his own frame, away from her hearing, and **the six-sentence ration does not apply to it.** Every sentence he speaks in the batch is in the present tense and no other character in any external scene is in a present frame. *(Corrected at review: the first record said seven utterances and called the ch 337 block nine sentences. It is eight and four.)* |
 
 **Seven faults were found by measurement while drafting and all seven were cut before the batch was saved, and
 they are recorded here because that is the only honest way to run a budget:** four instances of the retired *about
@@ -5440,8 +5453,130 @@ bracket that follows each is a pinned string that cannot vary. Batch 0002 record
 *told before spent* ritual at ch 316 and ch 320. **The two utterances are not the same sentence.**
 
 **One discrepancy between the batch prompt and the page, resolved in favour of the page, as the prompt itself
-directs:** the prompt says Batch 0004 opens at day 736. It does not. **Ch 342 is pinned to day 749 and ch 343–345
-follow it and carry no date, so the batch closes after day 749 and Batch 0004 opens there.** The prompt's own
-instruction — hold day 712 inside days 701–735, take GC7 on day 749, and leave the days between to be carried as
-elapsed rather than walked — was followed, and ch 341 carries the fourteen days in a section of its own. The
-Batch 0004 prompt states the corrected handoff at its head.
+directs:** the prompt says Batch 0004 opens at day 736. It does not. **Ch 342 is pinned to day 749, and ch 343, 344
+and 345 are dated on the page and follow it to day 773, so the batch closes after day 773 and Batch 0004 opens
+there.** The prompt's own instruction — hold day 712 inside days 701–735, take GC7 on day 749, and leave the days
+between to be carried as elapsed rather than walked — was followed, and ch 341 carries the fourteen days in a
+section of its own. The Batch 0004 prompt states the corrected handoff at its head, with the derived table.
+
+---
+
+## Volume 6 Batch 0003 — REVIEW REPAIR (applied after `logs/volume-06-batch-0003.review.log`)
+
+**No beat, day-table position, title, turn, midpoint, climax, irreversible decision, bracket, stage or planned
+event was moved, and no chapter before `chapters/volume-06/chapter-0330.md` was opened. Every repair below is a
+date, a count, a name's geography or a duplicated string, and all sixteen chapters were re-read for prose after
+the last one.**
+
+### The eleven manuscript repairs, in the order the review gave them
+
+1. **Ch 342 — duplicated sentence cut.** `It was over at about four minutes.` stood as a whole paragraph
+   immediately after the paragraph that already ended with it. One of the two is gone. **The batch's bracket count,
+   the stage and the day are untouched.**
+2. **Ch 333 — the eighth hold is found on the ninth, not the seventh.** Golden Core 6 is pinned to day 712, the
+   ninth of a month, and ch 332 stages it at the fourth hour of the ninth; ch 333 had put the discovery at the
+   seventh and then contradicted itself four paragraphs later with *Eight of eleven at the ninth*. **Four
+   references corrected** — the two-day clearing now ends on the seventh with the box waiting and she carries nine
+   holds into the yard on the morning of the ninth and eight out of it; the box off the wall, the check at the
+   yard gate and the last time she was glad of it are all on the ninth. **The arithmetic section, the six lines on
+   the board and the whole argument of the chapter are untouched.**
+3. **Ch 341 — the closer is the sixteenth, not the fifteenth.** GC7 is pinned to day 749, the sixteenth, and ch
+   341's last sentence was walking her out to the hedge on the fifteenth, which is ch 342's opening scene on the
+   wrong day. **The day is corrected and the sentence was also recast** so that it no longer re-narrates ch 342's
+   opening sentence in the same words: she carries the bar out past the last hedge before the light and lays it on
+   the grass, and that is where the chapter ends. The fourteen-day section and the pinned GC7 day are untouched.
+4. **Ch 345 — `the cart this morning` corrected to `the cart on the first`.** The chapter opens on the tenth day,
+   the keeper says twice that the cart came down on the first, and the closing paragraph says the strip had been on
+   the board ten days. One phrase contradicted all three.
+5. **Ch 340 — the trays now count.** The chapter enumerated three trays and then said the *fourth* one would be
+   corded that night. **It now enumerates four**, the first went up in the month after she came past the mill, the
+   second on the thirtieth of the month before that one, the third on the thirtieth of the month before this one,
+   and the fourth is the one on the bench with the knot in the man's teeth; *she had been in four trays* follows,
+   and the closing paragraph refers to this one by name instead of by number.
+6. **Ch 340 — the step scene is the thirtieth of the month before, not the seventh.** It is ch 331, dated the
+   thirtieth, and ch 340 already calls it *a month before* two sections further on. **The other loose date in the
+   same exchange was corrected with it** — the question she had wanted to ask had been ready since *the
+   twenty-eighth*, which is the twenty-eighth of the month before this one, not the twenty-eighth two days ago.
+7. **Ch 341 — nine holds corrected to eleven.** She has eleven holds and has had them since she was nine; the
+   count in the sentence about nine hundred carries is now *eleven holds in that hand*, and the five-month clause
+   reads *with one of them gone* rather than *with a hold gone*, so the two halves of the sentence agree.
+8. **Ch 338 — the geography slip.** *There is a woman three miles east of it* put her three miles east of a room
+   whose location is never established. **She is now placed from a known point instead** — *Two miles west of a
+   yard, at the second hour of the twenty-second of a month* — which is where ch 337 and ch 338 already put her,
+   and the rest of the paragraph is untouched.
+9. **Nine days corrected to five months, four places.** ch 337 named the same interval as *nine days* in one
+   sentence and *five months back* in the next, and ch 338 called the unnamed state *nine days of standing behind*
+   twice while the chapter's own clock said five months in three other places. **ch 337 line 69, ch 337 line 75,
+   ch 338's *What Is Left Of Him* and ch 338's *What Is Taken Of Him* all now read five months.** The ch 272
+   finding, the apology, the date of the morning he died and the price itself are untouched.
+10. **The false `no date on the page` premise corrected in six files.** See the next block.
+11. **Yuan's utterance count corrected.** Eight utterances in sixteen chapters, not seven; two outside ch 338,
+   not one; and the ch 337 block is **four** sentences, not nine, which is what ch 339 already said in her own
+   mouth.
+
+### The seven minor prose repairs
+
+- **Ch 331** — *a thing being done to a column of* broke on the preposition and the sentence ended. Cut.
+- **Ch 339** — *since the eighth of the first month of the last month* is not a date any reader can hold. Now
+  *since the eighth of a month*, the convention used everywhere else in the book.
+- **Ch 339** — the hand that stopped telling her warm from cold had been gone *for over three weeks*. It goes at
+  Golden Core 5, day 674, and ch 339 is day 729: **close on eight weeks.**
+- **Ch 340** — the five sentences about the tray road were heard *on the eleventh of a month*. Ch 334 puts the
+  tray man back out of the shed on the thirteenth, *for the first time in five weeks*, which is the eighth.
+- **Ch 342** — *it took her until about the eighth hour to get as far as she used to get by the eighth* was
+  circular and read as losing no time. **Now `by the seventh`**, which is the hour she goes in at and makes the
+  lost hour legible without touching the pay, the bar or Pei.
+- **Ch 343** — the opening said the seventeenth was *the first time in two months* she had been paid for less than
+  half a reach, and left ch 342's sixteenth unaccounted for. **It now says the sixteenth and the seventeenth were
+  two mornings running, and that less than half had not happened in two months.**
+- **Ch 343** — *the second day* and *the fifth* sat in the same chapter reading as month-days. **Both now carry
+  `day`**, which is what they are: days of a listing that began on the eighteenth and ran five against the board's
+  four.
+
+### The false premise, and where it lived
+
+**`Ch 343, 344 and 345 carry no date on the page at all` was wrong, and the claim stood in six files.** The three
+chapters are dated — ch 343 on the seventeenth and the eighteenth with a listing that runs to the fifth day, ch 344
+on a thirtieth and the first of the month after it, ch 345 on the tenth day after that first with the cart down on
+the first. **Every instance is corrected and the correct table is derived from the page:**
+
+| Ch | Days | Month-day |
+| --- | --- | --- |
+| 343 | 750–755 | the 17th–22nd |
+| 344 | 763–764 | the 30th, then the 1st |
+| 345 | 773 | the 10th |
+
+**Corrected in all six** — `state/continuity.md` (the batch header, the day table, the handoff paragraph and this
+block), `state/current.md` (the next-phase line, the in-world-date line, the running history and the cold-reader
+block), `state/open-threads.md` (two places), `state/chapter-summaries.md` (the batch header and the three chapter
+records for ch 343, 344 and 345), `state/book-metadata.md` (two places), **and
+`workspace/volume-06-batch-0004/PROMPT.md`, which was handing the next writer the false premise in its own
+handoff and which now carries the derived table.** That prompt's pinned days survive the correction untouched — **786, 818 and
+845 are still the 23rd, the 25th and the 22nd of a month, thirty-seven days after Golden Core 7, thirty-two after
+that and then to the last** — and two of its month identifications, which had put day 786 in the month beginning
+on day 734 and day 818 in the month beginning on day 764, are corrected to day 764 and day 794. **Batch 0004 opens
+after day 773 and not after day 749.**
+
+### Recorded and not repaired
+
+- **Ch 341's working-day count.** The fourteen-day section says she worked eleven of the fourteen, and then
+  enumerates six days of gate work plus four of gate and gully plus one day off, which is eleven days named of
+  fourteen. **It was left alone.** No pinned fact, no day table and no downstream batch depends on it, the three
+  possible repairs all require guessing which of four numbers the writer meant, and inventing an arithmetic the
+  chapter did not state is worse than leaving a sparse one. It is written down here so the next reader does not
+  have to find it again.
+- **Length.** Fourteen of sixteen chapters land between 1,315 and 1,786 body words against `AGENTS.md`'s
+  1,800–2,700 guide. This is compliant with the batch card's own 1,300 floor and its explicit instruction not to
+  pad, and it is the same drift already recorded for Volume 6 Batch 0002. **Nothing was added.** The figure belongs
+  to the volume close, not to a repair pass.
+
+### Re-measured after the repairs
+
+Every speech still closes in all sixteen files, with zero straight apostrophes and zero straight double quotes.
+**Zero** blockquotes, code fences, tables and horizontal rules. **Exactly two bracketed layer lines**, at ch 332
+and at ch 342, character for character as pinned. **Zero** hits on authorial scaffolding, *about four seconds*,
+*eleven weeks*, *reconciled*, *licence*/*license*, *plate*, *kiln-born*, Anchor, Sisterhood, Lung, appointment,
+MEMBER ABSENT, sponsor, Shen Xiu and Scribe; `sending` once at ch 336 and `sent for` once at ch 338, both correctly
+gated. **Longest paragraph in the batch is 99 words**, three paragraphs over ninety and none over 120.
+**345 `#` headings across the manuscript and no title collision.** Month-day arithmetic re-derived for every
+pinned day under `((day − 134) mod 30) + 1`.

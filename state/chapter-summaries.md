@@ -604,7 +604,9 @@ Batch 0001 (ch 299–313) — READING AND BEING READ* and *Volume 6 running ledg
 
 - **Ch 329 — *She Asked At The Gate* (day 699, the twenty-sixth; the twenty-seventh is her closing walk west and is not dated on the page) — THE IRREVERSIBLE DECISION AND THE VOLUME'S MIDPOINT.** *Ning Yan. Of Lowwater. I am asking to be put in the materials account of the office that sets this board.* He does not ask her to say it again. **He makes her say the last part again, and she does, and he tells her that most of them say it as a wage and have to be taken back and made into a materials, and that it takes four days longer. It is not a hiring: no day-book, no rate, no day, no stub, nothing torn off anything. If the office lists a thing and she clears it, what the thing was made of comes to her account and she takes it where she are standing.** He writes it in ink at the eighth hour on a strip about as wide as a hand with a ruled line and a line across near the bottom, cut at the bottom edge with a knife, and turns it face down on the bench because that is what a man does with a thing that is going somewhere and is not his. **The word, said out loud once, in daylight: it is a vouching. It is the same act twice and it is not the same thing twice. That one was about your days. This one is about material.** The price, in four short sentences with nothing added: *you cannot take it back — not by walking a season's road the other way, not by leaving, not by telling a man at a gate that you did not mean it — it is in a book and the book is copied and the copies go to a floor she has never been in in a hand she has never seen and nobody in nine days of road can take her out of it.* She is asked to be sure, because after this there is not one hour she gets to keep, and she has been sure for three days. **She said yes and it was not a fight and nobody was in the room except a man doing the thing he was built to do.** What it closes, standing up in about a minute: a yard that had been giving her work with nothing on any board about who she was; one price on her; a cart a man was going to lose — and a second book she will never see, next to the first, neither seeing the other. **Leaving the reach no longer takes her out of the books.** *Emotion: a plain, ordinary pleasure that is the first thing in five months she has asked for — and it cost her the rest of her life, out loud, in the light, at a gate, with her name on it.*
 
-### Batch 0003 (ch 330–345) — sending and being sent for. WRITTEN, 25,000 words over sixteen chapters, average ~1,562, day 701 to day 735 walked plus the pinned day 749 for GC7, TWO bracketed layer lines, at ch 332 and ch 342.
+### Batch 0003 (ch 330–345) — sending and being sent for. WRITTEN AND REPAIRED, 25,005 words over sixteen chapters, average ~1,563, day 701 to day 735 walked plus the pinned day 749 for GC7 and the dated days 750–755, 763–764 and 773 that follow it, TWO bracketed layer lines, at ch 332 and ch 342.
+
+**Reviewed and repaired at `logs/volume-06-batch-0003.review.log`: eleven manuscript defects, seven minor prose defects, and one false state premise corrected across seven files. No beat, title, turn, midpoint, climax, irreversible decision, bracket or stage moved; no chapter before ch 330 was opened. Full record in `state/continuity.md` under *Volume 6 Batch 0003 — REVIEW REPAIR*.**
 
 - **Ch 330 — *The Name Against Material* (days 701–702, the 28th and 29th).** The board in the works' gateway has
   gained a ruled space about two fingers wide at the left, because since the twenty-sixth a line cannot leave the
@@ -634,7 +636,7 @@ Batch 0001 (ch 299–313) — READING AND BEING READ* and *Volume 6 running ledg
   somewhere else.** The nine counting days she builds to find out what it cost are the chapter's last beat. *Emotion:
   the first night in five months she has gone to a thing she cannot feel.*
 
-- **Ch 333 — *The Clearing She Bought* (days 713–714, the 10th and 11th).** The low drain, finished, one box. Nothing
+- **Ch 333 — *The Clearing She Bought* (day 712, the ninth — the same day as Golden Core 6, corrected at review).** The low drain, finished, one box. Nothing
   comes up through the base and she is not disappointed about it — **she has not been able to use that instrument
   since the twenty-fourth of the last month and she cannot tell whether the hold is gone until she checks the four
   things in the order she always checks them.** The gate and the yard do not move: eight holds bought her a
@@ -703,8 +705,8 @@ Batch 0001 (ch 299–313) — READING AND BEING READ* and *Volume 6 running ledg
   of those is about him. *Emotion: a gift she did not ask for and cannot spend.*
 
 - **Ch 340 — *The Book On The Thirtieth* (days 732–733, the 29th and 30th).** The tray on the bench and the cord going
-  round it; **three trays since she walked out past the mill and one every month for as long as she clears a listed
-  thing.** She asks where her material goes and is told the truth in four sentences: *a day ends and a material does
+  round it; **four trays since she walked out past the mill and one every month for as long as she clears a listed
+  thing** (four, corrected at review — the chapter enumerated three and then corded a fourth). She asks where her material goes and is told the truth in four sentences: *a day ends and a material does
   not; this is the book that shuts and that one has been open since before I came and will be open when I am gone;
   copies of yours go in this one, by hand, at the end of every month.* **The book is open on the counter with six
   men at their cups and she does not look at her own page**, which costs her something and is the right cost.
@@ -727,7 +729,7 @@ Batch 0001 (ch 299–313) — READING AND BEING READ* and *Volume 6 running ledg
   *Emotion: the flat recognition that the stage cost exactly what it always costs, and there is still nobody in the
   world she can tell.*
 
-- **Ch 343 — *Five And Not Four* (undated, after ch 342).** The gate arithmetic, done on a gate post. **One and a
+- **Ch 343 — *Five And Not Four* (days 750–755, the 17th to the 22nd — corrected at review; the first record said undated).** The gate arithmetic, done on a gate post. **One and a
   half a day is not bread**: it buys bread and about a third of what was left over on two days in seven, and a third
   of a sack of clay is three coppers — so the fire she was given for nothing has turned an exactly balanced
   arrangement into one that does not pay. **The day she lost:** the last eighteen inches of the low side of a
@@ -737,7 +739,7 @@ Batch 0001 (ch 299–313) — READING AND BEING READ* and *Volume 6 running ledg
   it at length. On the walk back she wants the board to put up a line her hand cannot do, and there will not be one.
   *Emotion: arithmetic, and the first angry sentence she has said out loud since the gate.*
 
-- **Ch 344 — *The Board Is For That* (undated; a thirtieth after ch 342) — THE BOX CIRCUIT IS BROKEN.** The room with
+- **Ch 344 — *The Board Is For That* (days 763–764, the 30th and then the 1st of the month after it — corrected at review; the first record said undated) — THE BOX CIRCUIT IS BROKEN.** The room with
   the counter, the second hour, the book open with a stone on it. **She reads her own column for the first time** —
   five months and four gaps, one of them four fingers wide where a bank came in on her under a field. And at the
   foot of it, ruled under the thirtieth, **two lines with nothing at the other end of the rule**: the materials
@@ -750,7 +752,7 @@ Batch 0001 (ch 299–313) — READING AND BEING READ* and *Volume 6 running ledg
   because that is what the board is for.** *Emotion: none. Nothing in the chapter is a decision and the chapter
   knows it.*
 
-- **Ch 345 — *It Does Not Close Clean* (undated; the tenth day after ch 344) — the batch's last chapter.** The strip
+- **Ch 345 — *It Does Not Close Clean* (day 773, the tenth, ten days after the cart that carried the strip down on the first — corrected at review; the first record said undated) — the batch's last chapter.** The strip
   on the board **is not lying flat**: it has a crease a third of the way down instead of in the middle and it stands
   out past the edge of the board by the width of a finger, and the keeper explains, correctly, that a strip is
   folded in two in the middle when the thing it is a strip of has been shut. **From that hour nothing goes up that

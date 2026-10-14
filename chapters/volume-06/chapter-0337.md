@@ -66,13 +66,13 @@ She read the third line of it four times and then she put it down on the boards 
 
 She had the strip flat under her hand and the fire behind her at a third, and she gave him the price the way she had given it to him every time for four years, in the ordinary voice, before the word.
 
-“There is one thing left in you that an office cannot put a name to,” she said, “and you have been standing behind it for nine days, since the seventeenth of a month five months back. You have been readable since then and you have not been addressable. Readable means they can find you. Addressable means they can send for you.”
+“There is one thing left in you that an office cannot put a name to,” she said, “and you have been standing behind it for five months, since the seventeenth of a month five months back. You have been readable since then and you have not been addressable. Readable means they can find you. Addressable means they can send for you.”
 
 Then she shut up and let him have the rest of it, and he took about a minute and said it once.
 
 “Then it goes when I am held, and I will not be nowhere afterwards. That is the whole of the price and there is nothing else in me they can write. What you get for it is the fire: it holds without you, and you never have to be at a shed at the fourth hour again for as long as you are walking. I have wanted that since the second month and I have never had a way to buy it and I am not going to pretend to you that I am buying it for anything else.”
 
-She had known the price. She had known it for nine days and had not wanted it and had not said no, and there was no part of her that was going to say no.
+She had known the price. She had known it for five months and had not wanted it and had not said no, and there was no part of her that was going to say no.
 
 He did not say one word about her hours or her column or the eight hundred jin or the brother or the four fingers, and she noticed that, and it was the first time in four years he had wanted something that was only for her.
 

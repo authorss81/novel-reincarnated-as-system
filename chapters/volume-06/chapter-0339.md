@@ -24,7 +24,7 @@ There was nothing in it that she had done and no hand anywhere near it.
 
 She put her palm flat on the brick and left it there for about as long as it takes to write a date.
 
-Her hand could not tell her. That had been true since the first of a month and it was true now: the brick was hot and her palm was warm and there was no difference between the two of them anywhere in her, and the instrument she had used for four years to find out whether a thing was safe to pick up had been gone from her hands for over three weeks.
+Her hand could not tell her. That had been true since the first of a month and it was true now: the brick was hot and her palm was warm and there was no difference between the two of them anywhere in her, and the instrument she had used for four years to find out whether a thing was safe to pick up had been gone from her hands for close on eight weeks.
 
 So she did the only thing there was.
 
@@ -34,7 +34,7 @@ She took her hand off the brick and put the back of her wrist against it instead
 
 A ring with a woman in the arrangement holds while she is standing there.
 
-She had known that since the eighth of the first month of the last month and had known it in the specific way she knew things, which was by putting a hand on a thing every day for five months and finding out.
+She had known that since the eighth of a month and had known it in the specific way she knew things, which was by putting a hand on a thing every day for five months and finding out.
 
 So she tested it, in daylight, over two days, the only way a person can test a thing like that.
 

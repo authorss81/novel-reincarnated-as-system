@@ -80,7 +80,7 @@ He stopped.
 
 He put the paste pot down on the ground at the foot of the ladder.
 
-“There is a strip in the bundle behind me,” he said, “and it came down with the cart this morning, and it is not a reading.”
+“There is a strip in the bundle behind me,” he said, “and it came down with the cart on the first, and it is not a reading.”
 
 ## The Thing That Came Down
 
