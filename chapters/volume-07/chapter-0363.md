@@ -14,6 +14,10 @@ He looked down at the strip and then at her.
 
 She stood at the bottom of it with the stove behind her and the strip held out flat on her forearm with four fingers and a thumb on the bottom edge, and she had held a piece of paper like that in front of that stair twice in six months and had got an answer both times that she had not wanted.
 
+The stair was worn through in the middle and there was a nail head on the third tread that had been driven far enough to go under and come up again. About nine men worked in that room and about four of them went up that stair in a month, because a counter has nine men in front of it and a copying floor has one, and the one had been there eleven years.
+
+It came out of that in ten seconds and she did not ask it, because the answer to it was the answer she had come up the road not to get.
+
 “Read me the four lines in the middle.”
 
 He came down three steps.
@@ -34,6 +38,10 @@ He came down two more steps and put his hand flat on the sheet that was against 
 
 He turned the brush over in his hand and did not use it.
 
+The brush was worn to a stub at the ferrule and the ferrule was black the length of a hand, and there were three sheets squared up on the step behind him and a fourth held flat against his knee by two fingers of a hand that had ink standing in the creases of it.
+
+He did not look at the strip. He had looked at it once, and she had counted the once.
+
 “What is in the middle of that strip, I do not know. What I know is what is at the top of it, and the top of it I have set against another book three times since the first of this month’s book came down, and it has gone up and come down twice.”
 
 “Then somebody read it.”
@@ -48,6 +56,10 @@ The hand could read what happened. The hand could not be read by anybody in any 
 
 That was the ordinary course of it.
 
+Four steps, and she took them in her head while he was still on the third one.
+
+Somebody writes it. Somebody else reads it. Somebody writes down that it has been read. Every one of those is a room, and she had been standing outside the whole of that since she came past this mill, and the road went nine days one way and had never once come back the other.
+
 She had said no at a counter a month ago in front of about nine men, and a man with a pen had written it into the only book on nine days of road that shuts, and she had understood at the time that from that hour the country past the line had to deal with her where she stood or not at all.
 
 She had understood that and she had not understood what it was going to be.
@@ -60,9 +72,11 @@ He went back up the steps and she went and stood at the counter instead, because
 
 He was doing the ordinary work of a man who keeps a book that shuts, and the book was shut, which it had not been for two months.
 
+There was a fire in the stove with nothing standing on it, and a stool at the end of the counter with nothing sitting on it, and the room smelled of wet wool and ink the way the whole of that building smelled, and she stood in the middle of it and understood that she was the only thing in it that had come up a road to be in it.
+
 “You have not come up this month,” he said.
 
-“I have. I have been up there for about ten minutes.”
+“I have. I have been up there for ten minutes.”
 
 He looked at the top step and then at her.
 
@@ -91,6 +105,8 @@ He said it the way a man says the price of a thing he has been selling for a lon
 “And then it is read,” he said. “That is the part that is not mine. I keep the book and I write down what people say in it and I tie the cord and I put it on the cart. What happens to it after the cart turns at the elms is not in this building and I do not ask, because a man behind a counter who asks what is done with a tray after it has gone has found out that it matters to him.”
 
 She stood there with the counter between them and understood the whole of it standing up, in about a minute, the way she understood everything on that ground: by the shape of it.
+
+She had come three miles up a road with a strip in her coat to get four lines read, and she had got the ordinary course of the whole thing instead, and it had cost her the only question she was allowed one of in a month.
 
 The strip against her ribs was not a letter. It was not an order and it was not a request and it was not a person.
 

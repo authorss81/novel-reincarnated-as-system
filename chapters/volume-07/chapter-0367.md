@@ -1,6 +1,6 @@
-# What Reading Is Worth
+# It Comes Back Full
 
-The board had eleven lines on it on the eleventh of a month at about the ninth hour and she read them standing in the gateway from the bottom up, the way a woman reads what is left on a shelf, and it took her about four minutes and she had not had to be told that the turn was the turn.
+The board had eleven lines on it on the eleventh of a month at the ninth hour and she read them standing in the gateway from the bottom up, the way a woman reads what is left on a shelf, and it took her about four minutes and she had not had to be told that the turn was the turn.
 
 A dressed sill at a yard on the made road east. Two hundred and something of it, at the weight.
 
@@ -12,6 +12,10 @@ Eleven lines. She read the eleventh and went back up and read the first one agai
 
 Not one of them said a length.
 
+She had a way of reading a board and it was not the way the man behind the list read it. He went along a line and took the whole of it. She went up a column, because a column is one job and one place and one day, and if eleven lines run into the same column then one set of hands is standing behind all eleven of them.
+
+Which was how she knew, before she had finished counting, that not one of the eleven was going to have a place on it for her.
+
 ## The Rule She Already Had
 
 The man who kept the list had told her in that gateway about a fortnight ago, on the twenty-eighth of a month, in about a minute, and he had told her the whole of it and had been right about it.
@@ -19,6 +23,10 @@ The man who kept the list had told her in that gateway about a fortnight ago, on
 A board measures work one of two ways. It measures it by length, which is a thing you can do on your own with a bar in one hand and four fingers on the other. Or it measures it by weight, which is what comes out of the ground in pieces rather than in length, and weight is carried with a bar and a hand, and it is two hands.
 
 The season had turned into stone. Eleven lines, and every one of them dressed stone going east to yards she had never been to, and every one of them priced by what it weighed and paid in by the ton.
+
+A dressed sill is cut and squared and it weighs what a dressed sill weighs. It is two men and a bar and a cart, and the bar is the reason a man cannot hold one piece in an arm and walk with it.
+
+She had held a dressed piece once, in a yard, for two minutes, with her right arm open the whole of it, and she had been eleven years old when she did that.
 
 Every line on that board was a line her right hand could not take, and she had known there would not be one since the twenty-third of a month on open ground a mile and a quarter west of the mill with a bar lying on the grass and not a living thing within half a mile.
 
@@ -32,9 +40,13 @@ And even if she had stood there, a length line is four days and it pays by the l
 
 So she stood in the gateway and did not ask, and the man behind the list did not offer, and the board was full on the eleventh of a month for the first time in the seven months she had been walking three miles to look at it.
 
+She had asked twice in six months and both asks had gone into a book, and she was eighteen, and there was a man with a rag in his hand about four feet off.
+
+The not-asking came out of her before she had decided on it, the same way the asking had, twice.
+
 ## The Thing That Happened In The Gateway
 
-A man came in from the made road east at about the tenth hour and she knew him by his coat, because the sleeves were sewn down at the wrist, and he had taken a length line off that board about three weeks earlier with a slip in his hand.
+A man came in from the made road east short of the tenth hour and she knew him by his coat, because the sleeves were sewn down at the wrist, and he had taken a length line off that board about three weeks earlier with a slip in his hand.
 
 The man who kept the list did not write him a slip this time.
 
@@ -82,11 +94,17 @@ The board was full and she was not in it, and she could take no line on it, and 
 
 And no office on nine days of road will pay for that.
 
-The counter pays for a column of hours. The gate pays for a reach. The board pays for a length or a ton. And the one thing she can do that nothing in those three places is built to take money for is the one thing that has kept getting her entered into books since the twenty-sixth of a month about six months back.
+The counter pays for a column of hours. The gate pays for a reach. The board pays for a length or a ton. And the one thing she can do that nothing in those three places is built to take money for is the one thing that has kept getting her entered into books since the twenty-sixth of a month six months back.
 
 ## The Anger
 
 She was angry at him in the gateway for about two minutes and she did not say one word, and then she walked three miles west with the anger going the whole way, and by the ditch she had worked out that he was right.
+
+The anger was not at him. That was the part that took the three miles.
+
+The anger was at a board that had been bare for seven weeks and had filled up in a night with eleven lines and a ruled space at the left with her name in it and nothing running into it.
+
+She had wanted it full. She had said so out loud to the boards on the twenty-eighth. And it had filled up the way she had asked for, and every line on it was a thing with a man’s whole body behind it.
 
 He was right about all of it. A board has one man who reads it and the reading is not a trade. A yard takes the men standing at the wall. A length line goes to whoever is there and she is not going to be there in front of nine men.
 
@@ -94,10 +112,12 @@ Everything on nine days of road that had ever touched her had been right.
 
 That was not the new thing. The new thing was that she had narrowed, and she had narrowed on purpose, and she was eighteen and the narrowing had taken from her everything except the thing that ground would not buy.
 
-She got to the gate at about the seventh hour and got a fifth of a reach out of it and got one copper and put it in the fold in the inside of the door frame, and the ring in the corner of the shed came up at the low end about an hour later and stood there nine feet high and did not need her.
+She got to the gate at the seventh hour and got a fifth of a reach out of it and got one copper and put it in the fold in the inside of the door frame, and the ring in the corner of the shed came up at the low end an hour later and stood there nine feet high and did not need her.
 
 That night she wrote down, with the flat of her second finger on the boards, the whole of what she could do.
 
 She could dig a reach and open a fifth of it and get one copper. She could cut by length. She could read.
 
 She put the flat of her second finger on the third line of it and there was nothing at all she could put against the third line.
+
+Two lines with a copper against them and one line with nothing on it at all, and she had been eighteen for seven months, and the whole of what she had made in six months was on that board and it was the third one.

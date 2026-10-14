@@ -917,7 +917,8 @@ rather than a hope.**
 
 **Recorded at the Volume 7 Batch 0001 drafting phase, ch 374, day 899. Full record in `state/continuity.md` under
 ***Established facts, Volume 7 Batch 0001 (ch 361–374) — ROOMS BIGGER THAN SHE IS*** and
-***Volume 7 running ledger — at the last page of Volume 7 Batch 0001, day 899***.**
+***Volume 7 running ledger — at the last page of Volume 7 Batch 0001, day 899***, and, for what the review changed
+on the page, ***Volume 7 Batch 0001 — REVIEW REPAIR***.**
 
 ### New in this batch, and open
 

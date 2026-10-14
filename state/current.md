@@ -1,6 +1,6 @@
 # Current State
 
-**As of:** **VOLUME 7 BATCH 0001 IS ON THE PAGE — ch 361–374, fourteen chapters, 23,101 words of body prose, day 849 to day 899, with Nascent Soul 2 taken at ch 371 on day 886 carrying bracket 1 of Volume 7's six in sixty. VOLUME 6 IS CLOSED AND AUDITED — CH 299–360 ON THE PAGE.** VOLUME 1 CLOSED. VOLUME 2 CLOSED AND AUDITED. VOLUME 3 CLOSED AND AUDITED — CH 1–178 ON THE PAGE. VOLUME 4 CLOSED AND AUDITED — CH 179–238 ON THE PAGE. VOLUME 5 CLOSED AND AUDITED — CH 239–298 ON THE PAGE. ALL FOUR VOLUME 6 BATCHES WERE WRITTEN AND REPAIRED, AND THE CLOSE WAS RUN LINE BY LINE AGAINST `outline/volume-06.md` AND THEN REVIEWED AND REPAIRED AGAIN. `outline/volume-07.md` — *Stronger Things*, ch 361–420 — exists and is the authority. **THE NEXT PHASE IS THE VOLUME 7 BATCH 0002 DRAFTING PHASE, against `workspace/volume-07-batch-0002/PROMPT.md`. It writes ch 375–389.**
+**As of:** **VOLUME 7 BATCH 0001 IS ON THE PAGE AND REPAIRED — ch 361–374, fourteen chapters, 27,114 words of body prose, day 849 to day 899, with Nascent Soul 2 taken at ch 371 on day 886 carrying bracket 1 of Volume 7's six in sixty. VOLUME 6 IS CLOSED AND AUDITED — CH 299–360 ON THE PAGE.** VOLUME 1 CLOSED. VOLUME 2 CLOSED AND AUDITED. VOLUME 3 CLOSED AND AUDITED — CH 1–178 ON THE PAGE. VOLUME 4 CLOSED AND AUDITED — CH 179–238 ON THE PAGE. VOLUME 5 CLOSED AND AUDITED — CH 239–298 ON THE PAGE. ALL FOUR VOLUME 6 BATCHES WERE WRITTEN AND REPAIRED, AND THE CLOSE WAS RUN LINE BY LINE AGAINST `outline/volume-06.md` AND THEN REVIEWED AND REPAIRED AGAIN. `outline/volume-07.md` — *Stronger Things*, ch 361–420 — exists and is the authority. **THE NEXT PHASE IS THE VOLUME 7 BATCH 0002 DRAFTING PHASE, against `workspace/volume-07-batch-0002/PROMPT.md`. It writes ch 375–389.**
 
 ## How to read this file
 
@@ -199,14 +199,21 @@ employment, with no wages, a full board she cannot take a line off, and a furnac
 record in `state/continuity.md` under
 ***Established facts, Volume 7 Batch 0001 (ch 361–374) — ROOMS BIGGER THAN SHE IS***,
 ***Volume 7 running ledger — at the last page of Volume 7 Batch 0001, day 899*** and
-***Construction budget — Volume 7 Batch 0001 (ch 361–374), measured by grep, not promised***.
+***Construction budget — Volume 7 Batch 0001 (ch 361–374), measured by grep, not promised*** and
+***Volume 7 Batch 0001 — REVIEW REPAIR***.
 
-**VOLUME 7 BATCH 0001 IS ON THE PAGE — ch 361–374, fourteen chapters, 23,101 words of body prose, average ~1,650,
+**VOLUME 7 BATCH 0001 IS ON THE PAGE AND REPAIRED — ch 361–374, fourteen chapters, 27,114 words of body prose, average ~1,937,
 day 849 to day 899.** Drafted against `outline/volume-07.md` and against
 `workspace/volume-07-batch-0001/PROMPT.md`, which is that batch's card. **The prompt's corrected handoff was right and
 the page followed it: the batch opens on day 849, the twenty-sixth, the day after ch 360 closed — not on the stage
-day and not on the day the strip came.** Next: **Volume 7 Batch 0002**, ch 375–389, against
-`workspace/volume-07-batch-0002/PROMPT.md`.
+day and not on the day the strip came.** **Reviewed after the batch was saved and repaired on the page: the money at ch 374 did not add up
+and now reads thirteen in, one trip west at eight, five in the fold, with the sum said out loud; every chapter was
+brought inside the 1,800–2,700 guide (23,101 → 27,114); `about` came down from 312 to 197; ten recycled paragraph
+openings were recast; five of the six *What* titles were renamed; and ch 374's re-voicing of ch 371's cost line — a
+breach of the batch prompt's own rule — was cut so the chapter pays the cost instead of saying it. No card, no day,
+no beat and no stage moved.** Next: **Volume 7 Batch 0002**, ch 375–389, against
+`workspace/volume-07-batch-0002/PROMPT.md`, whose construction budget has been given a measured row for `about…`, a
+separate column for ordinary durations against named days, and the fixed price table for that ground.
 
 - **Ning Yan — NASCENT SOUL 2, day 886, the third of a month, taken IN THE OPEN AT THE SEVENTH HOUR WITH NINE MEN ON
   A BANK ABOUT SIXTY FEET LONG AND TWO OF THEM NINE FEET OFF HER.** The bracket at ch 371 is

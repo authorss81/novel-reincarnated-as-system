@@ -48,8 +48,32 @@ to 346–360 and then to 330–345 only if the verified context budget safely al
 twice**, as a deliberate beat and not as written matter in a hand. It is Volume 6's alone, it is paid on the page
 around it, and it is not available as a precedent for anything in ch 375–389.
 
-**Batch 0001 is closed and no chapter in ch 361–374 is open.** If a chapter in that range contradicts this prompt, the
-chapter wins and the prompt is wrong; record it and do not repair the chapter.
+**Batch 0001 is closed and was reviewed and repaired after it was saved; the repair is in `state/continuity.md` under
+**Volume 7 Batch 0001 — REVIEW REPAIR**, and it changed no card and no day. If a chapter in that range contradicts this
+prompt, the chapter wins and the prompt is wrong; record it and do not repair the chapter.
+
+### Two things the repair found that are rules for this batch, not notes
+
+**One. The prices on that ground are fixed and a reader can check them. Carry the table, not an impression.**
+
+| Thing | Price, fixed in Batch 0001 | Where it is fixed on the page |
+| --- | --- | --- |
+| A reach at the gate | five coppers; **a fifth of a reach is one copper a day** | ch 361, ch 366, ch 372 |
+| Bread | **a loaf is two coppers; four loaves is eight; a trip to the store is bread for five days at eight** | ch 362 (the storekeeper's own mouth), ch 366, ch 372 |
+| Clay | **a third of a sack is three coppers, so a fifth of a sack is one** | ch 362, ch 372 |
+| The yard at the turn | **nothing in money. A cup of something hot, three days in seven, and no name of hers anywhere in it** | ch 368, ch 374 |
+| The board at the works | **every line measured by weight or by length; none of them by voice** | ch 367 |
+
+**The sheet she finished the last batch on says thirteen coppers in, one trip west at eight, and five in the fold, and
+she says that sum out loud so the reader can do it with her.** Any new figure in ch 375–389 has to come out of that
+table and not out of a fresh guess, **and any list of people has to count: Batch 0001 had a list of six with seven
+slots in it and the sum said five.**
+
+**Two. A principle is named once and never voiced again, including by her.** *A stage cannot be built by one pair of
+hands* was named at ch 371 and **ch 374 was quoting it four chapters later, which the batch prompt had already
+forbidden**. It is spent. **If Batch 0002 needs the cost to land again, pay it — she tries something and it does not
+work, a man is standing in the room and the fire still will not come up — and do not write the sentence that says it.**
+The same applies to the plain-part lines about her age and her hands: **carry them, do not restate them.**
 
 ## Batch goal (fixed, card it, do not re-plan)
 
@@ -196,7 +220,10 @@ favour.**
   events.
 - Chapter markdown: title heading, optional section headings, plain paragraphs, scarce bold or italic. **No
   blockquotes, no code fences, no tables, no horizontal rules.** Two to four sentences a paragraph; break over about
-  90 words; never over about 120. Roughly 1,800–2,700 words per chapter, floor 1,300.
+  90 words; never over about 120. **Roughly 1,800–2,700 words per chapter and every chapter inside it, floor 1,300 —
+  per chapter, not on the average.** Batch 0001 finished at an average of 1,650 with twelve of fourteen below the floor,
+  and expanding it afterwards cost far more than building it in. **Build the scene out to the card's length while
+  drafting; do not stop the chapter at the card's edge.**
 - **Close every speech** — `text.count('“') == text.count('”')` in every file — **and use curly apostrophes.**
 - **Titles are names**, three to twelve words, under about ninety characters, **unique against all 374 existing
   headings and against each other.** No weather, no clock time, no date, no age, nothing restating the scene beside
@@ -221,16 +248,18 @@ flipped.**
 | Bold · italic | **0 / 0** | **0 / 0.** Scarce italic at most, and no markup as a substitute for a sentence |
 | Blockquote · code fence · table · horizontal rule | **0 / 0 / 0 / 0** | **0 each** |
 | All-caps standalone lines | **0** | **0.** Written matter is sentence case inside curly quotation marks, carried by the hand it is in and named in the sentence around it |
+| **`about…` as a hedge** | **197 across 27,114 words — one in every 138. It stood at 312 in 23,653 before the repair: one in every 76, and climbing through the batch.** `at about the [hour]` alone stood at 61 and is now 15 | **Under 240 across fifteen chapters, and no chapter over 22.** A hedge is hers and is not banned; a tic is. **Write the true number into the continuity block whatever it is, and never leave this row unmeasured — that is how 312 got to stand unchallenged for a whole batch** |
 | Straight quotes / straight apostrophes | **0 / 0**; ten files swept | **0 / 0**; every speech closed in all fifteen files |
 | *Nobody asked · nobody was thanked · there is no form · there is no column · the record remained · nobody knew · nobody said anything* | **0 as phrases** | **0 as phrases** |
-| ***Nobody* as a bare intensifier, the wider family** | **6 across 14 chapters — nobody 2 · no one 0 · not one 4.** Volume 6's was 142 across 62 | **Under 16 across fifteen chapters**, measured against those three. Write the true number into the continuity block whatever it is |
+| ***Nobody* as a bare intensifier, the wider family** | **8 across 14 chapters — nobody 2 · no one 0 · not one 6.** Volume 6's was 142 across 62 | **Under 16 across fifteen chapters**, measured against those three. Write the true number into the continuity block whatever it is |
 | *About four seconds* · *eleven weeks* | **0 · 0** | **0 · 0** |
 | The Yuan tag — *He said one thing that night and it was present tense and it bought nothing* | **0 verbatim, and no lead-in of any shape** | **0 verbatim, and no lead-in of any shape** |
 | *Under her, …:* as a one-breath speech lead-in | **0** | **0** |
-| *About as long as it takes to count eleven*, as a declaration | **0** | **0 as a declaration** |
+| *As long as it takes to …*, as a measure | **0 as the retired *count eleven*. Three remain with three different objects; *count nine* is used once, at ch 371** | **At most three across fifteen chapters, with three different objects.** *Count nine* is spent at ch 371 and is **not** available again in either batch |
 | *His eyes widened · he couldn't believe it · suddenly · little did he know* | **0** | **0** |
 | The surface answer, paid once at ch 267 | **0** | **0** |
-| Named weekdays / calendar months / weeks | **0 / 0 / 0** | **0 / 0 / 0** |
+| Named weekdays / calendar months / **named** weeks | **0 / 0 / 0** | **0 / 0 / 0** |
+| Ordinary durations, measured separately so the 0/0/0 above cannot hide them | **16** — *a week's bread* ×2, *twice a week*, *a week later*, *two weeks back*, *three weeks*, *six weeks*, *a fortnight* among them. **A duration is not a name** | **Counted and written down whatever it is, in a column of its own.** Reporting 0/0/0 without one is the failure Batch 0001's budget made |
 | Harem, romance | **None** | **None** |
 | `reconciled` · `plate` · `licence` · `license` · `clearance` · `countersignature` · `kiln-born` · `MEMBER ABSENT` · `Ledger` · `tribulation` · `Feng` · `Ning Wu` · `Anchor` · `Sisterhood` · `Scribe` · `bargain` · `Lung` · `appointment` | **0 on the page, every one, measured** | **0**, every one, measured, on the same word-boundary grep |
 | `send for` / `sent for` / `sending` | **1 / 0 / 1** | **Counted and written down whatever it is.** Volume 7 opens being sent for at ch 402 and these strings will rise |

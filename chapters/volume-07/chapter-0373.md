@@ -4,7 +4,11 @@ She carried the clay out on the ninth of a month.
 
 Half a box is about nine handfuls and she had put four of them out of the corner by the fourth hour of that morning, and she carried them to the yard four miles east in the barrow because a barrow is the only thing on that ground that can take nine handfuls and a woman who cannot lift a dressed sill.
 
-The man with the rule in his hand looked at what was in it and then at her.
+Four miles up a made road with a wheel that was not worth the name, at the pace of a woman pushing a wet load, which is the pace of a gate and not the pace of a person with a bar.
+
+It came back with the clay still in it and the handles worn warm and nothing on it at all that she could have sold.
+
+He looked at what was in the barrow and then at her.
 
 “Where did that come out.”
 
@@ -20,11 +24,11 @@ He put the tip of the rule into it and turned it over about half of it and then 
 
 She took it back down the made road.
 
-That was the whole of it and he was right about all of it, and she had known that he would be before she got there, and she had gone four miles east anyway because half a box of clay in the corner of a shed she cannot fire anything in is a thing that does not stay put in a person’s head.
+He was right about all of it, and she had known that he would be before she got there, and she had gone four miles east anyway because half a box of clay in the corner of a shed she cannot fire anything in is a thing that does not stay put in a person’s head.
 
 ## The Tenth, The Second Hour
 
-She went up the mill road at the second hour on the tenth with her one question a month in her, and it had been sitting in her since the third of a month when the fire had not come up.
+Up the mill road at the second hour on the tenth, and the question she was carrying up it had been sitting in her since the third of a month, when the fire had not come up.
 
 She had not got as far as the stair.
 
@@ -46,6 +50,8 @@ It had two columns on it, ruled, with a margin at the left, and the left-hand co
 
 That was hers. She could read it from four feet.
 
+She had got as far as the word above the hours and the season at the end of it and had never once been able to go on past that, because past that was the hand, and the hand was the other column, and the other column had been there four months and she had looked at it four times without being able to tell a letter of it from a mark in the paper.
+
 The right-hand column was a different thing and it was in the fine hand, and it had lines on it under the days, and she could not read one word of it and never had.
 
 “Last month,” he said, “there were four lines at the foot of that column under the days. I set this one against the other book on the sixth and I copied your column out into it the way I do every month, and I read the two of them against each other because that is what the cross-reference is.”
@@ -66,7 +72,7 @@ Two lines. She could see two lines. She could not read either of them and she co
 
 That was the whole of what he said.
 
-She stood at the bottom of that stair with the stove at her back and about nine men at their cups and looked at two lines in a hand she had never once been able to read a letter of.
+At the bottom of that stair with the stove at her back and nine men at their cups, she looked at two lines in a hand she had never once been able to read a letter of.
 
 And she worked out, standing there, what the two of them were.
 
@@ -90,7 +96,7 @@ She is eighteen years old and she cannot read the hand.
 
 For six months the only thing anybody on that ground could tell her about what was written about her was the shape of it: how many lines, how wide, how many figures, whether there was a rule under the last of them.
 
-She is a person two offices will vouch for, and she has been since the twenty-sixth of a month about six months back, out loud, in daylight, at a bench in a gateway, and she has never once been able to read what she has been vouched for.
+She is a person two offices will vouch for, and she has been since the twenty-sixth of a month six months back, out loud, in daylight, at a bench in a gateway, and she has never once been able to read what she has been vouched for.
 
 And on the tenth of a month a man with a brush told her that two of them had been taken off, in a hand she cannot read, about nine days of road east of a stair she has never gone up, and that they had been taken off because something about her had gone east on the first of a month at a quarter past the sixth hour.
 
@@ -98,7 +104,7 @@ And on the tenth of a month a man with a brush told her that two of them had bee
 
 She did not ask.
 
-She had one question a month in her and she had not spent it, and the question she had brought up the mill road that morning was about a fire, and there was a man standing in front of her on a stair who had been eleven years on that floor and had told her something he had been waiting two days to say.
+She had not spent the question, and the question she had brought up the mill road that morning was about a fire, and there was a man standing in front of her on a stair who had been eleven years on that floor and had told her something he had been waiting two days to say.
 
 And she stood there and worked out that the question was the fire and the thing that had happened was the two lines, and that a man with a brush had offered her the thing that had happened for nothing at all, twice now, and had never once offered her the thing she came for.
 
@@ -123,3 +129,7 @@ That had gone four hundred yards further than she had asked for it to. Then it w
 She was walking down a mill road with a bar over her shoulder and she had spent six months being entered into rooms she could not reach, and this was the first time in six months that something had come out of one of them toward her.
 
 It had come back as less.
+
+Less, and in the wrong hand, and nine days of road east of a stair she had never gone up, and she had stood in a gateway and been handed the number by a man who had waited two days to hand it over because that is the sort of careful he was.
+
+She walked down the mill road with a bar over her shoulder and the two lines going round in her head, and going round is not the same thing as reading, and she knew the difference better than anybody on nine days of road.

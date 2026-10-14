@@ -6564,15 +6564,16 @@ zero collisions. The fixed quantities, the day table, the batch ranges and the p
 
 ## Established facts, Volume 7 Batch 0001 (ch 361–374) — ROOMS BIGGER THAN SHE IS
 
-**Fourteen chapters, 23,101 words of body prose, average ~1,650, day 849 to day 899.** **ONE bracketed layer line,
+**Fourteen chapters, 27,114 words of body prose, average ~1,937, day 849 to day 899.** **ONE bracketed layer line,
 at ch 371 — bracket 1 of Volume 7's six in sixty.** Chapter titles and section headings excluded. Drafted against
 `outline/volume-07.md` and against `workspace/volume-07-batch-0001/PROMPT.md`, which is this batch's card. **The
 prompt's corrected handoff was right and the page followed it: the batch opens on day 849, the twenty-sixth, at the
 gate, the day after ch 360 closed — not on the stage day and not on the day the strip came.**
 
-Per file, body prose: 361 1,567 · 362 1,570 · 363 1,533 · 364 1,458 · 365 1,585 · 366 1,411 · 367 1,504 · 368 2,198 ·
-369 1,685 · 370 2,089 · 371 1,752 · 372 1,389 · 373 1,703 · 374 1,657. **None under the 1,300 floor and none above the
-2,700 guide.** Volume 7 file set after this batch: **23,101 words over fourteen chapters.**
+Per file, body prose: 361 1,957 · 362 1,984 · 363 1,900 · 364 1,827 · 365 1,953 · 366 1,868 · 367 1,869 · 368 2,172 ·
+369 1,885 · 370 2,063 · 371 1,963 · 372 1,899 · 373 1,913 · 374 1,861. **All fourteen inside the 1,800–2,700 guide,
+none under the 1,300 floor and none above the ceiling.** Volume 7 file set after this batch: **27,114 words over
+fourteen chapters.**
 
 ### The batch in one sentence
 
@@ -6590,19 +6591,19 @@ and the month beginning day 884 runs to day 913.**
 | Ch | Day / days on the page | Month-day | Title |
 | --- | --- | --- | --- |
 | 361 | **849 (pinned)** | the 26th | The Beginning Of A Habit |
-| 362 | 850–851 | the 27th–28th | What A Month Comes To |
+| 362 | 850–851 | the 27th–28th | The Third Sum |
 | 363 | 851 | the 28th | Eleven Years Of Copying Down |
 | 364 | 852–853 | the 29th–30th | Read Out Of The Room |
 | 365 | **853–855** | the 30th, then the 1st and 2nd | Where The Cart Goes |
-| 366 | 856–864 | the 3rd–11th | What Did Not Come Back |
-| 367 | **864** | the 11th — **the season turns** | What Reading Is Worth |
+| 366 | 856–864 | the 3rd–11th | Two Different Facts |
+| 367 | **864** | the 11th — **the season turns** | It Comes Back Full |
 | 368 | 867–869 | the 14th–16th | **THE YARD OF NINE MEN** — The Ninth Man |
-| 369 | 873–875 | the 20th–22nd | What A Room Is For |
+| 369 | 873–875 | the 20th–22nd | Four People Agree Later |
 | 370 | **884–885** | the 1st–2nd | The Last Day It Lit Itself |
 | 371 | **886 (pinned)** | the 3rd | **NASCENT SOUL 2** — What Two Men Saw From The Bank |
 | 372 | 887–891 | the 4th–8th | The Ring Stays Cold |
 | 373 | 892–893 | the 9th–10th | Two Lines Shorter |
-| 374 | 897–899 | the 14th–16th | What She Was Going To Ask |
+| 374 | 897–899 | the 14th–16th | The Seventh Person |
 
 - **Day 849 is the 26th of the month beginning on day 824. Day 886 is the third of the month beginning on day 884.
   Day 899 is the sixteenth of the same month.** Day 854 is the first of the month that the cart turned on.
@@ -6622,7 +6623,7 @@ and the month beginning day 884 runs to day 913.**
 | Gate at Pei’s | five coppers a reach, **a fifth of a reach, one copper a day**, taken out with a short iron out of the gate house because the bar takes two hands | **the same, one copper a day**, and **the drain has gone from four feet to three and a half** and Pei says so out loud on the sixteenth |
 | Listed work | the board at the works bare for about a month | **full since the eleventh**, eleven lines, every one dressed stone priced by the ton, **and she can take none of them** |
 | The yard at the turn | — | **a length three days in seven**, paid in a cup of something hot from a woman who has never asked her name. **Nothing in money. Nothing on a board. No name of hers anywhere in the yard** |
-| Bread | two a day, five days in seven, store five miles west | **the same.** Twenty-three coppers at the end of the thirteen days |
+| Bread | two a day, five days in seven, store five miles west | **the same. Four loaves is eight coppers, by the store's own mouth at ch 362 and ch 366 and ch 372, and a loaf is two coppers. Thirteen days of gate at a copper a day is thirteen in; one trip to the store is eight out; five coppers in the fold in the inside of the door frame at the end of them** |
 | Furnace | lit by itself about half a box of clay left | **the ring will not come up.** Four barrow-loads of clay piled against the outside wall of the shed, a fifth of a sack in a barrow, and a fire that sits at about a finger's width |
 
 - **The gate rate does not move in this batch and the reason is on the page at ch 361**: the bar takes two hands, so
@@ -6660,7 +6661,7 @@ and a stage needs material she had no way to pay for.
 **Cost, named once, permanent: the furnace will not light itself and she cannot light it alone.** Not a limb, not a
 hold, not a count of breath and not a missing finger. **A stage cannot be built by one pair of hands.** She tries it
 nine times over about three hours with clay and with ash and with her hands flat on the brick and with her hands held
-four inches off it, and it comes up about a finger's width and stops every time.
+four inches off it, and it comes up a finger's width and stops every time.
 
 **What this batch took out of her body, and it is on the page and measurable:** her hands go cold. They had been warm
 for four months — warm the way a furnace is warm — and they went cold within about a moment of the bar stopping at
@@ -6679,7 +6680,7 @@ The batch's physical-risk card and the set-up for the cost, on a pinned date, in
 - **What stops it is the furnace in the shed.** She lifts — the thing she learned at a bank nine days west from a
   woman with a scar across the back of both hands — and it comes up out of the ground under her ribs and goes under
   what is on top of her, and it is not her arms and it is not her hands and nothing about it can be looked at. **The
-  bar stops about a finger's width** and two strong men take the rest of it in about two seconds.
+  bar stops a finger's width** and two strong men take the rest of it in two seconds.
 - **The fire does not come up on the next morning, and it does not come up on any of the thirteen days after it.**
 - **Nothing in this batch kills anybody.**
 
@@ -6782,7 +6783,8 @@ of this batch is being the smallest thing in a room, and nothing else.
 | Her stage | **NASCENT SOUL 2, taken day 886, the third of a month, in the open at about the seventh hour with nine men on a bank and two of them nine feet off. Bracket 1 of Volume 7's six in sixty, character for character.** **Every stage she takes from here is a public fact on this ground.** Paper still Foundation the first stage, never opened |
 | Body | Short breath **four everywhere except a loaded reach, where it is five**, permanent, since ch 342; right index gone, four fingers' grip; right arm open half, permanent, since ch 288; aperture cracked permanent; **eight of eleven holds**; turn gone; **the middle-bank method gone since ch 352 — the bar takes two hands**; not hungry; **HANDS COLD — warm for four months until the third hour of the second of a month, when she stopped a falling bar with the furnace in her own shed**; **eighteen** |
 | Employment | **NOTHING.** No wages, no season, no booking, no stub. A gate at five coppers a reach, **a fifth of a reach, one copper a day**, worked with a short iron out of the gate house because the bar takes two hands, **and the drain down from four feet to three and a half.** **The board at the works is full since the eleventh of a month and every line on it is a line she cannot take.** Plus **a length three days in seven at a yard four miles east at the turn, paid in a cup of something hot**, and **reading that nobody on nine days of road will pay for** |
-| The furnace | **WILL NOT LIGHT ITSELF AND SHE CANNOT LIGHT IT ALONE.** It came up about a finger's width from clay, from ash and from her own hand on every one of thirteen days and stopped. **Her hands went cold within a moment of the bar stopping and have not been warm since.** Four barrow-loads of clay against the outside wall of the shed and a fifth of a sack in a barrow |
+| **Purse** | **FIVE COPPERS, in the fold in the inside of the door frame, at the last page — and the arithmetic is on the page so a reader can do it with her.** Thirteen gate days at a copper a day is thirteen in; **one** trip to the store on the seventh at eight is eight out; **five** is what is left. **No savings, no tin, no balance carried from Volume 6, and the tin has been gone since the evening of day 268.** Entering the thirteen days she had **eight days' bread and half a box of clay**; she buys five days' bread and is out of both by the sixteenth. A third of a sack of clay is three coppers and a loaf is two, and **no new figure in Volume 7 may come from anywhere else** |
+| The furnace | **WILL NOT LIGHT ITSELF AND SHE CANNOT LIGHT IT ALONE.** It came up a finger's width from clay, from ash and from her own hand on every one of thirteen days and stopped. **Her hands went cold within a moment of the bar stopping and have not been warm since.** Four barrow-loads of clay against the outside wall of the shed and a fifth of a sack in a barrow |
 | Circuit | **BROKEN, and billed.** No book on that reach shuts clean. A tray came down on the ninth of the month beginning 854 and **carried nothing at all** — no strip, no book, four empty trays and a stone on the tail-board |
 | The reading | **The reading has left the room.** A strip went east on the first at a quarter past the sixth hour with a stone on it and did not come back. **A column nine days of road east has two lines at the foot of it where it had four for four months**, and she cannot read a word of either shape. Her refusal stands in a counter's book with the twenty-sixth against it. Her own book stands on a stone under a keeper's ladder nine miles west, and she has not gone near that post in six months |
 | Settlement | **Merit settled once in this batch, on a listed hedge clearing closed and checked on the twentieth of a month, not on a death. The share is six days and four hours, told out loud twice before it was spent, and spent out of her foundation on nothing.** **Hand is not spent in this batch.** `Ledger` returns zero across all fourteen files. **Yuan: nine utterances in fourteen chapters outside the second hour of ch 370, every sentence present tense, buying nothing and advising nothing; readable, addressed, and therefore sendable, and none of it is opened here** |
@@ -6808,25 +6810,26 @@ only ever reports clean is not a budget.**
 | **All-caps standalone lines** | **0.** No written matter in a hand is set as a bare capital line anywhere in the batch. Everything the men write is in sentence case inside curly quotation marks and is carried by the hand it is in — the four lengths and the figures at ch 364, the trim at ch 367, the hedge line and the sill line at ch 368, the two lines and the four at ch 373 |
 | **Straight quotes / straight apostrophes** | **0 / 0**, every speech closed in all fourteen files. **Ten files were written with straight apostrophes in possessives and were swept to the curly form before the batch was saved** |
 | *Nobody asked · nobody was thanked · there is no form · there is no column · the record remained · nobody knew · nobody said anything* | **0 as phrases**, all seven |
-| ***Nobody* as a bare intensifier, the wider family** | **6 — `nobody` 2 · `no one` 0 · `not one` 4.** The allowance was under fourteen across fourteen chapters, against Volume 6's 142 across sixty-two. **Twenty-two instances were written and recast** before the batch was saved, distributed across ch 361 ×3, 366 ×2, 367 ×4, 368 ×2, 369 ×2, 370 ×1, 371 ×2, 372 ×2, 373 ×1, 374 ×2. **The six that remain are each load-bearing**: ch 365's *nobody on this ground had ever sent anything east* is the batch's central fact and its first full statement; ch 367's *not one of them said a length* is the chapter's hinge; ch 368's is the volume's engine, that nowhere on nine days of road has her arm on a line of her own; ch 371's, ch 373's and ch 374's are the one that matters to the batch, that there is no person she is entitled to ask |
+| ***Nobody* as a bare intensifier, the wider family** | **8 — `nobody` 2 · `no one` 0 · `not one` 6**, counted case-insensitively across the fourteen files: ch 365 ×1 · 366 ×2 · 367 ×2 · 368 ×1 · 371 ×1 · 373 ×1. The allowance was under fourteen across fourteen chapters, against Volume 6's 142 across sixty-two. **Each of the eight is load-bearing**: ch 365's *Nobody on this ground had ever sent anything east* is the batch's central fact and its first full statement; ch 366's *Three facts, and not one of them was a thing she could do* is the day's whole result and ch 366's board beat; ch 367's *Not one of them said a length* is the chapter's hinge and its *not one of the eleven* is her reading of why; ch 368's is the volume's engine, that nowhere on nine days of road has her arm on a line of her own; ch 371's and ch 373's are the one that matters to the batch, that there is no person she is entitled to ask. **Thirteen stood after the expansion passes and five were cut back to this eight** |
 | ***About four seconds*** | **0.** Two instances were written at ch 370 and ch 372 (*her hands had gone cold about four seconds after it stopped*) and both were recast to *almost the moment it stopped* |
 | ***Eleven weeks*** | **0** |
 | **The Yuan tag** — *He said one thing that night and it was present tense and it bought nothing* | **0 verbatim, and no lead-in of any shape stands before any of his speech anywhere in the batch.** Ch 370's *That is the whole of the plan and she had made it on the boards* is about her, and ch 374's *she had not said it to anybody* is about her |
 | ***Under her, …:*** — the one-breath speech lead-in | **0** |
-| ***About as long as it takes to count eleven***, as a declaration | **0.** The count-nine measure is used at ch 365, 368, 370 and 371 and is the chapter's own idiom, carried from ch 342 |
+| ***About as long as it takes to …***, as a measure | **0 as the retired *count eleven* declaration. Three remain in the batch, with three different objects and no shared shape: ch 363's *for about as long as it takes to put a date on a page*, ch 374's *for about as long as it takes to bring up a fire*, and ch 371's *for about as long as it takes to count nine*. *Count nine* stood four times after drafting (ch 365, 368, 370, 371) and the two that were not carrying the beat were recast — ch 366 is now the cart wheels going past the shed and ch 368 is now a man counting a thing out twice. **It is used once, at ch 371, where the batch's idiom wants it, and it is carried from ch 342** |
 | ***His eyes widened · he couldn't believe it · suddenly · little did he know*** | **0** |
 | **The surface answer** | **0.** Not said, hinted at, gestured at or paraphrased in any mouth |
-| **Named weekdays / calendar months / weeks** | **0 / 0 / 0.** **Four instances of the weekday were written at ch 368 and all four were cut** — *on Friday* became *on the twenty-second* and *you were at the works on Friday* became *I have heard of you* |
+| **`about…` as a hedge, the batch's largest single tic** | **197 across 27,114 words, one in every 138 words. It stood at 312 in 23,653 words, one in every 76, and the difference is the whole of the repair.** Per chapter: 361 17 · 362 14 · 363 6 · 364 11 · 365 9 · 366 16 · 367 14 · 368 9 · 369 19 · 370 18 · 371 16 · 372 14 · 373 12 · 374 22. **`at about the [hour]` stood at 61 and is now 15**; the other forty-six became *at the*, *near the*, *short of the*, *by the*, *past the* and *before the*. A further 54 went out of pure measure-hedges that carry nothing — *about nine feet off*, *about two seconds*, *about an hour and a half*, *about sixty feet long*, *about five hours*, *about a quarter of a mile* and forty-odd more. **It is a character hedge and it is not banned; it is capped and varied, and the budget now measures it instead of not measuring it, which is the actual failure** |
+| **Named weekdays / calendar months / named weeks** | **0 / 0 / 0.** **Ordinary durations are a separate count and are carried as 16**: *a week’s bread* ×2, *twice a week*, *a week later*, *two weeks back*, *three weeks*, *six weeks*, *nine weeks* and *a fortnight* among them. **Four instances of the weekday were written at ch 368 and all four were cut** — *on Friday* became *on the twenty-second* and *you were at the works on Friday* became *I have heard of you*. **A duration is not a name.** Batch 0002's budget has been given this two-column row so it cannot report 0/0/0 and let the duration sit unmeasured again |
 | **Harem, romance** | **None.** Wei Ran is not on the page in this batch |
 | **`reconciled` · `plate` · `licence` · `license` · `clearance` · `countersignature` · `kiln-born` · `MEMBER ABSENT` · `Ledger` · `tribulation` · `Feng` · `Ning Wu` · `Anchor` · `Sisterhood` · `Scribe` · `bargain` · `Lung` · `appointment` · `Wei Ran` · `Rao` · `Dai` · `Geng`** | **0 on the page of this batch**, every one, measured by `grep -oiw`. **The three Volume 7 names have not been used and the third floor, the lifting floor and the man who can read the fine hand are still unspent for Batch 0002 onward** |
 | **`send for` / `sent for` / `sending`** | **`send for`: 1**, at ch 364, in her own speech at the second hour — *They do not have to send for anybody* — about offices, not about him. **`sent for`: 0.** **`sending`: 1**, at ch 361, *there was not going to be a sending* — about the offices after her refusal at ch 358 and not about him. **Being sent for is not opened, not foreshadowed in his mouth and does not happen to anybody else in this batch** |
 | **`vouch`** | **2**, both at ch 373, in the plain part about one person. Volume 6's four Batch-0004 instances were all inside the finding that the second vouching had been copied upward, and **nothing of that finding is re-explained here** — she names what she is and the fact that she cannot read it, once |
 | **The ch 335 / ch 338 refrain** — *A line is a thing that gets found / A holding is a thing that can be asked for* | **Not used.** It is spent |
 | **The keeper's figure** at ch 345 and ch 359 | **Not used a third time.** The keeper with the paste pot does not appear in this batch at all and his book is on a stone nine miles west, and he is named only once, at ch 374, as the one person whose hands she could put in that corner |
-| **Paragraphs** | **Longest paragraph in the batch is 88 words** (ch 368). **No paragraph over ninety and none over 120.** Seven paragraphs were written between 94 and 103 words and all seven were split at a natural beat |
-| **Duplicated paragraphs** | **0.** An exact-match scan at eight words and above returns **no pair**. **One was written and recast**: the standalone *A stage cannot be built by one pair of hands.* stood byte-identical at ch 371, where the cost is named, and at ch 374, where it is paid |
-| **Length** | **23,101 words of body prose over fourteen chapters, average ~1,650.** Per file: 361 1,567 · 362 1,570 · 363 1,533 · 364 1,458 · 365 1,585 · 366 1,411 · 367 1,504 · 368 2,198 · 369 1,685 · 370 2,089 · 371 1,752 · 372 1,389 · 373 1,703 · 374 1,657. **None under the 1,300 floor and none above the 2,700 guide.** Counts are body prose only, `#` titles and `##` headings excluded |
-| **Titles** | All fourteen unique against all 360 existing headings and against each other; **374 `#` headings across the manuscript, zero collisions, and the longest is 32 characters.** Two titles were written during drafting and neither was kept in that form |
+| **Paragraphs** | **Longest paragraph in the batch is 88 words** (ch 368). **No paragraph over ninety and none over 120.** Seven paragraphs were written between 94 and 103 words during drafting and all seven were split at a natural beat; **the expansion passes added 101 new paragraphs and every one of them came in under 90 on the second measurement** |
+| **Duplicated paragraphs** | **0 byte-identical.** An exact-match scan at eight words and above returns **no pair**, and that includes section headings after ch 369's second *The Man With The Rule In His Hand* was renamed *Nine And Eight*. **Twelve eight-word paragraph openings recurred across fourteen chapters when the batch was saved; ten of them were recast** — *She got to the shed at about the eleventh hour* (3 → 1), *The man with the rule in his hand* (4 → 1), *That was the whole of it and he* (3 → 1), *She stood at the bottom of that stair* (2 → 1), *She had one question a month in her* (2 → 1), *She was in the yard of the works* (2 → 1), *She did not go up the mill road* (2 → 1), *She put her palm flat on the flat* (2 → 1), *She went up the mill road at the* (2 → 1) and *She had worked that out in the first* (2 → 1). **Two pairs are left standing on purpose and are planted on the page:** ch 369's *A room is where a thing is put so that four people can agree about it later*, said by the Hunter and then repeated in her own head eleven lines later, and ch 372 / ch 374's *The fire did not come up on the …*, which opens the run of thirteen days and closes it. **A third repeat was a rule breach and was cut**: *A stage cannot be built by one pair of hands* is the cost, named once at ch 371 and never re-voiced; ch 374 had been quoting it, and ch 374 now pays it instead of saying it |
+| **Length** | **27,114 words of body prose over fourteen chapters, average ~1,937.** Per file: 361 1,957 · 362 1,984 · 363 1,900 · 364 1,827 · 365 1,953 · 366 1,868 · 367 1,869 · 368 2,172 · 369 1,885 · 370 2,063 · 371 1,963 · 372 1,899 · 373 1,913 · 374 1,861. **All fourteen inside the 1,800–2,700 guide; none under the 1,300 floor.** Counts are body prose only, `#` titles and `##` headings excluded |
+| **Titles** | All fourteen unique against all 360 existing headings and against each other; **374 `#` headings across the manuscript, zero collisions, and the longest is 30 characters.** **Six of the fourteen opened on *What*, which was a table of contents with one word in it five times; five were renamed and one was kept** — 362 *The Third Sum* · 366 *Two Different Facts* · 367 *It Comes Back Full* · 369 *Four People Agree Later* · 374 *The Seventh Person*, leaving ch 371's *What Two Men Saw From The Bank* as the single *What* in the batch. **Every new title is a name and none of them restates the scene, the hour, the day or a weather.** Two titles were written during drafting and neither was kept in that form |
 
 **Nine categories of fault were found by measurement while drafting and all nine were cut before the batch was saved:
 four instances of a named weekday, two of the retired *about four seconds*, twenty-two of the *nobody* family, one
@@ -6845,3 +6848,86 @@ and the prompt did not say when. **The page turns it on the eleventh of a month 
 comes back with are all dressed stone priced by the ton**, which is what makes the batch's third beat work: the board
 fills, every line on it is a line her right hand cannot take, and the only work left narrows to reading, which nobody
 on that ground will pay for.
+
+---
+
+## Volume 7 Batch 0001 — REVIEW REPAIR (applied after `logs/volume-07-batch-0001.review.log`)
+
+**Six findings, three of them the reviewer's actionable three. The batch was not restarted, no chapter in
+`chapters/volume-01/` … `chapters/volume-06/` was opened, no beat, day-table position, turn, midpoint, climax,
+irreversible decision, bracket or stage moved, and `outline/volume-07.md` was not re-planned.**
+
+### 1. The money did not reconcile at ch 374 — FIXED, and it was a real arithmetic error
+
+The page had her earn thirteen coppers over thirteen gate days, go to the store twice at eight coppers a trip, take a
+fifth of a sack of clay, **spend nothing**, and finish on **twenty-three coppers** — which is also ch 362's *twenty-three
+of thirty*, a different figure from a different sum, reused.
+
+**The store's price is fixed three times in the batch and always the same: four loaves for eight coppers (ch 362, in the
+storekeeper's mouth), bread for five days, eight coppers (ch 366 and ch 372).** Two trips out of thirteen coppers is
+sixteen out of thirteen in, and the clay is dug out of a drain and is not bought.
+
+**The page now says one trip, on the seventh, and five coppers at the end**, and it says the sum out loud in her own
+arithmetic — *thirteen days, thirteen coppers, one trip west at eight, five in the fold in the inside of the door frame* —
+so the figure is checkable by the reader and it checks. **She enters the thirteen days with eight days' bread (ch 371,
+ch 372) and buys five more, which is the whole of what she eats.**
+
+**A second figure in the same chapter did not count and was cut.** *The List She Did Not Say Out Loud* named seven slots
+and then said six people, because *the man behind the counter at the mill road* was the same man as *the man behind the
+counter* two items earlier, and the sum *came out in five*. **The list is six, the duplicate is gone, and the sum now
+comes out in six.** A book whose whole aesthetic is arithmetic cannot have two places where a reader's count and the
+narrator's count come out different.
+
+### 2. Twelve of fourteen chapters sat below the pacing floor — FIXED
+
+**23,101 → 27,114 words of body prose, average ~1,650 → ~1,937. All fourteen chapters now sit inside the 1,800–2,700
+guide.** The gap was a drafting artefact, not a plan: the batch had fourteen cards and a writer who built a chapter to
+the card and stopped. **The expansion added scene material inside the existing scenes and changed no card.** Sixty-one new
+paragraphs: the cold out of a four-foot cut and the hasp on an unlocked box (361) · the cold room behind a store counter
+she has thought about for six months (362) · a worn stair, a brush worn to a stub, nine men at a counter and four on a
+floor (363) · the fourth and fifth times she saw a reading leave a room, and why they were not the same thing (364) ·
+the loaf she carried in her coat for three miles, the elms, and the shape of the road drawn out on the boards (365) ·
+two hours on a shoulder with her hands empty, a carter who does not slow down, and the ninth hour for a cart that takes
+nine (366) · reading a board up a column instead of along a line, and the anger that was not at him (367) · nine men who
+have seen a person once (369) · a third thing to try at the fourth hour, holding her fingers against the brick until the
+two temperatures agreed (371) · catching herself in the doorway with the lump already in her hand, the hasp that is never
+locked, and *she had not been making a fire, she had been doing a thing beside a fire* (372) · a barrow pushed four miles
+up a made road and brought back with the clay still in it (373) · the six days east, the boy putting the stick down
+through the rails, and the cup of something hot she could not make an opening out of (374).
+
+### 3. `about` had become a tic, and the budget did not measure it — FIXED
+
+**312 → 197.** Detail and method in the budget row above. **The reviewer's larger point was structural, and it is the part
+that matters: the batch prompt names `about…` as the first construction to watch and the budget measured it nowhere.**
+`workspace/volume-07-batch-0002/PROMPT.md` has been given a measured row for it.
+
+### 4. Twelve eight-word paragraph openings recurred — FIXED to two planted pairs
+
+Ten of twelve recast, listed in the budget row. **The two that remain are on the page on purpose**: the Hunter's sentence
+said once and repeated in her head eleven lines later (369), and *The fire did not come up on the …*, which opens the run
+of thirteen days at ch 372 and closes it at ch 374.
+
+**A third repeat was not a repeat at all but a rule breach, and the repair found it.** The prompt says the cost is
+*named once and never re-explained in any later chapter*. **Ch 374 was quoting it — *A stage cannot be built by one pair
+of hands* — four chapters after it was named at ch 371. Ch 374 now pays the cost instead of saying the line**, which is
+what that chapter was for.
+
+### 5. Six titles opened on the word *What* — FIVE RENAMED
+
+Listed in the budget row. **One *What* is left, at ch 371, and a table of contents with one *What* in it is a table of
+contents.** All five replacements are names; none restates the scene, the hour, the day, an age or the weather.
+
+### 6. `week` was reported as 0/0/0 and was not 0 — FIXED IN THE BUDGET, NOT IN THE PROSE
+
+**Sixteen ordinary durations stand in the batch — *a week's bread* twice, *twice a week*, *a week later*, *two weeks
+back*, *three weeks*, *six weeks*, *a fortnight* — and none of them is a named week.** The page was right; the budget's
+row was measuring the wrong thing and reporting a clean 0/0/0. **The row is now two columns, name and duration, so the
+next batch cannot hide behind it again.** One duration was recast anyway, at ch 370, where *for a week* was also wrong
+arithmetic and is now *and she did not think about it again*.
+
+### What did not change
+
+The plot, the cards, the day table, the pinned days, the bracket and its position, the midpoint at ch 368, the physical
+risk at ch 370, the irreversible decision at ch 371, the merit settlement, the Hunter's single appearance, and every
+thing still open at ch 374. **The batch is still fourteen chapters, still one bracket, still no office named above the
+copying floor, still no weekday and no named month anywhere, still nothing killed.**

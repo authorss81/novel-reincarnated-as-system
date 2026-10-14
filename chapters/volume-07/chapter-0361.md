@@ -18,6 +18,12 @@ A spade is a lever for stone and clay. A bar is a lever for a dressed piece, and
 
 The iron goes in under the spade and turns the spade over, and a turn of the iron is one hand and it does not need a hand under anything.
 
+She got the four feet out in under two hours and the spoil went up the bank behind her in a line the length of the reach, because a gate is cut in the morning and filled in the evening, and a man on that field does not look at the line until the grass has come over it.
+
+The cold came up out of the cut faster than it came off the flat. That was the part of a drain that is not in any book anybody has printed, and it was why a man at a gate had told her once, early, to keep a hand moving down there and not to stand still with two hands on a bar.
+
+She had not needed telling. She could not stand still. The cold came for the inside of the hand first and it came for the right one first, and the right one was four fingers and a thumb, and it took the feeling out of it in the time it took to shift the iron four times.
+
 So the reach went at a fifth instead of a third because a bar takes two hands, and Pei was right about the price of a fifth, and the difference between one and one and a half had come out of her life without anybody having to say a sentence about it.
 
 ## The Strip
@@ -36,11 +42,17 @@ She folded it in two and put it back against the oilcloth, and the shape of it h
 
 ## The Board
 
-She walked the three miles east at about the ninth hour with the iron in her hand and left it at the gate of the works on the way out, because it was not hers and she had not asked.
+She walked the three miles east at the ninth hour with the iron in her hand and left it at the gate of the works on the way out, because it was not hers and she had not asked.
 
 The board was inside the gateway on the wall to the left of the bench, and it had been bare since the fifteenth of a month about two months back, and the man who kept the list had a cover over it and two battens across it and a key in his pocket.
 
 She had walked three miles to look at it.
+
+She stood with her back to the gatepost opposite it, because a woman standing square in front of a covered board in a gateway is a woman who wants something.
+
+The cover was newer than the wall. That was the only thing she had found on it in three weeks and she had found it on the first morning and she had told herself it was nothing, because a board that is bare still has a cover on it and a key in the pocket of the man who keeps it, and none of that has anything to do with how many lines are under it.
+
+She had put the cover and the battens and the key together in her head every second morning since, and it came out the same every time.
 
 That was the thing she noticed that day, standing in that gateway with the cover on the board and her hand on the iron she had just given back. She had walked three miles in the last seven days and she had walked three miles on the day before that and she had walked three miles on the day before that.
 
@@ -58,7 +70,7 @@ She had been refused at a counter four days before that, on the twenty-sixth of 
 
 From that hour there was not going to be a sending.
 
-She had worked that out inside about a minute and a half of walking and she had not told anybody and she was not going to tell anybody, because what there was to tell was that she had asked a room to come and get somebody and the room had put a word in a book instead.
+She had worked that out inside a minute and a half of walking and she had not told anybody and she was not going to tell anybody, because what there was to tell was that she had asked a room to come and get somebody and the room had put a word in a book instead.
 
 Nine days of road and she will not walk it. Nine days of road and nothing on it brings anybody east.
 
@@ -66,11 +78,15 @@ So the thing she had been carrying since the twenty-fifth was the shape of what 
 
 The knock does not come.
 
+She had not known she was expecting one.
+
+That was the part that cost the two days. She had put the refusal and the knock in the same place in her head and gone on living in the room where the two of them were supposed to be, and every morning for two days she had walked three miles east to a gateway to find out whether it had come, and it had not, and the walking had not got shorter.
+
 That was all. It does not come on the twenty-eighth, or on the first, or on any day after that, and the only thing that comes is the next strip about nine or ten days later, and she is standing in the gateway of a works on a bare board three miles from a gate when it does.
 
 ## What She Wanted, Out Loud
 
-She said it to the iron in her hand on the walk back west, at about the ninth hour, with nothing within a mile of her and the light going.
+She said it to the iron in her hand on the walk back west, at the ninth hour, with nothing within a mile of her and the light going.
 
 “I wanted somebody to come.”
 
@@ -80,7 +96,7 @@ And then, because she was eighteen and had been out of a bound six months and ha
 
 ## On The Road West
 
-She got to the shed at about the eleventh hour and the ring was burning nine feet away in the corner, about nine feet high, and it had come up on its own at about the second hour that morning and had not needed her at any hour of the day.
+She got to the shed at the eleventh hour and the ring was burning nine feet away in the corner and standing nine feet high, and it had come up on its own at about the second hour that morning and had not needed her at any hour of the day.
 
 She put her hand flat on the flat stone by the door out of the habit of four thousand mornings. It was cold. Her hand was warm. The two of them told her nothing.
 

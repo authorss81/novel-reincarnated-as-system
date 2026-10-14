@@ -1,8 +1,8 @@
-# What A Month Comes To
+# The Third Sum
 
 A month is thirty days and a gate pays five coppers a reach and she could open a fifth of a reach in a day and a fifth of a reach is one copper, so a month came to thirty coppers and she had known that since the twenty-third of a month about two months back and had not wanted to do it standing up.
 
-She did it standing up on the twenty-seventh, at about the seventh hour, at the bank on the low side of Pei’s field with the drain open four feet below her and the iron gone back in the gate house before dawn.
+She did it standing up on the twenty-seventh, at the seventh hour, at the bank on the low side of Pei’s field with the drain open four feet below her and the iron gone back in the gate house before dawn.
 
 Thirty coppers.
 
@@ -14,6 +14,10 @@ Seven coppers was the margin. Seven coppers was what she had ever had, in six mo
 
 She stood on the bank with the drain open under her and worked it out a second time and got the same seven, and then she worked it out a third time standing the other way up, and the third time she did not get seven.
 
+A sum she believed she did sitting down, and a sum she did not believe she did standing up with her hands empty, and the standing up was the whole of the difference between the two and it took five miles of walking to find out which one she was on.
+
+She had worked that out at eleven years old and had never once found a person on nine days of road to say it to.
+
 The third time she got nothing, because she had forgotten the strip and the cart in it and the two other pieces of paper that came off a bundle every nine or ten days, and there was no price on any of that and there was no way to get one.
 
 ## The Store
@@ -24,13 +28,21 @@ She went to the store on the twenty-seventh afternoon, five miles west, with a b
 
 “Five days,” the woman said.
 
+It was two coppers a loaf and it had been two coppers a loaf since before she came past the mill, and the woman took them out of the fold in her apron and not out of a box, which meant the woman kept her own money on her body the same way she did.
+
+She had worked that out about a month back and had never said it out loud to anybody.
+
 It was a store with a floor and a counter and a cold room behind it, and there was about nine of the same sort of things in it that there had been six months back, and the woman had kept it open through all of it and had never once put her hand flat on a cold stone and told it nothing.
 
-She carried the bread back and put it under the boards where it kept and came out at about the seventh hour and went east three miles to the works, because that is what she did now.
+There was a cold room in that store and there had been one in it the whole time she had been coming to it, and she had never been inside it, and she had thought about being inside it twice a month for six months standing at this counter with a basket in her hand.
+
+She had not said that to the woman and she was not going to, and she had thought about it on the walk home and then she had thought about bread.
+
+She carried the bread back and put it under the boards where it kept and came out at the seventh hour and went east three miles to the works, because that is what she did now.
 
 ## The Clay
 
-There was half a box against the wall of the shed and it was the shape of what she had carried in, and a box was four days of the ring, and the ring had been burning by itself since the second hour of the twenty-second of a month about four months back.
+There was half a box against the wall of the shed and it was the shape of what she had carried in, and a box was four days of the ring, and the ring had been burning by itself since the second hour of the twenty-second of a month four months back.
 
 She stood in the doorway with the bread under the boards behind her and did the third sum a fourth time.
 
@@ -48,7 +60,7 @@ She had eight holds in the left one and four fingers and a thumb on the right, a
 
 ## The Gateway, The Twenty-Eighth
 
-She went to the works at about the ninth hour with the board cover on the wall and the man who kept the list inside, and she asked him a question she had not asked in six months.
+She went to the works at the ninth hour with the board cover on the wall and the man who kept the list inside, and she asked him a question she had not asked in six months.
 
 “Is the board the only place work comes from.”
 
@@ -80,11 +92,13 @@ And when it came back full it would come back full of the same thing that had be
 
 There were nine men in that yard and none of them could not take a footing.
 
+She said it that way because it came out that way, and by the time she had it the light was off the flat and she was three miles from a gate with an iron in it and a mile and a quarter from a shed with a fire in the corner that did not need her at any hour of the day.
+
 So the board was coming back full, and every line on it was going to be a line her right hand could not take, and there was going to be no wages in it for her, and the gate was going to go on paying one copper a day, and the ring in the corner of that shed was going to eat three coppers out of every seven she had over at the end of a month.
 
 ## At The Second Hour
 
-She got to the shed at about the eleventh hour and lay down on the boards with the ring burning nine feet off and said it out loud because it was the second hour and there was not a living soul in the shed.
+She was at the shed by the eleventh hour and lay down on the boards with the ring burning nine feet off and said it out loud because it was the second hour and there was not a living soul in the shed.
 
 “Thirty coppers. Twenty-three of them spoken for before I have had a day.”
 
@@ -93,5 +107,11 @@ He took his time about it, the way he did.
 “Thirty days,” he said. “You have counted them three times and you counted the paper wrong on one of them.”
 
 She lay there in the dark and worked it out again and he was right, and it was the third sum that was wrong and not the seventh copper, and the third sum was wrong because she had left out a thing that was not money and had never been money and had a date on it.
+
+A strip, and a cart in it, and two other pieces of paper that came off a bundle every nine or ten days, and a word at the head of four lines in a hand she could not read.
+
+None of those had a price on them anywhere on nine days of road and there was no way to get one. She had been carrying them into the sum for six months and they were not a cost. They were a fact.
+
+A fact and a cost are not the same shape, and a person who adds one to the other and calls the answer a margin ends up standing on a bank doing it a fourth time in the dark.
 
 She did not say anything else that night, and neither did he, and the fire was nine feet high in the corner of a shed that no office on nine days of road had ever built, and it did not need her at any hour of any day, and she had seven coppers over at the end of a month.

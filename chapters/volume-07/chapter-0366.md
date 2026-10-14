@@ -1,8 +1,12 @@
-# What Did Not Come Back
+# Two Different Facts
 
-She was at the yard gate of the works at about the seventh hour on the third of a month with nothing in her hands, because the east cart had gone out of that yard at a quarter past the sixth hour with a strip and a stone on its tail-board and she wanted to see whether it came back in at the same hour.
+She was at the yard gate of the works at the seventh hour on the third of a month with nothing in her hands, because the east cart had gone out of that yard at a quarter past the sixth hour with a strip and a stone on its tail-board and she wanted to see whether it came back in at the same hour.
 
 It did not come back at the seventh hour. It did not come back at the eighth or the ninth.
+
+She had brought nothing with her to stand there for and had not thought about that when she left, which was unusual, and she noticed it an hour in.
+
+A person waits at a gate for a thing coming back with something to do in their hands. She had three miles of walking in her legs and four fingers and a thumb and nothing else at all, and she stood on the wrong side of the road with her arms down for two hours while nine men inside a yard put timber down.
 
 She stood at that gate from the seventh hour to about half past nine and then she went and did a fifth of a reach and got one copper and put the clay in the ring.
 
@@ -14,7 +18,11 @@ It came in empty behind it.
 
 She was at the gate post when it came and she looked at the tail-board from nine feet off and the tail-board was bare, and the timber was off, and the chains were back on the cart bed where they lived.
 
-She stood there and looked at it for about as long as it takes to count nine.
+The carter did not look at her and did not slow down and put his hand on the near wheel to get by, which is what a carter does on a made road where there is a woman on the shoulder with her hands empty.
+
+He had gone out on the first with the strip and the stone on that tail-board and he had come back on the fourth without either of them, and he had made the whole of that road in three days going and one day coming.
+
+She stood there and looked at it until the cart wheels had gone past the shed, and then she worked out what she had.
 
 It had gone out of a yard three miles from a gate with a strip on its tail-board and it had come back in empty, and a carter does not leave a strip on the tail-board of a cart at the far end of nine miles. He had put it somewhere, or it had been taken off it, and either way the cart had come back.
 
@@ -34,7 +42,15 @@ There was no room in it and no trick in it and nothing anybody had to want of he
 
 ## The Four Days Between
 
-She worked the gate on the fourth, the fifth, the sixth and the seventh at a fifth of a reach and one copper a day, and she went to the store on the fifth with eight coppers and came back with bread for five days, and she put a third of a sack of clay into the ring on the evening of the sixth and the ring came up at the low end about an hour later and stood there nine feet high.
+She worked the gate on the fourth, the fifth, the sixth and the seventh at a fifth of a reach and one copper a day, and she went to the store on the fifth with eight coppers and came back with bread for five days, and she put a third of a sack of clay into the ring on the evening of the sixth and the ring came up at the low end an hour later and stood there nine feet high.
+
+On the sixth she sat down in that gateway with the cover on the wall beside her and worked out, standing up again, everything she had learned since the first, and it came to nine words.
+
+It went east. It did not come back. It was not a thing anybody on that ground had ever sent before.
+
+Three facts, and not one of them was a thing she could do.
+
+She had looked at them from four different angles in two days and the angles had not changed any of them, and there was one more angle left and it was a nine mile made road she was not going to walk.
 
 She went east three miles to the works every second day and read a board with a cover on it.
 
@@ -45,6 +61,12 @@ She did not go up the mill road. She had one question a month in her and she had
 The cart came down the mill road at about the eleventh hour on the ninth with the shafts down and four empty trays stacked on the bed and a stone on the tail-board, and she was nine feet off on the near side of the track because she had come up the road to see whether anything came down it.
 
 There was nothing on it.
+
+She had got up on the flat for it before the light. She had walked a mile and a quarter west with her bread in her coat and nothing in her hands and had got there two hours early, because she had not been able to stand still in the shed.
+
+Nine hours for a cart to come down a road she could have walked in one.
+
+She had done that twice in nine days and had not worked out why.
 
 The trays were empty. Four of them, nested, the way empty trays are nested, and a rope coiled on the near wheel and nothing else on that cart at all, and she stood there and watched it come and go and go past the elms west.
 
@@ -80,7 +102,7 @@ She went west at the eleventh hour and opened a fifth of a reach by about the fi
 
 ## The Season Turning
 
-She heard it from the man who kept the list, in a gateway, on the eleventh, at about the ninth hour.
+She heard it from the man who kept the list, in a gateway, on the eleventh, at the ninth hour.
 
 He had the cover off the board and the battens across and he was taking the battens down one at a time with his coat off, and the board behind them was not bare.
 
@@ -89,5 +111,9 @@ He had the cover off the board and the battens across and he was taking the batt
 She stood in the gateway and looked at it.
 
 Four columns and a ruled space at the left and lines running into every column, and she could see from the step how many, and it was more than had ever been on it at once in the seven months she had been coming to this gateway.
+
+She counted them from the step without going closer, the way a person counts what is standing at a fence without walking into the pen.
+
+The count stopped being a number and turned into a kind of thing. The season had come back into stone, and every line on that board was a length or a weight going east to a yard, and there was not one line on it she could have put her hands under.
 
 She had been walking three miles every second day to look at a board with a cover on it.

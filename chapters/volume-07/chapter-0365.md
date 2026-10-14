@@ -1,10 +1,14 @@
 # Where The Cart Goes
 
-She was in the yard of the works at about ten minutes past the sixth hour on the first of a month with the cold off the flat still lying in the cut of the ground, and she had walked three miles in the dark to do it and had a week’s bread under the boards and half a box of clay against a wall a mile behind her.
+Ten minutes past the sixth hour on the first of a month she was in that yard with the cold off the flat still lying in the cut of the ground, and she had walked three miles in the dark to do it and had a week’s bread under the boards and half a box of clay against a wall a mile behind her.
 
 A month had turned. Thirty coppers on the first, and the store was five miles west, and she had eaten four days of bread over the last two and had a fifth for this.
 
-The cart came up the made road at about the sixth hour with the shafts down and the counter’s boy walking beside it, and it was the same cart, and the cord was on the tray, and the tray had a book in it with a page fanned open about two inches from the back.
+She had not eaten it. She had carried the fourth loaf inside her coat since the thirtieth, because a woman who stops on a made road at the sixth hour in the dark is a woman who is late, and she had three miles to walk before the light came off the flat.
+
+That was one of the reasons she got there first. It was not a good reason, and it was the reason she had.
+
+The cart came up the made road at about the sixth hour with the shafts down and the counter’s boy walking beside it, and it was the same cart, and the cord was on the tray, and the tray had a book in it with a page fanned open two inches from the back.
 
 It stopped in the yard. The boy got the tray off and set it on the cart bed and put the cord over the top of it and got back on.
 
@@ -14,11 +18,15 @@ The cart went up the mill road.
 
 She had known it would go up the mill road and she had stood in that yard eleven times in six months and watched that turn happen, and the elms are about four hundred yards up that road and after the elms there is a thing about a mile and a half long that she has never walked, and everything that has ever gone up it has gone up it and stopped there.
 
+The elms were the last thing on that road a person could see into the works yard from. Past them the ground drops two feet and comes up again, and off the top of the second rise you cannot see back into that yard at all, and she had worked that out in her second month on that ground standing on the rise with a bar on her shoulder.
+
+Everything that goes up that road goes past her and comes back different, and she had never once asked a carter what different meant.
+
 At the yard gate the counter’s boy put his hand up and the carter pulled up, and the boy went back in and came out with something about as wide as a hand folded in two, and there was a stone on it, and the stone was a piece of the road, the kind any carter keeps in a cart for putting a thing down on a windy ground.
 
 He put it on the tail-board of the second cart.
 
-The second cart was standing in the yard behind the first with a load of timber chained down and one horse and a different carter on it, and the first cart went up the mill road past the elms at about a quarter past the sixth hour with a cord round a tray on it, and the second cart stood in the yard for about a minute with a strip and a stone on its tail-board.
+The second cart was standing in the yard behind the first with a load of timber chained down and one horse and a different carter on it, and the first cart went up the mill road past the elms at a quarter past the sixth hour with a cord round a tray on it, and the second cart stood in the yard for about a minute with a strip and a stone on its tail-board.
 
 ## The Stone On The Tail-Board
 
@@ -28,7 +36,11 @@ The strip was folded in two and not tied and not in a cover, and it was the shap
 
 She watched it go out of the yard east up the made road with the timber behind it, and she got out of the yard and up the verge about a hundred yards before the wheels went out of the sound of her boots, and then she stopped and stood and watched it until it was a shape on the flat.
 
-The whole of it had taken about a minute and a half.
+The whole of it had taken a minute and a half.
+
+And in the whole of it, nothing had been tied, nothing had been covered, nothing had been signed in front of her, and the boy had not asked her one question while he did it.
+
+That last part was the one she went back over longest. She had built a month of walking and copper and cold hands around a thing she had not seen, and it had turned out to be four feet by nine, folded in two, with a piece of the road on top of it to keep the wind off it.
 
 ## Back In The Yard
 
@@ -52,7 +64,7 @@ He shifted his feet.
 
 ## The Man With The East Cart
 
-He came by at about the seventh hour the next morning with the shafts down and one horse and a load of timber, and he was a different carter and she knew it in about a minute, because this one was older and his hands were in a different place on the reins and he had a chain over the cart bed instead of a rope.
+He came by near the seventh hour the next morning with the shafts down and one horse and a load of timber, and he was a different carter and she knew it in about a minute, because this one was older and his hands were in a different place on the reins and he had a chain over the cart bed instead of a rope.
 
 She was at the gate post with the strip she had carried for four days in her coat and she had a question and she asked it before she had worked out what she wanted the answer for, which is what she did.
 
@@ -106,10 +118,16 @@ He looked east down the made road.
 
 ## What She Did With It
 
-She walked west three miles with the strip still against her ribs and got to the gate at about the eighth hour and got a fifth of a reach out of it before the ninth, and the iron went back in the box, and the reach paid one copper.
+She walked west three miles with the strip still against her ribs and got to the gate at the eighth hour and got a fifth of a reach out of it before the ninth, and the iron went back in the box, and the reach paid one copper.
 
-At the ninth hour she walked three miles east to the works and read a board that had a cover on it and a key in a man’s pocket, and she came back at the seventh and put the clay in the ring and the ring came up at the low end about an hour later and stood there nine feet high and did not need her.
+At the ninth hour she walked three miles east to the works and read a board that had a cover on it and a key in a man’s pocket, and she came back at the seventh and put the clay in the ring and the ring came up at the low end an hour later and stood there nine feet high and did not need her.
 
 She lay on the boards at the second hour and did not tell him anything about a carter with a chain, because there was nothing in it that was a price yet, and because the only thing she had was a road nine miles east that she had never walked and was not going to walk, and a strip on it, and a man who brought a cart back.
+
+She lay on the boards with the fire nine feet off and did the one thing she had been wanting to do since the first, which was to put a road on a piece of paper and look at it.
+
+Four miles to the turn. Five more after that. Two of made road. And then the long road, and the end of it, where a man with a chain had been turned back four hundred times.
+
+She had the shape of it and no way to be the kind of person it lets through, and the strip was out on it, and she had a month of thirty coppers and a gate that pays one.
 
 Thirty days. Thirty coppers, if the drain would open. And on the fourth of the month, or the fifth, the cart that takes the empty trays up the mill road would come down this road, and she would be standing in a yard or at a gate post when it did.
