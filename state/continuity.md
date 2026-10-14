@@ -9260,3 +9260,90 @@ from the wall, which is four miles from it** — the same Volume 11 inconsistenc
 ### Recorded, not repaired
 
 **The Batch 0001 flag on the carried figure *thirteen days* is untouched and still open** (`state/open-threads.md` item 3): the westward leg is exact and the county total is stale on five chapters, and Batch 0002 was told not to add to it and did not. **It is a Volume 12 inheritance, not a close repair, and no later phase may settle it by re-deriving a number.** **How far the rows sit past the wall is still open on the page in three figures and this repair did not touch it.** **The bar now carries no day at all, so nothing in the manuscript dates it, and Volume 13 must not date it either.**
+
+## VOLUME 13 PLANNING — *The Immortal Court*, ch 721–780
+
+**What this phase was.** It executed `workspace/volume-13-planning/PROMPT.md` in full. It wrote **two files and nothing else**:
+`outline/volume-13.md` (961 lines) and `workspace/volume-13-batch-0001/PROMPT.md`. **It wrote no chapter prose, created no second batch
+directory, wrote no `.done` marker, and edited no controller file, no `outline/series.md`, no `outline/ending.md` and no
+`outline/volume-12.md`.** The two in-place corrections it made are recorded below and are the only edits to an existing fiction or state
+line.
+
+### The two deliverables, and what each one is
+
+- **`outline/volume-13.md`** — the volume outline. It follows the shape of `outline/volume-12.md`: goal, the fixed trio, the question
+  Volume 12 opens onto it, central pressure, the position at the last page read off `state/current.md`, what the volume must not be, the
+  protagonist and his second rung, **eight numbered structural decisions (D1–D8)**, starting state / relationships / power level /
+  locations / who is in the room / factions, the power-progression table, the bracket budget, Yuan's track, the pressure rotation, the
+  escalation sequence, the midpoint, the volume climax, the concrete resolution, the final chapter image, the new question for Volume 14,
+  the inherited-standing list, the continuity facts to preserve, the hard rules, the construction budget, the batch plan, the word targets,
+  the methods, and **the whole calendar printed as a table so a close can check a chapter against it without re-deriving it.**
+- **`workspace/volume-13-batch-0001/PROMPT.md`** — the Batch 0001 card, in the shape of the four `workspace/volume-12-batch-000*/PROMPT.md`
+  files: what the phase is, where the batch opens from the page, what stands asked and agreed, the two live figures, the batch goal /
+  midpoint / escalation / climax / irreversible step, **the full day table re-derived**, the fifteen cards, the cast allowances, the
+  continuity it may not break, the construction budget with the running craft figures, the fifteen pre-checked titles, three cautions,
+  and the single next phase.
+
+### The eight structural decisions, in one line each, so a review can walk them
+
+| # | Decision | Line |
+| --- | --- | --- |
+| **D1** | What the Court is | **The receiving end of the announcement layer, in a room, with a lamp in a cage and no chairs — Feng Lushi's job with the ceiling taken off**, and ch 719 put the no-chairs on the page two chapters before Volume 12 turned |
+| **D2** | What *decides* means | **Above the line a thing is whatever the last hand at the table wrote in the row for it; there is one instrument and it is a hand; the deciding takes one look and there is no second and no appeal. A thing that arrives with no row is not refused, it is administered** |
+| **D3** | Being small, shown three ways | **She cannot reach the table and every chapter in the room shows her get a hand on the edge of it or not · nobody above the line counts days because nobody above the line loses them and she is still losing them at one hour and twelve minutes a day and cannot see the day turn · every price she has paid is invisible to everybody making the decision** |
+| **D4** | The lamp | **Not an oil lamp; no oil in the building for nine years. Fed by hand; every entry costs a feed; the interval is about thirty days and is not a schedule and the room counts it in hands and she counts it in days and she gets twenty-nine against thirty. She learns what feeding it costs and who is charged by it, in the single instance of herself, and does not learn what it is paying for** |
+| **D5** | The row, and the figure at the head of it | **The figure at the head of her row is her own total — ten days, twenty-one hours and thirty-six minutes, in the hand she wrote it in at ch 717 and carried up the stair at ch 718. There is no stage on it and no name on it, and it is still growing at one hour and twelve minutes a day, and above the line nobody loses a day, so nobody there could ever know the row is going stale. She writes her own stage under it in Batch 0003 and a row with a person on it is a row that gets counted** |
+| **D6** | The three stage costs | **Immortal Vessel 4 — she cannot be given a thing · 5 — she cannot be measured with a person · 6 — she cannot be looked at again. Named once each, in their own chapter, never re-explained** |
+| **D7** | How a stage is taken with no board, no slate and no counter | **A stage is written in a row by a hand in the light of a lamp that has to be fed to be lit, on a day the feeder chooses — so every interval has to be counted twice, in days by her and in feeds by the room, and the two have never agreed** |
+| **D8** | The second place at the table | **Two places at the long table; one occupied for four hundred years; the other not a chair, not a seat, addressed, and the right size for him. Nobody put him in it. It is Volume 14 and this volume does not open it** |
+
+### What the plan fixed numerically, every figure re-derived by script before it was claimed
+
+- **Days 2,301 to 2,540** across ch 721–780, four batches of sixty days. **Month-begins 2,294 · 2,324 · 2,354 · 2,384 · 2,414 · 2,444 ·
+  2,474 · 2,504 · 2,534**, each checked to month-day 1 under `((day − 134) mod 30) + 1`.
+- **Eight firsts inside the volume at 2,324 · 2,354 · 2,384 · 2,414 · 2,444 · 2,474 · 2,504 · 2,534, two in every batch, and no first is a
+  stage day** — the stages are 2,403 · 2,461 · 2,524 and the nearest firsts are ten, seventeen and ten days off them.
+- **Immortal Vessel 4 at ch 746, day 2,403, the twentieth of the month beginning 2,384, one hundred and thirteen days from 2,290.**
+  **5 at ch 761, day 2,461, the eighteenth of the month beginning 2,444, fifty-eight days.** **6 at ch 776, day 2,524, the twenty-first of
+  the month beginning 2,504, sixty-three days.** Intervals 113 · 58 · 63, each by subtraction, no stage named before its chapter.
+- **The lighter figure, `D − 1,560`, unchanged and correct through day 2,356, and `D − 1,559` from day 2,357**, the day ch 735 spends one
+  into the lamp: **741 at 2,301 · 796 at 2,356 · 797 at 2,357 before · 798 at 2,357 after, two days in one day · 801 at 2,360 · 981 at
+  2,540.** The whole 240-day table of ordinals is printed in `outline/volume-13.md`.
+- **Her own total keeps accruing and is not stated on the page in Batch 0001**: the name has had **225 days** in the column at day 2,301
+  and **464** at day 2,540, and one in twenty of that is eleven days, four hours and forty-eight minutes at the last page, **derived on
+  the page by subtraction and not carried down from the outline.**
+- **The rows' board keeps being written without her and she cannot see it: `(D − 2,128) × 4`, 692 at day 2,301 and 1,648 at day 2,540.**
+- **Two errors the planning phase caught in its own first draft and corrected before either reached the batch card:** the irreversible
+  step was first dated *the twentieth of the month beginning 2,354*, which is day 2,373 and not the day Batch 0001 ends on — **it is day
+  2,357, the fourth**; and the lighter series was first written so that two different figures held on day 2,357, which **is now stated as
+  one day in which the step happens twice.**
+
+### The two in-place corrections this phase made
+
+1. **`state/current.md`**, inside *Who is where at end of Volume 12*: the `- **Next phase:**` bullet, which named
+   `workspace/volume-13-planning/PROMPT.md` as the one and only next phase, is struck and marked **DISCHARGED**, and the replacement names
+   `workspace/volume-13-batch-0001/PROMPT.md`. **The old text is kept inside the correction** and nothing was deleted.
+2. **`state/current.md`**, appended: `## Volume 13 planned — outline/volume-13.md exists and what the plan fixed`, which carries the
+   position, the nine fixed items, and the next phase.
+
+**`state/INDEX.md` was stale on its live reading order and its `## For the next phase` block, and both are corrected below.** No other
+state file was opened.
+
+### What this phase did NOT do, and the close will check
+
+- **No chapter prose.** `chapters/volume-13/` does not exist.
+- **No batch directory beyond `workspace/volume-13-batch-0001/`.** No `workspace/volume-13-batch-0002/` and no `.done` marker anywhere.
+- **No moral answer previewed.** `Ascendant` 0 · `Choir` 0 · `Anchor` 0 · `Sisterhood` 0 · `bargain` 0 on any page.
+- **No fifth account of the nine seconds, no attribution of the 2,920, no answer about the 301 of 912, and no answer about how far the
+  rows sit past the wall.**
+- **No date, month-begin or year-count for the bar**, and no third origin read out of the two sixteens in ch 676.
+- **No answer about the dust on the bar.** It is named once at ch 721 and stays unexplained.
+- **No sixth mouth to the levy, no new clearance, seal or countersignature, no office above the Standing Office of the Second Account, no
+  figure of what is left of him, no thanking, no mother's name, no harem and nothing a romance.**
+- **The surface answer was not re-voiced in the plan either**, and the plan states that `outline/volume-13.md` carries no figure of what is
+  left of him in the way `outline/volume-12.md` carried the bar: it puts the rule in the construction budget and nowhere on a page.
+
+### The live next phase
+
+**`workspace/volume-13-batch-0001/PROMPT.md` — VOLUME 13 BATCH 0001, ch 721–735, days 2,301–2,360, pressure *the bundles*.** It is
+the only prompt this planning phase created, and the one and only next phase.

@@ -106,6 +106,14 @@ five before it, at `## Volume 7 planned`, `## Volume 7 Batch 0001` … `## Volum
 
 ## For the next phase
 
+**LIVE READING INSTRUCTION, CORRECTED BY THE VOLUME 13 PLANNING PHASE. Volume 11 planning is discharged, the Volume 11 close is
+discharged, Volume 12 planning is discharged, Volume 12's four batches are on the page, and the Volume 12 close is discharged.** The
+paragraph immediately below names VOLUME 12 PLANNING as the live brief and that is not true: **the one and only prompt a phase starting
+now may be sent to is `workspace/volume-13-batch-0001/PROMPT.md`, VOLUME 13 BATCH 0001, ch 721–735, days 2,301–2,360, pressure *the
+bundles*.** The `## Volume 13` section below is the only reading order, and it is now correct. The paragraphs after this one are left
+as the record of what Volume 11 and Volume 12 planning read, and are not instructions. **Corrected in place by the Volume 13 planning
+phase, which wrote `outline/volume-13.md` and that one batch card and nothing else.**
+
 **LIVE READING INSTRUCTION. Volume 11 planning is discharged, and so is the Volume 11 close.** Volume 11 planning ran,
 its four batches are on the page, and `workspace/volume-11-close/PROMPT.md` has been executed in full: ch 601–660 is
 closed, audited and repaired, and it was the close that wrote `workspace/volume-12-planning/PROMPT.md`. **The phase now
@@ -156,22 +164,25 @@ instruction.**
 
 ## Volume 13 — the live phase, and where a phase starting now should read
 
-**VOLUME 12 IS CLOSED, AUDITED, AND REVIEWED. THIS IS THE ONLY READING ORDER IN THIS FILE.** The section above is the
-record of what Volume 12 planning and Batches 0003 and 0004 read; it is history and the table in it is not a map of where
-the manuscript is. A phase starting now reads these, in this order:
+**VOLUME 12 IS CLOSED, AUDITED, AND REVIEWED, AND VOLUME 13 IS PLANNED. THIS IS THE ONLY READING ORDER IN THIS FILE.** The section above
+is the record of what Volume 12 planning and Batches 0003 and 0004 read; it is history and the table in it is not a map of where the
+manuscript is. A phase starting now reads these, in this order:
 
 | Order | Section | What it is |
 | --- | --- | --- |
-| 1 | `workspace/volume-13-planning/PROMPT.md` | **THE LIVE BRIEF.** Plan Volume 13, *The Immortal Court*, ch 721–780; write `outline/volume-13.md` and `workspace/volume-13-batch-0001/PROMPT.md`, and nothing else |
-| 2 | `state/current.md` §*Who is where at end of Volume 12* | **THE LIVE POSITION.** Day 2,300, one step up a second stair, IMMORTAL VESSEL 3, nineteen, 740 days lighter, three fingers and a thumb. Measured per file: **116,766 body words over sixty chapters at average 1,946 — 29,996 · 28,850 · 29,240 · 28,680 by batch** |
-| 3 | `state/continuity.md` §*VOLUME 12 CLOSE* | The volume as a whole: every figure, the eight firsts, the lighter series, the board, the geography, the craft lines, the ending |
-| 4 | `state/continuity.md` §*VOLUME 12 CLOSE — REVIEW REPAIR* | **READ FOURTH.** The four sentences the close's review repaired, the two dated values it set deliberately, what it re-measured, and what it recorded without repairing |
-| 5 | `state/open-threads.md` §*VOLUME 12 CLOSED* | **What Volume 13 inherits, what it may not settle, and the one new standing fact: the bar is dated nowhere and was taken up at nine** |
-| 6 | `outline/volume-12.md` | **THE AUTHORITY for Volume 12**, read after the five above and never before |
-| 7 | `outline/series.md` | **§9 fixes Volume 13's title, its chapter range and its one-sentence goal**, and §4 fixes Immortal Vessel 4–6 and Yuan's second rung |
+| 1 | `workspace/volume-13-batch-0001/PROMPT.md` | **THE LIVE BRIEF.** Volume 13 Batch 0001, ch 721–735, days 2,301–2,360, pressure *the bundles*. The bundles come up the stair on day 2,324, the midpoint at ch 728 is that the deciding takes one look and the look did not include her, ch 733 is the lamp and the person at the table being the same substance, and **ch 735 is the batch's irreversible step — she puts a day into the lamp and it does not come back** |
+| 2 | `outline/volume-13.md` | **THE AUTHORITY for Volume 13.** Goal, the eight structural decisions D1–D8, the stage table, the bracket budget, the batch plan, and **the whole 240-day calendar printed so a chapter can be checked without re-deriving it** |
+| 3 | `state/current.md` §*Volume 13 planned* | **What the plan fixed**, in nine items, and the one change to the lighter figure |
+| 4 | `state/continuity.md` §*VOLUME 13 PLANNING* | **The planning record.** The two deliverables, the eight decisions as a table, every number re-derived by script, the two errors caught in the plan's own first draft, the two in-place corrections, and what this phase did not do |
+| 5 | `state/current.md` §*Who is where at end of Volume 12* | **THE LIVE POSITION.** Day 2,300, one step up a second stair, IMMORTAL VESSEL 3, nineteen, 740 days lighter, three fingers and a thumb. Measured per file: **116,766 body words over sixty chapters at average 1,946 — 29,996 · 28,850 · 29,240 · 28,680 by batch** |
+| 6 | `state/continuity.md` §*VOLUME 12 CLOSE* | The volume as a whole: every figure, the eight firsts, the lighter series, the board, the geography, the craft lines, the ending |
+| 7 | `state/continuity.md` §*VOLUME 12 CLOSE — REVIEW REPAIR* | **READ SEVENTH.** The four sentences the close's review repaired, the two dated values it set deliberately, what it re-measured, and what it recorded without repairing |
+| 8 | `state/open-threads.md` §*VOLUME 12 CLOSED* | **What Volume 13 inherits, what it may not settle, and the one new standing fact: the bar is dated nowhere and was taken up at nine** |
+| 9 | `outline/volume-12.md` | **THE AUTHORITY for Volume 12**, read after the eight above and never before |
+| 10 | `outline/series.md` | **§9 fixes Volume 13's title, its chapter range and its one-sentence goal**, and §4 fixes Immortal Vessel 4–6 and Yuan's second rung |
 
-**`workspace/volume-13-planning/` holds the one and only next phase.** No batch directory beyond it exists, no
-`workspace/volume-13-batch-0001/` exists yet, and no `.done` marker anywhere is written by hand.
+**`workspace/volume-13-batch-0001/` holds the one and only next phase.** `workspace/volume-13-planning/` has been executed in full and is
+history. No batch directory beyond 0001 exists, no `.done` marker anywhere is written by hand, and `chapters/volume-13/` does not exist.
 
 ## Volume 12 — the live volume, and where a phase starting now should read
 
