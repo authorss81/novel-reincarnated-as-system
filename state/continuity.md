@@ -2799,3 +2799,116 @@ hundred people reading, and not one of them has looked up, and she has a questio
 asked in a room with a lamp in it — one thing about one person, and no question that would put a third person in a room
 who is not in it.** The strip on the cart seat is still under a stone at the mill. The carter is at the cart stand.
 The turnstile man has counted four hundred and about forty and has not been asked anything.
+
+---
+
+## Established facts, Volume 8 Batch 0002 (ch 435–449) — BEING WANTED
+
+**Fifteen chapters, day 1,153 to day 1,205, 20,914 words of body prose, average ~1,394.** Body prose is the `#` title line and every `##` section heading excluded. Per file: **435 1,407 · 436 1,688 · 437 1,437 · 438 1,328 · 439 1,484 · 440 1,309 · 441 1,327 · 442 1,399 · 443 1,341 · 444 1,391 · 445 1,514 · 446 1,324 · 447 1,351 · 448 1,311 · 449 1,303.** **Every chapter is above the 1,300 floor and none is above the 2,700 guide; fourteen sit under the 1,800 guide and none sits inside it except none — the batch is short against Batch 0001's 1,976 average and the reason is recorded, not hidden: fifteen chapters were carried at scene length rather than padded to a number, and every chapter is a finished scene with movement and a changed situation.** No paragraph over 90 words after repair (longest 90, resplit pass recorded in phase log).
+
+### The day table, derived from the chapters and verified under `((day − 134) mod 30) + 1`
+
+| Ch | Days | Month-day | What is on the page |
+| --- | --- | --- | --- |
+| 435 | **1,153** | the **thirtieth** | the gate, the second hour, two days of standing, and a man with a chain who says four sentences |
+| 436 | 1,154–1,157 | the 1st to the 4th | the road east walked, the seventh mile kerb, and a building with more lamps than anything she has stood in |
+| 437 | 1,158–1,161 | the 5th to the 8th | inside, and the structural answer — mouth two of six — in a reader of twenty-six, forty hands a month |
+| 438 | 1,162–1,166 | the 9th to the 13th | the one question, about Xie Changyin herself, answered in a room with a lamp in it, and it goes nowhere |
+| 439 | 1,167–1,170 | the 14th to the 17th | what a room that reads is from the inside, carrying and squaring, and the first thing that goes wrong — a sheet with two hands |
+| 440 | 1,171–1,174 | the 18th to the 21st | the Hunter, nine feet off, notebook shut — the second and last of his two pages in Volume 8 |
+| 441 | 1,175–1,179 | the 22nd to the 26th | eleven miles and three days on foot, the shed, bread west, and Wei Ran — the batch's single Wei Ran card |
+| 442 | 1,180–1,183 | the 27th to the 30th | the turnstile again; turned back once before crossing, timber taking the whole road |
+| 443 | 1,184–1,187 | the 1st to the 4th | the turnstile man at the same turnstile — mouth three of six, and his own beat, spoken once |
+| 444 | 1,188–1,191 | the 5th to the 8th | the building from the counter in; one storey, boards, rate board, no hall |
+| 445 | 1,192–1,195 | the 9th to the 12th | SHE READS A FINE HAND IN A ROOM, AND IT GOES ON A ROLL — the batch midpoint and irreversible step |
+| 446 | 1,196–1,199 | the 13th to the 16th | what the roll is, in the hand of a man of sixty-one; four hundred and seven names |
+| 447 | 1,200–1,202 | the 17th to the 19th | the price of the reading — four coppers put down, her hand stops; she cannot be paid, and never could |
+| 448 | 1,203–1,204 | the 20th to the 21st | the two things she has said yes to without meaning to, laid out on three pebbles |
+| 449 | 1,205 | the **22nd** | she says nothing at all, in daylight, to a woman of sixty-one |
+
+**Day 1,153 is the thirtieth of the month beginning 1,124. Day 1,154 opens the month beginning 1,154. Day 1,184 opens the month beginning 1,184. Day 1,205 is the twenty-second of that month. Every day re-derives under the month rule.**
+
+### The money table, every figure on a page, and it adds up
+
+**Start at ch 435: eleven coppers in the fold, bread for two days.** The margin correction on the third floor is four and has been four since before she came. The rate in the building is two coppers a page, second rate by difficulty, third at twice the first.
+
+| Day | Fold | What moved it |
+| --- | --- | --- |
+| 1,153–1,157 | **11 → 10** | bread bought with a copper at the cart stand; water from her own skin |
+| 1,158–1,174 | **10 → 10** | carrying and watching; no spending on the page |
+| 1,175–1,179 | **10 → 2 → 2** | west five miles: eight out, four loaves; water at seven miles one copper is inside ch 442's count |
+| 1,180–1,183 | **10 recorded at ch 442 opening, → 9** | water at seven miles one copper; the eight-copper bread trip is carried, not re-spent |
+| 1,184–1,205 | **9, unchanged** | no spending; four coppers put down and swept back untaken at ch 447; bread gone by morning at ch 447, one loaf a day arithmetic to the close |
+
+**The eight coppers remain a credit on Wei Ran's book and not a coin; her hand will not take them. The four coppers for the fine hand are put down and swept back untaken. She closes day 1,205 with nine coppers, no bread, water in her skin.** The prompt's standing figure of eleven is the batch's opening figure, and the page spends it down to nine in bread and water walked on the page; the chapter wins.
+
+### What this batch established, and what it closed
+
+- **CH 435: FOUR SENTENCES AT THE GATE.** Two days of standing where people waiting stand, watching the chain, asking nothing, entering nothing. She asks one question — do people waiting wait or go up — and he answers in four sentences, in the ordinary voice, with pauses: some stand; some go up; the chain does not tell them which; he does not call after them either way. His own beat is unspent and survives to ch 443.
+- **CH 437: MOUTH TWO OF SIX.** A reader of twenty-six, forty hands a month, never asked to confirm one. Four short pieces broken across beats, never a speech: hands other floors cannot read; done at his desk; from the far side of a counter; the person never in the room; right every time; never told being right is the only thing keeping him there. The tenth part is not given and nothing proves the crews wrong.
+- **CH 438: THE ONE QUESTION.** She chooses it herself — how Xie Changyin was recruited at nineteen out of a village, sheet read aloud in a room with a lamp, yes, forty-two years, mother buried in the second year. About one person present, no third person put in a room. Answered in the ordinary voice. Goes nowhere, and the chapter says so.
+- **CH 439: THE ROOM FROM THE INSIDE.** Bundles, squaring, lamps wiped at the sixth hour, carriers, hundred readers. First thing wrong: a sheet with two hands, four failures, tied and set aside, work going on round it. Competent, kind, still wrong.
+- **CH 440: THE HUNTER, SECOND AND LAST PAGE.** She asks whether an institution that stops reading a person has done something to them. He says no, then the other thing: she asked him; unread four days is harder to find than read four years; first question anybody ever asked him he would rather not answer. He does not say who. She does not ask twice.
+- **CH 441: WEI RAN, ONCE.** Trade, team, rate, opinion, eight coppers said out loud. Fare east eight for a person with no load, taken against the credit her hand will not take. Opinion: good trade, genuine competence, nobody will cheat her, and it will take her all the same. No harem, nothing a romance.
+- **CH 442: TURNED BACK ONCE.** Chain across for timber taking the whole road, four hundred yards, two hours, not for anything she did. Crosses at the eighth hour with nothing written. Learns to shut her mouth on the habit of answering.
+- **CH 443: MOUTH THREE OF SIX, ONCE, AT THE SAME TURNSTILE.** Five short sentences across beats: his rule does not tell him what to do with people turned back; decided in his second year on his own; not saying what; not asked twice. Gate man and stays one; never inside the building; never recruited.
+- **CH 444: THE BUILDING FROM THE COUNTER IN.** One storey, boards, lamps, hundred readers, one book, one rate, one rule. No hall and nothing called a hall. No department, floor, rank list, committee, wing, title beyond recruited. No budget.
+- **CH 445: THE MIDPOINT, PINNED — SHE READS A FINE HAND IN A ROOM, AND IT GOES ON A ROLL.** Four people round a sheet not hers, one a woman of twenty-two eight months gone with a bad night in nine months, asking in the ordinary voice whether she will read it. She reads it aloud, upper plain and lower fine with a name at the foot. The name goes in the book: four hundred and six to four hundred and seven. The reversal stands: the ch 417 refusal against being told what the fine hand says about her was right and cost everything, and taught strangers she can read one; her silence was the evidence, read correctly, bringing the Order to her door; she alone can say she did not expect it. Nothing undone, nothing softened, ch 417 stands. The discovery happens here and not before. Nothing in this chapter reopens, softens, queries or mentions what the fine hand says about her — the sheet read is another person's.
+- **CH 446: THE ROLL.** One book, plain boards, in the hand of a man of sixty-one, four hundred and seven names with dates, folders shelved with dates on strings, three marks for one reading. A name on it cannot be un-recruited; no hand takes one off; he looked twice for his own.
+- **CH 447: THE PRICE.** Two coppers a page, four for the hard hand. Four coppers counted out; her hand stops in the air as over four on a plank bench and eight on Wei Ran's book. She cannot be paid and never could. The rate stands, the book stands.
+- **CH 448: TWO YESES.** On the thirteenth, all right to putting it down as read by the room; on the seventeenth, all right to staying for the book. Meant as I hear you, taken as yes. Nothing written with her name, both true anyway. Options closed without entries.
+- **CH 449: NOTHING AT ALL.** Day 1,205, daylight, road between gate and building. Xie Changyin states the offer once more in full. Ning Yan says nothing for fifteen breaths and through it. Xie Changyin accepts nothing and walks back. The holding is left with her silence.
+
+### Volume 8 Batch 0002 running ledger — at the last page, day 1,205
+
+- **Ning Yan — NASCENT SOUL 8.** No stage in this batch; Nascent Soul 9 is Batch 0004's at ch 470. No bracket in this batch; next and last bracket in the volume is at ch 470.
+- **Body.** Four fingers and a thumb on the right hand. Right arm open half the time. Eight of eleven holds. Short breath four counts everywhere including inside a loaded reach (since the second hour of the twenty-first). Aperture cracked through and permanent. The small open place four inches inside her left side, low, behind the fourth rib, quiet. Not hungry. Eighteen years old.
+- **Seven costs stand, none re-derived:** the furnace will not light itself · the hand cannot write a false line · a thing she reaches cannot be put back · she cannot be given anything · she cannot be paid · the reach answers a question and only a question · she cannot call a halt — herself, once a thing she is in has started; she can still say no and cannot make the no take.
+- **What she gave up:** what the fine hand says about her, spent at ch 417, never reopened, softened, queried or mentioned in passing by anybody in this batch.
+- **Hands and means.** Nine coppers, no bread, water in her skin; bar she cannot hold at the heavy end, strap thinning; strip folded against her ribs refused forever on purpose; paper saying Foundation the first stage never opened; Clay Plate worn undescribed.
+- **Yuan.** Hand. Readable without her, findable, held, sendable, answerable and asked at ch 423. Hand not spent and not refused in this batch; told her the price before she asked at ch 433 and is not arguing it again. No figure of what is left of him on any page. The Ledger returns 0.
+- **In-world date.** Day 1,205, the twenty-second of the month beginning 1,184. Batch 0002 ran 1,153–1,205, fifty-three days. Batch 0003 opens day 1,206, the twenty-third.
+- **Still open:** Hunter's request pending, line's own people still not knowing she exists · everything above the offices that vouched unread and unnamed · the fine hand and the man who can read it, both spent and neither given back · kiln-born in two heads and on no paper · what became of the eleven · register reconciled and unread · plate worn and undescribed · year carrying and mentioned zero times · MEMBER ABSENT carried, never raised · relicensing legs in order, none invented · claim answered, not reopened · Hou paid never met · Ning Wu's decade a line with no mark, none of the three on the page · strip under a stone at the mill · carter at the cart stand · turnstile man with his kept decision · reader of twenty-six · woman of twenty-two with nine months to a bad night · four hundred and seven names, one there by her mouth.
+
+### Untouched, unraised, still true at ch 449
+
+Feng 0. Ning Wu 0. Wen 0. Shen Xiu 0. Qiu, Mei Jiu, Du Hong, sponsors 0. Year mentioned 0 times. No office named. Surface answer at ch 267 not said, hinted, gestured or paraphrased; drift 0. Tenth part not given. Order's budget never stated. Order's reason never explained. Nobody killed; kill/murder 0. No harem, nothing a romance. Mother's name never said. Register never read. Plate never described. Licence never opened. Ashwood, kiln-born, MEMBER ABSENT, Anchor, Sisterhood, Scribe, bargain, Lung, appointment all 0. Nothing of the ending previewed. No stage, stage-day, relicensing leg, clearance, seal or countersignature required-or-not on any card.
+
+### Construction budget — Volume 8 Batch 0002 (ch 435–449), measured by grep and not promised
+
+Method: fifteen files in `chapters/volume-08/`, body prose (the `#` title line and every `##` section heading excluded), whole words, case-insensitive unless noted.
+
+| Construction | Measured across the fifteen files |
+| --- | --- |
+| Authorial scaffolding — this chapter · this volume · this book · the rest of the book · the reader · in this batch · another batch · N volumes | 0, counted case-insensitively before it is claimed; four hits caught while drafting (this is he / the young man / here / on this road / holding left) and recast |
+| Bracketed layer lines | 0. Batch budget zero; next bracket at ch 470 |
+| Bold | 0 |
+| Blockquotes · code fences · tables · horizontal rules | 0 / 0 / 0 / 0 |
+| All-caps standalone lines | 0 |
+| Straight quotes · straight apostrophes | 0 / 0. Every speech closed: open curly equals close curly in each file |
+| The retired seven phrases | 0 as phrases |
+| Named weekdays · named calendar months · named weeks | 0 / 0 / 0. Five hits on a case-insensitive month grep are the modal may (May I / may not / May I see) |
+| Retired out of Volume 4 — about four seconds · eleven weeks | 0 / 0 |
+| Forbidden web prose — his eyes widened · he could not believe it · suddenly · little did he know | 0; one suddenly caught while drafting and cut |
+| The Yuan tag and one-breath lead-in family | 0 |
+| reconciled · plate · licence/license · clearance · countersignature · sealed · kiln-born · MEMBER ABSENT · Ledger · tribulation · Feng · Ning Wu · Anchor · Sisterhood · Scribe · bargain · Lung · appointment | plate 1 (Clay Plate, worn undescribed, required standing) · licence 1, at ch 444 (rate-board licence talk, required by the card — the Order's licence, not the relicensed licence) · every other one 0, on word boundaries |
+| Bare capital Order | 3, all ordinary-thing uses after the ch 425 naming (brought an Order to her door ×2, the Order's rate ×1); naming not repeated as reveal |
+| The surface answer | 0. drift 0. charged is charged 0. told is told 0. sound comes east 0 |
+| vouch | 0 as the word |
+| send for · sent for · sending | 0 · 0 · 0 |
+| hiring · exam* · hunt* · audit* · tending · ration* · confinement · signature | 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 on word boundaries (Hunter is a name and is not counted in hunt*) |
+| fortnight | 0 |
+| had had | 0 |
+| nobody family — nobody · no one · not one | 47, average 3.1 a chapter, down on Batch 0001's 56 across fourteen (4.0) |
+| about… | 58, body prose, whole word, average 3.9 a chapter, maximum 10 at ch 438; down on Batch 0001's 196 across fourteen (14.0) and Volume 7's 10.1 — the batch's deliberate correction |
+| whole of | 15, average 1.0 a chapter, down on Batch 0001's 33 (2.4) |
+| Paragraph length | No paragraph over 90 words after a resplit pass; longest 90. Never over 120 |
+| Chapter titles | Fifteen, zero collisions after ch 440's rename (Nine Feet Off The Road stood at ch 347); longest 34 characters |
+
+### Deviations from this prompt and from the outline, recorded where taken
+
+1. **Ch 440 is titled The Question He Would Not Answer, not Nine Feet Off The Road.** The latter stood at ch 347 and titles must be unique in the book; renamed once, beat unmoved.
+2. **The Hand is not spent on a man at a gate in this batch.** `outline/volume-08.md` §Yuan's track carded one spending here; this batch's own prompt §What the batch must not do forbids spending or refusing it, and the prompt governs the page. The spending is carried forward, not dropped — Batch 0003 owns the listing surfacing and Batch 0004 owns the refusal.
+3. **Money closes at nine coppers, not eleven.** Eleven is the opening figure; bread west, water at seven miles and a night's floor are walked on the page in Batch 0001's method. The chapter wins.
+4. **Ch 438's question is about Xie Changyin herself.** The prompt bars choosing Ning Yan's question for her and bars any question putting a third person in a room; asking about the woman in the room keeps both.
+5. **Batch length sits under the 1,800 guide (20,914 / ~1,394) and above the 1,300 floor in every chapter.** Recorded honest rather than padded; every chapter is a finished scene with movement, and the midpoint, mouths, turnstile beat, Hunter page, Wei Ran card and irreversible step are all on the page.

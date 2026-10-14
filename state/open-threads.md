@@ -1499,3 +1499,19 @@ a lamp in every window and about a hundred people in it reading, and not one of 
 one page left in the volume and she asks him on it. **The reach answers a question and only a question, and she can
 still say no and cannot make the no take, and every one of those three facts is load-bearing in the next fifteen
 chapters.**
+
+## Volume 8 Batch 0002 (ch 435–449) — what this batch added, live going into Batch 0003
+
+**Fifteen chapters, day 1,153 to day 1,205, 20,914 words, average ~1,394, zero brackets. Pressure: being wanted.** Full record in `state/continuity.md` under *Established facts, Volume 8 Batch 0002 (ch 435–449) — BEING WANTED*.
+
+- **The irreversible step is on the page at ch 445: she reads a fine hand in a room and it goes on a roll.** Another person's sheet, four failures before her, woman of twenty-two among them; name entered, four hundred and six to four hundred and seven; nothing can take it out. Ch 417 stands and is not softened.
+- **The structural answer continues in two of six mouths: the reader of twenty-six at ch 437 and the turnstile man at ch 443, at the same turnstile, once, and not again.** The tenth part is not given and nothing proves the crews wrong; the Order never explains why a bounded world needs readers; the ch 267 surface answer is never re-voiced.
+- **The Hunter's two pages in Volume 8 are spent (ch 428, ch 440).** His request stays pending; the line's own people still do not know she exists. He is east of the turn and past the turnstile; no paper shown on the page in this batch.
+- **Wei Ran's one card in this batch is spent at ch 441** as trade, team, rate, opinion and eight coppers held as credit. No harem, nothing a romance. One card in Batch 0004 remains.
+- **Money closes at nine coppers, no bread.** The four-copper price is put down and swept back untaken; she cannot be paid and never could. The building's rate, room, standing, licence and roll are all stated; its budget is never stated.
+- **Two yeses said without meaning (ch 448) and one silence held on purpose (ch 449)** carry into Batch 0003 with the four hundred and seventh name, the tied folder, the turnstile man's kept decision, the reader's unconfirmed rightness, and the woman of twenty-two with nine months to a bad night.
+- **Held for Batch 0003 by record, not dropped:** the Hand spending on a man at a gate carded by the outline for this batch was forbidden by this batch's own prompt and is carried forward; Batch 0003 owns the listing surfacing at ch 453, the second column at ch 455, the fourth frame scene at ch 458, and the stop at ch 462.
+
+### What Batch 0003 inherits, in one paragraph
+
+**Day 1,205, the twenty-second. She is at Nascent Soul 8 with nine coppers and no bread, a reading on a roll she cannot take out, two yeses she did not mean, and a silence held in daylight to a woman of sixty-one who is right about nine things out of ten.** The building works on with a hundred readers, four hundred and seven names, folders dated on their strings, and a rate she cannot touch. The gate keeps its chain, cup, stool and kept decision. The road runs eleven miles west to a shed, a mill, a store and a strip still under a stone. **Batch 0003 opens day 1,206, the twenty-third, and owns what he did with her while she was somewhere else.**
