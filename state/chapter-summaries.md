@@ -853,8 +853,8 @@ copies of the silence kept apart, at `state/continuity.md` §*Volume 9 Batch 000
 
 ## Volume 9 Batch 0003 — *The Warden*, ch 509–523, day 1,489–1,561 — WRITTEN
 
-**Pressure: what she told him to do with her still in the room.** Fifteen chapters, **28,541 words of body prose on method B
-(every line not beginning `#`)**, average **~1,903**, range 1,602 at ch 519 to 2,409 at ch 518. Inside the volume's own
+**Pressure: what she told him to do with her still in the room.** Fifteen chapters, **28,572 words of body prose on method B
+(every line not beginning `#`)**, average **~1,905**, range 1,602 at ch 519 to 2,409 at ch 518. Inside the volume's own
 band: 27,000–30,000 per batch with a hard floor of 26,000 and a chapter floor of 1,300, and nothing in the batch is under
 1,600 or over 2,410. **Zero blockquotes, code blocks, tables or horizontal rules; one bracketed layer line in fifteen
 chapters, at ch 523; zero bold and zero italic spans; zero straight quotes and zero straight apostrophes; every speech
@@ -878,8 +878,8 @@ other, longest 30 characters.**
 | 519 | 1,525–1,527 | **A Light Behind The Wall** | three days in a nine-foot room, **the first empty chair in this book that is not a death and is worse than one**; eleven words said once to a wall at a hundred yards; and at the fourth hour she sits in it and gets up and squares it back against the wall |
 | 520 | 1,529 | **The First Thing He Says** | **she says it out loud at a gate in daylight in front of three people she did not ask for**, and **he speaks to her for the first time in over two hundred days — two hundred and seventy-three days, derived in the same sentence — and it is two words: *It was mine.*** It saves nobody. She is not grateful and does not thank him |
 | 521 | 1,532–1,541 | **The Ground Finds Out** | the misreading ends **because the truth turned out to look like the mistake and not because anybody was corrected**; the carrier says good at ten feet; the store woman leaves a loaf on the counter and does not take it off again; **and being believed, for the wrong reason, is the strangest thing that has happened to her in a year** |
-| 522 | 1,542–1,553 | **She Does Not Ask Him Back** | twelve mornings in an opening in a wall at the fourth hour; **there is a way to ask him and no way for the sentence to arrive**; she could un-say it and it would change nothing, and not trying is the whole of what is left to decide; and **the first person she has hurt on purpose who did not go somewhere to get away from it** |
-| 523 | 1,554–1,561 | **Two Miles That Go Nowhere** | **Severance 3 at the fourth hour of the eighteenth, alone on flat ground at a turn, seventy-three days after Severance 2 and the shortest gap of the run**; the bracket; **she cannot go back down the road she came** — the lane walked four times in one day, in exactly the time it has always taken, going nowhere she has been; and she does not weep about it |
+| 522 | 1,542–1,556 | **She Does Not Ask Him Back** | twelve mornings in an opening in a wall at the fourth hour; **there is a way to ask him and no way for the sentence to arrive**; she could un-say it and it would change nothing, and not trying is the whole of what is left to decide; and **the first person she has hurt on purpose who did not go somewhere to get away from it** |
+| 523 | 1,557–1,561 | **Two Miles That Go Nowhere** | **Severance 3 at the fourth hour of the eighteenth, alone on flat ground at a turn, seventy-three days after Severance 2 and the shortest gap of the run**; the bracket; **she cannot go back down the road she came** — the lane walked four times in one day, in exactly the time it has always taken, going nowhere she has been; and she does not weep about it |
 
 ### What the batch established, for whoever drafts Batch 0004
 
@@ -902,3 +902,5 @@ other, longest 30 characters.**
 3. **Ch 531's room.** The demand at its maximum in Batch 0004 will be made at the opened wall and not in the room, because
    the man on the wrong side cannot come back across. Recorded so Batch 0004 does not re-open the chapter and find a
    contradiction.
+
+**Next:** `workspace/volume-09-batch-0004/PROMPT.md`, ch 524–538, day 1,562–1,598, the batch that closes Volume 9. *Corrected in place by the Volume 9 Batch 0003 review repair; this file previously ended at the Batch 0002 section's pointer to Batch 0003, which has been executed in full.*

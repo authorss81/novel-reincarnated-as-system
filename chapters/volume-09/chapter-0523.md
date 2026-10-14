@@ -4,7 +4,7 @@ She went west out of the far ground on the fourteenth of a month at the fourth h
 
 ## What She Had
 
-Eleven days of standing in an opening in a wall at the fourth hour, and a light in a window behind it that had not gone out once, and a man in a chair some mornings.
+Twelve days of standing in an opening in a wall at the fourth hour, and a light in a window behind it that had not gone out once, and a man in a chair some mornings.
 
 Eleven miles of made road between that wall and the turn where the lane meets the store road.
 

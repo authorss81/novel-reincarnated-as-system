@@ -4036,8 +4036,8 @@ was created.
 
 ## Volume 9 Batch 0003 (ch 509–523) — established facts, carried to Batch 0004
 
-**Ch 509–523 are on the page.** Fifteen chapters, **28,541 words of body prose on method B (every line not beginning
-`#`)**, average **~1,903**, range 1,602 at ch 519 to 2,409 at ch 518, day 1,489 to day 1,561. No chapter of Volume 9
+**Ch 509–523 are on the page.** Fifteen chapters, **28,572 words of body prose on method B (every line not beginning
+`#`)**, average **~1,905**, range 1,602 at ch 519 to 2,409 at ch 518, day 1,489 to day 1,561. No chapter of Volume 9
 Batch 0001 or Batch 0002 was opened, and no chapter of Volumes 1 to 8 was opened.
 
 ### The days, re-derived under ((day − 134) mod 30) + 1
@@ -4057,12 +4057,12 @@ Batch 0001 or Batch 0002 was opened, and no chapter of Volumes 1 to 8 was opened
 | 519 | 1,525–1,527 | twelfth – fourteenth of the same month |
 | **520** | **1,529** | **the sixteenth of the same month — he speaks** |
 | 521 | 1,532–1,541 | nineteenth – twentyeighth of the same month |
-| 522 | 1,542–1,553 | twenty-ninth – thirtieth of the month beginning 1,514, then first – tenth of the month beginning 1,544 |
+| 522 | 1,542–1,556 | twenty-ninth – thirtieth of the month beginning 1,514, then first – thirteenth of the month beginning 1,544 |
 | **523** | **1,561** | **the eighteenth of the month beginning 1,544 — Severance 3** |
 
-Days 1,522–1,524 and 1,530–1,531 and 1,542's run into 1,544 are inside the walking and are carried on the page, not as
-gaps. **Every interval the batch publishes is derived in the same sentence that publishes it:** 1,561 − 1,488 = 73 ·
-1,521 − 1,256 = 265 · 1,529 − 1,256 = 273 · 1,516 − 1,256 = 258 · 1,561 − 1,412 = 149 · 1,561 − 1,291 = 270 ·
+Days 1,522–1,524 and 1,530–1,531 and 1,542's run into 1,544 and 1,557–1,560 are inside the walking and are carried on
+the page, not as gaps. **Every interval the batch publishes is derived in the same sentence that publishes it:** 1,561 − 1,488 = 73 ·
+1,521 − 1,256 = 265 · 1,529 − 1,256 = 273 · 1,514 − 1,256 = 258 · 1,561 − 1,412 = 149 · 1,561 − 1,291 = 270 ·
 1,504 − 1,486 = 18 · 1,515 − 1,482 = 33.
 
 ### Established facts
@@ -4096,7 +4096,7 @@ gaps. **Every interval the batch publishes is derived in the same sentence that 
   speaks in it is in the present tense** and **no other character is in a marked present frame in the batch at all.**
   The frame is **not** counted against his silence with her.
 - **The silence, both figures published on the page with the subtraction in the same sentence:** **two hundred and
-  fifty-eight days at ch 516** (1,516 − 1,256), **two hundred and sixty-five at ch 518** (1,521 − 1,256), **two hundred
+  fifty-eight days at ch 516** (1,514 − 1,256), **two hundred and sixty-five at ch 518** (1,521 − 1,256), **two hundred
   and seventy-three at ch 520** (1,529 − 1,256). All three are counted from day 1,256, which is ch 462, the chapter where
   she makes him stop and he puts a thing down and does not pick it up again. **On the page, no spoken word of his reaches
   her hearing in any chapter of this batch before ch 520.** Ch 515 and ch 516 give him no line of speech at all; ch 518
@@ -4117,7 +4117,7 @@ gaps. **Every interval the batch publishes is derived in the same sentence that 
   is an opening four feet wide and six feet high with a jamb on each side and nothing loose anywhere on it. **She goes
   through it and it costs her nothing and it is not counted for her.** **He cannot come back across it.**
 - **She went past the bar on two posts once, at the second hour of the eighth of the month beginning 1,514, and has not
-  gone back through it.** Days 1,522–1,524, 1,530–1,531 and 1,555–1,558 are walked or stood out on the page and are not
+  gone back through it.** Days 1,522–1,524, 1,530–1,531 and 1,557–1,560 are walked or stood out on the page and are not
   gaps. **Nothing in this batch brings her back across it.**
 - **Shuyin, in this batch, is a receiver and not a walker.** He is found, and she comes to him. **He says no word in
   her hearing in any chapter before ch 520.** He shuts every door he walks through and waits for the latch — twice on the
@@ -4203,7 +4203,7 @@ batch.**
 
 ### Construction budget — Volume 9 Batch 0003, counted rather than quoted
 
-Body prose only, method B, measured on the fifteen files as they stand: **28,541 words, average ~1,903**, inside the
+Body prose only, method B, measured on the fifteen files as they stand: **28,572 words, average ~1,905**, inside the
 volume’s own 27,000–30,000 band and its 26,000 floor · **0** blockquotes, code blocks, tables or horizontal rules ·
 **1** bracketed layer line, at ch 523, **and nothing else in square brackets** — **Volume 9’s budget of three in sixty is
 now three spent, at ch 493, ch 508 and ch 523, and the volume carries nothing else in square brackets** · **0** straight
@@ -4235,3 +4235,96 @@ before it is claimed.
 **Named once, at ch 513, in her own want and not out loud**, in nine seconds, in a passage where she puts a ten-year
 line with no mark on it beside the five other things she is keeping and does not say the name. **He does not appear, is
 not on the page in a scene, is not met, and is not named in his own mouth and not on a page of the book.**
+
+## Volume 9 Batch 0003 (ch 509–523) — REVIEW REPAIR (applied after `logs/volume-09-batch-0003.review.log`)
+
+**Four chapters touched, six findings closed, one seventh found while applying them, and no beat, day, title, stage,
+bracket, irreversible decision or planned event moved.** The review found the mechanical layer exact and reproducible
+under method B — 28,541 words at the time, average ~1,903, range 1,602 to 2,409, fifteen `#` headings with zero
+collisions and a longest of 30 characters, zero blockquotes, code blocks, tables and horizontal rules, zero bold and zero
+italic, zero straight quotes and zero straight apostrophes, one bracketed layer line at ch 523, `Ledger` 0 · `Warden` 0 ·
+`Shuyin` 0 · `vouch` 0 · `about` 72, a longest paragraph of 88 words, the day table re-deriving under
+`((day − 134) mod 30) + 1` for every row including both month rollovers, ch 518's irreversible step real and unsoftened,
+and ch 520's age turn landing on the page. **All of that reproduces after this repair, and the batch's own claim of *0
+exact duplicate paragraphs at six words or more* is now true where it was not.**
+
+### The six findings
+
+1. **F1 — the interval that did not compute.** `state/continuity.md` published `1,516 − 1,256 = 258` twice, in the
+   line that opens *every interval the batch publishes is derived in the same sentence that publishes it* and in the
+   bullet that publishes the three silences. **The table six lines above pins ch 516 at day 1,514 and
+   `chapter-0516.md:23` reads *Five hundred and fourteen less two hundred and fifty-six is two hundred and fifty-eight*.**
+   The chapter was right and the operand had been transposed. **Both occurrences now read `1,514 − 1,256`.** No figure
+   moved; 258 was always correct.
+2. **F2 — the ch 522 row, short by three days.** The row read `1,542–1,553`. `chapter-0522.md:3` has her go east on the
+   twenty-ninth (= 1,542), **be at the wall by the second of the next one (= 1,545)**, and **stand at the fourth hour
+   every morning for twelve days, which is 1,545 through 1,556** — and `chapter-0523.md:3` opens on the fourteenth
+   (= 1,557), which only closes if 1,556 is the last morning stood. **The row now reads `1,542–1,556`, twenty-ninth –
+   thirtieth of the month beginning 1,514, then first – thirteenth of the month beginning 1,544**, and every day in it
+   re-derives under the month rule.
+3. **F3 — the two carried-days notes, which contradicted each other and the table.** The review's suggested value was
+   `1,554–1,556`. **That was derived from the stale `state/chapter-summaries.md` row, which pinned ch 523 at
+   1,554–1,561, and it cannot stand alongside its own F2**: once the ch 522 row ends at 1,556, the days 1,554–1,556 are
+   inside it and are not gaps at all. **The days that are genuinely unpinned after F2 are 1,557–1,560**, and all four are
+   walked and dated inside ch 523 — the fourteenth (she leaves the far ground at the fourth hour), the fifteenth (the
+   gate at the eleventh hour), the sixteenth (the lane at the crossing at the seventh hour, the loaf on the stone wall,
+   the bench at the ninth hour) and the seventeenth (the two miles walked four times, and the cost said out loud at the
+   ninth hour). **Both notes now carry 1,557–1,560**, and the first keeps 1,542's run into 1,544, which is a month
+   rollover and not a gap. **The review's two findings were applied as one coherent fix rather than as two literal ones,
+   and the deviation is recorded here rather than hidden.**
+4. **F4 — four stale headers in `state/current.md`.** The `Volume:` bullet had been corrected in place and four other
+   places still named Batch 0003 as unwritten. **The `As of:` line, the `Chapter written:` bullet, the `Next phase:`
+   bullet and the `In-world date:` bullet now all read ch 523, day 1,561, the eighteenth of the month beginning 1,544,
+   and `workspace/volume-09-batch-0004/PROMPT.md`.** Three further live pointers were corrected in the same pass because
+   they were the same fault wearing different clothes: the *Where Volume 9 actually stands* block, the cold-start
+   reading-order bullet (which was still sending a reader to ch 478 as the live position), and the closing pointer in
+   `state/chapter-summaries.md`. **The historical blocks that name Batch 0003 from inside Batch 0002's own record are
+   left exactly as they were written — they were true when written and are not headers.**
+5. **F5 — two duplicated paragraphs, each in two adjacent chapters.** `They would have to ask her.` stood at
+   `chapter-0512.md:27` and `chapter-0513.md:23`, and `He did not answer that either.` at `chapter-0515.md:99` and
+   `chapter-0516.md:41`. **ch 513 now reads *And a space with nothing in it only ever gets written on by the one who
+   comes and asks for it*, and ch 515 now reads *He put his hand flat on the trough and left it there, and he gave her
+   back not one word of it.*** In each pair the instance that carries a beat survives — ch 512's first statement of the
+   finding, and ch 516's, which answers `He did not answer.` two paragraphs above it and therefore needs its *either*.
+   **The sentence either way carried the same meaning and no beat, figure or silence was touched.**
+6. **F6 — one authorially-revealing section heading.** `chapter-0518.md:81` read `## The Question He Goes Looking For`,
+   which names the frame scene's purpose from outside it — the class the Volume 7 close recorded at `Mouth Five` and
+   `Mouth Six`. **It now reads `## The One Question`**, which is a thing in the room and not a note from the drafting
+   brief. Its two sentences and the scene under it are untouched.
+
+### The seventh, found while applying F2 and not in the review
+
+**Ch 523 said *Eleven days of standing in an opening in a wall at the fourth hour* in its opening inventory, and ch 522
+says twelve mornings five times.** F2's corrected row only closes if she stood twelve, because 1,545 through 1,556 is
+twelve mornings and she leaves on the fourteenth. **The word at `chapter-0523.md:7` now reads *Twelve days***, and that
+is the whole of it — one word, in an inventory list, with nothing after it disturbed. **Left alone it would have been
+the one place in the batch where the state file and the prose disagreed about how long she stood at a wall.**
+
+### The counts that moved, and the ones that did not
+
+**Body prose, method B, every line not beginning `#`, re-measured on the fifteen files after the repair: 28,572 words,
+average ~1,905** — ch 513 and ch 515 were six words each and are twenty-one and twenty-two, **+31 words, and nothing
+else changed.** Per file: 509 1,801 · 510 1,909 · 511 1,960 · 512 1,861 · **513 1,895** · 514 1,820 · **515 1,884** ·
+516 1,881 · 517 2,023 · 518 2,409 · 519 1,602 · 520 1,804 · 521 1,748 · 522 1,861 · 523 2,114. **The range is unchanged
+at 1,602 to 2,409 and nothing in the batch is under the 1,600 floor or over the 2,410 the batch record published.**
+**28,541 → 28,572 and ~1,903 → ~1,905 are propagated to `state/current.md`, `state/continuity.md`,
+`state/chapter-summaries.md` and `state/book-metadata.md`, and Volume 9's running total 84,798 → 84,829.** F6 moved no
+counted word because `##` headings are excluded from method B by definition.
+
+**Unchanged and re-measured after the repair: 523 `#` headings manuscript-wide, zero collisions, longest new title 30
+characters · zero blockquotes, code blocks, tables and horizontal rules · zero bold spans and zero italic spans · zero
+straight double quotes and zero straight apostrophes · one bracketed layer line, at `chapter-0523.md:101`, and Volume 9's
+budget of three in sixty still three spent at ch 493, ch 508 and ch 523 · `about` 72, average 4.8 · `nobody` 20 ·
+`whole of` 48 · `eleven` 79 · `list` 1 · `send for` 1 · `Ledger` 0 · `Warden` 0 · `Shuyin` 0 · `vouch` 0 ·
+`reconciled` 0 · `kiln-born` 0 · `MEMBER ABSENT` 0 · `tribulation` 0 · longest paragraph 88 words · zero within-file
+duplicate `##` headings.** Ch 518's irreversible step is intact at `:61`, `:85` and `:107`, and **he still gets no line in
+her hearing**.
+
+### Three duplicates checked and deliberately kept
+
+`He did not answer for nine seconds.` (ch 501 and ch 503) · `You have been east,` he said. (ch 503 and ch 510) ·
+`All right,` Ning Yan said. (four times, ch 511, ch 517 and twice at ch 521). **The first is inside Batch 0002 and was not
+in this review; the second and the third are refrains the batch is built on — the fourth hour, the gate, and the one
+concession a woman who says no out loud keeps making — and 39 of the batch's 125 section headings repeat elsewhere in the
+manuscript, so repetition inside the batch is the house register, not a defect.** **Recorded so that the next reviewer
+does not spend a finding on them.**

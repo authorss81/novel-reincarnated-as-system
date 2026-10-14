@@ -20,7 +20,7 @@ And a space with a line on it and nothing written on it, put there by a hand she
 
 Eight men come out of that cut every morning and nine men go up a frame four hundred years old and not one of them has put a name under that space in three days.
 
-They would have to ask her.
+And a space with nothing in it only ever gets written on by the one who comes and asks for it.
 
 ## Six Days
 

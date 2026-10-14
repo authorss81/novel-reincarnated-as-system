@@ -78,7 +78,7 @@ It is a doorway.
 
 It stands in a space with nothing under his feet and no light in it that comes from anywhere and no shadow, and it is about four feet wide and six feet high, and it is made of pale stone, and he has been inside this four times in eleven hundred years of practice and he started by working out what kind of place it was.
 
-## The Question He Goes Looking For
+## The One Question
 
 He has one question and he has had it since the thirtieth of a month, and he came in here on the eighth to answer it before he does it.
 

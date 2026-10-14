@@ -96,7 +96,7 @@ She said it out loud once, at the ninth hour, in the ordinary voice, standing in
 
 “You have asked eleven people about me in twenty-seven days,” she said. “And every one of them has been watching a girl with a bar since the ninth of a month because they think something has come for her, and you are the reason I have been found.”
 
-He did not answer that either.
+He put his hand flat on the trough and left it there, and he gave her back not one word of it.
 
 She put the skin down in the mud and straightened up and she asked her question.
 

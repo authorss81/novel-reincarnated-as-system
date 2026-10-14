@@ -47,8 +47,12 @@ what was measured at the time, and re-measuring it will produce a different numb
 
 | Section | What it is |
 | --- | --- |
-| `## How to read this file` | The cold-start reading order for the whole run. **Still valid as written.** |
-| `## Who is where at end of chapter 434` | **THE LIVE POSITION.** ch 434, day 1,152. Every earlier position block is superseded by this one. |
+| `## How to read this file` | The cold-start reading order for the whole run. **Still valid as written, and its live-position entry was corrected to ch 523 at the Volume 9 Batch 0003 review.** |
+| `## Who is where at end of chapter 523` | **THE LIVE POSITION.** ch 523, day 1,561. Every earlier position block is superseded by this one. |
+| `## Who is where at end of chapter 508` | The Volume 9 Batch 0002 position, superseded by the ch 523 block. |
+| `## Where Volume 9 actually stands` | **READ THIS SECOND.** The three batches on the page, their days, their brackets, and the fact that Volume 9 is on its last batch. |
+| `## Volume 9 Batch 0003 — REVIEW REPAIR` | **READ AFTER THAT.** Six findings closed and a seventh found while applying them: the transposed operand in the 258-day silence, the ch 522 day row short by three, the two carried-days notes reconciled to 1,557–1,560, four stale headers in this file plus three live pointers elsewhere, two duplicated paragraphs recast at ch 513 and ch 515, and the authorial heading at ch 518. **No beat, day-table anchor, title, stage, bracket or irreversible decision moved.** |
+| `## Who is where at end of chapter 434` | The Volume 8 Batch 0001 position, superseded by the ch 508 and ch 523 blocks. |
 | `## Who is where at end of chapter 420` | The Volume 7 Batch 0004 position, superseded by the ch 434 block. Kept because the cold-start reading guide names it |
 | `## Volume 8 Batch 0001 — what the batch did, and where the order went` | **What ch 421–434 changed, and the three places the card file lost to the day table.** |
 | `## Volume 8 Batch 0001 — REVIEW REPAIR` | **READ AFTER THAT.** All twenty-one review findings closed: the copper ledger reconciled on twenty-one, every interval back to the ch 417 refusal put on counted days, ch 421's double-booked seventh hour and rewind repaired and the twenty-ninth shared with ch 422, the trip put back to four days, ten craft defects and four state-file defects closed, and three adjacent defects found and fixed in the same class. No beat, day-table position, title, stage, bracket or irreversible decision moved |
@@ -72,6 +76,7 @@ what was measured at the time, and re-measuring it will produce a different numb
 | `## World rules` | The nine hard world rules, including the weekday rule and the month rule. **Every phase reads this and it never moves.** |
 | `## The layer's rules`, `## Registers`, `## Prose`, `## Content`, `## Named and reserved` | The rest of the spine. |
 | `## Established facts (through ch 24)` | The original fact base. |
+| `## Volume 9 Batch 0003 (ch 509–523) — established facts, carried to Batch 0004` *(and its `— REVIEW REPAIR`)* | **THE LIVE FACTS.** The day table, the three severances and their days, the three published silences with their subtractions, the opened wall, the fifth frame scene, the price of a door, and the construction budget — **plus the review repair, which corrects the 258-day operand, the ch 522 and ch 523 rows and both carried-days notes, and records that the batch is 28,572 words of body prose on method B, average ~1,905.** |
 | `## Volume 7 planned` … `## Volume 7 close — the volume as a whole` | **All sixteen Volume 7 sections**: per-batch established facts, the four running ledgers, the four construction budgets, the batch review repairs, the close, and the volume's full measured figures with the method beside each number. |
 | Everything else | Stub → `state/archive/continuity-before-volume-07.md`. This is Volumes 1–6: established facts, running ledgers, construction budgets, batch and close review repairs. |
 
@@ -97,17 +102,18 @@ five before it, at `## Volume 7 planned`, `## Volume 7 Batch 0001` … `## Volum
 
 ## For the next phase
 
-**Volume 8 Batch 0001 drafting reads, in this order:** `workspace/volume-08-batch-0001/PROMPT.md` — **which opens with
-`## PHASE ZERO`, the seven prose findings of the Volume 7 close with the file and the line of each, and those are
-done before a line of Volume 8 is written** — then `outline/volume-08.md` · `outline/batches/volume-08-batch-0001.md` ·
-this file · `state/current.md` §*Volume 8 planning — the deviation, and where the sixteen findings went* ·
-`state/current.md` §*Volume 8 planned* · `state/current.md` §*Who is where at end of chapter 420* ·
-`state/current.md` §*Volume 7 close audit — CLOSED* · `state/continuity.md` §*World rules* ·
-`state/continuity.md` §*Volume 8 planned* · `state/open-threads.md` §*Volume 7 CLOSED at ch 420* and
-§*Volume 8 PLANNED* · `state/chapter-summaries.md` §*Volume 8 planned* · `workspace/volume-07-close/SUMMARY.md`.
+**Volume 9 Batch 0004 drafting reads, in this order:** `workspace/volume-09-batch-0004/PROMPT.md` — **which is the whole
+brief: ch 524–538, days 1,562–1,598, pressure *surviving being kept*, and the batch that closes the volume** — then
+`outline/volume-09.md` · this file · `state/current.md` §*Where Volume 9 actually stands* ·
+`state/current.md` §*Who is where at end of chapter 523* · `state/current.md` §*Volume 9 Batch 0003 — REVIEW REPAIR* ·
+`state/continuity.md` §*World rules* · `state/continuity.md` §*Established facts, Volume 9 Batch 0003 (ch 509–523), carried
+to Batch 0004* and its `— REVIEW REPAIR` · `state/open-threads.md` §*Volume 9 Batch 0003 (ch 509–523) — what this batch
+added, live going into Batch 0004* · `state/chapter-summaries.md` §*Volume 9 Batch 0003*.
 
-**And `state/current.md` §*Volume 7 close repair order* still stands as written. The planning phase did not obey it,
-did not abandon it, and did not delete it; it moved F1–F7 into the drafting prompt. **
+**Corrected at the Volume 9 Batch 0003 review.** This block previously sent every phase to Volume 8 Batch 0001 and its
+PHASE ZERO, which were discharged four phases before it, and the hot-file tables above it still named ch 434 as the live
+position. **Both are corrected here and in the tables; the Volume 7 close repair order paragraph below is left as
+written, because it is a record of a discharged obligation and not a reading instruction.**
 
 ## The next time this is needed
 
