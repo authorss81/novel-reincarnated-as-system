@@ -313,8 +313,10 @@ volume's discovery and it is hers and nobody else's.**
 
 **The volume's clock, stated once here and counted on the page and not carried down from a plan.** **Boards go up on the first
 of a month. There are eight firsts inside Volume 12, and they are at days 2,084 · 2,114 · 2,144 · 2,174 · 2,204 · 2,234 · 2,264
-· 2,294, which are the firsts of the eight months beginning on those days.** She is on no board at the first of them and on a
-board at the seventh of them and writes on the board at the eighth.
+ · 2,294, which are the firsts of the eight months beginning on those days.** She goes on the slate at ch 674 and the slate
+goes up with her on it at the first of them (2,084) and comes back down empty (ch 675); it goes up again at the second (2,114).
+The line with the figure on it — her own total, in her own hand — is written at the eighth (2,294), ch 717. No chapter explains
+why the earlier firsts take nothing; the page carries the empty slate and the re-boarding as facts and Batch 0004 pays them off.
 
 **She goes on the board at ch 674, on the twenty-fourth of the month beginning 2,054, which is day 2,077.** (2,077 − 134)
 = 1,943; 1,943 mod 30 = 23; +1 = **24**, and day 2,077 falls in the month beginning 2,054, because 2,054 + 23 = 2,077. **The eighth first is day 2,294. The span is
@@ -337,9 +339,9 @@ close left them: forty-one short strokes down the right-hand margin of the fourt
 no line under them, seen at the ninth hour of the thirteenth of the month beginning 2,024, worded by nobody. **She said out
 loud at ch 660 that she is not going to find out what they are, and a volume may not un-say that.**
 
-**What Volume 12 is allowed to do with them, and it is exactly one thing: carry them up the stair.** The fourth sheet goes up
-in the inside of her coat against her ribs, with the book, because it is against her ribs and she is going up and she is not
-leaving it. **No chapter looks at the margin again. No chapter counts them again. No mouth refers to them.**
+**What Volume 12 is allowed to do with them, and it is exactly one thing: carry them up the stair.** They go into the locked
+drawer at ch 664 and travel in it, up and down the tower stair, and no chapter looks at the margin again. No chapter counts them
+again. No mouth refers to them.
 
 **Why this is a decision and not a dodge.** The prompt is right that they are not planned anywhere in the series and that the
 volume therefore must not invent a placement for them. **The forty-one strokes are the volume's largest unpaid debt and the
@@ -462,8 +464,15 @@ here so that no Volume 12 card spends a repair on it.**
   and this is the only place in twelve volumes where the word *up* has ever meant a physical thing.**
 - **The mountain road and the square** — down the long way round the tanner's, because the short way goes past a door she has
   not gone past in five years. **The volume does not send her past it.**
-- **East past the broken wall, into the real realm** — strip nine, made eleven, two of flat past a gate, a wall standing open
-  with nothing behind it, the rows, and then the road the Order's building is on. **The building with the lamps: one counter,
+- **West of the turn, as the Volume 11 close left it and as this volume inherits it without re-deriving it:** the post nine
+  miles west by strip road · the cottage four miles west at a stopped lime bed · the mill five miles west · the store behind
+  the mill, fourteen miles from the post · the lane four miles west. **No card states a distance between the tower and the
+  turn, because the manuscript has never stated one.**
+- **East past the broken wall, into the real realm** — thirteen miles from the turn to the wall: eleven of made road from the
+  gate to the turn and two of flat between the gate and the wall, with nothing to lie down on, a fence on the north side that
+  goes on for a mile and then stops and a row of stones on the south side at intervals, a rut in wet ground coming out from
+  under the wall on the far side, a wall standing open with nothing behind it, the rows (how far past it is open and no card
+  settles it), and then the road the Order's building is on. **The building with the lamps: one counter,
   one room with the shutters up, one table with a lamp on every one of it, one book, and in Volume 12, one budget.**
 - **The rows** — two hundred people, a stone at the head of each row, a board at the north end with a stroke and a number under
   the stroke every day of it, and no man over any of them. **She goes in once in Volume 12 and it settles nothing.**
@@ -500,7 +509,7 @@ began on days 1,814 · 1,844 · 1,874 · 1,904 · 1,934 · 1,964 · 1,994 · 2,0
 | --- | --- | --- | --- | --- | --- |
 | **Immortal Vessel 1** | **685** | **2,128** | **the fifteenth of the month beginning 2,114** — (2,128 − 134) = 1,994; 1,994 mod 30 = 14; +1 = **15** | **131 days** after Severance 9 at day 1,997 — 2,128 − 1,997 = **131** — and **the chapter says why one hundred and thirty-one is the interval and not seventy:** there was no ceiling and no road and no board for eleven volumes, and the stage after the ninth cannot be taken by a person nobody is holding | **She cannot be given a shape.** Not a limb and not a hold — **every promotion past a working point in every ground in the bound is handed to a person by somebody, and it is the only thing in this world that is free, and she has never been able to receive one.** The first stage past the last working point is the first one that has to be *made*, by her, in her own hand, true, with a date and a place on it, and it cannot be un-written |
 | **Immortal Vessel 2** | **702** | **2,206** | **the third of the month beginning 2,204** — (2,206 − 134) = 2,072; 2,072 mod 30 = 2; +1 = **3** | **78 days** — 2,206 − 2,128 = **78** — **and the chapter says why seventy-eight is longer than seventy**: the receiver has to be found before the announcement is worth sending, and finding one takes longer than making one | **She cannot be met where she is expected.** Four floors above a copying floor there is a room built for a person who comes when there is something to receive, and everything in the room is addressed to that person, and **the announcement arrives at a room that was expecting somebody and she is not the somebody**, and the cost is that the room does not know what to do with her and there is no instrument in the world that will tell it |
-| **Immortal Vessel 3** | **716** | **2,290** | **the twenty-seventh of the month beginning 2,264** — (2,290 − 134) = 2,156; 2,156 mod 30 = 26; +1 = **27** | **84 days** — 2,290 − 2,206 = **84** — **and it is the longest interval since the ceiling because by this one she has written the only line in the world that can be written about her and putting it on a board takes longer than making it, because there is a date on it and the date has to be a first** | **She cannot be counted where she stands.** Carried from Volume 10 and **applied, not re-derived**: the harvest is a count, and the count takes a board and not a person, and she is not on the board — **and the reason she is not on the board is a cost she has carried since Volume 10, and the volume says so once in the mouth of the man of sixty-one with the book and never in hers** |
+| **Immortal Vessel 3** | **716** | **2,290** | **the twenty-seventh of the month beginning 2,264** — (2,290 − 134) = 2,156; 2,156 mod 30 = 26; +1 = **27** | **84 days** — 2,290 − 2,206 = **84** — **and it is the longest interval since the ceiling because by this one she has written the only line in the world that carries her total, and putting it on a board takes longer than making it, because there is a date on it and the date has to be a first** | **She cannot be counted where she stands.** Carried from Volume 10 and **applied, not re-derived**: the harvest is a count, and the count takes a board and not a person, and she is not on the board — **and the reason she is not on the board is a cost she has carried since Volume 10, and the volume says so once in the mouth of the man of sixty-five with the book and never in hers** |
 
 **On the three costs, as rules for the drafters.** Each is **named once, in its own stage chapter, and is not re-explained in
 any later chapter**; a later chapter may carry it and may show what it costs, and may not re-derive it. **Two of the three are
@@ -579,7 +588,7 @@ was not asked for hears it, and cannot repeat it, and four people who were in th
 
 | Batch | Chapters | Days | Pressure | Arc |
 | --- | --- | --- | --- | --- |
-| 0001 | 661–675 (15) | 2,061–2,090 | **the stair** | she goes back up four flights to a building with a lamp burning in a cage in it that ought not to be burning · **she asks at ch 665 whether a person can be announced without being designated** · **the room at the top is empty at the midpoint and that is the answer, and it is the wrong one** · **and at ch 674 she goes on a board, after eleven volumes off every board in the world, and it cannot be un-done** |
+| 0001 | 661–675 (15) | 2,061–2,084 | **the stair** | she goes back up four flights to a building with a lamp burning in a cage in it that ought not to be burning · **she asks at ch 665 whether a person can be announced without being designated** · **the room at the top is empty at the midpoint and that is the answer, and it is the wrong one** · **and at ch 674 she goes on a board, after eleven volumes off every board in the world, and it cannot be un-done** |
 | 0002 | 676–690 (15) | 2,091–2,140 | **the lamps** | **she goes east past the broken wall to a building with lamps in it** · **Xie Changyin reads a sheet to her again and she says no again, and this time she says it with a figure in her hand** · **the budget at ch 683** · **Immortal Vessel 1 at ch 685 and its cost** · **he takes Court at ch 687** · **and at ch 689 she lets him keep the record, and that cannot be un-agreed** |
 | 0003 | 691–705 (15) | 2,141–2,240 | **the firsts** | **three firsts of a month pass, the third the fourth and the fifth, and each one the board goes up** · **the eighth frame scene at ch 694** · **at ch 697 she works out her own total, which nobody on any ground has ever been told** · **Immortal Vessel 2 at ch 702 and its cost** · **and the volume's own hardest chapter, which is that a number she can work out is a number two hundred people can work out** |
 | 0004 | 706–720 (15) | 2,241–2,300 | **what is written on it** | **she goes back to the two posts** · **three more firsts, and the seventh of them is the last one that passes with her still below the line** · **Immortal Vessel 3 at ch 716** · **the eighth first at ch 717 and the line, and the hand** · **the harvest at ch 718 takes a board and not a person** · **and she goes up a stair and the volume ends on a step it does not finish** |
@@ -621,7 +630,7 @@ not a licence to move it.**
 13. **She goes east at ch 676** and the wall is still broken and there is nothing behind it, and she walks past the rows and
     goes into the rows once and comes out, and it settles nothing.
 14. **The sheet is read to her again at ch 679 and she says no again at ch 680**, in the ordinary voice, in a room with the
-    shutters up, and a man of sixty-one with the book writes one line and the date in the ordinary hand again, **and there is
+    shutters up, and a man of sixty-five with the book writes one line and the date in the ordinary hand again, **and there is
     still no hand in that building that takes it out.** She has now been written on twice by people who were right.
 15. **The budget at ch 683 — the batch midpoint** — and the finding is that the rate is a line under a total and the difference
     is not on any sheet in the building, and **she says the total out loud in the room at ch 684 and it is the first figure
@@ -714,7 +723,7 @@ Alive, found twice in Volume 11, unforgiving, east in a barrow ground. **He is o
 never in Shuyin's mouth, never on a page of any book, and he is never told that she has worked out her own total.**
 
 **What ch 713 is, and it is the only new thing Volume 12 does with him: she goes into the rows and tells him she has worked
-out her own total, and he tells her that he worked out his own in the fourth year and told nobody, and they say the same
+out her own total, and he tells her that he worked out his own five years ago and told nobody, and they say the same
 sentence to each other from opposite ends of a row of stones.** It settles nothing. The year is not mentioned once.
 
 ## Xie Changyin and the Order
@@ -757,7 +766,7 @@ through a wall.*
 **The line, the hand, the harvest, and the stair.**
 
 1. **Ch 716. Immortal Vessel 3**, on day 2,290, and the cost applied and not re-derived: **she cannot be counted where she
-   stands.** The man of sixty-one with the book is the mouth for it once and never in hers.
+   stands.** The man of sixty-five with the book is the mouth for it once and never in hers.
 2. **Ch 717. The eighth first, day 2,294, at the first hour, at the two posts.** She writes one line on the board in her own
    hand with a date and a place on it: her own total, in days and hours, true, because her hand cannot write a false line.
    **The right arm was open and does not close afterwards. At the last page of Volume 12 she has three fingers and a thumb.**
@@ -796,7 +805,7 @@ through a wall.*
   her life a number about her has been true and public and un-takeable.
 - **Who acts at the close:** she acts (an asking, a boarding, a refusal, a writing, an agreeing to be recorded, and a stair) ·
   he acts (a frame scene, a question, and a pen he was given) · Xie Changyin acts (a sheet read aloud and a figure given back
-  truthfully) · the man of sixty-one with the book acts (a hand that cannot take a name off) · and **the ground acts, for the
+  truthfully) · the man of sixty-five with the book acts (a hand that cannot take a name off) · and **the ground acts, for the
   first time in twelve volumes, by hearing something at the first hour of a morning, which is the one thing this book has been
   waiting eight hundred pages for and has never had.**
 - **What she is at the last page of Volume 12:** **Immortal Vessel 3**, three stages into the seventh realm, with a bar nine
@@ -967,7 +976,7 @@ total. **She may not compute twenty-two days.** The rule is not softened by bein
 - **No named weekday, no named calendar month, no named week.** `bible/world.md` makes this canon and **Volume 12's allowance is
   zero and it is measured by grep, not promised.**
 - **Do not turn any office or person into a villain.** The furnace people, the post's people, the men at the turn, the two
-  hundred in the rows, the boy of sixteen, the woman of sixty, Xie Changyin, the man of sixty-one with the book, the Hunter and
+  hundred in the rows, the boy of sixteen, the woman of sixty, Xie Changyin, the man of sixty-five with the book, the Hunter and
   Wei Ran are all correct. **The volume's hardest pressure comes from a figure on a sheet in a room with the shutters up.**
 - **Do not introduce a new final enemy.** The Scribe is fixed in `outline/ending.md` and belongs to Volume 15. The at most two
   namings in Volume 12 are as the thing he was a fragment of, never speaking, never offering, never adjudicated, and **nothing
@@ -1022,13 +1031,17 @@ without the command that produced it in the same sentence is not a figure at all
 
 | Batch | Chapters | Days | Pressure | Goal | Midpoint | Climax | Irreversible step |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0001 | 661–675 (15) | 2,061–2,090 | **the stair** | put her back inside a building with a lamp burning in it that ought not to be burning, find out what an announcement needs, and get her onto a board | ch 668 — **the room at the top of the stair is empty and has been empty, and there is nothing to receive an announcement and nobody to receive it, and those are the same fact** | ch 674 — **her name and her days go into a column on the turn's board** | **ch 674 — she goes on a board after eleven volumes off every board in the world, and the levy can now reach her, and it cannot be un-done** |
+| 0001 | 661–675 (15) | 2,061–2,084 | **the stair** | put her back inside a building with a lamp burning in it that ought not to be burning, find out what an announcement needs, and get her onto a board | ch 668 — **the room at the top of the stair is empty and has been empty, and there is nothing to receive an announcement and nobody to receive it, and those are the same fact** | ch 674 — **her name and her days go into a column on the turn's board** | **ch 674 — she goes on a board after eleven volumes off every board in the world, and the levy can now reach her, and it cannot be un-done** |
 | 0002 | 676–690 (15) | 2,091–2,140 | **the lamps** | go east past the broken wall, be read a sheet again and refuse it again, read a budget aloud in a room with the shutters up, and take the first stage past the last working point | ch 683 — **the budget, and the finding that the rate is a line under a total and the difference is not on any sheet in the building** | ch 685 — **Immortal Vessel 1 and its cost** · ch 687 — **he takes Court** · ch 689 — **she lets him keep the record** | **ch 689 — she agrees out loud, standing, in daylight, to be written down by the thing that was made to record her, and a document agreed to in daylight is not a document that can be taken back** |
 | 0003 | 691–705 (15) | 2,141–2,240 | **the firsts** | count the third, the fourth and the fifth firsts of a month down, hold the eighth frame scene, and work out the one figure nobody on any ground has ever been told | ch 697 — **she works out her own total** | ch 702 — **Immortal Vessel 2 and its cost** · ch 704 — **the chapter where a number she can work out is a number two hundred people can work out** | **ch 697 — she works out her own total and says it out loud in daylight where people are, and nobody has ever been told one, and it cannot be un-said** |
 | 0004 | 706–720 (15) | 2,241–2,300 | **what is written on it** | go back to the two posts, take the third stage, write the line, and go up the stair before the eighth first closes | ch 711 — **the seventh first goes by with her still below the line** | ch 716 — **Immortal Vessel 3** · ch 717 — **the line, and the hand** · ch 718 — **the harvest takes a board and not a person** · ch 719–720 — **the stair and the threshold** | **ch 718 — the designation is carried up on a board in her own hand instead of collected off her, and the levy takes the writing, and there is no instrument in this world that takes a line out of a book that has already gone up a stair** |
 
 **This table is the same table as *Pressure rotation across the volume* above and says the same thing. Where two copies of an
 authority ever disagree, that one is the authority.**
+
+**Batch 0001's band was corrected by its review repair from 2,061–2,090 to 2,061–2,084: the last dated action on the page is the
+ninth hour of the first of the month beginning 2,084, and 2,090 was a drafting-phase figure that never reached the page.** The
+Batch 0001 card's 2,078–2,090 allowance stands as the brief that was drafted against and is not re-planned here.
 
 Each batch carries its own goal, midpoint, escalation and climax, **at least one scene of physical risk or a real deadline**, and
 at least one irreversible step. **Batch 0001 owns the stair and the board; Batch 0002 owns the lamps, the budget, the first stage
