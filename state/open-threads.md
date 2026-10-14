@@ -1307,3 +1307,16 @@ ch 417 · `## Mouth Five` at ch 409 and `## Mouth Six` at ch 415 · a stray `Nai
 contradictions** (the Hunter's position at ch 369, 404, 418 and 420 · one walk at two lengths in ch 378 · an
 unresolvable referent in ch 401's cost paragraph). **None of them touches ch 417, ch 420's last two sections, or the
 volume's own answer, and if a repair appears to weaken any of those, the repair is wrong and the page is right.**
+
+### The repair phase that owns them, and what it blocks
+
+**Recorded by the Volume 7 close review fix pass.** The close recorded these and repaired none, correctly, and then
+nothing in the phase system obliged anyone to take them, so `state/current.md` and `state/book-metadata.md` were
+both amended to carry the order. **A REPAIR PHASE RUNS BEFORE VOLUME 8 PLANNING, AND VOLUME 8 PLANNING DOES NOT OPEN
+UNTIL IT HAS.** Eleven chapter files are to be reopened: **ch 369, 378, 391, 395, 399, 400, 401, 409, 415, 417 and
+420.** **Seven of the sixteen are state-file figures already re-derived in the close's own tables and are to be
+verified rather than re-derived; F14 is a false claim in `outline/volume-07.md` and that file is not to be
+re-planned.** The binding table, with the file and line of each finding and the one thing not to do while fixing
+it, is `state/current.md` under **`## Volume 7 close repair order — the sixteen findings, and the phase that must
+clear them`**. **No thread in this file is affected by any of the sixteen, and no thread below is retired by this
+note.**
