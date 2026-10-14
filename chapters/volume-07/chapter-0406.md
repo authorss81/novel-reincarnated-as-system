@@ -24,7 +24,7 @@ He took the chalk out and looked at it and put it back without marking anything.
 
 She had been standing at the rail for an hour and a quarter and he came and stood at the end of it and did not tell her to move.
 
-“You have read this board twice every morning for a year,” he said. “You read it in about nine seconds. What are you doing at it.”
+“You have read this board twice every morning for a year,” he said. “You read it in nine seconds. What are you doing at it.”
 
 “I am looking for a line.”
 
@@ -78,19 +78,19 @@ He took his hand off the rail.
 
 ## The Rest Of The Nineteenth
 
-She dug the run at the gate from the seventh hour to the ninth hour and got a copper, and Pei came out at the ninth hour and stood at the end of it the way he stands, and there were five coppers in the fold in the inside of the door frame and bread for two days.
+She dug the run at the gate from the seventh hour to the ninth hour and got a copper, and Pei came out at the ninth hour and stood at the end of it the way he stands, and there were six coppers in the fold in the inside of the door frame and bread for two days.
 
 Then she walked four miles east to a yard at a turn because it is three days in seven, and there were nine men on the north end and a second course going on over a sill, and the woman in the office end came out with a cup of something hot in it and put it into her hands and went back in without stopping.
 
-That was the fourteenth time in eight weeks and it was hot, and her hand did not do it at all, and it took about a second and a half, and she did not have to stand there and watch it go cold this time because there were nine men on the north end and three of them had been watching that bench since the twenty-sixth.
+That was the fourteenth time in eight weeks and it was hot, and her hand did not do it at all, and it took a second and a half, and she did not have to stand there and watch it go cold this time because there were nine men on the north end and three of them had been watching that bench since the twenty-sixth.
 
-She put it on the edge of the bench at the office end, which is where things go at that yard, and wiped her hand on her coat, and went and dug a length of drain at the low side for nothing, because there is a length on that ground that three days in seven is unpaid and nobody has ever asked her about it.
+She put it on the edge of the bench at the office end, which is where things go at that yard, and wiped her hand on her coat, and went and dug a length of drain at the low side for nothing, because there is a length on that ground that three days in seven is unpaid and that has never once been asked about.
 
-## What She Did About The Twelve
+## What She Did About The Seven
 
 Nothing.
 
-She had twelve coppers at the end of the twentieth and the margin correction was four, and she had walked up the mill road with the strip in her left hand eleven times since the fourteenth of a month two months back.
+She had seven coppers at the end of the twentieth and the margin correction was four, and she had walked up the mill road with the strip in her left hand eleven times since the fourteenth of a month two months back.
 
 She worked it out standing at the gate at the ninth hour on the twentieth with the bar in her right hand, and it came out the same way it had come out twice before, which is that a line of her own in the third floor’s ordinary hand is not a thing anybody inside nine days of road can check for her, and that four coppers buys the being in a book and not the knowing what is in it.
 
@@ -100,7 +100,7 @@ That is the third time. A rule is not worked out twice, and she had said that se
 
 She is eighteen years old and there is a man on this ground who reads the only hand on it that she cannot read, and he is four miles west of her and she has never been in a room with him and she has not asked to be.
 
-She has wanted that for two volumes. She had a strip in her coat for five months with a word at the head of it she cannot read, and a column nine days of road east with two lines off the bottom of it, and a book of her own on a stone under a keeper’s ladder at a post she has not walked to, and a second line at a counter with a day against it.
+She has wanted that since a strip came down a road with a word at the head of it in a hand she cannot read. She had that strip in her coat for five months, and a column nine days of road east with two lines off the bottom of it, and a book of her own on a stone under a keeper’s ladder at a post she has not walked to, and a second line at a counter with a day against it.
 
 Every single one of them is in that hand or is about that hand.
 

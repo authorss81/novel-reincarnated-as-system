@@ -1,6 +1,6 @@
 # The Rest Of The Run
 
-The fifth of a month beginning 1,034 was a gate day and she was in the run from the seventh to the ninth hour with the bar in her right hand, and there were eleven men on the bank above the gate because the second run had gone four days past the twenty-fourth and they were cutting it a second length and four of them would do it and there were eleven.
+The fifth of a month beginning 1,034 was a gate day and she was in the run from the seventh to the ninth hour with the bar in her right hand, and there were eleven men on the bank above the gate because the second run had gone eleven days past the twenty-fourth and they were cutting it a second length and four of them would do it and there were eleven.
 
 On the sixth she was at the yard at the turn at the sixth hour and read twenty-nine lines out loud twice, and four men at the north end turned round and listened to it, which they had done the first time and which she had noticed both times and had still not decided to notice.
 
@@ -100,7 +100,7 @@ She read eleven columns out loud in four hours and got them all the same both ti
 
 There were forty-one lines on the board at the works rail at the sixth hour of the seventh and she read all forty-one down and got them the same twice.
 
-There was a man at the rail she had not seen before. He was about thirty-five and he had a coat on and no chalk and he stood at the near end and read the board down the way she reads it, which is fast, and he got to the end of it and came back up and did it again.
+There was a man at the rail she had not seen before. He was thirty-five and he had a coat on and no chalk and he stood at the near end and read the board down the way she reads it, which is fast, and he got to the end of it and came back up and did it again.
 
 Then he looked at her right hand for about a second and a half and then at the board.
 

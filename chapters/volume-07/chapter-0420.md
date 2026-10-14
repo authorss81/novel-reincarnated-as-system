@@ -1,12 +1,26 @@
 # Two Columns On One Sheet
 
-It happened on the thirteenth of a month beginning 1,064 at the seventh hour in the biggest room she had ever stood in, and it took forty seconds from the time the bell went to the time the man got his leg out, and she could give anybody the whole of it to the second.
+She went up the made road at the sixth hour of the thirteenth of a month beginning 1,064 with the mill on the left of the whole two miles of it, and she had been in the room once, and she had been in it two hours and a half the day before and the reach had not gone once in it, and there was no arrangement, and Geng had not asked her for anything, and she had come of herself.
+
+## The Seventh Hour
+
+The same man was on the same frame with the same bar.
+
+The bar went under the near end of the dressed stone and he had his shoulder to it and there were two men on the chain, and the stone had been standing four inches off true since the second of that month, and four inches had become where it sat.
+
+It went out of his hands sideways.
+
+Not fast and not slow. It went out of them the way a bar goes out of a hand when the hand underneath it stops being able to be the bottom of the thing, and the near end of the stone came down a quarter inch, and then it came down the rest of the quarter inch, and the bell went off on the floor of the biggest room on that ground.
+
+Nine men heard it. It is not a bell anybody rings and it is not loud, and it has been on that floor since before the wheel turned.
+
+A dressed stone came down on the leg of a man of thirty who had his fingers under the frame to keep the face square.
 
 ## The Two Seconds She Had
 
 She put it there.
 
-There was no wind and there was no fire on that floor and there was not a hand in that room on the ground, and she had been carrying the thing since the second of a month beginning 1,004 when a dressed stone went the length of her own arm out of a bed at the south end of a yard at a turn with a man’s leg under it.
+There was no wind and there was no fire on that floor and there was not a hand in that room on the ground, and she had been carrying the thing since the seventeenth of a month three months back, when a dressed stone went the length of her own arm out of a bed at the south end of a yard at a turn with a man’s leg under it.
 
 What made it go was that a man asked her.
 
@@ -16,7 +30,7 @@ It went four feet.
 
 It went sideways and about nine inches down into the joint of the floor under the frame, which is a floor of dressed stone laid flat with sand between, and it stopped with the near end of it clear of the low side and the man of thirty sitting on the frame with his leg out in front of him and both hands on it.
 
-It took four seconds, and nine men in that room had watched two men and a bar and a chain and a boot fail to shift a quarter inch of that stone for three weeks, because it was standing four inches off true and they knew it and they had been working around it.
+It took four seconds, and nine men in that room had watched two men and a bar and a chain and a boot fail to shift a quarter inch of that stone for eleven days, because it was standing four inches out of true and they knew it and they had been working around it.
 
 She was nine feet off and her short breath went to five counts and stayed there for a minute and then came back to four, and it comes back to four the rest of the time and it has not come back to four inside a loaded reach since the twenty-second of a month five months back.
 
@@ -28,7 +42,7 @@ It said its one sentence and stopped.
 
 The man on the frame did not shout and did not say anything at all. He looked at his own leg for two seconds and then at the stone and then at the joint of the floor, where the near end of it was standing four feet from where it had been with a sand line broken under it.
 
-Then he got up. There was nothing broken in him that anybody in that room could see and he walked to the water bucket and put his hands in it.
+Then he got up. There was nothing broken in him that anybody in that room could see and he walked to the water bucket and put his hands in it, and a man who had not stopped what he was doing put a cloth over the stone so that the others could work around it, and she was not asked a single question.
 
 Geng put the chain on the hook.
 
@@ -50,15 +64,15 @@ He turned the sheet round.
 
 He held it out at arm’s length, across the whole width of the room, to the smallest person in it.
 
-Nobody else on that floor can read a hand it was not taught, and the man who taught his own is eleven years old and was at a school four days east of there, and Geng had looked at the eleven men in that room before he looked at the distance.
+A floor sheet is kept in the hand of the man who makes the floor, and eleven men have worked under Geng and not one of them has ever had to read one back, and the man who taught him that hand was a boy of eleven who is four days east of there at a school and does not put pen to paper any more. Geng had looked at the nine men in that room before he looked at the distance.
 
 She came off the bench and took it in her left hand.
 
-The right one has four fingers and a thumb on it and it is the wrong hand for a page, and every man in that room knew which hand she would use before she did it, and eleven men said nothing at all about it.
+The right one has four fingers and a thumb on it and it is the wrong hand for a page, and every man in that room knew which hand she would use before she did it, and nine men said nothing at all about it.
 
 ## What Was On The Sheet
 
-It is a floor sheet. It is nine men and nine days of work, in Geng’s own hand, in pencil, and it has two columns on it and the rule is the same on both sides and the two columns are the day the thing happened and the day it was found out.
+It is a floor sheet. It is nine men and nine days of work, in Geng’s own hand, in pencil, and it has two columns on it with the same rule ruled under both of them, and the left one is the day the work was done and the right one is the day it was checked, and on every line on that sheet except one the two are the same day.
 
 She read it out loud.
 
@@ -66,41 +80,53 @@ In the ordinary voice, in a room about a hundred feet long with nine men in it, 
 
 It took nine minutes and it was correct all the way, and four men of the nine listened to it the way men listen to a thing they will be asked about later.
 
-## The Third Of The Way Down
+## A Third Of The Way Down
 
-She stopped on the seventeenth of the month.
+She stopped about a third of the way down.
 
-She put her left thumb on the line and she said, in the ordinary voice:
+She put her left thumb on the line and she said, in the ordinary voice, in a room about a hundred feet long with nine men in it:
 
-“Read the two columns against this line.”
+“Read that line in both columns.”
 
 Geng came and stood at her shoulder, which he has not done for anybody in nineteen years, and he read it, and then he read the same line in the other column, and then he stood there.
 
-“The seventeenth,” he said.
+“The eighteenth,” he said.
 
 “Yes.”
 
-“That is the day the season turned and the day the board at the works filled and the day the strip went up the mill road with a cord round it, and I know it was that day because I had a stone in on the seventeenth.”
+“The twenty-ninth,” he said.
 
-“That is one column.”
-
-“The other one is the twenty-eighth,” she said. “The day you heard about it.”
+“Yes.”
 
 ## What She Said Then
 
 She kept her thumb where it was.
 
-“You have written the day it happened on one side and the day you heard about it on the other, and those are eleven days apart, and both of them are on this sheet in your own hand, and you have been checking them for nineteen years.”
+“The eighteenth of that month is the day the board at the works filled, and she could not have taken a single line on that rail, and the strip went up the mill road on the first after it.”
+
+“That is one column.”
+
+“The twenty-ninth is the day you were told. That is the other one.”
+
+She looked up at him.
+
+“You have written down the day you found out. You have never once written down the day it happened, because the sheet is a floor sheet and the day it happened is not a thing a floor deals in.”
 
 “That is how a floor sheet works.”
 
-“Yes. And the thing that happened on the seventeenth of that month is the thing that is on the right-hand side of the sheet at the eleventh line from the top.”
+“Yes.” She took her thumb off it. “And that line is the proof, because you wrote both halves of it and you did not know you were doing it.”
 
-She turned the sheet round and put her finger on a different line.
+She turned the sheet round a hundred and eighty degrees and put her finger on a different line, about a ninth of the way from the bottom.
 
-“That is this morning. The bell. And that is eleven days after the day it started, and you have it in the other column, and it is already on this sheet in two places and it has been since you wrote it down.”
+“That is the stone. The second of this month on the left, because that is the day it went onto the frame. Today on the right, because that is the day it went off.”
 
-Geng stood at her shoulder for four seconds and did not say anything.
+“That is how a floor sheet works.”
+
+“It is how a floor sheet works when a stone sits true.” She did not move her finger. “Eleven days. It has been standing four inches out of true for eleven days and every man on this floor has known the whole of it since the second, and the second is written down nowhere on this sheet, and the day you find out and the day it happened are two different days and you have only ever had one column for them.”
+
+Geng stood at her shoulder for four seconds and did not say anything, and then he said, “Say the other bit.”
+
+“You have two columns on this sheet and you have filled in the second one once in nineteen years, and the one time you filled it in you did not know you were doing it.”
 
 ## They Wrote It Down
 
@@ -108,11 +134,11 @@ He said one word.
 
 “Nai.”
 
-A man of about forty took a pencil off the bench and wrote a line under the second column of the floor sheet and wrote the seventeenth of the month against the first column, and Geng read it over his shoulder and said it again out loud, and the man wrote it again because it is nineteen years of his life that a thing said once by the man who runs a floor is not a thing that is in.
+A man of about forty took a pencil off the bench and wrote a heading over the second column of the floor sheet and wrote the eighteenth of that month against the first column on the line she had stopped at, and Geng read it over his shoulder and said it out loud again, and the man wrote it again, because it is nineteen years of his life that a thing said once by the man who runs a floor is not a thing that is written.
 
 She watched them write it down.
 
-She stood about nine feet off with an empty left hand and watched two men in the biggest room she has ever stood in write a date down because she had said it out loud, and neither of them asked her anything, and neither of them had to, and she did not know what to do with her face and she left it alone.
+She stood about nine feet off with an empty left hand and watched two men in the biggest room she has ever stood in put a second column into a sheet because she had read it out loud and stopped one of them in the middle of it, and neither of them asked her anything, and neither of them had to, and she did not know what to do with her face and she left it alone.
 
 ## The Cost
 
@@ -124,11 +150,13 @@ It had not gone once in two hours when there was nothing in the room that needed
 
 On the fourteenth she was at the gate at the seventh hour and on the fifteenth and on the sixteenth. On the sixteenth two hundred pounds of face went out of that building on two carts and went up the made road and did not go in anywhere on nine days of road.
 
-On the eighteenth she read nine columns out loud on the third floor of a counting house and got them all right, and a woman of forty-five turned round at the eighth hour and said that the yard page had come down the mill road on the ninth with four words on it in a yard-book hand and a date against them on a slip, and that the man with the brush on the floor below had asked to see the slip.
+On the eighteenth she read nine columns out loud on the third floor of a counting house and got them all right, and a woman of forty-five turned round at the eighth hour and said that the yard page had come down the mill road on the ninth again with four words on it in a yard-book hand and a date against them on a slip, and that the man with the brush on the floor below had asked to see the slip for the third time.
 
 She said yes.
 
-On the twentieth she went west at the fifth hour with eight coppers and came back at the eleventh with four loaves and nothing in the fold, and that was the eleventh trip to that store since she came past the last working point and the storekeeper had not asked her anything on any of them and had not given her a different price on any of them.
+On the twentieth she went west at the fifth hour with twenty-nine coppers in the fold and came back at the eleventh with four loaves and nothing in the fold.
+
+The storekeeper had not asked her anything and had not given her a different price. The margin correction on the third floor was four, and it had been four since before she came, and she had twenty-five coppers in the fold in the inside of the door frame at the second hour of the twenty-first, and she did not go up the hill.
 
 ## What Was Still Open On The Twentieth
 
@@ -136,17 +164,15 @@ There is a man eleven miles east of a cart track with a notebook shut under his 
 
 There is a floor above the third floor and a floor above that and a room two miles up the mill road with a date in it that she has never seen shut.
 
-There is a hand on this ground that can read a line written in a hand she has never seen, and there are four sheets in a groove in a room with a lamp in it, and there is a name at the head of one of the four, and a man of forty-three read it four times on the night of the eighteenth and has never read it since, and she said four words in that room on the nineteenth and the four words went up.
+There is a hand on this ground that can read a line written in a hand she has never seen, and four sheets in a groove in a room with a lamp in it, and a name at the head of one of the four, and a man of forty-three read it four times on the night of the eighteenth and has never read it since, and she said six words in that room on the nineteenth and the six words went up.
 
-There is a word that two people inside nine days of road know and that is written down nowhere.
-
-There are eleven people at a place nine days of road west whose business it was and not hers, and eleven hundred people at a stone that has never been spoken of in seven months.
+There is a word that two people inside nine days of road know and that is written down nowhere, and there are eleven people at a place nine days of road west whose business it was and not hers, and eleven hundred people at a stone that has never been spoken of in seven months.
 
 And there is a strip that went east on the end-of-month cart three months back and did not come back on the cart that goes up with the empty trays, and she carries the other half of it folded against her ribs every day and cannot read the word at the head of it, and there is a man in a room with a lamp in it who could read it in four seconds and has not been asked and never will be.
 
 ## The Twenty-Seventh
 
-She lay on the boards at the second hour of the twenty-seventh of a month and she had been in the room for two hours on the thirteenth and it had not gone once in two hours until a man asked her in it.
+She lay on the boards at the second hour of the twenty-seventh of a month and she had been in that room for most of a morning on the thirteenth, and it had not gone once in it until a man asked her for it in front of nine people.
 
 Nine men had watched it happen. A bell had gone off nine feet from where she was standing. A floor was a block short. A date had been written down in two columns on a sheet in a man’s own hand because she had read it out loud and stopped him in the middle of it.
 

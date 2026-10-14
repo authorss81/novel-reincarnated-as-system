@@ -88,7 +88,7 @@ He gave her the page back.
 
 She is eighteen years old and a man of fifty-one who runs the biggest room she has ever stood in looked at her arm for two seconds and worked out what she could not do and did not say it, and then asked her whether she could read.
 
-Nobody on nine days of road has offered her a thing she can actually do since the eighth of a month four months back, when a woman of forty-five asked her to read a column out loud and it turned out to be the only instrument on that side of the line.
+She has not been offered a thing she can actually do on nine days of road since the eighth of a month four months back, when a woman of forty-five asked her to read a column out loud and it turned out to be the only instrument on that side of the line.
 
 And he said it was not an offer and he was not asking her to do it now, and it is not an offer, and it is the first thing anybody has said to her in seven months that she is able to do and cannot be paid for.
 
@@ -100,7 +100,7 @@ And then he said, “That number has been wrong on that sheet since the second o
 
 “It was wrong.”
 
-“It was a hundred and forty, and the face is a hundred and thirty-eight, and I have had it as a hundred and forty because I have been writing down what the bar says instead of what the stone says.” He looked at the page. “That is two pounds on a line that closes on the sixteenth, and I am going to get about nine numbers right over the next four days, and I am not sending anybody two miles for any of them.”
+“It was a hundred and forty, and the face is a hundred and thirty-eight, and I have had it as a hundred and forty because I have been writing down what the bar says instead of what the stone says.” He looked at the page. “That is two pounds on a line that closes on the sixteenth, and I am going to get nine numbers right over the next four days, and I am not sending anybody two miles for any of them.”
 
 “All right.”
 
@@ -112,9 +112,9 @@ That was the whole of it. She walked four miles back to a shed at a mill whose w
 
 She wrote one hundred and thirty-eight on the page in her own hand and took it down the road and the man with a rule in his hand read it and wrote the figure against his own line in his own hand, and that is the first number of that stone that has been right.
 
-On the eleventh she dug the run at the gate from the seventh hour to the ninth hour and got a copper, and there were seven coppers in the fold in the inside of the door frame and bread for five days, and she had not eaten since the sixth.
+On the eleventh she dug the run at the gate from the seventh hour to the ninth hour and got a copper, and there were six coppers in the fold in the inside of the door frame and bread for five days.
 
-On the twelfth and the thirteenth she dug the run again at the same hours, and on the sixteenth she went west at the fifth hour with twelve coppers and came back at the eleventh with four loaves and nothing in the fold.
+On the twelfth and the thirteenth she dug the run again at the same hours, and on the sixteenth she went west at the fifth hour with eleven coppers and came back at the eleventh with four loaves and nothing in the fold.
 
 On the fourteenth she was at the rail at the sixth hour and there were forty-four lines on it.
 

@@ -142,20 +142,22 @@ She was eighteen years old in a made road with a mill on the left of it and she 
 
 Nothing.
 
-That is the whole of what it cost in the room. No book will not shut. Nothing is written. The lamp is on and a man of forty-three went back to the top of a sheet that was not that one, and eleven days of the reach were still gone, and she was in a building with a stove in it and a counter and eleven men in it downstairs, and nothing in that building knew she had done anything at all.
+That is the whole of what it cost in the room. Nothing was written, the lamp was on, and a man of forty-three went back to the top of a sheet that was not that one, and she had had no reach at all since the eleventh of a month, and eleven men were downstairs in a room with a stove in it, and not a thing she had done in that room had happened anywhere in that building.
 
 The bill is hers.
 
-## The Twenty-Third
+## The Second Hour
 
-It came back on the twenty-third of a month at the fourth hour, on the third floor, with her left hand flat on the edge of a table with forty books open on it, and it went four feet and stopped, and a woman of forty-five turned round and said, without looking up:
+She lay on the boards at the second hour of the twentieth with the strip against her ribs and the bar under her right hand, and she put a lump out of the box in at the low end of the ring.
 
-“Wood is cold.”
+It did not come up.
 
-She sat at the near end of that table for another hour and forty minutes and read nine columns out loud and got them all right.
+It had come up the width of a finger every night since the eighth of a month four months back, and it had not come up at all since the eleventh, and she had not tried it once in nine days because there was nothing in that shed she could put a hand on and have answer her, and she was not going to buy a bar to find out.
 
-And a strip in her coat against her ribs had a word at the head of it in a hand that had been nine feet away from her on the nineteenth of a month, and a lamp was on in a room at the end of the floor below this one, and there was a man in it who had read the word four times, and he would never be asked.
+So she lay there with her hands behind her head and said the six words out loud once, into a shed with boards on the floor and no fire in it, and then she said them a second time because she wanted to hear whether they sounded any different the second time.
 
-She put the strip back against her ribs with her left hand.
+They did not.
 
-That was the price of the whole of it, and she had paid it out loud in a room in eleven words, and the eleven words had cost her everything she had wanted and nothing she could put a name to.
+And a hundred yards down a made road there was a sheet in a groove in a room with a lamp in it, and it would go up the mill road on the first of a month in a bundle with a cord round the tray, and a name was at the head of it, and a man with a brush on the floor below would copy it into a book that shuts.
+
+She had paid six words for it, and the six words had cost her everything she had wanted and nothing anybody could take off her, and she had said so out loud in a room at the seventh hour with the door shut and no force anywhere in the world in it.

@@ -1,6 +1,6 @@
 # No Last Day On It
 
-The fourth of a month beginning 1,034 was the fourth hour of a day at the works and she was at Pei’s gate with the bar in her right hand at the seventh hour and the run going down to the far end of it, and there were eleven men on the bank above the gate because the drain was the second run and the second run was against the twenty-fourth and the twenty-fourth was four days behind her and they were cutting it a second length.
+The fourth of a month beginning 1,034 was the fourth hour of a day at the works and she was at Pei’s gate with the bar in her right hand at the seventh hour and the run going down to the far end of it, and there were eleven men on the bank above the gate because the drain was the second run and the second run was against the twenty-fourth and the twenty-fourth was ten days behind her and they were cutting it a second length.
 
 She had dug four hundred yards of that drain in seven months and she could not take a line off the board for any part of it, and on the fourth she had eight coppers and a line at the counter cost ten.
 
@@ -90,7 +90,7 @@ He took his hand off the book and put the pen in the drawer and shut the drawer,
 
 He stopped for four seconds.
 
-“Nobody in this building is going to tell you to go and try somewhere else, because you have been here seven months and there are four other places within nine days of road and you have been to all of them, and you did not go to them for money. You went to them because you wanted a line.”
+“I am not going to tell you to go and try somewhere else, and neither is anybody else on this floor, because you have been here seven months and there are four other places within nine days of road and you have been to all of them, and you did not go to them for money. You went to them because you wanted a line.”
 
 ## The Counter And The Stove
 

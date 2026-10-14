@@ -30,7 +30,7 @@ Nothing on it is measured by the voice. There has never been a line on that boar
 
 She read the twenty-nine lines twice and she could have taken none of them.
 
-The two hundred and six yards of dressed stone is a weight. It goes on a bar, and the bar takes two hands, and the heavy end has been closed to her since a month two months back and will not open again.
+The two hundred and six yards of dressed stone is a weight. It goes on a bar, and the bar takes two hands, and the heavy end has been closed to her since before she came past the last working point and will not open again.
 
 The forty feet of bed is a length. You dig it four feet deep with a bar and a shovel and you fill it and you pack it, and that is four hours of a right arm for every ten feet of it, and her right arm has been open half the time since a cut at the far end of a bad flat in a different year.
 
@@ -68,7 +68,7 @@ He put his arm through the sleeve.
 
 He stood at the rail with his back to the hut door and looked down the twenty-nine lines, and he took his time about it, and he was not being kind and he was not being unkind.
 
-“There is a thing you want me to say and I am not going to say it, because it is not mine to say. I keep the list. The man with the rule in his hand checks what is on it and takes what is off it. I have got a counter and a pen and a rail and about nine names that come off it in a week.”
+“There is a thing you want me to say and I am not going to say it, because it is not mine to say. I keep the list. The man with the rule in his hand checks what is on it and takes what is off it. I have got a counter and a pen and a rail and nine names a week come off it.”
 
 “Yes.”
 

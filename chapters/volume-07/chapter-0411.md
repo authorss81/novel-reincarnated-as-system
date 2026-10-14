@@ -16,7 +16,7 @@ He put the pen down flat.
 
 “It is ten coppers,” he said. “It has been ten coppers since before I came and it is a day at this counter and it is ten days at Pei’s gate and it is not a deposit, it is the price of the line. You have asked me this before and I gave you the number then and you went away without paying it, and I did not put anything down either time, so you know as much about that as you did before you walked in.”
 
-“I have eight,” she said.
+“I have seven,” she said.
 
 “Yes. You said that on the fourteenth of a month two months back too and you had eleven then.”
 
@@ -100,7 +100,7 @@ He kept his hand flat on the closed book for four seconds, which is longer than 
 
 “I do not know whether you will be at that gate in the spring. I have watched you go out of that door eleven times in seven months and I have never once seen anybody come in. That is not a thing I am complaining about.”
 
-“It is a thing I have been keeping in my head since the twenty-second of a month, and there is nobody in this building I would say it out loud to, because the day I say it out loud it is a page.”
+“It is a thing I have been keeping in my head since the twenty-second of a month, and I could not say it out loud in this building, because the day I say it out loud it is a page.”
 
 He picked the pen up.
 
@@ -114,15 +114,15 @@ He was right about all three and he did not write a word of it down.
 
 There is a season’s book on that counter and it opens on the first of every month and it shuts every night and there is a name in it against the twenty-second of a month, and there is no name in it against the third.
 
-And she had eight coppers of the ten, which is the part she is going to carry, because the reason she did not get a line was not the price and it is going to stop being about the price on the fourth of a month.
+And she had seven coppers of the ten, which is the part she is going to carry, because the reason she did not get a line was not the price and it is going to stop being about the price on the fourth of a month.
 
 ## The Walk Up The Mill Road
 
-She went up the mill road from the counting house to the works at the eighth hour with eight coppers in the fold in the inside of the door frame, and she was still working it out when she got to the top of it.
+She went up the mill road from the counting house to the works at the eighth hour with seven coppers in the fold in the inside of the door frame, and she was still working it out when she got to the top of it.
 
-Ten coppers. She could have had eight more inside five weeks at a copper a day, and she had been telling herself for two months that the money was the reason.
+Ten coppers. She could have had three more inside three days at a copper a day, and she had been telling herself for two months that the money was the reason.
 
-The money was not the reason. She worked that out at the third milestone from the counting house and it took her about ninety seconds, and then she stood at a milestone on a made road for eleven minutes working out how it had been the money.
+The money was not the reason. She worked that out at the third milestone from the counting house and it took her about ninety seconds, and then she stood at a milestone on a made road for eleven minutes with seven coppers in the fold and the strip against her ribs, going over the two months again with the eight and the ten in front of her.
 
 It had been the money because it was the only wall she had that she could see the top of.
 

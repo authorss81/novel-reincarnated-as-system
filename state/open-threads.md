@@ -1130,3 +1130,83 @@ it.** Four coppers and bread for three days. Four fingers and a thumb and an arm
 went east and did not come back, and a column that came back with two lines off it, and a man with a burn on his hand
 two miles up the road who is not going to be asked for anything, and a woman of forty-five who is going to read
 something out loud in a room.
+
+## Volume 7 Batch 0004 (ch 405–420) — what this batch added, and what is live going into Volume 8
+
+**Volume 7 is complete on the page at ch 420. This is the last batch of the volume and it closed the volume's own
+question in a room. Everything below is confirmed OPEN at ch 420 and nothing here is retired.**
+
+**ADDED AND LIVE GOING INTO VOLUME 8**
+
+- **The fine hand, and what it says about her. SPENT AT ch 417 AND NOT GIVEN BACK.** Dai read it four times on the
+  night of the eighteenth of the month beginning 1,034. He offered to read it to her once, in a room, in daylight,
+  on the ordinary condition that she confirm or deny it. **She said no.** A denial is an entry, so her no went up the
+  same road every answer has gone up since before the wheel on that mill was cast, and there is a name at the head
+  of one of four sheets in a groove in a room with a lamp in it. **Nothing in that building failed. Nothing was
+  written. No book will not shut.** She is poorer for it for the rest of the book. **Do not reopen this. Do not let
+  any card say it is reconsidered, softened, queried, or mentioned in passing by anybody. It stands.**
+- **The bill for the refusal.** The floor's only response is to treat her as somebody who may know something, four
+  times a month, forever, with nothing written down anywhere. **She would rather be entered**, and was asked about it
+  at ch 418 in her own hearing, and cannot un-ask it.
+- **A question on the third floor with nothing at the other end of the rule**, asked on the twenty-ninth of the
+  month beginning 1,034: *is there anybody inside nine days of road who could read the hand it is in.* She did not
+  answer it. The man behind the counter shut the book.
+- **What a send costs the person it is sent for, which the Hunter gave her on the made road in the ordinary voice:
+  six months.** Not the road and not a room. It needs a line with her name at the head of it and a rule under it,
+  and where she is standing is not a part of it. **Her line already exists and her no is already on it.** He does not
+  write anything she says down.
+- **The board at the works is full and cannot pay her and is not going to.** Thirty-four lines on the fourth,
+  forty-one on the seventh, forty-nine on the third of the next month, every one measured by the weight or the
+  length. **The pay question is closed for the whole of Volume 8 and does not turn again.**
+- **A second column on a lifting-floor sheet that has been empty for nineteen years**, filled in on the thirteenth of
+  the month beginning 1,064, in Geng's own hand, by a man of about forty, because a woman of eighteen read the sheet
+  out loud and stopped him in the middle of it. **A floor that runs a second column is a floor that will be asked to
+  run it again.**
+- **A floor a block short**, a dressed stone four feet off its frame that is not going back, and a bell that has
+  already gone.
+- **The reach will not go out of a room she has not been asked into.** It went four feet when a man of thirty asked
+  her for it, in a room of nine men, in front of all of them, and it had not gone once in two hours when there was
+  nothing in the room that needed it. **She is a thing that has to be pointed by somebody.**
+- **Two things of hers are in books that shut and neither is a line, a column or a person**: four words in chalk in a
+  yard-book hand, and a slip with a date and a place on it written by Rao in a hand that is not hers. **Both cost
+  nothing and neither pays her. The man with the brush has asked to see the slip three times and said yes the third
+  time.**
+- **Four sheets of her going up the mill road once a month in a bundle with a cord round it**, already written in a
+  hand the man with the brush cannot read and does not want to, and he has never seen the day before the second and
+  does not know where on nine days of road they are written.
+- **The man who reads the fine hand knows four people have been in his room in twenty-six years**, and one of them
+  was a woman in her situation nine years ago who said a thing was right when she knew it was not, and is alive.
+- **Geng's list.** A piece of paper, a name on it, not his hand, not a room he has ever been in, nineteen years and
+  never taken off it, nothing in that building about it, and he has stopped thinking about it **on purpose, because
+  the day he starts again he will get it wrong.**
+
+**CARRIED AND STILL OPEN, unchanged by this batch**
+
+- **The Hunter's request is pending.** A Wall writ is not issued to a field agent. **The line's own people still do
+  not know she exists.**
+- **Everything above the offices that vouched is unread and unnamed, and no office has been named at any point in
+  sixty chapters.**
+- ***Kiln-born* is in two heads and on no paper.**
+- **What became of the eleven.**
+- **The register still reads *reconciled*. Read and never corrected, and not read at all in this batch.**
+- **The Clay Plate is worn against her ribs and has not been described. Volume 7 did not take it off and did not
+  describe it.**
+- **The year of non-forgiveness is still running and the subject was not mentioned once in ch 405–420.**
+- **The relicensed licence still says Foundation the first stage on the front of it and she has still never opened
+  it.**
+- **The strip that went east on the end-of-month cart and did not come back on the cart that goes up with the empty
+  trays**, and the column that came back with two lines off the bottom of it, and a stair book going up a road once
+  a month with a name in it in two books that shut.
+- **Her own book is standing on a stone under a keeper's ladder at a post nine miles west, and she did not go to it
+  in Volume 7.**
+- **Hou Sanliang is paid and has never been met. Ning Bo's account is discharged where it can be closed. Ning Wu's
+  decade is a line with no mark on it. None of the three is on the page in Volume 7.**
+- **Yuan's unentered state, his unnamed state and the date of the morning he died are all still gone and none is
+  given back. He is answerable as of ch 401, which is a third thing and worse than being sendable because an answer
+  can be quoted, and the volume ended with him refusing a second use because the first one has not finished.**
+- **No figure of what is left of him is stated on any page in ch 405–420, and the Ledger was not ordered, held,
+  priced, refused or thought about.**
+- **The surface answer was paid once at ch 267 and is not said, hinted at, gestured at or paraphrased in any mouth in
+  Volume 7. The tenth part of the structural answer is not given and nothing proves the crews wrong.**
+- **The relicensing legs stay in order — clearance, seal, countersignature — and Volume 7 invented none of them.
+  MEMBER ABSENT stands three times, is permanent, and was not raised anywhere in Volume 7.**

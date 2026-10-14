@@ -1,4 +1,4 @@
-# Somebody Who May Know Something
+# What Six Months Costs
 
 A reading that has not been answered does not sit in a room.
 
@@ -6,7 +6,7 @@ That is the whole of the twenty-fifth of a month beginning 1,034 and she worked 
 
 Eight of the nine that come down that road every year are lists of places and dates.
 
-One was a line about her, dated the eighteenth, and on the nineteenth of a month at the seventh hour in a room with a lamp in it she said four words in the ordinary voice, and the four words went up the same road every answer has gone up since before that mill was cast.
+One was a line about her, dated the eighteenth, and on the nineteenth of a month at the seventh hour in a room with a lamp in it she said six words in the ordinary voice, and the six words went up the same road every answer has gone up since before that mill was cast.
 
 And there is no answer on it anywhere on nine days of road, and there never will be, and that is not a fault and it is not a thing anybody did to her.
 
@@ -60,7 +60,7 @@ That is the part that took her four days and she has said it out loud to a livin
 
 Being entered is one line in a book with a day against it, written by a man with a pen, in the ordinary hand, about a woman at a gate, and it is over and it is shut and she cannot get it out and she knows exactly what it says.
 
-Being somebody who may know something is a boy of sixteen asking her about carts on a stair, four hours a month, forever, with nothing written on a slip in a drawer at the end of the floor.
+Being a person the floor has taken to thinking might know something is a boy of sixteen asking her about carts on a stair, four hours a month, forever, with nothing written down anywhere at the end of that floor.
 
 She traded one line she could have measured for a standing arrangement she cannot, and she did it in a room with a lamp in it on the nineteenth of a month, and it was worth it, and she is not going to be able to say how she knows.
 
@@ -118,7 +118,7 @@ She stood on a made road nine feet off a man with a shut notebook and said the t
 
 “It came down on the eighteenth. It is about me. I said no to hearing it and the no went up and there is no answer on it and there never will be one.”
 
-He did not write it down, because he never writes anything she says down, and there is a notebook under his arm and not one word of it is hers.
+He did not write it down, because he never writes anything she says down, and there is a notebook under his arm and it is hers on no page in it.
 
 “Then you already know what it costs,” he said.
 
@@ -134,4 +134,4 @@ She was richer than she had been at the end of the month before and she could no
 
 There is a line out of that door and a road on the other side of it and nine days of walking, and she had crossed it on foot once before she came and would not walk it again, and she was not going to walk it now to be somewhere that is not here, and she has never in seven months wanted to be anywhere else.
 
-She left the bar in the fold at the side of the road and went east four miles to a shed at a mill whose wheel has not turned since before she came, and she lay on the boards at the second hour and said four sentences out loud, and one of them was that she had found out what it costs to say no, and it is six months, and she got it for nothing.
+She shouldered the bar and went east four miles to a shed at a mill whose wheel has not turned since before she came, and she lay on the boards at the second hour and said four sentences out loud, and one of them was that she had found out what it costs to say no, and it is six months, and she got it for nothing.

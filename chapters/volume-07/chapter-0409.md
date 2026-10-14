@@ -50,7 +50,7 @@ He put the brush down in the groove and squared the second sheet.
 
 He picked the brush up again.
 
-“Something has come down on a road this month that wanted copies made of it going the other way, and the copies are on this table, and there are four of them, and no one in this building has asked me for them.”
+“Something has come down on a road this month that wanted copies made of it going the other way, and the copies are on this table, and there are four of them, and this floor has not asked me for one of them.”
 
 ## The Ordinary Work Of The Floor
 
@@ -60,7 +60,7 @@ A man of forty-eight does about nine hundred lines a month down into the book un
 
 He does not like that and he has never said so out loud in that room, and on the first of a month she sat at the end of the long table for an hour and a quarter while he worked and he talked about a copying floor the way a man talks about a job.
 
-“If you can count and you can copy and you cannot write, you can work here for the rest of your life and there is not one thing that will ever come to you about it.”
+“If you can count and you can copy and you cannot write, you can work here for the rest of your life and nothing will ever come to you out of it.”
 
 “All right.”
 
@@ -68,7 +68,7 @@ He does not like that and he has never said so out loud in that room, and on the
 
 ## The Tray And The Cord
 
-The tray goes up on the first at the sixth hour and comes down on the ninth at the sixth hour and it has a cord round it, and it has gone that way for longer than anybody in that building has been alive, and nobody carries it by hand.
+The tray goes up on the first at the sixth hour and comes down on the ninth at the sixth hour and it has a cord round it, and it has gone that way for longer than anybody in that building has been alive, and no man carries it by hand.
 
 It goes on the cart. The cart goes up the mill road with the mill on the left of the whole road and comes back down the same way at the ninth hour, and the tray comes off it at the gate and a man with a brush turns it over.
 
@@ -78,7 +78,7 @@ She asked him who put the cord on.
 
 “Who opens it.”
 
-“Nobody. It is not a sealed thing. It is a bundle of pages and it has been eleven hundred years without a seal and everything anybody on this ground has ever wanted to keep out of a book has got into it anyway.”
+“That is not what that is for. It is a bundle of pages with a cord round it, and it has gone up that road in the open for longer than anybody in that building has been alive, and everything anybody on this ground has ever wanted to keep out of a book has got into it anyway.”
 
 ## The Part He Would Not Say
 
@@ -92,9 +92,17 @@ He turned the sheet back over.
 
 “But I will tell you what I do know, which is that whoever it is can read it, because somebody is paying for it to go up, and on nine days of road the only hand anybody pays for that I have never been able to read is that one.”
 
+He picked the brush up off the groove, looked at the four sheets the way a man looks at four sheets he has handled every month for two years and has never once opened, and put it down again.
+
+“And I will tell you the other thing, which is that I have never once been asked to make one of the four. In two years they have come off the cart on the second already written, and I have put them in the bundle on the third, and I have never seen the day before the second and I do not know where on nine days of road they are written.”
+
+“Why do you do it.”
+
+“Because the bundle goes up on the first and it does not go up full, and I have never been told what a bundle goes up full of and I am not going to start guessing at it in my forty-eighth year.”
+
 ## The Plain Part About One Person
 
-She is eighteen years old and she has spent five months carrying a word she cannot read against her ribs, and she has spent two volumes wanting to be in a room with the man whose trade it is, and on the first of a month she has been in a room where a hand she cannot read was being copied four times over into four clean sheets, and the man doing it could not tell her what it was and did not want to.
+She is eighteen years old and she has spent five months carrying a word she cannot read against her ribs, and she has wanted since the first of them to be in a room with the man whose trade it is, and on the first of a month she has been in a room where a hand she cannot read was being copied four times over into four clean sheets, and the man doing it could not tell her what it was and did not want to.
 
 There are four sheets of her on a table on that floor and they are going up.
 

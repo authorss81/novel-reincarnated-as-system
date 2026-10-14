@@ -48,9 +48,9 @@ Then she got to the two lines under his hand and stopped.
 
 He did not say anything for about nine seconds, and then he sat down on the low side of the sill course with the page on his knee, which is not a thing he does.
 
-“I am not asking you to read it,” he said. “I have had two men past this ground who read hands for a living and I sent neither of them anything, because there is a man for it and he is not on this ground and he does not come to this ground.
+“I am not asking you to read it,” he said. “I have had two men past this ground who read hands for a living and I sent neither of them anything, because there is a man for it and he is not on this ground and he does not come to this ground.”
 
-“When a thing comes off that road in a hand that none of us can read, it goes up to him, and it comes back down readable, and it has been that way since before the wheel stopped.””
+“When a thing comes off that road in a hand that none of us can read, it goes up to him, and it comes back down readable, and it has been that way since before the wheel stopped.”
 
 He put the page down again and squared it with the edge of his boot.
 
@@ -98,7 +98,7 @@ The man with a rule in his hand let her finish and then said one thing.
 
 “The fourth hour man does it wrong. He reads the whole line and then goes back for the dates and gets them out of the shape.” He wrote a figure on his own page. “Do it that way again on the sixth of a month and I will not have to read them at all.”
 
-That was the arrangement, and it made no money and put a line in nobody’s book, and it was the first time in seven months that a man on that ground had asked her to do the thing she is actually good at.
+That was the arrangement, and it made no money and put a line in no book at all, and it was the first time in seven months that a man on that ground had asked her to do the thing she is actually good at.
 
 ## The Plain Part About One Person
 
@@ -112,12 +112,12 @@ And it is the first thing she has ever said in this world that is going into a b
 
 ## The Twenty-Eighth
 
-She read twenty-nine lines out loud twice on the twenty-eighth at the sixth hour at that end of the yard and got both of them the same both times, and the man with the rule in his hand did not correct her once.
+She read twenty-nine lines out loud twice on the twenty-eight at the sixth hour at that end of the yard and got both of them the same both times, and the man with a rule in his hand did not correct her once.
 
 She dug the run at the gate from the seventh to the ninth hour and Pei came out at the ninth hour and stood at the end of it the way he stands, and she had five coppers in the fold in the inside of the door frame.
 
-And on the twenty-ninth she dug the run, and on the thirtieth she dug the run, and on the first of a month she stood a hundred yards short of the counting house and watched a cart go up the mill road with a tray on it and a cord round the tray, and there was a name in it, and there had been a name in it on every first of a month for two months.
+And on the twenty-ninth she dug the run, and on the thirtieth she dug the run, and on the first of a month the tray goes up the mill road with a cord round it, and there was a name in it and there had been a name in it on every first of a month for two months.
 
-There was a fourth line on that page now, in chalk, in a yard-book hand, and it was not a name and it was not about her hours and it cost four coppers nowhere on nine days of road.
+There would be a fourth line on that page now, in chalk, in a yard-book hand, and it was not a name and it was not about her hours and it cost four coppers nowhere on nine days of road.
 
-She watched the cart go over the rise and she did not say anything to herself about it, which was the first time she had managed that.
+She had asked to be sent up to the long table at the top of that stair twice in four months and had never once been sent, and a page of her own in a hand she could check was four coppers and she had had five coppers that morning and had not gone up the hill with them.

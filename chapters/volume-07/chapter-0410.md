@@ -2,7 +2,7 @@
 
 The third of a month beginning 1,034 was the fourth hour and there were four columns off the road on the top floor of the counting house for the first time since the wheel stopped turning, and she was at the near end of the table with her strip in her left hand, because going up that stair with something in her hands has been the arrangement since the eighth of a month four months back and she was not going to break it on the third.
 
-Rao had the same pencil and the same knife and forty books open and a woman of forty-five at the far end of a table the length of nine men.
+Rao had the same pencil and the same knife and forty books open on it and she was at the far end of a table the length of nine men.
 
 “Four,” she said. “Four yards. Yours is not on that list and has not been on it since before you came and is not going to be on it this season.”
 
@@ -30,7 +30,7 @@ She read the days.
 
 There are four yards on that ground whose pages go up the nine steps once a month, and there have been four for as long as there has been a third floor, and they are the yard at the turn, a yard four miles west on the mill road, a yard nine miles east where the clay is loaded, and a yard at the end of the made road where two men cut drain and have never had a season.
 
-Rao set every one of them against the book underneath it with a pencil and a knife, and the setting takes about forty minutes a page and she does it standing up, and she does not read the writing while she does it.
+Rao set every one of them against the book underneath it with a pencil and a knife, and the setting takes forty minutes a page and she does it standing up, and she does not read the writing while she does it.
 
 “The hours are the hours,” she said. “I do not look at them. I look at where the pen lifted and whether the page has been folded and whether the hand has gone small at the end of a run, and that tells me whether the person was still writing it by the thirtieth or whether somebody else finished it for them.”
 
@@ -40,7 +40,7 @@ She turned a page over.
 
 “Who is the second one.”
 
-“You are, apparently, on the fourth, the eleventh, the eighteenth and the twenty-fourth, at the fourth hour, for nothing, because nobody on this ground pays for reading and I have been saying that for sixteen years to anybody who stands at that end of this table.”
+“You are, apparently, on the fourth, the eleventh, the eighteenth and the twenty-fourth, at the fourth hour, for nothing, because this ground does not pay for reading and I have been saying that for sixteen years to anybody who stands at that end of this table.”
 
 That was the whole of the arrangement and it took about ninety seconds and she had said it without looking up.
 

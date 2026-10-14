@@ -2,15 +2,17 @@
 
 There is a room at the end of the floor above the counter in the counting house on the mill road, and it has one door and a lamp in it in the day and a long table with a slope in it and a man of forty-three in it who reads hands, and it has been in that building for as long as anybody in it can remember.
 
-She had known about it for two volumes and had never gone up to it.
+She had known about it since a strip came down the works’ road and had never gone up to it.
 
 She went up on the fifteenth of a month beginning 1,034 at the seventh hour with the yard page in her left hand, because the two lines under the man with a rule in his hand’s margin had been going down that road twice a month for two months and were going up again on the eighteenth, and she could not read either of them and she had read twenty-nine lines out loud at a yard twice without being asked.
 
 ## The Room
 
-He did not look up when she came in and he did not ask her who had sent her, because nobody sends anybody.
+He did not look up when she came in and he did not ask her who had sent her, and she was not sent, because on that floor people come up or they do not.
 
 There was a sheet on the slope in front of him and it was a yard page and it was hers, or it was a copy of the yard page, or it was a page off a cart that had a yard page on it somewhere above it.
+
+The lamp in that room burns oil and there is no window in it. The whole of the trade is done at a table with a slope in it, by a man who is not a clerk and is not on a board and is not on any list, and the room he does it in is the size of a pantry.
 
 She put her hand flat on the end of the table.
 
@@ -30,15 +32,19 @@ Then he took a straight edge out of the groove and put it along the two lines an
 
 He put the straight edge down.
 
-“That is not a trade hand and it is not a clerk’s hand and it is not a yard hand and it is not anything made by a person who writes all day. That hand writes about four times a year and it writes fast, and it is the hand of a man who has been taught one thing and has never had to do a second one.”
+“That is not a trade hand and it is not a clerk’s hand and it is not a yard hand and it is not anything made by a person who writes all day. That hand writes four times a year and it writes fast, and it is the hand of a man who has been taught one thing and has never had to do a second one.”
 
 “All right.”
 
-“It has been coming down roads onto this floor for eleven hundred years and I have been in this room twenty-six years and I have read about two hundred lines of it, and it comes down about nine times a year, and eight of those nine are lists of places and dates and nothing that anybody could ever have done anything about.”
+“It has been coming down roads onto this floor for eleven hundred years and I have been in this room twenty-six years and I have read two hundred lines of it, and it comes down about nine times a year, and eight of those nine are lists of places and dates and nothing that anybody could ever have done anything about.”
 
 He turned the sheet round again.
 
 “The tenth is the one that comes off the mill road from a yard and goes back up it with somebody’s name at the head of it in a hand that a person could not read if they tried. That is the one everybody in this building is afraid of and it is the only one I have ever been asked to keep quiet about, and I have never kept it quiet.”
+
+He put his thumb on the corner of the sheet.
+
+“You have asked me one question and you have asked it well and I am going to give you the whole of the trade before I answer it, because you are going to want to answer it faster than I am going to let you.”
 
 ## The Part He Would Not Do
 
@@ -50,7 +56,7 @@ He did not put his hand on it again.
 
 “No you did not, and that is why I am telling you before you ask. There is one condition on everything I read and I have never had anybody break it and I am not going to start on a woman standing at the end of my table.” He put both hands flat on the slope.
 
-“I read, and I say what it is, and the person it is about has to tell me it is right or tell me it is wrong. If they do neither, then I have said a thing out loud in a room about a person who has not stood in front of it, and nothing in this building can put that back.”
+“I read, and I say what it is, and the person it is about has to tell me it is right or tell me it is wrong. If they do neither, then I have said a thing out loud in a room naming a person who has not stood in front of it, and nothing in this building can put that back.”
 
 He looked at her.
 
@@ -70,9 +76,19 @@ She put her left hand on her coat where the strip was and she did not take it ou
 
 ## What She Did
 
+She stood at the end of that table for about a minute and a quarter and she asked him two things.
+
+“How many people have been in this room in twenty-six years.”
+
+“Four,” he said, without looking up. “Two of them are clerks who were sent and thought they were helping. One of them was a woman in your situation nine years ago and I read hers to her and she said it was right and it was not, and she knew it was not, and she has never come back and she is alive and I know that because I read the fourth one.”
+
+“All right.”
+
+“And that is the whole of the number. Four. In twenty-six years.” He put the pen down flat in the groove. “You wanted to know what the condition was for. That is what the condition is for. It is not there to keep me right. It is there so that four people and a lamp is as much as this room ever gets.”
+
 She said thank you.
 
-She has not said thank you to anybody on nine days of road in seven months and she said it in that room in the ordinary voice and she meant it, and it went nowhere, and it cost her nothing, and it was the first thing she had said in two volumes that was for him and not about herself.
+She has not said thank you to anybody on nine days of road in seven months and she said it in that room in the ordinary voice and she meant it, and it went nowhere, and it cost her nothing, and it was the first thing she had said since the strip that was for another person and not about herself.
 
 “All right,” Dai said.
 

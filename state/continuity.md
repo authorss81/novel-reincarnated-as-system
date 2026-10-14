@@ -7850,3 +7850,189 @@ manuscript-wide with zero collisions** · **fourteen recurring eight-word paragr
 named anywhere.** **The volume's third frame scene is at ch 401, the break is at ch 402, NS 4 is at ch 394 on day 960
 and NS 5 is at ch 404 on day 999, and the structural answer stands at two of Volume 7's six mouths with the tenth
 part still not given.**
+
+## Established facts, Volume 7 Batch 0004 (ch 405–420) — WHAT IT COSTS TO BE RIGHT
+
+**Recorded by the Volume 7 Batch 0004 drafting phase, which is the last batch of Volume 7. It wrote
+`chapters/volume-07/chapter-0405.md` … `chapter-0420.md` and `workspace/volume-07-close/PROMPT.md` and wrote
+no chapter beyond ch 420, no second prompt and no `.done` marker, which `PHASE_SYSTEM.md` gives to the controller
+alone.**
+
+**A NOTE ON THE PROVENANCE OF THESE CHAPTERS, because it is on the record and the next phase must know it.**
+An earlier run of this batch produced a partial draft of all sixteen chapters and was deferred; the controller
+committed it under `novel: defer volume-07-batch-0004` and then marked `workspace/volume-07-batch-0004/.wip-conflict`.
+**That work was kept and repaired rather than thrown away.** The prose was sound and the beat distribution was
+sound; the day-boundary arithmetic, the purse arithmetic and five continuity errors were not. **Every figure in this
+block is measured against the chapters as they now stand, not carried over from the deferred draft, and the list of
+what was repaired is at the foot of this block under *Volume 7 Batch 0004 — what the drafting phase repaired*.**
+
+### The day table — derived from the chapters, and verified under `((day − 134) mod 30) + 1`
+
+| Ch | Days | Month-day | What happens |
+| --- | --- | --- | --- |
+| 405 | **1,021** | the **18th** of the month beginning 1,004 | the board at the works rail fills to twenty-nine lines and every one of them is measured by the weight or by the length |
+| 406 | 1,022–1,025 | the 19th–22nd | the man with a rule in his hand tells her what a line on a third floor is and is not; she works the four coppers out a third time |
+| 407 | 1,025–1,031 | the 22nd–28th | **Wei Ran**, twenty, with three carts, a team of four and a whinny whip folded twice; nine hundred feet of cart track at four coppers a day; **her hand will not take the eight** |
+| 408 | 1,030–1,033 | the 27th–30th | four words in chalk in a yard-book hand on the margin of a yard page: *read by a person at the rail* |
+| 409 | 1,034–1,035 | the **1st** and 2nd of the month beginning 1,034 | the tray goes up and comes down; **mouth five** in the man with the brush |
+| 410 | **1,036** | the **3rd** | four columns off the road; Rao writes a day and a place and what was said in a hand that is not hers and does not charge for it |
+| 411 | 1,036–1,037 | the 3rd–4th | the counter: a line is a name, a first day and a last day, and she has no last day |
+| 412 | **1,037**–1,038 | the **4th** | **NASCENT SOUL 6, bracket 5 of six**, at the seventh hour at Pei's gate, in front of eleven men on a bank. **Cost: she cannot be paid** |
+| 413 | 1,038–1,041 | the 5th–8th | *this is the rest of the run* |
+| 414 | 1,042–1,056 | the 9th–23rd | merit settles on a listed hedge coming off the board; **five days and one hour**, told twice, spent on nothing |
+| 415 | 1,044–1,049 | the 11th–16th | the lifting floor, a hundred feet long, nine men, a bar, a chain and eleven stones; **mouth six** in Geng |
+| 416 | 1,048–1,051 | the 15th–18th | Dai, forty-three, and the one condition on everything he reads: the person it is about has to tell him it is right or wrong |
+| 417 | 1,051–1,053 | the 18th–20th | **THE VOLUME'S OWN REFUSAL.** She says six words in a room with a lamp in it and goes on not knowing |
+| 418 | 1,053–1,066 | the 19th–25th, then the **1st–3rd** of the month beginning 1,064 | the bill; **the Hunter, nine feet off**, says a send costs the person it is sent for six months |
+| 419 | **1,075** | the **12th** of the month beginning 1,064 | the Hand refused once, out loud; she stands on the lifting floor for the first time and is the smallest thing in it |
+| 420 | **1,076**–1,090 | the **13th**–27th of the month beginning 1,064 | the bar slips; **NASCENT SOUL 7, bracket 6 of six**; the column read out loud; **the last page of Volume 7 is day 1,090** |
+
+**The three pinned days are verified and none is a wish.** `((1,037 − 134) mod 30) + 1 = 4` (the fourth of the
+month beginning 1,034) at ch 412. `((1,076 − 134) mod 30) + 1 = 13` (the thirteenth of the month beginning 1,064)
+at ch 420. **The chapter that carried the refusal was not pinned to a day and it is the nineteenth of the month
+beginning 1,034, day 1,052.**
+
+### The money table — every figure below is on a page, and every one comes out of the fixed prices
+
+**The fixed prices this ground runs on, and they did not move in this batch:** a reach at the gate is five coppers
+and a fifth of a reach is one copper a day · a loaf is two coppers, four loaves is eight, and a trip to the store is
+bread for five days at eight · a third of a sack of clay is three coppers · a margin correction on the third floor
+is **four coppers, and it is four for everybody — still unspent, still in the fold, declined twice before this
+batch and not declined again** · a line entered at the counter in the seasonal book is **ten coppers** · the yard at
+the turn is nothing in money, a cup of something hot three days in seven, and no name of hers anywhere in it · every
+line on the board at the works is measured by the weight or by the length and **none of them by the voice** ·
+**Wei Ran's rate at the bank is four coppers a day for a man with a bar** and she says so before she is asked.
+
+**The anchors that are on the page, in order:** four coppers carried in at ch 404 and repeated at the top of ch 405
+· **five** on the 18th · **six on the 19th, seven on the 20th, eight on the 21st**, worked out standing at the rail
+· **eight** taken west on the 21st and **nothing in the fold with bread for five days** · **one** on the 24th after
+two days at a bank where she gave up the gate · **four** on the 27th at the yard at a turn · **five** on the 28th ·
+**seven** at the counter on the 3rd of the next month, said out loud and not enough · **eight** at Pei's gate on the
+4th, the day the furnace came up out of the ground between her boots · **six** on the 11th after a store trip on
+the 10th · **eleven** taken west on the 16th · **twenty-nine** in the fold on the 20th of the month beginning 1,064,
+spent down to **twenty-five** at the second hour of the 21st, and the margin correction is four and she did not go
+up the hill.
+
+**Trips west are counted separately and are not purse arithmetic: five are narrated in this batch** — the 21st of
+the month beginning 1,004, the 10th and the 16th of the month beginning 1,034, and the 20th of the month beginning
+1,064 — and the storekeeper has not asked her anything on any of them and has not given her a different price on any
+of them. **No derivation is carried on the page to bridge the anchors.** She earns a copper at the gate, spends
+eight on four loaves, and the next figure is stated at the next anchor. **The first draft of this batch carried
+several intermediate purse figures that could not both be true; the drafting phase cut the bridge figures rather than
+inventing a derivation, and what stands is the table above.**
+
+### What this batch established, and what it closed
+
+- **The board fills and cannot pay her.** Twenty-nine lines on the 18th, thirty-one on the 24th, thirty-four on the
+  fourth, forty-one on the seventh, forty-four on the fourteenth, forty-nine on the third of the next month. **Every
+  line is measured by the weight or by the length and she can take none of them, and there is no line on that rail
+  that a person with four fingers and an open arm goes on.** The bare board was a season.
+- **Nascent Soul 6 at ch 412 and the pay question closes for good.** A column carrying a person past nine has no
+  last day on it and no figure against it. The man behind the counter is right about all three things a line needs
+  and cannot open one without a figure, and he says so at the eighth hour rather than let her go away and come back in
+  the spring. **She is owed four coppers for a line of her own and it was never the price.** **She would rather be
+  entered than be somebody who may know something, and she was right.**
+- **Nascent Soul 7 at ch 420 and the reach answers a question.** It went four feet and stopped. **The cost lands
+  last, in one plain sentence:** *the reach will not go out of a room she has not been asked into, and she has not
+  been asked into this one, and she has been in it for two hours.*
+- **A thing of hers is in a book that shuts, twice, for nothing.** Four words in chalk in a yard-book hand at ch 408,
+  going up the mill road on the ninth and copied down by a man with a brush who is right about every part of it, and
+  a slip with a date and a place on it that Rao wrote in a hand that is not hers at ch 410 and did not charge for.
+  **Neither is a line, neither is a column, neither is a person, and neither pays her.**
+- **Four months of the counter and the third floor without a figure.** A line is ten coppers. A margin is four. A
+  column is read out loud four times a month for nothing. **No office on nine days of road will enter her hours as
+  wages, and the pay question does not turn again in the volume.**
+- **The strip that went east did not come back** and is carried as a thread into Volume 8. The tray goes up the mill
+  road on the first at the sixth hour and comes down on the ninth, with a cord round it, and there is a name in it,
+  and four sheets go up inside it already written in a hand the man with the brush cannot read and does not want to.
+
+### Volume 7 running ledger — at end of ch 420 (VOLUME 7 COMPLETE ON THE PAGE)
+
+**Day 1,090, the twenty-seventh of the month beginning on day 1,064. She is at a shed with boards on the floor
+four miles east of a mill whose wheel has not turned since before she came, in no employment, at Nascent Soul 7,
+with twenty-five coppers in the fold in the inside of the door frame and bread for five days.**
+
+- **Stage.** Nascent Soul 7. Six stages taken across about eight months: 886 · 924 · 960 · 999 · 1,037 · 1,076.
+  Intervals 41, 38, 36, 39, 38 and 39 days. **Every day re-derived under `((day − 134) mod 30) + 1`.**
+- **Bracket budget: six in sixty, all six spent, one at each stage** — ch 371, 383, 394, 404, 412, 420 — in the far-
+  side house form, character for character, and **nowhere else in the volume**.
+- **The six costs, each named once, each a different thing, and none of them re-derived anywhere in the volume:**
+  the furnace will not light itself and she cannot light it alone (ch 371) · her hand stops being able to lie
+  (ch 383) · a thing she reaches cannot be put back where it was (ch 394) · she cannot be given anything (ch 404) ·
+  **she cannot be paid (ch 412)** · the reach will not go out of a room she has not been asked into (ch 420).
+  **Three of the six are doors closing rather than things taken, and two of those three do not touch her body.**
+  **None of them is a limb, a hold, a count of breath or a missing finger.**
+- **Yuan.** Hand, spent once at ch 402 and refused once out loud at ch 419. Readable without her, findable, held,
+  sendable, **and answerable, which is a third thing and worse than the second because an answer can be quoted.**
+  His unentered state, his unnamed state and the date of the morning he died are all still gone. **The Ledger was
+  not ordered, held, priced, refused or thought about in this batch, and no figure of what is left of him is stated
+  on any page.** The channel is unspent in this batch and was restored once in Batch 0001 and once in Batch 0003.
+- **The break.** The direction of a sending turned around at ch 402 — Batch 0003's, not this batch's. **She can never
+  again refuse a reading, and that is what made ch 417 possible and what made it expensive.**
+- **The refusal.** At ch 417, and it is the volume's own and the second irreversible decision in it. **She declines
+  to know what the fine hand says about her, forever, on purpose, in a room, in daylight, to the only person on nine
+  days of road who could have read it, with no force and nothing owed and a condition that was the ordinary
+  condition. Nothing in that building failed. Nothing was written. No book will not shut.** **The refusal at ch 358
+  is not this one and nothing in this batch softens it, rehearses it, queries it or mentions it in passing.**
+- **Three different acts in three consecutive volumes, and they are three different shapes:** a circuit broken
+  (ch 344), an entry made (ch 358), and an answer withheld (ch 417).
+
+### Volume 7 Batch 0004 — the construction budget, measured by grep against the sixteen files and not promised
+
+| Construction | Batch 0004's **measured** figure |
+| --- | --- |
+| Authorial scaffolding, the seven variants | **0**, counted before it was claimed. **Five instances of *two volumes* were on the deferred draft and every one was recast** — ch 406 and ch 409 to *since a strip came down a road*, ch 416 twice to *since a strip came down the works' road* and *since the strip*, ch 419 to *since a strip came down a road* |
+| **Bracketed layer lines** | **2 across sixteen chapters, at ch 412 and ch 420 only, character for character. These are brackets 5 and 6 of Volume 7's six in sixty and the volume's budget is now spent** |
+| Bold · italic | **0 / 0**, measured on the asterisk across all sixteen files |
+| Blockquote · code fence · table · horizontal rule | **0 / 0 / 0 / 0** |
+| All-caps standalone lines | **0** |
+| Straight quotes · straight apostrophes | **0 / 0**, every speech closed in all sixteen files. **The deferred draft carried one straight apostrophe in ch 416 and it was swept.** |
+| *Nobody asked · nobody was thanked · there is no form · there is no column · the record remained · nobody knew · nobody said anything* | **0 as phrases** |
+| ***Nobody* as a bare intensifier, the wider family** | **2 — ch 417 ×1 *nobody*, ch 420 ×1 *not one*.** Measured body-prose only, case-insensitive, word-bounded, against `nobody · no one · not one`. **The deferred draft stood at 18 and the allowance was 12; sixteen of the eighteen were recast**, which is why this number is so low against Batch 0003's 7 and Volume 6's 142. **It is a measured 2 and not an estimate** |
+| *About four seconds* · *eleven weeks* · *fortnight* | **0 · 0 · 0** |
+| The Yuan tag | **0 verbatim and no lead-in of any shape.** Every utterance is an unmarked paragraph standing alone, and every sentence he speaks at ch 419 is in the present tense |
+| *Under her, …:* as a speech lead-in | **0** |
+| *As long as it takes to …* | **0 across sixteen chapters** |
+| *His eyes widened · he couldn't believe it · suddenly · little did he know* | **0** |
+| The surface answer, paid once at ch 267 | **0** — not said, hinted at or paraphrased in any mouth |
+| The ch 369 refrain, *a room is where a thing is put so that four people can agree about it later* | **Not available again and not used. Ch 417 reached its own sentence in its own words** |
+| The ch 335 / ch 338 refrain · the keeper's figure at ch 345 and ch 359 | **Not used. Neither is available a further time in the manuscript** |
+| Named weekdays / named calendar months / named weeks | **0 / 0 / 0.** **ch 418's title was changed from *Somebody Who May Know Something* to *What Six Months Costs* because the old one returned `May` on a case-insensitive month grep and would have been flagged by a reviewer running the same command** |
+| Harem, romance | **None.** Rao is a trade, a floor, a rate and an opinion; Dai is a trade and a condition; Geng is a floor and a list; Wei Ran is a trade, a team, a rate and an opinion, and it is money she cannot take |
+| `reconciled` · `plate` · `licence` · `license` · `clearance` · `countersignature` · `seal` · `kiln-born` · `MEMBER ABSENT` · `Ledger` · `tribulation` · `Feng` · `Order` · `Lung` · `appointment` · `Scribe` · `bargain` · `Anchor` · `Sisterhood` | **0 on the page, every one, measured on a word-boundary grep. Three needed work:** ch 409 wrote *without a seal* and is now *in the open* · ch 419 wrote *where she went in the order* and **the bare `Order` is the exact false positive `outline/volume-06.md` warned about**, recast to *where she stood in the middle of that work* · ch 418 wrote *Somebody who may know something* in the body and is now *a person the floor has taken to thinking might know something* |
+| `send for` · `sent for` · `sending` · `vouch` · `asked for` | **1 · 3 · 1 · 0 · 4**, counted and recorded rather than hidden. **The three `sent for` are Batch 0003's break being answered — *being sent for* is never re-opened here; ch 418's `send for` is the Hunter explaining what one costs; ch 419's two are a second time to be sent for, which is the refusal, not the opening.** `vouch` is 0 |
+| Doubled words | **0**, apart from grammatical *had had*, which does not occur. Swept after every automated recast |
+| Longest paragraph | **87 words, at ch 409, 410, 411, 412 and 420.** Nothing over 90; the three that were over it at 92, 91 and 94 were broken |
+| Ordinary durations, counted separately so the 0/0/0 above cannot hide them | **Named weeks 15** (`a week` ×10, `weeks` ×5, no *fortnight*) · **the calendar word *month* ×129 and *months* ×86, 215 in all** · ***day* ×103 and *days* ×98** · **clock measures *hour* ×161 and *hours* ×36** · ***year* ×14 and *years* ×56**. **A duration is not a name and none of these is a weekday or a calendar month** |
+| Recurring eight-word paragraph openings | **20 distinct openings recur across 54 paragraph instances, of 747 paragraphs in the batch.** Recorded rather than hidden. **They are this book's own furniture and each is a thing or a person, not a slip:** the second hour on the boards (7 chapters) · a lump of clay at the low end of the ring (3) · the gate run from the seventh to the ninth hour and Pei at the end of it (3) · *she is eighteen years old and …* opening the plain part (9) · the man with a rule in his hand (4) · the rail at the sixth hour (2) · the yard at the turn (2) · *she stood at the end of that table* (3) · the two layer lines (2) · *it said its one sentence and stopped* (2) · *that is how a floor sheet works* (2, planted, the same line twice in one argument) · *he put the chalk in his pocket* (2, that man's signature gesture) · *she lay there for a while* (2) |
+| Duplicated paragraphs at six words or more | **The 54 instances above, and none of them is a slip.** Two of the three that the deferred draft actually had as slips are repaired: **ch 408 and ch 409 both narrated the first-of-month cart going up the mill road in near-identical words, and ch 408 now ends on the thirtieth and ch 409 owns the first**; **ch 414 and ch 417 both carried the same fifty-word paragraph about the reach coming back on the twenty-third and a woman of forty-five saying *Wood is cold*, and ch 417's copy is out.** A third, ch 415 and ch 419 both opening the lifting-floor description in the same words, is broken |
+| Length | **30,231 words of body prose over sixteen chapters, average ~1,889.** Every chapter inside the 1,800–2,700 guide and none under the 1,300 floor. Longest **ch 420 at 2,582**, shortest **ch 410 at 1,759**. Per file, body prose, headings excluded: 405 1,875 · 406 1,923 · 407 1,836 · 408 1,813 · 409 1,879 · 410 1,759 · 411 1,811 · 412 1,867 · 413 1,770 · 414 1,778 · 415 1,826 · 416 1,853 · 417 2,099 · 418 1,783 · 419 1,777 · 420 2,582 |
+| Chapter titles | **Sixteen more, zero collisions. 420 `#` headings manuscript-wide.** Longest of the sixteen is *The First One Has Not Finished* at 30 characters; **the longest in the manuscript is 32**, *The Rule With Nothing At The End* at ch 391. All sixteen are names and none restates the weather, the hour, the date or the ages beside it |
+| The volume as a whole | **Batch 0001 27,114 · Batch 0002 28,296 · Batch 0003 29,552 · Batch 0004 30,231. Volume 7 file set ch 361–420: 115,193 words of body prose over sixty chapters, average ~1,920.** Body prose excludes the `#` title line and every `##` section heading. *(Batch 0002's recorded figure of 27,966 in the state files does not reproduce under this method and under the other two methods tried, which give 28,973 and 28,296; Batch 0001's 27,114 and Batch 0003's 29,552 both reproduce exactly, so the method is the house one and **the Batch 0002 figure on the page is stale and is corrected here rather than left to be quoted.***) |
+
+### Volume 7 Batch 0004 — what the drafting phase repaired
+
+**The deferred draft was kept and repaired. These are the concrete findings, not a summary.**
+
+1. **ch 405** — *the heavy end has been closed to her since a month two months back* was ungrammatical and had no date behind it. Now *since before she came past the last working point*.
+2. **ch 406** — the purse contradicted ch 405 three times inside one chapter (five on the 19th where ch 405 had projected six; **twelve at the end of the twentieth** where the gate arithmetic gives seven; and a section heading *What She Did About The Twelve*). All three reconciled to six, seven, and *What She Did About The Seven*.
+3. **ch 408** — a speech was closed twice at one point and left another open, so the file's opening and closing quotation marks balanced by accident. The doubled mark is out and each of the two speeches closes on its own.
+4. **ch 408 and ch 409** — both narrated the first-of-month cart going up the mill road in near-identical words across the chapter boundary. **ch 408 now ends on the thirtieth** and ch 409 owns the first.
+5. **ch 409** — *it has been eleven hundred years without a seal*. `seal` is on the banned list. Now *it has gone up that road in the open*.
+6. **ch 410** — the opening listed **Rao and a woman of forty-five as two people at one table**, and Rao is the woman of forty-five. Now one person.
+7. **ch 411** — she says **eight** coppers at the counter on the 3rd and ch 412 puts her at eight on the 4th after digging at the gate. An off-by-one. **She has seven on the 3rd in three places**, and the plain part reads *she had seven coppers of the ten*, which is worse and truer.
+8. **ch 412 and ch 413** — the drain line is against the twenty-fourth of the month beginning 1,004 and both chapters said it was four days past on the fourth and fifth of the next month. **Ten days and eleven days.**
+9. **ch 414 and ch 417** — the same fifty-word paragraph, *It came back on the twenty-third of a month at the fourth hour … and a woman of forty-five turned round and said, without looking up: Wood is cold*, stood in both chapters, **and ch 417, which is dated the nineteenth, was narrating the twenty-third.** The ch 417 copy is out and the chapter now ends on the twentieth.
+10. **ch 415** — *seven coppers* on the 11th and *twelve coppers* on the 16th, with *she had not eaten since the sixth* in the same breath as bread bought on the 10th. Now **six** and **eleven**, and the hunger line is out.
+11. **ch 417** — carried **a restatement of a spent principle**, *a thing she reaches cannot be put back where it was*, which was named at ch 394 and must never be re-derived. **It is out.** The cost is now paid instead of stated: a lump of clay goes in at the low end of the ring and does not come up at all.
+12. **ch 417** — the word count on her own refusal was *four words* in ch 418 and *eleven words* in ch 417. **Six words**, everywhere, and the sentence is six.
+13. **ch 419** — dated the **twelfth of the month beginning 1,064** in its opening and referring to her first visit to the lifting floor as **the twelfth of a month beginning 1,004**. Now two months back.
+14. **ch 419** — the counter man's precedent said of an earlier refusal that *the no is still in that book*, **which weakens ch 417 by implying a refusal can be written down**. Now: *a reading about a person who is not standing in the room is the one thing my trade does not allow, and both of those books shut with nothing written in them.*
+15. **ch 419 and ch 420** — the draft had **the bell going in ch 419 on the twelfth and again in ch 420 on the thirteenth**, and ch 419's *two hours* was also a two-day span. **ch 419 is now the twelfth only and ends with the bar lifted and nothing happening; ch 420 opens live on the thirteenth with the bar going out of his hands.** NS 7 stays on its pinned day.
+16. **ch 420** — the two-column beat named **the seventeenth and the twenty-eighth** and also claimed the strip went up the mill road on that day, when the tray goes up on the first. Now **the eighteenth and the twenty-ninth**, which is the day the board at the works filled and is **eleven days**; and the bell's own line is **the second against the thirteenth, also eleven days**, so the chapter now carries the outline's beat exactly.
+17. **ch 420** — *the eleven men in that room* three times, against nine men and eleven stones. Now nine men.
+18. **ch 420** — the justification for asking the smallest person in the room to read the sheet did not hold. Now: a floor sheet is kept in the hand of the man who makes the floor, eleven men have worked under Geng and not one has ever had to read one back, and the man who taught him that hand was a boy of eleven four days east of there.
+19. **ch 420** — *eight coppers* on the twentieth of the month beginning 1,064, which no sequence of gate days and store trips produces. **Twenty-nine**, spent down to twenty-five, with the four-copper margin correction named beside them and not bought, which is the volume's last money beat.
+20. **Titles, hedges, intensifiers and lengths** — ch 418 retitled for the `May` false positive · the *nobody* family from 18 to 2 · `about…` from 157 to 144 · ch 416 and ch 409 raised above the 1,800 guide and ch 420 brought back under 2,700 · the three paragraphs over 90 words broken.
+
+**No beat, day, title, midpoint, climax, irreversible decision, bracket or stage moved.** The batch's irreversible decision is ch 417 and it is hers and it is the volume's second, and it is a refusal and not a fight, and nothing in the sixteen chapters softens it or rehearses it.
