@@ -359,6 +359,33 @@ is under sixty across sixty, which is the one measured number in Volume 6 above 
 **Volume 7's construction budget is in `outline/volume-07.md` under *The construction budget, carried from Volume 6
 and re-measured* and again, in the batch's own form, in `workspace/volume-07-batch-0001/PROMPT.md`.**
 
+## Volume 7 planning — close review repair
+
+**Six findings returned by `logs/volume-07-planning.review.log`, all six applied. No prose was touched, no beat,
+day, title, batch range, pinned chapter, mouth, stage, bracket or irreversible step moved, and no Volume 7 chapter
+exists or was invented. Every figure below was re-measured against `chapters/volume-06/` before it was written
+back, and none of them was taken on the reviewer's word.**
+
+| # | Where | Was | Now |
+| --- | --- | --- | --- |
+| 1 | `PROMPT.md:206`, `outline/volume-07.md:739`, `state/continuity.md` planning block, `state/current.md:1062` | `nobody 88 · no one 4 · not one 50 · **family** 142` | `… · **total** 142`. **Measured: `family`/`families` is 6.** `total` was miscopied as `family`, and the mistranscription mattered because the "under 14 across fourteen" allowance is the drafter's whole defence against the construction this manuscript has been flagged for twice. The row now names the three intensifiers the allowance governs and gives the two figures separately |
+| 2 | `PROMPT.md:217`, `outline/volume-07.md` | `vouch` **4, all at ch 357** | **`vouch` 6 occurrences across 4 lines** — ch 357 ×4 (lines 39, 79, 105 ×2) and **ch 329 line 41**, *you have been vouched once already in a building with a stove*. Wrong on the count and on "all at 357". Note that `grep -c` returns 3 at ch 357 because line 105 carries two |
+| 3 | `PROMPT.md:216`, `outline/volume-07.md` | `send for` **1** · `sent for` **0** · `sending` **0** | **`send for` 4** (ch 301:65, 337:69, 338:167, 355:59) · **`sent for` 2** (ch 338:133, twice on one line) · **`sending` 1** (ch 336:71). Wrong on all three, on the one row the prompt calls out as the one an unmeasured count fails on |
+| 4 | `PROMPT.md:203`, `outline/volume-07.md:736`, and the Volume 6 all-caps claims in `state/current.md` and `state/continuity.md` | All-caps standalone lines **0** | **2, both at ch 338 lines 47 and 51, both `HELD.`** The seven the close repaired were written matter in a hand and all seven are sentence case; these two are the layer's own word set alone as a beat and were never in that class. **The prompt also now carries the note where it orders the drafter to extend into ch 330–345, because ch 338 is the chapter that breaks the rule and the drafter would otherwise inherit it as precedent** |
+| 5 | `outline/volume-07.md:558` | `ch 365, **378**, 391, 398, 409, 415` | **`379`**, matching the outline's own structural-answer table at `:404` and the five state files that record it (`current.md`, `open-threads.md`, `chapter-summaries.md`, `continuity.md`, `book-metadata.md`). One digit, one outlier, no beat moved |
+| 6 | `state/continuity.md` planning block | `outline/volume-07.md` exists and is **784** lines | **786** |
+
+**One addition beyond the six findings, on the reviewer's own note.** The forbidden-string grep the prompt
+prescribes returns a **false positive on `Scribe` at ch 303**, inside *described*, and will do the same to `plate`
+and `Ledger` — the exact trap the Volume 6 close fell into on `Ledger`. Both files now carry the word-boundary
+instruction on that row, because a drafter that measures `Scribe` without boundaries will report a clean volume as
+dirty and burn a repair pass on a substring.
+
+**Left alone deliberately.** `state/continuity.md` lines 6008–6010 carry `vouch` 4, `sending` 0 and `send for` 1 /
+`sent for` 0. **Those rows are scoped to Batch 0004's fifteen files and they are correct** — re-measured across
+ch 346–360 they return exactly 4 / 0 / 1 and 0. They are not the row the finding was about, and correcting them
+would have made a right measurement wrong.
+
 ## Volume 6 close audit — OPENED
 
 **`outline/volume-06.md` walked line by line against ch 299–360 as it stands after the Batch 0004 review repair and
@@ -683,7 +710,7 @@ manuscript and not against the card.
 | Paragraph length | **13 paragraphs between 91 and 100 words, none over 120.** Longest is ch 309 at 100. **All thirteen are pre-existing; neither the close repair nor the close's review repair introduced one** *(Corrected at the close's review: this row first said 103 and gave ch 309 at 103. Re-measured, the longest paragraph in the volume is **100** words. The count of thirteen is right and was never in question.)* | PASS with a recorded figure |
 | Duplicated paragraphs | **1 pair, and it is a planted-and-paid motif**: *A line is a thing that gets found / A holding is a thing that can be asked for*, planted in her head at **ch 335** and paid in his room at **ch 338**, where a third sentence is added and the difference between the two is what the chapter is for. **Seven other pairs were found and six repaired** — five at the close and one more at the close's review, which removed a verbatim paragraph the close's own repair #12 had introduced inside ch 338 | PASS after repair |
 | Bracketed layer lines | **6, at ch 310, 321, 332, 342, 352 and 357, character for character as pinned; 0 elsewhere including ch 360** | PASS |
-| All-caps standalone lines | **7 at the start of the audit, 0 after the close repairs** — ch 314 ×2, ch 317, ch 336 ×4, ch 338 | PASS after repair |
+| All-caps standalone lines | **7 at the start of the audit, 0 of that seven after the close repairs** — ch 314 ×2, ch 317, ch 336 ×4, ch 338. **All seven were written matter in a hand and all seven are now sentence case. Measured against the chapters at the Volume 7 planning review the standing figure is 2, not 0: both are at ch 338 and both read `HELD.`, the layer's own word set alone as a deliberate beat. They were never in this class, the audit did not miss them, and they are not a precedent** | PASS after repair |
 | Chapter titles, against all 359 other headings and against each other | **360 `#` headings across the manuscript, zero collisions. No title was changed at the close** | PASS |
 | Word counts | **95,110 words of body prose over sixty-two chapters after the close repairs and the close's review repairs** (95,081 between them, 94,946 before either). No chapter under the 1,300 floor and none above the 2,700 guide; longest is ch 338 at 2,990, which is the flagged close-third exception *(Corrected at the close's review: this row first said 95,081 and gave ch 338 at 2,968. Both were stale — the three chapters repaired at the review moved the volume by +29 and Batch 0003 by +29.)* | PASS |
 | `vouch` | **6 — ch 329 ×2 and ch 357 ×4.** Both are the cards the word belongs to: ch 329 is the vouching agreed and ch 357 is the finding about it. **Batch 0004's budget recorded `vouch: 4` at ch 357 as an intentional non-zero and this audit confirms it as an intentional non-zero and does not treat it as a failure and does not treat it as licence** | PASS |
@@ -734,7 +761,7 @@ opened. File set after repair: **95,081 words of body prose over sixty-two chapt
 | 9 | **ch 307 and ch 322** | **A one-line paragraph identical sixteen chapters apart**: *Nothing broke in her that she has not had back once.* | ch 307 keeps it. ch 322's is now *And not one of the four came back with anything new on it, and the one she had been afraid of for five days was not among them* — which is **the chapter's own four-item list** and carries the emotion the original did |
 | 10 | **ch 330, ch 343, ch 350** | **One physical beat standing four times across four chapters as an identical standalone paragraph** — *He squared the board up on the bench* at ch 328, 330, 343 and 350, always the same man, always between the same two speeches, and once more inside another sentence at ch 330 | ch 330's is **cut** (the same chapter carries the gesture again at line 83, so nothing is lost); ch 343's is now *He put his thumb on the line he had written and left it there*; ch 350's is now *He turned the board round on the bench and pushed it back against the wall.* **ch 328 keeps the first one** |
 | 11 | **ch 336** | **Four bare all-caps lines standing as written matter**, which read as System panels — *WHAT IS COPIED AT THIS REACH IS COPIED TWICE* and three more. **The identical fourth line is spoken in quotation marks at ch 348.** This is the exact fault the Batch 0004 review found and repaired at five places in Batch 0004; ch 336 was outside its scope | The four lines are now **sentence case inside curly quotation marks**, carried by the hand they are in, named in the sentence around them: *He read them out word for word, because that is what a strip is for.* The next paragraph no longer re-describes the reading |
-| 12 | **ch 314, ch 317, ch 338** | **Three more bare all-caps lines**, of the same class and outside Batch 0004's scope: the board's standing text and one board line at ch 314, one listing at ch 317, and **her name at the head of the column at ch 338** | All three are sentence case inside curly quotation marks. At ch 338 the name is now *NING YAN. OF LOWWATER, and it is at the top of a column in a hand that has never once been her own* — **which is a gain, because the sentence it replaced was saying a fact the chapter had already said four lines earlier.** **Zero all-caps standalone lines now stand anywhere in ch 299–360** |
+| 12 | **ch 314, ch 317, ch 338** | **Three more bare all-caps lines**, of the same class and outside Batch 0004's scope: the board's standing text and one board line at ch 314, one listing at ch 317, and **her name at the head of the column at ch 338** | All three are sentence case inside curly quotation marks. At ch 338 the name is now *NING YAN. OF LOWWATER, and it is at the top of a column in a hand that has never once been her own* — **which is a gain, because the sentence it replaced was saying a fact the chapter had already said four lines earlier.** **All seven are sentence case and stay that way.** *(Corrected at the Volume 7 planning review: the claim that zero all-caps standalone lines stand anywhere in ch 299–360 was not reproducible. **Two do** — ch 338 lines 47 and 51, both `HELD.`, the layer's own word alone as a beat and not written matter in a hand. They are outside this repair's class and are not a precedent.)* |
 | 13 | **ch 359** | **A count the chapter sets and does not pay off.** She tells the keeper the book does not shut *because there are three things in it that have nothing at the other end of the rule*, and then names **two** in the room; the third is supplied eleven paragraphs later in the Plain Part. The Batch 0004 review repaired a counting class of this kind at three consecutive chapters | One paragraph in her own voice now closes the count before the section break: *The third one is mine, and it is a no I gave at a counter a fortnight ago in front of about nine men, and it has my name at the left of it and the day against it. You do not need to know what it was about* — **and that is also the truest thing she could say about it, because she put it there herself and she is not going to explain her own refusal to a stranger with a paste pot** |
 | 14 | **ch 306** | **`Ledger` on the page as a common noun**, where the volume's own measurement is that `grep -i Ledger` returns zero across ch 299–360 | *not in a way a person could write down and call it a return* |
 | 15 | **ch 319** | **The same, second instance** — *the ledger board* | *the tally board* |
@@ -744,7 +771,8 @@ opened. File set after repair: **95,081 words of body prose over sixty-two chapt
 layer lines, at ch 310, 321, 332, 342, 352 and 357, character for character as pinned, and **none at ch 360**.
 Every speech closed in all sixty-two files; **zero** straight apostrophes and **zero** straight double quotes.
 **Zero** blockquotes, code fences, tables, horizontal rules and **zero bold**. **Zero** all-caps standalone
-lines. **One** duplicated paragraph pair, and it is the planted-and-paid motif at ch 335 and ch 338. Longest
+lines of the audited seven *(the measured standing figure is 2 — both at ch 338, both `HELD.`, a deliberate beat
+in the layer's word and not written matter in a hand)*. **One** duplicated paragraph pair, and it is the planted-and-paid motif at ch 335 and ch 338. Longest
 paragraph 100 words (ch 309), thirteen paragraphs between 91 and 100, **none over 120, and none introduced by
 this repair**. **360 `#` headings across the manuscript, zero collisions, no title changed.**
 **Month-day arithmetic re-derived for every pinned day under `((day − 134) mod 30) + 1`: 638 is the 25th, 674 the
@@ -1059,7 +1087,12 @@ longest ch 309, none over 120 and none introduced by this repair. **Six** bracke
 332, 342, 352 and 357, character for character as pinned, and none at ch 360. Zero bold, zero blockquotes, zero
 code fences, zero tables, zero horizontal rules, zero straight apostrophes, zero all-caps standalone lines, zero
 unbalanced speeches. `Ledger` 0, `licence` 0, `license` 0, `clearance` 0, `countersignature` 0, `kiln-born` 0,
-`MEMBER ABSENT` 0, `Anchor` 0, `Sisterhood` 0. `nobody` 88, `no one` 4, `not one` 50 — family 142.
+`MEMBER ABSENT` 0, `Anchor` 0, `Sisterhood` 0. `nobody` 88, `no one` 4, `not one` 50 — total 142.
+*(The last word was recorded here as `family 142`, a transcription of `total 142` and not a measurement.
+`family`/`families` is a separate word and stands at 6. Corrected at the Volume 7 planning review.)*
+**(One qualification, corrected at the same review: the all-caps figure is 2, not 0. Both stand at ch 338 and
+both read `HELD.` — the layer's own word set alone as a deliberate beat, not written matter in a hand, and not in
+the class of the seven the close repaired. The seven are sentence case and stay that way.)**
 
 **The ch 335 / ch 338 refrain is untouched and deliberately so.** *A line is a thing that gets found / A holding is
 a thing that can be asked for* still stands word for word in both chapters. It is planted in her head at ch 335 —

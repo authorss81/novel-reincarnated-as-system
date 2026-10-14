@@ -49,6 +49,10 @@ review repair***), `state/open-threads.md` in full (including ***Volume 6 close 
 `state/chapter-summaries.md`, `state/book-metadata.md`, and **chapters 346–360 in full**. Extend to 330–345 and
 then to 314–329 only if the verified context budget safely allows it.
 
+**One thing to carry out of 330–345 without copying it: ch 338 sets the layer's word `HELD.` alone on its own
+line twice**, as a deliberate beat and not as written matter in a hand. It is Volume 6's alone, it is paid on the
+page around it, and it is not available as a precedent for anything in ch 361–374.
+
 **Volume 6 is closed and audited and no closed chapter is open.** If a chapter in ch 299–360 contradicts this
 prompt, the chapter wins and the prompt is wrong; record it and do not repair the chapter.
 
@@ -200,10 +204,10 @@ sign flipped.**
 | Authorial scaffolding, the seven variants | **0** across 62 chapters | **0**, counted before it is claimed |
 | **Bracketed layer lines** | **6**, at ch 310, 321, 332, 342, 352, 357; **0 at ch 360** | **1**, at ch 371, character for character as pinned. **Volume 7's budget is six in sixty and this is bracket 1 of 6** |
 | Bold · blockquote · code fence · table · horizontal rule | **0** across 62 chapters | **0** each |
-| All-caps standalone lines | **0** after twelve close repairs | **0.** Written matter is sentence case inside curly quotation marks, carried by the hand it is in and named in the sentence around it |
+| All-caps standalone lines | **2, both at ch 338** — the layer's own word `HELD.` set alone twice, deliberately, as the beat and not as a System panel. **The seven the close repaired were written matter in a hand and all seven are now sentence case; these two were left standing on purpose and are not in that class** | **0.** Written matter is sentence case inside curly quotation marks, carried by the hand it is in and named in the sentence around it. The ch 338 pair is Volume 6's, planted and understood, and is **not** a precedent for a new one |
 | Straight quotes / straight apostrophes | **0 / 0**; every speech closed | **0 / 0**; every speech closed in all fourteen files |
 | *Nobody asked · nobody was thanked · there is no form · there is no column · the record remained · nobody knew · nobody said anything* | **0 as phrases** | **0 as phrases** |
-| ***Nobody* as a bare intensifier, the wider family** | **nobody 88 · no one 4 · not one 50 · family 142** across 62 chapters, about 2.3 a chapter | **Under 14 across fourteen chapters.** Write the true number into the continuity block whatever it is |
+| ***Nobody* as a bare intensifier, the wider family** | **nobody 88 · no one 4 · not one 50 · total 142** across 62 chapters, about 2.3 a chapter. The three intensifiers are the family and they total 142; **family/families is a separate word and stands at 6** | **Under 14 across fourteen chapters**, measured against those three. Write the true number into the continuity block whatever it is |
 | *About four seconds* · *eleven weeks* | **0** · **0** | **0** · **0** |
 | The Yuan tag — *He said one thing that night and it was present tense and it bought nothing* | **0 verbatim**, and no lead-in of any shape | **0 verbatim, and no lead-in of any shape** |
 | *Under her, …:* as a one-breath speech lead-in | **0** | **0** |
@@ -212,9 +216,9 @@ sign flipped.**
 | The surface answer, paid once at ch 267 | **0** | **0** |
 | Named weekdays / calendar months / weeks | **0 / 0 / 0** | **0 / 0 / 0** |
 | Harem, romance | **None** | **None.** Wei Ran is not on the page in this batch |
-| `reconciled` · `plate` · `licence` · `license` · `clearance` · `countersignature` · `kiln-born` · `MEMBER ABSENT` · `Ledger` · `tribulation` · `Feng` · `Ning Wu` · `Anchor` · `Sisterhood` · `Scribe` · `bargain` · `Lung` · `appointment` | **0 on the page of Volume 6**, every one | **0**, every one, measured |
-| `send for` / `sent for` / `sending` | `send for` **1** · `sent for` **0** · `sending` **0** | **Counted and written down whatever it is.** Volume 7 opens being sent for at ch 402 and these strings will rise; an unmeasured count is the failure this table exists to stop |
-| `vouch` | **4**, all at ch 357 | **Counted and written down whatever it is** |
+| `reconciled` · `plate` · `licence` · `license` · `clearance` · `countersignature` · `kiln-born` · `MEMBER ABSENT` · `Ledger` · `tribulation` · `Feng` · `Ning Wu` · `Anchor` · `Sisterhood` · `Scribe` · `bargain` · `Lung` · `appointment` | **0 on the page of Volume 6**, every one, measured. **Grep these on word boundaries.** Bare `Scribe` returns a false positive at ch 303 inside *described*; the Volume 6 close was caught by this same trap on `Ledger` | **0**, every one, measured, on the same word-boundary grep |
+| `send for` / `sent for` / `sending` | `send for` **4** (ch 301:65, 337:69, 338:167, 355:59) · `sent for` **2** (ch 338:133, twice on one line) · `sending` **1** (ch 336:71) | **Counted and written down whatever it is.** Volume 7 opens being sent for at ch 402 and these strings will rise; an unmeasured count is the failure this table exists to stop |
+| `vouch` | **6 occurrences across 4 lines** — ch 357 ×4 (lines 39, 79, 105 ×2) and ch 329 ×2 (line 41, *you have been vouched once already in a building with a stove*) | **Counted and written down whatever it is** |
 | The ch 335 / ch 338 refrain — *A line is a thing that gets found / A holding is a thing that can be asked for* | 1 exact duplicate pair, planted and paid, deliberately kept | **Not available again in either half.** It is spent |
 | The keeper's figure at ch 345 and ch 359 | Near-verbatim twice in the same mouth, deliberately | **Not available a third time** |
 | Longest paragraph | 100 words (ch 309); 13 between 91 and 100; none over 120 | **Under 90 in every chapter**, none over 120 |

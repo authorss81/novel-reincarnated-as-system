@@ -5997,7 +5997,7 @@ because a budget that only ever reports clean is not a budget.**
 | **Harem, romance** | **None.** Wei Ran is off the page in this batch, as `outline/volume-06.md` has her between Batches 0001 and 0004 |
 | **Bold** | **0.** `grep` for `**` returns zero across the fifteen files. **Italic zero spans** — the batch runs on plain paragraphs and plain section headings |
 | **Markdown** | **0** blockquotes, code fences, tables and horizontal rules across the fifteen files. Title heading and `##` section headings only |
-| **All-caps standalone lines** | **0, down from five.** The review found that ch 348, 355, 356 ×2 and 358 set written matter as bare capital lines standing on their own, which reads as a System panel — and **two of the five were the book's ordinary hand, not the fine hand**: ch 356's was her own refusal written out with the flat of her own finger, and ch 358's was the counter clerk writing in the ordinary hand. This volume spends six brackets in sixty-two chapters on stages only. **All five are now sentence case inside curly quotation marks**, and each is carried by the hand it is in, named in the sentence around it |
+| **All-caps standalone lines** | **0 of the five, down from five.** The review found that ch 348, 355, 356 ×2 and 358 set written matter as bare capital lines standing on their own, which reads as a System panel — and **two of the five were the book's ordinary hand, not the fine hand**: ch 356's was her own refusal written out with the flat of her own finger, and ch 358's was the counter clerk writing in the ordinary hand. This volume spends six brackets in sixty-two chapters on stages only. **All five are now sentence case inside curly quotation marks**, and each is carried by the hand it is in, named in the sentence around it. *(The standing figure measured at the Volume 7 planning review is 2, both at ch 338 and both `HELD.` — the layer's word alone as a beat, not written matter in a hand, and outside this batch's five entirely.)* |
 | **Quotes** | **Every speech closed in all fifteen files** (`text.count('“') == text.count('”')` in every file); **0 straight apostrophes and 0 straight double quotes.** The first draft was written with straight quotes in nine of the fifteen files and swept to the curly form before the batch was saved |
 | **Paragraphs** | **Longest paragraph in the batch is 89 words.** **No paragraph over 90 and none over 120.** Eleven paragraphs were written between 90 and 107 words and all eleven were split at a natural beat; **one more (ch 349's opening, 91 words) was split at the repair** |
 | **Duplicated paragraphs** | **0 substantive.** A paragraph-level exact-duplicate scan at eight words and above returns **one pair, and it is a section heading** (*What She Did With The Rest Of The Day*, ch 348 and ch 354). **Three duplicated prose paragraphs were written and cut before the batch was saved** — the *What She Wanted From Him* paragraph at ch 347, which the same chapter's new section repeated verbatim; the *What She Had Asked For* pair at ch 351, where a heading and two paragraphs were duplicated by an insertion; and the *What She Did With The Rest Of The Day* pair at ch 354, where the paragraph before the heading said the same three sentences as the first one after it. **Six duplicated section headings across the batch** (*What She Said*, *What He Said*, *The Plain Part*, *What She Wanted*, *What It Took*, *What She Said Back*) are labels and not prose, and *The Plain Part* is a standing label of the volume used at ch 352, 355 and 358. **The exact-match scan was not sufficient and did not say so.** The repair found that ch 348 **narrated its first day on the footing twice inside one chapter** — the same hour, the same five feet in, the same lost hour of thinking, the same eleven trips up the low side, about 150 words apart — which no exact-match scan can see, and **ch 348's heading has changed with it**: *What She Did With The Rest Of The Day* is now *The Seventeenth, And The Low Side*, because the second pass is the **third day** and not a restatement of the first. A fuzzy set-overlap scan at 0.42 now returns **no chapter-to-itself pair**, and the worst surviving cross-chapter overlap is **0.50**, between ch 346's and ch 351's flat-stone sentences, which are the same beat in the same book and are supposed to rhyme |
@@ -6165,7 +6165,7 @@ are none is the same lie with the sign flipped.
 layer lines**, at ch 352 and ch 357, character for character as pinned; zero in the other thirteen. **Every speech
 closed in all fifteen files, zero straight apostrophes and zero straight double quotes** (one straight apostrophe
 was introduced in a ch 356 repair sentence and was swept before the batch was saved again). **Zero** blockquotes,
-code fences, tables, horizontal rules, bold and italic spans. **Zero** all-caps standalone lines. **Zero** hits on
+code fences, tables, horizontal rules, bold and italic spans. **Zero** all-caps standalone lines in the batch. **Zero** hits on
 authorial scaffolding, *about four seconds*, *eleven weeks*, the seven banned phrases, generic web prose, the
 retired zero-list terms, and the batch's zero-list vocabulary. **`nobody`: 6**, down from 27, each load-bearing.
 **Longest paragraph in the batch is 89 words**, none over ninety. **No chapter-to-itself duplicate pair** under the
@@ -6227,7 +6227,7 @@ and findings are under `## Volume 6 close audit — CLOSED`.
 | Batch 0003 (ch 330–345) | 25,027, average ~1,564 | 25,005 |
 | Batch 0004 (ch 346–360) | **21,550, average ~1,437** | 21,479, average ~1,432 |
 | Bracketed layer lines | **6 — ch 310, 321, 332, 342, 352, 357**, character for character as pinned. **0 at ch 360** | unchanged |
-| All-caps standalone lines | **0** | 7 |
+| All-caps standalone lines | **0 of the audited seven** *(measured figure at the Volume 7 planning review: 2 — ch 338 lines 47 and 51, both `HELD.`, the layer's word alone as a beat, outside the audited class and not a precedent)* | 7 |
 | Exact cross-chapter duplicate paragraphs | **1 — the ch 335 / ch 338 refrain**, planted and paid | 8 |
 | `grep -i Ledger` across ch 299–360 | **0** | 2 |
 | Straight quotes / straight apostrophes | **0 / 0**; every speech closed in all 62 files | unchanged |
@@ -6322,7 +6322,7 @@ The line ends on her walking toward the bar, which is the first line of the sect
 | Exact cross-chapter duplicate paragraphs | **1 — the ch 335 / ch 338 refrain, planted and paid, deliberately kept** | 1 | 8 |
 | Bracketed layer lines | **6, at ch 310, 321, 332, 342, 352 and 357, character for character. 0 at ch 360** | unchanged | 6 |
 | `Ledger` / `licence` / `license` / `clearance` / `countersignature` / `kiln-born` / `MEMBER ABSENT` / `Anchor` / `Sisterhood` | **0 across ch 299–360** | unchanged | 2 for `Ledger` |
-| Bold / blockquote / code fence / table / horizontal rule / straight apostrophe / all-caps standalone line | **0 / 0 / 0 / 0 / 0 / 0 / 0** | unchanged | 7 all-caps |
+| Bold / blockquote / code fence / table / horizontal rule / straight apostrophe / all-caps standalone line | **0 / 0 / 0 / 0 / 0 / 0 / 2** *(the 2 were found at the Volume 7 planning review and are both `HELD.` at ch 338, a deliberate beat in the layer's word and not written matter in a hand)* | unchanged | 7 all-caps |
 | Chapter titles | 360 `#` headings manuscript-wide, **zero collisions, no title changed by either pass** | unchanged | unchanged |
 | Month-day, re-derived under `((day − 134) mod 30) + 1` | **638 the 25th · 674 the 1st · 712 the 9th · 749 the 16th · 786 the 23rd · 818 the 25th · 845 the 22nd** — every one re-run at this repair and none moved | unchanged | unchanged |
 
@@ -6357,7 +6357,7 @@ the rest were already right.**
 ## Volume 7 planned — what `outline/volume-07.md` fixed, and what Batch 0001 inherits
 
 **Recorded by the Volume 7 planning phase. No chapter prose was written in it. `outline/series.md` and
-`outline/ending.md` were not opened and are unchanged. `outline/volume-07.md` exists and is 784 lines;
+`outline/ending.md` were not opened and are unchanged. `outline/volume-07.md` exists and is 786 lines;
 `workspace/volume-07-batch-0001/PROMPT.md` is its first drafting card and is the only prompt that phase created.**
 
 **Nothing in this block is measured against ch 361–374, because no Volume 7 chapter exists. Everything below is
@@ -6483,8 +6483,12 @@ and re-measured* is a Volume 6 measurement or a stated Volume 7 allowance. **The
   instances stand is the failure this manuscript has caught itself making twice, and a budget that records a count
   where there is none is the same lie with the sign flipped — which is how the Batch 0004 `sending: 7` row was
   wrong and had to be corrected.**
-- **The `nobody` family: nobody 88 · no one 4 · not one 50 · family 142** across Volume 6's sixty-two chapters,
-  about 2.3 a chapter. **That is the one measured number in Volume 6 above the book's own guidance** and Volume 7's
+- **The `nobody` family: nobody 88 · no one 4 · not one 50 · total 142** across Volume 6's sixty-two chapters,
+  about 2.3 a chapter. **The three intensifiers are the family and they total 142; `family`/`families` is a
+  separate word and stands at 6.** *(An earlier record in this file, and the copies inherited by
+  `outline/volume-07.md` and `workspace/volume-07-batch-0001/PROMPT.md`, read the last figure as `family 142`,
+  which is a transcription of `total 142` and not a measurement. Corrected at the planning review.)*
+  **That is the one measured number in Volume 6 above the book's own guidance** and Volume 7's
   allowance is **under sixty across sixty chapters**, which is about one a chapter. The true count is written into
   the continuity block whatever it is.
 
@@ -6514,3 +6518,44 @@ frame scene. **Being sent for is not opened, foreshadowed in his mouth, or had h
 volume's is ch 417. No office named, no word of the Order, no Wei Ran, no Feng, no Ning Wu, no payment and no
 listing. The register is not read, the plate is not described, MEMBER ABSENT is carried and not raised, the year of
 non-forgiveness is not mentioned once, and no villain is created.
+
+## Volume 7 planning — close review repair
+
+**Six findings from `logs/volume-07-planning.review.log`, all applied. Every figure was re-measured against
+`chapters/volume-06/` before it was written back. No chapter prose was touched, no beat, day, title, batch
+range, pinned chapter, mouth, stage, bracket or irreversible step moved, and no Volume 7 chapter exists or was
+invented.**
+
+- **The `nobody` family row, in four files** (`workspace/volume-07-batch-0001/PROMPT.md`, `outline/volume-07.md`,
+  this file, and `state/current.md`), read **`family 142`**. It is **`total 142`** — `nobody` 88, `no one` 4,
+  `not one` 50 — and **`family`/`families` measures 6**. The mistranscription mattered: the `under 14 across
+  fourteen` allowance is the drafter`s main defence against the bare-intensifier construction, and it was
+  specified against a number 24x too high. The rows now name the three intensifiers the allowance governs and
+  give both figures.
+- **`vouch` is 6, not 4** — ch 357 x4 (lines 39, 79, 105 x2) and **ch 329 line 41**, *you have been vouched once
+  already in a building with a stove*. `grep -c` returns 3 at ch 357 because line 105 carries two occurrences.
+- **`send for` 4 / `sent for` 2 / `sending` 1**, against a recorded 1 / 0 / 0. At ch 301:65, 336:71, 337:69,
+  338:133 (twice on the line), 338:167 and 355:59.
+- **All-caps standalone lines is 2, not 0** — ch 338 lines 47 and 51, both `HELD.`. These are the layer`s own
+  word set alone as a deliberate beat, not written matter in a hand, and they were never in the class of the seven
+  the Volume 6 close repaired; all seven are sentence case and stay that way. The Batch 0001 prompt now carries
+  the warning at the point where it orders the drafter to extend into ch 330–345, because ch 338 is the chapter
+  that breaks its own rule and would otherwise be inherited as precedent.
+- **`outline/volume-07.md:558` said `ch 378`** where its own structural-answer table at `:404` and five state
+  files say **`379`**. One digit corrected to the majority and to the outline`s own table.
+- **`outline/volume-07.md` is 786 lines**, not the 784 recorded here.
+- **Forbidden-string greps now carry word boundaries.** Bare `Scribe` returns a false positive at ch 303 inside
+  *described*, and `plate` and `Ledger` will do the same; the Volume 6 close was caught by this on `Ledger`.
+
+**Not touched, and verified as correct rather than missed.** `state/continuity.md` lines 6008-6010 record `vouch`
+4, `sending` 0, `send for` 1 and `sent for` 0. **Those rows are scoped to Batch 0004`s fifteen files** and
+re-measured across ch 346-360 they return exactly those numbers. The findings were against the Volume 6-wide
+rows in the prompt and the outline, not against these, and repairing them would have made a right measurement
+wrong.
+
+**Everything the reviewer listed as verified stays verified**: all day arithmetic under `((day - 134) mod 30) + 1`
+(845, 848, 849, 899, 886, 924, 960, 999, 1,037, 1,076 and the intervals 41/38/36/39/38/39), the six bracketed layer
+lines at ch 310, 321, 332, 342, 352 and 357 with none at ch 360, the fourteen forbidden strings at 0, bold and
+blockquote and code fence and table and horizontal rule at 0, straight quotes 0/0, the seven retired phrases at 0,
+the longest paragraph at 100 words (ch 309) with 13 in the 91-100 band, and 360 `#` headings manuscript-wide with
+zero collisions. The fixed quantities, the day table, the batch ranges and the pinned ch 371 card all survive.
