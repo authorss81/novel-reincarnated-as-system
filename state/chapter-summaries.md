@@ -424,3 +424,161 @@ dispatch does not read `state/`. The order was not obeyed and not abandoned: F1�
 page, are now `## PHASE ZERO` at the head of `workspace/volume-08-batch-0001/PROMPT.md`, as a seven-row table with the
 file and the line of every one of them. Nothing is lost. Full audit at `state/current.md` §*Volume 8 planning — the
 deviation, and where the sixteen findings went*.
+
+---
+
+## Volume 8 Batch 0001 (ch 421–434) — AN ARRIVAL
+
+**Volume 8 opens on the page. Fourteen chapters, day 1,091 to day 1,152, 27,632 words of body prose, average ~1,974.
+One bracketed layer line in the whole batch, at ch 434. Batch irreversible step at ch 432. Midpoint at ch 427.
+Physical-risk card at ch 430.**
+
+- **421 — The Eighteenth, And Nothing Else.** Day 1,091, the twenty-eighth. The rail at the sixth hour with forty-nine
+  lines and then fifty-one, every one measured by the weight or by the length, and she can take none. **Eleven minutes
+  at that rail and nothing happened and nothing was asked of her** — and she works out the calendar: the ground asks
+  her a question on the fourth, the eleventh, the eighteenth and the twenty-fourth, and today is not one of the four. A
+  cup of something hot at the yard at the turn that her hand will not take and that she watched go cold. The second
+  hour: **the six words, once, and again, and they sound the same.** She wants the word at the head of the strip
+  against her ribs and has decided, on the eighteenth of a month four months back, in a room with the door shut, that
+  she would rather have the standing arrangement than the line, and she still has that. **And at the seventh hour a
+  cart she does not know comes down the mill road and does not stop at the gate and does not stop at the counting house,
+  with a tray on it and a cord round it, and the man on it does not get out.**
+- **422 — The Woman Who Came On Foot.** Days 1,092–1,094. The cart is standing in the mill yard with its near wheel
+  sunk four inches and a strip under a stone on the seat board **with one date on it and nothing else**, in the
+  ordinary hand that comes about nine times a year. **She does not take it and does not wake him.** The mechanism she
+  worked out herself at ch 366, said once, in short sentences, at the boards: a tray goes up on the first, comes down
+  on the ninth with the empty trays, and that cart does not go east, so a strip that goes east does not come back on
+  it; and something came back on a cart that does not go east. She says it four times and gets the same answer four
+  times. She goes past the post on the mill road and does not stop, and does not go up the hill, and says both of those
+  out loud. **And at the seventh hour of the first a woman of sixty-one gets off that cart at the mill, which is eleven
+  miles from where she was picked up, and walks the four miles, and asks the keeper of nothing for a woman of
+  eighteen who reads.**
+- **423 — Nobody Has Ever Answered One.** Days 1,095–1,098, the seventh hour, in the open doorway with the boards
+  showing. **Xie Changyin**, sixty-one, no folder, no men, no seal, no office. **She quotes the two lines and the date
+  and the ordinary voice — a line has not been carried to a room it was made out for, and a holder is required against
+  it — and the nineteenth of a month three months back, and she does not know there is a man.** Ning Yan's first act
+  is neither fear nor anger: she works out that the only way to answer correctly is to tell the truth, and that the
+  truth is a thing she has never said out loud, and that saying it puts a voice in a stranger's book. **She says
+  nothing. She does not lie.** Then she says no out loud, because the alternative is a stranger carrying a sentence
+  east in her coat. **He is asked, for the first time, and he cannot answer, and it goes in no book at all.** And at
+  the end she is offered one question, one, at a time of her choosing. **She did not come eleven miles to ask a
+  question**, and she puts the folded sheet on the boards and does not open it.
+- **424 — The Four Hundred Times.** Days 1,099–1,102. A carter of about thirty-four at a cart stand with a whip folded
+  twice. **The structural answer, mouth one of six, in four or five short sentences broken across beats:** there is a
+  place at the east end of that road where strips go and they do not come back · a journey with nothing on it is not a
+  journey, and he was paid for the going and not for the coming back · turning back is the ordinary end of that
+  journey and people are paid for it. **Four hundred and about forty turnings, counted on his own fingers, and the
+  gate man has counted more.** Twenty-nine for a man with nothing on him, and no difference either way. **The eight
+  coppers she is owed come up here and are not paid**, because she cannot take them and cannot give them and the road
+  east is a trade. He asks her nothing. And she shouts one question back down the road, which she does not do, and
+  learns that nobody who walks in from the far side of the turn has ever walked out again, and that it is not a thing
+  anybody at that stand thinks about.
+- **425 — A Rate And A Room And A Roll.** Days 1,103–1,106, the seventh hour, four days running, the folded sheet
+  still unopened on the boards. **The offer in full and every term reasonable:** a long low lime-washed building eleven
+  miles east, one storey, a hundred and forty feet front, a counter, **a lamp on every table**, about a hundred people
+  reading, **no hall in it and nothing in it that is called a hall** · two coppers a page, a second rate by the
+  difficulty of the hand, and a third at twice the first · **a licence that is not a piece of paper that says what you
+  are** · a room, nine feet by eleven, four of them and three empty for eleven years · **standing** · **a book with
+  four hundred and six names on it, and a name on it is a person who cannot be un-recruited.** **The trade is called
+  the Order of the Recruited**, once, and the naming is the event. Her argument, once, in her own mouth, **and it is not
+  wrong**: *you have been a reader for two years out of a shed for nothing and it has already taken a finger and half
+  an arm out of you; be one properly and I will put the list of what it costs in front of you in a column and you can
+  argue with a number instead of with a feeling.* Nine years ago she offered it to a woman in Ning Yan's position who
+  took it and is alive and she has not spoken to her in six years. **She asks for nothing and buys nothing and does not
+  mention the fine hand and does not mention the strip.** And at the door: what happens to a person who says no.
+  **Nothing.** Two hundred recruited, about forty refusals, one single consequence for any of them.
+- **426 — The Question She Had Not Thought To Ask.** Days 1,107–1,111. She works the order of the trade out of her own
+  arithmetic, with nobody, because a reader is called in when a hand cannot be read. **Four people have called her in
+  four times in a month and not one of them knew they were making a call.** Four hundred and six names in a book, and
+  one of them has something in it that says a woman at a gate on that ground can read a hand nobody else on it can
+  read, **and somebody worked that out before she did.** The five lines: a hand cannot be read · somebody has to find
+  a person who can read it · that person says what it says, out loud, in the ordinary voice · that goes into a book ·
+  and somebody, at some point, has to be a name at the head of a line. **The room is the reason, not the answer and not
+  the refusal.** And for four hours she feels something she has not felt in two years and does not have a word for, and
+  it is not fear and it is not hope. On the eighteenth she asks for one thing about one person and not one thing about
+  herself, **and Xie Changyin says that is allowed and that it will be done in a room with a lamp in it.**
+- **427 — The Sheet At The End Of The Arm.** Days 1,112–1,115. **The lifting floor**: a hundred feet, nine men, a bench
+  in oak four inches thick, a chain, eleven dressed stones. **She asks for the lifting floor's own work to be read by
+  somebody qualified** — not her own line, not the strip, not the fine hand. A young man with a good eye and no
+  standing stands at the bench for two hours and eleven minutes in the order a floor reads a sheet in, and **finds
+  nothing wrong in any of it and says so out loud, in a room with nine men in it, in the ordinary voice**, which is the
+  first time in nineteen years that floor has been vouched by anybody not standing on it. **Geng writes his name at the
+  foot of the sheet in his own hand, because that is what a floor does with a name, and does not thank anybody.**
+  The dressed stone is still four feet off its frame and is not going back and nobody offers. She spent the only
+  question she had on a stranger and got a stranger's good name into a room of nine men **and she does not know what to
+  do with her face and she leaves the room.** At the door, Geng: the floor was a block short before she came and is two
+  blocks short now, and nobody has worked out how to write that down.
+- **428 — What He Has Watched Twice.** Days 1,116–1,119. The made road east of the turn at the ninth hour, nine feet
+  off, notebook shut. **She asks one question: can a thing that has been read by somebody else be read back by the
+  person it is about. Yes. It is not usually a good idea. He has watched it happen twice.** He does not say who and
+  she does not ask twice and that is the whole of that page. He buys nothing, has never bought anything, and tells her
+  that she has never once asked him twice about anything in seven months and that he has noticed it. Then the third
+  floor at the fourth hour: **nine columns read out loud and all nine right and Rao says nothing about it, because she
+  has said nothing for sixteen years.** The man with the brush asks about the slip for the fourth time and she says
+  yes. The margin correction is four. And on the way back, **a man at the north end of a yard has asked four men a
+  question about her out loud and has told nobody what the answer was.**
+- **429 — The Eight Coppers She Is Owed.** Days 1,120–1,124. **Wei Ran**, twenty, one team, a whip folded twice.
+  Eight coppers for a person with no load and nine for a load, said without looking at her. **She has twenty-one
+  coppers and cannot be paid and is owed eight that her hand will not take, having stopped in the air over four of
+  them twice on a plank bench.** **The rate is more than she has, because she has nothing she can be given.** Wei Ran
+  takes the eight as a credit against the fare, writes it off a line, says the number out loud so she can argue with
+  it, and says the balance of a fare can never be paid. **It is a trade and nothing in it is anything else.** She also
+  says she has carried a man east once before and he did not come back. Then eleven days, written out on the boards in
+  a column: the lifting floor, nine men, a sheet with two columns on it, the only thing on nine days of road that has
+  ever made use of her, and **nobody to be told why.** **She goes east at the sixth hour of the second with a bar she
+  cannot hold at the heavy end, and the made road goes four miles and then it does not.**
+- **430 — The Man With The Chain.** Days 1,125–1,128. **The physical-risk card.** Eleven miles in two days on one arm at
+  half and four fingers on one hand, buying every drop of water, and at the seventh mile **there is kerb on the road**,
+  and nothing announces it. At the end of the long road there is a gate with two posts and a chain and a man with a
+  cup and a stool, drinking cold tea at a carter. **The chain is across. Turn round.** Not because of anything she did,
+  and he tells her the word before he says it and says she can come back in the morning and he will tell her all of
+  it. **She goes back four hundred yards and stands in the road until the light goes and sleeps with a bar over her
+  shoulders.** On the fourth at the sixth hour the chain is up and **he does not ask her a question, does not write
+  anything down, and does not say one word about the first day to anybody.** A leg stops taking an order at a mile and a
+  half and she gets it back at the second hour by standing on the grip of a bar in the ground. **She is on the far
+  side of a maintained line for the first time and nothing announces that either.** And at two hundred yards: a long
+  low lime-washed building, a lamp in every window, about a hundred people reading. **It is warm. She has eleven
+  coppers. She is not hungry and has not been since the first Foundation. She does not go in, and not one of the
+  hundred people inside has looked up.**
+- **431 — The Second Attempt.** Days 1,129–1,133. The made road back at the second hour, then the shed at night. **She
+  lays out eight people who have spoken to her about this and every one of them was right, and there is not one word
+  written against any of them, and she has no counter-evidence of any kind.** Then the fifth thing she has taken
+  apart in two years finds a place where it does not add up, and it is not a place where somebody was wrong: **it is
+  a count.** Four calls in a month by people who did not know they were making them, and four hundred and six names in
+  a book, and somebody has already written her down. **She cannot find the price out without saying yes and she is not
+  going to say yes in order to find out what yes costs.** The hedge east of the turn, third listing, cut and checked and
+  rubbed off: **six days and two hours**, said twice at the boards, the price said out loud first, **spent out of the
+  ground under her and not out of her hands**, and the ring does not come up at all for two days. She says the six
+  words out loud twice and they sound the same. And she stands up at the fourth hour and says *I am going to go* and
+  *I want it written down*, and does not say the second one, and waits for the morning.
+- **432 — The Date She Said Out Loud.** Days 1,134–1,141. **The batch's irreversible step, at the seventh hour of the
+  eighteenth, in the doorway, in daylight.** Seven days of not saying it, the month written out on the boards, the four
+  days of the ring. She lays out the three times she has done this before — a trestle on a bank, a gate, a counter —
+  and what each one cost her. **And she says a date eleven days out and a place and her own agreement to both: the
+  twenty-ninth, the sixth hour, the gate at the east end of the long road.** She asks for it to be written down and
+  Xie Changyin writes a place, a day and an hour on the bottom of her own sheet **in the ordinary hand, and does not
+  read it out, and says nothing at all.** Her name is not in it. Nothing was refused, nothing failed, no book will
+  not shut, and **there is nobody she can go to and ask to take it out.** She gave up knowing what the fine hand says
+  about her on the nineteenth of a month four months back so that she would never be entered again, and she has been
+  entered, and **the two events are a hundred days apart and nothing caused the second one.** And at the second hour
+  she tells him, because she has never once decided a thing and not said it out loud to him at the boards.
+- **433 — What He Did Not Say.** Days 1,142–1,144, and the scene is the second hour of the twenty-first. Two long days
+  with nothing to say, and then **eleven times to the boards expecting to be argued with and argued with twice and four
+  replies ready and not one of them used.** What he says is short and in the present tense: *I heard her at the seventh
+  hour of the second day and I have been waiting three days for you to say it out loud.* Then **he tells her the
+  price before she asks**, out of the ground under her, four days and six hours, and she notices he is doing it and
+  asks why, and he says it is because she is going to ask in four seconds. **Then he says no**, and gives ch 419's
+  reason in three sentences and says he is not going to argue it again and is telling her so now so she will not have
+  to spend a morning in four months working out whether he has changed his mind. **She works out that she would have
+  gone anyway, and that there are two versions of the week and she picked one on purpose in a doorway in daylight.**
+  And the ring comes up a finger's width for the first time in three weeks, and something behind her fourth rib comes
+  open, and **her short breath comes back to four inside a loaded reach for the first time since a dressed stone went
+  the length of her own arm in front of nine men.** Ch 434 opens on the twenty-second.
+- **434 — A Body That Cannot Stop.** Days 1,145–1,152. Seventy-six days of furnace and forty-nine of them with nothing in
+  the shed to put a hand on, and a board that cannot pay her and a hand that cannot be given anything, and **so the only
+  way to a stage is a person standing in the shed with her, and there is nobody she is entitled to ask.** Xie Changyin
+  comes up the four miles on the twenty-second with a coil of rope, because there is nowhere on that road for her to be
+  on the twenty-ninth except outside it, and says she has read one chapter on a furnace, can hold a rim with two hands,
+  and is not going to pretend to be anything else. **It goes wrong once, the way it went wrong at ch 371, and nobody
+  is burned.** She says so out loud four times, and Xie Changyin says that in forty-two years, at about nine in the
+  morning, nobody has ever said the other one. [Ning Yan, past the line, servant-born, under no ceiling any county holds. Nascent Soul, stage eight, is held.] **The cost, named once, in her own thought: she cannot call a halt — not the arm, not the hand, not the four fingers, but herself, once a thing she is in has started.** And then it bites: she goes to the made road at the ninth hour and works out **four ways** to tell Xie Changyin she is not coming, **and all four of them work, and she does not use one, because she cannot.** She stands there and says *I am not going*, and it is true, and it goes nowhere, **and nothing in the world fails and nothing is written and no book will not shut.** She pays the stage, finds out what she paid it with, and **walks eleven miles east at the sixth hour of the twenty-ninth because she said a date out loud in daylight to a stranger and a date out loud is a date.** She is through the turnstile by the second hour. There is a long low lime-washed building with a lamp in every window and about a hundred people reading. **It is warm, and not one of them has looked up.**

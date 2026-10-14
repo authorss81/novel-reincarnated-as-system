@@ -2488,3 +2488,303 @@ figures already corrected at `## Volume 7 close — the volume as a whole` and a
 a false claim in `outline/volume-07.md` and that file is not to be re-planned by anything. **The volume's own answer at
 ch 417 is untouched and a repair that appears to weaken it is wrong and the page is right.** Full audit at
 `state/current.md` §*Volume 8 planning — the deviation, and where the sixteen findings went*.
+
+---
+
+## PHASE ZERO — the Volume 7 close repair order, executed and closed (Volume 8 Batch 0001, ch 421–434)
+
+**The Volume 7 close recorded sixteen findings and repaired none, and wrote an order that a repair phase runs before
+Volume 8 planning and blocks it. The Volume 8 planning phase was dispatched anyway and moved the order into the head
+of `workspace/volume-08-batch-0001/PROMPT.md` as `## PHASE ZERO`. This phase is the next one to touch the manuscript
+and cleared the seven that are defects on the page before it wrote a line of Volume 8. File by file, line by line, as
+the block requires.**
+
+| # | Finding | File and line | What the page now reads | Verified by |
+| --- | --- | --- | --- | --- |
+| **F1** | Six named weekdays | `chapter-0391.md:19` · `chapter-0395.md:69, 93, 101` · `chapter-0399.md:101` · `chapter-0400.md:117` | **the eighth** · **the first** ×3 · **the fifteenth** · **that was twenty days away and it was the nineteenth** | A case-insensitive grep of `chapters/` for all seven weekday names returns **zero across ch 1–434**. `bible/world.md` was not opened and is not to be |
+| **F2** | `Volume 6` in body prose | `chapter-0417.md:135` | **For materials, on the twenty-sixth of a month eleven months back, to a man with a bench at a gate, in a materials account against the mill.** The in-world name of the materials entry, **with a date**, and one clause. The six words in that room, the condition, and the outcome are untouched | `Volume 6` returns **0** across `chapters/` |
+| **F3** | Card headings on the page | `chapter-0409.md:43` · `chapter-0415.md:63` | **`## What Comes Off The Cart Already Written`** · **`## The List He Is Still On`** — both recast in the world's terms, **both sections unmoved**, nothing else in either chapter touched | `Mouth Five` and `Mouth Six` return **0** across `chapters/` |
+| **F4** | A stray token in the last scene | `chapter-0420.md:135` | **“Right.”** — one word, in Geng's mouth, at the beat where the floor takes her column. `Right.` and `All right.` and `Yes.` are established within a page | A case-insensitive grep of `chapters/` for `nai` returns no standing token |
+| **F5** | The Hunter's position stated three ways | `chapter-0369.md:59, 73, 101, 113` · `chapter-0404.md:117` · `chapter-0420.md:163` | **the made road east of the turn**, everywhere. The ch 369 section heading moved with it, to `## Nine Feet Off The Made Road`, and the two distances in that chapter were made to agree — the works four hundred yards behind her, the walk back four miles, against ch 378's **one mile and a half** in five instances and its heading unmoved | `eleven miles east of a cart track` returns **0** across `chapters/`. Four files carry it and they agree |
+| **F6** | One walk measured two ways | `chapter-0378.md` — heading, body ×3, close | **a mile and a half**, five instances. The section heading kept its position in the chapter and the burn on the man's hand was not touched | Both `two miles` and `a mile and a half` now read `a mile and a half` in that chapter |
+| **F7** | An unresolvable referent on his cost | `chapter-0401.md:87, 91` | **the keeper with the paste pot on the first of a month**, named, with the burn on his hand; and **the other one is hers and hers is the bigger**, with ch 396's four days and two hours attributed to a sill line at the south end of a yard under her | The passage resolves on one reading |
+
+**A consequence of F5 and F6 that the order did not name and that was found while applying them.** Making the Hunter's
+position agree with ch 418 made ch 369's distances wrong in the same breath, and ch 369's distances were the mill road's,
+not the long road's. **Six instances in five files were made consistent and one section heading moved.** No other change
+was made to any closed chapter and no beat, day, stage, title, bracket or planned ending moved.
+
+**NOTHING ELSE WAS TOUCHED.** No chapter in ch 1–360 was opened. **F8–F13 are state-file figures already re-derived
+and corrected in the Volume 7 close's own tables at `## Volume 7 close — the volume as a whole`; they were verified by
+grep and not re-derived, and none of the chapters they describe was reopened.** **F14 is a false claim in
+`outline/volume-07.md` — that five of the six structural mouths are new people and ch 409's man with the brush is
+Volume 6's ch 331 man — and that file was not opened, not re-planned and not edited by this phase.**
+
+**THE ORDER IS CLOSED. Fifteen of the sixteen findings are now cleared on the page or already corrected in the state
+files; the sixteenth is recorded against an outline this run's phases are not permitted to edit.**
+
+---
+
+## Established facts, Volume 8 Batch 0001 (ch 421–434) — AN ARRIVAL
+
+**Volume 8 is open. Fourteen chapters, day 1,091 to day 1,152, 27,632 words of body prose, average ~1,974.** Body prose
+is the `#` title line and every `##` section heading excluded. Per file: **421 2,086 · 422 2,025 · 423 2,002 · 424 1,972
+· 425 2,026 · 426 1,952 · 427 1,840 · 428 2,044 · 429 1,943 · 430 2,042 · 431 1,933 · 432 1,813 · 433 1,865 ·
+434 2,089.** **Nothing is under the 1,800 guide and nothing is above the 2,700 guide; nothing is under the 1,300 floor.
+No paragraph is over 90 words, and the longest in the batch is 89, at ch 421 and ch 422.**
+
+### The day table, derived from the chapters and verified under `((day − 134) mod 30) + 1`
+
+| Ch | Days | Month-day | What is on the page |
+| --- | --- | --- | --- |
+| 421 | **1,091** | the **28th** | the rail, forty-nine then fifty-one lines, **eleven minutes of nobody**, a cup she cannot take, and a cart that comes down the mill road at the seventh hour and does not stop |
+| 422 | 1,092–1,094 | the 29th, 30th, **1st** | a strip on a cart seat under a stone, **one date on it and nothing else**; the mechanism she worked out herself at ch 366, in short sentences, once; and at the seventh hour a woman gets off the cart at the mill and walks the four miles |
+| 423 | 1,095–1,098 | the 2nd to the 5th | **Xie Changyin in the open doorway.** The two lines and the date and the ordinary voice. He is asked. She answers nothing and then says no |
+| 424 | 1,099–1,102 | the 6th to the 9th | **the carter at the cart stand — the structural answer, mouth one of six** — and the eight coppers that are not paid |
+| 425 | 1,103–1,106 | the 10th to the 13th | **the offer in full, and the Order named once, and Xie Changyin's one argument, which is not wrong** |
+| 426 | 1,107–1,111 | the 14th to the 18th | **she works the order of the trade out of her own arithmetic and asks for one thing about one person** |
+| 427 | 1,112–1,115 | the 19th to the 22nd | **the lifting floor, a vouched sheet, and a stranger's good name in a room of nine men — the batch midpoint** |
+| 428 | 1,116–1,119 | the 23rd to the 26th | **the Hunter, nine feet off, and the third floor, and Rao's four hours a month** |
+| 429 | 1,120–1,124 | the 27th to the 30th, **1st** | **Wei Ran, the rate, and the eight coppers, and eleven days given up at the lifting floor** |
+| 430 | 1,125–1,128 | the 2nd to the 5th | **eleven miles, a turnstile, and she is turned back once — the physical-risk card** |
+| 431 | 1,129–1,133 | the 6th to the 10th | **the shape of the trade put to the evidence, and the settlement, told before spent** |
+| 432 | 1,134–**1,141** | the 11th to the **18th** | **she says a date out loud at the seventh hour of the eighteenth — the batch's irreversible step** |
+| 433 | 1,142–1,144 | the 19th to the 21st | **she tells him and he says almost nothing, and the ring comes up a finger's width for the first time in three weeks** |
+| 434 | 1,145–**1,152** | the 22nd to the **29th** | **NASCENT SOUL 8 on day 1,152, the twenty-ninth, and the first time she tries to take a date back and cannot** |
+
+**Day 1,152 is the twenty-ninth of the month beginning 1,124 and is seventy-six days after Nascent Soul 7 at day 1,076
+— the longest interval since Nascent Soul 1 at day 845.** Batch 0002 opens on day 1,153, the thirtieth.
+
+### The money table, every figure on a page, and it adds up
+
+**Start at ch 421: twenty-one coppers in the fold in the inside of the door frame, and bread for five days.** She digs
+the run at Pei's gate for **one copper a day** on the days she is at the gate, and she walks west five miles at the fifth
+hour for four loaves at **eight coppers** whenever the fold reaches twenty-five, and the margin correction on the third
+floor is **four** and has been four since before she came.
+
+| Day | Date | Fold | What moved it |
+| --- | --- | --- | --- |
+| 1,091 | 28th | **22** | 21 at the second hour; gate copper at the seventh to the ninth hour |
+| 1,092 | 29th | **23** | gate copper |
+| 1,093 | 30th | **24** | gate copper |
+| 1,094 | 1st | 25 → **17** | gate copper, then west five miles: **eight out**, four loaves, bread for five days |
+| 1,095–1,098 | 2nd–5th | **17** | no gate. **Xie Changyin is at the shed from the seventh hour on the 2nd to the 5th** |
+| 1,099–1,101 | 6th–8th | **18 · 19 · 20** | gate |
+| 1,102 | 9th | 21 → **13** | gate, then west: eight out, four loaves, bread for five days |
+| 1,103–1,106 | 10th–13th | **14 · 15 · 16 · 17** | gate |
+| 1,107–1,111 | 14th–18th | **18 · 19 · 20 · 21 · 22** | gate |
+| 1,112–1,115 | 19th–22nd | **23 · 24 · 25 · 26** | gate |
+| 1,116–1,119 | 23rd–26th | **27 · 28 · 29 · 30** | gate |
+| 1,120–1,123 | 27th–30th | **31 · 32 · 33 · 34** | gate |
+| 1,124 | 1st | **35** | gate |
+| — | the fare east | **35, unchanged** | **Wei Ran's rate is eight coppers for a person with no load, and it is paid against a debt Ning Yan cannot take.** Her hand has stopped in the air over money twice. The eight is hers already and it goes on a line and the line closes |
+| 1,125–1,128 | 2nd–5th | **35 → 11** | a copper at a gate, and twenty-three more: bread, water at seven miles, and a night's floor at the far end of a made road |
+| 1,129–1,144 | 6th–21st | gate copper through, on the days she is at the gate | — |
+
+**The eight coppers are the batch's sharpest piece of arithmetic and they are not paid.** They are hers, they are on
+Wei Ran's book, and **her hand will not take them** — which is the same hand that stopped in the air over four coppers
+on a plank bench at that yard three months back. So the eight becomes a credit against a fare and not a coin, and
+neither woman pretends otherwise and neither says one word about what it means that the balance of that fare can never
+be paid.
+
+### What this batch established, and what it closed
+
+- **THE FIRST PERSON WHO COMES FOR THE READER WALKED INTO A SHED AT A MILL AT CH 423** — **Xie Changyin**, sixty-one,
+  eleven miles on foot, no folder, no men, no seal, no cart, no office behind her. She quotes **the two lines** —
+  *a line has not been carried to a room it was made out for* / *a holder is required against it* — **and the date**,
+  the nineteenth of a month three months back, **and the ordinary voice.** **She has no third thing and no name and she
+  does not know there is a man.** She is asking about a hand.
+- **HE WAS ASKED.** Ch 423 is the ask `outline/volume-07.md` pinned in advance at ch 401. **She works out, standing in
+  a doorway, that the only way to answer that question correctly is to tell the truth, and that the truth is a thing
+  she has never said out loud to anybody, and that saying it puts a voice in a stranger's book. She says nothing. She
+  does not lie. Then she says no out loud, because the alternative is a stranger carrying a sentence east in her coat.**
+- **THE ORDER IS NAMED ONCE, AT CH 425, IN XIE CHANGYIN'S MOUTH, AND THE WORD IS A THING ON THE PAGE AFTER THAT.** A
+  case-sensitive grep for capital `Order` across the batch returns **one instance, at ch 425.**
+- **THE OFFER IN FULL, AT CH 425:** a building eleven miles east, one storey, a hundred and forty feet front, a
+  counter, **a lamp on every table**, about a hundred people reading, and **no hall in it and nothing in it that is
+  called a hall** · **two coppers a page, a second rate by the difficulty of the hand, and a third rate at twice the
+  first for a hand nobody in the building can read** · **a licence that is not a piece of paper that says what you
+  are** · **a room, nine feet by eleven, board floor and a shelf, four of them and three empty for eleven years** ·
+  **standing** · **a book with four hundred and six names on it, and a name on it is a person who cannot be
+  un-recruited.** **No budget. Where the money comes from is not stated once.**
+- **XIE CHANGYIN'S ARGUMENT, ONCE, IN HER OWN MOUTH, AT CH 425, AND IT IS NOT WRONG.** *You have been a reader for two
+  years and you have done it out of a shed for nothing, and it has already taken a finger and half an arm out of you.
+  Be one properly and I will put the list of what it costs in front of you in a column, and you can argue with a number
+  instead of with a feeling.* **She is wrong about one thing and does not know it, and she does not say it in this
+  batch.**
+- **THE STRUCTURAL ANSWER, MOUTH ONE OF SIX, AT CH 424, IN A CARTER'S MOUTH, IN FOUR OR FIVE SHORT SENTENCES BROKEN
+  ACROSS BEATS AND NEVER AS A SPEECH:** *there is a place at the east end of that road where strips go and they do not
+  come back* · *a journey with nothing on it is not a journey, and I was paid for the going and not for the coming
+  back, and there was no difference between the two of them in anybody's book* · *turning back is the ordinary end of
+  that journey* and people are paid for it. **He has been turned back at the end of the long road four hundred and
+  about forty times and the gate man has counted more than he has. THE TENTH PART IS NOT GIVEN AND NOTHING PROVES THE
+  CREWS WRONG.**
+- **THE MIDPOINT, AT CH 427: SHE SPENDS HER ONE QUESTION ON A STRANGER'S SHEET.** She asks for **the lifting floor's own
+  work** to be read by somebody qualified. A young man with a good eye and no standing goes over nine days of Geng's
+  figures for two hours and eleven minutes and **finds nothing wrong in any of it and says so out loud in a room with
+  nine men in it, in the ordinary voice** — the first time in nineteen years the lifting floor's work has been vouched
+  by anybody not standing on it. **Geng writes his name at the foot of the sheet in his own hand, because that is what a
+  floor does with a name. Geng does not thank anybody. Nobody in that room said thank you.** **She is not a member of
+  anything, is not on a roll, and says so and says he is going back down the four miles in the morning.**
+- **THE IRREVERSIBLE STEP, AT CH 432: SHE SAYS A DATE OUT LOUD.** At the seventh hour of the eighteenth, in daylight,
+  in a doorway, in the ordinary voice: **the twenty-ninth, at the sixth hour, at the gate at the east end of the long
+  road.** **Eleven days out, which is checkable and is the whole of what the chapter costs.** Xie Changyin does not
+  enter it for her. She is asked to write it down and she writes a place and a day and an hour on the bottom of her own
+  sheet **in the ordinary hand, and does not read it out, and says nothing at all while she does it.** Her name is not
+  in it. **A date and a place are in it.** Nothing was refused and nothing failed and nothing can be un-agreed.
+- **THE COST OF THE STAGE, NAMED ONCE, AT CH 434, IN HER OWN THOUGHT, AND NOT RE-EXPLAINED AFTERWARDS: SHE CANNOT
+  CALL A HALT.** Not the arm, not the hand, not the four fingers — **herself, once a thing she is in has started.** A
+  road she has entered, an hour she has agreed to, a room she has walked into: once it is under way her word does not
+  turn it. **She can still say no. She just cannot make the no take.** She tries four ways at the ninth hour and all
+  four of them work and she uses none of them, and she stands in a made road and says *I am not going*, **and it is
+  true, and it goes nowhere, and nothing in the world fails and nothing is written and no book will not shut.**
+- **NASCent Soul 8 AT CH 434, ON DAY 1,152, THE TWENTY-NINTH OF THE MONTH BEGINNING 1,124, SEVENTY-SIX DAYS AFTER
+  NAScent Soul 7.** Its one bracket, on its own line, in the far-side house form, character for character, and **nothing
+  else in square brackets in fourteen chapters.** It came up out of the ground under the boards and went through them
+  and not into them. **The second pair of hands arrived without her asking, the way it did at ch 371, and this time it
+  is Xie Changyin**, who has read one chapter on a furnace in her life, can hold a rim with two hands, and did not
+  pretend to be anything else. **It went wrong once, the way it went wrong at ch 371, and nobody was burned.** She says
+  so out loud four times, and Xie Changyin says that in forty-two years nobody has ever said the other one.
+- **THE BATCH'S ONE SETTLEMENT, AT CH 431, ON A LISTED PIECE OF WORK PAST THE LINE AND NOT ON A DEATH.** Two hundred
+  yards of hedge by the length, east of the turn, **third listing of the same ground**, put in on the fourth with the
+  ninth against it, cut in a day and a half and checked by a man with a rule in his hand with a stick and a line.
+  **Six days and two hours**, told at the rail, **said out loud twice on the boards**, the price said out loud before
+  the number is spent, and **spent out of the ground under her and not out of her hands.** The word does not appear.
+  **What it took:** the ring came up at the second hour of the tenth and did not come up at all for two days, and she
+  put that down to the eleven miles and did not believe it.
+- **THE PHYSICAL-RISK CARD, AT CH 430.** Eleven miles in two days on one arm at half and four fingers on one hand with
+  a bar she cannot hold at the heavy end. **She is turned back once**, at about the fourth hour, by a man with a chain
+  at a gate at the end of the long road, **and not because of anything she did**, and she goes back four hundred yards
+  and stands in the road. On the second day the chain is up and **he does not ask her a question, does not write
+  anything down, and does not say one word about the first day to anybody.** A leg stops taking an order at about a
+  mile and a half and she gets it back at the second hour by standing her whole weight on the grip of a bar in the
+  ground. **She is on the far side of a maintained line for the first time in the manuscript and nothing about it
+  announces itself.** At two hundred yards there is a long low lime-washed building with a lamp in every window and
+  about a hundred people reading, **and it is warm, and she has eleven coppers, and not one of them looks up.**
+- **THE HUNTER IS ON THE PAGE ONCE, AT CH 428, NINE FEET OFF, NOTEBOOK SHUT, AND SHE ASKS HIM.** *Can a thing that has
+  been read by somebody else be read back by the person it is about.* **Yes. It is not usually a good idea. He has
+  watched it happen twice. He does not say who, and she does not ask twice, and that is the whole of that page.** He
+  buys nothing. He has never bought anything. **His request is still pending and the line's own people still do not know
+  she exists.**
+
+### Volume 8 Batch 0001 running ledger — at the last page, day 1,152
+
+- **Ning Yan — NASCENT SOUL 8**, taken on day 1,152, the twenty-ninth of the month beginning 1,124, at the fourth hour
+  in a shed at a mill, **with a second pair of hands for the first four hours of six days.**
+- **Body.** Four fingers and a thumb on the right hand. Right arm open half the time. Eight of eleven holds. Short
+  breath **four counts everywhere except a loaded reach, where it is five** — **and from the second hour of the
+  twenty-first of a month it came back to four inside a loaded reach, for the first time since a dressed stone went the
+  length of her own arm in front of nine men.** Nothing in this batch took a limb, a hold, a count of breath or a
+  finger. **A thing came open about four inches inside her left side, low, behind the fourth rib**, and it did not hurt
+  and it did not move and it was there.
+- **Seven costs stand, six of them carried from Volume 7 and not re-derived:** the furnace will not light itself · the
+  hand cannot write a false line · a thing she reaches cannot be put back · she cannot be given anything · she cannot be
+  paid · the reach answers a question and only a question · **and, new, she cannot call a halt.**
+- **What she has given up on purpose and never gets back.** **What the fine hand says about her.** Spent at ch 417.
+  **Nothing in this batch reopens it, softens it, queries it or mentions it in passing** — and at ch 423 Xie Changyin
+  says, once, *I am not asking you about the strip*, and does not ask.
+- **Hands and means at the last page.** **Eleven coppers**, out of thirty-five, spent on bread, water at seven miles and
+  a night's floor at the far end of a made road. Bread for two days. The board outside the lifting floor is full and
+  cannot pay her and is not going to. **The margin correction on the third floor is four and has been four since
+  before she came.** **The relicensed licence still says Foundation the first stage on the front of it and she has still
+  never opened it.** **The Clay Plate is worn against her ribs and is not described.**
+- **Yuan.** Hand. Readable without her, findable, held, sendable, **and answerable — and asked, at ch 423, by a
+  stranger who has the two lines and the date and the ordinary voice and no name.** **The Hand was not spent in this
+  batch and not refused and not argued about.** He **told her the price before she asked for it at ch 433** and gave
+  ch 419's reason and said he was not going to argue it again. **No figure of what is left of him is stated on any page
+  in these fourteen chapters.** The Ledger is not ordered, held, priced, refused or thought about, and the word does
+  not appear.
+- **In-world date.** Day 1,152. Volume 8 Batch 0001 ran day 1,091 to day 1,152, sixty-two days. **Batch 0002 opens on
+  day 1,153, the thirtieth of the month beginning 1,124.**
+- **Still open at ch 434 and live going into Batch 0002** — the Hunter's request pending, and the line's own people
+  still do not know she exists · everything above the offices that vouched, unread and unnamed · the fine hand and the
+  man who can read it, both spent and neither given back · *kiln-born* in two heads and on no paper · what became of
+  the eleven · the register still *reconciled* and unread · the plate still worn and undescribed · the year still
+  carrying and **not mentioned once in fourteen chapters** · MEMBER ABSENT carried and never raised · the relicensing
+  legs unused and in order · the claim answered and not reopened · Hou Sanliang paid and never met · Ning Wu's decade a
+  line with no mark on it, and none of the three on the page · **and the strip that went east on the end-of-month cart
+  three months ago, and the strip that came back down the mill road on a cart that does not go east with one date on it
+  and nothing else, and a fold of a coat and a gate at the end of a made road where a woman of sixty-one will be on the
+  sixth hour of the twenty-ninth.**
+
+### Untouched, unraised, and still true at ch 434
+
+**Feng does not appear. No second Lung and no second appointment. Ning Wu does not appear. Wen does not appear. Shen Xiu
+does not appear. Qiu, Mei Jiu, Du Hong and the three sponsors do not appear.** The year of non-forgiveness is
+**mentioned zero times across fourteen chapters**: she does not forgive him and she does not tell him to stop. **No
+office is named anywhere in the batch.** **The surface answer paid once at ch 267 is not said, hinted at, gestured at or
+paraphrased in any mouth** — `drift` **0**. **The tenth part of the structural answer is not given and nothing proves
+the crews wrong.** **The Order is not allowed to explain why a bounded world needs readers, and it does not.** **No
+budget.** **Nobody is killed; `kill` and `murder` are 0.** **No harem and nothing a romance** — Wei Ran is a trade, a
+team, a rate and an opinion, and the eight coppers. **She never says her mother's name.** **The register is not read.
+The plate is not described. The licence is never opened.** **Ashwood, *kiln-born*, MEMBER ABSENT, the Anchor, the
+Sisterhood, the Scribe, the bargain, the Listener and the Lantern order are all 0 on the page.** Nothing of
+`outline/ending.md` is previewed.
+
+### Construction budget — Volume 8 Batch 0001 (ch 421–434), measured by grep and not promised
+
+Method for every row: the fourteen files in `chapters/volume-08/`, body prose (the `#` title line and every `##` section
+heading excluded) unless the row says otherwise, whole words, case-insensitive unless the row says otherwise.
+
+| Construction | Measured across the fourteen files |
+| --- | --- |
+| **Authorial scaffolding** — *this chapter · this volume · this book · the rest of the book · the reader · in this batch · another batch · N volumes* | **0**, counted before it is claimed |
+| **Bracketed layer lines** | **1**, at ch 434, in the far-side house form character for character, on its own line, not bold, not italics, not a heading. **Zero in the other thirteen chapters.** This is the first batch in eight volumes to carry a single bracket in fourteen chapters |
+| **Bold** | **0** |
+| **Blockquotes · code fences · tables · horizontal rules** | **0 / 0 / 0 / 0** |
+| **All-caps standalone lines** | **0** |
+| **Straight quotes · straight apostrophes** | **0 / 0.** Every speech is closed in all fourteen files: `“` equals `”` in each |
+| **The retired seven phrases** | **0 as phrases** |
+| **Named weekdays · named calendar months · named weeks** | **0 / 0 / 0.** Two hits on a case-insensitive month grep are the modal *may* at ch 425 and ch 426 |
+| **Retired out of Volume 4** — *about four seconds* · *eleven weeks* | **0 / 0.** Eight and one instances were caught while drafting and cut |
+| **Forbidden web prose** — *his eyes widened · he couldn't believe it · suddenly · little did he know* | **0** |
+| **The Yuan tag** and the one-breath lead-in family | **0** |
+| **`reconciled` · `plate` · `licence`/`license` · `clearance` · `countersignature` · `sealed` · `kiln-born` · `MEMBER ABSENT` · `Ledger` · `tribulation` · `Feng` · `Ning Wu` · `Anchor` · `Sisterhood` · `Scribe` · `bargain` · `Lung` · `appointment`** | **`licence` 1, at ch 425, and it is required by the card** — the Order's licence, in Xie Changyin's mouth, and it is not the relicensed licence against her ribs. **Every other one is 0**, on word boundaries |
+| **Bare capital `Order`** | **1, at ch 425**, case-sensitive. The outline allows the word once and once it is where the naming happens |
+| **The surface answer** | **0.** `drift` 0. *charged is charged* 0. *told is told* 0. *sound comes east* 0 |
+| **`vouch`** | **0 as the word.** Ch 427 is load-bearing for the act and the chapter says *vouched* in a different construction, and the reader who wants the word can have it from Volume 7's three |
+| **`send for` · `sent for` · `sending`** | **0 · 1 · 0.** The single `sent for` is at ch 433 and is ch 419's own reason quoted: *a second use is a second time to be sent for* |
+| **`hiring` · `exam*` · `hunt*` · `audit*` · `tending` · `ration*` · `confinement` · `signature`** | **0 / 0 / 0 / 0 / 0 / 0 / 0 / 0.** This batch is not any of them |
+| **`fortnight`** | **0** |
+| **`had had`** | **0.** Five grammatical instances at ch 433 were cut while drafting |
+| **`nobody` family** — *nobody · no one · not one* | **55**, average 3.9 a chapter. **This is the honest figure and it is up on Volume 7** — Volume 7 carried 16 across one batch of fifteen — and the reason is the volume's own: this is the first batch in the run with a building full of strangers in it. Read in context, the load-bearing ones are structural (*nobody on nine days of road*, *nobody has ever answered one*, which is ch 423's title) and were cut where they were only intensifiers |
+| **`about…`** | **194**, body prose, whole word, average 13.9 a chapter, **maximum 22 at ch 428.** For scale: Volume 7 ran 608 across sixty chapters, average 10.1, maximum 22. **The batch is above Volume 7's average and level with its maximum, and every one of them is counted here rather than promised** |
+| **`whole of`** | **32**, average 2.3 a chapter. Volume 7 ran 160 across sixty, average 2.7 |
+| **Paragraph length** | **No paragraph over 90 words.** Longest is 89, at ch 421 and ch 422. Nothing over 120 |
+| **Chapter titles** | **Fourteen, zero collisions against the 420 headings that existed, nothing over 39 characters, all names** |
+
+### Three deviations from the card file, recorded rather than obeyed
+
+`outline/batches/volume-08-batch-0001.md` is the authority for this batch and three of its figures are not on the page.
+Each is recorded here because a repair that is not recorded is a repair nobody can audit, and **the day table wins over
+the cards in all three cases, for the same reason it won at the Volume 8 plan review: a day that does not re-derive
+under `((day − 134) mod 30) + 1` is a rule the batch sets for itself.**
+
+1. **Ch 421's ending hook puts the cart down the mill road *on the thirtieth*, and ch 421 is day 1,091, which is the
+   twenty-eighth.** The thirtieth is day 1,093, which is inside ch 422's range. **The cart comes down the mill road at
+   the seventh hour of the twenty-eighth and ch 421 ends on it**, and ch 422 carries the twenty-ninth, the thirtieth and
+   the first. This is the same defect class as the two stale day-table rows the Volume 8 plan review closed.
+2. **Ch 423's card says *the date, the nineteenth of a month five months back*.** The send was read upward at the second
+   hour of the nineteenth of the month beginning 974, which is **three months and thirteen days** before day 1,095.
+   **The page says three months.**
+3. **Ch 434's card gives her arithmetic as *a hundred and four days of furnace since the seventh stage and forty-nine
+   of them with nothing in the shed at all*.** Nascent Soul 7 was taken on day 1,076 and Nascent Soul 8 on day 1,152,
+   which is **seventy-six days** and which the outline pins twice. **The page says seventy-six and forty-nine.**
+
+### One addition the cards did not carry and the page needed
+
+**The eight coppers are paid against, not paid.** The card says Wei Ran takes her east for the eight and not for the
+twenty-one, and the page works out what that has to mean — that the rate is more than she has *because she has nothing
+she can be given*, that the eight is hers already and her hand will not take it, and that the balance of the fare can
+never be paid because she cannot be given anything. **It is not a gift and nothing in it is a romance, and it is the
+sharpest thing in the batch.**
+
+### What Batch 0002 inherits, in one paragraph
+
+**She is at Nascent Soul 8, sixty-two days in, eleven coppers out of thirty-five, and a hundred yards short of a
+turnstile she came through at the second hour.** Xie Changyin is at that gate at the sixth hour and did not need an
+answer and did not want one. **The Order's building is two hundred yards off with a lamp in every window and about a
+hundred people reading, and not one of them has looked up, and she has a question of her own that is allowed to be
+asked in a room with a lamp in it — one thing about one person, and no question that would put a third person in a room
+who is not in it.** The strip on the cart seat is still under a stone at the mill. The carter is at the cart stand.
+The turnstile man has counted four hundred and about forty and has not been asked anything.

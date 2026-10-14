@@ -1387,3 +1387,115 @@ one thing not to do while fixing it.** F8–F13 are state-file figures already c
 `outline/volume-07.md`, which is not to be re-planned by anything. **No thread in this file is affected by any of the
 sixteen and none is retired by the Volume 8 plan.** The audit of why the planning phase opened ahead of the order is
 at `state/current.md` §*Volume 8 planning — the deviation, and where the sixteen findings went*.
+
+---
+
+## Volume 8 Batch 0001 (ch 421–434) — what this batch added, and what is live going into Batch 0002
+
+**Volume 8 is open on the page. Fourteen chapters, day 1,091 to day 1,152, 27,632 words of body prose, average ~1,974,
+one bracketed layer line at ch 434, Nascent Soul 8 taken on the pinned day, and the batch's irreversible step at
+ch 432. Nothing below is resolved.**
+
+### New in this batch, and open
+
+- **Xie Changyin is on the page and has asked nothing and bought nothing.** Sixty-one, eleven miles on foot, no folder,
+  no men, no seal, no cart, no office behind her. She arrived on the second of a month at the seventh hour in daylight
+  at a shed at a mill, put a folded sheet on the boards and did not open it, and said once: *I did not come eleven
+  miles to ask a question.* **She is to be at a gate at the sixth hour on the twenty-ninth and she did not need an
+  answer and did not want one.**
+- **THE CH 401 ANSWER HAS NOW BEEN ASKED, AND IT IS THE FIRST TIME.** A woman with the two lines — *a line has not been
+  carried to a room it was made out for* / *a holder is required against it* — and the date, the nineteenth of a month
+  three months back, and the ordinary voice. **She has no third thing and no name and she does not know there is a
+  man. She is asking about a hand. He was asked and he cannot answer and nothing was put in a book.** He said in
+  advance, at ch 401, that this would happen, and it happened.
+- **She answered nothing and then said no out loud.** Working out in a doorway that the only way to answer that
+  question correctly is to tell the truth, and that the truth is a thing she has never said out loud to anybody, and
+  that saying it puts a voice in a stranger's book. **Nothing was written. Nothing failed. No book will not shut.**
+- **The Order of the Recruited is named, once, at ch 425, in Xie Changyin's mouth.** One building, one storey, a hundred
+  and forty feet front, a counter, a lamp on every table, about a hundred people reading, **no hall in it** · two
+  coppers a page and two other rates · **a licence that is not a piece of paper that says what you are** · a room,
+  nine feet by eleven, four of them and three empty for eleven years · standing · **a book with four hundred and six
+  names on it, and a name on it is a person who cannot be un-recruited.** **No budget, and where the money comes from is
+  not stated once and is not going to be in Volume 8.**
+- **A strip came back down the mill road on a cart that does not go east**, on the twenty-eighth of a month, **with one
+  date on it and nothing else**, dated the eighteenth of a month three months back, in the ordinary hand that comes about
+  nine times a year. **It is still on the seat board of that cart at the mill under a stone, and she did not take it and
+  she did not sleep on it**, and it is the oldest thing she is carrying apart from the strip against her ribs.
+- **A woman of sixty-one walks in from the far side of the turn and does not come back on a cart**, and **nobody who
+  walks in from there has ever walked out again**, and a carter at a cart stand has thought about that once and has not
+  thought about it since.
+- **A date and a place are on the bottom of a folded sheet in a woman's coat.** The twenty-ninth, the sixth hour, the
+  gate at the east end of the long road. **Entered in the ordinary hand and not read out.** Her name is not in it.
+  **Nothing can un-agree it.**
+- **SHE CANNOT CALL A HALT.** Named once, at ch 434, in her own thought. **Not the arm, not the hand, not the four
+  fingers — herself, once a thing she is in has started.** She can still say no and she cannot make the no take, and
+  she has been shown what that costs in a made road at the ninth hour with four ways to undo a date that all worked.
+- **She spent her one question on a stranger and got a stranger's good name into a room of nine men.** Nine days of
+  Geng's figures read by a young man with a good eye and no standing, **nothing wrong in any of them, said out loud**,
+  the first time in nineteen years, and **Geng wrote his name at the foot of the sheet and did not thank anybody.** He
+  also told her, after she had got to the door, that the floor was a block short before she came and is two blocks
+  short now and that nobody has worked out how to write that down.
+- **The Hunter has told her what a thing read by somebody else sounds like read back by the person it is about.**
+  *Yes. It is not usually a good idea. He has watched it happen twice.* **He did not say who and she did not ask twice.
+  That is the whole of that page and it is the first of his two pages in Volume 8.**
+- **A man at the north end of a yard has asked four men a question about her out loud and has told nobody what the
+  answer was**, and she does not know he exists as anything but a man who took the weight on the bar.
+- **A woman of about fifty at a yard looked down nine hundred feet at a woman with an empty cup on a bench and decided
+  in four seconds not to walk it.** That is the second time that shape has happened and it is the same shape both
+  times, and it is on her boards.
+- **She has a question she is allowed to ask, one thing about one person, not about herself**, and it will be answered
+  in a room with a lamp in it, **and it may not be a question that would put a third person in a room who is not in
+  it.** She has not asked it. **She has not chosen the thing yet and Batch 0002 must not have it chosen for her.**
+
+### The batch's own reversals, paid on the page
+
+- **A man with a rule in his hand said a number twice and she spent it out of the ground under her own feet** — six days
+  and two hours, off two hundred yards of hedge east of the turn, third listing of the same ground, **not on a death**
+  — and the ring did not come up at all for two days afterwards.
+- **She spent the only question she had on Geng's floor sheet and got nothing for herself out of it**, and she did not
+  know what to do with her face and she left the room.
+- **She was turned back at a gate at the end of the long road, once, for no reason that belonged to her**, and she
+  came through on the second day and the man said nothing about the first day to anybody.
+- **She gave up eleven days at the lifting floor — the only thing on nine days of road that has ever made use of her —
+  to go and stand at the end of a made road**, and Geng does not know why she stopped coming and does not ask.
+- **She said a date out loud in daylight to a stranger and cannot un-agree it.**
+- **She tried four ways to take the date back and all four of them worked and she used none of them**, and she said
+  *I am not going* in a made road in daylight, and it was true, and it went nowhere.
+
+### Held, confirmed, and not touched by this batch
+
+- **The fine hand, and what it says about her. SPENT AT ch 417 AND NOT GIVEN BACK.** Xie Changyin says *I am not asking
+  you about the strip* once, at ch 425, and does not ask, and does not know Ning Yan refused it. **Her ch 417 refusal is
+  the reason the Order came and that is ch 445 in Batch 0002 and is not hinted at here beyond that one line.**
+- **The Hunter's request is still pending.** A Wall writ is not issued to a field agent. **The line's own people still do
+  not know she exists** and Volume 8 is not the volume in which that stops being true.
+- **Everything above the offices that vouched is unread and unnamed, and no office is named anywhere in ch 421–434.**
+- ***Kiln-born* is in two heads and on no paper.** What became of the eleven is not raised. The four months erased are
+  never named.
+- **The register still reads *reconciled* and was not read once.** The Clay Plate is worn and **was not described** —
+  the Clay Plate line was cut from ch 430 while drafting, because the volume's rule is that it is not described.
+- **The year of non-forgiveness is still carrying and the subject was not mentioned once in fourteen chapters.** She
+  does not forgive him and she does not tell him to stop.
+- **The relicensed licence still says Foundation the first stage on the front of it and she has still never opened
+  it.** The relicensing legs stay in order and none was invented and no card said one was or was not required.
+  MEMBER ABSENT carried and never raised.
+- **The claim is answered and not reopened. Hou Sanliang is paid and has never been met.** Ning Bo's account is
+  discharged and **Ning Wu's decade is a line with no mark on it**, and **none of the three is on the page.**
+- **The surface answer was paid once at ch 267 and is not said, hinted at, gestured at or paraphrased in any mouth in
+  this batch.** **The tenth part of the structural answer is not given and nothing proves the crews wrong.**
+- **Yuan's unentered state, his unnamed state and the date of the morning he died are all still gone and none is given
+  back.** **No figure of what is left of him is stated on any page in ch 421–434.** The Hand was not spent and not
+  refused. The Ledger returns **0**.
+- **Wei Ran appears once in this batch and once in Volume 8.** It is a trade, a team, a rate and an opinion, and the
+  eight coppers, and there is no harem and nothing a romance anywhere in these fourteen chapters.
+
+### What Batch 0002 inherits, in one paragraph
+
+**Day 1,153, the thirtieth. She is at Nascent Soul 8 with eleven coppers and no wages, a hundred yards short of a
+turnstile and a question of her own she is allowed to ask, a strip still under a stone at a mill four miles west, a
+carter at a cart stand who will say what the far side of the turn is, a turnstile man who has counted four hundred and
+about forty, a woman of sixty-one who will be at that gate at the sixth hour, and a long low lime-washed building with
+a lamp in every window and about a hundred people in it reading, and not one of them has looked up.** The Hunter has
+one page left in the volume and she asks him on it. **The reach answers a question and only a question, and she can
+still say no and cannot make the no take, and every one of those three facts is load-bearing in the next fifteen
+chapters.**
