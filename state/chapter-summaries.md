@@ -783,3 +783,53 @@ drafting phase.
 1. **ch 491's title.** The card read *Nine Feet Off*; the page reads **Twelve Feet Off**, and the page is right —
    the Hunter is nine feet off the side of the track and she stops twelve, which is three further than last time. The
    title was moved onto the action rather than onto the other character, and no other title in the batch drifted.
+
+## Volume 9 Batch 0002 — *The Warden*, ch 494–508, day 1,413–1,488 — WRITTEN
+
+**Pressure: being written down.** Fifteen chapters, **28,532 words of body prose on method B (every line not beginning
+`#`)**, average **~1,902**, range 1,767 at ch 496 to 2,133 at ch 500. Inside the volume's own band: 27,000–30,000 per
+batch with a hard floor of 26,000 and a chapter floor of 1,300, and nothing in the batch is under 1,760 or over 2,140.
+**Zero blockquotes, code blocks, tables or horizontal rules; one bracketed layer line in fifteen chapters, at ch 508; zero
+bold and zero italic spans; zero straight quotes and zero straight apostrophes; every speech closed; longest paragraph 94
+words and none over 120; fifteen new titles, unique, longest 30 characters.**
+
+### One line per chapter
+
+| Ch | Days | Title | What changes on the page |
+| --- | --- | --- | --- |
+| 494 | 1,413–1,416 | **Cut Timber And A Stile** | **three nights with nothing holding** — a lean-to, the trough road bank, a stile — and the finding under each one, and then she walks east, because the arithmetic of having nothing comes to thirteen miles |
+| 495 | 1,417–1,421 | **Thirteen Miles East** | **Zheng's leg, fitted for nothing**, the frame taken down the wrong end nine inches from her back on purpose, and **the merit settling out of the ground under her feet**, and nine coppers she cannot take |
+| 496 | 1,422–1,426 | **Fitting It To A Stump** | two days of the fitting, the six day books and the fourth of them with nothing in it, the bench at the end of the lane, and **the first trace of an old man who asks about a girl with a bar** |
+| 497 | 1,427–1,431 | **The Man Who Carries Boards** | **Wei Ran says the rate out loud and will not chase it**, and **structural mouth two of five** — a man written down twice in eleven years and never read to either time — and a boy at the crossing who says the old man asked before anybody said anything |
+| 498 | 1,432–1,440 | **The Door Waits For The Latch** | **he shuts a door he has no claim to and waits for the latch**, says **Shuyin** once through four inches of oak and does not say it again, sits outside for two hours, and says the only thing anybody has said to her in two years |
+| 499 | 1,441–1,445 | **Kept Or Lost** | **the rule in full**, his argument once and not wrong, **the question he will not answer**, and the four pages with her name on them and the one she chose |
+| 500 | 1,446–1,450 | **The Book He Carries** | the book — foot and a half by ten inches, cord, twice rebound, no writing outside, a hand she cannot read — **he does not know how many names are in it**, his own is the first and is kept, and the word on the road is Warden |
+| 501 | 1,451–1,455 | **Without Being Read To** | **she tells him she is not being kept and he is not putting her behind paper**, his arm opens in front of him and he does not make a ceremony of it, and the finding that **refusing costs her nothing** |
+| 502 | 1,456–1,460 | **Copied By Another Hand** | **the batch's irreversible step.** She says the words she read back two months ago, out loud, in daylight, on a bench, with a boy forty feet off, and he writes them in his own hand with the date and the place she named. **It cannot be un-copied** |
+| 503 | 1,461–1,465 | **In His Own Hand** | **he used the date, not the place**, and **the paper is not the door**, and a leg-mould scraped and nine men on a frame and a man who does not lecture a girl about eating |
+| 504 | 1,466–1,470 | **They Started Being Careful** | **the misreading begins** — a carrier who stops saying good, a cart pulled up two hundred yards short — and two miles of the long road walked to be somewhere nothing could reach her |
+| 505 | 1,471–1,475 | **The Keeper And His Stone** | **structural mouth three of five** — a book under a ladder for nineteen years with three names no office asked for — **she does not ask him for it**, and he tells her where the bread is |
+| 506 | 1,476–1,480 | **The Mistake They Made** | **a loaf put down and taken back, and a woman who does not know she cannot give her anything**, and the anger about the arrangement rather than about the woman, and the decision not to correct it |
+| 507 | 1,481–1,485 | **She Told Nobody Where** | **nine questions and eight rubbish ones**, the question she has been asking since she was seventeen, three nights in three places, and the woman of fifty offering a bolt without asking |
+| 508 | 1,486–1,488 | **The Shed Without Her In It** | **Severance 2 at the fourth hour of the fifth, alone on flat ground**, *what am I at*, answered with a shed; the bracket; **she cannot be met where she is expected**; and at the seventh hour he shuts the door on his own page and she is four hundred yards off it |
+
+### What the batch established, for whoever drafts Batch 0003
+
+- **Severance 2 is on the page** at day 1,488, seventy-six days after Severance 1, and **Severance 3 is 321 days away.**
+- **The door has not been opened.** The paper is open, read, unnamed, and is not the door. **The opening is ch 518's.**
+- **The page is in the book and cannot be un-copied, and the entry itself is not written and belongs to ch 536.**
+- **He has not been on the page in fifteen chapters. The run from day 1,256 stands at 232 days and breaks at ch 520.**
+- **Her position at the last page:** eighteen years old, four fingers and a thumb, right arm open four days in five, eight
+  of eleven holds, short breath at four counts everywhere including inside a loaded reach, no money, no wages, no bread
+  since the second of a month, no shed, and a dish with clay four inches up off flat ground.
+
+### Deviations from the plan, recorded rather than hidden
+
+1. **Ch 508's shed is the shed at the end of the lane and not a shed four miles east of a mill.** The scene the outline
+   pins is kept whole — he shuts a door, he waits for the latch, she is not in it — and the turnstile is left uncrossed so
+   that the one crossing of it can happen at ch 518. Full reasoning at `state/continuity.md` §*Three readings taken
+   against the outline*.
+2. **The misreading's two months run past the end of this batch**, from ch 498 at day 1,440 to about ch 510. It is
+   established at full local height here and carried live into Batch 0003.
+3. **The copy at ch 502 is a page about her, not the kept-or-lost entry.** The rule is *written once*, so the entry is
+   Batch 0004's at ch 536 and nothing in Batch 0003 may write it.

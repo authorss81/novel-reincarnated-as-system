@@ -3755,3 +3755,192 @@ apart: everything measured as *nothing to spend* is counted from day 1,256, ever
 counted from ch 471, and the outline's own eighty-four, eighty-five, 265 and 273 are all on the first.** It also
 records what that count does not include: **the frame scene at ch 518 is away from her hearing and is not in it**, which
 is what lets him speak there and still have ch 520 be the first time he speaks to her.
+
+## Volume 9 Batch 0002 (ch 494–508) — established facts, carried to Batch 0003
+
+**Ch 494–508 are on the page.** Fifteen chapters, **28,532 words of body prose on method B (every line not beginning
+`#`)**, average **~1,902**, range 1,767 at ch 496 to 2,133 at ch 500, day 1,413 to day 1,488. No chapter in Volumes 1 to 8
+and no chapter of Volume 9 Batch 0001 was opened.
+
+### The days, re-derived under ((day − 134) mod 30) + 1
+
+| Ch | Days | Month-days |
+| --- | --- | --- |
+| 494 | 1,413–1,416 | twentieth – twenty-third of the month beginning 1,394 |
+| 495 | 1,417–1,421 | twentyfourth – twentyeighth of the month beginning 1,394 |
+| 496 | 1,422–1,426 | twenty-ninth – third of the month beginning 1,424 |
+| 497 | 1,427–1,431 | fourth – eighth of the month beginning 1,424 |
+| **498** | 1,432–1,440 | **the seventeenth of the month beginning 1,424 is the pinned day and Shuyin is at the shed at the end of the lane on it** |
+| 499 | 1,441–1,445 | eighteenth – twentysecond of the month beginning 1,424 |
+| 500 | 1,446–1,450 | twentythird – twentyseventh of the month beginning 1,424 |
+| 501 | 1,451–1,455 | twentyeighth – second of the month beginning 1,454 |
+| **502** | 1,456–1,460 | third – seventh of the month beginning 1,454 |
+| 503 | 1,461–1,465 | eighth – twelfth of the month beginning 1,454 |
+| 504 | 1,466–1,470 | thirteenth – seventeenth of the month beginning 1,454 |
+| 505 | 1,471–1,475 | eighteenth – twentysecond of the month beginning 1,454 |
+| 506 | 1,476–1,480 | twentythird – twentyseventh of the month beginning 1,454 |
+| 507 | 1,481–1,485 | twentyeighth – second of the month beginning 1,484 |
+| **508** | 1,486–1,488 | **the fifth of the month beginning 1,484 is the pinned day and Severance 2 is taken on it** |
+
+### Established facts
+
+- **Severance 2 is taken at ch 508, day 1,488, the fourth hour**, on open flat ground, alone, with no wall and no door
+  within nine hundred yards, no tribulation, and the batch's one bracketed layer line. **Seventy-six days after Severance 1
+  at day 1,412** and **three hundred and twenty-one days before Severance 3 at day 1,561**; 1,488 − 1,412 = 76 and
+  1,561 − 1,488 = 73. **The volume's three stages now stand 149 days apart, first to third.**
+- **Severance 2's cost, named once at ch 508: she cannot be met where she is expected.** A person who comes for her comes
+  to the place she was, and the place she was is a line on a page. **Not a limb, not a hold, not a count of breath, and
+  not a building.** **No later chapter may re-derive it.** Severance 1's cost was named once at ch 493 and is carried here
+  only as a fact, never re-derived.
+- **The question she asked at the fourth hour of the fifth of a month, out loud, once, in the ordinary voice, was *what am
+  I at*.** It is the question she has been asking for eight years — of forty-one lines a month, of a rate behind a
+  counter, of a bench and a trough road — and it has answered with work every time. **It came back with a shed: the shed
+  at the end of the lane, by name, as a page names a place.** That is the first non-work answer the reach has ever
+  returned and it is the engine of ch 508.
+- **The paper against her ribs is open, read, unnamed, and is not the door.** Opened alone at ch 488, read at ch 489.
+  **She said so out loud to Shuyin's face at ch 503** — *that is the only door in the world* — and he answered *no*, once,
+  in one word, and then would not be drawn further. **It is still folded in four against her ribs and has still never been
+  called by any trade term, and no card may call it one.**
+- **Shuyin is established on the page and is correct.** Named once, at ch 498, out loud through a plank door, and not
+  repeated. **Sits on the ground outside a shut door for two hours and waits for the latch before he does anything else
+  at all.** Gets up off flat ground in one movement without a hand. Weight on one leg. **No staff, no court, no office,
+  no uniform, no wing, no rank list, no committee, no house — one book, one rule, one lane.** He is not in a room in this
+  batch: the outline gives Batch 0002 two walks to her and gives his room to Batch 0004. **He asks her no question about
+  herself in fifteen chapters**, buys nothing, threatens nothing, lies about nothing that matters, and does not prefer
+  kept to lost.
+- **The rule, stated in full inside six chapters (ch 498–504), and not again in this batch:** a name goes in the book when
+  a person gets to the top of a realm with no document to take them past it; a name is written once, as kept or as lost;
+  the rule is older than she is; **the bound goes around a list rather than through it and does not know the list is
+  there; and there is no reason given for any of it.** **His argument is spent once, at ch 499, and is not repeated:**
+  *Somebody has to write down the ones the bound takes, or there is no record that the bound takes any. I write them. I
+  have written them for nine hundred years. The writing does not save one of them and I have never once said it did.*
+- **What he will not say is established and is not to be paid again in this volume.** She asks *why does a bounded world
+  need readers* once, at ch 499. He does not answer, does not explain, and at ch 503 says a second time that he has a
+  version and it belongs to somebody who is not standing there. **The origin and the moral answer are not on the page and
+  Shuyin is not allowed to become the thing that explains the Wall.** **The tenth part is not given and nothing proves the
+  crews wrong.**
+- **THE BATCH'S IRREVERSIBLE STEP — ch 502.** She said, out loud, in daylight, on a bench at a crossing, with a boy of
+  seventeen forty feet off, the words she read back to a man behind a counter in a room with the shutters up two months
+  ago: *Ning Yan. Present, at the fourth hour, in the room, on the third of this month, brought in by the terms of her own
+  asking. The terms have been read to her at the fourth hour in the room with the man who keeps the book at the end of
+  the table. She has read the paper aloud to the room. She has declined it. Nothing has been asked of her twice.* **He wrote
+  it in his own hand, in forty seconds, with the date, and with the place she named — the shed at the end of the lane.**
+  She did not offer to write it herself and did not let him add kept or lost. **It is a page about her, not the entry;
+  the entry proper — kept or lost — is Batch 0004's at ch 536, and the rule is *written once*, so nothing in Batch 0003 may
+  write it.** **It cannot be un-copied, and no card in Batch 0003 may soften, defer or un-let it.**
+- **The mechanism, established at ch 503 and load-bearing for ch 508: he used the date, not the place.** A page with a
+  stage in it on one date in one month narrows nine days of road to a handful of people, and he said so in eleven seconds
+  and said he had walked the lane four times and had not once used the place. **So she gave a page away and it did not
+  save him a mile, and it is now the only thing in the world that can find her.**
+- **His own entry is on the page (ch 500).** He is in the book, first page, **kept**, nine hundred years, the only entry
+  he has ever been able to check, and *it has not saved one of them and it is still the correct line.* **He does not know
+  how many names are in it and has been asked four times and given the same answer four times.**
+- **`Warden` is his only title and it is used twice in the batch** (ch 500, given by him, once in dialogue and once as
+  the word on the road; ch 504, in her own counting). **`Shuyin` stands 1**, at ch 498. **`list` stands 10** and is
+  load-bearing; the book is a list and he says so.
+- **The three structural mouths the outline names for this batch are both spent, in their pinned chapters.** **Ch 497, a
+  man of fifty who has carried boards across that lane and up the long road for nine years and has been written down
+  twice, once eleven years apart, and was never read to either time** — *being written without being read is an ordinary
+  thing past the turnstile and it is only strange to the person it happens to*, in five sentences. **Ch 505, the keeper
+  with the paste pot and the rag at the post on the strip road nine miles west, with a ladder and a flat stone and a book
+  on it that has three names in it in nineteen years, every one of them put there by himself** — *no office knows it is
+  there and it is going to be here after I am dead and whoever has this post next will not know to look*, in five
+  sentences. **Neither is a villain and neither is made wrong. Neither has said why. `Shuyin` is mouth five at ch 531 and
+  is unspent.**
+- **Wei Ran: one of Volume 9's two cards, in this batch.** **Nine coppers a head, and the bar goes in the cart and does
+  not go in the rate — said out loud three times**, twice to Ning Yan (ch 497, ch 505) and once to a woman on the front
+  bench (ch 505). **She carried her twice**: four miles west to the store on the seventh, and nine miles west to the post
+  on the eighteenth. **Eight coppers remain on her book from eight months back and she has never chased them and did not
+  chase these either.** *She says a rate the same way to everybody and that is what a rate is.* **No romance, no harem,
+  nothing but a trade, a team, a rate and an opinion.**
+- **Zheng, thirty-four, of the frame at the cut, is used and not spent.** Fitted at ch 495, mould scraped at ch 503, and
+  he has a bar on his own leg now. **He does not know what is at the end of the lane and is not going to ask.**
+- **The woman at the store five miles west is used and not spent.** Ch 506: **she put a loaf down and said *no* on her own
+  counter for the first time in thirty years, and did not know that Ning Yan cannot take anything**, and said *if you
+  have not got anywhere to go, there is a room at the end of the lane behind the bench shed. I know the woman. You have
+  only to say.* **The bread the man who stopped coming did not pay for is still on the shelf and is still not given away
+  and is still not eaten.**
+- **The woman of fifty at the shed at the end of the lane is used and not spent.** Ch 507: she told her the bench was empty
+  on the day and not before, exactly as she said in a month that has gone, and then offered her the frame room and a bolt
+  on the west door without asking. **She is correct and she is the fourth person to be wrong about her.**
+- **The boy at the crossing is seventeen and is used as furniture, not as a mouth.** **The ch 514 mouth of Batch 0003 is a
+  boy of fifteen and must be a different boy — put him at the gate with the chain and the cup, not at this crossing.**
+- **THE MISREADING, established at ch 504 and running.** The carrier stopped saying good on the ninth; a carter of
+  twenty-two pulled his horse up two hundred yards short of her on the eleventh; the woman at the store on the
+  twenty-third; the woman of fifty on the second of the next month. **Eleven people on nine days of road have decided
+  that something has come for her and that she is the one inside it, and every one of them is correct about the shape and
+  wrong about the person, and it is the first time in a year that a thing about her has been misread on this ground.**
+  **She has decided not to correct it, out loud, twice, because correcting it means the page and there is nowhere on
+  nine days of road she can put the page.** The carrier said good again on the fourteenth, on purpose, for her.
+  **The outline gives this two months and it runs past the end of this batch: it is four days old at ch 508 and it must
+  reach its full height in Batch 0003.**
+- **The reach, the body and the means at ch 508.** **Right index gone, four fingers and a thumb. Right arm open four days
+  in five.** Eight of eleven holds. **Short breath four counts everywhere including inside a loaded reach.** The open
+  place low behind her fourth rib, the size of a coin, since the eighteenth of the month beginning 1,274, **and it is what
+  the merit comes out of.** Not hungry no more and that is finished; thinner than a month ago. **Bar, strap bound out of
+  her own coat lining; dish with clay; no money, no wages, no bread since the second of a month; sleeping in the open in
+  the lee of a low bank. Eighteen years old.**
+- **Merit settles once in this batch, at ch 495**, on listed work cleared past the line — a leg fitted on Zheng's stump —
+  and **not on a death.** It comes up out of the ground under her feet out of the open place behind her fourth rib and
+  goes into a list in the ground that any hand anywhere can go looking for work in, and **it does not come back**, and
+  **no figure of it and no figure of what is left of him is stated on any page before it or after it.**
+- **He is absent from all fifteen chapters and his name does not appear.** **The run from day 1,256 is unbroken and stands
+  at 232 days at ch 508** (1,488 − 1,256). **Measured as *said nothing* it runs from ch 471 and Batch 0002 does not use
+  that figure.** **No Hand is spent. No Door is opened. `Ledger` returns 0.**
+- **The Hunter is not on the page in this batch.** One appearance remains in Volume 9, at Batch 0004, and she asks him.
+  **His name was spent at ch 491 and may not be used again.**
+
+### The continuity facts this batch confirmed and did not touch
+
+Carried from Volumes 7 and 8 and all live: **the year of non-forgiveness is not mentioned once** · **no figure of what is
+left of him on any page** · `Ledger` 0 · the Hand put down at ch 462 and staying down · Xie Changyin, the Order and the
+building with the lamps absent · **Feng, Ning Wu, Shen Xiu and the Hunter's sponsors absent** · the relicensing legs not
+named · the register still reads *reconciled* and is not read · **the Clay Plate worn against her ribs and not
+described** · **MEMBER ABSENT not raised** · the surface answer of ch 267 not re-voiced in any mouth · no harem and nothing
+a romance · **she never says her mother's name** · no new final enemy · **no duplicate `##` heading in this batch.**
+
+### Three readings taken against the outline, recorded rather than hidden
+
+1. **Ch 508's shed.** The outline pins, in the midpoint section and again in escalation item 8, *a man of nine hundred
+   years walks four miles east of a mill to a shed with boards on the floor.* The state file puts **the lane-end group
+   thirteen miles east of the shed at the mill**, and the outline's own `## Major locations` gives the Warden's room as
+   **past the turnstile** and gives his room to the batches that come after this one. **The scene as pinned is kept in
+   full — he shuts a door, he waits for the latch, she is not in it, and the cost lands — and the shed is the shed at the
+   end of the lane**, which is the place on her page and the place she has left. **The turnstile is not crossed in this
+   batch**, which keeps `## Major locations`'s *Volume 9 crosses past it once and does not come back the same way* whole
+   for the crossing at ch 518. **No chapter states a distance from a mill that contradicts either reading.**
+2. **The two-month misreading clock.** Escalation item 6 gives *two months*, counted from ch 498 at day 1,440, which
+   falls in Batch 0003 at about ch 510. **The misreading is established and at full local height inside this batch and is
+   carried live; the full two months is a Batch 0003 beat and no card in Batch 0003 may treat Batch 0002 as having
+   already spent it.**
+3. **The order of the copy and the finding.** The outline's continuity item 17 says her ch 474 refusal, copied by another
+   hand, *is the reason the list found her*, while the same outline puts the finding at ch 498 and the copy at ch 502. **The
+   page reconciles and the batch follows the page:** he finds her by walking and asking, and the copy at ch 502 is what
+   makes her *findable by a list and not by a road*, which is exactly what Severance 2 costs her at ch 508. **Nothing in
+   Batch 0003 may put the copy before ch 502 or treat the lane-end search as unnecessary.**
+
+### Construction budget — Volume 9 Batch 0002, counted rather than quoted
+
+Body prose only, method B, measured on the fifteen files as they stand: **28,532 words, average ~1,902**, inside the
+volume's own 27,000–30,000 band and its 26,000 floor · **0** blockquotes, code blocks, tables or horizontal rules ·
+**1** bracketed layer line, at ch 508, **and nothing else in square brackets** — Volume 9's budget of three is now two
+spent, at ch 493 and ch 508, and Batch 0003 may carry ch 523 and nothing else · **0** straight double quotes and **0**
+straight apostrophes, every speech closed in all fifteen files · **0** bold spans and **0** italic spans, which
+continues the thinnest markup run in the manuscript · **3** paragraphs over 90 words, all of them dialogue or a
+single beat, longest **94** at ch 494, and **0** paragraphs over 120 · **15** new `#` headings, unique against each
+other and against all 493 standing, longest **30** characters · **0** duplicate `##` headings · **0** exact duplicate
+paragraphs · **0** all-caps standalone lines · the retired seven phrases **0 as phrases** (F7 patterns measured
+separately and none standing).
+
+Counted and written down whatever they are, with the method in the same sentence: **`about` 139** across the fifteen
+chapters, body prose, `\babout\b`, **average 9.3** — **this is Batch 0001's 130 over fifteen chapters and not an
+improvement, and both are above the volume's stated target of an average under 7.0; it was cut from 297 in drafting and
+the residual figure is reported rather than promised** · **`nobody` 26, average 1.7 a chapter**, inside the volume's
+target of under 2.0 · **`whole of` 51**, which **exceeds the volume's under-80 target on its own and is flagged here for
+the volume close**, which is where the outline says a manuscript-level signature is settled; Batch 0001 stands at 54 and
+neither batch was thinned below the house voice to meet it · **`eleven` 36** · **`Shuyin` 1 · `Warden` 2 · `list` 10** ·
+**`Ledger` 0 · `reconciled` 0 · `plate` 0 · `licence` 0 · `license` 0 · `clearance` 0 · `countersignature` 0 · `seal`
+0 as a leg · `kiln-born` 0 · `MEMBER ABSENT` 0 · `tribulation` 0 · `Feng` 0 · `Ning Wu` 0 · `Anchor` 0 · `Sisterhood` 0 ·
+`Scribe` 0 · `bargain` 0 · `Lung` 0 · `appointment` 0 · `budget` 0 · `Wall writ` 0 · `field agent` 0 · `vouch` 0** —
+every one measured on word boundaries in body prose before it is claimed. **`send for` 1** at ch 500, in the negative
+construction *he is not an office and he cannot send for anything*, which is the volume's own point and is counted.

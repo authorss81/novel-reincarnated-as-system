@@ -1742,3 +1742,64 @@ only twice, and she asks him both times. **`workspace/volume-09-batch-0002/PROMP
 **It added no thread the chapters do not carry, and it opened no question the volume has already answered.** The
 Volume 8 close's threads are exactly where the close left them; this section sits on top of them and does not move
 them.
+
+## Volume 9 Batch 0002 (ch 494–508) — what this batch added, live going into Batch 0003
+
+**Ch 494–508 are on the page. Pressure this batch was *being written down*, and it is now in the last two chapters of
+Volume 9.** The threads below are the ones the fifteen chapters added, and they are all live at ch 508.
+
+### Added by this batch
+
+1. **The copy, at ch 502. The batch's irreversible step and the volume's engine.** Her ch 474 entry, in her own words,
+   said out loud in daylight on a bench at a crossing, **written in a nine-hundred-year-old hand with the date and with
+   the place she named — the shed at the end of the lane.** It is a *page about her*, not the entry; the entry proper is
+   kept or lost and is Batch 0004's at ch 536. **It cannot be un-copied.** Live, and Batch 0003 may not soften it.
+2. **Severance 2, taken at ch 508 on day 1,488**, the fourth hour, alone, on open ground. **The cost is named once — she
+   cannot be met where she is expected — and is not to be re-derived.** The reach answered *what am I at* with a shed.
+3. **The paper is not the door.** Established at ch 488 and named out loud at ch 503, in her words and then in his: *that
+   is the only door in the world* / *no*. **Still folded in four against her ribs, still unnamed by any trade term, still
+   read and still not opened.** The opening of the real door is ch 518's and Batch 0003's.
+4. **The rule, in full, and what it will not say.** A book, a rule older than she is, two places a name can go, kept or
+   lost, the bound goes around a list and does not know it is there, and **no reason given.** **He has refused the
+   question why a bounded world needs readers twice — at ch 499 and at ch 503 — and must not be made to answer it again
+   in Volume 9.** His argument is spent once and is not repeated.
+5. **Shuyin is on the page and is correct, and he is wrong about exactly one thing he has not said.** He is not a
+   villain, he keeps no staff, he is not in a hall, and **he has not said that a person on his list is better kept than a
+   person off it — that sentence is ch 531's and is Batch 0004's.**
+6. **The misreading.** Eleven people on nine days of road have decided something has come for her and that she is inside
+   it. **Four days old at ch 508 and it has two months to run.** She will not correct it, because correcting it means the
+   page. **This is the volume's next pressure and Batch 0003 opens on it.**
+7. **She has told nobody where and has stopped sleeping in the place on the page.** Three nights in three places,
+   deliberately. **She is now findable by a list and not by a road, and she did that to herself without deciding to.**
+8. **The stone under the keeper's ladder, nine miles west, with a book of three names in it that no office asked for.**
+   **She did not ask him for it** and has thought about that twice. **Ch 538 leaves her own book on that stone**, and the
+   setup for it is now on the page.
+9. **Merit settles once, at ch 495**, on a leg fitted for nothing. **No figure of him is given and no figure of what is
+   left of him is stated on any page.** He has not been on the page in fifteen chapters and the run from day 1,256 stands
+   at **232 days** and is not broken until ch 520.
+10. **Wei Ran, nine coppers a head, three times out loud, carried twice, eight coppers never chased.** One of Volume 9's
+    two cards. The other is Batch 0004's.
+11. **The body.** Right arm open four days in five and it is a rate. Thinner. Not hungry no more and that is finished.
+    **Eighteen years old, nineteen before this volume closes.**
+
+### Carried from Batch 0001 into Batch 0003, live and untouched by this batch
+
+Severance 1's cost · the paper opened and read and unnamed · the Hunter's first appearance spent at ch 491 and his name
+spent with it · the store woman as structural mouth one · the shed stopped being hers and never entered again · the
+exhaustion of the hours she was counting · three coppers and no bread at the last page of Batch 0001.
+
+### What Batch 0003 inherits, in one paragraph
+
+**ch 509–523, days 1,489–1,561, seventy-three days, pressure *what she told him to do with her still in the room*.** The
+misreading is the first pressure and it is already four days old. **He shows her the price of a door at ch 516, in a
+number of one, in writing, and does not say it — his silence with her is unbroken from day 1,256 to day 1,529, and 1,521
+− 1,256 = 265 is his silence when the door opens at ch 518 and 1,529 − 1,256 = 273 is his silence when he speaks at
+ch 520.** **Ch 518 is the fifth frame scene and it is away from her hearing. A chair east of the turn stays empty at
+ch 519. Severance 3 at ch 523 on day 1,561, the eighteenth of the month beginning 1,544, and the road behind her stops
+being hers.** The Hunter's second and last appearance is in this batch and she asks him.
+
+### What this file did not do
+
+**It added no thread the chapters do not carry, it opened no question the volume has already answered, and it moved none
+of the Volume 8 close's threads.** The Volume 8 close's threads are exactly where the close left them; this section sits
+on top of them and does not move them.
