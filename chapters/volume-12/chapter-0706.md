@@ -8,7 +8,7 @@ She put the bar down four times on the store road and the last of them cost her 
 
 Everything she has ever known about that road she learned going east.
 
-The fence on the north side that goes on for a mile and then stops. The cottage at the stopped lime bed where a woman stands in a yard with her hands behind her and has said nothing for nine days of road. The mill at the fifth mile with a wheel on the stream out of the mill race that has not turned in nine years.
+The fence on the north side that goes on for a mile and then stops. The cottage at the stopped lime bed where a woman stands in a yard with her hands behind her and has said nothing at all. The mill at the fifth mile with a wheel on the stream out of the mill race that has not turned in nine years.
 
 She went past all three and not one of them looked up, and she found that she has been counting them as landmarks for a person going the other way, and that she is not that person today.
 
@@ -38,11 +38,11 @@ The light comes up on that frame last, and the woman told her so once, and it wa
 
 The thing she is worst at in this world is being in a place where not one person needs anything off her, and she has just done it for six days on purpose and liked it, and she has not been able to explain to herself since why she liked it.
 
-There is a frame in that ground with a queue at it every afternoon and nine or ten people in the queue and about half of them under thirty, and she can do a sum in a count of twenty, and there has not been one in front of her since the twenty-fourth of the month beginning 2,204.
+There is a frame in that ground with a queue at it every afternoon and nine or ten people in the queue and half of them under thirty, and she can do a sum in a count of twenty, and there has not been one in front of her since the twenty-fourth of the month beginning 2,204.
 
-She does not eat. She has not been hungry since a year she can remember and being light for six hundred and eighty-one days has taken the wanting out of food and out of sleep and out of about four other things, and what it has not taken out is standing at a frame being useful, because that is not a thing a person wants because of a body. That is a thing a person wants because of who she is.
+She does not eat. She has not been hungry since a year she can remember and being light for six hundred and eighty-one days has taken the wanting out of food and out of sleep and out of four other things, and what it has not taken out is standing at a frame being useful, because that is not a thing a person wants because of a body. That is a thing a person wants because of who she is.
 
-And there is not one person within nine days of road who needs a sum off her, and she put a queue of nine behind her when she walked out of that ground and she has not been able to think of anything else since, and it is a bad thing to have done and she would do it again.
+And there is not one person in this county who needs a sum off her, and she put a queue of nine behind her when she walked out of that ground and she has not been able to think of anything else since, and it is a bad thing to have done and she would do it again.
 
 ## What Went On Writing Without Her
 
@@ -68,7 +68,7 @@ And what a person can do to a date is arrive on it with the right thing in her h
 
 ## The Nineteen Days
 
-On the tenth she counted the posts, because there are two of them and she has counted them about four hundred times. On the eleventh she counted the rail. On the twelfth of the month beginning 2,234 she was at the frame at the ninth hour and did the sum out loud, standing, in daylight, because she cannot help it and she cannot stop it and she has stopped expecting to.
+On the tenth she counted the posts, because there are two of them and she has counted them four hundred times. On the eleventh she counted the rail. On the twelfth of the month beginning 2,234 she was at the frame at the ninth hour and did the sum out loud, standing, in daylight, because she cannot help it and she cannot stop it and she has stopped expecting to.
 
 Two thousand two hundred and forty-five less two thousand and seventy-six is a hundred and sixty-nine days counted with the first day as the first. A hundred and sixty-nine out of twenty is eight and forty-five hundredths of a day, and that is eight days and ten hours and forty-eight minutes, and that is what is under her name in the third column on the other side of that slate in a county hand.
 
@@ -84,6 +84,8 @@ And the board will go up. And a fifth will come off the days in her column exact
 
 And nothing of hers will be on that board that she did not put there with her own hand, and there is not one thing in her hand.
 
-She has not worked out what she is going to write. That was true at the ninth hour of the twelfth, and she stood in the grit and let it be true for about a count of forty, which is the longest she has ever let a thing be true that she could have started on.
+She has not worked out what she is going to write. That was true at the ninth hour of the twelfth, and she stood in the grit and let it be true for a count of forty, which is the longest she has ever let a thing be true that she could have started on.
 
 Then she picked the bar up off the ground in a count of twenty-nine and put it on her left shoulder, because there is no strap on it and there has not been one since the month beginning 2,084, and she went four hundred yards west along the grit to a bench where a woman of sixty had been sitting for nine years and asked her one question, standing up, in daylight, one at a time, the way she asks everything.
+
+She had worked out three reasons for not asking it and she walked the four hundred yards anyway, and the reason she asked was that a woman who has been on a board and come off it is the only person in this county who has ever stood where she is going to stand.

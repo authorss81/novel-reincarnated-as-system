@@ -58,7 +58,7 @@ She picked up the ground under her feet with a bar and looked at the two hands a
 
 ## What She Is Going To Write And Why She Cannot Say So Here
 
-And she worked out the shape of it on the nineteenth of the month beginning 2,264, standing at the end of the paid road with the post at her back, and she has not said any of it to anybody and is not going to.
+And she worked out the shape of it on the eighteenth of the month beginning 2,264, standing at the end of the paid road with the post at her back, and she has not said any of it to anybody and is not going to.
 
 She said, out loud, in daylight, to a road with nine miles of it in front of her, that the line has four things on it and no more.
 
@@ -90,7 +90,7 @@ And then she said the thing that is the whole of it, and it took her a count of 
 
 She said, “My name being on that slate is a thing I chose. I asked for it. I stood in this grit at the ninth hour of the twenty-fourth of the month beginning 2,054 and I asked a man with a stick of white chalk to put my name on a board and he wrote it and wiped the chalk off his thumb on his coat, and I said out loud that I could not be un-written off it.”
 
-She said, “And four sentences on a board at the north end of a ground of two hundred people on the eighteenth of the month beginning 2,114, in my own hand, and a carter said a name off it on a made road and did not know what it was.”
+She said, “And four sentences on a board at the north end of a ground of two hundred people on the fifteenth of the month beginning 2,114, in my own hand, and a carter said a name off it three days later on a made road and did not know what it was.”
 
 She said, “And a line on this slate in thirteen days in my own hand with a date and a place on it, and a board that will go up a stair.”
 

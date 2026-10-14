@@ -2,7 +2,7 @@
 
 She worked on it for four days at a frame in a gravel turn with a bar on the ground at her feet, standing, in daylight, out loud, one condition at a time, the way she has done every hard thing since she was nine.
 
-A thing a thing that keeps records can find has to have three things on it, and she found them by taking a shape she already had apart.
+A thing that keeps records can find has to have three things on it, and she found them by taking a shape she already had apart.
 
 The shape she took apart was four sentences and a date, written on a board at the north end of a ground of two hundred people that four carts go past a day.
 
@@ -64,7 +64,7 @@ She has carried it for thirty days and it is the only object in this county that
 
 She worked it out standing at the frame on the twenty-third.
 
-A thing a thing that keeps records can find has to be a thing somebody can hold up to something. That is the whole of findable. It is not a kind of paper, it is not a hand, it is not a county. It is that a person can pick it up and walk it to where it is going, and put it where somebody else is going to look.
+A thing that keeps records can find has to be a thing somebody can hold up to something. That is the whole of findable. It is not a kind of paper, it is not a hand, it is not a county. It is that a person can pick it up and walk it to where it is going, and put it where somebody else is going to look.
 
 And she can carry a strip of hand-made paper in the front of a bag to a frame four feet off a road. What she cannot do is make the road and the cart and the stair at the far end of it go somewhere a person at a frame will find a strip of paper, because there is no machinery in this county for a strip of paper and there has never been.
 
@@ -109,3 +109,5 @@ She said, “And the reason I am not writing it today is that a line on a board 
 She said, “And the second reason is that the seventh first is in seven days and I am going to stand in this grit and watch that board go up with nothing of mine on it that I did not put there, and I am going to do that on purpose, and that is the last first of a month I am ever going to get for nothing.”
 
 She picked the bar up in a count of twenty-nine, and her hand was the hand that had done the writing of four columns a man of forty-nine does not know anything about, and she has four fingers and a thumb on it, and she put the bar on her left shoulder and went four hundred yards west and asked the woman of sixty whether she had ever had anything of hers carried anywhere, one question, standing up, in daylight.
+
+She had not worked out what she was going to do with the answer, and she had not worked out what she was going to do about the fourth name from the bottom of that column either, and a bench four hundred yards west is the only place in this county where either of those two things can be looked at.

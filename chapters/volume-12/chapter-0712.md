@@ -1,6 +1,6 @@
 # Public Property On A Stick
 
-She went east at the first hour of the fourth of the month beginning 2,264 and she was at the north end of a ground of two hundred people at the second hour of the sixth, and she did not tell anybody in between anything at all.
+She went east at the first hour of the fourth of the month beginning 2,264 and she was at the south end of a ground of two hundred people at the ninth hour of the sixth, and she did not tell anybody in between anything at all.
 
 ## Two Days Of Road And A Board Kept Going
 
@@ -12,7 +12,7 @@ And at the north end, in the dark, under a board four feet off the ground, there
 
 Two thousand two hundred and sixty-nine less two thousand one hundred and twenty-eight is a hundred and forty-one nights, and a hundred and forty-one times four is five hundred and sixty-four, and there are five hundred and sixty-four strokes on it and a number under every one of them and four men who put them in cannot read the hand of any of the other three.
 
-And about forty feet off that board, under the same dark, there was a woman of about thirty-four with a slate on her knees and a man of forty standing behind her, and they were not waiting for anybody.
+And about forty feet off that board, under the same dark, there was a woman of thirty-four with a slate on her knees and a man of forty standing behind her, and they were not waiting for anybody.
 
 ## Fourteen
 
@@ -56,7 +56,7 @@ She said, standing, in daylight, at the north end of two hundred rows of stones:
 
 “I have not changed my mind about telling them. What has changed is that the thing I was protecting them from has a date on it.”
 
-She said, “On the first of the month beginning 2,294, which is in twenty-three days, I am going to stand at a frame at a turn two days of road west of this ground at the first hour and write a line in my own hand on a slate four feet off a store road, and it is going to have my name on it and my own figure on it, and four carts go past that frame a day, and anybody at all can stop and read it.”
+She said, “On the first of the month beginning 2,294, which is in twenty-five days, I am going to stand at a frame at a turn two days of road west of this ground at the first hour and write a line in my own hand on a slate four feet off a store road, and it is going to have my name on it and my own figure on it, and four carts go past that frame a day, and anybody at all can stop and read it.”
 
 She said, “And any one of the fourteen of you can walk two days of road and read it, on a bar, with nothing to lie down on between here and the gate, and there is one thing at the far end of it and it is the only thing in this county that has ever been written down about me.”
 
@@ -66,9 +66,9 @@ She said, “So I have been standing here for thirty days protecting thirteen pe
 
 ## Why She Did Not Tell Them Anyway
 
-And then she did the part that cost her, which is that she worked out what she was going to do about it, standing, in daylight, in the ordinary voice, with about forty people lying down about forty feet off.
+And then she did the part that cost her, which is that she worked out what she was going to do about it, standing, in daylight, in the ordinary voice, with forty people lying down forty feet off.
 
-She could go up to that frame in twenty-five days and tell the fourteen first. It would take about an hour. She has done it in front of two hundred people at the ninth hour and it cannot be un-said and she would do it again.
+She could go up to that frame in twenty-five days and tell the fourteen first. It would take an hour. She has done it in front of two hundred people at the ninth hour and it cannot be un-said and she would do it again.
 
 Or she could let the slate do it.
 

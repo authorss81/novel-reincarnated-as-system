@@ -2,15 +2,15 @@
 
 She went up at the first hour of the seventh of the month beginning 2,294 with a bar nine feet nine on her left shoulder, because the only way to the top of that stair is with what she has got, and a boy of sixteen stood at the bottom of the first four flights and did not come up and did not ask her to.
 
-She had the bar on her shoulder for eight flights and forty steps, and her breath was four counts and then seven and then nine at the third landing of the second four, and the window about two feet across in that landing was grey and she did not stop at it.
+She had the bar on her shoulder for eight flights and eight hundred and eighty steps, and her breath was four counts and then seven and then nine at the third landing of the second four, and the window about two feet across in that landing was grey and she did not stop at it.
 
 She came to the landing at the top of the second four and put the bar down along the floor, and it took her fifty-four counts to put it down, which is the most it has ever cost her to set it anywhere.
 
 ## Eight Flights With What She Had Got
 
-She had done it about forty times in thirty days and she had never once done it carrying nine feet nine, and it is the hardest thing she has done since a stage past a ceiling that no longer exists.
+She had done it forty times in thirty days and she had never once done it carrying nine feet nine, and it is the hardest thing she has done since a stage past a ceiling that no longer exists.
 
-Four hundred and forty steps on the first four with the rail under her left hand and the bar on the shoulder, and the shoulder went at about the three hundredth step and she took the bar off and went up the last hundred and forty holding it across her front with her right arm, which is open, and got to the copying floor.
+Four hundred and forty steps on the first four with the rail under her left hand and the bar on the shoulder, and the shoulder went at the three hundredth step and she took the bar off and went up the last hundred and forty holding it across her front with her right arm, which is open, and got to the copying floor.
 
 Then four hundred and forty more with no rail at all and a bar in her right hand and her breath at nine from the second flight, and she had to put it down twice on the second four and pick it up again, and picking it up cost her twenty-nine counts each time.
 
@@ -34,7 +34,7 @@ The bar is on the floor inside the room, flat, against the wall on the left, nin
 
 There is no mark on the landing. There is no mark on the rail. There are no nine feet of dust in front of that door with a single thing walked in it, because there is nothing there to be walked in.
 
-She stood on the landing and looked at an open door for about a count of forty and did not go through it, and then she went through it.
+She stood on the landing and looked at an open door for a count of forty and did not go through it, and then she went through it.
 
 ## What Is In The Room
 
@@ -42,7 +42,7 @@ There is a long table down the middle of it, running away from the door, the way
 
 There is a lamp in a cage at the far end of it on a shelf, and it is burning.
 
-And that is all of it. A table and a lamp and the floor and the air in the room, and she looked at every part of it for about a count of ninety and there is not one more thing in there that she can name, and she has not been able to name one for nine years and she is not going to start at the seventh hour of a month.
+And that is all of it. A table and a lamp and the floor and the air in the room, and she looked at every part of it for a count of ninety and there is not one more thing in there that she can name, and she has not been able to name one for nine years and she is not going to start at the third hour of a month.
 
 She went to the third step from the door, which is as far as she went before she saw the second stair.
 
@@ -56,7 +56,7 @@ She has the book of eight leaves against her ribs. She has had it against her ri
 
 And against her ribs on the other side there is nothing at all, because four sheets of rice paper in the fair hand of a dead clerk went back into a locked drawer at the sixth hour of the eleventh of the month beginning 2,054 and they are in it, and the key is at the bottom of a stair with a bag, and she has not looked at the margin of them since the twenty-third of the month beginning 2,024 and she is not going to.
 
-So she went up eight flights with nothing in her hands at all, and she has been able to be given nothing her whole life and has not understood until the third hour of the seventh of the month beginning 2,294 that that is the same thing.
+So she went up eight flights with nothing to give anybody in her hands but the bar she has carried since she was nine years old, and she has been able to be given nothing her whole life and has not understood until the third hour of the seventh of the month beginning 2,294 that that is the same thing.
 
 ## The Second Stair
 
@@ -80,7 +80,7 @@ She said, “And a figure in a book that somebody read before they wrote anythin
 
 ## What She Did Not Write Down
 
-And then she stood there for about a count of sixty and did not write one word of it anywhere, which is the thing she promised a boy of sixteen at the bottom of a hill at the fifth hour of the previous day and has not broken in nineteen years of not being able to keep a promise about a thing like that.
+And then she stood there for a count of sixty and did not write one word of it anywhere, which is the thing she promised at the top of a stair on the ninth hour of the previous day and has not broken in nineteen years of not being able to keep a promise about a thing like that.
 
 There is nothing at the top of this building in a book in this county that she could have put it in. That is not because of the door. It is because there is not one person in eleven hundred years who has written down what they found on the other side of a door, and she is not going to be the first one to break that, and she is not going to be the first one for a figure.
 
@@ -88,7 +88,7 @@ She said, out loud, at the third hour, standing at the foot of the second stair:
 
 “I have been met four times in thirty-one years by a man in a doorway with his hat off, and once by a lamp, and I am nineteen, and there is not one thing I am going to say about this room out loud to a stair.”
 
-And she worked out one last thing, standing, in daylight, in the ordinary voice, and it took her nine seconds.
+And she worked out one last thing, standing, in daylight, in the ordinary voice, and it took her a count of nine.
 
 She said, “A figure is the only instrument I have ever had for everything. I counted a slate at a frame, I counted a ground of two hundred people, I counted a column on the other side of a piece of wood that faces a wall, I counted a bar nine feet nine and a set-down and a count of breath, and I counted a man of sixty-five with a book telling me the price of a thing at the end of a counter.”
 
@@ -100,7 +100,7 @@ She said, “And that is not a figure and there is not going to be one, and I ha
 
 And then she went up one step of the second stair.
 
-She did it at the third hour of the seventh of the month beginning 2,294, on a narrow stair that turns, in a room with a long table down the middle of it and a lamp in a cage burning at the far end of it, with a bar nine feet nine lying along the floor at the top of eight flights behind her and an arm that has been open since a morning she wrote a line on a slate in the rain.
+She did it at the third hour of the seventh of the month beginning 2,294, on a narrow stair that turns, in a room with a long table down the middle of it and a lamp in a cage burning at the far end of it, with a bar nine feet nine lying along the floor at the top of eight flights behind her and an arm that has been open since the morning she wrote a line on a slate.
 
 She stood on that step for a count of forty.
 
@@ -108,7 +108,7 @@ There was nothing on it she could put a figure to, and she has not in nineteen y
 
 She did not go up the second step.
 
-The bar is at the top of eight flights behind her and she is going to have to carry it down them again, and there is nothing in nine days of road that is going to come up these stairs and take it off her.
+The bar is at the top of eight flights behind her and she is going to have to carry it down them again, and there is nothing in this county that is going to come up these stairs and take it off her.
 
 And four miles down the mountain and a long way east, on a store road, at a turn, there are people standing about who cannot say what they heard, and one of them is going to say it wrong for the rest of their life.
 

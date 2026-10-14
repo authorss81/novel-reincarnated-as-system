@@ -12,13 +12,13 @@ And then on the second of those four days she worked out how to answer it, stand
 
 ## What Has Actually Happened At One
 
-She went through them. That is what she does with a thing. She goes through it from the top and down, fast, the way she reads a column, and she counted fourteen of them out loud and then stopped counting because there were more than fourteen.
+She went through them. That is what she does with a thing. She goes through it from the top and down, fast, the way she reads a column, and she counted six of them out loud and got six every time.
 
 She said, standing, in daylight, on the fourteenth of the month beginning 2,234:
 
 “What happens on a first. The man of forty-nine takes the slate out. He wipes the frame. He wipes the road side with his thumb and turns it over and puts two columns in on the other side. He puts the slate back with the chalk side out. A man with a cart comes at the second hour and the board goes up on the cart and comes back down before the twenty-fourth and the slate is empty for a month.”
 
-She said, “That is the whole of it. That is what a first is. I have been at fourteen of them in nine years and I have watched four more from a distance and not one of them has done one single thing to me that the twenty-eighth of a month has not also done.”
+She said, “That is the whole of it. That is what a first is. There have been six of them since my name went on that slate and I stood at two of them and watched the other four from a distance, and not one of them has done one single thing to me that the twenty-eighth of a month has not also done.”
 
 ## The Thing That Was Always Happening
 
@@ -32,11 +32,11 @@ It goes on while I am asleep. It is the only continuous thing in this county tha
 
 She said, “So a first is not a door and it is not a wall. It is a date. It is the day a sum is shown to somebody who was not shown it on any of the other days.”
 
-## Eight Of Them, And What She Expected
+## Six Of Them, And What She Expected
 
 She sat down on the butt of the post on the fourteenth and did the other half of it, which is that she went through the firsts she has lived through since her name went on a slate and asked herself what she was standing at each one for.
 
-That is nine of them. She did all nine out loud, standing, in the rain, one at a time, to a frame, because she does not let a thing stand that she has not put into words where it exists.
+That is six of them. She did all six out loud, standing, in the rain, one at a time, to a frame, because she does not let a thing stand that she has not put into words where it exists.
 
 The first of the month beginning 2,084: she stood in the grit and watched a cart go up the road with her name on it and she was not afraid of it. She was watching to see whether the world would end, and it did not, and she thought that was the whole of that morning.
 
@@ -50,7 +50,7 @@ The first of the month beginning 2,204: she was on the top step of a stair in th
 
 The first of the month beginning 2,234: she was at a broken wall thirteen miles east of here and watched the whole of it happen at a distance.
 
-She said, standing, in the rain, on the fourteenth: “And every one of those was a day. And on six of the seven I was somewhere else, and on one of them I was here, and nothing whatever came to me on any of them.”
+She said, standing, in the rain, on the fourteenth: “And every one of those was a day. And on four of the six I was somewhere else, and on two of them I was here, and nothing whatever came to me on any of them.”
 
 ## The Thing That Has Never Happened
 
@@ -58,7 +58,7 @@ And then she did the second half of the count, which took her the better part of
 
 She has been announced nine times. Nine times the thing above the last working point has said something out loud into a county with not one person in it to be told, and nine times it went into the ground.
 
-And she has been at four of the firsts inside the last hundred days and she watched three of them from a distance and stood at a broken wall through the fourth, and at not one of them did anything arrive.
+And she has been at two of the firsts inside the last hundred days and she stood at this frame for one of them and at a broken wall thirteen miles east of here for the other, and at not one of them did anything arrive.
 
 Not a person. Not a message. Not a carter with something in his hand. Not a bundle. Not a boy.
 
@@ -90,7 +90,7 @@ She has been a person who stands at things for nineteen years. She stood at a wi
 
 And the finding of four days in a gravel turn is that she has been standing at a first of a month as if a first were a place where a thing comes to her, and it is not, and it never has been, and the reason she has kept standing there is that she did not have anywhere else to stand.
 
-She said, “And I am not going to be able to tell anybody I have worked that out, and I am not going to be able to put it in five blank leaves against my ribs, and there is not one person in nine days of road who would understand a word of it, and I am saying it out loud to a slate because the slate is the only thing at this turn that is going to still be here tomorrow.”
+She said, “And I am not going to be able to tell anybody I have worked that out, and I am not going to be able to put it in five blank leaves against my ribs, and there is not one person in this county who would understand a word of it, and I am saying it out loud to a slate because the slate is the only thing at this turn that is going to still be here tomorrow.”
 
 She put her hand flat on the frame, about a foot above the ground, the way she did on the fourth first.
 

@@ -1,6 +1,6 @@
 # A Record Belongs To Whoever Keeps It
 
-He came east along the store road on the afternoon of the eighteenth of the month beginning 2,234 with a shut notebook under his arm, which is the way he has been for four years, and she was at the frame and saw him at the ninth mile and counted him in for about four miles.
+He came east along the store road on the afternoon of the eighteenth of the month beginning 2,234 with a shut notebook under his arm, which is the way he has been for four years, and she was at the frame and saw him at the ninth mile and counted him in for four miles.
 
 He has never lied to her and has never threatened her and has never touched her and has never come into a room she was in and has never paid anybody for force, and he has never asked her a question, and he is not going to start now.
 
@@ -20,9 +20,9 @@ She said, “Is a thing that is written in my own hand and sent up a stair still
 
 He turned the notebook over once and did not open it.
 
-## What He Said About Nine Seconds
+## What He Said About A Record
 
-He stood nine feet off and she watched him not answer for about a count of sixty, which is longer than any answer he has ever given her.
+He stood nine feet off and she watched him not answer for a count of sixty, which is longer than any answer he has ever given her.
 
 He said, “No.”
 
@@ -70,7 +70,7 @@ He goes at the pace a man with a book goes at, which is not slow and does not va
 
 She stood in the grit and watched him go and noticed four things, which is what she does with a person instead of talking to them, because talking to people has never once got her a figure.
 
-He did not stop when she stepped out. She stepped out at the rail and he came on at the same pace and stopped about nine feet off, and the nine feet were the same nine feet as at a gate on a made road four years back and he has never once varied it.
+He did not stop when she stepped out. She stepped out at the rail and he came on at the same pace and stopped nine feet off, and the nine feet were the same nine feet as at a gate on a made road four years back and he has never once varied it.
 
 He did not sit down. There was a wall two hundred yards on that a man of any age would have sat on, and he did not, and it is not because he is tired, because he walks that road every month and she has watched him do it twice.
 
@@ -90,15 +90,15 @@ There is no version in which she puts down a thing she does not mean.
 
 She said, out loud, at the ninth hour of the eighteenth of the month beginning 2,234, standing with the light gone off the slate and her arm open:
 
-“Then I have got to have it before the twenty-fourth and I have got to have it exactly, and once it is on a piece of slate it is not a decision any more, it is a fact about a county, and I will not be able to stop it, and there is not one person in nine days of road who can be asked whether to stop it.”
+“Then I have got to have it before the twenty-fourth and I have got to have it exactly, and once it is on a piece of slate it is not a decision any more, it is a fact about a county, and I will not be able to stop it, and there is not one person in this county who can be asked whether to stop it.”
 
-## The Nineteen Days Before It
+## The Four Days Before It
 
 And then she sat down on the butt of the post for the second time in four days, which is twice in nineteen years, and worked out the other thing.
 
-If it is true that a line cannot be taken out of a book, then it is true of the line she agreed to at a board at the north end of a ground two days of road east, four sentences in her own hand with a date on them, read out loud by a carter who could not read it and said a name off it anyway.
+If it is true that a line cannot be taken out of a book, then it is true of the line she agreed to at a board at the north end of a ground two days of road east, four sentences in her own hand with a date on them, read out loud by a carter who could not read it and said a name off it anyway on the eighteenth of that month.
 
-That has been true since the eighteenth of the month beginning 2,114 and she has known it since the eighteenth of the month beginning 2,114 and she has never once gone and tried to take it off, and the reason is not that she could not.
+That has been true since the fifteenth of the month beginning 2,114 and she has known it since the eighteenth of it, and she has never once gone and tried to take it off, and the reason is not that she could not.
 
 The reason is that she would have to write something over it, and anything she writes over it has to be true, and a board with a line scrubbed off it and a true line written back on it is still a board with a scrubbed line on it.
 
@@ -108,6 +108,6 @@ She said, out loud, to the two posts, sitting on one of them:
 
 She came off the post and picked up the bar in a count of twenty-nine and stood there a moment longer than she needed to, which is not a thing she does, and then she said out loud, in daylight, to an empty turn, at the ninth hour on the twentieth of the month beginning 2,234:
 
-“I have eleven days and I have not got one word of it and I am going to get one.”
+“I have four days and I have not got one word of it and I am going to get one.”
 
-And a cart came east at four miles an hour and went past two posts with a slate on them, and there was not one thing written on that slate that was going to go up a stair, and she was going to have to fix that in eleven days, and there was not one person in nine days of road she was entitled to ask.
+And a cart came east at four miles an hour and went past two posts with a slate on them, and there was not one thing written on that slate that was going to go up a stair, and she was going to have to fix that in four days, and there was not one person in this county she was entitled to ask.

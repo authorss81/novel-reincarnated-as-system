@@ -24,17 +24,17 @@ She said, out loud, in daylight, to a frame, on the thirtieth of the month begin
 
 And there is no instrument that anybody in this county has ever heard of that puts any of it back, and I am writing the whole of it on a piece of slate at the first hour of tomorrow because I would like there to be one place in this world where it is written down outside of me.”
 
-## Four People Inside A Hundred Yards
+## Three People Inside A Hundred Yards
 
 The eighth first came at the first hour and she was four feet back in the grit.
 
-There was not enough light to see a slate by, and the light comes up on that frame last, and a woman of sixty told her that nine years ago and was right, so she stood there in the dark for about twenty minutes with a bag against her chest and her right arm open and a bar on the ground at her feet and she waited for it, and it came.
+There was not enough light to see a slate by, and the light comes up on that frame last, and a woman of sixty told her that nine years ago and was right, so she stood there in the dark for twenty minutes with a bag against her chest and her right arm open and a bar on the ground at her feet and she waited for it, and it came.
 
 There were three people inside a hundred yards of that frame at the first hour and she counted all three of them before she took anything out of the bag, and a fourth person four hundred yards west was sitting on a bench.
 
-The man of forty-nine was not there. There was a carter thirty yards east with a horse that did not need him to be holding it, and a woman of about fifty sitting in the road with her back to a wall, and a boy of about nine on a gatepost at the far end of the grit with a basket on his arm.
+The man of forty-nine was not there. There was a carter thirty yards east with a horse that did not need him to be holding it, and a woman of about fifty sitting in the road with her back to a wall, and a boy of nine on a gatepost at the far end of the grit with a basket on his arm.
 
-Four people. She had not asked for one of them and she never would.
+Three inside a hundred yards and a fourth four hundred yards west. She had not asked for one of them and she never would.
 
 ## What She Wrote
 
@@ -94,16 +94,22 @@ She said, “And a man of sixty-five in a room with a hundred people reading beh
 
 And then something happened, and it is the last of it, and she has not been able to write it down.
 
-## The Nine Seconds
+## What Came Down
 
 There was a sound in the air at that frame for about nine seconds.
 
-It was not loud. It was not inside her head and it was not outside her head. It was at the two posts and on the grit and it was there for a carter thirty yards off, for a woman of about fifty sitting with her back to a wall, for a boy of about nine with a basket at the end of the grit, and for a woman of sixty on a bench four hundred yards west.
+It was not loud. It was not inside her head and it was not outside her head. It was at the two posts and on the grit and it was there for a carter thirty yards off, for a woman of fifty sitting with her back to a wall, for a boy of nine with a basket at the end of the grit, and for a woman of sixty on a bench four hundred yards west.
 
 She has tried to put down what it was and she cannot, and she is not going to try again, and the only thing she will say about it is this: it was not nine announcements. It was one, and it was short, and it had something in it that she recognised, and she was standing four feet back in the grit with an empty frame and a bar at her feet and her own handwriting going west on a cart at four miles an hour.
 
-And there were four people inside a hundred yards who were not asked for it and there is not one of the four of them who will say the same thing about it, and she has not asked any of them and she is not going to, because the day she asks is the day there is one account.
+And there were four people within four hundred yards of that frame who were not asked for it and there is not one of the four of them who will say the same thing about it, and she has not asked any of them and she is not going to, because the day she asks is the day there is one account.
 
 She is not going to be one of the four.
 
-She put the bag back on her left shoulder with her right hand, which has three fingers and a thumb on it, and she stayed in the grit at the frame, and she did not go east and she did not go west, because a woman who has just written a thing that cannot be taken back does not go anywhere for a day, and she did not go anywhere for a day.
+She put the bag back on her left shoulder with her right hand, which has three fingers and a thumb on it, and she stayed in the grit at the frame, and she did not go east and she did not go west, because a woman who has just written a thing that cannot be taken back does not go anywhere for a day.
+
+And then she worked out what the line was going to do, standing in the grit in daylight, out loud, to a slate with nothing on it, and it took her a count of nine.
+
+It is going to go up a stair and into a room and be read by somebody, and she will not be there and will not be named and will not know, and there is not one instrument in this county that will let her find out who read it or when or what they did with it.
+
+And the four people inside four hundred yards of that frame are going to go on saying four different things about the same nine seconds for the rest of their lives, and not one of the four of them is ever going to be able to correct the other three.

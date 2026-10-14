@@ -3333,10 +3333,12 @@ get wrong without noticing:**
 
 ---
 
-## VOLUME 12 BATCH 0004 — ch 706–720, *what is written on it*. CLOSED ON THE PAGE. A COLD READER STARTS HERE.
+## VOLUME 12 BATCH 0004 — ch 706–720, *what is written on it*. CLOSED ON THE PAGE AND REPAIRED. A COLD READER STARTS HERE.
 
-Fifteen chapters, **28,409 words of body prose on method B, average 1,894**, day 2,241 to day 2,300. The last batch of Volume 12.
-**Volume 12 as a whole: ch 661–720, sixty chapters, 116,483 words of body prose on method B, average 1,941.**
+Fifteen chapters, **28,680 words of body prose on method B, average 1,913**, day 2,241 to day 2,300. The last batch of Volume 12.
+**Volume 12 as a whole: ch 661–720, sixty chapters, 116,754 words of body prose on method B, average 1,946.**
+
+**The repair pass and what it arbitrated.** Fourteen internal contradictions were fixed in place and **no planned beat, dated event or chapter assignment moved.** The dates ch 707, 708, 710, 712, 713, 714, 715 and 718 carried were re-derived from the day number and are now right; **the eighth first stays at day 2,294 and Immortal Vessel 3 stays at day 2,290 on the twenty-seventh of the month beginning 2,264, and the batch's only irreversible step is still the ch 718 harvest.** `outline/volume-12.md` was not edited and the four batches and sixty chapters stand. The figures below and in `state/continuity.md` were all re-run after the repair; **the drafting pass read 28,409 and 116,483 and those are withdrawn.**
 
 ### What the batch added
 
@@ -3352,7 +3354,8 @@ Fifteen chapters, **28,409 words of body prose on method B, average 1,894**, day
 - **IMMORTAL VESSEL 3 at ch 716, day 2,290**, and its cost named once, in another mouth: **she cannot be counted where she stands.** She never says it.
 - **THE EIGHTH FIRST at ch 717, day 2,294, at the first hour, at the two posts, outdoors, on an open arm:** **nineteen words in her own hand with a date and a place on them — *Ning Yan, the two posts. Two hundred and eighteen days. One in twenty. Ten days, twenty-one hours, thirty-six minutes* — true, because her hand cannot write a false line, and nobody writes one twice. The little finger of her right hand stopped being part of her hand in the middle of it. Three fingers and a thumb. The arm did not close.**
 - **ch 718, the batch's irreversible step: the designation is carried up on a board in her own hand instead of collected off her. The levy takes the writing and not the person. There is no instrument in the world that takes a line out of a book that has already gone up a stair.** **Nine seconds of sound at a frame in the first light of a morning, never printed in the book, and four accounts that do not agree.** **The bill for Court is settled.** She is not one of the four.
-- **ch 719 and 720, the stair and the threshold.** Eight flights on an arm that has been open since the morning she wrote the line, the third landing, the short breath, a bar across a door with the dust not broken. **The low door is standing open at the seventh of the month beginning 2,294 and the bar is on the floor inside with the dust broken at one end and not at the other and nothing in the volume explains it.** A room with a long table in it, a lamp in a cage, and a second stair going up out of the far side. **She went up one step and stopped there.**
+- **ch 717 does not close on her standing still.** The last thing on that page is her working out, standing in the grit in daylight, that the line is going into a room above her and that she will never know who read it or when, **and that the four of them at that turn are going to go on saying four different things about the same nine seconds for the rest of their lives and not one of them will ever be able to correct the other three.** That is what Volume 13 opens against.
+- **ch 719 and 720, the stair and the threshold.** Eight flights and eight hundred and eighty steps on an arm that has been open since the morning she wrote the line, the third landing, the short breath, a bar across a door with the dust not broken. **Her decision at ch 719 is to leave the bag at the bottom of the first four and come up in the morning with an empty hand, and ch 720 pays it off: she climbs with the bar and nothing else, and she is carrying a thing and not bringing a gift.** **The low door is standing open at the seventh of the month beginning 2,294 and the bar is on the floor inside with the dust broken at one end and not at the other and nothing in the volume explains it.** A room with a long table in it, a lamp in a cage, and a second stair going up out of the far side. **She went up one step and stopped there.**
 
 ### What the batch resolved
 
@@ -3363,7 +3366,7 @@ Fifteen chapters, **28,409 words of body prose on method B, average 1,894**, day
 - **How far the rows sit past the wall. STILL OPEN AND STILL NOT SETTLED.** Two or three hundred yards at ch 618, four miles at ch 659 and 660, three miles at ch 677. **Batch 0004 puts no mile figure on the rows-to-turn leg in either direction, and the unit rule stands: thirteen miles is wall-to-turn, two days of road is rows-to-turn, two miles of flat is ground-to-wall past the gate, four miles is square-to-summit.**
 - ***Twenty-two days*, unplaced.** `grep -oi 'twenty-two days'` over `chapters/volume-12/*.md` returns **0** and it must still return 0. **A Volume 13 card may put it in front of her again and may not equate it to a dated interval.**
 - **The two thousand nine hundred and twenty**, the difference between ninety-eight thousand and ninety-five thousand and eighty on a sheet on a wall in a room with the shutters up. **Attributed to nothing in this volume and not to be.**
-- **The four names in the fourth column, and one of them on a bench four hundred yards west of a frame.** She is not entitled to say a word of it and there is not one person in nine days of road who can read that column. **Three hundred and one out of nine hundred and twelve is very nearly a third and she does not know what a third of a name is.**
+- **The four names in the fourth column, and one of them on a bench four hundred yards west of a frame.** She is not entitled to say a word of it and there is not one person in this county who can read that column. **Three hundred and one out of nine hundred and twelve is very nearly a third and she does not know what a third of a name is.**
 - **A brother in a barrow ground who has counted four thousand stones a day for five years and gave the number to one person and said a thing about boards that she has not answered.**
 - **Fourteen people in a ground of two hundred who can count to eighty, nine of them doing sums without her, forty who can count to eighty at all, and she has told none of them.**
 - **A boy of nineteen who told her once, as arithmetic and not as a warning, that if one of them knew there would be not one of them left on the rows in a month.** **Not resolved.**

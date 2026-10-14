@@ -12,7 +12,7 @@ She was four feet back in the grit where a cart can go past without touching her
 
 She took the slate out of her head and counted the days in her own column without touching it. Thirty, all of them, and she counted them the way she counts everything, from the top and down, and she got thirty, and there was no mark on that board anywhere that said a twentieth of anything had gone, and there has never been, and that is not a secret, it is just how a column is.
 
-## Nine Seconds On The Other Side
+## The Other Side Of The Slate
 
 He wiped the frame where the slate sits, which is a thing no one has asked him to do and which he has done every month of his working life, and he wiped the slate with the flat of his thumb in the time it takes a man to turn round twice.
 
@@ -20,7 +20,7 @@ And then he turned it over.
 
 Not to wipe it. The other side has faced the wall for nineteen years and has never been wiped, and he does his two columns on the road side and then puts his other two in on the other side and turns it back with the chalk side out.
 
-She got nine seconds.
+She had it in the time it takes a man to turn round twice.
 
 ## The Figure Under Her Name
 
@@ -34,9 +34,9 @@ One hundred and eighty-eight out of twenty is nine and four tenths of a day, and
 
 Nine days, nine hours and thirty-six minutes.
 
-She stood four feet back in the grit at a frame in a turn in the first light of a morning and did not say one word of it, out loud, to anybody, and it is the only thing she has ever come to this frame for and she had it in her hand in nine seconds and she did not spend it.
+She stood four feet back in the grit at a frame in a turn in the first light of a morning and did not say one word of it, out loud, to anybody, and it is the only thing she has ever come to this frame for and she had it in her hand inside the time it takes a man to turn round twice, and she did not spend it.
 
-That is not modesty. There are four people inside a hundred yards of that frame this morning and two of them are nine years older than her.
+That is not modesty. There are three people inside a hundred yards of that frame this morning and one of them is forty years older than her.
 
 ## The Thing She Watched Him Do
 
@@ -82,7 +82,7 @@ And then she stayed in the grit for two more days and worked out the whole cycle
 
 A board goes up on the first at the second hour. It goes up the road to the seat. It comes back down on the seventh of the month in the middle of the afternoon on the same cart with the same man on it, and the man puts the slate into the frame and wedges it and does not look at anybody.
 
-And it sits in that frame empty for the three weeks between that and the twenty-fourth, with two posts and a rail and nothing on it but the chalk of the first carter west every morning of its working life.
+And it sits in that frame empty for the seventeen days between that and the twenty-fourth, with two posts and a rail and nothing on it but the chalk of the first carter west every morning of its working life.
 
 Thirty days in every column when it is full. Her name in a county hand in the first column. Four strokes at the top.
 
@@ -112,10 +112,10 @@ She said, “And what do you do with them.”
 
 The woman of sixty said, “You stand at the end of them and you find out on the other side what you were doing, and it is always the same, and that is the whole of what a first of a month is.”
 
-She said it in the ordinary voice, and then she said the second part, which she has not said to anybody before and which took her about nine seconds:
+She said it in the ordinary voice, and then she said the second part, which she has not said to anybody before and which took her one breath:
 
 “Ning Yan. That was the seventh first since you gave him your name, and you have not asked me for one thing in nine years. I have been on that bench nine years and I am not going to call a question a kindness, because you did not ask it for that. But you are going to be standing here on the first of the next month after next and I am going to be on this bench, and you are not going to be standing here for nothing.”
 
 And then she looked at the ground, and that was the end of it, and there was not one word after that about it.
 
-Ning Yan stood four hundred yards from a bench for a count of sixty. Then she picked up her bag and went east down the store road, because she has got twenty-eight days and a line to find and there is not one person in nine days of road she is entitled to ask, and she has two days of road in front of her before she is anywhere at all.
+Ning Yan stood four hundred yards from a bench for a count of sixty. Then she picked up her bag and went east down the store road, because she has got twenty-eight days and a line to find and there is not one person in this county she is entitled to ask, and she has two days of road in front of her before she is anywhere at all.

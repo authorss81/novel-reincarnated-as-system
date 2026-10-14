@@ -4,11 +4,11 @@ She went into the rows at the eighth hour of the eighth of the month beginning 2
 
 ## The Third Row
 
-Ning Wu was about forty feet in, in the third row, doing what the four of them do.
+Ning Wu was forty feet in, in the third row, doing what the four of them do.
 
 He has the hands of their father and he is nineteen and he has carried stones for four men for nine years and he has not said her name to her since a road five miles west of a mill nine years ago, and he did not say it now.
 
-She stood at the end of the row for a count of forty. The ground goes up about a foot and a half every eight rows and she had been at the bottom of it for eight days and it is not a hill you can hide anything on.
+She stood at the end of the row for a count of forty. The ground goes up a foot and a half every eight rows and she had been at the bottom of it for eight days and it is not a hill you can hide anything on.
 
 He worked the way the four of them work, which is that he does not do it in a rhythm. He goes at the pace the man in front of him goes at and stops when that man stops and there is no counting in it that anybody could see from four feet away.
 
@@ -52,7 +52,7 @@ She said, “I am not going to tell you the figure, because you have not asked m
 
 He said, “Then what are you telling me for.”
 
-And she was about nine seconds into a bad answer when he said the other thing.
+And she was one breath into a bad answer when he said the other thing.
 
 He said, “Five years.”
 
@@ -108,9 +108,9 @@ And she counted, because she cannot help it, and she counted from the end of the
 
 Two hundred people in that ground and forty of them can count to eighty, and she has said that figure out loud in front of nine people and has not been able to make it smaller.
 
-There are forty people who can take any two of them who know how and work out in about nine seconds what is coming off any of them. She said that out loud too, at the end of a row of stones, to one person, and then stopped, because it is her arithmetic and not his and there is no part of a brother in it.
+There are forty people who can take any two of them who know how and work out inside a breath what is coming off any of them. She said that out loud too, at the end of a row of stones, to one person, and then stopped, because it is her arithmetic and not his and there is no part of a brother in it.
 
-And there are about forty people in that ground who have no way of being found out that she knows of, and she has thought about that for two days and has not told anyone, and she is not going to, and the reason she is not going to is the reason she has had since the eighteenth of the month beginning 2,144 and it is still a good reason.
+And there are forty people in that ground who have no way of being found out that she knows of, and she has thought about that for two days and has not told anyone, and she is not going to, and the reason she is not going to is the reason she has had since the eighteenth of the month beginning 2,144 and it is still a good reason.
 
 He said, “You counted.”
 
@@ -126,7 +126,7 @@ He went back to the stone.
 
 She stayed in that ground four more days because a person who has told one person a figure cannot go on the next morning and behave as though she had not.
 
-On the eleventh she carried stones for an hour, because he put one at the end of the row and did not ask her to and did not stop her either, and it is about forty pounds and she put down forty of them over the course of an hour without once getting her breath above four counts, which she was not expecting.
+On the eleventh she carried stones for an hour, because he put one at the end of the row and did not ask her to and did not stop her either, and it is forty pounds and she put down forty of them over the course of an hour without once getting her breath above four counts, which she was not expecting.
 
 On the twelfth a man of fifty came to the end of the third row and said, to Ning Wu and not to her, that the fourth man had been short for three days running and that somebody was going to have to say so.
 
@@ -134,7 +134,7 @@ And Ning Wu said, “Say it.”
 
 And the man said, “I am saying it.”
 
-And he did not say anything else, and he went off up the row, and Ning Yan stood four feet away and worked out in about nine seconds that a man can lose three days of stones out of a county and be told about it by one person in nine days of road, and that the system has no other part.
+And he did not say anything else, and he went off up the row, and Ning Yan stood four feet away and worked out in one breath that a man can lose three days of stones out of a county and be told about it by one person in this county, and that the system has no other part.
 
 On the thirteenth she asked him, standing, in daylight, one question, whether the stones went anywhere.
 
@@ -158,4 +158,4 @@ And on the eleventh of the month beginning 2,264 she counted the board at the no
 
 There was one at the top that the man with the second hour had put in early, and she left that one too, and she is lighter for seven hundred and fourteen days.
 
-There are nineteen days to the first of a month beginning 2,294 and she has not got one word of the line, and the only person in this county who knows her figure is thirty feet away and does not want to know it.
+There are twenty days to the first of a month beginning 2,294 and she has not got one word of the line, and the only person in this county who knows her figure is thirty feet away and does not want to know it.

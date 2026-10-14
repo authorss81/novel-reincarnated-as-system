@@ -6,7 +6,7 @@ She said, “Yes.”
 
 She said, “I was on that board for four years and my name came off it and there was not one person to tell and the man with the chalk did not say anything and he has not said anything about it in five years.”
 
-She said, “And I have sat on this bench nine years and I have watched about forty people go on that board since and about thirty come off, and I have never once known which was which.”
+She said, “And I have sat on this bench nine years and I have watched some forty people go on that board since and about thirty come off, and I have never once known which was which.”
 
 ## The Half Of It She Was Not Going To Say
 
@@ -14,11 +14,11 @@ And Ning Yan stood there and found that she was about to say a thing, and that s
 
 She did not say it.
 
-She stood four feet off a bench in the grit with the bar on her left shoulder and a light going off the frame behind her and she worked out in about nine seconds why she was not going to say it, and then she worked out the other half of why, which took longer.
+She stood four feet off a bench in the grit with the bar on her left shoulder and a light going off the frame behind her and she worked out in one breath why she was not going to say it, and then she worked out the other half of why, which took longer.
 
 The first half is standing. The second half is that a woman who has been on a board and come off it would ask her what else is on it, and there are three hundred and one names in that column, and Ning Yan is not entitled to read three hundred and one names out loud in a turn to a woman with a bench, and she has not got one reason that would survive being said out loud.
 
-And the third thing, which is not a reason and which she said to herself in the ordinary voice because she does not let anything stand that she has not put into words where it exists: she is going to write a line on a board in seven days with a date and a place on it, and anybody who walks up to that frame on a good day will be able to read it.
+And the third thing, which is not a reason and which she said to herself in the ordinary voice because she does not let anything stand that she has not put into words where it exists: she is going to write a line on a board in thirty-six days with a date and a place on it, and anybody who walks up to that frame on a good day will be able to read it.
 
 So the whole of a thing about a person in this county is going to be on a stick in public for the first time in eleven hundred years.
 
@@ -46,7 +46,7 @@ If Ning Yan tells her she is in a column on the other side of a slate, then the 
 
 And a woman who knows that there is a third of a column of names she has been part of for nineteen years is a woman who will think about the other three hundred.
 
-And there is one person in nine days of road who can read that column and there is one person in nine days of road who is walking away from a bench with a bar on her shoulder.
+And there is one person in this county who can read that column and there is one person in this county who is walking away from a bench with a bar on her shoulder.
 
 She said, out loud, on the twenty-seventh of the month beginning 2,234, standing in the grit at the ninth hour with the light going:
 
@@ -60,7 +60,9 @@ And she carried it for four days, which is not a long time, and she has been car
 
 On the twenty-fifth she counted the posts again because there are two of them and counting things she already knows is the only cheap way she has of not counting the other thing.
 
-On the twenty-sixth she went down to the mill four hundred yards west at the stopped lime bed and stood in a yard with a woman who has been standing there with her hands behind her since before she was nine, and said nothing at all for about a count of sixty, and the woman did not look up, and it was the fourth time in nine years she has gone and stood in that yard and been given nothing at all.
+On the twenty-sixth she went five miles west to the mill with a wheel that has not turned in nine years, and stopped at the cottage at the stopped lime bed on the way to it.
+
+She stood in a yard with a woman who has been standing there with her hands behind her since before she was nine, and said nothing at all for a count of sixty, and the woman did not look up, and it was the fourth time in nine years she has gone and stood in that yard and been given nothing at all.
 
 On the twenty-seventh she went east nine miles out of thirteen to the post at the end of the paid road and stood at it, and there has been no road under her feet for four hundred yards from that post in one direction, and she said out loud, to a post, that she had come to a county where a third of the names on a board are names that came off it and she was the only person in it who knew, and the post did not care.
 

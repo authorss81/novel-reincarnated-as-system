@@ -78,7 +78,7 @@ She said that out loud, standing, in daylight, on the third of the month beginni
 
 And that is where the bill came in, and it came in the way bills do, which is that you are standing in a place not thinking about it and then it is in the room.
 
-She was lighter for seven hundred and thirty-six days and she worked it out on the third of the month beginning 2,294, standing, in daylight, out loud, and it took nine seconds.
+She was lighter for seven hundred and thirty-six days and she worked it out on the third of the month beginning 2,294, standing, in daylight, out loud, and it took her a count of nine.
 
 The levy is one in twenty of every day a name has had in a column. It has been coming off her since the ninth hour of the twenty-fourth of the month beginning 2,054, at the rate of a day and a half a month, and it does not stop on a first, and it is not something that happens to a board.
 
@@ -98,13 +98,13 @@ And then she said the thing out loud that she had not said out loud anywhere sin
 
 She said, “It is paid.”
 
-She said, “On the first of the month beginning 2,114 there is a board at the north end of a ground with four sentences in my own hand on it and a name at the end of it and a carter read the name out loud on a made road and did not know what it was.
+She said, “On the fifteenth of the month beginning 2,114 there is a board at the north end of a ground with four sentences in my own hand on it and a name at the end of it, and a carter read that name out loud on a made road three days later and did not know what it was.
 
 And a thing that reads records has never wanted one in eleven hundred years and there is one now, and the bill was that it would be able to read it, and that it would read it because somebody asked to be found.”
 
 She said, “It has read it. Not that one. That is what I thought it wanted and it is not that.
 
-What it wanted was a shape with a hand on it, and it has got one, and it went up a stair at the second hour of the first of the month beginning 2,294 in a bundle with about forty other boards in it, and four people in the seat have never in their lives looked at one of those boards, and a room at the top of a stair four miles up a mountain from the square has.”
+What it wanted was a shape with a hand on it, and it has got one, and it went up a stair at the second hour of the first of the month beginning 2,294 in a bundle with forty other boards in it, and four people in the seat have never in their lives looked at one of those boards, and a room at the top of a stair four miles up a mountain from the square has.”
 
 She said, “And I did not agree to it. I priced it in days once and did not say out loud what I worked out, and I have not said it out loud now either, except that I am telling you it is paid, at a frame, in daylight, on the third of the month beginning 2,294, and I am not going to be able to write a line that does not have my name at the end of it ever again.”
 
