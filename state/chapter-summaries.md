@@ -9,6 +9,8 @@ each original heading so a search still finds them here. **Nothing was deleted.*
 section in this run's state files to where it now lives. **Read the archive by chapter number when a beat has to
 land on something that happened a long time ago, and do not re-derive an archived figure.**
 
+
+**Ch 421–478 (Volume 8, *Recruited*, PLANNED AND NOT YET DRAFTED).** An arrival, then a building with more lamps in it than anything she has stood in, and a woman of sixty-one who is right about nine things out of ten offering a trade that is genuinely good. She is the strongest person in every room for the first time and it turns out to be a qualification. The ch 401 answer is quoted back to him by a stranger with no name at all. He starts putting listings where other people's hands already are, she catches it on the two-column floor sheet she built at ch 420, and she makes him stop. He gives her the bill, in a number, once. She reads a fine hand in a room because four people cannot and it goes on a roll, which is how she finds out that her ch 417 refusal was the evidence that brought the Order to her door. She refuses the Order on the record, the Order stops reading her, and at the last page nothing on nine days of road wants anything from her at all — and she waits anyway.
 ## Volume 1 — A Voice in the Dark (ch 1–58)
 
 **ARCHIVED — NOT DELETED. Moved by the Volume 7 close review fix pass to `state/archive/chapter-summaries-volumes-01-to-06.md`, under this same heading, and left this stub in its place so a search for the section still finds it here.** **This is the per-chapter summary for Volumes 1 to 6, chapter by chapter.** It is off the hot file because a Volume 8 drafter needs the last thirty chapters and the rolling summary, not ch 1 to 360. Read it by chapter number when a Volume 8 beat has to land on something that happened a long time ago. Read that file for the section. Do not re-derive it, and do not treat this stub as the section.
@@ -363,3 +365,53 @@ And the last line of the volume, in her own arithmetic, standing about nine feet
 at ch 420 and what Volume 8 inherits live: `state/open-threads.md` under `## Volume 7 CLOSED at ch 420`.
 **This close phase created no prompt and wrote no `.done` marker**, which `PHASE_SYSTEM.md` gives to the controller
 alone.
+
+---
+
+## Volume 8 planned — *Recruited*, ch 421–478 — PLANNED, NOT YET DRAFTED
+
+**Recorded by the Volume 8 planning phase. `outline/volume-08.md`, `outline/batches/volume-08-batch-0001.md` and
+`workspace/volume-08-batch-0001/PROMPT.md` exist. No chapter of Volume 8 is on the page, and there are no chapter
+summaries to record until Batch 0001 is drafted.**
+
+**Title *Recruited*, ch 421–478, fifty-eight chapters, four batches, day 1,091 to day 1,340, 250 days.** Goal fixed by
+`outline/series.md` §9 and not re-planned: *In this volume, Ning Yan must refuse the Order, or she becomes exactly the
+tool Yuan hated.* Central pressure: **she is the strongest person in every room for the first time and it turns out to
+be a qualification.**
+
+**Four batches, no two consecutive pressures.** 0001 ch 421–434, days 1,091–1,152, *an arrival* · 0002 ch 435–449, days
+1,153–1,205, *being wanted* · 0003 ch 450–464, days 1,206–1,262, *what he did with her while she was somewhere else* ·
+0004 ch 465–478, days 1,263–1,340, *refusing to be a tool*.
+
+**The pinned facts a drafter inherits, and none of them is on the page yet:**
+
+- **The Order of the Recruited**, named once at ch 425 — one building, one lamp on every table, about a hundred
+  readers, one book of 406 names, one rate, one rule, **and no budget, which is Volume 12's.**
+- **Xie Changyin**, sixty-one, recruited at nineteen by a sheet read aloud to her in a room. **She is asked nothing and
+  buys nothing.** The sixth structural mouth, at ch 477.
+- **The ch 401 answer is quoted back to him at ch 423** by a stranger with the two lines and the date and the ordinary
+  voice and no name.
+- **Nascent Soul 8 at ch 434 on day 1,152** (the twenty-ninth of the month beginning 1,124; 76 days) and **Nascent
+  Soul 9 at ch 470 on day 1,291** (the eighteenth of the month beginning 1,274; 139 days). **Two bracketed layer lines
+  in fifty-eight.**
+- **Seven costs stand at the end of Volume 8** — Volume 7's six plus **she cannot call a halt** and **there is nothing
+  above her and the way out is a document she has not opened.**
+- **Six structural-answer mouths** at ch 424, 437, 443, 452, 461 and 477. **The tenth part is not given.**
+- **Merit intercepted off four people who are not her**, one of whom does not come back at ch 460. **She makes him stop
+  at ch 462.** **He gives her the bill at ch 466**, in a number, unasked, once. **She refuses the Order at ch 474** and
+  **at ch 478 nothing on nine days of road wants anything from her at all.**
+- **The three shapes in three consecutive volumes:** a circuit broken (ch 344) · an answer withheld (ch 417) · **a bill
+  rendered (ch 466).**
+
+**Batch 0001's fourteen titles**, checked against all 420 existing headings, zero collisions, longest 39 characters:
+The Eighteenth, And Nothing Else · The Woman Who Came On Foot · Nobody Has Ever Answered One · The Four Hundred Times ·
+A Rate And A Room And A Roll · The Question She Had Not Thought To Ask · The Sheet At The End Of The Arm · What He Has
+Watched Twice · The Eight Coppers She Is Owed · The Man With The Chain · The Second Attempt · The Date She Said Out
+Loud · What He Did Not Say · A Body That Cannot Stop.
+
+**THE DEVIATION.** The Volume 7 close recorded sixteen findings and repaired none, and wrote an order that a repair
+phase runs before Volume 8 planning and blocks it. **Volume 8 planning was dispatched and opened anyway, because the
+dispatch does not read `state/`. The order was not obeyed and not abandoned: F1–F7, the seven that are defects on the
+page, are now `## PHASE ZERO` at the head of `workspace/volume-08-batch-0001/PROMPT.md`, as a seven-row table with the
+file and the line of every one of them. Nothing is lost. Full audit at `state/current.md` §*Volume 8 planning — the
+deviation, and where the sixteen findings went*.

@@ -2348,3 +2348,134 @@ it once; **a man with a shut notebook who says the thing he knows in the ordinar
 care what his hands are doing, and it will be somewhere in his head for six months before he hears about it* — and
 who buys nothing; and **a road east that she has never walked** and a turn four miles off and a long road past it.
 **The thing that sent the strips has stopped needing her to be near anything. She has never been east of here.**
+
+## Volume 8 planned — what `outline/volume-08.md` fixed, and what Batch 0001 inherits
+
+**Recorded by the Volume 8 planning phase. It is a planning phase: it wrote `outline/volume-08.md`,
+`outline/batches/volume-08-batch-0001.md` and `workspace/volume-08-batch-0001/PROMPT.md`, opened no chapter, and
+re-planned nothing.** `outline/series.md`, `outline/ending.md`, `outline/volume-07.md` and the six `bible/` files
+were read and not edited. **These are plan facts, not page facts, until ch 421 is drafted.**
+
+### The volume
+
+- **Volume 8, *Recruited*, ch 421–478, fifty-eight chapters, four batches, day 1,091 to day 1,340, 250 days.**
+  Goal fixed by `outline/series.md` §9 and not re-planned: *In this volume, Ning Yan must refuse the Order, or she
+  becomes exactly the tool Yuan hated.*
+- **The question it opens on** is `outline/volume-07.md` §*New question for Volume 8*, unchanged: *what happens to the
+  first person who comes for the reader.*
+- **Central pressure:** she is the strongest person in every room for the first time and it turns out to be a
+  **qualification**, because the Order's rooms are staffed by people who reached stage nine and were told what stage
+  nine is for. **Nobody is hunting her. Somebody wants her.**
+
+### The Order, fixed by planning
+
+- **`bible/terminology.md` fixes the term: the Order of the Recruited — what the real realm calls its own senior
+  practitioners. A title, and a lifestyle.** The plan builds the Order out of the one trade already on the page and
+  nothing else: **the professional readership of the real realm — the people offices call when a hand cannot be read.**
+  It is not a conspiracy, it does not meet in secret, no member is hiding, and no chapter makes one of them a villain.
+- **One building, one counter, one lamp on every table, about a hundred readers. One book with 406 names on it. One
+  rate. One rule: the sheet is read to you.** **No department, no floor, no rank list, no committee, no house of the
+  Order, no title beyond the fact of being recruited.** The naming of the Order happens once, at ch 425, and after
+  that it is a word on the page and not a reveal.
+- **THE BUDGET IS NOT ON THE PAGE IN VOLUME 8.** `bible/characters.md` reserves it for Volume 12. The plan states this
+  three times and it is a hard rule.
+- **Xie Changyin, sixty-one, senior practitioner, recruited at nineteen out of a village by a sheet read aloud to her
+  in a room.** Forty-two years recruited. Reads a hand in four seconds. **Lies to nobody, buys nothing, in Volume 8 or
+  after.** Right about nine things out of ten; wrong about one, and does not know it: *that a person on a roll is
+  safer than a person off it.* **She is the sixth structural mouth at ch 477 and she returns in Volume 12 with a budget
+  attached.**
+
+### The engine
+
+- **He is asked, at ch 423, by a stranger who has only the two lines and the date and the ordinary voice** — exactly
+  what he said on the page at ch 401 would happen. **She has no name and does not know there is a man. She is asking
+  about a hand.**
+- **`outline/series.md` §7 milestone 6 is pinned with a mechanism: he starts issuing quests to other people and she
+  makes him stop.** **He never opens the Ledger; the word does not return in Volume 8.** The layer already lists work
+  past the last working point; **he surfaces a listing to a person who is not her by putting the thing where that
+  person's hand already is.** That is a Hand action. **The cost rule does not bend: the Foundation tax comes out of her
+  ground and the stranger pays the other bill in his own body.**
+- **She catches it with the instrument Volume 7 built: Geng's two-column floor sheet at ch 420.** Two dates on one
+  line, the day it happened and the day anybody found out, four days apart, on a floor sheet east of the turn.
+- **He gives the bill at ch 466**, unasked, in a number, once, in the present tense, in a shed. **The first figure he
+  has ever put in front of her, and the first time he has not lied by omission, and she does not forgive him and does
+  not tell him to stop.**
+- **She refuses the Order at ch 474**, in a room, on the record, with her name in it, and it is entered.
+- **She catches her own trail: her ch 417 refusal was read correctly by strangers and it is why the Order came.**
+  **Nothing is undone and ch 417 stands.** The discovery lands at ch 445 and not before.
+- **Frame scene: ch 458.** The fourth in the manuscript after ch 272, ch 338 and ch 401. **Volume 7's close audit
+  confirms there is no fourth in ch 361–420.**
+
+### Stages, days and costs
+
+**Month rule unchanged: a month is thirty days, day 134 was the first of a month, month-day is
+`((day − 134) mod 30) + 1`.** Months in Volume 8 begin on **1,094 · 1,124 · 1,154 · 1,184 · 1,214 · 1,244 · 1,274 ·
+1,304 · 1,334.**
+
+| Stage | Chapter | Day | Month-day | Interval from the last |
+| --- | --- | --- | --- | --- |
+| Nascent Soul 8 | **434** | **1,152** | the **twenty-ninth** of the month beginning **1,124** | **76 days** after NS 7 at day 1,076 |
+| Nascent Soul 9 | **470** | **1,291** | the **eighteenth** of the month beginning **1,274** | **139 days** |
+
+- **Volume 8 opens day 1,091, the twenty-eighth of the month beginning 1,064 — the day after ch 420 closed.** Volume 8
+  closes day 1,340, the seventh of the month beginning 1,334. Batch boundaries: **1,153** (the thirtieth) · **1,206**
+  (the twenty-third) · **1,263** (the twentieth).
+- **139 days is the longest single interval in the manuscript** and the plan makes the chapter account for it: a stage
+  in this world has always cost her something somebody else paid for, and for the last 139 days of Volume 8 there is
+  nobody paying for anything.
+- **NS 8 cost, named once at ch 434:** **she cannot call a halt** — not the arm, not the hand, not the four fingers,
+  but *herself*, once a thing she is in has started. **She can still say no; she cannot make the no take.**
+- **NS 9 cost, named once at ch 470:** **there is nothing above her, and the way out is a document, and she has not
+  opened hers.** The relicensed licence says *Foundation the first stage* on the front of it and **Volume 8 raises what
+  it is worth without ever reading it.**
+- **Neither cost collides with a Volume 7 cost and neither undoes a closure.** The seven costs at the end of Volume 8
+  are the six Volume 7 costs plus these two, each named once, **none of the eight re-derived.**
+
+### Brackets, mouths, pressure, titles
+
+- **Bracket budget: two in fifty-eight, at ch 434 and ch 470, in the far-side house form.** **Batch 0001's budget is
+  one, in fourteen chapters.** The thinning is deliberate and is named once, in her own thought, and not explained.
+- **Six structural-answer mouths at ch 424, 437, 443, 452, 461 and 477** — six new people, four or five short sentences
+  each, never a speech. **The tenth part is not given and nothing proves the crews wrong, and the Order is not allowed
+  to explain why a bounded world needs readers.** The surface answer is not re-voiced in any mouth.
+- **Four pressures, no two consecutive:** 0001 *an arrival* · 0002 *being wanted* · 0003 *what he did with her while she
+  was somewhere else* · 0004 *refusing to be a tool*. **None is a tending, a ration, a hiring, a crossing, an audit, an
+  examination, a hunt, a signature, a keeping, a debt, a family paper, an ash or a confinement.**
+- **Batch 0001's fourteen titles are fixed and checked against all 420 existing headings. Zero collisions. Longest 39
+  characters.**
+
+### What Volume 8 does not do, pinned
+
+- **No office on nine days of road is named.** Volume 6 named none in sixty-two chapters and Volume 7 named none in
+  sixty, and that is the standard. **The Order is named once as an institution and nothing about it is named but one
+  building, one book and one rate.**
+- **No budget for the Order.** No Sisterhood, no Anchor, no bargain, no Lung, no appointment, no death of Feng.
+  `Feng` returns 0 across ch 421–478 and `Ning Wu` returns 0.
+- **Nothing of `outline/ending.md` is previewed** and no final enemy is invented.
+- **The year of non-forgiveness: Volume 8's allowance for mentioning it is 0**, and the strongest form of that is again
+  that the subject is not mentioned once in fifty-eight chapters. **The bill at ch 466 is a bill and not a
+  forgiveness.**
+- **The three shapes in three consecutive volumes are three different shapes:** a circuit broken (ch 344) · an answer
+  withheld (ch 417) · **a bill rendered (ch 466)**.
+- **The Hunter is on the page twice in Volume 8 and she asks him twice. Wei Ran at most twice, once in Batch 0002 and
+  once in Batch 0004, both trades. Feng, Ning Wu, Wen and Shen Xiu do not appear.**
+
+### The Volume 8 hand-off
+
+**At ch 478 she is at Nascent Soul 9 — the ceiling of a realm — with the seven costs standing, a relicensed licence she
+has still never opened, no wages and no season, a refusal standing in the best book on nine days of road with her name
+in it, and nothing on nine days of road that wants anything from her at all.** The Order has stopped reading her, the
+strips have stopped going east, the floor has stopped asking her about carts, and **she waits anyway, which is the last
+thing in Volume 8 and the first thing in Volume 9.**
+
+### The deviation, and the sixteen findings
+
+**The Volume 8 planning phase opened ahead of `state/current.md` §*Volume 7 close repair order*, which states that a
+repair phase runs first and blocks this planning phase. The dispatch did not carry the block. The order was not obeyed
+and not abandoned: **F1–F7, the seven prose findings, are now `## PHASE ZERO` at the head of
+`workspace/volume-08-batch-0001/PROMPT.md`, as a seven-row table with the file and line of each and the one thing not
+to do while fixing it, covering ch 369, 378, 391, 395, 399, 400, 401, 409, 415, 417 and 420.** F8–F13 are state-file
+figures already corrected at `## Volume 7 close — the volume as a whole` and are to be verified, not re-derived. F14 is
+a false claim in `outline/volume-07.md` and that file is not to be re-planned by anything. **The volume's own answer at
+ch 417 is untouched and a repair that appears to weaken it is wrong and the page is right.** Full audit at
+`state/current.md` §*Volume 8 planning — the deviation, and where the sixteen findings went*.

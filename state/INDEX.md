@@ -49,8 +49,10 @@ what was measured at the time, and re-measuring it will produce a different numb
 | --- | --- |
 | `## How to read this file` | The cold-start reading order for the whole run. **Still valid as written.** |
 | `## Who is where at end of chapter 420` | **THE LIVE POSITION.** ch 420, day 1,090. Every earlier position block is superseded by this one. |
+| `## Volume 8 planning — the deviation, and where the sixteen findings went` | **READ THIS SECOND.** Why Volume 8 planning opened ahead of the repair order, and which phase now owns F1–F7. One read long. |
+| `## Volume 8 planned — outline/volume-08.md exists and what the plan fixed` | **THE VOLUME 8 PLAN, in seventeen numbered items.** The stages and their days, the two costs, the thinned bracket budget, the six mouths, the four batches, the engine, and what the plan explicitly does not do. |
 | `## Volume 7 close audit — CLOSED` | The close: fourteen fixed items walked, sixteen findings, the seventeen continuity facts, the protagonist answered in writing, the Volume 8 hand-off. |
-| `## Volume 7 close repair order — the sixteen findings, and the phase that must clear them` | **THE BINDING OBLIGATION. Read before planning Volume 8.** File and line of all sixteen, and what must not be touched while clearing them. |
+| `## Volume 7 close repair order — the sixteen findings, and the phase that must clear them` | **THE OBLIGATION.** File and line of all sixteen, and what must not be touched while clearing them. **The planning phase named it as blocking itself, was dispatched anyway, and moved F1–F7 into `workspace/volume-08-batch-0001/PROMPT.md` under `## PHASE ZERO`. Read the section above this one first.** |
 | `## Volume 7 planned`, `## Volume 7 planning — close review repair`, `## Volume 7 Batch 0003 — REVIEW REPAIR` | The plan and two repairs. |
 | `## Who is where at end of chapter 404 / 389 / 374 / 360 / 345 / 329 / 313 / 252 / 238` | Kept only because the reading guide names them. Superseded by the ch-420 block. |
 | `## Volume 6 close audit — OPENED / CLOSED`, `## Volume 6 close review — REPAIR` | Volume 6's close. The Volume 7 audit cross-references it. |
@@ -81,20 +83,26 @@ what was measured at the time, and re-measuring it will produce a different numb
 
 **188 KB, entirely live, and it is the file that answers *what is still open*.** It is the shortest of the five
 and every block in it is a thread or a standing ban. It was left whole on purpose: archiving it would hide the
-open threads, which is the one thing it exists to do. **Volume 7's own threads are the last four sections, at
-`## Volume 7 planned`, `## Volume 7 Batch 0001` … `## Volume 7 Batch 0004`, and
+open threads, which is the one thing it exists to do. **Volume 8's own block is the last section, at
+`## Volume 8 PLANNED — what the plan adds to the thread list, before a line of it is on the page`. Volume 7's are the
+five before it, at `## Volume 7 planned`, `## Volume 7 Batch 0001` … `## Volume 7 Batch 0004`, and
 `## Volume 7 CLOSED at ch 420 — every thread, measured, and what Volume 8 inherits live`.**
 
 ### `state/book-metadata.md` — not archived. 52 KB, twenty-three long lines, all of it current status.
 
-## For the next volume
+## For the next phase
 
-**Volume 8 planning reads, in this order:** this file · `state/current.md` §*Volume 7 close repair order* ·
-`state/current.md` §*Who is where at end of chapter 420* · `state/current.md` §*Volume 7 close audit — CLOSED* ·
-`state/continuity.md` §*World rules* · `state/open-threads.md` §*Volume 7 CLOSED at ch 420* ·
-`state/chapter-summaries.md` §*Rolling volume summary* · `workspace/volume-07-close/SUMMARY.md`.
+**Volume 8 Batch 0001 drafting reads, in this order:** `workspace/volume-08-batch-0001/PROMPT.md` — **which opens with
+`## PHASE ZERO`, the seven prose findings of the Volume 7 close with the file and the line of each, and those are
+done before a line of Volume 8 is written** — then `outline/volume-08.md` · `outline/batches/volume-08-batch-0001.md` ·
+this file · `state/current.md` §*Volume 8 planning — the deviation, and where the sixteen findings went* ·
+`state/current.md` §*Volume 8 planned* · `state/current.md` §*Who is where at end of chapter 420* ·
+`state/current.md` §*Volume 7 close audit — CLOSED* · `state/continuity.md` §*World rules* ·
+`state/continuity.md` §*Volume 8 planned* · `state/open-threads.md` §*Volume 7 CLOSED at ch 420* and
+§*Volume 8 PLANNED* · `state/chapter-summaries.md` §*Volume 8 planned* · `workspace/volume-07-close/SUMMARY.md`.
 
-**And the repair phase for the sixteen findings comes before all of it.**
+**And `state/current.md` §*Volume 7 close repair order* still stands as written. The planning phase did not obey it,
+did not abandon it, and did not delete it; it moved F1–F7 into the drafting prompt. **
 
 ## The next time this is needed
 

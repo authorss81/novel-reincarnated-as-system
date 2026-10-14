@@ -1320,3 +1320,61 @@ re-planned.** The binding table, with the file and line of each finding and the 
 it, is `state/current.md` under **`## Volume 7 close repair order — the sixteen findings, and the phase that must
 clear them`**. **No thread in this file is affected by any of the sixteen, and no thread below is retired by this
 note.**
+
+---
+
+## Volume 8 PLANNED — what the plan adds to the thread list, before a line of it is on the page
+
+**Recorded by the Volume 8 planning phase. `outline/volume-08.md` and `outline/batches/volume-08-batch-0001.md`
+exist and are the authority for Volume 8. Nothing below is on the page yet. These are obligations a drafter inherits,
+not facts a reader has been given.**
+
+### How Volume 8 pays what Volume 7 left
+
+- **The ch 417 refusal is the volume's origin, and it is paid at ch 445.** She would not hear what the fine hand says
+  about her, and **a person who will not hear a thing they were offered in a room is a person who can read it**, and
+  that is how a room full of strangers read it correctly, and it is the reason the Order came to her door. **Her best
+  decision in two volumes is the reason the worst thing that has happened to her is happening, and she is the only
+  person who can say she did not expect it. Nothing is undone, nothing is softened, and ch 417 stands.**
+- **The ch 401 answer is asked at ch 423**, by a stranger with the two lines and the date and the ordinary voice and no
+  name at all. **The last line of Volume 7's protagonist answer — that this would happen — is now a chapter.**
+- **Geng's second column, built at ch 420, is the instrument that catches Yuan at ch 455.** Two dates on one line,
+  four days apart, on a floor sheet east of the turn. **It is her own and it is the volume's engine.**
+- **The ch 418 bill — four people on that floor asking her a question a month — is closed at ch 478**, when they stop.
+
+### What the plan adds
+
+- **The Order of the Recruited**, named once at ch 425, and only ever one building, one book, one rate, one rule.
+- **Xie Changyin**, sixty-one, recruited at nineteen, wrong about one thing and right about nine, and the sixth mouth
+  at ch 477. **She returns in Volume 12 with a budget attached and that budget is not on the page here.**
+- **Merit intercepted off people who are not her**, four times across the volume, and one man east of the turn who does
+  not come back from a listing at ch 460. **It is Yuan's act and she finds out four days late.**
+- **She makes him stop at ch 462**, out loud, on the boards, and takes nothing from him for eighty-four days.
+- **The bill at ch 466**, in a number, unasked, once, and it is worse than she thought. **She does not forgive him and
+  she does not tell him to stop, and the year is not mentioned once in fifty-eight chapters.**
+- **Nascent Soul 9 at ch 470**, and the cost: **there is nothing above her and the way out is a document she has not
+  opened.** The relicensed licence stops being a piece of paper she is carrying and becomes the only door in the world,
+  **and Volume 8 does not open it.**
+- **The refusal at ch 474**, on the record, with her name in it.
+- **The silence at ch 478**: nothing on nine days of road wants anything from her at all, and she waits anyway.
+
+### What the plan explicitly adds to *do not do*
+
+- **Do not let the Order become a hall, a sect, a conspiracy, a court or a throne.** One building, one book, one rate,
+  one rule, one lamp on every table.
+- **Do not show a budget.** That is Volume 12's.
+- **Do not let the Order explain why a bounded world needs readers.** The tenth part is not given and nothing proves
+  the crews wrong.
+- **Do not name an office**, and do not name a department, a floor, a rank or a wing of anything.
+- **Do not put a bracket anywhere but ch 434 in Batch 0001 and ch 470 in the volume.**
+- **Do not mention the year of non-forgiveness once.** The bill at ch 466 is a bill and not a forgiveness.
+
+### The sixteen findings of the Volume 7 close
+
+**Unchanged and still owned by a repair phase. F1–F7, the seven that are defects on the page, are now carried as
+`## PHASE ZERO` at the head of `workspace/volume-08-batch-0001/PROMPT.md`, with the file and the line of each and the
+one thing not to do while fixing it.** F8–F13 are state-file figures already corrected at
+`state/continuity.md` §*Volume 7 close — the volume as a whole* and are to be verified. F14 is a false claim in
+`outline/volume-07.md`, which is not to be re-planned by anything. **No thread in this file is affected by any of the
+sixteen and none is retired by the Volume 8 plan.** The audit of why the planning phase opened ahead of the order is
+at `state/current.md` §*Volume 8 planning — the deviation, and where the sixteen findings went*.
