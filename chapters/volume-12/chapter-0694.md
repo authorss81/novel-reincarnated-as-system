@@ -68,7 +68,9 @@ That is the part he does not like and he does not go round it. She wrote a shape
 
 So the only person in the world who has ever been able to keep a shape is the one who cannot be given one.
 
-And he asks himself, in a place with no floor in it, what exactly that means, and it means this: there is no instrument in this world that will give a thing to her. Not a rate, not a roll, not a room, not a name. She has been offered two shapes in nine years and refused both and neither of them was refused out of principle. One was the fifth line of a sheet read out loud in a room at the fourth hour of the third of the month beginning 1,304, and a man of sixty-one wrote one line and the date in the ordinary hand, and no hand in that building has taken it out since. The other was a question asked standing up on a floor, and she asked that one herself.
+And he asks himself, in a place with no floor in it, what exactly that means, and it means this: there is no instrument in this world that will give a thing to her. Not a rate, not a roll, not a room, not a name. She has been offered two shapes in nine years and refused both and neither of them was refused out of principle.
+
+One was the fifth line of a sheet read out loud in a room at the fourth hour of the third of the month beginning 1,304, and a man of sixty-one wrote one line and the date in the ordinary hand, and no hand in that building has taken it out since. The other was a question asked standing up on a floor, and she asked that one herself.
 
 And so the only shape that has ever been kept for anybody in eleven hundred years is one somebody wrote for themselves and then carried.
 

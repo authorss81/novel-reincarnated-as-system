@@ -10,7 +10,9 @@ Planning is a different thing and it took her six days and it is the first time 
 
 The twenty-second, the twenty-third, the twenty-fourth, the twenty-fifth, the twenty-sixth and the twenty-seventh of the month beginning 2,144.
 
-The ground is four miles long from the south end of it to the north end, and after the north end it is the gate and two miles of flat with nothing at all to lie down on, and then the wall standing open four feet and a bit, and she went over that leg in thirteen days with a strap on the bar and she did not count the leg between the wall and this ground then and she is not going to count it now. And then there are thirteen miles of store road from the wall to a turn, and she has been over every yard of that road and she knows it to the fence on the north side that goes on for a mile and then stops.
+The ground is four miles long from the south end of it to the north end, and after the north end it is the gate and two miles of flat with nothing at all to lie down on, and then the wall standing open four feet and a bit, and she went over that leg in thirteen days with a strap on the bar and she did not count the leg between the wall and this ground then and she is not going to count it now.
+
+And then there are thirteen miles of store road from the wall to a turn, and she has been over every yard of that road and she knows it to the fence on the north side that goes on for a mile and then stops.
 
 The strap is gone. It parted at the second hour of the fifth of the month beginning 2,084, six miles east of the turn, and there has been no strap since, and every lift and every set-down has cost her between twenty-two and fifty-four counts, and she has done it four hundred times in a month without counting them.
 

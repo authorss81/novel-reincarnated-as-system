@@ -5430,8 +5430,14 @@ people in it and a board at the north end of it.** Full record in `state/continu
 **VOLUME 12 BATCH 0002 IS ON THE PAGE AND HAS BEEN THROUGH REVIEW AND REPAIR — ch 676–690, fifteen chapters, 28,894 words
 of body prose on method B (every line not beginning `#`, counted per file and summed), average 1,926, day 2,091 to day
 2,140.** Drafted against `outline/volume-12.md` and against `workspace/volume-12-batch-0002/PROMPT.md`. **The volume now
-stands at 58,794 words over thirty chapters at average 1,960**, Batch 0001 29,900 and Batch 0002 28,894. Next: **Volume 12
+stands at 58,834 words over thirty chapters at average 1,961**, Batch 0001 30,000 and Batch 0002 28,834. Next: **Volume 12
 Batch 0003**, ch 691–705, against `workspace/volume-12-batch-0003/PROMPT.md`.
+
+*CORRECTED IN PLACE BY THE VOLUME 12 PLANNING REVIEW FIX. Three figures in the paragraph above do not reproduce and were
+re-measured per file on the page: **Batch 0002 is 28,834 over fifteen at average 1,922, Batch 0001 is 30,000 at average 2,000, and
+the thirty chapters are 58,834 at average 1,961.** The **28,894**, the **29,900**, the **58,794** and the **58,704** that
+`state/continuity.md` carried for the same thirty chapters are all wrong and none of them may be quoted again. **Nothing else in
+this block moved.** The full record is at `state/continuity.md` §*VOLUME 12 PLANNING — REVIEW FIX*.
 
 *Corrected in place by the Volume 12 Batch 0002 REVIEW REPAIR, which cleared six hard errors — the stage's location
 contradicted in three places, one event given two different ages, two unearned boasts at ch 690, the board counted three
@@ -5498,3 +5504,76 @@ The pre-repair figures 28,804 and 1,920 are the old page and must not be quoted 
 - **Next phase:** **VOLUME 12 BATCH 0003 — `workspace/volume-12-batch-0003/PROMPT.md`, ch 691–705, the firsts.** The review
   corrected one figure in it: ch 705's card called the sixth first, day 2,234, *the twenty-third day of this chapter's span*
   over a span of 2,230–2,240, and it is **the fifth day**. Nothing else in that prompt moved and no second phase was made.
+
+---
+
+## What is actually on the page at ch 705 — VOLUME 12 BATCH 0003 IS DRAFTED AND WAS DEFERRED BEFORE IT WROTE ANY STATE FILE (read this before the ch-690 block above)
+
+**This is the newest position in the manuscript and it is not a closed batch. The last CLOSED position is `## Who is where at
+end of chapter 690` above; read it next, because everything Batch 0003 inherited is in it.** This block exists because the batch
+ran, wrote its fifteen chapters, wrote none of its state, and was deferred — rate-limited — before it did. **The prose exists. The
+record of it did not, and this block is a measurement of the files, not a phase's own account of its work.**
+
+**WHAT IS ON DISK.** `chapters/volume-12/chapter-0691.md` through `chapter-0705.md`. **Fifteen chapters, 29,202 words of body prose
+on method B — every line not beginning `#`, counted per file and summed — average 1,947, day 2,141 to day 2,240.** Per file:
+691 2,097 · 692 1,867 · 693 2,332 · 694 1,841 · 695 1,891 · 696 2,283 · 697 1,950 · 698 1,746 · 699 1,853 · 700 1,780 ·
+701 1,886 · 702 1,917 · 703 1,845 · 704 2,209 · 705 1,705. Fifteen titles, **no collision anywhere in seven hundred and five
+chapter headings.** Zero bracketed layer lines, zero bold, zero italic, zero tables, blockquotes or rules; **all fifteen files carry
+no trailing newline, as every Volume 12 file does.** `nobody` 2 · `eleven` 8 · `thank` 0 in the batch; over forty-five chapters
+`nobody` 18 · `eleven` 28 · `thank` 0. **The volume stands at 88,036 over forty-five chapters, average 1,956** — Batch 0001
+30,000 · Batch 0002 28,834 · Batch 0003 29,202.
+
+**WHERE SHE IS AT THE LAST PAGE OF ch 705.** Day 2,240, the seventh of the month beginning 2,234, the **ninth hour**, **at the
+broken wall**, a day and a bit east of the north end of that ground, on the east side of it, in daylight, with the bar lying along
+the ground at the foot of it. **The sixth first of eight went past six days ago**, at the first hour of that month, while she was
+standing there, and **there are fourteen people in the rows now and there were nine, and she has told none of them anything.** She is
+**IMMORTAL VESSEL
+2, taken at ch 702, day 2,206**, and the stage named itself in the ordinary prose with no bracket and no panel. Four fingers and a
+thumb, a bar nine feet nine with no strap on it, an arm open four days in five, four counts of breath with seven on a rise,
+**six hundred and eighty days lighter and not one of them gone back, not hungry.** Against her ribs the same one object; the four
+sheets are still in a locked drawer and the five blank leaves are still blank.
+
+**WHAT THE FIFTEEN CHAPTERS DID, in order.** She lived three days inside a record that is being kept of her out loud and worked
+out that a record said out loud is a thing she cannot check against a page · the third first went by and she was not at the frame,
+and a **nine-inch strip of blank paper came east out of the machinery above the line and there is no form on it she can be given**
+· **the eighth frame scene at ch 694**, and the finding in it is that a shape is a thing that has to be kept by somebody, and he
+has decided to ask her to keep one and **cannot say the day** · she worked her own total out over six days on paper she made by
+hand out of rags and **said it out loud standing in daylight at ch 697: four days and one hour and twelve minutes, eighty-one lines
+and the eighty-first was the day she said it on** — that is Batch 0003's irreversible step and it cannot be un-said · seven days
+inside a number she has said out loud, in which she answers her own ch 665 asking by accident, out loud: the answer is no, and the
+question was wrong · the fourth first went up in front of her at the frame, and on the board she saw, for the first time in her
+life, what a name in a column is worth — **a fifth of a day of the days that name had in it, every name, every month** — and the
+figure under every one of them · she went west, out through the gate and across two miles of flat with nothing to lie down on, to the two posts, where the
+slate has been wiped and put back with her name on it and nothing has been taken off it that she can see · **Immortal Vessel 2 at
+ch 702, seventy-eight days and not seventy, and its cost
+named once — she cannot be met where she is expected** · the cost carried at scale, a stage that nobody could come and find ·
+**ch 704, the hardest chapter in the volume: a number she can work out is a number two hundred people on a row can work out, and
+she does not go and tell them and she does not stop counting, and it is not resolved** · and **ch 705, the sixth first going past
+at a wall with the seventh twenty-four days off.**
+
+**WHAT THIS BLOCK IS NOT.** It is not a review. The batch has been through no review of its own; `state/continuity.md` carries no
+*Established facts, Volume 12 Batch 0003* section and this block does not stand in for one. **Do not quote the established facts of
+this batch from here — quote the chapters.**
+
+**WHAT THE NEXT DISPATCH OF THIS PHASE MUST DO, IN THIS ORDER.** **1.** Do not draft ch 691–705 again; they are on the page.
+**2.** Write the state the batch owes: `state/current.md`, `state/continuity.md` (established facts, construction budget, ledger),
+`state/open-threads.md`, `state/chapter-summaries.md`, `state/book-metadata.md`. **3.** Review the batch against its fifteen cards and
+against the outline and repair what is wrong on the page, in the manner of `state/continuity.md` §*VOLUME 12 BATCH 0002 — REVIEW
+REPAIR*, and clear the fifteen paragraphs in the 91-to-111 band named in that section. **4.** Create **exactly one** next phase,
+`workspace/volume-12-batch-0004/PROMPT.md`, ch 706–720, days 2,241–2,300, *what is written on it*. `workspace/volume-12-batch-0003/PROMPT.md`
+now opens with a RESUME section carrying these figures and these four steps.
+
+**WHAT BATCH 0004 INHERITS, and none of it may be re-derived:** the seventh first at **2,264** and the eighth at **2,294** — **two
+firsts in that band, not three** · she goes back to the two posts at ch 706 and **the seventh first goes by at ch 711 with her still
+below the line** · **Immortal Vessel 3 at ch 716, day 2,290**, and its cost applied and not re-derived: she cannot be counted where
+she stands, in the mouth of the man of sixty-five with the book and never in hers · **the eighth first at ch 717 and the line and
+the hand**, ten days and twenty-one hours and thirty-six minutes, nineteen words, true, with three fingers and a thumb at the last
+page · **the harvest at ch 718 takes a board and not a person**, and that is Batch 0004's irreversible step · **ch 719–720, the
+stair and the threshold** · Shuyin once, past her and not to her, and the Hunter second, and **Ning Wu's second Volume 12 appearance
+at ch 713** · the man with the shut notebook's second Volume 12 appearance · the two thousand nine hundred and twenty, unattributed
+· the bill for Court, open, and **the fifth term still running** · **the fourteen in the rows, and she has told none of them** ·
+***twenty-two days*, unplaced** · **how far the rows sit past the wall, open**, and the batch's own three statements of the turn-to-
+frame leg are unreconciled and are named in the continuity record.
+
+- **Next phase:** **VOLUME 12 BATCH 0003 — `workspace/volume-12-batch-0003/PROMPT.md`, ch 691–705 — resume, not a fresh draft.**
+  The fifteen chapters are on the page and this phase owes them their state, their review and one next card.

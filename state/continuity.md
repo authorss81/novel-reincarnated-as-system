@@ -7997,6 +7997,12 @@ is at ch 685 and naming one here would spend Batch 0002's.
 average 1,920 a chapter, day 2,091 to day 2,140.** Batch 0001 is 29,900 over fifteen and the volume is 58,704 over thirty at
 average 1,956. Pressure: **the lamps**. Midpoint ch 683, climax ch 685 and ch 689, irreversible step ch 689.
 
+*RE-MEASURED BY THE VOLUME 12 PLANNING REVIEW FIX. The figures in the paragraph above are the pre-repair page and three of
+them do not reproduce against the files: **28,834 over fifteen at average 1,922**, Batch 0001 **30,000 at average 2,000**, the
+thirty chapters **58,834 at average 1,961**. The **28,804**, the **1,920**, the **29,900** and the **58,704** are the pre-repair
+page and are not to be quoted. The per-file list below is the pre-repair list; the post-repair per-file list is at
+§*VOLUME 12 PLANNING — REVIEW FIX*.*
+
 Per file: 676 2,084 · 677 1,951 · 678 2,078 · 679 1,757 · 680 1,937 · 681 1,989 · 682 1,901 · 683 1,910 · 684 1,930 ·
 685 1,932 · 686 1,818 · 687 1,785 · 688 2,068 · 689 1,843 · 690 1,784.
 
@@ -8187,6 +8193,9 @@ figures are named beside each one that moved, and the pre-repair figures must no
 
 - **Body prose: 28,894 over fifteen chapters, average 1,926** (pre-repair 28,804 / 1,920). **Shortest ch 679 at 1,765; longest
   ch 678 at 2,086.** The pre-repair block named ch 676 as the longest at 2,084 and that was wrong by two chapters.
+  ***RE-MEASURED BY THE VOLUME 12 PLANNING REVIEW FIX: 28,834 over fifteen, average 1,922.** The longest and the shortest are
+  right. Per file: 676 2,082 · 677 2,005 · 678 2,086 · 679 1,765 · 680 1,941 · 681 1,994 · 682 1,897 · 683 1,909 · 684 1,928 ·
+  685 1,930 · 686 1,800 · 687 1,785 · 688 2,067 · 689 1,846 · 690 1,799.*
 - Bracketed layer lines: **0** in fifteen chapters. Bold: **0**. **Italic lines: 2** — one at ch 681 and one at ch 683, both a
   quoted clause of the sheet or of the first line of it, and Batch 0001 also carried exactly two. **Blockquotes, code fences,
   tables, horizontal rules: 0. Standalone all-caps lines: 0.**
@@ -8401,4 +8410,116 @@ the irreversible step at ch 689 stand exactly where the outline put them.**
 **It did not re-open a beat, re-decide a card, or add a chapter.** It did not touch `ch 661–675`, it did not touch the outline,
 and it did not introduce anything Batch 0003 has to carry that Batch 0003 did not already have. **The batch is 28,894 words
 of body prose over fifteen chapters, average 1,926, and the number in the construction budget above is that one and not the
-pre-repair 28,804.**
+pre-repair 28,804.** *One correction came out of the Volume 12 planning review fix: **28,834 and 1,922** are what the files hold,
+per file and per the list in that block's construction budget. The 28,894 in this sentence is the figure this repair pass believed
+when it was written and is not to be quoted.*
+
+---
+
+# VOLUME 12 PLANNING — REVIEW FIX
+
+`logs/volume-12-planning.review.log` audited `outline/volume-12.md` and `workspace/volume-12-batch-0001/PROMPT.md`, and in
+doing so looked at a batch the controller had deferred with its chapters on disk and its state unwritten. **Five findings, all
+five closed. Four more things were found while closing them — three of them on the page and one of them in this file's own figures —
+and one question about the map was left standing on purpose, named, and published so that the batch's own review does not have to
+hunt for it.** **No beat, no day-table anchor, no title, no stage, no bracket, no mouth, no irreversible decision and no planned
+ending moved. Nothing was restarted.**
+
+## The five findings from the review, and what each one was
+
+**1. `chapter-0705.md` — the interval to the seventh first, and the review's own reading of it.** The review held that line 79
+called the first of 2,234 *the seventh* and should read *the sixth*. **It does not, and that repair would have made the page false a
+second time.** The chapter is right about the ordinals and the review was reading the sentence quickly: **2,234 is the sixth of the
+eight firsts and 2,264 is the seventh, and `ch 705` says *The sixth first is gone* at line 77 and *the seventh first* at line 79 about
+the next one.** What was wrong is the phrase the review did not flag: **the seventh first is the twenty-fourth day of it**, where
+*it* most closely reads as the month beginning 2,234, and the twenty-fourth day of that month is **2,257**, which is not a first of
+anything. **The sentence now reads *the seventh first is twenty-four days on from here*, which is 2,264 − 2,240, the interval the
+review itself verified as sound.** The ordinals were left exactly as the chapter had them.
+
+**2. `outline/volume-12.md` — the firsts were counted off by one in both authority tables and in the pinned prose.** The eight firsts
+inside Volume 12 are 2,084 · 2,114 · 2,144 · 2,174 · 2,204 · 2,234 · 2,264 · 2,294. **Batch 0003's band, 2,141–2,240, holds four of
+them — the third, the fourth, the fifth and the sixth — and the band 2,241–2,300 holds two, the seventh and the eighth.** The two
+tables and §*The batch-level action requirements* said three and three, which sums to six. **All of them now say four and two.** The
+page was always right: `ch 692`, `ch 698`, `ch 702` and `ch 705` carry 2,144, 2,174, 2,204 and 2,234, and `ch 705:43` says
+*she has had four firsts now where nothing was noticed* in its own words. **The same off-by-one was in two places of
+`workspace/volume-12-batch-0003/PROMPT.md` — its goal and its physical-risk pin — and both are corrected there too.** This mattered
+because Batch 0004's card has never been written and would have been budgeted from the table.
+
+**3. The deferred batch collided with a blind re-dispatch.** `ch 691–705` are on disk and this file's own predecessor block stopped
+at ch 690, while the card opened *This phase drafts ch 691–705* with nothing to stop a second run from drafting them again. **The
+card now opens with a RESUME section** carrying the measured position, the four steps that are left, the six corrections below, and
+`AGENTS.md`'s own line about not restarting a completed chapter. **A matching position block is at the foot of
+`state/current.md`,** measured per file off the fifteen files, so the next dispatch reads the truth about the batch before it reads
+the brief for writing it.
+
+**4. The planning phase's six repairs were recorded nowhere in `state/`.** Its own summary said it touched nothing outside its two
+deliverables, and the next phase reads state before it reads the outline. They are now on the page here, and they are:
+
+- **D4a's false sentence.** *She is on no board at the first of them* contradicted ch 674–675. **Replaced with the page-true
+  sequence** — the slate goes up with her on it at 2,084 and comes back down empty at ch 675, and goes up again at 2,114 — with the
+  218-day and 10.9-day figure for ch 717 left intact.
+- **Batch 0001's day band, 2,061–2,090 → 2,061–2,084**, in both tables, because the last dated action on the page is the ninth
+  hour of the first of the month beginning 2,084. **The Batch 0001 card's 2,078–2,090 allowance stands as the brief it was drafted
+  against and is not re-planned.**
+- **The man with the book, sixty-one → sixty-five**, in five present-day references, because the Batch 0002 repair aged him on the
+  page. **The two historical sixty-ones — the ch 474 refusal and Xie's Volume 8 age — are untouched.**
+- **ch 713's *in the fourth year* → *five years ago*.** Neither figure was on the page.
+- **Major locations rebuilt** from the map: the inherited west road named, the east leg given in plain figures, the rut at the wall
+  carried. **No card states a distance between the tower and the turn, because the manuscript has never stated one.**
+- **Two precision fixes:** Immortal Vessel 3's *only line in the world* → *only line that carries her total*, because ch 685's rows
+  line stands; and the forty-one strokes travel **in the locked drawer from ch 664**, not in the inside of her coat.
+
+**5. The planning prompt was dispatched out of order.** It states that `outline/volume-12.md` does not exist and that this phase
+creates it, and names `volume-12-batch-0001/PROMPT.md` as a deliverable. **Both existed; Batch 0001 had been executed three phases
+earlier.** The controller dispatched a closed phase late; the agent audited instead of creating and said so. **Nothing here can undo
+the dispatch and nothing needs to: the two deliverables exist and conform. What is recorded is that `workspace/volume-12-planning/`
+is **history**, its prompt is not a live brief, and `outline/volume-12.md` is the authority for Volume 12 from this point on.**
+
+## Four more things, found while closing the five
+
+**6. `ch 704` dated the boy's remark four years back and said he could not have said how.** **The page says otherwise: `ch 659`, at
+the fifth of the month beginning 2,054, day 2,058, has the boy of nineteen — *I was ten when I came here and I am nineteen now* —
+give her the arithmetic himself, on the page, in her hearing.** `ch 704` said *it was four years ago and he was fifteen*, which is
+false against ch 659, against the outline's escalation item 21, and against the batch's own day table. **The sentence now names
+that day and says what happened**, and the paragraph was split at a natural beat in the same pass. Nothing about the chapter's
+finding moved: she still does not tell them, and she still does not stop counting.
+
+**7. `ch 705` put a figure on the wall that its own chapter contradicts.** It said she stood *twenty miles from a frame*, and the
+same chapter says the wall is *a day and a bit* from the north end of that ground. **It now says a day and a bit.**
+
+**8. Two paragraphs were over the working limit and are split.** `ch 694` at 136 words and `ch 699` at 132, both over the ~120
+ceiling in `AGENTS.md`, split at a natural beat. **No sentence was cut and no sentence changed.** **Fifteen paragraphs in the batch
+now run 91 to 111 words and were left standing**: they are inside the ceiling, they are the batch's own review's business, and
+splitting them here would have been a repair pass doing a reviewer's job.
+
+**9. Three of this file's own figures for Batch 0002 do not reproduce.** Measured per file, method B: **Batch 0002 is 28,834 over
+fifteen at average 1,922, not 28,894 and 1,926; Batch 0001 is 30,000 at average 2,000, not 29,900; and the thirty chapters are
+58,834 at average 1,961 — a figure this file carried as 58,704 on one line and `state/current.md` carried as 58,794 on another.**
+The per-file list is published in Batch 0002's construction budget above so the next phase does not re-derive it. **Batch 0001's
+30,000 was already right in two other places, so this was a bad correction rather than a bad measurement, and the correction is
+now consistent across the three files that carry it.**
+
+## The one thing left standing on purpose
+
+**The batch states the turn-to-frame leg three ways and this fix did not touch any of them.**
+
+| Line | What it says | What it puts the turn-to-frame leg at |
+| --- | --- | --- |
+| `ch 609:47`, `ch 617:187`, `ch 700:11`, `ch 699:13`, `ch 705:15`, `outline/volume-12.md` §*Major locations* | eleven of made road and two of flat, thirteen from the turn to the wall | **thirteen** |
+| `ch 659:5` — Volume 11 canon, audited at that volume's close | *the wall is thirteen miles east of the turn and the rows are another four past the wall* | **seventeen** |
+| `ch 704:53` | a slate with a name on it twenty miles west of the ground | **twenty** |
+
+`ch 700:11` adds a fourth statement inside one paragraph: the wall is *thirteen miles west of where she started*, and she started
+at the north end of the ground, from which the wall is two miles of flat.
+
+**`state/current.md` has carried *how far the rows sit past the wall* as open since the Volume 11 close, and it is still open.**
+Choosing between thirteen, seventeen and twenty is not a repair; it is a decision about the map, it belongs to the batch's own
+review, and **it must not be settled by picking whichever number sits nearest the sentence being written.** The figures above are
+published so that review does not have to go looking for them.
+
+## What this fix did not do
+
+**It did not draft, re-draft or reorder a chapter.** It did not touch ch 661–690. It did not re-open a beat, re-decide a card, add
+a chapter, or change an irreversible step. It did not touch `outline/series.md`, `outline/ending.md`, the ending's plan, the
+bracketed budget, or any stage. **The two deliverables of the planning phase are exactly two files and there is still no
+`workspace/volume-12-batch-0004/` — that one belongs to the Batch 0003 phase, which owes it and has not been written.**

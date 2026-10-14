@@ -3078,6 +3078,8 @@ any of them.**
 
 **Fifteen chapters, 28,804 words of body prose on method B, average 1,920, day 2,091 to day 2,140. Pressure: the lamps.
 Full record in `state/continuity.md` under ***VOLUME 12 BATCH 0002 — the lamps, ch 676–690***.**
+*Both figures above are the pre-repair page. **Re-measured per file, it is 28,834 at average 1,922**, and the thirty chapters of the
+volume are 58,834 at average 1,961.*
 
 ## Where she is at the last page, in one line
 
@@ -3160,3 +3162,35 @@ this file's threads, and a drafting phase that reads this file must not inherit 
 
 **Nothing else in this file moved. The open threads, the unspent list, the three things Batch 0003 must not inherit as clean
 prose, and the irreversible list are exactly as the drafting phase left them.**
+
+## VOLUME 12 PLANNING — REVIEW FIX, and what a drafting phase must not inherit from the pre-fix page
+
+`logs/volume-12-planning.review.log` raised five findings against `outline/volume-12.md` and the Batch 0001 card; all five are
+closed and the full record is in `state/continuity.md` under *VOLUME 12 PLANNING — REVIEW FIX*. **The six repairs the planning
+phase made to the outline are recorded there for the first time, and four more things were found and fixed while closing the
+findings.** Five of these touch threads a drafting phase reads:
+
+1. **THE FIRSTS ARE FOUR IN BATCH 0003 AND TWO IN BATCH 0004.** The eight are 2,084 · 2,114 · 2,144 · 2,174 · 2,204 · 2,234 ·
+   2,264 · 2,294. **2,234 is the sixth and it went past inside Batch 0003, at ch 705; 2,264 is the seventh and 2,294 is the
+   eighth, and both are Batch 0004's.** The outline's two tables and the Batch 0003 card all said three and three, which sums to
+   six. **Any count of firsts, any interval between two of them, and any card span written from the old tables is wrong.**
+2. **THE MAN WITH THE BOOK IS SIXTY-FIVE**, not sixty-one, in every present-day reference. He is on the page as sixty-three and
+   sixty-five across ch 681–690. **The two historical sixty-ones are other events and did not move.**
+3. **`ch 713` says *five years ago*** about his own total, not *in the fourth year*. Neither figure was on the page.
+4. **THE FORTY-ONE STROKES TRAVEL IN THE LOCKED DRAWER FROM ch 664**, up and down the tower stair with the four sheets. **They are
+   not in the inside of her coat against her ribs and no Volume 12 chapter looks at the margin again.**
+5. **THE MAP IS STILL OPEN AND IS NOW PUBLISHED IN THREE NUMBERS.** *How far the rows sit past the wall* has been open since the
+   Volume 11 close. `ch 609:47`, `ch 617:187`, `ch 700:11`, `ch 699:13`, `ch 705:15` and the outline put the turn-to-frame leg at
+   **thirteen**; `ch 659:5` puts it at **seventeen**; `ch 704:53` puts it at **twenty**. **No phase may pick one of those three to
+   suit a sentence. The Batch 0003 review adjudicates it, or the volume close does, and until then no card may state that distance.**
+
+**And two figures in this file's orbit that do not reproduce:** Batch 0002 is **28,834 at average 1,922**, not 28,894 and 1,926,
+and the volume's thirty chapters were **58,834 at average 1,961**, carried as 58,704 hereabouts and 58,794 in `state/current.md`.
+**Batch 0001 is 30,000 at average 2,000.** The figures in any pre-fix block are the page as it was believed to be and not a
+measurement.
+
+**WHERE THE MANUSCRIPT ACTUALLY IS.** **`ch 691–705` are on the page, written, and unreviewed, and this file does not yet carry a
+single thread out of them**, because the batch was deferred before it wrote its state. **The position is at the foot of
+`state/current.md`.** The four threads that phase owes and has not written: what the strip from above the line was for · what she
+said out loud at ch 697 and who heard it · the fourteen in the rows she has told nothing · and Yuan's decision at ch 694 to ask her
+to keep a shape he cannot name a day for. **Batch 0003's own review, not this fix, is what turns them into threads.**

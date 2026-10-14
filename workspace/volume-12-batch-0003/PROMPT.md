@@ -1,9 +1,70 @@
 # Volume 12 Batch 0003 — ch 691–705 — PROMPT
 
+## RESUME — THE FIFTEEN CHAPTERS ARE ALREADY ON THE PAGE. DO NOT DRAFT THEM AGAIN.
+
+**`chapters/volume-12/chapter-0691.md` through `chapter-0705.md` exist, are finished prose, and were written by an earlier run of
+this phase that was deferred before it wrote its state files. `AGENTS.md` says it in one line: do not restart a completed
+chapter. **Read them; do not rewrite them, and do not treat any of the fifteen as unwritten when you plan this run.**
+
+**What is measured on the page now, so nothing here has to be re-derived** — body prose is every line not beginning `#`, counted
+per file and summed: **ch 691 2,097 · 692 1,867 · 693 2,332 · 694 1,841 · 695 1,891 · 696 2,283 · 697 1,950 · 698 1,746 ·
+699 1,853 · 700 1,780 · 701 1,886 · 702 1,917 · 703 1,845 · 704 2,209 · 705 1,705 — 29,202 over fifteen, average 1,947**, days
+2,141 to 2,240, fifteen titles with no collision anywhere in the manuscript, zero bracketed layer lines, zero bold or italic
+lines, zero tables, blockquotes or rules, and all fifteen files carry no trailing newline, as every Volume 12 file does.
+
+**What this run is for, in order, and the order is the phase:**
+
+1. **Read ch 691–705.** They hold the four firsts of a month (2,144 · 2,174 · 2,204 · 2,234), the eighth frame scene at ch 694,
+   her own total worked out and said out loud at ch 697, Immortal Vessel 2 and its cost at ch 702, the two-hundred-people
+   chapter at ch 704, and the sixth first going past at ch 705 with her still on this side of the line.
+2. **Write the state files this phase owes and has not written:** `state/current.md` (who is where at the end of ch 705),
+   `state/continuity.md` (established facts, construction budget measured by grep, and the running ledger), `state/open-threads.md`,
+   `state/chapter-summaries.md`, `state/book-metadata.md` and the pointer in `state/INDEX.md`. Take the position, the figures and
+   the inherited debts from **ch 690 on the page** and from this card, not from memory.
+3. **Review the batch against the fifteen cards below and against `outline/volume-12.md`, and repair what is wrong on the page**,
+   in the manner of `state/continuity.md` §*VOLUME 12 BATCH 0002 — REVIEW REPAIR*. A repair fixes the error in place; it does not
+   re-open a beat, re-decide a card or add a chapter.
+4. **Write exactly one next phase: `workspace/volume-12-batch-0004/PROMPT.md`**, ch 706–720, days 2,241–2,300, *what is written
+   on it*, drafted against the outline. Its first job is the seventh first at **2,264** and the eighth at **2,294**, and its band
+   holds **two** firsts and not three. No second directory and no `.done` marker.
+
+**Six things were corrected in this card, in `outline/volume-12.md` and on the page by the Volume 12 planning review fix, and a
+re-dispatch must not revert any of them:**
+
+1. **The firsts are four, not three, and the band proves it.** The card's goal and its physical-risk pin, and three places in
+   `outline/volume-12.md`, said **three**; the band 2,141–2,240 holds **2,144 · 2,174 · 2,204 · 2,234**, all four on the page, and
+   `ch 705` itself says *four firsts now where nothing was noticed*. Batch 0004's band 2,241–2,300 holds **two** — **2,264 and
+   2,294** — and its row no longer says three.
+2. **ch 705's card said the seventh first was *four days off*. It is twenty-four** — 2,264 − 2,240 = 24.
+3. **`ch 705` said *the seventh first is the twenty-fourth day of it***, which reads as the twenty-fourth day **of the month
+   beginning 2,234** — that is day 2,257, and it is not a first of anything. It now reads **twenty-four days on from here**. **The
+   ordinals on that page were checked and are right and were not changed: 2,234 is the sixth first, 2,264 is the seventh, and
+   `ch 705` calls each of them by that name.** The review proposed changing the ordinal; that would have made the page false in a
+   second way and was not done.
+4. **`ch 704` dated the boy's remark to four years ago and said he could not have said how.** The page says otherwise:
+   `ch 659`, at the fifth of the month beginning 2,054, day 2,058, has the boy of nineteen — *I was ten when I came here and I am
+   nineteen now* — give her the arithmetic himself. **The sentence now names that day and says what actually happened.**
+5. **Two paragraphs over the working limit were split at a natural beat** — `ch 694` at 136 words and `ch 699` at 132, both over the
+   ~120 ceiling. **Nothing was cut to do it and no sentence changed.** Fifteen paragraphs in the batch now run 91 to 111 words and
+   are the next review's business, not this one's.
+6. **`ch 705` said she stood *twenty miles from a frame*** — and the same chapter says the wall is *a day and a bit* from the north
+   end of that ground, which is the frame's ground. It now says **a day and a bit from a frame**. **The map behind this was not
+   re-derived, deliberately:** *how far the rows sit past the wall* is carried **open** in `state/current.md` from the Volume 11 close,
+   and this repair does not settle it. **See the standing finding immediately below.**
+
+**AND ONE FINDING THIS FIX DID NOT REPAIR, WHICH THE BATCH'S OWN REVIEW MUST TAKE:** **the batch states the turn-to-frame leg
+three ways.** `ch 705:15` and `ch 699:13` put the wall *thirteen miles* from the turn with eleven of made road and two of flat
+between, which is what `ch 609:47`, `ch 617:187` and `outline/volume-12.md` §*Major locations* all say; `ch 659:5` — Volume 11 canon,
+audited at that volume's close — says *the wall is thirteen miles east of the turn and the rows are another four past the wall*, which
+puts the frame at **seventeen**; and `ch 704:53` puts a slate with a name on it **twenty miles west** of the ground, which puts the
+turn at **twenty**. **Nothing here was changed and no distance was re-derived.** Adjudicating it is the Batch 0003 review's job, with
+`state/continuity.md` carrying *how far the rows sit past the wall* as **open** since the Volume 11 close, and it must not be settled by
+picking whichever number is nearest the sentence being written.
+
 ## What this phase is
 
-**Volume 12 Batch 0002, ch 676–690, *the lamps*, is closed and measured on the page: fifteen chapters, 28,804 words of body
-prose on method B — every line not beginning `#`, counted PER FILE and summed — average 1,920 a chapter, day 2,091 **to day
+**Volume 12 Batch 0002, ch 676–690, *the lamps*, is closed and measured on the page: fifteen chapters, 28,834 words of body
+prose on method B — every line not beginning `#`, counted PER FILE and summed — average 1,922 a chapter, day 2,091 **to day
 2,140 and not one day further.** Zero bracketed layer lines in fifteen chapters, zero bold, zero italic lines, zero straight
 quotes or apostrophes, zero tables, zero retired phrases, zero duplicate section headings, zero authorial scaffolding, and
 `nobody` 10 · `eleven` 13 · `thank` 0 — **all three inside the batch's line, and the directory totals are `nobody` 19 ·
@@ -101,7 +162,7 @@ is permitted to say what the money above the building is for.**
 
 ## Batch goal, midpoint, escalation, climax, irreversible step
 
-**Goal:** let three firsts of a month go past one at a time, hold the eighth frame scene, and work out the one figure nobody
+**Goal:** let four firsts of a month go past one at a time, hold the eighth frame scene, and work out the one figure nobody
 on any ground has ever been told — and then find out what a figure she can work out is.
 
 **Pressure: the firsts**, the word `outline/volume-12.md` fixes for this batch and which this card does not re-plan.
@@ -132,10 +193,10 @@ written at ch 717 and not here. Batch 0003 derives the total she already has at 
 span and the fraction. The two must not be confused and the arithmetic in each must be done from the dates on that page.**
 
 **Physical risk or real deadline, pinned:** **the third first at day 2,144 and the fourth at day 2,174 and the fifth at
-day 2,204 — three dated, un-movable days on which a board goes up and comes back down, and she is twenty miles east of the
-frame.** And the standing one, carried and never re-derived: **nothing between the gate and the wall to lie down on.** And the
-body: **a bar nine feet nine with no strap on it, which costs twenty-two to fifty-four counts every time it goes on or off,
-and an arm that is open four days in five.**
+day 2,204 and the sixth at day 2,234 — four dated, un-movable days on which a board goes up and comes back down, and she is
+twenty miles east of the frame.** And the standing one, carried and never re-derived: **nothing between the gate and the wall
+to lie down on.** And the body: **a bar nine feet nine with no strap on it, which costs twenty-two to fifty-four counts every
+time it goes on or off, and an arm that is open four days in five.**
 
 **What she has to work with:** a bar with no strap, one good arm, two uncountable coppers, a book with five blank leaves, a
 nib and ink, a key to a drawer she is not using, a line in her own hand on a board at the north end of a ground, a name in
@@ -172,7 +233,7 @@ anything above it, and no chapter in this batch spends a bracket.**
 | 702 | 2,175–2,205 | Get to the third of the month beginning 2,204, which is day 2,206 — **and the fifth first, day 2,204, comes and goes two days short of it** | The stage after the first cannot be taken by a person who cannot be met where she is expected | **IMMORTAL VESSEL 2 and its cost, named once: she cannot be met where she is expected** | cost |
 | 703 | 2,206–2,212 | Live inside a cost that has been applied | It is applied and not re-derived and it is the whole of what a stage does to a person this time | The first stage in this ground that nobody could come and find, because there is no way of knowing where to come | cost |
 | 704 | 2,213–2,219 | Work out what a number she can do is worth to two hundred people who can do it too | There is a boy of nineteen in the ground who told her once that if one of them knew there would be nobody left on the rows in a month | **THE VOLUME'S HARDEST CHAPTER: a number she can work out is a number that two hundred people on a row can work out, and she does not go and tell them and she does not stop counting, and that is the cost and it is not resolved** | emotional consequence |
-| 705 | 2,230–2,240 | Carry the number she has said out loud through the last of the firsts in this stretch and get to the west end of the made road with a bar that has no strap | Thirty days, an arm that is open four days in five, and the fifth term still running — **and the sixth first, day 2,234, the fifth day of this chapter's span** | **She does not go and tell the two hundred people anything, and she does not stop counting, and the batch closes on the sixth first going past with her still on this side of the line, and the seventh is four days off and she knows what it is going to cost to be at it** | emotional consequence |
+| 705 | 2,230–2,240 | Carry the number she has said out loud through the last of the firsts in this stretch and get to the west end of the made road with a bar that has no strap | Thirty days, an arm that is open four days in five, and the fifth term still running — **and the sixth first, day 2,234, the fifth day of this chapter's span** | **She does not go and tell the two hundred people anything, and she does not stop counting, and the batch closes on the sixth first going past with her still on this side of the line, and the seventh is twenty-four days off and she knows what it is going to cost to be at it** | emotional consequence |
 
 **THE DAY SPAN IS FIXED BY THE OUTLINE AND NOT BY THIS CARD: 2,141 to 2,240**, and every card above is drafted inside it.
 **ch 705 must end before the seventh first at day 2,264**, which is Batch 0004's, and **the sixth first at day 2,234 falls
@@ -263,7 +324,7 @@ this manuscript has caught itself making six times.**
 - **Paragraphs two to four sentences; break over about 90 words; never over about 120.** **Fifteen chapters,
   27,000–30,000 words of body prose on method B**, no chapter under the 1,300 floor and none above the 2,700 guide without a
   scene that needs it. **Batch 0003 carries this volume's own irreversible step and targets the middle of that band and not
-  the bottom of it**, which is what Batch 0002 did at 28,804 and an average of 1,920.
+  the bottom of it**, which is what Batch 0002 did at 28,834 and an average of 1,922.
 - **Every chapter ends on a question, danger, revelation, decision, reversal, emotional consequence, or unanswered mystery —
   never a neutral action.** Short plain sentences where something is understood. One human sentence after the machinery. No
   re-explanation of a Volume 9, Volume 10 or Volume 11 cost, **and no re-explanation of ch 685's cost.**

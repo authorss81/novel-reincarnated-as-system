@@ -76,7 +76,9 @@ And she did not do it, and she is not going to, and she has three reasons and tw
 
 The first is that she said, at the ninth hour of the eighteenth of the month beginning 2,144, in front of nine people, that she was not going to be the reason there is a second one, and she has been found twice in nine days and she knows what that does to the person it happens to.
 
-The second is that she does not know what it does. She has ruled out four things about a figure on a wall in a building in this county and found the fifth, and she is nineteen and she has one good arm and she does not know what comes off a ground of two hundred people when two hundred people know what they are being counted for. A boy of nineteen told her there would be not one of them left on the rows in a month and he could not have told her how, because it was four years ago and he was fifteen and he said it as arithmetic.
+The second is that she does not know what it does. She has ruled out four things about a figure on a wall in a building in this county and found the fifth, and she is nineteen and she has one good arm and she does not know what comes off a ground of two hundred people when two hundred people know what they are being counted for.
+
+A boy of nineteen told her at the fifth of the month beginning 2,054 that there would be not one of them left on the rows in a month, and he said it as arithmetic out of nine years of his own and there is no how in it she could hand to anybody.
 
 And the third reason is not good and she has said it out loud because she does not do anything else.
 

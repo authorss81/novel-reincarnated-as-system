@@ -590,8 +590,8 @@ was not asked for hears it, and cannot repeat it, and four people who were in th
 | --- | --- | --- | --- | --- |
 | 0001 | 661–675 (15) | 2,061–2,084 | **the stair** | she goes back up four flights to a building with a lamp burning in a cage in it that ought not to be burning · **she asks at ch 665 whether a person can be announced without being designated** · **the room at the top is empty at the midpoint and that is the answer, and it is the wrong one** · **and at ch 674 she goes on a board, after eleven volumes off every board in the world, and it cannot be un-done** |
 | 0002 | 676–690 (15) | 2,091–2,140 | **the lamps** | **she goes east past the broken wall to a building with lamps in it** · **Xie Changyin reads a sheet to her again and she says no again, and this time she says it with a figure in her hand** · **the budget at ch 683** · **Immortal Vessel 1 at ch 685 and its cost** · **he takes Court at ch 687** · **and at ch 689 she lets him keep the record, and that cannot be un-agreed** |
-| 0003 | 691–705 (15) | 2,141–2,240 | **the firsts** | **three firsts of a month pass, the third the fourth and the fifth, and each one the board goes up** · **the eighth frame scene at ch 694** · **at ch 697 she works out her own total, which nobody on any ground has ever been told** · **Immortal Vessel 2 at ch 702 and its cost** · **and the volume's own hardest chapter, which is that a number she can work out is a number two hundred people can work out** |
-| 0004 | 706–720 (15) | 2,241–2,300 | **what is written on it** | **she goes back to the two posts** · **three more firsts, and the seventh of them is the last one that passes with her still below the line** · **Immortal Vessel 3 at ch 716** · **the eighth first at ch 717 and the line, and the hand** · **the harvest at ch 718 takes a board and not a person** · **and she goes up a stair and the volume ends on a step it does not finish** |
+| 0003 | 691–705 (15) | 2,141–2,240 | **the firsts** | **four firsts of a month pass, the third the fourth the fifth and the sixth, and each one the board goes up** · **the eighth frame scene at ch 694** · **at ch 697 she works out her own total, which nobody on any ground has ever been told** · **Immortal Vessel 2 at ch 702 and its cost** · **and the volume's own hardest chapter, which is that a number she can work out is a number two hundred people can work out** |
+| 0004 | 706–720 (15) | 2,241–2,300 | **what is written on it** | **she goes back to the two posts** · **two more firsts, the seventh on day 2,264 and the eighth on 2,294, and the seventh is the last one that passes with her still below the line** · **Immortal Vessel 3 at ch 716** · **the eighth first at ch 717 and the line, and the hand** · **the harvest at ch 718 takes a board and not a person** · **and she goes up a stair and the volume ends on a step it does not finish** |
 
 **No two consecutive batches run the same pressure.** None of them is a recruiting, a seduction, a keeping that is a wage-book,
 a debt, a family paper, an ash, a ration, a hiring, a tending, a crossing of a wall, an audit, an examination, a hunt, a
@@ -647,7 +647,8 @@ not a licence to move it.**
     left on the rows in a month.** **She does not go and tell them and she does not stop counting, and that is the cost of the
     volume's discovery and it is not resolved.**
 22. **Immortal Vessel 2 at ch 702, day 2,206**, and the cost, named once: **she cannot be met where she is expected.**
-23. **She goes back to the two posts at ch 706**, and the seventh first passes at ch 709 with her still below the line.
+23. **She goes back to the two posts at ch 706**, and the seventh first, day 2,264, goes by at ch 711 with her still below the
+    line.
 24. **Immortal Vessel 3 at ch 716, day 2,290**, and the cost, applied and not re-derived: **she cannot be counted where she
     stands.**
 25. **The eighth first at ch 717, day 2,294** — she writes the line with the right hand on a board in daylight, with the date
@@ -1033,7 +1034,7 @@ without the command that produced it in the same sentence is not a figure at all
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0001 | 661–675 (15) | 2,061–2,084 | **the stair** | put her back inside a building with a lamp burning in it that ought not to be burning, find out what an announcement needs, and get her onto a board | ch 668 — **the room at the top of the stair is empty and has been empty, and there is nothing to receive an announcement and nobody to receive it, and those are the same fact** | ch 674 — **her name and her days go into a column on the turn's board** | **ch 674 — she goes on a board after eleven volumes off every board in the world, and the levy can now reach her, and it cannot be un-done** |
 | 0002 | 676–690 (15) | 2,091–2,140 | **the lamps** | go east past the broken wall, be read a sheet again and refuse it again, read a budget aloud in a room with the shutters up, and take the first stage past the last working point | ch 683 — **the budget, and the finding that the rate is a line under a total and the difference is not on any sheet in the building** | ch 685 — **Immortal Vessel 1 and its cost** · ch 687 — **he takes Court** · ch 689 — **she lets him keep the record** | **ch 689 — she agrees out loud, standing, in daylight, to be written down by the thing that was made to record her, and a document agreed to in daylight is not a document that can be taken back** |
-| 0003 | 691–705 (15) | 2,141–2,240 | **the firsts** | count the third, the fourth and the fifth firsts of a month down, hold the eighth frame scene, and work out the one figure nobody on any ground has ever been told | ch 697 — **she works out her own total** | ch 702 — **Immortal Vessel 2 and its cost** · ch 704 — **the chapter where a number she can work out is a number two hundred people can work out** | **ch 697 — she works out her own total and says it out loud in daylight where people are, and nobody has ever been told one, and it cannot be un-said** |
+| 0003 | 691–705 (15) | 2,141–2,240 | **the firsts** | count the third, the fourth, the fifth and the sixth firsts of a month down, hold the eighth frame scene, and work out the one figure nobody on any ground has ever been told | ch 697 — **she works out her own total** | ch 702 — **Immortal Vessel 2 and its cost** · ch 704 — **the chapter where a number she can work out is a number two hundred people can work out** | **ch 697 — she works out her own total and says it out loud in daylight where people are, and nobody has ever been told one, and it cannot be un-said** |
 | 0004 | 706–720 (15) | 2,241–2,300 | **what is written on it** | go back to the two posts, take the third stage, write the line, and go up the stair before the eighth first closes | ch 711 — **the seventh first goes by with her still below the line** | ch 716 — **Immortal Vessel 3** · ch 717 — **the line, and the hand** · ch 718 — **the harvest takes a board and not a person** · ch 719–720 — **the stair and the threshold** | **ch 718 — the designation is carried up on a board in her own hand instead of collected off her, and the levy takes the writing, and there is no instrument in this world that takes a line out of a book that has already gone up a stair** |
 
 **This table is the same table as *Pressure rotation across the volume* above and says the same thing. Where two copies of an
@@ -1056,10 +1057,10 @@ stair; none restates another's as its own.**
 - **Batch 0002** — **a twenty-mile walk east past a broken wall into the real realm and two nights on the flat with nothing to lie
   down on between the gate and the wall, and a room with the shutters up where a sheet is read aloud to her a second time in
   her life** — and the physical card: **four counts of breath in a building where everybody else is breathing normally.**
-- **Batch 0003** — **three firsts of a month going past one at a time, the third on day 2,144, the fourth on 2,174 and the fifth
-  on 2,204, each of them a dated, un-movable deadline she does not meet** — and the physical card: **six days of arithmetic on a
-  bar with a hand that cannot write a false line, and the finding at ch 704 that the arithmetic is a thing other people can
-  do.**
+- **Batch 0003** — **four firsts of a month going past one at a time, the third on day 2,144, the fourth on 2,174, the fifth
+  on 2,204 and the sixth on 2,234, each of them a dated, un-movable deadline she does not meet** — and the physical card:
+  **six days of arithmetic on a bar with a hand that cannot write a false line, and the finding at ch 704 that the arithmetic
+  is a thing other people can do.**
 - **Batch 0004** — **one line written outdoors at the first hour on an arm that was open** — and nothing happens at the eighth
   first that anybody could call an attack, and **a harvest that arrives on schedule and takes a piece of paper, and a stair of
   eight flights climbed on the arm that was open an hour before.**

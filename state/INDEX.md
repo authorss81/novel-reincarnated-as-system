@@ -154,10 +154,30 @@ Batch 0001 and its PHASE ZERO, four phases discharged earlier. **Both are correc
 close repair order paragraph is left as written, because it is a record of a discharged obligation and not a reading
 instruction.**
 
+## Volume 12 — the live volume, and where a phase starting now should read
+
+**This section was added by the Volume 12 planning review fix. The tables above map Volumes 1 to 11 and were correct when
+written; they are not a map of where the manuscript is.** A phase starting in Volume 12 reads these four sections, in this order,
+and nothing else in `state/` until it needs more:
+
+| Order | Section | What it is |
+| --- | --- | --- |
+| 1 | `state/current.md` §*What is actually on the page at ch 705* | **THE LIVE POSITION.** ch 691–705 are on the page and were deferred before their state was written. Measured per file: 29,202 body words, average 1,947, day 2,141–2,240. Four steps for the next dispatch of that phase, and what Batch 0004 inherits |
+| 2 | `state/current.md` §*Who is where at end of chapter 690* | **The last CLOSED position**, and everything Batch 0003 inherited is in it. Its figures were corrected in place by this fix |
+| 3 | `state/continuity.md` §*VOLUME 12 PLANNING — REVIEW FIX* | **READ THIRD.** The five review findings, the six repairs the planning phase made to `outline/volume-12.md` and had recorded nowhere, four more found while closing them, and the three ways the batch states the turn-to-frame leg |
+| 4 | `state/continuity.md` §*Established facts, Volume 12 Batch 0002* and its *— REVIEW REPAIR* | The volume's rules and the last closed batch's record |
+| 5 | `state/open-threads.md` §*VOLUME 12 PLANNING — REVIEW FIX* | What a drafting phase must not inherit from the pre-fix page |
+| 6 | `outline/volume-12.md` | **THE AUTHORITY for the volume.** Not a state file. It is read after the four above, never before |
+
+**`workspace/volume-12-planning/` is history.** Its prompt is not a live brief — it says it creates `outline/volume-12.md`, which
+existed, and the phase that ran it audited rather than created. **`workspace/volume-12-batch-0003/PROMPT.md` is live and opens
+with a RESUME section: its fifteen chapters are already written and must not be drafted again.**
+
 ## The next time this is needed
 
 `state/` is at ~1.13 MB hot and growing ~40 KB a phase. **At the Volume 8 close, run the same pass**: archive
 everything behind the live volume out of `current.md`, `continuity.md` and `chapter-summaries.md` into a new file
 under `state/archive/`, leave the stubs, and extend this index. **Do not prune.** `PHASE_SYSTEM.md` gives the
 remedy as an index and an archive, not a deletion, and every one of these files is a record of what was measured
-at the time it was measured.
+at the time it was measured. **Volume 12 is where that pass is now overdue:** the tables above stop at Volume 11 and
+`current.md` still carries every block from Volume 1 forward.
