@@ -910,3 +910,72 @@ east did not come back.**
 
 **That is the position Volume 8 opens on, and it is stated here so the volume close has something to walk against
 rather than a hope.**
+
+---
+
+## Volume 7 Batch 0001 (ch 361–374) — what this batch added, live going into Batch 0002
+
+**Recorded at the Volume 7 Batch 0001 drafting phase, ch 374, day 899. Full record in `state/continuity.md` under
+***Established facts, Volume 7 Batch 0001 (ch 361–374) — ROOMS BIGGER THAN SHE IS*** and
+***Volume 7 running ledger — at the last page of Volume 7 Batch 0001, day 899***.**
+
+### New in this batch, and open
+
+| Thread | Status at ch 374 |
+| --- | --- |
+| **The reading has left the room** | **NEW AND OPEN, and it is the batch's whole engine.** A strip about as wide as a hand, folded in two with a stone on it, went out of the works yard east at about a quarter past the sixth hour on the first of a month and **did not come back on the cart that takes the empty trays up**, which came down on the ninth with four nested trays and nothing else. **Nobody on that ground had ever sent anything east before that morning.** She has not been east of the turn and the strip is about nine miles past it |
+| **The two lines** | **NEW AND OPEN.** The column nine days of road east, in the fine hand, has **two lines at the foot of it where it had four for four months.** A man with a brush saw the shape of it on the sixth and told her on the tenth and would not guess at it. **The change came about three days after the strip went east and she cannot read a word of either shape.** It is the first thing in six months that has come out of one of those rooms toward her, and it came back as less |
+| **The furnace, and the second pair of hands** | **NEW AND OPEN, and it is the engine of the whole volume.** The ring will not light itself and she cannot light it alone. She has worked out that the one person whose hands she could put in that corner is **the man with the paste pot at a post on the mill road — about fifty-five, nine years on the board, cannot read a word in the book that is standing on a stone under his own ladder, and will not tell anybody** — and that the counting house is about two miles short of that ladder on a road she walks four or five times a month. **She has not said it to anybody. She may not ask until ch 388** |
+| **Every stage is a public fact** | **NEW AND PERMANENT.** Two men on a bank about sixty feet long at the seventh hour on the third of a month watched a thing happen to her. **No card in Batch 0002 may put that back the way it was.** This is the batch's irreversible step |
+| **The yard at the turn** | **NEW AND LIVE.** Brick and timber, four miles east, nine men on a board where four would do, a man with a rule in his hand who has run it for nineteen years and found her place in it in about two seconds and been right about both the hedge and the sill. **A length three days in seven, paid in a cup of something hot out of the office end from a woman who has never asked her name. No money, no board, no name of hers anywhere in the yard.** The sill line is going east and the yard is on the road the strips go down |
+
+### The batch's own reversals, paid on the page
+
+- **The board filled on the eleventh of a month (day 864) and came back with eleven dressed-stone lines priced by the
+  ton, and she can take none of them, and the only work left narrows to reading, which nobody on that ground will pay
+  for.**
+- **Her hands went cold on the second of a month and have not been warm since.** They had been warm for four months.
+- **A yard prices a body, and every office she has been entered in has her column in it, and there is nowhere on nine
+  days of road that has her arm on a line of her own.** That is the volume's pressure, said once, at ch 368.
+- **She had been the thing in every room she had walked into for six months and had been getting it wrong.** A room is
+  where a thing is put so that four people can agree about it later, and the thing has been her name since the
+  twenty-sixth of a month about six months back.
+
+### Held, confirmed, and not touched by Batch 0001
+
+- The register still reads *reconciled* and **nothing in ch 361–374 reads it** (`reconciled` returns zero). The Clay
+  Plate is worn against her ribs, `plate` returns **zero**, and it was not described. The relicensed licence was never
+  opened and is never referred to (`licence` and `license` both return **zero**). MEMBER ABSENT stands three times and
+  was not raised.
+- **The year of non-forgiveness is not mentioned once in fourteen chapters and is still carrying.**
+- `Ledger` returns **zero** across all fourteen files. **Hand is not spent in this batch** — it is spent once in Volume 7
+  at ch 402 and refused once at ch 419. **Merit settled once** (ch 370, a listed hedge clearing, not a death), the
+  share told out loud twice and spent out of her foundation on nothing, and **no figure of what is left of him is
+  stated on any page.** **Being sent for is not opened, not foreshadowed in his mouth and does not happen to anybody
+  else.**
+- **The Hunter's request is still pending. A writ is not issued to a field agent. The line's own people still do not
+  know she exists.** He is on the page once, at ch 369, nine feet off, notebook shut, buying nothing, asking nothing,
+  and she asked him. **Nothing about his paper, his order or his brother is raised.**
+- **No office is named anywhere in ch 361–374 and nothing above the copying floor, and nothing above the second office,
+  and nothing above the Standing Office of the Second Account, is entered, described or named.** The surface answer is
+  not re-voiced. **The tenth part is not given and nothing proves the crews wrong.**
+- **Nothing in this batch kills anybody.** No harem and nothing a romance; **Wei Ran is not on the page.** Feng does not
+  appear and no second Lung and no second appointment. Ning Wu and Ning Bo do not appear. Hou Sanliang is paid, never
+  met and not on the page. What became of the eleven is not raised and the four months erased in Chapter 3 are never
+  named. **She never says her mother's name.**
+- **Rao, Dai and Geng are all unspent** and belong to Batches 0002, 0003 and 0004. **The keeper with the paste pot does
+  not appear in this batch** and is named only once, at ch 374, as the one person whose hands she could put in that
+  corner.
+
+### What Batch 0002 inherits, in one paragraph
+
+**Day 899, the sixteenth of the month that began on day 884. A gate three miles east of a mill whose wheel has not
+turned, a shed a mile and a quarter west of that, and a yard four miles east at the turn.** Nascent Soul 2, taken on
+the third of a month in the open in front of two men, and every stage from here is a public fact on this ground. A
+furnace that will not light itself and cannot be lit alone, cold hands, one copper a day at three and a half feet,
+bread five days in seven, four barrow-loads of clay against a wall and a fifth of a sack in a barrow, a full board
+she cannot take a line off, and a length three days in seven at a yard that pays her in a cup of something hot. Four
+fingers' grip on one hand, the right arm open half the time, eight of eleven holds, five counts of breath on a loaded
+reach, the bar needing two hands, the licence never opened, the plate worn and undescribed. A strip that went east and
+did not come back, and a column that came back with two lines off it. He is readable, findable, held and sendable and
+nothing of that is opened.

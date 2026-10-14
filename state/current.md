@@ -1,21 +1,23 @@
 # Current State
 
-**As of:** **VOLUME 7 IS PLANNED. `outline/volume-07.md` EXISTS — *Stronger Things*, ch 361–420 — and `workspace/volume-07-batch-0001/PROMPT.md` is its first drafting card. VOLUME 6 IS CLOSED AND AUDITED — CH 299–360 ON THE PAGE.** VOLUME 1 CLOSED. VOLUME 2 CLOSED AND AUDITED. VOLUME 3 CLOSED AND AUDITED — CH 1–178 ON THE PAGE. VOLUME 4 CLOSED AND AUDITED — CH 179–238 ON THE PAGE. VOLUME 5 CLOSED AND AUDITED — CH 239–298 ON THE PAGE. ALL FOUR VOLUME 6 BATCHES WERE WRITTEN AND REPAIRED, AND THE CLOSE WAS RUN LINE BY LINE AGAINST `outline/volume-06.md` AND THEN REVIEWED AND REPAIRED AGAIN. **THE NEXT PHASE IS THE VOLUME 7 BATCH 0001 DRAFTING PHASE, against `workspace/volume-07-batch-0001/PROMPT.md`. It writes ch 361–374.**
+**As of:** **VOLUME 7 BATCH 0001 IS ON THE PAGE — ch 361–374, fourteen chapters, 23,101 words of body prose, day 849 to day 899, with Nascent Soul 2 taken at ch 371 on day 886 carrying bracket 1 of Volume 7's six in sixty. VOLUME 6 IS CLOSED AND AUDITED — CH 299–360 ON THE PAGE.** VOLUME 1 CLOSED. VOLUME 2 CLOSED AND AUDITED. VOLUME 3 CLOSED AND AUDITED — CH 1–178 ON THE PAGE. VOLUME 4 CLOSED AND AUDITED — CH 179–238 ON THE PAGE. VOLUME 5 CLOSED AND AUDITED — CH 239–298 ON THE PAGE. ALL FOUR VOLUME 6 BATCHES WERE WRITTEN AND REPAIRED, AND THE CLOSE WAS RUN LINE BY LINE AGAINST `outline/volume-06.md` AND THEN REVIEWED AND REPAIRED AGAIN. `outline/volume-07.md` — *Stronger Things*, ch 361–420 — exists and is the authority. **THE NEXT PHASE IS THE VOLUME 7 BATCH 0002 DRAFTING PHASE, against `workspace/volume-07-batch-0002/PROMPT.md`. It writes ch 375–389.**
 
 ## How to read this file
 
 This file is **append-only and long, and most of it is history.** You do not need all of it to write.
 
-- **For a cold start, read five things, in order:** ***Who is where at end of chapter 360*** (the live position,
-  written at the Volume 6 close and still binding), ***Volume 7 planned*** (the block directly beneath it — what
-  `outline/volume-07.md` fixed, and the first drafting phase is `workspace/volume-07-batch-0001/PROMPT.md`),
-  ***Who is where at end of chapter 345*** (where Volume 6 Batch 0004 opened from), ***Who is where at end of
-  chapter 329*** (where Volume 6 Batch 0003 opened from), ***Who is where at end of chapter 313*** (where Volume 6
-  Batch 0002 opened from), ***What Volume 3 must not do*** (further down), which Volume 4 inherited in full and
-  which Volume 5 inherited through it, and ***Who is where at end of chapter 238*** (below that one), which is
-  where Volume 5 started. **Then read `## Volume 6 close audit — CLOSED` and `## Volume 6 close review — REPAIR`,
-  which carry the seventeen continuity items and the current figures, and `## The protagonist, answered in writing`
-  inside the audit, which is a standing requirement on every volume from Volume 5 on and not a note.**
+- **For a cold start, read five things, in order:** ***Who is where at end of chapter 374*** (the live position,
+  written by the Volume 7 Batch 0001 drafting phase and still binding), ***Who is where at end of chapter 360*** (the
+  position before it, written at the Volume 6 close), ***Volume 7 planned*** (what `outline/volume-07.md` fixed, and
+  the drafting cards are `workspace/volume-07-batch-0001/PROMPT.md` and
+  `workspace/volume-07-batch-0002/PROMPT.md`), ***Who is where at end of chapter 345*** (where Volume 6 Batch 0004
+  opened from), ***Who is where at end of chapter 329*** (where Volume 6 Batch 0003 opened from), ***Who is where at
+  end of chapter 313*** (where Volume 6 Batch 0002 opened from), ***What Volume 3 must not do*** (further down), which
+  Volume 4 inherited in full and which Volume 5 inherited through it, and ***Who is where at end of chapter 238***
+  (below that one), which is where Volume 5 started. **Then read `## Volume 6 close audit — CLOSED` and `## Volume 6
+  close review — REPAIR`, which carry the seventeen continuity items and the current figures, and `## The protagonist,
+  answered in writing` inside the audit, which is a standing requirement on every volume from Volume 5 on and not a
+  note.**
 - **`outline/volume-05.md` is the authority for Volume 5 and `outline/batches/volume-05-batch-0001.md` is the
   card file Volume 5 Batch 0001 was drafted against.** Every card beat in that file is on the page and the
   file is not to be re-planned. **Batch 0002 (ch 253–267) was drafted against
@@ -188,6 +190,87 @@ at the close's own review, recorded in `## Volume 6 close review — REPAIR` bel
   everything above the offices that vouched unread · *kiln-born* in two heads and on no paper · what became of the
   eleven · the register still *reconciled* · the plate still worn · the year still carrying · **and the rooms that
   were refused a presentation, which have now started reading her where she stands instead.**
+
+## Who is where at end of chapter 374 — VOLUME 7 BATCH 0001 WRITTEN (cold reader starts here)
+
+**After ch 374 — day 899, the sixteenth of the month that began on day 884, fifty days after she reached Nascent Soul
+1. She is at a gate and a shed three miles east of a mill whose wheel has not turned since before she came, in no
+employment, with no wages, a full board she cannot take a line off, and a furnace that will not light itself.** Full
+record in `state/continuity.md` under
+***Established facts, Volume 7 Batch 0001 (ch 361–374) — ROOMS BIGGER THAN SHE IS***,
+***Volume 7 running ledger — at the last page of Volume 7 Batch 0001, day 899*** and
+***Construction budget — Volume 7 Batch 0001 (ch 361–374), measured by grep, not promised***.
+
+**VOLUME 7 BATCH 0001 IS ON THE PAGE — ch 361–374, fourteen chapters, 23,101 words of body prose, average ~1,650,
+day 849 to day 899.** Drafted against `outline/volume-07.md` and against
+`workspace/volume-07-batch-0001/PROMPT.md`, which is that batch's card. **The prompt's corrected handoff was right and
+the page followed it: the batch opens on day 849, the twenty-sixth, the day after ch 360 closed — not on the stage
+day and not on the day the strip came.** Next: **Volume 7 Batch 0002**, ch 375–389, against
+`workspace/volume-07-batch-0002/PROMPT.md`.
+
+- **Ning Yan — NASCENT SOUL 2, day 886, the third of a month, taken IN THE OPEN AT THE SEVENTH HOUR WITH NINE MEN ON
+  A BANK ABOUT SIXTY FEET LONG AND TWO OF THEM NINE FEET OFF HER.** The bracket at ch 371 is
+  **bracket 1 of Volume 7's six in sixty** and matches the far-side house form character for character. **The next
+  five brackets are at ch 383, 394, 404, 412 and 420 and nowhere else in the volume.**
+  **Cost, named once, permanent: the furnace will not light itself and she cannot light it alone.** She tries it nine
+  times over three hours and it comes up about a finger's width and stops every time. **A stage cannot be built by one
+  pair of hands**, and there is no person inside nine days of road she is entitled to stand in a shed with and try.
+- **Body:** short breath **four everywhere except a loaded reach, where it is five**, permanent, since ch 342; right
+  index gone, four fingers' grip; right arm open half the time, permanent, since ch 288; aperture cracked through and
+  permanent; **eight of eleven holds**; turn gone; **the middle-bank method gone since ch 352 — the bar takes two
+  hands**; not hungry; **HANDS COLD — they had been warm for four months, warm the way a furnace is warm, and they went
+  cold within a moment of the bar stopping on the bank at the third hour of the second of a month**; **eighteen.**
+- **What the batch changed.** The reading **left the room** — a strip went east on the end-of-month cart and **did not
+  come back on the cart that takes the empty trays up**, and nobody on that ground has ever sent anything east ·
+  **the season turned on the eleventh** and the board came back full of eleven dressed-stone lines her right hand
+  cannot take · **the work narrowed to reading and nobody on that ground will pay for reading** · **the yard of nine
+  men at the turn, where she is the ninth and the smallest thing in it and a man with a rule in his hand priced her
+  body in about two seconds and was right about both the thing she could do and the thing she could not** ·
+  **a length three days in seven at that yard, unpaid, paid in a cup of something hot from a woman who has never asked
+  her name** · **a bar that went across her on a bank with nine men on it, stopped by the furnace in her own shed**
+  · **the fire gone out and thirteen days of a ring that comes up a finger's width and stops** · **a column nine days
+  of road east with two lines at the foot of it where it had four for four months** · **the Hunter, once, nine feet
+  off, and she asked him what a room on this ground is for** · **merit settled once on a listed hedge clearing, six
+  days and four hours told out loud twice and spent out of her foundation on nothing** · **the first stage she has
+  ever taken that people on that ground watched her take.**
+- **The batch's irreversible step, and it is this batch's own:** **ch 371 — the first stage taken in the open with
+  people watching.** Two men on a bank at the seventh hour have seen a thing happen to her. **From ch 371 every stage
+  she takes is a public fact on that ground and no card in Batch 0002 may put that back the way it was.** The
+  volume's break (ch 402) and the volume's refusal (ch 417) are both untouched and are not pre-empted, planned or
+  rehearsed anywhere in these fourteen chapters. **She refuses nothing in this batch.**
+- **NS 2's cost in one plain sentence about one person:** she is eighteen years old and the only thing on nine days of
+  road that ever came to her without being asked has stopped coming, and the only way to get it back is to put a person
+  in a room with her, and there is nobody she is entitled to ask.
+- **Yuan, across the batch:** nine utterances in fourteen chapters outside the second hour of ch 370, plus the share
+  in ch 370 told twice in the present tense. **Every one of them buys nothing and advises nothing.** He knows at ch 362
+  that she has counted a month three times and counted one of them wrong. **No Hand is spent and no figure of what is
+  left of him is on any page.** `Ledger` returns **zero** across all fourteen files. **Being sent for is not opened,
+  not foreshadowed in his mouth and does not happen to anybody else.** No frame scene.
+- **The Hunter is on the page, ch 369 only.** Nine feet off the cart track, notebook shut, buys nothing, asks nothing,
+  and she asks **him** — *what is a room on this ground for* — and he answers in the ordinary voice and at no cost to
+  either of them: **a room is where a thing is put so that four people can agree about it later.** **His request is
+  still pending. A writ is not issued to a field agent. The line's own people still do not know she exists.**
+- **The structural answer continues, in one mouth of Volume 7's six, at ch 365**, in a carter who drives the long
+  road east and has been turned back at the end of it four hundred times, and turning back is what people pay for.
+  **The tenth part is not given and nothing proves the crews wrong.**
+- **Untouched and unraised:** the register still reads *reconciled* and **nothing in this batch reads it** · the Clay
+  Plate worn and **not described** · the relicensed licence **never opened** and never referred to · MEMBER ABSENT
+  carried and never raised · **the year of non-forgiveness carrying and not mentioned once in these fourteen
+  chapters** · Shen Xiu unforgiven · *kiln-born* zero · what became of the eleven not raised · the four erased months
+  never named · the ch 150 refusal not softened · **no office named at all and nothing above the copying floor
+  entered, described or named** · the surface answer not re-voiced · the claim not reopened · Hou Sanliang paid, never
+  met, not on the page · **Ning Wu and Ning Bo not on the page** · **Wei Ran does not appear** · Feng does not appear
+  and no second Lung and no second appointment · no harem and nothing a romance · **she never says her mother's
+  name** · **nothing in this batch kills anybody** · **not one word of the Order is on the page** · `Ledger` zero.
+- **What is still open and must be still open on the last page of this batch:** the Hunter's request pending ·
+  everything above the offices that vouched unread and unnamed · the fine hand and what it says about her ·
+  *kiln-born* in two heads and on no paper · what became of the eleven · the register still *reconciled* · the plate
+  still worn · the year still carrying · **and the strip that went east on the end-of-month cart and did not come
+  back.**
+- **Three new people were used in this batch and none of them is one of Volume 7's three named ones.** **Rao, Dai and
+  Geng are all unspent** and belong to Batches 0002, 0003 and 0004. The man with the rule in his hand at the yard at
+  the turn, the carter with the chain, the yard's man in the office end, the counter's boy and the east cart's boy are
+  all unnamed and stay unnamed.
 
 ## Volume 7 planned — `outline/volume-07.md` exists and what the plan fixed
 
