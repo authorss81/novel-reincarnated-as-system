@@ -644,7 +644,8 @@ Physical-risk card at ch 430.**
 **Volume 8, *Recruited*, ch 421–478, fifty-eight chapters, day 1,091 to day 1,340, 250 days. Closed and audited by the
 Volume 8 close phase, which opened no chapter, wrote no prose and changed no beat. Full record at
 `workspace/volume-08-close/SUMMARY.md` and `state/continuity.md` §*Volume 8 close — repairs* and §*Volume 8 close — the
-volume as a whole*.**
+volume as a whole*. **The close was then reviewed and four of its own figures were repaired without prose being written;
+no chapter, beat, day, title or summary below changed. Record at `state/current.md` §*Volume 8 close review — REPAIR*.**
 
 **105,846 words of body prose over fifty-eight chapters, average ~1,825**, on the method the close settles for Volume 8 —
 **every line not beginning `#`**, so the `#` chapter title line and every `##` section heading are excluded. On the other

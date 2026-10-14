@@ -5,7 +5,9 @@
 **Volume 8, *Recruited*, ch 421–478, is closed and audited.** All four batches are written, Batch 0004 has been through
 an external review and one repair pass, and the Volume 8 close phase has since audited all fifty-eight chapters,
 recorded twenty-one findings, repaired none of them, walked the seventeen-item continuity list one item at a time, and
-settled the word-count convention that two batches had left open.
+settled the word-count convention that two batches had left open. **The close has since been reviewed and repaired:
+four of its own figures were corrected without prose being written, and a twenty-second finding was added. Nothing on
+this page changes except the findings count and the file list in the calendar note at the foot.**
 
 **Current Volume 8 figures: 105,846 words of body prose over fifty-eight chapters, average ~1,825**, on the method the
 close settles for Volume 8 — **every line not beginning `#`, so the `#` chapter title line and every `##` section heading
@@ -231,15 +233,21 @@ anonymity and the only person in the world who cannot be stopped using it is the
 
 ## What the Volume 8 close found, and what this phase should know about it
 
-**Twenty-one findings, none repaired, all recorded. Nothing below is Volume 9's to fix and none of it may be carried into
-Volume 9 as a defect. Four of them matter to a planning phase and are set out here in full:**
+**Twenty-two findings, none repaired, all recorded. **Corrected by the close review, which changed no beat: F1's chapter
+count is ten and not fourteen, and the count of verified calendar instances is seven and not six; F22, a duplicated
+`## The Lane End` at ch 451, was added because the close's paragraph-level duplicate scan could not see it.** Nothing
+below is Volume 9's to fix and none of it may be carried into Volume 9 as a defect. Four of them matter to a planning
+phase and are set out here in full:**
 
 1. **The calendar.** Volume 8's absolute days are all right and every pinned anchor reproduces. **Its relative-month
-   figures do not: twenty-five instances across fourteen chapters fail against the volume's own month rule, and the ch 417
+   figures do not: twenty-five instances across ten chapters — ch 467, 469, 470, 471, 472, 473, 474, 476, 477 and 478, and
+   no other — fail against the volume's own month rule, and the ch 417
    refusal is called *four months back* eight times where it is nine months back.** The full table is at
    `workspace/volume-08-close/SUMMARY.md` §*A*. **This phase writes a month rule for Volume 9 and applies it to its own
    figures before it claims them.** `((day − 134) mod 30) + 1` is the house rule and the months in Volume 9 begin on
    days **1,334 · 1,364 · 1,394 · 1,424 · 1,454 · 1,484 · 1,514 · 1,544 · 1,574 · 1,604**.
+   **The repair list that a later phase inherits is ten files, not seventeen: seven chapters in the older list — ch 421,
+   425, 432, 434, 445, 449 and 466 — are referents inside the table, not pages with a wrong figure on them.**
 2. **The word-count convention is settled: every line not beginning `#`.** 107,669 and 28,334 / 21,869 / 28,341 / 29,125
    are the same chapters counted with `##` section headings as prose. **Use method B in this outline and name the method
    in the same sentence as every figure.** Volume 8's nineteen chapters under the 1,800 guide were thirteen of Batch
@@ -247,10 +255,17 @@ Volume 9 as a defect. Four of them matter to a planning phase and are set out he
    targets in the outline so that cannot happen twice.**
 3. **Card vocabulary on the page.** Three section headings at ch 457, ch 461 and ch 477 were outline instructions — two
    called a beat *His Mouth, In Five Pieces* and one *The Sixth Mouth* — in the class the Volume 7 close recorded as F3 and
-   left unrepaired. **Section headings in Volume 9 must be names of what is in the room, not labels from a card.**
+   left unrepaired. **A fourth, found by the close review, has ch 451's lines 101 and 127 both reading `## The Lane End`,
+   so one chapter shows the same section name twice. Section headings in Volume 9 must be names of what is in the room,
+   not labels from a card — and no two sections in one chapter may carry the same name, which Volume 8 let through twice
+   across fifty-eight chapters.**
 4. **Two density notes, measured and not swept.** `about…` is **470** volume-wide on the settled method, average 8.1 a
    chapter; `whole of` is **83**; the *nobody* family is **221**, average 3.8 a chapter against Volume 7's 0.6; `eleven`
    is **229**. **State Volume 9's own allowances in the outline with the same honesty, and count before claiming.**
+
+**And the standing instruction this close review earned, which applies to every figure this phase writes: name the
+method in the same sentence as the number, or publish both figures.** Four of the close's five review findings were counts
+it stated and did not reproduce; every count it took against the files reproduced exactly.
 
 **The one next phase after this one is `workspace/volume-09-batch-0001/PROMPT.md`, which is the card this phase writes.
 This phase creates it and creates nothing else.**

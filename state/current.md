@@ -1,6 +1,6 @@
 # Current State
 
-**As of:** **VOLUME 8 IS CLOSED AND AUDITED. `chapters/volume-08/` HOLDS CH 421–478, FIFTY-EIGHT CHAPTERS, 105,846 WORDS OF BODY PROSE ON THE SETTLED METHOD, DAY 1,091 TO DAY 1,340, TWO BRACKETED LAYER LINES AT CH 434 AND CH 470, NASCENT SOUL 9 ON THE PINNED DAY, AND THE VOLUME'S IRREVERSIBLE STEP AT CH 474.** *The Volume 8 close phase audited all fifty-eight chapters, recorded twenty-one findings, wrote no chapter prose, re-opened none of Batch 0004's nine closed repair findings, and settled the word-count convention two batches had left open. **THE ONE NEXT PHASE IS `workspace/volume-09-planning/PROMPT.md` — VOLUME 9 PLANNING, ch 479–538, `outline/volume-09.md` and no chapter prose.** `outline/volume-08.md` remains the authority and was not re-planned.* *Corrected in place by the Volume 8 close; this line previously read as though only Batch 0001 existed on the page and named a Batch 0003 prompt that ran two phases ago.* *The Volume 8 planning phase read `NOVEL_SPEC.md`, `outline/series.md`, `outline/ending.md`, `outline/volume-07.md`, the six `bible/` files, the live state files and ch 401–420, and fixed the volume's movement, its two stages and their days, its six mouths, its four batches, its construction budget and the fourteen titles of its first batch. **It also opened AHEAD OF THE RECORDED ORDER: `## Volume 7 close repair order` below blocks Volume 8 planning, the dispatch did not carry that block, and the deviation is recorded at `## Volume 8 planning — the deviation, and where the sixteen findings went`.** Nothing was dropped — the seven prose findings are now carried as **Phase Zero** at the head of the Batch 0001 drafting prompt, with the file and the line of each.* **VOLUME 7 IS CLOSED AND AUDITED — CH 361–420 ON THE PAGE, 115,342 WORDS OF BODY PROSE OVER SIXTY CHAPTERS, AND SIXTEEN FINDINGS RECORDED AND NONE REPAIRED.** *The Volume 7 close phase walked `outline/volume-07.md` line by line against the chapters, re-derived every figure the prompt named, corrected seven stale measurements in this file and the other state files in its own table, and answered the protagonist question in writing as `outline/series.md` §2 requires. It wrote no chapter prose and created no prompt.* **VOLUME 7 WAS COMPLETE ON THE PAGE AT CH 420. BATCH 0004 IS ON THE PAGE AND REPAIRED AT ITS REVIEW — ch 405–420, sixteen chapters, 30,380 words of body prose, day 1,021 to day 1,090, with the purse contradiction on the last page and the unearned copper at ch 411–412 closed, the three soft endings repaired and the false chapter-length claim withdrawn, with Nascent Soul 6 taken at ch 412 on day 1,037 and Nascent Soul 7 at ch 420 on day 1,076 carrying brackets 5 and 6 of Volume 7's six in sixty, the volume's own refusal at ch 417 where she declines to know what the fine hand says about her and nothing is written anywhere and nothing fails, the bill at ch 418, the Hand refused once out loud at ch 419, and the lifting floor and the column read out loud at ch 419–420. VOLUME 7 BATCH 0003 IS ON THE PAGE AND REPAIRED AT ITS REVIEW — ch 390–404, fifteen chapters, 29,552 words of body prose, day 951 to day 1,020, with Nascent Soul 4 taken at ch 394 on day 960 and Nascent Soul 5 at ch 404 on day 999 carrying brackets 3 and 4 of Volume 7's six in sixty, the volume's midpoint at ch 390, and the third frame scene and the break at ch 401–402. VOLUME 7 BATCH 0002 IS ON THE PAGE. VOLUME 7 BATCH 0001 IS ON THE PAGE AND REPAIRED — ch 361–374, fourteen chapters, 27,114 words of body prose, day 849 to day 899, with Nascent Soul 2 taken at ch 371 on day 886 carrying bracket 1 of Volume 7's six in sixty. VOLUME 6 IS CLOSED AND AUDITED — CH 299–360 ON THE PAGE.** VOLUME 1 CLOSED. VOLUME 2 CLOSED AND AUDITED. VOLUME 3 CLOSED AND AUDITED — CH 1–178 ON THE PAGE. VOLUME 4 CLOSED AND AUDITED — CH 179–238 ON THE PAGE. VOLUME 5 CLOSED AND AUDITED — CH 239–298 ON THE PAGE. ALL FOUR VOLUME 6 BATCHES WERE WRITTEN AND REPAIRED, AND THE CLOSE WAS RUN LINE BY LINE AGAINST `outline/volume-06.md` AND THEN REVIEWED AND REPAIRED AGAIN. `outline/volume-07.md` — *Stronger Things*, ch 361–420 — exists and is the authority. **THE VOLUME 7 CLOSE PHASE HAS NOW BEEN RUN AGAINST `workspace/volume-07-close/PROMPT.md`; its record is `## Volume 7 close audit — CLOSED` below, immediately after the ch-420 position block.**
+**As of:** **VOLUME 8 IS CLOSED AND AUDITED. `chapters/volume-08/` HOLDS CH 421–478, FIFTY-EIGHT CHAPTERS, 105,846 WORDS OF BODY PROSE ON THE SETTLED METHOD, DAY 1,091 TO DAY 1,340, TWO BRACKETED LAYER LINES AT CH 434 AND CH 470, NASCENT SOUL 9 ON THE PINNED DAY, AND THE VOLUME'S IRREVERSIBLE STEP AT CH 474.** *The Volume 8 close phase audited all fifty-eight chapters, recorded twenty-one findings, wrote no chapter prose, re-opened none of Batch 0004's nine closed repair findings, and settled the word-count convention two batches had left open. **THE CLOSE HAS NOW BEEN REVIEWED AND REPAIRED: the review returned five findings, all five are closed, it wrote no prose either, and it added a twenty-second finding — F22, a duplicated `##` heading at ch 451 that the close's own method could not see. Four of the five findings were counts the audit stated without the method that produced them. The volume's figures, its seventeen continuity verdicts, its two stages, its two brackets and its irreversible step are unchanged. See `## Volume 8 close review — REPAIR` below.*** **THE ONE NEXT PHASE IS `workspace/volume-09-planning/PROMPT.md` — VOLUME 9 PLANNING, ch 479–538, `outline/volume-09.md` and no chapter prose.** `outline/volume-08.md` remains the authority and was not re-planned.* *Corrected in place by the Volume 8 close; this line previously read as though only Batch 0001 existed on the page and named a Batch 0003 prompt that ran two phases ago.* *The Volume 8 planning phase read `NOVEL_SPEC.md`, `outline/series.md`, `outline/ending.md`, `outline/volume-07.md`, the six `bible/` files, the live state files and ch 401–420, and fixed the volume's movement, its two stages and their days, its six mouths, its four batches, its construction budget and the fourteen titles of its first batch. **It also opened AHEAD OF THE RECORDED ORDER: `## Volume 7 close repair order` below blocks Volume 8 planning, the dispatch did not carry that block, and the deviation is recorded at `## Volume 8 planning — the deviation, and where the sixteen findings went`.** Nothing was dropped — the seven prose findings are now carried as **Phase Zero** at the head of the Batch 0001 drafting prompt, with the file and the line of each.* **VOLUME 7 IS CLOSED AND AUDITED — CH 361–420 ON THE PAGE, 115,342 WORDS OF BODY PROSE OVER SIXTY CHAPTERS, AND SIXTEEN FINDINGS RECORDED AND NONE REPAIRED.** *The Volume 7 close phase walked `outline/volume-07.md` line by line against the chapters, re-derived every figure the prompt named, corrected seven stale measurements in this file and the other state files in its own table, and answered the protagonist question in writing as `outline/series.md` §2 requires. It wrote no chapter prose and created no prompt.* **VOLUME 7 WAS COMPLETE ON THE PAGE AT CH 420. BATCH 0004 IS ON THE PAGE AND REPAIRED AT ITS REVIEW — ch 405–420, sixteen chapters, 30,380 words of body prose, day 1,021 to day 1,090, with the purse contradiction on the last page and the unearned copper at ch 411–412 closed, the three soft endings repaired and the false chapter-length claim withdrawn, with Nascent Soul 6 taken at ch 412 on day 1,037 and Nascent Soul 7 at ch 420 on day 1,076 carrying brackets 5 and 6 of Volume 7's six in sixty, the volume's own refusal at ch 417 where she declines to know what the fine hand says about her and nothing is written anywhere and nothing fails, the bill at ch 418, the Hand refused once out loud at ch 419, and the lifting floor and the column read out loud at ch 419–420. VOLUME 7 BATCH 0003 IS ON THE PAGE AND REPAIRED AT ITS REVIEW — ch 390–404, fifteen chapters, 29,552 words of body prose, day 951 to day 1,020, with Nascent Soul 4 taken at ch 394 on day 960 and Nascent Soul 5 at ch 404 on day 999 carrying brackets 3 and 4 of Volume 7's six in sixty, the volume's midpoint at ch 390, and the third frame scene and the break at ch 401–402. VOLUME 7 BATCH 0002 IS ON THE PAGE. VOLUME 7 BATCH 0001 IS ON THE PAGE AND REPAIRED — ch 361–374, fourteen chapters, 27,114 words of body prose, day 849 to day 899, with Nascent Soul 2 taken at ch 371 on day 886 carrying bracket 1 of Volume 7's six in sixty. VOLUME 6 IS CLOSED AND AUDITED — CH 299–360 ON THE PAGE.** VOLUME 1 CLOSED. VOLUME 2 CLOSED AND AUDITED. VOLUME 3 CLOSED AND AUDITED — CH 1–178 ON THE PAGE. VOLUME 4 CLOSED AND AUDITED — CH 179–238 ON THE PAGE. VOLUME 5 CLOSED AND AUDITED — CH 239–298 ON THE PAGE. ALL FOUR VOLUME 6 BATCHES WERE WRITTEN AND REPAIRED, AND THE CLOSE WAS RUN LINE BY LINE AGAINST `outline/volume-06.md` AND THEN REVIEWED AND REPAIRED AGAIN. `outline/volume-07.md` — *Stronger Things*, ch 361–420 — exists and is the authority. **THE VOLUME 7 CLOSE PHASE HAS NOW BEEN RUN AGAINST `workspace/volume-07-close/PROMPT.md`; its record is `## Volume 7 close audit — CLOSED` below, immediately after the ch-420 position block.**
 
 ## How to read this file
 
@@ -542,15 +542,16 @@ manuscript-wide, zero collisions, longest 39 characters.**
 | 16 | **The Hunter: on the page twice and only twice, and she asks him both times** | **PASS, with one recorded change** | ch 428 and ch 440, nine feet off, notebook shut under his arm, in the ordinary voice. `Wall writ` **0** · `field agent` **0**. **At ch 440 she says *Bai Zhu* — the first time the name is on the page in the manuscript (F13). His request is carried and raised nowhere** |
 | 17 | **Wei Ran: at most two cards, one in Batch 0002 and one in Batch 0004** | **PASS, exactly two** | ch 441 and ch 468. **ch 468 is six sentences, no scene, no gift, no romance** — she counts the journeys east out loud as a trade, refuses to chase eight coppers, and then says *Ning Yan* out loud in a road with four men unloading within nine feet. **That is the whole mechanism by which the line's own people stop not knowing she exists, and it is not the Hunter's doing** |
 
-### The findings. Twenty-one, in five classes. None is repaired here.
+### The findings. Twenty-two, in six classes. None is repaired here. **(F22 was added by the close review.)**
 
-**A. The calendar — one defect, twenty-five instances, fourteen chapters.**
+**A. The calendar — one defect, twenty-five instances, ten chapters.**
 
 - **F1 — Batch 0004's relative-month figures do not reproduce against the volume's own calendar.** The volume counts
   elapsed months as month-begins crossed, and the months in Volume 8 begin on days 1,064 · 1,094 · 1,124 · 1,154 · 1,184
-  · 1,214 · 1,244 · 1,274 · 1,304 · 1,334. **Six instances on the page get that exactly right and are the evidence the
-  convention is the drafters' own**: ch 462 ×2, ch 465, ch 472 ×2, ch 478's *two months back*, and ch 478's *eighty-four
-  days*. **Twenty-five instances across fourteen chapters fail.** The worst is the one the volume's late register rests
+  · 1,214 · 1,244 · 1,274 · 1,304 · 1,334. **Seven instances on the page, in six places, get that exactly right and are
+  the evidence the convention is the drafters' own**: ch 462 ×2, ch 465, ch 472 ×2, ch 478's *two months back*, and
+  ch 478's *eighty-four days*. **Twenty-five instances across ten chapters fail — ch 467, 469, 470, 471, 472, 473, 474,
+  476, 477 and 478, and no other chapter.** The worst is the one the volume's late register rests
   on: **the ch 417 refusal is called *four months back* eight times across ch 469, 472, 473 and 474, and ch 417 is the
   nineteenth of the month beginning 1,034 — day 1,052 — which from ch 474's day 1,306 is nine months, not four.**
   *The twenty-five, measured:* ch 469 ×3, ch 472 ×2, ch 473, ch 474 ×2 on ch 417 (nine, not four) · ch 474 on the ch 449
@@ -568,8 +569,10 @@ manuscript-wide, zero collisions, longest 39 characters.**
   twenty-eighth of a month two months back* is exactly right at ch 465 and appears again at ch 470, twice at ch 476 and
   at ch 478, where it is five months. **The second time in this run that a carried figure has falsified a recorded zero,
   and the first time it has falsified itself inside one volume.**
-- **THE REPAIR IS SEVENTEEN CHAPTER FILES AND TWENTY-SEVEN LINES. IT IS A REPAIR PHASE'S AND NOT THIS ONE'S. The
-  absolute days are all right. The intervals are not.**
+- **THE REPAIR IS TEN CHAPTER FILES AND TWENTY-SIX LINES. IT IS A REPAIR PHASE'S AND NOT THIS ONE'S. The absolute days
+  are all right. The intervals are not.** *(Corrected by the close review: this line previously said seventeen files. Seven
+  of them — ch 421, 425, 432, 434, 445, 449 and 466 — are **referents** in the table above, the days the wrong figures are
+  measured against, and no wrong figure stands on those seven pages.)*
 
 **B. Card vocabulary on the page — one defect, three headings.**
 
@@ -603,11 +606,15 @@ manuscript-wide, zero collisions, longest 39 characters.**
 - **F10 — the `vouch` rows.** Batch 0004's records **0**; measured volume-wide **1**, at ch 438, on a word the volume is
   built on.
 
-**D. Recorded and not repaired, with the reason — eight.**
+**D. Recorded and not repaired, with the reason — nine bullets, F11 through F21.**
 
-- **F11 — `eighty-four` stands 18 times volume-wide** — ch 464 ×12, ch 466, ch 468, ch 470 ×2, ch 478 ×2 — **and ch 464
-  doubles it inside one sentence.** The Batch 0004 review reduced `eleven` in ch 465 and ch 478 as a tic and did not
-  reduce this. The figure is right; the density is a drafter's habit and belongs to a volume-scale pass.
+- **F11 — the `eighty-four` density.** Measured case-insensitive, whole-word, raw files, **including the ordinal
+  `eighty-fourth`: 18 volume-wide** — ch 464 ×12, ch 466, ch 468, ch 470 ×2, ch 478 ×2. Measured case-sensitive lowercase
+  and the bare number only: **13, of which 7 are in ch 464.** **Both are exact and the method is in the sentence with
+  each; the close published the first without the second and the review caught it.** The Batch 0004 review reduced
+  `eleven` in ch 465 and ch 478 as a tic and did not reduce this, and **ch 464 doubles it inside one sentence.** The
+  density is a drafter's habit and belongs to a volume-scale pass; the three-to-five-instance repair at ch 464 holds on
+  either count, because ch 464 is the hotspot on both.
 - **F12 — `erased` is 1, at ch 424**: *The four erased months are the only thing she has ever thrown away and she did not
   do that on purpose.* Volume 7 measured `erased` at 0 as its evidence for fact 5. **In Volume 8 the four erased months
   are referred to once, in narration, in her own reasoning about never throwing a line away. No month is named, no date
@@ -632,15 +639,35 @@ manuscript-wide, zero collisions, longest 39 characters.**
   ch 434 cost — *She can still say no. She just cannot make the no take.* — byte-identical at ch 460 and ch 470** — and
   seven furniture.
 
+**F. Section-heading identity — one defect, one chapter. (F22, added by the close review.)**
+
+- **F22 — `chapters/volume-08/chapter-0451.md` lines 101 and 127 are both `## The Lane End`, so one chapter shows the
+  same section name twice in a contents list.** *(Added by the close review; this is the finding the close could not
+  have caught.)* **The reason is the method, not the care: the duplicate scan ran on body-prose blocks at six words or more,
+  and `##` lines were outside it by method.** Re-run over every block, headings included, the volume gives **15 duplicated
+  texts at 30 instances**, and four of those texts are `##` heading pairs — ch 421/428, 436/462, 457/461 and 461/466, all
+  cross-chapter and all six words or more. **Drop those four and F21's eleven texts at twenty-two instances are what is
+  left, exact. Ch 451's heading is three words long, so it sat under the floor either way.** The measurement was sound and
+  simply had a floor below the thing it needed to see; F4 shows the phase read every `##` line in the volume, for
+  vocabulary. Measured as headings, which is the measurement that was missing: **22 section-heading texts appear more
+  than once across ch 421–478, at 45 instances, and exactly one collides inside a single chapter — this one.** The other
+  21 are cross-chapter echoes and most are bookends rather than faults (`## The Shed` at ch 441 and ch 478, `## The
+  Reading` at ch 445 and ch 473, `## The Yard At The Turn` at ch 421 and ch 428), and `## The Arithmetic` is the only
+  text that appears three times, at ch 422, 429 and ch 460. **The repair is one heading and one line, and it is named here
+  rather than made, because a close that improves a volume by writing prose is a close that has become a rewrite.**
+
 ### Where this leaves the run
 
-**VOLUME 8 CLOSED AND AUDITED.** Twenty-one findings recorded, **none repaired, because a close that repairs is a
+**VOLUME 8 CLOSED AND AUDITED.** Twenty-two findings recorded, **none repaired, because a close that repairs is a
 rewrite.** **The seventeen fixed items that carry the volume — the goal, the two days, the two brackets, the two costs,
-the three shapes, the six mouths, Yuan's track, the four settlements and the pressure rotation — all PASS.**
-**THE REPAIRS A LATER PHASE SHOULD MAKE: sixty-six to sixty-eight line-level edits across thirty-three chapter files, plus twenty-nine trailing
-newlines.** Twenty-six lines of calendar arithmetic across seventeen files; three card-vocabulary headings; thirty-three
+the three shapes, the six mouths, Yuan's track, the four settlements and the pressure rotation — all PASS, and the close
+review confirmed every one of them again.**
+**THE REPAIRS A LATER PHASE SHOULD MAKE: SIXTY-SIX TO SIXTY-NINE line-level edits across TWENTY-SIX chapter files, plus twenty-nine trailing
+newlines.** Twenty-six lines of calendar arithmetic across **ten** files; three card-vocabulary headings; thirty-three
 straight apostrophes across fourteen files; a decision on `erased` at ch 424; three to five instances of `eighty-four` at
-ch 464.
+ch 464; **and one duplicated section heading at ch 451 (F22), whose file is already inside the apostrophe row.** *The
+totals are corrected by the close review: `book-metadata.md` had published thirty-eight edits across thirty-one files
+and this file sixty-six to sixty-eight across thirty-three, and neither survives.*
 
 **THE VOLUME'S OWN ANSWER IS ON THE PAGE AND IT IS HERS, AND NO FINDING IN THIS AUDIT WEAKENS IT.** At ch 474 she reads
 the document to the room before she refuses it — because nobody in that room can read it and she is the only person who
@@ -664,9 +691,41 @@ nothing written here spends anything `outline/ending.md` §1 owns.**
 **This phase wrote no chapter file, no second `workspace/volume-0*` directory, no `.done` marker and no second prompt.**
 
 
+## Volume 8 close review — REPAIR
+
+**The Volume 8 close was audited after it ran. Five findings came back and all five are closed. The review wrote no
+chapter prose, opened no beat, moved no day anchor and changed nothing in the planned plot — it corrected four figures,
+added one finding, and added one row to the repairs table.**
+
+| # | Finding | Closed as |
+| --- | --- | --- |
+| 1 | **F11 did not reproduce.** The close published **18** with no method; the reviewer measured **13** | **Both are exact and the difference is method, not error.** 18 is case-insensitive and counts the ordinal `eighty-fourth`; 13 is case-sensitive lowercase and the bare number only. **F11 now publishes both, each with its method, at `## Volume 8 close audit — CLOSED`, at `state/continuity.md` §*Volume 8 close — repairs* and at the construction budget, and in `workspace/volume-08-close/SUMMARY.md`. The density finding and the three-to-five-instance repair at ch 464 are unchanged by which figure is read** |
+| 2 | **The repair totals contradicted each other across two files** — `book-metadata.md` said thirty-eight edits across thirty-one files, `SUMMARY.md` said sixty-six to sixty-eight across thirty-three | **Settled at sixty-six to sixty-nine line-level edits across twenty-six chapter files, plus twenty-nine trailing newlines**, derived from the rows of the table rather than asserted beside it. **Both `book-metadata.md` lines now carry it** |
+| 3 | **F1 said fourteen chapters and it is ten; its repair row listed seventeen files and seven of them are clean** | Corrected in four files — `SUMMARY.md`, `state/current.md`, `state/continuity.md` and the one next-phase prompt, which would otherwise have sent Volume 9's planning phase after seven clean chapters. **The twenty-five instances are unchanged and remain the audit's main finding.** The seven dropped chapters — 421, 425, 432, 434, 445, 449, 466 — are referents inside the table, the days the wrong figures are measured against |
+| 4 | **A real defect the close's method could not see** | **F22** — `## The Lane End` twice in ch 451, lines 101 and 127. Recorded at `## Volume 8 close audit — CLOSED`, in the repairs table and in the construction budget, **with the reason the paragraph-level duplicate scan was blind to it** |
+| 5 | **"Six verified instances" was seven** | Corrected in all three places. The ✓ table is unchanged and still six rows |
+
+**Confirmed reproducing exactly by the review, and therefore untouched:** the word counts under both conventions
+(27,666 / 21,681 / 27,879 / 28,620 = **105,846**; 28,334 / 21,869 / 28,341 / 29,125 = **107,669**) · 29 files with no
+trailing newline, precisely ch 421–434 and ch 450–464 · 33 ASCII apostrophes, all in ch 450–463, with zero straight double
+quotes · italic 8 and bold 0 · `about…` 470 = 196 · 61 · 75 · 138 · the *nobody* family at 221 · `eleven` at 229 · `whole of`
+at 83 · 478 `#` headings, zero collisions, longest 39 characters · two bracketed lines and no third · **and F1's
+twenty-five instances, re-tallied from the failure table and exact.**
+
+**The pattern, recorded because it has now happened three times in this run: four of the five findings were counts the
+audit stated without reproducing, and every count it took against the files reproduced exactly.** The Volume 6 close was
+repaired for the same thing; Volume 7's close logged seven stale figures of the same shape; this audit charged Batch
+0004's `about…` row with it as F5 and then did it itself in F11. **A number published without the method that produced it
+is not a measurement, and the next phase inherits the standing instruction to put the method in the same sentence as
+every figure.**
+
+**Volume 8's own answer is untouched by all five.** The refusal at ch 474, the ground going quiet, the walk west at
+ch 478 and the woman who waited anyway are exactly where the page put them.
+
+
 ## Who is where at end of chapter 478 — VOLUME 8 CLOSED **AND AUDITED** (cold reader starts here)
 
-**AUDITED BY THE VOLUME 8 CLOSE, which walked all seventeen continuity facts one at a time against the chapters and recorded a verdict on each: fifteen hold as written and two hold in a changed form — #5, by the single word *erased* at ch 424, and #11, because the Hunter is named once at ch 440. Every finding is at `## Volume 8 close audit — CLOSED` above, the full walk is at `workspace/volume-08-close/SUMMARY.md`, and the figure work is at `state/continuity.md` §*Volume 8 close — repairs* and §*Volume 8 close — the volume as a whole*. **Corrected in place by that close: the volume figure below now reads 105,846 on the settled method (every line not beginning `#`), with 107,669 recorded beside it on the convention that counts `##` headings as prose.**
+**AUDITED BY THE VOLUME 8 CLOSE, which walked all seventeen continuity facts one at a time against the chapters and recorded a verdict on each: fifteen hold as written and two hold in a changed form — #5, by the single word *erased* at ch 424, and #11, because the Hunter is named once at ch 440. Every finding is at `## Volume 8 close audit — CLOSED` above, the full walk is at `workspace/volume-08-close/SUMMARY.md`, and the figure work is at `state/continuity.md` §*Volume 8 close — repairs* and §*Volume 8 close — the volume as a whole*. **Corrected in place by that close: the volume figure below now reads 105,846 on the settled method (every line not beginning `#`), with 107,669 recorded beside it on the convention that counts `##` headings as prose.** **And corrected again by the close review, which changed no position on this page and nothing in the seventeen verdicts — see `## Volume 8 close review — REPAIR` above.**
 
 **After ch 478 — day 1,340, the seventh of the month beginning 1,334. She is in a shed with boards on the floor four miles east of a mill whose wheel has not turned since before she came, at Nascent Soul 9, at the ceiling of a realm, with three coppers, bread for a day, a refusal standing in the best book on nine days of road with her name in it, and a voice in her head that has had nothing to spend for eighty-four days.** Full record in `state/continuity.md` under *Established facts, Volume 8 Batch 0004 (ch 465–478) — REFUSING TO BE A TOOL*, *Volume 8 Batch 0004 running ledger — at the last page, day 1,340*, *Volume 8 as a whole, closed, re-measured* and *Construction budget — Volume 8 Batch 0004*.
 

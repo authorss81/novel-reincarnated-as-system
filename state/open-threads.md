@@ -1576,7 +1576,9 @@ The Hunter's request pending, both of his Volume 8 pages spent at 428 and 440 ·
 ## VOLUME 8 CLOSED **AND AUDITED** at ch 478 — every thread, walked at the close, and what Volume 9 inherits live
 
 **The Volume 8 close phase read all fifty-eight chapters and measured every thread below against them. It opened no
-chapter, repaired nothing, and changed no thread's state — it measured, and it recorded twenty-one findings. The list
+chapter, repaired nothing, and changed no thread's state — it measured, and it recorded twenty-one findings. **The close
+review that followed changed no thread either: it corrected four figures the close published and added a twenty-second
+finding, F22, which is a duplicated section heading at ch 451 and is not a thread.** The list
 above under *VOLUME 8 CLOSED at ch 478* is the Batch 0004 drafting phase's record and stands as it wrote it; where this
 block and that block disagree, this block is right.**
 
@@ -1681,3 +1683,10 @@ his name once into a shed with boards on the floor, and nothing came back, and s
 (`about…` at 470 not 136 per the batch's own stated method · bare capital `Order` at 6 not 7 · straight apostrophes at
 33 not 0 · italic asterisk pairs at 8 not 16), and recorded two changes that are new facts rather than faults: the four
 erased months are referred to once at ch 424, and the Hunter is named once at ch 440.**
+
+**The close review added no thread either.** It corrected the close's own four figures — the `eighty-four` count, which is
+18 or 13 depending on whether the ordinal and capitalisation are counted, and now carries both with their methods · F1's
+chapter count, ten and not fourteen · the repair totals, sixty-six to sixty-nine lines across twenty-six files · and the
+count of verified calendar instances, seven and not six — and added **F22**, a duplicated `## The Lane End` at ch 451,
+which is a house-keeping fault and not a thread any Volume 9 page can inherit. **Every thread above is exactly where the
+close left it.**

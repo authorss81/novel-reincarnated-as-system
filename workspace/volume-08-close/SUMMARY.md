@@ -11,9 +11,9 @@ changed no chapter.**
 | **Paragraphs, sentences or words of prose written** | **0** |
 | **Chapter files modified** | **0** |
 | **Outlines re-planned or edited** | **0** — `outline/volume-08.md`, `outline/series.md` and `outline/ending.md` were read and not edited |
-| **Findings recorded** | **21** |
+| **Findings recorded** | **22** — twenty-one as this close wrote them, plus **F22** added by the close review, which found a defect this close's own measurement could not see |
 | **Repairs made** | **0**, by rule. `AGENTS.md` and this run's own record: a close that improves a volume by writing prose is a close that has become a rewrite. Volumes 4, 5 and 6 each reopened thirty-one to thirty-five chapters and their repairs became the defects the next reviewer hunted |
-| **Repairs named for a later phase** | **66–68 line-level edits across 33 chapter files, plus 29 trailing newlines** |
+| **Repairs named for a later phase** | **66–69 line-level edits across 26 chapter files, plus 29 trailing newlines** |
 | **State files edited in place, with a note saying so** | **5** — `state/current.md`, `state/continuity.md`, `state/chapter-summaries.md`, `state/open-threads.md`, `state/book-metadata.md` |
 | **Prompts written** | **1** — `workspace/volume-09-planning/PROMPT.md` |
 | **`.done` markers written** | **0** — `PHASE_SYSTEM.md` gives that to the controller alone |
@@ -60,17 +60,19 @@ No weather, no clock time, no date, no age, nothing restating the scene beside i
 
 ## The findings table
 
-**Twenty-one findings in five classes. None is repaired here. Every one is named with the file and the measurement
+**Twenty-two findings in six classes. None is repaired here. Every one is named with the file and the measurement
 behind it, so a repair phase starts from this and does not start again.**
 
-### A. The calendar — one defect, twenty-five instances, fourteen chapters
+**F22 was added by the close review and is marked where it appears. Everything else is as this close wrote it.**
+
+### A. The calendar — one defect, twenty-five instances, ten chapters
 
 **F1 — Batch 0004's relative-month figures do not reproduce against the volume's own calendar.**
 
 The volume counts elapsed months the way its own verified examples count them: **month-begins crossed**, and the months
-in Volume 8 begin on days 1,064 · 1,094 · 1,124 · 1,154 · 1,184 · 1,214 · 1,244 · 1,274 · 1,304 · 1,334. Six instances
-on the page get this exactly right and are the evidence that it is the drafters' own convention, not an invention of
-this audit:
+in Volume 8 begin on days 1,064 · 1,094 · 1,124 · 1,154 · 1,184 · 1,214 · 1,244 · 1,274 · 1,304 · 1,334. **Seven
+instances on the page, in six places, get this exactly right** and are the evidence that it is the drafters' own
+convention, not an invention of this audit:
 
 | Ch | Figure | Referent | Day | Stated | Actual |
 | --- | --- | --- | --- | --- | --- |
@@ -81,8 +83,9 @@ this audit:
 | 478 | *came open on the eighteenth of a month two months back* | ch 470, day 1,291, the month beginning 1,274 | 1,291 | two | **two ✓** |
 | 478 | *He has had nothing to spend for eighty-four days* | the stop at ch 462, day 1,256 | 1,256 | eighty-four | **eighty-four ✓** (1,340 − 1,256 = 84) |
 
-Against those six, **twenty-five instances across fourteen chapters do not reproduce.** The worst is the one the volume's
-whole late register rests on.
+Against those seven, **twenty-five instances across ten chapters do not reproduce** — ch 467, 469, 470, 471, 472, 473,
+474, 476, 477 and 478, which is every chapter the failure table below names and no other. The worst is the one the
+volume's late register rests on.
 
 | Ch | Instance | Referent and its day | Stated | Actual |
 | --- | --- | --- | --- | --- |
@@ -112,8 +115,8 @@ ch 478 (day 1,340), where the same date is five months back. **The interval was 
 eighty-one days without being re-derived.** This is the second time in this run that a carried figure has falsified a
 recorded zero, and the first time it has falsified itself inside a single volume.
 
-**Why this is the audit's main finding and not a footnote.** Six of the six verified instances are exact, so the
-convention is not in question. The failures concentrate in Batch 0004, which went through an external review and a
+**Why this is the audit's main finding and not a footnote.** All seven verified instances are exact, so the convention is
+not in question. The failures concentrate in Batch 0004, which went through an external review and a
 repair pass whose own findings were about arithmetic — a wrong form-reading date and a wrong *eleven days* — and neither
 review touched a relative month. **A reader who checks the calendar finds the volume's late emotional register resting
 on an interval that is five months short.**
@@ -163,10 +166,16 @@ Measured on the files: **8** — ch 426 ×1, ch 433 ×3, ch 448 ×4. **Bold is 0
 **F10 — the `vouch` rows.** Batch 0004's block records **0**. Measured volume-wide: **1**, at ch 438. Not a defect in
 the prose; a row that reads zero for a word the volume is built on.
 
-**F11 — the `eighty-four` density.** `eighty-four` appears **18 times volume-wide: ch 464 ×12, ch 466 ×1, ch 468 ×1,
-ch 470 ×2, ch 478 ×2.** The Batch 0004 review reduced `eleven` in ch 465 and ch 478 as a tic and did not reduce this.
-**ch 464 doubles it inside one sentence** — *"there is not going to be one in eighty-four days, because nobody is paying
-for anything at all for eighty-four days."*
+**F11 — the `eighty-four` density.** Measured case-insensitive, whole-word, raw files, **including the ordinal form
+`eighty-fourth`: 18 volume-wide — ch 464 ×12, ch 466 ×1, ch 468 ×1, ch 470 ×2, ch 478 ×2.** Measured case-sensitive
+lowercase and the bare number only, **which is the narrower reading and is the one a plain grep returns: 13 volume-wide,
+and 7 of them in ch 464.** Both figures are exact under their own method and the method is named with each. **This audit
+found that exact defect in Batch 0004's own `about…` row as F5 — a number published without the method that produced it
+— and committed it in this row, which is why the row is rewritten and not merely re-counted.** The Batch 0004 review
+reduced `eleven` in ch 465 and ch 478 as a tic and did not reduce this. **ch 464 doubles it inside one sentence** —
+*"there is not going to be one in eighty-four days, because nobody is paying for anything at all for eighty-four days."*
+**The density finding does not move with the count: ch 464 is the hotspot on either method and the repair is three to
+five instances out of ch 464's twelve (or seven), not out of eighteen.**
 
 ### D. Continuity items that hold in a changed form — five findings
 
@@ -198,25 +207,63 @@ repair and recorded it. **It does not touch a word count. It is how a chapter th
 with the next file in a concatenated read, which is exactly how two word-count conventions came to disagree by a
 figure nobody could place. Twenty-nine bytes, for a repair phase.**
 
+### F. Section-heading identity — one defect, one chapter **(F22, added by the close review)**
+
+**F22 — ch 451 carries the same `##` heading twice, and this audit's duplicate scan could not see it.**
+
+`chapters/volume-08/chapter-0451.md` lines **101 and 127** are both `## The Lane End`. Two consecutive sections in one
+chapter share a title, so any table of contents shows *The Lane End* twice under ch 451.
+
+**Why it was invisible, and that is the part worth keeping.** The duplicate scan compared **body-prose paragraph blocks
+at six words or more**, and `##` heading lines were outside it by method. Re-run over **every** block, headings
+included, the volume returns **15 duplicated texts at 30 instances** — four of those texts are `##` heading pairs, and
+they are all cross-chapter (ch 421/428 *The Yard At The Turn*, ch 436/462 *What She Did Not Do*, ch 457/461 *His Mouth,
+In Five Pieces*, ch 461/466 *What She Did Not Say*), each of them six words or more. **Drop the four and the eleven texts
+at twenty-two instances are left, which is F21 and reproduces exactly.** **Ch 451's `## The Lane End` is three words
+long, so it could not have qualified under either reading — the scan's floor was six.** That is the real reason, and it
+is a sharper one than the close deserved: the measurement was sound and simply had a floor below the thing it needed to
+see. F4 shows the phase read every `##` line in the volume, for vocabulary.
+
+**Measured properly, with headings compared as headings:** across ch 421–478, **22 section-heading texts appear more
+than once, at 45 instances.** **Exactly one of them collides inside a single chapter — ch 451.** The other 21 are
+cross-chapter echoes, and most of them are deliberate bookends rather than faults: `## The Shed` at ch 441 and ch 478,
+`## The Reading` at ch 445 and ch 473, `## The Lane` at ch 450 and ch 454, `## The Yard At The Turn` at ch 421 and ch
+428, `## The Stone` at ch 427 and ch 448, `## The Walk Back` at ch 438 and ch 440. **`## The Arithmetic` is the only
+heading that appears three times (ch 422, 429, 460).** The repair phase is named one heading at ch 451 and is told to
+leave the cross-chapter echoes alone unless it can say which are accidents.
+
 ---
 
 ## The repairs a later phase should make
 
-**Sixty-six to sixty-eight line-level edits across thirty-three chapter files, plus twenty-nine trailing newlines. None
+**SIXTY-SIX TO SIXTY-NINE line-level edits across TWENTY-SIX chapter files, plus twenty-nine trailing newlines. None
 is in this phase.**
+
+**Both numbers are derived from the six rows below in the same breath, because this audit has twice already had two
+files publish the same measurement differently — the two word-count conventions, and F11's count.** The lines are
+26 + 3 + 33 + (0 or 1) + (3 to 5) + 1. The files are the union, row by row: 10, then 2 more, then 12 more, then 1, then
+1, and the last row adds **none**, because ch 451 is already inside the apostrophe row's ch 450–463.
+
+**What was published before this review, and why it is withdrawn:** `book-metadata.md` said **thirty-eight edits across
+thirty-one files**, this file said **sixty-six to sixty-eight across thirty-three**, and neither could both be true.
+The thirty-three was reproducible only on the over-reaching file list, which named seven clean chapters; on the corrected
+list it is twenty-six. The thirty-one was never reproducible at all. **The low end of the line total is sixty-six
+because the twenty-first-finding table left F22 out; with F22 it is the figure above.**
 
 | Repair | Files | Lines |
 | --- | --- | --- |
-| Correct the twenty-five relative-month figures in F1 and the order in F2 | ch 421 · 425 · 432 · 434 · 445 · 449 · 466 · 467 · 469 · 470 · 471 · 472 · 473 · 474 · 476 · 477 · 478 — **17 files** | **26** |
+| Correct the twenty-five relative-month figures in F1, the order in F2 and the carried interval in F3 | **ch 467 · 469 · 470 · 471 · 472 · 473 · 474 · 476 · 477 · 478 — 10 files, and no others.** *(Corrected by the close review: this row previously listed seventeen files. Seven of them — ch 421, 425, 432, 434, 445, 449 and 466 — are **referents inside the finding table**, not chapters with a wrong figure on them. A repair phase following the old list would have opened seven clean files and changed nothing.)* | **26** |
 | Replace three card-vocabulary section headings with what the sections do in the world's terms | ch 457 · 461 · 477 | **3** |
 | Recast straight ASCII apostrophes to curly | ch 450–463 — **14 files** | **33** |
 | Decide on `erased` at ch 424 and recast or keep | ch 424 | **0 or 1** |
 | Thin `eighty-four` in ch 464 | ch 464 | **3–5** |
+| **Rename the second `## The Lane End` at ch 451 so the two sections do not share a title (F22). The file is already in the apostrophe row above, so this row adds a line and not a file** | **ch 451** | **1** |
 | Add trailing newlines | ch 421–434 · 450–464 — **29 files** | **29 bytes** |
 
 **Everything else on this page is recorded and not repaired, deliberately: `about…` at 470 volume-wide, `whole of` at
-83, the *nobody* family at 221, `eleven` at 229, and the eleven duplicated paragraph texts at 22 instances.** These are
-volume-scale signatures and a volume-scale pass is what they belong to. **The `nobody` family at 221 across fifty-eight
+83, the *nobody* family at 221, `eleven` at 229, the eleven duplicated paragraph texts at 22 instances, and the 21
+cross-chapter section-heading echoes under F22.** These are volume-scale signatures and a volume-scale pass is what they
+belong to. **The `nobody` family at 221 across fifty-eight
 chapters is 3.8 a chapter against Volume 7's 0.6, and the outline's own reason holds and is recorded: Volume 8 is the
 first volume of the run with a large number of people in it who do not know her.**
 
@@ -354,6 +401,16 @@ Hunter's name at ch 440 — and both changes are recorded above and both are for
   recurring eight-word paragraph openings across 229 instances of 3,221 paragraphs**, and thirty-five short paragraphs of
   under six words repeating 141 times, which are the ordinary *All right.* / *No.* / *Yes.* of a book where people answer
   each other.
+- **Section-heading identity was not measured by that scan** — the scan compared **body-prose blocks at six words or more**
+  and `##` lines were outside it by method. Run over every block, headings included, the volume gives **15 duplicated
+  texts at 30 instances**, of which four texts are `##` heading pairs — ch 421/428 *The Yard At The Turn*, ch 436/462
+  *What She Did Not Do*, ch 457/461 *His Mouth, In Five Pieces*, ch 461/466 *What She Did Not Say* — all cross-chapter and
+  all six words or more. **The remaining eleven texts at twenty-two instances are the prose figure above, and it is
+  unchanged.** A heading of three words, which is what ch 451 has, is under the floor either way. Measured as headings:
+  **22 texts appear more than once across ch 421–478, at 45 instances, and exactly one collides inside a single chapter,
+  ch 451. F22.** The other 21 are cross-chapter echoes and most are bookends — `## The Shed` at ch 441 and ch 478,
+  `## The Reading` at ch 445 and ch 473, `## The Yard At The Turn` at ch 421 and ch 428 — and `## The Arithmetic` is the
+  only text that appears three times.
 - **The fourth frame scene is on the page at ch 458 and is the only marked present frame in the volume.** Every
   chapter opens on her or on the ground but that one. **Every sentence Yuan speaks in ch 421–478 is in the present
   tense**, verified on the four chapters where he speaks at length — ch 453, ch 458, ch 466, ch 471 — and on the two
@@ -407,6 +464,43 @@ put it is right.**
   the outline is untouched.
 - **It did not write a second prompt and did not create a second `workspace/volume-0*` directory.**
 - **It did not write a `.done` marker.**
+
+---
+
+## The close review, and what it changed on this page
+
+**This file was audited after the close ran. The review returned five findings and all five are closed here. The review
+edited no chapter file and wrote no prose; it corrected four figures, added one finding, and added one row to the
+repairs table.**
+
+1. **F11's count did not reproduce — and the cause was the method, not the arithmetic.** The close published **18**
+   with no method attached; the reviewer measured **13**. **Both are exact.** 18 is case-insensitive and includes the
+   ordinal `eighty-fourth`; 13 is case-sensitive lowercase and the bare number only. **F11 now carries both figures with
+   the method named against each, and the density finding and the ch 464 repair are unchanged by which one is read,
+   because ch 464 is the hotspot on both.** This was the same fault the audit charged Batch 0004's `about…` row with as
+   F5, committed by the audit itself.
+2. **The repair totals contradicted each other across two files** — thirty-eight edits across thirty-one files in
+   `book-metadata.md`, sixty-six to sixty-eight across thirty-three here. **Neither survives.** The settled figure is
+   **sixty-six to sixty-nine line-level edits across twenty-six chapter files, plus twenty-nine trailing newlines**, and
+   both numbers are now derived from the rows of the table instead of asserted beside them.
+3. **F1's chapter count was fourteen and it is ten.** The finding's own failure table names ten chapters and no more.
+   **The repair row also over-reached**, listing seventeen files of which seven are *referents* inside the table rather
+   than defective chapters. Both are corrected, and the thirty-three-file total that inherited the inflation is gone.
+4. **A real defect the audit could not see: ch 451 carries `## The Lane End` twice**, at lines 101 and 127. It is
+   **F22**, with a repairs-table row and the reason the scan missed it: the duplicate scan ran on body-prose blocks at six
+   words or more, and this heading is three words long.
+5. **"Six verified instances" was seven** — six rows, one of them doubled. Corrected in all three places it appeared.
+
+**What the review explicitly confirmed as reproducing exactly**, and which therefore stands untouched: the word counts
+under both conventions, the 29 files without a trailing newline, the 33 straight apostrophes and their chapters, the
+italic and bold counts, the `about…` and `nobody`-family and `eleven` and `whole of` densities, the 478 `#` headings
+and zero collisions, the two bracketed lines, and **F1's twenty-five instances, which are unchanged and are the
+audit's main finding still.**
+
+**The miss pattern is worth carrying forward and is recorded in the state files: four of the five findings were counts
+the audit stated and did not reproduce, while every count it took against the files reproduced exactly.** The Volume 6
+close was repaired for this once already, and Volume 7's close recorded seven stale figures of the same shape. **A
+number published without the method that produced it is not a measurement, and this audit's own §C exists to say so.**
 
 ---
 
