@@ -32,7 +32,7 @@ There is no line anywhere in this county that says a figure about a person may n
 
 There is nothing at all.
 
-## The Morning
+## The Saying Of It
 
 At the first hour on the fourteenth of the month beginning 2,144 the four men came with the barrows and went past and one of them looked at her and said good morning and she said good morning, and about a hundred and sixty people came out of the ground into the light and started the day.
 
@@ -42,7 +42,7 @@ One thing at a time. In daylight. Standing up.
 
 She said, at the ninth hour, standing, in daylight, at the north end of two hundred rows of stones, in the ordinary voice, so that it would arrive:
 
-“My name is Ning Yan. I am nineteen. I have been on a slate at a turn twenty miles west of this ground since the ninth hour of the twenty-fourth of the month beginning 2,054, and that is eighty-one days counted with the first day as the first. A fifth of a month comes off the days in a column before a board goes up and this county takes one in twenty.”
+“My name is Ning Yan. I am nineteen. I have been on a slate at a turn two days of road west of this ground since the ninth hour of the twenty-fourth of the month beginning 2,054, and that is eighty-one days counted with the first day as the first. A fifth of a month comes off the days in a column before a board goes up and this county takes one in twenty.”
 
 She said, “And it has taken four days and one hour and twelve minutes off me, and that is my own total, and it is the first one that has ever been said out loud in front of anybody, and I am saying it standing up in the daylight because that is the only way a thing gets to exist in a place where two hundred people can hear it.”
 

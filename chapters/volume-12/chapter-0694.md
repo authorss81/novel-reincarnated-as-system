@@ -10,7 +10,7 @@ What is in it this time is a fortnight.
 
 On the twenty-second of the month beginning 2,114 a carter of fifty could not read a line in a woman’s own hand at the north end of a ground of two hundred people and said a name out loud twice and did not know that he had said it.
 
-On the first of the month beginning 2,144 a cart came east off a turn twenty miles west, having put a slate on another cart at the first hour, and it stopped at the north end of that ground and a man put down a stone and off the stone a strip of paper and kept his hand out until she had taken it.
+On the first of the month beginning 2,144 a cart came east off a turn two days of road west, having put a slate on another cart at the first hour, and it stopped at the north end of that ground and a man put down a stone and off the stone a strip of paper and kept his hand out until she had taken it.
 
 On the second, the third and the fourth of that month she took a strip of blank paper apart with a thumb and the daylight and came to the end of what could be known about it without asking anybody.
 

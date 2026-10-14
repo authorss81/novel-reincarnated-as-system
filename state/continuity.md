@@ -8523,3 +8523,431 @@ published so that review does not have to go looking for them.
 a chapter, or change an irreversible step. It did not touch `outline/series.md`, `outline/ending.md`, the ending's plan, the
 bracketed budget, or any stage. **The two deliverables of the planning phase are exactly two files and there is still no
 `workspace/volume-12-batch-0004/` — that one belongs to the Batch 0003 phase, which owes it and has not been written.**
+
+---
+
+## Established facts, Volume 12 Batch 0003 (ch 691–705) — THE FIRSTS
+
+### Where she is at the last page, in one line
+
+**Day 2,240, the seventh of the month beginning 2,234, at the ninth hour, at the broken wall, on the east side of a ground of
+two hundred people, in daylight, at IMMORTAL VESSEL 2, six hundred and eighty days lighter, with a strip of hand-made paper
+in the front of her bag that has her own total on it in two places, and with fourteen people in that ground who can do the
+arithmetic she cannot stop doing and whom she has told nothing.** Twenty-four days to the seventh first.
+
+### The day table, re-derived and measured
+
+**2 141** the twenty-eighth· **2 142** the twenty-ninth· **2 143** the thirtieth — all of the month beginning 2,114.
+**2 144** the first· **2 145** the second· **2 146** the third· **2 147** the fourth· **2 148** the fifth· **2 149** the sixth·
+**2 150** the seventh· **2 151** the eighth· **2 152** the ninth· **2 153** the tenth· **2 154** the eleventh· **2 155** the
+twelfth· **2 156** the thirteenth· **2 157** the fourteenth· **2 158** the fifteenth· **2 159** the sixteenth· **2 160** the
+seventeenth· **2 161** the eighteenth· **2 162** the nineteenth· **2 163** the twentieth· **2 164** the twenty-first·
+**2 165** the twenty-second· **2 166** the twenty-third· **2 167** the twenty-fourth· **2 168** the twenty-fifth· **2 169** the
+twenty-sixth· **2 170** the twenty-seventh· **2 171** the twenty-eighth· **2 172** the twenty-ninth· **2 173** the thirtieth
+— all of the month beginning 2,144.
+**2 174** the first· **2 175** the second· **2 176** the third· **2 177** the fourth· **2 178** the fifth· **2 179** the sixth·
+**2 180** the seventh· **2 181** the eighth· **2 182** the ninth· **2 183** the tenth· **2 184** the eleventh· **2 185** the
+twelfth· **2 186** the thirteenth· **2 187** the fourteenth· **2 188** the fifteenth· **2 189** the sixteenth· **2 190** the
+seventeenth· **2 191** the eighteenth· **2 192** the nineteenth· **2 193** the twentieth· **2 194** the twenty-first·
+**2 195** the twenty-second· **2 196** the twenty-third· **2 197** the twenty-fourth· **2 198** the twenty-fifth· **2 199** the
+twenty-sixth· **2 200** the twenty-seventh· **2 201** the twenty-eighth· **2 202** the twenty-ninth· **2 203** the thirtieth
+— all of the month beginning 2,174.
+**2 204** the first· **2 205** the second· **2 206** the third· **2 207** the fourth· **2 208** the fifth· **2 209** the sixth·
+**2 210** the seventh· **2 211** the eighth· **2 212** the ninth· **2 213** the tenth· **2 214** the eleventh· **2 215** the
+twelfth· **2 216** the thirteenth· **2 217** the fourteenth· **2 218** the fifteenth· **2 219** the sixteenth· **2 220** the
+seventeenth· **2 221** the eighteenth· **2 222** the nineteenth· **2 223** the twentieth· **2 224** the twenty-first·
+**2 225** the twenty-second· **2 226** the twenty-third· **2 227** the twenty-fourth· **2 228** the twenty-fifth· **2 229** the
+twenty-sixth· **2 230** the twenty-seventh· **2 231** the twenty-eighth· **2 232** the twenty-ninth· **2 233** the thirtieth
+— all of the month beginning 2,204.
+**2 234** the first· **2 235** the second· **2 236** the third· **2 237** the fourth· **2 238** the fifth· **2 239** the sixth·
+**2 240** the seventh — all of the month beginning 2,234.
+
+A script was run over all fifteen files matching every ordinal on the page against its month-begin under
+`((day − 134) mod 30) + 1`. **One hundred and twenty-four pairs were checked and one was wrong before the review** — ch 695's
+*the eighth of the month beginning 2,114*, which is day 2,121 and should be the eighth of the month beginning **2,144**, day
+2,151. **It is now right and the page holds no wrong ordinal.** The only remaining non-reproducing pairs are the two
+historical dates in ch 695 and ch 702 that quote ch 665's asking, which the review also corrected.
+
+**THE FOUR FIRSTS IN THIS BAND ARE FOUR, NOT THREE.** **2 144 · 2 174 · 2 204 · 2 234** — the third, fourth, fifth and sixth,
+all four on the page, and ch 705 says *four firsts now where nothing was noticed*. **Batch 0004's band, 2 241–2 300, holds two
+of them and not three: 2 264 and 2 294.**
+
+### The lighter figure, measured on the page
+
+`D − 1,560`, counted with the first day as the first. **Five hundred and eighty-three at day 2 143 (ch 691) · five hundred
+and eighty-nine at day 2 149 (ch 695) · six hundred and thirteen at day 2 173 (ch 700) · six hundred and fifty-five at day
+2 215 (ch 704) · six hundred and eighty at day 2 240 (ch 705).** All five checked by subtraction from the day number. **The
+Batch 0002 review left ch 695 carrying five hundred and eighty-five, which is day 2 145 and not the day the chapter is on;
+it is now five hundred and eighty-nine.**
+
+### The total, and every figure in it, measured
+
+- **The span.** **2 157 − 2 077 = 80, and 81 counted with the first day as the first**, from the ninth hour of the twenty-fourth
+  of the month beginning 2,054 (day 2 077) to the fourteenth of the month beginning 2 144 (day 2 157).
+- **The fraction.** One in twenty. **81 ÷ 20 = 4.05, and a twentieth of a day is one hour and twelve minutes.**
+- **The figure she said out loud at the ninth hour of day 2 157, standing, in daylight, at the north end of two hundred rows
+  of stones: FOUR DAYS, ONE HOUR AND TWELVE MINUTES.** True, because her hand cannot write a false line, and nobody writes
+  one twice.
+- **It moves, and the page says so.** At day 2 158 it is four days and two hours and twenty-four minutes. At day 2 164 it is
+  four days and nine hours and thirty-six minutes. At day 2 174 it is four days and twenty-one hours and thirty-six minutes,
+  and **that figure is on a slate in a county hand at the first hour of the fourth first**, and it matches. At day 2 234 it is
+  seven days and twenty-one hours and thirty-six minutes.
+- **Checked by three roads on the page at ch 696 and re-measured here: 7 + 30 + 30 + 13 = 80 days to the thirteenth, 80 ÷ 20 =
+  4 exactly; 81 ÷ 20 = 4.05; 158 days to 2 234 ÷ 20 = 7.9 = 7 days 21 hours 36 minutes; 218 days to 2 294 ÷ 20 = 10.9 = TEN
+  DAYS AND TWENTY ONE HOURS AND THIRTY-SIX MINUTES, which is ch 717's and is Batch 0004's.**
+- **THE REPAIR CORRECTED TWO FIGURES THAT DID NOT MOVE.** Ch 698 had day 2 164 at *four days and eight hours and thirty-six
+  minutes* and ch 705 had day 2 234 at *four days and eight hours and thirty-six minutes* as well. **They are now four days and
+  nine hours and thirty-six minutes and seven days and twenty-one hours and thirty-six minutes.**
+
+### The board at the north end of the rows, and the count on it
+
+**Four men, one stroke and a number each, in the evening, four lines a night, for nine years.** Her line went in on the fifteenth
+of the month beginning 2 114 (day 2 128). **Sixty-four lines by the ninth hour of day 2 143 · a hundred and forty-four by the
+ninth hour of day 2 164 · three hundred and sixty-four by the ninth hour of day 2 219** (ninety-one nights × 4). **There is a
+stray stroke at the top on every one of the three counts, put in early by the man who has the second hour, and she leaves it
+every time.** None of the four can read the one that is hers.
+
+### Established on the page, chapter by chapter, and true
+
+1. **A record kept out loud cannot be checked against a page, and the fifth term cannot be enforced by either of them.** She
+   proved it on the page by telling him, at the second hour of the twenty-ninth of the month beginning 2 114, that her arm
+   was closed, on purpose, when it was open. He did the only thing the sixth term allowed and wrote down what she said, and
+   she said out loud at the ninth hour that she had done it. **There is no seventh term and a document agreed to in daylight
+   cannot be added to.** This is a fact of the arrangement from ch 689 and not a new cost.
+2. **THE STRIP.** Nine inches long and two across, hand-made, long rag fibre every way at once, two edges cut with a knife
+   and one torn for half an inch and stopped, **a square the size of the flat of her hand pressed into the middle of it,
+   darker than the paper and not wet and not ink and not grease, nothing written on either side.** A third heavier than county
+   paper of its size, proved on the bar. **It came off the top of the stair four miles up a mountain, on a cart, from a man of
+   forty who put his hand out flat and kept it out until she took it and did not ask where it came from and did not look at
+   it again.** A bundle is a square of oilcloth with a weight in the middle of it.
+3. **She cannot be given it, and there is nothing to be given.** A shape is a date and a place and true statements about a
+   person in a hand a thing that keeps records can find, and there is no form in this county a nine-inch blank strip can come
+   on except the eight leaves against her ribs, and those are hers and blank. **So she wrote the sum on the back of it and put
+   no name on it, on purpose, and said so out loud at the second hour of the ninth of the month beginning 2 144: a thing with
+   no name on it is not a thing anybody is on.**
+4. **THE FIGURE IS NOT A SECRET AND ANYBODY WITH A BOARD AND A CHALK COULD HAVE IT.** Said out loud at the tenth hour of the
+   thirteenth of the month beginning 2 144, at the south end of the ground, to the board. **It is a date, a day and a fraction,
+   and the fraction is one in twenty on every ground in this county and has been since before anybody alive was born.** This is
+   Batch 0003's structural discovery and ch 704 is where it costs her.
+5. **THE THIRD COLUMN OF THE SLATE, seen at the first hour of the fourth first.** Four columns; the chalk side shows a name and
+   the days of a month; the pencil side, which has faced the wall for nineteen years, shows **a figure under every name and a
+   fourth column of names.** The figures are days and **every name, every month, one in twenty of the days that name has had
+   in its column, added to what it had already had.** **The figure under hers is ninety-eight days, which is 98 ÷ 20 = four and
+   nine tenths, which is four days and twenty-one hours and thirty-six minutes, and the figure she said out loud to two hundred
+   people seventeen days before had accumulated to exactly that.** **It is right.**
+6. **THE FOURTH COLUMN IS NAMES, AND A NAME IN IT IS A NAME THAT CAME OFF THAT BOARD.** **Three hundred and one of them, counted
+   twice.** The man of forty-nine does four a month and has done it for nineteen years, so there have been nine hundred and
+   twelve names on that board. **Three hundred and one is very nearly a third and not a fifth and not a tenth.** **The fourth
+   name from the bottom is the woman of sixty who is sitting on a bench four hundred yards west of that frame at the time.**
+   She has been told nothing and is owed nothing and Ning Yan is not entitled to say it to her.
+7. **IMMORTAL VESSEL 2, at ch 702, day 2 206, the third of the month beginning 2 204, at the second hour, standing at the
+   outside of a low door with her eye at the grille. Taken in nine seconds. No announcement, no voice, no line anywhere.**
+   **The interval is seventy-eight and not seventy: 2 206 − 2 128 = 78, and the chapter says why, which is that the receiver has
+   to be found before the announcement is worth sending and finding one takes longer than making one.** The fifth first, day
+   2 204, came and went two days short of it and she sat on the top step in the dark and counted it going past, **which is
+   the first first of a month she has ever let go by without wanting to be at it.**
+8. **THE SECOND VOLUME 12 COST, named once, at ch 702, and not re-explained in ch 703–705: SHE CANNOT BE MET WHERE SHE IS
+   EXPECTED.** A room with a long table in it and a lamp at the far end and no chairs, built for somebody who comes when there
+   is something to receive. **She is expected and she is not met, and there is no instrument in the world that will tell a room
+   what to do about a person standing on the wrong side of a low door, and she is the wrong person by nine years of arriving on
+   her own and not on anybody's errand.**
+9. **WHAT A LAMP DID.** At the second hour of day 2 206 something went up four flights, opened the door, lifted a bar, put a
+   lamp in a cage at the far end of the long table and put the bar back, in about nine seconds, and did not open the door
+   again. **The dust on the bar was not broken anywhere and the nine feet between it and the floor had not been walked on.**
+   **She said out loud, into the dark, to the door: *You lit a lamp.*** And: *nothing in this world has ever lit a lamp for me
+   before, and I am nineteen years old and I have been met four times in thirty-one years by a man in a doorway with his hat
+   off, and the lamp is the first thing in eleven hundred years that met me, and it did not say one word.*
+10. **THE CARRIED COST APPLIED AT SCALE, and not re-derived: the first stage nobody could come and find.** She went up four
+    flights on each of seven days and put her eye to the grille and the lamp was burning every one of them. **A carter comes up
+    that hill once a month on his own time and there is no other way up; if she is not in the building he comes and there is
+    no one and he takes it back down and has nowhere to take it.** **His board by the door is days and not names; nine of them on
+    it; not one person comes and reads it.** So: **if she is not in the building on the day he comes, then on the day he comes
+    she is nowhere. That is not a figure. That is the absence of a place.**
+11. **THE ROW LEARNED THE ARITHMETIC FROM HER AND SHE DID NOT GIVE IT TO THEM.** On day 2 158 a man of fifty asked whether his
+    two rows were counted right. **By day 2 164 there was a queue of small sums at the frame; nine a day by day 2 163 and ten by
+    day 2 170; on day 2 164 three of them were not waiting for her.** **On day 2 215, when she came back, there were nine people
+    doing it without her; on day 2 219 there were fourteen; forty people in that ground can count to eighty.** **She did not
+    tell them and she is not going to, and she has three reasons and two of them are good and the third is that she cannot stop
+    counting.** A boy of nineteen in that ground told her once, as arithmetic and not as a warning, that if one of them knew
+    there would be not one of them left on the rows in a month. **It is not resolved.**
+12. **She answered her own ch 665 asking out loud, in front of nine people, on the eighteenth of the month beginning 2 144: CAN A
+    PERSON BE ANNOUNCED WITHOUT BEING DESIGNATED. No. You cannot.** And then, once: *I did not want an announcement without a
+    name. I wanted a figure without a name.* **The asking is not retracted, is not softened, and is not asked again; only the
+    answer is given.**
+13. **She planned for a dated day for the first time in eleven volumes,** over six days, and worked out what a mile costs with a
+    bar that has no strap on it: half a mile is eight hundred and eighty yards, twelve minutes, two hundred and six counts of
+    breath over the four-count baseline, two set-downs at twenty-nine counts each. **She decided to lie to the ground four
+    times in three days and told them so out loud before she did it.**
+14. **She went west for the first time since the first of the month beginning 2 084** and put the bar down four times between
+    the rows and the wall and was at the wall at the seventh hour of the twenty-eighth of the month beginning 2 144, with her
+    arm open. **She was at the two posts at the fifth hour of the afternoon of the thirtieth and the frame at the first hour of
+    the first, and a woman of sixty on a bench told her, and was right, that the light comes up on that frame last.**
+15. **At the last page she is at the wall because a person at a wall is the only kind of person she has ever been that nobody
+    comes and asks anything of.** She has been at it since the seventh hour of the twenty-fourth of the month beginning 2 204.
+    **She counted nine hundred things in the first two days and this was the first time in nine years that being in a place had
+    cost her nothing at all.** She went through every single thing she has ever been the only one of knowing and there were five
+    and four of them were about boards and the fifth was a lamp at the far end of a long table four miles up a mountain.
+16. **The sixth first went past at the first hour of day 2 234 while she was standing at the wall.** She had made a plan four
+    days earlier to be two hundred yards from it and had not done it. **She did not go and tell the fourteen anything and she
+    has not stopped counting, and the seventh first is twenty-four days on from the last page.**
+
+### How far the rows sit past the wall: the open finding, and what this batch did about it
+
+**THE OPEN QUESTION IS STILL OPEN AND THIS REVIEW DID NOT SETTLE IT.** `state/current.md` has carried *how far the rows sit past
+the wall* as open since the Volume 11 close and `outline/volume-12.md` §*Major locations* says the same thing in the same words:
+*the rows (how far past it is open and no card settles it)*. **Three candidate figures exist and they were not arbitrated
+against each other, because arbitrating them is a decision about the map and not a repair.**
+
+| Source | What it says | Rows from the turn |
+| --- | --- | --- |
+| `ch 601:61`, `ch 603:109`, `ch 607:133`, `ch 609:105`, `ch 610:27`, `ch 617:187`, `ch 659:5`, `ch 660:3`, `outline/volume-12.md` §*Major locations* | thirteen miles from the turn to the wall, eleven of made road from the gate and two short of the wall | — |
+| `ch 659:5` and `ch 660:3`, Volume 11 canon | *the wall is thirteen miles east of the turn and the rows are another four past the wall* / *She walked the seventeen miles in the dark* | **seventeen** |
+| `ch 677`, audited at the Batch 0002 review | three miles past the wall, sixteen from the turn | **sixteen** |
+| `ch 618` | two or three hundred yards | **thirteen and a bit** |
+
+**WHAT WAS WRONG ON THE PAGE IN THIS BATCH, AND WHAT THE REVIEW DID ABOUT IT.** The batch asserted **twenty miles** for the leg
+between the rows and the turn, in **twelve sentences across nine chapters**, which puts the ground seven miles past the wall and
+contradicts every candidate above. **It also asserted, inside one paragraph of ch 700, that the wall was thirteen miles west of
+where she had started — pasting the turn-to-wall figure onto the rows.** And ch 702 stated a distance between the tower and the
+turn, which `outline/volume-12.md` forbids in any card because the manuscript has never stated one.
+
+**THE REPAIR WITHDRAWS THE NUMBER AND ASSERTS NOTHING IN ITS PLACE.** Twenty miles has been removed from every sentence that
+carried it and ch 700's fourth statement has been corrected. **The batch now measures that leg the way it measures everything
+else, in days, and the days are its own and are on the page: ch 700 times it.** She left the rows at the first hour of the
+twenty-eighth of the month beginning 2 144 (day 2 171), was at the wall at the seventh hour of that day, was on the bench at the
+ninth hour of the next and at the two posts at the fifth hour of the afternoon of the day after that, and at the frame at the
+first hour of the first of the month beginning 2 174. **That is the unit on the page: two days of road.** It settles nothing
+about miles, it does not pick thirteen, sixteen, seventeen or twenty, and **no card in Batch 0004 may put a mile figure on that
+leg.**
+
+**ONE NEW OBSERVATION THE CLOSE WILL WANT, recorded here and not repaired.** `ch 601:61` puts the post with a keeper on it nine
+miles west of the turn, and `ch 700` puts the same post at the ninth mile of a thirteen-mile walk **from the wall**, which is four
+miles from the turn. **That is a fourth map inconsistency and it is a Volume 11 one; this review left both sides standing and did
+not pick.**
+
+### Untouched and unraised across ch 691–705
+
+`Ledger` 0 · `reconciled` 0 · `plate` 0 · `kiln-born` 0 · `MEMBER ABSENT` 0 · the four erased months not named · the ch 150
+refusal not softened · `the year` 0 · `forgiv` 0 · `thank` 0 · her mother's name never said · the three Volume 11 costs carried
+whole and never re-derived · **ch 685's cost carried at scale and not re-derived** · **ch 702's cost named once and not
+re-explained in ch 703–705** · no bracket and nothing in square brackets in fifteen chapters · **one frame scene only, at ch 694**
+· **no stage named before ch 702 and none after it, and Immortal Vessel 3 is ch 716 and is not named** · the four sheets of rice
+paper never against her ribs, never quoted, the forty-one strokes not looked at · **the key never used on the page in thirty days
+at the tower** · the five blank leaves blank and nothing put in them · **the lever not carried once in this batch** ·
+`Scribe` 0 · `Anchor` 0 · `Sisterhood` 0 · `bargain` 0 · `Ledger` 0 · no new clearance, seal or countersignature · no office above
+the Standing Office of the Second Account · no harem and nothing a romance · Ning Wu 0 · Xie Changyin 0 · Feng Lushi 0 ·
+Shuyin 0 · the Hunter 0 · **the ch 658 sentence not quoted again** · ***twenty-two days* unplaced and never equated to a dated
+interval** · **the ch 665 asking not un-asked and its first half not re-explained** · **the bill for Court still unanswered, and
+nothing in this batch said that it may take the writing off the board and not the person.**
+
+### Volume 12 Batch 0003 construction budget, measured by grep against the fifteen files and not promised
+
+**Method B in every word figure: body prose is every line not beginning `#`, counted per file and summed.**
+
+- **29,212 words of body prose over fifteen chapters, average 1,947**, day 2 141 to day 2 240. Per file: 691 2,099 · 692 1,871
+  · 693 2,334 · 694 1,843 · 695 1,891 · 696 2,283 · 697 1,952 · 698 1,750 · 699 1,872 · 700 1,772 · 701 1,889 · 702 1,912 ·
+  703 1,847 · 704 2,208 · 705 1,689. **The pre-repair figures, 29,202 and the per-file list in the deferred block above, are
+  the old page and must not be quoted as this batch's.** Volume to date: **88,029 over forty-five chapters at average 1,956** —
+  Batch 0001 30,000 · Batch 0002 28,834 · Batch 0003 29,212.
+- **Bracketed layer lines 0. Bold 0. Italic lines 0. Blockquotes, code fences, tables, horizontal rules 0. Standalone
+  all-caps lines 0. Straight quotes and straight apostrophes 0** (three hundred and fifty-eight curly marks on the page and not
+  one straight one). **All fifteen files carry no trailing newline, as every Volume 12 file does.**
+- **Named weekdays 0 · named calendar months 0 · named weeks 0.** `about four seconds` 0 · `eleven weeks` 0 · **`week` 0
+  volume-wide.**
+- **Banned reflexes 0** across the directory: *his eyes widened · he couldn't believe it · suddenly · little did he know*.
+- **Authorial scaffolding 0.** The bare words *volume* and *volumes* occur eight times in the batch and **every one of them is a
+  physical shelf of four hundred volumes in a copying room**, which is the widened pattern Batch 0002 caught and cut. *Chapter* 0
+  as a word on the page. *The end of the book* 0.
+- **The seven retired phrases: 1 in the batch and 1 volume-wide** — *there is no form* at ch 693, which is load-bearing and stays.
+  **The second instance, *there is no column* at ch 700, was cut by this review**, because the sentence already had *there is no
+  mark* doing the same work and the batch was over its own line of one. The full seven are *nobody asked · nobody was thanked ·
+  there is no form · there is no column · the record remained · nobody knew · nobody said anything*, case-insensitive, body prose.
+- **Craft words, batch against its own line and the volume against its line.** **`nobody` 2** (under twelve) · **`eleven` 9**
+  (under sixteen) · **`thank` 0**. **Volume-wide: `nobody` 21** (under thirty) · **`eleven` 31** (under forty) · **`thank` 0**.
+  **Batch 0004 has nine people and nine thousand words of room on both and the lines still land.**
+- **Count words, published with the method in the sentence.** **`about` 117**, against Batch 0001's 120 and Batch 0002's 175
+  after its repair — **the batch is the lightest of the three and that is the rise Batch 0002 asked to be beaten** ·
+  **`nothing` 65** · **`whole of` 27** · **`out loud` 50**, against Batch 0002's post-repair 64 · **`list` 0**.
+- **Titles: fifteen names, 3 to 12 words, all unique against all seven hundred and five standing headings in the manuscript** —
+  *What A Voice Cannot Be Checked Against · The Slate Goes East · The Square In The Middle Of It · A Shape Is A Thing Kept ·
+  Three Days Of Not Saying It · Six Days Of One Sum · The Only Person Who Can Say It · The Question She Asked Was Wrong ·
+  What Thirty Days Costs · Going West Past The Wall · The Line She Had Not Seen · The Room That Expected Somebody ·
+  No Way Of Knowing Where To Come · What Two Hundred People Can Do · Still On This Side Of The Line.*
+- **Section headings: nine were renamed by this review and there is now no duplicate anywhere in the volume.** `The One
+  Question` (ch 692) → **The Man With The Rope** · `The Decision` (ch 695) → **What She Would Say And When** · `The Morning`
+  (ch 697) → **The Saying Of It** · `What She Did About It` (ch 701) → **Three Things That Were Arithmetic** · `Thirty Days`
+  (ch 702) → **Staying Thirty Days** · `The Morning` (ch 703) → **Going Down The Mountain** · `What She Did Not Do` (ch 704) →
+  **The Reason That Is Not Good** · `The Wall` (ch 705) → **At The Broken Wall** · `What Four Days Of A Wall Is` (ch 705) →
+  **What Is At A Wall**. Checked with `uniq -d` over all two hundred and seventy-two headings in the directory and now empty.
+- **Paragraphs: 802 in the batch, none over one hundred and twenty words and none over the working limit, most of them two to
+  four sentences.** **Fifteen paragraphs run 91 to 111 words** — the band the previous review named — **and they are left
+  standing, because the working limit is about 120 and every one of them is inside it.** The longest is 111.
+- **Proper nouns and zeroed tokens, volume-wide:** `Scribe` 0 · `Anchor` 0 · `Sisterhood` 0 · `bargain` 0 · `Ning Wu` 0 ·
+  `Xie Changyin` 0 in this batch (her nine volume mentions are all in ch 679 and ch 684, which is where the outline puts her) ·
+  `Feng Lushi` 0 · `Shuyin` 0 · `Hunter` 0 · `Wei Ran` 0 · `charged` 0 · `bookkeeping` 0 · `receipt` 0 · `bounded world` 0 ·
+  `the walls` 0 · `Ledger` 0 · `reconciled` 0 · `plate` 0 · `kiln-born` 0 · `MEMBER ABSENT` 0 · `forgiv` 0 · `the year` 0 ·
+  `twenty-two days` 0.
+- **No chapter is under the 1,300 floor and none is over the 2,700 guide.** The shortest is ch 705 at 1,689 and the longest is
+  ch 693 at 2,334.
+
+### Running ledger — at end of ch 705, day 2,240
+
+- **Ning Yan — IMMORTAL VESSEL 2**, taken at ch 702, day 2 206, at the outside of a low door at the top of a stair. **Nineteen.**
+  A bar nine feet nine **with no strap on it**, which costs twenty-two to fifty-four counts every time and has been picked up
+  four hundred and sixty times. **Four fingers and a thumb, the index gone — still four at this page, and three at ch 717.**
+  Right arm open four days in five. Four counts of breath with seven on a rise and nine standing still. The small open place
+  low behind her fourth rib, the size of a coin. **Six hundred and eighty days lighter and not one day of it gone back. Not
+  hungry.**
+- **Against her ribs: one object.** A book of eight leaves made out of a blanket, a date and a place on the first, four sentences
+  on the second, `YUAN SHENG` on the third in four capital strokes in her own hand, and five blank that are hers. **She has
+  called it nothing and this batch did not name it for her, and it still is not named at the last page.**
+- **In her hand:** two coppers she cannot count. In her bag: a dish, a lump of clay, a ring a finger's width, a stub of a nib,
+  a cake of ink opened on the seventh of the month beginning 1 874 and never let dry, **a key to a locked drawer she did not
+  use in thirty days at the tower**, and **a strip of hand-made paper nine inches long with eighty-one lines on it and the
+  same sum written underneath in words.**
+- **In front of two hundred people:** a figure of four days and one hour and twelve minutes, said out loud at the ninth hour of
+  day 2 157, and a queue of small sums at a frame every afternoon since, and **fourteen people who can do the arithmetic she
+  cannot stop doing.** **She has told none of them.**
+- **Two days of road west, on a slate in a county hand:** her name, the days of the month, **a figure under it in pencil of one
+  in twenty of every day that name has had in a column**, and **a fourth column of three hundred and one names that came off
+  that board, and the fourth one from the bottom is on a bench.**
+- **Four flights above a copying floor:** a room with a long table in it and a lamp in it that was out nine years ago and is
+  burning, and a bar across the outside of the low door whose dust is not broken. **She is leaving the oil for it with a boy of
+  sixteen and she will not be able to feed it.**
+- **Against the inside of the county hand and her own:** a record being kept out loud with six terms and no seventh, **the fifth
+  term unenforceable and known to be so**, and **a bill that has been raised out loud and answered by nobody.**
+- **Yuan.** **Court, from ch 687.** Present tense throughout, no figure of what is left of him on any page, one frame scene at
+  ch 694 in which he decides to ask her to keep a shape for him and **cannot say the day and is going to do it anyway.**
+- **What Batch 0004 inherits:** the seventh first at day 2 264 and the eighth at day 2 294, **two of them and not three** · the
+  two posts at ch 706 and the seventh first going by at ch 711 with her still below the line · **Immortal Vessel 3 at ch 716,
+  day 2 290, and its cost she cannot be counted where she stands, in the mouth of the man of sixty-five with the book** · the
+  eighth first at ch 717 and the line and the hand and **three fingers and a thumb** · **the harvest at ch 718 taking a board
+  and not a person** · ch 719–720 and a second stair she does not go up · Shuyin once and the Hunter second and **Ning Wu at
+  ch 713** · the man with the shut notebook's second appearance · the two thousand nine hundred and twenty · the open bill ·
+  the fifth term · the fourteen · a lamp as the nearest thing to being met that this world has offered her ·
+  ***twenty-two days*, unplaced** · **how far the rows sit past the wall, open** · the four names in the fourth column.
+
+## VOLUME 12 BATCH 0003 — REVIEW REPAIR
+
+**The fifteen chapters were drafted by an earlier run of this phase and were deferred before it wrote any state file. This block
+is the review that ran afterwards, against the fifteen cards, against `outline/volume-12.md`, and against every ordinal and every
+figure on the page. It cleared nineteen defects across eleven chapter files and one across a twelfth, moved no card beat, no day,
+no title, no stage, no irreversible step and no volume plan, and did not re-open a single beat.**
+
+### The hard errors, each with what it was and what it is now
+
+1. **THE MONTH-BEGIN AT ch 695 WAS WRONG.** *On the eighth of the month beginning 2,114, at the first hour* — 2 114 + 7 = day
+   2 121, which is two months before the three days the chapter is about. **The eighth of the month beginning 2,144, day 2 151.**
+2. **THE TOTAL DID NOT MOVE AT THE RATE THE CHAPTER SET FOR IT.** One in twenty of a day is one hour and twelve minutes, and the
+   chapter says so eleven lines above the figure. **Day 2 164 is eighty-eight days counted with the first day as the first, and
+   88 ÷ 20 = four days nine hours thirty-six minutes. The page said four days and eight hours and thirty-six minutes.**
+3. **THE SAME FIGURE WAS WRONG AGAIN, IN A DIFFERENT MONTH, AT ch 705.** On the first of the month beginning 2 234 she stands at a
+   wall and knows what the pencil figure under her own name on a slate two days of road west says that morning. **Day 2 234 is
+   a hundred and fifty-eight days from the first and 158 ÷ 20 = seven days and twenty-one hours and thirty-six minutes. The page
+   said four days and eight hours and thirty-six minutes, which was a copy of the error in the previous item.**
+4. **THE FIGURE SHE CARRIED AT ch 695 WAS TWO DAYS SHORT.** She had been lighter every day since the fifteenth of the month
+   beginning 2 114. The chapter is on the sixth of the month beginning 2 144, day 2 149, and the rule is `D − 1,560`.
+   **Five hundred and eighty-nine, not five hundred and eighty-five.**
+5. **ch 700 SAID THE FIRST HOUR WAS TWENTY HOURS AWAY.** She was at the two posts at the fifth hour of the afternoon of the
+   thirtieth of the month beginning 2 144, day 2 173. **The first hour of the first of the month beginning 2 174 is eight hours
+   away.**
+6. **ch 700 SAID SHE WOULD FIND OUT WHAT WAS UP THE MOUNTAIN IN FORTY DAYS.** She said it at the ninth mile on the twenty-ninth,
+   day 2 172, and she is at the bottom of that mountain at the eighth hour of the second of the month beginning 2 174, day 2 175.
+   **Three days.**
+7. **ch 704 MEASURED EVERY INTERVAL OFF ch 704's own arrival and five of the six were wrong.** She came back to the ground at the
+   second hour of the twelfth of the month beginning 2 204, day 2 215, and the chapter ends on the sixteenth, day 2 219. **The
+   twenty-seventh of the month beginning 2 144 is day 2 170 and is forty-five days ago, not nine; she had four days, not nine, to
+   work out what the boy of nineteen was right about; she had been in the ground four days, not nine; she had been the only person
+   in it who knew where a figure like that comes from for four days, not nine; and she said her own total out loud in that ground
+   sixty-two days ago, not nine.**
+8. **ch 705's WALK DID NOT MATCH ch 700's, and two of its own dates fell out of its own arrival.** ch 700 times the ground-to-wall
+   leg at six hours and ch 705 called it a day and a bit and a day and a half, put the arrival on the twenty-eighth, and then found
+   her two days at the wall on the *second* of a month beginning 2 204, eight days later. **The wall is three hours from the north
+   end of that ground and the walk was six hours; she arrived at the seventh hour of the twenty-seventh, which is six hours after
+   she left; she put the bar down four times, as at ch 700, and her arm was open the whole of it; and the twenty-ninth is two
+   days.** Three hours from the gate to the wall is two miles at the pace ch 700 and ch 705 both measure.
+9. **ch 705's LAST COUNT WAS WRONG AND ITS ADMISSION OF BEING WRONG WAS NONSENSE.** She came off the store road onto the turn at
+   the first hour of the sixth of the month beginning 2 054, day 2 059, and the last page is day 2 240. **A hundred and eighty-two
+   days counted with the first day as the first.** The clause *and the second one is right by seventeen days* had no figure behind
+   it and is gone; the admission that she got it wrong the first time stays, because it is true and it is hers.
+10. **ch 705 SAID THE WOMAN OF THIRTY-FOUR HAD BEEN AT THE FRAME NINE DAYS AGO.** She was last at that frame in ch 704, on the
+    sixteenth of the month beginning 2 204, day 2 219, and the woman walked out of the east on day 2 235. **Sixteen days.**
+11. **ch 705 SAID SHE HAD WORKED AT NOT TELLING THEM FOR A FORTNIGHT.** She said it out loud at the ninth hour of day 2 219 and the
+    last page is day 2 240. **Twenty-one days**, and the word *week* stays at 0 in the volume.
+12. **ch 695 AND ch 702 BOTH DATED ch 665's ASKING TO A DAY THAT IS NOT ONE, AND SO DID ch 676.** *The ninth hour of the
+    fourteenth of the month beginning 2,034* is not a month-day under any rule; **ch 665 is canon and it says the sixth hour of
+    the twelfth of the month beginning 2,054, day 2 065.** All three now say that. **This is the one repair the review made
+    outside ch 691–705 and it is recorded here so that nobody mistakes it for a Batch 0003 change: ch 676 is Batch 0001's page
+    and it was the origin of the error.** Batch 0002 had already recorded that the date was carried forward verbatim and
+    uncorrected; it is now corrected.
+13. **ch 700's STORE ROAD DID NOT ADD UP TWICE IN ONE CHAPTER.** *She had been on paid road for nine days of the thirteen and nine
+    miles of it on the first* — **nine miles of the thirteen, and nine of them on the first** — and *then the nine miles of road
+    that is not paid for* in a thirteen-mile road with the post at the ninth mile. **Four miles.** And *two miles of flat … and
+    nine miles of store road after that* in a chapter whose road is thirteen. **Thirteen.**
+14. **ch 699's YARDS AND ITS GRAND SUM WERE BOTH WRONG.** *Half a mile is four hundred and forty yards* — a half mile is eight
+    hundred and eighty and four hundred and forty is a quarter of it. **Eight hundred and eighty yards, which at a pace of
+    twenty-eight inches is eleven hundred and thirty-one steps.** And the grand sum spoke aloud at the ninth hour of the
+    twenty-seventh read *a hundred and three counts* for a half mile where the chapter has measured two hundred and six twice on
+    the same page, and *thirteen miles is twenty-six hundred and forty seconds*, which is forty-four minutes for thirteen miles at
+    the chapter's own twelve minutes a half mile. **Twenty-six half miles, five thousand three hundred and fifty-six counts over
+    the baseline and five hours and twelve minutes of walking**, all of it from the figures already on the page.
+15. **ch 699 ATTRIBUTED AN EIGHT-COUNT DIFFERENCE TO TWO SET-DOWPS.** Four hundred and twenty is twice two hundred and six and
+    **eight** more, and a set-down costs twenty-nine. **The page now says the eight is not the set-downs and that she has not
+    worked out what the eight is**, which is what a person who has counted for nine years says when a figure will not resolve.
+16. **ch 701 CONTRADICTED ITSELF FORTY WORDS FROM ITS OWN HERO NUMBER.** *The ones at the bottom are ninety*, and then her own
+    name is four lines from the bottom with **ninety-eight** under it, on a column that gets bigger going down.
+    **A hundred and ten at the bottom.**
+17. **ch 704's MILE-FIGURE FOR THE TURN WAS ONE OF THE FOUR STATEMENTS OF THE OPEN MAP QUESTION** and is treated below, together
+    with the other three.
+18. **ch 702 STATED A DISTANCE BETWEEN THE TOWER AND THE TURN**, which `outline/volume-12.md` forbids in any card, because the
+    manuscript has never stated one. **It now says *somewhere a long way east, at a turn*.**
+19. **ch 704 HAD A WORD LEFT IN IT FROM A CARD.** *She spent the first two days of the fourth watching* — **the first two days
+    of it.**
+
+### The open map question, adjudicated without settling it
+
+The three statements are published in the table above. **The repair does not pick one.** It removes the one figure that is
+corroborated nowhere — twenty miles, in twelve sentences across nine chapters, which puts the ground seven miles past the wall
+against candidates of two or three hundred yards, three miles and four miles — and it corrects the fourth statement, ch 700's
+*thirteen miles west of where she started*. **What replaces them is the unit the batch had already measured for itself in ch 700,
+which is days, and the batch now says two days of road.**
+
+**`state/current.md` carries *how far the rows sit past the wall* as open, and it is open at the last page of this batch. No card
+in Batch 0004 may put a mile figure on the leg between the rows and the turn.**
+
+### What else the repair pass cleared, and the reasoning
+
+- **Nine section headings were duplicates of headings already in the volume** and were renamed. **`uniq -d` over all two hundred
+  and seventy-two headings in `chapters/volume-12/` is now empty**, which is the check and not the eye.
+- **One retired phrase was over the batch's line** and was cut. See the construction budget above.
+- **Fifteen paragraphs in the 91-to-111 band were left standing.** The working limit is about 120 words and the longest paragraph
+  in the batch is 111. **Splitting them would have been tidying, not repair.**
+- **Every card beat, every day and every title was re-measured against its card before anything was touched, and nothing moved.**
+  The four firsts are at 2 144, 2 174, 2 204 and 2 234 and ch 705 calls the one at 2 234 the sixth; the seventh is **twenty-four
+  days on from the last page**; Immortal Vessel 2 is at ch 702 and Immortal Vessel 3 is nowhere in the batch; the frame scene is
+  at ch 694 and there is no other; the irreversible step is at ch 697 and is the only one.
+
+### One measured deviation, recorded and not repaired
+
+**The card gave ch 705 the span 2 230–2 240 and the chapter opens on the twenty-fourth of the month beginning 2 204, day
+2 227**, three days earlier, because that is the day she leaves the ground and the day she arrives at the wall. **The card's own
+spans do not tile the band — there is a gap between ch 704's 2 219 and ch 705's 2 230 — and the chapter closes on exactly what
+the card asks it to close on: the sixth first going past at day 2 234 with her on this side of the line and the seventh twenty-four
+days off.** Closing the three-day gap meant cutting the crossing the chapter is built on, so the span is published as it stands and
+the card's figure is left as the brief that was drafted against.
+
+### What this repair did not do
+
+**It did not draft, re-draft or reorder a chapter. It did not re-open a beat, re-decide a card, add a chapter, change an
+irreversible step, move a stage, or touch `outline/volume-12.md`.** It did not settle the open map question. **It did not touch
+ch 691–705's plot, and the batch is 29,212 words of body prose over fifteen chapters at average 1,947, and that is the figure in
+the construction budget above.**
+
+### One observation recorded and not repaired, for the volume close
+
+**Three of the fifteen chapters close on her counting the board at the north end of the rows** — ch 691 on sixty-four lines,
+ch 698 on a hundred and forty-four, ch 704 on three hundred and sixty-four. **Each one lands differently** — ch 691's is the
+cost of a record said out loud, ch 698's is the arithmetic out in the open, ch 704's is the unresolved fourteen — **and the beat is
+hers and has been hers since Volume 10, so it is a signature rather than a repeated construction.** The other twelve chapters
+close on a deadline, a question, a reversal or an emotional consequence. **The close may want to spend it once more or not at
+all, and this review did not touch an ending on a closed chapter to find out.**

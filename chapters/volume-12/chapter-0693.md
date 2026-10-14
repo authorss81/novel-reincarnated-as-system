@@ -102,7 +102,7 @@ She said, at the ninth hour, in the dark, to the board, with the strip in her ha
 
 “So somebody sent me a blank one and I do not know who, and I am not entitled to ask anybody, and there is not one person in nine days of road I could put that question to.”
 
-She put it into the front of her bag on top of the key, and she stood at the frame a while longer in the dark, and the four men had gone and the ground was lying down and the slate at the turn twenty miles west was standing face-up on a frame four hundred yards east of a bench with nothing at all written on it.
+She put it into the front of her bag on top of the key, and she stood at the frame a while longer in the dark, and the four men had gone and the ground was lying down and the slate at the turn two days of road west was standing face-up on a frame four hundred yards east of a bench with nothing at all written on it.
 
 And she thought about the eight leaves against her ribs, on which there is a date and a place on the first and four sentences on the second and four capital strokes on the third and five of her own that have been blank since the day she made them.
 

@@ -8,11 +8,11 @@ She had never in nine years gone west out of that ground on purpose.
 
 The ground is four miles from the south end of it to the north end and she walked it at the second hour of the morning with the bar on her shoulder and about a hundred people lying down about it, and she got to the gate and out of it by the fourth hour.
 
-Then two miles of flat with nothing on it to lie down on and the sun coming up on her left over three days of ground and a broken wall thirteen miles west of where she started.
+Then two miles of flat with nothing on it to lie down on and the sun coming up on her left over three days of ground and a broken wall at the end of it.
 
 She put the bar down twice on the flat and once in the first mile and once at the wall, and every set-down cost her between twenty-nine and forty-one counts, and she was at the wall at the seventh hour of the twenty-eighth with her arm open and four counts of breath where she should have had four and nine where she had not asked for nine.
 
-Two miles of flat with nothing on it to lie down on, and nine miles of store road after that, and a woman of sixty said something to her at a turn she has not got to yet.
+Two miles of flat with nothing on it to lie down on, and thirteen miles of store road after that, and a woman of sixty said something to her at a turn she has not got to yet.
 
 The wall stands open four feet and a bit. She went through it at the seventh hour and looked west and there was a made road and the sun on it, and she did not count the leg between the wall and the ground behind her and she noticed herself not counting it, which she has done once before and did not enjoy then either.
 
@@ -26,13 +26,13 @@ She went past all three and the woman at the cottage did not say one word and ne
 
 And she stopped at the ninth mile, which is the end of the paid road, and stood at the post there for a count of sixty.
 
-There is a post at the end of nine miles and after that it is not a road anybody pays for, and the thing about a paid road is that it is about how it is kept and not about where it goes. She stood at that post and worked out, out loud, in daylight, alone, that she had been on paid road for nine days of the thirteen and nine miles of it on the first, and that there has been no road under her feet for four hundred yards.
+There is a post at the end of nine miles and after that it is not a road anybody pays for, and the thing about a paid road is that it is about how it is kept and not about where it goes. She stood at that post and worked out, out loud, in daylight, alone, that she had been on paid road for nine miles of the thirteen and nine of them on the first, and that there has been no road under her feet for four hundred yards.
 
 And she said, out loud, at the ninth mile, to a post:
 
-“I do not know what is up there and I am going to find out in forty days and there is no person in this county I could ask and I have not got anybody.”
+“I do not know what is up there and I am going to find out in three days and there is no person in this county I could ask and I have not got anybody.”
 
-Then the nine miles of road that is not paid for, and a cottage at the far side of it that is not the one at the lime bed, and then the turn.
+Then the four miles of road that is not paid for, and a cottage at the far side of it that is not the one at the lime bed, and then the turn.
 
 ## The Bench
 
@@ -54,7 +54,7 @@ That is all. It took nine seconds and it cost the woman of sixty something and s
 
 ## The Two Posts
 
-She got to the two posts at the fifth hour of the afternoon on the thirtieth of the month beginning 2,144, which is day two thousand one hundred and seventy-three, and the first hour of the first of the month beginning 2,174 is twenty hours away.
+She got to the two posts at the fifth hour of the afternoon on the thirtieth of the month beginning 2,144, which is day two thousand one hundred and seventy-three, and the first hour of the first of the month beginning 2,174 is eight hours away.
 
 The slate was in the frame.
 
@@ -86,7 +86,7 @@ That is what she came for, and she stood at a frame in the last of the daylight 
 
 A man of forty-nine told her at the ninth hour of the twenty-fourth of the month beginning 2,054 that the fifth comes off the days and does not say so on the board and does not come off the name.
 
-So of course there is nothing to see. There is no mark. There is no column for it and no line saying it and no figure on that slate that is different from any other month’s slate in this county, and a woman who has been lighter every single day for six hundred and thirteen days and who has told two hundred people a figure that is true was standing at a frame at the fifth hour of the afternoon and could not tell from it whether anything had been taken off her or not.
+So of course there is nothing to see. There is no mark. There is no line saying it and no figure on that slate that is different from any other month’s slate in this county, and a woman who has been lighter every single day for six hundred and thirteen days and who has told two hundred people a figure that is true was standing at a frame at the fifth hour of the afternoon and could not tell from it whether anything had been taken off her or not.
 
 She said, out loud, in daylight, to the two posts and the slate and the empty road, with not one person inside a hundred yards:
 

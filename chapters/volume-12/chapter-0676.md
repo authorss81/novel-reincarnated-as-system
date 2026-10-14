@@ -94,7 +94,7 @@ She stood at the north end of the rows at the sixth hour with two hundred people
 
 Here is why, and she put it to herself standing there, and it is the reason and not a reason she had ready:
 
-She asked a question in daylight on a floor with a boy of sixteen in the room, on the fourteenth of the month beginning 2,034, standing up, one question, and the question was whether a person can be announced without being designated, and she has half an answer and cannot un-ask it.
+She asked a question in daylight on a floor with a boy of sixteen in the room, on the twelfth of the month beginning 2,054, standing up, one question, and the question was whether a person can be announced without being designated, and she has half an answer and cannot un-ask it.
 
 A number said out loud in a ground with two hundred people in it is an announcement.
 

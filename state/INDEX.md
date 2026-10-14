@@ -160,18 +160,25 @@ instruction.**
 written; they are not a map of where the manuscript is.** A phase starting in Volume 12 reads these four sections, in this order,
 and nothing else in `state/` until it needs more:
 
+**CORRECTED BY THE VOLUME 12 BATCH 0003 PHASE. ch 691–705 are on the page, measured, reviewed and repaired, and this batch's
+state is written. The table below is the live one and it supersedes the four rows it replaces.** A phase starting in Volume 12
+reads these sections, in this order, and nothing else in `state/` until it needs more:
+
 | Order | Section | What it is |
 | --- | --- | --- |
-| 1 | `state/current.md` §*What is actually on the page at ch 705* | **THE LIVE POSITION.** ch 691–705 are on the page and were deferred before their state was written. Measured per file: 29,202 body words, average 1,947, day 2,141–2,240. Four steps for the next dispatch of that phase, and what Batch 0004 inherits |
-| 2 | `state/current.md` §*Who is where at end of chapter 690* | **The last CLOSED position**, and everything Batch 0003 inherited is in it. Its figures were corrected in place by this fix |
-| 3 | `state/continuity.md` §*VOLUME 12 PLANNING — REVIEW FIX* | **READ THIRD.** The five review findings, the six repairs the planning phase made to `outline/volume-12.md` and had recorded nowhere, four more found while closing them, and the three ways the batch states the turn-to-frame leg |
-| 4 | `state/continuity.md` §*Established facts, Volume 12 Batch 0002* and its *— REVIEW REPAIR* | The volume's rules and the last closed batch's record |
-| 5 | `state/open-threads.md` §*VOLUME 12 PLANNING — REVIEW FIX* | What a drafting phase must not inherit from the pre-fix page |
+| 1 | `state/current.md` §*Who is where at end of chapter 705* | **THE LIVE POSITION.** Day 2,240, at the broken wall, IMMORTAL VESSEL 2, 680 days lighter. Measured per file: **29,212 body words, average 1,947, day 2,141–2,240**, and the volume at **88,029 over forty-five chapters at average 1,956**. Everything Batch 0004 inherits is in it |
+| 2 | `state/continuity.md` §*Established facts, Volume 12 Batch 0003 — THE FIRSTS* | **READ SECOND.** The day table, the lighter series, the total and every figure in it, the board count, and the section headed ***How far the rows sit past the wall*** — **the open map finding, published in four numbers, which Batch 0003's own review adjudicated without settling and which no Batch 0004 card may put a mile figure on** |
+| 3 | `state/continuity.md` §*VOLUME 12 BATCH 0003 — REVIEW REPAIR* | The nineteen defects the batch's own review cleared, including the same arithmetic error repeated in two different months and the one repair made outside the batch |
+| 4 | `state/open-threads.md` §*VOLUME 12 BATCH 0003 CLOSED at ch 705* | **The ten open threads**, the irreversible list, and the three things Batch 0004 must not inherit as clean prose |
+| 5 | `state/current.md` §*Who is where at end of chapter 690* | **The previous CLOSED position**, and everything Batch 0003 inherited is in it. Its figures were corrected in place by the planning review fix |
 | 6 | `outline/volume-12.md` | **THE AUTHORITY for the volume.** Not a state file. It is read after the four above, never before |
 
 **`workspace/volume-12-planning/` is history.** Its prompt is not a live brief — it says it creates `outline/volume-12.md`, which
-existed, and the phase that ran it audited rather than created. **`workspace/volume-12-batch-0003/PROMPT.md` is live and opens
-with a RESUME section: its fifteen chapters are already written and must not be drafted again.**
+existed, and the phase that ran it audited rather than created. **`workspace/volume-12-batch-0003/PROMPT.md` is history too, and
+it opens with a RESUME section saying its fifteen chapters must not be drafted again; that resume has been discharged.
+**`workspace/volume-12-batch-0004/PROMPT.md` is the live brief** — VOLUME 12 BATCH 0004, ch 706–720, days 2,241–2,300,
+*what is written on it*, with the seventh first at day 2,264 and the eighth at day 2,294 and **two firsts in the band and not
+three**.
 
 ## The next time this is needed
 

@@ -6,17 +6,17 @@ Then she got up and went west, and there is not one person in nine days of road 
 
 She left a queue of nine at a frame in a ground of two hundred people because she wanted to stand somewhere for one hour of a month where there is nothing to be useful for, and that is the first thing she has wanted in about a year and she did not find out she wanted it until she had worked out that leaving was the only way to get it.
 
-## The Wall
+## At The Broken Wall
 
-It is a day and a bit from the north end of that ground to the broken wall and she did it in a day and a half, and she put the bar down nine times and the last of them cost her thirty-eight counts and her arm was shut on the first day of it and open on the second.
+It is three hours from the north end of that ground to the broken wall and it took her six hours because she walked the ground first, and she put the bar down four times and the last of them cost her thirty-eight counts and her arm was open the whole of it.
 
-The wall stands open four feet and a bit. There is a stone trough at the foot of it on the north side that takes the water out of the sky and has not been dry in her experience, and she sat down on the butt of it at the seventh hour of the twenty-eighth of the month beginning 2,204 with the bar along the ground at her feet and did not go on to the turn.
+The wall stands open four feet and a bit. There is a stone trough at the foot of it on the north side that takes the water out of the sky and has not been dry in her experience, and she sat down on the butt of it at the seventh hour of the twenty-seventh of the month beginning 2,204 with the bar along the ground at her feet and did not go on to the turn.
 
 The turn is thirteen miles west. She has been at it twice in nine years of road. The frame is four hundred yards east of it.
 
 She stayed at the wall.
 
-## What Four Days Of A Wall Is
+## What Is At A Wall
 
 There is nothing to do at a wall. That is the entire content of it and it took her nine minutes to work out that she was not going to be able to stand it.
 
@@ -26,11 +26,11 @@ A person at a wall is the only kind of person she has ever been in this county t
 
 Not one person has ever come to a wall.
 
-So on the second of the month beginning 2,204 she found that she had been there two days and had not been asked for one thing, and that she had counted nine hundred things, and that this was the first time in nine years that being in a place had cost her nothing at all.
+So on the twenty-ninth of the month beginning 2,204 she found that she had been there two days and had not been asked for one thing, and that she had counted nine hundred things, and that this was the first time in nine years that being in a place had cost her nothing at all.
 
 She counted the flat for a mile in each direction. She counted the stakes on the fence on the north side that goes on for a mile and then stops. She counted her own breath, which is four on the flat and seven on anything that rises, and there is nothing within a mile that rises.
 
-She counted the days since she came off the store road onto the turn at the first hour of the sixth of the month beginning 2,054, and that is a hundred and eighty-four days, and she did that arithmetic wrong the first time and got it right the second and the second one is right by seventeen days.
+She counted the days since she came off the store road onto the turn at the first hour of the sixth of the month beginning 2,054, and that is a hundred and eighty-two days, and she did that arithmetic wrong the first time and got it right the second.
 
 And she did the other thing, which is that she went back, in her head, to every single thing she has ever been the only one of knowing, and she went through them all in two days and there were five of them, and four of them were about boards.
 
@@ -44,17 +44,17 @@ That is the sixth first of eight and she was not at the frame, and she had made 
 
 So she stood at the wall at the first hour of the first of the month beginning 2,234, in daylight, with the bar on the ground, seven counts of breath on her and nine standing still, and she looked west at thirteen miles of store road she could not see the end of.
 
-Somewhere at the end of it a slate came out of a frame and went on a cart, and a fifth came off the days in a column before it went up, and it does not say so on the board, and it came off a column that has a name in it four lines from the bottom and a figure in pencil under it that is four days and eight hours and thirty-six minutes old this morning.
+Somewhere at the end of it a slate came out of a frame and went on a cart, and a fifth came off the days in a column before it went up, and it does not say so on the board, and it came off a column that has a name in it four lines from the bottom and a figure in pencil under it that is seven days and twenty-one hours and thirty-six minutes old this morning.
 
 And there is a pencil column on it with a great many names in it and one of them is on a bench.
 
-That is what went past at the first hour. She stood at a wall and watched the whole of it happen at twenty miles.
+That is what went past at the first hour. She stood at a wall and watched the whole of it happen two days of road west.
 
 ## The Woman Who Walked Out
 
 And on the second of the month beginning 2,234, at the fourth hour, somebody came out of the east along the flat.
 
-A woman of thirty-four with her sleeves up and a piece of paper in her hand, who had been in the fourth row at the north end for four years and had stood at a frame at the second hour of the afternoon with a queue behind her nine days ago, and who had learned a sum in three days and was now checking another woman’s working against a second one.
+A woman of thirty-four with her sleeves up and a piece of paper in her hand, who had been in the fourth row at the north end for four years and had stood at a frame at the second hour of the afternoon with a queue behind her sixteen days ago, and who had learned a sum in three days and was now checking another woman’s working against a second one.
 
 She got to the wall at about the second count and stopped six feet off and said, “You are the one who counts.”
 
@@ -74,11 +74,11 @@ She said, “Then there are fourteen,” and did not say another word about it, 
 
 ## What Is Left Of The Stretch
 
-The sixth first is gone. It went past at the first hour of the first of the month beginning 2,234 with her standing at a wall a day and a bit from a frame, in daylight, on the east side of it.
+The sixth first is gone. It went past at the first hour of the first of the month beginning 2,234 with her standing at a wall two days of road from a frame, in daylight, on the east side of it.
 
 The seventh day of that month is today, which is the seventh of the month beginning 2,234, and the seventh first is twenty-four days on from here, and she is on this side of the line, and the line is four hundred yards east of a turn, and she has not gone up it with anything of her own hand on it and she is not going to before the eighth one.
 
-She does not go and tell the fourteen anything. She did not go and tell the nine and she is not going to go and tell the fourteen, and it is not a decision she has taken once and put down. She has worked at it every day for a fortnight the way she works at everything and she has got exactly nowhere, and she has not stopped counting, and she is not going to.
+She does not go and tell the fourteen anything. She did not go and tell the nine and she is not going to go and tell the fourteen, and it is not a decision she has taken once and put down. She has worked at it every day for twenty-one days the way she works at everything and she has got exactly nowhere, and she has not stopped counting, and she is not going to.
 
 She counted the wall at the ninth hour with the light going, because that is what she does.
 

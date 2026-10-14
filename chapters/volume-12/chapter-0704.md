@@ -18,13 +18,13 @@ Not four long. Nine or ten at the third hour of the afternoon, and about half of
 
 Nine of them were doing it without her.
 
-Nine people in a ground of two hundred who were doing sums for other people and who had not been doing sums on the twenty-seventh of the month beginning 2,144, which is nine days ago, and which is the last day she was here and counted them.
+Nine people in a ground of two hundred who were doing sums for other people and who had not been doing sums on the twenty-seventh of the month beginning 2,144, which is forty-five days ago, and which is the last day she was here and counted them.
 
 The man of forty in the ninth row was doing four. The woman of thirty-four was checking his working before she gave an answer on. A boy of seventeen she had never spoken to was doing two, badly, and correcting himself, which is what she was doing at his age in a shed at a mill.
 
 ## What She Found Out About The Nine
 
-She spent the first two days of the fourth watching, and not counting, which is the hardest thing she does.
+She spent the first two days of it watching, and not counting, which is the hardest thing she does.
 
 On the twelfth she stood at the south end from the first hour to the seventh and did not go near the frame. She watched four of them working. It is not that they are clever and it is not that they are fast.
 
@@ -48,15 +48,15 @@ There is no craft in it.
 
 A total is a date, a day and a fraction, and the fraction is one in twenty, and the fraction is the same on every ground in this county and has been since before anybody alive was born. She has not found it. She has not kept it. She stood at a frame on the eighteenth of the month beginning 2,144 and said that she had told two hundred people there was a figure and had not told them how, and she thought at the time that that was the whole of what she could do about it.
 
-She thought that nine days ago.
+She thought that forty-five days ago.
 
-There are forty people in this ground who can count to eighty. There are two hundred people in this ground who have a slate with their name on it twenty miles west or a figure in a pencil column on a frame, or a set of days in a column somewhere, or nothing at all and a number of years they can count back on their own two hands.
+There are forty people in this ground who can count to eighty. There are two hundred people in this ground who have a slate with their name on it two days west or a figure in a pencil column on a frame, or a set of days in a column somewhere, or nothing at all and a number of years they can count back on their own two hands.
 
 And not one of them has to be told how. Not one of them has to be told anything. It is subtraction. She said the sentence at the south end of the ground, out loud, to nine people at the frame, because she does not let a thing stand that she has not put into words where it exists:
 
 “I did not keep it. I never kept anything. There is nothing on this ground that was hidden and there is nothing anywhere that I am the only one who knows, and there is a boy of nineteen in this ground who told me once that if one of them knew there would be not one of them left on the rows in a month.”
 
-She said, “He was not warning me. He was doing arithmetic. He was fifteen when he said it and he is not wrong, and I have had nine days to work out what it is he was right about and I have not worked it out.”
+She said, “He was not warning me. He was doing arithmetic. He was fifteen when he said it and he is not wrong, and I have had four days to work out what it is he was right about and I have not worked it out.”
 
 And she said the one that has been sitting under all of it, at the fourth hour, in daylight, to nine people at a frame:
 
@@ -64,7 +64,7 @@ And she said the one that has been sitting under all of it, at the fourth hour, 
 
 She said, “And I am going to go on not having it, and a boy of nineteen told me once what the not-having is worth, and it was not one of them left on the rows in a month, and I have a figure in my head that proves him right and I am not going to be able to put it down.”
 
-## What She Did Not Do
+## The Reason That Is Not Good
 
 She did not go and tell them.
 
@@ -82,7 +82,7 @@ A boy of nineteen told her at the fifth of the month beginning 2,054 that there 
 
 And the third reason is not good and she has said it out loud because she does not do anything else.
 
-She cannot stop counting. She has been counting since she was nine years old and it is not a habit and it is not a skill and it is the only thing that has ever been hers, and she could no more stop counting in this ground than she could stop having four counts of breath in her chest. She has been in this ground nine days and she has counted the strokes on the board every night of it and she counted the number of people at the frame before she counted anything else, and she will do it tomorrow, and it is not going to get better.
+She cannot stop counting. She has been counting since she was nine years old and it is not a habit and it is not a skill and it is the only thing that has ever been hers, and she could no more stop counting in this ground than she could stop having four counts of breath in her chest. She has been in this ground four days and she has counted the strokes on the board every night of it and she counted the number of people at the frame before she counted anything else, and she will do it tomorrow, and it is not going to get better.
 
 She said, at the ninth hour of the sixteenth of the month beginning 2,204, standing, in daylight, at the north end of two hundred rows of stones, with a queue of small sums four feet behind her:
 
@@ -96,11 +96,11 @@ And that is the part she has not been able to put anywhere, and it is the last o
 
 She is nineteen years old. On the fourteenth of the month beginning 2,144 she stood at this frame in the daylight and said a true figure about herself out loud, in front of two hundred people, and it was the first one that has ever been said, and she meant it when she said it, and she would say it again.
 
-And for nine days she has been the only person in this ground who knows that a figure like that exists and where it comes from.
+And for four days she has been the only person in this ground who knows that a figure like that exists and where it comes from.
 
 And now there are fourteen, and there were nine on the day I came back, and it is not going to stop there.
 
-And she said her own total out loud in this ground nine days ago and meant it, and she said she would not do it to anybody else, and the whole world is going to do it to everybody on its own in about a year, and she did not do that and she cannot stop it and she cannot tell one person in this ground that it is coming, because telling them is the thing she decided at the ninth hour of the eighteenth, standing up, in the daylight, in front of nine people, and she has never in her life gone back on a thing she said out loud.
+And she said her own total out loud in this ground sixty-two days ago and meant it, and she said she would not do it to anybody else, and the whole world is going to do it to everybody on its own in about a year, and she did not do that and she cannot stop it and she cannot tell one person in this ground that it is coming, because telling them is the thing she decided at the ninth hour of the eighteenth, standing up, in the daylight, in front of nine people, and she has never in her life gone back on a thing she said out loud.
 
 She counted the board at the ninth hour with the light going, because that is what she does.
 

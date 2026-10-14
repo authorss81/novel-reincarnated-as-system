@@ -36,7 +36,7 @@ It is one in twenty.
 
 Not one name in twenty. Every name, every month, and the figure under each name is a fifth of a day of the days that name had in the column, added to what it had already had.
 
-The figures in that column run from the top of nineteen years of slate to the bottom of it and they get bigger going down, the way they would get if they were the same figure accumulating, and the ones at the top are nine days and the ones at the bottom are ninety.
+The figures in that column run from the top of nineteen years of slate to the bottom of it and they get bigger going down, the way they would get if they were the same figure accumulating, and the ones at the top are nine days and the ones at the bottom are a hundred and ten.
 
 ## Her Own Row
 
@@ -88,7 +88,7 @@ She had a figure in her head that no one in the world had ever been told and she
 
 And she had a name in her head that she was going to walk past in a quarter of an hour and she was not going to be able to put it down.
 
-## What She Did About It
+## Three Things That Were Arithmetic
 
 She did three things about it before she walked away from that frame, and all three of them were arithmetic, and none of them was about what to do.
 

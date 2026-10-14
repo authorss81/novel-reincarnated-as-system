@@ -34,7 +34,7 @@ And the twenty-seventh she did a whole mile, out and back, and got four hundred 
 
 And she said, out loud, at the ninth hour of the twenty-seventh, standing, in daylight, at the north end of the rows, with a queue four feet behind her:
 
-“Four hundred and twenty is twice two hundred and six and it is four more, and the four is the two set-downs, and a set-down costs twenty-nine counts every time whatever the length of the day is.”
+“Four hundred and twenty is twice two hundred and six and it is eight more, and a set-down costs twenty-nine counts every time whatever the length of the day is, so the eight is not the set-downs, and she has not worked out what the eight is.”
 
 She said, “And thirteen miles is twenty-six half miles, and if I set it down nine times on that I lose two hundred and sixty counts that I cannot spare, and I have not worked out the ninth set-down yet, and that is the one at the frame.”
 
@@ -42,7 +42,7 @@ She said, “And thirteen miles is twenty-six half miles, and if I set it down n
 
 On the twenty-second she walked half a mile west along the made road with the bar on her left shoulder and no strap and her right arm open, and she counted.
 
-Half a mile is four hundred and forty yards. Four hundred and forty steps at a pace of twenty-eight inches is four hundred and forty, and a bar nine feet nine is heavier than it looks in the way that everything gets heavier by the fourth hour, and her breath is four counts on the flat and seven on anything that rises.
+Half a mile is eight hundred and eighty yards. Eight hundred and eighty yards at a pace of twenty-eight inches is eleven hundred and thirty-one steps, and a bar nine feet nine is heavier than it looks in the way that everything gets heavier by the fourth hour, and her breath is four counts on the flat and seven on anything that rises.
 
 Half a mile took her twelve minutes and cost her two hundred and six counts of breath over the four-count baseline, and she set the bar down twice, and each set-down cost twenty-nine.
 
@@ -50,7 +50,7 @@ She did that half mile on six days and then she did a whole mile on the twenty-s
 
 Then she did the sum out loud at the ninth hour of the twenty-seventh, standing, at the north end of the rows, with a queue of small sums four feet behind her that she had stopped working for twenty minutes:
 
-“Thirteen miles. Nine seconds of breath and a half mile is a hundred and three counts. Thirteen miles is twenty-six hundred and forty seconds over that baseline, and it is four counts a step and the step is three to the second on the flat and two on anything that rises.”
+“Thirteen miles. A half mile is two hundred and six counts over the baseline and it is twelve minutes of it. Thirteen miles is twenty-six half miles, which is five thousand three hundred and fifty-six counts over the baseline and five hours and twelve minutes of walking, and the breath goes to seven on anything that rises.”
 
 She said, “And I have to set it down. Four days of flat with nothing to lie down on and then thirteen miles of store road, and I cannot hold it in one hand for a mile at a time on that arm, and I do not know how many times I will have to put it down until I am standing at the frame and the first hour is still an hour away.”
 
@@ -92,6 +92,6 @@ She said, “That is the whole of it. That is what a figure is. It is not mine a
 
 She said, “And a boy of nineteen in this ground told me once that if one of them knew there would be not one of them left on the rows in a month, and he was not saying it as a warning, he was saying it as arithmetic, and he was right.”
 
-She said, “And I am going to leave at the first hour of the twenty-eighth and be twenty miles west at the first hour of the first, and I am not going to stop them, because I have never once in nine years had a thing to stop anybody with, and this is not that.”
+She said, “And I am going to leave at the first hour of the twenty-eighth and be two days of road west at the first hour of the first, and I am not going to stop them, because I have never once in nine years had a thing to stop anybody with, and this is not that.”
 
 She said it and then she did four sums for the people at the frame, and she got them right, and the light went.

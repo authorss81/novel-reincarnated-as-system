@@ -6,7 +6,7 @@ The store road goes west out of the turn for nine miles and there is a post at t
 
 The bar went up and came down twelve times on the road and nine times on the mountain, and the last set-down cost her fifty-four counts, which is the most it has ever cost her, and she stood at the bottom of the hill at the eighth hour of the second of the month beginning 2,174 with her arm open and the yard thirty feet across in front of her and the tower four flights and a stair above her head.
 
-## Thirty Days
+## Staying Thirty Days
 
 She stayed in that building for thirty days, and it is the longest she has been in one place since she was nine years old, and the boy of sixteen asked her on the fourth day why and she told him, one question at a time, in daylight, standing up, in the ordinary voice.
 
@@ -22,7 +22,7 @@ She said, “No. And I have been to the top of the stair fourteen times in thirt
 
 And then she told him what she had not told anybody, on the eleventh of those thirty days, at the second hour, in daylight, standing up, on the copying floor with four hundred volumes on the shelves behind her.
 
-She said, “I am looking for a place where there is something to receive it. That is the whole of the thirty days. There is a receiver in this world and I have been trying to find one since the fourteenth of the month beginning 2,034, where I asked whether a person can be announced without being designated, and there is a man who has carried four bundles up that stair in thirty-one years and on each of the four a man came out of that door and took his hat off.”
+She said, “I am looking for a place where there is something to receive it. That is the whole of the thirty days. There is a receiver in this world and I have been trying to find one since the twelfth of the month beginning 2,054, where I asked whether a person can be announced without being designated, and there is a man who has carried four bundles up that stair in thirty-one years and on each of the four a man came out of that door and took his hat off.”
 
 He said, “That man is nine years dead.”
 
@@ -48,7 +48,7 @@ The first of the month beginning 2,204 came at the first hour and she was at the
 
 She counted it going past.
 
-It is thirty days from the first of the month beginning 2,174, which is the fourth first, and that one she was standing at the frame for at the first hour with the light coming up on the frame last. And somewhere twenty miles east and then a long way further, at a turn, a slate came out of a frame at the first hour and went on a cart and the fifth came off the days before it went up and it did not say so on the board.
+It is thirty days from the first of the month beginning 2,174, which is the fourth first, and that one she was standing at the frame for at the first hour with the light coming up on the frame last. And somewhere a long way east, at a turn, a slate came out of a frame at the first hour and went on a cart and the fifth came off the days before it went up and it did not say so on the board.
 
 And she is on that board. Her name, her days, and a figure in pencil in the third column of a slate that is lying face-up in a frame somewhere with the light on it that she cannot see.
 

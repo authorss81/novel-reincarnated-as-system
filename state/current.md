@@ -5519,7 +5519,7 @@ on method B — every line not beginning `#`, counted per file and summed — av
 691 2,097 · 692 1,867 · 693 2,332 · 694 1,841 · 695 1,891 · 696 2,283 · 697 1,950 · 698 1,746 · 699 1,853 · 700 1,780 ·
 701 1,886 · 702 1,917 · 703 1,845 · 704 2,209 · 705 1,705. Fifteen titles, **no collision anywhere in seven hundred and five
 chapter headings.** Zero bracketed layer lines, zero bold, zero italic, zero tables, blockquotes or rules; **all fifteen files carry
-no trailing newline, as every Volume 12 file does.** `nobody` 2 · `eleven` 8 · `thank` 0 in the batch; over forty-five chapters
+no trailing newline, as every Volume 12 file does.** `nobody` 2 · `eleven` 9 · `thank` 0 in the batch; over forty-five chapters
 `nobody` 18 · `eleven` 28 · `thank` 0. **The volume stands at 88,036 over forty-five chapters, average 1,956** — Batch 0001
 30,000 · Batch 0002 28,834 · Batch 0003 29,202.
 
@@ -5577,3 +5577,110 @@ frame leg are unreconciled and are named in the continuity record.
 
 - **Next phase:** **VOLUME 12 BATCH 0003 — `workspace/volume-12-batch-0003/PROMPT.md`, ch 691–705 — resume, not a fresh draft.**
   The fifteen chapters are on the page and this phase owes them their state, their review and one next card.
+
+---
+
+## Who is where at end of chapter 705 — VOLUME 12 BATCH 0003 WRITTEN, REVIEWED AND REPAIRED, **THE FIRSTS** (cold reader starts here)
+
+**After ch 705 — day 2,240, the seventh of the month beginning 2,234, at the ninth hour, at the broken wall, on the east side
+of the ground of two hundred people, in daylight, with a bar nine feet nine lying along the ground at the foot of it.** Full
+record in `state/continuity.md` under ***Established facts, Volume 12 Batch 0003 (ch 691–705) — THE FIRSTS***,
+***Volume 12 Batch 0003 construction budget, measured by grep***,
+***Volume 12 Batch 0003 — REVIEW REPAIR*** and
+***How far the rows sit past the wall: the open finding, and what this batch did about it***.
+
+**VOLUME 12 BATCH 0003 IS ON THE PAGE AND HAS BEEN THROUGH ITS OWN REVIEW AND REPAIR — ch 691–705, fifteen chapters, 29,212
+words of body prose on method B (every line not beginning `#`, counted per file and summed), average 1,947, day 2,141 to day
+2,240.** Drafted against `outline/volume-12.md` and against `workspace/volume-12-batch-0003/PROMPT.md`. **The volume now
+stands at 88,029 words over forty-five chapters at average 1,956** — Batch 0001 30,000 · Batch 0002 28,834 · Batch 0003
+29,212. Next: **Volume 12 Batch 0004**, ch 706–720, against `workspace/volume-12-batch-0004/PROMPT.md`.
+
+*The fifteen chapters were drafted by an earlier run of this phase and were deferred before it wrote any state. This block is
+written after the review and the repair. **The pre-repair figures, 29,202 and 1,947, are the old page and are not to be
+quoted as this batch's; 29,212 and 1,947 are the figures on disk.** The repair moved no card beat, no day, no stage, no
+title and no irreversible step.*
+
+- **Ning Yan — IMMORTAL VESSEL 2, taken at ch 702, day 2,206, the third of the month beginning 2,204, at the second hour,
+  standing at the outside of a low door at the top of a stair four flights above a copying floor, and its cost named once:
+  she cannot be met where she is expected.** Nineteen. **Immortal Vessel 3 is ch 716 and is not named anywhere in this
+  batch.** No announcement at either stage. No bracket anywhere in the fifteen chapters.
+- **Body:** a bar nine feet nine **with no strap on it**, which costs twenty-two to fifty-four counts every time it goes on
+  or off, and she had picked it up four hundred and sixty times by the last page. Right index gone, **four fingers and a
+  thumb — still four at this page.** Right arm open four days in five. Four counts of breath with seven on a rise and nine
+  standing still at the top of eight flights. The small open place low behind her fourth rib, the size of a coin.
+  **Six hundred and eighty days lighter and not one of them gone back (2,240 − 1,560). Not hungry.**
+- **Against her ribs: one object.** The book of eight leaves — a date and a place on the first, four sentences on the second,
+  `YUAN SHENG` on the third in four capital strokes in her own hand, **five that are hers and are blank and stayed blank.**
+  **She has called it nothing and this batch did not name it for her.** **The four sheets of a dead clerk's fair hand went
+  into a locked drawer at the sixth hour of the eleventh of the month beginning 2,054 and are still in it. The key is in the
+  front of her bag. She was thirty feet from that drawer for thirty days at ch 702 and did not use it and said why.**
+- **In her hand:** two coppers she cannot count. In her bag: a dish, a lump of clay, a ring a finger’s width, a stub of a
+  nib, a cake of ink opened on the seventh of the month beginning 1,874 and never let dry, the key, **and a strip of hand-made
+  paper nine inches long with eighty-one lines on it and the same sum written underneath in words.**
+- **What the fifteen chapters changed, in order.** **She lived three days inside a record that is being kept of her out loud
+  and worked out that a record said out loud is a thing she cannot check against a page, and that she has given up the only
+  guarantee she ever had, and she keeps counting anyway · the third first went by and she was not at the frame, and a
+  nine-inch strip of blank paper came east out of the machinery above the line on a cart, and there is no form on it she can
+  be given · the eighth frame scene at ch 694, in which he finds that a shape is a thing that has to be kept by somebody,
+  and that the only person in the world who will keep one for him is a woman who has said she cannot do the thing he would
+  have to ask, and he decides to ask her anyway and cannot say the day · she carried a figure about herself for three days
+  and did not say it, and she lied to a man of thirty in the fourth row about the light to get out of saying a true one ·
+  she did the sum over six days on the back of the strip, with no name on it, so that it is not a shape · ch 697, she wrote
+  the eighty-first line in the dark and said it out loud at the ninth hour in daylight in front of two hundred people: four
+  days, one hour and twelve minutes, eighty-one days counted with the first day as the first, one in twenty · seven days
+  inside a number she has said out loud, in which the figure moves, and she answers her own ch 665 asking out loud in front
+  of nine people: the answer is no, and the question was wrong · she planned for a dated day for the first time in eleven
+  volumes, and worked out what a mile costs with a bar that has no strap on it, and decided to lie to the ground four times
+  · she went west for the first time since the first of the month beginning 2,084, past the wall and along thirteen miles of
+  store road, to the two posts, where the slate has been wiped and put back with her name on it and nothing taken off it
+  that she can see · ch 701, she was at the frame for the fourth first and saw the third column for the first time in her
+  life: a figure under every name, one in twenty of the days in it, every name, every month, and the figure under hers was
+  right; and a fourth column of three hundred and one names, and the fourth one from the bottom is the woman of sixty on the
+  bench · she went back up the mountain for thirty days, the longest she has been in one place since she was nine · ch 702,
+  IMMORTAL VESSEL 2 and its cost · ch 703, the cost at scale: a stage nobody could come and find, because there is no way
+  of knowing where to come · ch 704, the hardest chapter in the volume: a number she can work out is a number two hundred
+  people on a row can work out, and she does not go and tell them and she does not stop counting, and it is not resolved ·
+  and ch 705, the sixth first going past at a broken wall with the seventh twenty-four days off, and a woman of thirty-four
+  walking out of the east along the flat with a sum she could not make go.**
+- **The batch's irreversible step:** **ch 697 — she works out her own total and says it out loud in daylight where two
+  hundred people are, and a figure said out loud where people are is not a figure that can be un-said.** Nobody on any
+  ground has ever been told one. It cannot be taken back. **The volume's payoff figure, ten days and twenty-one hours and
+  thirty-six minutes, is ch 717 and is Batch 0004's; Batch 0003 derives the total she already has and Batch 0004 derives
+  the span.**
+- **Yuan.** **Court, from ch 687.** Present tense throughout, no figure of what is left of him on any page, and he is on the
+  page in one frame scene at ch 694 and otherwise inside her head. **The fifth term is running and cannot be enforced by
+  either of them, and ch 691 is where she worked that out. The sixth term still stands: a record and not a hand, he decides
+  nothing, she decides everything. There is no seventh term.**
+- **The strip.** **Nine inches of hand-made paper, a square of oilcloth pressed into the middle of it, nothing written on
+  either side, a third heavier than county paper of its size, and it came off the top of the stair four miles up a mountain.
+  She has written the sum on it and folded it once. She cannot be given a shape and there is no form anywhere in this county
+  it can come on except the five blank leaves against her ribs, and those are hers.**
+- **Untouched and unraised:** `Ledger` 0 · `reconciled` 0 · `plate` 0 · `kiln-born` 0 · `MEMBER ABSENT` 0 · the four erased
+  months not named · the ch 150 refusal not softened · **the year of non-forgiveness carrying and not mentioned once in these
+  fifteen chapters** · `forgiv` 0 · `thank` 0 · her mother's name never said · the three Volume 11 costs carried whole and
+  never re-derived · ch 685's cost carried at scale and never re-derived · **the ch 665 asking not un-asked and its first
+  half not re-explained** · the ch 658 sentence not quoted again · no bracket · one frame scene only, at ch 694 · no stage
+  named before ch 702 · **the four sheets never against her ribs and the forty-one strokes not looked at** · the five blank
+  leaves blank · **the lever not carried once in this batch** · `Scribe` 0 · `Anchor` 0 · `Sisterhood` 0 · `bargain` 0 · no
+  new clearance, seal or countersignature · no office above the Standing Office of the Second Account · no harem and nothing
+  a romance · Ning Wu 0 · Xie Changyin 0 · Feng Lushi 0 · Shuyin 0 · the Hunter 0.
+- **The geography, after the review.** **The turn to the wall is thirteen miles and thirteen miles everywhere, and the gate
+  is eleven of it from the turn and two short of the wall.** **How far the rows sit past the wall is OPEN and this review did
+  not settle it. The batch's own asserted figure of twenty miles for the rows to the turn has been withdrawn from every
+  sentence that carried it, and the batch now measures that leg the way it measures everything else — in days, and the days
+  are its own: two days of road.** Full record at `state/continuity.md` §*How far the rows sit past the wall*.
+- **What Batch 0004 inherits:** **the seventh first at day 2,264 and the eighth at day 2,294 — two firsts in that band, and
+  not three** · she goes back to the two posts at ch 706 and **the seventh first goes by at ch 711 with her still below the
+  line** · **Immortal Vessel 3 at ch 716, day 2,290**, and its cost applied and not re-derived: she cannot be counted where
+  she stands, in the mouth of the man of sixty-five with the book and never in hers · **the eighth first at ch 717 and the
+  line and the hand, ten days and twenty-one hours and thirty-six minutes, and at the last page three fingers and a thumb** ·
+  **the harvest at ch 718 takes a board and not a person**, which is Batch 0004's irreversible step · **ch 719–720, the
+  stair and the threshold, and a second stair she does not go up** · Shuyin once, past her and not to her, and the Hunter
+  second, and **Ning Wu's second Volume 12 appearance at ch 713** · the man with the shut notebook's second Volume 12
+  appearance · the two thousand nine hundred and twenty, unattributed · **the bill for Court, open and unanswered, and it
+  may take the writing off the board and not the person — which is ch 718's engine and which nothing in this batch said** ·
+  **the fifth term still running** · the lamp in the room at the top of the stair, burning, on oil a boy of sixteen knows
+  where to keep, that she left with him and is not going to be able to feed · **the fourteen in the rows, and she has told
+  none of them** · a lamp as the nearest thing to being met that this world has offered her · ***twenty-two days*, unplaced**
+  · **how far the rows sit past the wall, open** · the four names in the fourth column, and one of them on a bench.
+- **Next phase:** **VOLUME 12 BATCH 0004 — `workspace/volume-12-batch-0004/PROMPT.md`, ch 706–720, *what is written on it*.**

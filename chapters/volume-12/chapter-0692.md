@@ -64,7 +64,7 @@ She said, “There is not today.”
 
 And the woman of forty went away with her barrow and did not ask one more question about the paper, which is the correct thing to do and cost her something anyway, because there has not been a person on that ground in nine years and the whole of the last five days has been a woman with a bar standing at a frame doing nothing at all.
 
-## The One Question
+## The Man With The Rope
 
 She asked him one question, standing, in daylight, at the north end of the rows, to a man of forty with a cart and a rope over his shoulder.
 
@@ -98,7 +98,7 @@ She said, standing, in daylight, at the ninth hour of the first of the month beg
 
 “The first of the month beginning 2,174 is thirty days off. At the first hour of it I will be at the frame, and I will be there before the light, and the only reason I can say that is that I have known for twenty-four hours that I was going to say it, which is the first time in eleven years that I have known a thing a day in advance.”
 
-She said, “And it is twenty miles back and the arm is open four days in five and there is no strap on the bar, and I have not worked out yet how many counts a mile costs with no strap and one good hand.”
+She said, “And it is two days of road back and the arm is open four days in five and there is no strap on the bar, and I have not worked out yet how many counts a mile costs with no strap and one good hand.”
 
 She put the strip into the front of her bag, on top of the dish and the clay and the key, and it lay flat there, and it was lighter than paper that size has any business being.
 
@@ -116,6 +116,6 @@ He said, “I could not read it when you wrote it.”
 
 She said, “I can read yours.”
 
-And he went away, and she stood at a frame with nine inches of blank paper in the front of her bag and four strokes a night going in beside a line in her own hand, and she worked out at the ninth hour standing in the dark that she was going to be twenty miles west in thirty days and that she had not worked out one single thing about how yet.
+And he went away, and she stood at a frame with nine inches of blank paper in the front of her bag and four strokes a night going in beside a line in her own hand, and she worked out at the ninth hour standing in the dark that she was going to be two days of road west in thirty days and that she had not worked out one single thing about how yet.
 
 That is a thing she has not done in nine days of road and she noticed it and did not know what to do about it.

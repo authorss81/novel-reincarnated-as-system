@@ -136,4 +136,4 @@ She counted them at the ninth hour with the light going and got sixty-four, and 
 
 Sixty-four lines on a board and not one of the four men can read the one that is hers.
 
-The first of the month beginning 2,144 is at the first hour tomorrow and she is twenty miles east of the frame where it goes up.
+The first of the month beginning 2,144 is at the first hour tomorrow and she is two days of road east of the frame where it goes up.

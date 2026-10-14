@@ -3194,3 +3194,117 @@ single thread out of them**, because the batch was deferred before it wrote its 
 `state/current.md`.** The four threads that phase owes and has not written: what the strip from above the line was for · what she
 said out loud at ch 697 and who heard it · the fourteen in the rows she has told nothing · and Yuan's decision at ch 694 to ask her
 to keep a shape he cannot name a day for. **Batch 0003's own review, not this fix, is what turns them into threads.**
+
+---
+
+# VOLUME 12 BATCH 0003 CLOSED at ch 705 — what Batch 0004 inherits
+
+**ch 691–705 are on the page, measured and reviewed and repaired. This section turns the four threads the planning fix said this
+file owed into threads, and records what the batch closed. The position is `state/current.md` §*Who is where at end of chapter
+705*; the figures and the full record are `state/continuity.md` §*Established facts, Volume 12 Batch 0003 — THE FIRSTS* and
+§*VOLUME 12 BATCH 0003 — REVIEW REPAIR*.**
+
+## Where she is at the last page, in one line
+
+**Day 2,240, the seventh of the month beginning 2,234, at the ninth hour, at the broken wall, on the east side of a ground of two
+hundred people, at IMMORTAL VESSEL 2, six hundred and eighty days lighter, four fingers and a thumb, with a strip in her bag that
+has her own total on it twice and fourteen people in that ground who can do the arithmetic she has told nothing.** Twenty-four days
+to the seventh first.
+
+## Open, and Batch 0004's engine
+
+1. **THE HUNDRED AND FORTY-YEAR OLD FIGURE UNDER EVERY NAME ON THE SLATE, AND THE FACT THAT IT IS NOT SECRET.** A total is a date,
+   a day and a fraction, and the fraction is one in twenty on every ground in this county. **Nobody has to be told how.** Nine
+   people were doing it without her by day 2,215 and fourteen by day 2,219 and it is not stopping. **She has told none of them,
+   and she will not, and she has three reasons and two of them are good and the third is that she cannot stop counting. This is
+   the volume's hardest thing and it is not resolved and Batch 0004 does not resolve it either — it pays it off by ch 718, when
+   the levy comes off a board in front of everybody.**
+2. **WHAT A FIGURE DOES TO A GROUND, WHICH NOBODY KNOWS AND SHE WILL NOT FIND OUT BY ASKING.** A boy of nineteen told her, as
+   arithmetic and not as a warning, that if one of them knew there would be not one of them left on the rows in a month. She has
+   carried that since the fifth of the month beginning 2,054 and has not worked out what he was right about and has said so
+   out loud. **ch 713 is the brother, and he worked his own out five years ago and told nobody, and that settles nothing.**
+3. **Yuan's decision at ch 694.** He has found that a shape is a thing that has to be kept by somebody, that the only person in
+   the world who will keep one for him is a woman who has said she cannot do the thing he would have to ask, and he is going to
+   ask her anyway. **He cannot say the day and there is a first of a month in thirty days and she does not tell a person things a
+   day in advance. He has been in the frame eight times and has never once left it able to do a thing he wanted to do and could
+   not do.** **Batch 0004 does not have to stage the asking. It has to make Batch 0004's world one where asking is possible.**
+4. **THE OPEN BILL FOR COURT.** Raised out loud at the tenth hour of a night, answered by nobody. **A thing that reads records
+   has never wanted one in eleven hundred years and there is one now. She priced it in days and did not say out loud what she
+   worked out, which is that it may take the writing off the board and not the person.** Nothing in Batch 0003 said that and
+   **Batch 0004 must not say it before ch 718** — ch 718 is its engine.
+5. **THE STRIP.** Nine inches of hand-made paper, a square of oilcloth pressed into the middle of it, nothing written on either
+   side when it arrived, off the top of the stair, from a cart, from a man who did not ask. **It has her own total on the back
+   of it in eighty-one lines and the same sum written underneath in words, and no name on it anywhere, on purpose.** It is the
+   first thing that has come to her from above the line and it is not a shape and there was no form she could be given it on.
+   **Nobody in this volume has sent her anything else and nobody has told her she was sent one.**
+6. **THE FOURTH COLUMN OF THREE HUNDRED AND ONE NAMES, and the fourth one from the bottom.** A name in that column is a name
+   that came off that board, and the woman of sixty has been sitting four hundred yards from it for nine years, and Ning Yan is
+   not entitled to say any of this to her. **Three hundred and one out of nine hundred and twelve is very nearly a third, and she
+   does not know what a third of a name is.** Open, and deliberately.
+7. **THE LAMP AT THE FAR END OF THE LONG TABLE.** Lit in nine seconds by something that did not open the door again, and left
+   burning on oil a boy of sixteen knows where to keep, in a room that has been shut nine years. **She said out loud: a lamp that
+   ought not to be burning is going to be burning on my account, and if a man comes out of that door in nine years he is going to
+   think somebody is there.** It is the nearest thing to being met that this world has offered her. **ch 720 puts her in that
+   room and the lamp is still hers and still burning.**
+8. **THE ABSENCE OF A PLACE.** Immortal Vessel 2's cost, applied: if she is not in the building on the day the carter comes, then
+   on the day the carter comes she is nowhere, and there is nothing in this county that joins two records. **ch 716's cost is the
+   third and it is *she cannot be counted where she stands*, and the harvest at ch 718 is a count that takes a board and not a
+   person, and those two are the same fact arriving twice.**
+9. ***Twenty-two days*, still open and still unplaced.** `grep -oi 'twenty-two days'` over `chapters/volume-12/` returns 0 and no
+   card has put it in front of her and no card has equated it to a dated interval. **It goes into Volume 13 unspent unless a close
+   spends it.**
+10. **HOW FAR THE ROWS SIT PAST THE WALL. Still open, still not settled, and now with the fourth statement recorded.** Thirteen
+    from the turn to the wall is settled everywhere and is not the open thread; the rows are two or three hundred yards past it
+    at ch 618, three at ch 677 and four at ch 659 and ch 660, and **Batch 0003's twenty was withdrawn by its own review because
+    it is corroborated nowhere.** **Batch 0004 must state no mile figure on the leg between the rows and the turn. The batch now
+    says two days of road, which is its own measurement from ch 700 and settles nothing.**
+
+## Closed and irreversible in Batch 0003, and not to be undone
+
+- **ch 697 — she worked out her own total and said it out loud at the ninth hour in daylight in front of two hundred people, and
+  said no first about it in her own head, and said yes and went and did it: four days, one hour and twelve minutes.** A figure
+  said out loud where people are is not a figure that can be un-said. **Forty people in that ground can count to eighty. Batch
+  0004 does not unsay it and does not write it twice.**
+- **The answer to ch 665, given out loud in front of nine people on the eighteenth of the month beginning 2,144: no, you cannot,
+  and the question was wrong.** **The asking itself is not retracted, not softened and not asked again.**
+- **The fifth term is unenforceable and both of them know it.** A record of what she said cannot tell a true sentence from a false
+  one and cannot be checked against a page, and there is no seventh term to fix it. **Batch 0004 may carry this and may not
+  re-derive it.**
+- **Immortal Vessel 2 taken, at ch 702, day 2,206, and its cost named once.** **Batch 0004 may not name it again.**
+- **The four firsts of this band are gone: 2,144 · 2,174 · 2,204 · 2,234, the third, the fourth, the fifth and the sixth.** She was
+  at the frame for one of them in nine years and she watched three go by from a distance and from a wall.
+- **A stage nobody could come and find.** Taken and applied and not re-derived.
+
+## Still untouched, still unspent, and still Batch 0004's
+
+**The four sheets are in a locked drawer four miles west of a square and the key is in the front of her bag and she did not use
+it in thirty days.** **The forty-one strokes have not been looked at and no mouth has referred to them.** **The five blank leaves
+are blank and nothing has been put in them, and the batch's irreversible step is a line said out loud where people are and not
+written down.** Her mother's name is unsaid. **The ch 658 sentence is not quoted again in Volume 12.** The ch 150 refusal stands
+where it stands. The relicensing legs are in order and no card said one was required or not required. No office above the
+Standing Office of the Second Account. No harem and nothing a romance. **The lever has now been carried three times in Volume 12
+— twice in Batch 0001 and not at all since — and `outline/volume-12.md` allows Volume 12 one more, so Batch 0004's allowance is
+spent and it is not pulled.**
+
+## Three things Batch 0004 must not inherit as clean prose
+
+1. **That a number she can work out is hers.** It is not. It is a subtraction and the fraction is one in twenty and there are
+   forty people in that ground who can do it and nine of them were already doing it. **Ch 696 says this out loud on the page and
+   ch 704 costs her for it, and the sentence may not be argued with.**
+2. **That the third column on the slate is a discovery.** It is not. Every man of forty-nine in the county does that column every
+   month of his working life and does not know he is doing it. **Ch 701 says so, and the second half of the finding — that the
+   figure under her name was right — is the only new thing on the page.**
+3. **That a lamp is the same as being met.** She says, in her own words on the page, that it is the nearest thing to it and that
+   it is not it, and that she would like it said out loud that she said so on the way down four flights of stairs.
+   **Batch 0004 does not soften that and does not promote it.**
+
+## What Batch 0003 must not read as settled, from its own review
+
+**Nineteen defects were repaired and the full record is in `state/continuity.md`. Three of them are about figures a later phase
+could otherwise quote:**
+
+- **The batch is 29,212 words of body prose over fifteen chapters at average 1,947** — the pre-repair 29,202 is the old page.
+- **The date of ch 665's asking is the sixth hour of the twelfth of the month beginning 2,054, day 2,065**, and it was wrong in
+  three places including a Batch 0001 chapter, and the Batch 0002 continuity block's line that it was *deliberately* carried
+  forward uncorrected no longer describes the page.
+- **The rows-to-turn leg has no mile figure on it any more.** Two days of road is the measurement and it is hers.

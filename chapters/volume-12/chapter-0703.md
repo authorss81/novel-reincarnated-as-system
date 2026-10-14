@@ -72,7 +72,7 @@ It is not a wound and it is not a mark and there is nothing on any board anywher
 
 And the third one has left her in a position where there is no place on this ground that knows she is in it.
 
-Not the rows. There are two hundred people at the north end of a ground twenty miles east and a made road with four carts a day on it and a bar nine feet nine goes past that ground four times a month. There is a line in her own hand on a board there that says she is nineteen, and there is a slate at a turn with her name on it and a figure in the third column in a county hand, and there is a frame at the turn that a woman of sixty sits beside.
+Not the rows. There are two hundred people at the north end of a ground two days of road east and a made road with four carts a day on it and a bar nine feet nine goes past that ground four times a month. There is a line in her own hand on a board there that says she is nineteen, and there is a slate at a turn with her name on it and a figure in the third column in a county hand, and there is a frame at the turn that a woman of sixty sits beside.
 
 Not this building. A boy of sixteen and four hundred volumes and a drawer with a lock on it and a carter who comes up once a month on his own time and goes back down.
 
@@ -92,7 +92,7 @@ She said, “There is a lamp in there.”
 
 She said, “And I am going to go down that mountain in the morning and walk east for about a day and a half and be at the north end of a ground of two hundred people, and I am not going to be able to tell any of them that there is a room with a lamp in it, and I am not going to try.”
 
-## The Morning
+## Going Down The Mountain
 
 She went down at the first hour on the tenth of the month beginning 2,204 with the bar on her left shoulder and no strap on it and the strip with eighty-one lines on it in the front of her bag.
 

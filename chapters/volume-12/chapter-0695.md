@@ -20,7 +20,7 @@ Day two thousand one hundred and forty-nine less day two thousand and seventy-se
 
 Counted the other way, with the first day as the first, it is seventy-three days, and seventy-three out of twenty is three days and thirteen hours and twelve minutes.
 
-And there is a third figure, which is the one she has been carrying since the fifteenth of the month beginning 2,114, and it is five hundred and eighty-five days, and it is hers in a way the other two are not, because she has been lighter every single day for that long and not one of them has gone back.
+And there is a third figure, which is the one she has been carrying since the fifteenth of the month beginning 2,114, and it is five hundred and eighty-nine days, and it is hers in a way the other two are not, because she has been lighter every single day for that long and not one of them has gone back.
 
 Three numbers about herself at one frame, and two of them are nine days apart by nothing at all but a convention, and there is not one person in this county to settle the convention.
 
@@ -74,7 +74,7 @@ She said, “And I am not going to do it again, and I am not going to take it ba
 
 ## The Crack In It
 
-And on the eighth of the month beginning 2,114, at the first hour, at the frame, he said the thing that made those three days what they were.
+And on the eighth of the month beginning 2,144, at the first hour, at the frame, he said the thing that made those three days what they were.
 
 He said, “You have said less out loud in three days than in any three days since the twenty-first, and I have put down the fact that you have said less and not the reason, because the reason is not mine to take at the first hour.”
 
@@ -102,7 +102,7 @@ She stood there and worked out why she had stopped, and it took her about a minu
 
 It was the question she asked standing up on a floor.
 
-Can a person be announced without being designated. She asked it at the ninth hour of the fourteenth of the month beginning 2,034 with a witness she had not asked for, and it cannot be un-asked, and she is not permitted to ask it again, and every single thing she has ever done in public for nine years has had to be run past it.
+Can a person be announced without being designated. She asked it at the sixth hour of the twelfth of the month beginning 2,054 with a witness she had not asked for, and it cannot be un-asked, and she is not permitted to ask it again, and every single thing she has ever done in public for nine years has had to be run past it.
 
 And here is what she worked out on the seventh of the month beginning 2,144 at the ninth hour, standing, in the dark, at the north end of the rows, which is the plainest thing she has thought in a month:
 
@@ -114,7 +114,7 @@ There is no rule in this county that stops a woman from standing up in a field a
 
 She can say it. She said no first and she said yes after it, at the third hour of the twenty-first of the month beginning 2,114, standing up, in daylight, in front of two hundred people, and the reason she gave was true, and she is not going to be one of those people who counts the have and lets the have-not go.
 
-## The Decision
+## What She Would Say And When
 
 So she decided on the eighth of the month beginning 2,144, at the first hour, standing, in daylight, at the north end of two hundred rows of stones, not to say it until she can say it to the minute.
 

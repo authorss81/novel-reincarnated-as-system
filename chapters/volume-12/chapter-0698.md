@@ -30,7 +30,7 @@ And here is the part no one has ever had to think about, because no one has ever
 
 The figure moves.
 
-One in twenty of a day is an hour and twelve minutes. That is what comes off every day she stands on a slate twenty miles west, and so at the ninth hour on the fifteenth of the month beginning 2,144 her total was four days and two hours and twenty-four minutes, and by the twenty-first it was four days and eight hours and thirty-six minutes, and the number she said out loud in front of two hundred people on the fourteenth was already wrong.
+One in twenty of a day is an hour and twelve minutes. That is what comes off every day she stands on a slate two days of road west, and so at the ninth hour on the fifteenth of the month beginning 2,144 her total was four days and two hours and twenty-four minutes, and by the twenty-first it was four days and nine hours and thirty-six minutes, and the number she said out loud in front of two hundred people on the fourteenth was already wrong.
 
 There is no instrument in the world that keeps a total still.
 
@@ -108,4 +108,4 @@ She counted them at the ninth hour with the light going and got a hundred and fo
 
 A hundred and forty-four lines on a board, and one of them is hers, and four men cannot read it.
 
-And on the twenty-second of the month beginning 2,144 she is going to start planning how to be twenty miles west at the first hour of the first of the month beginning 2,174, and she has not slept eight hours in one place since she was nine years old and she has not slept eight hours in this ground once.
+And on the twenty-second of the month beginning 2,144 she is going to start planning how to be two days of road west at the first hour of the first of the month beginning 2,174, and she has not slept eight hours in one place since she was nine years old and she has not slept eight hours in this ground once.
