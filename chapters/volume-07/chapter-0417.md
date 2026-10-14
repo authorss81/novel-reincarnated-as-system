@@ -20,7 +20,7 @@ He said five words.
 
 She stood in the gateway a hundred yards short of that building with the bar over her right shoulder and four fingers and a thumb on it and she worked out four things at once, standing up, in nine seconds, and the fourth of them was the only one that mattered.
 
-There is exactly one hand on nine days of road that a person cannot read, and it comes down about nine times a year, and eight of them are lists of places and dates.
+There is exactly one hand on nine days of road that a person cannot read, and she had the rate of it inside nine seconds: eight of the nine that come down that road in a year are lists of places and dates.
 
 And one of them had her name at the head of it.
 

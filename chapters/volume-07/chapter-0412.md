@@ -2,7 +2,7 @@
 
 The fourth of a month beginning 1,034 was the fourth hour of a day at the works and she was at Pei’s gate with the bar in her right hand at the seventh hour and the run going down to the far end of it, and there were eleven men on the bank above the gate because the drain was the second run and the second run was against the twenty-fourth and the twenty-fourth was ten days behind her and they were cutting it a second length.
 
-She had dug four hundred yards of that drain in seven months and she could not take a line off the board for any part of it, and on the fourth she had eight coppers and a line at the counter cost ten.
+She had dug four hundred yards of that drain in seven months and she could not take a line off the board for any part of it, and on the fourth she had seven coppers and a line at the counter cost ten.
 
 ## The Seventh Hour
 
@@ -72,7 +72,7 @@ Not that she is lazy. Not that she has not got a name. Not that she has not got 
 
 A column carrying a person past nine has no last day on it and no figure against it, so no office on nine days of road can enter her hours as wages.
 
-And it is not the ten coppers. She had eight and she is owed four for a line of her own on the third floor and she would have found eight more inside a month, and she had been telling herself the money was the wall for seven months, and it was the money and it was not the money.
+And it is not the ten coppers. She had seven and she is owed four for a line of her own on the third floor and she would have found the other three inside a week, and she had been telling herself the money was the wall for seven months, and it was the money and it was not the money.
 
 ## What He Said With His Hand Off The Book
 
@@ -130,7 +130,7 @@ She lay on the boards at the second hour of the fifth with the bar under her rig
 
 She lay there for a while.
 
-“And a man behind a counter told me yesterday at the eighth hour in a room with a stove in it that I am past the end of a page, and he is right, and I would have got eight more coppers inside a month and it was never the ten.”
+“And a man behind a counter told me yesterday at the eighth hour in a room with a stove in it that I am past the end of a page, and he is right, and I would have got the other three inside a week and it was never the ten.”
 
 She put a lump of clay in at the low end of the ring. It came up the width of a finger and stopped.
 

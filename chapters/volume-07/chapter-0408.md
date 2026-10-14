@@ -120,4 +120,4 @@ And on the twenty-ninth she dug the run, and on the thirtieth she dug the run, a
 
 There would be a fourth line on that page now, in chalk, in a yard-book hand, and it was not a name and it was not about her hours and it cost four coppers nowhere on nine days of road.
 
-She had asked to be sent up to the long table at the top of that stair twice in four months and had never once been sent, and a page of her own in a hand she could check was four coppers and she had had five coppers that morning and had not gone up the hill with them.
+She had asked to be sent up to the long table at the top of that stair twice in four months and had never once been sent, and on the ninth of a month it was going to come back down the mill road and go into a book on the floor below, and there was going to be four words in that book with her standing at the rail in them, and she was not going to be in the room when it happened.

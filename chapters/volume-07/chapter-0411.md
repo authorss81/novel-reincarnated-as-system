@@ -136,6 +136,6 @@ She lay on the boards at the second hour of the fourth of a month with the bar u
 
 She lay there.
 
-“And it is ten coppers and I have got eight, and that is not why.”
+“And it is ten coppers and I have got seven, and that is not why.”
 
 She put a lump of clay in at the low end of the ring and it came up the width of a finger and stopped, and she left it there, because the fourth of a month was the next day and a rule is not worked out twice.

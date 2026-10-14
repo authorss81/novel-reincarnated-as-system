@@ -28,7 +28,7 @@ Then he took a straight edge out of the groove and put it along the two lines an
 
 “That is not what I meant.”
 
-## What He Said About The Hand
+## What It Is Not
 
 He put the straight edge down.
 

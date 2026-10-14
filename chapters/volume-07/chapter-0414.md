@@ -123,3 +123,11 @@ It came back on the twenty-third of a month at the fourth hour, on the third flo
 “Wood is cold.”
 
 And she put her hand on the next book and turned the page.
+
+She had five days and one hour and it was the twenty-third of a month and it was gone.
+
+It had bought her a barrow wheel four inches off true, a dressed stone with a man’s leg under it, forty books open on a table, and twelve days of standing in rooms with her hand out and nothing coming up out of the ground. It came back once in all that, and it came back because a woman of forty-five said a thing about wood.
+
+She was going to be at that gate at the seventh hour in the morning.
+
+She had no idea whether she would be at it in the spring.

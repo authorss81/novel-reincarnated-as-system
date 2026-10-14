@@ -34,33 +34,50 @@ voice drifting, and the audit's own repairs becoming the defects the next review
 
 ## What is on the page
 
-**Volume 7 file set ch 361–420: 115,193 words of body prose over sixty chapters, average ~1,920.** Body prose excludes
-the `#` title line and every `##` section heading. Per batch, all re-derived from the chapters at the Batch 0004
-phase:
+**Volume 7 file set ch 361–420: 115,342 words of body prose over sixty chapters, average ~1,922.** Body prose excludes
+the `#` title line and every `##` section heading. Per batch, re-derived from the chapters at the Batch 0004 phase and
+**again at its review**, after the eight repairs listed at the foot of this prompt:
 
 | Batch | Chapters | Days | Words of body prose | Average |
 | --- | --- | --- | --- | --- |
 | 0001 | 361–374 | 849–899 | 27,114 | ~1,937 |
 | 0002 | 375–389 | 900–950 | 28,296 | ~1,886 |
 | 0003 | 390–404 | 951–1,020 (days 1,000–1,020 carried as elapsed) | 29,552 | ~1,970 |
-| 0004 | 405–420 | 1,021–1,090 | 30,231 | ~1,889 |
+| 0004 | 405–420 | 1,021–1,090 | 30,380 | ~1,899 |
 
 **A note on Batch 0002's figure, carried here so the close does not quote a stale one.** The state files recorded
 Batch 0002 at 27,966 before the Batch 0004 phase. That number does not reproduce: body-prose-only counting gives
-28,296, headings-included gives 28,973, and a third method was not tried because the first two disagreed enough.
-**Batch 0001's 27,114 and Batch 0003's 29,552 both reproduce exactly under body-prose-only counting, so that is the
-house method and Batch 0002's recorded figure is stale.** The close should re-derive all four and record what it
-finds, including this.
+28,296, headings-included gives 28,973. **Batch 0001's 27,114 and Batch 0003's 29,552 both reproduce exactly under
+body-prose-only counting, so that is the house method and Batch 0002's recorded figure was stale.**
+**THE CORRECTION HAS SINCE BEEN PROPAGATED and Batch 0002 now reads 28,296 / ~1,886 in `state/current.md`,
+`state/book-metadata.md`, `state/continuity.md` and `state/chapter-summaries.md`.** Two things came out of doing it that
+the close needs and should not have to rediscover. **First, Batch 0002's recorded per-file row summed to exactly the
+stale 27,966** — it was measured before Batch 0002's own review repairs and never re-derived — so that row is now
+re-derived with the total, and **ch 385 at 1,792 is under the 1,800 guide**, not inside it as this volume's older
+state files claimed. **Second, the `about…` numerator in the same table was stale for the same reason: 175 on the old
+text, 154 on the page as it stands.**
+**The close should still re-derive all four and record what it finds.**
 
 **420 `#` headings manuscript-wide. Zero collisions. The longest title in the manuscript is 32 characters** —
 *The Rule With Nothing At The End* at ch 391 and *The Smallest Person On The Floor* at ch 382.
 
 **Batch 0004's chapters were drafted by an earlier run, deferred by the controller under
 `novel: defer volume-07-batch-0004`, and then repaired rather than discarded.** The commit
-`workspace/volume-07-batch-0004/.wip-conflict` marks that. **Twenty concrete repairs are listed at the foot of the
-Batch 0004 block in `state/continuity.md` under *Volume 7 Batch 0004 — what the drafting phase repaired*, and the
-close should read that list before auditing ch 405–420, because every one of them was a place a reader could have
-found a contradiction.**
+`workspace/volume-07-batch-0004/.wip-conflict` marks that. **These chapters have now been through two repair passes:
+twenty drafting-phase repairs and eight review repairs, twenty-eight in all, and they are listed together at the foot
+of the Batch 0004 block in `state/continuity.md` under *Volume 7 Batch 0004 — what the drafting phase repaired* and
+*Volume 7 Batch 0004 — REVIEW REPAIR*. The close should read that list before auditing ch 405–420, because every
+entry in it was a place a reader could have found a contradiction.**
+
+**The eight review repairs, in one place, so the close does not have to find them in a list of twenty-eight.** The
+drafting pass fixed the *structure* and the review pass found the *arithmetic it had left behind*: a purse on the last
+page that could not both be twenty-nine and twenty-five (now twenty-one), a copper at ch 411 that she did not earn
+between the eighth hour and the second hour (now seven throughout), a false claim that all sixteen chapters sat
+inside the length guide (four do not), a Batch 0002 word-count correction that had been written down and never
+propagated (now propagated everywhere), a figure restated twenty lines after it was stated at ch 417, and three
+chapter endings — ch 414 on a turned page, ch 408 looking backwards at money it had already covered, and a section
+heading duplicated byte-for-byte between ch 406 and ch 416. **No beat, day-table position, title, midpoint, climax,
+irreversible decision, bracket or stage moved in either pass.**
 
 ## The audit, and what it is for
 

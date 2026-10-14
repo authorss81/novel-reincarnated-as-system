@@ -156,7 +156,7 @@ She said yes.
 
 On the twentieth she went west at the fifth hour with twenty-nine coppers in the fold and came back at the eleventh with four loaves and nothing in the fold.
 
-The storekeeper had not asked her anything and had not given her a different price. The margin correction on the third floor was four, and it had been four since before she came, and she had twenty-five coppers in the fold in the inside of the door frame at the second hour of the twenty-first, and she did not go up the hill.
+The storekeeper had not asked her anything and had not given her a different price. The margin correction on the third floor was four, and it had been four since before she came, and she had twenty-one coppers in the fold in the inside of the door frame at the second hour of the twenty-first, and she did not go up the hill.
 
 ## What Was Still Open On The Twentieth
 
