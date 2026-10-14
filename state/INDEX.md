@@ -106,7 +106,16 @@ five before it, at `## Volume 7 planned`, `## Volume 7 Batch 0001` … `## Volum
 
 ## For the next phase
 
-**Volume 10 planning reads, in this order:** `workspace/volume-10-planning/PROMPT.md` — **which is the whole brief:
+**STALE READING INSTRUCTION, CORRECTED HERE. Volume 10 planning is discharged** — it ran, its four batches are on the page,
+and the volume is closed and audited at ch 600. **A Volume 11 planning phase must not be sent to
+`workspace/volume-10-planning/PROMPT.md` or to any `state/current.md` section headed *end of chapter 538*.** It reads
+`outline/volume-10.md` in full, then `state/current.md` under ***Who is where at end of Volume 10***, then
+`state/continuity.md` under ***VOLUME 10 CLOSE — The List, ch 539–600*** and its ***— REVIEW REPAIR***, then
+`state/open-threads.md` under ***VOLUME 10 CLOSED***, then `state/chapter-summaries.md` under ***VOLUME 10***. **The next
+phase prompt and directory are the workflow's to write, not this file's and not the close's.** The paragraph below is left
+as the record of what Volume 10 planning was sent, the same way Volume 7's discharged obligations were left standing.
+
+**Volume 10 planning read, in this order:** `workspace/volume-10-planning/PROMPT.md` — **which is the whole brief:
 plan Volume 10, ch 539–600, and write its first 10 to 20 chapter batch prompt, and nothing else** — then
 `outline/series.md` §9 · `outline/volume-09.md` §*New question for Volume 10* · this file ·
 `state/current.md` §*Who is where at end of chapter 538* · `state/current.md` §*Volume 9 close audit — CLOSED* ·

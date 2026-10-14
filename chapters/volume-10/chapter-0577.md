@@ -38,7 +38,7 @@ That is the only part of it that was a question and she asked it once and she di
 
 ## What The Boy Said
 
-He did not think about it for very long, and he did not put his hands behind him, and he said five things and then he stopped.
+He did not think about it for very long, and he did not put his hands behind him, and he said eight sentences and then he stopped.
 
 “It goes with me.”
 

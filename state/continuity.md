@@ -4985,7 +4985,10 @@ count on word boundaries and measured before it is claimed.**
 which is 1,688–1,875 a chapter, and at Volume 9's real pace of 1,849–1,933. Per file: **539 2,010 · 540 1,810 ·
 541 2,020 · 542 1,904 · 543 1,734 · 544 1,815 · 545 1,899 · 546 1,781 · 547 2,015 · 548 1,840 · 549 1,690 ·
 550 1,875 · 551 1,823 · 552 1,801 · 553 1,853 · 554 2,032.** Nothing under the 1,300 floor; nothing over the 2,700
-guide.
+guide. *(This is the batch's own record of the batch as it was written, left standing as the other three batches' records
+are. **The close's rebuilt table governs, and it reads ch 541 at 2,024 and ch 554 at 2,039 — the close's repairs and the
+close review's restoration of ch 541 moved those two, and the batch figure of 29,902 is superseded by the close's 29,846.**
+See *VOLUME 10 CLOSE — The List, ch 539–600* below.)*
 
 | Construction | Measured across ch 539–554, body prose, `\b` word boundaries | Allowance | Verdict |
 | --- | --- | --- | --- |
@@ -5673,7 +5676,7 @@ was derived from a published Volume 10 total.**
 
 **`chapters/volume-10/` is COMPLETE, AUDITED AND CLOSED. Sixty-two chapters, ch 539–600, day 1,599 to day 1,830. This
 close walked `outline/volume-10.md` section by section against the sixty-two files, recorded every item as held, not
-held or held differently, repaired thirteen sentences and two lines across ten files, wrote no new chapter prose, and
+held or held differently, repaired eighteen sentences and two lines across eleven files, wrote no new chapter prose, and
 produced no next prompt and no `.done` marker.**
 
 **Nothing in this record is derived from a published Volume 10 figure.** Every number below was run against the files
@@ -5687,29 +5690,30 @@ and the command is named in the sentence with the number.
 per file by `grep -v '^#' <file> | wc -w`, and the volume total cross-checked a second time by `awk '!/^#/{for(i=1;i<=NF;i++)n++}'
 END{print n}' chapters/volume-10/chapter-*.md`, which returns the same figure.
 
-> **THE VOLUME IS 115,615 WORDS OF BODY PROSE ON METHOD B, AVERAGE 1,865 A CHAPTER OVER SIXTY-TWO CHAPTERS** (115,615 ÷ 62 = 1,864.76, rounded; the arithmetic is named here because the close caught itself writing 1,868 on a first pass and correcting it before it was committed).
+> **THE VOLUME IS 115,619 WORDS OF BODY PROSE ON METHOD B, AVERAGE 1,865 A CHAPTER OVER SIXTY-TWO CHAPTERS** (115,619 ÷ 62 = 1,864.82, rounded; the arithmetic is named here because the close caught itself writing 1,868 on a first pass and correcting it before it was committed). **The close published 115,615 and the close review moved it by four words when it restored ch 541's made road to eleven; see *Volume 10 close review — REPAIR* at the foot of this file.**
 
-**Per batch:** **Batch 0001 (ch 539–554) 29,842 · Batch 0002 (ch 555–570) 27,751 · Batch 0003 (ch 571–586) 30,323 ·
-Batch 0004 (ch 587–600) 27,699.** Sum 115,615.
+**Per batch:** **Batch 0001 (ch 539–554) 29,846 · Batch 0002 (ch 555–570) 27,751 · Batch 0003 (ch 571–586) 30,323 ·
+Batch 0004 (ch 587–600) 27,699.** Sum 115,619.
 
 **The convention warning is now settled, and it went against two published figures.** Measured under this one method:
 
 | Batch | Published | Measured | Verdict |
 | --- | --- | --- | --- |
-| 0001 | 29,678 | **29,842** | **did not reproduce; the published figure was 164 short** |
+| 0001 | 29,678 | **29,846** | **did not reproduce; the published figure was 168 short** |
 | 0002 | 27,575 | **27,751** | **did not reproduce; the published figure was 176 short** |
 | 0003 | 30,324 | 30,323 | reproduces, and differs by one word from the repair below |
 | 0004 | 27,733, then 27,728 after its review repair | 27,699 | reproduces the batch's own list exactly, and differs again only because of this close's repairs to ch 592, 595 and 597 |
 
 **The check figure the prompt supplied is 115,638, which is what all four batches measured before this close's repairs.
-This close publishes 115,615, because thirteen sentences and two lines changed on the page.** The two figures are not in
-conflict: 115,638 is the pre-repair page and 115,615 is the page as Volume 11 will inherit it. **No later phase should
+This close publishes 115,619, because eighteen sentences and two lines changed on the page.** The two figures are not in
+conflict: 115,638 is the pre-repair page and 115,619 is the page as Volume 11 will inherit it. **No later phase should
 quote 115,638 as the volume's word count.**
 
-**Where the 23 words went:** ch 554 +7 (the two legs of a distance put the right way round) · ch 561 0 · ch 569 0 ·
-ch 577 0 · ch 581 0 · ch 582 −1 · ch 585 0 · **ch 592 −29 (two lines of a drafter's scratch note removed from the printed
-page)** · ch 595 0 · ch 597 0. **Nine of the thirteen changed sentences cost no words at all; they were a figure being
-put right.**
+**Where the nineteen words went:** ch 541 **+4** (the made road put back to eleven and the last two miles named, **done by
+the close review and not by the close — the close's own repair of this line is withdrawn**) · ch 554 +7 (the two legs of a
+distance put the right way round) · ch 561 0 · ch 569 0 · ch 577 0 · ch 581 0 · ch 582 −1 · ch 585 0 · **ch 592 −29 (two
+lines of a drafter's scratch note removed from the printed page)** · ch 595 0 · ch 597 0. **Fourteen of the eighteen
+changed sentences cost no words at all; they were a figure being put right.**
 
 #### The per-chapter table, rebuilt from the files and not carried forward from any published list
 
@@ -5717,7 +5721,7 @@ put right.**
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 539 | 2,010 | 555 | 1,827 | 571 | 2,069 | 587 | 1,948 |
 | 540 | 1,810 | 556 | 2,351 | 572 | 2,196 | 588 | 2,350 |
-| 541 | 2,020 | 557 | 1,732 | 573 | 1,897 | 589 | 1,943 |
+| 541 | 2,024 | 557 | 1,732 | 573 | 1,897 | 589 | 1,943 |
 | 542 | 1,904 | 558 | 1,646 | 574 | 1,807 | 590 | 1,815 |
 | 543 | 1,734 | 559 | 1,699 | 575 | 1,605 | 591 | 2,032 |
 | 544 | 1,815 | 560 | 1,584 | 576 | 1,751 | 592 | 2,097 |
@@ -5732,9 +5736,13 @@ put right.**
 | 553 | 1,853 | 569 | 1,589 | 585 | 2,032 | | |
 | 554 | 2,039 | 570 | 1,877 | 586 | 2,997 | | |
 
-**Every chapter is above the 1,300 floor.** The longest is ch 586 at 2,997 and the shortest is ch 560 at 1,584; four
-chapters sit below the 1,800 guide (560 at 1,584 · 569 at 1,589 · 566 at 1,587 · 561 at 1,602) and none is below the
-floor. **Volume average 1,865 is inside the outline's 1,742–1,903 target band.**
+**Every chapter is above the 1,300 floor.** The longest is ch 586 at 2,997 and the shortest is ch 560 at 1,584. **TWENTY-FIVE
+OF SIXTY-TWO CHAPTERS SIT BELOW THE 1,800 GUIDE — 543, 546, 549, 551, 557, 558, 559, 560, 561, 562, 563, 564, 565, 566, 567,
+568, 569, 575, 576, 577, 578, 579, 580, 581 and 583 — and none is below the floor. 37 sit above it.** The close originally
+published *"four chapters sit below the 1,800 guide"* and named the four **shortest** — **560, 569, 566 and 561** — which is a
+true statement about the bottom of the table and a false one about the count. **CORRECTED BY THE CLOSE REVIEW: 25 of 62,
+measured over the files, not 4.** The same zero-that-is-not-a-zero class this close has now caught itself making twice.
+**Volume average 1,865 is inside the outline's 1,742–1,903 target band.**
 
 ---
 
@@ -5811,7 +5819,7 @@ chapters/volume-10/chapter-0588.md:45:[Ning Yan, past the line, servant-born, un
 ```
 
 **Bracket characters in body prose: three opening and three closing — six in the whole volume, and all six are on those
-three lines.** No square bracket appears anywhere else in 115,615 words. **PASS, and the figure is measured, not
+three lines.** No square bracket appears anywhere else in 115,619 words. **PASS, and the figure is measured, not
 promised.**
 
 #### 5. The five structural mouths — **FOUR OF FIVE OVERRUN THEIR RANGE, and the overruns are recorded and not fixed**
@@ -5825,7 +5833,7 @@ Counted by extracting every quoted span in the mouth's own speech and counting s
 | 561 | a woman at the bench | **10** | 5 | over by 3 | **NOT HELD.** Never as one speech ✓ |
 | 577 | a boy of eleven | **8** | 5 | over by 1 | **NOT HELD** |
 | 581 | a woman of fifty | **8** | 6 | over by 1 | **NOT HELD** |
-| 593 | a man who keeps the crossing chain | **8** | 5 | over by 1 | **NOT HELD.** The same man gives **four more** at ch 593 under *Why He Said It To Her*, so the chapter's structural answer is **8 + 4** |
+| 593 | a man who keeps the crossing chain | **8** | 5 | over by 1 | **NOT HELD.** The same man gives **five more** at ch 593 under *Why He Said It To Her*, in two speeches, so the chapter's structural answer is **8 + 5** |
 
 **`outline/volume-10.md` says in terms that a mouth that overruns is a finding to record at the close and not a defect to
 fix mid-draft. Four do. They stand.**
@@ -5836,9 +5844,14 @@ fix mid-draft. Four do. They stand.**
   short sentences." Neither reproduces.** ch 593's mouth is **eight**; **ch 594 has no mouth in it at all** — its four
   lines are Ning Yan, Yuan, and the lever, and the chain man's *why he said it* run is inside **ch 593**, not ch 594.
   **Corrected here; the page was right and the record was not.**
+- **CORRECTED AGAIN BY THE CLOSE REVIEW: that run is five sentences, not four.** The *Why He Said It To Her* section of
+  ch 593 carries five — *"You are the only person… what it was,"* / *"The others want to know if they are on it. You wanted
+  to know where it goes."* / *"That is not a question anybody asks me. That is a question about a road…"* — in **two**
+  speeches, so the chapter's structural answer is **8 + 5** and the close's own **8 + 4** was one short.
 - **ch 593's own mouth contains *"That is four sentences and I have not said them since a man with a bar asked me
-  once."*** The man is counting his four utterances and calling them sentences; the mouth is eight sentences. **He is
-  inside a structural mouth and the close did not touch a word of him.**
+  once."*** **He is counting his four speeches and calling them sentences.** The mouth is eight and the second run is
+  five. **He is inside a structural mouth and neither the close nor the review touched a word of him.** The discrepancy is
+  his, and it is the finding.
 
 #### 6. The frame scene — **HELD, with one exception recorded**
 
@@ -6014,9 +6027,17 @@ does not write it and says nothing for four minutes.
 
 #### 14. The geography and the road — **THE SPINE HOLDS. SIX CONTRADICTIONS FOUND AND REPAIRED. ONE RECORDED AND NOT.**
 
-**The settled spine, stated seventeen and eleven times respectively and never varied:**
+**The settled spine, and the count on it, measured on the files as they now stand:**
 
 > **post → 9 miles of strip road → turn → 11 miles of made road → gate → 2 miles → wall → opening. Total, twenty-two miles.**
+
+**The nine-mile strip leg is stated 29 times and the eleven-mile made leg 24 times, across 29 of the sixty-two chapters,
+and not one of the fifty-three contradicts the other.** *(The close published *seventeen and eleven times respectively
+and never varied* and did not name the command that produced either number. **The close review could not reproduce that
+pair under any reading and has replaced it with a count and a method:** every body-prose paragraph of all sixty-two files,
+`\bnine\b(\s+\w+){0,2}\s+of\s+(the\s+)?strip` and the same pattern with *eleven* and *made*, case-insensitive, counted
+within a paragraph and not across the paragraph break. **The spine is the same one. Only the claim about how often it is
+said was unverifiable, and it is now a number with its command in the sentence with it.**)*
 
 The bar on two posts is **four hundred yards east of the turn**, stated in ch 561, 588, 597, 599 and 600. The wheel-marks
 **start at the bar and come out a quarter of a mile beyond the opening** (ch 588). The turn is **thirteen miles** west of
@@ -6031,12 +6052,17 @@ one of them the two-mile stretch is empty. No chapter puts anything there.** ✓
 
 | Ch | Was | Now | The derivation |
 | --- | --- | --- | --- |
-| 541 | *"nine miles of strip road between this post and a turn, and **eleven** miles of made road between that turn and the wall"* | **thirteen** | 9 + 13 = 22, and the paragraph two lines above says the walk was *twenty-two miles*. ch 567, 592 and 595 all give eleven to the **gate** and two more to the wall |
+| 541 | *"nine miles of strip road between this post and a turn, and **eleven** miles of made road between that turn and the wall"* | **the close changed this to *thirteen* and the close review put it back to *eleven*, adding *the last two miles of flat ground*** | **The original error was real — 9 + 11 read as 20 against a paragraph that says twenty-two — and the close's cure made it worse, because *thirteen miles of made road* contradicts seven chapters that give eleven to the made road and turns the turn-to-wall leg into made road when the spine puts two miles of it in flat ground. The page now reads *eleven miles of made road between that turn and the wall, and a gate on the made road with a boy of fifteen on a chain, and then the last two miles of flat ground and the opening in the wall*, which is 9 + 11 + 2 = 22 and is ch 558's own formulation** |
 | 554 | *"At the wall means **eleven** miles of strip road and eleven of made road"* | **"nine miles of strip road and eleven of made road and two of the last of it"** | the volume's own canonical formulation, at ch 558, word for word |
 | 582 | *"eleven miles of strip and **nine** of made and two past a gate"* | **"nine of strip and eleven of made and two past a gate"** | ch 574 has the identical sentence with the two legs the right way round |
 | 592 | *"there were **nine** miles of made road and a gate and a wall"* | **eleven** | eleven is stated ten times; nine was never a made-road figure |
 | 595 | *"walked **nine** miles of made road with the gate at the ninth hour"* | **eleven** | same |
 | 597 | *"a line in wet ground east of a bar on two posts, **eleven** miles across open country"* | **thirteen** | a quarter of a mile to the turn + 11 to the gate + 2 to the wall + a quarter past the opening. Eleven was two and a half short |
+
+**The 541 row is the one the close review reversed, and the reversal is recorded here rather than quietly applied: the
+spine above is stated twenty-four times to the made leg and the page now says eleven everywhere, without a contradiction.
+`thirteen` remains the figure for the turn's distance from the wall and for the walk east of a bar, and those are two
+different measurements.**
 
 **ONE FINDING RECORDED AND NOT REPAIRED — the lane.** ch 560 says, in three consecutive sentences:
 
@@ -6074,7 +6100,7 @@ zero-that-is-not-a-zero failure this manuscript has now caught itself making fiv
 | **The Yuan tag** | 0 verbatim, no lead-in of any shape | **0.** He speaks one sentence in sixty-two chapters | **PASS** |
 | **Named weekdays · named calendar months · named weeks · named seasons** | 0 / 0 / 0 / 0 | **0 / 0 / 0 / 0** | **PASS** |
 | **`whole of`** | under 80 volume-wide | **80.** Per batch 46 · 22 · 12 · 0 | **EXACTLY ON THE LINE, NOT OVER IT** |
-| **bare `eleven`** | under 200 volume-wide | **214 case-insensitive** (84 · 63 · 40 · 27) · **201 case-sensitive** | **EXCEEDED on the stricter count** |
+| **bare `eleven`** | under 200 volume-wide | **215 case-insensitive** (85 · 63 · 40 · 27) · **202 case-sensitive** | **EXCEEDED on the stricter count** |
 | **`about…`** | average under 7.0 | **396, average 6.39.** Per batch 128 · 94 · 85 · 89 | **PASS, under the line** |
 | **`nothing`** | counted, no cap | **387 case-insensitive, average 6.24** (97 · 76 · 102 · 112) · 367 case-sensitive. Heaviest at **ch 586, 596 and 600 (13 each)**, then ch 593 and 598 (12 each) | **RECORDED, handed on — see below** |
 | **`list`** | counted | **42** · `listing` **0** · `vouch` **0** · `send for` **0** · `sent for` **1** (plain English, ch 544) | counted |
@@ -6151,13 +6177,17 @@ recorded here so that the allowance is not reported as cleanly held when it is n
 
 ### THE REPAIR NOTE — everything that changed on the page, and what did not
 
-**Fifteen sentences and two lines changed across ten files. No day, no stage, no bracket, no title, no irreversible step,
-no mouth's words, no beat and no planned event moved.**
+**Eighteen sentences and two lines changed across eleven files. No day, no stage, no bracket, no title, no irreversible step,
+no mouth's words, no beat and no planned event moved.** *(The close published this repair size three different ways —
+*thirteen* in its own intro, *fifteen* in this note, and its own table at nineteen rows across eleven files. **The table
+governs and the figure is eighteen sentences and two lines across eleven files**, because row 1 is the two removed lines
+and the other eighteen rows are one sentence each. **The close review added a nineteenth sentence of its own, at ch 577,
+and restored ch 541 — row 2 below is the review's page, not the close's**; see *Volume 10 close review — REPAIR*.)*
 
 | # | File | Was | Now | Why |
 | --- | --- | --- | --- | --- |
 | **1** | **ch 592** | *She crossed back at the seventh hour on the seventeenth... no.* and *Let me fix: she crossed at the fifth hour of the sixteenth and stayed on the far side.* — **two lines of a drafter's scratch note, printed as body prose** | **removed; the section now opens on *She had intended to cross back.*** | **The single worst finding in this close.** The two lines are not prose, they are a drafter talking to themselves in the middle of a finished chapter, and they carried a **three-way date contradiction** — the seventeenth, the sixteenth, against the chapter's own *fifth hour of the eleventh* and *until the morning of the twelfth*, and against ch 593, where the four cross at the fourth hour of the twelfth and she does not leave the far bank until the sixth hour of the fourteenth. It passed Batch 0004's review and its construction budget because **the widened scaffolding pattern did not contain `let me fix`.** |
-| 2 | ch 541 | eleven miles of made road between that turn and the wall | **thirteen** | 9 + 13 = 22, and the paragraph above says twenty-two |
+| 2 | ch 541 | eleven miles of made road between that turn and the wall | **WITHDRAWN BY THE CLOSE REVIEW AND RESTORED TO *eleven*, with *the last two miles of flat ground* added.** The close's own repair read **thirteen** | 9 + 11 + 2 = 22 against a paragraph that says twenty-two, and *thirteen miles of made road* contradicted the spine this same document calls unvaried |
 | 3 | ch 554 | eleven miles of strip road and eleven of made road | **nine miles of strip road and eleven of made road and two of the last of it** | the volume's own canonical line, at ch 558 |
 | 4 | ch 561 | told her in six short sentences | **ten short sentences** | the mouth is 10 sentences in 5 speeches |
 | 5 | ch 561 | it was six sentences | **it was ten sentences** | same |
@@ -6211,7 +6241,7 @@ carter of thirty-five, the woman of sixty, the boy of eleven, the woman of fifty
 6. **The third cost restated at ch 599** — carried and applied, not re-derived, and the hinge of the finding.
 7. **The closing day re-derived at ch 571** — her own count, arithmetically exact, one chapter after the naming.
 8. **Yuan's past-tense clause at ch 596** — one clause, deliberate, passed by the batch review.
-9. **`nobody` at 2.21 and `eleven` at 214** — both exceeded their allowances. **A close does not repair a frequency; it
+9. **`nobody` at 2.21 and `eleven` at 215** — both exceeded their allowances. **A close does not repair a frequency; it
    records it and names Batch 0001 as where it was spent.**
 
 ---
@@ -6243,3 +6273,68 @@ beyond the opening, a made road east into a barrow ground of about two hundred p
 
 **And the question the volume ends on is the one it did not ask:** not what he will tell her, and not whether she will
 forgive anybody, and not what is on a list that is shut. **She does not ask him yet. He is still talking.**
+
+---
+
+## Volume 10 close review — REPAIR
+
+**The close was reviewed and every one of its published figures was re-measured against the committed files. The review
+returned six findings. All six are closed. It wrote two lines of prose on the page and nothing else, and it created no
+`.done` marker and no Volume 11 directory, which matches the phase contract.**
+
+**What the review confirmed and did not touch:** the volume word count by method B · the four per-batch totals, three
+of which reproduce exactly and one of which moved with ch 541 · `whole of`
+80 · `about` 396 with the per-batch breakdown · `nothing` 387 · `nobody` 137 case-insensitive and 115 case-sensitive ·
+three bracket lines and six bracket characters · 600 `#` headings manuscript-wide, zero collisions, longest title 37
+characters · zero paragraphs over the 90-word guide and zero over the 120 ceiling · 404 and 404 quotation marks · 525
+section headings. **The close was right to overrule its own brief on `eleven` with a per-batch breakdown that sums, and right to catch
+that Batch 0004's `whole of` is 80 and not 105. Its 214 is 215 again on the page as it now stands, because ch 541 gives
+one of them back, and the published figure follows the page.**
+
+### The six findings, and what closed each
+
+| # | Finding | Closed by |
+| --- | --- | --- |
+| **1** | **ch 577:41, an incomplete repair and a live self-contradiction.** The close changed three of the four counts of the boy's mouth from *five sentences* to *eight sentences* and missed the lead-in two lines above the mouth, which still read *he said five things and then he stopped* | **One line on the page.** *he said five things* → **he said eight sentences**. It is the same arithmetic class as everything else in this table and it survived because the close's grep was for *five sentences* and not for *five things*. The boy still speaks five speeches and they still hold eight sentences; the narrator now counts the same thing twice on the page |
+| **2** | **ch 541:31, the close's own repair contradicted the spine the same document calls unvaried.** It was changed to *thirteen miles of made road*, which fixes 9 + 13 = 22 and breaks seven chapters that give eleven to the made road | **One line on the page, restored to ch 558's formulation.** *and thirteen miles of made road between that turn and the wall* → **and eleven miles of made road between that turn and the wall**, and *and then the flat ground* → **and then the last two miles of flat ground**. The spine is now stated twenty-four times to the made leg and never contradicted, and the sentence still names the gate, the boy of fifteen on the chain and the opening in the wall |
+| **3** | **`state/open-threads.md` and this file contradicted each other in the same commit** — *three structural mouths that hold and the two that do not* against *FOUR OF FIVE OVERRUN* | **One line in open-threads.** It now reads **one mouth holds at the top of its range and four overrun** |
+| **4** | **This file said *four chapters sit below the 1,800 guide* and named the four shortest.** 25 of 62 sit below it | **Corrected in place**, with all twenty-five named and the false count called as false rather than quietly replaced |
+| **5** | **The repair size was published three ways** — *thirteen* in the intro, *fifteen* in the repair note, and a nineteen-row table across eleven files | **One figure everywhere: eighteen sentences and two lines across eleven files**, with the table shown to be the authority. **The close's `Where the words went` line had also dropped ch 541, which is where *ten files* came from; it is restored** |
+| **6** | **ch 593's structural answer was published as *8 + 4*. The page yields five sentences in the *Why He Said It To Her* run, in two speeches** | **Corrected in the §5 table and in the finding beneath it.** The chapter's structural answer is **8 + 5**. **The man's own *"That is four sentences"* stays as it is on the page: he is counting his four speeches and calling them sentences, and that is his discrepancy, not the record's** |
+
+### What the review judged correct as recorded, and left alone
+
+- **The ch 560 lane.** *"The lane is four miles west of the turn. The turn is nine miles east of the post. The lane is
+  thirteen miles from the post."* 9 − 4 = 5, not 13, and the chapter builds fourteen miles of sums out of it. **Real, and
+  genuinely unresolvable inside a close**: correcting *thirteen* breaks three sums inside ch 560, correcting *four miles
+  west of the turn* contradicts ch 574, ch 585 and ch 600. **The review notes it arguably meets this phase's own bar for
+  fixing before Volume 11 and agrees with the close's decision to hand it forward rather than choose a map.**
+- **The ch 599 restatement of cost three (1 · 1 · 2, not 1 · 1 · 1)** · **`the walls` = 1, a homonym, at ch 591** ·
+  **`Ten volumes` = 1 at ch 600** · **Yuan's past-tense trailing clause at ch 596**. **All four stay as the close recorded
+  them, with their reasoning, and the review calls that good practice rather than re-opening them.**
+
+### What moved, and what did not
+
+**Two lines of chapter prose changed, in two files.** No day, no stage, no bracket, no title, no irreversible step, no
+mouth's words, no beat and no planned event moved. **No outline file and no controller file was edited, and no next phase
+was created.**
+
+| Figure | The close published | **Now** | Why |
+| --- | --- | --- | --- |
+| Volume, body prose, method B | 115,615 | **115,619** | ch 541 gains *the last two miles*, +4 |
+| Average a chapter | 1,865 (1,864.76) | **1,865 (1,864.82)** | unchanged at the rounded figure; the sum is named because the close named it |
+| Batch 0001 | 29,842 | **29,846** | same +4, and the published 29,678 is 168 short rather than 164 |
+| Batches 0002 · 0003 · 0004 | 27,751 · 30,323 · 27,699 | **unchanged** | no file in them was touched |
+| ch 541 | 2,020 | **2,024** | same +4 |
+| ch 577 | 1,609 | **1,609** | *five things* → *eight sentences* is two words for two words |
+| bare `eleven`, case-insensitive | 214 (84 · 63 · 40 · 27) | **215 (85 · 63 · 40 · 27)** | ch 541 gives it one back |
+| bare `eleven`, case-sensitive | 201 | **202** | the same, and it is a lowercase `eleven` |
+| Chapters below the 1,800 guide | 4 | **25 of 62** | the four named were the four shortest, not the four |
+
+**The pre-repair figure 115,638 remains the pre-repair figure. It is still the page as all four batches measured it, and it
+is still not to be quoted as Volume 10's word count.**
+
+**One standing note for Volume 11's first batch:** the two sentences the review repaired were both *the narrator counting a
+mouth against what the mouth actually says*, and the second was a repair that introduced the fault it was sent to fix.
+**A count is only correct against the sentence it counts. Read the line the count belongs to, not the word the count is
+made of.**

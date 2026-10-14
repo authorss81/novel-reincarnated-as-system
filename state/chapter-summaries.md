@@ -1554,9 +1554,9 @@ Full record in `state/continuity.md` under *Volume 10 Batch 0004 — REVIEW REPA
 `Volume 10 Batch 0004 (ch 587–600)`. **This block is the compact single pass the close was asked for, plus the five
 corrections the close made to the prose, so that no later phase reads a stale summary above.**
 
-**Volume shape:** day 1,599 to day 1,830. **115,615 words of body prose on method B — every line not beginning `#`,
+**Volume shape:** day 1,599 to day 1,830. **115,619 words of body prose on method B — every line not beginning `#`,
 measured by `grep -v '^#' <file> | wc -w` over all sixty-two files — average 1,865 a chapter.** Per batch:
-**29,842 · 27,751 · 30,323 · 27,699.**
+**29,846 · 27,751 · 30,323 · 27,699.**
 
 ### The volume in one compact pass
 
@@ -1605,23 +1605,27 @@ thing left is a voice that has been counting with her for eight years. **She doe
    cross back*, which is the true state — she crossed to the far side at the fifth hour of the eleventh, was still on the
    far bank at the second hour before the four crossed at the fourth hour of the twelfth, and did not get up off it until
    the sixth hour of the fourteenth. **ch 592 is 2,097 words, not 2,126.**
-2. **Six distances.** ch 541 now reads *thirteen miles of made road between that turn and the wall* · ch 554 reads *nine
-   miles of strip road and eleven of made road and two of the last of it* · ch 582 reads *nine of strip and eleven of made*
-   · ch 592 reads *eleven miles of made road and a gate and a wall* · ch 595 reads *walked eleven miles of made road* ·
-   ch 597 reads *thirteen miles across open country*. **Every one now agrees with the volume's spine of 9 · 11 · 2 =
-   twenty-two.** Batch 0001's own note about a distance correction made at ch 547–554 stands and now has ch 554 to agree
-   with it.
+2. **Six distances.** ch 541 reads *eleven miles of made road between that turn and the wall* · ch 554 reads *nine miles of
+   strip road and eleven of made road and two of the last of it* · ch 582 reads *nine of strip and eleven of made* · ch 592
+   reads *eleven miles of made road and a gate and a wall* · ch 595 reads *walked eleven miles of made road* · ch 597 reads
+   *thirteen miles across open country*. **Every one agrees with the volume's spine of 9 · 11 · 2 = twenty-two.** Batch
+   0001's own note about a distance correction made at ch 547–554 stands and now has ch 554 to agree with it.
+   **THE CLOSE REVIEW REVERSED ONE OF THESE.** The close had changed ch 541 to *thirteen miles of made road*, which made
+   9 + 13 = 22 but contradicted the spine the rest of the volume keeps, and turned two miles of flat ground into made
+   road. **ch 541 is restored to *eleven* with *the last two miles of flat ground* named**, which is ch 558's own wording.
 3. **The narrator's counts of three structural mouths.** The woman of sixty at ch 561 is **ten** sentences, not six, and
    the restatement at ch 569 is **ten** too. The boy of eleven at ch 577 is **eight**, not five, and so are the restatements
    at ch 577 and ch 585. The woman of fifty at ch 581 is **eight**, not six. **No mouth's words were touched.**
 4. **The five mouths, measured.** **ch 544 = 7 sentences in 3 speeches** (holds, and its own *"Seven sentences and that is
-   all of it"* is true) · **ch 561 = 10 in 5** · **ch 577 = 8 in 5** · **ch 581 = 8 in 6** · **ch 593 = 8 in 5, plus 4 more
-   in the *Why He Said It To Her* run.** **Four of five overrun the outline's three-to-seven range and stand, because the
+   all of it"* is true) · **ch 561 = 10 in 5** · **ch 577 = 8 in 5** · **ch 581 = 8 in 6** · **ch 593 = 8 in 5, plus 5 more
+   in 2 in the *Why He Said It To Her* run** — the close published 4 there and the review measured 5 off the page, and
+   **the boy's lead-in line at ch 577 also said *five things* above eight spoken sentences and is now *eight sentences*.**
+   **Four of five overrun the outline's three-to-seven range and stand, because the
    outline says an overrun is recorded and not fixed.** **Batch 0004's record of a sixth mouth at ch 594 does not exist —
    ch 594 has no mouth in it.**
 5. **Batch 0004's published per-batch total of 27,733, then 27,728, is superseded by 27,699** after the ch 592, 595 and
    597 repairs. **And the volume figure of 115,638 that all four batches measured is the pre-repair page. Volume 10 is
-   115,615.**
+   115,619.**
 
 ### Two things the close found that the summaries above do not carry
 

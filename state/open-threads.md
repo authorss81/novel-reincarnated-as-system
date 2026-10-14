@@ -2176,8 +2176,8 @@ files and changed four figures this section carried.**
 
 ### CLOSED by this batch
 
-1. **Whether a name said at a wall can be taken back.** OPEN from ch 566 and from the boy of eleven's five sentences at
-   ch 577. **CLOSED at ch 585.** She said **Ning Wu** out loud at the seventh hour of the twenty-fifth of the month
+1. **Whether a name said at a wall can be taken back.** OPEN from ch 566 and from the boy of eleven's sentences at
+   ch 577 — **eight of them, in five speeches, which is the count the Volume 10 close established from the page.** **CLOSED at ch 585.** She said **Ning Wu** out loud at the seventh hour of the twenty-fifth of the month
    beginning 1,724, in daylight, four feet into an opening, on her own side, with a boy of fifteen four feet off and a
    carter four hundred yards east. **He did not write it.** It cannot be un-said. **Eight years of one thing kept shut
    on purpose ended with nothing bought.**
@@ -2395,9 +2395,10 @@ irreversible decision moved.** Full record in `state/continuity.md` under *Volum
 
 ## VOLUME 10 CLOSED — what Volume 11 inherits, and what the close confirmed is still open
 
-**`chapters/volume-10/` is CLOSED AND AUDITED: ch 539–600, sixty-two chapters, 115,615 words of body prose on method B
+**`chapters/volume-10/` is CLOSED AND AUDITED: ch 539–600, sixty-two chapters, 115,619 words of body prose on method B
 (every line not beginning `#`), day 1,599 to day 1,830.** Audit: `state/continuity.md` under ***VOLUME 10 CLOSE — The List,
-ch 539–600 — the volume as a whole***. Live position: `state/current.md` under ***Who is where at end of Volume 10***.
+ch 539–600 — the volume as a whole***; its review under ***Volume 10 close review — REPAIR***. Live position:
+`state/current.md` under ***Who is where at end of Volume 10***.
 
 ### CLOSED, and confirmed closed by the close
 
@@ -2411,7 +2412,10 @@ ch 539–600 — the volume as a whole***. Live position: `state/current.md` und
    carried as a fixed date and **never extended, renamed or moved, and never re-derived in ch 572–600.**
 4. **The sixth frame scene, ch 584**, the only marked present-frame scene in the volume, and the only place outside it
    where Yuan is narrated in the present tense. **He speaks in one sentence in sixty-two chapters, at ch 596.**
-5. **The three structural mouths that hold and the two that do not** — see OPEN item 9.
+5. **The five structural mouths: one holds at the top of its range and four overrun** — ch 544 at 7 sentences in 3 speeches
+   holds, and its own *"Seven sentences and that is all of it"* is true; ch 561 at 10 in 5, ch 577 at 8 in 5, ch 581 at 8 in 6,
+   and ch 593 at 8 in 5 plus 5 more in 2 do not. **This line previously said three hold and two do not, which contradicted
+   `state/continuity.md` in the same commit; corrected by the close review, and the counts it quotes are measured.**
 6. **The lever — asking twice.** Rubbed out in the dust at ch 594 on the eighteenth of the month beginning 1,784 and not
    written again, after a hundred and forty-eight days of carrying it. **Not pulled anywhere in Volume 10.**
 7. **The two prior reviews' closed constructions, confirmed from the files and not from the batches' word.**
@@ -2492,10 +2496,10 @@ ch 539–600 — the volume as a whole***. Live position: `state/current.md` und
     thanked* and *No card writes a scene in which he is thanked.* **The page and the outline disagree, the page is
     internally consistent, and the close did not reconcile them.**
 27. **Four of the five structural mouths overrun their three-to-seven range**: ch 561 at **10** sentences in 5 speeches,
-    ch 577 at **8** in 5, ch 581 at **8** in 6, ch 593 at **8** in 5 plus 4 more in the *Why He Said It To Her* run.
+    ch 577 at **8** in 5, ch 581 at **8** in 6, ch 593 at **8** in 5 plus **5** more in 2 in the *Why He Said It To Her* run.
     ch 544 holds at **7** in 3 and its own *"Seven sentences and that is all of it"* is true. **The close corrected the
     narrator's counts to the truth and touched no mouth's words.**
-28. **`nobody` is 137 (average 2.21) against a target under 2.0, and bare `eleven` is 214 against a target under 200.** Both
+28. **`nobody` is 137 (average 2.21) against a target under 2.0, and bare `eleven` is 215 against a target under 200.** Both
     were spent in Batch 0001 and no later batch put them back. `whole of` is **80**, exactly on its line. `about` is
     **396**, average 6.39, under its line. `nothing` is **387**, average 6.24, **up about thirty per cent on Batch 0003**
     and handed on as an open craft line with nothing cut.
@@ -2505,16 +2509,23 @@ ch 539–600 — the volume as a whole***. Live position: `state/current.md` und
 
 ### What the close repaired, and what that changed
 
-**Fifteen sentences and two lines across ten files.** A drafter's scratch note — *She crossed back at the seventh hour on
+**Eighteen sentences and two lines across eleven files.** A drafter's scratch note — *She crossed back at the seventh hour on
 the seventeenth... no.* / *Let me fix: she crossed at the fifth hour of the sixteenth and stayed on the far side.* — was
 **printed as body prose at ch 592 and is removed**; it carried a three-way date contradiction against ch 592's own
 eleventh and twelfth and against ch 593. Six distances were put back onto the volume's own nine/eleven/two spine at ch
-541, 554, 582, 592, 595 and 597. Eight narrator's counts of a structural mouth were corrected at ch 561, 569, 577, 581
-and 585. **No day, stage, bracket, title, irreversible step, mouth's words, beat or planned event moved.**
+554, 582, 592, 595 and 597 — **and ch 541, which the close changed to *thirteen* and which the close review put back to
+*eleven*.** Eleven narrator's counts of a structural mouth were corrected at ch 561, 569, 577, 581 and 585.
+**No day, stage, bracket, title, irreversible step, mouth's words, beat or planned event moved.**
 
-**THE VOLUME'S WORD COUNT IS 115,615, NOT 115,638.** The pre-repair page measured 115,638 and that is the check figure;
-**115,638 must not be quoted as Volume 10's count.** Batches: **29,842 · 27,751 · 30,323 · 27,699.** Batches 0001 and
+**THE VOLUME'S WORD COUNT IS 115,619, NOT 115,638.** The pre-repair page measured 115,638 and that is the check figure;
+**115,638 must not be quoted as Volume 10's count.** Batches: **29,846 · 27,751 · 30,323 · 27,699.** Batches 0001 and
 0002's previously published totals of 29,678 and 27,575 **did not reproduce** under the settled method and are superseded.
+
+**THE CLOSE HAS NOW BEEN REVIEWED AND REPAIRED.** It returned six findings — an incomplete repair at ch 577, a ch 541 repair
+that introduced the fault it was sent to fix, a state-file contradiction over how many structural mouths hold, a false
+under-1,800 count, its own repair size published three different ways, and ch 593's structural answer published as 8 + 4
+where the page gives 8 + 5. **All six are closed, two chapter lines were changed, and no plot, no day, no mouth and no
+planned event moved.** Full record: `state/continuity.md` under ***Volume 10 close review — REPAIR***.
 
 **No repair prompt was created.** Every finding is either repaired on the page or recorded where Volume 11 planning reads
 it, and none is blocking. **No `.done` marker and no `workspace/volume-11-*` directory were written by this phase.**
