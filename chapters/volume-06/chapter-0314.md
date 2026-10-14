@@ -44,7 +44,7 @@ She stood in the road a long way off and counted them.
 
 ## The Board
 
-There was a board on the wall inside the gate, made of the same stuff as the keeper’s board at the post two miles behind her, and there was writing on it, and she stood in front of it and read it because it was at eye height and there was nothing a person can do about a thing that is put up at eye height.
+There was a board on the wall inside the gate, made of the same stuff as the keeper’s board at the post a mile and a half behind her, and there was writing on it, and she stood in front of it and read it because it was at eye height and there was nothing a person can do about a thing that is put up at eye height.
 
 It said, in the ordinary hand of a man who paints a board once and leaves it:
 

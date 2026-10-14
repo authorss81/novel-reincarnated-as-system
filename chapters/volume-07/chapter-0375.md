@@ -52,13 +52,13 @@ Paper on nine days of road comes out of one building only. It comes out of the c
 
 She had watched that cart go twice and had never once been on it.
 
-And a man who keeps a board at a post two miles up the mill road beyond the counting house, nine years on that board, cannot send a boy, because a boy costs a day and a half and there is one of him. He cannot keep a board for a month out of a memory either, because a board is a strip with days on it and a strip that is a day late is a strip that is wrong.
+And a man who keeps a board at a post a mile and a half up the mill road beyond the counting house, nine years on that board, cannot send a boy, because a boy costs a day and a half and there is one of him. He cannot keep a board for a month out of a memory either, because a board is a strip with days on it and a strip that is a day late is a strip that is wrong.
 
 So he fetches his strips.
 
 Not up at his post. At the counting house, on the first, with the cart, because that is the only morning in the month that anything comes down that road.
 
-And the counting house is about two miles short of his own ladder, and she has walked up that road four or five times a month since she came past this mill, and she has never once spoken to him in her life.
+And the counting house is about a mile and a half short of his own ladder, and she has walked up that road four or five times a month since she came past this mill, and she has never once spoken to him in her life.
 
 The first of a month was in fourteen days.
 

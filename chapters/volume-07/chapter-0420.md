@@ -132,7 +132,7 @@ Geng stood at her shoulder for four seconds and did not say anything, and then h
 
 He said one word.
 
-“All right.”
+“Right.”
 
 A man of about forty took a pencil off the bench and wrote a heading over the second column of the floor sheet and wrote the eighteenth of that month against the first column on the line she had stopped at, and Geng read it over his shoulder and said it out loud again, and the man wrote it again, because it is nineteen years of his life that a thing said once by the man who runs a floor is not a thing that is written.
 
@@ -160,7 +160,7 @@ The storekeeper had not asked her anything and had not given her a different pri
 
 ## What Was Still Open On The Twentieth
 
-There is a man eleven miles east of a cart track with a notebook shut under his arm who had wanted something from her since the spring before last and had never been refused it and never been given it, and the people who live on that line still did not know that she existed.
+There is a man on the made road east of the turn with a notebook shut under his arm who had wanted something from her since the spring before last and had never been refused it and never been given it, and the people who live on that line still did not know that she existed.
 
 There is a floor above the third floor and a floor above that and a room two miles up the mill road with a date in it that she has never seen shut.
 

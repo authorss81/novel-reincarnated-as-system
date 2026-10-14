@@ -94,11 +94,11 @@ She lay on the boards with her hands behind her head and her hands were cold and
 
 She lay there with that for about a minute.
 
-“And I have to work out the walking. It is nine miles each way to that post and the counting house is about two miles before it, and I have to be walking both ways inside a day, and I have one copper a day and a gate that goes at three and a half feet now, and I have got about a fifth of a sack of clay in a barrow and no wages and a board I cannot take a line off.”
+“And I have to work out the walking. It is nine miles each way to that post and the counting house is about a mile and a half before it, and I have to be walking both ways inside a day, and I have one copper a day and a gate that goes at three and a half feet now, and I have got about a fifth of a sack of clay in a barrow and no wages and a board I cannot take a line off.”
 
 She laid her palm on the flat stone by the door. It was cold. Her hand was cold. The two of them were the same temperature and it told her nothing, because there was nothing in there to tell her anything.
 
-What she was going to ask a man with a paste pot about two miles short of his own ladder, on a road she walked four or five times a month, was whether he would stand in a doorway for about as long as it takes to bring up a fire.
+What she was going to ask a man with a paste pot about a mile and a half short of his own ladder, on a road she walked four or five times a month, was whether he would stand in a doorway for about as long as it takes to bring up a fire.
 
 She had not said it to anybody. She was not going to say it to a man in a gateway about work and she was not going to say it to a man with a bench and she was not going to say it to the layer, which has never told her a thing and does not advise.
 

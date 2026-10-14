@@ -98,7 +98,7 @@ That was the whole of it. Nine days after he had asked a man with a rule in his 
 
 She picked the bucket up and carried it about eleven feet and put it down where the planks were, which is where he had put it, and went and stood at the low side for the rest of the morning.
 
-And that was the answer to the whole of it. There was no answer to the whole of it. There was a man of thirty who was right about a stone and right about a woman and had been given three words to say about her and had found a fourth thing to say instead, on his own, at four feet, on the thirteenth, at the seventh hour.
+And that was the answer to the whole of it. There was no answer to the whole of it. There was a man of thirty who was right about a stone and right about a woman and had been given three words to say about her and had found a fourth thing to say instead, on his own, at four feet, on the fifteenth, at the seventh hour.
 
 ## The Fourteenth And The Sixteenth
 

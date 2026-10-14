@@ -110,7 +110,7 @@ Then she said: “I am not going to talk you out of that and I am not going to t
 
 She is eighteen years old and there is one line on nine days of road that has a price on it and she has asked about it, and the price is four coppers, and she has eight.
 
-And there is no hand on nine days of road that can write a line and read it back to her. Not the man with the brush, who has told her so. Not the man behind the counter. Not the man with a rule in his hand four miles east. Not the man with the paste pot two miles up the mill road.
+And there is no hand on nine days of road that can write a line and read it back to her. Not the man with the brush, who has told her so. Not the man behind the counter. Not the man with a rule in his hand four miles east. Not the man with the paste pot a mile and a half up the mill road.
 
 She could have paid it. She worked that out standing at the edge of the table, and she could have put four coppers down at the end of that afternoon, and that is the part she is going to be carrying for a while, because for seven months the reason she could not have anything has been that she has nothing, and it turns out that on the one thing that has a price on it she has eight coppers and the price is four.
 

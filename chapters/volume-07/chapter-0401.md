@@ -84,11 +84,11 @@ He felt it leave her the other time and he took it out of her hands and out of a
 
 This is out of the ground under a pair of feet at the second hour on the nineteenth of a month, in a shed at a mill whose wheel has not turned since before either of them was born, and it goes out of the boards and not out of her.
 
-He does not take it out of her and he could not. There is nothing in him that reaches into a person directly and there has not been since he died, and what happened the one time was a man at a counter with his hand flat on the floor of a room that was hot.
+He does not take it out of her and he could not. There is nothing in him that reaches into a person directly and there has not been since he died, and the one time was the keeper with the paste pot on the first of a month, who put his left hand flat on the floor of a hot room to get himself down off a high stool and had a burn come up on it in front of her.
 
 He thinks about that for a minute and a half, on the floor of a room that is not a room.
 
-There was a fire there. Four days and two hours of it, gone out of the ground on the twenty-eighth of a month, and he felt that as a drain, the way a man feels a floor go cold under him, and he did not know where it had gone or whose it had been and he did not ask.
+There was a small fire in that room and it burned a man who will never know what put it there. Hers is the other one and hers is the bigger. Four days and two hours of it, gone out of the ground under her on the twenty-eighth of a month at a sill line at the south end of a yard, and he felt that as a drain, the way a man feels a floor go cold under him, and he did not know where it had gone or whose it had been and he did not ask.
 
 And he is going to take more of it tonight, and he is not going to be able to tell her, and she is going to find out about it on her own, the way she finds out about everything.
 

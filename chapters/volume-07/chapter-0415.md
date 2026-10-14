@@ -60,7 +60,7 @@ He picked the chalk up and turned it over.
 
 “If you can read me off a sheet of stone I will not have to write it twice and I will not have to send anybody down to check it, and that is the whole of what there is in it for anybody in this building.”
 
-## Mouth Six
+## The List He Is Still On
 
 He put the chalk down in the groove and squared the sheet and said what he said next in four sentences, and he said them the way he said the number on the stone, which is without weight.
 

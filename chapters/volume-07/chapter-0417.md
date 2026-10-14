@@ -132,7 +132,7 @@ Confirming is entering.
 
 A man reads a thing out loud in a room and a person says yes or no to it, and that is a person making a statement on the record about a thing they cannot check, in a hand they cannot read, from a room they cannot get into, and it goes up a road.
 
-She has been entered three times. As good, in a book nine days of road west she has never opened. For materials, on the twenty-sixth of a month twelve months back, to a man with a bench at a gate, in a materials account against the mill. And on the twenty-second of a month two months back, on a step, in daylight, in one word, to a question about whether she was at a gate.
+She has been entered three times. As good, in a book nine days of road west she has never opened. For materials, on the twenty-sixth of a month eleven months back, to a man with a bench at a gate, in a materials account against the mill. And on the twenty-second of a month two months back, on a step, in daylight, in one word, to a question about whether she was at a gate.
 
 And she was asked whether she would do it again and the answer she gave every time was no, and she had been carrying that no for seven months as the cleanest thing she had.
 

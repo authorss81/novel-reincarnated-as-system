@@ -54,9 +54,9 @@ The counter had her column. The copying floor had her column. The board at the w
 
 The yard had her arm. And a yard is where a body goes in an order, and that ground had no word in it at all for what her arm was worth, and it had not needed one.
 
-## Nine Feet Off The Cart Track
+## Nine Feet Off The Made Road
 
-She was on the cart track two hundred yards west of the works at the seventh hour on the twenty-second with the strip in her coat and nothing else in her hands, and he was at nine feet off it with the notebook shut under his arm and no other paper of any kind, and he had been in the same place every day for six months.
+She was on the made road east of the turn at the seventh hour on the twenty-second with the strip in her coat and nothing else in her hands, and he was at nine feet off it with the notebook shut under his arm and no other paper of any kind, and he had been in the same place every day for six months.
 
 The grass either side of him was worn down in two places the length of a boot, which meant he stood in those two spots and had for six months, and there was nothing else in that grass worn at all.
 
@@ -70,9 +70,9 @@ She stopped at eleven feet.
 
 “What is a room on this ground for.”
 
-She said it in the ordinary voice, in daylight, on a made cart track with the works three hundred yards behind her and nothing in the world in front of her but nine feet of dry grass and a man who had been standing in it for six months.
+She said it in the ordinary voice, in daylight, on the made road east of the turn with the yard at the turn four hundred yards behind her and nothing in the world in front of her but nine feet of dry grass and a man who had been standing in it for six months.
 
-It was a question with no office in it and no date on it and no book fastened to it, which was why she had walked two hundred yards up a made road to put it to a man standing in grass rather than take it to a counter.
+It was a question with no office in it and no date on it and no book fastened to it, which was why she had walked four miles up a made road to put it to a man standing in grass rather than take it to a counter.
 
 He did not take the notebook out from under his arm.
 
@@ -98,13 +98,13 @@ She had been the room. That was what she had been refusing and she had not known
 
 ## What He Said After
 
-He turned and started walking the nine feet back to his own side of the track and then stopped, because she had not moved and he was not going to be the one to come inside nine feet.
+He turned and started walking the nine feet back to his own side of the road and then stopped, because she had not moved and he was not going to be the one to come inside nine feet.
 
 “I am still here,” he said, “and I am still buying nothing, and I am not going to tell you why, and you are not going to ask me.”
 
 She had not been going to.
 
-She stood there in the dry grass and let that be the end of it, and then she said thank you, which was a thing she had said to him once in six months, and she walked the two hundred yards back to the gate and opened a fifth of a reach and got one copper out of the fold in the inside of the door frame.
+She stood there in the dry grass and let that be the end of it, and then she said thank you, which was a thing she had said to him once in six months, and she walked the four miles back to the gate and opened a fifth of a reach and got one copper out of the fold in the inside of the door frame.
 
 ## What She Took East
 

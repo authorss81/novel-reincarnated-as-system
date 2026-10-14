@@ -114,7 +114,7 @@ The strip went back up the mill road on the nineteenth with the ordinary post do
 
 The yard book came back down inside the tray on the ninth of the next month. The man with the rule in his hand would read it at his office end and it would be his problem and he would be right about it and he would not have a term for it.
 
-That was a week away and it was the nineteenth.
+That was twenty days away and it was the nineteenth.
 
 She got a copper and filled in the four feet at the near end and did three and a half the rest of it and came out at the eleventh hour with five coppers in the fold and bread for four days.
 

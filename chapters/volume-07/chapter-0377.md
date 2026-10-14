@@ -104,6 +104,6 @@ She put her palm flat on the flat stone by the door. It was cold and her hand wa
 
 Then she took the flat of her second finger and put it on the boards and wrote out the month in front of her, the way she had been writing months out on those boards since she was eleven.
 
-Seven coppers in a week. Eight out. And on the first of a month there is a cart at the sixth hour with a cord round a tray on it, and a man who keeps a board at a post two miles up that road will be standing at the counter with his paste pot and his rag, waiting for a bundle.
+Seven coppers in a week. Eight out. And on the first of a month there is a cart at the sixth hour with a cord round a tray on it, and a man who keeps a board at a post a mile and a half up that road will be standing at the counter with his paste pot and his rag, waiting for a bundle.
 
 Five days.

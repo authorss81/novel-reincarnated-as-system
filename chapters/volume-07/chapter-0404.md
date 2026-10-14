@@ -114,7 +114,7 @@ Four coppers in the fold in the inside of the door frame. Bread for three days. 
 
 ## What Was Still Open On The First Of A Month
 
-There was a man eleven miles east of a cart track with a notebook shut under his arm who had wanted something from her since the spring before last and had never been refused it and never been given it, and he was still on that side of the post for the rest of the run, and the people who live on that line still did not know that she existed.
+There was a man on the made road east of the turn with a notebook shut under his arm who had wanted something from her since the spring before last and had never been refused it and never been given it, and he was still on that side of the post for the rest of the run, and the people who live on that line still did not know that she existed.
 
 There was a floor above the third floor and a floor above the counting house and a room two miles up the mill road with a date in it that she had never seen shut, and she had gone up nine steps with a turn in the landing four times a month for seven weeks and had not climbed a single one of those stairs.
 

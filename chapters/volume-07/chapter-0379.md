@@ -4,7 +4,7 @@ The second of a month, at about the seventh hour, which is the hour she has gone
 
 She had been to the counting house forty times in seven months and had never once gone past it, because there is nothing past it.
 
-Past the counting house the made road goes on two miles between a field on one side and a hedge on the other, and stops at a post with a board on it. She has not needed anything at that post since the twenty-fifth of a month four months back, when she left a book of hers on a stone under a ladder and walked away from it.
+Past the counting house the made road goes on a mile and a half between a field on one side and a hedge on the other, and stops at a post with a board on it. She has not needed anything at that post since the twenty-fifth of a month four months back, when she left a book of hers on a stone under a ladder and walked away from it.
 
 She went past it on the second of a month at the eighth hour.
 

@@ -24,7 +24,7 @@ He was at the counter with his back to her and a bundle on the floor at his feet
 
 She had never spoken to him. She had stood in his doorway once, a long time back, and left a book of hers on a stone under his ladder and walked away from it.
 
-She knew the rest of him the way she knew the rest of the ground. He kept a board at a post two miles up the mill road beyond this house and had kept it for nine years. He fetched his strips here on the first because that is the only morning in the month anything comes down this road. He had a woman at the post and a boy of about twelve and he was not paid by anybody at this counter.
+She knew the rest of him the way she knew the rest of the ground. He kept a board at a post a mile and a half up the mill road beyond this house and had kept it for nine years. He fetched his strips here on the first because that is the only morning in the month anything comes down this road. He had a woman at the post and a boy of about twelve and he was not paid by anybody at this counter.
 
 She stood four feet off him and said nothing.
 
@@ -78,7 +78,7 @@ He looked at her arm.
 
 Not her face. Her arm, the right one, and the four fingers and a thumb on it, and the way it was hanging, and he looked at it for two seconds the way a man looks at a thing he is working out where it goes in an order.
 
-Then he said, “I have got to get that bundle two miles up the road and I have not got a hand that closes.”
+Then he said, “I have got to get that bundle a mile and a half up the road and I have not got a hand that closes.”
 
 That was the whole of what he said about it. There was no question after it and he did not say her name and she did not give it, and he had said yes back at her inside four seconds and had got on with it, which is what a man does when he has been hurt in front of strangers and has a road in front of him.
 
@@ -86,7 +86,7 @@ The bundle was a roll of strips about the size of a barrow wheel. She had watche
 
 ## The Mile And A Half Up The Road
 
-She carried it two miles.
+She carried it a mile and a half.
 
 Two hands is the only way to carry a roll like that and she had four fingers and a thumb and an arm that was open for half of the walk, and she had it on her hip with the arm under it for half a mile and then she had it against her chest with the other hand on the top of it, and she did not put it down once, and it took her fifty minutes.
 
