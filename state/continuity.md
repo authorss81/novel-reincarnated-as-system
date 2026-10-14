@@ -5108,3 +5108,340 @@ zero · no named weekday, month or week · **one bracketed layer line, at ch 321
 Yuan's sentences, one utterance each at ch 316, 320, 326 and 329, every one present tense · no office named and
 nothing above the copying floor entered · the surface answer not re-voiced · the year of non-forgiveness not
 mentioned · Bai Zhu and Wei Ran off the page · no harem and no romance.
+
+---
+
+## Established facts, Volume 6 Batch 0003 (ch 330–345) — SENDING AND BEING SENT FOR
+
+**Sixteen chapters, 25,000 words of body prose, average ~1,562, day 701 to day 735 walked, plus ch 342 at the
+pinned day 749 and ch 343–345 undated after it. TWO bracketed layer lines, at ch 332 and at ch 342 — brackets 3
+and 4 of Volume 6's six. Chapter titles and section headings excluded. Drafted against `outline/volume-06.md` and
+against `workspace/volume-06-batch-0003/PROMPT.md`, which is this batch's card. Every pinned item in it is on the
+page. There is no card file for this batch and this section is its record.**
+
+Per file, body prose: 330 1,378 · 331 1,315 · 332 1,328 · 333 1,398 · 334 1,364 · 335 1,422 · 336 1,384 ·
+337 1,710 · 338 2,970 · 339 1,424 · 340 1,377 · 341 1,356 · 342 1,336 · 343 1,675 · 344 1,777 · 345 1,786.
+
+### The batch in one sentence
+
+Her column got read against a second book by a man with a brush, a paper came down a road with two columns on it
+and a holding under her days, she spent the last of what he had that an office could not write so that a fire in
+a shed would hold without her, took two more stages, and found out at the end of it that a book on that ground
+had stopped shutting clean because she had cleared some work.
+
+### The clock and the day table — and the one place this batch reaches past its own week
+
+Months are thirty days and month-day is `((day − 134) mod 30) + 1`. Day 700 was the twenty-seventh. **The month
+this batch opens in began on day 674 and the next began on day 704 and the one after that on day 734.**
+
+| Ch | Day / days on the page | Month-day | Title |
+| --- | --- | --- | --- |
+| 330 | 701–702 | the 28th, 29th | The Name Against Material |
+| 331 | 703–704 | the 30th, the 1st | The Column In Two Hands |
+| 332 | 705–712 | the 2nd–9th | **GOLDEN CORE 6** — Eight Holds (stage on the 9th) |
+| 333 | 713–714 | the 10th, 11th | The Clearing She Bought |
+| 334 | 715–717 | the 12th–14th | The Cart Comes Back |
+| 335 | 718–719 | the 15th, 16th | He Does Not Want It Answered |
+| 336 | 720–722 | the 17th–19th | A Strip With Two Columns |
+| 337 | 723–725 | the 20th–22nd | What The Paper Asks |
+| 338 | 726–728 | the 23rd–25th | **THE ROOM WITH DOORS** — Yuan addressed as a holder |
+| 339 | 729–731 | the 26th–28th | The Fire Without Her |
+| 340 | 732–733 | the 29th, 30th | The Book On The Thirtieth |
+| 341 | 734–735, then fourteen days carried as elapsed | the 1st, 2nd, then to the 15th | Four Counts And A Load |
+| 342 | **749 (pinned)** | the 16th | **GOLDEN CORE 7** — Five Counts |
+| 343 | undated, after 749 | — | Five And Not Four |
+| 344 | undated; a thirtieth after 749 | — | **THE BREAK** — The Board Is For That |
+| 345 | undated; the tenth day after that | — | It Does Not Close Clean |
+
+- **Day 712 verified** as the ninth of a month: `((712 − 134) mod 30) + 1 = 9`. **Day 749 verified** as the
+  sixteenth: `((749 − 134) mod 30) + 1 = 16`. Both match the pinned prompt.
+- **The prompt's own rule applied and recorded:** no chapter may reach past day 735 except the GC7 card. Days
+  736–748 are **carried as elapsed, not walked** — ch 341's last section is *The Fourteen Days* and says so in
+  one sentence. **Ch 343, 344 and 345 carry no date on the page at all** and follow ch 342; they fall after
+  day 749 in run-clock terms. **Batch 0004 does not in fact open at day 736.** The page wins; the Batch 0004
+  prompt says so at its head.
+- **No named weekday, no named calendar month, no named week.** *Nine or ten days*, *about a month*, *eleven
+  minutes a piece*, *three weeks*, *fourteen days* are ordinary relative stretches.
+- **No pay-cycle.** Nothing falls on a date on that ground and no card revived one.
+
+### New machinery, established once and used after
+
+- **The name column on the works' board (ch 330).** Since the twenty-sixth the listing man cannot write a line
+  that leaves the yard against nothing; there is a ruled space about two fingers wide at the left of the board
+  and every line runs into it. **A materials account is paid to a place, not to a person**, and she gives the
+  mill. He tells her, unprompted, that the mill has a book that shuts on the thirtieth and goes up the mill road
+  to the counting house. **Nothing else about the mill's book is known at ch 330 and nothing else is said.**
+- **The cross-reference (ch 331).** On the copying floor, a man with a brush: **every month he copies her column
+  out against another book by hand, because the two of them were put across from each other on the twenty-third
+  of a month back.** She asks what a cross-reference is for and is told, in one sentence: *so that a thing about
+  you is also a thing about what you have done.* **She cannot see either book and neither book can see the other.**
+- **The two books' different ends (ch 340).** A day ends, so the counter's book shuts on the thirtieth. **Material
+  does not end**, so the second office's book has been open since before the man behind the counter came there and
+  will be open when he is gone. **Everything the second office holds about her is copied across into the one that
+  shuts, by hand, at the end of every month.** This is the machine the break at ch 344 turns on and it is
+  established here, in the correct mouth, before it is used.
+- **The sending (ch 336), written in this batch and not refused in it.** A strip about as wide as a hand comes down
+  off the bundle at the works on the seventeenth of a month. **Two columns.** The left is five months of her days
+  in the counter's hand, with *good* above the hours, and **two ruled lines under it that have nothing at the
+  other end of the rule** — a materials account against the mill, and below it the holder line, in a fine hand.
+  The right column runs the length of the strip: a mark that is not a name, four figures, the word HELD, a rule,
+  and **two words under the rule in the same fine hand that she cannot read at all — the room.** Four lines at the
+  foot, verbatim:
+
+  WHAT IS COPIED AT THIS REACH IS COPIED TWICE.
+  THE COLUMN OF NING YAN, OF LOWWATER, IS KEPT AND IS COPIED AND IS NOT ON THIS GROUND.
+  THE HOLDER IS TO BE PRESENTED IN PERSON IN THE ROOM NAMED UNDER THE HOLDER.
+  THE DOORS OF THAT ROOM SHUT ON THE TWENTY-EIGHTH OF A MONTH.
+
+  **The room is not named on the strip. The room is on the copy, and the copy is above the counter. Nothing above
+  the copying floor is entered, described or named anywhere in this batch.** The doors line is a standing fact
+  about a room, not a deadline on her, and the request is **open and unanswered at the last page of this batch.**
+- **The four words that came back (ch 344), verbatim:** *It goes as it is.*
+
+### The irreversible steps, three, and none of them is deferred into Batch 0004
+
+1. **Ch 336.** The readable line has been looked at and a sending has been written against her, with her column
+   on it and his holding under it. **She cannot be un-read and the paper cannot go back down the road.**
+2. **Ch 337–338.** Yuan is addressed as a holder. **At the price named in advance on the page before it was paid:
+   his unnamed state, and with it the ability ever again to be nowhere an office can address.** The Hand is
+   spent out of her foundation, told before spent, and it does not come back.
+3. **Ch 344.** **The box circuit is broken.** Not by a person refusing and not by a person breaking anything. A
+   book will not close clean because two lines in it have no end on them, a strip of cloth with four words on it
+   comes back down the stair, and a keeper pastes the strip in anyway because that is what the board is for.
+
+### Golden Core 6 — ch 332, day 712, the ninth of a month
+
+Taken standing, in the open, out past the last hedge about a mile and a quarter east of the mill, with the bar
+laid down on the grass and nothing within about half a mile. **Thirty-eight days after Golden Core 5 at day 674.**
+Licensed by no county paper of any kind.
+
+[Ning Yan, past the line, servant-born, under no ceiling any county holds. Golden Core, stage six, is held.]
+
+**Cost, named once, permanent: one hold out of the eleven goes — nine to eight.** Told before spent, in the
+ordinary voice, at the top of the low drain on the far side of the elms on the seventh of a month, and spent into
+the listed clearing she cleared by hand past the last working point — a head at the low drain, two days and one
+box, cleared in two days. **A hold is not a finger and it is not the arm. It is the difference between a hand
+closing on a thing and a hand closing on nothing while the weight of it goes somewhere else.** Eight do not come
+back.
+
+### Golden Core 7 — ch 342, day 749, the sixteenth of a month
+
+Taken standing, in the open, on the same ground past the last hedge, at about the fourth hour. **Thirty-seven days
+after Golden Core 6. Thirty days of the interval were spent behind ch 341's fourteen-day section and the stage
+day itself was pinned thirty-seven days back from day 712.**
+
+[Ning Yan, past the line, servant-born, under no ceiling any county holds. Golden Core, stage seven, is held.]
+
+**Cost, named once, permanent: the short breath goes past four counts where work is heaviest — five counts on a
+loaded reach — and never comes back to four there.** Four everywhere else, always. On a bank of four feet at the
+second gully, at the third count, going up with four dressed pieces under one arm and the bar in her left hand,
+it is five. **Put the load down and it is four.** The place where it goes to five did not move across eleven
+climbs in an hour and it will not move again.
+
+**And the money moves with it, on the page, the same evening.** A drain at four feet deep is a loaded reach.
+Half a reach was two and a half coppers; **a third of a reach is one and a half**, taken out of the fold in the
+inside of the door frame at Pei’s gate on the eighteenth of a month. The gate has never once in five months not
+been exactly her.
+
+### The Hand, spent a second time, at ch 338
+
+- **Told before spent, in her own words and then his, at the second hour of the twenty-second of a month in the
+  shed at the mill**, on the floor, with a piece of cloth folded in three under her hand. That is the arrangement
+  and it has never once been broken in four years.
+- **What he wants, in his own words:** the fire to hold without her, so that she never has to be at a shed at the
+  fourth hour again. **He says on the page that this is the only thing he has ever wanted that was for her and
+  not for himself.** It is the first such want in four years.
+- **Out of her foundation**, not her hand and not a book. What leaves her is *the thing under her base* — the
+  part of a body that keeps a fire lit in a room she has to walk to. He is not there and has not been; the reach
+  is hers and she gives it.
+- **What it costs him, named on the page before it is paid:** the unnamed state. Nine days of standing behind the
+  last thing in him that an office cannot write on, given up so that a holding can have a name on it. **After it
+  he is not nowhere.** A holding has to be held by name, and a name is a word an office can put on a strip and
+  carry up a road, and there is no such thing as a road that does not go where that word goes.
+- **It is not a re-run of ch 272 and the two chapters do not share a setting, a cost, a want or a verb.** Ch 272
+  is a field of lines with a keeper's paste pot; ch 338 is **a room, with a floor, a table, a chair pushed back
+  at an angle, two shut doors and one with a handle on it**, and a hand with a brush that is slow and is making a
+  thing that will afterwards be correct. Ch 272 cost the unentered state and the date of the morning he died.
+  Ch 338 costs the unnamed state. **The date of the morning he died is not given back and ch 272's finding is
+  not softened — he reaches for the morning once, it is not there, and he does not look again.**
+- **The frame.** Ch 338 is the sustained scene in which he is on the page in his own right, away from her hearing,
+  and **the six-sentence ration does not apply to it**. It has **six utterances, every sentence in the present
+  tense**. It follows ch 272's own handling of a frame in which the room is described in the present, which is
+  the precedent the volume outline set for this scene.
+- **Yuan outside ch 338: one utterance in sixteen chapters, at ch 337.** Nothing at ch 330–336, 339–345.
+- **Nothing in Volume 6 kills anybody for it.**
+
+### Merit
+
+**Does not settle in this batch.** Two settlements were Batch 0002's and Batch 0004's halves. `tribulation`
+returns **zero** across ch 330–345, nothing is cleared and nothing is killed, and **no figure of what is left of
+him is on any page.** The cold has not come up through the base since the twenty-fourth of the last month and
+ch 333 says so once, plainly, and does not make a mystery of it.
+
+### The Hunter — on the page, ch 335 only
+
+**Bai Zhu, at nine feet off a cart track on the fifteenth of a month at about the fourth hour, notebook shut under
+his arm, no other paper of any kind.** He attends, certifies, writes four lines a day and **buys nothing**. He
+does not ask her a question and has never asked her one. He says one true thing about the shape of the new paper
+— *a column and a holding under it; the last shape was a line and a line is a thing that gets found, this has a
+holding under it* — and then, once, in the ordinary voice, without weight and without a threat:
+
+**I do not want it answered either.**
+
+He explains it in one sentence — an answered thing goes up and somebody above him has to reckon with the answer and
+he has never believed the reckoning would be the right one — and does not say it again. **He also says his paper
+has been in with the district for two years and a writ is not issued to a field agent, and that he is still here
+and will not come inside nine feet again unless she puts him there. His request is still pending. The line's own
+people still do not know she exists.** He says *your brother is on it* once, flatly, and nothing else about it.
+
+### The structural answer — begun at ch 331–345, in four mouths, in short sentences, never as one speech
+
+**The line past the last working point is walked, kept, copied and vouched by offices that never needed a bound —
+kept up by hand, by people paid by the day and by the clearing, with families on it.** The tenth part is **not**
+given, nothing proves the crews wrong, and no card claims otherwise.
+
+- **Ch 331, the man with the brush:** *there is a line out west and it is kept and there are men on it and they
+  are paid by the day and their families are on it and nobody east of here has ever needed one thing out of it,
+  including me, and I have been copying books for eleven years.*
+- **Ch 335, Bai Zhu:** *it is kept. It has been kept for longer than I have been alive and it is kept by men, not
+  by an office. Nobody out here has ever needed one thing out of that.* And then, flatly: *I cannot tell you why
+  it is there. I have not been told why it is there. I have met four men in nineteen years who worked it and not
+  one of them could tell me what was at the other side of it.*
+- **Ch 337, the listing man:** *there is a road west of this gate about nine miles and there is a line on it. Men
+  go out on it and come back. They are paid by the day. I had an uncle on it.* Then: *I have never needed one
+  thing out of it. Nobody on this ground has.* And: *and now there is.*
+- **Ch 345, the keeper of the board:** *that is not because anybody is hiding anything. That is because there has
+  never been anything on one that needed answering.* Nine years, about three hundred strips, about four hundred
+  books up the road and never one back down.
+
+### What is broken, and how
+
+**The closed-season box circuit, and nothing else was touched.**
+
+A book that shuts on the thirtieth has a beginning and an end on everything in it. Two lines under her column —
+**a materials account against the mill, and a holding with nothing at the other end of the rule** — have no end,
+so the book does not shut. **The man with the brush cannot take them out** (a man who copies does not decide what
+is in a book, and taking them out would be a false book), **cannot rule across them**, writes the day in the
+margin against both, says *I am going to have to ask*, goes up the stair, and gets four words back on a strip in
+about four hours: **It goes as it is.**
+
+The tray is corded with a page fanned open in it and goes up the mill road on the first cart at about the sixth
+hour. **A strip comes off it.** The cart stops at the post and the keeper — about fifty-five, nine years on that
+board — reads it, works the paste round the pot with the toe of his boot, presses it down with the flat of his
+hand, and pastes it in, **because that is what the board is for.**
+
+**From that hour no book on that reach holds only hours and no tray on that reach closes clean** — and the rule
+that has run for nine years, *nothing comes back down*, is broken too, because an open line has to be answered by
+somebody. **At ch 345 a strip comes down that road that is a question and not a reading.** It is the first thing
+in nine years to come down it. It goes back up on the next bundle. **She can read her own name on it and cannot
+read the fine hand, and the fine hand has to be read in a building nine days of road east of that post.**
+
+### Untouched, unraised, and still true at ch 345
+
+The register still reads *reconciled* — `reconciled` returns **zero** across ch 330–345, because no card read it
+and the allowance was zero · the Clay Plate worn against her ribs and **not described** (`plate` returns zero) ·
+the relicensed licence **never opened** (`licence` and `license` both return zero) · MEMBER ABSENT carried and
+never raised · **the year of non-forgiveness carrying and not mentioned once in these sixteen chapters** ·
+Shen Xiu unforgiven · *kiln-born* zero on the page and still in two heads · what became of the eleven not raised
+· **no office named at all, and nothing above the copying floor entered, described or named** · the surface answer
+not re-voiced · the seventh condition never listed, counted or referred to · the four months erased in Chapter 3
+carried and never named · the claim not reopened · Hou Sanliang paid, never met, not on the page · Luo Ping never
+met · Ning Wu does not appear · **Wei Ran does not appear in this batch** · no harem and nothing a romance ·
+she never says her mother's name · no new enemy and no named villain · the Ledger never ordered, held, priced,
+refused or thought about (`Ledger` returns **zero** across the batch) · **Feng does not appear and no second Lung
+and no second appointment** · the fourth erased months carried in the body.
+
+### Live at the end of this batch, going into Batch 0004
+
+- **She is in three books she cannot see.** A running column one flight above a counter; a materials account in a
+  second office nine miles east; **and now both of them read together, by hand, once a month, by a man with a
+  brush, against each other.**
+- **A sending is written and is unanswered.** She is carrying it folded in three against her ribs. **The holder
+  under her column is to be presented in person in a room that is not named on the strip** and she is the only
+  person on nine days of road who can carry it there. The request is standing. **It is not refused and no card in
+  this batch may refuse it — ch 358 is Batch 0004's.**
+- **He is addressed as a holder and is therefore sendable**, at a price he named himself in advance, and the two
+  ch 272 losses are still both gone.
+- **Her furnace holds without her** and she has not walked to the mill at night in four days and is not going to.
+- **The circuit is broken** and a question is on the board, and the fine hand has to be read by somebody who has
+  never been able to read it.
+- **Her body is smaller than it was at the ninth of a month.** Eight holds of eleven. Five counts of breath on a
+  loaded reach and never four there. A third of a reach at a gate and one and a half coppers a day. **Four listed
+  things cleared in seven weeks, four lines left on the board, and five more coming down over two months.**
+- **The Hunter's request is pending. The line's own people still do not know she exists. Nothing above the
+  copying floor has been entered. The register still reads *reconciled* and nothing has read it in a month.**
+
+---
+
+## Volume 6 running ledger — at end of ch 345
+
+| Item | Value at end of ch 345 |
+| --- | --- |
+| Her stage | **GOLDEN CORE 7, day 749, the sixteenth of a month**, at her own order, standing, in the open, a mile and a quarter east of the mill, where nothing is announced. Bracket 4 of Volume 6's six. **Cost: five counts of breath on a loaded reach and never four there again.** Paper still Foundation the first stage, never opened |
+| Body | Short breath **four everywhere except a loaded reach, where it is five, permanently**; right index gone, four fingers' grip; right arm open half, permanent, since ch 288; aperture cracked permanent; **eight of eleven holds**, down from nine at the ninth of a month; turn gone; middle-bank method; not hungry; hands warm; **eighteen** |
+| Employment | **NOTHING.** No wages, no season, no booking, no stub. A gate at five coppers a reach, **a third of a reach, one and a half a day** — was two and a half. Plus listed work off a board at the works, paid in what the job was made of. Plus **a materials account in a second office, entered at the eighth hour of the twenty-sixth of a month, copied against her column once a month by hand, and now copied into the book that shuts** |
+| The furnace | **Lit and holding without her since the second hour of the twenty-second of a month**, in a shed at the mill, out of what she has been buying with the hand of her own that is left. It answers nothing and has not since the twenty-fourth of the last month. The ground under it gives nothing back and never has and she has never said so out loud |
+| Circuit | **BROKEN, at ch 344.** A book on that reach no longer shuts clean because two lines in it have no end on them. A tray went up on the first cart with a page fanned open in it. A strip came off it and a keeper pasted it in because that is what the board is for. **A question came back down the mill road on the tenth day, the first thing in nine years to come down it** |
+| The reading | **Three books, none of them hers to see, two of them read against each other by hand every month**, and a sending written against her column with his holding under it and the room not named on the strip |
+| Settlement | **Merit zero in this batch.** Nothing killed, nothing measured, no figure of him on any page. Ledger never ordered, held, priced or refused. **Hand spent twice in Volume 6 — at ch 325 and at ch 338 — and refused none yet; ch 355 is Batch 0004's.** Yuan: **one utterance in sixteen chapters outside ch 338, and six in ch 338**, all present tense; readable, and now **addressed, and therefore sendable**; the two ch 272 losses still gone |
+| Claim | **ANSWERED** (ch 294–295) and not reopened. Hou Sanliang paid, never met, not on the page |
+| Family | Ning Bo's account discharged at ch 296; Ning Wu's decade entered at ch 297. **Neither is on the page in ch 330–345**, and at ch 335 Bai Zhu says *your brother is on it* once, flatly, and nothing else |
+| Inside | **Nothing.** Batch 0001 spent the one sight of it at ch 312. **The tenth part is not given and nothing proves the crews wrong** |
+| Still open | The Hunter's request pending and the line's own people still not knowing she exists · everything above the copying floor, and above the second office, and above the Standing Office of the Second Account · the sending, written and unanswered · the question on the board · the fine hand · *kiln-born* in two heads and on no paper · what became of the eleven · why the register reads *reconciled* · the year still carrying · **and a woman who can no longer see whether a night will hurt her, carrying a piece of cloth that asks for a man she cannot bring** |
+
+---
+
+## Construction budget — Volume 6 Batch 0003 (ch 330–345), measured by grep, not promised
+
+**Every figure below was run against the sixteen files after they were written, not asserted in advance. Four
+instances of a retired construction and two instances of a banned string were found by measurement and fixed
+before the batch was saved, and they are recorded at the foot, because a budget that only ever reports clean is
+not a budget.**
+
+| Construction | Result across ch 330–345 |
+| --- | --- |
+| **Authorial scaffolding** — *this chapter, this volume, in this book, for the rest of the book, the reader, in this batch, another batch, N volumes* | **0.** `grep -i` for all seven variants returns zero. **Two instances of the literal string *in this book* were found by measurement and both cut** — one at ch 345 (*which is what the men in this book do*) and one at ch 340, where it had been doing duty for a physical book and was recast anyway. No physical book in a room is named in the batch |
+| **Bracketed layer lines** | **2, at ch 332 and at ch 342**, both matching the pinned far-side house form character for character. Zero in the other fourteen chapters. Brackets 3 and 4 of Volume 6's six |
+| ***About four seconds*** (retired out of Volume 4) | **0.** Four instances were written — ch 330, 333, 340 and 343 — and all four were recast before the batch was saved |
+| ***Eleven weeks*** (retired) | **0** |
+| ***Nobody asked · nobody was thanked · there is no form · there is no column · the record remained · nobody knew · nobody said anything*** | **0 as phrases**, all seven. The thanks fact behind the retired construction is spent as of ch 309 and is delivered nowhere in this batch |
+| **The Yuan tag** *He said one thing that night and it was present tense and it bought nothing* | **0 verbatim.** **No lead-in of any shape stands before any of his speech anywhere in the batch**, including ch 338's six utterances |
+| ***Under her, …:*** — the one-breath speech lead-in, as a whole family | **0.** `grep -E "under her,"` returns **zero** across the sixteen files |
+| ***About as long as it takes to count eleven* / the eleven-counts measure** | **0**, and **not at ch 338.** `grep` for *count eleven* and *eleven counts* returns zero |
+| ***His eyes widened · he couldn't believe it · suddenly · little did he know*** | **0** |
+| **The surface answer** | **0.** Not said, hinted at, gestured at or paraphrased in any mouth |
+| **Named weekdays / named calendar months / named weeks** | **0 / 0 / 0.** *Nine or ten days*, *eleven minutes a piece*, *about a month*, *fourteen days*, *three weeks* are ordinary relative stretches |
+| **Harem, romance** | **None.** Wei Ran is off the page in this batch, as `outline/volume-06.md` has her between Batches 0001 and 0004 |
+| **Bold** | **0.** `grep` for `**` returns zero across the sixteen files. **Italic nine spans in the whole batch**, all documentary and all scarce: *all right* (337, 339) · *What it gets.*, *What it costs.*, *readable from outside*, *in the line*, *entered*, *unnamed*, *somewhere* (338) |
+| **Markdown** | **0** blockquotes, code fences, tables and horizontal rules across the sixteen files. Title heading and `##` section headings only |
+| **Quotes** | **Every speech closed in all sixteen files** (`text.count('“') == text.count('”')` in every file); **0 straight apostrophes and 0 straight double quotes.** Eight lines carrying straight apostrophes were written in ch 338, 342, 343 and 345 and swept to the curly form before the batch was saved |
+| **Paragraphs** | **Longest paragraph in the batch is 99 words.** No paragraph over 100. Twelve paragraphs were written between 92 and 124 words and eleven were split at a natural beat; the last, at ch 345, is the *simple part about one person* and is now two paragraphs |
+| **Duplicated paragraphs** | **0 exact.** A paragraph-level duplicate scan returns nothing. **Three exact duplicates were written and cut** — the *layer said it once in the far-side house form* line and the *nobody inside to be told* line between ch 332 and ch 342, and *she put the pieces down at the top of the bank* between ch 341 and ch 342. **Near-duplicate scan at ≥0.45 six-gram overlap across chapters: 3**, all of them the deliberate stage-ritual parallel between ch 332 and ch 342 (0.63 on the *the stage came the way the…* paragraph, 0.45 on the *nobody inside to be told* paragraph) and the pinned bracket itself at 0.79. **The two utterances are not the same sentence and the bracket is a pinned string.** A fourth pair at 0.87 between ch 337 and ch 340 was written and cut |
+| **Length** | **25,000 words of body prose over sixteen chapters, average ~1,562** (25,741 raw, headings included). Per file: 330 1,378 · 331 1,315 · 332 1,328 · 333 1,398 · 334 1,364 · 335 1,422 · 336 1,384 · 337 1,710 · 338 2,970 · 339 1,424 · 340 1,377 · 341 1,356 · 342 1,336 · 343 1,675 · 344 1,777 · 345 1,786. **None under the 1,300 floor and none above the 2,700 guide except ch 338**, which is the sustained scene in which he is on the page in his own right and which `workspace/volume-06-batch-0003/PROMPT.md` allows to be as long as the scene needs. Counts are body prose only, `#` titles and `##` headings excluded. Four chapters were written under the floor — 330, 331, 341 and 342 at 1,103 to 1,148 — and were brought over it by adding scene, not by padding: the twenty-ninth at the board (330), the three other copyists on the floor (331), the one unwatched day at the mill (341) and eleven climbs of the bank (342) |
+| **Titles** | All sixteen unique against all 329 existing headings and against each other; **345 `^# ` headings across the manuscript, zero collisions** |
+| **Tribulation / suppression arithmetic** | **0 / 0.** Merit does not settle in this batch |
+| ***Kiln-born*, Anchor, Sisterhood, Lung, appointment, MEMBER ABSENT, sponsor, Shen Xiu, Scribe, reconciled, erased, base went out, could not account, licence, license, plate, Ledger, Wei Ran, Ning Wu, vouch, Feng, Bai Zhu, wei** | **Zero on the page of this batch**, all measured by `grep -i`. **`vouch` returns zero**: the second vouching is not re-vouched anywhere and is spoken about only as the second office and as an account. `Bai Zhu` returns exactly one hit, at ch 335, and the Hunter is named once in the batch and is *he* and *the man with the notebook* after that |
+| **The seven relicensing conditions** | **0.** Never listed, counted, enumerated or referred to by number |
+| **`sending`** | **1, at ch 336**, the chapter in which the sending is written. **Zero in ch 330–335** |
+| **`sent for`** | **1, at ch 338**, inside his own line. **Zero in ch 330–337 and in ch 339–345** |
+| **Yuan's sentences** | **Seven utterances in sixteen chapters.** One outside ch 338, at ch 337 (nine sentences, one block, every one present tense, telling the price before it is spent). **Six at ch 338**, which is the sustained scene in his own right and in his own frame, away from her hearing, and **the six-sentence ration does not apply to it.** Every sentence he speaks in the batch is in the present tense and no other character in any external scene is in a present frame |
+
+**Seven faults were found by measurement while drafting and all seven were cut before the batch was saved, and
+they are recorded here because that is the only honest way to run a budget:** four instances of the retired *about
+four seconds* (330, 333, 340, 343); two instances of the literal string *in this book* (340, 345); and straight
+apostrophes on eight lines (338, 342, 343, 345). **No beat, day, title, turn, midpoint, climax, irreversible decision,
+bracket or stage moved in any of them, and no chapter in `chapters/volume-01/` … `chapters/volume-06/chapter-0329.md`
+was opened.**
+
+**One fault recorded rather than repaired, and it is deliberate:** the near-duplicate scan returns the stage-ritual
+paragraph at 0.63 and the *nobody inside to be told* paragraph at 0.45 between ch 332 and ch 342. Both are the
+same act staged twice, ten stages apart, in the same order, on open ground, with nothing announced, and the
+bracket that follows each is a pinned string that cannot vary. Batch 0002 recorded the same kind of thing for the
+*told before spent* ritual at ch 316 and ch 320. **The two utterances are not the same sentence.**
+
+**One discrepancy between the batch prompt and the page, resolved in favour of the page, as the prompt itself
+directs:** the prompt says Batch 0004 opens at day 736. It does not. **Ch 342 is pinned to day 749 and ch 343–345
+follow it and carry no date, so the batch closes after day 749 and Batch 0004 opens there.** The prompt's own
+instruction — hold day 712 inside days 701–735, take GC7 on day 749, and leave the days between to be carried as
+elapsed rather than walked — was followed, and ch 341 carries the fourteen days in a section of its own. The
+Batch 0004 prompt states the corrected handoff at its head.

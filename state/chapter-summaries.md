@@ -603,3 +603,159 @@ Batch 0001 (ch 299–313) — READING AND BEING READ* and *Volume 6 running ledg
 - **Ch 328 — *Three Days On It* (days 696–699, the twenty-third to the twenty-sixth; day 699 is shared with ch 329, which opens in the same gateway).** Three days to do it in, and nothing on that ground knows there is anything to do. On the twenty-fourth the round comes at the fourth hour and **the listing man writes the line off the thirteenth out again with the day on it and nothing at the other end, and rules a line across under it and starts on the next one**, and he tells her what he is going to do about it: charge it to the yard, not to her — the yard is short two boxes of stone and forty miles of hauling and that goes in on the yard's side, signed by a man whose name is on the end of the board. **And then the other half of it, which is the batch's worst thing at the hands of a right man: it is a hole, it is the first in eleven years, and a man with a yard is going to want to know whether his board can be taken out from under him, and the ordinary thing that man will do is take the cart off his own round until somebody puts something on the line.** *I am not saying that to put it on you. I am saying it because you asked me and I would rather you had it all.* She says *I am sorry about the cart* and *do not lose it on account of me*, and there is no arrangement between them that can be finished with the words. Two nights of weighing on flat ground: what she gets — a price for work that does not fall when her body gets stronger, a listing that comes to a person instead of a wall, and material that will still be hers on ground nine miles east of a yard — and what it costs: **a second office, a hand she has never seen, a book that is copied, material copied further than days are because days stay on the ground they happened on, and an entry that cannot be taken back by her, by leaving, or by walking a season's road the other way.** *If she says yes there will be two books on nine days of road with a person in them that is the same person, and she will never see either of them, and from that hour there will not be one hour of the rest of her life that she gets to keep.* **She has been in that yard about three weeks and everybody in it has been right every single time.** On the twenty-sixth she stops nine feet short of the bench and says her name out loud, in daylight, at a gate. *Emotion: the flat calm of a decision, and nobody who argued her either way.*
 
 - **Ch 329 — *She Asked At The Gate* (day 699, the twenty-sixth; the twenty-seventh is her closing walk west and is not dated on the page) — THE IRREVERSIBLE DECISION AND THE VOLUME'S MIDPOINT.** *Ning Yan. Of Lowwater. I am asking to be put in the materials account of the office that sets this board.* He does not ask her to say it again. **He makes her say the last part again, and she does, and he tells her that most of them say it as a wage and have to be taken back and made into a materials, and that it takes four days longer. It is not a hiring: no day-book, no rate, no day, no stub, nothing torn off anything. If the office lists a thing and she clears it, what the thing was made of comes to her account and she takes it where she are standing.** He writes it in ink at the eighth hour on a strip about as wide as a hand with a ruled line and a line across near the bottom, cut at the bottom edge with a knife, and turns it face down on the bench because that is what a man does with a thing that is going somewhere and is not his. **The word, said out loud once, in daylight: it is a vouching. It is the same act twice and it is not the same thing twice. That one was about your days. This one is about material.** The price, in four short sentences with nothing added: *you cannot take it back — not by walking a season's road the other way, not by leaving, not by telling a man at a gate that you did not mean it — it is in a book and the book is copied and the copies go to a floor she has never been in in a hand she has never seen and nobody in nine days of road can take her out of it.* She is asked to be sure, because after this there is not one hour she gets to keep, and she has been sure for three days. **She said yes and it was not a fight and nobody was in the room except a man doing the thing he was built to do.** What it closes, standing up in about a minute: a yard that had been giving her work with nothing on any board about who she was; one price on her; a cart a man was going to lose — and a second book she will never see, next to the first, neither seeing the other. **Leaving the reach no longer takes her out of the books.** *Emotion: a plain, ordinary pleasure that is the first thing in five months she has asked for — and it cost her the rest of her life, out loud, in the light, at a gate, with her name on it.*
+
+### Batch 0003 (ch 330–345) — sending and being sent for. WRITTEN, 25,000 words over sixteen chapters, average ~1,562, day 701 to day 735 walked plus the pinned day 749 for GC7, TWO bracketed layer lines, at ch 332 and ch 342.
+
+- **Ch 330 — *The Name Against Material* (days 701–702, the 28th and 29th).** The board in the works' gateway has
+  gained a ruled space about two fingers wide at the left, because since the twenty-sixth a line cannot leave the
+  yard against nothing. **A materials account is paid to a place, not to a person**, and she gives the mill — the
+  only building in nine days of road with a fire of her own in it — in about the time it takes a man to write four
+  words. He tells her, unprompted, that the mill has a book that shuts on the thirtieth and goes up the mill road to
+  the counting house. On the twenty-ninth she sees six lines on the board and her name at the left of one of them
+  and five empty spaces the width of two fingers where the next five women will be. She takes the second line off
+  the wall, a head at the low drain, two days and one box. *Emotion: the plain, unpleasant fulfilment of a month of
+  wanting — she wanted to be findable and findability has a size, and the size is one line out of six.*
+
+- **Ch 331 — *The Column In Two Hands* (days 703–704, the 30th and the 1st).** The copying floor. The man with the
+  brush: **every month he copies her column out against another book, by hand, because the two of them were put
+  across from each other on the twenty-third of a month back.** She asks what a cross-reference is for and is told,
+  once, in the ordinary voice: *so that a thing about you is also a thing about what you have done.* She watches a
+  woman of forty copy one column for half an afternoon at four words to a line and understands that being read is not
+  being watched — **it is being the eight hundred strokes of somebody's ordinary afternoon.** He says the floor has
+  been his father's, that a line out west is kept by men paid by the day with families on it, and that nobody east
+  of here has ever needed one thing out of it. *Emotion: dread, and the discovery that findable was only half of it.*
+
+- **Ch 332 — *Eight Holds* (days 705–712, the 2nd to the 9th; the stage on the ninth).** **GOLDEN CORE 6**, taken
+  standing in the open out past the last hedge, bar laid on the grass, nothing within half a mile.
+  *[Ning Yan, past the line, servant-born, under no ceiling any county holds. Golden Core, stage six, is held.]*
+  **Cost, named once, permanent: nine holds to eight**, told before spent at the sill of a ditch on the seventh and
+  spent into a head at the low drain she cleared by hand in two days. A hold is not a finger and it is not the arm:
+  **it is the difference between a hand closing on a thing and a hand closing on nothing while the weight goes
+  somewhere else.** The nine counting days she builds to find out what it cost are the chapter's last beat. *Emotion:
+  the first night in five months she has gone to a thing she cannot feel.*
+
+- **Ch 333 — *The Clearing She Bought* (days 713–714, the 10th and 11th).** The low drain, finished, one box. Nothing
+  comes up through the base and she is not disappointed about it — **she has not been able to use that instrument
+  since the twenty-fourth of the last month and she cannot tell whether the hold is gone until she checks the four
+  things in the order she always checks them.** The gate and the yard do not move: eight holds bought her a
+  clearing she could not have cleared before, and the board does not go down. **There were six lines on that board
+  and eight holds in her hand, and the two are not a ratio.** *Emotion: the dread of a world that is exactly the
+  size it was for the last woman who stood in it.*
+
+- **Ch 334 — *The Cart Comes Back* (days 715–717, the 12th to 14th).** The round, the eleventh hour. Eleven boxes
+  go on the cart with her name at the left of the line and the mill under it, and the cart the listing man said he
+  was going to lose comes back into his own round **because of her.** He tells her so in the ordinary voice and adds
+  that nobody had ever said so to him and he is not going to make a thing of it. She walks two and a half miles on
+  the near shaft of a cart going into a book that shuts on the thirtieth, and works out in the road that she wanted
+  her name on a wall **and there is no version of a name on a wall that does not also go into a book.** She does not
+  look at her own page when the tray-man comes out of the shed. *Emotion: guilt she cannot spend.*
+
+- **Ch 335 — *He Does Not Want It Answered* (days 718–719, the 15th and 16th).** **The Hunter, on the page.**
+  Bai Zhu at nine feet off a cart track, notebook shut, buys nothing, asks nothing, attends and certifies and writes
+  four lines a day. He has seen the shape of the new paper twice and will not say what is on it: *a column and a
+  holding under it. The last shape was a line and a line is a thing that gets found. This has a holding under it.*
+  And then, once, in the ordinary voice, **I do not want it answered either** — an answered thing goes up and
+  somebody above him has to reckon with the answer, and he has never believed the reckoning would be the right one.
+  The line in short sentences: kept by men, paid by the day, families on it, nineteen years, and **he cannot tell
+  her why it is there and has met four men who worked it and not one could tell him.** His paper is still with the
+  district; a writ is not issued to a field agent. *Emotion: the relief of a man who wants nothing, and the first
+  real information in a month.*
+
+- **Ch 336 — *A Strip With Two Columns* (days 720–722, the 17th to 19th).** **THE SENDING IS WRITTEN.** A strip about
+  as wide as a hand comes off the bundle at the works. Two columns: five months of her days in the counter's hand,
+  and under them **two ruled lines with nothing at the other end of the rule** — a materials account against the
+  mill, and the holder, in a fine hand. The right column: a mark that is not a name, four figures, the word HELD, a
+  rule, and two words under it she cannot read. Four lines at the foot: *what is copied at this reach is copied
+  twice; the column of Ning Yan, of Lowwater, is kept and is copied and is not on this ground; the holder is to be
+  presented in person in the room named under the holder; the doors of that room shut on the twenty-eighth of a
+  month.* **The room is on the copy, and the copy is above the counter, and she does not go and find out.**
+  *Emotion: the cold of being told what a person is in a column for.*
+
+- **Ch 337 — *What The Paper Asks* (days 723–725, the 20th to 22nd).** She asks what presented in person means and is
+  told: *a person goes into a room and does not come out of it again. Everything else that comes off that road is a
+  paper.* Two of about four hundred strips in eleven years have had two columns. The listing man gives the line in
+  four short sentences — **a road west about nine miles, men on it, paid by the day, I had an uncle on it, nobody
+  here has ever needed one thing out of it** — and then: *and now there is.* At the second hour she gives the price
+  before the word, and he takes about a minute and says it once: **it goes when I am held, and he will not be
+  nowhere afterwards; what she gets is the fire, holding without her.** She says *all right* — not yes, because she
+  has said yes to two other men in a month — and tells him to say when it has gone, and she cannot tell and knows it.
+  *Emotion: dread and a want with a shape in it — she wants the fire too, and that is the horror.*
+
+- **Ch 338 — *The Room With Doors* (days 726–728, the 23rd to 25th) — YUAN ADDRESSED AS A HOLDER. THE HAND SPENT.**
+  **The sustained scene in which he is on the page in his own right, in his own frame, away from her hearing. Six
+  utterances, every sentence present tense. Not a re-run of ch 272.** A room, not a field: a floor, a table, a chair
+  pushed back at an angle, two shut doors and one with a handle. A hand with a brush writes slowly and is making a
+  thing that will afterwards be correct, and it writes **HELD** under her days. **A line is a thing that gets
+  found. A holding is a thing that can be asked for.** A holding has to be held by name, and a name is a word an
+  office can put on a strip — so holding it costs the last thing in him that no office can write, **and he will not
+  be nowhere afterwards.** He reaches for the morning he died; it is not there; he does not look again. He says the
+  price back before he does it, because he always does. **The spend comes out of her foundation** — not her hands,
+  the thing under her base — and a ring in a shed at a mill comes up full with nobody in the building. He speaks
+  last in the room: *you do not get to have me twice, and you had the other one free, and you gave it away for a fire
+  in a shed, and I am not sorry.* *Emotion: grief plain and unadorned, and a kind of shame he names in the room.*
+
+- **Ch 339 — *The Fire Without Her* (days 729–731, the 26th to 28th).** She does not get up at the fourth hour. At
+  the second hour the shed is warm to about nine feet and the ring is up against the corner at full, banked to a
+  third on the nineteenth and lit by nobody. Her hand cannot tell her, so she uses the back of her wrist, the way a
+  person does when a hand has stopped working. **She tests it properly — two days, three miles off, the fire up
+  both nights — and then sits on the boards and puts the whole of it in one line, because a thing she does not say
+  out loud comes out of her sideways later.** She does not forgive him and she does not tell him to stop, and neither
+  of those is about him. *Emotion: a gift she did not ask for and cannot spend.*
+
+- **Ch 340 — *The Book On The Thirtieth* (days 732–733, the 29th and 30th).** The tray on the bench and the cord going
+  round it; **three trays since she walked out past the mill and one every month for as long as she clears a listed
+  thing.** She asks where her material goes and is told the truth in four sentences: *a day ends and a material does
+  not; this is the book that shuts and that one has been open since before I came and will be open when I am gone;
+  copies of yours go in this one, by hand, at the end of every month.* **The book is open on the counter with six
+  men at their cups and she does not look at her own page**, which costs her something and is the right cost.
+  *Emotion: the plain human sentence — a line is not much, and it is the only thing she ever got about her brother.*
+
+- **Ch 341 — *Four Counts And A Load* (days 734–735, then fourteen days carried as elapsed).** A head at the second
+  gully, **one day, one box**, which she loads in three instead of nine because a day is a day. **Four pieces under
+  one arm up a bank of four feet with the bar in her left hand, and her breath goes to five on the second load at
+  the third count** — and comes back to four when she puts them down. She goes up eleven times to find the edge.
+  Then fourteen days, carried as elapsed and not walked: eleven worked, one unwatched at the mill breaking up a sack
+  for nothing, five mornings counting on a loaded reach, four every time. *Emotion: the flat preparation of a woman
+  who already knows and wants to be certain.*
+
+- **Ch 342 — *Five Counts* (day 749, the sixteenth — pinned).** **GOLDEN CORE 7**, taken standing in the open on the
+  same ground. *[Ning Yan, past the line, servant-born, under no ceiling any county holds. Golden Core, stage seven,
+  is held.]* **Cost, named once, permanent: the short breath goes past four counts where work is heaviest — five
+  counts on a loaded reach — and never comes back to four there.** Four everywhere else, always. Eleven climbs in an
+  hour and the place where it goes to five does not move. And the same evening, at Pei's gate: **half a reach was
+  two and a half; a third of a reach is one and a half**, taken out of the fold in the inside of the door frame.
+  *Emotion: the flat recognition that the stage cost exactly what it always costs, and there is still nobody in the
+  world she can tell.*
+
+- **Ch 343 — *Five And Not Four* (undated, after ch 342).** The gate arithmetic, done on a gate post. **One and a
+  half a day is not bread**: it buys bread and about a third of what was left over on two days in seven, and a third
+  of a sack of clay is three coppers — so the fire she was given for nothing has turned an exactly balanced
+  arrangement into one that does not pay. **The day she lost:** the last eighteen inches of the low side of a
+  four-foot cut, undercut a foot and a half, goes under her right foot with sixty pounds on her arm; four feet down
+  on wet clay for about eleven minutes, nobody within nine days of road, and she comes out with the load and loses
+  the whole day. **Five days where the board said four**, and the listing man is right and says so and does not say
+  it at length. On the walk back she wants the board to put up a line her hand cannot do, and there will not be one.
+  *Emotion: arithmetic, and the first angry sentence she has said out loud since the gate.*
+
+- **Ch 344 — *The Board Is For That* (undated; a thirtieth after ch 342) — THE BOX CIRCUIT IS BROKEN.** The room with
+  the counter, the second hour, the book open with a stone on it. **She reads her own column for the first time** —
+  five months and four gaps, one of them four fingers wide where a bank came in on her under a field. And at the
+  foot of it, ruled under the thirtieth, **two lines with nothing at the other end of the rule**: the materials
+  account against the mill, and the holding in the fine hand. A book that shuts has a beginning and an end on
+  everything in it. **The man with the brush cannot take them out, cannot rule across them, writes the day in the
+  margin against both, and goes up the stair to ask.** Four hours later a strip comes down with four words on it:
+  **It goes as it is.** The tray is corded with a page fanned open in it and goes up the mill road at the sixth
+  hour. A strip comes off it. **The cart stops at the post and a keeper of about fifty-five who has kept that board
+  nine years reads it, works the paste round the pot with his boot, and presses it down with the flat of his hand —
+  because that is what the board is for.** *Emotion: none. Nothing in the chapter is a decision and the chapter
+  knows it.*
+
+- **Ch 345 — *It Does Not Close Clean* (undated; the tenth day after ch 344) — the batch's last chapter.** The strip
+  on the board **is not lying flat**: it has a crease a third of the way down instead of in the middle and it stands
+  out past the edge of the board by the width of a finger, and the keeper explains, correctly, that a strip is
+  folded in two in the middle when the thing it is a strip of has been shut. **From that hour nothing goes up that
+  road shut, and she broke it by working** — four listed things cleared in seven weeks and a name asked for at a
+  bench in daylight. The rule that has run for nine years is broken too: **the first thing in nine years has come
+  back down that road, and it is a question and not a reading.** She can read her own name on it. She cannot read the
+  fine hand. *Emotion: not fear — a want with a shape in it, and it is the only thing she has left to want.*
+

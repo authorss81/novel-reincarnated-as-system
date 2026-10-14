@@ -26,7 +26,7 @@ day 471 to day 620, **three bracketed layer lines in sixty, at ch 258, 275 and 2
 `outline/volume-05.md` is written and was the authority for Volume 5; `outline/batches/volume-05-batch-0001.md`
 was the card file Batch 0001 was drafted against and every card's beat is on the page. Batches 0002–0004 were
 drafted against their own prompts and every pinned item in each is on the page.
-**VOLUME 6 IS OPEN AND BATCHES 0001 AND 0002 ARE WRITTEN. Next to write is Batch 0003's chapters (ch 330–345), pressure *sending and being sent for*, against `outline/volume-06.md` and `workspace/volume-06-batch-0003/PROMPT.md`.**
+**VOLUME 6 IS OPEN AND BATCHES 0001, 0002 AND 0003 ARE WRITTEN. Next to write is Batch 0004's chapters (ch 346–360), pressure *standing and refusing to stand*, against `outline/volume-06.md` and `workspace/volume-06-batch-0004/PROMPT.md`.**
 **Batch 0001 (ch 299–313) is on the page: 24,531 words of body prose over fifteen chapters, average ~1,635,
 day 621 to day 645, ONE bracketed layer line at ch 310, Golden Core 4 at ch 310, the irreversible decision at
 ch 308 and the unrescued physical risk at ch 307.**
@@ -34,6 +34,7 @@ ch 308 and the unrescued physical risk at ch 307.**
 ONE bracketed layer line at ch 321, Golden Core 5 at ch 321, the Hand spent for the first
 time in this book at ch 325, and the volume's midpoint and this batch's irreversible decision at ch 329 — a
 second vouching, by a second office, against materials, agreed in daylight at a gate at the eighth hour of the twenty-sixth. **Thirteen review findings closed; full record in `state/continuity.md` under *Volume 6 Batch 0002 (ch 314–329) — REVIEW REPAIR*.**
+**Batch 0003 (ch 330–345) is on the page: 25,000 words of body prose over sixteen chapters, average ~1,562, day 701 to day 735 walked plus the pinned day 749 for Golden Core 7, TWO bracketed layer lines at ch 332 and ch 342, the sending WRITTEN at ch 336, Yuan ADDRESSED AS A HOLDER at ch 338 at the price of his unnamed state, and the closed-season box circuit BROKEN at ch 344.** **Days 736–748 were carried as elapsed rather than walked, and ch 343–345 carry no date on the page and follow ch 342, so Batch 0004 does NOT open at day 736 — it opens after day 749. The page wins.**
 Full record for Batch 0002 in `state/continuity.md` under ***Established facts, Volume 6 Batch 0002
 (ch 314–329) — WORK WITHOUT HIRE***, ***Volume 6 running ledger — at end of ch 329*** and ***Construction budget —
 Volume 6 Batch 0002 (ch 314–329), measured by grep, not promised***.
@@ -733,3 +734,43 @@ confinement, and not Batch 0003's sending and being sent for. Full record in `st
   the claim not reopened and Hou Sanliang not on the page · **Bai Zhu off the page** · **Wei Ran off the page** ·
   **the copying floor not entered again** · nothing killed, nothing measured, no tribulation · no harem and
   nothing a romance.
+
+## Volume 6 Batch 0003 (ch 330–345) — what this batch added, live going into Batch 0004
+
+**Sixteen chapters, 25,000 words of body prose, day 701 to day 735 walked plus day 749. TWO bracketed layer lines,
+at ch 332 and ch 342.** Pressure: **sending and being sent for** — and nothing else. Full record in
+`state/continuity.md` under *Established facts, Volume 6 Batch 0003 (ch 330–345) — SENDING AND BEING SENT FOR*,
+*Volume 6 running ledger — at end of ch 345* and *Construction budget — Volume 6 Batch 0003*.
+
+| Thread | Owner | Planned resolution | State |
+| --- | --- | --- | --- |
+| **The sending** | series | **Vol 6, Batch 0004 (refused at ch 358)** | **WRITTEN, NOT REFUSED, NOT ANSWERED.** A strip came down the works' road on the seventeenth of a month with two columns: five months of her days on the left and a holding under them in a fine hand, and **the room the holder is to be presented in is not named on the strip** — it is on the copy, and the copy is above the counter. She is carrying it folded in three against her ribs. **Nothing above the copying floor has been entered, described or named. No card in this batch may refuse it and no card may end a chapter on a plan to refuse it** |
+| **Yuan addressed as a holder** | Yuan | **Vol 6, ch 338 — spent** | **DONE AND PAID.** Out of her foundation, told before spent, so that the ring in the shed at the mill holds without her standing there. **He is no longer nowhere an office can address, and being held means being sent for — and he said so himself in the ordinary voice: being sent for is a thing that happens to men in rooms with doors.** The date of the morning he died is still gone and ch 272's finding is not softened. **Refusing a second holder is ch 355, Batch 0004's** |
+| **The box circuit** | series | **Vol 6, ch 344 — broken** | **BROKEN, and said in a room with a person.** A book that shuts on the thirtieth has a beginning and an end on everything in it; the materials account against the mill and the holding under her days have neither. Four words came back down the stair: **It goes as it is.** The tray went up with a page fanned open in it, a strip came off it, and a keeper who has kept that board nine years pasted it in because that is what the board is for. **A question came back down the mill road on the tenth day — the first thing in nine years to come down it.** Nobody refused and nobody broke anything: **she cleared some work** |
+| **The cross-reference** | series | **Vol 6–7** | **NEW AND LIVE.** Every month a man with a brush on the copying floor copies her column out against another book by hand, *so that a thing about you is also a thing about what you have done.* **She cannot see either book and neither can see the other**, and the fine hand is the one holding his. The room above the counter reads what goes up the road against everything else that went up it |
+| **Her body at the last page** | Ning Yan | **Vol 6, GC8 at ch 352 and GC9 at ch 357** | **GOLDEN CORE 7. Eight of eleven holds** (nine at the ninth of a month, eleven at the start of Volume 6). **Five counts of breath on a loaded reach and never four there.** Four fingers and a thumb, right arm open half the time, aperture cracked permanent. **A third of a reach at a gate and one and a half coppers a day, down from half and two and a half at GC5.** **Four listed things cleared in seven weeks, four lines left on the board, five more coming down over two months, and then the yard goes quiet until the season turns** |
+| **The Hunter's request** | Bai Zhu | **Still open at the last page of Volume 6** | **ON THE PAGE, ch 335 only, and it is still pending.** He bought nothing, asked nothing, and said once in the ordinary voice that **he does not want the sending answered either**, because an answered thing goes up and somebody above him has to reckon with the answer and he has never believed the reckoning would be the right one. **A Wall writ is not issued to a field agent. The line's own people still do not know she exists.** He also said *your brother is on it* once, flatly |
+| **The structural answer** | series | **Vol 6, begun** | **BEGUN, IN FOUR MOUTHS, IN SHORT SENTENCES, ACROSS ch 331, 335, 337 AND 345.** The line out west is kept by men, paid by the day, families on it, nineteen years, and **nobody east of here has ever needed one thing out of it** until she asked for her name on a wall. **The tenth part is not given and nothing proves the crews wrong — Bai Zhu says flatly that he has met four men who worked it and not one of them could tell him what was at the other side of it** |
+| **The fine hand** | series | **Vol 6–7** | **NEW AND OPEN.** She can read her own name on the strip that came down and cannot read four or five lines in the hand that has a holding under her days. The keeper cannot read it either. **Somebody is going to have to stand in a building with a counter in it and a floor over the counter and answer a question, and the answer is not hers to read first** |
+
+### Held, confirmed, not touched by Batch 0003
+
+- The register still reads *reconciled* and `reconciled` returns **zero** across ch 330–345. The Clay Plate is
+  still worn against her ribs and `plate` returns **zero**. The relicensed licence was never opened and `licence`
+  and `license` both return **zero**. MEMBER ABSENT stands three times and was not raised. **The year of
+  non-forgiveness was not mentioned once in these sixteen chapters and is still carrying.** The three sponsors'
+  second book is lodged, copied and spoken nowhere. **Ning Wu does not appear.** Feng does not appear; **no second
+  Lung and no second appointment.** What became of the eleven is not raised. The ch 150 refusal is not softened.
+  Hou Sanliang is paid, never met and not on the page. Luo Ping never met.
+- **No office is named at all**, in any mouth, in any of the sixteen chapters, and **nothing above the copying
+  floor is entered, described or named.**
+- **The surface answer is not re-voiced** in any mouth, in any form, anywhere in the batch.
+- **Merit does not settle in this batch.** `tribulation` returns zero, nothing is cleared and nothing is killed,
+  and no figure of what is left of him is on any page.
+- **Wei Ran does not appear** in this batch, as `outline/volume-06.md` has her between Batches 0001 and 0004.
+- **The Ledger is never ordered, held, priced, refused or thought about.** `Ledger` returns **zero** across ch
+  330–345.
+- **The right index finger is not named, priced, foreshadowed or offered back.** Four fingers' worth of grip left on
+  that hand through Volume 6. Nothing gives it back and nothing offers to.
+- **Volume 6 bracket budget: four of six spent**, at ch 310, 321, 332 and 342. Two remain, at ch 352 and ch 357.
+  None at ch 360 — the handover is entered by hand and not announced.
