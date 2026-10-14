@@ -2791,10 +2791,11 @@ line, at ch 632. Severance 7 until ch 632 and Severance 8 from it. The batch's i
 
 ## Volume 11 Batch 0004 (ch 646–660) — the volume closes, and what Volume 12 inherits
 
-**Fifteen chapters, 29,742 words of body prose on method B, average 1,982, day 1,997 to 2,060. ONE bracketed layer
+**Fifteen chapters, 29,746 words of body prose on method B, average 1,983, day 1,997 to 2,060. ONE bracketed layer
 line, at ch 648, and it is the third and last in the volume and the last one in this realm. Severance 8 until ch 648
-and Severance 9 from it. Three irreversible steps: ch 653, ch 655, ch 658. Pressure: **staying**. Full record in
-`state/continuity.md` under ***VOLUME 11 BATCH 0004 — ch 646–660***.**
+and Severance 9 from it. Three irreversible steps: ch 653, ch 655, ch 658. Pressure: **staying**. **Every figure on
+this line was re-measured after the Volume 11 Batch 0004 review repair, which also repaired the page; full record in
+`state/continuity.md` under ***VOLUME 11 BATCH 0004 — ch 646–660*** and ***VOLUME 11 BATCH 0004 — REVIEW REPAIR***.**
 
 | Thread | Owner | Planned resolution | State |
 | --- | --- | --- | --- |
@@ -2806,7 +2807,7 @@ and Severance 9 from it. Three irreversible steps: ch 653, ch 655, ch 658. Press
 | **The Hunter** | Bai Zhu | **Vol 11 — his one appearance in this batch** | **CLOSED. ch 650, nine feet off her left shoulder on a rise. She asked whether staying is the same as being kept. He said it is not, because a kept thing has somebody who put it somewhere, and he has watched it turn into keeping three times and gives her two of them and will not give her the third. His request is still pending and he does not raise it. `Hunter` returns 0 across the whole volume** |
 | **Wei Ran** | relationship | **Vol 11 — ch 651, the second and last card** | **CLOSED. The last rate on this ground: six coppers the four miles, said out loud going and coming. The bed at the mill is finished and the road behind the rate finished with it. She is not going to ask her for the last mile and would have said yes. Nothing in the card that is not a trade** |
 | **Shuyin** | Shuyin | **Vol 11 — the walking past, spent** | **CLOSED. ch 659, at nine feet on a flat four miles short of a wall, going her way with a shut book. He said the fifth sentence he has ever said to her and it was not about himself. Alive, old, correct, not thanked. `Shuyin` returns 0 on the page** |
-| **The road up** | series | **Vol 12 — opened at ch 660** | **OPEN AND THE DOOR. At the sixth hour of the seventh of the month beginning 2,054, on a store road, with a bare board behind her and nothing in the sky that has ever been announced, she said out loud once, standing, in daylight: *I am going up.* She has not got the rest of it, nobody in nine days of road has ever been up one, and there is no ceiling to go through because the last of it went into the ground in front of forty people. Nothing on the page previews what is up there** |
+| **The road up** | series | **Vol 12 — opened at ch 660** | **OPEN AND THE DOOR. At the sixth hour of the seventh of the month beginning 2,054, on a store road, with a bare board behind her and nothing in the sky that has ever been announced, she said out loud once, standing, in daylight: *I am going up.* She has not got the rest of it, nobody in nine days of road has ever been up one, and there is no ceiling to go through because the last of it went into the ground **sixty-three days** earlier, in front of **thirteen** people. Nothing on the page previews what is up there** |
 | **Forty-one strokes** | series | **not planned anywhere; left open on purpose** | **OPEN AND UNPLACED. Forty-one short strokes down the right-hand margin of the fourth sheet, in Feng's hand, with no heading and no line under them. He saw a tally and did not know what it was and wrote it down anyway, and wrote no word about it. She has carried them since and said out loud that she is not going to find out what they are** |
 
 ### Held, confirmed, not touched by Batch 0004
@@ -2836,3 +2837,32 @@ and Severance 9 from it. Three irreversible steps: ch 653, ch 655, ch 658. Press
 - **Still OPEN and deliberately unspent, for Volume 12:** the window a hundred yards off the east side · the lime off
   the bar at ch 604 · the hut light · ***twenty-two days*, still unplaced and placed against no dated interval in this
   batch** · the contents of the ash barrow · the five blank leaves · the forty-one strokes.
+
+### Carried into Volume 12 by the Volume 11 Batch 0004 REVIEW REPAIR — six UNRESOLVED findings, not clean prose
+
+**The review repair closed nine defects on the page and deliberately left six standing. None is a plot error and none
+may be silently corrected by Volume 12. Full record in `state/continuity.md` under ***VOLUME 11 BATCH 0004 — REVIEW
+REPAIR***; each is also itemised in `workspace/volume-11-close/PROMPT.md`.**
+
+1. **ch 650's span is three days out against its own card and ch 651 inherits it.** Its going-lighter figures resolve
+   under `D − 1,560` to day 2,019 and day 2,020, so the chapter runs 2,014–2,020 against a card of 2,011–2,018; but
+   ch 650:153 and ch 651:111 both name *the seventh of the month beginning 1,994* = day 2,000, at the ninth hour where
+   ch 650:33 says the seventh. **No day was moved.**
+2. **ch 649:63 — *I said one thing in a yard two days ago*** — the yard was thirteen days back, and the line's own
+   logic (*not doing it twice in seven days*) has no true referent. **Left, because fixing it is a scene rewrite.**
+3. **There are two walls on the page and a road surface that fights the Volume 10 spine** — ch 649:121 puts one two
+   miles east of the furnace ground, ch 660:7 puts one thirteen miles east of the turn, **and the map has one**;
+   ch 541 as settled by the Volume 10 close calls the last two miles *flat ground* where ch 649:121 and ch 660:5 call
+   them *wet ground with a rut in it*. **Left for the close to adjudicate.**
+4. **Eight duplicate `## ` section headings stand in Volume 11, all inherited from Batches 0001–0003** — *the asking*
+   (609, 624) · *what came out of the ground* (611, 637) · *what she is left holding* (611, 621) · *why* (613, 621) ·
+   *nineteen* (615, 627) · *the sixth hour* (616, 624) · *what she is left with* (624, 633) · *nineteen years* (628, 642).
+   **Batch 0004's own headings are unique and stay unique.**
+5. **Volume 11's fifteen-chapter risk profile is exertion, not danger.** Seventeen miles in the dark on an arm open
+   four days in five, four hours on stones by a trough, two coppers she cannot count — **and no pursuit, no injury and
+   no hard deadline anywhere.** **As the cards were written. Volume 12 must not be handed a Volume 11 that had a
+   chase in it, because it did not.**
+6. **ch 654, the climax, dates one scene three days** — the sixteenth of the month beginning 2,024 (day 2,039) where
+   he writes, the second afternoon (day 2,040) where she comes back, and the thirteenth (day 2,036, inside ch 653's
+   span) where he rehearsed it to an empty room. **Not repaired: it is the cause of the fifth origin mouth.**
+   **Volume 12 inherits whatever the close decides, not whichever date it likes.**

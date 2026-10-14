@@ -14,9 +14,9 @@ There was no sound in it. There has never been any sound in it, and she has been
 
 It took ten seconds.
 
-And after it she was exactly as tired as she had been before it and exactly as hungry as she had been before it, which she was not at all, and what it took came out of the ground under her feet and not out of her hands.
+And after it she was exactly as tired as she had been before it and exactly as hungry as she had been before it, which she was not at all, and what it took came out from under her feet and not out of her hands.
 
-She stood in the yard at the tenth hour and ten minutes on a furnace ground with her arms at her sides and waited for a sound that a thing going into the ground sometimes makes for other people, and there was not one on that ground and there was not going to be.
+She stood in the yard at the tenth hour and ten minutes on a furnace ground with her arms at her sides and waited for a sound that a thing going into the ground sometimes makes for other people, and there was not one, and there was not going to be.
 
 [Ning Yan, past the line, servant-born, under no ceiling any county holds. Severance, stage nine, is held.]
 

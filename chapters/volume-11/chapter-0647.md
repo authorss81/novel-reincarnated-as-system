@@ -100,9 +100,9 @@ She said, “Then you will be the only one of the two of us who knows what a fra
 
 She did not say anything else to him and she did not put her hand on his head, because he is fifteen and she is nineteen and neither of them would have known what to do with it.
 
-## The Sentence She Said In A Yard Two Days Ago
+## The Sentence She Said In A Yard Yesterday
 
-She went out to the gate at the ninth hour and twenty minutes of the fourth and she stood in the grit with the furnace going over behind her, and she said it out loud, standing, in daylight, to no one in particular and to the thirteen people who had heard her two days before.
+She went out to the gate at the ninth hour and twenty minutes of the fourth and she stood in the grit with the furnace going over behind her, and she said it out loud, standing, in daylight, to no one in particular and to the thirteen people who had heard her the day before.
 
 She said, “I said in this yard on the third of this month that I was not going to walk out of this ground, and that I had walked out of four places in ten years and this was going to be the fifth place I did not walk out of.”
 
@@ -120,4 +120,4 @@ She said, “And when I come back — or when I do not — there is going to be 
 
 She was lighter at the tenth hour of the fourth of the month beginning 1,994 than she was at the seventh hour of it, which is four hundred and thirty-seven days of it, counting the eighteenth of the month beginning 1,544 as the first, and not one of them going back.
 
-And she went and slept on the stones outside the gate with the bar under her head and a pack on her back that had a bar of fire in the lining of it, and the furnace did not let out, and the smoke went straight up, and the day had half an hour left in it and she was not going to get the ninth stage until the morning.
+And she went and lay down on the stones outside the gate with the bar under her head and a pack on her back that had a bar of fire in the lining of it, and the furnace did not let out, and the smoke went straight up, and the day had half an hour left in it, and the ninth stage was in the last of it.

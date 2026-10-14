@@ -1,10 +1,10 @@
 # A Board With Nothing Written On It
 
-She walked the thirteen miles in the dark.
+She walked the seventeen miles in the dark.
 
-That is all of it and it is the last thing she does in this life that costs her anything that is not in her head. Four miles of made road, two miles of wet ground with a rut in it.
+That is all of it and it is the last thing she does in this life that costs her anything that is not in her head. Four miles of made road off the rows, two miles of wet ground with a rut in it, and the rest of it made road from the gate to the turn.
 
-A wall with an opening standing open in it four feet and a bit, two miles of flat with a fence on the north side that goes on for a mile and then stops, and a row of stones on the south side at intervals set up by somebody for a reason she has never worked out.
+A wall with an opening standing open in it four feet and a bit, a fence on the north side that goes on for a mile and then stops, and a row of stones on the south side at intervals set up by somebody for a reason she has never worked out.
 
 And nothing between the gate and the wall to lie down on, and no shed at the turn, and a bar nine feet nine on a shoulder that has had one arm open four days in five for ten years.
 
@@ -110,7 +110,7 @@ She said, “I have got a piece of a thing with a name that a clerk would not wr
 
 “And I have got nothing else in the world.”
 
-She said, “And the rest of it is a road up and I do not know what is on it and no one in nine days of road has ever been up it, and there is not a ceiling to go through, because the last of the ceiling went into the ground on the fourth of this month two years ago in front of forty people, and the thing that is left above my head is the sky, and I have never read the sky in my life.”
+She said, “And the rest of it is a road up and I do not know what is on it and no one in nine days of road has ever been up it, and there is not a ceiling to go through, because the last of the ceiling went into the ground on the fourth of this month sixty-three days ago in front of thirteen people, and the thing that is left above my head is the sky, and I have never read the sky in my life.”
 
 He said, “That is the first thing you have said in five hundred days that is not a figure.”
 

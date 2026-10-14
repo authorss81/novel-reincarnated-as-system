@@ -6907,11 +6907,14 @@ ch 640 · 148 at ch 645.**
 
 ## VOLUME 11 BATCH 0004 — ch 646–660 — What He Was — day 1,997–2,060 — WRITTEN. VOLUME 11 CLOSED ON THE PAGE.
 
-**`chapters/volume-11/` holds ch 601–660. Batch 0004 is ch 646–660: fifteen chapters, 29,742 words of body prose on
+**`chapters/volume-11/` holds ch 601–660. Batch 0004 is ch 646–660: fifteen chapters, 29,746 words of body prose on
 method B — every line not beginning `#`, measured with `grep -v '^#' <file> | wc -w` chapter by chapter and over the
-fifteen together — average 1,982 a chapter, inside the outline's 27,000–30,000 batch band and its 1,800–2,000 target.**
-Per chapter: 1,841 · 1,956 · 1,812 · 1,853 · 1,821 · 1,839 · 2,368 · 2,300 · 1,928 · 1,955 · 2,051 · 2,028 · 1,965 ·
-1,920 · 2,096. **No chapter is under the 1,300 floor and none is above the 2,700 guide.**
+fifteen together — average 1,983 a chapter, inside the outline's 27,000–30,000 batch band and its 1,800–2,000 target.**
+Per chapter: 1,841 · 1,954 · 1,807 · 1,853 · 1,821 · 1,839 · 2,368 · 2,300 · 1,925 · 1,955 · 2,051 · 2,028 · 1,964 ·
+1,924 · 2,116. **No chapter is under the 1,300 floor and none is above the 2,700 guide.** **Every figure on this line
+was re-measured after the review repair below; the drafting phase published 29,742 with four per-chapter figures
+transposed, and 1,956 · 1,812 · 1,928 · 1,965 · 1,920 · 2,096 are the figures it wrote down and the close must not
+carry any of them.**
 
 ### The batch plan against `outline/volume-11.md`, card by card
 
@@ -6970,12 +6973,12 @@ verified against the formula.
 | **All-caps standalone lines** | 0 | **0** | **PASS** |
 | **Straight quotes / straight apostrophes** | 0 / 0 | **0 / 0**; **14 straight apostrophes were drafted and every one cut to a curly**, asserted per file; curly speech balanced in all fifteen | **PASS after repair** |
 | **Paragraphs over 90 words** | break at ~90, never over ~120 | **0**. **31 were over 90 at drafting — five of them over 120 and one at 173 — and every one was split at a natural beat**, six of them inside a speech, which turned each into a second quoted paragraph the way ch 645 does | **PASS after repair** |
-| **Duplicate `## ` inside a chapter** | 0 chapters | **0**, asserted per file. **Eleven cross-batch repeats were drafted and every one renamed**: *What Wrote On The Board · The Line In A Fair Hand · Five Days On The Floor · The Seventeenth At The Second Hour · What She Answered Him · The Stool And The Bench · Down Four Flights At The Fourth Hour · The Hand On The Boards · The Bill For Staying · What Her Brother Said · The Forty She Did Not Take* | **PASS after repair** |
+| **Duplicate `## ` inside a chapter** | 0 chapters | **0**, asserted per file. **Eleven cross-batch repeats were drafted and every one renamed**: *What Wrote On The Board · The Line In A Fair Hand · Five Days On The Floor · The Seventeenth At The Second Hour · What She Answered Him · The Stool And The Bench · Down Four Flights At The Fourth Hour · The Hand On The Boards · The Bill For Staying · What Her Brother Said · The Forty She Did Not Take*. **The review repair renamed one more — *The Sentence She Said In A Yard Two Days Ago* → *…In A Yard Yesterday* — and the new heading is unique against all 660 standing headings** | **PASS after repair** |
 | **Titles** | 15 names, 3–12 words, under ~90 characters, unique | 15 names, 4–8 words, longest 38 characters, **0 collisions against all 645 standing headings and 0 within the batch**. One collision was drafted — *Nothing On The Board*, which stands at ch 576 — and it is **A Board With Nothing Written On It** | **PASS after repair** |
 | **Verbatim sentence reuse** | no unvaried recycling | **0 duplicated sentences of 8 words or more across the fifteen.** Two stood at drafting — the woman of sixty on the bench at ch 651 and ch 660, and the lamp in the cage at ch 652 and ch 658 — and both were recast | **PASS after repair** |
 | **Authorial scaffolding** | 0 | **0** — *this chapter · this volume · this book · the reader · in this batch · another batch · N volumes*. **Three were drafted** and cut: the line at ch 654 opening on what was different in the chapter, the *this book* at ch 655, and *the only thing in this chapter worth anybody reading* at ch 656 | **PASS after repair** |
 | **`nobody`** | under thirty volume-wide | **6 in the batch**, against **34 across ch 601–660**. 56 were drafted and recast: *no one has ever told me · no one in this county with any standing · not one person in this yard · no one has ever sent for it · not one person in this town · no one on any floor above this county · not one person who could read it · not one person left in this town · no one who passes anything on · not one person on any of these rows*, and ten more | **PASS after repair** |
-| **`eleven`** | under forty volume-wide | **3 in the batch** — the cough that got worse every year for eleven years, which is canon from ch 142, and two others — and **42 across ch 601–660**, which is OVER the outline's under-forty line and is a finding for the close, not for this phase. Forty-six were drafted and cut; the standing phrase *four hundred and eleven volumes* was drafted eleven times and is now *four hundred volumes* | **PASS after repair** |
+| **`eleven`** | under forty volume-wide | **4 in the batch** — the cough that got worse every year for eleven years, which is canon from ch 142, the wall's *eleven miles of made road* at ch 659, and two others — and **43 across ch 601–660**, which is OVER the outline's under-forty line and is a finding for the close, not for this phase. **The extra one is the review repair's: the gate-to-turn leg is eleven of made road and that figure had to be put on the page to replace a wrong thirteen.** Forty-six were drafted and cut; the standing phrase *four hundred and eleven volumes* was drafted eleven times and is now *four hundred volumes* | **PASS after repair** |
 | **`nothing`** | hold down | **49**, average 3.3, against Batch 0003's 32 and Batch 0002's 43 over fifteen | **PASS** |
 | **`about…`** | average under 7.0 | **102**, average **6.8**, against Batch 0003's 97 | **PASS after repair — 217 were drafted and 115 recast out** |
 | **`whole of`** | under 80 volume-wide | **4 in the batch**, against Batch 0003's 1 | **PASS after repair — 39 were drafted and 35 recast out** |
@@ -7079,18 +7082,148 @@ verified against the formula.
 ### THE VOLUME AS A WHOLE, for the close to re-measure and not to carry
 
 **`chapters/volume-11/` holds ch 601–660, sixty chapters. Word counts on method B, measured by this phase's
-`grep -v '^#' <file> | wc -w`:** Batch 0001 **29,284** · Batch 0002 **29,748** · Batch 0003 **29,966** · Batch 0004
-**29,742** — **118,740 over sixty, average 1,979 a chapter.** **TWO DISCREPANCIES THE VOLUME 11 CLOSE INHERITS ARE STILL
-OPEN AND NEITHER IS REPAIRED BY THIS PHASE.** **FIRST:** `state/current.md`, `state/continuity.md` and `state/chapter-summaries.md`
+`grep -v '^#' <file> | wc -w` and re-measured after the review repair below:** Batch 0001 **29,284** · Batch 0002
+**29,748** · Batch 0003 **29,966** · Batch 0004 **29,746** — **118,744 over sixty, average 1,979 a chapter. TWO
+DISCREPANCIES THE VOLUME 11 CLOSE INHERITS ARE STILL OPEN AND NEITHER IS REPAIRED BY THIS PHASE.** **FIRST:**
+`state/current.md`, `state/continuity.md` and `state/chapter-summaries.md`
 all record Batch 0001 at **28,446** words, and ch 601–615 re-measure at **29,284** under the same method that reproduces
 0002 and 0003 exactly. Batch 0001 is a closed phase and this drafting phase may not repair its chapters. **The close
 must re-measure all sixty under one method and write the true figure.** **SECOND: two volume-wide lines are over their targets, and one word this batch had to repair out of its own
-prose is recorded as zero in an earlier batch's budget and is not zero across the volume.** Measured across ch 601–660 on method B by this phase: **`nobody` 34 against a target under
-thirty · `eleven` 42 against a target under forty · `thank` 16, against Batch 0002's recorded 0 for `thank` across
+prose is recorded as zero in an earlier batch's budget and is not zero across the volume.** Measured across ch 601–660 on method B per file by this phase, and re-measured after the repair: **`nobody` 34 against a target under
+thirty · `eleven` 43 against a target under forty · `thank` 16, against Batch 0002's recorded 0 for `thank` across
 ch 616–630 and Batch 0003's measured 0 across ch 631–645, so the sixteen are all in Batch 0001 or Batch 0002** — both
 closed phases. **`forgiv` 0 · `week` 0 · `about` 356, average 5.9, under its line · `whole of` 73, under 80 ·
-`nothing` 209, average 3.5 · `out loud` 254, average 4.2.** The close must walk all four and record the true figures.
+`nothing` 209, average 3.5 · `out loud` 254, average 4.2.** **A THIRD, FOUND BY THE REVIEW AND NEW: the two methods
+disagree because 39 of the 60 files carry no trailing newline, so a chapter's last body line is glued to the next
+file's `# ` title and `grep -v '^#'` no longer removes it. Per file, `nothing` is 209; concatenated with `cat`, it is
+211 — the extra two being ch 649's *The Sky Says Nothing Back* and ch 660's *A Board With Nothing Written On It*. The
+close must pick one method, publish it, and say which number it is quoting.**
 
 **The three Severance days and their intervals, re-derived here rather than carried: 1,842 · 1,917 · 1,997, at
 intervals of 70 · 75 · 80, and 155 from the seventh to the ninth.** **The bracket count must be exactly three in sixty,
 at ch 616, ch 632 and ch 648, and 6 bracket characters in the volume — measured, not carried.**
+
+---
+
+## VOLUME 11 BATCH 0004 — REVIEW REPAIR (applied on the page; findings from `logs/volume-11-batch-0004.review.log`)
+
+**Nine defects closed in place across six chapters. Ch 646–660 were reopened, ch 645 was touched by one word, the
+batch was not restarted, and no beat, day, title, mouth, stage, bracket, irreversible step or planned event moved. The
+plot is the outline's and the planned ending is untouched.** The review found the batch structurally sound — every
+bracket, title, heading, paragraph and hard-prohibition gate clean, every date reproducing under
+`((day − 134) mod 30) + 1`, Severance 9 on its pinned day, the ninth cost named once, the fifth origin mouth on the
+page in Feng's fair hand, and all three irreversible steps irreversible in fact — and returned **six defects that
+needed repair, four mis-transcribed figures, two unverifiable claims in the close prompt, one prompt error, and one
+tightest paragraph in the batch. **The repair went past the review's list and found two more of its own — a clause
+that deferred the ninth stage to the morning after it is taken, and an interval in ch 647 that the chapter's own next
+sentence contradicts — making nine page repairs in all. A tenth, ch 654's three-way date, was found and deliberately
+left. Six further findings were opened and deliberately NOT repaired and are listed at the foot of this section and in
+the close prompt; they are live, not clean.**
+
+| # | Where | Was | Now | The derivation |
+| --- | --- | --- | --- | --- |
+| 1 | **ch 660:113**, the last speech in the volume | *on the fourth of this month **two years ago** in front of **forty people*** | **on the fourth of this month sixty-three days ago in front of thirteen people** | The fourth of the month beginning 1,994 is **day 1,997**. The speech is the sixth hour of the seventh of the month beginning 2,054, **day 2,060**. **2,060 − 1,997 = 63.** *Two years* was out by a factor of eighteen in the volume's final and most-quoted line. The headcount is finding 2 |
+| 2 | **ch 646:123, 127, 129** | *a yard of **forty** · You are telling **forty** people · I am telling **forty** people* | **a yard of thirteen · thirteen · thirteen** | The furnace ground is **thirteen people**, at ch 620, 626, 631, 637, 645 (×2), 647 (×2), 650, 657 and 658 — **ten other statements on the same ground**. ch 646 had it at forty on the day after ch 645 said thirteen, in both speakers' mouths, and ch 660 carried forty forward twice. **The argument the number carries — that she would not have the ninth stage in front of one person — is untouched**; the clause was recast to *in front of one person out of thirteen* so it still reads as the reason she chose the tenth hour, the hour the ground is fullest |
+| 3 | **ch 645:45**, the enumeration behind the label | *Three men were at the mouth. **Ten** more were on the kiln floor* | **Seven** more | **This is the root cause of finding 2 and the review named it as one.** The sentence says *thirteen people on that ground inside a hundred yards* and then enumerates 1 + 1 + 1 + 3 + **10 = 16**. Seven makes the enumeration thirteen. **One word, in a closed phase, on the load-bearing line every other chapter's thirteen rests on.** Batch 0003 is unchanged at 29,966 words |
+| 4 | **ch 659:119** | **thirteen** miles of made road in front of her | **eleven** miles of made road | The map, listed twice, fixes the turn-to-wall leg at **eleven of made road to a gate and two past it to a wall**. Thirteen is the *total*, and she has eleven miles of made road in front of her with the wet ground behind her at the gate. **This is a recurrence of a defect the Volume 10 close already caught and repaired once**: `state/continuity.md` records ch 541 being changed to *thirteen miles of made road* by that close and then **withdrawn and restored to eleven**, because the spine is stated twenty-four times to the made leg and never contradicted. **The spine won last time and it wins now** |
+| 5 | **ch 660:3, 5, 7** | *She walked the **thirteen** miles in the dark* · *Four miles of made road, two miles of wet ground* · *the wall … **two miles of flat** with a fence on the north side* | **seventeen** miles · *Four miles of made road off the rows, two miles of wet ground with a rut in it, and the rest of it made road from the gate to the turn* · the competing *two miles of flat* cut, the fence and the stones kept | ch 659:5 puts the rows *another four past the wall* and the wall thirteen miles east of the turn, so the walk off the crest to the turn is **seventeen**, not thirteen. The breakdown was made to add up, and **the next paragraph's *two miles of flat* described the wall-to-gate leg a second way** — ch 649:121 calls that leg two miles of wet ground with a rut — so it was cut and the two images that carry it stayed. **Note that the cut line was the one that agrees with the Volume 10 spine's *last two miles of flat ground*, and the line kept is the one that disagrees with it. That conflict is unrepaired and is finding 3 below** |
+| 6 | **ch 647:121**, the eve of the ninth | *the day had half an hour left in it and she was **not going to get the ninth stage until the morning*** | *… and **the ninth stage was in the last of it*** | **Found by this repair, not by the review, and it was the batch's worst one.** ch 646 announces the stage at the tenth hour; ch 648 has it *"somewhere in the eighth minute of the tenth hour"* of the same day. ch 647 was handing the volume's centrepiece to the morning after it happened. The overlap of ch 646, ch 647 and ch 648 on day 1,997 is forced and correct — **the sentence was the defect, and it is one clause** |
+| 7 | **ch 647:103, 105**, the heading and the witness line | *## The Sentence She Said In A Yard **Two Days** Ago* · *the thirteen people who had heard her **two days** before* | **…In A Yard Yesterday** · **the day before** | ch 645's sentence was said on the **third** of the month beginning 1,994 and ch 647 is the **fourth** — the next sentence of the same scene says *"I said in this yard on the third of this month."* One day, not two. **The new heading is unique against all 660 standing headings** |
+| 8 | **ch 648:13–19** | *the sound goes into **the ground** · what it took came out of **the ground** under her feet · a thing going into **the ground** … not one on **that ground*** | *… came out **from under** her feet* · *… and there was not one, and there was not going to be* | The review named this as the tightest compression in the batch: **four noun uses of *ground* across three short paragraphs, and one of them in the chapter that names the ninth stage's cost.** Two are cut. The first stands, because it is where the fact is established |
+| 9 | **ch 646:55** — *seen and held, not changed* | *A stage is going to be taken out of me **this morning before the light is properly up*** | *unchanged* | Recorded here so a later phase does not "fix" it as a finding. **She is speaking at the third hour and has not yet chosen the tenth**, and the man of fifty-one's answer — *that is the fourth thing you have said to me in five months that I have not got a column for* — lands on the asking, not on the hour. **The chosen hour is the tenth hour of the same day and the page states it four times over, at ch 646:69, 101, 107, 125 and ch 648:11.** Left as drafted |
+
+### The four mis-transcribed figures, corrected in place
+
+**The drafting phase published a per-chapter table that does not add up.** Its components summed to 29,733 against a
+stated 29,742. Re-measured per file with `grep -v '^#' <file> | wc -w`:
+
+| Ch | Published | True | Why it drifted |
+| --- | --- | --- | --- |
+| 654 | 1,928 | **1,925** | transposed digits |
+| 658 | 1,965 | **1,964** | off by one |
+| 659 | 1,920 | **1,924** | off by four |
+| 660 | 2,096 | **2,105 at review, 2,116 after this repair** | off by nine, and the repair added eleven words to the walk's breakdown and the interval |
+
+**Batch 0004 is 29,746 words, average 1,983. The volume is 118,744 over sixty, average 1,979.** The four figures are
+corrected in this file, in `state/current.md`, in `state/chapter-summaries.md`, in `state/open-threads.md` and in
+`workspace/volume-11-close/PROMPT.md`, and the close is told to re-measure rather than carry any of them.
+
+### What this repair did NOT repair, and why — six live findings
+
+1. **ch 650's span.** Its two going-lighter figures resolve under `D − 1,560` to **day 2,019 and day 2,020**, so the
+   chapter runs **2,014 to 2,020 against the card's 2,011–2,018**. But ch 650:153 names *the seventh day of the month
+   beginning 1,994* = **day 2,000**, and ch 651:111 dates the Hunter's scene to *the ninth hour of the seventh of the
+   month beginning 1,994* = **day 2,000** again and at the wrong hour against ch 650:33's seventh. ch 651:113 and 115
+   both then say **That was two days ago** about a scene six days back. **No day was moved. Moving one is a close's
+   call and the close prompt forbids it.**
+2. **ch 649:63 — *I said one thing in a yard two days ago***, spoken on the sixteenth, about a yard statement made on
+   the third: **thirteen days**. **Not repaired, because the sentence's argument is *I am not doing it twice in seven
+   days*, and no yard statement she made sits inside seven days of the sixteenth.** Fixing the interval means
+   rewriting the logic of the line, which is a scene rewrite.
+3. **Two walls, and a road surface that contradicts the Volume 10 spine.** ch 649:121 puts *the wall with the opening
+   standing open in it, four feet and a bit* two miles east of the furnace ground; ch 660:7 puts a wall with an opening
+   four feet and a bit thirteen miles east of the turn. **The map has one wall, on the turn's road.** Separately, ch 541
+   as settled by the Volume 10 close reads *nine miles of strip road between this post and a turn, and eleven miles of
+   made road between that turn and the wall, and then **the last two miles of flat ground*** — and that close records
+   the spine as *stated twenty-four times to the made leg and never contradicted* — **while ch 649:121 and ch 660:5
+   both call the gate-to-wall leg two miles of wet ground with a rut in it.** Not repaired: choosing between two
+   load-bearing descriptions means moving geography, and the same fix would have to move a wall.
+4. **Eight duplicate `## ` section headings inherited from Batches 0001–0003** — *the asking* (609, 624) · *what came
+   out of the ground* (611, 637) · *what she is left holding* (611, 621) · *why* (613, 621) · *nineteen* (615, 627) ·
+   *the sixth hour* (616, 624) · *what she is left with* (624, 633) · *nineteen years* (628, 642). **Batch 0004's own
+   headings are clean and the one it renamed is unique book-wide.** These sit in closed phases a drafting phase may
+   not reopen.
+5. **The batch's risk profile is exertion, not danger.** Seventeen miles in the dark on an arm open four days in five,
+   four hours on stones by a trough, two coppers she cannot count — real, and it costs her — **and no pursuit, no
+   injury and no hard deadline anywhere in the fifteen chapters.** **As the cards were written. Record it; do not
+   manufacture a threat to fix it.**
+6. **ch 654's internal clock names one scene three days.** He writes the last of it at the **sixth hour of the
+   sixteenth** of the month beginning 2,024, **day 2,039**, stated twice at lines 3 and 27; the same scene is dated
+   **"the second afternoon"** at line 9, **day 2,040**, the day *after* he wrote them; and **the thirteenth** of the
+   month beginning 2,024 at line 11, **day 2,036**, which is ch 653's span. Line 23's *this morning I am going to be
+   the first person in ten years who proves it* agrees with the thirteenth and against the second afternoon. **Not
+   repaired: choosing between them means choosing what caused the fifth origin mouth to be written down, and that is
+   the volume's climax.** Every other going-lighter figure in the batch resolves under `D − 1,560`; this one is a
+   relation between three dates inside a single chapter and no single figure is wrong.
+
+### Two claims in the close prompt that would have been recorded as verified and were not
+
+**`Ning Wu` is not on the page twice.** `grep -oiw "Ning Wu"` across ch 601–660 returns **exactly 1**, at ch 659.
+ch 605 carries only `Ning Yan`. The prompt's cast item said *twice, at ch 605 and ch 659*, and its own instruction was
+to *verify each count by grep and report* — it would have been recorded as verified and would have been wrong.
+
+**Shuyin cannot be counted by name, and asking for it guarantees a false zero.** `Shuyin` returns **0 across the whole
+volume and 0 across the batch**, which is correct and required: he is written as *The Old Man On The Road* in a `## `
+heading at ch 659 and as a man of nine hundred in the body, unnamed and unthanked. **The close is now told to verify
+him by the section heading and the body phrase, and to record the named/unnamed distinction instead of a name count.**
+
+### A prompt error the close must record and must not repair on the page
+
+**`workspace/volume-11-batch-0004/PROMPT.md:103` gives the furnace ground as *154 days east of the turn*. The page
+says sixty-five** — ch 660:71, *at a furnace ground sixty-five days east of here*, and `state/current.md` carries it
+too. **The 154 is a transcription of `state/current.md`'s own line *"Days from the turn (day 1,842) is 154"*, which is
+the days elapsed since Severance 7, not a distance.** The close prompt now carries this in terms: **record the
+conflict, leave both figures standing, do not reconcile the page to the prompt.**
+
+### What the repair verified clean, and re-measured rather than took on trust
+
+Brackets **exactly three in sixty at ch 616, ch 632 and ch 648**, the batch's one character-for-character with the
+other two · **0 bold · 0 blockquotes, fences, tables or rules · 0 all-caps lines · 0 straight quotes or apostrophes
+· 0 paragraphs over 90 words · 0 duplicated sentences of 8 words or more · 0 banned reflexes · 0 authorial
+scaffolding · 0 `thank`, `forgiv`, `week`, `Scribe`, `Hunter`, `Shuyin`, `Ledger`, `reconciled`, `plate`, `licence`,
+`clearance`, `countersignature`, `seal`, `kiln-born`, `MEMBER ABSENT`, `tribulation`, `Anchor`, `Sisterhood`,
+`bargain`, `vouch`, `field agent`, `Wall writ`, `Warden` · `thank` still 0 across the batch · `nobody` still 6 in the
+batch and 34 across the volume · titles still 0 collisions against all 660 standing headings · Batch 0004's `## `
+headings still unique within the batch and against all of Volume 11 · every month-day still reproducing under
+`((day − 134) mod 30) + 1` · **every going-lighter figure in the batch still resolving under `D − 1,560` except
+ch 650's two, which are finding 1 above.** **`eleven` rose from 42 to 43 across the volume because finding 4 had to
+put the map's eleven on the page; the close should read that extra one as the repair's, not as fresh drift.**
+
+### Not touched by this repair
+
+The volume goal · Severance 9 at ch 648 and day 1,997 · the ninth cost, named once · the bracket budget · the five
+origin mouths · the seventh frame scene and the absence of an eighth · the three irreversible steps at ch 653, ch 655
+and ch 658 · the staying · the forty-one strokes · Shuyin walked past, alive, old, correct and not thanked · the road
+up opened at ch 660 · *twenty-two days* still OPEN and placed against no dated interval · the window, the lime and the
+hut light still unspent · `outline/ending.md` not previewed · no new final enemy. **The four wrong word figures and the
+prompt's two false counts were state-file errors, not prose, and are corrected as such above.**

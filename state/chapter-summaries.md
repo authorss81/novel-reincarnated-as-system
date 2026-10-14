@@ -1999,11 +1999,14 @@ refused a fourth. **Day 1,997, the fourth of the month beginning 1,994, is SEVER
 
 ## Volume 11, Batch 0004 (ch 646–660) — *What He Was* — day 1,997–2,060 — VOLUME 11 CLOSED ON THE PAGE
 
-Pressure: **staying**. Fifteen chapters, 29,742 words of body prose on method B — every line not beginning `#` —
-average 1,982 a chapter. **One bracketed layer line, at ch 648, and it is the last one in the volume and the last one
+Pressure: **staying**. Fifteen chapters, 29,746 words of body prose on method B — every line not beginning `#` —
+average 1,983 a chapter. **One bracketed layer line, at ch 648, and it is the last one in the volume and the last one
 in this realm.** Severance 8 until ch 648 and Severance 9 from it. Three irreversible steps: ch 653, ch 655, ch 658.
-Per chapter: 1,841 · 1,956 · 1,812 · 1,853 · 1,821 · 1,839 · 2,368 · 2,300 · 1,928 · 1,955 · 2,051 · 2,028 · 1,965 ·
-1,920 · 2,096.
+Per chapter: 1,841 · 1,954 · 1,807 · 1,853 · 1,821 · 1,839 · 2,368 · 2,300 · 1,925 · 1,955 · 2,051 · 2,028 · 1,964 ·
+1,924 · 2,116. **Every figure on this line was re-measured after the Volume 11 Batch 0004 review repair
+(`logs/volume-11-batch-0004.review.log`), which closed nine defects on the page and corrected four mis-transcribed
+figures; the drafting phase published 29,742 with 1,956 · 1,812 · 1,928 · 1,965 · 1,920 · 2,096, which do not sum to
+their own total. Full record in `state/continuity.md` under ***VOLUME 11 BATCH 0004 — REVIEW REPAIR***.**
 
 - **ch 646, day 1,997 (the fourth of the month beginning 1,994), *What Eighty Days Comes To*. DECISION.** She counts
   the interval out loud in the grit at the foot of the stack — seventy, seventy-five, eighty — and gets to the thing
@@ -2018,7 +2021,8 @@ Per chapter: 1,841 · 1,956 · 1,812 · 1,853 · 1,821 · 1,839 · 2,368 · 2,30
   down a mountain with a lamp in a cage on the fourth landing and a clerk who believed her. **She tells the man of
   fifty-one she is going west in the morning, and he says he will leave her figures up for a month and rub them out on
   the second.** **And she breaks her own sentence in the open: at the ninth hour of the fourth she tells the yard that
-  she said two days ago that she was not going to walk out of this ground, and she is walking out of it.** 437 days.
+  she said yesterday — the third, the day before — that she was not going to walk out of this ground, and she is
+  walking out of it.** 437 days.
 - **ch 648, day 1,997–2,003, *What The Ninth Took Away*. SEVERANCE 9. THE BATCH'S ONE BRACKET.** The tenth hour, in
   the open, with the ground looking on and a line already written in a fair hand. Ten seconds and no sound. **THE COST,
   NAMED ONCE: she cannot go back to not knowing. Not the book and not the brother and not the name — knowing stops
@@ -2104,9 +2108,12 @@ Per chapter: 1,841 · 1,956 · 1,812 · 1,853 · 1,821 · 1,839 · 2,368 · 2,30
   people. She says the levy out loud in a ground of two hundred people. **And her brother tells her he found out about
   the fraction at three and has not said a word to anybody in nine years because if one of them knew, there would be
   nothing on the rows in a month.** She asks him no question. She does not say the other thing. **He does not say her
-  name.** 497–498 days.
-- **ch 660, day 2,059–2,060, *A Board With Nothing Written On It*. THE STAYING. THE END OF VOLUME 11.** Thirteen miles
-  in the dark from the barrow ground to the turn, arriving at the first hour with the board on two posts bare. The woman
+  name.** **She walks west off the crest in the dark with eleven miles of made road in front of her** — the map's
+  figure for the gate-to-turn leg, and the figure the review repair put there in place of a wrong thirteen. 497–498
+  days.
+- **ch 660, day 2,059–2,060, *A Board With Nothing Written On It*. THE STAYING. THE END OF VOLUME 11.** **Seventeen**
+  miles in the dark from the barrow ground to the turn, arriving at the first hour with the board on two posts bare —
+  four off the rows, two of wet ground with a rut in it, the rest made road from the gate. The woman
   of sixty says out loud that she is not going to give her a third copper and is not going to ask her for one. **She
   gets the whole of it out in her own head at the third hour and it is two coppers she cannot count and five blank
   leaves and four sheets of a fair hand.** She looks up and there is nothing over her that anybody can point at and
@@ -2114,8 +2121,10 @@ Per chapter: 1,841 · 1,956 · 1,812 · 1,853 · 1,821 · 1,839 · 2,368 · 2,30
   night because there is no shed at the turn. **At the sixth hour of the seventh she says, once, out loud, standing, in
   daylight: *I am going up*** — and he says *say the rest of it*, and she says she has not got the rest of it, and he
   says that is the first thing she has said in five hundred days that is not a figure. She says she is not going up
-  because he is up there and she does not know whether he is. **She did not say what was going to answer. The sky did
-  not. He was still talking.** 499–500 days.
+  because he is up there and she does not know whether he is. **In this speech the last of the ceiling went into the
+  ground *sixty-three days ago* in front of *thirteen* people** — the review repair corrected a *two years* that was
+  out by a factor of eighteen and a headcount of forty that ten other chapters contradict. **She did not say what was
+  going to answer. The sky did not. He was still talking.** 499–500 days.
 
 ### What Volume 11 closes, and what Volume 12 inherits
 

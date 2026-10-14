@@ -116,4 +116,4 @@ And she went out of the rows and up the rise and stood on the crest in the dark 
 
 She was lighter at the tenth hour of the fifth of the month beginning 2,054 than she was at the seventh hour of it, which is four hundred and ninety-eight days of it, counting the eighteenth of the month beginning 1,544 as the first, and not one of them going back.
 
-And she walked west off the crest in the dark with thirteen miles of made road in front of her and nothing between the gate and the wall to lie down on, and she had said one true sentence out loud in a ground of two hundred people and it had been heard by two hundred and one and it had settled nothing, and not one person in that ground had said her name, and he had not either, and she had said his twice.
+And she walked west off the crest in the dark with eleven miles of made road in front of her and nothing between the gate and the wall to lie down on, and she had said one true sentence out loud in a ground of two hundred people and it had been heard by two hundred and one and it had settled nothing, and not one person in that ground had said her name, and he had not either, and she had said his twice.

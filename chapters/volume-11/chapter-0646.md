@@ -120,13 +120,13 @@ She worked the morning out at the fifth hour and she chose it in the middle of i
 
 The tenth hour is the end of the working day and it is the hour the board goes up and it is the hour this ground is fullest.
 
-She said it out loud to the yard at the ninth hour, in the ordinary voice, standing, with a bar of fire out of the pit in her left hand and her right arm hanging, because she was not going to have one person in a yard of forty when it happened.
+She said it out loud to the yard at the ninth hour, in the ordinary voice, standing, with a bar of fire out of the pit in her left hand and her right arm hanging, because she was not going to have it happen in front of one person out of thirteen.
 
 She said, “At the tenth hour a thing is going to happen to me that will not make a noise and will not be on anybody’s board but mine and his, and I have told him to write it, and I am telling you now so that when the day ends and the board goes up you will have seen the day.”
 
-He said, “You are telling forty people about a hole you have got.”
+He said, “You are telling thirteen people about a hole you have got.”
 
-She said, “I am telling forty people that the day is going to have one thing in it that I have not written down anywhere else.”
+She said, “I am telling thirteen people that the day is going to have one thing in it that I have not written down anywhere else.”
 
 And then she stood at the west end of the yard and waited for the tenth hour with her hands at her sides and the furnace making noise behind her the whole time, and she was lighter at the fifth hour of the fourth of the month beginning 1,994 than she was at the second hour of it, which is four hundred and thirty-seven days of it, counting the eighteenth of the month beginning 1,544 as the first, and not one of them going back.
 

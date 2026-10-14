@@ -42,7 +42,7 @@ She said, “It is the only thing I have got.”
 
 She stood at the west end of the long window in the low at the sixth hour of the third of the month beginning 1,994, with the board on the nail behind her and her own figures on it, and the man of fifty-one sitting at the plank table writing, and the boy of fifteen at the stack calling the first figure of the day.
 
-And there were thirteen people on that ground inside a hundred yards. The man of seventy-one was on his bench at the north end. The woman of forty-five was in the doorway of the low house with the book. The man of fifty was coming off the floor with a bar over his shoulder and ash on both his forearms. Three men were at the mouth. Ten more were on the kiln floor and along the north wall.
+And there were thirteen people on that ground inside a hundred yards. The man of seventy-one was on his bench at the north end. The woman of forty-five was in the doorway of the low house with the book. The man of fifty was coming off the floor with a bar over his shoulder and ash on both his forearms. Three men were at the mouth. Seven more were on the kiln floor and along the north wall.
 
 She did not ask any of them to be there.
 
