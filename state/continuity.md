@@ -6533,3 +6533,61 @@ paper against her ribs never named, and six blank leaves.** A furnace east of he
 no unit on it. The window unasked, the lime left with her hand four inches off the bar, the hut light standing. One
 elementary count of the days of going lighter, derivable only from the day. **Nothing forgiven, nothing thanked, no
 mother's name said, no romance, and a brother nine miles east who will not walk with her.**
+
+---
+
+## VOLUME 11 BATCH 0001 — REVIEW REPAIR (thirteen findings closed in place)
+
+**Full narrative record: `state/current.md`, *VOLUME 11 BATCH 0001 — REVIEW REPAIR APPLIED*.** This file carries only
+what a later drafter can get wrong by accident. Nothing here is a proposal; every line is now on the page or in the
+next prompt.
+
+### HARD CANON, settled by this repair, to be inherited and not re-derived
+
+| Thing | The one true value | Where it came from |
+| --- | --- | --- |
+| Turn → wall | **thirteen miles** — eleven of made road to the gate, two past it, nothing to lie down on | ch 603, and `state/current.md`'s own *the turn is thirteen miles west of the wall* |
+| Post → wall | twenty-two miles end to end (nine of strip road to the turn + thirteen) | the figure the draft was wrongly borrowing for the turn |
+| The keeper's post | **NINE MILES WEST of the turn**, past the mill, chain in a burn in a cut | v10 ch 539 · 543 · 555 · 560 · 561 |
+| Lane with the stone face | four miles west of the turn | ch 585, ch 600, the ch 560 conflict is not held |
+| Mill / cottage | five miles west / four miles west, in that order | ch 604, ch 605 |
+| Store | behind the mill, fourteen miles from the post | v10 |
+| Her standing at the turn | **the eighteenth to the twenty-ninth of the month beginning 1,814**, day 1,831–1,842; **the twenty-ninth is the day of Severance 7** | derived once, on the page, at ch 601 |
+| Board | the second of a month; she must be at a face on the first. Next one: **day 1,845** | ch 601, ch 611 |
+| Going-lighter | **D − 1,560**, anchored on the **eighteenth of the month beginning 1,544 = day 1,561** | 22 v10 pages; untouched |
+| The lime / wheel / boy behind the last barrow | all on **the twenty-seventh of the month beginning 1,805** | the ch 612 repair |
+| The place behind her fourth rib | **the eighteenth of the month beginning 1,544** — nine days earlier than the three above | canon, never moved |
+
+**Nine years is two dates nine days apart.** No chapter may put the four of them back on one line.
+
+### Drafted chapter days, as the pages now stand
+
+601 the eighteenth (1,831) · 602 the nineteenth · 603 the twentieth into the twenty-first · 604 the twenty-first ·
+605 the twenty-second · 606 the twenty-third · 607 the twenty-third · 608 the twenty-fourth · 609 the twenty-fourth ·
+610 the twenty-fifth · 611 the twenty-sixth · 612 the twenty-seventh · 613 the twenty-seventh into the twenty-eighth ·
+614 the twenty-eighth · 615 the twenty-eighth (1,841). **This runs one day later than the Batch 0001 card for ch 612
+and ch 613; the page dates and the weight figures are consistent with each other and the cards were not re-planned.**
+
+### THE SIX SENTENCES, defined
+
+Given at the turn on the twenty-fourth by a man of forty-five who wanted nothing: the boy weighed them before they went
+in · nobody pays him, his father fires · a boy who counts what nobody is paying him to count is a boy the furnace will
+use · it is not the same thing as keeping and not one man at a fire thinks it is, and the only people who ever found
+the difference out were the ones it was done to · it happened without anybody meaning it and not one man there was
+cruel · he had a name and nobody at that fire used it. **Ch 608 counts them on the page; ch 609, ch 610, ch 613 and
+ch 614 quote the artifact. They are spent. A chapter that puts him in a room again must not re-offer them as new.**
+
+### The question she has carried, dated
+
+Since the **fifteenth of the month beginning 1,634** — the question that got no answer back, and the moment ch 606
+reconstructs. It was not *the month beginning 1,574* and it was never eight years. Asked out loud at ch 609 on day
+1,837. It cannot be un-asked.
+
+### Not touched by this repair
+
+The plot, the volume arc, the ch 609 irreversible step, the three Volume 10 costs, the terms (one at a time · in
+daylight · done standing), the lever declined at ch 609 and ch 614, `Yuan Sheng` first named in a widow's mouth at
+ch 617 and first written at ch 624, the five origin mouths, the seventh frame scene at ch 644, Feng at ch 652–655, the
+staying at ch 658, and *twenty-two days* still OPEN and placed against no dated interval. **`state/continuity.md:5072`'s
+eleven seconds is the ch 563 keeper at a bare stone and is a different event from ch 611's ten seconds; do not
+"correct" it.**

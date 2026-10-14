@@ -1,4 +1,4 @@
-# Six Coppers The Four Miles
+# A Rate With An End In It
 
 Wei Ran’s team came along the four miles at the fourth hour of the twenty-third of the month beginning 1,814 with stone on and no board, and stopped where there is room to stop, and she said the rate before Ning Yan had the bag off her shoulder.
 
@@ -40,7 +40,7 @@ Wei Ran did not count them either. She put them into a box under the seat withou
 
 “I have not got a fortnight.”
 
-“No,” Wei Ran said. “You have got none.”
+“No,” Wei Ran said. “You have got none. You have got until the twenty-ninth of this month and not a day past it, and I have carried for men who thought the same thing on the eighteenth.”
 
 ## The Opinion
 
@@ -62,7 +62,7 @@ She said, “I know. I worked it out on the twenty-first.”
 
 Wei Ran said, “Then why are you sitting in my cart.”
 
-“I have seven coppers that I cannot count and a loaf and four days of standing left,” Ning Yan said, “and this is the only arrangement I have made with anybody in a year.”
+“I have seven coppers that I cannot count and a loaf and six days of standing left,” Ning Yan said, “and this is the only arrangement I have made with anybody in a year.”
 
 Wei Ran put the reins down and looked at her for a second.
 
@@ -122,15 +122,15 @@ At about a mile out the arm went properly and stayed gone, and she could not hav
 
 She did that on the kerb with the light going, because she counts and because a woman with one copper has to know the shape of the ground.
 
-The board. The second of the month, eleven days off, and to be paid she has to be on the face on the first, and the face is four miles west and it is stone by weight and it is not a thing a girl with one arm open does in a day and then walk eleven miles east.
+The board. The second of the month, nine days off, and to be paid she has to be on the face on the first, and the face is four miles west and it is stone by weight and it is not a thing a girl with one arm open does in a day and then walk four miles east.
 
 The lane. Four miles west with a woman of fifty at forty feet of it, who put a loaf in her hand once without being asked and has not done it since, and who is not going to, and who would not say why.
 
 The mill. Five miles west, four people, a wheel that has not turned in nine years, and no work, because a wheel is the work.
 
-The post. Nine miles east and a keeper of fifty-five who keeps a chain and has a flat stone at the foot of a ladder that is bare and is going to stay bare.
+The post. Nine miles west, past the mill and the lane, and a keeper of fifty-five who keeps a chain and has a flat stone at the foot of a ladder that is bare and is going to stay bare.
 
-The barrow ground. East past a gate and a wall, twenty-two miles, about two hundred people, nobody paid, no board, no chalk.
+The barrow ground. East past a gate and a wall, thirteen miles, about two hundred people, nobody paid, no board, no chalk.
 
 Five places. Four of them are places where a person might feed her and all four of them have a price she does not have.
 
@@ -156,7 +156,7 @@ He said, “You will not last until the board on that.”
 
 She said, “I am not going to the board.”
 
-She said, “One copper and four days of standing and no rate on this ground after today, and I am not going to a lane to be fed by a woman who has already decided what I cost.”
+She said, “One copper and six days of standing and no rate on this ground after today, and I am not going to a lane to be fed by a woman who has already decided what I cost.”
 
 He said, “Then that is six places and five of them are shut.”
 

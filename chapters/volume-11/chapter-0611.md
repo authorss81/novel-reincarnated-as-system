@@ -102,9 +102,9 @@ Then she put the bar on her shoulder and went and sat on the kerb by the trough 
 
 Two coppers a loaf at the store and the board goes down on the second of the month.
 
-The second of the next month is a fortnight off. She has one copper. She has a bar and three-quarters of a loaf with a piece out of it and a bag and a book with six leaves in it that are hers and blank.
+The second of the next month is six days off. She has one copper. She has a bar and three-quarters of a loaf with a piece out of it and a bag and a book with six leaves in it that are hers and blank.
 
-So the best day she has had in two years is worth a figure she cannot hold, a fortnight, and the use of an arm.
+So the best day she has had in two years is worth a figure she cannot hold, six days, and the use of an arm.
 
 He said, at the eleventh hour of the twenty-sixth, “You worked a day past the line.”
 

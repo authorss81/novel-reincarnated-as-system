@@ -56,7 +56,13 @@ She did not ask the woman a single question. She has spent ten years asking ques
 
 She ate a quarter of it sitting on the wall of the mill yard at the third hour and it was the first bread she has bought in her life.
 
-That is the whole of it and it took three coppers’ worth of walking and a quarter of an hour and she is aware of how small that is.
+And she sat there with the rest of it in her lap doing the thing her body does, which is to put the whole of it in the same place as the sum. Ten days to the board. A quarter of a loaf in a cloth and seven coppers in the front of a bag.
+
+She worked it out on the wall with her mouth full and got the same answer she has got every morning since the eighteenth, which is that the loaf is four days and the sum is five, and that on the fifth she will be walking.
+
+There is no arithmetic on nine days of road that changes that. She knows it and she has been walking on it since the first hour with her right arm out in front of her, and the loaf is in her lap and the mill wheel is four inches off her back and it has not turned since she was ten.
+
+That is the whole of it and it took two coppers and five miles of walking and a quarter of an hour and she is aware of how small that is.
 
 But here is the part she has not got past.
 
@@ -124,9 +130,9 @@ He said nothing at all while she worked it out. He has not been in her head once
 
 She was lighter at the ninth hour than she was at the fifth. Two hundred and seventy-five days of it, counting the eighteenth of the month beginning 1,544 as the first.
 
-She has bread and a number she said out loud and seven coppers she cannot count, and she ate, and she is not going to be able to buy anything at all with any of it before the board goes down in a fortnight.
+She has bread and a number she said out loud and seven coppers she cannot count, and she ate, and she is not going to be able to buy anything at all with any of it before the board goes down in ten days.
 
-Seven days of standing left at the turn. Four of them east of her, four of them west of her, and a bar on two posts with nothing on it, and she is going to get to the end of that on foot with a loaf in her bag and she has not the least idea in the world what she is going to do on the last of them.
+Seven days of standing left at the turn. Four of them east of her and three of them west of her, and a bar on two posts with nothing on it, and she is going to get to the end of that on foot with a loaf in her bag and she has not the least idea in the world what she is going to do on the last of them.
 
 He said, “You will do something.”
 

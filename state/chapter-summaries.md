@@ -1664,7 +1664,7 @@ One irreversible step, at ch 609. Fifteen titles, none colliding with the 600 st
   figure** for the first time since the eighteenth of a month beginning 1,814, and works out that she spent the count on a
   voice. On the flat past the wall the count she cannot start produces **twenty-two** with no unit on it, and it goes when
   she stands. 272 days, carried.
-- **ch 604, day 1,834 (the twenty-first), *Eight Miles On A Bad Arm*.** Four miles west to the cottage with the shut door at
+- **ch 604, day 1,834 (the twenty-first), *The Mile She Did Not Walk*.** Four miles west to the cottage with the shut door at
   the stopped lime bed. She does not touch the bar on the door. She looks for six things a boy of nineteen leaving at dusk
   would have left and finds none, because he did not stop, and he is going a mile further on to a mill with a man of
   seventy in it. **She turns round at the shut door, one mile short of him, because going to the mill would be following
@@ -1677,13 +1677,13 @@ One irreversible step, at ch 609. Fifteen titles, none colliding with the 600 st
   *that is a trade*, and goes on.** Five sentences in nine years and three of them are of bread. The bill for turning round
   is the whole of it. 275 days. Seven coppers left.
 - **ch 606, day 1,836 (the twenty-third), *The Kind Of Person Who Asks*. MIDPOINT.** She counts every question she has ever
-  put to him — eight in eight years — and they all want a figure, a day, a yes, a no or a word with a meaning, and **every
-  one of them had somewhere to go.** The question she has carried since the month beginning 1,574 does not, and there is no
+  put to him — eight of them — and they all want a figure, a day, a yes, a no or a word with a meaning, and **every
+  one of them had somewhere to go.** The question she has carried since the fifteenth of the month beginning 1,634 does not, and there is no
   book, no column, no board and no wall left to put it in. What she works out at the fifth hour is that **she has been the
   filing for eight years** and not one answer was ever in a book. The lever is taken out, turned over, and put away: a
   thing you can ask twice is a thing you can be refused twice. **DECISION, said out loud on the bench: *I can ask him.*** And
   the second half: she will not do it with nothing in her hand.
-- **ch 607, day 1,836 (the twenty-third), *Six Coppers The Four Miles*.** **Wei Ran's last rate on this ground: six coppers
+- **ch 607, day 1,836 (the twenty-third), *A Rate With An End In It*.** **Wei Ran's last rate on this ground: six coppers
   the four miles, said out loud going out and said out loud coming back, the bar in the cart and not on the seat.** One
   carrying, one opinion, no thank you, no question either way, no romance. Wei Ran: *there is no rate after this one and
   no man west of this turn who would carry a bar for money.* She spends six of seven coppers and counts what is left twice
@@ -1715,13 +1715,15 @@ One irreversible step, at ch 609. Fifteen titles, none colliding with the 600 st
 - **ch 611, day 1,839 (the twenty-sixth), *The Best Day She Has Had*.** The stone face, four miles west, six hours to nine,
   measured by weight and not by hands, a man with a chalk on a string. **She puts up more stone in three hours than in any
   day in two years and does not stop at the ninth hour.** The little open place behind her fourth rib goes quiet and then
-  does not; eleven seconds; no sound in it; **what it took came out of the ground under her feet and not out of her hands.**
+  does not; ten seconds; no sound in it; **what it took came out of the ground under her feet and not out of her hands.**
   He says nothing about it, as he has said nothing through all nine. **Cost: she says the figure back to herself four times
   and gets eleven, eleven, twelve, eleven. She will be able to say she worked. She will not be able to say how much.** Worth
-  eleven coppers she cannot count, a fortnight, and the use of an arm. 279 days.
-- **ch 612, day 1,840 (the twenty-seventh), *The Eighteenth Of A Month*.** Nine years back from today is **the eighteenth of
-  the month beginning 1,544**, and four separate things stopped or opened on that one date: the lime, the wheel, a boy of ten
-  going east behind the last barrow, and the small open place in her. **At the fifth hour and forty minutes the woman of
+  eleven coppers she cannot count, six days, and the use of an arm. 279 days.
+- **ch 612, day 1,840 (the twenty-seventh), *The Two Dates*.** Nine years back from today is **the twenty-seventh of
+  the month beginning 1,805**, and three separate things stopped on that one date: the lime, the wheel, and a boy of ten
+  going east behind the last barrow. **The fourth thing is hers and it is nine days earlier** — the small open place in her,
+  the eighteenth of the month beginning 1,544 — and *nine years is not a length on this ground, it is two dates nine days
+  apart*. **At the fifth hour and forty minutes the woman of
   sixty turns her head about a foot and looks at the place behind her fourth rib through the front of the coat, and knows
   where to look, and holds it four seconds.** Ning Yan does not ask her one question and has gone over every hour since.
   **For nine years she has been looked for and never once looked at; and this is what looking at feels like.** He admits he

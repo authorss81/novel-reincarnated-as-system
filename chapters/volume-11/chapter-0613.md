@@ -78,7 +78,7 @@ She made herself go through it, out loud, on a kerb in the dark, because she cou
 
 The six sentences a man of forty-five gave her at the turn on the twenty-fourth. They are the only thing anybody has handed her in a year that was not in exchange for a figure, and there is nowhere in the world she may write them down.
 
-The date of the eighteenth of the month beginning 1,544, and the four things that are on it, and the lime and the wheel and the boy behind the last barrow and the hole in her.
+The date of the twenty-seventh of the month beginning 1,805, and the three things that are on it, and the lime and the wheel and the boy behind the last barrow. And the eighteenth of the month beginning 1,544, and the hole in her, nine days earlier.
 
 Eleven barrows on a stone face on the twenty-sixth.
 
@@ -156,4 +156,18 @@ He said, “Yes.”
 
 She said, “And that is not nothing, and I am going to be nineteen for another year, and I am going to need a great deal of things that cannot be sent a clerk to, and I am not writing in them tonight because tonight is for the question.”
 
-And she put the bag on her left shoulder and got the bar off the ground with two hands, and the right arm went, and she did not try to hold it, and that is the last thing she did before the light.
+And she put the bag on her left shoulder and got the bar off the ground with two hands, and the right arm went, and she did not try to hold it.
+
+Then she stood in the dark on a road with nothing on the board and put her hand flat on the place against her ribs where six pieces of a blanket had been sitting for four months, and said one more thing out loud.
+
+“Not one of them,” she said. “Not a line. And that is what I am going to the sixth hour of the twenty-eighth with.”
+
+He said, “You are going with nothing in your hand.”
+
+She said, “I am going with six sentences and six leaves and I am not putting a single thing on any of them.”
+
+He said, “That is the first time you have said a thing like that about a thing you own.”
+
+She said, “It is the first time there has been anything of mine to say it about.”
+
+And that was the whole of the twenty-seventh of the month beginning 1,814, and she lay down on the stones a hundred yards north of the turn with the bar under her head and did not sleep, and at the fifth hour of the twenty-eighth of the month beginning 1,814 she was on her feet before the light, with one question and four hours and the board four hundred yards east with nothing chalked on it.

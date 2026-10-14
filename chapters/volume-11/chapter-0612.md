@@ -1,14 +1,14 @@
-# The Eighteenth Of A Month
+# The Two Dates
 
 She did the arithmetic on the twenty-seventh of the month beginning 1,814 at the fifth hour, standing at the trough with the bar across her knees, because she counts and because for the first time in ten years she had a date to count back from.
 
-Nine years back from the twenty-seventh of the month beginning 1,814 is the eighteenth of the month beginning 1,544.
+Nine years back from the twenty-seventh of the month beginning 1,814 is the twenty-seventh of the month beginning 1,805, and she wrote that down first because it is the half of the sum that comes out even.
 
 She wrote it in the dust at the foot of the trough with the end of one finger and sat and looked at it.
 
-## Four Things On One Date
+## Four Things On Two Dates
 
-She went through what she knows about this ground and she put four of them on the eighteenth of the month beginning 1,544 and they all fitted.
+She went through what she knows about this ground and she put three of them on the twenty-seventh of the month beginning 1,805 and they all fitted.
 
 The lime at the cottage went hard that year. The miller has said nine years and says it the way a man says a thing that happened to a wheel he was standing next to.
 
@@ -16,7 +16,7 @@ The wheel on the mill has not turned since. Four people live in the building. Tw
 
 And a boy of ten went east that year, behind the last barrow, because he would not get up on one. He was fed on the road. He was nine years in that ground before she found him in person and he said *you are shorter*, and he does not know what a list is.
 
-And the fourth thing is hers.
+And the fourth thing is hers, and hers is nine days earlier than the other three.
 
 The small open place low behind her fourth rib, the size of a coin, opened on the eighteenth of the month beginning 1,544 and has not closed, and she has been lighter every single day since that eighteenth and not one of them going back.
 
@@ -24,11 +24,11 @@ The small open place low behind her fourth rib, the size of a coin, opened on th
 
 She sat on the kerb with that for a while and worked out what it meant and it took longer than the sum.
 
-Nine years is not a length on this ground. It is a date. Everything that stopped, stopped on one day, and the day is the day the place in her opened.
+Nine years is not a length on this ground. It is two dates, and there are nine days between them. Everything on this road that stopped, stopped on the twenty-seventh of a month beginning 1,805, and the place in her opened nine days before it.
 
-She had put those two things in different places for nine years. She had a body and she had a road and she had never once set them down next to each other, and it turns out that they are the same nine years and it turns out that she is the only person on nine days of road who can date any of it.
+She had put those two things in different places for nine years. She had a body and she had a road and she had never once set them down next to each other, and it turns out that they are the same nine years and nine days, and it turns out that she is the only person on nine days of road who can date any of it.
 
-Nine years of a lime bed and a wheel and a boy and a hole in her chest, and four separate memories, and one number.
+Nine years of a lime bed and a wheel and a boy and a hole in her chest, and nine days of nothing at all in between the last of them and the first, and one number.
 
 ## The Boy Behind The Last Barrow
 
@@ -44,7 +44,7 @@ And yet he did it, and he has been fed, and he has hands like their father’s, 
 
 She has had nine years to turn that over and it has never once come out even.
 
-And she wrote the eighteenth of the month beginning 1,544 in the dust again underneath the first one, so that the boy and the hole in her were on the same line, and they were, and it did not help.
+And she wrote the eighteenth of the month beginning 1,544 in the dust underneath the twenty-seventh of the month beginning 1,805, so that the boy and the hole in her were on the page together, and the gap between the two lines was nine days, and she stood looking at nine days for a long time, and nine days is the width of a barrow track and it is not worth a line of a woman’s hand.
 
 ## The Bench
 
@@ -104,7 +104,7 @@ She got that out at the sixth hour on the kerb with the last of the light off th
 
 One morning. The sixth hour of the twenty-eighth of the month beginning 1,814. Daylight, the turn, one at a time, out loud, and a carter can stop and look, and the only witness she will have is a man saying good on a cart.
 
-And she has been carrying a question since the month beginning 1,574 and has never once known what she wanted out of it, and on the twenty-seventh she worked out that she has been carrying it as a shape and not as a want.
+And she has been carrying a question since the fifteenth of the month beginning 1,634 and has never once known what she wanted out of it, and on the twenty-seventh she worked out that she has been carrying it as a shape and not as a want.
 
 She wants one number. That is all she has, and it is too small to say to him, and it is not one at a time.
 

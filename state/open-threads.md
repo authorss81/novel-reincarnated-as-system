@@ -2612,8 +2612,10 @@ chapter, zero bracketed layer lines, Severance 6 throughout, one irreversible st
 6. **A FURNACE, A NUMBER, NINETEEN.** ch 615. *Two hundred and forty courses in a day at six hundred and forty to a
    course.* **East of here, not this sect.** She took no fourth thing.
 7. **SHE HAS A PLACE TO WALK TO.** The east, past a gate and a wall and a flat, to a furnace nobody has walked her to.
-8. **THE BENCH LOOKS BACK.** ch 612. The woman of sixty knows where to look. **The eighteenth of the month beginning
-   1,544 is one date and the lime, the wheel, the boy of ten and the aperture are all on it.**
+8. **THE BENCH LOOKS BACK.** ch 612. The woman of sixty knows where to look. **Two dates, not one: the lime, the
+   wheel and the boy of ten are all on the twenty-seventh of the month beginning 1,805, and the aperture is on the
+   eighteenth of the month beginning 1,544, nine days earlier. The chapter is called *The Two Dates* and no card may
+   put the four of them back on one line.**
 9. **THE ONE COUNT THAT HELD.** ch 613. Six leaves, five counts, six every time, because a leaf does not go anywhere
    when you count it. **Nothing was written in them and the nib was not near them.**
 
@@ -2635,7 +2637,7 @@ the weight-loss count, **derivable only from the day, at D − 1,560** · a furn
 hundred and forty bricks to a course and two hundred and forty courses · nineteen, which is his age and not a date ·
 **twenty-two with no unit on it, open and unplaced, and no card may equate it to a dated interval** · the window a
 hundred yards off the east side, unasked, four questions unspent · the lime left with her hand four inches off the bar ·
-the hut light standing · the barrow ground twenty-two miles east · the sister alive east in it, unforgiving, and her
+the hut light standing · **the barrow ground THIRTEEN MILES EAST OF THE TURN — twenty-two is the post-to-wall figure and is never the turn-to-wall figure** · **the keeper's post is NINE MILES WEST of the turn, not east** · **the question she has carried is dated the fifteenth of a month beginning 1,634, not a month beginning 1,574** · **the six sentences are defined and spent and may not be re-offered as new** · the sister alive east in it, unforgiving, and her
 one meeting in this batch spent · the Hunter pending · Shuyin alive and old and returning, not thanked · Feng dead
 after ch 655 and not before · **Yuan Sheng 0 across the batch and not to be named before ch 617** · `Scribe` 0 this
 batch, 3 permitted volume-wide, and never speaking · `Ledger` 0 · the surface answer never re-voiced · **the year of
@@ -2652,3 +2654,22 @@ non-forgiveness not mentioned once** · no harem, nothing a romance, no mother's
   seven short sentences, and the writing saved nobody.**
 - **The Batch 0001 mouth must not be repeated, quoted or restated in a second mouth.** The name `Yuan Sheng` first
   goes on the page at ch 617 and in her own book at ch 624, and Batch 0001 wrote it nowhere.
+
+### Added by the Volume 11 Batch 0001 review repair
+
+- **HER STANDING RUNS OUT ON THE TWENTY-NINTH of the month beginning 1,814, which is day 1,842 and the day of
+  Severance 7.** The draft had four different end-days in fifteen chapters. *Days of standing left* means days
+  remaining **after** today: the eighteenth eleven · twenty-first eight · twenty-second seven · twenty-third six ·
+  twenty-fourth five · twenty-fifth four · twenty-sixth three. **The answer window of ch 610–615 is the twenty-sixth,
+  twenty-seventh and twenty-eighth**, and the twenty-ninth was never available to her.
+- **A BOARD GOES DOWN ON THE SECOND OF A MONTH and she must be at a face on the first. The next is day 1,845** —
+  fourteen days off the eighteenth, eleven off the twenty-first, ten off the twenty-second, nine off the twenty-third,
+  six off the twenty-sixth, three off the twenty-eighth. **Standing runs out three days before the work does.**
+- **CH 611'S MERIT IS TEN SECONDS, not eleven.** `state/current.md` and `state/chapter-summaries.md` were wrong and
+  are corrected. The *eleven seconds* at `state/continuity.md:5072` is the ch 563 keeper at a bare stone and is a
+  different event; do not "correct" it.
+- **Titles now stand as:** 601 *The Bar Laid Down* · 602 *What The Nine Came To* · 603 *A Voice With No Address* ·
+  604 **The Mile She Did Not Walk** · 605 *The Loaf And The Number* · 606 *The Kind Of Person Who Asks* ·
+  607 **A Rate With An End In It** · 608 *What A Furnace Uses* · 609 *Before You Started Counting* ·
+  610 *Waiting With No Road In It* · 611 *The Best Day She Has Had* · 612 **The Two Dates** ·
+  613 *The Count That Held Twice* · 614 *Asking Twice* · 615 *Six Hundred And Forty*.

@@ -82,7 +82,7 @@ At the sixth hour she stood on the stones and said out loud, in the ordinary voi
 
 That is two things said out loud where two people could hear, and one of the two people did not move.
 
-And then she did a thing she has not done since the month beginning 1,574, which is to ask the air for a number and wait for one, the way a girl asks a floor.
+And then she did a thing she has not done since the fifteenth of the month beginning 1,634, which is to ask the air for a number and wait for one, the way a girl asks a floor.
 
 She said, “What is the hour at which I stop.”
 
@@ -110,7 +110,7 @@ That is what she is asking with. A thing a stranger said to her about a stranger
 
 She made herself put it in one place before the hour, because she has learned in nine days that a thing carried sideways gets spent sideways.
 
-A fortnight of standing at a turn after the eighteenth of the month beginning 1,814. Four hundred yards east to a board. Eight miles west on a bad arm. Nine coppers she cannot count, reduced to one. A shut door she did not open. A brother going west. Six sentences from a man of forty-five. One question on a stone face about a day in a person’s life.
+Eleven days of standing at a turn after the eighteenth of the month beginning 1,814. Four hundred yards east to a board. Eight miles west on a bad arm. Nine coppers she cannot count, reduced to one. A shut door she did not open. A brother going west. Six sentences from a man of forty-five. One question on a stone face about a day in a person’s life.
 
 That is everything she has spent since the eighteenth of the month beginning 1,814, and it came out of two hundred and eighty-one days of going lighter and one arm, and it got her one question.
 

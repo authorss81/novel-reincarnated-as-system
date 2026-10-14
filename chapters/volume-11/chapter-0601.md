@@ -58,9 +58,9 @@ She stood there for a while with that.
 
 She stood at the post and worked the eighteenth out in her head the way she works every day out, and here is all of it.
 
-East, nine miles, a post with a keeper of fifty-five on it and a chain in a burn in a cut. West, four miles, a cottage with a shut door at the mouth of a lime bed that stopped nine years back. Four hundred yards east, a board with nothing on it.
+East, four hundred yards, a board with nothing on it. East, thirteen, a gate and a wall with an opening standing open in it and nothing in between to lie down on. West, four miles, a cottage with a shut door at the mouth of a lime bed that stopped nine years back. West, nine, a post with a keeper of fifty-five on it and a chain in a burn in a cut, past the mill.
 
-Nine miles east, four miles west, four hundred yards. That is what nine days of road offers a person who is standing still.
+Four hundred yards, thirteen, four, nine. That is what nine days of road offers a person who is standing still.
 
 And the wages were the other half of it, because she is a person with no place and no board and no road, and a board goes down to the store on the second of a month, and the store gives out what the board says. The next one is fourteen days off.
 
@@ -70,7 +70,7 @@ She worked that out at the second hour and had not known it at the first, and kn
 
 Then she did the one that took longer, and it took her forty minutes standing in the frost with her hand on the post.
 
-She can stand at this turn for a fortnight and on the fifteenth she has to go and do something about bread, or she has to be somewhere a person might feed her, and she has worked out that both of those are the same walk in four different directions and she does not want to do any of them.
+She can stand at this turn for eleven more days and on the twelfth she has to go and do something about bread, or she has to be somewhere a person might feed her, and she has worked out that both of those are the same walk in four different directions and she does not want to do any of them.
 
 Fourteen days to a board. Eleven days to the end of standing.
 
@@ -86,11 +86,11 @@ Flat on the stones at the side of the road, parallel to the road, the stone end 
 
 And then she stood with her hand still on it and worked out why.
 
-Things happen to her. That is the shape of the whole thing. Things happened to her at a wall twenty-two miles east and things happened to her in a barrow ground past that wall and things happened to her at a counter with nine coppers on it, and she has never in her life had to stand still and let a thing happen to her, because standing still is the only thing she owns that nothing can be done to.
+Things happen to her. That is the shape of the whole thing. Things happened to her at a wall thirteen miles east and things happened to her in a barrow ground past that wall and things happened to her at a counter with nine coppers on it, and she has never in her life had to stand still and let a thing happen to her, because standing still is the only thing she owns that nothing can be done to.
 
 So she is going to find out where it is.
 
-Not today. Today is the eighteenth, and the arm is out, and there are nine days of road in three directions and none of them is a direction the talking is in.
+Not today. Today is the eighteenth, and the arm is out, and there are nine days of road in four directions and none of them is a direction the talking is in.
 
 ## The Bench On The Eighteenth
 

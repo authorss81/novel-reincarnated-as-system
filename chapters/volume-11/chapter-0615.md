@@ -1,6 +1,6 @@
 # Six Hundred And Forty
 
-She carried the bar a hundred yards off the road at the seventh hour of the twenty-eight of the month beginning 1,814, put it down flat in the broken ground on the north side of the turn, and turned round and faced the road.
+She carried the bar a hundred yards off the road at the seventh hour of the twenty-eighth of the month beginning 1,814, put it down flat in the broken ground on the north side of the turn, and turned round and faced the road.
 
 Daylight. A made road with a bench on it, a woman of sixty thirty feet off on the bench, a bar on two posts four hundred yards east with nothing chalked on it, and the whole of the east road going away toward a gate and a wall.
 
@@ -96,7 +96,7 @@ He said, “No. You have never once said no to it and it is the only piece of gr
 
 She did not ask the second thing.
 
-She had a rule and she had made the rule on the sixth stage and she had carried it for nine years and it was the only piece of the whole arrangement she had never once broken.
+She had a rule and she had made the rule on the sixth stage and it was sixty-nine days old and it was the only piece of the whole arrangement she had never once broken.
 
 He gave her a furnace. A number. Nineteen. Three things where she had asked for one, and she stood there and looked at all three of them and did not take a fourth.
 
@@ -166,7 +166,7 @@ She said, “And you counted bricks.”
 
 He said, “Six hundred and forty to a course.”
 
-And that is the whole of what she got on the twenty-eighth of the month beginning 1,814, and she is nineteen, at six stages past a ceiling, with one copper she cannot count and a quarter of a loaf and six blank leaves that are hers and a bar nine feet nine, and she is lighter on this morning than she was on the eighteenth of the month beginning 1,544 by two hundred and eighty-one days, and not one of them going back.
+And that is the whole of what she got on the twenty-eighth of the month beginning 1,814: a furnace, a number, and nineteen. She is nineteen herself, at six stages past a ceiling, one copper the lighter for it and the coppers the one thing she cannot count, and she is lighter on this morning than she was on the eighteenth of the month beginning 1,544 by two hundred and eighty-one days, and not one of them going back.
 
 And she has a place to walk to.
 

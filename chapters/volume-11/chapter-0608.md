@@ -98,22 +98,6 @@ He said, “Then nobody can tell you, and I have been twenty years at that fire 
 
 That is all he said on it. She believes every word of it and it did not make her feel one inch better.
 
-## What She Asked Last
-
-She asked it at the eighth hour, standing four feet off him in a cart track with lime in the ruts, flatly, and she was not ready for what it did.
-
-“What was he called.”
-
-“He had a name and nobody at that fire used it.”
-
-She said, “Why not.”
-
-He said, “Ask anybody on that floor and they will tell you they do not remember it.”
-
-And that is the whole of his answer. A thing the fire has hold of does not get its name said on the floor of it, and there is no rule and no rule-maker, and the men who would have known it are all the ones who are gone or who will not say.
-
-And she did not ask him again.
-
 ## What He Asked Her
 
 It came at the seventh hour, out of nowhere, and it is the only question anybody has ever asked her in ten years that was not put by her and not put for her.
@@ -132,25 +116,31 @@ And then she stopped, because she had said it out loud, and there was a man stan
 
 He did not say anything. That is the whole of his reaction. A man of forty-five with his hands burned into the creases stood in a cart track on nine days of road and did not say one word.
 
-She said, “He was ten.”
+She said, “The boy at your fire was ten.”
 
-He said, “That is the age.”
+He said, “Ten.”
 
-She said, “I do not know that. I have said it because it is my brother’s age and it came out of my mouth, and it is not the same boy.”
+She said, “I do not know that either. I have said it because it is my brother’s age and it came out of my mouth, and it is not the same boy.”
 
 He said, “I know it is not the same boy. I did not say it was.”
 
 And he asked her not one thing about the boy and not one thing about the brother, and he looked at the shut door four miles off and then at the bar on her shoulder, and that is all of it.
 
-## Nineteen And Twenty
+## What She Asked Last
 
-She did that one out loud on the stones at the ninth hour, standing four feet off a man who had said six sentences to her in six hours.
+She asked it at the eighth hour, standing four feet off him in a cart track with lime in the ruts, flatly, and she was not ready for what it did.
 
-The harvest was nineteen years back. He has twenty years at that fire. So it happened in his working life and he was there and he was in the room, and he has carried it for nineteen years, and not one thing in it is wrong, and the only part of it that is any use to anybody is a boy weighing barrows.
+“What was he called.”
 
-Twenty years at a fire. One morning nineteen years back. And a girl on nine days of road with one copper and no rate on the ground and four days of standing left who counts out loud in front of everybody she has met for eleven years.
+“He had a name and nobody at that fire used it.”
 
-She said it out loud on the turn at the ninth hour of the twenty-fourth of the month beginning 1,814 and the road was empty in four directions.
+She said, “Why not.”
+
+He said, “Ask anybody on that floor and they will tell you they do not remember it.”
+
+And that is the whole of his answer. A thing the fire has hold of does not get its name said on the floor of it, and there is no rule and no rule-maker, and the men who would have known it are all the ones who are gone or who will not say.
+
+And she did not ask him again.
 
 ## The Twenty Years And The Nine Days
 
@@ -168,6 +158,16 @@ He put the strap down on the stones at the roadside and straightened up, and the
 
 She watched him go up the four miles to the cottage with the shut door and past it, and she did not follow him, and she did not call after him, and she stood in the cart track until he was a quarter of a mile off and then went back to the turn.
 
+## Nineteen And Twenty
+
+She did that one out loud on the stones at the ninth hour, standing four feet off a man who had said more to her in six hours than she had carried in six years, and who had put six sentences of it into her hands for nothing.
+
+The harvest was nineteen years back. He has twenty years at that fire. So it happened in his working life and he was there and he was in the room, and he has carried it for nineteen years, and not one thing in it is wrong, and the only part of it that is any use to anybody is a boy weighing barrows.
+
+Twenty years at a fire. One morning nineteen years back. And a girl on nine days of road with one copper and no rate on the ground and five days of standing left who counts out loud in front of everybody she has met for eleven years.
+
+She said it out loud on the turn at the ninth hour of the twenty-fourth of the month beginning 1,814 and the road was empty in four directions.
+
 ## The Thing In Her Hand
 
 This is the part she has gone over most.
@@ -175,6 +175,14 @@ This is the part she has gone over most.
 For nine days everything she has had in her hands has been a question or the answer to one of her own. Nine coppers she cannot count, reduced to one. A shut door she did not open. A brother going west. A bar with a mark in her thigh. A loaf she bought with a number she said out loud.
 
 And a man of forty-five came along a road at the third hour and gave her six sentences about a boy who weighed lime for a fire that nobody paid him, and he wanted nothing for them, and there is not one question in them, and there is nowhere they have to go.
+
+She counted them on the stones before she went up to the trough, standing, in the dark, the way she counts a row of barrows.
+
+A boy who counts what nobody is paying him to count is a boy the furnace will use. And it is not the same as keeping, and not one man at a fire thinks it is the same, and the only people who ever found the difference out were the ones it was done to.
+
+And it happened without anybody meaning it, and not one man there was cruel, and not one of them can be named. And he had a name and nobody at that fire used it. And ask anybody on that floor and they will tell you they do not remember it.
+
+Six. And twenty years of a man’s life went past her in between them, in figures, in rates, in the answers she asked for, and none of that is the six.
 
 That is the thing she has to ask with.
 

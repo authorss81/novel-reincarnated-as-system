@@ -2,7 +2,7 @@
 
 She sat on the bench at the turn at the second hour of the twenty-third of the month beginning 1,814 with three-quarters of a loaf in a cloth in her lap and three days of walking in her legs and did the one piece of work she had left, which was to sit still and count.
 
-She had been carrying a question since the month beginning 1,574. She had never put it anywhere. On the eighteenth of a month she had said out loud to nobody that she does not ask him yet, and on the twenty-third she sat down at a turn and counted everything she has ever asked him, in order, because that is what she does instead of guessing.
+She had been carrying a question since the fifteenth of the month beginning 1,634. She had never put it anywhere. On the eighteenth of a month she had said out loud to nobody that she does not ask him yet, and on the twenty-third she sat down at a turn and counted everything she has ever asked him, in order, because that is what she does instead of guessing.
 
 ## Every Question She Has Put To Him
 
@@ -24,7 +24,7 @@ How many went over the chain on the twelfth of the month beginning 1,784. Answer
 
 What else is on it. The seventh hour of the nineteenth of the same month. Answered: six, and it was not her brother’s name.
 
-That is all of them. Eight questions in eight years and every one of them asked for a figure.
+That is all of them. Eight questions and every one of them asked for a figure.
 
 ## What Every One Of Them Had In Common
 
@@ -40,9 +40,9 @@ She has asked every kind of question there is, and every single one of them had 
 
 ## The One With No Place On The Other Side
 
-The question she has carried since the month beginning 1,574 is what he was before he started counting.
+The question she has carried since the fifteenth of the month beginning 1,634 is what he was before he started counting.
 
-It does not want a number. It does not want a day. She does not know what shape the answer is going to be and she has never in her life not known what shape an answer was going to be, and that is the reason she has carried it for eight years and never once put it down.
+It does not want a number. It does not want a day. She does not know what shape the answer is going to be and she has never in her life not known what shape an answer was going to be, and that is the reason she has carried it since the fifteenth of a month beginning 1,634 and never once put it down.
 
 And there is nowhere to put it.
 
@@ -68,7 +68,7 @@ She has been the filing for eight years. That is what she is. She has been stand
 
 She is not a column.
 
-## What She Remembers Of The Month Beginning 1,574
+## What She Remembers Of The Fifteenth
 
 She has gone back over it a great many times and there is no moment in it. She can put the date on it and that is all.
 
@@ -138,4 +138,4 @@ She has walked eight miles in two days and got a shut door, a brother going west
 
 She wants to ask this thing with something in her hand that is not a question, and she does not have that yet, and she is not going to spend the asking until she does.
 
-That is the middle of the twenty-third of the month beginning 1,814 and she has four days of standing left after this one.
+That is the middle of the twenty-third of the month beginning 1,814, and she has six days of standing left after this one, and she has not spent one of them, and the question is sitting on the bench beside her where she put it.

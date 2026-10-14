@@ -24,7 +24,7 @@ One at a time she has kept for a hundred and seventy-six days. In daylight she h
 
 The third one is new and it is *standing*.
 
-She used to put a question into a book nine hundred years deep and walk twenty-two miles to the wall and stand in an opening four feet in and say it at the wall, and the wall was a place. Two days of made road to a place, and the place held it, and she knew exactly what she was doing when she got there.
+She used to put a question into a book nine hundred years deep and walk thirteen miles to the wall and stand in an opening four feet in and say it at the wall, and the wall was a place. A day each way to a place, and the place held it, and she knew exactly what she was doing when she got there.
 
 There is no wall now. There is no book. There is no place on nine days of road where a question goes.
 
@@ -138,7 +138,7 @@ She worked out what she had on the twenty-fifth.
 
 The twenty-fifth itself, which is today and which she has already spent.
 
-The twenty-sixth, and the twenty-seventh, and the twenty-eighth of the month beginning 1,814. Three days of daylight with four hours in each of them, and one at a time, which means one of those days and one of those four hours, and then there is nothing at all, because the board goes down on the second of the next month and she has to be at a face on the first.
+The twenty-sixth, and the twenty-seventh, and the twenty-eighth of the month beginning 1,814. Three days of daylight with four hours in each of them, and one at a time, which means one of those days and one of those four hours, and then there is nothing at all, because the twenty-ninth is the last day she stands on this turn and a board goes down on the second of the next month and she has to be at a face on the first.
 
 So she has three mornings.
 
@@ -152,4 +152,4 @@ She said, “Because I asked it at the ninth hour last night with six sentences 
 
 She said, “I have three mornings. I am going to find out what a fire is on foot before I spend one of them asking what you were.”
 
-And that is the twenty-fifth of the month beginning 1,814, and it is the first time she has had something to wait for and no road to wait on, and she was lighter at the ninth hour than she was at the first, which is two hundred and seventy-eight days of it.
+And that is the twenty-fifth of the month beginning 1,814, and it is the first time in ten years she has had something to wait for and no road to wait on, and she did not sleep for it at all, and she lay on the stones a hundred yards north of the turn with the bar under her head and the three mornings going round and round in her head like a count she could not stop.

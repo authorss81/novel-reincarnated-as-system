@@ -1,4 +1,4 @@
-# Eight Miles On A Bad Arm
+# The Mile She Did Not Walk
 
 She walked west at the fifth hour of the twenty-first of the month beginning 1,814 with two hours and forty minutes of sleep behind her and the bar on her left shoulder, because a brother of nineteen had gone up this road at the dusk of the seventeenth with nothing on him and she had watched him go and had not gone with him and had not stopped him.
 
@@ -12,7 +12,7 @@ Not to follow him.
 
 She went west because he went west. There is a difference between those two things that has cost her nine years, and on the twenty-first she wanted to walk a road for once with nothing at the far end of it.
 
-And because there was nothing else to do with a day. A fortnight of standing at a turn and she has used four of them, and the board does not go down for eleven more, and the bar weighs nine feet nine and she has not carried it a mile since the month beginning 1,754.
+And because there was nothing else to do with a day. Twelve days of standing at a turn and she is on the fourth of them, and the board does not go down for eleven more, and the bar weighs nine feet nine and she has not carried it a mile since the month beginning 1,754.
 
 ## Four Miles Of Store Road
 
@@ -122,10 +122,10 @@ She picked it up at the turn at dusk and got it onto her shoulder with her left 
 
 He said, a quarter of a mile short of the turn:
 
-“You have nine days of standing left.”
+“You have eight days of standing left.”
 
-She said, “Ten.”
+She said, “Nine.”
 
-He said, “No. It is nine. You have been spending them since the eighteenth and you did not notice, because you do not spend days, you spend miles.”
+He said, “No. It is eight. You have been spending them since the eighteenth and you did not notice, because you do not spend days, you spend miles.”
 
 She did not argue with it, and that is the first thing that has happened on nine days of road that she has not argued with, and she has thought about that all night.

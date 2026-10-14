@@ -28,15 +28,15 @@ That is what she had. It was given to her at a turn by a man of forty-five who w
 
 ## What She Was Wearing For It
 
-She had a bar nine feet nine on her left shoulder and a skin and a bag with a dish and a lump of clay and a ring a finger’s width and a stub of a nib and a cake of ink she has not used in two months.
+She had the bar on the ground at her feet and she had not taken one thing off to ask with.
 
-And against her ribs, on the side where the paper is, a book of eight leaves made out of a blanket: a date and a place on the first leaf, four sentences on the second she has read out loud once and will not read again, and six that are hers and blank.
+That is the finding and she got it standing in the dark with the strap still over her shoulder and the cold coming up through her boots, because she has spent ten years deciding what to put down before she opens her mouth to a person, and she did the whole of it once, in her head, in about two seconds, and put nothing down.
 
-That is everything she has and she took none of it off to ask. She stood in the dark with the whole of it on and a bar on the ground at her feet, and she has thought about that since and the part that has stayed is that she did not even consider taking it off.
+Her right arm was open and that was all that came out of it. She went over the bag and the ring and the bar and the book against her ribs and the paper on the other side of it in two seconds and she kept every one of them, and she has not been able to work out why since.
 
 There is a way of asking a question with your hands empty and it means you expect to be given something.
 
-She was not expecting to be given something. She was nineteen and one copper lighter than she was at the first hour, with a bar and a skin and a book with six blank leaves in it, standing in broken ground a hundred yards north of a turn with no lamp on it.
+She was not expecting to be given something. She was nineteen and one copper lighter than she was at the first hour, standing in broken ground a hundred yards north of a turn with no lamp on it, and the only thing in her hands was six sentences about a boy who weighed lime.
 
 ## The Asking
 
@@ -102,13 +102,13 @@ One at a time. In daylight.
 
 The old terms had been one at a time, at the wall, in daylight, and she had kept all three of them for a hundred and seventy-six days and never broken one.
 
-The wall is gone. A man of nine hundred years shut a book on a plank table, took a bag, and walked out of it thirteen miles to a turn with a girl, and went back east twenty-two miles to a door on eleven feet of boards.
+The wall is gone. A man of nine hundred years shut a book on a plank table, took a bag, and walked out of it thirteen miles to a turn with a girl, and went back east thirteen miles to a door on eleven feet of boards.
 
 So there is no wall. There is no book. There is not one page left in the world she is permitted to put a question on.
 
 Eleven days each way to nowhere. That is what a question costs now, out and back, to a place that is not a place, because there is no longer anywhere to walk it to. A question used to be two days of made road and a stranger’s table. Now it is done standing.
 
-And she asked at the ninth hour in the dark, and the answer comes in daylight, and the daylight on this ground starts at the fifth hour and there are three days of it left before she runs out of standing.
+And she asked at the ninth hour in the dark, and the answer comes in daylight, and the daylight on this ground starts at the fifth hour, and she has five days of standing left after this one, and a board goes down on the second of the next month and she has to be at a face on the first.
 
 ## The Lever, Pulled And Not Pulled
 

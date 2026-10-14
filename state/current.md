@@ -4899,6 +4899,76 @@ ch 616–630. `outline/volume-11.md` is the authority and none of it is re-plann
   ch 150 refusal never softened · no page of his book read out loud and no name ever read · **she never thanks him and
   thanks nobody** · **she never says her mother’s name** · no harem and nothing a romance.
 - **THE BATCH’S ONE IRREVERSIBLE STEP IS ch 609.** The batch also contains the volume’s first Merit settling on listed
-  work cleared past the line, at ch 611 — the little open place behind her fourth rib, eleven seconds, no sound in it,
+  work cleared past the line, at ch 611 — the little open place behind her fourth rib, ten seconds, no sound in it,
   and **what it took came out of the ground under her feet and not out of her hands. No figure of what is left of him is
   stated anywhere in the batch, before or after.**
+
+---
+
+## VOLUME 11 BATCH 0001 — REVIEW REPAIR APPLIED (no prose restarted, no plot moved)
+
+**Thirteen findings from `logs/volume-11-batch-0001.review.log` are closed in place. The fifteen chapters, the volume
+arc, the ch 609 irreversible step, the three Volume 10 costs, the terms, the lever and the five origin mouths are all
+where they were. `workspace/volume-11-batch-0002/PROMPT.md` remains the one next phase and was edited in place, not
+re-dispatched. No new phase directory and no `.done` marker.**
+
+### The five figures the next drafter inherits, all now derived rather than carried
+
+1. **The turn to the wall is THIRTEEN MILES — eleven of made road to the gate and two past it.** The batch had
+   thirteen in ch 603 and twenty-two in four other chapters. **Twenty-two is the POST-to-wall distance** (nine of
+   strip road to the turn plus thirteen), which is how `state/current.md` has always recorded it, and the two were
+   being used for the same walk. **Every twenty-two in `chapters/volume-11/` is now thirteen.** Nothing between the
+   gate and the wall to lie down on, and a round trip no longer fits in a day.
+2. **The keeper's post is NINE MILES WEST of the turn, past the mill.** Volume 10 canon, stated four times (ch 539,
+   543, 555, 560, 561) and already in `state/current.md`. Ch 601 and ch 607 had it east and would have canonised the
+   error into ch 616–630 through the next prompt. Both are west now, and the next prompt is corrected twice.
+3. **HER STANDING CLOCK. The turn runs the EIGHTEENTH to the TWENTY-NINTH of the month beginning 1,814 — day 1,831
+   to day 1,842 — and the twenty-ninth is the day of SEVERANCE 7.** *Days of standing left* means days remaining
+   **after** today: eighteenth eleven · twenty-first eight · twenty-second seven · twenty-third six · twenty-fourth
+   five · twenty-fifth four · twenty-sixth three · twenty-seventh two · twenty-eighth one. The draft had the end of
+   standing landing on four different days. It is the twenty-ninth, once.
+4. **THE BOARD CLOCK. A board goes down on the second of a month and she must be at a face on the first.** The next
+   one is the second of the next month, **day 1,845**: **fourteen days off the eighteenth, eleven off the twenty-first,
+   ten off the twenty-second, nine off the twenty-third, six off the twenty-sixth, three off the twenty-eighth.**
+   Standing runs out three days before the work does, which is what ch 601 says and every other chapter now matches.
+5. **THE GOING-LIGHTER, unchanged and unchallenged. The figure at any day D is D − 1,560**, and it is the
+   **eighteenth of the month beginning 1,544** = day 1,561 that anchors it, on twenty-two Volume 10 pages. Every
+   figure in the batch equals its own day and none was carried down.
+
+### What else was corrected, and what was changed versus what was only dated
+
+- **ch 612 — the date sum, load-bearing for four plot facts.** The chapter had *nine years back from the twenty-seventh
+  of the month beginning 1,814 is the eighteenth of the month beginning 1,544*, which is false three ways. Canon
+  fixes the place behind her fourth rib at the eighteenth of a month beginning 1,544, so the chapter's own date was
+  wrong, not the aperture. **Nine years back from the twenty-seventh of the month beginning 1,814 is the twenty-seventh
+  of the month beginning 1,805, and the lime, the wheel and the boy behind the last barrow are all on THAT date.**
+  **Nine years is now two dates nine days apart and the chapter is called *The Two Dates*.** The finding got sharper,
+  not thinner: the boy and the hole in her are not on one line, and nine days is the width of a barrow track.
+- **ch 606 and ch 614 — inherited dating.** The question she has carried since *the month beginning 1,574* is now
+  **the fifteenth of the month beginning 1,634**, the date ch 606's own list gives for the question that got no
+  answer back, which is the moment the chapter describes. **"Eight questions in eight years" is now eight questions**
+  — the span runs 1,604 to 1,784 and cannot also be eight years. The voice's eight years are untouched.
+- **ch 615 — the rule's age.** *She had made the rule on the sixth stage and carried it for nine years* is now **it
+  was sixty-nine days old.** Severance 6 is at day 1,772 and ch 615 is day 1,841.
+- **ch 608 — the chapter ran backwards.** *What She Asked Last* sat at the eighth hour before *What He Asked Her* at
+  the seventh. The two sections are now in order. The exchange that gave **he** two different antecedents across two
+  lines — *He was ten.* / *That is the age.* — is rewritten as *The boy at your fire was ten.* / *Ten.*
+- **ch 608 and the six sentences.** The man speaks a dozen times in the chapter and four later chapters quote *six
+  sentences* as a carried artifact. **Ch 608 now counts them on the page** — the six that are not an answer to a
+  figure and are not a trade — so the number is true where it is used. The six are listed and they are the six.
+- **Titles.** Three were not names: *Eight Miles On A Bad Arm* → **The Mile She Did Not Walk** · *Six Coppers The Four
+  Miles* → **A Rate With An End In It** · *The Eighteenth Of A Month* (a date, banned outright) → **The Two Dates**.
+  All fifteen remain unique against 615 headings.
+- **Three endings closed on a recap rather than a hook** and now close on movement: **ch 602** ends on the two
+  figures neither of them can put back, **ch 610** ends on the three mornings going round in her head with no sleep,
+  **ch 613** ends on going to the sixth hour with nothing on any leaf. The *lighter at the X hour than the Y, which is
+  N days of it* construction now runs seven times in fifteen chapters and closes **no** chapter — it is strongest
+  mid-chapter, which is where it now sits. The full inventory was recited four times; ch 609 and ch 615 were rewritten
+  so no two of the four read alike.
+- **The deadline plays as arithmetic.** Ch 605 gained a short beat at the mill wall: ten days to the board, a quarter
+  of a loaf, and the fact that on the fifth day she will be walking. That is the only structural softening in the
+  batch and it adds no event.
+- **State mismatch, finding 13.** Ch 611's page reads **ten seconds.** `state/current.md` and
+  `state/chapter-summaries.md` said eleven and are corrected to ten. **`state/continuity.md:5072` also says eleven
+  seconds and is NOT this event** — that is the ch 563 keeper looking at a bare stone, a different scene, and it
+  stands. The reviewer's finding 13 conflated the two.

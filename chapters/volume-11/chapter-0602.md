@@ -1,6 +1,6 @@
 # What The Nine Came To
 
-She counted the money on the flat of the bar at the second hour of the nineteenth of the month beginning 1,814, in daylight, sitting on the stones with the bar across her knees, because she had spent the eighteenth deciding that standing still is the only thing she owns, and a person does not stand still for a fortnight without knowing what is in the bag.
+She counted the money on the flat of the bar at the second hour of the nineteenth of the month beginning 1,814, in daylight, sitting on the stones with the bar across her knees, because she had spent the eighteenth deciding that standing still is the only thing she owns, and a person does not stand still for twelve days without knowing what is in the bag.
 
 ## How She Counts
 
@@ -150,4 +150,6 @@ Nine.
 
 And she does not know whether that is the case.
 
-That is all of the nineteenth of the month beginning 1,814 and it is the first thing in ten years her count has been wrong about, and she was lighter at the eighth hour than she was at the first, which is two hundred and seventy-two days of it, and not one of them going back.
+It is the first thing in ten years her count has been wrong about, and she was lighter at the eighth hour than she was at the second, which is two hundred and seventy-two days of it, and not one of them going back.
+
+And tomorrow she is going to hand that number to a woman behind a counter, and the woman is going to put nine pieces of metal in a row and count them in front of her, and one of the two of them is going to come out wrong, and neither of them is going to be able to put it back.

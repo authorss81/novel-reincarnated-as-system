@@ -46,8 +46,8 @@ and he has done it since she was eight.**
 
 **What stands asked and unasked:**
 
-- **The question she asked.** Carried since the month beginning 1,574, put out loud at ch 609 on day 1,837, **asked and
-  answered once**. It cannot be un-asked.
+- **The question she asked.** Carried since the fifteenth of the month beginning 1,634, put out loud at ch 609 on day
+  1,837, **asked and answered once**. It cannot be un-asked.
 - **The terms.** **One at a time · in daylight.** They do not move for the rest of the volume. Eleven days each way to
   nowhere, because there is nowhere to walk to — **the asking is done standing, and standing is the third term.**
 - **The lever.** Asking twice is the only thing that would make him get to the next answer sooner and the only thing
@@ -63,8 +63,9 @@ and he has done it since she was eight.**
 bench who knows where to look and says nothing · the store road four miles west to a cottage with a shut door at a
 stopped lime bed, her hand four inches off the bar · a mill at five with a wheel that has not turned for nine years and
 four people in it · a store behind the mill, fourteen miles from the post · a lane four miles west to a stone face with a
-woman of fifty at forty feet · a keeper of fifty-five at a post **nine miles east of the turn** · thirteen miles east of
-the turn, eleven of made road to a gate and two past it to a wall with an opening standing open and **nothing between
+woman of fifty at forty feet · a keeper of fifty-five at a post **nine miles west of the turn, past the mill** ·
+thirteen miles east of the turn, eleven of made road to a gate and two past it to a wall with an opening standing open
+and **nothing between
 the gate and the wall to lie down on.**
 
 **East of everything, past the flat:** the furnace sect. A different sect from Qinghe. **One furnace, one harvest book,
@@ -159,9 +160,26 @@ part is not given and nothing proves the crews wrong. The Batch 0001 mouth is no
 - **Eleven days each way to nowhere.** The wall is gone. **A question is done standing.** No card may put a wall back or
   restore *at the wall* as a term.
 - **The lane map is settled: four miles west of the turn.** No chapter states thirteen miles from the post. **The post
-  is nine miles east of the turn; the bar on two posts is four hundred yards east of the turn; the mill is five miles
-  west of the turn; the store is behind the mill and is fourteen miles from the post; nothing between the gate and the
-  wall to lie down on.**
+  is nine miles WEST of the turn (Volume 10 canon, stated four times: ch 539, 543, 555, 560, 561); the bar on two
+  posts is four hundred yards east of the turn; the mill is five miles west of the turn; the store is behind the mill
+  and is fourteen miles from the post; nothing between the gate and the wall to lie down on.** **Only ONE thirteen in
+  the whole book is real: the turn to the wall, east, eleven of made road to the gate and two past it.** The lane is
+  four miles west and no chapter may call it thirteen.
+- **THE TWO CLOCKS ARE FIXED. Derive every figure from the day a chapter is on; never carry a number down.**
+  **Her standing at the turn runs the eighteenth to the twenty-ninth of the month beginning 1,814 — day 1,831 to day
+  1,842 — and the twenty-ninth is the day of Severance 7. *Days of standing left* means days remaining AFTER today:
+  the eighteenth eleven, the twenty-first eight, the twenty-second seven, the twenty-third six, the twenty-fourth
+  five, the twenty-fifth four, the twenty-sixth three.** A **board goes down on the second of a month** and to be paid
+  she must be at a face on the first: the next one is the second of the next month, day 1,845, which is **fourteen
+  days off the eighteenth, eleven off the twenty-first, ten off the twenty-second, nine off the twenty-third, six off
+  the twenty-sixth, and three off the twenty-eighth.** Standing runs out three days before the work does.
+- **THE TWO DATES ARE FIXED and the ch 612 revision holds.** The lime, the wheel and the boy behind the last barrow
+  are all on **the twenty-seventh of the month beginning 1,805.** The place behind her fourth rib opened on **the
+  eighteenth of the month beginning 1,544, which is day 1,561, and the figure of the going-lighter at any day D is
+  D − 1,560.** **Nine years is two dates nine days apart and no chapter may put the four of them on one date.**
+- **THE SIX SENTENCES ARE SIX.** A man of forty-five gave her six sentences at the turn on the twenty-fourth, and
+  ch 608 now counts them on the page. Four later chapters quote the artifact. **If a chapter has him in a room again,
+  it must not re-offer the same six as though they were new.**
 - **`Yuan Sheng` is first named in this batch, at ch 617, in a widow's mouth, and it misses.** It is written on the page
   for the first time at ch 624, in her own book. **It is not named before ch 617 and it is not named in his own mouth
   anywhere in the volume until the telling earns it.**
