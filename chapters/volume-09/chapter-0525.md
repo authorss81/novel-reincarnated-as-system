@@ -1,6 +1,6 @@
 # The Chair She Will Not Sit In
 
-She started on the twenty-second of a month with a bar of a wall across the back of a nine-foot room and thirty-six days left in it, and she was going to work out how to be worth the price of one, and it took her eleven days.
+She started on the twenty-second of a month with a bar of a wall across the back of a nine-foot room and thirty-three days left in it, and she was going to work out how to be worth the price of one, and it took her eleven days.
 
 ## The Two Times
 

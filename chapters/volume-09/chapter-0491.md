@@ -8,7 +8,7 @@ There has been no bread on that ground since the twenty-first of a month. She ha
 
 The wind came up out of the west and she had to work at it, and her right arm was open at the side the whole way and she put it into the strap of the bar for two hours of it, which is two hours of a body at the top of a realm doing nothing at all.
 
-He was nine feet off the side of the track with a notebook shut under his arm and his weight on one leg and his face doing nothing at all. He has been nine feet off for four volumes and she has never once got closer and he has never once come nearer, and both of those are rules of his and not decisions he makes in front of her.
+He was nine feet off the side of the track with a notebook shut under his arm and his weight on one leg and his face doing nothing at all. He has been nine feet off since the first time she saw him and she has never once got closer and he has never once come nearer, and both of those are rules of his and not decisions he makes in front of her.
 
 She stopped twelve feet off, which is three feet further than the last time.
 
@@ -68,7 +68,7 @@ He did not ask what she meant. He did not ask where, or when, or what was in it,
 
 “Then it is not that.”
 
-That was three words and it went through the whole of eight months like a bar through a ring, and she stood there and let it, and she did not make a smaller or a bigger thing out of it in front of him.
+That was five words and it went through the whole of eight months like a bar through a ring, and she stood there and let it, and she did not make a smaller or a bigger thing out of it in front of him.
 
 ## The Notebooks
 
@@ -100,7 +100,7 @@ Then she said, “Thank you,” which she has not said to him in eight years and
 
 “It is not a thing anybody asks for,” he said.
 
-That is the whole of the man. She has known that since a room four years ago and she has never had it put to her as plainly as that, in eleven words, by somebody who is nine feet off and has never taken a step towards her.
+That is the whole of the man. She has known that since a room four years ago and she has never had it put to her as plainly as that, in eight words, by somebody who is nine feet off and has never taken a step towards her.
 
 And then he said the other thing, and it was not a question, and it was the last thing he said on that track:
 

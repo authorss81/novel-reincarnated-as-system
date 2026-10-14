@@ -12,7 +12,7 @@ Then she asked the question, and she said it out loud, in the ordinary voice, on
 
 ## What Came Back
 
-That is the whole of it. Nine words in the ordinary voice, once.
+That is the whole of it. Four words in the ordinary voice, once.
 
 The reach went out.
 
@@ -94,7 +94,7 @@ She did not get up. She had a dish four inches up in the air beside her and no b
 
 ## What It Is
 
-She worked out the rest of it on the bank, afterwards, in the dark, and it is the thing that is going to be the rest of this volume and she has said none of it out loud.
+She worked out the rest of it on the bank, afterwards, in the dark, and it is the thing that is going to be the rest of this and she has said none of it out loud.
 
 For eight years the only thing that made her findable was being the strongest person in every room, and she spent four months buying the opposite of that and got away with it, and nothing came.
 

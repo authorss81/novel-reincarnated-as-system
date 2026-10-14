@@ -68,7 +68,7 @@ She put this one away too, inside four seconds, and then she stood at a rail on 
 
 She did not leave at the twelfth minute.
 
-She wants that on the page, because it is the thing that would have made the rest of it a lie. She stayed past eleven, on purpose, for four minutes, with her hand off the rail, waiting for something to come down the lane that she had not counted.
+She wants that said, because it is the thing that would have made the rest of it a lie. She stayed past eleven, on purpose, for four minutes, with her hand off the rail, waiting for something to come down the lane that she had not counted.
 
 Nothing came down the lane.
 

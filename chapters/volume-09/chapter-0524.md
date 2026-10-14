@@ -1,6 +1,6 @@
 # Nothing Holds Her Here
 
-She was sixteen nights into a room nobody had given her, on the nineteenth of a month that began on the seventeenth of the one before it, and she worked out everything there was to work out before the light came off the flat.
+She was sixteen nights into a room nobody had given her, on the nineteenth of a month that began on the first of the one before it, and she worked out everything there was to work out before the light came off the flat.
 
 ## The Count
 

@@ -20,7 +20,7 @@ What was left was four sentences, and she had them by the evening of the sixteen
 
 ## What The Hand Did
 
-It took two hours and eleven minutes and that is not the writing. That is six words.
+It took two hours and eleven minutes and that is not the writing. That is what it took to learn a hand she has never had.
 
 The hand had to learn the soot. A splinter of ash out of a bed frame with a blunt point held against a wet cake of soot comes off in a blot and a blot on a sheet this size takes most of a leaf, and she made four of them on the first afternoon, and she learned to come in at an angle and to take the wood up off the cake rather than drag it.
 

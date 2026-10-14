@@ -28,7 +28,7 @@ She slept the night in the ditch at the sixth mile with the bag under her head.
 
 She came into the lane at the crossing on the sixteenth at the seventh hour and went past the shed at the end of it without looking at it, and she went past the woman of fifty, who was on the step and did not say anything at all, which is the third time that has happened.
 
-Then the cut, and the frame, and the board outside the room with the six day books, and she read the whole board down in nine seconds and there was still nothing on it with her name on it, and it has been eleven weeks.
+Then the cut, and the frame, and the board outside the room with the six day books, and she read the whole board down in nine seconds and there was still nothing on it with her name on it, and it has been three months.
 
 There was a loaf on the low stone wall at the mouth of the track, squared up with a hand, put out and not put out by a man she has never spoken to and has never once been introduced to, and it had been there since the sixth hour. She ate a third of it standing up with her back to a frame four hundred years old and she put the other two thirds in the bag, and she did not say thank you.
 

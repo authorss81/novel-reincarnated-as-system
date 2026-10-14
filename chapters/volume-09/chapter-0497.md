@@ -114,7 +114,7 @@ That is the whole of it and it took him about a minute and a half and he carried
 
 ## What She Asked
 
-She asked him one question and she got nine words out of it before she threw the rest away.
+She asked him one question and she got five words out of it before she threw the rest away.
 
 “Two,” she said. “How long between them.”
 

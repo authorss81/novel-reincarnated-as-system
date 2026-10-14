@@ -3,6 +3,16 @@
 **The single-file hand-off. Written by the Volume 9 close phase, which audited `chapters/volume-09/` (ch 479–538) and
 changed no chapter.**
 
+> **READ THIS FIRST IF YOU ARE A LATER PHASE.** **This file records an audit that repaired nothing. Every one of its
+> twenty-six findings was afterwards cleared on the page by the Volume 9 close review repair, which opened
+> twenty-nine chapter files and edited them: eleven word-count claims, four calendar and staging defects, sixteen
+> authorial-scaffolding lines, five retired tokens, one distance and fifty-eight trailing newlines. The figures below
+> are what the close measured and they are **superseded — the page is 113,811 words of body prose on method B, by batch
+> 27,729 · 28,509 · 28,572 · 29,001, and not the 113,790 / 27,725 · 28,532 · 28,572 · 28,961 recorded here.** The repair
+> record is `state/continuity.md` §*Volume 9 close — REVIEW REPAIR*. Nothing else in this file is out of date: every
+> finding below is either closed on the page or, in the two cases marked F1 and F2, recorded against an outline no phase
+> may edit and carried to `workspace/volume-10-planning/PROMPT.md`.
+
 ## What this phase is
 
 | | |

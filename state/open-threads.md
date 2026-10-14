@@ -1962,3 +1962,45 @@ than to Volume 10's drafting, `outline/volume-09.md`'s Wei Ran allowance is exce
 planner to carry or forgive, and the new question for Volume 10 is fixed by `outline/volume-09.md` §*New question for
 Volume 10* and is neither previewed nor softened here.** **The audit is `workspace/volume-09-close/SUMMARY.md`. This
 section opened no thread the chapters do not carry and moved none of the Volume 8 close's threads.**
+
+---
+
+## VOLUME 9 CLOSE REPAIR — what the repair moved, and what it deliberately did not move
+
+**The close audited sixty chapters and recorded twenty-six findings. The repair cleared them and this section says, in one
+paragraph, which of the threads the volume carried are standing differently afterward and which are exactly where they
+were. It opens no thread and closes none.**
+
+**No thread the Volume 9 close listed moved.** The three Severance costs are named once each and were not re-derived ·
+the fifth entry and the four before it stand · the copy at ch 502 that made her findable by a list stands, and the entry
+it copied is **byte for byte the entry it was before the repair** · the paper against her ribs, opened alone at ch 488 and
+never named, stands · the opening at ch 518 with him on the wrong side of it alive stands · the chair nobody has sat in
+since the thirteenth stands · the board with no line on it for three months now says **three months** in the one place
+that used to say eleven weeks, which is the same claim · the Hunter's request is still pending and his notebook is still
+shut · the ten parts not given and the surface answer never re-voiced stand · the ten coppers and the eight unchased
+stand. **And *“Twenty-two days,” said at a jamb at ch 536 and never asked, is still OPEN, still unplaced, still
+unexplained, and this repair did not touch that line.** The plant travels to Volume 10 exactly as the volume handed it
+over.
+
+**Two things did move, and both are worth a reader of the thread file knowing.** **First, the account she has been
+carrying since ch 100 is no longer named at ch 502.** The outline gives the volume an allowance of zero for the subject of
+non-forgiveness and states the strongest form — *not mentioned once in sixty chapters* — and the page had one sentence
+that broke it. **The sentence is gone and nothing was softened: the fact it carried, that the account is not over and was
+never hers to finish, is still on the page in her own words and was said out loud once on a made road.** Nothing at ch 466
+or ch 474 was opened. **Second, the light in the hut went out on a night she was not there for, and she does not know
+that.** ch 536 now says so in its own words — she was at a crossing eleven miles off it and has not asked — and **that is
+a thread the repair opened, because ch 537:121 already stands as the narrator saying *dark now for the second night* from
+the far side of her, and the two halves now agree.** Volume 10 may use it or leave it; **it is not a question she has been
+asked and it is not a thing she knows.**
+
+**And one question the repair is carrying forward, because it belongs to the planner and not to a drafter:**
+`outline/volume-09.md` allows Wei Ran *at most two cards in Volume 9, one in Batch 0002 and one in Batch 0004*, and she is
+on the page in three chapters — ch 497, ch 505 and ch 527, twenty-two occurrences on word boundaries. **A trade, a team, a
+rate, an opinion, eight coppers unchased, no gift, no scene, nothing a romance, and the rate said out loud the same way
+three times; Batch 0002 simply carries one card more than the allowance.** No phase may edit an outline, so this is
+recorded for `workspace/volume-10-planning/PROMPT.md` to carry or to forgive, and **Volume 10's own allowance should be
+set with the real figure of Volume 9's in the sentence beside it.**
+
+**The one outline deviation the repair did not touch and could not:** `outline/volume-09.md` pins *four or five short
+sentences each* across five structural mouths and **ch 484's mouth delivers nine.** Four of five hold. **The fifth is a
+structural mouth and the repair order forbids touching one, so it is recorded and carried.**

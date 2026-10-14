@@ -20,7 +20,7 @@ That is what she said out loud on the boards of a lean-to at the second hour, on
 
 She did not go back for the ring.
 
-She wants that on the page because it is the whole of what the three nights are. She did not go back for the ring and the dish and the board, and it was not pride and it was not a decision she made standing up. She was four miles east of the shed at the seventh hour of the twentieth with a bar on her shoulder and she did not turn round, and by the time she thought about the clay ring it was dark and she did not turn round then either.
+That is the whole of what the three nights are. She did not go back for the ring and the dish and the board, and it was not pride and it was not a decision she made standing up. She was four miles east of the shed at the seventh hour of the twentieth with a bar on her shoulder and she did not turn round, and by the time she thought about the clay ring it was dark and she did not turn round then either.
 
 It is the first time in eight years she has left a thing of hers behind on purpose, and the reason is the sentence she said at the second hour, which is that a thing you go back for is a thing that has a place, and she had worked that out on a floor in a book about carts.
 

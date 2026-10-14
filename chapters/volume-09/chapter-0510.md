@@ -42,7 +42,7 @@ It is a figure at the end of the week and it is never much, and the women who ke
 
 It is also the only thing she has ever been able to do that has ever been any use to a stranger, and her hand will not take it.
 
-That is not fastidiousness and it has never once been a choice. She stood in a room in a month she could name and put money into her own hand from a woman behind a counter and her fingers shut on it and something in the arm went the other way, and the money was in her hand for about four seconds and then it was on the floor, and the woman picked it up and did not ask and has not asked since.
+That is not fastidiousness and it has never once been a choice. She stood in a room in a month she could name and put money into her own hand from a woman behind a counter and her fingers shut on it and something in the arm went the other way, and the money was in her hand for four seconds and then it was on the floor, and the woman picked it up and did not ask and has not asked since.
 
 She can do the work. She cannot be paid for it. That is the eighth cost in eight years and it is the one that has kept her off every floor that could have used her, and she has never told anybody about it in a room because there is no room.
 

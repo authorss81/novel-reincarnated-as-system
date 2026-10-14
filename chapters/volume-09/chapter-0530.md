@@ -82,7 +82,7 @@ She has not told him that either. She has told one living person in eight months
 
 ## The Thing She Asked For
 
-Here is the finding, and she got it at the fourth hour of the ninth on flat ground outside with the bar against her shoulder, and she wants it in the page in her own words and not as a complaint.
+Here is the finding, and she got it at the fourth hour of the ninth on flat ground outside with the bar against her shoulder, and she wants it said in her own words and not as a complaint.
 
 On the twenty-second of a month she started eleven days of work in a nine-foot room on finding out how to be worth the price of one, and what came out of it was that she wanted one thing in the world and she had never had it.
 

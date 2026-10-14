@@ -62,7 +62,7 @@ That is the third one and he said it in the ordinary voice, and he did not say a
 
 “The record is accurate,” he said.
 
-That is the fourth one and it is four words and it is the plainest sentence anybody has said to her in eight years, including four said out of the dark on the sixteenth of a month at a hundred yards.
+That is the fourth one and it is four words and it is the plainest sentence anybody has said to her in eight years, including four said out of the dark on the sixteenth of a month at seven hundred yards.
 
 “The accuracy is the whole of it,” he said.
 
@@ -70,7 +70,7 @@ Five sentences. He shut the book and picked up the strap and she counted them on
 
 ## The Sixth
 
-He put the book under his arm and then he stopped with his weight on the leg he had been using and he said one more thing, and it is the reason this is the chapter and not an ordinary one.
+He put the book under his arm and then he stopped with his weight on the leg he had been using and he said one more thing, and it is the reason the tenth of a month is what it is.
 
 “And a person on my book is better kept than a person off it.”
 
@@ -130,7 +130,7 @@ There is an argument she could make and it took her nine minutes on the eleventh
 
 She could put it in a book of her own. Four sentences in a hand that cannot write a false line, on paper she made out of a blanket, and hand it to him or leave it where it can be found.
 
-That is a good argument and it is the best one she has got and it is eleven words long.
+That is a good argument and it is the best one she has got and it has never once been reduced to a number of words.
 
 She is not going to make it, and the reason is that the four sentences are not written yet, and she has one line in a book of her own for the exact purpose of being the one that does say what happened, and she is not going to muddy it before it is written.
 

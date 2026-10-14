@@ -39,10 +39,14 @@ them goes unrecorded* — and none of the three is re-planned here. **Do not ope
 Figures below are the batches' own certified records, quoted here so the audit can reproduce or correct them, with the
 method in the sentence with every number.
 
-**Body prose, method B (every line not beginning `#`):** batch 0001 at 27,725 / average ~1,848 · batch 0002 at 28,532 /
-average ~1,902 · batch 0003 at 28,572 / average ~1,905 · batch 0004 at 28,734 / average ~1,916 · **volume 113,563,
-average ~1,893.** Batch 0004 per file, method B: 524 1,907 · 525 2,005 · 526 1,869 · 527 2,039 · 528 1,817 · 529 2,001 ·
-530 1,885 · 531 2,044 · 532 1,865 · 533 2,149 · 534 1,643 · 535 1,820 · 536 1,909 · 537 2,033 · 538 1,748.
+**Body prose, method B (every line not beginning `#`):** batch 0001 at 27,729 / average ~1,849 · batch 0002 at 28,509 /
+average ~1,901 · batch 0003 at 28,572 / average ~1,905 · batch 0004 at 29,001 / average ~1,933 · **volume 113,811,
+average ~1,897.** Batch 0004 per file, method B: 524 1,907 · 525 2,005 · 526 1,869 · 527 2,039 · 528 1,812 · 529 2,001 ·
+530 1,885 · 531 2,050 · 532 1,865 · 533 2,137 · 534 1,652 · 535 1,820 · 536 1,939 · 537 2,033 · 538 1,989.
+
+**CORRECTED IN PLACE by the Volume 9 close review repair, which re-measured every file rather than copying this
+prompt forward. The figures this prompt used to carry — 0004 at 28,734, volume 113,563, and per-file 528 1,817 ·
+533 2,149 · 538 1,748 — were pre-repair and are wrong; the row above is the page as it now stands.**
 
 **Brackets: three in sixty**, at ch 493, ch 508 and ch 523, each in the far-side house form, and nothing else in square
 brackets anywhere in ch 479–538. **Stages: Severance 1 at day 1,412 (ch 493), Severance 2 at day 1,488 (ch 508),
@@ -70,10 +74,12 @@ the wall · ch 535 she reads her own four sentences back and refuses kept.
 the name, written as lost · the walls stay · the reason recorded where he cannot reach it · no figure of what is left
     of him on any page · the ten parts not given · Ning Wu not on the page · Yuan's Door opened once, at ch 518, and its
     price paid · **“Twenty-two days,” said at the jamb at ch 536, still unplaced and still unanswered.**
-5. **The hard rules at volume level**: `Ledger` 0 · `Warden` 0 · `Shuyin` never in his own mouth (once in her mouth, at
-   ch 538, with witnesses) · no page of his book read out loud · the ch 267 surface answer never re-voiced · the Anchor
-   never stated · no new final enemy · no harem, nothing a romance · the year of non-forgiveness never mentioned ·
-   Xie Changyin, the Order, Feng, Shen Xiu, Qiu and Wen absent · Ning Wu absent · no second Lung, no second appointment.
+5. **The hard rules at volume level**: `Ledger` 0 · `Warden` **2** (ch 500:160 in his own mouth and ch 504:108 in
+   narration — `outline/volume-09.md` counts the title rather than zeroing it) · `Shuyin` never in his own mouth, **2 in
+   sixty** (ch 498:27 through a shut door and ch 538:117 in her mouth with three witnesses) · no page of his book read out
+   loud · the ch 267 surface answer never re-voiced · the Anchor never stated · no new final enemy · no harem, nothing a
+   romance · the year of non-forgiveness never mentioned · Xie Changyin, the Order, Feng, Shen Xiu, Qiu and Wen absent ·
+   Ning Wu absent · no second Lung, no second appointment.
 6. **The volume goal.** In this volume, Ning Yan must survive Shuyin, or the walls stay and the reason for them goes
    unrecorded. Confirm the payoff on the page: entered as lost, refused as kept, her own book west, the walls staying,
    and the new question for Volume 10 opening without previewing it.

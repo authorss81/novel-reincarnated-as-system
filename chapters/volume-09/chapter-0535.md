@@ -48,7 +48,7 @@ That is all he said about the four sentences and he said it after a minute and a
 
 “All right,” he said.
 
-That is nine words and one of them is the same word he has said to her on a lane and at a gate and in the opening, and it is the first time in nine days she has heard him use it and she is not going to think of that.
+That is eleven words and one of them is the same word he has said to her on a lane and at a gate and in the opening, and it is the first time in nine days she has heard him use it and she is not going to think of that.
 
 ## The Word
 
@@ -72,11 +72,11 @@ Not one word of what she has just given up was known to her. She refused the wor
 
 She has taken the one she knows nothing of, in exchange for refusing the one he told her on the tenth that she is better off with.
 
-That is everything she got and she is not going to pretend on the page that it was a good exchange, and she is not going to pretend either that she would have taken the other one if she had known what it was.
+That is everything she got and she is not going to pretend that it was a good exchange, and she is not going to pretend either that she would have taken the other one if she had known what it was.
 
 ## What He Said To That
 
-This is the part she was not ready for and it is the reason the chapter is what it is.
+This is the part she was not ready for and it is the reason the twentieth of a month is what it is.
 
 “I will take either one,” he said. “I told you that on the fifteenth and I have not changed my mind about it.”
 

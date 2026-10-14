@@ -58,7 +58,7 @@ He is right. He has been right about all of it since the seventh and there is no
 
 He did not say what either word does.
 
-She had asked him for that on the seventeenth and he had told her the rule has two words in it, and that is still all there is, and he did not soften it today when it would have cost him one sentence.
+She had asked him for that on the fifteenth and he had told her the rule has two words in it, and that is still all there is, and he did not soften it today when it would have cost him one sentence.
 
 He did not say he was sorry. He did not say she was a good woman to him. He did not say it was a formality. He did not say that things had changed since the last one, or that the last one had been a mistake, or that this one was different, and she has stood two days looking at a book on two feet of plank table and has not read one line of it, and there was nothing else in it to find.
 
@@ -72,7 +72,7 @@ That is what the sixteenth was for and it came at the end of it.
 
 “The twenty-second,” he said. “At the ninth hour. The book will be open.”
 
-That is six words and it is a date and an hour and a place, and it is the first time in nine days he has told her anything she could put a number against.
+That is eleven words and it is a date and an hour and a place, and it is the first time in nine days he has told her anything she could put a number against.
 
 “Will you not leave it later than that.”
 
@@ -98,7 +98,7 @@ Eight years. Every difficult thing she has ever been in, she was in it because a
 
 And the entire demand on the twenty-second is four feet of opening and a brush as long as her hand and a man waiting.
 
-There is nothing in the world she can do about it and she has never before found that to be frightening, and it is not frightening, and she wants that on the page too, because the bill that arrives on the twenty-second of a month is going to be about what she did not do and not about what was done to her.
+There is nothing in the world she can do about it and she has never before found that to be frightening, and it is not frightening, and she is going to say that out loud too, because the bill that arrives on the twenty-second of a month is going to be about what she did not do and not about what was done to her.
 
 ## The Brush Is On The Table
 

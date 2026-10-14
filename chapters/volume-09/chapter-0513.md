@@ -28,7 +28,7 @@ She had eaten on the third of a month and on the twelfth, a third of a loaf stan
 
 That is six days since the twelfth and fifteen since the third, and it is not hunger any more. That finished in the fourth month and she worked out at the time that it was not a gift.
 
-What six days is: the fourth count of breath does not come back on the first go. It comes back in about four seconds on an empty reach and about nine on a full one, and she has measured both, and she has a stone off the cut still up over a painted mark because she has not been back up the stair since the twelfth and does not know yet whether she can.
+What six days is: the fourth count of breath does not come back on the first go. It comes back in four seconds on an empty reach and nine on a full one, and she has measured both, and she has a stone off the cut still up over a painted mark because she has not been back up the stair since the twelfth and does not know yet whether she can.
 
 Four fingers and a thumb. The right arm open four days in five. Eight of eleven holds, and she went through them on the eighteenth on a level stone floor and got eight.
 

@@ -968,18 +968,20 @@ all 523 standing and against each other, longest 30 characters.**
 ## VOLUME 9 — *The Warden*, ch 479–538, closed and audited at the volume close
 
 **Sixty chapters, day 1,341 to day 1,598, 258 days inclusive, 113,790 words of body prose on method B, average ~1,897**
-(by batch 27,725 · 28,532 · 28,572 · 28,961). **538 `#` headings manuscript-wide, zero collisions.** Goal, fixed by
+(by batch 27,725 · 28,532 · 28,572 · 28,961) **as the close measured it; after the close's review repair the page is 113,811
+— 27,729 · 28,509 · 28,572 · 29,001 — and the corrected set is the one at `state/continuity.md` §*Volume 9 close —
+REVIEW REPAIR*.** **538 `#` headings manuscript-wide, zero collisions.** Goal, fixed by
 `outline/series.md` §9: *In this volume, Ning Yan must survive Shuyin, or the walls stay and the reason for them goes
 unrecorded.* **She survives.** Full record at `workspace/volume-09-close/SUMMARY.md`.
 
 ### One line per batch
 
-- **Batch 0001, ch 479–493, day 1,341 to day 1,412, *opening it alone*, 27,725 words.** A shed, a bar, three coppers,
+- **Batch 0001, ch 479–493, day 1,341 to day 1,412, *opening it alone*, 27,729 words after the close review repair.** A shed, a bar, three coppers,
   bread for a day, and a voice that has said nothing for eighty-five days. **ch 488 she opens the paper against her ribs
   with her own two hands and cannot un-open it** · **ch 493 Severance 1 at day 1,412, and a shed she has slept in for
   two years stops being hers for having slept in it** · **mouth one at ch 484, the woman at the store, who says she
   does not want a shop** · the Hunter once at ch 491 and she asks him.
-- **Batch 0002, ch 494–508, day 1,413 to day 1,488, *being written down*, 28,532 words.** She walks nine days of lane
+- **Batch 0002, ch 494–508, day 1,413 to day 1,488, *being written down*, 28,509 words after the close review repair.** She walks nine days of lane
   to be found and asks a man of nine hundred years why a bounded world needs readers; **he does not answer** · **mouths
   two and three at ch 497 and ch 505** · **ch 502 she lets him copy the one entry she chose, and it is in his book and
   cannot be un-copied** · **ch 508 Severance 2 at day 1,488, and she cannot be met where she is expected — he walks
@@ -990,7 +992,7 @@ unrecorded.* **She survives.** Full record at `workspace/volume-09-close/SUMMARY
   and cannot come back** · **ch 519 a chair stays empty and a light stays on** · **ch 520 he says four words to her for
   the first time in 273 days** · **ch 523 Severance 3 at day 1,561, and the two miles of lane stop being a distance she
   can walk** · mouth four at ch 514, the boy of fifteen at the chain.
-- **Batch 0004, ch 524–538, day 1,562 to day 1,598, *surviving being kept*, 28,961 words.** Paper made out of a blanket
+- **Batch 0004, ch 524–538, day 1,562 to day 1,598, *surviving being kept*, 29,001 words after the close review repair.** Paper made out of a blanket
   in nine days and a book of her own · the keeper says no and she goes away with nothing · **ch 530 the rule in full**
   · **ch 531 mouth five and the last, Shuyin's: five sentences and a sixth, and the sixth is the one he is wrong about**,
   and the Hunter's second appearance spent with it · **ch 533 the demand at its maximum, and the brush put back in the
@@ -1033,3 +1035,34 @@ in half three times, squared on the stone and put down beside another book with 
 top of it. She does not ask anybody to keep it. She says his name once, in the open, at a person instead of into a hundred
 yards of flat ground. He stops nine feet off and puts his weight on the other leg. “I am here,” he said. “Ning Yan.”**
 **That is the last line of Volume 9.**
+
+---
+
+## VOLUME 9 — what the close's review repair changed in the summaries above
+
+**Twenty-nine chapter files were opened, twenty-eight of them edited, and no chapter was rewritten. Nothing in the one-line-per-batch record above
+changed, because none of the repairs touched a beat, a day anchor, a title, a stage, a bracket, a structural mouth, an
+irreversible decision or a planned event. What changed is what the summaries are allowed to claim about the page.** Full
+record at `state/continuity.md` §*Volume 9 close — REVIEW REPAIR*.
+
+- **Eleven word-count claims in nine chapters now reproduce, and two that had nothing to count were recast.** ch 491,
+  ch 497, ch 502, ch 508, ch 519, ch 532, ch 533, ch 534 and ch 535. **The ch 535 line that records *I am not going to be
+  kept* as seven words is still exactly right and was not touched.**
+- **Four dates are settled and the day table did not move.** ch 524's month no longer begins on the seventeenth; ch 525's
+  thirty-six days left is thirty-three; **ch 532's two `seventeenth`s and ch 533:61's are the fifteenth**, which puts her
+  question on the fifteenth and his not softening it on the sixteenth, and leaves **ch 533's own sixteenth and seventeenth
+  standing.**
+- **ch 536's *The Two Days After* is now observed from somewhere she can be.** She is on a made road for the twenty-third
+  and the twenty-fourth, she does not come back, and **she does not know the light went out and has not asked.** The
+  twenty-third, the twenty-fourth, the dark hut on both nights and the departure at the fourth hour of the twenty-third
+  are all still on the page, and ch 537 was not opened.
+- **The one reference to non-forgiveness at ch 502 is cut and nothing was softened.** The account it carried is still on
+  the page in her own words. **ch 466's bill and ch 474's refusal are exactly as they were.**
+- **The two *nobody asked* lines at ch 499 and ch 505 and *there is no column* at ch 501 stand unreworded**, and the batch
+  record that claimed zero for them is corrected, **because the two are the volume's argument in dialogue.**
+- **Five retired tokens are gone** — three *about four seconds* and two *eleven weeks* — **and sixteen authorial
+  scaffolding lines are cut across fourteen files**, including two at ch 505 and ch 530 the close's own table had not
+  named. **The seven in-world uses of *on the page* are the world's paper and were left exactly as they stand.**
+- **ch 531's *at a hundred yards* is *at seven hundred yards***, and all fifty-eight files that lacked a trailing newline
+  have one.
+- **ch 536's *Twenty-two days* line is untouched and still open.**

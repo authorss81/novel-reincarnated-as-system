@@ -40,7 +40,7 @@ There is not her name in it. There has not been her name in it since the seventh
 
 That is the fourth time she has read that book and got that, and she put the point of her own bar down on the edge of the floor and stood there for a minute and a half and worked out whether she wanted it to be different.
 
-It was not grief. She wants that on the page because it has been put in front of her four times and the answer is the same every time.
+It was not grief. It has been put in front of her four times and the answer is the same every time.
 
 It was not grief. She is better off than the fourth book.
 

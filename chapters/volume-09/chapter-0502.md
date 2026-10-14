@@ -82,11 +82,11 @@ And that is the part that cannot be walked back, and she did not know it was goi
 
 He wrote it in his hand. Nine hundred years of hands and one of them put forty seconds of brush on a page, and the brush was his, and the book was his, and there is no hand in the world that can take a line out of that book and keep it out.
 
-She has spent eight years being entered by other people. Four times, in books, by offices, by men with brushes, and she has never once been able to take one out, and she has said out loud on a made road that she does not forgive and does not ask to be forgiven for any of it.
+She has spent eight years being entered by other people. Four times, in books, by offices, by men with brushes, and she has never once been able to take one out, and she said out loud on a made road, once, that it is not over and that it is not hers to finish.
 
 And on the third of a month she did the whole of it herself, with her own two hands, sitting in daylight, and gave it away.
 
-That is the finding and she has it exactly and she said it out loud once, on the bench, at the third hour, and it took eleven words:
+That is the finding and she has it exactly and she said it out loud once, on the bench, at the third hour, and it took fifteen words:
 
 “Four times somebody else wrote me down. The fifth time I said it to him.”
 

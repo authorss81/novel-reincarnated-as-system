@@ -18,7 +18,7 @@ There was not one person on eleven miles of made road in two days. There were fo
 
 That is a road with nothing on it. She has walked nine days of road for two years and every part of it has somebody on it going to or coming from somewhere, and this is eleven miles of it with four carts on it in two days, and that is the fact of the whole of it in one measurement.
 
-She ate nothing on the two days. She took water at a butt at the fourth mile and at the eighth and her right arm was open for most of the second half and her fourth count on a plain flat mile took about four seconds to come back instead of about two.
+She ate nothing on the two days. She took water at a butt at the fourth mile and at the eighth and her right arm was open for most of the second half and her fourth count on a plain flat mile took four seconds to come back instead of two.
 
 And at the sixth mile, in daylight, on the second day, she said out loud once, in the ordinary voice, to a made road with nothing on it.
 

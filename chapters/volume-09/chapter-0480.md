@@ -44,7 +44,7 @@ The woman looked at her.
 
 There is salt at that counter and there is oil and there is a thing made of bean that costs a copper and keeps for nine days and that she has bought twice in two years because she was walking.
 
-She looked at all three of them on the fourteenth and she did not buy one of them, and she wants that on the page because it is the shape of the whole of the last four months in a single counter.
+She looked at all three of them on the fourteenth and she did not buy one of them, and that is the shape of the whole of the last four months in a single counter.
 
 The rate is the rate. Nobody in the history of that store has ever been talked into a thing, and she is eighteen years old with a bar she cannot hold at the heavy end and eight of eleven holds, and there is not one argument she is able to make to a woman behind a counter about the price of anything.
 

@@ -12,7 +12,7 @@ Three days of the most ordinary thing anybody has ever done to her.
 
 ## What Happens If She Says Neither
 
-She asked it at the ninth hour of the fifteenth, in the ordinary voice, and she had it ready and it was eleven words.
+She asked it at the ninth hour of the fifteenth, in the ordinary voice, and she had it ready and it was nine words.
 
 “What happens if I do not choose either word.”
 
@@ -116,9 +116,9 @@ She went over both of them for two days and she did not get anywhere, and that i
 
 Two nouns. One of them is what he said to her in the ordinary voice on the tenth of a month, about a person on his book and a person off it.
 
-The other one she has never had explained to her by anybody, and she asked him for it at the ninth hour of the seventeenth, and he said it has two words in it and that is the end of the words, and he was right about that too and she hated it.
+The other one she has never had explained to her by anybody, and she asked him for it at the ninth hour of the fifteenth, and he said it has two words in it and that is the end of the words, and he was right about that too and she hated it.
 
-So here is everything she knows about the two places a name can go, on the seventeenth of a month, at the fourth hour, sitting on the boards with the wind coming off the flat.
+So here is everything she knows about the two places a name can go, on the fifteenth of a month, at the fourth hour, sitting on the boards with the wind coming off the flat.
 
 She does not know what either one of them does to a person.
 

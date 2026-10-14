@@ -50,7 +50,7 @@ She said it to a wall and she does not know whether it carries nine feet or a hu
 
 “I know it is you in there,” she said.
 
-That is all of it. Eleven words, once, in the ordinary voice, and she has said everything out loud exactly once all her life and this is the first thing she has said that she was not saying to the room she was standing in for the sake of the count.
+That is all of it. Seven words, once, in the ordinary voice, and she has said everything out loud exactly once all her life and this is the first thing she has said that she was not saying to the room she was standing in for the sake of the count.
 
 Then she stood in the opening for about a minute and a half and nothing came back out of the dark, and she went in and shut the door and waited for the latch.
 

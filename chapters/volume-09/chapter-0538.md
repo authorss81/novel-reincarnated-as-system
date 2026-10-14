@@ -26,7 +26,7 @@ She squared it on the stone the way you square a thing, and she put it down besi
 
 ## She Did Not Ask Him To Keep It
 
-There were three reasons and she had all three of them by the fourth hour and she wants them on the page because it is the single act the whole of this is for.
+There were three reasons and she had all three of them by the fourth hour and she is going to say all three because it is the single act the whole of this is for.
 
 She cannot put it in his hands. Her hand will not take and it will not put a thing into anybody else’s hands either, and that is one rule and it has been one rule since she was fourteen, and it does not have an exception in it for a man she has read four sentences to.
 
@@ -94,7 +94,7 @@ There is a chair against a wall in a nine-foot room that she has not sat in sinc
 
 He is nine miles west of the only place in the world where that book is ever opened, and he is never going to open it again there.
 
-That is the price of it and it is on the page and she is not going to describe it twice.
+That is the price of it and she is not going to describe it twice.
 
 ## Five Days Of It
 

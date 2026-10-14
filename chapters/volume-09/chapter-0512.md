@@ -4,7 +4,7 @@ She went back to the cut at the fourth hour of the fifteenth of a month to find 
 
 ## The Boards
 
-There is a board outside the room with the six day books and the board is four feet by three and it is ruled in a hand she can take, and it carries every line of work anybody on this ground has offered in eleven weeks.
+There is a board outside the room with the six day books and the board is four feet by three and it is ruled in a hand she can take, and it carries every line of work anybody on this ground has offered since she first stood in front of it.
 
 Forty-one lines a month, for two years, and she has read the whole of this one twice and can take none of it, and she read it again on the fifteenth with her finger under the ruled lines going along, and the finger stopped four times.
 

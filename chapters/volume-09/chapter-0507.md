@@ -36,7 +36,7 @@ And then she did not sleep in the shed.
 
 ## Three Nights
 
-That is the part she would not have believed in the fourth month and it is the whole of the third day on the page.
+That is the part she would not have believed in the fourth month and it is the whole of the third day.
 
 She put the bar against the wall at the eighth hour of the twenty-eighth, and she did not sleep on the bench, and she went down the lane in the dark a quarter of a mile and slept in the lee of the low bank with her clothes on.
 

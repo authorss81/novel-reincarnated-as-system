@@ -110,7 +110,7 @@ She is the only person in the world who knows what is written on that sheet, and
 
 ## Keeping Still
 
-And then she did the thing the chapter is named for.
+And then she kept still, which is the whole of what she has for the next day and a half.
 
 She went to the end of the six day books and she read the fourth one backwards from the last page to the first, which takes nine minutes, and there was nothing, and she came home.
 

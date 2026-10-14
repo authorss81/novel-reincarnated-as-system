@@ -47,12 +47,16 @@ what was measured at the time, and re-measuring it will produce a different numb
 
 | Section | What it is |
 | --- | --- |
-| `## How to read this file` | The cold-start reading order for the whole run. **Still valid as written, and its live-position entry was corrected to ch 523 at the Volume 9 Batch 0003 review.** |
-| `## Who is where at end of chapter 523` | **THE LIVE POSITION.** ch 523, day 1,561. Every earlier position block is superseded by this one. |
+| `## How to read this file` | The cold-start reading order for the whole run. **Still valid as written. Its live-position entry was corrected to ch 523 at the Volume 9 Batch 0003 review and again to ch 538 at the Volume 9 close review repair.** |
+| `## Who is where at end of chapter 538` | **THE LIVE POSITION.** ch 538, day 1,598, end of Volume 9, sixty chapters audited and repaired. Every earlier position block is superseded by this one. |
+| `## Volume 9 close — the volume as a whole` *(in `state/continuity.md`)* | **READ SECOND.** The volume-level established facts for ch 479–538, the construction budget re-measured for all sixty chapters, and the twenty-six audit findings with what the repair pass did to each. |
+| `## Volume 9 close audit — CLOSED` | **READ THIRD.** The audit's own record: twenty-six findings, none repaired at the time, and the class-by-class repair table. |
+| `## Volume 9 close — REVIEW REPAIR` | **READ FOURTH.** The repair pass that cleared those findings on the page — eleven word-count claims, four calendar and staging defects, sixteen authorial-scaffolding lines, three retired tokens, one distance, fifty-eight trailing newlines, and the two state-file contradictions this index was corrected for. **No beat, day-table anchor, title, stage, bracket, mouth, irreversible decision or planned event moved.** |
+| `## Who is where at end of chapter 523` | The Volume 9 Batch 0003 position, superseded by the ch 538 block. |
 | `## Who is where at end of chapter 508` | The Volume 9 Batch 0002 position, superseded by the ch 523 block. |
-| `## Where Volume 9 actually stands` | **READ THIS SECOND.** The three batches on the page, their days, their brackets, and the fact that Volume 9 is on its last batch. |
+| `## Where Volume 9 actually stands` | **READ THIS ALSO.** The three batches on the page, their days, their brackets, and the fact that Volume 9 is on its last batch. Its batch-count line predates Batch 0004; the ch 538 block above is the position. |
 | `## Volume 9 Batch 0003 — REVIEW REPAIR` | **READ AFTER THAT.** Six findings closed and a seventh found while applying them: the transposed operand in the 258-day silence, the ch 522 day row short by three, the two carried-days notes reconciled to 1,557–1,560, four stale headers in this file plus three live pointers elsewhere, two duplicated paragraphs recast at ch 513 and ch 515, and the authorial heading at ch 518. **No beat, day-table anchor, title, stage, bracket or irreversible decision moved.** |
-| `## Who is where at end of chapter 434` | The Volume 8 Batch 0001 position, superseded by the ch 508 and ch 523 blocks. |
+| `## Who is where at end of chapter 434` | The Volume 8 Batch 0001 position, superseded by the ch 508, ch 523 and ch 538 blocks. |
 | `## Who is where at end of chapter 420` | The Volume 7 Batch 0004 position, superseded by the ch 434 block. Kept because the cold-start reading guide names it |
 | `## Volume 8 Batch 0001 — what the batch did, and where the order went` | **What ch 421–434 changed, and the three places the card file lost to the day table.** |
 | `## Volume 8 Batch 0001 — REVIEW REPAIR` | **READ AFTER THAT.** All twenty-one review findings closed: the copper ledger reconciled on twenty-one, every interval back to the ch 417 refusal put on counted days, ch 421's double-booked seventh hour and rewind repaired and the twenty-ninth shared with ch 422, the trip put back to four days, ten craft defects and four state-file defects closed, and three adjacent defects found and fixed in the same class. No beat, day-table position, title, stage, bracket or irreversible decision moved |
@@ -102,18 +106,24 @@ five before it, at `## Volume 7 planned`, `## Volume 7 Batch 0001` … `## Volum
 
 ## For the next phase
 
-**Volume 9 Batch 0004 drafting reads, in this order:** `workspace/volume-09-batch-0004/PROMPT.md` — **which is the whole
-brief: ch 524–538, days 1,562–1,598, pressure *surviving being kept*, and the batch that closes the volume** — then
-`outline/volume-09.md` · this file · `state/current.md` §*Where Volume 9 actually stands* ·
-`state/current.md` §*Who is where at end of chapter 523* · `state/current.md` §*Volume 9 Batch 0003 — REVIEW REPAIR* ·
-`state/continuity.md` §*World rules* · `state/continuity.md` §*Established facts, Volume 9 Batch 0003 (ch 509–523), carried
-to Batch 0004* and its `— REVIEW REPAIR` · `state/open-threads.md` §*Volume 9 Batch 0003 (ch 509–523) — what this batch
-added, live going into Batch 0004* · `state/chapter-summaries.md` §*Volume 9 Batch 0003*.
+**Volume 10 planning reads, in this order:** `workspace/volume-10-planning/PROMPT.md` — **which is the whole brief:
+plan Volume 10, ch 539–600, and write its first 10 to 20 chapter batch prompt, and nothing else** — then
+`outline/series.md` §9 · `outline/volume-09.md` §*New question for Volume 10* · this file ·
+`state/current.md` §*Who is where at end of chapter 538* · `state/current.md` §*Volume 9 close audit — CLOSED* ·
+`state/current.md` §*Volume 9 close — REVIEW REPAIR* · `state/continuity.md` §*World rules* ·
+`state/continuity.md` §*Volume 9 close — the volume as a whole* and its `— REVIEW REPAIR* ·
+`state/open-threads.md` §*VOLUME 9 CLOSED AND AUDITED at ch 538* ·
+`state/chapter-summaries.md` §*Volume 9*.
 
-**Corrected at the Volume 9 Batch 0003 review.** This block previously sent every phase to Volume 8 Batch 0001 and its
-PHASE ZERO, which were discharged four phases before it, and the hot-file tables above it still named ch 434 as the live
-position. **Both are corrected here and in the tables; the Volume 7 close repair order paragraph below is left as
-written, because it is a record of a discharged obligation and not a reading instruction.**
+**Two things that must not be re-opened by the planning phase:** `outline/ending.md` does not open until Volume 10's own
+planning has fixed its cards, and **the *Twenty-two days* line at ch 536 stays open and unplaced** — it is a question the
+volume hands forward, not an error, and no planning card may resolve it.
+
+**Corrected at the Volume 9 close review.** This block previously sent every phase to Volume 9 Batch 0004, which is
+executed in full and closed; **corrected at the Volume 9 Batch 0003 review**, where it had sent every phase to Volume 8
+Batch 0001 and its PHASE ZERO, four phases discharged earlier. **Both are corrected here and in the tables; the Volume 7
+close repair order paragraph is left as written, because it is a record of a discharged obligation and not a reading
+instruction.**
 
 ## The next time this is needed
 

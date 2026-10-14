@@ -118,11 +118,11 @@ She does not think of it as a thing either of them did wrong. She put him on the
 
 Nothing came to the opening on the twenty-third or the twenty-fourth.
 
-The table stood in it with nothing on it from the fourth hour to the eleventh hour and then past the eleventh hour and then past the dark. She went out four times a day for two days and the four feet of plank table was there and the dirt on both sides was flat where his boots had been for fifteen days.
+She was on a made road for both of them and she did not come back. The table stood in it with nothing on it from the fourth hour to the eleventh hour and then past the eleventh hour and then past the dark, and the dirt on both sides of it was flat where his boots had been for fifteen days.
 
 On the twenty-third at the ninth hour there was no light in the window of the hut a hundred yards east.
 
-On the twenty-fourth at the fourth hour there was not either.
+On the twenty-fourth at the fourth hour there was not either. She was at a crossing eleven miles off it with her right arm open and she did not know that and she has not asked and she is not going to.
 
 ## What She Is Left Holding
 
