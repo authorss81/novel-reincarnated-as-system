@@ -7988,3 +7988,300 @@ window a hundred yards off the east side · the lime off the bar · the hut ligh
 far the rows sit past the wall · **anything above the low door** · **anything east of the wall**, which Batch 0002 opens
 on. **No Immortal Vessel stage was taken and no stage was named**, and **no Volume 12 cost was named**, because the first
 is at ch 685 and naming one here would spend Batch 0002's.
+
+---
+
+# VOLUME 12 BATCH 0002 — *the lamps*, ch 676–690
+
+**Fifteen chapters, 28,804 words of body prose on method B — every line not beginning `#`, counted per file and summed —
+average 1,920 a chapter, day 2,091 to day 2,140.** Batch 0001 is 29,900 over fifteen and the volume is 58,704 over thirty at
+average 1,956. Pressure: **the lamps**. Midpoint ch 683, climax ch 685 and ch 689, irreversible step ch 689.
+
+Per file: 676 2,084 · 677 1,951 · 678 2,078 · 679 1,757 · 680 1,937 · 681 1,989 · 682 1,901 · 683 1,910 · 684 1,930 ·
+685 1,932 · 686 1,818 · 687 1,785 · 688 2,068 · 689 1,843 · 690 1,784.
+
+## Established facts, Volume 12 Batch 0002 (ch 676–690) — WHAT A READER IS FOR
+
+### Where she is at the last page, in one line
+
+**Day 2,140, the twenty-seventh of the month beginning 2,114, in the rows, with a bar nine feet nine, five hundred and
+eighty days lighter, at IMMORTAL VESSEL 1, with a line in her own hand on a board at the north end of a ground of two
+hundred people, and with a record of her whole life being kept by the thing that was made to record her and said out loud
+to her as it goes.** Four days to the first of the month beginning 2,144.
+
+### The day table, re-derived and measured
+
+**2,091 eighth · 2,092 ninth · 2,093 tenth · 2,094 eleventh · 2,095 twelfth · 2,096 thirteenth · 2,097 fourteenth ·
+2,098 fifteenth · 2,099 sixteenth · 2,100 seventeenth · 2,101 eighteenth · 2,102 nineteenth · 2,103 twentieth · 2,104
+twenty-first · 2,105 twenty-second · 2,106 twenty-third · 2,107 twenty-fourth · 2,108 twenty-fifth · 2,109 twenty-sixth ·
+2,110 twenty-seventh · 2,111 twenty-eighth · 2,112 twenty-ninth · 2,113 thirtieth — all of the month beginning 2,084 ·
+2,114 the first, 2,115 the second … 2,128 the fifteenth, 2,129 the sixteenth, 2,130 the seventeenth, 2,131 the eighteenth,
+2,132 the nineteenth, 2,133 the twentieth, 2,134 the twenty-first, 2,135 the twenty-second, 2,136 the twenty-third, 2,137
+the twenty-fourth, 2,138 the twenty-fifth, 2,139 the twenty-sixth, 2,140 the twenty-seventh — all of the month beginning
+2,114.** A script was run over all fifteen files matching every ordinal against its month-begin under
+`((mb − 134) mod 30) == 0`, and **every pair on the page is a real month-day.** Outside the batch she is quoted three times
+and all three reproduce: **the eighteenth of the month beginning 1,544 (day 1,561, where the lighter series begins) · the
+twenty-fourth of the month beginning 2,054 (day 2,077, the day her name went on the slate) · the fourth of the month
+beginning 1,994 (day 1,997, Severance 9)** — plus the sixth of the month beginning 2,054 (day 2,059, the turn) and the
+seventeenth of the month beginning 2,054 (day 2,070, the day the first went up).
+
+**THE ONE FALSE MONTH-BEGIN ON THE PAGE IN THIS BATCH IS DELIBERATE.** Ch 676 quotes *the fourteenth of the month beginning
+2,034* — **that is ch 665's asking, carried forward verbatim, and 2,034 is not a month.** It is one of the four things
+Batch 0002 inherited flagged and **it was not re-derived and not corrected.** See *Four flagged items* below.
+
+### The lighter figure, measured on the page
+
+`D − 1,560`, counted with the first day as the first. **Five hundred and thirty-one at day 2,091 (ch 676) · five hundred
+and seventy-two at day 2,132 (ch 688) · five hundred and seventy-four at day 2,134 (ch 689) · five hundred and seventy-eight
+at day 2,138 (ch 690).** All four were checked by subtraction from the day number and none was counted on fingers.
+
+### The geography, as it now stands, and what it does NOT fix
+
+Turn · thirteen miles east to a wall · a gate two miles short of it · two miles of flat between the gate and the wall with
+nothing to lie down on · the wall standing open four feet and a bit · a fence on the north side that goes on for a mile and
+then stops · a row of stones on the south side at unequal intervals · **the rows, past the wall, at a distance she did not
+count and noticed herself not counting** · **a made road that turns about three miles past the wall, with a gate, a lane and
+the building with the lamps at the end of it** · **about four miles between the rows and the gate of the lane** ·
+a yard with four carts under tarpaulins · one storey, one hundred and forty feet front, twenty-two tables, about a hundred
+people, a lamp on every table, the shutters up.
+
+**WHAT REMAINS OPEN AND WAS NOT SETTLED: how far the rows sit past the wall.** Ch 676 says so on the page and means it.
+**No card in this batch states it and no card may.** The distance rows-to-building is a different figure, is not the open
+thread, and is on the page as about four miles because ch 686 has her walk it twice in a day.
+
+### Established on the page, chapter by chapter, and true
+
+1. **The strap is gone.** It parted at the second hour of the fifth of the month beginning 2,084, six miles east of the
+   turn. **There is no strap on the bar from ch 676 to the last page of the batch.** Every lift and every set-down costs a
+   count of between twenty-two and fifty-four and she has done it about four hundred times in a month. **This is Batch
+   0002's standing physical cost and it is not fixed in this batch.**
+2. **She is not readable and cannot be confirmed, therefore she could never have been recruited.** Stated once, at ch 681,
+   and the whole of Batch 0001's and most of Volume 8's refusal turns out to have been against something that was never on
+   the table. **No chapter makes anybody in that building wrong about it.**
+3. **The rate, as the page now carries it, is the canon figure:** two coppers a page, a second rate by the difficulty of the
+   hand, and a third rate at twice the first, at four coppers, for a hand not one reader in the building can make out. The
+   third-rate line was on the painted rate board in Volume 8 before she arrived. **`four coppers for every page … with no
+   second rate and no third rate` at ch 473 is NOT reproduced and is NOT contradicted here; the figure that answers every
+   question in this batch is the painted board's, which is the one in `state/continuity.md` at the Volume 7 close.**
+4. **Xie Changyin is sixty-three.** Recruited at nineteen out of a village, forty-four years in, and she is right about
+   everything she says. **She is on the page at ch 679 and ch 684 and nowhere else in the batch**, which is what
+   `outline/volume-12.md` fixes and what the batch card fixes. **What she says that she is wrong about: a person on a roll
+   is safer than a person off it — said once, in the ordinary voice, at ch 679, and not argued with.** **She does not learn
+   the levy, the arm, the turn's board, or what is written on it, and she is not told what the money above the building is
+   for, and she says once, in the ordinary voice, that she is not permitted and has never been permitted.**
+5. **The man with the book is sixty-five,** four years on from sixty-one at the Volume 8 close, on the same derivation the
+   outline applies to Xie Changyin's sixty-three. He has been in the room forty-six years. **He has written two lines about
+   her across two refusals, four years apart, in the ordinary hand, and did not write why either time.**
+6. **The budget at ch 683, and every figure in it, measured.** Head: *the twelve months ending on the twenty-seventh of the
+   month beginning 2,084* (day 2,110). Total **ninety-eight thousand**. Lines: paper, quills and ink, **4,516**; lamp oil
+   and wick, **1,680**; firewood, **2,400**; food, **3,560**; the counter and the four doors, **360**; the rate at two
+   coppers the page, **81,960**; the rate at four coppers the page, **604**; three rooms furnished, **0**. **The seven lines
+   come to 95,080 and the total is 98,000 and the difference is 2,920.** Verified by script. **2,920 ÷ 365 = 8 exactly,
+   which is why the chapter says eight coppers a day; 98,000 ÷ 5 = 19,600, so it is not a fifth; 2,920 ÷ 36 = eighty-one
+   and four thirty-sixths, so it did not come off a payday; 81,960 ÷ 2 = 40,980 pages and 604 ÷ 4 = 151 pages, both whole,
+   so no copper came off a page and nobody in that room was paid short.** **The third-rate line is hers: six hundred and four
+   coppers, a hundred and fifty-one pages in twelve months.**
+7. **What three hundred and forty, four hundred and thirty, six hundred and four and two thousand nine hundred and twenty
+   are NOT: not the levy, not a shortage in the rate, not an even spread.** **What they ARE IS NOT KNOWN.** **No chapter in
+   this batch attributes the difference to anything, and no mouth in the building is permitted to.**
+8. **IMMORTAL VESSEL 1, at ch 685, day 2,128, the fifteenth of the month beginning 2,114, at the second hour of the
+   afternoon, at the north end of the rows, in daylight, with about two hundred people in the ground. Taken in nine seconds.
+   No announcement. No bracket. The lamp in a cage in her coat did what a lamp does and she has carried it since a yard four
+   miles up a mountain.**
+9. **THE INTERVAL: ONE HUNDRED AND THIRTY-ONE, and not seventy.** Derivation, done on the page at ch 685 and re-measured
+   here: **2,128 − 1,997 = 131**, and the ninth stage is the fourth of the month beginning 1,994. The seventy came from
+   counting on her fingers off **the day she reached the turn, day 2,059**, which gives **2,128 − 2,059 = 69**, and **the
+   ninth stage is 2,059 − 1,997 = 62 days further back, and 69 + 62 = 131.** **The repair rule from Batch 0001's review is
+   applied on the page and is now a thing she says: an ordinal and the interval that reaches it are two different figures.**
+10. **THE FIRST NAMED VOLUME 12 COST, at ch 685, once, and applied at scale and not re-derived: SHE CANNOT BE GIVEN A
+    SHAPE.** Not by the building, not by the county, not by a book, not by a board, not by a sheet. Every shape in this
+    world is a shape somebody gave you. **A shape has to be made in her own hand, and her hand cannot write a false line.**
+    **Ch 686 shows it applied — the book, a sheet, the call — and does not re-explain it. Ch 687–690 carry it and do not
+    name it.**
+11. **THE LINE ON THE BOARD AT THE NORTH END**, written at the fourth hour of the afternoon of the fifteenth of the month
+    beginning 2,114, in daylight, with four fingers and a thumb, on an arm that was open: *NING YAN. The fifteenth of the
+    month beginning 2,114, at the north end of the rows. I am nineteen. I am not on a roll and I am not under a name
+    above this ground and I am not going to be given one. I have written this one myself and it is true.* **It is on a
+    board and not in the book. The five blank leaves stayed blank and are named as blank at ch 685.**
+12. **COURT, taken at ch 687, day 2,131, at the first hour, without a question and without a decision.** What it is on the
+    page: **he is addressable; a person in a room can be spoken to; and a thing above the line can put a name in a mouth he
+    does not have.** The proof is a carter of about fifty at a cart, who cannot read her line and who says `YUAN SHENG`
+    twice and does not know he has said it, **in a ground with two hundred people in it.** **No figure of what is left of him
+    is stated anywhere. `Scribe` as a proper noun is 0 across the batch.**
+13. **THE BILL FOR COURT, raised at ch 688 and NOT PAID.** A thing that reads records has never wanted one in eleven
+    hundred years and there is one now. **She raises it out loud, standing, at the tenth hour of the nineteenth, and it is
+    not answered by anybody, and she explicitly does not pay it and does not refuse it.** **Nothing in this batch addresses
+    him but her. Nothing arrives with a sender. The address belongs to Volume 15.**
+14. **THE PERMISSION, at ch 689, day 2,134, the twenty-first of the month beginning 2,114, at the third hour of the
+    afternoon, standing, in daylight, at the north end of the rows, in front of about two hundred people, with six terms.**
+    **THE BATCH'S IRREVERSIBLE STEP.** She says **no** first and says it properly, and then changes it, and says why before
+    she changes it. **She quotes the ch 658 sentence once, out loud, in a ground with people in it: *for eight years I did
+    not have a man, I had a column.*** The six terms: **one thing at a time · in daylight · standing up · he says it out
+    loud as he goes, before it is a line anywhere else · if he ever puts down one word that is not true she will know it
+    inside a day and there is no road back for either of them · it is a record and not a hand, he does not decide anything,
+    she decides everything.** The pinned sentence follows: **Yes, and you say it out loud as you go, and if you ever write a
+    line down that is not true I will know inside a day and there is no road back for either of us.** **The reason she said
+    yes is true, and the chapter says so out loud, and that is the damage.**
+15. **CH 690 is what it is to live inside that.** Nothing goes wrong. The instrument is a voice and there is no page. **On
+    the twenty-fifth of the month beginning 2,114 she notices she has stopped checking and does not remember deciding to.**
+    **On the twenty-seventh he reads the entry about the permission itself out loud and she says nothing at all, because
+    there is no seventh term, and a document agreed to in daylight cannot be added to either.** **She does not take it back
+    and does not ask for the terms again.**
+16. **The carter at the north end of the rows, ch 687.** A man of about fifty, nineteen years on that made road, never
+    heard the name, does not know where he got it, got back on his cart and went east. **He is not named and is not on the
+    page again.**
+17. **Her brother is on the page once in this batch, at ch 678, in the third row, and settles nothing.** He is nineteen, six
+    years in that ground, and the one thing he tells her is that **the board at the north end went from two lines to six to
+    four** and that it has been four since the eleventh year. **He is not named on the page. `Ning Wu` reads 0.** **His one
+    Volume 12 appearance outside ch 713 is spent here and the outline's own instruction — that both settle nothing — is
+    kept.**
+18. **The man with a shut notebook is on the page once, at ch 682, nine feet off, in the ordinary voice, and buys nothing
+    and threatens nothing and is not asked a question.** She asks him one. He says it is not his question to decide and
+    gives her the other thing. **`Hunter` 0, `field agent` 0, `Wall writ` 0. His request stays pending.**
+
+### Four flagged items Batch 0002 inherited, and what happened to each
+
+1. **ch 665's *the fourteenth of the month beginning 2,034* — CARRIED, NOT FIXED.** It is quoted once in this batch, at
+   ch 676, as a quotation of what she asked on a floor. **2,034 is still not a month. No re-derivation was attempted.**
+2. **ch 670's *the fifth of the month beginning 1,914* — NOT QUOTED IN THIS BATCH.** It does not appear in ch 676–690, so
+   the batch neither repeats nor resolves it. **It still needs an author's answer and cannot be guessed.**
+3. **The carried figure *thirteen days* — NOT ADDED TO.** `thirteen days` does not appear as a county or road total in any
+   of ch 676–690. **This batch added no ninth instance and in fact quotes none of the eight that stand.**
+4. **The batch ran cool through the middle — ADDRESSED ON THE PAGE.** The cost now lands in ch 676, inside the first
+   chapter: **the strap parts, the bar goes into a hand with four fingers on it, on the arm that is open four days in five,
+   for three days out of six, and she cannot put the bar on her shoulder for a count of twenty-nine any more.** Three more
+   costs inside the first ten chapters: ch 678 (being recognised and not being able to leave), ch 682 (furniture), ch 686 (a
+   stage with nothing under it).
+
+### Two things this batch found that it did NOT resolve, and must not be read as resolved
+
+- **The difference of two thousand nine hundred and twenty is unattributed.** She has ruled out a fifth, a page, a payday
+  and a rate shortage, and that is all. **It is not the levy and is not said to be.** Whoever owns that line is above the
+  building and there is no hand in the building.
+- **The bill for Court is open.** She priced it in days at ch 688 and then did not say out loud what she had worked out,
+  **which is that it may take the writing off the board and not the person.** That is the seed of ch 718 and **nothing in
+  this batch says so.**
+
+### Construction budget — Volume 12 Batch 0002 (ch 676–690), measured by grep, not promised
+
+**Method B throughout: body prose is every line not beginning `#`, counted per file and summed.**
+
+- Bracketed layer lines: **0** in fifteen chapters. Bold: **0**. **Italic lines: 2** — one at ch 681 and one at ch 683, both a
+  quoted clause of the sheet or of the first line of it, and Batch 0001 also carried exactly two. **Blockquotes, code fences,
+  tables, horizontal rules: 0. Standalone all-caps lines: 0.**
+- Straight quotes and straight apostrophes: **0**, measured with `grep -nP '[\x22\x27]'` over all fifteen files. Every
+  apostrophe is the curly form.
+- Named weekdays, named calendar months, named weeks: **0**. `week` **0** across the batch.
+- Banned reflexes (`his eyes widened`, `he couldn’t believe it`, `suddenly`, `little did he know`): **0**.
+- Surface-answer tokens: `charged` **0** · `bookkeeping` **0** · `receipt` **0** · `bounded world` **0** ·
+  `the walls` **0** over the batch.
+- Retirements: `Ledger` **0** · `reconciled` **0** · `plate` **0** · `kiln-born` **0** · `MEMBER ABSENT` **0** ·
+  `clearance` **0** · `seal`/`sealed` **0** · `countersignature` **0** · `Lung` **0** · `licence`/`license` **0** ·
+  `Anchor` **0** · `Sisterhood` **0** · `bargain` **0**.
+- `Scribe` as a proper noun: **0**. A case-insensitive grep returns **2** and **both are inside `describe`/`described`** —
+  which is the false-positive this run has caught itself on before. **`Ning Wu` 0 · `Shuyin` 0 · `Hunter` 0 ·
+  `Feng Lushi` 0 · `Wei Ran` 0.** `Xie Changyin` is on the page at **ch 679 and ch 684 and nowhere else**, and the name
+  appears nowhere else in the fifteen.
+- `forgi` **0** and `the year` **0**, both measured against `chapters/volume-12/*.md` — the whole directory, so Batch
+  0001's zero is re-measured and not assumed. `twenty-two days` **0** over the directory.
+- `about four seconds` **0**. `eleven weeks` **0**.
+- Authorial scaffolding: **0.** The bare words `volume`, `volumes`, `chapter`, `batch` and `the novel` were checked by
+  `grep -oiE` over all fifteen files and **return 0**; **ten instances of scaffolding written in draft were cut before the
+  count was claimed** — five uses of *volumes* as a unit of elapsed experience (ch 678 ×3, ch 679), the phrase *the end of
+  the book* at ch 682, *the fourth volume* at ch 678, *what the chapter is* and *the batch of her life* at ch 688, and
+  *this whole chapter* at ch 690. **The one surviving instance of the word `reader` is ch 679's *the reader is the hand that
+  reads it*, which is the trade's own noun and is the sentence the batch turns on.**
+- **THE THREE CRAFT WORDS, MEASURED WITH `grep -oiw` PER FILE AND SUMMED.**
+  `nobody` — Batch 0001 **9**, this batch **10**, directory total **19**, volume line under thirty. ✔
+  `eleven` — Batch 0001 **10**, this batch **13**, directory total **23**, volume line under forty. ✔
+  `thank` — Batch 0001 **0**, this batch **0**, directory total **0**. ✔
+- **The counted constructions, measured against the whole batch, with the method named in the same sentence as the number.**
+  `about` **225** at first count and **203** after a pass that dropped every repeated *about a hundred people* and *about
+  two hundred people* to the plain article after its first use in a chapter — Batch 0001 is **120**, so **this batch is
+  higher than Batch 0001 and the figure is published rather than hidden.** `nothing` **61** against Batch 0001's **68**.
+  `out loud` **89** against Batch 0001's **75**. `whole of` **45** against Batch 0001's **41**. `list` **5**, all in real
+  senses, against Batch 0001's **0**.
+- Titles: **fifteen names, 3–12 words, under about 90 characters, unique against all 675 standing headings and against
+  each other.** Checked with `comm -12` against a list built from every chapter file except these fifteen. **One collision
+  was found and fixed: ch 680's original title `One Line And A Date` collides with ch 536, and it is now
+  `What Goes In The Book`.**
+- Section headings: **no two in one chapter share a name, and none repeats a heading anywhere in `chapters/volume-12/`.**
+  Checked with `comm -12` and `uniq -d`. **One duplicate inside the batch was found and fixed: two sections called
+  `The One Question` at ch 679 and ch 684, now `The One Thing She Says` and `What She Asked Instead`.**
+- Paragraphs: **775 in the batch, none over about 120 words**, checked by script over every paragraph of every file, and
+  **70 of them are one-line beats of six words or fewer, which is 9.0 per cent against Batch 0001's 15.5.** Most
+  paragraphs are two to four sentences.
+- The longest run of consecutive paragraphs opening on the same word is **6** (ch 683), against Batch 0001's **15**
+  (ch 672). The dialogue register opens a great many paragraphs on `She said` and that is the established house form.
+- **No chapter is under the 1,300 floor and none is over the 2,700 guide.** The shortest is ch 679 at 1,757 and the longest
+  is ch 676 at 2,084.
+
+### Two conflicts between the batch card and `outline/volume-12.md`, and how they were adjudicated
+
+The card opens with *where this card and the outline ever disagree, the outline is the authority*, and two cast questions
+were in genuine collision. Both are recorded here because the next phase must inherit the reasoning, not the accident.
+
+1. **Her brother.** The card says *Ning Wu is not on the page in this batch*. `outline/volume-12.md` §*Ning Wu in Volume 12*
+   says **he is on the page at most twice in Volume 12, at ch 678 as she walks past the rows going east, and at ch 713.**
+   Ch 678 is inside this batch. **The outline wins and he is on the page once, at ch 678, in the third row, for about forty
+   seconds, and nothing is settled.** The card's own Feng Lushi sentence is a near-verbatim paraphrase of the outline's
+   Feng Lushi section, which is how the reviewer can tell the cast list was compiled *from* the outline and compressed
+   rather than re-decided.
+2. **The man with the shut notebook.** The card puts him in the batch's not-on-the-page list. `outline/volume-12.md`
+   §*The Hunter in Volume 12* says **he is on the page at most twice in Volume 12 and what she asks him in Batch 0002 is
+   whether a person who is about to be counted by everybody ought to be counted by somebody first.** **The outline wins
+   and he is on the page once, at ch 682.** `Hunter` still reads 0 on the page because he is never named, which is the
+   house form for him.
+
+A third, smaller one: the card's *Physical risk or real deadline* section calls **day 2,104 the twenty-fourth of the month
+beginning 2,084**, while the same card's own day table says `2,104 → 21`. **Under `((2,104 − 134) mod 30) + 1` day 2,104 is
+the twenty-first and the twenty-fourth is day 2,107, and the chapter says the twenty-fourth and the chapter's arithmetic
+agrees.** The card's day table is right and its parenthetical is the error.
+
+### Untouched and unraised across ch 676–690
+
+`Ledger` 0 · `reconciled` 0 · `plate` 0 · `kiln-born` 0 · `MEMBER ABSENT` 0 · the four erased months not named · the
+ch 150 refusal not softened · `the year` 0 · `forgiv` 0 · `thank` 0 · her mother’s name never said · the three Volume 11
+costs carried whole and never re-derived · no bracket · no frame scene · **no stage named before ch 685 and no stage after
+it** · the four sheets of rice paper never against her ribs, never quoted, the forty-one strokes not looked at · the key
+to the drawer never used on the page · **the lever never pulled and never carried in this batch** · no new clearance, seal or
+countersignature · no office above the Standing Office of the Second Account · no harem and nothing a romance · **the
+Hunter’s request pending and not raised** · *twenty-two days* unplaced and never equated to a dated interval.
+
+### Running ledger — at end of ch 690, day 2,140
+
+- **Ning Yan — IMMORTAL VESSEL 1**, taken at ch 685, day 2,128, in daylight, at the north end of the rows. **Nineteen.**
+  A bar nine feet nine with **no strap on it**. Four fingers and a thumb, the index gone. Right arm open four days in five
+  and it was open when she wrote the line on the board. Four counts of breath with seven on a rise. Eight of eleven holds.
+  The small open place low behind her fourth rib, the size of a coin. **Five hundred and eighty days lighter and not one
+  day of it gone back. Not hungry.**
+- **Against her ribs: one object.** A book of eight leaves made out of a blanket, a date and a place on the first, four
+  sentences on the second, `YUAN SHENG` on the third in four capital strokes in her own hand, and five blank. **She called
+  it nothing and this batch did not name it for her, and it still is not named at the last page.**
+- **In her hand:** two coppers she cannot count. In her bag: a dish, a lump of clay, a ring a finger’s width, a stub of a
+  nib, a cake of ink opened on the seventh of the month beginning 1,874 and never let dry, **and a key to a locked drawer
+  four miles west of a square that she did not use in this batch.**
+- **On a board at the north end of a ground with two hundred people in it:** one line in her own hand, true, and about
+  fifty days of four men’s strokes and numbers written either side of it by men who cannot read it.
+- **On a slate at a turn twenty miles west:** `Ning Yan`, a stroke, thirty days of the month beginning 2,114, in a county
+  hand. It went up on the first of the month beginning 2,084 and came back down empty, and it goes up again on the first of
+  the month beginning 2,114, **and she was sixteen miles east on the twenty-fourth that took it in and missed the day for
+  the first time in nine years.**
+- **Against the inside of the county hand and her own:** **a record, being kept, out loud, in the ordinary voice, of the whole
+  of it, with six terms and no seventh.** **And a bill that has been raised out loud at the tenth hour of a night and
+  answered by nobody.**
+- **Yuan.** **Court, taken at ch 687, day 2,131, at the first hour, unasked and undecided.** Addressable and sendable. **A
+  name went into a carter’s mouth at a board in a ground with two hundred people in it and he does not know he said it.**
+  Nine utterances across the batch in her hearing, every one in the present tense, none of them buying, advising or
+  softening. **No figure of what is left of him is on any page. The permission was asked once, out loud, standing, in
+  daylight, and given, and it cannot be un-agreed. The bill is open.**
+- **Xie Changyin** — sixty-three, on the page twice, right about everything, wrong about one thing she does not know she is
+  wrong about, and not thanked and not argued with.
+- **The man with the book** — sixty-five, forty-six years, two lines about her, four years apart, and one afternoon spent
+  looking at a wall before she said the number on it.
+- **Her brother** — nineteen, six years in that ground, one sentence, not named, nothing settled.
+- **What Batch 0003 inherits:** the third first at day 2,144 is **four days off at the last page** · the eighth frame scene
+  at ch 694 · the total at ch 697 · the fact that a number she can work out is a number two hundred people on a row can
+  work out at ch 704 · Immortal Vessel 2 at ch 702 and its cost, which is Batch 0003’s to name and not re-derived from
+  ch 685’s · the open bill for Court · the unattributed two thousand nine hundred and twenty · **four days to a first of a
+  month, with a bar that has no strap on it and an arm that is open four days in five.**

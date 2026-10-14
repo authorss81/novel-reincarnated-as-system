@@ -3071,3 +3071,68 @@ any of them.**
 3. **The boy of sixteen refused to be the instrument and was not asked twice, and said so to her face.** Do not let a
    later phase make him the hand that writes the line. **`Scribe` 0 · `thank` 0 · `nobody` under twelve · `eleven` under
    sixteen · no bracket in sixty · no frame scene before ch 694.**
+
+---
+
+# VOLUME 12 BATCH 0002 CLOSED at ch 690 — what Batch 0003 inherits
+
+**Fifteen chapters, 28,804 words of body prose on method B, average 1,920, day 2,091 to day 2,140. Pressure: the lamps.
+Full record in `state/continuity.md` under ***VOLUME 12 BATCH 0002 — the lamps, ch 676–690***.**
+
+## Where she is at the last page, in one line
+
+**Day 2,140, the twenty-seventh of the month beginning 2,114, in the rows, at IMMORTAL VESSEL 1, with a bar nine feet nine
+and no strap on it, five hundred and eighty days lighter, a line in her own hand on a board at the north end of a ground of
+two hundred people, a record of her whole life being kept out loud by the thing that was made to record her, and an unpaid
+bill.** **Four days to the third first of a month, on day 2,144.**
+
+## Open, and Batch 0003's engine
+
+| Thread | State at the close of Batch 0002 |
+| --- | --- |
+| **The firsts** | **THE SECOND HAS GONE AND MISSED HER, AND THE THIRD IS FOUR DAYS OFF.** The first of the month beginning 2,114 came on day 2,114 while she was in the rows and the slate went east under a piece of sacking. **She also missed the twenty-fourth of the month beginning 2,084 (day 2,107), the day the board is taken in — the first day of a column she has missed in nine years, and there was no consequence available to her, because a board does not need to know where she is.** Remaining firsts: **2,144 (four days off) · 2,174 · 2,204 · 2,234 · 2,264 · 2,294.** The sixth and the seventh are Batch 0004's |
+| **The road up** | **UNCHANGED AND STILL THE ONLY UP ON THE PAGE.** She has been east for forty-nine days and she has not gone up anything since ch 668 |
+| **The question and its halves** | **UNASKED AGAIN AND HARDER TO ANSWER.** She cannot announce herself because of ch 665's question, and she says so out loud at ch 686: she cannot use a room to record a stage, because she cannot find out whether a person can be announced without being designated. **The first half is not re-explained anywhere in the batch and is not re-derived** |
+| **The instrument** | **SETTLED AND STILL NOT NAMED FOR HER.** A stub of a nib, a cake of ink, a hand that cannot write a false line, **a book of eight leaves with five of them still blank, and a key to a drawer she did not use in this batch.** She wrote the one line of the batch on a board and not in the book, and said why, on the page |
+| **What a recruited reader is** | **ANSWERED, ONCE, AND IT IS NOT WHAT ANYBODY EXPECTED.** *A document gets read by somebody.* The reader is an instrument and the trade has never once turned a thing back. **She also worked out, at ch 681, that she could never have been recruited at all, because confirming a reading means being able to read it, and there is no hand in that building that can read hers.** No card in Volume 12 may re-explain either half |
+| **The bar and the strap** | **THE STRAP IS GONE AND STAYS GONE.** It parted at the second hour of the fifth of the month beginning 2,084, six miles east of the turn. **Every lift and set-down costs twenty-two to fifty-four counts and Batch 0002 spent about four hundred of them in a month.** No card in Batch 0003 may put a strap back on it |
+| **Being recognised** | **DONE AND IT TOOK NINETY SECONDS.** A man with a book looked up at ch 678 and said her name, and not one other person in the room looked up, because she bought that silence with her own usefulness five years ago. **There is no undoing it and she said so standing in the grit outside the gate** |
+| **The two thousand nine hundred and twenty** | **OPEN AND UNATTRIBUTED, AND IT IS NOT THE LEVY.** Total ninety-eight thousand against a sum of ninety-five thousand and eighty. Ruled out: a fifth, a page, a payday, a shortage in the rate. **Not ruled out, and not said: what it is for.** Xie Changyin is not permitted to say and said so once, in the ordinary voice |
+| **Court, and the bill for it** | **TAKEN AT CH 687, DAY 2,131, AT THE FIRST HOUR, UNASKED AND UNDECIDED.** He is addressable, and a thing above the line can put a name in a mouth he does not have, **and it proved it inside nine days when a carter said `YUAN SHENG` twice at a board in a ground of two hundred people and did not know he had said it.** **The bill was raised out loud at the tenth hour of the nineteenth and answered by nobody and is not paid and is not refused. The Scribe can find him and does — and the address belongs to Volume 15** |
+| **The record** | **GIVEN, AT CH 689, AND IT CANNOT BE UN-AGREED.** Six terms, said out loud, standing, in daylight, in front of about two hundred people, at the third hour of the twenty-first of the month beginning 2,114. **She said no first and then changed it and said why before she changed it. The ch 658 sentence was quoted once and only once: *for eight years I did not have a man, I had a column*.** **The reason she said yes is true and the chapter says so.** Ch 690 is what living inside it is like: nothing goes wrong, the instrument is a voice, and on the twenty-fifth she stopped checking without deciding to |
+| **The seed she did not say out loud** | **OPEN AND LOADED.** At ch 688 she priced the bill in days and then did not say what she had worked out, **which is that it may take the writing off the board and not the person.** That is ch 718's engine and **nothing in Batch 0002 says so** |
+
+## Closed and irreversible in Batch 0002, and not to be undone
+
+- **ch 689 — the permission.** The batch's irreversible step, out loud, standing, in daylight, with six terms in it, and a
+  document agreed to in daylight is not a document that can be taken back.
+- **ch 680 — the second refusal, said in the ordinary voice with a figure in her hand**, written on by a man of sixty-five in
+  the ordinary hand, and **no hand in that building takes it out.** She has now been written on twice by people who were right.
+- **ch 676 — the strap.** The bar goes up off the ground in a count of twenty-nine and she has to do it every time, and
+  the cost is on her arm and her hand for the rest of the volume unless a card pays for it.
+- **ch 685 — the line on the board at the north end**, written in her own hand with four fingers and a thumb on an arm
+  that was open. Fifty men are going to write their days either side of it and not one of them can read it.
+- **ch 687 — the name in the carter’s mouth.** It has been said out loud in daylight in a ground of two hundred people and
+  the man does not know he said it and the cart went on east.
+
+## Still untouched, still unspent, and still Batch 0003’s or later’s
+
+**the third first at day 2,144 and the ones after it** · **the eighth frame scene at ch 694** · **her own total at ch 697**
+· **a number she can work out is a number two hundred people on a row can work out, at ch 704** · **Immortal Vessel 2 at
+ch 702 and its cost** · the two thousand nine hundred and twenty · the bill for Court · **what happens when the third first
+goes by with her twenty miles east of a frame** · **the furnace ground is not walked in this batch** · the four sheets in the
+drawer and the forty-one strokes · the five blank leaves · the window a hundred yards off the east side · the lime off the
+bar at ch 604 · the hut light · the contents of the ash barrow · ***twenty-two days*, unplaced** · how far the rows sit past
+the wall · the fourth sentence on the second leaf of the book · `Ledger` 0 · `clearance` 0 · `seal` 0 · `Anchor` 0 ·
+`Sisterhood` 0 · `bargain` 0 · `Scribe` 0 as a proper noun · `thank` 0.
+
+## Three things Batch 0003 must not inherit as clean prose
+
+1. **The two thousand nine hundred and twenty has been ruled out as a fifth, a page, a payday and a rate shortage, and it
+   has NOT been attributed to anything.** Batch 0003 may not name what it is and may not let a mouth in that building name
+   it. **It is not the levy. That was said out loud at ch 683 and it is the one thing about that figure which is settled.**
+2. **The bill for Court is open and is not paid.** **Nothing in Volume 12 addresses him but her and no arrival in this batch
+   came with a sender.** `outline/ending.md` §7 reserves the address for Volume 15 and the eighth frame scene at ch 694 sits
+   inside the taking of Court and not inside its bill.
+3. **The record has six terms and there is no seventh, and a document agreed to in daylight cannot be added to either.**
+   **Batch 0003 may not let her ask for a seventh term, soften the six, or take the agreement back.** It may not thank him.
