@@ -4810,3 +4810,38 @@ words longer because it no longer carries a retired figure. Nothing was padded t
   into it, **because changing it would mean changing the refusal entry itself, which is one of the volume's four
   irreversible steps.**
 - **It did not write a `.done` marker.** That is the controller's.
+
+---
+
+## Volume 10 planned — decisions, allowances and the two defects carried
+
+**Written by the Volume 10 planning phase, which wrote `outline/volume-10.md` and
+`workspace/volume-10-batch-0001/PROMPT.md` and no chapter prose. `outline/series.md`, `outline/ending.md` and
+`outline/volume-09.md` were read and not edited. Every day below is derived under `((day − 134) mod 30) + 1`.**
+
+- **Range and goal:** ch 539–600, sixty-two chapters. *In this volume, Ning Yan must find her brother before the
+  Warden's list closes for good, or Ning Wu stays a name on a page for another decade.*
+- **Stages:** Severance 4 at day 1,629 (ch 556; twenty-sixth of the month beginning 1,604) · Severance 5 at day
+  1,697 (ch 572; fourth of the month beginning 1,694) · Severance 6 at day 1,772 (ch 588; nineteenth of the month
+  beginning 1,754). Intervals 1,629 − 1,561 = **68** · 1,697 − 1,629 = **68** · 1,772 − 1,697 = **75** ·
+  first-to-third 1,772 − 1,629 = **143** · volume span day 1,599 to day 1,830 = **232 inclusive**. Costs named
+  once each: uncountable where she stands · untold where she follows · unkeeping what she finds.
+- **Brackets:** three in sixty-two, at ch 556, 572, 588, far-side house form; Batch 0001 allowance **0 in
+  sixteen**.
+- **Him:** sixth frame scene at ch 584, present tense, away from her hearing; no wall opened; no figure of him;
+  `Ledger` 0; non-forgiveness subject 0 in sixty-two.
+- **Shuyin:** shuts the book at ch 596–597, no page read, no name read, nothing shown; Anchor never named;
+  alive, old, not thanked; not the final enemy. **Hunter:** at most twice, she asks every time, request pending.
+  **Wei Ran:** at most two cards (Batches 0001, 0004). **Ning Wu:** want-only until Batch 0004; in person once at
+  ch 598–599; never in Shuyin's mouth, never on a list page.
+- **Midpoint:** closing day day 1,802 (nineteenth of the month beginning 1,784) named at ch 569–570.
+  ***Twenty-two days* OPEN, unplaced; no card equates it to a dated interval** — it is a count out of his keeping
+  she has not earned yet.
+- **Density targets with Volume 9's reals beside them:** `about` average under 7.0 a chapter (Vol 9: 422, 7.0)
+  · `whole of` under 80 volume-wide (Vol 9: 193) · bare `eleven` under 200 (Vol 9: 218). Retired seven phrases:
+  allowance 3 volume-wide, no fourth.
+- **F1 carried:** Wei Ran on three chapters against two allowed; Volume 10's allowance states the true figure
+  beside it. **F2 carried:** ch 484's mouth nine against four-or-five; Volume 10 mouths run three to seven and
+  an overrun is a close finding, not a mid-draft defect. **Neither is forgiven and neither touches the page.**
+- **Batch 0001:** ch 539–554, days 1,599–1,628, pressure *asking what else is on it*, irreversible step the
+  asking at ch 553–554, 27,000–30,000 words of body prose on method B.

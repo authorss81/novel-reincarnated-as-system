@@ -2004,3 +2004,26 @@ set with the real figure of Volume 9's in the sentence beside it.**
 **The one outline deviation the repair did not touch and could not:** `outline/volume-09.md` pins *four or five short
 sentences each* across five structural mouths and **ch 484's mouth delivers nine.** Four of five hold. **The fifth is a
 structural mouth and the repair order forbids touching one, so it is recorded and carried.**
+
+---
+
+## VOLUME 10 PLANNED at ch 538 — what Volume 9 hands Volume 10, in one paragraph
+
+**Volume 9, *The Warden*, ch 479–538, day 1,341 to day 1,598, sixty chapters, 113,811 words of body prose on
+method B, is closed, audited and repaired on the page, and Volume 10, *The List*, ch 539–600, is planned in
+`outline/volume-10.md` with its first batch card at `workspace/volume-10-batch-0001/PROMPT.md`.** She stands four
+feet off a ladder nine miles west of a turn with her own eight leaves on a stone and his answer in her ears,
+entered as lost and refused as kept, at Severance 3 with no wages and no road; he stands wrong-sided with a bag
+and a brush, findable, sendable and answerable, never thanked; the wall stays open with a table standing in it
+and a window dark now for nights she does not know about. **What travels live:** the three Severance costs named
+once each · the fifth entry and the four before it · the paper opened alone and never named · the book under the
+ladder with her hand in it · the Hunter's request pending · the ten parts not given and the surface answer never
+re-voiced · the plate worn and undescribed · the year still carrying, unmentioned · and **“Twenty-two days,”
+said at a jamb at ch 536 and never asked, still OPEN, still unplaced, still unexplained, and no card in Volume 10
+may equate it to any dated interval.** **What the plan adds, and it is a paragraph and not a page:** Volume 10
+spends Severance 4 → 6 with three new costs, asks the list shut across four batches, shuts Shuyin's book in
+daylight with no page read and no release shown, finds Ning Wu in person once and late with nothing settled or
+forgiven, and leaves the walls standing with the only unread thing the voice — while F1 (Wei Ran, three chapters
+against two) and F2 (ch 484's nine-sentence mouth) are carried, not forgiven, into the new outline's own
+allowances. **This section opens no thread the chapters do not carry and previews nothing `outline/ending.md`
+owns.**

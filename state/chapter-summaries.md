@@ -1064,5 +1064,19 @@ record at `state/continuity.md` §*Volume 9 close — REVIEW REPAIR*.
   scaffolding lines are cut across fourteen files**, including two at ch 505 and ch 530 the close's own table had not
   named. **The seven in-world uses of *on the page* are the world's paper and were left exactly as they stand.**
 - **ch 531's *at a hundred yards* is *at seven hundred yards***, and all fifty-eight files that lacked a trailing newline
-  have one.
+   have one.
 - **ch 536's *Twenty-two days* line is untouched and still open.**
+
+---
+
+## Volume 10 planned — *The List*, ch 539–600 (this phase; no chapter prose)
+
+**`outline/volume-10.md` exists, written in the shape of `outline/volume-09.md`. Goal fixed by
+`outline/series.md` §9: *In this volume, Ning Yan must find her brother before the Warden's list closes for good,
+or Ning Wu stays a name on a page for another decade.*** Sixty-two chapters, day 1,599 to day 1,830. Severance 4
+→ 6 at days 1,629 · 1,697 · 1,772 (ch 556 · 572 · 588), costs uncountable / untold / unkeeping, three brackets one
+per stage. Midpoint ch 569–570: the closing day named (day 1,802). Climax ch 595–600: the shutting with no page
+read, the finding in person with nothing settled, the voice left unread. Sixth frame scene at ch 584. Ning Wu
+want-only until Batch 0004. *Twenty-two days* stays OPEN. F1 and F2 carried into the new outline's allowances.
+**The one next phase is `workspace/volume-10-batch-0001/PROMPT.md` — ch 539–554, days 1,599–1,628, the asking at
+ch 553–554.**
