@@ -3330,3 +3330,56 @@ get wrong without noticing:**
   for eight days*, which cannot be checked without a model of the slate's cycle between the first and the twenty-fourth that this
   batch never wrote down; and the post with a keeper on it, which `ch 601:61` puts nine miles west of the turn and `ch 700` puts
   four miles from it. **Neither is Batch 0004's to arbitrate.**
+
+---
+
+## VOLUME 12 BATCH 0004 — ch 706–720, *what is written on it*. CLOSED ON THE PAGE. A COLD READER STARTS HERE.
+
+Fifteen chapters, **28,409 words of body prose on method B, average 1,894**, day 2,241 to day 2,300. The last batch of Volume 12.
+**Volume 12 as a whole: ch 661–720, sixty chapters, 116,483 words of body prose on method B, average 1,941.**
+
+### What the batch added
+
+- **The firsts of a month are dates and not events.** What happens at one is that a slate is taken out, wiped, turned over, written in, put back, and carried up a road at the second hour. The levy does not happen at a first; it has been happening continuously, a twentieth of a day, since the ninth hour of the twenty-fourth of the month beginning 2,054. **And at not one first in nineteen years did anything arrive.**
+- **A line does not come back.** A record belongs to whoever keeps it, and a man who has kept one for nine years has never once been able to take a line out of it. **There is no version of ch 717 in which she changes her mind on the day.**
+- **What a line has to be: a date, a place, and true statements, and the third has to be not her.** A name is a person; a figure is not. **A board goes up on a first and there is not one other date it will travel on.**
+- **THE BENCH.** The woman of sixty was on the board for four years and came off it and was told by nobody. Ning Yan has walked past that bench four times in nine years knowing why and has said nothing and has said out loud that she is not going to put it down. **The fourth name from the bottom of the fourth column has not been spoken and is not to be.**
+- **THE SEVENTH FIRST went by at the frame with her at it for the second time in nine years**, the slate turned over, the figure under her name **one hundred and eighty-eight days**, right, and a man who does not know he is writing a levy writing four more lines of one. **She wrote nothing.**
+- **The fourteen.** Her third reason for not telling them expired twenty-five days before the fact, because the arithmetic is about to be public property on a stick at a frame two days of road west. **She is not going to tell them, and it is not any of her three reasons.**
+- **NING WU, at ch 713 and nowhere else in this batch.** She told him she has worked out her own total and he told her he worked his out five years ago and told nobody, and they said the same sentence to each other from opposite ends of a row of stones. **The year is not mentioned once and nothing is settled.**
+- **The mountain, the last time.** A locked drawer thirty feet away with the key in her bag. **She went up eight flights, stood at the outside of a low door and did not go through it.** And an old man with a shut book went up the mountain road past her and did not stop and it was not to her. **He is not named and nobody was thanked.**
+- **She worked out that the count she cannot escape is the one she wrote herself**, and she noticed something settling out of the ground under her feet and not out of her hands and **decided not to count it, which is the first thing in nineteen years she has decided not to count.**
+- **IMMORTAL VESSEL 3 at ch 716, day 2,290**, and its cost named once, in another mouth: **she cannot be counted where she stands.** She never says it.
+- **THE EIGHTH FIRST at ch 717, day 2,294, at the first hour, at the two posts, outdoors, on an open arm:** **nineteen words in her own hand with a date and a place on them — *Ning Yan, the two posts. Two hundred and eighteen days. One in twenty. Ten days, twenty-one hours, thirty-six minutes* — true, because her hand cannot write a false line, and nobody writes one twice. The little finger of her right hand stopped being part of her hand in the middle of it. Three fingers and a thumb. The arm did not close.**
+- **ch 718, the batch's irreversible step: the designation is carried up on a board in her own hand instead of collected off her. The levy takes the writing and not the person. There is no instrument in the world that takes a line out of a book that has already gone up a stair.** **Nine seconds of sound at a frame in the first light of a morning, never printed in the book, and four accounts that do not agree.** **The bill for Court is settled.** She is not one of the four.
+- **ch 719 and 720, the stair and the threshold.** Eight flights on an arm that has been open since the morning she wrote the line, the third landing, the short breath, a bar across a door with the dust not broken. **The low door is standing open at the seventh of the month beginning 2,294 and the bar is on the floor inside with the dust broken at one end and not at the other and nothing in the volume explains it.** A room with a long table in it, a lamp in a cage, and a second stair going up out of the far side. **She went up one step and stopped there.**
+
+### What the batch resolved
+
+**Volume 11's question, and it is answered: *whether a designation made to be harvested can be carried up instead.* It can.** It has to be carried by a piece of paper and not by a person, because a person cannot be counted where she stands and cannot keep what she finds by holding it, and because the only instrument in the world that takes a person through a wall is a thing seen truly and written truly. **Volume 12's own question, asked at ch 665 and given its answer at ch 698, is not re-asked and not re-answered.** The volume's goal is discharged: she went up, the designation went up ahead of her on a board in her own hand, and the levy came off the board instead of coming off her.
+
+### What is still open, and what Volume 13 inherits
+
+- **How far the rows sit past the wall. STILL OPEN AND STILL NOT SETTLED.** Two or three hundred yards at ch 618, four miles at ch 659 and 660, three miles at ch 677. **Batch 0004 puts no mile figure on the rows-to-turn leg in either direction, and the unit rule stands: thirteen miles is wall-to-turn, two days of road is rows-to-turn, two miles of flat is ground-to-wall past the gate, four miles is square-to-summit.**
+- ***Twenty-two days*, unplaced.** `grep -oi 'twenty-two days'` over `chapters/volume-12/*.md` returns **0** and it must still return 0. **A Volume 13 card may put it in front of her again and may not equate it to a dated interval.**
+- **The two thousand nine hundred and twenty**, the difference between ninety-eight thousand and ninety-five thousand and eighty on a sheet on a wall in a room with the shutters up. **Attributed to nothing in this volume and not to be.**
+- **The four names in the fourth column, and one of them on a bench four hundred yards west of a frame.** She is not entitled to say a word of it and there is not one person in nine days of road who can read that column. **Three hundred and one out of nine hundred and twelve is very nearly a third and she does not know what a third of a name is.**
+- **A brother in a barrow ground who has counted four thousand stones a day for five years and gave the number to one person and said a thing about boards that she has not answered.**
+- **Fourteen people in a ground of two hundred who can count to eighty, nine of them doing sums without her, forty who can count to eighty at all, and she has told none of them.**
+- **A boy of nineteen who told her once, as arithmetic and not as a warning, that if one of them knew there would be not one of them left on the rows in a month.** **Not resolved.**
+- **The man of forty-nine with the rag and a stick of chalk, who has been writing a levy for nineteen years four times a month and does not know he is writing one, and said *I have four columns to write and the light is going*, and would not say what he heard at a frame on the first of a month.**
+- **A woman of sixty-three behind a counter who squares every sheet she is handed with two fingers and does not look at anybody, and a woman of sixty on a bench who squares Ning Yan up once and then looks at the ground.** Neither is spoken to in this batch and neither owes anybody anything.
+- **A boy of sixteen keeping one lamp going with about a day and a half of oil in a stone jar under a bench, and a lamp in a cage at the far end of a long table in a room she cannot get into.**
+- **A bar across a low door lying on the floor inside a room with the dust broken at one end and not at the other, and a second stair going up out of the far side with seven steps visible and then not.**
+- **The figure she decided not to count**, settling out of the ground under her feet and not out of her hands, arriving on no day she can point to.
+- **The six terms, standing, with no seventh.** The fifth is unenforceable and both of them know it.
+- **The book of eight leaves with five blank leaves that stayed blank**, and she has never called it anything.
+- **The four sheets of rice paper in a locked drawer with the key in her bag**, and the forty-one strokes that have not been looked at since the twenty-third of the month beginning 2,024 and are not looked at in this batch.
+
+### What Volume 13 must not inherit as settled
+
+1. **That a number she can work out is hers.** It is a subtraction, the fraction is one in twenty, and there are forty people in a ground of two hundred who can do it. **She worked this out herself in this batch, on the road, on the eighteenth of the month beginning 2,264, and wrote it down as a plain fact and did not argue with it.**
+2. **That the third column on the slate is a discovery.** Every man of forty-nine in the county does that column every month of his working life and does not know he is doing it. **He was four feet off her doing it in the first light of the seventh first and she watched and could not tell him.**
+3. **That a lamp is the same as being met.** She said the opposite in her own words at ch 703 and nothing in this batch softens it. **What she said at ch 720 is a different and larger thing: there is nothing in that room she can put a figure to, and it is the first time in nineteen years anything has been in front of her that she could not measure, and she went up the step anyway.**
+4. **That the announcement was received.** **It is not in the book and it is not on the page.** Four people heard nine seconds of it and no two of them agree and one of them is going to say it wrong for the rest of their life, and she heard it and has told nobody, and she is not going to tell anybody, and the day she tells it is the day there is one account. **No close may resolve what it said.**
+5. **That the bar moved.** It is on the floor inside a room with the dust broken at one end and not at the other, and nothing in Volume 12 explains it. **Do not explain it at the close.**
