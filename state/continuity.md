@@ -5319,8 +5319,8 @@ figures that matched neither `wc -w` nor `\b\w+\b`, and its entries summed to 28
 | `Shuyin` · `Ning Wu` · `Yuan` | **0 · 2 · 0** — Ning Wu at ch 572 to a kerb and at ch 585 said out loud in daylight at a wall, both in her own mouth and never read out of anything; Yuan is not named anywhere and is on the page once, at ch 584 | counted, not zeroed | **PASS** |
 | `list` | **4**, and `listing` **2** — load-bearing and counted. `vouch` **0**. `send for` / `sent for` / `sending` **0** | counted | counted |
 | `about` | **85**, average **5.3** a chapter, body prose, word boundaries. It was 87 before the repair and did not go up | under 7.0 | **PASS, under the line** |
-| `whole of` | **12**, up one, the repair writing the phrase once in the stage-five cost at ch 572. Batch 0002 spent 22 and Batch 0001 spent 46, so **Volume 10 is now at 105 against a volume-wide target under 80 and that is a volume-close item, not a defect in this batch** | under 80 volume-wide | **on pace; the volume is over and is recorded as such** |
-| bare `eleven` | **38**, unchanged by the repair; `eleventh` and `Eleven` counted separately. Batch 0001 spent 86 and Batch 0002 spent 63, so **Volume 10 is now at 187 against a target under 200 and this batch is what brought it back under the line** | under 200 volume-wide | **PASS, and the volume is now under it** |
+| `whole of` | **12**, up one, the repair writing the phrase once in the stage-five cost at ch 572. Batch 0002 spent 22 and Batch 0001 spent 46, so **Volume 10 is now at 80 against a volume-wide target under 80 and that is a volume-close item, not a defect in this batch.** *This line was corrected in place at Batch 0004's review repair. It read **105**, which its own three per-batch figures — 46, 22 and 12 — do not sum to; `grep` across all sixty-two chapters returns 80. It is the same failure as the two retired constructions above and it is recorded rather than carried* | under 80 volume-wide | **on pace; the volume is exactly on the line and is recorded as such** |
+| bare `eleven` | **40, not 38** — this line was corrected in place at Batch 0004's review repair and `grep` over ch 571–586 returns 40; `eleventh` and `Eleven` counted separately. Batch 0001 spent 86 and Batch 0002 spent 63, so **Volume 10 is now at 189 against a target under 200 and this batch is what brought it back under the line. It has since been spent back up: Batch 0004's 26 puts Volume 10 at 215** | under 200 volume-wide | **PASS at this batch; the volume has since been pushed over the line again and that is a close item** |
 | `nobody` · `nothing` | **28 · 97**, average 1.8 a chapter | nobody under 2.0 | **PASS** |
 | The two constructions the review found doubled | **0 and 3.** *She wants that written down / is not going to describe* stood at **8 in sixteen chapters** against a prior rate of about one in four, and *there is no arrangement on this ground* at **5, two of them inside ch 576**. **Eight were rewritten and five cut.** What survives is ch 575's loaf that is not a keeping, ch 576's being paid for standing still and also for being somewhere, and ch 579's fourth question never getting asked | under 4 each | **PASS after repair** |
 | Chapter titles | **16 new `#` headings, zero collisions** against the 570 that preceded them and zero among themselves; longest **35 characters**; all names, none restating a scene, a date, an hour or an age | names, 3–12 words, under ~90 characters | **PASS** |
@@ -5529,11 +5529,15 @@ the chapters land on the card's own days exactly.
 Body prose only, **method B — every line not beginning `#` — every count on word boundaries and measured before it is
 claimed.**
 
-**27,733 words of body prose over fourteen chapters, average ~1,981** — inside the batch band of 27,000–28,000, which is
+**27,728 words of body prose over fourteen chapters, average ~1,980** — inside the batch band of 27,000–28,000, which is
 1,929–2,000 a chapter, above the 1,300 floor and below the 2,700 guide in every file. Per file, measured by `wc -w` over
-non-`#` lines, **reproducible:** **587 1,948 · 588 2,350 · 589 1,943 · 590 1,817 · 591 2,032 · 592 2,126 · 593 1,954 ·
-594 1,953 · 595 1,962 · 596 2,062 · 597 1,816 · 598 1,923 · 599 1,958 · 600 1,889.** Three chapters sit below the 1,875
-band figure (587, 589, 597 are all above 1,800) and none sits below the 1,800 guide.
+non-`#` lines, **reproducible and re-measured after the review repair below:** **587 1,948 · 588 2,350 · 589 1,943 ·
+590 1,815 · 591 2,032 · 592 2,126 · 593 1,954 · 594 1,953 · 595 1,962 · 596 2,062 · 597 1,817 · 598 1,923 · 599 1,958 ·
+600 1,885.** Three chapters sit below the 1,875 band figure (587, 589, 597 are all above 1,800) and none sits below the
+1,800 guide. **These four figures are not a correction of a bad count.** The pre-repair list published 27,733 and a
+per-file list that reproduced **exactly** against the committed text, ch 590 at 1,817, 597 at 1,816 and 600 at 1,889 among
+them; **the repair changed four sentences, five words net, and the list above is the same measurement taken again after
+them.** Nothing here is adjusted by hand.
 
 | Construction | Measured across ch 587–600, body prose, `\b` word boundaries | Allowance | Verdict |
 | --- | --- | --- | --- |
@@ -5554,12 +5558,12 @@ band figure (587, 589, 597 are all above 1,800) and none sits below the 1,800 gu
 | The year of non-forgiveness | **0** in fourteen chapters. The word *forgive* appears **four times, all of them about Ning Wu and none of them about a year** | 0 | **PASS** |
 | `Shuyin` · `Ning Wu` · `Yuan` | **0 · 1 · 0**, word boundaries. Ning Wu is said out loud once, in her own mouth, in her hearing, and it is not in nine hundred years | counted, not zeroed | **counted and written down** |
 | `list` · `listing` | **12 · 0** — load-bearing and counted. `vouch` **0**. `send for` / `sent for` / `sending` **0** | counted | counted |
-| `about` | **90**, average **6.4** a chapter, body prose, word boundaries. It came in at 101 and was cut on the page | under 7.0 | **PASS, under the line** |
-| `whole of` | **0.** Batch 0001 spent 46, Batch 0002 spent 22 and Batch 0003 spent 12, so **Volume 10 stands unchanged at 105 against a volume-wide target under 80.** That is a Volume 7 and 8 inheritance and a volume-close item, and this batch put none of it back | 0 this batch | **PASS** |
-| bare `eleven` | **23**, average 1.6 a chapter. Batch 0001 spent 86, Batch 0002 spent 63 and Batch 0003 spent 38, so **Volume 10 stands at 210 against a target under 200.** The prompt's instruction for this batch was *hold eleven under forty* and it is held at 23. **The volume-wide overage is inherited from Batch 0001 and is a close item** | under 40 this batch | **PASS against the card; the volume-wide line is recorded as exceeded** |
-| `nobody` · `nothing` | **23 · 108**, average **1.6** a chapter on `nobody` | nobody under 2.0 | **PASS** |
-| The two constructions the previous review found doubled | **0** — *she wants that written down / is not going to describe* is **0** in fourteen chapters and *there is no arrangement on this ground* is **0** | 0 | **PASS** |
-| Chapter titles | **14 new `#` headings, zero collisions** against the 586 that preceded them (600 manuscript-wide, zero duplicates) and zero among themselves; longest **35 characters**; all names, none restating a scene, a date, an hour or an age | names, 3–12 words, under ~90 characters | **PASS** |
+| `about` | **89**, average **6.4** a chapter, body prose, word boundaries, **re-measured after repair** (the pre-repair table published 90). Batch 0001 spent 128, Batch 0002 spent 94 and Batch 0003 spent 85, so **Volume 10 stands at 396** | under 7.0 | **PASS, under the line** |
+| `whole of` | **0.** Batch 0001 spent 46, Batch 0002 spent 22 and Batch 0003 spent 12, so **Volume 10 stands at 80, exactly on the volume-wide target of under 80 and not over it.** **The pre-repair table claimed 105, which never reproduced under any method: its own three per-batch figures sum to 80. That is a close item, corrected here.** This batch put none of it back | 0 this batch | **PASS, and a stale volume figure corrected** |
+| bare `eleven` | **26**, average 1.9 a chapter, **re-measured after repair** (the pre-repair table published 23). Batch 0001 spent 86, Batch 0002 spent 63 and Batch 0003 spent **40 and not 38**, so **Volume 10 stands at 215 against a target under 200.** The prompt's instruction for this batch was *hold eleven under forty* and it is held at 26. **The volume-wide overage is inherited from Batch 0001 and is a close item** | under 40 this batch | **PASS against the card; the volume-wide line is recorded as exceeded** |
+| `nobody` · `nothing` | **27 · 112**, average **1.9** a chapter on `nobody`, both **re-measured after repair** (the pre-repair table published 23 · 108). Per chapter `nothing` runs 1–13 and is heaviest at ch 596, 600, 593 and 598; Batch 0003 spent 102 in sixteen against this batch's 112 in fourteen, **so negation-stacking escalated about thirty per cent and Volume 11 inherits it as an open line.** `nobody` is under the 2.0 allowance at 1.9 | nobody under 2.0; `nothing` no cap | **PASS on the capped term; `nothing` is RECORDED AS OVER THE PRIOR BATCH'S RATE and handed to the close** |
+| The two constructions the previous review found doubled | **1 · 1 on the page before this repair, 0 · 0 after it.** *She wants that written down / is not going to describe* stood at **one**, at ch 590, and *there is no arrangement on this ground* at **one**, at ch 600. **The pre-repair table recorded both as 0 and both were wrong — the failure this file says the manuscript has caught itself making.** Both instances are rewritten on the page and the batch now carries none of either | 0 | **PASS after repair** |
+| Chapter titles | **14 new `#` headings, zero collisions** against the 586 that preceded them (600 manuscript-wide, zero duplicates) and zero among themselves; longest **34 characters**, at ch 590, and **the pre-repair table's 35 was one over**; all names, none restating a scene, a date, an hour or an age | names, 3–12 words, under ~90 characters | **PASS** |
 | Section-heading identity | **measured on `^## ` per file: 0 chapters with the same `##` twice**, **114 section headings over 14 files** | 0 within a chapter | **PASS** |
 | Paragraphs | longest **90** words; **0 paragraphs over the ~90-word guide** and none over 120 | break over ~90, never over ~120 | **PASS** |
 | Duplicated paragraphs | **0 across two chapters.** **Five within-chapter repetitions are deliberate and are counted**: *She could not find it.* ×2 at ch 588, *Nine.* ×3 at ch 592, *Four.* ×2 at ch 593, *Six.* ×3 at ch 595. They are the volume's arithmetic and cutting them would cut the counting | 0 paragraphs across chapters | **PASS after counting** |
@@ -5571,3 +5575,94 @@ band figure (587, 589, 597 are all above 1,800) and none sits below the 1,800 gu
 batch used** — 29,678 and 27,575 published against 29,835 and 27,751 measured. **That convention question is now measured
 across three batches and is the volume close's to settle, together with a re-measure of all sixty-two chapters under one
 method.** No figure anywhere in this batch was derived from a published Volume 10 total.
+
+### Volume 10 Batch 0004 — REVIEW REPAIR (applied on the page; findings from `logs/volume-10-batch-0004.review.log`)
+
+**Four defects, all closed. Chapters 587–600 were reopened, the batch was not restarted, and no beat, day, title, mouth,
+stage, bracket, midpoint, climax, irreversible decision or planned event moved. The plot is the outline's.** The review
+found the batch structurally sound — every gate item met — and returned two hard arithmetic errors and two retired
+constructions that had come back. **Four sentences on the page changed. Nothing else in fourteen chapters did.**
+
+| # | Where | Was | Now | The derivation |
+| --- | --- | --- | --- | --- |
+| 1 | ch 588, the weight-loss run | *the ninth hundred and thirty-something day of it* | **the two hundred and twelfth day of it** | the eighteenth of the month beginning 1,544 is **day 1,561** under `((day − 134) mod 30) + 1`, and ch 588 runs at the second hour of the nineteenth of the month beginning 1,754, **day 1,772**. 1,772 − 1,561 = 211 elapsed, 212 inclusive. **The published figure was out by roughly two years and was the only statement of its kind in six hundred chapters — `grep` returns no other `hundred/thousand … day of it` — so nothing supported it, and a protagonist who counts for a living was made to hedge with *thirty-something*.** She is precise now |
+| 2 | ch 597, the third night's tally | *Sixteen miles to the turn.* | **Thirteen miles, wall to the turn.** | line 9 of the same chapter establishes thirteen miles between the wall and the turn, which matches canon (wall twenty-two miles east of the post, turn nine). **Sixteen exceeded the whole journey.** The tally is a count of distances, so the figure is now the length of the road and cannot be misread as distance remaining, which on the third night it was not |
+| 3 | ch 590, *The Two Questions She Had And Did Not Ask* | *and she wants that written down because the second one is the reason those two days cost what they cost* | **and here is the second one, because it is the reason those two days cost what they cost** | *She wants that written down / is not going to describe* stood at 8 across Batch 0003's sixteen chapters, was cut to 0 at that batch's repair, and the card put this batch's allowance at zero and said in terms that it must not restart. **One instance had come back. The replacement keeps the beat — she names the second question as the reason the two days cost what they cost — and hands it to the two lines that follow, which state the first question and then the second** |
+| 4 | ch 600, *Two People She Has Not Thanked* | *and there is no arrangement on this ground that would let her say it and mean it as anything other than a girl being afraid of what she owes* | **and nothing on this ground would let her say it and mean it as anything other than a girl being afraid of what she owes** | *There is no arrangement on this ground* stood at 3 after Batch 0003's repair and the card forbade a restart. **One instance had come back, which would have made 4.** The sentence's argument — that saying it would only be fear dressed as thanks — is untouched |
+
+**The four fixes together are five words shorter, measured per file against the committed text: ch 588 unchanged at 2,350,
+ch 590 down two, ch 597 up one and ch 600 down four.** No chapter moved by more than four words and none fell below the
+batch's 1,800 guide.
+
+#### What the review verified clean, and this repair re-measured rather than took on trust
+
+- **Word counts 1,815–2,350 a chapter, 27,728 over fourteen, average ~1,980** — inside the 27,000–28,000 band, above the
+  1,300 floor, none above the 2,700 guide. **The pre-repair list reproduced exactly at 27,733 and these figures differ only
+  because four sentences changed.**
+- **Exactly one bracket line in fourteen chapters**, at ch 588, on its own line, in the far-side house form, **and still
+  exactly two bracket characters in the batch**. Bold **0**. Blockquotes, code fences, tables and horizontal rules **0**.
+  Straight quotes and straight apostrophes **0**. All four banned web-prose reflexes **0**.
+- **All fourteen titles unique** against all six hundred manuscript headings and against each other, 3–6 words, longest 34
+  characters. **114 section headings, no chapter with the same `##` twice.** Longest paragraph 90 words, none over the
+  ~120 ceiling. **No paragraph duplicated inside the batch or against ch 567–586.** All fourteen files end in a newline.
+- **Every zeroed term holds**: `Anchor` `Sisterhood` `Ledger` `bargain` `charged` `bookkeeping` `receipt` `bounded world`
+  `reconciled` `plate` `kiln-born` `Wall writ` `field agent` `Warden` — all **0**. `Shuyin` **0** by name, `Yuan` **0**,
+  `Ning Wu` **1** and it is said out loud once in her own mouth. `whole of` **0**. The retired-seven allowance is spent once,
+  at ch 596's *there is no column*, in the one sentence whose whole point is numbers that belong in no column.
+- **Both irreversible steps land, in the outline's order** — the shutting at ch 596, the finding at ch 598 — and
+  **Severance 6 stands at ch 588 on the pinned day 1,772**, the 75-day interval from Severance 5 at day 1,697 exact. The six
+  blank leaves stay blank. She never thanks Shuyin and never thanks her brother. The Hunter is absent and his
+  request stays pending. *The shape of a happy life* is unspent. The year of non-forgiveness is not mentioned once.
+  ch 600's voice beat lands without being named as a beat.
+
+#### The card's own day table, and why the prose wins
+
+**`workspace/volume-10-batch-0004/PROMPT.md`'s per-chapter day column does not match what was written, and the prose is
+internally self-consistent throughout.** The mid-batch rows were overrun by roughly three to six days — ch 588 is written at
+1,772 against a card 1,775–1,777, ch 590 at 1,787 against a card 1,781–1,784 — and the writing then re-synced, so **from ch 596
+onward the chapters land on the card's own days exactly and the closing day 1,802 falls inside ch 595** where
+`outline/volume-10.md` puts it. The pinned item, Severance 6 at ch 588 on day 1,772, was held against the card's own
+allocation because `outline/volume-10.md` §*Power progression* names that day and the card says the outline is the
+authority. **Nothing in the repair changed a day.** The card's separate line reporting ch 586's end two ways — *31 at the
+last page* and *seventeen days on the page* — reads like a contradiction and is not one: 17 is the span of the walk and 31 is
+the countdown remaining.
+
+#### Budget drift, measured and handed to the close rather than papered over
+
+- **`nothing` 112 in fourteen chapters, 8.0 a chapter**, against Batch 0003's 102 in sixteen. **Negation-stacking has
+  escalated about thirty per cent across one batch** and it is heaviest at ch 596, 600, 593 and 598. **No cap was set for
+  it, so the batch does not fail a gate, and no instance was cut at the repair** — every `nothing` in those four chapters is
+  load-bearing (`nothing on the plank table` is the image ch 596 is built on, `nothing sweeps a flat at the west jamb` is a
+  concrete fact about a wall). **Recorded here as an open line for Volume 11's first batch.**
+- **`about` 89 in fourteen, 6.4 a chapter**, under the 7.0 allowance, against Batch 0003's 85 in sixteen.
+- **`nobody` 27 in fourteen, 1.9 a chapter**, under the 2.0 allowance, against Batch 0003's 31 in sixteen.
+- **`eleven` 26 in fourteen, 1.9 a chapter**, against the card's hold-it-under-forty instruction. **Volume 10 stands at 215
+  against a target under 200, an overage inherited from Batch 0001's 86 and a close item.**
+- **Italics 10 across four chapters** (595 ×4, 596 ×3, 597 ×1, 598 ×2) against Batch 0003's 5 in sixteen. *There is a day*
+  and *lost* are each used twice. **Scarce and counted, all ten load-bearing, no cap set, no instance cut.**
+
+#### Six stale figures in this file's Batch 0004 budget, corrected rather than carried
+
+**The pre-repair table published two zeros that did not reproduce and four counts that were one to fifteen out.** This is
+the fifth occurrence of that failure in this manuscript and it is named here so the close does not inherit it. **Each was
+measured against the committed text, not against the repaired text, so none of these is an artefact of the repair:**
+
+1. **Both retired constructions were recorded at 0 and each had one instance on the page** — *she wants that written down*
+   at ch 590 and *there is no arrangement on this ground* at ch 600. Both are now 0 for a reason that reproduces.
+2. **`whole of` volume-wide was recorded at 105.** The same line's own three per-batch figures — 46, 22, 12 — sum to **80**,
+   and 80 is what `grep` returns across all sixty-two chapters. **Volume 10 is exactly on the target of under 80, not
+   twenty-five over it**, and this batch's zero is what put it there.
+3. **`eleven` was recorded at 23 and is 26** (average 1.6 published, 1.9 measured), **Batch 0003's share at 38 when it spent
+   40**, and **the volume-wide total at 210 when it stands at 215.** This batch still holds under the card's
+   hold-it-under-forty instruction; the volume-wide overage is Batch 0001's.
+4. **`nobody` was recorded at 23 and is 27**, average **1.9** and not 1.6 — still under the 2.0 allowance, but a third more
+   than published.
+5. **`nothing` was recorded at 108 and is 111 on the pre-repair page and 112 after it**, the one extra coming from ch 600's
+   rewritten clause. **This is the batch's one genuinely worse craft line and it is handed to the close rather than hidden.**
+6. **`about` was recorded at 90 and is 89**, and **the longest title was recorded at 35 characters and is 34.**
+
+**The word counts are not on this list.** The pre-repair per-file word list reproduced exactly and the totals above differ
+from the published ones only because four sentences changed.
+
+**Nothing else in the state files that quotes this batch's figures has been touched, and no figure anywhere in this repair
+was derived from a published Volume 10 total.**

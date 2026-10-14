@@ -46,7 +46,7 @@ She felt it go the way it goes. No sound in it, because there is nobody inside t
 
 She sat on the rail of the trough through it with a bar across her knees and a carter thirty feet off on a box, and it took nine seconds, and after it she was exactly as tired as she had been before it and exactly as hungry as she had been before it, which she was not at all.
 
-She was lighter at the second hour of the nineteenth than she had been at the seventh hour of the eighteenth. That is the ninth hundred and thirty-something day of it and there has not been one day in a row since the eighteenth of the month beginning 1,544 that she has weighed what she weighed the day before.
+She was lighter at the second hour of the nineteenth than she had been at the seventh hour of the eighteenth. That is the two hundred and twelfth day of it and there has not been one day in a row since the eighteenth of the month beginning 1,544 that she has weighed what she weighed the day before.
 
 ## What The Sixth Stage Took
 

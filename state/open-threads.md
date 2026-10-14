@@ -2268,7 +2268,9 @@ files and changed four figures this section carried.**
 ## VOLUME 10 BATCH 0004 (ch 587–600) — what the batch opened, moved and closed, and what Volume 11 inherits
 
 **Fourteen chapters, days 1,771–1,830, pressure *what closing costs*. `chapters/volume-10/` is COMPLETE at sixty-two
-chapters and day 1,830. Every line below is checked against the page at `chapters/volume-10/`.**
+chapters and day 1,830. Every line below is checked against the page at `chapters/volume-10/`.** *REVIEWED AND REPAIRED:
+four findings closed in four sentences, no thread opened or closed by the repair, and no line below had to move. See
+§*Carried into Volume 11 by the Batch 0004 REVIEW REPAIR* at the foot of this section.*
 
 ### CLOSED by this batch
 
@@ -2363,3 +2365,28 @@ chapters and day 1,830. Every line below is checked against the page at `chapter
 - **She has said the brother's name in his hearing once and he has not written it, and he was told on the first of a
   month that it is six and not his name.** Nothing in the shut book has his name in it and no chapter of this batch
   writes it in.
+
+### Carried into Volume 11 by the Batch 0004 REVIEW REPAIR
+
+**Four defects closed, four sentences on the page, no beat, day, title, mouth, stage, bracket, midpoint, climax or
+irreversible decision moved.** Full record in `state/continuity.md` under *Volume 10 Batch 0004 — REVIEW REPAIR*.
+
+25. **The batch's own elapsed-day figure was out by about two years and is now correct.** ch 588 published *the ninth
+    hundred and thirty-something day* of the run on which she has been lighter every day since the eighteenth of the month
+    beginning 1,544. **The eighteenth of that month is day 1,561 and ch 588 runs on day 1,772, so it is the two hundred and
+    twelfth day.** It was the only statement of its kind in six hundred chapters and nothing supported it. **Volume 11 may
+    rely on 212 and on nothing else** — she has been lighter every single day since day 1,561 without one day of it going
+    back.
+26. **The wall-to-turn distance is thirteen miles and nothing in the volume says otherwise.** ch 597's third-night tally
+    published *Sixteen miles to the turn*, which exceeded the whole road, and now reads **Thirteen miles, wall to the turn**,
+    matching the same chapter's own first line and `state/current.md`'s geography block. **Thirteen is the fixed figure for
+    Volume 11.**
+27. **`nothing` is running about thirty per cent above Batch 0003's rate — 112 in fourteen chapters against 102 in
+    sixteen** — and is heaviest at ch 596, 600, 593 and 598. **No cap was set for it and nothing was cut, because every
+    instance in those four chapters is load-bearing.** It is an open craft line for Volume 11's first batch, not a
+    continuity thread.
+28. **The two constructions the previous review cut to zero were restarted once each, at ch 590 and ch 600, and are now
+    0 again.** *She wants that written down / is not going to describe* and *there is no arrangement on this ground* both
+    stand at **zero across ch 587–600**, verified by grep after the repair. **Batch 0001's four surviving instances of the
+    first at ch 551, 552, 554 and 564 are out of this batch's scope and were not touched**; if Volume 11's first batch
+    inherits a volume-wide count of that construction, it will find those four before it finds anything in Volume 10.

@@ -86,7 +86,7 @@ She did not say thank you to him and she is not going to.
 
 She has said it once in nine years, in the month beginning 1,694, for four sentences about a house, and it bought nothing and she did not expect it to buy anything, and she was a girl standing in an opening who had never said it out loud in her life.
 
-She is not going to say it to a man of nine hundred years for shutting a book. His book is shut and his door is shut and he is alive and old and not thanked, and there is no arrangement on this ground that would let her say it and mean it as anything other than a girl being afraid of what she owes.
+She is not going to say it to a man of nine hundred years for shutting a book. His book is shut and his door is shut and he is alive and old and not thanked, and nothing on this ground would let her say it and mean it as anything other than a girl being afraid of what she owes.
 
 And there is a brother.
 

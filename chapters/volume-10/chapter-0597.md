@@ -82,7 +82,7 @@ So she did not stop for it. She lay in the broken ground with her bag under her 
 
 Four days since the book shut.
 
-Sixteen miles to the turn.
+Thirteen miles, wall to the turn.
 
 Six people on a shut page.
 

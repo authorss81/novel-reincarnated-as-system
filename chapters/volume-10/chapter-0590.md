@@ -96,7 +96,7 @@ He said: “You have been east twice in a year. Go east.”
 
 ## The Two Questions She Had And Did Not Ask
 
-She had two questions in her mouth for the whole hour and she did not ask either, and she wants that written down because the second one is the reason those two days cost what they cost.
+She had two questions in her mouth for the whole hour and she did not ask either, and here is the second one, because it is the reason those two days cost what they cost.
 
 The first was whether the boy is alive.
 

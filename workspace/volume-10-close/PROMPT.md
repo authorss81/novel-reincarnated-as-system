@@ -28,13 +28,17 @@ the six Volume 9 facts Volume 10 inherited. **Read those four blocks before read
 - **Batch 0001 (ch 539–554) publishes 29,678 words of body prose on method B and measures 29,835.**
 - **Batch 0002 (ch 555–570) publishes 27,575 and measures 27,751.**
 - **Batch 0003 (ch 571–586) publishes 30,324 and reproduces exactly.**
-- **Batch 0004 (ch 587–600) is 27,733 and reproduces exactly, average ~1,981.**
-- **The volume is therefore somewhere between 115,737 and 116,893 words of body prose and this phase must publish one
+- **Batch 0004 (ch 587–600) published 27,733, average ~1,981, reproduced exactly, and after its review repair — which
+  changed four sentences, five words net — MEASURES 27,728, average ~1,980.** The difference is the repair, not a bad
+  count: take your own measurement rather than either number.
+- **The volume is therefore somewhere between 115,305 and 115,638 words of body prose and this phase must publish one
   figure, measured, with the method named in the same sentence as the number.** The method is settled: **body prose is
   every line not beginning `#`, so the chapter title line and every `##` section heading are excluded.** Measure all
   sixty-two files under it and **write the per-batch and per-chapter tables into `state/continuity.md` rebuilt from the
   files**, not carried forward from a published list. Batch 0003's published list once reproduced under no convention at
-  all and was rebuilt rather than adjusted; do the same here.
+  all and was rebuilt rather than adjusted; do the same here. **Measure at 115,638 if you want a check on your own
+  method — that is what all four measured batches sum to, confirmed four ways — and then publish your own figure and the
+  command that made it, not this one.**
 
 ## What this phase must audit
 
@@ -107,8 +111,9 @@ Walk `outline/volume-10.md` against the page, one section at a time, and record 
 ## The construction budget, measured across all sixty-two chapters before anything is claimed
 
 Body prose only, **method B — every line not beginning `#`**. Every count on word boundaries. **A budget that records
-zero while instances stand is the failure this manuscript has caught itself making four times, and this close is the
-fifth place it could happen.** Measure, then write the numbers down with the method in the sentence with the number.
+zero while instances stand is the failure this manuscript has caught itself making four times, Batch 0004's repair made
+it a fifth, and this close is the sixth place it could happen.** Measure, then write the numbers down with the method in
+the sentence with the number.
 
 | Construction | Volume 9's measured figure | Volume 10's allowance | What this close must publish |
 | --- | --- | --- | --- |
@@ -126,10 +131,10 @@ fifth place it could happen.** Measure, then write the numbers down with the met
 | Named weekdays · named calendar months · named weeks · named seasons | 0 | **0 / 0 / 0** | three numbers, body prose, word boundaries |
 | The surface answer | 0 | **0** | five token counts |
 | The year of non-forgiveness | 0 mentions | **0 mentions** | 0 |
-| `whole of` | 193 in 60, against a target under 80 | **under 80 volume-wide** | **the true volume figure. It stood at 105 before Batch 0004 and Batch 0004 added none.** Report it as exceeded and say which two batches spent it |
-| bare `eleven` | 218 in 60, against a target under 200 | **under 200 volume-wide** | **the true volume figure. It stood at 187 before Batch 0004 and Batch 0004 held its own to 23.** Report it as exceeded and name the batch that spent it |
-| `about…` | 422 in 60, average 7.0 | **average under 7.0 a chapter** | the count, the average, and the batch that brought it down |
-| `nothing` | — | **counted and written down whatever it is** | the count |
+| `whole of` | 193 in 60, against a target under 80 | **under 80 volume-wide** | **the true volume figure. MEASURED AT 80 ACROSS ALL SIXTY-TWO CHAPTERS — exactly on the line, not over it. Batches 0001, 0002 and 0003 spent 46, 22 and 12 and Batch 0004 spent 0, and 46 + 22 + 12 = 80. Every state file that says 105 was wrong: the three per-batch figures in its own sentence do not sum to it. Report it as on the line and name Batch 0001 as where it was spent** |
+| bare `eleven` | 218 in 60, against a target under 200 | **under 200 volume-wide** | **the true volume figure. MEASURED AT 215 ACROSS ALL SIXTY-TWO CHAPTERS — over the line. Batches 0001, 0002 and 0003 spent 86, 63 and 40 and Batch 0004 spent 26. The state figure of 187 for the pre-batch total was wrong because Batch 0003's share is 40 and not 38. Report it as exceeded and name Batch 0001 as where it was spent** |
+| `about…` | 422 in 60, average 7.0 | **average under 7.0 a chapter** | the count, the average, and the batch that brought it down. **Volume 10 measures at 396, and Batch 0004's own figure was published as 90 and is 89** |
+| `nothing` | — | **counted and written down whatever it is** | the count, **and the per-chapter rate, because negation-stacking rose about thirty per cent across Batch 0004 — 102 in Batch 0003's sixteen chapters against 112 in Batch 0004's fourteen, heaviest at ch 596, 600, 593 and 598. No cap was set and nothing was cut, because every instance in those four chapters is load-bearing. Say so plainly and hand it to Volume 11's first batch as an open craft line** |
 | Chapter titles | 538 headings, zero collisions | **62 more, zero collisions, nothing over about 90 characters, all names** | the manuscript-wide heading count, the duplicate count (**must be 0**), and the longest title new in Volume 10 |
 | Section-heading identity | 0 chapters with the same `##` twice | **0**, measured on `^## ` | 0, and the section-heading count for the volume |
 | Paragraphs | break over ~90, never over ~120 | **break over ~90, never over ~120** | the longest paragraph in the volume and the number over ~90 and over ~120 |
@@ -137,8 +142,39 @@ fifth place it could happen.** Measure, then write the numbers down with the met
 
 **Two constructions Volume 10's previous batches and their reviews specifically closed, and this close must confirm they
 did not restart:** *she wants that written down / is not going to describe* (8 in Batch 0003's sixteen chapters, repaired
-to 0) · *there is no arrangement on this ground* (7, repaired to 3, and Batch 0004 added 0). **Also check for the widened
-family of each.**
+to 0) · *there is no arrangement on this ground* (7, repaired to 3). **Batch 0004 restarted each of them exactly once, at
+ch 590 and ch 600, and its own budget recorded both as 0 while the instances stood — the fifth occurrence of the
+zero-that-is-not-a-zero failure in this manuscript. Both were rewritten at Batch 0004's review repair and re-measured at 0
+across ch 587–600. Confirm it yourself and do not take this sentence for it. Also check for the widened family of each.
+Four instances of the first survive in Batch 0002 at ch 551, 552, 554 and 564, so a volume-wide count will not be 0 and
+the close should say so rather than reporting a zero it cannot reproduce.**
+
+## Findings carried into this close from Batch 0004's review repair
+
+**Read `state/continuity.md` §*Volume 10 Batch 0004 — REVIEW REPAIR* before auditing. Four defects were closed in four
+sentences and nothing else moved.** Four things this close should know before it starts:
+
+1. **Two hard arithmetic errors are already fixed on the page and must not be reported as open.** ch 588's elapsed
+   day-count on the run on which she has been lighter every day since the eighteenth of the month beginning 1,544 (day
+   1,561) was published as *the ninth hundred and thirty-something day* and is now **the two hundred and twelfth day** —
+   the chapter runs on day 1,772. **212 is the fixed figure and nothing else in six hundred chapters supported the old
+   one.** ch 597's third-night tally published *Sixteen miles to the turn*, which exceeded the whole road, and now reads
+   **Thirteen miles, wall to the turn**, matching the same chapter's own first line.
+2. **The batch card's day table does not match the page, and the page wins.** `workspace/volume-10-batch-0004/PROMPT.md`
+   allocated ch 587 to 1,772–1,774 and ch 588 to 1,775–1,777, but `outline/volume-10.md` §*Power progression* pins
+   **Severance 6 at ch 588 on day 1,772** and calls that table the authority on the day. The writing overran the card's
+   mid-batch rows by three to six days and then re-synced: **from ch 596 onward the chapters land on the card's own days
+   exactly, and the closing day 1,802 falls inside ch 595.** **Audit the prose, not the card's column.**
+3. **Every figure this close inherits from Batch 0004 that was quoted without a method has been re-measured against the
+   committed text, and six of them did not carry.** The batch is **27,728** words of body prose on method B, average ~1,980
+   — which is 27,733 taken again after four sentences changed, not a corrected total, because the published per-file list
+   reproduced exactly. What genuinely did not carry: `whole of` volume-wide at 105 when it is **80** · `eleven` at 23 when it
+   is **26** and Batch 0003's share at 38 when it is **40** · `nobody` at 23 when it is **27** · `nothing` at 108 when it is
+   **111** on the pre-repair page · `about` at 90 when it is **89** · the longest title at 35 characters when it is **34** ·
+   **and both retired constructions published at 0 with one instance each standing on the page.** **Derive nothing from a
+   published Volume 10 figure of any kind.**
+4. **`nothing` is the one craft line Batch 0004 hands over worse than it received.** See its row above. Nothing else in
+   the batch's budget is over a stated allowance.
 
 ## What this phase must not do
 

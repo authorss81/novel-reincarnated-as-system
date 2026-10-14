@@ -1421,11 +1421,17 @@ put the fifth stage's cost on the page at ch 572 and seventeen days of the last 
   and were carried forward rather than silently restated. The Volume 10 close should re-measure all forty-eight chapters
   under one convention.**
 
-## Volume 10 Batch 0004 — *The List*, ch 587–600, day 1,771–1,830 — WRITTEN. VOLUME 10 COMPLETE ON THE PAGE
+## Volume 10 Batch 0004 — *The List*, ch 587–600, day 1,771–1,830 — WRITTEN, REVIEWED AND REPAIRED. VOLUME 10 COMPLETE ON THE PAGE
 
-**Fourteen chapters, 27,733 words of body prose on method B (every line not beginning `#`), average ~1,981, day 1,771 to
+**Fourteen chapters, 27,728 words of body prose on method B (every line not beginning `#`), average ~1,980, day 1,771 to
 day 1,830, pressure *what closing costs*. `chapters/volume-10/` now holds sixty-two chapters. The next phase is the
-volume close, `workspace/volume-10-close/PROMPT.md`, and no batch prompt was created.**
+volume close, `workspace/volume-10-close/PROMPT.md`, and no batch prompt was created.** *The published 27,733 and average
+~1,981 reproduced exactly; these are that measurement taken again after the repair changed four sentences. Four defects
+closed at the batch's review repair, four sentences on the page and nothing else: ch 588's elapsed day-count was out by
+about two years and is now 212, ch 597's tally exceeded the length of its own road and is now thirteen miles wall to the
+turn, and one instance each of the two retired constructions the previous review had cut to zero had come back at ch 590
+and ch 600 and are rewritten. No beat, day, title, mouth, stage, bracket, midpoint, climax or irreversible decision moved.
+Full record in `state/continuity.md` under *Volume 10 Batch 0004 — REVIEW REPAIR*.*
 
 1. **ch 587 — Counting From The Wrong End.** Day 1,771, the eighteenth of the month beginning 1,754. She walks nine
    miles west from the post with the bar and finds in one hour that the count she has run for a month points east while
@@ -1524,7 +1530,17 @@ volume close, `workspace/volume-10-close/PROMPT.md`, and no batch prompt was cre
   anybody on it. Both are described once and are the only new ground the batch adds.
 - **`about four seconds`, `week`, `spring`, `Tuesday`, `March`, authorial scaffolding, all six italic spans that were not
   load-bearing, twenty-nine `about`, five `whole of`, eighteen `nobody` and fourteen files without a trailing newline were
-  all written and all cleared on the page.** `about` came in at 90, average 6.4 a chapter. `whole of` is 0. `eleven` is 23.
+  all written and all cleared on the page.** `about` came in at 101 and is **89 after the review repair**, average 6.4 a
+  chapter. `whole of` is **0**. `eleven` is **26**. `nobody` is **27** and `nothing` **112**, the last of which is 111 on the
+  pre-repair page. **Six counts in the first published budget did not carry against the files — `whole of` volume-wide at
+  105, `eleven`, `nobody`, `nothing`, `about` and the longest title at 35 characters — and all six are re-measured in
+  `state/continuity.md` §*Construction budget — Volume 10 Batch 0004*. That budget also recorded both retired constructions
+  at 0 with one instance each standing on the page, at ch 590 and ch 600; both are 0 now for a reason that reproduces. The
+  word counts did carry: the pre-repair per-file list reproduced exactly, and 27,728 is that list taken again after the
+  repair changed four sentences.**
+- **`nothing` escalated about thirty per cent on Batch 0003's rate** — 102 in sixteen chapters against 112 in fourteen —
+  and is heaviest at ch 596, 600, 593 and 598. **No cap was set for it and no instance was cut**, because every one in those
+  four chapters is load-bearing. **It is handed to the close as an open line for Volume 11's first batch.**
 - **Five within-chapter repeated one-line counting beats are deliberate and are counted, not cut**: *She could not find
   it.* twice at ch 588, *Nine.* three times at ch 592, *Four.* twice at ch 593, *Six.* three times at ch 595. They are the
   volume's arithmetic and they are not accidental duplication. **No paragraph is duplicated across two chapters.**
