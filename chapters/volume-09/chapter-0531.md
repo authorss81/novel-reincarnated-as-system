@@ -1,10 +1,10 @@
 # The Record Is Accurate
 
-She asked him what the book was for at the ninth hour of the tenth of a month, standing on her own side of the jamb, and he answered it in five sentences over forty minutes, and one of those five sentences is the only wrong thing anybody has said to her in eight years.
+She asked him what the book was for at the second hour of the tenth of a month, standing on her own side of the jamb, and he answered it in six sentences over seven hours, and the sixth of them is the only wrong thing anybody has said to her in eight years.
 
 ## The Question
 
-She said it in the ordinary voice and she did not ask it nicely and she had spent three days getting it down to eleven words.
+She said it in the ordinary voice and she did not ask it nicely and she had spent three days getting it down to five words.
 
 “What is the book for,” she said.
 
@@ -12,7 +12,7 @@ He put his weight on the other leg and looked at her for four seconds.
 
 “It is not a place to join,” he said.
 
-That is the first one and it is four words long and it is not the answer.
+That is the first one and it is seven words long and it is not the answer.
 
 ## Nine Feet Off
 
@@ -20,11 +20,11 @@ There was a man nine feet off her left side with a notebook shut under his arm a
 
 She had not seen him come and she did not start. He has never once come nearer than nine feet and he was not going to start, and he had been on the wrong side of a bar on two posts since the seventh month of a year she could name, which is the second time in his life he has been somewhere she had not already been.
 
-He said nothing. He does not begin. She has to ask him and she asked him at the second hour of the tenth, in the ordinary voice, without turning round, because turning round would have been an answer to something he had not said.
+He said nothing. He does not begin. She has to ask him and she asked him at the fifth hour of the tenth, in the ordinary voice, without turning round, because turning round would have been an answer to something he had not said.
 
 “Bai Zhu.”
 
-Then she asked him the question and it came out in nine words and it is the only thing she asked him for in the whole of that ground.
+Then she asked him the question and it came out in fourteen words and it is the only thing she asked him for in the whole of that ground.
 
 “Is a person written as lost safer than a person not written at all.”
 
@@ -46,9 +46,9 @@ He did not ask her for anything. He has never asked her for anything, not once, 
 
 ## Back To The Man In The Wall
 
-She turned back at the fifth hour and he was where he had been, on his own side, with the book open on two feet of plank table.
+She turned back at the ninth hour and he was where he had been, on his own side, with the book open on two feet of plank table.
 
-“What is the book for,” she said again, because he had answered four words in forty seconds and she wanted the rest of it.
+“What is the book for,” she said again, because he had answered seven words in forty seconds and she wanted the rest of it.
 
 “It is not a punishment either,” he said.
 
@@ -62,11 +62,11 @@ That is the third one and he said it in the ordinary voice, and he did not say a
 
 “The record is accurate,” he said.
 
-That is the fourth one and it is five words and it is the plainest sentence anybody has said to her in eight years, including four said out of the dark on the sixteenth of a month at a hundred yards.
+That is the fourth one and it is four words and it is the plainest sentence anybody has said to her in eight years, including four said out of the dark on the sixteenth of a month at a hundred yards.
 
 “The accuracy is the whole of it,” he said.
 
-Five sentences. He shut the book and picked up the strap and did not say a sixth, and she did not ask him for a sixth, and that is the whole of what nine hundred years of writing down every person the bound has swallowed comes to, told in five sentences in the ordinary voice to a woman who asked.
+Five sentences. He shut the book and picked up the strap and she counted them on her fingers on her own side of the jamb and did not ask him for a sixth, and that is the whole of what nine hundred years of writing down every person the bound has swallowed came to when a woman finally asked in daylight.
 
 ## The Sixth
 
@@ -104,7 +104,7 @@ So I am on a book, and he has written nine hundred years of the ones that came, 
 
 And he says I am better kept.
 
-That is what she asked for and that is what she got and it took three days of eleven words and forty minutes and a man nine feet off who did not know any of it.
+That is what she asked for and that is what she got and it took three days of five words and seven hours and a man nine feet off who did not know any of it.
 
 ## What Five Sentences Come To
 
@@ -146,4 +146,4 @@ She worked that out on the twelfth at the sixth hour, standing in the opening, a
 
 It is a day and an hour and a man with a brush.
 
-She has ten days of it and she does not know what she is going to do with any of them.
+She has twelve days of it and she does not know what she is going to do with any of them.

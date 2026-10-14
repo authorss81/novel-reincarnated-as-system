@@ -34,7 +34,7 @@ He put it under his arm.
 
 “All right,” Ning Yan said.
 
-That is everything that was said of the entry itself and it is nine words and eleven words and neither of them touches the word on the page.
+That is everything that was said of the entry itself and it is twenty-seven words and two words and neither of them touches the word on the page.
 
 ## What It Is To Be Written Down As Lost
 
@@ -60,7 +60,7 @@ Nothing that he has not paid before.
 
 That is the finding and she got it on the evening of the twenty-second standing at the rail outside, and she checked it, and it held.
 
-He does not prefer. He said so on the fifteenth and he was not lying then and he was not lying today. He took the one she gave him. It cost him a line and forty seconds and it cost him nothing else at all, and the whole of what he did to her across nine days cost him a table, a bag, nine days of carrying a book across a hundred yards of flat, and four words out of the dark on the sixteenth of another month.
+He does not prefer. He said so on the fifteenth and he was not lying then and he was not lying today. He took the one she gave him. It cost him a line and forty seconds and it cost him nothing else at all, and the whole of what he did to her across fifteen days cost him a table, a bag, fifteen days of carrying a book across a hundred yards of flat, and four words out of the dark on the sixteenth of another month.
 
 She had gone at it from every side for two days on the nineteenth and the twenty-second, looking for the bill, and the bill was on her side of the opening and not on his, and that is not a way of writing that a man has won.
 
@@ -88,7 +88,7 @@ Then she went west.
 
 “The chimney draws,” he said.
 
-She said nothing back. There is no arrangement in the world in which a woman answers a man who has told her a thing about a chimney, and she is not going to be the one who makes it, and she has thought of that sentence more than anything else he said in nine days.
+She said nothing back. There is no arrangement in the world in which a woman answers a man who has told her a thing about a chimney, and she is not going to be the one who makes it, and she has thought of that sentence more than anything else he said in fifteen days.
 
 The opening is four feet wide with a jamb on each side and the room is nine feet by eleven with the wall along its back and its door on the west side, which is eleven feet from the jamb.
 
@@ -110,15 +110,15 @@ It is the only piece of furniture in the world she has any feeling for and she s
 
 He did not say anything that wanted thanking and she did not say anything back.
 
-That is how the last nine days of the most consequential nine days of her life ended, at a door, in daylight, between a woman and a man of nine hundred years who had said nine words of it.
+That is how the last fifteen days of the most consequential fifteen days of her life ended, at a door, in daylight, between a woman and a man of nine hundred years who had said thirty-two words of it.
 
-She does not think of it as a thing either of them did wrong. She put him on the wrong side of a wall. She keeps a door shut. Neither of those is a mistake and both of them are permanent, and that is everything that happened between them and it took nine days.
+She does not think of it as a thing either of them did wrong. She put him on the wrong side of a wall. She keeps a door shut. Neither of those is a mistake and both of them are permanent, and that is everything that happened between them and it took fifteen days.
 
 ## The Two Days After
 
 Nothing came to the opening on the twenty-third or the twenty-fourth.
 
-The table stood in it with nothing on it from the fourth hour to the eleventh hour and then past the eleventh hour and then past the dark. She went out four times a day for two days and the four feet of plank table was there and the dirt on both sides was flat where his boots had been for nine days.
+The table stood in it with nothing on it from the fourth hour to the eleventh hour and then past the eleventh hour and then past the dark. She went out four times a day for two days and the four feet of plank table was there and the dirt on both sides was flat where his boots had been for fifteen days.
 
 On the twenty-third at the ninth hour there was no light in the window of the hut a hundred yards east.
 

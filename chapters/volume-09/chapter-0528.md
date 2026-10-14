@@ -76,7 +76,7 @@ That is the honest reason the twenty-two miles cost her what they cost her. She 
 
 She filled the skin at the trough twice a day. She read the board. She sat on the rail for two hours of the afternoon of the first of a month and she was not hungry, and that is finished, and she is thinner than she was on the eighth of one that has gone.
 
-On the second she swept the ground around the post with the side of her boot for a quarter of an hour because there was nothing else, and the man with the rag watched her do it and did not stop her and did not thank her.
+On the second she swept the ground around the post with the side of her boot for a quarter of an hour, and the man with the rag watched her do it and did not stop her and did not thank her.
 
 On the third, at the fourth hour, she got up off the rail and picked up the bar.
 

@@ -8,7 +8,7 @@ The brush had been on the table since the evening before and he did not come out
 
 It lies on the pages of a thin book the shape of a pouch with a brass ferrule and a handle as long as her hand, and it is nine hundred years old in the way that everything in that room is, and it has a knot of old grey in the bristles where somebody stopped pressing them together once and never cleaned it.
 
-On the first of the sixteenth she picked it up.
+On the sixteenth she picked it up.
 
 She stood in the opening with it in her right hand, four fingers and a thumb, at the fourth hour, and it weighed almost nothing, and she looked at it for a length of time she did not count.
 
@@ -110,7 +110,7 @@ Her hand cannot write a false line. The entry would be true. The two words are t
 
 Nobody would ever know it was not his.
 
-She stood in the opening and thought about it for a quarter of an hour, and it is the single most powerful thing that has ever been on offer to her, and she had it in her hand on the first of the sixteenth and put it back in the same line.
+She stood in the opening and thought about it for a quarter of an hour, and it is the single most powerful thing that has ever been on offer to her, and she put it back down in the same line.
 
 ## Why She Put It Back
 

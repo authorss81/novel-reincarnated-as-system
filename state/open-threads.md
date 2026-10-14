@@ -1869,7 +1869,7 @@ opened for her and cannot come back across it. **The demand at its maximum is th
 daylight, with his book on a plank table carried out to the near side and him standing on his own side of the opening,
 and she does not cross back** — recorded at `state/continuity.md` §*Three readings taken against the outline*, item 3,
 so that Batch 0004 does not draft a contradiction and then repair it. **Ch 531 is Shuyin's mouth and the fifth and last
-of them, and the accuracy is the whole of it.** **Ch 534–535 is the survival, written in her own hand where his cannot
+of them, five sentences he shuts the book on and then a sixth, and the accuracy is the whole of it.** **Ch 534–535 is the survival, written in her own hand where his cannot
 take it out, and she refuses kept.** **Ch 536 he writes her as lost, shuts the book, and walks her to the door of the
 room, and he stays where he is.** **Ch 537–538 she carries her own book west to the stone under the keeper's ladder nine
 miles west and leaves it there, and the reason for the wall is recorded where he cannot reach it.** **The Hunter is in
@@ -1898,8 +1898,9 @@ added, and they are all live at ch 538.
    place, four sentences in her own hand on paper she made, six empties. Unasked, unkept-for, beside his book with an
    inch of stone between. **The reason for the wall is recorded where he cannot reach it, for the first time in nine
    hundred years.**
-3. **Shuyin's mouth spent, at ch 531, the fifth and last structural mouth.** Five sentences and the one wrong one,
-   once. He is alive, old, nine miles west on the last page, nine miles west of the only room in which what he keeps is
+3. **Shuyin's mouth spent, at ch 531, the fifth and last structural mouth.** Five sentences he shuts the book on, and a
+   sixth after the strap is in his hand, the one he is wrong about, said once. He is alive, old, nine miles west on the last
+   page, nine miles west of the only room in which what he keeps is
    kept, the wall still open behind him — **and he is not thanked.**
 4. **The Hunter's second appearance spent, at ch 531**, and his name with it. His request stays pending to the last page.
 5. **Wei Ran's second card spent, at ch 527.** Nine coppers a head, the bar in the cart and not in the rate, and the
@@ -1909,6 +1910,13 @@ added, and they are all live at ch 538.
    paid off, not carried.**
 7. **The merit does not settle anywhere in this batch. No Hand is spent. Door is not opened.** No figure of what is left
    of him on any page, before or after. **Yuan is not on the page and his name does not appear.**
+8. **“Twenty-two days,” said at the jamb at ch 536, and never placed. OPEN, carried to Volume 10.** He says it on the
+   way out after writing her in as *lost* — two words, then “The chimney draws,” and she answers neither. The narration
+   marks it as **the only thing he said that day she has not been able to place anywhere in nine hundred years**, and she
+   has not gone over it since. It is deliberately unexplained on the page: it counts neither days past (fifteen remain to
+   the far ground), nor the volume's thirty-seven (already spent), nor any distance in the book. **Treat it as a planted
+   question, not an error — do not resolve it in a repair pass, and do not let a later batch retcon it into a figure
+   already on the page.**
 
 ### Carried from Batch 0003 to the volume close, live and untouched by this batch
 
@@ -1922,7 +1930,8 @@ open, still uncharged for her · the ten parts not claimed · the year of non-fo
 **Volume 9 runs ch 479–538, day 1,341 to day 1,598, two hundred and fifty-eight days, sixty chapters, and it closes with
 the answer and not with a consolation.** She must survive Shuyin, and she does: entered as lost, refused as kept, her
 own book west where his hand cannot take it out, the walls staying and the reason for them recorded. **Volume 10 opens
-on what is on the book and on what her own book says.** The audit is `workspace/volume-09-close/PROMPT.md`.
+on what is on the book and on what her own book says, and on a man saying two words at a jamb that she has never been
+able to place — “Twenty-two days,” live and unexplained at ch 536.** The audit is `workspace/volume-09-close/PROMPT.md`.
 
 ### What this file did not do
 

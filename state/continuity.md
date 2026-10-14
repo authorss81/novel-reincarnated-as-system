@@ -4387,7 +4387,7 @@ of breath everywhere, the open place low behind her fourth rib, no wages, no pla
 Per the drafting card's own instruction, the batch's six pinned readings, all kept on the page: **the demand at the
 wall and never in the room, with his book on a plank table in the opening and him on his own side throughout, and no
 chapter puts him on her side** · **the room nine by eleven for thirty-seven days, a place somebody lets her have and
-not a place that holds** · **ch 531 his only mouth, five sentences and the one wrong one, and *Shuyin* never in his own
+not a place that holds** · **ch 531 his only mouth, five sentences he shuts the book on and a sixth that is the one wrong one, and *Shuyin* never in his own
 mouth** · **he correct throughout and wrong about exactly one sentence** · **ch 536 one line and a date, the word
 *lost*, the shut book, and the walk ending at the jamb with her last eleven feet alone and no thanks** · **ch 538 he
 comes west out of the far ground down eleven miles of long road and along nine days of road and stands at the foot of
@@ -4396,10 +4396,11 @@ wall.** No other departure.
 
 ### Construction budget — Volume 9 Batch 0004, counted rather than quoted
 
-Body prose only, method B, measured on the fifteen files as they stand: **28,734 words, average ~1,916**, inside the
-volume's own 27,000–30,000 band and its 26,000 floor · per file: 524 1,907 · 525 2,005 · 526 1,869 · 527 2,039 ·
-528 1,817 · 529 2,001 · 530 1,885 · 531 2,044 · 532 1,865 · 533 2,149 · 534 1,643 · 535 1,820 · 536 1,909 · 537 2,033 ·
-538 1,748 · range 1,643–2,149, nothing under the 1,300 floor · **0** blockquotes, code blocks, tables or horizontal
+Body prose only, method B, measured on the fifteen files as they stand **after the review repair below**: **28,961
+words, average ~1,931**, inside the volume's own 27,000–30,000 band and its 26,000 floor · per file: 524 1,907 · 525
+2,005 · 526 1,869 · 527 2,039 · 528 1,812 · 529 2,001 · 530 1,885 · 531 2,044 · 532 1,865 · 533 2,135 · 534 1,643 ·
+535 1,820 · 536 1,909 · 537 2,033 · 538 1,994 · range 1,643–2,149, nothing under the 1,300 floor, and **only three files
+moved at the repair (528, 533, 538)** · **0** blockquotes, code blocks, tables or horizontal
 rules · **0** bracketed layer lines in fifteen chapters — **Volume 9's budget of three in sixty stands spent at ch 493,
 ch 508 and ch 523** · **0** straight double quotes and **0** straight apostrophes, every speech closed · **0** bold
 spans and **2** italic spans, both the word *lost*, at ch 535 and ch 536 · longest paragraph **89** words, none over
@@ -4408,8 +4409,10 @@ with zero collisions**, longest new title **30** characters · **0** named weekd
 **0** named weeks · **0** of the ch 267 surface answer · **0** at every token in the continuity list carried from Batch
 0003, measured on word boundaries in body prose before it is claimed.
 
-Counted and written down whatever they are, with the method in the same sentence: **`about` 88** across the fifteen
-chapters, body prose, `\babout\b`, average 5.9 · **`whole of` 39** · **`eleven` 58** · **`Shuyin` 1**, at ch 538 in her
+Counted and written down whatever they are, with the method in the same sentence, and **all re-measured after the
+review repair**: **`about` 87** across the fifteen chapters, body prose, word boundaries, average 5.8 · **`whole of` 39**
+· **bare `eleven` 52**, *eleventh* and *Eleven* counted separately · **`nothing` 115**, of which ch 533's nineteen are
+the argument and not filler · **`nobody` 24** · **`Shuyin` 1**, at ch 538 in her
 mouth with witnesses, never in his own · **`Warden` 0** · **`list` 3**, all at ch 525 as her own counting word ·
 **`send for`/`sent for` 4**, every one a negation · **`Ning Wu` 0 · `Yuan` 0 · `Ledger` 0 · `Feng` 0 · `Anchor` 0 ·
 `Sisterhood` 0 · `Scribe` 0 · `bargain` 0 · `Lung` 0 · `appointment` 0 · `budget` 0 · `Wall writ` 0 ·
@@ -4441,3 +4444,62 @@ months; *the third* twice for the sixteenth; *thirteen weeks* for three months; 
 cut; *five days ago* for the clay, re-dated to the eighteenth of the month that has gone; the hut light *for the first
 time since the eighth*, re-hung as dark the second night; *two days ago* for four · **ch 538** — the wall four hundred
 yards east of a door eleven feet wide, re-hung as a wall east of her, still open.
+
+## Volume 9 Batch 0004 — REVIEW REPAIR (applied on the page; findings from `logs/volume-09-batch-0004.review.log`)
+
+**Five files touched, seven findings closed, twenty-two individual faults, and no beat, day, title, stage, bracket,
+irreversible decision or planned event moved.** The batch was not re-drafted; the reviewer called the batch strong and the
+prose it found strong is untouched except where a number was wrong. Twelve of the fifteen chapter files are
+byte-identical to what the reviewer read.
+
+- **R1 (high) — ch 531, the counts in the chapter that is about counting.** *Eleven words* for
+  `“What is the book for,”` is **five** — at the opening frame and again at the reckoning at the close of the day;
+  *nine words* for the Hunter's question is **fourteen**. Two more of the same class that the review did not list are
+  closed with them: *four words* for `“It is not a place to join,”` is **seven**, twice, and *five words* for
+  `“The record is accurate.”` is **four**. Every figure now matches the quoted line sitting above it.
+- **R2 (high) — ch 536, the span.** The demand opens on the seventh, ch 536 is the twenty-second, and the span is
+  **fifteen days** — the figure ch 530:109 already stated and did not propagate. Six elapsed uses corrected: what he
+  did to her across it · the days of carrying the book across a hundred yards of flat · the sentence she has thought of
+  more than any other he said · the last of the most consequential days of her life, twice · and the dirt his boots
+  flattened. **The four `nine days of road` instances are untouched: that is the distance measure the book uses
+  throughout the batch, not the same number, and it is left as it stands.**
+- **R3 (medium) — ch 536, the speech counts, corrected with R2 because they sit in the same paragraphs.** The entry is
+  **twenty-seven words and two words**, not *nine words and eleven words*; and he had said **thirty-two words of it**
+  across the whole chapter, not nine.
+- **R4 (medium) — ch 533, the dates.** *The first of the sixteenth*, twice, is a construction the manuscript does not
+  use — the forms are *the first of a month* and *on the sixteenth*. **On the sixteenth** she picked up the brush. The
+  second instance sat three clauses after the same paragraph had already dated the decision to the seventeenth, so the
+  date is cut and what is left is the quarter of an hour and the line the brush goes back down on.
+- **R5 (medium) — the `Twenty-two days` line at ch 536, now tracked rather than orphaned.** The prose is unchanged and
+  deliberately unexplained: the narration marks it as the only thing he said that day she cannot place in nine hundred
+  years, and she has not gone over it. **It read as an error only because nothing carried it.** It is now written up at
+  `state/open-threads.md` §*Volume 9 Batch 0004 (ch 524–538)* item 8, with the instruction not to resolve it in a later
+  repair pass and not to retcon it into a figure already on the page; marked OPEN in the ch 536 row of
+  `state/chapter-summaries.md`; added to `workspace/volume-09-close/PROMPT.md` as close-audit item 8 and to the close's
+  required continuity list, where it is listed as **still unplaced and still unanswered.**
+- **R6 (low) — ch 531, the clock and the five.** The hours ran ninth → second → fifth, against the order the reader meets
+  them; they now run **second, fifth, ninth**. The opening frame called the wrong sentence *one of those five* while the
+  chapter delivered five, shut the book, and then gave a sixth; the frame now reads **six sentences over seven hours, and
+  the sixth of them is the wrong one**, and the five-sentence close is written as what she counts and does not ask past,
+  so the sixth lands as a beat instead of a contradiction. **Twelve days**, from the tenth, for the run to the
+  twenty-second.
+- **R7 (low) — two density and weight findings.** Ch 528's *a quarter of an hour because there was nothing else* repeated
+  the reason four lines after *there is nothing to be done at a post* had given it; the reason is cut and the sweep
+  stands. Ch 533's nineteen `nothing`es are left alone — they are *nothing to take them past it*, the argument of the
+  chapter. **Ch 538 gains one section, *Five Days Of It*:** the four sentences she read him on the twentieth, the five
+  days in which he has said one word about none of them, and her refusal to open that in the open in front of three
+  people at the post. No event added, no beat moved, the last line unchanged — **1,748 → 1,994.**
+
+**Measured after the repair:** body prose, method B, **28,961**, average ~1,931, inside the 27,000–30,000 band · per file
+524 1,907 · 525 2,005 · 526 1,869 · 527 2,039 · 528 1,812 · 529 2,001 · 530 1,885 · 531 2,044 · 532 1,865 · 533 2,135 ·
+534 1,643 · 535 1,820 · 536 1,909 · 537 2,033 · 538 1,994 · **0** paragraphs over 90 words, longest **89** · **538**
+headings, **zero** collisions · **0** blockquotes, code blocks, tables and horizontal rules · **0** straight quotes and
+**0** straight apostrophes · **0** bracketed layer lines in fifteen chapters, the volume's budget of three in sixty still
+spent at ch 493, ch 508 and ch 523 · `about` 87 · `whole of` 39 · bare `eleven` 52 · `Shuyin` 1, in her mouth ·
+`Ledger` `Warden` `Yuan` `Ning Wu` `Feng` `Anchor` `Lung` `Sisterhood` `Scribe` `bargain` `appointment` `budget`
+`Wall writ` `field agent` all **0** — the review's single `Scribe` hit is the substring inside *describe*.
+
+**Still true after the repair, re-checked on the page:** him on her side of the opening **never**, in fifteen chapters ·
+the demand made at the wall and never in the room, in daylight, the book on plank table, him on his own side throughout ·
+**he is not thanked anywhere** · no page of his book read out loud · the ch 267 surface answer never re-voiced · the
+Hunter's request pending · the ten parts not given · no harem and nothing a romance · no new final enemy.

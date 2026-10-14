@@ -96,6 +96,18 @@ He is nine miles west of the only place in the world where that book is ever ope
 
 That is the price of it and it is on the page and she is not going to describe it twice.
 
+## Five Days Of It
+
+She read the four sentences to him on the twentieth at a table in daylight and he stood nine feet off on the other side of a jamb with his hands on the edge of the plank and he did not move, and in five days he has not said one word about any of the four.
+
+On the twenty-second he wrote her in as lost in forty seconds and shut the book and said two words and then a thing about a chimney, and then he walked her to a jamb and went back east through a wall that is still open.
+
+Five days and not one of them has had a word in it about a county and what it carries past the end of what it can hold. She said that out loud at a table to a man whose book is nine hundred years deep and he stood there and listened to it the way a person listens to a thing that is about himself.
+
+She has been carrying that silence since the twentieth and she is not going to open it standing at a post in the open with a carter and a boy of eleven and a man with a paste pot within twenty feet of her.
+
+So she uses the part of it she can use, which is four feet of strip road and a name, and she does the thing she has done four times in eight years.
+
 ## She Says His Name
 
 She did not go to him and she did not call out and she did not ask him anything.

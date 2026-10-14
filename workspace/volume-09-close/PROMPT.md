@@ -67,9 +67,9 @@ the wall · ch 535 she reads her own four sentences back and refuses kept.
 4. **The required continuity facts**, `outline/volume-09.md` §*Required continuity facts to preserve after the volume*,
    walked one at a time with the page for every item: the fifth entry attempted and unlike the four · the claim and the
    family account still settled · the Hunter's request still pending · Shuyin alive, old, not thanked · the list keeps
-   the name, written as lost · the walls stay · the reason recorded where he cannot reach it · no figure of what is left
-   of him on any page · the ten parts not given · Ning Wu not on the page · Yuan's Door opened once, at ch 518, and its
-   price paid.
+the name, written as lost · the walls stay · the reason recorded where he cannot reach it · no figure of what is left
+    of him on any page · the ten parts not given · Ning Wu not on the page · Yuan's Door opened once, at ch 518, and its
+    price paid · **“Twenty-two days,” said at the jamb at ch 536, still unplaced and still unanswered.**
 5. **The hard rules at volume level**: `Ledger` 0 · `Warden` 0 · `Shuyin` never in his own mouth (once in her mouth, at
    ch 538, with witnesses) · no page of his book read out loud · the ch 267 surface answer never re-voiced · the Anchor
    never stated · no new final enemy · no harem, nothing a romance · the year of non-forgiveness never mentioned ·
@@ -77,9 +77,18 @@ the wall · ch 535 she reads her own four sentences back and refuses kept.
 6. **The volume goal.** In this volume, Ning Yan must survive Shuyin, or the walls stay and the reason for them goes
    unrecorded. Confirm the payoff on the page: entered as lost, refused as kept, her own book west, the walls staying,
    and the new question for Volume 10 opening without previewing it.
-7. **The Batch 0004 repair.** Confirm the thirty-one faults stayed closed: spot-check the re-dated ch 532–534 handoff,
-   the four-words count in five places, the hut lights, and the ch 538 staging. Record any fault found as a finding for
+7. **The Batch 0004 repairs.** Confirm the thirty-one faults stayed closed: spot-check the re-dated ch 532–534 handoff,
+   the four-words count in five places, the hut lights, and the ch 538 staging. Then confirm the review pass stayed closed
+   too: **the ch 531 quoted-line counts (five words for “What is the book for,” fourteen for the Hunter's question,
+   seven and four for his first and fourth sentences), the ch 531 clock running second → fifth → ninth hour, the sixth
+   sentence framed as the sixth and not the wrong one of five, and “twelve days” at ch 531's last line**; **the fifteen-day
+   span from the seventh to the twenty-second in ch 536, with “nine days of road” left alone as the road measure it is**;
+   **the ch 533 dates at the sixteenth, not “the first of the sixteenth.”** Record any fault found as a finding for
    a repair phase, not as prose written here.
+8. **The one question left open on purpose.** **At ch 536 he says “Twenty-two days” at the jamb and she never asks.**
+   The volume closes with it live and unplaced. Confirm the close does not resolve it, does not retcon it into a figure
+   already on the page, and hands it to Volume 10 as a question rather than as an error — the thread is written at
+   `state/open-threads.md` §*Volume 9 Batch 0004*, item 8.
 
 ## Deliverables
 
