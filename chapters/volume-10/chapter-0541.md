@@ -28,7 +28,7 @@ She worked it out at the sixth hour, standing in the dust, and it is the only ar
 
 He came west out of that ground at the eleventh hour of a month and stood at a post at the ninth hour of the twenty-fifth and he told her his name was Shuyin, and she said his name out loud in front of three people, and he answered. That is three days and it is twenty-two miles and he is going back at the fifth hour of the twenty-eighth, which gives him the daylight and puts him there at the third or the fourth hour of the thirtieth.
 
-There is nine miles of strip road between this post and a turn, and eleven miles of made road between that turn and the wall, and a gate on the made road with a boy of fifteen on a chain, and then the flat ground and the opening in the wall.
+There is nine miles of strip road between this post and a turn, and thirteen miles of made road between that turn and the wall, and a gate on the made road with a boy of fifteen on a chain, and then the flat ground and the opening in the wall.
 
 She could catch him in two hours. She is not as slow as him on open ground and she has nine hours of daylight in front of her.
 

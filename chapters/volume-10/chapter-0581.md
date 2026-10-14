@@ -26,7 +26,7 @@ And she said it in the ordinary voice, at a woman, in daylight, standing four fe
 
 ## What The Woman Said
 
-She did not stop what she was doing and she gave six sentences and she gave them as she had them.
+She did not stop what she was doing and she gave eight sentences and she gave them as she had them.
 
 “You have not asked me one thing since the first time you came past this door and now you have asked one.”
 
@@ -40,13 +40,13 @@ She did not stop what she was doing and she gave six sentences and she gave them
 
 “Bread goes in the body. Go on, you are grey.”
 
-That is six sentences and then she put the loaf in a cloth and held it out, and Ning Yan took it, and the bar across the inside of the door did not move.
+That is eight sentences and then she put the loaf in a cloth and held it out, and Ning Yan took it, and the bar across the inside of the door did not move.
 
 ## What She Did Not Get
 
 She did not get a direction. She did not get a year. She did not get four at the end of anything, or a street, or a trade, or a thing he was carrying.
 
-She got six sentences about bread from a woman who has remembered a boy’s manners for ten years and has never once told anybody what her face looked like.
+She got eight sentences about bread from a woman who has remembered a boy’s manners for ten years and has never once told anybody what her face looked like.
 
 And she had asked for one thing. She came four miles off a face to ask one thing and she got a loaf and a woman telling her that she had not asked her a single thing since the first time she came past, which is true, and which is also a thing a woman says when she wants a girl to know that the asking counted.
 
@@ -106,7 +106,7 @@ That is the difference. One of them gives you a thing and it is gone. The other 
 
 ## What She Felt About It
 
-She was not angry at the woman of fifty for six sentences about bread and a door that did not open.
+She was not angry at the woman of fifty for eight sentences about bread and a door that did not open.
 
 She was angry at herself, and she has been angry at herself for eight years and has got very little out of it, and on the thirtieth of a month beginning 1,694 she got one thing out of it and she wrote it in the dust at the turn with a finger.
 

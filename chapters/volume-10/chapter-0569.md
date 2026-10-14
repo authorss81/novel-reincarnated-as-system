@@ -66,7 +66,7 @@ The woman looked up and she said good to her, and she said nothing else, and she
 
 That is the whole of it and it took forty seconds.
 
-She had sat next to that woman for a day and a night at the beginning of the month beginning 1,634 and had heard six sentences about a mill and a lime bed and a house.
+She had sat next to that woman for a day and a night at the beginning of the month beginning 1,634 and had heard ten sentences about a mill and a lime bed and a house.
 
 She had thought on the way west that she would come back and say thank you for them, and she has not come back in thirty-two days, and there is no arrangement anywhere on this ground by which a girl with a bar on her shoulder interrupts a woman of sixty doing string to say a thing she said once.
 

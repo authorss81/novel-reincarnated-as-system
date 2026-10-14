@@ -100,7 +100,7 @@ Eight years of one thing kept shut on purpose ended at the seventh hour of the t
 
 ## The Part That Cannot Be Un-Said
 
-A boy of eleven at a post told her in five sentences on the seventeenth of a month beginning 1,694 that a thing said out loud where two people are is out, and you cannot go back and say it quieter, and you cannot un-say it to him.
+A boy of eleven at a post told her in eight sentences on the seventeenth of a month beginning 1,694 that a thing said out loud where two people are is out, and you cannot go back and say it quieter, and you cannot un-say it to him.
 
 He was right and he has never once heard her say it.
 

@@ -100,15 +100,11 @@ And then he said the other thing, and he said it in the ordinary voice, and it i
 
 ## What She Got From That
 
-She crossed back at the seventh hour on the seventeenth... no.
-
-Let me fix: she crossed at the fifth hour of the sixteenth and stayed on the far side.
-
 She had intended to cross back.
 
 She got to the bank at the sixth hour and turned round and looked at nine feet of cut with three planks on it, and worked out in four seconds that she could not cross it at night and that the man was not going to open it.
 
-And there were nine miles of made road and a gate and a wall and a line in wet ground on the other side of all of that.
+And there were eleven miles of made road and a gate and a wall and a line in wet ground on the other side of all of that.
 
 So she was on the far side of the cut from the fifth hour of the eleventh of the month beginning 1,784 until the morning of the twelfth, and she had no bread and no place to lie down on and nine days.
 

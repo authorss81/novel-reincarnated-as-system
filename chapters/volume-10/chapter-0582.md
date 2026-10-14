@@ -118,7 +118,7 @@ The man with the chalk said the figures out loud. She filled nine a day and did 
 
 Nothing came out of her on any of them. It has not come out of her since the twenty-sixth of a month beginning 1,604 on work that a store pays a figure for, and she has been turning that over for two months and it has not got any further along than that.
 
-At the seventh hour of the fifth she got her bar and stood at the head of the lane and looked east, eleven miles of strip and nine of made and two past a gate.
+At the seventh hour of the fifth she got her bar and stood at the head of the lane and looked east, nine of strip and eleven of made and two past a gate.
 
 She was leaving in the morning and there would be no bread at the other end of it and she would be at the wall inside two days.
 

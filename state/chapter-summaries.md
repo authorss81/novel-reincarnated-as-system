@@ -1544,3 +1544,88 @@ Full record in `state/continuity.md` under *Volume 10 Batch 0004 — REVIEW REPA
 - **Five within-chapter repeated one-line counting beats are deliberate and are counted, not cut**: *She could not find
   it.* twice at ch 588, *Nine.* three times at ch 592, *Four.* twice at ch 593, *Six.* three times at ch 595. They are the
   volume's arithmetic and they are not accidental duplication. **No paragraph is duplicated across two chapters.**
+
+---
+
+## VOLUME 10 — *The List*, ch 539–600 — CLOSED AND AUDITED
+
+**The volume's sixty-two chapters are already summarized above, batch by batch, at the four heads**
+`Volume 10 Batch 0001 (ch 539–554)` · `Volume 10 Batch 0002 (ch 555–570)` · `Volume 10 Batch 0003 (ch 571–586)` ·
+`Volume 10 Batch 0004 (ch 587–600)`. **This block is the compact single pass the close was asked for, plus the five
+corrections the close made to the prose, so that no later phase reads a stale summary above.**
+
+**Volume shape:** day 1,599 to day 1,830. **115,615 words of body prose on method B — every line not beginning `#`,
+measured by `grep -v '^#' <file> | wc -w` over all sixty-two files — average 1,865 a chapter.** Per batch:
+**29,842 · 27,751 · 30,323 · 27,699.**
+
+### The volume in one compact pass
+
+**BATCH 0001 · ch 539–554 · day 1,599–1,628 · asking what else is on it.** She stands at the post on the strip road with
+*I am here* and her name in her ears from ch 538, three days carried, and does not thank him. He goes back east at ch 541,
+twenty-two miles in three days, and the wall stays open behind him and nobody shut it — **ch 541 carries the volume's
+canonical geography sentence**. She eats at ch 545 as a trade and not a gift. At ch 546 she finds out she can ask. At
+ch 553–554, on the twenty-fourth, in daylight, with a person hearing it, **she asks what else he keeps, and it goes into
+the book and cannot be got out of it, and she puts it there herself.** He answers not with a name but with terms:
+**one at a time, at the wall, in daylight.** Irreversible.
+
+**BATCH 0002 · ch 555–570 · day 1,629–1,696 · being counted.** **Severance 4 at ch 556 on day 1,629, the twenty-sixth of
+the month beginning 1,604**, at the bracket, and the cost is **she cannot be counted where she stands** — a foreman's
+gang of ten cannot get her into a number, and she works out at ch 557 that a gang is therefore never going to feed her.
+She takes her book off the flat stone at **ch 563 with her own two hands and cannot put it back the way it was.** A day
+and a night on a bench at the turn at ch 561 with a woman of sixty who watches people go east and never come back. The
+Hunter at ch 567, unnamed, nine feet off, and she asks him and he says he does not know and then says the other thing.
+At **ch 569–570 he names the closing day in daylight — the nineteenth of the month beginning 1,784 — and the reversal is
+that her asking set it.** Irreversible.
+
+**BATCH 0003 · ch 571–586 · day 1,697–1,771 · following a name.** **Severance 5 at ch 572 on day 1,697, the fourth of the
+month beginning 1,694**, at the bracket, and the cost is **she cannot follow a name she is given** — a woman of fifty hands
+her a place, and a place cannot be walked toward. She says a man's name in the dust and then walks past the place she was
+told to at ch 578 and keeps walking. **The sixth frame scene is ch 584**, away from her hearing, and the answer to whether
+a name can be held open past the closing is that it cannot. At **ch 585 she says Ning Wu out loud in daylight four feet
+into an opening, with a boy of fifteen four feet off behind her and a carter four hundred yards east — and he does not
+write, and says nothing at all for four minutes.** Irreversible, and hers.
+
+**BATCH 0004 · ch 587–600 · day 1,771–1,830 · what closing costs.** **Severance 6 at ch 588 on day 1,772, the nineteenth
+of the month beginning 1,754**, at the bracket, at a bar on two posts, and the cost is **she cannot keep what she finds by
+holding it** — shown working on her own heelprint ninety seconds old, on a room behind a window, and on nine coppers
+counted four times. She finds nine-year-old wheel-marks in the dew and follows them, and then loses them. The chain and
+the ground beyond the opening are new ground: about two hundred people, no man over any of them, nobody paid, and not one
+person in nine years has come back out of it. She spends four questions and ten days under a window and asks none of
+them. **The last asking is ch 595, on the closing day, and the answer is a number and not a name: six.** **Irreversible at
+ch 596: he shuts the book in daylight at the ninth hour with nothing on it, and neither of them asks the other for
+anything.** **Irreversible at ch 598: she finds Ning Wu alive, in person, in her hearing, once — *you are shorter* — and
+it settles nothing.** At ch 600 she stands at the turn for six days, the six blank leaves stay blank, and the only unread
+thing left is a voice that has been counting with her for eight years. **She does not ask him yet. He is still talking.**
+
+### FIVE CORRECTIONS THE CLOSE MADE TO THE PROSE — the summaries above that mention these are now stale
+
+1. **ch 592.** The batch summary above describes a chapter that also printed **two lines of a drafter's scratch note as
+   body prose**: *She crossed back at the seventh hour on the seventeenth... no.* and *Let me fix: she crossed at the fifth
+   hour of the sixteenth and stayed on the far side.* **Both are removed.** The section now opens on *She had intended to
+   cross back*, which is the true state — she crossed to the far side at the fifth hour of the eleventh, was still on the
+   far bank at the second hour before the four crossed at the fourth hour of the twelfth, and did not get up off it until
+   the sixth hour of the fourteenth. **ch 592 is 2,097 words, not 2,126.**
+2. **Six distances.** ch 541 now reads *thirteen miles of made road between that turn and the wall* · ch 554 reads *nine
+   miles of strip road and eleven of made road and two of the last of it* · ch 582 reads *nine of strip and eleven of made*
+   · ch 592 reads *eleven miles of made road and a gate and a wall* · ch 595 reads *walked eleven miles of made road* ·
+   ch 597 reads *thirteen miles across open country*. **Every one now agrees with the volume's spine of 9 · 11 · 2 =
+   twenty-two.** Batch 0001's own note about a distance correction made at ch 547–554 stands and now has ch 554 to agree
+   with it.
+3. **The narrator's counts of three structural mouths.** The woman of sixty at ch 561 is **ten** sentences, not six, and
+   the restatement at ch 569 is **ten** too. The boy of eleven at ch 577 is **eight**, not five, and so are the restatements
+   at ch 577 and ch 585. The woman of fifty at ch 581 is **eight**, not six. **No mouth's words were touched.**
+4. **The five mouths, measured.** **ch 544 = 7 sentences in 3 speeches** (holds, and its own *"Seven sentences and that is
+   all of it"* is true) · **ch 561 = 10 in 5** · **ch 577 = 8 in 5** · **ch 581 = 8 in 6** · **ch 593 = 8 in 5, plus 4 more
+   in the *Why He Said It To Her* run.** **Four of five overrun the outline's three-to-seven range and stand, because the
+   outline says an overrun is recorded and not fixed.** **Batch 0004's record of a sixth mouth at ch 594 does not exist —
+   ch 594 has no mouth in it.**
+5. **Batch 0004's published per-batch total of 27,733, then 27,728, is superseded by 27,699** after the ch 592, 595 and
+   597 repairs. **And the volume figure of 115,638 that all four batches measured is the pre-repair page. Volume 10 is
+   115,615.**
+
+### Two things the close found that the summaries above do not carry
+
+- **Shuyin is thanked once, at ch 580**, and ch 596 and ch 600 both say so. `outline/volume-10.md` says he is not thanked.
+  **The page and the outline disagree and the close did not reconcile them.**
+- **The lane is in two impossible places** — ch 560's three sentences against ch 585 and ch 600's list. **Everything else
+  on the map is fixed.**

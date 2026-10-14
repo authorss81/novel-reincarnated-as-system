@@ -50,7 +50,7 @@ He did not think about it for very long, and he did not put his hands behind him
 
 “You asked me what I do with it and I am telling you there is nothing to do with it. It comes down the road with me like the boards do.”
 
-That is all of it, and it is five sentences and he has never made one of them twice.
+That is all of it, and it is eight sentences and he has never made one of them twice.
 
 ## What She Did Not Say
 
@@ -76,7 +76,7 @@ She has worked out since that he has the same instrument she has, which is a cou
 
 He counts the boards off the cart and he counts the near end and he counts how many are left at the rail before the light, and a person who counts something all day knows exactly what it costs to be told one more thing by a person who is not going anywhere.
 
-That is why his five sentences came out flat and in the same voice he uses with a chalk, and it is why she got five sentences and not one sentence with anything in it, and she is not going to pretend to him or to a reader that the flatness hurt. It is the most useful voice anybody has spoken to her in eight years.
+That is why his eight sentences came out flat and in the same voice he uses with a chalk, and it is why she got eight sentences and not one sentence with anything in it, and she is not going to pretend to him or to a reader that the flatness hurt. It is the most useful voice anybody has spoken to her in eight years.
 
 ## The Part She Took East
 
@@ -102,7 +102,7 @@ She lay in the broken ground north of the made road twice and did the count and 
 
 And on the twenty-seventh, at the seventh hour, four miles from the turn, she said his name out loud to a barrow one-handed with her right arm open, which she had not done before and has not done since, and nobody was within four hundred yards, and it was still out.
 
-That is what she learned from five sentences by a boy of eleven. It is not a thing that a person can put back in a quiet place afterwards. It is out at the moment it leaves, and the quiet afterwards is a thing she tells herself.
+That is what she learned from eight sentences by a boy of eleven. It is not a thing that a person can put back in a quiet place afterwards. It is out at the moment it leaves, and the quiet afterwards is a thing she tells herself.
 
 She put her hand flat on the flat stone under the bottom of the ladder and it was bare.
 

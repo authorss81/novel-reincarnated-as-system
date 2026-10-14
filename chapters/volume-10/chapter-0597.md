@@ -132,7 +132,7 @@ Nine coppers she cannot count. A bar nine feet nine. A book of eight leaves with
 
 Six people on a page that is shut.
 
-And a line in wet ground east of a bar on two posts, eleven miles across open country, that came out on the far side of a wall a quarter of a mile past an opening.
+And a line in wet ground east of a bar on two posts, thirteen miles across open country, that came out on the far side of a wall a quarter of a mile past an opening.
 
 She could not find it in her head.
 

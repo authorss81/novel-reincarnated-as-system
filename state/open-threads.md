@@ -2390,3 +2390,131 @@ irreversible decision moved.** Full record in `state/continuity.md` under *Volum
     stand at **zero across ch 587–600**, verified by grep after the repair. **Batch 0001's four surviving instances of the
     first at ch 551, 552, 554 and 564 are out of this batch's scope and were not touched**; if Volume 11's first batch
     inherits a volume-wide count of that construction, it will find those four before it finds anything in Volume 10.
+
+---
+
+## VOLUME 10 CLOSED — what Volume 11 inherits, and what the close confirmed is still open
+
+**`chapters/volume-10/` is CLOSED AND AUDITED: ch 539–600, sixty-two chapters, 115,615 words of body prose on method B
+(every line not beginning `#`), day 1,599 to day 1,830.** Audit: `state/continuity.md` under ***VOLUME 10 CLOSE — The List,
+ch 539–600 — the volume as a whole***. Live position: `state/current.md` under ***Who is where at end of Volume 10***.
+
+### CLOSED, and confirmed closed by the close
+
+1. **The asking.** Asked out loud at ch 553–554, in daylight, with witnesses. Cannot be un-asked. The list closes because
+   she asked.
+2. **The three costs.** Named once each on the page — ch 556, ch 572, ch 588. **And the close found the third one restated
+   at ch 599**: `she cannot keep what she finds by holding it` is spoken twice, the second time as the application that
+   turns on the finding. **Rule-form counts stand at 1 · 1 · 2 and not at 1 · 1 · 1.**
+3. **The closing day.** Day 1,802, the nineteenth of the month beginning 1,784. Named in daylight at ch 569–570, derived
+   once there, re-derived once in her own count at ch 571 (arithmetically exact: 1,802 − 1,697 = 105), and thereafter
+   carried as a fixed date and **never extended, renamed or moved, and never re-derived in ch 572–600.**
+4. **The sixth frame scene, ch 584**, the only marked present-frame scene in the volume, and the only place outside it
+   where Yuan is narrated in the present tense. **He speaks in one sentence in sixty-two chapters, at ch 596.**
+5. **The three structural mouths that hold and the two that do not** — see OPEN item 9.
+6. **The lever — asking twice.** Rubbed out in the dust at ch 594 on the eighteenth of the month beginning 1,784 and not
+   written again, after a hundred and forty-eight days of carrying it. **Not pulled anywhere in Volume 10.**
+7. **The two prior reviews' closed constructions, confirmed from the files and not from the batches' word.**
+   *She wants that/it written down* is **0 across ch 587–600** and **7 volume-wide** (ch 551, 552, 554, 557, 563, 564,
+   578). *No arrangement on this ground* is **0 across ch 587–600** and **20 volume-wide**, 11 of them the exact phrase,
+   heaviest at ch 554.
+8. **The batch-card day deviation**, resolved: the outline's Power-progression table is the authority on the day, Severance 6
+   holds at ch 588 on day 1,772, and the prose was audited rather than the card's column.
+
+### OPEN, and now carried into Volume 11
+
+9. **THE VOICE. Spent once, at ch 600, and not explained.** Something in her head has counted with her for eight years, has
+   read out every figure anybody hands her before she has finished taking it in, and got a number wrong once and
+   corrected itself before she had finished being wrong. **It has never once said what it was before it started counting.**
+   She has had the question since the month beginning 1,574 and has never put it anywhere. **The last two lines of
+   Volume 10 are *She does not ask him yet.* and *He is still talking.*** **This is Volume 11's engine and nothing on
+   Volume 10's page puts what he was on it** — `before he died` is 0 across sixty-two chapters, and `Scribe` is 0 on word
+   boundaries.
+10. **Three questions standing in a shut book, and no book to put a fourth into.** *What is it for* (thirtieth of the month
+    beginning 1,604) · *what does the word do* (fifteenth of the month beginning 1,634) · *will you tell me when*,
+    answered *there is a day*. **This is the closing's actual cost and it is a permanent one.**
+11. **What *lost* does.** Unanswered, and closed off twice over: there is no book to ask it in, and the brother does not
+    know the word either and said so.
+12. **Her own entry.** Written at the month beginning 1,724 as *lost*, in a hand nine hundred years old, in a book that is
+    now shut. **No shut book can take it out, and she has asked a man of nine hundred years *with what* and has not got an
+    answer.**
+13. **Six people on a shut page.** Four went across a chain on the twelfth of the month beginning 1,784 and she counted
+    them. **Two she has never seen and will never be told about**, and she cannot tell whether the four at the chain are
+    the four on the page. He told her the number is **six**; she had counted **four**.
+14. **The brother.** Alive, found once, unforgiving, nine miles further east in a barrow ground he walked into on his own
+    legs at ten years old. **She can walk back, and that is what *you can come, it is not the same as being let* means.**
+15. **The window a hundred yards off the east side.** Still OPEN. **Four questions unspent**, and the price is now known
+    twice over: they cost a trip, and at the end of the trip she cannot hold what she is told. She stood under the sill
+    for two hours at ch 591 and asked none of them.
+16. **The lime under the bar of the shut door.** Found on the fourteenth of the month beginning 1,754 and **LEFT**
+    deliberately. Not spent, not resolved, not turned into anything. Volume 11 may leave it or spend it.
+17. ***Twenty-two days*.** **STILL OPEN**, put in front of her again at ch 590 and **not equated to any dated interval**.
+    Twenty-two miles is a different number and is a real distance.
+18. **A hut light left standing.** Carried from the end of Volume 9: she left a hut's light unremarked on the night of the
+    twenty-third and does not know it went out. **STILL OPEN and still unlearned.**
+19. **The Hunter's request, pending.** `Hunter` is **0 by name across the volume** — he is never named. He is on the page
+    **once**, at ch 567, described rather than named, and she asks him and he does not know. **The Batch 0004 card the
+    outline specified for him — whether finding a name is the same as keeping it — was NOT spent**, and Volume 11 may
+    spend it. Nothing about his paper, his order or his brother is raised.
+20. **The sixth cost's second rule-form statement at ch 599**, the hinge of the finding. Carried, not re-derived, and the
+    close deliberately left it.
+
+### CARRIED and untouched
+
+21. **The eight leaves.** Put down once at ch 538, moved once at ch 563 by her own two hands. **The flat stone under the
+    bottom of the ladder is bare and nothing in Volume 10 puts anything on it.** The six blank leaves **stay blank** — she
+    took the book out at ch 600 on the fourteenth of the month beginning 1,814, held it an hour with a nib and a cake of
+    ink she has not used in two months, and put it back.
+22. **Him.** `Yuan` **0** by name. On the page once, at ch 596, in one sentence. **No figure of what is left of him,
+    before or after.** He opens no wall and is wrong-sided from day 1,521. **He is not thanked.**
+23. **Shuyin.** `Shuyin` **3 by name in the whole volume** (ch 541, 563, 565), never in his own mouth; `Warden` **0**. He
+    shuts the book, walks thirteen miles west with her, says *you do not have a road, go east*, goes east. **Alive, old,
+    correct, and he returns. He is NOT defeated.**
+24. **Untouched and unraised:** the tenth part not given and no proof that the crews were wrong · the surface answer never
+    re-voiced · `Ledger` **0** · the register still *reconciled* · the plate still worn and undescribed · *kiln-born* in two
+    heads on no paper · what became of the eleven not raised · the four months never named · the ch 150 refusal never
+    softened · no harem and nothing a romance · **she never says her mother's name** · **the year of non-forgiveness not
+    mentioned once in sixty-two chapters** · **no page of his book read out loud and no name ever read**.
+
+### FINDINGS the close recorded and did NOT repair — Volume 11 planning must read these before it plans a map
+
+25. **THE LANE IS IN TWO IMPOSSIBLE PLACES.** ch 560 states, in three consecutive sentences, *"The lane is four miles west
+    of the turn. The turn is nine miles east of the post. The lane is thirteen miles from the post."* — 9 − 4 is 5, not 13 —
+    and builds fourteen out and back, twenty-eight for the days and forty-four for a question on the thirteen. **ch 585 and
+    ch 600 both list, unprompted, *A cottage four miles west. A mill five miles west. A lane four miles west with a woman
+    at forty feet of it.*** **The rest of the map is sound and fixed: post → 9 of strip → turn → 11 of made → gate → 2 →
+    wall = twenty-two miles, the bar on two posts four hundred yards east of the turn, the wheel-marks thirteen miles from
+    the bar to a quarter of a mile past the opening, nothing between the gate and the wall to lie down on.** Only the lane
+    is unresolved and it cannot be resolved without choosing a map.
+26. **SHUYIN IS THANKED ONCE, AT CH 580**, in daylight at the west jamb at the eighth hour of the twenty-seventh of the
+    month beginning 1,694, for four sentences about a house. **ch 596 and ch 600 both carry it forward and ch 600 also says
+    *he is alive and old and not thanked*.** `outline/volume-10.md` §*Shuyin in Volume 10* says *alive, old, and not
+    thanked* and *No card writes a scene in which he is thanked.* **The page and the outline disagree, the page is
+    internally consistent, and the close did not reconcile them.**
+27. **Four of the five structural mouths overrun their three-to-seven range**: ch 561 at **10** sentences in 5 speeches,
+    ch 577 at **8** in 5, ch 581 at **8** in 6, ch 593 at **8** in 5 plus 4 more in the *Why He Said It To Her* run.
+    ch 544 holds at **7** in 3 and its own *"Seven sentences and that is all of it"* is true. **The close corrected the
+    narrator's counts to the truth and touched no mouth's words.**
+28. **`nobody` is 137 (average 2.21) against a target under 2.0, and bare `eleven` is 214 against a target under 200.** Both
+    were spent in Batch 0001 and no later batch put them back. `whole of` is **80**, exactly on its line. `about` is
+    **396**, average 6.39, under its line. `nothing` is **387**, average 6.24, **up about thirty per cent on Batch 0003**
+    and handed on as an open craft line with nothing cut.
+29. **Two homonyms recorded as hits, deliberately not repaired:** `Ten volumes of roads` at ch 600 — a measure-word use in
+    the volume's last thematic paragraph, in a list whose other items are four walls, a furnace and a hand — and *the
+    walls* at ch 591, which are the walls of a room behind a window. `the Wall` with a capital is **0** across the volume.
+
+### What the close repaired, and what that changed
+
+**Fifteen sentences and two lines across ten files.** A drafter's scratch note — *She crossed back at the seventh hour on
+the seventeenth... no.* / *Let me fix: she crossed at the fifth hour of the sixteenth and stayed on the far side.* — was
+**printed as body prose at ch 592 and is removed**; it carried a three-way date contradiction against ch 592's own
+eleventh and twelfth and against ch 593. Six distances were put back onto the volume's own nine/eleven/two spine at ch
+541, 554, 582, 592, 595 and 597. Eight narrator's counts of a structural mouth were corrected at ch 561, 569, 577, 581
+and 585. **No day, stage, bracket, title, irreversible step, mouth's words, beat or planned event moved.**
+
+**THE VOLUME'S WORD COUNT IS 115,615, NOT 115,638.** The pre-repair page measured 115,638 and that is the check figure;
+**115,638 must not be quoted as Volume 10's count.** Batches: **29,842 · 27,751 · 30,323 · 27,699.** Batches 0001 and
+0002's previously published totals of 29,678 and 27,575 **did not reproduce** under the settled method and are superseded.
+
+**No repair prompt was created.** Every finding is either repaired on the page or recorded where Volume 11 planning reads
+it, and none is blocking. **No `.done` marker and no `workspace/volume-11-*` directory were written by this phase.**

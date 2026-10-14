@@ -112,7 +112,7 @@ She did the arithmetic while she was waiting for him to say them again, standing
 
 One at a time. At the wall. In daylight.
 
-At the wall means eleven miles of strip road and eleven of made road, there and back. She did that on the twenty-third and twenty-fourth of a month that is going and it took three days, because the light goes at the eighth hour in that month and there is nothing between the gate and the wall to sleep against.
+At the wall means nine miles of strip road and eleven of made road and two of the last of it, there and back. She did that on the twenty-third and twenty-fourth of a month that is going and it took three days, because the light goes at the eighth hour in that month and there is nothing between the gate and the wall to sleep against.
 
 In daylight means she cannot do it at the dark and cannot do it in the dark and cannot do it in the rain of a month she has not had yet.
 

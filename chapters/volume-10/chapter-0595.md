@@ -40,7 +40,7 @@ And the thing she had, standing there, was the six words in the air with nothing
 
 ## Two Days To Get There
 
-She was at the chain from the twelfth to the fourteenth of the month beginning 1,784 and she came off the far bank at the sixth hour of the fifteenth and walked nine miles of made road with the gate at the ninth hour.
+She was at the chain from the twelfth to the fourteenth of the month beginning 1,784 and she came off the far bank at the sixth hour of the fifteenth and walked eleven miles of made road with the gate at the ninth hour.
 
 On the eighteenth she stood four feet into the opening at the seventh hour and at the ninth hour and at the second hour of the afternoon and she did not ask anything, and he did not open the book, and she went and slept in the broken ground north of the made road for two hours and forty minutes with her bag under her head and she did not dream and she did not wake up once.
 

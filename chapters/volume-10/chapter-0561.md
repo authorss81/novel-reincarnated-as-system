@@ -1,6 +1,6 @@
 # Nine Years Of Going East
 
-She sat on a bench at a turn for a day and a night on the fifth and sixth of the month beginning 1,634 and watched nine years of people go east, and the woman who was already sitting there told her in six short sentences that a thing shutting is not done to anybody.
+She sat on a bench at a turn for a day and a night on the fifth and sixth of the month beginning 1,634 and watched nine years of people go east, and the woman who was already sitting there told her in ten short sentences that a thing shutting is not done to anybody.
 
 ## The Fifth Of A Month
 
@@ -48,7 +48,7 @@ She had come down the store road from the mill with what she had and stopped at 
 
 ## Nine Years Of Them
 
-She said the thing at the fourth hour of the sixth of a month beginning 1,634, with her needle in the string, and it was not a speech and it was six sentences and she did not stop to say them.
+She said the thing at the fourth hour of the sixth of a month beginning 1,634, with her needle in the string, and it was not a speech and it was ten sentences and she did not stop to say them.
 
 “I have sat here nine years and I have not seen one person go east and come back.”
 
@@ -72,7 +72,7 @@ She wanted to ask what the mill kept and she wanted to ask about the house beyon
 
 She has been the person who says no in a room for eight years and she has never once in her life sat next to somebody for a day and a night and said nothing, and it cost her four separate times in two hours and she let it cost her.
 
-What she got instead was six sentences from a woman of sixty about a mill and a lime bed and a house, and none of them had anything in them that was meant for her.
+What she got instead was ten sentences from a woman of sixty about a mill and a lime bed and a house, and none of them had anything in them that was meant for her.
 
 ## What A Closing Is
 
