@@ -52,7 +52,7 @@ The woman in the office end stood in the doorway with the cup out.
 
 She did not take it.
 
-## The Cost, Named Once
+## The Cup And The Column
 
 She cannot be given anything.
 
@@ -126,9 +126,9 @@ There were eleven people at a place nine days of road west whose business it was
 
 And there was a strip that had gone east on the end-of-month cart three months back, and it had not come back on the cart that goes up with the empty trays, and no hand on nine days of road had ever sent anything east, and she carried the other half of it folded against her ribs every day and could not read the word at the head of it.
 
-## The Last Of It
+## The Seventeenth
 
-She lay on the boards at the second hour of the twenty-eighth and put her hands behind her head and they were cold, and the ring was cold, and she said out loud because the second hour is for that.
+She lay on the boards at the second hour of the seventeenth and put her hands behind her head and they were cold, and the ring was cold, and she said out loud because the second hour is for that.
 
 “There is a page at a yard with two holders required against a date and there is a strip in a coat with two lines at the top of it in a hand I have never seen, and a book at a counter with my name at the head of a line and a day against it, and a stair book going up a road once a month with a name in it that I cannot read back.”
 
@@ -138,4 +138,12 @@ She lay there.
 
 “And that is the second time in about a month that I have worked out what I am for and found out it is a page.”
 
-It came up the width of a finger and stopped, and she put a lump of clay in at the low end of the ring and went to sleep, and the twenty-first day of the next month was in nine days and the board was full and none of it could pay her.
+It came up the width of a finger and stopped, and she put a lump of clay in at the low end of the ring and went to sleep.
+
+The cup was still standing on the edge of the bench at the yard at the turn with the office end against it, and there are seven weeks of them behind that one, and there is going to be another on that bench inside three days, and her hand is going to do the thing it did at the quarter past the sixth hour on the twenty-sixth.
+
+She had not worked that out at the bench, because the rule was not new to her and a rule is not worked out twice.
+
+Until the eighth hour of the twenty-sixth, the not being able to take anything was a thing about four fingers and an arm that does not close.
+
+This is not about her hands at all.

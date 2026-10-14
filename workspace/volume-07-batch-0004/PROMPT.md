@@ -65,12 +65,27 @@ be pre-empted here, or rehearsed, or softened, or mentioned in passing by anybod
 | The board at the works | **every line measured by weight or by length; none of them by voice** | ch 367 |
 
 **The purse on the last page of Batch 0003 is FOUR COPPERS, in the fold in the inside of the door frame, and the sum
-is on the page at ch 404 and at ch 396: fifteen at the seventh of the month beginning 944, eleven at the second hour of
-the twenty-eighth, six at the end of the thirtieth, seven at the twenty-sixth of the next month, and four at day
-1,020, with ten trips west at eight in seventy days.** **Any new figure in ch 405–420 has to come out of that table
-and not out of a fresh guess, and any list of people has to count.** She has four coppers and the four coppers for a
-margin correction she has twice declined, and the season turning is what makes the board fill and the board is full
-and every line on it is measured by the weight or by the length.
+is on the page.** **These are the anchors, and every one of them was read off a chapter and not inferred: fifteen at
+the eighth of the month beginning 944 (ch 390, the eighth) · **seven** at the ninth after four loaves at eight (ch 391)
+· seven carried through ch 392 · **six at the end of the thirtieth** (ch 396, where she works the sum out loud and it
+comes to six: fifteen at the eighth, twenty-three gate days at a copper, four trips west at eight, and it is checked
+twice) · **four** at the fourth of the next month after a gate day and bread bought on the second (ch 397) · **eight**
+at the seventh (ch 397) · **four** and bread for two days at the sixteenth (ch 399) · **five** and bread for four days at
+the nineteenth (ch 400) · **four** and bread for three days at the first of the month beginning 1,004 and at the last
+page, day 1,020 (ch 404).**
+
+**Two warnings, and the second one matters. First: the earlier version of this prompt carried a running total —
+*eleven at the twenty-eighth, six at the thirtieth, seven at the twenty-sixth* — and **one figure in it was on no page
+at all and the rest did not add up.** It has been struck rather than repaired. Carry the anchors above and not the
+chain. Second: the steps *between* the anchors are not carried on the page as arithmetic, and **a drafter must not
+invent a derivation to bridge them.** She earns a copper at the gate, spends eight on four loaves, and the rest is
+stated at the next anchor. Trips west are counted separately and are not purse arithmetic: **four trips west at eight
+inside ch 396 alone, and ten trips in seventy days across the whole batch.**
+
+**Any new figure in ch 405–420 has to come out of that table and not out of a fresh guess, and any list of people has
+to count.** She has four coppers and the four coppers for a margin correction she has twice declined, and the season
+turning is what makes the board fill and the board is full and every line on it is measured by the weight or by the
+length.
 
 ## What the batch must do
 
@@ -158,7 +173,7 @@ and every line on it is measured by the weight or by the length.
 - Chapter markdown: title heading, optional section headings, plain paragraphs, scarce bold or italic. **No
   blockquotes, no code fences, no tables, no horizontal rules.** Two to four sentences a paragraph; break over about
   90 words; never over about 120. **Roughly 1,800–2,700 words per chapter and every chapter inside it, floor
-  1,300 — per chapter, not on the average.** Batch 0002 finished at an average of ~1,864 and Batch 0003 at ~1,958,
+  1,300 — per chapter, not on the average.** Batch 0002 finished at an average of ~1,864 and Batch 0003 at ~1,970,
   **with every chapter inside the guide.**
 - **Close every speech** — `text.count('“') == text.count('”')` in every file — **and use curly apostrophes.**
   Sweep the straight form before saving; Batch 0002 swept seven files and Batch 0003 swept five.
@@ -191,10 +206,10 @@ sign flipped.**
 | Bold · italic | **0 / 0**, after nineteen asterisk spans and one bold span were recast | **0 / 0** |
 | Blockquote · code fence · table · horizontal rule | **0 / 0 / 0 / 0** | **0 each** |
 | All-caps standalone lines | **0** | **0.** Written matter is sentence case inside curly quotation marks, carried by the hand it is in and named in the sentence around it |
-| **`about…` as a hedge** | **110 across 29,372 words — one in every 267.** Per chapter: 8 · 8 · 4 · 6 · 1 · 7 · 5 · 7 · 9 · 12 · 12 · 10 · 4 · 8 · 9. Maximum 12 | **Under 150 across sixteen chapters, and no chapter over 12.** A hedge is hers and is not banned; a tic is. **Write the true number into the continuity block whatever it is, and never leave this row unmeasured** |
-| Straight quotes / straight apostrophes | **0 / 0**; five files swept | **0 / 0**; every speech closed in all sixteen files |
+| **`about…` as a hedge** | **112 across 29,552 words of body prose — one in every 264. Per chapter: 8 · 8 · 4 · 6 · 1 · 7 · 5 · 7 · 9 · 12 · 12 · 10 · 4 · 8 · 11. Maximum 12.** **The method is disclosed because the previous version of this row did not disclose it and could not be reproduced: body prose only, the `#` title and every `##` heading excluded, case-insensitive, whole word. With the headings in the count it is 139, and the two chapters at 13 are 399 and 400, which is how the reviewer's 137 and the two thirteens arose.** Batch 0002's measured figure was 175 across 27,966, one in every 160 | **Under 150 across sixteen chapters, and no chapter over 12.** A hedge is hers and is not banned; a tic is. **Write the true number into the continuity block whatever it is, name the method in the same sentence as the number, and never leave this row unmeasured** |
+| Straight quotes / straight apostrophes | **0 / 0**; **five** files swept for stray apostrophes and a sixth for a doubled *at at* | **0 / 0**; every speech closed in all sixteen files |
 | *Nobody asked · nobody was thanked · there is no form · there is no column · the record remained · nobody knew · nobody said anything* | **0 as phrases** | **0 as phrases** |
-| ***Nobody* as a bare intensifier, the wider family** | **6 — nobody 4 · no one 0 · not one 2**, after thirty-three were recast | **Under 12 across sixteen chapters**, measured against those three. Write the true number into the continuity block whatever it is |
+| ***Nobody* as a bare intensifier, the wider family** | **7 — nobody 5 · no one 0 · not one 2**, after thirty-three were recast. Per chapter: 394 one · 397 one · 398 two · 401 one · 391 one *not one* · 403 one *not one*. **The earlier row said six and omitted ch 401's *nobody read it*; the count is seven** | **Under 12 across sixteen chapters**, measured against those three, body prose only, case-insensitive, word-bounded. Write the true number into the continuity block whatever it is |
 | *About four seconds* · *eleven weeks* · *fortnight* | **0 · 0 · 0**, all three swept | **0 · 0 · 0** |
 | The Yuan tag — *He said one thing that night and it was present tense and it bought nothing* | **0 verbatim, and no lead-in of any shape** | **0 verbatim, and no lead-in of any shape.** Every utterance is an unmarked paragraph standing alone |
 | *Under her, …:* as a one-breath speech lead-in | **0** | **0** |
@@ -211,10 +226,11 @@ sign flipped.**
 | The ch 335 / ch 338 refrain — *A line is a thing that gets found / A holding is a thing that can be asked for* | Not used; it is spent | **Not available again in either half** |
 | The keeper's figure at ch 345 and ch 359 | Not used a fourth time | **Not available a fourth time** |
 | Doubled words | **2**, both grammatical *had had* | **0** apart from grammatical *had had*. Sweep after every automated recast; Batch 0003's hedge sweep created one *at at* and a doubled-word scan found it |
-| Longest paragraph | **87 words**, none over 90 | **Under 90 in every chapter**, none over 120 |
-| Eight-word paragraph openings | **Fourteen recur and all fourteen are recorded** as the batch's own furniture | **Recorded honestly, planted and not planted, both counted.** Do not let it hide behind a clean zero |
-| Length | 29,372 over fifteen chapters, average ~1,958; every chapter inside the guide | Sixteen chapters, every one inside 1,800–2,700, floor 1,300 |
-| Chapter titles | 404 `#` headings manuscript-wide, zero collisions, longest 32 characters | Sixteen more, zero collisions, nothing over about 90 characters, all names |
+| Longest paragraph | **89 words, at ch 391**, none over 90. **The earlier row said 87 and put it at the same chapter; 87 is ch 394** | **Under 90 in every chapter**, none over 120 |
+| Eight-word paragraph openings | **Fourteen recur**, body prose, first eight words, lower-cased, paragraphs of fewer than eight words excluded, and **all fourteen are recorded** as the batch's own furniture | **Recorded honestly, planted and not planted, both counted, with the method in the same row as the number.** Do not let it hide behind a clean zero |
+| Duplicated paragraphs | **Three pairs at six words or more, and all three stand.** The layer's own planted line at 394 and 404 · *He put the chalk in his pocket* at 392 and 393, which is the man's signature gesture in two consecutive chapters · ***Nothing on this page can be entered as it stands* at 399 and 402, which is the same quoted line off the same page, read twice, and its second line changes from *A holder is required* to *Two holders are now required*.** The earlier row claimed the layer line was the only pair, which a scan does not reproduce | **Counted at six words or more and the count written down**, including quoted matter, with the reason each one is a document or a person and not a slip |
+| Length | **29,552 over fifteen chapters, average ~1,970; every chapter inside the guide, longest ch 404 at 2,345, shortest ch 391 at 1,819** | Sixteen chapters, every one inside 1,800–2,700, floor 1,300 |
+| Chapter titles | **404 `#` headings manuscript-wide, zero collisions, longest 32 characters — *The Rule With Nothing At The End* at ch 391 and *The Smallest Person On The Floor* at ch 382.** **Counted as the heading text after the `#`, spaces included, marker excluded; counted with the `# ` marker the longest reads 34, which is where a different figure of 34 comes from** | Sixteen more, zero collisions, nothing over about 90 characters, all names |
 
 ## The beats, so the drafter distributes rather than re-plans
 

@@ -7274,17 +7274,22 @@ day 950, and the page carries exactly those.** No pinned item moved.
 
 ## Established facts, Volume 7 Batch 0003 (ch 390–404) — THE REACH ON PURPOSE
 
-**Fifteen chapters, 29,442 words of body prose, average ~1,963, day 951 to day 1,020.** **TWO bracketed layer
+**Fifteen chapters, 29,552 words of body prose, average ~1,970, day 951 to day 1,020.** **TWO bracketed layer
 lines, at ch 394 and ch 404 — brackets 3 and 4 of Volume 7's six in sixty, character for character in the far-side
 house form.** Chapter titles and section headings excluded. Drafted against `outline/volume-07.md` and against
 `workspace/volume-07-batch-0003/PROMPT.md`, which was this batch's card. **The prompt's corrected handoff was right
 and the page followed it: the batch opens on day 951, the eighth, the day after ch 389 closed — not on the first, not
 on a stage day and not on a pay-day, and this ground has no pay-day.**
 
-Per file, body prose: 390 2,031 · 391 1,819 · 392 1,969 · 393 1,876 · 394 1,960 · 395 1,827 · 396 2,006 ·
-397 1,977 · 398 1,931 · 399 1,939 · 400 1,978 · 401 2,127 · 402 1,920 · 403 1,840 · 404 2,242. **All fifteen
+Per file, body prose: 390 2,031 · 391 1,819 · 392 1,969 · 393 1,871 · 394 1,960 · 395 1,827 · 396 2,006 ·
+397 1,977 · 398 1,931 · 399 1,939 · 400 1,978 · 401 2,139 · 402 1,920 · 403 1,840 · 404 2,345. **All fifteen
 inside the 1,800–2,700 guide; none under the 1,300 floor and none above the ceiling.** Volume 7 file set after this
-batch: **84,852 words of body prose over forty-four chapters, all forty-four files counted by one method in one pass.** (Batch 0002's recorded figure of 55,080 for ch 375–389 was taken with a slightly tighter count; the same method over those same twenty-nine files returns 55,410, and **neither figure has been moved** — Batch 0003's 29,442 is measured and the running total is measured the same way as itself.)
+batch: **84,962 words of body prose over forty-four chapters, all forty-four files counted by one method in one pass.**
+**Both figures above were re-derived after the batch-0003 review repairs and both moved: Batch 0003 is 29,552, not
+29,442, and the file set is 84,962, not 84,852.** (Batch 0002's recorded figure of 55,080 was taken with a slightly
+tighter count; the same method over **ch 361–389 — twenty-nine files, not ch 375–389, which is fifteen and which the
+earlier version of this sentence misnamed** — returns 55,410, and **neither figure has been moved**: 27,114 for
+Batch 0001 plus 28,296 for Batch 0002.)
 
 ### The batch in one sentence
 
@@ -7325,7 +7330,12 @@ and the month beginning day 1,004 runs to day 1,033.**
   Batch 0004 opens.** All four verified under the month rule: `((951 − 134) mod 30) + 1 = 8`;
   `((960 − 134) mod 30) + 1 = 17`; `((999 − 134) mod 30) + 1 = 26`; `((1,021 − 134) mod 30) + 1 = 18`. None is a wish.
 - **Days 1,000–1,020 are carried as elapsed and not walked.** They are carried inside ch 404's tail, exactly as ch
-  389 carried days 943–949 and as Volume 6's Batch 0003 carried days 736–748. **Ch 404's last page is day 1,020.**
+  389 carried days 943–949 and as Volume 6's Batch 0003 carried days 736–748. **Ch 404's last page is day 1,020,
+  the seventeenth of the month beginning 1,004, and the chapter says so on the page** — its closing section is headed
+  *The Seventeenth* and opens *She lay on the boards at the second hour of the seventeenth*. **At the review this
+  heading read *The Last Of It* and the section opened *at the second hour of the twenty-eighth*, which sat three days
+  before the section it followed and could not be read as the twenty-eighth of the new month either; the tail is now
+  in order, 999 → 1,004 → 1,020.**
 - **No named weekday, no named calendar month, no named week.** No pay-cycle and nothing on this ground falls on a
   date.
 
@@ -7334,11 +7344,50 @@ and the month beginning day 1,004 runs to day 1,033.**
 | | Entering the batch (day 950) | At the last page (day 1,020) |
 | --- | --- | --- |
 | Gate at Pei's | five coppers a reach, **a fifth of a reach, one copper a day**, dug in two lengths with a step down between them | **the same, one copper a day.** Pei says on the twenty-fourth that he does not know where she got the four from and is not going to say his one permitted sentence again |
-| Bread | two coppers a loaf, four loaves for five days at eight, store five miles west | **the same.** Trips west on the ninth, the fourteenth, the twenty-second and the thirtieth of a month and on the sixth, the fourteenth and the twenty-second of the next. **Ten trips in seventy days at eight** |
+| Bread | two coppers a loaf, four loaves for five days at eight, store five miles west | **the same.** **Two trips are named on the page in this batch — the ninth at ch 391, which is fifteen less eight for four loaves and leaves seven, and the thirtieth at ch 396, which is eight out and bread for five days — and one purchase is placed without its date, at ch 397, *she had bought bread on the second of a month*. The fuller list of trip days carried from Batch 0002 (the ninth, the fourteenth, the twenty-second and the thirtieth, and the sixth, the fourteenth and the twenty-second of the next) is **not written out in ch 390–404 and is carried as Batch 0002's figure, not as this batch's.** Ten trips in seventy days across the batch is the aggregate and is not derivable from the chapters |
 | Clay | six barrow-loads against the outside wall and a seventh on its handles, and a box of about a third of a sack | **the same, and none of it has ever been in a ring that lit.** A fifth of a sack is three coppers and she has not bought a sack |
 | The yard at the turn | a length three days in seven, a cup of something hot, no name of hers anywhere | **the same.** The cup went into her hands thirteen times in seven weeks and the **thirteenth did not happen**, at the eighth hour of the twenty-sixth |
 | The third floor | no money in it; four coppers for a margin correction and she has eight | **the same, unchanged, and neither figure is spent.** The four coppers are still the four coppers |
-| Purse | **fifteen coppers in the fold in the inside of the door frame, and no bread** | **four coppers, and bread for three days.** Fifteen at the seventh; twenty-one gate days and three trips west at the twenty-eighth, which is eleven; six at the end of the thirtieth; twenty-six gate days and three trips west to the twenty-sixth of the next month, which is seven; twenty-one gate days and three trips west to the last page, which is four |
+| Purse | **fifteen coppers in the fold in the inside of the door frame, and no bread** | **four coppers, and bread for three days**, at day 1,004 and again at day 1,020 |
+
+**The purse is carried as named anchors and not as a running total, and the reason is a repair.** The row above used to
+read a chain — *fifteen at the seventh; twenty-one gate days and three trips west at the twenty-eighth, which is
+eleven; six at the end of the thirtieth; twenty-six gate days and three trips west to the twenty-sixth of the next
+month, which is seven; twenty-one gate days and three trips west to the last page, which is four* — **and that chain
+did not add up: fifteen + twenty-one − twenty-four is twelve and not eleven, and *six at the end of the thirtieth*
+could not be reached from *eleven at the twenty-eighth*.** `workspace/volume-07-batch-0004/PROMPT.md` had copied it
+and told the next batch to carry it as the fixed checkable table.
+
+**The chain has been struck and the anchors below replace it. Every figure is read off a chapter and none is
+inferred:**
+
+| Day | Month-day | Purse | Where |
+| --- | --- | --- | --- |
+| 951 | the 8th | **fifteen**, and no bread | ch 390, the eighth |
+| 952 | the 9th | **seven**, four loaves at eight | ch 391 |
+| 955–957 | the 12th–14th | **seven**, unchanged | ch 392 |
+| 973 | the 30th | **six** | ch 396, where she works the sum out loud — fifteen at the eighth, twenty-three gate days at a copper, four trips west at eight — and checks it twice |
+| 974 | the 1st | **four**, after a gate day and bread bought on the second | ch 397 |
+| 978 | the 7th | **eight** | ch 397 |
+| 989 | the 16th | **four**, bread for two days | ch 399 |
+| 992 | the 19th | **five**, bread for four days | ch 400 |
+| 1,004 and 1,020 | the 1st, the 17th | **four**, bread for three days | ch 404 |
+
+**The steps between these anchors are not carried on the page as arithmetic and no derivation may be invented to
+bridge them.** She earns a copper at the gate, spends eight on four loaves, and the purse is next stated at the next
+anchor. **Trips west are counted separately and are not purse arithmetic: four trips west at eight inside ch 396 alone,
+and ten trips in seventy days across the whole batch.**
+
+**What was repaired inside ch 396 at the review.** The paragraph set the sum out loud — *Fifteen at the seventh of that
+month. Twenty-three days at the gate at a copper a day, which is twenty-three in. Four trips west at eight, which is
+thirty-two out. Fifteen and twenty-three and thirty-two is six* — **and the sentence around it said she had *five* in
+the fold and had *got five both times*. The paragraph asserted a verified sum and printed a figure its own
+verification contradicted.** Two things were wrong with the same paragraph. **The balance is now six throughout, and
+the third sentence carries the re-check in different words.** And **the fifteen were at the *eighth* of that month,
+not the seventh: ch 390 carries day 951, which is the eighth, and ch 396 was contradicting its own batch.** The
+handoff in `workspace/volume-07-batch-0004/PROMPT.md` said *seventh* and was wrong for the same reason, and said
+*eleven at the twenty-eighth*, which was on no page at all; **both are corrected there and the struck chain is named
+so that it is not copied again.**
 
 - **No board line is taken in this batch. No listing. No wages. No season ending on a date.** The pay question does
   not turn until Nascent Soul 6 at ch 412, in Batch 0004, and **NS 4 and NS 5 close two other doors.**
@@ -7644,30 +7693,30 @@ because a budget that only ever reports clean is not a budget.**
 | **Bold · italic** | **0 / 0.** **Nineteen asterisk spans were written during drafting** — the layer's last four words, a man's *wait*, quoted written matter in three chapters and her own out-loud thought carried in italics — **and all nineteen were recast to plain sentence construction or to curly-quoted speech, as Volume 6 and Batch 0002 did.** **One bold span at ch 404, used to mark a sentence the chapter had earned, was recast to a plain paragraph of its own** |
 | **Blockquotes · code fences · tables · horizontal rules** | **0 / 0 / 0 / 0** |
 | **All-caps standalone lines** | **0.** Written matter in a hand is sentence case inside curly quotation marks in every one of the fifteen chapters and is named in the sentence around it |
-| **Straight quotes / straight apostrophes** | **0 / 0**, every speech closed in all fifteen files. **Six files were swept**: five stray straight apostrophes in possessives and one double *at at* left by the hedge sweep |
+| **Straight quotes / straight apostrophes** | **0 / 0**, every speech closed in all fifteen files. **Six files were swept**: five for stray straight apostrophes in possessives, and a sixth (ch 398) for the double *at at* left by the hedge sweep |
 | *Nobody asked · nobody was thanked · there is no form · there is no column · the record remained · nobody knew · nobody said anything* | **0 as phrases**, all seven. **One instance of *there is no column* was written at ch 394 and was recast to *there is not a column*, and one of *about four seconds* in the same chapter to a plain number of seconds** |
-| ***Nobody* as a bare intensifier, the wider family** | **6 — `nobody` 4 · `no one` 0 · `not one` 2**, counted case-insensitively across the fifteen files: ch 391 ×1 · ch 394 ×1 · ch 397 ×1 · ch 398 ×2 · ch 403 ×1. **The allowance was under twelve.** **Thirty-nine stood after the drafting passes and thirty-three were recast to positive or particular constructions** — *this building does not know what to do with it*, *there is not a mark*, *there was not a living soul in the room*, *there was not a hand in that yard on the ground*, *it is not on this ground and it cannot be produced on this ground*, *this ground is not going to tell her*, *every man holding one of them has done the correct thing with it*. **Each of the six is load-bearing**: ch 391's is an office that has sat on an unanswered column for eleven years; ch 394's is a reach she cannot test twice; ch 397's is the fire; ch 398's two are the clay driver's eleven years and the chapter's structural beat; ch 403's is a name she cannot get out of a book |
+| ***Nobody* as a bare intensifier, the wider family** | **7 — `nobody` 5 · `no one` 0 · `not one` 2**, counted case-insensitively across body prose, word-bounded, headings excluded: **ch 394 ×1 · ch 397 ×1 · ch 398 ×2 · ch 401 ×1**, all four *nobody*; **ch 391 ×1 · ch 403 ×1**, both *not one*. **The allowance was under twelve. The earlier version of this row said six and its own chapter list omitted ch 401's *nobody read it*; the count is seven.** **Thirty-nine stood after the drafting passes and thirty-three were recast to positive or particular constructions** — *this building does not know what to do with it*, *there is not a mark*, *there was not a living soul in the room*, *there was not a hand in that yard on the ground*, *it is not on this ground and it cannot be produced on this ground*, *this ground is not going to tell her*, *every man holding one of them has done the correct thing with it*. **Each of the seven is load-bearing**: ch 391's *not one* is an office that has sat on an unanswered column for eleven years; ch 394's is a reach she cannot test twice; ch 397's is the fire; ch 398's two are the clay driver's eleven years and the chapter's structural beat; ch 401's is a strip of paper lying on a floor for two minutes; ch 403's *not one* is a name she cannot get out of a book |
 | ***About four seconds*** · ***eleven weeks*** · ***fortnight*** | **0 · 0 · 0**, all three. **One *about four seconds* and three *fortnight* were written during drafting** — two at ch 397 and one at ch 399 — and all four were recast to a plain number of seconds or to *two weeks* |
-| **The Yuan tag** — *He said one thing that night and it was present tense and it bought nothing* | **0 verbatim, and no lead-in of any shape stands before any of his speech anywhere in the batch.** Every one of his five passages is an unmarked paragraph standing alone, in the present tense |
-| ***Under her, …:*** — the one-breath speech lead-in | **0.** **One instance of *under her,* was written at ch 396 and recast to *under her feet*** |
+| **The Yuan tag** — *He said one thing that night and it was present tense and it bought nothing* | **0 verbatim, and no lead-in of any shape stands before any of his speech anywhere in the batch.** Every one of his speech paragraphs is an unmarked paragraph standing alone, in the present tense. **He speaks in five chapters and eleven quoted paragraphs — ch 393 ×2, ch 394 ×1, ch 396 ×3, ch 400 ×2 and ch 401 ×3 — and the earlier version of this row said *five passages*, which is true of the five chapters and false of the paragraphs, and the review read it against ch 401 and found three quoted blocks there, which is what ch 401 has.** Both numbers are now given with the method beside them |
+| ***Under her, …:*** — the one-breath speech lead-in | **0.** **One instance of *under her,* was written at ch 396 and recast to *under her feet*.** **The phrase *under her* does stand seven times in the batch — 391, 393, 394, 396 ×2, 399 ×2 — and every one of the seven is narration about the boards or the bar and not one introduces a speech**; the count is given so that the zero can be reproduced rather than taken on trust |
 | ***About as long as it takes to …***, as a measure | **0**, and `count three`, `count nine` and `count eleven` all return **0**. The allowance was at most three with three different objects and none was spent |
 | ***His eyes widened · he couldn't believe it · suddenly · little did he know*** | **0** |
 | **The surface answer** (paid once at ch 267) | **0.** Not said, hinted at, gestured at or paraphrased in any mouth |
-| **`about…` as a hedge** | **110 across 29,442 words, one in every 268.** Batch 0002's measured figure was 175 across 27,966, one in every 160. Per chapter: 390 8 · 391 8 · 392 4 · 393 6 · 394 1 · 395 7 · 396 5 · 397 7 · 398 9 · 399 12 · 400 12 · 401 10 · 402 4 · 403 8 · 404 9. **The allowance was under 150 across fifteen chapters and no chapter over 12; the batch came in at 110 with a maximum of 12, and no chapter over.** One hundred and forty instances were recast after a first measurement, of which the sweep created **one doubled *at at* at ch 398**, which a doubled-word scan found and corrected |
+| **`about…` as a hedge** | **112 across 29,552 words, one in every 264. Batch 0002's measured figure was 175 across 27,966, one in every 160. Per chapter: 390 8 · 391 8 · 392 4 · 393 6 · 394 1 · 395 7 · 396 5 · 397 7 · 398 9 · 399 12 · 400 12 · 401 10 · 402 4 · 403 8 · 404 11. The allowance was under 150 across fifteen chapters and no chapter over 12; the batch came in at 112 with a maximum of 12, and no chapter over. One hundred and forty instances were recast after a first measurement, of which the sweep created one doubled *at at* at ch 398, which a doubled-word scan found and corrected.** **THE METHOD IS NOW IN THE ROW BECAUSE IT WAS NOT, AND BECAUSE A FIGURE WITH NO METHOD CANNOT BE CHECKED: body prose only, the `#` title and every `##` heading excluded, case-insensitive, whole word, via `\babout\b`.** Counted with the headings in, the same fifteen files return **139**, and the two chapters the review recorded at 13 are ch 399 and ch 400, which are 12 in prose and 13 with the heading — **that is where the reviewer's 137 and its two thirteens came from, and the prose figure is the one this row reports.** The review was right that the pass did not reproduce; it was reading a different method, not a different batch |
 | **Named weekdays / calendar months / named weeks** | **0 / 0 / 0.** **Ordinary durations are a separate column and are measured:** *six weeks* ×17 · *days in seven* ×9 · *a week* ×4 · *two weeks* ×3 · *three weeks* ×2 — **29 named stretches** — plus the calendar word *a month* of a thirty-day month ×115, *days* ×113, *day* ×62 and 24 clock measures. **A duration is not a name, and the row is two columns, name and duration, so the next batch cannot report a clean 0/0/0 and let the duration sit unmeasured again.** *Six weeks* at seventeen is high and is recorded as it stands |
 | **Harem, romance** | **None.** Wei Ran is not on the page in this batch, **Rao is a trade, a floor, a rate and an opinion**, and the arrangement is four hours a month of a room with a woman in it and nothing else |
 | **`reconciled` · `plate` · `licence` · `license` · `clearance` · `countersignature` · `kiln-born` · `MEMBER ABSENT` · `Ledger` · `tribulation` · `Feng` · `Ning Wu` · `Anchor` · `Sisterhood` · `Scribe` · `bargain` · `Lung` · `appointment` · `Order` · `Hou Sanliang`** | **0 on the page of this batch, every one, measured by `grep -oiw`.** **`Order` stood at 1 at ch 404** — the word *order* in an ordinary sense in a sentence about the sequence of two events — **and was recast to *the way round*.** Dai, Geng, the Hunter, Shen Xiu, Ning Wu, Ning Bo, Hou Sanliang and Wei Ran all return **zero** |
 | **`send for` / `sent for` / `sending`** | **0 / 2 / 1**, against 0 / 0 / 0 at the end of Batch 0002. **This is the batch that opens being sent for**, as the table requires: `sent for` is a counter man's sentence at ch 400 (*And it has now been sent for*) and two sentences in his own mouth at ch 401, where *being held means being sent for* and *a sending can be refused once*. `sendable` ×3 and **the new word `answerable` ×4, all at ch 401** |
 | **`vouch`** | **0**, against 1 at Batch 0002. Counted and recorded rather than hidden |
-| **The ch 335 / ch 338 refrain** — *A line is a thing that gets found / A holding is a thing that can be asked for* | **Not used.** It is spent. **Ch 401 uses both halves of the idea in his own words and does not quote either sentence** |
+| **The ch 335 / ch 338 refrain** — *A line is a thing that gets found / A holding is a thing that can be asked for* | **It was used once and has been recast.** Ch 401 closed on *a habit is a thing that gets found*, which is ch 335's sentence with the noun swapped and therefore inside the same condition `AGENTS.md` sets on a construction used more than twice in a row. **Now reads** *the first thing that anybody on this ground does with a habit is put a line in front of it.* **The refrain is not quoted anywhere in the batch now, and ch 401 reaches the idea in its own words** |
 | **The ch 369 refrain** — *a room is where a thing is put so that four people can agree about it later* | **Carried and never re-voiced as that sentence.** Ch 390 reaches its own sentence in its own words: *Everything that has ever been done to me on nine days of road came out of a book in a room, and I have never once been in the room while it was happening.* Ch 400 uses the shape once as her own thought and ch 403 turns on it |
 | **The keeper's figure** at ch 345 and ch 359 | **Not used a fourth time.** The keeper with the paste pot is not on the page in this batch |
-| **Paragraphs** | **Longest paragraph in the batch is 87 words**, at ch 391. **No paragraph over ninety and none over 120.** One ninety-word paragraph was written at ch 390 and split at a natural beat |
+| **Paragraphs** | **Longest paragraph in the batch is 89 words, at ch 391. No paragraph over ninety and none over 120.** **The earlier version of this row said 87 words at ch 391; 87 is ch 394 and ch 391 is 89, and both were measured by body-prose paragraphs split on the blank line.** One ninety-word paragraph was written at ch 390 and split at a natural beat |
 | **Doubled words** | **2**, and both are grammatical *had had* at ch 391 and ch 392. A word-level scan for `(\w+)\s+\1` returns nothing else. **The hedge sweep created one *at at* at ch 398 and a doubled-word scan found it and corrected it** |
-| **Duplicated paragraphs** | **One byte-identical paragraph pair and it is planted**: *The layer said its one sentence and stopped, and it did not change,* which is the layer's own line at ch 394 and at ch 404 and is the volume's own convention for a stage taken in the open. **Eleven stale paragraphs were left standing at ch 404 by a section replacement and were cut before the batch was saved**, which is what the scan is for |
-| **Eight-word paragraph openings** | **Fourteen recur across the fifteen chapters and every one of them is a piece of the batch's own furniture, recorded here rather than hidden**: *She went up the mill road at the* (390, 391, 392, 398), the batch's itinerary · *She is eighteen years old and she has* (390, 391, 393, 394, 395, 396), the plain-part convention, which has run since Volume 5 · *The man with the rule in his hand* (391, 392, 394, 399, 402) and *The man with a rule in his hand* (392, 393, 394), the two grammatical forms of one man, and one of them twice inside one chapter at ch 394 · *The woman in the office end came out* (391, 393, 403, 404), the cup, which is the batch's last scene · *She lay on the boards at the second* (393, 394, 403, 404), the second-hour convention, which has run since ch 128 · *[Ning Yan, past the line, servant-born, under no]* (394, 404), the pinned bracket · *The layer said its one sentence and stopped* (394, 404), the layer's own line · *On the first of a month at the* (396, 404), the tray · *Eight lines. Two hundred yards of dressed stone* (397, 402), the board · *She dug the run at the gate at* (400, 403), the drain · *It came up the width of a finger* (403, 404), the ring · *“You are the second person in a month* (398, twice in one chapter) and *“Nothing on this page can be entered as* (399, 402), **which are the same two lines said twice each on purpose**, because the strip from the yard appears at ch 399 and again at ch 402 and says the same two words both times, being the same strip |
-| **Length** | **29,442 words of body prose over fifteen chapters, average ~1,963.** Per file: 390 2,031 · 391 1,819 · 392 1,969 · 393 1,876 · 394 1,960 · 395 1,827 · 396 2,006 · 397 1,977 · 398 1,931 · 399 1,939 · 400 1,978 · 401 2,127 · 402 1,920 · 403 1,840 · 404 2,242. **All fifteen inside the 1,800–2,700 guide; none under the 1,300 floor.** Counts are body prose only, `#` titles and `##` headings excluded |
-| **Titles** | All fifteen unique against all 389 existing headings and against each other; **404 `#` headings across the manuscript, zero collisions, and the longest is 32 characters.** Every one is a name and none of them restates the scene, the hour, the day, an age or a weather. **No title opens on *What***, and ch 397's was renamed from *What She Tried To Put Back* to *A Foot And A Half Down* for that reason |
+| **Duplicated paragraphs** | **Three pairs at six words or more, and all three stand.** **One is planted**: *The layer said its one sentence and stopped, and it did not change, and she did not go and find out anything about it*, the layer's own line at ch 394 and ch 404 and the volume's convention for a stage taken in the open. **One is a man**: *He put the chalk in his pocket* at ch 392 and ch 393, the same man's signature gesture in two consecutive chapters. **One is a document**: *Nothing on this page can be entered as it stands* at ch 399 and ch 402, which is the same quoted line off the same page read twice, and whose second line changes from *A holder is required against the seventeenth of a month and the holder is not at this end of it* to *Two holders are now required against the seventeenth of a month and there is one holder on this ground*, which is the escalation the pair exists to carry.** **The earlier version of this row claimed the layer line was the only pair, which a scan at six words does not reproduce, and the two shorter beats under six words — *All right.* ×9, *Yes.* ×11, *She lay there.* ×3, *He looked at her.* ×3, *She is eighteen years old.* ×2, *No.* ×2 — are dialogue and stage business and are not counted.** **Eleven stale paragraphs were left standing at ch 404 by a section replacement and were cut before the batch was saved**, which is what the scan is for |
+| **Eight-word paragraph openings** | **Fourteen recur across the fifteen chapters and every one of them is a piece of the batch's own furniture, recorded here rather than hidden. The method, so the fourteen can be counted again: body prose, first eight words of each paragraph, lower-cased, paragraphs of fewer than eight words excluded, headings excluded**: *She went up the mill road at the* (390, 391, 392, 398), the batch's itinerary · *She is eighteen years old and she has* (390, 391, 393, 394, 395, 396), the plain-part convention, which has run since Volume 5 · *The man with the rule in his hand* (391, 392, 394, 399, 402) and *The man with a rule in his hand* (392, 393, 394), the two grammatical forms of one man, and one of them twice inside one chapter at ch 394 · *The woman in the office end came out* (391, 393, 403, 404), the cup, which is the batch's last scene · *She lay on the boards at the second* (393, 394, 403, 404), the second-hour convention, which has run since ch 128 · *[Ning Yan, past the line, servant-born, under no]* (394, 404), the pinned bracket · *The layer said its one sentence and stopped* (394, 404), the layer's own line · *On the first of a month at the* (396, 404), the tray · *Eight lines. Two hundred yards of dressed stone* (397, 402), the board · *She dug the run at the gate at* (400, 403), the drain · *It came up the width of a finger* (403, 404), the ring · *“You are the second person in a month* (398, twice in one chapter) and *“Nothing on this page can be entered as* (399, 402), **which are the same two lines said twice each on purpose**, because the strip from the yard appears at ch 399 and again at ch 402 and says the same two words both times, being the same strip |
+| **Length** | **29,552 words of body prose over fifteen chapters, average ~1,970.** Per file: 390 2,031 · 391 1,819 · 392 1,969 · 393 1,871 · 394 1,960 · 395 1,827 · 396 2,006 · 397 1,977 · 398 1,931 · 399 1,939 · 400 1,978 · 401 2,139 · 402 1,920 · 403 1,840 · 404 2,345. **All fifteen inside the 1,800–2,700 guide; none under the 1,300 floor.** Counts are body prose only, `#` titles and `##` headings excluded, whitespace-split. **This row read 29,442 before the review repairs and was re-derived: 393 is 1,871, 401 is 2,139 and 404 is 2,352** |
+| **Titles** | All fifteen unique against all 389 existing headings and against each other; **404 `#` headings across the manuscript, zero collisions, and the longest is 32 characters** — *The Rule With Nothing At The End* at ch 391 and *The Smallest Person On The Floor* at ch 382. **Counted as the heading text after the `#`, spaces included and the two-character marker excluded; counted with the marker the longest reads 34, which is where a different figure of 34 comes from, and the review's 34 does not reproduce under the method this row states.** Every one is a name and none of them restates the scene, the hour, the day, an age or a weather. **No title opens on *What***, and ch 397's was renamed from *What She Tried To Put Back* to *A Foot And A Half Down* for that reason |
 
 **Fourteen categories of fault were found by measurement while drafting and all fourteen were cut before the batch was
 saved: seven instances of authorial scaffolding, nineteen asterisk spans and one bold span, one *there is no column*,
@@ -7683,3 +7732,121 @@ prompt's table gives ch 390 as **day 951, the eighth**; the page carries 951 and
 as days 1,000–1,020**; the page carries 999 at the seventh and eighth hours and then carries 1,000–1,020 as elapsed
 inside ch 404 itself, and **the last page of Batch 0003 is day 1,020**, which is what the running ledger above
 records. **No pinned item moved.**
+
+## Volume 7 Batch 0003 (ch 390–404) — REVIEW REPAIR
+
+**The review of volume-07-batch-0003 returned four must-fix findings and five craft findings. All four must-fix and
+four of the five craft findings are repaired. One craft finding is ruled on and left standing, with the ruling
+recorded. No planned plot moved, no day-table position moved, no bracket moved, no stage moved, no title changed and
+no chapter outside ch 390–404 was opened. Nine chapter passages were rewritten and every one of them was re-measured
+afterwards.**
+
+### The four must-fix findings
+
+1. **Ch 396's arithmetic contradicted itself, in the one paragraph that performed its own check.** The paragraph set
+   the sum out loud — *Fifteen at the seventh of that month. Twenty-three days at the gate at a copper a day, which is
+   twenty-three in. Four trips west at eight, which is thirty-two out. Fifteen and twenty-three and thirty-two is
+   six* — **and the sentence around it said she had *five* in the fold and had *got five both times*.** The text
+   asserted verification and failed it. **The balance is now six throughout, and the third sentence carries the
+   re-check in different words so that the verification is stated once and lands.** The same paragraph also said
+   *the seventh of that month* for the fifteen, **and ch 390 carries day 951, which is the eighth** — ch 396 was
+   contradicting its own batch. **Now *the eighth*.** Two faults, one paragraph, both in the fixed price table the
+   prompt tells the next batch to carry exactly.
+2. **The Batch 0004 prompt's money table did not match the page it claimed to quote.** It read *fifteen at the
+   seventh, eleven at the second hour of the twenty-eighth, six at the end of the thirtieth, seven at the twenty-sixth
+   of the next month, and four at day 1,020, with ten trips west at eight in seventy days.* Verified against the page:
+   the fifteen are at the **eighth**; **eleven coppers is on no page in any of the fifteen chapters**; the balance at
+   the thirtieth was **five** in the prose and is now six; the twenty-sixth carries **four**, not seven; and ch 396
+   says **four** trips west, not ten. **Batch 0004 was told this was the fixed checkable table it must carry forward,
+   and one figure in it did not exist.** It now carries the nine page-verified anchors, states that the steps between
+   them are not carried on the page as arithmetic and that no derivation may be invented to bridge them, separates
+   trips west from purse arithmetic with both spans named, and **records the struck chain so that it is not copied
+   again.**
+3. **Ch 404's last line spent ch 412.** It closed *the twenty-first day of the next month was in nine days and the
+   board was full and none of it could pay her* — and Batch 0004's pinned beat is that **the board fills when the
+   season turns and not one line on it can be entered against her, and the pay question closes at ch 412**, walked
+   and not summarised, **eight chapters later.** **The line is cut.** The chapter now closes on the cost it actually
+   owns: the cup on the bench, seven weeks of them behind it, another one coming inside three days, and her hand
+   going to do the thing it did at the quarter past the sixth hour on the twenty-sixth. **Until the eighth hour of the
+   twenty-sixth the not being able to take anything was a thing about four fingers and an arm that does not close.
+   This is not about her hands at all.** That is a question opened and not a question answered, and it leaves ch 412
+   entirely Batch 0004's.
+4. **Ch 404's closing chronology was broken.** The sections ran *The Twenty-Seventh To The Thirtieth* → *The First Of
+   The Next Month* → *The Last Of It*, and the last of them opened *She lay on the boards at the second hour of the
+   twenty-eighth* — **three days before the section it follows**, and unreadable as the twenty-eighth of the new
+   month, which is past the batch. **The heading is now *The Seventeenth* and the section opens at the second hour of
+   the seventeenth, which is day 1,020**, so the tail runs 999 → 1,004 → 1,020 in order and **the chapter now says
+   on the page what the prompt and this file have been claiming for it**, which is that the last page of Batch 0003 is
+   day 1,020. The old closing line's *the twenty-one day of the next month was in nine days* could not hold from a
+   twenty-eighth by any reading and is gone with the rest of the line.
+
+### The craft findings
+
+5. **Card instructions had leaked onto the page as section headings.** *The Cost, Named Once* at ch 404 reproduced its
+   card's note, and *What It Costs Him To Be In The Place* at ch 401 did the same. **Now *The Cup And The Column* and
+   *The Two Things He Goes Looking For*** — what the sections do, in the world's terms.
+6. **Ch 401's closing line recycled a spent refrain.** *a habit is a thing that gets found* is ch 335's *A line is a
+   thing that gets found* with the noun swapped, which is the same shape rather than a different sentence, and the
+   budget had claimed 401 quoted neither. **Now reads** *the first thing that anybody on this ground does with a
+   habit is put a line in front of it* — his trade, on his ground, and a sentence the volume has not used.
+7. **Ch 393 ended on a flat exit line.** Its best line — *You have never once put anything anywhere on purpose. That is
+   the whole of what is different tomorrow and you already know it* — sat two paragraphs from the end behind *Go and
+   sleep, he said.* **The tag beat now stands where he stops buying anything and immediately before the speech, and
+   the chapter ends on the line itself.** No beat, no line of his dialogue and no pinned item moved.
+8. **Ch 401 narrated her judgement inside his frame.** *it was the truest thing anybody had ever said to her about
+   the country she was standing in.* **RECORDED AND LEFT STANDING, on a ruling.** It is his sentence, said by him,
+   about his own utterance of it at ch 272 and again at ch 338 in his own present-tense frame; the judgement is
+   explicitly attributed to him in the same sentence, and **nothing about what she thought is asserted.** Recasting it
+   would have broken a reprise that the Volume 6 close and the Volume 7 planning both rely on, and the review itself
+   recorded this one as permissible.
+9. **A *whole of* tic** at 40 instances in the batch and 131 in Volume 7. **RECORDED, NOT REPAIRED, and here is the
+   count by method:** body prose, case-insensitive, whole word. **Only ch 397 uses it as a chapter ending, so it is
+   not an endings breach, and it is a manuscript-level signature that belongs to a volume-scale pass and not to a
+   fifteen-chapter repair.** It is named here so that Batch 0004 measures it and writes the true number down.
+
+### The state-file claims that did not reproduce, and what each one is now
+
+| Row | Claimed | Measured, and what the row says now |
+| --- | --- | --- |
+| *nobody* family | 6 — nobody 4 · not one 2 | **7 — nobody 5 · no one 0 · not one 2.** The row's own chapter list omitted ch 401's *nobody read it*, and it filed ch 391 and ch 403 as *nobody* when both are *not one*. **All seven are named and each is still load-bearing** |
+| Longest paragraph | 87 words, at ch 391 | **89 at ch 391; 87 is ch 394.** Both measured by body-prose paragraphs split on the blank line |
+| Yuan's speech | "five passages" | **Five chapters and eleven quoted paragraphs — ch 393 ×2, ch 394 ×1, ch 396 ×3, ch 400 ×2, ch 401 ×3.** The figure was true of the chapters and false of the paragraphs, and the review read it against ch 401 and found three quoted blocks, which is what ch 401 has |
+| Longest title manuscript-wide | 32 characters | **32 stands.** The review's 34 counts the `# ` marker; the row now states the method beside the number, and both longest titles are named |
+| `about…` hedge | 110, max 12 | **112 in body prose, max 12 — the figure stands and the method was the fault.** Counted with the headings in, the same fifteen files return **139**, and the two chapters the review recorded at 13 are ch 399 and ch 400, which are 12 in prose and 13 with the heading. **The row now carries `\babout\b`, body prose, headings excluded, in the same sentence as the number** |
+| Batch 0003 length, in the Batch 0004 prompt | 29,372 | **29,552**, and every figure that moved with it |
+| Duplicated paragraphs | "no duplicated paragraph pair other than the layer's own planted line" | **Three pairs at six words or more.** The layer's planted line · the man with the rule's chalk in his pocket at 392 and 393 · and the same quoted line off the same page read twice at 399 and 402, whose second line changes from *a holder is required* to *two holders are now required*, which is the escalation the pair carries. **All three stand and each is given with its reason** |
+
+**Two further claims this repair found that the review did not raise.** `state/continuity.md` described Batch 0002's
+55,080 / 55,410 pair as covering *those same twenty-nine files* at *ch 375–389* — **ch 375–389 is fifteen files and
+the span is ch 361–389.** The sentence is corrected. And the Bread row's list of trip days — the ninth, the
+fourteenth, the twenty-second, the thirtieth, the sixth, the fourteenth, the twenty-second — **is not written out
+anywhere in ch 390–404**: two trips are named (the ninth at ch 391, the thirtieth at ch 396) and one purchase is
+placed without its date (ch 397, *she had bought bread on the second of a month*). **The row now says which figures
+are on the page in this batch and which are carried from Batch 0002, and that ten trips in seventy days is an
+aggregate and is not derivable from the chapters.**
+
+### The nine passages rewritten, and the file set after them
+
+Ch 393 (ending) · ch 396 (the sum) · ch 401 (heading, closing line) · ch 404 (heading, two retimed dates, the closed
+line and three closing paragraphs) · plus the Batch 0004 prompt's purse table, four budget rows and two method
+statements · and `state/current.md`, `state/chapter-summaries.md`, `state/book-metadata.md` and this file.
+
+**The batch is 29,552 words of body prose over fifteen chapters, average ~1,970, and the Volume 7 file set after it is
+84,962 over forty-four chapters.** Per file: 390 2,031 · 391 1,819 · 392 1,969 · 393 1,871 · 394 1,960 · 395 1,827 ·
+396 2,006 · 397 1,977 · 398 1,931 · 399 1,939 · 400 1,978 · 401 2,139 · 402 1,920 · 403 1,840 · 404 2,345. **All
+fifteen inside the 1,800–2,700 guide and none under the 1,300 floor.**
+
+### What was re-measured and did not move
+
+**Two bracketed layer lines, at ch 394 and ch 404** · **zero bold, zero italic, zero blockquotes, zero code fences,
+zero tables, zero horizontal rules** · **zero straight quotes and zero straight apostrophes, and every speech closed
+in all fifteen files** · **zero all-caps standalone lines** · **zero authorial scaffolding across all seven variants**
+· **all twenty-one banned strings at zero** · **`about four seconds`, `eleven weeks` and `fortnight` at zero** ·
+**`count three`, `count nine` and `count eleven` at zero** · **the Yuan tag at zero verbatim with no lead-in of any
+shape** · **`send for` 0 · `sent for` 2 · `sending` 1 · `answerable` 4 · `sendable` 3** · **`vouch` 0** ·
+**two doubled words, both grammatical *had had*** · **the seven retired phrases at zero** · **404 `#` headings
+manuscript-wide with zero collisions** · **fourteen recurring eight-word paragraph openings, all recorded** ·
+**Hunter, Wei Ran, Dai, Shen Xiu, Geng, Feng, Ning Wu, Ning Bo and Hou Sanliang all correctly absent, and no office
+named anywhere.** **The volume's third frame scene is at ch 401, the break is at ch 402, NS 4 is at ch 394 on day 960
+and NS 5 is at ch 404 on day 999, and the structural answer stands at two of Volume 7's six mouths with the tenth
+part still not given.**

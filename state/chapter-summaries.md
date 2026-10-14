@@ -972,7 +972,7 @@ categories found by measurement and cut before saving, under ***Construction bud
 
 ## Volume 7 Batch 0003 — *Stronger Things*, ch 390–404, day 951–1,020 — WRITTEN
 
-**The reach on purpose.** 29,442 words of body prose over fifteen chapters, average ~1,963, all fifteen inside the 1,800–2,700 guide. Two bracketed layer lines, at ch 394 and ch 404, which are brackets 3 and 4 of Volume 7's six in sixty. Full record in `state/continuity.md` under ***Established facts, Volume 7 Batch 0003 (ch 390–404) — THE REACH ON PURPOSE*** and, for the fourteen fault categories found by measurement and cut before saving, under ***Construction budget — Volume 7 Batch 0003 (ch 390–404), measured by grep, not promised***.
+**The reach on purpose.** 29,552 words of body prose over fifteen chapters, average ~1,970, all fifteen inside the 1,800–2,700 guide. Two bracketed layer lines, at ch 394 and ch 404, which are brackets 3 and 4 of Volume 7's six in sixty. Full record in `state/continuity.md` under ***Established facts, Volume 7 Batch 0003 (ch 390–404) — THE REACH ON PURPOSE*** and, for the fourteen fault categories found by measurement and cut before saving, under ***Construction budget — Volume 7 Batch 0003 (ch 390–404), measured by grep, not promised***.
 
 | Ch | Day | Month-day | Title | Summary |
 | --- | --- | --- | --- | --- |

@@ -126,8 +126,6 @@ That was the whole of it. She went to sleep with the bar under her hand and the 
 
 She had been on the boards about a minute with her eyes shut.
 
-“Nine men, a date, and a stone that is off the line, and a man with a rule in his hand who will have to put all of it somewhere. You have never once put anything anywhere on purpose. That is the whole of what is different tomorrow and you already know it.”
-
 She did not answer, because there was nothing to answer and because he had not asked her anything, and because he had bought nothing.
 
-“Go and sleep,” he said.
+“Nine men, a date, and a stone that is off the line, and a man with a rule in his hand who will have to put all of it somewhere. You have never once put anything anywhere on purpose. That is the whole of what is different tomorrow and you already know it.”

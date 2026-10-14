@@ -1,6 +1,6 @@
 # Current State
 
-**As of:** **VOLUME 7 BATCH 0003 IS ON THE PAGE — ch 390–404, fifteen chapters, 29,442 words of body prose, day 951 to day 1,020, with Nascent Soul 4 taken at ch 394 on day 960 and Nascent Soul 5 at ch 404 on day 999 carrying brackets 3 and 4 of Volume 7's six in sixty, the volume's midpoint at ch 390, and the third frame scene and the break at ch 401–402. VOLUME 7 BATCH 0002 IS ON THE PAGE. VOLUME 7 BATCH 0001 IS ON THE PAGE AND REPAIRED — ch 361–374, fourteen chapters, 27,114 words of body prose, day 849 to day 899, with Nascent Soul 2 taken at ch 371 on day 886 carrying bracket 1 of Volume 7's six in sixty. VOLUME 6 IS CLOSED AND AUDITED — CH 299–360 ON THE PAGE.** VOLUME 1 CLOSED. VOLUME 2 CLOSED AND AUDITED. VOLUME 3 CLOSED AND AUDITED — CH 1–178 ON THE PAGE. VOLUME 4 CLOSED AND AUDITED — CH 179–238 ON THE PAGE. VOLUME 5 CLOSED AND AUDITED — CH 239–298 ON THE PAGE. ALL FOUR VOLUME 6 BATCHES WERE WRITTEN AND REPAIRED, AND THE CLOSE WAS RUN LINE BY LINE AGAINST `outline/volume-06.md` AND THEN REVIEWED AND REPAIRED AGAIN. `outline/volume-07.md` — *Stronger Things*, ch 361–420 — exists and is the authority. **THE NEXT PHASE IS THE VOLUME 7 BATCH 0004 DRAFTING PHASE, against `workspace/volume-07-batch-0004/PROMPT.md`. It writes ch 405–420.**
+**As of:** **VOLUME 7 BATCH 0003 IS ON THE PAGE AND REPAIRED AT ITS REVIEW — ch 390–404, fifteen chapters, 29,552 words of body prose, day 951 to day 1,020, with Nascent Soul 4 taken at ch 394 on day 960 and Nascent Soul 5 at ch 404 on day 999 carrying brackets 3 and 4 of Volume 7's six in sixty, the volume's midpoint at ch 390, and the third frame scene and the break at ch 401–402. VOLUME 7 BATCH 0002 IS ON THE PAGE. VOLUME 7 BATCH 0001 IS ON THE PAGE AND REPAIRED — ch 361–374, fourteen chapters, 27,114 words of body prose, day 849 to day 899, with Nascent Soul 2 taken at ch 371 on day 886 carrying bracket 1 of Volume 7's six in sixty. VOLUME 6 IS CLOSED AND AUDITED — CH 299–360 ON THE PAGE.** VOLUME 1 CLOSED. VOLUME 2 CLOSED AND AUDITED. VOLUME 3 CLOSED AND AUDITED — CH 1–178 ON THE PAGE. VOLUME 4 CLOSED AND AUDITED — CH 179–238 ON THE PAGE. VOLUME 5 CLOSED AND AUDITED — CH 239–298 ON THE PAGE. ALL FOUR VOLUME 6 BATCHES WERE WRITTEN AND REPAIRED, AND THE CLOSE WAS RUN LINE BY LINE AGAINST `outline/volume-06.md` AND THEN REVIEWED AND REPAIRED AGAIN. `outline/volume-07.md` — *Stronger Things*, ch 361–420 — exists and is the authority. **THE NEXT PHASE IS THE VOLUME 7 BATCH 0004 DRAFTING PHASE, against `workspace/volume-07-batch-0004/PROMPT.md`. It writes ch 405–420.**
 
 ## How to read this file
 
@@ -379,7 +379,7 @@ standing.** Full record in `state/continuity.md` under
 ***Volume 7 running ledger — at the last page of Volume 7 Batch 0003, day 1,020*** and ***Construction budget —
 Volume 7 Batch 0003 (ch 390–404), measured by grep, not promised***.
 
-**VOLUME 7 BATCH 0003 IS ON THE PAGE — ch 390–404, fifteen chapters, 29,442 words of body prose, average ~1,963, day
+**VOLUME 7 BATCH 0003 IS ON THE PAGE AND REPAIRED AT ITS REVIEW — ch 390–404, fifteen chapters, 29,552 words of body prose, average ~1,970, day
 951 to day 1,020.** Drafted against `outline/volume-07.md` and against `workspace/volume-07-batch-0003/PROMPT.md`,
 which was that batch's card. **The prompt's corrected handoff was right and the page followed it: the batch opens on
 day 951, the eighth, the day after ch 389 closed — not on the first of a month, not on a stage day and not on a
@@ -434,10 +434,13 @@ bracket or stage moved.** Next: **Volume 7 Batch 0004**, ch 405–420, against
   can be quoted** — a finding can be denied, a sending can be refused once, and an answer cannot be refused at all.
   **It goes out of the ground under her feet, not out of her hands. His unentered state, his unnamed state and the
   date of the morning he died all stay gone and none of them is given back. He does not do it twice.**
-- **Yuan, across the batch:** five passages in fifteen chapters — ch 393, 396, 397 and the frame scene at 401 —
-  **every sentence present tense, buying nothing, advising nothing and advancing nothing.** He appears in his own frame
-  nowhere else in ch 390–404. **No figure of what is left of him is on any page.** `Ledger` returns **zero** across
-  all fifteen files. **Being answerable as of ch 401 and it is a third thing.**
+- **Yuan, across the batch:** he speaks in five chapters and eleven quoted paragraphs — ch 393 ×2, ch 394 ×1, ch 396
+  ×3, ch 400 ×2, ch 401 ×3 — **every sentence present tense, buying nothing, advising nothing and advancing nothing.**
+  He appears in his own frame nowhere else in ch 390–404. **No figure of what is left of him is on any page.** `Ledger`
+  returns **zero** across all fifteen files. **Being answerable as of ch 401 and it is a third thing.** *(The earlier
+  version of this line said *five passages*, which is true of the five chapters and false of the paragraphs, and the
+  review read it against ch 401 and counted three quoted blocks there, which is what ch 401 has. Both numbers now stand
+  with the chapters named.)*
 - **Untouched and unraised:** the register still reads *reconciled* and **nothing in this batch reads it** · the Clay
   Plate worn and **not described** · the relicensed licence **never opened** and never referred to · MEMBER ABSENT
   carried and never raised · **the year of non-forgiveness carrying and not mentioned once in these fifteen chapters** ·
@@ -4816,3 +4819,43 @@ contradict the sentence beneath it · Feng receiving the county copies in two ch
 non-possession of the plate attributed to the sponsors instead of to **her**.
 
 **All avoided, and three of them answered on the page in batch 0009.** The Bureau's ears were not re-revealed: the slip at ch 110 came from outside the bound with an office Yuan cannot read, and it struck a term rather than answering anything. Ch 104's suppression is **not** justified by a licence that does not exist yet — she loses the paper for that stage on purpose and finds out at ch 115 that a hole is an absence and not a breach. The Settlement table reconciles: **~11 weeks at ch 101 → ~6 weeks at ch 118**, seventeen chapters of ordinary use. **Volume 2 is closed.**
+
+## Volume 7 Batch 0003 — REVIEW REPAIR
+
+**The review of volume-07-batch-0003 returned four must-fix findings and five craft findings. All four must-fix and
+four of the five craft findings are repaired; one craft finding is ruled on and left standing. No planned plot moved, no
+day-table position moved, no bracket moved, no stage moved and no title changed.**
+
+**THE TWO THAT MATTER MOST.** **Ch 396's sum paragraph asserted a check and failed it** — *Fifteen and twenty-three
+and thirty-two is six* while the sentence around it said five — **and the same paragraph dated the fifteen to the
+seventh of a month when ch 390 carries day 951, which is the eighth. Both are repaired, and the purse is now carried
+as nine page-verified anchors rather than as a running total, because the running total this file and the Batch 0004
+prompt both carried did not add up and one of its figures — *eleven at the twenty-eighth* — was on no page at all.
+`workspace/volume-07-batch-0004/PROMPT.md` now hands forward the anchors, forbids inventing a derivation to bridge
+them, separates trips west from purse arithmetic with both spans named, and records the struck chain so it is not
+copied again.** **And ch 404's last line spent ch 412** — it closed on the board filling and nothing on it paying her,
+which is Batch 0004's pinned pay beat eight chapters early — **and its closing chronology was broken, the last section
+sitting three days before the section it followed. The line is cut and the chapter now closes on the cost it owns,
+the cup on the bench and the fact that this is not about her hands at all; the tail runs 999 → 1,004 → 1,020 in order
+and the page now says *the second hour of the seventeenth* where it used to say *the twenty-eighth*, so the claim that
+Batch 0003's last page is day 1,020 is on the page instead of only in the state files.**
+
+**Also repaired:** two card instructions that had leaked onto the page as section headings (ch 401 and ch 404) · ch
+401's closing line, which was ch 335's sentence with the noun swapped · ch 393's ending, which buried its best line
+two paragraphs from the end behind *Go and sleep, he said*. **Recorded and left standing:** ch 401's judgement about
+his own sentence, on a ruling that the judgement is attributed to him and nothing about what she thought is asserted
+· and the *whole of* tic at 40 in the batch and 131 in Volume 7, which is a volume-scale signature and not an endings
+breach.
+
+**Five state-file claims did not reproduce and every one is corrected with the method in the same row as the number:**
+the *nobody* family is **7, not 6** (the old list omitted ch 401 and filed two *not one* as *nobody*) · the longest
+paragraph is **89 words at ch 391 and the 87 is ch 394** · Yuan speaks in **five chapters and eleven quoted
+paragraphs, three of them in ch 401**, not "five passages" · the longest title is **32 characters and the review's 34
+counts the `# ` marker** · the `about…` figure is **112 in body prose and the method was the fault, not the number**,
+since the headings bring it to 139 and put ch 399 and ch 400 at 13. **Two more were found here: Batch 0002's
+55,080 / 55,410 pair was labelled ch 375–389 and is ch 361–389, and the Bread row's list of trip days is not written
+out anywhere in ch 390–404.**
+
+**THE BATCH IS NOW 29,552 WORDS OF BODY PROSE OVER FIFTEEN CHAPTERS, AVERAGE ~1,970**, and the Volume 7 file set after
+it is **84,962 over forty-four chapters**. All fifteen inside the 1,800–2,700 guide, none under the floor. Full record
+in `state/continuity.md` under ***Volume 7 Batch 0003 (ch 390–404) — REVIEW REPAIR***.

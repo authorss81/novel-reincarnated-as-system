@@ -52,11 +52,11 @@ She could not tell her why and she was not going to try, because telling her why
 
 ## The Thirtieth
 
-Eight coppers went west on the thirtieth of a month and there was bread for five days, and she had five coppers in the fold in the inside of the door frame afterwards and she did the sum twice on the boards and got five both times.
+Eight coppers went west on the thirtieth of a month and there was bread for five days, and she had six in the fold in the inside of the door frame afterwards, and she did the sum twice on the boards and got six both times.
 
-Fifteen at the seventh of that month. Twenty-three days at the gate at a copper a day, which is twenty-three in. Four trips west at eight, which is thirty-two out. Fifteen and twenty-three and thirty-two is six, and there is a length three days in seven at a yard four miles east that pays in a cup of something hot and no money at all.
+Fifteen at the eighth of that month. Twenty-three days at the gate at a copper a day, which is twenty-three in. Four trips west at eight, which is thirty-two out. Fifteen and twenty-three and thirty-two is six, and there is a length three days in seven at a yard four miles east that pays in a cup of something hot and no money at all.
 
-She did that sum again in the morning before she picked up the bar and got six both times.
+She did that sum again in the morning before she picked up the bar, and it came out the same.
 
 ## What Was On The Cart That Was Hers And Was Not Hers
 

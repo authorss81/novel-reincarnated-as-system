@@ -38,7 +38,7 @@ That is the honest shape of it and he stands there with it for nine seconds. He 
 
 He turns toward it.
 
-## What It Costs Him To Be In The Place
+## The Two Things He Goes Looking For
 
 He looks for the morning first, because he has looked for it every day since the seventeenth of a month five months back and he has never stopped and he is not going to be a different kind of man tonight.
 
@@ -138,4 +138,4 @@ He does not think about the account, because he has not thought about the accoun
 
 He does not tell her. She cannot hear him and he is not going to pretend to her that he can, and there is no part of this she has to be told about and no version of her being told about it that would be any use to her at all.
 
-And he does not do it again, because one is what he has and two would be a habit, and a habit is a thing that gets found.
+And he does not do it again, because one is what he has and two would be a habit, and the first thing that anybody on this ground does with a habit is put a line in front of it.
