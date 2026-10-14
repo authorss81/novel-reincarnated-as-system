@@ -980,3 +980,76 @@ fingers' grip on one hand, the right arm open half the time, eight of eleven hol
 reach, the bar needing two hands, the licence never opened, the plate worn and undescribed. A strip that went east and
 did not come back, and a column that came back with two lines off it. He is readable, findable, held and sendable and
 nothing of that is opened.
+
+---
+
+## Volume 7 Batch 0002 (ch 375–389) — what this batch added, live going into Batch 0003
+
+**Recorded at the Volume 7 Batch 0002 drafting phase, ch 389, day 950. Full record in `state/continuity.md` under
+***Established facts, Volume 7 Batch 0002 (ch 375–389) — WHAT SHE IS WORTH IN A ROOM***,
+***Volume 7 running ledger — at the last page of Volume 7 Batch 0002, day 950*** and ***Construction budget — Volume 7
+Batch 0002 (ch 375–389), measured by grep, not promised***.**
+
+### New in this batch, and open
+
+| Thread | Status at ch 389 |
+| --- | --- |
+| **Her name is in a book on that ground** | **NEW, AND IT IS THE BATCH'S IRREVERSIBLE STEP.** At the fourth hour on the twenty-eighth of the month beginning 914 she said a woman's name out loud in a room, asked her for four hours a month, and **gave her own name to get it.** Rao wrote *Ning Yan, of Lowwater* in the ordinary hand in the stair book she has kept for sixteen years — who went up the nine steps, on what day, at what hour. **It goes up the mill road on the first at the sixth hour with a cord round the tray, comes back down on the ninth, and is copied out into a book on the floor below by a man with a brush who cannot read the fine hand and has never been able to.** **She cannot read it and there is nobody inside nine days of road who can read it back to her. There is no hand in that building that can take it out.** **This is the first thing she has ever put into a room on purpose that she cannot get out of again, and she got it by asking for it out loud** |
+| **The furnace is not a place** | **NEW, AND IT IS THE ENGINE OF THE VOLUME.** It comes up in whatever room she is standing in if there is another living thing in that room, and it comes up under the nearest person who puts a hand on the ground. She cannot choose the room and cannot stop it being seen, and **the ring in the shed stands at a finger's width and has done for forty days.** From ch 378 **she must be with somebody every time her furnace lights, which is the reason she ends up in rooms** |
+| **A man with a burn on his hand** | **NEW, AND CLOSED AS A SOURCE.** About fifty-five, nine years on a board at a post two miles up the mill road, a paste pot and a rag, a woman and a boy. **He came for his strips on the first of a month and put his left hand flat on the floor of the counting house and she said *yes* when he asked her.** He has said he is not going to think about it again and he did not ask her for anything. **She is not going to ask him.** He is unnamed and stays unnamed and **he is not available** |
+| **The third floor, and Rao** | **NEW, AND THE OPEN ROOM.** Nine steps and a landing with a turn in it, a table the length of nine men, forty books open at once, cold at the north end. **Rao has kept columns there for sixteen years, has read forty thousand, holds no furnace and cannot lift, and is the smallest person in the biggest room she has been in.** **There is no line on that floor with Ning Yan on it and Rao has said so and is right. A margin correction is four coppers. The stair book is the only thing in that room that is not about work.** **Rao's structural answer is ch 391 and is Batch 0003's, and it is unspent** |
+| **A false line cannot get into a book on that ground** | **NEW, AND KNOWN TO ONE PERSON.** From the eleventh of the month beginning 914 **there is no hand, hers or anybody's she can pay, that can enter a line that is not true into any book inside nine days of road.** Before it there were three places at four coppers. **Nobody on that ground knows it except her, and she cannot tell anybody without telling them the other thing** |
+| **The arm** | **NEW, AND PERMANENT.** Four fingers and a thumb on the right hand and **she cannot close it.** It went into the other thing for two seconds at the fifth hour on the twenty-first of the month beginning 914 when a four-foot ditch came in on her, and it has not come back. **A closed fist was never in the eight of eleven holds** |
+
+### The batch's own reversals, paid on the page
+
+- **A listed ditch line at the north end of the yard at the turn, four hundred yards by the length, four feet, off a
+  works board between the twentieth and the twenty-second of a month** — the first time a man with a rule in his hand has
+  asked her for anything, and he asks her a day early and says he is telling her now so that it is not a thing that
+  happened to her tomorrow. **Rubbed off his own board with his own thumb, and no name of hers anywhere in that yard.**
+- **A furnace that comes up under a man’s hand because she was in the room, and she said *yes* out loud and did not
+  say the four words she had.**
+- **Her hand stops being able to lie**, and the bill for the only thing she ever wanted to buy arrives inside a week of
+  it and she can neither pay it nor take it.
+- **She has four hours a month of a warm room because she asked for it out loud, and the first thing she gave in
+  exchange was her own name in a book she cannot read.**
+
+### Held, confirmed, and not touched by Batch 0002
+
+- The register still reads *reconciled* and **nothing in ch 375–389 reads it** (`reconciled` returns zero). The Clay
+  Plate is worn against her ribs, `plate` returns **zero**, and it was not described. The relicensed licence was never
+  opened and is never referred to (`licence` and `license` both return **zero**). MEMBER ABSENT was never raised
+  (**returns zero**).
+- **The year of non-forgiveness is not mentioned once in fifteen chapters and is still carrying.**
+- `Ledger` returns **zero** across all fifteen files. **Hand is not spent in this batch** — it is spent once in Volume 7
+  at ch 402 and refused once at ch 419. **Merit settled once** (a listed ditch clearing at the north end of the yard at
+  the turn, not a death), **the share is three days and six hours, told out loud twice before it was spent**, spent out
+  of her foundation on nothing, and **no figure of what is left of him is stated on any page.** **Being sent for is not
+  opened, not foreshadowed in his mouth and does not happen to anybody else.**
+- **The Hunter is not on the page in this batch.** **His request is still pending. A writ is not issued to a field
+  agent. The line's own people still do not know she exists.** He is on the page at ch 369 and he is Batch 0004's.
+- **No office is named anywhere in ch 375–389 and nothing above the third floor, and nothing above the counting house,
+  and nothing above the Standing Office of the Second Account, is entered, described or named.** The surface answer is
+  not re-voiced. The structural answer continues in **one mouth of Volume 7's six** (ch 379, a gate man) and **the tenth
+  part is still not given and nothing proves the crews wrong.**
+- **Nothing in this batch kills anybody.** No harem and nothing a romance; **Wei Ran is not on the page.** **Rao is a
+  trade, a floor and a rate and nothing else, and the arrangement at ch 388 is four hours a month of a room with a woman
+  in it.** Feng does not appear and no second Lung and no second appointment. Ning Wu and Ning Bo do not appear. Hou
+  Sanliang is paid, never met and not on the page. What became of the eleven is not raised and the four months erased
+  in Chapter 3 are never named. **She never says her mother's name.**
+- **Dai and Geng are still unspent** and both belong to Batch 0004. **The ch 335 / ch 338 refrain and the ch 369
+  refrain are both spent and neither was re-voiced.** **The post with the board, nine miles west, was not visited** —
+  she stood four feet off her own book on the stone under the keeper's ladder on the second of a month and did not
+  touch it.
+
+### What Batch 0003 inherits, in one paragraph
+
+**Day 950, the seventh of a month that began on day 944. A gate three miles east of a mill whose wheel has not turned,
+a shed a mile and a quarter west of that, a yard four miles east at the turn, a counting house on the mill road, and a
+third floor above it with nine steps and a turn in the landing.** Nascent Soul 3, taken on the eleventh of the month
+beginning 914 at the seventh hour in a room with the door shut, **bracket 2 of six**, and her hand cannot lie. **A
+furnace that lights only where she is with another living thing in the room.** A book on the top floor with her name in
+it going up the mill road on the first. Fifteen coppers and no bread. Four fingers and a thumb and an arm that cannot
+close. A strip that went east and did not come back, and a column that came back with two lines off it, and a man at a
+gate two miles up the mill road with a burn on his hand, and a woman of forty-five who has read forty thousand columns
+and who is going to read something out loud in a room.
