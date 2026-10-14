@@ -242,7 +242,9 @@ No weather, no clock time, no date, no age, nothing restating the scene beside i
 - Emotional change: unexpected steadiness — having something nobody can take by reading.
 - Power or resource change: none.
 - Continuity fact to preserve: `licence` 0; the paper never called by any trade term.
-- Ending type: new question. Next-chapter pull: nineteen days to find out what opening costs a place.
+- Ending type: new question. Next-chapter pull: twenty-seven days to find out what opening costs a place — day 1,385, the
+  twenty-second of the month beginning 1,364, to day 1,412, and not nineteen, which was the figure in the first issue of
+  this card and was derived from nothing.
 
 ### Ch 490 — The Count After Opening
 - POV: close third on Ning Yan.

@@ -3577,3 +3577,52 @@ out anywhere in ch 390–404.**
 **THE BATCH IS NOW 29,552 WORDS OF BODY PROSE OVER FIFTEEN CHAPTERS, AVERAGE ~1,970**, and the Volume 7 file set after
 it is **84,962 over forty-four chapters**. All fifteen inside the 1,800–2,700 guide, none under the floor. Full record
 in `state/continuity.md` under ***Volume 7 Batch 0003 (ch 390–404) — REVIEW REPAIR***.
+
+## Volume 9 planning — REVIEW FIX
+
+**The review of `volume-09-planning` returned five findings. All five are closed, plus one contradiction of its own
+that the fix found while closing the first. No chapter file was opened, no prose was written, no beat, day, stage,
+bracket, title or irreversible step moved, and no new phase was created.**
+
+**What the repair touched: `outline/volume-09.md`, one line of `workspace/volume-09-batch-0001/PROMPT.md`, and this
+state set. The full record is at `state/continuity.md` §*Volume 9 planning — review fix*.**
+
+### The five findings, closed
+
+- **F1, the load-bearing one.** The planning phase's own new figures — two hundred and sixty-five days at ch 518 and
+  two hundred and seventy-three at ch 520, both counted from day 1,256 — contradicted escalation item 9, which had
+  him **speaking** at ch 516. Batch 0003 is explicitly told to carry both figures, so this was a contradiction a drafter
+  would have had to resolve. **ch 516 is now non-verbal: he puts the price in front of her in a number of one, in
+  writing, and does not say it.** His first words to her stay at ch 520 and the run stays unbroken. It is also the
+  better beat — the chapter where he opens a wall from the inside is the chapter where he cannot open his own mouth.
+- **F2.** The power-progression table's cost cell said Severance 1 lands **nineteen days** after she opens the paper.
+  **It is twenty-seven** — day 1,385 to day 1,412 — and the wrong number was in two places, the table and the ch 489
+  card. **No chapter states a count, so no prose was wrong and none was touched.**
+- **F3.** The four state files ended at the Volume 8 close with nothing for Volume 9 in them while fifteen chapters sat
+  on the page. **They now carry Batch 0001** — its figures, its established facts, its construction budget, its
+  threads and its one deviation — with the fact recorded plainly that **`volume-09-batch-0001` is `.deferred` and was
+  never marked complete.** Its fifteen chapters are finished and clean; what it lost was its own closing record.
+- **F4.** The 265/273 paragraph anchored its base on *the day the Hand went down*, which is not an event of ch 462 —
+  the Hand was spent at ch 419 and refused at ch 471. **It now names ch 462 as the chapter where she makes him stop
+  and he puts a thing down and does not pick it up again**, which is how ch 479 already states it in her own counting.
+- **F5.** *Eighty-five* sat beside the pinned *eighty-four* with nothing to tell them apart. **Both are right for their
+  own day and the outline now says which is which: eighty-four is ch 478 on day 1,340, eighty-five is ch 479 on day
+  1,341, and 1,341 − 1,256 = 85.**
+
+### The one the review did not name
+
+The outline carried **two silence anchors and no rule for which figure used which** — `## Starting relationships` said
+he had said nothing since ch 471, while the escalation counted from day 1,256, which is ch 462. A Batch 0003 drafter
+computing *over two hundred days* would have had 232 on one reading and 273 on the other. **The two are now kept
+apart and the outline publishes which one its own figures use**, along with the thing that count excludes: the frame
+scene at ch 518 is away from her hearing, which is what lets him speak there and still have ch 520 be the first time he
+speaks to her.
+
+### Where Volume 9 actually stands
+
+**Outline planned and repaired. Batch 0001 on the page, ch 479–493, 27,725 words of body prose on method B, average
+~1,848, day 1,341 to day 1,412, zero bracketed layer lines.** She is eighteen years old and one stage past the ceiling
+as of day 1,413, the twentieth of the month beginning 1,394, standing in a doorway with a bar she cannot hold at the
+heavy end, the paper open against her ribs and never named, and a shed behind her that has stopped being hers. **Batch
+0002 is the next work and its prompt does not exist yet** — Batch 0001 is deferred rather than complete, so the next
+prompt belongs to the drafting phase that runs, and creating one here would put a phase ahead of the work.

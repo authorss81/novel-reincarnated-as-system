@@ -726,3 +726,60 @@ came in under the door at about a foot a second. The boards were cold. **There w
 there was one door in it and she had not opened it.** She waited anyway.
 
 **That is the last page of Volume 8 and the first thing Volume 9 opens on.**
+
+## Volume 9 Batch 0001 — *The Warden*, ch 479–493, day 1,341–1,412 — WRITTEN AND ON THE PAGE
+
+**Pressure: opening it alone.** Fifteen chapters, **27,725 words of body prose on method B (every line not beginning
+`#`, so the `#` chapter title line and every `##` section heading are excluded), average ~1,848**, range 1,740 at ch 491
+to 1,989 at ch 488, longest paragraph in the batch 107 words at ch 479. Inside the volume's own floors: the volume
+requires 27,000–30,000 per batch with a hard floor of 26,000 and a chapter floor of 1,300, and nothing in the batch is
+under 1,700 or over 2,000.
+
+**The phase that drafted it, `volume-09-batch-0001`, is `.deferred` and has not been marked complete by the
+controller.** The fifteen chapters are finished prose and were verified clean by the review of `volume-09-planning`
+(27,725 words, zero blockquotes, code blocks, tables or rules, zero bracketed layer lines, no paragraph over 120
+words, 493 `#` headings manuscript-wide with zero collisions). **What is missing is the phase's own completion record,
+not its chapters**, and this section is that record, written by the planning phase's review fix rather than by the
+drafting phase.
+
+### One line per chapter
+
+| Ch | Days | Title | What changes on the page |
+| --- | --- | --- | --- |
+| 479 | 1,341–1,344 | **The Boards She Waited On** | she says his name once into the shed and gets nothing, and waits past the hour it stops being useful. **She derives the figure out loud on the page: day one thousand two hundred and fifty-six away from day one thousand three hundred and forty is eighty-four, and eighty-five the day after** |
+| 480 | 1,345–1,349 | **Three Coppers And Bread** | one loaf bought because she wants it, three coppers down to one |
+| 481 | 1,350–1,354 | **Forty-One Lines Twice** | she reads all forty-one lines down twice, gets them the same twice, and takes none of them, on purpose, in daylight |
+| 482 | 1,355–1,359 | **The Store Five Miles West** | she asks one question too many about bread nobody buys and is told so, kindly |
+| 483 | 1,360–1,364 | **What The Bread Costs** | she does not fix the door that does not shut, on purpose, **because fixing it would be keeping** |
+| 484 | 1,365–1,369 | **The Woman Who Never Asked** | **structural mouth one of five** — the store woman who has sold bread for two years and never asked her name |
+| 485 | 1,370–1,374 | **Eleven Minutes At The Rail** | she stands eleven minutes and finds that nothing on nine days of road wants anything from her, and leaves before a twelfth |
+| 486 | 1,375–1,379 | **Counting Toward Nothing** | **the midpoint.** She writes eighty-five forward for thirty-nine days after it stopped being true, catches herself doing it, and stops counting toward anything |
+| 487 | 1,380–1,384 | **The Door That Does Not Shut** | she decides to open the paper alone and tells nobody, including him |
+| 488 | 1,385–1,389 | **The Paper Opened Alone** | **the irreversible step, and the batch climax.** She opens it at the fifth hour of the twenty-second of a month with a bar under the door and four fingers and a thumb. **It cannot be un-opened** |
+| 489 | 1,390–1,394 | **What She Read Inside** | the inside describes a door and leaves the opening to her; she puts it back against her ribs and tells nobody |
+| 490 | 1,395–1,399 | **The Count After Opening** | nothing on the ground treats her differently, so she keeps sleeping in the shed to test whether staying still keeps |
+| 491 | 1,400–1,404 | **Twelve Feet Off** | **the Hunter, first of his two appearances in Volume 9.** He is nine feet off; she stops twelve. She asks whether a thing written about a person without being read to them can be answered; he answers; neither writes it down |
+| 492 | 1,405–1,408 | **The First Step Past** | she stops waiting to be asked and prepares the ring alone |
+| 493 | 1,409–1,412 | **Where Staying Stops Counting** | **Severance 1 at the fourth hour of the nineteenth of a month, day 1,412.** Cost named once: **she cannot keep a place by staying in it.** She sleeps in the shed and wakes knowing it is not hers, and does not weep, and leaves at the seventh hour |
+
+### What the batch established, for whoever drafts Batch 0002
+
+- **Severance 1 is on the page.** Day 1,412, the nineteenth of the month beginning 1,394, **121 days after Nascent Soul 9
+  at day 1,291 and 270 days before Severance 3 at day 1,561.** She is **past the ceiling by one stage.**
+- **The paper is open and has never been given a trade term.** It says *Foundation the first stage* on the front of it
+  and it is still folded in four against her ribs. **Twenty-seven days passed between opening it on day 1,385 and the
+  stage on day 1,412** — not nineteen, which was the figure in the first issue of the ch 489 card and in
+  `outline/volume-09.md`'s power-progression table, and which was derived from nothing.
+- **He is not on the page in this batch at all.** Zero occurrences of his name across the fifteen chapters, and she
+  says his name once, at ch 479, into an empty shed.
+- **Severance 1's cost, named once at ch 493 and not to be re-derived:** she cannot keep a place by staying in it. Not
+  her arm, not her hand — a shed she has slept in for two years stops being hers for having slept in it.
+- **Her position at the last page:** eighteen years old, four fingers and a thumb, right arm open half the time, eight
+  of eleven holds, short breath at four counts everywhere, no money, no wages, no bread, no season, a bar she cannot
+  hold at the heavy end, and four miles of lane east of a mill whose wheel has not turned since before she came.
+
+### Deviations from the drafting prompt, recorded rather than hidden
+
+1. **ch 491's title.** The card read *Nine Feet Off*; the page reads **Twelve Feet Off**, and the page is right —
+   the Hunter is nine feet off the side of the track and she stops twelve, which is three further than last time. The
+   title was moved onto the action rather than onto the other character, and no other title in the batch drifted.

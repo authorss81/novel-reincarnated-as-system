@@ -141,7 +141,12 @@ written so a close can answer it in the same register.
   — a woman with the two lines and the date and the ordinary voice, at ch 466.
 - **The Hand was spent three times on people who are not her, refused once out loud at ch 471 with the reason given for
   the first time, put down at ch 462 and never picked up again.** He has had nothing to spend for eighty-four days at
-  ch 478 and has said nothing since ch 471.
+  ch 478 and has said nothing since ch 471. **Two dates and two figures, and the volume keeps them apart: day 1,256 is
+  ch 462, where she makes him stop, and everything measured as *nothing to spend* is counted from it; ch 471 is the
+  last chapter in which he speaks in a room she is standing in, and everything measured as *said nothing* is counted
+  from it. The outline's own eighty-four, its eighty-five at ch 479 and its two hundred and sixty-five and two hundred
+  and seventy-three at ch 518 and ch 520 are all counted from day 1,256. No card may put a word of his into her hearing
+  between ch 462 and ch 520, and the frame scene at ch 518 is away from her hearing and is not in this count.**
 - **She can never again refuse a reading of the fine hand about herself**, because she refused it at ch 417 and gave up
   knowing it on purpose — and **she can still refuse to be kept, because no one has ever tried to keep her that way.**
 - **His unentered state, his unnamed state and the date of the morning he died are all still gone.** He went looking
@@ -163,8 +168,8 @@ is the first volume in the run in which he has had nothing to say for eighty-fou
    and she is not going to be read to again. **It cannot be un-opened.**
 2. **He opens the wall from the inside, once, at ch 518, because she tells him to.** The mechanism is pinned below and
    no drafter invents another: a wall opened from the inside is a document read from the inside, and it leaves one
-   person permanently on the wrong side of it. **He tells her the price before he spends it, in a number of one, and
-   she says do it anyway.**
+   person permanently on the wrong side of it. **He shows her the price before he spends it, in a number of one and
+   not a word, and she says do it anyway.**
 3. **She survives what it costs, at ch 519–520, and he has something to say for the first time in over two hundred
    days and it does not save anybody.**
 
@@ -173,10 +178,10 @@ to keep her, and the door does not need anybody qualified in order to be opened 
 
 ### What he does that is the volume's real damage, and it is his oldest habit yet
 
-**He treats one person as an entry in order to keep another person off a page, and he tells her before he does it, and
-she lets him.** That is the flaw stated once in the outline and once on the page: `bible/characters.md` — *he treats
-people as entries… he lies to her by omission and always calls the omission a kindness.* **In Volume 9 he does not lie
-by omission. He names the entry, names the price, and asks. That is worse, because she says yes.**
+**He treats one person as an entry in order to keep another person off a page, and he puts it in front of her before
+he does it, and she lets him.** That is the flaw stated once in the outline and once on the page: `bible/characters.md`
+— *he treats people as entries… he lies to her by omission and always calls the omission a kindness.* **In Volume 9
+he does not lie by omission. He names the entry, shows the price, and waits. That is worse, because she says yes.**
 
 ### How she catches nothing and permits everything — pinned, and it is her own instrument
 
@@ -195,8 +200,9 @@ is not a re-run of any of the four.** Every sentence he speaks in it is in the p
 ever in a marked present frame.
 
 **He goes looking for one thing in it and finds it:** whether a wall can be opened from the inside without leaving
-someone on the wrong side. **It cannot, and that is the answer, and he is the one who tells her so before she tells him
-to do it anyway.**
+someone on the wrong side. **It cannot, and that is the answer, and he is the one who puts it in front of her at ch 516
+before she tells him at ch 518 to do it anyway.** **What he says in the frame is said away from her hearing and does not
+count against his silence with her, which is unbroken from day 1,256 to day 1,529.**
 
 ### The refusal that is this volume's own — and it is not ch 474 again
 
@@ -352,7 +358,7 @@ volume begin on days 1,334 · 1,364 · 1,394 · 1,424 · 1,454 · 1,484 · 1,514
 
 | Stage | Chapter | Day | Month-day | Interval | What it costs, on the page, named once |
 | --- | --- | --- | --- | --- | --- |
-| Severance 1 | **493** | **1,412** | the nineteenth of the month beginning 1,394 | **121 days** after Nascent Soul 9 at day 1,291 — **the gap from the ceiling to the first step past it, and the chapter says why**: she has to open the paper herself, alone, without a second pair of hands, because at ch 470 she learned what it is to be read to and will not be read to again, and no one on nine days of road can help her do it | **She cannot keep a place by staying in it.** Not her arm and not her hand — **a shed she has slept in for two years stops being hers for having slept in it.** Staying stops counting. She can lie down anywhere and no lying down holds. **It lands nineteen days after she opens the paper, and the chapter is about the first night she sleeps in the shed after the stage and wakes knowing it is not hers** |
+| Severance 1 | **493** | **1,412** | the nineteenth of the month beginning 1,394 | **121 days** after Nascent Soul 9 at day 1,291 — **the gap from the ceiling to the first step past it, and the chapter says why**: she has to open the paper herself, alone, without a second pair of hands, because at ch 470 she learned what it is to be read to and will not be read to again, and no one on nine days of road can help her do it | **She cannot keep a place by staying in it.** Not her arm and not her hand — **a shed she has slept in for two years stops being hers for having slept in it.** Staying stops counting. She can lie down anywhere and no lying down holds. **It lands twenty-seven days after she opens the paper — day 1,385, the twenty-second of the month beginning 1,364, to day 1,412 — and the chapter is about the first night she sleeps in the shed after the stage and wakes knowing it is not hers** |
 | Severance 2 | **508** | **1,488** | the fifth of the month beginning 1,484 | **76 days** — two months and a half, and the volume spends seventy-six days on why | **She cannot be met where she is expected.** A person who comes for her comes to the place she was and not the place she is, and no message reaches her there because there is nowhere there to reach. **She is findable by a list and not by a road, and the chapter is about Shuyin finding her in the wrong shed** |
 | Severance 3 | **523** | **1,561** | the eighteenth of the month beginning 1,544 | **73 days** — two months and a half, and the shortest interval since Nascent Soul 2 | **She cannot go back down the road she came.** Not Lowwater and not the mill and not the store — **the two miles of lane between the bench and the store stop being a distance she can walk.** She can walk them. They do not go anywhere she has been. **She is nineteen, past the ceiling by three stages, with no wages, and the only road she has ever known how to walk has stopped being hers** |
 
@@ -413,8 +419,9 @@ stays empty.**
 - **Door is opened once, at ch 518, on one person who is her, from the inside, because she tells him to.** The mechanism
   is pinned so no drafter has to invent one: **a wall opened from the inside is a document read from the inside by the
   person it is about, without anybody qualified in the room — and the layer honours it the way it honours a quest, with
-  a stated price told before it is spent.** **The price is told in a number of one: one person stays on the wrong side,
-  permanently, and it is not her.**
+  a stated price put in front of her before it is spent.** **The price is written in a number of one: one person stays
+  on the wrong side, permanently, and it is not her, and it is put in front of her in writing at ch 516 and not said
+  out loud, **because the last room he is in with her is ch 471 and he does not speak to her again until ch 520.**
 - **The cost rule holds and does not bend.** *A quest's cost is paid by the Chosen One. Always. Never by him.* **So the
   Merit that settles is intercepted by him out of the layer's ordinary settlement, and every coin of what he spends
   comes out of her foundation, and it comes out of the ground under her feet and not out of her hands — which is the
@@ -464,7 +471,10 @@ stage is not a licence to move it.
 
 1. **She says his name once into a shed at ch 479 and nothing comes back**, because at day 1,341 he has had nothing to
    spend for eighty-five days and there is nothing left to answer with — and she waits anyway, which is ch 478 carried
-   one day forward.
+   one day forward. **Eighty-five and eighty-four are two different figures for two different days and a drafter must
+   not collapse them: day 1,256 is ch 462 and the pinned eighty-four runs from it to day 1,340, which is ch 478, and
+   ch 479 opens on day 1,341, so 1,341 − 1,256 = 85. The outline says eighty-four wherever it means ch 478 and
+   eighty-five wherever it means ch 479.**
 2. **She counts.** Eighty-five days, three coppers, forty-one lines, four fingers. She has counted everything in this
    book since the eighth of a month seven volumes back and the count is the only instrument she has left.
 3. **She opens the paper herself at ch 488**, alone, in a shed with the door shut, without anybody qualified in the room.
@@ -481,8 +491,10 @@ stage is not a licence to move it.
    the only one she can prove is hers. **Somebody else writes it, and she cannot un-let him.**
 8. **Severance 2 at ch 508**, on day 1,488, the fifth of the month beginning 1,484. **He comes to the shed she is in and
    she is not in it.** The cost is paid in the only place it can be paid.
-9. **He tells her the price of a door at ch 516**, in a number of one, in the present tense, once. One person stays on
-   the wrong side. Permanently. It is not her.
+9. **He shows her the price of a door at ch 516**, in a number of one, once, **written and not said.** One person stays
+   on the wrong side. Permanently. It is not her. **He does not speak to her in this chapter and no card may give him a
+   line of speech in it, because his silence with her is unbroken from ch 462 to ch 520 and the two figures below are
+   both computed out of that unbroken run.**
 10. **The fifth frame scene at ch 518**, and the answer to whether a wall can be opened without a wrong side. **It
     cannot.**
 11. **He opens it at ch 518**, because she tells him to, out loud, on the boards, with the door shut. **A chair east of
@@ -494,10 +506,13 @@ stage is not a licence to move it.
     day 1,514 — the first of the month beginning 1,514 · ch 518 on day 1,521 — the eighth of the same month · ch 519 on
     day 1,525 — the twelfth of that month · ch 520 on day 1,529 — the sixteenth of that month · ch 523 on day 1,561 — the
     eighteenth of the month beginning 1,544.** **Two figures come out of those days and both are computed from day 1,256,
-    which is ch 462 and the day the Hand went down: day 1,521 minus 1,256 is two hundred and sixty-five days, which is his
-    silence when the door is opened at ch 518, and day 1,529 minus 1,256 is two hundred and seventy-three days, which is
+    which is ch 462, the chapter where she makes him stop and he puts a thing down and does not pick it up again:
+    day 1,521 minus 1,256 is two hundred and sixty-five days, which is his silence when the door is opened at ch 518,
+    and day 1,529 minus 1,256 is two hundred and seventy-three days, which is
     his silence when he speaks at ch 520 and is the count behind the *over two hundred days* that §*Concrete resolution*
-    carries.** A Batch 0003
+    carries.** **The silence these two are counted inside is his silence with her, and ch 516 is inside it, which is why
+    ch 516 gives her the price in writing and not in speech; the frame scene at ch 518 is away from her hearing and is
+    not counted against it.** A Batch 0003
     drafter who moves any of these five days must move both figures with them and must re-derive them, not
     carry them.
 13. **Severance 3 at ch 523**, on day 1,561, and the road behind her. **She walks the two miles of lane and they do not go
@@ -601,15 +616,16 @@ a trade.** **No harem. Nothing in Volume 9 is a romance.**
 - **What she has broken:** the assumption that opening a door needs somebody qualified in the room. **At ch 488 she reads
   the paper herself because nobody in any room can be trusted to read it to her, and at ch 518 the wall opens from the
   inside.**
-- **What he has broken:** the habit of omission. **At ch 516 he tells her the price in a number of one before he spends
-  it, and at ch 518 she tells him to spend it anyway, and at ch 520 he speaks for the first time in over two hundred days
+- **What he has broken:** the habit of omission. **At ch 516 he puts the price in front of her in a number of one and
+  in writing before he spends it, and says nothing, and at ch 518 she tells him to spend it anyway, and at ch 520 he
+  speaks for the first time in over two hundred days
   and it saves nobody.**
 - **What she has lost, in the order the volume took it:** keeping a place by staying · **being met where she is
   expected** · **going back down the road she came.** **The third one is the first third of the realm's whole cost. It is
   where she was always going, and the only thing standing between her and the next three stages is a list with her name
   on it as lost.**
 - **Who acts at the close:** she acts (an opening, a permission, a survival written in her own hand, and thirty-seven days
-  of needing no place) · he acts (a price told, a door opened, and a frame scene) · Shuyin acts (writing, and then
+  of needing no place) · he acts (a price put in front of her, a door opened, and a frame scene) · Shuyin acts (writing, and then
   walking away) · and the ground acts by needing nothing from her again, which is the second time in nine volumes that
   it has done nothing at all.
 - **What she is at the last page of Volume 9:** **Severance 3**, past the ceiling by three stages, with a furnace that
@@ -787,7 +803,7 @@ three times.**
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0001 | 479–493 (15) | 1,341–1,412 | **opening it alone** | put her in the shed with the silence, open the paper without being read to, and take the first step past the ceiling | ch 486 — **she counts forty-one lines twice and can take none, and stops counting toward anything** | ch 488 — **she opens the paper** · ch 493 — **Severance 1, and the shed stops being hers** | **ch 488 — she opens the paper herself and it cannot be un-opened** |
 | 0002 | 494–508 (15) | 1,413–1,488 | **being written down** | walk the list into the room, state the rule in full, and let her be found in the wrong shed | ch 502 — **she lets him copy her refusal and cannot un-let him** | **ch 508 — Severance 2, and he comes to the shed and she is not in it** | **ch 502 — she lets another hand copy the one entry she chose, and it is in his book** |
-| 0003 | 509–523 (15) | 1,489–1,561 | **what she told him to do with her still in the room** | let him tell the price of one, let him open the wall from the inside, and let her survive the wrong side | ch 516 — **the price told in a number of one** | ch 518 — **the fifth frame scene and the opening** · ch 519 — a chair stays empty · ch 520 — **she survives it out loud** · ch 523 — **Severance 3** | **ch 518 — she tells him to open it knowing one person stays wrong-sided, and he does** |
+| 0003 | 509–523 (15) | 1,489–1,561 | **what she told him to do with her still in the room** | let him put the price of one in front of her in writing, let him open the wall from the inside, and let her survive the wrong side | ch 516 — **the price in a number of one, shown and not said** | ch 518 — **the fifth frame scene and the opening** · ch 519 — a chair stays empty · ch 520 — **she survives it out loud** · ch 523 — **Severance 3** | **ch 518 — she tells him to open it knowing one person stays wrong-sided, and he does** |
 | 0004 | 524–538 (15) | 1,562–1,598 | **surviving being kept** | state the demand at its maximum, survive it in her own hand, and leave the reason where he cannot reach it | ch 531 — **Shuyin's mouth, and the accuracy is the whole of it** | ch 534–535 — **the survival** · ch 536 — written as lost · ch 538 — **the book under the ladder** | **ch 535 — she writes his rule in her own hand where his cannot take it out, and refuses kept** |
 
 **This table is the same table as *Pressure rotation across the volume* above and says the same thing. Where two copies

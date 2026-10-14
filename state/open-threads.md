@@ -1690,3 +1690,55 @@ chapter count, ten and not fourteen · the repair totals, sixty-six to sixty-nin
 count of verified calendar instances, seven and not six — and added **F22**, a duplicated `## The Lane End` at ch 451,
 which is a house-keeping fault and not a thread any Volume 9 page can inherit. **Every thread above is exactly where the
 close left it.**
+
+## Volume 9 Batch 0001 (ch 479–493) — what this batch added, live going into Batch 0002
+
+**Ch 479–493 are on the page and Volume 9 is open.** This file last stood at the Volume 8 close and had nothing for
+Volume 9 in it; these are the threads the fifteen chapters added, all live at ch 493.
+
+### Added by this batch
+
+1. **The paper is open and unnamed.** Opened alone at ch 488, read at ch 489, still folded in four against her ribs.
+   **It has never been called by a trade term and must not be.** What is on the inside describes a door eleven hundred
+   years of practice never opened from the inside and leaves the opening to her. **She told nobody, including him.**
+   Live, and it is the volume's engine.
+2. **Severance 1, taken at ch 493 on day 1,412.** The ceiling is behind her by one stage. **The cost is named once —
+   she cannot keep a place by staying in it — and is not to be re-derived in any later chapter.** A later chapter may
+   carry it and may show what it costs.
+3. **The shed stopped being hers.** She slept in it two years, barred the door with her own bar, worked the clay, slept
+   nine hours in it, and began somewhere between the fifth and the sixth of a month to think of it as a place where she
+   was. On the morning of the nineteenth she put her hand on the boards and said *this is mine* out loud and the reach
+   did not answer it. **She left at the seventh hour of the twentieth and did not look back, and there is not one person
+   on nine days of road who will ever know she was in it for two years.**
+4. **The silence is eighty-five days and counting, and he has not been on the page once.** He does not appear in any of
+   the fifteen chapters. The run is measured from day 1,256. **It is not broken until ch 520.**
+5. **The Hunter's first of two appearances is spent, at ch 491.** He is nine feet off a track and she stops twelve.
+   **He answered her and did not write it down, and she saw him not write it.** One appearance remains in Volume 9 and
+   she asks him both times. His name may be used once and is now used — or not; the drafted chapter calls him *he*.
+6. **The store woman is the first structural mouth, at ch 484**, and the volume has four more to come.
+7. **She has three coppers, no wages, no bread and no season**, and a bar she cannot hold at the heavy end. Nine days
+   of road west have stopped wanting anything from her, which ch 478 found and Batch 0001 confirmed on the page.
+
+### Carried from Volume 8 into Batch 0002, all live and none touched by this batch
+
+The year of non-forgiveness, still running and **not mentioned once** · **no figure of what is left of him on any
+page** · `Ledger` 0 · the Hand put down at ch 462 and staying down · **Xie Changyin, the Order and the building with
+the lamps absent from Volume 9 entirely** · Shuyin arrives in Batch 0002 and the list opens there · Wei Ran has at most
+two cards, one in Batch 0002 and one in Batch 0004, and eight coppers she will never chase · Feng and Ning Wu absent ·
+no new final enemy · the ch 267 surface answer not re-voiced in any mouth.
+
+### What Batch 0002 inherits, in one paragraph
+
+**ch 494–508, days 1,413–1,488, seventy-six days, pressure *being written down*.** A man of nine hundred years walks
+into the wrong shed at ch 498 and shuts the door behind him and waits for the latch. **She lets him copy her refusal
+entry at ch 502 and cannot un-let him** — and that copied entry is the reason the list finds her, which is why Batch
+0002 cannot be drawn without Batch 0001's opened paper and its unnamed trade term. **Severance 2 at ch 508 on day 1,488,
+the fifth of the month beginning 1,484, and she cannot be met where she is expected.** He appears twice in Volume 9 and
+only twice, and she asks him both times. **`workspace/volume-09-batch-0002/PROMPT.md` does not exist** — Batch 0001 is
+`.deferred` and has not completed, so the next prompt is the drafting phase's to write and not this file's.
+
+### What this file did not do
+
+**It added no thread the chapters do not carry, and it opened no question the volume has already answered.** The
+Volume 8 close's threads are exactly where the close left them; this section sits on top of them and does not move
+them.

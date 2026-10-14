@@ -3677,3 +3677,81 @@ repaired for exactly this; Volume 7's close recorded seven stale figures of the 
 Batch 0004's `about…` row with it as F5 and then did it itself in F11. **A number published without the method that
 produced it is not a measurement.** Every figure in §*Volume 8 close — the volume as a whole* now carries its method in
 the same sentence, and the ones that cannot are recorded as two figures rather than one.
+
+## Volume 9 Batch 0001 (ch 479–493) — established facts, carried to Batch 0002
+
+**Ch 479–493 are on the page.** Fifteen chapters, 27,725 words of body prose on method B (every line not beginning
+`#`), average ~1,848, day 1,341 to day 1,412. The drafting phase is `.deferred` and was not marked complete; the
+chapters are finished and were verified clean by the review of `volume-09-planning`. **This section is the batch's
+hand-off, written by the planning phase's review fix.**
+
+- **The days.** ch 479 on day 1,341 through ch 493 on day 1,412, month-days derived under `((day − 134) mod 30) + 1`
+  with months beginning 1,334 · 1,364 · 1,394. The five anchors the batch prompt pinned all hold: ch 484 on the
+  second of the month beginning 1,364, ch 485 on the seventh, ch 487 on the seventeenth, **ch 488 on the twenty-second,
+  which is day 1,385**, and **ch 493 on the nineteenth, which is day 1,412.** ch 493 closes in the morning after, on the
+  twentieth, at the seventh hour — that is day 1,413, and it is the first hour of Batch 0002's range and not a
+  contradiction of the batch's closing day.
+- **Severance 1 is taken at ch 493, day 1,412, the fourth hour**, at the ceiling-breaking stage of this realm, without
+  a tribulation, without a bracket, and announced by nothing but the chapter. **121 days after Nascent Soul 9 at day
+  1,291; 149 days before Severance 3 at day 1,561; the three stages stand 270 days apart.**
+- **Severance 1's cost, named once at ch 493: she cannot keep a place by staying in it.** The place is the shed, not a
+  limb and not a hand. **No later chapter may re-derive it.**
+- **The paper against her ribs is open.** Opened alone at ch 488, day 1,385, at the fifth hour, with the door barred.
+  **It has never been named by a trade term and must not be.** *Foundation the first stage* is on the front of it in a
+  hand that is not hers. She read the inside at ch 489 and told nobody what it says. **Twenty-seven days separate the
+  opening on day 1,385 from the stage on day 1,412.**
+- **The silence has now run eighty-five days as of ch 479, counted on the page.** Day 1,256 (ch 462, where she makes
+  him stop) to day 1,340 (ch 478) is the pinned **eighty-four**; ch 479 opens on day 1,341 and the page says
+  **eighty-five**. **Both figures are correct for their own day and neither may be used for the other.** Chapter 479
+  derives the subtraction on the page.
+- **He is absent from all fifteen chapters.** His name does not appear and he does not appear. The frame of his
+  silence is unchanged and Volume 9 does not break it until ch 520.
+- **The Hunter is on the page once, at ch 491**, nine feet off the side of a track with a notebook shut under his arm,
+  and she stops twelve feet off. He answers her and **does not write it down.** He is twice in Volume 9 and only
+  twice; **one appearance remains, and she asks him both times.**
+
+### The continuity facts this batch confirmed and did not touch
+
+Carried from Volume 8 and all live: **the year of non-forgiveness is not mentioned once** · **no figure of what is left
+of him is stated on any page** · `Ledger` 0 · the Hand stays put down · `Warden` 0 and Shuyin 0 in this batch ·
+Xie Changyin, the Order and the building with the lamps are absent · **Feng, Ning Wu, Shen Xiu, Wei Ran and the Hunter's
+sponsors are absent** · the relicensing legs are not named · the surface answer of ch 267 is not re-voiced in any
+mouth · no new final enemy · **`## The Lane End`-style duplicate `##` headings: none in this batch.**
+
+### Construction budget — Volume 9 Batch 0001, counted rather than quoted
+
+Body prose only, method B, measured on the fifteen files as they stand: **27,725 words, average ~1,848** · **0**
+blockquotes, code blocks, tables or horizontal rules · **0** bracketed lines, and Volume 9's budget of three is
+unspent, so Batch 0002 may carry ch 508 and Batch 0003 may carry ch 523 · **0** straight double quotes · **0** straight
+apostrophes · **0** bold spans and **0** italic spans, which is the thinnest markup run in the manuscript and is
+consistent with the layer-line silence · longest paragraph **107** words at ch 479, and **0** paragraphs over 120 ·
+**493** `#` headings manuscript-wide with **0** collisions; the longest title in the batch is 28 characters, *Where
+Staying Stops Counting* at ch 493, and the longest in the manuscript remains 39 at ch 426 · **one** duplicated paragraph in the batch, `“No,” he said.` twice at ch 491, which is dialogue and
+is consistent with the recorded refrain practice.
+
+## Volume 9 planning — review fix
+
+**The review of `volume-09-planning` returned five findings. All five are closed. No chapter file was opened and no
+prose was written: this repair edited `outline/volume-09.md` and one line of
+`workspace/volume-09-batch-0001/PROMPT.md`, and brought this state set up to date for Batch 0001. No planned plot, beat,
+day, stage, bracket, title or irreversible step moved.**
+
+| # | Finding | Closed as |
+| --- | --- | --- |
+| **F1** | **The new 265-day and 273-day figures contradicted escalation item 9, which had him *speak* at ch 516.** Batch 0003 is explicitly told to carry both figures, so the contradiction was load-bearing | **ch 516 is now non-verbal.** He puts the price in front of her **in writing, in a number of one, and does not say it**, which is consistent with the volume's own hard rule that every sentence he speaks is in the present tense and with a man whose stated flaw is silence. His first words to her remain ch 520, so the run from day 1,256 is unbroken and 265 at ch 518 and 273 at ch 520 both stand. The price being shown rather than spoken is the stronger beat: the chapter he cannot open in a word is the chapter where he opens one |
+| **F2** | **The power-progression table's cost cell said the stage lands *nineteen days* after she opens the paper.** The real gap is day 1,385 to day 1,412 | **Twenty-seven days, in both places the figure appeared** — `outline/volume-09.md`'s table, and the ch 489 card in `workspace/volume-09-batch-0001/PROMPT.md`, which had carried the same wrong number. **No chapter states any count**, so no prose was wrong and none was touched |
+| **F3** | **The four state files ended at the Volume 8 close with nothing for Volume 9, while fifteen chapters were on the page** | **This section, plus the matching entries at `state/current.md`, `state/chapter-summaries.md` and `state/open-threads.md`.** They record the batch as it stands, with the note that `volume-09-batch-0001` is `.deferred` and its own completion record was never written. **No new `workspace/volume-09-batch-0002/` directory was created** — the batch is not complete, the controller dispatches by ledger, and a prompt written for a phase that has not run would be a second phase ahead of the work |
+| **F4** | **The 265/273 paragraph anchored its base number on *the day the Hand went down***, which is not what happened at ch 462. The Hand was spent at ch 419 and refused at ch 471 | **It now names ch 462 the way the state files name it: the chapter where she makes him stop and he puts a thing down and does not pick it up again** — which is also how ch 479 states it in her own counting on the page |
+| **F5** | **Line 466's *eighty-five* sat beside line 159's pinned *eighty-four* with nothing to tell them apart** | **Both are correct for their own day and the outline now says so where each is used: eighty-four means ch 478 on day 1,340, eighty-five means ch 479 on day 1,341, 1,341 − 1,256 = 85.** Ch 479 already derives it on the page |
+
+### One contradiction the review did not name, found while closing F1, and closed with it
+
+**The outline carried two different silence anchors and no rule for which figure used which.** `## Starting
+relationships` said he *"has said nothing since ch 471"*, which is true — he speaks in both ch 466 and ch 471, and ch
+471 is the last room he is in with her — while the escalation counted the run from day 1,256, which is ch 462. Left
+alone, the two would have produced two different answers for the same question, and a Batch 0003 drafter computing *over
+two hundred days* would have had a figure of 232 on one reading and 273 on the other. **The outline now keeps them
+apart: everything measured as *nothing to spend* is counted from day 1,256, everything measured as *said nothing* is
+counted from ch 471, and the outline's own eighty-four, eighty-five, 265 and 273 are all on the first.** It also
+records what that count does not include: **the frame scene at ch 518 is away from her hearing and is not in it**, which
+is what lets him speak there and still have ch 520 be the first time he speaks to her.
