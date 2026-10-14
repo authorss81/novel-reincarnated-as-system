@@ -5329,3 +5329,83 @@ targets and were left over them on purpose: `nobody` 34, `eleven` 44, `thank` 16
   off.
 - **Next phase:** **VOLUME 12 PLANNING — `workspace/volume-12-planning/PROMPT.md`, for `outline/volume-12.md`,
   *The Road Up*, ch 661–720.**
+
+## Who is where at end of ch 675 — VOLUME 12 BATCH 0001 CLOSED ON THE PAGE (cold reader starts here)
+
+**Day 2,090, the seventh of the month beginning 2,084, at the two posts four hundred yards east of the turn on the store
+road, with a bar nine feet nine on her shoulder and a name in a county hand on a slate that went up on the first and came
+back down empty.** Volume 12 — *The Road Up*, ch 661–720 — is running. **Batch 0001, ch 661–675, is complete on the
+page.** Full record in `state/continuity.md` under ***VOLUME 12 BATCH 0001 — the stair, ch 661–675***; the per-chapter line
+is at `state/chapter-summaries.md`; what Batch 0002 inherits is at `state/open-threads.md`.
+
+**THE BATCH'S FIGURES, measured and published once.** **`chapters/volume-12/` holds ch 661–675, fifteen chapters, 29,992
+words of body prose on method B, average 1,999 a chapter.** Day 2,061 to day 2,090. **Method B is every line not beginning
+`#`, counted per file and summed.** Per chapter: 2,029 · 1,928 · 1,842 · 1,968 · 2,087 · 1,855 · 2,022 · 1,937 · 1,964 ·
+2,136 · 1,882 · 1,996 · 2,365 · 1,966 · 2,015. **Zero brackets in fifteen chapters, zero bold, two italic lines, zero
+blockquotes or fences or tables or rules, zero straight quotes or apostrophes, zero all-caps standalone lines, zero
+duplicate section headings, zero authorial scaffolding, zero named weekdays or months, zero retired phrases.**
+**`nobody` 9 against under twelve · `eleven` 10 against under sixteen · `thank` 0 · `forgiv` 0 · `the year` 0 · `week` 0.**
+
+- **Ning Yan — SEVERANCE 9 throughout the batch.** No stage taken, no stage named, no bracket spent. **Nine stages past a
+  ceiling that no longer exists. Nineteen years old.** Four fingers and a thumb on the right hand, the index gone. Right
+  arm open four days in five. Four counts of breath everywhere and seven on a rise and nine on eight flights. Eight of
+  eleven holds. The small open place low behind her fourth rib. **501 days lighter at the first page and 517 at the
+  twenty-fourth and 530 at the last, the figure at any day D being D − 1,560.** Not hungry.
+- **What the batch did.** She walked west off the turn at ch 661 and found out that the sentence she had said at ch 660
+  had no object in it · **she went up four miles and eight flights and found a boy of sixteen keeping a lamp that ought not
+  to be burning** at ch 662 · **the carter's answer came out at ch 663, and it is the first time in eleven volumes that
+  anybody has said out loud that a bundle goes somewhere** · **she put Feng's four sheets back in the locked drawer at
+  ch 664, on purpose, and told the boy where they were and said three things at once and was corrected by a boy of
+  sixteen** · **she asked at ch 665, one at a time, in daylight, standing: can a person be announced without being
+  designated, and it cannot be un-asked** · **she stood with the asking for a day at ch 666 and did not ask twice** · **the
+  first half of the answer came at ch 667 — an announcement is not made to be heard, it is made to arrive, and the second
+  half is addressed to a body and neither of them has ever been in a room** · **the room at the top of the stair was
+  empty at ch 668 and has been for nine years, and the bar is on the landing side, and the finding is that there is
+  nothing to receive an announcement and no one to receive it and those are one fact** · **she looked at what she has at
+  ch 669 and it is a stub of a nib, a cake of ink and a hand that cannot write a false line, and it is all in her coat and
+  none of it is in the building** · **she walked back to the turn at ch 670 and the woman of sixty told her the twenty-fourth
+  at ch 671 and said she had been the last name on that board** · **at ch 672 she worked out out loud in daylight that a
+  board is the only thing anybody has ever paid her for and is also the only thing the levy comes off, and it is one
+  object** · **at ch 673 she offered to read the board, and said the part about not being paid out loud before anybody
+  offered it to her, and the man of forty-nine made her say the number** · **and at ch 674 she got on it.**
+- **The batch's irreversible step, ch 674, and there is exactly one.** **Her name and thirty days of the month beginning
+  2,084 went into a column on the turn's board at the ninth hour of the twenty-fourth of the month beginning 2,054, in
+  chalk, in a county hand, written by a man of forty-nine who was doing his month's work. She is on a board. The fraction
+  can now reach her and there is no solvent for chalk and no hand in this county that will take a line out of a slate.**
+- **The dated, un-movable deadline, pinned and met.** **The board went up on the first of the month beginning 2,084 at the
+  first hour and came back down, and eleven people went past the frame in an hour and ten minutes and not one of them
+  looked at the grit. The next first is day 2,114, thirty days on.** She counted eight firsts out loud at the ninth hour of
+  the first: 2,114 · 2,144 · 2,174 · 2,204 · 2,234 · 2,264 · 2,294, and the eighth of them is the one `outline/volume-12.md`
+  pins at ch 717.
+- **Who is where.** **The boy of sixteen is in the tower at Lowwater**, on the fourth floor, copying nine sheets a day
+  with a lamp in a cage on the fourth landing that he has now kept for thirty-five days, with his own days in the column
+  and not his name in it, and a locked drawer he has never had the key to and has never knocked on. **The carter of
+  sixty-four came up the hill on his own time on the ninth of the month beginning 2,054 to hand a boy of sixteen the only
+  sentence anybody in thirty-one years had wanted, and went away down the hill with not one thing for it.** **The woman of
+  sixty is on the bench**, and she was the last name on that board, on the second of a month beginning 1,806, for four
+  years, and has sat on that bench for nine years since the eighteenth of the month beginning 1,814. **The man with the
+  board is forty-nine, does not live at this turn, and has written four columns a month for nineteen years.** **Feng is
+  not on a page.** **Ning Wu, Shuyin, Xie Changyin, the Hunter, Ning Yan’s brother and Wei Ran are not on the page in this
+  batch**, and `Ning Wu`, `Shuyin`, `Hunter`, `Xie Changyin` and `Feng Lushi` all read **0** on the page.
+- **The batch's physical card, paid.** **Eight flights up a mountain at the sixteenth of the month beginning 2,054 and
+  eight flights down, fifty minutes down, sitting down twice, on an arm that was open, with the breath at seven on the
+  third landing and at nine on the top step.** She came down the mountain again on the thirtieth, four days before the
+  first, because four days is what a mountain and a stair and a road take if nothing goes wrong, and there is nothing she
+  can do about anything going wrong.
+- **Untouched and still open.** The window a hundred yards off the east side · the lime off the bar at ch 604 · the hut
+  light · ***twenty-two days*, still unplaced, and this batch did not touch it: `grep -oi 'twenty-two days'` over
+  `chapters/volume-12/*.md` returns 0** · the contents of the ash barrow · **the forty-one strokes, which go up and down a
+  stair in a drawer between day 2,064 and the present and are not looked at by any chapter in this batch, and no mouth
+  refers to them** · **the five blank leaves, still blank; nothing in this batch writes in them** · how far the rows sit
+  past the wall · **and the eighth frame scene, which is ch 694 and has not been staged and may not be**.
+- **Nothing is forgiven and nothing is thanked by her.** **`grep -oi forgiv` returns 0 and `grep -oi 'the year'` returns 0
+  across ch 661–675, both measured, and `thank` returns 0** — against 1 and 2 and 16 for the same three in ch 601–660.
+  The permissions at ch 609 and ch 645 and the asking at ch 665 are permissions and an asking and no line calls any of
+  them anything else. **No figure of what is left of him is stated anywhere in the batch**, in her hearing or out of it.
+  **There are seven frame scenes in the manuscript and this batch takes none; there is no eighth.**
+- **The ending has not been spent.** The Anchor is not placed · release is not shown · the Sisterhood is not touched ·
+  nobody explains why a bounded world needs readers · Feng's fair handwriting is on the page as a drawer that is locked and
+  is not called a founding document · **nothing is described above the low door at the top of the tower** · **the moral
+  answer is unpaid and nothing proves the crews wrong** · the Sincerity of the Scribe is never adjudicated and `Scribe`
+  reads **0** on the page in this batch.
+- **Next phase:** **VOLUME 12 BATCH 0002 — `workspace/volume-12-batch-0002/PROMPT.md`, ch 676–690, the lamps.**

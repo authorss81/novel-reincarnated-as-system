@@ -7807,3 +7807,123 @@ unchanged. **The one thing this repair changed about the record is that it now s
 catches is the one the Volume 12 prompt already named against itself: *a budget that records zero while instances
 stand is the failure this manuscript has caught itself making six times.* **It is the seventh, and the cause was a
 method that hid an inflected form behind a word boundary.**
+
+---
+
+# VOLUME 12 BATCH 0001 — *the stair*, ch 661–675, audited on the page
+
+**Fifteen chapters, 29,992 words of body prose on method B (every line not beginning `#`, counted per file and summed),
+average 1,999. Day 2,061 to day 2,090. Pressure: the stair. Written against `outline/volume-12.md` §*The escalation
+sequence* items 1 to 12 and §*The batch plan*. No stage moved, no bracket spent, no frame scene taken.**
+
+## The batch's figures, measured with the command in the sentence with the number
+
+`grep -v '^#' chapters/volume-12/chapter-*.md | wc -w`, per file and summed: **29,992**, average **1,999**
+(29,992 ÷ 15 = 1,999.4, truncated, which is the convention `state/continuity.md` set at the Volume 11 close). Per chapter:
+**2,029 · 1,928 · 1,842 · 1,968 · 2,087 · 1,855 · 2,022 · 1,937 · 1,964 · 2,136 · 1,882 · 1,996 · 2,365 · 1,966 ·
+2,015.** The band is 27,000–30,000 for fifteen chapters and no chapter is under the 1,300 floor or above the 2,700 guide.
+**Every month-day in the batch reproduces under `((day − 134) mod 30) + 1`:** 2,061 = 8 · 2,062 = 9 · 2,063 = 10 ·
+2,064 = 11 · 2,065 = 12 · 2,066 = 13 · 2,067 = 14 · 2,068 = 15 · 2,069 = 16 · 2,070 = 17 · 2,071 = 18 · 2,072 = 19 ·
+2,073 = 20 · 2,074–2,076 = 21–23 · 2,077 = 24 · 2,078–2,083 = 25–30 · **2,084 = 1, the first of the month beginning
+2,084** · 2,090 = 7. **The going-lighter at any day D is D − 1,560**, and the batch states 501 at day 2,061, 510 at
+2,070, 517 at 2,077 and lets the last page carry it.
+
+## The construction budget, measured and not promised
+
+| Construction | Batch 0001, ch 661–675, measured |
+| --- | --- |
+| **Bracketed layer lines** | **0 in fifteen chapters.** `grep -oF '[' chapters/volume-12/*.md` returns **0** and `grep -oF ']'` returns **0**. Volume 11's bracket budget was spent at ch 616, 632 and 648 and Volume 12's is a new stated zero |
+| **Bold** | **0.** `grep -o '\*\*'` returns 0 |
+| **Italic** | **2 lines**, both of a name written in the air: `*I am going up*` at ch 661 and `*Ning Yan*` at ch 673. Counted, not claimed |
+| **Blockquotes, code fences, tables, horizontal rules** | **0 / 0 / 0 / 0.** `grep -cE '^> \|^\`\`\`\|^\| \|^---$'` returns 0 in all fifteen |
+| **All-caps standalone lines** | **0.** `grep -nE '^[A-Z][A-Z ']{2,}$'` returns 0. Anything written is inside curly quotation marks in sentence case |
+| **Straight quotes / straight apostrophes** | **0 / 0**, every speech closed in all fifteen files. `grep -o \"'\"` returns 0 and `grep -o '\"'` returns 0. **Thirteen straight apostrophes were written and all thirteen were converted to U+2019 before the files were closed** |
+| **The retired seven phrases** | **0 as phrases.** `grep -oi 'nobody asked\|nobody was thanked\|there is no form\|there is no column\|the record remained\|nobody knew\|nobody said anything'` returns 0. Volume 12's volume-wide allowance is 3 and this batch spends none of it |
+| ***Nobody*** as the bare intensifier | **9 across fifteen chapters** on `grep -oiw nobody`, against Volume 12's line of under thirty for the whole volume and this batch's line of under twelve. **By chapter: 2 · 2 · 0 · 1 · 1 · 1 · 0 · 1 · 0 · 0 · 0 · 0 · 0 · 0 · 1** |
+| ***Eleven*** | **10 across fifteen chapters** on `grep -oiw eleven`, against Volume 12's line of under forty for the whole volume and this batch's line of under sixteen. **By chapter: 2 · 1 · 0 · 0 · 0 · 1 · 1 · 1 · 0 · 0 · 0 · 0 · 1 · 0 · 3.** The substring `eleven` also reads 11 on `grep -oi eleven`, because ch 675 carries one `eleventh`; **the word-boundary reading is the one to carry** |
+| ***Thank*** | **0.** `grep -oi thank` returns 0. **A `thank you` was written at ch 673 and was cut before the file closed**, and the beat it was carrying is now held by *I am putting the date on it* |
+| ***Forgiv*** | **0**, measured on the substring `grep -oi forgiv`, the reading Volume 11's close established because it is the one that does not let an inflected form hide behind a boundary. **Volume 11 reads 1 on the same command and this batch reads 0** |
+| ***The year*** | **0**, measured on `grep -oi 'the year'`. Volume 11 reads 2 |
+| ***About four seconds*** · ***Eleven weeks*** · ***week*** | **0 / 0 / 0.** **Eight `about four seconds` were written and all eight were cut before the files closed**, replaced with a count of breath, a count of twenty, one breath at seven, and *the time it takes a man to turn round twice* |
+| **Banned reflexes** — *his eyes widened · couldn't believe it · suddenly · little did he know* | **0** |
+| **The surface answer** | **0.** `charged` 0 · `bookkeeping` 0 · `receipt` 0, on `grep -oiw`; `bounded world` 0 · `the walls` 0, on `grep -oi` |
+| **Zeroed proper nouns** | **all 0 on word boundaries**: `Ledger · reconciled · plate · licence · license · clearance · countersignature · seal · kiln-born · tribulation · Anchor · Sisterhood · bargain · vouch · Warden · Hunter · Shuyin · Scribe · Xie Changyin · Feng Lushi · MEMBER ABSENT`. **`Ning Wu` reads 0 as a phrase**; the bare given name `Ning` reads 4 on word boundaries and all four are her own name in `Ning Yan`. `list` reads **0** on word boundaries and the six substring hits are all inside `listened` and `listening` |
+| **Authorial scaffolding** | **0.** The widened pattern returns 0 on `grep -oi 'this chapter\|this volume\|this book\|the rest of the book\|the reader\|in this batch\|another batch\|[0-9]\+ volumes\|[0-9]\+ chapters\|[0-9]\+ batches'`, and the bare forms `grep -oiw 'volume\|chapter\|batch'` return **0** — after **eleven** instances were cut before the files closed, of which the load-bearing ones were *four volumes ago*, *for four volumes*, *eleven volumes and one hundred and fifty miles*, and *the volume of this life*. **Four hundred `volumes` on shelves remain and are the ordinary noun for books** |
+| **Titles** | **15 names, 3–7 words, longest 30 characters (*Four Flights To A Burning Cage*, ch 662). `comm -12` against all 660 standing headings returns 0 and `uniq -d` over the fifteen returns 0** |
+| **Section-heading identity** | **0 within a chapter and 0 across the volume.** Measured on `grep '^## '`. **Nine collisions against ch 601–660 were found and all nine were renamed**, and **two duplicates inside this batch** — `The Same Fact Twice` at ch 663 and ch 668 — were renamed to `One Fact And Not Two` and `The Room With A Bar Across It` |
+| **Paragraphs** | **965 body paragraphs, longest 110 words, none over 120, nine over 90.** **Three of the nine were long prose paragraphs and were broken at a natural beat**; the remaining six are single speeches by one voice, which is the shape Volume 11 used |
+| **A frame scene** | **0.** The eighth is ch 694 and no card in this batch stages one |
+| **A figure of what is left of him** | **none stated anywhere in the batch**, in her hearing or out of it |
+| **The lever — asking twice** | **carried twice and declined every time**: ch 666 (*I am not going to ask you a second thing*) and ch 667 (*A question said out loud, standing, in daylight, once, with a witness in the room, cannot be un-asked*). Not pulled |
+| ***Twenty-two days*** | **0.** `grep -oi 'twenty-two days'` over `chapters/volume-12/*.md` returns **0**. The thread is untouched by this batch and remains unplaced and equated to no dated interval |
+
+**A note the next phase inherits about how these numbers were made, because the manuscript has caught itself making the
+zero-while-instances-stand error six times and this batch nearly made it a seventh.** Two of the zeros above were **not**
+zero when the first draft was written and were caught only by re-measuring after the fact: the thirteen straight
+apostrophes, the eight `about four seconds`, the eleven scaffolding instances, one `thank you`, one named weekday
+(*Tuesday*, at ch 674, written into a woman's mouth as a hesitation and cut within the hour), and **one date out by a day
+in each of ch 670, ch 671 and ch 672, caught by re-deriving `((day − 134) mod 30) + 1` per chapter rather than carrying
+the previous chapter's ordinal forward.** **The rule that follows: derive every month-day from the day number, never
+from the previous chapter's ordinal, and re-measure every zero on the finished files before writing it into a state
+file.** A zero written before the measurement is a promise, not a figure.
+
+## What the batch established on the page, and what it may not re-derive
+
+1. **The turn, the road, the tower and the frame are now a walked map.** The turn on the store road · the bench ·
+   the two posts four hundred yards east of it with a slate let into a bar between two posts and a thumb-wide groove on
+   three sides of the slate · a cottage four miles west at a stopped lime bed · a mill five miles west with a nine-foot
+   oak wheel that has not turned in nine years · a post nine miles west of the turn · **a tower four miles up a mountain
+   from the square at Lowwater: four flights to the copying floor, the short breath at the third landing, four hundred
+   volumes, a rack that takes county paper and not a clerk's, a lamp in a cage on a shelf on the fourth landing, and a
+   stair behind the shelves at the west end of the copying floor with four more flights above it.** **No distance
+  between the tower and the turn is stated anywhere in ch 661–675, because the manuscript has never stated one.**
+2. **The first half of the answer to the batch's question, said on the page in three sentences at ch 667.** An
+   announcement is not made to be heard, it is made to arrive; if there is a person in the place it arrives and if there
+   is not one it goes into the ground with no sign that it did not; it is not the announcement that has to be found, it
+   is the room. **Nine times she was announced and nine times there was no room. That is now established fact and is not
+   re-explained anywhere in ch 668–675.**
+3. **The second half is addressed to a body, and neither of them has a body that can read it.** He says it at ch 667 and
+   the finding is structural: the arriving needs a room, a person in the room and a hand; the boy's hand cannot be the
+   one (ch 669) and Yuan's is not a hand at all; **so the instrument is her own, and it is a stub of a nib, a cake of ink
+   opened on the seventh of the month beginning 1,874, and a hand that cannot write a false line.**
+4. **The room at the top of the stair, as it now stands.** Four landings above the copying floor, a top step, a low door
+   with flat close-set bars in the top half, a bar across it **on the landing side**, put there from the corridor by
+   somebody who then went down and did not come back up. Inside: **a long table down the middle, nothing on it, a lamp on
+   a shelf at the far end that is out, a candle stub gone into its dish, and no chairs.** Dust on the bar and on the
+   sill of the same grey as the nine-year dust in the building: **shut since before she was ten years old.** The finding
+   is at ch 668 and it is that **there is nothing to receive an announcement in it and no one to receive one, and those
+   are one fact and not two.** **Nothing above the low door is described, and the batch spends no card on what shuts
+   the bar.**
+5. **A board, as it now stands.** It is a notice and not a wage; it goes up on the first of a month at the first hour on
+   a cart with a piece of sacking over the slate and comes back down and is wiped with the flat of a thumb from left to
+   right; **the fifth comes off the days in the column before it goes up and the person does not know what is left**;
+   **a board is the only thing anybody has ever paid her for and it is the only thing the levy comes off, and it is one
+   object and not two** (ch 672, said out loud on a public road in daylight with four people going past). A man of
+   forty-nine comes out on the twenty-fourth of every month to take in what is on the slate. **The board at this turn
+   has gone up with nothing on it since the eighteenth of the month beginning 1,814.**
+6. **The woman of sixty's fact.** Her name went up on the second of a month beginning 1,806 and she was on that board
+   for four of nineteen years working the road out of Lowwater; the west road stopped; a notice about a person who is
+   not doing anything is a notice that gets walked past; **she has sat on that bench for nine years because it is where
+   the board is and it is the only place she would be recognised in.** **She said it once and she does not say it
+   again, and she is not going to tell her not to go on.**
+7. **The batch's irreversible step, ch 674, in fact.** **`Ning Yan`, in chalk, in a county hand, in one line, with a
+   stroke in front of it and thirty days of the month beginning 2,084 in the next column, written at the ninth hour of
+   the twenty-fourth of the month beginning 2,054 by a man of forty-nine who was doing his month's work.** She asked
+   one question first and it was answered. **One in twenty of thirty is a day and a half and she said it out loud
+   herself before he wrote a stroke.** The board went up on the first of the month beginning 2,084 and came back down
+   empty and eleven people went past the frame in an hour and ten minutes and looked at nothing.
+8. **The name, and who has it.** Four people now know she has a name on a board: the boy of sixteen, the carter of
+   sixty-four, the woman of sixty, and the man of forty-nine. **The woman of sixty told her out loud, on the second day
+   of the frame, that being seen is not a kindness, because a kindness goes both ways and a notice does not, and that
+   the day the notice stops they stop.** That sentence is the moral pressure of Batch 0002 and it is **not softened and not
+   withdrawn.**
+
+## Things this batch deliberately did not spend
+
+The permission at ch 689 · the sentence from ch 658 about reading him as a column for eight years, which is quoted
+nowhere in ch 661–675 · the five blank leaves, which stayed blank and are not counted · the forty-one strokes, which go
+into a locked drawer at ch 664 and are not looked at by any chapter in the batch and are referred to by no mouth · the
+window a hundred yards off the east side · the lime off the bar · the hut light · the contents of the ash barrow · how
+far the rows sit past the wall · **anything above the low door** · **anything east of the wall**, which Batch 0002 opens
+on. **No Immortal Vessel stage was taken and no stage was named**, and **no Volume 12 cost was named**, because the first
+is at ch 685 and naming one here would spend Batch 0002's.

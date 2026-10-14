@@ -2226,3 +2226,126 @@ rows and turned west, **and the rows are four miles past the wall**, so the enti
 sentence is true. **The residual looseness in ch 659:11 and :19 — calling her position *the long flat*, when four miles
 short of the wall is two miles short of the gate and therefore made road — is real, is recorded, and is left, because
 repairing it means softening a sentence.**
+
+---
+
+# VOLUME 12 BATCH 0001 — *the stair*, ch 661–675
+
+**Fifteen chapters, 29,992 words of body prose on method B, average 1,999. Day 2,061 to day 2,090. Pressure: the stair.
+Severance 9 throughout, no stage taken, no bracket spent, no frame scene. One irreversible step, at ch 674.**
+
+- **ch 661, day 2,061, *The Word She Does Not Have*. DECISION.** The eighth of the month beginning 2,054, dawn at the
+  turn and then west on foot past the post at nine miles and the mill with the wheel that has not turned in nine years.
+  **She tries the sentence out loud at three points on the road and finds that `I am going up` has no object in it** —
+  and says that out loud at a gatepost, which is the first use she has ever made of it. She wants a room, not a name or a
+  hand. Four miles up, the tower, four flights, the third landing. The boy of sixteen meets her on the top step with two
+  buckets and says he has kept the lamp going and does not want to do it on his own. 501 days.
+- **ch 662, day 2,062, *Four Flights To A Burning Cage*. DISCOVERY.** She wakes on the copying floor and cannot get up,
+  because a keeper's lamp burns while the keeper is in the building and there has been no keeper for seventeen days.
+  **The finding is that a boy of sixteen has been carrying oil up four flights twice a day since the twenty-second
+  because it went dark at the second hour and he did not want to be in the building in the dark** — and that is the only
+  thing that has made her want to be in a room. The stair: four counts, five on the second, seven that will not come down
+  on the third landing. The drawer is locked and he has never had the key and has not knocked on it once. He ends on
+  the bottom of the stair: he asked the carter on the first where the bundle goes and is not saying it on the fourth floor.
+- **ch 663, day 2,063, *Where A Bundle Goes*. REVELATION.** The tenth of the month beginning 2,054, the yard, the boy
+  relaying what a carter of sixty-four told him on the ninth after nine days of holding it. **The first time in eleven
+  volumes that anybody has said out loud that a bundle goes somewhere: a bundle is not county paper, it is what a thing
+  is put in when it is going to be said, through a low barred door on the landing above the floor, four times in
+  thirty-one years, the last nine years ago, and the man who came out of the door never let the carter past him.** She
+  works out that the bundle's going and the bundle's arriving are one fact and not two. She is angry at a carter who has
+  been correct for thirty-one years. He goes past on the cart and says *it goes up* and *not one person has ever come
+  down for it*, and does not stop.
+- **ch 664, day 2,064, *Four Sheets And A Lock*. EMOTIONAL CONSEQUENCE.** The eleventh of the month beginning 2,054, the
+  sixth hour, four sheets of a fair hand on the bench under the window. **She counts them — four sheets, seven sentences,
+  one hand — and does not read one word of them, and does not copy them**, and then **puts them back in the locked drawer
+  and locks it and puts the key in the front of her bag and tells the boy where they are**, because she is not going to
+  carry a dead man's handwriting into a room she has never seen. She finds out what she has actually done — put a thing
+  down in a building instead of on her own person — and she hands the boy three instructions at once and **is corrected by
+  a boy of sixteen and takes the first one only.** The book: five blank leaves and a nib and an ink she has never let dry.
+- **ch 665, day 2,065, *A Question With Two Halves*. IRREVERSIBLE: SHE ASKS.** The twelfth of the month beginning 2,054,
+  sixth hour, standing, in daylight, at the east end of the bench, with the boy four feet away at the rack. The terms said
+  out loud first: one at a time, in daylight, standing. **Eight years of never asking him about the world, and the reason
+  was that every question she wanted was two questions.** She asks it: *Can a person be announced without being
+  designated* — three times, because a question said once has not been said — and gets the first half: **an announcement
+  goes where there is something to receive it.** The second half is in a room and a person in the room and a hand. **She
+  feels the lever come up — asking again would not be asking two things at once, because the first had been answered —
+  and refuses it out loud, in the room, so that he will know it is a refusal and not an oversight.**
+- **ch 666, day 2,066, *Four Floors And No Answer*. COST.** The thirteenth of the month beginning 2,054, a whole day in
+  a lit room with nothing to do in it. **She cannot take a sheet off the pile: the moment her hand is on a county sheet
+  her hand is in a county column, and a girl with a bar has no standing whatever in that building.** Nine sheets a day,
+  one boy, nineteen days of two days' work in one. She reads the day's nine announcements and finds six names and forty-four
+  days and a rate paid on the seventh, the seventeenth and the twenty-seventh, **and not one of the six has ever had the
+  sum read out to him.** The price of not asking twice, said out loud on a landing at the ninth hour: nine days of
+  nothing, and no road back for either of them.
+- **ch 667, days 2,067–2,068, *A Sentence He Cannot Finish*. REVELATION.** Two days of not asking, and then the first half
+  said properly at the sixth hour of the fifteenth: **an announcement is not made to be heard, it is made to arrive; if
+  there is a person in the place it arrives and if there is not one it goes into the ground with no sign that it did not;
+  it is not the announcement that has to be found, it is the room.** Nine times announced, nine times into the ground,
+  every one of them on a road or at a wall. **The second half he cannot finish because it is a set of instructions and it
+  is addressed to a body**, and he has never been in a room. She asks him for the smallest possible question instead and
+  gets the one thing he has: *they are still there*, because a carter does not carry an empty square of oilcloth up a hill.
+- **ch 668, day 2,069, *The Long Table And The Grille*. THE MIDPOINT.** The sixteenth of the month beginning 2,054, the
+  third hour, eight flights up a mountain and back down in fifty minutes with two sits. **The room is empty and has been
+  for nine years**: a long table down the middle, nothing on it, a lamp on a shelf that is out, a candle stub gone into
+  its dish, no chairs. The bar is **on the landing side**, put there from the corridor by somebody who then went down and
+  did not come back up. **The finding, in one fact and not two: there has been nothing to receive an announcement in that
+  room for nine years and there has not been anybody to receive one for nine years, and neither is a fault and both are
+  the same fault.** She does not go through the door. The five blank leaves stay blank.
+- **ch 669, day 2,070, *The Instrument In Her Coat*. COST.** The seventeenth of the month beginning 2,054, the bench,
+  the eight leaves laid out. **Three things in her hand and none of them is the thing: a stub of a nib, a cake of ink,
+  and three fingers and a thumb with the index gone.** The boy offers to write and is better at a county hand than she is
+  and she says no and gives the reason twice — first that he is sixteen, then the real one, that she will not spend being
+  alone on every one of these on a piece of paper. **The rule is said out loud in daylight with the nib and the ink on the
+  bench: this hand cannot write a line that is not true, and a lie is not what that means.** Everything she owns walks.
+  510 days.
+- **ch 670, days 2,070–2,071, *The Same Four Miles*. DECISION.** Down the mountain, down the long way round the tanner's,
+  thirteen miles west. She stops at the mill for the first time in five years and says out loud, on a made road, that a
+  room shut for nine years and a wheel that has not turned for nine years are two numbers that happen to be the same, and
+  that she is not going to build anything on that. **She works out the arithmetic of the first from the turn: the
+  twenty-fourth is six days off and the first of the next month is fourteen.** She tells the woman of sixty, out loud, that
+  she is going to stand at the two posts, and why — that everything she has found out in six days has been standing on a
+  notice that tells four hundred people where she is.
+- **ch 671, day 2,072, *The Woman Who Was Right*. EMOTIONAL CONSEQUENCE.** The nineteenth of the month beginning 2,054,
+  a whole day on the bench. **She says her own name out loud three times in the grit and works out that on a road a name
+  is a thing you say to a person and it means you know them, and you do not know her.** She works out that a board is not
+  for the person on it: it is for everybody else. **The woman of sixty tells her the true thing she had not worked out —
+  her name went up on the second of a month beginning 1,806 and she was on that board for four of nineteen years, and the
+  west road stopped, and a notice about a person who is not doing anything is a notice that gets walked past** — and then
+  the thing that costs: **being seen was not a kindness, because a kindness goes both ways and a notice does not, and the
+  day the notice stops they stop.** She does not say what happens to a notice after the first and is not going to be asked.
+- **ch 672, day 2,073, *The Reason For Two Posts*. DISCOVERY.** The twentieth of the month beginning 2,054, the sixth
+  hour, four hundred yards east of the turn, in daylight, with four people going past. She fits her thumb in the groove
+  round three sides of the slate and sets the nib and the ink on the lip of the frame and **does not write**. Then she says
+  it out loud, in public, and it cannot be said back: **a board is the only thing anybody in this world has ever paid her
+  for, and a board is the only thing the fraction comes off, and they are one object and not two.** One in twenty of 510
+  is twenty-five and a half days. **The only reason the sum has never come off her is that she has never been on a board,
+  and the thing that kept her alive is the thing she has been calling a humiliation.** She also says out loud, once, that
+  not being seen is what stopped her finding out whether her brother is alive. She is getting on the board.
+- **ch 673, days 2,074–2,076, *A Hand And No Reader*. COST.** Three days at the frame and the man with the board on the
+  third. She watches a thumb wipe a slate in the time it takes a man to turn round twice. **She says the part about not
+  being paid out loud, standing, before anybody has offered it to her and before she has asked one question, so that not
+  one person in the county has to be generous to her.** He asks her instead, in order: whether she is not frightened, how
+  many days she wants, and what a fifth of thirty is. She says *thirty*, and *a day and a half*, and makes him say the
+  whole of it back in the ordinary voice: **the name goes on it and the days go on it and the fifth comes off the days
+  before it goes up and the person does not know what is left.** She asks her one question, standing, in daylight, and
+  does not get it answered.
+- **ch 674, day 2,077, *What The Levy Can Reach*. THE CLIMAX. IRREVERSIBLE: SHE IS ON A BOARD.** The twenty-fourth of the
+  month beginning 2,054, the ninth hour. **She holds one question back, asks it, and is told the answer: the name goes
+  on it, the days go on it, the fifth comes off the days and not off the name, and the board on the first is a true
+  statement about what went up.** Then she says her name out loud in daylight. He writes it in chalk in a county hand, in
+  one line, without looking at it, and writes thirty days of the month beginning 2,084 beside it. **She does the sum out
+  loud first: thirty days, one in twenty, a day and a half.** The woman of sixty walks down from the bench for the first
+  time in nine years. **Nothing enormous happens and she says so plainly: it is a piece of wood four hundred yards from her
+  hand, and it is the first time in her life there is a line in a hand anywhere in the world with her name at the end of
+  it that is not in a book against her ribs.** It cannot be put back. She decides to stand in the grit at the first hour
+  of the first of the month beginning 2,084, four feet back, where a cart can go past.
+- **ch 675, days 2,078–2,090, *Counting The Days She Can See*. CLIMAX RESOLUTION.** Thirteen days at the frame and one
+  trip up the mountain to the boy, and four days early back down because four days is what a mountain and a stair take if
+  nothing goes wrong. **The board goes up on the first at the first hour on a cart with a piece of sacking over the
+  slate, and eleven people go past the empty sockets in an hour and ten minutes and not one of them looks down.** The
+  woman of sixty says the true thing again — *it was not the writing, it was you wanting it* — and **she counts the eight
+  firsts out loud: 2,114 · 2,144 · 2,174 · 2,204 · 2,234 · 2,264 · 2,294**, and says that at the eighth of them something
+  is going to happen that she cannot see from here. **The hook, said out loud: a board goes west up a road, and the thing
+  that takes a fifth off a board does not go west, and there has been no fifth of her west of this turn since the
+  eighteenth of the month beginning 1,814, and so the harvest is east, and she is going east in the morning with thirty
+  days and not one single person who knows she is coming.**

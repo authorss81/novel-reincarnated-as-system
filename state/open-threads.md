@@ -2984,3 +2984,59 @@ repairs across eleven chapters, and recorded eight findings it deliberately did 
   months are not named · the announcement that names her is not re-voiced. **The moral answer is unpaid and the
   Sincerity of the Scribe is never adjudicated.**
 - **No new final enemy was introduced.**
+
+---
+
+# VOLUME 12 BATCH 0001 CLOSED at ch 675 — what Batch 0002 inherits
+
+**Fifteen chapters, 29,992 words of body prose on method B, average 1,999, day 2,061 to day 2,090. Pressure: the stair.
+Full record in `state/continuity.md` under ***VOLUME 12 BATCH 0001 — the stair, ch 661–675***.**
+
+## Where she is at the last page, in one line
+
+**Day 2,090, the seventh of the month beginning 2,084, at the two posts four hundred yards east of the turn, with a bar
+nine feet nine on her shoulder and a name in chalk on a slate that went up on the first and came back down empty, and
+thirty days between her and the next first.**
+
+## Open, and Batch 0002's engine
+
+| Thread | State at the close of Batch 0001 |
+| --- | --- |
+| **The road up** | **NARROWED AND STILL OPEN.** The sentence *I am going up* has found its object at last and the object is a room four miles up a mountain with a long table in it and nothing on the table. **The road up is now a specific stair with eight flights and a barred door at the top, and she has climbed it once and come down** |
+| **The question and its halves** | **ASKED AND HALF ANSWERED.** *Can a person be announced without being designated* was asked at ch 665, one at a time, in daylight, standing, with a witness she had not asked for, and **it cannot be un-asked**. **The first half came at ch 667 — an announcement is made to arrive, and the arriving needs a room, a person in the room and a hand. The second half is addressed to a body and is unsaid and may not be produced out of a body she does not have** |
+| **The instrument** | **SETTLED AND IN HER COAT.** A stub of a nib, a cake of ink opened on the seventh of the month beginning 1,874, and a hand that cannot write a false line. **Not the boy's hand (ch 669, refused out loud and not asked twice) and not a dead man's. Five blank leaves, still blank.** The instrument is not in any building and that is the whole of ch 669 |
+| **The room at the top of the stair** | **EMPTY, HAS BEEN, AND WILL NOT BE FIXED BY GOING UP AGAIN.** Shut since before she was ten. A bar on the landing side. A long table, nothing on it, a lamp that is out, a candle gone into its dish, no chairs. **The finding is that there is nothing to receive an announcement and no one to receive it and those are one fact. Nothing above the low door is described and no card may describe it.** Batch 0002 inherits an open question here: *who put the bar on it, and why* |
+| **The board** | **SHE IS ON IT.** `Ning Yan`, chalk, county hand, a stroke in front of it, thirty days of the month beginning 2,084 beside it, written on the twenty-fourth of the month beginning 2,054. **A fifth comes off the days before it goes up and the person does not know what is left. One in twenty of thirty is a day and a half.** The board went up on the first of the month beginning 2,084 and came back down empty |
+| **The eight firsts** | **COUNTED ALOUD AT THE NINTH HOUR OF THE FIRST: 2,114 · 2,144 · 2,174 · 2,204 · 2,234 · 2,264 · 2,294.** The seventh is ch 709 and the eighth is ch 717, both Batch 0004's |
+| **Being seen** | **DONE AND IT COST HER.** The woman of sixty said, once, at the second day of the frame: **a notice is not a kindness, a kindness goes both ways and a notice does not, and the day the notice stops they stop.** She also said that the reason eleven people walked past a bare slate for nine years is not the slate, it is **somebody standing in front of it wanting something.** She is not thanked and no card may thank her |
+| **Her brother** | **Raised once, in her own head, at ch 672, and not raised to a person.** *The arrangement is the reason I do not know whether my brother is alive. I could have found out in one day if I had gone and stood on a road where anybody could see me and asked a person to send word. And I could not be seen.* **`Ning Wu` reads 0 on the page in this batch and the name may not be spoken twice in Volume 12 without the outline's authority** |
+| **East** | **THE BATCH'S OWN HOOK, SAID OUT LOUD AT THE LAST PAGE.** *The harvest is not in this county. It is east.* She established on the page that the board goes west up a road and that **the thing that takes a fifth off a board does not go west**, and she said at the last line that she is going east in the morning with thirty days, a name in a county hand, a day and a half already spoken for, **and not one single person who knows she is coming.** Batch 0002 opens on that |
+
+## Closed and irreversible in Batch 0001, and not to be undone
+
+- **ch 665 — the asking.** *Can a person be announced without being designated.* One question, one time, daylight, standing, with a witness. **It cannot be un-asked** and no later chapter may treat it as retractable.
+- **ch 674 — the board.** She is on one, after nine years off every board in the world. **The levy can now reach her and there is no solvent for chalk and no hand in this county that will take a line out of a slate.**
+- **ch 664 — the drawer.** Feng's four sheets went back into a locked drawer in a building with no keeper in it, at the sixth hour of the eleventh of the month beginning 2,054, and a boy of sixteen was told where they are and what to say and what not to say. **They are not against her ribs at the end of the batch and every later phase must find them in the drawer.**
+- **ch 663 — the carter.** Somebody said out loud, for the first time in eleven volumes, that a bundle goes somewhere. **The carter came up the hill on his own time and went away down it with not one thing for it.**
+
+## Still untouched, still unspent, and still Batch 0002's or later's
+
+The permission at ch 689 · **the sentence from ch 658 about reading him as a column for eight years, which is Batch
+0002's ammunition and is quoted nowhere in ch 661–675** · Immortal Vessel 1 at ch 685 and its cost, which is **the first
+named Volume 12 cost and no cost was named in Batch 0001** · Court at ch 687 · the eighth frame scene at ch 694 · the
+budget at ch 683 · the sheet read to her a second time at ch 679–680 · **the forty-one strokes, which are in the drawer
+and are not looked at** · **the five blank leaves, which stayed blank** · the window a hundred yards off the east side ·
+the lime off the bar · the hut light · the contents of the ash barrow · ***twenty-two days*, unplaced, `grep -oi 'twenty-two
+days'` returns 0 over this batch** · how far the rows sit past the wall · `Ledger` 0 · `clearance` 0 · `seal` 0 ·
+`Anchor` 0 · `Sisterhood` 0 · `bargain` 0 · `Scribe` 0 on the page.
+
+## The three things Batch 0002 must not inherit as clean prose
+
+1. **The man of forty-nine does not live at this turn and never says where he lives, and he is correct.** Do not make
+   him suspicious, evasive or complicit. He wipes a slate with his thumb, he writes four columns a month, and he told her
+   a day and a half was coming off her column and then said it was not a thing anybody can ask about.
+2. **The woman of sixty told her what she had worked out herself, out loud, and is right.** Do not soften it into
+   advice, do not make her into an oracle, and do not let Ning Yan thank her. `thank` is 0 and stays 0.
+3. **The boy of sixteen refused to be the instrument and was not asked twice, and said so to her face.** Do not let a
+   later phase make him the hand that writes the line. **`Scribe` 0 · `thank` 0 · `nobody` under twelve · `eleven` under
+   sixteen · no bracket in sixty · no frame scene before ch 694.**
