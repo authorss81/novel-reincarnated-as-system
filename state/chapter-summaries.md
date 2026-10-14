@@ -1183,3 +1183,99 @@ on method B over sixteen chapters, average ~1,855.**
   made road and the walk home were made to agree with the chapter each belongs to, and **the boy of fifteen is at
   the wall for ch 553 only**; ch 554's terms are named with nobody there but the two of them, because she is at the
   wall overnight on the night of the twenty-fourth.
+
+---
+
+## Volume 10 Batch 0002 — *The List*, ch 555–570, day 1,629–1,696 — WRITTEN
+
+**Pressure: being counted. Batch midpoint ch 563, the irreversible step. Reversal and climax at ch 569–570. 27,575
+words of body prose on method B over sixteen chapters, average ~1,723.**
+
+### One line per chapter
+
+- **ch 555, day 1,629, the twenty-sixth of the month beginning 1,604 —** the night of the twenty-fifth and the walk
+  west, twenty-two miles with the bar, the arm open, and **four days is not a number**. She arrives at the post at the
+  second hour and finds the book still on the stone, thirty-one days on it.
+- **ch 556, the twenty-sixth — SEVERANCE 4, the batch's one bracket —** it comes at the ninth hour with the bar loaded
+  and nobody within nine feet; **a foreman with a finger counts her out of her own line of ten, twice, and says *you are
+  standing in the gap*. She cannot be counted where she stands.**
+- **ch 557, the twenty-seventh and twenty-eighth —** the ration is drawn against the number of hands; the boy of eleven
+  stops at the end of the line with the last loaf and puts it back; **she is not drawn, and being un-counted now costs
+  her bread.** She decides the answer is work measured by weight and length.
+- **ch 558, the twenty-ninth and thirtieth —** twenty-six miles out and back with nothing to eat, alone, and she asks
+  **what is it for** and gets **the same three terms** back word for word. She learns one-at-a-time in road and in
+  months: she is at the front of a queue she cannot size. **Decision: she goes on coming, and she goes on coming fed.**
+- **ch 559, the first and second of the month beginning 1,634 —** the heavy end of all nine stones, and then the ninth
+  one she carries alone on a bar in the dark with the count gone for twenty-two; **the foreman marks off forty feet,
+  the gang is finished, and the strongest body on nine days of road has no work.**
+- **ch 560, the third and fourth —** thirteen miles to a stone face at the head of a lane four miles west of the turn.
+  **Work measured by the weight in a barrow and by nothing else, at the store woman's rate.** She finds exactly the
+  trade she wanted and works out that it costs twenty-eight miles a day against the terms' forty-four.
+- **ch 561, the fifth and sixth —** a day and a night on a bench at the turn, six passages east and none of them back,
+  and **STRUCTURAL MOUTH ONE OF FIVE, a woman of about sixty, six short sentences:** *everything on that ground that
+  keeps a person shuts on a day, and nobody shuts it on anybody.* **A closing is not a punishment and is not about
+  her** — and it does not care who is standing in front of it.
+- **ch 562, the seventh to the ninth —** one hour on dressed stone in daylight and he looks at her once and says
+  nothing; she does not wake the boy of fifteen at the gate; **the waiting has no term in it at all and she pays for it
+  in forty-four miles**, and the largest line of the bill is a thing that did not happen.
+- **ch 563, the tenth and eleventh — MIDPOINT, IRREVERSIBLE STEP —** the boy of eleven asks *is that yours* and she says
+  yes; **she takes her own book off the flat stone in daylight with the keeper watching from the second rung**, and the
+  keeper looks at the bare stone for eleven seconds and goes in without a word. **The stone is a stone. It cannot be put
+  back the way it was.**
+- **ch 564, the twelfth and thirteenth —** eight leaves, a date and a place, four sentences she will not read again and
+  six empty ones that are hers; **the nib and the ink have been in her bag for two months and she does not write**; and
+  at night she cannot sleep with the book in her coat and holds it in her hand instead. **She is keeping something, for
+  the first time, and nobody asked her to.**
+- **ch 565, the fourteenth to the sixteenth —** **what does the word do**, and the three terms a third time. Then she sits
+  down a mile short of the wall with the sentence he gave her on the twenty-fifth and works out that **it is not a
+  queue: he does not have the rest of it while one stands open, and the one standing open is hers.**
+- **ch 566, the seventeenth to the nineteenth —** six items in a column and five of them behind the first question; the
+  direction the narrowness points is the one name she will not say; **not asking is not a holding, it is an absence**;
+  and at the ninth hour of the nineteenth she works out that the only thing in the world that would make him answer
+  sooner is the thing that would make it never get answered.
+- **ch 567, the twentieth to the twenty-second — THE HUNTER, ONCE —** four miles east of the gate at the fourth hour,
+  nine feet off, notebook shut. *Is a person who asks about a list safer than a person who does not know it is there.*
+  **I do not know.** And then: *you asked me, and that is the third question anybody has ever asked me that I would
+  rather not answer.* At the wall she asks **will you tell me when** and gets **there is a day** — four words and a
+  shape, where the first answer was one whole word. **She came for a yes and went home with a shape, and that is worse.**
+- **ch 568, the twenty-third and twenty-fourth —** forty-four miles in two nights with a third of a loaf and the count
+  gone to twenty-two on a made road at the second hour, and she got up. **Twenty-nine days, six stands, two hundred and
+  thirty-one miles.** The road has narrowed: not the road, her. She works out that the only way left is to stand there
+  and say nothing until he finishes. **Ning Wu is said out loud once, to nobody.**
+- **ch 569, the twenty-fifth to the second of the month beginning 1,694 —** **thirty-eight days and eleven stands and
+  four hundred and eighty-four miles**, and she does not say anything at any of them. At the seventh hour of the
+  twenty-ninth of the month beginning 1,664 he takes his hands off the plank and says **a day is not a thing you can
+  hurry**, and gives her **the nineteenth** — a number with no month on it. She decides to go back and stand until he
+  finishes his own sentence.
+- **ch 570, the third of the month beginning 1,694 — CLIMAX —** she asks the boy of fifteen to walk the two miles a
+  second time, for the first time since the twenty-second of a month beginning 1,604, because a date should be heard by
+  somebody else. He says nothing for an hour and then: **the nineteenth of the month beginning 1,784. Day 1,802. A
+  hundred and six days.** And the bill is hers: **the only thing keeping a list open for nine hundred years was nobody
+  looking at it, she looked, and the asking is what gave it a day.** Every asking from here narrows.
+
+### What the batch established, for whoever drafts Batch 0003
+
+1. **Severance 4, taken at ch 556 on day 1,629, the twenty-sixth of the month beginning 1,604, at the pinned 68-day
+   interval.** Cost, named once: **she cannot be counted where she stands.**
+2. **The closing day is named at ch 570: the nineteenth of the month beginning 1,784, day 1,802. 106 days remain at the
+   last page of this batch.** The reversal: **her asking set it, and the list was open only while nobody looked at it.**
+3. **Four questions are in the book.** *What else is on it* (24th of the month beginning 1,604) · *what is it for*
+   (30th) · *what does the word do* (15th of the month beginning 1,634) · *will you tell me when* (21st). **None is
+   answered and she is not allowed a fifth.**
+4. **The book's own rule held and was not broken: put down once at ch 538, moved once at ch 563, by her own hand.** The
+   stone is bare and it cannot be put back the way it was.
+5. **The Hunter is on the page once (ch 567) and his request stays pending.** `Ning Wu` **2**, in ch 566 and ch 568, in
+   her own want only, never said at a wall, never in Shuyin's mouth.
+6. **The hut light is still unlearned** and was not approached. ***Twenty-two days* is still OPEN** and was not placed.
+
+### Deviations and repairs, recorded rather than hidden
+
+- **The card's "nineteen days on a stone" at ch 563 was read against the pinned day table and became forty-five.** The
+  book went down at ch 538 on day 1,598 and ch 563 is day 1,643; 1,643 − 1,598 = 45. Ch 555 says thirty-one and ch 562
+  says forty-four, both derived the same way. The card's figure is the only one that disagrees and the days won.
+- **The card's "four miles to the bench on the store road" was read as four miles west of the turn, not four miles west
+  of the post.** `outline/volume-10.md` and ch 549 both put the turn nine miles east of the post, so the lane sits on
+  the store road thirteen miles from the post and the store itself fourteen. The batch's own arithmetic is written that
+  way at ch 557, 559 and 560.
+- **`about four seconds` was written six times and cut to 0**, and `about` came down from 206 to 92 (average 5.8 a
+  chapter, under the 7.0 line). `whole of` came down from 51 to 21 and `nobody` from 42 to 27.

@@ -2100,3 +2100,69 @@ page at `chapters/volume-10/`, not against a plan.**
   **Not one of them is a thank to a man of nine hundred years, and no card in Volume 10 may write one.**
 - **The batch's irreversible step is hers and it is spoken.** From ch 554 the list is closing. **Batch 0002 opens on a
   woman who has already asked, has got terms, and has not got one word of an answer.**
+
+---
+
+## VOLUME 10 BATCH 0002 (ch 555–570) — what the batch opened, moved and closed
+
+**Sixteen chapters, days 1,629–1,696, pressure *being counted*. Every line below is checked against the page at
+`chapters/volume-10/`, not against a plan.**
+
+### CLOSED by this batch
+
+1. **Whether she can be counted.** OPEN from ch 556. **CLOSED at ch 556 and shown at ch 557.** She cannot be counted
+   where she stands; a foreman with a finger goes over the place she is standing, twice, and says *you are standing in
+   the gap*. **The cost is real and it is bread:** a gang fed by a number of hands cannot feed her, and the work she
+   found to replace it does not notice her either.
+2. **Whether the flat stone is a safe keeping.** OPEN since ch 538. **CLOSED at ch 563, and it closed badly.** She took
+   the book off it in daylight with the keeper watching. **The stone is a stone and it cannot be put back the way it
+   was**, because a keeping that has been asked about is not kept the same way twice.
+3. **What one question at a time is.** OPEN since ch 554. **CLOSED at ch 565 and it is the batch's engine.** It is not a
+   queue. **He does not have the rest of it while one question stands open, and the one standing open is hers.** Every
+   asking narrows; asking twice is the only lever and it closes everything.
+4. **Whether a closing is a punishment.** NEW at ch 557. **CLOSED at ch 561 by a woman of sixty at a bench**, in six
+   sentences: a keeping shuts on a day and nobody shuts it on anybody. **Not a punishment, and not about her** — and
+   worse than that, because it does not care who is standing in front of it.
+5. **Whether she would ask the boy of fifteen a second time.** OPEN from ch 553. **CLOSED at ch 567 (she did not) and
+   reopened deliberately at ch 570 (she did, once, because a date should be heard by somebody else).**
+
+### OPEN, and now carried into Batch 0003
+
+6. **THE CLOSING DAY. Day 1,802, the nineteenth of the month beginning 1,784. 106 days remain at day 1,696.** Named at
+   ch 570, **caused by her asking**, and every asking from that day narrows what can still be found.
+7. **Four questions standing in the book, none answered, and she is not allowed a fifth.** The first is holding the rest
+   of it shut. **Batch 0003 must not resolve any of them**; the volume's paying beat is ch 585.
+8. **The lever.** She has found that asking twice is the only thing that would make him get to the first question
+   sooner, and that it is also the only thing that would make it never get answered. **She has decided not to pull it,
+   on purpose.** A live wire, and it belongs to ch 585 rather than to an earlier chapter.
+9. **The hundred and six days and no work that pays.** She has no wages, no place, a stone face fourteen miles off, and
+   forty-four miles a question. **The brother's name is still unsaid at a wall and she knows that not saying it is an
+   absence and not a holding** — and that is exactly the thing ch 572's gift and ch 585's naming are about.
+10. **What *lost* does.** Still unanswered. Four nights and one subtraction across two batches.
+11. **The hut light, a hundred yards off the wall.** **STILL OPEN and deliberately untouched by this batch.** Four
+    questions she will not spend the asking on.
+12. **Twenty-two days.** **STILL OPEN**, unplaced, and no card in this batch equated it to a dated interval.
+13. **Whether the work pays for anything.** OPEN since ch 543. Narrowed at ch 568 and not answered: **it came out of
+    her on the eighth and the twenty-sixth of the month beginning 1,604, both times on listed work cleared past the
+    line, and not once on any work a store is paying a figure for.**
+
+### CARRIED and untouched
+
+14. The three Volume 9 costs and the first Volume 10 cost — **carried and shown, not re-derived.**
+15. The paper against her ribs, opened alone and never named — **not touched, not described.** There are two things
+    against her ribs now and she has called neither of them anything.
+16. The plate worn and undescribed — `plate` **0**. The register still *reconciled* — **0**. *kiln-born* **0**. The
+    eleven, the four months, the ch 150 refusal — **not raised.**
+17. The Hunter's request pending · the tenth part not given · the surface answer never re-voiced · `Ledger` **0** · the
+    year of non-forgiveness **0 mentions**.
+18. **Him.** **Not on the page in this batch at all.** `Yuan` **0**. He opens no wall, no figure of what is left of him is
+    stated, and his survival and old age are still unthanked and unpaid for. **The sixth frame scene at ch 584 is
+    untouched and Batch 0003 owns it.**
+
+### Two things the batch did that Batch 0003 must not undo
+
+- **She is keeping something for the first time in her life and nobody asked her to**, and she has decided not to write
+  in the six empty leaves. Both are hers and both must still be hers at ch 570 of Volume 10.
+- **The bill at the midpoint is hers and it is enormous:** the only thing keeping the list open for nine hundred years
+  was nobody looking at it, she asked, and she has a hundred and six days to find a brother with an instrument that
+  narrows every time she uses it. **Nothing is undone and nothing is softened and ch 536 stands.**
