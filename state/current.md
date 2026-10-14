@@ -1,14 +1,14 @@
 # Current State
 
-**As of:** Volume 6 open and Batch 0001 written, ch 313. **VOLUME 1 CLOSED. VOLUME 2 CLOSED AND AUDITED. VOLUME 3 CLOSED AND AUDITED — CH 1–178 ON THE PAGE. VOLUME 4 CLOSED AND AUDITED — CH 179–238 ON THE PAGE. VOLUME 5 CLOSED AND AUDITED — CH 239–298 ON THE PAGE. VOLUME 6 IS OPEN — CH 299–313 ON THE PAGE, BATCH 0001 WRITTEN AGAINST ITS CARDS. THE NEXT PHASE IS VOLUME 6 BATCH 0002 (ch 314–329) AND IT HAS ITS OWN PROMPT AT `workspace/volume-06-batch-0002/PROMPT.md`.**
+**As of:** Volume 6 open and Batch 0002 written, ch 329. **VOLUME 1 CLOSED. VOLUME 2 CLOSED AND AUDITED. VOLUME 3 CLOSED AND AUDITED — CH 1–178 ON THE PAGE. VOLUME 4 CLOSED AND AUDITED — CH 179–238 ON THE PAGE. VOLUME 5 CLOSED AND AUDITED — CH 239–298 ON THE PAGE. VOLUME 6 IS OPEN — CH 299–329 ON THE PAGE. BATCH 0001 (ch 299–313) WRITTEN AND REPAIRED; BATCH 0002 (ch 314–329) WRITTEN AGAINST `workspace/volume-06-batch-0002/PROMPT.md`. THE NEXT PHASE IS VOLUME 6 BATCH 0003 (ch 330–345) AND IT HAS ITS OWN PROMPT AT `workspace/volume-06-batch-0003/PROMPT.md`.**
 
 ## How to read this file
 
 This file is **append-only and long, and most of it is history.** You do not need all of it to write.
 
-- **For a cold start, read four things, in order:** ***Who is where at end of chapter 313*** (the live position,
-  written at the Volume 6 Batch 0001 draft), ***Who is where at end of chapter 298*** (where Volume 6 opened
-  from, written at the Volume 5 Batch 0004 close), ***What
+- **For a cold start, read four things, in order:** ***Who is where at end of chapter 329*** (the live position,
+  written at the Volume 6 Batch 0002 draft), ***Who is where at end of chapter 313*** (where Volume 6 Batch
+  0002 opened from), ***What
   Volume 3 must not do*** (further down), which Volume 4 inherited in full and which Volume 5 inherited through
   it, ***Who is where at end of chapter 238*** (below that one), which is where Volume 5 started, and ***Who is
   where at end of chapter 252*** (the Volume 5 Batch 0001 record, kept because Volume 5's own cold-reader block
@@ -61,13 +61,13 @@ This file is **append-only and long, and most of it is history.** You do not nee
   the day table and the planned plot did not move, and no chapter in Volumes 1–4 was opened.** The batch is
   **25,897 words of body prose over fourteen chapters, average ~1,850**, three chapters under the 1,800 guide
   (241, 243, 246) and none above it. **A Batch 0002 drafter reads the repaired chapters, not the review log.**
-- **Volume:** 6 of 16 — **The Real Realm (ch 299–360)** — outlined in `outline/volume-06.md`, **OPEN.** BATCH 0001 (ch 299–313) WRITTEN AND REVIEWED AND REPAIRED — **24,531 words of body prose over fifteen chapters, average ~1,635, day 621 to day 645, ONE bracketed layer line, at ch 310.** Drafted against the fifteen cards at `outline/batches/volume-06-batch-0001.md`; every card beat is on the page. **Seven chapters reopened at the review and closed again — ch 300, 304, 306, 308, 310, 311 and 313: ch 311's day-rate arithmetic reconciled against ch 310 and the card, one instance of authorial scaffolding cut, six verbatim repeats broken, one distance hedged. No beat, day, title, stage, bracket or planned event moved; full record in `state/continuity.md` under *Volume 6 Batch 0001 (ch 299–313) — REVIEW REPAIR*.** Volume 5 remains closed and audited: — **Mortal Ash (ch 239–298)** — outlined in `outline/volume-05.md`, **CLOSED AND AUDITED.** BATCH 0001 (ch 239–252) WRITTEN AND REPAIRED — 25,897 words of body prose over fourteen chapters, day 471 to day 506, ZERO bracketed layer lines in the batch. BATCH 0002 (ch 253–267) WRITTEN AND REPAIRED — 25,441 words of body prose over fifteen chapters, average ~1,696, day 507 to day 521, ONE bracketed layer line, at ch 258. BATCH 0003 (ch 268–283) WRITTEN AND REPAIRED — 22,771 words of body prose over sixteen chapters, average ~1,423, day 522 to day 580, ONE bracketed layer line, at ch 275. BATCH 0004 (ch 284–298) WRITTEN AND REPAIRED — 27,157 words of body prose over fifteen chapters, average ~1,810, day 581 to day 620, ONE bracketed layer line, at ch 292, and Volume 5's bracket budget of three is spent. Volume 5 file set ch 239–298: **101,266 words of body prose over sixty chapters after the close review's five recasts** (101,204 after the volume close, 101,160 before it). **All five figures were re-derived against the chapters at the close review; the per-batch totals the close left at their pre-close values are corrected here.** Volume 4 remains closed and audited: Batch 0001 (ch 179–192), 28,607 · Batch 0002 (ch 193–208), 31,900 · Batch 0003 (ch 209–222), 28,581 · Batch 0004 (ch 223–238), 31,484 — file set 120,572 words. Volume 3 file set 135,014.
+- **Volume:** 6 of 16 — **The Real Realm (ch 299–360)** — outlined in `outline/volume-06.md`, **OPEN.** BATCH 0002 (ch 314–329) WRITTEN — **24,398 words of body prose over sixteen chapters, average ~1,525, day 646 to day 700, ONE bracketed layer line, at ch 321, Golden Core 5 at ch 321, the Hand spent for the first time in this book at ch 325, and the second vouching agreed at ch 329.** Drafted against `outline/volume-06.md` and `workspace/volume-06-batch-0002/PROMPT.md`; every pinned item in that prompt is on the page and it has not been through review. BATCH 0001 (ch 299–313) WRITTEN AND REVIEWED AND REPAIRED — **24,531 words of body prose over fifteen chapters, average ~1,635, day 621 to day 645, ONE bracketed layer line, at ch 310.** Drafted against the fifteen cards at `outline/batches/volume-06-batch-0001.md`; every card beat is on the page. **Seven chapters reopened at the review and closed again — ch 300, 304, 306, 308, 310, 311 and 313: ch 311's day-rate arithmetic reconciled against ch 310 and the card, one instance of authorial scaffolding cut, six verbatim repeats broken, one distance hedged. No beat, day, title, stage, bracket or planned event moved; full record in `state/continuity.md` under *Volume 6 Batch 0001 (ch 299–313) — REVIEW REPAIR*.** Volume 5 remains closed and audited: — **Mortal Ash (ch 239–298)** — outlined in `outline/volume-05.md`, **CLOSED AND AUDITED.** BATCH 0001 (ch 239–252) WRITTEN AND REPAIRED — 25,897 words of body prose over fourteen chapters, day 471 to day 506, ZERO bracketed layer lines in the batch. BATCH 0002 (ch 253–267) WRITTEN AND REPAIRED — 25,441 words of body prose over fifteen chapters, average ~1,696, day 507 to day 521, ONE bracketed layer line, at ch 258. BATCH 0003 (ch 268–283) WRITTEN AND REPAIRED — 22,771 words of body prose over sixteen chapters, average ~1,423, day 522 to day 580, ONE bracketed layer line, at ch 275. BATCH 0004 (ch 284–298) WRITTEN AND REPAIRED — 27,157 words of body prose over fifteen chapters, average ~1,810, day 581 to day 620, ONE bracketed layer line, at ch 292, and Volume 5's bracket budget of three is spent. Volume 5 file set ch 239–298: **101,266 words of body prose over sixty chapters after the close review's five recasts** (101,204 after the volume close, 101,160 before it). **All five figures were re-derived against the chapters at the close review; the per-batch totals the close left at their pre-close values are corrected here.** Volume 4 remains closed and audited: Batch 0001 (ch 179–192), 28,607 · Batch 0002 (ch 193–208), 31,900 · Batch 0003 (ch 209–222), 28,581 · Batch 0004 (ch 223–238), 31,484 — file set 120,572 words. Volume 3 file set 135,014.
 - **Volume 5 goal**, fixed by `outline/series.md` §9: *In this volume, Ning Yan must finish the world they came from, or leaving it costs everyone she left standing in it.*
-- **Chapter written:** **1–313. THE NOVEL RUNS TO CHAPTER 1000. VOLUME 6 IS OPEN AT CH 313.**
-- **Next phase:** **Volume 6 Batch 0001 IS WRITTEN — ch 299–313 are on the page, against `outline/volume-06.md` and the fifteen cards at `outline/batches/volume-06-batch-0001.md`. The next phase is Volume 6 Batch 0002, ch 314–329, pressure *work without hire*, and its prompt is `workspace/volume-06-batch-0002/PROMPT.md`. Read it and do not rewrite it.** **The volume outline is the authority and is not to be re-planned.** This record does not write a `.done` marker, which `PHASE_SYSTEM.md` gives to the controller alone. This record does not write a `.done` marker, which `PHASE_SYSTEM.md` gives to the controller alone. **The blocker recorded at the Volume 4 close and at the Volume 5 planning close is RESOLVED — `workspace/volume-04-close-record/`, `workspace/volume-05-batch-0001/` and `workspace/volume-05-close/` all hold `.done` markers (commits `88ddc33`, `3e32724` and `baca347`) and none is deferred. Do not raise it again.**
+- **Chapter written:** **1–329. THE NOVEL RUNS TO CHAPTER 1000. VOLUME 6 IS OPEN AT CH 329.**
+- **Next phase:** **Volume 6 Batch 0001 IS WRITTEN AND REPAIRED — ch 299–313 are on the page, against `outline/batches/volume-06-batch-0001.md`. Volume 6 Batch 0002 IS ALSO WRITTEN — ch 314–329, pressure *work without hire*, drafted against `outline/volume-06.md` and `workspace/volume-06-batch-0002/PROMPT.md`, and every pinned item in that prompt is on the page. The next phase is Volume 6 Batch 0003, ch 330–345, pressure *sending and being sent for*, and its prompt is `workspace/volume-06-batch-0003/PROMPT.md`. Read it and do not rewrite it.** **The volume outline is the authority and is not to be re-planned.** This record does not write a `.done` marker, which `PHASE_SYSTEM.md` gives to the controller alone. **The blocker recorded at the Volume 4 close and at the Volume 5 planning close is RESOLVED — `workspace/volume-04-close-record/`, `workspace/volume-05-batch-0001/` and `workspace/volume-05-close/` all hold `.done` markers (commits `88ddc33`, `3e32724` and `baca347`) and none is deferred. Do not raise it again.**
 - **Point of view:** close third on Ning Yan; every line Yuan speaks is written in the present tense. **The close audit has now answered the two-volumes-of-sixteen protagonist question in writing — see *The protagonist, answered* below and in `workspace/volume-04-close/SUMMARY.md`.**
-- **In-world date:** **day 645** of the run's own clock at ch 313 — the second of a month, on flat ground about a mile and a half east of a mill whose wheel has not turned, **past the last working point, in no employment, with no season and no wages, two and a half coppers a day.** **Volume 6 Batch 0001 ran day 621 to day 645 — the eighth of a month to the second of the next.** **There is no pay-cycle past the mill and the batch did not revive one: the seventeenth fell on day 630 and nothing happened on it, in one sentence at ch 304, and ch 298 had already spent a pay-day producing nothing.** **Day 620** of the run's own clock was ch 298 — the seventh of a month, past the last working point of the line, on the far side, **out of employment, with no season and no wages.** **Batch 0001 ran day 471 to day 506 and its three pay-days were day 480 (the seventeenth), day 490 (the twenty-seventh) and day 500 (the seventh). Batch 0002 ran day 507 to day 521 and its two pay-days were day 510 (the seventeenth) and day 520 (the twenty-seventh). Batch 0003 ran day 522 to day 580 and its pay-days were day 530, 540, 550, 560, 570 and 580. Batch 0004 ran day 581 to day 620 and its pay-days were day 590, 600 and 610 — day 600 is also the pinned Golden Core 3 date — and the next pay-day after the season closed, day 620, produced nothing.** The season's road shut on day 117 and reopened on day 254. **Day 0 is the last day of the thaw** (canon change 30). **Day 299, 329, 359 and 389 were the attendances of the run so far in this stretch and all four fell on the sixteenth; day 389 was the last one and it is one sentence inside ch 225.**
-- **The month rule.** Months are thirty days and a month begins every thirty days, **so the month-day of any day is `((day − 134) mod 30) + 1`.** Day 134 was the first of a month. **Days 374–403 read day − 373 · days 404–433 read day − 403 · days 434–463 read day − 433 · days 464 onward read day − 463.** (The rule as it stood before this audit said "days 374 to 463 read day − 373", which was wrong for days 404 onward, and is corrected here and in `state/open-threads.md`.) The months Volume 4 lands in began on days 254 · 284 · 314 · 344 · 374 · 404 · 434. **The month Volume 6 Batch 0001 opens in began on day 614 and the next begins on day 644.**
+- **In-world date:** **day 700** of the run's own clock at ch 329 — the twenty-seventh of a month, on flat ground about three miles east of a mill whose wheel has not turned, **past the last working point, in no employment, with no season and no wages, two and a half coppers a day at a gate, and entered in a second office's materials book since the twenty-sixth.** **Volume 6 Batch 0002 ran day 646 to day 700 — the third of a month to the twenty-seventh of the next.** **There is no pay-cycle past the mill and the batch did not revive one.** **Day 645** of the run's own clock was ch 313 — the second of a month. **Volume 6 Batch 0001 ran day 621 to day 645 — the eighth of a month to the second of the next**, and the seventeenth fell on day 630 and nothing happened on it, in one sentence at ch 304. **Day 620** of the run's own clock was ch 298 — the seventh of a month, past the last working point of the line, on the far side, **out of employment, with no season and no wages.** **Batch 0001 ran day 471 to day 506 and its three pay-days were day 480 (the seventeenth), day 490 (the twenty-seventh) and day 500 (the seventh). Batch 0002 ran day 507 to day 521 and its two pay-days were day 510 (the seventeenth) and day 520 (the twenty-seventh). Batch 0003 ran day 522 to day 580 and its pay-days were day 530, 540, 550, 560, 570 and 580. Batch 0004 ran day 581 to day 620 and its pay-days were day 590, 600 and 610 — day 600 is also the pinned Golden Core 3 date — and the next pay-day after the season closed, day 620, produced nothing.** The season's road shut on day 117 and reopened on day 254. **Day 0 is the last day of the thaw** (canon change 30). **Day 299, 329, 359 and 389 were the attendances of the run so far in this stretch and all four fell on the sixteenth; day 389 was the last one and it is one sentence inside ch 225.**
+- **The month rule.** Months are thirty days and a month begins every thirty days, **so the month-day of any day is `((day − 134) mod 30) + 1`.** Day 134 was the first of a month. **Days 374–403 read day − 373 · days 404–433 read day − 403 · days 434–463 read day − 433 · days 464 onward read day − 463.** (The rule as it stood before this audit said "days 374 to 463 read day − 373", which was wrong for days 404 onward, and is corrected here and in `state/open-threads.md`.) The months Volume 4 lands in began on days 254 · 284 · 314 · 344 · 374 · 404 · 434. **The months Volume 6 Batch 0001 and Batch 0002 span began on days 614 and 644, and the next begins on day 674 — which is the pinned Golden Core 5 date and which fell inside Batch 0002 at ch 321.**
 
 ## Who is where at end of chapter 252 — VOLUME 5 BATCH 0001 DRAFTED (cold reader starts here)
 
@@ -102,6 +102,99 @@ Full record: `state/continuity.md` under ***Established facts, Volume 5 Batch 00
 - **The Hunter.** One card, ch 297, nine feet off a track, one true sentence, no question, no name on anything he has written. **His request is still pending.** The line's own people still do not know she exists.
 - **Untouched:** the relicensed licence never opened; the register read once and never corrected; the Clay Plate worn against her ribs; **MEMBER ABSENT ×3, unraised**; the year of non-forgiveness carrying and untouched; the three sponsors silent; **Feng never on the page**, no second Lung, no second appointment; nothing above the Standing Office of the Second Account named; *kiln-born* zero; what became of the eleven not raised; the ch 150 refusal not softened. **The surface answer paid once at ch 267 and never re-voiced. The tenth part is not given.**
 - **The volume is CLOSED AND AUDITED.** Full table, every repair and the protagonist answer are in **`## Volume 5 close audit — CLOSED`** below. **`outline/volume-06.md` now exists and was written and then repaired by the Volume 6 planning phase — see `## Volume 6 planning — re-run, verified, and eight defects repaired at source` below, and `## Volume 6 planning — close review repair` after that.** Next: **Volume 6 Batch 0001's chapters, ch 299–313**, drafted against that outline and against the fifteen cards already written at `outline/batches/volume-06-batch-0001.md`.
+
+## Who is where at end of chapter 329 — VOLUME 6 BATCH 0002 WRITTEN (cold reader starts here)
+
+**Day 700 — the twenty-seventh of a month. She is on flat ground three miles east of a mill whose wheel has not
+turned since before she came, in no employment, with no season, with a gate at two and a half coppers a day and
+a furnace she can keep in a shed with a hand's worth of her own wall's price paid for it.** Full record in
+`state/continuity.md` under
+***Established facts, Volume 6 Batch 0002 (ch 314–329) — WORK WITHOUT HIRE*** and ***Volume 6 running
+ledger — at end of ch 329***, which carries the batch's own day table, money table and construction budget.
+
+- **Ning Yan — GOLDEN CORE 5**, taken day 674 (the first of a month) at her own order, in the open, in the mill
+  yard at about the fourth hour, with the ring out on the flat stone and a stack of trays against the wall
+  behind her, where nothing is announced. **The batch's only bracket**, and bracket 2 of Volume 6's six.
+  **Cost, named once, permanent: the cold left her hands first.** She stops being cold the way a stone is cold
+  and starts being warm the way a furnace is warm, **and she can no longer tell by feel whether a night will
+  hurt her.** Paper still Foundation the first stage, never touched.
+- **Body:** short breath four counts everywhere; **right index gone, four fingers' grip**; **right arm open half
+  the time, permanent, since ch 288**; nine of eleven holds; turn gone; middle-bank method; aperture cracked
+  through and permanent; not hungry. **Eighteen.** **Her hands are warm and her hand is no longer an
+  instrument.**
+- **What the batch changed.** She went and found work that is not wages and found that it is worse than wages and
+  better than wages at the same time; **cleared two listed jobs, each settling merit, each share told before
+  spent and gone out of her foundation**; took Golden Core 5 and lost the feeling in her hands; **watched the
+  Hand be spent for the first time in this book** — a cart's turning moved through her column so that a box went
+  on instead of waiting a season — **and on the twenty-sixth of a month, in daylight, at a gate, saying her name
+  out loud and asking for a thing, agreed to be vouched for a second time, by a second office, against
+  materials.** From that hour leaving the reach does not take her out of the books.
+- **The irreversible decision, ch 329.** She said *Ning Yan, of Lowwater, I am asking to be put in the materials
+  account of the office that sets this board*, out loud, in daylight, at a yard gate, asking nothing. He wrote
+  it on a strip of cloth and turned it face down on a bench because that is what a strip is for.
+  **What it closes:** being a woman who works off a wall with no name on anything. **What it costs, in his words
+  and she did not argue with one of them:** it is in a book, the book is copied, material is copied further than
+  days are, and it cannot be taken back by her, by leaving, or by walking a season's road the other way.
+  **A second vouching is not the same thing twice.** Nobody persuaded her. She had been sure for three days.
+- **The Hand, spent at ch 325, and what it moved him toward.** A round is a line; a hand in her line put his hand
+  in a line about a cart; the cart went out of a yard nine miles east on the thirteenth of a month with her
+  twenty-three pieces on it, on a day the yard had not put it out, and **a man with ink on the side of his hand
+  wrote a line with nothing against it and did not ask her one question.** He now knows in about nine seconds
+  that he can get into any line on that ground, and there is no place on it where he cannot.
+- **Merit settles twice, both on listed work cleared and not on a death.** **First, ch 316:** the cold came up
+  through the base twice off a lane crossing; the share was for **one line in a record an office reads — that
+  the work at the lane crossing was cleared by the person whose days are in the book on the floor above a
+  counter** — told before spent, gone out of her foundation, not coming back, and **what it cost on the page
+  was the ring, which went out cold on the eleventh of a month and had not been lit since the seventh.**
+  **Second, ch 320:** twice as big, off twenty feet of retaining wall; the share was for **the reach to put a
+  thing on that ground that is not hers and not his** — told before spent, named out loud at a ditch **before**
+  the cart went nine days later — and **what it cost was the answering: the ring stopped answering her and has
+  not answered since.** `tribulation` zero. **No figure of what is left of him is on any page.**
+- **The new machinery, established once and used after that.** A **stone-and-brick works** about three miles east
+  of the mill: a mortared wall, two piers and a beam, eight or nine men at an open end, a board on the wall
+  inside the gate, a cart with its shafts down and a stone under each wheel. **The board reads: LISTED WORK. PAID
+  IN WHAT THE WORK WAS MADE OF. NO HIRE. NO SEASON. NO NAME ON THE LINE. TAKE IT DOWN AND IT IS YOURS TO FINISH.
+  PUT IT BACK AND IT WAITS FOR THE NEXT ONE.** Each line carries a job, a number of days, and a number of boxes.
+  A man behind the stack, and a thinner man with ink on the side of his right hand who keeps the board. **Both
+  are right, both stay right, and being right is what costs her.**
+- **The second office — never named, in any mouth, in any chapter.** It sets the lines the board carries, it
+  keeps **a materials book of what the ground owes and what has been paid on it**, it **copies**, and it has a
+  **list of its own that comes down about four times a year and is not put up on a wall — it is offered.** It is
+  not the counter and not the floor above the counter and not the man with the brush. Its entry was made at the
+  eighth hour of the twenty-sixth of a month on a strip of cloth with a ruled line and a line across near the
+  bottom, cut at the bottom edge with a knife.
+- **The rule she worked out and now works on, ch 318.** The gate pays by the reach, and the reach is what her
+  body can open on a day, and **it goes down at every stage**. The board pays by the job, and the job does not
+  get smaller when she does. **A gate does not settle anything and a listed job settles twice — once when it is
+  finished, once when it is closed.** So she works the gate for bread and the board for fire, and there is no
+  longer one price on her.
+- **The money, the whole of it.** Two and a half a day at the gate, at five coppers a reach on half a reach.
+  Three coppers for a third of a sack, which is four days of the ring. Nine for a full charge, which is four days
+  at a gate and does not come in a size one arm can carry. **A box of what a job was made of is four days of the
+  ring.** Twenty-three delivered out of twenty-five, because a block went into a ditch and did not come out.
+  A listing is four days and two boxes; a listing is the yard's four and not hers. **Six miles to the fire and
+  back, and eleven minutes a lump, every time.**
+- **The furnace.** Lit full on the nineteenth of a month for the first time in five months — **and it answers
+  nothing, because the answering went out of her on the twenty-fourth of the last month.** The ground under it
+  gives nothing back and never has and she has never said so out loud.
+- **Pei, the counter, the copying floor, the sorter, the carter, the two yard men:** all right, all correct,
+  none of them a villain. **The copying floor is not entered again in this batch.** Pei's gate is still the only
+  coppers on that ground and she still works it.
+- **Yuan.** **Five sentences in sixteen chapters, one utterance each at ch 316, 320, 326 and 329**, every one
+  present tense, none buying or advising or explaining anything. **No figure of him on any page.** Ledger never
+  ordered, held, priced or refused or thought about. **Hand spent once, at ch 325 — and not again.** Merit twice.
+  Readable without her and therefore findable; the two ch 272 losses still gone; his date of the morning he died
+  still gone. **The sustained scene in which he is on the page in his own right is ch 338, *The Room With Doors*,
+  in Batch 0003, and nothing in this batch moves, duplicates or pre-spends it.**
+- **Untouched and unraised:** the register still reads *reconciled* and **is not read anywhere in ch 314–329** ·
+  the Clay Plate worn and **not described** (`plate` returns zero) · the relicensed licence **never opened**
+  (`licence` and `license` both return zero) · MEMBER ABSENT carried and never raised · **the year of
+  non-forgiveness carrying and not mentioned once in these sixteen chapters** · Shen Xiu unforgiven · the three
+  sponsors silent · what became of the eleven not raised · **no office named at all, and none above the copying
+  floor** · the surface answer not re-voiced · the seventh condition never listed, counted or referred to · the
+  four erased months carried and never named · the claim not reopened · Hou Sanliang paid, never met, not on the
+  page · Ning Wu does not appear · **Bai Zhu is off the page in this batch entirely and his request is still
+  pending** · Wei Ran does not appear · no harem, nothing a romance.
 
 ## Who is where at end of chapter 313 — VOLUME 6 BATCH 0001 WRITTEN (cold reader starts here)
 

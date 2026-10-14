@@ -26,15 +26,20 @@ day 471 to day 620, **three bracketed layer lines in sixty, at ch 258, 275 and 2
 `outline/volume-05.md` is written and was the authority for Volume 5; `outline/batches/volume-05-batch-0001.md`
 was the card file Batch 0001 was drafted against and every card's beat is on the page. Batches 0002–0004 were
 drafted against their own prompts and every pinned item in each is on the page.
-**VOLUME 6 IS OPEN AND BATCH 0001 IS WRITTEN. Next to write is Batch 0002's chapters (ch 314–329), pressure
-*work without hire*, against `outline/volume-06.md` and `workspace/volume-06-batch-0002/PROMPT.md`.**
+**VOLUME 6 IS OPEN AND BATCHES 0001 AND 0002 ARE WRITTEN. Next to write is Batch 0003's chapters (ch 330–345), pressure *sending and being sent for*, against `outline/volume-06.md` and `workspace/volume-06-batch-0003/PROMPT.md`.**
 **Batch 0001 (ch 299–313) is on the page: 24,531 words of body prose over fifteen chapters, average ~1,635,
 day 621 to day 645, ONE bracketed layer line at ch 310, Golden Core 4 at ch 310, the irreversible decision at
-ch 308 and the unrescued physical risk at ch 307.** `outline/volume-06.md` is the authority for Volume 6 and
-the card file `outline/batches/volume-06-batch-0001.md` is on disk and every card beat in it is on the page. **A later version of this block said that `outline/volume-06.md` did not exist, must
-not exist until that phase wrote it, and that no Volume 6 batch directory could be created. Every clause of that
-was false once the planning phase finished, and it is struck here — a phase that trusted it would have refused to
-open the volume.** Neither file is to be re-derived from this file; read both.
+ch 308 and the unrescued physical risk at ch 307.**
+**Batch 0002 (ch 314–329) is on the page: 24,398 words of body prose over sixteen chapters, average ~1,525,
+day 646 to day 700, ONE bracketed layer line at ch 321, Golden Core 5 at ch 321, the Hand spent for the first
+time in this book at ch 325, and the volume's midpoint and this batch's irreversible decision at ch 329 — a
+second vouching, by a second office, against materials, agreed in daylight at a gate. It has not been through
+review.**
+Full record for Batch 0002 in `state/continuity.md` under ***Established facts, Volume 6 Batch 0002
+(ch 314–329) — WORK WITHOUT HIRE***, ***Volume 6 running ledger — at end of ch 329*** and ***Construction budget —
+Volume 6 Batch 0002 (ch 314–329), measured by grep, not promised***.
+`outline/volume-06.md` is the authority for Volume 6 and the card file `outline/batches/volume-06-batch-0001.md`
+is on disk and every card beat in it is on the page. **Neither is to be re-derived from this file; read both.**
 **The blocker recorded here at the Volume 4 close and repeated at the Volume 5 planning close is RESOLVED**:
 `workspace/volume-04-close-record/`, `workspace/volume-05-batch-0001/` and `workspace/volume-05-close/` all now
 hold `.done` markers written by the controller (commits `88ddc33`, `3e32724` and `baca347`) and none of them is
@@ -684,3 +689,48 @@ ledger — at end of ch 313***.
   299–313.
 - **No new enemy and no named villain.** The sorter, the clerk, Pei, the copying floor and the carter are all
   right throughout. **No harem and nothing a romance.**
+
+## Volume 6 Batch 0002 (ch 314–329) — what this batch added, live going into Batch 0003
+
+**Sixteen chapters, 24,142 words of body prose, average ~1,509, day 646 to day 700. ONE bracketed layer line, at
+ch 321.** Pressure: **work without hire** — not keeping, not debt, not family paper, not ash, not a ration, not a
+hiring, not a tending, not a crossing, not an audit, not an examination, not a hunt, not a signature, not a
+confinement, and not Batch 0003's sending and being sent for. Full record in `state/continuity.md`.
+
+| Thread | Owner | Planned resolution | State |
+| --- | --- | --- | --- |
+| **The listed clearing** | Ning Yan | **Vol 6, Batch 0002** | **SETTLED TWICE AND THE BATCH'S ENGINE.** A stone-and-brick works three miles east of the mill: a board on the wall inside the gate, **LISTED WORK. PAID IN WHAT THE WORK WAS MADE OF. NO HIRE. NO SEASON. NO NAME ON THE LINE.** A job, a number of days and a number of boxes. **When a listed thing is finished something settles out of the ground it was done on; a gate settles nothing.** **A listing pays in fire and costs fire, so it pays for itself and the rest of the box is the money** |
+| **The gate at half a mile east of the mill** | far side | **Vol 6, carried** | **RIGHT THROUGHOUT AND STILL THE ONLY COPPERS ON THAT GROUND.** Five coppers a reach, half a reach, **two and a half a day**, paid in her own hand at the seventh hour out of a fold of cloth in the inside of the door frame, with the count done by Pei out loud. **The gate pays by the reach and the reach goes down at every stage. The board pays by the job and the job does not get smaller when she does** |
+| **The furnace of her own** | Ning Yan | **Vol 6, carried** | **FULL AND ANSWERING NOTHING.** Lit full on the nineteenth of a month for the first time in five months, out of twenty-three pieces of dressed stone. **The answering went out of her on the twenty-fourth of the last month and no material in the world puts it back.** Three coppers every fourth day, six miles to the fire and back, eleven minutes a lump. **The ground under it gives nothing back and never has and she has never said so out loud** |
+| **Merit, twice** | Yuan | **Vol 6, Batch 0002** | **SETTLED TWICE**, each on listed work cleared and not on a death, each share told before spent, each gone out of her foundation and not coming back. **The first (ch 316) was for one line in a record an office reads — that the lane crossing was cleared by the person whose days are in the book on the floor above a counter — and it cost the ring.** The second (ch 320) was for the reach to put a thing on that ground that is not hers and not his, named out loud at a ditch nine days before it was spent, **and it cost the answering.** `tribulation` zero; nothing killed in either; **no figure of what is left of him on any page** |
+| **Hand** | Yuan | **Vol 6, ch 325 / ch 338 / ch 355** | **SPENT ONCE, at ch 325.** A round is a line; a hand in her line put his hand in a line about a cart; **the cart went out of a yard nine miles east on the thirteenth of a month, on a day the yard had not put it out, with twenty-three pieces on it for a woman on no book anywhere.** Told before spent, nine days earlier, out loud, at a ditch. **What it moved him toward:** he has proved in about nine seconds that he can get into any line on that ground, and there is no place on it where he cannot. **What it cost somebody else:** a hole on a yard's board with nothing against it, which the listing man will have to answer for in a month with his mark on the end of it, and which will most likely take the cart off his round. **Nothing in Volume 6 kills anybody for it.** **Ch 338 (addressed as a holder) and ch 355 (refused) are Batch 0003's and Batch 0004's** |
+| **The second vouching** | Ning Yan | **Vol 6, ch 329 / ch 357** | **AGREED AT CH 329, THE VOLUME'S MIDPOINT.** A **second office**, distinct from the one on the copying floor above the counter, entered against **materials** and not against a wage, by a strip of cloth about as wide as a hand with a line ruled down it and a line across near the bottom, cut at the bottom edge with a knife. **She said her name out loud, in daylight, at a gate, the way she has said it at every trestle, and asked nothing.** It is in a book; the book is copied; material is copied further than days are; **it cannot be taken back by her, by leaving, or by walking a season's road the other way. From that hour leaving the reach no longer takes her out of the books.** **Ch 357 is the consequence — that it was copied upward in a hand she has never seen — and neither chapter states the other** |
+| **The two books** | series | **Vol 6, carried forward** | **A running column of days in a hand one flight above a counter, and a materials account in a second office nine miles east.** They do not see each other and she sees neither. **Both are copied upward, by hand, one sheet at a time, by people doing a job** |
+| **A man with ink on the side of his right hand** | far side | **Vol 6, carried** | **RIGHT THROUGHOUT AND NOT A VILLAIN.** Eleven years on that board, told her the truth twice, right both times, gave her the whole price of a thing at one sitting because she asked, **wrote a line with nothing against it and did not ask her one question, and is going to lose his cart over a week of her wall and said so himself.** *Do not lose it on account of me* |
+| **Pei** | far side | **Vol 6, carried** | **RIGHT THROUGHOUT, PAID BY THE DAY, RIGHT SO FAR.** Paid her on the thirtieth, the twentieth and the twenty-first of this batch at the gate. A family on a season of its own. **Volume 6 does not get to make him wrong in order to have a problem** |
+| **The Hunter** | Bai Zhu | **Vol 6, Batch 0003** | **OFF THE PAGE IN THIS BATCH ENTIRELY.** His request is still pending and the line's own people still do not know she exists. **Batch 0003 is his** |
+
+### Still open at the end of Batch 0002, handed to Batch 0003
+
+- **What does a second office do with a materials account?** Answered in part, in material: **a cart went.**
+  Open: whether anything is written to be presented, and that is Batch 0003's whole subject.
+- **What is above the copying floor, and what is above the second office?** Never entered, never described, never
+  named. Looked at for nine seconds at ch 308.
+- **Where does a strip go?** It goes up. It is not the mill's to keep and it is not the counter's.
+- **The feel of a stone in her hand**, lost at ch 321 and named once, is gone for good and nothing offers it.
+- **What was he before he died?** Open, Volume 11. **Was she shown a readout?** Open, Volume 11.
+- **The surface answer beneath the drift, the tenth part, the eleven, *kiln-born*, the register reading
+  *reconciled*, the Hunter's request, the year of non-forgiveness.** All open. All somebody else's volume.
+
+### Held, confirmed, and not touched by Batch 0002
+
+- The register was not read and the Clay Plate was not described · **MEMBER ABSENT stands three times and was
+  not raised** · the year of non-forgiveness is **not mentioned once in these sixteen chapters** and is still
+  carrying · the three sponsors' second book is lodged, copied and spoken nowhere · Shen Xiu unforgiven ·
+  **Ning Wu does not appear and the list is not asked after** · the relicensed licence was never opened · no
+  second Lung and no second appointment · **Feng never on the page** · no office above the Standing Office of
+  the Second Account named, and **no office named at all in ch 314–329** · the surface answer not paid early ·
+  the seventh condition never listed, counted or referred to · the four erased months carried and never named ·
+  the claim not reopened and Hou Sanliang not on the page · **Bai Zhu off the page** · **Wei Ran off the page** ·
+  **the copying floor not entered again** · nothing killed, nothing measured, no tribulation · no harem and
+  nothing a romance.
