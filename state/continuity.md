@@ -5419,3 +5419,155 @@ outline is disturbed by it.**
 figures are 29,835 and 27,751 — 157 and 176 words apart from what is published.** That is a pre-existing discrepancy in
 two closed batches and is **not** silently restated by this repair. **The Volume 10 close should re-measure all
 forty-eight chapters of ch 539–586 under one method and publish one convention.**
+
+## Volume 10 Batch 0004 (ch 587–600) — established facts, carried to the volume close
+
+**Written by the phase that drafted ch 587–600. `outline/volume-10.md` was read and not edited. No file outside
+`chapters/volume-10/` and the state files this brief names was touched, and no `.done` marker was written, which
+`PHASE_SYSTEM.md` gives to the controller alone. `chapters/volume-10/` is COMPLETE at sixty-two chapters.**
+
+### The chapter days, re-derived under `((day − 134) mod 30) + 1`
+
+**ch 587** day 1,771, the eighteenth of the month beginning 1,754 · **ch 588** 1,772–1,780, the nineteenth to the
+twenty-seventh · **ch 589** 1,781–1,785, the twenty-eighth, the twenty-ninth, the thirtieth, then the first and the second
+of the month beginning 1,784 · **ch 590** 1,787–1,790, the fourth to the seventh · **ch 591** 1,791–1,793, the eighth to
+the tenth · **ch 592** 1,793–1,794, the tenth and the eleventh · **ch 593** 1,795–1,797, the twelfth to the fourteenth ·
+**ch 594** 1,798–1,799, the fifteenth and the sixteenth · **ch 595** 1,801–1,802, the eighteenth and the nineteenth ·
+**ch 596** the ninth hour of 1,802 and the twentieth of the month beginning 1,784 · **ch 597** 1,803–1,807, the
+twentieth to the twenty-fourth · **ch 598** 1,808–1,815, the twenty-fifth to the thirtieth of the month beginning 1,784
+and then the first of the month beginning 1,814 · **ch 599** 1,815–1,822 · **ch 600** 1,825–1,830, the twelfth to the
+seventeenth of the month beginning 1,814.
+**Months in this stretch begin on days 1,754 · 1,784 · 1,814.** The batch runs day 1,771 to day 1,830, **sixty days**,
+and **the closing day is day 1,802, the nineteenth of the month beginning 1,784, and it falls inside ch 595** exactly
+where `outline/volume-10.md` puts it.
+
+**The deviation, recorded rather than hidden.** `workspace/volume-10-batch-0004/PROMPT.md` allocated ch 587 to days
+1,772–1,774 and ch 588 to 1,775–1,777. `outline/volume-10.md` §*Power progression* pins **Severance 6 at ch 588 on day
+1,772** and says in terms that that table is the authority on the day, and the card says the same in its own sentence and
+adds that no card may move Severance 6 out of ch 588. **The outline is the authority, the day 1,772 holds, and the 75-day
+interval from Severance 5 at day 1,697 is exact.** The chapter-day column is the element that moved. From ch 596 onward
+the chapters land on the card's own days exactly.
+
+### Established facts
+
+1. **SEVERANCE 6, taken at ch 588 on day 1,772, the nineteenth of the month beginning 1,754** — the pinned 75-day
+   interval from Severance 5 at day 1,697 (1,772 − 1,697 = 75). Taken at the second hour of the nineteenth, at a bar on
+   two posts four hundred yards east of the turn, with a carter of thirty-five thirty feet off on a box and the bar on the
+   board bare. **Bracket 3 of Volume 10's three in sixty-two**, in the far-side house form, on its own line. **No figure of
+   what is left of him is stated.**
+2. **The sixth cost, named once, on the page, in her own mouth, at ch 588: SHE CANNOT KEEP WHAT SHE FINDS BY HOLDING IT.**
+   Finding stops being keeping; holding is somebody else's work. **It is shown working three times:** her own heelprint
+   ninety seconds old and un-findable standing on the spot · a room behind a window that will not stay a room · **nine
+   coppers counted four times on a store counter, four answers.** A finding holds about two hours in her, and the only
+   way to keep one is to walk it while she has it. **It is the engine of the batch and Volume 11 inherits it whole.**
+3. **The lever — asking twice.** Written in the dust at the fourth foot of an opening at ch 594 on the eighteenth of the
+   month beginning 1,784 and **rubbed out and not written again**, after a hundred and forty-eight days of carrying it.
+   **Not pulled anywhere in this batch.** `I would not have stopped you.` — *I know that.*
+4. **The last asking, ch 595, day 1,802, the seventh hour.** One at a time, at the wall, in daylight, with the boy of
+   fifteen four feet off behind her and a carter two miles west of the gate. She asks **what else is on it**, standing
+   since day 1,627, one hundred and seventy-six days. **He answers the smallest thing on the page and the answer is not a
+   name: a number. Six.** She had counted **four** go over the chain at the fourth hour of the twelfth of the month
+   beginning 1,784 and had thought the number was four. **Three questions stand and there is no fifth and no book left to
+   put them into.**
+5. **THE IRREVERSIBLE STEPS, both of them, in the outline's order.** **ch 596 — he shuts the book** on a plank table in
+   daylight with nothing on it, in four seconds, and neither of them asks the other for anything, and it cannot be
+   un-shut. **ch 598 — she finds Ning Wu alive, in person, in her hearing, once**, and it cannot be un-found.
+6. **Shuyin.** Shuts the book at the ninth hour of the closing day, walks thirteen miles west to the turn with her in
+   five days, says *you do not have a road, go east*, goes east. **Alive, old, correct, not thanked, and he returns.**
+   **The wall stays open behind him and nobody shut it.** `Shuyin` **0** by name across fourteen chapters, `Warden` **0**,
+   matching Batch 0003's measurement and the volume's pattern.
+7. **Him.** `Yuan` **0** by name across fourteen chapters. **On the page once, at ch 596**, in one sentence, in the
+   present tense: *He is not going to stop it and I did not ask him to.* **No figure of what is left of him is stated
+   before or after.** He opens no wall and is wrong-sided from day 1,521. **He is not thanked.**
+8. **Ning Wu, in person, once.** **Alive, nineteen, nine years in a barrow ground beyond the opening, at the first hour
+   of the first of the month beginning 1,814 (day 1,814).** First words: *you are shorter.* **He does not forgive her and
+   has not: *you can come, it is not the same as being let.*** He does not know what a list is and does not know what
+   *lost* means. `Ning Wu` is **1** on the page in these fourteen chapters, said out loud once, in her own mouth.
+9. **New geography this batch, described once and not to be re-derived.** **The chain:** a burn in a cut nine feet deep
+   with three planks and a chain at the near end, where the strip road ends and the made road begins, kept by an unnamed
+   man of fifty-five who took it over because **the man who had it before is alive and does not come back.** It is opened
+   in daylight for anybody who asks and is not opened at night. **The ground beyond the opening:** a made road running
+   east, rows of barrows cut and filled with a stone at the head of each, about two hundred people, no man over any of
+   them, nobody paid, no board and no chalk and no rate said out loud, and not one person in nine years has come back out
+   of it.
+10. **The wheel-marks.** Found at ch 588 in the dew east of the bar on two posts, nine years healed, running east-northeast
+    about eleven miles and coming out on the gate road a quarter of a mile beyond the opening. **Gone by the twenty-seventh
+    and not findable again.** It is the batch's engine and **it is the road that was never told her.**
+11. **Wei Ran — Volume 10's second and last card to her, at ch 589.** Carried twice at a rate of six coppers the four
+    miles, **the number said out loud both times**, one opinion, one sentence about a bar not going on the seat. **No
+    gift, nothing a romance, no coppers chased.**
+12. **Structural mouths four and five of the volume, both inside the three-to-seven range.** **ch 593, an unnamed man of
+    fifty-five who keeps the crossing chain: five short sentences** — not a place to join, not a punishment, kept things
+    go where kept things go, the going is exact, and he has not said it since a man with a bar asked him once. **ch 594,
+    the same man, on why he said it to her: four short sentences.** The volume's five mouths are 544, 561, 577, 581 and
+    593 and all five are on the page.
+13. **Untouched and unraised, each a fact and not a topic.** The paper against her ribs, opened and never named, and
+    **there are two things against her ribs and she has called neither of them anything** · the plate still worn and
+    undescribed · the register still *reconciled* · *kiln-born* in two heads on no paper · what became of the eleven not
+    raised · the four months never named · the ch 150 refusal never softened · no page of his book read out loud and no
+    name ever read · **the year of non-forgiveness not mentioned once in fourteen chapters** · no harem and nothing a
+    romance · **she never says her mother's name** · the relicensing legs never named.
+14. **She never thanks him and never thanks Shuyin.** The only thank you in the batch is not said at all; she decides at
+    ch 600 that she is not going to say one to either of them, and **no card writes a scene in which she does.** She has
+    not thanked a man of nine hundred years in nine years except for four sentences in the month beginning 1,694 that she
+    did not expect to buy anything. She has not thanked her brother either.
+15. **The eight leaves.** **Put down once at ch 538 and moved once at ch 563 by her own two hands. The flat stone under
+    the bottom of the ladder is bare and nothing in this batch puts anything on it. The six blank leaves stay blank:**
+    she took the book out at ch 600 on the fourteenth of the month beginning 1,814, held it for an hour with a nib and a
+    cake of ink she has not used in two months, and put it back.
+16. **The voice, named once at ch 600 and not explained.** Something in her head has counted with her for eight years and
+    has never once said what it was before it started counting. **She does not ask him yet. He is still talking.**
+    **That is the last line of Volume 10.**
+17. ***Twenty-two days* is STILL OPEN** and was put in front of her again at ch 590, out loud, and **was not equated to
+    any dated interval.**
+18. **The window a hundred yards off the east side, and the lime under the bar of the shut door.** The window is STILL
+    OPEN: she went through the opening for the first time at ch 591, stood under the sill for two hours, **spent none of
+    its four questions**, and could not hold what she saw. **The lime is LEFT, unspent, and was not turned into anything.**
+
+### Construction budget — Volume 10 Batch 0004, counted rather than promised
+
+Body prose only, **method B — every line not beginning `#` — every count on word boundaries and measured before it is
+claimed.**
+
+**27,733 words of body prose over fourteen chapters, average ~1,981** — inside the batch band of 27,000–28,000, which is
+1,929–2,000 a chapter, above the 1,300 floor and below the 2,700 guide in every file. Per file, measured by `wc -w` over
+non-`#` lines, **reproducible:** **587 1,948 · 588 2,350 · 589 1,943 · 590 1,817 · 591 2,032 · 592 2,126 · 593 1,954 ·
+594 1,953 · 595 1,962 · 596 2,062 · 597 1,816 · 598 1,923 · 599 1,958 · 600 1,889.** Three chapters sit below the 1,875
+band figure (587, 589, 597 are all above 1,800) and none sits below the 1,800 guide.
+
+| Construction | Measured across ch 587–600, body prose, `\b` word boundaries | Allowance | Verdict |
+| --- | --- | --- | --- |
+| Authorial scaffolding | **0** — the widened pattern and the bare forms `volume` / `chapter` / `batch` / `reader` / `manuscript` counted separately and all **0**. One instance of *this chapter* at ch 590 was written and cut | 0 | **PASS** |
+| Bracketed layer lines | **1 in fourteen chapters**, at ch 588, on its own line, in the far-side house form with only the realm and the number changed; **exactly 2 bracket characters in the batch, an opening and a closing, and both are on that one line** | 1 in Batch 0004 | **PASS** |
+| Bold | **0** | 0 | **PASS** |
+| Italic | **10 spans**, measured on `(^|[^*])\*[^*]+\*` — *will you tell me when* · *there is a day* ×2 · *lost* ×2 · *what was in it* · *What is it for* · *What does the word do* · *she is going to find him herself* · *you are shorter*. **Five more were written and cut.** All ten load-bearing | scarce, counted | **PASS** |
+| Blockquotes · code fences · tables · horizontal rules | **0 / 0 / 0 / 0** | 0 | **PASS** |
+| All-caps standalone lines | **0** | 0 | **PASS** |
+| Straight quotes · straight apostrophes | **0 / 0** — every speech closed in all fourteen files; nine ASCII apostrophes were written and all nine converted | 0 / 0 | **PASS** |
+| The retired seven phrases | **1 as phrase** — *there is no column* at ch 596, in a sentence whose whole point is the first time in eleven years she has written numbers that belong in no column. **Two of Volume 10's allowance remain unspent** | 3 as phrases, volume-wide | **PASS, and the prompt's *at most one here* is held** |
+| *About four seconds* · *eleven weeks* | **0 / 0** | 0 / 0 | **PASS** |
+| The four banned web-prose reflexes | **0 / 0 / 0 / 0** | 0 | **PASS** |
+| The Yuan tag | **0 verbatim**, no lead-in of any shape, and he speaks **one sentence in fourteen chapters** | 0 | **PASS** |
+| Named weekdays · named calendar months · named weeks · named seasons | **0 / 0 / 0 / 0** — *Tuesday* at ch 596, *March* at ch 598, *the week* at ch 589, *the spring* at ch 599 and *the winter* at ch 588 were all written and all cut | 0 | **PASS** |
+| Zeroed proper nouns | **0 for all of them** — `Ledger` `reconciled` `plate` `licence` `license` `clearance` `countersignature` `kiln-born` `Feng` `Anchor` `Sisterhood` `Scribe` `bargain` `Lung` `tribulation` `appointment` `budget` `Wall writ` `field agent` `Wei Ran` `Warden` `Order` | 0 | **PASS** |
+| The surface answer | **0** — `charged` `bookkeeping` `receipt` `bounded world` all **0** | 0 | **PASS** |
+| The year of non-forgiveness | **0** in fourteen chapters. The word *forgive* appears **four times, all of them about Ning Wu and none of them about a year** | 0 | **PASS** |
+| `Shuyin` · `Ning Wu` · `Yuan` | **0 · 1 · 0**, word boundaries. Ning Wu is said out loud once, in her own mouth, in her hearing, and it is not in nine hundred years | counted, not zeroed | **counted and written down** |
+| `list` · `listing` | **12 · 0** — load-bearing and counted. `vouch` **0**. `send for` / `sent for` / `sending` **0** | counted | counted |
+| `about` | **90**, average **6.4** a chapter, body prose, word boundaries. It came in at 101 and was cut on the page | under 7.0 | **PASS, under the line** |
+| `whole of` | **0.** Batch 0001 spent 46, Batch 0002 spent 22 and Batch 0003 spent 12, so **Volume 10 stands unchanged at 105 against a volume-wide target under 80.** That is a Volume 7 and 8 inheritance and a volume-close item, and this batch put none of it back | 0 this batch | **PASS** |
+| bare `eleven` | **23**, average 1.6 a chapter. Batch 0001 spent 86, Batch 0002 spent 63 and Batch 0003 spent 38, so **Volume 10 stands at 210 against a target under 200.** The prompt's instruction for this batch was *hold eleven under forty* and it is held at 23. **The volume-wide overage is inherited from Batch 0001 and is a close item** | under 40 this batch | **PASS against the card; the volume-wide line is recorded as exceeded** |
+| `nobody` · `nothing` | **23 · 108**, average **1.6** a chapter on `nobody` | nobody under 2.0 | **PASS** |
+| The two constructions the previous review found doubled | **0** — *she wants that written down / is not going to describe* is **0** in fourteen chapters and *there is no arrangement on this ground* is **0** | 0 | **PASS** |
+| Chapter titles | **14 new `#` headings, zero collisions** against the 586 that preceded them (600 manuscript-wide, zero duplicates) and zero among themselves; longest **35 characters**; all names, none restating a scene, a date, an hour or an age | names, 3–12 words, under ~90 characters | **PASS** |
+| Section-heading identity | **measured on `^## ` per file: 0 chapters with the same `##` twice**, **114 section headings over 14 files** | 0 within a chapter | **PASS** |
+| Paragraphs | longest **90** words; **0 paragraphs over the ~90-word guide** and none over 120 | break over ~90, never over ~120 | **PASS** |
+| Duplicated paragraphs | **0 across two chapters.** **Five within-chapter repetitions are deliberate and are counted**: *She could not find it.* ×2 at ch 588, *Nine.* ×3 at ch 592, *Four.* ×2 at ch 593, *Six.* ×3 at ch 595. They are the volume's arithmetic and cutting them would cut the counting | 0 paragraphs across chapters | **PASS after counting** |
+| Files without a trailing newline | **0 of 14** after the repair | — | **PASS** |
+
+### What closing the volume means for the word-count convention
+
+**Batches 0001 and 0002 of this volume publish totals that do not reproduce under the method Batch 0003 fixed and this
+batch used** — 29,678 and 27,575 published against 29,835 and 27,751 measured. **That convention question is now measured
+across three batches and is the volume close's to settle, together with a re-measure of all sixty-two chapters under one
+method.** No figure anywhere in this batch was derived from a published Volume 10 total.

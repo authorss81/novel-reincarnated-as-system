@@ -1420,3 +1420,111 @@ put the fifth stage's cost on the page at ch 572 and seventeen days of the last 
 - **Batches 0001 and 0002 of this volume publish word counts that do not reproduce under the method Batch 0003's does,
   and were carried forward rather than silently restated. The Volume 10 close should re-measure all forty-eight chapters
   under one convention.**
+
+## Volume 10 Batch 0004 — *The List*, ch 587–600, day 1,771–1,830 — WRITTEN. VOLUME 10 COMPLETE ON THE PAGE
+
+**Fourteen chapters, 27,733 words of body prose on method B (every line not beginning `#`), average ~1,981, day 1,771 to
+day 1,830, pressure *what closing costs*. `chapters/volume-10/` now holds sixty-two chapters. The next phase is the
+volume close, `workspace/volume-10-close/PROMPT.md`, and no batch prompt was created.**
+
+1. **ch 587 — Counting From The Wrong End.** Day 1,771, the eighteenth of the month beginning 1,754. She walks nine
+   miles west from the post with the bar and finds in one hour that the count she has run for a month points east while
+   she is walking west. **She decides to stop counting from the twenty-fifth of the month beginning 1,724 and count from
+   the nineteenth instead**, and at the second hour of the morning she sees wheel-marks in the dew east of the bar on
+   two posts. Ending: decision.
+2. **ch 588 — A Finding That Would Not Stay.** Day 1,772, **SEVERANCE 6, the batch's one bracket, in the far-side house
+   form.** A carter of thirty-five says the line runs a long way and comes out on the gate road. Cost, named once in her
+   own mouth: **she cannot keep what she finds by holding it** — she loses her own heelprint within ninety seconds and
+   cannot find the marks again standing on the spot. Six more days on the line, no bread, the arm gone. She stops on the
+   twenty-seventh, two miles short of the gate, because there is nothing left in front of her to find.
+3. **ch 589 — What The Board Pays For.** Days 1,781–1,785, the twenty-eighth to the second. Thirty-three miles west for
+   the board. **Wei Ran carries her twice, at a rate said out loud both times, and says one opinion.** Nine coppers and a
+   loaf at the store counter, counted four times, four answers. **The first day she cannot hold a thing at all**, and the
+   working is nine coppers in her own hand. She goes east anyway, with sixteen days.
+4. **ch 590 — Three Names The Miller Cannot Give.** Days 1,787–1,790. The dead-mill rule has been spent on herself and
+   she says so. The miller has not got three of the four names and says so in the first minute. He gives her one thing
+   he had not said in a year: **the carter came back for the board eleven days later and there was no board and he was
+   not told.** The finding: **a board does not keep a person, it carries one, and no instrument on nine days of road has
+   ever given a name back to anybody.** She does not spend the two questions she is holding. ***Twenty-two days* is put
+   in front of her again at ch 590 and is still unplaced.**
+5. **ch 591 — Under The Sill.** Days 1,791–1,793. She goes **through** the opening past the fourth foot, stands under the
+   window a hundred yards off the east side, and the sixth stage takes the room out of her: the low thing at the back of
+   it is a bench at the second hour and cannot be settled at the fourth. She spends **no** question, and the not-spending
+   costs her the only thing she had to hand him that was not a question. The boy of fifteen tells her about the crossing.
+6. **ch 592 — The Cut In The Made Road.** Days 1,793–1,794. A burn in a cut nine feet deep, three planks, a wet chain and
+   **a man who took the crossing over because the man who had it does not come back and is alive.** She crosses at the
+   fifth hour on a body with four fingers and a thumb and an open arm and a plank that moves, and cannot get back because
+   the chain is not opened at night. **“A road that keeps a person is a road that keeps a person.”** She is on the far bank
+   with nine days and no bread.
+7. **ch 593 — Where Kept Things Go.** Days 1,795–1,797. **Structural mouth four of five, five short sentences**, from
+   the unnamed chain-keeper: kept things go where kept things go, it does not come back, the going is exact, and it is not
+   a place to join. **Four go across at the fourth hour and she counts them twice.** She works out she cannot be kept and
+   that nobody here is frightened *to*, and she cannot get any ratio out of two days of a bank.
+8. **ch 594 — What She Puts Down For Him.** Days 1,798–1,799. She gives him **one sentence about the window**, freely,
+   in daylight, the first free thing she has handed anybody. He says *I know the one you mean* — twice in the batch.
+   **She writes the lever in the dust, rubs it out and does not write it again**, after a hundred and forty-eight days.
+   He says *I would not have stopped you.* She decides to ask the question she asked first, because the terms are the terms.
+9. **ch 595 — The Smallest Thing On The Page.** Days 1,801–1,802, **the closing day, at the seventh hour, in daylight, at
+   the wall, with the boy of fifteen and a carter in it.** She asks *what else is on it*, standing since day 1,627.
+   **He answers the smallest thing on the page and the answer is not a name: a number. Six.** She had counted four go over
+   a chain on the twelfth and had thought the number was four. **The irreversible beat of the asking.** Three questions
+   stand and there is no fifth and no book left to put them into.
+10. **ch 596 — The Shut Book.** The ninth hour of the nineteenth, continuing the same day. **IRREVERSIBLE: he shuts the book
+    on a plank table in daylight with nothing on it and cannot be un-shut, and neither of them asks the other for anything.**
+    Four seconds, a cover, thirty counts. No page, no ink, no brush, no light in the window, no change on the ground.
+    The boy of fifteen and the four numbers she writes on the flat and does not rub out.
+11. **ch 597 — Walking Him To The Turn.** Days 1,803–1,807. Thirteen miles in five days; **he is walking west because she
+    is walking west.** **The wall stays open behind him.** Five days, one practical question, and not one question back.
+    On the turn he says *You do not have a road. Go east*, and he goes east, and **she does not thank him.** She cannot
+    find the line in her head and it is gone out of her.
+12. **ch 598 — Past The Opening.** Days 1,808–1,815. She walks a bearing, finds the gate road, passes the gate, and goes
+    **eleven miles beyond the opening into ground nobody has ever described**: a made road, rows of barrows, nineteen
+    people working at a pace they choose, no man over any of them. **IRREVERSIBLE: she finds Ning Wu alive, in person, in
+    her hearing, once**, at the first hour of the first of the month beginning 1,814. *You are shorter.* He does not know
+    what a list is, or what *lost* means, and he asks nothing about the nine years. The four days and a night she gets
+    nothing out of it that she can put anywhere.
+13. **ch 599 — What Nine Years Did Not Take.** Days 1,815–1,822. She tells him all of it in four minutes and he asks one
+    question: *What word.* **“So you are further gone than I am.”** She says *With what* and cannot answer it. **He does not
+    forgive her: *You can come. It is not the same as being let.*** She works two days of barrow for no wages at all and
+    leaves. What she walked for: she found him, she cannot stop finding him, she cannot keep him, and it settles nothing.
+14. **ch 600 — He Is Still Talking.** Days 1,825–1,830. The turn at dusk and **nothing on the board**, and the road has
+    stopped carrying people. Six days of counting she cannot make stop counting. **Her brother comes past going west at
+    four hundred yards, stops at six feet, says he has not been in a mill either, and goes on.** The six blank leaves stay
+    blank. There is no list east of her with either of their names in it. **THE VOICE: something in her head has counted
+    with her for eight years and has never once said what it was before it started counting. She does not ask him yet.
+    He is still talking.**
+
+### What the batch changed
+
+- **Severance 6 at ch 588 on day 1,772**, the pinned day, and its cost is on the page in her own mouth: **she cannot
+  keep what she finds by holding it.** Shown working three times — her own heelprint, the room under the sill, and nine
+  coppers in her hand.
+- **The sixth stage cost is not a metaphor.** It is the batch's engine: a finding lasts about two hours in her and the
+  only way to keep it is to walk it while she has it.
+- **Two irreversible steps, in the order the outline fixes them:** the book shut at ch 596 and cannot be un-shut, and the
+  brother found alive in person at ch 598 and cannot be un-found.
+- **The four questions are spent as a resource, not resolved.** She asks the first one, gets a number, and three stand in
+  a shut book with no book left to put them into.
+- **The lever is carried for a hundred and forty-eight days and declined.** It is not pulled anywhere in this batch.
+- **Shuyin shuts, survives, goes east, is alive and old, and is not thanked.** No scene in which either of them is thanked.
+- **Wei Ran appears once, on a trade, at a rate said out loud twice.** Volume 10's second and last card to her.
+
+### Deviations, recorded rather than hidden
+
+- **The card's per-chapter day column for ch 587–594 is three days later than the page.** `outline/volume-10.md` pins
+  **Severance 6 at ch 588 on day 1,772** in its Power progression table and calls that table the authority on the day,
+  and the batch card says the same in its own sentence and says no card may move Severance 6 out of ch 588. **The outline
+  is the authority and the day holds.** The batch therefore runs **ch 587 day 1,771 · ch 588 1,772–1,780 · ch 589
+  1,781–1,785 · ch 590 1,787–1,790 · ch 591 1,791–1,793 · ch 592 1,793–1,794 · ch 593 1,795–1,797 · ch 594 1,798–1,799 ·
+  ch 595 1,801–1,802 · ch 596 the ninth hour of 1,802 and the twentieth · ch 597 1,803–1,807 · ch 598 1,808–1,815 · ch 599
+  1,815–1,822 · ch 600 1,825–1,830**, and the closing day still falls inside ch 595 and ch 596 onward lands on the card's
+  own days exactly.
+- **The far-side chain and the ground beyond the opening are new geography, laid down at ch 591–593 and 598.** The chain is
+  at the east end of the strip road where the made road begins; the ground beyond the wall is barrow-work with no man over
+  anybody on it. Both are described once and are the only new ground the batch adds.
+- **`about four seconds`, `week`, `spring`, `Tuesday`, `March`, authorial scaffolding, all six italic spans that were not
+  load-bearing, twenty-nine `about`, five `whole of`, eighteen `nobody` and fourteen files without a trailing newline were
+  all written and all cleared on the page.** `about` came in at 90, average 6.4 a chapter. `whole of` is 0. `eleven` is 23.
+- **Five within-chapter repeated one-line counting beats are deliberate and are counted, not cut**: *She could not find
+  it.* twice at ch 588, *Nine.* three times at ch 592, *Four.* twice at ch 593, *Six.* three times at ch 595. They are the
+  volume's arithmetic and they are not accidental duplication. **No paragraph is duplicated across two chapters.**

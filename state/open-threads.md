@@ -2264,3 +2264,102 @@ files and changed four figures this section carried.**
   have it go into the book and cannot have anybody at the wall ask after it.
 - **She has closed off the option of spending a question on where her brother is, and she did it out loud, in
   daylight, after being told what it would cost.** Batch 0004's finding is walked to, not asked for.
+
+## VOLUME 10 BATCH 0004 (ch 587–600) — what the batch opened, moved and closed, and what Volume 11 inherits
+
+**Fourteen chapters, days 1,771–1,830, pressure *what closing costs*. `chapters/volume-10/` is COMPLETE at sixty-two
+chapters and day 1,830. Every line below is checked against the page at `chapters/volume-10/`.**
+
+### CLOSED by this batch
+
+1. **The fourth Volume 10 cost — she cannot keep what she finds by holding it.** OPEN from ch 586 and asserted in the
+   state files. **CLOSED at ch 588**, in her own mouth, in the section *What The Sixth Stage Took*, and shown working
+   three separate times on the page: her own heelprint ninety seconds old, the low thing at the back of the room under
+   the window, and nine coppers in her hand on a store step. It is the batch's engine and not a topic.
+2. **Whether the sixth stage can reach a person's work.** NEW at ch 589. **CLOSED at ch 589.** She is paid for nine
+   barrows and cannot hold the payment. A count that used to be the only instrument she owns goes with it.
+3. **Whether a board on a cart can be used the way a book is used.** OPEN from ch 574 and ch 590. **CLOSED at ch 590.**
+   A board carries a person and a book writes one down, and **neither instrument on nine days of road has ever given a
+   name back to anybody**, which is why the rest of the batch is walked and not asked for.
+4. **What a kept person looks like when they are being kept.** OPEN from ch 574. **CLOSED at ch 593.** Ordinary. No
+   chains, nothing on them, no man over any of them, a chain picked up by one hand and stood aside from, and four
+   sentences from a man who keeps a crossing.
+5. **The last asking.** OPEN from ch 570 and ch 594. **CLOSED at ch 595.** She asks the question she asked first, at
+   the wall, in daylight, with witnesses, on the closing day. **He answers the smallest thing on the page and the answer
+   is not a name. It is a number: six.**
+6. **The shutting.** **CLOSED at ch 596.** A book shut on a plank table in daylight with nothing on it, in four seconds,
+   and neither of them asks the other for anything, and it cannot be un-shut. No page read, no name read, nothing shown
+   of what shutting does, and nothing on that ground changed while it happened.
+7. **Whether Ning Wu is alive, and where.** OPEN from Volume 1 and carried through nine volumes. **CLOSED at ch 598.**
+   **Alive, in person, in her hearing, once**, working barrows in a ground beyond the wall, nineteen years old, nine
+   years there. **It settles nothing and forgives nothing and it cannot be un-found.**
+8. **Whether the six blank leaves get written in.** OPEN from ch 563 and carried. **CLOSED at ch 600. THEY STAY BLANK.**
+   She took the book out on the fourteenth of the month beginning 1,814, held it for an hour with a nib and a cake of
+   ink she has not used in two months, and put it back. Room in it is the last fact and the only one of the seven things
+   she owns that is not a debt.
+
+### OPEN, and now carried into Volume 11
+
+9. **THE VOICE. Spent once, at ch 600, and not explained.** Something in her head has counted with her for eight years,
+   has read out every figure anybody hands her before she has finished taking it in, and got a number wrong once and
+   corrected itself in her head before she had finished being wrong. **It has never once said what it was before it
+   started counting.** She has had the question since the month beginning 1,574 and has never put it anywhere. **The last
+   two lines of Volume 10 are *She does not ask him yet.* and *He is still talking.*** **This is Volume 11's engine and
+   nothing on Volume 10's page puts what he was on it.**
+10. **Three questions standing in a shut book.** *What is it for* (thirtieth of the month beginning 1,604) · *what does
+    the word do* (fifteenth of the month beginning 1,634) · *will you tell me when*, answered *there is a day*. **The
+    fourth is spent at ch 595.** There is no fifth and **there is no book in the world she is permitted to put a question
+    into**, which is the closing's actual cost.
+11. **What *lost* does.** Still unanswered, and now closed off twice over: no book to ask it in, and the brother does not
+    know the word either and said so.
+12. **Six people on a shut page.** Four of them went across a chain on the twelfth of the month beginning 1,784 and she
+    counted them. **Two of them she has never seen and will never be told about**, and she cannot tell whether the four
+    at the chain are the four on the page.
+13. **Her own entry.** Written at the month beginning 1,724 as lost, in a hand nine hundred years old, in a book that is
+    now shut. **No shut book can take it out and she has asked a man of nine hundred years *with what* and has not got an
+    answer.**
+14. **The brother.** Alive, found once, unforgiving, nine miles further east in a barrow ground he walked into on his own
+    legs at ten years old. **She can walk back. That is what *you can come, it is not the same as being let* means.**
+15. **The lime under the bar of the shut door.** Found on the fourteenth of the month beginning 1,754 and **LEFT**
+    by this batch, deliberately. It is not spent, not resolved and not turned into anything. Volume 11 may leave it or
+    spend it.
+16. **The window a hundred yards off the east side.** Still OPEN. **Four questions unspent, and the price is now known
+    twice over: they cost a trip, and at the end of the trip she cannot hold what she is told.** She stood under the sill
+    for two hours at ch 591 and did not ask one of them, and the cost of the not-spending is written on the page.
+17. ***Twenty-two days*.** **STILL OPEN**, put in front of her again at ch 590 and **not equated to any dated interval.**
+    Twenty-two miles is a different number and is a real distance.
+18. **A hut light left standing.** Carried from the end of Volume 9: she left a hut's light standing unremarked on the
+    night of the twenty-third and does not know it went out. **STILL OPEN and still unlearned.** Batch 0004's card forbade
+    spending it and did not, and no chapter in this batch touches it.
+
+### CARRIED and untouched
+
+19. **The lever — asking twice.** Found the nineteenth of a month beginning 1,634, carried on purpose for a hundred and
+    forty-eight days, **written in the dust at ch 594 and rubbed out and not written again.** Not pulled anywhere in this
+    batch. Volume 11 inherits it unspent.
+20. **The four earlier Volume 10 costs and the four Volume 9 costs** — carried and shown, never re-derived. **Only the
+    sixth cost is named on the page, once, at ch 588.**
+21. **The eight leaves.** Put down once at ch 538 and moved once at ch 563 by her own two hands. **The flat stone under
+    the bottom of the ladder is bare and nothing in this batch puts anything on it.**
+22. **Him.** `Yuan` is **not named anywhere in fourteen chapters.** He is on the page once, at ch 596, in a single
+    sentence in the present tense, saying he is not going to stop the shutting and did not ask for it to stop. **No figure
+    of what is left of him is stated before or after.** He opens no wall and is wrong-sided from day 1,521.
+23. **Shuyin.** `Shuyin` **0** by name across fourteen chapters, `Warden` **0**, matching Batch 0003. He shuts the book
+    in daylight at ch 596, walks thirteen miles west with her, says *you do not have a road, go east*, goes east, and is
+    alive and old and not thanked. **He returns.**
+24. **Untouched and unraised:** the Hunter's request, still pending, and he is not on the page in this batch · the tenth
+    part not given and no proof that the crews were wrong · the surface answer never re-voiced · `Ledger` **0** · the
+    register still *reconciled* · the plate still worn and undescribed · *kiln-born* in two heads on no paper · what
+    became of the eleven not raised · the four months never named · the ch 150 refusal never softened · no harem and
+    nothing a romance · **she never says her mother's name** · **the year of non-forgiveness not mentioned once** ·
+    **no page of his book read out loud and no name ever read**.
+
+### Two things the batch did that the close must not undo
+
+- **The book is shut.** Not lost, not gone, not released and not opened. `outline/ending.md` owns whatever shutting
+  means and nothing on the page shows it. **No Volume 10 chapter names the Anchor, shows what release looks like,
+  touches the Sisterhood, puts the bargain on the table, or lets Shuyin explain why a bounded world needs readers, and
+  the close must not find any of it on the page either.**
+- **She has said the brother's name in his hearing once and he has not written it, and he was told on the first of a
+  month that it is six and not his name.** Nothing in the shut book has his name in it and no chapter of this batch
+  writes it in.
