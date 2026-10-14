@@ -6734,3 +6734,162 @@ and ch 626 read 337 for 340.** *(ch 616 derives 282 and does not state it; that 
 | The name on the page | **in the clerk's good hand, at the end of the entry, with the date at the head of it and no word beside the difference between the two weights** |
 | What she can keep and cannot | **a name on a leaf in her own hand holds. A morning does not. She was not in it.** |
 | What he can receive | **nothing, from anybody, including a page read aloud in daylight. He says so himself and he has never asked for anything** |
+
+## VOLUME 11 BATCH 0003 — ch 631–645 — What He Was — day 1,916–1,996 — WRITTEN
+
+**`chapters/volume-11/` holds ch 601–645. Batch 0003 is ch 631–645: fifteen chapters, 29,807 words of body prose on
+method B — every line not beginning `#`, measured with `grep -v '^#' <file> | wc -w` chapter by chapter and over the
+fifteen together — average 1,987 a chapter, inside the outline's 27,000–30,000 batch band and inside its 1,800–2,000
+target.** Per chapter: 2,201 · 1,937 · 1,810 · 1,923 · 1,910 · 2,128 · 1,896 · 2,094 · 2,003 · 2,036 · 2,001 ·
+1,936 · 2,069 · 1,926 · 1,937. **No chapter is under the 1,300 floor and none is above the 2,700 guide.**
+
+### The batch plan against `outline/volume-11.md`, card by card
+
+| Ch | Card | On the page |
+| --- | --- | --- |
+| 631 | stand the day the stage comes · seventy-five days walked | **the intervals counted, the fence counted in the dark, and the day and the person named** |
+| 632 | take the eighth stage and go on · THE BATCH'S ONE BRACKET | **SEVERANCE 8 at day 1,917, the one bracket in the batch, ten seconds, cost named once** |
+| 633 | learn what asking no longer holds · a permission that will not bind | **five written questions, five answers, none of them attached to a mouth; asking a person still works** |
+| 634 | be shown where he was · a clerk with a harvest book | **THE HANDING: nine paces by six, one way on to the floor, and the asking leaves it as it arrives** |
+| 635 | decide whether to go · a shown place and feet that must do it | **she declines being walked round and names the twenty-first; she is not going to stop on it** |
+| 636 | hear the third mouth · 3–7 sentences | **seven, across four days, and the same four strokes in a second hand** |
+| 637 | carry the keeping east · no asking left to carry it in | **the batch's one settlement on listed work, and knowing carried instead, and it is heavier** |
+| 638 | MIDPOINT: walk to the furnace mouth | **the walk, past the patch, past the mouth, and out of the gate on the far side** |
+| 639 | stand what walking cost · a mouth nineteen years shut | **four days of nine lengths and a knee in the grit, and a man of fifty who walks away** |
+| 640 | hear the fourth mouth · 3–7 sentences | **six, over three days, and the morning after: an hour and a mile and a half, unwatched** |
+| 641 | ask the third owed thing · one at a time, in daylight | **he gives the shape instead of the reason, in six pieces over two days** |
+| 642 | count the shape · days, coppers, ash, nineteen years | **four counts and the word `designed` said out loud on a floor** |
+| 643 | decline the lever · asking twice, carried, not pulled | **THE LEVER DECLINED, written in the ash and rubbed out, and not written on a leaf** |
+| 644 | FRAME: be known without being used | **the seventh frame scene, present tense, and the answer is that a fragment can be known** |
+| 645 | tell him what the tax is for | **IRREVERSIBLE: the tax named as designed to find people like her, in the open, and she stays** |
+
+### The calendar, re-derived rather than carried
+
+`((day − 134) mod 30) + 1`. **631 the thirteenth and fourteenth of the month beginning 1,904 (1,916–1,917) · 632 the
+fourteenth to the nineteenth (1,917–1,922) · 633 the nineteenth to the twenty-fifth (1,922–1,928) · 634 the twenty-sixth
+to the thirtieth of the month beginning 1,904 and the first of the month beginning 1,934 (1,929–1,934) · 635 the second
+to the seventh of the month beginning 1,934 (1,935–1,940) · 636 the eighth to the fourteenth (1,941–1,947) · 637 the
+fifteenth to the twentieth (1,948–1,953) · 638 the twenty-first to the twenty-seventh (1,954–1,960) · 639 the
+twenty-eighth to the thirtieth of the month beginning 1,934 and the first to the third of the month beginning 1,964
+(1,961–1,966) · 640 the fourth to the ninth of the month beginning 1,964 (1,967–1,972) · 641 the tenth to the fifteenth
+(1,973–1,978) · 642 the sixteenth to the twenty-first (1,979–1,984) · 643 the twenty-second to the twenty-seventh
+(1,985–1,990) · 644 the twenty-eighth to the thirtieth of the month beginning 1,964 and the first of the month
+beginning 1,994 (1,991–1,994) · 645 the second and third of the month beginning 1,994 (1,995–1,996). Every month-day on
+the page agrees with this table.**
+
+**Ch 631 opens at the last hour of the light on day 1,916, sharing the thirteenth with ch 630 at the tenth hour, and
+runs into the fourteenth. That is the second time two chapters of this run have shared a day and it is forced, not
+drifted: ch 630 closes at the tenth hour of the thirteenth and ch 632 is pinned to day 1,917, so the space between
+them is the rest of one night.**
+
+**The going-lighter, derived per chapter and never carried down. The figure at any day D is D − 1,560, anchored on
+the eighteenth of the month beginning 1,544 = day 1,561:** 357 at ch 631 · 362 at ch 632 · 394 at ch 638 · 406 at ch
+639 · 410 at ch 640 · 418 at ch 641 · 422 at ch 642 · 430 at ch 643 · 436 at ch 645. **All nine verified against the
+formula and every one of them is stated on the page.**
+
+**Days on the furnace ground, measured from her arrival on the fourteenth of the month beginning 1,844, day 1,857
+(the Batch 0002 figure, inherited and not re-derived):** 72 at ch 634 · 79 at ch 635 · 96 at ch 637 · 97 at ch 638 ·
+115 at ch 642 · 139 at ch 645. **Days from the turn (day 1,842): 75 at ch 632 · 91 at ch 637 · 112 at ch 638 · 131 at
+ch 641 · 154 at ch 645. Days from the name being told at ch 617 (day 1,848): 68 at day 1,916 · 87 at ch 637 · 119 at
+ch 640 · 148 at ch 645.**
+
+### The construction budget, measured from the files and not promised
+
+| Construction | Allowance | Measured across the fifteen chapters | Verdict |
+| --- | --- | --- | --- |
+| **Bracketed layer lines** | **1 in fifteen, at ch 632** | **1**, on its own line, in square brackets, character for character the pinned far-side house form with *stage eight* | **PASS** |
+| **Bracket characters anywhere in the batch** | — | **0** outside that one line | **PASS** |
+| **Bold** | 0 | **0** | **PASS** |
+| **Italic** | scarce, counted | **6 pairs**, against Batch 0001's 10 and Batch 0002's 6 | **PASS** |
+| **Blockquotes / code fences / tables / horizontal rules** | 0 / 0 / 0 / 0 | 0 / 0 / 0 / 0 | **PASS** |
+| **All-caps standalone lines** | 0 | **0** | **PASS** |
+| **Straight quotes / straight apostrophes** | 0 / 0 | **0 / 0**; curly open and close are balanced file by file, asserted per file | **PASS** |
+| **Paragraphs over 90 words** | break at ~90, never over ~120 | **0**; sixteen were over 90 at drafting and every one was split at a natural beat | **PASS after repair** |
+| **Duplicate `## ` inside a chapter** | 0 chapters | **0**, asserted per file on `^## `. One cross-batch repeat, *What It Did Not Do*, stood at ch 630 and ch 645 and ch 645's was renamed *What The Ground Did With It* | **PASS after repair** |
+| **Titles** | 15 names, 3–12 words, under ~90 characters, unique | 15 names, 4–8 words, longest 33 characters, **0 collisions against all 645 standing headings and 0 within the batch** | **PASS** |
+| **Verbatim sentence reuse** | no unvaried recycling | **0 duplicated sentences of 8 words or more across the fifteen.** Three stood at drafting — the blanket book's second leaf described word-identically at ch 631, 633 and 643, and *No person has ever been told their own total* at ch 641 and 645 — and all three were rewritten | **PASS after repair** |
+| **Authorial scaffolding** | 0 | **0** — *this chapter · this volume · this book · the reader · in this batch · another batch · N volumes*. Six instances of the bare word *volumes* are the canon phrase *the eighth of a month ten volumes back*, which stands at ch 545 of Volume 10 as *nine volumes back* | **PASS** |
+| **`nobody`** | under thirty volume-wide | **0 in the batch** | **PASS** |
+| **`nothing`** | hold down | **32**, against Batch 0001's 75 and Batch 0002's 43 over fifteen | **PASS** |
+| **`eleven`** | under forty volume-wide | **1 in the batch** — *eight of eleven holds*, which is canon body and is not re-derived — and **36 across ch 601–645** | **PASS** |
+| **`about…`** | average under 7.0 | **97**, average **6.47** | **PASS** |
+| **`whole of`** | under 80 volume-wide | **1 in the batch** — *That is the whole of it*, his catchphrase, at ch 632 — and **69 across ch 601–645**. Forty-nine were drafted and cut | **PASS after repair** |
+| **`out loud`** | held down; no chapter carrying it as filler | **55**, against Batch 0002's 54. Twenty-two were drafted and cut | **PASS after repair** |
+| **The retired seven phrases** | at most one | **0** | **PASS** |
+| **`about four seconds`** | 0 | **0** — two were drafted at ch 632 and 633 and both were recast as *the count of four* | **PASS after repair** |
+| **`eleven weeks` · `week`** | 0 | **0 / 0**. **Six instances of `week` were drafted** — *a week before · the week of the morning · the most useful thing she did all week · the week after · three weeks in* — **and every one was cut to *seven days*, *the seven days after*, or *twenty-one days*** | **PASS after repair** |
+| **Banned reflexes** | 0 / 0 / 0 / 0 | **0 / 0 / 0 / 0** | **PASS** |
+| **Named weekdays / named calendar months / named weeks** | 0 / 0 / 0 | **0 / 0 / 0** | **PASS** |
+| **Surface answer** | 0 in any mouth, any form | **0** — *charged · bookkeeping · receipt · bounded world · the walls* all 0 | **PASS** |
+| **Zeroed proper nouns** | all 0 on word boundaries | **0** for `Ledger · reconciled · plate · licence · clearance · countersignature · seal · kiln-born · MEMBER ABSENT · tribulation · Anchor · Sisterhood · bargain · Lung · appointment · budget · Wall writ · field agent · Warden · Shuyin · Feng · Ning Wu · Wei Ran · Hunter` | **PASS** |
+| **`Scribe`** | at most 1 in this batch | **1**, at ch 644, as the thing he was a fragment of, never speaking, never offering, never adjudicated. Batch 0001 and Batch 0002 each spent 0 | **PASS** |
+| **`Yuan Sheng`** | counted and written down whatever it is | **1 instance**, at ch 636, the four capital strokes in the clerk's good hand read against the four she wrote. **It is not re-named as new and it is not named in his own mouth anywhere in the volume** | counted, within scope |
+| **The year of non-forgiveness** | 0 mentions | **0**. `forgiv` returns 0 across the batch | **PASS** |
+| **A figure of what is left of him** | none stated | **none** | **PASS** |
+| **A scene in which he is thanked** | 0 | **0.** `thank` returns **0** across all fifteen chapters — the beat at ch 633 and ch 638 that had a thank in it was recast and the deflection that answered it kept | **PASS** |
+| **A frame scene** | ch 644 | **1 in this batch**, the seventh in the manuscript, present tense throughout, no other character in a marked present frame | **PASS** |
+| **A page of either book read out loud** | 0 | **0.** She reads both books herself with her own eyes and says not one line of either; the man of seventy-one opens his at the seventh hour on the eleventh of the month beginning 1,934 and nobody reads from it | **PASS** |
+| **Merit settling** | once in Batch 0001, once in Batch 0003, neither on a death | **1 in this batch**, at ch 637, on a day of thirty-one lengths of listed barrow work, ten seconds, out of the ground under her feet. Nothing is killed | **PASS** |
+
+### The things this batch resolved, closed, or paid
+
+1. **THE EIGHTH STAGE AND ITS COST, NAMED ONCE, AT CH 632.** She cannot keep him by asking. A permission that held a
+   list open cannot hold a fragment open, and no asked question reaches him where he is because there is nowhere asked
+   left to reach. **He is findable by knowing and not by asking.**
+2. **THE COST SHOWED, NOT RE-DERIVED, ONCE PER CHAPTER AND NOT AGAIN.** A line in her own hand that says she asked
+   holds and the asking does not · asking a person still works · five answers and no proof of five questions · the
+   lever now costs her both answers instead of one.
+3. **THE HANDING AT CH 634 AND THE ROAD AT CH 638 ARE DIFFERENT BEATS AND NO CARD MERGED THEM.** The clerk walks her
+   onto the patch on the twenty-sixth; she walks the whole ground herself on the twenty-first of the month beginning
+   1,934, six chapters later, with nothing in her hands.
+4. **THE PLACE EXISTS AND SHE WALKS PAST IT, TWICE.** Nine paces by six, four courses of stone from the bank at the
+   east, a gap the width of a nail in the north joint, and **one way on to the floor, which is why a page written by
+   a person standing there did not have to say where.** She does not stop on it, she does not write it down, and the
+   ash heap a mile and a half down the east track is also nine paces by six and she says out loud that the two are
+   not the same.
+5. **THE THIRD ORIGIN MOUTH AT CH 636.** Seven sentences across four days from a clerk of seventy-one who has kept
+   the ground's harvest book since before the fire was drawn: a name in a book is kept whether or not a person comes
+   for it · the keeping does not have to be understood to be accurate · not one person has come for that book in
+   nineteen years · it has been right the whole time. **And the four capital strokes in his good hand are the four she
+   wrote on her own third leaf.**
+6. **THE FOURTH ORIGIN MOUTH AT CH 640.** Six sentences over three days from a man of fifty who carries the ash out:
+   I carried it out at the second hour · there was not one person at the gate · not one person on the track for a
+   mile and a half · I did not know what was in it and I did not look down · that is what I saw, a morning going out
+   the way ash goes out. **And the morning she finally gets is the morning after, an hour and a mile and a half long,
+   which belonged to him and not to her.**
+7. **THE TAX HAS A SHAPE AT CH 641 AND THE SHAPE IS DESIGNED AT CH 642.** Counted in days and not in money · one out of
+   twenty · the same on every ground and it arrives · it comes off the board before the board goes up · no person has
+   ever been told their own total · it cannot be changed by anybody who collects it. **Four hundred and twenty days
+   divided by twenty comes out even at twenty-one. Six thousand nine hundred and thirty-five into twenty does not.**
+8. **THE IRREVERSIBLE STEP, CH 645.** She tells him, out loud, once, standing, in daylight, in the open, in front of
+   thirteen people she did not ask to be there, that the tax on that ground was designed to find people like her.
+   He said in advance he would say not one word and he said not one word. **She cannot un-know it and she cannot
+   un-say it, and she is staying.**
+9. **THE LEVER IS CARRIED AND DECLINED FOR THE THIRD TIME**, written in the ash and rubbed out, and not written on a
+   leaf: **four of her five blank leaves are still blank and so is the fifth.**
+10. **THE SEVENTH FRAME SCENE AT CH 644**, away from her hearing, present tense throughout. **A fragment can be known
+    without being used up, because the knowing was never what used it up — the filing was.** He has been treating
+    himself as an entry since the twelfth of a month beginning 1,764 so that she could find him, and he stops being one,
+    and puts three sentences in front of her at a gate in daylight two days before she says her sentence in the yard,
+    and refuses a fourth, which is a name.
+11. **THE SETTLEMENT, ONCE, ON LISTED WORK**, at ch 637, on a day of thirty-one lengths, out of the ground under her
+    feet. Nothing is killed and no figure of what is left of him is stated anywhere in the batch.
+
+### Hard canon this batch fixed, to be inherited and not re-derived
+
+| Thing | The one true value |
+| --- | --- |
+| Severance 8 | **ch 632, day 1,917, the fourteenth of the month beginning 1,904**, 75 days after Severance 7 at day 1,842, and 80 days short of Severance 9 at day 1,997 |
+| The eighth stage's cost | **she cannot keep him by asking. Named once at ch 632 and never re-derived.** He is findable by knowing and not by asking |
+| Her book | **eight leaves. A date and a place on the first, four sentences on the second, `YUAN SHENG` on the third, and FIVE BLANK ONES, which are still five blank ones** |
+| The nine paces by six | **nine paces by six on the kiln floor, four courses of stone from the bank at the east, laid in the seven days after the morning; a gap the width of a nail the whole of the north joint; one way on to the floor, off the east slope, four paces down, nine paces along the north side** |
+| The Accountant | **seventy-one, the ground's clerk, kept the harvest book of that ground, called Accountant by everybody on it, comes out at the seventh hour, will not open the book, gave her the floor instead. He wrote `YUAN SHENG` in his good hand.** He has said the name he copied nineteen times off other hands and been right every time |
+| The man of fifty | **the one who pushes the ash barrow out at the second hour and the seventh, called the boy who carries the ash by that ground, thirty-one at the harvest and fifty now, started the week after. He pushed a barrow out at the second hour on the morning after and has never said one word of it. He has now said six sentences and he has not told anybody what was in it and he will not** |
+| The tax | **one out of twenty, counted in days and not in money, the same on every ground and it arrives, it comes off the board before the board goes up, no person has ever been told their own total, and it cannot be changed by anybody who collects it. It was designed. She has said so in a yard and cannot un-say it** |
+| What she said in the yard | **the third of the month beginning 1,994, at the sixth hour, standing, in daylight, in front of thirteen people she did not ask to be there, once. Nine seconds of silence after it. He said not one word, as he had said in advance he would** |
+| What he put in front of her | **three sentences at the gate at the sixth hour of the second of the month beginning 1,994: he was a piece of a thing and it was burned out of him at nineteen; he is not a keeper and not an office and has never had a book anybody could take off him; he is telling her before she says a thing in a yard so that she does not say it to a fragment. He refuses a fourth, which is a name** |
+| The figure she could not hold | **the figure on the board at ch 626 with a fraction against it, read four times on the twenty-seventh of the month beginning 1,874, is a fifth of a copper off a man's day, and she can hold it now** |
+| The furnace ground's board | **goes down on the second of a month. The next is the second of the month beginning 1,994, day 1,964, and the one after that day 1,994.** She forfeited the one on the second of the month beginning 1,844 and the furnace ground's came back up the track on a cart |
+| The lever | **carried, not pulled, written in the ash at ch 643 and rubbed out. It is not pulled anywhere in Volume 11 and no card may pull it. Asking twice now costs her both answers, proved in front of the man of fifty-one** |
+| The terms | **one at a time · in daylight · standing. They have not moved since ch 609 and no chapter in this batch moved them. A question is done standing** |
+| Untouched and still open | **the window a hundred yards off the east side · the lime off the bar at ch 604 · the hut light · *twenty-two days*, unplaced and equated to no dated interval · five blank leaves · the name, which is on a leaf of her own book and is not in his own mouth anywhere in the volume** |

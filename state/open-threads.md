@@ -2744,3 +2744,47 @@ grown old), and Feng at ch 652**.
 - **Nothing undoes ch 600, and the year of non-forgiveness is not mentioned once.** Nobody on this ground is thanked.
 - **Twenty-two days** is still OPEN and placed against no dated interval. The window, the lime and the hut light are
   still untouched. `twenty-two days` 0 in this batch, and no card may equate it to a dated interval.
+
+## Volume 11 Batch 0003 (ch 631–645) — what this batch added, and what Batch 0004 inherits
+
+**Fifteen chapters, 29,807 words of body prose on method B, average 1,987, day 1,916 to 1,996. ONE bracketed layer
+line, at ch 632. Severance 7 until ch 632 and Severance 8 from it. The batch's irreversible step is ch 645. Pressure:
+**knowing** — and not being told, which was Batch 0002. Full record in `state/continuity.md` under ***VOLUME 11 BATCH
+0003 — ch 631–645***.**
+
+| Thread | Owner | Planned resolution | State |
+| --- | --- | --- | --- |
+| **The tax** | Ning Yan / series | **Vol 11, Batch 0003 — paid at ch 645** | **CLOSED AS A SHAPE AND NAMED AS A PURPOSE. One in twenty, counted in days, the same on every ground, arriving, taken off the board before the board goes up, no person ever told their own total, unchangeable by anybody who collects it. Four hundred and twenty days divided by twenty comes out even at twenty-one; six thousand nine hundred and thirty-five into twenty does not. She said `it is designed` on a floor at ch 642 and said the purpose in a yard at ch 645, once, in daylight, in front of thirteen people, and cannot un-say it.** The moral answer is not paid and nothing proves the crews wrong |
+| **The permission** | Yuan / Ning Yan | **Vol 11, Batch 0003 — closed at ch 632** | **CLOSED. The permission given at ch 609 had force and does not have force now and he did not do it and cannot put it back. She cannot keep him by asking. He is findable by knowing and not by asking, and this does not come back in the volume** |
+| **The place** | Ning Yan | **Vol 11, Batch 0003 — closed at ch 638** | **CLOSED. Nine paces by six on the kiln floor, four courses of stone from the bank at the east, laid in the seven days after the morning, a gap the width of a nail in the north joint, one way on to the floor. She was shown it at ch 634, walked the whole ground at ch 638 with nothing in her hands, did not stop on it, and does not want it. She has not written it down anywhere and her five blank leaves are still five** |
+| **The second copy of the name** | Yuan / Ning Yan | **Vol 11 — paid at ch 636** | **CLOSED AS A THING. `YUAN SHENG` in a good hand in a cloth book on a plank table at the north end of a furnace ground, written by a man of seventy-one nineteen years ago. Two hands, nineteen years apart, and they agree. He does not read it back and does not need to. The accuracy does not depend on her being alive** |
+| **The ash barrow** | series | **Vol 11, Batch 0003 — half paid at ch 640** | **OPEN AND DELIBERATELY UNRESOLVED. A man of fifty pushed a barrow out of that mouth at the second hour on the morning after, through an east gate and down a mile and a half of track, with not one person at the gate and not one person on the track. He has said six sentences about it and has NOT said what was in it and will not, and there is nothing in the world that can prove it. The tenth part is not given and the crews are not proved wrong** |
+| **The four origin mouths** | series | **Vol 11 — 4 of 5** | **608 · 622 · 636 · 640 are on the page, all four distinct and none of them restating another. 652 is Feng's, in his fair hand, in Batch 0004, and is the fifth and the only one written down on the page** |
+| **The seventh frame scene** | Yuan | **Vol 11, Batch 0003 — paid at ch 644** | **CLOSED. A fragment can be known without being used up, because the knowing was never what used it up and the filing was. He has stopped being an entry and has put three sentences in front of her at a gate and refused a fourth, which is a name. `Scribe` is spent: one naming in the whole volume and it is at ch 644** |
+| **Severance 9** | Ning Yan | **Vol 11, Batch 0004 — ch 648** | **UNSPENT AND ONE DAY OFF at the end of this batch. Day 1,997, the fourth of the month beginning 1,994, eighty days after Severance 8, the longest interval since the ceiling. Its cost is fixed by the outline and is named once, in its own chapter, and is not re-derived: she cannot go back to not knowing** |
+| **Feng Lushi** | Feng | **Vol 11, Batch 0004 — ch 652–655** | **UNSPENT AND UNTOUCHED. `Feng` returns 0 across ch 631–645. He takes a Lung at ch 653, writes at ch 654, dies at ch 655, and the writing is read once and alone at ch 656** |
+| **Ning Wu** | family | **Vol 11, Batch 0004 — ch 658** | **UNSPENT. `Ning Wu` returns 0 across ch 631–645. She refers to a brother two hundred yards north of her on a made road and he is not named and does not appear** |
+| **The Hunter** | Bai Zhu | **Vol 11, Batch 0004 — one card** | **UNSPENT. `Hunter` returns 0 across ch 631–645. His one remaining Volume 11 appearance is a Batch 0004 card and she asks him every time. His request is still pending** |
+| **Wei Ran** | relationship | **Vol 11, Batch 0004** | **UNSPENT. `Wei Ran` returns 0 across ch 631–645** |
+| **Shuyin** | Shuyin | **Vol 11, Batch 0004 — a walking past** | **UNSPENT. `Shuyin` returns 0 across ch 631–645. He walks past her and not to her, once, and returns alive, old, correct, and not thanked** |
+
+### Held, confirmed, not touched by Batch 0003
+
+- **The year of non-forgiveness is not mentioned once.** `forgiv` returns 0 across the fifteen chapters. She does not
+  forgive him and she does not tell him to stop, and the permission at ch 645 is a permission.
+- **Nobody is thanked.** `thank` returns 0 across the fifteen chapters, and no person on the furnace ground is thanked
+  for anything, including the man of fifty-one and the woman of forty-five.
+- **No figure of what is left of him** is stated anywhere in the batch, before or after the settlement.
+- **The terms do not move.** One at a time, in daylight, standing. No chapter in this batch had her asking two things
+  at once, and the lever is not pulled anywhere in Volume 11.
+- **The uncleared retirements stand**: `Ledger` 0 · `reconciled` 0 · `plate` 0 · `kiln-born` 0 · `MEMBER ABSENT` not
+  raised · the register unread · the eleven not raised · the four erased months never named · the ch 150 refusal not
+  softened · no new clearance, seal or countersignature named or implied · one Lung and one appointment and both are
+  Feng's and neither has happened yet.
+- **The window a hundred yards off the east side, the lime off the bar at ch 604, and the hut light are all still
+  unasked and unlearned**, and *twenty-two days* is still open and is placed against no dated interval in this batch.
+- **The surface answer is not re-voiced.** `charged · bookkeeping · receipt · bounded world · the walls` are all 0.
+- **The furnace sect is still not a hall, a conspiracy, a court or a throne.** One furnace, one harvest book, one rule,
+  one morning nineteen years ago, and no wing, no rank list, no committee and no title beyond what the dead held. **No
+  chapter in this batch put her inside the harvest**, and no page of either book is read out loud by anybody.
+- **The Hunter's request is still pending** and a Wall writ is not issued to a field agent.

@@ -1858,3 +1858,139 @@ copper spent and nine in the bag she cannot count. Sixty-eight days since she wa
 A furnace ground that let her stay and has gone quiet on her. A widow who has said a name out loud twice in nineteen
 years and will not open the book a third time without a reason better than the last. **The harvest is named and does
 not hold her, and the bill for the knowing is hers, and she is still going.**
+
+## Volume 11, Batch 0003 (ch 631–645) — *What He Was* — day 1,916–1,996
+
+Pressure: **knowing**. Fifteen chapters, 29,807 words of body prose on method B, average 1,987. One bracketed layer
+line, at ch 632. Severance 7 throughout until ch 632, Severance 8 from it. The batch's irreversible step is ch 645.
+
+- **ch 631, day 1,916–1,917 (thirteenth to fourteenth of the month beginning 1,904), *Seventy-Five Days On A Wall*.
+  DECISION.** She will stand the day the eighth stage comes rather than be asleep for it, because she wants to be on
+  the ground when she has it. **The intervals: seventy, seventy-five, eighty, and she writes the eighty in the ash and
+  does not rub it out.** She walks the stone line in the dark and gets ninety-four paces the long side and fifty-eight
+  the short. She opens her book to the fourth leaf, decides she will write the place there if she gets one, and then
+  decides she does not want to. **She counts the ground: not one person in sixty days has asked her one question about
+  her, and that is the thing she had been waiting for.** She names the day and the person. 357 days.
+- **ch 632, day 1,917–1,922 (fourteenth to nineteenth of the month beginning 1,904), *A Permission That Does Not
+  Hold*. SEVERANCE 8. THE BATCH'S ONE BRACKET.** Ten seconds, heavier than hungry, out of the ground under her feet,
+  and no sound. **She asks him whether the permission is still binding and he says it had force and does not have
+  force now and he did not do it. THE COST, NAMED ONCE: she cannot keep him by asking.** She writes the asking on the
+  back of a board, and by the ninth hour she can read her own line and cannot produce the question. He asks her a
+  question about her work and she finds out she was waiting all along to be asked. Five true answers and no proof she
+  asked for one of them. 362 days.
+- **ch 633, day 1,922–1,928 (nineteenth to twenty-fifth of the month beginning 1,904), *Six Days Of One Question*.
+  COST.** She sets herself a controlled test — five questions written down, one a day, in the terms — and at the end
+  of it she has five answers and not one of them attached to a moment when she opened her mouth. **Asking a person
+  still works and she proves it with the boy of fifteen and with the woman of forty-five.** She is frightened, and she
+  says so. The man of fifty-one names a person: the Accountant, seventy-one, at the north end, and go at the seventh hour.
+- **ch 634, day 1,929–1,934 (twenty-sixth to thirtieth of the month beginning 1,904 and the first of the month
+  beginning 1,934), *Nine Paces By Six*. DISCOVERY.** **THE HANDING.** The Accountant will not open the book and walks
+  her onto the kiln floor instead: nine paces by six, four courses of stone from the bank at the east, laid in the week
+  of the morning. **The floor has one way on to it — off the east slope, four paces down, nine paces along the north
+  side — and that is why a page written by somebody standing there did not have to say where.** She kneels and finds a
+  gap the width of a nail in the whole of the north joint: the stone was cut for it. **And in the same motion the
+  asking goes entirely, and she says so: holding was the knowing and she had been using asking as a second way in.**
+  She does not write it down anywhere.
+- **ch 635, day 1,935–1,940 (second to seventh of the month beginning 1,934), *She Walks It Herself*. DECISION.** Four
+  days of not going near the patch, and she catches herself walking over to look at a join in some stone four times in
+  a day. **The man of fifty-one offers to walk it round with her and she says no in four parts, and the fourth part is
+  the true one: she wants to have gone there.** She gets the route from the Accountant at twenty feet, times it, and
+  names the twenty-first for the walk. **And she says she is not going to stop on the nine paces, because a place is
+  the one thing in the world you can walk off.**
+- **ch 636, day 1,941–1,947 (eighth to fourteenth of the month beginning 1,934), *Two Hands, Nineteen Years Apart*.
+  THE THIRD ORIGIN MOUTH.** **A man of seventy-one opens the ground's harvest book, seven short sentences across four
+  days, and the new thing is that a name written where somebody has to look at it is kept whether or not anybody reads
+  it, and the keeping is accurate, and the accuracy is all of it.** She counts six of the seven back the next day; the
+  one she cannot count is the one he said with the book shut, and being unable to keep it does not matter because he
+  has just told her she was never going to have to. **He wrote YUAN SHENG in a good hand nineteen years ago and it is
+  the same four strokes she wrote in capitals on her own third leaf.** Two hands, nineteen years apart, and she can be
+  lost and the record cannot.
+- **ch 637, day 1,948–1,953 (fifteenth to twentieth of the month beginning 1,934), *Carrying It East*. COST.** **The
+  batch's one settlement, on listed work, at the seventh hour and forty minutes of the sixteenth, on a day of
+  thirty-one lengths: ten seconds, out of the ground, and the woman of forty-five comes out on her step and asks her
+  whether she goes down.** She argues with a thing that cannot happen and finds the real trouble is that there are now
+  two copies and no instrument for holding them. She walks out of the east gate three hours for three days and does the
+  whole list of what she is carrying, oldest first, **and finds at the bottom of it his name, in two hands. The hard
+  part is not that a person can be lost. The hard part is that there is no putting it down.**
+- **ch 638, day 1,954–1,960 (twenty-first to twenty-seventh of the month beginning 1,934), *Past The Patch Of New
+  Stone*. MIDPOINT. REVERSAL. THE PHYSICAL CARD.** Six days of not sleeping, and then the walk: bar at the wall, bag at
+  the gate, nothing in her hands. Four paces down off the east slope, nine paces along the north side, the nine by six
+  on her left and four feet off it, **and she does not stop and does not slow down.** A hundred and thirty-one more
+  paces to the west end, twenty seconds at the hundredth with her face down against the wall, and the mouth, and nine
+  minutes at eight feet off it with the heat coming across the open air into her chest. **And then she comes back down
+  the other side, past the patch at eleven feet, and out of the gate, and says out loud on the flat that she has got a
+  place and she does not want it, and that she has been walking across the top of his day and coming off the far end of
+  it and is good at it.** 394 days.
+- **ch 639, day 1,961–1,966 (twenty-eighth to thirtieth of the month beginning 1,934 and the first to third of the
+  month beginning 1,964), *The Man With Ash On His Arms*. COST.** Two hours and forty minutes of hot stone cost her
+  four days of work: nine lengths, eleven lengths, sitting down twice. She goes down on one knee in the grit in front of
+  a trough in front of nine people and works out that she is not doing it again, and that the reason the nine said
+  nothing about it is that they have been right the whole time. **She finds the tenth man: fifty, ash on both forearms
+  from the wrist up, nineteen years of it, the one who pushes the barrow out.** She asks him one question at the mouth
+  end. He turns round, takes his bar, and works the second length and the third and does not say one word. **And she
+  cannot follow him, because at that hour she could walk nine paces of a floor and get back off it.** 406 days.
+- **ch 640, day 1,967–1,972 (fourth to ninth of the month beginning 1,964), *Second Hour, Nineteen Years Ago*. THE
+  FOURTH ORIGIN MOUTH.** He comes to the gate because she did not follow him. **Six short sentences over three days,
+  and the new thing is that a thing taken out in the morning is gone where taken things go, and the going is not
+  watched, and the not-watching is all of it.** She walks a mile and a half down the east track to the ash heap and
+  finds nine paces by six at the top of it and says out loud that the two are not the same and that she will not make
+  them the same because it would be a better story. **And she gets the morning: not the hour it was taken in, which
+  belonged to him, but the hour after, an hour and a mile and a half long, with a man of thirty-one in it who did not
+  look down — the first morning anybody has handed her about that ground.** And she says out loud, once, that nothing
+  on this ground watched, and that is a different sentence from the one she cannot prove. 410 days.
+- **ch 641, day 1,973–1,978 (tenth to fifteenth of the month beginning 1,964), *The Third Thing He Owes*.
+  REVELATION.** **She asks what the tax was for, in the terms, standing, in daylight, in front of four people — and he
+  says she asked a what, not a why, and gives her the shape instead, six pieces over two days: counted in days and not
+  in money, one out of twenty, the same on every ground, it arrives, it comes off the board before the board goes up,
+  and no person has ever been told their own total.** The woman of forty-five tells her he paid it for nine years and
+  never told her what a day was for and she never asked. **And the figure off the board at ch 626 comes back the
+  second time: she reads it and holds it.** 418 days.
+- **ch 642, day 1,979–1,984 (sixteenth to twenty-first of the month beginning 1,964), *One In Twenty*. DISCOVERY.**
+  Four counts in a row. **Days: four hundred and twenty divided by twenty comes out even, at twenty-one, and she has
+  been carrying a fifth of herself out of the world since she was a child.** Coppers: a fifth of a copper, and the only
+  instrument that could show it to her is nine pieces of metal that will not count. Ash: twenty heaps she makes
+  identical and then has to admit proves nothing. Nineteen years: six thousand nine hundred and thirty-five into twenty
+  is three hundred and forty-six and a bit, and that is a shape. **And she says it out loud, on a floor, at the eighth
+  hour: it is designed. There is no join in it anywhere.** She tells the boy of fifteen at the stack so that he is not
+  the only one standing in front of a fraction at nineteen. 422 days.
+- **ch 643, day 1,985–1,990 (twenty-second to twenty-seventh of the month beginning 1,964), *Rubbed Out Again*.
+  DECISION.** **THE LEVER DECLINED, the third time.** Asking twice would get him to the next answer sooner and would
+  lose the first — **and after the eighth stage it costs her both, because two answers cannot be ordered and she proved
+  that in front of a man with a board.** She writes the two lines in the ash and rubs them out and leaves the black.
+  **She does not write it on a leaf: four of her five blank leaves are still blank and so is the fifth, because a line
+  in her own hand that she cannot remember putting there is a thing she cannot tell apart from a thing she did on
+  purpose.** She tells him in advance that he is to have no part in the day she says it, so that he cannot be the reason
+  for any of it.
+- **ch 644, day 1,991–1,994 (twenty-eighth to thirtieth of the month beginning 1,964 and the first of the month
+  beginning 1,994), *The Price Of Being Known*. THE SEVENTH FRAME SCENE, away from her hearing, present tense
+  throughout.** He reads the four days: the walk, the man of fifty, the shape with a fraction in it, and the sentence
+  *it is designed*, worked out on her own with a stick in the grit. **He has been holding his question upside down for
+  four months — knowing was never what used a fragment up; filing was. A name can be known without being used up, and
+  that is the answer, and it costs nothing.** He looks at the thing he is a fragment of — the **Scribe**, named once,
+  never speaking, never offering, never adjudicated — and at the person in the middle of the machinery who was counted
+  too and told nothing. **He decides to stop being an entry, and to put it in front of her in daylight, as a person
+  handing a thing over, two days before she says her sentence in the yard, so that what she says in the open is a
+  thing she said to a man and not to a fragment.**
+- **ch 645, day 1,995–1,996 (second and third of the month beginning 1,994), *What She Said In The Yard*.
+  IRREVERSIBLE. DECISION.** **He puts it in front of her at the gate in three sentences and refuses a fourth, which is a
+  name.** She tells him in advance, in the yard, in front of people, what she is going to say and that it is about her
+  and not about the four people on that ground who have been exactly right. **AND THEN SHE SAYS IT, once, standing, in
+  daylight, with thirteen people inside a hundred yards that she did not ask to be there: the tax is designed, it was
+  made to a figure before there was a ground to put it on, it is one in twenty on every ground, it has never changed,
+  no person can change it, it is counted in days and not in money — and it is for finding people like her.** Nine
+  seconds. He says not one word, as he said in advance he would. The man of fifty-one puts the nib down and asks what
+  she wants him to do and she tells him to go back to the board. **And she says the rest of it: she is staying, she is
+  not going anywhere, she knows what it is for and she cannot un-know it and cannot un-say it, and she has walked out
+  of four places in ten years and is not going to walk out of the fifth.** 436 days.
+
+### What Batch 0003 leaves Batch 0004
+
+Severance 8 held at day 1,917 and its cost named once. **She cannot keep him by asking** — he is findable by knowing
+and not by asking, and the asking will not come back. **The tax has a shape and the shape is designed, and she has said
+the purpose out loud in a yard and cannot un-say it.** A second accurate copy of his name is in a good hand in a cloth
+book at the north end of a furnace ground and does not need her to be alive. A place exists — nine paces by six, one way
+on — and she has walked it and past it and does not want it. A man of fifty knows what went out of an east gate at the
+second hour on the morning after and has said so, and what was in the barrow is still not known and cannot be proved.
+Her five blank leaves are five blank leaves. The lever is carried, not pulled, and not written. **Nothing is forgiven
+and nothing is thanked.** The eighth frame scene is on the page and he has put three sentences in front of her and
+refused a fourth. **Day 1,997, the fourth of the month beginning 1,994, is SEVERANCE 9 and one day off.**
