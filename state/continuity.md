@@ -5159,3 +5159,165 @@ bracket, irreversible decision, structural mouth or planned event moved.**
 Batch 0001 file and this phase was given ch 555–570 and nothing else, so it was not opened.** It is recorded here for
 the Batch 0003 drafting phase or a repair phase to cut, and it is a duplicate paragraph inside a chapter, which is one
 of the findings the quality gate fails a batch on.
+
+## Volume 10 Batch 0003 (ch 571–586) — established facts, carried to Batch 0004
+
+**Written by the phase that drafted ch 571–586. `outline/volume-10.md` was read and not edited. No file outside
+`chapters/volume-10/` and the state files this brief names was touched, and no `.done` marker was written, which
+`PHASE_SYSTEM.md` gives to the controller alone.**
+
+### The chapter days, re-derived
+
+**Day 1,697** the fourth of the month beginning 1,694 · **1,698–1,699** the fifth and sixth · **1,700–1,702** the
+seventh to the ninth · **1,703–1,705** the tenth to the twelfth · **1,706–1,708** the thirteenth to the fifteenth ·
+**1,709–1,711** the sixteenth to the eighteenth · **1,712–1,715** the nineteenth to the twenty-second ·
+**1,716–1,718** the twenty-third to the twenty-fifth · **1,719–1,721** the twenty-sixth to the twenty-eighth ·
+**1,722–1,724** the twenty-ninth, the thirtieth and the first of the month beginning 1,724 · **1,725–1,728** the
+second to the fifth · **1,729–1,731** the sixth to the eighth · **1,732–1,740** the ninth to the seventeenth ·
+**1,741–1,748** the eighteenth to the twenty-fifth · **1,749–1,771** the twenty-sixth to the thirtieth of the month
+beginning 1,724 and then the first to the eighteenth of the month beginning 1,754.
+**The batch crosses two month-starts, at 1,724 and 1,754.** Months in this stretch begin on days 1,694 · 1,724 ·
+1,754. **The batch runs day 1,697 to day 1,771, seventy-five days, and 31 days remain at the last page.**
+
+### Established facts
+
+1. **SEVERANCE 5, taken at ch 572 on day 1,697, the fourth of the month beginning 1,694** — the pinned 68-day interval
+   from Severance 4 at day 1,629 (1,697 − 1,629 = 68). It lands in the open at a shut door with a woman of fifty
+   forty feet inside a lane, **no figure of what is left of him is stated.** Cost, named once here and shown from ch
+   573 onward: **she cannot follow a name she is given.** A person who tells her where somebody is hands her the place
+   he was. **Volume 10's bracket budget is three at ch 556, 572 and 588; this batch spent one.**
+2. **The irreversible step, ch 585, and it is hers.** She said **Ning Wu** out loud at the seventh hour of the
+   twenty-fifth of the month beginning 1,724, four feet into an opening in a wall, on her own side, in daylight, with
+   a boy of fifteen four feet off behind her and a carter stopped four hundred yards east on the made road. **He did
+   not write it.** His hands stayed on the plank; the brush was in a bag behind him and he did not turn round for it.
+   **It cannot be un-said, and nothing was bought.** `Ning Wu` **2** on the page in this batch, at ch 572 and ch 585,
+   both in her own mouth, never said at a wall before ch 585 and never read out of anything.
+3. **The sixth frame scene is on the page at ch 584**, away from her hearing, present tense throughout, **no other
+   character in it**, and no figure of what is left of him stated. Its answer is on the page with it: **a name cannot
+   be held open past the closing except by somebody left permanently on the wrong side of it, and the only such person
+   on nine days of road is her.** He has looked for a second keeper and a second instrument for four hours and there
+   is neither. **He puts the price in front of her in daylight at ch 585, on the first of her seven days, before she
+   says the name: *Say it here and it goes into you and stays.****
+4. **What she gave him at ch 580.** Four sentences about a house four miles west of a turn, a standing stone, a boy
+   who counted loads out loud ten years back, a carter with a board, and a boy who walked behind the last barrow
+   because he would not get it on one. **He took it and did not write it and did not put it down.** The discovery on
+   the page: **a keeper takes a thing and does not let it go stale, and what she handed him will be true on the
+   nineteenth of a month beginning 1,784 whether or not it is true on any day in between.** It is in him, not in the
+   book, and she does not know how that instrument works.
+5. **The four questions are untouched and the lever is untouched.** *What else is on it* (day 1,627) · *what it is for* ·
+   *what does the word do* · *will you tell me when*, answered *there is a day*. **The first has been standing a hundred
+   and twenty-one days at the last page of this batch** and she is not allowed a fifth. **Asking twice is still the
+   only lever and she has carried it on purpose for a month and has not pulled it**, including on the twenty-fifth in
+   the best hour of her life.
+6. **The closing day has not moved and was not re-derived:** the nineteenth of the month beginning 1,784, day 1,802,
+   named at ch 570. **105 days at ch 571–572 · 90 at ch 578 · 78 at ch 581 · 71 at ch 583 · 54 at ch 585 · 31 at the
+   last page of ch 586.**
+7. **The geography the batch fixed, and Batch 0004 may rely on it without re-deriving it:** the post is nine miles west
+   of the turn · **a lane leaves the store road at the turn and runs four miles west to the stone face, and at forty
+   feet into that lane there is a low house with a bar across the door, a standing stone in the yard, a barrow with a
+   wheel off it, and a woman of fifty** · **the store road runs four miles west from the turn to a cottage with a shut
+   door at the mouth of a stopped lime bed, four miles she was given; the mill is a mile beyond it at five with a
+   wheel that has not turned for nine years, and the store is behind the mill at fourteen miles from the post** · the
+   bar on two posts is four hundred yards east of the turn · the wall is twenty-two miles east of the post, nine of
+   strip, eleven of made, two past a gate, **and there is nothing between the gate and the wall to lie down on.**
+8. **What the miller put on the page, and it is the only road on this ground that is in the past tense about the
+   brother.** The lime stopped nine years back. **A carter came down the road with a board, put four names on it and
+   took them east; the four went east with it; the carter came back without them and was not the next one back for a
+   long time.** The miller says the boy went with them and walked behind the last barrow because he would not get up on
+   one. **Nine years old. Batch 0004's road. Nobody has corrected it and nothing on the page contradicts it.**
+9. **Work and bread, and the mechanism that now owns her days.** The board is chalked on a barrow and goes down to the
+   store on the **second day of a month**. The store gives out what the board says. **To be paid she has to be at the
+   face on the first and at the store on the second, and she cannot be at the face on the first and at a wall two
+   miles past a gate on the first.** She worked the 13th–15th, the 19th–21st and the 3rd–5th of the months beginning
+   1,694 and 1,724; the board that went down on the second of the month beginning 1,694 carried nothing of hers because
+   she was at a wall. **Three days of stone for nothing at all at ch 576** is a cost the volume paid and did not
+   soften.
+10. **The loaf.** It is not wages, not a rate, not a keeping, not a debt. **A loaf given without being asked is given,
+    and a place is kept, and the difference between a woman of fifty and a man of nine hundred years is exactly
+    that.** She has never been looked after by a person in her life and has no word for what the woman is doing and is
+    not going to go and find one at four in the morning.
+11. **Structural mouths two of three for the volume, both inside the range.** **ch 577, the boy of eleven, five short
+    sentences** — a thing said out loud where two people are is out, you cannot go back and say it quieter, and you
+    cannot un-say it to him either, and it is not his board. **ch 581, the woman of fifty, six short sentences** — she
+    will give you what she has and not what you asked for, and she does not remember his face, and bread goes in the
+    body. **Both are unnamed, both are new, neither is one of Volume 9's five.**
+12. **Untouched and unraised, and each is a fact rather than a topic:** the paper against her ribs, opened and never
+    named, **not described, and there are two things against her ribs and she has called neither of them anything** ·
+    the plate still worn and undescribed · the register still *reconciled* · *kiln-born* in two heads on no paper ·
+    what became of the eleven not raised · the four months never named · the ch 150 refusal never softened ·
+    **no page of his book read out loud and no name ever read** · the year of non-forgiveness not mentioned once in
+    sixteen chapters.
+13. **She never thanks him and never thanks Shuyin.** She says thank you out loud once, at ch 580, to a man of nine
+    hundred years for four sentences about a house, **and it buys nothing and she did not expect it to buy anything.**
+    She does not thank the woman of fifty, the woman of sixty, the woman behind the counter or the boy of fifteen.
+14. **Him.** `Yuan` is **not named anywhere in sixteen chapters** and is on the page once, at ch 584, alone, in a
+    reading-space with nothing in it and no light that comes from anywhere. He opens no wall, is wrong-sided from day
+    1,521 (ch 518), is findable and sendable and answerable, and **no figure of what is left of him is stated before or
+    after the frame scene.**
+15. **Shuyin** receives at the wall twice (ch 580 and ch 585) and never walks west. `Shuyin` **0** in the batch, by
+    name, in narration and never in his own mouth. `Warden` **0**. **He is alive, old, correct, not thanked, not a
+    final enemy, and he returns.**
+16. **The window, a hundred yards off the east side of the wall, is STILL OPEN and was not approached.** **Its four
+    questions are unspent and Batch 0003 established the price of them: they are not outside the terms, they cost a
+    trip, and there are not three of those trips left in the days she has.** **Batch 0004 must not resolve it.**
+    ***Twenty-two days* is still OPEN**, unplaced, and no card equated it to any dated interval.
+17. **The book's own rule held and was not broken.** Put down once at ch 538, moved once at ch 563, by her own two
+    hands. **Nothing in this batch puts anything back on the flat stone and the stone is bare at the last page.**
+    **The six empty leaves are hers and she has decided not to write in them. She put a nib to the first of them at
+    ch 586 and put it away, and nothing in this batch writes in them.**
+18. **The lever, the window, the five unpaid stands, and the twenty-three days after the naming** are what Batch 0004
+    inherits, and the state at the last page is written at `state/current.md` §*Who is where at end of chapter 586*.
+
+### Construction budget — Volume 10 Batch 0003, counted rather than promised
+
+Body prose only, **method B — every line not beginning `#` — measured on the sixteen files as they stand, every count
+on word boundaries and measured before it is claimed.**
+
+**28,831 words of body prose over sixteen chapters, average ~1,802** — inside the batch band of 27,000–30,000, which is
+1,688–1,875 a chapter, and above the 1,300 floor, with none above the 2,700 guide and two above the 1,875 figure
+(ch 571 at 2,071 and ch 586 at 2,017, both of which carry the batch's first and last day). Per file: **571 2,071 ·
+572 1,843 · 573 1,756 · 574 1,804 · 575 1,601 · 576 1,764 · 577 1,610 · 578 1,740 · 579 1,615 · 580 1,776 ·
+581 1,667 · 582 1,882 · 583 1,812 · 584 1,877 · 585 1,995 · 586 2,017.**
+
+| Construction | Measured across ch 571–586, body prose, `\b` word boundaries | Allowance | Verdict |
+| --- | --- | --- | --- |
+| Authorial scaffolding | **0** — the widened pattern and the bare forms `volume` / `chapter` / `batch` / `reader` counted separately and all **0**. Two instances of *this batch* at ch 578 and ch 581 and one of *this book* at ch 581 and one of *this chapter* at ch 575 were written and all four were cut | 0 | **PASS** |
+| Bracketed layer lines | **1 in sixteen chapters**, at ch 572, on its own line, in the far-side house form with only the realm and the number changed; **exactly 2 bracket characters in the batch, an opening and a closing, and both are on that one line** | 1 in Batch 0003 | **PASS** |
+| Bold | **0** | 0 | **PASS** |
+| Italic | **4** — *a day is not a thing you can hurry* at ch 571, the long miller quotation at ch 574, *there is a day* at ch 579 and *lost* at ch 584. All four load-bearing. Thirteen were written and nine were cut | scarce, counted | **PASS** |
+| Blockquotes · code fences · tables · horizontal rules | **0 / 0 / 0 / 0** | 0 | **PASS** |
+| All-caps standalone lines | **0** | 0 | **PASS** |
+| Straight quotes · straight apostrophes | **0 / 0** — every speech closed in all sixteen files, and **17 ASCII apostrophes** written and all 17 converted to curly | 0 / 0 | **PASS** |
+| The retired seven phrases | **0** as phrases, so **all three of Volume 10's allowance remain unspent** | 3 as phrases, volume-wide | **PASS** |
+| *About four seconds* · *eleven weeks* | **0 / 0** | 0 / 0 | **PASS** |
+| The four banned web-prose reflexes | **0 / 0 / 0 / 0** | 0 | **PASS** |
+| The Yuan tag | **0 verbatim**, and no lead-in of any shape, and he speaks nothing | 0 | **PASS** |
+| Named weekdays · named calendar months · named weeks | **0 / 0 / 0** — the three `week` hits were generic durations and all three were reworded to days, and *the spring* was cut | 0 / 0 / 0 | **PASS** |
+| Zeroed proper nouns | **0 for all of them** — `Ledger` `reconciled` `plate` `licence` `license` `clearance` `countersignature` `seal` `kiln-born` `MEMBER ABSENT` `tribulation` `Feng` `Anchor` `Sisterhood` `Scribe` `bargain` `Lung` `appointment` `budget` `Wall writ` `field agent` `Wei Ran` `Xie Changyin` `Shen Xiu` `Yuan` `Order` `Warden` | 0 | **PASS** |
+| The surface answer | **0** — `charged` `bookkeeping` `receipt` `bounded world` `the walls` all 0 | 0 | **PASS** |
+| The year of non-forgiveness | **0** in sixteen chapters. The single thank you at ch 580 is to a keeper for information and buys nothing, and the reason is on the page | 0 | **PASS** |
+| `Shuyin` · `Ning Wu` · `Yuan` | **0 · 2 · 0** — Ning Wu at ch 572 to a kerb and at ch 585 said out loud in daylight at a wall, both in her own mouth and never read out of anything; Yuan is not named anywhere and is on the page once, at ch 584 | counted, not zeroed | **PASS** |
+| `list` | **4**, and `listing` **2** — load-bearing and counted. `vouch` **0**. `send for` / `sent for` / `sending` **0** | counted | counted |
+| `about` | **87**, average **5.4** a chapter, body prose, word boundaries. **It came down from 89 at the first full measurement** | under 7.0 | **PASS, under the line** |
+| `whole of` | **11**, from 42 at the first full measurement. Batch 0002 spent 22 and Batch 0001 spent 46, so **Volume 10 is now at 104 against a volume-wide target under 80 and that is a volume-close item, not a defect in this batch** | under 80 volume-wide | **on pace; the volume is over and is recorded as such** |
+| bare `eleven` | **38**, from 63 at the first full measurement; `eleventh` and `Eleven` counted separately. Batch 0001 spent 86 and Batch 0002 spent 63, so **Volume 10 is now at 187 against a target under 200 and this batch is what brought it back under the line** | under 200 volume-wide | **PASS, and the volume is now under it** |
+| `nobody` · `nothing` | **29 · 93**, average 1.8 a chapter | nobody under 2.0 | **PASS** |
+| Chapter titles | **16 new `#` headings, zero collisions** against the 570 that preceded them and zero among themselves; longest **35 characters**; all names, none restating a scene, a date, an hour or an age | names, 3–12 words, under ~90 characters | **PASS** |
+| Section-heading identity | **measured on `^## ` per file, 0 chapters with the same `##` twice** | 0 within a chapter | **PASS** |
+| Paragraphs | longest **90** words; **0 paragraphs over the 90-word guide**, none over 120, after five were split at ch 573, 580, 581, 584 and 586 | break over ~90, never over ~120 | **PASS** |
+| Duplicated paragraphs | **0 within the batch and 0 across it**, on a per-paragraph and per-chapter count. **One was found in a closed chapter and cut — see below** | 0 | **PASS after one repair** |
+| Files without a trailing newline | **0 of 16** after the repair | — | **PASS** |
+
+**What the repair was, in one sentence:** the batch was drafted, measured and cut on the page — 2 instances of `about`,
+31 of `whole of`, 25 of `eleven`, 9 italic spans, three `week` hits, four `order` hits, one `bargain`, five
+authorial-scaffolding sentences, seventeen straight ASCII apostrophes, five over-length paragraphs, one duplicated
+paragraph inside ch 583 and two dialogue paragraphs that a duplicate check caught, and sixteen trailing newlines added
+— with **no beat, day, title, stage, bracket, irreversible decision, structural mouth or planned event moved.**
+
+### The closed-chapter finding, discharged
+
+**`chapters/volume-10/chapter-0551.md` carried the exact duplicated paragraph that Batch 0002 recorded at lines 99–103
+and carried forward for whoever drafted this batch. It is cut.** The second restatement of the keeper untying the string
+on the flat book and showing her the page was removed; the keeper's seven sentences and the section that follows are
+untouched. **ch 551 is now 1,756 words of body prose on method B, down from 1,824. No beat, day, title, mouth,
+decision or planned event moved, and no chapter of Batch 0001 was opened other than this one and only for this.**

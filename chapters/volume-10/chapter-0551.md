@@ -98,10 +98,6 @@ He did not answer straight away. He went and untied the string on the flat book 
 
 Seven sentences, and it is the whole of what a post does, and he put the pot back under his arm and went in and shut the door.
 
-He did not answer straight away. He went and untied the string on the flat book under the bottom of the ladder and she thought, for four seconds, that she had gone too far.
-
-Then he took it out and showed her the page, which she has already read in the dark with both books in her hands, and he put it back and tied the string.
-
 ## The Third Question She Did Not Ask
 
 There was one more and she had it ready at the seventh hour and she did not ask it, and she wants that written down because the whole three days came out of not asking it.

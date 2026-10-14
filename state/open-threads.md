@@ -2166,3 +2166,86 @@ page at `chapters/volume-10/`, not against a plan.**
 - **The bill at the midpoint is hers and it is enormous:** the only thing keeping the list open for nine hundred years
   was nobody looking at it, she asked, and she has a hundred and six days to find a brother with an instrument that
   narrows every time she uses it. **Nothing is undone and nothing is softened and ch 536 stands.**
+
+## VOLUME 10 BATCH 0003 (ch 571–586) — what the batch opened, moved and closed
+
+**Sixteen chapters, days 1,697–1,771, pressure *following a name*. Every line below is checked against the page at
+`chapters/volume-10/`, not against a plan.**
+
+### CLOSED by this batch
+
+1. **Whether a name said at a wall can be taken back.** OPEN from ch 566 and from the boy of eleven's five sentences at
+   ch 577. **CLOSED at ch 585.** She said **Ning Wu** out loud at the seventh hour of the twenty-fifth of the month
+   beginning 1,724, in daylight, four feet into an opening, on her own side, with a boy of fifteen four feet off and a
+   carter four hundred yards east. **He did not write it.** It cannot be un-said. **Eight years of one thing kept shut
+   on purpose ended with nothing bought.**
+2. **What a told place actually is.** NEW at ch 572. **CLOSED at ch 578.** A person who tells her where somebody is
+   hands her the place he was. **The gift and the loss are one motion: every direction anybody has ever given her points
+   west, and a girl who has four miles west to walk is a girl who is not walking east.** She walked past the shut door
+   and kept walking to a store.
+3. **Whether a loaf given without being asked can be put anywhere.** NEW at ch 575. **CLOSED at ch 581.** It is not a
+   keeping, not a debt, not wages and not a rate. **A loaf is given. A place is kept. That difference is the whole of
+   it**, and she has never been looked after by a person in her life.
+4. **Whether a count can still be a plan.** OPEN from ch 569–570. **CLOSED at ch 582.** Seven counts in two days, the
+   first costing a quarter of an hour and the last a minute and a half, and the answer did not move once. **The count
+   has stopped being a way of finding out whether a thing can be changed and is now a way of passing between one
+   number and the next.**
+5. **What the frame scene goes looking for.** OPEN from `outline/volume-10.md`. **CLOSED at ch 584.** **A name cannot
+   be held open past the closing except by somebody left permanently on the wrong side of it, and the only such person
+   on nine days of road is a nineteen-year-old with a bar.** He has looked for a second keeper and a second instrument
+   for four hours and there is neither.
+
+### OPEN, and now carried into Batch 0004
+
+6. **THE CLOSING DAY. Day 1,802, the nineteenth of the month beginning 1,784. 31 days remain at the last page of this
+   batch.** Named at ch 570, **caused by her asking**, and every asking from that day narrows what can still be found.
+   **Batch 0004 must not re-name it, re-derive it or extend it.**
+7. **THE BROTHER. He is alive, and she has not found him, and she has closed off asking.** He has never been on this
+   volume's page in person and **Batch 0004 is the only place in the whole novel where he may be.** **Nothing on the
+   page places him.** Everything anybody has told her about him is in the past tense and four miles west of a turn: a
+   cottage at a stopped lime bed, a mill one mile on, and **a carter with a board who took four people east nine years
+   back and did not come back for a long time, with the boy walking behind the last barrow because he would not get up
+   on one.** She has decided, at ch 585, to find him herself and not to spend one of her four questions on it.
+8. **Four questions standing in a book nine hundred years deep, none answered, and she is not allowed a fifth.** The
+   first has been standing a hundred and twenty-one days. **Batch 0004 must not resolve any of them except by the terms
+   he gave at ch 554, and the paying beat is the closing.**
+9. **The lever.** Asking twice is the only thing in the world that would move the first question and the only thing
+   that would stop it forever. **She has carried it on purpose for a month and has not pulled it, including on the
+   twenty-fifth.** It is live and it belongs to the reader as a standing wire; Batch 0004 records whether she pulls it
+   and it may not be spent early and for nothing.
+10. **What she has put INTO him.** Four sentences about a house with a standing stone, taken at ch 580 and not put
+    down. **It is in him and not in the book, and it will be true on the closing day whether or not it is true
+    tomorrow, and she does not know how that instrument works.**
+11. **What *lost* does.** Still unanswered. Four nights and one subtraction across two batches.
+12. **The hut light, a hundred yards off the wall.** **STILL OPEN and deliberately untouched by this batch.** Its four
+    questions are unspent and this batch established their price — **they are not outside the terms, they cost a trip,
+    and there are not three of those trips left in the days she has.** Batch 0004 must not resolve it.
+13. **Twenty-two days.** **STILL OPEN**, unplaced, and no card in this batch equated it to a dated interval.
+14. **Whether she can go back.** She said at ch 585 that she is going to find him herself, and the only road anybody
+    has given her points west and the only thing in the world pointed at is a wall twenty-two miles east. **She has no
+    road and thirty-one days, and she went west at the seventh hour of the eighteenth of the month beginning 1,754 to
+    a place she had never been to and had no reason to go to.**
+
+### CARRIED and untouched
+
+15. The three Volume 9 costs, the first and second Volume 10 costs — **carried and shown, not re-derived.** The fourth
+    cost, *she cannot keep what she finds by holding it*, belongs to ch 588 and Batch 0004.
+16. The paper against her ribs, opened alone and never named — **not touched, not described. There are two things
+    against her ribs and she has called neither of them anything.**
+17. The plate worn and undescribed — `plate` **0**. The register still *reconciled* — **0**. *kiln-born* **0**. The
+    eleven, the four months, the ch 150 refusal — **not raised.**
+18. The Hunter's request pending · **the Hunter is not on the page in this batch** · the tenth part not given · the
+    surface answer never re-voiced · `Ledger` **0** · the year of non-forgiveness **0 mentions**.
+19. **Him.** `Yuan` is **not named anywhere in sixteen chapters** and is on the page once, at ch 584, alone, in a
+    reading-space, in the present tense, with **no figure of what is left of him stated**. He opens no wall and is
+    wrong-sided from day 1,521. His survival and old age are still unthanked and unpaid for.
+20. **Shuyin.** Receives at the wall twice, never walks west, `Shuyin` **0** by name in this batch, `Warden` **0**.
+    **He is alive, old, correct, not thanked, and he returns to shut the book at ch 596–597.**
+
+### Two things the batch did that Batch 0004 must not undo
+
+- **She said the name and he did not write it, and the consequence of that is now a fact on the page: the name is not
+  in nine hundred years, it will not be true on the closing day, and she is the only record of it.** Batch 0004 cannot
+  have it go into the book and cannot have anybody at the wall ask after it.
+- **She has closed off the option of spending a question on where her brother is, and she did it out loud, in
+  daylight, after being told what it would cost.** Batch 0004's finding is walked to, not asked for.

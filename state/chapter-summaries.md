@@ -1279,3 +1279,121 @@ words of body prose on method B over sixteen chapters, average ~1,723.**
   way at ch 557, 559 and 560.
 - **`about four seconds` was written six times and cut to 0**, and `about` came down from 206 to 92 (average 5.8 a
   chapter, under the 7.0 line). `whole of` came down from 51 to 21 and `nobody` from 42 to 27.
+
+## Volume 10 Batch 0003 — *The List*, ch 571–586, day 1,697–1,771 — WRITTEN
+
+**Pressure: following a name. Batch midpoint ch 578, the gift and the loss finishing as one motion. Climax ch 584–585:
+the sixth frame scene and the name said out loud and not written. 28,831 words of body prose on method B over sixteen
+chapters, average ~1,802.**
+
+### One line per chapter
+
+- **ch 571, day 1,697, the fourth of the month beginning 1,694 —** eighteen hours west off a wall, a bar and a loaf and
+  a bit, the woman of sixty on the bench saying nothing, **a hundred and five days counted down for the first time in
+  her life** — and the count stops being a measurement and becomes a thing she is doing to fill a day. **Decision: the
+  days are hers and the questions are not, so she turns west thirteen miles to a face.**
+- **ch 572, the fourth — SEVERANCE 5, the batch's one bracket —** forty feet down a lane there is a low house with a
+  shut door, a standing stone in the yard and a woman of fifty on a stool, and she says nine sentences about a boy who
+  counted loads out loud ten years back and never says how she knew. **SEVERANCE 5 — she cannot follow a name she is
+  given** — and she is handed a place that is where he was, and takes it, and does not see the cost for another
+  eighteen days.
+- **ch 573, the fifth and sixth —** two days and two nights in an empty room with a barrow-way, a hearth, a nail and a
+  clean place on a sill, and the finding that she was not resting. She gets to the bar on the inside at two in the
+  morning and puts it back down. **Cost: a girl who has a place to be is not a girl who asks.**
+- **ch 574, the seventh to the ninth —** a mill one mile on with a wheel that has not turned for nine years, and the
+  first new method in the batch: **a man nobody has asked anything in nine years will tell you everything he has.**
+  Nine sentences from a man of seventy, two questions she does not ask, and the past handed to her as if it were the
+  present. **Danger: a carter with a board took four people east nine years ago and did not come back for eleven days.**
+- **ch 575, the tenth to the twelfth —** a loaf on a sill with a cloth over it and no string on it, put there in the
+  dark. She walks forty feet of lane and not down it. **Discovery: a loaf given without being asked is neither a
+  keeping nor a debt, and her whole method has nothing to say about it.**
+- **ch 576, the thirteenth to the fifteenth —** thirty-three barrows in three days, and the board went down on the
+  second of the month while she was standing in an opening in a wall, so the store gives her a rate and no bread.
+  **Cost: three days of stone for nothing at all, and she takes the work anyway.**
+- **ch 577, the sixteenth to the eighteenth — STRUCTURAL MOUTH TWO OF FIVE —** the boy of eleven at the near end of a
+  board, five short sentences, and the structural answer: **a thing said out loud where two people are is out, you
+  cannot go back and say it quieter, and you cannot un-say it to me either.** She does not tell him what the thing was.
+- **ch 578, the nineteenth to the twenty-second — MIDPOINT —** nine barrows a day for three days, the woman of sixty
+  saying nothing on the bench, and then an hour standing in a yard that produced four marks and no person. **She does
+  not open the door, and she keeps walking.** The gift and the loss are one motion: **every direction anybody has given
+  her points west, and the only thing in the world pointed at is the wall.**
+- **ch 579, the twenty-third to the twenty-fifth —** a column of four lines in the dust, and three sums she had never
+  done: four questions and eighty-five days is three questions at the best; the window's four questions are not outside
+  the terms, they cost a trip; and a count that has stopped being able to change. **Cost: being handed a place has cost
+  her the question about the window.** The lever is checked and not pulled.
+- **ch 580, the twenty-sixth to the twenty-eighth —** twenty-two miles east with nothing in the bag to give a keeper
+  four sentences about a house with a standing stone in the yard. **He does not write it and he does not put it down.
+  Discovery: a keeper cannot let a thing go stale, and what she has handed him will be true on the nineteenth of a
+  month beginning 1,784 whether or not it is true tomorrow.**
+- **ch 581, the twenty-ninth to the first of the month beginning 1,724 — STRUCTURAL MOUTH THREE OF FIVE —** one
+  question asked at forty feet of lane and **six short sentences about bread and not one word about a boy**, and a
+  loaf in a cloth. **A loaf given without being asked is not a keeping and not a debt, and the difference is the whole
+  of it.** She would have liked to be refused.
+- **ch 582, the second to the fifth —** nine loaves drawn against a board, a column written seven times in two days,
+  a nib put to the first of six empty leaves and put away again, and the finding that a count stops being a plan and
+  becomes a thing she is enduring. **Cost: the count cannot be hurdled and she is not going to hurry it.**
+- **ch 583, the sixth to the eighth —** twenty-two miles east with seven counts on made road at the third hour, the
+  boy of fifteen at the gate who has been keeping her count too, and the terms that say nothing about how long she may
+  stand. **Danger: she does not know that her body will give her seven days, and a day of walking is not a day of
+  standing.**
+- **ch 584, the ninth to the seventeenth — THE SIXTH FRAME SCENE —** away from her hearing, present tense throughout,
+  no other character in it: a closing that is a day and not a line, no second keeper, no second instrument, and the
+  answer. **A name cannot be held open past the closing except by somebody left permanently on the wrong side of it,
+  and the only such person on nine days of road is her.** He puts the price in front of her before she does the thing.
+- **ch 585, the eighteenth to the twenty-fifth — CLIMAX, IRREVERSIBLE —** seven days at the opening, nineteen hours of
+  standing in daylight on dressed stone with no bread, an arm open four days out of seven and lighter every day of it.
+  He says *Say it here and it goes into you and stays* on the first of the seven. **On the twenty-fifth, at the seventh
+  hour, with a boy of fifteen four feet off and a carter four hundred yards east, she says Ning Wu out loud on her own
+  side, and he does not write it, and it cannot be un-said.** And she decides to find him herself.
+- **ch 586, the twenty-sixth to the eighteenth of the month beginning 1,754 —** twenty-three days after it, the two
+  miles walked back with a boy of fifteen, six empty leaves left empty, the lever checked and not pulled, and the
+  arithmetic of what a said name is: **it is not in nine hundred years and it will not be true on the closing day, and
+  it cost nothing, and it is the only thing she has said in her life she can put down.** Everything anybody has told her
+  points west. There is a road to a wall and no road to a name. Thirty-one days.
+
+### What the batch established, for whoever drafts Batch 0004
+
+1. **Severance 5, taken at ch 572 on day 1,697, the fourth of the month beginning 1,694, at the pinned 68-day
+   interval.** Cost, named once: **she cannot follow a name she is given.** Volume 10's bracket budget is three at ch
+   556, 572 and 588; this batch spent one.
+2. **The sixth frame scene is on the page at ch 584** and its answer is on the page with it: **a name cannot be held
+   open past the closing without leaving somebody permanently on the wrong side of it, and the only person available is
+   her.** He tells her the price in daylight at ch 585 before she says the name.
+3. **The irreversible step, ch 585, and it is hers.** She says **Ning Wu** out loud at the seventh hour of the
+   twenty-fifth of the month beginning 1,724, four feet into an opening in a wall, on her own side, with a boy of
+   fifteen four feet off and a carter four hundred yards east. **He does not write it.** Two occurrences on the page in
+   sixty-nine days and it cannot be un-said. **She has spent nothing and bought nothing.**
+4. **The geography the batch fixed and Batch 0004 may rely on without re-deriving it:** the turn is nine miles east of
+   the post; **a lane leaves the store road at the turn and runs four miles west to the stone face, and at forty feet
+   into that lane there is a low house with a shut door, a standing stone in the yard, and a woman of fifty**; **the
+   store road runs four miles west from the turn to a cottage with a shut door at the mouth of a stopped lime bed, and
+   the mill is a mile beyond it at five, with the store behind it at fourteen miles from the post**; the wall is
+   twenty-two miles east, nine of strip and eleven of made and two past the gate, and there is nothing between the gate
+   and the wall to lie down on.
+5. **New and unnamed on the page:** a woman of fifty at forty feet of lane (mouth three) · a man of seventy at a dead
+   mill · a boy of thirteen who carries the far end of a board. **All correct, none a villain, none asking anything
+   of her that she cannot give.**
+6. **A carter came down that road with a board nine years back, put four names on it and took them east, and did not
+   come back for a long time, and the miller says the boy walked behind the last barrow because he would not get up on
+   one.** That is Batch 0004's road and it is the only road on this ground that is in the past tense about him.
+7. **The window, a hundred yards off the east side of the wall, is still open and unlearned** and was not approached.
+   **Its four questions are still unspent and are now known to cost a trip.** ***Twenty-two days* is still OPEN** and
+   was not placed. **The voice was not touched.**
+8. **`Shuyin` 0 in his own mouth and 0 in narration in sixteen chapters**, by name. `Warden` **0**. **`Yuan` is on the
+   page once, at ch 584 only, and does not speak.** `Ning Wu` **2**, at ch 572 in her own want to a kerb and at ch 585
+   said out loud.
+
+### Deviations and repairs, recorded rather than hidden
+
+- **The card's *six days of stone* at ch 583 is written as four days of face since the board went down and nine days
+  since the last drawing.** The board runs on the second of a month and the face days are fixed by the store run, and
+  the page arithmetic is the authority.
+- **`about four seconds`, `week`, `order`, `bargain` and all six authorial-scaffolding forms were written and cut to
+  0.** `about` came down from 89 at the first full measurement to **87, average 5.4 a chapter**. `whole of` came down
+  from 42 to **11** and `eleven` from 63 to **38**. `nobody` is **29, average 1.8**. Italic spans came down from thirteen to
+  **four, all load-bearing**. Seventeen straight apostrophes, four `Order` hits, three `week` hits and sixteen files
+  without a trailing newline were all cleared on the page.
+- **`chapters/volume-10/chapter-0551.md` carried an exact duplicated paragraph recorded by Batch 0002 and carried
+  forward here. It was cut.** No beat, day, title, mouth, decision or planned event moved, and the file is a Batch
+  0001 chapter that this phase was given leave to repair; the cut is at the second restatement of the keeper untying
+  the string on the flat book, and ch 551 is now 1,756 words of body prose on method B.
