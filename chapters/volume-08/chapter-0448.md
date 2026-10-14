@@ -19,15 +19,23 @@ She kept the flat stone with its two pebbles off the road where she can see it f
 
 In the evening she went to the stone and sat before it a while. She could sweep the pebbles off with one finger and the stone would be empty. The folders would still hold. The room would still hold her as staying. Sweeping changes nothing on paper.
 
-It changes only the stone. She left the pebbles where they lie, because lying to a stone is worse than useless. She stood, shouldered the bar, and went to sleep at the gate with the two yeses sitting in her chest beside four hundred and seven names.
+It changes only the stone. She left the pebbles where they lie, because lying to a stone is worse than useless. She stood, shouldered the bar, and went to sleep at the gate with the two yeses sitting in her chest, one on top of the other, heavy as two small stones.
 
 
 
-## The Morning Check
+## The Third Pebble
 
-In the morning she checked the stone again. Two pebbles, undisturbed in the night. No wind moved them. No foot touched them. They lie where she left them, small, plain, true. She could name them aloud to fix them: folder, staying. She does, once, quiet, to nobody, the way she says everything that must be carried.
+In the morning she laid the whole of it out, which is what she does with anything she has to carry. She found the flat stone off the road and set a third pebble on it at the end of the row. First pebble, the thirteenth, the book, the folder, the line that says the room. Second pebble, the seventeenth, staying for the book, standing, a person they can call. Third pebble, herself, sitting before them, eighteen, four fingers and a thumb, eight of eleven holds, short breath four counts.
 
-Then she shoulders the bar and goes to carry bundles, because carrying is what she has instead of un-saying. The room takes her bundles without comment. The tied folder waits on its shelf. The book holds four hundred and seven. The two yeses hold with them. All true. None removable. That is the day.
+She looked at the three of them a long time. Then she swept the third off the stone with one finger and left the two where they lay.
+
+That is the shape of it. She remains. The two yeses remain with her. Nothing was refused and nothing failed and nothing can be un-agreed, the way a date said out loud on the eighteenth of last month cannot be un-agreed.
+
+She said a date then and found eleven days later she cannot call a halt. She said all right twice now and found eleven days later each closes an option. Her word does not turn things once they are under way. She can still say no. She just cannot make the no take.
+
+She checked the stone once more before she shouldered the bar. Two pebbles on it, and the third out in the dirt beside it, lying where her finger put it and not going anywhere. She named the two aloud once, quiet, to get the order right. Folder, staying.
+
+Then she went to carry bundles, because carrying is what she has instead of un-saying. The room takes her bundles without comment. The tied folder waits on its shelf. The book holds four hundred and seven. The two yeses hold with them. All true. None removable. That is the day.
 
 
 
@@ -35,20 +43,9 @@ Then she shoulders the bar and goes to carry bundles, because carrying is what s
 
 In the afternoon a lamp smokes and a carrier trims it, practised, without breaking the reading rhythm. The smoke thins and clears. Ning Yan watches the flame stand straight again and thinks about yeses said without meaning, how they smoke at first and then burn clear and steady, and cannot be unburned. She squares her next sheet exact and sets it square.
 
+By late afternoon the stone off the road had been in the sun since midday and was warm under her palm when she put her hand flat on it. Then she stood, shouldered the bar, and went up to the building, because going up and saying it plain is what she does instead of letting it sit.
 
-## The Boards
-
-She sat with that until midday. Her breath ran four counts. Her arm hung open. She had nine coppers and no bread and water in her skin.
-
-She does what she always does with things that must be carried: she lays them out. She found a flat stone off the road and set three pebbles on it in a row. First pebble, the thirteenth, the book, the folder, the line that says the room. Second pebble, the seventeenth, staying for the book, standing, a person they can call. Third pebble, herself, sitting before them, eighteen, four fingers and a thumb, eight of eleven holds, short breath four counts.
-
-She looked at the three pebbles a long time. Then she swept the third pebble off the stone with one finger and left the two where they lie. That is the shape of it. She remains. The two yeses remain with her. Nothing was refused and nothing failed and nothing can be un-agreed, the way a date said out loud on the eighteenth of last month cannot be un-agreed.
-
-She said a date then and found eleven days later she cannot call a halt. She said all right twice now and found eleven days later each closes an option. Her word does not turn things once they are under way. She can still say no. She just cannot make the no take.
-
-She sat until the stone grew warm under her hand. Then she stood, shouldered the bar, and went up to the building, because going to the building and saying it plain is what she does instead of letting it sit.
-
-She sat with that until midday. Her breath ran four counts. Her arm hung open. She had nine coppers and no bread and water in her skin.
+## The Counter
 
 She went up to the building and found Xie Changyin at the counter.
 
@@ -65,6 +62,10 @@ Ning Yan stood there with her empty hands at her sides. She can still say no. Sh
 “I did not know,” she said.
 
 “No,” Xie Changyin said. “Nobody knows the first time. That is why it is asked in a room.”
+
+The young reader of twenty-six was at the far end with a folder tied in his hand and he did not come over. She looked at him and he looked back, and neither of them said one word about a fine hand and a room, and that was the first thing either of them had been decent about in four days.
+
+He put the folder on the counter edge as he passed, string outward, dated on the outside, and went on down the room without a word. She did not touch it until she got back to the gate.
 
 She went back to the gate and sat with the bar across her knees until the light went flat. She had agreed to a date on the eighteenth of a month and it took her eleven days to find out she could not take it back. She had read a sheet on the ninth and it took her eleven days to find out she had said yes twice more without opening her mouth to say it.
 

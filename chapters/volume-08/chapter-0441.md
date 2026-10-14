@@ -60,9 +60,7 @@ At the seventh mile she stopped and put her left hand flat on a kerb stone, cool
 
 And it will take her all the same. That is not a judgement. It is a rate and a road. She trusts competence over people, which is her flaw, and here is competence warning her off itself, which is a new thing.
 
-She reached the gate at the fourth hour
-
-She ate before the kerb. She walked the kerb mile with the bread in her coat and the bar over her shoulder. She reached the gate at the fourth hour on the twenty-sixth with dust to the knees and her coppers shut and her credit on another woman’s book and her feet sore in a way she liked, because sore was a thing she understood.
+She reached the gate at the fourth hour on the twenty-sixth with dust to the knees and her coppers shut and her credit on another woman’s book and her feet sore in a way she liked, because sore was a thing she understood and a thing that would be back tomorrow if she went and asked for it. Eleven miles in three days, for bread and a roof cord, and every one of the miles paid for in something she can count.
 
 The man with the chain nodded her through. The building stood lit. The tied sheet waited on the counter. She had walked eleven miles in three days to buy bread and tie a roof cord, and the walk had given her the one thing the building could not give her: a number said out loud by a woman with a team who wanted nothing from her but a fare she could never pay in coin.
 

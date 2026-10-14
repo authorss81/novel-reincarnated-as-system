@@ -2,7 +2,7 @@
 
 It happened on the twenty-second, in daylight, on the road between the gate and the building.
 
-Xie Changyin stood in the road with a folded sheet inside her coat and her hands behind her back. She was sixty-one. She had walked eleven miles that morning as if eleven miles were nothing. She had read a hand in four seconds since she was twenty-two. She was right about nine things out of ten and she knew it and did not boast about it.
+Xie Changyin stood in the road with a folded sheet inside her coat and her hands behind her back. She was sixty-one. She had walked eleven miles that morning as if eleven miles were nothing. She had read a hand in four seconds since she was twenty-two. She was right about nine things in ten and she kept the count, in a hand, at home, and she did not boast about it, because a count you keep is not a boast, it is a tool.
 
 Ning Yan stood nine feet off her with the bar over her left shoulder and her right arm open at her side. She had nine coppers in her fold and no bread and water in her skin. Her breath ran four counts. The sun stood high. The lime wash threw light back off the building two hundred yards off.
 
@@ -19,21 +19,6 @@ The road stayed empty. The man at the gate sat on his stool with his cup in his 
 Ning Yan said nothing at all.
 
 She stood in daylight and looked at the woman of sixty-one and kept her mouth shut. Not from refusal. Not from anger. Not from strength. From knowledge that anything she says in that road will be taken down, whether in ink or in memory, and carried somewhere, and put on a roll or in a folder or in a room’s understanding of what she is. She can still say no. She just cannot make the no take. So she says nothing.
-
-
-## The Gate Afterwards
-
-She went to the gate and sat off to the side where people who are waiting stand. The man sat on his stool with his cup in his hand. He had watched her stand in daylight and say nothing, and he asked nothing about it. That is his rule and his decision both: the chain does not tell people which, and he does not call after them either way. He lives it. She leans on it without saying so.
-
-She cleaned her skin and stoppered it. She checked the bar strap, thinning, planned the rebind. She counted nine coppers by touch, fold stitched shut. The sun went down. The building lit window by window, lamps one by one, warm in the dusk. A hundred readers bent over sheets. Four hundred and seven names in a book under a man’s arm. One reading there because of her mouth.
-
-Two yeses there because of her politeness. Nothing said today because she held her mouth shut. The arithmetic of the month sits plain: eleven days of bread if she eats once a day, then west. She holds it all without flinching. That is what saying nothing bought her: one clear evening with everything counted true.
-
-
-
-## The Last Lamp
-
-The last lamp comes up in the far window as she watches, steady, tended by hands she cannot see. She counts it without meaning to count, the way she counts everything, and lets the count go. Some things are only light in windows. She lies back with her hands behind her head and holds her silence the way she holds her bar, steady, through the night.
 
 
 ## The Minute
@@ -56,16 +41,35 @@ Xie Changyin nodded once, the way she nods at hands. She took the folded sheet o
 
 Ning Yan stood in the road with the bar over her shoulder and watched her go. Her heart beat hard once and settled. She had wanted to answer for two years because answering was the only thing she had instead of strength. Now she had strength and she had used it once in a room with a lamp in it and it had gone on a roll, and she was done answering for a while.
 
-She went to the gate and sat off to the side where people who are waiting stand. She cleaned her skin and stoppered it. She counted her coppers by touch. Nine.
 
-That night she lay with her hands behind her head and looked at the building lit window by window.
+## The Gate Afterwards
+
+She went to the gate and sat off to the side where people who are waiting stand. The man sat on his stool with his cup in his hand. He had watched her stand in daylight and say nothing, and he asked nothing about it. That is his rule and his decision both: the chain does not tell people which, and he does not call after them either way. He lives it. She leans on it without saying so.
+
+She cleaned her skin and stoppered it. She checked the bar strap, thinning, planned the rebind. She counted nine coppers by touch, fold stitched shut. The sun went down. The building lit window by window, lamps one by one, warm in the dusk. A hundred readers bent over sheets. Four hundred and seven names in a book under a man’s arm. One reading there because of her mouth.
+
+Two yeses there because of her politeness. Nothing said today because she held her mouth shut. The arithmetic of the month sits plain: eleven days of bread if she eats once a day, then west. She holds it all without flinching. That is what saying nothing bought her: one clear evening with everything counted true.
+
+
+
+## The Last Lamp
+
+The last lamp comes up in the far window as she watches, steady, tended by hands she cannot see. She counts it without meaning to count, the way she counts everything, and lets the count go. Some things are only light in windows.
+
+She lay at the gate that night with her hands behind her head and looked at the building lit window by window.
 
 “You said nothing,” he said in the dark. “I am here and I heard the nothing.”
 
-“I did,” she said out loud, to nobody, into the dark. “In daylight. To her face.”
+“I did,” she said out loud into the dark. “In daylight. To her face.”
 
 “What will she do with it.”
 
 “Everything,” Ning Yan said. “The way everybody does. My silence was the evidence once and it will be again. I am the only person who can say I did not expect it, and I cannot even say that any more.”
 
-She slept, and what is left stays held: a woman on a road, nine coppers, a bar she cannot hold at the heavy end, a reading on a roll she cannot take out, two yeses she did not mean, and nothing at all said in daylight to a woman of sixty-one who is right about nine things out of ten.
+She lay a while with that, and it did not improve on her.
+
+She had walked eleven miles and bought bread with it and tied a roof cord, and said nothing in daylight to the only person in a hundred and forty feet who had ever offered her anything, and taken nothing. The roll in the long room had her voice on it and would have it after she is dead. She had come to this road to be left alone with her own name.
+
+Behind that roll, a woman of twenty-two was going on not knowing what a hand had said about her. That was the one thing she had got right this month, and it was not enough to make any of it fair.
+
+The bar lay across her knees. Her arm hung open. She let the silence stand, because it was the only term in the whole of it that had not been spent yet.

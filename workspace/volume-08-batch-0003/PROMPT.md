@@ -2,11 +2,11 @@
 
 ## What this phase is
 
-**Volume 8 Batch 0002 is on the page — ch 435–449, 20,914 words of body prose, day 1,153 to day 1,205, zero brackets, midpoint and irreversible step at ch 445. `outline/volume-08.md` is the authority for Volume 8 and is not to be re-planned. This phase drafts ch 450–464 and nothing else.** There is no `outline/batches/volume-08-batch-0003.md`; the outline's own Batch 0003 row, its pressure table, its escalation sequence (§8–12), its six-mouths table (mouths at ch 452 and ch 461), its Yuan track, its frame-scene pin and its hard rules are the cards, and this prompt carries the day table and chapter list derived from them.
+**Volume 8 Batch 0002 is on the page — ch 435–449, 21,673 words of body prose, day 1,153 to day 1,205, zero brackets, midpoint and irreversible step at ch 445, **repaired after review on 14 Oct 2026 and re-measured, so the figures below are the repaired ones**. `outline/volume-08.md` is the authority for Volume 8 and is not to be re-planned. This phase drafts ch 450–464 and nothing else.** There is no `outline/batches/volume-08-batch-0003.md`; the outline's own Batch 0003 row, its pressure table, its escalation sequence (§8–12), its six-mouths table (mouths at ch 452 and ch 461), its Yuan track, its frame-scene pin and its hard rules are the cards, and this prompt carries the day table and chapter list derived from them.
 
 **The writer records the day table, the money table and the construction budget as it goes, not afterwards**, in the batch's own continuity block, with the true measured numbers and not the promised ones.
 
-**Do not repair anything in ch 1–449.** Volume 7 is closed and audited; Volume 8 Batch 0001 and Batch 0002 are on the page. If anything in ch 435–449 contradicts this prompt, the chapter wins and the prompt is wrong; record it and do not repair the chapter.
+**Do not repair anything in ch 1–449.** Volume 7 is closed and audited; Volume 8 Batch 0001 and Batch 0002 are on the page **and Batch 0002 has just been through a review repair — read `state/continuity.md` §*Repair pass — Volume 8 Batch 0002* before you draft, because six duplicated paragraphs and a doubled midpoint there is what short chapters look like when beats are restated instead of dramatised.** If anything in ch 435–449 contradicts this prompt, the chapter wins and the prompt is wrong; record it and do not repair the chapter.
 
 ## Read before you start
 
@@ -18,7 +18,7 @@
 
 **Ch 449 closed on day 1,205, the twenty-second of the month beginning 1,184, in daylight on the road between the gate and the building, with her saying nothing at all to a woman of sixty-one. So Batch 0003 opens on day 1,206, the twenty-third, at the gate.**
 
-**She has never been east of here before this volume and now lives between shed and building.** The roll holds four hundred and seven names, one there by her mouth. The tied folder waits on its shelf with its date on the string. Two yeses stand without entries. The turnstile man keeps his decision. The reader of twenty-six keeps his unconfirmed rightness. A woman of twenty-two carries toward a bad night nine months off. Nine coppers, no bread, water in her skin.
+**She has never been east of here before this volume and now lives between shed and building.** The roll holds four hundred and seven names, one there by her mouth. The tied folder waits on its shelf with its date on the string. Two yeses stand without entries. The turnstile man keeps his decision. The reader of twenty-six keeps his unconfirmed rightness — **and now has something heavier: he argued against the room asking her to read the tied sheet, he was right, he was overruled, and nobody has told him he was right.** **The woman of twenty-two asked whether the hand was a bad one and was refused, because telling her would have been a confirmation and a confirmation is an entry. She went on not knowing, and she carries toward a bad night nine months off.** Nine coppers, no bread, water in her skin.
 
 **The month rule: a month is thirty days, day 134 was the first of a month, and month-day is `((day − 134) mod 30) + 1`.** Months in this batch begin on **day 1,214** (to 1,243) and **day 1,244** (to 1,273); the batch opens in the month beginning 1,184 and closes in the month beginning 1,244.
 
@@ -97,9 +97,9 @@
 - Chapter markdown: title heading, optional section headings, plain paragraphs, scarce bold or italic. No blockquotes, code blocks, tables, horizontal rules. Two to four sentences a paragraph; break over 90 words; never over 120. Roughly 1,800–2,700 words, floor 1,300. Never pad and never split a finished scene.
 - Close every speech. `text.count('“') == text.count('”')` before finishing. Curly apostrophes.
 - Titles are names, three to twelve words, unique against all 449 existing headings and each other. Check before finishing.
-- No authorial scaffolding at all — this chapter, this volume, this book, the rest of the book, the reader, in this batch, another batch, N volumes. Count by grep before claiming zero and write the true number into the continuity block.
+- No authorial scaffolding at all — this chapter, this volume, this book, the rest of the book, the reader, in this batch, another batch, **N volumes, the bare word volume, midpoint, and bare chapter citations like ch 417**. Count by grep before claiming zero and write the true number into the continuity block. **A pattern that needs a numeral returns zero by construction and proves nothing: a character does not remember by chapter number, and the batch that came before this one shipped seven such hits behind one.**
 - No named weekday, named calendar month, named week. No about four seconds and no eleven weeks.
-- Do not turn any office or person into a villain. The best offer remains the woman of sixty-one's, right about nine things out of ten.
+- Do not turn any office or person into a villain. The best offer remains the woman of sixty-one's, **a woman who keeps a written count of the one time in ten she is wrong and does not boast about it, because a count you keep is a tool and not a boast.**
 - Do not introduce a new final enemy. The Scribe belongs to Volume 15.
 
 ## State updates required at the end of this phase

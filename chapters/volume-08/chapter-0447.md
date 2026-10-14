@@ -54,7 +54,7 @@ She stood at the counter a while after he swept them away, looking at the wood w
 
 It is a fair counter. Pei at the gate, the carter at the stand, Geng on the lifting floor, Rao on the third floor, the man with the brush, the man behind the counter — all correct, none of them made wrong in order to have a problem.
 
-She holds that plain. The volume’s best offer comes from a woman of sixty-one who is right about nine things out of ten, and the counter is part of why the offer tempts.
+She holds that plain. The best offer any of them has put in front of her came from a woman of sixty-one who keeps a written count of the times she has been right and still does not know which one she got wrong, and the counter is part of why the offer tempts.
 
 She put her hand flat on the wood where the coins had been, briefly, to prove to herself that her hand can touch wood. It can. The wood is cool. The edge worn where hands have rested. Her hand rests there fine. It is money given for reading that stops it, nothing else. Bread bought with gate coppers eats fine. Water at seven miles drinks fine. Four coppers for a fine hand will not come into her hand in any weather.
 
@@ -67,8 +67,6 @@ She went out and sat with her back to the lime wash and ate the last of her brea
 She stood there with her empty hand at her side and felt the whole of it land. The Order’s rate is the whole reason the offer is a seduction rather than a job, and she cannot touch it. The ground she stands on has never paid anybody for reading and is not going to start, and the one building that would pay her cannot pay her because of what she is.
 
 She has nine coppers out of twenty-one, spent on bread and water at seven miles and a night’s floor at the far end of a made road, and she will spend them down to nothing and there will be no more coming in for reading, ever, in any weather.
-
-She went out and sat with her back to the lime wash and ate the last of her bread. Xie Changyin came and sat beside her without asking.
 
 “He paid you,” Xie Changyin said. It was not a question.
 

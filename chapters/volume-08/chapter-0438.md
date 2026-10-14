@@ -2,7 +2,9 @@
 
 She chose it on the walk up in the morning.
 
-She had carried three questions for nine days. The first was about the strip against her ribs and what the fine hand says at the head of it, and that one was spent at ch 417 and never gets back and she did not touch it. The second was about the man she cannot see and what he is, and that one would put a third person in a room who is not in it and Xie Changyin had barred it in plain words.
+She had carried three questions for nine days. The first was about the strip against her ribs and what the fine hand says at the head of it, and that one was asked and refused on the road a hundred days back and it does not come back for asking.
+
+The second was about the man she cannot see and what he is, and that one would put a third person in a room who is not in it and Xie Changyin had barred it in plain words.
 
 The third was about the woman walking beside her.
 
@@ -30,11 +32,15 @@ Ning Yan listened the way she listens to columns, for the figures under the word
 
 Ning Yan sat with that. Thirty miles on foot at twenty-one for a burial, and back again to a table. She knows walks taken for the dead. She has carried her brother’s name for years the way she carries her bar, over the shoulder, everywhere.
 
-Xie Changyin said in the ordinary voice.
+Xie Changyin put thumb and forefinger on the lamp base and turned it a quarter, so the flame leaned and stood again. She does that before she says a thing she has not said out loud in a long while.
 
-Xie Changyin nodded once. She had offered one question about one person and not about Ning Yan herself, and this was one person and it was the person in the room, and no third person was needed to answer it.
+“You get one question,” she said. “One thing, about one person. Not about yourself. I made that rule after you asked me four in a row and meant none of them. That is the whole allowance and I have never given two.”
 
-“I was nineteen,” Xie Changyin said in the ordinary voice. “A woman came to the village with a sheet in her coat. She read it aloud to me in a room with a lamp in it. It was about me and I confirmed it. I said yes. That was all.”
+“Who decided that.”
+
+“I did,” Xie Changyin said. “Forty-two years ago. It is the only rule in this building that came out of a woman who was not frightened.”
+
+She nodded once, at herself, and put her hand back in her lap. One question about one person and not about Ning Yan herself, and this was one person and it was the person in the room, and it took no third person to answer it.
 
 “What did it say.”
 

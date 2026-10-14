@@ -2,7 +2,7 @@
 
 She met him on the eighteenth of the month on the made road east of the turn, going back to the gate with empty hands.
 
-He stood nine feet off the road with the notebook shut under his arm. He was the same man she had met at ch 428, polite, patient, buying nothing, asking nothing. The notebook had not been opened in front of her once in two volumes. His coat was dusty at the hem from the road.
+He stood nine feet off the road with the notebook shut under his arm. He was the same man she had stopped eleven feet short of by a hedge, a month back, polite, patient, buying nothing, asking nothing. The notebook has never once been open in front of her. His coat was dusty at the hem from the road.
 
 “Ning Yan,” he said, and nodded.
 
@@ -14,9 +14,7 @@ She stopped in the road. Her bar was at the gate and her hands were empty and he
 
 A cart went through the gate behind her with the chain down, wheels throwing dust up along the kerb. The dust hung in the light and settled on her boots. She waited until it settled before speaking, because she wants her questions clean.
 
-He waited too. He is a man who waits for a living, polite, patient, genuinely good at the job. The notebook sits shut under his arm, the corners worn soft. He has carried it for years. She has never seen it open. She has asked him once before whether a thing read by another can be read back by the person it is about, and he told her yes, and that it is not usually a good idea, and that he has watched it happen twice.
-
-He did not say who. She did not ask twice.
+He waited too. He is a man who waits for a living, polite, patient, genuinely good at the job. The notebook sits shut under his arm, the corners worn soft. He has carried it for years. She has asked him once before whether a thing read by another can be read back by the person it is about, and he told her yes, and that it is not usually a good idea, and that he has watched it happen twice. Twice, and not who.
 
 The road east of the turn runs straight here, kerb on both sides, the stones flush, moss in the joints on the shaded side. She knows each stone by now. She has walked eleven miles and three days on foot and two days after, and her feet know the seventh mile the way her hands know rails.
 
@@ -47,7 +45,11 @@ He did not say who. She did not ask twice. That was the rule between them and sh
 
 ## The Notebook
 
-She has never seen it open. The corners are worn soft, the string tie frayed. It rides under his arm as if grown there. She wonders what sits inside it, what hands he has watched, what twice he means when he says he has watched reading-back happen twice. She will never ask. He does not say who, and she does not ask twice. That is the rule between them and she keeps it the way she keeps every rule that lets a decent man stay decent.
+She has never seen it open. The corners are worn soft, the string tie frayed. It rides under his arm as if grown there. She wonders what sits inside it, what hands he has watched, what twice means when he says he has watched reading-back happen twice.
+
+The asking came up in her throat at the seventh mile and she held it where it was. He had given her one sentence past the one she paid for. She was not going into his coat for a second. A man who will not name a thing he has seen is telling you the shape of it, and she was clever enough to take the shape and polite enough not to press for the thing itself.
+
+That is the rule between them and she keeps it the way she keeps every rule that lets a decent man stay decent.
 
 They pass the seventh mile where kerb starts. She puts her hand on a kerb stone in passing, brief, cool through the palm. Four hundred years of maintenance under her fingers. He notices and says nothing. He notices everything and says little. That is his trade, watching, the way hers is reading. For a moment they are two trades walking one road, matched, neither owing the other.
 
@@ -76,7 +78,7 @@ He nodded once and went on down the road past the turn with the notebook shut un
 
 She stood in the road a long time after he was gone. An institution that stops reading a person has done nothing to them. That was his answer and he does not lie. And a person unread four days is harder to find than a person read four years. That was the other thing and he would rather not have said it.
 
-She thought about the tied sheet on the counter and the forty hands a month and the young reader with his brush across his sheet. She thought about what it would mean to be unread. She had been read by offices for two years and had answered because answering was the only thing she had instead of strength. Now she knew what the other side of it looked like from a man who watches.
+She thought about the tied sheet on the counter and the forty hands a month and the young reader with his brush across his sheet. She thought about what it would mean to be unread. Three entries in two years and every one of them on paper she could see and touch, and now a fifth day of nothing at all, with a man who watches for a living telling her what nothing looks like from the other end of it.
 
 At the gate that night she lay with her hands behind her head and said nothing for an hour, which was unlike her.
 

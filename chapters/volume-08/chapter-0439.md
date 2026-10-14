@@ -36,7 +36,7 @@ It went first to the young reader of twenty-six. He read it down, marked one lin
 
 He carried it himself to the next table. The woman with the thumb read it and shook her head. It went to a third table. It went to a fourth. Four people stood round it at the end of the room with their lamps pulled close, and none of them could say which hand had written the lower half.
 
-Ning Yan stood by the counter and watched. Her heart beat hard. She could see the lower half from nine feet off. She knew that hand. It was a fine hand, close-written, the strokes cut the way Dai’s strokes are cut on nine days of road. She said nothing. Her mouth stayed shut. She had refused that hand at ch 417 and had given up everything to do it and she was not going to pick it up in a room full of strangers.
+Ning Yan stood by the counter and watched. Her heart beat hard. She could see the lower half from nine feet off. She knew that hand. It was a fine hand, close-written, the strokes cut the way Dai’s strokes are cut on nine days of road. She said nothing. Her mouth stayed shut. She refused that hand on a road a hundred days back and gave up everything to do it, and she was not going to pick it up in a room full of strangers.
 
 The man with the brush tied the sheet up again with its string and set it aside on the counter.
 

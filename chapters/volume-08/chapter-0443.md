@@ -82,4 +82,4 @@ That was the whole of their talk that day. She fetched water and carried bundles
 
 “I will not,” she said. “It is his. Let him keep it.”
 
-She slept. The five sentences stayed with her the way true things stay, separate, each in its own hour. It does not tell me. I decided. I am not going to say. Not twice. She did not write them down. She did not need to.
+She slept without writing any of them down. Four of the five were answers to questions he had not been asked. The fifth was a decision he had made once, in his second year, and had not told anybody since, including the woman walking up the road toward him at that moment with a bar on her shoulder and no question left to ask.

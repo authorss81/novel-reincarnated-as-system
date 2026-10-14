@@ -2,7 +2,7 @@
 
 The man of sixty-one keeps it in his hand the way other men keep a rule or a brush.
 
-Ning Yan saw it the next day on the thirteenth, up close, for the first time. It is one book, bound plain, the boards worn at the corners where a hand has held it for years. It opens flat. The names run in the ordinary hand, one to a line, with dates against them. Four hundred and seven now. She counted the last page without meaning to count it because that is what she does with books.
+Ning Yan saw it again on the thirteenth, up close, for the first time. It is one book, bound plain, the boards worn at the corners where a hand has held it for years. It opens flat. The names run in the ordinary hand, one to a line, with dates against them. Four hundred and seven now. She counted the last page without meaning to count it because that is what she does with books.
 
 “What is it,” she said to Xie Changyin outside, though she knew.
 
@@ -16,7 +16,7 @@ She stood nine feet off it and looked at it. Her breath ran four counts. Her arm
 
 He looked at Xie Changyin. Xie Changyin nodded once.
 
-He opened it to the last page and turned it so she could see. The name from yesterday stood there in the ordinary hand with the date against it, the ninth. Above it ran four hundred and six others, dates running back forty-two years. She did not read them. She looked at the shape of them and shut her eyes.
+He opened it to the last page and turned it so she could see. The name from the ninth stood there in the ordinary hand with the date against it. Above it ran four hundred and six others, dates running back forty-two years. She did not read them. She looked at the shape of them and shut her eyes.
 
 “It does not strike names off,” the man said. “There is no hand in this building that takes one off and there has never been one. I have looked, twice, for my own.”
 
@@ -25,7 +25,7 @@ He opened it to the last page and turned it so she could see. The name from yest
 
 She looked at the folder dates running back while he shelved the new one. Forty-two years, month after month, each folder tied with string, each string dated on the outside. She thought of Rao’s third floor with sixteen years of columns, four hours a month for nothing, margin correction four. She thought of Geng’s lifting floor with nineteen years of sheets and a second column she helped write by reading aloud. Paper holds when people hold it. That is the whole of every archive she has stood in.
 
-Her reading sits in yesterday’s folder now, tied with string, dated on the outside. The name sits in the book with the date against it. The sheet sits squared beneath. Three marks for one reading. She put them there with her mouth. She cannot take them out. No hand in that building takes names off. She looked twice for her own, he said. She believes him. She has looked for ways out of entries herself, and found none that hold.
+Her reading sits in the ninth’s folder now, tied with string, dated on the outside. The name sits in the book with the date against it. The sheet sits squared beneath. Three marks for one reading. She put them there with her mouth. She cannot take them out. No hand in that building takes names off. He looked twice for his own. She believes him, and she has looked for ways out of entries herself, and found none that hold.
 
 
 
@@ -52,9 +52,11 @@ She nodded. Rules that hold are things she respects. A copper a day at a gate. B
 
 He shut the book and put it back under his arm and went down the room with it. His shoulders sat level. He did not hurry.
 
-That was all he said about it. He shut the book and put it back under his arm and went down the room with it. His shoulders sat level. He did not hurry.
+He stopped at the third table on the way and put two fingers on a reader’s shoulder, brief, the way a man touches a thing that is going badly, and went on. She has watched him not touch anybody all day. That was the whole of what he gave her, and it cost him nothing to give it, which is the worst kind.
 
-Ning Yan stood at the counter with that sitting in her chest. A name on it is a person who cannot be un-recruited. Not a person who cannot leave. People leave; the woman Xie Changyin brought in has not been seen in six years and reads on the far side of the building from the counter. Leaving is allowed. Un-recruiting is not. The book keeps what the room heard, and no hand takes it out, and that is the arrangement and not an accident in it.
+Ning Yan stood at the counter with that sitting in her chest. A name on it cannot come off, and she cannot un-recruit a person she has never seen. But a name cannot be kept either.
+
+People leave; the woman Xie Changyin brought in has not been seen in six years and reads on the far side of the building from the counter. Leaving is allowed. Un-recruiting is not. The book keeps what the room heard, and no hand takes it out, and that is the arrangement and not an accident in it.
 
 She thought about the name she read yesterday. It belongs to a person she has never met, whose sheet came in tied with string, whose lower half four people could not read. That person is now on a roll forever because she opened her mouth in a room with a lamp in it. The person will never know her name. She will never know the face. The book holds them together anyway.
 
@@ -64,7 +66,7 @@ She thought about the name she read yesterday. It belongs to a person she has ne
 
 “Yes,” Xie Changyin said. She did not defend it. She has been frightened of it for nine years and has never got over it and has never stopped signing it, and she said so once and does not say it again.
 
-Ning Yan carried bundles the rest of the day with the book behind her eyelids. Four hundred and seven names. One of them there because of her. She had spent two years reading sheets out loud on a third floor for nothing and reading a lifting floor’s sheet out loud for nothing and it put a second column into it. She has never once read the fine hand until yesterday, because reading it is a confirmation and a confirmation is an entry.
+Ning Yan carried bundles the rest of the day with the book behind her eyelids. Four hundred and seven names. One of them there because of her. She had spent two years reading sheets out loud on a third floor for nothing and reading a lifting floor’s sheet out loud for nothing and it put a second column into it. She had never once touched the fine hand until the ninth, because reading it is a confirmation and a confirmation is an entry.
 
 Now she has. And the entry is not hers. It is somebody else’s name in the best book on nine days of road, put there by her mouth.
 
