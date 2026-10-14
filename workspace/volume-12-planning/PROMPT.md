@@ -16,7 +16,9 @@ writes:** **118,748 words of body prose over sixty chapters, average 1,979**, on
 reads **118,974** against the true **118,748** and is not the figure; the same trap puts `nothing` at 211 concatenated
 against 209 per file. **Three bracketed layer lines in sixty, at ch 616, ch 632 and ch 648, six bracket characters in
 the whole volume, and Volume 11's budget is spent. Volume 12 opens on no bracket unless the outline it writes sets a
-new and stated one.** 660 `#` headings manuscript-wide, zero collisions, longest Volume 11 title 39 characters.
+new and stated one.** 660 `#` headings manuscript-wide, zero collisions, **longest Volume 11 title 36 characters, *What
+She Said To A Woman With A Book* at ch 621. The figure 39 was the manuscript-wide longest and belongs to Volume 8's ch
+426, *The Question She Had Not Thought To Ask*. Volume 11's titles run 2 to 9 words.**
 
 **This phase writes two files: `outline/volume-12.md` and `workspace/volume-12-batch-0001/PROMPT.md`.** It is the
 planning phase for Volume 12, *The Road Up*, ch 661–720. It follows the shape of `outline/volume-11.md` and is held to
@@ -104,7 +106,18 @@ hand it on without answering it:**
   and Volume 11 took none of them.
 - **Do not introduce a new final enemy.** The Scribe is fixed and belongs to Volume 15. Shuyin is a keeper, walked past
   at ch 659, alive, old, correct and not thanked, and **he returns**.
-- **Do not retire the year.** `forgiv` is 0 across ch 601–660 and the allowance for Volume 12 is 0.
+- **Do not retire the year.** **`grep -oi forgiv` returns 1 across ch 601–660, not 0, and the figure the previous
+  version of this prompt carried was wrong.** The single instance is **ch 659, and it is the word `forgive`, not
+  `forgave` or `forgiven`**: *there is not one thing she could say about it that he would forgive.* It is a denial —
+  she is saying there is nothing she could say that he would let go of — and it is the only time forgiveness is named
+  anywhere in sixty chapters. **Two methods are in play and they disagree, so state the one you use.** On the strict
+  word boundary `\bforgiv\b` the volume reads **0**, because no inflected form except `forgive` exists on the page; on
+  the substring `grep -oi forgiv` this manuscript has published since the Volume 11 close it reads **1**. **Name the
+  method with the figure and use the substring reading, which is the stricter on the page.** **The same applies to
+  `the year`, which reads 2 and not 0**: ch 618, *the reason was not duty and was not kindness and was not the year* —
+  a direct naming inside an explicit denial — and ch 637, *has not read his book back since the year it was written*,
+  which is an unrelated sense. **The year is named twice and both instances refuse it. The allowance for Volume 12 is
+  0 naming and 0 forgiving, and 0 has to be measured before it is claimed.**
 - **Do not rename or re-derive anything the close settled.** Severance 9 at day 1,997 · the three costs · the three
   brackets · the five origin mouths · the seventh frame scene at ch 644 and **no eighth** · the six irreversible steps
   · `Ning Wu` **once, at ch 659** · **Shuyin named nowhere** · the Hunter on the page at most twice and she asks every
@@ -141,6 +154,22 @@ is a plot error and none may be silently corrected.**
 8. **Three craft words are over their lines and were left over them on purpose:** `nobody` 34 against under thirty,
    `eleven` 44 against under forty, `thank` 16 against zero. **Repairing a count means softening a sentence, and
    Volume 11's sentences are true.** Volume 12 should be under all three.
+
+### The one claim the close review raised that did NOT hold — recorded so it is not re-investigated
+
+**A review of the Volume 11 close reported that ch 659:119 puts *eleven miles of made road in front of her* against
+ch 659:11's *four miles short of the wall*. The finding does not hold and the sentence is true.** The two lines are not
+the same moment. Line 11 is the second hour of the fifth, on the way east, with the wall four miles ahead. Line 119 is
+after she has gone out of the rows, up the rise, stood twenty minutes on the crest and turned west — and the rows are
+four miles *past* the wall, so the whole gate-to-turn leg, all eleven miles of it, is ahead of her, with the
+gate-to-wall gap in front of that. Both figures and the order of them are the map the close walked. **Checked and
+recorded so no drafting phase spends a repair on it.**
+
+**One residual looseness in the same chapter is real and was left on purpose.** ch 659:11 and :19 call her position
+*the long flat* and *a flat four miles short of a wall*, and four miles short of the wall is two miles short of the
+gate, which is made road and not flat. It is a single adjective against a map that is otherwise walked exactly, it
+reads true, and the close's standing reason applies: **repairing this means softening a sentence.** Recorded, not
+fixed. **Volume 12 inherits the map, not the adjective.**
 
 ## What the outline must decide, and cannot decide by inventing
 
@@ -213,12 +242,13 @@ zero while instances stand is the failure this manuscript has caught itself maki
 | ***Nobody* as the bare intensifier** | **34 in sixty — OVER, and left over on purpose** | **Under thirty across the volume, and the outline should say so in the batch cards and not only here** |
 | ***Eleven*** | **44 in sixty — OVER, and left over on purpose; two of the forty-four are map corrections** | **Under forty across the volume** |
 | ***Thank*** | **16 in sixty — OVER, and left over on purpose; 0 in ch 631–660** | **0. No person is thanked by her** |
-| ***Forgiv*** | 0 | **0. The year is not mentioned once** |
+| ***Forgiv*** | **1**, not 0 — ch 659, `forgive`, inside a denial. On `\bforgiv\b` it reads 0; **on the substring `grep -oi forgiv` it reads 1, and that is the reading to carry** | **0. Name forgiveness nowhere.** The year is still running and nothing forgives it |
+| ***The year*** | **2**, not 0 — ch 618 names it inside a denial, ch 637 uses an unrelated sense | **0 naming it.** Two Volume 11 instances both refuse it; the outline may not let one accept it |
 | ***About four seconds* · *eleven weeks* · *week*** | 0 / 0 / 0 | 0 / 0 / 0 |
 | **Banned reflexes** — *his eyes widened · couldn't believe it · suddenly · little did he know* | 0 | 0 |
 | **The surface answer** | 0 — not said, hinted at, gestured at or paraphrased in any mouth | **0, and the moral answer is Volumes 15–16's and may not be previewed** |
 | **Zeroed proper nouns** — `Ledger · reconciled · plate · licence · clearance · countersignature · seal · kiln-born · MEMBER ABSENT · tribulation · Anchor · Sisterhood · bargain · vouch · field agent · Wall writ · Warden` | all 0 on word boundaries | all 0, measured before claimed. **`Shuyin` is counted by description and never by name — he is `The Old Man On The Road` and *a man of nine hundred*, and a name-count for him cannot succeed.** `Ning Wu` at most twice and named once on the page at ch 659 |
-| **Titles** | 60 names, 3–7 words, longest 39 characters, 0 collisions against all 660 standing headings | Sixty more, names, unique against all 720 |
+| **Titles** | 60 names, 2–9 words, **longest 36 characters (*What She Said To A Woman With A Book*, ch 621)**, 0 collisions against all 660 standing headings | Sixty more, names, unique against all 720 |
 | **Section-heading identity** | **0 within a chapter and 0 across the volume**, after the close's eight renames | 0 within a chapter, measured on `^## ` before it is claimed |
 
 ## The shape of `outline/volume-12.md`, which this phase creates

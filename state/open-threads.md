@@ -2747,7 +2747,7 @@ grown old), and Feng at ch 652**.
 
 ## Volume 11 Batch 0003 (ch 631–645) — what this batch added, and what Batch 0004 inherits
 
-**Fifteen chapters, 29,966 words of body prose on method B, average 1,998, day 1,916 to 1,996. ONE bracketed layer
+**Fifteen chapters, 29,966 words of body prose on method B, average 1,997, day 1,916 to 1,996. ONE bracketed layer
 line, at ch 632. Severance 7 until ch 632 and Severance 8 from it. The batch's irreversible step is ch 645. Pressure:
 **knowing** — and not being told, which was Batch 0002. Full record in `state/continuity.md` under ***VOLUME 11 BATCH
 0003 — ch 631–645***.**
@@ -2812,7 +2812,9 @@ this line was re-measured after the Volume 11 Batch 0004 review repair, which al
 
 ### Held, confirmed, not touched by Batch 0004
 
-- **The year of non-forgiveness is not mentioned once.** `forgiv` returns 0 across the fifteen chapters. The staying at
+- **The year of non-forgiveness is named once and forgiven nothing.** `thank` returns **0 across ch 646–660** and
+  still does, but **`grep -oi forgiv` returns 1 and this line used to claim 0 for both** — ch 659's `he would forgive`,
+  a denial. **On the `\bforgiv\b` boundary both read 0.** The staying at
   ch 658 is a staying.
 - **Nobody is thanked.** `thank` returns **0 across ch 646–660** and no person on the furnace ground, at the turn, at
   Lowwater or in the rows is thanked, including Feng.
@@ -2946,7 +2948,11 @@ repairs across eleven chapters, and recorded eight findings it deliberately did 
 
 ### Held, confirmed by the close, and not to be raised in Volume 12
 
-- **The year of non-forgiveness is not mentioned once.** `forgiv` returns **0 across ch 601–660**. The permissions at
+- **The year of non-forgiveness is named twice and forgiven once-in-a-denial.** **`grep -oi forgiv` returns 1 across
+  ch 601–660, not 0 — the 0 this line used to carry was wrong.** ch 659: *there is not one thing she could say about it
+  that he would forgive*, a denial. On the strict `\bforgiv\b` boundary it reads 0, because the sole instance is the
+  inflected `forgive`. **`the year` reads 2, not 0**: ch 618 names it inside a refusal, ch 637 uses an unrelated
+  sense. **Both refuse it.** The permissions at
   ch 609 and ch 645 are permissions and no line calls either of them a forgiveness.
 - **No figure of what is left of him** is stated anywhere in the volume, in her hearing or out of it. What Feng wrote
   is his age.

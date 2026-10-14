@@ -106,14 +106,34 @@ five before it, at `## Volume 7 planned`, `## Volume 7 Batch 0001` … `## Volum
 
 ## For the next phase
 
-**STALE READING INSTRUCTION, CORRECTED HERE. Volume 10 planning is discharged** — it ran, its four batches are on the page,
-and the volume is closed and audited at ch 600. **A Volume 11 planning phase must not be sent to
-`workspace/volume-10-planning/PROMPT.md` or to any `state/current.md` section headed *end of chapter 538*.** It reads
-`outline/volume-10.md` in full, then `state/current.md` under ***Who is where at end of Volume 10***, then
-`state/continuity.md` under ***VOLUME 10 CLOSE — The List, ch 539–600*** and its ***— REVIEW REPAIR***, then
-`state/open-threads.md` under ***VOLUME 10 CLOSED***, then `state/chapter-summaries.md` under ***VOLUME 10***. **The next
-phase prompt and directory are the workflow's to write, not this file's and not the close's.** The paragraph below is left
-as the record of what Volume 10 planning was sent, the same way Volume 7's discharged obligations were left standing.
+**LIVE READING INSTRUCTION. Volume 11 planning is discharged, and so is the Volume 11 close.** Volume 11 planning ran,
+its four batches are on the page, and `workspace/volume-11-close/PROMPT.md` has been executed in full: ch 601–660 is
+closed, audited and repaired, and it was the close that wrote `workspace/volume-12-planning/PROMPT.md`. **The phase now
+being dispatched is VOLUME 12 PLANNING, and the one and only prompt it may be sent to is
+`workspace/volume-12-planning/PROMPT.md`.** It reads, in this order: that prompt — **which is the whole brief: plan
+Volume 12, ch 661–720, write `outline/volume-12.md` and `workspace/volume-12-batch-0001/PROMPT.md`, and nothing else** —
+then `AGENTS.md` · `NOVEL_SPEC.md` · `OUTLINE_GUIDE.md` · `outline/series.md` in full · `outline/ending.md` ·
+`outline/volume-11.md` as the model of a volume outline and as the authority on what Volume 11 settled · this file ·
+`state/current.md` under ***Who is where at end of Volume 11 — VOLUME 11 CLOSED AND AUDITED*** ·
+`state/continuity.md` under ***VOLUME 11 CLOSE — What He Was, ch 601–660***, ***VOLUME 11 BATCH 0004*** and
+***VOLUME 11 BATCH 0004 — REVIEW REPAIR*** · `state/open-threads.md` under ***VOLUME 11 CLOSED AND AUDITED at
+ch 660*** · `state/chapter-summaries.md` under ***VOLUME 11*** · `state/book-metadata.md` · the six `bible/` files ·
+**chapters 641–660** · the four `workspace/volume-11-batch-000*/PROMPT.md` files for the shape of a batch card.
+
+**Four things that must not be re-opened by Volume 12 planning:** **the eight inherited findings the Volume 11 close
+left standing are live and are listed in the prompt, and the one finding the close review raised and did NOT uphold —
+ch 659's eleven miles of made road — is recorded there too so it is not re-investigated** · **`forgiv` is 1 across
+ch 601–660, not 0** — ch 659's `he would forgive`, a denial, invisible to the `\bforgiv\b` boundary — **and `the year`
+is 2, not 0**, ch 618 naming it inside a refusal and ch 637 in an unrelated sense, **so any zero has to be measured
+before it is claimed** · **`outline/ending.md` §8's five obligations all stand open and Volume 11 took none of them;
+the volume may not be spent in a planning outline** · **the *Twenty-two days* line stays open and unplaced** — it
+arrived at ch 536, is still unplaced in Volume 11, is equated to no dated interval anywhere, and **is a question the
+series hands forward, not an error, so no Volume 12 planning card may resolve it.**
+
+**Corrected at the Volume 11 close review.** This block previously said the volume was *"closed and audited at
+ch 600"* and warned that *"A Volume 11 planning phase must not be sent to…"* — an instruction that had been stale for a
+whole volume, because the close did not touch this file. **It is corrected here, and the paragraphs below are left as
+the record of what Volume 10 planning was sent**, the same way Volume 7's discharged obligations were left standing.
 
 **Volume 10 planning read, in this order:** `workspace/volume-10-planning/PROMPT.md` — **which is the whole brief:
 plan Volume 10, ch 539–600, and write its first 10 to 20 chapter batch prompt, and nothing else** — then

@@ -1861,7 +1861,7 @@ not hold her, and the bill for the knowing is hers, and she is still going.**
 
 ## Volume 11, Batch 0003 (ch 631–645) — *What He Was* — day 1,916–1,996
 
-Pressure: **knowing**. Fifteen chapters, 29,966 words of body prose on method B, average 1,998. One bracketed layer
+Pressure: **knowing**. Fifteen chapters, 29,966 words of body prose on method B, average 1,997. One bracketed layer
 line, at ch 632. Severance 7 throughout until ch 632, Severance 8 from it. The batch's irreversible step is ch 645.
 
 - **ch 631, day 1,916–1,917 (thirteenth to fourteenth of the month beginning 1,904), *Seventy-Five Days On A Wall*.
@@ -2189,3 +2189,40 @@ and :121** the two legs transposed so the volume has **one wall** and not two ·
 road* → *eleven*, the map's figure, the same rule the Batch 0004 repair applied at ch 659:119 · **ch 624:111, ch
 637:7, ch 621:93, ch 621:25, ch 627:57, ch 624:9, ch 633:97, ch 642:51** eight duplicate section headings renamed, so
 Volume 11 now carries zero.
+
+### The seven findings the close review raised, and what became of them
+
+**Six were corrections to the record and one was not upheld. No chapter file was edited by this repair and no sentence
+was softened.** Full record in `state/continuity.md` under ***VOLUME 11 CLOSE — REVIEW REPAIR***.
+
+**CORRECTED — `forgiv` is 1 across ch 601–660, not 0.** ch 659's *there is not one thing she could say about it that he
+would forgive*, a denial, and the only instance in sixty chapters — the inflected `forgive`, which is why a
+`\bforgiv\b` count read 0 while the substring `grep -oi forgiv` named at the close record reads 1. By batch **0 · 0 · 0
+· 1**. **It forgives nothing** and the permissions at ch 609 and ch 645 are still permissions. Corrected at
+`state/current.md`, `state/continuity.md` ×4, `state/open-threads.md` ×2 and the Volume 12 prompt ×2.
+
+**CORRECTED — `the year` is 2, not 0.** ch 618 names the year of non-forgiveness inside an explicit denial of it, and
+ch 637 uses an unrelated sense. By batch **0 · 1 · 1 · 0**. **Both refuse it; neither retires it.**
+
+**CORRECTED — longest Volume 11 title is 36 characters, not 39.** *What She Said To A Woman With A Book*, ch 621. **39
+is the manuscript-wide longest and belongs to Volume 8's ch 426**; the `# ` prefix had been counted in and then
+mislabelled. Volume 11's titles run 2 to 9 words, not the 3 to 7 previously claimed.
+
+**CORRECTED — Batch 0003's average was split 1,997 / 1,998.** 29,966 ÷ 15 = 1,997.73, so both were defensible and the
+live line had been changed without the other four. **Four sites corrected to 1,997** and the convention named:
+**averages are truncated, not rounded.** The volume's own average already followed it — 118,748 ÷ 60 = **1,979**.
+
+**CORRECTED — stale imperatives removed from the live bullets.** `state/current.md` still told an incoming phase to do
+work the close had already done. Both discharged instructions deleted and replaced with resolved records.
+
+**CORRECTED — `state/INDEX.md` was a volume stale and the close had not touched it.** It announced the volume *closed
+and audited at ch 600* while the phase being dispatched is Volume 12 planning. It now names Volume 12 planning, gives
+the read order, and lists four things that may not be re-opened.
+
+**NOT UPHELD — ch 659's eleven miles of made road, and nothing was repaired.** ch 659:119's *eleven miles of made road
+in front of her* was set against ch 659:11's *four miles short of the wall*. **They are not the same moment.** Line 11
+is the second hour of the fifth, walking east. Line 119 is after she has stood twenty minutes on the crest above the
+rows and turned west, **and the rows are four miles past the wall**, so the entire gate-to-turn leg is ahead of her. The
+sentence is true. **The residual looseness in ch 659:11 and :19 — calling her position *the long flat*, when four miles
+short of the wall is two miles short of the gate and therefore made road — is real, is recorded, and is left, because
+repairing it means softening a sentence.**

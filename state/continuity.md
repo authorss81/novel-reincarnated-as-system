@@ -6739,7 +6739,7 @@ and ch 626 read 337 for 340.** *(ch 616 derives 282 and does not state it; that 
 
 **`chapters/volume-11/` holds ch 601–645. Batch 0003 is ch 631–645: fifteen chapters, 29,966 words of body prose on
 method B — every line not beginning `#`, measured with `grep -v '^#' <file> | wc -w` chapter by chapter and over the
-fifteen together — average 1,998 a chapter, inside the outline's 27,000–30,000 batch band and inside its 1,800–2,000
+fifteen together — average 1,997 a chapter, inside the outline's 27,000–30,000 batch band and inside its 1,800–2,000
 target.** Per chapter: 2,238 · 1,960 · 1,815 · 1,925 · 1,906 · 2,137 · 1,896 · 2,102 · 2,012 · 2,061 · 2,013 ·
 1,936 · 2,087 · 1,941 · 1,937. **No chapter is under the 1,300 floor and none is above the 2,700 guide.**
 
@@ -6986,7 +6986,7 @@ verified against the formula.
 | **The retired seven phrases** | at most one | **0** | **PASS** |
 | **`about four seconds`** · **`eleven weeks`** · **`week`** | 0 / 0 / 0 | **0 / 0 / 0**. **Eight instances of `week` were drafted** — *every week · this week · a week ago · inside a week · a week to do what it has to do · twice in a week* — **and every one was cut to *out of every seven · in the last three days · nine days ago · five days · seven days · twice in seven days*** | **PASS after repair** |
 | **`thank`** | 0 | **0**. **Five were drafted** — *you have never once thanked me · she said thank you to him once · she did not thank him · she did not say thank you, twice* — **and every one was recast to *never once said so to me · she said the words once · she said none of it · she did not say the other thing.*** No person on any ground in this batch is thanked | **PASS after repair** |
-| **`forgiv`** | 0 | **0**. The asking at ch 658 is a staying and no card calls it a forgiveness | **PASS** |
+| **`forgiv`** | 0 | **1 — and the 0 this row used to carry was wrong.** ch 659: `he would forgive`, a denial | **RECORDED — it forgives nothing** |
 | **Banned reflexes** | 0 / 0 / 0 / 0 | **0 / 0 / 0 / 0** | **PASS** |
 | **Named weekdays / named calendar months / named weeks** | 0 / 0 / 0 | **0 / 0 / 0** | **PASS** |
 | **Surface answer** | 0 in any mouth, any form | **0** — *charged · bookkeeping · receipt · bounded world · the walls* all 0 | **PASS** |
@@ -7092,8 +7092,10 @@ must re-measure all sixty under one method and write the true figure.** **SECOND
 prose is recorded as zero in an earlier batch's budget and is not zero across the volume.** Measured across ch 601–660 on method B per file by this phase, and re-measured after the repair: **`nobody` 34 against a target under
 thirty · `eleven` 43 against a target under forty · `thank` 16, against Batch 0002's recorded 0 for `thank` across
 ch 616–630 and Batch 0003's measured 0 across ch 631–645, so the sixteen are all in Batch 0001 or Batch 0002** — both
-closed phases. **`forgiv` 0 · `week` 0 · `about` 356, average 5.9, under its line · `whole of` 73, under 80 ·
-`nothing` 209, average 3.5 · `out loud` 254, average 4.2.** **A THIRD, FOUND BY THE REVIEW AND NEW: the two methods
+closed phases. **`forgiv` 1 · `week` 0 · `about` 356, average 5.9, under its line · `whole of` 73, under 80 ·
+`nothing` 209, average 3.5 · `out loud` 254, average 4.2.** **CORRECTED IN PLACE by the Volume 11 close review:
+`forgiv` is 1 across ch 646–660, not 0** — ch 659's `he would forgive`, a denial — **and this record's own
+`\b`-boundary method is what hid it, because the sole instance is the inflected `forgive`.** **A THIRD, FOUND BY THE REVIEW AND NEW: the two methods
 disagree because 39 of the 60 files carry no trailing newline, so a chapter's last body line is glued to the next
 file's `# ` title and `grep -v '^#'` no longer removes it. Per file, `nothing` is 209; concatenated with `cat`, it is
 211 — the extra two being ch 649's *The Sky Says Nothing Back* and ch 660's *A Board With Nothing Written On It*. The
@@ -7210,9 +7212,10 @@ conflict, leave both figures standing, do not reconcile the page to the prompt.*
 Brackets **exactly three in sixty at ch 616, ch 632 and ch 648**, the batch's one character-for-character with the
 other two · **0 bold · 0 blockquotes, fences, tables or rules · 0 all-caps lines · 0 straight quotes or apostrophes
 · 0 paragraphs over 90 words · 0 duplicated sentences of 8 words or more · 0 banned reflexes · 0 authorial
-scaffolding · 0 `thank`, `forgiv`, `week`, `Scribe`, `Hunter`, `Shuyin`, `Ledger`, `reconciled`, `plate`, `licence`,
+scaffolding · 0 `thank`, `week`, `Scribe`, `Hunter`, `Shuyin`, `Ledger`, `reconciled`, `plate`, `licence`,
 `clearance`, `countersignature`, `seal`, `kiln-born`, `MEMBER ABSENT`, `tribulation`, `Anchor`, `Sisterhood`,
-`bargain`, `vouch`, `field agent`, `Wall writ`, `Warden` · `thank` still 0 across the batch · `nobody` still 6 in the
+`bargain`, `vouch`, `field agent`, `Wall writ`, `Warden` · **`forgiv` 1, not 0 — CORRECTED IN PLACE by the Volume 11
+close review; ch 659's `he would forgive`, a denial, which the `\b`-boundary method counted out** · `thank` still 0 across the batch · `nobody` still 6 in the
 batch and 34 across the volume · titles still 0 collisions against all 660 standing headings · Batch 0004's `## `
 headings still unique within the batch and against all of Volume 11 · every month-day still reproducing under
 `((day − 134) mod 30) + 1` · **every going-lighter figure in the batch still resolving under `D − 1,560` except
@@ -7336,7 +7339,7 @@ are, with the correction recorded here and in `state/current.md`.
 | **The surface answer** | 0 in any mouth, any form | **0** — *charged · bookkeeping · receipt · bounded world* all 0 | **PASS** |
 | **The zeroed proper nouns** | all 0 on word boundaries | **0** for `Ledger · reconciled · plate · licence · license · clearance · countersignature · seal · kiln-born · MEMBER ABSENT · tribulation · Anchor · Sisterhood · bargain · Hunter · Warden · Shuyin · field agent · Wall writ · vouch` | **PASS** |
 | **`vouch` · `send for` / `sent for` / `sending`** | counted and written down | **0 · 2 · 0**. The two `sent for` are Volume 10's inherited fact restated once at ch 643:9 and once at ch 647:119, both in the past tense about the act and neither a fresh sending | **PASS, counted** |
-| **`forgiv`** | 0 | **0** | **PASS** — the year of non-forgiveness is not mentioned once in sixty chapters |
+| **`forgiv`** | 0 | **1 — NOT the 0 this row recorded.** On the substring `grep -oi forgiv` the sixty chapters read **1**; on the strict `\bforgiv\b` boundary they read **0**, and the volume's only instance is the inflected **`forgive`** at ch 659 — *there is not one thing she could say about it that he would forgive* — which is a **denial**, in which she says there is nothing she could say that he would let go of. **Nothing in the volume forgives anything, and the permissions at ch 609 and ch 645 remain permissions.** **The batch's own words carry the same slip and are corrected at the four other sites** | **RECORDED, and the zero is corrected** |
 | **`thank`** | 0 | **16 — OVER**, all in Batches 0001 and 0002 | **RECORDED, not repaired** |
 | **`nobody`** | under thirty volume-wide | **34 — OVER** | **RECORDED, not repaired** |
 | **`eleven`** | under forty volume-wide | **44 — OVER** | **RECORDED, not repaired** |
@@ -7353,7 +7356,7 @@ are, with the correction recorded here and in `state/current.md`.
 | **A frame scene** | the seventh, at ch 644, and none after | **1 in the volume, at ch 644**, and no eighth anywhere in ch 601–660 | **PASS** |
 | **The lever — asking twice** | not pulled anywhere | **0.** Carried at ch 606:117, ch 614:49–51 and ch 615:9 and **declined at all three** | **PASS** |
 | **A page of either furnace book read out loud by anybody** | 0 | **0.** No page of the widow's book and no page of the harvest book is read by anybody; Feng's four sheets are read aloud once at ch 657 by her, to a boy of sixteen who is not a keeper | **PASS** |
-| **Chapter titles** | sixty names, 3–12 words, under ~90 characters, zero collisions | **60 names, 3–7 words, longest 39 characters, 0 collisions against all 660 standing headings and 0 within the volume** | **PASS** |
+| **Chapter titles** | sixty names, 3–12 words, under ~90 characters, zero collisions | **60 names, 2–9 words, longest 36 characters (*What She Said To A Woman With A Book*, ch 621), 0 collisions against all 660 standing headings and 0 within the volume** — **the 39 and the 3–7 this row used to carry were the close's own miscount: 39 is the manuscript-wide longest and belongs to Volume 8's ch 426, and the `# ` prefix had been counted into the string** | **PASS after the close review corrected the measurement** |
 
 ### THE TWO OVER-TARGET CRAFT LINES AND THE THIRD, ADJUDICATED
 
@@ -7561,7 +7564,7 @@ it. **No other character is ever in a marked present frame anywhere in ch 601–
 | `Shuyin` | same | **0 — PASS, and he is unnamed on the page** |
 | Harem, romance | read, not greppable | **None. Nothing in Volume 11 is a romance, and there is no card in which a person is wanted** |
 | Her mother's name | read | **Never said, in any register, by any mouth, in sixty chapters** |
-| The year of non-forgiveness | `grep -oi forgiv` | **0 — PASS, not mentioned once.** The permissions at ch 609 and ch 645 are permissions and no line calls either of them a forgiveness |
+| The year of non-forgiveness | `grep -oi forgiv` | **1, NOT 0 — the 0 in this row was wrong and is corrected.** One instance, ch 659, the word `forgive`, inside a denial. **The year itself reads 2 on `the year`, not 0**: ch 618, *the reason was not duty and was not kindness and was not the year*, a direct naming inside a refusal, and ch 637, *since the year it was written*, an unrelated sense. **Both name it in order to refuse it.** The permissions at ch 609 and ch 645 are permissions and no line calls either of them a forgiveness |
 | A person thanked | `grep -oiw thank` | **16 — OVER the zero, and all sixteen are the refusal being named as a refusal**, in Batches 0001 and 0002. Batch 0003 and Batch 0004 are both 0. **RECORDED, not repaired** |
 | A figure of what is left of him | read | **None, in her hearing or out of it** |
 | The lever — asking twice | `grep -in "asked twice"` | **3 instances, at ch 606:117, ch 614:49 and ch 614:51, plus ch 615:9's *a thing asked twice is a thing refused twice*. Carried four times and **declined every time. Not pulled anywhere** — **PASS** |
@@ -7708,3 +7711,99 @@ figures of what is left of him, zero frame scenes after ch 644, zero pulls of th
 book read aloud, and **three words over their lines that were left over them because the sentences using them are
 true** — `nobody` 34, `eleven` 44, `thank` 16. **One all-caps line, authorised by the outline's own card and standing
 as the name she writes.** **The rest of the budget is zero and verified zero.**
+
+## VOLUME 11 CLOSE — REVIEW REPAIR (applied to the state files and the next-phase prompt; findings from
+`logs/volume-11-close.review.log`)
+
+**No chapter prose was written and no chapter file was touched. The fourteen page repairs the close made to the prose
+stand exactly as they were made, and every figure the close published re-measures: 118,748 over sixty, batch 29,284 ·
+29,748 · 29,966 · 29,750; 42 files without a trailing newline and the concatenated 118,974; three layer brackets at
+ch 616, 632 and 648; zero duplicate `##` headings; `nobody` 34, `eleven` 44, `thank` 16 on the published per-file
+word-boundary method.** The review confirmed all of that independently. **Seven findings were raised. Six are corrected
+below. One is not upheld, and the reason is written down so that no later phase spends a repair on it.**
+
+### 1. `forgiv` is 1, not 0 — CORRECTED AT EIGHT SITES
+
+**The finding holds and it propagates furthest, because it had been written into `workspace/volume-12-planning/PROMPT.md`
+as a rule the drafting phase would inherit and enforce against itself.**
+
+**The true figure is 1, and the reason the count had read 0 is a method, not an oversight.** ch 659 carries
+*there is not one thing she could say about it that he would forgive.* **The only instance of the string in sixty
+chapters is the inflected `forgive`.** A count taken on the strict word boundary `\bforgiv\b` returns **0**, because
+`forgive` does not match `forgiv` followed by a boundary. A count taken as the substring `grep -oi forgiv` — **the
+method this manuscript named at §*the volume as a whole* — returns 1.** Both numbers were in circulation and the files
+asserted 0 without naming which one they had run.
+
+**The rule this close sets: a zero is not a figure until the command that produced it is in the same sentence as the
+zero.** The reading to carry is the **substring**, because it is the one that cannot let a form hide behind a boundary;
+on this page it is the only reading that reports what is actually on it. By batch: 0001 **0** · 0002 **0** · 0003 **0**
+· 0004 **1**, all of Batch 0004's standing in ch 659.
+
+**It forgives nothing.** The sentence is a denial — she is saying there is nothing she could say that he would let go
+of — and it is the closest the volume comes to the subject. The permissions at ch 609 and ch 645 remain permissions.
+
+### 2. *The year* is 2, not 0 — CORRECTED AT FOUR SITES
+
+**The finding holds.** `the year` appears twice in the volume. **ch 618** — *the reason was not duty and was not
+kindness and was not the year* — is a direct naming of the year of non-forgiveness **inside an explicit denial of it**,
+and it is the one that matters. **ch 637** — *has not read his book back since the year it was written* — is an
+unrelated sense about a book. By batch: 0001 **0** · 0002 **1** · 0003 **1** · 0004 **0**.
+
+**Both instances refuse it and neither retires it.** The allowance for Volume 12 remains zero naming, and a zero has to
+be measured before it is claimed.
+
+### 3. Longest Volume 11 title is 36 characters, not 39 — CORRECTED IN THE PROMPT
+
+**The finding holds and the cause the review gives is legible: the `# ` prefix had been counted into the string and the
+result then labelled as Volume 11's.** The prompt also claimed Volume 11's titles ran **3–7 words**; they run **2 to 9**.
+Both figures corrected, and the prompt now names the owning chapter so the number cannot drift back.
+
+### 4. Batch 0003's average was split 1,997 / 1,998 — RECONCILED ON 1,997
+
+**The finding holds as a defect in the record, not in the arithmetic.** 29,966 ÷ 15 = 1,997.73, so both are defensible.
+**The live line at `state/current.md` had been changed to 1,997 by the close and four other sites were left at 1,998,
+silently.** **Four sites corrected to 1,997**, which is the live line's figure and the one the volume's own average
+already follows — 118,748 ÷ 60 = 1,979.13 → **1,979** — **and the convention is now named: averages are truncated, not
+rounded.** With that stated, every published average in the volume is reproducible: 1,952 · 1,983 · 1,997 · 1,983.
+
+### 5. Stale imperatives survived in the live bullets — REMOVED, NOT LEFT STANDING
+
+**The finding holds.** `state/current.md` still ended the 28,446 clause by instructing *a Volume 11 close must
+re-measure all sixty chapters under one method* — work the close had already done — and still read *the close must
+record the conflict and leave both standing* for the furnace ground's 65 against 154. **Both now read as resolved records
+and the pending-work wording is deleted.** A discharged instruction left standing in a live bullet is read by the next
+phase as work it owns.
+
+### 6. `state/INDEX.md` was a volume stale and the close had not touched it — CORRECTED
+
+**The finding holds.** Its *For the next phase* block still announced the volume *closed and audited at ch 600* and
+warned that *a Volume 11 planning phase must not be sent to…* **while the phase actually being dispatched is Volume 12
+planning.** It was last written at the Volume 10 close review. **The block now names Volume 12 planning, gives the
+read order, and lists four things that may not be re-opened** — the eight live inherited findings and the one that was
+not upheld · `forgiv` 1 and `the year` 2, so a zero must be measured · `outline/ending.md` §8's five obligations
+standing open · **the *Twenty-two days* line, still unplaced and still equated to no dated interval, which is a
+question the series hands forward and not an error.**
+
+### 7. ch 659's eleven miles of made road — RAISED, CHECKED, AND NOT UPHELD
+
+**The finding does not hold and the sentence is true, so nothing was repaired on the page.** The review set
+**ch 659:119's** *eleven miles of made road in front of her* against **ch 659:11's** *four miles short of the wall*.
+**The two lines are not the same moment.** Line 11 is the second hour of the fifth, on the way east, the wall four miles
+ahead. Line 119 is after she has gone out of the rows, up the rise, stood twenty minutes on the crest and turned west
+— and **the rows are four miles past the wall**, so the whole gate-to-turn leg, all eleven miles of it, is ahead of
+her, with the gate-to-wall gap in front of that. Both figures, and the order of them, are the map the close walked.
+
+**One residual looseness in the same chapter is real and is left on purpose.** ch 659:11 and :19 call her position *the
+long flat* and *a flat four miles short of a wall*, and four miles short of the wall is two miles short of the gate,
+which is made road and not flat. It is a single adjective against a map that is otherwise walked exactly, it reads
+true, and the close's standing reason applies unchanged: **repairing this means softening a sentence.** Recorded, not
+fixed, and carried into the Volume 12 prompt so that no drafting phase inherits it as clean prose.
+
+### What this repair changed, and what it did not
+
+**Six state locations and the Volume 12 prompt now report a measurement they have actually run.** The prose is
+untouched: no chapter file was edited, no figure on the page moved, no sentence was softened, and the planned plot is
+unchanged. **The one thing this repair changed about the record is that it now says what it measured.** The failure it
+catches is the one the Volume 12 prompt already named against itself: *a budget that records zero while instances
+stand is the failure this manuscript has caught itself making six times.* **It is the seventh, and the cause was a
+method that hid an inflected form behind a word boundary.**
