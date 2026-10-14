@@ -38,7 +38,7 @@ Nine years she had been sitting on that bench. Ning Yan had been past it four hu
 
 She stood there for two minutes with the bar on her shoulder.
 
-She had come west with one thing in her head and it was not a question, because a question costs forty-four miles and two days and she had asked four of them in sixty-nine days and had not been given an answer to one of them.
+She had come west with one thing in her head and it was not a question, because a question costs forty-four miles and two days and she had asked four of them in seventy days and had not been given an answer to one of them.
 
 She wanted to be somewhere on the fourth of a month where there was somebody else in it.
 
@@ -102,7 +102,7 @@ The days are the only thing she has that is not a question. She cannot make them
 
 She did not say thank you to a woman of sixty for four sentences about a mill and a house, and she has been not saying it for most of a month now and she has thought about it on four separate made roads since, and she worked out the reason on the seventh and it was the plain one.
 
-She has not been paid by her. There is no arrangement on this ground at which a girl with a bar on her shoulder interrupts a woman doing string to tell her that what she said once was worth something.
+She has not been paid by her. Nothing on this ground lets a girl with a bar on her shoulder interrupt a woman doing string to say that what she said once was worth something.
 
 She would have been saying thank you for being owed to her, and a woman of sixty with a needle in her hands at the fourth hour is not owed anything by a girl of nineteen who cannot count where she stands.
 

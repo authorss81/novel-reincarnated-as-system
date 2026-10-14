@@ -30,7 +30,7 @@ That is everything ten years leaves in a house, and she stood in it and counted 
 
 She got up off the stone floor at the second hour of the fifth of the month beginning 1,694 and went to the inside of the door and put her left hand on the bar across it.
 
-She stood there for a long time with her hand on it and she is not going to describe what she thought about, because what she thought about was whether there was anything in a shut house worth having, and she worked that out in about nine seconds and the answer was no, and she put the bar back down on its brackets.
+She stood there for a long time with her hand on it and what she thought about was whether there was anything in a shut house worth having, and she worked that out in about nine seconds and the answer was no, and she put the bar back down on its brackets.
 
 It was not a temptation. She wants that said because it is the truth and it is the duller thing.
 
@@ -89,6 +89,12 @@ She was at a wall eleven times in thirty-eight days. She was at one of them on t
 She has been four miles off that wall since the seventh hour of the fourth and she has gone east once in two days and that once was a woman on a bench and a lane.
 
 She was not able to ask anything on the fourth. She was not able to ask anything on the fifth. She is not able to ask anything today.
+
+And there is the bill for the fifth stage and it is not nine seconds long, it is thirty-six.
+
+Before the fourth of this month a place a person gave her was a road. She could not have told anybody that, and she could have gone anywhere on the strength of four sentences and a woman at a fire. On the fourth it stopped being a road and became a destination, and a destination does not point.
+
+Two days in a shut house with the bar across the inside of it is what two days in a destination looks like from inside it. She has not asked anything in thirty-six hours and she could not have told you at the fourth hour of the fourth why she was going four miles west to look at a door, and there was no version of her that got up on the fifth and went east.
 
 She did not decide not to. There was no moment where she weighed it and chose the shut door. She came west at the ninth hour on the strength of a thing a woman said at the end of a lane, and she walked four miles, and now she is at a shut door, and there is no road between here and a wall that is twenty-two miles long in one direction and nine in the other.
 

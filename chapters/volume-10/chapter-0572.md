@@ -58,6 +58,26 @@ She felt it go the way it goes — no sound in it, because there is nobody insid
 
 She stood there through it with her hand flat on her own side and the woman at the fire not looking up, and it took nine seconds, and after it she was exactly as tired as she had been before it and exactly as hungry as she had been before it, which she was not at all.
 
+## What The Fifth Stage Took
+
+She found it out standing in the dust at forty feet off a lane with a loaf in a cloth in her right hand, and it took her nine seconds as well, and she has not been the same since.
+
+Before this, a name was a road and she could walk toward it.
+
+A woman on a bench says four sentences and they are a road, and a girl who has spent eight years counting the way back to somebody knows inside her own legs which way a thing points. She had known where he was in the way a person knows a door is in a room, which is to say she could not have put it into words and would have gone there.
+
+That is gone.
+
+It went in nine seconds, at the end of a lane, on a woman handing her bread, and it went into the place that had been quiet for a month.
+
+And what she has instead of it is a place. She has somewhere to be. And a place cannot be walked toward. It can only be got to, and it takes two days or four miles or however long it takes, and while she is walking toward it she is not going anywhere in particular, and she found that out standing in the dust with her arm open and did not find it out by anybody telling her.
+
+She worked it out four more times that afternoon on four miles of made road and it came out the same every time, and it is a thing she can now use, the way a person can use a missing tooth.
+
+A person who tells you where somebody is hands you the place they were, and from the fourth of the month beginning 1,694 she cannot walk toward one.
+
+She did not tell the woman of fifty. She did not tell her because it took nine seconds and a bar in her hand and a road she was already on, and the woman of fifty was putting a loaf in a cloth and would have said *good*.
+
 ## The Loaf
 
 The woman put a loaf in a cloth and held it out without a word and without getting off the stool.
@@ -78,7 +98,7 @@ She had been given a place.
 
 Not a date and not a number and not an answer. A place, with a stone in front of it and a door shut on boards, four miles along a road she has walked six times.
 
-In sixty-nine days she had asked four questions at a wall twenty-two miles east and had been given three terms and a day, and every single one of those had narrowed what she could still ask.
+In seventy days she had asked four questions at a wall twenty-two miles east and had been given three terms and a day, and every single one of those had narrowed what she could still ask.
 
 And a woman at the end of a lane had handed her a direction for nothing, at the seventh hour, out loud, with a shut door six feet behind her and a standing stone in the yard.
 

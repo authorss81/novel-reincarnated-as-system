@@ -40,7 +40,7 @@ The twenty-fifth. Two hours, and then two words.
 
 That is seven days.
 
-She stood in that opening eleven times in thirty-eight days and four more times in the month after that, and before this week the whole of it came to about sixteen hours. This week she did nineteen. Every one of them was in daylight, which is one of the three terms, and she has not broken one of the three in a hundred and twenty days.
+She stood in that opening fifteen times in thirty-eight days and four more times in the month after that, and before this week the whole of it came to about thirty hours. This week she did fourteen. Every one of them was in daylight, which is one of the three terms, and she has not broken one of the three in a hundred and twenty days.
 
 ## What He Said On The Nineteenth
 
@@ -58,7 +58,7 @@ She took that sentence and turned it over for four days standing in an opening o
 
 It is the answer to the thing she has been carrying since the twenty-seventh of a month beginning 1,694, when she gave him four sentences about a house and he took them and did not put them down.
 
-A keeper takes a thing and does not let it go stale. That is what keeping is.
+A thing he keeps does not go out of date. That is what nine hundred years of one man being careful adds up to, and it is not a virtue, it is just what the instrument is.
 
 So if she says the name, it will not go into nine hundred years. It will not be true on the nineteenth of a month beginning 1,784. It will not be a thing anybody can ask after. It will be a thing that a girl said once in daylight in front of a boy of fifteen and a man of nine hundred years, and after that it will be only hers.
 
@@ -118,7 +118,7 @@ Two words, a walk of forty-four miles, seven days of standing on dressed stone w
 
 And the name is in the air, and the yard has it, and a boy at a gate has not heard it and cannot unhear that he saw it, and a carter four hundred yards off has got nothing at all, and a man of nine hundred years has got a place and a date and a rule and the two words in his own ears.
 
-That is all of it. That is everything eight years of keeping one thing shut on purpose bought, in both directions, and she has to hold both halves at once and there is no arrangement on this ground by which anybody holds both halves at once except the person holding them.
+That is all of it. That is everything eight years of keeping one thing shut on purpose bought, in both directions, and she has to hold both halves at once, and nobody on nine days of road holds both halves for anybody except the person holding them.
 
 She wanted somebody to come back to her and tell her it was a good thing to do.
 

@@ -3,7 +3,7 @@
 ## What this phase is
 
 **Volume 10 Batch 0001 (ch 539–554), Batch 0002 (ch 555–570) and Batch 0003 (ch 571–586) are all on the page: forty-eight
-chapters, 86,084 words of body prose over them on method B — every line not beginning `#` — day 1,599 to day 1,771.
+chapters, 87,577 words of body prose over them on method B — every line not beginning `#` — day 1,599 to day 1,771.
 Batch 0003 opened on no bracket and carried exactly one, at ch 572, which is Volume 10's second of three in sixty-two,
 at ch 556, 572 and 588. This batch carries the third and the last, at ch 588, and nothing else. This phase drafts
 ch 587–600, fourteen chapters, and nothing else.** It writes finished prose in chapter order, one complete scene per
@@ -32,7 +32,7 @@ and a lump of clay and a ring a finger's width and a stub of a nib and a cake of
 Four fingers and a thumb, an arm open four days in five, eight of eleven holds, four counts of breath including inside
 a loaded reach, and the small open place low behind her fourth rib drained twice in the month beginning 1,604. She is
 lighter than she has ever been and has been lighter every single day since the eighteenth of the month beginning 1,544.
-She is not hungry and has not been since that eighteenth, and she has had no bread at all for twenty-three days.**
+She is not hungry and has not been since that eighteenth, and she has had no bread at all since she came back from the wall on the twenty-eighth of the month beginning 1,724 — twenty-three days.**
 
 **In her coat, against the side where the paper is, there is a book of eight leaves made out of a blanket: a date and a
 place on the first leaf, four sentences on the second that she has read out loud once and will not read again, and six
@@ -46,8 +46,9 @@ beginning 1,724 she put a nib to the first of them and put it away.**
   do* (the fifteenth of the month beginning 1,634) · *will you tell me when* (the twenty-first, answered *there is a
   day*). **The first has been standing a hundred and twenty-one days and she is not allowed a fifth.**
 - **The lever.** Asking twice is the only thing in the world that would make him get to the first question sooner, and
-  the only thing that would make it never get answered. **She carried it on purpose for a month and did not pull it,
-  including at ch 585 on the twenty-fifth in the best hour of her life.**
+  the only thing that would make it never get answered. **She found it on the nineteenth of a month beginning 1,634,
+  day 1,652, and carried it on purpose for a hundred and nineteen days and did not pull it, including at ch 585 on the
+  twenty-fifth in the best hour of her life.**
 - **The terms, said three times, and they do not move for the rest of the volume:** one at a time · at the wall · in
   daylight. Twenty-two miles each way, forty-four a question, two days.
 - **What she put into him at ch 580 and cannot take back:** four sentences about a house with a standing stone. **He took
@@ -108,7 +109,7 @@ enough for the batch; the volume wants both, in that order.
 
 **Physical risk or real deadline, pinned:** **thirty-one days from day 1,771 to day 1,802, against twenty-two miles
 each way and nothing to lie down on between the gate and the wall, on a body that has been lighter every day since the
-eighteenth of a month beginning 1,544 and has had no bread for twenty-three days** — plus the standing one, carried and
+eighteenth of a month beginning 1,544 and has had no bread since the twenty-eighth of the month beginning 1,724** — plus the standing one, carried and
 never re-derived: **no place to lie down in between the gate and the wall.**
 
 **What she has to work with:** a bar nine feet nine, one good arm, a stone face measured by weight and not by hands, a
@@ -201,7 +202,7 @@ itself making four times.
 
 - **Bracketed layer lines: 1 in fourteen chapters, at ch 588 and nowhere else, in the far-side house form, on its own
   line, in square brackets, never bold, never italics, never a heading.** Bold **0**; scarce italic, counted — **Batch
-  0003 spent 4 in sixteen chapters and all four were load-bearing.** Blockquotes, code fences, tables, horizontal rules:
+  0003 spent 5 in sixteen chapters and all five were load-bearing.** Blockquotes, code fences, tables, horizontal rules:
   **0**. All-caps standalone lines: **0**. Straight quotes / straight apostrophes: **0**, every speech closed. Named
   weekdays / months / weeks: **0**. Banned reflexes (`his eyes widened`, `he couldn't believe it`, `suddenly`, `little
   did he know`): **0**. Yuan tag verbatim: **0**. Authorial scaffolding: **0**, the widened pattern and the bare forms
@@ -209,15 +210,20 @@ itself making four times.
   none, so all three are unspent — spend at most one here.** `about four seconds` 0 · `eleven weeks` 0. Surface-answer
   tokens 0. Zeroed proper nouns all 0. `list` counted and written down whatever it is. `Shuyin` counted wherever it
   stands, never in his own mouth. `Ning Wu` counted. `about` / `whole of` / `eleven` / `nobody` counted with the method
-  in the sentence with the number. **Batch 0003's true figures, published beside the targets rather than promised away:
-  `about` 87, average 5.4 a chapter · `whole of` 11 · bare `eleven` 38 · `nobody` 29, average 1.8 · `nothing` 93.
-  Volume 10 now stands at `whole of` 104 against a volume-wide target under 80 and at `eleven` 187 against a target under
-  200, so Batch 0004 must not put `whole of` back up and should hold `eleven` under forty.**
+  in the sentence with the number. **Batch 0003's true figures after its review repair, published beside the targets
+  rather than promised away: `about` 85, average 5.3 a chapter · `whole of` 12 · bare `eleven` 38 · `nobody` 28, average
+  1.8 · `nothing` 97.** Volume 10 now stands at `whole of` 105 against a volume-wide target under 80 and at `eleven`
+  187 against a target under 200, so Batch 0004 must not put `whole of` back up and should hold `eleven` under forty.
+  **Two constructions the review found doubled are now down: *she wants that written down / is not going to describe*
+  stood at 8 in Batch 0003's sixteen chapters and is now 0, and *there is no arrangement on this ground* stood at 7 and
+  is now 3. Batch 0004 must not restart either.**
 - **Titles: fourteen names, 3–12 words, under ~90 characters, unique against all 586 standing headings and against each
   other.** Section headings name what is in the room; no two sections in one chapter share a name.
 - **Paragraphs two to four sentences; break over ~90 words; never over ~120.** **Fourteen chapters, 27,000–28,000 words
   of body prose on method B, which is 1,929–2,000 a chapter**, no chapter under the 1,300 floor, none above the 2,700
-  guide without a scene that needs it.
+  guide without a scene that needs it. **Batch 0003 came in at 30,324 over sixteen, average ~1,895, with eight of
+  sixteen under 1,800 and one at 2,997 — above the guide, and it is the chapter that carries the batch's whole last
+  day. Do not repeat it.**
 - **Every chapter ends on a question, danger, revelation, decision, reversal, emotional consequence, or unanswered
   mystery — never a neutral action.** Short plain sentences where something is understood. One human sentence after the
   machinery. No re-explanation of a Volume 9 or Volume 10 cost.
@@ -228,10 +234,38 @@ itself making four times.
 1. **`chapters/volume-10/chapter-0551.md` carried an exact duplicated paragraph and Batch 0003 CUT IT.** That finding is
    closed and is not carried. **The recorded figures were corrected at the source and are on the page: ch 551 is 1,756
    words of body prose on method B, down from 1,824, and no beat, day, title, mouth, decision or planned event moved.**
-2. **Batch 0003's day figures are on the page and are correct: 105 days at ch 571–572 · 90 at ch 578 · 78 at ch 581 ·
+2. **Batch 0003's day figures are on the page and are correct: 105 days at ch 571–572 · 87 at ch 578 · 78 at ch 581 ·
    71 at ch 583 · 54 at ch 585 · 31 at the last page of ch 586.** **Batch 0004 opens at day 1,772 with thirty-one days**
    and **the closing falls inside ch 595 at day 1,802**, which is why ch 595 and ch 596 are adjacent and why the last
    asking and the shutting are six chapters apart.
+
+## Three findings carried in from Batch 0003's REVIEW REPAIR, for whoever drafts this one
+
+**The repair reopened all sixteen chapters of Batch 0003 and changed figures this card inherits. Read
+`state/continuity.md` §*Volume 10 Batch 0003 — REVIEW REPAIR* before drafting against this card. The batch was not
+restarted and no beat, day-table position, title, mouth, stage, bracket, midpoint, frame scene or irreversible decision
+moved.**
+
+1. **Severance 5's cost is now on the page, and this card may rely on it without re-deriving it.** It was asserted in the
+   state files and appeared in no line of prose. **It is in her own mouth at ch 572 in nine seconds — a person who tells
+   her where somebody is hands her the place they were, and from the fourth of the month beginning 1,694 she cannot walk
+   toward one — and its working is shown thirty-six hours later at ch 573.** **Treat it as a shown cost, not a topic:
+   name it once and carry it.**
+2. **Four figures this card used are corrected.** The lever was found on **the nineteenth of a month beginning 1,634,
+   day 1,652**, and she has carried it on purpose for **a hundred and nineteen days** — not "a month". The first question
+   was asked on **day 1,627**. ch 578's count is **87** days, not 90. And **ch 586's seventeen days are on the page**, so
+   Batch 0004 does not have to invent a bridge for 1,753–1,769: it happened, and three things came out of it — **she
+   asked one question in thirty-three days, on the second of the month beginning 1,754, it was *when does the next board
+   goes down*, the answer was the second, and that is the last day on which stone of hers is ever paid for**; **she
+   decided at the flat stone on the eleventh that she has one mouth and is going to spend it carefully**; and **on the
+   fourteenth she found fresh lime under the bar of the shut door that had not been there on the fourth of the month
+   beginning 1,694.** **That lime is an open thread (`state/open-threads.md` item 15), not a lead to the brother, and it
+   may be spent or left.**
+3. **Volume 10's word-count convention is inconsistent across its three batches and the close should settle it.** Batch
+   0003 is published at **30,324** and reproduces exactly under `wc -w` over non-`#` lines; **Batches 0001 and 0002 are
+   published at 29,678 and 27,575 and measure 29,835 and 27,751 under that same command.** Those two were carried
+   forward rather than quietly restated. **Do not derive anything from a Volume 10 word count until the close re-measures
+   all forty-eight chapters under one method.**
 
 ## After the batch
 

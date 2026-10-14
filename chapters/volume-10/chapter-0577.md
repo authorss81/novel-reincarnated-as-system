@@ -56,7 +56,7 @@ That is all of it, and it is five sentences and he has never made one of them tw
 
 She did not say thank you, and she did not say forget it, and she did not say it was the name of a brother, and the last of those three cost her more than the six loaves did.
 
-She wanted to. She is not going to describe what she wanted to, and the reason is four days old and she has thought about it since.
+She wanted to. She has not written down what she wanted to, and the reason is four days old and she has thought about it since.
 
 If she tells him what the thing was, then he is a person who has been told something, and there is no way on this ground to make a person into somebody who has not been told something. It goes the other way. You cannot un-carry a board.
 
@@ -78,9 +78,9 @@ He counts the boards off the cart and he counts the near end and he counts how m
 
 That is why his five sentences came out flat and in the same voice he uses with a chalk, and it is why she got five sentences and not one sentence with anything in it, and she is not going to pretend to him or to a reader that the flatness hurt. It is the most useful voice anybody has spoken to her in eight years.
 
-## The Part She Took West
+## The Part She Took East
 
-She took it east that night and she has it now and it is the first thing in sixty-nine days that has made the twenty-fifth of a month begin to look like a day and not a number.
+She took it east that night and she has it now and it is the first thing in eighty-three days that has made the twenty-fifth of a month begin to look like a day and not a number.
 
 A name said out loud in the open is said where it cannot be taken back.
 
@@ -106,4 +106,4 @@ That is what she learned from five sentences by a boy of eleven. It is not a thi
 
 She put her hand flat on the flat stone under the bottom of the ladder and it was bare.
 
-The boy of eleven took the far end of a second board and went east down the strip road without looking back at her, which is what he does, and she has never once known what it costs a person to be the one who does not look back.
+The boy of eleven took the near end of a second board and went east down the strip road without looking back at her, which is what he does, and she has never once known what it costs a person to be the one who does not look back.

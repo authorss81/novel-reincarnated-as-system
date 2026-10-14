@@ -10,7 +10,7 @@ Against her ribs, on the side where the paper is, there is a book of eight leave
 
 Nine days on a face and nothing on a board. Four miles of road walked to a shut door and then walked past.
 
-And eighty-five days.
+And eighty-six days.
 
 ## The Column
 
@@ -32,7 +32,7 @@ The pane of glass a hundred yards off the wall.
 
 ## What The Column Told Her
 
-It told her in about nine minutes what she had been refusing to arrange for sixty-nine days.
+It told her in about nine minutes what she had been refusing to arrange for ninety days.
 
 She has not been allowed a fifth, and she knows why, and the why has not changed since the twenty-fourth of a month beginning 1,604, and she is not going to set it out again in the dust to feel it.
 
@@ -40,7 +40,7 @@ She has been reading the column as a queue. It is not a queue.
 
 If she had the choosing of it she would spend the first line next, and then the second, and the second is the one that says what all of it is for, and a person who has been written as lost on a thing she has never been told the purpose of is a person who is owed the purpose before anything else.
 
-She cannot have the choosing of it. One at a time, at the wall, in daylight, and the one that moves is the first one, and the first one has been standing for eighty-nine days.
+She cannot have the choosing of it. One at a time, at the wall, in daylight, and the one that moves is the first one, and the first one has been standing for ninety days.
 
 And there is a fifth thing the column told her that she had not put to it.
 
@@ -96,7 +96,7 @@ She has lost the days they would have cost, and she did not know she was spendin
 
 ## The Two Days On The Stone
 
-She is not going to describe the second of those two days, because nothing happened in it, and that is the finding and not a gap.
+The second of those two days went past and she is not going to pretend there was anything in it, and that is the finding and not a gap.
 
 She sat on the flat stone at the foot of the ladder from the seventh hour of the twenty-fourth to the seventh hour of the twenty-fifth with her bag on her knees and the bar on the ground, and she did the column, and she went over the four questions, and she did the arithmetic on the distance to the turn and the distance to the gate, and she slept for three hours in the middle of it.
 
@@ -116,4 +116,4 @@ Asking twice. One asking, put in twice, so that both go in the book and neither 
 
 It is the only thing in the world that would make him come to the first question faster. It is the only thing in the world that would make the first question never answered.
 
-She is carrying it on purpose and she has been carrying it on purpose for a month, and it is everything she has that is not a question, and she looked east down nine miles of strip road in the daylight and did not pull it.
+She is carrying it on purpose and she has been carrying it on purpose for sixty-seven days, and it is everything she has that is not a question, and she looked east down nine miles of strip road in the daylight and did not pull it.

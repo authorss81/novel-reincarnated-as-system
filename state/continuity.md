@@ -5179,13 +5179,26 @@ beginning 1,724 and then the first to the eighteenth of the month beginning 1,75
 **The batch crosses two month-starts, at 1,724 and 1,754.** Months in this stretch begin on days 1,694 · 1,724 ·
 1,754. **The batch runs day 1,697 to day 1,771, seventy-five days, and 31 days remain at the last page.**
 
+**The table is unchanged by the review repair, and the repair filled a hole in it rather than in the table.**
+ch 586 originally narrated days 1,748–1,752 and then opened on 1,769: **seventeen days were unbridged at the batch's
+end while this table allocated them.** **They are now on the page at ch 586 in two new sections — *Seventeen Days* and
+*The Shut Door On The Fourteenth* — and the days they carry are the thirtieth of the month beginning 1,724 · the first,
+second, fourth, fifth, ninth, eleventh and fourteenth of the month beginning 1,754, closing on the seventeenth, which
+was already the page.** One figure inside that stretch was also wrong and is now right: **the second of the month
+beginning 1,754 was the last day on which stone of hers can ever be paid for**, because the board goes down on the
+second of a month and the closing is the nineteenth of the month beginning 1,784 and its second is gone.
+
 ### Established facts
 
 1. **SEVERANCE 5, taken at ch 572 on day 1,697, the fourth of the month beginning 1,694** — the pinned 68-day interval
    from Severance 4 at day 1,629 (1,697 − 1,629 = 68). It lands in the open at a shut door with a woman of fifty
-   forty feet inside a lane, **no figure of what is left of him is stated.** Cost, named once here and shown from ch
-   573 onward: **she cannot follow a name she is given.** A person who tells her where somebody is hands her the place
-   he was. **Volume 10's bracket budget is three at ch 556, 572 and 588; this batch spent one.**
+   forty feet inside a lane, **no figure of what is left of him is stated.** Cost, **named once and, after this review
+   repair, ON THE PAGE**: **she cannot follow a name she is given.** A person who tells her where somebody is hands her
+   the place they were. **It is in her own mouth at ch 572 in nine seconds, in the section headed *What The Fifth Stage
+   Took*, and its working is shown thirty-six hours later at ch 573**, where the gift has already cost her the road.
+   **Before this repair the cost was asserted in this file and in `state/current.md` and appeared in no line of prose in
+   sixteen chapters, which left Batch 0004 inheriting a rule it had never read.** Volume 10's bracket budget is three at
+   ch 556, 572 and 588; this batch spent one.
 2. **The irreversible step, ch 585, and it is hers.** She said **Ning Wu** out loud at the seventh hour of the
    twenty-fifth of the month beginning 1,724, four feet into an opening in a wall, on her own side, in daylight, with
    a boy of fifteen four feet off behind her and a carter stopped four hundred yards east on the made road. **He did
@@ -5205,13 +5218,16 @@ beginning 1,724 and then the first to the eighteenth of the month beginning 1,75
    nineteenth of a month beginning 1,784 whether or not it is true on any day in between.** It is in him, not in the
    book, and she does not know how that instrument works.
 5. **The four questions are untouched and the lever is untouched.** *What else is on it* (day 1,627) · *what it is for* ·
-   *what does the word do* · *will you tell me when*, answered *there is a day*. **The first has been standing a hundred
-   and twenty-one days at the last page of this batch** and she is not allowed a fifth. **Asking twice is still the
-   only lever and she has carried it on purpose for a month and has not pulled it**, including on the twenty-fifth in
-   the best hour of her life.
+   *what does the word do* · *will you tell me when*, answered *there is a day*. **The first was asked on the
+   twenty-fourth of the month beginning 1,604, day 1,627, and has been standing a hundred and twenty-one days at the
+   last page of this batch** and she is not allowed a fifth. **Asking twice is still the only lever. She found it on
+   the nineteenth of a month beginning 1,634, day 1,652 — one date, one chapter of record after this repair — and has
+   carried it on purpose for a hundred and nineteen days and has not pulled it**, including on the twenty-fifth in the
+   best hour of her life.
 6. **The closing day has not moved and was not re-derived:** the nineteenth of the month beginning 1,784, day 1,802,
-   named at ch 570. **105 days at ch 571–572 · 90 at ch 578 · 78 at ch 581 · 71 at ch 583 · 54 at ch 585 · 31 at the
-   last page of ch 586.**
+   named at ch 570. **105 days at ch 571–572 · 87 at ch 578 · 78 at ch 581 · 71 at ch 583 · 54 at ch 585 · 31 at the
+   last page of ch 586.** Every one of these was re-derived at the review repair; **the 90 the batch published at ch 578
+   was wrong and is 87.**
 7. **The geography the batch fixed, and Batch 0004 may rely on it without re-deriving it:** the post is nine miles west
    of the turn · **a lane leaves the store road at the turn and runs four miles west to the stone face, and at forty
    feet into that lane there is a low house with a bar across the door, a standing stone in the yard, a barrow with a
@@ -5270,21 +5286,25 @@ beginning 1,724 and then the first to the eighteenth of the month beginning 1,75
 
 ### Construction budget — Volume 10 Batch 0003, counted rather than promised
 
-Body prose only, **method B — every line not beginning `#` — measured on the sixteen files as they stand, every count
-on word boundaries and measured before it is claimed.**
+Body prose only, **method B — every line not beginning `#` — RE-MEASURED AFTER THE REVIEW REPAIR BELOW, every count on
+word boundaries and measured before it is claimed.**
 
-**28,831 words of body prose over sixteen chapters, average ~1,802** — inside the batch band of 27,000–30,000, which is
-1,688–1,875 a chapter, and above the 1,300 floor, with none above the 2,700 guide and two above the 1,875 figure
-(ch 571 at 2,071 and ch 586 at 2,017, both of which carry the batch's first and last day). Per file: **571 2,071 ·
-572 1,843 · 573 1,756 · 574 1,804 · 575 1,601 · 576 1,764 · 577 1,610 · 578 1,740 · 579 1,615 · 580 1,776 ·
-581 1,667 · 582 1,882 · 583 1,812 · 584 1,877 · 585 1,995 · 586 2,017.**
+**30,324 words of body prose over sixteen chapters, average ~1,895** — inside the batch band of 27,000–30,000, which is
+1,688–1,875 a chapter, and above the 1,300 floor. **Six chapters sit above the 1,875 band figure — 571, 572, 573, 582,
+585 and 586 — and one sits above the 2,700 guide: ch 586 at 2,997, which carries the batch's last day, the whole of the
+seventeen days the review found unbridged, and the discovery at the shut door.** Per file, measured by `wc -w` over
+non-`#` lines, **reproducible and replacing a published list that reproduced under no convention at all:** **571 2,069 ·
+572 2,196 · 573 1,897 · 574 1,807 · 575 1,605 · 576 1,751 · 577 1,609 · 578 1,746 · 579 1,618 · 580 1,779 ·
+581 1,695 · 582 1,882 · 583 1,764 · 584 1,877 · 585 2,032 · 586 2,997.** **The pre-repair list published per-file
+figures that matched neither `wc -w` nor `\b\w+\b`, and its entries summed to 28,830 against its own stated total of
+28,831; it was rebuilt from the files rather than adjusted.**
 
 | Construction | Measured across ch 571–586, body prose, `\b` word boundaries | Allowance | Verdict |
 | --- | --- | --- | --- |
-| Authorial scaffolding | **0** — the widened pattern and the bare forms `volume` / `chapter` / `batch` / `reader` counted separately and all **0**. Two instances of *this batch* at ch 578 and ch 581 and one of *this book* at ch 581 and one of *this chapter* at ch 575 were written and all four were cut | 0 | **PASS** |
+| Authorial scaffolding | **0** — the widened pattern and the bare forms `volume` / `chapter` / `batch` / `reader` counted separately and all **0**. Two instances of *this batch* at ch 578 and ch 581 and one of *this book* at ch 581 and one of *this chapter* at ch 575 were written and all four were cut, and the review repair added none | 0 | **PASS** |
 | Bracketed layer lines | **1 in sixteen chapters**, at ch 572, on its own line, in the far-side house form with only the realm and the number changed; **exactly 2 bracket characters in the batch, an opening and a closing, and both are on that one line** | 1 in Batch 0003 | **PASS** |
-| Bold | **0** | 0 | **PASS** |
-| Italic | **4** — *a day is not a thing you can hurry* at ch 571, the long miller quotation at ch 574, *there is a day* at ch 579 and *lost* at ch 584. All four load-bearing. Thirteen were written and nine were cut | scarce, counted | **PASS** |
+| Bold | **0** — one was written at ch 572 for the stage-five cost and cut, because the sentence carries it without markup | 0 | **PASS** |
+| Italic | **5** — *a day is not a thing you can hurry* at ch 571, the long miller quotation at ch 574, *there is a day* at ch 579, *lost* at ch 584, and one quoted word at ch 572 added by this repair. **All five load-bearing.** Thirteen were written and nine were cut | scarce, counted | **PASS** |
 | Blockquotes · code fences · tables · horizontal rules | **0 / 0 / 0 / 0** | 0 | **PASS** |
 | All-caps standalone lines | **0** | 0 | **PASS** |
 | Straight quotes · straight apostrophes | **0 / 0** — every speech closed in all sixteen files, and **17 ASCII apostrophes** written and all 17 converted to curly | 0 / 0 | **PASS** |
@@ -5298,14 +5318,15 @@ on word boundaries and measured before it is claimed.**
 | The year of non-forgiveness | **0** in sixteen chapters. The single thank you at ch 580 is to a keeper for information and buys nothing, and the reason is on the page | 0 | **PASS** |
 | `Shuyin` · `Ning Wu` · `Yuan` | **0 · 2 · 0** — Ning Wu at ch 572 to a kerb and at ch 585 said out loud in daylight at a wall, both in her own mouth and never read out of anything; Yuan is not named anywhere and is on the page once, at ch 584 | counted, not zeroed | **PASS** |
 | `list` | **4**, and `listing` **2** — load-bearing and counted. `vouch` **0**. `send for` / `sent for` / `sending` **0** | counted | counted |
-| `about` | **87**, average **5.4** a chapter, body prose, word boundaries. **It came down from 89 at the first full measurement** | under 7.0 | **PASS, under the line** |
-| `whole of` | **11**, from 42 at the first full measurement. Batch 0002 spent 22 and Batch 0001 spent 46, so **Volume 10 is now at 104 against a volume-wide target under 80 and that is a volume-close item, not a defect in this batch** | under 80 volume-wide | **on pace; the volume is over and is recorded as such** |
-| bare `eleven` | **38**, from 63 at the first full measurement; `eleventh` and `Eleven` counted separately. Batch 0001 spent 86 and Batch 0002 spent 63, so **Volume 10 is now at 187 against a target under 200 and this batch is what brought it back under the line** | under 200 volume-wide | **PASS, and the volume is now under it** |
-| `nobody` · `nothing` | **29 · 93**, average 1.8 a chapter | nobody under 2.0 | **PASS** |
+| `about` | **85**, average **5.3** a chapter, body prose, word boundaries. It was 87 before the repair and did not go up | under 7.0 | **PASS, under the line** |
+| `whole of` | **12**, up one, the repair writing the phrase once in the stage-five cost at ch 572. Batch 0002 spent 22 and Batch 0001 spent 46, so **Volume 10 is now at 105 against a volume-wide target under 80 and that is a volume-close item, not a defect in this batch** | under 80 volume-wide | **on pace; the volume is over and is recorded as such** |
+| bare `eleven` | **38**, unchanged by the repair; `eleventh` and `Eleven` counted separately. Batch 0001 spent 86 and Batch 0002 spent 63, so **Volume 10 is now at 187 against a target under 200 and this batch is what brought it back under the line** | under 200 volume-wide | **PASS, and the volume is now under it** |
+| `nobody` · `nothing` | **28 · 97**, average 1.8 a chapter | nobody under 2.0 | **PASS** |
+| The two constructions the review found doubled | **0 and 3.** *She wants that written down / is not going to describe* stood at **8 in sixteen chapters** against a prior rate of about one in four, and *there is no arrangement on this ground* at **5, two of them inside ch 576**. **Eight were rewritten and five cut.** What survives is ch 575's loaf that is not a keeping, ch 576's being paid for standing still and also for being somewhere, and ch 579's fourth question never getting asked | under 4 each | **PASS after repair** |
 | Chapter titles | **16 new `#` headings, zero collisions** against the 570 that preceded them and zero among themselves; longest **35 characters**; all names, none restating a scene, a date, an hour or an age | names, 3–12 words, under ~90 characters | **PASS** |
 | Section-heading identity | **measured on `^## ` per file, 0 chapters with the same `##` twice** | 0 within a chapter | **PASS** |
-| Paragraphs | longest **90** words; **0 paragraphs over the 90-word guide**, none over 120, after five were split at ch 573, 580, 581, 584 and 586 | break over ~90, never over ~120 | **PASS** |
-| Duplicated paragraphs | **0 within the batch and 0 across it**, on a per-paragraph and per-chapter count. **One was found in a closed chapter and cut — see below** | 0 | **PASS after one repair** |
+| Paragraphs | longest **90** words; **0 paragraphs over the ~90-word guide**, none over 120, after five were split at ch 573, 580, 581, 584 and 586 and one more at ch 572 by this repair | break over ~90, never over ~120 | **PASS** |
+| Duplicated paragraphs and repeated sentences | **0 duplicate paragraphs within the batch and 0 across it**, on a per-paragraph and per-chapter count, re-checked after the repair. **One cross-file sentence repeats and is kept: *It will not be true on the nineteenth of a month beginning 1,784*, at ch 585 and ch 586, twenty-three days apart, where ch 586 is the ledger chapter and the repetition is the finding.** Before the repair there were three, and the other two are gone | 0 paragraphs | **PASS after repair** |
 | Files without a trailing newline | **0 of 16** after the repair | — | **PASS** |
 
 **What the repair was, in one sentence:** the batch was drafted, measured and cut on the page — 2 instances of `about`,
@@ -5321,3 +5342,80 @@ and carried forward for whoever drafted this batch. It is cut.** The second rest
 on the flat book and showing her the page was removed; the keeper's seven sentences and the section that follows are
 untouched. **ch 551 is now 1,756 words of body prose on method B, down from 1,824. No beat, day, title, mouth,
 decision or planned event moved, and no chapter of Batch 0001 was opened other than this one and only for this.**
+
+### Volume 10 Batch 0003 — REVIEW REPAIR
+
+**Twenty-three findings from `logs/volume-10-batch-0003.review.log`, all closed. Chapters 571–586 were reopened, the
+batch was not restarted, and no beat, day-table position, title, mouth, stage, bracket, midpoint, frame scene,
+irreversible decision or planned event moved. The plot is the outline's.**
+
+**The one that mattered was a rule-level gap.** Both `state/current.md` and this file asserted that Severance 5 costs
+**her the ability to follow a name she is given**, and said it was "shown from ch 573 onward". **It was in neither.**
+The bracket announced the stage at ch 572 and no line of prose in sixteen chapters said what the stage took, which
+breaks the pattern Severance 4 sets at ch 556, where the cost is in her mouth, and it left Batch 0004 inheriting a rule
+it had never read. **It is now on the page.** A new section at ch 572 headed *What The Fifth Stage Took* puts the cost in
+her own mouth in nine seconds, in the concrete form the outline asks for — a person who tells her where somebody is hands
+her the place they were, and she cannot walk toward one; a name used to be a road and stopped being one — and **ch 573's
+*What It Cost* now shows the working, thirty-six hours later, in a girl who cannot get up on the fifth and go east.**
+The payoff the batch already had at ch 578 is now the cost's consequence rather than an uncaused fact.
+
+**The hard arithmetic, sixteen files, every figure re-derived under `((day − 134) mod 30) + 1`:**
+
+| Where | Published | On the page | The derivation |
+| --- | --- | --- | --- |
+| ch 578 ×3 | ninety days | **eighty-seven** | ch 578 is the twenty-second of the month beginning 1,694 = day 1,715; 1,802 − 1,715 = 87. **The review said 86 on a day of 1,716; the chapter's own day is the twenty-second and 87 is correct.** Ch 571 at 105 and ch 579 at 85 both check out and did not move |
+| ch 576 | ninety days of walking left | **ninety-three** | day 1,709 at the post on the sixteenth; 1,802 − 1,709 = 93 |
+| ch 579 ×2 | eighty-five · eighty-nine | **eighty-six · ninety** | the twenty-third is day 1,716 → 86; the column on the twenty-fourth is day 1,717 → 85 days remaining and 90 days since the first question at day 1,627 |
+| ch 583 | thirty-one stops; a hundred and four days | **fifteen stops; a hundred and three days** | 11 stands + 4 since the third = 15, and the seventh of the month beginning 1,724 is day 1,730, 1,730 − 1,627 = 103. The *other* hundred-and-four at ch 583 is on the eighth, day 1,731, and is right and was left |
+| ch 585 | eleven stands · sixteen hours · nineteen | **fifteen stands · thirty hours · fourteen** | the seven days are 2 + 2 + 2 + 2h40 + 1 + 2 + 2 = 13⅔; fifteen earlier stands at about two hours is about thirty |
+| ch 580 | the cottage was forty-five days old | **twenty-three** | fourth of 1,694 = 1,697 to the twenty-seventh = 1,720 |
+| ch 580 | nine days since a loaf | **seventeen** | the sill loaf on the tenth = 1,703 to the twenty-seventh = 1,720 |
+| ch 581 | went east four days ago | **three** | the twenty-seventh = 1,720 to the thirtieth = 1,723 |
+| ch 586 | the wall at `1,574`; been to it thirty-one times | **`1,724`; twenty-two** | the seven-day stand begins on the nineteenth of the month beginning 1,724 = day 1,742; 11 + 4 + 7 = 22 stops |
+| ch 586 | twenty-three days left | **twenty-three days of carrying it and thirty-one days left** | 1,748 to 1,771 is 23 elapsed; 1,771 to 1,802 is 31 remaining. **The chapter had put the elapsed count in the remaining count's place** |
+| ch 586 | *Fifty-two. Fifty-one. Forty-nine. Forty-four. Thirty-one.* | **five numbers with their days on them** | the old list skipped twenty-six days with nothing said about it. It is now five dated counts — 54 at the wall, 51 at the ladder, 47 on the second of the month beginning 1,754, 41 on the eighth, 31 on the last page — **and the skipping is now the point: she has left days out of a column for the first time in her life and did not tell anybody** |
+| the lever, four places | a month · twelve days · sixteen days · a month | **67 · 70 · 76 · 119** | found on the nineteenth of a month beginning 1,634 = day 1,652; ch 579 at 1,719 · ch 581 at 1,722 · ch 582 at 1,728 · ch 586 at 1,771 |
+| the lever's discovery | dated the third of 1,694, the nineteenth of 1,634 and the twenty-fourth of 1,634 | **the nineteenth of a month beginning 1,634, once** | ch 576 was the only chapter out of step and is now with ch 579, ch 581 and ch 584. **The twenty-fourth of 1,634 at ch 578 is a different finding — when she noticed she was getting lighter — and it was left alone** |
+| the same construction, ten places | *sixty-nine days* | **70 · 70 · 74 · 83 · 90 · 93 · 93 · 93 · 95 · 96** | the figure had been carried unchanged from ch 570 through eight later chapters. It is anchored to the first question at day 1,627, which is the only anchor that makes ch 570 correct |
+
+**The batch's own geometry, found on the way and not flagged:** ch 586 told the strip road as reached on the twenty-sixth
+and then the twenty-seventh; **the twenty-seventh now reads the made road at the turn**, which is where a body that
+lost a day and a half across eleven miles of it would be. Its sleep claim, that two hours and forty minutes was the
+longest in thirty-eight days, was contradicted inside the same batch by ch 572's seven hours and ch 582's three; **the
+claim is cut and the sentence stands on its own.**
+
+**ch 577's heading pointed west and its own first line pointed east, and the boy of eleven took the near end of the first
+board and the far end of the second while the boy of thirteen held the far end throughout. Both are corrected.**
+
+**Craft, and what was and was not done.** *She wants that written down / is not going to describe* was in **eight of
+sixteen chapters** against a prior rate near one in four, and *there is no arrangement on this ground* in **seven across
+six chapters, two of them inside ch 576**. **All eight of the first were rewritten and all four of the second that
+were not load-bearing were cut; the batch now carries none of the first and three of the second, in three different
+chapters** — ch 575's loaf that is not a keeping, ch 576's being paid for standing still and also for being somewhere,
+and ch 579's fourth question never getting asked. **One more instance of the first was written at ch 586 during this
+repair and cut again.** The principle about what a keeper does with a thing he is given was stated three times across
+ch 580, 581 and 586; **it is stated once, at ch 580, and ch 581 and ch 585 and ch 586 now say something different.** The
+review's two largest craft findings — **thirteen chapters at one temperature, and word counts sitting at the bottom of
+the band with ten of sixteen under 1,800** — are addressed where they could be addressed without touching the plan:
+**ch 572 and ch 586 were both grown, and ch 586's seventeen missing days are now the batch's only sustained piece of
+scene with a person in it**, which is also the finding's own remedy for the unbridged stretch. **What was not attempted
+is a structural recut of ch 571–583, and that is a decision, not an oversight:** those thirteen chapters are the
+outline's sequence of turns, the batch's argument is carried by her interior voice, and rearranging it would move the
+beat the outline fixes. **Eight of sixteen chapters still sit under 1,800 after the repair, against ten before it.**
+That is recorded here for the volume close rather than papered over.
+
+**What the repair added, as fact, for Batch 0004.** **The fifth stage's cost, now on the page.** **The seventeen days,
+now on the page**, and three things in them: **she asked one question in thirty-three days, on the second of the month
+beginning 1,754, and it was *when does the next board go down*, and the answer was the second, and that is the last day
+on which stone of hers is ever paid for; she decided at the flat stone on the eleventh that she has one mouth and is
+going to spend it carefully; and on the fourteenth she stood two hours and twenty minutes in the yard of the shut door
+and found fresh lime under the bar that had not been there on the fourth of the month beginning 1,694.** **Nobody on
+nine days of road knows about the lime but her and she does not know what the thing was.** It is a thread, it is open,
+and Batch 0004 may spend it or leave it — **it is not a name, not a direction and not a document, so nothing in the
+outline is disturbed by it.**
+
+**One figure deliberately left alone and flagged.** `state/current.md` publishes Batches 0001 and 0002 at 29,678 and
+27,575 words. **Measured now, under the same `wc -w` command that reproduces Batch 0003's totals exactly, those two
+figures are 29,835 and 27,751 — 157 and 176 words apart from what is published.** That is a pre-existing discrepancy in
+two closed batches and is **not** silently restated by this repair. **The Volume 10 close should re-measure all
+forty-eight chapters of ch 539–586 under one method and publish one convention.**

@@ -28,7 +28,7 @@ She said it the same way she says the rate, which is to say she said it out loud
 
 ## What Ning Yan Did At That Counter
 
-She did not argue, and she wants that written down before anything else, because everything she felt at the ninth hour of the fifteenth of a month beginning 1,694 is that she did not argue and cannot account for it.
+She did not argue, and she will put that down first of all, because everything she felt at the ninth hour of the fifteenth of a month beginning 1,694 is that she did not argue and cannot account for it.
 
 She stood at the counter for a minute and a half with the arm hanging and looked at the board, which is a board on the end wall with chalked columns on it and the top column rubbed out every time a new one comes down, and there were four marks on it and none of them were hers.
 
@@ -72,7 +72,7 @@ And underneath the nine minutes there was a thing she did not look at for two da
 
 A list that gets asked about closes.
 
-She worked that out on the third of the month beginning 1,694 in an hour of daylight with a boy of fifteen four feet off her, and she has been carrying it since.
+She worked that out on the nineteenth of a month beginning 1,634, in an hour of daylight with a boy of fifteen four feet off her, and she has been carrying it since.
 
 And here is what nobody told her and what she has had four days to sit with: a board on a counter is the same shape. It does not know she is at a wall. It does not know there is a wall. It goes down on the second and the column is rubbed out and there is no space anywhere in it for a girl who was twenty-two miles east saying nothing to a man.
 
@@ -88,12 +88,12 @@ The store gives out what the board says. The board goes down on the second. Work
 
 So she has to be at the face on the first of a month to be at the store on the second of it.
 
-And she cannot be at the face on the first of a month and at a wall two miles past a gate on the first of a month, because those are four miles apart and she has never once in her life been in two places at the same time and has no arrangement on this ground that would let her start.
+And she cannot be at the face on the first of a month and at a wall two miles past a gate on the first of a month, because those are four miles apart, and she has never once in her life been in two places at the same time.
 
 ## The Thing She Took Anyway
 
 She took the face on the nineteenth, the twentieth and the twenty-first of the month beginning 1,694, which means she will be at the store on the second of the month beginning 1,724, and she will be paid for nine days of stone.
 
-And she did not take it because she thought it was the better trade. She took it because she has no wages, no place and no road, and the alternative to work that pays is a body with nothing in it and ninety days of walking left in it.
+And she did not take it because she thought it was the better trade. She took it because she has no wages, no place and no road, and the alternative to work that pays is a body with nothing in it and ninety-three days of walking left in it.
 
 She put her hand flat on the flat stone under the bottom of the ladder at the fourth hour of the sixteenth of the month beginning 1,694, and it was bare, and she had put that there with her own two hands a month ago, and it stays bare.

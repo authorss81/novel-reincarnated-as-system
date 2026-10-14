@@ -12,7 +12,7 @@ There was no stone on it. There was no mark on it. There was no string, no ticke
 
 She stood in front of a shut door with a loaf in her hand and could not find anywhere to put it.
 
-She put it down once and picked it up again and put it down again, and she wants that written down, because it is everything the tenth of the month beginning 1,694 was and she is not going to make it look better than it was.
+She put it down once and picked it up again and put it down again, and she will put it down here exactly as it happened, because it is everything the tenth of the month beginning 1,694 was and she is not going to make it look better than it was.
 
 She could not find anywhere to put it because she did not know what it was.
 
@@ -90,7 +90,7 @@ She walked the four miles east twice in three days and neither time was for the 
 
 The first was on the tenth, with a loaf in her bag, and she walked past forty feet of lane and did not turn in.
 
-The second was on the twelfth, at the sixth hour, with nothing in the bag at all, and she walked past it again and stopped at ten feet and stood for four minutes and then went on, and she wants it on the record that she stopped at ten feet the second time and not at forty, because she was already moving at the rate she moves at a shut door, and a person who is already moving at that rate is not going to turn round twice.
+The second was on the twelfth, at the sixth hour, with nothing in the bag at all, and she walked past it again and stopped at ten feet and stood for four minutes and then went on, and it goes on the record that she stopped at ten feet the second time and not at forty, because she was already moving at the rate she moves at a shut door, and a person who is already moving at that rate is not going to turn round twice.
 
 And then she went four miles to the face and did eleven barrows with an arm that was shut and a count of four that went to five inside a loaded reach on the seventh trip and came back in four on the eighth.
 

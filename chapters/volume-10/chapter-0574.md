@@ -30,7 +30,7 @@ She asked him what he does, on the first day, twice, and he gave her the same se
 
 ## What A Dead Mill Is For
 
-She worked it out at the second hour of the eighth of the month beginning 1,694, sitting on the bench with the fire out, and it took her nine minutes and it is the most useful thing anybody has given her in sixty-nine days.
+She worked it out at the second hour of the eighth of the month beginning 1,694, sitting on the bench with the fire out, and it took her nine minutes and it is the most useful thing anybody has given her in seventy-four days.
 
 A mill that is still turning forgets. Everything that comes down the road after you is a newer version of the place and in ten years the newer version is the one everybody answers for.
 
@@ -82,7 +82,7 @@ That is the past. That is nine years old and it was said by a man who was not as
 
 ## What She Did Not Ask Him
 
-She had two questions in her mouth for the whole of the second hour and she did not ask either of them, and she wants that written down because the two of them are the reason she got what she got.
+She had two questions in her mouth for the whole of the second hour and she did not ask either of them, and the reason she will put both of them down here is that they are the reason she got what she got.
 
 She wanted to ask where he went after the month when there was no trade. That is the question the sentences of the miller were leaning towards and she let them lean.
 

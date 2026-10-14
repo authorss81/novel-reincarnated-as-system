@@ -8,7 +8,7 @@ The strip road is nine miles and it took her from the second hour to the ninth b
 
 She lay down in the broken ground north of the made road at the third hour of the twenty-seventh and slept for eleven minutes, and she woke up with her hand in the dirt and did the count, and it came back in four.
 
-She was lighter than she had been on the twenty-fifth. She has been lighter every single day since the eighteenth of a month beginning 1,544 and there was nothing in the bag to stop it and no wages to stop it with, and it is now nine days since she has had a loaf.
+She was lighter than she had been on the twenty-fifth. She has been lighter every single day since the eighteenth of a month beginning 1,544 and there was nothing in the bag to stop it and no wages to stop it with, and it is seventeen days since a loaf came over a sill forty feet off a lane.
 
 She was not hungry. She has not been hungry since that eighteenth and she has worked out that that is finished.
 
@@ -66,7 +66,7 @@ She worked it out standing on dressed stone at the eighth hour of the twenty-sev
 
 He is a man who takes a thing that is offered and does not put it down.
 
-She had assumed, for eight years and for sixty-nine days, that giving and asking were two ends of one thing. She had come twenty-two miles with four sentences to put something into that book, and she had worked out on the made road at the ninth mile that it was free, and it is not free, and it never was.
+She had assumed, for eight years and for ninety-three days, that giving and asking were two ends of one thing. She had come twenty-two miles with four sentences to put something into that book, and she had worked out on the made road at the ninth mile that it was free, and it is not free, and it never was.
 
 A man who keeps things faithfully does not let them go stale.
 
@@ -76,7 +76,7 @@ And she handed him a place, on purpose, in daylight, knowing the terms, and the 
 
 ## The Part She Was Not Ready For
 
-The cottage was forty-five days old when she gave it to him.
+The cottage was twenty-three days old when she gave it to him.
 
 The last day the miller described was nine years old. The carter and the board were nine years old. The boy who counted loads was ten years old, or near it, and may be somewhere now, and there is not one figure in any of it that has a date on it.
 
@@ -84,7 +84,7 @@ And she put four sentences about ten years ago into the keeping of a man who doe
 
 She wanted to take it back.
 
-She stood there and wanted it back with everything she has, the way a person wants back a thing they have said, and there is no arrangement anywhere on this ground by which a keeper gives a thing back.
+She stood there and wanted it back with everything she has, the way a person wants back a thing they have said, and there is no door on this ground that a keeper opens from his side.
 
 And then she worked out the second half of it, standing on dressed stone with the wind off the top of the wall, and it took four seconds and it is worse than the first half.
 
@@ -102,7 +102,7 @@ There are three terms. One at a time. At the wall. In daylight.
 
 She broke one of them. She said a thing at the wall that was not a question, in daylight, on her own side, and he received it, and there is no term that says she may not.
 
-She kept the other two exactly, and she kept them because she chose them, and she has been keeping them for sixty-nine days out of a habit and not out of a rule and this is the first time that has been worth anything.
+She kept the other two exactly, and she kept them because she chose them, and she has been keeping them for ninety-three days out of a habit and not out of a rule and this is the first time that has been worth anything.
 
 One at a time. She said one thing. Not two. She had four questions standing and she did not put one of them in on the back of four sentences about a boy, and it took her four seconds of will at the west jamb and she will be able to do it again.
 
@@ -110,7 +110,7 @@ At the wall. She was at the wall.
 
 In daylight. It was the seventh hour and the sun was off the top of the wall.
 
-She has been so careful with those three for sixty-nine days that she had stopped believing they were hers, and it turns out they are.
+She has been so careful with those three for ninety-three days that she had stopped believing they were hers, and it turns out they are.
 
 ## What She Did Instead
 

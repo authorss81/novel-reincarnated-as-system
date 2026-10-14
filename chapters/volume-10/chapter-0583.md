@@ -34,7 +34,7 @@ That is all of it, and he did not ask her a question about the four days either,
 
 ## Two Miles And A Wall
 
-She came onto the dressed stone at the seventh hour of the seventh of the month beginning 1,724 and she stopped four feet into the opening at the west jamb, the way she has stopped thirty-one times.
+She came onto the dressed stone at the seventh hour of the seventh of the month beginning 1,724 and she stopped four feet into the opening at the west jamb, the way she has stopped fifteen times.
 
 The plank table was in the opening with nothing on it.
 
@@ -68,7 +68,7 @@ She thought about them on the made road at the ninth hour of the seventh with mo
 
 One at a time. At the wall. In daylight.
 
-There are four questions standing. She is not allowed a fifth. The first one has been standing for a hundred and four days and it is holding the other three.
+There are four questions standing. She is not allowed a fifth. The first one has been standing for a hundred and three days and it is holding the other three.
 
 And she had worked out at the gate at the seventh hour, standing four feet off a boy of fifteen, that there is no part of those terms that says how long she may stand, or how many days she may stand in a row, or what happens to a girl who stands in an opening for seven days on a body that has been lighter every day since the eighteenth of a month beginning 1,544.
 

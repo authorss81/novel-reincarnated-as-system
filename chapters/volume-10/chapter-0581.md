@@ -70,7 +70,7 @@ This is a different thing and she does not have the name for it and she is not g
 
 A loaf.
 
-That is all of it, and she has been holding it in both hands at a lane mouth on the twenty-ninth of the month beginning 1,694 while a woman of fifty wipes her hands on her sleeves, and it is the first thing anybody has given her in sixty-nine days that did not come with a condition on it.
+That is all of it, and she has been holding it in both hands at a lane mouth on the twenty-ninth of the month beginning 1,694 while a woman of fifty wipes her hands on her sleeves, and it is the first thing anybody has given her in ninety-five days that did not come with a condition on it.
 
 She has no wages. She has no place and no road and no shed and a board at a store with nothing on it. She has four questions standing in a book nine hundred years deep and none of them answered.
 
@@ -82,7 +82,7 @@ She did not ask a second question, and that was not restraint, and she wants it 
 
 It was that she had nothing left to ask with.
 
-She is not allowed a fifth at the wall and she knows what happens if she puts one in anyway. She has known since the nineteenth of a month beginning 1,634 that the only lever in the world is asking twice, and asking twice is the one thing that would make the first question never get answered, and she has been carrying it on purpose for twelve days.
+She is not allowed a fifth at the wall and she knows what happens if she puts one in anyway. She has known since the nineteenth of a month beginning 1,634 that the only lever in the world is asking twice, and asking twice is the one thing that would make the first question never get answered, and she has been carrying it on purpose for seventy days.
 
 And standing in a lane mouth with a loaf in her hands she understood that the rules are not only at the wall. There is one keeping and one taking and a book nine hundred years deep, and a girl of nineteen cannot spend either of them.
 
@@ -90,7 +90,7 @@ She had spent everything she had for asking on a bar of shut door wood on the tw
 
 ## The Difference, Which Is The Whole Of It
 
-She worked it out on the stones at the turn on the thirtieth at the fifth hour, sitting with the loaf on her knee and the light coming up behind the ground east of it, and it took her nine minutes and it is the only thing in sixty-nine days she has been able to use.
+She worked it out on the stones at the turn on the thirtieth at the fifth hour, sitting with the loaf on her knee and the light coming up behind the ground east of it, and it took her nine minutes and it is the only thing in ninety-six days she has been able to use.
 
 A loaf is given.
 
@@ -98,9 +98,9 @@ A place is kept.
 
 The woman of fifty handed her bread for no reason at all and she will go on handing it to whoever comes past, and in a month it will be inside her and there will be no record anywhere that it happened and nobody has to answer for it and nobody is worse off.
 
-A keeper takes a thing and does not put it down.
+A man of nine hundred years took four sentences off her on the twenty-seventh of this month and there is no bread in that and no way to thank him for it, and it is still there.
 
-And she gave a man of nine hundred years a house with a standing stone in the yard on the twenty-seventh of this month, and he did not write it and he did not refuse it, and his hands stayed on the plank, and there is a version of her standing at that opening where it is true on the nineteenth of a month beginning 1,784.
+He did not write it and he did not refuse it, and his hands stayed on the plank, and there is a version of her standing at that opening where it is true on the nineteenth of a month beginning 1,784.
 
 That is the difference. One of them gives you a thing and it is gone. The other one gives you a thing and it is nine hundred years deep and it does not have a date on it and it is not going to let go.
 
@@ -114,6 +114,6 @@ She would have liked to be refused.
 
 That is all of it and she is not going to dress it up. A person who is refused can walk away and know what they are.
 
-A person who is handed bread at a lane mouth at the second hour of the twenty-ninth of a month beginning 1,694 has been given an account that does not close. She went east twenty-two miles four days ago and gave four sentences about a boy to a man who will not put them down. Now she has a loaf and an open arm and a lane behind her that is four miles long with a face at the end of it.
+A person who is handed bread at a lane mouth at the second hour of the twenty-ninth of a month beginning 1,694 has been given an account that does not close. She went east twenty-two miles three days ago and gave four sentences about a boy to a man who will not put them down. Now she has a loaf and an open arm and a lane behind her that is four miles long with a face at the end of it.
 
 She got to the post at the ninth hour of the first of the month beginning 1,724 and she was a day and a half lighter than when she left it, and there were seventy-eight days.

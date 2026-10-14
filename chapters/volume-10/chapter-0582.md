@@ -30,7 +30,7 @@ Asking twice.
 
 Put one asking into the air twice and both of them go in the book and neither of them gets answered, and he comes to the first one sooner, or he never comes to it at all.
 
-It is the only thing in the world that would move the first question. She has carried it on purpose for sixteen days and she is carrying it now.
+It is the only thing in the world that would move the first question. She has carried it on purpose for seventy-six days and she is carrying it now.
 
 She is not going to pull it.
 

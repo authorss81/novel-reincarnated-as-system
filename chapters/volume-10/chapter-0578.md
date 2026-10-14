@@ -48,7 +48,7 @@ There was nothing behind the door that she had not already stood in front of, an
 
 She did not open it.
 
-She wants that written down because it is everything she did and did not do on the twenty-second of the month beginning 1,694 and she is not going to have a better version of it later.
+She stood there and she did not open it, and there is no version of it she is going to get better at later, and it is everything she did and did not do on the twenty-second of the month beginning 1,694.
 
 ## What She Had Come There To Do
 
@@ -74,7 +74,7 @@ A woman at the end of a lane gave her a place. It cost nothing. It was the first
 
 And the direction points west.
 
-The wall is nine miles east of the turn and twenty-two east of the post, and it is the only place in the world where a question can be asked, and there is a date on it now, the nineteenth of the month beginning 1,784, and it is ninety days away.
+The wall is nine miles east of the turn and twenty-two east of the post, and it is the only place in the world where a question can be asked, and there is a date on it now, the nineteenth of the month beginning 1,784, and it is eighty-seven days away.
 
 The cottage is four miles west of the turn.
 
@@ -92,9 +92,9 @@ That is the sentence and she has made it the plainest one she can, because all o
 
 She kept walking west past the cottage and past the dead mill and into a store at the fifth hour on the strength of nothing, and she stood at a counter in front of a woman of fifty who said the rate out loud and there was nothing on the board and she said so.
 
-And then she stood at that counter for four minutes and worked out that she had no bread and no wages and no wages coming until the second of a month beginning 1,724 and that she had ninety days to it.
+And then she stood at that counter for four minutes and worked out that she had no bread and no wages and no wages coming until the second of a month beginning 1,724 and that she had eighty-seven days to it.
 
-Then she went out and turned round and picked up her bar and walked east, and she was at the bench at the turn at the ninth hour of the twenty-second of the month beginning 1,694, with ninety days in front of her and a shut door four miles behind her, and she had decided on the whole of it in a yard.
+Then she went out and turned round and picked up her bar and walked east, and she was at the bench at the turn at the ninth hour of the twenty-second of the month beginning 1,694, with eighty-seven days in front of her and a shut door four miles behind her, and she had decided on the whole of it in a yard.
 
 ## What She Did Not Tell Herself On The Way
 
@@ -102,6 +102,6 @@ Here is the last of it, and she got it at the ninth hour of the twenty-second of
 
 The two best days she has had since she asked a question out loud were the fourth and the fifth of this month, and they were in a shut house with a bar across the door that she did not open.
 
-And she knows now, four miles east of it, that she was not resting. She was standing still on the ground a woman pointed at, and a girl who stands still is not a girl who is walking east, and every hour of it was an hour of the ninety.
+And she knows now, four miles east of it, that she was not resting. She was standing still on the ground a woman pointed at, and a girl who stands still is not a girl who is walking east, and every hour of it was an hour off the eighty-seven.
 
-She has lost nine days of the ninety in nineteen days and she has got four marks in an empty room and a loaf a woman put over a sill, and she would not take the nineteen days back if she was offered them, and she is not going to say that out loud to anybody, and she said it here.
+She has lost nine days of the eighty-seven in eighteen days and she has got four marks in an empty room and a loaf a woman put over a sill, and she would not take the eighteen days back if she was offered them, and she is not going to say that out loud to anybody, and she said it here.
