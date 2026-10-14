@@ -8080,3 +8080,315 @@ irreversible decision, bracket or stage moved. Nothing outside `chapters/volume-
 28. **ch 406 and ch 416 both carried the identical section heading `What He Said About The Hand`.** Ch 416's is now `## What It Is Not`, which is what Dai actually does in it. **The ch 406 duplicate the reviewer named — `What She Said About The Hand` beside `What He Said About The Hand` in the same chapter — does not exist on the page**; the drafting pass had already cut it to `## What She Said`, and the review's quote of it was from the deferred draft. `about…` in section headings is down from 27 to 26 and the body figure is **144 against an allowance of 150**.
 
 **No beat, day, title, midpoint, climax, irreversible decision, bracket or stage moved.** The batch's irreversible decision is ch 417 and it is hers and it is the volume's second, and it is a refusal and not a fight, and nothing in the sixteen chapters softens it or rehearses it.
+
+---
+
+## Volume 7 close — repairs
+
+**The Volume 7 close phase repaired nothing and says so plainly.** `workspace/volume-07-close/PROMPT.md` gives it
+sixteen findings to record and forbids it from writing chapter prose, and the reason is on the record of this run:
+a close that improves the volume by writing prose is a close that has become a rewrite, and the four earlier volumes
+each have a record of what that costs. **This section therefore carries a count of zero for chapters opened and a
+count of sixteen for findings, and it corrects the state files in place rather than the page.**
+
+### The count
+
+| | |
+| --- | --- |
+| **Chapter files opened by the close** | **0** |
+| **Paragraphs, sentences or words of prose written by the close** | **0** |
+| **Outlines re-planned** | **0** — `outline/volume-07.md` was read and not edited; `outline/series.md` and `outline/ending.md` were not opened |
+| **Findings recorded for a repair phase** | **16** — four canon breaches, three internal contradictions, seven recorded figures that do not reproduce, two of which are recorded-and-not-repaired by judgement |
+| **State files corrected in place by the close, with a note saying so** | **5** — `state/current.md`, `state/continuity.md`, `state/chapter-summaries.md`, `state/open-threads.md`, `state/book-metadata.md` |
+| **Corrections to the words inside `state/current.md` made in place rather than by deletion** | **4** — the *As of* line, the *Volume* bullet, the *Chapter written* / *Next phase* bullets, and the *In-world date* bullet; plus one figure in the ch-420 position block (**twenty-five coppers** → **twenty-one**, which the Batch 0004 review already corrected on the page and which the block had not caught up with) |
+| **Prompts written** | **0** — no `volume-08-*`, no second close record, no repair prompt |
+| **`.done` markers written** | **0** — `PHASE_SYSTEM.md` gives that to the controller alone |
+
+### The sixteen, in one place
+
+**A. Canon breaches on the page — four.**
+
+1. **F1 — six named weekdays.** `bible/world.md`: *The world has no named weeks and no named weekdays… No narration
+   in this book names a weekday, and none may.* **ch 391 ×1 (Rao's mouth), ch 395 ×3 (the man with a rule's speech
+   and twice in narration), ch 399 ×1 (narration), ch 400 ×1 (narration).** Method: case-insensitive, word-bounded,
+   `Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday`, body prose. **Named calendar months return 0.** The
+   canon note in `bible/world.md` that a grep of `chapters/` for all seven weekday names returns zero across
+   ch 1–238 **is now false for ch 361–420 and the note will need correcting with it.** The in-world substitutes are
+   available on the page at every site and are set out in `state/current.md` under F1
+2. **F2 — `Volume 6` in body prose at ch 417.** Method: `(?<![A-Za-z])[Vv]olume\s+\d+`, body prose. **1 hit.**
+   `[Cc]hapter\s+\d+` returns **0**, so this is the only volume- or chapter-number on the page. The seven phrase
+   variants the budget greps all return **0**; the bare-numeral form is outside the grep
+3. **F3 — card-instruction section headings.** `## Mouth Five` at ch 409, `## Mouth Six` at ch 415. Two headings.
+   Same class as ch 401 and ch 404 before the Batch 0003 review
+4. **F4 — `Nai.` at ch 420, line 135.** A case-insensitive grep of `chapters/` for `nai` returns this instance and
+   two substrings inside longer words (ch 363, ch 367). **It stands nowhere else in the manuscript**
+
+**B. Internal contradictions on the page — three.**
+
+5. **F5 — the Hunter's position, three ways.** ch 369 *two hundred yards west of the works* · ch 418 *the made road
+   east of the turn* · ch 404 and ch 420 *eleven miles east of a cart track*, in the same clause in both. On the
+   volume's own geography (ch 365, ch 366) eleven miles east is past the long road, where a carter is turned back.
+   `Hunter` and `Bai Zhu` both return **0**, which is correct and matches Volume 6
+6. **F6 — ch 378, one walk at two lengths.** `## The Mile And A Half Up The Road` and the closing paragraph against
+   *two miles* three times in the body, for the same journey
+7. **F7 — ch 401's cost paragraph is unresolvable between two events.** *Since he died* and *he did not know whose
+   it had been* are false on the ch-378 reading; *four days and two hours* and *the twenty-eighth of a month* are
+   ch 396's settlement's figure and date verbatim and do not belong to a hot floor. The reader is given no third
+   thing to hold
+
+**C. Recorded figures that do not reproduce — seven.** Six are state-file faults and one is an outline claim.
+
+8. **F8 — Batch 0002's longest-paragraph row** claims *87 words at ch 379, no paragraph over ninety*. Measured on
+   body-prose paragraphs split on the blank line: **118 at ch 379** and **105 at ch 389**. Two over the 90-word
+   working limit, none over the 120-word hard limit
+9. **F9 — Batch 0002's *nobody* row** claims *15 — nobody 15 · no one 0 · not one 0*. Measured **16 — nobody 15 ·
+   no one 0 · not one 1 at ch 387**
+10. **F10 — Batch 0002's *fortnight* row** claims *0*. Measured **1, at ch 375**
+11. **F11 — Batch 0004's longest-paragraph row** claims *87 at ch 409, 410, 411, 412 and 420*. Measured **88 at ch
+    414 and 88 at ch 419**, and 87 at ch 407 as well; nine chapters are at 86 or above, not five. Under 90 either way
+12. **F12 — Batch 0004's doubled-word row** claims *had had does not occur*. Measured **`had had` ×2 in Batch 0004**
+    (ch 411, ch 417) and **×11 across the volume** (ch 364, 372, 373, 374, 377, 381, 385, 391, 392, 411, 417). All
+    grammatical English
+13. **F13 — two stale per-file rows.** Batch 0004's **ch 417 at 2,099**; measured **2,108**, and 2,108 is what makes
+    the batch's own recorded 30,380 come out. Batch 0001's `about…` **197**; measured **198**, the difference being
+    **ch 363, recorded 6, measured 7**, with the other thirteen reproducing exactly
+14. **F14 — `outline/volume-07.md`'s own structural-answer header is false at ch 409.** It claims *six new people,
+    none of them one of Volume 6's seven*; ch 409's mouth is the man with the brush, who is Volume 6's ch 331
+    mouth. **The page is sound — the two chapters do not open and close on the same words — and the outline's claim
+    about it is not. Recorded, not repaired: the outline is not to be re-planned and nothing in it was edited**
+
+**D. Recorded and not repaired, with the reason — the two judgement calls.**
+
+15. **`about…`, 608 volume-wide**, method and batch split below. **A character hedge, capped and measured by every
+    batch's own budget, and not banned.** Batch 0001 carries the heaviest load at 198 and the deepest chapter at 22.
+    Recorded rather than swept, because the failure this file exists to prevent is the opposite one — a budget that
+    reports a number nobody measured
+16. **`whole of`, 160 volume-wide**, body prose, whole word, case-insensitive, maximum 7 in a chapter. Named at 131
+    at the Batch 0003 review, which ruled it a manuscript-level signature belonging to a volume-scale pass and not
+    to a fifteen-chapter repair. **This is a volume-scale pass and the number is written down so that one can start
+    from it**
+
+### What the close did correct
+
+**Seven stale measurements, all in state files, all in place, none in a chapter.** F9, F10, F11, F12 and F13 are
+corrected in the table immediately below rather than in the four batch budget blocks above, which are left standing
+as the record of what they said. **The batch budget blocks are not rewritten**, because this file is append-only and
+because a close that goes back and edits the numbers its own predecessors wrote is the same failure as a close that
+edits the prose. **The close's own figures govern from this line down, and where a batch block and this block
+disagree, this block is right.**
+
+## Volume 7 close — the volume as a whole
+
+**Every figure below was re-derived from `chapters/volume-07/chapter-0361.md` … `chapter-0420.md` at this close,
+and the method is in the same sentence as the number. None is quoted from a batch block.**
+
+### Words of body prose — the `#` title line and every `##` section heading excluded
+
+| Batch | Chapters | Days | Words | Average |
+| --- | --- | --- | --- | --- |
+| 0001 | 361–374 (14) | 849–899 | **27,114** | ~1,937 |
+| 0002 | 375–389 (15) | 900–950 | **28,296** | ~1,886 |
+| 0003 | 390–404 (15) | 951–1,020, days 1,000–1,020 carried as elapsed | **29,552** | ~1,970 |
+| 0004 | 405–420 (16) | 1,021–1,090 | **30,380** | ~1,899 |
+| **VOLUME 7** | **361–420 (60)** | **849–1,090** | **115,342** | **~1,922** |
+
+**All four reproduce exactly, including the Batch 0002 correction propagated at the Batch 0004 review.** Body-prose
+counting is the house method because Batch 0001's 27,114 and Batch 0003's 29,552 both reproduce under it exactly;
+headings-included counting over Batch 0002 gives 28,973 and reproduces nothing else.
+
+**Longest chapter ch 420 at 2,582; shortest ch 410 at 1,759.** **Nothing is under the 1,300 floor and nothing is
+above the 2,700 guide.** **Five chapters sit under the 1,800 guide** — 385 (1,792) · 410 (1,759) · 413 (1,770) ·
+418 (1,783) · 419 (1,777) — and **fifty-five sit inside it.** Per file, 361 1,957 · 362 1,984 · 363 1,900 · 364 1,827
+· 365 1,953 · 366 1,868 · 367 1,869 · 368 2,172 · 369 1,885 · 370 2,063 · 371 1,963 · 372 1,899 · 373 1,913 · 374
+1,861 · 375 2,007 · 376 1,929 · 377 1,895 · 378 1,845 · 379 1,881 · 380 1,824 · 381 1,819 · 382 1,903 · 383 1,818
+· 384 1,862 · 385 1,792 · 386 1,837 · 387 1,886 · 388 1,835 · 389 2,163 · 390 2,031 · 391 1,819 · 392 1,969 · 393
+1,871 · 394 1,960 · 395 1,827 · 396 2,006 · 397 1,977 · 398 1,931 · 399 1,939 · 400 1,978 · 401 2,139 · 402 1,920
+· 403 1,840 · 404 2,345 · 405 1,875 · 406 1,923 · 407 1,836 · 408 1,839 · 409 1,879 · 410 1,759 · 411 1,811 · 412
+1,868 · 413 1,770 · 414 1,891 · 415 1,826 · 416 1,853 · **417 2,108** · 418 1,783 · 419 1,777 · 420 2,582. **Two
+rows corrected by this close: ch 417 is 2,108 and not the 2,099 Batch 0004's block records (F13), and ch 385 at
+1,792 is under the 1,800 guide, which Batch 0002's corrected block already records correctly**
+
+### The ladder — every day re-derived under `((day − 134) mod 30) + 1`
+
+| Stage | Chapter | Day | Month-day, re-derived | Interval | What it cost, named once |
+| --- | --- | --- | --- | --- | --- |
+| Nascent Soul 1 | 360 | 845 | the twenty-second | — | reach begins once, by accident, no bracket |
+| Nascent Soul 2 | 371 | **886** | the **third** (month begins 884) | **41** | the furnace will not light itself and she cannot light it alone |
+| Nascent Soul 3 | 383 | **924** | the **eleventh** (914) | **38** | her hand stops being able to lie |
+| Nascent Soul 4 | 394 | **960** | the **seventeenth** (944) | **36** | a thing she reaches cannot be put back where it was |
+| Nascent Soul 5 | 404 | **999** | the **twenty-sixth** (974) | **39** | she cannot be given anything |
+| Nascent Soul 6 | 412 | **1,037** | the **fourth** (1,034) | **38** | she cannot be paid |
+| Nascent Soul 7 | 420 | **1,076** | the **thirteenth** (1,064) | **39** | the reach will not go out of a room she has not been asked into |
+
+**Six in seven and the 41 is the longest interval in the volume, and the chapter says why in her own arithmetic:**
+*she had forty-one days of furnace in her* (ch 371). **No day was slid to fit a chapter number, and every stage
+chapter states its own month-day on the page consistent with the rule.** Volume opening day 849 reads as the
+twenty-sixth of the month beginning 824; the last page reads as the twenty-seventh of the month beginning 1,064,
+day 1,090. **`tribulation` returns 0 — there is no trial of any kind in this volume, and none is drawn in any.**
+
+### Brackets — counted, not quoted
+
+**Six bracketed body lines in sixty chapters, at ch 371, 383, 394, 404, 412 and 420, and 12 bracket characters in
+the whole volume.** All six match the pinned far-side house form character for character with only the realm ordinal
+changing: `[Ning Yan, past the line, servant-born, under no ceiling any county holds. Nascent Soul, stage N, is held.]`
+Each is on its own line, none bold, none italic, none a heading. **Zero anywhere else. The budget is six in sixty and
+all six are spent.** Measured by scanning every body line of all sixty files for a leading `[`.
+
+### The full construction budget, re-measured across all sixty chapters
+
+**Method for every row: body prose only — the `#` title line and every `##` section heading excluded — unless the
+row says otherwise in its own sentence.**
+
+| Construction | Measured across ch 361–420 | Method, in the same sentence as the number |
+| --- | --- | --- |
+| **Authorial scaffolding, the seven phrase variants** | **0** | *this chapter · this volume · this book · the rest of the book · the reader · in this batch · another batch*, case-insensitive. **The bare-numeral forms are separate rows below and are not zero** |
+| **`Volume N` and `Chapter N`, the bare-numeral forms the phrase grep does not catch** | **1 · 0** | `(?<![A-Za-z])[Vv]olume\s+\d+` and `(?<![A-Za-z])[Cc]hapter\s+\d+`, case-sensitive on the capital and lowercase second form. **The one is `Volume 6` at ch 417 — F2** |
+| **Bracketed layer lines** | **6** | body lines beginning with `[`. At ch 371, 383, 394, 404, 412, 420. Character for character |
+| **Bold · italic** | **0 · 0** | `\*\*[^*\n]+\*\*` and single-asterisk emphasis, over the raw files |
+| **Blockquotes · code fences · tables · horizontal rules** | **0 · 0 · 0 · 0** | line-anchored, raw files |
+| **All-caps standalone lines** | **0** | a whole body line matching `[A-Z][A-Z0-9 …]*` with two or more letters. **Volume 6's two planted `HELD.` lines at ch 338 are not precedent and none was added** |
+| **Straight quotes · straight apostrophes** | **0 · 0** | ASCII `"` and ASCII `'`, raw files. **Every speech is closed in all sixty files** — `“` count equals `”` count in every one |
+| **The seven retired phrases** | **0 as phrases, all seven** | *nobody asked · nobody was thanked · there is no form · there is no column · the record remained · nobody knew · nobody said anything*, case-insensitive, body prose |
+| ***Nobody* as the bare intensifier, the wider family** | **33 — nobody 23 · no one 0 · not one 10** | `(?<![A-Za-z])(nobody|no one|not one)(?![A-Za-z])`, case-insensitive, body prose. **Under the Volume 7 allowance of 60. `family`/`families` is a separate word and stands at 1.** By batch: **8 · 16 · 7 · 2** |
+| **`about…` as a hedge** | **608** | `\babout\b`, case-insensitive, whole word, body prose, headings excluded. **By batch 198 · 154 · 112 · 144 — the 112 and the 144 reproduce Batch 0003's and Batch 0004's recorded figures exactly under this method, which is why it is the house one. Maximum in a chapter 22 at ch 374; average 10.1.** Counted with the headings in the same sixty files returns 686, and Batch 0003's fifteen files return 139 that way against 112 this way: **the two figures are the same chapters counted two ways and both are in this run's record** |
+| **Named weekdays** | **6** | all seven names, case-insensitive, word-bounded, body prose. **ch 391 ×1, ch 395 ×3, ch 399 ×1, ch 400 ×1 — F1. This is the row `bible/world.md` records as zero and the row is not zero** |
+| **Named calendar months** | **0** | all twelve names, case-insensitive, word-bounded, body prose |
+| **Named weeks** | **0** | `\bweek\b` returns 38, all of them durations (*a week*, *two weeks back*, *six weeks*, *three days in seven*); `fortnight` is counted separately below |
+| ***fortnight*** | **4** | `(?<![A-Za-z])fortnight(?![A-Za-z])`, case-insensitive, body prose. **ch 363, 364, 367, 375.** Across Volumes 1–7 the same method gives **2 · 6 · 12 · 23 · 3 · 13 · 4**; a fortnight is a count of fourteen days and not a named week. The batch rows that report it at zero are batch-local |
+| ***About four seconds* · *eleven weeks*** | **0 · 0** | case-insensitive, word-bounded |
+| ***His eyes widened · he couldn't believe it · he could not believe it · suddenly · little did he know*** | **0** | case-insensitive |
+| **The Yuan tag** | **0 verbatim, and no lead-in of any shape** | the pinned sentence, case-insensitive, plus a scan for a tag-form paragraph immediately before any of his speech |
+| ***Under her, …:*** as a one-breath speech lead-in | **0** | the family, case-insensitive |
+| ***As long as it takes to count …*** as a measure | **2** | ch 371 *count nine* and ch 379 *count three*. **Both are duration similes in narration or in a pause and neither is a declaration**, against an allowance of zero as a declaration. The idiom is the manuscript's own and stands at ch 351 of Volume 6 and four times in Volume 5 |
+| **`whole of`** | **160** | `\bwhole of\b`, case-insensitive, whole word, body prose. **Maximum 7 in a chapter.** Named at 131 at the Batch 0003 review and recorded, not repaired — see D2 above |
+| **The surface answer, paid once at ch 267** | **0** | `drift` returns **0**; *charged is charged*, *told is told*, *being told is one thing and being charged is another* and *sound comes east* all return **0**. Not said, hinted at, gestured at or paraphrased in any mouth. The three `announce` hits (ch 368, 371, 412) are about the announcement rule past the line, which is Volume 6's re-derivation and not the surface answer |
+| **`send for` · `sent for` · `sending`** | **2 · 5 · 3** | case-insensitive, body prose. ch 364, 418 · ch 400, 401, 418, 419 ×2 · ch 361, 401, 415. **Batch 0004 alone is 1 · 3 · 1, reproducing its recorded row. Being sent for is opened at ch 401, answered at ch 402, and re-opened nowhere** |
+| **`vouch`** | **3** | substring with inflections, which is the method Volume 6's outline row uses and the only one under which its recorded six reproduces. ch 373 ×2 and ch 379 ×1. **Nothing about the second vouching having been copied upward is re-explained anywhere in the volume** |
+| **`asked for`** | **12** | case-insensitive, word-bounded, body prose. Recorded for completeness; it is ordinary trade language on this ground and not a budget row |
+| **Forbidden terms on a word-boundary grep** | **all 0** | `reconciled` · `plate` · `licence` · `license` · `clearance` · `countersignature` · `seal` · `kiln-born` · `MEMBER ABSENT` · `member absent` · `Ledger` (case-insensitive) · `tribulation` · `Feng` · `Ning Wu` · `Hou Sanliang` · `Anchor` · `Sisterhood` · `Scribe` · `bargain` · `Lung` · `appointment` · bare `Order`. **`Order` and `plate` both return false positives inside ordinary words and both have caught this run out before. Lowercase `order` returns 12, all of them the common noun — a sequence (ch 367, 368 ×2, 369 ×2, 372, 374), a purchase order (ch 363), and *a room is where a thing goes in an order* (ch 368) — and not one word of the Order is on Volume 7's page** |
+| **Harem, romance** | **None** | Rao is a trade, a floor, a rate and an opinion; Dai is a trade and a condition; Geng is a floor and a list; Wei Ran is a trade, a team, a rate and an opinion, and the eight coppers she is owed cannot be taken |
+| **Longest paragraph** | **118 words, at ch 379** | body-prose paragraphs split on the blank line. **And 105 at ch 389.** 3,356 paragraphs in the volume, **two over the 90-word working limit, none over the 120-word hard limit**. By batch the longest is 88 (0001) · **118 (0002)** · 89 (0003) · 88 (0004). Batch 0002's recorded 87 at ch 379 is F8; Batch 0004's recorded 87 at five chapters is F11 |
+| **Doubled words** | **11, all grammatical `had had`** | `(?<![A-Za-z])([A-Za-z]{1,12})\s+\1(?![A-Za-z])`, body prose. **ch 364, 372, 373, 374, 377, 381, 385, 391, 392, 411, 417. Zero non-grammatical.** Batch 0004's recorded *had had does not occur* is F12 |
+| **Duplicated whole paragraphs at six words or more** | **11 distinct texts, each standing 2–4 times, 26 instances in all** | whole paragraphs compared byte for byte across all sixty files, filtered at six words or more. **Every one is furniture or planted**: the layer's one sentence ×4 · *He put the chalk in his pocket.* ×4 · *He put the rule back against his leg.* ×2 · *That was the whole of what she had.* ×2 · the ring ×2 at ch 378 and 384 · *He put the pen down flat.* ×2 · the pencil ×2 · the layer line carried ×2 at ch 394 and 404 · the reading cannot be entered ×2 at ch 399 and 402, whose second line changes and which carries the escalation · *She lay there for a while.* ×2 · the floor sheet ×2 inside one argument at ch 420. **No new slip at a chapter boundary.** Separately, 22 short paragraphs of under six words repeat, 154 instances, and they are the ordinary *Yes.* / *All right.* / *There it is.* of a book where people answer each other |
+| **Recurring eight-word paragraph openings** | **55 distinct openings across 165 instances of 3,356 paragraphs** | first eight words of every body paragraph, grouped. **Every one is this book's own furniture and each is a thing or a person.** The largest: the second hour on the boards (13 chapters) · *she is eighteen years old and…* opening the plain part about one person (12) · the man with a rule in his hand (7) · she went up the mill road at the (6) · the six layer lines (6) · the woman in the office end came out (5) |
+| **Chapter titles** | **420 `#` headings manuscript-wide, zero collisions, longest 32 characters** | counted as the heading text after the `#`, spaces included, marker excluded. **Volume 7 adds 60, none colliding with the 360 before them, none over 32 characters, every one a name.** The two longest are *The Rule With Nothing At The End* (ch 391) and *The Smallest Person On The Floor* (ch 382). **Counted with the `# ` marker the longest reads 34, and that is where a different figure of 34 in this run came from** |
+| **Killings** | **None** | `kill` and `murder` both return **0** across the volume |
+
+### The three settlements, on the page
+
+| Ch | Batch | What closed | The share | Told before spent | On a death? |
+| --- | --- | --- | --- | --- | --- |
+| 370 | 0001 | a hedge of four hundred yards by the length at the east end, checked and off on the twentieth | **six days and four hours** | three times, at the second hour on the boards, at his own insistence | **No — *Not a death*, said outright, and she goes back along it and there is no death anywhere in it** |
+| 396 | 0003 | a sill line at the south end of the yard at the turn, off a board on the twenty-eighth | **four days and two hours** | twice at the second hour on the boards, with the reason | **No — *and not off a death*, said in the same breath** |
+| 414 | 0004 | a second listing of two hundred yards of hedge, east of the turn, put in on the twenty-ninth with the thirtieth against it | **five days and one hour** | twice at the rail, the second time with four men standing there and the reason given | **No** |
+
+**All three go out of the ground under her, none comes back, and none is a figure of what is left of him.** The last
+figure of him in the manuscript remains *about six weeks* at ch 236 and is not repeated. **Batch 0002 settles
+nothing**, and the word `merit` does not appear anywhere in the volume — the event is what the row records, and the
+word was never the marker.
+
+### The seventeen continuity facts, walked one at a time
+
+1. **The relicensing legs stay in order, clearance → seal → countersignature, and Volume 7's allowance for all three
+   is 0.** **`clearance` 0 · `seal` 0 · `countersignature` 0** on a word-boundary grep across ch 361–420, and
+   `sealed` returns 0 as well. **No card invents one for any stage and no card says one was or was not required.**
+   The relicensed licence stays never opened: **`licence` 0 and `license` 0** across the volume
+2. **MEMBER ABSENT stands three times, permanent, and was not raised as a surprise.** **`MEMBER ABSENT` and
+   `member absent` both return 0 across ch 361–420.** It is carried and not mentioned, which is the whole of Volume
+   7's allowance
+3. **The register still reads *reconciled*, read and never corrected, and not read at all in Volume 7.**
+   **`reconciled` returns 0** across ch 361–420
+4. **The Clay Plate is still worn against her ribs and has not been described.** **`plate` returns 0** on a
+   word-boundary grep, and `plates` returns 0. **Volume 7 did not take it off and did not describe it, and it is
+   still the object whose texture she remembers at ch 1000**
+5. **What became of the eleven is not raised and the four erased months are never named.** **`erased` 0 · *base went
+   out* 0 · *four weeks* 0 · *could not account* 0.** The silence bought at ch 128 is unbroken across sixty
+   chapters. **The ch 150 refusal is not softened, deferred, reopened or regretted in any line.** No second Lung and
+   no second appointment: **`Lung` 0 and `appointment` 0.** **`Feng` returns 0 across the volume**
+6. **The three things Volume 5 spent out of him at ch 272 are not undone.** His unentered state and the date of the
+   morning he died are gone. **Ch 401 has him go looking for both in his own frame and find neither — *There is no
+   morning under it* and *It is not here either* — and he does not go looking again.** Nothing in Volume 7 gives
+   either back, and nothing softens the finding that being read means being sent for; it is stated at ch 401 and
+   again at ch 419
+7. **The claim is ANSWERED and is not reopened. Hou Sanliang is paid and has never been met.** **`Hou Sanliang`
+   returns 0** across ch 361–420. **`Ning Bo` and `Ning Wu` both return 0** — the latter on a word-boundary grep
+   for `Ning Wu`. **Neither is on the page in Volume 7**
+8. **No harem and nothing in Volume 7 is a romance.** *The shape of a happy life* is spent until Volume 16, by Ning
+   Wu. **Ning Yan never says her mother's name.** Yuan never tells her what he was before he died, and does not learn
+   she saw him as a readout, before Volume 11. **Wei Ran is on the page once, at ch 407, and the thing that happens
+   to her is that she is owed eight coppers and cannot pay them** — *her hand will not take the eight* — and she
+   does it in a trader's mouth with no romance in it anywhere and with Ning Yan doing the refusing
+9. **No office above the Standing Office of the Second Account is named, and nothing above the copying floor or the
+   second office.** **No office is named anywhere in Volume 7.** Volume 6 named none in sixty-two chapters and that
+   is the standard; **Volume 7 names none in sixty.** The offices are the counter, the copying floor, the third
+   floor, the lifting floor, the rail, the gate and the cart, and no one of them has a name
+10. **The Hunter's request stays pending.** **He is on the page twice and only twice — ch 369 and ch 418** — nine
+    feet off, notebook shut under his arm, in the ordinary voice, **and she asks him both times and he buys nothing
+    either time.** A Wall writ is not issued to a field agent: **`Wall writ` 0 and `field agent` 0.** **The line's
+    own people still do not know she exists**, said at ch 404 and again at ch 420. His request is carried at ch 404
+    as *a man who had wanted something from her since the spring before last and had never been refused it and
+    never been given it* and is raised nowhere. **Finding F5 concerns where he stands, not what he wants**
+11. ***Kiln-born* stays in two heads and on no paper.** **`kiln-born` returns 0** across ch 361–420
+12. **Ledger: never ordered, held, priced, refused or thought about.** **`grep -i Ledger` returns 0** across all
+    sixty files of Volume 7. It took two close repairs at ch 306 and ch 319 to make Volume 6's zero true rather than
+    approximately true, so this is measured and not asserted. **Ch 401 says so on the page without using the word:
+    *He does not think about the account, because he has not thought about the account in five months***
+13. **The year of non-forgiveness is still running.** **She does not forgive him and she does not tell him to stop.
+    The subject is not mentioned once in ch 361–420**, which is Volume 7's allowance of zero and the same strength
+    of form Volume 6 used in its sixty-two chapters
+14. **The channel: no figure of what is left of him on any page.** **Restored three times — ch 370, ch 396 and
+    ch 414 — each on a listed piece of work cleared past the mill and not on a death, each share told before spent,
+    each out of her foundation and not coming back.** *About six weeks* at ch 236 remains the last figure of him in
+    the manuscript and is not repeated. **The channel does not appear as a word anywhere in Volume 7**; what is
+    restored is a share off her, and the distinction is the chapter's whole subject at ch 414 and ch 420
+15. **Yuan's readability, and the date of the morning he died.** **Readable without her since ch 272 and therefore
+    findable — carried.** **Addressed as a holder since ch 338 and therefore sendable — carried, and the unnamed
+    state is still gone and is named as gone at ch 401.** **Answerable as of ch 401, and the chapter says in his own
+    words that this is a third thing and worse than being sendable, because an answer can be quoted.** The date of
+    the morning he died is gone, looked for at ch 401, and not found. The unnamed state is gone and not reopened.
+    **The ending still needs him findable, and he is**
+16. **What Volume 7 changed about any of them.** Nascent Soul 1 → 7, six stages at 886 · 924 · 960 · 999 · 1,037 ·
+    1,076 · the furnace will not light itself · the hand cannot write a false line · **the reach is used on purpose
+    and cannot be put back** · she cannot be given anything · **she cannot be paid** · the reach answers a question
+    and only a question · **the send read upward and answered, at ch 401–402** · **she can never again refuse a
+    reading** · **she has given up knowing what the fine hand says** · the third frame scene is on the page at
+    ch 401 · **the Hand spent once and refused once** · **a strip went east and did not come back**
+17. **No new final enemy, and nothing of `outline/ending.md` previewed.** **The Scribe is fixed in
+    `outline/ending.md` and belongs to Volume 15. `Scribe` 0 · `Anchor` 0 · `Sisterhood` 0 · `bargain` 0 · `Feng`
+    0 · `Lung` 0 · `appointment` 0 · bare `Order` 0.** No death is named, the Anchor is not placed, the Sisterhood
+    is not touched and the bargain is not put on the table. **Not one word of the Order is on Volume 7's page**
+
+### What is still open at ch 420, and must be still open
+
+**Measured, and none of them is resolved, softened or quietly mentioned anywhere in ch 361–420.**
+
+- **The Hunter's request pending** — carried at ch 404 and ch 420, raised nowhere. `Wall writ` 0, `field agent` 0
+- **Everything above the offices that vouched, unread and unnamed** — and **no office named at any point in sixty
+  chapters**
+- **The fine hand and the man who can read it — both spent at ch 417 and neither given back.** Dai read it four
+  times on the night of the eighteenth, offered it once, and was refused. **She went on not knowing, on purpose,
+  forever, and nothing was written and nothing failed**
+- ***Kiln-born* in two heads and on no paper** — `kiln-born` 0
+- **What became of the eleven** — `erased` 0, *base went out* 0, *four weeks* 0, *could not account* 0
+- **The register still *reconciled*** — `reconciled` 0, unread
+- **The plate still worn and undescribed** — `plate` 0
+- **The year still carrying** — not mentioned once in sixty chapters
+- **And the strip that went east on the end-of-month cart and did not come back** — ch 365, 366, 368, 369, 373,
+  404, 420 — **the column that came back with two lines off it** — ch 373, 392, 399, 402, 403 — **and a stair book
+  going up a road once a month with a name in it in two books that shut** — ch 388, 389, 395, 396, 398, 403, 404
+
+### The hand-off, and what the close must not preview
+
+**`outline/volume-07.md` §*New question for Volume 8* is *what happens to the first person who comes for the
+reader*, and it is not previewed, expanded or softened here.** What the audit confirms is the narrower thing that
+matters: **Volume 7 hands Volume 8 its antagonist without putting one word of the Order on its page, and the new
+question is a consequence of what ch 417–420 resolved.**
+
+What is on the page is a strip that went east eleven miles on the end-of-month cart and **did not come back on the
+cart that goes up with the empty trays**, which she worked out at ch 366 by asking two men about carts; **a column
+that came back with two lines off it** in the other direction, on a page nobody can enter; **a room four miles up a
+made road with a lamp in it** and a man of forty-three who has read the fine hand for twenty-six years and offered
+it once; **a man with a shut notebook who says the thing he knows in the ordinary voice** — *the answer does not
+care what his hands are doing, and it will be somewhere in his head for six months before he hears about it* — and
+who buys nothing; and **a road east that she has never walked** and a turn four miles off and a long road past it.
+**The thing that sent the strips has stopped needing her to be near anything. She has never been east of here.**

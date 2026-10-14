@@ -1026,3 +1026,101 @@ all spent, one at each stage, at ch 371, 383, 394, 404, 412 and 420. The six str
 page, at ch 365, 379, 391, 398, 409 and 415, and the tenth part is still not given and nothing proves the crews
 wrong. The volume's three irreversible acts are a circuit broken at ch 344, an entry made at ch 358 and an answer
 withheld at ch 417, and they are three different shapes.**
+
+---
+
+## Volume 7 closed — audited
+
+**Volume 7, *Stronger Things*, ch 361–420, sixty chapters. Written in four batches, two of them reviewed and repaired
+at chapter level and two not, and closed by an audit that wrote no prose.**
+**`outline/volume-07.md` walked line by line against the page. `outline/series.md` and `outline/ending.md` were not
+opened and `outline/volume-07.md` was not re-planned.**
+
+**115,342 words of body prose over sixty chapters, average ~1,922** — the `#` title line and every `##` section
+heading excluded. **By batch 27,114 · 28,296 · 29,552 · 30,380**, all four re-derived at this close and all four
+reproducing exactly. Longest chapter ch 420 at 2,582; shortest ch 410 at 1,759. **Five chapters under the 1,800
+guide — 385, 410, 413, 418, 419 — none under the 1,300 floor, none above the 2,700 guide.**
+**420 `#` headings manuscript-wide, zero collisions, longest 32 characters.**
+
+**Sixteen findings recorded and none repaired, because a close that repairs is a rewrite.** Four are canon breaches on
+the page, three are internal contradictions, and seven are recorded figures that do not reproduce. Full table in
+`state/current.md` under `## Volume 7 close audit — CLOSED`; the repaired-by-measurement corrections are in
+`state/continuity.md` under `## Volume 7 close — repairs` and `## Volume 7 close — the volume as a whole`.
+
+### The goal, and where it is answered
+
+**Fixed by `outline/series.md` §9: *In this volume, Ning Yan must survive being the weakest person in every room she
+walks into, or she learns that strength was never what she was taken for.***
+
+**It is paid, and it is paid in a room and not in a paragraph.** At ch 390, the volume's midpoint, Rao — who has kept
+the columns on the third floor for sixteen years, holds no furnace, cannot lift, has no stage anybody on that ground
+would name, and has read forty thousand columns without once being asked what her own column says — reads Ning Yan's
+column back to her, all of it, in the ordinary voice. **The column contains a refusal, and it is the only refusal in
+the set, and nobody on that floor has ever had one to read.** What she has spent the volume trying to be paid for and
+what the rooms have been pricing her at are two different things: she was taken for her column, the column's one
+talent is that it can refuse, and **the strongest thing in the building is a column.** Said once, in Rao's mouth, on
+the last page of ch 390, in six words: **“A yard is a room.”** Not repeated anywhere in the volume.
+
+### One line per batch
+
+| Batch | Ch | Days | Words | Pressure | What it is on the page |
+| --- | --- | --- | --- | --- | --- |
+| 0001 | 361–374 | 849–899 | 27,114 | **rooms bigger than she is** | **The first strip goes east and does not come back** (365–366) · the season turns and the board fills with eleven lines she cannot take (367) · **the yard of nine men where she is the ninth and the smallest thing in it** (368) · **the Hunter, once, at nine feet** (369) · **merit settles, six days and four hours, not on a death** (370) · **Nascent Soul 2 at ch 371, on day 886, and the furnace stops lighting itself** · thirteen days of a shed with a fire in it that does not come up (372–374) |
+| 0002 | 375–389 | 900–950 | 28,296 | **what she is worth in a room** | the third floor and **Rao**, forty thousand columns (381–382) · **Nascent Soul 3 at ch 383, on day 924, and a false line can no longer be entered by her hand** · a false line for four coppers in the ordinary hand is now the only way one gets into a book here and she can neither pay it nor take it (384–386) · **the keeper with the paste pot's hand burned through the floor of a low building, and she carries his bundle two miles** (378) · **ch 388: she says a person's name out loud in a room and asks her for something, and cannot un-ask it** |
+| 0003 | 390–404 | 951–1,020 | 29,552 | **the reach on purpose** | **the volume's midpoint at ch 390, in a room, and the line that carries it** · **the reach used deliberately for the first time with a man's leg under a stone and it does not go back** (394) · merit settles, four days and two hours, not off a death (396) · **the page comes back with two lines at the foot of it asking for a holder** (399–400) · **ch 401, the third frame scene in seven volumes, away from her hearing, where he lets a send reach him and answers it upward — and the break at ch 402, where the answer comes down her own road as a question about her and she answers in one word and can never refuse a reading again** · **Nascent Soul 4 at ch 394 on day 960 and Nascent Soul 5 at ch 404 on day 999** |
+| 0004 | 405–420 | 1,021–1,090 | 30,380 | **what it costs to be right** | the board fills and nothing on it can be entered against her (405) · **Wei Ran, once, and the eight coppers her hand will not take** (407) · her own margin note in a yard-book hand going up the mill road on the first (408–410) · **the share settles, five days and one hour, and comes back once because a woman of forty-five says a thing about wood** (414) · **Rao's four hours a month, for nothing, and being able to read is not a thing this ground pays anybody for** (413, 415) · **ch 417, the volume's own refusal: Dai can read the fine hand and offers to read it to her once, in a room, on the ordinary condition that she confirm or deny it, and she says six words and refuses — nothing is written, nothing fails, no book will not shut** · **the bill at ch 418** · **ch 419, the Hand refused once out loud and the lifting floor and a bar and a man under a dressed stone and a bell that has already gone** · **Nascent Soul 6 at ch 412 on day 1,037 and Nascent Soul 7 at ch 420 on day 1,076, and the column read out loud in the largest room she has ever stood in** |
+
+### One line per structural item
+
+| Structural item | Where it is on the page | Verdict |
+| --- | --- | --- |
+| **Nascent Soul 2** | ch 371, **day 886**, the **third** of the month beginning 884. Cost: **the furnace will not light itself and she cannot light it alone.** Bracket 1 of 6 | PASS. The 41-day interval is in her own arithmetic on the page — *she had forty-one days of furnace in her* |
+| **Nascent Soul 3** | ch 383, **day 924**, the **eleventh**. Cost: **her hand stops being able to lie.** Bracket 2 of 6 | PASS. Found out inside the same week that a false line for four coppers in the ordinary hand is now the only way one gets into a book on that ground |
+| **Nascent Soul 4** | ch 394, **day 960**, the **seventeenth**. Cost: **a thing she reaches cannot be put back where it was.** Bracket 3 of 6. Used on purpose, on a deadline, with people under a load | PASS. Paid in public at ch 420 by Geng, who is right and whose floor is now a block short |
+| **Nascent Soul 5** | ch 404, **day 999**, the **twenty-sixth**. Cost: **she cannot be given anything.** Bracket 4 of 6 | PASS. The first thing it costs is a cup of water handed to her across a bench by a woman with a trade and a team, and it is the volume's smallest scene and its saddest |
+| **Nascent Soul 6** | ch 412, **day 1,037**, the **fourth**. Cost: **she cannot be paid.** Bracket 5 of 6 | PASS. A column carrying a person past nine has no last day on it and no figure against it, and **the bare board was a season. This is the rest of the run** |
+| **Nascent Soul 7** | ch 420, **day 1,076**, the **thirteenth**. Cost: **the reach will not go out of a room she has not been asked into.** Bracket 6 of 6, and the volume's budget is spent | PASS. It went once in two hours and it went when a man of thirty asked her for it |
+| **The bracket budget** | **Six in sixty, at ch 371, 383, 394, 404, 412 and 420, and 12 bracket characters in the whole volume**, all in the far-side house form character for character | PASS. Counted, not quoted |
+| **The six costs** | Each named once in its own stage chapter; carried four times across the volume and re-derived nowhere | PASS |
+| **Mouth one** | ch 365, a carter who has been turned back at the end of the long road four hundred times — the line is not a road he is allowed on and turning back is the ordinary end of the journey and a thing people pay for | PASS |
+| **Mouth two** | ch 379, a man who keeps a gate and has never once needed anything out of the line — it is kept so the ground on this side stays worth farming and he has a family on the ground he is standing on | PASS |
+| **Mouth three** | ch 391, **Rao**, who has read a column that came up off that line — what is on the line is paid for out of a place she has never seen, and a column came up once in eleven years with nothing at the other end of the rule and she has never found out what that meant | PASS |
+| **Mouth four** | ch 398, a woman who drives clay and has been paid in clay, every month for eleven years, by a household nine miles west that is not in her county and that she has never seen | PASS |
+| **Mouth five** | ch 409, a copying man one floor below Rao — four sheets go up from that floor on the first and he does not make them, he puts them in the bundle, and he has never once been asked to make one | PASS on the page. **Finding F14: the outline's header calls all six new people and this one is Volume 6's ch 331 mouth, the man with the brush.** The two chapters do not open and close on the same words, so the page is sound and the claim about it is not |
+| **Mouth six** | ch 415, **Geng**, who runs the lifting floor and was put on a list nineteen years ago and has never been taken off it — he does not know by whom, the list is not in the building, and he stopped thinking about it and says so | PASS |
+| **The tenth part** | Not given. Nothing proves the crews wrong. All thirty-eight `tenth` hits are ordinary counting or day-of-month headings | PASS |
+| **The surface answer** | Paid once at ch 267 and **not said, hinted at, gestured at or paraphrased in any mouth in ch 361–420** | PASS |
+| **The Hunter** | On the page twice — ch 369 and ch 418 — nine feet off, notebook shut, she asks him both times, he buys nothing either time, and **his request stays pending**. He is never named, which is Volume 6's practice at that scene and not a change | PASS on the rule. **Finding F5: where he stands is stated three incompatible ways at ch 369, ch 404, ch 418 and ch 420** |
+| **Merit** | Settles three times — ch 370 (six days and four hours) · ch 396 (four days and two hours) · ch 414 (five days and one hour) — each on listed work cleared past the mill, **none on a death**, each told before spent, each out of her foundation and not coming back. **Batch 0002 settles nothing. Nothing in Volume 7 kills anybody** | PASS |
+| **Yuan** | Hand spent once at ch 402 on a listed clearing, out of her foundation, told before spent. **Refused once out loud at ch 419**, and the reason is his own and better than hers: *a second use is a second time to be sent for, and the first one has not finished*. **Third frame scene at ch 401 and no fourth in seven volumes.** Every sentence he speaks is in the present tense and no other character is ever in a marked present frame | PASS |
+| **The three shapes in three consecutive volumes** | A circuit broken (ch 344) · an entry made (ch 358) · **an answer withheld (ch 417)**. Ch 417 says the difference on the page — *Nothing is written in this room today… No book in this building will not shut. Nothing fails* | PASS, and none is restated as another |
+| **Wei Ran** | On the page once, at ch 407. Twenty, three carts, four men, a rate and an opinion. **The thing that happens to her is that she is owed eight coppers and cannot pay them, and her hand will not take them**, and she does it in a trader's mouth with Ning Yan doing the refusing | PASS |
+| **The four pressures** | rooms bigger than she is · what she is worth in a room · the reach on purpose · **what it costs to be right**. No two consecutive, and none of the four is a tending, ration, hiring, crossing, audit, examination, hunt, signature, keeping, debt, family paper, ash or confinement | PASS |
+
+### The volume's closing image
+
+**The biggest room she has ever stood in, and she is the smallest thing in it, and she is reading.**
+
+Nine men and a bench long enough for all of them, a chain, a bar, a dressed stone standing four feet from where it
+stood and a bell that has already gone. A man who runs the floor has a sheet on the bench with nine days of his own
+work on it in his own hand, and there is no term on that floor for what he has to write, so he holds it out at arm's
+length to the smallest person in the room.
+
+She takes it in her left hand, because the right one has four fingers on it and it is the wrong hand for a page. She
+reads it out loud, in the ordinary voice, the way she said her name at a trestle and at a gate and at a counter, and
+about a third of the way down it she stops a man who is going to be in a room in eleven days. She tells him the day
+he has written there is the day the ground changed and not the day he heard about it, and that the day he heard about
+it is eleven days later and it is already in the other column on the same sheet.
+
+**They write it down. She watches them write it down.**
+
+And the last line of the volume, in her own arithmetic, standing about nine feet off with an empty left hand:
+
+> **And the only thing she could do about any of it was be asked.**
+
+**Where the records are.** Audit table, sixteen findings and the protagonist answered in writing:
+`state/current.md` under `## Volume 7 close audit — CLOSED`. Repairs (none) and every re-derived figure:
+`state/continuity.md` under `## Volume 7 close — repairs` and `## Volume 7 close — the volume as a whole`. Threads
+at ch 420 and what Volume 8 inherits live: `state/open-threads.md` under `## Volume 7 CLOSED at ch 420`.
+**This close phase created no prompt and wrote no `.done` marker**, which `PHASE_SYSTEM.md` gives to the controller
+alone.

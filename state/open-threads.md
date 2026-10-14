@@ -1210,3 +1210,100 @@ question in a room. Everything below is confirmed OPEN at ch 420 and nothing her
   Volume 7. The tenth part of the structural answer is not given and nothing proves the crews wrong.**
 - **The relicensing legs stay in order — clearance, seal, countersignature — and Volume 7 invented none of them.
   MEMBER ABSENT stands three times, is permanent, and was not raised anywhere in Volume 7.**
+
+---
+
+## Volume 7 CLOSED at ch 420 — every thread, measured, and what Volume 8 inherits live
+
+**Written by the Volume 7 close phase. It walked `state/continuity.md`'s seventeen required continuity facts one at a
+time against ch 361–420 and measured each one by grep on the page rather than carrying it. Nothing below is resolved,
+softened or quietly mentioned anywhere in Volume 7, and nothing below was resolved by this close: the close wrote no
+chapter. Where a thread is marked **STILL OPEN**, that is the measurement, not a restatement of intent.**
+
+### Carried from before Volume 7 — all confirmed live, none touched
+
+| Thread | At ch 420 | How the close measured it |
+| --- | --- | --- |
+| **The Hunter's request** | **STILL OPEN.** Pending, unraised, unresolved. He is on the page twice in Volume 7 — ch 369 and ch 418 — nine feet off, notebook shut, and she asks him both times and he buys nothing either time. Nothing about his paper, his order or his brother is raised anywhere | `Wall writ` **0**, `field agent` **0**. Carried at ch 404 and ch 420 as *a man who had wanted something from her since the spring before last and had never been refused it and never been given it* |
+| **The line's own people do not know she exists** | **STILL TRUE.** Said at ch 404 and again at ch 420, in the same clause, as a standing fact and not as a discovery | Not a term; a fact in the narration, twice |
+| **Everything above the offices that vouched — unread and unnamed** | **STILL OPEN.** No office is named anywhere in Volume 7. Not the copying floor, not the floor above it, not the room with the lamp, not the lifting floor. Volume 6 named none in sixty-two chapters and Volume 7 names none in sixty | Grep for any capitalised institutional proper noun returns nothing standing |
+| **MEMBER ABSENT** | **STILL CARRIED, permanent, never raised as a surprise.** It returns zero times in Volume 7, which is the allowance | `MEMBER ABSENT` **0**, `member absent` **0** |
+| **The register reads *reconciled*** | **STILL OPEN and NOT READ.** Volume 7's allowance for reading it is zero and Volume 7 read it zero times | `reconciled` **0** |
+| **The Clay Plate, worn against her ribs** | **STILL WORN AND UNDESCRIBED.** Volume 7 did not take it off and did not describe it, and it is still the object whose texture she remembers at ch 1000 | `plate` **0** on a word-boundary grep, `plates` **0** |
+| **What became of the eleven** | **STILL OPEN.** Not raised in sixty chapters. The four months erased at Chapter 3 are never named and the silence bought at ch 128 is unbroken | `erased` **0**, *base went out* **0**, *four weeks* **0**, *could not account* **0** |
+| **The ch 150 refusal** | **NOT SOFTENED, DEFERRED, REOPENED OR REGRETTED** in any line of Volume 7 | — |
+| **Feng** | **NOT ON THE PAGE.** Nine days of road west and further, and Volume 7 spends him nowhere | `Feng` **0** |
+| **The three things Volume 5 spent out of Yuan at ch 272** — his unentered state, his unnamed state, and the date of the morning he died | **ALL THREE STILL GONE, AND NONE GIVEN BACK.** Ch 401 has him go looking for the first two in his own frame away from her hearing and find neither, and says he is not going to look again | `Feng` 0 · the ch 401 paragraphs *There is no morning under it* and *It is not here either* |
+| **The finding that being read means being sent for** | **NOT SOFTENED.** It is stated at ch 401 and again at ch 419 and it is the reason he refuses the second use | ch 401 and ch 419 |
+| **The claim** | **ANSWERED and NOT REOPENED.** Not on the page in Volume 7 | `Hou Sanliang` **0** |
+| **Ning Bo's account discharged · Ning Wu's decade a line with no mark on it** | **NEITHER ON THE PAGE IN VOLUME 7** | `Ning Bo` **0**, `Ning Wu` **0** on a word-boundary grep |
+| ***Kiln-born* in two heads and on no paper** | **STILL TWO HEADS AND NO PAPER** | `kiln-born` **0** |
+| **The Ledger** | **NEVER ORDERED, HELD, PRICED, REFUSED OR THOUGHT ABOUT IN VOLUME 7.** Ch 401 says so on the page without using the word — *He does not think about the account, because he has not thought about the account in five months* | `grep -i Ledger` **0** across all sixty files |
+| **The year of non-forgiveness** | **STILL CARRYING, AND NOT MENTIONED ONCE IN SIXTY CHAPTERS.** She does not forgive him and she does not tell him to stop | Volume 7's allowance for mentioning it is 0 and it is 0 |
+| **The relicensing legs** — clearance → seal → countersignature | **IN ORDER AND UNUSED.** Volume 7 invented none of them and no card said one was or was not required for any stage | `clearance` **0**, `seal` **0**, `countersignature` **0**, `sealed` **0** |
+| **The relicensed licence** | **STILL NEVER OPENED.** It still says Foundation the first stage on the front of it | `licence` **0**, `license` **0** |
+| **Nothing above the copying floor or the second office named** | **NOT NAMED.** See the offices row above | — |
+| **No harem and nothing a romance** | **NONE.** *The shape of a happy life* is spent until Volume 16, by Ning Wu. Ning Yan never says her mother's name. Yuan never tells her what he was before he died and does not learn she saw him as a readout before Volume 11 | Rao is a trade, a floor, a rate and an opinion; Dai is a trade and a condition; Geng is a floor and a list; Wei Ran is a trade, a team, a rate and an opinion |
+| **The surface answer, paid once at ch 267** | **NOT RE-VOICED** — not said, hinted at, gestured at or paraphrased in any mouth in Volume 7 | `drift` **0**, *charged is charged* **0**, *told is told* **0**, *sound comes east* **0** |
+| **The tenth part of the structural answer** | **NOT GIVEN, and nothing proves the crews wrong.** The thirty-eight `tenth` hits in Volume 7 are ordinary counting and day-of-month section headings | `tenth` 38, all counting or dates |
+| **Nothing of `outline/ending.md` previewed** | **NOTHING.** No death named, the Anchor not placed, the Sisterhood not touched, the bargain not on the table, and **not one word of the Order on the page** | `Scribe` **0**, `Anchor` **0**, `Sisterhood` **0**, `bargain` **0**, `Lung` **0**, `appointment` **0**, bare `Order` **0** |
+| **No new final enemy** | **NONE INVENTED.** The Scribe is fixed in `outline/ending.md` and belongs to Volume 15 | — |
+
+### Added by Volume 7 — the volume's own threads, all live at ch 420
+
+| Thread | At ch 420 | Where it is on the page |
+| --- | --- | --- |
+| **The strip that went east on the end-of-month cart and did not come back** | **STILL OPEN, and it is now the oldest thing she is carrying.** She worked out the mechanism herself at ch 366 by asking two men about carts: a strip goes up the mill road and comes back down it on the ninth with the empty trays, and a strip that goes east does not come back on that cart because that cart does not go east. **She has the other half of it folded against her ribs and cannot read the word at the head of it, and there is a man in a room with a lamp in it who could read it in four seconds and has not been asked and never will be** | ch 365, 366, 368, 369, 373, 404, 420 |
+| **The column that came back with two lines off it** | **STILL OPEN.** Something went east and something came back, not on the cart — a page at a yard came back down the mill road with two lines at the foot of it saying a line has not been carried to the room it was made out for and a holder is required against it. **Two holders are now required against the seventeenth and there is one holder on this ground** | ch 373, 392, 399, 402, 403 |
+| **The send read upward and answered, and the break** | **DONE AND SPENT, and its consequence is permanent.** At ch 401 he let a send reach him and answered it upward; at ch 402 the answer came back down her own road as a question about her and she answered it in one word at a gate. **The consequence is that she can never again refuse a reading** — a second refusal would be a refusal of an answer already given, and an office that holds an answer already given does not accept a second one | ch 401, 402. **Not a finding: the break is not re-opened and being sent for is not re-opened anywhere in ch 405–420** |
+| **Yuan is answerable, and that is a third thing and worse** | **LIVE AND SPENT FORWARD.** An answer is the only one of the three — findable, sendable, answerable — that a thing anybody can quote. He said so in advance on the page: *He will be asked about it by somebody he has never met, at some point, by somebody who has only got the two lines and the date and the ordinary voice* | ch 401 |
+| **The Hand, spent once and refused once** | **CLOSED FOR VOLUME 7 AND STILL RUNNING.** Spent at ch 402 on a listed clearing, out of her foundation, told before spent. Refused at ch 419 out loud, in thirteen sentences, because a second use is a second time to be sent for and the first one has not finished. **He closed the habit on the page: one is what he has and two would be a habit** | ch 401, 402, 419 |
+| **She has given up knowing what the fine hand says about her** | **STILL OPEN FOREVER, ON PURPOSE, AND IT IS HERS.** A denial is an entry, so her no went up the same road every answer has gone up since before the mill's wheel was cast. **Nothing was written in that room, no book will not shut and nothing failed.** The bill at ch 418 is that the floor now treats her as somebody who may know something, four times a month, which is worse for her than being entered and was worth it | ch 416, 417, 418, 420 |
+| **The six costs** | **ALL SIX LIVE AND NONE RE-DERIVED.** The furnace will not light itself · the hand cannot write a false line · a thing she reaches cannot be put back · she cannot be given anything · **she cannot be paid** · the reach will not go out of a room she has not been asked into. Each named once, in its own stage chapter | ch 371, 383, 394, 404, 412, 420 |
+| **She cannot be paid, and the bare board was only ever a season** | **CLOSED FOR GOOD.** A column carrying a person past nine has no last day on it and no figure against it, so no office on nine days of road can enter her hours as wages. The board at the works rail is full at twenty-nine lines and every one of them is measured by the weight or by the length, and she can take neither | ch 412, 420 |
+| **The reach answers a question and only a question** | **LIVE.** It went once in two hours on a lifting floor and it went when a man of thirty asked her for it, and **the last line of the volume is that the only thing she could do about any of it was be asked** | ch 420 |
+| **A stair book going up a road once a month with a name in it in two books that shut** | **STILL OPEN.** She asked Rao to take her name out of it at ch 403 and was told no, in four sentences, by a woman who is right. **Both books shut and no hand in either building can take the line out** | ch 388, 389, 395, 396, 398, 403, 404 |
+| **A page at a yard with a margin note in chalk in her own account, going up the mill road on the first and down on the ninth** | **STILL OPEN, and it is hers.** She wrote a line in pencil in the ordinary hand, dated it, and put it in beside a column. Rao did not say thank you and did not say anything else about it for about eleven minutes | ch 410 |
+| **Geng's floor is a block short and a bell has already gone** | **OPEN AND CONSEQUENTIAL.** A dressed stone stands four feet from where it stood and cannot be put back, because she cannot be given a fix and does not want one | ch 419, 420 |
+| **The man at the north end who said one thing about her in the middle of the second course and told nobody** | **STILL UNKNOWN TO HER.** She does not know he exists as anything but a man who took the weight on the bar. He put the finding in a margin and did not name her | ch 399, 403, 413 |
+| **Rao's four hours a month, for nothing** | **OPEN AND ONGOING.** *You are here to read*, on the fourth, the eleventh, the eighteenth and the twenty-fourth at the fourth hour, and **being able to read is not a thing this ground has ever paid anybody for and is going to keep not being a thing this ground pays anybody for** | ch 410, 413 |
+| **Wei Ran and the eight coppers** | **OPEN.** She is owed eight and cannot pay them, and her hand will not take them. Three carts went out of that bank on the twenty-eighth and did not go in | ch 407 |
+| **The keeper with the paste pot and the book on the stone under his ladder** | **STILL OPEN AND UNTOUCHED.** He cannot read a word in it and will not shut it and would not tell anybody. **She did not go to the post in Volume 7** — ch 375 says so in her own decision, and ch 378 is the one time she walked past it with a roll of strips in her arms | ch 374, 375, 378, 379 |
+
+### What Volume 8 inherits, live
+
+**Every row above that is marked STILL OPEN, STILL TRUE, STILL CARRIED, NOT ON THE PAGE or STILL WORN is live and
+inherits. In one list, for the Volume 8 planning phase to read first:**
+
+1. **The Hunter's request, pending and unraised, and the line's own people still not knowing she exists**
+2. **Everything above the offices that vouched — unread, unnamed, and no office named anywhere**
+3. **The fine hand and the man who can read it — both spent at ch 417 and neither given back**
+4. ***Kiln-born* in two heads and on no paper**
+5. **What became of the eleven**
+6. **The register still *reconciled*, and unread**
+7. **The Clay Plate still worn and undescribed**
+8. **The year of non-forgiveness still carrying, and unmentioned**
+9. **The relicensed licence never opened · MEMBER ABSENT carried and never raised · Feng off the page · the ch 150
+   refusal unsoftened · no second Lung and no second appointment · the relicensing legs unused and in order**
+10. **The claim answered and not reopened · Hou Sanliang paid and never met · Ning Bo discharged · Ning Wu's decade a
+    line with no mark on it — none of them on Volume 7's page**
+11. **Yuan: readable without her, findable, held, sendable, and now answerable — his unentered state, his unnamed
+    state and the date of the morning he died all still gone, and no figure of what is left of him stated anywhere**
+12. **The Hand spent once and refused once, with the first use still running**
+13. **And the volume's own: the strip that went east and did not come back · the column that came back with two lines
+    off it · a stair book going up a road once a month with a name in it in two books that shut · a page at a yard
+    with her own margin note going up and coming down · a floor a block short**
+
+**What Volume 7 does NOT hand over, and may not be assumed:** the answerable question has been asked and not answered
+and **there is no way on nine days of road to un-ask it**; she **cannot be paid**; **she cannot be given anything**;
+**the reach will not go out of a room she has not been asked into**; and **she has never been east of here.**
+
+### Sixteen findings the Volume 7 close recorded and did not repair
+
+**These are not threads in the story. They are faults on the page, and a repair phase owns them.** Full table in
+`state/current.md` under `## Volume 7 close audit — CLOSED` and in `state/continuity.md` under `## Volume 7 close —
+repairs`: **four canon breaches** (six named weekdays at ch 391, 395, 399 and 400 · `Volume 6` in body prose at
+ch 417 · `## Mouth Five` at ch 409 and `## Mouth Six` at ch 415 · a stray `Nai.` at ch 420) **and three internal
+contradictions** (the Hunter's position at ch 369, 404, 418 and 420 · one walk at two lengths in ch 378 · an
+unresolvable referent in ch 401's cost paragraph). **None of them touches ch 417, ch 420's last two sections, or the
+volume's own answer, and if a repair appears to weaken any of those, the repair is wrong and the page is right.**
