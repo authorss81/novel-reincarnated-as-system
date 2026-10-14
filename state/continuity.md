@@ -6902,3 +6902,195 @@ ch 640 · 148 at ch 645.**
 | The lever | **carried, not pulled, written in the ash at ch 643 and rubbed out. It is not pulled anywhere in Volume 11 and no card may pull it. Asking twice now costs her both answers, proved in front of the man of fifty-one** |
 | The terms | **one at a time · in daylight · standing. They have not moved since ch 609 and no chapter in this batch moved them. A question is done standing** |
 | Untouched and still open | **the window a hundred yards off the east side · the lime off the bar at ch 604 · the hut light · *twenty-two days*, unplaced and equated to no dated interval · five blank leaves · the name, which is on a leaf of her own book and is not in his own mouth anywhere in the volume** |
+
+---
+
+## VOLUME 11 BATCH 0004 — ch 646–660 — What He Was — day 1,997–2,060 — WRITTEN. VOLUME 11 CLOSED ON THE PAGE.
+
+**`chapters/volume-11/` holds ch 601–660. Batch 0004 is ch 646–660: fifteen chapters, 29,742 words of body prose on
+method B — every line not beginning `#`, measured with `grep -v '^#' <file> | wc -w` chapter by chapter and over the
+fifteen together — average 1,982 a chapter, inside the outline's 27,000–30,000 batch band and its 1,800–2,000 target.**
+Per chapter: 1,841 · 1,956 · 1,812 · 1,853 · 1,821 · 1,839 · 2,368 · 2,300 · 1,928 · 1,955 · 2,051 · 2,028 · 1,965 ·
+1,920 · 2,096. **No chapter is under the 1,300 floor and none is above the 2,700 guide.**
+
+### The batch plan against `outline/volume-11.md`, card by card
+
+| Ch | Card | On the page |
+| --- | --- | --- |
+| 646 | stand the last eve · eighty days walked | **the count out loud in the grit, the gaps getting longer, and a line in a second hand on a board for a thing that has not happened** |
+| 647 | walk to the taking · a tower with a light in it | **the image, the ground told, and her own sentence broken in the open two days after she made it** |
+| 648 | take the ninth stage and go on · THE BATCH'S ONE BRACKET | **SEVERANCE 9 at day 1,997, the one bracket in the batch and the last one in the volume, ten seconds, cost named once** |
+| 649 | live past the last ceiling | **seven mornings with her ear on the flat, the silence named once in her own thought, and the ninth paces by six stood on and not stopped on** |
+| 650 | ask the last question · nine feet off, notebook shut | **staying is not being kept, and the reason the sentence runs the other way, and three times watched** |
+| 651 | be carried the last rate · the number out loud | **six both ways, the second and last carrying of her life, and the road stopping at the turn** |
+| 652 | see him · the fifth origin mouth begins | **Feng Lushi, sixty-seven, five years of coal, a refused instrument in a drawer, and the first line of a page that goes to nobody** |
+| 653 | MIDPOINT: watch him take it | **MIDPOINT IRREVERSIBLE: taken at the second hour of the eleventh, spent in his hands, and the stool he cannot get off** |
+| 654 | let him write · his fair hand, truly | **THE SEVEN SENTENCES, of which five are on the page in this batch, and the seventh is about carrying a person through a wall** |
+| 655 | bury the clerk | **IRREVERSIBLE: dead, ordinary, a light left burning, a handle at the foot of the board** |
+| 656 | read it alone | **read at the fourth hour in an empty room, cannot be un-read, and the fifth sentence is about her** |
+| 657 | learn the whole of it | **four things in daylight with an unasked witness, and forty-one strokes in a margin that he would not word** |
+| 658 | stay | **IRREVERSIBLE: she says it once in a lit room with a witness in it, and tells him she read him as a column for eight years, and it cannot be un-stayed** |
+| 659 | walk back east knowing | **a man of nine hundred past at nine feet, the rows walked into the second time, and a brother who found out at three and told nobody** |
+| 660 | stand where the realm ends | **the turn at dawn with a bare board, thirteen miles in the dark to get there, and *I am going up*** |
+
+### The calendar, re-derived rather than carried
+
+`((day − 134) mod 30) + 1`. **646 and 647 the fourth of the month beginning 1,994 (1,997) · 648 the fourth to the tenth
+(1,997–2,003) · 649 the eleventh to the seventeenth (2,004–2,010) · 650 the eighteenth to the twenty-fifth
+(2,011–2,018) · 651 the twenty-sixth to the thirtieth of the month beginning 1,994 and the first to the third of the
+month beginning 2,024 (2,019–2,026) · 652 the fourth to the tenth of the month beginning 2,024 (2,027–2,033) · 653 the
+eleventh to the fifteenth (2,034–2,038) · 654 the sixteenth to the twentieth (2,039–2,043) · 655 the twentieth to the
+twenty-second (2,043–2,045) · 656 the twenty-third to the twenty-seventh (2,046–2,050) · 657 the twenty-eighth to the
+thirtieth of the month beginning 2,024 and the first of the month beginning 2,054 (2,051–2,054) · 658 the second and
+third of the month beginning 2,054 (2,055–2,056) · 659 the fourth and fifth (2,057–2,058) · 660 the sixth and seventh
+(2,059–2,060). Every month-day on the page agrees with this table, checked by `grep` on `of the month beginning`.**
+
+**Ch 646 and ch 647 share day 1,997 with the stage chapter at ch 648, and this is forced, not drifted:** ch 648 is
+pinned to day 1,997 for Severance 9, so the whole of the eve has to sit on one day, in the way ch 629 and ch 630 shared
+the thirteenth in Batch 0002. 646 is the second to the ninth hour, 647 is the ninth hour and the night, and the stage
+comes at the tenth hour of the same day at the north end of the yard with the ground looking on — which is what she
+asked the man of fifty-one to write down at the fourth hour.
+
+**The going-lighter, derived per chapter and never carried down. The figure at any day D is D − 1,560, anchored on
+the eighteenth of the month beginning 1,544 = day 1,561:** 437 at ch 646, 647 and 648 · 443 at ch 648's last day · 450 at
+ch 649's last day · 458 at ch 650's last day · 466 at ch 651's last day · 467 at ch 652 · 473 at ch 652's last day · 478
+at ch 653 · 483 at ch 654 and ch 655 · 485 at ch 655's last day · 490 at ch 656's last day · 494 at ch 657 · 496 at ch
+658 · 498 at ch 659 · 499 at ch 660's sixth · **500 at ch 660's seventh, which is the figure he names out loud.** All
+verified against the formula.
+
+### The construction budget, measured from the files and not promised
+
+| Construction | Allowance | Measured across the fifteen chapters | Verdict |
+| --- | --- | --- | --- |
+| **Bracketed layer lines** | **1 in fifteen, at ch 648** | **1**, on its own line, in square brackets, character for character the pinned far-side house form with *stage nine* | **PASS** |
+| **Bracket characters anywhere in the batch** | — | **0** outside that one line | **PASS** |
+| **Bold** | 0 | **0** | **PASS** |
+| **Italic** | scarce, counted | **9 pairs**, the seven written sentences on the sheet, against Batch 0003's 6 and Batch 0002's 6 | **PASS** |
+| **Blockquotes / code fences / tables / horizontal rules** | 0 / 0 / 0 / 0 | 0 / 0 / 0 / 0, and inline backticks 0 | **PASS** |
+| **All-caps standalone lines** | 0 | **0** | **PASS** |
+| **Straight quotes / straight apostrophes** | 0 / 0 | **0 / 0**; **14 straight apostrophes were drafted and every one cut to a curly**, asserted per file; curly speech balanced in all fifteen | **PASS after repair** |
+| **Paragraphs over 90 words** | break at ~90, never over ~120 | **0**. **31 were over 90 at drafting — five of them over 120 and one at 173 — and every one was split at a natural beat**, six of them inside a speech, which turned each into a second quoted paragraph the way ch 645 does | **PASS after repair** |
+| **Duplicate `## ` inside a chapter** | 0 chapters | **0**, asserted per file. **Eleven cross-batch repeats were drafted and every one renamed**: *What Wrote On The Board · The Line In A Fair Hand · Five Days On The Floor · The Seventeenth At The Second Hour · What She Answered Him · The Stool And The Bench · Down Four Flights At The Fourth Hour · The Hand On The Boards · The Bill For Staying · What Her Brother Said · The Forty She Did Not Take* | **PASS after repair** |
+| **Titles** | 15 names, 3–12 words, under ~90 characters, unique | 15 names, 4–8 words, longest 38 characters, **0 collisions against all 645 standing headings and 0 within the batch**. One collision was drafted — *Nothing On The Board*, which stands at ch 576 — and it is **A Board With Nothing Written On It** | **PASS after repair** |
+| **Verbatim sentence reuse** | no unvaried recycling | **0 duplicated sentences of 8 words or more across the fifteen.** Two stood at drafting — the woman of sixty on the bench at ch 651 and ch 660, and the lamp in the cage at ch 652 and ch 658 — and both were recast | **PASS after repair** |
+| **Authorial scaffolding** | 0 | **0** — *this chapter · this volume · this book · the reader · in this batch · another batch · N volumes*. **Three were drafted** and cut: the line at ch 654 opening on what was different in the chapter, the *this book* at ch 655, and *the only thing in this chapter worth anybody reading* at ch 656 | **PASS after repair** |
+| **`nobody`** | under thirty volume-wide | **6 in the batch**, against **34 across ch 601–660**. 56 were drafted and recast: *no one has ever told me · no one in this county with any standing · not one person in this yard · no one has ever sent for it · not one person in this town · no one on any floor above this county · not one person who could read it · not one person left in this town · no one who passes anything on · not one person on any of these rows*, and ten more | **PASS after repair** |
+| **`eleven`** | under forty volume-wide | **3 in the batch** — the cough that got worse every year for eleven years, which is canon from ch 142, and two others — and **42 across ch 601–660**, which is OVER the outline's under-forty line and is a finding for the close, not for this phase. Forty-six were drafted and cut; the standing phrase *four hundred and eleven volumes* was drafted eleven times and is now *four hundred volumes* | **PASS after repair** |
+| **`nothing`** | hold down | **49**, average 3.3, against Batch 0003's 32 and Batch 0002's 43 over fifteen | **PASS** |
+| **`about…`** | average under 7.0 | **102**, average **6.8**, against Batch 0003's 97 | **PASS after repair — 217 were drafted and 115 recast out** |
+| **`whole of`** | under 80 volume-wide | **4 in the batch**, against Batch 0003's 1 | **PASS after repair — 39 were drafted and 35 recast out** |
+| **`out loud`** | held down; no chapter above 8 | **54**, highest in a chapter **7** (ch 656), against Batch 0003's 54 | **PASS after repair** |
+| **The retired seven phrases** | at most one | **0** | **PASS** |
+| **`about four seconds`** · **`eleven weeks`** · **`week`** | 0 / 0 / 0 | **0 / 0 / 0**. **Eight instances of `week` were drafted** — *every week · this week · a week ago · inside a week · a week to do what it has to do · twice in a week* — **and every one was cut to *out of every seven · in the last three days · nine days ago · five days · seven days · twice in seven days*** | **PASS after repair** |
+| **`thank`** | 0 | **0**. **Five were drafted** — *you have never once thanked me · she said thank you to him once · she did not thank him · she did not say thank you, twice* — **and every one was recast to *never once said so to me · she said the words once · she said none of it · she did not say the other thing.*** No person on any ground in this batch is thanked | **PASS after repair** |
+| **`forgiv`** | 0 | **0**. The asking at ch 658 is a staying and no card calls it a forgiveness | **PASS** |
+| **Banned reflexes** | 0 / 0 / 0 / 0 | **0 / 0 / 0 / 0** | **PASS** |
+| **Named weekdays / named calendar months / named weeks** | 0 / 0 / 0 | **0 / 0 / 0** | **PASS** |
+| **Surface answer** | 0 in any mouth, any form | **0** — *charged · bookkeeping · receipt · bounded world · the walls* all 0 | **PASS** |
+| **Zeroed proper nouns** | all 0 on word boundaries | **0** for `Ledger · reconciled · plate · licence · clearance · countersignature · seal · kiln-born · MEMBER ABSENT · tribulation · Anchor · Sisterhood · bargain · Hunter · Warden · Shuyin · field agent · Wall writ · vouch · week`. **`Feng` is not in the list and appears 9 times, plus `Feng Lushi` twice; `Lung` once; `appointment` once; `Ning Wu` once** | **PASS, with the batch's three named spends counted** |
+| **`Scribe`** | at most 3 in the volume, **0 in this batch** | **0.** The thing he was a piece of is on the page in Feng's hand as *a thing that had a name* and the clerk **would not write the name**, and she never goes looking for a word for it | **PASS** |
+| **`Yuan Sheng`** | counted and written down whatever it is | **1 instance**, at ch 660, in capitals on the third leaf of her own book inside her morning inventory. **It is not re-named as new and it is not in his own mouth anywhere in the volume** | counted, within scope |
+| **A figure of what is left of him** | none stated | **none.** What Feng writes is his age — nineteen, and nineteen for nineteen years — and that is not a figure of what is left | **PASS** |
+| **A scene in which he is thanked** | 0 | **0**, `thank` returns 0 across the fifteen | **PASS** |
+| **A frame scene** | none after ch 644 | **0 in this batch.** The seventh stands at ch 644 and the outline gives him six before it and none after | **PASS** |
+| **A page of either book read out loud by anybody else** | 0 | **0.** She reads Feng's four sheets alone at ch 656 and then reads them out **once**, in daylight, to a boy of sixteen who is not a keeper and holds no post, at ch 657. No page of the widow's book or the harvest book is read by anybody | **PASS** |
+| **The lever — asking twice** | not pulled anywhere in Volume 11 | **0.** It is neither carried nor mentioned in this batch and no card touches it | **PASS** |
+
+### The things this batch resolved, closed, or paid
+
+1. **THE NINTH STAGE AND ITS COST, NAMED ONCE, AT CH 648.** She cannot go back to not knowing. Not the book and not
+   the brother and not the name — knowing stops being a road back and un-knowing is nobody's work. **The bracket at
+   ch 648 is the third and last in Volume 11, and the volume has nothing else in square brackets anywhere.**
+2. **THE SKY IS UNANNOUNCED AND THE REALM IS FINISHED.** She lies on the flat with her ear to the ground for seven
+   mornings. **The layer announced her three times and the third was the last one it had, and she was the last address
+   it ever had.** Named once, in her own thought, and not explained, and she cannot say it out loud in a yard and will
+   not put it on a leaf.
+3. **HER OWN SENTENCE IS BROKEN IN THE OPEN, at ch 647.** She said in a yard at the sixth hour of the third that she was
+   not going to walk out of the fifth place in ten years, and she walks out of it inside ten days, in front of the same
+   people, at the ninth hour of the fourth.
+4. **STAYING IS NOT BEING KEPT, at ch 650.** A kept thing has somebody who put it somewhere, and she has never once
+   been anywhere on purpose that she was put in. **The consequence she works out the next two days is worse than
+   being kept: if nobody is keeping her, then anybody can.**
+5. **THE LAST RATE ON THAT GROUND ENDS, at ch 651.** The bed at the mill is finished. Six coppers the four miles, said
+   out loud going and coming, is the last number on this road, and it is the second and last time in ten years that
+   anybody has carried her for money. **She pays six without counting and cannot tell whether three is what she has.**
+6. **FENG LUSHI IS ON THE PAGE, at ch 652, five years after a hundredweight of coal bought him four years he did not
+   expect and has never said the number of.** He was sixty-two and is sixty-seven, he has blood in a cloth, and he has
+   not asked her one question since the ninety-seventh day.
+7. **THE INSTRUMENT, at ch 652–653.** Offered with a man and a list in the same year as the coal, refused once in
+   front of her for a hundredweight of coal and a chair at the second hour and his chest, and kept in a drawer for five
+   years. **He takes it at the second hour of the eleventh and it is spent the moment it is in his hands.** She consents
+   by thinking of him for eighty minutes in a lit room at the end of his bench, and he asks her what he is asking for
+   before he asks her.
+8. **THE FIFTH ORIGIN MOUTH, at ch 652–654, in a fair hand, and it is the only one of the five written on the page.**
+   Seven sentences. **A man of nineteen who has been nineteen for nineteen years and is the fourth piece of a thing
+   with a name the clerk will not write · burned out at a fire in the east, and what woke up was the piece that was
+   not burned · the levy is one in twenty, counted in days, off the board before the board goes up, made to a figure by
+   somebody who chose the figure, and it is not for the ground · a girl has been counting with him for eight years and
+   nobody told her one word · two hands hold his name and do not need her · the thing was made to find people like her ·
+   and a thing seen truly and written truly is the only instrument in the world that can take a person through a wall,
+   it is not the layer's, and nobody writes one twice.**
+9. **HE DIES, ORDINARILY, AT CH 655.** A cough, a hand, a lamp in a cage that she leaves burning with the keeper gone.
+   **She is out of the tower when it happens, by four hours and by two days, and she had asked for it to be that way.**
+   Nothing is shown of the end, and the book does not break that refusal.
+10. **SHE READS IT ALONE AT THE FOURTH HOUR, at ch 656, and cannot be un-read.** The fifth sentence is about her and
+    stops her. **She cannot say it out loud in the room and cannot write it on a leaf**, and that is the first time in
+    this life that being written down by somebody else has been the thing she could not get at.
+11. **SHE TAKES THE FOUR SHEETS AND DOES NOT COPY THEM, at ch 656.** Nobody writes one twice, and she is not going to be
+    the second one. **Her five blank leaves are five blank leaves and the volume ends with them blank.**
+12. **SHE LEARNS THE WHOLE OF IT IN DAYLIGHT WITH WITNESSES SHE DID NOT ASK FOR, at ch 657**, read out loud in a lit
+    room to a boy of sixteen who does not look up. **And forty-one strokes in the margin of the fourth sheet that he
+    saw and would not word, and that she is not going to find out.**
+13. **SHE STAYS, AT CH 658, out loud, once, in daylight, standing, in a lit room with a witness in it, and it cannot be
+    un-stayed by walking and cannot be un-stayed by un-knowing.** **And she tells him the thing nobody had told him: for
+    eight years she did not have a man, she had a column, and she has never once asked him a question that was not
+    about a number.**
+14. **THE BROTHER AT CH 659, WALKED BACK TO, THE SECOND TIME.** She says his name out loud in the open, she says the
+    levy out loud in a ground of two hundred people, and he tells her he found out about the fraction at three and has
+    said nothing to anybody in nine years because if one of them knew there would be nothing on the rows in a month.
+    **She asks him no question. She does not say the other thing. He does not say her name. It settles nothing, twice.**
+15. **SHUYIN WALKS PAST HER ONCE, at ch 659,** at nine feet, going her way, with a shut book, and says the fifth
+    sentence he has ever said to her and it is not about himself. **He is not thanked.**
+16. **CH 660, THE STAYING.** The turn at dawn and a bare board and no shed. **She says, once, out loud, standing, in
+    daylight: *I am going up*** — and the only answer is that she has not got the rest of it. **She did not say what
+    was going to answer. The sky did not. He was still talking.**
+
+### Hard canon this batch fixed, to be inherited and not re-derived
+
+| Thing | The one true value |
+| --- | --- |
+| Severance 9 | **ch 648, day 1,997, the fourth of the month beginning 1,994**, 80 days after Severance 8 at day 1,917, and **155 days after Severance 7 at day 1,842**. The third and last bracket in the volume |
+| The ninth stage's cost | **she cannot go back to not knowing. Named once at ch 648 and not re-derived.** Un-knowing is nobody's work |
+| The brackets in Volume 11 | **exactly three in sixty, at ch 616, ch 632 and ch 648, and 6 bracket characters in the whole volume.** Nothing else, nowhere |
+| Her intervals | **70 · 75 · 80.** The seventh to the ninth is **155 days**, and Severance 6 to Severance 9 is **225 days** |
+| Feng Lushi | **sixty-seven.** Sixty-two when the coal came up the road in four days on the ninety-seventh day, five years ago; a cough that got worse every year for nineteen years; blood in a cloth; **a hundredweight of coal for five winters and four years, and he has never once said the number out loud to anybody**; twenty-two years of writing announcements; a Listener's appointment he held for five years; **dead at the twenty-first of the month beginning 2,024, about the fifth hour, and buried at the fourth hour of the twenty-second, three feet from the back wall of the tower** |
+| The instrument | **one Lung, named once, in a drawer under the working rack for five years, refused once in front of her before the coal, taken at the second hour of the eleventh of the month beginning 2,024 and spent the moment it is in his hands.** It costs the person who has it on about a year. It shows one person what another person is looking at and does not shut |
+| The writing | **seven sentences, in his fair hand, across four sheets of rice paper, and the boy's room is the only other place any of it was ever said in.** Five are on the page: ch 652 (the first, on the day's sheet), ch 653 (the fourth page), ch 654 (the other five) |
+| **Forty-one strokes** | **down the right-hand margin of the fourth sheet, in the same hand, with no heading and no line under them. Feng saw a tally and did not know what it was and wrote it down anyway. She is not going to find out.** Open, and the door Volume 12 inherits |
+| What she took and what she did not | **four sheets folded four times inside her coat against her ribs, on the side where the book is. She did not copy them. Five blank leaves are five blank leaves** |
+| The fifth item | **his own unindexed column, five lines, walled behind four county copies at the back of a volume on the second shelf, gone up with the quarter and come back with it, and no one has ever sent for it. She tells the boy to leave it where it is and not to index it** |
+| The lamp | **a keeper's lamp burns while the keeper is in the building. She puts the cloth over it and leaves it burning with no keeper, and says so out loud in the room in front of a witness. The boy of sixteen will ask the carter about the quarter's bundle on the first** |
+| What she said she had been reading | **a column, for eight years, checked and read out and put where it went; twice he got a figure wrong and corrected himself in her head before she had finished being wrong; and not one question that was not about a number. Said out loud at ch 658 and not to him** |
+| Wei Ran's last rate | **six coppers the four miles, said out loud going and coming. The bed at the mill is finished. That is the last rate on this ground and there is no road behind it. It is the second and last time anyone has carried her for money in ten years.** She is down to two coppers she cannot count |
+| The brother | **walked back to at ch 659, the second time. She said his name out loud in the open. He said he found out about the fraction at three and has told nobody in nine years. She asked him no question and said none of the other thing and he did not say her name. It settles nothing, twice, and the year is not mentioned once** |
+| Shuyin | **walked east past her at nine feet on a flat with a shut book, said the fifth sentence he has ever said to her and it was not about himself. Not named on the page, not thanked, alive, old, correct** |
+| Untouched and still open | **the window a hundred yards off the east side · the lime off the bar at ch 604 · the hut light · *twenty-two days*, unplaced and equated to no dated interval · the contents of the ash barrow · the five blank leaves** |
+
+### THE VOLUME AS A WHOLE, for the close to re-measure and not to carry
+
+**`chapters/volume-11/` holds ch 601–660, sixty chapters. Word counts on method B, measured by this phase's
+`grep -v '^#' <file> | wc -w`:** Batch 0001 **29,284** · Batch 0002 **29,748** · Batch 0003 **29,966** · Batch 0004
+**29,742** — **118,740 over sixty, average 1,979 a chapter.** **TWO DISCREPANCIES THE VOLUME 11 CLOSE INHERITS ARE STILL
+OPEN AND NEITHER IS REPAIRED BY THIS PHASE.** **FIRST:** `state/current.md`, `state/continuity.md` and `state/chapter-summaries.md`
+all record Batch 0001 at **28,446** words, and ch 601–615 re-measure at **29,284** under the same method that reproduces
+0002 and 0003 exactly. Batch 0001 is a closed phase and this drafting phase may not repair its chapters. **The close
+must re-measure all sixty under one method and write the true figure.** **SECOND: two volume-wide lines are over their targets, and one word this batch had to repair out of its own
+prose is recorded as zero in an earlier batch's budget and is not zero across the volume.** Measured across ch 601–660 on method B by this phase: **`nobody` 34 against a target under
+thirty · `eleven` 42 against a target under forty · `thank` 16, against Batch 0002's recorded 0 for `thank` across
+ch 616–630 and Batch 0003's measured 0 across ch 631–645, so the sixteen are all in Batch 0001 or Batch 0002** — both
+closed phases. **`forgiv` 0 · `week` 0 · `about` 356, average 5.9, under its line · `whole of` 73, under 80 ·
+`nothing` 209, average 3.5 · `out loud` 254, average 4.2.** The close must walk all four and record the true figures.
+
+**The three Severance days and their intervals, re-derived here rather than carried: 1,842 · 1,917 · 1,997, at
+intervals of 70 · 75 · 80, and 155 from the seventh to the ninth.** **The bracket count must be exactly three in sixty,
+at ch 616, ch 632 and ch 648, and 6 bracket characters in the volume — measured, not carried.**

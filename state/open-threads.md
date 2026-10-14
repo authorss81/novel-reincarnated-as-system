@@ -2788,3 +2788,51 @@ line, at ch 632. Severance 7 until ch 632 and Severance 8 from it. The batch's i
   one morning nineteen years ago, and no wing, no rank list, no committee and no title beyond what the dead held. **No
   chapter in this batch put her inside the harvest**, and no page of either book is read out loud by anybody.
 - **The Hunter's request is still pending** and a Wall writ is not issued to a field agent.
+
+## Volume 11 Batch 0004 (ch 646–660) — the volume closes, and what Volume 12 inherits
+
+**Fifteen chapters, 29,742 words of body prose on method B, average 1,982, day 1,997 to 2,060. ONE bracketed layer
+line, at ch 648, and it is the third and last in the volume and the last one in this realm. Severance 8 until ch 648
+and Severance 9 from it. Three irreversible steps: ch 653, ch 655, ch 658. Pressure: **staying**. Full record in
+`state/continuity.md` under ***VOLUME 11 BATCH 0004 — ch 646–660***.**
+
+| Thread | Owner | Planned resolution | State |
+| --- | --- | --- | --- |
+| **Severance 9** | Ning Yan | **Vol 11, Batch 0004 — paid at ch 648** | **CLOSED. Held at day 1,997, the fourth of the month beginning 1,994, eighty days after the eighth and a hundred and fifty-five after the seventh, in the open, with a line in a second hand written about it at the fourth hour. Its cost, named once: she cannot go back to not knowing. It is the last stage in this realm and the layer has said nothing since** |
+| **The staying** | Ning Yan | **Vol 11, Batch 0004 — paid at ch 658** | **CLOSED AS AN IRREVERSIBLE STEP. Said once, out loud, standing, in daylight, in a lit room with a witness in it who was not asked. It cannot be un-stayed by walking and cannot be un-stayed by un-knowing. The asking at ch 658 is a staying and no card called it a forgiveness** |
+| **Feng Lushi** | Feng | **Vol 11, Batch 0004 — ch 652–655** | **CLOSED. Sixty-seven, a cough that got worse every year for nineteen years, blood in a cloth, five winters of coal bought out of a hundredweight that came up a road in four days five years ago. Took a Lung at the second hour of the eleventh of the month beginning 2,024 and it was spent the moment it was in his hands. Wrote seven sentences in a fair hand. Died at about the fifth hour of the twenty-first and was buried at the fourth hour of the twenty-second, three feet from the back wall of the tower, with a handle taken by her at the foot of the board. He is not thanked** |
+| **The fifth origin mouth** | series | **Vol 11 — 5 of 5, paid** | **CLOSED. ch 652, 653 and 654, in Feng's fair hand, seven sentences, the only one of the five written on the page. The origin is paid: fragment, harvest at nineteen, a levy of one in twenty made to find people like her, a name kept in two hands. `Scribe` returns 0 in this batch — the thing he was a piece of is on the page as *a thing that had a name* and the clerk would not write it. The moral answer is not paid and nothing proves the crews wrong** |
+| **Ning Wu** | family | **Vol 11 — ch 659, the second and last** | **CLOSED AS SPENT TWICE. Named once, out loud, in the open, in a ground of two hundred people. He told her he found out about the fraction at three and has said nothing to anybody in nine years because if one of them knew there would be nothing on the rows in a month. She asked him no question and said none of the other thing and he did not say her name. It settles nothing and the year is not mentioned once. `Ning Wu` returns 1 across ch 646–660** |
+| **The Hunter** | Bai Zhu | **Vol 11 — his one appearance in this batch** | **CLOSED. ch 650, nine feet off her left shoulder on a rise. She asked whether staying is the same as being kept. He said it is not, because a kept thing has somebody who put it somewhere, and he has watched it turn into keeping three times and gives her two of them and will not give her the third. His request is still pending and he does not raise it. `Hunter` returns 0 across the whole volume** |
+| **Wei Ran** | relationship | **Vol 11 — ch 651, the second and last card** | **CLOSED. The last rate on this ground: six coppers the four miles, said out loud going and coming. The bed at the mill is finished and the road behind the rate finished with it. She is not going to ask her for the last mile and would have said yes. Nothing in the card that is not a trade** |
+| **Shuyin** | Shuyin | **Vol 11 — the walking past, spent** | **CLOSED. ch 659, at nine feet on a flat four miles short of a wall, going her way with a shut book. He said the fifth sentence he has ever said to her and it was not about himself. Alive, old, correct, not thanked. `Shuyin` returns 0 on the page** |
+| **The road up** | series | **Vol 12 — opened at ch 660** | **OPEN AND THE DOOR. At the sixth hour of the seventh of the month beginning 2,054, on a store road, with a bare board behind her and nothing in the sky that has ever been announced, she said out loud once, standing, in daylight: *I am going up.* She has not got the rest of it, nobody in nine days of road has ever been up one, and there is no ceiling to go through because the last of it went into the ground in front of forty people. Nothing on the page previews what is up there** |
+| **Forty-one strokes** | series | **not planned anywhere; left open on purpose** | **OPEN AND UNPLACED. Forty-one short strokes down the right-hand margin of the fourth sheet, in Feng's hand, with no heading and no line under them. He saw a tally and did not know what it was and wrote it down anyway, and wrote no word about it. She has carried them since and said out loud that she is not going to find out what they are** |
+
+### Held, confirmed, not touched by Batch 0004
+
+- **The year of non-forgiveness is not mentioned once.** `forgiv` returns 0 across the fifteen chapters. The staying at
+  ch 658 is a staying.
+- **Nobody is thanked.** `thank` returns **0 across ch 646–660** and no person on the furnace ground, at the turn, at
+  Lowwater or in the rows is thanked, including Feng.
+- **No figure of what is left of him** is stated anywhere in the batch. What the clerk wrote down is his age — nineteen,
+  and nineteen for nineteen years — and that is not a figure of his remainder.
+- **The terms do not move.** One at a time, in daylight, standing. No chapter in this batch had her asking two things at
+  once, and the lever is not pulled anywhere in Volume 11.
+- **The costs she carries as facts and did not re-derive:** she cannot hear what she is told about him, and it runs
+  both ways · she cannot be counted where she stands · she cannot follow a name she is given · she cannot keep what
+  she finds by holding it · she cannot be given anything · she cannot be paid · the reach answers a question and only a
+  question · she cannot keep him by asking.
+- **The uncleared retirements stand**: `Ledger` 0 · `reconciled` 0 · `plate` 0 · `kiln-born` 0 · `MEMBER ABSENT` not
+  raised · the register unread · the eleven not raised · the four erased months never named · the ch 150 refusal not
+  softened · no new clearance, seal or countersignature named or implied · **one Lung and one appointment and both are
+  Feng's and both are spent, and Feng is dead after ch 655**.
+- **The surface answer is not re-voiced.** `charged · bookkeeping · receipt · bounded world · the walls` are all 0.
+- **The furnace sect is still not a hall, a conspiracy, a court or a throne.** One furnace, one harvest book, one rule,
+  one morning nineteen years ago, and no wing, no rank list, no committee and no title beyond what the dead held. **No
+  chapter in this batch put her inside the harvest**, and no page of either of the furnace books is read out loud by
+  anybody.
+- **The Hunter's request is still pending** and a Wall writ is not issued to a field agent.
+- **Still OPEN and deliberately unspent, for Volume 12:** the window a hundred yards off the east side · the lime off
+  the bar at ch 604 · the hut light · ***twenty-two days*, still unplaced and placed against no dated interval in this
+  batch** · the contents of the ash barrow · the five blank leaves · the forty-one strokes.

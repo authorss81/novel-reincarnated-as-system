@@ -1996,3 +1996,134 @@ second hour on the morning after and has said so, and what was in the barrow is 
 Her five blank leaves are five blank leaves. The lever is carried, not pulled, and not written. **Nothing is forgiven
 and nothing is thanked.** The eighth frame scene is on the page and he has put three sentences in front of her and
 refused a fourth. **Day 1,997, the fourth of the month beginning 1,994, is SEVERANCE 9 and one day off.**
+
+## Volume 11, Batch 0004 (ch 646–660) — *What He Was* — day 1,997–2,060 — VOLUME 11 CLOSED ON THE PAGE
+
+Pressure: **staying**. Fifteen chapters, 29,742 words of body prose on method B — every line not beginning `#` —
+average 1,982 a chapter. **One bracketed layer line, at ch 648, and it is the last one in the volume and the last one
+in this realm.** Severance 8 until ch 648 and Severance 9 from it. Three irreversible steps: ch 653, ch 655, ch 658.
+Per chapter: 1,841 · 1,956 · 1,812 · 1,853 · 1,821 · 1,839 · 2,368 · 2,300 · 1,928 · 1,955 · 2,051 · 2,028 · 1,965 ·
+1,920 · 2,096.
+
+- **ch 646, day 1,997 (the fourth of the month beginning 1,994), *What Eighty Days Comes To*. DECISION.** She counts
+  the interval out loud in the grit at the foot of the stack — seventy, seventy-five, eighty — and gets to the thing
+  she has not let herself look at: **the gaps are getting longer**, and nobody has ever told her the spacing is for.
+  **She asks the man of fifty-one for a line in his hand about a thing that has not happened yet**, and he writes it
+  square at the top of the board with the day against it and nothing under it: *Stage taken. Tenth hour of the fourth.
+  North end of the yard, in the open, ground looking on. A person present who can say so.* **She chooses the tenth hour
+  so that the stage cannot take the seventh, which is the hour she gives to questions.** 437 days.
+- **ch 647, day 1,997, *A Tower With A Light In It*. DECISION.** She walks out of the east gate with nothing in her
+  hands and works out that every figure she has about him is in a head nineteen years old. The tower with a light in it
+  arrives — a hauler's report from five years back, a tower she has never seen — and under it the building four miles
+  down a mountain with a lamp in a cage on the fourth landing and a clerk who believed her. **She tells the man of
+  fifty-one she is going west in the morning, and he says he will leave her figures up for a month and rub them out on
+  the second.** **And she breaks her own sentence in the open: at the ninth hour of the fourth she tells the yard that
+  she said two days ago that she was not going to walk out of this ground, and she is walking out of it.** 437 days.
+- **ch 648, day 1,997–2,003, *What The Ninth Took Away*. SEVERANCE 9. THE BATCH'S ONE BRACKET.** The tenth hour, in
+  the open, with the ground looking on and a line already written in a fair hand. Ten seconds and no sound. **THE COST,
+  NAMED ONCE: she cannot go back to not knowing. Not the book and not the brother and not the name — knowing stops
+  being a road back and un-knowing is nobody's work.** She tries it on the sixth day and the name comes back word for
+  word, the same as a road. The woman of forty-five tells her a true thing twice and it does not arrive, and says so
+  herself. The long hold still costs her four days of work. 437–443 days.
+- **ch 649, day 2,004–2,010, *The Sky Says Nothing Back*. EMOTIONAL CONSEQUENCE.** Seven mornings of lying on the flat
+  with her ear to the ground, and there is no tenth stage and no announcement and no eighth minute of any hour. **The
+  layer announced her three times and the third was the last one it had, and she was the last address it ever had.**
+  She stands on the nine paces by six one last time and does not stop on it. She cannot say the silence out loud in a
+  yard, and she will not put it on a leaf. **At the fourth hour of the seventeenth she walks out of the east gate for
+  the last time.** 444–450 days.
+- **ch 650, day 2,011–2,018, *Whether Staying Is Keeping*. REVELATION.** The man with the shut notebook on a rise
+  west of the wall. She asks him one question, standing. **No — staying is not being kept, because a kept thing has
+  somebody who put it somewhere, and she has never once been anywhere on purpose that she was put in.** He has watched
+  it turn into keeping three times and gives her two of them, the second being a man who stayed on a ground for
+  nineteen years because a fifth of a day came off his work and nobody ever told him. He will not give her the third.
+  She works out that not being kept is worse than being kept. 451–458 days.
+- **ch 651, day 2,019–2,026, *The Road Stops At The Turn*. COST.** Wei Ran comes out of the west with an empty cart and
+  the number is said out loud going and coming: six coppers the four miles. **That is the second and last time anybody
+  has carried her for money in ten years.** **The bed at the mill is finished, so the last rate on this ground ends, and
+  Wei Ran says she is not going to ask her for the last mile and would have said yes.** She pays six without counting
+  and gets three, then two, then three. She walks five days west and sees her own face in a shuttered window and is
+  not pleased with it. 459–466 days.
+- **ch 652, day 2,027–2,033, *A Fair Hand And A Cough*. EMOTIONAL CONSEQUENCE.** **Feng Lushi is sixty-seven.** He was
+  sixty-two and a hundredweight of coal came up a road in four days five years ago, and he has got four years out of
+  it and has never said the number out loud. There is blood in a cloth in the side of his coat. He has not asked her
+  one question since the ninety-seventh day and does not ask her one now. **She asks him whether there is a thing in
+  the world that can show a person what another person sees.** He has had one in a drawer for five years — he refused it
+  before the coal, in front of her, and the reason was a hundredweight of coal and a chair at the second hour and his
+  chest. He says the one word for it once and spends it. **At the fourth hour he writes one line on the day's sheet and
+  turns it round so she can read it, which is not necessary and is not allowed.** Six days of not asking him anything.
+  467–473 days.
+- **ch 653, day 2,034–2,038, *The Instrument In His Hands*. THE MIDPOINT. IRREVERSIBLE.** **MIDPOINT: HE TAKES IT AND
+  THERE IS NO GIVING IT BACK.** Three things first, standing: it shows him what she is looking at, it costs the person
+  who has it on about a year, and he is going to look at him and not at her. He asks her to think of him for an hour and
+  three quarters in a lit room at the end of his bench, and tells her what he is asking for before she does it. She does
+  it for eighty minutes without losing it once. **The cost to him is immediate: he cannot get up off a stool without a
+  hand on the bench, and the drawer is shut for the rest of his life.** Four days of writing; he coughs; he finishes at
+  the third hour of the fifteenth and tells her to have it alone and not that night. 474–478 days.
+- **ch 654, day 2,039–2,043, *What He Wrote While He Can*. REVELATION.** He writes the last of it at the sixth hour of
+  the sixteenth with the light on it and reads every sentence as he puts it down, because on the second afternoon she
+  caught him saying the first one to an empty room. **THE WRITING: a man of nineteen who has been nineteen for
+  nineteen years and is the fourth piece of a thing with a name the clerk will not write; burned out at a fire in the
+  east; a levy of one in twenty that is not for the ground and was made to find people like her; a girl who worked all
+  of it out with a stick; two hands holding a name that do not need her; and a seventh sentence — a thing seen truly and
+  written truly is the only instrument in the world that can take a person through a wall, it is not the layer's, and
+  nobody writes one twice.** The boy of sixteen copies two pages four feet away for an hour and a half and does not look
+  up. 479–483 days.
+- **ch 655, day 2,043–2,045, *A Light That Did Not Stop*. IRREVERSIBLE: HE IS DEAD.** The boy of sixteen carries the
+  quarter's bundle down four flights and back up empty. **She is out of the tower when it happens, and that is by four
+  hours and two days, and she had asked for it to be that way.** The boy finds her on a paving stone and says *he has
+  stopped* and had been standing there eight minutes. **Nothing is shown of the end.** A keeper's lamp burns while the
+  keeper is in the building and she puts the cloth over it and leaves it burning. She takes a handle at the foot of the
+  board at the burial and puts him in the ground with her own hands, and not one word is said to her about it. The
+  fifth item in his own column is walled behind four county copies and no one has ever sent for it. 483–485 days.
+- **ch 656, day 2,046–2,050, *Rice Paper And One Hand*. DECISION, AND IT CANNOT BE UN-READ.** She opens the drawer at
+  the fourth hour of the twenty-third, alone, in an empty copying room with a lamp burning that ought not to be. Seven
+  sentences across four sheets. **The fifth one stops her, and it is about a girl, and it is the first true thing
+  anybody has ever written about her in a hand that is not hers.** She cannot put one word of it into her own book,
+  and she cannot say it out loud in the room — she gets four words and stops. She takes the four sheets out of the
+  drawer at the sixth hour of the twenty-seventh and folds them inside her coat, says out loud that she is taking them
+  and why, and does not write one word of it on any of the five blank leaves. 486–490 days.
+- **ch 657, day 2,051–2,054, *The Four Things That Were True*. REVELATION.** **She reads all seven out loud at the
+  sixth hour in daylight with a boy of sixteen in the room who was not asked and who did not lower his eyes.**
+  Four things, in order: he was the fourth piece of a thing with a name and what woke up was the piece that was not
+  burned; the thing is not gone and has said nothing in nineteen years; the levy is not for the ground; the name is in
+  two hands that do not need her. **And a fifth thing with no word on it at all: forty-one strokes down the margin of
+  the fourth sheet that Feng saw and would not write one word about, and that she is not going to find out.** She tells
+  the boy to leave the fifth item where it is and not to index it. 491–494 days.
+- **ch 658, day 2,055–2,056, *The Thing She Does Not Un-Say*. IRREVERSIBLE: SHE STAYS.** She goes back up the four
+  flights at the sixth hour of the second. **She tells the boy of sixteen she is going to say one thing and he cannot
+  leave, and he stays.** She says the thing she has never said to him: **for eight years she did not have a man, she
+  had a column, and she has never once asked him a question that was not about a number, and she thought that was
+  respect.** Then she says the staying, once, in daylight, standing, in a lit room with a witness in it. **He tells her
+  what it costs and then tells her the new part: a thing said to two people is a thing that has happened, and she
+  cannot un-stay it by walking and cannot un-stay it by un-knowing.** 495–496 days.
+- **ch 659, day 2,057–2,058, *Walking Back Into The Rows*. EMOTIONAL CONSEQUENCE, AND IT SETTLES NOTHING.** She walks
+  east out of Lowwater and past the rows on the second day and does not stop on the crest, as she did nine years ago,
+  and goes in. **A man of nine hundred years old with a shut book goes past her on the flat at nine feet and neither of
+  them says one word, and he says the fifth sentence he has ever said to her and it is about a man of nine hundred and
+  it is not about himself.** She says his name out loud in the open, which is the second time and the first in front of
+  people. She says the levy out loud in a ground of two hundred people. **And her brother tells her he found out about
+  the fraction at three and has not said a word to anybody in nine years because if one of them knew, there would be
+  nothing on the rows in a month.** She asks him no question. She does not say the other thing. **He does not say her
+  name.** 497–498 days.
+- **ch 660, day 2,059–2,060, *A Board With Nothing Written On It*. THE STAYING. THE END OF VOLUME 11.** Thirteen miles
+  in the dark from the barrow ground to the turn, arriving at the first hour with the board on two posts bare. The woman
+  of sixty says out loud that she is not going to give her a third copper and is not going to ask her for one. **She
+  gets the whole of it out in her own head at the third hour and it is two coppers she cannot count and five blank
+  leaves and four sheets of a fair hand.** She looks up and there is nothing over her that anybody can point at and
+  nothing in the sky that has ever been announced. She stays on the turn through the whole of the sixth and through the
+  night because there is no shed at the turn. **At the sixth hour of the seventh she says, once, out loud, standing, in
+  daylight: *I am going up*** — and he says *say the rest of it*, and she says she has not got the rest of it, and he
+  says that is the first thing she has said in five hundred days that is not a figure. She says she is not going up
+  because he is up there and she does not know whether he is. **She did not say what was going to answer. The sky did
+  not. He was still talking.** 499–500 days.
+
+### What Volume 11 closes, and what Volume 12 inherits
+
+**Severance 9, held at day 1,997, the fourth of the month beginning 1,994, eighty days after Severance 8 and a hundred
+and fifty-five days after Severance 7. Its cost, named once at ch 648: she cannot go back to not knowing.** The ninth is
+the last stage in this realm and the layer has said nothing since and never will. She has read the whole of what he was
+in a dead clerk's fair hand, out loud, in daylight, in front of a boy of sixteen, and she has said out loud that she is
+staying, and neither can be taken back. **A founder's fair hand is in her coat against her ribs and five blank leaves
+are still five blank leaves.** Her brother is walked back to, twice now, and has not forgiven her and has not. Wei Ran's
+rate has ended and the road behind it ended with it. The Hunter's request is pending and he does not raise it. Shuyin
+went past her on a flat and was not thanked. **The sky is the only thing in the world nobody has read.**

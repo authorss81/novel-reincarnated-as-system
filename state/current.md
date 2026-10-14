@@ -5129,3 +5129,72 @@ drafted into the repair and recast back out**, leaving the batch at zero against
   last hour of the light. The going-lighter at any day D is **D − 1,560**. Days on the furnace ground from day 1,857
   is **139** at the last page. Days from the turn (day 1,842) is **154**. A board goes down on the second of a month
   and the furnace ground's next one is **day 1,994**.
+
+## Who is where at end of ch 660 — VOLUME 11 CLOSED ON THE PAGE (cold reader starts here)
+
+**Day 2,060, the seventh of the month beginning 2,054, at dawn. She is standing at the turn on the store road with a
+board on two posts four hundred yards behind her and nothing written on it. Full record in `state/continuity.md` under
+***VOLUME 11 BATCH 0004 — ch 646–660*** and ***Hard canon this batch fixed***; the per-chapter line is at
+`state/chapter-summaries.md` under *Volume 11, Batch 0004 (ch 646–660)*.*
+
+**VOLUME 11 IS ON THE PAGE: `chapters/volume-11/` HOLDS CH 601–660, SIXTY CHAPTERS, FOUR BATCHES DRAFTED, 118,740 WORDS
+OF BODY PROSE ON METHOD B — every line not beginning `#`, average 1,979 a chapter (Batch 0001 29,284 · Batch 0002
+29,748 · Batch 0003 29,966 · Batch 0004 29,742). THREE BRACKETED LAYER LINES IN SIXTY, AT CH 616, CH 632 AND CH 648,
+AND SIX BRACKET CHARACTERS IN THE WHOLE VOLUME. SEVERANCE 9, HELD AT DAY 1,997. THE VOLUME'S THREE IRREVERSIBLE STEPS
+AT CH 653, CH 655 AND CH 658. THE NEXT PHASE IS THE VOLUME 11 CLOSE, `workspace/volume-11-close/PROMPT.md`, WHICH THIS
+PHASE DID NOT WRITE AND MAY NOT WRITE.** *Two discrepancies this phase found and did not repair are recorded at the foot
+of `state/continuity.md`: Batch 0001's recorded 28,446 re-measures at 29,284, and `nobody` 34, `eleven` 42 and `thank` 16
+are volume-wide figures the close must re-measure. Both are in closed phases.*
+
+- **Ning Yan** — **SEVERANCE 9**, taken at the tenth hour of day 1,997, the fourth of the month beginning 1,994, eighty
+  days after the eighth and a hundred and fifty-five after the seventh, in the open at the north end of a furnace ground
+  with the ground looking on and a line already written in a fair hand about it. **Its cost, named once at ch 648: she
+  cannot go back to not knowing.** Not the book and not the brother and not the name — knowing stops being a road back,
+  and un-knowing is nobody's work. **Five hundred days lighter at the last page, the first day counted as the first,
+  and not one of them going back. Not hungry. Nineteen years old.**
+- **What she is at the last page.** A bar nine feet nine across her shoulders. A skin. A bag with a dish, a lump of
+  clay, a ring a finger's width, a stub of a nib and a cake of ink she opened on the seventh of the month beginning
+  1,874. **Two coppers she cannot count.** A book of eight leaves against her ribs: a date and a place on the first,
+  four sentences on the second, `YUAN SHENG` on the third in her own hand, **and five that are hers and that are still
+  blank.** **Four sheets of rice paper in a dead clerk's fair hand, folded four times, against her ribs on the side
+  where the book is** — seven sentences, read alone at the fourth hour and then read out loud once in daylight in front
+  of a boy of sixteen, and taken out of a locked drawer and not copied, because nobody writes one twice. Two things
+  against her ribs and she has called neither of them anything.
+- **What the batch changed.** She stood the ninth stage and lost the road back · she lived past the last ceiling and the
+  layer never said another word · she broke her own sentence in a yard and walked west · she asked a man with a shut
+  notebook whether staying is being kept and it is not · the last rate on that ground ended and the road behind it ·
+  **Feng Lushi took a Lung at the second hour of the eleventh, wrote seven sentences in a fair hand, and died
+  ordinary at about the fifth hour of the twenty-first of the month beginning 2,024** · she read the writing alone and
+  could not put one word of it anywhere · **she read it out loud in daylight with a witness she had not asked for** ·
+  **she said out loud, once, in a lit room, that she is staying, and told him she had been reading him as a column for
+  eight years, and neither can be taken back** · she walked back east into the rows and named her brother in the open
+  and it settled nothing, twice · **and at a turn at dawn with a bare board she said she is going up.**
+- **The batch's three irreversible steps, and the outline names all three.** **ch 653 — the instrument is taken and spent
+  in his hands and the drawer is shut for the rest of his life. ch 655 — Feng dies, ordinary, and it cannot be un-died.
+  ch 658 — she stays knowing and it cannot be un-stayed.**
+- **The fifth origin mouth is on the page at ch 652–654, in his fair hand, and it is the only one of the five written
+  down.** A man of nineteen who has been nineteen for nineteen years and is the fourth piece of a thing with a name the
+  clerk would not write · burned out at a fire in the east and what woke up was the piece that was not burned · the levy
+  is one in twenty and it is not for the ground and it was made to find people like her · a girl who worked all of it
+  out with a stick and two hands that hold his name and do not need her · and a thing seen truly and written truly is the
+  only instrument in the world that can take a person through a wall.
+- **Untouched and still open.** The window a hundred yards off the east side · the lime off the bar at ch 604 · the hut
+  light · ***twenty-two days*, unplaced and equated to no dated interval** · the contents of the ash barrow · **forty-one
+  strokes down the margin of the fourth sheet that Feng saw and would not word, and that she is not going to find
+  out** · the five blank leaves.
+- **Nothing is forgiven and nothing is thanked.** `forgiv` and `thank` both return **0 across ch 646–660**. **No figure
+  of what is left of him is stated anywhere in the batch** — what the clerk wrote is his age, not his remainder. There
+  is no frame scene in this batch; the seventh stands at ch 644 and none follows it.
+- **Who acted at the close.** She acted — an asking, a reading, a telling, a staying and a road up. He acted — the
+  terms at the gate long ago, a frame scene, being read without stopping it, and answering every question she put in
+  daylight. Feng acted — a Lung taken, a writing, a death. Wei Ran acted — a last rate and the road stopping. The man
+  with the shut notebook acted — a shape and a refusal to describe the third time. A boy of sixteen acted — carried a
+  bundle down four flights and did not look up for an hour and a half. A brother acted — nine years of silence about a
+  fraction. A man of nine hundred walked past. **And the ground acted by needing nothing from her again, the fourth time
+  in eleven volumes that it has done nothing at all.**
+- **The three Severance days re-derived rather than carried: 1,842 · 1,917 · 1,997, at intervals of 70 · 75 · 80, and 155
+  from the seventh to the ninth.** The going-lighter at any day D is **D − 1,560**, anchored on the eighteenth of the
+  month beginning 1,544 = day 1,561. A board goes down on the second of a month and comes up on the first, and the
+  board at the turn has been bare since she left it.
+- **Next phase:** **VOLUME 11 CLOSE — walk `outline/volume-11.md` section by section against ch 601–660, measure all
+  sixty chapters under one method on method B, repair what the walk finds on the page, and write the close record.**
