@@ -1053,3 +1053,80 @@ it going up the mill road on the first. Fifteen coppers and no bread. Four finge
 close. A strip that went east and did not come back, and a column that came back with two lines off it, and a man at a
 gate two miles up the mill road with a burn on his hand, and a woman of forty-five who has read forty thousand columns
 and who is going to read something out loud in a room.
+
+## Volume 7 Batch 0003 (ch 390–404) — what this batch added, live going into Batch 0004
+
+**Recorded at the Volume 7 Batch 0003 drafting phase, ch 404, day 1,020. Full record in `state/continuity.md` under
+***Established facts, Volume 7 Batch 0003 (ch 390–404) — THE REACH ON PURPOSE***,
+***Volume 7 running ledger — at the last page of Volume 7 Batch 0003, day 1,020*** and ***Construction budget —
+Volume 7 Batch 0003 (ch 390–404), measured by grep, not promised***.**
+
+### New in this batch, and open
+
+| Thread | Status at ch 404 |
+| --- | --- |
+| **She can never refuse a reading** | **NEW, AND IT IS THE BATCH'S IRREVERSIBLE COST, AND IT CANNOT BE SPENT BACK.** On the twenty-second at about the eighth hour a man behind a counter read her a question off a strip in daylight on a step and she said *Yes*, in the ordinary voice, at four feet, and he wrote eleven words in the seasonal book, which shuts: *Ning Yan, of Lowwater. At the gate three miles east of the mill. The twenty-second.* **The reason is not a rule. An office on this ground now holds an answer that has already been given, and a second refusal would be a refusal of an answer already given, and an office that holds an answer already given does not accept a second one.** **She cannot know, for certain, how far that goes.** |
+| **The reach** | **NEW, AND IT IS THE ENGINE.** It goes four feet and stops, it does not go where she is looking, and **a thing she reaches cannot be put back where it was.** Nine deliberate uses in nine days at the yard at the turn, **five dressed stones out of the low side of that yard**, one of which she put there trying to undo an earlier one. **She has found out that the fire moves when she asks**, and that is the same fire as her furnace, and nobody inside nine days of road can be told |
+| **A line read upward** | **NEW, AND IT IS THE BREAK.** At ch 401, away from her hearing, a man who is held lets a send reach him and answers it, and the answer is carried up the holding to the place that sends strips down the mill road, **which has never been done on that ground in eleven hundred years of practice.** It arrives on her road on the twenty-second as a question and is answered on a step. **She was not got, and she worked that out on the boards nine times while standing in the middle of a made road** |
+| **Yuan is answerable** | **NEW, AND IT IS WORSE THAN BEING SENDABLE.** He can be findable and refused once. **An answer cannot be refused at all, because an answer is the only one of the three that is a thing anybody can quote.** Said in his own mouth in the third frame scene at ch 401. **His unentered state, his unnamed state and the date of the morning he died all stay gone and none of them is given back.** `Ledger` returns **zero** across all fifteen files and **no figure of what is left of him is on any page** |
+| **Her name in two books** | **NEW, AND IT CANNOT BE TAKEN OUT.** At ch 403 she asked a woman of forty-five, out loud, in a room with forty books open on it, to take her name out of the stair book. **She cannot get it out of that one and she cannot get it out of the copy on the floor below, because both books went off this floor for eight days and came back.** Rao said it in four sentences and was right about all four. **This is the first time since ch 388 that she has asked anything out loud and been told no, and it was not a refusal, and she cannot tell which of the two she is holding** |
+| **Two holders against a date** | **NEW, AND IT IS GOING UP A ROAD.** The yard book of a yard at the turn came back down the mill road twice with two lines at the foot of the page. The second time it said **two holders are now required against the seventeenth of a month and there is one holder on this ground.** The man with a rule in his hand wrote his margin note in his own hand, exactly as he said he would eleven days before, **and three men at that yard have read it** |
+
+### The batch's own reversals, paid on the page
+
+- **A woman who has read forty thousand columns read one back to the person it belongs to, and the column contains a
+  refusal, and it is the only refusal in the set** — and the strongest thing in that building is a column, said once,
+  in Rao's mouth, and not said again.
+- **A stage in the open at the seventh hour with nine men on a yard**, and then a reach put into a stone on purpose
+  with a man's leg under it, and the stone went four feet sideways into a hole.
+- **She tried to put it back and it opened a second hole**, and four men on the bed said *they have put another one in
+  there* without turning round.
+- **Merit settled once on a listed sill course, the share told twice before it was spent, and the fire went off for
+  four days** and came back on the sixth, on its own.
+- **A strip came into a counting house with no cart and no post on the road**, and the answer that came with it was
+  about a woman at a gate, and she said yes.
+
+### Held, confirmed, and not touched by Batch 0003
+
+- The register still reads *reconciled* and **nothing in ch 390–404 reads it** (`reconciled` returns **zero**). The
+  Clay Plate is worn against her ribs, `plate` returns **zero**, and it was not described. The relicensed licence was
+  never opened and is never referred to (`licence` and `license` both return **zero**). MEMBER ABSENT was never raised
+  (**returns zero**).
+- **The year of non-forgiveness is not mentioned once in fifteen chapters and is still carrying.**
+- `Ledger` returns **zero** across all fifteen files. **Hand is spent once in Volume 7, across ch 401–402**, and is
+  refused once, out loud, at ch 419 in Batch 0004. **Merit settled once** (a listed sill course at the south end of
+  the yard at the turn, not a death), **the share is four days and two hours, told out loud twice before it was spent**,
+  spent out of her foundation on nothing, **the price is four days of a fire that did not come up**, and **no figure of
+  what is left of him is stated on any page.**
+- **The Hunter is not on the page in this batch.** **His request is still pending. A writ is not issued to a field
+  agent. The people who live on that line still do not know she exists.** He is Batch 0004's.
+- **No office is named anywhere in ch 390–404 and nothing above the third floor, and nothing above the counting house,
+  and nothing above the standing room two miles up the mill road, is entered, described or named.** The surface answer
+  is not re-voiced. The structural answer continues in **two mouths of Volume 7's six** (ch 391, Rao, and ch 398, a
+  woman who drives clay) and **the tenth part is still not given and nothing proves the crews wrong.**
+- **Nothing in this batch kills anybody.** No harem and nothing a romance; **Wei Ran is not on the page.** **Rao is a
+  trade, a floor, a rate and an opinion and nothing else, and the arrangement is four hours a month of a room with a
+  woman in it.** Feng does not appear and no second Lung and no second appointment. Ning Wu and Ning Bo do not appear.
+  Hou Sanliang is paid, never met and not on the page. What became of the eleven is not raised and the four months
+  erased in Chapter 3 are never named. **She never says her mother's name.**
+- **The refusal at ch 358 is untouched.** The man behind a counter said on the step, on the twenty-second, that it is
+  still in that book, that nothing has come off it, and that he is not going to touch it. **What has gone is the second
+  time, not the entry.**
+- **Dai and Geng are still unspent** and both belong to Batch 0004. **The ch 335 / ch 338 refrain and the ch 369
+  refrain are both spent and neither was re-voiced as itself.** **The fine hand was not read** and the one person whose
+  trade it is was not on the page. **The post with the board, nine miles west, was not visited.**
+
+### What Batch 0004 inherits, in one paragraph
+
+**Day 1,020, the seventeenth of the month beginning 1,004. A gate three miles east of a mill whose wheel has not
+turned, a shed, a yard four miles east at the turn, a counting house on the mill road, and a third floor above it
+with nine steps and a turn in the landing.** Nascent Soul 5, taken on the twenty-sixth of the month beginning 974 at
+the seventh hour in a yard with nine men on it, **bracket 4 of six**, **she cannot be given anything**, and her hand
+cannot lie, and a thing she reaches goes four feet and does not go back. **A furnace that comes up wherever she is with
+another living thing in the room.** A book on the top floor with her name in it going up the mill road on the first,
+**now in two books that shut, and she has asked out loud for it to be taken out.** A second line about her in the only
+book on nine days of road that shuts. **A page on its way up the mill road with two holders required against a date on
+it.** Four coppers and bread for three days. Four fingers and a thumb and an arm that does not close. A strip that
+went east and did not come back, and a column that came back with two lines off it, and a man with a burn on his hand
+two miles up the road who is not going to be asked for anything, and a woman of forty-five who is going to read
+something out loud in a room.
