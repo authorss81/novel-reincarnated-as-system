@@ -429,21 +429,21 @@ deviation, and where the sixteen findings went*.
 
 ## Volume 8 Batch 0001 (ch 421–434) — AN ARRIVAL
 
-**Volume 8 opens on the page. Fourteen chapters, day 1,091 to day 1,152, 27,632 words of body prose, average ~1,974.
+**Volume 8 opens on the page. Fourteen chapters, day 1,091 to day 1,152, 27,657 words of body prose, average ~1,976.
 One bracketed layer line in the whole batch, at ch 434. Batch irreversible step at ch 432. Midpoint at ch 427.
 Physical-risk card at ch 430.**
 
-- **421 — The Eighteenth, And Nothing Else.** Day 1,091, the twenty-eighth. The rail at the sixth hour with forty-nine
+- **421 — The Eighteenth, And Nothing Else.** Days 1,091–1,092, the twenty-eighth and the twenty-ninth. **The chapter now runs strictly forward, and the twenty-ninth is shared with ch 422: she is at the rail at the sixth hour of the twenty-ninth and is at the mill yard at the ninth hour of it.** The rail at the sixth hour with forty-nine
   lines and then fifty-one, every one measured by the weight or by the length, and she can take none. **Eleven minutes
   at that rail and nothing happened and nothing was asked of her** — and she works out the calendar: the ground asks
   her a question on the fourth, the eleventh, the eighteenth and the twenty-fourth, and today is not one of the four. A
   cup of something hot at the yard at the turn that her hand will not take and that she watched go cold. The second
   hour: **the six words, once, and again, and they sound the same.** She wants the word at the head of the strip
-  against her ribs and has decided, on the eighteenth of a month four months back, in a room with the door shut, that
-  she would rather have the standing arrangement than the line, and she still has that. **And at the seventh hour a
+  against her ribs and has decided, on the nineteenth of a month thirty-nine days back, in a room with the door shut, that
+  she would rather have the standing arrangement than the line, and she still has that. **And at the seventh hour of the evening a
   cart she does not know comes down the mill road and does not stop at the gate and does not stop at the counting house,
   with a tray on it and a cord round it, and the man on it does not get out.**
-- **422 — The Woman Who Came On Foot.** Days 1,092–1,094. The cart is standing in the mill yard with its near wheel
+- **422 — The Woman Who Came On Foot.** Days 1,092–1,094, **opening on the twenty-ninth at the ninth hour, after ch 421's sixth hour.** The cart is standing in the mill yard with its near wheel
   sunk four inches and a strip under a stone on the seat board **with one date on it and nothing else**, in the
   ordinary hand that comes about nine times a year. **She does not take it and does not wake him.** The mechanism she
   worked out herself at ch 366, said once, in short sentences, at the boards: a tray goes up on the first, comes down
@@ -456,7 +456,7 @@ Physical-risk card at ch 430.**
 - **423 — Nobody Has Ever Answered One.** Days 1,095–1,098, the seventh hour, in the open doorway with the boards
   showing. **Xie Changyin**, sixty-one, no folder, no men, no seal, no office. **She quotes the two lines and the date
   and the ordinary voice — a line has not been carried to a room it was made out for, and a holder is required against
-  it — and the nineteenth of a month three months back, and she does not know there is a man.** Ning Yan's first act
+  it — and the nineteenth, forty-three days back, and she does not know there is a man.** Ning Yan's first act
   is neither fear nor anger: she works out that the only way to answer correctly is to tell the truth, and that the
   truth is a thing she has never said out loud, and that saying it puts a voice in a stranger's book. **She says
   nothing. She does not lie.** Then she says no out loud, because the alternative is a stranger carrying a sentence
@@ -559,8 +559,8 @@ Physical-risk card at ch 430.**
   Xie Changyin writes a place, a day and an hour on the bottom of her own sheet **in the ordinary hand, and does not
   read it out, and says nothing at all.** Her name is not in it. Nothing was refused, nothing failed, no book will
   not shut, and **there is nobody she can go to and ask to take it out.** She gave up knowing what the fine hand says
-  about her on the nineteenth of a month four months back so that she would never be entered again, and she has been
-  entered, and **the two events are a hundred days apart and nothing caused the second one.** And at the second hour
+  about her on the nineteenth of a month eighty-nine days back so that she would never be entered again, and she has
+  been entered, and **the two events are eighty-nine days apart and nothing caused the second one.** And at the second hour
   she tells him, because she has never once decided a thing and not said it out loud to him at the boards.
 - **433 — What He Did Not Say.** Days 1,142–1,144, and the scene is the second hour of the twenty-first. Two long days
   with nothing to say, and then **eleven times to the boards expecting to be argued with and argued with twice and four

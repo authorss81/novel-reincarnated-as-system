@@ -100,7 +100,7 @@ She was on the far side of a maintained line for the first time in her life and 
 
 There are nine things in the whole of it that she owns.
 
-Thirty-five coppers in the fold in the inside of the door frame, less a copper at a gate on the second, and less twenty-three between the second of a month and that afternoon: bread at five miles west, water at seven, and a night’s floor at the far end of a made road, where a cart pays to stand under a wall. Which is eleven at the end.
+Twenty-one coppers in the fold in the inside of the door frame, less a copper at a gate on the second, and less nine between the second of a month and that afternoon: bread at five miles west, water at seven, and a night’s floor at the far end of a made road, where a cart pays to stand under a wall. Which is eleven at the end.
 
 A bar she cannot hold at the heavy end.
 
@@ -142,13 +142,13 @@ It is not a season and it is not a weather and it is not anything anybody can do
 
 And it was warm because there were about a hundred people inside it reading by lamps, and a hundred people make a building warm the way a bar makes a furnace warm.
 
-She had eleven coppers. She had put twenty-four of the thirty-five into water, bread and a night’s floor between the second of a month and that afternoon and she had not been hungry since the first Foundation and had not been since, and she could stand at two hundred yards off a warm building for as long as it took with nothing in her stomach and it would not touch her.
+She had eleven coppers. She had put nine of the twenty-one into water, bread and a night’s floor between the second of a month and that afternoon and she had not been hungry since the first Foundation and had not been since, and she could stand at two hundred yards off a warm building for as long as it took with nothing in her stomach and it would not touch her.
 
 She stood at two hundred yards off a long low lime-washed building with a lamp in every window and about a hundred people in it reading, and she did not go in.
 
 Not that day. That was not courage and it was not a decision she had made in advance.
 
-She had a question in the road and she had said out loud in a doorway on the eighteenth of a month that she would be standing at the east end of this road on the twenty-ninth, and it was the fifth and she had four days.
+She had a question in the road and it was a question about one person, and there were about a hundred people in that building and not one of them knew there was a woman on this ground who could read, and it was the fifth and she had four days.
 
 And there was a woman of sixty-one who had told her that she would be at a gate at the sixth hour and did not want an answer.
 

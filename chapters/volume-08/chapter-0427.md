@@ -16,7 +16,7 @@ Geng came off the frame with the chain in his hand.
 
 “What for.”
 
-“It is not for me and it is not about me and there is a woman of sixty-one at the shed who will tell you the rest of it. I am spending a question on it and I am spending it here, and I would like it done before the end of the fourth day.”
+“It is not for me and it is not about me and there is a woman of sixty-one at the shed who will tell you the rest of it. It is not the question I offered to ask her and it is not going to be. I am spending a question on this instead and I am spending it here, and I would like it done before the end of the fourth day.”
 
 Nine men in that room had worked out where she stood in the time it takes to pick up a bar. None of them said anything, because nothing had been said that had to be said back.
 
@@ -72,7 +72,7 @@ Eight men stopped what they were doing three separate times in the first hour an
 
 At about the fortieth minute she went and stood at the near end of the bench with her left thumb on the second column, because she could not help it.
 
-The line she put her thumb on was the one she had stopped a man in the middle of nine days before. The day on the left of it is the eighteenth of a month and the day on the right of it is the twenty-ninth, and there is a heading over that column because of her.
+The line she put her thumb on was the one she had stopped a man in the middle of thirty-six days before. The day on the left of it is the eighteenth of a month and the day on the right of it is the twenty-ninth, and there is a heading over that column because of her.
 
 ## What A Floor Does With A Name
 
@@ -100,7 +100,7 @@ Then Geng turned round and said, “Are you recruited.”
 
 ## The Plain Part About One Person
 
-She spent the only question she had on a stranger.
+She spent the only question she had on a stranger, and she did not spend it on the one she had offered to ask at the shed, and that one is still hers and is still unasked.
 
 That was the whole of what she did with it. She had carried it since the tenth of a month and she had walked four miles up a made road to put it on a sheet belonging to a man of fifty-one.
 
@@ -124,7 +124,7 @@ No man in that room offered to shift it and not one of them said a word about it
 
 ## The Second Column
 
-It was a heading a man of about forty had written over a rule nineteen years into his own trade because a woman of eighteen had read a sheet out loud and stopped him in the middle of it.
+It was a heading a man of about forty had written over a rule he had kept empty for nineteen years, on the thirteenth of a month, because a woman of eighteen had read a sheet out loud and stopped him in the middle of it.
 
 And there were four lines in it now, and there was a name at the foot of the sheet under them in a different hand, and it had not been explained to anybody in that room and it had not needed to be.
 
@@ -140,7 +140,7 @@ Geng said it from the frame, without raising his voice, to the room and not to h
 
 She waited.
 
-“And there is no term on any sheet in this building for a floor that is two blocks short because a woman was in the room twice,” Geng said. “I have been eleven minutes on it since she came off the bench and I have not got it and I am not going to invent it tonight, and the day I invent it is the day I put a wrong figure in a book.”
+“And there is no term on any sheet in this building for a floor that is two blocks short because a woman was in the room twice,” Geng said. “I have been thirteen minutes on it since she came off the bench and I have not got it and I am not going to invent it tonight, and the day I invent it is the day I put a wrong figure in a book.”
 
 He put the pencil in the groove.
 

@@ -34,7 +34,9 @@ She came up the four miles at the sixth hour on the twenty-second and stood in t
 
 She put the coil of rope down against the wall and looked at the ring of clay on the boards and the box it came out of and the bar standing on end by the door.
 
-“I have read one chapter in my life about a furnace,” she said. “Nineteen forty-something, in a room, from a man who had read it in a room. I can hold a rim with two hands and I know when to let go of one. I am not a builder and I am not going to pretend to be one, and I have held one rim in my life and I did not let go of it and it is the only thing I am qualified for.”
+“I have read one page in my life about a furnace,” she said. “It was a bad page and it was in a room and it came from a man who had read it in a room. I can hold a rim with two hands and I know when to let go of one.
+
+I am not a builder and I am not going to pretend to be one, and I have held one rim in my life and I did not let go of it and it is the only thing I am qualified for.”
 
 “Then why are you here.”
 
@@ -132,9 +134,7 @@ It went nowhere.
 
 There was nobody within nine hundred yards to hear it. It changed nothing on this ground and it did not go into anything. It did not fail, which is the thing she has learned to look for in a refusal since the twenty-sixth of a month in a different year, because a refusal that fails is a thing somebody can undo, and this one did not fail and it did not hold either.
 
-She can still say no. She said one a hundred days ago and it cost her everything she wanted and it stood.
-
-She just cannot make this no take.
+And she said it out loud a second time on purpose, because that is the thing she does with anything she has to carry.
 
 ## The Sixth Hour Of The Twenty-Ninth
 

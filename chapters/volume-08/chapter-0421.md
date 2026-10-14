@@ -42,7 +42,7 @@ Nine men were on the north end and a second course was going on over a sill that
 
 ## What The Twenty-Eighth Was
 
-She dug the run at Pei’s gate from the seventh hour to the ninth, and he came out at the ninth and stood at the end of it the way he stands, and she got a copper, and there were twenty-two in the fold in the inside of the door frame.
+She dug the run at Pei’s gate from the ninth hour to the eleventh, and he came out at the eleventh and stood at the end of it the way he stands, and she got a copper, and there were twenty-two in the fold in the inside of the door frame.
 
 Then she walked the four miles back east to a shed at a mill whose wheel has not turned since before she came, and there was nothing at the mill but the wheel and the low sound a millrace makes when there is no water in it.
 
@@ -64,11 +64,11 @@ They did not.
 
 She lay there for a while with the strip against her ribs and the boards under her back.
 
-There is a word at the head of that strip in a hand that comes about nine times a year, and there is a man two miles up a made road with a lamp in his room whose whole trade is that hand, and she had wanted to have it read for every day since the seventeenth of a month five months back.
+There is a word at the head of that strip in a hand that comes about nine times a year, and there is a man two miles up a made road with a lamp in his room whose whole trade is that hand, and she had wanted to have it read for every day since the seventeenth of a month six weeks back.
 
 She had given it up on the nineteenth of a month at the seventh hour, in a room with the door shut, with no force and nothing owed in it and a condition that was the ordinary condition, and the six words had gone up the same road every answer has gone up since before the wheel on that mill was cast.
 
-That was a hundred and thirty days ago. Nothing came of it and nothing was going to.
+That was thirty-nine days ago. Nothing came of it and nothing was going to.
 
 She wanted it. That was the whole of what she had on the boards at the second hour, and she was not going to argue with herself about a thing she had already argued with herself about in a room. What she had decided in that room was that she would rather have the standing arrangement — four people a month, with nothing written at the end of any of it — than have the line.
 
@@ -90,25 +90,9 @@ She had been at a rail at the sixth hour every morning since she came past the l
 
 And four days a month, which had been the only thing in seven months that had ever come to her without being asked, and four days is not a week.
 
-## Fifty-One Lines
-
-She went down to the rail at the sixth hour on the twenty-ninth and there were fifty-one lines on it.
-
-It had eight on it for a year and a bit, and a man of forty-one with a coat on over one arm told her standing at the hut door that he had walked the length of it in six seconds without stopping in all that time, and that he wanted her to know he knew that was the worst thing that can happen to a list.
-
-Fifty-one. Two hundred and six yards of dressed stone by the load. Nine hundred feet of drain by the length, second run, low side. Forty feet of bed by the length with a margin note against the fourteenth. Two hundred yards of hedge by the length east of the turn.
-
-And at the bottom, in a different ink, a cart track nine hundred feet by the load that a man with a rule in his hand had put in on the second of a month and had not been able to check off, because the ground went on him before the cart came off it.
-
-She read all fifty-one down and got them the same twice.
-
-Every one of them is measured by the weight of what comes out of the ground or by the length of it, and there has never been a line on that rail measured by the voice, and a man reads it out and the rail goes quiet and one of them puts his name at the end of it.
-
-She could take none of them and she has not been able to take one since the board went full.
-
 ## The Seventh Hour Of The Twenty-Eighth
 
-She was standing in the open doorway of that shed at the seventh hour with the bar over her right shoulder because it stands on end by the door the way she leaves it, and the mill road runs four hundred yards from the door to a gate and then two miles west to a counting house.
+She was standing in the open doorway of that shed at the seventh hour of the evening with the bar over her right shoulder because it stands on end by the door the way she leaves it, and the mill road runs four hundred yards from the door to a gate and then two miles west to a counting house.
 
 A cart came down the mill road.
 
@@ -125,3 +109,19 @@ She had worked the rest of it out herself three months back, standing at a cart 
 A tray goes east and it does not come back on that cart, because that cart does not go east.
 
 That cart had gone west, at the seventh hour, with a tray on it and a cord round the tray, and it had not stopped anywhere on four miles of road to do it with.
+
+## Fifty-One Lines
+
+She went down to the rail at the sixth hour on the twenty-ninth and there were fifty-one lines on it.
+
+It had eight on it for a year and a bit, and a man of forty-one with a coat on over one arm told her standing at the hut door that he had walked the length of it in six seconds without stopping in all that time, and that he wanted her to know he knew that was the worst thing that can happen to a list.
+
+Fifty-one. Two hundred and six yards of dressed stone by the load. Nine hundred feet of drain by the length, second run, low side. Forty feet of bed by the length with a margin note against the fourteenth. Two hundred yards of hedge by the length east of the turn.
+
+And at the bottom, in a different ink, a cart track nine hundred feet by the load that a man with a rule in his hand had put in on the second of a month and had not been able to check off, because the ground went on him before the cart came off it.
+
+She read all fifty-one down and got them the same twice.
+
+Every one of them is measured by the weight of what comes out of the ground or by the length of it, and there has never been a line on that rail measured by the voice, and a man reads it out and the rail goes quiet and one of them puts his name at the end of it.
+
+She could take none of them and she has not been able to take one since the board went full.

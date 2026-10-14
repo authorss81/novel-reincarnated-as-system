@@ -2,7 +2,9 @@
 
 The nineteenth and the twentieth of a month passed the way most days in that shed pass, which is at the sixth hour and at the second hour and on nothing else.
 
-She went down to the rail at the sixth hour and read the board and could take none of it. She dug the run at the gate and got a copper. She walked four miles up a made road to a hundred-foot room with nine men in it and read a floor sheet out loud and stopped a man in the middle of a line about a bell that had already gone, and the man of fifty-one said nothing about it and two of the nine said nothing about it.
+She went down to the rail at the sixth hour and read the board and could take none of it. She dug the run at the gate and got a copper. 
+
+She walked four miles up a made road to a hundred-foot room with nine men in it and read a floor sheet out loud, and when she got to the line about a bell that had already gone she put her left hand flat on the bench and nothing came up, and the man of fifty-one said nothing about it and two of the nine said nothing about it.
 
 She said nothing to anyone about the twenty-ninth.
 
@@ -92,7 +94,7 @@ Two days is nothing. She has had worse than two days at that second hour in a sh
 
 The reason those two days were long is that she had something to say and had been keeping it, which is a thing she has not had in twenty-one days. She has learned since the eighth of a month four months back that a person who stops talking to the voice in their head gets worse at it, and not better.
 
-So she went down to the rail on the nineteenth and could take nothing off it, and she went up the made road on the twentieth and read a floor sheet out loud and stopped a man in the middle of a line about a bell that had already gone, and there were nine men in that room and eight of them were between her and the door.
+So she went down to the rail on the nineteenth and could take nothing off it, and she went up the made road on the twentieth and read a floor sheet out loud and came to the line about a bell that had already gone and had nothing for it, and there were nine men in that room and eight of them were between her and the door.
 
 And at the seventh hour on the twentieth she stood at the near end of that bench with her left hand flat on the oak, in front of all of them, out of habit, in case.
 
@@ -100,7 +102,7 @@ Nothing came up. It had not come up once in two days and she had stopped trying 
 
 She went down the made road four miles in the dark with a bar over her right shoulder and got to the shed at the tenth hour and lay on the boards with her hands behind her head and said his name out loud once into an empty shed, the way she has said it forty times in seven months and has never once got anything back.
 
-She got nothing back that night either, and she lay there and worked out that a thing you are saving is worth more than a thing you have already said, and that she had gone eleven days without it and had not known until the eighteenth that it was worth anything at all.
+She got nothing back that night either, and she lay there and worked out that a thing you are saving is worth more than a thing you have already said, and that she had gone eleven days without saying a word of it and had not known until the eighteenth that it was worth anything at all.
 
 ## What She Worked Out On The Boards
 
@@ -128,7 +130,7 @@ She got up and put a lump out of the box in at the low end of the ring.
 
 It came up a finger’s width and stopped, the same as it has come up on four hundred nights in this shed, and she had stopped counting them.
 
-She stood there and looked at it, because it had not come up at all for two days, and there had been eleven days of it before that at the width of a finger and not a quarter more, and she had been walking that for eleven days and had not put it in her own account until now.
+She stood there and looked at it, because it had not come up at all for two days, and there had been eleven days of it before that at the width of a finger and not a quarter more, and she had not put one of those eleven into her own account until now.
 
 Something in her body that had been shut since the thirteenth of a month came open with it.
 

@@ -2,7 +2,7 @@
 
 She came back west up the long road at the second hour on the sixth of a month and she got the leg back to a mile and a half an hour and stopped it there and finished the rest on the slow count, and she came off the made road at the seventh mile and walked the rest of it into a shed at a mill whose wheel has not turned since before she came.
 
-She had been eleven days getting out and back and she had not gone inside a building on that road once.
+She had been four days getting out and back and she had not gone inside a building on that road once.
 
 ## Every Single Person Has Been Right
 
@@ -32,9 +32,7 @@ That was the fifth time she had done this — taken a thing apart, laid it out, 
 
 It was a count.
 
-A reader is called in when a hand cannot be read.
-
-She has been called in four times in a month by four people who did not know what they were calling. And across that same ground there is a book with four hundred and six names in it, and somebody at that end had already written down one thing about a woman at a gate on a ground where no hand can read a line.
+A reader is called in when a hand cannot be read, and she has been called in four times in a month by four people who did not know what they were calling. And across that same ground there is a book with four hundred and six names in it, and somebody at that end had already written down one thing about a woman at a gate on a ground where no hand can read a line.
 
 Nobody had said it out loud, and nobody had said it cruelly, and it had not been said to her face.
 
@@ -64,9 +62,9 @@ He put the chalk in his pocket.
 
 ## What Was Still Running When She Got Back
 
-She had been out of this shed for eleven days and the ring had come up every night of them, a finger’s width, and she had not put a lump in it once because she had been walking and there was nothing in a road to put a hand on.
+She had been out of this shed for four days and the ring had come up every night of them, a finger’s width, and she had not put a lump in it once because she had been walking and there was nothing in a road to put a hand on.
 
-That was the arrangement and it had worked, and she had also worked out somewhere around the ninth mile that it was going to be the last time it worked, because there was no ninth mile left after this and the whole of what she could reach from that shed had been walked to its end and back in eleven days.
+That was the arrangement and it had worked, and she had also worked out somewhere around the ninth mile that it was going to be the last time it worked, because there was no ninth mile left after this and the whole of what she could reach from that shed had been walked to its end and back in four days.
 
 She said that out loud at the boards too, on the ninth, at the second hour, and she wrote it out underneath four names and a number.
 
@@ -122,11 +120,11 @@ And then she said them a second time because she wanted to hear whether they sou
 
 They did not.
 
-She lay there for a while with the strip against her ribs and the boards under her back and the ring cold at the low end of it, and she did not connect the two of anything, because there was nothing to connect and she was not going to build a thing out of a coincidence at the second hour.
+She lay on the boards with the ring cold at the low end of it and the strip against her ribs, and she did not connect the two of anything, because there was nothing to connect and she was not going to build a thing out of a coincidence at the second hour.
 
 ## What She Said Standing Up
 
-She got up off the boards at about the fourth hour on the eleventh of a month with the bar against the wall and fifteen coppers in the fold and nine days left.
+She got up off the boards at about the fourth hour on the eleventh of a month with the bar against the wall and fifteen coppers in the fold and eighteen days left.
 
 And she said out loud, into an empty shed, in the ordinary voice:
 
@@ -138,4 +136,4 @@ She stood there after that.
 
 She did not say it after that. She stood in the middle of the boards for about as long as it takes to count nine and then she got a lump out of the box and put it in at the low end of the ring and went to sleep in her coat.
 
-It was the sixth hour when she woke and the ring was cold and the ground outside was flat and there were nine days between that shed and the twenty-ninth.
+It was the sixth hour when she woke and the ring was cold and the ground outside was flat and there were eighteen days between that shed and the twenty-ninth.

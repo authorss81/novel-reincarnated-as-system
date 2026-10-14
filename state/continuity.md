@@ -2527,7 +2527,7 @@ files; the sixteenth is recorded against an outline this run's phases are not pe
 
 ## Established facts, Volume 8 Batch 0001 (ch 421–434) — AN ARRIVAL
 
-**Volume 8 is open. Fourteen chapters, day 1,091 to day 1,152, 27,632 words of body prose, average ~1,974.** Body prose
+**Volume 8 is open. Fourteen chapters, day 1,091 to day 1,152, 27,657 words of body prose, average ~1,976.** Body prose
 is the `#` title line and every `##` section heading excluded. Per file: **421 2,086 · 422 2,025 · 423 2,002 · 424 1,972
 · 425 2,026 · 426 1,952 · 427 1,840 · 428 2,044 · 429 1,943 · 430 2,042 · 431 1,933 · 432 1,813 · 433 1,865 ·
 434 2,089.** **Nothing is under the 1,800 guide and nothing is above the 2,700 guide; nothing is under the 1,300 floor.
@@ -2592,7 +2592,7 @@ be paid.
 - **THE FIRST PERSON WHO COMES FOR THE READER WALKED INTO A SHED AT A MILL AT CH 423** — **Xie Changyin**, sixty-one,
   eleven miles on foot, no folder, no men, no seal, no cart, no office behind her. She quotes **the two lines** —
   *a line has not been carried to a room it was made out for* / *a holder is required against it* — **and the date**,
-  the nineteenth of a month three months back, **and the ordinary voice.** **She has no third thing and no name and she
+  the nineteenth, forty-three days back, **and the ordinary voice.** **She has no third thing and no name and she
   does not know there is a man.** She is asking about a hand.
 - **HE WAS ASKED.** Ch 423 is the ask `outline/volume-07.md` pinned in advance at ch 401. **She works out, standing in
   a doorway, that the only way to answer that question correctly is to tell the truth, and that the truth is a thing
@@ -2683,7 +2683,7 @@ be paid.
 - **What she has given up on purpose and never gets back.** **What the fine hand says about her.** Spent at ch 417.
   **Nothing in this batch reopens it, softens it, queries it or mentions it in passing** — and at ch 423 Xie Changyin
   says, once, *I am not asking you about the strip*, and does not ask.
-- **Hands and means at the last page.** **Eleven coppers**, out of thirty-five, spent on bread, water at seven miles and
+- **Hands and means at the last page.** **Eleven coppers**, out of the twenty-one she left with, spent on bread, water at seven miles and
   a night's floor at the far end of a made road. Bread for two days. The board outside the lifting floor is full and
   cannot pay her and is not going to. **The margin correction on the third floor is four and has been four since
   before she came.** **The relicensed licence still says Foundation the first stage on the front of it and she has still
@@ -2747,10 +2747,10 @@ heading excluded) unless the row says otherwise, whole words, case-insensitive u
 | **`hiring` · `exam*` · `hunt*` · `audit*` · `tending` · `ration*` · `confinement` · `signature`** | **0 / 0 / 0 / 0 / 0 / 0 / 0 / 0.** This batch is not any of them |
 | **`fortnight`** | **0** |
 | **`had had`** | **0.** Five grammatical instances at ch 433 were cut while drafting |
-| **`nobody` family** — *nobody · no one · not one* | **55**, average 3.9 a chapter. **This is the honest figure and it is up on Volume 7** — Volume 7 carried 16 across one batch of fifteen — and the reason is the volume's own: this is the first batch in the run with a building full of strangers in it. Read in context, the load-bearing ones are structural (*nobody on nine days of road*, *nobody has ever answered one*, which is ch 423's title) and were cut where they were only intensifiers |
-| **`about…`** | **194**, body prose, whole word, average 13.9 a chapter, **maximum 22 at ch 428.** For scale: Volume 7 ran 608 across sixty chapters, average 10.1, maximum 22. **The batch is above Volume 7's average and level with its maximum, and every one of them is counted here rather than promised** |
-| **`whole of`** | **32**, average 2.3 a chapter. Volume 7 ran 160 across sixty, average 2.7 |
-| **Paragraph length** | **No paragraph over 90 words.** Longest is 89, at ch 421 and ch 422. Nothing over 120 |
+| **`nobody` family** — *nobody · no one · not one* | **56**, average 4.0 a chapter. **This is the honest figure and it is up on Volume 7** — Volume 7 carried 16 across one batch of fifteen — and the reason is the volume's own: this is the first batch in the run with a building full of strangers in it. Read in context, the load-bearing ones are structural (*nobody on nine days of road*, *nobody has ever answered one*, which is ch 423's title) and were cut where they were only intensifiers |
+| **`about…`** | **196**, body prose, whole word, average 14.0 a chapter, **maximum 22 at ch 428.** For scale: Volume 7 ran 608 across sixty chapters, average 10.1, maximum 22. **The batch is above Volume 7's average and level with its maximum, and every one of them is counted here rather than promised** |
+| **`whole of`** | **33**, average 2.4 a chapter. Volume 7 ran 160 across sixty, average 2.7 |
+| **Paragraph length** | **No paragraph over 90 words.** Longest is 89, at ch 421 and ch 422. Nothing over 120. **The review measured 90 at ch 433, which made the drafted claim of 89 stale, and two paragraphs this batch lengthened in repair were over the guide — ch 433 at 100 and ch 434 at 96 — and both were split. Re-measured after the repair: longest 89, at ch 421 and ch 422** |
 | **Chapter titles** | **Fourteen, zero collisions against the 420 headings that existed, nothing over 39 characters, all names** |
 
 ### Three deviations from the card file, recorded rather than obeyed
@@ -2762,11 +2762,20 @@ under `((day − 134) mod 30) + 1` is a rule the batch sets for itself.**
 
 1. **Ch 421's ending hook puts the cart down the mill road *on the thirtieth*, and ch 421 is day 1,091, which is the
    twenty-eighth.** The thirtieth is day 1,093, which is inside ch 422's range. **The cart comes down the mill road at
-   the seventh hour of the twenty-eighth and ch 421 ends on it**, and ch 422 carries the twenty-ninth, the thirtieth and
-   the first. This is the same defect class as the two stale day-table rows the Volume 8 plan review closed.
-2. **Ch 423's card says *the date, the nineteenth of a month five months back*.** The send was read upward at the second
-   hour of the nineteenth of the month beginning 974, which is **three months and thirteen days** before day 1,095.
-   **The page says three months.**
+   the seventh hour of the evening of the twenty-eighth, and ch 422's own text pins it there twice — *the evening
+   before* at ch 422 and *yesterday* at ch 422 — so the twenty-eighth stands and ch 422 carries the twenty-ninth, the
+   thirtieth and the first.** This is the same defect class as the two stale day-table rows the Volume 8 plan review
+   closed. **Corrected at this batch's review, because the drafting phase put the cart at the seventh hour of the
+   *morning* and had her at Pei's gate from the seventh to the ninth at four miles west in the same hour. Ch 421 now
+   runs days 1,091–1,092 in strict forward order — rail at the sixth hour, the yard at the seventh, Pei's gate from the
+   ninth to the eleventh, the boards, the cart at the seventh hour of the evening, and the rail again at the sixth hour of
+   the twenty-ninth — and the twenty-ninth is shared with ch 422, which opens at the ninth hour of it.**
+2. **Ch 423's card says *the date, the nineteenth of a month five months back*.** **The refusal is day 1,052, the
+   nineteenth of the month beginning 1,034, and day 1,095 is forty-three days after it.** The drafting phase put
+   *three months* on the page and justified it here against a send dated in the month beginning 974; that was a month
+   figure measured from the wrong event. **The page now carries counted days — forty-three from the nineteenth at ch 423
+   and forty-four from the eighteenth on the sheet — and the same rule is applied at ch 421 (thirty-nine), ch 424
+   (forty-eight), ch 432 (eighty-nine) and ch 434 (a hundred), which is correct and was always correct.**
 3. **Ch 434's card gives her arithmetic as *a hundred and four days of furnace since the seventh stage and forty-nine
    of them with nothing in the shed at all*.** Nascent Soul 7 was taken on day 1,076 and Nascent Soul 8 on day 1,152,
    which is **seventy-six days** and which the outline pins twice. **The page says seventy-six and forty-nine.**
@@ -2781,8 +2790,10 @@ sharpest thing in the batch.**
 
 ### What Batch 0002 inherits, in one paragraph
 
-**She is at Nascent Soul 8, sixty-two days in, eleven coppers out of thirty-five, and a hundred yards short of a
-turnstile she came through at the second hour.** Xie Changyin is at that gate at the sixth hour and did not need an
+**She is at Nascent Soul 8, sixty-two days in, eleven coppers out of the twenty-one she left with, and a hundred
+yards short of a turnstile she came through at the second hour.** **The walk east was four days out and back and every
+chapter now says four; the eleven days that are left on the page are the eleven from the eighteenth to the twenty-ninth,
+and they are the next trip, not that one.** Xie Changyin is at that gate at the sixth hour and did not need an
 answer and did not want one. **The Order's building is two hundred yards off with a lamp in every window and about a
 hundred people reading, and not one of them has looked up, and she has a question of her own that is allowed to be
 asked in a room with a lamp in it — one thing about one person, and no question that would put a third person in a room

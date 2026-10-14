@@ -2,7 +2,7 @@
 
 ## What this phase is
 
-**Volume 8 Batch 0001 is on the page — ch 421–434, 27,632 words of body prose, day 1,091 to day 1,152 — and PHASE ZERO
+**Volume 8 Batch 0001 is on the page — ch 421–434, 27,657 words of body prose, day 1,091 to day 1,152 — and PHASE ZERO
 is closed. `outline/volume-08.md` is the authority for Volume 8 and is not to be re-planned. This phase drafts ch
 435–449 and nothing else.** There is no `outline/batches/volume-08-batch-0002.md`; the outline's own Batch 0002 row, its
 pressure table, its escalation sequence, its six mouths table and its hard rules are the cards, and this prompt carries
@@ -93,8 +93,9 @@ to do, entered on a roll she did not ask for, in the best book on nine days of r
 **Day 1,153, the thirtieth of the month beginning 1,124. At a gate at the far end of the long road, two hundred yards
 short of a building, with eleven coppers.**
 
-- **NASCENT SOUL 8**, taken on day 1,152, the twenty-ninth, at the fourth hour in a shed at a mill, with a second pair
-  of hands for the first four hours of six days. **Bracket 1 of Volume 8's two in fifty-eight was at ch 434. The next
+- **NASCENT SOUL 8**, taken on day 1,152, the twenty-ninth, at the fourth hour in a shed at a mill, and **the cost is that she cannot
+  make a refusal take, which has nothing to do with hands.** Xie Changyin held a rim with two hands for **two hours of
+  the six days** and it is the two-hour figure the page carries, not four. **Bracket 1 of Volume 8's two in fifty-eight was at ch 434. The next
   and last bracket in the volume is at ch 470 and nowhere else.**
 - **Body.** Short breath **four counts everywhere except a loaded reach, where it is five**, **and since the second hour
   of the twenty-first it has come back to four inside a loaded reach, for the first time since a dressed stone went the
@@ -109,7 +110,7 @@ short of a building, with eleven coppers.**
   fingers, but herself, once a thing she is in has started. She can still say no. She just cannot make the no take.**
 - **What she gave up on purpose and never gets back:** what the fine hand says about her. **Spent at ch 417. Nothing in
   this batch may reopen it, soften it, query it or mention it in passing by anybody.**
-- **Hands and means.** **Eleven coppers**, out of thirty-five, spent on bread, water at seven miles and a night's floor
+- **Hands and means.** **Eleven coppers**, out of the twenty-one she left with, spent on bread, water at seven miles and a night's floor
   at the far end of a made road. Bread for two days. **The board outside the lifting floor is full and cannot pay her
   and is not going to.** The margin correction on the third floor is four and has been four since before she came.
   **The relicensed licence still says Foundation the first stage on the front of it and she has still never opened it.**

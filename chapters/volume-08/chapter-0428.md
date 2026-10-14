@@ -134,15 +134,15 @@ She had gone down to the rail every morning at the sixth hour for seven months a
 
 ## The Yard At The Turn
 
-There is a yard about nine hundred feet east of the turn where nine men work on four men’s work and it is three days in seven and she does not stop going, and she was there on the twenty-sixth at the fourth hour with nothing in her hands.
+There is a yard about six hundred feet east of the turn where nine men work on four men’s work and it is three days in seven and she does not stop going, and she was there on the twenty-sixth at the fourth hour with nothing in her hands.
 
 The office end had a pot in it and a cup in it and a woman in it who has never once asked her name, and the woman came out and put it into her hands and went back in.
 
-Her hand did not take it.
+Her hand took it, and that was the whole of what her hand did.
 
 She stood at the low side of that yard for a minute and a quarter and then put it down on the edge of the bench with the office end against it, which is where things go at that yard, and watched it stop being hot.
 
-And then a woman of about fifty came out of an office end at the other end of that yard with a cup of something hot in it and looked down nine hundred feet of flat ground at a woman at the low side with an empty cup on a bench.
+And then a woman of about fifty came out of a doorway at the other end of that yard with a cup of something hot in it and looked down nine hundred feet of flat ground at a woman at the low side with an empty cup on a bench.
 
 Ning Yan watched a woman with a cup decide, in four seconds, not to walk nine hundred feet.
 

@@ -2,7 +2,7 @@
 
 The cart was standing in the mill yard with the shafts on the ground and one of them under the near wheel.
 
-She went the four miles east at the fourth hour on the twenty-ninth with the bar over her right shoulder, past the low sound the millrace makes when there is no water in it, and she came into that yard and the cart was there and the wheel was not turning and it had not turned since before she came.
+She went the four miles east at the ninth hour on the twenty-ninth with the bar over her right shoulder, past the low sound the millrace makes when there is no water in it, and she came into that yard and the cart was there and the wheel was not turning and it had not turned since before she came.
 
 The driver was asleep sitting up on the seat board with his hat over his face and his feet on the shaft.
 
@@ -120,7 +120,7 @@ The woman got off it herself, one hand on the side board, and she stood in that 
 
 She was sixty-one. She was in a plain coat with nothing in her hands, and her boots were mud to the ankle, and she had come on foot the last four miles because the driver had not offered and she had not asked.
 
-She came up the four miles. She came past the gate and past the flat ground and she came up to a shed at a mill whose wheel has not turned since before she came, and there was a woman standing in the open doorway of it with a bar over her right shoulder.
+She came up the four miles. She came past the flat ground and past the dry millrace and she came up to a shed at a mill whose wheel has not turned since before she came, and there was a woman standing in the open doorway of it with a bar over her right shoulder.
 
 The woman in the yard looked at her for four seconds.
 

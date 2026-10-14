@@ -100,31 +100,31 @@ She got up on the tail board and sat down on it properly with her feet off the m
 
 The four men and the three carts went west.
 
-## Eleven Days Written Out
+## Four Days Written Out
 
 She wrote it out at the first of a month, in the ordinary hand, in a column, the way she writes columns on those boards.
 
-The second, the third, the fifth, the seventh and the ninth she would not be in a hundred-foot room with nine men in it.
+The second she would go east at the sixth hour.
 
-The fourth, the sixth, the eighth, the tenth and the eleventh she would be at the rail at the sixth hour and at the gate at the seventh hour and four miles east of it by the ninth, which is a day a shed does not cost her anything because the shed is where she is going back to at the tenth hour.
+The third she would be somewhere on a made road.
 
-The twelfth she would be somewhere on a made road.
+The fourth she would be at a gate at the fourth hour and through it by the sixth, and she would not sleep in a building.
 
-The thirteenth she would be at the east end of that road with a woman of sixty-one in the ordinary voice.
+The fifth she would be at the east end of that road with a woman of sixty-one in the ordinary voice, and she would not go inside the building.
 
-And that was eleven days, and she counted them twice on the boards, and then she wrote one more line underneath.
+And that was four days, and she counted them twice on the boards, and then she wrote one more line underneath.
 
-“There is nothing at that floor that will be worse without me in it and nothing better with me in it, and the only thing in the whole of those nine days that changes is that nine men will not have a thing to read out loud to, and that is the first time in seven months that the only thing missing from a day of mine is a use.”
+“There is nothing at that floor that will be worse without me in it and nothing better with me in it, and the only thing in the whole of those four days that changes is that nine men will not have a thing to read out loud to, and that is the first time in seven months that the only thing missing from a day of mine is a use.”
 
 ## What She Gave Up For It
 
-It was eleven days.
+It was four days.
 
 That was the arithmetic and she did it on the boards on the first of a month with the bar under her right hand, and it was the shortest number in the whole of it and it took her the longest.
 
 Two miles up the made road from that shed there is a hundred-foot room with nine men in it and a bench in oak four inches thick and eleven dressed stones standing along the wall with their faces out, and four times in the last two months there have been men in that room reading sheets to her and her reading them back, and every one of those four times had a use in it that was not a coin.
 
-She had no reason to be at the lifting floor on the second, or the third, or the fifth, or the seventh, or the ninth, and she was not going to be there for eleven days, and the man of fifty-one who runs that floor was not going to be told why, because he had said in a room with nine men in it that he had not got a term for what she was to that floor and he was not going to invent one.
+She had no reason to be at the lifting floor on the second, or the third, or the fourth, or the fifth, and she was not going to be there for four days, and the man of fifty-one who runs that floor was not going to be told why, because he had said in a room with nine men in it that he had not got a term for what she was to that floor and he was not going to invent one.
 
 Nine men who had all worked out where she stands, and a sheet with two columns on it, and a floor a block short.
 
@@ -136,6 +136,6 @@ She went east at the sixth hour of the second of a month with a bar over her rig
 
 The made road goes four miles from that shed to a mill whose wheel has not turned since before she came, and then it keeps going for another seven, and she had never walked any of it and there was nothing on the boards about it.
 
-She had thirty-five coppers in the fold in the inside of the door frame and bread for two days and eight coppers that had gone on a line against a fare four days ago, which were not hers and were not anybody’s.
+She had twenty-one coppers in the fold in the inside of the door frame and bread for two days and eight coppers that had gone on a line against a fare four days ago, which were not hers and were not anybody’s.
 
 And at about the seventh mile the ground changed and she worked that out without anything happening.

@@ -1392,7 +1392,7 @@ at `state/current.md` §*Volume 8 planning — the deviation, and where the sixt
 
 ## Volume 8 Batch 0001 (ch 421–434) — what this batch added, and what is live going into Batch 0002
 
-**Volume 8 is open on the page. Fourteen chapters, day 1,091 to day 1,152, 27,632 words of body prose, average ~1,974,
+**Volume 8 is open on the page. Fourteen chapters, day 1,091 to day 1,152, 27,657 words of body prose, average ~1,976,
 one bracketed layer line at ch 434, Nascent Soul 8 taken on the pinned day, and the batch's irreversible step at
 ch 432. Nothing below is resolved.**
 
@@ -1405,7 +1405,7 @@ ch 432. Nothing below is resolved.**
   answer and did not want one.**
 - **THE CH 401 ANSWER HAS NOW BEEN ASKED, AND IT IS THE FIRST TIME.** A woman with the two lines — *a line has not been
   carried to a room it was made out for* / *a holder is required against it* — and the date, the nineteenth of a month
-  three months back, and the ordinary voice. **She has no third thing and no name and she does not know there is a
+  forty-three days back, and the ordinary voice. **She has no third thing and no name and she does not know there is a
   man. She is asking about a hand. He was asked and he cannot answer and nothing was put in a book.** He said in
   advance, at ch 401, that this would happen, and it happened.
 - **She answered nothing and then said no out loud.** Working out in a doorway that the only way to answer that
@@ -1418,7 +1418,7 @@ ch 432. Nothing below is resolved.**
   names on it, and a name on it is a person who cannot be un-recruited.** **No budget, and where the money comes from is
   not stated once and is not going to be in Volume 8.**
 - **A strip came back down the mill road on a cart that does not go east**, on the twenty-eighth of a month, **with one
-  date on it and nothing else**, dated the eighteenth of a month three months back, in the ordinary hand that comes about
+  date on it and nothing else**, dated the eighteenth of a month forty-four days back, in the ordinary hand that comes about
   nine times a year. **It is still on the seat board of that cart at the mill under a stone, and she did not take it and
   she did not sleep on it**, and it is the oldest thing she is carrying apart from the strip against her ribs.
 - **A woman of sixty-one walks in from the far side of the turn and does not come back on a cart**, and **nobody who

@@ -30,7 +30,7 @@ Against the eighteenth she wrote one word and then put the pencil down flat and 
 
 On the nineteenth she came up the four miles at the fourth hour and had thirty-one lines on the rail in her head before she got to it and forty-three when she got there.
 
-On the twentieth she dug the run at Pei’s gate and he came out at the ninth and stood at the end of it the way he stands and did not say one word, and she went back four miles and put a lump out of the box at the low end of the ring and it came up a finger’s width and stopped.
+On the twentieth she dug the run at Pei’s gate and he came out at the ninth and stood at the end of it the way he stands and did not say one word, and she went back four miles and put a lump out of the box at the low end of the ring and it did not come up at all.
 
 On the twenty-first she did not go anywhere at all.
 
@@ -102,13 +102,13 @@ Her name is not in it.
 
 A date is in it, and a place, and an hour, and a woman said a date out loud in daylight to somebody who will use it.
 
-## A Hundred Days
+## Eighty-Nine Days
 
 She gave up knowing what the fine hand says about her on the nineteenth of a month at the seventh hour in a room with a lamp in it, so that she would never be entered again, and she said six words, and she meant them, and they cost her everything she had wanted and nothing anybody could take off her.
 
 It was the nineteenth of the month beginning 1,034. It is the eighteenth of a month beginning 1,124.
 
-A hundred days.
+Eighty-nine days.
 
 Nothing caused the second one.
 
@@ -116,7 +116,7 @@ That is the part she could not get round in a yard in the flat light of the seve
 
 Four days of walking, and a chain, and a gate, and a hedge, and a number that came out of the ground under her own feet in a shed at two in the morning.
 
-The second one came because a woman of sixty-one had said a thing in a doorway and a young man with a lamp had stood at a bench, and one of those two was on the nineteenth of a month five months back and the other was last week.
+The second one came because a woman of sixty-one had said a thing in a doorway and a young man with a lamp had stood at a bench, and one of those two was on the nineteenth of a month three months back and the other was last week.
 
 She was entered again and she was not asked and she had not been told and nothing was wrong.
 

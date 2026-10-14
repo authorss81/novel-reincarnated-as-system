@@ -82,7 +82,7 @@ He got down off the cart and put his heel up on the shaft.
 
 ## The Bank Behind The Stand
 
-There were three carts standing at the cart stand and two of them were loaded and one was empty, and the loaded two belonged to a woman of twenty who was sitting on the tail board of the near one with a whinny whip folded twice.
+There were three carts standing at the cart stand and two of them were loaded and one was empty, and the loaded two belonged to a woman of twenty who was sitting on the tail board of the near one with her hands round the butt of a whip.
 
 She got up off the board when she saw Ning Yan come round the end of it and came over, and she did not say good afternoon and she did not ask anything.
 
@@ -104,9 +104,9 @@ She put the whip under her arm.
 
 That was the sentence she came away with.
 
-She stood at the cart stand and worked out four things while he went and got a drink of water out of a barrel and did not offer her one, and all four of them were about a road and none of them was about a shed.
+She stood at the cart stand and worked out four things while the carter went and got a drink of water out of a barrel and did not offer her one, and all four of them were about a road and none of them was about a shed.
 
-Somebody keeps strips at the east end. Strips go there and do not come back. And on the twenty-eighth of a month three days before she stood in her own doorway a strip with one date on it came down a mill road on a cart that does not go east.
+Somebody keeps strips at the east end. Strips go there and do not come back. And on the twenty-eighth of a month eight days before she stood in her own doorway a strip with one date on it came down a mill road on a cart that does not go east.
 
 She had been owed eight coppers since the twenty-third of a month three months back, by a woman of twenty with a team and a rate, for nine hundred feet of cart track cut in two days.
 
@@ -118,13 +118,13 @@ Eight was not paid. She had said the number out loud twice, in a shed, on the bo
 
 ## What He Did Not Ask
 
-He came back with the water and drank it and did not ask her a single question.
+The carter came back with the water and drank it and did not ask her a single question.
 
 That was what she took away from it and it was the part that made her stand there for another minute.
 
 In seven months, four people on nine days of road had asked her a question about something she had done. Two of the four were paid by nobody either, and neither of those two had been in a cart. Eleven people at this stand go east eleven times a month and every one of them is looked at by a man with a rule in his hand or a man with a chalk, and not one of them has ever looked at the hands.
 
-He was thirty-four and he had counted four hundred and forty turnings on his own fingers and he did not ask a woman with four fingers and a thumb where her fifth one went.
+The carter was thirty-four and he had counted four hundred and forty turnings on his own fingers and he did not ask a woman with four fingers and a thumb where her fifth one went.
 
 ## What She Took Away
 
@@ -134,7 +134,7 @@ One. Strips go east and do not come back.
 
 Two. A cart that does not go east brought one back on the twenty-eighth of a month with a date on it and nothing else on it.
 
-Three. The date is the eighteenth of a month three months back, and that is the day a line came down this road that no hand on nine days of road can read.
+Three. The date is the eighteenth of a month forty-eight days back, and that is the day a line came down this road that no hand on nine days of road can read.
 
 Four. Nobody who walks in from the far side of the turn has ever walked out again, and a carter at a cart stand has thought about that once and has not thought about it since.
 
@@ -152,7 +152,7 @@ She went west at the third hour with the bar over her right shoulder and she was
 
 “The woman who came to my shed,” she said. “On foot. She was turned back at your gate.”
 
-He took his time about it.
+The carter took his time about it.
 
 “Aye,” he said.
 

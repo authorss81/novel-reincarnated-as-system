@@ -24,7 +24,7 @@ The folded sheet was still on the boards on the threshold where the woman had pu
 
 She said the whole of that at the same speed she said everything else, which was the speed of a woman reading a figure off a board.
 
-“In the morning they read the ordinary hands. In the afternoon they read the ones nobody else can. There is a man there who is sixty-one and reads a page in four seconds and it is me, and there are eleven other people there who are better at it than me, and I am going to tell you the ordinary fact about that, which is that eleven of them have read in that building for less time than I have.”
+“In the morning they read the ordinary hands. In the afternoon they read the ones nobody else can. There is a woman there who is sixty-one and reads a page in four seconds and it is me, and there are eleven other people there who are better at it than me, and I am going to tell you the ordinary fact about that, which is that eleven of them have read in that building for less time than I have.”
 
 ## The Rate
 

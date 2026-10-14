@@ -20,7 +20,7 @@ Ning Yan came out of the doorway.
 
 “There is a rule in it, and the rule is that a hand is not read on a person’s word. It is read in a room, and the person it is about confirms or denies it.”
 
-“And on the nineteenth of a month three months back a line went up out of this ground with a holder’s answer against it, and there is not one hand on this side of the far road that answered it, and nobody has ever answered one.”
+“And on the nineteenth, forty-three days back, a line went up out of this ground with a holder’s answer against it, and there is not one hand on this side of the far road that answered it, and nobody has ever answered one.”
 
 She said it the way the man with a brush says a number, which is without weight.
 
@@ -54,7 +54,7 @@ The woman put her hand in the inside of her coat and took out a folded sheet and
 
 She said the words the way a man reads a figure off a board, which is exactly, and without putting anything of her own into them.
 
-“The date on it is the eighteenth of a month three months back and the answer was put up on the nineteenth, and the eighteenth and the nineteenth are two different days and they are both on the same sheet and both of them were written by a person who was not in a hurry.”
+“The date on it is the eighteenth, forty-four days back, and the answer was put up on the nineteenth, and the eighteenth and the nineteenth are two different days and they are both on the same sheet and both of them were written by a person who was not in a hurry.”
 
 Ning Yan stood in the open doorway with the boards showing behind her and the bar over her right shoulder and did not move for four seconds.
 
@@ -94,7 +94,7 @@ The woman put her hand flat on the folded sheet against her coat for a second an
 
 Because the only way to answer that question correctly is to tell the truth, and the truth is a thing she has never said out loud to anybody, and saying it out loud in a doorway to a stranger with a folded sheet in her coat is how a voice gets into a book.
 
-He was answerable. That is not a word anybody on nine days of road has for him, and it is not a word she has ever had for anything. He has been answerable since the nineteenth of a month three months back and nobody had asked him anything at all until a woman of sixty-one stood in a doorway four miles east of a mill and quoted two lines and a date and the ordinary voice, and she had no third thing.
+He was answerable. That is not a word anybody on nine days of road has for him, and it is not a word she has ever had for anything. He has been answerable since the nineteenth, forty-three days back, and nobody had asked him anything at all until a woman of sixty-one stood in a doorway four miles east of a mill and quoted two lines and a date and the ordinary voice, and she had no third thing.
 
 He had said, on the nineteenth, in his own words, that it would happen, and that the somebody would have only the two lines and the date and the ordinary voice.
 
@@ -120,7 +120,7 @@ If a woman of sixty-one can carry a thing eleven miles east on a cart, then a wo
 
 That is not a threat. That is four sentences of arithmetic and she did all of them standing in a yard in about eleven seconds and they came out the same every time, and she did not do it.
 
-She has wanted that word read for a hundred and thirty days. She wanted it at the seventh hour of the twenty-eighth so badly that her hand was on the bar and her right arm was open, and she stood in that doorway for eleven minutes with a stranger in a yard and did not go up the hill.
+She has wanted that word read for forty-three days. She wanted it at the seventh hour of the twenty-eighth so badly that her hand was on the bar and her right arm was open, and she stood in that doorway for eleven minutes with a stranger in a yard and did not go up the hill.
 
 ## What Ning Yan Said Instead
 
@@ -132,7 +132,7 @@ The woman watched her for the length of it and then nodded, once, at nothing in 
 
 “That is the correct answer,” she said, “and you did not give it to me. I am going to put it down as a person who did not answer, because that is what happened and I am not going to have a room eleven miles east of here holding anything else about you.”
 
-Then Ning Yan said it out loud, in the ordinary voice, at seven feet, because the alternative was a stranger carrying a sentence east in her coat.
+Then Ning Yan said it out loud, in the ordinary voice, at seven feet, because the alternative was a stranger carrying a sentence east in her coat. Four words. She has not written them down anywhere and she is not going to start.
 
 “That is fair,” the woman said. “You do not know me and I have not told you one thing about myself that I can back up, and you have been standing in a doorway a quarter of an hour and I am not going to pretend that was a mistake in your arithmetic.”
 
@@ -146,7 +146,7 @@ She put the folded sheet down on the boards on the threshold.
 
 She straightened up about half an inch and looked past Ning Yan at the boards, at the bar lying against the wall, at the ring of clay on the floor with the box beside it.
 
-“I came because there is a line in a room eleven miles east of here that has not been answered in three months, and I am sixty-one years old, and I have read a hand in four seconds since I was twenty-two, and there is nothing else in this that I want.”
+“I came because there is a line in a room eleven miles east of here that has not been answered in forty-three days, and I am sixty-one years old, and I have read a hand in four seconds since I was twenty-two, and there is nothing else in this that I want.”
 
 She did not open the sheet.
 
