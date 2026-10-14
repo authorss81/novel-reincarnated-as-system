@@ -317,8 +317,8 @@ this volume begin on days 1,574 · 1,604 · 1,634 · 1,664 · 1,694 · 1,724 · 
 
 | Stage | Chapter | Day | Month-day | Interval | What it costs, on the page, named once |
 | --- | --- | --- | --- | --- | --- |
-| Severance 4 | **556** | **1,629** | the twenty-sixth of the month beginning 1,604 — (1,629 − 134) = 1,495; 1,495 mod 30 = 25; +1 = **26** | **68 days** after Severance 3 at day 1,561 — 1,629 − 1,561 = **68** — **the gap from the asking to the first step past it, and the chapter says why**: she has asked what else is on the list, out loud, with witnesses, and no one on nine miles of road can un-ask it for her | **She cannot be counted where she stands.** Not her arm and not her hand — **a count taken of her where she is misses her, because lists find names and not persons.** She can stand anywhere and no standing still counts. **It lands the week she is first asked to stand still and be counted, and the chapter is about the count missing** |
-| Severance 5 | **572** | **1,697** | the fourth of the month beginning 1,694 — (1,697 − 134) = 1,563; 1,563 mod 30 = 3; +1 = **4** | **68 days** — 1,697 − 1,629 = **68** — two months and a week, and the volume spends sixty-eight days on why | **She cannot follow a name she is given.** A person who tells her where someone is tells her the place he was and not the place he is, and no told road reaches him because there is nowhere told left to reach. **She is findable by asking and not by being led, and the chapter is about walking past the place she was told to** |
+| Severance 4 | **556** | **1,629** | the twenty-sixth of the month beginning 1,604 — (1,629 − 134) = 1,495; 1,495 mod 30 = 25; +1 = **26** | **68 days** after Severance 3 at day 1,561 — 1,629 − 1,561 = **68** — **and the asking is inside that sixty-eight, not after it: the asking is ch 553–554 at days 1,627–1,628 and the stage is the day after the terms are named, so the chapter says why one day is all the asking gets.** She asked what else is on the list, out loud, with witnesses, at day 1,628, and no one on nine miles of road can un-ask it for her | **She cannot be counted where she stands.** Not her arm and not her hand — **a count taken of her where she is misses her, because lists find names and not persons.** She can stand anywhere and no standing still counts. **It lands the week she is first asked to stand still and be counted, and the chapter is about the count missing** |
+| Severance 5 | **572** | **1,697** | the fourth of the month beginning 1,694 — (1,697 − 134) = 1,563; 1,563 mod 30 = 3; +1 = **4** | **68 days** — 1,697 − 1,629 = **68** — two months and a week, and the volume spends sixty-eight days on why | **She cannot follow a name she is given.** A person who tells her where someone is tells her the place he was and not the place he is, and no told road reaches him because there is nowhere told left to reach. **She is findable by asking and not by being led, and the chapter is about the moment the place is given to her — the gift and the loss are one motion, and she is handed somewhere her brother was. The walking past it is ch 578 and not this chapter** |
 | Severance 6 | **588** | **1,772** | the nineteenth of the month beginning 1,754 — (1,772 − 134) = 1,638; 1,638 mod 30 = 18; +1 = **19** | **75 days** — 1,772 − 1,697 = **75** — two months and a half, and the longest interval since the ceiling | **She cannot keep what she finds by holding it.** Not the book and not the brother and not the name — **finding stops being keeping, and holding is what closes.** She can find anything. Keeping it is somebody else's work. **She is nineteen, six stages past the ceiling, with no wages, and the only keeping she has ever known how to do has stopped being hers** |
 
 **On the three costs, as rules for the drafters.** Each is **named once, in its own stage chapter, and is not
@@ -400,11 +400,19 @@ at the close and not a defect to fix mid-draft.** No drafter re-counts a mouth t
 
 | Ch | Batch | Mouth | What is new in it |
 | --- | --- | --- | --- |
-| 544 | 0001 | **a carter of thirty-five who watered a horse at the post trough while a book was put down and never asked what it was** | a thing put down in the open in front of people is put down where it will be found, and finding is not keeping and nobody at a post thinks it is except the people who put things down |
+| 544 | 0001 | **a carter of thirty-five who watered a horse at the post trough nine days after a book of eight leaves was put down on the flat stone in front of him, and who has never asked what it was** | a thing put down in the open in front of people is put down where it will be found, and finding is not keeping and nobody at a post thinks it is except the people who put things down |
 | 561 | 0002 | **a woman at the bench on the store road who has watched nine years of people turn at the turn and never turn back** | a closing is an ordinary thing past the turnstile — every keeping on that ground has a day it shuts — and nobody there thinks a shut keeping is strange except the people it shuts on |
 | 577 | 0003 | **a boy of eleven holding the near end of a board who watched a name said out loud and did not understand it** | a name said in the open in front of people is said where it cannot be taken back, and taking back was never the business and saying it was |
 | 581 | 0003 | **the woman of fifty at the end of the lane who told her where there is a loaf and never said how she knew** | a loaf given without being asked is not a keeping and not a debt, and the difference is the whole of it and nobody writes it down |
 | 593 | 0004 | **a man who keeps the crossing chain now that the man at it does not come back** | what is kept on a list after it shuts is not a place to join and not a punishment; it is gone where names go, and the going is accurate, and the accuracy is the whole of it |
+
+**The first mouth is retrospective, and no chapter stages the putting down a second time.** The book went onto the
+flat stone at the ninth hour of the twenty-fifth of the month beginning 1,574 — **ch 538, day 1,598, with three
+witnesses, and ch 538 stands** — and **ch 544 is day 1,607, nine days later, with the book still on the stone
+because she has not picked it up and no card before ch 563 lets her.** The carter remembers that one morning at the
+trough and not the days between, which is what makes him the right mouth: he saw a thing put down where it would
+be found and he has had nine days to think about it and has thought about none of it. **No chapter in Volume 10
+puts that book on that stone again — she takes it off at ch 563, and that is the only hand that moves it.**
 
 **The tenth part is not given and nothing proves the crews wrong.** No chapter in Volume 10 claims otherwise, and
 **no chapter gives the origin or the moral answer.** The surface answer is not re-voiced in any mouth, in any form,
@@ -457,8 +465,11 @@ a stage is not a licence to move it.
    reversal is not that the list closes. It is that her asking set the day: every question from here narrows what
    can still be found.** The bill at the midpoint is hers: the only thing keeping the list open was nobody asking
    about it, and she has asked.
-10. **Severance 5 at ch 572**, on day 1,697, the fourth of the month beginning 1,694. **She walks past the place
-    she was told to.** The cost is paid in the only place it can be paid.
+10. **Severance 5 at ch 572**, on day 1,697, the fourth of the month beginning 1,694. **Somebody gives her a place,
+    and in the same motion the giving takes the road out of it: she is handed somewhere her brother was, and the cost
+    is paid the moment it is in her hands.** **Ch 572 is the gift and ch 578 is the road — she walks past the place
+    she was told to at the batch midpoint, six chapters later, and the two are different beats and no card merges
+    them.**
 11. **The sixth frame scene at ch 584**, and the answer to whether a name can be held open past the closing.
     **It cannot.**
 12. **She says the brother's name in his hearing at ch 585**, out loud, once, knowing he will not write it and
@@ -809,7 +820,7 @@ making four times.**
 | **`about…`** | **422 across 60 chapters** — body prose, `\babout\b`, headings excluded, **average 7.0, exactly at the line** | **Counted and written down whatever it is, with the method in the sentence with the number. Target: average under 7.0 a chapter.** |
 | **`whole of`** | **193 across 60 chapters**, body prose, whole word, against a target under 80 | **Counted and written down whatever it is. Target: under 80 volume-wide.** A manuscript-level signature and not a repair item |
 | **`eleven`** | **218 across 60**, bare, against a target under 200 | **Counted and written down whatever it is. Target: under 200 volume-wide.** Nineteen is outliving eleven hundred; count before claiming |
-| **Chapter titles** | **538 `#` headings manuscript-wide, zero collisions, longest new title 30 characters** | **Sixty-two more, zero collisions, nothing over about 90 characters, all names** |
+| **Chapter titles** | **538 `#` headings manuscript-wide, zero collisions; the longest title new in Volume 9 is 30 characters and the longest in the manuscript is 39 — *The Question She Had Not Thought To Ask* at ch 426 — then 36 at ch 467 and 34 at ch 443** | **Sixty-two more, zero collisions, nothing over about 90 characters, all names** |
 | **Section-heading identity** | **0 chapters with the same `##` twice** | **0 chapters with the same `##` twice, measured on `^## ` before it is claimed. Cross-chapter echoes left alone unless accidental.** |
 
 ## Carried forward: two defects in `outline/volume-09.md` that no phase may edit
@@ -870,11 +881,13 @@ line and every `##` section heading are excluded.**
 
 Measured on method B chapter by chapter, **twenty-two of Volume 8's fifty-eight chapters sat under the 1,800
 guide, and the volume's midpoint fell in the thinnest stretch of the book. Volume 9 set per-batch floors so that
-could not happen twice, and all four batches landed inside 27,000–30,000.** **Volume 10 sets the same floors:**
-each sixteen-chapter batch targets **27,000–30,000 words of body prose on method B, average 1,800–2,000**, the
-fourteen-chapter Batch 0004 targets **25,500–29,000**, no batch under **24,500**, no chapter under the 1,300 floor
-and none above the 2,700 guide without a scene that needs it. **The volume targets 108,000–118,000 words of body
-prose on method B over sixty-two chapters, average ~1,800–1,950.** Batch 0002, which carries the midpoint,
+could not happen twice, and all four batches landed inside 27,000–30,000 at a per-chapter pace of 1,849–1,933.
+Volume 10 sets the same floors**: each sixteen-chapter batch targets **27,000–30,000 words of body prose on method
+B, which is 1,688–1,875 a chapter**, the fourteen-chapter Batch 0004 targets **27,000–28,000, which is
+1,929–2,000 a chapter**, no batch under **24,500**, no chapter under the 1,300 floor and none above the 2,700 guide
+without a scene that needs it. **The four bands sum — 27,000 + 27,000 + 27,000 + 27,000 = 108,000 at every floor
+and 30,000 + 30,000 + 30,000 + 28,000 = 118,000 at every ceiling — and the volume targets 108,000–118,000 words
+of body prose on method B over sixty-two chapters, average 1,742–1,903.** Batch 0002, which carries the midpoint,
 targets the middle of that band and not the bottom of it. Both conventions travel with every figure reported.
 
 ## Word-count and calendar methods, stated once so every later figure inherits them

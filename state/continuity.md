@@ -4845,3 +4845,53 @@ words longer because it no longer carries a retired figure. Nothing was padded t
   an overrun is a close finding, not a mid-draft defect. **Neither is forgiven and neither touches the page.**
 - **Batch 0001:** ch 539–554, days 1,599–1,628, pressure *asking what else is on it*, irreversible step the
   asking at ch 553–554, 27,000–30,000 words of body prose on method B.
+
+---
+
+## Volume 10 planning — REVIEW REPAIR (applied on the page; findings from `logs/volume-10-planning.review.log`)
+
+**The review raised five defects against `outline/volume-10.md` and one of them against the Batch 0001 card. All five
+are cleared in place. No chapter was opened and no chapter prose exists; no day moved, no stage moved, no chapter
+number moved, no cost was re-worded, no mouth was moved or re-argued, and `outline/series.md`, `outline/ending.md`
+and `outline/volume-09.md` were not touched. Every figure written below was re-measured against the manuscript
+before it was published.**
+
+1. **The title figure, `outline/volume-10.md` construction budget.** The row read *longest new title 30
+   characters* beside *538 `#` headings manuscript-wide*. Re-measured: **the longest title in the manuscript is 39
+   characters — *The Question She Had Not Thought To Ask*, ch 426 — then 36 at ch 467 and 34 at ch 443.** Thirty is
+   Volume 9's own longest, and it is a true figure of the wrong scope. **The row now names both, with the chapters
+   beside them: Volume 9's new titles peak at 30, the manuscript's peak is 39.**
+2. **The 68-day interval, Severance 4.** The stage row called 1,629 − 1,561 **the gap from the asking to the first
+   step past it.** It is not: **the asking is ch 553–554 at days 1,627–1,628 and the stage is the day after the
+   terms are named, so the asking falls inside that sixty-eight and not after it.** The arithmetic was right and
+   the label was wrong, and the row instructed the chapter to explain the label. **It now says the asking is inside
+   the sixty-eight and that one day is all the asking gets.** No day changed.
+3. **The word bands did not sum.** Three sixteen-chapter batches at 27,000–30,000 plus a fourteenth-chapter batch at
+   25,500–29,000 is **106,500–119,000**, against a stated volume of 108,000–118,000 — a floor 1,500 out of reach and
+   a ceiling 1,000 over. **Batch 0004 is now 27,000–28,000 and the four bands sum exactly: 108,000 at every floor and
+   118,000 at every ceiling.** The per-chapter averages in the same paragraph were inherited from Volume 9's
+   fifteen-chapter shape and were wrong for sixteen: **27,000–30,000 over sixteen chapters is 1,688–1,875, not
+   1,800–2,000.** They are now published as measured, **with Volume 9's real pace of 1,849–1,933 a chapter beside
+   them**, and the volume average is 1,742–1,903 over sixty-two. `workspace/volume-10-batch-0001/PROMPT.md` carried
+   the same wrong average and is corrected in the same sentence as its own band.
+4. **Ch 572 and ch 578 were the same beat.** The Severance 5 cost row ended *the chapter is about walking past the
+   place she was told to*, and Batch 0003's midpoint at ch 578 was *she walks past the place she was told to and
+   keeps walking* — one beat six chapters apart inside one batch. **They are now two beats: ch 572 is the gift
+   (somebody hands her a place, and in the same motion the telling takes the road out of it, so the cost is paid the
+   moment it is in her hands), and ch 578 is the road.** Both the stage row and the escalation sequence say so, and
+   each says which chapter the other one is not, so a drafter cannot merge them. The ch 598–599 echo of the walking
+   is Batch 0004's payoff of ch 578 and **stands as it stands.**
+5. **Ch 544's structural mouth was anchored to an event already in the past.** The mouth was a carter *who watered a
+   horse at the post trough **while** a book was put down*, and the book went down at **ch 538, day 1,598 — nine days
+   and six chapters before ch 544 at day 1,607.** The carter's presence is sound; ch 538 puts him at the post with two
+   others and he saw it. **The mouth is now marked retrospective in both files — the outline's mouth row, a new note
+   under the mouth table, and the Batch 0001 card at ch 544 — and it states that the book has not moved since the
+   ninth hour of the twenty-fifth of the month, that no chapter in Volume 10 puts it on that stone again, and that
+   she takes it off at ch 563. That is the only hand that moves it.** The Batch 0001 opening section now carries the
+   same anchor so a drafter reading the prompt alone cannot stage the putting down twice.
+
+**Two facts this repair pins for the drafting phases, because they are the ones a card could get wrong:** **ch 572
+is the gift and ch 578 is the road, and no card merges them** · **the book on the stone is put down once, at ch 538,
+and moves once, at ch 563.** Everything the Volume 10 planning section above states is otherwise unchanged, including
+the three stages at days 1,629 · 1,697 · 1,772, the intervals 68 · 68 · 75, the midpoint's closing day 1,802, the
+bracket budget of three, and *Twenty-two days* still OPEN and unplaced.

@@ -4280,3 +4280,12 @@ written, which `PHASE_SYSTEM.md` gives to the controller alone.**
 - **The one next phase is `workspace/volume-10-batch-0001/PROMPT.md`** — Volume 10 Batch 0001, ch 539–554, days
   1,599–1,628, pressure *asking what else is on it*, the asking at ch 553–554, 27,000–30,000 words of body prose
   on method B.
+
+**The plan has been through one review repair and five findings were cleared on the page — nothing above moved.**
+Re-measured and corrected: **the manuscript's longest title is 39 characters at ch 426, not 30** (30 is Volume 9's
+own) · **Severance 4's sixty-eight days contain the asking and do not follow it; the asking is ch 553–554 at days
+1,627–1,628 and the stage is the next day** · **the four word bands now sum to the volume band, 108,000 to 118,000,
+and the per-chapter averages are 1,688–1,875 on the sixteen-chapter batches** · **ch 572 is the gift and ch 578 is
+the road, and they are not merged** · **ch 544's carter speaks nine days after the book went down at ch 538, which no
+chapter stages twice, and the book moves once, at ch 563.** Full record at `state/continuity.md`
+§*Volume 10 planning — REVIEW REPAIR*.

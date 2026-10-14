@@ -25,7 +25,9 @@ the authority.
 **26** — the day after ch 538 closed. She is standing four feet off a ladder at a post on a strip road nine miles
 west of a turn, at the ninth hour, in daylight, in front of three people: the keeper with the paste pot, a carter
 of thirty-five, a boy of eleven. **Her book of eight leaves is on the flat stone under the ladder, beside the
-keeper's book with an inch of stone between them.** He stands nine feet off with a bag on his shoulder. **She did
+keeper's book with an inch of stone between them — put down at the ninth hour of the twenty-fifth of a month, in
+front of those three people, and not moved since. Nothing in these sixteen chapters puts it on that stone again;
+she takes it off it in Batch 0002, at ch 563.** He stands nine feet off with a bag on his shoulder. **She did
 not thank him.**
 
 She is nineteen, at Severance 3, with no coppers in hand, nine days without bread in the telling count from the
@@ -81,7 +83,7 @@ card spends a bracket.**
 | 541 | 1,601–1,602 | Watch him go back east | Twenty-two miles he walks and she does not follow; the wall stays open behind him | She is west and he is east and the book is east with him; the post is hers to stand at | reversal |
 | 542 | 1,603–1,604 | Sleep one night on open ground with no place | Short breath, open arm, no shed, no room that holds | She sleeps, wakes, and the ground kept nothing for her and she asked it for nothing | cost |
 | 543 | 1,605–1,606 | Get bread by trade before the count runs out | The store woman's rate, said out loud; one good arm; no gift taken | She eats; the nine-days telling count ends because she ended it | decision |
-| 544 | 1,607–1,608 | Stand at the post while the board is filled | The carter, the trough, the paste pot; nobody asks her anything | **Structural mouth one of five: the carter of thirty-five, three to seven short sentences, never one speech** — a thing put down in the open is put down where it will be found | discovery |
+| 544 | 1,607–1,608 | Stand at the post while the board is filled | The carter, the trough, the paste pot; nobody asks her anything | **Structural mouth one of five: the carter of thirty-five, three to seven short sentences, never one speech** — a thing put down in the open is put down where it will be found. **The mouth is retrospective: the book went down at ch 538, day 1,598, with three witnesses, and this chapter is nine days after it, with the book still on the stone. No chapter in this batch puts it down again** | discovery |
 | 545 | 1,609–1,611 | Work for the rate she was given | A body past the ceiling doing work measured by weight and length; the work does not measure her | Merit settles once, on listed work cleared past the line, not on a death, told before spent, out of her foundation; no figure of him stated | cost |
 | 546 | 1,612 | Decide whether the question can be asked | Eight years of never asking a keeper for anything; her hand that does not ask | **Batch midpoint:** she decides the asking is hers to do. She has not asked yet | decision |
 | 547 | 1,613–1,615 | Walk east partway and come back | Twenty-two miles of strip road; a wall she cannot go back down to; legs that remember it | She walks half the asking-distance and turns; the road does not go anywhere she has been and she walks it anyway | danger |
@@ -148,7 +150,8 @@ manuscript has caught itself making four times.
 - Titles: sixteen names, 3–12 words, under ~90 characters, **unique against all 538 standing headings and
   against each other.** Section headings name what is in the room; no two sections in one chapter share a name.
 - Paragraphs two to four sentences; break over ~90 words; never over ~120. **Sixteen chapters, 27,000–30,000
-  words of body prose on method B, average 1,800–2,000**, no chapter under the 1,300 floor, none above the 2,700
+  words of body prose on method B, which is 1,688–1,875 a chapter and 1,849–1,933 at the pace Volume 9's four
+  batches actually wrote**, no chapter under the 1,300 floor, none above the 2,700
   guide without a scene that needs it.
 - Every chapter ends on a question, danger, revelation, decision, reversal, emotional consequence, or unanswered
   mystery — never a neutral action. Short plain sentences where something is understood. One human sentence after
