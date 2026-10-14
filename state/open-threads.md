@@ -1329,6 +1329,15 @@ note.**
 exist and are the authority for Volume 8. Nothing below is on the page yet. These are obligations a drafter inherits,
 not facts a reader has been given.**
 
+**REVIEWED AND REPAIRED before drafting; no thread in this list was added, removed or re-worded by the review.** Six
+defects in the plan itself were closed, all of them figures or a title rather than a thread: the stage span (now **215
+days**, day 1,076 to day 1,291, at intervals of 76 and 139, with 139 the gap and not the length of the climb), the
+closing silence (**eighty-four days, day 1,256 to day 1,340, which is the figure already stated above and was the only
+one that was ever right**), the ch 428 title, two stale day-table rows, one line of dialogue moved from ch 425 to ch
+423, and a day that two chapters both claimed. **The three figures this section carries — ch 423 for the ask, ch 445 for
+the origin, ch 462 for her making him stop — are all unchanged.** Record at `state/current.md` §*Volume 8 plan —
+REVIEW REPAIR*.
+
 ### How Volume 8 pays what Volume 7 left
 
 - **The ch 417 refusal is the volume's origin, and it is paid at ch 445.** She would not hear what the fine hand says

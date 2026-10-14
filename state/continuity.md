@@ -2420,9 +2420,18 @@ were read and not edited. **These are plan facts, not page facts, until ch 421 i
 - **Volume 8 opens day 1,091, the twenty-eighth of the month beginning 1,064 — the day after ch 420 closed.** Volume 8
   closes day 1,340, the seventh of the month beginning 1,334. Batch boundaries: **1,153** (the thirtieth) · **1,206**
   (the twenty-third) · **1,263** (the twentieth).
+- **The two stages span 215 days: day 1,076 to day 1,291, at intervals of 76 and 139.** 139 is the gap between them
+  and not the length of the climb, against Volume 7's six stages in 231 days. *(Corrected at the review of the Volume 8
+  plan: `outline/volume-08.md` headed the section *two stages over about eight months* and then said *two in 139 days*
+  in two places, which are three different figures and none of them is the span. All three now read 215 days.)*
 - **139 days is the longest single interval in the manuscript** and the plan makes the chapter account for it: a stage
-  in this world has always cost her something somebody else paid for, and for the last 139 days of Volume 8 there is
-  nobody paying for anything.
+  in this world has always cost her something somebody else paid for.
+- **The silence is the last EIGHTY-FOUR days of Volume 8, not 139 — day 1,256 (ch 462, where she makes him stop) to day
+  1,340 — and for those eighty-four days there is nobody paying for anything.** *(Corrected at the review of the
+  Volume 8 plan. `outline/volume-08.md` carried *the last hundred and forty-one days*, which is derivable from nothing;
+  this file had propagated it as *the last 139 days*. 1,340 − 1,256 = 84, and the outline pins eighty-four twice, in
+  §*The escalation sequence* and §*Final chapter image*, as the length of his silence after ch 462. **A Batch 0003 or
+  0004 drafter who moves ch 462 off day 1,256 must re-derive the eighty-four and not carry it.**)*
 - **NS 8 cost, named once at ch 434:** **she cannot call a halt** — not the arm, not the hand, not the four fingers,
   but *herself*, once a thing she is in has started. **She can still say no; she cannot make the no take.**
 - **NS 9 cost, named once at ch 470:** **there is nothing above her, and the way out is a document, and she has not

@@ -782,11 +782,14 @@ title, the range and the goal sentence, and the goal was not re-planned:
    floor sheet east of the turn in a hand she cannot read. **She can read two columns against each other, she has been
    doing it for nothing for two years, and nobody on that ground has ever paid her and nobody is going to.**
 8. **Two stages, and the slowness is the point.** **Nascent Soul 8 at ch 434 on day 1,152 and Nascent Soul 9 at ch 470
-   on day 1,291 — intervals of 76 and 139 days, the 139 the longest single interval in the manuscript.** Volume 7 took
-   six stages in 231 days. **A stage in this world has always cost her something somebody else paid for, and for the
-   last hundred and thirty-nine days of Volume 8 there is nobody paying for anything.** Both days re-derived under
+   on day 1,291 — a span of 215 days, at intervals of 76 and 139, the 139 the longest single interval in the
+   manuscript.** Volume 7 took six stages in 231 days. **A stage in this world has always cost her something somebody
+   else paid for, and for the last eighty-four days of Volume 8 — day 1,256, which is ch 462 and the chapter where she
+   makes him stop, to day 1,340 — there is nobody paying for anything.** Both days re-derived under
    `((day − 134) mod 30) + 1`: day 1,152 is the twenty-ninth of the month beginning 1,124 and day 1,291 is the
-   eighteenth of the month beginning 1,274.
+   eighteenth of the month beginning 1,274. *(Item 8 was corrected at the review of the plan: it previously read the
+   span as 139 days and the closing silence as a hundred and thirty-nine days. **139 is the interval between the two
+   stages, not the length of the climb, and the silence is eighty-four and is anchored on ch 462.**)*
 9. **Two costs, each named once.** **NS 8 — she cannot call a halt:** not the arm, not the hand, not the four fingers,
    but *herself*, once a thing she is in has started; she can still say no and cannot make the no take. **NS 9 —
    there is nothing above her and the way out is a document she has not opened:** every technique she owns tops out,
@@ -838,6 +841,44 @@ fourteen titles are in `outline/batches/volume-08-batch-0001.md` and in `workspa
 **Nothing of `outline/ending.md` is previewed.** The plan opens no Sisterhood, no Anchor, no bargain, no Lung, no
 appointment, no death of Feng, and no budget for the Order, and it invents no final enemy. **The Scribe is fixed in
 `outline/ending.md` and belongs to Volume 15.**
+
+## Volume 8 plan — REVIEW REPAIR
+
+**Recorded by the review fix pass over the Volume 8 planning phase. The plan was reviewed before a line of it was
+drafted, which is the only time this repair was available: after ch 421 exists every one of these figures would have
+been canon and the fix would have cost a chapter. Six defects were found and all six are closed. Nothing was
+restarted, no beat, title, turn, midpoint, climax, irreversible decision, bracket or stage moved, and no chapter file
+was opened — Volume 8 is still undrafted and `chapters/volume-08/` does not exist.**
+
+| # | The defect | Where it was | What it is now |
+| --- | --- | --- | --- |
+| 1 | **The ch 428 card headed itself *The Long Room And The Two Shut Doors* while the same file's own fixed-titles table, the drafting prompt and `state/chapter-summaries.md` all carried *What He Has Watched Twice*.** The card file is declared the authority and the heading is the line a drafter reads first. The long room is the Order's building, pinned at ch 444 in Batch 0002 | `outline/batches/volume-08-batch-0001.md`, the `## Ch 428` heading | **The heading is *What He Has Watched Twice*** — the version three other files already carried, so one line moved instead of three. **A room with two shut doors is a room in this manuscript already, at ch 338 and at ch 401, and it belongs to him and not to her**; that is now written into the card so the stale heading cannot come back |
+| 2 | **The power-progression section contradicted itself three ways.** The heading said *two stages over about eight months*, the body said *two in 139 days*, and the cost paragraph said *the last hundred and forty-one days*. **None of the three is the span.** The span is day 1,076 to day 1,291 | `outline/volume-08.md` §*Power progression* and §*Concrete resolution* | **All three now read 215 days**, against Volume 7's six stages in 231 days, **with 139 named as the gap between the two stages and not the length of the climb.** The closing silence is now **eighty-four days — day 1,256, ch 462, where she makes him stop, to day 1,340** — which the outline already pinned twice and which nothing else derives |
+| 3 | **The card file's day table was a chapter behind its own cards at two rows.** It put *the two lines and the date, quoted back to him out loud, by a stranger* at 425 and *the offer, stated in full* at 426. **Those beats are ch 423's and ch 425's card bodies.** Both cards and the drafting prompt had them right, so the table was the stale layer | `outline/batches/volume-08-batch-0001.md`, day table rows 425 and 426 | **The rows match their own cards.** The offer is ch 425 and the Order is named there; the two lines are ch 423 and are not restated at 425. **Row 431 was reworded at the same time, because 426 and 431 both end on an act of inference and the corrected rows would otherwise have read as one beat twice** |
+| 4 | **One line of dialogue was pinned to two chapters.** Xie Changyin's *she did not come eleven miles to ask a question* was given to ch 425 by the card file's *must not* list **and by the drafting prompt's**, while **ch 423's ending hook is where it actually lands** — in the doorway, on the day she arrives | `outline/batches/volume-08-batch-0001.md` and `workspace/volume-08-batch-0001/PROMPT.md`, both *Must not open the fine hand* bullets | **Both now read ch 423**, and both say it is said once. **Both files carried the same wrong chapter, so neither was a check on the other** |
+| 5 | **Day 1,139 was claimed by two chapters** — ch 432 ran 1,134–1,139 and ch 433 ran 1,139–1,144. Every other boundary in the batch was contiguous and non-overlapping | the day table in the card file and in the prompt | **The boundary was re-cut: ch 432 now runs 1,134–1,141, the eleventh to the eighteenth, and ch 433 runs 1,142–1,144, the nineteenth to the twenty-first.** Nothing else moved — ch 431 still ends on 1,133, ch 434 still opens on 1,145 and still takes Nascent Soul 8 on **day 1,152**, Batch 0002 still opens on 1,153, and the two chapters still cover 1,134 to 1,144 between them. **The re-cut is what makes the outline's own eleven days true**, which is pinned twice: *she agrees to a date at ch 432 and takes Nascent Soul 8 at ch 434, eleven days later*. **No day in the old 432 range was eleven days before the twenty-ninth** |
+| 6 | ***a audit*** in the list of pressures no Volume 8 batch runs; the same list at the top of the section reads *an audit* | `outline/volume-08.md`, §*Pressure rotation across the volume* | **an audit** |
+
+**Two day references inside the ch 433 card went with #5 and are recorded here so they are not mistaken for
+invention.** The card read *at the second hour of **the fourth** of the month*, and **there is no fourth anywhere in
+1,142–1,144 — or in the old range — and the next fourth is day 1,157, which is Batch 0002.** A month-day that does not
+re-derive under `((day − 134) mod 30) + 1` is a rule the batch sets for itself, so it is now **the twenty-first**, where
+the chapter ends and the ring comes up. **Ch 433's own *I have been waiting three days* now has something to be
+measured from** — the seventh hour of the eighteenth to the second hour of the twenty-first — and the card says so and
+tells the drafter not to move the gap.
+
+**The reviewer verified the Phase Zero block and found it sound.** All seven of the Volume 7 close's prose findings
+reproduce exactly at the lines given, and the block is safe to execute as written. **It was left where the planning
+phase put it — at the head of `workspace/volume-08-batch-0001/PROMPT.md` — and was not executed here.** Repairing
+eleven closed chapters is the drafting phase's stated first job and this pass did not take it away, because taking it
+would have meant either two phases owning one block or a state file claiming repairs that had not happened.
+
+**Two process findings are reported and not acted on, because they are controller files.** `state/phase-ledger.json`
+does not exist although `PHASE_SYSTEM.md` §*Self-dispatch* says the next batch is selected by reading it, and nothing
+in `scripts/` or `.github/workflows/` references it. And the default continuation prompt in
+`.github/workflows/novels.yml` asks for the next volume **and** its first batch in one call, which is the same
+overscoping `PHASE_SYSTEM.md` §*One Phase, One Job* names as the commonest cause of a phase returning nothing.
+**Neither is this phase's to edit.** The per-phase prompt is what corrected it for this run.
 
 ## Volume 7 planned — `outline/volume-07.md` exists and what the plan fixed
 

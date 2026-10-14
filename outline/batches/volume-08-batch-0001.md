@@ -32,19 +32,45 @@ this batch begin on **day 1,064** (running to 1,093) and on **day 1,094** (runni
 | 422 | 1,092–1,094 | the 29th, the 30th, then the **1st** of the next month | **a strip comes back down the mill road on a cart that does not go east** |
 | 423 | 1,095–1,098 | the 2nd to the 5th | **Xie Changyin walks into the shed at a mill**, and buys nothing |
 | 424 | 1,099–1,102 | the 6th to the 9th | **the structural answer, first mouth of six**, in a carter's mouth, and the eight coppers |
-| 425 | 1,103–1,106 | the 10th to the 13th | **the two lines and the date, quoted back to him out loud**, by a stranger |
-| 426 | 1,107–1,111 | the 14th to the 18th | the offer, stated in full, and it is reasonable |
+| 425 | 1,103–1,106 | the 10th to the 13th | **the offer, stated in full, and every term reasonable, and the Order named once** |
+| 426 | 1,107–1,111 | the 14th to the 18th | **she works out the order of the trade without asking anybody**, and asks for one question of one person and not one thing about herself |
 | 427 | 1,112–1,115 | the 19th to the 22nd | **she spends her one question on somebody else's sheet**, and it is vouched |
 | 428 | 1,116–1,119 | the 23rd to the 26th | the Hunter, nine feet off, and Rao's four hours a month, and the floor still asking her about carts |
 | 429 | 1,120–1,124 | the 27th to the 30th, then the **1st** of the next month | **Wei Ran and the rate and the eight coppers**, and eleven days given up at the lifting floor |
 | 430 | 1,125–1,128 | the 2nd to the 5th | **eleven miles and a turnstile, and she is turned back once** — the physical-risk card |
-| 431 | 1,129–1,133 | the 6th to the 10th | the second attempt, and what she works out about the shape of the offer |
-| 432 | 1,134–1,139 | the 11th to the 16th | **she says a date out loud — the batch's irreversible step** |
-| 433 | 1,139–1,144 | the 16th to the 21st | **she tells him, and he says almost nothing** |
+| 431 | 1,129–1,133 | the 6th to the 10th | the second attempt, and **the shape of the trade put to the evidence for the first time** |
+| 432 | 1,134–1,141 | the 11th to the **18th** | **she says a date out loud — the batch's irreversible step.** The date is the **eighteenth**, at the seventh hour of it, so that the twenty-ninth is exactly eleven days out |
+| 433 | 1,142–1,144 | the 19th to the 21st | **she tells him, and he says almost nothing** |
 | 434 | 1,145–1,152 | the 22nd to the **29th** | **NASCENT SOUL 8 on day 1,152, the twenty-ninth — and the first time she tries to take it back and cannot** |
 
-**Every pinned day has been checked against the month rule.** Day 1,091 is the twenty-eighth of the month beginning
+**The rows at 425 and 426 were re-cut at the review.** As first written the table put *the two lines and the date,
+quoted back to him out loud, by a stranger* at **425** and *the offer, stated in full* at **426** — and those two beats
+are **ch 423's** and **ch 425's** card bodies respectively, one chapter earlier than the table had them, while both
+cards and the drafting prompt had them right. **The rows now match their own cards.** **The offer is ch 425 and the
+Order is named there; the two lines are ch 423 and are not restated at 425.**
+
+**Ch 426 and ch 431 both end on an act of inference and must not be written as one beat.** At ch 426 she works the
+order of the trade out **without a source** — nobody tells her anything, it is her own arithmetic, and it ends with her
+asking for one question of one person. At ch 431 she puts the same shape **to the evidence**, after the turnstile, the
+building and the rate, and what she concludes is different: **that it has a price and she cannot find the price out
+without saying yes.** The two cards share a sentence of reasoning on purpose and the chapter must not.
+
+**Every pinned day has been checked against the month rule.** Day 1,091 is the twenty-eight of the month beginning
 1,064. Day 1,152 is the twenty-ninth of the month beginning 1,124. Batch 0002 opens on day 1,153, the thirtieth.
+
+**The boundary at 432/433 was re-cut at the review.** The table as first written gave **day 1,139 to both 432 and
+433**, and every other boundary in the batch is contiguous and non-overlapping. **Ch 432 now ends on day 1,141 — the
+eighteenth — and ch 433 runs 1,142 to 1,144.** Nothing else moved: ch 431 still ends on 1,133, ch 434 still opens on
+1,145 and still takes Nascent Soul 8 on 1,152, Batch 0002 still opens on 1,153, and the batch still covers 1,134 to
+1,144 across the two chapters. **The re-cut is what makes the outline's own eleven days true** — *she agrees to a date
+at ch 432 and takes Nascent Soul 8 at ch 434, eleven days later*, `outline/volume-08.md` §*The escalation sequence*
+— **and no day in the old 432 range was eleven days before the twenty-ninth.**
+
+**Two day references inside the ch 433 card went with it.** The card read *at the second hour of **the fourth** of the
+month*, and **the fourth of a month falls at day 1,127 in Batch 0001 and at day 1,157 in Batch 0002 — there is no
+fourth anywhere in 1,142–1,144, and there was none in the old range either.** It is now **the twenty-first**, which is
+where the chapter ends and where the ring comes up, and **ch 433's own *I have been waiting three days* now has
+something to be measured from**: the seventh hour of the eighteenth to the second hour of the twenty-first.
 
 ---
 
@@ -222,10 +248,13 @@ this batch begin on **day 1,064** (running to 1,093) and on **day 1,094** (runni
 - **Ending hook:** Geng says, after she has got to the door, that the floor was a block short before she came and is
   two blocks short now, and that nobody has yet worked out how to write that down.
 
-## Ch 428 — The Long Room And The Two Shut Doors
+## Ch 428 — What He Has Watched Twice
 
 - **POV and location:** the made road east of the turn at the ninth hour; then the third floor of the counting house at
-  the fourth hour.
+  the fourth hour. **A man on a made road and a third floor, and nothing else.** The long low building with a lamp in
+  every window is the Order's: she sees it from outside the chain at ch 430, comes back to the gate of it at ch 434,
+  and goes inside it at ch 444 in Batch 0002. **A room with two shut doors is already a room in this manuscript, at
+  ch 338 and at ch 401, and it is his and not hers — it is not in this chapter and must not be echoed as if it were.**
 - **Immediate goal:** ask the Hunter the one thing she has been carrying, and then turn up for the four hours a month
   she has never been paid for.
 - **Resistance:** **he is nine feet off, notebook shut under his arm, and he has been in the same place every day for
@@ -313,8 +342,10 @@ this batch begin on **day 1,064** (running to 1,093) and on **day 1,094** (runni
 
 ## Ch 432 — The Date She Said Out Loud
 
-- **POV and location:** the shed at the mill, the seventh hour, in the doorway, in daylight. **The batch's
-  irreversible step.**
+- **POV and location:** the shed at the mill, the seventh hour of the **eighteenth**, in the doorway, in daylight.
+  **The batch's irreversible step.** The chapter runs the eleventh to the eighteenth and the agreement is at the end
+  of it, at the seventh hour of the eighteenth, **because the twenty-ninth is exactly eleven days out from the
+  eighteenth and the outline pins that interval twice.**
 - **Immediate goal:** give a stranger a date and a place and her own agreement to both.
 - **Resistance:** **she has done this three times in the book and it has cost her every time** — at a trestle on a
   bank, at a gate, at a counter. She knows exactly what saying a date out loud in a room that keeps things does. **And
@@ -322,7 +353,8 @@ this batch begin on **day 1,064** (running to 1,093) and on **day 1,094** (runni
   bottom of the sheet she brought and does not read it out, and says nothing at all, and the doing of it is what makes
   it an entry.**
 - **Major turn:** she says a date eleven days out and a place at the east end of the long road, in the ordinary voice,
-  and **she does not know which of the two things she has just agreed to is the one she will not get back.** Xie
+  and **the date she says is the twenty-ninth — the eleventh of the month beginning 1,124, which is day 1,152** — and
+  **she does not know which of the two things she has just agreed to is the one she will not get back.** Xie
   Changyin folds the sheet and puts it inside her coat and says she will be at the gate at the sixth hour and does not
   need an answer and does not want one.
 - **Emotional or practical consequence:** **it cannot be un-agreed.** The entry is in the best book on nine days of
@@ -338,7 +370,10 @@ this batch begin on **day 1,064** (running to 1,093) and on **day 1,094** (runni
 
 ## Ch 433 — What He Did Not Say
 
-- **POV and location:** the shed, the second hour, boards on the floor, clay in a ring that does not come up.
+- **POV and location:** the shed, **the second hour of the twenty-first**, boards on the floor, clay in a ring that
+  does not come up. **One night, and the chapter is that night.** The chapter runs the nineteenth to the twenty-first
+  and the scene sits at the end of it, **three days after the seventh hour of the eighteenth**, which is what his *I
+  have been waiting three days* is measured from and the drafter must not shorten or lengthen the gap.
 - **Immediate goal:** tell him, because she has never once in this book not told him a thing she decided, and because
   she wants to be argued with.
 - **Resistance:** **he says almost nothing.** She has come to the boards eleven times in this volume expecting to be
@@ -359,9 +394,9 @@ this batch begin on **day 1,064** (running to 1,093) and on **day 1,094** (runni
   ordered, held, priced, refused or thought about, and the word does not appear. **Merit does not settle in this
   chapter.** She cannot be given anything, cannot be paid, cannot write a false line, cannot put a thing back, and the
   reach answers a question and only a question.
-- **Ending hook:** at the second hour of the fourth of the month she tries the ring again, and it comes up the width of
+- **Ending hook:** at the second hour of the twenty-first she tries the ring again, and it comes up the width of
   a finger for the first time in three weeks, and something in her body that has been shut since the thirteenth of a
-  month comes open with it.
+  month comes open with it. **Ch 434 opens on the twenty-second.**
 
 ## Ch 434 — A Body That Cannot Stop
 
@@ -408,7 +443,9 @@ this batch begin on **day 1,064** (running to 1,093) and on **day 1,094** (runni
 - **Must not open the fine hand.** She refused it at ch 417, permanently, and no card may have it reconsidered,
   softened, queried or mentioned in passing. **Her refusal is the reason the Order came, and that is not discovered in
   this batch** — it is the batch midpoint at ch 445 in Batch 0002, and Batch 0001 must not hint at it beyond letting
-  Xie Changyin say, once, at ch 425, that she did not come eleven miles to ask a question.
+  Xie Changyin say, once, **at ch 423**, that she did not come eleven miles to ask a question. **It is ch 423's ending
+  hook, said in the doorway on the day she arrives, and it is said once.** This bullet carried ch 425 until the review,
+  and so did `workspace/volume-08-batch-0001/PROMPT.md`; both now read ch 423, which is where the ch 423 card puts it.
 - **Must not name an office.** No office on nine days of road is named in these fourteen chapters. The Order is named
   once, as a word on a sheet, at ch 425, and its building, its book and its rate are the only things about it that are
   ever on the page in this batch.

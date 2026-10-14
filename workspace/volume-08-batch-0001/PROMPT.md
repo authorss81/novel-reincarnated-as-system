@@ -102,14 +102,21 @@ end of the long road.**
 | 429 | 1,120–1,124 | the 27th to the 30th, then the **1st** | **Wei Ran, the rate, and the eight coppers** |
 | 430 | 1,125–1,128 | the 2nd to the 5th | **eleven miles and a turnstile, and she is turned back once** |
 | 431 | 1,129–1,133 | the 6th to the 10th | the second attempt |
-| 432 | 1,134–1,139 | the 11th to the 16th | **she says a date out loud — the irreversible step** |
-| 433 | 1,139–1,144 | the 16th to the 21st | **she tells him, and he says almost nothing** |
+| 432 | 1,134–**1,141** | the 11th to the **18th** | **she says a date out loud — the irreversible step.** The date is the **eighteenth**, so the twenty-ninth is exactly eleven days out |
+| 433 | **1,142**–1,144 | the 19th to the 21st | **she tells him, and he says almost nothing** |
 | 434 | 1,145–**1,152** | the 22nd to the **29th** | **NASCENT SOUL 8 on day 1,152, the twenty-ninth, and the first time she tries to take it back** |
 
 **Every pinned day has been checked against the month rule.** Day 1,091 is the twenty-eighth of the month beginning
 1,064. **Day 1,152 is the twenty-ninth of the month beginning 1,124** and is **seventy-six days** after Nascent Soul 7
 at day 1,076 — the longest interval since Nascent Soul 1 at day 845, and ch 434 says why in her own arithmetic. Batch
 0002 opens on day 1,153, the thirtieth.
+
+**Ch 432 ends on day 1,141 and ch 433 runs 1,142 to 1,144.** The day table as first written gave day 1,139 to both of
+them; the boundary was re-cut at the review so the two chapters no longer share a day and so that the date she says
+out loud is exactly eleven days before the stage, which `outline/volume-08.md` pins twice. **The agreement is made at
+the seventh hour of the eighteenth and on no other day: she says she will be at the east end of the long road on the
+twenty-ninth, and the twenty-ninth is eleven days after the eighteenth, and that interval is checkable and is the whole
+of what the chapter costs.**
 
 ---
 
@@ -222,8 +229,10 @@ ch 423 and is the only new person in the batch.**
 
 - **Must not open the fine hand.** Spent at ch 417, permanently. No card may have it reconsidered, softened, queried or
   mentioned in passing. **Her refusal is the reason the Order came, and that is not discovered in this batch** — it is
-  ch 445 in Batch 0002, and Batch 0001 must not hint at it beyond letting Xie Changyin say, once at ch 425, that she
-  did not come eleven miles to ask a question.
+  ch 445 in Batch 0002, and Batch 0001 must not hint at it beyond letting Xie Changyin say, once **at ch 423**, that she
+  did not come eleven miles to ask a question. **That line is ch 423's ending hook and it is said in the doorway on the
+  day she arrives — it is not a line for ch 425, and the card file carried the wrong chapter for it until this review.**
+  It is said **once**.
 - **Must not name an office.** No office on nine days of road is named in these fourteen chapters. **The Order is named
   once, as a word on a sheet, at ch 425. No department, no floor, no rank list, no committee, no house, no title beyond
   the fact of being recruited.** One building, one book, one rate, one rule, one lamp on every table.

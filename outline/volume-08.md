@@ -361,7 +361,7 @@ hers.**
 - **The sects that live on the maintained line** — budgets, borders, the same politics at larger scale. **Volume 8
   meets them as a gate and a turnstile and a man with a chain, and nowhere else.**
 
-## Power progression: Nascent Soul 8 → 9, two stages over about eight months, and the slowness is the point
+## Power progression: Nascent Soul 8 → 9, two stages in 215 days, at 76 and 139 apart, and the slowness is the point
 
 `outline/series.md` §4 puts **Nascent Soul 1–9 in Volumes 6–9**. She is at **Nascent Soul 7** at ch 420. **Volume 8
 therefore carries Nascent Soul 8 and 9 — the last two — and Volume 9 opens on the other side of the ceiling.** Nothing
@@ -377,12 +377,14 @@ No new clearance, seal or countersignature is to be invented for any stage, and 
 required.**
 
 **Why the intervals are the longest in the run, and the chapter says so.** Volume 7 took six stages in 231 days at
-intervals of 41, 38, 36, 39, 38 and 39. **Volume 8 takes two in 139 days at intervals of 76 and 139.** Because: the
+intervals of 41, 38, 36, 39, 38 and 39. **Volume 8 takes two in 215 days at intervals of 76 and 139 — day 1,076 to
+day 1,291, and 139 is the gap between the two stages and not the length of the climb.** Because: the
 board is full and she cannot be paid · she cannot be given anything, so no material arrives · the furnace will not
 light itself, so every stage needs a second pair of hands she has to ask for · **and from ch 421 she is not clearing
 listings for him, because he stops being honest with her in Batch 0003 and she stops taking anything at all after
-that.** A stage in this world has always cost her something somebody else paid for. **For the last hundred and forty
-one days of Volume 8 there is nobody paying for anything.**
+that.** A stage in this world has always cost her something somebody else paid for. **For the last eighty-four days
+of Volume 8 — day 1,256, which is ch 462 and the chapter where she makes him stop, to day 1,340 — there is nobody
+paying for anything.**
 
 **The month rule: a month is thirty days, day 134 was the first of a month, and month-day is
 `((day − 134) mod 30) + 1`.** Every day below has been re-derived under that rule and none is a wish. Months in this
@@ -483,7 +485,7 @@ not allowed to become the thing that explains the Wall.**
 | 0004 | 465–478 (14) | 1,263–1,340 | **refusing to be a tool** | **the bill at ch 466, in a number, unasked** · the Hand refused once out loud, in a room · **Nascent Soul 9 at ch 470, and the door is a document** · **Xie Changyin's offer in full, at the maximum** · **the refusal at ch 474, on the record** · **and at ch 478 nothing on nine days of road wants anything from her at all** |
 
 **No two consecutive batches run the same pressure.** None of them is a keeping, a debt, a family paper, an ash, a
-ration, a hiring, a tending, a crossing, a audit, an examination, a hunt, a signature or a confinement. **None of them
+ration, a hiring, a tending, a crossing, an audit, an examination, a hunt, a signature or a confinement. **None of them
 is Volume 7's *rooms bigger than she is* either**, and **Volume 8's batches are the first four in the run in which
 nobody is auditing, examining, hunting or rationing anybody.**
 
@@ -616,7 +618,7 @@ out loud, and there is nothing in it anywhere that is not a trade.** **No harem.
 
 ## Concrete resolution (ch 470–478)
 
-- **Nascent Soul 9 reached (ch 470)**, and two stages taken in 139 days across the volume — **1,152 · 1,291** — with
+- **Nascent Soul 9 reached (ch 470)**, and two stages taken in 215 days across the volume — **1,152 · 1,291** — with
   real intervals of 76 and 139 days, **real months, no skipped breakthrough, no tribulation, no stage announced by
   anything but the layer's one sentence going into the ground.** **The paper still says Foundation the first stage and
   she has still never opened it.**

@@ -374,6 +374,15 @@ alone.
 `workspace/volume-08-batch-0001/PROMPT.md` exist. No chapter of Volume 8 is on the page, and there are no chapter
 summaries to record until Batch 0001 is drafted.**
 
+**REVIEWED AND REPAIRED before drafting, and still no chapter on the page.** The plan was reviewed while it was still a
+plan, and six defects were closed. **The fourteen titles below are unchanged and the ch 428 one is
+*What He Has Watched Twice***, which this file, the drafting prompt and the card file's own fixed-titles table already
+carried, while the card file's chapter heading did not. **The stage span is
+215 days — day 1,076 to day 1,291 — at intervals of 76 and 139**, and 139 is the gap and not the length of the climb.
+**Ch 432 now ends on day 1,141, the eighteenth, and ch 433 runs 1,142 to 1,144**, because the two chapters had been
+given day 1,139 between them and because the date she says out loud has to be exactly eleven days before day 1,152.
+Full record at `state/current.md` §*Volume 8 plan — REVIEW REPAIR*.
+
 **Title *Recruited*, ch 421–478, fifty-eight chapters, four batches, day 1,091 to day 1,340, 250 days.** Goal fixed by
 `outline/series.md` §9 and not re-planned: *In this volume, Ning Yan must refuse the Order, or she becomes exactly the
 tool Yuan hated.* Central pressure: **she is the strongest person in every room for the first time and it turns out to
