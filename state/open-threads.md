@@ -1806,3 +1806,80 @@ false and would have collided with ch 531; corrected at `state/continuity.md` §
 **It added no thread the chapters do not carry, it opened no question the volume has already answered, and it moved none
 of the Volume 8 close's threads.** The Volume 8 close's threads are exactly where the close left them; this section sits
 on top of them and does not move them.
+
+## Volume 9 Batch 0003 (ch 509–523) — what this batch added, live going into Batch 0004
+
+**Ch 509–523 are on the page and Volume 9 is on its last batch.** The threads below are the ones the fifteen chapters
+added, and they are all live at ch 523.
+
+### Added by this batch
+
+1. **Severance 3, taken at ch 523 on day 1,561**, the fourth hour, alone, on open flat ground at a turn, with the
+   batch's one bracketed layer line. **The cost is named once — she cannot go back down the road she came — and is not
+   to be re-derived.** 1,561 − 1,488 = 73; **Volume 9's bracket budget of three in sixty is now three spent, at ch 493,
+   ch 508 and ch 523, and the volume carries nothing else in square brackets.**
+2. **The wall, opened at ch 518 from the inside, on her order, and never closed.** **A wall opened from the inside is a
+   document read from the inside by the person it concerns, and there has to be one pair of hands in the room, and he
+   read it.** **He steps through and one person stays on the wrong side, permanently, and it is him.** **The opening is
+   four feet wide and six feet high with a jamb on each side and it costs her nothing and it is not counted for her.**
+   **He cannot come back across it.**
+3. **The fifth frame scene, at ch 518**, inside the opening and away from her hearing, present tense throughout, about a
+   door and not about being found, sent for, asked or spent. **The answer it finds — that a wall opened from the inside
+   always leaves whoever opened it on the wrong side of it — is the same answer he put on a page at ch 516.**
+4. **The price, in a number of one, put in front of her in writing at ch 516 and not said.** A clean page, one figure,
+   **no heading, no date, no name and no second line.** **She left it on the bench in the dew because her hand will not
+   take a gift.**
+5. **His first words to her since ch 471, at ch 520: four words, at a gate, in daylight, in front of three people she
+   did not ask for — *It was mine.*** **The run from day 1,256 is broken and was published three times first: 258 at ch
+   516, 265 at ch 518, 273 at ch 520, each with its subtraction in the same sentence.** **It saves nobody and she is not
+   grateful and does not thank him.**
+6. **The misreading has ended, at ch 521, and it ended because the truth turned out to look like it.** Nothing on nine
+   days of road wants anything from her and nothing ever will; the carrier says good at ten feet; the carter asks
+   nothing; the store woman leaves a loaf on the counter and does not take it off again; the woman of fifty shuts her
+   door. **The last bread the man who stopped coming did not pay for is still on the shelf and is still not given away.**
+   **She is nineteen.**
+7. **The chair.** It is in a nine-foot room against the west face of the wall and she has not sat in it since the
+   thirteenth of the month beginning 1,514. **It is the first empty chair in this book that is not a death and it is
+   worse than one, because the man is alive and cannot come back.**
+8. **The room, the wall, the turnstile, the gate and the hut, measured and placed on the page** and recorded in full at
+   `state/continuity.md` §*Established facts, Volume 9 Batch 0003*. **She has gone past the bar on two posts once and
+   Batch 0004 does not bring her back across it.**
+9. **The merit settles once more, at ch 512, and is intercepted**, and the finding is that a settling needs a name and a
+   man and a figure and that she had none of the three. **No figure of him on any page.**
+10. **The work.** A painted mark at the eighth foot of a frame four hundred years old, a stone four men could not get
+    over, a board with forty-one lines and a space with a line on it, and a woman of forty-one who writes nine names a
+    shift and asks nothing. **She can still do anything on this ground and nothing on it will hand her a line.**
+11. **Structural mouth four of five, spent at ch 514** in a boy of fifteen with a chain and a cup, and **the fifth
+    mouth is Batch 0004's, at ch 531, and it is Shuyin's.**
+12. **The stone under the keeper's ladder, nine miles west.** Still there, still not asked for again, and **ch 538 is
+    where a book of her own goes onto it.**
+
+### Carried from Batch 0002 into Batch 0004, live and untouched by this batch
+
+The copy at ch 502, which cannot be un-copied · Severance 2's cost · the rule in full and the question Shuyin will not
+answer twice over · the paper against her ribs, opened and read and never named and not the door · the Hunter's first
+appearance spent at ch 491 and his name spent with it · the store woman as structural mouth one · the shed stopped being
+hers and never entered again.
+
+### What Batch 0004 inherits, in one paragraph
+
+**ch 524–538, days 1,562–1,598, thirty-seven days, pressure *surviving being kept*.** She is at Severance 3 with no
+place, no road and one sheet of paper against her ribs, and a man who keeps a book is on the wrong side of a wall he
+opened for her and cannot come back across it. **The demand at its maximum is therefore made at the opened wall, in
+daylight, with his book on a plank table carried out to the near side and him standing on his own side of the opening,
+and she does not cross back** — recorded at `state/continuity.md` §*Three readings taken against the outline*, item 3,
+so that Batch 0004 does not draft a contradiction and then repair it. **Ch 531 is Shuyin's mouth and the fifth and last
+of them, and the accuracy is the whole of it.** **Ch 534–535 is the survival, written in her own hand where his cannot
+take it out, and she refuses kept.** **Ch 536 he writes her as lost, shuts the book, and walks her to the door of the
+room, and he stays where he is.** **Ch 537–538 she carries her own book west to the stone under the keeper's ladder nine
+miles west and leaves it there, and the reason for the wall is recorded where he cannot reach it.** **The Hunter is in
+this batch, once, at ch 531, and she asks him whether a person written as lost is safer than a person not written at
+all, and he says he does not know, and then says the other thing, which is that she asked him, and that this is the
+second question anybody has ever asked him that he would rather not answer.** **Wei Ran has her second and last card
+of the volume here: nine coppers a head, said out loud, a trade and a team and a rate and an opinion, and nothing else.**
+**Ning Wu does not appear.** The cards are at `workspace/volume-09-batch-0004/PROMPT.md`.
+
+### What this file did not do
+
+**It added no thread the chapters do not carry, it opened no question the volume has already answered, and it moved none
+of the Volume 8 close's threads.**

@@ -850,3 +850,55 @@ unchanged at **one, at ch 508**, and the forbidden-term count unchanged at **0**
 copies of the silence kept apart, at `state/continuity.md` §*Volume 9 Batch 0002 (ch 494–508) — REVIEW REPAIR*.
 
 **Next:** `workspace/volume-09-batch-0003/PROMPT.md`, ch 509–523, day 1,489–1,561.
+
+## Volume 9 Batch 0003 — *The Warden*, ch 509–523, day 1,489–1,561 — WRITTEN
+
+**Pressure: what she told him to do with her still in the room.** Fifteen chapters, **28,541 words of body prose on method B
+(every line not beginning `#`)**, average **~1,903**, range 1,602 at ch 519 to 2,409 at ch 518. Inside the volume's own
+band: 27,000–30,000 per batch with a hard floor of 26,000 and a chapter floor of 1,300, and nothing in the batch is under
+1,600 or over 2,410. **Zero blockquotes, code blocks, tables or horizontal rules; one bracketed layer line in fifteen
+chapters, at ch 523; zero bold and zero italic spans; zero straight quotes and zero straight apostrophes; every speech
+closed; longest paragraph 88 words and none over 120; fifteen new titles, unique against all 508 standing and against each
+other, longest 30 characters.**
+
+### One line per chapter
+
+| Ch | Days | Title | What changes on the page |
+| --- | --- | --- | --- |
+| 509 | 1,489–1,491 | **What The Page Is Worth** | the inventory — no money, no wages, no bread since the third, no shed — **the bar tested on flat ground at ninety feet and the finding that a page can find her only where she was**, and the decision out loud not to go back to the shed at the end of the lane |
+| 510 | 1,492–1,494 | **What They Think Is Coming** | **nobody asks her for anything for a whole shift in the room with the six day books**, eleven names said aloud in nine seconds and not one of them looking at her; the anger that is clean and cold; and at the seventh hour a loaf on a bench four miles east that a leg man puts out and does not put out |
+| 511 | 1,495–1,497 | **A Line On No Board** | **a stone carried up eleven feet of stair past a painted mark, unasked and unboarded, on a body at half**; the fourth count gone for four seconds at the tenth foot; eleven men in the books and not one stone; **and something coming up under her boots on flat ground a mile from the cut** |
+| 512 | 1,498–1,500 | **It Does Not Come Back** | **the settling, once**, intercepted out of the ground under her feet and gone into the ground's own record of work; **the work went in and the man did not**; no room, no rate, no woman, no figure; and the answer that there is one more thing in the world that pays a man she cannot see |
+| 513 | 1,501–1,503 | **The Only Instrument She Has** | **the count she has stopped keeping toward anything and started keeping as what is**; six things, and the sixth points at one person; her brother named once in her own want and not out loud; and the decision to walk to the end of the long road |
+| 514 | 1,504–1,507 | **A Boy Of Fifteen At The Gate** | **structural mouth four of five**, in five short sentences across four minutes; eleven miles of made road counted with a bar and four carts on it in two days; the chain lifted three times for nothing; and three hundred yards east of the turnstile, a wall set in the ground with a lit window behind it |
+| 515 | 1,508–1,513 | **He Asks The Carrier** | **it takes him five days**, and the finding that the misreading was an index: eleven people watching a girl with a bar is a thing every one of them told somebody about; **he says nothing at all in this chapter**; and he puts his hand on the strap of the book and leaves it in the bag |
+| 516 | 1,514 | **One, And Not A Word** | **the batch midpoint, shown and not said.** Two hundred and fifty-eight days, derived on the page. He writes forty seconds, turns a clean page face up on a bench and shuts the book. **The price is a number of one and the page has no second line on it.** She does not touch it — her hand will not take a gift — and leaves it on the bench in the dew and walks east |
+| 517 | 1,515–1,520 | **East With A Number In Her Hand** | five days and eleven miles, the woman of fifty and the man of fifty with four boards, **the misreading not corrected and not correctable**, the number she cannot argue with, **the fear named once out loud in the open**, and a wall set in the ground with a light in a window behind it |
+| 518 | 1,521 | **What She Told Him To Do** | **the batch climax and its irreversible step.** *Open it*, said once, on the boards, with the latch down, knowing the number. **The fifth frame scene**, away from her hearing, present tense throughout: a doorway with nothing under his feet, one figure on the far side of it, and the answer that a wall opened from the inside always leaves whoever opened it on the wrong side. **He opens it, makes no sound, and steps through. One person stays wrong-sided, permanently, and it is him** |
+| 519 | 1,525–1,527 | **A Light Behind The Wall** | three days in a nine-foot room, **the first empty chair in this book that is not a death and is worse than one**; eleven words said once to a wall at a hundred yards; and at the fourth hour she sits in it and gets up and squares it back against the wall |
+| 520 | 1,529 | **The First Thing He Says** | **she says it out loud at a gate in daylight in front of three people she did not ask for**, and **he speaks to her for the first time in over two hundred days — two hundred and seventy-three days, derived in the same sentence — and it is two words: *It was mine.*** It saves nobody. She is not grateful and does not thank him |
+| 521 | 1,532–1,541 | **The Ground Finds Out** | the misreading ends **because the truth turned out to look like the mistake and not because anybody was corrected**; the carrier says good at ten feet; the store woman leaves a loaf on the counter and does not take it off again; **and being believed, for the wrong reason, is the strangest thing that has happened to her in a year** |
+| 522 | 1,542–1,553 | **She Does Not Ask Him Back** | twelve mornings in an opening in a wall at the fourth hour; **there is a way to ask him and no way for the sentence to arrive**; she could un-say it and it would change nothing, and not trying is the whole of what is left to decide; and **the first person she has hurt on purpose who did not go somewhere to get away from it** |
+| 523 | 1,554–1,561 | **Two Miles That Go Nowhere** | **Severance 3 at the fourth hour of the eighteenth, alone on flat ground at a turn, seventy-three days after Severance 2 and the shortest gap of the run**; the bracket; **she cannot go back down the road she came** — the lane walked four times in one day, in exactly the time it has always taken, going nowhere she has been; and she does not weep about it |
+
+### What the batch established, for whoever drafts Batch 0004
+
+- **Severance 3 is on the page** at day 1,561, seventy-three days after Severance 2, and **the volume's three stages now stand 149 days apart first to third and 270 from Nascent Soul 9.**
+- **The wall is open.** He is on the far side of it, alive, and cannot come back across. **The room is nine feet by eleven and she sleeps on its boards; the chair is still in it and she has not sat in it since the thirteenth.**
+- **She knows the number of one was him.** She said it out loud at the gate in daylight and nobody on nine days of road believes a word of it.
+- **The misreading has ended, on the ground's own terms, and the ground believes her for the wrong reason.**
+- **The entry itself is still not written.** Her ch 474 page is in the book; **the rule is written once and Batch 0004 owns it at ch 536.**
+- **The Hunter is not in this batch.** His second and last Volume 9 page is Batch 0004's, at the mouth of ch 531, and she asks him there.
+
+### Deviations from the plan, recorded rather than hidden
+
+1. **The long road is eleven miles from the crossing to the gate, not four.** Ch 504, on the page and not reopened, gives
+   the long road as eleven miles going east to a gate with a chain on it, and the batch follows the page and derives the
+   figure on the page at ch 514 with the bar used as the measure. Full reasoning at `state/continuity.md` §*Three
+   readings taken against the outline*.
+2. **Ch 520 does not name the third cost.** The card carries *the road behind her is not hers any more* in its
+   information line; Severance 3's cost is named once, in its own stage chapter, at ch 523, and ch 520 carries the age,
+   the stages, the wages and the body and leaves the road alone.
+3. **Ch 531's room.** The demand at its maximum in Batch 0004 will be made at the opened wall and not in the room, because
+   the man on the wrong side cannot come back across. Recorded so Batch 0004 does not re-open the chapter and find a
+   contradiction.

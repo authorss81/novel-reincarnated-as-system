@@ -4033,3 +4033,205 @@ ch 518 day 1,521, ch 519 day 1,525, ch 520 day 1,529 and ch 523 day 1,561.** Exa
 0001 phase directory, whose fifteen chapters are on the page and summarised, has been marked complete so the dispatcher
 cannot select it ahead of Batch 0003 and re-draft a finished batch.** Volume 9 is not complete and no volume-close phase
 was created.
+
+## Volume 9 Batch 0003 (ch 509–523) — established facts, carried to Batch 0004
+
+**Ch 509–523 are on the page.** Fifteen chapters, **28,541 words of body prose on method B (every line not beginning
+`#`)**, average **~1,903**, range 1,602 at ch 519 to 2,409 at ch 518, day 1,489 to day 1,561. No chapter of Volume 9
+Batch 0001 or Batch 0002 was opened, and no chapter of Volumes 1 to 8 was opened.
+
+### The days, re-derived under ((day − 134) mod 30) + 1
+
+| Ch | Days | Month-days |
+| --- | --- | --- |
+| 509 | 1,489–1,491 | sixth – eighth of the month beginning 1,484 |
+| 510 | 1,492–1,494 | ninth – eleventh of the same month |
+| 511 | 1,495–1,497 | twelfth – fourteenth of the same month |
+| 512 | 1,498–1,500 | fifteenth – seventeenth of the same month |
+| 513 | 1,501–1,503 | eighteenth – twentieth of the same month |
+| 514 | 1,504–1,507 | twentyfirst – twentyfourth of the same month |
+| 515 | 1,508–1,513 | twentyfifth – thirtieth of the same month |
+| **516** | **1,514** | **the first of the month beginning 1,514 — the batch midpoint** |
+| 517 | 1,515–1,520 | second – seventh of the month beginning 1,514 |
+| **518** | **1,521** | **the eighth of the month beginning 1,514 — the opening and the frame scene** |
+| 519 | 1,525–1,527 | twelfth – fourteenth of the same month |
+| **520** | **1,529** | **the sixteenth of the same month — he speaks** |
+| 521 | 1,532–1,541 | nineteenth – twentyeighth of the same month |
+| 522 | 1,542–1,553 | twenty-ninth – thirtieth of the month beginning 1,514, then first – tenth of the month beginning 1,544 |
+| **523** | **1,561** | **the eighteenth of the month beginning 1,544 — Severance 3** |
+
+Days 1,522–1,524 and 1,530–1,531 and 1,542's run into 1,544 are inside the walking and are carried on the page, not as
+gaps. **Every interval the batch publishes is derived in the same sentence that publishes it:** 1,561 − 1,488 = 73 ·
+1,521 − 1,256 = 265 · 1,529 − 1,256 = 273 · 1,516 − 1,256 = 258 · 1,561 − 1,412 = 149 · 1,561 − 1,291 = 270 ·
+1,504 − 1,486 = 18 · 1,515 − 1,482 = 33.
+
+### Established facts
+
+- **Severance 3 is taken at ch 523, day 1,561, the fourth hour**, alone, on open flat ground at a turn between the lane
+  and the store road, **with no wall and no door within nine hundred yards and no person within nine hundred yards**, no
+  tribulation, no clerk, and the batch's one bracketed layer line. **Seventy-three days after Severance 2 at day 1,488**,
+  the shortest interval of the run and the shortest since the second stage of the realm, and the chapter says why it is
+  short. **1,561 − 1,488 = 73; the three stages now stand 149 days apart first to third and 270 days from Nascent Soul 9
+  at day 1,291.**
+- **Severance 3's cost, named once at ch 523: she cannot go back down the road she came.** Not Lowwater, not the mill,
+  not the store — **the two miles of lane between the bench and the store stop being a distance she can walk. She can
+  walk them; they do not go anywhere she has been.** **Not a limb, not a hold, not a count of breath and not a
+  building.** Severance 1's and Severance 2's costs are carried at ch 523 only as facts and are not re-derived.
+  **No later chapter may re-derive this one.**
+- **The price of a door, published in writing at ch 516 and not said.** A single figure on a clean page — one stroke
+  standing on its own foot with a flag on it, in the hand nine hundred years old — **and the page has no heading, no
+  date, no name and no second line.** She reads it without touching it, does not ask a second time, **and leaves it on
+  the bench in the dew**, because her hand will not take a gift. **The price is a number of one. It is not her.**
+- **THE BATCH'S IRREVERSIBLE STEP — ch 518.** She says *Open it* out loud, once, in the ordinary voice, on the boards of
+  a nine-foot room with the door shut and the latch down and a bar of a wall across the back of it, **knowing the number
+  and not knowing whose it is**, and he opens it from the inside. **A wall opened from the inside is a document read
+  from the inside by the person it concerns, and there has to be one pair of hands in the room, and he read it.** He
+  steps through and **one person stays on the wrong side, permanently, and it is him.** **No card may soften it, defer
+  it, or put the man back through the wall.**
+- **THE FIFTH FRAME SCENE, at ch 518, inside the opening and away from her hearing.** **It is not a field and it is not
+  a list and it is not a strip of paper on a floor; it is a doorway standing in a space with nothing under his feet, four
+  feet wide and six feet high, made of pale stone, with one figure standing on the far side of it nine feet tall.** He
+  has one question — *Does a wall open from the inside without somebody staying on the wrong side of it* — and he finds
+  the answer: **it cannot, and the answer is the figure he put on a page on the first of a month.** **Every sentence he
+  speaks in it is in the present tense** and **no other character is in a marked present frame in the batch at all.**
+  The frame is **not** counted against his silence with her.
+- **The silence, both figures published on the page with the subtraction in the same sentence:** **two hundred and
+  fifty-eight days at ch 516** (1,516 − 1,256), **two hundred and sixty-five at ch 518** (1,521 − 1,256), **two hundred
+  and seventy-three at ch 520** (1,529 − 1,256). All three are counted from day 1,256, which is ch 462, the chapter where
+  she makes him stop and he puts a thing down and does not pick it up again. **On the page, no spoken word of his reaches
+  her hearing in any chapter of this batch before ch 520.** Ch 515 and ch 516 give him no line of speech at all; ch 518
+  gives him none in the room and his two lines in the frame are away from her hearing. **His first words to her since
+  ch 471 are four words at ch 520: *It was mine.*** Batch 0002's ch 498, 501, 502 and 503 have him speaking to her
+  outdoors and that prose stands and is not to be rewritten.
+- **The wall, the room, the turnstile and the hut, as staged in this batch and now on the page.** **The long road is
+  eleven miles from the crossing to the gate** — derived on the page at ch 514 with a nine-foot-nine bar used as the
+  measure — **the gate carries a chain and a tin cup on a wire and a boy of fifteen works it from the fourth hour to the
+  seventh and from the eleventh to the third; four hundred yards east of the gate is a bar on two posts with nothing on
+  it; three hundred yards east of that, in open flat, a wall set in the ground, four feet high, running north and south
+  further than the flat goes; a hut a hundred yards behind the wall with one small window and a light in it.** The
+  room is built against the **west face** of the wall: **nine feet by eleven, boards on the floor, a chair, a table, a
+  book on the table, a bed frame with nothing on it, a shelf with a jug and a folded blanket, a window facing west, and
+  a chimney that draws.** **No hall in it and nothing in it that is called anything.**
+- **The opening.** He put his two hands flat on the stone four feet off the boards, his shoulders moved once, **there was
+  no sound**, the ground inside the wall went down four inches and came up the way clay comes up out of a dish, and there
+  is an opening four feet wide and six feet high with a jamb on each side and nothing loose anywhere on it. **She goes
+  through it and it costs her nothing and it is not counted for her.** **He cannot come back across it.**
+- **She went past the bar on two posts once, at the second hour of the eighth of the month beginning 1,514, and has not
+  gone back through it.** Days 1,522–1,524, 1,530–1,531 and 1,555–1,558 are walked or stood out on the page and are not
+  gaps. **Nothing in this batch brings her back across it.**
+- **Shuyin, in this batch, is a receiver and not a walker.** He is found, and she comes to him. **He says no word in
+  her hearing in any chapter before ch 520.** He shuts every door he walks through and waits for the latch — twice on the
+  page in this batch, at the trough shed on the thirtieth and in the room at the ninth hour of the eighth. He carries no
+  staff, holds no court, wears no uniform, sends for nobody, asks her no question about herself, threatens nobody, and
+  **is not a villain and is not made wrong.** He does not explain the wall and he is not allowed to. **`Shuyin` is not
+  named in this batch at all, in narration or otherwise, and `Warden` returns 0.**
+- **Structural mouth four of five, spent at ch 514**, in a boy of fifteen at the chain, in five short sentences across
+  four minutes: *The man that had this chain is not here. / He went in the spring. / Nobody put anybody else on it. / The
+  chain goes up and the chain goes down. / There is not an office here. There is a chain and a cup and me.* **He is not
+  the boy of seventeen at the crossing, the two never appear in one scene, and he is a mouth and not an office.**
+  **The fifth mouth is Batch 0004's, at ch 531, and it is Shuyin's.**
+- **The misreading, run to its full height and ended on the page at ch 521.** **Eleven people on nine days of road, two
+  months, every one of them correct about the shape and wrong about the person, and not one of them a villain.** It ends
+  **because the truth turned out to look like the misreading** — a wall came out of a room past a turnstile and a man did
+  not come back out of it — **and not because anybody was corrected.** She corrects nothing and takes no credit for it.
+  **On the page:** the carrier of four boards comes down off the lane to ten feet and says good instead of thirty; the
+  carter of twenty-two slows to a walk for nine seconds alongside her and asks nothing; the woman at the store puts a
+  loaf on the counter and pushes it four inches towards her and does not take it off again; the woman of fifty offers a
+  third time and shuts her door for the first time; the man of fifty asks a plain question at the crossing and gives three
+  facts. **The bread the man who stopped coming did not pay for is still on the shelf behind the counter and is still not
+  given away.** **She is nineteen at ch 520 and at ch 523.**
+- **The work, the board and the six day books.** The room with six day books is off the cut on the low side. A woman of
+  forty-one keeps them. **The board outside carries forty-one lines a month and she can take none of them, and no line
+  out of forty-one has ever had her name on it.** **A space on the board means a thing is wanted and has not been
+  taken**, one appeared on the twelfth, and by ch 521 it had a man's name under it. **A line on a frame is a mark on the
+  upright at the eighth foot; above it one man carries it alone; four men had gone above it in six weeks and two of them
+  brought a stone to the mark and could not get it over.** She carried it on the twelfth, on a body at nine days without
+  bread, and her fourth count went at the tenth foot and took four seconds to come back.
+- **The merit settles once in this batch, at ch 512, on listed work cleared past the line and not on a death.** It comes
+  up out of the ground under her feet out of the open place behind her fourth rib and **it goes down, not up**: into the
+  ground and on into the ground's own record of work, which any hand anywhere can go looking for work in. **It does not
+  come back.** **The work went in and the man did not: no room, no rate, no woman and no figure, because a day book
+  takes a name and a man and a figure and there was no name and no man.** **No figure of the settling is given and no
+  figure of what is left of him is stated on any page before it or after it. No Hand is spent. No Door is spent except
+  the one at ch 518. `Ledger` returns 0.**
+- **The reach, the body and the means at ch 523.** **Right index gone, four fingers and a thumb. Right arm open four
+  days in five, and it is a rate and not an event.** Eight of eleven holds. **Short breath four counts everywhere
+  including inside a loaded reach, and the fourth count takes about four seconds to come back on flat ground and nine on
+  a loaded one, and five seconds at the fourth hour on a flat floor.** **The open place low behind her fourth rib, the
+  size of a coin, since the eighteenth of the month beginning 1,274, and it is what the merit comes out of, and it does
+  not close.** Not hungry, and that is finished, and she is thinner than she was on the eighth. **Nineteen years old, past
+  the ceiling by three stages. No money and no wages for four months. Bar, strap rebound off her own coat lining. Dish
+  with clay, ring a finger’s width, both in a bag.** **The paper against her ribs is open, read, unnamed, is not the
+  door, and is not called anything in this batch.**
+- **The body, as a count of what it has left.** She is at the top of a realm with nowhere to stand past it except through
+  a document she opened herself. She cannot be paid. Her hand will not take a gift. She cannot be met where she is
+  expected. **And now the road behind her does not go back.** None of the eight costs in eight years is a limb except
+  the finger, and none of the three Severance costs touches her body at all.
+
+### The continuity facts this batch confirmed and did not touch
+
+Carried from Volumes 7 and 8 and all live: **the year of non-forgiveness is not mentioned once** · **no figure of what
+is left of him on any page** · `Ledger` 0 · the Hand put down at ch 462 and staying down · Xie Changyin, the Order and
+the building with the lamps absent · **Feng, Shen Xiu, Qiu, Wen and the Hunter’s sponsors absent** · the relicensing
+legs not named and no clearance, seal or countersignature invented or said to be required · the register still reads
+*reconciled* and is not read · **the Clay Plate worn against her ribs and not described** · `plate` 0 · MEMBER ABSENT
+not raised · *kiln-born* 0 · the surface answer of ch 267 not re-voiced in any mouth (`charged` 0 · `bookkeeping` 0 ·
+`receipt` 0 · `bounded world` 0 · `the walls` 0 · `announcement layer` 0) · no harem and nothing a romance · **she never
+says her mother’s name** · no new final enemy · **the origin and the moral answer are not on the page and Shuyin is not
+allowed to become the thing that explains the Wall** · **the tenth part is not given and nothing proves the crews wrong**
+· **the entry itself is not written; the rule is written once and ch 536 owns it** · **no duplicate `##` heading in this
+batch.**
+
+### Three readings taken against the outline, recorded rather than hidden
+
+1. **The long road is eleven miles, not four.** `outline/volume-09.md` §*Major locations* and ch 504, which is on the
+   page and was not reopened, give the long road as going **east for eleven miles to a gate with a chain on it**. The
+   batch prompt’s physical-risk line and its ch 514 card both say *a walk of four miles east to a gate*. **The page
+   governs, the batch uses eleven, and ch 514 publishes the figure with its method on the page** — twenty-three hundred
+   and something lays of a bar nine feet nine — so nothing in the batch contradicts ch 504 and the reader is given a
+   measurement rather than a distance asserted. The four-mile figure is not carried.
+2. **Ch 520 does not name the third cost.** The ch 520 card’s information line ends *and the road behind her is not
+   hers any more.* **Severance 3’s cost is named once, in its own stage chapter, at ch 523, and the outline’s own rule
+   is that no later chapter re-derives one.** Ch 520 carries her age, the three stages, the wages, the food and the body
+   in full and leaves the road to ch 523.
+3. **Where the demand at its maximum is made in Batch 0004.** The man on the wrong side of a wall he opened cannot come
+   back across it, so he cannot be in a room on her side of it. **Ch 530–533 will therefore be made at the opened
+   wall, in daylight, with his book on a plank table carried out to the near side and him standing on his own side of
+   the opening; she does not cross back; and at ch 536 he writes, shuts the book, and walks her to the door of the room
+   and stays where he is.** Recorded here so Batch 0004 does not draft a contradiction and then repair it. **No chapter
+   in this batch puts him back on her side of the wall and no card in Batch 0004 may.**
+
+### Construction budget — Volume 9 Batch 0003, counted rather than quoted
+
+Body prose only, method B, measured on the fifteen files as they stand: **28,541 words, average ~1,903**, inside the
+volume’s own 27,000–30,000 band and its 26,000 floor · **0** blockquotes, code blocks, tables or horizontal rules ·
+**1** bracketed layer line, at ch 523, **and nothing else in square brackets** — **Volume 9’s budget of three in sixty is
+now three spent, at ch 493, ch 508 and ch 523, and the volume carries nothing else in square brackets** · **0** straight
+double quotes and **0** straight apostrophes, every speech closed in all fifteen files · **0** bold spans and **0** italic
+spans, which continues the thinnest markup run in the manuscript · **0** paragraphs over 90 words, longest **88**, and
+**0** over 120 · **15** new `#` headings, unique against each other and against all 508 standing, **523 headings
+manuscript-wide with zero collisions**, longest new title **30** characters · **0** duplicate `##` headings · **0** exact
+duplicate paragraphs at six words or more · **0** all-caps standalone lines · **0** authorial scaffolding on the widened
+pattern and on the bare forms · **0** named weekdays, **0** named calendar months, **0** named weeks · **0** of the
+retired seven phrases as phrases · **0** instances of *his eyes widened · couldn’t believe it · suddenly · little did he
+know* · **0** of the ch 267 surface answer · **0** at every token in the continuity list above, measured on word
+boundaries in body prose before it is claimed.
+
+Counted and written down whatever they are, with the method in the same sentence: **`about` 72** across the fifteen
+chapters, body prose, `\babout\b`, **average 4.8** — **Batch 0001 stands at 130 over fifteen and Batch 0002 at 139, and
+this is the first Volume 9 batch under the volume’s stated target of an average below 7.0** · **`nobody` 20, average 1.3
+a chapter**, inside the volume’s target of under 2.0 and down from Batch 0002’s 26 · **`whole of` 48**, which is under
+Batch 0002’s 51 on the same measure and is flagged for the volume close, where the outline says a manuscript-level
+signature is settled · **`eleven` 79** · **`Shuyin` 0 · `Warden` 0 · `list` 1**, at ch 518 in the frame scene and not
+conflated with his book · **`send for` 1**, at ch 522, in the negative construction *there is nothing on nine days of road
+that would come*, which is the batch’s own point and is counted · **`vouch` 0 · `Ledger` 0 · `reconciled` 0 ·
+`plate` 0 · `licence` 0 · `license` 0 · `clearance` 0 · `countersignature` 0 · `seal` 0 as a leg · `kiln-born` 0 ·
+`MEMBER ABSENT` 0 · `tribulation` 0 · `Feng` 0 · `Anchor` 0 · `Sisterhood` 0 · `Scribe` 0 · `bargain` 0 · `Lung` 0 ·
+`appointment` 0 · `budget` 0 · `Wall writ` 0 · `field agent` 0** — every one measured on word boundaries in body prose
+before it is claimed.
+
+### `Ning Wu` in this batch, counted
+
+**Named once, at ch 513, in her own want and not out loud**, in nine seconds, in a passage where she puts a ten-year
+line with no mark on it beside the five other things she is keeping and does not say the name. **He does not appear, is
+not on the page in a scene, is not met, and is not named in his own mouth and not on a page of the book.**
