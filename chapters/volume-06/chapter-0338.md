@@ -30,7 +30,7 @@ NING YAN. OF LOWWATER, and it is at the top of a column in a hand that has never
 
 He has never seen that name written.
 
-He has never seen that name written. He has read it four thousand times in a layer and he has never once seen a person put it down on anything.
+He has read it four thousand times in a layer, and he has never once seen a person put it down on anything with a brush.
 
 Under that column there are two more lines, and he looks at both of them, and the first of them is hers again and it says material and it has a place against it and a rule underneath with nothing at the end of it.
 

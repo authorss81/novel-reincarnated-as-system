@@ -10,6 +10,15 @@ By batch: **24,529 · 23,975 · 25,027 · 21,550**. Longest chapter ch 338 at 2,
 close-third exception; shortest ch 331 at 1,314; nothing under the 1,300 floor and nothing above the 2,700 guide
 except that one exception chapter.
 
+**SUPERSEDED BY THE CLOSE'S OWN REVIEW.** The close was reviewed and three more chapters were repaired, so the
+figures a Volume 7 drafter must use are **95,110 words** over sixty-two chapters, by batch
+**24,529 · 23,975 · 25,056 · 21,550** (averages **1,635 · 1,498 · 1,566 · 1,437**), longest chapter **ch 338 at
+2,990**, longest paragraph **100 words at ch 309**, `nobody` family **142**. The three chapters are **ch 332, ch
+338 and ch 342**; no beat, day-table position, title, turn, midpoint, climax, irreversible decision, bracket or
+stage moved. **The close's own figures are left above as the record of what the close produced and are not
+rewritten.** Repair record in `state/current.md` under `## Volume 6 close review — REPAIR` and in
+`state/continuity.md` under `## Volume 6 close — review repair`.
+
 **The next phase is the Volume 7 planning phase, at `workspace/volume-07-planning/PROMPT.md`. It writes
 `outline/volume-07.md`, which does not exist. This phase does not create `outline/volume-07.md` and does not
 create a second prompt.**
@@ -316,6 +325,8 @@ returns **zero** for all four.
 | `state/current.md` — **`## Volume 6 close audit — OPENED`** | the audit table: fifteen numbered rows, each a named item in `outline/volume-06.md` with a page reference and a pass/fail |
 | `state/current.md` — **`## Volume 6 close audit — CLOSED`** | the sixteen repairs and the count, seven findings recorded and not repaired, the seventeen continuity items walked one at a time, the protagonist answered in writing, and the Volume 7 hand-off |
 | `state/continuity.md` — **`## Volume 6 close — repairs`** | every figure re-derived from the chapters after the repairs |
+| `state/current.md` — **`## Volume 6 close review — REPAIR`** | **the close's own review: six findings, three prose repairs at ch 332, ch 338 and ch 342, three corrected measurements, two state-file faults, and one pre-existing condition recorded and not repaired** |
+| `state/continuity.md` — **`## Volume 6 close — review repair`** | the per-file table of the three repairs, the rebuilt Batch 0003 per-file counts, and the figures current after them |
 | `state/open-threads.md`, `state/chapter-summaries.md`, `state/book-metadata.md` | the volume-close lines |
 | `workspace/volume-07-planning/PROMPT.md` | **exactly one** follow-up prompt, and no more |
 

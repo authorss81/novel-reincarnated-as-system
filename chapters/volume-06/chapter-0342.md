@@ -18,7 +18,7 @@ There was nobody inside to be told and no county book on that ground to take any
 
 [Ning Yan, past the line, servant-born, under no ceiling any county holds. Golden Core, stage seven, is held.]
 
-It said it once, in the far-side house form, and then it was finished, and it did not explain and it did not advise and it did not begin.
+Seven. That was the count now, and the layer gave her the same sentence in the far-side house form it had given her at the first of them, and she was already walking toward the bar before the last of it was out.
 
 ## What It Took
 

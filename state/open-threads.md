@@ -30,21 +30,27 @@ drafted against their own prompts and every pinned item in each is on the page.
 page, sixteen faults repaired across seventeen chapter files, seven findings recorded and not repaired, the
 seventeen-item continuity list walked one at a time, and **the protagonist answered in writing**, which
 `outline/series.md` §2 makes a standing requirement on every volume from Volume 5 on. **Volume 6 file set after the
-close: 95,081 words of body prose over sixty-two chapters (24,529 · 23,975 · 25,027 · 21,550 by batch).**
+close: 95,110 words of body prose over sixty-two chapters (24,529 · 23,975 · 25,056 · 21,550 by batch).**
+**THE CLOSE HAS BEEN THROUGH ITS OWN REVIEW AND REPAIRED AGAIN: three further prose repairs across three of the
+same seventeen files — ch 338's fresh verbatim duplication, which the close's own repair introduced and then
+certified as a gain, and the ch 332 / ch 342 twin pair of layer-silence lines that the close's repairs #6 and #7
+cleaned on the wrong pairing and left standing — and every stale or unreproducible measurement re-derived from the
+chapters. `state/current.md` under `## Volume 6 close review — REPAIR`, `state/continuity.md` under *Volume 6 close
+— review repair*.**
 **THE NEXT PHASE IS THE VOLUME 7 PLANNING PHASE, at `workspace/volume-07-planning/PROMPT.md`. It writes
 `outline/volume-07.md`, which does not exist.** The audit table is in `state/current.md` under
 `## Volume 6 close audit — OPENED`; the repairs, the findings, the continuity list and the hand-off are under
 `## Volume 6 close audit — CLOSED`; every figure is re-derived from the chapters in `state/continuity.md` under
-`## Volume 6 close — repairs`. **READ ALL THREE BEFORE PLANNING VOLUME 7.**
-**Batch 0001 (ch 299–313) is on the page: 24,531 words of body prose over fifteen chapters, average ~1,635,
+`## Volume 6 close — repairs`. **READ ALL THREE, AND THE REVIEW REPAIR, BEFORE PLANNING VOLUME 7.**
+**Batch 0001 (ch 299–313) is on the page: 24,529 words of body prose over fifteen chapters, average ~1,635,
 day 621 to day 645, ONE bracketed layer line at ch 310, Golden Core 4 at ch 310, the irreversible decision at
 ch 308 and the unrescued physical risk at ch 307.**
-**Batch 0002 (ch 314–329) is on the page and has been reviewed and repaired: 23,931 words of body prose over sixteen chapters, average ~1,496, day 646 to day 699,
+**Batch 0002 (ch 314–329) is on the page and has been reviewed and repaired: 23,975 words of body prose over sixteen chapters, average ~1,498, day 646 to day 699,
 ONE bracketed layer line at ch 321, Golden Core 5 at ch 321, the Hand spent for the first
 time in this book at ch 325, and the volume's midpoint and this batch's irreversible decision at ch 329 — a
 second vouching, by a second office, against materials, agreed in daylight at a gate at the eighth hour of the twenty-sixth. **Thirteen review findings closed; full record in `state/continuity.md` under *Volume 6 Batch 0002 (ch 314–329) — REVIEW REPAIR*.**
 **Batch 0004 (ch 346–360) is on the page and has been REVIEWED AND REPAIRED: 21,479 words of body prose over fifteen chapters, average ~1,432, day 774 to day 848, TWO bracketed layer lines at ch 352 and ch 357, Golden Core 8 at ch 352 on the pinned day 786 and Golden Core 9 at ch 357 on the pinned day 818, the HAND REFUSED ONCE out loud at ch 355 and not spent, the SENDING REFUSED, ENTERED AND STANDING at ch 358, what breaking cost at ch 359, and NASCENT SOUL 1 at ch 360 on the pinned day 845 with no bracket.** **Eighteen review findings closed, eight of them must-fix. The two that mattered most to the close audit: ch 348 narrated its first day on the footing twice and one pass is now the seventeenth and the low side, and ch 358 said she had been in a room with two shut doors three weeks ago when she has never been in that room — the refusal exists because she cannot produce him — which is now six weeks ago and eleven feet off a man in a wet field, as ch 347 has it. Also corrected: a bar that took two hands eight chapters before Golden Core 8, the thirtieth instead of the twenty-eighth, twenty-nine days instead of twenty-three, a narrator absolute that pre-empted ch 360, and *Nascent Soul* on the page for the first time in the manuscript at ch 360 — as a word at the head of a fine-hand entry she cannot read, which is not a panel and not a bracket. Volume 6 file set after the repair: 94,946 words of body prose over sixty-two chapters.** **Full record in `state/continuity.md` under ***Established facts, Volume 6 Batch 0004 (ch 346–360) — STANDING AND REFUSING TO STAND***, ***Volume 6 running ledger — at the close of the volume, day 848***, ***Construction budget — Volume 6 Batch 0004 (ch 346–360), measured by grep, not promised*** and ***Volume 6 Batch 0004 (ch 346–360) — REVIEW REPAIR***.**
-**Batch 0003 (ch 330–345) is on the page and has been REVIEWED AND REPAIRED: 25,005 words of body prose over sixteen chapters, average ~1,563, day 701 to day 735 walked plus the pinned day 749 for Golden Core 7, TWO bracketed layer lines at ch 332 and ch 342, the sending WRITTEN at ch 336, Yuan ADDRESSED AS A HOLDER at ch 338 at the price of his unnamed state, and the closed-season box circuit BROKEN at ch 344.** **Days 736–748 were carried as elapsed rather than walked. Ch 343, 344 and 345 are dated on the page — days 750–755, 763–764 and 773 — so Batch 0004 does NOT open at day 736 and does NOT open at day 749: it opens after day 773. The page wins. Eleven manuscript defects and seven minor prose defects were fixed and the false `no date on the page` claim was corrected in six files, including the Batch 0004 prompt; no beat, title, turn, climax, irreversible decision, bracket or stage moved and no chapter before ch 330 was opened. Full record in `state/continuity.md` under ***Volume 6 Batch 0003 — REVIEW REPAIR***.**
+**Batch 0003 (ch 330–345) is on the page and has been REVIEWED AND REPAIRED: 25,056 words of body prose over sixteen chapters, average ~1,566, day 701 to day 735 walked plus the pinned day 749 for Golden Core 7, TWO bracketed layer lines at ch 332 and ch 342, the sending WRITTEN at ch 336, Yuan ADDRESSED AS A HOLDER at ch 338 at the price of his unnamed state, and the closed-season box circuit BROKEN at ch 344.** **Days 736–748 were carried as elapsed rather than walked. Ch 343, 344 and 345 are dated on the page — days 750–755, 763–764 and 773 — so Batch 0004 does NOT open at day 736 and does NOT open at day 749: it opens after day 773. The page wins. Eleven manuscript defects and seven minor prose defects were fixed and the false `no date on the page` claim was corrected in six files, including the Batch 0004 prompt; no beat, title, turn, climax, irreversible decision, bracket or stage moved and no chapter before ch 330 was opened. Full record in `state/continuity.md` under ***Volume 6 Batch 0003 — REVIEW REPAIR***.**
 Full record for Batch 0002 in `state/continuity.md` under ***Established facts, Volume 6 Batch 0002
 (ch 314–329) — WORK WITHOUT HIRE***, ***Volume 6 running ledger — at end of ch 329*** and ***Construction budget —
 Volume 6 Batch 0002 (ch 314–329), measured by grep, not promised***.
@@ -657,7 +663,7 @@ These come out of the audit itself and bind **Volume 4** first.
 
 ## Volume 6 Batch 0001 (ch 299–313) — what this batch added, live going into Batch 0002
 
-**Fifteen chapters, 24,531 words of body prose, average ~1,635, day 621 to day 645. ONE bracketed layer line, at
+**Fifteen chapters, 24,529 words of body prose, average ~1,635, day 621 to day 645. ONE bracketed layer line, at
 ch 310.** Pressure: **reading and being read** — and nothing else. Full record in `state/continuity.md` under
 ***Established facts, Volume 6 Batch 0001 (ch 299–313) — READING AND BEING READ*** and ***Volume 6 running
 ledger — at end of ch 313***.
@@ -702,7 +708,7 @@ ledger — at end of ch 313***.
 
 ## Volume 6 Batch 0002 (ch 314–329) — what this batch added, live going into Batch 0003
 
-**Sixteen chapters, 23,931 words of body prose, average ~1,496, day 646 to day 699. ONE bracketed layer line, at
+**Sixteen chapters, 23,975 words of body prose, average ~1,498, day 646 to day 699. ONE bracketed layer line, at
 ch 321.** Pressure: **work without hire** — not keeping, not debt, not family paper, not ash, not a ration, not a
 hiring, not a tending, not a crossing, not an audit, not an examination, not a hunt, not a signature, not a
 confinement, and not Batch 0003's sending and being sent for. Full record in `state/continuity.md`.
@@ -747,7 +753,7 @@ confinement, and not Batch 0003's sending and being sent for. Full record in `st
 
 ## Volume 6 Batch 0003 (ch 330–345) — what this batch added, live going into Batch 0004
 
-**Sixteen chapters, 25,005 words of body prose, day 701 to day 735 walked plus day 749 and then days 750–755,
+**Sixteen chapters, 25,056 words of body prose, day 701 to day 735 walked plus day 749 and then days 750–755,
 763–764 and 773. TWO bracketed layer lines, at ch 332 and at ch 342.** Pressure: **sending and being sent for** —
 and nothing else. **Reviewed and repaired**; eleven manuscript defects, seven minor prose defects, and the false
 *no date on the page* claim corrected in six files. Full record in `state/continuity.md` under *Established facts,

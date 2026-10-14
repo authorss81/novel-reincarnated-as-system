@@ -5113,16 +5113,21 @@ mentioned · Bai Zhu and Wei Ran off the page · no harem and no romance.
 
 ## Established facts, Volume 6 Batch 0003 (ch 330–345) — SENDING AND BEING SENT FOR
 
-**Sixteen chapters, 25,005 words of body prose, average ~1,563, day 701 to day 735 walked, plus ch 342 at the
+**Sixteen chapters, 25,056 words of body prose, average ~1,566, day 701 to day 735 walked, plus ch 342 at the
 pinned day 749 and ch 343–745 dated after it to day 773. TWO bracketed layer lines, at ch 332 and at ch 342 —
 brackets 3 and 4 of Volume 6's six. Chapter titles and section headings excluded. Drafted against
 `outline/volume-06.md` and against `workspace/volume-06-batch-0003/PROMPT.md`, which is this batch's card. Every
 pinned item in it is on the page. There is no card file for this batch and this section is its record. Figures in
 this block were re-derived against the chapters at review; see ***Volume 6 Batch 0003 — REVIEW REPAIR*** at the
-foot of this file.**
+foot of this file.** *(Rebuilt from the chapters at the Volume 6 close's review; this headline first gave 25,005 /
+~1,563 and is now 25,056 / ~1,566, the difference being the three chapters repaired at the close's review —
+ch 332, ch 338 and ch 342.)*
 
-Per file, body prose: 330 1,378 · 331 1,314 · 332 1,328 · 333 1,398 · 334 1,364 · 335 1,422 · 336 1,384 ·
-337 1,710 · 338 2,968 · 339 1,420 · 340 1,395 · 341 1,358 · 342 1,329 · 343 1,673 · 344 1,777 · 345 1,787.
+Per file, body prose: 330 **1,370** · 331 1,314 · 332 **1,347** · 333 1,398 · 334 1,364 · 335 1,422 ·
+336 **1,382** · 337 1,710 · 338 **2,990** · 339 1,420 · 340 1,395 · 341 1,358 · 342 **1,343** · 343 **1,679** ·
+344 1,777 · 345 1,787. **Rebuilt from the chapters at the Volume 6 close's review; the six bolded rows were stale
+here and the list previously summed to 25,005 against a file set of 25,027. The batch is now 25,056 and the three
+chapters that moved are ch 332, ch 338 and ch 342.**
 
 ### The batch in one sentence
 
@@ -5430,7 +5435,7 @@ not a budget.**
 | **Quotes** | **Every speech closed in all sixteen files** (`text.count('“') == text.count('”')` in every file); **0 straight apostrophes and 0 straight double quotes.** Eight lines carrying straight apostrophes were written in ch 338, 342, 343 and 345 and swept to the curly form before the batch was saved |
 | **Paragraphs** | **Longest paragraph in the batch is 99 words.** No paragraph over 100. Twelve paragraphs were written between 92 and 124 words and eleven were split at a natural beat; the last, at ch 345, is the *simple part about one person* and is now two paragraphs |
 | **Duplicated paragraphs** | **0 substantive.** A paragraph-level exact-duplicate scan returns **nine pairs, and every one of them is a deliberate ritual beat of five words or fewer** — *She squared the board up on the bench* (330, 343) · *Yes.* (331, 335, 343, 345) · *All right.* (333, 334) · *She did it standing up.* and *She picked the bar up off the grass* (332, 342, the same stage twice) · *A line is a thing that gets found* and *A holding is a thing that can be asked for* (335, 338, the same fact said twice on purpose) · *HELD.* twice inside ch 338 · *Four.* three times in and across ch 341–342. **No duplicated prose paragraph.** **Four exact duplicates of substance were written and cut** — the *layer said it once in the far-side house form* line and the *nobody inside to be told* line between ch 332 and ch 342, *she put the pieces down at the top of the bank* between ch 341 and ch 342, and a fourth pair at 0.87 between ch 337 and ch 340. **A fifth was found by review and cut: ch 342 repeated *It was over at about four minutes.* as a whole paragraph immediately after the sentence that ended with it.** Near-duplicate scan at ≥0.45 six-gram overlap across chapters: 3, all of them the deliberate stage-ritual parallel between ch 332 and ch 342 (0.63 on the *the stage came the way the…* paragraph, 0.45 on the *nobody inside to be told* paragraph) and the pinned bracket itself at 0.79. **The two utterances are not the same sentence and the bracket is a pinned string** |
-| **Length** | **25,005 words of body prose over sixteen chapters, average ~1,563** (25,753 raw, headings included). Per file: 330 1,378 · 331 1,314 · 332 1,328 · 333 1,398 · 334 1,364 · 335 1,422 · 336 1,384 · 337 1,710 · 338 2,968 · 339 1,420 · 340 1,395 · 341 1,358 · 342 1,329 · 343 1,673 · 344 1,777 · 345 1,787. **None under the 1,300 floor and none above the 2,700 guide except ch 338**, which is the sustained scene in which he is on the page in his own right and which `workspace/volume-06-batch-0003/PROMPT.md` allows to be as long as the scene needs. Counts are body prose only, `#` titles and `##` headings excluded. Four chapters were written under the floor — 330, 331, 341 and 342 at 1,103 to 1,148 — and were brought over it by adding scene, not by padding: the twenty-ninth at the board (330), the three other copyists on the floor (331), the one unwatched day at the mill (341) and eleven climbs of the bank (342). *(The review counted raw words; every figure above moves by a handful of words after the repairs of 14 October, and none of them changes a floor or guide position.)* |
+| **Length** | **25,056 words of body prose over sixteen chapters, average ~1,566** (25,800 raw, headings included). Per file: 330 1,370 · 331 1,314 · 332 1,347 · 333 1,398 · 334 1,364 · 335 1,422 · 336 1,382 · 337 1,710 · 338 2,990 · 339 1,420 · 340 1,395 · 341 1,358 · 342 1,343 · 343 1,679 · 344 1,777 · 345 1,787. **None under the 1,300 floor and none above the 2,700 guide except ch 338**, which is the sustained scene in which he is on the page in his own right and which `workspace/volume-06-batch-0003/PROMPT.md` allows to be as long as the scene needs. Counts are body prose only, `#` titles and `##` headings excluded. Four chapters were written under the floor — 330, 331, 341 and 342 at 1,103 to 1,148 — and were brought over it by adding scene, not by padding: the twenty-ninth at the board (330), the three other copyists on the floor (331), the one unwatched day at the mill (341) and eleven climbs of the bank (342). *(The review counted raw words; every figure above moves by a handful of words after the repairs of 14 October, and none of them changes a floor or guide position.)* *(Rebuilt from the chapters at the Volume 6 close's review. This row first gave 25,005 / ~1,563 / 25,753 raw and gave ch 338 as 2,968; six of the sixteen per-file figures were stale. The batch is 25,056 and nothing has crossed a floor or a guide band.)* |
 | **Titles** | All sixteen unique against all 329 existing headings and against each other; **345 `^# ` headings across the manuscript, zero collisions** |
 | **Tribulation / suppression arithmetic** | **0 / 0.** Merit does not settle in this batch |
 | ***Kiln-born*, Anchor, Sisterhood, Lung, appointment, MEMBER ABSENT, sponsor, Shen Xiu, Scribe, reconciled, erased, base went out, could not account, licence, license, plate, Ledger, Wei Ran, Ning Wu, vouch, Feng, Bai Zhu, wei** | **Zero on the page of this batch**, all measured by `grep -i`. **`vouch` returns zero**: the second vouching is not re-vouched anywhere and is spoken about only as the second office and as an account. `Bai Zhu` returns exactly one hit, at ch 335, and the Hunter is named once in the batch and is *he* and *the man with the notebook* after that |
@@ -6231,6 +6236,12 @@ and findings are under `## Volume 6 close audit — CLOSED`.
 | Chapter titles | 360 `#` headings manuscript-wide, **zero collisions, no title changed at the close** | unchanged |
 | Month-day, re-derived under `((day − 134) mod 30) + 1` | **638 the 25th · 674 the 1st · 712 the 9th · 749 the 16th · 786 the 23rd · 818 the 25th · 845 the 22nd** | unchanged |
 
+**Corrected at the close's own review.** Three of the rows above were wrong against the files and were re-derived,
+and three chapters were repaired after this table was written. **Read the *After the close's review* column of
+`## Volume 6 close — review repair` below for the figures that are actually current: the file set is
+**95,110**, Batch 0003 is **25,056**, ch 338 is **2,990**, and the longest paragraph is **100**.** The close's own
+columns are left standing as the record of what the close produced; they are not silently rewritten.
+
 **Per file, Batch 0004 after the close:** 346 1,361 · 347 1,326 · 348 1,403 · 349 1,354 · 350 **1,508** · 351 1,322 ·
 352 1,326 · 353 1,507 · 354 1,385 · 355 1,393 · 356 1,455 · 357 **1,698** · 358 1,533 · 359 **1,454** · 360 **1,525**.
 
@@ -6263,8 +6274,80 @@ three that a Volume 7 drafter is most likely to trip over:
 - **The keeper's figure at ch 345 and ch 359 is near-verbatim in the same mouth.** The first time it is a man's
   record; the second time it is his record with one thing standing on a stone under his ladder. The echo is the
   chapter's effect.
-- **`nobody` stands 88 times across sixty-two chapters, and the wider family with *no one*, *not one* and *not one
-  person* at 191** — about 1.4 a chapter, maximum seven in one chapter (ch 307 and ch 329), both of them chapters
-  where the structural answer or the vouching is being stated in full. **This is the one measured number in the
-  volume above where the book's own guidance would put it**, it is distributed rather than concentrated, and
-  cutting sixty instances across four closed batches at a volume close is a rewrite rather than an audit.
+- **`nobody` stands 88 times across sixty-two chapters, and the wider family with *no one* and *not one* at 142** —
+  *no one* 4, *not one* 50, of which *not one person* is 15. About 2.3 a chapter, maximum seven in one chapter (ch
+  307 and ch 329), both of them chapters where the structural answer or the vouching is being stated in full.
+  **This is the one measured number in the volume above where the book's own guidance would put it**, it is
+  distributed rather than concentrated, and cutting sixty instances across four closed batches at a volume close is a
+  rewrite rather than an audit. *(Corrected at the close's review: this gave 191 and no reading of the strings
+  reaches it.)*
+
+## Volume 6 close — review repair
+
+**The Volume 6 close was reviewed and came back with six findings: three prose faults and three bad measurements,
+plus a file-count contradiction and a stale figure carried inside one state file. Five are repaired and one is
+recorded. Full reasoning is in `state/current.md` under `## Volume 6 close review — REPAIR`.**
+
+**Three chapters were opened and no other. No beat, day-table position, title, turn, midpoint, climax, irreversible
+decision, bracket or Golden Core / Nascent Soul stage moved, and no chapter before `chapter-0299.md` was opened.**
+
+| File | Fault | Repair | Words |
+| --- | --- | --- | --- |
+| **ch 338** | **The close's own repair 12 introduced a fresh verbatim duplication.** After the all-caps name was put into sentence case, the standalone *He has never seen that name written.* sat three lines above a paragraph opening *He has never seen that name written. He has read it four thousand times…* | The paragraph now opens *He has read it four thousand times in a layer, and he has never once seen a person put it down on anything **with a brush**.* The brush is already on the page twice in this chapter, so the added clause closes onto the hand at the table instead of repeating the line above it | −4 |
+| **ch 332** | **A layer-silence line still byte-identical in construction to ch 342**, and its opening clause *The layer said it once in the far-side house form and stopped* is verbatim the opening of ch 310's line | *The sentence came out in the far-side house form, the same length as the five that had come before it, and then there was nothing after it. She had stopped listening to it by the third one. All she did now was wait it out.* | +19 |
+| **ch 342** | **The other half of that twin pair.** Same clause sequence, same three negatives, four chapters from ch 332 | *Seven.* / *That was the count now, and the layer gave her the same sentence in the far-side house form it had given her at the first of them, and she was already walking toward the bar before the last of it was out.* | +14 |
+
+**Both halves of the twin pair were recast, not one.** Recasting only ch 342 would have left ch 332 echoing ch 310
+instead, and the close's claim that the six post-bracket lines all differ would still have been false. **All six now
+differ**: ch 310 keeps the full statement of the rule, ch 321, 332, 342, 352 and 357 each say it in their own shape.
+**The rule is not weakened** — ch 310 is the first of the six and is where the reader needs the whole of it, which
+is also what `AGENTS.md` asks for: state a rule once, then dramatize it.
+
+**The one-word paragraph *Seven.* at ch 342 is the chapter's own idiom**, not an invention: the chapter is *Five
+Counts*, it already stands on *Four. Four. Four.* at the top and *Four.* in the middle, and it is the seventh stage.
+The line ends on her walking toward the bar, which is the first line of the section that follows.
+
+### Figures after the close's review repair
+
+| Measure | After the close's review | After the close | Before the close |
+| --- | --- | --- | --- |
+| Volume 6 file set, body prose, headings excluded | **95,110 words over 62 chapters** | 95,081 | 94,946 |
+| Batch 0001 (ch 299–313) | 24,529, average ~1,635 | unchanged | 24,531 |
+| Batch 0002 (ch 314–329) | 23,975, average ~1,498 | unchanged | 23,931 |
+| Batch 0003 (ch 330–345) | **25,056, average ~1,566** | 25,027, average ~1,564 | 25,005 |
+| Batch 0004 (ch 346–360) | 21,550, average ~1,437 | unchanged | 21,479 |
+| Longest chapter | **ch 338 at 2,990** — still the flagged close-third exception above the 2,700 guide | 2,968 | 2,968 |
+| Longest paragraph | **100 words (ch 309)**; 13 paragraphs between 91 and 100, in 11 chapters; **none over 120, none introduced by either repair** | 103 | 103 |
+| `nobody` family | **nobody 88 · no one 4 · not one 50 · total 142** *(this is finding 7, the one measured number the close flagged as above the book's own guidance; the number is lower than the close recorded, which makes the finding less alarming and not more)* | 191 | 191 |
+| Exact cross-chapter duplicate paragraphs | **1 — the ch 335 / ch 338 refrain, planted and paid, deliberately kept** | 1 | 8 |
+| Bracketed layer lines | **6, at ch 310, 321, 332, 342, 352 and 357, character for character. 0 at ch 360** | unchanged | 6 |
+| `Ledger` / `licence` / `license` / `clearance` / `countersignature` / `kiln-born` / `MEMBER ABSENT` / `Anchor` / `Sisterhood` | **0 across ch 299–360** | unchanged | 2 for `Ledger` |
+| Bold / blockquote / code fence / table / horizontal rule / straight apostrophe / all-caps standalone line | **0 / 0 / 0 / 0 / 0 / 0 / 0** | unchanged | 7 all-caps |
+| Chapter titles | 360 `#` headings manuscript-wide, **zero collisions, no title changed by either pass** | unchanged | unchanged |
+| Month-day, re-derived under `((day − 134) mod 30) + 1` | **638 the 25th · 674 the 1st · 712 the 9th · 749 the 16th · 786 the 23rd · 818 the 25th · 845 the 22nd** — every one re-run at this repair and none moved | unchanged | unchanged |
+
+**Per file, Batch 0003, rebuilt from the chapters:** 330 1,370 · 331 1,314 · 332 **1,347** · 333 1,398 · 334 1,364 ·
+335 1,422 · 336 **1,382** · 337 1,710 · 338 **2,990** · 339 1,420 · 340 1,395 · 341 1,358 · 342 **1,343** ·
+343 **1,679** · 344 1,777 · 345 1,787. **The six rows in bold were stale in the list above and are corrected here;
+the rest were already right.**
+
+**Per file, Batch 0004, unchanged by this repair:** 346 1,361 · 347 1,326 · 348 1,403 · 349 1,354 · 350 1,508 ·
+351 1,322 · 352 1,326 · 353 1,507 · 354 1,385 · 355 1,393 · 356 1,455 · 357 1,698 · 358 1,533 · 359 1,454 ·
+360 1,525.
+
+### Two state-file faults repaired, and one condition carried
+
+1. **`state/current.md` contradicted itself on the file count.** One cold-reader block said the close made its
+   repairs across *eleven* chapter files. Seven other locations in four files, and `git`, say **seventeen**.
+   Corrected to seventeen.
+2. **A stale figure inside one file.** `state/open-threads.md` gave Batch 0001 as 24,531 four lines below its own
+   header stating 24,529 post-close. Corrected to 24,529, and the two sibling headers at `state/current.md` still
+   carrying pre-close Batch 0001 (24,531) and Batch 0002 (23,931, with its old average of ~1,496) were corrected in
+   the same pass. **Historical per-batch records elsewhere in the state files are left at their batch-time figures on
+   purpose** — that is what a batch record is — and are not rewritten here.
+3. **Recorded, not repaired: all 31 files ch 330–360 have no trailing newline.** Confirmed present in `HEAD~1`, so
+   it was inherited from Batch 0003 and is not a fault the close introduced. A trailing newline changes no word and
+   no line; touching 31 chapter files at a volume close to fix a whitespace artefact produces a diff nobody can read.
+   **Carried forward as a known condition.** Separately, `state/phase-ledger.json` is referenced by both prompts but
+   is neither committed nor gitignored — it is created by the controller at runtime, and controller-owned files are
+   not edited here.

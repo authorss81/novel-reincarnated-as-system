@@ -5,7 +5,11 @@
 **Volume 6, *The Real Realm*, ch 299–360, is closed and audited.** All four batches are written, reviewed and
 repaired, and the close audit has walked `outline/volume-06.md` line by line against the page, repaired sixteen
 faults across seventeen chapter files, recorded seven findings without repairing them, walked the seventeen-item
-continuity list one item at a time, and answered the protagonist question in writing.
+continuity list one item at a time, and answered the protagonist question in writing. **The close was then reviewed
+and repaired again — three more prose repairs at ch 332, ch 338 and ch 342 and every stale measurement re-derived.
+Current Volume 6 figures are 95,110 words of body prose over the sixty-two chapters, by batch
+24,529 · 23,975 · 25,056 · 21,550, longest chapter ch 338 at 2,990. Nothing in the volume's arc, ending or hand-off
+moved.**
 
 **This phase writes one file: `outline/volume-07.md`.** It is the planning phase for Volume 7, *Stronger Things*,
 ch 361–420. It follows the shape of `outline/volume-06.md` and is held to `OUTLINE_GUIDE.md` and `AGENTS.md`.
@@ -24,9 +28,10 @@ not write a `.done` marker, which `PHASE_SYSTEM.md` gives to the controller alon
 
 `AGENTS.md`, `NOVEL_SPEC.md`, `OUTLINE_GUIDE.md`, **`outline/series.md` in full**, `outline/ending.md`,
 **`state/current.md` — the cold-reader block *Who is where at end of chapter 360* first, then
-`## Volume 6 close audit — OPENED` and `## Volume 6 close audit — CLOSED`**, `state/continuity.md` including
+`## Volume 6 close audit — OPENED`, `## Volume 6 close audit — CLOSED` and **`## Volume 6 close review — REPAIR`** — the last of these is where the current figures are**, `state/continuity.md` including
 ***Established facts, Volume 6 Batch 0004 (ch 346–360)***, ***Volume 6 running ledger — at the close of the
-volume, day 848***, ***Construction budget — Volume 6 Batch 0004*** and ***Volume 6 close — repairs***,
+volume, day 848***, ***Construction budget — Volume 6 Batch 0004***, ***Volume 6 close — repairs*** and
+***Volume 6 close — review repair***,
 `state/open-threads.md` including its new **Volume 6 close — what Volume 7 inherits** block, `state/chapter-summaries.md`
 including **Volume 6 closed — audited**, `state/book-metadata.md`, the six `bible/` files, `outline/volume-06.md`
 as the model of what a volume outline is, and **chapters 346–360**. Extend to 330–345 and then to 314–329 if the

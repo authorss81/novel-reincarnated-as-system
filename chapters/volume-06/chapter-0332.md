@@ -40,7 +40,7 @@ It was over at about four minutes.
 
 [Ning Yan, past the line, servant-born, under no ceiling any county holds. Golden Core, stage six, is held.]
 
-The layer said it once in the far-side house form and stopped. It had never explained and it had never advised and it did not begin.
+The sentence came out in the far-side house form, the same length as the five that had come before it, and then there was nothing after it. She had stopped listening to it by the third one. All she did now was wait it out.
 
 ## What It Took
 
