@@ -6,11 +6,11 @@ She stood in an opening in a wall on the third of the month beginning 1,694 at t
 
 She was off the bench at the turn at the fourth hour of the second of the month beginning 1,694 with a loaf and a bit in the bag and a bar on her shoulder, and she had been out at that gate eleven times in thirty-eight days and she had not asked him for anything since the twenty-second of a month beginning 1,604.
 
-She made the nine miles of strip road between the fourth hour and the eighth and lay down about a mile short of the gate, and she was at the bar on two posts at the sixth hour of the third, before the sky had finished.
+She made the nine miles of strip road between the fourth hour and the eighth and lay down about a mile short of the gate, and she lay there two hours of it and did not sleep, and she came onto the two miles of made road before the sky had finished and was at the gate with the chain across it at the sixth hour of the third.
 
 She had worked out why at the ninth hour of the twenty-ninth of the month beginning 1,664 and it had taken her four minutes.
 
-She did not need a person hearing her. He never said that it was a term. She said on the thirteenth of a month beginning 1,604, standing four feet off a table with nothing on it, that asking is done in the open in front of people, and that was her finding and not his, and she had built thirty-eight days of walking on it.
+She did not need a person hearing her. He never said that it was a term. She said on the thirteenth of a month beginning 1,604, standing four feet into an opening at a west jamb with a plank table in front of her and nothing on it, that asking is done in the open in front of people, and that was her finding and not his, and she had built thirty-eight days of walking on it.
 
 She was going to un-build it for one morning, and it was the first thing she had ever changed her mind about in public.
 
@@ -38,7 +38,7 @@ She told him on the two miles, because she had worked out in half a mile that if
 
 They came onto the flat at the seventh hour with the light behind them, the way they had come onto it a month before with four words in her mouth and nothing at all in hers this time, and he stopped behind and to the left, four feet off, and stood there.
 
-She had walked twenty-one hours and eaten a third of a loaf.
+She had walked twenty-four hours and had eaten a third of a loaf out of what she carried, and the rest of it was still in the bag.
 
 ## The Opening At The Seventh Hour
 
@@ -126,7 +126,7 @@ A girl of nineteen was going to spend a hundred and six days looking for her bro
 
 She has a bar nine feet nine and a skin and a bag and four fingers and a thumb and a book of eight leaves with six blank ones against her ribs, and an arm that is open four days in five, and no wages, no place, no shed, no lane of her own, no road that goes anywhere she has been, and no coppers coming.
 
-And three questions in a book nine hundred years deep, and not one of them answered, and one of them holding the rest of it shut, and she cannot tell which one.
+And four questions in a book nine hundred years deep, and not one of them answered, and one of them holding the other three shut, and she cannot tell which one.
 
 And a hundred and six days.
 
@@ -134,7 +134,7 @@ Here is what she worked out standing on dressed stone at the eighth hour, with t
 
 Every question she asks from today narrows what can still be found. She knows that now and she worked it out herself and nobody told her. A list that is being asked about is a list being finished, and it finishes on the hundred and sixth day whatever she does with the hundred and fifth.
 
-And there are three questions in it and she is not allowed a fourth, and the one that is holding has not been answered in sixty-nine days, and she has a hundred and six.
+And there are four questions in it and she is not allowed a fifth, and the one that is holding has not been answered in sixty-nine days, and she has a hundred and six.
 
 She has a hundred and six days and one question a month at a wall at best, if he ever gets to it, and every one of them takes something out of the rest.
 

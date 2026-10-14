@@ -80,7 +80,7 @@ Here is the whole of it, in the order she has had it in her head since that morn
 
 ## What That Sentence Says When You Sit Down With It
 
-She sat down on the flat at the eighth hour of the fifteenth of the month beginning 1,634, with her back against the bar on two posts, a mile short of the wall, and she read it over about nine times.
+She sat down on the flat at the eighth hour of the fifteenth of the month beginning 1,634, with her back against the bar on two posts four hundred yards short of the wall, and she read it over about nine times.
 
 He does not have the rest of it while there is one standing open.
 

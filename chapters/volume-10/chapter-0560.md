@@ -6,7 +6,7 @@ She found it on the third of the month beginning 1,634 at the head of a lane fou
 
 Nine miles of strip road east to the turn and then four miles west on the store road, which is a made road with a kerb on it and a bench at the turn and nothing else on it for the whole of those four.
 
-Thirteen miles. She was at the head of the lane at the seventh hour of the third with the bar on her shoulder and her arm open on at the ninth mile, and she had been walking since the second hour and she had had nothing to eat since the second hour of the twenty-sixth of the month before.
+Thirteen miles. She was at the head of the lane at the seventh hour of the third with the bar on her shoulder and her arm open on the ninth mile, and she had been walking since the second hour and she had had nothing to eat since the second hour of the twenty-sixth of the month before.
 
 That is seven days without a loaf and she is not hungry and that has stopped being the interesting thing about her body somewhere around the sixth day.
 
@@ -46,7 +46,7 @@ He looked at her and then he looked at the board.
 
 He said that the way the foreman said his figure, out loud, in the ordinary voice, because it is what you say when somebody has asked you what a thing is and you have answered it before.
 
-## The Second Of A Month And The Man On The Face
+## The Man On The Face And What He Said Twice
 
 She asked him at the eighth hour of the third of a month and got all of it in a minute, and then she asked him two more questions at the eighth hour of the fourth, standing in the flat with the light going off the face, and both of them were about numbers and both of them were free.
 
@@ -112,4 +112,4 @@ And she cannot ask at a trough, and she cannot eat at a trough, and the two of t
 
 She got up off the bar and picked up her own and started walking east with nine feet nine of it on her shoulder and the board going down to the store in the morning without her on it.
 
-Somebody is going to weigh that board on the second day and put a number against four and a half barrows, and nobody is going to know that she was on the face.
+Somebody is going to weigh that board on the second day and put a number against four barrows and a short one, and nobody is going to know that she was on the face.

@@ -64,7 +64,7 @@ She has been spending everything else.
 
 She spent the window by deciding not to spend it. She spent the road by walking it. She spent the four letters by putting a question about them into a book on the fifteenth of a month beginning 1,634, and she spent three nights of sleep lost on them two months back and got one subtraction for it.
 
-Everything she has touched in eight months of this she has touched with a bar or with her feet or by standing still.
+Everything she has touched in eight years of this she has touched with a bar or with her feet or by standing still.
 
 The one thing she has not touched is a name, and the reason she has not touched it is the only reason she has.
 

@@ -16,7 +16,7 @@ She was up at the third hour and she did the last two in the dark, because the l
 
 ## The Eighth Hour At The Wall
 
-He was on his own side of the plank table with his hands flat on the wood.
+He was on his own side of the plank table and his hands were flat on the wood, the same as they had been the first time she had ever seen them.
 
 That is what she sees now when she comes to that opening. Not a man waiting. A man at a table, at the seventh hour, on his own side, with his hands flat on the wood, the way he has been every hour since the fourteenth of a month beginning 1,574.
 
@@ -60,7 +60,7 @@ She walked on past the gate and she said good to him about a second later and he
 
 ## The Made Road In The Dark Again
 
-She made the two miles to the bar on two posts and the gate in forty minutes and she did not stop at the gate because the boy of fifteen is asleep at the gate at the eighth hour in that month and she was not going to wake a boy of fifteen up at night to stand four feet off a wall on a day when there had not been one word.
+She made the two hundred yards out to the bar on two posts in six minutes and she did not stop at that either, and she got on west past the gate at a quarter of an hour, and she was not going to wake a boy of fifteen up at night to stand four feet off a wall on a day when there had not been one word.
 
 She ate the other half of the loaf about the eleventh mile and she went the eleven miles of made road between the eighth hour and the third hour of the morning, which is half the rate she does it in the day, and she sat down twice in the ditch on the south side.
 

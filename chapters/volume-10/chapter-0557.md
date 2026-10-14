@@ -36,7 +36,7 @@ He stood there. He had a cord round his waist and a peg in his hand and he is a 
 
 “I know you did.”
 
-“I counted nine at the muster and I counted nine again at dusk yesterday and I got nine both times.” He turned the peg over in his hand. “If you were on the number I would draw you one. That is the whole of it. I do not draw bread for a person I cannot put in the number.”
+“I counted nine at the muster and I counted nine again at dusk yesterday and I got nine both times.” He turned the peg over in his hand. “There were ten of you standing in that line and I got ten with my eyes both times, and that is where it stops. If you were on the number I would draw you one. That is the whole of it. I do not draw bread for a person I cannot put in the number.”
 
 “All right,” Ning Yan said.
 
@@ -46,7 +46,7 @@ She wanted to say four things and she did not say one of them, and she has been 
 
 Here is what she was not going to say and why she was not going to say it.
 
-She was not going to say count me again standing there, because she had been counted twice and had come out ten both times and moving six feet had not done anything except cost her six feet.
+She was not going to say count me again standing there, because he had been along the line twice with his finger and got nine both times and ten with his eyes both times, and moving six feet had not done anything except cost her six feet.
 
 She was not going to say you saw me all day, because being seen is not being written, and she worked that out at a post over three days in the month before and she is not going to un-work it because it is inconvenient.
 

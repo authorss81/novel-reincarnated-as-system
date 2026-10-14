@@ -52,7 +52,7 @@ Since then she has stood in that opening six times. The twenty-fourth and the tw
 
 Two hundred and thirty-one miles of road.
 
-And there are three questions in a book nine hundred years deep and not one of them has been answered, and one of them is holding the rest of it, and she cannot tell which one.
+And there are four questions in a book nine hundred years deep and not one of them has been answered, and one of them is holding the other three, and she cannot tell which one.
 
 ## The Road Has Narrowed
 
@@ -68,7 +68,7 @@ In daylight.
 
 She cannot do any of it at night. She cannot do any of it in bad weather.
 
-She cannot ask it into the ground along a made road at the eleventh mile to a man who cannot hear it, and she worked that out on the thirteenth of a month beginning 1,604, and it has cost her four months and four walks to learn that the only place in the world she may say a thing is the place where somebody can hear her say it, and it is eleven miles from any bed.
+She cannot ask it into the ground along a made road at the eleventh mile to a man who cannot hear it, and she worked that out on the thirteenth of a month beginning 1,604, and it has cost her every walk she has made since to learn that the only place in the world she may say a thing is the place where somebody can hear her say it, and it is eleven miles from any bed.
 
 That is what has narrowed. Not the road. Her.
 
@@ -98,7 +98,7 @@ She worked it out at the sixth hour of the twenty-third, sitting in the dust at 
 
 There is a day.
 
-That is the whole of what she has. She has no month, no year, no number, and she cannot ask for any of them because she has three questions standing in a book nine hundred years deep and the first one of them is holding everything else shut.
+That is the whole of what she has. She has no month, no year, no number, and she cannot ask for any of them because she has four questions standing in a book nine hundred years deep and the first one of them is holding the other three shut.
 
 So the only thing left to do is to get him to say it without asking him.
 
@@ -106,7 +106,7 @@ That is not clever and she is not proud of it. She has been counting since she w
 
 ## What She Is Going To Carry Into The Morning
 
-She named him out loud on the flat at the foot of a ladder at the sixth hour of the twenty-third of the month beginning 1,634, with nothing in the hearing but a boy of eleven holding a board forty feet off, which is the only name she has ever said out loud in nineteen years and she said it to nobody.
+She named him out loud on the flat at the foot of a ladder at the sixth hour of the twenty-third of the month beginning 1,634, with nothing in the hearing but a boy of eleven holding a board forty feet off with his back turned, and she has said it out loud to a trough and to herself in the dark for eight years and she has never once said it where a person could hear it and take it down.
 
 Ning Wu, she said.
 

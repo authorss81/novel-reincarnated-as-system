@@ -1,4 +1,4 @@
-# Eleven Hands And A Gap
+# The Gap In The Line
 
 She got herself to the post for it. That was the whole reason she walked west in the dark, and it was the reason she had told herself on the made road at the gate, and it turned out to be right, and she was on the flat at the second hour of the twenty-sixth of the month beginning 1,604 and nowhere near the ground she had wanted to be on.
 
@@ -90,7 +90,9 @@ He did the finger again. He went along the line of them, one at each man, counti
 
 “Nine.”
 
-The finger went past the place where she was standing and landed on the last man and came back.
+The finger went past the place where she was standing and landed on the last man and came back, and he did not put it on her a second time.
+
+Then he looked along the line of them, one face at a time, counting mouths instead of hands, and it took him longer and he got to the end and stood there.
 
 “Ten.”
 
@@ -100,9 +102,9 @@ There were ten people standing in that line.
 
 She stood still and she did not say anything and she watched him do it again.
 
-He started at the other end, which he does not do, and he did the whole line a second time with his finger going over the same place at the same point and landing on the same man, and he said ten again.
+He started at the other end, which he does not do, and he went along the whole line with his finger a second time and it went over the same place at the same point and landed on the same man, and he said nine again.
 
-Then he looked along the line of them, one face at a time, counting mouths instead of hands, and it took him longer and he got to the end and stood there.
+Then he counted mouths again, slowly, and he got ten again.
 
 Then he looked straight at her, four feet off, in daylight, with the cord in his hand and nine men watching.
 
@@ -110,13 +112,13 @@ Then he looked straight at her, four feet off, in daylight, with the cord in his
 
 She moved six feet to the left, out onto the flat beside the last man, and he counted the line again with his finger.
 
-It came out ten.
+It came out nine with the finger and ten with his eyes.
 
 ## What He Did About It
 
 He put the peg in the ground and bent over it for a minute and a half, and nine men stood in the dust and watched a foreman work something out.
 
-Then he came up and walked the line a third time, slowly, and he stopped with his finger on the last man and he looked at her and then he counted from the other end again and got ten.
+Then he came up and walked the line a third time, slowly, and he stopped with his finger on the last man and he looked at her and then he counted from the other end again, and got nine with the finger both times and ten with his eyes both times.
 
 “All right,” the foreman said.
 
@@ -128,7 +130,7 @@ He said one more thing, at the end, in the ordinary voice, to a kerb.
 
 ## What She Felt About Being Missed
 
-Here is what she felt and she is going to have it written down at the fourth hour of the twenty-seventh of the month beginning 1,604, lying on the flat stone at the foot of a ladder with the book nine inches off her left knee.
+Here is what she felt and she is going to have it written down at the ninth hour of the night of the twenty-sixth of the month beginning 1,604, lying on the flat stone at the foot of a ladder with the book nine inches off her left knee.
 
 She was not insulted. She had eight years of practice at being refused by a man with a document and she knows exactly what it feels like and this was not it.
 
@@ -154,6 +156,6 @@ He cannot put her in a number.
 
 That is all of it. She is not smaller and she is not slower and she is not less there. She is on flat ground in daylight at the end of a road gang of ten people and she cannot be counted where she stands, and the counting is the only thing on this ground that any of these ten people have ever done to each other.
 
-The foreman is a careful man and his length is right and his cord is right and his peg is right, and in the morning he will draw eight rations instead of nine and nobody at that store is going to count his hands.
+The foreman is a careful man and his length is right and his cord is right and his peg is right, and in the morning he will draw nine rations off a cart and put her at the end of the line again, and nobody at that store is going to count his hands.
 
 She is going to eat what she earns and she is going to walk twenty-two miles to ask a man a question, and if she stands still on the flat in front of a foreman he will not be able to say that she was there.

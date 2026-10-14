@@ -42,7 +42,7 @@ She did not sleep much and she was up at the third hour and she did the last two
 
 He was on his own side of the plank table with his hands flat on the wood, the way he has been every hour since the fourteenth of a month beginning 1,574.
 
-She stopped four feet into the opening at the west jamb with the metalled road at her back. There was nobody behind her at all. There had been a boy of fifteen there two days ago and this time there was flat ground and the bar on two posts a mile off and a trough.
+She stopped four feet into the opening at the west jamb with the metalled road at her back. There was nobody behind her at all. There had been a boy of fifteen there two days ago and this time there was flat ground and the bar on two posts four hundred yards off and a trough.
 
 She had thought about that for two days and she had decided it was hers to give up and not his, because she had worked out at the ninth hour of the thirteenth of a month that asking is done in the open in front of people, and that was her finding and not a term he had given her, and she was the one who had decided it mattered.
 

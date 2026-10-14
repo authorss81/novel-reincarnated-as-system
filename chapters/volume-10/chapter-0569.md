@@ -10,9 +10,9 @@ Thirty-eight days, from the twenty-fifth of the month beginning 1,634 to the sec
 
 She made eleven stands in an opening in a wall, on her own side, in daylight, at the seventh hour, and said nothing at any of them.
 
-Four hundred and eighty-four miles of road, of which two hundred and sixty was strip road on a body that went lighter again somewhere in the middle of it and that she has not been able to put back since.
+Four hundred and eighty-four miles of road, of which a hundred and ninety-eight was strip road on a body that went lighter again somewhere in the middle of it and that she has not been able to put back since.
 
-Three questions in a book nine hundred years deep, unasked on, and not one of them answered.
+Four questions in a book nine hundred years deep, unasked on, and not one of them answered.
 
 That is the entire account and it is everything those thirty-eight days bought.
 
@@ -22,7 +22,7 @@ She changed it on the twenty-fifth of the month beginning 1,634 at the sixth hou
 
 She stopped asking.
 
-She had worked out at the ninth hour of the twenty-third that she could not ask for a date without putting a fourth question into that book, and that the first question was holding the rest of it, and that every question she added made it worse.
+She had worked out at the ninth hour of the twenty-third that she could not ask for a date without putting a fifth question into that book, and that the first question was holding the rest of it, and that every question she added made it worse.
 
 So she stopped asking, and she went and stood there, and she said nothing, and she went home, and she did it again.
 
@@ -68,9 +68,9 @@ That is the whole of it and it took forty seconds.
 
 She had sat next to that woman for a day and a night at the beginning of the month beginning 1,634 and had heard six sentences about a mill and a lime bed and a house.
 
-She had thought on the way west that she would come back and say thank you for them, and she has not come back in twenty-six days, and there is no arrangement anywhere on this ground by which a girl with a bar on her shoulder interrupts a woman of sixty doing string to say a thing she said once.
+She had thought on the way west that she would come back and say thank you for them, and she has not come back in thirty-two days, and there is no arrangement anywhere on this ground by which a girl with a bar on her shoulder interrupts a woman of sixty doing string to say a thing she said once.
 
-She stood there for another minute and then she went on east, and she got to the bar on two posts at the third hour of the ninth and went past it and got to the wall at the seventh hour.
+She stood there for another minute and then she went on east, and she got to the bar on two posts four hundred yards out at the third hour of the ninth, went past it, and got to the wall at the seventh hour.
 
 She stood in the opening for an hour and said nothing and he said nothing and she went west.
 
@@ -102,15 +102,15 @@ The nineteenth of any month is the same nineteen times over. The nineteenth of t
 
 ## What She Decided In The Dark After
 
-She decided it on the second of the month beginning 1,694, at the fifth hour, lying a mile short of a wall with a bar under her head and the twenty-third of the month beginning 1,634’s arithmetic going round and round in her head.
+She decided it on the first of the month beginning 1,694, at the fifth hour, lying a mile short of a wall with a bar under her head and the twenty-third of the month beginning 1,634’s arithmetic going round and round in her head.
 
 She is not going to ask him for the month.
 
-She is not going to put a fourth question into that book and she is not going to say a name at that wall and she is not going to say anything else at all, ever, in that opening, on her own side, in daylight.
+She is not going to put a fifth question into that book and she is not going to say a name at that wall and she is not going to say anything else at all, ever, in that opening, on her own side, in daylight.
 
 She is going to go back and stand there, and she is going to stand there until he finishes a sentence he has already started twice.
 
-That is everything she has left and it is the worst of it, because it requires her to go on doing the one thing that has been closing a list for four months, on the chance that a man of nine hundred years will get to the end of his own sentence in front of a person who is not going anywhere.
+That is everything she has left and it is the worst of it, because it requires her to go on doing the one thing that has been closing a list for thirty-eight days, on the chance that a man of nine hundred years will get to the end of his own sentence in front of a person who is not going anywhere.
 
 She lay in the dark with the number on her.
 

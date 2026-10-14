@@ -24,7 +24,7 @@ The foreman looked at that for four seconds and then he put his own hands on and
 
 Nobody on that mile said one word about it. They have not said one word about what she carries on the other days either, and after two hours of it on the second they stopped stepping round to the light end out of her way.
 
-Here is what happened to her, and she is putting it down because it is the only thing in nine volumes that has gone the other way.
+Here is what happened to her, and she is putting it down because it is the only thing in eight years that has gone the other way.
 
 She has been lighter every day since the eighteenth of the month beginning 1,544 and something came out of her on the eighth of the month beginning 1,604 and something came out of her again on the twenty-sixth, and on the second of a month that is going she was quicker than she has been since she was eighteen years old.
 

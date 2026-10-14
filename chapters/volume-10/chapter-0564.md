@@ -82,7 +82,7 @@ Everything else she said to herself on the made road had a reason attached to it
 
 ## What The Book Is For Now
 
-Here is what it is for and it took her the whole of the thirteenth of the month beginning 1,634, and she is nineteen and she has been keeping things for eight months without knowing it and she has never kept one thing in her life.
+Here is what it is for and it took her the whole of the thirteenth of the month beginning 1,634, and she is nineteen and she has been inside somebody else’s keeping since she was eleven years old without knowing what it was, and she has never kept one thing in her life.
 
 It was made to be said once.
 

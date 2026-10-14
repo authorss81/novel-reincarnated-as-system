@@ -6,7 +6,7 @@ She went to a wall on the twenty-first of the month beginning 1,634 and asked he
 
 She decided it at the ninth hour of the nineteenth of the month beginning 1,634 at a flat stone at the foot of a ladder, and she told nobody and she did not write it down.
 
-Three days, twenty-two miles each way, and forty-four miles that turns out to be forty-six because the made road from the gate to the wall is two miles and she has been counting it as part of the twenty-two and it is part of the twenty-two and the extra four are the two miles twice.
+Three days, twenty-two miles each way, and forty-four of them. She had been making it forty-six for a month by counting the two miles past the gate twice, and she stopped doing that at the ninth mile on the made road because it did not make her any less tired.
 
 She was going to do it in one push.
 
@@ -56,7 +56,7 @@ She stood four feet into the opening at the west jamb at the seventh hour of the
 
 She had been walking for twenty-nine hours and she had eaten a third of a loaf.
 
-He was on his own side of the plank table with his hands flat on the wood.
+He was on his own side of the plank table with his hands flat on the wood, and he had not lifted either of them off it when she came onto the stone.
 
 She waited a count of four and four times that, and then she looked past him once at the door shut on eleven feet of boards and did not look at it twice.
 
@@ -80,7 +80,7 @@ The first answer she ever got from him was at the seventh hour of the twenty-fif
 
 One word. A whole word. A thing with both ends on it.
 
-A day is not a whole word. A day is a shape with a number somewhere inside it and he has put the shape on the table between them and he has not put the number in her hand, and he is not going to, and she cannot ask for it because she has three questions in the book already and the first one is holding the rest of it.
+A day is not a whole word. A day is a shape with a number somewhere inside it and he has put the shape on the table between them and he has not put the number in her hand, and he is not going to, and she cannot ask for it because she has four questions in the book already and the first one is holding the other three.
 
 She asked him a yes or no question and he gave her a shape, and a shape cannot be worked with.
 
@@ -104,15 +104,15 @@ She came back at the seventh hour of the twenty-second of the month beginning 1,
 
 That hour is the one she would go back to. She stood four feet into an opening at the west jamb with the sun coming over the top of it and her right arm open and hanging, and a man nine feet off on his own side of a plank table with his hands flat on the wood, and neither of them said anything, for a full hour, in daylight.
 
-She has been in a room with a man nine hundred years old for an hour and it is the longest that has ever happened and nothing at all came of it.
+She has stood in an opening four feet off a man nine hundred years old for an hour and it is the longest that has ever happened and nothing at all came of it.
 
 She had walked twenty-nine hours and eaten a third of a loaf when she stood in it and that is all of it, and she stood there for an hour anyway, and afterwards she could not have told anybody why.
 
-## The Hour She Could Not Account For
+Two men went west on the made road inside that hour and neither of them came inside twenty yards, and a cart went out at about the fortieth minute and the driver did not look, and the whole of the hour was ordinary, and ordinary is the thing she cannot put down.
 
-She came back at the seventh hour of the twenty-second of a month beginning 1,634 and stood in the opening for an hour and he did not say one word and she did not say one word, and she had forty-four miles of road in front of her and a third of a loaf.
+## The Road West After
 
-She left the opening at the eighth hour of the twenty-second of the month beginning 1,634 with the sun still on the top of the wall behind her, and there were forty-four miles of road in front of her and a third of a loaf in the bag.
+She left the opening at the eighth hour of the twenty-second of the month beginning 1,634 with the sun still on the top of the wall behind her.
 
 There is a day. That is what she was carrying, and it is a shape with a number somewhere inside it that he has decided she does not get.
 
