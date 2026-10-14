@@ -66,7 +66,7 @@ He turned round and looked up the yard at the bed, which was two hundred and ten
 
 “All right.”
 
-“I am going to write it on Tuesday,” he said. “That is the day the book goes up the mill road with everything else in this yard, because it goes up on a first and I have never in twenty-two years had a page go up a day late because of me. And it comes back down on the ninth.”
+“I am going to write it on the first,” he said. “That is the day the book goes up the mill road with everything else in this yard, because it goes up on a first and I have never in twenty-two years had a page go up a day late because of me. And it comes back down on the ninth.”
 
 He put the chalk in his pocket and looked at the hole again.
 
@@ -90,7 +90,7 @@ What she had on the twenty-sixth, at the yard, was forty feet of plank out of th
 
 And the twenty-eighth was two days away and she had no way of being in two places.
 
-She walked four miles back up the made road with the strip against her ribs and she worked out on the hedge that she had made something happen four times in eight days in a yard full of nine men, and that a man with a rule in his hand was going to write a page about it on the Tuesday, and that the page was going to go up the mill road.
+She walked four miles back up the made road with the strip against her ribs and she worked out on the hedge that she had made something happen four times in eight days in a yard full of nine men, and that a man with a rule in his hand was going to write a page about it on the first, and that the page was going to go up the mill road.
 
 That was the first thing she had ever put anywhere on purpose, and she had not decided to put it anywhere, and the man who would have to write it down was telling her a week in advance.
 
@@ -98,7 +98,7 @@ That was the first thing she had ever put anywhere on purpose, and she had not d
 
 She felt proud for two hundred yards on the made road, and then she felt sick, and the sick lasted the whole four miles.
 
-Proud was because four men in nine had got out of her way in eight days without a word being said. Sick was because a man of forty with a rule in his hand and twenty-two years behind him was going to sit down on a Tuesday with a page he had no term for.
+Proud was because four men in nine had got out of her way in eight days without a word being said. Sick was because a man of forty with a rule in his hand and twenty-two years behind him was going to sit down on the first with a page he had no term for.
 
 He had not asked her for anything. He had not asked her to stay out of it. He had not asked her anything at all, and he was right on all three.
 

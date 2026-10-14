@@ -132,7 +132,7 @@ Geng stood at her shoulder for four seconds and did not say anything, and then h
 
 He said one word.
 
-“Nai.”
+“All right.”
 
 A man of about forty took a pencil off the bench and wrote a heading over the second column of the floor sheet and wrote the eighteenth of that month against the first column on the line she had stopped at, and Geng read it over his shoulder and said it out loud again, and the man wrote it again, because it is nineteen years of his life that a thing said once by the man who runs a floor is not a thing that is written.
 

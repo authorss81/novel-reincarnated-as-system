@@ -16,7 +16,7 @@ She sat down at the edge of the table with her hands flat on it and did not open
 
 Rao read for an hour and then put the pencil down flat.
 
-“You have brought me a question and you have had it since Friday,” she said. “Ask it.”
+“You have brought me a question and you have had it since the eighth,” she said. “Ask it.”
 
 “Where is the money that pays for a column.”
 
