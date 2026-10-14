@@ -3944,3 +3944,92 @@ neither batch was thinned below the house voice to meet it · **`eleven` 36** ·
 `Scribe` 0 · `bargain` 0 · `Lung` 0 · `appointment` 0 · `budget` 0 · `Wall writ` 0 · `field agent` 0 · `vouch` 0** —
 every one measured on word boundaries in body prose before it is claimed. **`send for` 1** at ch 500, in the negative
 construction *he is not an office and he cannot send for anything*, which is the volume's own point and is counted.
+
+## Volume 9 Batch 0002 (ch 494–508) — REVIEW REPAIR
+
+**Three chapters reopened, three defects closed, no beat, day, title, stage, bracket or planned event moved.** The review
+found the mechanical layer exact — 21 forbidden terms at 0 across the fifteen files, one bracketed layer line and it is
+at ch 508, zero blockquotes, code blocks, tables, rules, bold spans and italic spans, every chapter inside 1,800–2,700
+words, and both named cards (ch 497 and ch 505) landed whole — and it found one missing deliverable and three text
+defects. **The missing deliverable is closed at the foot of this section. The three defects are closed here.**
+
+1. **Ch 507's own chronology.** The line *Nineteen days ago somebody wrote down where I sleep* contradicted the batch's
+   own frame. Ch 507 sets the arithmetic on **the third at the shed, in the afternoon**, and ch 508 states in its own
+   words that *the page was written by her out loud on a bench at a crossing on the third of a month in daylight with a
+   boy forty feet off*; ch 508 also gives *three nights* out of the shed and the state file gives the misreading four days
+   old at ch 508. **Nineteen was the only figure in the batch with no other file behind it.** It now reads *This morning
+   somebody wrote down where I sleep. I have not slept in it since and I am not going to.* — **the third of the month
+   beginning 1,484, at about the seventh hour, on the page, and the last clause sets up ch 508, where the reach returns
+   the shed anyway and she is four hundred yards off it.** The prose around it is untouched and the arithmetic block at
+   ch 507 is unchanged.
+2. **Ch 502's retrospective elapsed-time markers.** Four markers — *in the three days since*, *for three days*,
+   *for four days*, *for four days* — described time passing since a crossing the chapter itself dates to **the third at
+   the seventh hour**, with the price named at the second hour of the fourth and the boy on the chain in the morning
+   after. **One day had elapsed and the chapter said three and four.** They now read *in the hours since*, *since the
+   seventh hour of the third*, *since the third*, and the closing one carries it in the other shape — *she has not been
+   able to put it anywhere else since the third* — **so that the date is not struck twice in the same construction in the
+   same closing movement.** **No date in the chapter moved; only the four retrospective markers describing the interval
+   between them.**
+3. **Ch 505's doubled beat.** *She had it in her hand to ask him for the stone and she did not ask* stood twice within
+   three lines, once with the reasoning and once without. **It is now stated once, with the reasoning, and broken at
+   the beat: the sentence about nine seconds of looking at a book on a stone, and then the short plain line — *She did
+   not ask, and it is the hardest thing she has not done in eight years, and she wants it in the page in her own words
+   and not as a virtue.*** The chapter's best line survives whole and the chapter is thirteen words shorter on method B,
+   **1,865 to 1,852**.
+
+**Re-measured after the repair, method B, on the fifteen files as they now stand: 28,532 words, average ~1,902, range
+1,767 at ch 496 to 2,133 at ch 500** — **the batch total is unchanged, and that is a measurement and not a
+coincidence: the three files moved by −13 at ch 505, +8 at ch 502 and +5 at ch 507 on method B, a net of zero, so every
+figure the drafting phase published for Batch 0002 stands without correction.** Brackets: still **1** in fifteen chapters,
+at ch 508, and nothing else in square brackets. Forbidden terms: still **0** across all 21. Duplicate paragraphs,
+section-heading collisions, straight quotes and straight apostrophes: unchanged at 0 on the multi-line measure that has
+been used all volume.
+
+### The one contradiction the review did not name, found while measuring the repair
+
+**`state/open-threads.md` §*What Batch 0003 inherits* said *The Hunter's second and last appearance is in this batch and
+she asks him*, and it is false.** His first page was ch 491 and his second is Batch 0004's, at the mouth of ch 531, as
+`outline/volume-09.md` §*The Hunter in Volume 9* and `state/continuity.md` both state. A drafter reading that sentence
+would have spent the Hunter on the wrong ground and collided with ch 531. **The line is corrected in place** and the
+correction is recorded here rather than made silently.
+
+### The staging of the wall, the chair and the hut — pinned for Batch 0003
+
+**The outline fixes the mechanism, the three pinned days and the two silence figures, and leaves the ground to the batch.
+This is Batch 0003's own reading and it is now written down so the batch does not have to derive it and Batch 0004
+inherits it whole.**
+
+- **The wall is the bound and it is a physical thing**, east of the gate with the chain and the cup, at the end of the
+  long road, past the turnstile, **with a hut behind it.** The turnstile is not the wall; the turnstile is how people get
+  past.
+- **The room is the Warden's room** — one small room, a door that shuts, a chair, a table, a book, no hall in it — **against
+  the near face of that wall.** Batch 0004's demand at ch 531 is still Batch 0004's and is not spent here.
+- **She goes past the turnstile once, at ch 518, and this batch does not bring her back across it.** `## Major locations`
+  gives *Volume 9 crosses past it once and does not come back the same way*, and Batch 0002 left it uncrossed for this.
+- **The one who stays wrong-sided is him.** A wall opened from the inside is a document read from the inside by the person
+  it is about, without anybody qualified in the room; he reads it; he stays. **The price is a number of one and the
+  number is not her**, and she never learns which one he means, because at ch 516 he writes a figure on a page and says
+  nothing at all.
+- **Ch 519's empty chair is that room's chair**, empty because he is behind a wall he opened for her, with a light in
+  the hut behind it for the whole night.
+- **Ch 520 is on her side of the turnstile, in daylight, at the gate, with witnesses she did not ask for.** She crosses
+  the opened wall in both directions and is not charged for it. **He cannot.**
+
+### The silence, measured honestly, because two copies of it now exist
+
+The outline publishes **265 days at ch 518 and 273 at ch 520, both counted from day 1,256**, and says his silence with
+her is unbroken across them. **On the page, Batch 0002's ch 498, 501, 502 and 503 have him speaking to her outdoors — a
+shed, a lane, a bench at a crossing, in daylight.** That prose stands and is not to be rewritten. **The two are kept
+apart rather than collapsed:** the figure this volume publishes is a run of days from day 1,256, 1,521 − 1,256 = 265 and
+1,529 − 1,256 = 273, **and the on-page rule Batch 0003 enforces is the narrower one — no spoken word of his reaches her
+hearing in any chapter of Batch 0003 before ch 520, and ch 516 gives him none at all.** The frame scene at ch 518 is away
+from her hearing and is not counted against either figure.
+
+### The deliverable the review called blocking
+
+**`workspace/volume-09-batch-0003/PROMPT.md` is written and holds the fifteen cards for ch 509–523, days 1,489–1,561,
+with the day table re-derived under `((day − 134) mod 30) + 1` and the five pinned anchors landing on ch 516 day 1,514,
+ch 518 day 1,521, ch 519 day 1,525, ch 520 day 1,529 and ch 523 day 1,561.** Exactly one next phase exists. **The Batch
+0001 phase directory, whose fifteen chapters are on the page and summarised, has been marked complete so the dispatcher
+cannot select it ahead of Batch 0003 and re-draft a finished batch.** Volume 9 is not complete and no volume-close phase
+was created.

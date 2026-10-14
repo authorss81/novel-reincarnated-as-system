@@ -86,7 +86,7 @@ That is seventy-six days by subtraction, and she checked it twice, once with the
 
 And the last line, which she wrote underneath, because she is a person who writes the rest of it down and not only the wish:
 
-Nineteen days ago somebody wrote down where I sleep. I have not slept in it since.
+This morning somebody wrote down where I sleep. I have not slept in it since and I am not going to.
 
 She looked at that one for a while and then she went and got the ring and the dish and put them in a bag with her own two hands, because she is not leaving a dish in a shed that a page says is hers.
 

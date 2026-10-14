@@ -833,3 +833,20 @@ words and none over 120; fifteen new titles, unique, longest 30 characters.**
    established at full local height here and carried live into Batch 0003.
 3. **The copy at ch 502 is a page about her, not the kept-or-lost entry.** The rule is *written once*, so the entry is
    Batch 0004's at ch 536 and nothing in Batch 0003 may write it.
+
+### Volume 9 Batch 0002 — review repair, applied to ch 502, ch 505 and ch 507
+
+**Three defects closed and one false inherited note corrected. No beat, day, title, stage, bracket or planned event
+moved.** Ch 507's *nineteen days ago somebody wrote down where I sleep* contradicted its own frame — the page was
+written on **the third of the month beginning 1,484, in daylight, on a bench at a crossing**, and ch 508 says so in its own
+words — and now reads *This morning somebody wrote down where I sleep. I have not slept in it since and I am not going
+to*, which also sets up ch 508's four hundred yards. Ch 502's four retrospective markers (*three days since*, *for three
+days*, *for four days*, *for four days*) described an interval that its own dates put at **one day** and now read *in the
+hours since*, *since the seventh hour of the third*, *since the third* and *since the third*. Ch 505 stated the same beat
+twice inside three lines and now states it once, broken at the beat, with its best line intact. **The batch is 28,532
+words of body prose on method B after the repair — unchanged, and that is a measurement: ch 505 −13, ch 502 +8, ch 507
++5, a net of zero** — and the average is unchanged at ~1,902, the range unchanged at 1,767 to 2,133, the bracket count
+unchanged at **one, at ch 508**, and the forbidden-term count unchanged at **0** across all 21. Full record, plus the staging pinned for Batch 0003 and the two
+copies of the silence kept apart, at `state/continuity.md` §*Volume 9 Batch 0002 (ch 494–508) — REVIEW REPAIR*.
+
+**Next:** `workspace/volume-09-batch-0003/PROMPT.md`, ch 509–523, day 1,489–1,561.

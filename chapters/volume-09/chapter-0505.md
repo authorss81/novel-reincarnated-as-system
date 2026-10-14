@@ -70,9 +70,9 @@ That is the whole of what he said and he said it in forty seconds and he did not
 
 ## What She Did Not Do
 
-She had it in her hand to ask him for the stone and she did not ask, and it is the hardest thing she has not done in eight years and she wants it in the page in her own words and not as a virtue.
-
 She had it in her hand to ask him for the stone, on the strength of nine seconds of looking at a book on a stone, from a man who has told her he will not say the rest of it.
+
+She did not ask, and it is the hardest thing she has not done in eight years, and she wants it in the page in her own words and not as a virtue.
 
 And what stopped her was not that it was his.
 

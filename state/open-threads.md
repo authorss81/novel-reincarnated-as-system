@@ -1792,11 +1792,14 @@ exhaustion of the hours she was counting · three coppers and no bread at the la
 
 **ch 509–523, days 1,489–1,561, seventy-three days, pressure *what she told him to do with her still in the room*.** The
 misreading is the first pressure and it is already four days old. **He shows her the price of a door at ch 516, in a
-number of one, in writing, and does not say it — his silence with her is unbroken from day 1,256 to day 1,529, and 1,521
-− 1,256 = 265 is his silence when the door opens at ch 518 and 1,529 − 1,256 = 273 is his silence when he speaks at
+number of one, in writing, and does not say it — the run the volume publishes is a run of days from day 1,256, and
+1,521 − 1,256 = 265 is his silence when the door opens at ch 518 and 1,529 − 1,256 = 273 is his silence when he speaks at
 ch 520.** **Ch 518 is the fifth frame scene and it is away from her hearing. A chair east of the turn stays empty at
 ch 519. Severance 3 at ch 523 on day 1,561, the eighteenth of the month beginning 1,544, and the road behind her stops
-being hers.** The Hunter's second and last appearance is in this batch and she asks him.
+being hers.** **The Hunter is NOT in this batch: his second and last Volume 9 page is Batch 0004's, at the mouth of
+ch 531, and she asks him there.** *This paragraph previously said his second appearance was in this batch, which is
+false and would have collided with ch 531; corrected at `state/continuity.md` §*Volume 9 Batch 0002 — REVIEW REPAIR*.*
+**The cards are written and are at `workspace/volume-09-batch-0003/PROMPT.md`.**
 
 ### What this file did not do
 

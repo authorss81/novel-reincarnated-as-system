@@ -3621,11 +3621,14 @@ speaks to her.
 ### Where Volume 9 actually stands
 
 **Outline planned and repaired. Batch 0001 on the page, ch 479–493, 27,725 words of body prose on method B, average
-~1,848, day 1,341 to day 1,412, zero bracketed layer lines.** She is eighteen years old and one stage past the ceiling
-as of day 1,413, the twentieth of the month beginning 1,394, standing in a doorway with a bar she cannot hold at the
-heavy end, the paper open against her ribs and never named, and a shed behind her that has stopped being hers. **Batch
-0002 is the next work and its prompt does not exist yet** — Batch 0001 is deferred rather than complete, so the next
-prompt belongs to the drafting phase that runs, and creating one here would put a phase ahead of the work.
+~1,848, day 1,341 to day 1,412, one bracketed layer line at ch 493.** She was eighteen years old and one stage past the
+ceiling as of day 1,413, the twentieth of the month beginning 1,394, standing in a doorway with a bar she cannot hold at
+the heavy end, the paper open against her ribs and never named, and a shed behind her that has stopped being hers.
+**Batch 0002 is now on the page too — ch 494–508, 28,532 words of body prose on method B, average ~1,902, day 1,413 to
+1,488, one bracketed layer line at ch 508** — and **`workspace/volume-09-batch-0003/PROMPT.md` is written and holds the
+ch 509–523 cards.** *This paragraph previously read that Batch 0002 was the next work and that its prompt did not exist;
+that was true when the planning repair closed and it is superseded.* **The phase marker for Batch 0001 has been closed:
+its fifteen chapters are on the page and are summarised, so the batch is not re-drafted.**
 
 ## Who is where at end of chapter 508 — VOLUME 9 BATCH 0002 WRITTEN (cold reader starts here)
 

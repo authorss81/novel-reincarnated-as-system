@@ -2,7 +2,7 @@
 
 She did it on the third of a month at the seventh hour at a crossing, in daylight, on a bench, with a boy of seventeen forty feet off putting a chain up and down.
 
-That is the shape of it and she has not been able to make it into anything else in the three days since. The whole of the most important sentence of her life so far was said out loud, in the open, sitting down, to a man standing nine feet off a lane.
+That is the shape of it and she has not been able to make it into anything else in the hours since. The whole of the most important sentence of her life so far was said out loud, in the open, sitting down, to a man standing nine feet off a lane.
 
 He did not ask her to sit down and he did not ask her to stand up. He asked her nothing. That was the arrangement and she made all of it herself.
 
@@ -52,7 +52,7 @@ He read it back without being asked, and it came out word for word, and then he 
 
 “And a place.”
 
-She said, “The shed at the end of this lane,” and she heard herself say it, and that was the moment. She wants it written down that the moment was that sentence and not the forty seconds of brush, and she has been carrying both of them for three days and she is going to be carrying them for the rest of this.
+She said, “The shed at the end of this lane,” and she heard herself say it, and that was the moment. She wants it written down that the moment was that sentence and not the forty seconds of brush, and she has been carrying both of them since the seventh hour of the third and she is going to be carrying them for the rest of this.
 
 “The shed at the end of the lane,” he said.
 
@@ -112,7 +112,7 @@ And the boy said, “Then that is different,” and went back to his chain, and 
 
 ## Forty Seconds Of Brush
 
-She heard all of it and she has been going back over it for four days.
+She heard all of it and she has been going back over it since the third.
 
 It is not a fast hand. She reads a hand that four people cannot take and she can tell you the speed of a man writing from four inches of it, and this one was slow in the way a hand is slow when the person writing it has had nine hundred years of practice and no hurry at all.
 
@@ -124,4 +124,4 @@ Careful is even. This was not even. It went uneven twice, at the eleventh second
 
 He has written that word a great many times.
 
-She does not know that and she is not going to be able to, and she has thought about it for four days, and it is the only thing about a man of nine hundred years that has ever made her want to ask him something she has no right to ask.
+She does not know that and she is not going to be able to, and she has not been able to put it anywhere else since the third, and it is the only thing about a man of nine hundred years that has ever made her want to ask him something she has no right to ask.
