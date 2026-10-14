@@ -6338,3 +6338,16 @@ is still not to be quoted as Volume 10's word count.**
 mouth against what the mouth actually says*, and the second was a repair that introduced the fault it was sent to fix.
 **A count is only correct against the sentence it counts. Read the line the count belongs to, not the word the count is
 made of.**
+
+---
+
+### Volume 11 planning — WHAT HE WAS, ch 601–660 (no prose, planning only)
+
+**Wrote `outline/volume-11.md`, `outline/batches/volume-11-batch-0001.md` through `0004.md`, and the one next
+phase `workspace/volume-11-batch-0001/PROMPT.md`.** Followed `outline/series.md` §9 (goal, title, range),
+`outline/ending.md` §1 (Feng dies writing; she knows since Volume 11 and stays) and §8 (Feng's writing as
+founding document), `bible/characters.md` (Yuan Sheng, hated name; furnace-man's son, harvested at nineteen),
+and the Volume 10 close's recorded findings (lane conflict chosen; Shuyin-thanks conflict carried, not
+re-argued). **Pinned days re-derived under `((day − 134) mod 30) + 1`: 1,842 → 29th of 1,814; 1,917 → 14th of
+1,904; 1,997 → 4th of 1,994; intervals 70 · 75 · 80 from Severance 6 at 1,772.** No canon changed; one flagged
+allowance created (`Scribe` at most 3 as fragment-source only). No chapters opened, no figures altered.

@@ -4751,3 +4751,29 @@ Threads: `state/open-threads.md` under ***VOLUME 10 CLOSED***.
   batch put them back.** `whole of` is **80**, exactly on its under-80 line and not over it. `about` is **396**, average
   6.39, under its line. `nothing` is **387**, average 6.24, **up about thirty per cent on Batch 0003** and handed to
   Volume 11's first batch as an open craft line with nothing cut.
+
+## Volume 11 planned — WHAT HE WAS, ch 601–660 (planning phase, no prose written)
+
+**`outline/volume-11.md` exists and is the authority for Volume 11. Its batch cards are
+`outline/batches/volume-11-batch-0001.md` through `volume-11-batch-0004.md`. The one next phase is
+`workspace/volume-11-batch-0001/PROMPT.md` — VOLUME 11 BATCH 0001, ch 601–615, days 1,831–1,841, pressure
+*asking him what he was*. No chapter prose was written by this phase and no other workspace directory was
+created.**
+
+- **Goal (fixed):** *In this volume, Ning Yan must learn what Yuan was before he died, or the ending is being
+  decided blind.*
+- **Stages:** Severance 7 at ch 616 / day 1,842 (70 after Sev 6) · Severance 8 at ch 632 / day 1,917 (75) ·
+  Severance 9 at ch 648 / day 1,997 (80). Costs: she cannot hear what she is told about him · she cannot keep
+  him by asking · she cannot go back to not knowing. Brackets 3 in sixty at ch 616, 632, 648.
+- **Frame:** seventh scene at ch 644, away from her hearing, present tense only from him. Irreversibles: ch 609
+  asking asked · ch 624 name written · ch 645 tax named as designed and stayed with · ch 655 Feng dies · ch 658
+  she stays knowing.
+- **Feng Lushi comes on the page in Batch 0004 only, takes one Lung, writes in his fair hand, and dies at
+  ch 655.** The writing is what gets her through what comes next and becomes the founding document the ending
+  owns.
+- **Flagged exception to the zero-allowances:** `Scribe` may be named at most 3 times volume-wide, only as the
+  thing he was a fragment of, never speaking, never offering, never adjudicated. Everything else stays 0.
+- **Map choice recorded:** the lane is four miles west of the turn (ch 585, ch 600 hold); ch 560's *thirteen
+  miles from the post* is not held.
+- **Live position unchanged:** day 1,830 at the turn at dusk; `## Who is where at end of Volume 10` above remains
+  the position Batch 0001 drafts from.

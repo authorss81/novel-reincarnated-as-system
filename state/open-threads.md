@@ -2529,3 +2529,22 @@ planned event moved.** Full record: `state/continuity.md` under ***Volume 10 clo
 
 **No repair prompt was created.** Every finding is either repaired on the page or recorded where Volume 11 planning reads
 it, and none is blocking. **No `.done` marker and no `workspace/volume-11-*` directory were written by this phase.**
+
+---
+
+## VOLUME 11 PLANNING — what the planning phase fixed, and what Batch 0001 inherits
+
+**`outline/volume-11.md` (*What He Was*, ch 601–660) is written and is the authority. Batch cards
+`outline/batches/volume-11-batch-0001.md` through `0004.md` are written. The one next phase is
+`workspace/volume-11-batch-0001/PROMPT.md`; no chapter prose was written and no other phase was created.**
+
+**Volume 11 inherits every OPEN and CARRIED item of *VOLUME 10 CLOSED* above, unchanged, plus these planning
+decisions (all inside `outline/volume-11.md`, none on any chapter page):** the voice is the engine · Severance
+7→9 at ch 616 / 632 / 648 on days 1,842 / 1,917 / 1,997 · seventh frame at ch 644 · five new origin mouths at
+ch 608 / 622 / 636 / 640 / 652–654 · Feng dies ch 655 · she learns whole ch 657 and stays ch 658 · Scribe at most
+3 as fragment-source only · lane four miles west of the turn held, thirteen-from-post dropped · `Yuan Sheng`
+unnamed before ch 617 · six blank leaves blank through Batch 0001.
+
+**Batch 0001 (ch 601–615, days 1,831–1,841) inherits:** the asking unasked · nine uncountable coppers · the lever
+carried · *twenty-two days* open · window/lime/hut light untouched · Hunter/Shuyin/Feng off the page · Wei Ran
+once · Ning Wu walked past once at ch 605.
