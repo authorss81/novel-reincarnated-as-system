@@ -6394,3 +6394,142 @@ left alone.
 **No repair prompt was created. No `.done` marker, no `workspace/volume-11-batch-0002/` and no second phase directory.
 The one next phase remains `workspace/volume-11-batch-0001/PROMPT.md`, which this repair edited in place and did not
 re-dispatch.**
+
+---
+
+## VOLUME 11 BATCH 0001 — ch 601–615 — What He Was — day 1,831–1,841 — WRITTEN
+
+**`chapters/volume-11/` holds ch 601–615. Fifteen chapters. 28,446 words of body prose on method B — every line not
+beginning `#`, measured with `grep -v '^#' <file> | wc -w` chapter by chapter and over the fifteen together — average
+1,892 a chapter, inside the outline's 1,800–2,000 batch target and inside its 27,000–30,000 batch floor.** Per chapter:
+1,990 · 1,866 · 1,839 · 1,805 · 1,896 · 1,735 · 1,874 · 1,879 · 2,011 · 1,902 · 1,933 · 1,952 · 2,018 · 1,825 · 1,921.
+**No chapter is under the 1,300 floor and none is above the 2,700 guide.**
+
+### What the batch did, card by card, against `outline/volume-11.md` §*The escalation sequence*
+
+1. **ch 601, day 1,831.** She stands at the turn with his talking in her ears and lays the bar down at the third hour.
+   The staying is a decision and the chapter ends on it. **PASS.**
+2. **ch 602, days 1,831–1,832.** Nine coppers that will not count, shown working, and **for the first time in ten years
+   the count misses on money** — 9, 9, 8, 9, 9, 10 on the flat of the bar, while nineteen stones in a wall and
+   two hundred and seventy-two days hold every time. **PASS.**
+3. **ch 603, days 1,832–1,833.** Thirteen miles east, twelve places stood in, no book and no wall with anything behind
+   it, and **he is nowhere and still talking.** **PASS.**
+4. **ch 604, days 1,833–1,834.** The four miles west to the cottage with the shut door at the stopped lime bed. **The
+   brother's road walked without following him — she turns round at the door, one mile short of the mill.** **PASS.**
+5. **ch 605, days 1,834–1,835.** Bread at the store woman's rate, said out loud, paid for with coppers she cannot
+   count. **Ning Wu walks west past her at the eighth hour and she lets him go.** **PASS.**
+6. **ch 606, days 1,835–1,836. THE MIDPOINT.** **She decides the asking is askable** — eight questions counted, every
+   one with somewhere to go, and hers with none, and eight years of filing that was never in a book. **PASS.**
+7. **ch 607, day 1,836.** **Wei Ran's last rate on a road going nowhere**, six coppers the four miles, the number said
+   out loud both ways, one carrying, nothing else. **PASS.**
+8. **ch 608, days 1,836–1,837. THE FIRST ORIGIN MOUTH.** **A furnace-man's mate of forty-five, six sentences across the
+   chapter, in five speeches, none of them a speech.** **PASS.**
+9. **ch 609, day 1,837. THE CLIMAX AND THE BATCH'S ONE IRREVERSIBLE STEP.** **She asks what he was before he started
+   counting, out loud, alone, at dusk, and he names the terms: one at a time · in daylight.** **PASS.**
+10. **ch 610, days 1,837–1,838.** The asking stands and cannot be un-asked; the waiting has no road in it. **PASS.**
+11. **ch 611, days 1,838–1,839.** Work for bread at a face measured by weight; **work paid and unholdable on hands that
+    cannot keep**, and the first Merit settling of Volume 11. **PASS.**
+12. **ch 612, day 1,840.** Nine years looked at straight and the woman of sixty looks back. **PASS.**
+13. **ch 613, days 1,839–1,840.** Six blank leaves counted; the one count in the batch that holds five times. **PASS.**
+14. **ch 614, days 1,840–1,841.** The lever taken out in the open and declined; she decides what she is owed. **PASS.**
+15. **ch 615, day 1,841.** One at a time, in daylight, with the turn for a witness. **He answers the smallest true
+    thing: a furnace, a number, nineteen.** **PASS.**
+
+### The calendar, re-derived rather than carried
+
+`((day − 134) mod 30) + 1`, month beginning 1,814. **1,831 = 18 · 1,832 = 19 · 1,833 = 20 · 1,834 = 21 · 1,835 = 22 ·
+1,836 = 23 · 1,837 = 24 · 1,838 = 25 · 1,839 = 26 · 1,840 = 27 · 1,841 = 28.** Every chapter names its month-begin and
+every day-name on the page agrees with this table. **Severance 7 is ch 616 on day 1,842, the twenty-ninth of the same
+month, and this batch takes no bracket and moves no stage.**
+
+**The weight-loss count, derived per chapter and never carried down from an earlier one.** The eighteenth of the month
+beginning 1,544 is day 1,561, the count is inclusive of the first day, and the figure at any day D is **D − 1,560**:
+**271 at ch 601 · 272 at ch 602 · 272 carried at ch 603 · 274 at ch 604 · 275 at ch 605 · 277 at ch 608 · 278 at ch 610 ·
+279 at ch 611 · 280 at ch 612 · 280 at ch 613 · 281 at ch 614 · 281 at ch 615.** **No figure is stated in a chapter whose
+day it does not belong to, and ch 613's 280 is the twenty-seventh, which is the day its scene is on.**
+
+### The construction budget, measured from the files and not promised
+
+| Construction | Allowance | Measured across the fifteen chapters | Verdict |
+| --- | --- | --- | --- |
+| **Bracketed layer lines** | **0 in fifteen chapters** | **0** — `[` and `]` both 0 in body prose and in full files | **PASS** |
+| **Bold** | **0** | **0** — `**` returns 0 | **PASS** |
+| **Italic** | scarce, counted | **10 pairs across fifteen chapters**, against Volume 10's 18 across 62 | **PASS** |
+| **Blockquotes / code fences / tables / horizontal rules** | 0 / 0 / 0 / 0 | 0 / 0 / 0 / 0 | **PASS** |
+| **All-caps standalone lines** | 0 | 0 | **PASS** |
+| **Straight quotes / straight apostrophes** | 0 / 0 | **0 / 0**; curly open and close both **322** | **PASS** |
+| **Speech closed in every chapter** | every chapter | **every chapter**, asserted per file | **PASS** |
+| **Paragraphs over 90 words** | break at ~90 | **0**; none over 120 | **PASS** |
+| **Duplicate `## ` inside a chapter** | 0 chapters | **0**, asserted per file on `^## ` | **PASS** |
+| **Titles** | 15 names, 3–12 words, under ~90 characters, unique | 15 names; **0 collisions against all 600 standing headings, 0 within the batch** | **PASS** |
+| **Authorial scaffolding** | 0 | **0** for *this chapter · this volume · this book · the rest of the book · the reader · in this batch · another batch · this batch · N volumes* | **PASS** |
+| **`eleven`** | **under forty for the batch** | **31**, average 2.07 — under the Volume 10 overrun of 215 and under the batch's own line | **PASS** |
+| **`nobody`** | **under thirty for the batch** | **21**, average 1.40 — under the batch's line and under Volume 10's 2.21 | **PASS** |
+| **`about…`** | average under 7.0 | **74**, average **4.97** | **PASS** |
+| **`nothing`** | hold down against Volume 10's late rate of 6.24 | **68**, average **4.55** | **PASS** |
+| **`whole of`** | under 80 volume-wide | **28** batch-wide | **PASS** |
+| **The retired seven phrases** | this batch spends at most one | **0** — *there is no column* was drafted at ch 606 and **cut before the batch closed** | **PASS** |
+| **The Yuan tag** | 0 verbatim, no lead-in | **0** | **PASS** |
+| **`his eyes widened · he couldn't believe it · suddenly · little did he know`** | 0 / 0 / 0 / 0 | 0 / 0 / 0 / 0 | **PASS** |
+| **`about four seconds` · `eleven weeks`** | 0 / 0 | **0 / 0** — *about four seconds* was drafted at ch 615 and cut | **PASS** |
+| **Named weekdays / named calendar months / named weeks** | 0 / 0 / 0 | 0 / 0 / 0 | **PASS** |
+| **Surface answer** | 0 in any mouth, any form | **0** — *charged · bookkeeping · receipt · bounded world · the walls* all 0 | **PASS** |
+| **Zeroed proper nouns** | all 0 on word boundaries | **0** for `Ledger · reconciled · plate · licence · license · clearance · countersignature · seal · kiln-born · MEMBER ABSENT · tribulation · Anchor · Sisterhood · bargain · Lung · appointment · budget · Wall writ · field agent · Warden · Order · Shuyin · Feng · Xie Changyin · Shen Xiu · Yuan · Yuan Sheng · Scribe · Hunter` | **PASS** |
+| **`Ning Wu`** | named at most once in the batch | **0** — he is *a brother of nineteen* throughout | **PASS** |
+| **`Wei Ran`** | one card in the batch | **15 on word boundaries in exactly one chapter, ch 607** | **PASS** |
+| **The year of non-forgiveness** | 0 mentions | **0** | **PASS** |
+| **A figure of what is left of him** | none stated | **none**, before or after the ch 611 settling | **PASS** |
+| **A scene in which he is thanked** | 0 | **0.** ch 609 and ch 612 both turn on a withheld thank and ch 612 says the reason on the page | **PASS** |
+| **A frame scene** | ch 644 | **0 in this batch** | **PASS** |
+| **A name read out of the shut book** | 0 | **0** | **PASS** |
+
+### The things this batch resolved, closed, or paid
+
+1. **THE ASKING, DONE AND IRREVERSIBLE.** ch 609, the ninth hour of the twenty-fourth of the month beginning 1,814,
+   day 1,837, alone, on broken ground a hundred yards north of a turn, after she has checked there is not a soul within
+   four hundred yards. **It cannot be un-asked and the second person who holds the words is him.**
+2. **THE TERMS, NAMED AND NOT MOVED FOR THE REST OF THE VOLUME: one at a time · in daylight.** **The old third term,
+   *at the wall*, is dead, because the wall is gone — and that is what makes the new third term *standing* and not a
+   distance.** `outline/volume-11.md` fixes the terms and Batch 0001 named them on the page exactly once.
+3. **THE COUNT MISSES ON MONEY, AND THE REASON IS NOT DIFFICULTY.** Nine coppers, nineteen stones, two hundred and
+   eighty days, six leaves, eleven barrows: the instrument works on everything except the thing that moves. **This is the
+   sixth cost applied and never re-derived.**
+4. **THE TWENTY-TWO IS STILL OPEN AND STILL UNPLACED.** It comes back once, at ch 603, on a flat on the far side of a
+   wall: **twenty-two, with no unit on it**, held for ninety seconds, gone when she stands, not returned on eleven miles
+   and not returned since. **It is equated to no dated interval and nothing in this batch explains it.**
+5. **THE FIRST ORIGIN MOUTH IS ON THE PAGE AND IS WITHIN ITS RANGE.** Six sentences, five speeches, none of them a
+   speech. **The tenth part is not given and nothing proves the crews wrong** — he is flatly correct that not one man at
+   that fire was cruel and that both of those are how it happened. **He does not know the name and he will not guess
+   one: *He had a name and nobody at that fire used it*, and she does not ask again.**
+6. **THE BROTHER IS WALKED PAST ONCE AND LET GO, AND THE LETTING COSTS THE WALKING.** ch 605, the store road, the eighth
+   hour of the twenty-second, going west with a mill-sack. She stood at a shut door a mile short of him the day before
+   **because going to the mill would be following him**, and this is what that decision is worth.
+7. **MERIT SETTLES ONCE IN THIS BATCH**, at ch 611, on listed work cleared past the line at a stone face, not on a
+   death. Eleven seconds, no sound in it because there is no one inside to be told, the sound goes into the ground, and
+   **what it took came out of the ground under her feet and not out of her hands.** **No figure of what is left of him is
+   stated anywhere in the batch.**
+8. **THE BENCH LOOKS BACK.** ch 612. The woman of sixty turns her head about a foot and looks at the place low behind
+   her fourth rib through the front of the coat, four seconds, and says nothing. **Nine years back from the twenty-seventh
+   of the month beginning 1,814 is the eighteenth of the month beginning 1,544, and the lime, the wheel, the boy of ten
+   behind the last barrow and the aperture are all on that one date.**
+9. **THE SIX BLANK LEAVES ARE STILL BLANK AND NOTHING IN THE BATCH PUTS A NIB NEAR THEM.** ch 613 takes them out and
+   counts them five times and gets six five times and writes nothing on any of them. **Batch 0002 inherits six blank
+   leaves and ch 624 spends one.**
+10. **THE LEVER IS CARRIED AND DECLINED TWICE AND IS NOT PULLED** — at ch 609 in the dark and at ch 614 in the open.
+    **The reason is on the page: a thing you can ask twice is a thing you can be refused twice, and she wants a thing
+    she can ask once.**
+11. **THE SMALLEST TRUE THING.** ch 615. **A furnace, a number, nineteen: *Bricks. Two hundred and forty courses in a day
+    at six hundred and forty to a course. I was the one who counted them. I have been counting bricks since I was eleven
+    years old and I have never once been paid for it.*** **He gives three things where she asked for one, and the
+    chapter says why: he hands over entries and not sentences, and he has done it since she was eight.** She takes no
+    fourth thing. **One at a time.**
+
+### What Batch 0002 inherits, unchanged
+
+Severance 6 and the ninth stage landing at ch 616 on day 1,842 with **the volume's first bracketed layer line and
+nothing else in fifteen chapters of Batch 0002 either outside ch 616.** The asking stands. The terms stand. The lever
+stands, carried and un-pulled. **One copper, a quarter of a loaf, a bar nine feet nine, a bag with seven things in it, a
+paper against her ribs never named, and six blank leaves.** A furnace east of here, not this sect. **Twenty-two** with
+no unit on it. The window unasked, the lime left with her hand four inches off the bar, the hut light standing. One
+elementary count of the days of going lighter, derivable only from the day. **Nothing forgiven, nothing thanked, no
+mother's name said, no romance, and a brother nine miles east who will not walk with her.**

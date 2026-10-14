@@ -1633,3 +1633,129 @@ thing left is a voice that has been counting with her for eight years. **She doe
   **The page and the outline disagree and the close did not reconcile them.**
 - **The lane is in two impossible places** — ch 560's three sentences against ch 585 and ch 600's list. **Everything else
   on the map is fixed.**
+
+---
+
+## VOLUME 11 — *What He Was*
+
+### Batch 0001 (ch 601–615) — day 1,831–1,841 — WRITTEN
+
+**`chapters/volume-11/` holds ch 601–615, fifteen chapters, 28,446 words of body prose on method B (every line not
+beginning `#`), day 1,831 to day 1,841, average 1,896 a chapter. Zero bracketed layer lines. Severance 6 throughout.
+One irreversible step, at ch 609. Fifteen titles, none colliding with the 600 standing headings.**
+
+- **ch 601, day 1,831 (the eighteenth of the month beginning 1,814), *The Bar Laid Down*.** Dawn at the turn with his
+  talking in her ears. She goes through the nine things she owns at the first hour. The board on the two posts four
+  hundred yards east has been bare since the second of a month beginning 1,754 and he knows the weight of the last load
+  on it. **Fourteen days to the next board; eleven days to the end of standing.** She lays the bar down flat on the stones
+  at the third hour and the staying is a decision, because things happen to her and standing still is the only thing she
+  owns that nothing can be done to. The woman of sixty moves six inches along the bench and does not look up, for the
+  first time in four months. 271 days of it. **Decision: tomorrow she goes to find out where the talking
+  comes from.**
+- **ch 602, day 1,832 (the nineteenth), *What The Nine Came To*.** Nine coppers on the flat of the bar: nine, nine,
+  eight, nine, nine, ten. The stones in the third row of the wall by the trough hold at nineteen and the days hold at two
+  hundred and seventy-two. **The count does not miss on the coppers; it misses on money, because money is the first object
+  she owns that has a direction.** The only count of money ever any good to anybody is a number said out loud across a
+  counter, and she says the whole of that out loud on the stones. 272 days.
+- **ch 603, day 1,833 (the twentieth), *A Voice With No Address*.** Thirteen miles east. She stands in **twelve** places
+  where she has heard him say something and he talks in every one of them. The gate stands open with no one on it; the
+  wall stands open with no plank table in it; the opening eight feet high has nothing in it but her. Quarter of a mile
+  past the flat she asks *are you here* and he says **I am not anywhere.** She walks thirteen miles **without counting one
+  figure** for the first time since the eighteenth of a month beginning 1,814, and works out that she spent the count on a
+  voice. On the flat past the wall the count she cannot start produces **twenty-two** with no unit on it, and it goes when
+  she stands. 272 days, carried.
+- **ch 604, day 1,834 (the twenty-first), *Eight Miles On A Bad Arm*.** Four miles west to the cottage with the shut door at
+  the stopped lime bed. She does not touch the bar on the door. She looks for six things a boy of nineteen leaving at dusk
+  would have left and finds none, because he did not stop, and he is going a mile further on to a mill with a man of
+  seventy in it. **She turns round at the shut door, one mile short of him, because going to the mill would be following
+  him.** Four miles back with the arm gone from the first mile, the bar down in the road for ten minutes, and the bar back
+  on at the turn with both hands. 274 days.
+- **ch 605, day 1,835 (the twenty-second), *The Loaf And The Number*.** Five miles west to the store behind the mill. The
+  woman behind the counter counts nine in a second and a half and says it, and for the first time in ten years a figure is
+  in two places. **Bread at two coppers a loaf, said out loud, put down without being counted.** No thank you; no question;
+  no mother's name. **Ning Wu walks west past her at the eighth hour with a mill-sack on a strap, says *you have eaten* and
+  *that is a trade*, and goes on.** Five sentences in nine years and three of them are of bread. The bill for turning round
+  is the whole of it. 275 days. Seven coppers left.
+- **ch 606, day 1,836 (the twenty-third), *The Kind Of Person Who Asks*. MIDPOINT.** She counts every question she has ever
+  put to him — eight in eight years — and they all want a figure, a day, a yes, a no or a word with a meaning, and **every
+  one of them had somewhere to go.** The question she has carried since the month beginning 1,574 does not, and there is no
+  book, no column, no board and no wall left to put it in. What she works out at the fifth hour is that **she has been the
+  filing for eight years** and not one answer was ever in a book. The lever is taken out, turned over, and put away: a
+  thing you can ask twice is a thing you can be refused twice. **DECISION, said out loud on the bench: *I can ask him.*** And
+  the second half: she will not do it with nothing in her hand.
+- **ch 607, day 1,836 (the twenty-third), *Six Coppers The Four Miles*.** **Wei Ran's last rate on this ground: six coppers
+  the four miles, said out loud going out and said out loud coming back, the bar in the cart and not on the seat.** One
+  carrying, one opinion, no thank you, no question either way, no romance. Wei Ran: *there is no rate after this one and
+  no man west of this turn who would carry a bar for money.* She spends six of seven coppers and counts what is left twice
+  and gets two, then one. **One copper, a quarter of a loaf, a bar, a bag, six blank leaves.** He points out that she has
+  counted what is left of her eleven times that day and has never once counted what is left of him.
+- **ch 608, day 1,837 (the twenty-fourth), *What A Furnace Uses*. FIRST ORIGIN MOUTH.** A man of forty-five comes west on
+  foot with his hands burned into the creases and stops at the turn, and she reads his hands at eight feet the way she has
+  read hands since she was six. She asks about the lime bed four miles west and he worked it for a year. **The mouth, in six
+  sentences across the chapter: the boy weighed them before they went in · nobody pays him, his father fires · a boy who
+  counts what nobody is paying him to count is a boy the furnace will use · it is not the same thing as keeping and not one
+  man at a fire thinks it is, and the only people who found the difference out were the ones it was done to · it happened
+  without anybody meaning it and not one man there was cruel · he had a name and nobody at that fire used it.** He asks her
+  the only question anybody has asked her: *what do you count.* **She turns her own hand over and it is the same hand.** He
+  tells her he has told this to two people in twenty years and she is the third.
+- **ch 609, day 1,837 (the twenty-fourth), *Before You Started Counting*. IRREVERSIBLE. THE BATCH CLIMAX.** She carries the
+  bar a hundred yards into the broken ground, checks there is not a soul within four hundred yards, and at the ninth hour,
+  alone, in the ordinary voice, **she asks: *What were you before you started counting.*** **He does not answer. He goes
+  careful.** He asks her to say it again, and *I want it on the record that I asked.* Then he names the terms: **one at a
+  time. in daylight.** Four minutes of silence she counts. She works out that the wall is gone, so a question is done
+  standing: **eleven days each way to nowhere.** She pulls the lever open in the dark and does not pull it. The terms are
+  said out loud so two people hold them, and they are not written in the dust. **It cannot be un-asked, and the second one
+  who has the words is him.**
+- **ch 610, day 1,838 (the twenty-fifth), *Waiting With No Road In It*.** Nothing is different. He says the number of
+  stones in the third row of the wall by the trough and she counts them. The waiting has no road in it: **the new third term
+  is standing.** The woman of sixty does not move along the bench today, and being noticed once is worse than not being
+  noticed. She prices the exposure by standing on the stones saying figures aloud until a carter comes through, and the
+  carter says *good* and goes on. She does not put the six sentences on the second leaf. 278 days. **Decision:
+  not tomorrow — she has three mornings and she is going to find out what a fire is on foot first.**
+- **ch 611, day 1,839 (the twenty-sixth), *The Best Day She Has Had*.** The stone face, four miles west, six hours to nine,
+  measured by weight and not by hands, a man with a chalk on a string. **She puts up more stone in three hours than in any
+  day in two years and does not stop at the ninth hour.** The little open place behind her fourth rib goes quiet and then
+  does not; eleven seconds; no sound in it; **what it took came out of the ground under her feet and not out of her hands.**
+  He says nothing about it, as he has said nothing through all nine. **Cost: she says the figure back to herself four times
+  and gets eleven, eleven, twelve, eleven. She will be able to say she worked. She will not be able to say how much.** Worth
+  eleven coppers she cannot count, a fortnight, and the use of an arm. 279 days.
+- **ch 612, day 1,840 (the twenty-seventh), *The Eighteenth Of A Month*.** Nine years back from today is **the eighteenth of
+  the month beginning 1,544**, and four separate things stopped or opened on that one date: the lime, the wheel, a boy of ten
+  going east behind the last barrow, and the small open place in her. **At the fifth hour and forty minutes the woman of
+  sixty turns her head about a foot and looks at the place behind her fourth rib through the front of the coat, and knows
+  where to look, and holds it four seconds.** Ning Yan does not ask her one question and has gone over every hour since.
+  **For nine years she has been looked for and never once looked at; and this is what looking at feels like.** He admits he
+  knew at the fourth hour and did not tell her. 280 days.
+- **ch 613, days 1,840–1,841 (the twenty-seventh into the twenty-eighth), *The Count That Held Twice*.** The book of eight
+  leaves out on a kerb in the dark. **Six, six, six, six, six — the first count in ten years that has never come back
+  different**, and the reason is not difficulty: money leaves, work leaves, days leave, and **a leaf does not go anywhere
+  when you count it.** Room has never been the problem. The second leaf is four sentences she read out loud once, and it
+  was never for anybody. She says every one of the six sentences, the date, the barrows, the four miles and the number she
+  has not got out loud on a kerb, **and puts the nib near none of the six leaves.** What six blank leaves are: the only
+  thing she owns that cannot be taken, and she has been guarding them for four months with nothing to guard. 2 hundred and
+  80 days.
+- **ch 614, day 1,841 (the twenty-eighth), *Asking Twice*.** She rules out five questions on the stones at the fifth hour.
+  What is owed is not the harvest and not the name and not why there is a hole in her chest: **a person who has been in your
+  head for eight years owes you one ordinary day of his life.** **The lever is taken out in the open at the sixth hour and
+  not pulled** — a thing you can ask twice is a thing you can be refused twice, and on the ninth hour of the twenty-fourth he
+  told her he does not answer a thing twice. She says out loud that she is not going to go back and do any of it better. She
+  says the two terms again on the stones and does not write them. She is not frightened any more; she is flat, and she wants
+  very much to be finished.
+- **ch 615, day 1,841 (the twenty-eighth), *Six Hundred And Forty*. CLOSING REVELATION.** Seventh hour, daylight, a hundred
+  yards off the road in the broken ground, the turn for a witness and a woman of sixty thirty feet off. **She does not say
+  the words again. She asks the small one inside them: *What did you do on an ordinary day.*** He answers in four seconds,
+  in the present tense, and gives her **three things where she asked for one: *Bricks. Two hundred and forty courses in a day
+  at six hundred and forty to a course. I was the one who counted them. I have been counting bricks since I was eleven
+  years old and I have never once been paid for it.*** A furnace east of here, not this sect. **And nineteen — and he does not
+  help her decide which of the two sentences she believed.** She works out that a thing in her head that hands over whole
+  entries is handing over entries and not sentences, and that he has done it since she was eight. **She does not take a
+  fourth thing. One at a time.** A carter comes through at the seventh hour and twenty minutes and goes on east. And she puts
+  the two together: **a boy at a fire counting what nobody pays him to count, and a man at a fire counting the same thing at
+  two hundred and forty courses a day with nobody paying him.** 281 days. **She has a place to walk to.**
+
+### What Batch 0001 leaves Batch 0002
+
+The asking stands and cannot be un-asked. The terms stand and do not move. Nine coppers became seven, then six, then
+**one**. Six blank leaves stay blank. The lever is carried and declined twice and is not pulled. A furnace east of
+everything is named and not walked to. **Twenty-two** came back once with no unit on it and is still unplaced. The
+window, the lime and the hut light are untouched. Severance 7 is ch 616 on day 1,842 and this batch takes no bracket.

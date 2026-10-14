@@ -4755,6 +4755,14 @@ Threads: `state/open-threads.md` under ***VOLUME 10 CLOSED***.
   6.39, under its line. `nothing` is **387**, average 6.24, **up about thirty per cent on Batch 0003** and handed to
   Volume 11's first batch as an open craft line with nothing cut.
 
+## VOLUME 11 IS ON THE PAGE — *What He Was*, ch 601–615, day 1,831–1,841, BATCH 0001 WRITTEN
+
+**`chapters/volume-11/` HOLDS CH 601–615, FIFTEEN CHAPTERS, 28,446 WORDS OF BODY PROSE ON METHOD B (every line not
+beginning `#`), AVERAGE 1,892 A CHAPTER, ZERO BRACKETED LAYER LINES, SEVERANCE 6 THROUGHOUT, AND THE BATCH'S ONE
+IRREVERSIBLE STEP AT CH 609.** The one next phase is `workspace/volume-11-batch-0002/PROMPT.md` — ch 616–630, day
+1,842–1,916, pressure *being told*. Full record in `state/continuity.md` under ***VOLUME 11 BATCH 0001 — ch 601–615***;
+the live position is `## Who is where at end of ch 615` above.
+
 ## Volume 11 planned — WHAT HE WAS, ch 601–660 (planning phase, no prose written)
 
 **`outline/volume-11.md` exists and is the authority for Volume 11. Its batch cards are
@@ -4811,3 +4819,86 @@ and the staying at ch 658 are all where they were.** Full record: `state/continu
 
 **`workspace/volume-11-batch-0001/PROMPT.md` remains the one next phase and was edited in place, not re-dispatched. No new
 phase directory, no `.done` marker.**
+
+---
+
+## Who is where at end of ch 615 — VOLUME 11 BATCH 0001 CLOSED (cold reader starts here)
+
+**This is the live position of the manuscript. `chapters/volume-11/` holds ch 601–615, fifteen chapters, 28,446 words of
+body prose on method B (every line not beginning `#`), day 1,831 to day 1,841.** The next phase is Volume 11 Batch 0002,
+ch 616–630. `outline/volume-11.md` is the authority and none of it is re-planned here.
+
+- **DAY 1,841, the twenty-eighth of the month beginning 1,814, at the turn on the store road, at the ninth hour.**
+  `((1,841 − 134) mod 30) + 1 = 28`. **Severance 7 falls at ch 616 on day 1,842 and this batch takes no bracket: zero
+  bracketed layer lines in fifteen chapters.**
+- **A bar nine feet nine** on her left shoulder · a skin · a bag with a dish, a lump of clay and a ring a finger's width,
+  a stub of a nib and a cake of ink she has not used in two months · **one copper she cannot count** and a quarter of a
+  loaf, three-quarters of it gone · a sheet of paper against her ribs opened with her own two hands four years back and
+  never once called anything · **a book of eight leaves made out of a blanket, six of them hers and STILL BLANK.**
+  **There are two things against her ribs and she has called neither of them anything.**
+- **SEVERANCE 6**, taken at ch 588 on day 1,772. Six stages past the ceiling. **Nineteen years old.** Four fingers and a
+  thumb, the index gone · right arm open four days in five and open again at the ninth hour on the twenty-sixth ·
+  eight of eleven holds · four counts of breath, seven on a rise and inside a loaded reach · **a small open place low
+  behind her fourth rib, the size of a coin, open since the eighteenth of the month beginning 1,544, which is day 1,561;
+  the figure at any day D is D − 1,560, which is 281 on the day of ch 615, and not one of them going back. Not hungry.**
+- **THE THREE VOLUME 10 COSTS, carried and applied, never re-derived:** she cannot be counted where she stands ·
+  **she cannot follow a name she is given** (applied at ch 612 to the carter’s board, which gave four names east nine
+  years back) · **she cannot keep what she finds by holding it** (applied at ch 611 to her own work: eleven barrows,
+  eleven, eleven, twelve, eleven).
+- **WHAT THIS BATCH COST HER, in order.** Nine coppers that would not count → two coppers a loaf → six coppers the four
+  miles → **one copper.** Four miles west to a shut door she did not open, one mile short of her brother, and four miles
+  back on an arm that went in the first mile. A brother going west at the eighth hour of the twenty-second, five
+  sentences in nine years, three of them about bread. **A count that missed on money for the first time in ten years.**
+  Eleven barrows on the best day she has had in two years and no way to keep the figure.
+- **WHAT THIS BATCH CHANGED.** **She asked him, out loud, alone, at the ninth hour of the twenty-fourth of the month
+  beginning 1,814, at day 1,837: *What were you before you started counting.*** **IRREVERSIBLE AND IT CANNOT BE
+  UN-ASKED.** He did not answer. He went careful. **He named the terms: one at a time · in daylight.** They do not move
+  for the rest of the volume. **The wall is gone, so a question is done standing: eleven days each way to nowhere.**
+- **THE LEVER.** Asking twice. Carried whole, taken out in the open at the sixth hour of the twenty-eighth, **and
+  declined — at ch 609 and again at ch 614.** It is not pulled anywhere in this batch. The reason is given on the page:
+  **a thing you can ask twice is a thing you can be refused twice, and she wants a thing she can ask once.**
+- **THE ANSWER SO FAR — ch 615, the twenty-eighth of the month beginning 1,814, in daylight, at the seventh hour, out
+  loud, alone, on open ground, with the turn for a witness.** Her question was not the one from the twenty-fourth and not
+  twice: **what did you do on an ordinary day.** He answered in four seconds in the present tense and gave her **three
+  things where she asked for one: a furnace, a number, and nineteen.** *Bricks. Two hundred and forty courses in a day
+  at six hundred and forty to a course. I was the one who counted them. I have been counting bricks since I was eleven
+  years old and I have never once been paid for it.* A furnace east of here, **not this sect and not any sect she has
+  stood in.** And nineteen — *those are two different sentences and you are going to have to work out which one of them
+  you believed just now.* **She did not take a fourth thing. One at a time.**
+- **FIRST ORIGIN MOUTH, ch 608, a furnace-man’s mate of forty-five with his hands burned into the creases, six
+  sentences across the chapter, none of them a speech.** The boy weighed the lime barrows before they went in · nobody
+  pays him, his father fires · **a boy who counts what nobody is paying him to count is a boy the furnace will use** ·
+  it is not the same thing as keeping and not one man at a fire thinks it is, and the only people who found the
+  difference out were the ones it was done to · it happened without anybody meaning it and not one man there was cruel ·
+  **he had a name and nobody at that fire used it, and she did not ask again.** He told her he had told this to two
+  people in twenty years and she was the third. **The tenth part is not given and nothing proves the crews wrong.**
+  **`Yuan Sheng` is 0 across the batch and the mate does not know the name.**
+- **Geography, unchanged and re-derived by use, not re-planned.** post → 9 of strip → turn → 11 of made → gate → 2 →
+  wall, twenty-two miles end to end; the bar on two posts is four hundred yards east of the turn with nothing on its
+  board; **nothing between the gate and the wall to lie down on**; the lane leaves the store road at the turn and runs
+  four miles west to a stone face with a woman of fifty at forty feet; **the store road runs four miles west to a
+  cottage with a shut door at a stopped lime bed, the mill is a mile beyond it at five with a wheel that has not turned
+  in nine years, the store is behind the mill and is fourteen miles from the post.** **The lane is four miles west of
+  the turn; ch 560’s *thirteen miles from the post* is not held.**
+- **`Ning Wu` is 0 by name across the fifteen chapters.** He is walked past once, at ch 605, on the store road at the
+  eighth hour of the twenty-second, going west with a mill-sack on a strap. Five sentences in nine years: *you have
+  eaten* · *that is a trade* · *that is a trade* · and two she does not answer. He does not know what a list is, does not
+  forgive her and has not. **The letting costs the walking**: she turned round at a shut door one mile short of him on
+  the twenty-first and this is what turning round is worth.
+- **`Wei Ran` is 15, on word boundaries, in one chapter, ch 607.** Six coppers the four miles, said out loud going out
+  and coming back, the bar in the cart and not on the seat. One carrying, one opinion, no gift, no romance, no question
+  either way. **She is the last rate on this ground and she says so.**
+- **The Hunter, Shuyin, Feng Lushi, Feng, `Yuan`, `Yuan Sheng` and `Scribe` are all 0 across the batch.** `Ledger` 0.
+  The year of non-forgiveness is not mentioned once. The surface answer is not re-voiced. No bracket. No bold.
+- **Untouched and unraised, each a fact and not a topic:** the window a hundred yards off the east side — **still
+  unasked, four questions unspent** · **the lime under the bar of the shut door — left, and her hand was four inches off
+  the bar** · **the hut light left standing** · ***twenty-two days* — put in front of her once, at ch 603, as twenty-two
+  with no unit on it, and it goes when she stands up; still OPEN and unplaced, and equated to no dated interval** · the
+  paper against her ribs, never named · the register still *reconciled* · the plate still worn and undescribed ·
+  *kiln-born* in two heads on no paper · what became of the eleven not raised · the four months never named · the
+  ch 150 refusal never softened · no page of his book read out loud and no name ever read · **she never thanks him and
+  thanks nobody** · **she never says her mother’s name** · no harem and nothing a romance.
+- **THE BATCH’S ONE IRREVERSIBLE STEP IS ch 609.** The batch also contains the volume’s first Merit settling on listed
+  work cleared past the line, at ch 611 — the little open place behind her fourth rib, eleven seconds, no sound in it,
+  and **what it took came out of the ground under her feet and not out of her hands. No figure of what is left of him is
+  stated anywhere in the batch, before or after.**

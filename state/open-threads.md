@@ -2586,3 +2586,69 @@ scene is ch 458, *Nobody Named On The List*; ch 472 is her POV.** The standing l
 
 **No repair prompt, no `.done` marker, no new phase directory.** `workspace/volume-11-batch-0001/PROMPT.md` was edited in
 place and remains the one next phase.
+
+---
+
+## VOLUME 11 BATCH 0001 CLOSED — ch 601–615, day 1,831–1,841
+
+**`chapters/volume-11/` holds ch 601–615, fifteen chapters, 28,446 words of body prose on method B, average 1,896 a
+chapter, zero bracketed layer lines, Severance 6 throughout, one irreversible step at ch 609.** The one next phase is
+`workspace/volume-11-batch-0002/PROMPT.md` — ch 616–630, day 1,842–1,916, pressure *being told*.
+
+### What the batch opened
+
+1. **THE ASKING, AND IT IS OUT.** ch 609, the ninth hour of the twenty-fourth of the month beginning 1,814, alone,
+   out loud, on broken ground a hundred yards north of the turn: *What were you before you started counting.* **He did
+   not answer; he went careful; he named the terms.** It cannot be un-asked and he is the second person holding it.
+2. **THE TERMS, one at a time · in daylight.** Named once, on the page, at ch 609. **The old third term, *at the wall*,
+   is dead and the new one is *standing* — a question is now eleven days each way to nowhere.**
+3. **THE COUNT MISSES ON MONEY.** Nine coppers: 9, 9, 8, 9, 9, 10. Everything else holds. **The reason is not
+   difficulty: money is the first object she owns that goes somewhere.**
+4. **WORK PAID AND UNHOLDABLE.** ch 611: eleven barrows on the best day she has had in two years, said back to herself
+   four times, giving eleven, eleven, twelve, eleven. **Merit settles once, out of the ground under her feet.**
+5. **THE FIRST ORIGIN MOUTH.** ch 608, six sentences from a furnace-man's mate of forty-five. **A boy who counts
+   what nobody pays him to count is a boy the furnace will use**, and using is not keeping, and nobody at a fire thinks
+   it is except the people it was done to. **He does not know the name.**
+6. **A FURNACE, A NUMBER, NINETEEN.** ch 615. *Two hundred and forty courses in a day at six hundred and forty to a
+   course.* **East of here, not this sect.** She took no fourth thing.
+7. **SHE HAS A PLACE TO WALK TO.** The east, past a gate and a wall and a flat, to a furnace nobody has walked her to.
+8. **THE BENCH LOOKS BACK.** ch 612. The woman of sixty knows where to look. **The eighteenth of the month beginning
+   1,544 is one date and the lime, the wheel, the boy of ten and the aperture are all on it.**
+9. **THE ONE COUNT THAT HELD.** ch 613. Six leaves, five counts, six every time, because a leaf does not go anywhere
+   when you count it. **Nothing was written in them and the nib was not near them.**
+
+### What the batch closed or left closed
+
+- **The asking cannot be un-asked.** Done, irreversible, ch 609.
+- **The brother's second meeting in Volume 11 is spent.** ch 605, five sentences, three of them about bread, and he
+  goes west. **Batch 0002 does not owe him another card.**
+- **Wei Ran is spent for Batch 0001.** 15 on word boundaries, one chapter. She said it herself: the last rate.
+- **The coppers.** Nine → seven → six → **one.** Batch 0002 begins with one copper she cannot count.
+- **The turn's decision.** She laid the bar down at ch 601 and she is still standing there at ch 615.
+
+### What Batch 0002 inherits, carried and not to be re-derived
+
+**Severance 6** · the asking standing · the terms, one at a time and in daylight, not to move · the lever carried and
+un-pulled · **one copper** · a quarter of a loaf · a bar nine feet nine · a bag with five things in it and a skin · a
+paper against her ribs never named · **six blank leaves that are hers and blank, and ch 624 spends one of them** ·
+the weight-loss count, **derivable only from the day, at D − 1,560** · a furnace east of here not this sect · six
+hundred and forty bricks to a course and two hundred and forty courses · nineteen, which is his age and not a date ·
+**twenty-two with no unit on it, open and unplaced, and no card may equate it to a dated interval** · the window a
+hundred yards off the east side, unasked, four questions unspent · the lime left with her hand four inches off the bar ·
+the hut light standing · the barrow ground twenty-two miles east · the sister alive east in it, unforgiving, and her
+one meeting in this batch spent · the Hunter pending · Shuyin alive and old and returning, not thanked · Feng dead
+after ch 655 and not before · **Yuan Sheng 0 across the batch and not to be named before ch 617** · `Scribe` 0 this
+batch, 3 permitted volume-wide, and never speaking · `Ledger` 0 · the surface answer never re-voiced · **the year of
+non-forgiveness not mentioned once** · no harem, nothing a romance, no mother's name said, nobody thanked.
+
+### What Batch 0002 may not break
+
+- **Severance 7 at ch 616 on day 1,842, the twenty-ninth of the month beginning 1,814, with the batch's one bracketed
+  layer line in the far-side house form and nothing else in fifteen chapters.** The cost is named once there: **she
+  cannot hear what she is told about him.**
+- **One at a time, in daylight. No card may have her asking two at once, and the lever is not pulled anywhere in
+  Volume 11 except as a thing she carries and then declines.**
+- **The second origin mouth at ch 622 is a senior disciple's widow with a Condensing book nineteen years shut, three to
+  seven short sentences, and the writing saved nobody.**
+- **The Batch 0001 mouth must not be repeated, quoted or restated in a second mouth.** The name `Yuan Sheng` first
+  goes on the page at ch 617 and in her own book at ch 624, and Batch 0001 wrote it nowhere.
