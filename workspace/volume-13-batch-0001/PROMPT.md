@@ -41,7 +41,7 @@ shelf, **burning** · a stub of candle in a dish with one grey bloom of cold wax
 nine feet nine with no strap on it, lying flat against the wall on the left with the dust on the top of it broken at one end and not at
 the other.** Nothing in twelve volumes explains that and **this batch names it once and does not explain it and no card resolves it.**
 
-**And no chairs. There are no chairs. There have never been chairs in that room.** That is ch 719, two chapters before the volume turned.
+**And no chairs. There are no chairs. There have never been chairs in that room.** That is ch 719, one chapter before the volume turned.
 
 **Against her ribs one object.** A book of eight leaves made out of a blanket: a date and a place on the first, four sentences on the
 second, `YUAN SHENG` on the third in four capital strokes in her own hand, and **five that are hers and that have been blank for ten
@@ -51,8 +51,8 @@ leaves in this batch and she says so out loud once, standing, in daylight, in th
 **At the bottom of the first four flights, in a bag she left there:** a dish, a lump of clay, a ring the width of a finger, a stub of a
 nib, a cake of ink opened on the seventh of the month beginning 1,874 and never let dry, **a key to a locked drawer thirty feet from a
 copying floor she has not opened since the eleventh of the month beginning 2,054**, and a strip of hand-made paper nine inches long
-with eighty-one lines on it and the same sum under it in words. **This batch does not go down the stair. The bag is four miles and eight
-hundred and eighty steps away and it stays there until Batch 0003.**
+with eighty-one lines on it and the same sum under it in words. **This batch does not go down the stair. The bag is at the bottom of the first four flights, eight hundred and eighty steps
+down and no miles anywhere in it, and it stays there until Batch 0003.**
 
 **Two coppers she cannot count.** She has never in her life been able to be given anything and she has never in her life been able to be
 paid, and **neither one of those is re-explained in this batch; both are shown, if they show at all.**
@@ -79,8 +79,8 @@ paid, and **neither one of those is re-explained in this batch; both are shown, 
 
 1. **Her own total, still accruing.** Her name has been in a column since the ninth hour of the twenty-fourth of the month beginning
    2,054, day 2,077, and one in twenty of every day comes off it, and one in twenty of a day is one hour and twelve minutes. **At day
-   2,301 her name has had two hundred and twenty-five days in the column, and the figure is eleven days, five hours and twelve minutes,
-   and it is not stated on any page in this batch.** The figure is in a book four miles down a mountain and a copy of it is in a pencil
+   2,301 her name has had two hundred and twenty-five days in the column, and one in twenty of that is eleven days and six hours, and
+   it is not stated on any page in this batch.** The figure is in a book four miles down a mountain and a copy of it is in a pencil
    column on a slate thirteen miles west of the wall that faces a wall, and **she cannot see either of them from where she is and that is
    the first thing in the book she has never been able to do.**
 2. **The board at the north end of the rows keeps being written without her.** Four men, a stroke and a number each, four lines a night,
@@ -108,13 +108,13 @@ audit, an examination, a hunt, a signature, a confinement, a second demand in a 
 a family paper, an ash, or Volume 8's offer. **Nothing is offered to her in this batch and nothing is read to her and there is no sheet
 and no rate and no refusal.**
 
-**Escalation, from the outline's §*The escalation sequence* items 1 to 11, and none of the eleven is re-planned here:** she goes up the
+**Escalation, from the outline's §*The escalation sequence* items 1 to 12, and none of the twelve is re-planned here:** she goes up the
 second step and names the bar's dust once and does not explain it · she counts the room and there is almost nothing in it to count ·
 she goes up the second stair and counts nine hundred steps · she gets a hand on a table she cannot reach and finds the second place at
 it · she works out that there is no oil in the building · **the first bundle comes up the stair on day 2,324** · **the midpoint: the
 deciding takes one look, there is no second, and the look did not include her** · she finds the row that is about her and the head of it
-finds her own total at the head of it and works out that it is still growing and nobody there could know · she works out what the lamp is fed with · she leaves the bar against the wall · she measures the interval
-between feeds at twenty-nine days against thirty · **and she puts a day into the lamp.**
+finds her own total at the head of it and works out that it is still growing and nobody there could know · she works out what the lamp is fed with · she leaves the bar against the wall · she measures the lamp itself and gets
+twenty-nine days from a feed to the mark against thirty in a month · **and she puts a day into the lamp.**
 
 **Midpoint, ch 728:** **the deciding takes one look and there is no second look and there is no appeal, and the look did not include her,
 and nothing was written about her, and the not writing was not a decision anybody made.** The reversal is not a refusal. **Nobody in that
@@ -131,8 +131,9 @@ nine.
 and the day does not come back.** It is the first thing she has ever *spent* rather than lost. **No card before ch 735 may have her
 consider it as a plan in a sentence that settles it, and no card after ch 735 may treat the day as recoverable or as a loan.**
 
-**Physical risk or real deadline, pinned by the outline: a lamp going down at a rate she can measure, a mark on it, about thirty days
-between feeds, and eleven days left.** And the physical card: **nine hundred steps of a stair that turns, counted, with four counts of
+**Physical risk or real deadline, pinned by the outline and checkable by subtraction: a lamp going down at a rate she can measure, and a
+mark on it, and twenty-nine days from a feed to the mark where a month is thirty — so the mark falls on the thirtieth of the month
+beginning 2,354, day 2,383, with the next bundle on day 2,384, and from the day she spends it there are twenty-six days.** And the physical card: **nine hundred steps of a stair that turns, counted, with four counts of
 breath and seven on a rise and nine standing still, and the number stops being a thing she can hold, and a bar nine feet nine with no
 strap that she leaves against a wall because she is not carrying it up that.**
 
@@ -178,17 +179,17 @@ Immortal Vessel 4 is at ch 746, day 2,403, and no chapter in ch 721–735 may na
 | 722 | 2,305–2,308 | Count the room | Nineteen years of arriving somewhere and counting it before she sat down, and a person does not go in a column | **She counts what she can: a table, a lamp, a floor, a stair, a person, and a door. And she works out, standing, out loud, that above the line nobody counts days because above the line nobody loses them, and that she is still losing them at one hour and twelve minutes a day and cannot see the day turn** | revelation |
 | 723 | 2,309–2,312 | Find out how far the second stair goes | It is narrow and it turns, and at seven steps from the foot of it the ceiling of that room took the rest of it at ch 720 | **She goes up it and counts nine hundred steps, and at nine hundred the number stops being a thing she can hold in her head, which has never happened to her about a figure before, and she says so out loud on a stair, and she puts the number nowhere and it is not in the five blank leaves** | decision |
 | 724 | 2,313–2,316 | Get a hand on the long table | She cannot reach it. It is made for hands longer than hers and she has never in nineteen years not been able to reach a table | **She gets a hand on the edge of it on the fourth try and climbs a bench to see along it, and along the far side of it there is a second place, and it is not a chair and it is not a seat and it is the right size for nothing she can name — and she does not touch it and does not say one word about it out loud, and that is the first thing in this volume she leaves alone on purpose** | discovery |
-| 725 | 2,317–2,320 | Find out what is keeping that lamp burning | There is no oil in the building, there has not been for nine years, and the lamp is burning | **She works out standing in daylight that there is no oil and no wick and nothing at all to put in it, and then she works out the other half, which is that the lamp in the cage on the fourth landing went out on or about the fifteenth of the month beginning 2,294 on the last of a day and a half of oil out of a stone jar under a bench, and that there is a boy of sixteen four miles down a mountain who said he would keep it going after she stopped asking** | revelation |
-| 726 | 2,321–2,324 | Be at the first of a month for whatever comes up that stair | Twenty-three days, and a lamp she cannot measure, and a thing that comes once a month and only on a first | **THE BUNDLE. At the second hour of the first of the month beginning 2,324, an armful of boards and a bundle of papers comes up the stair and goes on the long table, and the one at the table goes along them at about four to a minute and does not stop, and she is standing four feet off the end of a table made for longer arms and the whole of it takes about forty minutes** | discovery |
+| 725 | 2,317–2,320 | Find out what is keeping that lamp burning | There is no oil in the building, there has not been for nine years, and the lamp is burning | **She works out standing in daylight that there is no oil and no wick and nothing at all to put in it, and then she works out the other half, which is that the lamp in the cage on the fourth landing went out on or about the third of the month beginning 2,294, day 2,296, on the last of a day and a half of oil out of a stone jar under a bench, and that there is a boy of sixteen four miles down a mountain who said he would keep it going after she stopped asking** | revelation |
+| 726 | 2,321–2,324 | Be at the first of a month for whatever comes up that stair | Twenty-three days, and a lamp she cannot measure, and a thing that comes once a month and only on a first | **THE BUNDLE. At the second hour of the first of the month beginning 2,324, an armful of boards and a bundle of papers comes up the stair and goes on the long table, and the one at the table goes along them at about four to a minute and does not stop — forty boards is ten minutes of looking, and the whole of it, the armful and the bundle of papers and the reading of them, takes about forty minutes — and she is standing four feet off the end of a table made for longer arms and does not get a hand on the edge of it once in forty minutes** | discovery |
 | 727 | 2,325–2,328 | Find out whether one of them is hers | The bundle is the first thing that has come up that stair in thirty days and she has nothing to read it with and her reading hand has four digits on it and the table is out of her reach | **She works out how to read a thing lying on a table she cannot touch and cannot climb to, and she does not find hers, and the reason is not that it is not up there: it is that the room does not read boards. She has been counting the wrong thing for a year** | reversal |
 | 728 | 2,329–2,332 | Find out what decides in this room | Nothing has been written about her and nobody has refused her and nobody has spoken to her | **MIDPOINT. The deciding takes one look and there is no second one and there is no appeal, and the look did not include her, and a thing that arrives with no row is not a thing that has arrived, and there is no procedure for a thing that has not arrived. And the not writing was not a decision anybody made, and she says that last part out loud in an empty room and it is the worst sentence of her life** | revelation |
 | 729 | 2,333–2,336 | Find the row that is about her | It is off the table and under it and not for looking at, and the only way to be under it is to be under it | **THE ROW. The figure at the head of it is ten days, twenty-one hours and thirty-six minutes, in her own hand — the line she wrote on a slate at the two posts at the first hour of the first of the month beginning 2,294 and carried up that stair at the second hour of the same morning. There is no stage on it and there is no name on it. And she works out, standing, in daylight, that the figure is still growing, and that above the line nobody loses a day, and that there is nobody in that building who could ever know** | revelation |
 | 730 | 2,337–2,340 | Find out what the lamp is fed with | There is no oil and nothing to put in it and it has been burning since a man died in it nine years ago and nobody has fed it | **She watches it for four days and works out that it is going down, slowly and at a rate she can measure, and that the mark is the same every time, and that the figure at the head of her row is also going down by an hour and twelve minutes a day and that the two of them are going at rates nobody above the line has any instrument for, and she cannot think of one way to say that out loud which is not a lie, and she does not say it** | reversal |
 | 731 | 2,341–2,344 | Decide what to do about the bar | Nine feet nine with no strap, a stair that turns, nine counts of breath standing still at the top of it, and a hundred and sixty-four days of a shoulder that has carried it since she was nine years old | **She leaves it flat against the left-hand wall where it was, because there is nothing in this room she could put it down for, and it is the first object of her life she has deliberately left in a room, and she says that out loud to the bar and not to a person** | decision |
-| 732 | 2,345–2,348 | Work out how long the lamp has | It has been burning for nine years and she has no instrument and no day to measure it against and no way to know when it was last fed | **She measures the lamp against the days and gets twenty-nine where thirty is what a month is, and she cannot get the two to agree, and she works out standing in daylight that the room counts in hands and she counts in days and a hand turns a lamp as often as it has to and nobody has ever written down how often that is** | discovery |
+| 732 | 2,345–2,348 | Work out how long the lamp has | She cannot count it between two feeds, because the only two she sees are the firsts of the months beginning 2,324 and 2,354 and that is exactly thirty days, and the figure she wants is twenty-nine | **She measures the lamp instead. She times how far the light falls in a day against the distance from full to the mark and multiplies the two, standing, out loud, and what she gets is twenty-nine days where thirty is what a month is. So the mark falls on the thirtieth of every month and the feed comes on the first of the next, and there has been one day of slack in every month for four hundred years and not one person has ever spent it. And she cannot get the room's own count and hers to agree, because the room counts in hands and she counts in days and a hand turns a lamp as often as it has to and nobody has ever written down how often that is** | discovery |
 | 733 | 2,349–2,352 | Find out what the one at the table pays to keep the room lit | Eleven seconds of work, four hundred years of practice, and not one moment's interest in her | **THE BATCH'S CLIMAX OF KNOWING: the lamp is turned down to a mark and turned back up, and something about the person at the table is different afterwards, and she measures the lamp and the person from four feet off and works out that they are the same substance. She does not learn what it is. She learns what it costs, and she can compute it, and she has been paying a version of it a day at a time since she was nine** | revelation |
-| 734 | 2,353–2,356 | Decide whether a room can be kept lit by somebody else | Eleven days to the mark, and a day and a half of oil four miles down that ran out a fortnight ago, and two coppers she cannot count, and four fingers and a thumb | **The second bundle comes up on the first of the month beginning 2,354 and goes on the table, and the lamp is lower than it was on the first, and she watches it fed again and the cost is on a face she can measure now — and she puts the whole of it out loud in the ordinary voice, and the one part of it is that the one at the table is thinner than she was on the first, and that it has been happening once a month for four hundred years** | decision |
-| 735 | 2,357–2,360 | Keep the lamp lit | Eleven days, a lamp going down, and she has never in nineteen years been able to be given anything and has never been able to spend anything, because everything that has ever come off her has come off her in a place she was not in | **THE BATCH'S IRREVERSIBLE STEP: she puts a day into the lamp at the fourth hour of the fourth of the month beginning 2,354, standing, in daylight, in an empty room, with a hand of four fingers and a thumb, and nobody asked for. The day does not come back. And the figure she is lighter by steps twice in one day, and from today it is `D − 1,559` and it is `D − 1,559` for the rest of the book** | irreversible |
+| 734 | 2,353–2,356 | Decide whether a room can be kept lit by somebody else | Twenty-nine days from the last feed to the mark and thirty in a month, so the mark is on the thirtieth of this one and the next bundle is on the first of the next, and a day and a half of oil four miles down that ran out a fortnight ago, and two coppers she cannot count, and four fingers and a thumb | **The second bundle comes up on the first of the month beginning 2,354 and goes on the table, and the lamp is lower than it was on the first, and she watches it fed again and the cost is on a face she can measure now — and she puts the whole of it out loud in the ordinary voice, and the one part of it is that the one at the table is thinner than she was on the first, and that it has been happening once a month for four hundred years** | decision |
+| 735 | 2,357–2,360 | Keep the lamp lit | Twenty-six days to a mark on day 2,383 — 2,383 − 2,357 — a lamp going down, and she has never in nineteen years been able to be given anything and has never been able to spend anything, because everything that has ever come off her has come off her in a place she was not in | **THE BATCH'S IRREVERSIBLE STEP: she puts a day into the lamp at the fourth hour of the fourth of the month beginning 2,354, standing, in daylight, in an empty room, with a hand of four fingers and a thumb, and nobody asked for. The day does not come back. And the figure she is lighter by steps twice in one day, and from today it is `D − 1,559` and it is `D − 1,559` for the rest of the book** | irreversible |
 
 **THE DAY SPAN IS FIXED BY THE OUTLINE AND NOT BY THIS CARD: 2,301 to 2,360**, and every card above is drafted inside it. **ch 735 is
 day 2,357, 2,358, 2,359 or 2,360 and the day it spends is 2,357.** A card may run to the end of its own day range and no chapter may
@@ -237,6 +238,17 @@ cross day 2,360.
   **"Since she was nine" is available and nothing else about it is.**
 - **The dust on the bar is broken at one end and not at the other, and nothing in Volume 12 explains it. This batch names it once at ch
   721 and does not explain it, and no card resolves it.**
+- **THE CARTER'S FOUR BUNDLES IN THIRTY-ONE YEARS IS ON THE PAGE AT ch 663 AND A DRAFTER AT ch 726 WILL MEET IT.** The carter has worked
+  that road thirty-one years and carried **four** bundles up that stair and can remember all four. **The man who comes up it in this batch
+  is a different man and he has been on the road a year**, and that is how a stair that has been sent a bundle every month for eleven
+  hundred years has one bearer who has carried four. **Both facts stand; neither card explains the other; nobody asks; and the man who
+  comes up does not look at her, says nothing, and is gone down the stair before the table has finished.**
+- **TWO STAIRS AND TWO SETS OF NUMBERS, and a drafter must not mix them.** The tower's own stair is the manuscript's out of ch 719 and
+  ch 720: **the first four flights are four hundred and forty steps with a rail and the second four are the same four hundred and forty
+  with no rail at all, eight hundred and eighty to the low door**, and the copying floor, the drawer and the boy of sixteen are on the
+  fourth landing. **The second stair out of the far side of the room is a different stair and she counts it to nine hundred at ch 723 and
+  loses the count there; the whole of it is nine hundred and four and she does not have that figure until ch 754.** Nothing in this
+  batch adds the two, and nothing in this batch states a distance between anything above the line and anything below it.
 - **Four accounts of nine seconds and no fifth.** None of the four is on the page in Volume 13 and this batch adds no account and no
   correction.
 - **The 2,920 and the 301 of 912 stay unattributed and stay unmentioned.** **What a third of a name is is open and this batch does not
@@ -295,8 +307,21 @@ times.**
   **`nobody` 24 (against a line of thirty) · word-`eleven` 35 (against a line of forty) · `thank` 1, and that one is a refusal at
   ch 702.** Volume 13 starts a fresh count: **`nobody` 0 and `eleven` 0 and `thank` 0 at day 2,301.** **This batch may therefore spend at
   most six `nobody` and eight `eleven` across its own fifteen chapters, measured with `grep -oiw` per file, and it may not thank
-  anybody.** Six is about one every two and a half chapters and that is tight but it is not a sentence-beginning ban, and the batch has
-  a hundred and forty-nine names and counts to spend.
+  anybody.**
+- **And because the fifteen cards above between them call for eleven `nobody` already, the budget is allocated here rather than left as
+  a surprise at the end.** **Five of the six are spent by name: ch 722 (above the line nobody counts days · nobody loses them) · ch 728
+  (nobody has refused her · nobody has spoken to her, and the midpoint turns on that pair and the drafter may reword either of them
+  rather than drop them) · ch 730 (nobody above the line has any instrument for it) · ch 732 (nobody has ever written down how often
+  that is). The sixth is the whole of what is left, and **ch 721, ch 729 and ch 735 must each say the thing they need without it** — at
+  721 *no one in twelve volumes has explained that*, at 729 *there is not one person in that building who could ever know*, at 735 *with
+  nobody asked for* is the load-bearing phrase and **may be kept as the sixth, in which case the other two are reworded.** Measure and
+  publish the true number in the continuity block either way; a batch that reports six and stands at five is a batch that reported a
+  number it had not counted.
+- **The `eleven` line is tight in the same way and for a different reason: this batch's central instrument is literally measured in
+  eleven seconds, so the word is load-bearing rather than decorative.** Eight across fifteen chapters means ch 733's *eleven seconds of
+  work* and the figure at the table are secure and **everything else has to earn it** — *eleven days* is not available (the figure is
+  twenty-nine days to a mark and twenty-six from the day she spends it), *eleven hundred years* belongs to the whole apparatus and may be
+  said once, at most, and *eight of eleven holds* is hers and may appear once.
 - **Count and publish:** `about` / `whole of` / `nothing` / `out loud` / `list`, with the method in the sentence with the number, and
   write the true figures into the continuity block. **`outline/volume-13.md` sets `about` under 500 across the volume, against Volume
   12's measured 524. Beat it if the prose allows it and do not pad prose to hit it.**
@@ -313,16 +338,20 @@ times.**
   Volume 9, Volume 10, Volume 11 or Volume 12 cost.**
 - **Every chapter gives her one felt emotion on the page and one concrete want.**
 
-### The fifteen titles, fixed and pre-checked
+### The fifteen titles, fixed and pre-checked, each attached to the card whose beat it names
 
-**Ch 721** *Nothing In It She Can Count* · **722** *The Second Place At The Table* · **723** *Nine Hundred Steps* · **724** *The Dust On
-The Bar* · **725** *No Oil In The Building* · **726** *What Came Up The Stair* · **727** *Forty Boards And Not One Of Them Hers* ·
-**728** *One Look And No Second* · **729** *A Figure She Cannot Hold* · **730** *The Lamp Turned Down To A Mark* · **731** *The Jar Under
-The Bench* · **732** *What A Hand Is Charged* · **733** *The Same Substance* · **734** *Twenty-Nine Days Between Feeds* · **735** *One
+**Ch 721** *The Dust On The Bar* · **722** *Nothing In It She Can Count* · **723** *Nine Hundred Steps* · **724** *The Second Place At
+The Table* · **725** *No Oil In The Building* · **726** *What Came Up The Stair* · **727** *Forty Boards And Not One Of Them Hers* ·
+**728** *One Look And No Second* · **729** *A Figure She Cannot Hold* · **730** *A Rate She Can Measure* · **731** *Left Against The
+Wall* · **732** *Twenty-Nine Days To The Mark* · **733** *The Same Substance* · **734** *What A Hand Is Charged* · **735** *One
 Day Into A Lamp*.
 
-**Check these against all 720 standing headings before drafting, not after.** Three prior batches found collisions by eye-check and
-missed them, and Batch 0003 found seven duplicated section headings the same way.
+**These were checked against all 720 standing headings and the twelve that carried over from the planning phase's first draft returned
+no collision; the three that are new — *A Rate She Can Measure*, *Left Against The Wall* and *Twenty-Nine Days To The Mark* — were
+checked the same way and return none either.** *The Jar Under The Bench*'s earlier assignment to ch 731 is withdrawn: the jar is on the
+fourth landing four miles down a mountain and she is not on that landing in this batch, and a title may not announce a place the chapter
+does not go. **Check these against all 720 standing headings before drafting, not after.** Three prior batches found collisions by
+eye-check and missed them, and Batch 0003 found seven duplicated section headings the same way.
 
 ## Three things this card wants the drafter to be careful about, written down because four prior batches each had to adjudicate something
 in this territory

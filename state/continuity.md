@@ -9264,7 +9264,7 @@ from the wall, which is four miles from it** — the same Volume 11 inconsistenc
 ## VOLUME 13 PLANNING — *The Immortal Court*, ch 721–780
 
 **What this phase was.** It executed `workspace/volume-13-planning/PROMPT.md` in full. It wrote **two files and nothing else**:
-`outline/volume-13.md` (961 lines) and `workspace/volume-13-batch-0001/PROMPT.md`. **It wrote no chapter prose, created no second batch
+`outline/volume-13.md` (961 lines as the planning phase left it, **1,031 after the review repair below**, and the repair lengthens it because it adds the missing arithmetic rather than cutting anything) and `workspace/volume-13-batch-0001/PROMPT.md` (352 lines as left, **381 after the repair**). **It wrote no chapter prose, created no second batch
 directory, wrote no `.done` marker, and edited no controller file, no `outline/series.md`, no `outline/ending.md` and no
 `outline/volume-12.md`.** The two in-place corrections it made are recorded below and are the only edits to an existing fiction or state
 line.
@@ -9288,10 +9288,10 @@ line.
 
 | # | Decision | Line |
 | --- | --- | --- |
-| **D1** | What the Court is | **The receiving end of the announcement layer, in a room, with a lamp in a cage and no chairs — Feng Lushi's job with the ceiling taken off**, and ch 719 put the no-chairs on the page two chapters before Volume 12 turned |
+| **D1** | What the Court is | **The receiving end of the announcement layer, in a room, with a lamp in a cage and no chairs — Feng Lushi's job with the ceiling taken off**, and ch 719 put the no-chairs on the page one chapter before Volume 12 turned |
 | **D2** | What *decides* means | **Above the line a thing is whatever the last hand at the table wrote in the row for it; there is one instrument and it is a hand; the deciding takes one look and there is no second and no appeal. A thing that arrives with no row is not refused, it is administered** |
 | **D3** | Being small, shown three ways | **She cannot reach the table and every chapter in the room shows her get a hand on the edge of it or not · nobody above the line counts days because nobody above the line loses them and she is still losing them at one hour and twelve minutes a day and cannot see the day turn · every price she has paid is invisible to everybody making the decision** |
-| **D4** | The lamp | **Not an oil lamp; no oil in the building for nine years. Fed by hand; every entry costs a feed; the interval is about thirty days and is not a schedule and the room counts it in hands and she counts it in days and she gets twenty-nine against thirty. She learns what feeding it costs and who is charged by it, in the single instance of herself, and does not learn what it is paying for** |
+| **D4** | The lamp | **Not an oil lamp; no oil in the building for nine years. Fed by hand; every entry costs a feed; there is a mark on the lamp and the rule is the mark, the practice is the first of a month, and the two have agreed for four hundred years only because the lamp wants twenty-nine days to the mark and a month is thirty. She gets the twenty-nine off the lamp's own rate of descent and not by counting days between two feeds, because the only two she sees are exactly thirty apart. The room counts in hands and she counts in days and the two have never agreed. She learns what feeding it costs and who is charged by it, in the single instance of herself, and does not learn what it is paying for** |
 | **D5** | The row, and the figure at the head of it | **The figure at the head of her row is her own total — ten days, twenty-one hours and thirty-six minutes, in the hand she wrote it in at ch 717 and carried up the stair at ch 718. There is no stage on it and no name on it, and it is still growing at one hour and twelve minutes a day, and above the line nobody loses a day, so nobody there could ever know the row is going stale. She writes her own stage under it in Batch 0003 and a row with a person on it is a row that gets counted** |
 | **D6** | The three stage costs | **Immortal Vessel 4 — she cannot be given a thing · 5 — she cannot be measured with a person · 6 — she cannot be looked at again. Named once each, in their own chapter, never re-explained** |
 | **D7** | How a stage is taken with no board, no slate and no counter | **A stage is written in a row by a hand in the light of a lamp that has to be fed to be lit, on a day the feeder chooses — so every interval has to be counted twice, in days by her and in feeds by the room, and the two have never agreed** |
@@ -9302,7 +9302,9 @@ line.
 - **Days 2,301 to 2,540** across ch 721–780, four batches of sixty days. **Month-begins 2,294 · 2,324 · 2,354 · 2,384 · 2,414 · 2,444 ·
   2,474 · 2,504 · 2,534**, each checked to month-day 1 under `((day − 134) mod 30) + 1`.
 - **Eight firsts inside the volume at 2,324 · 2,354 · 2,384 · 2,414 · 2,444 · 2,474 · 2,504 · 2,534, two in every batch, and no first is a
-  stage day** — the stages are 2,403 · 2,461 · 2,524 and the nearest firsts are ten, seventeen and ten days off them.
+  stage day** — the stages are 2,403 · 2,461 · 2,524, and the firsts nearest them are **nineteen, seventeen and twenty days before**
+  (2,384 · 2,444 · 2,504) **and eleven, thirteen and ten days after** (2,414 · 2,474 · 2,534). **The earlier phrase *ten, seventeen and ten days off
+  them* was wrong and is withdrawn: only 2,524 is ten days from a first.**
 - **Immortal Vessel 4 at ch 746, day 2,403, the twentieth of the month beginning 2,384, one hundred and thirteen days from 2,290.**
   **5 at ch 761, day 2,461, the eighteenth of the month beginning 2,444, fifty-eight days.** **6 at ch 776, day 2,524, the twenty-first of
   the month beginning 2,504, sixty-three days.** Intervals 113 · 58 · 63, each by subtraction, no stage named before its chapter.
@@ -9310,8 +9312,10 @@ line.
   into the lamp: **741 at 2,301 · 796 at 2,356 · 797 at 2,357 before · 798 at 2,357 after, two days in one day · 801 at 2,360 · 981 at
   2,540.** The whole 240-day table of ordinals is printed in `outline/volume-13.md`.
 - **Her own total keeps accruing and is not stated on the page in Batch 0001**: the name has had **225 days** in the column at day 2,301
-  and **464** at day 2,540, and one in twenty of that is eleven days, four hours and forty-eight minutes at the last page, **derived on
-  the page by subtraction and not carried down from the outline.**
+  and **464** at day 2,540, and one in twenty of that is **eleven days and six hours** at 2,301 — 225 ÷ 20 = 11.25 days — and **twenty-three
+  days, four hours and forty-eight minutes** at the last page — 464 ÷ 20 = 23.2 days — **derived on the page by subtraction and not carried
+  down from the outline. The planning phase's *eleven days, four hours and forty-eight minutes at the last page* was wrong by twelve days
+  and is withdrawn.**
 - **The rows' board keeps being written without her and she cannot see it: `(D − 2,128) × 4`, 692 at day 2,301 and 1,648 at day 2,540.**
 - **Two errors the planning phase caught in its own first draft and corrected before either reached the batch card:** the irreversible
   step was first dated *the twentieth of the month beginning 2,354*, which is day 2,373 and not the day Batch 0001 ends on — **it is day
@@ -9347,3 +9351,110 @@ state file was opened.
 
 **`workspace/volume-13-batch-0001/PROMPT.md` — VOLUME 13 BATCH 0001, ch 721–735, days 2,301–2,360, pressure *the bundles*.** It is
 the only prompt this planning phase created, and the one and only next phase.
+
+## VOLUME 13 PLANNING — REVIEW REPAIR
+
+**What this pass was.** It read `logs/volume-13-planning.review.log`, re-derived every figure the review named by script against the
+manuscript's own conventions, and repaired the ten defects it opened in the two files the planning phase wrote and in the four state
+lines that repeated them. **No chapter prose was touched, because none exists: `chapters/volume-13/` still does not exist. No planned
+beat, day, chapter, title, stage, batch, irreversible step or volume event moved. No controller file was opened.** The work is
+arithmetic, attribution and instruction-to-drafter, and every one of the ten repairs is a sentence that was wrong, not a story that was
+wrong.
+
+**What did not move, checked one item at a time.** Goal, chapter range and title · D1–D8 · the four-batch split and the four pressures ·
+the stage table at 2,403 · 2,461 · 2,524 and the intervals 113 · 58 · 63 · the eight firsts · the bracket-zero argument and its reason ·
+ch 728's midpoint, ch 733's climax and ch 735's irreversible step · Yuan's rung at ch 748 and the ninth frame scene at ch 758 · the
+lighter series and the one change to it · the ending · and `outline/series.md` and `outline/ending.md`, which were read and not edited.
+
+### The ten repairs
+
+1. **The fifteen titles were attached to the wrong cards — seven of fifteen — and the title list has been rebuilt against the card table.**
+   The list ran one out from 722 and then collapsed onto ch 733's beat three times over. **Each title is now attached to the card whose
+   beat it names:** 721 *The Dust On The Bar* (names the dust once) · 722 *Nothing In It She Can Count* (counts the room) · 723 *Nine
+   Hundred Steps* · 724 *The Second Place At The Table* · 725 *No Oil In The Building* · 726 *What Came Up The Stair* (the bundle
+   arrives) · 727 *Forty Boards And Not One Of Them Hers* (the day she looks for hers and it is not there) · 728 *One Look And No Second*
+   · 729 *A Figure She Cannot Hold* (the figure at the head of her row) · 730 *A Rate She Can Measure* · 731 *Left Against The Wall* ·
+   732 *Twenty-Nine Days To The Mark* · 733 *The Same Substance* · 734 *What A Hand Is Charged* · 735 *One Day Into A Lamp*. **Three are
+   new — *A Rate She Can Measure*, *Left Against The Wall*, *Twenty-Nine Days To The Mark* — and *The Jar Under The Bench* is
+   withdrawn**, because the jar is on the fourth landing four miles down a mountain and she is not on that landing in this batch. **All
+   fifteen were re-checked against all 720 standing headings with the normalised-tuple collision script: 0 collisions, 0 internal
+   duplicates, 3–8 words, 18–37 characters.**
+2. **THE TWENTY-NINE COULD NOT BE MEASURED BETWEEN TWO FEEDS, AND NOW IS.** The only two feeds she witnesses in Batch 0001 are the
+   firsts of the months beginning 2,324 and 2,354, and **2,354 − 2,324 = 30 exactly.** **She now gets the twenty-nine off the lamp
+   itself** — she times the fall of the light against the distance from full to the mark at ch 732 — and the consequence is now stated:
+   **the mark falls on the thirtieth of every month and the feed comes on the first of the next, so there has been one day of slack in
+   every month for four hundred years and not one person has ever spent it.** Card 732's resistance now *says* that she cannot count it
+   between two feeds, which turns the hole into the chapter's problem.
+3. **THE PINNED DEADLINE WAS NOT DERIVABLE AND NOW IS.** The *eleven days left* and the *thirty days between feeds* were replaced by the
+   mark's own arithmetic: **last feed she sees 2,354 · twenty-nine days after it 2,383 · 2,383 is the thirtieth of the month beginning
+   2,354 · the next bundle is 2,384 · and 2,383 − 2,357 = twenty-six days from the day she spends it.** Card 734 and card 735 now carry
+   figures that are subtraction from those four numbers, and nothing in Batch 0001 states a count of days left that is not.
+4. **THE ACCRUING TOTAL WAS WRONG IN THREE PLACES AND ALL THREE ARE CORRECTED.** **225 ÷ 20 = 11.25 days = eleven days and six hours**,
+   not *eleven days, five hours and twelve minutes*, which reconciles with neither input; the card now reads the right one. **464 ÷ 20 =
+   23.2 days = twenty-three days, four hours and forty-eight minutes** at day 2,540, not *eleven days, four hours and forty-eight
+   minutes*, which was twelve days out. And the outline's *it has been eleven days, four hours and forty-eight minutes out of date
+   every day in between* is impossible, because the error grows: **eight hours and twenty-four minutes out of date at day 2,301 and
+   twelve days, seven hours and twelve minutes at day 2,540.**
+5. **THE BAR WAS IN TWO PLACES, AND IS IN ONE.** The ch 773–774 inventory had it *four miles and nine hundred and four steps away* and
+   Batch 0003's physical card had her carrying *one bag and one bar* down a stair she left it at the top of. **It is against the left-hand
+   wall of the room, where she put it at ch 731 and where it is at the last page of the volume**, and Batch 0003 goes down with one bag
+   and no bar. **Ch 731 is now a chapter about leaving a thing in a room, which is the beat the outline flagged it as.**
+6. **FOUR STEP COUNTS ARE NOW THREE, AND EACH BELONGS TO A STAIR.** The manuscript's is **the tower's: the first four flights four hundred
+   and forty with a rail, the second four the same four hundred and forty with no rail, eight hundred and eighty to the low door** (ch 719
+   and ch 720, and 440 + 440 is where the plan's stray *and then four hundred and forty* came from). **The second stair out of the far
+   side of the room is a different stair: she counts it to nine hundred at ch 723 and loses the count, and the whole of it is nine hundred
+   and four, which she does not have until ch 754.** **The boy of sixteen climbs eight hundred and eighty**, at ch 780 and in three other
+   places, and not nine hundred and four — he has never been up the second stair and the outline's own ch 719 puts him at the bottom of
+   the first four flights. No card adds the two stairs.
+7. **`outline/ending.md` §7 WAS CITED THREE TIMES FOR CONTENT IT DOES NOT HOLD.** §7 is *Final chapter image*; **the addressable-and-archived
+   material is in §1 and §2**, and both citations are corrected, in the outline and in `state/current.md`. **And `outline/ending.md` §1's
+   *he has been doing that on purpose since Volume 14* is now reconciled in one sentence rather than left to a drafter: §1 dates his being
+   readable *by the Scribe* to Volume 14, what ch 748 makes readable is the room's hand, which is the rung of Court and not the Scribe's
+   finding, and the finding is raised at ch 749 and paid in Volume 14 or after it.** `outline/ending.md` itself is unchanged.
+8. **A BUNDLE A MONTH AGAINST FOUR IN THIRTY-ONE YEARS.** The carter of ch 663 has worked that road thirty-one years and carried **four**
+   bundles, and the plan made a bundle arrive every month for eleven hundred years. **The man who comes up the stair in Volume 13 is a
+   different man who has been on the road a year**, which is how the two stand without either being explained away, and **the outline and
+   the batch card now both say so in the places a drafter will be standing when he reads ch 726.** Nothing in Volume 13 asks the question.
+9. **THE SMALLER FIGURES.** **The fourth-landing lamp went out on day 2,296, which is the third of the month beginning 2,294, and not the
+   fifteenth** — the card now says day 2,296 outright. **Ch 773's inventory said eight hundred and one days**, a figure that is only true
+   at 2,360; **ch 773 and ch 774 are now pinned to day 2,509 and day 2,513 and the inventory reads nine hundred and fifty and nine hundred
+   and fifty-four, both by `D − 1,559`.** **Ch 719 is one chapter before Volume 12 ended and not two**, in the outline, in the card and in
+   this file's D1 row. **Card 726's forty boards at four to a minute is ten minutes, and the whole of it — the armful, the papers and the
+   reading — is forty**; the card now says so instead of flatly contradicting itself.
+10. **THE CRAFT ALLOWANCES WERE PUBLISHED BUT NOT ALLOCATED, AND ARE NOW.** The fifteen cards call for eleven `nobody` between them against
+    a batch allowance of six. **The allocation is now written down** — 722 · 728 · 730 · 732 spend five by name, the sixth is the whole
+    of what is left, and 721, 729 and 735 are told the phrase they want may have to be reworded — and **the `eleven` line says what is
+    load-bearing (ch 733's eleven seconds, the volume's instrument) and what is not available (*eleven days* is gone, because the figure
+    is twenty-nine days to a mark).**
+
+**One line reference in the review did not land and is recorded so a later reader does not go looking for it.** The review quotes
+`PROMPT.md:182` as carrying *a bar … four miles and nine hundred and four steps away* and calls it fine. **No such line is in the batch card;
+line 182 is card 726.** The instance of that error was in the outline's ch 773–774 inventory and is repair 5 above. **The same class of
+error was in the card one paragraph earlier, where the bag was *four miles and eight hundred and eighty steps away* — the bag is at the
+bottom of the first four flights in the same tower and four miles is the tower's distance from the square — and it is corrected to steps
+and no miles.**
+
+### Re-measured after the repair, and nothing moved
+
+- **Titles:** 15 · 0 collisions against all 720 standing headings · 0 internal duplicates · 3–8 words · 18–37 characters.
+- **Month-days:** 2,301 the eighth · 2,296 the third · 2,353 the thirtieth · 2,383 the thirtieth · 2,384 the first · 2,509 the sixth ·
+  2,513 the tenth · 2,524 the twenty-first, every one under `((day − 134) mod 30) + 1`.
+- **Intervals:** the two feeds she sees are 30 apart · 2,354 + 29 = 2,383 · 2,383 to 2,384 is 1 day · 2,383 − 2,357 = 26 · stage
+  intervals 113 · 58 · 63 · board counts 692 and 1,648 · lighter series 741 · 796 · 797 · 798 · 801 · 981.
+- **Fractions:** 225 ÷ 20 = 11d 6h 0m · 464 ÷ 20 = 23d 4h 48m · staleness 8h 24m at 2,301 and 12d 7h 12m at 2,540 · nearest firsts
+  nineteen, seventeen and twenty before and eleven, thirteen and ten after.
+- **The escalation sequence is now twenty-six items and is numbered 1 to 26 without a repeat**, and the batch card's *items 1 to 11*
+  is corrected to *items 1 to 12*, which is the range Batch 0001 actually draws.
+
+### What this pass did not do
+
+- **No chapter prose, and no chapter file created.**
+- **No new batch directory.** `workspace/volume-13-batch-0001/PROMPT.md` is still the one and only next phase and
+  `workspace/volume-13-planning/` is history.
+- **No `.done` marker written and no controller file opened** — `scripts/`, `.github/workflows/`, `.opencode/agent/`, `AGENTS.md`,
+  `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`, `opencode.json` and `state/phase-ledger.json` are untouched, and
+  `novel_runner.sh` writes `.done` itself on success. **The review's tenth item — that a run which dies before finalising could
+  re-dispatch planning because no planning prompt's first line matches the auto-retire regex — is a runner behaviour and is recorded here
+  and not acted on.**
+- **No planned plot changed.** The lamp, the mark, the row, the bundles, the second place, the name said out loud, the day spent into the
+  lamp, the lamp going out and the boy in the doorway are all where the plan put them.

@@ -5736,10 +5736,45 @@ map question. Its findings and repairs are at `state/continuity.md` §*VOLUME 12
 2. **The lamp is the instrument, the clock, the currency and the cost.** It is not an oil lamp; there is no oil in the building and there has not been for nine years, and it is fed by hand, and **she measures the lamp and the person at the table and works out that they are the same substance.** She does not learn what it is and she does not learn what it is paying for.
 3. **The figure at the head of her row is her own total — ten days, twenty-one hours and thirty-six minutes — in her own hand**, the line she wrote on a slate at the two posts at ch 717 and carried up that stair at ch 718. There is no stage on it and there is no name on it, **and the figure is still growing at one hour and twelve minutes a day, and above the line nobody loses a day, so there is nobody above the line who could ever know that the row is going stale.** That is the volume's thesis in one figure, and it answers the opening question on the page: the room knows what she is worth to the hour and it does not know her.
 4. **Immortal Vessel 4 · 5 · 6 at days 2,403 · 2,461 · 2,524**, at intervals of **113 · 58 · 63**, at ch 746 · 761 · 776, with costs named once each: **she cannot be given a thing · she cannot be measured with a person · she cannot be looked at again.** `Sisterhood` is 0 and no person is bound in Volume 13.
-5. **Yuan's second rung of Court is readability, taken at ch 748 and not before**, when she says `YUAN Sheng` out loud in the room. **Raised and not paid — nothing speaks to him, and `outline/ending.md` §7 keeps the address for Volume 15.** The **ninth frame scene is at ch 758** and it is about a place at the table with his shape on it that he does not get into.
+5. **Yuan's second rung of Court is readability, taken at ch 748 and not before**, when she says `YUAN Sheng` out loud in the room. **Raised and not paid — nothing speaks to him, and `outline/ending.md` §1 and §2 keep the address and the archive for Volume 15.** The **ninth frame scene is at ch 758** and it is about a place at the table with his shape on it that he does not get into. **And this does not move `outline/ending.md` §1's date: §1 dates his being readable *by the Scribe* to Volume 14, and what ch 748 makes readable is the room's hand, which is the rung of Court and not the Scribe's finding.**
 6. **One change to the oldest number in the manuscript.** At ch 735 she puts a day into the lamp on day 2,357 and it does not come back, and **from that day the figure she is lighter by is `D − 1,559` and not `D − 1,560`, permanently**: 741 at 2,301 · 796 at 2,356, the last figure of the old series · 797 at 2,357 before the lamp · **798 at 2,357 after it, two days in one day** · 801 at 2,360 · **981 at day 2,540.**
 7. **Four batches**, none running another's pressure: **0001 the bundles** (ch 721–735, 2,301–2,360) · **0002 the row** (736–750, 2,361–2,420) · **0003 the measure** (751–765, 2,421–2,480) · **0004 the second look** (766–780, 2,481–2,540). Eight firsts inside the volume at **2,324 · 2,354 · 2,384 · 2,414 · 2,444 · 2,474 · 2,504 · 2,534**, two in every batch, and **no first of a month is a stage day.**
 8. **The bracket budget is zero in sixty, argued on its own grounds:** above the line the layer is not in the room, and the room is what the layer is for.
 9. **Inherited and not re-derived:** the whole of *VOLUME 12 CLOSE* and *VOLUME 12 CLOSE — REVIEW REPAIR*, including the stale county total *thirteen days* (a Volume 12 inheritance, not Volume 13's to settle), the four accounts with no fifth, the unattributed 2,920, the 301 of 912, the open rows-past-the-wall question, and **the bar dated nowhere and taken up when she was nine — Volume 13 may not give it a day, a month-begin or a year-count.**
 
 **What Volume 13 may not preview: the moral answer. `outline/ending.md` §1's Anchor, the bargain, the address and the four hundred bound people are all untouched, and `Ascendant` and `Choir` are 0 on the page. `Court` may be spoken at most once, in Batch 0004, as the word for a building.**
+
+## Volume 13 planning — review repair, applied
+
+**The planning phase's review opened ten defects in `outline/volume-13.md` and `workspace/volume-13-batch-0001/PROMPT.md` and all ten
+are closed. No chapter prose exists and none was written, and no planned beat, day, chapter, title, stage, batch or irreversible step
+moved.** Full record in `state/continuity.md` under ***VOLUME 13 PLANNING — REVIEW REPAIR***.
+
+1. **The fifteen titles were on the wrong cards — seven of fifteen — and every one is now attached to the card whose beat it names.** Three
+   are new (*A Rate She Can Measure* · *Left Against The Wall* · *Twenty-Nine Days To The Mark*) and *The Jar Under The Bench* is
+   withdrawn. All fifteen re-checked against all 720 standing headings: **0 collisions, 3–8 words, 18–37 characters.**
+2. **The twenty-nine against thirty could not be measured between the two feeds she sees, because 2,354 − 2,324 is exactly thirty.** She
+   now measures it off the lamp's own rate of descent, and the finding is *the mark falls on the thirtieth of every month and the feed on
+   the first of the next, so there has been one day of slack in every month for four hundred years.*
+3. **The pinned deadline was not derivable and now is: the mark is at 2,383, the thirtieth of the month beginning 2,354, the next bundle is
+   2,384, and 2,383 − 2,357 = twenty-six days from the day she spends it.** *Eleven days left* and *thirty days between feeds* are gone.
+4. **Three accruing-total figures were wrong and all three are corrected: eleven days and six hours at day 2,301 (225 ÷ 20), twenty-three
+   days, four hours and forty-eight minutes at day 2,540 (464 ÷ 20), and a staleness that grows from eight hours and twenty-four minutes at
+   2,301 to twelve days, seven hours and twelve minutes at 2,540.**
+5. **The bar is in one place: against the left-hand wall of the room, where ch 731 leaves it and where it is at the last page.** Batch 0003
+   goes down with one bag and no bar.
+6. **Three step counts now belong to three different stairs: 880 is the tower's own (440 and 440, out of ch 719 and ch 720), 904 is the
+   second stair above the room and hers alone, and the boy of sixteen climbs 880.**
+7. **`outline/ending.md` §1 and §2, not §7, keep the address and the archive for Volume 15, and §1's *since Volume 14* is reconciled in one
+   sentence: ch 748 makes him readable by the room's hand, which is the rung of Court and not the Scribe's finding.** `outline/ending.md` is
+   unchanged.
+8. **The bundle bearer in Volume 13 is a different man from the carter of ch 663 and has been on the road a year**, which is how a bundle a
+   month and four bundles in thirty-one years both stand.
+9. **The fourth-landing lamp went out on day 2,296, the third, not the fifteenth; ch 773 and ch 774 are pinned to 2,509 and 2,513 and the
+   inventory reads 950 and 954; ch 719 is one chapter before the volume turned, not two; and card 726's ten minutes of boards and forty
+   minutes of whole are now consistent.**
+10. **The `nobody` and `eleven` allowances are allocated rather than merely published**, because the cards between them call for eleven
+    `nobody` against a batch allowance of six.
+
+**Still the live next phase, unchanged: `workspace/volume-13-batch-0001/PROMPT.md` — VOLUME 13 BATCH 0001, ch 721–735, days 2,301–2,360,
+pressure *the bundles*.**

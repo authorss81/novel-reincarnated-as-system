@@ -28,7 +28,7 @@ room behind her against the left wall with the dust broken at one end and not at
 
 **It comes out of what Volume 12 resolves — the board, the total, the line, the little finger, the four accounts, the harvest taken off a
 board and not off a person, and a threshold crossed and not finished — and not out of a fresh piece of furniture.** It hands Volume 13
-its engine without showing Volume 13 its world, without spending the moral answer, and without spending anything `outline/ending.md` §7
+its engine without showing Volume 13 its world, without spending the moral answer, and without spending anything `outline/ending.md`
 owns.
 
 **The three facts Volume 12 ends on, which are Volume 13's engine, and this outline puts them in one frame because the volume is the
@@ -141,8 +141,13 @@ end of Volume 12*. Read it before planning a card and do not re-derive it.**
    mountain in a room where things are decided by a hand**, and the hand read it, because she wrote it where a hand could reach it and
    she knew that when she did it.
 2. **The cost is raised and not paid.** *The Scribe can find him, and does* is Volumes 12–14's standing bill and **`outline/ending.md`
-   §7 reserves the address for Volume 15.** **Volume 13 raises it and does not pay it: nothing in Volume 13 speaks to him that is not
-   her, and the one thing that finds him does not speak.**
+   §1 and §2 keep the address and the archive for Volume 15.** **Volume 13 raises it and does not pay it: nothing in Volume 13 speaks
+   to him that is not her, and the one thing that finds him does not speak.**
+   **And the one reconciling sentence `outline/ending.md` §1 requires, written here so no later phase has to invent it: §1 dates his
+   being *readable by the Scribe* to Volume 14, and Volume 13 does not move that date by a day. What ch 748 does is make him readable
+   by the room's hand, which is the second rung of Court and not the Scribe's finding; the finding is raised at ch 749 and paid in
+   Volume 14 or after it, and it is raised rather than paid because the thing that copies a name at this table has never once been the
+   thing the ending is about.**
 3. **What the ninth frame scene is, and why it is the ninth:** at ch 758, in the room, away from her hearing, **he is the smallest
    thing in it.** There are two places at the long table. One of them has been occupied for four hundred years. **The other one is not a
    chair and it is not a seat, and it is the right size for him, and it is addressed, and nobody put him in it.** He does not get in it
@@ -190,7 +195,7 @@ its people, its rules and its scale out of what she does with what she has, and 
 **Decision. The Court is the receiving end, and its whole function is that things arrive and a person writes down what arrived.** It is
 Feng Lushi's job with the ceiling taken off: a mortal clerk in a tower four miles up a mountain, keeping a lamp in a cage and copying
 upward to something he never named, for twenty-two years. **Above the low door there is the same room and there is a lamp in a cage at
-the far end of a long table and no chairs, and ch 719 put the no chairs on the page two chapters before Volume 12 ended: *there are no
+the far end of a long table and no chairs, and ch 719 put the no chairs on the page one chapter before Volume 12 ended: *there are no
 chairs. There have never been chairs in that room.***
 
 **And the no chairs is a fact with a cause, and the cause is earned in Batch 0001 and not stated before it: nobody who has stood in this
@@ -236,7 +241,8 @@ word for the building and not for a person, and no character in Volume 13 ever s
    the line. It goes on, one hour and twelve minutes a day, whether or not she can see the day turn.** That is the volume's cruelty in
    its plainest form and it is never explained to her.
 3. **Every price she has paid is invisible to everybody making the decision.** She is the first person this room has met whose arm does
-   not close, whose hand has four digits on it, and who has been lighter every day for seven hundred and forty-one days and a half.
+   not close, whose hand has four digits on it, and who has been lighter every day for seven hundred and forty-one days and not one of
+   them going back.
    **Not one of the three is on her face and not one of the three is in a row, and the only figure the room holds about her is the
    price.** That is `bible/themes.md`'s *mercy that costs nothing to the person granting it is not mercy* — except that there is no mercy
    here either. There is a number, and the number is getting more wrong every day, and nobody has done anything cruel.
@@ -256,12 +262,25 @@ word for the building and not for a person, and no character in Volume 13 ever s
   and the row is written by a hand, and the hand writes in the light of that lamp. **Every entry costs a feed. That is the rule, it is
   four hundred years old, nobody thinks it is remarkable, and it is the first rule in thirteen volumes that she is not the only person
   obeying.**
-- **The interval between feeds is about thirty days and it is not a schedule.** It is fed when the lamp reaches a mark, and the mark is
-  the same every time, and **it is not tied to the first of a month — the bundle comes up on the first and the lamp is the room's own and
-  those are two different things, and she confuses them for two days before she works out that they are two different things.** The room
-  counts the interval in **hands** and she counts it in **days**, and **the two have never agreed, because a hand turns a lamp as often as
-  it has to and nobody has ever written down how often that is.** She measures it at twenty-nine days against thirty, and the discrepancy
-  is the whole of what is wrong with the room's arithmetic and it is the first thing she has found that she can correct.
+- **There is a mark on the lamp and the rule is the mark.** It is fed before the light reaches it and the mark is the same every time,
+  and **the mark is not tied to the first of a month — the bundle comes up on the first and the lamp is the room's own and those are
+  two different things, and she confuses them for two days before she works out that they are two different things.** The room counts the
+  interval in **hands** and she counts it in **days**, and **the two have never agreed, because a hand turns a lamp as often as it has to
+  and nobody has ever written down how often that is.**
+- **WHERE THE TWENTY-NINE COMES FROM, fixed here because it was wrong in an earlier draft of this outline and a drafter will meet it:
+  she cannot count it between two feeds, because the only two feeds she witnesses in Batch 0001 are the firsts of the months beginning
+  2,324 and 2,354 and that is exactly thirty days.** **She gets it off the lamp.** She watches the light go down for four days at ch 730
+  and works out that it is going down at a rate she can measure, and at ch 732 she measures how far it falls in one day and multiplies
+  it against the distance from full to the mark, and **what she gets is twenty-nine days.** A month is thirty. **So the mark falls on
+  the thirtieth of a month and the feed comes on the first of the next, and there is one day of slack in every month that has never once
+  been used, and the discrepancy is the whole of what is wrong with the room's arithmetic and it is the first thing she has found that
+  she can correct.** She does not correct it. Correcting it would mean telling a room of correct people that their lamp is thirty days of
+  lamp and they have been running it on twenty-nine, and there is no one in the room to say it to, and **by Batch 0004 there is no light
+  to say it in.**
+- **And the deadline it gives Batch 0001, stated once and checkable:** **the last feed she sees is on the first of the month beginning
+  2,354, day 2,354, and twenty-nine days after that is day 2,383, which is the thirtieth of that month, and the next bundle is on day
+  2,384.** From the day she spends it, 2,357, the mark is twenty-six days away. **Nothing before Batch 0002 says a number of days left
+  that is not subtraction from one of those three.**
 
 **And the line this volume may not cross, stated here so no card walks over it:** **she learns what feeding the lamp costs and who is
 charged by it, in the single instance of herself. She does not learn what the lamp is paying for, and Volume 13 may not tell her, and no
@@ -425,9 +444,16 @@ notices it because he is sixteen and he is standing in a doorway and he looks at
   standing open.
 - **The room with the long table and the lamp in a cage at the far end of it** — and **no chairs, and there have never been chairs.**
 - **The second stair, and what is above it**, which is Volume 13 and which no card may state in a number before Batch 0003 has her
-  count it. **Her count at the last page of the volume is nine hundred and four steps above the room with the long table in it, and she
-  stopped counting because the number stopped being a thing she could hold**, and that is the first figure in thirteen volumes she has
-  had to put down somewhere other than her head.
+  count it. **She goes up it at ch 723 and counts nine hundred steps and loses the count there, because the number stops being a thing
+  she can hold, and that is the first figure in thirteen volumes she has had to put down somewhere other than her head.** **The whole of
+  it is nine hundred and four, and she does not have nine hundred and four until ch 754, when she comes down the whole way and counts
+  it, and the four is the whole of what she was missing at ch 723.**
+- **And the two stairs are two stairs, and the numbers do not add up to one another, and no card may add them.** The tower's own stair is
+  the manuscript's: **the first four flights are four hundred and forty steps and the second four are the same four hundred and forty and
+  there is no rail on the second four**, out of ch 719 and ch 720, **eight hundred and eighty to the low door**. The copying floor and the
+  locked drawer are on the fourth landing, four hundred and forty of them up. **The second stair out of the far side of the room is nine
+  hundred and four and it is the only figure in Volume 13 that belongs to a stair nobody below the line has ever counted.** The bag is at
+  the bottom of the first four flights, eight hundred and eighty steps down.
 
 ## Who is in the room
 
@@ -440,6 +466,12 @@ outline's decision, not a dodge.**
   nothing except by being uninformed, which is the same thing.**
 - **The one who brings the bundles up the stair.** No name. Comes up once a month, on the first, with an armful, and puts it on the table
   and goes down again. **Does not look at her in Batch 0001 and is not in the room for most of Batch 0002.**
+  **And he is not the carter, and a drafter at ch 726 will need to know that.** The carter of ch 663 has worked that road for
+  thirty-one years and has carried **four** bundles up that stair and can remember all four, **and the man who comes up it in Volume 13
+  is a different man who has been on the road a year**, which is how a stair that has been sent a bundle every month for eleven hundred
+  years has one bearer who has carried four. **Nothing in Volume 13 explains the four and Volume 13 may not explain it** — *nobody
+  asked* is on the retired list and the question does not get asked in this volume by anybody. **The two facts simply stand: a bundle a
+  month, and a bearer who is new to it.**
 - **The boy of sixteen.** Unnamed. Comes up eight flights in Batch 0002, out of breath, because the oil ran out and the lamp at the top
   is the only one left in the building. **He is the only mortal in Volume 13 who is on the page above the line, and he got there on his
   own feet, and nobody above the line sent him.**
@@ -486,9 +518,11 @@ allowance for all three is 0.** No card may call the row, the lamp, the bundle o
 
 **The physical price of the third stage is separate from its cost and is named separately: the figure at the head of her row does not
 change when she does.** At the last page of Volume 12 the head of the row is ten days, twenty-one hours and thirty-six minutes and at
-the last page of Volume 13 it is the same ten days, twenty-one hours and thirty-six minutes, and it has been eleven days, four hours and
-forty-eight minutes out of date every day in between, **and there is not one person above the line who could know that, because above the
-line nobody loses a day.**
+the last page of Volume 13 it is the same ten days, twenty-one hours and thirty-six minutes. **It is wrong by an hour and twelve minutes
+on every day of the volume, and it is wrong by a different amount on every one of them: eight hours and twenty-four minutes out of date at
+day 2,301 and twelve days, seven hours and twelve minutes out of date at day 2,540, which is the whole of the gap between the recorded
+ten days, twenty-one hours and thirty-six minutes and the twenty-three days, four hours and forty-eight minutes the column has actually
+taken.** **And there is not one person above the line who could know that, because above the line nobody loses a day.**
 
 ### The bracket budget: zero in sixty, and the reason is different from Volume 12's
 
@@ -540,7 +574,7 @@ is the only one in the building.**
 | 0001 | 721–735 (15) | 2,301–2,360 | **the bundles** | she is alone in a room with a lamp that is not an oil lamp and nothing in it she can count · **the first bundle comes up the stair on day 2,324 and forty boards go on a table and none of them is looked at twice** · **the midpoint at ch 728 is that the deciding takes one look and there is no second** · **she works out at ch 733 that the lamp and the man at the table are the same substance** · **and at ch 735 she puts a day into the lamp, which is the first thing she has ever spent instead of lost, and it cannot be got back** |
 | 0002 | 736–750 (15) | 2,361–2,420 | **the row** | **the boy of sixteen comes up eight flights because the oil ran out and nobody has come up that stair in nine years** · **she learns that a row is entered by the person it is about and not by the hand at the table, and that the head of it is a figure** · **Immortal Vessel 4 at ch 746 and its cost** · **and at ch 748 she says `YUAN Sheng` out loud in the room because a row has to say what she is and it cannot be said without him, and he asks her not to and she does it anyway, and he is in a record above the line for the first time and it cannot be un-entered** |
 | 0003 | 751–765 (15) | 2,421–2,480 | **the measure** | **she goes down nine hundred and four steps and back up them to get the nib and the ink and the strip, and that is the first distance above the line she has ever counted** · **the ninth frame scene at ch 758** · **Immortal Vessel 5 at ch 761 and its cost** · **and at ch 763 she writes her own figure under the room's, in her own hand, and a row with two figures in it is a row that gets counted, and she has been escaping being counted since she was nine** |
-| 0004 | 766–780 (15) | 2,481–2,540 | **the second look** | **the room offers to amend the row once, and the amendment costs a feed, and what it would write is the name of the column she has been in for two hundred and twenty-five days** · **Immortal Vessel 6 at ch 776 and its cost** · **the lamp goes down at ch 778 and it is hers and she is the smallest thing in the room and the room has never had to decide anything in the dark** · **and at ch 780 a boy of sixteen stands in the doorway of a room with a lamp in it that has gone out, and he has come up nine hundred and four steps to find out why, and she has no answer that is small** |
+| 0004 | 766–780 (15) | 2,481–2,540 | **the second look** | **the room offers to amend the row once, and the amendment costs a feed, and what it would write is the name of the column she has been in for two hundred and twenty-five days** · **Immortal Vessel 6 at ch 776 and its cost** · **the lamp goes down at ch 778 and it is hers and she is the smallest thing in the room and the room has never had to decide anything in the dark** · **and at ch 780 a boy of sixteen stands in the doorway of a room with a lamp in it that has gone out, and he has come up eight hundred and eighty steps to find out why, and she has no answer that is small** |
 
 **No two consecutive batches run the same pressure.** None of them is a recruiting, a seduction, a tending, a ration, a hiring, a
 crossing of a wall, an audit, an examination, a hunt, a signature, a confinement, a second demand in a room, a second asking about a
@@ -573,34 +607,38 @@ licence to move it.**
 10. **The bar at ch 731** — nine feet nine with no strap, a stair that turns, nine counts of breath standing still at the top of it —
     **and she leaves it against the left wall where it was, because there is nothing in this room she could put it down for and she is
     not carrying it up nine hundred steps.** It is the first object of her life she has deliberately left in a room.
-11. **ch 735 — IRREVERSIBLE: she puts a day into the lamp on day 2,357, the fourth of the month beginning 2,354**, standing, in daylight, with
+11. **She measures the lamp itself at ch 732** and gets **twenty-nine days from a feed to the mark where a month is thirty**, and **the
+    mark falls on the thirtieth of every month and the feed on the first of the next, and there has been one day of slack in every month
+    for four hundred years and not one person has ever spent it.** **She cannot count it between two feeds and does not pretend to: the
+    only two she sees are thirty days apart and she says so out loud on a stair.**
+12. **ch 735 — IRREVERSIBLE: she puts a day into the lamp on day 2,357, the fourth of the month beginning 2,354**, standing, in daylight, with
     nobody asked for, and **the day does not come back, and from that day the figure is `D − 1,559` and not `D − 1,560`, permanently.**
-12. **The boy of sixteen comes up at ch 737**, eight flights and eight hundred and eighty steps, out of breath, because the oil ran out and
+13. **The boy of sixteen comes up at ch 737**, eight flights and eight hundred and eighty steps, out of breath, because the oil ran out and
     the lamp at the top is the only one left in the building. **He is the first thing to come up that stair in nine years.**
-13. **She learns at ch 743 that a row is entered by the person it is about** and not by the hand at the table, and that the hand writes
+14. **She learns at ch 743 that a row is entered by the person it is about** and not by the hand at the table, and that the hand writes
     what the person says and nothing else, **which is a rule made by somebody for exactly the reason she needs it and nobody will say so.**
-14. **Immortal Vessel 4 at ch 746, day 2,403** — the stage is not handed to her because she is not entered, and she takes it off the
+15. **Immortal Vessel 4 at ch 746, day 2,403** — the stage is not handed to her because she is not entered, and she takes it off the
     table herself, in front of a room.
-15. **ch 748 — IRREVERSIBLE: she says `YUAN Sheng` out loud in the room**, because a row has to say what she is and what she is
+16. **ch 748 — IRREVERSIBLE: she says `YUAN Sheng` out loud in the room**, because a row has to say what she is and what she is
     includes the voice and the six terms do not survive being read to a fourth person. **He asks her not to, once, in the ordinary voice,
     for the first time in nineteen years, and she does it anyway.**
-16. **He is found at ch 749** — by the thing that reads records, which is the bill for Court coming due — and **nothing speaks to him.**
-17. **She goes down nine hundred and four steps at ch 754 and back up them at ch 757**, and that is Batch 0003's physical card and the only
+17. **He is found at ch 749** — by the thing that reads records, which is the bill for Court coming due — and **nothing speaks to him.**
+18. **She goes down nine hundred and four steps at ch 754 and back up them at ch 757**, and that is Batch 0003's physical card and the only
     time in the volume she is in both places.
-18. **The ninth frame scene at ch 758** — he is the smallest thing in the room, and there is a second place at the table, and it is the
+19. **The ninth frame scene at ch 758** — he is the smallest thing in the room, and there is a second place at the table, and it is the
     right size for him, and he does not get into it and does not say no to it.
-19. **Immortal Vessel 5 at ch 761, day 2,461**, and the cost named once.
-20. **ch 763 — IRREVERSIBLE: she writes her own figure under the room's, in her own hand, and two figures in one column is a column that
+20. **Immortal Vessel 5 at ch 761, day 2,461**, and the cost named once.
+21. **ch 763 — IRREVERSIBLE: she writes her own figure under the room's, in her own hand, and two figures in one column is a column that
     gets counted**, and she has been escaping being counted since she was nine years old.
-21. **She puts her brother on the page once, at ch 765, and he is not a visit** — he is two days of road and six hundred feet below her
+22. **She puts her brother on the page once, at ch 765, and he is not a visit** — he is two days of road and six hundred feet below her
     and the only way he is on the page is that she is not going back.
-22. **The room offers to amend the row once, at ch 772**, and the amendment costs a feed, and nobody is lying about any part of it.
-23. **Immortal Vessel 6 at ch 776, day 2,524**, and the cost named once: she cannot be looked at again.
-24. **ch 778 — IRREVERSIBLE: she lets the lamp go down.** There is one feed of it left and the feed buys the name of the column she has
+23. **The room offers to amend the row once, at ch 772**, and the amendment costs a feed, and nobody is lying about any part of it.
+24. **Immortal Vessel 6 at ch 776, day 2,524**, and the cost named once: she cannot be looked at again.
+25. **ch 778 — IRREVERSIBLE: she lets the lamp go down.** There is one feed of it left and the feed buys the name of the column she has
     been in written into her row over the figure she wrote, and **she does not feed it**, and the lamp goes out, and the room has never
     had to decide anything in the dark, and there is no third person in the volume who can relight it.
-25. **ch 780 — a boy of sixteen is standing in the doorway of a room with a lamp in a cage at the far end of it that has gone out**,
-    and he has come up nine hundred and four steps to find out why, and **the last line of Volume 13 is her not having an answer that is
+26. **ch 780 — a boy of sixteen is standing in the doorway of a room with a lamp in a cage at the far end of it that has gone out**,
+    and he has come up eight hundred and eighty steps to find out why, and **the last line of Volume 13 is her not having an answer that is
     small.**
 
 ## The midpoint (ch 728)
@@ -625,10 +663,13 @@ had to.
    the line — and the fifth will keep coming off it, and it comes off her and not off a name, because that is the difference between a
    column and a person and the room is being kind enough to point at it.** Nobody is lying. **Nobody in this room has ever lied to her
    and nobody in this volume is going to start, and that is the reason the offer is dangerous.**
-2. **Ch 773–774. She counts what she has**, standing, in daylight, out loud, in a room with two people in it — a bar nine feet nine
-   four miles and nine hundred and four steps away, two coppers she cannot count, four fingers and a thumb, eight hundred and one days,
-   one day of them gone into a lamp, five blank leaves against her ribs that she has not written in and is not going to, and a record
-   kept out loud with six terms and no seventh.
+2. **Ch 773, day 2,509, the sixth of the month beginning 2,504, and ch 774, day 2,513, the tenth of the same month. She counts what she
+   has**, standing, in daylight, out loud, in a room with two people in it — **a bar nine feet nine
+   flat against the left-hand wall of the room she is standing in, where she left it at ch 731 and where it is going to be when this
+   volume ends**, two coppers she cannot count, four fingers and a thumb, **nine hundred and fifty days at 2,509 and nine hundred and
+   fifty-four at 2,513, both by `D − 1,559`, and one of them gone into a lamp**, five blank leaves against her ribs that
+   she has not written in and is not going to, and a record kept out loud with six terms and no seventh. **She does not count the bar as
+   something she has, because she left it where it was on purpose and the leaving is the only thing about it that is hers.**
 3. **Immortal Vessel 6 at ch 776**, and its cost: **she cannot be looked at again.** The one at the table looks at her for the second
    time in the volume and it takes eleven seconds and there is nothing she can do with her face.
 4. **Ch 777.** She is offered the feed. **The offer is the bargain of Batch 0004 and it is not refused out of pride; it is refused because
@@ -669,14 +710,15 @@ had to.
   the table acts (one look, and a bundle that goes back the way it came) · the boy of sixteen acts (eight hundred and eighty steps, four
   miles up a mountain, and a question at a door).
 - **What she is at the last page of Volume 13:** **Immortal Vessel 6**, six stages into the seventh realm, in a dark room at the top of
-  nine hundred and four steps above a mountain, **nine hundred and eighty-one days lighter and not one of them going back and one of them
+  eight flights and eight hundred and eighty steps in a tower four miles up a mountain, at the foot of nine hundred and four more,
+  **nine hundred and eighty-one days lighter and not one of them going back and one of them
   going the other way**, three fingers and a thumb, an arm that has not closed in two hundred and forty days, a row in the dark that
   says what she is in her own hand, **and a brother six hundred feet below her and a boy of sixteen in the doorway and a voice in her
   head that is a person and is readable now, and is not being spoken to.**
 
 ## Final chapter image (ch 780)
 
-**A doorway, a lamp that has gone out, and a boy of sixteen who came up nine hundred and four steps to ask why.**
+**A doorway, a lamp that has gone out, and a boy of sixteen who came up eight hundred and eighty steps to ask why.**
 
 She is at the top of a stair in a building four miles above a mountain. The room has a long table down the middle of it and there are
 two places at the table and one of them is not a chair. The lamp in the cage at the far end is out and has been out for the length of a
@@ -687,8 +729,9 @@ and there is no instrument in the world that can read either of them in the dark
 has gone back the way it came in four hundred years, and nobody in this volume can tell you what the rule was that said it had to go
 back.**
 
-**Down the stair, eight hundred and eighty steps and then four hundred and forty, there is a copying floor with four hundred volumes on
-the shelves and a drawer with a lock on it and a boy of sixteen who has been walking up it since the second hour of the morning.**
+**Down the stair, eight hundred and eighty steps in two runs of four hundred and forty, the first four with a rail on them and the
+second four without one, there is a copying floor on the fourth landing with four hundred volumes on the shelves and a drawer with a lock on
+it and a boy of sixteen who has been walking up it since the second hour of the morning.**
 
 **She is nineteen years old. The Court has not decided what she is. She has worked out how to stop it finding out, and the price of
 stopping it was the only thing in the building that was still lit.**
@@ -782,7 +825,7 @@ corrected, quoted as clean prose, or re-derived on the page.** What each of them
     opens no wall in Volume 13.**
 14. **Whatever Volume 13 changes about any of them:** Immortal Vessel 4 → 6 and its three costs · **a row with two figures in the head of
     it, written by her, true and wrong at once** · **one day of her own spent into a lamp and never coming back** · **a bundle that went
-    back the way it came** · **a room that is dark** · **a boy of sixteen nine hundred and four steps up a stair** · **`YUAN Sheng` said out
+    back the way it came** · **a room that is dark** · **a boy of sixteen eight hundred and eighty steps up a stair** · **`YUAN Sheng` said out
     loud in a room above the line for the first time in the book** · **the ninth frame scene at ch 758 and a second place at the table**
     · **and at the last page a Court that has not decided what she is because she turned the lamp off herself.**
 
@@ -872,8 +915,9 @@ lamp going out and the dark; none restates another's as its own.**
 
 **The batch-level action requirements, pinned before the cards are written:**
 
-- **Batch 0001** — **a lamp that is burning with nothing to put in it, going down at a rate she can measure, with a mark on it and about
-  thirty days between feeds and eleven days left** — and the physical card: **nine hundred steps of a stair that turns, counted, with four
+- **Batch 0001** — **a lamp that is burning with nothing to put in it, going down at a rate she can measure, with a mark on it, and
+  twenty-nine days from a feed to the mark against thirty in a month, so the mark falls on the thirtieth of the month beginning 2,354 —
+  day 2,383 — with the next bundle on day 2,384** — and the physical card: **nine hundred steps of a stair that turns, counted, with four
   counts of breath and seven on a rise and nine standing still, and the number stops being a thing she can hold, and a bar nine feet nine
   with no strap that she leaves against a wall because she is not carrying it up that.**
 - **Batch 0002** — **two dated firsts of a month, 2,384 and 2,414, and an oil lamp four miles down that went out before the first of the
@@ -881,7 +925,8 @@ lamp going out and the dark; none restates another's as its own.**
   and the physical card: **eight hundred and eighty steps with a boy of sixteen who is not used to them, and a drawer with a lock on it
   thirty feet from a copying floor with the key in a bag she left at the bottom of the first four flights.**
 - **Batch 0003** — **nine hundred and four steps down and nine hundred and four up in nine days, in the dark at one end of it, with one
-  bag and one bar and no rail on the second four** — and the physical card: **being measured by a comparison, standing still, in front
+  bag and no bar, because the bar is against the left-hand wall of the room at the top of it and she left it there on purpose at ch 731,
+  and with no rail on the second four of the tower's own stair on the way back down to the bag** — and the physical card: **being measured by a comparison, standing still, in front
   of two people, at a length she did not choose, by an instrument that is a person.**
 - **Batch 0004** — **one feed of a lamp left, a second look that cannot be got again, and a bundle that has to be answered or not
   answered on a first of a month** — and the physical card: **nine hundred and four steps in the dark with nothing in her hands,
@@ -963,7 +1008,8 @@ the twenty-eighth · **2,532** the twenty-ninth · **2,533** the thirtieth — *
 the seventh — **all of the month beginning 2,534.**
 
 **THE EIGHT FIRSTS IN THIS VOLUME ARE 2,324 · 2,354 · 2,384 · 2,414 · 2,444 · 2,474 · 2,504 · 2,534, two in every batch.** **No first of
-a month is a stage day: the stages are 2,403 · 2,461 · 2,524 and the nearest firsts are ten, seventeen and ten days off them.**
+a month is a stage day: the stages are 2,403 · 2,461 · 2,524, and the firsts nearest them are nineteen, seventeen and twenty days
+before and eleven, thirteen and ten days after.**
 
 **And what a first is, in this volume, is not what it was in Volume 12.** In Volume 12 a first was a date and not an event and she
 worked that out at ch 707 in four days at a frame. **Here a first is the day the apparatus comes up the stair.** She does not re-derive
@@ -981,6 +1027,6 @@ subtraction from the day its chapter is on and no day goes back.
 **The board at the north end of the rows keeps being written without her and she cannot see it: `(D − 2,128) × 4`, six hundred and
 ninety-two at day 2,301 and one thousand six hundred and forty-eight at day 2,540.** **The third column on the slate keeps being written
 too: `D − 2,077 + 1`, two hundred and twenty-five days at day 2,301 and four hundred and sixty-four at day 2,540**, and one in twenty of
-that is eleven days, four hours and forty-eight minutes at the last page, **derived on the page by subtraction out of the two dates and
-the fraction and not carried down from this table — this table exists so a close can check the chapter and not so a drafter can skip the
-arithmetic.**
+that is eleven days and six hours at day 2,301 and twenty-three days, four hours and forty-eight minutes at day 2,540, **derived on the
+page by subtraction out of the two dates and the fraction and not carried down from this table — this table exists so a close can check the
+chapter and not so a drafter can skip the arithmetic.**
