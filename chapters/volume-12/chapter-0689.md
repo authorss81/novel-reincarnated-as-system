@@ -14,7 +14,7 @@ He said, “Keep the record.”
 
 And then he said the rest of it and she did not interrupt, and it took about a count of forty.
 
-“You have been on a board at a turn twenty miles west of here since the twenty-fourth of the month beginning 2,054 and you cannot be taken off it. You wrote four sentences on a board at the north end of this ground on the fifteenth of this month and a carter read a name out of it on the eighteenth and did not know what it was.
+“You have been on a board at a turn two days of road west of here since the twenty-fourth of the month beginning 2,054 and you cannot be taken off it. You wrote four sentences on a board at the north end of this ground on the fifteenth of this month and a carter read a name out of it on the eighteenth and did not know what it was.
 
 You went up a stage on the fifteenth of this month at the north end of this ground in front of two hundred people and not one of them could put it anywhere, and you have not been able to tell anybody, including me, because of a question you asked standing up on a floor.”
 

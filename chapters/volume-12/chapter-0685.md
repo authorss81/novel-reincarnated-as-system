@@ -1,6 +1,6 @@
 # The Board At The North End
 
-The first of the month beginning 2,114 came at the first hour and she was in a ground with two hundred people in it and a bar leaning against a stone at the head of a row, and she stood there and worked out at about the third hour that a cart had gone east off a turn twenty miles west with a slate under a piece of sacking.
+The first of the month beginning 2,114 came at the first hour and she was in a ground with two hundred people in it and a bar leaning against a stone at the head of a row, and she stood there and worked out at about the third hour that a cart had gone east off a turn two days of road west with a slate under a piece of sacking.
 
 That is the second first of eight and the eighth is the first of the month beginning 2,294, and there is no work left in her that a board can get at.
 

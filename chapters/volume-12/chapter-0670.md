@@ -10,7 +10,7 @@ Then she went west on the store road with the bar on her shoulder and the light 
 
 There is a thing she does when she has been in a room four days and she does not know how to do it, which is that she stops counting for about half of a day.
 
-The breath went to seven on the cart track and to five on the made road and to four on the long flat where the made road comes down off the shoulder of the hill and runs out along the valley, and the bar is nine feet nine and the strap is out of her own coat lining and she has carried it since the fifth of the month beginning 1,914.
+The breath went to seven on the cart track and to five on the made road and to four on the long flat where the made road comes down off the shoulder of the hill and runs out along the valley, and the bar is nine feet nine and the strap is out of her own coat lining and she has carried it since the fifteenth of the month beginning 1,904.
 
 She ate half a loaf at the fourth hour, sitting on a wall, and the other half was for the evening, and she is not hungry, and has not been hungry since she was ten years old and has never once worked out what that means.
 

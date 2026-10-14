@@ -82,7 +82,7 @@ The four men in the rows have a stroke and a number, every evening, nine years, 
 
 The readers in this building have a name in a book with a date against it and cannot be un-recruited.
 
-She has a stroke and a number on a slate at a turn twenty miles west, in a county hand, put in by a man of forty-nine with a stick of white chalk at the sixth hour of the twenty-fourth of the month beginning 2,054.
+She has a stroke and a number on a slate at a turn two days of road west, in a county hand, put in by a man of forty-nine with a stick of white chalk at the sixth hour of the twenty-fourth of the month beginning 2,054.
 
 Two hundred people in a ground have a stone at the head of a row.
 

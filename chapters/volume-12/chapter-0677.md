@@ -74,7 +74,7 @@ She stood in the ditch at sixteen miles at the seventh hour of the ninth of the 
 
 And then she did the second half of the sum, which is the half that is the reason she is on this road:
 
-“On the first of the month beginning 2,084 a man took a slate with my name on it off a frame at a turn twenty miles west of here, put it on his cart with four bundles and a length of pipe, put a piece of sacking over it and took the whole thing east.”
+“On the first of the month beginning 2,084 a man took a slate with my name on it off a frame at a turn two days of road west of here, put it on his cart with four bundles and a length of pipe, put a piece of sacking over it and took the whole thing east.”
 
 She said, “And this morning there have been seven carts going east in one hour and one empty going west, and every cart on this road that goes east is going east with something on it that is made to be collected.”
 
@@ -108,7 +108,7 @@ That road does not know she is coming. There is not a person on it who knows she
 
 She has been in this county thirty-three days and the only person on nine days of road who has written her name anywhere is a man of forty-nine who writes four columns a month, and he wrote hers at the sixth hour of the twenty-fourth of the month beginning 2,054, and she has been off that board ever since except for one morning when it went east under a piece of sacking.
 
-She has built fourteen miles of road into a plan because she is the only person who can do the arithmetic, and she came onto this made road at the fourth hour of the morning with a bar and no name on anything except a slate that is twenty miles west of here.
+She has built fourteen miles of road into a plan because she is the only person who can do the arithmetic, and she came onto this made road at the fourth hour of the morning with a bar and no name on anything except a slate that is two days of road west of here.
 
 And she has been walking past about two hundred people a day for six days and she has been seen by all of them, and not one of them has any idea that there is a figure in her head that she could not get to them if she tried.
 

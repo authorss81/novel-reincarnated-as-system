@@ -106,10 +106,10 @@ The bar went onto her shoulder at the seventh hour in a count of twenty-eight, w
 
 ## The Thing She Has To Work Out
 
-It is twenty-three days to the first of the month beginning 2,114. It is sixteen days to the twenty-fourth of this month, which is the day a man of forty-nine comes out to a frame at a turn twenty miles west of here with a stick of white chalk.
+It is twenty-three days to the first of the month beginning 2,114. It is sixteen days to the twenty-fourth of this month, which is the day a man of forty-nine comes out to a frame at a turn two days of road west of here with a stick of white chalk.
 
-She is going to be twenty miles east of that turn on the twenty-fourth.
+She is going to be two days of road east of that turn on the twenty-fourth.
 
-She has never missed a day of a column in her life and she has been on one for two months and she is about to be twenty miles east of a frame when a hand comes to it, and there is not one thing she can do about it.
+She has never missed a day of a column in her life and she has been on one for two months and she is about to be two days of road east of a frame when a hand comes to it, and there is not one thing she can do about it.
 
 And she has a figure in her head that not one person on this ground is going to be told, and she has not said it, and she has to go and work out what takes a fifth.
