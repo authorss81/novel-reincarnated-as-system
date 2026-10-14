@@ -154,6 +154,25 @@ Batch 0001 and its PHASE ZERO, four phases discharged earlier. **Both are correc
 close repair order paragraph is left as written, because it is a record of a discharged obligation and not a reading
 instruction.**
 
+## Volume 13 — the live phase, and where a phase starting now should read
+
+**VOLUME 12 IS CLOSED, AUDITED, AND REVIEWED. THIS IS THE ONLY READING ORDER IN THIS FILE.** The section above is the
+record of what Volume 12 planning and Batches 0003 and 0004 read; it is history and the table in it is not a map of where
+the manuscript is. A phase starting now reads these, in this order:
+
+| Order | Section | What it is |
+| --- | --- | --- |
+| 1 | `workspace/volume-13-planning/PROMPT.md` | **THE LIVE BRIEF.** Plan Volume 13, *The Immortal Court*, ch 721–780; write `outline/volume-13.md` and `workspace/volume-13-batch-0001/PROMPT.md`, and nothing else |
+| 2 | `state/current.md` §*Who is where at end of Volume 12* | **THE LIVE POSITION.** Day 2,300, one step up a second stair, IMMORTAL VESSEL 3, nineteen, 740 days lighter, three fingers and a thumb. Measured per file: **116,766 body words over sixty chapters at average 1,946 — 29,996 · 28,850 · 29,240 · 28,680 by batch** |
+| 3 | `state/continuity.md` §*VOLUME 12 CLOSE* | The volume as a whole: every figure, the eight firsts, the lighter series, the board, the geography, the craft lines, the ending |
+| 4 | `state/continuity.md` §*VOLUME 12 CLOSE — REVIEW REPAIR* | **READ FOURTH.** The four sentences the close's review repaired, the two dated values it set deliberately, what it re-measured, and what it recorded without repairing |
+| 5 | `state/open-threads.md` §*VOLUME 12 CLOSED* | **What Volume 13 inherits, what it may not settle, and the one new standing fact: the bar is dated nowhere and was taken up at nine** |
+| 6 | `outline/volume-12.md` | **THE AUTHORITY for Volume 12**, read after the five above and never before |
+| 7 | `outline/series.md` | **§9 fixes Volume 13's title, its chapter range and its one-sentence goal**, and §4 fixes Immortal Vessel 4–6 and Yuan's second rung |
+
+**`workspace/volume-13-planning/` holds the one and only next phase.** No batch directory beyond it exists, no
+`workspace/volume-13-batch-0001/` exists yet, and no `.done` marker anywhere is written by hand.
+
 ## Volume 12 — the live volume, and where a phase starting now should read
 
 **LIVE, AND CORRECTED TWICE — THIS IS THE ONLY READING ORDER IN THIS FILE.** This section was added by the Volume 12 planning
@@ -186,4 +205,6 @@ everything behind the live volume out of `current.md`, `continuity.md` and `chap
 under `state/archive/`, leave the stubs, and extend this index. **Do not prune.** `PHASE_SYSTEM.md` gives the
 remedy as an index and an archive, not a deletion, and every one of these files is a record of what was measured
 at the time it was measured. **Volume 12 is where that pass is now overdue:** the tables above stop at Volume 11 and
-`current.md` still carries every block from Volume 1 forward.
+`current.md` still carries every block from Volume 1 forward. **Volume 12 closed on 14 Oct 2026 and its close has been
+reviewed and repaired, so the archive pass now belongs to the Volume 13 close rather than to this phase; nothing was
+pruned or moved to do it.**

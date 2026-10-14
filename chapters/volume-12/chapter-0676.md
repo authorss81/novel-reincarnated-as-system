@@ -1,6 +1,6 @@
 # The Bar Without A Strap
 
-She was two miles short of the wall at the second hour of the eighth of the month beginning 2,084 and she had been on the flat since the fourth hour, and the flat is two miles long and there is nothing on it to lean on, nothing to put a bag down behind, and nothing to lie down on between the gate and the wall, which is a thing she had been told about by a county that had no reason to think about it.
+She came up to the wall at the second hour of the eighth of the month beginning 2,084 and she had been on the flat since the fourth hour, and the flat is two miles long and there is nothing on it to lean on, nothing to put a bag down behind, and nothing to lie down on between the gate and the wall, which is a thing she had been told about by a county that had no reason to think about it.
 
 ## Six Days On A Made Road
 
@@ -30,17 +30,17 @@ She has put down barrows with two hands for nine years. She has never once picke
 
 And then she could not put it back on her shoulder, because the strap was gone and the coat lining it came out of was torn in a strip four fingers wide, and the lining is the only thing on that bar that has ever held it against her body.
 
-## What Two Days Of That Cost
+## What Three Days Of That Cost
 
-Two days, and here is what came off her and what did not.
+Three days, and here is what came off her and what did not.
 
-Her right arm was open on the sixth and on the seventh of the six days. It is open four days in five and it is open on the arm that was carrying. So on three days out of six she carried a bar nine feet nine in a hand with four fingers on it, on an arm that would not shut, for eleven miles.
+Her right arm was open on the fifth and on the sixth and on the seventh of the six days. It is open four days in five and it is open on the arm that was carrying, and on those three days she carried a bar nine feet nine in a hand with four fingers on it, on an arm that would not shut, for seven miles.
 
 What came off her was this: she cannot get the bar onto her shoulder any more. She can put it on. She cannot put it up, and she cannot take it off, and it takes her the length of twenty counts to get it from the ground to her shoulder now and about the same again the other way, and she does the twenty counts at the eighth hour and at the fourth hour and at whatever hour she stops.
 
 On the morning of the seventh, at the gate, it took her a count of fifty-four.
 
-She said that out loud, standing in the grit at a gate with a bar on the ground at her feet, at the eighth hour of the seventh of the month beginning 2,084, because she says figures out loud and has said them out loud since she was nine.
+She said that out loud, standing in the grit at a gate with a bar on the ground at her feet, at the fourth hour of the seventh of the month beginning 2,084, because she says figures out loud and has said them out loud since she was nine.
 
 A man went west on the road above the gate with a load of something and did not turn his head.
 

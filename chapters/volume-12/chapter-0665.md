@@ -128,7 +128,7 @@ She said, “They are a day in a column in a bundle that a carter of sixty-four 
 
 ## The Second Question She Did Not Put
 
-She stood at the end of the bench and felt the second question come up her chest the way it came up on the fourteenth of the month beginning 2,024 and on the twenty-fourth of the month beginning 2,024, which is the thing she has never done and has said out loud twice that she will not do.
+She stood at the end of the bench and felt the second question come up her chest the way it came up on the fourteenth of the month beginning 2,024 and on the fourteenth of the month beginning 1,904, which is the thing she has never done and has said out loud twice that she will not do.
 
 It was the right question. It was standing there ready and it was the better one, and asking it would not have been asking two things at the same time, because the first question had been asked and answered and was in the room.
 
