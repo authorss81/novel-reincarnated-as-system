@@ -1,20 +1,21 @@
 # Current State
 
-**As of:** **VOLUME 6 CLOSED AND AUDITED — CH 299–360 ON THE PAGE, AND THE CLOSE AUDIT IS COMPLETE.** VOLUME 1 CLOSED. VOLUME 2 CLOSED AND AUDITED. VOLUME 3 CLOSED AND AUDITED — CH 1–178 ON THE PAGE. VOLUME 4 CLOSED AND AUDITED — CH 179–238 ON THE PAGE. VOLUME 5 CLOSED AND AUDITED — CH 239–298 ON THE PAGE. ALL FOUR VOLUME 6 BATCHES WERE WRITTEN AND REPAIRED, AND THE CLOSE HAS NOW BEEN RUN LINE BY LINE AGAINST `outline/volume-06.md`. **THE NEXT PHASE IS THE VOLUME 7 PLANNING PHASE, whose prompt is `workspace/volume-07-planning/PROMPT.md`. It writes `outline/volume-07.md`, which does not exist yet.**
+**As of:** **VOLUME 7 IS PLANNED. `outline/volume-07.md` EXISTS — *Stronger Things*, ch 361–420 — and `workspace/volume-07-batch-0001/PROMPT.md` is its first drafting card. VOLUME 6 IS CLOSED AND AUDITED — CH 299–360 ON THE PAGE.** VOLUME 1 CLOSED. VOLUME 2 CLOSED AND AUDITED. VOLUME 3 CLOSED AND AUDITED — CH 1–178 ON THE PAGE. VOLUME 4 CLOSED AND AUDITED — CH 179–238 ON THE PAGE. VOLUME 5 CLOSED AND AUDITED — CH 239–298 ON THE PAGE. ALL FOUR VOLUME 6 BATCHES WERE WRITTEN AND REPAIRED, AND THE CLOSE WAS RUN LINE BY LINE AGAINST `outline/volume-06.md` AND THEN REVIEWED AND REPAIRED AGAIN. **THE NEXT PHASE IS THE VOLUME 7 BATCH 0001 DRAFTING PHASE, against `workspace/volume-07-batch-0001/PROMPT.md`. It writes ch 361–374.**
 
 ## How to read this file
 
 This file is **append-only and long, and most of it is history.** You do not need all of it to write.
 
-- **For a cold start, read four things, in order:** ***Who is where at end of chapter 345*** (the live position, written at the Volume 6 Batch 0003 draft), ***Who is where at end of chapter 329*** (where Volume 6 Batch 0003 opened from, and the live position before it),
-  written at the Volume 6 Batch 0002 draft), ***Who is where at end of chapter 313*** (where Volume 6 Batch
-  0002 opened from), ***What
-  Volume 3 must not do*** (further down), which Volume 4 inherited in full and which Volume 5 inherited through
-  it, ***Who is where at end of chapter 238*** (below that one), which is where Volume 5 started, and ***Who is
-  where at end of chapter 252*** (the Volume 5 Batch 0001 record, kept because Volume 5's own cold-reader block
-  sits above it). **Then read `## The Volume 5 hand-off` further down this file, which is the block Volume 5's
-  planner opened on, and `## The protagonist, answered in writing` immediately above it, which is a standing
-  requirement on Volume 5 and not a note.** The Volume 5 close phase should not have to read past those.
+- **For a cold start, read five things, in order:** ***Who is where at end of chapter 360*** (the live position,
+  written at the Volume 6 close and still binding), ***Volume 7 planned*** (the block directly beneath it — what
+  `outline/volume-07.md` fixed, and the first drafting phase is `workspace/volume-07-batch-0001/PROMPT.md`),
+  ***Who is where at end of chapter 345*** (where Volume 6 Batch 0004 opened from), ***Who is where at end of
+  chapter 329*** (where Volume 6 Batch 0003 opened from), ***Who is where at end of chapter 313*** (where Volume 6
+  Batch 0002 opened from), ***What Volume 3 must not do*** (further down), which Volume 4 inherited in full and
+  which Volume 5 inherited through it, and ***Who is where at end of chapter 238*** (below that one), which is
+  where Volume 5 started. **Then read `## Volume 6 close audit — CLOSED` and `## Volume 6 close review — REPAIR`,
+  which carry the seventeen continuity items and the current figures, and `## The protagonist, answered in writing`
+  inside the audit, which is a standing requirement on every volume from Volume 5 on and not a note.**
 - **`outline/volume-05.md` is the authority for Volume 5 and `outline/batches/volume-05-batch-0001.md` is the
   card file Volume 5 Batch 0001 was drafted against.** Every card beat in that file is on the page and the
   file is not to be re-planned. **Batch 0002 (ch 253–267) was drafted against
@@ -64,7 +65,7 @@ This file is **append-only and long, and most of it is history.** You do not nee
 - **Volume:** 6 of 16 — **The Real Realm (ch 299–360)** — outlined in `outline/volume-06.md`, **CLOSED AND AUDITED.** **BATCH 0004 (ch 346–360) WRITTEN AND REVIEWED AND REPAIRED — 21,479 words of body prose over fifteen chapters, average ~1,432, day 774 to day 848, TWO bracketed layer lines, at ch 352 and ch 357, Golden Core 8 at ch 352 on the pinned day 786, Golden Core 9 at ch 357 on the pinned day 818, the Hand refused once out loud at ch 355 and not spent, the sending refused and entered at ch 358, what breaking cost at ch 359, and Nascent Soul 1 at ch 360 on the pinned day 845 with no bracket. Eighteen review findings closed, eight of them must-fix: ch 348's first day on the footing was being narrated twice and one of the two passes is now the seventeenth and the low side, ch 348's *bar that took two hands* that gave away ch 352 is now *a bar in one hand*, ch 358's deadline is the twenty-eighth and not the thirtieth, ch 358 no longer puts her in a room she has never been in, ch 354's last line is twenty-three days and not twenty-nine, ch 349 no longer narrates what she does not know three chapters early, five bare all-caps lines are now quoted matter in the hand they are in, the four structural-answer speeches no longer say the same four sentences, the middle-bank method is explained once instead of three times, ch 357 names Golden Core eight as its own anchor, a narrator absolute that pre-empted ch 360 is out, *Nascent Soul* is on the page for the first time in the manuscript, two mangled dates and six date slips are corrected, and *nobody* is down from 27 to 6. A false budget figure was also corrected: the batch's `sending: 7` was the substring inside *send* and *sent* and is 0. No beat, day-table position, title, turn, midpoint, climax, irreversible decision, bracket or stage moved; full record in `state/continuity.md` under *Volume 6 Batch 0004 (ch 346–360) — REVIEW REPAIR*.** **THE VOLUME CLOSE HAS NOW BEEN RUN AND REPAIRED: sixteen further repairs across seventeen chapter files, seven findings recorded and not repaired, and the file set is 95,110 words of body prose over sixty-two chapters (24,529 · 23,975 · 25,056 · 21,550 by batch; Batch 0003 is 25,056, average ~1,566, and Batch 0004 is 21,550, average ~1,437, after the close). **THE CLOSE HAS NOW BEEN THROUGH REVIEW AND REPAIRED AGAIN: three further prose repairs across three of the same seventeen files — ch 338's own fresh verbatim duplication, which the close's repair #12 introduced and then certified as a gain, and the ch 332 / ch 342 twin pair of layer-silence lines that the close's repair #6 and #7 cleaned on the wrong pairing and left standing — plus every stale or unreproducible measurement re-derived from the chapters. Full record in `state/current.md` under `## Volume 6 close review — REPAIR` and in `state/continuity.md` under *Volume 6 close — review repair*. No beat, day-table position, title, turn, midpoint, climax, irreversible decision, bracket or stage moved.** The close's repairs are ch 306, 314, 317, 319, 321, 322, 330, 332, 336, 338, 343, 350, 352, 355, 357, 359 and 360 — chiefly ch 360's own contradiction about the bar, a units slip in ch 355, a miscount and a garbled clause and two repeated constructions in ch 357, four all-caps lines in ch 336 and three more at ch 314, 317 and 338, five cross-chapter duplicate paragraphs, a count set and not paid off in ch 359, and the two common-noun `ledger`s that made `grep -i Ledger` return 2 instead of 0. Full record in `state/current.md` under `## Volume 6 close audit — CLOSED` and in `state/continuity.md` under *Volume 6 close — repairs*.** BATCH 0002 (ch 314–329) WRITTEN AND REVIEWED AND REPAIRED — **23,975 words of body prose over sixteen chapters, average ~1,498, day 646 to day 699, ONE bracketed layer line, at ch 321, Golden Core 5 at ch 321, the Hand spent for the first time in this book at ch 325, and the second vouching agreed at ch 329.** Drafted against `outline/volume-06.md` and `workspace/volume-06-batch-0002/PROMPT.md`; every pinned item in that prompt is on the page. **Thirteen review findings closed: the ring's own fuel rate and the worth of a box reconciled end to end, the 24th-of-a-month anchor set at nineteen days, ch 314's day collision with ch 315 and ch 315's three-day span re-derived, ch 314 retitled *Four Nails*, and every word count, timestamp and zero-claim in the state files rebuilt from the chapters. No beat, day, stage, bracket or planned event moved; full record in `state/continuity.md` under *Volume 6 Batch 0002 (ch 314–329) — REVIEW REPAIR*.** BATCH 0001 (ch 299–313) WRITTEN AND REVIEWED AND REPAIRED — **24,529 words of body prose over fifteen chapters, average ~1,635, day 621 to day 645, ONE bracketed layer line, at ch 310.** Drafted against the fifteen cards at `outline/batches/volume-06-batch-0001.md`; every card beat is on the page. **Seven chapters reopened at the review and closed again — ch 300, 304, 306, 308, 310, 311 and 313: ch 311's day-rate arithmetic reconciled against ch 310 and the card, one instance of authorial scaffolding cut, six verbatim repeats broken, one distance hedged. No beat, day, title, stage, bracket or planned event moved; full record in `state/continuity.md` under *Volume 6 Batch 0001 (ch 299–313) — REVIEW REPAIR*.** Volume 5 remains closed and audited: — **Mortal Ash (ch 239–298)** — outlined in `outline/volume-05.md`, **CLOSED AND AUDITED.** BATCH 0001 (ch 239–252) WRITTEN AND REPAIRED — 25,897 words of body prose over fourteen chapters, day 471 to day 506, ZERO bracketed layer lines in the batch. BATCH 0002 (ch 253–267) WRITTEN AND REPAIRED — 25,441 words of body prose over fifteen chapters, average ~1,696, day 507 to day 521, ONE bracketed layer line, at ch 258. BATCH 0003 (ch 268–283) WRITTEN AND REPAIRED — 22,771 words of body prose over sixteen chapters, average ~1,423, day 522 to day 580, ONE bracketed layer line, at ch 275. BATCH 0004 (ch 284–298) WRITTEN AND REPAIRED — 27,157 words of body prose over fifteen chapters, average ~1,810, day 581 to day 620, ONE bracketed layer line, at ch 292, and Volume 5's bracket budget of three is spent. Volume 5 file set ch 239–298: **101,266 words of body prose over sixty chapters after the close review's five recasts** (101,204 after the volume close, 101,160 before it). **All five figures were re-derived against the chapters at the close review; the per-batch totals the close left at their pre-close values are corrected here.** Volume 4 remains closed and audited: Batch 0001 (ch 179–192), 28,607 · Batch 0002 (ch 193–208), 31,900 · Batch 0003 (ch 209–222), 28,581 · Batch 0004 (ch 223–238), 31,484 — file set 120,572 words. Volume 3 file set 135,014.
 - **Volume 5 goal**, fixed by `outline/series.md` §9: *In this volume, Ning Yan must finish the world they came from, or leaving it costs everyone she left standing in it.*
 - **Chapter written:** **1–360. THE NOVEL RUNS TO CHAPTER 1000. VOLUME 6 IS CLOSED AND AUDITED.**
-- **Next phase:** **THE VOLUME 7 PLANNING PHASE, against `workspace/volume-07-planning/PROMPT.md`.** It writes `outline/volume-07.md` — *Stronger Things*, ch 361–420, goal fixed by `outline/series.md` §9: *In this volume, Ning Yan must survive being the weakest person in every room she walks into, or she learns that strength was never what she was taken for.* **The next phase is a planning phase and not a drafting phase: it must not write chapters.** The Volume 6 close audit is complete — fifteen numbered rows, sixteen repairs across seventeen chapter files, seven findings recorded and not repaired, the continuity list walked item by item, and the protagonist answered in writing — **and the close has since been through its own review and repaired again, three more prose repairs across three of the same files and every stale measurement re-derived; see `## Volume 6 close review — REPAIR`.** **`outline/series.md` and `outline/ending.md` are unchanged and `outline/volume-07.md` does not exist.** This record does not write a `.done` marker, which `PHASE_SYSTEM.md` gives to the controller alone.
+- **Next phase:** **THE VOLUME 7 BATCH 0001 DRAFTING PHASE, against `workspace/volume-07-batch-0001/PROMPT.md`.** It writes ch 361–374, fourteen chapters, days 849–899, pressure **rooms bigger than she is**, and **Nascent Soul 2 at ch 371 on the pinned day 886 with the volume's first of six brackets**. **Volume 7 is planned and `outline/volume-07.md` exists** — *Stronger Things*, ch 361–420, goal fixed by `outline/series.md` §9: *In this volume, Ning Yan must survive being the weakest person in every room she walks into, or she learns that strength was never what she was taken for.* That drafting phase then writes `workspace/volume-07-batch-0002/PROMPT.md` and nothing beyond it. **The Volume 6 close audit is complete and its review is applied — fifteen numbered rows, sixteen repairs across seventeen chapter files and three more across three of those same files at the review, seven findings recorded and not repaired, the continuity list walked item by item, and the protagonist answered in writing; see `## Volume 6 close review — REPAIR`.** **`outline/series.md` and `outline/ending.md` are unchanged.**
 - **Point of view:** close third on Ning Yan; every line Yuan speaks is written in the present tense. **The close audit has now answered the two-volumes-of-sixteen protagonist question in writing — see *The protagonist, answered* below and in `workspace/volume-04-close/SUMMARY.md`.**
 - **In-world date:** **day 848** of the run's own clock at ch 360 — the twenty-fifth of a month, and the live position. **Volume 6 Batch 0004 ran day 774 to day 848**, the eleventh of the month beginning on day 764 to the twenty-fifth of the month beginning on day 824, and **its two pinned stage days fell at 786 (the twenty-third) and 818 (the twenty-fifth)**. **The previous line of the run was:** The batch walked day 701 to day 735, carried days 736–748 as elapsed rather than walked, took Golden Core 7 at the pinned day 749 (the sixteenth), and then walked **ch 343 on days 750–755 (the seventeenth to the twenty-second), ch 344 on days 763–764 (the thirtieth and the first) and ch 345 on day 773 (the tenth)**. **Ch 343, 344 and 345 are dated on the page.** **Batch 0002 closed on** day 700 — the twenty-seventh of a month, on flat ground about three miles east of a mill whose wheel has not turned, **past the last working point, in no employment, with no season and no wages, two and a half coppers a day at a gate, and entered in a second office's materials book since the twenty-sixth.** **Volume 6 Batch 0002 ran day 646 to day 700 — the third of a month to the twenty-seventh of the next.** **Volume 6 Batch 0003 ran day 701 to day 735, the twenty-eighth of a month to the second of the next, with day 712 the ninth and the pinned Golden Core 6 day, then day 749 the sixteenth for Golden Core 7, then days 750–755, 763–764 and 773.** **There is no pay-cycle past the mill and the batch did not revive one.** **Day 645** of the run's own clock was ch 313 — the second of a month. **Volume 6 Batch 0001 ran day 621 to day 645 — the eighth of a month to the second of the next**, and the seventeenth fell on day 630 and nothing happened on it, in one sentence at ch 304. **Day 620** of the run's own clock was ch 298 — the seventh of a month, past the last working point of the line, on the far side, **out of employment, with no season and no wages.** **Batch 0001 ran day 471 to day 506 and its three pay-days were day 480 (the seventeenth), day 490 (the twenty-seventh) and day 500 (the seventh). Batch 0002 ran day 507 to day 521 and its two pay-days were day 510 (the seventeenth) and day 520 (the twenty-seventh). Batch 0003 ran day 522 to day 580 and its pay-days were day 530, 540, 550, 560, 570 and 580. Batch 0004 ran day 581 to day 620 and its pay-days were day 590, 600 and 610 — day 600 is also the pinned Golden Core 3 date — and the next pay-day after the season closed, day 620, produced nothing.** The season's road shut on day 117 and reopened on day 254. **Day 0 is the last day of the thaw** (canon change 30). **Day 299, 329, 359 and 389 were the attendances of the run so far in this stretch and all four fell on the sixteenth; day 389 was the last one and it is one sentence inside ch 225.**
 - **The month rule.** Months are thirty days and a month begins every thirty days, **so the month-day of any day is `((day − 134) mod 30) + 1`.** Day 134 was the first of a month. **Days 374–403 read day − 373 · days 404–433 read day − 403 · days 434–463 read day − 433 · days 464 onward read day − 463.** (The rule as it stood before this audit said "days 374 to 463 read day − 373", which was wrong for days 404 onward, and is corrected here and in `state/open-threads.md`.) The months Volume 4 lands in began on days 254 · 284 · 314 · 344 · 374 · 404 · 434. **The months Volume 6 Batch 0001, Batch 0002 and Batch 0003 span began on days 614, 644, 674 and 704, and the next begins on day 734 — which is inside Batch 0003 and carries the GC7 day of day 749. The pinned Golden Core 5 date, day 674, is a month-opening day and fell inside Batch 0002 at ch 321.**
@@ -187,6 +188,176 @@ at the close's own review, recorded in `## Volume 6 close review — REPAIR` bel
   everything above the offices that vouched unread · *kiln-born* in two heads and on no paper · what became of the
   eleven · the register still *reconciled* · the plate still worn · the year still carrying · **and the rooms that
   were refused a presentation, which have now started reading her where she stands instead.**
+
+## Volume 7 planned — `outline/volume-07.md` exists and what the plan fixed
+
+**Recorded by the Volume 7 planning phase. It is a planning phase: it wrote `outline/volume-07.md` and
+`workspace/volume-07-batch-0001/PROMPT.md` and wrote no chapter prose, no second prompt and no `.done` marker,
+which `PHASE_SYSTEM.md` gives to the controller alone. `outline/series.md` and `outline/ending.md` were not opened
+and are unchanged.**
+
+**Goal, title and range, all fixed by `outline/series.md` §9 and none re-planned here:** *Stronger Things*, ch
+361–420, sixty chapters — *In this volume, Ning Yan must survive being the weakest person in every room she walks
+into, or she learns that strength was never what she was taken for.*
+
+### The pressure, in one sentence
+
+**She is read correctly and understood wrongly.** From ch 358 the offices read her where she stands; the rooms east
+of the mill are larger than any room she has stood in and full of people who were never inside a bound; **every one
+of them takes her column, her furnace and her holder for granted, prices her at what she can lift, and she cannot
+lift anything in them.** No villain in the volume, and the volume's worst things happen to her at the hands of
+people who are right. **Its paper is the standing answer of Volume 6 — a refusal that cannot be taken out of a
+book she cannot reach, a book of hers on a stone under a ladder, and a reach that happened once — being read by
+rooms larger than any room she has stood in.**
+
+### The day table, re-derived, not wished
+
+**Month-day is `((day − 134) mod 30) + 1`; day 134 was the first of a month; months are thirty days.** The volume
+runs **day 849 to day 1,090** — 242 days over sixty chapters, against Volume 6's 228 days over sixty-two. Months in
+Volume 7 begin on days 854 · 884 · 914 · 944 · 974 · 1,004 · 1,034 · 1,064.
+
+| Batch | Chapters | Days | Month-days at the ends |
+| --- | --- | --- | --- |
+| 0001 | 361–374 (14) | 849–899 | the 26th of the month beginning 824 → the 16th of the month beginning 884 |
+| 0002 | 375–389 (15) | 900–950 | the 17th of the month beginning 884 → the 7th of the month beginning 944 |
+| 0003 | 390–404 (15) | 951–1,020 | the 8th of the month beginning 944 → the 17th of the month beginning 1,004 |
+| 0004 | 405–420 (16) | 1,021–1,090 | the 18th of the month beginning 1,004 → the 27th of the month beginning 1,064 |
+
+**Batch 0003 ends on a pinned stage day (day 999) and Batch 0004 opens twenty-two days later. The chapters carry
+that stretch as elapsed, exactly as Volume 6's Batch 0003 carried days 736–748, and the season turns inside it.**
+
+### The power progression, derived before anything else
+
+**She is at Nascent Soul 1 at ch 360.** `outline/series.md` §4 puts Nascent Soul 1–9 in Volumes 6–9, so **Volume 7
+carries Nascent Soul 2 through 7 — six stages — and Volume 8 carries 8 and 9 and opens the Order.** Nothing is
+moved out of the series table and no gap is left for a drafting phase to invent.
+
+| Stage | Chapter | Day | Month-day | Interval | Cost, named once |
+| --- | --- | --- | --- | --- | --- |
+| NS 2 | 371 | 886 | the third of the month beginning 884 | **41**, the longest in the volume, and the chapter says why: the board was bare, the season had not turned, and a stage needs material she could not pay for | **the furnace will not light itself and she cannot light it alone** — a stage cannot be built by one pair of hands |
+| NS 3 | 383 | 924 | the eleventh of the month beginning 914 | 38 | **her hand stops being able to lie** — a line she puts in ink in her own hand is a thing she means; she can still say a false thing out loud; she can no longer enter a false line in any book on that ground and there is no hand she can pay to enter one for her |
+| NS 4 | 394 | 960 | the seventeenth of the month beginning 944 | 36 | **a thing she reaches cannot be put back where it was** |
+| NS 5 | 404 | 999 | the twenty-sixth of the month beginning 974 | 39 | **she cannot be given anything** — a gift enters the column and the column can be read |
+| NS 6 | 412 | 1,037 | the fourth of the month beginning 1,034 | 38 | **she cannot be paid** — a column carrying a person past nine has no last day and no figure against it, so no office on that ground can enter her hours as wages. **The bare board was a season; this is the rest of the run** |
+| NS 7 | 420 | 1,076 | the thirteenth of the month beginning 1,064 | 39 | **the reach will not go out of a room she has not been asked into** — the last free thing she had is gone, and it is taken after she has won the room |
+
+**The realm's series-table cost — *she can no longer be surprised by a person* — was already spent at ch 360 and is
+not re-spent, re-explained or softened anywhere in Volume 7. Six new costs, each named once, each a different
+thing. None is a limb, a hold, a count of breath or a missing finger, so none collides with the body's standing
+injuries. **Three of the six are not losses at all** — three doors closing rather than three things taken away —
+and two of those three do not touch her body in any way. None undoes a Volume 6 closure — the furnace is
+not un-finished, it simply stops lighting itself, which is a different fact and a worse one.**
+
+**Bracket budget: six in sixty — ch 371, 383, 394, 404, 412 and 420 — one at each Nascent Soul stage, in the far-side
+house form character for character, and nowhere else.** Volume 6 spent six in sixty-two and none at Nascent Soul 1
+because the handover was entered by hand. **The form does not change at all six. Ch 394 is where she hears the last
+four words of it and finds they have stopped being true — there is no county within nine days of road — and she
+thinks it, and the layer does not change.**
+
+### The announcement rule, re-derived
+
+**The rule did not change. The listeners did.** The layer still announces and the sound still goes into the ground,
+because there is nobody inside a bound to be told and no county book to take it. **Volume 7's change is that the
+rooms have learned to look.** A stage used to reach a strip three days late, in a fine hand, at a gate post; **from
+ch 371 it happens in daylight in front of two or three people on that ground**, and after that it is discussed in
+rooms she is not in, at figures she cannot check. **And she is entered as a body and not only as a column, which
+is the reason she is the weakest thing in every room she walks into.** A person who can read a column out loud in a
+room is not a clerk and not a cultivator and is on no board on that ground, and the offices cannot produce one,
+because a column is read by whoever has been doing it for sixteen years and there is a post for that and there are
+not two.
+
+### The protagonist — the second rung of *Breaking*, stated so no drafter goes looking
+
+`outline/series.md` §5 gives *Breaking* (Volumes 6–8) as opening the Wall and refusing the Order. **The Wall is the
+Volume 6–10 structural answer and the Order is a Volume 8 antagonist; neither is opened here.** Volume 6 took the
+first rung — it broke a rule about books (**no book on that reach shuts clean**, ch 344) and refused an act (**she
+will not carry a holder into a room**, ch 358).
+
+**Volume 7 takes the second rung, and it is the direction of a sending.** At ch 402 the holding is used, by him, on
+purpose, for the first time, to move an office: an office asks for the holder, the holder answers, and the answer
+goes back up a road and comes down her own road as a question about her. **What breaks is the assumption that a
+line on this ground can only be read downward. What the offices can send for, can now be sent to.** It costs three
+things, all named before they are spent: out of her foundation, told before spent; **the third frame scene away
+from her hearing, at ch 401**; and **she can never again refuse a reading, because a second refusal would be a
+refusal of an answer already given.**
+
+**Yes, Volume 7 takes a third frame scene, and it is pinned at ch 401.** He has been on the page that way exactly
+twice in six volumes — ch 272 (which made him findable) and ch 338 (which made him sendable) — and the third makes
+him **answerable**, which is a third thing and worse than being sendable, because an answer can be quoted.
+**Hand is spent once in Volume 7 (ch 402) and refused once, out loud, at ch 419.** Merit settles three times, each
+on a listed piece of work cleared and not on a death, and nothing in Volume 7 kills anybody. **No figure of what
+is left of him is stated on any page.**
+
+### Two irreversible decisions, both hers, in different hands
+
+1. **Ch 388, a yes and not a fight: she says a person's name out loud in a room and asks for something.** The first
+   time since the Hunter, five months back on a cart track in wet grass, that she has asked anybody for anything.
+   **It is entered in a room that keeps things and it cannot be unsaid.**
+2. **Ch 417, and it is the volume's own: she declines to know what the fine hand says about her.** A man whose job
+   it is will read it to her, once, in a room, on the ordinary condition that she confirms or denies it. **She says
+   no. A denial is an entry.** Nothing is written anywhere, no book fails to shut, no circuit breaks, and she goes
+   on not knowing, forever, on purpose. **Volume 6's break was a circuit broken, Volume 6's refusal was a permanent
+   entry in a building she cannot reach, and Volume 7's refusal is an answer withheld: three acts, three shapes,
+   none a restatement of another.**
+
+### The four pressures, no two consecutive, none of the forbidden list
+
+**0001 rooms bigger than she is** (361–374) · **0002 what she is worth in a room** (375–389) · **0003 the reach on
+purpose** (390–404) · **0004 what it costs to be right** (405–420). **None is a tending, a ration, a hiring, a
+crossing, an audit, an examination, a hunt, a signature, a keeping, a debt, a family paper, an ash or a
+confinement, and none is Volume 6's *work without hire*.**
+
+**Batch 0003 owns the break and Batch 0004 owns the refusal, and neither restates the other's as its own.** Each
+batch carries at least one scene of physical risk or a real deadline, and each carries an irreversible step.
+
+### The midpoint (ch 390) and the volume climax (ch 417–420)
+
+**Midpoint:** Rao, who has kept the columns on the third floor for sixteen years, holds no furnace, cannot lift,
+and reads Ning Yan's column back to her in the ordinary voice in a room — **and the column contains a refusal, and
+it is the only refusal in the set, and nobody on that floor has ever had one to read.** The reversal is not a fact
+about her strength: it is that what she has been trying to be paid for and what the rooms price her at are two
+different things. **She was taken for her column, and a column's one talent is that it can refuse.** *The strongest
+thing in this building is a column* — once, in her mouth, at ch 390, and nowhere else in the volume.
+
+**Climax:** the refusal at ch 417 · the bill at ch 418 · **the Hand refused once at ch 419** · the lifting floor at
+ch 419–420, a bar, a chain, a man under a dressed stone, a bell that has already gone, **and a stone moved about the
+length of her own arm that cannot be put back** — **and ch 420, Nascent Soul 7 and a column read out loud in the
+biggest room she has stood in, where she is the smallest thing in it.**
+
+### What the structural answer does in Volume 7
+
+**Six mouths, six new people, none of them one of Volume 6's seven, four or five sentences each, never a speech:**
+a carter (ch 365) · a gate man (ch 379) · **Rao** (ch 391) · a woman who drives clay (ch 398) · a copying man below
+Rao (ch 409) · **Geng**, who runs the lifting floor (ch 415). **The tenth part is still not given and nothing proves
+the crews wrong**, the origin answer is Volume 11's and the moral answer is Volumes 15–16's, and the surface answer
+was paid once at ch 267 and is not re-voiced.
+
+### Three new named people, and one that stays unnamed
+
+**Rao**, who keeps the columns on the third floor, sixteen years, and is the volume's reversal. **Dai**, whose job
+it is to read the fine hand, who offers once and is refused once and is right both times. **Geng**, who runs the
+lifting floor, who is strong, who is correct, and whose floor is a block short for a week because of what she did
+to it. **The keeper with the paste pot stays unnamed and gets the heaviest scene in the volume**, and **the Hunter
+is on the page exactly twice, once in Batch 0001 and once in Batch 0004, and she asks him both times.**
+
+### What is still Volume 8's, and was left unspent here
+
+`outline/series.md` §6 item 5 gives the Order of the Recruited to Volume 8 and **not one word of it is on Volume 7's
+page.** The new question hands it over anyway: **the last strip did not come back on the cart at all, she has never
+been east of here, and something in a country that big has been sending for her by name since before she knew she
+was being read.** The question Volume 7 opens onto it: *what happens to the first person who comes for the reader.*
+
+### Carried forward, measured and not re-derived
+
+Every item of `## Volume 6 close — what Volume 7 inherits` holds. **Volume 7's allowances, all measured against
+Volume 6 rather than promised:** `reconciled` 0 · `plate` 0 · `licence`/`license` 0 · `clearance` 0 ·
+`countersignature` 0 · `kiln-born` 0 · `MEMBER ABSENT` 0 · `Ledger` 0 · `tribulation` 0 · `Feng` 0 · `Ning Wu` 0 ·
+`Anchor`/`Sisterhood`/`Scribe`/`bargain` 0 · **360 chapter headings manuscript-wide, against which sixty new titles
+must be unique** · **the `nobody` family closed Volume 6 at 142 across sixty-two chapters and Volume 7's allowance
+is under sixty across sixty, which is the one measured number in Volume 6 above the book's own guidance.**
+
+**Volume 7's construction budget is in `outline/volume-07.md` under *The construction budget, carried from Volume 6
+and re-measured* and again, in the batch's own form, in `workspace/volume-07-batch-0001/PROMPT.md`.**
 
 ## Volume 6 close audit — OPENED
 

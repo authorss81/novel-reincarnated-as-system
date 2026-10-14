@@ -859,3 +859,59 @@ needs: **a man the reader has seen in a room, in his own frame, twice.**
 **Full table, every repair and the hand-off: `state/current.md` under `## Volume 6 close audit — OPENED` and `##
 Volume 6 close audit — CLOSED`. Figures re-derived from the chapters: `state/continuity.md` under `## Volume 6 close
 — repairs`. Next phase: **the Volume 7 planning phase**, which writes `outline/volume-07.md`.**
+
+---
+
+## Volume 7 planned — *Stronger Things*, ch 361–420
+
+**`outline/volume-07.md` was written by the Volume 7 planning phase. No Volume 7 chapter exists. This block is the
+plan, not a summary of prose, and it is here so that the Volume 7 drafting phases and the Volume 7 close have a
+single place to walk against.**
+
+### The shape of it
+
+Sixty chapters, day 849 to day 1,090, four batches of 14 / 15 / 15 / 16, six Nascent Soul stages, six bracketed layer
+lines. Goal fixed by `outline/series.md` §9 and not re-planned: *In this volume, Ning Yan must survive being the
+weakest person in every room she walks into, or she learns that strength was never what she was taken for.*
+
+### The four batches
+
+| Batch | Chapters | Days | Pressure | Midpoint | Climax | Irreversible step |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0001 | 361–374 (14) | 849–899 | **rooms bigger than she is** | ch 368 — the yard of nine men where she is the smallest thing in it | ch 371 — Nascent Soul 2, and thirteen days of a shed with a fire in it that does not come up | the first stage taken in the open with people watching (ch 371) |
+| 0002 | 375–389 (15) | 900–950 | **what she is worth in a room** | ch 383 — Nascent Soul 3, and a false line can no longer be entered | ch 388 — she says a name out loud and asks | **she asks, and cannot un-ask** |
+| 0003 | 390–404 (15) | 951–1,020 | **the reach on purpose** | ch 394 — Nascent Soul 4, and it does not go back | ch 401–402 — the third frame scene and the break | **the answer goes up, and she can never refuse a reading again** |
+| 0004 | 405–420 (16) | 1,021–1,090 | **what it costs to be right** | ch 412 — Nascent Soul 6, and the bare board becomes the rest of the run | ch 417 the refusal · ch 419 the lift and the Hand refused · ch 420 Nascent Soul 7 and the column read out loud | **she declines to know what the fine hand says about her, forever, on purpose** |
+
+### The six stages, and the six costs, each named once
+
+- **Nascent Soul 2 · ch 371 · day 886 · the third of a month · 41 days after NS 1** — **the furnace will not light
+  itself and she cannot light it alone.**
+- **Nascent Soul 3 · ch 383 · day 924 · the eleventh · 38 days** — **her hand stops being able to lie.**
+- **Nascent Soul 4 · ch 394 · day 960 · the seventeenth · 36 days** — **a thing she reaches cannot be put back where
+  it was.**
+- **Nascent Soul 5 · ch 404 · day 999 · the twenty-sixth · 39 days** — **she cannot be given anything.**
+- **Nascent Soul 6 · ch 412 · day 1,037 · the fourth · 38 days** — **she cannot be paid.**
+- **Nascent Soul 7 · ch 420 · day 1,076 · the thirteenth · 39 days** — **the reach will not go out of a room she has
+  not been asked into.**
+
+### The three new people, and the one that stays unnamed
+
+**Rao** keeps the columns on the third floor, sixteen years, and is the midpoint. **Dai** can read the fine hand and
+offers once and is refused once. **Geng** runs the lifting floor, is strong and correct, and his floor is a block
+short for a week. **The keeper with the paste pot stays unnamed**, as in Volume 6, and carries the heaviest scene.
+
+### The structural answer, six mouths
+
+ch 365 (a carter) · ch 379 (a gate man) · ch 391 (Rao) · ch 398 (a woman who drives clay) · ch 409 (a copying man
+below Rao) · ch 415 (Geng). **Four or five sentences each, never as a speech. The tenth part is not given and nothing
+proves the crews wrong.**
+
+### The hand-off to Volume 8
+
+**Not one word of the Order is on Volume 7's page.** The question Volume 7 opens onto it: *the last strip went east
+and did not come back, she has never been east of here, and something in a country that big has been sending for
+her by name since before she knew she was being read — what happens to the first person who comes for the reader.*
+
+**Figures:** 95,110 words of body prose stand on the page for Volume 6 (24,529 · 23,975 · 25,056 · 21,550 by batch),
+360 `#` headings, zero collisions. **Volume 7 contributes zero words and zero headings until it is drafted.**

@@ -6351,3 +6351,166 @@ the rest were already right.**
    **Carried forward as a known condition.** Separately, `state/phase-ledger.json` is referenced by both prompts but
    is neither committed nor gitignored — it is created by the controller at runtime, and controller-owned files are
    not edited here.
+
+---
+
+## Volume 7 planned — what `outline/volume-07.md` fixed, and what Batch 0001 inherits
+
+**Recorded by the Volume 7 planning phase. No chapter prose was written in it. `outline/series.md` and
+`outline/ending.md` were not opened and are unchanged. `outline/volume-07.md` exists and is 784 lines;
+`workspace/volume-07-batch-0001/PROMPT.md` is its first drafting card and is the only prompt that phase created.**
+
+**Nothing in this block is measured against ch 361–374, because no Volume 7 chapter exists. Everything below is
+the plan, and the first drafting phase's construction budget is measured against the plan and against the chapters
+of Volume 6, not against a promise.**
+
+### The fixed items
+
+- **Title, range and goal are fixed by `outline/series.md` §9 and were not re-planned:** *Stronger Things*,
+  ch 361–420, sixty chapters.
+- **The volume runs day 849 to day 1,090 — 242 days over sixty chapters**, against Volume 6's 228 days over
+  sixty-two. **Month-day is `((day − 134) mod 30) + 1`, day 134 was the first of a month, and months are thirty
+  days.** Months in Volume 7 begin on days 854 · 884 · 914 · 944 · 974 · 1,004 · 1,034 · 1,064.
+- **Four batches, fourteen / fifteen / fifteen / sixteen chapters**, pressure: rooms bigger than she is · what she
+  is worth in a room · the reach on purpose · what it costs to be right. **No two consecutive, and none of them a
+  tending, a ration, a hiring, a crossing, an audit, an examination, a hunt, a signature, a keeping, a debt, a
+  family paper, an ash or a confinement.**
+
+### The day table, every pinned day re-derived under the month rule
+
+| Stage | Ch | Day | Month-day | Interval | Cost, named once |
+| --- | --- | --- | --- | --- | --- |
+| Nascent Soul 1 (already on the page) | 360 | 845 | the twenty-second of the month beginning 824 | — | spent at ch 360: the surprise does not come back |
+| **Nascent Soul 2** | **371** | **886** | the **third** of the month beginning 884 | **41** | **the furnace will not light itself and she cannot light it alone** |
+| **Nascent Soul 3** | **383** | **924** | the **eleventh** of the month beginning 914 | **38** | **her hand stops being able to lie** |
+| **Nascent Soul 4** | **394** | **960** | the **seventeenth** of the month beginning 944 | **36** | **a thing she reaches cannot be put back where it was** |
+| **Nascent Soul 5** | **404** | **999** | the **twenty-sixth** of the month beginning 974 | **39** | **she cannot be given anything** |
+| **Nascent Soul 6** | **412** | **1,037** | the **fourth** of the month beginning 1,034 | **38** | **she cannot be paid** |
+| **Nascent Soul 7** | **420** | **1,076** | the **thirteenth** of the month beginning 1,064 | **39** | **the reach will not go out of a room she has not been asked into** |
+
+- **Six stages in about eight months, real intervals of 41, 38, 36, 39, 38 and 39 days, no skipped breakthrough,
+  no tribulation.** Volume 6 ran seven stages in about seven months at 38, 36, 38, 37, 37, 32 and 27. **The 41 is
+  the longest interval in either volume and the ch 371 chapter is required to say why it is that long** — the board
+  was bare, the season had not turned, and a stage needs material she had no way to pay for.
+- **None of the six costs is a limb, a hold, a count of breath or a missing finger**, so none collides with the
+  body's standing injuries. **Three of the six are not losses at all** — the hand that cannot lie, the gift that
+  cannot be taken and the pay that cannot be entered are three doors closing rather than three things taken away,
+  and **two of those three do not touch her body in any way. None undoes a Volume 6 closure:** the furnace is not
+  un-finished, it simply stops lighting itself, which is a different fact and a worse one; the heavy end stays
+  closed; the bar stays a two-handed tool; the refusal at ch 358 stands in its book and nothing takes it out.
+- **The series-table cost of Nascent Soul — *she can no longer be surprised by a person* — is already spent at
+  ch 360 and is not re-spent, re-explained or softened anywhere in Volume 7.**
+
+### Bracket budget for Volume 7, honest and checkable by grep
+
+**Six in sixty. One at each Nascent Soul stage, at ch 371, 383, 394, 404, 412 and 420, and nowhere else.** The far-side
+house form is Volume 6's, character for character, with only the realm and the number changed:
+
+[Ning Yan, past the line, servant-born, under no ceiling any county holds. Nascent Soul, stage two, is held.]
+
+**Volume 6 spent six in sixty-two and none at Nascent Soul 1, because the handover was entered by hand and that
+silence was the point. The form does not change at any of Volume 7's six.** Ch 394 is the one chapter that hears
+the last four words of it and finds they have stopped being true — there is no county within nine days of road —
+and she thinks it, and the layer does not change.
+
+### The announcement rule, re-derived for Volume 7
+
+**The rule did not change. The listeners did.** The layer still announces; the sound still goes into the ground,
+because there is nobody inside a bound to be told and no county book to take it. **What changed is that the rooms
+past the mill have learned to look.** A stage used to reach a strip about three days later, in the fine hand, at a
+gate post. **From ch 371 it happens in daylight in front of two or three people on that ground**, and after that it
+is a thing discussed in rooms she is not in, at figures she cannot check.
+
+**The consequence that drives the volume: from ch 371 she is entered as a body and not only as a column, and that
+is the reason she is the weakest thing in every room she walks into.** Nobody announces it. A man at a bar looks at
+her and works out where she goes in the order.
+
+### The protagonist, and the second rung of *Breaking*
+
+- **`outline/series.md` §4 gives him Hand across Volumes 6–8.** Volume 6 took the first volume of it. Volume 7
+  takes the second half and the second rung.
+- **The second rung is the direction of a sending.** At ch 402 the holding is used, by him, on purpose, for the
+  first time, to move an office. **What breaks is the assumption that a line on that ground can only be read
+  downward.** The Wall is not opened, the Order is not on the page, and no office above the copying floor or the
+  second office is named or entered.
+- **The third frame scene is pinned at ch 401**, away from her hearing, in his own frame. **He has been on the
+  page that way exactly twice in six volumes, at ch 272 and ch 338.** The third makes him **answerable**, which is
+  a third thing and worse than being sendable, because an answer can be quoted.
+- **Hand is spent once (ch 402) and refused once, out loud (ch 419).** Each spending is told before spent, out of
+  her foundation, and does not come back. **Nothing in Volume 7 kills anybody.**
+- **Merit settles three times** — once in Batch 0001, once in Batch 0003, once in Batch 0004 — each on a listed
+  piece of work cleared past the mill, each share told before spent. **No figure of what is left of him is stated
+  on any page**, and the last figure in the manuscript is still *about six weeks* at ch 236.
+- **Ledger is never ordered, held, priced, refused or thought about**, and `grep -i Ledger` returns **0** across
+  all sixty-two files of Volume 6 and returns 0 on Volume 7's page. It took two close repairs at ch 306 and ch 319
+  to make Volume 6's zero true rather than approximately true, so this is measured and not asserted.
+
+### Two irreversible decisions
+
+1. **Ch 388, hers.** She says a person's name out loud in a room and asks for something — the first time in ten
+   months she has asked anybody for anything. It is entered in a room that keeps things and it cannot be unsaid.
+2. **Ch 417, hers, and it is the volume's own.** She declines to know what the fine hand says about her. A denial
+   is an entry, so she goes on not knowing, forever, on purpose. **Nothing is written anywhere, no book fails to
+   shut and no circuit breaks — the bill is entirely hers.**
+
+**Volume 6's break was a circuit broken (ch 344), Volume 6's refusal was a permanent entry in a building she
+cannot reach (ch 358), and Volume 7's refusal is an answer withheld (ch 417): three acts in three consecutive
+volumes, three different shapes, none a restatement of another.**
+
+### The structural answer, continued and not paid
+
+**Six mouths, six new people, none of them one of Volume 6's seven, four or five sentences each, never a speech:**
+a carter (ch 365) · a gate man (ch 379) · **Rao**, the column-keeper (ch 391) · a woman who drives clay (ch 398) ·
+a copying man one floor below Rao (ch 409) · **Geng**, who runs the lifting floor (ch 415). **The tenth part is not
+given and nothing proves the crews wrong.** The origin answer (Volume 11) and the moral answer (Volumes 15–16) are
+not previewed, and the surface answer is not re-voiced.
+
+### Three new named people, chosen so none collides with an existing one
+
+**Rao** (keeps the columns on the third floor, sixteen years — the midpoint's reversal) · **Dai** (whose job it is
+to read the fine hand — offers once, refused once, right both times) · **Geng** (runs the lifting floor — strong,
+correct, and a block short for a week). **`Mei`, `Xie` and `Du` were rejected as bare surnames because the
+manuscript already has Mei Jiu, Lu Mei, Xie Shuo, Xie Qiao and Du Hong inside the bound.** **The keeper with the
+paste pot stays unnamed**, as he was in Volume 6, and is given the heaviest scene in Volume 7.
+
+### Construction budget carried into Volume 7 — measured against Volume 6, not promised
+
+Every figure in the right-hand column of `outline/volume-07.md` § *The construction budget, carried from Volume 6
+and re-measured* is a Volume 6 measurement or a stated Volume 7 allowance. **The two that bind hardest:**
+
+- **The bracket budget: six in sixty, at ch 371, 383, 394, 404, 412 and 420, and zero anywhere else.** Volume 6's
+  was six in sixty-two at ch 310, 321, 332, 342, 352 and 357 with none at ch 360. **A budget that records zero while
+  instances stand is the failure this manuscript has caught itself making twice, and a budget that records a count
+  where there is none is the same lie with the sign flipped — which is how the Batch 0004 `sending: 7` row was
+  wrong and had to be corrected.**
+- **The `nobody` family: nobody 88 · no one 4 · not one 50 · family 142** across Volume 6's sixty-two chapters,
+  about 2.3 a chapter. **That is the one measured number in Volume 6 above the book's own guidance** and Volume 7's
+  allowance is **under sixty across sixty chapters**, which is about one a chapter. The true count is written into
+  the continuity block whatever it is.
+
+**Volume 6's zeros, re-measured at this planning phase against `chapters/volume-06/` and unchanged:**
+`reconciled` **0** · `plate` **0** · `licence` **0** · `license` **0** · `clearance` **0** ·
+`countersignature` **0** · `kiln-born` **0** · `MEMBER ABSENT` **0** · `Ledger` **0** · `tribulation` **0** ·
+`Feng` **0** · `nobody` **88**. **360 `#` headings across the manuscript and zero collisions**, against which
+Volume 7's sixty titles must be unique. **Wei Ran appears once in Volume 6, at ch 302, and Volume 7 gives her at
+most two cards and nothing more than that.**
+
+### What Batch 0001 inherits, in one paragraph
+
+**Day 849, the twenty-sixth of a month beginning on day 824. At a gate and a shed three miles east of a mill whose
+wheel has not turned.** Nascent Soul 1, taken by hand and not by sound on day 845 with no bracket, and a reach that
+began once and does not come back. Four fingers' grip on one hand, the right arm open half the time, eight of eleven
+holds, five counts of breath on a loaded reach, the bar needing two hands, the licence never opened, the plate worn
+and undescribed. **No wages, no season, no booking; a gate at one copper a day, bread five days in seven, about half
+a box of clay, and the board at the works bare until the season turns. A furnace that lights itself.** Three books
+that can read her, one of them a copy made upward in a hand she cannot read; a refusal entered in a counter's book
+in a building she cannot reach; her own book on a stone under a keeper's ladder at a post. He is readable, findable,
+held and sendable, and Volume 7 opens being sent for at ch 402 and pays it out on the page.
+
+### What Batch 0001 must not do, pinned
+
+**One bracket, at ch 371, and no other.** No Hand — first spent ch 402, refused ch 419, both outside this batch. No
+frame scene. **Being sent for is not opened, foreshadowed in his mouth, or had happen off-page.** No refusal — the
+volume's is ch 417. No office named, no word of the Order, no Wei Ran, no Feng, no Ning Wu, no payment and no
+listing. The register is not read, the plate is not described, MEMBER ABSENT is carried and not raised, the year of
+non-forgiveness is not mentioned once, and no villain is created.

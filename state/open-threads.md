@@ -840,3 +840,73 @@ Volume 6 Batch 0003 (ch 330–345) — SENDING AND BEING SENT FOR*, *Volume 6 ru
   and is off page between. **Ning Yan never says her mother's name.**
 - **The protagonist is on the page in his own right twice in six volumes** — ch 272 and ch 338 — and Volume 7 may
   use the form again and may not assume more of him than those two chapters earned.
+
+---
+
+## Volume 7 planned — what Volume 7 now owns, opened on the plan and not on the page
+
+**Recorded by the Volume 7 planning phase at `outline/volume-07.md`. No chapter prose was written in it. Nothing in
+this block has happened yet: this is what the volume is planned to open, close and leave open, so that the first
+drafting phase does not have to re-derive it and the volume close has something to walk against.**
+
+### Threads inherited from the Volume 6 close and unchanged by the plan
+
+| Thread | Owner | Planned resolution in Volume 7 | State at ch 360 |
+| --- | --- | --- | --- |
+| **The rooms that were refused a presentation** | series | **Vol 7 — the volume's own central pressure** | **OPEN, AND IT IS THE PRESSURE.** From ch 358 the offices read her where she stands instead of sending for her. Volume 7 is what happens when the rooms that read her are larger than any room she has stood in |
+| **Being sent for (his condition since ch 338)** | Yuan | **Vol 7, ch 401–403 — opened on the page, paid on the page** | **OPEN AND DELIBERATELY UNRESOLVED AT THE VOLUME 6 CLOSE.** Volume 6 neither resolved it nor had it happen off-page. **Volume 7 opens it at ch 401 and answers it at ch 402: the holding is used on purpose to move an office, and the answer comes down her road as a question about her.** Not foreshadowed in his mouth before then, and not resolved off-page |
+| **The fine hand** | series | **Vol 7, ch 417 — the volume's refusal** | **OPEN.** She has seen its output three times (ch 336, 357, 360) and has never read a letter of it. **At ch 417 a man whose job it is offers to read it to her once, on the ordinary condition that she confirms or denies it, and she refuses, because a denial is an entry. She goes on not knowing, forever, on purpose** |
+| **The cross-reference** | series | **Vol 6–7, running** | **LIVE.** Every month a man with a brush copies her column out against another book by hand. He copies down and has never in eleven years copied a thing upward and is not the man who could |
+| **The Hunter's request** | Bai Zhu | **Still open at the last page of Volume 7** | **PENDING.** On the page at ch 335 and ch 347. He is on the page exactly twice in Volume 7, ch 361–374 and ch 405–420, nine feet off, notebook shut, buying nothing, and **she asks him both times**. A Wall writ is not issued to a field agent and the line's own people still do not know she exists |
+| **The structural answer** | series | **Vol 7, continued — six mouths, not paid** | **BEGUN IN SEVEN MOUTHS.** Volume 7 continues it at ch 365, 379, 391, 398, 409 and 415, in six new mouths, four or five sentences each, never as a speech. **The tenth part is not given and nothing proves the crews wrong** |
+
+### Threads the plan opens, and the pages they are pinned to
+
+| Thread | Pinned at | What it is |
+| --- | --- | --- |
+| **The first thing that has ever gone east** | ch 365 | From ch 358 the offices read her where she stands, and the first thing they do with a reading they cannot send for is read it out of the room. A strip goes east on the end-of-month cart and **does not come back on the cart that takes the empty trays up**, and nobody on that ground has ever sent anything east. **This is the thread Volume 8 inherits** |
+| **The rooms have learned to look** | ch 371 | A stage used to reach a strip three days late, in a fine hand, at a gate post. **From ch 371 it happens in daylight in front of two or three people on that ground**, and she is entered as a body and not only as a column. **This is the mechanism of the volume's central pressure and it is the reason she is the weakest thing in every room** |
+| **A stage cannot be built by one pair of hands** | ch 371 | NS 2's cost: the furnace will not light itself and she cannot light it alone. **It is the engine of the whole volume — she must be with somebody every time her furnace lights, which is the reason she ends up in rooms** |
+| **Her hand stops being able to lie** | ch 383 | NS 3's cost. She can no longer enter a false line in any book on that ground, and there is no hand she can pay to enter one for her |
+| **A thing she reaches cannot be put back** | ch 394 | NS 4's cost, and it is paid in public on the lifting floor at ch 419–420, where the floor is a block short for a week |
+| **She cannot be given anything** | ch 404 | NS 5's cost, and its first bill is a cup of water handed to her across a bench in ch 405, with no romance in it anywhere and with her doing the refusing |
+| **She cannot be paid** | ch 412 | NS 6's cost. The bare board was a season; this is the rest of the run. **It closes the pay question for the rest of the book and it is not the same thing as Volume 6's work without hire** |
+| **She can never again refuse a reading** | ch 402 | The cost of the break, paid out of her and not asked for. A second refusal would be a refusal of an answer already given, and an office holding an answer already given does not accept a second one. **Nothing takes the refusal at ch 358 out of its book** |
+| **The third frame scene** | ch 401 | Away from her hearing, in his own frame. He is **answerable** — a third thing, worse than being sendable, because an answer can be quoted. **His unentered state, his unnamed state and the date of the morning he died all stay gone** |
+| **What she was taken for** | ch 390, paid at ch 420 | **The midpoint is the reversal and the volume's last line is its answer.** She was taken for her column, and a column's one talent is that it can refuse, and nobody on that floor has ever had one to read. At ch 420 she reads a column out loud in the biggest room she has stood in, and it is the only thing she can do that has cost her nothing but time |
+
+### Held, confirmed, and not touched by the Volume 7 plan
+
+- The register still reads *reconciled* and **Volume 7's allowance for reading it is 0**. The Clay Plate is worn and
+  **not described**. MEMBER ABSENT stands three times and **may only be carried, never raised as a surprise**. The
+  relicensed licence is **never opened**, and no card may say whether it would need relicensing.
+- **The year of non-forgiveness is still running** and **Volume 7's allowance for mentioning it is 0** — as in
+  Volume 6, where the subject stood not once in sixty-two chapters.
+- **Ledger returns zero across Volume 6 and Volume 7's allowance is 0.** Hand is spent once in Volume 7 (ch 402) and
+  refused once (ch 419), and neither is in Batch 0001. Merit settles three times and **nothing in Volume 7 kills
+  anybody.**
+- **No office is named in Volume 6 and Volume 7 names none.** Nothing above the copying floor, nothing above the
+  second office, and nothing above the Standing Office of the Second Account is entered, described or named.
+- **No harem and nothing a romance.** Wei Ran has **at most two cards in Volume 7, one in Batch 0002 and one in
+  Batch 0004**, and is a trade, a team, a rate and an opinion and nothing else. **Ning Yan never says her mother's
+  name.**
+- **Feng does not appear in Volume 7 at all** — no scene, no stair, no hand, no quarter — and no second Lung and no
+  second appointment, both of which are Volume 11's.
+- The claim is ANSWERED and not reopened. Hou Sanliang is paid, never met, and not on the page. Ning Bo's account is
+  discharged where it can be closed and **Ning Wu's decade is a line with no mark on it, and neither is on the page
+  in Volume 7 and no card may put either on it.**
+- **The surface answer is paid once at ch 267 and is not re-voiced.** The origin answer is Volume 11's and the moral
+  answer is Volumes 15–16's, and **no card in Volume 7 may preview either.**
+- **The Order of the Recruited is a Volume 8 antagonist and not one word of it is on Volume 7's page.**
+
+### Where the Volume 7 close will find the run
+
+**If Volume 7 delivers what the plan says it delivers:** she is at **Nascent Soul 7** with a furnace that will not
+light itself, a hand that cannot write a false line, four fingers and a thumb on one hand, an arm open half the
+time, eight of eleven holds, a licence she has never opened, **no way ever to be paid and no way ever to be given
+anything**, a refusal standing in a book she cannot reach and **a second refusal standing nowhere at all**, and a
+column she has read out loud in a room full of people who could break her with a hand. **And the strip that went
+east did not come back.**
+
+**That is the position Volume 8 opens on, and it is stated here so the volume close has something to walk against
+rather than a hope.**
