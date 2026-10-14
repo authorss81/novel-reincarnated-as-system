@@ -3102,7 +3102,9 @@ Method: fifteen files in `chapters/volume-08/`, body prose (the `#` title line a
 
 **Fourteen chapters, day 1,263 to day 1,340, 29,125 words of body prose, average ~2,080, after the batch review repair recorded below.** Body prose is the `#` title line excluded and every `##` section heading counted as prose. Per file: **465 2,463 · 466 1,817 · 467 2,313 · 468 1,873 · 469 1,796 · 470 2,560 · 471 2,042 · 472 2,109 · 473 2,041 · 474 2,549 · 475 1,950 · 476 1,825 · 477 1,908 · 478 1,879.** Every chapter is above the 1,300 floor and none is above the 2,700 guide; **ch 469 at 1,796 is the only chapter under the 1,800 guide in the batch.** No paragraph over 95 words; longest 95 at ch 471, five paragraphs over 90, 915 paragraphs measured. **No chapter in ch 1–464 was opened.** The figures this block carried before the repair — 29,186, average ~2,085, per file 465 2,453 · 466 1,819 · 467 2,313 · 468 1,873 · 469 1,796 · 470 2,569 · 471 2,042 · 472 2,109 · 473 2,042 · 474 2,602 · 475 1,950 · 476 1,814 · 477 1,908 · 478 1,896 — are corrected in place and were correct when taken.**
 
-**Method note, corrected in place because it was wrong, and the correction settles a discrepancy three batches old:** the sentence this note stood on said the script counted *every line not beginning `#`*, which returns **27,666 / 21,681 / 27,879 / 28,620** for Batches 0001–0004 and **105,846** for the volume. **The figures the batch and volume tables actually carry — 28,334 / 21,869 / 28,341 / 29,125 and 107,669 — come from a script that excludes the `#` chapter title line only and counts `##` section headings as prose.** **The 668 / 188 / 462 that the Batch 0004 phase recorded as unexplained is exactly the `##` section-heading word count in each of Batches 0001, 0002 and 0003: 28,334 − 27,666 = 668 · 21,869 − 21,681 = 188 · 28,341 − 27,879 = 462.** Those three batches measured their own tables on the second convention and the volume re-measure used the first. **No batch figure was ever wrong and no chapter before ch 465 was touched. Two conventions were in use at once and the note misdescribed which one ran; it now describes both and carries both sets.**
+**Method note, corrected a second time in place by the Volume 8 close, which settles the convention.** The note as it stood said the script counted *every line not beginning `#`*, which returns **27,666 / 21,681 / 27,879 / 28,620** for Batches 0001–0004 and **105,846** for the volume. **The figures the batch and volume tables above actually carry — 28,334 / 21,869 / 28,341 / 29,125 and 107,669 — come from a script that excludes the `#` chapter title line only and counts `##` section headings as prose.** **The 668 / 188 / 462 that the Batch 0004 phase recorded as unexplained is exactly the `##` section-heading word count in each of Batches 0001, 0002 and 0003: 28,334 − 27,666 = 668 · 21,869 − 21,681 = 188 · 28,341 − 27,879 = 462.** Those three batches measured their own tables with headings excluded and the volume re-measure counted them. **No batch figure was ever wrong and no chapter before ch 465 was touched. Two conventions were in use at once and the note misdescribed which one ran.**
+
+**THE CONVENTION IS NOW SETTLED, ONCE, FOR VOLUME 8. METHOD B IS THE HOUSE METHOD FOR VOLUME 8: body prose is every line not beginning `#`, so the `#` chapter title line and every `##` section heading are excluded.** Method B is adopted because Batches 0001, 0002 and 0003 each measured their own tables under it, because Volume 7's close used it, and because it is the more conservative of the two. **On method B the volume is 105,846 words of body prose over fifty-eight chapters, average ~1,825, by batch 27,666 · 21,681 · 27,879 · 28,620. Method A — the `#` title line excluded and every `##` heading counted as prose — is recorded beside every figure in this run and travels with it: 28,334 · 21,869 · 28,341 · 29,125, volume 107,669, average ~1,856. The block above is left standing as it was written on method A and was correct when taken; where a batch block and the Volume 8 close block disagree, the close block is right.** Full table at §*Volume 8 close — the volume as a whole*.
 
 ### The day table, derived from the chapters and verified under `((day − 134) mod 30) + 1`
 
@@ -3203,7 +3205,7 @@ Feng 0. Ning Wu 0. Wen 0. Shen Xiu 0. Qiu, Mei Jiu, Du Hong, the sponsors 0. **T
 
 ### Volume 8 as a whole, closed, re-measured
 
-**`chapters/volume-08/` holds ch 421–478, fifty-eight chapters, 107,669 words of body prose**, by batch **0001 (ch 421–434) 28,334 · 0002 (ch 435–449) 21,869 · 0003 (ch 450–464) 28,341 · 0004 (ch 465–478) 29,125**, average ~1,856, counting the `#` title line as excluded and every `##` section heading as prose. **On the other convention, title and section headings both excluded, the same file set is 105,846 — 0001 27,666 · 0002 21,681 · 0003 27,879 · 0004 28,620. Both figures are recorded here because this run has published both at different times, and a reader of either one alone will think the other is wrong. The Batch 0004 figure moved from 29,186 to 29,125 in the batch review repair and the volume figure from 107,730 to 107,669 with it; the first three are untouched by that repair.** **The 0001, 0002 and 0003 figures reproduce higher than their own recorded blocks by 668, 188 and 462 words, and that discrepancy is now settled: it is exactly the `##` section-heading word count in each of those three batches, because those tables were measured with headings excluded and this one with headings counted. See the method note at §*Established facts, Volume 8 Batch 0004*. Nothing in ch 1–464 was opened by any of this.** **478 `#` headings manuscript-wide, zero collisions, longest 39 characters.** Day 1,091 to day 1,340, 250 days. **Two bracketed layer lines in fifty-eight, at ch 434 and ch 470, in the far-side house form character for character with only the stage number changed — the budget is spent and Volume 9 opens on no bracket in Volume 8's tail.**
+**`chapters/volume-08/` holds ch 421–478, fifty-eight chapters, 107,669 words of body prose**, by batch **0001 (ch 421–434) 28,334 · 0002 (ch 435–449) 21,869 · 0003 (ch 450–464) 28,341 · 0004 (ch 465–478) 29,125**, average ~1,856, counting the `#` title line as excluded and every `##` section heading as prose. **On the other convention, title and section headings both excluded, the same file set is 105,846 — 0001 27,666 · 0002 21,681 · 0003 27,879 · 0004 28,620. Both figures are recorded here because this run has published both at different times, and a reader of either one alone will think the other is wrong. The Batch 0004 figure moved from 29,186 to 29,125 in the batch review repair and the volume figure from 107,730 to 107,669 with it; the first three are untouched by that repair.** **THE VOLUME 8 CLOSE HAS SETTLED THE CONVENTION, AND IT IS METHOD B — the `#` title line and every `##` section heading excluded. ON THAT METHOD THE VOLUME IS 105,846 WORDS OF BODY PROSE OVER FIFTY-EIGHT CHAPTERS, AVERAGE ~1,825, BY BATCH 27,666 · 21,681 · 27,879 · 28,620.** The method A figures in this paragraph stand as they were written and are correct on their own convention; **where this block and §*Volume 8 close — the volume as a whole* disagree, the close block is right.** **478 `#` headings manuscript-wide, zero collisions, longest 39 characters.** Day 1,091 to day 1,340, 250 days. **Two bracketed layer lines in fifty-eight, at ch 434 and ch 470, in the far-side house form character for character with only the stage number changed — the budget is spent and Volume 9 opens on no bracket in Volume 8's tail.**
 
 **Twenty-nine chapter files in Volume 8 have no trailing newline** — Batch 0001's fourteen, Batch 0003's fifteen, and none in Batch 0002 or Batch 0004. **The Volume 7 close fixed 250 such files as an operational repair; Volume 8 has reintroduced 29.** Not a word-count error, and the per-file figures above are unaffected, but it is how a chapter that ends without a line break collides with the next file in a concatenated read. **Recorded for the Volume 8 close, not fixed here.**
 
@@ -3316,3 +3318,292 @@ Method: fourteen files in `chapters/volume-08/`, body prose (the `#` title line 
 #### What this repair did not do
 
 **It did not re-open a chapter to re-decide a beat, and it did not reopen the review's clean findings.** The review confirmed the refusal at ch 474 as the volume's irreversible step, confirmed that the silence after it is the real cost, and confirmed all fourteen cards land. **It did not audit Volume 8. That is what `workspace/volume-08-close/PROMPT.md` is for, and the three batches that were never audited at volume level are still unaudited.**
+
+---
+
+## Volume 8 close — repairs
+
+**The Volume 8 close phase repaired nothing and says so plainly.** `workspace/volume-08-close/PROMPT.md` gave it
+twenty-one findings to record and forbade it from writing chapter prose, and the reason is on the record of this run:
+a close that improves a volume by writing prose is a close that has become a rewrite, and the three earlier volumes in
+this run each have a record of what that costs. **This section therefore carries a count of zero for chapters written
+and a count of twenty-one for findings, and it corrects the state files in place rather than the page.**
+
+### The count
+
+| | |
+| --- | --- |
+| **Chapter files opened** | **58 — read, not written** |
+| **Paragraphs, sentences or words of prose written by the close** | **0** |
+| **Chapter files modified** | **0** |
+| **Outlines re-planned or edited** | **0** — `outline/volume-08.md`, `outline/series.md` and `outline/ending.md` were read and not edited |
+| **Findings recorded for a repair phase** | **21** — one calendar defect at twenty-five instances, one card-vocabulary defect at three headings, six recorded figures that do not reproduce, five continuity items holding in a changed form, two density notes, and two operational items |
+| **State files corrected in place by the close, with a note saying so** | **5** — `state/current.md`, `state/continuity.md`, `state/chapter-summaries.md`, `state/open-threads.md`, `state/book-metadata.md` |
+| **The nine Batch 0004 review findings re-opened or re-decided** | **0** |
+| **Prompts written** | **1** — `workspace/volume-09-planning/PROMPT.md`, and no other |
+| **`.done` markers written** | **0** — `PHASE_SYSTEM.md` gives that to the controller alone |
+
+### The twenty-one
+
+**A. The calendar — one defect, twenty-five instances, fourteen chapters.**
+
+**F1 — Batch 0004's relative-month figures do not reproduce against the volume's own calendar.** The volume counts
+elapsed months as month-begins crossed, and the months in Volume 8 begin on days 1,064 · 1,094 · 1,124 · 1,154 ·
+1,184 · 1,214 · 1,244 · 1,274 · 1,304 · 1,334. **Six instances on the page get that exactly right and are the evidence
+that the convention is the drafters' own**: ch 462 ×2 (both *four months*, both correct against ch 434 at day 1,152 and
+ch 433 at ~1,142) · ch 465 (*no bread since the twenty-eighth of a month two months back*, day 1,211, correct) · ch 472
+×2 (*you told me that in a doorway five months ago*, ch 432, correct) · ch 478 (*came open on the eighteenth of a month
+two months back*, ch 470 at day 1,291, correct) · and ch 478's *eighty-four days* for the stop at ch 462, day 1,256,
+which is 1,340 − 1,256 exactly.
+
+**Twenty-five instances across fourteen chapters fail.** The worst is the one the volume's late register rests on:
+**the ch 417 refusal is called *four months back* eight times across ch 469, 472, 473 and 474, and ch 417 is the
+nineteenth of the month beginning 1,034, which is day 1,052. From ch 474 (day 1,306, the month beginning 1,304) that is
+nine months, not four.** The rest, all measured the same way:
+
+| Ch | Instance | Referent | Stated | Actual |
+| --- | --- | --- | --- | --- |
+| 469 ×3, 472 ×2, 473 ×1, 474 ×2 | *four months* — the ch 417 refusal | ch 417, day 1,052 | four | **nine** |
+| 474 | *Five months ago in daylight on a road, to a woman of sixty-one, in silence* | ch 449, day 1,205 | five | **four** |
+| 473, 474, 477 ×2 | *a shed at a mill five months back* | ch 425, day 1,103 | five | **seven** |
+| 471, 474 | *five months* — the woman of twenty-two at her bench | ch 445, day 1,192 | five | **three** and **four** |
+| 470 | *She had learned that in a shed at a mill four months ago, on the twenty-ninth of a month* | ch 434, day 1,152 | four | **five** |
+| 470 | *You said a date out loud to a stranger in a doorway four months back* | ch 432, the month beginning 1,124 | four | **five** |
+| 467 | *The day anybody found out was the sixth of a month four months back* | ch 421, day 1,099 | four | **six** |
+| 470, 476 ×2, 478 | *no bread since the twenty-eighth of a month two months back* | day 1,211 | two | **three**, **four**, **five** |
+| 478 | *she asked him to put one down on the thirteenth of a month two months back* | ch 462, day 1,256 | two | **three** |
+| 477 | *on the twenty-seventh of a month four months ago with the point of a bar* | ch 466, day 1,270 | four | **two** |
+| 471 | *In a shed at a mill, eight months ago* | ch 419, the month beginning 1,064 | eight | **seven** |
+
+**F2 — ch 474 lists the three refusals out of order and with two of three intervals wrong, the two errors pulling in
+opposite directions.** The chapter says *Four months ago in a room with a lamp, to a man of forty-three… Five months ago
+in daylight on a road, to a woman of sixty-one, in silence. And now…* and then calls the list *Three refusals in eight
+years*. **A five-months-back event cannot precede a four-months-back one in a chronological list; neither figure is
+right; ch 417 is nine months back and ch 449 is four.** The chapter's substance stands — three refusals, the third of
+them hers, the fourth page in a book, the first one she chose — and **the volume's irreversible decision is not
+weakened by this finding.**
+
+**F3 — ch 478 carries ch 465's interval forward eighty-one days without re-deriving it.** *No bread since the
+twenty-eighth of a month two months back* is exactly right at ch 465 and appears again at ch 470, twice at ch 476 and
+at ch 478, where it is five months. **The second time in this run that a carried figure has falsified a recorded zero,
+and the first time it has falsified itself inside one volume.**
+
+**THE REPAIR FOR F1, F2 AND F3 IS SEVENTEEN CHAPTER FILES AND TWENTY-SIX LINES. IT IS A REPAIR PHASE'S AND NOT THIS
+ONE'S.**
+
+**B. Card vocabulary on the page — one defect, three headings.**
+
+**F4 — three section headings are outline instructions**, in the exact class the Volume 7 close recorded as F3 and left
+unrepaired: `## His Mouth, In Five Pieces` at ch 457, the **byte-identical** `## His Mouth, In Five Pieces` at ch 461,
+and `## The Sixth Mouth` at ch 477. *Mouth* is `outline/volume-08.md`'s own term for a structural-answer beat and *in
+five pieces* is the card's phrasing for *four or five short sentences each*; *The Sixth Mouth* is the label on the
+outline's six-mouths table row. Volume 7's pages carry `## Mouth Five` (ch 409) and `## Mouth Six` (ch 415) and the
+Volume 7 close named this class as the one the Batch 0003 review had already repaired at ch 401 and ch 404. **The class
+recurred in Volume 8 and reached Batch 0004, which passed review twice. The repair is three headings.**
+
+**C. Recorded figures that do not reproduce — six.**
+
+- **F5 — the Batch 0004 `about…` row** records **136** and states the method as case-insensitive. Measured `\babout\b`,
+  whole word, case-insensitive, body prose, headings excluded: **138**. **136 is the case-sensitive count.**
+- **F6 — the bare capital `Order` rows** record **7 across the volume and 3 in Batch 0004**. Measured, case-sensitive,
+  word-bounded: **6 across the volume, at ch 425, 443, 445, 447, 475 and 476, and 2 in Batch 0004**. Lowercase `order`
+  returns **27** and every one is the common noun.
+- **F7 — the retired seven phrases.** Four blocks record **0 as phrases**. On the seven exact strings: *nobody asked* **2**
+  (ch 436, ch 442) · *nobody was thanked* **0** · *there is no form* **0** · *there is no column* **0** · *the record
+  remained* **0** · *nobody knew* **1** (ch 439) · *nobody said anything* **0**. **Widened to the flex family the
+  drafters' own recasts take — *nobody thanked* 2 (ch 459, ch 465) · *Nobody … said anything* 2 (ch 469, ch 474) · *No
+  form* 2 (ch 445, ch 453) · *There is no second column* 1 (ch 431) — the family stands at 10.**
+- **F8 — straight apostrophes.** The outline's Volume 8 budget row reads **0 / 0**; measured: straight quotes **0**,
+  straight apostrophes **33, every one in Batch 0003, in ch 450 through ch 463.** Straight quotes are genuinely zero
+  and every speech closes in all fifty-eight files.
+- **F9 — italic asterisks.** The Batch 0004 block records **16** at ch 426, ch 433 and ch 448. Measured: **8** — ch 426
+  ×1, ch 433 ×3, ch 448 ×4. **Bold is 0 across the volume.**
+- **F10 — the `vouch` rows.** Batch 0004's records **0**; measured volume-wide **1**, at ch 438.
+
+**D. Continuity items that hold in a changed form — five.**
+
+- **F11 — `eighty-four` stands 18 times volume-wide: ch 464 ×12, ch 466, ch 468, ch 470 ×2, ch 478 ×2, and ch 464
+  doubles it inside one sentence.** The Batch 0004 review reduced `eleven` in ch 465 and ch 478 as a tic and did not
+  reduce this.
+- **F12 — `erased` is 1, at ch 424**: *The four erased months are the only thing she has ever thrown away and she did
+  not do that on purpose.* Volume 7 measured `erased` at 0 across ch 361–420 as its evidence for fact 5. In Volume 8 the
+  four erased months are **referred to once, in narration, in her own reasoning about never throwing a line away. No
+  month is named, no date given, nobody named, the silence unbroken and nothing forgiven or softened.** The fact holds;
+  the measured zero does not carry forward and is not inherited as one.
+- **F13 — `Bai Zhu` is 1, at ch 440**: *"Bai Zhu," she said. She had never called him Hunter to his face and was not
+  going to start.* `Hunter` and `Bai Zhu` both returned 0 across Volumes 6 and 7. **The man with the notebook is named
+  on the page for the first time in the manuscript, in her mouth, at the second of his two Volume 8 appearances, and
+  she asks him her question in the same scene.** A change, not a breach.
+- **F14 — `plate` is 1, at ch 441**, named once and described in no chapter. Fact 4 holds.
+- **F15 — `licence` is 2, at ch 425 and ch 449**, both in Xie Changyin's mouth and both the Order's own paper.
+  `license` is 0. **The relicensed licence against her ribs is never called anything and never opened.**
+
+**E. Operational — one.**
+
+**F16 — twenty-nine chapter files have no trailing newline: Batch 0001's fourteen (ch 421–434) and Batch 0003's fifteen
+(ch 450–464), none in Batch 0002 or Batch 0004.** The Volume 7 close fixed 250 such files. **It does not touch a word
+count. It is how a chapter that ends without a line break collides with the next file in a concatenated read, which is
+how two word-count conventions came to disagree by a figure nobody could place. Twenty-nine bytes, for a repair phase.**
+
+**F. Recorded and not repaired, with the reason — five.**
+
+- **F17 — `about…`, 470 volume-wide**, method B, `\babout\b`, whole word, case-insensitive; **by batch 196 · 61 · 75 ·
+  138**, average 8.1 a chapter against Volume 7's 10.1. A character hedge and not a banned word. Recorded rather than
+  swept, because the failure this file exists to prevent is a budget that reports a number nobody measured.
+- **F18 — `whole of`, 83 volume-wide**, method B, whole word, case-insensitive; **by batch 33 · 17 · 17 · 16**, average
+  1.4 against Volume 7's 2.7. The spine of the voice. Xie Changyin's *that is the whole of it* is a character's habit.
+- **F19 — the *nobody* family, 221 volume-wide** — nobody 169 · no one 2 · not one 50 — average 3.8 a chapter against
+  Volume 7's 0.6. **The outline's own reason holds and is recorded: Volume 8 is the first volume of the run with a large
+  number of people in it who do not know her.** Not a licence for it, and not swept.
+- **F20 — `eleven`, 229 volume-wide**, densest at ch 452 with 17, ch 423 with 12, ch 465 and ch 470 with 11. It is the
+  stage word (*eight of eleven holds*) and it is load-bearing. Measured and recorded.
+- **F21 — eleven duplicated paragraph texts at 22 instances**, of which two are planted and recorded (the bill at ch
+  466/467, the anonymity line at ch 475/478), one is a carried beat (*He is not gone*, ch 463/478), **one is a verbatim
+  restatement of the ch 434 cost — *She can still say no. She just cannot make the no take.* — byte-identical at ch 460
+  and ch 470** — and seven are furniture.
+
+### What the close corrected in place, in the state files, and not on the page
+
+**Nine recorded figures that do not reproduce, all of them state-file faults, all corrected in this close's own blocks
+rather than by editing the batch blocks that wrote them — this file is append-only, and a close that goes back and edits
+the numbers its own predecessors wrote is the same failure as a close that edits the prose. F5 · F6 · F7 · F8 · F9 ·
+F10 · and the two method notes at §*Established facts, Volume 8 Batch 0004* and §*Volume 8 as a whole, closed,
+re-measured*, which between them left two counting conventions unsettled for three batches.**
+
+## Volume 8 close — the volume as a whole
+
+**Every figure below was re-derived from `chapters/volume-08/chapter-0421.md` … `chapter-0478.md` at this close, and the
+method is in the same sentence as the number. None is quoted from a batch block.**
+
+### Words of body prose — the `#` title line and every `##` section heading excluded
+
+| Batch | Chapters | Days | Words | Average |
+| --- | --- | --- | --- | --- |
+| 0001 | 421–434 (14) | 1,091–1,152 | **27,666** | ~1,976 |
+| 0002 | 435–449 (15) | 1,153–1,205 | **21,681** | ~1,445 |
+| 0003 | 450–464 (15) | 1,206–1,262 | **27,879** | ~1,859 |
+| 0004 | 465–478 (14) | 1,263–1,340 | **28,620** | ~2,044 |
+| **VOLUME 8** | **421–478 (58)** | **1,091–1,340** | **105,846** | **~1,825** |
+
+**METHOD B IS SETTLED FOR VOLUME 8.** Method A — the `#` title line excluded, every `##` heading counted as prose —
+is recorded beside every figure and travels with it: **28,334 · 21,869 · 28,341 · 29,125, volume 107,669, average
+~1,856.** **The 668 / 188 / 462 is the `##` section-heading word count in Batches 0001, 0002 and 0003 and was never an
+error in anyone's counting. No batch figure was ever wrong and no chapter before ch 465 was touched.**
+
+**Longest chapter ch 470 at 2,525; shortest ch 441 at 1,336.** **Nineteen chapters sit under the 1,800 guide — 435 ·
+436 · 437 · 438 · 439 · 440 · 441 · 442 · 443 · 444 · 446 · 447 · 448 · 449 · 453 · 459 · 461 · 463 · 469 — and
+thirteen of the nineteen are Batch 0002's fifteen.** Nothing is under the 1,300 floor and nothing is above the 2,700
+guide. **Batch 0002 is the volume's thin passage and that is its most consequential shape: the volume's midpoint and the
+middle of its own argument happen in the shortest stretch of the book.** Per file, method B: 421 2,086 · 422 2,026 · 423
+2,006 · 424 1,979 · 425 2,026 · 426 1,952 · 427 1,892 · 428 2,051 · 429 1,897 · 430 2,046 · 431 1,927 · 432 1,811 · 433
+1,874 · 434 2,093 · 435 1,407 · 436 1,688 · 437 1,437 · 438 1,392 · 439 1,486 · 440 1,369 · 441 1,336 · 442 1,399 · 443
+1,360 · 444 1,391 · 445 1,971 · 446 1,359 · 447 1,344 · 448 1,375 · 449 1,367 · 450 1,996 · 451 1,920 · 452 1,916 · 453
+1,643 · 454 1,903 · 455 2,144 · 456 2,130 · 457 1,787 · 458 1,894 · 459 1,500 · 460 1,846 · 461 1,651 · 462 1,917 · 463
+1,748 · 464 1,884 · 465 2,423 · 466 1,786 · 467 2,278 · 468 1,843 · 469 1,761 · 470 2,525 · 471 1,996 · 472 2,068 · 473
+1,999 · 474 2,519 · 475 1,908 · 476 1,788 · 477 1,881 · 478 1,845.
+
+**478 `#` headings manuscript-wide, zero collisions, longest 39 characters** (ch 426, *The Question She Had Not Thought
+To Ask*), counted as the heading text after the `#`, spaces included, marker excluded. Every Volume 8 title is a name.
+
+### The ladder — every day re-derived under `((day − 134) mod 30) + 1`
+
+| Stage | Chapter | Day | Month-day, re-derived | Interval | What it cost, named once |
+| --- | --- | --- | --- | --- | --- |
+| Nascent Soul 7 | 420 | 1,076 | the **thirteenth** (month begins 1,064) | 39 | the reach will not go out of a room she has not been asked into |
+| Nascent Soul 8 | **434** | **1,152** | the **twenty-ninth** (month begins 1,124) | **76** | **she cannot call a halt — herself, once a thing she is in has started** |
+| Nascent Soul 9 | **470** | **1,291** | the **eighteenth** (month begins 1,274) | **139** | **there is nothing above her and the way out is a document she has not opened** |
+
+**All four pinned anchors reproduce exactly: 1,091 → the twenty-eighth of the month beginning 1,064 · 1,152 → the
+twenty-ninth of 1,124 · 1,256 → the thirteenth of 1,244 · 1,291 → the eighteenth of 1,274 · 1,340 → the seventh of
+1,334.** Months in Volume 8 begin on 1,064 · 1,094 · 1,124 · 1,154 · 1,184 · 1,214 · 1,244 · 1,274 · 1,304 · 1,334.
+**1,340 − 1,256 = 84** and ch 478 says eighty-four days. **Volume 9 opens on day 1,341, the eighth of the month
+beginning 1,334.** `tribulation` returns **0**. No stage is skipped, no tribulation is drawn, and no stage-day,
+clearance, seal or countersignature is shown anywhere in ch 421–478.
+
+**What the ladder does not repair: the volume's relative-month figures are counted as month-begins crossed and
+twenty-five of them do not reproduce. See F1 above. The absolute days are all right; the intervals are not.**
+
+### Brackets — counted, not quoted
+
+**Two bracketed body lines in fifty-eight chapters, at ch 434 and ch 470, and four bracket characters in the whole
+volume.** Both match the pinned far-side house form character for character with only the realm ordinal changing:
+`[Ning Yan, past the line, servant-born, under no ceiling any county holds. Nascent Soul, stage N, is held.]` Each is on
+its own line, none bold, none italic, none a heading. **Zero anywhere else. Two is the budget and both are spent.
+Volume 9 opens on no bracket.**
+
+### The full construction budget, re-measured across all fifty-eight chapters
+
+**Method for every row: body prose only — every line not beginning `#`, so the `#` chapter title line and every `##`
+section heading are excluded — unless the row says otherwise in its own sentence. Case-insensitive and whole-word
+unless the row says otherwise.**
+
+| Construction | Measured across ch 421–478 | Method, in the same sentence as the number |
+| --- | --- | --- |
+| **Authorial scaffolding, the widened pattern** | **0** | `this (chapter\|volume\|book)` · `the reader` · `the rest of the book` · `(in\|another) batch` · `[0-9]+ volumes?` · `the volume` · `midpoint` · `ch [0-9]{3}`, body prose. **The bare forms are separate rows and are also zero** |
+| **The bare forms the phrase grep cannot catch** | **`volume` 0 · `chapter` 0 · `batch` 0 · `Volume \d` 0 · `Chapter \d` 0 · `ch NNN` 0** | word-bounded, body prose. **A pattern that requires a numeral returns zero by construction and proves nothing, so these were measured on the bare words as well** |
+| **Bracketed layer lines** | **2** | body lines beginning with `[`. At ch 434 and ch 470. Four bracket characters in the volume |
+| **Bold · italic** | **0 · 8** | `\*\*[^*\n]+\*\*` and single-asterisk spans, raw files. Italic at ch 426 ×1, ch 433 ×3, ch 448 ×4 |
+| **Blockquotes · code fences · tables · horizontal rules** | **0 · 0 · 0 · 0** | line-anchored, raw files |
+| **All-caps standalone lines** | **0** | a whole body line of capitals with two or more letters |
+| **Straight quotes · straight apostrophes** | **0 · 33** | ASCII `"` and ASCII `'` in raw files. **Straight quotes are genuinely 0 and every speech closes in all fifty-eight files. All 33 apostrophes are ASCII possessives and all 33 are in ch 450–463 — F8** |
+| **The seven retired phrases, literal** | **3 firm instances** | *nobody asked* 2 (ch 436, ch 442) · *nobody knew* 1 (ch 439) · the other four 0 |
+| **The seven retired phrases, flex family** | **10** | adding *nobody thanked* 2 (ch 459, ch 465) · *Nobody … said anything* 2 (ch 469, ch 474) · *No form* 2 (ch 445, ch 453) · *There is no second column* 1 (ch 431). **F7** |
+| **`about…` as a hedge** | **470** | `\babout\b`, whole word, case-insensitive, body prose. **By batch 196 · 61 · 75 · 138; average 8.1 a chapter against Volume 7's 10.1** |
+| **`whole of`** | **83** | `\bwhole of\b`, whole word, case-insensitive, body prose. **By batch 33 · 17 · 17 · 16** |
+| ***nobody* family** | **221 — nobody 169 · no one 2 · not one 50** | `(?<![A-Za-z])(nobody\|no one\|not one)(?![A-Za-z])`, case-insensitive, body prose. **By batch 56 · 41 · 69 · 55.** Volume 7 was 33 across sixty chapters |
+| ***About four seconds* · *eleven weeks* · *fortnight*** | **0 · 0 · 0** | case-insensitive, word-bounded |
+| **The hedged short-duration family** | **34** | `\babout\s+(?:\w+\s+)?(?:seconds?\|minutes?\|hours?\|days?\|breaths?)\b`, plus the `a`/`an` forms counted separately: *about nine seconds* 8 · *about a minute* 3 · *about an hour* 3 · *about eleven seconds* 3 · *about two hours* 2 · *about two seconds* 2 · *about a day* 2 · *about nine minutes* 2 · nine singletons. **Nine of the thirty-four are Batch 0004's. The three retired phrases above are zero and the family they belong to is not clean, and the record must stop claiming it is** |
+| **Named weekdays** | **0** | all seven names, case-insensitive, word-bounded, body prose |
+| **Named calendar months** | **0** | all twelve names. **The fifteen `May` hits on a case-insensitive grep are all the modal *may* and a case-sensitive `\bMay\b` returns 0** |
+| **Named weeks** | **0** | `\bweek\b` returns 9, all of them durations. `fortnight` is counted separately above |
+| ***His eyes widened · he could not believe it · suddenly · little did he know*** | **0** | case-insensitive |
+| **The Yuan tag and the one-breath lead-in family** | **0** | the pinned sentence plus a scan for a tag-form paragraph before any of his speech |
+| **The surface answer, paid once at ch 267** | **0** | `charged` 0 · `bookkeeping` 0 · `receipt` 0 · `bounded world` 0 · `the walls` 0 · `announcement layer` 0. The three `announce` hits (ch 430 ×2, ch 470) are Volume 6's re-derivation of the announcement rule past the line |
+| **Forbidden terms, word-bounded** | **all 0 except the three recorded** | `reconciled` · `clearance` · `countersignature` · `seal` · `sealed` · `kiln-born` · `MEMBER ABSENT` · `Ledger` · `tribulation` · `Feng` · `Ning Wu` · `Ning Bo` · `Hou Sanliang` · `Anchor` · `Sisterhood` · `Scribe` · `bargain` · `Lung` · `appointment` · `Shuyin` · `drift` · `kill` · `murder` · `hiring` · `audit` · `tending` · `ration` · `confinement` · `wall writ` · `field agent` · `Hunter` · `Qiu` · `Shen Xiu` · `Mei Jiu` · `Du Hong` · `Wen` — **every one 0**. **`plate` 1 (ch 441) · `licence` 2 (ch 425, ch 449) · `erased` 1 (ch 424) · `Bai Zhu` 1 (ch 440)**. **Bare capital `Order` is 6 (ch 425, 443, 445, 447, 475, 476); lowercase `order` is 27 and every one is the common noun** |
+| **`send for` · `sent for` · `sending`** | **0 · 3 · 0** | case-insensitive, body prose. ch 433, ch 467 and ch 471, all of them the standing fact of his own state. **Being sent for is opened at ch 401 and re-opened nowhere** |
+| **`vouch`** | **1** | substring with inflections, at ch 438 |
+| **`eleven`** | **229** | whole word, body prose. Densest at ch 452 with 17, ch 423 with 12, ch 465 and ch 470 with 11. Volume 7 was 193 across sixty chapters |
+| **`eighty-four`** | **18** | whole word, body prose. ch 464 ×12, ch 466, ch 468, ch 470 ×2, ch 478 ×2. **F11** |
+| **Longest paragraph** | **95 words, at ch 471** | body-prose paragraphs split on the blank line, 3,221 of them. **Five over the 90-word working limit — ch 471 at 95, ch 466 at 94, ch 465 at 92, ch 475 at 91, ch 474 at 91 — and none over the 120-word hard limit.** Volume 7's maximum was 118 |
+| **Exact duplicate paragraphs at six words or more** | **11 distinct texts, 22 instances** | whole paragraphs compared byte for byte. Two planted and recorded, one carried beat, one verbatim restatement of the ch 434 cost at ch 460 and ch 470, seven furniture. **F21** |
+| **Recurring eight-word paragraph openings** | **76 distinct across 229 instances of 3,221 paragraphs** | first eight words of every body paragraph, grouped. Thirty-five short paragraphs under six words repeat 141 times and are the ordinary *All right.* / *No.* / *Yes.* of a book where people answer each other |
+| **Chapter titles** | **478 `#` headings manuscript-wide, zero collisions, longest 39 characters** | counted as the heading text after the `#`, spaces included, marker excluded |
+| **Card-vocabulary section headings** | **3** | `## His Mouth, In Five Pieces` at ch 457 and ch 461, `## The Sixth Mouth` at ch 477. **F4** |
+| **Killings** | **none named** | `kill` and `murder` both return 0 across the volume. One man east of the turn does not come back from a listing at ch 460 and the page never uses either word for it |
+| **Trailing newlines** | **29 files missing one** | ch 421–434 and ch 450–464. **F16** |
+
+### The seventeen continuity facts, walked one at a time
+
+**Full walk with the verdict on each at `workspace/volume-08-close/SUMMARY.md` and at `state/current.md` §*Who is where at
+end of chapter 478*. In one line each:** 1 relicensing legs in order, all three at **0** — **HOLDS** · 2 MEMBER ABSENT
+carried, **0** — **HOLDS** · 3 register *reconciled*, **0**, unread — **HOLDS** · 4 plate worn, **1** naming, **0**
+descriptions — **HOLDS** · 5 the eleven not raised, the four erased months **referred to once at ch 424 and not named**,
+Feng **0** — **HOLDS IN A CHANGED FORM** · 6 his unentered state and the morning still gone — **HOLDS** · 7 the claim
+answered, Hou / Ning Bo / Ning Wu all **0** — **HOLDS** · 8 no romance, her mother's name never said — **HOLDS** ·
+9 Wei Ran, **exactly two cards, ch 441 and ch 468** — **HOLDS** · 10 no office named, the Order named **once** at ch 425
+— **HOLDS** · 11 the Hunter's request pending, **two pages, ch 428 and ch 440**, his name on the page **once** — **HOLDS
+IN A CHANGED FORM** · 12 *kiln-born* **0** — **HOLDS** · 13 `Ledger` **0** — **HOLDS** · 14 the year **mentioned zero
+times in fifty-eight chapters**, and at ch 466 he gives her a bill and she does not thank him — **HOLDS** · 15 no figure
+of what is left of him on any page; the bill is a total, not a quantity of him — **HOLDS** · 16 readable, sendable and
+**answerable, and Volume 8 is when somebody asks** — **HOLDS** · 17 what Volume 8 changed — **HOLDS**.
+
+### The hand-off, and what the close must not preview
+
+**`outline/volume-08.md` §*New question for Volume 9* is fixed and is not previewed, expanded or softened here.**
+What the audit confirms is the narrower thing that matters: **Volume 8 hands Volume 9 its antagonist without putting one
+word of the Warden's office, the list, or the Anchor on its page, and the new question is a consequence of what ch
+462–478 resolved.** `Shuyin` returns **0** across ch 421–478. Nothing in this close spends anything `outline/ending.md`
+§1 owns, and Volume 9 opens on **day 1,341, the eighth of the month beginning 1,334**, derived under
+`((day − 134) mod 30) + 1` and not asserted.
+
+### The volume's own answer, and this close's verdict on it
+
+**She read the sheet to them first, and then she said no, and a man of sixty-one wrote one line and the date in the
+ordinary hand. It went in. There is no hand in that building or on that ground that takes it out. It is the fourth
+entry of her life and the first one she chose, and the price of it is not punishment: the ground went quiet, and at the
+last page nothing on nine days of road wants anything from her at all.**
+
+**Ch 474 says it and ch 478 says it and both are true. No finding in this audit weakens any of it.** The month figures
+in F1, F2 and F3 are connective tissue and touch no beat, no figure of hers, no refusal and no silence. The card
+headings in F4 are three headings. The apostrophes in F8 are thirty-three bytes in Batch 0003. **Where the page is
+right, the page is right.**

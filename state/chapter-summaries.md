@@ -636,3 +636,92 @@ Physical-risk card at ch 430.**
 - **476 — The Price Of Not Being Found.** Days 1,315–1,319, the 12th to the 16th. No one to ask; the Hunter's two pages are spent and she is not going to go and find him. Five things have ever come for her in eight years and **all five came out of a document** — there is no road into her life except paper, and that is eight years old and she is the only person alive who could have found it. **A person who is not read is harder to find**, worked out four feet off a post at a gate: the hand on a gate reads a painted board because the board is where its hands are, and take the paper away and the hand does not stop. **The third finding is the one she is not ready for: she is at the top of a realm at eighteen with no wages, no season, no pay she can take and no institution that has heard of her — and it is the best thing that has happened to her in two years, and she chose it, and she cannot say so out loud to anybody including him.** She writes the whole list on a board and one line at the bottom, well away from the rest.
 - **477 — A Description, And It Is Accurate.** Days 1,320–1,324, the 17th to the 21st. **MOUTH SIX OF SIX.** Xie Changyin walks two miles down the lane at the sixth hour, sixty-one, carrying nothing, and puts the whole of it in pieces and not once as a speech: *you take a sheet four people cannot take and make it into numbers, and you say them out loud to whoever is in the room, and you do it for nothing, and you have been paid for it once in four coppers and your hand stopped. That is the trade.* **The trap named by the woman selling it: what she has spent five months trying to hire her for is what she has been doing for nothing since she was sixteen, and the only thing there is to sell anybody is that somebody will be standing in the room when she does it.** **The one wrong sentence, said once and refused once and not argued: *a person on a roll is safer than a person off it.*** **The one thing she wins: the room will not ask her again, the tied sheet goes east unopened, and a girl of twenty-two goes on not knowing what a hand said about her** — and Xie Changyin says she will not thank her and will not apologise, because both would be deciding how Ning Yan feels about a thing done on purpose. Then she gives the shelf, the room and the date on the string for the two sheets a woman wrote nine years ago and did not sign, **and calls it an ordinary consequence and not a favour.** Ning Yan writes the address on a board, scrapes it off, and writes it again anyway.
 - **478 — Forty-One Lines On A Rail.** Days 1,325–1,340, the 22nd to the 7th, and **VOLUME 8'S LAST PAGE.** **Thirteen miles west in three days, the whole distance on the page.** **One loaf at the store five miles west of the mill, two coppers, five down to three, because she wanted it**, and it was the best thing she has put in her mouth in four years. The roof cord holds; the ring is fed; the door does not shut properly and she does not fix it. **She does not say his name for eleven days, which has never happened — eleven occasions in seven years, four of them answered, every one of them inside a dozen days of a spend.** At the sixth hour on the seventh she reads all forty-one lines on the rail down twice, gets them the same twice, **and can take none of them.** Then **she notices she has been standing there eleven minutes and nothing has happened** — not the boy, not the man behind the counter, not the man with the brush. A month ago four people on that floor asked her a question a month and wrote the answer down; a woman of fifty asked her about carts every day for two months. **Nothing on nine days of road wants anything from her at all.** Three coppers, bread for a day, eighteen years old, at the top of a realm, nothing above her, and a piece of paper against her ribs she has not opened. **She says his name once into a shed with boards on the floor, and it is the twelfth time in seven years and the first one that has not come inside a dozen days of something happening to him. He has had nothing to spend for eighty-four days and there is nothing left to answer with. And she waits anyway.**
+
+---
+
+## Volume 8 closed — audited
+
+**Volume 8, *Recruited*, ch 421–478, fifty-eight chapters, day 1,091 to day 1,340, 250 days. Closed and audited by the
+Volume 8 close phase, which opened no chapter, wrote no prose and changed no beat. Full record at
+`workspace/volume-08-close/SUMMARY.md` and `state/continuity.md` §*Volume 8 close — repairs* and §*Volume 8 close — the
+volume as a whole*.**
+
+**105,846 words of body prose over fifty-eight chapters, average ~1,825**, on the method the close settles for Volume 8 —
+**every line not beginning `#`**, so the `#` chapter title line and every `##` section heading are excluded. On the other
+convention, `##` headings counted as prose, the same files are **107,669, average ~1,856**. **Both sets travel with every
+figure. 478 `#` headings manuscript-wide, zero collisions, longest 39 characters.** **Two bracketed layer lines in
+fifty-eight, at ch 434 and ch 470; the budget is spent and Volume 9 opens on no bracket.**
+
+### The volume-level entry
+
+**In this volume, Ning Yan must refuse the Order, or she becomes exactly the tool Yuan hated — fixed by
+`outline/series.md` §9, answered on the page, and it is answered in a room at the fourth hour of the third of a month with
+the shutters up.** She is the strongest person in every room she walks into and it turns out to be a qualification. The
+offer is made in daylight, on the ordinary condition, by a woman of sixty-one who is right about nine things in ten, and
+every term of it is reasonable and one of them is fatal, because it makes her a post. **She reads the document to the
+room before she refuses it, because nobody in that room can read it and she is the only person on nine days of road who
+can.** She says no with no reason in front of it. Xie Changyin writes one line and reads it back, Ning Yan makes her take
+back the one line that is hers, the woman refuses on the ground that a thing not put in is not a refusal, and **Ning Yan
+reads her own refusal back to her.** A man of sixty-one writes one line and the date in the ordinary hand. **It went in.
+There is no hand in that building or on that ground that takes it out.** And the price is not persecution: **the Order
+stops reading her**, and at the last page **nothing on nine days of road wants anything from her at all**, which is the
+best thing that has happened to her in two years and which she chose and cannot say so out loud to anybody including him.
+
+### One line per batch
+
+- **Batch 0001 (ch 421–434, day 1,091–1,152) — AN ARRIVAL. 27,666 words, average ~1,976. One bracket at ch 434.**
+  A strip comes back down the mill road on a cart that does not go east, dated the eighteenth with nothing on it but a
+  date. **Xie Changyin, sixty-one, walks eleven miles into a shed at a mill at ch 423.** The two lines and the date are
+  quoted back to him out loud by a stranger, the offer is stated in full inside eight chapters, a vouched floor sheet
+  goes out at ch 427, **she says a date out loud to a stranger at ch 432 and cannot take it back at ch 434**, and
+  **Nascent Soul 8 arrives on the pinned day with the cost named once: she cannot call a halt — herself, once a thing
+  she is in has started.**
+- **Batch 0002 (ch 435–449, day 1,153–1,205) — BEING WANTED. 21,681 words, average ~1,445. No brackets.**
+  **Eleven miles and three days on foot on a body with one arm at half, a turnstile she is turned back at once, and a
+  low lime-washed building with more lamps in it than anything she has stood in.** Six structural-answer chapters, four
+  hundred and seven names, one rate, and **at ch 445 she reads a fine hand in a room because four people there cannot,
+  and it goes on a roll** — which is the batch's irreversible step, and the volume's midpoint, and the bill for the best
+  decision she made in two volumes. **This is the volume's thin passage: thirteen of the volume's nineteen chapters under
+  the 1,800 guide are in these fifteen, and it is where the volume's own argument happens.**
+- **Batch 0003 (ch 450–464, day 1,206–1,262) — WHAT HE DID WITH HER WHILE SHE WAS SOMEWHERE ELSE. 27,879 words,
+  average ~1,859. No brackets.** He surfaces a listing to a man at a gate who is not her; she reads a second column on
+  somebody else's floor sheet at ch 455 and finds two dates four days apart on one line; **the fourth frame scene is on
+  the page at ch 458**, away from her hearing; **a man east of the turn does not come back at ch 460**, four days before
+  she works out why; **and at ch 462 she makes him stop, out loud, on the boards, in a shed with the door shut, and he
+  puts a listing down and never picks it up again.**
+- **Batch 0004 (ch 465–478, day 1,263–1,340) — REFUSING TO BE A TOOL. 28,620 words, average ~2,044. One bracket at
+  ch 470.** **The bill at ch 466, in a number, unasked for a second time: one thousand one hundred and nine days and six
+  hours**, of which twenty-one days and four hours is the work he put where a hand would find it, and **she writes it on
+  a board and scrapes it off because a column is a request.** **Nascent Soul 9 at ch 470 on the pinned day, arriving
+  without her asking and without her being able to stop it, and the door is a document she has not opened.** **The Hand
+  refused once out loud in a room at ch 471, with the reason given for the first time, and it costs her nothing.** The
+  offer in full at the maximum. **THE VOLUME'S IRREVERSIBLE STEP AT CH 474 — she refuses the Order on the record,
+  read back to her before it goes in, and there is no hand that takes it out.** The ground goes quiet at ch 475–477.
+  **And at ch 478 nothing on nine days of road wants anything from her at all.**
+
+### One line per structural item
+
+- **Nascent Soul 8, ch 434, day 1,152, the twenty-ninth of the month beginning 1,124. Cost: she cannot call a halt.**
+- **Nascent Soul 9, ch 470, day 1,291, the eighteenth of the month beginning 1,274. Cost: there is nothing above her and
+  the door is a document.** Intervals of **76** and **139** days; **139 is the longest single interval in the manuscript.**
+- **Two bracketed layer lines**, ch 434 and ch 470, far-side house form, **and no others.**
+- **The bill, ch 466.** One thousand one hundred and nine days and six hours.
+- **The frame scene, ch 458.** The fourth in the manuscript and the only marked present frame in Volume 8.
+- **The refusal, ch 474.** The fourth entry of her life and the first one she chose.
+- **The six structural-answer mouths**, ch 424 · 437 · 443 · 452 · 461 · 477.
+- **The Hunter's two pages**, ch 428 and ch 440, and his name on the page once, at ch 440.
+- **Wei Ran's two cards**, ch 441 and ch 468.
+- **The four spendings and the four refusals to spend**, Batch 0003's three spends and ch 462's stop, Batch 0004's
+  refusal at ch 471 and eighty-four days of nothing.
+- **The 250 days**, 1,091 to 1,340, and **1,340 − 1,256 = 84**, the length of his silence, which ch 478 says out loud.
+
+### The volume's closing image
+
+**She says his name once into a shed with boards on the floor, and nothing comes back, and she waits anyway.** That is
+the last day of this month and she is not going to count it and she is not going to put a mark on a board. **She lay on
+the boards at the end of the seventh day of a month with three coppers in a fold and a bar against a wall and a door that
+does not shut properly, waiting for a man who has nothing to say, and she was not going to be anywhere else.** The wind
+came in under the door at about a foot a second. The boards were cold. **There was nothing above her in the world and
+there was one door in it and she had not opened it.** She waited anyway.
+
+**That is the last page of Volume 8 and the first thing Volume 9 opens on.**

@@ -1570,3 +1570,114 @@ The Hunter's request pending, both of his Volume 8 pages spent at 428 and 440 ·
 **The question Volume 9 opens onto is fixed at `outline/volume-08.md` §*New question for Volume 9* and is not re-derived here: she has spent a volume being the strongest person in every room and it turned out to be a qualification; she has refused the one place on nine days of road that would have paid her for the only thing she is good at; the price of the refusal is that there is now nothing on nine days of road that wants anything from her; and at the top of a realm, with the only door in the world being a piece of paper she has been carrying since a furnace took her father, she is at last free enough to go and open it. The question is not whether she will be recruited again. It is what a person does with a silence that she bought, when the one voice in her head has nothing left to spend and has stopped answering, and there is a door eleven hundred years of practice has never been opened from the inside.**
 
 **And the last thing that happened on the last page of Volume 8, which is the first thing Volume 9 opens on: she said his name once into a shed with boards on the floor, and nothing came back, and she waited anyway.**
+
+---
+
+## VOLUME 8 CLOSED **AND AUDITED** at ch 478 — every thread, walked at the close, and what Volume 9 inherits live
+
+**The Volume 8 close phase read all fifty-eight chapters and measured every thread below against them. It opened no
+chapter, repaired nothing, and changed no thread's state — it measured, and it recorded twenty-one findings. The list
+above under *VOLUME 8 CLOSED at ch 478* is the Batch 0004 drafting phase's record and stands as it wrote it; where this
+block and that block disagree, this block is right.**
+
+**Nothing in the list below is closed by the close, because the close changed no beat.**
+
+### Carried from before Volume 8 — all walked and all confirmed live, none touched
+
+| Thread | State at ch 478, measured |
+| --- | --- |
+| **The Hunter's request** | **Pending.** Both of his Volume 8 pages spent, ch 428 and ch 440, nine feet off, notebook shut, in the ordinary voice, **and she asks him both times and he buys nothing either time.** `Wall writ` **0** · `field agent` **0** · `Hunter` **0**. **`Bai Zhu` is 1, at ch 440 — the first time the name is on the page in the manuscript (F13).** Nothing about his paper, his order or his brother is raised |
+| **Everything above the offices that vouched** | **Unread and unnamed.** No office is named anywhere in ch 421–478. The Order is the first institution named since the Bureau and it is named once, at ch 425 |
+| **The fine hand and the man who can read it** | **Both spent at ch 417 and neither given back.** She can read one and cannot account for it; at ch 474 she tells a room full of strangers that and nothing else. **A woman of twenty-two still does not know what a hand said about her, and a tied sheet with her on it went east on the twenty-second with nothing done to it** |
+| ***Kiln-born* in two heads and on no paper** | `kiln-born` **0** across all fifty-eight chapters |
+| **What became of the eleven** | Not raised. `Feng` **0** · `Hou Sanliang` **0** · `Ning Bo` **0** · `Ning Wu` **0** |
+| **The register still *reconciled*** | `reconciled` **0** across all fifty-eight chapters, unread |
+| **The Clay Plate** | Worn, **named once at ch 441** (`plate` **1**, `plates` **0**), **described in no chapter.** At ch 476 she walks four miles with a leaded thing strapped flat against her ribs and does not name it |
+| **The year still carrying** | **Mentioned zero times in fifty-eight chapters.** She does not forgive him and she does not tell him to stop. **At ch 466 he gives her a bill in a number and she does not thank him for it** |
+| **MEMBER ABSENT** | `MEMBER ABSENT` **0** · `member absent` **0**. Carried, never raised |
+| **The relicensing legs** | In order, **and `clearance` 0 · `countersignature` 0 · `seal` 0 · `sealed` 0.** No stage-day or leg is shown anywhere in ch 421–478 and no card in this run says one was or was not required |
+| **The relicensed licence** | **Never opened.** `licence` **2** (ch 425 and ch 449, both in Xie Changyin's mouth, both the Order's own paper) · `license` **0**. **Volume 8 raised what it is worth three times — ch 470, ch 476 and ch 478 — and never read it** |
+| **The claim** | Answered, not reopened. **Hou Sanliang paid, never met, off the page. Ning Bo's account discharged. Ning Wu's decade a line with no mark.** All three tokens return 0 |
+| **The ch 128 silence, the ch 150 refusal, the four erased months** | **The silence is unbroken and the refusal is not softened anywhere.** **The four erased months are referred to once, in narration, at ch 424 — *The four erased months are the only thing she has ever thrown away and she did not do that on purpose* — and are not named, dated, explained or forgiven (F12).** No month is named anywhere in the volume |
+| **No second Lung, no second appointment** | `Lung` **0** · `appointment` **0** · `Feng` **0** |
+| **The channel** | **No figure of what is left of him is stated on any page in ch 421–478.** The bill at ch 466 is a figure of a total and not a figure of him, and ch 466 and ch 467 both refuse to use it as one. The last figure in the manuscript remains *about six weeks* at ch 236 |
+| **Her mother's name** | Never said |
+| **`Ledger`** | **0**, case-insensitive, word-bounded, across all fifty-eight files. Never ordered, held, priced, refused or thought about |
+| **Nothing of `outline/ending.md` previewed** | `Scribe` **0** · `Anchor` **0** · `Sisterhood` **0** · `bargain` **0** · `Shuyin` **0**. No death named, the Anchor not placed, the Sisterhood not touched, the bargain not on the table |
+
+### Added by Volume 8 — the volume's own threads, walked at the close
+
+- **Nascent Soul 7 → 9, and the ceiling of a realm.** Ch 434 on day 1,152 and ch 470 on day 1,291, re-derived under
+  `((day − 134) mod 30) + 1` as the twenty-ninth of the month beginning 1,124 and the eighteenth of the month beginning
+  1,274. Intervals of **76** and **139** days. **The ninth stage arrived without her asking and without her being able
+  to stop it. Two bracketed layer lines in fifty-eight, at ch 434 and ch 470, and the budget is spent.**
+- **She cannot call a halt — herself, once a thing she is in has started.** Named once at ch 434 and **paid off at
+  ch 470, in the worst place it could land, where she says no out loud in a room and the no does not take.**
+- **He stopped putting work where a hand would find it, at ch 462, and she paid for it with eighty-four days of nobody
+  paying for anything.** **1,340 − 1,256 = 84**, and ch 478 says eighty-four days. **He has had nothing to spend since
+  the thirteenth of the month beginning 1,244 and has said nothing since ch 471.** Three spends, three people who were
+  not her, one man east of the turn who does not come back, and she finds out four days late.
+- **The bill, at ch 466, in a number, once: one thousand one hundred and nine days and six hours**, of which twenty-one
+  days and four hours is the work he put where a hand would find it. **She has not spent it, has not forgiven it and
+  has put it nowhere.** Her own finding out of it: the standing draw is the price of being findable, and **she does not
+  know who set the price and will not go through the door in it.**
+- **The Order of the Recruited**, named once at ch 425 in a shed at a mill. One building, one counter, one book with
+  four hundred and seven names, one rate, one lamp on every table, one rule. **No budget — Volume 12's. No hall, no
+  department, no floor, no rank list, no committee, no house, no title beyond *recruited*.** Xie Changyin, sixty-one, on
+  the page at ch 423, 425, 449, 468, 469, 470, 472, 473, 474 and 477. **She is wrong about exactly one thing and does
+  not know it, and Ning Yan refused that sentence and nothing else.** She has a life of her own that continues whether or
+  not Ning Yan comes: the offer is final after the twelfth and she goes up the road for the season.
+- **THE REFUSAL, ON THE RECORD, AT CH 474.** She reads the sheet **to the room first**, then says no with no reason in
+  front of it; Xie Changyin reads the entry back to her; Ning Yan makes her take back the one line that is hers and the
+  woman refuses, because a thing that is not put in is not a refusal; **so Ning Yan reads her own refusal back to her.**
+  A man of sixty-one writes one line and the date in the ordinary hand. **There is no hand in that building or on that
+  ground that takes it out. It is the fourth entry of her life and the first one she chose.**
+- **The cost of the refusal is silence and not persecution.** The Order stops reading her: the bench at the end of the
+  lane goes empty on the seventh, the floor stops asking about carts, the man behind the counter asks whether there is
+  something and is told there is not, and the folder goes east on the first with nothing on it. **She bought her own
+  anonymity with her own usefulness, and it is the best thing that has happened to her in two years, and she cannot say
+  so out loud to anybody including him.**
+- **Her ch 417 refusal was read correctly by strangers and is the reason the Order came.** Stated once, in her own
+  thought, at ch 445, and paid at ch 474 when she tells a room full of strangers that she is the only person on nine
+  days of road who can read the hand they cannot.
+- **Six structural-answer mouths** at ch 424, 437, 443, 452, 461 and 477 — a carter, a reader of twenty-six, a turnstile
+  man, a woman of fifty, a man of thirty-four called Zheng, and Xie Changyin. **Six different people, six different
+  statements. The tenth part is not given and nothing proves the crews wrong, and the Order never explains why a bounded
+  world needs readers.**
+- **The fourth frame scene is on the page at ch 458**, away from her hearing, in the layer's own reading-space, and it is
+  **the only marked present frame in the volume.** Every sentence Yuan speaks in ch 421–478 is in the present tense.
+- **The line's own people stopped not knowing she exists, in Batch 0004, and it was not the Hunter's doing.** It was a
+  woman of twenty saying her name out loud in a road with four men unloading within nine feet, plus eleven weeks of a
+  woman of fifty checking her figures.
+- **At the last page nothing on nine days of road wants anything from her at all**, and she waits anyway.
+
+### The threads Volume 9 inherits live — the explicit list
+
+**1. The relicensed licence, still unopened, and now the only door in the world.** Raised three times in Volume 8 and read
+zero times. **She wants to open it and has not, and the reason is on the page: at ch 470, in a room with a lamp in it,
+she worked out exactly what it is to have a document read aloud to you, and she is not going to be read to again.**
+**2. The refusal standing in the best book on nine days of road, unremovable, with the third of a month against it.**
+**3. Nothing above her.** Every technique she owns runs out at nine and there is no tenth and no hand on any road that
+can take her one step further. **4. He has nothing to spend and has stopped answering, and she waited anyway.**
+**5. A sheet on a cart east of the turn with a girl of twenty-two on it that nobody is going to read.** **6. The address
+of a shelf, a room and a date on a string, given and not asked for, scraped off a board and written again.**
+**7. Thirteen lines in a left column that the layer wrote and that no one on that ground can explain.** **8. A man of
+thirty-four with two figures against one line of his own work, who has never once looked at them.** **9. A chair at a
+crossing under a cloth with a light in the hut behind it.** **10. The woman of fifty's honesty — she wrote nothing down
+for nineteen years and she said so out loud.** **11. The Hunter's request, still pending, now with a name on the page.**
+**12. Xie Changyin's season, which continues whether or not Ning Yan comes.**
+
+**The question Volume 9 opens onto is fixed at `outline/volume-08.md` §*New question for Volume 9* and is not re-derived
+here: the question is not whether she will be recruited again. It is what a person does with a silence that she bought,
+when the one voice in her head has nothing left to spend and has stopped answering, and there is a door eleven hundred
+years of practice has never been opened from the inside.**
+
+**And the last thing that happened on the last page of Volume 8, which is the first thing Volume 9 opens on: she said
+his name once into a shed with boards on the floor, and nothing came back, and she waited anyway.**
+
+### What the close added to this file, and what it did not
+
+**The close added no thread. It measured the existing ones, corrected four recorded figures that did not reproduce
+(`about…` at 470 not 136 per the batch's own stated method · bare capital `Order` at 6 not 7 · straight apostrophes at
+33 not 0 · italic asterisk pairs at 8 not 16), and recorded two changes that are new facts rather than faults: the four
+erased months are referred to once at ch 424, and the Hunter is named once at ch 440.**
