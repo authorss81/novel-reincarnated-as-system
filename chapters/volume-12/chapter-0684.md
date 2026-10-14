@@ -26,7 +26,7 @@ Then she said the lines, because she is a person who says the whole of a thing.
 
 “Paper, quills and ink, four thousand five hundred and sixteen. Lamp oil and wick, one thousand six hundred and eighty. Firewood, two thousand four hundred. Food, three thousand five hundred and sixty. The counter and the four doors, three hundred and sixty. The rate at two coppers the page, eighty-one thousand nine hundred and sixty. The rate at four coppers the page, six hundred and four. Three rooms, furnished, nothing at all.”
 
-Then she said the two numbers and left about nine counts in the room before the second one.
+Then she said the two numbers and left nine counts in the room before the second one.
 
 “Those seven lines add up to ninety-five thousand and eighty.”
 
@@ -58,7 +58,7 @@ It was about forty people saying numbers.
 
 They said numbers for about ten minutes.
 
-A man at the fourth table said, “Two thousand nine hundred and twenty. That is a page a day for two and a half years at the hard rate.”
+A man at the fourth table said, “Two thousand nine hundred and twenty. That is a page a day for two years at the hard rate.”
 
 A woman said, “That is a page a day for about four years at two coppers.”
 
@@ -74,9 +74,11 @@ It took about ten minutes and a figure that was on a wall.
 
 ## What Two Hundred People Did With A Number
 
-They did it for about ten minutes and then about four of them went and got the sheet.
+They did it for ten minutes and then four of them went and got the sheet.
 
-A man of about sixty went to the wall with a stool and took the sheet off two nails at the north end and carried it to the fourth table and put it flat on the boards and four people looked at it. A woman of about fifty did the sum a fifth way and got two thousand eight hundred and sixty, which is wrong, and said so out loud, and then did it a sixth way and got the figure that was on the wall.
+A man of about sixty went to the wall with a stool and took the sheet off two nails at the north end and carried it to the fourth table and put it flat on the boards and four people looked at it.
+
+A woman of about fifty did the sum a fifth way and got two thousand eight hundred and sixty, which is wrong, and said so where the table could hear her, and then did it a sixth way and got the figure that was on the wall.
 
 A man at the eleventh table said, out loud, to nobody, that he had been in this room thirty-one years and had never once added that wall up, and that he was not going to start now.
 
@@ -84,9 +86,9 @@ A reader of about twenty-five asked her whether she would do it again from the t
 
 She said, “Yes.”
 
-She did it again from the top, standing at the fourth table in daylight with four people either side of her and about forty watching from the tables, and it took her nine seconds.
+She did it again from the top, standing at the fourth table in daylight with four people either side of her and forty watching from the tables, and it took her nine seconds.
 
-And then a woman she has never spoken to and does not know said, in the ordinary voice, at about the fortieth minute:
+And then a woman she has never spoken to and does not know said, in the ordinary voice, in the fortieth minute:
 
 “You have done that for eight years and I have watched you do it.”
 
@@ -130,7 +132,7 @@ And then he said the sentence that is the whole of what she got out of that buil
 
 ## Why She Said It
 
-She said why she said it at the ninth hour of the thirtieth of the month beginning 2,084, standing at the end of a counter, out loud, because she says things out loud standing up in daylight since she was nine years old.
+She said why she said it at the ninth hour of the thirtieth of the month beginning 2,084, standing at the end of a counter where a room can hear it, because she says things standing up in daylight since she was nine years old.
 
 “I said that number in a room with a hundred people in it and I can never take it back, and I did it on purpose, and I want it understood that I did it in daylight and standing and I said the whole of it including the part that makes a person in this building look as though they have been sitting on something.”
 

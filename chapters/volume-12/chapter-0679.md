@@ -2,7 +2,7 @@
 
 She was at the end of the counter at the fourth hour of the eleventh of the month beginning 2,084, standing, with about a hundred people reading behind her and the sun on the boards through the shutters, and Xie Changyin put a sheet on the table face up and squared it with two fingers and did not look at her.
 
-She is sixty-three. She was nineteen when she came in and it has been forty-four years. She has not got smaller and she put the sheet down the way she put it down four years back, which is flat, and in her own hand, which is a plain upright hand and not a good one.
+She is sixty-three. She was nineteen when she came in and it has been forty-four years. She has not got smaller and she put the sheet down the way she put it down two years back, which is flat, and in her own hand, which is a plain upright hand and not a good one.
 
 ## The Sheet, Again
 
@@ -20,7 +20,7 @@ She read it. She did not do it well the first time either, and she said so then,
 
 “And the name, in the book, in the ordinary hand, with the date against it. And a name on it cannot be un-recruited. There is no hand in this building that takes one off and there has never been one, and I have looked twice, for my own.”
 
-That was five lines. She had read them four years ago in this room at the fourth hour of the third of a month and they were the same five lines and she had heard every one of them arrive and had not once felt anything, because every one of them was fair.
+That was five lines. She had read them two years and two months ago in this room at the fourth hour of the third of a month and they were the same five lines and she had heard every one of them arrive and had not once felt anything, because every one of them was fair.
 
 She put two fingers on the sixth line and stopped.
 
@@ -36,7 +36,7 @@ That is one question and she has not asked a second one since the second of a mo
 
 Xie Changyin took her fingers off the paper.
 
-“I have been waiting four years for you to ask it that,” she said, “and I want you to know that I was not going to say it until you did, and that if you had asked me for it at the fourth hour of the third of a month five years ago I would not have said it then.”
+“I have been waiting two years and two months for you to ask it that,” she said, “and I want you to know that I was not going to say it until you did, and that if you had asked me for it at the fourth hour of the third of a month two years and two months ago I would not have said it then.”
 
 “Why.”
 
@@ -62,7 +62,7 @@ And here is the part that took Ning Yan the rest of the hour and most of the nig
 
 The answer she had come east for was going to be one of two things and it turned out to be neither.
 
-It was not going to be that a reader keeps people. She had known that since the third of a month five years ago when a man with a brush put four coppers on the wood and she had put her hand out and it had stopped in the air, and a person who cannot be paid is not kept, and that has been the price of the reading her whole working life.
+It was not going to be that a reader keeps people. She had known that since the third of a month two years back when a man with a brush put four coppers on the wood and she had put her hand out and it had stopped in the air, and a person who cannot be paid is not kept, and that has been the price of the reading her whole working life.
 
 And it was not going to be that a reader is a shield between a person and whatever is above the line, because Xie Changyin had just told her in plain words that this room has never once turned anything back, and Xie Changyin has not told her a false thing in forty-four years without ever once being made to.
 
@@ -72,13 +72,13 @@ It was that a document gets read by somebody.
 
 That is all. A thing comes in and it gets read true before it goes up, and the reader is the hand that reads it, and the rate is paid into a fold in the inside of a coat, and the room is there so that the reader will be in it when the call comes, and the call cannot come twice in a day because a reader who is called twice is a reader who cannot be relied on for either.
 
-An instrument. She had known it was an instrument four years ago and had refused it in a room with the shutters up because an instrument is the thing you are made into, and she had thought that was the moral answer, and it was not the moral answer. It was the shape of the thing. The moral answer is a different thing entirely and it is not on that sheet, and she has been carrying an answer to a question she was never asked for five years.
+An instrument. She had known it was an instrument two years back and had refused it in a room with the shutters up because an instrument is the thing you are made into, and she had thought that was the moral answer, and it was not the moral answer. It was the shape of the thing. The moral answer is a different thing entirely and it is not on that sheet, and she has been carrying an answer to a question she was never asked for two years.
 
 ## What She Said About It Afterwards
 
 She said, out loud, standing, at the fifth hour of the eleventh of the month beginning 2,084:
 
-“For five years I have thought I was refusing a room with the shutters up, and that is what I refused, and it is the sixth line and not the fifth.”
+“For two years I have thought I was refusing a room with the shutters up, and that is what I refused, and it is the sixth line and not the fifth.”
 
 Xie Changyin said, “It is the fifth and the sixth together and you cannot have one without the other.”
 
@@ -86,7 +86,9 @@ She said, “Then say what it is again without the five lines, because I did not
 
 Xie Changyin turned the sheet round about its middle so the six lines faced away from her and put one finger on the seventh thing, which is not written on it.
 
-“You are handed a document,” she said, “and you read it true, and then you are asked to say one word, and the word goes in a book behind a counter, and there is no hand in this building or on this ground that takes it off. That is the job and it is not a fair trade and it is not a mean one. It is the only trade in eleven hundred years of this county that has ever made a person be read by somebody instead of being taken on somebody’s word.”
+“You are handed a document,” she said, “and you read it true, and then you are asked to say one word, and the word goes in a book behind a counter, and there is no hand in this building or on this ground that takes it off.
+
+That is the job. It is not a fair trade and it is not a mean one. It is the only trade in eleven hundred years of this county that has ever made a person be read by somebody instead of being taken on somebody’s word.”
 
 She said, “And I am wrong about one thing and I have been wrong about it for forty-four years and I do not know that I am wrong about it, so I am going to say it and you can do what you like with it.”
 
@@ -100,6 +102,6 @@ She put her own hand flat on the table beside it, not on it, with four fingers a
 
 At the ninth hour she took the bar off her shoulder outside the gate and put it on the ground in twenty counts and looked west down a made road that has seven carts on it in an hour going east and two going west.
 
-She worked out that the first of the month beginning 2,114 is twenty days off. She worked out that she has refused this sheet once in five years and that the sheet does not change and she does not either.
+She worked out that the first of the month beginning 2,114 is twenty days off. She worked out that she has refused this sheet once in two years and that the sheet does not change and she does not either.
 
 And she worked out that she is going to have to say the word no out loud again in this room in daylight, in front of a book, and that this time she is going to know what the thing is for when she says it.

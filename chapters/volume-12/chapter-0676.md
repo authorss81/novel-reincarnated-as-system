@@ -8,13 +8,17 @@ She went off the turn at the first hour of the second of the month beginning 2,0
 
 The six days are two miles and a bit a day, and the two miles and a bit is the whole of what six days east of a turn did to her.
 
-She can carry a bar nine feet nine on her left shoulder for about three hours. After that the shoulder goes and the strap cuts across the coat at the shoulder seam and the place where it cuts is the place that tells her when to stop, and she has been stopping at that place since she was sixteen years old. Two miles and a bit is three hours and about forty minutes of it on a good surface and it is four hours on a made road with a strap that is older than the road.
+She can carry a bar nine feet nine on her left shoulder for about three hours. After that the shoulder goes and the strap cuts across the coat at the shoulder seam, and the place where it cuts is the place that tells her when to stop, and she has been stopping at that place since she was sixteen years old.
+
+Two miles and a bit is three hours and about forty minutes of it on a good surface and it is four hours on a made road with a strap that is older than the road.
 
 ## What Six Days Took Off Her
 
 The strap went at the second hour of the fifth of the month beginning 2,084, which is the fourth of the six days, six miles east of the turn.
 
-It did not go all at once. It went the way a thing goes that has been holding for a long time, which is that it held for nine hours on the second day and fourteen on the third and twenty-two on the fourth, and then on the fourth, at the second hour, it parted at the stitch she had put in it herself four years back with a needle she does not have now, and a bar nine feet nine went down into the dust of a made road on her own side and lay there.
+It did not go all at once. It went the way a thing goes that has been holding for a long time, which is that it held for nine hours on the second day and fourteen on the third and twenty-two on the fourth.
+
+And then on the fourth, at the second hour, it parted at the stitch she had put in it herself four years back with a needle she does not have now, and a bar nine feet nine went down into the dust of a made road on her own side and lay there.
 
 She stood on the made road and looked at it.
 
@@ -76,7 +80,9 @@ There are two hundred people in that ground and a stone at the head of each row 
 
 That is what a count is. She stood in front of it and understood it the way you understand a thing you have been looking at from the outside of a fence for two years.
 
-A man does not come to the north end of a board in the evening. A man comes in the morning with a good arm and a bad arm and does his day’s work, and in the evening somebody who is not him writes a stroke and a number, and the number is days, and the stroke is a day, and it is the same figure every evening for nine years for four men, and the whole of the world the men in that ground live in is a wall with four numbers on it and a woman at a counter in a building where she is not counted at all.
+A man does not come to the north end of a board in the evening. A man comes in the morning with a good arm and a bad arm and does his day’s work, and in the evening somebody who is not him writes a stroke and a number.
+
+The number is days and the stroke is a day, and it is the same figure every evening for nine years for four men, and the whole of the world the men in that ground live in is a wall with four numbers on it and a woman at a counter in a building where she is not counted at all.
 
 ## The Figure She Kept
 
@@ -84,7 +90,7 @@ She had a figure in her head. She has had it since the first of the month beginn
 
 Five hundred and thirty-one days. The figure at any day is the day less one thousand five hundred and sixty, and she has not had to work it out since she was twelve years old, and on the eighth of the month beginning 2,084 the figure is five hundred and thirty-one.
 
-She stood at the north end of the rows at the sixth hour with two hundred people about ten feet apart doing what they do in a ground, and she worked the whole thing out loud in her own head in nine seconds, and she did not say it.
+She stood at the north end of the rows at the sixth hour with two hundred people about ten feet apart doing what they do in a ground, and she worked the whole thing through in her own head in nine seconds, and she did not say it.
 
 Here is why, and she put it to herself standing there, and it is the reason and not a reason she had ready:
 

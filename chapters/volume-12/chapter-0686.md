@@ -2,17 +2,19 @@
 
 She went back to the north end of the rows at the first hour of the sixteenth of the month beginning 2,114 to look at her own line and see whether it had stayed.
 
-It had stayed. It had four strokes and four numbers against it on one side and nine on the other, in the ordinary hand of five different men, written in the ordinary way at the end of the ordinary day, going either side of it and not across it.
+It had stayed. Four strokes and four numbers had gone in on the fifteenth, in the ordinary hand of four different men, written in the ordinary way at the end of the ordinary day, going either side of it and not across it.
 
-Two days. About three hundred men had come off that ground and at least one of the five of them had stood about four feet off her line at some point in the evening with a bit of chalk in his hand and had not read it.
+One night. About three hundred men had come off that ground and at least one of the four of them had stood about four feet off her line at some point in the evening with a bit of chalk in his hand and had not read it.
 
 She stood there and did the thing she has done about nine times in nine years and has never once got used to, which is to look at the thing she has made and understand it from the outside, in daylight, with somebody else’s use of it in front of her.
 
-Four fingers and a thumb wrote a shape and five men wrote days next to it and not one of the five stopped.
+Four fingers and a thumb wrote a shape and four men wrote days next to it and not one of the four stopped.
 
 ## Three Doors She Knocked On
 
-She went east on the sixteenth of the month beginning 2,114, about four miles, in a day and most of a night, and she did the four miles twice over, which is more ground than she has covered in one go since the first of the month beginning 2,084. The bar goes on the left shoulder at the fourth hour and comes off at the ninth hour and she did it in that order both ways, with the right hand swinging and the right arm open from about the sixth hour on, and she was at the gate of the lane at the ninth hour of the sixteenth with a bar on the ground at her feet.
+She went east on the sixteenth of the month beginning 2,114, about four miles, in a day and most of a night, and she did the four miles twice over, which is more ground than she has covered in one go since the first of the month beginning 2,084.
+
+The bar goes on the left shoulder at the fourth hour and comes off at the ninth hour and she did it in that order both ways, with the right hand swinging and the right arm open from about the sixth hour on, and she was at the gate of the lane at the ninth hour of the sixteenth with a bar on the ground at her feet.
 
 She was at the counter at the fourth hour of the seventeenth of the month beginning 2,114.
 
@@ -28,17 +30,17 @@ She said, “I know that is the book. I am asking whether it is the only one in 
 
 He looked at the shelves behind him for a while and then he said, “I have been in this room forty-six years and I do not know of another, and I have not looked for one, because in forty-six years nothing has ever come into this building that was a stage.”
 
-She said, “A stage came into this building yesterday that did not go through this building.”
+She said, “A stage came into this county two days ago that did not go through this building.”
 
 He said, “Then I have no way of holding it and I am telling you that as a fact and not as a refusal.”
 
 ## The Second Was A Line On A Sheet
 
-She asked whether there was a sheet. There is a wall at the end of the counter with a total on it and seven lines under it and a period at the top, and she has read it and done the arithmetic on it and said the answer out loud in that room in front of a hundred people nine days ago.
+She asked whether there was a sheet. There is a wall at the end of the counter with a total on it and seven lines under it and a period at the top, and she has read it and done the arithmetic on it and said the answer out loud in that room in front of a hundred people on the thirtieth.
 
 There is a keeper’s sheet. There is a wall. Neither of them is a place a person goes.
 
-There is a rate board behind the counter with three lines on it, and the third of them is a hand not one reader in this building can make out, at twice the first rate, and there is nothing under it but a figure and it is not hers and it was not hers in five years and it never will be.
+There is a rate board behind the counter with three lines on it, and the third of them is a hand not one reader in this building can make out, at twice the first rate, and there is nothing under it but a figure and it is not hers and it has not been hers in two years and it never will be.
 
 ## The Third Was The People In The Room
 
@@ -52,15 +54,21 @@ A stage that other people can see is a thing that goes into a room. It goes into
 
 Nine times there has been a room with people in it and she has not been in it. Nine times it went into the ground.
 
-This time she was in it. This time there were a hundred people nine feet off and a woman of sixty-three and a man of sixty-five with a book and a man of thirty at a desk, and it was at the fourth hour of the afternoon on the fifteenth of the month beginning 2,114, and it did not go into any of them, because she has known since the seventeenth of the month beginning 2,054 that an announcement is made to arrive, and to arrive it has to be sent, and to be sent it has to be said out loud in daylight, standing, to somebody.
+This time she was not in it either. This time there were two hundred people nine feet off and a bar lying along the ground and the light going down the rows, and it was at the fourth hour of the afternoon on the fifteenth of the month beginning 2,114, and it did not go into any of them.
+
+She has known since the seventeenth of the month beginning 2,054 that an announcement is made to arrive, and to arrive it has to be sent, and to be sent it has to be said out loud in daylight, standing, to somebody.
 
 And she cannot do that.
 
-Not because she will not. Because she asked a question standing up on a floor with a boy of sixteen in it — whether a person can be announced without being designated — and she got half an answer, and the half was that an announcement is made to arrive and if there is a person in the place it arrives. The other half is addressed to a body. She does not have one of the other kind, she has not got a body that anything can address yet, and she cannot ask that question again because it was asked once and it cannot be un-asked.
+Not because she will not. Because she asked a question standing up on a floor with a boy of sixteen in it — whether a person can be announced without being designated — and she got half an answer, and the half was that an announcement is made to arrive and if there is a person in the place it arrives.
 
-So there are a hundred people in a room nine feet off her and she cannot say one word to any of them about what happened to her yesterday afternoon, and it is not fear, and it has never been fear, and she has said a levy out loud in a ground with two hundred people in it and a total out loud in a room with a hundred people in it and a figure of five hundred and thirty-one days to a wall.
+The other half is addressed to a body. She does not have one of the other kind, she has not got a body that anything can address yet, and she cannot ask that question again because it was asked once and it cannot be un-asked.
 
-She stood at the end of a counter at the seventh hour of the seventeenth of the month beginning 2,114 with a hundred people nine feet off her and worked out that the answer to *can a person be announced without being designated* is not something she gets to decide on a good day, and that she asked it, and that the answer she got was half of it, and that she is not going to un-ask it in order to be able to use a room.
+So there are two hundred people in a ground nine feet off her and she cannot say one word to any of them about what happened to her two days ago, and it is not fear, and it has never been fear, and she has said a levy out loud in front of four hundred people and a total out loud in a room with a hundred people in it and a figure of five hundred and thirty-one days to a wall.
+
+She stood at the end of a counter at the seventh hour of the seventeenth of the month beginning 2,114 with a hundred people in the room and not one of them nine feet off her.
+
+The answer to *can a person be announced without being designated* is not something she gets to decide on a good day. She asked it. The answer she got was half of it. And she is not going to un-ask it in order to be able to use a room.
 
 ## What A Promotion Normally Has Under It
 
@@ -80,7 +88,7 @@ Two hundred people in a ground have a stone at the head of a row.
 
 The harvested have a board.
 
-And on the fifteenth of the month beginning 2,114, at the fourth hour of the afternoon, in a building with a hundred people in it, at a counter, in daylight, there was no entry made anywhere for anything that happened to her, and there is not going to be one, and the only record of it in the world is a line she wrote herself on a board at the north end of a ground that five men have written either side of since without reading it.
+And on the fifteenth of the month beginning 2,114, at the fourth hour of the afternoon, in the open, at the north end of two hundred rows of stones, in daylight, there was no entry made anywhere for anything that happened to her, and there is not going to be one, and the only record of it in the world is a line she wrote herself on a board that four men have written either side of since without reading it.
 
 ## The Only Record
 
@@ -96,4 +104,4 @@ She said it at the eighth hour of the seventeenth of the month beginning 2,114 a
 
 And then she went out into the yard and got a bar off the ground in a count of twenty-two and walked the four miles west in the dark as far as a gate, and crossed two miles of flat, and slept on it the way she sleeps, and was at the north end of the rows at the first hour of the eighteenth of the month beginning 2,114.
 
-The line was still there. Twelve more strokes had gone in beside it.
+The line was still there. Eight more strokes had gone in beside it.

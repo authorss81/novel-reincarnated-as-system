@@ -4,7 +4,7 @@ She was in the building from the fourth hour of the fifteenth of the month begin
 
 ## Four Days With Nothing To Do In Either
 
-There is one counter. There are twenty-two tables. There is a lamp on every table and about a hundred people at them reading things that have been carried up a stair somewhere.
+There is one counter. There are twenty-two tables. There is a lamp on every table and a hundred people at them reading things that have been carried up a stair somewhere.
 
 There is no work in that room she is allowed to do.
 
@@ -36,7 +36,7 @@ She said, “And in nine days of road there is not one person who has ever notic
 
 ## What The Room Gets For Free
 
-Here is the sum of the six days, and she did it standing at the end of the counter on the eighteenth of the month beginning 2,084 at the seventh hour, out loud, in daylight, to about sixty people and no one in particular.
+Here is the sum of the six days, and she did it standing at the end of the counter on the eighteenth of the month beginning 2,084 at the seventh hour, in daylight, to sixty people and no one in particular.
 
 What she cost that room in six days: nothing.
 
@@ -48,7 +48,9 @@ And here is the other half of the sum and it is the one that costs.
 
 Nothing in that building has to account for her.
 
-A reader is on a book. A reader has a rate. A reader has a room with a shelf in it and a lamp in it. A reader can be called twice in a day and not more, and the word *not* in that sentence is doing all of the work, because the whole of the protection in that trade is a limit.
+A reader is on a book. A reader has a rate. A reader has a room with a shelf in it and a lamp in it.
+
+A reader can be called twice in a day and not more, and the word *not* in that sentence is doing all of the work, because the whole of the protection in that trade is a limit.
 
 She has no rate and no room and no shelf and no lamp and no limit, and the reason the building does not have to account for her is that there is nothing about her to account for. If she were not in the room the day would run the same.
 
@@ -60,7 +62,7 @@ On the nineteenth of the month beginning 2,084, at about the fifth hour, a woman
 
 The woman did not ask. She put it down the way you put a thing down on a table when you have twenty things to do and your hands are full, and then she went away, and the sheet was face up and the sun was on it and the hand on it was one Ning Yan cannot read.
 
-She read it standing up in about nine seconds.
+She read it standing up in nine seconds.
 
 It was a strip about a length of ditch on the north road and a number of days against it and a date. It was a true sheet. Nothing in it was wrong. It was going up a stair at the fourth hour the next morning and if it had gone up unread the days in it would have been the days somebody said they were.
 
@@ -70,7 +72,7 @@ She did not say anything back. She has not said anything back to a person in nin
 
 ## Nine Feet Off The Made Road
 
-She went out to the gate at the fourth hour of the nineteenth of the month beginning 2,084 and stood in the yard with the bar on the ground at her feet and about nine feet off a man with a shut notebook under his arm, which is the way he has been for four years and will be until this is over.
+She went out to the gate at the fourth hour of the nineteenth of the month beginning 2,084 and stood in the yard with the bar on the ground at her feet and nine feet off a man with a shut notebook under his arm, which is the way he has been for four years and will be until this is over.
 
 He does not buy anything. He does not threaten anything. He has never asked her a question and he is not going to start.
 
@@ -98,7 +100,9 @@ He said, “The count was the part where they were the subject of something. Nin
 
 And she paid it.
 
-She paid it on the sixth day, standing at the end of the counter at the ninth hour of the twentieth of the month beginning 2,084, with a hundred people reading behind her and a lamp on every one of them that was worth nothing at that hour, and she said it out loud because she has said things out loud standing up in daylight since she was nine years old and she was not going to stop doing the only thing she is good at in order to be comfortable.
+She paid it on the sixth day, standing at the end of the counter at the ninth hour of the twentieth of the month beginning 2,084, with a hundred people reading behind her and a lamp on every one of them that was worth nothing at that hour.
+
+And she said it where sixty people could hear it, because she has said things standing up in daylight since she was nine years old, and she was not going to stop doing the only thing she is good at in order to be comfortable.
 
 “I have been in this room six days and I have cost it nothing and it has cost me nothing and that is not two true sentences meeting. It is one true sentence wearing two coats.”
 
@@ -110,4 +114,4 @@ She said, “And I am going to stay anyway.”
 
 She said, “And I am going to be the one who reads the sheets not one person in this room can make out, and I am going to do it for nothing, and not one person in this building is going to be able to say afterwards that I was given a rate or a room or a place, and there is going to be no line anywhere with my name on it that says I was here.”
 
-She said, “I want that said out loud, because in five years I bought the best thing I have ever had with my own usefulness, and I am about to give it back for no reason at all, and there is not one hand in this building that is going to be able to write down that I was ever here, including the one I asked to.”
+She said, “I want that said out loud, because in two years I bought the best thing I have ever had with my own usefulness, and I am about to give it back for no reason at all, and there is not one hand in this building that is going to be able to write down that I was ever here, including the one I asked to.”

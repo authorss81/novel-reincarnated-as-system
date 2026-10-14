@@ -54,17 +54,19 @@ What she wanted to know was whether this road and that road are the same road. S
 
 She got the figure at the sixth hour, at a point where the road came up on a rise and she could see a long way east, and then she stopped, because the figure was wrong and she could see why it was wrong before she had done the arithmetic.
 
-There are stakes along the north side every twenty yards. She counted them from the wall.
+It said six miles past the wall. There were not six miles past the wall. She could see the end of what was left of it from where she was standing, and there were lamps in it.
 
-Fourteen hundred and six stakes from the wall east, at twenty yards, is nine miles and a quarter, and from the turn that is twenty-two miles and a quarter, and she has not walked twenty-two miles in six days at two miles and a bit a day and she is not going to.
+There are stakes along the north side every twenty yards, and a man does not set one at twenty yards and then set the next at forty. She counted them from the wall, four at a time, and did the fours twice.
+
+Two hundred and sixty-four stakes at twenty yards each is three miles of made road east of the wall. Three miles east of a wall that is thirteen miles east of the turn is sixteen miles east of the turn, and that is a figure the road itself says and not one her shoulder says.
 
 ## Sixteen Miles East
 
 So she worked it the other way, which is the way she works everything.
 
-She has thirteen miles to the wall from the turn and she has gone past it. She counted the stakes and she counted her own paces on a stretch of road with the bar and did it twice, and got a figure that did not agree with the stakes by about a ninth, which she allowed for, because she is counting her own paces and not the road.
+She counted the stakes and she counted her own paces on a stretch of road with the bar and did it twice, and the two figures did not agree by about a ninth, which she allowed for, because she is counting her own paces and not the road.
 
-Past the wall, the stakes and the paces put her three miles in, which is sixteen miles east of the turn.
+Both of them put her three miles in, and she is standing in a ditch with the bar at her feet, six days on a made road, with a figure.
 
 She stood in the ditch at sixteen miles at the seventh hour of the ninth of the month beginning 2,084 with a bar at her feet and worked out the rest of it as a sum, standing up, out loud, because she says sums out loud:
 
@@ -102,7 +104,9 @@ She has walked sixteen miles and six days to get to a thing that is standing in 
 
 Then she worked out the other half, and it took her the rest of the daylight and the dusk.
 
-That road does not know she is coming. There is not a person on it who knows she exists. She has been in this county thirty-three days and the only person on nine days of road who has written her name anywhere is a man of forty-nine who writes four columns a month, and he wrote hers at the sixth hour of the twenty-fourth of the month beginning 2,054, and she has been off that board ever since except for one morning when it went east under a piece of sacking.
+That road does not know she is coming. There is not a person on it who knows she exists.
+
+She has been in this county thirty-three days and the only person on nine days of road who has written her name anywhere is a man of forty-nine who writes four columns a month, and he wrote hers at the sixth hour of the twenty-fourth of the month beginning 2,054, and she has been off that board ever since except for one morning when it went east under a piece of sacking.
 
 She has built fourteen miles of road into a plan because she is the only person who can do the arithmetic, and she came onto this made road at the fourth hour of the morning with a bar and no name on anything except a slate that is twenty miles west of here.
 

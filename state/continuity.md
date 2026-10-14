@@ -8069,9 +8069,11 @@ thread, and is on the page as about four miles because ch 686 has her walk it tw
    is safer than a person off it — said once, in the ordinary voice, at ch 679, and not argued with.** **She does not learn
    the levy, the arm, the turn's board, or what is written on it, and she is not told what the money above the building is
    for, and she says once, in the ordinary voice, that she is not permitted and has never been permitted.**
-5. **The man with the book is sixty-five,** four years on from sixty-one at the Volume 8 close, on the same derivation the
+5. **The man with the book is sixty-five,** two years on from sixty-one at the Volume 8 close, on the same derivation the
    outline applies to Xie Changyin's sixty-three. He has been in the room forty-six years. **He has written two lines about
-   her across two refusals, four years apart, in the ordinary hand, and did not write why either time.**
+   her across two refusals, two years and two months apart, in the ordinary hand, and did not write why either time.**
+   **Corrected at the Batch 0002 review repair: the block previously read *four years on* and *four years apart*, which was the
+   same interval error the review raised on the page (788 days, not four years).**
 6. **The budget at ch 683, and every figure in it, measured.** Head: *the twelve months ending on the twenty-seventh of the
    month beginning 2,084* (day 2,110). Total **ninety-eight thousand**. Lines: paper, quills and ink, **4,516**; lamp oil
    and wick, **1,680**; firewood, **2,400**; food, **3,560**; the counter and the four doors, **360**; the rate at two
@@ -8084,10 +8086,16 @@ thread, and is on the page as about four miles because ch 686 has her walk it tw
 7. **What three hundred and forty, four hundred and thirty, six hundred and four and two thousand nine hundred and twenty
    are NOT: not the levy, not a shortage in the rate, not an even spread.** **What they ARE IS NOT KNOWN.** **No chapter in
    this batch attributes the difference to anything, and no mouth in the building is permitted to.**
-8. **IMMORTAL VESSEL 1, at ch 685, day 2,128, the fifteenth of the month beginning 2,114, at the second hour of the
-   afternoon, at the north end of the rows, in daylight, with about two hundred people in the ground. Taken in nine seconds.
-   No announcement. No bracket. The lamp in a cage in her coat did what a lamp does and she has carried it since a yard four
-   miles up a mountain.**
+8. **IMMORTAL VESSEL 1, at ch 685, day 2,128, the fifteenth of the month beginning 2,114, at the fourth hour of the
+   afternoon, AT THE NORTH END OF THE ROWS, IN THE OPEN, in daylight, with about two hundred people in the ground. Taken in nine
+   seconds. No announcement. No bracket. The lamp in a cage in her coat did what a lamp does and she has carried it since a
+   yard four miles up a mountain.**
+   **THE LOCATION IS CANON AND IT IS OUTDOORS. Corrected at the Batch 0002 review repair: three sentences in ch 686 and ch 689
+   had put the stage inside the Order's building in front of a hundred readers, and they now say the rows. The finding of ch
+   686 survives the correction intact — she is still the first person in this ground to go up a stage with nothing under it,
+   and she is still the one who cannot say a word about it to anybody in the room she is standing in, because of the question
+   she asked on a floor. The hour is the fourth of the afternoon; ch 685's own line at the head of *The Line On The Board* said
+   the fourth and one stray sentence said the second, and the second is now the fourth.**
 9. **THE INTERVAL: ONE HUNDRED AND THIRTY-ONE, and not seventy.** Derivation, done on the page at ch 685 and re-measured
    here: **2,128 − 1,997 = 131**, and the ninth stage is the fourth of the month beginning 1,994. The seventy came from
    counting on her fingers off **the day she reached the turn, day 2,059**, which gives **2,128 − 2,059 = 69**, and **the
@@ -8103,6 +8111,14 @@ thread, and is on the page as about four miles because ch 686 has her walk it tw
     month beginning 2,114, at the north end of the rows. I am nineteen. I am not on a roll and I am not under a name
     above this ground and I am not going to be given one. I have written this one myself and it is true.* **It is on a
     board and not in the book. The five blank leaves stayed blank and are named as blank at ch 685.**
+    **THE BOARD, AND THE COUNTING ON IT — set once here because the review found it broken three ways and it is now a single
+    rule that every chapter obeys: the four men each write a stroke and a number in the evening, so the board takes four lines
+    a night and has taken them for nine years, which is about thirteen thousand lines. Her line went in on the fifteenth in the
+    afternoon and the fifteenth's four strokes went in either side of it that evening. Four strokes by the first hour of the
+    sixteenth (ch 686) · twelve by the first hour of the eighteenth (ch 686, *eight more*) · twelve at the seventh hour of the
+    eighteenth, which is three nights of four men (ch 687) · twenty at the eleventh hour of the twentieth, which is five nights
+    (ch 688) · six nights of four men either side of her line at the second hour of the twenty-first (ch 689) · forty-eight by
+    the last page, which is twelve nights.**
 12. **COURT, taken at ch 687, day 2,131, at the first hour, without a question and without a decision.** What it is on the
     page: **he is addressable; a person in a room can be spoken to; and a thing above the line can put a name in a mouth he
     does not have.** The proof is a carter of about fifty at a cart, who cannot read her line and who says `YUAN SHENG`
@@ -8164,8 +8180,13 @@ thread, and is on the page as about four miles because ch 686 has her walk it tw
 
 ### Construction budget — Volume 12 Batch 0002 (ch 676–690), measured by grep, not promised
 
+**RE-MEASURED AFTER THE BATCH 0002 REVIEW REPAIR. Every figure in this block is the post-repair page. The pre-repair
+figures are named beside each one that moved, and the pre-repair figures must not be quoted as this batch's.**
+
 **Method B throughout: body prose is every line not beginning `#`, counted per file and summed.**
 
+- **Body prose: 28,894 over fifteen chapters, average 1,926** (pre-repair 28,804 / 1,920). **Shortest ch 679 at 1,765; longest
+  ch 678 at 2,086.** The pre-repair block named ch 676 as the longest at 2,084 and that was wrong by two chapters.
 - Bracketed layer lines: **0** in fifteen chapters. Bold: **0**. **Italic lines: 2** — one at ch 681 and one at ch 683, both a
   quoted clause of the sheet or of the first line of it, and Batch 0001 also carried exactly two. **Blockquotes, code fences,
   tables, horizontal rules: 0. Standalone all-caps lines: 0.**
@@ -8184,7 +8205,7 @@ thread, and is on the page as about four miles because ch 686 has her walk it tw
   appears nowhere else in the fifteen.
 - `forgi` **0** and `the year` **0**, both measured against `chapters/volume-12/*.md` — the whole directory, so Batch
   0001's zero is re-measured and not assumed. `twenty-two days` **0** over the directory.
-- `about four seconds` **0**. `eleven weeks` **0**.
+- `about four seconds` **0**. `eleven weeks` **0**. **Named day-of-week and named calendar month: 0.**
 - Authorial scaffolding: **0.** The bare words `volume`, `volumes`, `chapter`, `batch` and `the novel` were checked by
   `grep -oiE` over all fifteen files and **return 0**; **ten instances of scaffolding written in draft were cut before the
   count was claimed** — five uses of *volumes* as a unit of elapsed experience (ch 678 ×3, ch 679), the phrase *the end of
@@ -8193,14 +8214,18 @@ thread, and is on the page as about four miles because ch 686 has her walk it tw
   reads it*, which is the trade's own noun and is the sentence the batch turns on.**
 - **THE THREE CRAFT WORDS, MEASURED WITH `grep -oiw` PER FILE AND SUMMED.**
   `nobody` — Batch 0001 **9**, this batch **10**, directory total **19**, volume line under thirty. ✔
-  `eleven` — Batch 0001 **10**, this batch **13**, directory total **23**, volume line under forty. ✔
+  `eleven` — Batch 0001 **10**, this batch **12** (pre-repair 13), directory total **22**, volume line under forty. ✔
   `thank` — Batch 0001 **0**, this batch **0**, directory total **0**. ✔
 - **The counted constructions, measured against the whole batch, with the method named in the same sentence as the number.**
-  `about` **225** at first count and **203** after a pass that dropped every repeated *about a hundred people* and *about
-  two hundred people* to the plain article after its first use in a chapter — Batch 0001 is **120**, so **this batch is
-  higher than Batch 0001 and the figure is published rather than hidden.** `nothing` **61** against Batch 0001's **68**.
-  `out loud` **89** against Batch 0001's **75**. `whole of` **45** against Batch 0001's **41**. `list` **5**, all in real
-  senses, against Batch 0001's **0**.
+  `about` **225** at first count, **203** after the drafting pass, and **175** after the review repair, which stripped the
+  hedge off twenty-eight places where the narrative had already given the exact hour or the exact count — *about a count of
+  sixty*, *about a count of twenty*, *about the eleventh hour*, *about a count of forty*, *about nine seconds*, *about a
+  hundred people* on its second use in a chapter. Batch 0001 is **120**, so **this batch is still higher than Batch 0001 and
+  the figure is published rather than hidden**; the density has come from 0.70 per hundred words to 0.61. `nothing` **61**
+  against Batch 0001's **68**. `out loud` **89** at the review and **64** now, against Batch 0001's **75** — the review's
+  finding was that the last three chapters had been using the signature gesture as punctuation (ch 690 at 14, ch 689 at 11,
+  ch 687 at 9, thirty-four of the eighty-nine), and those three now stand at 7, 7 and 4. `whole of` **45** against Batch
+  0001's **41**. `list` **5**, all in real senses, against Batch 0001's **0**.
 - Titles: **fifteen names, 3–12 words, under about 90 characters, unique against all 675 standing headings and against
   each other.** Checked with `comm -12` against a list built from every chapter file except these fifteen. **One collision
   was found and fixed: ch 680's original title `One Line And A Date` collides with ch 536, and it is now
@@ -8208,13 +8233,19 @@ thread, and is on the page as about four miles because ch 686 has her walk it tw
 - Section headings: **no two in one chapter share a name, and none repeats a heading anywhere in `chapters/volume-12/`.**
   Checked with `comm -12` and `uniq -d`. **One duplicate inside the batch was found and fixed: two sections called
   `The One Question` at ch 679 and ch 684, now `The One Thing She Says` and `What She Asked Instead`.**
-- Paragraphs: **775 in the batch, none over about 120 words**, checked by script over every paragraph of every file, and
-  **70 of them are one-line beats of six words or fewer, which is 9.0 per cent against Batch 0001's 15.5.** Most
-  paragraphs are two to four sentences.
+- Paragraphs: **798 in the batch, none over about 120 words and none over 90**, checked by script over every paragraph of every
+  file, and **70 of them are one-line beats of six words or fewer, which is 8.8 per cent against Batch 0001's 15.5.** Most
+  paragraphs are two to four sentences. **The review measured nineteen paragraphs running 91 to 117 words, three of them in
+  ch 686 and one each in ch 689 and ch 690; all eighteen of the paragraphs above 90 were split at a natural beat, which is
+  where the count of paragraphs went from 775 to 798.**
 - The longest run of consecutive paragraphs opening on the same word is **6** (ch 683), against Batch 0001's **15**
-  (ch 672). The dialogue register opens a great many paragraphs on `She said` and that is the established house form.
-- **No chapter is under the 1,300 floor and none is over the 2,700 guide.** The shortest is ch 679 at 1,757 and the longest
-  is ch 676 at 2,084.
+  (ch 672). **It is six consecutive `Less` paragraphs and they are ch 683's subtraction cascade from ninety-eight thousand
+  down to two thousand nine hundred and twenty, which is the batch's arithmetic working and is meant to read as one fall.**
+  The dialogue register opens a great many paragraphs on `She said` and that is the established house form; the longest `She
+  said` run is **5** (ch 682 and ch 689).
+- **No chapter is under the 1,300 floor and none is over the 2,700 guide.** The shortest is ch 679 at 1,765 and the longest
+  is ch 678 at 2,086. **The pre-repair block named ch 676 at 2,084 as the longest and ch 679 at 1,757 as the shortest; the
+  second was right and the first was wrong by two chapters.**
 
 ### Two conflicts between the batch card and `outline/volume-12.md`, and how they were adjudicated
 
@@ -8261,8 +8292,10 @@ Hunter’s request pending and not raised** · *twenty-two days* unplaced and ne
 - **In her hand:** two coppers she cannot count. In her bag: a dish, a lump of clay, a ring a finger’s width, a stub of a
   nib, a cake of ink opened on the seventh of the month beginning 1,874 and never let dry, **and a key to a locked drawer
   four miles west of a square that she did not use in this batch.**
-- **On a board at the north end of a ground with two hundred people in it:** one line in her own hand, true, and about
-  fifty days of four men’s strokes and numbers written either side of it by men who cannot read it.
+- **On a board at the north end of a ground with two hundred people in it:** one line in her own hand, true, and **forty-eight
+  strokes and numbers** written either side of it by four men who cannot read it — twelve nights of four men since the
+  fifteenth of the month beginning 2,114. **The pre-repair block said *about fifty days*, which was the same figure counted as
+  days instead of lines; the four men write a line each, so it is four a night.**
 - **On a slate at a turn twenty miles west:** `Ning Yan`, a stroke, thirty days of the month beginning 2,114, in a county
   hand. It went up on the first of the month beginning 2,084 and came back down empty, and it goes up again on the first of
   the month beginning 2,114, **and she was sixteen miles east on the twenty-fourth that took it in and missed the day for
@@ -8277,11 +8310,95 @@ Hunter’s request pending and not raised** · *twenty-two days* unplaced and ne
   daylight, and given, and it cannot be un-agreed. The bill is open.**
 - **Xie Changyin** — sixty-three, on the page twice, right about everything, wrong about one thing she does not know she is
   wrong about, and not thanked and not argued with.
-- **The man with the book** — sixty-five, forty-six years, two lines about her, four years apart, and one afternoon spent
-  looking at a wall before she said the number on it.
+- **The man with the book** — sixty-five, forty-six years, two lines about her, two years and two months apart, and one
+  afternoon spent looking at a wall before she said the number on it.
 - **Her brother** — nineteen, six years in that ground, one sentence, not named, nothing settled.
 - **What Batch 0003 inherits:** the third first at day 2,144 is **four days off at the last page** · the eighth frame scene
   at ch 694 · the total at ch 697 · the fact that a number she can work out is a number two hundred people on a row can
   work out at ch 704 · Immortal Vessel 2 at ch 702 and its cost, which is Batch 0003’s to name and not re-derived from
   ch 685’s · the open bill for Court · the unattributed two thousand nine hundred and twenty · **four days to a first of a
   month, with a bar that has no strap on it and an arm that is open four days in five.**
+
+## VOLUME 12 BATCH 0002 — REVIEW REPAIR
+
+`logs/volume-12-batch-0002.review.log` audited ch 676–690, the state files and the Batch 0003 prompt. **It raised six hard
+errors, two false state-file claims and four measured craft findings. All twelve are cleared on the page and recorded here.
+The batch was not restarted, no card beat moved, no day moved, no title moved, no stage moved, and the planned ending and
+the irreversible step at ch 689 stand exactly where the outline put them.**
+
+### The six hard errors, each with what it was and what it is now
+
+1. **THE STAGE'S LOCATION WAS CONTRADICTED IN THREE PLACES, AND IT IS THE OUTDOORS.** `ch 685` is canon: **Immortal Vessel 1
+   was taken at the fourth hour of the afternoon on the fifteenth of the month beginning 2,114 at the north end of the rows,
+   in the open, in daylight, in front of about two hundred people.** Three sentences elsewhere said a building with a hundred
+   readers in it. **`ch 686` now says she was *not* in the room that time either and that there were two hundred people nine
+   feet off and a bar lying along the ground; `ch 686`'s own recap now says *in the open, at the north end of two hundred rows
+   of stones*; and `ch 689`, in Yuan's mouth, now says *at the north end of this ground in front of two hundred people and not
+   one of them could put it anywhere*.** This mattered because the false version landed inside the batch's irreversible
+   chapter, under a fifth term that reads *if you ever put down one word that is not true, I will know it inside a day*, in the
+   same breath as *the reason I said yes is true*. **Nothing else moved: the chapter's finding is untouched — she is still
+   the first person in this ground to go up a stage with nothing under it, and she is still unable to say a word about it to
+   anybody, because of the question she asked standing up on a floor.**
+2. **ONE EVENT, TWO AGES.** The refusal in the room with the shutters up is **`ch 474`, day 1,306, the third of the month
+   beginning 1,304**, and ch 679 is day 2,094. **The interval is 788 days, which is two years and two months, and the batch
+   had been calling it *four years* in some places and *five years* in others.** **Twenty-eight sentences across `ch 678`,
+   `ch 679`, `ch 680`, `ch 681`, `ch 682`, `ch 683` and `ch 686` now read two years, two years back, or two years and two
+   months, and none of them says four or five.** **The one interval deliberately left alone is `ch 679`'s *a shed at a mill*,
+   which is a different and older event and is the one `ch 682` and `ch 688` also name.**
+3. **`ch 690` CLAIMED TWO ACHIEVEMENTS THAT EXIST NOWHERE ELSE IN THE MANUSCRIPT.** *Four false hands in nine years* and *a
+   false line that a whole building had believed for eleven hundred years* had no page behind either of them — a grep for
+   `false hand` across all six hundred and seventy-five chapters returns that one line and nothing else. **It now reads: she
+   caught a total on a wall in this county that has been wrong by two thousand nine hundred and twenty for forty-five years,
+   and a hundred people have worked under that wall every day of it and not one of them knew.** That is ch 683 and ch 684,
+   which are on the page.
+4. **THE BOARD WAS COUNTED THREE DIFFERENT WAYS ACROSS `ch 686` AND `ch 687`** — thirteen lines, then twenty-five, then
+   twenty-nine strokes three days after the fifteenth, which is impossible — **and five men were writing in one evening where
+   `ch 685` says the four men each take a turn.** **The batch now runs on one rule, set at established fact 11 above: the four
+   men each write a stroke and a number in the evening, so the board takes four lines a night.** Four by the first hour of the
+   sixteenth; twelve by the first hour of the eighteenth; twelve, which is three nights, when Yuan speaks; twenty, five nights,
+   on the twentieth; six nights either side of her line on the twenty-first; forty-eight at the last page. **The thirteen
+   thousand lines figure in `ch 687` now follows from four men a night, which is what it always needed to.**
+5. **`ch 677`'s STAKES DID NOT ADD UP.** *Fourteen hundred and six stakes at twenty yards is nine miles and a quarter* is
+   28,120 yards, which is about sixteen miles, and the *twenty-two miles and a quarter* it rested on fell with it. **The
+   passage is rebuilt and the arithmetic lands: she paced out six miles past the wall, could see from the rise that there were
+   not six miles past the wall, and counted two hundred and sixty-four stakes at twenty yards — three miles — which with the
+   thirteen miles from the turn to the wall is sixteen miles east of the turn.** The chapter's own conclusion did not move; the
+   duplicated restatement of it in the next section was cut in the same pass.
+6. **`ch 687` SAID THE BOARD WAS FOUR DAYS OLD WHEN IT WAS THREE.** The fifteenth to the eighteenth is three days. **Both
+   instances — the narration and her own mouth at the ninth hour — now say three days.**
+
+### Two claims in this file that were false on the page, corrected in place
+
+- **The longest chapter.** This block said ch 676 at 2,084. **It is ch 678 at 2,086**, and ch 676 is 2,082. The shortest,
+  ch 679 at 1,765, was right.
+- **`week`.** The block claimed `week` **0** and the review measured **1**. **The one instance is gone** — `ch 687`'s *a week
+  at a counter* is now *four days at a counter*, which is the true span of `ch 678` to `ch 681` — and the claim **0** is
+  correct again.
+
+### What else the repair pass cleared, and the reasoning
+
+- **A stray hour inside `ch 685` itself.** One sentence put the stage at the second hour of the afternoon where the chapter's
+  own text, the board line and `ch 685`'s clock all say the fourth. **The second is the fourth.** This was not in the review.
+- **`ch 684`'s background arithmetic.** A man at the fourth table said two thousand nine hundred and twenty coppers is *a page
+  a day for two and a half years at the hard rate*. At four coppers a page it is 730 days, which is **two years**. The
+  neighbouring figure, *a page a day for about four years at two coppers*, is right and did not move. This was not in the review.
+- **Nineteen paragraphs over the working limit.** Eighteen paragraphs running 91 to 117 words were split at a natural beat, so
+  **no paragraph in the batch is now over ninety.** Nothing was cut to do it; the sentence count is unchanged in every case.
+- **`out loud` 89 → 64,** and the last three chapters from 34 of the 89 to 18. **The signature was being used as punctuation
+  in the closing run of the batch; the events it marks are events and the rest are now `read back`, `put into words`, `to the
+  end of an empty counter`, `where sixty people could hear it` and the plain article.**
+- **`about` 203 → 175,** all twenty-eight of them hedges the narrative had already contradicted with an exact figure a clause
+  later — *about a count of sixty* when she counts in counts, *about the eleventh hour* when the hour is the eleventh.
+- **`ch 685`'s five blank leaves, the six terms at `ch 689`, the six-line sheet, the eight coppers, the 2,920 and the
+  131-day derivation were re-measured against the text after the repair and every one of them still holds.** `ch 683`'s
+  arithmetic was verified again end to end and is unchanged.
+- **The next-phase prompt was corrected in the one place the review found it wrong.** `workspace/volume-12-batch-0003/PROMPT.md`
+  ch 705 said the sixth first, day 2,234, was *the twenty-third day of this chapter's span* over a span of 2,230–2,240.
+  **2,234 − 2,230 = 4. It is the fifth day.** Nothing else in that prompt moved and no second phase was created.
+
+### What this repair did not do
+
+**It did not re-open a beat, re-decide a card, or add a chapter.** It did not touch `ch 661–675`, it did not touch the outline,
+and it did not introduce anything Batch 0003 has to carry that Batch 0003 did not already have. **The batch is 28,894 words
+of body prose over fifteen chapters, average 1,926, and the number in the construction budget above is that one and not the
+pre-repair 28,804.**

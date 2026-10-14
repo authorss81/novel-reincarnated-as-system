@@ -38,7 +38,9 @@ Not because it would not come. Because there was nothing for it to come into, an
 
 A shape is not a body. She has a body; it has been open and broken and repaired and opened again for nine years and it carries a bar nine feet nine.
 
-A shape is the form in which a thing is presented to whatever is going to be looking at it. It is a name in a book. It is a roll and a rate and a room and a shelf. It is a title on a piece of paper over a door. It is a set of true statements about a person, written down, in a hand, with a date and a place on it, so that a thing with a record in it can find the person the statements are about.
+A shape is the form in which a thing is presented to whatever is going to be looking at it. It is a name in a book. It is a roll and a rate and a room and a shelf. It is a title on a piece of paper over a door.
+
+It is a set of true statements about a person, written down, in a hand, with a date and a place on it, so that a thing with a record in it can find the person the statements are about.
 
 And every single one of those is a thing that has to be given.
 
@@ -96,7 +98,7 @@ Every shape that has ever existed in this world has been a shape somebody else g
 
 And a shape is the only thing that has ever let anything above the line see a person, and she has spent nine years refusing the only two that were ever on offer to her, and neither of them was refused out of principle: one was the fifth line of a sheet and one was a question she asked standing up on a floor.
 
-And what she has instead, on the fifteenth of the month beginning 2,114, at the second hour of the afternoon, at the north end of two hundred rows of stones, is that she can make one.
+And what she has instead, on the fifteenth of the month beginning 2,114, at the fourth hour of the afternoon, at the north end of two hundred rows of stones, is that she can make one.
 
 It cannot be given to her. It has to be made, and it has to be made in her own hand, and her hand cannot write a false line.
 
@@ -114,7 +116,7 @@ She did not write it in the book. She has not written anything in those five lea
 
 A shape goes where a shape goes. It goes where it can be found by a thing that keeps records, and a book in a coat lining is not found by anything, and a board nailed up at the north end of a ground that four carts go past a day is.
 
-She stood back and looked at it from about six feet.
+She stood back and looked at it from six feet.
 
 It is a bad line. It is the first thing she has ever written for a person to find and it is four sentences with a date and a place on it and it is on a board at the north end of a ground with two hundred people in it, and she read it from six feet off and she could not improve one word of it, because a hand that cannot write a false line cannot write a better one either. It can only write a true one.
 

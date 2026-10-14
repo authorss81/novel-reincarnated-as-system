@@ -62,7 +62,7 @@ That she cannot, because she cannot write a false line, and a board with a line 
 
 That he said *that is the cost* and not *that is what it will take*, and the difference between the two is the whole of the difference between a bill and a price, and a bill is not payable by a person who has not agreed that it is owed.
 
-So she stood there and said, at about the eleventh hour, out loud, in the dark, standing up, to a person who cannot be answered by anybody else:
+So she stood there and said, at the eleventh hour, in the dark, standing up, to a person who cannot be answered by anybody else:
 
 “I am not paying that tonight and I am not refusing it either. I am going to go and work out what a record is and I am going to be in that building tomorrow, and if the answer is that I have to take it down then I will take it down and it will not be because a voice in my head asked me to.”
 
@@ -70,7 +70,7 @@ And he said, “That is yours,” and that is the last thing either of them said
 
 ## The Rest Of The Nineteenth
 
-She went back out to the made road at about the eleventh hour and sat in the ditch with the bar across her knees and did the only arithmetic that was available to her, which was what the bill was in the only money she has ever been able to earn.
+She went back out to the made road at the eleventh hour and sat in the ditch with the bar across her knees and did the only arithmetic that was available to her, which was what the bill was in the only money she has ever been able to earn.
 
 She cannot be paid. Her hand does not close on money given for reading and has not closed on one since a shed at a mill when she was fifteen. Eight coppers a day is about four loaves and she has not been hungry in years and does not need to, and there is nothing in this world she could buy with eight coppers a day that she would want.
 
@@ -84,13 +84,13 @@ She sat in a ditch two miles west of a ground with two hundred people in it and 
 
 She said, “And I have got five hundred and seventy-two of them and I have had them since I was nine years old and not one of them has ever been in a fold in the inside of a coat or on a slate or in a book, and I have never been able to put them anywhere.”
 
-And then she stopped, because she had worked out at about the sixth hour of that day that she was pricing a thing for a person who has never been allowed to be given anything, and that a person who is given nothing cannot be made to pay anything, and that the whole of the bill may be that it lands on a shape on a board and takes the writing.
+And then she stopped, because she had worked out in the sixth hour of that day that she was pricing a thing for a person who has never been allowed to be given anything, and that a person who is given nothing cannot be made to pay anything, and that the whole of the bill may be that it lands on a shape on a board and takes the writing.
 
 She did not say that last part out loud. She has not said it out loud since.
 
 ## The Twentieth
 
-On the twentieth of the month beginning 2,114, at about the ninth hour, a man in the fourth row asked her a question.
+On the twentieth of the month beginning 2,114, at the ninth hour, a man in the fourth row asked her a question.
 
 He was about thirty and he had been in that ground six years and he had noticed, apparently, that a line had appeared on the board at the north end that was not a stroke and a number, and he had been carrying the question about for two days and had worked out that the only person who would know was the one standing at the board every morning at the first hour.
 
@@ -108,7 +108,7 @@ The boy came and asked her what the word meant.
 
 She said, “It is a name. It is not yours and it is not mine. Go to your work.”
 
-And she stood at the north end of two hundred rows with the bar on the ground at her feet and fourteen strokes gone in beside her line since the morning, and worked out standing up, in daylight, at the eleventh hour of the twentieth of the month beginning 2,114, what the rate of arrival is.
+And she stood at the north end of two hundred rows with the bar on the ground at her feet and twenty strokes gone in beside her line, five nights of four men, and worked out standing up, in daylight, at the eleventh hour of the twentieth of the month beginning 2,114, what the rate of arrival is.
 
 Two days. Two mouths, and one of them was in a ground with two hundred people in it.
 

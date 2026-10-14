@@ -3096,7 +3096,7 @@ bill.** **Four days to the third first of a month, on day 2,144.**
 | **The instrument** | **SETTLED AND STILL NOT NAMED FOR HER.** A stub of a nib, a cake of ink, a hand that cannot write a false line, **a book of eight leaves with five of them still blank, and a key to a drawer she did not use in this batch.** She wrote the one line of the batch on a board and not in the book, and said why, on the page |
 | **What a recruited reader is** | **ANSWERED, ONCE, AND IT IS NOT WHAT ANYBODY EXPECTED.** *A document gets read by somebody.* The reader is an instrument and the trade has never once turned a thing back. **She also worked out, at ch 681, that she could never have been recruited at all, because confirming a reading means being able to read it, and there is no hand in that building that can read hers.** No card in Volume 12 may re-explain either half |
 | **The bar and the strap** | **THE STRAP IS GONE AND STAYS GONE.** It parted at the second hour of the fifth of the month beginning 2,084, six miles east of the turn. **Every lift and set-down costs twenty-two to fifty-four counts and Batch 0002 spent about four hundred of them in a month.** No card in Batch 0003 may put a strap back on it |
-| **Being recognised** | **DONE AND IT TOOK NINETY SECONDS.** A man with a book looked up at ch 678 and said her name, and not one other person in the room looked up, because she bought that silence with her own usefulness five years ago. **There is no undoing it and she said so standing in the grit outside the gate** |
+| **Being recognised** | **DONE AND IT TOOK NINETY SECONDS.** A man with a book looked up at ch 678 and said her name, and not one other person in the room looked up, because she bought that silence with her own usefulness two years ago. **There is no undoing it and she said so standing in the grit outside the gate** |
 | **The two thousand nine hundred and twenty** | **OPEN AND UNATTRIBUTED, AND IT IS NOT THE LEVY.** Total ninety-eight thousand against a sum of ninety-five thousand and eighty. Ruled out: a fifth, a page, a payday, a shortage in the rate. **Not ruled out, and not said: what it is for.** Xie Changyin is not permitted to say and said so once, in the ordinary voice |
 | **Court, and the bill for it** | **TAKEN AT CH 687, DAY 2,131, AT THE FIRST HOUR, UNASKED AND UNDECIDED.** He is addressable, and a thing above the line can put a name in a mouth he does not have, **and it proved it inside nine days when a carter said `YUAN SHENG` twice at a board in a ground of two hundred people and did not know he had said it.** **The bill was raised out loud at the tenth hour of the nineteenth and answered by nobody and is not paid and is not refused. The Scribe can find him and does — and the address belongs to Volume 15** |
 | **The record** | **GIVEN, AT CH 689, AND IT CANNOT BE UN-AGREED.** Six terms, said out loud, standing, in daylight, in front of about two hundred people, at the third hour of the twenty-first of the month beginning 2,114. **She said no first and then changed it and said why before she changed it. The ch 658 sentence was quoted once and only once: *for eight years I did not have a man, I had a column*.** **The reason she said yes is true and the chapter says so.** Ch 690 is what living inside it is like: nothing goes wrong, the instrument is a voice, and on the twenty-fifth she stopped checking without deciding to |
@@ -3111,7 +3111,8 @@ bill.** **Four days to the third first of a month, on day 2,144.**
 - **ch 676 — the strap.** The bar goes up off the ground in a count of twenty-nine and she has to do it every time, and
   the cost is on her arm and her hand for the rest of the volume unless a card pays for it.
 - **ch 685 — the line on the board at the north end**, written in her own hand with four fingers and a thumb on an arm
-  that was open. Fifty men are going to write their days either side of it and not one of them can read it.
+  that was open. **Four men write a line each in the evening, so the board takes four a night, and forty-eight of them stand
+  either side of hers at the last page of the batch, and not one of the four can read it.**
 - **ch 687 — the name in the carter’s mouth.** It has been said out loud in daylight in a ground of two hundred people and
   the man does not know he said it and the cart went on east.
 
@@ -3136,3 +3137,26 @@ the wall · the fourth sentence on the second leaf of the book · `Ledger` 0 · 
    inside the taking of Court and not inside its bill.
 3. **The record has six terms and there is no seventh, and a document agreed to in daylight cannot be added to either.**
    **Batch 0003 may not let her ask for a seventh term, soften the six, or take the agreement back.** It may not thank him.
+
+
+## VOLUME 12 BATCH 0002 — REVIEW REPAIR, and what it changed in this file
+
+`logs/volume-12-batch-0002.review.log` raised six hard errors and two false claims in `state/continuity.md`. **All are cleared
+on the page; the full record is in `state/continuity.md` under *VOLUME 12 BATCH 0002 — REVIEW REPAIR*.** Four of them touched
+this file's threads, and a drafting phase that reads this file must not inherit the pre-repair figures:
+
+1. **The refusal interval is TWO YEARS AND TWO MONTHS, not four or five.** **It was carried here as *five years* on the
+   Being-recognised thread and is now *two years*.** `ch 474` is day 1,306; ch 679 is day 2,094; the interval is 788 days.
+   Anything Batch 0003 says about how long she has been refusing that sheet is 788 days.
+2. **Immortal Vessel 1 was taken OUTDOORS, at the north end of the rows, in daylight, at the fourth hour of the afternoon on
+   the fifteenth of the month beginning 2,114, in front of about two hundred people.** Three sentences in ch 686 and ch 689
+   said a building with a hundred readers in it and have been corrected. **The cost is unchanged: she cannot be given a shape
+   and she writes one.**
+3. **The board at the north end takes four lines a night**, one from each of the four men, **and forty-eight of them stand
+   either side of her line at the last page.** It is not fifty men and it is not fifty days.
+4. **`ch 690` no longer claims four false hands or a false line a building believed for eleven hundred years**, because neither
+   is on any page. **The claim it makes now is ch 683's figure, and ch 683 is the only thing in this batch she has caught
+   somebody else being wrong about.**
+
+**Nothing else in this file moved. The open threads, the unspent list, the three things Batch 0003 must not inherit as clean
+prose, and the irreversible list are exactly as the drafting phase left them.**

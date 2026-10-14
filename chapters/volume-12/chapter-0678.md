@@ -1,8 +1,8 @@
 # The Name In The Book
 
-She went into the building at the fourth hour of the tenth of the month beginning 2,084 and there were about a hundred people at tables in it and a lamp on every one of them, and the sun was on the floor through the shutters, and none of it was strange.
+She went into the building at the fourth hour of the tenth of the month beginning 2,084 and there were a hundred people at tables in it and a lamp on every one of them, and the sun was on the floor through the shutters, and none of it was strange.
 
-She had been in it four years back and had sat in it with a sheet in front of her and had said no to it out loud, and the whole of the four years since had been the road afterwards.
+She had been in it two years back and had sat in it with a sheet in front of her and had said no to it out loud, and the whole of the two years since had been the road afterwards.
 
 ## Through The Rows Again
 
@@ -22,7 +22,7 @@ He has hands like their father’s and he is nineteen and he has carried stones 
 
 She stopped.
 
-He looked up for about two seconds and went back to the stone, and then he said it, in the ordinary voice, to the ground rather than to her:
+He looked up for two seconds and went back to the stone, and then he said it, in the ordinary voice, to the ground rather than to her:
 
 “In the sixth year there were six on that board. In the second year before that there were two.”
 
@@ -66,7 +66,7 @@ The room runs the length of it. The counter runs down the middle with a passage 
 
 She has not been in a room with a hundred people in it since she was a child.
 
-She stood four feet back from the counter for about the length of twenty counts and did not go in any further, and a man with a brush was squaring sheets at a desk and a woman of sixty-three at the far end had her hands behind her back and was reading and had not got any smaller than she was five years ago.
+She stood four feet back from the counter for about the length of twenty counts and did not go in any further, and a man with a brush was squaring sheets at a desk and a woman of sixty-three at the far end had her hands behind her back and was reading and had not got any smaller than she was two years back.
 
 She looked at the rate board behind the counter. It was repainted. The paint was fresh where hands had not touched and worn where people brushed past.
 
@@ -76,7 +76,7 @@ A second rate by the difficulty of the hand.
 
 A third rate at twice the first, for a hand nobody in the building can read.
 
-She had read that board four times, four years back, and she had been the reason the third line on it was ever needed, and she had stood in front of it with her hands behind her back for the better part of a minute and had put her own hand flat on the wood of the counter and taken it away.
+She had read that board four times, two years back, and she had been the reason the third line on it was ever needed, and she had stood in front of it with her hands behind her back for the better part of a minute and had put her own hand flat on the wood of the counter and taken it away.
 
 ## The Man With The Book
 
@@ -98,11 +98,11 @@ Here is the whole of what happened in that room after a man said her name, and i
 
 Nobody else in the room looked up.
 
-A man at a table near the door turned a page. A woman two tables along went on with what she had. The man with the brush squared another sheet. The woman of sixty-three at the end of the room did not turn her head, and Ning Yan has known what that is worth, because four years back she held a silence in a room for a full minute on purpose and it bought her one clear evening with everything counted true.
+A man at a table near the door turned a page. A woman two tables along went on with what she had. The man with the brush squared another sheet. The woman of sixty-three at the end of the room did not turn her head, and Ning Yan has known what that is worth, because two years back she held a silence in a room for a full minute on purpose and it bought her one clear evening with everything counted true.
 
 This one she did not hold. This one was given to her.
 
-The Order stopped reading her. She bought it with her own usefulness at the fourth hour of a month four years back and it is the best thing that has happened to her in all that time, and she came through that gate this morning expecting a room that did not want anything from her, and she has got exactly what she paid for.
+The Order stopped reading her. She bought it with her own usefulness at the fourth hour of a month two years back and it is the best thing that has happened to her in all that time, and she came through that gate this morning expecting a room that did not want anything from her, and she has got exactly what she paid for.
 
 One man said her name, because he has the book, and the book has her name in it and the date and a line she read out loud to him herself, and he did not need to look at anything.
 
@@ -122,13 +122,15 @@ She stood there and she did not say one word, and the man with the book went bac
 
 Here is the second half of it and it is the part she is going to be judged on.
 
-She cannot be paid. Her hand does not close on a page-rate and it has not closed on one in four years and she is not going to get a room, because a room is the fourth line of a sheet whose fifth line she refused out loud in this building at the fourth hour of the third of a month, and no one here is permitted to give her the fourth without the fifth.
+She cannot be paid. Her hand does not close on a page-rate and it has not closed on one in two years and she is not going to get a room, because a room is the fourth line of a sheet whose fifth line she refused out loud in this building at the fourth hour of the third of a month, and no one here is permitted to give her the fourth without the fifth.
 
 She can be given nothing. Not a rate, not a room, not a place at a table, not a word. There is no line in this building that does not begin on that sheet.
 
 And she stayed.
 
-She stayed because she was not asked to leave, and because she worked out inside about forty counts why, and it is this: a person who is not on the roll costs this room nothing. Not a lamp, not a lamp’s oil, not a sheet of paper, not a pair of hands. She can stand at that counter for a year and at the end of twelve months this building will not have spent one copper on her and will not be one copper the poorer, and that is the only reason she is allowed to be in it.
+She stayed because she was not asked to leave, and because she worked out inside about forty counts why, and it is this: a person who is not on the roll costs this room nothing.
+
+Not a lamp, not a lamp’s oil, not a sheet of paper, not a pair of hands. She can stand at that counter for a year and at the end of twelve months this building will not have spent one copper on her and will not be one copper the poorer, and that is the only reason she is allowed to be in it.
 
 So she stood at the end of the lane outside at the ninth hour with the bar on the ground at her feet, and she said out loud, to the yard and the four carts and one man at a gate:
 

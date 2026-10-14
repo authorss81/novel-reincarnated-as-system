@@ -32,7 +32,7 @@ The rate, at four coppers the page, six hundred and four.
 
 Three rooms, furnished, nothing at all.
 
-She read it standing up at six feet off it at the sixth hour of the twenty-first of the month beginning 2,084 with about a hundred people reading under it at tables with a lamp on every one of them, and the sun was on the wall through the shutters, and there is not one word of it that is not a plain hand on a plain wall.
+She read it standing up at six feet off it at the sixth hour of the twenty-first of the month beginning 2,084 with a hundred people reading under it at tables with a lamp on every one of them, and the sun was on the wall through the shutters, and there is not one word of it that is not a plain hand on a plain wall.
 
 She had walked past it twice.
 
@@ -52,7 +52,7 @@ She stood under that line at the sixth hour of the twenty-first of the month beg
 
 She said, “That is about a page every two and a half days, to the one hand in this building that cannot be read in it.”
 
-She said, “And I have not read one of the hundred and fifty-one in five years, and I am not going to read one, and that line is a figure about a kind of person, and the kind of person is standing under it with her hand open.”
+She said, “And I have not read one of the hundred and fifty-one in two years, and I am not going to read one, and that line is a figure about a kind of person, and the kind of person is standing under it with her hand open.”
 
 ## Seven Lines, Four Ways
 
@@ -92,7 +92,9 @@ Then she spent the rest of the day on that figure, standing in the room and sitt
 
 It did not come off a page.
 
-Eighty-one thousand nine hundred and sixty at two coppers is forty thousand nine hundred and eighty pages. Six hundred and four at four coppers is a hundred and fifty-one pages. Forty-one thousand one hundred and thirty-one pages in twelve months across about a hundred readers is about a hundred and thirteen pages a day for this room and rather more than a page a reader a day, and she does not know whether a page is a fair day’s work for a hand being careful, because she has never in her life done one page as a day’s work for anybody.
+Eighty-one thousand nine hundred and sixty at two coppers is forty thousand nine hundred and eighty pages. Six hundred and four at four coppers is a hundred and fifty-one pages.
+
+Forty-one thousand one hundred and thirty-one pages in twelve months across about a hundred readers is about a hundred and thirteen pages a day for this room and rather more than a page a reader a day, and she does not know whether a page is a fair day’s work for a hand being careful, because she has never in her life done one page as a day’s work for anybody.
 
 Both rate lines come out in whole pages. If a copper had come off the end of a line, or off the end of a page, or off the end of a reader, one of those two figures would not divide. Both of them divide.
 

@@ -14,7 +14,7 @@ Sheets read on the two days: she did not count these, because the room does not 
 
 How many times a person was called: twice in two days. Both times at the seventh hour. Both times it was the same man at the second table from the door, and both times it was one word and a hand across the room, and both times a woman got up and went and came back.
 
-She has read that line on the sheet five years running. Standing. If you are in a room and a thing cannot be read, you are a person they can call, and a reader is not to be called twice in a day.
+She has read that line on the sheet two years running. Standing. If you are in a room and a thing cannot be read, you are a person they can call, and a reader is not to be called twice in a day.
 
 She watched it happen and it is exactly what it says on the paper, and she wrote nothing down, and she did not have to.
 
@@ -40,9 +40,9 @@ And the fourth was the woman of sixty-three at the end of the counter, and she s
 
 ## What She Works Out On The Second Day
 
-She worked it out standing at the end of the counter at the fourth hour of the fourteenth of the month beginning 2,084 and it took her the length of four sheets being squared, and what she worked out was this and she said it out loud once, to the boards, in daylight, in an empty part of a room with about a hundred people in it.
+She worked it out standing at the end of the counter at the fourth hour of the fourteenth of the month beginning 2,084 and it took her the length of four sheets being squared, and what she worked out was this and she said it once, to the boards, in daylight, in an empty part of a room with a hundred people in it.
 
-She had been treating that sheet as an offer for five years.
+She had been treating that sheet as an offer for two years.
 
 An offer is a thing that is put in front of a person in order to be taken. A description of a job is a thing that says what the work is, in the words of the work, so that the person reading it knows whether they are the kind of person the work is done by.
 
@@ -74,17 +74,17 @@ And that is the fourth of the six lines, and the fourth of the six lines is the 
 
 ## The First Line
 
-And then she read the first line properly, for the first time in five years, standing up, at the fourth hour of the fourteenth of the month beginning 2,084.
+And then she read the first line properly, for the first time in two years, standing up, at the fourth hour of the fourteenth of the month beginning 2,084.
 
 *Confirmed in this room by another person in this room.*
 
-She stood still for a count of about nine.
+She stood still for a count of nine.
 
 To confirm a reading you have to be able to read it. That is not a rule anybody in that room had to make. It is what the word means.
 
 There are a hundred people in that room and a rate board on the wall behind the counter with three lines on it, and the third line is *a hand nobody in this building can read*, at twice the first rate, and it has been on that board since before she was born, and it is a real line on a real board, and there is not one person in that building who can do it.
 
-She has been saying for five years that she is the only person on nine days of road who can read a hand the people around her cannot.
+She has been saying for two years that she is the only person on nine days of road who can read a hand the people around her cannot.
 
 There is not one person in that building who can read hers.
 
@@ -92,19 +92,19 @@ Not one. Twenty-two tables and a hundred people and forty-four years of readers 
 
 ## What She Has Been Refusing
 
-So she stood at the end of a counter at the fourth hour of the fourteenth of the month beginning 2,084 and worked out the whole of five years in about the length of nine counts, and here is what it came to, and she is not going to soften it because she has been wrong and she has been wrong in the most expensive way a person can be wrong, which is by being right.
+So she stood at the end of a counter at the fourth hour of the fourteenth of the month beginning 2,084 and worked out the whole of two years in the length of nine counts, and here is what it came to, and she is not going to soften it because she has been wrong and she has been wrong in the most expensive way a person can be wrong, which is by being right.
 
 She could not have been recruited.
 
-Not on the fourteenth. Not at the fourth hour of the third of a month five years ago with the sheet in front of her. Not on the twelfth of this month with a figure in her hand about being nineteen. Any day at all.
+Not on the fourteenth. Not at the fourth hour of the third of a month two years and two months ago with the sheet in front of her. Not on the twelfth of this month with a figure in her hand about being nineteen. Any day at all.
 
-The first line has said it since the day it was written and every person in that room for forty-four years has known it without knowing that they knew it, because a hand that cannot be read is a hand that cannot be confirmed, and a hand that cannot be confirmed is a hand that never goes in a book, and there has never been a question put to her in that building in five years because there has never been a possibility of one.
+The first line has said it since the day it was written and every person in that room for forty-four years has known it without knowing that they knew it, because a hand that cannot be read is a hand that cannot be confirmed, and a hand that cannot be confirmed is a hand that never goes in a book, and there has never been a question put to her in that building in two years because there has never been a possibility of one.
 
 And she refused twice. Out loud. Standing. In daylight. With a man writing.
 
 She said it out loud into a room with the shutters up, at the fourth hour of the fourteenth of the month beginning 2,084:
 
-“For five years I have been standing in this room refusing something that was never on the table, and I have been doing it with a hand in front of me, and I want it understood that I did not know, and that knowing now has not made it into a different thing, and that a man wrote two lines in a book about a refusal that could not have happened and both of those lines are going to go up a stair.”
+“For two years I have been standing in this room refusing something that was never on the table, and I have been doing it with a hand in front of me, and I want it understood that I did not know, and that knowing now has not made it into a different thing, and that a man wrote two lines in a book about a refusal that could not have happened and both of those lines are going to go up a stair.”
 
 She stood there for a while with her hand flat on the wood of the counter, with four fingers and a thumb, and did not take it away this time.
 

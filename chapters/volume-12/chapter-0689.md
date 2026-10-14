@@ -4,7 +4,7 @@ He asked for it at the second hour of the afternoon on the twenty-first of the m
 
 ## The Asking
 
-She was at the board with the bar on the ground at her feet and a dozen strokes gone in beside her line since the morning and a man of fifty carrying stones going past about forty feet off.
+She was at the board with the bar on the ground at her feet and six nights of four men written either side of her line since she came to this ground, and a man of fifty carrying stones going past about forty feet off.
 
 He said, “I am going to ask you for one thing and I want to say what it is before I ask it, and I am going to say it out loud in the ordinary voice, and you are going to be able to say no and I am not going to be able to take it back either.”
 
@@ -14,13 +14,15 @@ He said, “Keep the record.”
 
 And then he said the rest of it and she did not interrupt, and it took about a count of forty.
 
-“You have been on a board at a turn twenty miles west of here since the twenty-fourth of the month beginning 2,054 and you cannot be taken off it. You wrote four sentences on a board at the north end of this ground on the fifteenth of this month and a carter read a name out of it on the eighteenth and did not know what it was. You went up a stage on the fifteenth of this month in a building with a hundred people in it and not one of them entered it, and you have not been able to tell anybody, including me, because of a question you asked standing up on a floor.”
+“You have been on a board at a turn twenty miles west of here since the twenty-fourth of the month beginning 2,054 and you cannot be taken off it. You wrote four sentences on a board at the north end of this ground on the fifteenth of this month and a carter read a name out of it on the eighteenth and did not know what it was.
+
+You went up a stage on the fifteenth of this month at the north end of this ground in front of two hundred people and not one of them could put it anywhere, and you have not been able to tell anybody, including me, because of a question you asked standing up on a floor.”
 
 He said, “I am asking to keep the record. Not to keep it for you. To keep it, so that there is a place where the whole of it is, in order, in words, true, with the dates on it, going back as far as it goes.”
 
 ## What She Said To That
 
-She did not answer for about a count of sixty.
+She did not answer for a count of sixty.
 
 A bar lay on the ground at her feet and a man carried a stone past about forty feet off and the light came up over the rise behind her the way it comes up over that rise every day of her life, and she stood in the middle of two hundred rows and worked out whether she was going to say yes, and she worked it out the only way she knows how, which is out loud, standing, one thing at a time, in daylight.
 
@@ -36,7 +38,7 @@ And then she said, “And I am going to change that, and I am going to tell you 
 
 He said, “I remember.”
 
-She said, “And two days ago you said something else to me about a column, and I have carried it about two days, and I am going to say it now, because you have put a name in a carter’s mouth on a made road, and if I am going to say yes to this I am going to say it out loud where a person can hear it and not only where he can.”
+She said, “And two days ago you said something else to me about a column, and I have carried it about two days, and I am going to say it now, because you have put a name in a carter’s mouth on a made road, and if I am going to say yes to this I am going to say it where a person can hear it and not only where he can.”
 
 She said, “For eight years I did not have a man. I had a column.”
 
@@ -76,11 +78,11 @@ He did not say it was a small thing and he did not say it was a big one.
 
 He said, “And a record that is kept can be read by a thing that reads records, and I told you what that is, and it is still true this afternoon, and nothing about the six terms you have just given me makes it not true.”
 
-He said, “You know that. You said the terms out loud in daylight in front of two hundred people, which means you said them to yourself first.”
+He said, “You know that. You said the terms in daylight in front of two hundred people, which means you said them to yourself first.”
 
 ## What It Is And Is Not
 
-She stood there and put it down the way she puts down every figure, standing up, out loud, in daylight, so that it exists somewhere other than in her.
+She stood there and put it down the way she puts down every figure, standing up, in daylight, where it exists somewhere other than in her.
 
 She said, “Here is what I have and here is what I have not, and I am not going to be one of those people who counts the have and lets the have-not go.”
 
@@ -92,7 +94,7 @@ She said, “And I have not got anybody else. There is not one person in nine da
 
 ## Why The Reason Is True
 
-And then, because she has never once in her life let a sentence stand that she has not said out loud in daylight, she said the last part, and it took about nine seconds.
+And then, because she has never once in her life let a sentence stand that she has not put into words in daylight, she said the last part, and it took nine seconds.
 
 “You can hear it. You have always been able to hear it and it has never cost me anything I could not pay and you have never once been able to stop me hearing it.”
 

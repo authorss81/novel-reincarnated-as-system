@@ -5427,15 +5427,23 @@ people in it and a board at the north end of it.** Full record in `state/continu
 ***Volume 12 Batch 0002 construction budget, measured by grep*** and
 ***Volume 12 Batch 0002 — Two conflicts between the card and the outline, and how they were adjudicated***.
 
-**VOLUME 12 BATCH 0002 IS ON THE PAGE — ch 676–690, fifteen chapters, 28,804 words of body prose on method B (every line
-not beginning `#`, counted per file and summed), average 1,920, day 2,091 to day 2,140.** Drafted against
-`outline/volume-12.md` and against `workspace/volume-12-batch-0002/PROMPT.md`. **The volume now stands at 58,704 words over
-thirty chapters at average 1,957**, Batch 0001 29,900 and Batch 0002 28,804. Next: **Volume 12 Batch 0003**, ch 691–705,
-against `workspace/volume-12-batch-0003/PROMPT.md`.
+**VOLUME 12 BATCH 0002 IS ON THE PAGE AND HAS BEEN THROUGH REVIEW AND REPAIR — ch 676–690, fifteen chapters, 28,894 words
+of body prose on method B (every line not beginning `#`, counted per file and summed), average 1,926, day 2,091 to day
+2,140.** Drafted against `outline/volume-12.md` and against `workspace/volume-12-batch-0002/PROMPT.md`. **The volume now
+stands at 58,794 words over thirty chapters at average 1,960**, Batch 0001 29,900 and Batch 0002 28,894. Next: **Volume 12
+Batch 0003**, ch 691–705, against `workspace/volume-12-batch-0003/PROMPT.md`.
 
-- **Ning Yan — IMMORTAL VESSEL 1, taken at ch 685, day 2,128, the fifteenth of the month beginning 2,114, at the second hour
-  of the afternoon, at the north end of the rows, in daylight, with about two hundred people in the ground. No
-  announcement. No bracket. Nineteen.**
+*Corrected in place by the Volume 12 Batch 0002 REVIEW REPAIR, which cleared six hard errors — the stage's location
+contradicted in three places, one event given two different ages, two unearned boasts at ch 690, the board counted three
+ways, a stake sum that did not add up, and a four-day interval that is three — and two false claims in the state files, in
+thirty-nine sentences on the page across eleven chapter files, and moved no card, no day, no title, no beat and no stage.
+The pre-repair figures 28,804 and 1,920 are the old page and must not be quoted as this batch's. Full record in
+`state/continuity.md` under ***VOLUME 12 BATCH 0002 — REVIEW REPAIR***.*
+
+- **Ning Yan — IMMORTAL VESSEL 1, taken at ch 685, day 2,128, the fifteenth of the month beginning 2,114, at the fourth hour
+  of the afternoon, AT THE NORTH END OF THE ROWS, IN THE OPEN, in daylight, with about two hundred people in the ground. No
+  announcement. No bracket. Nineteen. Corrected at the review: three sentences in ch 686 and ch 689 had put it inside the
+  Order's building in front of a hundred readers, and it was never there.**
 - **Body:** a bar nine feet nine **with no strap on it — the strap parted at the second hour of the fifth of the month
   beginning 2,084, six miles east of the turn, and every lift and set-down has cost a count of twenty-two to fifty-four
   since, about four hundred times.** Right index gone, four fingers and a thumb. Right arm open four days in five, and it
@@ -5471,8 +5479,9 @@ against `workspace/volume-12-batch-0003/PROMPT.md`.
   is on any page.** **The bill is raised and not paid. The address belongs to Volume 15.**
 - **Xie Changyin** — sixty-three, forty-four years in, on the page at ch 679 and ch 684 and nowhere else, right about
   everything she says and wrong about exactly one thing she does not know she is wrong about, and not thanked and not
-  argued with. **The man with the book** — sixty-five, forty-six years, two lines about her four years apart, and one
-  afternoon spent looking at a wall before she said the number on it.
+  argued with. **The man with the book** — sixty-five, forty-six years, **two lines about her two years and two months
+  apart**, and one afternoon spent looking at a wall before she said the number on it. **788 days is the interval, not four
+  years and not five: ch 474 is day 1,306 and ch 679 is day 2,094.**
 - **Untouched and unraised:** `Ledger` 0 · `reconciled` 0 · `plate` 0 · `kiln-born` 0 · `MEMBER ABSENT` 0 · the four
   erased months not named · the ch 150 refusal not softened · **the year of non-forgiveness carrying and not mentioned once
   in these fifteen chapters** · `forgiv` 0 · `thank` 0 · her mother’s name never said · the three Volume 11 costs carried
@@ -5486,4 +5495,6 @@ against `workspace/volume-12-batch-0003/PROMPT.md`.
   can work out · **Immortal Vessel 2 at ch 702 and its cost** · the two thousand nine hundred and twenty, unattributed and
   ruled out as a fifth · the bill for Court, open · **the record with six terms and no seventh** · a bar with no strap on it
   and an arm that is open four days in five · ***twenty-two days*, unplaced** · how far the rows sit past the wall, open.
-- **Next phase:** **VOLUME 12 BATCH 0003 — `workspace/volume-12-batch-0003/PROMPT.md`, ch 691–705, the firsts.**
+- **Next phase:** **VOLUME 12 BATCH 0003 — `workspace/volume-12-batch-0003/PROMPT.md`, ch 691–705, the firsts.** The review
+  corrected one figure in it: ch 705's card called the sixth first, day 2,234, *the twenty-third day of this chapter's span*
+  over a span of 2,230–2,240, and it is **the fifth day**. Nothing else in that prompt moved and no second phase was made.
