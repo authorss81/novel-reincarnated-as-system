@@ -20,7 +20,7 @@ The door does not shut properly and she did not fix it. There is a wind under it
 
 She did not say his name for eleven days.
 
-That has never happened. In seven years there are eleven times she has said it out loud into an empty room and got something back, and about thirty where she got nothing, and every single one of the thirty was inside a dozen days of a spend, and this was not inside a dozen days of a spend. This was eighty-four days after it.
+That has never happened. In seven years she has said it out loud into an empty room eleven times and got something back four of them, and every one of the eleven was inside a dozen days of a spend, and this was not inside a dozen days of a spend. This was eighty-four days after it.
 
 She did not count. That was all of it, and she noticed it on the eighth and did not say anything about it then either.
 
@@ -72,17 +72,17 @@ And a piece of paper against her ribs that says Foundation the first stage on th
 
 She put her hand over it through her coat.
 
-She has had eleven days of not saying a name and she has had eleven days of a number in her head that she has not put on one board or another, and she is not going to open it today, and she knows exactly what she is going to do about it and she is not going to say that out loud either.
+She has had eleven days of not saying a name and a number in her head she has not put on one board or another, and she is not going to open it today, and she knows exactly what she is going to do about it and she is not going to say that out loud either.
 
 ## The Shed With Boards On The Floor
 
-She went up at the seventh hour and let the door stand where it stands and lay down on the boards with her boots on, because she was too tired to take them off and she has done that eleven times.
+She went up at the seventh hour and let the door stand where it stands and lay down on the boards with her boots on, because she was too tired to take them off, and she had done it more nights than she had bothered to count.
 
 She lay there a while with her hands behind her head and the light going off the boards and the wind coming in under the door at about a foot a second.
 
 “Yuan.”
 
-That is all. She has said it out loud about eleven times in seven years and got something back four times, and it has always come inside a dozen days of a spend. This is the twelfth.
+That is all. It is the twelfth time in seven years, and the first one that has not come inside a dozen days of something happening to him.
 
 Nothing came back.
 

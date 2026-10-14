@@ -134,7 +134,7 @@ He came down the room and opened the book on the table beside the sheet and wrot
 
 It went in.
 
-It is in there now. It is in the best book on nine days of road, in a hand, with the third of a month against it, and there is no hand in that building that takes it out, and there is no hand anywhere on nine days of road that takes it out.
+It is in there now. It is in the best book on nine days of road, in a hand, with the third of a month against it.
 
 ## What She Felt
 
@@ -146,15 +146,15 @@ It was the third time.
 
 Four months ago in a room with a lamp, to a man of forty-three, over a paper that had her name at the head of it. Five months ago in daylight on a road, to a woman of sixty-one, in silence. And now on the third of a month at the fourth hour in a room with the shutters up, over a paper about the trade, to the same woman, spoken.
 
-Three times, and every one of them was entered, and the third one is in the best book there is on nine days of road and it cannot be taken out.
+Three refusals in eight years, and every one of them went into a book anyway, and this is the fourth page any of them has put in there, and it is in the best book there is on nine days of road and it cannot be taken out.
 
 She put both hands flat on the wood of the counter and left them there for the length of a minute.
 
-“You have been entered three times in eight years,” Xie Changyin said from four feet off, “and this is the first one you chose and it is the one you will not get out of.”
+“You have been entered four times in eight years,” Xie Changyin said from four feet off, “and this is the first one you chose and it is the one you will not get out of.”
 
 She put her hands flat on the wood of the counter behind her.
 
-“I am not going to congratulate you and I am not going to tell you that you were right. On the first I told you you would ask me for the column. You asked. I gave it to you. You read it and you came back the next day, and you do not owe me a word about that.”
+“I am not going to congratulate you and I am not going to tell you that you were right. On the first one you gave me I told you you would ask me for the column. You asked. I gave it to you. You read it and you came back the next day, and you do not owe me a word about that.”
 
 “I am not going to say anything about it.”
 
@@ -164,10 +164,10 @@ The man of sixty-one shut the book and put his palm flat on the boards once, bri
 
 She stood there and let him go down the room.
 
-Three times entered in eight years and every one of the three was a page somebody else held. A finding at seventeen. A second one, carried up out of its own office in a hand she has never seen. A reading in a room with a lamp in it, on the ninth of a month, that put a name in a book because four people could not get a job done.
+Four times entered in eight years and every one of the four was a page somebody else held. A finding at seventeen. A second one, carried up out of its own office in a hand she has never seen. A reading in a room with a lamp in it, on the ninth of a month, that put a name in a book because four people could not get a job done.
 
-This is the first one she went at herself, in daylight, at the fourth hour, with the shutters up, and it is the only one of the four that nobody can take out, and she cannot un-enter it, and there is no hand on nine days of road that can go into that book and find the line and take it out of it.
+This is the first one she went at herself, in daylight, at the fourth hour, with the shutters up, and it is the only one of the four that nobody can take out, and she cannot un-enter it.
 
-She is eighteen years old. She has a name in the best book there is and it is the word no, and it is going to be there when she is forty, and there is not one thing she can do about it and not one thing anybody else can do about it, and it is the first thing she has ever done on purpose that has cost her the whole of what it cost.
+She is eighteen years old. She has a name in the best book there is and it is the word no, and it is going to be there when she is forty, and it is the first thing she has ever done on purpose that has cost her the whole of what it cost.
 
 That is what she has bought and she has not got a figure for it and there is nobody on nine days of road she could ask for one without the asking being entered as well.

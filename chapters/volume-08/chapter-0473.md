@@ -68,7 +68,7 @@ Both times she had said no.
 
 “Then give me the column.”
 
-Xie Changyin went behind the counter and got a sheet of her own and wrote on it for about four minutes in her own hand, and she did not read it out loud, and she put it face down on the table and put her hand flat on it.
+Xie Changyin went behind the counter and got a sheet of her own and wrote on it for four minutes in her own hand, and she did not read it out loud, and she put it face down on the table and put her hand flat on it.
 
 “You asked me once for one question and I answered it in this building at the fourth hour and it went nowhere,” she said. “This is the other half of that arrangement and I am not going to read it to you, because a column of costs is the only thing in forty-two years I have ever been ashamed of handing a person in a piece of paper form.”
 

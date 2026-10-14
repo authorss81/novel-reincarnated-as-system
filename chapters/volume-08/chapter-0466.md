@@ -14,7 +14,7 @@ She had come ready for one.
 
 “Twenty-one days and four hours,” he said, “is what I put where a hand would find it. That is three times on this ground and I told you about one of the three.”
 
-He stopped there. He did not add to it and he did not explain it and he did not put a word on any part of it, and she waited for about ten seconds for something to arrive the way things arrive from him, and nothing arrived.
+He stopped there. He did not add to it and he did not explain it and he did not put a word on any part of it, and she waited ten seconds for something to arrive the way things arrive from him, and nothing arrived.
 
 “You did not ask me,” he said.
 

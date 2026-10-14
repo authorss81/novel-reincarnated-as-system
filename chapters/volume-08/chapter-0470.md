@@ -112,7 +112,7 @@ Every technique she has ever owned runs out at nine. Every resource she is able 
 
 She is at the top of a realm at eighteen years old.
 
-And the way out of a realm, when a person is at the top of it, is a document. She has known that since Volume 4 the way a person knows where the door of a room is, and she has never once gone and looked at the door, because there was no reason to and because everything below it was still moving.
+And the way out of a realm, when a person is at the top of it, is a document. She has known that since she was fourteen, the way a person knows where the door of a room is, and she has never once gone and looked at the door, because there was no reason to and because everything below it was still moving.
 
 There was a piece of paper against her ribs. It had been against her ribs for four years. It said Foundation the first stage on the front of it and it had seven conditions referenced on the inside of it and a claim at the foot, and she had put it there herself with her own hands, and she had never opened it, not once, not in a shed in a winter and not at a yard and not on nine days of road.
 
@@ -122,7 +122,7 @@ She did not open it.
 
 That is the part she will not be able to explain to anybody later, and she has been sitting with it since the eighteenth, and she knows exactly why, and the reason is not fear and it is not that it might be a bad paper.
 
-It is that she spent eight days in a room with a lamp in it on the twelfth of a month five days from now, learning what it is to have a document read out loud to you by somebody qualified to read it, in daylight, in a room, on the ordinary condition, with a book open at the end of it.
+It is that she is going to sit in a room with a lamp in it on the first of a month and have a document read out loud to her by somebody qualified to read it, in daylight, on the ordinary condition, with a book open at the end of it.
 
 She is not going to be read to again. That is all. There is a piece of paper against her ribs and it is the only door in the world and she is the only person alive who can open it, and she has just worked out that she would rather not know what is in it than have it read to her in a room.
 

@@ -64,7 +64,7 @@ Nobody knows she is on this ground except the people she has stood in front of.
 
 She worked the last of it out on the fourteenth at about the seventh hour with four coppers in a fold stitched shut and no bread since the twenty-eighth of a month two months back, and she worked it out standing up, in the ordinary voice, to a lane.
 
-She is at the top of a realm at eighteen years old.
+She is eighteen years old and she is at the top of a realm, and that is not the finding.
 
 There is no wages and there is no season. There is a rate of four coppers a page in a building two hundred yards west that her hand cannot close on and never could. There is a piece of paper against her ribs that says Foundation the first stage on the front of it and has never been opened.
 
@@ -96,7 +96,7 @@ She did not write what she was going to do about it because she does not know ye
 
 ## What She Wants To Do About The Paper
 
-And then, because she cannot help it, because she is eighteen and she has been at the top of a realm for eleven days, she said the next one out loud as well.
+And then, because she cannot help it, because she is eighteen and she has been at the top of a realm for twenty-six days, she said the next one out loud as well.
 
 There is a document against her ribs. It is the only door in the world. It has been against her ribs for four years and she put it there herself and she has never once opened it, and she knows more about what is inside it than she knows about most things, because she has had four years and eleven months to think about it and has not once opened it.
 
@@ -104,6 +104,6 @@ And she is at the top of a realm, and there is nothing above her, and the only w
 
 She wants to open it.
 
-That is the want and it has been the want for eleven days. It goes on the board at the bottom, under the third of a month.
+That is the want and it has been the want since the eighteenth of a month. It goes on the board at the bottom, under the third of a month.
 
 She did not do it, and the reason she did not do it is not fear, and she has worked the reason out twice and it comes out the same both times. She is not going to say it out loud a third time.

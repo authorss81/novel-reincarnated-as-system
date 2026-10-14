@@ -66,7 +66,7 @@ She could have said: “A voice I cannot describe put them there and I made him 
 
 She could have said: “There is a ground underneath this lane that makes a list of work and does not know the difference between the day a thing happened and the day anybody found out, and the whole of what I have got is a column with a pen under it a hundred years.”
 
-She could have said eleven words and the woman of fifty would have believed her, because the woman of fifty had already decided to believe her on the strength of six carts and a quarter short of the frame.
+She could have said a dozen words and the woman of fifty would have believed her, because the woman of fifty had already decided to believe her on the strength of six carts and a quarter short of the frame.
 
 She said nothing.
 
@@ -132,7 +132,7 @@ This one had nothing behind it at all.
 
 He had said “I know” once, in the middle of all of it, and he had said “that is further than anybody has got” once, and he had put a fourth thing down on the thirteenth and told her so, and then he had gone quiet, and she had thought at the time that he was being punished and had not once considered that there was nothing in him to punish.
 
-She slept on the boards with her boots on because she was too tired to take them off and she had done that eleven times.
+She slept on the boards with her boots on because she was too tired to take them off, and she had stopped counting how many nights that was some time in the second year.
 
 At the fourth hour she woke and the shed was the same shed and the four sheets were on the bench with the stone on the top one and the door did not shut properly and the wind was coming under it.
 
