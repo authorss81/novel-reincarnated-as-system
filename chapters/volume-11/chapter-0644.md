@@ -38,7 +38,7 @@ He looks for the answer the way he looked for the morning and did not find it, a
 
 He reads the four days.
 
-A day of walking round a ground with nothing in her hands, on the twenty-first of the month beginning 1,934, and four days afterwards on nine lengths and then thirteen, and a rate of two hours and forty minutes against four days of work, said out loud on a floor with a stick in the grit, in a yard with nine people in it.
+A day of walking round a ground with nothing in her hands, on the twenty-first of the month beginning 1,934, and six more days on the ground after it, and nine lengths on the twenty-eighth and nine on the twenty-ninth and eleven on the thirtieth, and a rate of two hours and forty minutes against four days of work, said out loud on a floor with a stick in the grit, in a yard with nine people in it.
 
 A man of fifty carrying a barrow out of a gate at the second hour on the morning after, saying six things over three days and not saying them all in one go.
 
@@ -128,7 +128,7 @@ A fragment is not used up by being known, because the knowing was never what use
 
 It can.
 
-That is the answer. He has gone looking for it for nineteen years and it takes nine lines in a place with no floor in it, and it is the cheapest answer in this world and it is four hundred and thirty-four days old in the ground where she is standing.
+That is the answer. He has gone looking for it for nineteen years and it takes nine lines in a place with no floor in it, and it is the cheapest answer in this world and it is four hundred and thirty days old in the ground where she is standing.
 
 ## What He Is Going To Do About It
 

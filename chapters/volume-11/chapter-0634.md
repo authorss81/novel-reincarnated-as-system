@@ -102,7 +102,7 @@ She had been handed a place. It had cost her nothing. She had asked a person a q
 
 And the reason it had not held her was that holding was never what asking did. Holding was the knowing. She had always known that. She had worked it out on a stone wall on the third of the month beginning 1,904 and written it in the ash, and she had gone on using asking as though it were a second way in, and it was not, and it stopped being anything at all eight days ago.
 
-She said it out loud to the man of seventy-one, in the ordinary voice, standing on four courses of new stone in the eighth hour.
+She stood on the four courses of new stone in the eighth hour and said it out loud to the man of seventy-one, in the ordinary voice.
 
 “I asked you one question eight minutes ago and I cannot prove I asked it, and I have got your answer, and I would have got your answer if I had asked it a second time or if you had come out of that house and put it in my head without my asking, and the asking was never the thing that held anything.”
 

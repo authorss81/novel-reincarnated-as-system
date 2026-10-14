@@ -20,7 +20,7 @@ The furnace went on. The smoke went straight up. A man came out of the low at th
 
 ## What She Asked, And What Came Back
 
-She said it out loud at the seventh hour, standing at the west end of the yard in daylight on open ground with the windbreak behind her and a working furnace ground in front of her, the way he named the terms and the way she has kept them since the twenty-eighth of the month beginning 1,814.
+At the seventh hour she walked to the west end of the yard and put the windbreak behind her and a working furnace ground in front of her, and said it out loud, standing, in daylight, the way he named the terms and the way she has kept them since the twenty-eighth of the month beginning 1,814.
 
 “Is the permission you gave me still binding.”
 
@@ -80,7 +80,7 @@ And then at the ninth hour she came to the board to write the second line and sh
 
 She stood at a wall on a furnace ground and read thirteen lines of a man of fifty-one’s figures and there was nothing on the back of it in her own hand, and she went through it three times, and the third time she knew that it was there and she could see it and it was a sentence she had written at the seventh hour with a stub of a nib in her left hand.
 
-She said it out loud to the wall.
+She said it out loud to the wall, and nothing came back off it, and the line on the board was the same line it had been at the seventh hour.
 
 “There is a line on this board in my own hand that says I asked a question at the seventh hour today, and I can read it, and I cannot put one word of the question back together except the four words I have just said, and I have got them from the line and not from having asked.”
 

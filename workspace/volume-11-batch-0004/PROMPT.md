@@ -3,8 +3,8 @@
 ## What this phase is
 
 **Volume 11 Batch 0003 is on the page: `chapters/volume-11/` holds ch 601–645, forty-five chapters. Batch 0003 is ch
-631–645, fifteen chapters, 29,807 words of body prose on method B — every line not beginning `#` — day 1,916 to day
-1,996, average 1,987 a chapter, ONE bracketed layer line and it is at ch 632, SEVERANCE 8 throughout, and the batch's
+631–645, fifteen chapters, 29,966 words of body prose on method B — every line not beginning `#` — day 1,916 to day
+1,996, average 1,998 a chapter, ONE bracketed layer line and it is at ch 632, SEVERANCE 8 throughout, and the batch's
 one irreversible step at ch 645.** This phase drafts **ch 646–660, fifteen chapters, and nothing else.** It writes
 finished prose in chapter order, one complete scene per chapter, and updates no file outside `chapters/volume-11/`
 except the state files its own brief names. **No second prompt, no second `workspace/volume-1*` directory, and no
@@ -43,7 +43,7 @@ ground was designed to find people like her, and having said that she is staying
   called Accountant who will not open the book again and has never read his own back.
 - **The ash barrow.** A man of fifty, ash on both forearms from the wrist up, called the boy who carries the ash by
   that ground, pushed a barrow out of that mouth at the second hour on the morning after, through an east gate and down
-  a mile and a half of track, with not one person at the gate and not one person on the track. He has said six short
+  a mile and a half of track, the gate shut behind it and not one person on the track. He has said six short
   sentences about it and **has not said what was in it and will not**, and nothing in the world can prove it.
 - **The tax.** One out of twenty, counted in days and not in money, the same on every ground and it arrives, it comes
   off the board before the board goes up, no person has ever been told their own total, and it cannot be changed by
@@ -316,4 +316,4 @@ prompt before the close record is written.**
 **Three things the Volume 11 close inherits from this batch and must re-measure rather than carry: the three Severance
 days (1,842 · 1,917 · 1,997) and their intervals (70 · 75 · 80); the bracket count, which must be exactly three in
 sixty and at ch 616, ch 632 and ch 648 and nowhere else; and the per-batch word totals, of which Batch 0001's recorded
-28,446 does not reproduce and measures at 29,284 while Batch 0002's 29,748 and Batch 0003's 29,807 both do.**
+28,446 does not reproduce and measures at 29,284 while Batch 0002's 29,748 and Batch 0003's 29,966 both do.**

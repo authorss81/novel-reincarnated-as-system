@@ -44,7 +44,7 @@ He said, “That is the only hour in the day I have ever carried anything out of
 
 On the sixth:
 
-“There was not one person at the gate.”
+“The gate was shut and the yard behind it was empty and I was the one who went through it.”
 
 He said, “And there was not one person on the track for a mile and a half after it.”
 
@@ -66,7 +66,7 @@ It is a heap in the bottom of a flat with a low wall of stones round it that is 
 
 And the same black ash goes on it every day from every ground that sends ash down this track, and the man of fifty-one has a figure for how much comes off this ground in a month, and it is on the board once a year, and it is the only figure on that board that is ever struck out.
 
-She said it out loud at the top of the heap, at the ninth hour and ten minutes of the third of the month beginning 1,964, to nine paces by six of black ash at the bottom of a flat:
+She got up to the top of the heap at the ninth hour and ten minutes of the third of the month beginning 1,964 and looked down at nine paces by six of black ash at the bottom of a flat and said it out loud.
 
 “It is the same shape.”
 
@@ -94,9 +94,9 @@ And not one of the three has ever said what went out of that mouth at the second
 
 Not because it was kept. There is nothing on this ground to keep it with. The book does not have a column for it. The board does not have a line for it. It was not written because it was not seen, and the not-seeing was not done by anybody.
 
-She said it out loud at the ninth hour of the seventh of the month beginning 1,964, sitting on the stones outside the gate with her back against the wall and her bag under her hip:
+At the ninth hour of the seventh of the month beginning 1,964 she was sitting on the stones outside the gate with her back against the wall and her bag under her hip, and she said it out loud.
 
-“Nineteen years of true writing and not one hour of it is a record of a thing going out of a gate at two in the morning, and the reason is not that somebody decided. It is that there was not one person there.”
+“Nineteen years of true writing and not one hour of it is a record of a thing going out of a gate at two in the morning, and the reason is not that somebody decided. It is that there was nothing in a position to see it.”
 
 ## The Morning She Was Not In
 
@@ -104,7 +104,7 @@ And then she found the thing she had come for, and it was not the one she had as
 
 A boy of nineteen was taken at the sixth hour of a morning on this ground. She has got that, on a page in a good hand, in three books, in two of them by two different hands that agree.
 
-The next thing that is known anywhere on this earth about that boy is that a barrow went out of that mouth at the second hour the following morning, through an east gate and down a track for a mile and a half, with not one person at the gate and not one person on the track.
+The next thing that is known anywhere on this earth about that boy is that a barrow went out of that mouth at the second hour the following morning, through an east gate and down a track for a mile and a half, with the gate shut behind it and the barrow going down the track by itself.
 
 That is a morning.
 

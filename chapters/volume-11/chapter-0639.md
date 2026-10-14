@@ -1,6 +1,6 @@
 # The Man With Ash On His Arms
 
-She could not get up off the dirt outside the gate on the twenty-eighth of the month beginning 1,934 the second time.
+She could not get up off the dirt outside the gate on the twenty-eighth of the month beginning 1,934 the second time, having lain on it every day since the twenty-second.
 
 She got up on the fourth try on the morning of the twenty-eighth, and on the twenty-ninth she put up nine lengths of broken stone in a whole day and had to sit down on the stack twice, and the man of fifty-one wrote nine up on the board at the sixth hour and hung the board where anybody could see it and did not say one word about it in front of anybody, which she has been grateful to him for in a way she cannot put anywhere.
 
@@ -14,7 +14,7 @@ Four counts at rest, everywhere, always, since before she can remember, and seve
 
 It did not come back to four until the second of the month beginning 1,964.
 
-That is four days.
+That is eleven days.
 
 And on the twenty-ninth she was at the trough at the sixth hour and she put her left hand in and she could not get it up to her mouth, and she drank out of it by getting down on one knee in the grit in front of nine people, and she has not done that in front of anybody since she was nine years old, and she did not think about it while she was doing it and she thought about it for two days afterwards.
 
@@ -72,7 +72,7 @@ She said, “Because a regret is a thing I keep and I have not got room. And bec
 
 She had counted him nine times.
 
-That is the thing she said out loud at the gate on the second of the month beginning 1,964, at the sixth hour, sitting on the wall with her feet in the ash because she was still sitting on things four days after a walk.
+That is the thing she said out loud at the gate on the second of the month beginning 1,964, at the sixth hour, sitting on the wall with her feet in the ash because she was still sitting on things eleven days after a walk.
 
 “Ten men and two women and a boy of fifteen. I have counted that yard since the fourteenth of a month beginning 1,844 and I have counted him every time and I have not seen him once in a hundred days.”
 
@@ -130,6 +130,6 @@ She said that out loud to the stones outside the gate at the ninth hour of the s
 
 “A man of fifty has carried one question of mine out of a gate nineteen years and three days and he did not answer it, and I cannot get up off this ground to find out where he took it, and the finding out would not have cost anybody but me a single hour.”
 
-And then she lay down on the stones with her bar under her head and her bag under the bar and she was lighter at the tenth hour of the second of the month beginning 1,964 than she was at the sixth hour of it, which is four hundred and six days of it, and not one of them going back, and she lay there a long time and did not do the count twice.
+And then she lay down on the stones with her bar under her head and her bag under the bar and she was lighter at the tenth hour of the second of the month beginning 1,964 than she was at the sixth hour of it, which is four hundred and five days of it, and not one of them going back, and she lay there a long time and did not do the count twice.
 
 And the thing she has not got is the only thing on that ground she cannot get on her own two feet, which is a man of fifty coming back out of an east gate and standing at ten feet and saying the rest of it, and he has nineteen years of practice at not doing that and she has four days of not being able to walk.

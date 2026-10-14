@@ -32,7 +32,11 @@ She wrote it in the ash under the bar with the end of one finger and she did not
 
 Eighty.
 
-She said, out loud, to the wall, at the last hour of the light: “The spaces are getting longer and the reason is in the table in my own head and not in anything anybody has told me. Seventy, seventy-five, eighty. One of these days there is going to be one of ninety and I am not going to be here for it, and there is not one thing on this ground or on any road I know of that gets shorter.”
+She put a finger under the last figure in the ash and left it there, and then she said it out loud to the wall, with the light going off the stone.
+
+“The spaces are getting longer and the reason is in the table in my own head and not in anything anybody has told me. Seventy, seventy-five, eighty.
+
+“One of these days there is going to be one of ninety and I am not going to be here for it, and there is not one thing on this ground or on any road I know of that gets shorter.”
 
 ## What She Wants Before It Comes
 
@@ -92,7 +96,7 @@ Eight leaves made out of a blanket. A date and a place on the first. Four senten
 
 Five blank ones.
 
-She said, out loud, to a gate and a dark yard and the smoke going straight up over her head:
+The yard had gone dark by then and the smoke was going straight up over her head. She said it out loud to the gate:
 
 “If somebody tells me where it happened, I am going to write it on the fourth leaf.”
 
@@ -128,7 +132,7 @@ That is not the man of fifty-one. The man of fifty-one writes down a weight and 
 
 It is not anybody in this yard.
 
-She said it out loud at the fifth hour and twenty minutes, in the ordinary voice, standing, with the light coming across the stone and thirteen people not asleep behind her in the low houses along the north side.
+She got up off the stones at the fifth hour and twenty minutes. The light was coming across the ground and there were thirteen people not asleep behind her in the low houses along the north side, and she said it standing, in the ordinary voice, where the low houses could have it.
 
 “I am going to ask one person on this ground a question tomorrow at the sixth hour, in daylight, standing, and it is the third one I have ever asked a person, and the first was for work and the second was for a book, and this one is not for anything. It is: where in this ground did it happen. And if they say no, then I will go and work out the answer out of the stone myself, because that is what I have got.”
 

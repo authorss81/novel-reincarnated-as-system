@@ -150,7 +150,7 @@ And a man of seventy-one on a bench wrote it down in a good hand nineteen years 
 
 Two hands. Nineteen years apart, and she does not know the day to the day and has never asked and is not going to.
 
-She said it out loud to a low house and a lamp and a man of seventy-one at the eighth hour of the fourteenth of the month beginning 1,934, and she said it once:
+At the eighth hour of the fourteenth of the month beginning 1,934 there was a lamp in the low house and the man of seventy-one on the plank table under it, and she said it out loud to the three of them, once.
 
 “Everything I have spent eight years being careful about was careful for nothing, and all I have got is that a thing can be true and be written true and be right for nineteen years and not one person ever has to read it.”
 

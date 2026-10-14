@@ -10,7 +10,7 @@ And three: what it was for.
 
 That is the one she has not asked and she has had it ready since the seventh of the month beginning 1,874, and she has not put it out loud in seventy days because every time she got near it she heard herself asking a second thing with it.
 
-She said out loud, to the ash at the seventh hour and twenty minutes of the eighth:
+At the seventh hour and twenty minutes of the eighth she turned round to the ash and said it out loud.
 
 “I have been carrying a why of him about a furnace ground for seventy days and I have not said it once, and the reason is that the why and the who are the same question on this ground and I do not know how to ask one without the other one standing next to it.”
 
@@ -120,7 +120,7 @@ She wrote that on the back of her board in her own hand at the seventh hour of t
 
 ## What The Shape Is
 
-She said it out loud at the ninth hour of the fifteenth of the month beginning 1,964, standing at the gate, in the ordinary voice, to a yard and a furnace and a man who is not in the room.
+At the ninth hour of the fifteenth of the month beginning 1,964 she was at the gate with a yard behind her and a furnace going in it and a man who was not in the room, and she said it out loud, standing, in the ordinary voice.
 
 “A day out of twenty. Every ground. Counted in days and not in money. Taken off the board before the board goes up. The same to a person who has earned not one copper and a person who has earned a great deal. No person has ever been told their own total. And not one person who collects it can change it.”
 

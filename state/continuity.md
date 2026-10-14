@@ -6737,11 +6737,11 @@ and ch 626 read 337 for 340.** *(ch 616 derives 282 and does not state it; that 
 
 ## VOLUME 11 BATCH 0003 — ch 631–645 — What He Was — day 1,916–1,996 — WRITTEN
 
-**`chapters/volume-11/` holds ch 601–645. Batch 0003 is ch 631–645: fifteen chapters, 29,807 words of body prose on
+**`chapters/volume-11/` holds ch 601–645. Batch 0003 is ch 631–645: fifteen chapters, 29,966 words of body prose on
 method B — every line not beginning `#`, measured with `grep -v '^#' <file> | wc -w` chapter by chapter and over the
-fifteen together — average 1,987 a chapter, inside the outline's 27,000–30,000 batch band and inside its 1,800–2,000
-target.** Per chapter: 2,201 · 1,937 · 1,810 · 1,923 · 1,910 · 2,128 · 1,896 · 2,094 · 2,003 · 2,036 · 2,001 ·
-1,936 · 2,069 · 1,926 · 1,937. **No chapter is under the 1,300 floor and none is above the 2,700 guide.**
+fifteen together — average 1,998 a chapter, inside the outline's 27,000–30,000 batch band and inside its 1,800–2,000
+target.** Per chapter: 2,238 · 1,960 · 1,815 · 1,925 · 1,906 · 2,137 · 1,896 · 2,102 · 2,012 · 2,061 · 2,013 ·
+1,936 · 2,087 · 1,941 · 1,937. **No chapter is under the 1,300 floor and none is above the 2,700 guide.**
 
 ### The batch plan against `outline/volume-11.md`, card by card
 
@@ -6783,9 +6783,12 @@ drifted: ch 630 closes at the tenth hour of the thirteenth and ch 632 is pinned 
 them is the rest of one night.**
 
 **The going-lighter, derived per chapter and never carried down. The figure at any day D is D − 1,560, anchored on
-the eighteenth of the month beginning 1,544 = day 1,561:** 357 at ch 631 · 362 at ch 632 · 394 at ch 638 · 406 at ch
+the eighteenth of the month beginning 1,544 = day 1,561:** 357 at ch 631 · 362 at ch 632 · 394 at ch 638 · 405 at ch
 639 · 410 at ch 640 · 418 at ch 641 · 422 at ch 642 · 430 at ch 643 · 436 at ch 645. **All nine verified against the
-formula and every one of them is stated on the page.**
+formula and every one of them is stated on the page.** *(Corrected at this batch's review repair: ch 639 stood at
+four hundred and six, which is D + 1. The walk is the twenty-first of the month beginning 1,934 = day 1,954 and the
+chapter counts at the tenth hour of the second of the month beginning 1,964 = day 1,965 = 405, and the page now
+reads four hundred and five.)*
 
 **Days on the furnace ground, measured from her arrival on the fourteenth of the month beginning 1,844, day 1,857
 (the Batch 0002 figure, inherited and not re-derived):** 72 at ch 634 · 79 at ch 635 · 96 at ch 637 · 97 at ch 638 ·
@@ -6804,17 +6807,19 @@ ch 640 · 148 at ch 645.**
 | **Blockquotes / code fences / tables / horizontal rules** | 0 / 0 / 0 / 0 | 0 / 0 / 0 / 0 | **PASS** |
 | **All-caps standalone lines** | 0 | **0** | **PASS** |
 | **Straight quotes / straight apostrophes** | 0 / 0 | **0 / 0**; curly open and close are balanced file by file, asserted per file | **PASS** |
-| **Paragraphs over 90 words** | break at ~90, never over ~120 | **0**; sixteen were over 90 at drafting and every one was split at a natural beat | **PASS after repair** |
+| **Paragraphs over 90 words** | break at ~90, never over ~120 | **0**. Sixteen were over 90 at drafting and every one was split at a natural beat; **the review repair's one long recast at ch 631 was split a second time**, into the hand on the ash, the two sentences about the spaces, and the sentence about ninety | **PASS after repair** |
 | **Duplicate `## ` inside a chapter** | 0 chapters | **0**, asserted per file on `^## `. One cross-batch repeat, *What It Did Not Do*, stood at ch 630 and ch 645 and ch 645's was renamed *What The Ground Did With It* | **PASS after repair** |
 | **Titles** | 15 names, 3–12 words, under ~90 characters, unique | 15 names, 4–8 words, longest 33 characters, **0 collisions against all 645 standing headings and 0 within the batch** | **PASS** |
 | **Verbatim sentence reuse** | no unvaried recycling | **0 duplicated sentences of 8 words or more across the fifteen.** Three stood at drafting — the blanket book's second leaf described word-identically at ch 631, 633 and 643, and *No person has ever been told their own total* at ch 641 and 645 — and all three were rewritten | **PASS after repair** |
 | **Authorial scaffolding** | 0 | **0** — *this chapter · this volume · this book · the reader · in this batch · another batch · N volumes*. Six instances of the bare word *volumes* are the canon phrase *the eighth of a month ten volumes back*, which stands at ch 545 of Volume 10 as *nine volumes back* | **PASS** |
-| **`nobody`** | under thirty volume-wide | **0 in the batch** | **PASS** |
-| **`nothing`** | hold down | **32**, against Batch 0001's 75 and Batch 0002's 43 over fifteen | **PASS** |
-| **`eleven`** | under forty volume-wide | **1 in the batch** — *eight of eleven holds*, which is canon body and is not re-derived — and **36 across ch 601–645** | **PASS** |
+| **`nobody`** | under thirty volume-wide | **0 in the batch**, against **29 across ch 601–645**. Five drafted in the review repair were recast out of it — *the nine feet around her empty*, *four hours of road with nothing on it*, *thirty feet of open floor with nothing standing on it*, *the yard behind it was empty*, *there was nothing in a position to see it* | **PASS** |
+| **`not one person` / `not one thing`** | the quantified negation, held down where it is thinning | **22 and 6**, against 29 and 6 as drafted. **All seven cuts are in ch 640**, where the same empty gate was being turned four times: the sixth sentence now opens on the shut gate and the empty yard, her own reading of the nineteen years now ends *there was nothing in a position to see it*, and the boy's morning now reads *with the gate shut behind it and the barrow going down the track by itself*. **The form now stands twenty-two times and every one is load-bearing** — it is his track at ch 640 · the four who watched her knee go down at ch 635 · the four hundred and twenty days nobody came for at ch 642 · the pair that cannot change it at ch 641 and ch 645, said twice in two mouths · and, last and on purpose, **the whole earth knowing what she said in the yard at ch 645**, which is the irreversible step and is not allowed to be anything but that sentence | **PASS after repair** |
+| **`nothing`** | hold down | **36**, against Batch 0001's 75 and Batch 0002's 43 over fifteen | **PASS** |
+| **`eleven`** | under forty volume-wide | **4 in the batch** on word boundaries — *eight of eleven holds* at ch 635, which is canon body and is not re-derived, plus *that is eleven days* at ch 639 twice and *eleven on the thirtieth* at ch 644 — and **30 across ch 601–645**. A fifth reading that takes *eleventh* in gives 41 volume-wide | **PASS** |
 | **`about…`** | average under 7.0 | **97**, average **6.47** | **PASS** |
 | **`whole of`** | under 80 volume-wide | **1 in the batch** — *That is the whole of it*, his catchphrase, at ch 632 — and **69 across ch 601–645**. Forty-nine were drafted and cut | **PASS after repair** |
-| **`out loud`** | held down; no chapter carrying it as filler | **55**, against Batch 0002's 54. Twenty-two were drafted and cut | **PASS after repair** |
+| **`out loud`** | held down; no chapter carrying it as filler | **54**, against Batch 0002's 54. Twenty-two were drafted and cut | **PASS after repair** |
+| **The disclosure-tag preamble** — *said it/that out loud at the <hour>, in the ordinary voice, standing, to <object>* | no chapter stacking the same four-part slot | **0 of the 22 slots the review counted now run in that order. Seventeen were recast to open on action or close on silence** — a finger put under a figure in the ash (631) · a yard gone dark (631) · her getting up off the stones (631) · walking to the west end of the yard (632) · nothing coming back off the wall (632) · turning round to the stack (633) · standing on the four courses (634) · the nine feet around her empty (635) · a lamp in the low house (636) · the gate with the stick in her hand (637) · the rise with four hours of road on it (637) · past the end of it and still walking (638) · up to the top of the heap (640) · the gate with the yard behind her (641) · crouched over the ash (643) · the two lines in the ash (643) · still on the stones (643). **The tag stays whole on the beats that carry a cost** — twice said and got twice (642) · once and not twice (642) · sitting down where she had not planned to (638) · because there was not one person near her (643) · the yard with thirteen people in it (645) | **PASS after repair** |
 | **The retired seven phrases** | at most one | **0** | **PASS** |
 | **`about four seconds`** | 0 | **0** — two were drafted at ch 632 and 633 and both were recast as *the count of four* | **PASS after repair** |
 | **`eleven weeks` · `week`** | 0 | **0 / 0**. **Six instances of `week` were drafted** — *a week before · the week of the morning · the most useful thing she did all week · the week after · three weeks in* — **and every one was cut to *seven days*, *the seven days after*, or *twenty-one days*** | **PASS after repair** |
@@ -6853,10 +6858,14 @@ ch 640 · 148 at ch 645.**
    nineteen years · it has been right the whole time. **And the four capital strokes in his good hand are the four she
    wrote on her own third leaf.**
 6. **THE FOURTH ORIGIN MOUTH AT CH 640.** Six sentences over three days from a man of fifty who carries the ash out:
-   I carried it out at the second hour · there was not one person at the gate · not one person on the track for a
-   mile and a half · I did not know what was in it and I did not look down · that is what I saw, a morning going out
-   the way ash goes out. **And the morning she finally gets is the morning after, an hour and a mile and a half long,
-   which belonged to him and not to her.**
+   I carried it out at the second hour · the gate was shut and the yard behind it was empty and I was the one who went
+   through it · not one person on the track for a mile and a half after it · I did not know what was in it and I did
+   not look down · that is what I saw, a morning going out the way ash goes out. **And the morning she finally gets is
+   the morning after, an hour and a mile and a half long, which belonged to him and not to her.** *(Recast at this
+   batch's review repair: the sixth sentence had opened *there was not one person at the gate* and the same turn was
+   being made four times in the chapter. It now opens on the shut gate and the empty yard, and the quantified
+   negation is left standing exactly where it carries — on the track, in her own mouth at ch 645, and nowhere
+   else.)*
 7. **THE TAX HAS A SHAPE AT CH 641 AND THE SHAPE IS DESIGNED AT CH 642.** Counted in days and not in money · one out of
    twenty · the same on every ground and it arrives · it comes off the board before the board goes up · no person has
    ever been told their own total · it cannot be changed by anybody who collects it. **Four hundred and twenty days

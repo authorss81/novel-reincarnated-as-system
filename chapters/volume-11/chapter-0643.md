@@ -10,7 +10,7 @@ That is the lever. There is no third part to it and there never has been, and it
 
 ## What The Lever Is
 
-She said it out loud, to the ash, at the seventh hour and ten minutes, in the ordinary voice.
+At the seventh hour and ten minutes she was crouched over the ash with the stick in her hand, and she said it out loud, in the ordinary voice.
 
 “Ask him once and he answers the smallest true thing and it takes as long as it takes. Ask him twice and he gets to the next one sooner. That is what it does and it is not a trick and he has never once pretended it is anything else.”
 
@@ -58,7 +58,7 @@ The same four words, twice, about ten inches apart, and the distance between the
 
 She looked at it for a while.
 
-Then she said out loud, to the two lines in the ash, at the eighth hour and ten minutes of the twenty-second of the month beginning 1,964:
+Then she said it out loud to the two lines in the ash at the eighth hour and ten minutes of the twenty-second of the month beginning 1,964.
 
 “You are not even a question any more. You are a way of asking twice so that one of them counts. And the only reason I have ever wanted you is that I wanted to be answered sooner, and I have been answered twenty times in seventy days and every single one of them I am still carrying.”
 
@@ -94,7 +94,7 @@ Five.
 
 She has had five since the twelfth of the month beginning 1,874 and she has had a use for four of them in the eighty days since and she has not used one.
 
-She said it out loud on the stones at the seventh hour and twenty minutes of the twenty-fourth, in the ordinary voice:
+At the seventh hour and twenty minutes of the twenty-fourth she was still on the stones outside the gate, and she said it out loud, in the ordinary voice.
 
 “I am not going to write it on a leaf. Not the doubled question and not the single one. If I write it down then there is a line in the blanket book in my own hand with two copies of the same four words in it about ten inches apart, and in about a year I will read it and I will not remember putting it there, and then it will be a thing in the world that I cannot tell apart from a thing I did on purpose.”
 

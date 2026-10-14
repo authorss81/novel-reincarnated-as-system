@@ -92,7 +92,7 @@ A name in a good hand in a cloth book on a plank table at the north end of a fur
 
 And there is no instrument in the world for holding the two of them, and there never has been, and she has been inventing one out of asking since the eighth of a month ten volumes back and it stopped working eight days ago.
 
-She said it out loud, on the twentieth, at the gate, with the stick in her hand and the figure of the lighter in her head at three hundred and ninety-three days.
+On the twentieth she stood at the gate with the stick in her hand and the figure of the lighter in her head at three hundred and ninety-three days, and said it out loud.
 
 “Knowing is heavier than asking. It is heavier because a asking has an end to it and a knowing does not, and because a thing you are told is a thing that happens to you and a thing you know is a thing you have to hold up.”
 
@@ -134,7 +134,7 @@ A name in a good hand in a cloth book on a plank table cannot be lost by anybody
 
 The hard part is that there is no putting it down.
 
-She said that out loud on the rise with the wind off the flat and the smoke behind her and not one person within four hours of road of where she was sitting.
+She said it out loud on the rise, with the wind off the flat and the smoke behind her and four hours of road in any direction with nothing on it.
 
 He said, “That is a strange thing to have found out.”
 

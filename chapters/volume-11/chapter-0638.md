@@ -68,7 +68,7 @@ She did not slow down either, and that was the part she had to work at, because 
 
 She went along it. Nine paces by six on her left hand side and four feet off it, and her boots on the old stone, and the gap in the north joint went past her from the sixth hour and thirty-one minutes to the sixth hour and thirty-four minutes.
 
-And at the sixth hour and thirty-four minutes she was past the end of it and she was still walking and she said out loud, in the ordinary voice, on a kiln floor on a furnace ground, with her hand on a warm wall and not one person within thirty feet:
+And at the sixth hour and thirty-four minutes she was past the end of it and she was still walking, with her hand on a warm wall and thirty feet of open floor around her with nothing standing on it, and she said it out loud, in the ordinary voice, on a kiln floor on a furnace ground:
 
 “Right.”
 
@@ -96,7 +96,7 @@ The heat off it is about the heat off the inside of an oven with the door shut a
 
 She stopped eight feet short of it and stood there and breathed at seven and let it come.
 
-She said out loud, to a furnace two hundred yards from the gate she had walked out of at the sixth hour:
+She said it out loud to a furnace two hundred yards from the gate she had walked out of at the sixth hour:
 
 “This is the thing he named.”
 

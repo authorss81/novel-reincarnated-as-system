@@ -1861,7 +1861,7 @@ not hold her, and the bill for the knowing is hers, and she is still going.**
 
 ## Volume 11, Batch 0003 (ch 631–645) — *What He Was* — day 1,916–1,996
 
-Pressure: **knowing**. Fifteen chapters, 29,807 words of body prose on method B, average 1,987. One bracketed layer
+Pressure: **knowing**. Fifteen chapters, 29,966 words of body prose on method B, average 1,998. One bracketed layer
 line, at ch 632. Severance 7 throughout until ch 632, Severance 8 from it. The batch's irreversible step is ch 645.
 
 - **ch 631, day 1,916–1,917 (thirteenth to fourteenth of the month beginning 1,904), *Seventy-Five Days On A Wall*.
@@ -1923,12 +1923,14 @@ line, at ch 632. Severance 7 throughout until ch 632, Severance 8 from it. The b
   it and is good at it.** 394 days.
 - **ch 639, day 1,961–1,966 (twenty-eighth to thirtieth of the month beginning 1,934 and the first to third of the
   month beginning 1,964), *The Man With Ash On His Arms*. COST.** Two hours and forty minutes of hot stone cost her
-  four days of work: nine lengths, eleven lengths, sitting down twice. She goes down on one knee in the grit in front of
+  four days of work: nine lengths, eleven lengths, sitting down twice. **She is on the ground from the twenty-second and
+  cannot get up off it until the twenty-eighth, and her breath does not come back to four counts until the second of
+  the month beginning 1,964, which is eleven days, not four.** She goes down on one knee in the grit in front of
   a trough in front of nine people and works out that she is not doing it again, and that the reason the nine said
   nothing about it is that they have been right the whole time. **She finds the tenth man: fifty, ash on both forearms
   from the wrist up, nineteen years of it, the one who pushes the barrow out.** She asks him one question at the mouth
   end. He turns round, takes his bar, and works the second length and the third and does not say one word. **And she
-  cannot follow him, because at that hour she could walk nine paces of a floor and get back off it.** 406 days.
+  cannot follow him, because at that hour she could walk nine paces of a floor and get back off it.** 405 days.
 - **ch 640, day 1,967–1,972 (fourth to ninth of the month beginning 1,964), *Second Hour, Nineteen Years Ago*. THE
   FOURTH ORIGIN MOUTH.** He comes to the gate because she did not follow him. **Six short sentences over three days,
   and the new thing is that a thing taken out in the morning is gone where taken things go, and the going is not

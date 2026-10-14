@@ -92,7 +92,7 @@ Two acres of it. Two hundred and forty paces long. Fifty minutes at a walk with 
 
 And four counts of breath that go to seven on a rise and stay at seven, and a stone lip off the west end nine feet high, and a furnace mouth on that same west end that has been worked nineteen years without once being let out.
 
-She said all of it out loud at the sixth hour of the sixth, at the gate, standing, in daylight, with the ash going up on her left and the smoke going straight up on her right and not one person on that ground within nine feet of her.
+At the sixth hour of the sixth she stood at the gate in daylight with the ash going up on her left and the smoke going straight up on her right and the nine feet around her empty, and said all of it out loud.
 
 He said, “You have worked out that you will not get through it.”
 

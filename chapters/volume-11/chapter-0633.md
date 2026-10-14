@@ -90,7 +90,7 @@ And when the boy called the first figure at the sixth hour she found that she ha
 
 She did not know when she had made it. She could not have said afterward whether she had asked it that morning or built it on the wall two days before or carried it up out of a dream, which is a thing that has happened to her twice in ten years and both times were about a number.
 
-She said it out loud, to the stack, at the sixth hour and ten minutes.
+At the sixth hour and ten minutes she turned round to the stack and said it out loud to it.
 
 “I have been carrying a question and I cannot tell you which morning I made it in, and it is a true question, and I am going to ask it. And if it has already been asked then I have asked it twice, and I am not going to find out.”
 
