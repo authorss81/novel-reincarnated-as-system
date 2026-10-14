@@ -1,30 +1,24 @@
 # What The Page Assumed
 
-She read it in a minute and twenty seconds, the way she has read fine hands since she was twelve years old, which is quickly and then again, because the first time is for the shape and the second is for the figures.
+She did not read it for the figures. She had those. She had had them since the twelfth of the month beginning 1,874, in her own hand, against her ribs, where nothing can get at them.
 
-Then she stood with her hands behind her back and did the second reading, which took another minute, and then she stood there for about nine minutes doing neither.
+She read it once for the shape of it and once for the place in it, and the place was on that page and nowhere else.
 
-She did not read a word of it out loud. There was not one person in the room to read it to, because a woman of forty-five was standing in a yard on the other side of a shut door, and there had not been a person in that low house who had ever had one line of that page said aloud.
+Then she stood with her hands behind her back for about nine minutes doing neither.
 
-## What It Says
+There was not one person in the low house to say any of it to. A woman of forty-five was standing in a yard on the other side of a shut door, and there had not been a person in that low house who had ever had one line of that page spoken aloud.
 
-A work was begun by a senior on that ground at the first hour and it stalled before the second.
+## What She Was Looking For
 
-It was filled with a person.
+She wanted a morning.
 
-The person was a boy of nineteen and he was the son of a man who keeps the fire there, and the taking of him is entered as an ordinary line between two other ordinary lines, because it was one.
-
-He was taken at the sixth hour of that morning and the weight of what was taken is in the page and the weight of what came back is in the page, and the two are not the same, and the clerk who wrote them set the difference down as a figure and did not put one word beside it.
-
-There is no line in the entry that says why.
-
-And there is a name, in the same hand, and it is the same two syllables.
+She has got a date and a place and a name and two weights and a difference with nothing written beside it, and every one of them is true, and not one of them is a morning.
 
 That is the harvest, and it is written down true, and it is nineteen years dry.
 
 ## The Part That Is Not On The Page
 
-She said it out loud, to a shut door and a table and a stove, at the seventh hour of the sixth of the month beginning 1,904, in the ordinary voice, because she was not going to have it in her head and nowhere else.
+She said it, to a shut door and a table and a stove, at the seventh hour of the thirteenth of the month beginning 1,904, in the ordinary voice, because she was not going to have it in her head and nowhere else.
 
 “A boy of nineteen at a sect that is not this one, taken at the sixth hour for a man who had been nine years at a work on himself, and what came back weighed less than what went in, and the man who wrote it wrote the difference and nothing else.”
 
@@ -44,7 +38,7 @@ She stood at a table in a low house with her hands behind her back and she did n
 
 He said, “Yes.”
 
-She said, “Then you have never once said it and you have let me walk sixty-four days on a name in a woman’s mouth.”
+She said, “Then you have never once said it and you have let me walk sixty-eight days on a name in a woman’s mouth.”
 
 He said, “I have never once said it and I told you on the ninth hour of the twenty-fourth of the month beginning 1,814 that I would be careful, and I was careful about one thing and I was not careful about this.”
 
@@ -56,7 +50,7 @@ He said, “A question in the dark in a place with no lamp gets a shape, and a s
 
 And here is the part.
 
-She has got a name on the third leaf of a book of eight leaves. She has got a day above it that came off this page four days after the twelfth of the month beginning 1,874, in her own hand, off a line in a good hand, where it had been dry for nineteen years.
+She has got a name on the third leaf of a book of eight leaves. She has got a day above it that came off this page on the twelfth of the month beginning 1,874, in her own hand, off a line in a good hand, where it had been dry for nineteen years.
 
 It held.
 
@@ -76,7 +70,7 @@ There was nothing to put it into.
 
 The page held a name. It did not hold a morning.
 
-She said it out loud, at the seventh hour and forty minutes of the sixth of the month beginning 1,904, in the plainest words she had:
+At the seventh hour and forty minutes of the thirteenth of the month beginning 1,904, standing with her hands flat on a book, she said it in the plainest words she had:
 
 “I was not in it.”
 
@@ -88,13 +82,13 @@ She said, “You were in it and I was not, and one of those is the whole of it, 
 
 She got it out after that, standing at the long window with the light coming across the floor and ten feet of it.
 
-“The woman who kept this shut it in the days it was written. She did not open it for nineteen years. Not one person on this ground ever asked her for it. I did not ask her for it either until the twenty-fifth of the month beginning 1,844, and I asked her in a doorway with a bar against my hip and she said no, and she was right, and I said six words on her own step that I have not been able to take back.”
+“The woman who kept this shut it in the days it was written. She did not open it for nineteen years. Not one person on this ground ever asked her for it. I did not ask her for it either until the twenty-fourth of the month beginning 1,844, and I asked her in a doorway with a bar against my hip and she said no, and she was right, and I said six words on her own step that I have not been able to take back.”
 
 He said, “And what did the six words do.”
 
-She said, “They put this knowing into the world. And they put it into the world thirty-three days after I asked you a question at dusk on a turn with no lamp, and I have had both of those dates and I have been carrying them for a month and I did not put them together until this morning.”
+She said, “They put this knowing into the world. And they put it into the world twenty-six days after I asked you a question at dusk on a turn with no lamp, and I have had both of those dates and I have been carrying them for forty-nine days and I did not put them together until this morning.”
 
-She said, out loud, to the window, at the eighth hour:
+She said, to the window, at the eighth hour and ten minutes:
 
 “A man with a shut notebook walked down a slope on the ninth hour of the thirteenth of a month beginning 1,844 and told me a true thing is not the same as a thing that is yours, and then he told me there was one thing he would say and then he walked away from me. And I have worked out what it was. He was telling me that the past is only findable while nobody is asking after it.”
 
@@ -106,7 +100,7 @@ He said, “Not one person had been asking about that morning for nineteen years
 
 ## The Count She Can Do
 
-She got the two things side by side on the back of the board she had borrowed, with a stick of charcoal off the wall, standing at the long window, at the eighth hour and twenty minutes of the sixth of the month beginning 1,904.
+She got the two things side by side on the back of the board she had borrowed, with a stick of charcoal off the wall, standing at the long window, at the eighth hour and twenty minutes of the thirteenth of the month beginning 1,904.
 
 On the twenty-first of the month beginning 1,874 the boy of fifteen brought her a second barrow. On the twenty-second he did not.
 
@@ -114,11 +108,11 @@ On the twenty-third, twenty-fourth and twenty-fifth he did, and she saw no shape
 
 On the twenty-sixth and the twenty-seventh he did not, and by the seventh hour on the twenty-seventh she had stopped waiting for it, and from the twenty-eighth he has not brought a second one at all.
 
-On the second of the month beginning 1,904 the bowl stopped coming out of the low house. On the fifth, four days running, not one person in that yard has said a word to her.
+On the second of the month beginning 1,904 the bowl stopped coming out of the low house. On the ninth, four days running, not one person in that yard has said a word to her.
 
 And she had been on that ground once before for four days and a night, in a month beginning 1,754, and got not one word out of anybody there and did not ask.
 
-She put the charcoal down and looked at the figures on the back of a board and said, at the eighth hour and thirty minutes, out loud, in a low house on a furnace ground:
+She put the charcoal down and looked at the figures on the back of a board and said, at the eighth hour and thirty minutes, in the ordinary voice, in a low house on a furnace ground:
 
 “That is the bill. It is mine. I asked a woman for her husband’s book on the twenty-fourth of a month and everything that has been true on this ground for nineteen years has been true in the wrong order since, and the price of it was not that I got nothing. It is that everything here was fine until I came and it is not fine now, and every person on it has been exactly correct the whole way.”
 
@@ -144,7 +138,7 @@ The woman did not move.
 
 She said, “I have sat in this house for nineteen years with a page in a book that I wrote and I have not read since the morning I read it to find out whether it was true, and you have read it in two minutes and you have not got a single morning out of it, and I want to know what that is.”
 
-Ning Yan said, “It is this. There is a name on a leaf of a book against my ribs and it has held for four days, and there is not one hour in that morning I can put anywhere. And the reason is that I was not in it. You were not in it either and you have carried it nineteen years and you have not put it down any better than I have.”
+Ning Yan said, “It is this. There is a name on a leaf of a book against my ribs and it has held for thirty-one days, and there is not one hour in that morning I can put anywhere. And the reason is that I was not in it. You were not in it either and you have carried it nineteen years and you have not put it down any better than I have.”
 
 The woman said, “No,” the woman said, “I have not.”
 
@@ -152,7 +146,7 @@ She said, “That is the first time anyone has said that to me about it.”
 
 ## What Was Not On The Page
 
-And then she said the last of it, and she said it standing up, at the ninth hour and twenty minutes of the sixth of the month beginning 1,904, with the book open on the table and the stove going.
+And then she said the last of it, and she said it standing up, at the ninth hour and twenty minutes of the thirteenth of the month beginning 1,904, with the book open on the table and the stove going.
 
 She said, “There is no place on it.”
 
@@ -164,13 +158,13 @@ She said, “It is a furnace ground. It has said so nine times on that page.”
 
 She said, “It has said what kind of ground it is. It has not said which part of it. A book like that assumes everybody who opens it is already standing in the room, because everybody who writes one is.”
 
-The woman said, “That is true,” the woman said. “I did not see it when I wrote it and I have looked at it four times since the thirtieth and I did not see it until a girl of nineteen said it out loud in my low house.”
+The woman said, “That is true,” the woman said. “I did not see it when I wrote it and I have looked at it four times since the thirtieth and I did not see it until a girl of nineteen said it in my low house.”
 
 Ning Yan said, “So I have got everything about that morning except the one thing I came for.”
 
 She said, “And you are standing in the room.”
 
-She said, “I have been standing on this ground for fifty-three days and I have not found it and I have walked it twice and I have never once been asked where in it a thing happened, because on this ground everybody knows where in it things happen.”
+She said, “I have been standing on this ground for fifty-nine days and I have not found it and I have walked it twice and I have never once been asked where in it a thing happened, because on this ground everybody knows where in it things happen.”
 
 He said, “That is the whole of what the page has for you.”
 
@@ -178,10 +172,10 @@ She said, “That is the whole of what the page has for anybody.”
 
 She shut the book, did not tie the string, and went out into the yard and across it on the outside of the furnace stack where the heat is not, past the barrow wall and the barrows nose up against the inside of a knee-high line of stone, to the gate.
 
-She stood in the middle of the yard at the tenth hour of the sixth of the month beginning 1,904 with fifty-three days of it under her feet and a name and a day and two weights in her head that will not leave her, and a book shut on a table behind her that has just told her everything and has not told her one single thing she can carry.
+She stood in the middle of the yard at the tenth hour of the thirteenth of the month beginning 1,904 with fifty-nine days of it under her feet and a name and a day and two weights in her head that will not leave her, and a book shut on a table behind her that has just told her everything and has not told her one single thing she can carry.
 
-She was lighter at the tenth hour than she was at the fifth hour of it, which is three hundred and forty-nine days of it, counting the eighteenth of the month beginning 1,544 as the first, and not one of them going back.
+She was lighter at the tenth hour than she was at the fifth hour of it, which is three hundred and fifty-six days of it, counting the eighteenth of the month beginning 1,544 as the first, and not one of them going back.
 
-And she said it out loud in the middle of an empty yard at the tenth hour of the sixth of the month beginning 1,904, to a furnace and a wall and a man who was in the room and is not in the room:
+And she said it out loud in the middle of an empty yard at the tenth hour of the thirteenth of the month beginning 1,904, to a furnace and a wall and a man who was in the room and is not in the room:
 
 “The one thing I wanted was a place, and the book assumes everybody who reads it already knows where they are standing.”

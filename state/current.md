@@ -4761,7 +4761,7 @@ Threads: `state/open-threads.md` under ***VOLUME 10 CLOSED***.
 beginning `#`), AVERAGE 1,892 A CHAPTER, ZERO BRACKETED LAYER LINES, SEVERANCE 6 THROUGHOUT, AND THE BATCH'S ONE
 IRREVERSIBLE STEP AT CH 609.** The one next phase is `workspace/volume-11-batch-0002/PROMPT.md` — ch 616–630, day
 1,842–1,916, pressure *being told*. Full record in `state/continuity.md` under ***VOLUME 11 BATCH 0001 — ch 601–615***;
-the ch 615 position is `## Who is where at end of ch 615` above. **Batch 0002 ran ch 616–630, day 1,842–1,916, pressure *being told*, 29,997 words of body prose on method B, ONE bracketed layer line at ch 616, and its one irreversible step at ch 624; `chapters/volume-11/` now holds ch 601–630 and the live position is `## Who is where at end of ch 630` at the foot of this file.** The one next phase is `workspace/volume-11-batch-0003/PROMPT.md` — ch 631–645, day 1,917–1,996, pressure *knowing*.
+the ch 615 position is `## Who is where at end of ch 615` above. **Batch 0002 ran ch 616–630, day 1,842–1,916, pressure *being told*, 29,748 words of body prose on method B, ONE bracketed layer line at ch 616, and its one irreversible step at ch 624; `chapters/volume-11/` now holds ch 601–630 and the live position is `## Who is where at end of ch 630` at the foot of this file.** The one next phase is `workspace/volume-11-batch-0003/PROMPT.md` — ch 631–645, day 1,917–1,996, pressure *knowing*.
 
 ## Volume 11 planned — WHAT HE WAS, ch 601–660 (planning phase, no prose written)
 
@@ -4977,7 +4977,7 @@ re-dispatched. No new phase directory and no `.done` marker.**
 ## Who is where at end of ch 630 — VOLUME 11 BATCH 0002 CLOSED (cold reader starts here)
 
 **This is the live position of the manuscript. `chapters/volume-11/` holds ch 601–630, thirty chapters. Batch 0002 is
-ch 616–630, fifteen chapters, 29,997 words of body prose on method B (every line not beginning `#`), average 2,000 a
+ch 616–630, fifteen chapters, 29,748 words of body prose on method B (every line not beginning `#`), average 1,983 a
 chapter, ONE bracketed layer line at ch 616 and nowhere else, and the batch's one irreversible step at ch 624.** The
 next phase is Volume 11 Batch 0003, ch 631–645. `outline/volume-11.md` is the authority and none of it is
 re-planned here.
@@ -4997,7 +4997,7 @@ re-planned here.
   index gone · right arm open four days in five and open again at the furnace · eight of eleven holds · four counts
   of breath, seven on a rise and inside a loaded reach · **a small open place low behind her fourth rib, the size of
   a coin, open since the eighteenth of the month beginning 1,544, which is day 1,561; the figure at any day D is
-  D − 1,560, which is 349 on the day of ch 630, and not one of them going back. Not hungry.**
+  D − 1,560, which is 356 on the day of ch 630, and not one of them going back. Not hungry.**
 - **THE THREE VOLUME 10 COSTS, carried and shown, never re-derived:** she cannot be counted where she stands ·
   **she cannot follow a name she is given** · **she cannot keep what she finds by holding it** (fourteen barrows of
   pit stone at ch 626 and the figure will not produce).
@@ -5024,7 +5024,7 @@ re-planned here.
   that is not on the page, for the first time in his life: the fire did not take all of it, and the part that woke up
   is the part that survived.** **And it does not hold her.** Every figure in the entry comes back for the rest of her
   life and the morning does not, **because she was not in it.** **And the page has no place on it — a book like that
-  assumes everybody who reads it is already standing in the room — and she has been on that ground fifty-three days
+  assumes everybody who reads it is already standing in the room — and she has been on that ground fifty-nine days
   and has not found which part of it.**
 - **THE TERMS, one at a time · in daylight · standing. They do not move.** The wall is gone; a question is done
   standing. **The lever — asking twice — is carried and declined and is not pulled anywhere in this batch.**

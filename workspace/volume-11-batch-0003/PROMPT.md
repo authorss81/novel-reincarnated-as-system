@@ -3,8 +3,8 @@
 ## What this phase is
 
 **Volume 11 Batch 0002 is on the page: `chapters/volume-11/` holds ch 601–630, thirty chapters. Batch 0002 is ch
-616–630, fifteen chapters, 29,997 words of body prose on method B — every line not beginning `#` — day 1,842 to day
-1,916, average 2,000 a chapter, ONE bracketed layer line and it is at ch 616, Severance 7 throughout, and the batch's
+616–630, fifteen chapters, 29,748 words of body prose on method B — every line not beginning `#` — day 1,842 to day
+1,916, average 1,983 a chapter, ONE bracketed layer line and it is at ch 616, Severance 7 throughout, and the batch's
 one irreversible step at ch 624.** This phase drafts **ch 631–645, fifteen chapters, and nothing else.** It writes
 finished prose in chapter order, one complete scene per chapter, and updates no file outside `chapters/volume-11/`
 except the state files its own brief names. **No second prompt, no second `workspace/volume-1*` directory, and no
@@ -21,6 +21,22 @@ standing in the middle of the yard of a furnace ground forty days east of the ga
 just read a page that told her everything about one morning and nothing about where it happened.
 
 **Day 1,917, the fourteenth of the month beginning 1,904, is one day off and it is the day of SEVERANCE 8.**
+
+**Batch 0002 went through a review repair and the page is what it left. Read these before the cards and treat them as
+the authority on Batch 0002's position, not on Batch 0003's design:**
+
+- **The date spine is now true.** Batch 0002 closed on **day 1,916, the thirteenth of the month beginning 1,904**,
+  and ch 629 runs the ninth to the thirteenth (1,912–1,916). **Ch 629 and ch 630 therefore share the thirteenth, in
+  sequence** — the door at the fifth hour and forty minutes, the page read at the seventh — because the widow sets
+  *not now, tomorrow at the sixth hour* on the twelfth. Severance 8 at day 1,917 is one day off this and is untouched.
+- **Days on the furnace ground, measured from her arrival on the fourteenth of the month beginning 1,844, day 1,857:**
+  **28 at ch 624 · 39 at ch 626 · 49 at ch 628 · 58 at ch 629 · 59 at ch 630.** Use these figures and do not re-derive
+  them.
+- **Days from the turn** (the asking at ch 609, the twenty-eighth of the month beginning 1,814, day 1,841): **65 at
+  day 1,906 · 74 at day 1,916.** Days from the name being told at ch 617 (day 1,848): **68 at day 1,916.**
+- **The going-lighter count** is D − 1,560 at any day D, anchored on day 1,561: **356 at day 1,916.**
+- **`out loud` was cut from 107 uses to 54** across Batch 0002, and the verbatim blanket-leaf description that stood
+  word-identical at ch 616, 623 and 625 is now three different sentences. **Do not let either re-form in this batch.**
 
 **She is nineteen, at Severance 7, with no wages, no place, no road and no list, a bar nine feet nine, a skin, a bag
 with a dish and a lump of clay and a ring a finger's width and a stub of a nib and a cake of ink she opened on the
@@ -78,7 +94,7 @@ mill, fourteen miles from the post · a lane four miles west · a keeper of fift
 the turn** · thirteen miles east of the turn, eleven of made road to a gate and two past it to a wall with an opening
 standing open and **nothing between the gate and the wall to lie down on** · **the barrow ground, on the rising
 ground east of the flat, about two hundred people in rows with a stone at the head of each** · **and the furnace
-ground, fifty-three days and counting east of the turn: two acres inside a knee-high line of stone, ten men, two women,
+ground, sixty-five days and counting east of the turn: two acres inside a knee-high line of stone, ten men, two women,
 a boy of fifteen who calls every figure out loud, a man of fifty-one with a board, a widow of forty-five with a shut
 book, and a furnace that has not been let out in nineteen years.**
 

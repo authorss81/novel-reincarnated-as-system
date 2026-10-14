@@ -1,14 +1,14 @@
 # A Yard With A Fire In It
 
-She noticed the rest of it on the fifth of the month beginning 1,904, and she wrote it down out loud on the stone wall at the sixth hour so that there would be two of us holding it, and she was not aware for another two days that she was doing it in a voice.
+She noticed the rest of it on the twelfth of the month beginning 1,904, and she put it on the stone wall at the sixth hour so that there would be two of us holding it, and she was not aware for another two days that she was doing it in a voice.
 
 The boy of fifteen still called her figures. The man of fifty-one still wrote them on the board and hung the board up on the nail where anybody could see it. The ten men and two women in that yard still came in and out of a gate she was standing next to.
 
 And in four days on that ground not one person had spoken to her.
 
-The board went up with her entry on it and got read by four people and not one of them said a figure to her at the end of a day. The bowl had stopped coming out at the sixth hour on the second of the month beginning 1,904. There was no bowl on the step on the third, the fourth or the fifth.
+The board went up with her entry on it and got read by four people and not one of them said a figure to her at the end of a day. The bowl had stopped coming out at the sixth hour on the second of the month beginning 1,904. There was no bowl on the step on the ninth, the tenth, the eleventh or the twelfth.
 
-She said it out loud at the sixth hour of the fifth, on the wall, in the ordinary voice, to an empty yard.
+She said it at the sixth hour of the twelfth, on the wall, in the ordinary voice, to an empty yard.
 
 “Nobody has said a word to me in four days and I have not been thrown off and I have not been told anything and I have not been given anything, and I do not know yet which of those I am reading as the thing that has happened.”
 
@@ -26,7 +26,7 @@ She said, “I am going to.”
 
 ## Across A Working Yard
 
-She crossed the yard at the seventh hour of the fifth of the month beginning 1,904 to get to the trough, which is about nine steps from where she sleeps, and a man of forty with a long bar came round the corner of the furnace at the same moment with a course on it.
+She crossed the yard at the seventh hour of the twelfth of the month beginning 1,904 to get to the trough, which is about nine steps from where she sleeps, and a man of forty with a long bar came round the corner of the furnace at the same moment with a course on it.
 
 She did not hear him. That is the part she has gone over.
 
@@ -52,7 +52,7 @@ He said, “It has not been named because it is the fourth stage and it has been
 
 ## The Doorstep, The Fifth
 
-She asked at the seventh hour of the fifth of the month beginning 1,904, standing in the doorway with the bar against her hip and the yard behind her going on the way a yard goes on.
+She asked at the seventh hour of the twelfth of the month beginning 1,904, standing in the doorway with the bar against her hip and the yard behind her going on the way a yard goes on.
 
 She did not ask for the book.
 
@@ -60,7 +60,7 @@ She said, “I read you a day off a leaf of my own book at a wall on the twenty-
 
 The woman said, “Say the rest of it.”
 
-She said, “I have had that day in a book against my ribs for four days and it came off a page in your low house in a good hand and I read it out loud in daylight at a wall and there was nothing on the other side of it.”
+She said, “I have had that day in a book against my ribs for thirty days and it came off a page in your low house in a good hand and I read it out loud in daylight at a wall and there was nothing on the other side of it.”
 
 She said, “And you have had it in ink for nineteen years. And you are the only person left on this ground who can put a true thing in front of him. And I want to know whether that is worth anything at all.”
 
@@ -70,7 +70,7 @@ Then she said, “Come in and shut the door, because that is the only reason you
 
 ## The Question She Was Asked
 
-Sitting at the table with the stove going, the woman asked her the first question anybody on that ground had asked her in a month.
+Sitting at the table with the stove going, the woman asked her the first question anybody on that ground had asked her in two months.
 
 She said, “What are you going to do with it.”
 
@@ -88,13 +88,13 @@ The woman said, “And if he has it and nothing changes.”
 
 She said, “Then he has it.”
 
-The woman said, “Say it again and see if I have it.”
+The woman said, “Say it once more. I have never asked anybody for anything and I want to know what asking for it is like.”
 
 She said, “Then he has it.”
 
 ## What The Woman Said Back
 
-She said, “I have thought about that for four days and I have not got an answer and I am not going to pretend I have.”
+She said, “I have thought about that since you stood in the road and I have not got an answer and I am not going to pretend I have.”
 
 She said, “It is my husband’s page as well as the boy’s.”
 
@@ -110,11 +110,11 @@ She said, “Why.”
 
 She said, “Because I have had a bar come down where you were standing this evening and I am not having you at my table with an open book on it.”
 
-## The Four Days, And The Fifth
+## The Whole Of It
 
 She lay on the stones outside a gate with the bar under her head and did the thing her mind does when it cannot be still, which is the count, and she put all of it in a row and got every figure.
 
-Sixty-four days from the turn. Twenty-five of them on this ground. Nine coppers. Two a loaf. A fifth of a man’s rate and the same board. Two hundred and forty courses at six hundred and forty to a course, which is a hundred and fifty-three thousand six hundred bricks. Three hundred and forty-six days of the hole in her chest. Nineteen years at a fire, six thousand nine hundred and thirty-five days of it if a year is three hundred and sixty-five.
+Sixty-five days from the turn. Forty-nine of them on this ground. Nine coppers. Two a loaf. A fifth of a man’s rate and the same board. Two hundred and forty courses at six hundred and forty to a course, which is a hundred and fifty-three thousand six hundred bricks. Three hundred and fifty-five days of the hole in her chest. Nineteen years at a fire, six thousand nine hundred and thirty-five days of it if a year is three hundred and sixty-five.
 
 Five leaves that are hers and blank.
 
@@ -128,9 +128,9 @@ He said, “That is a good deal less than you had a month ago.”
 
 She said, “It is a good deal more than I had on the twenty-ninth of the month beginning 1,814, and I know which way that is and I am not going to be argued out of it by a count.”
 
-## The Sixth Hour Of The Sixth
+## The Fifth Hour And Forty Minutes Of The Thirteenth
 
-She was at the door at the fifth hour and forty minutes of the sixth of the month beginning 1,904 and the woman opened it before she knocked, which she had not done once in a month.
+She was at the door at the fifth hour and forty minutes of the thirteenth of the month beginning 1,904 and the woman opened it before she knocked, which she had not done once in two months.
 
 The book was on the table.
 

@@ -38,7 +38,7 @@ Ten seconds.
 
 And after it she was exactly as tired as she had been before it and exactly as hungry as she had been before it, which she was not at all, and what it took came out of the ground under her feet and not out of her hands.
 
-She said the number out loud standing over the bar.
+She said the number standing over the bar.
 
 “Two hundred and eighty-two.”
 
@@ -66,7 +66,7 @@ Then she put it somewhere.
 
 That is what she does. A thing she wants, she says out loud so it is in the air, and then she says it again on a kerb or at a trough or in the dust at the foot of a post, because a number in the air and a number in the dust are two places and two places is more than one.
 
-So she said it out loud to the broken ground.
+So she said it to the broken ground.
 
 “The low wall on the third day of a span he does not name. Sixty-four. Half a brick at the end.”
 
@@ -112,7 +112,7 @@ He said, “Say it.”
 
 “My hand.”
 
-She said it out loud, to the ground.
+She said it to the ground.
 
 “My hand writes and it keeps. That is what a hand is. Four fingers and a thumb and it writes what I mean, and whatever I write in a book of mine is in two places at once, mine and the book’s, and I have never in my life written one of those down and lost it.”
 

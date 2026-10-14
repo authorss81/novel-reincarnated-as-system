@@ -82,7 +82,7 @@ The low building has two places on the long window where the glass was broken an
 
 That is what nineteen years looks like when there is no one watching it. It looks like four inches between the barrows, and a worn corner on a stack of stone, and two panes of glass in a different colour in a long window, and ten men who have all got the same thing in the creases of their hands.
 
-She said, at the ninth hour of the seventeenth, out loud, to an empty yard, on the stones outside the gate:
+She said, at the ninth hour of the seventeenth, to an empty yard, on the stones outside the gate:
 
 “Nineteen years of an ordinary day. That is what it looks like from a gate.”
 
@@ -128,7 +128,7 @@ She said, at the sixth hour, sitting in the ash with her face and her hands grey
 
 He said, “You did not ask me to.”
 
-She said, “I am going to say it out loud so that there are two of us holding it.”
+She said, “I am going to say it so that there are two of us holding it.”
 
 He said, “You say everything out loud.”
 

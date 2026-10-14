@@ -1,6 +1,6 @@
 # A Trade And Not A Kindness
 
-She asked for work on the twenty-third of the month beginning 1,874 at the sixth hour, standing at the mouth of the long window in the low where the man of fifty-one writes the figures, and she said it out loud in the ordinary voice.
+She asked for work on the twenty-third of the month beginning 1,874 at the sixth hour, standing at the mouth of the long window in the low where the man of fifty-one writes the figures, and she said it in the ordinary voice.
 
 She had told a man with a shut notebook on a slope on the thirteenth of a month that she had not asked a person for anything in ten years, and she had said it as a fact about herself, and she had no idea it was going to be the next thing she did.
 
@@ -18,7 +18,7 @@ She said, “Say the rate.”
 
 “A fifth of what a man gets and the same board.”
 
-She said, “Say it again and see if I have it.”
+She said, “Go on again. I am checking it against what I brought with me.”
 
 He said, “A fifth of what a man gets and the same board.”
 
@@ -58,7 +58,7 @@ She said, to the yard, at the ninth hour and twenty minutes of the twenty-sixth,
 
 The man read it off the board.
 
-She said it out loud to find out whether she still had it.
+She said it to find out whether she still had it.
 
 She got it once.
 
@@ -92,7 +92,7 @@ He said, “No.”
 
 She did not check it.
 
-He said, “That is the whole of what nine days on that ground has done to you and I am not going to take any of the credit for it, because you worked it out on a wall on the seventeenth and I had nothing to do with it.”
+He said, “That is the whole of what thirty-nine days on that ground has done to you and I am not going to take any of the credit for it, because you worked it out on a wall on the seventeenth and I had nothing to do with it.”
 
 ## What It Is Worth
 
@@ -124,7 +124,7 @@ On the twenty-first he did it. On the twenty-second he did not. On the twenty-th
 
 On the twenty-sixth he did not and on the twenty-seventh he did not, and by the seventh hour on the twenty-seventh she had stopped waiting for it and had not noticed she had stopped.
 
-She said, out loud, to a yard with thirteen people in it, at the sixth hour and ten minutes of the twenty-seventh:
+She said, in the ordinary voice, to a yard with thirteen people in it, at the sixth hour and ten minutes of the twenty-seventh:
 
 “You have been bringing me a second barrow for three days out of four.”
 
@@ -152,7 +152,7 @@ It was a figure with a fraction against it.
 
 She read it four times and it came out the same four times and it was not a number she could hold, and she did not try to hold it, and she walked out of the low and across the yard and sat down on the wall.
 
-She was lighter at the ninth hour of the twenty-seventh than she was at the fifth hour of it, which is three hundred and thirty-seven days of it, counting the eighteenth of the month beginning 1,544 as the first.
+She was lighter at the ninth hour of the twenty-seventh than she was at the fifth hour of it, which is three hundred and forty days of it, counting the eighteenth of the month beginning 1,544 as the first.
 
 He said, “That is the best day of work you have done since the twenty-sixth of the month beginning 1,814.”
 
@@ -164,4 +164,4 @@ She said, “I cannot produce it and I did not try and it has cost me something 
 
 He said, “Say the rest of it.”
 
-She said, “The rest of it is that a copper in a bag is worth more to me on a road than a figure on a board in a yard, and that is not true about money and it is true about me, and I have known it for nine days and it has not gone away.”
+She said, “The rest of it is that a copper in a bag is worth more to me on a road than a figure on a board in a yard, and that is not true about money and it is true about me, and I have known it for thirty-nine days and it has not gone away.”

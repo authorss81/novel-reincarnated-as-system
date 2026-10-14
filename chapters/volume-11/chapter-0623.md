@@ -2,7 +2,7 @@
 
 She worked on it from the sixth hour of the sixth of the month beginning 1,874 and she gave it six days, and the six days are the whole of it.
 
-The rule was this and she had it standing in a yard at the fourth hour of the first, in four words she could say out loud. A told thing cannot be written. Only a true thing can go in her own hand.
+The rule was this and she had it standing in a yard at the fourth hour of the first, in four words she could say standing up. A told thing cannot be written. Only a true thing can go in her own hand.
 
 That was the whole of what six days of standing in a yard with a furnace in it produced by the second day. After that she had nothing to work out, she had a decision to put off, and that is a different kind of day and it is much harder to get through.
 
@@ -16,11 +16,11 @@ She wrote six.
 
 And what came out on the scrap was five.
 
-She wrote six again and five came out again. She wrote it four more times and got five three times and four once, and she understood exactly what had happened, and it had been happening for four years and she had had seven days to think about it.
+She wrote six again and five came out again. She wrote it four more times and got five three times and four once, and she understood exactly what had happened, and it had been happening for four years and she had had five days to think about it.
 
 Her hand writes what she means at the moment it goes down. It does not write what she intended when she picked the nib up. She had meant six hundred and forty, and six hundred and forty is a number she has carried since the twenty-eighth of a month beginning 1,814, and her hand had gone down and meant five.
 
-She said it out loud in the north corner of the yard with her back to the low.
+She said it in the north corner of the yard with her back to the low.
 
 “If my hand writes what I mean and not what I plan, then I cannot write a line in a hurry. And I cannot write a line about a thing I have been told, because I will mean the being-told and not the thing.”
 
@@ -32,17 +32,17 @@ She was frightened that the page would turn out to be about somebody else.
 
 That is the oldest one and it has been her trouble since a month beginning 1,784, when a carter put four names on a board and took them east and she was not one of them and has never been able to follow a name that anybody else hands her anywhere.
 
-A name she has carried nine days in the air came out of a woman’s mouth on a made road. It fits nothing. It cannot be fitted to a furnace and a number and a boy of nineteen without a person in the middle of it holding it in place.
+A name she has carried thirty-one days in the air came out of a woman’s mouth on a made road. It fits nothing. It cannot be fitted to a furnace and a number and a boy of nineteen without a person in the middle of it holding it in place.
 
 She was frightened that the page would be ordinary.
 
-That one was harder to say out loud and she said it out loud anyway, to the stone wall, at the fourth hour of the eighth of the month beginning 1,874.
+That one was harder and she said it anyway, to the stone wall, at the fourth hour of the eighth of the month beginning 1,874.
 
 “What if it is a line. A date and a weight and a boy, and it is all true, and it is all of it, and there is not one word in it about what it was like to be him.”
 
 She sat with that for a while.
 
-“A thing written down truly can be a very small thing,” she said. “The man with the shut notebook told me on a slope that a true thing is not the same as a thing that is yours, and he was right, and that is the whole of what anybody has said to me about this in nine days.”
+“A thing written down truly can be a very small thing,” she said. “The man with the shut notebook told me on a slope that a true thing is not the same as a thing that is yours, and he was right, and that is the whole of what anybody has said to me about this in thirty-one days.”
 
 And the third one was the real one and it took her two days to get to it.
 
@@ -50,7 +50,7 @@ She was frightened that she would read it and it would not matter.
 
 ## The Third One
 
-She got it at the sixth hour of the ninth of the month beginning 1,874, standing at the mouth of the furnace with her face turned away from it because she was not going to do it twice in nine days.
+She got it at the sixth hour of the ninth of the month beginning 1,874, standing at the mouth of the furnace with her face turned away from it because she was not going to do it twice in thirty-one days.
 
 It was this.
 
@@ -86,7 +86,7 @@ She put a stone under the back of the board so it was at a slope, and she put th
 
 She counted them on the last of her six days, at the sixth hour, sitting on the stone wall with the board across her knees.
 
-Eight leaves made out of a blanket. A date and a place on the first. Four sentences on the second she has read out loud once and will not read again.
+Eight leaves, stitched at the fold of a blanket and soft as cloth. The first one carries a date and a place. The second one carries four sentences she has read aloud once and will not read again.
 
 Six that are hers and blank.
 
@@ -94,7 +94,7 @@ She counted them once. She did not count them five times the way she did on the 
 
 ## The Decision, Said Out Loud
 
-She said it out loud at the seventh hour of the last of the six days, standing in the doorway of the low house, to a woman of forty-five who had been up since the fourth hour.
+She said it at the seventh hour of the last of the six days, standing in the doorway of the low house, to a woman of forty-five who had been up since the fourth hour.
 
 “I am going to read the page tomorrow and I am going to write down one line of it in my own hand in my own book, and I am going to write the date the page gives me and the place I am standing in and the name on the page, and I am going to write them because I have read them with my own eyes and I will know all three of them to be true while the nib is going down.”
 
@@ -116,7 +116,7 @@ She said, “I know that, which is why I am going out.”
 
 She got an hour and a half, and sat on the stones outside the gate that night with the bag open beside her and the leaves folded back and the nib uncapped and the cap in her teeth, because that is a thing her hands can do.
 
-He said, “Say it out loud once before you do it.”
+He said, “Say it once before you do it.”
 
 She said, “I am going to put a name into a book of my own where no hand can take it out of it and no fire at a furnace will burn it, and I am not going to be able to be a person who does not know it afterwards.”
 

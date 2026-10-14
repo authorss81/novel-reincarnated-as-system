@@ -30,7 +30,7 @@ The two weights are in it and they are not the same, and the clerk who wrote the
 
 There is not one word in the entry that says why.
 
-Ning Yan stood at a table with her hands flat on either side of a page and she read it, and the figures went in and stayed, because figures always go in, and the date went in, and the place was a place she had stood on for ten days.
+Ning Yan stood at a table with her hands flat on either side of a page and she read it, and the figures went in and stayed, because figures always go in, and the date went in, and the place was a place she had stood on for twenty-eight days.
 
 And at the end of the line there was a name.
 
@@ -54,7 +54,7 @@ She said, out loud, alone, in a low house with the door shut:
 
 She carried it out of that low house at the seventh hour and it went east in her head and stayed.
 
-She said it to herself once at the gate, out loud, in the ordinary voice.
+She said it to herself once at the gate, in the ordinary voice.
 
 “Yuan Sheng.”
 
@@ -64,7 +64,7 @@ It did not go out.
 
 It sat down.
 
-That is the whole of the difference and it is nine days and one page, and she has never in her life been able to write the difference out any plainer than that, and she tried twice in the next three days.
+That is the whole of the difference and it is thirty-seven days and one page, and she has never in her life been able to write the difference out any plainer than that, and she tried twice in the next three days.
 
 A thing said to you is a thing that happens to you.
 
@@ -76,7 +76,7 @@ And a thing found out is a thing your hand can put down.
 
 She wrote it at the eighth hour of the twelfth of the month beginning 1,874, sitting on the stones outside the gate of the furnace ground, on the board with the stone under the back of it, with the bar laid flat beside her because it weighs what she weighs.
 
-She wrote on the third leaf of a book of eight made out of a blanket, and the first two are a date and a place and four sentences she has read out loud once and will not read again.
+She wrote on the third leaf of a book of eight made out of a blanket, and the first two have been full for four years and are not going to be read again.
 
 She got the nib down on the first line at the eighth hour and she did it slowly, and her hand writes what she means at the moment it goes down, so the whole of the work was in arriving at each line meaning exactly that line.
 
@@ -138,7 +138,7 @@ She said, “Did it say the same one.”
 
 Ning Yan said, “It said the same one.”
 
-The woman said, “Then I have been carrying it for nineteen years and you have been carrying it for nine days and it is a good deal of trouble for one line of a man’s hand.”
+The woman said, “Then I have been carrying it for nineteen years and you have been carrying it for thirty-seven days and it is a good deal of trouble for one line of a man’s hand.”
 
 She said, “It is the only true sentence anybody has said on this ground in nineteen years.”
 
@@ -174,7 +174,7 @@ He said, “And what are you going to do now that you cannot un-know it.”
 
 She looked at the yard, and at the barrows, and at the smoke going straight up off a furnace that has not been let out in nineteen years, and at a ground kept for nineteen years by people doing an ordinary day.
 
-She said, “I am going to find out what a fire is. I said on the twenty-fifth of the month beginning 1,814 that I would, and I have been on this ground ten days and I have not done it.”
+She said, “I am going to find out what a fire is. I said on the twenty-fifth of the month beginning 1,814 that I would, and I have been on this ground twenty-eight days and I have not done it.”
 
 He said, “That is not what I asked you.”
 

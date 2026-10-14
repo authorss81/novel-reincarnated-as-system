@@ -96,11 +96,11 @@ Ning Yan waited for it, standing at a table in a low house with a book on it, an
 
 “You said it on the road.”
 
-“I said it once on the road and it has been nineteen years and it was the first time in nineteen years and I am not going to make it two because a girl has come nine days with a bar.”
+“I said it once on the road and it has been nineteen years and it was the first time in nineteen years and I am not going to make it two because a girl has come sixteen days with a bar.”
 
 She said, “That is fair.”
 
-“It is not fair,” the woman said. “It is nineteen years of practice at not saying a thing and I have got very good at it and you have come nine days.”
+“It is not fair,” the woman said. “It is nineteen years of practice at not saying a thing and I have got very good at it and you have come sixteen days.”
 
 She said, “You will say it again.”
 
@@ -116,7 +116,7 @@ And it was the first thing anybody had put in front of her in six days and it wa
 
 She said, at the fourth hour of the first of the month beginning 1,874, sitting at the table with a bowl in front of her:
 
-“Three people in nine days have told me something true and I have got one name out of the three of them and it will not stay in my head.”
+“Three people in twenty-nine days have told me something true and I have got one name out of the three of them and it will not stay in my head.”
 
 The woman said, “That is a strange thing to say about your own head.”
 
@@ -126,9 +126,9 @@ The woman said, “Then write it down.”
 
 Ning Yan looked at her.
 
-She said, out loud, in the ordinary voice, inside a low house on a furnace ground thirty miles east of a turn, at the fourth hour of the first of a month:
+She said, in the ordinary voice, inside a low house on a furnace ground thirty miles east of a turn, at the fourth hour of the first of a month:
 
-“I have been not writing it down for nine days because I have not been able to get a single true word about it that is mine.”
+“I have been not writing it down for twenty-nine days because I have not been able to get a single true word about it that is mine.”
 
 He said, “That is the second time you have said a thing and been closer to it than you were the first time.”
 
@@ -136,9 +136,9 @@ She said, “The nib is in my bag and the ink has not been opened in two months 
 
 He said, “Yes.”
 
-She said, “And the one thing I have said three times out loud in this room is that I cannot put a told thing in my own hand.”
+She said, “And the one thing I have said three times in this room is that I cannot put a told thing in my own hand.”
 
-He said, “That is true and it is the correct answer and you worked it out standing up in the road on the seventh and you have been carrying it for four days without once acting on it.”
+He said, “That is true and it is the correct answer and you worked it out standing up in the road on the first and you have been carrying it for four days without once acting on it.”
 
 She said, “I have not been carrying it. I have been carrying a book I cannot have.”
 
@@ -148,7 +148,7 @@ She said, “I have not been carrying it. I have been carrying a book I cannot h
 
 At the sixth hour of the fifth of the month beginning 1,874 she was standing outside the low house in the yard with the bar on her shoulder, and the woman was in the doorway, and neither of them had said good.
 
-And here is what she had, and she put it down in the yard out loud so that it would be in two places.
+And here is what she had, and she put it down in the yard in the ordinary voice so that it would be in two places.
 
 A book on a shelf in a low house, nineteen years shut, opened once for six hours across two days and shut again on the first of the month beginning 1,874.
 
@@ -168,7 +168,7 @@ Ning Yan said, “I am going to go and read it.”
 
 The woman said, “Then say out loud what you are going to ask me for when you come back.”
 
-She said it out loud on the yard stones at the sixth hour of the fifth of the month beginning 1,874, to a woman in a doorway and a yard with a furnace in it:
+She said it on the yard stones at the sixth hour of the fifth of the month beginning 1,874, to a woman in a doorway and a yard with a furnace in it:
 
 “I am going to ask you for one page. And I am not going to take it out of this house. And I am going to read it with my own eyes and I am going to put down in my own hand one line of it, and no word of anybody’s mouth is going anywhere near that line, and you are not going to help me with it.”
 

@@ -6,13 +6,13 @@ It took her four hours and it is the whole of the third of the month beginning 1
 
 ## The Days
 
-Sixty-four days from the turn to this wall.
+Sixty-five days from the turn to this wall.
 
-She got that out three times and it came out sixty-four three times, and she wrote it in the ash at the foot of the wall with the end of one finger and did not rub it out.
+She got that out three times and it came out sixty-five three times, and she wrote it in the ash at the foot of the wall with the end of one finger and did not rub it out.
 
-Twenty-five days of that was on this ground. Forty was on her feet on nine days of road and then on ground going up. Two was at the turn.
+Forty-nine days of that was on this ground. Fourteen was on her feet on road and then on ground going up. Two was at the turn.
 
-She said out loud, to the ash, at the seventh hour:
+She said, to the ash, at the seventh hour:
 
 “That is the only thing I have lost that anybody can name.”
 
@@ -46,7 +46,7 @@ She said it out loud twice and got four both times, and four is a number that ho
 
 ## The Bricks
 
-She had not done the multiplication in nine days.
+She had not done the multiplication in seven days.
 
 Two hundred and forty courses. Six hundred and forty to a course.
 
@@ -54,7 +54,7 @@ She did it on the wall with her left hand and a stick, because her right was ope
 
 One hundred and fifty-three thousand, six hundred.
 
-She said, out loud, on a stone wall on a furnace ground, at the seventh hour and forty minutes of the third of the month beginning 1,904:
+She said, on a stone wall on a furnace ground, at the seventh hour and forty minutes of the third of the month beginning 1,904:
 
 “One hundred and fifty-three thousand six hundred bricks a day.”
 
@@ -86,13 +86,13 @@ Three hundred and forty-six.
 
 Six thousand nine hundred and thirty-five.
 
-She said out loud, at the eighth hour of the third of the month beginning 1,904, to a yard and to a furnace and to a man who has no day and no name and a hundred and fifty-three thousand six hundred bricks in him:
+She said, at the eighth hour of the third of the month beginning 1,904, to a yard and to a furnace and to a man who has no day and no name and a hundred and fifty-three thousand six hundred bricks in him:
 
-“I have been coming apart for three hundred and forty-six days and he was at that fire for six thousand nine hundred and thirty-five, and I am the twenty-fifth part of it, and there is a hole in my chest that has been open since before he stopped counting and it is not going to close, and I have been carrying it around for ten years like a trade I did not ask for.”
+“I have been coming apart for three hundred and forty-six days and he was at that fire for six thousand nine hundred and thirty-five, and I am the twentieth part of it, and there is a hole in my chest that has been open since before he stopped counting and it is not going to close, and I have been carrying it around for ten years like a trade I did not ask for.”
 
 He said nothing.
 
-She said, “Say that again and see if I have it.”
+She said, “That again. I want to know whether it comes back the way a number does.”
 
 He said, “That is the ninth time you have said that since the seventh of the month beginning 1,844.”
 
@@ -120,7 +120,7 @@ And then:
 
 Ninety-one courses laid along the top of a kiln wall in the second year, taken up again on his own time, and neither of them said a word about it.
 
-It came. She said it back word for word, out loud, on a stone wall.
+It came. She said it back word for word, on a stone wall.
 
 And there was nothing behind it.
 
@@ -162,9 +162,9 @@ The telling does not.
 
 And there is one page in the world where that morning is written down true, and it was shut on the first of the month beginning 1,874 and the woman who keeps it said no to her once and told her exactly why and was right.
 
-She said, out loud, to a yard that had gone quiet on her in about nine days without her noticing it had gone quiet:
+She said, to a yard that had gone quiet on her without her noticing that it had gone quiet:
 
-“I am going to go and ask her tomorrow, and I am going to have one reason, and the reason is not that I am a girl who has walked forty days to ask.”
+“I am going to go and ask her tomorrow, and I am going to have one reason, and the reason is not that I am a girl who has walked sixteen days to ask.”
 
 He said, “Say the reason so that you have said it.”
 
@@ -172,6 +172,6 @@ She said, “The reason is that I read a day out of my own book at a wall on the
 
 He said, “That is a good reason.”
 
-She said, “It is the only one I have got and it is nine days old.”
+She said, “It is the only one I have got and it is four days old.”
 
 She was lighter at the tenth hour of the third of the month beginning 1,904 than she was at the fifth hour of it, which is three hundred and forty-six days of it, and she had a name on a leaf and a day on a leaf above it and a figure in the ash she was not going to rub out, and she went and got four hours of sleep on the stones outside a gate with the bar under her head.

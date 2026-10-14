@@ -90,7 +90,7 @@ He said, “You are going down to that furnace.”
 
 “You have a name.”
 
-She stood still. The bar was on her shoulder and the ground was going down and there was a woman with a shut book thirty miles behind them and she had just heard herself say it out loud to a man on a slope.
+She stood still. The bar was on her shoulder and the ground was going down and there was a woman with a shut book thirty miles behind them and she had just heard herself say it to a man on a slope.
 
 He said, “You did not say the name and I am not asking you to. I have been walking beside a person for two hours who has a name and has not said it, and that is not unusual and it is not mine.”
 

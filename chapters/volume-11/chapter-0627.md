@@ -56,7 +56,7 @@ He said, “One at a time. In daylight. Standing. Yes.”
 
 ## Nineteen
 
-She said, out loud, to the yard, at the seventh hour and ten minutes of the twenty-ninth of a month beginning 1,874, with her hands on the stone of the wall.
+She said, in the ordinary voice, to the yard, at the seventh hour and ten minutes of the twenty-ninth of a month beginning 1,874, with her hands on the stone of the wall.
 
 “You said you were nineteen and on the twenty-eighth of the month beginning 1,814 you said you were nineteen when you stopped counting them, and you told me those were two different sentences and I had to work out which one I believed.”
 
@@ -72,7 +72,7 @@ Then she said, “No. I am not taking it. One at a time.”
 
 He said, “Correct.”
 
-She said, “Say that again and see if I have it.”
+She said, “Again. And mean the same word both times.”
 
 He said, “Correct.”
 
@@ -80,7 +80,7 @@ She said, “Correct.”
 
 ## The Date
 
-And then she said, out loud, in the ordinary voice, to the yard and to the furnace and to the wall:
+And then she said it, in the ordinary voice, to the yard and to the furnace and to the wall:
 
 “I am going to read you something.”
 
@@ -92,13 +92,13 @@ She got the book out of her coat with her right hand, which was open, and got it
 
 She said, “There is a date on the third leaf above the place and above your name. It is nineteen years back and it is that morning, and it came off a page in a low house in a good hand and it is dry.”
 
-He said, “Say that again and see if I have it.”
+He said, “Say it again. I want to find out whether I have it.”
 
 She said, “There is a date on the third leaf above the place and above your name.”
 
 He said, “I have it. I have never once been able to get at a page.”
 
-She said it out loud, slowly, in the ordinary voice, once, in daylight, to a man in her head.
+She said it slowly, in the ordinary voice, once, in daylight, to a man in her head.
 
 And then she waited.
 
@@ -144,9 +144,9 @@ And a man who was in that room on that morning cannot be told the day by anybody
 
 The page held for her. It did not hold for him.
 
-She said, at the eighth hour of the twenty-ninth of the month beginning 1,874, out loud, with her hand on the book through her coat:
+She said, at the eighth hour of the twenty-ninth of the month beginning 1,874, with her hand on the book through her coat:
 
-“I have spent nine days finding out that a told thing does not arrive. And I have spent nine days finding out that a read thing does not arrive either, and I did not know that until ninety seconds ago standing at a wall.”
+“I have spent fifty-four days finding out that a told thing does not arrive. And I found out standing at that wall with my hand on the stone that a read thing does not arrive either.”
 
 He said, “No.”
 

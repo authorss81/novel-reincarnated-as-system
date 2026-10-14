@@ -1779,7 +1779,7 @@ window, the lime and the hut light are untouched. Severance 7 is ch 616 on day 1
 - **ch 618, day 1,851–1,855 (eighth to twelfth), *She Did Not Go In*. DECISION.** The gate, **two miles with nothing
   on them to lie down on**, the wall and the opening standing open, the flat. **The rows: about two hundred people,
   a stone at the head of each, counted to sixty-one, and she does not go in and does not call out and does not say
-  his name.** She walks on feet and not on a telling, and the air changes. 294 and 295 days.
+  his name.** She walks on feet and not on a telling, and the air changes. 293 days.
 - **ch 619, day 1,856–1,860 (thirteenth to seventeenth), *He Does Not Know*. REVELATION.** The man with the shut
   notebook, nine feet, two hours of a slope, no question asked her. **She asks whether a person who knows what a
   voice was is safer. He says he does not know, and then says that it is the fourth question anybody has asked him
@@ -1828,16 +1828,17 @@ window, the lime and the hut light are untouched. Severance 7 is ch 616 on day 1
   started counting.** He gives three: a senior who had been at it nine years, nineteen, a morning. **She reads him
   the date off her own leaf in daylight and there is nothing on the other side of it — not a silence, not a refusal,
   not carefulness. He has never in his life had the day.**
-- **ch 628, day 1,906–1,910 (third to seventh of the month beginning 1,904), *The Count Holds*. DISCOVERY.** Sixty-four
-  days, nine coppers (nine, nine, eight, nine, four times), **two hundred and forty courses at six hundred and forty
+- **ch 628, day 1,906–1,910 (third to seventh of the month beginning 1,904), *The Count Holds*. DISCOVERY.** Sixty-five
+  days from the turn, forty-nine of them on this ground, fourteen on her feet and two at the turn · nine coppers
+  (nine, nine, eight, nine, four times), **two hundred and forty courses at six hundred and forty
   to a course is a hundred and fifty-three thousand six hundred bricks**, three hundred and forty-six days of it and
   six thousand nine hundred and thirty-five days of him. **The test she sets herself: six figures come back, six
   sentences do not.** The count is the only instrument she has and it works on everything except a person. 346 days.
-- **ch 629, day 1,911–1,915 (eighth to twelfth), *A Yard With A Fire In It*. DANGER.** Four days on that ground
-  without one word from one person in it. **A bar of fire comes down where she was standing because she did not hear a
+- **ch 629, day 1,912–1,916 (ninth to thirteenth), *A Yard With A Fire In It*. DANGER.** Four days on that ground
+  without one word from one person in it, and she counts when the ground went quiet on her. **THE BAR OF FIRE:** **A bar of fire comes down where she was standing because she did not hear a
   man shouting from twenty feet.** She asks at the doorstep with the only reason she has, the woman asks her a
   question, and the book is turned and the woman goes out to the yard. Ten feet of light and a page.
-- **ch 630, day 1,915–1,916 (twelfth and thirteenth of the month beginning 1,904), *What The Page Assumed*.
+- **ch 630, day 1,916 (the thirteenth of the month beginning 1,904), *What The Page Assumed*.
   VOLUME MIDPOINT. REVERSAL.** **She reads the harvest and it is true: a senior at the first hour, stalled before the
   second, filled with a person, a boy of nineteen off the fire, taken at the sixth hour, two weights that are not the
   same and the difference written down with no word beside it.** **He says the part that is not on the page — the fire
@@ -1847,13 +1848,13 @@ window, the lime and the hut light are untouched. Severance 7 is ch 616 on day 1
   three days, off for good from the twenty-eighth; the bowl stops on the second of the month beginning 1,904; four
   days running of not one word. **Her asking set the knowing and the past was findable only while nobody asked after
   it.** **And the page has no place on it — a book like that assumes everybody who reads it is already standing in
-  the room — and she has been on that ground fifty-three days and has not found it.** 349 days.
+  the room — and she has been on that ground fifty-nine days and has not found it.** 356 days.
 
 ### What Batch 0002 leaves Batch 0003
 
 Severance 7 held. **She cannot hear what she is told about him, and it does not work one way: a page she read herself
 did not reach him either.** The name is on a leaf in her own hand and cannot be un-written; five blank leaves. One
-copper spent and nine in the bag she cannot count. Sixty-four days on the ground and no rate on any road behind her.
+copper spent and nine in the bag she cannot count. Sixty-eight days since she was told the name, fifty-nine of them on this ground, and no rate on any road behind her.
 A furnace ground that let her stay and has gone quiet on her. A widow who has said a name out loud twice in nineteen
 years and will not open the book a third time without a reason better than the last. **The harvest is named and does
 not hold her, and the bill for the knowing is hers, and she is still going.**

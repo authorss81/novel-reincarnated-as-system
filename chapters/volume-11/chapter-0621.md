@@ -60,7 +60,7 @@ She worked the whole of the twenty-eighth of the month beginning 1,844 on the st
 
 The heel of the loaf had been gone since the first hour of the twenty-seventh. She has not been hungry since the eighteenth of a month beginning 1,544, and a body that goes lighter every day of its life does not want anything put in it. What it wants is to be worked.
 
-So she went and worked, because there was a barrow on the ground and she is a person with a bar on her shoulder, and the boy of fifteen watched her for an hour and then brought her a second one and then left her alone with the wall, which is the only thanks anybody on that ground has given her in nine days.
+So she went and worked, because there was a barrow on the ground and she is a person with a bar on her shoulder, and the boy of fifteen watched her for an hour and then brought her a second one and then left her alone with the wall, which is the only thanks anybody on that ground has given her in thirteen days.
 
 ## What A Ground Like This One Pays
 
@@ -80,9 +80,9 @@ The second of the month beginning 1,874 is the day the next board goes down, and
 
 That is the whole of her situation on the twenty-sixth of a month and it took her twenty minutes at a gate to arrive at it.
 
-She said out loud, to a yard that did not answer her, at the sixth hour of the twenty-sixth of the month beginning 1,844:
+She said, to a yard that did not answer her, at the sixth hour of the twenty-sixth of the month beginning 1,844:
 
-“A woman has told me the truth and there is nothing behind the truth. There is a board on the wall in that low and a boy who calls the figures and a man who writes them, and if I put a figure on that board I will eat, and I have been walking nine days for a name that will not stay, and the name is worth less to me now than the bread would be.”
+“A woman has told me the truth and there is nothing behind the truth. There is a board on the wall in that low and a boy who calls the figures and a man who writes them, and if I put a figure on that board I will eat, and I have been walking twenty-one days for a name that will not stay, and the name is worth less to me now than the bread would be.”
 
 He said, “The name is worth exactly what it is worth. You have not lost it.”
 
@@ -112,21 +112,21 @@ He said, “You wanted that book.”
 
 He said, “Say the rest of it.”
 
-She said, “And I have said a thing to a woman on her own step that I would take back at a cost, and she did not take it back, and she is not going to, and I have known better than that for ten years and I said it anyway because I had walked nine days.”
+She said, “And I have said a thing to a woman on her own step that I would take back at a cost, and she did not take it back, and she is not going to, and I have known better than that for ten years and I said it anyway because I had walked twenty-three days.”
 
 ## The Night Of The Twenty-Ninth
 
 She slept on the stones outside the gate on the twenty-ninth of the month beginning 1,844 and got four hours of it, and she lay there and looked at the sky through a dead branch somebody planted forty years ago and did not think about anything, which is what she does when she cannot.
 
-And at the third hour she got up and sat up in the ash and said one sentence out loud, to the dark and to a yard with a furnace in it and to a woman asleep thirty feet inside a wall that is knee high.
+And at the third hour she got up and sat up in the ash and said one sentence, to the dark and to a yard with a furnace in it and to a woman asleep thirty feet inside a wall that is knee high.
 
 She said, “I do not know why I said it and I have known all day why I said it and I am not going to sit here at the third hour of the twenty-ninth of a month beginning 1,844 and pretend that I do not.”
 
-He said, “You said it because you had walked nine days and you had asked for one thing and been told the truth.”
+He said, “You said it because you had walked twenty-four days and you had asked for one thing and been told the truth.”
 
 She said, “I do not want to be that.”
 
-He said, “You are nineteen and you have one copper and you are nine days from a bread you have not bought, and there is not one other instrument available to you this evening, and you have used it on a woman.”
+He said, “You are nineteen and you have one copper and you are sixteen days from a bread you have not bought, and there is not one other instrument available to you this evening, and you have used it on a woman.”
 
 She sat in the ash and did not answer him, and the furnace went on making its smoke that goes straight up and does not lean, because there has not been a wind on that ground since the winter before she came.
 

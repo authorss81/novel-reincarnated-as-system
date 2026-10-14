@@ -122,7 +122,7 @@ She camped on the rise on the tenth of the month beginning 1,844, which is a day
 
 She lay on stones with the bar under her head and she got four hours of it, which is what she gets.
 
-She was lighter at the seventh hour of the tenth than she was at the seventh hour of the ninth, and that is two hundred and ninety-four days of it, counting the eighteenth of the month beginning 1,544 as the first, and not one of them going back.
+She was lighter at the seventh hour of the tenth than she was at the seventh hour of the ninth, and that is two hundred and ninety-three days of it, counting the eighteenth of the month beginning 1,544 as the first, and not one of them going back.
 
 He said, “You did the right thing.”
 

@@ -6595,11 +6595,11 @@ eleven seconds is the ch 563 keeper at a bare stone and is a different event fro
 
 ## VOLUME 11 BATCH 0002 — ch 616–630 — What He Was — day 1,842–1,916 — WRITTEN
 
-**`chapters/volume-11/` holds ch 601–630. Batch 0002 is ch 616–630: fifteen chapters, 29,997 words of body prose on
+**`chapters/volume-11/` holds ch 601–630. Batch 0002 is ch 616–630: fifteen chapters, 29,748 words of body prose on
 method B — every line not beginning `#`, measured with `grep -v '^#' <file> | wc -w` chapter by chapter and over the
-fifteen together — average 2,000 a chapter, inside the outline's 27,000–30,000 batch band and inside its 1,800–2,000
-target.** Per chapter: 2,033 · 2,139 · 2,021 · 2,114 · 1,956 · 1,905 · 2,007 · 2,016 · 2,099 · 1,770 · 1,945 ·
-1,901 · 1,811 · 1,733 · 2,467. **No chapter is under the 1,300 floor and none is above the 2,700 guide.**
+fifteen together — average 1,983 a chapter, inside the outline's 27,000–30,000 batch band and inside its 1,800–2,000
+target.** Per chapter: 2,027 · 2,133 · 2,021 · 2,112 · 1,951 · 1,901 · 2,003 · 2,011 · 2,091 · 1,754 · 1,947 ·
+1,892 · 1,801 · 1,746 · 2,358. **No chapter is under the 1,300 floor and none is above the 2,700 guide.**
 
 ### The batch plan against `outline/volume-11.md`, card by card
 
@@ -6630,13 +6630,22 @@ twenty-ninth (1,867–1,872) · 622 the thirtieth of the month beginning 1,844 t
 (1,873–1,878) · 623 the sixth to the eleventh (1,879–1,884) · 624 the twelfth to the seventeenth (1,885–1,890) ·
 625 the eighteenth to the twenty-second (1,891–1,895) · 626 the twenty-third to the twenty-seventh (1,896–1,900) ·
 627 the twenty-eighth and twenty-ninth of the month beginning 1,874 to the first and second of the month beginning
-1,904 (1,901–1,905) · 628 the third to the seventh (1,906–1,910) · 629 the eighth to the twelfth (1,911–1,915) ·
-630 the twelfth and thirteenth (1,915–1,916). Every month-day on the page agrees with this table.
+1,904 (1,901–1,905) · 628 the third to the seventh (1,906–1,910) · 629 the ninth to the thirteenth (1,912–1,916) ·
+630 the thirteenth (1,916). Every month-day on the page agrees with this table.
+
+**Ch 629 runs one day past the brief's card window and this is forced, not drifted.** The widow sets *not now, tomorrow
+at the sixth hour* on the twelfth, so the door is reached at the fifth hour and forty minutes of the **thirteenth** and
+the page is read at the seventh hour of the **thirteenth**. Moving the whole of ch 629 back one day would put the
+batch's close on day 1,915 and break `outline/volume-11.md`, which fixes ch 630 at day 1,916 and Severance 8 at day
+1,917. The two chapters therefore share the thirteenth in sequence, at the fifth hour and forty minutes and at the
+seventh, and the volume is untouched.
 
 **The going-lighter, derived per chapter and never carried down. The figure at any day D is D − 1,560, anchored on
-the eighteenth of the month beginning 1,544 = day 1,561:** 282 at ch 616 · 294 and 295 at ch 618 · 312 at ch 621 ·
-318 at ch 622 · 324 at ch 623 · 325 at ch 624 · 331 at ch 625 · 337 at ch 626 · 346 at ch 628 · 349 at ch 630. **All
-twelve verified against the formula.**
+the eighteenth of the month beginning 1,544 = day 1,561:** 293 at ch 618 · 312 at ch 621 ·
+318 at ch 622 · 324 at ch 623 · 325 at ch 624 · 332 at ch 625 · 340 at ch 626 · 346 at ch 628 · 355 at ch 629 ·
+356 at ch 630. **All ten verified against the formula and every one of them is stated on the page. Three were wrong at
+the Batch 0002 review and are corrected here and in the chapters: ch 618 read 294 for 293, ch 625 read 331 for 332,
+and ch 626 read 337 for 340.** *(ch 616 derives 282 and does not state it; that derivation is still correct.)*
 
 ### The construction budget, measured from the files and not promised
 
@@ -6656,18 +6665,21 @@ twelve verified against the formula.**
 | **Authorial scaffolding** | 0 | **0** — *this chapter · this volume · this book · the reader · in this batch · another batch · N volumes*. **Two were drafted and cut:** a line in ch 623 that said the six days were *the whole of what the chapter is*, and an *in this book* in ch 625 that read as the manuscript and now reads as the blanket book | **PASS** |
 | **`eleven`** | under forty volume-wide | **3 in the batch**, and **35 across ch 601–630**. **NOTE: Batch 0001 measures 32, not the 31 the Batch 0002 brief stated** | **PASS** |
 | **`nobody`** | under thirty volume-wide | **5 in the batch**, and **29 across ch 601–630**. **NOTE: Batch 0001 measures 24, not the 21 the brief stated** | **PASS** |
-| **`nothing`** | hold down against Batch 0001's rate | **45**, average **3.0**, against Batch 0001's 75 over fifteen | **PASS** |
-| **`about…`** | average under 7.0 | **82**, average **5.47** | **PASS** |
-| **`whole of`** | under 80 volume-wide | **37** batch-wide, **67 across ch 601–630** | **PASS** |
+| **`nothing`** | hold down against Batch 0001's rate | **43**, average **2.9**, against Batch 0001's 75 over fifteen | **PASS** |
+| **`about…`** | average under 7.0 | **80**, average **5.33** | **PASS** |
+| **`whole of`** | under 80 volume-wide | **38** batch-wide, **68 across ch 601–630** | **PASS** |
+| **`nobody`** | under thirty volume-wide | **3 in the batch** (was 5 before the repair), and **24 across ch 601–630** | **PASS** |
 | **The retired seven phrases** | at most one | **0** — *nobody said anything* was drafted at ch 626 and cut before the batch closed | **PASS** |
 | **`about four seconds`** | 0 | **0** — four were drafted across ch 620, 629 and 630 and every one cut | **PASS** |
+| **`out loud`** | held down; the same construction used as emphasis no more than twice running | **54 in body prose across the fifteen**, against the 107 the Batch 0002 review measured. Per chapter 7 · 2 · 3 · 2 · 3 · 3 · 2 · 1 · 8 · 6 · 3 · 5 · 2 · 2 · 3 — **no chapter above 8**, and every instance kept is one where the phrase is the rule itself (a thing said aloud comes back, a thing said aloud does not) and not an adverb. **Cuts fell on the chapters where it was filler, hardest on ch 625 (15 to 6) and ch 616 (11 to 7)** | **PASS after repair** |
+| **Verbatim sentence reuse across the batch** | no unvaried recycling | **4 duplicated sentences of 8 words or more, all deliberate:** the owed-day rule stated at ch 614 and restated at ch 627 · **his** line at ch 616 repeated by him in the same chapter, which is the scene · her catchphrase at ch 619 and the payoff at ch 627 where he answers *that is the first time in ten years* · the third-leaf sentence said twice inside ch 627 as she checks it. **The Batch 0002 review measured 7; the three removed were the blanket-leaf description, which was word-identical at ch 616, 623 and 625 and is now three different sentences, and the `say it again and see if I have it` line, which recurred five times and is now three phrasings** | **PASS after repair** |
 | **`eleven weeks`** | 0 | **0** | **PASS** |
 | **The Yuan tag** | 0 verbatim, no lead-in | **0** | **PASS** |
 | **`his eyes widened · he couldn't believe it · suddenly · little did he know`** | 0 / 0 / 0 / 0 | 0 / 0 / 0 / 0 | **PASS** |
 | **Named weekdays / named calendar months / named weeks** | 0 / 0 / 0 | **0 / 0 / 0**. **Nine instances of `week` were drafted — including *a week I do not name*, which is deliberately unnamed — and every one was cut to `seven days`, `six days`, `the days it happened` or `a span I do not name`** | **PASS** |
 | **Surface answer** | 0 in any mouth, any form | **0** — *charged · bookkeeping · receipt · bounded world · the walls* all 0. **One `charged` was drafted at ch 627 and cut for *who put a rate of two a loaf on her*** | **PASS** |
 | **Zeroed proper nouns** | all 0 on word boundaries | **0** for `Ledger · reconciled · plate · licence · license · clearance · countersignature · seal · kiln-born · MEMBER ABSENT · tribulation · Anchor · Sisterhood · bargain · Lung · appointment · budget · Wall writ · field agent · Warden · Shuyin · Feng · Xie Changyin · Ning Wu · Wei Ran · Hunter · Scribe`. **`Order` returns 1 on the capitalised noun in a section heading, *What She Was Owed, And In What Sequence*, which was rewritten; the other eleven are lowercase *order* in ordinary use** | **PASS** |
-| **`Yuan Sheng`** | counted and written down whatever it is | **7 on word boundaries**, six of them spoken or repeated by her and one set down in ink at ch 624 | counted, within scope |
+| **`Yuan Sheng`** | counted and written down whatever it is | **7 instances**, six in that casing spoken or repeated by her and one in capitals set down in ink at ch 624 | counted, within scope |
 | **The year of non-forgiveness** | 0 mentions | **0** | **PASS** |
 | **A figure of what is left of him** | none stated | **none**, before or after | **PASS** |
 | **A scene in which he is thanked** | 0 | **0.** She says *Thank you for saying so plainly* to the man with the shut notebook at ch 619 and is told not to do it, and nothing else in the batch is thanked | **PASS** |
@@ -6694,8 +6706,10 @@ twelve verified against the formula.**
    said it: a question in the dark gets a shape and this does not go in the air, it goes into a book and cannot come
    out of it, and he did not want a page in the world with this on it that she had to carry.**
 6. **THE BILL IS HERS AND IT IS COUNTABLE.** The second barrow, the bowl, four days of silence. **Her own asking at
-   ch 609 put the knowing into the world thirty-three days before the cruel sentence on the step, and the ground has
-   been closing on her since, and she is the only person alive who can say she did not expect it.**
+   ch 609 put the knowing into the world twenty-six days before the cruel sentence on the step, and the ground has
+   been closing on her since, and she is the only person alive who can say she did not expect it.** *(The review found
+   this at thirty-three; the asking is the twenty-eighth of the month beginning 1,814, day 1,841, and the step is the
+   twenty-fourth of the month beginning 1,844, day 1,867.)*
 7. **SHE FORFEITED A BOARD** by leaving the turn on the twenty-ninth, and she said out loud that she was going
    anyway and that there would be two of them holding it.
 8. **SHE SAID THE CRUELEST SENTENCE OF HER LIFE** at ch 621 and it did not turn out to be cruelty: **the woman opened
@@ -6714,7 +6728,7 @@ twelve verified against the formula.**
 | Severance 7 | **ch 616, day 1,842, the twenty-ninth of the month beginning 1,814**, seventy days after Severance 6 |
 | Her standing at the turn | **over.** It ran the eighteenth to the twenty-ninth of the month beginning 1,814 and she left on the twenty-ninth, so it does not run at all |
 | The board | **the second of the month beginning 1,844, day 1,845, went down without her.** The next is **day 1,905**, and the furnace ground's board came back up the track on a cart |
-| Her count at the turn to the furnace ground | **the gate at day 1,851, the wall on the same day or the next, the furnace ground on day 1,857.** Sixty-four days from the turn to day 1,906 |
+| Her count at the turn to the furnace ground | **the gate at day 1,851, the wall on the same day or the next, the furnace ground on day 1,857.** Sixty-five days from the turn to day 1,906 — forty-nine on the ground, fourteen on her feet, two at the turn. **Days on the ground, used by every chapter that needs one: 28 at ch 624 · 39 at ch 626 · 49 at ch 628 · 58 at ch 629 · 59 at ch 630** |
 | The furnace ground | **two acres inside a knee-high line of stone, ten men, two women, a boy of fifteen, a man of fifty-one with a board.** The furnace has never been let out in nineteen years and the smoke goes straight up in any weather |
 | The widow | **forty-five, the senior disciple's wife, nineteen years with the book, has said the name out loud TWICE in nineteen years — once on a made road at ch 617 and once at ch 622's threshold — and will not open it a third time without a better reason** |
 | The name on the page | **in the clerk's good hand, at the end of the entry, with the date at the head of it and no word beside the difference between the two weights** |

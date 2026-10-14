@@ -46,7 +46,7 @@ Ning Yan said, “East.”
 
 There was a road and a bar on her shoulder and a woman four feet off her, and this was the fifth of a month and the light was off the hedges, and one at a time is a rule she made about the voice in her head and has never once broken in nine years of asking strangers about work.
 
-She said it out loud, because she says things out loud.
+She said it, because she says things out loud.
 
 “For a furnace. I am looking for a furnace where a man counted bricks.”
 
@@ -132,7 +132,7 @@ She heard them the way she has heard every figure the man in her head has ever r
 
 And she put them somewhere, the way she puts everything.
 
-She said them out loud to the made road.
+She said them to the made road.
 
 “Yuan Sheng.”
 
@@ -156,7 +156,7 @@ The woman turned her head and looked at her for the first time properly, at her 
 
 ## What She Works Out Standing There
 
-She got it out on the road with the last of the light in it, and she said it out loud, and the woman let her.
+She got it out on the road with the last of the light in it, and she said it, and the woman let her.
 
 “A number goes in. A date goes in. A count of bricks in a course goes in and it has gone in every day of my life and I have never lost one.”
 

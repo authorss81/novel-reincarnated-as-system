@@ -2678,8 +2678,8 @@ non-forgiveness not mentioned once** · no harem, nothing a romance, no mother's
 
 ## VOLUME 11 BATCH 0002 CLOSED — ch 616–630, day 1,842–1,916
 
-**`chapters/volume-11/` holds ch 601–630, thirty chapters. Batch 0002 is ch 616–630, fifteen chapters, 29,997 words
-of body prose on method B (every line not beginning `#`), average 2,000 a chapter, ONE bracketed layer line, at
+**`chapters/volume-11/` holds ch 601–630, thirty chapters. Batch 0002 is ch 616–630, fifteen chapters, 29,748 words
+of body prose on method B (every line not beginning `#`), average 1,983 a chapter, ONE bracketed layer line, at
 ch 616 and nowhere else, and the batch's one irreversible step at ch 624.** The one next phase is
 `workspace/volume-11-batch-0003/PROMPT.md` — ch 631–645, day 1,917–1,996, pressure *knowing*.
 
@@ -2709,7 +2709,7 @@ ch 616 and nowhere else, and the batch's one irreversible step at ch 624.** The 
    of not one word from one person in that yard. **Her own asking at ch 609 put the knowing into the world and the
    ground has been closing since, and she is the only person alive who can say she did not expect it.**
 9. **AND THE PAGE HAS NO PLACE ON IT.** A book like that assumes everybody who opens it is already standing in the
-   room. **She has been on that ground fifty-three days and has not found which part of it.**
+   room. **She has been on that ground fifty-nine days and has not found which part of it.**
 10. **SHE FORFEITED A BOARD.** The second of the month beginning 1,844 went down with her a day east of the gate.
 
 ### What Batch 0003 inherits

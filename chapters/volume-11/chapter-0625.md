@@ -6,11 +6,11 @@ She lay on the stones outside a gate with the bar under her head and she went ov
 
 She did not have to go and get it.
 
-That is the whole of it and she has not got past it in the days since. She has carried six leaves against her ribs for four months and every single thing she has ever held in her life has had to be fetched — a figure said out loud to be safe, a date written in the dust at the foot of a post, a sentence she had to say four times to a road to find out whether it was still there.
+That is the whole of it and she has not got past it in the days since. She has carried six leaves against her ribs for four months and every single thing she has ever held in her life has had to be fetched — a figure said standing in the open to be safe, a date written in the dust at the foot of a post, a sentence she had to say four times to a road to find out whether it was still there.
 
 And this one was where she knew it was. Sitting on a stool in her head in the dark, in the position of the third leaf, in her own hand, in ink made from a cake of soot and gum off a stall in a market and a stub of a nib she has had for two years.
 
-She said it out loud to the stones, at the second hour, with her hand flat on the book through her coat:
+She said it to the stones, at the second hour, with her hand flat on the book through her coat:
 
 “It has got a place.”
 
@@ -24,7 +24,7 @@ He said, “I have not got a use for it.”
 
 She counted the leaves at the sixth hour on the eighteenth, sitting on the stone wall on the west side of the yard with the book open on her knees.
 
-Eight leaves made out of a blanket. A date and a place on the first. Four sentences on the second she has read out loud once and will not read again.
+Eight leaves and she can hold the whole of it in one hand. Two of them are used. The one she wrote on the twelfth is the third.
 
 Five that are hers and blank.
 
@@ -34,11 +34,11 @@ And here is the part she is not going to dress up.
 
 She went looking for the regret, the way you go looking for a step you expected and the ground is not there, and it was not there.
 
-She has given a man with a shut notebook a thing and got the truth and gone on wanting. She has given a woman with a shut book six words on her own step. She has given a voice in her own head one question out loud in the dark, once, and it cannot be un-asked, and she has not regretted that one either and she thought she had.
+She has given a man with a shut notebook a thing and got the truth and gone on wanting. She has given a woman with a shut book six words on her own step. She has given a voice in her own head one question in the dark, once, and it cannot be un-asked, and she has not regretted that one either and she thought she had.
 
 What she has on a blanket leaf with a date on it is a name, and it is the first true thing about another person she has ever held in her life.
 
-She said, at the seventh hour of the eighteenth of the month beginning 1,874, out loud on a stone wall:
+She said, at the seventh hour of the eighteenth of the month beginning 1,874, on a stone wall:
 
 “I am not going to regret it and I am frightened of how fast I worked that out.”
 
@@ -48,7 +48,7 @@ She said, “Because I have been carrying six leaves for four months as the only
 
 ## She Did Not Say It Out Loud
 
-That was on the nineteenth of the month beginning 1,874, in the yard, at the sixth hour, and it is the largest thing she did that day and she told a soul about it by saying it out loud to an empty yard.
+That was on the nineteenth of the month beginning 1,874, in the yard, at the sixth hour, and it is the largest thing she did that day and she told a soul about it by saying it to an empty yard.
 
 She did not say the name out loud.
 
@@ -72,9 +72,9 @@ On the twentieth of the month beginning 1,874 she worked out the rest, standing 
 
 If a name on a page can be held, then everything else has to come off a page too.
 
-She put it out loud to the yard.
+She put it to the yard.
 
-“I have got him on a leaf. I cannot get him off a mouth. He tells me true things in the ordinary voice and they go through me and out, and a woman on a made road told me the same thing nine days ago and it went through me and out, and I have had it in a book for five days and it has not gone anywhere.”
+“I have got him on a leaf. I cannot get him off a mouth. He tells me true things in the ordinary voice and they go through me and out, and a woman on a made road told me the same thing twenty-two days ago and it went through me and out, and I have had it in a book for five days and it has not gone anywhere.”
 
 She said, “So the only thing there has ever been between me and knowing a thing is a page somebody has to find.”
 
@@ -86,7 +86,7 @@ She said, “He is a man who counts bricks at a furnace and I have a name and a 
 
 ## The Ground Going Quiet
 
-She noticed it on the twenty-first and she did not work out what it was for six days, and by the time she worked it out she would have been fifty days on that ground.
+She noticed it on the twenty-first and she did not work out what it was for six days, and by the time she worked it out she would have been forty-three days on that ground.
 
 On the twenty-first of the month beginning 1,874 she took a barrow up to the wall at the fifth hour and the boy of fifteen brought her a second one, the way he had on the twenty-eighth of a month beginning 1,844 and on a couple of days since.
 
@@ -94,7 +94,7 @@ On the twenty-second she took a barrow up to the wall at the fifth hour and ther
 
 ## What She Is Left With, And What She Wants
 
-She said it out loud at the ninth hour of the twenty-second of the month beginning 1,874, standing outside the gate with the book out of her coat and open on her palm, in daylight, to a yard with a furnace in it.
+She said it at the ninth hour of the twenty-second of the month beginning 1,874, standing outside the gate with the book out of her coat and open on her palm, in daylight, to a yard with a furnace in it.
 
 “Five leaves. A name with a date and a place on it that came out of a low wall on the third of this month and cannot be put back. One copper I cannot count. A board inside a low house with a chalk figure on the side of it and a man who writes on it what a boy of fifteen calls out.”
 
@@ -112,8 +112,8 @@ She closed the book and put it back against her ribs on the side where the paper
 
 She said, “I want the morning.”
 
-She said it out loud in the ordinary voice, to a yard, at the ninth hour, with not one soul in it within four hundred yards either way, and she had never in her life said a want out loud on open ground before, and she did not stop for four seconds afterwards the way she would have in a month beginning 1,634.
+She said it in the ordinary voice, to a yard, at the ninth hour, with not one soul in it within four hundred yards either way, and she had never in her life said a want out loud on open ground before, and she did not stop for four seconds afterwards the way she would have in a month beginning 1,634.
 
-And she was lighter at the ninth hour of the twenty-second than she was at the ninth hour of the twenty-first, which is three hundred and thirty-one days of it, counting the eighteenth of the month beginning 1,544 as the first.
+And she was lighter at the ninth hour of the twenty-second than she was at the ninth hour of the twenty-first, which is three hundred and thirty-two days of it, counting the eighteenth of the month beginning 1,544 as the first.
 
 She went to the gate and sat down and did not sleep for a long time, and she had a name on a leaf and she wanted a morning, and the only morning on that ground was shut in a book that had been opened once in nineteen years and once in four days, and she had a board with a chalk figure on it and she had not once been on it.
