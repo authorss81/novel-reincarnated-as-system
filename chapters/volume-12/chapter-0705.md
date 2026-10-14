@@ -1,6 +1,6 @@
 # Still On This Side Of The Line
 
-Ten days and a night went past in that ground and she was in it every hour of them, and she counted the ten of them on the first hour of the twenty-seventh of the month beginning 2,204 and did not write them down anywhere.
+Fifteen days went past in that ground and she was in it every hour of them, and she counted the fifteen of them on the first hour of the twenty-seventh of the month beginning 2,204 and did not write them down anywhere.
 
 Then she got up and went west, and there is not one person in nine days of road who could have told you that was coming, including the man of forty in the ninth row, who was at the frame at the second hour that morning with two sums in front of him and four people waiting for him.
 
@@ -48,7 +48,7 @@ Somewhere at the end of it a slate came out of a frame and went on a cart, and a
 
 And there is a pencil column on it with a great many names in it and one of them is on a bench.
 
-That is what went past at the first hour. She stood at a wall and watched the whole of it happen two days of road west.
+That is what went past at the first hour. She stood at a wall thirteen miles east of it and watched the whole of it happen.
 
 ## The Woman Who Walked Out
 
@@ -74,7 +74,7 @@ She said, “Then there are fourteen,” and did not say another word about it, 
 
 ## What Is Left Of The Stretch
 
-The sixth first is gone. It went past at the first hour of the first of the month beginning 2,234 with her standing at a wall two days of road from a frame, in daylight, on the east side of it.
+The sixth first is gone. It went past at the first hour of the first of the month beginning 2,234 with her standing at a wall thirteen miles east of a frame, in daylight, on the east side of it.
 
 The seventh day of that month is today, which is the seventh of the month beginning 2,234, and the seventh first is twenty-four days on from here, and she is on this side of the line, and the line is four hundred yards east of a turn, and she has not gone up it with anything of her own hand on it and she is not going to before the eighth one.
 

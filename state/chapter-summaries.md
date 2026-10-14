@@ -2399,7 +2399,7 @@ measurements in `state/continuity.md` under ***VOLUME 12 BATCH 0002 — REVIEW R
 
 ---
 
-## VOLUME 12 BATCH 0003 — ch 691–705, *the firsts*, drafted **and repaired after review**. Day 2,141 to day 2,240. Fifteen chapters, **29,212** words of body prose on method B, average 1,947. **The 29,202 in any pre-repair block is the old page and must not be quoted.**
+## VOLUME 12 BATCH 0003 — ch 691–705, *the firsts*, drafted **and repaired after review, then reviewed again and repaired again**. Day 2,141 to day 2,240. Fifteen chapters, **29,240** words of body prose on method B, average 1,949. **29,202 and 29,212 are both old-page figures and must not be quoted.**
 
 **Four firsts of a month go past inside this band and not three: 2,144, 2,174, 2,204 and 2,234 — the third, the fourth, the fifth and the sixth. She is at the frame for one of them in nine years. The volume's payoff figure, ten days and twenty-one hours and thirty-six minutes, is ch 717 and is Batch 0004's; this batch derives the total she already has.**
 

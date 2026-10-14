@@ -156,22 +156,21 @@ instruction.**
 
 ## Volume 12 — the live volume, and where a phase starting now should read
 
-**This section was added by the Volume 12 planning review fix. The tables above map Volumes 1 to 11 and were correct when
-written; they are not a map of where the manuscript is.** A phase starting in Volume 12 reads these four sections, in this order,
-and nothing else in `state/` until it needs more:
-
-**CORRECTED BY THE VOLUME 12 BATCH 0003 PHASE. ch 691–705 are on the page, measured, reviewed and repaired, and this batch's
-state is written. The table below is the live one and it supersedes the four rows it replaces.** A phase starting in Volume 12
-reads these sections, in this order, and nothing else in `state/` until it needs more:
+**LIVE, AND CORRECTED TWICE — THIS IS THE ONLY READING ORDER IN THIS FILE.** This section was added by the Volume 12 planning
+review fix, rewritten by the Volume 12 Batch 0003 phase when that batch's state was written, and corrected a third time when the
+batch's repair was itself reviewed. **Any earlier reading order stated in this section is history and is superseded by the table
+below.** The tables above map Volumes 1 to 11 and were correct when written; they are not a map of where the manuscript is. A
+phase starting in Volume 12 reads these sections, in this order, and nothing else in `state/` until it needs more:
 
 | Order | Section | What it is |
 | --- | --- | --- |
-| 1 | `state/current.md` §*Who is where at end of chapter 705* | **THE LIVE POSITION.** Day 2,240, at the broken wall, IMMORTAL VESSEL 2, 680 days lighter. Measured per file: **29,212 body words, average 1,947, day 2,141–2,240**, and the volume at **88,029 over forty-five chapters at average 1,956**. Everything Batch 0004 inherits is in it |
+| 1 | `state/current.md` §*Who is where at end of chapter 705* | **THE LIVE POSITION.** Day 2,240, at the broken wall, IMMORTAL VESSEL 2, 680 days lighter. Measured per file: **29,240 body words, average 1,949, day 2,141–2,240**, and the volume at **88,074 over forty-five chapters at average 1,957**. Everything Batch 0004 inherits is in it |
 | 2 | `state/continuity.md` §*Established facts, Volume 12 Batch 0003 — THE FIRSTS* | **READ SECOND.** The day table, the lighter series, the total and every figure in it, the board count, and the section headed ***How far the rows sit past the wall*** — **the open map finding, published in four numbers, which Batch 0003's own review adjudicated without settling and which no Batch 0004 card may put a mile figure on** |
-| 3 | `state/continuity.md` §*VOLUME 12 BATCH 0003 — REVIEW REPAIR* | The nineteen defects the batch's own review cleared, including the same arithmetic error repeated in two different months and the one repair made outside the batch |
-| 4 | `state/open-threads.md` §*VOLUME 12 BATCH 0003 CLOSED at ch 705* | **The ten open threads**, the irreversible list, and the three things Batch 0004 must not inherit as clean prose |
-| 5 | `state/current.md` §*Who is where at end of chapter 690* | **The previous CLOSED position**, and everything Batch 0003 inherited is in it. Its figures were corrected in place by the planning review fix |
-| 6 | `outline/volume-12.md` | **THE AUTHORITY for the volume.** Not a state file. It is read after the four above, never before |
+| 3 | `state/continuity.md` §*VOLUME 12 BATCH 0003 — REVIEW OF THE REVIEW* | **READ THIRD.** The thirteen defects the review of the repair found, what each one was measured against, the four that were checkable by hand, and the two the first pass left standing on purpose |
+| 4 | `state/continuity.md` §*VOLUME 12 BATCH 0003 — REVIEW REPAIR* | The nineteen defects the batch's own first review cleared, including the same arithmetic error repeated in two different months and the one repair made outside the batch. **Its word figures are the old page; read section 3 and row 1 for the live ones** |
+| 5 | `state/open-threads.md` §*VOLUME 12 BATCH 0003 CLOSED at ch 705* | **The ten open threads**, the irreversible list, and the three things Batch 0004 must not inherit as clean prose |
+| 6 | `state/current.md` §*Who is where at end of chapter 690* | **The previous CLOSED position**, and everything Batch 0003 inherited is in it. Its figures were corrected in place by the planning review fix |
+| 7 | `outline/volume-12.md` | **THE AUTHORITY for the volume.** Not a state file. It is read after the six above, never before |
 
 **`workspace/volume-12-planning/` is history.** Its prompt is not a live brief — it says it creates `outline/volume-12.md`, which
 existed, and the phase that ran it audited rather than created. **`workspace/volume-12-batch-0003/PROMPT.md` is history too, and

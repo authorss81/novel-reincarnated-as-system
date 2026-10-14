@@ -4,7 +4,7 @@ She walked east for a day and a half and she did not tell anybody where she had 
 
 She went down four miles of mountain road and nine miles of store road and past the mill with the wheel that has not turned in nine years and past the cottage at the stopped lime bed, where the woman was in the yard with her hands behind her, at the third hour on the eleventh of the month beginning 2,204, saying nothing, as she has said nothing in nine days of road.
 
-Then thirteen miles east to a turn, and the woman of sixty was on the bench at the ninth hour of the eleventh, and she looked at the bar going past and she did not say one word, and Ning Yan did not stop, and there is a name in the fourth column of a slate that no one on this road has ever read and she has read it and she is carrying it thirteen miles east and she is not going to be able to put it down.
+Then the turn, and the woman of sixty was on the bench at the ninth hour of the eleventh, and she looked at the bar going past and she did not say one word, and Ning Yan did not stop, and there is a name in the fourth column of a slate that no one on this road has ever read and she has read it and she is carrying it east and she is not going to be able to put it down.
 
 ## The Ground She Came Back To
 
@@ -18,7 +18,7 @@ Not four long. Nine or ten at the third hour of the afternoon, and about half of
 
 Nine of them were doing it without her.
 
-Nine people in a ground of two hundred who were doing sums for other people and who had not been doing sums on the twenty-seventh of the month beginning 2,144, which is forty-five days ago, and which is the last day she was here and counted them.
+Nine people in a ground of two hundred who were doing sums for other people and who had not been doing sums on the twenty-seventh of the month beginning 2,144, which is forty-nine days ago, and which is the last day she was here and counted them.
 
 The man of forty in the ninth row was doing four. The woman of thirty-four was checking his working before she gave an answer on. A boy of seventeen she had never spoken to was doing two, badly, and correcting himself, which is what she was doing at his age in a shed at a mill.
 
@@ -48,7 +48,7 @@ There is no craft in it.
 
 A total is a date, a day and a fraction, and the fraction is one in twenty, and the fraction is the same on every ground in this county and has been since before anybody alive was born. She has not found it. She has not kept it. She stood at a frame on the eighteenth of the month beginning 2,144 and said that she had told two hundred people there was a figure and had not told them how, and she thought at the time that that was the whole of what she could do about it.
 
-She thought that forty-five days ago.
+She thought that fifty-eight days ago.
 
 There are forty people in this ground who can count to eighty. There are two hundred people in this ground who have a slate with their name on it two days west or a figure in a pencil column on a frame, or a set of days in a column somewhere, or nothing at all and a number of years they can count back on their own two hands.
 
@@ -56,7 +56,7 @@ And not one of them has to be told how. Not one of them has to be told anything.
 
 “I did not keep it. I never kept anything. There is nothing on this ground that was hidden and there is nothing anywhere that I am the only one who knows, and there is a boy of nineteen in this ground who told me once that if one of them knew there would be not one of them left on the rows in a month.”
 
-She said, “He was not warning me. He was doing arithmetic. He was fifteen when he said it and he is not wrong, and I have had four days to work out what it is he was right about and I have not worked it out.”
+She said, “He was not warning me. He was doing arithmetic. He was nineteen when he said it and he is not wrong, and I have had four days in this ground to work out what it is he was right about and I have not worked it out.”
 
 And she said the one that has been sitting under all of it, at the fourth hour, in daylight, to nine people at a frame:
 

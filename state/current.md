@@ -5514,14 +5514,18 @@ end of chapter 690` above; read it next, because everything Batch 0003 inherited
 ran, wrote its fifteen chapters, wrote none of its state, and was deferred — rate-limited — before it did. **The prose exists. The
 record of it did not, and this block is a measurement of the files, not a phase's own account of its work.**
 
-**WHAT IS ON DISK.** `chapters/volume-12/chapter-0691.md` through `chapter-0705.md`. **Fifteen chapters, 29,202 words of body prose
-on method B — every line not beginning `#`, counted per file and summed — average 1,947, day 2,141 to day 2,240.** Per file:
-691 2,097 · 692 1,867 · 693 2,332 · 694 1,841 · 695 1,891 · 696 2,283 · 697 1,950 · 698 1,746 · 699 1,853 · 700 1,780 ·
-701 1,886 · 702 1,917 · 703 1,845 · 704 2,209 · 705 1,705. Fifteen titles, **no collision anywhere in seven hundred and five
+**WHAT IS ON DISK.** `chapters/volume-12/chapter-0691.md` through `chapter-0705.md`. **Fifteen chapters, 29,240 words of body prose
+on method B — every line not beginning `#`, counted per file and summed — average 1,949, day 2,141 to day 2,240.** Per file:
+691 2,099 · 692 1,887 · 693 2,334 · 694 1,843 · 695 1,907 · 696 2,283 · 697 1,952 · 698 1,750 · 699 1,872 · 700 1,775 ·
+701 1,889 · 702 1,912 · 703 1,847 · 704 2,205 · 705 1,685. Fifteen titles, **no collision anywhere in seven hundred and five
 chapter headings.** Zero bracketed layer lines, zero bold, zero italic, zero tables, blockquotes or rules; **all fifteen files carry
-no trailing newline, as every Volume 12 file does.** `nobody` 2 · `eleven` 9 · `thank` 0 in the batch; over forty-five chapters
-`nobody` 18 · `eleven` 28 · `thank` 0. **The volume stands at 88,036 over forty-five chapters, average 1,956** — Batch 0001
-30,000 · Batch 0002 28,834 · Batch 0003 29,202.
+no trailing newline, as every Volume 12 file does.** `nobody` 2 · `eleven` 9 · `thank` 1 in the batch; over forty-five chapters
+`nobody` 21 · `eleven` 31 · `thank` 1. **The volume stands at 88,074 over forty-five chapters, average 1,957** — Batch 0001
+30,000 · Batch 0002 28,834 · Batch 0003 29,240.
+
+**THE ONE `thank` IN THE BATCH IS AT `chapter-0702.md:43` AND IT IS A REFUSAL, NOT A THANKS** — *she has not thanked him for that
+and is not going to*. **Any block that claims `thank` 0 for Volume 12 or for this batch is false on measurement and has been
+corrected.** Batches 0001 and 0002 are `thank` 0 and their blocks are true.
 
 **WHERE SHE IS AT THE LAST PAGE OF ch 705.** Day 2,240, the seventh of the month beginning 2,234, the **ninth hour**, **at the
 broken wall**, a day and a bit east of the north end of that ground, on the east side of it, in daylight, with the bar lying along
@@ -5589,16 +5593,18 @@ record in `state/continuity.md` under ***Established facts, Volume 12 Batch 0003
 ***Volume 12 Batch 0003 — REVIEW REPAIR*** and
 ***How far the rows sit past the wall: the open finding, and what this batch did about it***.
 
-**VOLUME 12 BATCH 0003 IS ON THE PAGE AND HAS BEEN THROUGH ITS OWN REVIEW AND REPAIR — ch 691–705, fifteen chapters, 29,212
-words of body prose on method B (every line not beginning `#`, counted per file and summed), average 1,947, day 2,141 to day
-2,240.** Drafted against `outline/volume-12.md` and against `workspace/volume-12-batch-0003/PROMPT.md`. **The volume now
-stands at 88,029 words over forty-five chapters at average 1,956** — Batch 0001 30,000 · Batch 0002 28,834 · Batch 0003
-29,212. Next: **Volume 12 Batch 0004**, ch 706–720, against `workspace/volume-12-batch-0004/PROMPT.md`.
+**VOLUME 12 BATCH 0003 IS ON THE PAGE AND HAS BEEN THROUGH ITS OWN REVIEW, ITS REPAIR AND THE BATCH'S REVIEW-OF-THE-REPAIR —
+ch 691–705, fifteen chapters, 29,240 words of body prose on method B (every line not beginning `#`, counted per file and summed),
+average 1,949, day 2,141 to day 2,240.** Drafted against `outline/volume-12.md` and against
+`workspace/volume-12-batch-0003/PROMPT.md`. **The volume now stands at 88,074 words over forty-five chapters at average 1,957** —
+Batch 0001 30,000 · Batch 0002 28,834 · Batch 0003 29,240. Next: **Volume 12 Batch 0004**, ch 706–720, against
+`workspace/volume-12-batch-0004/PROMPT.md`.
 
 *The fifteen chapters were drafted by an earlier run of this phase and were deferred before it wrote any state. This block is
-written after the review and the repair. **The pre-repair figures, 29,202 and 1,947, are the old page and are not to be
-quoted as this batch's; 29,212 and 1,947 are the figures on disk.** The repair moved no card beat, no day, no stage, no
-title and no irreversible step.*
+written after the review, the repair, and a second pass over the repair. **Every earlier figure — 29,202 and 1,947 before the
+repair, 29,212 and 1,947 after it — is the old page and none of them is to be quoted as this batch's. 29,240 and 1,949 are the
+figures on disk.** The second pass moved no card beat, no day, no stage, no title and no irreversible step, and it settled no open
+map question. Its findings and repairs are at `state/continuity.md` §*VOLUME 12 BATCH 0003 — REVIEW OF THE REVIEW*.**
 
 - **Ning Yan — IMMORTAL VESSEL 2, taken at ch 702, day 2,206, the third of the month beginning 2,204, at the second hour,
   standing at the outside of a low door at the top of a stair four flights above a copying floor, and its cost named once:
@@ -5657,11 +5663,12 @@ title and no irreversible step.*
   it can come on except the five blank leaves against her ribs, and those are hers.**
 - **Untouched and unraised:** `Ledger` 0 · `reconciled` 0 · `plate` 0 · `kiln-born` 0 · `MEMBER ABSENT` 0 · the four erased
   months not named · the ch 150 refusal not softened · **the year of non-forgiveness carrying and not mentioned once in these
-  fifteen chapters** · `forgiv` 0 · `thank` 0 · her mother's name never said · the three Volume 11 costs carried whole and
-  never re-derived · ch 685's cost carried at scale and never re-derived · **the ch 665 asking not un-asked and its first
-  half not re-explained** · the ch 658 sentence not quoted again · no bracket · one frame scene only, at ch 694 · no stage
-  named before ch 702 · **the four sheets never against her ribs and the forty-one strokes not looked at** · the five blank
-  leaves blank · **the lever not carried once in this batch** · `Scribe` 0 · `Anchor` 0 · `Sisterhood` 0 · `bargain` 0 · no
+  fifteen chapters** · `forgiv` 0 · **`thank` 1 and it is the refusal at ch 702, not a thank** · her mother's name never said ·
+  the three Volume 11 costs carried whole and never re-derived · ch 685's cost carried at scale and never re-derived · **the ch
+  665 asking not un-asked and its first half not re-explained** · the ch 658 sentence not quoted again · no bracket · one frame
+  scene only, at ch 694 · no stage named before ch 702 · **the four sheets never against her ribs and the forty-one strokes not
+  looked at** · the five blank leaves blank · **the lever not carried once in this batch** · `Scribe` 0 · `Anchor` 0 ·
+  `Sisterhood` 0 · `bargain` 0 · no
   new clearance, seal or countersignature · no office above the Standing Office of the Second Account · no harem and nothing
   a romance · Ning Wu 0 · Xie Changyin 0 · Feng Lushi 0 · Shuyin 0 · the Hunter 0.
 - **The geography, after the review.** **The turn to the wall is thirteen miles and thirteen miles everywhere, and the gate

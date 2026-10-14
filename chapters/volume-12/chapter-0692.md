@@ -16,7 +16,7 @@ And it comes back down before the twenty-fourth, and on the twenty-fourth somebo
 
 She said, at the first hour, to the board and the barrows and the two hundred rows of stones:
 
-“Forty days since the first of the month beginning 2,114 and I have not been at either end of it, and the slate has been up for eight days with my name on it and thirty of my days in beside it, and I have been forty miles from it.”
+“A month since the first of the month beginning 2,114 and I have not been at either end of it, and the slate has been up for eight days with my name on it and thirty of my days in beside it, and I have been two days of road from it.”
 
 She said, “And it does not care, and I have known that for nine years, and it is the first time it has cost me anything to know it.”
 
@@ -30,7 +30,7 @@ A made road two miles west of a ground with two hundred people in it has four ca
 
 And not one of those nine carts was the cart that takes a slate east at the first hour, because she watched it go and she knows what it looks like from the eleventh, and it did not come past that road at all.
 
-She had it wrong in her head and she worked out where the wrong was standing in a ditch in nine seconds. The slate does not come this way. A slate from the turn goes east along a store road that is thirteen miles from the wall, and she is thirty miles east of the wall. The cart that took her name off that frame at the first hour went into a county she has not been in.
+She had it wrong in her head and she worked out where the wrong was standing in a ditch in nine seconds. The slate does not come this way. A slate from the turn goes east along a store road that is thirteen miles from the wall, and that store road is not the one she is standing on, and she is two days of road east of the wall. The cart that took her name off that frame at the first hour went into a county she has not been in.
 
 ## The Cart At The Second Hour
 

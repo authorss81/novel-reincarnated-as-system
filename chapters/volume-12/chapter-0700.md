@@ -8,7 +8,7 @@ She had never in nine years gone west out of that ground on purpose.
 
 The ground is four miles from the south end of it to the north end and she walked it at the second hour of the morning with the bar on her shoulder and about a hundred people lying down about it, and she got to the gate and out of it by the fourth hour.
 
-Then two miles of flat with nothing on it to lie down on and the sun coming up on her left over three days of ground and a broken wall at the end of it.
+Then two miles of flat with nothing on it to lie down on and the sun coming up on her left over the whole of it and a broken wall at the end of it.
 
 She put the bar down twice on the flat and once in the first mile and once at the wall, and every set-down cost her between twenty-nine and forty-one counts, and she was at the wall at the seventh hour of the twenty-eighth with her arm open and four counts of breath where she should have had four and nine where she had not asked for nine.
 
@@ -26,7 +26,7 @@ She went past all three and the woman at the cottage did not say one word and ne
 
 And she stopped at the ninth mile, which is the end of the paid road, and stood at the post there for a count of sixty.
 
-There is a post at the end of nine miles and after that it is not a road anybody pays for, and the thing about a paid road is that it is about how it is kept and not about where it goes. She stood at that post and worked out, out loud, in daylight, alone, that she had been on paid road for nine miles of the thirteen and nine of them on the first, and that there has been no road under her feet for four hundred yards.
+There is a post at the end of nine miles and after that it is not a road anybody pays for, and the thing about a paid road is that it is about how it is kept and not about where it goes. She stood at that post and worked out, out loud, in daylight, alone, that the paid part of that road is nine miles out of thirteen and she is standing at the end of the nine, and that there has been no road under her feet for four hundred yards.
 
 And she said, out loud, at the ninth mile, to a post:
 

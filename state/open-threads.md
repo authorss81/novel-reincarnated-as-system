@@ -3303,8 +3303,30 @@ spent and it is not pulled.**
 **Nineteen defects were repaired and the full record is in `state/continuity.md`. Three of them are about figures a later phase
 could otherwise quote:**
 
-- **The batch is 29,212 words of body prose over fifteen chapters at average 1,947** — the pre-repair 29,202 is the old page.
+- **The batch is 29,240 words of body prose over fifteen chapters at average 1,949** — 29,202 before the repair and 29,212
+  after it are both the old page and neither is to be quoted.
 - **The date of ch 665's asking is the sixth hour of the twelfth of the month beginning 2,054, day 2,065**, and it was wrong in
   three places including a Batch 0001 chapter, and the Batch 0002 continuity block's line that it was *deliberately* carried
   forward uncorrected no longer describes the page.
 - **The rows-to-turn leg has no mile figure on it any more.** Two days of road is the measurement and it is hers.
+
+## What Batch 0004 must not read as settled, from the review OF the review
+
+**The batch's repair was itself reviewed, thirteen further defects were found and fixed, and the full record is at
+`state/continuity.md` §*VOLUME 12 BATCH 0003 — REVIEW OF THE REVIEW*. Four of those are things a drafting phase could otherwise
+get wrong without noticing:**
+
+- **Two days of road is the rows-to-turn leg and it is the ONLY leg it may be used on.** The first repair had also put it on the
+  wall-to-turn leg, which is thirteen miles and settled, and that gave the open map question a second answer. **Thirteen miles is
+  the wall to the turn. Two days of road is the rows to the turn. Two miles of flat is the ground to the wall past the gate.**
+  No Batch 0004 card may put a mile figure on the rows leg in either direction.
+- **A number moved without the sentence around it being re-measured, and it happened twice in this batch.** Every interval in ch 704
+  had to be re-derived against a single present day, and every one of the four figures in that chapter that the first pass had
+  touched was wrong. **If Batch 0004 finds itself swapping a number into dated prose, the swap is not the work; the re-measurement
+  is.**
+- **`thank` is 1 across the whole volume, not 0, and that one is a refusal** — *she has not thanked him for that and is not going
+  to*, at ch 702. **Batch 0004 may not thank anybody.**
+- **Two things were found and deliberately left standing, and both are for the volume close:** `ch 692`'s *the slate has been up
+  for eight days*, which cannot be checked without a model of the slate's cycle between the first and the twenty-fourth that this
+  batch never wrote down; and the post with a keeper on it, which `ch 601:61` puts nine miles west of the turn and `ch 700` puts
+  four miles from it. **Neither is Batch 0004's to arbitrate.**

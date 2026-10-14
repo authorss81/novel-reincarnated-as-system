@@ -6,12 +6,15 @@ batch. Nothing else is created, no second `workspace/volume-12-batch-*` director
 
 ## What this phase is
 
-**Volume 12 Batch 0003, ch 691–705, *the firsts*, is closed, measured, reviewed and repaired on the page: fifteen chapters,
-29,212 words of body prose on method B — every line not beginning `#`, counted PER FILE and summed — average 1,947, day
+**Volume 12 Batch 0003, ch 691–705, *the firsts*, is closed, measured, reviewed, repaired and reviewed again on the page: fifteen
+chapters, 29,240 words of body prose on method B — every line not beginning `#`, counted PER FILE and summed — average 1,949, day
 2,141 to day 2,240.** Zero bracketed layer lines in fifteen chapters, zero bold, zero italic lines, zero straight quotes or
 apostrophes, zero tables, blockquotes or rules, zero retired phrases over the batch's line of one, and all fifteen files carry
-no trailing newline, as every Volume 12 file does. `nobody` 2 · `eleven` 9 · `thank` 0 — **all three inside the batch's line,
-and the directory totals are `nobody` 21 · `eleven` 31 · `thank` 0, both inside the volume-wide line.**
+no trailing newline, as every Volume 12 file does. `nobody` 2 · `eleven` 9 · `thank` 1 — **all three inside the batch's line,
+and the directory totals are `nobody` 21 · `eleven` 31 · `thank` 1, all inside the volume-wide line. The single `thank` in the
+whole volume is the refusal at ch 702 — *she has not thanked him for that and is not going to* — so nothing in Volume 12 is
+thanked and that is what the count of one records. Earlier blocks that read `thank` 0 were wrong on measurement and are
+corrected; Batch 0001 and Batch 0002 really are `thank` 0 and their figures stand.**
 
 She went twenty days west to a turn and back east, worked out her own total over six days on a strip of hand-made paper that
 came down off the top of a stair, **said it out loud at ch 697 in daylight where two hundred people were and it cannot be
@@ -263,7 +266,16 @@ own day range and no chapter may cross day 2,300.
   says three miles, ch 659 and ch 660 say four; `outline/volume-12.md` says the open thread is inherited and no card settles it.
   **Batch 0003 asserted twenty miles for the rows-to-turn leg, its own review withdrew it because it is corroborated nowhere, and
   the leg is now measured in days — two days of road, which is ch 700's own timing.** **Batch 0004 puts no mile figure on that
-  leg.** **The furnace ground is not walked in this batch.**
+  leg.** **THE UNIT RULE, STATED ONCE AND BINDING: THIRTEEN MILES IS THE WALL TO THE TURN AND MAY BE SAID IN MILES. TWO DAYS OF
+  ROAD IS THE ROWS TO THE TURN AND MAY NOT BE GIVEN A MILE FIGURE IN EITHER DIRECTION. TWO MILES OF FLAT IS THE GROUND TO THE WALL
+  PAST THE GATE AND MAY BE.** A second pass over Batch 0003's repair found that the day unit had also been put on the settled
+  thirteen-mile leg in two sentences in ch 705, which gave the open question a second answer, and both now say thirteen miles.
+  **The furnace ground is not walked in this batch.**
+- **A NUMBER MOVED WITHOUT THE SENTENCE AROUND IT BEING RE-MEASURED, AND IT HAPPENED TWICE IN BATCH 0003.** The first repair
+  turned a single *nine days* in ch 704 into three different figures and got every one of them wrong, and it broke a clause in
+  ch 700 halfway through a find-and-replace. **If this batch finds itself swapping a number into dated prose, the swap is not the
+  work; the re-measurement is.** Every interval stated in ch 706–720 must be checked by subtraction from the day the chapter is on,
+  and a chapter must not carry two different answers to the same question.
 - **The ch 267 surface answer is never re-voiced in any mouth, in any form.** `charged` 0 · `bookkeeping` 0 · `receipt` 0 ·
   `bounded world` 0 · `the walls` 0. **The moral answer is Volumes 15–16's and is not previewed.**
 - **The uncleared retirements stand:** `Ledger` 0 · `reconciled` never read · `plate` 0 · `kiln-born` in two heads and on no
@@ -277,7 +289,8 @@ own day range and no chapter may cross day 2,300.
 - **No figure of what is left of him on any page**, in her hearing or out of it, before the settling or after it. **Every sentence
   Yuan speaks is written in the present tense and no other character is ever in a marked present frame.** **This batch stages no
   frame scene.** The eighth is at ch 694 and there is no ninth anywhere in ch 661–720.
-- **She never thanks him, and no person is thanked by her in this batch.** `thank` 0 across the whole volume and 0 here.
+- **She never thanks him, and no person is thanked by her in this batch.** `thank` is at 1 across the whole volume and that one is
+  a refusal, so this batch may not add a thanking of any kind and 1 is the ceiling it inherits.
 - **She never says her mother's name.** No harem, nothing a romance. *The shape of a happy life* stays unspent until Volume 16, by
   Ning Wu.
 - **The forty-one strokes are not looked at, and the four sheets are in a locked drawer four miles west of a square.** **The five
@@ -319,9 +332,9 @@ manuscript has caught itself making six times.**
   `clearance` 0 · `countersignature` 0 · `seal` 0 · `tribulation` 0.
 - **THE CRAFT LINES ARE THE TIGHT THING IN THIS BATCH AND THEY ARE PUBLISHED SO THE TIGHTNESS IS NOT A SURPRISE.** Batch 0001
   came in at `nobody` 9, `eleven` 10 and `thank` 0. Batch 0002 at `nobody` 10, `eleven` 13 and `thank` 0. Batch 0003 at
-  `nobody` 2, `eleven` 9 and `thank` 0. **Directory totals over forty-five chapters are `nobody` 21 and `eleven` 31 against
-  volume-wide lines of thirty and forty.** **This batch may therefore spend at most nine `nobody` and nine `eleven` across its own
-  fifteen chapters, measured with `grep -oiw` per file, and `thank` stays at 0.** Nine is about one every two chapters; that is
+  `nobody` 2, `eleven` 9 and `thank` 1, and that 1 is the refusal at ch 702. **Directory totals over forty-five chapters are
+  `nobody` 21 and `eleven` 31 against volume-wide lines of thirty and forty.** **This batch may therefore spend at most nine
+  `nobody` and nine `eleven` across its own fifteen chapters, measured with `grep -oiw` per file, and it may not thank anybody.** Nine is about one every two chapters; that is
   tight but it is not a sentence-beginning ban, and the batch has a hundred and forty-nine names and counts to spend.
 - **Count and publish:** `about` / `whole of` / `nothing` / `out loud` / `list`, with the method in the sentence with the number,
   and write the true figures into the continuity block. **Batch 0003 published `about` at 117, against Batch 0001's 120 and Batch
@@ -334,7 +347,7 @@ manuscript has caught itself making six times.**
 - **Paragraphs two to four sentences; break over about 90 words; never over about 120.** **Fifteen chapters, 27,000–30,000 words
   of body prose on method B**, no chapter under the 1,300 floor and none above the 2,700 guide without a scene that needs it.
   **Batch 0004 carries the volume's climax and its irreversible step and targets the middle of that band**, which is what Batch
-  0002 did at 28,834 and Batch 0003 at 29,212.
+  0002 did at 28,834 and Batch 0003 at 29,240.
 - **Every chapter ends on a question, danger, revelation, decision, reversal, emotional consequence, or unanswered mystery — never
   a neutral action.** Short plain sentences where something is understood. One human sentence after the machinery. No
   re-explanation of a Volume 9, Volume 10 or Volume 11 cost, **and no re-explanation of ch 685's or ch 702's.**

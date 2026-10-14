@@ -8728,7 +8728,8 @@ not pick.**
 ### Untouched and unraised across ch 691–705
 
 `Ledger` 0 · `reconciled` 0 · `plate` 0 · `kiln-born` 0 · `MEMBER ABSENT` 0 · the four erased months not named · the ch 150
-refusal not softened · `the year` 0 · `forgiv` 0 · `thank` 0 · her mother's name never said · the three Volume 11 costs carried
+refusal not softened · `the year` 0 · `forgiv` 0 · **`thank` 1 and it is the refusal at ch 702, not a thank** · her mother's name
+never said · the three Volume 11 costs carried
 whole and never re-derived · **ch 685's cost carried at scale and not re-derived** · **ch 702's cost named once and not
 re-explained in ch 703–705** · no bracket and nothing in square brackets in fifteen chapters · **one frame scene only, at ch 694**
 · **no stage named before ch 702 and none after it, and Immortal Vessel 3 is ch 716 and is not named** · the four sheets of rice
@@ -8744,11 +8745,11 @@ nothing in this batch said that it may take the writing off the board and not th
 
 **Method B in every word figure: body prose is every line not beginning `#`, counted per file and summed.**
 
-- **29,212 words of body prose over fifteen chapters, average 1,947**, day 2 141 to day 2 240. Per file: 691 2,099 · 692 1,871
-  · 693 2,334 · 694 1,843 · 695 1,891 · 696 2,283 · 697 1,952 · 698 1,750 · 699 1,872 · 700 1,772 · 701 1,889 · 702 1,912 ·
-  703 1,847 · 704 2,208 · 705 1,689. **The pre-repair figures, 29,202 and the per-file list in the deferred block above, are
-  the old page and must not be quoted as this batch's.** Volume to date: **88,029 over forty-five chapters at average 1,956** —
-  Batch 0001 30,000 · Batch 0002 28,834 · Batch 0003 29,212.
+- **29,240 words of body prose over fifteen chapters, average 1,949**, day 2 141 to day 2 240. Per file: 691 2,099 · 692 1,887
+  · 693 2,334 · 694 1,843 · 695 1,907 · 696 2,283 · 697 1,952 · 698 1,750 · 699 1,872 · 700 1,775 · 701 1,889 · 702 1,912 ·
+  703 1,847 · 704 2,205 · 705 1,685. **Every earlier figure for this batch is the old page and none of them is to be quoted:
+  29,202 before the repair, 29,212 after it.** Volume to date: **88,074 over forty-five chapters at average 1,957** —
+  Batch 0001 30,000 · Batch 0002 28,834 · Batch 0003 29,240.
 - **Bracketed layer lines 0. Bold 0. Italic lines 0. Blockquotes, code fences, tables, horizontal rules 0. Standalone
   all-caps lines 0. Straight quotes and straight apostrophes 0** (three hundred and fifty-eight curly marks on the page and not
   one straight one). **All fifteen files carry no trailing newline, as every Volume 12 file does.**
@@ -8763,7 +8764,11 @@ nothing in this batch said that it may take the writing off the board and not th
   mark* doing the same work and the batch was over its own line of one. The full seven are *nobody asked · nobody was thanked ·
   there is no form · there is no column · the record remained · nobody knew · nobody said anything*, case-insensitive, body prose.
 - **Craft words, batch against its own line and the volume against its line.** **`nobody` 2** (under twelve) · **`eleven` 9**
-  (under sixteen) · **`thank` 0**. **Volume-wide: `nobody` 21** (under thirty) · **`eleven` 31** (under forty) · **`thank` 0**.
+  (under sixteen) · **`thank` 1** (under three, and the single one is the refusal at ch 702 — *she has not thanked him for that
+  and is not going to* — so the batch contains no thanking and the count is the sound of one that was declined). **Volume-wide:
+  `nobody` 21** (under thirty) · **`eleven` 31** (under forty) · **`thank` 1**, and **every earlier block that claims `thank` 0
+  for Volume 12 or for this batch is false on measurement and has been corrected; the `thank` 0 claims for Batches 0001 and 0002
+  are true and stand.**
   **Batch 0004 has nine people and nine thousand words of room on both and the lines still land.**
 - **Count words, published with the method in the sentence.** **`about` 117**, against Batch 0001's 120 and Batch 0002's 175
   after its repair — **the batch is the lightest of the three and that is the rise Batch 0002 asked to be beaten** ·
@@ -8940,7 +8945,7 @@ the card's figure is left as the brief that was drafted against.
 
 **It did not draft, re-draft or reorder a chapter. It did not re-open a beat, re-decide a card, add a chapter, change an
 irreversible step, move a stage, or touch `outline/volume-12.md`.** It did not settle the open map question. **It did not touch
-ch 691–705's plot, and the batch is 29,212 words of body prose over fifteen chapters at average 1,947, and that is the figure in
+ch 691–705's plot, and the batch is 29,240 words of body prose over fifteen chapters at average 1,949, and that is the figure in
 the construction budget above.**
 
 ### One observation recorded and not repaired, for the volume close
@@ -8951,3 +8956,113 @@ cost of a record said out loud, ch 698's is the arithmetic out in the open, ch 7
 hers and has been hers since Volume 10, so it is a signature rather than a repeated construction.** The other twelve chapters
 close on a deadline, a question, a reversal or an emotional consequence. **The close may want to spend it once more or not at
 all, and this review did not touch an ending on a closed chapter to find out.**
+
+## VOLUME 12 BATCH 0003 — REVIEW OF THE REVIEW
+
+**A SECOND PASS WAS RUN OVER THE BATCH'S OWN REPAIR, AND IT FOUND THIRTEEN DEFECTS. TEN WERE ON THE PAGE AND THREE WERE IN THE
+BATCH'S OWN STATE. All thirteen are fixed. No card beat, no day, no stage, no title and no irreversible step moved, and the open
+map question is still open.**
+
+The first repair was a set of find-and-replace moves against a stale page. The damage it did was of one kind: **a number changed
+without the sentence around it being re-measured.** That is the whole of what this pass found, and it is worth naming because the
+second time a batch runs a mechanical replacement over dated prose, the same failure returns.
+
+### The single present day, and the four intervals ch 704 had lost
+
+**Ch 704's present is one day and it is day 2,219, the sixteenth of the month beginning 2,204**, fixed by three things on the
+page that were never in doubt: the climax at the ninth hour of the sixteenth, *for four days* back from her arrival at the second
+hour of the twelfth, and ninety-one nights from the fifteenth of the month beginning 2,114. Measured against 2,219 and against
+nothing else:
+
+| What the page said | What it is | Day | Now reads |
+| --- | --- | --- | --- |
+| *had not been doing sums on the twenty-seventh of the month beginning 2,144, which is **forty-five** days ago* | the twenty-seventh of 2,144 | 2,170 | **forty-nine days ago** — 2,219 − 2,170 |
+| *She thought that **forty-five** days ago.* | the eighteenth of 2,144, where she stood at the frame | 2,161 | **fifty-eight days ago** — 2,219 − 2,161 |
+| *she said her own total out loud in this ground **sixty-two** days ago* | the fourteenth of 2,144 | 2,157 | **sixty-two days ago — it was already right and it is the proof the other two were not** |
+| *Her line went in on the fifteenth of the month beginning 2,114 and there have been **ninety-one** nights since that day* | the fifteenth of 2,114 | 2,128 | **ninety-one — right** |
+
+**The repair had converted a single *nine days* into three different figures and had not checked which day each one meant.**
+Forty-five is the answer to neither question: it is the interval from day 2,215, the day she walked back in, and it was applied
+to two sentences that are not about that day.
+
+### The referent the repair swapped without saying so
+
+**Ch 704's *I have had four days to work out what it is he was right about* now reads *I have had four days in this ground to work
+out what it is he was right about*.** The repair turned a *nine* into a *four* because four is the interval since she came back,
+and left the sentence reading as though it were about the boy's statement, which was made at the fifth of the month beginning 2,054
+— a hundred and sixty-one days back. The words *in this ground* put the referent back where it belongs.
+
+**The same sentence said *He was fifteen when he said it*, and that is now *nineteen*.** Ch 704's own lines 57, 65 and 81 and
+ch 699's line 93 all call him a boy of nineteen, four to one, and there is no canon anchor anywhere for fifteen. He is nineteen.
+
+### The division in ch 695 that did not come out
+
+**The passage had been carrying two answers that were two hours and twenty-four minutes apart and the whole rhetorical point of
+the passage is that they are one hour and twelve minutes apart.** Seventy-two out of twenty is three days and fourteen hours and
+twenty-four minutes; seventy-three out of twenty is three days and fifteen hours and thirty-six minutes; the gap between them is
+exactly one twentieth of a day, which is the thing she cannot find anybody to settle. **The page said three and a half days and
+about an hour and a half over, and three days and thirteen hours and twelve minutes.** Both are now in division and the sentence
+that draws the line is a plain one. **The line under it said the two numbers were *nine days* apart; they are one day apart, on
+the days, and an hour and twelve minutes apart on the figure.**
+
+### The map withdrawal, finished
+
+**The first pass withdrew twenty miles and left three sentences carrying a mile figure or a broken clause where it had been.**
+All three are fixed and the rule is now stated once and holds:
+
+- **`ch 700:11`** — *the sun coming up on her left over **three days of ground** and a broken wall at the end of it*. The
+  sentence had already been repaired on its other side and this was the same regime restated. It reads *over the whole of it*.
+- **`ch 700:29`** — *she had been on paid road for **nine miles of the thirteen and nine of them on the first***, which is the
+  find-and-replace having turned *nine days* into *nine miles* and left the tail of the sentence behind. It reads *the paid part
+  of that road is nine miles out of thirteen and she is standing at the end of the nine*.
+- **`ch 692:19`** — *and I have been **forty miles** from it*. Not on the list of twelve because it is phrased as distance from a
+  slate rather than as distance between two places, and it is the same error. It now reads *two days of road from it*, and the
+  **forty days** beside it is **thirty days**, which is what the first of the month beginning 2,144 is.
+
+**`ch 692:33`** — *she is thirty miles east of the wall* — was the one the first pass missed inside a chapter it did edit. It now
+reads *that store road is not the one she is standing on, and she is two days of road east of the wall*, which keeps the logic of
+the paragraph, which is that the slate-cart did not come down this road at all.
+
+### Two days of road, and where it may not be used
+
+**THE OPEN LEG IS THE ROWS TO THE TURN AND IT IS MEASURED IN DAYS. THE WALL TO THE TURN IS THIRTEEN MILES AND IT IS SETTLED, AND
+THE FIRST PASS HAD PUT THE DAY UNIT ON IT AS WELL, WHICH GAVE THE OPEN QUESTION A SECOND ANSWER.** Two sentences in ch 705 carried
+*two days of road* for the turn thirteen miles west of the wall, four lines under the sentence that says thirteen miles. Both now
+say **thirteen miles**, and **the day unit survives on twelve sentences in eight chapters, every one of them the rows leg or a
+leg measured off the rows — the eleventh is ch 703, where she is at the tower rather than at the rows, and the tower stands on
+the store road nine miles east of the turn, so the figure there is the rows leg rounded once.**
+
+**A drafting phase must be able to state the rule without looking it up:** *the wall to the turn is thirteen miles and may be
+stated in miles; the rows to the turn is two days of road and may not be given a mile figure; the ground to the wall is two miles
+of flat past the gate and may be.*
+
+### And the one the first pass should have caught
+
+**Ch 705 opened on *Ten days and a night went past in that ground*, against an arrival at the second hour of the twelfth of the
+month beginning 2,204 and a departure at the first hour of the twenty-seventh — fifteen days.** It is **fifteen days**, and the
+sentence that counts them now counts fifteen.
+
+### The three state defects
+
+**Every word figure this batch published was stale, and the same file published two answers at once.** The live figures are
+**29,240 words of body prose over fifteen chapters, average 1,949, and the volume at 88,074 over forty-five chapters, average
+1,957.** **29,202 and 1,947 were the pre-repair page; 29,212 and 1,947 were the page after the repair; none of the four is to be
+quoted.**
+
+**`thank` 0 was claimed three times for this batch and for the volume and it is 1** — `chapter-0702.md:43`, *she has not thanked
+him for that and is not going to*. **That is the sound of a thank declined, and the batch contains no thanking.** The Batch 0001
+and Batch 0002 claims of `thank` 0 are true and were left alone.
+
+**`state/INDEX.md` carried three lead-ins, two of them each claiming to be the live reading order, over a table that replaced
+neither.** It carries one now, and it says on its face that it has been corrected three times and that every earlier order in that
+section is history.
+
+### What this pass deliberately did not do
+
+**It did not settle how far the rows sit past the wall.** Four candidates still stand — thirteen and a bit, sixteen, seventeen and
+whatever the first pass's timing implies — and picking one is a decision about the map, not a repair. **It did not touch
+`outline/volume-12.md`, and it did not change what any chapter is about.** Two things were found and recorded rather than
+repaired, for the volume close: **`ch 692`'s *the slate has been up for eight days***, which depends on the slate's own cycle
+between the first and the twenty-fourth and cannot be checked without a model of that cycle this batch has not written down; and
+**the post with a keeper on it, which `ch 601:61` puts nine miles west of the turn and `ch 700` puts at the ninth mile of a walk
+from the wall, which is four miles from it** — the same Volume 11 inconsistency the first pass left standing.

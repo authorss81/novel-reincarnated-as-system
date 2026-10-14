@@ -16,13 +16,17 @@ So she had a figure with a hole in it, and a figure with a hole in it is the mos
 
 Here is the whole of what she could do in her head, and she did it standing at the frame on the sixth, out loud, twice.
 
-Day two thousand one hundred and forty-nine less day two thousand and seventy-seven is seventy-two. Seventy-two divided by twenty is three and a half days and about an hour and a half over that, because a fifth of seventy-two is fourteen and a fifth of seventy-two is three days and twelve hours.
+Day two thousand one hundred and forty-nine less day two thousand and seventy-seven is seventy-two. Seventy-two divided by twenty is three days and fourteen hours and twenty-four minutes.
 
-Counted the other way, with the first day as the first, it is seventy-three days, and seventy-three out of twenty is three days and thirteen hours and twelve minutes.
+Counted the other way, with the first day as the first, it is seventy-three days, and seventy-three out of twenty is three days and fifteen hours and thirty-six minutes.
+
+And one of those two answers is exactly one hour and twelve minutes more than the other one, and one hour and twelve minutes is one twentieth of a day.
+
+That is the whole of what is riding on it.
 
 And there is a third figure, which is the one she has been carrying since the fifteenth of the month beginning 2,114, and it is five hundred and eighty-nine days, and it is hers in a way the other two are not, because she has been lighter every single day for that long and not one of them has gone back.
 
-Three numbers about herself at one frame, and two of them are nine days apart by nothing at all but a convention, and there is not one person in this county to settle the convention.
+Three numbers about herself at one frame, and two of them are one day apart by nothing at all but a convention, and there is not one person in this county to settle the convention.
 
 ## The Sixth
 
