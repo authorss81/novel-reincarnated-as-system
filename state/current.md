@@ -4613,7 +4613,8 @@ BATCH 0004***. **`chapters/volume-10/` HOLDS CH 539–600, SIXTY-TWO CHAPTERS. D
   twenty-two miles east of the post and **nothing between the gate and the wall to lie down on** · **and beyond the
   opening, a made road running east, rows of barrows with a stone at the head of each, about two hundred people, no man
   over any of them, nobody paid, and not one person in nine years has come back out of it.**
-- **THE VOICE, named once at ch 600 and not explained.** Something in her head has counted with her for eight years, has
+- **THE VOICE, gone over on the page once at ch 600 and never explained, and not named anywhere in Volume 10.** Something in
+  her head has counted with her for eight years, has
   read out every figure anybody hands her before she has finished taking it in, and got a number wrong once and
   corrected itself in her head before she had finished being wrong. **It has never once said what it was before it
   started counting.** She has had the question since the month beginning 1,574 and has never put it anywhere.
@@ -4664,8 +4665,9 @@ Threads: `state/open-threads.md` under ***VOLUME 10 CLOSED***.
   interval. **Six stages past the ceiling. Nineteen years old.** Four fingers and a thumb on the right hand, the index
   gone · right arm open four days in five · eight of eleven holds · four counts of breath, seven on a rise and inside a
   loaded reach · a small open place low behind her fourth rib, the size of a coin, open since the eighteenth of the month
-  beginning 1,544, and the merit has not come out of it since ch 588. **212 days of being lighter every single day and
-  not one of them going back. Not hungry.**
+  beginning 1,544, and the merit has not come out of it since ch 588. **Being lighter every single day since that
+  eighteenth — that eighteenth is day 1,561, the count is inclusive of the first day, and the figure at any day D is
+  D − 1,560, which is 270 days of it at day 1,830, and not one of them going back. Not hungry.**
 - **The three costs, and what each one actually is on the page.** **She cannot be counted where she stands** (ch 556,
   named once, carried at ch 557 as a sum) · **she cannot follow a name she is given** (ch 572, named once, carried at
   ch 586) · **she cannot keep what she finds by holding it** (ch 588, named once, carried at ch 599, which is the hinge of
@@ -4708,7 +4710,8 @@ Threads: `state/open-threads.md` under ***VOLUME 10 CLOSED***.
   **ONE THING VOLUME 11 MUST NOT TAKE AS SETTLED:** ch 560 places the lane four miles west of the turn and thirteen miles
   from the post in three consecutive sentences that cannot all be true, and ch 585 and ch 600 both list the lane as four
   miles west. **The close recorded the conflict and did not choose a map.**
-- **THE VOICE, named once at ch 600 and not explained.** Something in her head has counted with her for eight years, has
+- **THE VOICE, gone over on the page once at ch 600 and never explained, and not named anywhere in Volume 10.** Something in
+  her head has counted with her for eight years, has
   read out every figure anybody hands her before she has finished taking it in, and got a number wrong once and
   corrected itself in her head before she had finished being wrong. **It has never once said what it was before it started
   counting.** She has had the question since the month beginning 1,574 and has never put it anywhere. **She does not ask
@@ -4777,3 +4780,34 @@ created.**
   miles from the post* is not held.
 - **Live position unchanged:** day 1,830 at the turn at dusk; `## Who is where at end of Volume 10` above remains
   the position Batch 0001 drafts from.
+
+## Volume 11 planning — REVIEW REPAIR applied (no prose, no plan moved)
+
+**Six findings from the `next-0009` review closed in place. `outline/volume-11.md`, the four batch cards and
+`workspace/volume-11-batch-0001/PROMPT.md` keep the volume they planned; the goal, the range, the three stages at ch 616 ·
+632 · 648, the five origin mouths at 608 · 622 · 636 · 640 · 652, the seventh frame scene at ch 644, Feng at ch 652–655
+and the staying at ch 658 are all where they were.** Full record: `state/continuity.md` under ***Volume 11 planning REVIEW
+— REPAIR***.
+
+- **Aperture date:** `outline/volume-11.md` read 1,274 in one place and 1,544 in another. **Canon is 1,544**, on twenty-two
+  Volume 10 chapter pages and at `state/current.md:4666`. The 1,274 at `state/current.md:739` is a Volume 8 close snapshot
+  and stays as the historical record.
+- **Origin answer:** the resolution line listed eight chapters for five mouths. **Five mouths, ch 608 · 622 · 636 · 640 ·
+  652**, and the three non-mouth beats (630 the asking given a harvest, 644 the seventh frame scene, 654 and 657 the
+  writing and the reading) are relabelled rather than deleted. **652 is Feng and it is the mouth.**
+- **Costs:** the Batch 0001 prompt said *six* Volume 10 costs. **Three** — cannot be counted where she stands · cannot
+  follow a name she is given · cannot keep what she finds by holding it — and they are now written out so no four more are
+  invented.
+- **The voice:** never named in Volume 10. ch 600 goes over it once in her own reckoning and that is all it does.
+- **No figure of what is left of him:** the rule stands and is now scoped. **Ch 338's *unnamed* and ch 471's *two refusals*
+  stand on the page; neither is a figure of how much of him is left; Volume 11 states none and restates none.**
+- **The weight-loss count: 212 is out, the rule is in.** **The eighteenth of the month beginning 1,544 is day 1,561, the
+  count is inclusive of the first day, and the figure at any day D is D − 1,560 — 270 at day 1,830, 271 at day 1,831.** 212
+  was right on ch 588's own day, 1,772, and was carried fifty-eight days forward into the Volume 10 close and the Volume 11
+  outline. Corrected in `state/current.md`, `state/continuity.md`, `state/open-threads.md`, both outline mentions and the
+  Batch 0001 prompt.
+- **Also:** `state/chapter-summaries.md` listed ch 472 as a frame scene. It is **ch 458**; the standing list is **272 · 338 ·
+  401 · 458 · 518 · 584**.
+
+**`workspace/volume-11-batch-0001/PROMPT.md` remains the one next phase and was edited in place, not re-dispatched. No new
+phase directory, no `.done` marker.**

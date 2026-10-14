@@ -6254,7 +6254,9 @@ dusk with a bar on her shoulder, a bag, and a brother nine miles further east wa
 **Severance 6**, six stages past the ceiling, **nineteen years old**. Four fingers and a thumb on the right hand · the
 right arm open four days in five · eight of eleven holds · four counts of breath, seven on a rise · a small open place
 low behind her fourth rib, the size of a coin, open since the eighteenth of the month beginning 1,544, and the merit has
-not come out of it since ch 588. **212 days of being lighter every single day, no day of it going back. Not hungry.**
+not come out of it since ch 588. **Being lighter every single day since the eighteenth of the month beginning
+1,544 — that eighteenth is day 1,561, the count is inclusive of the first day, and the figure at any day D is
+D − 1,560, which is 270 days of it at day 1,830. Not hungry.**
 
 **She has lost, in the order the volume took it:** being counted where she stands · following where she is told ·
 keeping what she finds by holding it. **Three questions stand in a shut book and there is no fourth and no book in the
@@ -6351,3 +6353,44 @@ and the Volume 10 close's recorded findings (lane conflict chosen; Shuyin-thanks
 re-argued). **Pinned days re-derived under `((day − 134) mod 30) + 1`: 1,842 → 29th of 1,814; 1,917 → 14th of
 1,904; 1,997 → 4th of 1,994; intervals 70 · 75 · 80 from Severance 6 at 1,772.** No canon changed; one flagged
 allowance created (`Scribe` at most 3 as fragment-source only). No chapters opened, no figures altered.
+
+---
+
+### Volume 11 planning REVIEW — REPAIR (next-0009 review, six findings)
+
+**The planning run wrote `outline/volume-11.md`, four batch cards and one next-phase prompt. No chapter prose exists
+for Volume 11, so every finding is a line in a plan or a line in a state record, and all six are closed in the file
+that owns them. No day, no chapter, no mouth, no stage, no cost, no bracket, no irreversible step and no planned
+event moved. `outline/series.md` §9, `outline/ending.md` §1 and §8, the Volume 10 question and the Volume 10 close
+position are all untouched.**
+
+| # | Where | Was | Now | The derivation |
+| --- | --- | --- | --- | --- |
+| 1 | `outline/volume-11.md`, *Where she is at the last page* | the open place behind her fourth rib open *since the eighteenth of the month beginning **1,274***, in a file whose own starting-state block said **1,544** | **1,544** | **1,274 was copied from the stale Volume 8 snapshot at `state/current.md:739` and is contradicted by twenty-two Volume 10 chapters that say 1,544 on the page** (ch 545 · 547 · 553 · 555 · 556 · 568 · 569 · 571 · 575 · 576 · 578 · 580 · 583 · 584 · 585 · 586 · 587 and others). **Canon is 1,544, and 1,544 is the eighteenth of the month beginning that the Volume 9 and Volume 10 pages both carry.** The four older state blocks that still say 1,274 — `state/current.md:739` (the Volume 8 close), `:3661` (Volume 9 Batch 0002), `:3747` (Batch 0003) and `:3871` (Batch 0004) — are **close records of what was believed when each was written and are left exactly as they were**, which is this repo's convention for a superseded historical block. **Every one of them is superseded by 1,544, and no card may draft an aperture date off any of them** |
+| 2 | `outline/volume-11.md`, *Concrete resolution* | **The origin answer paid (ch 608, 622, 630, 636, 640, 644, 654, 657): five mouths, five new people** | **The origin answer paid in five mouths (ch 608, 622, 636, 640 and 652)** — five mouths, five new people — **and it lands (ch 630)**, **and it is written and read (ch 644, 654, 657)** | **The line listed eight chapters for five mouths, omitted ch 652 (Feng, the only Batch 0004 mouth and the only mouth written down on the page) and included four chapters that are not mouths (630 the batch midpoint, 644 the seventh frame scene, 654 the writing, 657 the learning).** The mouth table at §*The origin answer* and `outline/batches/volume-11-batch-0004.md` both give 608 · 622 · 636 · 640 · 652. **The three non-mouth beats are kept and relabelled, not deleted** |
+| 3 | `workspace/volume-11-batch-0001/PROMPT.md`, *Continuity* | **The six Volume 10 costs** and the three Volume 9 costs | **The three Volume 10 costs** — she cannot be counted where she stands · she cannot follow a name she is given · she cannot keep what she finds by holding it — **and the three Volume 9 costs** | Volume 10 named **three**, at ch 556 · ch 572 · ch 588. **The three are now written out, because a drafter told to carry six costs of an unspecified kind would invent four** |
+| 4 | `outline/volume-11.md` and `state/current.md` (twice) | **The voice, named once at ch 600 and not explained** / **THE VOICE, named once at ch 600 and not explained** | **The voice, gone over on the page once at ch 600 and never explained, and not named anywhere in Volume 10** / **THE VOICE, gone over on the page once at ch 600 and never explained, and not named anywhere in Volume 10** | **ch 600 contains no name for the voice, and the same outline says at line 220 that `Yuan` is not named anywhere in Volume 10.** What ch 600 does is go over the voice once in her own reckoning and list the three dates she did not ask it at. The old wording could be read as *he was given a name* and would have been copied by Batch 0004. **The not-explained half was correct and is kept; only the named half is reworded** |
+| 5 | `outline/volume-11.md`, *What Volume 11 may assume* | **No figure of what is left of him has been stated on any page since ch 236** and none is stated in Volume 11 | **No figure of what is left of him is stated in Volume 11** — no quantity of him, no count of what he has, no figure of how long he has, in her hearing or out of it — **with the rule scoped: the last figure of how much of him is left is *about six weeks* at ch 236, and the two later statements of what he has left are ch 338's *unnamed* and ch 471's *two refusals*. Both stand. Volume 11 restates neither, counts neither, and answers neither** | **The historical claim was false. `chapters/volume-08/chapter-0471.md:115,117` publishes *He has two of them left in him* and *That is what he has left*, and `chapters/volume-06/chapter-0338.md:81-85` is a whole section headed *What Is Left Of Him* opening *There is one thing*, both after ch 236.** The Volume 11 ban itself is sound and is unchanged — Volume 11 states no such figure — but it now says what it bans instead of misreporting the manuscript's history. **The two Volume 8 statements are not contradicted and not repaired on the page: they are what they are, and a reviewer who finds them in Volume 8 finds them as the page has stood for six volumes** |
+| 6 | `outline/volume-11.md` (twice), `state/current.md`, `state/continuity.md`, `state/open-threads.md` | **212 days of being lighter every single day** stated at day 1,830, and **Volume 11 may rely on 212 and on nothing else** | **The eighteenth of the month beginning 1,544 is day 1,561, the count is inclusive of the first day, and the figure at any day D is D − 1,560 — 270 days of it at day 1,830, 271 at day 1,831** | **212 was correct on the day it was written, day 1,772, and was copied forward.** ch 588 says *the two hundred and twelfth day of it*; 1,772 − 1,561 = 211 elapsed, 212 inclusive, which is the convention the Volume 10 Batch 0004 repair table records at `state/continuity.md:5591`. At day 1,830 it is 1,830 − 1,561 + 1 = **270**. **A rule was put in place of a number, so no later chapter has to be corrected again when the day moves** |
+
+**Two standing notes for Volume 11's first batch, both paid for here:**
+
+- **A month beginning is a day number, not a month-start to be added to the day.** Under `((day − 134) mod 30) + 1`
+  every month-beginning label is itself a day and the day-of-month is `D − M + 1`, so **the eighteenth of the month
+  beginning 1,544 is day 1,561**, and the review's own reading of that date as a day in the 1,600s was one month out
+  by thirty. **The labels all satisfy `M ≡ 134 (mod 30)`, which is why both routes give the same answer**: 1,814 at day
+  1,830, 1,754 at day 1,772, 1,784 at day 1,802, 1,544 at day 1,561.
+- **A figure that counts a run belongs to the day it was written and to no other day.** ch 588's 212 and ch 597's
+  thirteen miles were both correct where they stood. The damage came from carrying them forward, and Volume 10 paid for
+  that twice before this volume opened. **Derive, do not inherit.**
+
+**One pre-existing state error also closed here.** `state/chapter-summaries.md:1015` (the Volume 9 close block) listed
+the frame scenes as **ch 272, ch 338, ch 401, ch 472 and ch 518**. **ch 472 is her POV — *What A Form Is*, opening *She
+worked it out on the twenty-ninth at the sixth hour* — and the fourth frame scene is ch 458, *Nobody Named On The List*,
+his, inside the layer.** Corrected to 458. The standing list is now **ch 272 · ch 338 · ch 401 · ch 458 · ch 518 · ch 584**,
+which is what `outline/volume-11.md` already held, and `outline/volume-11.md:108` is therefore confirmed correct and
+left alone.
+
+**No repair prompt was created. No `.done` marker, no `workspace/volume-11-batch-0002/` and no second phase directory.
+The one next phase remains `workspace/volume-11-batch-0001/PROMPT.md`, which this repair edited in place and did not
+re-dispatch.**

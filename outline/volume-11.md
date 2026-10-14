@@ -69,9 +69,11 @@ of Volume 10*.
 **SEVERANCE 6**, six stages past the ceiling. **Nineteen years old.** Four fingers and a thumb, the index gone.
 Right arm open four days in five. Eight of eleven holds. Four counts of breath, seven on a rise and inside a
 loaded reach. The small open place low behind her fourth rib, the size of a coin, open since the eighteenth of
-the month beginning 1,274. **212 days of being lighter every single day and not one of them going back. Not
-hungry.** Three questions standing in a shut book and no book to put a fourth into. The lever rubbed out and not
-written again. The brother alive east and unforgiving. **The voice, named once at ch 600 and not explained.**
+the month beginning 1,544. **Being lighter every single day since that eighteenth and not one of them going
+back — 270 days of it at day 1,830, the first day counted as the first, so the figure at any day D is D − 1,560.
+Not hungry.** Three questions standing in a shut book and no book to put a fourth into. The lever rubbed out and not
+written again. The brother alive east and unforgiving. **The voice, gone over on the page once at ch 600 and never
+explained, and not named anywhere in Volume 10.**
 
 ## What the volume must not be
 
@@ -101,7 +103,11 @@ and do not re-derive either.**
   none in Volume 11 either.
 - **His silence with her is over.** It broke at ch 520 and he spoke again at ch 538 and once more at ch 596.
   **Volume 11 does not re-count any silence and no card publishes another run figure.**
-- **No figure of what is left of him has been stated on any page since ch 236 and none is stated in Volume 11.**
+- **No figure of what is left of him is stated in Volume 11** — no quantity of him, no count of what he has, no
+  figure of how long he has, in her hearing or out of it. **The rule is scoped, and the scope is this: the last
+  figure of how much of him is left is *about six weeks* at ch 236, and the two later statements of what he has
+  left are ch 338's *unnamed* and ch 471's *two refusals*. Both stand. Volume 11 restates neither, counts neither,
+  and answers neither.**
 - **His name before he died was Yuan Sheng. He hated it** (`bible/characters.md`). **She does not know this yet
   and no page of Volume 10 has it on it.**
 - **He has been on the page in his own right, away from her hearing, exactly six times in ten volumes: ch 272,
@@ -184,8 +190,9 @@ and asking him is kept by neither of them.**
 - **Body.** Short breath **four counts everywhere, seven on a rise and inside a loaded reach**, permanent.
   **The right index finger is gone, permanently.** The right arm open four days in five. **Eight of eleven
   holds.** The aperture cracked through and permanent. **The small open place low behind her fourth rib, the size
-  of a coin, open since the eighteenth of the month beginning 1,544.** **212 days of being lighter every single
-  day and not one going back.** Not hungry, and that is finished. **Nineteen years old.**
+  of a coin, open since the eighteenth of the month beginning 1,544, which is day 1,561.** **Being lighter every
+  single day since that eighteenth and not one going back — 270 days of it at day 1,830, and the figure at any day
+  D is D − 1,560, the first day counted as the first.** Not hungry, and that is finished. **Nineteen years old.**
 - **What she is at the last page, as fourteen costs, each named once in its own volume and none of them
   re-derived here:** the furnace will not light itself · the hand cannot write a false line · a thing she
   reaches cannot be put back · she cannot be given anything · she cannot be paid · the reach answers a question
@@ -595,9 +602,11 @@ down announcements. The only person in Volume 1 who believed her.
   **155 days from the seventh to the ninth and 225 from Severance 6**, with real intervals of 70, 75 and 80
   days, **real months, no skipped breakthrough, no tribulation, no stage announced by anything but the layer's
   one sentence going into the ground.**
-- **The origin answer paid (ch 608, 622, 630, 636, 640, 644, 654, 657):** five mouths, five new people, five
-  different statements, three to seven sentences each, never as one speech; the seventh frame scene; Feng's fair
-  writing; and her reading. **The tax was designed as recruitment. He was never a bug. He is a product.** The
+- **The origin answer paid in five mouths (ch 608, 622, 636, 640 and 652):** five mouths, five new people, five
+  different statements, three to seven sentences each, never as one speech — **652 is Feng, the only Batch 0004
+  mouth and the only one written down on the page.** **And it lands (ch 630):** the harvest given to the asking.
+  **And it is written and read (ch 644, 654, 657):** the seventh frame scene, Feng's fair writing, and her
+  reading. **The tax was designed as recruitment. He was never a bug. He is a product.** The
   moral answer is **not** paid and nothing proves the crews wrong.
 - **What she has broken:** the assumption that counting with someone is knowing them. **At ch 609 she asks out
   loud because no one in any book can ask for her, and at ch 630 the asking is given a harvest.**

@@ -2375,8 +2375,10 @@ irreversible decision moved.** Full record in `state/continuity.md` under *Volum
     hundred and thirty-something day* of the run on which she has been lighter every day since the eighteenth of the month
     beginning 1,544. **The eighteenth of that month is day 1,561 and ch 588 runs on day 1,772, so it is the two hundred and
     twelfth day.** It was the only statement of its kind in six hundred chapters and nothing supported it. **Volume 11 may
-    rely on 212 and on nothing else** — she has been lighter every single day since day 1,561 without one day of it going
-    back.
+    rely on the start date and on the rule and on no standing figure at all** — the eighteenth of the month beginning 1,544
+    is day 1,561, the count is inclusive of the first day, and the figure at any day D is **D − 1,560**. *212 was ch 588's own
+    count at day 1,772 and is true of that day only; it is not a property of the run and it must not be carried into any later
+    day.* **Corrected at the Volume 11 planning review: the Volume 10 close had copied 212 onto day 1,830, where it is 270.**
 26. **The wall-to-turn distance is thirteen miles and nothing in the volume says otherwise.** ch 597's third-night tally
     published *Sixteen miles to the turn*, which exceeded the whole road, and now reads **Thirteen miles, wall to the turn**,
     matching the same chapter's own first line and `state/current.md`'s geography block. **Thirteen is the fixed figure for
@@ -2548,3 +2550,39 @@ unnamed before ch 617 · six blank leaves blank through Batch 0001.
 **Batch 0001 (ch 601–615, days 1,831–1,841) inherits:** the asking unasked · nine uncountable coppers · the lever
 carried · *twenty-two days* open · window/lime/hut light untouched · Hunter/Shuyin/Feng off the page · Wei Ran
 once · Ning Wu walked past once at ch 605.
+
+---
+
+## VOLUME 11 PLANNING — REVIEW REPAIR (six findings, no prose, no plan moved)
+
+**All six findings from the `next-0009` review are closed in the file that owns them. Nothing about the planned plot
+changed: same goal, same 601–660 range, same four batches, same five origin mouths, same three stages at ch 616 · 632 ·
+648, same seventh frame scene at ch 644, same Feng dying at ch 655, same staying at ch 658.** Full record:
+`state/continuity.md` under ***Volume 11 planning REVIEW — REPAIR***.
+
+**Three of the six were one-line corrections** (the aperture date at `outline/volume-11.md` read 1,274 against canon's
+1,544 · the resolution line listed eight chapters for five mouths and dropped ch 652, Feng's · the Batch 0001 prompt said
+*six* Volume 10 costs where Volume 10 named **three**).
+
+**Three needed a decision rather than a typo.** *The voice* is no longer said to be *named* at ch 600 — it is never
+named anywhere in Volume 10, and ch 600 only goes over it once in her own reckoning. **The no-figure-of-what-is-left-of-him
+rule is now scoped instead of misreporting history**: ch 338 (*unnamed*) and ch 471 (*two refusals*) both stand on the
+page and neither is a *figure of how much of him is left*, and Volume 11 bans the figure without claiming it has never
+been written. **And the weight-loss count is now a rule, not a number.**
+
+**The count is the one Batch 0001 would have printed wrong.** It has stood at **212** since ch 588, which is correct for
+day 1,772 (1,772 − 1,561 + 1, inclusive of the first day) and **58 days short of day 1,830**, which is where the Volume
+10 close and the Volume 11 outline both carried it. **Standing instruction: the eighteenth of the month beginning 1,544
+is day 1,561, the count is inclusive of the first day, and the figure at any day D is D − 1,560.** 270 at day 1,830 ·271
+at day 1,831. **A figure that counts a run belongs to the day it was written. Derive it; do not inherit it.**
+
+**Batch 0001 (ch 601–615) inherits, unchanged:** the asking unasked · nine uncountable coppers · the lever carried ·
+*twenty-two days* open · window/lime/hut light untouched · Hunter/Shuyin/Feng off the page · Wei Ran once · Ning Wu
+walked past once at ch 605 · **and now the D − 1,560 rule, and the three named Volume 10 costs instead of a wrong count.**
+
+**Also closed here, pre-existing:** `state/chapter-summaries.md` listed ch 472 among the frame scenes. **The fourth frame
+scene is ch 458, *Nobody Named On The List*; ch 472 is her POV.** The standing list is **272 · 338 · 401 · 458 · 518 ·
+584**.
+
+**No repair prompt, no `.done` marker, no new phase directory.** `workspace/volume-11-batch-0001/PROMPT.md` was edited in
+place and remains the one next phase.

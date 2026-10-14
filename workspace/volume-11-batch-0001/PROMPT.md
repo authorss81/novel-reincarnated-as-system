@@ -93,8 +93,11 @@ counting, out loud, alone, at dusk, and it cannot be un-asked.**
 
 **Physical risk or real deadline, pinned:** **eleven days from day 1,831 to day 1,841, against nine coppers that
 will not count and a turn with nothing on its board, on a body that has been lighter every day since day 1,561**
-— plus the standing one, carried and never re-derived: **no place to lie down between the gate and the wall,
-and no shed at the turn.**
+— **the eighteenth of the month beginning 1,544 is day 1,561, the count is inclusive of the first day, and the
+figure at any day D is D − 1,560: 271 days of it on day 1,831. If a chapter states a count of it, derive that
+count from the day the chapter is on and never carry a number down from an earlier chapter.** Plus the standing
+one, carried and never re-derived: **no place to lie down between the gate and the wall, and no shed at the
+turn.**
 
 **What she has to work with:** a bar nine feet nine, one good arm, nine uncountable coppers, a book of eight
 leaves with six blank ones, a nib and ink unused two months, a brother walking west, a woman with a team, a
@@ -137,8 +140,9 @@ the furnace will use. **The tenth part is not given and nothing proves the crews
 ## Continuity this batch may not break
 
 - **Severance 6 throughout; no stage, no bracket and nothing in square brackets anywhere in fifteen chapters.**
-  The six Volume 10 costs and the three Volume 9 costs are carried as facts and shown, never re-derived. **No
-  Volume 11 cost is named in this batch.**
+  The three Volume 10 costs (she cannot be counted where she stands, she cannot follow a name she is given, she
+  cannot keep what she finds by holding it) and the three Volume 9 costs are carried as facts and shown, never
+  re-derived. **No Volume 11 cost is named in this batch.**
 - **The terms, once named at ch 609, do not move.** One at a time · in daylight. **No card has her asking two
   at once**, and the lever — asking twice — is not pulled anywhere in this batch except as a thing she carries
   and then declines.

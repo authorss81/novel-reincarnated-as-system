@@ -1012,7 +1012,7 @@ unrecorded.* **She survives.** Full record at `workspace/volume-09-close/SUMMARY
   term, and carried inside her coat against the open place behind her fourth rib for the rest of the volume.
 - **The four irreversible steps**: ch 488 she opens it · ch 502 she lets him copy it · ch 518 she tells him to open the
   wall · ch 535 she reads her own four sentences back and refuses kept.
-- **The frame scenes**: ch 272, ch 338, ch 401, ch 472 and **ch 518, the fifth and the first one about a door rather
+- **The frame scenes**: ch 272, ch 338, ch 401, ch 458 and **ch 518, the fifth and the first one about a door rather
   than about being found, being sent for, being asked or being spent.**
 - **The five structural mouths**: ch 484 the woman at the store · ch 497 the man of fifty who carries boards · ch 505
   the keeper with the paste pot · ch 514 the boy of fifteen at the chain · ch 531 **Shuyin**.
