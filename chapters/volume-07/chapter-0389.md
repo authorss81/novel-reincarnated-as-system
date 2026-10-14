@@ -1,6 +1,6 @@
 # Fifteen Coppers And No Bread
 
-Ten coppers in the fold in the inside of the door frame at the end of a month, and eleven on the first of the next one.
+Ten coppers in the fold in the inside of the door frame at the end of the month before this one, and eleven on its first.
 
 Thirty-six days at the gate after that, at a copper a day, which is thirty-six coppers, and four trips west to the store at eight, which is thirty-two.
 
@@ -38,7 +38,7 @@ At about half past the fifth the woman put her pencil down flat on the page and 
 
 “No.”
 
-“It is warm under your hand,” Rao said, “and it has been cold at this end of this table every day since before I came on it. I am fifty-one and I have been cold at that end of that table for thirty-four years and there has never been a woman at it before.”
+“It is warm under your hand,” Rao said, “and it has been cold at this end of this table every day since before I came on it. I am forty-five and I have stood at this end of this table every day of sixteen years, and there has never been a woman at it before.”
 
 She picked the pencil up.
 
@@ -50,7 +50,7 @@ She did not talk about it.
 
 She walked five miles west at the sixth hour on the sixth of a month and stood in a shop with fifteen coppers in the fold and looked at four loaves at two coppers and then walked out of it and five miles back, and she was in the shed at the ninth hour with a lump out of the box going in at the low end of the ring.
 
-She has eight coppers and four loaves in her. She has had them since the thirtieth. She is going back in the morning because on the eighth of a month there is a bundle to go up nine steps and round a turn in a landing, and there is a woman at the far end of a table who reads all day and does not eat at the hour she reads.
+She has fifteen coppers in the fold in the inside of the door frame and no bread in the shed. She had ten of them on the thirtieth of the month before and stood in that shop and bought nothing at all, which she has done twice in seven months. She is going back in the morning because on the eighth of a month there is a bundle to go up nine steps and round a turn in a landing, and there is a woman at the far end of a table who reads all day and does not eat at the hour she reads.
 
 It came up the width of a finger and stopped there.
 
@@ -64,7 +64,7 @@ She is eighteen years old and her hands are warm in one room on nine days of roa
 
 She is at the third floor about four times a month. On the sixth she was warm from the fourth hour to the sixth. On the road down, at two hundred yards past the counting house, they went cold, and she stood there for a minute working out that they went cold at the same place every time, which is a hundred yards short of the gate at a post she walks past four times a month and has not once spoken to.
 
-And she got a fire in a shed at a mill on the first of a month, once, out of fifty-two days, with a man’s hand flat on the floor of a low building, and she has not had one since.
+And she has had two fires come up since the second of a month: one in her own shed at the third hour, and she used it to hold a bar off herself with four pieces of heavy stone on it and nine men on a bank above her, and one on the floor of a low building at the sixth hour on the first of a month with a man’s hand flat on the floor of it. She has not had one since the first.
 
 What she wanted, for eleven days in the middle of that month, was to know whether a day and a half of cold hands on the twenty-fifth of a month was the price of a ditch or the beginning of something, and she could not have asked anybody on nine days of road, and it was neither. It was one afternoon.
 
@@ -78,7 +78,7 @@ And in one of those books there is now a line that was not there on the last fir
 
 She wrote it out on the boards with the flat of her second finger and got the same answer both times.
 
-Two words at the left of it, in the ordinary hand, in a hand a man with a brush can read.
+Her name at the left of it, in the ordinary hand, in a hand a man with a brush can read.
 
 He has never been able to read the fine hand. He has been eleven years on that floor and he has looked, and he has told her so himself, and nobody in that building can read it.
 
@@ -102,7 +102,7 @@ And the woman in the office end at the yard has not asked her name once in two m
 
 That is the whole of what is different. One woman knows her name.
 
-One stair book on the top floor of one building has two words in it at the left of the twenty-eighth of a month, and a man with a brush is going to copy them out on the ninth. And she is going to stand in a gateway at a post a hundred yards past the counting house one morning in that week, and watch the cart go up the mill road past the elms.
+One stair book on the top floor of one building has her name in it at the left of the twenty-eighth of a month, and a man with a brush is going to copy it out on the ninth. And she is going to stand in a gateway at a post a hundred yards past the counting house one morning in that week, and watch the cart go up the mill road past the elms.
 
 She cannot un-ask it. She worked that out on the seventh at the second hour and she wrote it on the boards and got the same answer twice, and it is the first thing she has ever put into a room that she cannot get out of again, and she got it by asking for it out loud in the ordinary voice, and it is exactly what she wanted and it is the worst thing that has happened to her in seven months.
 

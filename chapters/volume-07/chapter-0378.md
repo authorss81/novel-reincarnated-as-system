@@ -1,10 +1,10 @@
 # The Hand On The Ground
 
-She worked the gate four days and went to the counting house on the first of a month before the light came up, and she had been at the counter by the sixth hour with eleven coppers in the fold in the inside of the door frame and nothing in her hands.
+She worked the gate on every day from the twenty-first to the first and went to the counting house on the first of a month before the light came up, and she had been at the counter by the sixth hour with three coppers in the fold in the inside of the door frame and nothing in her hands.
 
-That was the sum of the twenty-seventh, twenty-eighth, twenty-ninth and thirtieth, and the first: four days at the gate since the twentieth, ten coppers at the thirtieth and eleven on the first.
+That was the sum of the twenty-first to the first: eight coppers in eight days to the twenty-eighth, eight of them gone west at a store five miles off, and three more off the twenty-ninth, the thirtieth and the first, and that was all of it.
 
-She had eaten the last of what she bought on the twentieth and had gone to the store on the twenty-eighth with eight coppers and had bread for five days, and she had a fifth of a sack of clay in a barrow at the shed and four barrow-loads against the wall and a ring in the corner of it that had come up at a finger’s width every morning for eighteen days.
+She had eaten the last of what she bought on the twentieth and had gone to the store on the twenty-eighth with eight coppers and had bread for five days, and she had a fifth of a sack of clay in a barrow at the shed and five barrow-loads against the wall and a ring in the corner of it that had come up a finger’s width and stopped every morning she put a lump in it since the third of a month.
 
 She had not worked out one sentence to say.
 
@@ -112,8 +112,8 @@ It came up a finger’s width and stopped.
 
 She did it six times over an hour and a half, and it came up a finger’s width and stopped every one of the six, and it was the same fire it had been at the fourth hour that morning.
 
-She lay down on the boards four feet off it and put her hands out in front of her and they were cold. The ring was cold at the back and cold at the mouth, and the shed was the same cold shed it had been for eighteen days, on a day when a man had been standing in a room with her in it for a minute and a half.
+She lay down on the boards four feet off it and put her hands out in front of her and they were cold. The ring was cold at the back and cold at the mouth, and the shed was the same cold shed it had been for a month, on a day when a man had been standing in a room with her in it for a minute and a half.
 
 Six months of this, and every true thing she had said had gone into a book, and the first true thing she had said since a strip went east in a cart on the first of a month had gone into no book at all, because the only person who had heard it was a man with a burn on his hand who had a mile and a half of road to walk.
 
-That was the bill for the eighteen days, and it was on a man she had owed nothing to and had not asked, and she had watched his hand come up in blisters for three seconds and had said the word yes out loud in a room with nine men in it and had not said the four words before it.
+That was the bill for a month, and it was on a man she had owed nothing to and had not asked, and she had watched his hand come up in blisters for three seconds and had said the word yes out loud in a room with nine men in it and had not said the four words before it.

@@ -1,6 +1,6 @@
-# What Her Hand Would Not Do
+# The Ordinary Hand
 
-The ground on the low side of that gate had gone soft since the twentieth of a month and she lost about half a copper a day off the twelfth of the month beginning 914, and she found it back inside three days.
+The ground on the low side of that gate had gone soft since the twentieth of a month and she lost about half a copper a day off the twelfth, and she found it back inside three days.
 
 Here is how.
 
@@ -14,7 +14,7 @@ She worked it out at the gate on the twelfth at the ninth hour with a bar in her
 
 That is the same copper and it is two hours instead of two and a half.
 
-## The Third Of A Month
+## The Thirteenth
 
 The thirteenth, at the third hour, with her strip in her left hand, because going up that stair with something in her hands had been the arrangement for a week and she was not going to break it now.
 
@@ -124,8 +124,8 @@ She walked down the mill road at the fifth hour with her strip in her left hand 
 
 It came up a finger’s width and stopped.
 
-She did it four times in an hour and it stopped at the same place every one of the four, and it was the same fire it had been on the eleventh, and she did not do it a fifth time because she had a number.
+She did it four times in an hour and it stopped at the same place every one of the four, and it was the same finger’s width it had been that morning, and she did not do it a fifth time because she had a number.
 
-Thirty-one days.
+Forty-one days without a second living thing in that shed.
 
-She has had one fire in fifty-two days come up, and it came up in a low building at the sixth hour on the first of a month with a man’s hand flat on the floor of it.
+And in all of them the fire has come up twice. One came up in her own shed at the third hour on the second of a month, and she used it to hold a bar off herself with four pieces of heavy stone on it and nine men on a bank above her. The other came up on the floor of a low building at the sixth hour on the first of a month, with a man’s hand flat on the floor of it.

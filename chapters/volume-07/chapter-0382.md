@@ -98,7 +98,7 @@ And then she said, with the pencil still moving: “You will come up at the sixt
 
 ## The Tenth Of A Month
 
-She did the gate on the tenth at three and a half feet. It came up easy. She put the clay in the barrow and carried it out and put it against the wall, and there are five barrow-loads against that wall now and a sixth standing on its handles.
+She did the gate on the tenth at three and a half feet. It came up easy. She put the clay in the barrow and carried it out and put it against the wall, and there are six barrow-loads against that wall now and a seventh standing on its handles.
 
 She slept three hours on the ninth and two on the tenth, and both nights she got up at the fourth hour out of a habit that had stopped having anything behind it about three weeks before, and both times there was no fire, because there is not a living thing in that shed but her, and there has not been since the third of a month.
 

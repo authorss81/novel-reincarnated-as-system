@@ -80,9 +80,9 @@ He said, “I did not say anything.”
 
 She sat on the bank for ten minutes.
 
-Then she got back down into the cut with the left hand and went back about fifteen yards and started again on the face that had come in, and she did the last hundred and sixty yards of that ditch alone over about five hours with her right arm hanging against her side and her left hand doing the whole of it.
+Then she got back down into the cut with the left hand and went back about fifteen yards and started again on the face that had come in, and she did the last sixty yards of her own two hundred alone over about five hours with her right arm hanging against her side and her left hand doing the whole of it.
 
-She got the foot up right the first time on every one of the hundred and sixty, and she put every length of it on the bank, and there was nothing in a barrow about it and no barrow on that ground.
+She got the foot up right the first time on every one of the last sixty, and she put every length of it on the bank, and there was nothing in a barrow about it and no barrow on that ground.
 
 She came out of the cut at the fourth hour on the twenty-second, and the man with the rule in his hand was standing at the top of the north end with the rule in his pocket and his arms folded.
 

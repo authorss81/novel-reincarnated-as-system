@@ -4,7 +4,7 @@ The fire did not come up on the seventeenth of a month either, and that made fou
 
 She lay on the boards in the dark until the light came up over the flat, and then she went and crouched at the low end of the ring with her hand four inches off the brick, and nothing came up, and she did it for a quarter of an hour before she went out.
 
-There is a way of standing in a gateway with an iron in your hand that takes about two and a half hours, and she had got good at it in fourteen days, and the only thing she had got out of it was one copper.
+There is a way of standing in a gateway with an iron in your hand that takes about two and a half hours, and she had got good at it in a fortnight, and the only thing she had got out of it was one copper.
 
 ## What She Had In The Fold
 
@@ -112,4 +112,8 @@ She put the clay in that night anyway, because there is nothing else to do with 
 
 It came up a finger’s width at the low end and sat there and did not go against the brick and stood nine feet high, and the shed was cold at the back and cold at the door and cold in her hands.
 
-She watched it for about as long as it takes to fill a barrow and then she went to bed.
+She watched it for about as long as it takes to fill a barrow, and then she stopped watching it, because there was no second living thing in that shed and there was not going to be one before the light came up.
+
+She lay down in her coat with her boots on, because the store was five miles off and she had five coppers in the fold and three days to get eight.
+
+On that morning there would be a cart standing in a gateway on a made road east with a man in it and a paste pot and a rag, and she would be in that gateway at the sixth hour with nothing at all in her hands, and she had never once spoken to him in her life.

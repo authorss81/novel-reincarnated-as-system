@@ -100,7 +100,7 @@ She said: “Ten is a day at this counter and a day at this counter is ten days 
 
 She did not say no to anything. He had offered her a thing and she had given him the two numbers it took and he had agreed with both of them and the offer is on the counter at that room in the ordinary course of a counter and has not been withdrawn.
 
-She went down the mill road and out to the gate and got a fifth of a reach at three feet at the near end and three and a half at the low end, and it came up easy, and she put the clay in the barrow, and there are six barrow-loads against that wall now and a seventh standing on its handles.
+She went down the mill road and out to the gate and got a fifth of a reach at three feet at the near end and three and a half at the low end, and it came up easy, and she put the clay in the barrow, and there are seven barrow-loads against that wall now and an eighth standing on its handles.
 
 She did the gate on the seventeenth, the eighteenth and the nineteenth, and she went up the mill road on the eighteenth at the third hour and sat at the edge of the table for an hour with her strip in her left hand and twenty books open in front of her, and she read four columns out loud because a woman of forty-five asked her to, and her hands were warm for all of it.
 

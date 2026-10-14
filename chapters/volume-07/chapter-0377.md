@@ -98,12 +98,12 @@ She had watched a reading make a crowd twice in two months and had not understoo
 
 She took a length at the yard on the twenty-sixth, four hundred yards of dead hedge at the east end, and got the foot of it up right the first time. The boy with the stick carried barrows with her and did not talk, and there were nine men in that bay on the second morning and every one of them was looking at something else.
 
-And she was in the shed at the eleventh hour on the twenty-sixth with no bread in it and nothing in the fold, because eight coppers went west on the twentieth and she was not going to walk five miles twice until she had the eight again, which was the twenty-eighth, and she was not hungry and had not been for seven months.
+And she was in the shed at the eleventh hour on the twenty-sixth with no bread in it and six coppers in the fold, because eight coppers went west on the twentieth and she was not going to walk five miles twice until she had the eight again, which was the twenty-eighth, and she was not hungry and had not been for seven months.
 
 She put her palm flat on the flat stone by the door. It was cold and her hand was cold, and the two of them were the same temperature, and it told her nothing, and she had stopped expecting it to tell her anything about eleven days ago.
 
 Then she took the flat of her second finger and put it on the boards and wrote out the month in front of her, the way she had been writing months out on those boards since she was eleven.
 
-Seven coppers in a week. Eight out. And on the thirtieth of a month there is a cart at the sixth hour with a cord round a tray on it, and a man who keeps a board at a post two miles up that road will be standing at the counter with his paste pot and his rag, waiting for a bundle.
+Seven coppers in a week. Eight out. And on the first of a month there is a cart at the sixth hour with a cord round a tray on it, and a man who keeps a board at a post two miles up that road will be standing at the counter with his paste pot and his rag, waiting for a bundle.
 
-Eleven days.
+Five days.

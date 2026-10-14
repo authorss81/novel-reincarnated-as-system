@@ -80,7 +80,7 @@ She stood at the edge of that table for about eleven seconds.
 
 Rao wrote it down.
 
-She wrote it in the ordinary hand in about two seconds, with the pen she put down for the pencil, and she wrote the day at the hour and the two words at the left of the line where the other eight lines had one word at the left of them.
+She wrote it in the ordinary hand in about two seconds, with the pen she put down for the pencil, and she wrote the day at the hour and the name at the left of the line, all of it, where the other eight lines had one word at the left of them.
 
 Then she closed the book and put her hand flat on the cover of it.
 
@@ -108,7 +108,7 @@ On the first of a month that stair book goes up the mill road with a cord round 
 
 ## The Twenty-Ninth, At The Counter
 
-Up the mill road at the third hour on the twenty-ninth, and there were two names in the stair book where there had been one, and the day was the twenty-eighth and the hour was the fourth.
+Up the mill road at the third hour on the twenty-ninth, and there was a name in the stair book where there had been nothing but a line saying a woman, and the day was the twenty-eighth and the hour was the fourth.
 
 Then she went down the eleven steps and stood at the end of the counter, and the man behind it was writing, and the seasonal book was shut on the end of the counter where it has been shut since the twenty-sixth of a month six months back.
 
@@ -120,7 +120,7 @@ Then she went down the eleven steps and stood at the end of the counter, and the
 
 He put the pen down.
 
-“And there are now two names in one of those books where there was one line saying a woman,” he said, “and on the first of a month at the sixth hour that goes up the mill road with a cord round it, and you gave a name to a woman on that floor on the twenty-eighth of a month and there is no hand in this building that can take it out.”
+“And there is now a name in one of those books where every line of it said a woman,” he said, “and on the first of a month at the sixth hour that goes up the mill road with a cord round it, and you gave a name to a woman on that floor on the twenty-eighth of a month and there is no hand in this building that can take it out.”
 
 She stood at the end of that counter for four seconds.
 

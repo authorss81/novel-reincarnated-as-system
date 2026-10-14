@@ -56,7 +56,7 @@ He put the sheet down on the top step and squared it against the other two.
 
 She stood at the bottom of that stair with the stove at her back and nine men at their cups in the room behind her for four minutes.
 
-Then she went down the mill road and out to the gate and got a fifth of a reach at three and a half feet and it came up easy again, and she put the clay in a barrow and carried it out and put it against the wall with the other four, and she had never in her life been so certain that she was going to do a thing.
+Then she went down the mill road and out to the gate and got a fifth of a reach at three and a half feet and it came up easy again, and she put the clay in a barrow and carried it out and put it against the wall with the other five, and she had never in her life been so certain that she was going to do a thing.
 
 The ground on the low side had gone soft since the twentieth of a month. It came up at three and a half feet in two hours and the spoil did not want the bar, and the bar stood against the fence where she had left it after the twenty-second.
 

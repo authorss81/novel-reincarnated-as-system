@@ -16,27 +16,19 @@ She lay on the boards at the second hour and put her left hand flat on the board
 
 “A ditch at the north end, four hundred yards, by the length, four feet, off a listed line between the twentieth and the twenty-second of a month.”
 
-She said the whole of it in the ordinary voice, in the order a thing is done, the way she said it at the second hour on the first of a month a month ago for a hedge at the east end.
+She said the whole of it in the order a thing is done, the way she said it at the second hour on the first of a month a month ago for a hedge at the east end.
 
-Three days and six hours.
+Two days. It had taken two days and she had put three of them in it before she started, and it was off a listed board a day early, and there was no name of hers anywhere in it and there was not going to be.
 
-She said it a second time, because he had said it to her twice on the last one and she had not understood until the second one that he was saying it twice for her and not for himself.
+And then she said the other half out loud, because there was nobody in the room to say it to and because a thing said at the second hour on the boards goes into no book at all and comes back down the road in her own hand.
 
-Three days and six hours, and it is out of the ground under her and it is not a thing she can put back in a book or on a board, and it is going out of the ground under her now.
+“You are going to spend that before you have had a night with it.”
+
+That is not a person telling her what to do. It is the shape of a person who has a number in the morning and spends it in the afternoon, and she has known that shape since she was fifteen, and she has never once seen it in the person standing in the room.
+
+It does not come back. There is nothing on nine days of road that will put it back and nothing on nine days of road she can buy with it and no person she could put it into, and if she says it to a man in a room it is a thing that four people could agree about later.
 
 And then she sat up and put her palm flat on the flat stone by the door, which was cold, and her hand was cold, and the two of them were the same temperature, and for the first time in five weeks she was not sure that was supposed to happen yet.
-
-## What He Said About It, And When
-
-You are going to spend that before you have had a night with it. That is not me telling you what to do, it is the shape of a person who has a number in the morning and spends it in the afternoon.
-
-I have not said a number out loud in four years. I am saying it to you twice because you are going to spend it in about an hour and I would rather you had heard it than worked it out.
-
-Three days and six hours.
-
-Three days and six hours.
-
-And then there was nothing for ten minutes, which is the part I do not have a use for, and then he said: put it in the floor of that shed and not in a man and not in a book, and it does not come back, and you will not feel it go.
 
 ## The Gate On The Twenty-Fourth
 
@@ -98,9 +90,9 @@ Rao did not ask her anything about that and did not look up.
 
 ## The Plain Part About One Person
 
-She is eighteen and she cannot close her right hand and she cannot write a false line and the fire in her own shed has come up twice in fifty-two days and only ever with another living thing in the room.
+She is eighteen and she cannot close her right hand and she cannot write a false line, and the fire has come up twice since the second of a month and only once of the two with another living thing in the room, and she has not worked out yet what the other one was.
 
-Three days and six hours went out of the ground under her on the second hour of the twenty-fourth of a month and came back as a cold afternoon on the top floor of the only building inside nine days of road with open books in it, for about a day and a half.
+A ditch that took two days, and two hundred yards of it out of four hundred, went out of the ground under her on the second hour of the twenty-fourth of a month and came back as a cold afternoon on the top floor of the only building inside nine days of road with open books in it, for about a day and a half.
 
 That is the price. She cannot say whether it was a day and a half or whether it is the start of something, and there was nobody inside nine days of road she could ask and nobody she could tell.
 
@@ -130,6 +122,6 @@ She picked the pencil up.
 
 She went down the nine steps and the eleven and down the mill road and out to the gate and got a fifth of a reach, and it came up easy, and she put the clay in the barrow.
 
-She had a day before she went up that stair again, and she had worked out on the walk that there was one thing she could say out loud in that room that she had not said in any room in seven months, and that it was two words, and that one of them was a woman’s name and she had not used it in the street.
+She had a day before she went up that stair again, and she had worked out on the walk that there was one thing she could say out loud in that room that she had not said in any room in seven months, and that it was one word, and that it was a woman’s name, and that she had never used it in the street.
 
 She had never used anybody’s name in the street. She had used her own twice.

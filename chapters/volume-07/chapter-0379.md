@@ -88,11 +88,11 @@ She did not go in. She stood in the gateway for a minute and looked at the shut 
 
 She had not slept on the first or the second, and the reason was not that she was thinking about him.
 
-The reason was the fourth hour. She had been getting up at the fourth hour every morning for four months because a fire lit itself at the second hour and was not there when she got up, and then for eighteen days there was nothing to get up for at all, and she had been getting up at the fourth hour anyway out of a habit that had stopped having anything behind it.
+The reason was the fourth hour. She had been getting up at the fourth hour every morning for four months because a fire lit itself at the second hour and was not there when she got up, and then for a month there was nothing to get up for at all, and she had been getting up at the fourth hour anyway out of a habit that had stopped having anything behind it.
 
 So on the night of the first she got up at the fourth hour and went and put a lump in the ring and it came up a finger’s width, and she stood there in the dark and could not work out a single thing about the day.
 
-And on the night of the second she got up at the fourth hour and did not go to the ring. She lay on the boards instead with her hands on her chest and worked out that she had had one fire come up in eighteen days, and that it had come up at the sixth hour in a low building with a man standing in it and a bundle of strips on the sill.
+And on the night of the second she got up at the fourth hour and did not go to the ring. She lay on the boards instead with her hands on her chest and worked out that the ring had come up a finger’s width and stopped every morning since the third of a month, and that twice in all of that the fire had come up, once in her own shed at the third hour on the second with a bar coming down on her and nine men on a bank above her, and once at the sixth hour in a low building with a man standing in it and a bundle of strips on the sill.
 
 She had not done anything to bring that about.
 
