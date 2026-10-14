@@ -6,7 +6,7 @@ She lay on the boards from the light and she had nothing to do. That is all of i
 
 This was a different thing. This was a man in her own head who had been spending something, and had stopped, and there was nothing on the other side of him.
 
-She lay there with her hands behind her head and waited for him to say something, the way she has waited eleven times in seven years for him to say the next thing.
+She lay there with her elbows out and waited for him to say something, the way she has waited eleven times in seven years for him to say the next thing.
 
 He did not say anything.
 
@@ -58,13 +58,15 @@ She is eighteen years old and she has just won something and there is nobody to 
 
 It rained on both days, thin and west, and she sat out under the trackside hedge at the crossing in the afternoon because there was nothing else, and the chain was across the gate and there was nobody lifting it.
 
-The gate did not need lifting. That is what she worked out on the second afternoon, sitting in the rain four feet off a post: a gate is a gate, and a chain across a lane with nobody at it is a chain across a lane, and carts go round or wait or come back tomorrow. Nothing is lost. Nothing is broken. The chair is empty and the board is on the post and a boy comes down the lane on Tuesdays and Tuesdays are for carts.
+The gate did not need lifting. That is what she worked out on the second afternoon, sitting in the rain four feet off a post: a gate is a gate, and a chain across a lane with nobody at it is a chain across a lane, and carts go round or wait or come back tomorrow.
+
+Nothing is lost. Nothing is broken. The chair is empty and the board is on the post, and a boy of fifteen comes down the lane for carts, and a boy comes for carts, and does not stop at the chair.
 
 That is how a place gets by for four days after a man dies in it. She sat in the rain and worked that out and it was the most ordinary thing she has ever learned and it was the worst thing she has ever learned.
 
 The woman in the grey shawl came out to the crossing on the second afternoon with a cloth over the chair and stood there a moment and went back in. She did not shut the gate. She did not take the board down.
 
-The board is the gate man's office. That is what it is on this ground — it is not a memorial and it is not a warning and it is not evidence of anything. It is five lines of chalk in a hand she cannot read, and it will be six before the month turns, and whoever chalks the sixth will be standing where she is standing now, four feet off the post, because that is where you stand to chalk a board.
+The board is the gate man's office. That is what it is on this ground — it is not a memorial and it is not a warning and it is not evidence of anything. It is five lines of chalk in a hand she cannot read, and it will be six before the month turns, and whoever chalks the sixth will be standing on this exact spot, because that is where a person stands to chalk a board.
 
 ## What She Is Carrying
 
@@ -72,7 +74,7 @@ The bar's strap is thinning at the shoulder point. She noticed it on the sevente
 
 She unpicked four inches off the hem with the point of the blade from the bar and rolled it and bound the shoulder of the strap with it in a figure of eight, and it held her weight, and she did not need anybody to stand in a shed with her for six days.
 
-Five coppers in the fold in the inside of her coat, stitched shut. No bread since the eleventh. Water in her skin and the trough at seven miles and the seventh mile is thirteen miles from where she is sleeping.
+Five coppers in the fold in the inside of her coat, stitched shut. No bread since the twenty-eighth of the month before last, which is the last of the two loaves she bought on the twenty-sixth and carried back in a bag. Water in her skin and the trough at seven miles and the seventh mile is thirteen miles from where she is sleeping.
 
 She is eighteen. She is at a stage nothing on this ground can name and has been for two months, and the low place behind her fourth rib has been quiet since the twenty-first of a month three months back, and her breath runs four counts everywhere including inside a loaded reach, and her arm is open half the time, and there are eight of eleven holds in a hand with four fingers and a thumb on it.
 

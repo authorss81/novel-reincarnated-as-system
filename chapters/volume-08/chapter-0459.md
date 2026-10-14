@@ -20,7 +20,7 @@ That is the part she turned over on the way back.
 
 The chain is lifted by the man in the chair. She has seen it lifted four times an hour for as long as she has been on that lane. A boy lifted it once this morning and put it back and did not go and find out where the man was, because no one had asked him to and because that is not a boy's job and because a gate is a gate.
 
-She stood at the foot of the near post for a quarter of an hour after that and could not make herself walk up the four steps and knock, and she has never knocked on a stranger's door in her life. She did not know what she would have said if she had.
+She stood off the near post for a quarter of an hour after that and could not make herself walk up the four steps and knock, and she has never knocked on a stranger's door in her life. She did not know what she would have said if she had.
 
 ## The Second
 
@@ -36,7 +36,7 @@ On the second she asked the woman of fifty, in the room at the back, with the da
 
 “He told me he went north with his bar at the seventh hour,” Ning Yan said. “And he was not in the chair at the sixth on the thirtieth and he was not in it yesterday and he was not in it this morning, and a boy lifted your chain through a cart at the eighth.”
 
-The woman of fifty stood at the table with her hands behind her back for a while.
+The woman of fifty stood at the table for a while and did not sit down, which is a thing she does not do in her own room.
 
 “Then I will go out to him,” she said.
 
@@ -54,7 +54,7 @@ There were nine things she could have done and she had nine days of not having d
 
 She could have gone up four steps and knocked. She worked out what she would have said and the answer was “I am here because a chair is empty”, which means nothing to anybody who has not spent four days counting lines of chalk.
 
-She could have asked the woman of fifty to send a boy, and the woman would have sent a boy, and a boy would have got exactly nothing out of a man on a step.
+The woman of fifty would have sent a boy if she had asked her for one, and a boy would have got exactly nothing out of a man on a step.
 
 She could have gone north up the cart track on the thirtieth and the first and the second and looked for him at the crossing four hundred yards in, and she had four fingers and a thumb and a bar and she could have done four hundred yards in twenty minutes on a body that has stopped a dressed stone the length of its own arm.
 
@@ -76,7 +76,7 @@ That is the whole of what she did about it on the third, and she has gone over i
 
 She has read a hand that a hundred people in a building cannot read, and she did not use one word of it on four steps of stone at the end of a lane. She had a want for two days and she never once said it out loud where anybody could hear it, and she has learned the hard way that wanting a thing and saying it are two different things and only one of them is any use.
 
-At the sixth hour on the third she had a bar over her shoulder that she could have carried to the far side of nine days of road and she stood four feet off a post in the rain and watched a chain.
+At the sixth hour on the third she had a bar over her shoulder that she could have carried to the far side of nine days of road and she stood in the rain with the chain in front of her and watched it.
 
 ## The Third
 

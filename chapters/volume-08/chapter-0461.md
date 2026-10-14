@@ -124,7 +124,7 @@ They sat on the wall for a while with nine men going over a cut behind them.
 
 That is when she worked it out.
 
-She stood up off the wall and looked out over the cut at the low end of the bank where the bed was packed a foot high and had not been dressed since the month before, and she did it standing up with her hands behind her back and she did it once and she did not have to do it twice.
+She stood up off the wall and looked out over the cut at the low end of the bank where the bed was packed a foot high and had not been dressed since the month before, and she did it standing up with her back to the bed and she did it once and she did not have to do it twice.
 
 The second figure against his line went in on the third of a month. The floor closed its books on the third and the books have a rule and the rule closes them, and a figure went into the right-hand column on the third against a piece of work done on the fifteenth.
 

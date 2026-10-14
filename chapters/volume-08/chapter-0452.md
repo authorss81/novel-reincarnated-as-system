@@ -48,7 +48,7 @@ Zheng came off the sill on the sixth of a month and this was the eleventh.
 
 He came out of the shed at the fourth hour with his leg wrapped again and climbed onto the frame and worked, and the woman of fifty stood at the low door and watched him go the length of it and did not go out to him.
 
-She did not say anything about him for a quarter of an hour.
+She did not say anything about him until he sat down.
 
 Then she said, “Eleven days.”
 
@@ -56,7 +56,7 @@ Then she said, “Eleven days.”
 
 “He will be paid for eleven days,” the woman said. “He has never once asked me whether he will be, and if he asked I would have to go and find out, and I have not found out in eleven days because it is not the kind of thing I put on a sheet.”
 
-That was four sentences and she said them with her hands behind her back and she was not looking at Ning Yan while she said them.
+That was four sentences and she said them with her arms crossed in front of her and she was not looking at Ning Yan while she said them.
 
 “A floor like mine has had a man off his feet for eleven days before this month and a man off his feet for nineteen before that,” she said. “It is not the sill. It is the frame. Everybody on that frame is standing on the same four feet of oak and they come down off it the wrong way.”
 

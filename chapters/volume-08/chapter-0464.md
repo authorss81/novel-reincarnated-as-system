@@ -22,9 +22,9 @@ Five coppers in the fold in the inside of her coat. The rate in the building two
 
 The floor at the end of the lane pays a man a yard of sill by the yard and will not tell a stranger what it is, and she is not on the floor and she does not work there.
 
-She has not spent a copper in seven days and there is nothing in this shed that costs money and there is nothing in this shed she is allowed to be given.
+She has not spent a copper since the twenty-sixth of the month before last and there is nothing in this shed that costs money and there is nothing in this shed she is allowed to be given.
 
-Stopping has cost her five coppers and no bread since the eleventh and a bar strap she bound herself out of her own coat lining with the point of the bar and her teeth.
+Stopping has cost her five coppers and no bread since the twenty-eighth of the month before last and a bar strap she bound herself out of her own coat lining with the point of the bar and her teeth.
 
 That is what it comes to in money. That is the whole bill.
 
@@ -56,7 +56,7 @@ She asked a woman of sixty-one once, at a mill, for two hours of six days, and s
 
 Nobody is paying for anything for eighty-four days.
 
-That is the sentence, and she works it out on a board at the end of a lane, and there is not one person on nine days of road to say it to, and it is not a discovery. It is an addition. It goes on top of everything else she already knows, and it is the first time in eight years that the reason she cannot get stronger is that she has told somebody to stop.
+That is the sentence, and she works it out on a board in the shed, and there is not one person on nine days of road to say it to, and it is not a discovery. It is an addition. It goes on top of everything else she already knows, and it is the first time in eight years that the reason she cannot get stronger is that she has told somebody to stop.
 
 ## The Two Things That Are Not A Cost And Are A Cost
 
@@ -86,7 +86,7 @@ The woman looked at them for a while.
 
 “No,” the woman of fifty said. “I have been running this floor nineteen years and I have never once seen anybody count.”
 
-She stood in the doorway with her hands behind her back for a while longer and then she said, “You are not on this floor.”
+She stood in the doorway a while longer with one hand flat on the frame and then she said, “You are not on this floor.”
 
 “No.”
 
@@ -114,7 +114,7 @@ She turned round on the step.
 
 She went back down the lane.
 
-Ning Yan stood at the door with that in her chest and found that she did not want to go and read a column at the sixth hour tomorrow more than she has wanted anything in this batch, and that a woman of fifty has just handed her the one thing nobody on nine days of road west has ever handed her, which is being known, and has made her ask for it.
+Ning Yan stood at the door with that in her chest and found that she did not want to go and read a column at the sixth hour tomorrow more than she has wanted anything in her life, and that a woman of fifty has just handed her the one thing nobody on nine days of road west has ever handed her, which is being known, and has made her ask for it.
 
 ## The Last Mark
 
@@ -124,6 +124,6 @@ That is the one she is keeping for herself, the way she put a third pebble on a 
 
 Eighty-four marks in a row and one mark at the other end of the board.
 
-She does not know what is at the end of the eighty-fourth day and she is not going to pretend to herself that she does, and she wrote a mark on a board at the end of a lane at the sixth hour on the nineteenth day of a month with a door that does not shut properly and a bar she cannot hold at the heavy end and a folded sheet in a building behind her that says a name on a string.
+She does not know what is at the end of the eighty-fourth day and she is not going to pretend to herself that she does, and she wrote a mark on the edge of a board in the shed at the sixth hour on the nineteenth day of a month with a door that does not shut properly and a bar she cannot hold at the heavy end and a folded sheet in a building behind her that says a name on a string.
 
 She put the point in the bar and squared the blade and put the bar against the wall where it goes, and she went out and shut the door, and it did not shut properly, and she did not fix it.

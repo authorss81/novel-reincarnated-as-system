@@ -2,7 +2,7 @@
 
 He said it on the fifth of the month, in the dark, in a shed at the end of a lane east of the turn, and he said it before he did it.
 
-She was on the boards with her hands behind her head and the bar along her side and the light coming grey under the door, and she said out loud, to nobody, the thing she had been carrying since the twenty-ninth of a month five months back.
+She was on the boards with her arms folded up and the bar along her side and the light coming grey under the door, and she said out loud, to nobody, the thing she had been carrying since the twenty-ninth of a month five months back.
 
 “The sill is loose at the low end.”
 
@@ -46,7 +46,7 @@ She waited four counts, in and out, twice, which is how long she gives anything 
 
 “I am not going to say,” he said.
 
-She put both hands behind her head again and lay in the dark and felt the floor of the shed come up cold in one place near the door and then go back to ordinary, and it took her a moment to be sure she had felt it at all.
+She lay down in the dark again with both arms up and her hands behind her neck, and felt the floor of the shed come up cold in one place near the door and then go back to ordinary, and it took her a moment to be sure she had felt it at all.
 
 ## She Does Not Ask Twice
 
@@ -76,7 +76,7 @@ That was a lie she told herself and she told it because the alternative was that
 
 She has never gone back and looked at that. She has been carrying the date of it for five months.
 
-Now there was a second one and this time she had been told the number before it went, and this time it was out of a shed at the end of a lane and not out of a mill, and this time she was two miles from a building full of lamps and eleven days from the far side of a turnstile.
+Now there was a second one and this time she had been told the number before it went, and this time it was out of a shed two miles east of the building and not out of a mill, and this time she was two miles from a building full of lamps and eleven days from the far side of a turnstile.
 
 She lay on the boards and worked out that he had said “tonight” and that it had not gone at night.
 

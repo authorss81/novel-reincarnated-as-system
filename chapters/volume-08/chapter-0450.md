@@ -106,6 +106,6 @@ She stood up off the wall and shouldered the bar and looked back down the lane a
 
 She had two loaves in a bag and five coppers and no wages, and a silence on the road behind her that had lasted four days, and she had come four minutes onto a floor and been left alone on it, and it was the first peace she has had in two months.
 
-She slept in the shed at the floor with the bar beside her and the bag of bread under her coat.
+Then she slept in the shed at the floor with the bar beside her and the bag of bread under her coat.
 
 She did not think about it that night. She thought about the row of joints in the sill and the place where the edge is worn round, and about a man under an umbrella in weather that did not need one, and about how many floors she has stood in that would have let a stranger sit on a wall for three hours.

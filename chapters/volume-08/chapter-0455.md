@@ -52,13 +52,13 @@ And the ninth was already in the other column. In a hand she cannot read. Put th
 
 ## What She Cannot Do With It
 
-She stood at the table for a quarter of an hour and could not get one step further.
+She stood at the table with her back to the bench behind her and could not get one step further.
 
 That is the honest part and she went over it four times while she stood there, the way she goes over a sum.
 
 Her instrument is columns. She reads a column and she reads two columns against each other, and what a column tells her is that two numbers are not the same. It does not tell her what a number means. She has known that since she was eleven and it is the whole shape of what she is good at and she has never once pretended otherwise.
 
-Two dates that are not the same can be eleven things. A man who forgot. A cart that came late. A gate that was shut for rain. A floor that is behind and says so at the ninth hour. A woman of fifty who has ruled a column for nineteen years and has never known what to put in it.
+Two dates that are not the same can be eleven things. A man who forgot. A cart that came late. A gate that was shut for rain. A floor that is behind and says so at the ninth hour. And a woman of fifty who has ruled a column for nineteen years and has never known what to put in it.
 
 Eleven lines in four years on the back books, and every one of them earlier than the day the floor found out, and a woman who has had the book open four years and has never once queried it.
 
@@ -108,7 +108,7 @@ She is standing in a room with one woman in it at the sixth hour on a lane nobod
 
 Ning Yan went up the lane at the fifth hour and put her hand on the gate post at the crossing and left it there for a while.
 
-She could say it. She has said a floor sheet out loud in a room about a hundred feet long with nine men in it and stopped a man in the middle of a line, and there is a heading over a second column in a room nine days of road west because she did it.
+She could say it. A floor sheet, once, out loud, in a room about a hundred feet long with nine men in it, and it stopped a man in the middle of a line, and there is a heading over a second column in a room nine days of road west because she did it.
 
 She could say four words to a woman of fifty in a nine-foot room and put a question to the only reader of her that this ground has ever had.
 

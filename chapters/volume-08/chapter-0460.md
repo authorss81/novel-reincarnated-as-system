@@ -50,7 +50,7 @@ She turned round and looked at the man in the bed and then at Ning Yan.
 
 ## The Arithmetic
 
-She said it once, standing up, with her hands behind her back, and she said it the way a woman of fifty says a sum she has already done four times.
+She said it once, standing up, with her arms loose at her sides, and she said it the way a woman of fifty says a sum she has already done four times.
 
 “He did one sill in four days and he did the same forty yards of sill again twelve days after that, and it was not a bad sill and it was not done wrong, and it was the same forty yards and it took him the same time because he is a man who does a thing the same way.”
 
@@ -86,7 +86,7 @@ Ning Yan stood in the doorway.
 
 That was the answer and it was the only answer there was and she had known it for two days and she had not said it out loud because saying it out loud is worse than knowing it.
 
-She could not ask him not to go. She was not on that floor. She was not in that lane. She had said five days and two hours out loud to nobody in a shed four nights back and the man did not answer her, and the man was not allowed to answer her, and nobody has ever drawn up a way for a woman who has never met a man to ask him not to carry a sill.
+She could not ask him not to go. She was not on that floor and she was not in that lane. Five days and two hours, said out loud in a shed four nights back to a man who was not allowed to answer her, and nobody has ever drawn up a way for a woman who has never met a man to ask him not to carry a sill.
 
 She can still say no. She just cannot make the no take.
 

@@ -114,7 +114,7 @@ That is ordinary. A man finishes a sill at the last of the light and goes home, 
 
 She stood in the lane for a while after that with nothing to feel about it at all.
 
-Then she walked back to the shed with the bar over her shoulder and her heart still going hard from the ditch, and she lay on the boards and put her hands behind her head.
+Then she walked back to the shed with the bar over her shoulder and her heart still going hard from the ditch, and she lay on the boards with her forearms across her face until it went.
 
 She had stood at forty feet with a dressed stone in the air in front of her and done nothing whatever, and it had been correct, and the man had gone into a ditch anyway and come out of it, and she had held four wedges in a ring in the dark on a cart track for two hours and neither of them had thought there was anything remarkable about a woman doing it.
 

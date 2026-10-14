@@ -112,7 +112,7 @@ That is the finding and it is the whole of what these twenty days have been wort
 
 He can put a piece of work where any hand on nine days of road will find it. He can spend her foundation and make a stranger's body carry the difference. He cannot point the thing at himself, because a listing is work, and the only work available is somebody else's, and there is no line in the ground's own wording for what he would be doing if there were.
 
-He has been treating people as entries since before she found him. He has never once been an entry. He looked for it on the seventeenth of a month five months back for the morning and did not find it then either, and it is not here now, and it is not going to be here on any future night he stands in here and looks.
+Everything he has done since before she found him has been treating people as entries, and he has never once been an entry himself. He looked for it on the seventeenth of a month five months back for the morning and did not find it then either, and it is not here now, and it is not going to be here on any future night he stands in here and looks.
 
 ## What He Does About It
 

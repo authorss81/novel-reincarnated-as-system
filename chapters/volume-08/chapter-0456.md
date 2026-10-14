@@ -36,9 +36,9 @@ There were thirteen of them, and she wrote out beside each one what the work had
 
 Twelve of the thirteen she could account for.
 
-The eleventh was a chain. The chain had been done on the third of a month and the floor had heard about it on the fourth, and the chain on that gate had been stiff since the day before she came down the lane, which she had seen with her own eyes off the board.
+The eleventh was a chain. That one was done on the third of a month and the floor heard about it on the fourth, and the chain on that gate had been stiff since the day before she came down the lane, which she had seen with her own eyes off the board.
 
-The seventh was a load. The eighth was a load. The tenth was a man off the frame with a leg. The fifth was water in a ditch.
+The seventh was a load. The eighth was a load. A man came off the frame with a leg on the tenth, and water stood in a ditch on the fifth.
 
 Every one of them was ordinary work, and every one of them was work that nobody on that floor had any way of knowing about on the day it was done.
 
@@ -90,7 +90,7 @@ Something came back. It came back in a quarter of a second, and it was the first
 
 “I know,” he said in the present tense.
 
-She lay on the boards with her hands behind her head and her heart going hard once and settling, and she waited four counts in and four counts out, twice, which is how long she gives anything she has asked for.
+She lay on the boards with her arms folded up and her heart going hard once and settling, and she waited four counts in and four counts out, twice, which is how long she gives anything she has asked for.
 
 “What do you know.”
 
@@ -130,7 +130,7 @@ She stopped.
 
 He said nothing at all.
 
-That was all the answer she got from either of them, and she lay back down on the boards and put her hands behind her head again.
+That was all the answer she got from either of them, and she lay back down on the boards and did not put her hands anywhere in particular.
 
 ## The Want
 

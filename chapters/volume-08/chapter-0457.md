@@ -80,7 +80,7 @@ She asked the woman of fifty in the room at the back on the twenty-third, with t
 
 “What I want to know is one thing and it is a yes or a no,” Ning Yan said. “Is the sill paid once or twice.”
 
-The woman of fifty stood at the table for a while with her hands behind her back.
+The woman of fifty stood at the far side of the table for a while and looked at the line she had written.
 
 “He came down the lane on the thirteenth and told me he had done a sill, and I wrote it against the thirteenth, and I paid him for one sill, and that is the whole of what has happened,” she said. “He has not been down this lane since and I do not know what he has been doing on the days when a board says go.”
 

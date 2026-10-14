@@ -104,7 +104,7 @@ She carried the day sheet in on the twenty-ninth because it had come to the poin
 
 The man was not there. The room was.
 
-She put it on the table and squared it and stood looking at it for a quarter of an hour.
+She put it on the table and squared it and stood looking at it until the light on the bank had moved a foot.
 
 The left-hand column was empty.
 
@@ -138,4 +138,4 @@ She stood four feet off the gate and looked at a board she could not read on a g
 
 She did not touch the board. She did not go through the gate. She turned round and walked the mile back to the shed with the bar over her shoulder and the water smell in her clothes.
 
-The last of her bread was gone by then and she was not hungry and she slept on boards with her hands behind her head and lay there working out six carts and eight lines and one of the six with nothing on the other side of it.
+The last of her bread was gone by then and she was not hungry and she slept on boards with her arms folded and lay there working out six carts and eight lines and one of the six with nothing on the other side of it.
