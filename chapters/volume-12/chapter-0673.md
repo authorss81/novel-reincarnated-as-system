@@ -32,7 +32,7 @@ She said, “Yes.”
 
 ## What She Said Before Anybody Offered It
 
-And then she said the second part out loud, standing, in daylight, four feet from a man with his hand on a frame, before he had said one word about it and before she had asked him a single question, which she did afterwards and deliberately, and which took her three days to get the ordering of right.
+And then she said the second part out loud, standing, in daylight, four feet from a man with his hand on a frame, before he had said one word about it and before she had asked him a question, which she did afterwards on purpose, and it took her three days to get the ordering right.
 
 She said, “There is a hand on this board and there is not one person west of Lowwater who can read it.”
 
@@ -42,11 +42,11 @@ She said, “You are not west of Lowwater, you are on it.”
 
 He said, “That is a thing you have worked out about me in ten seconds and it is right.”
 
-She said, “And there are four hundred people on this ground who come along this road and not one of them can read what a man writes on a slate, and there has been nothing on this slate for nine years, so no one has found out. And on the first of next month there is going to be something on it, because there is going to be a name on it, and not one of them will be able to read it.”
+She said, “And there are four hundred people on this ground and not one of them can read what a man writes on a slate, and there has been nothing on this slate for nine years, so no one has found out. On the first of next month there is going to be a name on it and not one of them will be able to read it.”
 
 She said, “So here is the second part and I am saying it now, out loud, standing, before anybody has offered it to me, so that not one person in this county has to be generous to me or has to think about it.”
 
-She said, “I will read it. I will stand at this frame and I will read whatever is on that slate out loud to anybody who comes along this road, and I will not be paid for it, and I am telling you that now so that there is not one person in this county who can say afterwards that I asked for money.”
+She said, “I will read it. I will stand at this frame and read whatever is on that slate out loud to anybody who comes along this road, and I will not be paid for it, and I am telling you now so that not one person in this county can say afterwards that I asked for money.”
 
 ## The Cost Of Saying It First
 
@@ -60,9 +60,9 @@ She said, “I am nineteen.”
 
 He said, “Then you have not done a day’s work in your life and I do not know why you are standing at my frame.”
 
-She said, “I have read boards since I was twelve. There is not a false line in this county I could not catch, and I have caught four men in three counties, and I have been paid a rate for it about nine hundred times, and I have not been paid in four years and I cannot be paid and there is not one hand in this world that could pay me and decide to do it instead.”
+She said, “I have read boards since I was twelve. There is not a false line in this county I could not catch, and I have caught four men in three counties, and I have been paid a rate for it about nine hundred times, and I have not been paid in four years and cannot be, and there is not one hand in this world that could pay me and choose to instead.”
 
-She said, “So there is a hand in this county that can read and a woman who can read and neither of them can do anything for the other one, and that is not a tragedy and it is not an injustice, it is the shape of this ground, and it is the same shape on every ground I have ever stood on.”
+She said, “So there is a hand in this county that can read and a woman who can read and neither can do anything for the other one. That is not a tragedy and it is not an injustice, it is the shape of this ground, and it is the same shape on every ground I have ever stood on.”
 
 He said, “You have just told me you can read and cannot be paid, in that order.”
 
@@ -98,7 +98,7 @@ She said, “There is going to be something on it on the first of the next month
 
 He said, “Is there.”
 
-She said, “There is. I have said that out loud to a woman of sixty on a bench and to two posts and to four people on a road, and I cannot take it back, and you are the first person I have said it to who can put a name in a column, and I am telling you that I know that.”
+She said, “There is. I have said that out loud to a woman of sixty on a bench and to two posts and to four people on a road, and I cannot take it back. You are the first person I have said it to who can put a name in a column, and I am telling you I know that.”
 
 He took his hand off the frame.
 
@@ -112,7 +112,7 @@ She said, “The rest of it is that a fifth of a day comes off before the board 
 
 He said, “That is not a thing you want.”
 
-She said, “It is the only thing I have wanted for nine years and it is the only thing in this world that makes me visible, and I have said both of those out loud to you at the seventh hour of the twenty-third of the month beginning 2,054 in daylight standing four feet from you, and you can take it to the woman of sixty this afternoon if you want to and she will say that I said the whole of it in the same words.”
+She said, “It is the only thing I have wanted for nine years and the only thing in this world that makes me visible, and I have said both of those out loud to you at the seventh hour of the twenty-third of the month beginning 2,054, in daylight, standing four feet from you. Take it to the woman of sixty this afternoon and she will say I said the whole of it in the same words.”
 
 He said, “You have asked me one question in ten minutes and it was not the question you came here with.”
 
@@ -120,7 +120,7 @@ She said, “You have noticed that.”
 
 He said, “I write four times a month. I notice.”
 
-She said, “Then I will ask the one I came here with, and it is one question and I am asking it standing in daylight, and I am not going to ask it twice whatever you say.”
+She said, “Then I will ask the one I came here with. It is one question and I am asking it standing in daylight, and I am not going to ask it twice whatever you say.”
 
 ## What He Asked Her Instead
 
@@ -128,7 +128,7 @@ He said, “I am not going to answer that yet.”
 
 She said, “Say why.”
 
-He said, “Because there is one thing I have to put in that column tomorrow and it is not going to be a name and it is not going to be days, and I am not going to have an answer from a girl of nineteen at the seventh hour in front of a road.”
+He said, “Because there is one thing I have to put in that column tomorrow and it is not going to be a name and it is not going to be days, and I am not going to get an answer out of a girl of nineteen at the seventh hour in front of a road.”
 
 She said, “Then ask me the thing you have to ask.”
 
@@ -142,7 +142,7 @@ She said, “Say the number.”
 
 He said, “How many days do you want in it.”
 
-She did not answer straight away, and she did not have to do any arithmetic at all, because she had done it two days ago at the foot of these two posts and she had it.
+She did not answer straight away, and she did not have to do any arithmetic, because she had done it two days ago at the foot of these two posts and she had it.
 
 She said, “Thirty.”
 
@@ -152,7 +152,7 @@ She said, “Thirty days of the month beginning 2,084, which is the month whose 
 
 He said, “That is thirty days and a fifth of thirty is a day and a half.”
 
-She said, “A day and a half is the unit. It comes off the column and not off me, and I know that, and I said the whole of it out loud at the foot of these two posts on the twentieth of this month to four people going past, and there is a woman of sixty on a bench four hundred yards west who will confirm every word of it.”
+She said, “A day and a half is the unit. It comes off the column and not off me, and I know that, and I said the whole of it out loud at the foot of these two posts on the twentieth to four people going past. The woman of sixty on a bench four hundred yards west will confirm every word of it.”
 
 He said, “You are not frightened.”
 
@@ -168,7 +168,7 @@ She said, “Say the part about the fifth again.”
 
 He said, “The fifth comes off the days before it goes up. It comes off the column and not off the person, and the person does not know what is left.”
 
-She stood in the grit at the foot of the two posts and heard the whole of it said back to her in the ordinary voice by a man of forty-nine who has done it since he was thirty, and it was exactly what she had worked out, and being told it by somebody who does it four times a month went into her in a way that nine years of road had not managed.
+She stood in the grit at the foot of the two posts and heard the whole of it said back to her in the ordinary voice by a man of forty-nine who has done it since he was thirty. It was exactly what she had worked out. Being told it by somebody who does it four times a month went into her in a way that nine years of road had not managed.
 
 She said, “You have said it back to me exactly, and I have had it for two days off two posts and now I have had it off a man who writes columns four times a month.”
 

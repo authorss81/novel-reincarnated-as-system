@@ -7812,21 +7812,69 @@ method that hid an inflected form behind a word boundary.**
 
 # VOLUME 12 BATCH 0001 — *the stair*, ch 661–675, audited on the page
 
-**Fifteen chapters, 29,992 words of body prose on method B (every line not beginning `#`, counted per file and summed),
-average 1,999. Day 2,061 to day 2,090. Pressure: the stair. Written against `outline/volume-12.md` §*The escalation
+**Fifteen chapters, 30,000 words of body prose on method B (every line not beginning `#`, counted per file and summed),
+average 2,000. Day 2,061 to day 2,084. Pressure: the stair. Written against `outline/volume-12.md` §*The escalation
 sequence* items 1 to 12 and §*The batch plan*. No stage moved, no bracket spent, no frame scene taken.**
 
 ## The batch's figures, measured with the command in the sentence with the number
 
-`grep -v '^#' chapters/volume-12/chapter-*.md | wc -w`, per file and summed: **29,992**, average **1,999**
-(29,992 ÷ 15 = 1,999.4, truncated, which is the convention `state/continuity.md` set at the Volume 11 close). Per chapter:
-**2,029 · 1,928 · 1,842 · 1,968 · 2,087 · 1,855 · 2,022 · 1,937 · 1,964 · 2,136 · 1,882 · 1,996 · 2,365 · 1,966 ·
-2,015.** The band is 27,000–30,000 for fifteen chapters and no chapter is under the 1,300 floor or above the 2,700 guide.
+`grep -v '^#' chapters/volume-12/chapter-*.md | wc -w`, per file and summed: **30,000**, average **2,000**
+(30,000 ÷ 15 = 2,000 exactly). Per chapter:
+**2,029 · 1,928 · 1,842 · 1,968 · 2,086 · 1,855 · 2,022 · 1,937 · 1,964 · 2,126 · 1,882 · 2,001 · 2,312 · 2,010 ·
+2,038.** The band is 27,000–30,000 for fifteen chapters and no chapter is under the 1,300 floor or above the 2,700 guide.
 **Every month-day in the batch reproduces under `((day − 134) mod 30) + 1`:** 2,061 = 8 · 2,062 = 9 · 2,063 = 10 ·
 2,064 = 11 · 2,065 = 12 · 2,066 = 13 · 2,067 = 14 · 2,068 = 15 · 2,069 = 16 · 2,070 = 17 · 2,071 = 18 · 2,072 = 19 ·
 2,073 = 20 · 2,074–2,076 = 21–23 · 2,077 = 24 · 2,078–2,083 = 25–30 · **2,084 = 1, the first of the month beginning
-2,084** · 2,090 = 7. **The going-lighter at any day D is D − 1,560**, and the batch states 501 at day 2,061, 510 at
-2,070, 517 at 2,077 and lets the last page carry it.
+2,084, and it is the last day of the batch.** **The going-lighter at any day D is D − 1,560**, and the batch states 501 at
+day 2,061, 513 at 2,073 and 517 at 2,077 and lets the last page carry it, which is 524 at 2,084.
+
+## VOLUME 12 BATCH 0001 REVIEW REPAIR — four arithmetic defects corrected on the page, and two month-begins left open
+
+**The review of Batch 0001 found one hard factual error and it was the right one: a figure on the page that is false
+against the manuscript's own calendar rule, and the figure was carrying the motivation of a climax-adjacent beat.** The
+repair re-derived every month-day in the batch from the day number rather than carrying the previous chapter's ordinal
+forward, which is the rule this file set at the Volume 11 close and which had been applied once and then relaxed. It found
+three more of the same class and corrected them in place. **No chapter was restarted, no card was re-planned, and the
+planned beats are all still on the page.**
+
+1. **ch 675 — the days to the first. THE REVIEWED DEFECT.** A boy of sixteen told *then the first is in six days* and she
+   answered *in six days*, and she came down the mountain *four days before the first*. **Under `((day − 134) mod 30) + 1`
+   the twenty-eighth of the month beginning 2,054 is day 2,081 and the first of the month beginning 2,084 is day 2,084 —
+   three days on, and the thirtieth is day 2,083, one day before.** The six and the four were both wrong, and the whole
+   beat — *I came down early in case anything goes wrong* — was resting on a gap that does not exist. **Now: he says six
+   because he counted off today, she corrects him to three, and she comes down on the thirtieth, the day before, and says
+   *one day is not enough for a mountain and four miles of made road if anything goes wrong.*** The fix is dramatised rather
+   than subtracted: **the boy's miscount is now the character beat and the correction names the reason, which is that the
+   first is not in the month that is written on the slate.**
+2. **ch 670 — *the first of the next month is fourteen days off*.** Spoken on the eighteenth, day 2,071. **2,084 − 2,071 =
+   thirteen.** Corrected. *The twenty-fourth is six days off* in the same sentence is correct and stands.
+3. **ch 672 — *five hundred and ten days*.** Spoken on the twentieth, day 2,073. **The series is D − 1,560, verified at
+   ch 658 (495 at 2,055), ch 659 (498 at 2,058) and ch 660 (499 at 2,059), and 2,073 − 1,560 = 513.** 510 is the figure
+   for day 2,070, carried forward from a chapter that did not state it. **Corrected to five hundred and thirteen in both
+   places it appears.** The same error was baked into this file's own ledger below and is corrected with it.
+4. **ch 674 — the sixth hour to the ninth hour.** The scene opened at the sixth hour and she gave her name at the ninth
+   with nothing between them. **A short passage now carries the three hours: three columns, a rag, a woman of sixty on a
+   bench who does not come down the road, and a slate that stays clean.**
+5. **ch 674 — *the day he comes*.** Said twice by the woman of sixty with a boy and a man both in the frame, and the
+   referent snagged. **Now *the day he comes with the chalk*, twice, which is the man of forty-nine and is not anybody
+   else.**
+6. **Register.** ***Out loud* read 84 across the batch and six times in ch 672 alone in one construction.** It now reads
+   **75**, with ch 672 at 6, ch 665 at 7 and ch 675 at 4. **ch 670's eleven are untouched and deliberately so: out loud
+   is the subject of that chapter and the woman of sixty's whole argument is about a thing said out loud to a bench.**
+
+**TWO INVALID MONTH-BEGINS ARE STILL ON THE PAGE AND ARE FLAGGED, NOT GUESSED.** A sweep of every
+`ordinal of the month beginning N` string in ch 661–675 returns **two that are not month starts at all**, because a month
+start satisfies `(N − 134) mod 30 = 0` and neither number does. **The repair did not invent a value for either, because
+the correct one is a matter of authorial intent and not of arithmetic.**
+
+| Where | The string | What is wrong | What a fix requires |
+| --- | --- | --- | --- |
+| **ch 665** | *the way it came up on the fourteenth of the month beginning 2,024 and on the fourteenth of the month beginning **2,034*** | 2,034 is not a month start. It sits ten days after 2,024 and inside the month beginning 2,024, where the fourteenth is already taken by the first half of the same sentence | **A prior occasion, and the intent is legible but not forced.** The fourteenths on the page in canon are 1,754 (ch 586), 1,784 (ch 593, 595), 1,814 (ch 600, 613), 1,844 (ch 620) and 1,904 (ch 631, 632, 643 — *on the fourteenth of the month beginning 1,904 the asking stopped holding*, which is the nearest canonical analogue of an asking beat). **1,904 is the defensible reading and needs an authorial decision, not a derivation** |
+| **ch 670** | *she has carried it since the fifth of the month beginning **1,914*** | 1,914 is not a month start. The nearest are 1,904 and 1,934 | **The origin of the bar is dated nowhere else in the manuscript.** ch 613 gives *the bar is stone and the strap is out of her own coat lining* and ch 660 gives *a shoulder that has had one arm open four days in five for ten years*, and she is nineteen at day 2,084 — **so both candidate month-begins put the bar in her hands before she was ten, which is ten years off.** **The date is not derivable and must be set deliberately** |
+
+**Neither is load-bearing for the batch's plot, and both are one string each.** Carry them into the next Volume 12 phase as
+a named task; **do not let a later phase re-derive one of them the way these four were re-derived, because a re-derivation
+is exactly what cannot fix them.**
 
 ## The construction budget, measured and not promised
 
@@ -7851,7 +7899,9 @@ sequence* items 1 to 12 and §*The batch plan*. No stage moved, no bracket spent
 | **Authorial scaffolding** | **0.** The widened pattern returns 0 on `grep -oi 'this chapter\|this volume\|this book\|the rest of the book\|the reader\|in this batch\|another batch\|[0-9]\+ volumes\|[0-9]\+ chapters\|[0-9]\+ batches'`, and the bare forms `grep -oiw 'volume\|chapter\|batch'` return **0** — after **eleven** instances were cut before the files closed, of which the load-bearing ones were *four volumes ago*, *for four volumes*, *eleven volumes and one hundred and fifty miles*, and *the volume of this life*. **Four hundred `volumes` on shelves remain and are the ordinary noun for books** |
 | **Titles** | **15 names, 3–7 words, longest 30 characters (*Four Flights To A Burning Cage*, ch 662). `comm -12` against all 660 standing headings returns 0 and `uniq -d` over the fifteen returns 0** |
 | **Section-heading identity** | **0 within a chapter and 0 across the volume.** Measured on `grep '^## '`. **Nine collisions against ch 601–660 were found and all nine were renamed**, and **two duplicates inside this batch** — `The Same Fact Twice` at ch 663 and ch 668 — were renamed to `One Fact And Not Two` and `The Room With A Bar Across It` |
-| **Paragraphs** | **965 body paragraphs, longest 110 words, none over 120, nine over 90.** **Three of the nine were long prose paragraphs and were broken at a natural beat**; the remaining six are single speeches by one voice, which is the shape Volume 11 used |
+| **Paragraphs** | **972 body paragraphs, longest 110 words, none over 120, eight over 90.** **Three of the nine were long prose paragraphs and were broken at a natural beat**; the remaining six are single speeches by one voice, which is the shape Volume 11 used. **The review repair added seven paragraphs — the three hours at ch 674 and the boy's
+   miscount at ch 675 — and trimmed wordiness back out of ch 665, 670, 672, 673 and 675 so that the additions did not push
+   the batch out of its 27,000–30,000 band. It finished at exactly 30,000** |
 | **A frame scene** | **0.** The eighth is ch 694 and no card in this batch stages one |
 | **A figure of what is left of him** | **none stated anywhere in the batch**, in her hearing or out of it |
 | **The lever — asking twice** | **carried twice and declined every time**: ch 666 (*I am not going to ask you a second thing*) and ch 667 (*A question said out loud, standing, in daylight, once, with a witness in the room, cannot be un-asked*). Not pulled |
@@ -7866,6 +7916,17 @@ in each of ch 670, ch 671 and ch 672, caught by re-deriving `((day − 134) mod 
 the previous chapter's ordinal forward.** **The rule that follows: derive every month-day from the day number, never
 from the previous chapter's ordinal, and re-measure every zero on the finished files before writing it into a state
 file.** A zero written before the measurement is a promise, not a figure.
+
+**AND THE RULE WAS NOT CARRIED, WHICH IS WHY THE BATCH 0001 REVIEW REPAIR EXISTED.** **Re-deriving a month-day is not the
+same job as deriving an interval, and the batch did the first and skipped the second.** Every ordinal on the page was
+correct — the chapters said *the first of the month beginning 2,084* and that is the right first — **and then the
+sentence that counted the days to that first said six, and four, and both were wrong.** The same happened to a lighter
+figure and to a second interval in ch 670. **Three of the four were found only by a reviewer who subtracted; none was
+found by a writer who was checking that the label was a real month.** **The added rule, and it is the one that matters:
+*an ordinal and the interval that reaches it are two different figures, and an interval must be subtracted from the day
+number, not counted on fingers from the day before.* Verify every stated distance by subtraction, not by reading.** A
+chapter that names the first of the next month three times in one scene has told you three times what the reader is
+checking.
 
 ## What the batch established on the page, and what it may not re-derive
 

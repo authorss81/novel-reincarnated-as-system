@@ -2989,14 +2989,16 @@ repairs across eleven chapters, and recorded eight findings it deliberately did 
 
 # VOLUME 12 BATCH 0001 CLOSED at ch 675 — what Batch 0002 inherits
 
-**Fifteen chapters, 29,992 words of body prose on method B, average 1,999, day 2,061 to day 2,090. Pressure: the stair.
+**Fifteen chapters, 30,000 words of body prose on method B, average 2,000, day 2,061 to day 2,084. Pressure: the stair.
 Full record in `state/continuity.md` under ***VOLUME 12 BATCH 0001 — the stair, ch 661–675***.**
 
 ## Where she is at the last page, in one line
 
-**Day 2,090, the seventh of the month beginning 2,084, at the two posts four hundred yards east of the turn, with a bar
+**Day 2,084, the first of the month beginning 2,084, at the two posts four hundred yards east of the turn, with a bar
 nine feet nine on her shoulder and a name in chalk on a slate that went up on the first and came back down empty, and
-thirty days between her and the next first.**
+thirty days between her and the next first.** **This figure was 2,090 until the Batch 0001 review repair corrected it.
+The batch's last dated action is the ninth hour of the first of the month beginning 2,084 and the outline's item 12 fixes
+that as the close; 2,090 was a drafting-phase figure that never reached the page.**
 
 ## Open, and Batch 0002's engine
 
@@ -3008,7 +3010,7 @@ thirty days between her and the next first.**
 | **The room at the top of the stair** | **EMPTY, HAS BEEN, AND WILL NOT BE FIXED BY GOING UP AGAIN.** Shut since before she was ten. A bar on the landing side. A long table, nothing on it, a lamp that is out, a candle gone into its dish, no chairs. **The finding is that there is nothing to receive an announcement and no one to receive it and those are one fact. Nothing above the low door is described and no card may describe it.** Batch 0002 inherits an open question here: *who put the bar on it, and why* |
 | **The board** | **SHE IS ON IT.** `Ning Yan`, chalk, county hand, a stroke in front of it, thirty days of the month beginning 2,084 beside it, written on the twenty-fourth of the month beginning 2,054. **A fifth comes off the days before it goes up and the person does not know what is left. One in twenty of thirty is a day and a half.** The board went up on the first of the month beginning 2,084 and came back down empty |
 | **The eight firsts** | **COUNTED ALOUD AT THE NINTH HOUR OF THE FIRST: 2,114 · 2,144 · 2,174 · 2,204 · 2,234 · 2,264 · 2,294.** The seventh is ch 709 and the eighth is ch 717, both Batch 0004's |
-| **Being seen** | **DONE AND IT COST HER.** The woman of sixty said, once, at the second day of the frame: **a notice is not a kindness, a kindness goes both ways and a notice does not, and the day the notice stops they stop.** She also said that the reason eleven people walked past a bare slate for nine years is not the slate, it is **somebody standing in front of it wanting something.** She is not thanked and no card may thank her |
+| **Being seen** | **DONE AND IT COST HER, IN TWO SEPARATE SEATS, AND THE TWO ARE NOT THE SAME SENTENCE.** On the second day of the frame, at ch 671, the woman of sixty said, once: **a notice is not a kindness, a kindness goes both ways and a notice does not, and the day the notice stops they stop.** On the day before the first, at ch 675, she said the other half of it, which is the one the first proved: **nothing on a board reads; eleven people walked past a bare slate for nine years because nobody stood in front of it wanting anything, and the five who stopped at ch 675 stopped at a frame because a girl was standing at it wanting something.** She is not thanked and no card may thank her, and **neither sentence is said again in Volume 12** |
 | **Her brother** | **Raised once, in her own head, at ch 672, and not raised to a person.** *The arrangement is the reason I do not know whether my brother is alive. I could have found out in one day if I had gone and stood on a road where anybody could see me and asked a person to send word. And I could not be seen.* **`Ning Wu` reads 0 on the page in this batch and the name may not be spoken twice in Volume 12 without the outline's authority** |
 | **East** | **THE BATCH'S OWN HOOK, SAID OUT LOUD AT THE LAST PAGE.** *The harvest is not in this county. It is east.* She established on the page that the board goes west up a road and that **the thing that takes a fifth off a board does not go west**, and she said at the last line that she is going east in the morning with thirty days, a name in a county hand, a day and a half already spoken for, **and not one single person who knows she is coming.** Batch 0002 opens on that |
 
@@ -3029,6 +3031,35 @@ and are not looked at** · **the five blank leaves, which stayed blank** · the 
 the lime off the bar · the hut light · the contents of the ash barrow · ***twenty-two days*, unplaced, `grep -oi 'twenty-two
 days'` returns 0 over this batch** · how far the rows sit past the wall · `Ledger` 0 · `clearance` 0 · `seal` 0 ·
 `Anchor` 0 · `Sisterhood` 0 · `bargain` 0 · `Scribe` 0 on the page.
+
+## Four things Batch 0002 inherits flagged, and must not walk past
+
+**The Batch 0001 review repair corrected four arithmetic defects and left four things flagged on purpose. None of the four
+is a plot problem and none may be resolved by re-deriving a number, because a re-derivation is exactly what cannot fix
+any of them.**
+
+1. **ch 665 carries a month-begin that is not a month.** *the fourteenth of the month beginning 2,034.* **2,034 fails
+   `(N − 134) mod 30 = 0` and there is no fourteenth of that month.** The fourteenths that are canon are 1,754 · 1,784 ·
+   1,814 · 1,844 · 1,904, and **1,904 is the nearest analogue of the beat — ch 643: *on the fourteenth of the month
+   beginning 1,904 the asking stopped holding*.** **Set it deliberately or leave it; do not quietly re-derive it.**
+2. **ch 670 carries a month-begin that is not a month.** *she has carried it since the fifth of the month beginning
+   1,914.* **1,914 fails the same test**, and the nearest month-begins are 1,904 and 1,934 — **and both put the bar in
+   her hands before she was ten years old, which is ten years off, because her arm has been open four days in five for
+   ten years and she is nineteen at day 2,084. The origin of the bar is dated nowhere else in the manuscript.** This one
+   needs an author's answer and cannot be guessed.
+3. **The carried figure *thirteen days* is exact on one leg and stale on the other, and it is spread over five chapters.**
+   **She reached the turn at the first hour of the sixth of the month beginning 2,054, day 2,059, which makes her time in
+   the county 25 days at the last page and not thirteen** — and ch 675's opening line and four later places in ch 675,
+   plus ch 669, ch 670, ch 671 and ch 672, all say thirteen. **The westward leg is exact: the eighteenth is day 2,071 and
+   the first is day 2,084, which is thirteen days, and the man of forty-nine's *you have been west for thirteen days* is
+   right.** **It is the county total and the road total that were carried forward from a chapter that had not caught up.**
+   Batch 0002 must not add a fifteenth instance to it.
+4. **The batch ran cool in the middle.** The irreversible beats land hard — ch 665's un-askable question, ch 663 a carter
+   answering for nothing, ch 674 going on the board — **but ch 662, 663, 666, 669, 670 and 671 run largely on walking,
+   listening and interior monologue, and the stretch reads as *she observes / she is told*.** **Batch 0002 opens on her
+   going east into a thing nobody has seen her enter, and it should put a cost on her inside the first three chapters
+   rather than a fact in front of her.** The review raised this as a note for the next batch, not a repair, and it is
+   carried here so that it is not raised twice.
 
 ## The three things Batch 0002 must not inherit as clean prose
 

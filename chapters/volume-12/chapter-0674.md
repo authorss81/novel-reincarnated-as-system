@@ -34,7 +34,9 @@ He said, “It is a true statement about what went up.”
 
 She said, “Yes.”
 
-She stood there for a count of twenty with her left hand on the strap of the bar and the open arm hanging and the light coming up behind the two posts, and then she said, out loud, standing, in daylight, at the ninth hour of the twenty-fourth of the month beginning 2,054, to a man of forty-nine with a stick of white chalk in his hand:
+The three hours were three columns, a rag, and a woman of sixty on a bench four hundred yards west who did not come down the road. The sun came over the shoulder of the hill and the slate stayed clean.
+
+She stood there for a count of twenty with her left hand on the strap of the bar and the open arm hanging and the light hard on the two posts, and then she said, standing, in daylight, at the ninth hour of the twenty-fourth of the month beginning 2,054, to a man of forty-nine with a stick of white chalk in his hand:
 
 “My name is Ning Yan.”
 
@@ -96,13 +98,13 @@ The woman of sixty said, “That is your name.”
 
 She said, “It is.”
 
-The woman of sixty said, “I did not know you were going to do that on the day he comes. I had nine days of guessing what you were going to do at this frame and I had it wrong every one of them.”
+The woman of sixty said, “I did not know you were going to do that on the day he comes with the chalk. I had nine days of guessing what you were going to do at this frame and I had it wrong every one of them.”
 
 She said, “I am. I said on a bench on the nineteenth that I was going to and I have said it out loud to you and to two posts and to four people and to a man of forty-nine, and there is no way of taking any of it back and I did not want there to be.”
 
 She said, “It is the twenty-fourth of the month beginning 2,054 and there is nothing else to know about the day.”
 
-The woman of sixty said, “It is the day he comes.”
+The woman of sixty said, “It is the day he comes with the chalk.”
 
 She said, “It is.”
 

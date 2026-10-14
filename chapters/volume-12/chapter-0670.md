@@ -1,6 +1,6 @@
 # The Same Four Miles
 
-She went down the mountain at the second hour of the eighteenth of the month beginning 2,054 with the can of oil on her shoulder, because a boy of sixteen had carried it four times in two days and she had counted, and because she had noticed him counting that she was watching him and she had decided to do the one thing that was in reach.
+She went down the mountain at the second hour of the eighteenth of the month beginning 2,054 with the can of oil on her shoulder, because a boy of sixteen had carried it four times in two days and she had counted, and because she had noticed him counting her watching him and decided to do the one thing that was in reach.
 
 She went down the long way round the tanner’s, because the short way goes past a door she has not gone past in five years and the size of this life does not need one more thing she has not been asked about.
 
@@ -14,7 +14,7 @@ The breath went to seven on the cart track and to five on the made road and to f
 
 She ate half a loaf at the fourth hour, sitting on a wall, and the other half was for the evening, and she is not hungry, and has not been hungry since she was ten years old and has never once worked out what that means.
 
-The arm was open. It is open four days in five and this was one of them, and the bar was on her left shoulder by the ninth hour and stayed there for the rest of the day, and she does the swap at a wall or a gate without stopping and without deciding, and it has been the same for ten years.
+The arm was open. It is open four days in five and this was one of them, and the bar was on her left shoulder by the ninth hour and stayed there, and she does the swap at a wall or a gate without stopping and without deciding, and it has been the same for ten years.
 
 ## Nine Miles And A Wheel That Has Not Turned
 
@@ -40,7 +40,7 @@ She could see the two posts from the turn. Four hundred yards east, and they are
 
 She worked out the number standing where she stood, because she was going to be asked about it later and she does not want to be the sort of person who has not done the sum.
 
-The eighteenth of the month beginning 2,054. The twenty-fourth is six days off. The first of the next month is fourteen days off, and the board goes up on the first, and a thing that is going to be on a board has to be on it before the first goes up.
+The eighteenth of the month beginning 2,054. The twenty-fourth is six days off. The first of the next month is thirteen days off, and the board goes up on the first, and a thing that is going to be on a board has to be on it before the first goes up.
 
 That is not a rule. She has not got a rule. It is what a board does and she has watched boards since she was twelve, and she is going to find out at the posts in a day or two whether she has it right.
 

@@ -2231,8 +2231,9 @@ repairing it means softening a sentence.**
 
 # VOLUME 12 BATCH 0001 — *the stair*, ch 661–675
 
-**Fifteen chapters, 29,992 words of body prose on method B, average 1,999. Day 2,061 to day 2,090. Pressure: the stair.
-Severance 9 throughout, no stage taken, no bracket spent, no frame scene. One irreversible step, at ch 674.**
+**Fifteen chapters, 30,000 words of body prose on method B, average 2,000. Day 2,061 to day 2,084. Pressure: the stair.
+Severance 9 throughout, no stage taken, no bracket spent, no frame scene. One irreversible step, at ch 674.
+Re-measured by the Batch 0001 review repair; the day range read 2,061 to 2,090 and the figure 29,992 until then.**
 
 - **ch 661, day 2,061, *The Word She Does Not Have*. DECISION.** The eighth of the month beginning 2,054, dawn at the
   turn and then west on foot past the post at nine miles and the mill with the wheel that has not turned in nine years.
@@ -2270,6 +2271,9 @@ Severance 9 throughout, no stage taken, no bracket spent, no frame scene. One ir
   goes where there is something to receive it.** The second half is in a room and a person in the room and a hand. **She
   feels the lever come up — asking again would not be asking two things at once, because the first had been answered —
   and refuses it out loud, in the room, so that he will know it is a refusal and not an oversight.**
+  **This chapter carries one of the two invalid month-begins the Batch 0001 review repair flagged and did not guess — *the
+  fourteenth of the month beginning 2,034*, where 2,034 is not a month start. See the flagged list in
+  `state/open-threads.md`.**
 - **ch 666, day 2,066, *Four Floors And No Answer*. COST.** The thirteenth of the month beginning 2,054, a whole day in
   a lit room with nothing to do in it. **She cannot take a sheet off the pile: the moment her hand is on a county sheet
   her hand is in a county column, and a girl with a bar has no standing whatever in that building.** Nine sheets a day,
@@ -2302,9 +2306,13 @@ Severance 9 throughout, no stage taken, no bracket spent, no frame scene. One ir
   thirteen miles west. She stops at the mill for the first time in five years and says out loud, on a made road, that a
   room shut for nine years and a wheel that has not turned for nine years are two numbers that happen to be the same, and
   that she is not going to build anything on that. **She works out the arithmetic of the first from the turn: the
-  twenty-fourth is six days off and the first of the next month is fourteen.** She tells the woman of sixty, out loud, that
+  twenty-fourth is six days off and the first of the next month is thirteen.** She tells the woman of sixty, out loud, that
   she is going to stand at the two posts, and why — that everything she has found out in six days has been standing on a
-  notice that tells four hundred people where she is.
+  notice that tells four hundred people where she is. **Both figures corrected by the Batch 0001 review repair: the first
+  of the month beginning 2,084 is day 2,084 and the eighteenth is day 2,071, and the difference is thirteen, not
+  fourteen.** **This chapter also carries one of the two invalid month-begins the repair flagged and did not guess —
+  *the fifth of the month beginning 1,914*, where 1,914 is not a month start and the origin of the bar is dated nowhere
+  else. See the flagged list in `state/open-threads.md`.**
 - **ch 671, day 2,072, *The Woman Who Was Right*. EMOTIONAL CONSEQUENCE.** The nineteenth of the month beginning 2,054,
   a whole day on the bench. **She says her own name out loud three times in the grit and works out that on a road a name
   is a thing you say to a person and it means you know them, and you do not know her.** She works out that a board is not
@@ -2317,10 +2325,12 @@ Severance 9 throughout, no stage taken, no bracket spent, no frame scene. One ir
   hour, four hundred yards east of the turn, in daylight, with four people going past. She fits her thumb in the groove
   round three sides of the slate and sets the nib and the ink on the lip of the frame and **does not write**. Then she says
   it out loud, in public, and it cannot be said back: **a board is the only thing anybody in this world has ever paid her
-  for, and a board is the only thing the fraction comes off, and they are one object and not two.** One in twenty of 510
+  for, and a board is the only thing the fraction comes off, and they are one object and not two.** One in twenty of 513
   is twenty-five and a half days. **The only reason the sum has never come off her is that she has never been on a board,
   and the thing that kept her alive is the thing she has been calling a humiliation.** She also says out loud, once, that
   not being seen is what stopped her finding out whether her brother is alive. She is getting on the board.
+  **The 513 is corrected by the Batch 0001 review repair and the page said 510: the series is D − 1,560, verified at ch
+  658, 659 and 660, and day 2,073 − 1,560 = 513.**
 - **ch 673, days 2,074–2,076, *A Hand And No Reader*. COST.** Three days at the frame and the man with the board on the
   third. She watches a thumb wipe a slate in the time it takes a man to turn round twice. **She says the part about not
   being paid out loud, standing, before anybody has offered it to her and before she has asked one question, so that not
@@ -2330,7 +2340,8 @@ Severance 9 throughout, no stage taken, no bracket spent, no frame scene. One ir
   before it goes up and the person does not know what is left.** She asks her one question, standing, in daylight, and
   does not get it answered.
 - **ch 674, day 2,077, *What The Levy Can Reach*. THE CLIMAX. IRREVERSIBLE: SHE IS ON A BOARD.** The twenty-fourth of the
-  month beginning 2,054, the ninth hour. **She holds one question back, asks it, and is told the answer: the name goes
+  month beginning 2,054, **sixth hour to ninth hour — the three hours between them now carry a short passage the review
+  repair added, and before it they did not.** **She holds one question back, asks it, and is told the answer: the name goes
   on it, the days go on it, the fifth comes off the days and not off the name, and the board on the first is a true
   statement about what went up.** Then she says her name out loud in daylight. He writes it in chalk in a county hand, in
   one line, without looking at it, and writes thirty days of the month beginning 2,084 beside it. **She does the sum out
@@ -2339,13 +2350,18 @@ Severance 9 throughout, no stage taken, no bracket spent, no frame scene. One ir
   hand, and it is the first time in her life there is a line in a hand anywhere in the world with her name at the end of
   it that is not in a book against her ribs.** It cannot be put back. She decides to stand in the grit at the first hour
   of the first of the month beginning 2,084, four feet back, where a cart can go past.
-- **ch 675, days 2,078–2,090, *Counting The Days She Can See*. CLIMAX RESOLUTION.** Thirteen days at the frame and one
-  trip up the mountain to the boy, and four days early back down because four days is what a mountain and a stair take if
-  nothing goes wrong. **The board goes up on the first at the first hour on a cart with a piece of sacking over the
-  slate, and eleven people go past the empty sockets in an hour and ten minutes and not one of them looks down.** The
-  woman of sixty says the true thing again — *it was not the writing, it was you wanting it* — and **she counts the eight
-  firsts out loud: 2,114 · 2,144 · 2,174 · 2,204 · 2,234 · 2,264 · 2,294**, and says that at the eighth of them something
-  is going to happen that she cannot see from here. **The hook, said out loud: a board goes west up a road, and the thing
-  that takes a fifth off a board does not go west, and there has been no fifth of her west of this turn since the
-  eighteenth of the month beginning 1,814, and so the harvest is east, and she is going east in the morning with thirty
-  days and not one single person who knows she is coming.**
+- **ch 675, days 2,078–2,084, *Counting The Days She Can See*. CLIMAX RESOLUTION.** Thirteen days at the frame and one
+  trip up the mountain to the boy. **He counts the days to the first wrong — six — and she corrects him to three, because
+  he counted off today and the first is not in the month that is written on the slate.** She comes down on the thirtieth,
+  the day before, and says **one day is not enough for a mountain and four miles of made road if anything goes wrong, and
+  it is enough if nothing goes wrong, and there is no second version of it.** **The board goes up on the first at the first
+  hour on a cart with a piece of sacking over the slate, and eleven people go past the empty sockets in an hour and ten
+  minutes and not one of them looks down.** The woman of sixty says the true thing — *it was not the writing, it was you
+  wanting it* — and **she counts the eight firsts: 2,114 · 2,144 · 2,174 · 2,204 · 2,234 · 2,264 · 2,294**, and says that at
+  the eighth of them something is going to happen that she cannot see from here. **The hook, said out loud: a board goes
+  west up a road, and the thing that takes a fifth off a board does not go west, and there has been no fifth of her west
+  of this turn since the eighteenth of the month beginning 1,814, and so the harvest is east, and she is going east in the
+  morning with thirty days and not one single person who knows she is coming.** **The batch's last dated action is the
+  ninth hour of the first of the month beginning 2,084, which is day 2,084** — this entry read *2,078–2,090* until the
+  Batch 0001 review repair corrected it, and the same correction was made in `state/current.md`, `state/continuity.md` and
+  `state/open-threads.md`.

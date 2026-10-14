@@ -5332,25 +5332,32 @@ targets and were left over them on purpose: `nobody` 34, `eleven` 44, `thank` 16
 
 ## Who is where at end of ch 675 — VOLUME 12 BATCH 0001 CLOSED ON THE PAGE (cold reader starts here)
 
-**Day 2,090, the seventh of the month beginning 2,084, at the two posts four hundred yards east of the turn on the store
+**Day 2,084, the first of the month beginning 2,084, at the two posts four hundred yards east of the turn on the store
 road, with a bar nine feet nine on her shoulder and a name in a county hand on a slate that went up on the first and came
 back down empty.** Volume 12 — *The Road Up*, ch 661–720 — is running. **Batch 0001, ch 661–675, is complete on the
 page.** Full record in `state/continuity.md` under ***VOLUME 12 BATCH 0001 — the stair, ch 661–675***; the per-chapter line
 is at `state/chapter-summaries.md`; what Batch 0002 inherits is at `state/open-threads.md`.
 
-**THE BATCH'S FIGURES, measured and published once.** **`chapters/volume-12/` holds ch 661–675, fifteen chapters, 29,992
-words of body prose on method B, average 1,999 a chapter.** Day 2,061 to day 2,090. **Method B is every line not beginning
-`#`, counted per file and summed.** Per chapter: 2,029 · 1,928 · 1,842 · 1,968 · 2,087 · 1,855 · 2,022 · 1,937 · 1,964 ·
-2,136 · 1,882 · 1,996 · 2,365 · 1,966 · 2,015. **Zero brackets in fifteen chapters, zero bold, two italic lines, zero
+**THE BATCH'S FIGURES, measured and published once.** **`chapters/volume-12/` holds ch 661–675, fifteen chapters, 30,000
+words of body prose on method B, average 2,000 a chapter.** Day 2,061 to day 2,084. **Method B is every line not beginning
+`#`, counted per file and summed.** Per chapter: 2,029 · 1,928 · 1,842 · 1,968 · 2,086 · 1,855 · 2,022 · 1,937 · 1,964 ·
+2,126 · 1,882 · 2,001 · 2,312 · 2,010 · 2,038. **Zero brackets in fifteen chapters, zero bold, two italic lines, zero
 blockquotes or fences or tables or rules, zero straight quotes or apostrophes, zero all-caps standalone lines, zero
 duplicate section headings, zero authorial scaffolding, zero named weekdays or months, zero retired phrases.**
 **`nobody` 9 against under twelve · `eleven` 10 against under sixteen · `thank` 0 · `forgiv` 0 · `the year` 0 · `week` 0.**
+
+- **CORRECTED BY THE BATCH 0001 REVIEW REPAIR (day 2,084, not day 2,090).** **The batch's last dated action is the ninth
+  hour of the first of the month beginning 2,084, which is day 2,084 — not day 2,090.** The card allowed 2,078–2,090 and
+  `outline/volume-12.md` item 12 fixes the beat as *the first of the month beginning 2,084 comes and goes at ch 675*, so
+  2,084 is the planned close and 2,090 was a drafting-phase figure that never reached the page. **Every state file, every
+  summary and the day-2,090 endpoint have been corrected. Four arithmetic defects on the page were corrected in the same
+  pass and are itemised under *VOLUME 12 BATCH 0001 REVIEW REPAIR* in `state/continuity.md`.**
 
 - **Ning Yan — SEVERANCE 9 throughout the batch.** No stage taken, no stage named, no bracket spent. **Nine stages past a
   ceiling that no longer exists. Nineteen years old.** Four fingers and a thumb on the right hand, the index gone. Right
   arm open four days in five. Four counts of breath everywhere and seven on a rise and nine on eight flights. Eight of
   eleven holds. The small open place low behind her fourth rib. **501 days lighter at the first page and 517 at the
-  twenty-fourth and 530 at the last, the figure at any day D being D − 1,560.** Not hungry.
+  twenty-fourth and 524 at the last, the figure at any day D being D − 1,560.** Not hungry.
 - **What the batch did.** She walked west off the turn at ch 661 and found out that the sentence she had said at ch 660
   had no object in it · **she went up four miles and eight flights and found a boy of sixteen keeping a lamp that ought not
   to be burning** at ch 662 · **the carter's answer came out at ch 663, and it is the first time in eleven volumes that

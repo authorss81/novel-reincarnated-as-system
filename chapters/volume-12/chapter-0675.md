@@ -1,12 +1,12 @@
 # Counting The Days She Can See
 
-She was at the two posts at the first hour of the first of the month beginning 2,084 and she had been in this county for thirteen days and she had not slept in a building in any of them.
+She was at the two posts at the first hour of the first of the month beginning 2,084 and she had been in this county for thirteen days and had not slept in a building in any of them.
 
 ## Thirteen Days On A Store Road
 
-The thirteen days are the whole of the middle of this and there is not a great deal to say about them, and she said that out loud on the twenty-sixth to a woman of sixty on a bench, and it was true.
+The thirteen days are the whole of the middle of this and there is not a great deal to say about them.
 
-She stood at the frame in the mornings. She read whatever was on the slate, because she had said out loud in front of a man of forty-nine that she would, and there was nothing on it and she read the nothing. A carter going west stopped on the twenty-eighth, looked at it, said, “That is not much of a board,” and went on.
+She stood at the frame in the mornings. She read whatever was on the slate, because she had said out loud in front of a man of forty-nine that she would, there was nothing on it, and she read the nothing. A carter going west stopped on the twenty-eighth, looked at it, said, “That is not much of a board,” and went on.
 
 She ate a loaf and a half a day. She did not sleep. She washed a cloth in the trough by the bench at the ninth hour and she did not have a place to put it at night so she carried it.
 
@@ -20,19 +20,23 @@ He said, “Whose.”
 
 She said, “Mine. On the twenty-fourth of the month beginning 2,054, in a county hand, with thirty days of the month beginning 2,084 beside it.”
 
-He said, “Then the first is in six days.”
+He said, “Then the first is in three days.”
 
-She said, “In six days.”
+She said, “The twenty-ninth, the thirtieth, and then the first, and the first is not in the month that is written on the slate. That is three.”
+
+He said, “I had six. I counted off today.”
+
+She said, “You counted off today. That is how a boy of sixteen gets six out of three.”
 
 ## Coming Down On A Date
 
-She came down the mountain at the second hour of the thirtieth of the month beginning 2,054, which is four days before the first, and she was at the frame by the ninth hour of the first.
+She came down the mountain at the second hour of the thirtieth of the month beginning 2,054, which is the day before the first, and she walked the four miles and stood at the frame and did not sit down.
 
-She has never in her life arranged to be four days early for anything that was going to be said at the first hour, and she did it because the alternative was that she would be nine miles off on a made road and the board would go up and come back down empty and she would not have been there.
+She has never in her life arranged to be the night before anything that was going to be said at the first hour, and she did it because the alternative was that she would be nine miles off on a made road and the board would go up and come back down empty and she would not have been there.
 
-She said, out loud, standing at the two posts, at the ninth hour of the thirtieth of the month beginning 2,054:
+She said it standing at the two posts, at the fourth hour of the thirtieth, in daylight, with the bar on the ground against her boot:
 
-“I have done the sum. Four days is not enough for a mountain and a stair and a road if anything goes wrong. It is enough if nothing goes wrong. And there is nothing I can do about anything going wrong, so I have done the sum and I have come down and there is no second version of it.”
+“I have done the sum. One day is not enough for a mountain and four miles of made road if anything goes wrong. It is enough if nothing goes wrong. And there is nothing I can do about anything going wrong, so I have done the sum and I have come down and there is no second version of it.”
 
 ## The Woman Of Sixty On The Day Before
 
@@ -66,7 +70,7 @@ At the first hour of the first of the month beginning 2,084 a man with a cart ca
 
 She could see that he had done it before, in the way he put the cart parallel without being told and in the way he reached out with his right hand and did not look at what he was taking.
 
-He took the slate out of the frame. He put it on the cart on its edge against a board with four bundles on it and a length of pipe, and he put a piece of sacking over it, and he took the whole thing — slate, frame, two posts, all of it, because the posts go into sockets in a flat cart and he had four sockets and four bolts — and it went onto the cart and the cart stood there.
+He took the slate out of the frame. He put it on the cart on its edge against a board with four bundles on it and a length of pipe, put a piece of sacking over it, and took the whole thing — slate, frame, two posts, all of it, because the posts go into sockets in a flat cart and he had four sockets and four bolts — and the cart stood there.
 
 She stood four feet back, in the grit, where she had said on the twenty-fourth that she would stand, with the bar on her left shoulder and the arm open and the light coming grey off the east.
 
@@ -82,13 +86,13 @@ She said it out loud, standing in the grit at the foot of two sockets, at the se
 
 “Eleven people went past this frame in an hour and not one of them looked down.”
 
-She said, “And I have been on it for one first out of the whole of my life and the whole of the sum of what it cost me was a stroke in front of my name and a number and a month, and a man with a cart has taken it east, and my name is not in this county any more until he brings it back on a wet evening and wipes it.”
+She said, “And I have been on it for one first out of the whole of my life, and the whole of what it cost me was a stroke, a number and a month, and a man with a cart has taken it east, and my name is not in this county any more until he brings it back on a wet evening and wipes it.”
 
 She said, “That is not a failure. I want that said plainly, because I have been standing here for thirteen days with a bar on my shoulder waiting to feel something enormous and there was nothing enormous and there was a carter and a piece of sacking.”
 
 ## Thirty Days
 
-The man with the board came back at the ninth hour of the first with the frame and the slate and the four bolts and put it back into the sockets and squared it by the eye and took the slate out of the sacking and wiped it from the left corner to the right corner with the flat of his thumb, left to right, without hurrying.
+The man with the board came back at the ninth hour of the first with the frame and the slate and the four bolts, put it back into the sockets, squared it by the eye, took the slate out of the sacking and wiped it from the left corner to the right corner with the flat of his thumb, left to right, without hurrying.
 
 She said, “Is it empty.”
 
@@ -106,7 +110,7 @@ He said, “It is thirty days. It has been thirty days all my working life.”
 
 ## The Eight Of Them
 
-And then she counted them, out loud, standing in the grit at the foot of two posts, at the ninth hour of the first of the month beginning 2,084, with a man of forty-nine and a woman of sixty and a bar nine feet nine:
+And then she counted them, standing in the grit at the foot of two posts, at the ninth hour of the first of the month beginning 2,084, with a man of forty-nine and a woman of sixty and a bar nine feet nine, and she did not hurry and she did not skip one and she did not count any of them twice:
 
 She said, “The first of the month beginning 2,114. That is the second.”
 
@@ -122,7 +126,7 @@ She said, “The first of the month beginning 2,264. That is the seventh.”
 
 She said, “The first of the month beginning 2,294. That is the eighth.”
 
-She said, “And between now and the eighth of them there is one day and a half of me that will be taken off a column that is on a cart in the east with a piece of sacking over it, and not one of the eight will say so to me, and I will stand in this grit eight times and eleven people will go past and look at nothing eight times, and at the eighth one of them something is going to happen that I cannot see from here.”
+She said, “And between now and the eighth of them there is one day and a half of me that will be taken off a column on a cart in the east under a piece of sacking, and not one of the eight will say so to me, and I will stand in this grit eight times and eleven people will go past and look at nothing eight times, and at the eighth something is going to happen that I cannot see from here.”
 
 The man of forty-nine said, “Nothing is going to happen that you cannot see from here.”
 

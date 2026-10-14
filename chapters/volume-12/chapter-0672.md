@@ -24,7 +24,7 @@ She said, “Not because the board is good. Because the board is seen.”
 
 Then she was quiet for about a minute, because the second half of it is the half she has been carrying for four years and had never once put next to the first half.
 
-She said, out loud, on a road, in daylight, with four people going past:
+She said it again a minute later, on the grit, with four people going past:
 
 “The levy is one in twenty, counted in days, and it comes off a board before the board goes up.”
 
@@ -40,11 +40,11 @@ She said, “And they are the same object. Not two objects with one between them
 
 ## The Figure She Computed Herself
 
-She did the arithmetic standing at the two posts in the grit, out loud, in daylight, the way she has done every figure in her life since she was nine years old.
+She did the arithmetic standing at the two posts in the grit, out loud, in daylight, the way she has done every figure in her life since she was nine.
 
 She said, “One in twenty.”
 
-She said, “I have been lighter five hundred and ten days this morning, counting the eighteenth of the month beginning 1,544 as the first, and not one of them going back.”
+She said, “I have been lighter five hundred and thirteen days this morning, counting the eighteenth of the month beginning 1,544 as the first, and not one of them going back.”
 
 She said, “One in twenty of five hundred and ten is twenty-five and a half days. And at four hundred and twenty days, four years ago, I divided it by twenty in front of a gate and got twenty-one, and I sat in the grit with my mouth open because it came out exact.”
 
@@ -70,7 +70,7 @@ Then she took the stub of the nib out of the front of her bag and the cake of in
 
 She stood there with a nib and a bit of ink and a slate in a frame four hundred yards east of a turn for about two minutes, and the two minutes are the whole of what the day was for.
 
-She said, out loud, to the frame, in daylight:
+She said it to the frame, standing where a man would have to stand to read it:
 
 “I cannot write a false line. That is the rule on this hand and it has been on it since I was ten and I have not been able to get round it once.”
 
@@ -86,13 +86,13 @@ She said, “Not today. I have got two days and there is a man coming on the twe
 
 A cart came west at the fourth hour and a man with a dog went east at the fifth, and neither of them looked at the two posts.
 
-She said, out loud, in the grit, at the sixth hour, to the slate:
+She said it in the grit, at the sixth hour, to the slate:
 
 “I have been afraid of one thing since I was ten years old and it is not a man and it is not a county and it is not a figure. It is being seen.”
 
 She said, “And I have spent nine years arranging not to be seen, and it is the best arrangement I have ever made and it has cost me a name in two hands and a place to sleep and wages and a brother, and every one of those was a payment for the arrangement.”
 
-She said, “And it worked. I am alive at nineteen. I have been lighter for five hundred and ten days and not one of them has gone back and not one of them has been taken off a board, because there has not been a board.”
+She said, “And it worked. I am alive at nineteen. I have been lighter for five hundred and thirteen days and not one of them has gone back and not one of them has been taken off a board, because there has not been a board.”
 
 She said, “And the arrangement is the reason I do not know whether my brother is alive. I could have found out in one day if I had gone and stood on a road where anybody could see me and asked a person to send word. And I could not be seen. And so I have not asked.”
 
@@ -102,7 +102,7 @@ She said, “That is what not being seen costs and I have been paying it every d
 
 A carter came west at the seventh hour and went past. A woman came east with a bucket at the eighth. Two men came west with a handcart and one of them said “Morning” to her and she said “Morning” back, and neither of them looked at the two posts, because there is nothing on them.
 
-She said, out loud, on the grit, at the ninth hour, with the bar back on her shoulder:
+She said it on the grit at the ninth hour, with the bar back on her shoulder:
 
 “I am going to say the second part of this out loud because I am not going to have it in my head on my own, and because a thing that is only in my head is the thing I have been living on for ten years.”
 

@@ -2,15 +2,15 @@
 
 ## What this phase is
 
-**Volume 12 Batch 0001, ch 661–675, *the stair*, is closed, audited and measured on the page. Fifteen chapters, 29,992 words
-of body prose on method B — every line not beginning `#`, counted PER FILE and summed — average 1,999 a chapter, day 2,061
-to day 2,090. Zero bracketed layer lines in fifteen chapters, zero bold, two italic lines, zero straight quotes or
-apostrophes, zero retired phrases, zero duplicate section headings, zero authorial scaffolding, and `nobody` 9 · `eleven` 10
-· `thank` 0 · `forgiv` 0 · `the year` 0 · `week` 0.** She went up a stair, found a room with a long table in it and nothing
-on the table, put a dead man's handwriting back in a locked drawer, asked one question she cannot un-ask, got half an answer,
-worked out out loud on a public road that a board is the only thing anybody has ever paid her for and is also the only thing
-the levy comes off, **and at ch 674 got on one.** The first of the month beginning 2,084 came and went and eleven people did
-not look at it.
+**Volume 12 Batch 0001, ch 661–675, *the stair*, is closed, audited and measured on the page, and **repaired after its
+review.** Fifteen chapters, 30,000 words of body prose on method B — every line not beginning `#`, counted PER FILE and
+summed — average 2,000 a chapter, day 2,061 **to day 2,084 and not to day 2,090**. Zero bracketed layer lines in fifteen
+chapters, zero bold, two italic lines, zero straight quotes or apostrophes, zero retired phrases, zero duplicate section
+headings, zero authorial scaffolding, and `nobody` 9 · `eleven` 10 · `thank` 0 · `forgiv` 0 · `the year` 0 · `week` 0. She
+went up a stair, found a room with a long table in it and nothing on the table, put a dead man's handwriting back in a
+locked drawer, asked one question she cannot un-ask, got half an answer, worked out out loud on a public road that a board
+is the only thing anybody has ever paid her for and is also the only thing the levy comes off, **and at ch 674 got on
+one.** The first of the month beginning 2,084 came and went and eleven people did not look at it.
 
 **This phase drafts ch 676–690, fifteen chapters, and nothing else.** It writes finished prose in chapter order, one complete
 scene per chapter, and updates no file outside `chapters/volume-12/` except the state files its own brief names. **No second
@@ -85,6 +85,41 @@ row of stones on the south side at intervals set up by somebody for a reason she
 gate and the wall to lie down on** · the rows, two hundred people, a stone at the head of each row, a board at the north end ·
 and then the road the Order's building is on. **One counter, one room with the shutters up, one table with a lamp on every one
 of it, one book, and in this volume, one budget.**
+
+## What Batch 0001's review repair changed, and what this phase inherits flagged
+
+**Batch 0001 went through a repair pass before this prompt was written, and three things about it matter here.**
+
+**1. The batch closes on day 2,084, and this batch opens on day 2,091. Account for the six days.** **Batch 0001's last
+dated action is the ninth hour of the first of the month beginning 2,084 — she counts the eight firsts and says she is
+going east in the morning.** The batch's endpoint had been recorded as day 2,090 and the repair corrected it, because
+2,090 was a drafting-phase figure that never reached the page and `outline/volume-12.md` item 12 fixes the first as the
+close. **So ch 676 opens with six days already gone: she said she was going east in the morning and the first thing this
+batch must put on the page is what six days east of a turn on a made road alone and unseen actually did to her.** Do not
+retcon the six days away and do not open earlier than the card without saying so.
+
+**2. Two arithmetic defects in Batch 0001 were false on the page and are corrected. Do not restore them.**
+- **ch 675** said the first was *in six days* and that she came down *four days before the first*. **Under
+  `((day − 134) mod 30) + 1` the twenty-eighth of the month beginning 2,054 is day 2,081 and the first is day 2,084 — three
+  days — and the thirtieth is day 2,083, one day before.** Both are corrected, and the boy's miscount is now the beat.
+- **ch 672** said *five hundred and ten days* lighter on day 2,073. **The series is D − 1,560 and the figure is 513.** 510
+  is the figure for day 2,070, which is what the line in *Where the batch opens* above still correctly states — **the two
+  are different days and both readings are right.**
+- **ch 670** said the first of the next month was *fourteen days off* from the eighteenth. **2,084 − 2,071 = thirteen.**
+
+**3. Four things are flagged on the page and are NOT resolved.** **They are in `state/open-threads.md` under *Four things
+Batch 0002 inherits flagged*.** **ch 665 carries *the fourteenth of the month beginning 2,034*, which is not a month start,
+and ch 670 carries *the fifth of the month beginning 1,914*, which is not a month start and which also puts the bar in her
+hands before she was ten.** Neither may be fixed by re-deriving a number, because the correct value is a matter of authorial
+intent. **Third: the carried figure *thirteen days* is exact on the westward leg and stale on the county total — she reached
+the turn at day 2,059, which makes her time in the county twenty-five days at day 2,084 — and it stands in eight places
+across ch 665 to 675. Do not add a ninth.** **Fourth: the batch ran cool through the middle, on walking, listening and
+interior monologue, and this batch should put a cost on her inside its first three chapters rather than a fact in front of
+her.**
+
+**The rule the repair added, and it is the one to carry:** *an ordinal and the interval that reaches it are two different
+figures. Verify every stated distance by subtraction from the day number, not by counting on fingers from the day before.*
+Batch 0001 had every ordinal correct and three intervals wrong, and all three were found by subtraction, none by re-reading.
 
 ## Batch goal, midpoint, escalation, climax, irreversible step
 

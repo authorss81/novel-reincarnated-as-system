@@ -164,7 +164,7 @@ She said, “He does not have a hand. He has not had a hand since he was ninetee
 
 She said, “I have got a hand. Four fingers and a thumb on the right one and the index gone, and an arm that is open four days in five, and a hand that cannot write a false line, and it is the only instrument of the three that exists in nine days of road.”
 
-She said, out loud, to the bench and the window and the lamp in the cage above her, at the seventh hour of the twelfth of the month beginning 2,054: “So the second half of it is up the stair, and it is the same shape as the whole of it, and I asked the question standing up because I did not want there to be a day between the asking and the going.”
+She said it to the bench and the window and the lamp in the cage above her, at the seventh hour of the twelfth of the month beginning 2,054: “So the second half of it is up the stair, and it is the same shape as the whole of it, and I asked the question standing up because I did not want there to be a day between the asking and the going.”
 
 He said, “You are not going today.”
 
