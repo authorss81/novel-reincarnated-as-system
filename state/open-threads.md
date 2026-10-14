@@ -2673,3 +2673,74 @@ non-forgiveness not mentioned once** · no harem, nothing a romance, no mother's
   607 **A Rate With An End In It** · 608 *What A Furnace Uses* · 609 *Before You Started Counting* ·
   610 *Waiting With No Road In It* · 611 *The Best Day She Has Had* · 612 **The Two Dates** ·
   613 *The Count That Held Twice* · 614 *Asking Twice* · 615 *Six Hundred And Forty*.
+
+---
+
+## VOLUME 11 BATCH 0002 CLOSED — ch 616–630, day 1,842–1,916
+
+**`chapters/volume-11/` holds ch 601–630, thirty chapters. Batch 0002 is ch 616–630, fifteen chapters, 29,997 words
+of body prose on method B (every line not beginning `#`), average 2,000 a chapter, ONE bracketed layer line, at
+ch 616 and nowhere else, and the batch's one irreversible step at ch 624.** The one next phase is
+`workspace/volume-11-batch-0003/PROMPT.md` — ch 631–645, day 1,917–1,996, pressure *knowing*.
+
+### What the batch opened
+
+1. **SEVERANCE 7, at ch 616, on day 1,842, the twenty-ninth of the month beginning 1,814.** Seventy days after
+   Severance 6. **The cost, named once there and not re-explained after ch 617: she cannot hear what she is told
+   about him** — a voice counts and a book writes and neither one carries a boy.
+2. **THE COST DOES NOT WORK ONE WAY.** At ch 627 she reads the date off her own leaf, out loud, in daylight, and it
+   does not reach him either. **Not a silence, not a refusal, not carefulness.** He has never in his life had the day
+   and he has told her so without being asked for it.
+3. **`Yuan Sheng` IS ON THE PAGE FOR THE FIRST TIME at ch 617**, in a widow's mouth, nineteen years shut, and it
+   misses. **It is written for the first time at ch 624**, in her own hand, on the third leaf of a blanket book,
+   with a date above it and a place above that. **IRREVERSIBLE AND IT CANNOT BE PUT BACK UN-WRITTEN.**
+4. **SIX BLANK LEAVES ARE FIVE.** Counted once, because a leaf does not go anywhere when you count it.
+5. **THE SECOND ORIGIN MOUTH, ch 622 — six short sentences, in five speeches, none of them a speech.** A harvest taken
+   for a stalled ascension is written down truly by people who did not choose it, **and the writing saved nobody and
+   nobody there has ever said it did.** **The tenth part is not given and nothing proves the crews wrong.**
+6. **THE HARVEST IS NAMED AT CH 630, THE VOLUME MIDPOINT**, by her reading the page herself, and **he says the part
+   that is not on it — the fire did not take all of it, and the part that woke up is the part that survived. That is
+   the first time he has ever said it and she asked for it.**
+7. **IT DOES NOT HOLD HER.** Every figure in the entry comes back for the rest of her life and the morning does not,
+   **because she was not in it.** The name held on a leaf. The morning will not, and there is no instrument in the
+   world that makes it.
+8. **THE BILL IS HERS AND IT IS COUNTABLE.** The second barrow: on the twenty-first, off on the twenty-second, on for
+   three more days, then never again. The bowl: stops on the second of the month beginning 1,904. Four days running
+   of not one word from one person in that yard. **Her own asking at ch 609 put the knowing into the world and the
+   ground has been closing since, and she is the only person alive who can say she did not expect it.**
+9. **AND THE PAGE HAS NO PLACE ON IT.** A book like that assumes everybody who opens it is already standing in the
+   room. **She has been on that ground fifty-three days and has not found which part of it.**
+10. **SHE FORFEITED A BOARD.** The second of the month beginning 1,844 went down with her a day east of the gate.
+
+### What Batch 0003 inherits
+
+**Severance 7** · the cost that a told past does not arrive, **and that a read past does not either** · one at a
+time, in daylight, standing · **the lever carried and un-pulled again, and not pulled anywhere in this batch** ·
+**`Yuan Sheng` on a leaf of her own, written, un-un-writable, and never to be taken back to the road** · five blank
+leaves · **nine coppers she cannot count** · a bar nine feet nine, a bag, a skin, a stub of a nib and an open cake of
+ink · a paper against her ribs never named · **a furnace ground forty days east of the gate, gone quiet on her, with
+a woman of forty-five, a boy of fifteen who calls figures out loud, a man of fifty-one with a board, and a widow who
+will not open the book a third time without a better reason** · **a page that has told her everything and has not
+told her where** · **Severance 8 at ch 632 on day 1,917 and its cost, she cannot keep him by asking** · the seventh
+frame scene at ch 644 · **the third and fourth origin mouths at ch 636 (a clerk's fair hand) and ch 640 (a kiln boy
+grown old), and Feng at ch 652**.
+
+### What Batch 0003 may not break
+
+- **Severance 8 at ch 632 on day 1,917, the fourteenth of the month beginning 1,904, with a bracket line in the
+  far-side house form and nothing else in fifteen chapters.** No Severance 9 out of ch 648 and no frame scene out of
+  ch 644.
+- **One at a time, in daylight, done standing.** No card may have her asking two at once, the wall is gone, and the
+  lever is not pulled except as a thing she carries and declines.
+- **The ch 616 cost is carried and shown, never re-explained.** A later chapter may show what it costs; it may not
+  re-derive it.
+- **The Batch 0001 and Batch 0002 mouths are not repeated, quoted or restated in a third.** `Yuan Sheng` is named on
+  the page now and the third and fourth mouths are a clerk who kept the harvest book and a kiln boy who carried the
+  ash out.
+- **`Scribe` may be named at most once more in this batch and at most three in the whole volume**, only as the thing
+  he was a fragment of. **Batch 0001 spent 0 and Batch 0002 spent 0.**
+- **No card places her inside the harvest. No page of the widow's book is read out loud and no name is ever read.**
+  Feng's writing is the one thing read on the page in Volume 11, once, at ch 656, by her alone.
+- **Nothing undoes ch 600, and the year of non-forgiveness is not mentioned once.** Nobody on this ground is thanked.
+- **Twenty-two days** is still OPEN and placed against no dated interval. The window, the lime and the hut light are
+  still untouched. `twenty-two days` 0 in this batch, and no card may equate it to a dated interval.

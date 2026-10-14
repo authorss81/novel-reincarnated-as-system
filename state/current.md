@@ -4755,13 +4755,13 @@ Threads: `state/open-threads.md` under ***VOLUME 10 CLOSED***.
   6.39, under its line. `nothing` is **387**, average 6.24, **up about thirty per cent on Batch 0003** and handed to
   Volume 11's first batch as an open craft line with nothing cut.
 
-## VOLUME 11 IS ON THE PAGE — *What He Was*, ch 601–615, day 1,831–1,841, BATCH 0001 WRITTEN
+## VOLUME 11, BATCH 0001 — *What He Was*, ch 601–615, day 1,831–1,841, WRITTEN (SUPERSEDED BY BATCH 0002)
 
 **`chapters/volume-11/` HOLDS CH 601–615, FIFTEEN CHAPTERS, 28,446 WORDS OF BODY PROSE ON METHOD B (every line not
 beginning `#`), AVERAGE 1,892 A CHAPTER, ZERO BRACKETED LAYER LINES, SEVERANCE 6 THROUGHOUT, AND THE BATCH'S ONE
 IRREVERSIBLE STEP AT CH 609.** The one next phase is `workspace/volume-11-batch-0002/PROMPT.md` — ch 616–630, day
 1,842–1,916, pressure *being told*. Full record in `state/continuity.md` under ***VOLUME 11 BATCH 0001 — ch 601–615***;
-the live position is `## Who is where at end of ch 615` above.
+the ch 615 position is `## Who is where at end of ch 615` above. **Batch 0002 ran ch 616–630, day 1,842–1,916, pressure *being told*, 29,997 words of body prose on method B, ONE bracketed layer line at ch 616, and its one irreversible step at ch 624; `chapters/volume-11/` now holds ch 601–630 and the live position is `## Who is where at end of ch 630` at the foot of this file.** The one next phase is `workspace/volume-11-batch-0003/PROMPT.md` — ch 631–645, day 1,917–1,996, pressure *knowing*.
 
 ## Volume 11 planned — WHAT HE WAS, ch 601–660 (planning phase, no prose written)
 
@@ -4822,7 +4822,7 @@ phase directory, no `.done` marker.**
 
 ---
 
-## Who is where at end of ch 615 — VOLUME 11 BATCH 0001 CLOSED (cold reader starts here)
+## Who is where at end of ch 615 — VOLUME 11 BATCH 0001 CLOSED (SUPERSEDED — see *Who is where at end of ch 630* at the foot of this file)
 
 **This is the live position of the manuscript. `chapters/volume-11/` holds ch 601–615, fifteen chapters, 28,446 words of
 body prose on method B (every line not beginning `#`), day 1,831 to day 1,841.** The next phase is Volume 11 Batch 0002,
@@ -4972,3 +4972,85 @@ re-dispatched. No new phase directory and no `.done` marker.**
   `state/chapter-summaries.md` said eleven and are corrected to ten. **`state/continuity.md:5072` also says eleven
   seconds and is NOT this event** — that is the ch 563 keeper looking at a bare stone, a different scene, and it
   stands. The reviewer's finding 13 conflated the two.
+
+
+## Who is where at end of ch 630 — VOLUME 11 BATCH 0002 CLOSED (cold reader starts here)
+
+**This is the live position of the manuscript. `chapters/volume-11/` holds ch 601–630, thirty chapters. Batch 0002 is
+ch 616–630, fifteen chapters, 29,997 words of body prose on method B (every line not beginning `#`), average 2,000 a
+chapter, ONE bracketed layer line at ch 616 and nowhere else, and the batch's one irreversible step at ch 624.** The
+next phase is Volume 11 Batch 0003, ch 631–645. `outline/volume-11.md` is the authority and none of it is
+re-planned here.
+
+- **DAY 1,916, the thirteenth of the month beginning 1,904, in the middle of the yard of a furnace ground forty
+  days east of the gate, at the tenth hour.** `((1,916 − 134) mod 30) + 1 = 13`. **SEVERANCE 7, taken at ch 616 on day
+  1,842.** **SEVERANCE 8 falls at ch 632 on day 1,917, the fourteenth of the month beginning 1,904** — one day off —
+  **with the batch's second and last bracket line in this stretch, and nothing else in square brackets to it.**
+- **A bar nine feet nine** · a skin · a bag with a dish, a lump of clay and a ring a finger's width, a stub of a nib
+  and **a cake of ink she opened on the seventh of the month beginning 1,874** · **nine coppers she cannot count**
+  (nine four times out of seven) and bread bought at two a loaf · a sheet of paper against her ribs opened with her
+  own two hands four years back and never once called anything · **a book of eight leaves made out of a blanket. A
+  date and a place on the first. Four sentences on the second she has read out loud once and will not read again.
+  THE THIRD LEAF HAS A DATE, THE PLACE *furnace ground*, AND YUAN SHENG IN CAPITALS IN HER OWN HAND. Five that are
+  hers and blank.** **There are two things against her ribs and she has called neither of them anything.**
+- **SEVERANCE 7.** Six stages past the ceiling and one more. **Nineteen years old.** Four fingers and a thumb, the
+  index gone · right arm open four days in five and open again at the furnace · eight of eleven holds · four counts
+  of breath, seven on a rise and inside a loaded reach · **a small open place low behind her fourth rib, the size of
+  a coin, open since the eighteenth of the month beginning 1,544, which is day 1,561; the figure at any day D is
+  D − 1,560, which is 349 on the day of ch 630, and not one of them going back. Not hungry.**
+- **THE THREE VOLUME 10 COSTS, carried and shown, never re-derived:** she cannot be counted where she stands ·
+  **she cannot follow a name she is given** · **she cannot keep what she finds by holding it** (fourteen barrows of
+  pit stone at ch 626 and the figure will not produce).
+- **WHAT THIS BATCH COST HER.** **A board on the second of the month beginning 1,844 that went down a day east of the
+  gate.** A heel of loaf that went on the twenty-seventh of a month beginning 1,844. Nine days walking on a sentence
+  a woman said to her in the road. **Two hundred yards of rows she stood outside and did not go into, a quarter of a
+  mile off, at the ninth hour and forty minutes of the ninth of a month beginning 1,844, and sixty-one rows counted
+  before the light went.** A bar of fire four feet over her head at ch 629 because she did not hear a man shouting.
+  **The cruelest sentence she has ever said to a person, on a woman’s own step, where four men work, at ch 621.**
+  **And the last of it: her own asking at ch 609 put the knowing into the world and the ground closed, and she
+  counted the closing herself, and the bill is hers.**
+- **WHAT THIS BATCH CHANGED.** **SEVERANCE 7, at ch 616, and the cost: she cannot hear what she is told about him —
+  a voice counts and a book writes and neither one carries a boy — named once at ch 616 and not re-explained after
+  ch 617. And then the finding that the cost runs both ways: a page she read with her own eyes did not reach him
+  either (ch 627).** **`Yuan Sheng` told at ch 617 by a widow who had not said it in nineteen years, and it missed.
+  `Yuan Sheng` WRITTEN at ch 624, in her own hand, on the third leaf of a blanket book, with the date above it.
+  IRREVERSIBLE AND IT CANNOT BE PUT BACK UN-WRITTEN.** **Six blank leaves are five.**
+- **THE SECOND ORIGIN MOUTH, ch 622, six short sentences in five speeches, none of them a speech.** A harvest taken
+  for a stalled ascension is written down truly by people who did not choose it, **and the writing saved nobody and
+  nobody there has ever said it did.** **The tenth part is not given and nothing proves the crews wrong.**
+- **THE VOLUME MIDPOINT IS SPENT AT ch 630.** The harvest named truly by the widow's page — a senior at the first
+  hour, stalled before the second, filled with a person, a boy of nineteen off the fire, taken at the sixth hour,
+  two weights that are not the same and the difference written down with no word beside it. **And he says the part
+  that is not on the page, for the first time in his life: the fire did not take all of it, and the part that woke up
+  is the part that survived.** **And it does not hold her.** Every figure in the entry comes back for the rest of her
+  life and the morning does not, **because she was not in it.** **And the page has no place on it — a book like that
+  assumes everybody who reads it is already standing in the room — and she has been on that ground fifty-three days
+  and has not found which part of it.**
+- **THE TERMS, one at a time · in daylight · standing. They do not move.** The wall is gone; a question is done
+  standing. **The lever — asking twice — is carried and declined and is not pulled anywhere in this batch.**
+- **THE PEOPLE ON THAT GROUND, all correct and none thanked.** A widow of forty-five with a shut book and two
+  sentences said out loud in nineteen years · **a boy of fifteen who calls every figure out loud, the way she does,
+  and brought her the coarse charcoal without a word** · a man of fifty-one with a board and a good hand · a man of
+  forty with a long bar · nine years of a row of barrows nose up against a knee-high wall · a furnace that has not
+  been let out in nineteen years. **The ground did not want her and let her stay and has gone quiet on her, and she
+  can count exactly when.**
+- **`Ning Wu` is 0 by name across the batch.** She stood outside the rows on the ninth of the month beginning 1,844
+  and did not go in and did not call out and did not say his name. **He does not know what a list is and does not
+  forgive her.** **His one meeting in Batch 0001 is spent and this batch owes him nothing.**
+- **The man with the shut notebook is on the page once, at ch 619, and she asked him.** He said he did not know, and
+  then said that it was the fourth question anybody had ever asked him that he would rather not answer, and one
+  thing on the way down a slope: **a true thing is not the same as a thing that is yours.** **She never put the name
+  in his hearing.** `Hunter` 0 on word boundaries.
+- **Wei Ran, Shuyin, Feng Lushi, `Feng`, `Scribe` and `Ledger` are all 0 across the batch.** `Scribe` remains at 0 of
+  its three permitted namings volume-wide. **The year of non-forgiveness is not mentioned once. Nobody is thanked.
+  Her mother's name is not said.** No harem, nothing a romance.
+- **Untouched and unraised, each a fact and not a topic:** the window a hundred yards off the east side — **still
+  unasked** · **the lime under the bar of the shut door — left, and her hand was four inches off the bar at ch 604
+  and nothing in this batch touches it** · the hut light left standing · ***twenty-two days* — still OPEN and
+  unplaced, and equated to no dated interval; it is 0 in this batch** · the paper against her ribs, never named · the
+  register still *reconciled* · the plate still worn and undescribed · *kiln-born* in two heads on no paper · what
+  became of the eleven not raised · the four months never named · the ch 150 refusal never softened · **no page of
+  the widow's book read out loud and no name ever read aloud** · **no figure of what is left of him stated
+  anywhere in the batch** · **no frame scene** · **Merit did not settle in this batch**.
+- **THE BATCH'S ONE IRREVERSIBLE STEP IS ch 624.** No second. Everything else in the batch is spent, and none of it
+  can be un-spent either.

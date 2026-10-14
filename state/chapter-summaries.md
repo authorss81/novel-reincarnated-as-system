@@ -1761,3 +1761,99 @@ The asking stands and cannot be un-asked. The terms stand and do not move. Nine 
 **one**. Six blank leaves stay blank. The lever is carried and declined twice and is not pulled. A furnace east of
 everything is named and not walked to. **Twenty-two** came back once with no unit on it and is still unplaced. The
 window, the lime and the hut light are untouched. Severance 7 is ch 616 on day 1,842 and this batch takes no bracket.
+
+## VOLUME 11 BATCH 0002 — ch 616–630, day 1,842–1,916
+
+- **ch 616, day 1,842 (the twenty-ninth of the month beginning 1,814), *The Only Thing That Holds*. SEVERANCE 7.**
+  Sixth hour, in broken ground a hundred yards north of the turn. **The batch's one bracket line**, in the far-side
+  house form, ten seconds, no sound in it, the sound goes into the ground, and what it took came out of the ground
+  under her feet. **THE COST, NAMED ONCE: she cannot hear what she is told about him — a voice counts and a book
+  writes and neither one carries a boy.** He tells her a true thing about a course of low wall and she can say it
+  back word for word and there is no place for it. **She forfeits the board on the second of the month beginning
+  1,844** and walks east at the ninth hour with one copper she cannot count. 282 days.
+- **ch 617, day 1,846–1,850 (third to seventh of the month beginning 1,844), *She Heard Every Word Of It*. DISCOVERY.**
+  A widow of forty-five walking west with lime; hands burnt into the creases, read at eight feet. **She says the
+  name — Yuan Sheng — for the first time in nineteen years, on a made road, at the sixth hour. It misses.** She can
+  produce it perfectly and it does not arrive, and the finding is that this is not a memory and the road is the same.
+  A shut book on a shelf, written by a good hand, nineteen years shut. Eleven miles of made road and two of stone.
+- **ch 618, day 1,851–1,855 (eighth to twelfth), *She Did Not Go In*. DECISION.** The gate, **two miles with nothing
+  on them to lie down on**, the wall and the opening standing open, the flat. **The rows: about two hundred people,
+  a stone at the head of each, counted to sixty-one, and she does not go in and does not call out and does not say
+  his name.** She walks on feet and not on a telling, and the air changes. 294 and 295 days.
+- **ch 619, day 1,856–1,860 (thirteenth to seventeenth), *He Does Not Know*. REVELATION.** The man with the shut
+  notebook, nine feet, two hours of a slope, no question asked her. **She asks whether a person who knows what a
+  voice was is safer. He says he does not know, and then says that it is the fourth question anybody has asked him
+  that he would rather not answer**, and one thing on the way down: a true thing is not the same as a thing that is
+  yours. She never puts the name in his hearing.
+- **ch 620, day 1,861–1,866 (eighteenth to twenty-third), *A Fire She Cannot Put Up*. DANGER.** Ten days on a furnace
+  ground that does not want her and lets her stay. **A boy of fifteen calls every figure out loud, the way she does.**
+  **The furnace will not light for her** and a boy brings her the coarse charcoal and the bark and it goes up. **She
+  goes down on her hands and knees in the ash at the furnace mouth with a bar of fire four feet from her head, at
+  nine counts of breath, and counts her way back to four.** The woman in the low house watches all of it and does not
+  go in and does not shut the door.
+- **ch 621, day 1,867–1,872 (twenty-fourth to twenty-ninth), *What She Said To A Woman With A Book*. COST.** **She is
+  refused the book, truly, without cruelty**, four reasons and the last of them the one about a person who cannot
+  hold a name. **And she says the cruelest sentence of her life on the woman's own step: nineteen years and you have
+  never once opened it to find out whether it is true.** The woman takes it as the second and not the first and says
+  it is the first one that was any use. A board on the wall in the low, and four days to it. 312 days.
+- **ch 622, day 1,873–1,878 (thirtieth of the month beginning 1,844 to the fifth of the month beginning 1,874),
+  *The Woman Who Opened A Book*. REVELATION. SECOND ORIGIN MOUTH.** The book comes off the shelf. **Six short
+  sentences across the chapter, in five speeches, none of them a speech:** they wrote it down the same week and they
+  wrote it down true · my husband did not write the order and did not carry it out · the boy was nineteen and was the
+  son of the man who keeps the fire · it did not save my husband and it did not save the boy · not one person on that
+  ground has ever said it was going to. **Nothing proves the crews wrong** and there is not one word in the book
+  about why. **She is not going to say the name twice.** 318 days.
+- **ch 623, day 1,879–1,884 (sixth to eleventh of the month beginning 1,874), *The Rule She Wrote In The Ash*.
+  DECISION.** Three days and a scrape of paper: **she writes six and five comes out.** Her hand writes what she means
+  at the moment it goes down. **The three things she was frightened of, and the third is the real one — she cannot
+  keep a read past any better than a told one.** One whole day on holding a page and writing with one arm, a borrowed
+  board and a stone. Six leaves counted once. 324 days.
+- **ch 624, day 1,885–1,890 (twelfth to seventeenth), *What Her Hand Went Down On*. IRREVERSIBLE.** She stands at a
+  table four minutes and does not touch a page in a good hand dry nineteen years. She reads it. **The date, the
+  place, and then the name in capitals, four fingers and a thumb, on the third leaf of a blanket book.** Blanket does
+  not take ink back and there is no way to put it back un-written. **She reads the date out loud at a wall later and it
+  does not reach him either.** Six leaves now five. The woman asks whether it said the same one. 325 days.
+- **ch 625, day 1,891–1,895 (eighteenth to twenty-second), *What Does Not Go Away*. EMOTIONAL CONSEQUENCE.** She puts
+  her hand on the book before her eyes are open and the name is where it is. **Five leaves. She goes looking for the
+  regret and it is not there. She makes a rule and does not say the name out loud for five days so that the road does
+  not get it back. And the ground starts going quiet on her and she does not notice for six days.** 331 days.
+- **ch 626, day 1,896–1,900 (twenty-third to twenty-seventh), *A Trade And Not A Kindness*. COST.** **She asks for
+  work out loud for the first time in ten years**, at the long window, and it is a fifth of a man's rate and the same
+  board. **Fourteen barrows of pit stone on the third of her arm and she does not stop.** She says the figure back
+  and gets eleven, eleven, eleven and once twelve. **He tells her about ninety-one courses on a kiln wall and she
+  does not check it and keeps on pulling.** The second barrow goes on and off and then stops. 337 days.
+- **ch 627, day 1,901–1,905 (twenty-eighth and twenty-ninth of the month beginning 1,874 to the first and second of
+  the month beginning 1,904), *He Does Not Have The Day*. REVELATION.** The board goes down and comes back on a cart
+  and there are eight coppers on the table in a cloth and nine in her bag. **She asks what the day was before he
+  started counting.** He gives three: a senior who had been at it nine years, nineteen, a morning. **She reads him
+  the date off her own leaf in daylight and there is nothing on the other side of it — not a silence, not a refusal,
+  not carefulness. He has never in his life had the day.**
+- **ch 628, day 1,906–1,910 (third to seventh of the month beginning 1,904), *The Count Holds*. DISCOVERY.** Sixty-four
+  days, nine coppers (nine, nine, eight, nine, four times), **two hundred and forty courses at six hundred and forty
+  to a course is a hundred and fifty-three thousand six hundred bricks**, three hundred and forty-six days of it and
+  six thousand nine hundred and thirty-five days of him. **The test she sets herself: six figures come back, six
+  sentences do not.** The count is the only instrument she has and it works on everything except a person. 346 days.
+- **ch 629, day 1,911–1,915 (eighth to twelfth), *A Yard With A Fire In It*. DANGER.** Four days on that ground
+  without one word from one person in it. **A bar of fire comes down where she was standing because she did not hear a
+  man shouting from twenty feet.** She asks at the doorstep with the only reason she has, the woman asks her a
+  question, and the book is turned and the woman goes out to the yard. Ten feet of light and a page.
+- **ch 630, day 1,915–1,916 (twelfth and thirteenth of the month beginning 1,904), *What The Page Assumed*.
+  VOLUME MIDPOINT. REVERSAL.** **She reads the harvest and it is true: a senior at the first hour, stalled before the
+  second, filled with a person, a boy of nineteen off the fire, taken at the sixth hour, two weights that are not the
+  same and the difference written down with no word beside it.** **He says the part that is not on the page — the fire
+  did not take all of it, and the part that woke up is the part that survived. That is the first time in his life he
+  has said it.** **And it does not hold her: every figure comes back and the morning does not, because she was not in
+  it.** **THE BILL IS HERS AND IT IS COUNTED:** the second barrow on the twenty-first, off on the twenty-second, on
+  three days, off for good from the twenty-eighth; the bowl stops on the second of the month beginning 1,904; four
+  days running of not one word. **Her asking set the knowing and the past was findable only while nobody asked after
+  it.** **And the page has no place on it — a book like that assumes everybody who reads it is already standing in
+  the room — and she has been on that ground fifty-three days and has not found it.** 349 days.
+
+### What Batch 0002 leaves Batch 0003
+
+Severance 7 held. **She cannot hear what she is told about him, and it does not work one way: a page she read herself
+did not reach him either.** The name is on a leaf in her own hand and cannot be un-written; five blank leaves. One
+copper spent and nine in the bag she cannot count. Sixty-four days on the ground and no rate on any road behind her.
+A furnace ground that let her stay and has gone quiet on her. A widow who has said a name out loud twice in nineteen
+years and will not open the book a third time without a reason better than the last. **The harvest is named and does
+not hold her, and the bill for the knowing is hers, and she is still going.**

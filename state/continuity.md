@@ -6591,3 +6591,132 @@ ch 617 and first written at ch 624, the five origin mouths, the seventh frame sc
 staying at ch 658, and *twenty-two days* still OPEN and placed against no dated interval. **`state/continuity.md:5072`'s
 eleven seconds is the ch 563 keeper at a bare stone and is a different event from ch 611's ten seconds; do not
 "correct" it.**
+
+
+## VOLUME 11 BATCH 0002 — ch 616–630 — What He Was — day 1,842–1,916 — WRITTEN
+
+**`chapters/volume-11/` holds ch 601–630. Batch 0002 is ch 616–630: fifteen chapters, 29,997 words of body prose on
+method B — every line not beginning `#`, measured with `grep -v '^#' <file> | wc -w` chapter by chapter and over the
+fifteen together — average 2,000 a chapter, inside the outline's 27,000–30,000 batch band and inside its 1,800–2,000
+target.** Per chapter: 2,033 · 2,139 · 2,021 · 2,114 · 1,956 · 1,905 · 2,007 · 2,016 · 2,099 · 1,770 · 1,945 ·
+1,901 · 1,811 · 1,733 · 2,467. **No chapter is under the 1,300 floor and none is above the 2,700 guide.**
+
+### The batch plan against `outline/volume-11.md`, card by card
+
+| Ch | Card | On the page |
+| --- | --- | --- |
+| 616 | take the seventh stage and go on · the batch's one bracket line | **SEVERANCE 7 at day 1,842**, the one bracket in the batch, ten seconds, cost named once |
+| 617 | be told the name · a widow with a shut book nineteen years shut | **`Yuan Sheng` first on the page, in her mouth, and it misses** |
+| 618 | carry the name east · a told road and ears that cannot hear telling | **the gate, the two miles with nothing on them, the rows she does not go into, and the air changes** |
+| 619 | ask the man with the shut notebook | **she asks; he does not know; it is the fourth question he would rather not answer** |
+| 620 | stand the furnace ground · heat, short breath, a furnace that will not light for her | **the ash, the bar of fire, the count back to four** |
+| 621 | be refused the book · without cruelty | **refused, and then the cruelest sentence of her life on the step** |
+| 622 | hear the second mouth · 3–7 sentences | **six, in five speeches, none a speech** |
+| 623 | decide what to do with a true telling | **she decides to write it herself, and works out why a read past is no better than a told one** |
+| 624 | write it · nib, ink, her own book | **IRREVERSIBLE: YUAN SHENG, and it cannot be put back un-written** |
+| 625 | live with the writing written | **five leaves, no regret, a rule against saying it, the ground going quiet** |
+| 626 | work the furnace ground · one good arm | **fourteen barrows, the figure she cannot produce, the telling she does not check** |
+| 627 | ask the second owed thing | **a senior, nineteen, a morning — and the date read aloud and not received** |
+| 628 | count what telling cost | **the count holds and the telling does not** |
+| 629 | go back to the shut book | **a bar of fire, a reason better than the last, and the page turned** |
+| 630 | **VOLUME MIDPOINT: be told the harvest** | **the harvest named truly, it does not hold her, and the bill is hers and is counted** |
+
+### The calendar, re-derived rather than carried
+
+`((day − 134) mod 30) + 1`. **616 the 29th of the month beginning 1,814 (1,842) · 617 the third to the seventh of the
+month beginning 1,844 (1,846–1,850) · 618 the eighth to the twelfth (1,851–1,855) · 619 the thirteenth to the
+seventeenth (1,856–1,860) · 620 the eighteenth to the twenty-third (1,861–1,866) · 621 the twenty-fourth to the
+twenty-ninth (1,867–1,872) · 622 the thirtieth of the month beginning 1,844 to the fifth of the month beginning 1,874
+(1,873–1,878) · 623 the sixth to the eleventh (1,879–1,884) · 624 the twelfth to the seventeenth (1,885–1,890) ·
+625 the eighteenth to the twenty-second (1,891–1,895) · 626 the twenty-third to the twenty-seventh (1,896–1,900) ·
+627 the twenty-eighth and twenty-ninth of the month beginning 1,874 to the first and second of the month beginning
+1,904 (1,901–1,905) · 628 the third to the seventh (1,906–1,910) · 629 the eighth to the twelfth (1,911–1,915) ·
+630 the twelfth and thirteenth (1,915–1,916). Every month-day on the page agrees with this table.
+
+**The going-lighter, derived per chapter and never carried down. The figure at any day D is D − 1,560, anchored on
+the eighteenth of the month beginning 1,544 = day 1,561:** 282 at ch 616 · 294 and 295 at ch 618 · 312 at ch 621 ·
+318 at ch 622 · 324 at ch 623 · 325 at ch 624 · 331 at ch 625 · 337 at ch 626 · 346 at ch 628 · 349 at ch 630. **All
+twelve verified against the formula.**
+
+### The construction budget, measured from the files and not promised
+
+| Construction | Allowance | Measured across the fifteen chapters | Verdict |
+| --- | --- | --- | --- |
+| **Bracketed layer lines** | **1 in fifteen, at ch 616** | **1**, on its own line, in square brackets, character for character the pinned far-side house form with *stage seven* | **PASS** |
+| **Bracket characters anywhere in the batch** | — | **0** outside that one line | **PASS** |
+| **Bold** | 0 | **0** — three were drafted and cut before the batch closed | **PASS** |
+| **Italic** | scarce, counted | **6 pairs** across fifteen chapters, against Batch 0001's 10 | **PASS** |
+| **Blockquotes / code fences / tables / horizontal rules** | 0 / 0 / 0 / 0 | 0 / 0 / 0 / 0 | **PASS** |
+| **All-caps standalone lines** | 0 | **0** | **PASS** |
+| **Straight quotes / straight apostrophes** | 0 / 0 | **0 / 0**; curly open and close both **537** across the fifteen, and balanced **file by file** | **PASS** |
+| **Speech closed in every chapter** | every chapter | **every chapter**, asserted per file | **PASS** |
+| **Paragraphs over 90 words** | break at ~90 | **0**; none over 88 | **PASS** |
+| **Duplicate `## ` inside a chapter** | 0 chapters | **0**, asserted per file on `^## ` | **PASS** |
+| **Titles** | 15 names, 3–12 words, under ~90 characters, unique | 15 names, 3–6 words, longest 36 characters, **0 collisions against all 615 standing headings and 0 within the batch** | **PASS** |
+| **Authorial scaffolding** | 0 | **0** — *this chapter · this volume · this book · the reader · in this batch · another batch · N volumes*. **Two were drafted and cut:** a line in ch 623 that said the six days were *the whole of what the chapter is*, and an *in this book* in ch 625 that read as the manuscript and now reads as the blanket book | **PASS** |
+| **`eleven`** | under forty volume-wide | **3 in the batch**, and **35 across ch 601–630**. **NOTE: Batch 0001 measures 32, not the 31 the Batch 0002 brief stated** | **PASS** |
+| **`nobody`** | under thirty volume-wide | **5 in the batch**, and **29 across ch 601–630**. **NOTE: Batch 0001 measures 24, not the 21 the brief stated** | **PASS** |
+| **`nothing`** | hold down against Batch 0001's rate | **45**, average **3.0**, against Batch 0001's 75 over fifteen | **PASS** |
+| **`about…`** | average under 7.0 | **82**, average **5.47** | **PASS** |
+| **`whole of`** | under 80 volume-wide | **37** batch-wide, **67 across ch 601–630** | **PASS** |
+| **The retired seven phrases** | at most one | **0** — *nobody said anything* was drafted at ch 626 and cut before the batch closed | **PASS** |
+| **`about four seconds`** | 0 | **0** — four were drafted across ch 620, 629 and 630 and every one cut | **PASS** |
+| **`eleven weeks`** | 0 | **0** | **PASS** |
+| **The Yuan tag** | 0 verbatim, no lead-in | **0** | **PASS** |
+| **`his eyes widened · he couldn't believe it · suddenly · little did he know`** | 0 / 0 / 0 / 0 | 0 / 0 / 0 / 0 | **PASS** |
+| **Named weekdays / named calendar months / named weeks** | 0 / 0 / 0 | **0 / 0 / 0**. **Nine instances of `week` were drafted — including *a week I do not name*, which is deliberately unnamed — and every one was cut to `seven days`, `six days`, `the days it happened` or `a span I do not name`** | **PASS** |
+| **Surface answer** | 0 in any mouth, any form | **0** — *charged · bookkeeping · receipt · bounded world · the walls* all 0. **One `charged` was drafted at ch 627 and cut for *who put a rate of two a loaf on her*** | **PASS** |
+| **Zeroed proper nouns** | all 0 on word boundaries | **0** for `Ledger · reconciled · plate · licence · license · clearance · countersignature · seal · kiln-born · MEMBER ABSENT · tribulation · Anchor · Sisterhood · bargain · Lung · appointment · budget · Wall writ · field agent · Warden · Shuyin · Feng · Xie Changyin · Ning Wu · Wei Ran · Hunter · Scribe`. **`Order` returns 1 on the capitalised noun in a section heading, *What She Was Owed, And In What Sequence*, which was rewritten; the other eleven are lowercase *order* in ordinary use** | **PASS** |
+| **`Yuan Sheng`** | counted and written down whatever it is | **7 on word boundaries**, six of them spoken or repeated by her and one set down in ink at ch 624 | counted, within scope |
+| **The year of non-forgiveness** | 0 mentions | **0** | **PASS** |
+| **A figure of what is left of him** | none stated | **none**, before or after | **PASS** |
+| **A scene in which he is thanked** | 0 | **0.** She says *Thank you for saying so plainly* to the man with the shut notebook at ch 619 and is told not to do it, and nothing else in the batch is thanked | **PASS** |
+| **A frame scene** | ch 644 | **0 in this batch** | **PASS** |
+| **A page of the widow's book read out loud** | 0 | **0.** She reads it herself at ch 624 and at ch 630 and names the harvest in her own words; the widow turns the book and goes out to the yard | **PASS** |
+| **Merit settling** | once in Batch 0001, once in Batch 0003 | **0 in this batch** | **PASS** |
+
+### The things this batch resolved, closed, or paid
+
+1. **THE SEVENTH STAGE AND ITS COST, NAMED ONCE.** She cannot hear what she is told about him, **and the chapter is
+   about the telling missing** — at ch 617 with a name out of a stranger's mouth, at ch 626 with ninety-one courses,
+   and at ch 627 with a date read aloud out of her own book.
+2. **THE COST RUNS BOTH WAYS AND THE CHAPTER SAYS IT.** A page she read with her own eyes held for a name and did not
+   hold for a morning. **She was not in it.** That is the finding and it is not softened at ch 630.
+3. **`Yuan Sheng`, TOLD AND THEN WRITTEN.** Told at ch 617 by a woman who had not said it in nineteen years, and it
+   did not arrive. **Written at ch 624, in her own hand, on the third leaf of a book of eight, with the date from the
+   page above it and *furnace ground* above that — and it cannot be put back un-written.**
+4. **THE SIX SENTENCES OF CH 622.** They wrote it down the same week and they wrote it down true · my husband did not
+   write the order and did not carry it out · the boy was nineteen and was the son of the man who keeps the fire · it
+   did not save my husband and it did not save the boy · not one person on that ground has ever said it was going to.
+   **The tenth part is not given and nothing proves the crews wrong.**
+5. **THE HARVEST NAMED AT CH 630**, by her own reading, and **he says the one sentence that has never been said: the
+   fire did not take all of it, and the part that woke up is the part that survived.** **He also says why he never
+   said it: a question in the dark gets a shape and this does not go in the air, it goes into a book and cannot come
+   out of it, and he did not want a page in the world with this on it that she had to carry.**
+6. **THE BILL IS HERS AND IT IS COUNTABLE.** The second barrow, the bowl, four days of silence. **Her own asking at
+   ch 609 put the knowing into the world thirty-three days before the cruel sentence on the step, and the ground has
+   been closing on her since, and she is the only person alive who can say she did not expect it.**
+7. **SHE FORFEITED A BOARD** by leaving the turn on the twenty-ninth, and she said out loud that she was going
+   anyway and that there would be two of them holding it.
+8. **SHE SAID THE CRUELEST SENTENCE OF HER LIFE** at ch 621 and it did not turn out to be cruelty: **the woman opened
+   the book on the thirtieth of the month beginning 1,844 at the sixth hour, having been up since the third.**
+9. **THE RATE, AND THE COPPER THAT WILL NOT COUNT.** A fifth of a man's rate and the same board, four days a week off,
+   eight coppers on a table in a cloth on the second of the month beginning 1,904, **nine in the bag, counted four
+   times and never once nine.**
+10. **THE LEVER IS CARRIED AND NOT PULLED** anywhere in this batch. **The terms do not move.** **A question is done
+    standing**, because the wall is gone, and eleven days each way to nowhere was walked at ch 618 with nothing
+    between the gate and the wall to lie down on.
+
+### Hard canon this batch fixed, to be inherited and not re-derived
+
+| Thing | The one true value |
+| --- | --- |
+| Severance 7 | **ch 616, day 1,842, the twenty-ninth of the month beginning 1,814**, seventy days after Severance 6 |
+| Her standing at the turn | **over.** It ran the eighteenth to the twenty-ninth of the month beginning 1,814 and she left on the twenty-ninth, so it does not run at all |
+| The board | **the second of the month beginning 1,844, day 1,845, went down without her.** The next is **day 1,905**, and the furnace ground's board came back up the track on a cart |
+| Her count at the turn to the furnace ground | **the gate at day 1,851, the wall on the same day or the next, the furnace ground on day 1,857.** Sixty-four days from the turn to day 1,906 |
+| The furnace ground | **two acres inside a knee-high line of stone, ten men, two women, a boy of fifteen, a man of fifty-one with a board.** The furnace has never been let out in nineteen years and the smoke goes straight up in any weather |
+| The widow | **forty-five, the senior disciple's wife, nineteen years with the book, has said the name out loud TWICE in nineteen years — once on a made road at ch 617 and once at ch 622's threshold — and will not open it a third time without a better reason** |
+| The name on the page | **in the clerk's good hand, at the end of the entry, with the date at the head of it and no word beside the difference between the two weights** |
+| What she can keep and cannot | **a name on a leaf in her own hand holds. A morning does not. She was not in it.** |
+| What he can receive | **nothing, from anybody, including a page read aloud in daylight. He says so himself and he has never asked for anything** |
