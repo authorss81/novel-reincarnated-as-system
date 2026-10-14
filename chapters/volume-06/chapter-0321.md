@@ -2,9 +2,9 @@
 
 The thirtieth of a month came up and she worked half a reach at Pei’s gate and took two and a half out of the fold in the inside of the door frame, and she did the lane-to-yard walk at the seventh hour to find out how many days a box of twenty-three lasts a ring that is burning and answering nothing.
 
-Nine days.
+Eight days.
 
-She had known it would be nine days and she had wanted it to be a different number on flat ground at a gate in the last of the light, and that was the whole of what she had wanted it for.
+She had known it would be eight days and she had wanted it to be a different number on flat ground at a gate in the last of the light, and that was the whole of what she had wanted it for.
 
 ## At The Mill
 

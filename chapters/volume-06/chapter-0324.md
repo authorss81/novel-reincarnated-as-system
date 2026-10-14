@@ -52,7 +52,7 @@ He said it after about a minute, and he said it once, and he did not enjoy sayin
 
 “There is an office that keeps the list this board comes from.”
 
-She had not known that. She had known for four days that there was a board and a yard and a man with a counting frame, and she had not once asked where the lines came from.
+She had not known that. She had known for six days that there was a board and a yard and a man with a counting frame, and she had not once asked where the lines came from.
 
 “The lines are set somewhere else and they come down and I put them up,” he said. “And the office that sets them keeps a book of what the ground owes and what has been paid on it. Everything that goes out of this yard against a name goes into that book, and it does not stop at this yard.”
 
@@ -74,7 +74,7 @@ He looked at the arm. He had been looking at it for about three days by then and
 
 He turned and went and got the board down off the wall and squared it on the bench under the lean-to, which was the ordinary end of his afternoon and not a thing he was doing for her.
 
-“The board pays in what the work was made of and you take it off the wall yourself,” he said, “and the work is four days and it is however much brick and stone that job is worth, and there is not a name on it anywhere. That is what you have been doing for a month.”
+“The board pays in what the work was made of and you take it off the wall yourself,” he said, “and the work is four days and it is however much brick and stone that job is worth, and there is not a name on it anywhere. That is what you have been doing for a week.”
 
 “Yes.”
 
@@ -92,7 +92,7 @@ An offer is different in every way and one of them is the important one.
 
 An offer is made to a person.
 
-She had been doing listed work off a board for a month and nobody had made her anything and nobody had written her name anywhere, and she had told herself twice in that month that she did not want to be hired, and she had said the word to herself as a thing other people had.
+She had been doing listed work off a board for a week and nobody had made her anything and nobody had written her name anywhere, and she had told herself twice in that week that she did not want to be hired, and she had said the word to herself as a thing other people had.
 
 She stood in a gateway at about two miles and understood that the whole of the last month had been a thing she went and took off a wall, and that the thing on the other side of it came to a woman and had her name at the top of it, and that she was going to have to decide about it in daylight in front of a person and not on her own on a bank.
 

@@ -1,4 +1,4 @@
-# Four Houses In Four Miles
+# Four Nails
 
 The third of a month came up clear behind her and she turned back west along the track with the bar over her left shoulder, because there was nothing east of the last hedge and two and a half coppers a day west of it.
 
@@ -12,7 +12,7 @@ She did the sum at the gate on the way out, sitting on the stone kerb with the b
 
 Two and a half a day. Nine for a charge.
 
-Four days.
+Four days of work for it.
 
 She had done that sum eleven times since the twenty-sixth of the last month and it came out the same every time, and on the eleventh she noticed what the sum was actually for, which was not the ring.
 
@@ -20,7 +20,7 @@ It was counting to something.
 
 For four years the count had run to one of three days, and the seventh and the seventeenth and the twenty-seventh had each meant a walk of two miles and four hundred yards and a line of a man’s other days, and the shape of her head had been built out of that and had held her upright in more ways than one.
 
-Now the count ran to four days to a charge, and the four days meant nothing at all except that the fire in a corner of a shed two miles west would be cold on the fifth.
+Now the count ran to four days of work to a charge, and the four days meant nothing at all except that the fire in a corner of a shed two miles west would be cold on the fifth.
 
 That is the whole of what was left of it. The shape survived. The thing inside the shape did not.
 
@@ -64,7 +64,7 @@ She reached up and put the flat of her second finger under the corner of the lin
 
 The board had her name on it nowhere. The line had her name on it nowhere.
 
-There is a difference between those two things and she stood in a gateway on the fourth of a month and had it in her hand as a piece of board with four nails in it, and it is the first document of any kind that has ever had nothing written on it anywhere and belonged to her.
+There is a difference between those two things and she stood in a gateway on the third of a month and had it in her hand as a piece of board with four nails in it, and it is the first document of any kind that has ever had nothing written on it anywhere and belonged to her.
 
 She turned it over twice and put it inside her coat against the oilcloth, and the whole of what she had ever been able to prove about herself was eighteen counterfoils in four marks against her ribs and a piece of board with four nails in it.
 
@@ -86,7 +86,7 @@ That was all he said about that, and then he asked her the only other thing ther
 
 ## The Round
 
-She had not thought about the box. That was the whole of what the question did to her, standing in a gateway at about the fifth hour on the fourth of a month with a piece of board inside her coat.
+She had not thought about the box. That was the whole of what the question did to her, standing in a gateway at about the fifth hour on the third of a month with a piece of board inside her coat.
 
 She had thought about earning the box. She had not once thought about the box going anywhere.
 
@@ -108,9 +108,9 @@ Then he went back behind the stack and did not come out again.
 
 ## What She Carried West
 
-She went west at about the sixth hour with the bar over her left shoulder and a piece of board with four nails in it inside her coat and four days of work in front of her and one box behind her at a yard, and the box was worth more than everything she had earned since the seventh of a month and it was sitting against a wall in pieces about the size of two fists.
+She went west at about the sixth hour with the bar over her left shoulder and a piece of board with four nails in it inside her coat and four days of work in front of her and one box behind her at a yard, and it was sitting against a wall in pieces about the size of two fists.
 
-It was four days of work and it was also four days of fire.
+It was four days of work, and she had done four days of work in five months that nothing had ever come back to her from, and it had cost her an afternoon in a gateway and four nails.
 
 And it was also three miles from the only thing in the world that had ever answered her, and she had a ring at the mill with a third of a charge in it that had not been hot since the twenty-first of the last month.
 

@@ -2,19 +2,19 @@
 
 There were twenty-three pieces of dressed stone and brick and clay in the corner of the mill shed on the fifteenth of a month, broken down to a carrying size on the flat stone by the door, and she did not light the ring.
 
-She had lit it on the first of a month at the fourth hour in the open yard and it had been burning ever since, and there was a heap at the back of it that would have been about nine days, and she stood in the shed at about the eighth hour on the sixteenth of a month and looked at both and put her palm flat on the brick and got nothing.
+She had lit it on the first of a month at the fourth hour in the open yard and it had been burning ever since, and there was a heap at the back of it that would have been about four days, and she stood in the shed at about the eighth hour on the sixteenth of a month and looked at both and put her palm flat on the brick and got nothing.
 
 She had worked this out on the eighth at a gateway with nine dressed pieces on the ground, standing up, in daylight, in the ordinary voice.
 
 The material is for the thing that answers, and the thing that answers went out of her on the twenty-fourth of the last month at the top of a ditch, and there is no material in the world that will put it back.
 
-She had bought nine days of a fire that answers nothing and she had not lit it and she was not going to light it that night either.
+She had bought eight days of a fire that answers nothing and she had not lit it and she was not going to light it that night either.
 
 ## The Third Day Of It
 
 On the seventeenth she worked half a reach at Pei’s gate and came back and stood in the corner of the shed and looked at the heap.
 
-On the eighteenth she went east to the yard at about the seventh hour with the bar on her shoulder, because she had three days before the cart question came round again and because a woman standing on ground she has not walked for four days starts inventing things about it.
+On the eighteenth she went east to the yard at about the seventh hour with the bar on her shoulder, because she had six days before the cart question came round again and because a woman standing on ground she has not walked for four days starts inventing things about it.
 
 She did not get as far as the gate. She stopped at the elms on the road and stood in the light and worked out what had happened to him.
 
@@ -54,7 +54,7 @@ She did not say anything to him about any of it and she did not tell him to stop
 
 There was one part of it that she turned over twice on the road and then put down where it was and left it, because it was the part that was about her and not about him.
 
-She had spent nine days of her own wall on the twenty-fourth of the last month to buy a reach so that a box would go three miles.
+She had spent seven days of her own wall on the twenty-fourth of the last month to buy a reach so that a box would go three miles.
 
 And a box that cost a week of her wall had moved a cart.
 
@@ -88,4 +88,4 @@ And now there was a second one coming, because a line for the yard is a line, an
 
 She had never in her life wanted to be a person that a blank in a yard three miles away could be traced to.
 
-And she was going to stand in daylight at a gate in about six days and say her name out loud and ask to be put into another one.
+And she was going to stand in daylight at a gate in about eight days and say her name out loud and ask to be put into another one.

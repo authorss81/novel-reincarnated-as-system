@@ -4653,11 +4653,12 @@ words at ch 309; **24,531 words, average ~1,635, shortest ch 313 at 1,421, longe
 
 ## Established facts, Volume 6 Batch 0002 (ch 314–329) — WORK WITHOUT HIRE
 
-**Sixteen chapters, 24,398 words of body prose, average ~1,525, day 646 to day 700. ONE bracketed layer line, at
+**Sixteen chapters, 23,931 words of body prose, average ~1,496, day 646 to day 699. ONE bracketed layer line, at
 ch 321. Chapter titles and section headings excluded. Drafted against `outline/volume-06.md` and against
 `workspace/volume-06-batch-0002/PROMPT.md`, which is this batch's card. Every pinned item in it is on the page.
-This batch has not been through review and may be repaired; the chapters as they stand are what the next phase
-reads.**
+**The batch has been through review and repaired; the full record is at the end of this section under *Volume 6
+Batch 0002 (ch 314–329) — REVIEW REPAIR*, and the repair did not move a beat, a day, a stage, a bracket or a
+planned event.**
 
 ### The batch in one sentence
 
@@ -4702,21 +4703,22 @@ it and no mouth in the batch explains why the rule is the rule beyond what the b
   It comes down about four times a year.
 - **It is not the counter and not the floor above the counter and not the man with the brush.** Nothing above the
   copying floor is entered, described or named in this batch either.
-- The entry was made at about the eighth hour of the twenty-seventh of a month on **a strip of the same cloth as
+- The entry was made at about the eighth hour of the twenty-sixth of a month on **a strip of the same cloth as
   the board, about as wide as a hand, with a line ruled down it and a line across near the bottom, cut at the
   bottom edge with a knife, which means there had been more of it at one time.** It was turned face down on the
   bench and it was not read out and it was not held up. **It goes up.**
 
 ### The clock
 
-Ch 313 closed on **day 645, the second of a month.** **Batch 0002 ran day 646 to day 700** — the third of a
-month to the twenty-seventh of the next. Months are thirty days, month-day `((day − 134) mod 30) + 1`; the month
+Ch 313 closed on **day 645, the second of a month.** **Batch 0002 ran day 646 to day 699** — the third of a
+month to the twenty-sixth of the next. Months are thirty days, month-day `((day − 134) mod 30) + 1`; the month
 this batch opens in began on day 644 and the next began on **day 674, which is the pinned Golden Core 5 date**.
-Every day 646–700 is covered once, none unassigned and none assigned twice.
+Every day 646–700 is covered once, none unassigned, and **day 699 is shared by design** — ch 328 closes on her
+walking east and coming up to the gate and ch 329 opens in the same gateway with the words already said.
 
 | Ch | Day / days | Month-day | Title |
 | --- | --- | --- | --- |
-| 314 | 646 | the 3rd | Four Houses In Four Miles |
+| 314 | 646 | the 3rd | Four Nails |
 | 315 | 647–650 | the 4th–7th | The Lane Crossing |
 | 316 | 651–654 | the 8th–11th | It Came Twice |
 | 317 | 655–657 | the 12th–14th | The Ring Went Out |
@@ -4730,13 +4732,18 @@ Every day 646–700 is covered once, none unassigned and none assigned twice.
 | 325 | 686–688 | the 13th–15th | **THE HAND SPENT** — The Cart Turned Round |
 | 326 | 689–691 | the 16th–18th | A Hand In The Book |
 | 327 | 692–695 | the 19th–22nd | The Fire She Did Not Need |
-| 328 | 696–698 | the 23rd–25th | Three Days On It |
+| 328 | 696–699 | the 23rd–26th | Three Days On It |
 | 329 | 699–700 | the 26th–27th | **IRREVERSIBLE** — She Asked At The Gate |
 
+- **Day 700, the twenty-seventh, is ch 329's closing walk west.** She does not date it on the page and the only
+  other twenty-seventh in the batch is retrospective at ch 320.
+- **The lane crossing was cleared in three days, the fourth to the sixth.** The board said four. The retaining
+  wall took the full four. **Seven days of her own wall in all, which is the figure every later chapter gives as
+  *a week of her wall*.**
 - **No pay-cycle.** There is no trestle, no plank, no book and no pay-cycle anywhere in ch 314–329 and nothing
   falls on a date. The seventeenth was spent at ch 304 in Batch 0001 and was not spent twice.
-- **No named weekday, no named calendar month, no named week.** *Seven weeks*, *three weeks*, *about eleven
-  days*, *four days* are ordinary relative stretches and are in ordinary use.
+- **No named weekday, no named calendar month, no named week.** *Three weeks*, *about eleven days*, *four days*,
+  *about a month* are ordinary relative stretches and are in ordinary use.
 
 ### Geography, as established in ch 314 and used after
 
@@ -4752,14 +4759,19 @@ the corner behind a third of a sack, on a flat stone by the door. **Six miles to
 | | Day | What | Figure |
 | --- | --- | --- | --- |
 | **the gate, every day** | — | half a reach at five coppers a reach | **two and a half** |
-| **the material shed** | — | a third of a sack, which is a third of a charge and is four days of the ring | **three** |
-| **the material shed** | — | a full charge, which does not come in a size one arm can carry | **nine** (carried from ch 311) |
-| **a listing** | — | what the work was made of, into a box, at the works | **one box** for the lane crossing, **two boxes** for the retaining wall |
-| **the retaining wall** | the 22nd | what she was owed out of two boxes, after a block went into a ditch | **twenty-three, not twenty-five** |
+| **the material shed** | — | a third of a sack, which is a third of a charge and is about **a day's** ring | **three** |
+| **the material shed** | — | a full charge, which is **three days** of the ring and does not come in a size one arm can carry | **nine** (carried from ch 311) |
+| **a listing** | — | what the work was made of, into a box, at the works; **one box for the lane crossing, two for the retaining wall** | **one box = four days of the ring = twelve coppers; two boxes = eight days = twenty-four coppers** |
+| **the retaining wall** | the 22nd | what she was owed out of two boxes, after a block worth about a fifth of a box went into a ditch | **twenty-three, not twenty-five** |
+| **the tray of twenty-three** | the 30th | how long it lasts a ring that is burning and answering nothing | **eight days** |
+| **carrying one tray** | — | three miles each way, about three pieces a load, with a gate to work every morning | **eight loads, a little better than two days a load, sixteen days** |
 | **a ring, kept going** | — | three coppers every fourth day, six miles, and eleven minutes a lump | **one third of a charge** |
 
-- **A box is four days of the ring.** That is the batch's working unit and it reconciles: three coppers buys a
-  third of a charge, which is four days at the gate.
+- **A box is four days of the ring.** That is the batch's working unit and it reconciles: **a box is four thirds
+  of a sack; a third of a sack is three coppers and about a day's ring; so a box is twelve coppers and four days
+  of the ring, two boxes are twenty-four coppers and eight days, and a charge at nine coppers is three days.** The
+  tray she was handed holds twenty-three pieces — two boxes by the yard's figure of twenty-five, less the block —
+  and it lasts **eight** days.
 - **A listing settles twice and costs what it pays.** The settlement takes the fire that is in the ring that day,
   which is between nothing and four days of it. **The rest of the box is not a trade with her; it is the money,
   and it is the part of the payment that does not come out of her foundation.**
@@ -4811,7 +4823,7 @@ in the batch:
 
 ### The irreversible decision of this batch — ch 329, *She Asked At The Gate*
 
-**At about the ninth hour on the twenty-sixth of a month, in daylight, at a gate, about nine feet off a bench, she
+**At about the eighth hour on the twenty-sixth of a month, in daylight, at a gate, about nine feet off a bench, she
 said her name out loud — *Ning Yan, of Lowwater, I am asking to be put in the materials account of the office
 that sets this board* — and asked nothing.**
 
@@ -4907,8 +4919,10 @@ tense. None buys anything, advises anything, explains anything or advances anyth
 - **The *Under her, …* lead-in family: zero.** No lead-in of any shape stands before any of the four.
 - **His ch 272 losses are not given back by one word.** The unentered state and the date of the morning he died
   are still gone, and the finding that being read means being findable is not softened.
-- **The Ledger is never ordered, held, priced, refused or thought about.** `Ledger` appears nowhere in ch
-  314–329.
+- **The Ledger is never ordered, held, priced, refused or thought about.** `Ledger` returns **one hit across
+  ch 314–329**, ch 319:53, and it is *the counting frame and the ledger board* — the yard's own listing board
+  being described, not the ch 272 artifact. **The rule holds; the earlier record of this as a zero was wrong and
+  is corrected here.**
 - **The sustained scene in which he is on the page in his own right is ch 338, *The Room With Doors*, in Batch
   0003. Nothing in these sixteen chapters moves, duplicates, pre-spends or describes it.**
 
@@ -4990,7 +5004,7 @@ because a budget that only ever reports clean is not a budget.**
 | ***Eleven weeks*** (retired) | **0** |
 | ***Nobody asked · nobody was thanked · there is no form · there is no column · the record remained · nobody knew · nobody said anything*** | **0 as phrases.** One instance of the retired *nobody said anything* was written into ch 319 at the block-splitting and cut; it now reads *and not one of them made a sound*. **The thanks fact behind the retired construction is spent as of ch 309 in this volume's running text and is delivered nowhere in this batch** |
 | **The Yuan tag** *He said one thing that night and it was present tense and it bought nothing* | **0 verbatim, and the tag as a construction is not available.** No lead-in of any shape stands before any of the four utterances |
-| ***Under her, …:*** — the one-breath speech lead-in, as a whole family | **0.** The four `grep -i` hits for *under her* in the batch are *with a brick under her arm* (315), *the cold coming up under her* ×2 (316) and *what is under her base* (316); none precedes a speech of his and none closes a chapter |
+| ***Under her, …:*** — the one-breath speech lead-in, as a whole family | **0.** `grep -i` returns **five occurrences across four lines** — *with a brick under her arm* (315:19), *the cold coming up under her* (316:43), *the cold came up under her* (316:59) and *the ring is what is under her base* (316:99, twice). **The second 316 hit is a separate sentence, not a repeat of the first.** None precedes a speech of his and none closes a chapter |
 | ***About as long as it takes to count eleven* / the eleven-counts measure** | **0.** ch 307 spent Batch 0001's one |
 | ***His eyes widened · he couldn't believe it · suddenly · little did he know*** | **0** |
 | **The surface answer** — being told is not being charged | **0.** Not said, hinted at, gestured at or paraphrased in any mouth |
@@ -5001,8 +5015,8 @@ because a budget that only ever reports clean is not a budget.**
 | **Quotes** | **Every speech closed in all sixteen files** (`text.count('“') == text.count('”')` in every file); **0 straight apostrophes and 0 straight double quotes** |
 | **Paragraphs** | Longest paragraph in the batch is 98 words. No paragraph over 100 |
 | **Duplicated paragraphs** | **0 exact.** A paragraph-level duplicate scan returns nothing. **Near-duplicate scan at ≥0.45 six-gram overlap across chapters: 0**, after three pairs were broken in drafting — the settlement ritual at 316/320, the ring-lighting line at 318/320, and the brick-and-hand line at 316/326. **The *told before spent* ritual at 316 and 320 is a deliberate parallel and the two utterances are not the same sentence** |
-| **Length** | **24,398 words of body prose over sixteen chapters, average ~1,525.** Per file: 314 1,566 · 315 1,440 · 316 1,607 · 317 1,582 · 318 1,767 · 319 1,368 · 320 1,613 · 321 1,391 · 322 1,478 · 323 1,325 · 324 1,518 · 325 1,388 · 326 1,495 · 327 1,395 · 328 1,690 · 329 1,775. **None under the 1,300 floor and none above the 2,700 guide** |
-| **Titles** | All sixteen unique against all 313 existing headings and against each other; **329 `^# ` headings across the manuscript, zero collisions** |
+| **Length** | **23,931 words of body prose over sixteen chapters, average ~1,496** (24,533 raw, headings included). Per file: 314 1,553 · 315 1,427 · 316 1,574 · 317 1,540 · 318 1,739 · 319 1,335 · 320 1,575 · 321 1,367 · 322 1,450 · 323 1,321 · 324 1,486 · 325 1,357 · 326 1,462 · 327 1,365 · 328 1,650 · 329 1,730. **Shortest ch 323 at 1,321, longest ch 318 at 1,739. None under the 1,300 floor and none above the 2,700 guide.** Counts are body prose only, `#` titles and `##` headings excluded, and were re-measured from the files at the review repair — **the figures previously recorded here (24,398 / average ~1,525, and a sixteen-file list that matched neither that total nor the files) were wrong and are replaced** |
+| **Titles** | All sixteen unique against all 313 existing headings and against each other; **329 `^# ` headings across the manuscript, zero collisions**. **ch 314 is now *Four Nails***; it was *Four Houses In Four Miles*, which lifted its phrase out of ch 313's closing image and named the wrong chapter |
 | **Tribulation / suppression arithmetic** | **0 / 0** |
 | ***Kiln-born*, Anchor, Sisterhood, Lung, appointment, MEMBER ABSENT, sponsor, Shen Xiu, reconciled, erased, base went out, could not account, licence, license, plate, sending, sent for, vouched (before ch 329), Wei Ran, Ning Wu, Bai Zhu, Feng*** | **Zero on the page of this batch.** `vouch` returns **one line**, ch 329:41, and it is ch 329 |
 | **The seven relicensing conditions** | **0.** Never listed, counted, enumerated or referred to by number |
@@ -5025,9 +5039,72 @@ of a month.** The geography was reconciled at the same time: **the mill is 0, Pe
 material shed about three-quarters of a mile east, the works three miles east, and the ring is in a shed at the
 mill** — so a sack off the shed is two miles there and back and a box off a listing is six.
 
-**One fact recorded rather than reconciled:** the batch prompt's day table gives ch 314 the single day 646 and
-ch 321 the two days 673–674, and the chapters carry exactly those days. Every day from 646 to 700 is covered
-once. The chapter in which the ring is lit full is ch 327 (the nineteenth of a month, day 692) and the chapter in
-which the material arrives is ch 325 (the thirteenth of a month, day 686); the prompt's beat for ch 325 says *a
-box goes on instead of waiting a season* and it does, and the prompt's beat for ch 327 is *the reach, and what a
-clearing paid in materials asks of a body*, which is what the chapter is about.
+**One fact recorded rather than reconciled:** the batch prompt's day table gives ch 314 the single day 646 and ch
+321 the two days 673–674. **The chapters now carry those days.** Before the review repair they did not: ch 314
+opened on the third and then dated its eastern trip to the fourth three times, which put it in collision with
+ch 315's fourth, and ch 328 narrated the twenty-sixth a day past its own row. **The day table above is the
+authority and it now matches the page.** The chapter in which the ring is lit full is ch 327 (the nineteenth of a
+month, day 692) and the chapter in which the material arrives is ch 325 (the thirteenth of a month, day 686); the
+prompt's beat for ch 325 says *a box goes on instead of waiting a season* and it does, and the prompt's beat for
+ch 327 is *the reach, and what a clearing paid in materials asks of a body*, which is what the chapter is about.
+
+---
+
+## Volume 6 Batch 0002 (ch 314–329) — REVIEW REPAIR
+
+**Reviewed and repaired. Thirteen findings, all closed. No beat, day, stage, bracket, turn, midpoint, climax,
+irreversible decision or planned event moved, and no chapter outside ch 314–329 was opened.** The batch was not
+restarted. The prose was kept and corrected in place; **the only chapter touched that had no arithmetic or
+continuity fault is ch 328, and it was touched three times for elapsed time, not for its scenes.**
+
+### The five faults that were on the page
+
+| # | Fault | Repair |
+| --- | --- | --- |
+| 1 | **The money rate contradicted itself between ch 314 and ch 323.** Ch 314's sum read as *nine coppers = four days of ring*; ch 323 read *a third of a sack, three coppers, = four days of the ring*. | **The batch's own anchor, six texts deep, is that a third of a sack is a **day's** ring and she buys one every fourth day.** Ch 314 never actually said otherwise — *four days* there is the gate-work cost of a charge — but it read ambiguously, so `Four days.` became `Four days of work for it.` and *four days to a charge* became *four days of work to a charge*. Ch 323:27 now reads *about a day's ring*. The rule reconciles end to end: a box is four thirds of a sack = twelve coppers = four days; two boxes = twenty-four coppers = eight days; a charge at nine = three days |
+| 2 | **A box was worth three different amounts** — four days at ch 315, nine at ch 321, four and a half at ch 323 — and ch 323's *nine days of the ring is thirty coppers* implied 3.33 coppers a day against the batch's own three coppers for a *third of a sack* | **Six texts said four days and won: ch 315:71, ch 317:81, ch 318:65, ch 318:87, ch 318:95, ch 318:97.** Ch 321's standalone **Nine days** became **Eight days** — the tray is two boxes — and ch 323:27 became *eight days of the ring, and eight days of the ring is twenty-four coppers, and twenty-four coppers at two and a half a day is ten days at a gate*. Ch 323:29's *Thirty coppers is five months* went with it. **Ch 323's *out of two boxes* was correct** — ch 319 has the retaining wall's pay as two boxes and the yard's figure at twenty-five — and was left alone. Also corrected: ch 323:5 *a fifth of the box* for nine pieces out of twenty-three → **two fifths**; ch 323:7's *eight hours a box and eight boxes a round* → **eight loads and a little better than two days a load**, which is the figure ch 320:93 already gave. Ch 326 and ch 327's *nine days of a fire* became **eight** |
+| 3 | **The elapsed time to the cart was wrong twice.** The reach went at the seventh hour on the twenty-fourth, day 667; the cart left at the ninth hour of the thirteenth of the next month, day 686. That is **nineteen days**, and ch 325 said nine and twenty-two | **Both now read nineteen** (ch 325:59, ch 325:65). The continuity record at *the twenty-fourth of the last month* + *the cart went nine days later* matched neither and was rewritten |
+| 4 | **ch 314 collided with ch 315's day.** It opened on the third and then dated its eastern trip to the fourth three times, which is the same hour, the same day, that ch 315 has her down in the ditch | **All three now read the third** (ch 314:67, 89, 111). The ch 314:111 clause *worth more than everything she had earned since the seventh of a month* also went: the seventh is three days in the future, and a box at twelve coppers is not more than a fortnight's gate work. **It is replaced with the true version** — four days of work, earned on a board with no name on it, for an afternoon and four nails |
+| 5 | **ch 315's day count did not match its span.** It went down on the fourth, came up on the sixth — three days — and reported five, under a heading that read The Fifth Day | **It is three days and the board said four, and the chapter now says so three times.** The beat was not thrown away: the man's line is now that the day she did not use goes back on the board and is not his to hand out, and her interior beat is that **for the first time in five months a man on that ground being right had cost her nothing at all.** The ripple was carried: ch 327:39's *four days and a fifth* → **seven days, three on a head and an apron and four on a footing**, which is the *week of her own wall* every later chapter names |
+
+### The elapsed-time drift the review sampled and did not finish
+
+ch 328 claimed **seven weeks** at a yard she first walked into on the third of a month, three instances, and ch 324
+and ch 325 called a six-to-ten-day acquaintance *a month*. All now measured against the day table: ch 324 *six days*
+and *a week* ×2, ch 325 *ten days*, ch 328 *three weeks* ×3, ch 326's *three days before the cart question came
+round again* → **six** and *in about six days* → **about eight days** for the twenty-sixth. **ch 329's *a yard that
+had been giving her work for a month* was left: the third to the twenty-sixth is twenty-three days and the figure
+stands.**
+
+### The record corrections, made from the chapters without reopening them
+
+- **The `Ledger` zero-claim was false.** `Ledger` appears once, at ch 319:53, as *the counting frame and the ledger
+  board* — the yard's listing board, not the ch 272 artifact. **The rule holds and the evidence is now stated
+  correctly.**
+- **Every recorded Batch 0002 word count was wrong and three different ones were in circulation** — 24,398/~1,525 in
+  four files and 24,142/~1,509 in two. Rebuilt from the files: **23,931 body, average ~1,496, 24,533 raw.** Batch
+  0001's 24,531 reproduces exactly, so the method was never in doubt. **The Volume 6 file set is 48,462, not
+  48,929.**
+- **"None under the 1,300 floor" was not supportable on the batch's own stated method** — ch 323 measured 1,298
+  body against a recorded 1,325 that matched no method at all. **It is now 1,321 and the claim is true**, and the
+  floor statement is made against the declared method.
+- **The *under her* enumeration was wrong.** It claimed four hits as *with a brick under her arm*, *the cold coming
+  up under her* ×2 and *what is under her base*. **There are five occurrences across four lines** — 315:19, 316:43,
+  316:59, 316:99 (twice) — and the second 316 hit is its own sentence, not a repeat of the first.
+- **The irreversible decision was timestamped three different ways** in the state files against one on the page.
+  **ch 329:31 and ch 329:95 both say the eighth hour of the twenty-sixth**; the *ninth hour* and the *twenty-seventh*
+  are gone.
+- **The day table asserted days the chapters did not carry.** It now matches the page, and day 699 is recorded as
+  **shared by design** — ch 328 closes on her coming up to the gate and ch 329 opens in the same gateway.
+- **ch 314 was retitled *Four Nails*.** *Four Houses In Four Miles* lifted its phrase verbatim out of ch 313's
+  closing image and named a chapter that is about a stone works, a board and a line taken off the nails.
+
+### What was checked and found clean, so that the fixes above are the whole of it
+
+Quotes closed in all sixteen files · zero bold, blockquotes, code fences, tables and horizontal rules · zero
+straight quotes · **329 `^# ` headings, zero collisions** · longest paragraph 98 words, none over 100 · the seven
+retired constructions zero as phrases · *his eyes widened / he couldn't believe it / suddenly / little did we know*
+zero · no named weekday, month or week · **one bracketed layer line, at ch 321, matching the pinned text** · five of
+Yuan's sentences, one utterance each at ch 316, 320, 326 and 329, every one present tense · no office named and
+nothing above the copying floor entered · the surface answer not re-voiced · the year of non-forgiveness not
+mentioned · Bai Zhu and Wei Ran off the page · no harem and no romance.

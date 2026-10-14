@@ -36,19 +36,19 @@ It is not coming out.
 
 There was a brick down there that was worth about a ninth of a box and it was going to stay down there for as long as the ditch was a ditch, and she had put it there.
 
-## The Fifth Day
+## Three Days
 
-The board had said four days and she finished on the sixth at the seventh hour, which was five, and she went back and put the line back up on the board with the four nails in it and the fifth day written on the back of the piece of board in her own hand, because a line that has been on a board and taken off and put back is a different thing from a line that was never on it.
+The board had said four days and she finished on the sixth at the seventh hour, which was three, and she went back and put the line back up on the board with the four nails in it and the three days written on the back of the piece of board in her own hand, because a line that has been on a board and taken off and put back is a different thing from a line that was never on it.
 
 The man at the gate looked at the back of it for a moment.
 
-“Five,” he said.
+“Three,” he said.
 
-“Five.”
+“Three.”
 
-“The work is done or it is not. It is done.” He turned the board round and hung it up. “The fifth day is yours. I am not going to take a day off you that the board never had in it.”
+“The work is done or it is not. It is done.” He turned the board round and hung it up. “The day you did not use goes back on the board. I cannot give it to you and I am not going to try.”
 
-He was right about that and she knew he was right about it while he was saying it, and it was the fourth time in five months that a man on that ground had been right about something that cost her money.
+He was right about that and she knew he was right about it while he was saying it, and it was the fourth time in five months that a man on that ground had been right about something, and for the first time in five months being right had cost her nothing at all.
 
 ## The Box
 
@@ -72,7 +72,7 @@ Four days at a gate is ten. One box is four days of fire, and she had been buyin
 
 And the fire was not the whole of it either, and she had got that out on the walk back across the flat with the bar on her shoulder and her right arm hanging the way it hangs.
 
-She had laid a hundred and ten bricks under one arm and carried them up a bank of four feet, five days running, and the thing that had come out of the ground at the ditch head was standing square and clean and would be there in the spring.
+She had laid a hundred and ten bricks under one arm and carried them up a bank of four feet, three days running, and the thing that had come out of the ground at the ditch head was standing square and clean and would be there in the spring.
 
 ## At The Fourth Hour
 

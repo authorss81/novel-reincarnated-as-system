@@ -31,9 +31,10 @@ end of ch 329*** + its construction budget at the foot), `state/open-threads.md`
 `state/chapter-summaries.md`, `state/book-metadata.md`, and **chapters 314–329 in full**. Extend to 299–313 only
 if the verified context budget safely allows.
 
-**Batch 0002 has not been through review and may be repaired by the review phase. Draft against the chapters as
-they stand and do not assume they are final. If a chapter in 314–329 contradicts this prompt, the chapter wins and
-the prompt is wrong; record it.**
+**Batch 0002 has been reviewed and repaired** — the ring's own fuel rate and the worth of a box were reconciled
+end to end, the 24th-of-a-month anchor was set at nineteen days, ch 314 was retitled *Four Nails* and its eastern
+trip moved to the third, and every figure in it is now measured from the files. **The chapters are final. If a
+chapter in 314–329 contradicts this prompt, the chapter wins and the prompt is wrong; record it.**
 
 ## Batch goal (fixed, card it, do not re-plan)
 
@@ -110,7 +111,9 @@ a death · describe the Clay Plate · open the relicensed licence.
   half a mile east of the mill at **five coppers a reach, half a reach, two and a half a day**, and every stage she
   takes takes that number down again. **A stone-and-brick works three miles east of the mill, a board on its wall,
   a listing taken down off the nails by her own hand, paid in what the job was made of.** A box is four days of
-  the ring.
+  the ring — four thirds of a sack, a third of a sack being three coppers and about a day's ring; the tray of
+  twenty-three she was handed is two boxes by the yard's figure of twenty-five less the block, and it lasts
+  eight days.
 - **A furnace lit full since the nineteenth of a month at the mill, out of twenty-three pieces of dressed stone,
   and it answers nothing**, because the answering went out of her on the twenty-fourth of the last month when she
   spent a reach for a cart. **The ground under it gives nothing back and never has and she has never said so out
@@ -193,7 +196,7 @@ a death · describe the Clay Plate · open the relicensed licence.
   paragraph; break over about 90 words; never over about 120.
 - **Curly quotes and curly apostrophes. Close every speech.** Run `text.count('“') == text.count('”')` in all
   sixteen files before finishing.
-- **Length: 1,300 floor, 1,800–2,700 guide.** Volume 6 Batch 0001 averaged ~1,635 and Batch 0002 averaged ~1,509.
+- **Length: 1,300 floor, 1,800–2,700 guide.** Volume 6 Batch 0001 averaged ~1,635 and Batch 0002 averaged ~1,496.
   **Do not pad to reach the guide and do not split a finished scene to shorten one.** **Record no
   chapter-length trade-off anywhere in any file.**
 - **No harem. Nothing in Volume 6 is a romance.** *The shape of a happy life* is spent until Volume 16, by Ning

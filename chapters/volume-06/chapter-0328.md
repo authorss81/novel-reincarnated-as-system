@@ -24,7 +24,7 @@ She waited until he had put the chalk down.
 
 ## What He Was Going To Do About It
 
-He looked at the board for a while and then he looked at her arm, which he had been looking at for a month.
+He looked at the board for a while and then he looked at her arm, which he had been looking at for three weeks.
 
 “What I am going to do about the thirteenth,” he said, “is charge it to the yard. Not to you. The yard put out a cart on a day the yard had not put it out and the yard is short two boxes of stone and forty miles of hauling, and that is the yard’s account and it goes in on the yard’s side on the last line and it is signed for by a man whose name is on the end of this board.”
 
@@ -54,11 +54,11 @@ She stood in the gateway with the bar on her shoulder and looked at about nine f
 
 Then she said: “I am sorry about the cart.”
 
-And then, because he was right and she had been in that yard about seven weeks and everybody in it had been right every single time:
+And then, because he was right and she had been in that yard about three weeks and everybody in it had been right every single time:
 
 “Do not lose it on account of me.”
 
-That was all. There was no arrangement between them that could be finished with the words and she had been in that yard about seven weeks and she knew that.
+That was all. There was no arrangement between them that could be finished with the words and she had been in that yard about three weeks and she knew that.
 
 ## What She Weighed For Two Days
 
@@ -100,7 +100,7 @@ And the only person she can be angry at is a man with ink on the side of his han
 
 She worked half a reach at Pei’s gate on the twenty-sixth of a month and took two and a half out of the fold in the inside of the door frame and went east at about the seventh hour with the bar over her left shoulder.
 
-She had not written anything down and she had not asked anybody and nobody had persuaded her and nothing in about seven weeks had been argued at her, and that was not a thing she had arranged. It was a country where every single person she had met had done their own work correctly and had told her the price of it in the ordinary voice and had gone back to it.
+She had not written anything down and she had not asked anybody and nobody had persuaded her and nothing in about three weeks had been argued at her, and that was not a thing she had arranged. It was a country where every single person she had met had done their own work correctly and had told her the price of it in the ordinary voice and had gone back to it.
 
 She came up the made road about nine minutes before the eighth hour and the yard gate was open and lit and the board was up on the wall inside it with nothing on it, and the man who kept the list was standing at the bench with his hands on it.
 

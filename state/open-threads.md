@@ -30,11 +30,10 @@ drafted against their own prompts and every pinned item in each is on the page.
 **Batch 0001 (ch 299–313) is on the page: 24,531 words of body prose over fifteen chapters, average ~1,635,
 day 621 to day 645, ONE bracketed layer line at ch 310, Golden Core 4 at ch 310, the irreversible decision at
 ch 308 and the unrescued physical risk at ch 307.**
-**Batch 0002 (ch 314–329) is on the page: 24,398 words of body prose over sixteen chapters, average ~1,525,
-day 646 to day 700, ONE bracketed layer line at ch 321, Golden Core 5 at ch 321, the Hand spent for the first
+**Batch 0002 (ch 314–329) is on the page and has been reviewed and repaired: 23,931 words of body prose over sixteen chapters, average ~1,496, day 646 to day 699,
+ONE bracketed layer line at ch 321, Golden Core 5 at ch 321, the Hand spent for the first
 time in this book at ch 325, and the volume's midpoint and this batch's irreversible decision at ch 329 — a
-second vouching, by a second office, against materials, agreed in daylight at a gate. It has not been through
-review.**
+second vouching, by a second office, against materials, agreed in daylight at a gate at the eighth hour of the twenty-sixth. **Thirteen review findings closed; full record in `state/continuity.md` under *Volume 6 Batch 0002 (ch 314–329) — REVIEW REPAIR*.**
 Full record for Batch 0002 in `state/continuity.md` under ***Established facts, Volume 6 Batch 0002
 (ch 314–329) — WORK WITHOUT HIRE***, ***Volume 6 running ledger — at end of ch 329*** and ***Construction budget —
 Volume 6 Batch 0002 (ch 314–329), measured by grep, not promised***.
@@ -692,7 +691,7 @@ ledger — at end of ch 313***.
 
 ## Volume 6 Batch 0002 (ch 314–329) — what this batch added, live going into Batch 0003
 
-**Sixteen chapters, 24,142 words of body prose, average ~1,509, day 646 to day 700. ONE bracketed layer line, at
+**Sixteen chapters, 23,931 words of body prose, average ~1,496, day 646 to day 699. ONE bracketed layer line, at
 ch 321.** Pressure: **work without hire** — not keeping, not debt, not family paper, not ash, not a ration, not a
 hiring, not a tending, not a crossing, not an audit, not an examination, not a hunt, not a signature, not a
 confinement, and not Batch 0003's sending and being sent for. Full record in `state/continuity.md`.

@@ -2,9 +2,9 @@
 
 She started it on the sixth of a month at about the seventh hour with the box against the wall of the open end and the bar in her left hand and about twenty-three pieces in it, and she got nine of them onto the flat ground by the gate in about an hour.
 
-That is about a fifth of the box in an hour with one arm.
+That is about two fifths of the box in an hour with one arm.
 
-She stood in the gateway at about the ninth hour with nine dressed pieces laid out in a row on flat stone and looked at the row and looked at the box and did the whole of it again in her head, and the whole of it came out at about eight hours a box and eight boxes a round and sixteen days of it, three miles each way, on a ground she would be standing on every day of the rest of the month.
+She stood in the gateway at about the ninth hour with nine dressed pieces laid out in a row on flat stone and looked at the row and looked at the box and did the whole of it again in her head, and the whole of it came out at about eight loads and a little better than two days a load, because she worked the gate every morning of it, and sixteen days of it, three miles each way, on a ground she would be standing on every day of the rest of the month.
 
 Three weeks on the cart or sixteen days on her own hands. The man at the gate had not said a figure and she had not asked him for one because she had worked it out on the sixth of a month with nine pieces on the ground.
 
@@ -24,11 +24,11 @@ She stood at her own gate with her hand shut and got to it about nine minutes la
 
 It is for the ring.
 
-A third of a sack is three coppers and it is four days of the ring. Twenty-three pieces of brick and clay and stone out of two boxes is about nine days of the ring, and nine days of the ring is thirty coppers, and thirty coppers at two and a half a day is twelve days at a gate.
+A third of a sack is three coppers and it is about a day’s ring, and she buys one every fourth day. Twenty-three pieces of brick and clay and stone out of two boxes is about eight days of the ring, and eight days of the ring is twenty-four coppers, and twenty-four coppers at two and a half a day is ten days at a gate.
 
-Thirty coppers is five months of the fourth of a month in a season she had not finished.
+Twenty-four coppers is about a month of the ring, and in five months she had never once been a month ahead of a fire.
 
-And she could not take it out of the yard, and she could not buy the thirty coppers out of one hand, and she could not put it in the ring, and there was a fire burning in a shed three miles west that had not answered her once since the twenty-fourth of the last month.
+And she could not take it out of the yard, and she could not buy the twenty-four coppers out of one hand, and she could not put it in the ring, and there was a fire burning in a shed three miles west that had not answered her once since the twenty-fourth of the last month.
 
 ## The Second Thing The Material Is For
 

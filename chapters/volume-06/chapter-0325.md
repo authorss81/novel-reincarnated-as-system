@@ -52,17 +52,17 @@ She worked it out on the road between the elms and the open ground, sitting on a
 
 The round is a thing on a board.
 
-She had watched it for a month and had never once looked at it, because a round is the yard’s business and the yard’s business is a cart and a stone and a man. There was a line somewhere that said when the cart went and what it took and where it put it down, and the yard wrote it and the yard kept it and the yard did what the line said.
+She had watched it for ten days and had never once looked at it, because a round is the yard’s business and the yard’s business is a cart and a stone and a man. There was a line somewhere that said when the cart went and what it took and where it put it down, and the yard wrote it and the yard kept it and the yard did what the line said.
 
 It was a line.
 
-It was the same as a column. It was a line about hours and a cart, kept by men, read by men, and it said what a thing goes out on and where it goes and when, and about twenty-two days ago it had been put there and it had been put there out of a woman who had spent a week of her own wall.
+It was the same as a column. It was a line about hours and a cart, kept by men, read by men, and it said what a thing goes out on and where it goes and when, and about nineteen days ago it had been put there and it had been put there out of a woman who had spent a week of her own wall.
 
 On the twenty-fourth of a month at about the seventh hour, at the top of a ditch between two farms, with her hand on a post, he had said he wanted the reach to put a thing on this ground that was not hers and not his and did not stop because of either of them.
 
 He had told her what it was for before he spent it. That was the arrangement and he had never once broken it in four years.
 
-She had had nine days since the twenty-fourth to stop him and she had not known it was coming and she was not going to be able to say that she had known.
+She had had nineteen days since the twenty-fourth to stop him and she had not known it was coming and she was not going to be able to say that she had known.
 
 ## What She Said To Him
 

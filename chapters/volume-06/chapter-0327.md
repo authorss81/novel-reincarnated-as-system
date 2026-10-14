@@ -16,7 +16,7 @@ A ring is not for heat. She had said that out loud on the fifteenth of a month i
 
 The heat is as far as a hand goes.
 
-And on the nineteenth of a month she could put a hand anywhere on her body and it was warm already, and it had been warm for eighteen days, and it was going to be warm for the rest of her life, and she had bought nine days of it with a week of her own wall and a cart that went when it had no business going and a hole in a yard’s account about eleven days away.
+And on the nineteenth of a month she could put a hand anywhere on her body and it was warm already, and it had been warm for eighteen days, and it was going to be warm for the rest of her life, and she had bought eight days of it with a week of her own wall and a cart that went when it had no business going and a hole in a yard’s account about eleven days away.
 
 She had bought the one thing on nine days of road that she no longer needed, and she had bought it at the most expensive rate anything had ever been bought on that ground, and the fire was doing exactly what she had paid it to do.
 
@@ -32,13 +32,13 @@ She took her hand off and banked it down to about a third and sat on the boards 
 
 That is what a clearing paid in materials bought her.
 
-Nine days of a fire, in a shed, three miles east of a yard, and a woman sitting on the boards beside it at about the eleventh hour of the twentieth of a month, eighteen years old, with the best fire within nine days of road.
+Eight days of a fire, in a shed, three miles east of a yard, and a woman sitting on the boards beside it at about the eleventh hour of the twentieth of a month, eighteen years old, with the best fire within nine days of road.
 
 ## What The Clearing Asked Of A Body
 
-It took her four days and a fifth, and it took her about a hundred and ten bricks under one arm on one of them and twenty feet of footing on another, and it took her a block into a ditch.
+It took her seven days, and it took her about a hundred and ten bricks under one arm on three of them and twenty feet of footing on four of them, and it took her a block into a ditch.
 
-It took her about nine loads she did not make because a cart went on the wrong day, and twenty-three pieces broken down one at a time on a flat stone by a door at about eleven minutes a piece, which is about four hours of her hands that no book has anywhere and never will have.
+It took her about eight loads she did not make because a cart went on the wrong day, and twenty-three pieces broken down one at a time on a flat stone by a door at about eleven minutes a piece, which is about four hours of her hands that no book has anywhere and never will have.
 
 And it took her this, which she had not thought about before the second day and had thought about every hour since:
 
