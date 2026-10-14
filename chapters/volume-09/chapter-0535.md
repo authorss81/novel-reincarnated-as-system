@@ -68,7 +68,7 @@ She has said no to kept. The rule has two words in it. She has been told in writ
 
 So the word is lost, and she does not know what lost does.
 
-Not one word of what she has just given up was known to her. She refused the word a man of nine hundred years has told her is the better one. She has no evidence at all on the other one; she has one page and a figure of one on it and a man who said three words out of the dark, and none of those says what either of the two does to a person.
+Not one word of what she has just given up was known to her. She refused the word a man of nine hundred years has told her is the better one. She has no evidence at all on the other one; she has one page and a figure of one on it and a man who said four words out of the dark, and none of those says what either of the two does to a person.
 
 She has taken the one she knows nothing of, in exchange for refusing the one he told her on the tenth that she is better off with.
 
@@ -98,7 +98,7 @@ He had nine hundred years of evidence and he did not use one day of it.
 
 She stood there and understood exactly what that was, and it was the worst thing that has happened to her in four months, and she is going to write it the way it is.
 
-If he had argued, she could have gone at it. She could have had it out with a man over the meaning of a word for nine hours and she would have won some of it, because she has four stages past the end of a realm and a hand that cannot write a false line and a mouth that has been reading documents since she was six.
+If he had argued, she could have gone at it. She could have had it out with a man over the meaning of a word for nine hours and she would have won some of it, because she has three stages past the end of a realm and a hand that cannot write a false line and a mouth that has been reading documents since she was six.
 
 He would have let her. He would have stood there and been argued with, because he does not prefer, and a man who does not prefer has all the time in the world.
 

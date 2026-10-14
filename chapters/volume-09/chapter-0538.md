@@ -88,7 +88,7 @@ He came west out of the far ground at the eleventh hour on the twenty-second of 
 
 Three days. She checked it at the ninth hour of the twenty-fifth with her hand flat on a book of her own: twenty-two miles, three days, and one thousand five hundred and ninety-eight less one thousand five hundred and ninety-five is three.
 
-There is a wall in the ground four hundred yards east of a door eleven feet wide and it is still open. There is a table standing in it with nothing on it.
+There is a wall in the ground east of her and it is still open. There is a table standing in it with nothing on it.
 
 There is a chair against a wall in a nine-foot room that she has not sat in since the thirteenth of a month that has gone, and a window a hundred yards off with no light in it, and a man who is nine hundred years old standing two hundred yards away from her with a bag on his shoulder.
 

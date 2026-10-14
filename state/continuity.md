@@ -4328,3 +4328,116 @@ in this review; the second and the third are refrains the batch is built on — 
 concession a woman who says no out loud keeps making — and 39 of the batch's 125 section headings repeat elsewhere in the
 manuscript, so repetition inside the batch is the house register, not a defect.** **Recorded so that the next reviewer
 does not spend a finding on them.**
+
+## Volume 9 Batch 0004 (ch 524–538) — established facts, carried to the volume close
+
+**Day 1,562 to day 1,598, thirty-seven days, pressure *surviving being kept*.** She is nineteen, Severance 3, three
+stages past the ceiling, four fingers and a thumb, right arm open four days in five, eight of eleven holds, four counts
+of breath everywhere, the open place low behind her fourth rib, no wages, no place, and the road behind her gone.
+
+1. **The room is nine feet by eleven against the west face of the wall** — boards, a chair she will not sit in, a table,
+   a blank book she will not take, a bed frame with nothing on it, a shelf with a jug and a folded blanket, a window
+   facing west, a chimney that draws — **and it is hers for thirty-seven days because there is nowhere else, which is
+   not the same as holding.** She sleeps on the boards on purpose and goes out of the opening at the fourth hour and
+   does not knock.
+2. **The paper is made, not taken.** A blanket off the shelf, three hundred and one sheets in three days counted in nine
+   passes with the left hand, three square at first and nine square in nine hundred and six by the standard set on the
+   second day; two folded books, soot ink, a date and a place on the first leaf. **The blank book on the table is never
+   touched for writing.**
+3. **Wei Ran carries her once, west, for nine coppers a head said out loud four times**, the bar in the cart and not in
+   the rate, twenty-two miles in two days and a half. Eight coppers unchased and nine unchased with them. A trade, a
+   team, a rate and an opinion, nothing else.
+4. **The keeper says no.** He has none to sell and none to give; forty sheets on a shelf and none of them hers to ask
+   for. She gives him nothing, asks him to keep nothing, leaves with nothing. **A thing that is kept is not a thing that
+   is owed.** Three names in his book under the ladder in nineteen years, put there by himself, no office having asked.
+5. **The rule in full, at ch 530**: a name goes in when a person gets to the top of a realm with nothing to take them
+   past it, once, as kept or as lost, older than she is. Stated without persuading her of anything, never explained why.
+6. **Structural mouth five of five, Shuyin's, at ch 531, in five short sentences across beats, never one speech** — not
+   a place to join, not a punishment, a record of the ones the bound took, accurate, the accuracy the whole of it —
+   **and once, the sentence he is wrong about, that a person on his book is better kept than a person off it, which he
+   does not know is wrong about.** She cannot correct him and does not try.
+7. **The Hunter, once, at ch 531**, nine feet off, notebook shut, and she asks him whether a person written as lost is
+   safer than a person not written at all. **He says he does not know, and then says the other thing: that she asked
+   him, and that this is the second question anybody has ever asked him that he would rather not answer.** His name is
+   used once. His request stays pending.
+8. **Entered either way; the word is hers.** No third place; he has outlived preferring and takes either. The page she
+   gave him on the third is about her and not the line. One sentence about the door: the one who opened it stays on the
+   wrong side of it.
+9. **The demand at its maximum, at ch 533**: three stages past the top, nothing to take her past it, no other room to be
+   written in — and the twenty-second at the ninth hour. She could write her own line with his brush and puts it back,
+   because a record kept by the person it is about is not a record.
+10. **The survival, at ch 534–535, in her own hand where his cannot take it out.** Four sentences, written on the
+    eighteenth at the ninth hour, read back to him out loud on the twentieth in the ordinary voice — and she refuses
+    kept, once, out loud. **She is entered. She is not kept. It cannot be un-written and it does not un-copy her ch 474
+    page.**
+11. **One line and a date, at ch 536, the twenty-second, in his own hand, and the word is *lost*.** He shuts the book.
+    He walks her as far as a man who cannot come back across can come; she goes the last eleven feet alone, goes in,
+    and he does not follow. **He is not thanked anywhere, and no chapter writes a scene in which he is thanked.**
+12. **The road walked west one last time, at ch 537**, twenty-two miles in two days, past the gate, the crossing, the
+    lane, the bench not stopped at and the store not entered — walked exactly as fast as always, going nowhere she has
+    been. Severance 3's cost carried and shown, not re-derived.
+13. **The book left on the stone under the ladder, at ch 538, day 1,598, at the ninth hour, in daylight, in front of
+    three people, unasked and unkept-for.** Beside his book with an inch of stone between. **He has come west, twenty-two
+    miles in three days, and stands nine miles west of the only room in which what he keeps is kept; the wall is still
+    open behind him and the table stands in it with nothing on it.** She says his name once, in the open, with
+    witnesses. **The last line of the volume is his answer, and nothing after it.**
+
+### Readings taken against the outline
+
+Per the drafting card's own instruction, the batch's six pinned readings, all kept on the page: **the demand at the
+wall and never in the room, with his book on a plank table in the opening and him on his own side throughout, and no
+chapter puts him on her side** · **the room nine by eleven for thirty-seven days, a place somebody lets her have and
+not a place that holds** · **ch 531 his only mouth, five sentences and the one wrong one, and *Shuyin* never in his own
+mouth** · **he correct throughout and wrong about exactly one sentence** · **ch 536 one line and a date, the word
+*lost*, the shut book, and the walk ending at the jamb with her last eleven feet alone and no thanks** · **ch 538 he
+comes west out of the far ground down eleven miles of long road and along nine days of road and stands at the foot of
+the keeper's ladder when she says the name, the wall still open behind him — and nothing in the batch explains the
+wall.** No other departure.
+
+### Construction budget — Volume 9 Batch 0004, counted rather than quoted
+
+Body prose only, method B, measured on the fifteen files as they stand: **28,734 words, average ~1,916**, inside the
+volume's own 27,000–30,000 band and its 26,000 floor · per file: 524 1,907 · 525 2,005 · 526 1,869 · 527 2,039 ·
+528 1,817 · 529 2,001 · 530 1,885 · 531 2,044 · 532 1,865 · 533 2,149 · 534 1,643 · 535 1,820 · 536 1,909 · 537 2,033 ·
+538 1,748 · range 1,643–2,149, nothing under the 1,300 floor · **0** blockquotes, code blocks, tables or horizontal
+rules · **0** bracketed layer lines in fifteen chapters — **Volume 9's budget of three in sixty stands spent at ch 493,
+ch 508 and ch 523** · **0** straight double quotes and **0** straight apostrophes, every speech closed · **0** bold
+spans and **2** italic spans, both the word *lost*, at ch 535 and ch 536 · longest paragraph **89** words, none over
+120 · **15** new `#` headings, unique against each other and against all 523 standing, **538 headings manuscript-wide
+with zero collisions**, longest new title **30** characters · **0** named weekdays, **0** named calendar months,
+**0** named weeks · **0** of the ch 267 surface answer · **0** at every token in the continuity list carried from Batch
+0003, measured on word boundaries in body prose before it is claimed.
+
+Counted and written down whatever they are, with the method in the same sentence: **`about` 88** across the fifteen
+chapters, body prose, `\babout\b`, average 5.9 · **`whole of` 39** · **`eleven` 58** · **`Shuyin` 1**, at ch 538 in her
+mouth with witnesses, never in his own · **`Warden` 0** · **`list` 3**, all at ch 525 as her own counting word ·
+**`send for`/`sent for` 4**, every one a negation · **`Ning Wu` 0 · `Yuan` 0 · `Ledger` 0 · `Feng` 0 · `Anchor` 0 ·
+`Sisterhood` 0 · `Scribe` 0 · `bargain` 0 · `Lung` 0 · `appointment` 0 · `budget` 0 · `Wall writ` 0 ·
+`field agent` 0** — every one measured on word boundaries in body prose before it is claimed.
+
+## Volume 9 Batch 0004 — REPAIR (applied on the page; no review log — the batch was drafted in a prior run and deferred)
+
+**Thirteen files touched, thirty-one faults closed, and no beat, day, title, stage, bracket, irreversible decision or
+planned event moved.** The faults, with the file and the fix: **ch 525** — *three words* for the card's pinned four;
+the blank book left by *a man of nine hundred years* against ch 529's not-knowing; *the last four days* for two;
+*five weeks* of gate trips for six · **ch 526** — *a rug* for the blanket · **ch 527** — *the third* for the sixteenth
+of the month beginning 1,514 · **ch 528** — *nine sentences* for six, counted off the page; the keeper misgendered as
+*a woman with a paste pot* · **ch 529** — *ch 474* as a chapter number in prose; *three words* for four; *five weeks*
+of blanket work for eleven days · **ch 530** — a doubled seventh-day return; *eleven words* for a forty-five-word rule;
+*nine words* for two days of speech; *three weeks* to the twenty-second for fifteen days · **ch 531** — *in nine
+volumes* twice, cut as authorial scaffolding; *three said out of the dark* for four; a doubled *and*; four sentences
+claimed made six days early, made prospective; *three weeks* for ten days · **ch 532** — *nine days left* for seven;
+*the six* for all he has said; the 16th/17th/18th scenes re-dated inside the 13th–15th slot; *ninth hundred year* for
+nine hundredth · **ch 533** — *a day and a half* for since the evening; *the first of the seventeen* for the sixteenth;
+*twenty-two words* for a fifty-one-word demand, cut; *four volumes of offices* for four books; nine hundred lines
+claimed read against ch 530's not-reading; the 18th resolve re-dated to the 17th with five days to the twenty-second;
+*the first of the seventeenth* brush-handling for the sixteenth; the eighteenth's bill for the twenty-second's ·
+**ch 534** — the 16th wind-sheet section moved to ch 533 as the 17th with a bridge left behind; *the four stages* for
+three; *a ninth* question for an eighth; *four four sentences*; *four volumes of offices* for four books; the closing
+*twenty-second* for the twentieth · **ch 535** — *three words* for four; *four stages* for three · **ch 536** — *three
+words* for four; *a hundred times after that*, cut as future knowledge; hut lights on the 23rd–24th against ch 538's
+departure day, both dark; *nine hundred yards east* for a hundred · **ch 537** — *six weeks* of gate trips for two
+months; *the third* twice for the sixteenth; *thirteen weeks* for three months; *five days ago* for the eighteenth,
+cut; *five days ago* for the clay, re-dated to the eighteenth of the month that has gone; the hut light *for the first
+time since the eighth*, re-hung as dark the second night; *two days ago* for four · **ch 538** — the wall four hundred
+yards east of a door eleven feet wide, re-hung as a wall east of her, still open.

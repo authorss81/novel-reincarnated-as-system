@@ -20,7 +20,7 @@ The boy of fifteen was on the chain at the sixth hour and he put it down and ask
 
 “All right,” the boy said, and put the chain up for a cart behind her.
 
-She has been through that gate nine times in six weeks and it is the same every time and it will be the same next time.
+She has been through that gate nine times in two months and it is the same every time and it will be the same next time.
 
 That is everything at the end of eleven miles of made road for a man of fifteen and a cup on a wire, and it took nine seconds.
 
@@ -28,7 +28,7 @@ That is everything at the end of eleven miles of made road for a man of fifteen 
 
 She did eleven miles of made road between the sixth hour of the twenty-third and the fourth hour of the twenty-fourth, and she did it on four fingers and a thumb with a bar on her shoulder, and she slept one night in the ditch at the sixth mile with the bag under her head.
 
-She has not eaten since the third of a month that has gone and she is not hungry and that is finished, and she is thinner than she was on the eighth of one that has gone, and she has been thinner every day since.
+She has not eaten since the sixteenth of this month and she is not hungry and that is finished, and she is thinner than she was on the eighth of one that has gone, and she has been thinner every day since.
 
 At the ninth hour on the twenty-third her right arm went open at the eight-mile mark and it stayed open. It shut at the second hour of the twenty-fourth, which is four days in five, and she has not kept a count of it in a month and she did not start one on the road.
 
@@ -52,7 +52,7 @@ She stood in front of the frame for four seconds and then she went on.
 
 The board outside the room with the six day books had thirty-nine lines on it and she read the whole thing down standing up in nine seconds.
 
-There is nothing on it with her name on it and there has been nothing on it with her name on it for thirteen weeks, and she carried a stone up past a painted mark on the twelfth of a month with four men watching.
+There is nothing on it with her name on it and there has been nothing on it with her name on it for three months, and she carried a stone up past a painted mark on the twelfth of a month with four men watching.
 
 ## Two Miles
 
@@ -72,9 +72,9 @@ She walked it at the tenth hour and the eleventh hour of the twenty-fourth and i
 
 The turn is where the lane meets the store road and it is a quarter of a mile from the bench.
 
-She stood at it at the eleventh hour of the twenty-fourth with the bar at the light end and the bag against her ribs and eight days of nothing in her since the third of a month.
+She stood at it at the eleventh hour of the twenty-fourth with the bar at the light end and the bag against her ribs and eight days of nothing in her since the sixteenth of this month.
 
-It is a quarter of a mile of flat on a made road where the clay came up out of a dish five days ago and a thing came out of the place low behind her fourth rib and said one sentence into the ground.
+It is a quarter of a mile of flat on a made road where the clay came up out of a dish on the eighteenth of a month that has gone and a thing came out of the place low behind her fourth rib and said one sentence into the ground.
 
 There is a road going west off it here. It is nine miles to a post with a board on it and a ladder against the side of it and a trough at the foot, and there is a flat stone under the bottom of that ladder with a book on it.
 
@@ -110,7 +110,7 @@ She is nineteen years old and she is past the end of a realm by three stages and
 
 And she has not wept over any of it since the eighteenth of the month beginning 1,544 at the fifth hour on a flat at a turn, sitting with a dish beside her, listening for a second sentence that did not come.
 
-That was five days ago. A person who has not wept over a stage and is not going to weep over a road has made a decision on what she is going to spend the next four months on, and it is not going to be this.
+A person who has not wept over a stage and is not going to weep over a road has made a decision on what she is going to spend the next four months on, and it is not going to be this.
 
 ## Nine Miles In Front Of Her
 
@@ -118,10 +118,10 @@ She stood at the turn for a quarter of an hour and then she went west.
 
 Nine miles of strip road on the twenty-fourth night and the twenty-fifth morning, on a bar, at nine days without bread, with a book of her own inside her coat against the open place low behind her fourth rib.
 
-Behind her, four hundred yards east, there is a table standing in a hole in a wall with nothing on it and a door shut on eleven feet of boards and a window a hundred yards off with no light in it for the first time since the ninth hour of the eighth of a month.
+Behind her, four hundred yards east, there is a table standing in a hole in a wall with nothing on it and a door shut on eleven feet of boards and a window a hundred yards off with no light in it, dark now for the second night.
 
 She did not look at it.
 
-There is a man who left it, and he is not in it, and there are three names in a flat book under a ladder nine miles west that no office has ever sent him a thing to do with, and there are four sentences in a book of her own that a man of nine hundred years heard her read out loud at an opening in a wall two days ago.
+There is a man who left it, and he is not in it, and there are three names in a flat book under a ladder nine miles west that no office has ever sent him a thing to do with, and there are four sentences in a book of her own that a man of nine hundred years heard her read out loud at an opening in a wall four days ago.
 
 Nine miles. She went into the dark for it at the eleventh hour of the twenty-fourth with four fingers and a thumb and nothing else in the world.

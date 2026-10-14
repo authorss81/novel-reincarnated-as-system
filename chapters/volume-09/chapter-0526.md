@@ -102,7 +102,7 @@ She has no way of knowing how long it lasts. She made it three days ago. She is 
 
 She has spent four months being told what a piece of paper is. There is one against her ribs that a man with a brush read aloud to a room with the shutters up, and another that a man of nine hundred years put on a bench at a crossing in a hand nine hundred years old, and a third one in his own book with her name and the date on it that she gave away.
 
-She is not going to leave any of it on something she made herself out of a rug.
+She is not going to leave any of it on something she made herself out of a blanket.
 
 So there has to be a second square sheet, and a third, and enough of them to make a thing out of with more than one leaf in it, and there is one square sheet in the world and she made it and it is on the shelf in a nine-foot room against the west face of a wall.
 

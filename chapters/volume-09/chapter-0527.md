@@ -10,7 +10,7 @@ The boy of fifteen was on the chain at the seventh hour with the cup on its wire
 
 “All right,” the boy said, and put the chain up for a barrow behind her.
 
-She has been past that gate nine times in five weeks and it is the same every time, and there is nothing in it for her, and she has noticed that the reason it works is that he is fifteen and does the same thing to everybody.
+She has been past that gate nine times in six weeks and it is the same every time, and there is nothing in it for her, and she has noticed that the reason it works is that he is fifteen and does the same thing to everybody.
 
 Four hundred yards west of him there was a team on the long road with boards on the cart, going east, and it had been going east since the second hour and had a long way still to go.
 
@@ -68,7 +68,7 @@ The cart did not know it was carrying the strongest person within nine hundred y
 
 ## What The Body Did
 
-She has eaten nothing since the third of a month that has gone, and she is not hungry, and that is finished, and she is thinner than she was on the eighth of one that has gone.
+She has eaten nothing since the sixteenth of a month that has gone, and she is not hungry, and that is finished, and she is thinner than she was on the eighth of one that has gone.
 
 A cart is the only way of covering twenty-two miles she has had in five months, and it took four days off her, and she gave it back on the second night on the boards of the cart with her right arm out of the way of the bag because the arm had been open since the sixth hour of the twenty-eighth and had not shut once in two days.
 

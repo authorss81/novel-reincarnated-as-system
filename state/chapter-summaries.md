@@ -903,4 +903,62 @@ other, longest 30 characters.**
    the man on the wrong side cannot come back across. Recorded so Batch 0004 does not re-open the chapter and find a
    contradiction.
 
-**Next:** `workspace/volume-09-batch-0004/PROMPT.md`, ch 524–538, day 1,562–1,598, the batch that closes Volume 9. *Corrected in place by the Volume 9 Batch 0003 review repair; this file previously ended at the Batch 0002 section's pointer to Batch 0003, which has been executed in full.*
+**Next:** `workspace/volume-09-close/PROMPT.md`, the volume close, which audits ch 479–538 and writes no chapter prose. *Volume 9 Batch 0004 is on the page; the pointer this line carried to `workspace/volume-09-batch-0004/PROMPT.md` has been executed in full.*
+
+## Volume 9 Batch 0004 — *The Warden*, ch 524–538, day 1,562–1,598 — WRITTEN, VOLUME 9 CLOSED ON THE PAGE
+
+**Pressure: surviving being kept.** Fifteen chapters, **28,734 words of body prose on method B
+(every line not beginning `#`)**, average **~1,916**, range 1,643 at ch 534 to 2,149 at ch 533. Inside the volume's own
+band: 27,000–30,000 per batch with a hard floor of 26,000 and a chapter floor of 1,300, and nothing in the batch is under
+1,640 or over 2,150. **Zero blockquotes, code blocks, tables or horizontal rules; zero bracketed layer lines in fifteen
+chapters; zero bold spans and two italic spans, both the word *lost*, at ch 535 and ch 536; zero straight quotes and zero
+straight apostrophes; every speech closed; longest paragraph 89 words and none over 120; fifteen new titles, unique against
+all 523 standing and against each other, longest 30 characters.**
+
+### One line per chapter
+
+| Ch | Days | Title | What changes on the page |
+| --- | --- | --- | --- |
+| 524 | 1,562–1,564 | **Nothing Holds Her Here** | sixteen nights into a room somebody is letting her have and none of it is hers; she sleeps on the boards on purpose, goes out of the opening at the fourth hour and does not knock, and starts eleven days of working out how to be worth the price of one |
+| 525 | 1,565–1,567 | **The Chair She Will Not Sit In** | she stops asking for an answer and names what she wants instead — to be asked for something, once; the blank book on the table she will not take; and the finding that being worth the price of one is turning up with the thing |
+| 526 | 1,568–1,570 | **A Table And A Page** | she takes the blanket off the shelf and makes paper out of it — three hundred and one sheets in three days, counted in nine passes, three square, about nine of nine hundred to come — and the first thing she has built in four months that is not a thing somebody else made first |
+| 527 | 1,571–1,573 | **Nine Coppers A Head** | **Wei Ran's second and last Volume 9 card: nine coppers a head, said out loud four times, the bar in the cart and not in the rate**; twenty-two miles in two days and a half; and the opinion that a rate is the only arrangement in eight years that never tried to keep anybody |
+| 528 | 1,574–1,576 | **The Stone Under The Ladder** | she asks the keeper for a sheet of paper and he says no — he has none to sell and none to give; she gives him nothing, asks him to keep nothing, and walks back twenty-two miles with nothing in her hands; **a thing that is kept is not a thing that is owed** |
+| 529 | 1,577–1,579 | **A Book Of Her Own** | nine square sheets, two folded books, soot ink; she decides the book is a record for whoever comes after and not for her, writes a date and a place on the first leaf and nothing else yet; and on the seventh he carries a plank table out to the opening |
+| 530 | 1,580–1,582 | **He Does Not Ask Her** | **the demand begins**: the rule in full — a name goes in once, as kept or as lost, older than she is — stated without persuading her of anything; she does not cross, does not speak for two days, and works out the one question, which is what the book is for |
+| 531 | 1,583–1,585 | **The Record Is Accurate** | **the batch midpoint and structural mouth five of five, Shuyin's, in five short sentences across beats, never one speech** — not a place to join, not a punishment, a record of the ones the bound took, accurate, the accuracy the whole of it — **and once, the sentence he is wrong about, that a person on his book is better kept than a person off it**; she asks the Hunter whether a person written as lost is safer, he says he does not know, and that her asking is the second question anybody has ever asked him he would rather not answer |
+| 532 | 1,586–1,588 | **Two Places A Name Can Go** | she is entered either way and the only thing she has a say in is the word; the page she gave him on the third is about her and not the line; one sentence about the door, the same answer as the frame scene; and on the fifteenth he leaves the bag with the brush on the table |
+| 533 | 1,589–1,590 | **On The Ordinary Condition** | **the demand at its maximum**: four sentences — three stages past the top, nothing to take her past it, no other room — and the twenty-second at the ninth hour; she could write her own line with his brush and puts it back, because a record kept by the person it is about is not a record; and she decides to go and find something that is not his |
+| 534 | 1,591–1,592 | **In Her Own Hand** | **the survival, first half**: she writes four sentences on the eighteenth at the ninth hour, in soot, with four fingers and a thumb, on paper she made — what the bound takes and what a man does about it — and works out she has to read it back to him, because that is what makes it hers |
+| 535 | 1,593–1,594 | **She Reads It Back To Him** | **the batch's irreversible step**: she reads her own four sentences back to him out loud in the ordinary voice and refuses kept, once — *I am not going to be kept* — and the win and the bill arrive in the same breath, because the rule has two words and the other one is lost |
+| 536 | 1,595 | **One Line And A Date** | he writes one line and the date in his own hand and the word is *lost*, shuts the book, and walks her as far as a man who cannot come back across can come; she goes the last eleven feet alone, shuts the door and waits for the latch; **he is not thanked** |
+| 537 | 1,596–1,597 | **The Road That Does Not Go Back** | she walks twenty-two miles in two days past the gate, the crossing, the lane, the bench she does not stop at and the store she does not enter — every yard of it, going nowhere she has been — and turns west at the turn on the twenty-fourth at the eleventh hour |
+| 538 | 1,598 | **Where Keeping Is What He Does** | she leaves her book on the stone under the ladder beside his and does not ask him to keep it; **he has come west, twenty-two miles in three days, and stands nine miles west of the only room in which what he keeps is kept**; she says his name once in the open with witnesses, and the last line of the volume is his answer |
+
+### What the batch established, for the volume close
+
+- **She is entered. She is not kept.** The rule is written once, at ch 536, as lost with the date, in his hand, and it stays in. Her own book — eight leaves, a date and a place, four sentences, six empties — is on a stone under a ladder nine miles west, where his hand cannot reach it. **The reason for the wall is recorded where he cannot reach it, for the first time in nine hundred years.**
+- **The demand was made at the wall, never in the room**, in daylight, his book on a plank table in the opening, him on his own side throughout. He never stands on her side of the opening on any page.
+- **Shuyin's mouth is spent and only here**: five sentences at ch 531 and the one wrong sentence, once, which he does not know is wrong. He is alive, old, nine miles west on the last page, and not thanked anywhere.
+- **The Hunter's second appearance is spent at ch 531** and his name with it; his request stays pending. **Wei Ran's second card is spent at ch 527**; eight coppers unchased and nine unchased with them. **Ning Wu is not on the page. Yuan is not on the page and his name does not appear.**
+- **No stage, no bracket, nothing in square brackets.** Volume 9's budget of three in sixty stands spent at ch 493, ch 508 and ch 523. The three Severance costs are carried as facts and shown, never re-derived.
+- **Volume 9 runs day 1,341 to day 1,598, two hundred and fifty-eight days, sixty chapters**, 479–538 on the page.
+
+### Deviations and repairs, recorded rather than hidden
+
+1. **The batch was drafted in a prior run and deferred; this phase audited all fifteen chapters against the card and repaired
+   on the page rather than replacing the batch.** Thirty-one faults across thirteen files: three wrong word-counts in demands
+   and rules, two meta-language breaches (*nine volumes*, twice, and *ch 474*), three *three words* miscounts against the
+   card's pinned four, two wrong stage counts (*four* for three), one gender slip (keeper), one sentence-count slip (six for
+   nine), one doubled word, one blanket/rug inconsistency, five wrong durations, eleven day-table spills with ch 532 reaching
+   the 18th and ch 533–534 trading the 16th and 18th scenes, two hut-light contradictions against ch 538's departure day, one
+   wrong distance (*nine hundred yards* for a hundred), one future-knowledge claim, one false title-count, and the wall/door
+   sentence at ch 538. Full list at `state/continuity.md` §*Volume 9 Batch 0004 — REPAIR*.
+2. **Staging readings taken against the outline, per the card's own instruction, at `state/continuity.md`
+   §*Readings taken against the outline*.** The demand at the wall; the room nine by eleven for thirty-seven days; his one
+   mouth; his one wrong sentence; the walk to the door ending at the jamb; and the exchange — he comes west and the wall
+   stays open behind him.
+3. **The nine-days-without-bread count runs from the sixteenth (day 1,589).** The batch card pins both the start condition
+   (nothing since day 1,529) and the walk on a body at nine days without bread; the telling count is nine days from the
+   sixteenth of the current month at each telling, and she eats unshown off the bench loaf between. The three *third of a
+   month* slips were corrected to *sixteenth*.

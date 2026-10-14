@@ -8,7 +8,7 @@ She has said his name twice in forty days.
 
 On the twelfth of a month at the second hour she stood in an opening in the wall and said it into a hundred yards of flat ground and waited nine hours and then said it again, which is the once in eight years she has said a name twice, and there was a light on in a window a hundred yards off and it did not change.
 
-On the sixteenth, at the ninth hour, she said a different sentence out loud at a gate in daylight in front of three people, and three words came back out of the dark from seven hundred yards east nine hours later.
+On the sixteenth, at the ninth hour, she said a different sentence out loud at a gate in daylight in front of three people, and four words came back out of the dark from seven hundred yards east nine hours later.
 
 That is the whole of forty days of it.
 
@@ -50,7 +50,7 @@ Not out of feeling. She has never had anything to feel for a chair and she is no
 
 The reason is that sitting in it is the first thing she would do in a room she was in, and there is no second thing after it. A person sits down, and then the chair is a chair somebody sat in, and the room is a room somebody was in, and there is a difference between a room you are at and a room you are in and it has to start somewhere and that is the only place it can start.
 
-So the chair stands against the wall nine feet from a bed frame with nothing on it, squared, where a man of nine hundred years left it.
+So the chair stands against the wall nine feet from a bed frame with nothing on it, squared, against the wall where it was.
 
 ## What Is On The Table
 
@@ -120,6 +120,6 @@ The twenty-sixth: finding out what a person has to have in order to be asked for
 
 The twenty-seventh to the thirtieth: four days in which she went over the whole of nine days of road in her head, place by place, and found six things she could have gone and done and worked out why she could not go and do any of them.
 
-The first and second of the next month: the last four days of it, in which she came to the end of the list and the list had one thing on it.
+The first and second of the next month: the last two days of it, in which she came to the end of the list and the list had one thing on it.
 
 The one thing on the list was a piece of paper she made with her own two hands.

@@ -2,29 +2,19 @@
 
 She wrote it on the eighteenth of a month in a nine-foot room against the west face of a wall, at the ninth hour, standing up at a table, with a splinter of a bed frame and a cake of soot off the chimney breast, and it took her two hours and eleven minutes.
 
-## Eight Of Nine
+## The Second Book
 
-She had nine square sheets at the sixth of a month.
-
-Two of them were folded into books. Seven of them were flat on the shelf.
-
-On the sixteenth, at the ninth hour, she had put one of the seven flat out on the table in the opening and stood a cup on it, because the book he opens on that table has no board under it and a page that lifts in wind cannot be written on, and she worked that out on the fourth hour of the ninth and nobody had ever told her to do it and nobody ever will.
-
-The wind took it at the seventh hour and it went over the low side of the opening and lay on the dirt a yard from her foot.
-
-She picked it up. It had a corner gone. She looked at it and she could not decide what to do with it and after nine minutes she put it on the floor of the room and sat on the boards with her back against the wall and did not think of it for a day.
-
-So: eight square sheets in nine hundred and six, two of them books, one of them on the floor of a nine-foot room with a corner gone, and she is writing on the second book with two days to go.
+Eight square sheets. One of them with a corner gone, on the floor of the room. Two of them books, and the second book is the one she writes in.
 
 ## What She Cut Out
 
 She went over it for two days before she wrote a line and she wrote down what she cut, because a person making a record has to know what they have left out or it is not a record, it is a case.
 
-Out: everything about her. Her arm, her hand, the hole behind her fourth rib, the road, the four stages, the price of a wall in a figure of one on a bench at a crossing. All of it. Every one of those is true and not one of them is what she is making the record of.
+Out: everything about her. Her arm, her hand, the hole behind her fourth rib, the road, the three stages, the price of a wall in a figure of one on a bench at a crossing. All of it. Every one of those is true and not one of them is what she is making the record of.
 
 Out: every complaint. She went over eight years in her head and there were four hundred of them and they are all true and she is not going to put one of them into four sentences.
 
-Out: every question. He is not going to answer one. She asked him seven in three days and he answered none of them and she is not going to ask a ninth.
+Out: every question. He is not going to answer one. She asked him seven in three days and he answered none of them and she is not going to ask an eighth.
 
 What was left was four sentences, and she had them by the evening of the sixteenth and did not write them down until the eighteenth, because she wanted to be sure that the four were the whole of it and not the four that suited her.
 
@@ -78,7 +68,7 @@ His is a record of a thing that was done to people.
 
 Hers is a record of the fact that it was done, on the day it was being done, by somebody who was there.
 
-That is all of it. Not better. Not truer. He has nine hundred years of the same four four sentences worth of material and he has it in a better hand and on better paper and he is at the end of it, and she has got one leaf and eight panels and four sentences and she wrote them on the second day after a man told her the day and the hour, on four fingers and a thumb, in nine feet by eleven.
+That is all of it. Not better. Not truer. He has nine hundred years of the same four sentences’ worth of material and he has it in a better hand and on better paper and he is at the end of it, and she has got one leaf and eight panels and four sentences and she wrote them on the second day after a man told her the day and the hour, on four fingers and a thumb, in nine feet by eleven.
 
 And he would have to write nine hundred years to get one sentence further than she has.
 
@@ -104,7 +94,7 @@ Then she stood there with the book in her hand and worked out, in nine seconds, 
 
 She has been treating a record as something a person makes.
 
-The one she made at the sixth of a month and the one she made in the fifth of a year she could name and the four of them in four volumes of offices are all records, and every single one of them was made by somebody else and read to her or read over her or written down without her being there.
+The one she made at the sixth of a month and the one she made in the fifth of a year she could name and the four of them in four books of offices are all records, and every single one of them was made by somebody else and read to her or read over her or written down without her being there.
 
 There is one thing that has ever made this hers and she has never once done it.
 
@@ -114,4 +104,4 @@ That is not a request. It is the mechanism, and it is the only mechanism, and it
 
 She is going to do it at an opening in a wall, in daylight, with a book on a table and a man on the other side of a jamb, and she is going to read four sentences out loud that she wrote with her own hand on paper she made out of a blanket, and then she is going to say the word.
 
-Two days. The ninth hour on the twenty-second.
+Two days. The ninth hour on the twentieth.

@@ -1883,3 +1883,48 @@ of the volume here: nine coppers a head, said out loud, a trade and a team and a
 
 **It added no thread the chapters do not carry, it opened no question the volume has already answered, and it moved none
 of the Volume 8 close's threads.**
+
+## Volume 9 Batch 0004 (ch 524–538) — what this batch added, live at the volume close
+
+**Ch 524–538 are on the page and Volume 9 is closed on the page.** The threads below are the ones the fifteen chapters
+added, and they are all live at ch 538.
+
+### Added by this batch
+
+1. **The rule, written once, at ch 536: *lost*, with the date, in his hand, and it stays in.** A name goes in when a
+   person gets to the top of a realm with nothing to take them past it, once, as kept or as lost. **She is entered.
+   She is not kept.**
+2. **Her own book, on the stone under the keeper's ladder nine miles west, at ch 538.** Eight leaves, a date and a
+   place, four sentences in her own hand on paper she made, six empties. Unasked, unkept-for, beside his book with an
+   inch of stone between. **The reason for the wall is recorded where he cannot reach it, for the first time in nine
+   hundred years.**
+3. **Shuyin's mouth spent, at ch 531, the fifth and last structural mouth.** Five sentences and the one wrong one,
+   once. He is alive, old, nine miles west on the last page, nine miles west of the only room in which what he keeps is
+   kept, the wall still open behind him — **and he is not thanked.**
+4. **The Hunter's second appearance spent, at ch 531**, and his name with it. His request stays pending to the last page.
+5. **Wei Ran's second card spent, at ch 527.** Nine coppers a head, the bar in the cart and not in the rate, and the
+   opinion. Eight coppers unchased and nine unchased with them.
+6. **The thirty-seven days, filled.** Paper made, a demand heard in full at the wall, a refusal read back out loud, a
+   road walked west one last time going nowhere she has been. **No place left that is hers, and the volume's pressure is
+   paid off, not carried.**
+7. **The merit does not settle anywhere in this batch. No Hand is spent. Door is not opened.** No figure of what is left
+   of him on any page, before or after. **Yuan is not on the page and his name does not appear.**
+
+### Carried from Batch 0003 to the volume close, live and untouched by this batch
+
+The copy at ch 502, which cannot be un-copied · her ch 474 page in his book, which cannot be un-copied · Severance 1, 2
+and 3 with their costs named once each · the paper against her ribs, opened and read and never named and not the door ·
+the misreading ended on the ground's own terms · the chair, still in the room, still not sat in · the opening, still
+open, still uncharged for her · the ten parts not claimed · the year of non-forgiveness still not mentioned once.
+
+### What the volume close inherits, in one paragraph
+
+**Volume 9 runs ch 479–538, day 1,341 to day 1,598, two hundred and fifty-eight days, sixty chapters, and it closes with
+the answer and not with a consolation.** She must survive Shuyin, and she does: entered as lost, refused as kept, her
+own book west where his hand cannot take it out, the walls staying and the reason for them recorded. **Volume 10 opens
+on what is on the book and on what her own book says.** The audit is `workspace/volume-09-close/PROMPT.md`.
+
+### What this file did not do
+
+**It added no thread the chapters do not carry, it opened no question the volume has already answered, and it moved none
+of the Volume 8 close's threads.**

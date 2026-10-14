@@ -4,11 +4,11 @@ He said the rest of it out loud on the sixteenth of a month at the ninth hour, i
 
 ## The Bag Came Back Open
 
-The brush was on the table for a day and a half and he did not come out with the book.
+The brush had been on the table since the evening before and he did not come out with the book.
 
 It lies on the pages of a thin book the shape of a pouch with a brass ferrule and a handle as long as her hand, and it is nine hundred years old in the way that everything in that room is, and it has a knot of old grey in the bristles where somebody stopped pressing them together once and never cleaned it.
 
-On the first of the seventeen she picked it up.
+On the first of the sixteenth she picked it up.
 
 She stood in the opening with it in her right hand, four fingers and a thumb, at the fourth hour, and it weighed almost nothing, and she looked at it for a length of time she did not count.
 
@@ -32,7 +32,7 @@ That is the third one.
 
 “There is no other room for you to be written in,” he said.
 
-That is the fourth one, and it is the entire demand, and it is twenty-two words long.
+That is the fourth one, and it is the entire demand.
 
 He shut the book and picked it up and went back through the opening, and he shut nothing behind him because there is nothing on that side to shut, and the brush was left on the table with the bag.
 
@@ -50,7 +50,7 @@ And there is no other room for her to be written in.
 
 That is the sentence she went round and round for three days and it is the one she cannot get at, and it is the reason the whole of this is happening.
 
-There is nowhere else for her to be written. Not on nine days of road, not in four volumes of offices that entered her four times and used her afterwards every one of the time, not in a book of her own, which is not a room anybody is in.
+There is nowhere else for her to be written. Not on nine days of road, not in four books of offices that entered her four times and used her afterwards every one of the time, not in a book of her own, which is not a room anybody is in.
 
 He is right. He has been right about all of it since the seventh and there is not one word she can stand in front of and argue with, and there is nothing in the room to lift and nothing on the ground to lift and nothing anywhere on this flat within nine hundred yards that anybody would call an attack.
 
@@ -60,7 +60,7 @@ He did not say what either word does.
 
 She had asked him for that on the seventeenth and he had told her the rule has two words in it, and that is still all there is, and he did not soften it today when it would have cost him one sentence.
 
-He did not say he was sorry. He did not say she was a good woman to him. He did not say it was a formality. He did not say that things had changed since the last one, or that the last one had been a mistake, or that this one was different, and she has read nine hundred lines of entries in a book on two feet of plank table in two days of looking and not reading them, and there was nothing else in it to find.
+He did not say he was sorry. He did not say she was a good woman to him. He did not say it was a formality. He did not say that things had changed since the last one, or that the last one had been a mistake, or that this one was different, and she has stood two days looking at a book on two feet of plank table and has not read one line of it, and there was nothing else in it to find.
 
 He did not tell her to go.
 
@@ -98,7 +98,7 @@ Eight years. Every difficult thing she has ever been in, she was in it because a
 
 And the entire demand on the twenty-second is four feet of opening and a brush as long as her hand and a man waiting.
 
-There is nothing in the world she can do about it and she has never before found that to be frightening, and it is not frightening, and she wants that on the page too, because the bill that arrives on the eighteenth of a month is going to be about what she did not do and not about what was done to her.
+There is nothing in the world she can do about it and she has never before found that to be frightening, and it is not frightening, and she wants that on the page too, because the bill that arrives on the twenty-second of a month is going to be about what she did not do and not about what was done to her.
 
 ## The Brush Is On The Table
 
@@ -110,23 +110,37 @@ Her hand cannot write a false line. The entry would be true. The two words are t
 
 Nobody would ever know it was not his.
 
-She stood in the opening and thought about it for a quarter of an hour, and it is the single most powerful thing that has ever been on offer to her, and she had it in her hand on the first of the seventeenth and put it back in the same line.
+She stood in the opening and thought about it for a quarter of an hour, and it is the single most powerful thing that has ever been on offer to her, and she had it in her hand on the first of the sixteenth and put it back in the same line.
 
 ## Why She Put It Back
 
 Because a record kept by the person it is about is not a record.
 
-She said that out loud once, standing at the opening at the fourth hour of the eighteenth, and it is four sentences and it is the fourth sentence in a book of her own and she wrote it there nine days ago without knowing she was going to need it.
+She said that out loud once, standing at the opening at the fourth hour of the seventeenth, and it is one sentence and it is going to be the fourth sentence in a book of her own and she has not written it yet.
 
 If she writes her own line, then there is a book with her name in it and she put it there, and everything else in that book for nine hundred years was put there by a man who had to do it to somebody. Hers would be the only line anybody chose.
 
 And there is nothing in that at all to show that anything was taken. There is nothing in that to show that nine hundred years of a man were right about needing to write it. There is nothing in that for a person who comes after her and finds a stone under a ladder.
 
+## The Sheet The Wind Took
+
+She had nine square sheets at the sixth of a month.
+
+Two of them were folded into books. Seven of them were flat on the shelf.
+
+On the seventeenth, at the seventh hour, she had put one of the seven flat out on the table in the opening and stood a cup on it, because the book he opens on that table has no board under it and a page that lifts in wind cannot be written on, and she worked that out on the fourth hour of the ninth and nobody had ever told her to do it and nobody ever will.
+
+The wind took it at the eighth hour and it went over the low side of the opening and lay on the dirt a yard from her foot.
+
+She picked it up. It had a corner gone. She looked at it and she could not decide what to do with it and after nine minutes she put it on the floor of the room and sat on the boards with her back against the wall and did not think of it for the rest of the day.
+
+So: eight square sheets in nine hundred and six, two of them books, one of them on the floor of a nine-foot room with a corner gone, and the second book is the one she is going to write in, with three days to go.
+
 ## What She Is Going To Do
 
 She is going to go and find something that is not his.
 
-That is what she decided on the eighteenth, at the second hour, with a bar on her shoulder and four fingers and a thumb and eight days between her and the twenty-second.
+That is what she decided on the seventeenth, at the eleventh hour, with a bar on her shoulder and four fingers and a thumb and five days between her and the twenty-second.
 
 She has a book of her own inside her coat with a date and a place on the first leaf and nothing under it, and she made it out of a blanket in nine days, and it is eight leaves and it is the size of a closed hand.
 
@@ -134,4 +148,4 @@ It has four sentences on it that are not written yet, and they are about a man a
 
 And the half she is not going to have is the word. She has known which word since about the eleventh of a month and she has not said it and she is not going to say it in a room, and she is going to say it at an opening in a wall with the book open and him on the other side of it.
 
-She has three days.
+She has five days.

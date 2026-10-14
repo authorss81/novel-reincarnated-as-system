@@ -18,7 +18,7 @@ That is the first one and it is four words long and it is not the answer.
 
 There was a man nine feet off her left side with a notebook shut under his arm and his weight on one leg and his face doing nothing at all.
 
-She had not seen him come and she did not start. He has never once come nearer than nine feet in nine volumes and he was not going to start, and he had been on the wrong side of a bar on two posts since the seventh month of a year she could name, which is the second time in his life he has been somewhere she had not already been.
+She had not seen him come and she did not start. He has never once come nearer than nine feet and he was not going to start, and he had been on the wrong side of a bar on two posts since the seventh month of a year she could name, which is the second time in his life he has been somewhere she had not already been.
 
 He said nothing. He does not begin. She has to ask him and she asked him at the second hour of the tenth, in the ordinary voice, without turning round, because turning round would have been an answer to something he had not said.
 
@@ -42,7 +42,7 @@ Then he said the other thing, in the ordinary voice, and it is the second thing 
 
 He did not say what the first one was and she did not ask him.
 
-He did not ask her for anything. He has not asked her for anything in nine volumes and he did not ask her for anything at an opening in a wall with a book open on a table behind her, and whatever it is he has come this far for is still where it was in the ninth month of a year she could name, and it is still pending, and nothing that happened on that flat moved it an inch.
+He did not ask her for anything. He has never asked her for anything, not once, and he did not ask her for anything at an opening in a wall with a book open on a table behind her, and whatever it is he has come this far for is still where it was in the ninth month of a year she could name, and it is still pending, and nothing that happened on that flat moved it an inch.
 
 ## Back To The Man In The Wall
 
@@ -62,7 +62,7 @@ That is the third one and he said it in the ordinary voice, and he did not say a
 
 “The record is accurate,” he said.
 
-That is the fourth one and it is five words and it is the plainest sentence anybody has said to her in eight years, including three said out of the dark on the sixteenth of a month at a hundred yards.
+That is the fourth one and it is five words and it is the plainest sentence anybody has said to her in eight years, including four said out of the dark on the sixteenth of a month at a hundred yards.
 
 “The accuracy is the whole of it,” he said.
 
@@ -86,7 +86,7 @@ She wanted to be angry for eleven minutes at the ninth hour of the tenth, standi
 
 He is right about the bound taking people. He is right that there is a ceiling and it is real. He is right that an unrecorded taking is worse than a recorded one, and she believes that, and she has believed it since a room with the shutters up in the second year of the realm.
 
-And he is right about one more thing that she has never once been able to say out loud to him, which is that a person no one has heard of is easier to kill. She has thought that at the ninth hour of nine hundred nights. He has thought it for nine hundred years and and written it down nine hundred years of times.
+And he is right about one more thing that she has never once been able to say out loud to him, which is that a person no one has heard of is easier to kill. She has thought that at the ninth hour of nine hundred nights. He has thought it for nine hundred years and written it down nine hundred years of times.
 
 He is wrong about one sentence and he is wrong about it because he has nine hundred years of evidence and she has four minutes of standing on flat ground.
 
@@ -132,7 +132,7 @@ She could put it in a book of her own. Four sentences in a hand that cannot writ
 
 That is a good argument and it is the best one she has got and it is eleven words long.
 
-She is not going to make it, and the reason is that it would be the ninth thing written about her that does not say what happened, and she made four sentences in a book of her own six days ago for the exact purpose of being the one that does say what happened, and she is not going to muddy it.
+She is not going to make it, and the reason is that the four sentences are not written yet, and she has one line in a book of her own for the exact purpose of being the one that does say what happened, and she is not going to muddy it before it is written.
 
 He is wrong about one sentence out of nine hundred years. She is not going to be the person who tells him why and gets the four sentences wrong instead.
 
@@ -146,4 +146,4 @@ She worked that out on the twelfth at the sixth hour, standing in the opening, a
 
 It is a day and an hour and a man with a brush.
 
-She has three weeks of it and she does not know what she is going to do with any of them.
+She has ten days of it and she does not know what she is going to do with any of them.

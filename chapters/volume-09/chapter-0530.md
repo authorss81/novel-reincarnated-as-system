@@ -26,7 +26,7 @@ Then he stood there with the book open on a table in a hole in a wall and waited
 
 ## Two Days Of It
 
-He came back at the ninth hour on the seventh and the eighth and stood on his side and did not repeat it.
+He came back at the ninth hour on the eighth and stood on his side and did not repeat it.
 
 That is the correct thing to do with a thing you have already said once to a person who has heard it. She worked that out on the seventh afternoon and it is the first thing she has ever agreed with him about that she did not have to agree with him about.
 
@@ -106,7 +106,7 @@ He came at the ninth and he went at the eleventh with the book shut under his ar
 
 Seven hours. Two of them with the book open.
 
-That is everything available and she has not worked out yet what it is available for, and she has three weeks of it.
+That is everything available and she has not worked out yet what it is available for, and she has fifteen days of it.
 
 ## What She Is Not Going To Do
 
@@ -116,7 +116,7 @@ She worked it out at the fourth hour of the ninth, in the opening, with her left
 
 The question is what the book is for.
 
-Not what the rule is. She has had the rule since the seventh and it is eleven words and she can say all eleven of them back to him at any hour of the day and has done it in her head forty times in two days.
+Not what the rule is. She has had the rule since the seventh and she can say all of it back to him at any hour of the day and has done it in her head forty times in two days.
 
 What the book is for. Where the names go. What a person on it is. Nine hundred years of writing down every person the bound has swallowed, and he writes it, and she has never once been told what anybody is supposed to do with nine hundred years of it.
 
@@ -124,6 +124,6 @@ He will not tell her why. She has known that since the second month of a year sh
 
 He might tell her what it is for.
 
-He is the only mouth in nine hundred years and he has said nine words in two days and she has got one question and she is going to ask it on the tenth, in daylight, out loud, in the ordinary voice, standing on her own side of the opening.
+He is the only mouth in nine hundred years and he has said one thing in two days and she has got one question and she is going to ask it on the tenth, in daylight, out loud, in the ordinary voice, standing on her own side of the opening.
 
 She is not going to go through the opening. She has gone through it eleven times in three days and she is not going to go through it with a table and an open book on it, because a person who sits down at that table has gone into the room, and she has not gone into that room and she is not going to.

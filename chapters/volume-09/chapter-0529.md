@@ -42,7 +42,7 @@ There is a book on nine days of road with her name in it, in a hand nine hundred
 
 Every copy of it in the world was made by him or by somebody he sent for, and he does not send for anybody. It is the only account of her that exists in nine hundred years and there is not one line of it she is able to take out.
 
-She cannot un-copy the page she handed over at a crossing in the fifth month. She cannot get her ch 474 refusal out of his book and she has stopped trying to think about it.
+She cannot un-copy the page she handed over at a crossing in the fifth month. She cannot get her refusal out of his book and she has stopped trying to think about it.
 
 This is the first writing about her life that is not in his book.
 
@@ -62,7 +62,7 @@ And one of the eight is on a bench at a crossing.
 
 That page has a figure on it and a date and a place, and it is in a hand nine hundred years old, and it said one, and it did not say whose, and it was true when it was written and it was the truest thing anybody has ever said about her life.
 
-It is also the only one of the eight that is not complete, and she knows now exactly what the missing part of it was, because a man said three words out of the dark on the sixteenth and it was him.
+It is also the only one of the eight that is not complete, and she knows now exactly what the missing part of it was, because a man said four words out of the dark on the sixteenth and it was him.
 
 ## The First Line
 
@@ -84,7 +84,7 @@ She has not touched it in twenty-six days. She opened it once and shut it and pu
 
 It is right there. It is eleven feet from her and it is the exact size of the thing she needed and it would have had everything in it that her own has and four hundred times the making.
 
-The difference between the two books is nine hundred sheets of blanket and three days with the flat end of a bar, and that is the whole of the difference and it has taken her five weeks and twenty-two miles and a refusal at a post to arrive at it.
+The difference between the two books is nine hundred sheets of blanket and three days with the flat end of a bar, and that is the whole of the difference and it has taken her eleven days and twenty-two miles and a refusal at a post to arrive at it.
 
 She does not know who left the other one there. It has been on that table in the middle of the dust for longer than she has been in the room and she is not going to ask, because he has not asked her anything about himself in eight years and she is not going to start at twenty-seven.
 

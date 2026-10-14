@@ -44,7 +44,7 @@ He looked at the rail for a while.
 
 “I am not asking you about that and I am not putting anything on the stone,” he said, and he turned back to the board.
 
-That is all he said to her on the first of a month: nine sentences and not one of them a reason.
+That is all he said to her on the first of a month: six sentences and not one of them a reason.
 
 ## The Shelf On The Wall
 
@@ -114,7 +114,7 @@ That is not a fact of the world and it is not a fact of her either. It is the se
 
 ## Leaving
 
-She filled the skin at the trough at the seventh hour on the second of a month and she did not say thank you, because she does not say thank you to a man she cannot give anything to and does not intend to, and a woman with a paste pot is not owed one.
+She filled the skin at the trough at the seventh hour on the second of a month and she did not say thank you, because she does not say thank you to a man she cannot give anything to and does not intend to, and a man with a paste pot is not owed one.
 
 She put the bag on her back and the bar on her shoulder and went east at the fourth hour of the third.
 

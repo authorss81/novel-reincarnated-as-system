@@ -60,7 +60,7 @@ Nothing that he has not paid before.
 
 That is the finding and she got it on the evening of the twenty-second standing at the rail outside, and she checked it, and it held.
 
-He does not prefer. He said so on the fifteenth and he was not lying then and he was not lying today. He took the one she gave him. It cost him a line and forty seconds and it cost him nothing else at all, and the whole of what he did to her across nine days cost him a table, a bag, nine days of carrying a book across a hundred yards of flat, and three words out of the dark on the sixteenth of another month.
+He does not prefer. He said so on the fifteenth and he was not lying then and he was not lying today. He took the one she gave him. It cost him a line and forty seconds and it cost him nothing else at all, and the whole of what he did to her across nine days cost him a table, a bag, nine days of carrying a book across a hundred yards of flat, and four words out of the dark on the sixteenth of another month.
 
 She had gone at it from every side for two days on the nineteenth and the twenty-second, looking for the bill, and the bill was on her side of the opening and not on his, and that is not a way of writing that a man has won.
 
@@ -98,7 +98,7 @@ That is the whole of it. He came with her as far as a man can come who opened a 
 
 She went the last eleven feet on her own.
 
-She has been through that opening eleven times in three days and a hundred times after that, at no cost, with no bar on it. She has never once been stopped by it, and she has never once stopped herself at it.
+She has been through that opening eleven times in three days, at no cost, with no bar on it. She has never once been stopped by it, and she has never once stopped herself at it.
 
 She stopped at it four feet from the jamb on the twenty-second of a month at the ninth hour in daylight and she had to stop, and a man who was walking beside her four seconds earlier was not able to take the last eleven feet with her.
 
@@ -120,9 +120,9 @@ Nothing came to the opening on the twenty-third or the twenty-fourth.
 
 The table stood in it with nothing on it from the fourth hour to the eleventh hour and then past the eleventh hour and then past the dark. She went out four times a day for two days and the four feet of plank table was there and the dirt on both sides was flat where his boots had been for nine days.
 
-On the twenty-third at the ninth hour there was a light in the window of the hut a hundred yards east.
+On the twenty-third at the ninth hour there was no light in the window of the hut a hundred yards east.
 
-On the twenty-fourth at the fourth hour there was not.
+On the twenty-fourth at the fourth hour there was not either.
 
 ## What She Is Left Holding
 
@@ -136,6 +136,6 @@ It went inside her coat, flat, against the open place low behind her fourth rib,
 
 And there is nine days of road between her and a post on a strip road with a flat stone under a ladder on it, and a man with a paste pot has kept three names there for nineteen years without being asked, and she has three days to walk it.
 
-She does not know what *lost* does. Nobody on nine days of road knows what either word does and the only person who has ever known is nine hundred yards east with a brush in a bag and a table in a hole in a wall.
+She does not know what *lost* does. Nobody on nine days of road knows what either word does and the only person who has ever known is a hundred yards east with a brush in a bag and a table in a hole in a wall.
 
 She is going to find out by walking.
