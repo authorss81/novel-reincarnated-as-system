@@ -1080,3 +1080,106 @@ read, the finding in person with nothing settled, the voice left unread. Sixth f
 want-only until Batch 0004. *Twenty-two days* stays OPEN. F1 and F2 carried into the new outline's allowances.
 **The one next phase is `workspace/volume-10-batch-0001/PROMPT.md` — ch 539–554, days 1,599–1,628, the asking at
 ch 553–554.**
+
+---
+
+## Volume 10 Batch 0001 — *The List*, ch 539–554, day 1,599–1,628 — WRITTEN
+
+**Pressure: asking what else is on it. Batch midpoint ch 546, the asking at ch 553–554. 29,678 words of body prose
+on method B over sixteen chapters, average ~1,855.**
+
+### One line per chapter
+
+- **ch 539, day 1,599, the twenty-sixth of the month beginning 1,574 —** she stands the rest of the ninth hour with
+  `I am here` and her name in her ears and says nothing back, finds that a thank you is the end of a thing she has
+  not started, and works out that there is no no in this hour for her to refuse.
+- **ch 540, the twenty-seventh —** the count, in order: nothing coming, everything carried; and the finding that
+  she has been telling nine days without bread for three days when it is ten and then eleven.
+- **ch 541, the twenty-eighth —** he goes east at the fifth hour with the bag; she lets him; the wall stays open
+  behind him and the room is gone; the post is hers to stand at and she does not look up the road once all day.
+- **ch 542, the thirtieth and the first of a month —** the night with no place in it: the unlatched door four feet
+  off, the arm open, the bar across her chest going for eleven and not four, and the ground keeps nothing for her
+  because she asked it for nothing.
+- **ch 543, the second and third of the month beginning 1,604 —** nine miles west on a cart, eleven sacks off it
+  and forty up onto a sill, nine coppers a head said out loud three times, two coppers a loaf taken against work,
+  and the fourteen-day count ended by her own hands in front of strangers.
+- **ch 544, the fourth —** the carter of thirty-five at the trough, **seven sentences**, retrospective: a thing put
+  down in the open in front of people is put down where it will be found, and finding is not keeping.
+- **ch 545, the sixth to the eighth —** three days of stone measured by weight and length; something comes out of
+  the small open place low behind her fourth rib at the ninth hour of the eighth, out of her foundation, and the work
+  does not measure her.
+- **ch 546, the ninth — BATCH MIDPOINT —** she rehearses asking on a boy of eleven and a foreman, finds the morning
+  she decided not to ask and cannot locate it, gets angry at four hundred refusals of her own choosing, and says
+  four words to a trough at the ninth hour. **She has decided. She has not asked.**
+- **ch 547, the tenth to the twelfth —** eleven miles east and a turn round, the ground going grey and used-and-
+  stopped, a cart in the dark and twelve counts and a knee-deep hole in broken ground, and the day she did not go
+  back.
+- **ch 548, the thirteenth —** the wall in daylight from her own side, nine words about a cup on a wire, and the
+  place learned: the wall, her side, daylight, **and a person — and there was nobody.**
+- **ch 549, the fourteenth and fifteenth —** twenty-two miles west carrying a question about a window a hundred yards
+  off that she has decided not to spend the asking on, and cannot put down.
+- **ch 550, the sixteenth to the eighteenth —** three nights on four letters; the anger that is not allowed to be
+  kept; *lost* is not about her brother because he is a line with no mark; twenty-two days will not take the word
+  either. **One subtraction and no answer.**
+- **ch 551, the nineteenth to the twenty-first —** the keeper looks at her for eleven seconds and does not write her
+  down; she wanted it; **being seen is not being written**; and a man with a rag keeps three names and does no
+  favours at a post.
+- **ch 552, the twenty-second and twenty-third —** the bill counted in full: three days of road, six loaves, one arm,
+  one keeper, one boy who cannot come, one boy of fifteen on a chain, one name she will not say, one blank called
+  twenty-two days. **The count does not stop her, because a count is not a veto.** She goes east at the fourth hour.
+- **ch 553, the twenty-fourth — IRREVERSIBLE STEP —** she asks a boy of fifteen to walk two miles with her, walks
+  the last two with him four feet off, and says **what else is on it** out loud, in daylight, once. He does not look
+  up. The boy says *he does not look at you.* He takes his hands off the table.
+- **ch 554, the twenty-fifth —** the terms, three times: **one at a time, at the wall, in daylight.** A question she
+  asks goes in the book. She will not get a second until the first is answered. *It cannot be un-asked.* **No.**
+  Sixty-six miles or a hundred and ninety-eight, and no arrangement for finding out which.
+
+### What the batch established, for whoever drafts Batch 0002
+
+1. **The asking is asked.** Ch 553–554, out loud, in daylight, with a boy of fifteen in the hearing. It cannot be
+   un-asked and it is in the book, and from ch 554 **the list is closing.**
+2. **The terms, and they do not move for the rest of the volume:** one question at a time; at the wall; in daylight.
+   **A question standing open takes what he has; she gets no second until the first is answered; asking twice puts
+   both in and neither is answered.**
+3. **No answer has been given.** Not the word *lost*, not the brother's line, not what is on it.
+4. **She has eaten by trade and nobody kept her for it**, she is on a road gang at a loaf a day and a half at the
+   store woman's rate, and the fourteen-day count ended by her own hands at ch 543.
+5. **She has learned the place asking is done** — the wall, her own side, daylight, a person hearing it — and that
+   the only person available is a boy of fifteen on a chain two miles short of the wall, who will walk out and
+   come back.
+6. **She is not thanked and he is not thanked** anywhere; **he is alive, old, correct, and on his own side**.
+7. **She is still at Severance 3, lighter than she was on the eighth of a month, with the open place behind her
+   fourth rib drained once on ch 545.**
+8. **The book of eight leaves is still on the flat stone under the ladder**, with the keeper's book an inch away,
+   and has not moved since the ninth hour of the twenty-fifth of the month beginning 1,574. **She does not look at
+   it at ch 549 and does not pick it up anywhere in the batch. She takes it off at ch 563.**
+9. **The hut light is still unlearned.** She saw it in daylight at ch 548 for the first time in her life, it did
+   not change while she watched, she has carried it for two days, and she has decided not to spend the first
+   asking on it.
+10. ***Twenty-two days* is still OPEN.** Ch 550 puts the word *lost* on it and it comes apart at once, and ch 552
+    prices it as a blank she has written her own name against. **It is still unplaced and no dated interval has
+    been equated with it.**
+
+### Deviations and repairs, recorded rather than hidden
+
+- **Seven chapters (539–545) were already on the page when this run took the batch.** They were read in full, kept
+  as prose, and repaired where they were defective. **No beat, day, title, stage, bracket, irreversible decision or
+  planned event moved.**
+- **The repair, in one paragraph.** **Twenty-one straight apostrophes across eight files became curly** — the whole
+  of ch 539–545 had been written with ASCII apostrophes and Volume 9 measures **0** · **four authorial-scaffolding
+  lines were cut**: *nine volumes back* at ch 540 and twice at ch 545 for *since she was eleven years old*, and
+  *for the rest of the book* at ch 541 for *for good, and nothing in this world shuts a wall back up once it has been
+  opened from the inside* · **the retired phrases were cleared** — *nobody asked her first* at ch 540 and *there is
+  no column on any board* at ch 545 — and *about four seconds* was cut from ch 546, ch 550, ch 551 and ch 553 ·
+  **five paragraphs over the 90-word guide were split** (ch 539 at 111, ch 541 at 98 and 92, ch 543 at 93, ch 550 at
+  108) and **all sixteen files were given a trailing newline**, which Volume 9's close repair had to do for
+  fifty-eight.
+- **`about` came down from 172 to 126** across the batch, average 7.9 a chapter against the 7.0 line, in a pass that
+  cut the approximating uses and left the ordinary English sense. **The true figure is published here rather than a
+  target.**
+- **Ch 544's mouth is seven sentences**, inside Volume 10's three-to-seven range, and it is retrospective: nine days
+  after ch 538 and with the book still on the stone.
+- **A calendar and distance correction was made across ch 547, 549, 553 and 554** — the turn, the eleven miles, the
+  made road and the walk home were made to agree with the chapter each belongs to, and **the boy of fifteen is at
+  the wall for ch 553 only**; ch 554's terms are named with nobody there but the two of them, because she is at the
+  wall overnight on the night of the twenty-fourth.

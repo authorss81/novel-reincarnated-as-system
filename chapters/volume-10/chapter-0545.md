@@ -6,9 +6,9 @@ She carried stone for three days on the strip road west of the post for the rate
 
 There are nine men on a road gang and a keeper with a paste pot who does not have anything to do with them, and the gang is on the strip road at the mile west of the post because forty yards of it went out under a cart in the thaw.
 
-The rate is a loaf at two coppers and it is the store woman's rate and the keeper said so out loud on the first morning in front of all nine of them, and there is a line of it on no paper anywhere.
+The rate is a loaf at two coppers and it is the store woman’s rate and the keeper said so out loud on the first morning in front of all nine of them, and there is a line of it on no paper anywhere.
 
-That is nine coppers a head a day and a half and it comes out of what the gang earns and not out of anybody's pocket, and she was the tenth pair of hands and she was paid the same as the nine and nobody said one word about her having come on with nothing.
+That is nine coppers a head a day and a half and it comes out of what the gang earns and not out of anybody’s pocket, and she was the tenth pair of hands and she was paid the same as the nine and nobody said one word about her having come on with nothing.
 
 A bar is not a tool on a road gang. She used it anyway for the short end of a kerb and a lever for a stone, and after the first morning the men stopped watching her do it.
 
@@ -22,7 +22,7 @@ By length: what the gang is judged on at dusk is the length of road standing who
 
 Nobody is measured. That is the whole arrangement and it is an old one. A man can be slow and still be fed, and a man can be quick and it does not put a farthing on him, and there is no board at that post with a column of men on it and there never has been.
 
-She worked it out on the first morning and she worked it out wrong for about two hours.
+She worked it out on the first morning and she worked it out wrong for two hours.
 
 ## The Second And The Third Day
 
@@ -68,11 +68,11 @@ And then it was over, and she was on her knees in the stone dust with her left h
 
 She did not move for about two minutes.
 
-It had not taken anything she could put a name on. She checked her hands, her arm, her back, her breath, and she did the count she has done since the eighth of a month nine volumes back, and everything she had on the strip road that morning she had at the end of it, including the four fingers and a thumb and the missing finger and the arm that has been shut since the seventh hour.
+It had not taken anything she could put a name on. She checked her hands, her arm, her back, her breath, and she did the count she has done since she was eleven years old, and everything she had on the strip road that morning she had at the end of it, including the four fingers and a thumb and the missing finger and the arm that has been shut since the seventh hour.
 
 What it had taken was out of her foundation.
 
-That is the only sentence she has for it and she knows it is out of somebody else's mouth and not hers, and it is the right sentence, and she sat in the dust and repeated it four times and it did not stop being true.
+That is the only sentence she has for it and she knows it is out of somebody else’s mouth and not hers, and it is the right sentence, and she sat in the dust and repeated it four times and it did not stop being true.
 
 She is lighter than she was at the seventh hour. She has been lighter every day since the eighteenth of the month beginning 1,544 and this is the first time she has been able to say how much in a single morning.
 
@@ -88,9 +88,9 @@ And what came out of the ground at the ninth hour of the eighth of a month was n
 
 It was not in proportion to the weight she carried, because the weight on the first day was a fifth of the weight on the third and what came out on the third was not five times what came out on the first, and there was no first, because nothing had come out of her on the first or the second in three days of stone.
 
-It was not in proportion to the length either. She packed forty yards of drain on the third and three hundred yards of metalling on the first two and the road gang's length is judged at dusk by the foreman with a cord and a peg.
+It was not in proportion to the length either. She packed forty yards of drain on the third and three hundred yards of metalling on the first two and the road gang’s length is judged at dusk by the foreman with a cord and a peg.
 
-She has worked on nine days of road since the eighth of a month nine volumes back and she has never once been on a board that measures her. The work is measured by the weight and the length and she can take both of those with her left hand and a bar, and the ground took a piece of her for it anyway, and there is no column on any board between here and the turn with her name against a figure.
+She has worked on nine days of road since the eighth of a month nine volumes back and she has never once been on a board that measures her. The work is measured by the weight and the length and she can take both of those with her left hand and a bar, and the ground took a piece of her for it anyway, and no board between here and the turn has ever had a place for her name against a figure.
 
 ## What It Is For
 
@@ -102,7 +102,7 @@ And she has not told one person on nine days of road, and there is one person on
 
 She got to the end of the day and she got to the end of what she has got and here is what is left of it.
 
-Something came out of her and went into the road she had packed and she has no way of knowing what it was for and she is not going to be told by a man who keeps a book of everybody's numbers.
+Something came out of her and went into the road she had packed and she has no way of knowing what it was for and she is not going to be told by a man who keeps a book of everybody’s numbers.
 
 The bar was on the flat stone at the foot of the post when she got back to it and she had to take the weight of it in her left hand to lift one end of it, and she is lighter than the bar is, and she was not that on the second of a month.
 

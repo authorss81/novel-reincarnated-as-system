@@ -94,7 +94,7 @@ It is not a safe place. It is a place a cart comes past, and a trough everybody 
 
 Four sentences written in her own hand in soot off a chimney breast on paper she made out of a blanket in nine days, on the second leaf of a book of eight, saying why anything is kept at all, on a flat stone under a ladder on a strip road, nine miles west of a turn.
 
-That was hers and not in his book and not in anybody's office and no reader on nine days of road could be sent for.
+That was hers and not in his book and not in anybody’s office and no reader on nine days of road could be sent for.
 
 And a carter has thought about it for nine days and a boy has not been able to stop looking at it.
 

@@ -14,13 +14,13 @@ Her right arm went open at the ninth hour and stayed open. It is four days in fi
 
 She got up off the stone at the second hour because the cold came into her right side where the arm was open and stayed there.
 
-The keeper's door was open four feet away and there was a bench round three sides of the inside of that post and a man asleep on it with his boots off, and the lamp in there was out, and if she had walked four feet and turned round the side of the post she would have been in a warm room with a person in it who keeps three names under a ladder.
+The keeper’s door was open four feet away and there was a bench round three sides of the inside of that post and a man asleep on it with his boots off, and the lamp in there was out, and if she had walked four feet and turned round the side of the post she would have been in a warm room with a person in it who keeps three names under a ladder.
 
 He would have had to wake up. He would have had to put his boots on or not put his boots on and make a decision about a girl of nineteen with a bar on the shoulder, and then it would have been a thing that had happened, and it would have been a thing somebody had let happen to him.
 
 There is nobody on nine days of road who would have asked her for anything she can give and there is nobody on nine days of road she is going to put in the position of one who gives.
 
-She has not been given anything since the month beginning 1,544 and she is not going to be given a night's sleep out of a post on the thirtieth of a month, and if the cold took her in the next hour she would rather it did that than have it be a thing a man with a rag had done.
+She has not been given anything since the month beginning 1,544 and she is not going to be given a night’s sleep out of a post on the thirtieth of a month, and if the cold took her in the next hour she would rather it did that than have it be a thing a man with a rag had done.
 
 So she stood in the dust in the middle of the night at the foot of her own ladder and she got her coat open and closed it again and she went and lay back down on the flat stone with her shoulder on it, because the stone under a ladder is dry and the ground around a post is not.
 

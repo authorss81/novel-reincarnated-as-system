@@ -48,7 +48,9 @@ That is all of it. There is nothing in it that is not a trade and there is nothi
 
 The load is forty sacks and two lengths of timber.
 
-The timber is for the mill's door frame and the mill's wheel has not turned since before she came, and the frame has been off its pins since the winter before that. The sacks are the store's own and they go back east on the same cart, and the only thing in the world they cannot do by themselves is get off a cart and onto a floor, and there are two men on that cart who have come five miles to do it and are going to do it in an hour.
+The timber is for the mill’s door frame and the mill’s wheel has not turned since before she came, and the frame has been off its pins since the winter before that.
+
+The sacks are the store’s own and they go back east on the same cart, and the only thing in the world they cannot do by themselves is get off a cart and onto a floor. There are two men on that cart who have come five miles to do it and are going to do it in an hour.
 
 “You will take them in,” Wei Ran said.
 

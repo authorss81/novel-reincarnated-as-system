@@ -30,7 +30,7 @@ He came west out of that ground at the eleventh hour of a month and stood at a p
 
 There is nine miles of strip road between this post and a turn, and eleven miles of made road between that turn and the wall, and a gate on the made road with a boy of fifteen on a chain, and then the flat ground and the opening in the wall.
 
-She could catch him in about two hours. She is not as slow as him on open ground and she has nine hours of daylight in front of her.
+She could catch him in two hours. She is not as slow as him on open ground and she has nine hours of daylight in front of her.
 
 She stood at the trough and she watched the back of a bag going east and she did not go.
 
@@ -38,9 +38,11 @@ She stood at the trough and she watched the back of a bag going east and she did
 
 Three reasons and she had two of them at the sixth hour and the third at the ninth.
 
-She has not asked him for anything in eight years and she was not going to walk nine miles of strip road beside a man of nine hundred years in order to start now at the fifth hour of the twenty-eighth of a month. He would have to talk to her. She can see what happens to a person who is standing at a jamb with his hands on the edge of a plank, and she put him there for fifteen days, and she has no intention of doing it again on a road with carters on it.
+She has not asked him for anything in eight years and she was not going to walk nine miles of strip road beside a man of nine hundred years in order to start now at the fifth hour of the twenty-eighth of a month.
 
-There is nothing to carry east. His bag is his and it weighs what it weighs and she cannot take a thing into her own hands anyway and she cannot put one into anybody else's, and she has known both of those things since she was fourteen.
+He would have to talk to her. She can see what happens to a person who is standing at a jamb with his hands on the edge of a plank, and she put him there for fifteen days, and she has no intention of doing it again on a road with carters on it.
+
+There is nothing to carry east. His bag is his and it weighs what it weighs and she cannot take a thing into her own hands anyway and she cannot put one into anybody else’s, and she has known both of those things since she was fourteen.
 
 And the third one she got at the ninth hour sitting on the rail with her hands hanging.
 
@@ -50,7 +52,9 @@ If she goes east now she does not come back to this side of the turn. And the wh
 
 There is a wall in the ground twenty-two miles east with a hole in it four feet wide and it is open, and it has been open since he opened it from the inside at her word on a day in the month beginning 1,564, and nothing in this world shuts a wall back up once it has been opened from the inside.
 
-He is on the wrong side of it for the rest of the book. He opened it going away from her and it did not go back, and the room is gone as a place he works, and he is going to walk into that ground at the third hour of the thirtieth and stand in an opening in a wall with a table in it and a door shut on eleven feet of boards on the other side of the jamb.
+He is on the wrong side of it for good, and nothing in this world shuts a wall back up once it has been opened from the inside. He opened it going away from her and it did not go back, and the room is gone as a place he works.
+
+He is going to walk into that ground at the third hour of the thirtieth and stand in an opening with a table in it and a door shut on eleven feet of boards on the other side of the jamb.
 
 There is nobody in that room to let him in.
 
@@ -74,7 +78,9 @@ It is not hers. She has no wages on it and she has no name on it and if she goes
 
 But she can stand at it.
 
-That is the whole of what she has and it is not nothing. She cannot keep a place by staying in it and she never could, and there are four hundred people on this ground who will put her somewhere for the night if she asks and not one of them would have asked her. A place that nobody is keeping for her is the only kind she has ever been able to stand at, and for four days there have been five of them in it and now there are three.
+That is the whole of what she has and it is not nothing. She cannot keep a place by staying in it and she never could, and there are four hundred people on this ground who will put her somewhere for the night if she asks and not one of them would have asked her.
+
+A place that nobody is keeping for her is the only kind she has ever been able to stand at, and for four days there have been five of them in it and now there are three.
 
 She stood in it until the dark and she did not go and look up the strip road one single time, and that is the first thing she has been able to do with a want in four days.
 
@@ -82,7 +88,7 @@ She stood in it until the dark and she did not go and look up the strip road one
 
 She did it at the eleventh hour with the light off the board and the post door open and a man asleep behind it.
 
-The keeper's book is flat and the size of two hands and it has a string round it, and three names are in it in one hand going down the years, and it has been under the bottom of that ladder for nineteen years and the ladder goes over it forty times a day.
+The keeper’s book is flat and the size of two hands and it has a string round it, and three names are in it in one hand going down the years, and it has been under the bottom of that ladder for nineteen years and the ladder goes over it forty times a day.
 
 She untied the string.
 
@@ -92,7 +98,7 @@ There are no words. There is no reason and no place and nothing said about any o
 
 Her own book was lying an inch away from it with a date and a place on the first leaf and four sentences on the second.
 
-She sat on the flat stone in the dark with both of them in her hands, the keeper's in her left and hers in her right, and she put them down again the way she had found them, with the inch of stone between them.
+She sat on the flat stone in the dark with both of them in her hands, the keeper’s in her left and hers in her right, and she put them down again the way she had found them, with the inch of stone between them.
 
 There are three kinds of keeping on this ground and she has now been in the middle of all three.
 

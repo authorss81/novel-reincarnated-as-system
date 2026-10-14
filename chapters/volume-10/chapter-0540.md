@@ -54,7 +54,7 @@ That is the whole of what is coming to her in her life at this hour on the twent
 
 ## The Count That Is Only Hers
 
-She did the rest of it the way she has done it since the eighth of a month nine volumes back, which is inside her head, in order, fast.
+She did the rest of it the way she has done it since she was eleven years old, which is inside her head, in order, fast.
 
 The bar for carrying and not for opening. The skin for water. The dish and the clay and the ring for nothing anybody has ever needed. The paper for the record and the book for the four sentences.
 
@@ -82,7 +82,7 @@ That is the whole of it. It is not a mistake in the arithmetic. It is that she r
 
 The food is not the question, or it is not only the question.
 
-She worked that out on the rail in about four minutes and she has thought about it every day since the eighteenth of a month and got the same four minutes every time.
+She worked that out on the rail in four minutes and she has thought about it every day since the eighteenth of a month and got the same four minutes every time.
 
 The question is what she is going to do about the eleventh day.
 
@@ -108,7 +108,7 @@ Her breath went to four counts inside the hold at the fourth second and she stoo
 
 That is the first thing anybody has asked her to do in nine days, and it took a quarter of an hour, and she stood in a loaded hold with four counts of breath in it and was exactly as good at it as the left half of any other person on this road.
 
-She has a bar nine feet nine and a good arm and a body that is past the end of what any county holds, and the last time she offered either of them to a trade was the month beginning 1,544, and she has worked out why she stopped, and the reason is that nobody asked her first.
+She has a bar nine feet nine and a good arm and a body that is past the end of what any county holds, and the last time she offered either of them to a trade was the month beginning 1,544, and she has worked out why she stopped, and the reason is that not one of them ever asked her.
 
 ## What She Wants To Know
 

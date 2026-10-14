@@ -54,7 +54,9 @@ Here is what she wanted for the whole of the hour and what she was not going to 
 
 She wanted him to go east.
 
-Not in order to be rid of him. She wanted the twenty-two miles between that post and that wall to be twenty-two miles again instead of a thing with a man standing at one end of it, and she wanted the four days of a room with a table in it to be four days ago instead of four days that a man walked out of. She wanted him to be nine miles east and a door's length from the book and to have his own trouble with the thing he had done and not to bring it out to a trough on a strip road where it can be seen.
+Not in order to be rid of him. She wanted the twenty-two miles between that post and that wall to be twenty-two miles again instead of a thing with a man standing at one end of it.
+
+She wanted the four days of a room with a table in it to be four days ago instead of four days that a man walked out of. She wanted him nine miles east and a door’s length from his book, carrying his own trouble with the thing he had done, and not bringing it out to a trough on a strip road where it can be seen.
 
 She had wanted that at the fifth hour yesterday and at the seventh and at the eighth, and she had wanted it enough to go out and look up the strip road twice for him.
 
@@ -66,7 +68,7 @@ The sun came off the top of the board and the paste went grey on the wood and th
 
 Nobody left.
 
-The keeper's door stood open on a dark inside and a man that had come out and gone to sleep in it. The carter sat down on the low side of the rail with the horse's rein over his knee. The boy went on holding a board he was not carrying anywhere.
+The keeper’s door stood open on a dark inside and a man that had come out and gone to sleep in it. The carter sat down on the low side of the rail with the horse’s rein over his knee. The boy went on holding a board he was not carrying anywhere.
 
 And the man with the bag put his weight on the other leg and stood nine feet off a girl with a bar on her shoulder and a book of her own on a stone, and he did not say anything else, and he did not go.
 
@@ -80,7 +82,7 @@ And she stood there because she did not know what to do with herself either, whi
 
 For eight years she has known exactly what her right hand does and it does not do it.
 
-Four fingers and a thumb, and it cannot write a line that is not true, and it will not take a thing and it will not put a thing into anybody else's hands, and she has never once in eight years put a question into another person's hearing at a post or a counter or a rail.
+Four fingers and a thumb, and it cannot write a line that is not true, and it will not take a thing and it will not put a thing into anybody else’s hands, and she has never once in eight years put a question into another person’s hearing at a post or a counter or a rail.
 
 That is not modesty. She has said no to men who were owed nothing and she has said it out loud in daylight and in front of witnesses, and she can do all of it.
 
@@ -122,7 +124,7 @@ She bent down and picked the dipper up off the trough rail and filled the skin a
 
 It took her four minutes and it was the first useful thing she had done since the fourth hour of the twenty-fourth of a month that has gone, and she did it because her hands needed a job and not because anybody asked her for water.
 
-The keeper's door was open. She could have gone in. There is a bench inside that goes round three sides of a post and a man asleep on it and nobody in the room who would have stopped her.
+The keeper’s door was open. She could have gone in. There is a bench inside that goes round three sides of a post and a man asleep on it and nobody in the room who would have stopped her.
 
 She did not go in. She has not been inside that post in two years and she was not going to go in on the twenty-sixth of a month because there was nothing else to do.
 

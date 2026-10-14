@@ -2027,3 +2027,76 @@ forgiven, and leaves the walls standing with the only unread thing the voice —
 against two) and F2 (ch 484's nine-sentence mouth) are carried, not forgiven, into the new outline's own
 allowances. **This section opens no thread the chapters do not carry and previews nothing `outline/ending.md`
 owns.**
+
+---
+
+## VOLUME 10 BATCH 0001 (ch 539–554) — what the batch opened, moved and closed
+
+**Sixteen chapters, days 1,599–1,628, pressure *asking what else is on it*. Every line below is checked against the
+page at `chapters/volume-10/`, not against a plan.**
+
+### CLOSED by this batch
+
+1. **Whether she can ask.** OPEN for eight years, from the second volume. **CLOSED at ch 546 and proved at ch 553.**
+   She rehearsed on a boy of eleven and a foreman, said four words to a trough six times, and then said them to a man
+   in daylight with a person hearing it. **The mouth works. That thread is finished and it is not to be reopened.**
+2. **What she wanted from the answer.** OPEN since ch 525 — she did not want an answer, she wanted to be asked for.
+   **CLOSED at ch 546 and ch 552: what she wanted was to be the person who asks, and the count she kept was never
+   going to tell her whether to do it.** *A count is not a veto.*
+3. **Whether the flat stone is a safe place.** OPEN since ch 538. **CLOSED at ch 544, by a carter who had nine days to
+   think about it and thought about none of it, and then by a boy of eleven who cannot stop looking at it.**
+   **A thing put down in the open is put down where it will be found.**
+4. **Whether being seen is being written.** NEW at ch 551 and closed in the same chapter. She wanted her name in a
+   flat book with three names in it, wanted it badly, and worked out inside a day that a name in that book is a day and
+   a year and nothing else. **Being seen is not being written, and she has had it for eleven days without knowing it
+   was anything.**
+
+### OPEN, and now carried
+
+5. **The question she asked and the answer to it.** **NEW at ch 553–554 and the volume's live engine.** *What else is
+   on it*, said at the seventh hour of the twenty-fourth, gone in the book, **not answered.** She gets one at a time,
+   at the wall, in daylight, and she does not get a second until the first is answered. **No card in Batch 0002
+   resolves the first question; the closing day at ch 569–570 is what comes back.**
+5a. **NEW at ch 554 — whether asking a question that is not about the list is free.** He answers *why those three* at
+   the seventh hour of the twenty-fifth, in the same breath as the terms, and it is not a thing she said about
+   whether that counts. **She cannot find out by asking, because asking is a question and the first one is still
+   open.** Standing, unresolved, and carried into Batch 0002 as a live uncertainty rather than a rule.
+6. **The hut light, a hundred yards off the wall.** Carried from ch 536 unlearned. **Batch 0001 saw it in daylight
+   for the first time (ch 548), watched it for four minutes, confirmed it did not change, and learned nothing.** She
+   has four questions she could put about it and has decided not to spend the first asking on any of them (ch 549).
+   **STILL OPEN, and it is deliberately still open.**
+7. **Twenty-two days.** **STILL OPEN.** Ch 550 puts the word *lost* on it and it comes apart at once; ch 552 prices it
+   as a blank she has written her own name against. **No card equates it to a dated interval and Volume 11's door
+   depends on it staying unplaced.**
+8. **What *lost* does.** OPEN since ch 536. **Narrowed at ch 550 by one subtraction and not by an answer:** it is not
+   about Ning Wu, because Ning Wu is a line with no mark and was never on a page, and a word written about an entry
+   cannot be about him. **That is the whole of what three nights bought.**
+9. **The brother's name.** `Ning Wu` **1** in the batch, at ch 550, in her own thought. **Ch 552 puts a new thing on
+   it: she has decided she will not say it out loud in front of another person at a wall — not at the first asking and
+   not at the second if it can be helped. That is the first time in nineteen years she has chosen to leave something
+   shut on purpose, and it is carried into ch 585.**
+10. **The list itself.** Asked about, entered, closing. **Shayin's terms are standing and they do not move. The
+    closing day is named at ch 569–570 and the reversal is that her asking is what set it.**
+11. **Whether the work pays for anything.** OPEN since ch 543. Eleven sacks, forty up onto a sill, three days of stone,
+    a loaf a day and a half. **Something came out of her foundation at the ninth hour of the eighth (ch 545) and it
+    was not in proportion to the weight or the length, and she still does not know what it bought.**
+
+### CARRIED and untouched
+
+12. The three Volume 9 costs — carried and shown at ch 541, 542 and 552, and **not re-derived anywhere**.
+13. The paper against her ribs, opened alone at ch 488 and never named — **not touched, not described.**
+14. The plate worn and undescribed — `plate` **0** in the batch.
+15. The fifth entry and the four before it · the copy at ch 502 · the ten parts not given · the surface answer never
+    re-voiced · `Ledger` **0** · the year of non-forgiveness **0 mentions** · the Hunter's request pending with the
+    Hunter **not on the page in this batch**, which is correct, since Volume 10 allows him twice and both are in
+    Batches 0002 and 0004.
+16. **Him: findable, sendable, answerable, wrong-sided, and no figure of what is left of him on any page.**
+    `Yuan` **0**, and he does not speak anywhere in the sixteen chapters.
+
+### Two things the batch did that the next one must not undo
+
+- **She has never thanked him and she is not going to.** Ch 543 records her withholding a thank from the two women
+  who were paid, and ch 546 records her saying thank you to a boy of eleven who answered a question about a rung.
+  **Not one of them is a thank to a man of nine hundred years, and no card in Volume 10 may write one.**
+- **The batch's irreversible step is hers and it is spoken.** From ch 554 the list is closing. **Batch 0002 opens on a
+  woman who has already asked, has got terms, and has not got one word of an answer.**

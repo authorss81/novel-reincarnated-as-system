@@ -4289,3 +4289,57 @@ and the per-chapter averages are 1,688–1,875 on the sixteen-chapter batches** 
 the road, and they are not merged** · **ch 544's carter speaks nine days after the book went down at ch 538, which no
 chapter stages twice, and the book moves once, at ch 563.** Full record at `state/continuity.md`
 §*Volume 10 planning — REVIEW REPAIR*.
+
+---
+
+## VOLUME 10 BATCH 0001 DRAFTED — ch 539–554, day 1,599–1,628 (this phase)
+
+**`chapters/volume-10/chapter-0539.md` through `chapter-0554.md` are on the page. 29,902 words of body prose on method
+B over sixteen chapters, average ~1,869.** Seven of the sixteen (539–545) were already on the page when this run took
+the batch; they were read in full, kept as prose, and repaired. Full record at `state/continuity.md`
+§*Volume 10 Batch 0001*.
+
+### Who is where at the end of ch 554, day 1,628
+
+- **Ning Yan.** Nineteen. **Severance 3, unchanged throughout — the batch spent no bracket and moved no stage.** She
+  is four miles west of the wall on the made road in the dark at the eighth hour of the twenty-fifth of the month
+  beginning 1,604, lying in low broken ground with the bar under her head and a loaf and a bit in her bag. **She has
+  one loaf left, an arm that is open four days in five, no wages, no place and no road.** She is lighter than she was
+  on the eighth of a month, and the small open place low behind her fourth rib was drained once, on the ninth hour of
+  the eighth, out of her foundation, on three days of road work.
+- **What is in her.** **A question she has asked and cannot un-ask.** Four words, said out loud, in daylight, with a
+  boy of fifteen four feet off, at the seventh hour of the twenty-fourth. **It has gone in the book.** Three terms:
+  **one at a time, at the wall, in daylight.** The second rule: she does not get another until the first is answered,
+  and asking twice puts both in and neither is answered. **No answer to anything.** A question about a window a
+  hundred yards off the wall that she has decided not to spend the asking on and cannot put down. **Twenty-two days,
+  still unplaced.** A bill she counted in full on the twenty-second and twenty-third and did not stop for.
+- **Her book of eight leaves.** **Still on the flat stone under the bottom of the ladder at the post**, beside the
+  keeper's flat book with an inch of stone between them, unasked and unmoved since the ninth hour of the twenty-fifth
+  of the month beginning 1,574. **She did not pick it up anywhere in this batch, and she did not look at it at ch 549.**
+  It moves once, at ch 563.
+- **Shuyin.** Nine hundred years old, alive, correct, **on his own side of the opening in the wall**, where he has been
+  since ch 518's crossing. He did not answer her and he told her the terms. **He is not thanked anywhere in sixteen
+  chapters and no chapter writes a scene in which he is thanked.** He is not the final enemy.
+- **The boy of fifteen.** At a gate eleven miles short of the wall, with a chain and a cup on a wire. He walked the
+  last two miles once, for her, because she asked him to.
+- **The keeper, the carter of thirty-five and the boy of eleven** are at a post nine miles west of the turn. **None of
+  them knows what she is and none of them has asked, and she has asked none of them.** The carter said seven sentences
+  about a stone at a trough and the keeper looked at her for eleven seconds and did not write her down.
+- **The wall.** Still open. A plank table in the opening with nothing on it, a door shut on eleven feet of boards on the
+  other side of the jamb, a bar on two posts four hundred yards east that has had nothing on it since before she came,
+  and a window a hundred yards off that she saw in daylight for the first time in her life on the thirteenth of a
+  month and that did not change while she watched.
+
+### What Batch 0002 inherits, and what it must not undo
+
+- **The asking is asked.** From ch 554 the list is closing and **no chapter may write as though it is not.**
+- **Severance 4 at day 1,629 — the twenty-sixth of the month beginning 1,604 — ch 556**, which is the day after the
+  terms. **The asking falls inside that sixty-eight days and one day is all the asking gets.**
+- **She takes her book off the stone at ch 563**, and it cannot be put back the way it was. **No card before ch 563
+  moves it.**
+- **The closing day is named at ch 569–570** — day 1,802, the nineteenth of the month beginning 1,784 — and it comes
+  back as her own asking.
+- **The terms do not move.** If a later chapter has her asking two at once, it must show her choosing not to.
+- **Nothing is answered yet.** No name, no page read aloud, no *lost*, no reason for a dark window.
+- **The one next phase is `workspace/volume-10-batch-0002/PROMPT.md` — ch 555–570, days 1,629–1,696, pressure
+  *being counted*.**
