@@ -60,6 +60,16 @@ She knew what was in them.
 
 That was the part she had not expected. She had carried a strip folded in three against her ribs for thirteen weeks wanting to see the end of that fine hand before anybody else did, and she had got it, and she did not need to read a word of it.
 
+## The Word At The Head Of It
+
+The fine hand had put a word at the head of those four or five lines before it put anything else there, and she could not read one letter of it.
+
+She knew the word. It was the one after Golden Core — Nascent Soul, the fifth — and she had known the name of it since before she could count to nine, and she had gone into it three days ago on a bank behind a mill with four men two hundred yards off and nothing said out loud.
+
+It was on a strip in a hand she had never been able to read, and a carter had put it into her hand at a gate post three miles east of a mill whose wheel had not turned, and nothing within nine days of road had made it happen and nothing within nine days of road could name it.
+
+## The Date On It
+
 There was a date on that strip and she knew the date because she had stood on a bank a quarter of a mile from where she was standing and put her hand on a stone she had not touched.
 
 And it was written in a hand she had never seen by somebody who had not been within nine days of road of the hedge and had not been there and had not heard it.
@@ -76,7 +86,7 @@ She had put her name on a wall once and an office had found out she existed.
 
 Everything that ever happened to her inside that boundary was announced. Every stage, every hold, every count of breath, every finger, every date the men had read out at a plank about four hundred yards inside it — announced, out loud, in a room, to nine people who had to write it down before she finished saying it.
 
-She was standing on a bank in somebody’s ordinary country with a furnace behind her at a mill that no office built, and a column ahead of her that every office above the mill could read, and she had done one thing on that bank that nobody within nine days of road could have priced and nobody within nine days of road had heard.
+She was standing on a bank in somebody’s ordinary country with a furnace behind her at a mill that no office built, and a column ahead of her that every office above the mill could read, and she had done one thing on that bank that not one person within nine days of road could have priced and not one of them had heard.
 
 ## The Last Of It
 

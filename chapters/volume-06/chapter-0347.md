@@ -26,7 +26,7 @@ She did not ask that one. She asked what she had walked out with.
 
 He shifted the notebook under his arm.
 
-“Four lines a day,” he said. “A certificate of something, a measurement of something, a note of two men I have watched, and a page at the end that nobody reads. That has been the day for two years and four months and I have written about nine hundred pages of nobody reading them.”
+“Four lines a day,” he said. “A certificate of something, a measurement of something, a note of two men I have watched, and a page at the end that never gets read. That has been the day for two years and four months and I have written about nine hundred pages of it going unread.”
 
 “Then where does it go.”
 

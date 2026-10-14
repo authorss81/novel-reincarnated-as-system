@@ -2,7 +2,7 @@
 
 She was on the open ground past the last hedge at about the fourth hour of the twenty-fifth of a month with the bar on the grass and nothing within about half a mile, and she had done the arithmetic on the way out and it had come out wrong twice.
 
-Golden Core seven had been on the sixteenth of a month two months back.
+Golden Core eight had been on the twenty-third of a month a month back.
 
 Thirty-two days. Not thirty-seven.
 
@@ -12,11 +12,11 @@ She put her hand down flat on her own knee, and counted, and it was thirty-two, 
 
 ## The Stage
 
-It came the way the eight before it had come and there was nobody inside to be told and there was no county book on that ground to take anything down.
+It came the way it always came, out of the ground she was standing on and not out of her, and there was not a living soul on that flat to be told and nothing within half a mile with a book to take anything down.
 
 [Ning Yan, past the line, servant-born, under no ceiling any county holds. Golden Core, stage nine, is held.]
 
-It said it once and then it was finished, and it did not explain and it did not advise and it did not begin.
+It said it once and then it was finished, and it gave her nothing to read and nothing to do about it.
 
 ## What It Took
 
@@ -88,11 +88,11 @@ And both of them were in the hand she could not read.
 
 He was standing four feet off with his sleeves turned up and he said the rest of it without being asked, in the ordinary voice, the way he said everything, and in four sentences.
 
-“There is a line out west of this building about nine miles,” he said. “It is kept and there are men on it and they are paid by the day and their families are on it.”
+“There is a line out west of this building about nine miles,” he said. “It is kept, and what is on it is paid for by the day out of a place I have never seen, and every month-end the ordinary traffic of it comes past this floor on a cart and is read against other things.”
 
 He turned the brush over in his hand and did not use it.
 
-“Nobody out here has ever needed one thing out of it. You are not the first person on this floor to be a person a road went past, and you will not be the last, and I have been the man who copies it for eleven years.”
+“You are not the first person on this floor to be a person a road went past, and you will not be the last, and I have been the man who copies it for eleven years.”
 
 ## What It Meant For One Person
 

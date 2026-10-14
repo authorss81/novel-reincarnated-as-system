@@ -10,7 +10,9 @@ She got to the shed at the mill at about the sixth hour and put the strip flat o
 
 The column on the left was hers and the holding under it was his, and at the foot, under the four lines, there was a fifth line that had not been on the other two.
 
-THE HOLDER NAMED IS THE ONLY HOLDER NAMED. A SECOND HOLDER IS TO BE NAMED UNDER THE FIRST, AND THE NAMING IS TO BE DONE BY THE FIRST HOLDER.
+“The holder named is the only holder named. A second holder is to be named under the first, and the naming is to be done by the first holder.”
+
+It was the ordinary hand. She could read every word of it, and that was the first time she had been able to read anything on that paper except the one line at the top that carried her column.
 
 The fine hand was the same fine hand. She still could not read a word of it and she had been carrying it since the seventeenth of a month, which is six weeks back.
 
@@ -72,7 +74,7 @@ She said it into her own head before she could stop herself, and it came out in 
 
 He did not put a second name under the line.
 
-She was eighteen years old and she had one copper a day at a gate and a bar that took two hands and three lines left on a board and a furnace that lit itself in a shed she walked two miles to, and in about four weeks there was going to be a room nine days of road east of a post with doors that shut on the twenty-eighth, and the only way anything had ever got into that room was one name on a line.
+She was eighteen years old and she had one copper a day at a gate and a bar that took two hands and three lines left on a board and a furnace that lit itself in a shed she walked two miles to, and in about three weeks there was going to be a room nine days of road east of a post with doors that shut on the twenty-eighth, and the only way anything had ever got into that room was one name on a line.
 
 That name was him. He was the only person in nine days of road who could be put in a room, and she was the only person in nine days of road who had a road, and he had just said no to the one arrangement that would have meant neither of them had to stand in it.
 

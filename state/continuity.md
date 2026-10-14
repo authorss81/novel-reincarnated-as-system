@@ -5585,16 +5585,18 @@ pinned day under `((day − 134) mod 30) + 1`.
 
 ## Established facts, Volume 6 Batch 0004 (ch 346–360) — STANDING AND REFUSING TO STAND
 
-**Fifteen chapters, 21,025 words of body prose, average ~1,402, day 774 to day 848, and the volume closes with it.**
+**Fifteen chapters, 21,479 words of body prose, average ~1,432, day 774 to day 848, and the volume closes with it.**
 **TWO bracketed layer lines, at ch 352 and at ch 357 — brackets 5 and 6 of Volume 6's six, and the budget is spent.
 Ch 360 carries none and that silence is the point.** Chapter titles and section headings excluded. Drafted against
 `outline/volume-06.md` and against `workspace/volume-06-batch-0004/PROMPT.md`, which is this batch's card. **The
 prompt's corrected handoff was right and the page followed it: the batch opens after day 773, not at day 736 and not
-at day 749.** Every pinned item in the prompt is on the page.
+at day 749.** Every pinned item in the prompt is on the page. **REVIEWED AND REPAIRED — eighteen findings applied,
+no beat moved; see *Volume 6 Batch 0004 — REVIEW REPAIR* at the foot of this file.**
 
-Per file, body prose: 346 1,355 · 347 1,325 · 348 1,359 · 349 1,339 · 350 1,486 · 351 1,316 · 352 1,322 · 353 1,489 ·
-354 1,375 · 355 1,354 · 356 1,407 · 357 1,673 · 358 1,463 · 359 1,386 · 360 1,376. **None under the 1,300 floor and
-none above the 2,700 guide.** Volume 6 file set after this batch: **94,492 words of body prose over sixty-two chapters.**
+Per file, body prose: 346 1,361 · 347 1,326 · 348 1,403 · 349 1,354 · 350 1,501 · 351 1,322 · 352 1,326 · 353 1,507 ·
+354 1,385 · 355 1,393 · 356 1,455 · 357 1,696 · 358 1,533 · 359 1,391 · 360 1,526. **None under the 1,300 floor and
+none above the 2,700 guide.** Volume 6 file set after this batch: **94,946 words of body prose over sixty-two
+chapters.**
 
 ### The batch in one sentence
 
@@ -5630,9 +5632,10 @@ and runs to day 793; the next begins on day 794 and runs to day 823; the one aft
 - **Every pinned day verified against `((day − 134) mod 30) + 1`. Day 786 is the 23rd of the month beginning on day
   764. Day 818 is the 25th of the month beginning on day 794. Day 845 is the 22nd of the month beginning on day 824.**
   Day 773, the tenth of the month beginning on 764, is the last page of Batch 0003 and ch 346 opens on the eleventh
-  of the same month, one day after it.
-- **The batch's own structure is two twenty-eighths.** The sending's fourth line says *THE DOORS OF THAT ROOM SHUT ON
-  THE TWENTY-EIGHTH OF A MONTH.* Those are **day 791 (ch 354)** and **day 821 (the twenty-eighth of month B, inside
+  of the same month, one day after it. **Ch 346 and ch 349 carried no date on the page at review and now do: ch 346
+  opens on the eleventh and ch 349 carries the eighteenth in its opening and in its first-day beat.**
+- **The batch's own structure is two twenty-eighths.** The sending's fourth line says *the doors of that room shut on
+  the twenty-eighth of a month*. Those are **day 791 (ch 354)** and **day 821 (the twenty-eighth of month B, inside
   ch 358–359)**. The first one passes while she is on flat ground with a bar that needs two hands and nothing comes
   down any road to tell her it happened. The second one passes two days after she refuses the sending at a counter.
   **Ch 358's refusal is therefore a refusal made against a date, and that is the batch's real deadline.**
@@ -5647,13 +5650,13 @@ and runs to day 793; the next begins on day 794 and runs to day 823; the one aft
 | Gate at Pei's | five coppers a reach, **a third of a reach, one and a half a day** | five coppers a reach, **a fifth of a reach, one copper a day**, down at ch 353 |
 | Listed work | paid in what the job was made of; a box is four days of the ring; a third of a sack of clay is three coppers | **the board is bare.** Three lines taken in this batch — a footing (two days, one box), a ditch (two), a head (three) — and nothing until the season turns |
 | Bread | two a day at a store five miles off, and it had been seven days' bread for five months | **six days' bread, then five from the twenty-eighth** |
-| Furnace | lit by nobody, about a box and a half of clay left | **about half a box, and the ring is hers** |
+| Furnace | lit by itself, about a box and a half of clay left | **about half a box, and the ring is hers** |
 
 - **The gate rate falls at ch 353 because Pei is right.** A reach is priced by what comes **over the bank**, and
   after Golden Core 8 she can dig a reach and cannot get what she digs up four feet of bank with one hand. *Five
   coppers a reach; a fifth of a reach is one; a quarter of one is not a thing any gate on nine days of road pays.*
-- **The board goes bare at ch 356, on the fifteenth.** Four lines on the wall on the eleventh of the month before
-  last, four more coming down over two months, and by the fifteenth there is nothing on it. The listing man is right:
+- **The board goes bare at ch 356, on the fifteenth.** Four lines on the wall on the eleventh of the month last, four
+  more coming down over two months, and by the fifteenth there is nothing on it. The listing man is right:
   the board is bare until the season turns, because a board is a board and it carries what is put on it.
 - **Clothing and food are not re-derived here and no figure in this table is new except the five-days' bread.**
 
@@ -5683,15 +5686,16 @@ hand*, learned at a bank nine days west from a woman with a scar across the back
 strength; it was never waiting. **A bar has to be under the stone before the stone comes, and the piece has to go
 where the piece is going, and the last foot of that is done by hand. That is two hands.** She has eight holds in the
 left and four fingers and a thumb on the right, and the right arm open half the time and had been for four years.
-**She can carry a bar. She cannot carry a stone and a bar.** That is said out loud on open ground with nobody within
-half a mile, in two sentences, and it is the only time in seven stages she has said anything out loud on that ground
+**She can carry a bar. She cannot carry a stone and a bar.** That is said out loud on open ground where there is not
+a living thing within half a mile, in two sentences, and it is the only time in seven stages she has said anything out loud on that ground
 besides the stage itself.
 
 **What closes:** not the ramp — the ramp was never hers and she asked about it in a gateway a day before and a correct
 man said no. Everything else. Any work measured by what comes out of the ground in pieces rather than in length is
-measured by weight, and weight is carried with a bar and a hand. **There is no listing on that board she could be put
-on, and there is not going to be one.** She wanted a line on the board her hand could not do, for eleven days, out
-loud, at a post and a gate and a bench. **She got one and it was not on the board.**
+measured by weight, and weight is carried with a bar and a hand. **Nothing on that board pays her for it, and nothing
+on that board could be put her on, and there is not going to be one.** *(The chapter's own line, recast at the
+review — it had stood twice in a row as *there is no listing on that board …*.)** She wanted a line on the board her
+hand could not do, for eleven days, out loud, at a post and a gate and a bench. **She got one and it was not on the board.**
 
 ### Golden Core 9 — ch 357, day 818, the twenty-fifth of a month
 
@@ -5741,9 +5745,13 @@ twice.
 - **The third spending does not happen in this volume.** Hand was spent at ch 325 and at ch 338 and is refused here,
   out loud, and that is the whole of it.
 - **The asking.** The third strip off the works bundle in six weeks with words at the bottom of it, on the third of a
-  month at about the second hour, and under the four lines there is a fifth: *THE HOLDER NAMED IS THE ONLY HOLDER
-  NAMED. A SECOND HOLDER IS TO BE NAMED UNDER THE FIRST, AND THE NAMING IS TO BE DONE BY THE FIRST HOLDER.* Same fine
-  hand, still unreadable.
+  month at about the second hour, and under the four lines there is a fifth: *the holder named is the only holder
+  named, a second holder is to be named under the first, and the naming is to be done by the first holder.*
+  **That fifth line is in the ordinary hand, and she can read every word of it.** **This record said *same fine hand,
+  still unreadable*, which was wrong, and the page was ambiguous rather than clear — the fine hand was named in the
+  next paragraph about the strip as a whole and never about that line.** **Corrected here and made explicit on the
+  page at the review**, because the reading is the chapter: an office above has written her something she can
+  understand, and what she cannot read is the holding under her column, which is the thing she came to ask about.
 - **What a second holder is**, said plainly on the page: a second mark under the first, with a second set of figures
   under that, so that if one name cannot be produced another can. Every book on nine days of road has one for every
   column in it and every one of them is one name and not two, and no office on this ground has ever needed a second,
@@ -5776,13 +5784,17 @@ twice.
   she says either way and the word he hears, and he does.
 - **What she said, verbatim in the chapter:** *Ning Yan, of Lowwater. No.* And then: *The holder is not presented. I am
   not carrying him to that room. And I will not stand in one and say that I have.*
-- **What he wrote, verbatim in the chapter:** *NING YAN, OF LOWWATER. THE HOLDER IS NOT PRESENTED. REFUSED AT THE
-  COUNTER. THE TWENTY-SIXTH.* He does not write why, and says out loud that a man behind a counter does not write down
+- **What he wrote, verbatim in the chapter:** *“Ning Yan, of Lowwater. The holder is not presented. Refused at the
+  counter. The twenty-sixth.”* Fifteen words, read back to himself once without being said out loud. *(Set in
+  sentence case inside quotation marks at the review; it stood as a bare all-caps line, which read as a panel.)* He does not write why, and says out loud that a man behind a counter does not write down
   what a person says about a thing he cannot see, and that a reason written in a margin is a thing that gets read out
   to a room.
 - **What she said for, and why she had gone up there.** She had wanted somebody to come and tell her. She went up
-  because there was a date on a strip and it was two days off and there was nobody else on nine days of road who could
-  say anything about it. **She had not gone up there to protect the line. She had gone up there because she was alone
+  because there was a date on a strip and it was two days off and there was no one else on nine days of road who could
+  say anything about it. **Ten weeks at her ribs for that fourth line, and six weeks ago eleven feet off a man with a
+  notebook in ten inches of wet grass, told of four rooms and two that shut, and not told what one looked like and not
+  able to ask.** *(She had never been in that room. The sentence that said she had, at the review, was false on the
+  page and false against ch 347, and it is corrected.)* **She had not gone up there to protect the line. She had gone up there because she was alone
   with a date.** The chapter says so on the walk back, after the room.
 - **This is a different kind of act from the vouching she agreed to at ch 329** — a yes given in daylight for
   materials, and a no given in daylight for herself. **Neither chapter states the other.**
@@ -5813,7 +5825,8 @@ two are not the same act and neither chapter says the other.** He held it to nin
   book* and is told.
 - **The bill is said in a room with a person.** There is a low building at the back of that board with a door standing
   open and a bench inside it. She puts the tray on the bench and tells him what is in it: **a furnace no office on
-  nine days of road built, a holder nobody in the world can produce, and a refusal with her name at the left of it.**
+  nine days of road built, a holder not one person in the world can produce, and a refusal with her name at the left
+  of it.**
 - **He pastes the strip in anyway, because that is what the board is for.** And then he says the other half of it,
   which is new and which is the whole of the chapter: *The board is for the strips.* The book goes under the ladder on
   a stone, because the stone is the driest thing he has and the roof does not come in on it, and it stands there.
@@ -5856,7 +5869,7 @@ two are not the same act and neither chapter says the other.** He held it to nin
   her inside that boundary was announced, out loud, in a room, to nine people who had to write it down before she
   finished saying it. **She is standing on a bank in somebody's ordinary country with a furnace behind her that no
   office built and a column ahead of her that every office above the mill can read, and she has done one thing on
-  that bank that nobody within nine days of road could have priced and nobody within nine days of road heard.**
+  that bank that not one person within nine days of road could have priced and not one of them heard.**
 - **She will not walk it again.** Said on the page, in her own act, without a farewell to anybody.
 
 ### The structural answer — continued at ch 346–359, in four mouths, in short sentences, never as one speech
@@ -5941,10 +5954,10 @@ and nothing else.
 
 | Item | Value at end of ch 360 |
 | --- | --- |
-| Her stage | **NASCENT SOUL 1, taken day 845, the twenty-second of a month, reached by hand and not by sound — NO BRACKET, the volume's bracket budget of six is spent at ch 310, 321, 332, 342, 352 and 357.** The reach began once, by accident, on a bank past the mill: a stone she never touched went the length of her own arm and stopped and was set down clean, and no office built it and nobody heard it. Paper still Foundation the first stage, never opened |
+| Her stage | **NASCENT SOUL 1, taken day 845, the twenty-second of a month, reached by hand and not by sound — NO BRACKET, the volume's bracket budget of six is spent at ch 310, 321, 332, 342, 352 and 357.** The reach began once, by accident, on a bank past the mill: a stone she never touched went the length of her own arm and stopped and was set down clean, and no office built it and nobody heard it. **The name is now on the page for the first time in the manuscript** — the fine hand put a word at the head of those four or five lines and she cannot read a letter of it, and she knows it: *the one after Golden Core, Nascent Soul, the fifth*, a name she has had since before she could count to nine. **A name on a page is not a panel. The bracket count is two and ch 360 still carries none.** Paper still Foundation the first stage, never opened |
 | Body | Short breath **four everywhere except a loaded reach, where it is five, permanently, since ch 342**; right index gone, four fingers' grip; right arm open half, permanent, since ch 288; aperture cracked permanent; **eight of eleven holds**, since ch 332; turn gone; **the middle-bank method is gone since ch 352 — the bar takes two hands**; not hungry; hands warm; **eighteen** |
 | Employment | **NOTHING.** No wages, no season, no booking, no stub. A gate at five coppers a reach, **a fifth of a reach, one copper a day** — was two and a half at the start of Volume 6. **The board at the works is bare and stays bare until the season turns.** Plus **a materials account in a second office, copied against her column once a month by hand, and now itself copied upward in a hand she has never seen** |
-| The furnace | **Finished at Golden Core 9.** Lit by nobody for over three months; at the seventh hour of the twenty-fifth of a month three handfuls of ash on it did not bring it up and did not put it out, and a lump out of a box went in at the low end and it came up against the brick and stood there about nine feet high and it is hers. It answers nothing. The ground under it gives nothing back and never has and she has never said so out loud |
+| The furnace | **Finished at Golden Core 9.** Lit by itself for over three months; at the seventh hour of the twenty-fifth of a month three handfuls of ash on it did not bring it up and did not put it out, and a lump out of a box went in at the low end and it came up against the brick and stood there about nine feet high and it is hers. It answers nothing. The ground under it gives nothing back and never has and she has never said so out loud |
 | Circuit | **BROKEN, and now billed.** No book on that reach shuts clean. Four trays have gone up with a page fanned open. **A tray came back down the mill road on the ninth and the book is standing on a stone under a keeper's ladder at the post** |
 | The reading | **Three books she cannot see, and the third is a copy of the second made upward out of the office that keeps it.** A refusal entered in the office's own book with the twenty-sixth against it. A strip at the gate post in a hand she cannot read, with a date on it, about the twenty-second |
 | Settlement | **Merit zero in this batch and zero in Volume 6 since Batch 0002's two.** Nothing killed, nothing measured, no figure of him on any page. **Hand spent twice in Volume 6 — ch 325 and ch 338 — and refused once, at ch 355, out loud, and it was not spent.** Ledger never ordered, held, priced or refused. **Yuan: three utterances in fourteen chapters outside ch 355, plus the refusal itself, every sentence present tense; readable, addressed, and therefore sendable** |
@@ -5957,8 +5970,9 @@ and nothing else.
 
 ## Construction budget — Volume 6 Batch 0004 (ch 346–360), measured by grep, not promised
 
-**Every figure below was run against the fifteen files after they were written. Fourteen faults were found by
-measurement while drafting and all fourteen were cut before the batch was saved, and they are recorded at the foot,
+**Every figure below was run against the fifteen files **after they were written and again after the review
+repair**, and the table carries the post-repair numbers. Fourteen faults were found by measurement while drafting and
+all fourteen were cut before the batch was saved; eighteen further findings were applied at review. Both are recorded,
 because a budget that only ever reports clean is not a budget.**
 
 | Construction | Result across ch 346–360 |
@@ -5967,7 +5981,8 @@ because a budget that only ever reports clean is not a budget.**
 | **Bracketed layer lines** | **2, at ch 352 and at ch 357**, both matching the pinned far-side house form character for character. Zero in the other thirteen chapters. **Brackets 5 and 6 of Volume 6's six and the budget is spent.** Ch 360 carries none and the handover is entered by hand |
 | ***About four seconds*** (retired out of Volume 4, zero in Batch 0003) | **0.** One instance was written at ch 352 (*stood there for about four seconds trying*) and one at ch 352's fifth-hour section, and both were recast before the batch was saved |
 | ***Eleven weeks*** (retired) | **0.** **Five instances were written** — ch 355 ×3, ch 356 ×1, and one in a rewritten ch 346 line about the length of the vouching — and all five were recast to month-day arithmetic |
-| ***Nobody asked · nobody was thanked · there is no form · there is no column · the record remained · nobody knew · nobody said anything*** | **0 as phrases**, all seven. **The true fact behind the retired thanks construction is spent as of ch 309 and is delivered nowhere in this batch.** Ch 351 has *nobody has asked for it* inside a worker's speech about a ramp and it is not the retired construction |
+| ***Nobody asked · nobody was thanked · there is no form · there is no column · the record remained · nobody knew · nobody said anything*** | **0 as phrases**, all seven, before and after the repair. **The true fact behind the retired thanks construction is spent as of ch 309 and is delivered nowhere in this batch.** Ch 351 has *no one has asked for it* inside a worker's speech about a ramp and it is not the retired construction |
+| ***Nobody* as the bare intensifier, the wider family** | **6, down from 27.** The review found the word had become the batch's default intensifier — which `AGENTS.md` calls spent by the tenth — while the seven exact phrases above stayed at zero, so the letter of the budget held and the effect did not. **Twenty-one instances were recast**, distributed: ch 346 ×1 · ch 347 ×1 · ch 349 ×3 · ch 350 ×1 · ch 351 ×1 · ch 352 ×3 · ch 353 ×1 · ch 354 ×4 · ch 359 ×2 · ch 360 ×1. Recast forms now in use: *by itself* (a furnace that lights itself), *not one person*, *no one*, *not a living soul*, *there was not a living thing within half a mile*. **The six that remain are each load-bearing and none is an intensifier** — ch 346's is the batch's first full statement of the structural answer in a worker's mouth, ch 351 ×2 are a woman alone in the dark and a warning nobody can give, ch 358's is the sentence about having no one else on nine days of road who could say anything, ch 359's is the plain part about there being nobody to tell, and ch 360's is *she had said so to nobody and she had never had to* |
 | **The Yuan tag** *He said one thing that night and it was present tense and it bought nothing* | **0 verbatim. No lead-in of any shape stands before any of his speech anywhere in the batch**, including the refusal at ch 355. Ch 347's *he bought nothing and asked nothing* is the Hunter in his own chapter and is not the tag |
 | ***Under her, …:*** — the one-breath speech lead-in, as a whole family | **0.** `grep -E "under her,"` returns **zero** across the fifteen files |
 | ***About as long as it takes to count eleven* / the eleven-counts measure** | **1**, at ch 351 (*about as long as it takes to count nine*), **not a declaration**. Two were written — ch 351 and ch 359 — and the ch 359 one was recast. `grep` for *count eleven* and *eleven counts* returns zero |
@@ -5977,17 +5992,18 @@ because a budget that only ever reports clean is not a budget.**
 | **Harem, romance** | **None.** Wei Ran is off the page in this batch, as `outline/volume-06.md` has her between Batches 0001 and 0004 |
 | **Bold** | **0.** `grep` for `**` returns zero across the fifteen files. **Italic zero spans** — the batch runs on plain paragraphs and plain section headings |
 | **Markdown** | **0** blockquotes, code fences, tables and horizontal rules across the fifteen files. Title heading and `##` section headings only |
+| **All-caps standalone lines** | **0, down from five.** The review found that ch 348, 355, 356 ×2 and 358 set written matter as bare capital lines standing on their own, which reads as a System panel — and **two of the five were the book's ordinary hand, not the fine hand**: ch 356's was her own refusal written out with the flat of her own finger, and ch 358's was the counter clerk writing in the ordinary hand. This volume spends six brackets in sixty-two chapters on stages only. **All five are now sentence case inside curly quotation marks**, and each is carried by the hand it is in, named in the sentence around it |
 | **Quotes** | **Every speech closed in all fifteen files** (`text.count('“') == text.count('”')` in every file); **0 straight apostrophes and 0 straight double quotes.** The first draft was written with straight quotes in nine of the fifteen files and swept to the curly form before the batch was saved |
-| **Paragraphs** | **Longest paragraph in the batch is 89 words.** **No paragraph over 90 and none over 120.** Eleven paragraphs were written between 90 and 107 words and all eleven were split at a natural beat |
-| **Duplicated paragraphs** | **0 substantive.** A paragraph-level exact-duplicate scan at eight words and above returns **one pair, and it is a section heading** (*What She Did With The Rest Of The Day*, ch 348 and ch 354). **Three duplicated prose paragraphs were written and cut before the batch was saved** — the *What She Wanted From Him* paragraph at ch 347, which the same chapter's new section repeated verbatim; the *What She Had Asked For* pair at ch 351, where a heading and two paragraphs were duplicated by an insertion; and the *What She Did With The Rest Of The Day* pair at ch 354, where the paragraph before the heading said the same three sentences as the first one after it. **Six duplicated section headings across the batch** (*What She Said*, *What He Said*, *The Plain Part*, *What She Wanted*, *What It Took*, *What She Said Back*) are labels and not prose, and *The Plain Part* is a standing label of the volume used at ch 352, 355 and 358 |
-| **Length** | **21,025 words of body prose over fifteen chapters, average ~1,402.** Per file: 346 1,355 · 347 1,325 · 348 1,359 · 349 1,339 · 350 1,486 · 351 1,316 · 352 1,322 · 353 1,489 · 354 1,375 · 355 1,354 · 356 1,407 · 357 1,673 · 358 1,463 · 359 1,386 · 360 1,376. **None under the 1,300 floor and none above the 2,700 guide.** Eight chapters were written under the floor at 785–1,024 body words and were brought over it by adding scene inside the existing cards — the gate morning and the ten-week arithmetic at ch 346, the Hunter's day and the car at ch 347, the first day on the footing at ch 348, the middle bank on its first day and the box at ch 349, the four lines read from the bottom up and the walk east to the crest at ch 350, the ditch line and the morning after at ch 351, the store and the two afternoons at ch 353, and the fourth hour and the two days after at ch 354. **Counts are body prose only, `#` titles and `##` headings excluded** |
-| **Titles** | All fifteen unique against all 345 existing headings and against each other; **360 `#` headings across the manuscript, zero collisions** |
+| **Paragraphs** | **Longest paragraph in the batch is 89 words.** **No paragraph over 90 and none over 120.** Eleven paragraphs were written between 90 and 107 words and all eleven were split at a natural beat; **one more (ch 349's opening, 91 words) was split at the repair** |
+| **Duplicated paragraphs** | **0 substantive.** A paragraph-level exact-duplicate scan at eight words and above returns **one pair, and it is a section heading** (*What She Did With The Rest Of The Day*, ch 348 and ch 354). **Three duplicated prose paragraphs were written and cut before the batch was saved** — the *What She Wanted From Him* paragraph at ch 347, which the same chapter's new section repeated verbatim; the *What She Had Asked For* pair at ch 351, where a heading and two paragraphs were duplicated by an insertion; and the *What She Did With The Rest Of The Day* pair at ch 354, where the paragraph before the heading said the same three sentences as the first one after it. **Six duplicated section headings across the batch** (*What She Said*, *What He Said*, *The Plain Part*, *What She Wanted*, *What It Took*, *What She Said Back*) are labels and not prose, and *The Plain Part* is a standing label of the volume used at ch 352, 355 and 358. **The exact-match scan was not sufficient and did not say so.** The repair found that ch 348 **narrated its first day on the footing twice inside one chapter** — the same hour, the same five feet in, the same lost hour of thinking, the same eleven trips up the low side, about 150 words apart — which no exact-match scan can see, and **ch 348's heading has changed with it**: *What She Did With The Rest Of The Day* is now *The Seventeenth, And The Low Side*, because the second pass is the **third day** and not a restatement of the first. A fuzzy set-overlap scan at 0.42 now returns **no chapter-to-itself pair**, and the worst surviving cross-chapter overlap is **0.50**, between ch 346's and ch 351's flat-stone sentences, which are the same beat in the same book and are supposed to rhyme |
+| **Length** | **21,479 words of body prose over fifteen chapters, average ~1,432.** Per file: 346 1,361 · 347 1,326 · 348 1,403 · 349 1,354 · 350 1,501 · 351 1,322 · 352 1,326 · 353 1,507 · 354 1,385 · 355 1,393 · 356 1,455 · 357 1,696 · 358 1,533 · 359 1,391 · 360 1,526. **None under the 1,300 floor and none above the 2,700 guide.** Eight chapters were written under the floor at 785–1,024 body words and were brought over it by adding scene inside the existing cards — the gate morning and the ten-week arithmetic at ch 346, the Hunter's day and the car at ch 347, the first day on the footing at ch 348, the middle bank on its first day and the box at ch 349, the four lines read from the bottom up and the walk east to the crest at ch 350, the ditch line and the morning after at ch 351, the store and the two afternoons at ch 353, and the fourth hour and the two days after at ch 354. **Counts are body prose only, `#` titles and `##` headings excluded** |
+| **Titles** | All fifteen unique against all 345 existing headings and against each other; **360 `#` headings across the manuscript, zero collisions.** **No chapter title changed at the repair.** Three section headings are new: *The Seventeenth, And The Low Side* (ch 348), *The Word At The Head Of It* and *The Date On It* (ch 360) |
 | **Tribulation / suppression arithmetic** | **0 / 0.** Merit does not settle in this batch |
 | *Kiln-born*, Anchor, Sisterhood, Lung, appointment, MEMBER ABSENT, sponsor, Shen Xiu, Scribe, reconciled, erased, base went out, could not account, licence, license, plate, Ledger, Wei Ran, Ning Wu, Feng, Bai Zhu, wei | **Zero on the page of this batch**, all measured by `grep -i`. **The Hunter is never named in the batch** — he is *he* and *the man with the notebook* throughout, as Batch 0003 did |
 | ***Vouch*** | **4, all of them at ch 357.** Batch 0003's budget recorded `vouch` at zero because the second vouching was not re-vouched anywhere and was spoken about only as the second office and as an account. **Ch 357 is the card the word belongs to** — the finding *that* the second vouching was copied upward — and `vouch` appears three times in the plain-part section and once at the finding itself. **It is an intentional count and it is the only word in this batch's zero list that is not zero, and it is recorded here rather than hidden** |
-| **`sending`** | **7**, all of them the ordinary noun for the paper or the act — ch 348 ×1, 355 ×2, 356 ×1, 358 ×2 (one of which is the heading's subject stated on the page), 359 ×0. **`sending` is not in this batch's zero list and is the word the card uses** |
-| **`sent for`** | **2, at ch 355**, both inside his own speech about a second holder, and both about a *possible* future, not about him. **Zero in every other chapter**, and **Yuan's own condition since ch 338 is neither resolved nor spoken of anywhere in the batch** |
-| **Yuan's sentences** | **Three utterances in fourteen chapters outside ch 355 — ch 348 (two sentences), ch 351 (two sentences), ch 356 (two sentences).** Six sentences in sixteen chapters against the card's ceiling of eight. **Ch 355 carries the refusal and as many sentences as it needs: thirteen across the chapter, every one present tense, in his own words, and none of them buying, advising, explaining or advancing anything.** **Nothing at ch 346, 347, 349, 350, 352, 353, 354, 357, 358, 359 or 360.** Ch 360 carries none, because nothing is said when the reach happens |
+| **`sending`** | **0. The earlier record of 7 was wrong and is corrected here.** `grep -oi sending` returns **zero** across the fifteen files, before the repair and after it. **The first version of this row counted the substring inside *send*, *sent* and *sends* and reported a number that was not on the page** — which is the exact failure the card forbids, in the other direction: a budget that records a count where there is none. `sending` is not in this batch's zero list and it is not present, and the refusal itself is ch 358's whole subject |
+| **`send for` / `sent for`** | **`send for`: 1, at ch 355**, inside his own speech about a second holder and about a *possible* future, not about him. **`sent for`: 0.** The earlier record said *sent for: 2*; the page says *send for* once and *sent for* not at all, and the row now carries the strings that are actually there. **Zero in every other chapter**, and **Yuan's own condition since ch 338 is neither resolved nor spoken of anywhere in the batch** |
+| **Yuan's sentences** | **Three utterances in fourteen chapters outside ch 355 — ch 348 (two sentences), ch 351 (two sentences), ch 356 (two sentences).** Six sentences in fifteen chapters against the card's ceiling of eight. **The repair moved one clause inside ch 351's speech** — the sixth item in his list of six stages — and added no sentence and took none away. **Ch 355 carries the refusal and as many sentences as it needs: thirteen across the chapter, every one present tense, in his own words, and none of them buying, advising, explaining or advancing anything.** **Nothing at ch 346, 347, 349, 350, 352, 353, 354, 357, 358, 359 or 360.** Ch 360 carries none, because nothing is said when the reach happens |
 
 **Fourteen faults were found by measurement while drafting and all fourteen were cut before the batch was saved, and
 they are recorded here because that is the only honest way to run a budget:** one instance of the retired *about four
@@ -6012,3 +6028,155 @@ of road that weighed anything until a footing came off a board about eight days 
 both have her carrying four dressed pieces under one arm up a bank of four feet five hundred times, and the longer
 sentence would have contradicted them. **The underlying fact stands and is not repaired: the last time she worked a
 middle bank proper was a bank nine days west in Volume 5, and nothing on this ground has weighed anything since.**
+
+---
+
+## Volume 6 Batch 0004 — REVIEW REPAIR (applied after `logs/volume-06-batch-0004.review.log`)
+
+**Eighteen findings, eight of them must-fix. Every one is applied. No beat, day-table position, title, turn,
+midpoint, climax, irreversible decision, bracket, stage or planned event moved, and no chapter before
+`chapters/volume-06/chapter-0345.md` was opened. The review's own *what passes* list was not re-litigated: two
+brackets, closed speech in all fifteen files, zero markdown violations, zero bold or italic, 360 unique titles and
+all fifteen original word counts were confirmed and re-measured after the repair.**
+
+### The eight must-fix findings
+
+1. **Ch 348 narrated one day twice.** *The First Day On The Footing* ran the seventh hour, five feet in, the lost
+   hour of thinking and eleven trips up the low side; *What She Did With The Rest Of The Day* then ran the same
+   hours again about 150 words later. **The exact-duplicate scan could not see it because the two passes are not
+   identical** — which is why the batch's recorded *0 substantive duplicates* was true and useless. **The second
+   section is now the seventeenth and is a different day:** the face off and piled at the bottom for two days, and
+   what was left being the other half of the job, which is putting the stone back. **The heading changed with it** to
+   *The Seventeenth, And The Low Side*. The first pass, the hour she lost, and the eleven trips are untouched.
+2. **Ch 348 gave away Golden Core 8.** *A bar that took two hands* appeared on the fifteenth, eight chapters before
+   the stage that costs it and in the one chapter that says out loud she would not get there. **Now *a bar in one
+   hand*,** which is what a body at Golden Core 7 has and what ch 349 and ch 352 both rely on.
+3. **Ch 358's deadline was the wrong day.** The opening said *the thirtieth of a month was two days off* on the
+   twenty-sixth; the chapter then says the twenty-eighth three more times, and the twenty-eighth is the batch's
+   pinned deadline and the date on the strip. **Now the twenty-eighth.**
+4. **Ch 358 put her in a room she has never been in.** *She had been in a room with two shut doors about three weeks
+   ago and had been told what the room looked like by the only person who has ever been in one* — she has never been
+   in that room, the refusal exists **because** she cannot produce him, ch 347 has her standing eleven feet off a man
+   in a wet field, and the Hunter describes four rooms on ground he has been in, so *the only person who has ever been
+   in one* is false. **Now:** ten weeks at her ribs for the fourth line, and six weeks ago eleven feet off a man
+   with a notebook in ten inches of wet grass, told of four rooms and two that shut, and not told what one looked
+   like and **not able to ask**. Day 776 to day 819 is six weeks and not three.
+5. **Ch 358's duration was ch 360's figure.** *Thirteen weeks* for carrying the strip is right at day 845 and wrong
+   at day 819, where the strip came down on day 750. **Now ten weeks.** ch 355 and ch 356 keep their six weeks.
+6. **Ch 354's last line was wrong under every reading.** *Twenty-nine days to the next one* — ch 354 ends on day 795
+   and the next stage is day 818. **Now twenty-three**, and it no longer contradicts ch 357's own *Thirty-two days.
+   Not thirty-seven* sitting under the twenty-eighth paragraph.
+7. **Ch 349 broke the point of view and pre-announced ch 352.** *She did not know that yet and would find it out on
+   the twenty-third of a month on open ground with the bar lying on the grass* is close third narrating what the POV
+   character does not know, three chapters early, in the one chapter whose subject is not knowing. **Now:** the
+   footing is two days on a board going bare inside two months, and what she knew on the crest was only the pleasure
+   and a bad feeling about the pleasure. **The cost of the bar is no longer foreshadowed anywhere.**
+8. **Five all-caps standalone lines read as System panels**, and **two of them were the book's ordinary hand, not
+   the fine hand** — ch 356's was her own refusal written out with the flat of her own finger, and ch 358's was the
+   clerk's margin entry in the ordinary hand. This volume spends six brackets in sixty-two chapters on stages only.
+   **All five are sentence case inside curly quotation marks** — ch 348's fourth line, ch 355's fifth line, ch 356's
+   three written lines and the head of the sheet on the top step, and ch 358's margin entry — and each is now
+   carried by the hand it is in, named in the sentence around it. **Two bracketed layer lines remain and no more.**
+
+### The ten should-fix findings
+
+9. **The structural answer arrived as four near-identical speeches** (ch 346, 350, 353, 357; fuzzy overlap 0.43–0.68).
+   Four mouths is right and four copies of one paragraph is not. **All four now say something different.** ch 346
+   keeps the fullest version and the *nobody east of here has ever needed one thing out of it*, as the first statement
+   in a worker's mouth. **ch 350's listing man** talks about his board and his gateway — *it was there before this
+   yard had a board · men go out on it in the morning and their families eat off it · not one line of work has ever
+   come in off it to this yard*. **ch 353's carter** keeps the paid-by-the-day line and replaces the closer with *in
+   nineteen years I have watched that road from this side and not one of them has ever come off it with anything in
+   his hands*. **ch 357's man with the brush** replaces the traffic-of-the-line clause with the thing only he knows —
+   what is on it is paid for by the day out of a place he has never seen, and **every month-end the ordinary traffic
+   of it comes past his floor on a cart and is read against other things**, which sets up his own finding two
+   sections later. **Worst surviving cross-chapter overlap in the batch is 0.50**, between two flat-stone sentences
+   that are the same beat in the same book.
+10. **The middle-bank method was explained twice**, ch 349 in full and again at ch 352, and once more inside ch 349
+    itself. **ch 349's explanation now states the rule and its first-day scene shows it** — the two passages that
+    repeated each other word for word are split, and a short physical beat was added (the gully coming out flat four
+    feet down, three pieces lifted at the wrong angle in two days, three quarters of an hour to take the third out a
+    foot further along). **ch 352 now carries only the deduction it needs**: four words she cannot get past, one hand
+    on the bar and one hand on the stone, and she does not have two hands.
+11. **Ch 352 and ch 357 framed their stages in near-identical sentences** (overlap 0.70). **ch 352 keeps the full
+    frame** — *the seven before it*, the sound going into the ground, the dog a mile off. **ch 357 is recast**: it
+    came the way it always came, out of the ground she was standing on and not out of her, and it said it once and
+    gave her nothing to read and nothing to do about it.
+12. **Ch 357 named the wrong anchor for its own arithmetic.** It opened *Golden Core seven had been on the sixteenth
+    of a month two months back · Thirty-two days* — thirty-two is Golden Core 8 to Golden Core 9, and Golden Core 7 to
+    Golden Core 9 is sixty-nine, so a reader doing the chapter's own sum got a contradiction. **Now *Golden Core eight
+    had been on the twenty-third of a month a month back*,** which is day 786, and 818 − 786 is thirty-two, and
+    *Not thirty-seven* is the Golden Core 7 to Golden Core 8 interval it is contrasting against.
+13. **Three stage-counting bases in three consecutive chapters.** ch 353's absolute run — five stages, six stages, the
+    seventh took the bar — was right and ch 351's list of six stages named only five things. **ch 351's speech now
+    carries six items**, ending *and then the heavy end*, which is what ch 353 attributes to the sixth. All four
+    chapters now run the same frame: ch 352's *the seven before it*, ch 357's *the way it always came*, ch 353's
+    five/six/seventh, ch 351's the last six. **No stage count moved.**
+14. **A narrator absolute eight chapters before the reach.** ch 352's *It will be like that for the rest of her life*
+    hands ch 360 its ending. **Now past tense and unarguable:** *She could not argue with the shape of it. The bar
+    she had learned to carry one-handed … had asked her for two hands on the fourth hour of a morning on open
+    ground, and she did not have two hands, and the heavy end was not coming back.* ch 352's own next line,
+    *and it is closed for good*, was already the safer register and is untouched.
+15. **Nascent Soul never appeared on the page**, and ch 357's cost being *nothing went* meant two consecutive stages
+    landed with no name and no visible cost. **ch 360 now carries a section called *The Word At The Head Of It*:** the
+    fine hand put a word at the head of those four or five lines and she cannot read a letter of it, and she knows
+    the word — *the one after Golden Core, Nascent Soul, the fifth*, a name she has known since before she could count
+    to nine — and she went into it three days ago on a bank behind a mill with four men two hundred yards off and
+    nothing said out loud. **It is a name on a page, not a panel. The bracket count is unchanged at two and ch 360
+    still carries none, and the silence when it happened is unbroken.**
+16. **Two relative-date expressions were mangled.** ch 350's *since the eighth of the ninth of the month before last*
+    reads as two days and named none; **now *for about a month*.** ch 348's *since the first of the month a fortnight
+    before the twenty-second of the month before* named three dates and meant one; **now *the first of the month
+    before last*.**
+17. **Nobody had become the batch's default intensifier** — 27 instances, while all seven exact banned phrases stayed
+    at zero, so the letter of the budget held and the effect did not. **Down to 6**, twenty-one recast across ten
+    chapters: *by itself* where a furnace lights itself, *not one person*, *no one*, *not a living soul*, *not a living
+    thing within half a mile*. **The six that remain are each load-bearing** — ch 346's is the structural answer in
+    its first and fullest form, ch 351's two are a woman alone in the dark and a warning there is nobody to give, and
+    ch 358, 359 and 360's are about there being nobody to tell.
+18. **Minor date slips, all in the class the review named.** ch 359's *nine days after the first cart had gone up* is
+    **eight days** — day 824 to day 832. ch 346 carried no date on the page and now opens on **the eleventh**;
+    ch 349 carried none and now carries **the eighteenth** in its opening and its first-day beat. **Four more slips of
+    the same class were found while fixing these and are fixed with them:** ch 354's *eleven days ago* on a bank is
+    **eight**; ch 354's *wrong about the sixth stage* is the **seventh**, which is the stage that took the bar;
+    ch 356's *the eleventh of the month before last* is **the month last**; and ch 355's *about four weeks* before the
+    twenty-eighth is **about three weeks**. Two adjacent intervals were tightened with them: ch 355's
+    *three weeks before that a man had refused* became *in the three weeks before it*, which is the same twenty-two
+    days and not a second twenty-one; and ch 359's *a refusal she gave at a counter nine days ago* is **a fortnight
+    ago**.
+
+### One false figure the review could not reach
+
+**The batch's construction budget recorded `sending: 7` and it is 0.** The row counted the substring inside *send*,
+*sent* and *sends*. The same row recorded `sent for: 2` where the page has **send for: 1 and sent for: 0**. Both rows
+are corrected in the table above. **This is the failure the card forbids in the direction nobody watches for**: the
+card says no budget may record zero while instances stand on the page, and a budget that records seven where there
+are none is the same lie with the sign flipped.
+
+### Re-measured after the repairs
+
+**21,479 words of body prose over fifteen chapters, average ~1,432**, none under the 1,300 floor and none above the
+2,700 guide. **Volume 6 file set: 94,946 words of body prose over sixty-two chapters.** **Exactly two bracketed
+layer lines**, at ch 352 and ch 357, character for character as pinned; zero in the other thirteen. **Every speech
+closed in all fifteen files, zero straight apostrophes and zero straight double quotes** (one straight apostrophe
+was introduced in a ch 356 repair sentence and was swept before the batch was saved again). **Zero** blockquotes,
+code fences, tables, horizontal rules, bold and italic spans. **Zero** all-caps standalone lines. **Zero** hits on
+authorial scaffolding, *about four seconds*, *eleven weeks*, the seven banned phrases, generic web prose, the
+retired zero-list terms, and the batch's zero-list vocabulary. **`nobody`: 6**, down from 27, each load-bearing.
+**Longest paragraph in the batch is 89 words**, none over ninety. **No chapter-to-itself duplicate pair** under the
+fuzzy scan; worst surviving cross-chapter overlap 0.50, which is two sentences that are supposed to rhyme.
+**360 `#` headings across the manuscript, zero collisions, and no chapter title changed.** Month-day arithmetic
+re-derived for every pinned day under `((day − 134) mod 30) + 1`: **786 is the 23rd, 818 the 25th, 845 the 22nd**,
+unchanged, and every repaired relative interval in this batch now agrees with the day table.
+
+### Recorded and not repaired
+
+- **`She took her hand off.`** stands as a five-word paragraph at ch 359 and again at ch 360, and the exact-match scan
+  at eight words could not see it. **It was left alone.** One is her hand coming off the cover of her own book in a
+  building a mile up a road and the other is her hand coming off a stone on a bank in a field, and the echo is
+  deliberate: the same gesture, the same woman, nine days of road from anything that would have written either down.
+- **ch 346's opening still carries six lines and five more to come**, while the same chapter's board shows four, and
+  ch 350 later reads four. **Left alone.** It was true when written and it is a *yard's* arithmetic given by a
+  narrator-adjacent register in the first two hundred words of the batch; correcting it means choosing which of three
+  numbers the writer meant, and no downstream beat, date or payment turns on it. **Written down so the next reader
+  does not have to find it again.**

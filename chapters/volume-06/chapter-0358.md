@@ -1,6 +1,6 @@
 # She Says No At The Counter
 
-The thirtieth of a month was two days off and the book on the counter had a page fanned open in it about two inches from the back, and she stood on the side of it she could reach with a whole hand on the twenty-sixth at about the ninth hour with about nine men in the room and a stove at the back and the strip folded in three against her ribs.
+The twenty-eighth of a month was two days off and the book on the counter had a page fanned open in it about two inches from the back, and she stood on the side of it she could reach with a whole hand on the twenty-sixth at about the ninth hour with about nine men in the room and a stove at the back and the strip folded in three against her ribs.
 
 The man behind the counter turned it a quarter round so she could see where her name was.
 
@@ -36,13 +36,13 @@ She had said it in the ordinary voice at the ninth hour of the twenty-sixth of a
 
 A holding is what a column leans on so it does not drift. Every book on nine days of road had one for every column in it and every one of them was one name and not two.
 
-She had refused the only thing in three weeks that would have made it survivable, and three weeks before that a man had refused the same arrangement at the other end of it, out loud, in his own words, on the boards of a shed at the second hour of the fourth of a month, and had not been asked for anything for it.
+She had refused the only thing in three weeks that would have made it survivable, and in the three weeks before it a man had refused the same arrangement at the other end of it, out loud, in his own words, on the boards of a shed at the second hour of the fourth of a month, and had not been asked for anything for it.
 
 And now there was one name on a line in a book nine days of road away, and the name could not be produced, and the doors of the room shut on the twenty-eighth at some hour she was never going to be told.
 
 ## Why She Went Up There
 
-She had been carrying that fourth line at her own ribs for thirteen weeks and she had been in a room with two shut doors about three weeks ago and had been told what the room looked like by the only person who has ever been in one.
+She had been carrying that fourth line at her own ribs for ten weeks, and six weeks ago she had stood eleven feet off a man with a notebook in ten inches of wet grass and been told that there were four rooms on the ground he had been in and two of them shut on the last day of a month, and had not been told what one of them looked like and had not been able to ask.
 
 And there was a date on it, and the date was two days off, and she had been going up that road to say no to somebody whether it was the right thing to do or not, and she would have gone up there if the board at the works had had four lines on it and there had been a season coming.
 
@@ -54,7 +54,9 @@ She had not gone up there to protect the line. She had gone up there because the
 
 He put the pen down flat and looked at it for a moment and then picked it up and wrote at the left of the page in the margin, against the day, in the ordinary hand.
 
-NING YAN, OF LOWWATER. THE HOLDER IS NOT PRESENTED. REFUSED AT THE COUNTER. THE TWENTY-SIXTH.
+“Ning Yan, of Lowwater. The holder is not presented. Refused at the counter. The twenty-sixth.”
+
+Fifteen words, and he read them back to himself once without saying them out loud before he put the pen down, because that is what a man does with a thing he has just made permanent.
 
 He did not write why. He said out loud that he was not going to write why, because the man behind a counter does not write down what a person says about a thing he cannot see, and because a reason written in a margin is a thing that gets read out to a room.
 

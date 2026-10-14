@@ -8,7 +8,9 @@ And four lines at the foot of it, which she had read about forty times and had n
 
 She turned it round and put her finger on the fourth one.
 
-THE DOORS OF THAT ROOM SHUT ON THE TWENTY-EIGHTH OF A MONTH.
+“The doors of that room shut on the twenty-eighth of a month.”
+
+It was the only one of the four she had never once been able to read, and she had been putting her finger on it for a month without getting a single thing out of it that she had not got the first time.
 
 ## Which Twenty-Eighth
 
@@ -18,7 +20,7 @@ The strip had come down on the seventeenth of a month, which is four weeks back.
 
 And so the next one was this one.
 
-She counted it on the flat of her second finger against the door frame the way she wrote every line she had ever written, and the flat of that finger told her nothing about the number because it had not told her anything since the first of the month a fortnight before the twenty-second of the month before.
+She counted it on the flat of her second finger against the door frame the way she wrote every line she had ever written, and the flat of that finger told her nothing about the number because it had not told her anything since the first of the month before last.
 
 She had thirteen days.
 
@@ -30,7 +32,7 @@ That was the whole of it and it was not a thing she could argue with or work out
 
 She had never been west of that road. She had stood at the bottom of a stair in it for nine seconds once and had not gone up it, and the stair above the floor over the counter went on out of the light and she had looked at it and never taken it.
 
-Nine days there and nine days back, on bread, at four fingers, with a bar that took two hands and a body with a third of a reach left in it.
+Nine days there and nine days back, on bread, at four fingers, with a bar in one hand and a body with a third of a reach left in it.
 
 And at the end of the nine days a room she could not name, in which a man would be produced or not produced, and the whole of what she would have for it would be the ordinary knowledge of what a holding is.
 
@@ -62,16 +64,16 @@ He took about a minute.
 
 He did not say anything else and he did not offer to carry it for her and he did not ask her what she was going to do.
 
-## What She Did With The Rest Of The Day
+## The Seventeenth, And The Low Side
 
-She went out at the sixth hour and took the bar and walked three miles east to the far gully and stood on the high side of the cut and looked down into it for about ten minutes without going in.
+She went out at the sixth hour on the seventeenth and took the bar and walked three miles east to the far gully and stood on the high side of the cut and looked down into it for about ten minutes without going in.
 
-The cut was four feet deep. The bank on the low side was about eleven feet of stone and the stone at the top of it was the heavy stone, and there was about two days on the board for it and a box at the end of it, and it was the last thing on nine days of road that anybody was going to pay her by what it weighed.
+The cut was four feet deep. The bank on the low side was about eleven feet of stone and the stone at the top of it was the heavy stone, and there was about two days on the board left for it and a box at the end of it, and it was the last thing on nine days of road that anybody was going to pay her by what it weighed.
 
-She went down into it at the seventh hour and got about five feet in on the first day and lost about an hour of it standing in the bottom working out that she was going to have to move stone to put stone back, which was the one thing a footing is.
+For two days she had been taking the face off and piling it at the bottom of the cut, and what was left to her now was the other half of the job, which was putting the stone back where it had come out of, and the face would not stand up without that whatever else happened.
 
 She had eight holds in her left hand and four fingers and a thumb on her right, and the right arm was open about half of the time and had been for four years, and the bar in her left hand and a dressed piece under her right arm was the arrangement she had carried about nine hundred times.
 
 It was still good. She went up the low side eleven times before the light went and it was still good, and her breath went to five at the third count going up and came back to four with the load set down on the crest, and it did that every one of the eleven times.
 
-That was the whole of what she had, and it was thirteen days old and going.
+That was the whole of what she had, and it was a month old and going.

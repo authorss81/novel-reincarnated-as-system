@@ -29,10 +29,21 @@ of the volume, day 848***, `state/open-threads.md` in full, `state/chapter-summa
 `state/book-metadata.md`, and chapters **346–360**. Extend to 330–345, and then to 314–329, if the verified
 context budget safely allows.
 
-**Batch 0004 has been written and has NOT been through review.** If a chapter in 346–360 contradicts
-`workspace/volume-06-batch-0004/PROMPT.md`, the chapter wins and the prompt is wrong; record it. **Batches
-0001, 0002 and 0003 have each been reviewed and repaired** and their repair records are in `state/continuity.md`;
-read those records rather than the review logs.
+**All four batches have now been reviewed and repaired, Batch 0004 included.** If a chapter in 346–360 contradicts
+`workspace/volume-06-batch-0004/PROMPT.md`, the chapter wins and the prompt is wrong; record it. **Read the four
+repair records in `state/continuity.md` rather than the review logs** — *Volume 6 Batch 0001 — REVIEW REPAIR*, *Volume
+6 Batch 0002 (ch 314–329) — REVIEW REPAIR*, *Volume 6 Batch 0003 — REVIEW REPAIR* and *Volume 6 Batch 0004 (ch
+346–360) — REVIEW REPAIR*.
+
+**Batch 0004's repair moved eighteen things and the audit must see the repaired text, not the text
+`logs/volume-06-batch-0004.review.log` read.** In particular: **ch 348 no longer narrates one day twice** and its
+closing section is now the seventeenth and the low side · **ch 348's bar is one hand, not two** · **ch 352 no longer
+says the two-hand bar will hold for the rest of her life** · **ch 354 closes on twenty-three days** · **ch 357 names
+Golden Core eight as its own anchor for thirty-two days** · **ch 358's deadline is the twenty-eighth and she has
+never been in the room she refuses to be sent to** · **ch 359's ninth is eight days after the first cart** ·
+***Nascent Soul* is on the page for the first time in the manuscript, at ch 360, as a word at the head of an entry
+she cannot read** — which is the power-progression row to check, and it is a name on a page and not a third
+bracket. **Word counts are 21,479 for the batch and 94,946 for the volume.**
 
 ## The audit
 

@@ -54,7 +54,7 @@ One copper a day is five coppers in seven days and bread at two a day is fourtee
 
 ## What She Still Had
 
-The ring in the shed at the mill was lit and had been lit for a fortnight by nobody, and there was about a box and a half of clay in the corner of that shed behind it, and the clay was worth three coppers a third of a sack, and the box and a half was about two days of the ring.
+The ring in the shed at the mill was lit and had been lit for a fortnight by itself, and there was about a box and a half of clay in the corner of that shed behind it, and the clay was worth three coppers a third of a sack, and the box and a half was about two days of the ring.
 
 The three lines still on the board at the works were cut and ditch and head, and all three of them were measured by length, and she could take all three of them, and she would be paid by what the job was made of, which for a ditch line is the clay out of it.
 
@@ -86,7 +86,7 @@ He had been doing this run for nineteen years and he had done it about four hund
 
 He got the shafts down.
 
-“Men go out on it and come back. They are paid by the day. Their families are on it. Nobody out here has ever needed one thing off it.”
+“Men go out on it and come back. They are paid by the day and their families are on it, and in nineteen years I have watched that road from this side and not one of them has ever come off it with anything in his hands.”
 
 He turned the cart about on the flat.
 

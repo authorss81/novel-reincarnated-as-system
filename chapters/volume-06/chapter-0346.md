@@ -1,6 +1,6 @@
 # The Lines On The Wall
 
-The board was on the wall inside the gate at the works and she read it at about the seventh hour with the bar across her knees and the gateway behind her still wet through from the night.
+The board was on the wall inside the gate at the works and she read it at about the seventh hour on the eleventh of a month with the bar across her knees and the gateway behind her still wet through from the night.
 
 Four lines.
 
@@ -68,7 +68,7 @@ And in about two months the board would be bare and there would be nothing on it
 
 She walked back west in the last of the light with the bar over her shoulder and the line inside her coat and the gate three miles off in the other direction.
 
-A third of a reach is one and a half coppers and a third of a sack of clay is three coppers and the ring in the shed at the mill was lit and had been lit for eleven days by nobody, and she had been buying the clay with her own hand out of a reach she could no longer open the whole of, and in four days there would be nothing left in the corner of that shed but the shape of what she had carried in.
+A third of a reach is one and a half coppers and a third of a sack of clay is three coppers and the ring in the shed at the mill was lit and had been lit for eleven days by itself, and she had been buying the clay with her own hand out of a reach she could no longer open the whole of, and in four days there would be nothing left in the corner of that shed but the shape of what she had carried in.
 
 She wanted one thing out of the two months, and she told herself it in the ordinary voice at the fourth hour with her palm flat on the flat stone by the door.
 

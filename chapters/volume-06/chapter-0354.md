@@ -1,6 +1,6 @@
 # Nothing Came Down The Road
 
-She got up at the fourth hour on the twenty-eighth of a month out of the habit of a woman who had been doing it for five months, and she was in the yard with the bar in her left hand in the dark, and the ring was up against the brick in the corner of the shed with nobody in it and nobody near it.
+She got up at the fourth hour on the twenty-eighth of a month out of the habit of a woman who had been doing it for five months, and she was in the yard with the bar in her left hand in the dark, and the ring was up against the brick in the corner of the shed with no one in it and no one near it.
 
 She stood in the middle of that yard and let the cold come off the flat and go through her coat.
 
@@ -30,7 +30,7 @@ Nothing came down the mill road. That was not a thing anybody could see from a b
 
 That was the whole of what the twenty-eighth was.
 
-A date on a strip about as wide as a hand, in a hand she could not read, in a room nine days of road east of a post, and nobody in the world had to tell her anything about it, and nothing had come down a road to tell her anything about it, and she was the only person on nine days of road for whom that day had been anything at all.
+A date on a strip about as wide as a hand, in a hand she could not read, in a room nine days of road east of a post, and not one person in the world had to tell her anything about it, and nothing had come down a road to tell her anything about it, and she was the only person on nine days of road for whom that day had been anything at all.
 
 ## The Two Days After
 
@@ -40,7 +40,7 @@ She went in at the seventh and worked a fifth of a reach and got one copper and 
 
 There was a thing she had started doing a week before, which was to walk three miles to look at a board, and she had never once noticed herself doing it until the second of those two days, and she noticed it on the second, and she did not stop it, because a woman with no wages and a board three weeks from bare has a right to walk three miles.
 
-She had a right to walk nine days of road. She had worked that out eleven days ago on a bank and had not liked it.
+She had a right to walk nine days of road. She had worked that out eight days ago on a bank and had not liked it.
 
 ## What She Worked Out Sitting On A Bank
 
@@ -54,7 +54,7 @@ She had been carrying a date for four weeks and she had thought, somewhere witho
 
 It was not the same at all. She was on time in exactly one place, which was on this ground, and the date was not about this ground.
 
-She got up at the fourth hour out of the habit of a woman who had been doing it for five months and a half, and there was a fire in the corner of the shed that had been lit by nobody for a fortnight, and she lay on the boards for about twenty minutes looking at it and then got up and went out into the dark in a coat over nothing.
+She got up at the fourth hour out of the habit of a woman who had been doing it for five months and a half, and there was a fire in the corner of the shed that had been lit by itself for a fortnight, and she lay on the boards for about twenty minutes looking at it and then got up and went out into the dark in a coat over nothing.
 
 That was the twenty-eighth, and she had wanted the day to be something, and it turned out to be the same shape as every other day on nine days of road with one copper in the fold in the inside of a door frame.
 
@@ -74,10 +74,10 @@ She was eighteen years old and she had gone out of a bound nine days behind her 
 
 And underneath that, on the boards, at the ninth hour, there was a second want and it was a worse one and she let it up.
 
-She wanted to be wrong about the sixth stage. She wanted to go out past the last hedge at the fourth hour of the twenty-third with the bar on the grass and be told, by the same thing that said it in the far-side house form, that it had not taken the bar.
+She wanted to be wrong about the seventh stage. She wanted to go out past the last hedge at the fourth hour of the twenty-third with the bar on the grass and be told, by the same thing that said it in the far-side house form, that it had not taken the bar.
 
-There was nobody to say it and there was nothing to say it with and she had asked for the stage herself on open ground in daylight at her own order, and she lay there on the boards with the ring burning nine feet off her and understood that the whole of what she had bought in four years was the right to stand on a piece of ground and be the one who decides.
+There was not one person on that ground who could say it and there was nothing to say it with, and she had asked for the stage herself on open ground in daylight at her own order, and she lay there on the boards with the ring burning nine feet off her and understood that the whole of what she had bought in four years was the right to stand on a piece of ground and be the one who decides.
 
 She did not use it on anything else for a week and a half.
 
-Twenty-nine days to the next one.
+Twenty-three days to the next one.

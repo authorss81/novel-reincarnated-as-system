@@ -6,7 +6,9 @@ Eleven minutes a line with the flat of her second finger, and every line she wro
 
 She put the flat of the second finger on the boards and pressed and it came away and she wrote the first of them.
 
-NING YAN, OF LOWWATER. A SECOND HOLDER IS NOT NAMED AND WILL NOT BE NAMED. THE HOLDER NAMED IS THE ONLY ONE.
+“Ning Yan, of Lowwater. A second holder is not named and will not be named. The holder named is the only one.”
+
+It came out of the flat of her finger and not out of a pen, and the letters were the size of a child’s and the spacing was wrong on about one line in three, and she could read all of it, because she had made all of it.
 
 That was three lines and it took her about half an hour and by the end of the second one her right arm had been open for most of it.
 
@@ -32,7 +34,7 @@ She went in on the fourteenth at the seventh hour and had the head in before the
 
 Four columns. The ruled space at the left with her name in it and nothing running into any of them.
 
-That was the whole of what she had cleared in seven weeks and there had been four lines on the wall on the eleventh of the month before last, and there were now none.
+That was the whole of what she had cleared in seven weeks and there had been four lines on the wall on the eleventh of the month last, and there were now none.
 
 ## What She Was Living On
 
@@ -90,7 +92,7 @@ There were two things on the top step and not one of them was the sheet he had b
 
 One of them was a sheet with a single column on it, days down the margin and hours against them, and a word at the top she could read from nine feet away in a room with a stove in it.
 
-NING YAN. OF LOWWATER.
+“Ning Yan. Of Lowwater.”
 
 The other one was a sheet with two columns on it, side by side, ruled, with a margin at the left, and the left-hand column was days, and the right-hand column was something else entirely.
 

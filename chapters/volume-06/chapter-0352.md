@@ -12,7 +12,7 @@ Four on a flat with the bar on the grass. Five on a loaded reach, and it did not
 
 She did it standing up.
 
-It came the way the seven before it had come. There was nobody inside to be told and there was no county book on that ground to take anything down, and the sound of a stage is a sound and a sound has to go somewhere. It went into the ground under that grass and a quarter of a mile into the air, and a dog on a farm about a mile off did not bark.
+It came the way the seven before it had come. There was not a living soul on that ground to be told and there was no county book standing on it to take anything down, and the sound of a stage is a sound and a sound has to go somewhere. It went into the ground under that grass and a quarter of a mile into the air, and a dog on a farm about a mile off did not bark.
 
 [Ning Yan, past the line, servant-born, under no ceiling any county holds. Golden Core, stage eight, is held.]
 
@@ -36,11 +36,11 @@ She stood there trying for as long as it takes a man to write a word down.
 
 ## The Arithmetic Of Hands
 
-The method was not strength and it was never the size of the stone. It was that you never waited.
+She had the whole of it in her body from a bank nine days west and it was four words long, and she could not get any part of it past the fourth word today.
 
-The bar has to be under the stone and it has to be under the stone before the stone comes, because the stone comes when the bar comes and the bar is what stops it going back down. And the piece has to go where the piece is going, and the last foot of that is done by hand with the arm open and the fingers flat on it.
+The bar goes under the stone before the stone comes. The stone comes up on the bar and the last foot of it goes by hand, with the arm open and the fingers flat on it, and it does not stop anywhere in between.
 
-That is two hands. One on the bar and one on the stone.
+That is one hand on the bar and one hand on the stone.
 
 She had eight holds in the left one. She had four fingers and a thumb on the right one and the right arm open half the time and had been for four years, and she could hold a stone with it for about two minutes at a time and no longer.
 
@@ -50,7 +50,7 @@ She did not have two hands.
 
 ## The Plain Part
 
-She put the pieces down on the crest of the bank and stood there and let it arrive, and then she said it out loud on open ground with nobody within half a mile, which she had not planned to do and did anyway.
+She put the pieces down on the crest of the bank and stood there and let it arrive, and then she said it out loud on open ground where there was not a living thing within half a mile, which she had not planned to do and did anyway.
 
 She had said two sentences to herself out loud on that ground in seven months and neither of them had been about a bar.
 
@@ -62,7 +62,7 @@ She lifted it and it came up and she could walk with it and she could turn with 
 
 That was the whole of it.
 
-It will be like that for the rest of her life. The bar she learned to carry one-handed at a bank nine days west from a woman with a scar across the back of both hands will take two hands from here on, and she does not have two hands, and the heavy end does not come back.
+She could not argue with the shape of it. The bar she had learned to carry one-handed at a bank nine days west, from a woman with a scar across the back of both hands, had asked her for two hands on the fourth hour of a morning on open ground, and she did not have two hands, and the heavy end was not coming back.
 
 ## What Closed
 
@@ -72,7 +72,7 @@ Not the ramp. The ramp was never hers and she had asked about it in a gateway a 
 
 Everything else. A footing is a bank you put back and the bank at the far gully is stone. A block is a block. Any work on nine days of road that is measured by what comes out of the ground in pieces rather than in length is measured by weight, and weight is carried with a bar and a hand, and she has one hand.
 
-There is no listing on that board that pays her for that. There is no listing on that board that anybody could put her on.
+Nothing on that board pays her for that, and nothing on that board could be put her on.
 
 She had asked for a line the board could not give her.
 
@@ -98,4 +98,4 @@ She wanted it because she was eighteen and there were four lines left on a board
 
 And on the twenty-third of a month she got a bar that takes two hands, and a gate that pays by the reach, and a reach she now opens at a third because she cannot lift out what she digs at the depth a reach is priced at, and a strip folded in three against her ribs with five days left in it.
 
-She wanted to put the bar down on the grass and scream, and she did not, because there was nobody within half a mile and the dog on the farm a mile off had not barked.
+She wanted to put the bar down on the grass and scream, and she did not, because there was not a living thing within half a mile and the dog on the farm a mile off had not barked.

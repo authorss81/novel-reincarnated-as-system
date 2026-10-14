@@ -34,7 +34,7 @@ He put the bar down on the cart bed and wiped his hands on his coat and looked a
 
 He leaned the bar back against the side of the cart.
 
-“It is not for anybody. It is not a listed thing and nobody has asked for it and it is not paid out of the board. It is paid out of the yard in the autumn by a man who is not me, and I have not told anybody on that gate about it in nine years because it is not mine to tell and it is not the season for it.”
+“It is not for anybody. It is not a listed thing and no one has asked for it and it is not paid out of the board. It is paid out of the yard in the autumn by a man who is not me, and I have not told anybody on that gate about it in nine years because it is not mine to tell and it is not the season for it.”
 
 ## What She Said Back
 
@@ -62,7 +62,7 @@ She lay on the boards with the ring burning nine feet off and the strip against 
 
 He took a while.
 
-“The last six took the end of a lift, then the feeling in a hand, then a hold, then a count of breath, then a reach, and every one of them took it out of the work and not out of the rest of you,” he said. “I have watched six of them go through a woman I am standing next to and I have never once watched one take a thing she could still use.”
+“The last six took the end of a lift, then the feeling in a hand, then a hold, then a count of breath, then a reach, and then the heavy end, and every one of them took it out of the work and not out of the rest of you,” he said. “I have watched six of them go through a woman I am standing next to and I have never once watched one take a thing she could still use.”
 
 That was four sentences and every one of them was in the present, and he did not say that he was sorry and he did not say that she should not do it, and he had not told her the price of anything, which was the arrangement, and the arrangement had never once been broken in four years.
 

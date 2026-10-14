@@ -12,7 +12,7 @@ It came down on the ninth at about the eleventh hour on the back of the cart tha
 
 There was a tray in it with a cord still round it and a book in the tray and the book would not shut.
 
-She was nine feet off on the near side of the track with the bar on her shoulder because she had come up the road to see whether anything came down it and it had, on the ninth day of a month, nine days after the first cart had gone up.
+She was nine feet off on the near side of the track with the bar on her shoulder because she had come up the road to see whether anything came down it and it had, on the ninth day of a month, eight days after the first cart had gone up.
 
 ## The Man With The Paste Pot
 
@@ -44,7 +44,7 @@ She put her hand flat on the cover.
 
 She took her hand off.
 
-“The other one is a holder. There is a name under a line in that book that nobody in the world can produce, and the man who wrote it is not going to be able to produce it, because he refused in a shed at the second hour of the fourth of a month and he was not asked for anything for it.”
+“The other one is a holder. There is a name under a line in that book that not one person in the world can produce, and the man who wrote it is not going to be able to produce it, because he refused in a shed at the second hour of the fourth of a month and he was not asked for anything for it.”
 
 ## What He Said
 
@@ -76,9 +76,9 @@ It stood there.
 
 There is a woman in a shed a mile up that road who cleared some work off a board in a gateway because she wanted clay, and then she asked a man with a bench to put her in an account against material in daylight in her own name, and he was right to do it.
 
-And there is a book at a post on a road that holds a furnace she lit with the hand of her own that is left, and a holding she cannot produce, and a refusal she gave at a counter nine days ago with a day against it and her name at the left of it.
+And there is a book at a post on a road that holds a furnace she lit with the hand of her own that is left, and a holding she cannot produce, and a refusal she gave at a counter a fortnight ago with a day against it and her name at the left of it.
 
-And the whole of it is standing up on a stone under a ladder at a post nine years old, and there is nobody within nine days of road who knows that it is there, and the man who has it cannot read it and will not tell anybody, because there is nobody to tell.
+And the whole of it is standing up on a stone under a ladder at a post nine years old, and there is not one person within nine days of road who knows that it is there, and the man who has it cannot read it and will not tell anybody, because there is nobody left to tell.
 
 ## What She Wanted
 

@@ -20,7 +20,7 @@ Four lines and two months, and then nothing until the season turned.
 
 ## What He Said About The Two Months
 
-“When those four are done there is nothing on that board until the season turns,” he said. “Not because the yard has nothing to do. Because nobody has put anything down. It is not a season here the way it is at the yard nine miles west. It is a board and a man puts lines on it when he has them.”
+“When those four are done there is nothing on that board until the season turns,” he said. “Not because the yard has nothing to do. Because no man has put anything down. It is not a season here the way it is at the yard nine miles west. It is a board and a man puts lines on it when he has them.”
 
 He squared the board up on the bench.
 
@@ -34,11 +34,11 @@ He put the ink down.
 
 He wiped the nib on the rag and looked up at the wall and not at her.
 
-“There is a line out west of this gate about nine miles,” he said. “It is kept. There are men on it and they are paid by the day and their families are on it, and it has been there longer than my board.”
+“There is a line out west of this gate about nine miles,” he said. “It was there before this yard had a board. Men go out on it in the morning and their families eat off it, and it is kept by men who are not me.”
 
 He put the cap on the ink.
 
-“Nobody on this ground has ever needed one thing out of it.”
+“Not one line of work has ever come in off it to this yard, and I have been in this gateway eleven years.”
 
 That was four sentences and he had said them the way a man says where he was born, and then he asked her whether she was taking the ditch line or the head.
 
