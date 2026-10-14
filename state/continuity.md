@@ -4503,3 +4503,123 @@ spent at ch 493, ch 508 and ch 523 · `about` 87 · `whole of` 39 · bare `eleve
 the demand made at the wall and never in the room, in daylight, the book on plank table, him on his own side throughout ·
 **he is not thanked anywhere** · no page of his book read out loud · the ch 267 surface answer never re-voiced · the
 Hunter's request pending · the ten parts not given · no harem and nothing a romance · no new final enemy.
+
+---
+
+## Volume 9 close — the volume as a whole
+
+**Ch 479–538 are on the page and Volume 9 is closed and audited.** Written by the Volume 9 close phase, which audited all
+sixty chapters against `outline/volume-09.md`, **wrote no chapter prose, repaired nothing, edited no outline, and did not
+open `outline/ending.md`.** Full record at `workspace/volume-09-close/SUMMARY.md`. Every figure below is re-derived from
+the chapters at this close with the method in the same sentence as the number.
+
+### Volume-level established facts
+
+1. **The file set.** **113,790 words of body prose over sixty chapters, average ~1,897**, method B — every line not
+   beginning `#`. By batch: **0001 27,725 · 0002 28,532 · 0003 28,572 · 0004 28,961**, averages 1,848 · 1,902 · 1,905 ·
+   1,931. Method A — every line not beginning `# `, `##` counted as prose — gives **28,191 · 28,992 · 29,181 · 29,806
+   and 116,170, average ~1,936**, and the 2,380 difference is the `##` section-heading word count. **Longest ch 518 at
+   2,409, shortest ch 519 at 1,602; nothing under the 1,300 floor; eleven chapters under the 1,800 guide (480, 483, 487,
+   491, 493, 496, 506, 507, 519, 521, 534), spread 5 · 3 · 2 · 1 across the four batches; no batch's counts fall monotonically.**
+2. **The calendar.** Day **1,341** (the eighth of the month beginning 1,334) to day **1,598** (the twenty-fifth of the
+   month beginning 1,574), **258 days inclusive** (1,598 − 1,341 = 257, plus the closing day). Every day re-derived under
+   **`((day − 134) mod 30) + 1`**. Months in this volume begin on **1,334 · 1,364 · 1,394 · 1,424 · 1,454 · 1,484 · 1,514
+   · 1,544 · 1,574 · 1,604**, and **no chapter in ch 479–538 names a weekday, a calendar month or a week.**
+3. **The three stages, their days and their intervals.** **Severance 1 at day 1,412 (ch 493), the nineteenth of the
+   month beginning 1,394** · **Severance 2 at day 1,488 (ch 508), the fifth of the month beginning 1,484** · **Severance
+   3 at day 1,561 (ch 523), the eighteenth of the month beginning 1,544**. Intervals: 1,412 − 1,291 = **121** · 1,488 −
+   1,412 = **76** · 1,561 − 1,488 = **73** · 1,561 − 1,412 = **149** first to third · 1,561 − 1,291 = **270** ceiling to
+   close · 1,598 − 1,561 = **37** into Batch 0004. **All three match `outline/volume-09.md` §*Power progression* exactly.**
+4. **The three costs, each named once in its own stage chapter and none re-derived.** **She cannot keep a place by
+   staying in it** (ch 493:81 — a shed she has slept in for two years stops being hers for having slept in it; carried at
+   ch 508:61, ch 523:135, ch 524:31) · **she cannot be met where she is expected** (ch 508:67; carried at ch 523:137) ·
+   **she cannot go back down the road she came** (ch 523 — the two miles of lane stop being a distance she can walk;
+   carried at ch 529:57 and walked end to end at ch 537, which says outright *it is not going to make anything of it*).
+5. **The four irreversible steps, four shapes, all hers.** ch 488 she opens the paper alone · ch 502 she lets him copy
+   her refusal entry · ch 518 she tells him to open the wall knowing the number of one · ch 535 she reads her own four
+   sentences back and refuses kept.
+6. **Five structural mouths, five new people, five of five.** ch 484 the woman at the store · ch 497 the board carrier ·
+   ch 505 the keeper with the paste pot · ch 514 the boy of fifteen at the chain · ch 531 **Shuyin**. **ch 484's mouth
+   delivers nine sentences against the outline's pinned four or five — the only mouth off its length, recorded, not
+   repaired.**
+7. **The brackets.** **Three in sixty, at ch 493, ch 508 and ch 523, and character for character identical to
+   `outline/volume-09.md` with only the stage ordinal changed.** Six `[` and six `]` in the whole volume and nothing else
+   in square brackets anywhere in ch 479–538.
+8. **The entry.** **She is entered and she is not kept.** ch 536 — the word is *lost*, in his hand, four letters, four
+   seconds, under a date; the line is in and it stays in and it does not come out. ch 535 — *I am not going to be kept*,
+   seven words, once, said out loud at a table in daylight.
+9. **The record.** Eight leaves made out of a blanket in nine days; a date and a place on the first leaf, four sentences
+   on the second, six empties that are hers. **On a flat stone under a ladder nine miles west at ch 538, beside the
+   keeper's book with an inch of stone between them, unasked and unkept-for, in front of three people.** **The reason for
+   the wall is recorded where he cannot reach it, for the first time in nine hundred years.**
+10. **The walls stay.** ch 538:91 — the wall east of her is still open and the table stands in it with nothing on it.
+    ch 538:95 — he is never going to open his book in that room again.
+11. **Shuyin, alive, old, not thanked, and never in his own mouth.** `Shuyin` **2** in body prose, ch 498:27 through a
+    shut door and ch 538:117 in her mouth with three witnesses. **The word `thank` occurs 22 times in body prose across sixteen chapters — `thank` 18, `thanked` 3, `thanking` 1 —
+    and not one of them is a thank to him; ch 538:123 says it outright.**
+12. **The Hunter, twice and only twice**, ch 491 and ch 531, nine feet off, notebook shut, **and she asks him both
+    times.** His request is still pending at ch 538. `Wall writ` **0**, `field agent` **0**.
+13. **Yuan's position at the close.** **Readable without her and therefore findable** (ch 272) · **held and therefore
+    sendable** (ch 338) · **answerable since ch 401, and this is the volume where somebody used it against him** · **he
+    opened a wall from the inside once at ch 518 and is on the wrong side of it for the rest of the volume** · **his
+    hand is still degrading and the degradation is carried, not re-derived** · **no figure of what is left of him is
+    stated on any page**, and `Yuan` does not appear in body prose once in ch 479–538.
+14. **The silence.** Counted from day 1,256, which is ch 462: **258 days at ch 516** (1,514 − 1,256) · **265 at ch 518**
+    (1,521 − 1,256) · **273 at ch 520** (1,529 − 1,256), when he says *It was mine*, four words, the first to her since
+    ch 471. **The frame scene at ch 518 is away from her hearing and is not counted against the silence.**
+15. **The closing image and the closing question.** **A book of her own on a flat stone under a ladder, in daylight, in
+    front of three people, with his name said out loud at a person instead of into flat ground — and his answer, which
+    is the last line of the volume.** **The one thing the volume leaves open on purpose is two words he says at a jamb
+    at ch 536 and that she never asks: *“Twenty-two days.”*** It is not resolved anywhere in ch 479–538 and it is not
+    retconned into any figure already on the page.
+
+### Construction budget — Volume 9, all sixty chapters, counted rather than quoted
+
+**Body prose only, measured on the sixty files as they stand, every count on word boundaries and measured before it is
+claimed.** Where a row disagrees with a recorded zero or a recorded allowance, the true figure is given and the
+disagreement is recorded rather than the zero.
+
+| Construction | Volume 9, measured | Allowance | Verdict |
+| --- | --- | --- | --- |
+| Authorial scaffolding — the outline's banned family | **15**: `this volume` 1 (ch 508) · `four volumes` 1 (ch 491) · `the chapter` 3 (ch 490, 531, 535) | 0 | **FAIL — C4** |
+| Authorial scaffolding — the widened family the volume leans on | **10** instances of *she wants that on the page* across nine chapters (480, 485, 494, 496, 507, 508, 531, 533, 535, 538) | not in any budget in the run | **recorded as the volume's characteristic** |
+| Bracketed layer lines | **3** at ch 493, 508, 523; **6 bracket characters in the whole volume** | 3 in 60 | **PASS** |
+| Bold | **0** | 0 | **PASS** |
+| Italic | **2**, both the word *lost*, at ch 535 and ch 536 | scarce, counted | **PASS** |
+| Blockquotes · code fences · tables · horizontal rules | **0 / 0 / 0 / 0** | 0 | **PASS** |
+| All-caps standalone lines | **0** | 0 | **PASS** |
+| Straight quotes · straight apostrophes | **0 / 0**, every speech closed — **655 `“` against 655 `”`** | 0 / 0 | **PASS** |
+| The retired seven phrases | **3**: `nobody asked` 2 (ch 499, ch 505) · `there is no column` 1 (ch 501) | 0 as phrases | **FAIL — C2**; Batch 0002's record claims 0 and is wrong |
+| Retired out of Volume 4 | `about four seconds` **3** (ch 510, 513, 514) · `eleven weeks` **2** (ch 512, 523) | 0 / 0 | **FAIL — C3** |
+| `his eyes widened` · `he couldn't believe it` · `suddenly` · `little did he know` | **0 / 0 / 0 / 0** | 0 | **PASS** |
+| The Yuan tag | **0** verbatim, and no lead-in of any shape | 0 | **PASS** |
+| Named weekdays · named calendar months · named weeks | **0 / 0 / 0** | 0 | **PASS** |
+| Harem, romance | **none.** `mother` **0**; she never says her mother's name | none | **PASS** |
+| `Ledger` · `reconciled` · `plate` · `licence` · `license` · `clearance` · `countersignature` · `seal` as a leg · `kiln-born` · `MEMBER ABSENT` · `tribulation` · `vouch` · `Feng` · `Anchor` · `Sisterhood` · `Scribe` · `bargain` · `Lung` · `appointment` · `budget` · `Wall writ` · `field agent` · `Xie Changyin` · `Order` · `Shen Xiu` · `Qiu` · `Wen` · `Ning Wu` · `Ning Bo` · `Ning Xue` · `Hou Sanliang` · `Yuan` | **all 0** | 0 | **PASS** |
+| `Warden` | **2** — ch 500:160 in his own mouth, ch 504:108 in narration | counted, not zeroed, by `outline/volume-09.md` | **PASS**; this close's own prompt said 0 and is wrong (E2) |
+| `Shuyin` | **2** — ch 498, ch 538, neither in his own mouth | named as an event at ch 498 and counted | **PASS**; this close's own prompt said 1 and is wrong (E3) |
+| `list` | **14** across body prose — ch 499 2 · 500 2 · 501 6 · 518 1 · 525 3 | load-bearing, counted | counted |
+| `nothing` | **415** — by batch 116 · 70 · 118 · 111. ch 533's eighteen are the argument, not filler | — | counted |
+| `nobody` | **93**, average **1.6** — by batch 30 · 26 · 20 · 17 | target under 2.0 | **PASS** |
+| `about` | **427**, average **7.1** — by batch 130 · 138 · 72 · 87 | target under 7.0 | **over by 0.1** |
+| `whole of` | **192** — by batch 54 · 51 · 48 · 39 | target under 80 | **over by 112.** Batch 0002 flagged this forward for exactly this close and it did not come down; reported, not promised away |
+| Bare `eleven` | **221** — by batch 56 · 36 · 79 · 50; `eleventh` 54 and `Eleven` 24 counted separately | target under 200 | **over by 21** |
+| `send for` / `sent for` | **3 / 6**, every one a negation or an accounting | counted | counted |
+| Chapter titles | **60 new `#` headings, zero collisions** against the 478 that preceded them and against each other; **longest 30 characters**, shortest three words, longest seven | names, 3–12 words, under ~90 characters | **PASS** |
+| Section-heading identity | **0** chapters with the same `##` twice, measured on `^## ` per file. 469 headings, 426 distinct; the 43 repeats are cross-chapter house furniture | 0 within a chapter | **PASS** |
+| Paragraphs | longest per batch **107** (ch 479) · **94** (ch 494) · **88** (ch 515) · **89** (ch 534). **Ten paragraphs over the 90-word guide, none over 120.** 3,360 paragraphs in the volume | break over ~90, never over ~120 | **PASS on the hard limit** |
+| Files without a trailing newline | **58 of 60** (all but ch 500 and ch 504) | — | **operational — D3** |
+
+### The twenty-six findings, by class, for the repair phase
+
+**A, the word-count tic, nine instances in seven chapters** — ch 491:71, ch 491:103, ch 497:117, ch 502:89, ch 508:15,
+ch 519:53, ch 532:15, ch 533:75, ch 534:23, ch 535:51. **B, calendar and staging** — ch 532:119 and 121 (two
+`seventeenth`s in a thirteenth-to-fifteenth chapter) · ch 536 §*The Two Days After* against ch 537:3 · ch 524:3 · ch 525:3.
+**C, retired constructions and allowances** — ch 502 · ch 499:69, ch 501:93, ch 505:53 · ch 510, ch 512, ch 513, ch 514,
+ch 523 · ch 490, ch 491, ch 508, ch 531, ch 535 and the ten *on the page* instances. **D** — ch 531:65 · Batch 0002's
+duplicate-paragraph claim · the 58 newlines. **E, recorded figures** — this close's own prompt's Batch 0004 and volume
+word counts, its `Warden` row and its `Shuyin` row. **F, outline claims** — the Wei Ran allowance and the ch 484 mouth
+length, **both recorded here and in no outline file, because no phase may edit `outline/`.**
+
+**What may not be touched while clearing them: no title, no stage, no published day anchor, no irreversible decision, no
+bracket, no mouth, no planned event, and at ch 536 not the *Twenty-two days* line.**

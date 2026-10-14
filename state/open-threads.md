@@ -1937,3 +1937,28 @@ able to place — “Twenty-two days,” live and unexplained at ch 536.** The a
 
 **It added no thread the chapters do not carry, it opened no question the volume has already answered, and it moved none
 of the Volume 8 close's threads.**
+
+---
+
+## VOLUME 9 CLOSED AND AUDITED at ch 538 — what the close hands Volume 10, in one paragraph
+
+**Volume 9, *The Warden*, ch 479–538, day 1,341 to day 1,598, two hundred and fifty-eight days, sixty chapters, 113,790
+words of body prose on method B, is closed on the page and was audited by the Volume 9 close, which recorded twenty-six
+findings, repaired none, and wrote no chapter prose.** She must survive Shuyin, and she does: **entered as lost in his
+hand at ch 536, refused as kept in her own voice at ch 535, her own book of eight leaves on a flat stone under a ladder
+nine miles west at ch 538 where his hand cannot take it out, the walls staying with the table still standing in the
+opening at ch 538:91, and the reason for them recorded for the first time in nine hundred years at a post on a strip road
+where three people watched her put it down and say his name and he answered.** Every thread the volume opened is carried
+live and every one is measured in `state/continuity.md` §*Volume 9 close — the volume as a whole*: the three Severance
+costs named once each and never re-derived · the fifth entry and the four before it · the copy at ch 502 that made her
+findable by a list · the paper against her ribs, opened alone at ch 488 and never named · the opening at ch 518 with him
+on the wrong side of it alive · the chair nobody has sat in since the thirteenth · the board with no line on it for three
+months · the Hunter's request pending and his notebook shut · the ten parts not given and the surface answer never
+re-voiced · the ten coppers and the eight unchased · and **“Twenty-two days,” said at a jamb at ch 536 and never asked,
+still OPEN, still unplaced, and explicitly not to be resolved by a repair pass or retconned into a figure already on the
+page.** **What the close adds to the hand-off, and it is a paragraph and not a plan: the volume's one planted question
+travels to Volume 10 intact, the class A word-count defect is live in four batches and belongs to a repair phase rather
+than to Volume 10's drafting, `outline/volume-09.md`'s Wei Ran allowance is exceeded by one card and is recorded for the
+planner to carry or forgive, and the new question for Volume 10 is fixed by `outline/volume-09.md` §*New question for
+Volume 10* and is neither previewed nor softened here.** **The audit is `workspace/volume-09-close/SUMMARY.md`. This
+section opened no thread the chapters do not carry and moved none of the Volume 8 close's threads.**

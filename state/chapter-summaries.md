@@ -962,3 +962,74 @@ all 523 standing and against each other, longest 30 characters.**
    (nothing since day 1,529) and the walk on a body at nine days without bread; the telling count is nine days from the
    sixteenth of the current month at each telling, and she eats unshown off the bench loaf between. The three *third of a
    month* slips were corrected to *sixteenth*.
+
+---
+
+## VOLUME 9 — *The Warden*, ch 479–538, closed and audited at the volume close
+
+**Sixty chapters, day 1,341 to day 1,598, 258 days inclusive, 113,790 words of body prose on method B, average ~1,897**
+(by batch 27,725 · 28,532 · 28,572 · 28,961). **538 `#` headings manuscript-wide, zero collisions.** Goal, fixed by
+`outline/series.md` §9: *In this volume, Ning Yan must survive Shuyin, or the walls stay and the reason for them goes
+unrecorded.* **She survives.** Full record at `workspace/volume-09-close/SUMMARY.md`.
+
+### One line per batch
+
+- **Batch 0001, ch 479–493, day 1,341 to day 1,412, *opening it alone*, 27,725 words.** A shed, a bar, three coppers,
+  bread for a day, and a voice that has said nothing for eighty-five days. **ch 488 she opens the paper against her ribs
+  with her own two hands and cannot un-open it** · **ch 493 Severance 1 at day 1,412, and a shed she has slept in for
+  two years stops being hers for having slept in it** · **mouth one at ch 484, the woman at the store, who says she
+  does not want a shop** · the Hunter once at ch 491 and she asks him.
+- **Batch 0002, ch 494–508, day 1,413 to day 1,488, *being written down*, 28,532 words.** She walks nine days of lane
+  to be found and asks a man of nine hundred years why a bounded world needs readers; **he does not answer** · **mouths
+  two and three at ch 497 and ch 505** · **ch 502 she lets him copy the one entry she chose, and it is in his book and
+  cannot be un-copied** · **ch 508 Severance 2 at day 1,488, and she cannot be met where she is expected — he walks
+  four miles up a lane and she is not in it.**
+- **Batch 0003, ch 509–523, day 1,489 to day 1,561, *what she told him to do with her still in the room*, 28,572
+  words.** The price of one put on a clean page at a bench and **not said out loud** at ch 516 · **ch 518 the fifth
+  frame scene and the opening: she says *Open it* knowing the number and not knowing whose it is, and he steps through
+  and cannot come back** · **ch 519 a chair stays empty and a light stays on** · **ch 520 he says four words to her for
+  the first time in 273 days** · **ch 523 Severance 3 at day 1,561, and the two miles of lane stop being a distance she
+  can walk** · mouth four at ch 514, the boy of fifteen at the chain.
+- **Batch 0004, ch 524–538, day 1,562 to day 1,598, *surviving being kept*, 28,961 words.** Paper made out of a blanket
+  in nine days and a book of her own · the keeper says no and she goes away with nothing · **ch 530 the rule in full**
+  · **ch 531 mouth five and the last, Shuyin's: five sentences and a sixth, and the sixth is the one he is wrong about**,
+  and the Hunter's second appearance spent with it · **ch 533 the demand at its maximum, and the brush put back in the
+  same line** · **ch 534–535 the survival in her own hand — four sentences, read back out loud on the twentieth, and
+  *I am not going to be kept*, seven words, once** · **ch 536 one line and a date, the word *lost*, and “Twenty-two
+  days” at a jamb that she never asks about** · **ch 537 the road walked west one last time, going nowhere she has been**
+  · **ch 538 the book left on the stone under the ladder.**
+
+### One line per structural item
+
+- **Severance 1, day 1,412, ch 493** — a shed stops being hers for having slept in it. Named once, carried three times,
+  never re-derived.
+- **Severance 2, day 1,488, ch 508** — she cannot be met where she is expected. Named once, carried once.
+- **Severance 3, day 1,561, ch 523** — the two miles of lane stop being a distance she can walk. Named once, carried and
+  walked end to end at ch 537.
+- **The paper against her ribs**, opened alone at ch 488 with the door barred, read at ch 489, never called by any trade
+  term, and carried inside her coat against the open place behind her fourth rib for the rest of the volume.
+- **The four irreversible steps**: ch 488 she opens it · ch 502 she lets him copy it · ch 518 she tells him to open the
+  wall · ch 535 she reads her own four sentences back and refuses kept.
+- **The frame scenes**: ch 272, ch 338, ch 401, ch 472 and **ch 518, the fifth and the first one about a door rather
+  than about being found, being sent for, being asked or being spent.**
+- **The five structural mouths**: ch 484 the woman at the store · ch 497 the man of fifty who carries boards · ch 505
+  the keeper with the paste pot · ch 514 the boy of fifteen at the chain · ch 531 **Shuyin**.
+- **The brackets**: three in sixty, at ch 493, ch 508 and ch 523, in the far-side house form character for character.
+- **The Hunter**: twice, ch 491 and ch 531, nine feet off, and she asks him both times. His request stays pending.
+- **The misreading**: eleven people on nine days of road, two months, ended because the truth turned out to look like
+  the misreading and not because anybody was corrected.
+- **The entry**: made at ch 536, in his hand, the word *lost*, and it stays in. **She is entered. She is not kept.**
+- **The record**: eight leaves, four sentences, six empties, a stone under a ladder nine miles west, unasked, unkept-for.
+- **Yuan's Door**: opened once, from the inside, at ch 518, at her word, and the number of one was on a page before it
+  was spent. **The Hand stays down. `Ledger` returns 0.**
+- **Nothing above the room is on the page**: no office above the second account, no floor, no rank list, no committee, no
+  house, no title beyond *Warden*.
+
+### The closing image
+
+**A flat stone under the bottom of a ladder at a post on a strip road nine miles west, at the ninth hour of the
+twenty-fifth of a month, in daylight, in front of three people. A book of eight leaves the size of a closed hand, folded
+in half three times, squared on the stone and put down beside another book with an inch of stone between them — and not on
+top of it. She does not ask anybody to keep it. She says his name once, in the open, at a person instead of into a hundred
+yards of flat ground. He stops nine feet off and puts his weight on the other leg. “I am here,” he said. “Ning Yan.”**
+**That is the last line of Volume 9.**
