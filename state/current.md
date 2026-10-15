@@ -1447,3 +1447,82 @@ On the making-place's own register. Read out loud by her standing twice: first r
 ### Standing relationships at the close
 
 Him, heard now — asked now, unanswered, kept. **Lu An** — named, bound, untold. **Han Liang** — named, priced, carried; not on the page in this batch. **Ning Wu** — not spent. The room below runs without her on firsts and she does not go back down in this volume.
+
+## Volume 16 planned — `outline/volume-16.md` exists and what the plan fixed (cold reader starts here)
+
+**Volume 15 is CLOSED ON THE PAGE at ch 841–900, sixty chapters, 111,007 words of body prose on method B, average
+1,850, days 2,781–2,960. Volume 16, *The Last Announcement*, ch 901–1000, is now outlined and carded for Batch
+0001–0003. No chapter prose was written in this phase and no `.done` marker exists.**
+
+**The plan's one-sentence goal is fixed by `outline/series.md` §9 and is not re-planned here:** *In this volume,
+Ning Yan must choose what Yuan is, or the system outlasts them both.* The title, *The Last Announcement*, and the
+range ch 901–1000, are likewise fixed there and in `scripts/completion_guard.py`.
+
+**The question the plan is built out of, carried verbatim from `outline/volume-15.md`'s close and nothing else:** he
+did not answer. She asked him at the ninth hour of the seventh of the month beginning 2,954, day 2,960, standing, in
+the ordinary voice, first time in nineteen years; he was at the edge of a decision and not a man who had gone; she
+did not fill the silence and did not let go of him; the offer stands. **The question Volume 16 opens on is not
+whether the walls come down. It is whether a man who has been an entry in other people's records for six hundred
+years can turn one down without becoming an entry in his own.**
+
+### What the plan fixed, in order
+
+1. **Seven batches, one hundred chapters, days 2,961 to 9,800.** 0001 901–915 *the answer* · 0002 916–930 *the
+   tax* · 0003 931–945 *the apology* · 0004 946–960 *the descent and the four hundred* · 0005 961–975 *the
+   sentence* · 0006 976–988 *the fall* · 0007 989–1000 *the courtyard*. Irreversible steps at ch **912 · 930 · 945 ·
+   960 · 975 · 988 · 1000**.
+2. **Day 9,800 is six thousand eight hundred and forty days after day 2,960 — nineteen years of twelve months of
+   thirty days, and she is thirty-eight, which is `outline/ending.md` §7's woman in her thirties.** Every ordinal
+   derived under `((day − 134) mod 30) + 1`; no two chapters on one day; no step back anywhere in the volume.
+3. **Firsts of a month before the fall are six and every one lands on a chapter:** 2,984 · 3,014 · 3,044 · 3,074 ·
+   3,104 · 3,134, at ch **910 · 921 · 932 · 943 · 954 · 965**. **Ch 965 is the last bundle in the world.** The
+   first after the fall is 3,194 at ch 990, and it is the last time a chapter is dated by the layer's calendar.
+4. **His track ends at ch 930.** He answers at ch 901, shows her the offer on purpose at ch 907, is not stopped at
+   ch 908, says yes at ch 912 **in a chapter that is four minutes long**, finds the Foundation tax at ch 923,
+   refuses out loud at ch 930 **and gets to be an entry and not a person**, dissolves into the substrate, apologises
+   across ch 931–944 badly and three times and with no number on it, and **stops being a thing that can apologise at
+   ch 945.** He is in no chapter after ch 945 in any form.
+5. **She is alone from ch 946.** The sentence at ch 975 is possible only because the channel is hers alone; it is
+   said standing in the ordinary voice, first in her own voice, and the fall runs nine days from day 3,164 (ch 976)
+   to day 3,172 (ch 984) and **nobody dies**.
+6. **The Sisterhood reaches four hundred at ch 960** — one bound at ch 894 in Volume 15, three hundred and
+   ninety-nine here — said out loud, standing, by her, priced on the record, nobody sent, nobody entered.
+7. **Ning Wu is at the gate at ch 985**, does not forgive her, and is in the courtyard by ch 998. **He is not bound
+   and the plan does not say why and the two fours are not reconciled.**
+8. **The calendar changes hands at ch 976 (D1) and she says once, at ch 989, that the figures have run out.** Merit,
+   settlement, designation, column, readout, check and the tax all cease to exist and no figure of them is available
+   after that (D2).
+9. **Eight bracketed layer lines in a hundred, at ch 904 · 910 · 918 · 923 · 930 · 940 · 955 · 971, and none after
+   ch 971. The last bracketed line in the manuscript is at ch 971 and it is a bundle arriving on time.**
+10. **`forgiv` is 1 in the volume and it is at ch 1000 and it is housekeeping. `thank` is 0 in the volume.
+    `the year` is at most 2, at ch 999–1000.**
+
+### What this phase delivered, and what it did not
+
+**Delivered:** `outline/volume-16.md` (complete volume plan, all seven batches sketched, full hundred-chapter day
+table) · `outline/batches/volume-16-batch-0001.md` · `outline/batches/volume-16-batch-0002.md` ·
+`outline/batches/volume-16-batch-0003.md` · `workspace/volume-16-batch-0001/PROMPT.md`, the one next-phase prompt.
+
+**Not delivered, and this is stated here so it is not lost:** **cards for Batches 0004–0007 do not exist.** They are
+outlined — pressure, days, midpoint, climax, irreversible step — in `outline/volume-16.md`'s batch table and its
+day table, and a planning phase must write them before Batch 0004 is drafted. **No drafting phase may draft Batch
+0004 from the volume outline's table alone.** The next phase is `workspace/volume-16-batch-0001/PROMPT.md`.
+
+### Position unchanged
+
+**Nothing in `state/current.md`'s block for the end of chapter 900 moved.** She is still at the peak of Immortal
+Vessel, nineteen, three fingers and a thumb, right arm open six hundred and sixty-six days, seven of eleven holds,
+1,401 days lighter at `D − 1,559`, open place behind the fourth rib the size of her thumbnail, at the near end of
+the making-place table with five mercies on a register and a lamp nearly out on the stone beside her, and a man at
+the edge of a decision inside her head who did not answer a question she asked standing yesterday.
+
+### What Volume 16 may not re-open
+
+The moral answer, finished at ch 885 and paid for at ch 899 · whether the Scribe was sincere, which the book refuses
+to adjudicate · the second place, kept and empty and refused twice, and nobody sits in it · the second term *in
+daylight*, spent · the six terms and no seventh · the four months, named once at ch 873 and once at ch 1000 and not
+between · the bar, dated nowhere and not lifted · the bundle under the far end, left, and its last bundle arrives at
+ch 965 and nobody tells the bearer it is the last · the day she found the second place, the wear gap, and the
+fair-hand/third-hand question, all still open · **his yes at ch 812, which stands and which she never learns, and
+which `outline/ending.md` does not ask her to learn.** The eleven are not raised except at ch 1000, where
+`outline/ending.md` §7 requires them.

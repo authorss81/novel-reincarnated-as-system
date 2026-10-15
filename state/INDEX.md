@@ -344,3 +344,31 @@ recorded in the file rather than passed over.
 **Nothing in the day table moved.** Sixty rows, 2,781 → 2,960, strictly increasing, no two chapters on one day,
 all four cards and the Batch 0001 prompt day-for-day identical to the outline. **Batch 0001's band holds exactly
 one first, at ch 850, so `workspace/volume-15-batch-0001/PROMPT.md` needs no change and was not touched.**
+
+## ADDED 15 OCT 2026 — Volume 16 planning
+
+**One new section in each of the four hot state files, and no archive pass was run or needed: the four files grew by
+under 20 KB between them, against a hot `state/` of about 1.15 MB and an archive threshold set by the second pass
+above.** `state/phase-ledger.json` is controller-owned and was not touched, **no phase-closure marker in `workspace/`
+was created or cleared**, and **no `workspace/volume-16-*` directory was created other than
+`workspace/volume-16-batch-0001/`, which holds the one next-phase prompt this phase is required to write.**
+
+| Section | File | Read it for |
+| --- | --- | --- |
+| `## Volume 16 planned — outline/volume-16.md exists and what the plan fixed` | `state/current.md`, at the foot | The cold-reader position, the plan's ten fixed decisions, and what this phase did not deliver |
+| `## VOLUME 16 PLANNING — what the plan fixed, what it refuses, and what Batch 0001 inherits` | `state/continuity.md`, at the foot | The seven-sentence chain, the nine binding structural rules, the re-derived firsts and the measured hundred-row day table |
+| `## VOLUME 16 PLANNED — what it inherits, what it opens, and what Batch 0001 must not walk past` | `state/open-threads.md`, at the foot | Every open thread and the plan's disposition of each, the word budgets, and **the one thread this phase deliberately left open** |
+| `## VOLUME 16 PLANNED — *The Last Announcement*, ch 901–1000. NO CHAPTER PROSE.` | `state/chapter-summaries.md`, at the foot | The volume in one compact pass: seven batches, one hundred chapters, nineteen years |
+
+**The one thing that will be forgotten if it is not written down:** **cards for Volume 16 Batches 0004, 0005, 0006
+and 0007 do not exist.** They are outlined in `outline/volume-16.md`'s batch table and its hundred-row day table, and
+a planning phase must write them before Batch 0004 is drafted. **The next four phases are drafting phases, and the
+fifth is where this will otherwise be discovered at the wrong moment.**
+
+**The day table was re-derived by script before a word of the plan was written, which is the check the Volume 15
+planning review demanded of that volume and which caught a deleted first there.** One hundred rows, days 2,961 to
+9,800, strictly increasing, no two chapters on one day, every ordinal under `((day − 134) mod 30) + 1`. **Six firsts
+of a month fall before the fall and all six land on a chapter** — 2,984 · 3,014 · 3,044 · 3,074 · 3,104 · 3,134 —
+**and the plan names the last of them, at ch 965, as the last bundle that will ever come up nine hundred and four
+steps.** Nothing in the plan moves a chapter, a day, a batch title, a midpoint, a climax, a stage, a bracket or any
+element of `outline/ending.md`.

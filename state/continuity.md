@@ -2474,3 +2474,101 @@ No tenth stage (peak is a finished vessel); no binding but the boy, once, by her
 ### Construction budget, measured, not promised
 
 Zero brackets in fifteen · whole-word `Scribe` **3** (ch 895, 897, 899; volume 6 of twelve) · whole-word `court` 0 · `ledger` 0 · `ascendant` 0 · `choir` 0 · `forgiv` 0 · `the year` 0 · `thank` 0 · `twenty-two days` 0 · `nobody` **0** · `eleven` **0** · **longest paragraph in the batch 89 words** · fifteen titles unique manuscript-wide against 900 standing headings · **no `##` heading duplicated anywhere in the volume** · every ordinal re-derived under `((day − 134) mod 30) + 1` · the 2,924 first lands only at ch 889 and the 2,954 first only at ch 898 · boy unnamed before ch 890 and unused before ch 894 · bargain never spoken by a mouth, terms never stated before ch 893 · no straight quotes, no em dashes, no Arabic numerals of three or more digits, no named weekday, month or week · `She said` opens 13 paragraphs across the fifteen chapters · no two chapters open on the figures consecutively (889, 893, 896, 899) · all fifteen chapter endings structurally different · `And here is the whole of what`, `said plain`, `that was the day`, `whether she climbed or not` all zero · he speaks in all fifteen chapters, every sentence present tense.
+
+## VOLUME 16 PLANNING — what the plan fixed, what it refuses, and what Batch 0001 inherits (15 Oct 2026)
+
+**Volume 15, ch 841–900, sixty chapters, 111,007 words of body prose on method B, average 1,850, days 2,781–2,960,
+is CLOSED ON THE PAGE. Volume 16, *The Last Announcement*, ch 901–1000, is planned. No chapter prose was written in
+this phase.** The deliverables are `outline/volume-16.md`, three cards at `outline/batches/volume-16-batch-000{1,2,3}.md`,
+and one next-phase prompt at `workspace/volume-16-batch-0001/PROMPT.md`.
+
+**Title, range and the one-sentence goal are fixed by `outline/series.md` §9 and by `scripts/completion_guard.py`,
+and none was re-planned:** *The Last Announcement*, ch 901–1000 — ***In this volume, Ning Yan must choose what Yuan
+is, or the system outlasts them both.***
+
+### The plan's chain, and it is the whole of Volume 16 in seven sentences
+
+1. **Ch 901.** He answers the question she asked at ch 900. One line, no figure on it: he wants the offer, and has
+   wanted it since he was nineteen.
+2. **Ch 907–908.** He says he is showing her the whole of it on purpose, because he can no longer keep her out of
+   his half — the price he paid at ch 866 — and because he wants her to be able to stop him. **She does not stop
+   him.** `outline/ending.md` §2 fixes this as the turn of the final volume and it is hers.
+3. **Ch 912.** He accepts, in front of her, in the channel where the thing that made him reads. **The chapter is
+   four minutes long.** A yes said there cannot be un-said; the fourth term; the mirror of the page she sent down
+   nine hundred and four steps at ch 838.
+4. **Ch 923.** He finds the one thing in the offer he cannot live inside. There are no conditions and she read the
+   whole thing twice at ch 897 and found none, **so the tax is not a term, it is what the open is, and it is what
+   *work that matters* is.** The bargain needs someone to keep the Foundation tax running, the tax is how Chosen
+   Ones are recruited, every Chosen One was a person being made less solid by a voice in their head for exactly as
+   long as it took to be useful and then filed, and **it is his design and it is in her body.**
+5. **Ch 930.** He refuses out loud, in front of the intelligence, and **he does not get to be a person about it:
+   he gets to be an entry.** To be heard that far he must dissolve into the layer's substrate and there is no way
+   back, and he has known the exact price since Volume 11.
+6. **Ch 931–945.** The apology, three attempts, the first two of which are entries, said in the present tense with
+   **no number attached**, for **every decision he made on her behalf**. She does not forgive him and does not let
+   go. **At ch 945 he stops being a thing that can apologise and she hears nothing.**
+7. **Ch 946–1000.** She is alone. Four hundred bound by ch 960. The sentence at ch 975. Nine days to ch 984 and
+   **nobody dies**. Ning Wu at the gate at ch 985. Nineteen years, and a courtyard, and ch 1000.
+
+### Nine structural rules this phase fixed, all of them binding on every card in ch 901–1000
+
+1. **No stage, no number, no Last Ascension.** The peak was shut at ch 894 and the ceiling coming off at ch 975 is
+   not a stage and is not announced.
+2. **Nobody dies.** `outline/ending.md` §4 requires it and it is the load-bearing promise of the ending. Not on the
+   page and not in an offstage report.
+3. **The Scribe never attacks and is never argued with.** `outline/ending.md` §2. It answers him **once**, in one
+   bracketed line, at ch 930, and then it goes on keeping the walls correctly for another forty-five days.
+4. **The calendar changes hands at ch 976.** No first of a month means anything after it; `D − 1,559` and every
+   days-since series stop, because after the fall there is no tax and no layer and nothing to count against. She
+   says once, at ch 989, that the figures have run out.
+5. **Eight bracketed layer lines in a hundred**, at ch 904 · 910 · 918 · 923 · 930 · 940 · 955 · 971, **and none
+   after ch 971. The last bracketed line in the manuscript is at ch 971 and it is a bundle arriving on time.**
+6. **She says it in her own voice first, every time** — standing, in the ordinary voice, before it is a line
+   anywhere. The fourth term, spent in Volume 14, unchanged. Every binding, the four hundred, the sentence.
+7. **`forgiv` is 1 in the volume and it is at ch 1000. `thank` is 0. `the year` is at most 2, at ch 999–1000.**
+8. **No eleventh frame scene** — nine before Volume 14, a tenth at ch 812 — and **he is in no chapter after ch 945
+   in any form.**
+9. **No figure without derivation, no burn rate, no lamp hour, no step count, no height, and no distance in any unit
+   between anything above the line and anything below it.**
+
+### The firsts of a month, re-derived and checked
+
+Six fall before the fall and **every one lands on a chapter**, which is the finding the Volume 15 planning review
+made about that volume and which this one was checked against before it was written:
+**2,984 (ch 910) · 3,014 (ch 921) · 3,044 (ch 932) · 3,074 (ch 943) · 3,104 (ch 954) · 3,134 (ch 965).**
+**Ch 965 is the last bundle that comes up nine hundred and four steps in the world.** The first after the fall is
+**3,194 at ch 990**, the first month in nine hundred years with nothing on it, and it is the last time any chapter in
+this book is dated by the layer's calendar.
+
+### The day table, measured
+
+One hundred chapters, **days 2,961 to 9,800**, one hundred rows, strictly increasing, no two chapters on one day,
+every ordinal derived under `((day − 134) mod 30) + 1`. A month is thirty days and a year is twelve of them, which
+is derived from the month rule and is not a new fact. **Day 9,800 is 6,840 days after day 2,960 = nineteen years,
+and she is thirty-eight**, which is what `outline/ending.md` §7 asks for.
+
+### What this phase deliberately did not do
+
+It did not preview the volume's plot into any fiction. **No chapter prose, no line of chapter prose, no title.** It
+did not edit `outline/series.md`, `outline/ending.md`, `outline/volume-15.md`, any controller file, any workflow, any
+agent file, or `state/phase-ledger.json`, which is not present in this repository. It wrote no `.done` marker and no
+phase-closure marker of any kind, which `PHASE_SYSTEM.md` gives to the controller alone.
+
+**It did not write cards for Batches 0004–0007.** Those four batches are outlined in `outline/volume-16.md`'s batch
+table and in its hundred-row day table — ranges, days, pressures, midpoints, climaxes, irreversible steps — and the
+card-writing is owed to a later planning phase. **No drafting phase may draft ch 946 or later from the volume
+outline's table alone.**
+
+### What Batch 0001 inherits, stated once
+
+Day 2,961, the eighth of the month beginning 2,954. At the peak of Immortal Vessel, shut at ch 894, and **not a
+tenth stage**. Nineteen. Three fingers and a thumb. Right arm open six hundred and sixty-seven days and not going to
+close. Seven of eleven holds. 1,402 days lighter at `D − 1,559` and not one coming back. Open place behind the fourth
+rib the size of her thumbnail. Breath four counts, seven on a rise, nine standing still. Not hungry. Nib and ink
+against her fourth rib; a book of eight leaves with four blank leaves still blank. **A making-place with no lamp over
+it, no wear in it, and a place at the far side with nothing worn at all. Five mercies on a register, read twice, no
+conditions in any of them. A lamp on the stone with the oil nearly out of it and no figure of the oil on the page.**
+
+**And a question asked yesterday that was not answered, which she did not fill and did not let go of.**
+
+**She is the wire and not the voice. He is heard, answered at last, and about to be the reason the book ends.**

@@ -4143,3 +4143,77 @@ nine years old with a lamp in her left hand and did not come back down.**
 ### Things Volume 16 inherits, and what may not be re-opened
 
 Inherited as fact: the offer is on the table and unanswered and every part of it is real · he is announced and heard and can be anywhere but inside her · he said yes twice where she could not hear him and she said no twice where everything could hear her, and both stand and do not cancel · one number is in the record that cannot be taken out · one person is bound and the price of each binding is on the record · she is at the peak of the seventh realm and knows exactly what he is · she asked him what he wants and he has not answered. May not be re-opened: the moral answer (finished at ch 885, paid for, not re-argued) · whether the Scribe was sincere (the book refuses to adjudicate) · the second place (kept, empty, refused twice) · the second term *in daylight* (spent) · the six terms (no seventh) · the four months (named once at ch 873, never again) · the bar (dated nowhere, not lifted) · finding-day, wear gap, fair/third hand (all still open).
+
+## VOLUME 16 PLANNED — what it inherits, what it opens, and what Batch 0001 must not walk past
+
+**Recorded 15 Oct 2026 by the Volume 16 planning phase. No chapter prose. `outline/volume-16.md` exists; cards exist
+for Batches 0001, 0002 and 0003 only; `workspace/volume-16-batch-0001/PROMPT.md` is the next phase.**
+
+### Carried into Volume 16 as settled fact, not to be re-derived on the page
+
+- The five mercies read twice standing with **no conditions in any of them** · the argument had at ch 899, not won,
+  and right, and **not re-argued in Volume 16** · the count of six hundred and forty thousand said once at ch 885
+  and never again · the ceiling and the Anchor named and paid for, not re-explained.
+- **He is Announcement, heard, can be anywhere but inside her, and she can hear his half.** No room in her head is
+  his alone. **No figure of what is left of him on any page.**
+- **His ch 812 yes stands and she does not know it, and `outline/ending.md` does not require her to learn it, so
+  she does not.** The ch 866 yes — taking Announcement without asking — is the second. Both stand at the last page.
+- One bound at ch 894 (Lu An, said out loud first, standing, by her and no other mouth, nobody sent him, nobody
+  entered him) and the price of each binding on the record.
+- Her twenty carried costs and the one added at ch 930: **she cannot speak a sentence the layer will survive being
+  told while anything of it is still standing in the channel.**
+- The checker, the wire, the fall on the stair, the open place behind the fourth rib, the strip of pale wood, the
+  terms board face up since day 2,774, the six terms and no seventh, the second term *in daylight* spent at day 2,746.
+- The four months, **named once at ch 873 and once at ch 1000 and nowhere between.**
+
+### Still open entering Volume 16, and the plan's disposition of each
+
+| Thread | Disposition fixed by `outline/volume-16.md` |
+| --- | --- |
+| **The day she found the second place** — three anchors disagree | OPEN. No card states a day for it or does the subtraction |
+| **The gap in the wear**, two fingers wide, no edges, ch 820 | OPEN. Carried, never said aloud to anybody, never resolved |
+| **Whether the fair hand and the third hand are the same hand** | OPEN. **Feng's fair handwriting becoming the founding document is a use of his hand and not an answer to the question** |
+| **Whether the Scribe was sincere** | REFUSED. `outline/ending.md` §6. No motive, no face, no body, no room, no name but hers |
+| **What happens to the Anchor once released** | REFUSED. Looked at out of a window in ch 1000 and no more |
+| **Whether Ning Wu forgives her** | REFUSED. He does not, and the volume's single `forgiv` is hers and is at ch 1000 |
+| **The bundle under the far end**, two turns not a knot, five arms into it, never pulled | LEFT. **The last bundle arrives at ch 965 and nobody tells the bearer it is the last** |
+| **The bar** | Dated nowhere. Not lifted. Carried untouched |
+| **The second place** | Kept, empty, refused twice, and **nobody sits in it in Volume 16** |
+| **`outline/ending.md` §3 — the tax** | UNSPENT at the end of Volume 15 and **Batch 0001 may not touch it.** It is Batch 0002's midpoint at ch 923 |
+
+### Opened by this plan, and the owner
+
+| Thread | Owner |
+| --- | --- |
+| The answer she asked at ch 900 | closed at ch 901 |
+| Whether she stops him | closed at ch 908 — **she does not** |
+| What *work that matters* is | Batch 0002, ch 923, and it is **his** discovery |
+| What a person dissolving into a machine sounds like | Batch 0003, ch 931–933 |
+| The shape of the silence | ch 945, said once, and never again in the volume |
+| The Sisterhood's four hundred | Batch 0004, reached at ch 960 |
+| What the sentence has to be | Batch 0005, found at ch 968, said at ch 975 |
+| Why Ning Wu comes | ch 985 — a first of a month passed with nothing on it and he is the only person inside the bound who knows what she is |
+| Whether she could have refused the layer's fall and kept a bounded world | `outline/ending.md` §6: she could not, she decided, and that is why the ending is hers |
+
+### Carried, closed, or reserved — and the words that must not appear
+
+`forgiv` **1** (ch 1000 only) · `thank` **0** in the volume · `the year` **at most 2**, ch 999–1000 ·
+`court` **0** in Batch 0001 and no more than 3 in the volume, only as the word for a building ·
+`ledger` **0** · `choir` **0** · `ascendant` **only inside the offer** in her reading of it, never a rank anybody
+holds · `scribe` no more than 14 in the volume, none before ch 903, never as a speaker, none after ch 974 ·
+`twenty-two days` **0** · `nobody` line of thirty · `eleven` line of forty, and the eleven at ch 1000 is
+`outline/ending.md` §7 and is not a spend against it.
+
+### THE THREAD THIS PHASE LEFT OPEN, AND IT IS THE ONE THAT WILL BE FORGOTTEN
+
+**Cards for Volume 16 Batches 0004, 0005, 0006 and 0007 DO NOT EXIST.** They are outlined — ranges, days,
+pressures, midpoints, climaxes, irreversible steps — in `outline/volume-16.md`'s batch table and in its hundred-row
+day table. **A planning phase must write them before Batch 0004 is drafted, and no drafting phase may draft ch 946
+or later from the volume outline's table alone.** Recorded here because the next four phases are drafting phases and
+the fifth one is where this will otherwise be discovered at the wrong moment.
+
+### Marker discipline
+
+**This phase wrote no `.done` marker, created no phase-closure marker, cleared none, and created exactly one
+directory, `workspace/volume-16-batch-0001/`, which holds the one next-phase prompt.** Markers under `workspace/`
+are controller-owned. `state/phase-ledger.json` is controller-owned and was not touched.

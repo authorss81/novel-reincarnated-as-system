@@ -606,3 +606,39 @@ Volume 15 Batch 0003 is on the page at ch 871–885. **Volume 14, ch 781–840, 
 ### State of the manuscript at the close of Volume 15
 
 Volume 15 Batch 0004 is on the page at ch 886–900. **Volume 14, ch 781–840, remains closed on the page at 121,530 words. Volume 15, *The Scribe*, ch 841–900, stands closed on the page at sixty chapters, 111,007 words of body prose on method B (28,448 · 27,483 · 28,950 · 26,126), average 1,850, days 2,781–2,960.** Bracketed layer lines in the volume: three (ch 850, 866, 876). Stages: none — the peak of Immortal Vessel at ch 894, no tenth. Frame scenes: none. Irreversible steps at ch 855 · 866 · 885 · 894. **The next phase is the volume close, under the controller. No `.done` marker written, no ch 901 or later written, no `workspace/volume-15-*` directory created by this phase.**
+
+## VOLUME 16 PLANNED — *The Last Announcement*, ch 901–1000. NO CHAPTER PROSE.
+
+**Volume 15, ch 841–900, sixty chapters, 111,007 words of body prose on method B, average 1,850, days 2,781–2,960,
+is closed on the page. Volume 16 is planned at `outline/volume-16.md` with cards for Batches 0001–0003 and one
+next-phase prompt at `workspace/volume-16-batch-0001/PROMPT.md`. There is no chapter summary in this block because
+no chapter exists.**
+
+**Goal, fixed by `outline/series.md` §9 and not re-planned:** *In this volume, Ning Yan must choose what Yuan is, or
+the system outlasts them both.*
+
+**The volume in one compact pass — seven batches, one hundred chapters, days 2,961 to 9,800, nineteen years:**
+
+| Batch | Ch | Days | Pressure | Midpoint | Climax and irreversible step |
+| --- | --- | --- | --- | --- | --- |
+| 0001 | 901–915 | 2,961–2,999 | **the answer** | ch 908 **she does not stop him** | **ch 912 he accepts, in the channel, in four minutes, and a yes said there cannot be un-said** |
+| 0002 | 916–930 | 3,002–3,040 | **the tax** | ch 923 **the tax is what the open is, and it is his** | **ch 930 he refuses out loud and gets to be an entry, and dissolves** |
+| 0003 | 931–945 | 3,043–3,081 | **the apology** | ch 938 the second attempt, also an entry | **ch 944 the apology with no number on it · ch 945 he stops being able to apologise** |
+| 0004 | 946–960 | 3,084–3,122 | **the descent and the four hundred** | ch 953 she asks the second one out loud in front of everybody | **ch 960 the four hundred said standing, priced on the record, written by the layer** |
+| 0005 | 961–975 | 3,125–3,163 | **the sentence** | ch 968 **she finds what it has to be** | **ch 975 she says it and the fall begins and cannot be stopped** |
+| 0006 | 976–988 | 3,164–3,186 | **the fall** | ch 982 the sixth day and the ground has changed under a county | **ch 984 the ninth day and nobody dead · ch 988 the ceiling is off** |
+| 0007 | 989–1000 | 3,190–9,800 | **the courtyard** | ch 994 **the four hundred are a school** | **ch 1000 she forgives him, it is housekeeping, and she goes back to teaching** |
+
+**The six pre-fall firsts of a month all land on a chapter** — 2,984 (910) · 3,014 (921) · 3,044 (932) · 3,074 (943)
+· 3,104 (954) · **3,134 (965), the last bundle in the world**. The first after the fall is 3,194 at ch 990 and it is
+the last time a chapter is dated by the layer's calendar. The fall is nine days, day 3,164 to day 3,172, and
+**nobody dies.**
+
+**Budgets set by the plan:** eight bracketed layer lines in a hundred, at 904 · 910 · 918 · 923 · 930 · 940 · 955 ·
+**971, the last one in the manuscript, and a bundle on time** · `forgiv` **1** (ch 1000) · `thank` **0** ·
+`the year` at most 2 · `court` at most 3 and only as a building · `ledger` 0 · `choir` 0 · `ascendant` only inside
+the offer · `scribe` at most 14 · no tenth stage and no Last Ascension · no eleventh frame scene · no distance in any
+unit between anything above the line and anything below it.
+
+**Cards written: 0001, 0002, 0003. Cards 0004–0007 are outlined in the volume plan and are owed to a later
+planning phase.**
