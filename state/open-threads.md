@@ -4034,6 +4034,36 @@ far side of it, found that the refusal she had lived behind for a month was not 
 purpose from nine landings up, went past the ninth landing, and walked out of the only room she has had since she was
 nine years old with a lamp in her left hand and did not come back down.**
 
+## VOLUME 15 BATCH 0002 CLOSED at ch 870 — the threads this batch moved, opened, or closed
+
+**Fifteen chapters, days 2,826–2,870, 27,020 words, one bracketed line at ch 866, one irreversible step at ch 866. Recorded 15 Oct 2026 by the drafting phase.**
+
+| Thread | State at ch 855 | State at ch 870 | Owner in Batch 0003 |
+| --- | --- | --- | --- |
+| **The bearer** | unspoken to, unnamed, unasked in nineteen years | **named Han Liang at ch 857; paid out of a forearm, knew, said no once (ch 858)** | named and priced; never a function again |
+| **The address** | unasked and unheard | **heard at ch 863, four sentences through her to him; named Scribe at ch 864 without objection** | open. It goes on speaking; she hears both sides |
+| **Him** | Court, readable, found, not addressed; silent since ch 840 save twice | **Announcement from ch 866, on purpose, told afterwards; no room in her head his alone; his half heard** | open. Heard now; his intervals usable (ch 868) |
+| **Her refusals** | two, both standing, second not hers | **a third attempted for him at ch 865 and empty: no standing, no instrument, said out loud** | stands. She does not refuse for him |
+| **The firsts** | one missed on purpose (2,804) | **2,834 named-and-counted across ch 859–860; 2,864 heard through him at ch 869 with nobody in the room** | open. She will be on the twelfth landing at second hours |
+| **The lamp** | in her hand, going up | **burning on the third landing since ch 856, tended, never carried higher; she climbs in the dark** | open. No oil figure may appear |
+| **The stair above** | nine landings, past nine, no top | **twelfth landing stood on; tenth doorless and warmer; sentences above eleventh** | open. No step count, height, top, or room count ever |
+| **What she wants** | wanted him not to die | **wants it for him (ch 870), said in the channel, ungettable back — first time in fifteen volumes** | open. The cost sits on her |
+| **His yes at ch 812** | stands, she does not know | **stands, she does not know, untouched and untold** | stands. Volume 15 does not tell her |
+| **The boy** | asked for a lamp once, unnamed | **off the page all fifteen; unnamed, unbound** | unnamed until ch 890. Batch 0003 does not name or bind him |
+| **The room below** | left as at ch 855 | **unchanged; runs without her on firsts** | untouched. She does not go back down |
+| **Finding day / wear gap / hands** | open, carried | **carried, none spoken, none resolved** | still open. No card settles them |
+
+### What Batch 0002 did to the batch, in one paragraph
+
+**She left a lamp burning on the third landing and climbed in the dark, asked a bearer his name and learned what four hundred years cost him, named two firsts she did not go down for, found a doorless landing and sentences starting above it, heard somebody speak to him through her and gave it its word, failed to refuse for him, lost the last private room either of them had by his choice, heard fifteen years of asking in one morning, found one useful thing in it, heard her own room run with nobody in it, and said out loud where it could be heard that she wants it for him.**
+
+### Four things Batch 0003 must not inherit as clean prose
+
+1. **That the Scribe is answered, explained, or faced.** It reports, never advises; she named it and it did not object, and that is all.
+2. **That he is forgiven, thanked, or withdrawn from.** None of those happened; she stays, unwanting back what she said.
+3. **That the tax, the Anchor, the walls, or the bargain have been stated.** None is on the page; Batch 0003 opens all of that.
+4. **That hearing his half is free, or that the room needs her.** The hearing is paid for and cannot be un-paid; the room runs on firsts with nobody in it.
+
 ### Four things Batch 0002 must not inherit as clean prose
 
 1. **That the light is nearly out, or any figure of how long it lasts.** There is none on the page and none may be

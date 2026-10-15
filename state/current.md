@@ -1291,3 +1291,53 @@ the phrase the same way.**
 **`workspace/volume-15-batch-0002/PROMPT.md` — Volume 15 Batch 0002, ch 856–870, days 2,826–2,870, pressure *the
 address*, midpoint ch 863 and the irreversible step at ch 866.** This phase created exactly one `workspace/volume-15-*`
 directory beyond its own and **wrote no `.done` marker, which `PHASE_SYSTEM.md` gives to the controller alone.**
+
+## Who is where at end of chapter 870 — VOLUME 15 BATCH 0002 WRITTEN, ch 856–870
+
+**A cold reader starts here. This block supersedes *Who is where at end of chapter 855* above it wherever the two differ.** Recorded 15 Oct 2026 by the Volume 15 Batch 0002 drafting phase. **Fifteen chapters, days 2,826–2,870, 27,020 words of body prose on method B, average 1,801. One bracketed layer line in fifteen, at ch 866. `scribe` twice, both at ch 864, none before ch 863. No stage, no tenth, no binding, no boy name, no frame scene. Midpoint ch 863, climax ch 870, irreversible step at ch 866.** Volume 14 remains closed on the page at ch 781–840, 121,530 words. Volume 15 stands at thirty chapters of sixty.
+
+Day 2,870, the seventh of the month beginning two thousand eight hundred and sixty-four. A building with nine landings above her room and a stair out of the ninth that does not stop, and landings past it with no doorway in one of them and sentences starting above the eleventh. **A lamp burning on the stone of the third landing, left there at ch 856 and tended since, never carried higher.** A woman beside it who has heard somebody speaking to him through her and wants it for him.
+
+### Her
+
+**IMMORTAL VESSEL 9** throughout this batch and not touched. Nineteen years old. Three fingers and a thumb. **Right arm open at the elbow five hundred and seventy-six days** and not going to close. Short breath four counts everywhere, seven on a rise, nine lying still. Seven of eleven holds. Small open place low behind the fourth rib. **One thousand three hundred and eleven of the days gone at `D − 1,559`, not one coming back.** Not hungry. Nib and ink against her fourth rib; a book of eight leaves with **four blank leaves still blank, unwritten since the seventh of the month beginning two thousand seven hundred and forty-four, day 2,750, which is one hundred and twenty days.**
+
+**Twenty costs carried whole and none re-derived, and none re-named.** None of them is spoken aloud in ch 856–870.
+
+**What this batch added to her, in her own mouth:** that a lamp is four feet of world and she left it burning on the third landing and went up in the dark · that the bearer’s name is Han Liang, the first name she has asked for in nineteen years, and she did the arithmetic in her mouth · that he has been paid out of a forearm for four hundred years, and knew, and said no to it once where nobody heard · that she named the first at 2,834 the day before and did not go down for it, and counted it inside forty at the third of the month without saying the date again · that something is above the cells and it is not a room like the others · that the announcements start above the eleventh landing · that somebody speaks to him through her and she named the event standing before she argued · that the word is Scribe and it did not object · that she has no standing and no instrument and said so out loud · that he can be anywhere but inside her and she can hear his half · that fifteen years of him was asking and not patience · that he was right about the first of this volume and never said, and she can use the intervals · that the room at 2,864 ran with nobody in it and she heard it through him · **and that what was said to him is good, and she wants it for him, and she has never done that, and she cannot get it back.**
+
+### Him
+
+**Yuan Sheng.** Court, third rung, until ch 866. **Announcement from ch 866, taken on purpose, without asking her, and it cannot be un-taken.** Cost, named once at ch 866 in her hearing in the ordinary voice: **he can be anywhere but inside her, and she can hear his half.** Every sentence he has said to her in fifteen volumes is now a thing that can be heard by the thing that made him. No figure of what is left of him on any page. Present tense throughout, sparse before ch 866 and heard as a half from it. **His yes at ch 812 stands, she does not know, and nothing in this batch tells her.** No frame scene anywhere in ch 856–870.
+
+### The boy of sixteen
+
+Unnamed, unsent, unentered, unbound. **Not on the page in ch 856–870.** His lamp burns on the third landing, tended by her. He is not named and is not bound in this batch.
+
+### Han Liang, the bearer
+
+Named at ch 857, the first name she has asked for in nineteen years. He carries forty boards up nine hundred and four steps and what is left back down, four hundred years, paid out of a forearm, knew within the first year, said no to it once about three hundred years ago on the stair with boards under his arm, and went on. On the page at ch 857–859 and ch 869 by report of his carrying. Never a function again.
+
+### What is above the ninth, and what is on the page
+
+Twelfth landing reached and stood on, sentences heard through stone from the eleventh. **No step count for the stair above the room, no height, no top, no number of rooms.** Tenth landing has no doorway and warmer stone. Nothing above the twelfth is named. **She does not go back down into her room in this batch and the room is as ch 855 left it.**
+
+### The firsts at 2,834 and 2,864
+
+**2,834 falls in the gap between ch 859 (2,833, the thirtieth) and ch 860 (2,836, the third) and is landed by both**: named once out loud standing at ch 859 as the morning coming, counted inside forty at ch 860 with the date not said again. Forty boards, cloth, cord twice, hand along them, nobody hearing. **2,864 is ch 869**: heard by her lying on the twelfth landing through his half, the room running with nobody in it. **No bundle on any other day.**
+
+### Standing relationships at the close
+
+**Unforgiven, unthanked, unkept.** `forgiv`, `the year`, `thank`, `twenty-two days`, `court`, `ledger`, `ascendant`, `choir` — **all 0 across ch 856–870 and re-measured on the page** (`court` matches only inside no word; `scribe` twice, both ch 864). **Him, heard now** — his half open, wanted for, unwantable back. **Han Liang** — named, priced from the inside, carried. **The boy** — unnamed, unbound, off the page. **Ning Wu** — not spent.
+
+### Volume 15 Batch 0002, measured
+
+**Fifteen chapters, ch 856–870, days 2,826 to 2,870, 27,020 words of body prose on method B** (`grep -v '^#' <file> | wc -w`, per file and summed), **average 1,801.** Per chapter: 856 1,679 · 857 1,895 · 858 1,695 · 859 1,694 · 860 1,780 · 861 1,804 · 862 1,712 · 863 1,803 · 864 1,819 · 865 1,897 · 866 1,775 · 867 1,865 · 868 1,923 · 869 1,836 · 870 1,843. None under the 1,300 floor and none above the 2,700 guide. **One bracketed layer line in fifteen, at ch 866** (`[He is heard where she is.]`, one sentence, plain report grammar, about him, the plainest thing in the chapter), which spends Batch 0002’s one of Volume 15’s three. **No paragraph over 120 words.** No bold, no italic, no blockquote, no table, no code fence, no horizontal rule, no straight quote, no em dash, no Arabic numeral of three or more digits, no named weekday, no named month, no named week. `nobody` 4 across fifteen against the volume line of thirty; `eleven` 9 against forty. Fifteen titles, zero collisions against all eight hundred and seventy standing headings manuscript-wide, and no `##` section heading duplicated inside the volume.
+
+### Defects repaired on the page at drafting time, recorded so the next reader does not undo them
+
+**`courtesy` at ch 864 read as `court` without `-w` and was reworded to kindness shown.** A `forgiv` substring in ch 866 (`forgiveness`) and an hour-stated lamp state in ch 867 were reworded. A 137-word paragraph in ch 869 was split. **A line in ch 870 that named his ch 812 yes was struck: Volume 15 does not tell her, and it does not tell her in this batch.** Every chapter ordinal re-derived under `((day − 134) mod 30) + 1` and every figure under `D − 2,732`, `D − 2,301`, `D − 2,534`, `D − 2,294`, `D − 1,559`, `D − 2,344`; no 22-ending figure followed by *days* anywhere in the band, so the house formula stands unbroken in all fifteen. No chapter speaks of anything as already on her table that has not arrived yet; 2,834 is named at ch 859 and never before ch 860, and 2,864 is ch 869.
+
+### The next phase
+
+**`workspace/volume-15-batch-0003/PROMPT.md` — Volume 15 Batch 0003, ch 871–885, days 2,871–2,915, pressure *the ceiling*, midpoint ch 878 and the irreversible step at ch 885.** This phase created exactly one `workspace/volume-15-*` directory beyond its own and **wrote no `.done` marker, which `PHASE_SYSTEM.md` gives to the controller alone.**

@@ -2323,3 +2323,29 @@ of this batch, and no line was rewritten to break it.**
 **The bracketed layer line at ch 850 keeps its wording, including *the top of the second stair*.** The outline and
 the batch card both name the second stair there and the card is the authority; the line is a plain report of forty
 boards on a table, which is what happened, and it is one sentence and it explains nothing.
+
+## VOLUME 15 BATCH 0002 — ch 856–870, *the address*, days 2,826–2,870. WRITTEN
+
+**Fifteen chapters, 27,020 words of body prose on method B, average 1,801** — per chapter 856 1,679 · 857 1,895 · 858 1,695 · 859 1,694 · 860 1,780 · 861 1,804 · 862 1,712 · 863 1,803 · 864 1,819 · 865 1,897 · 866 1,775 · 867 1,865 · 868 1,923 · 869 1,836 · 870 1,843. **ONE bracketed layer line in fifteen, at ch 866** (`[He is heard where she is.]`), which spends Batch 0002’s one of Volume 15’s three. Recorded 15 Oct 2026 by the drafting phase.
+
+### What the batch established on the page, and what it may not re-derive
+
+- **The bearer’s name is Han Liang (ch 857)**, asked through the gap without entering the room, the first name she has asked for in nineteen years. Arithmetic in her mouth, not on a board: nine hundred and four up and nine hundred and four down is one thousand eight hundred and eight steps every carrying.
+- **He has been paid out of a forearm (ch 858)**, knew within the first year, said no to it once about three hundred years ago on the stair with boards under his arm where nobody heard, and went on. The only person in the volume inside the bargain’s economics without ever having been told.
+- **2,834 landed by ch 859 and ch 860 together**: named once out loud standing at ch 859 as the morning coming; counted inside forty at ch 860 with the year-date not said again. **2,864 is ch 869**, heard by her on the twelfth landing through his half. No bundle on any other day.
+- **Tenth landing has no doorway and warmer stone (ch 861)**; sentences start above the eleventh (ch 862), heard as cadence without words.
+- **The address (ch 863, the midpoint)**: four sentences in the announcements’ plain report grammar, one at a time, through her to him — found where he stands, what he carries written, to be answered be heard, what is heard kept. She stands, does not faint or fall, names the event before arguing. No `scribe` on the page yet.
+- **The word is Scribe (ch 864)**, said out loud standing in the ordinary voice, twice, and it does not object: same grammar, same intervals after as before. Mechanism stated once in outline terms: a fragment carried by its layer, one instrument at a time for fifteen years, and it has been her — and that is not kindness shown to her.
+- **No standing and no instrument (ch 865)**: two refusals hers and standing (fifth of the month beginning 2,714 out loud; written 2,750, sent first of 2,774), tonight’s not hers. Said out loud.
+- **Announcement (ch 866, irreversible)**: he chose to be heard instead of found, on purpose, told her afterwards. The batch’s one bracket. Cost named once in her hearing in the ordinary voice: he can be anywhere but inside her, and she can hear his half. Her one thing about it, once, not the thing she would have said: *I am not saying no for you.*
+- **Fifteen years overheard (ch 867)**: his half was asking, not patience — including his two old sentences (ch 848, ch 853) heard new. **Right once unsaid (ch 868)**: on the first of this volume he said it goes on without her standing under it, unheard then; she tests and can read the intervals, and will be on the twelfth landing at second hours.
+- **The room without her (ch 869)**: at 2,864’s second hour, flat on the twelfth landing, she hears through his half forty go down, cloth, cord twice, hand along, nobody hearing. Cost said sitting.
+- **Wanting it for him (ch 870, climax, not a defeat)**: what was said to him is good in her six-volume sense — good for him, costing the person not in the room — and she wants it for him, said in the channel where it cannot be got back. First time in fifteen volumes.
+
+### Things this batch deliberately did not spend
+
+No stage and no tenth; no binding and no boy name (boy off the page all fifteen); no moral answer — no Anchor, no tax, no walls’ purpose, no bargain’s mercy; no reopening of the room, place, bar, bundle, cage lamp; no finding-day, no wear-gap resolution, no fair-hand identity; no burn rate, cups, exhaustion date, or lamp hour; no step count, height, top, or room count above; no fifth person, new intelligence, or office above anything; his ch 812 yes untouched and untold.
+
+### Construction budget, measured on the page
+
+`scribe` 2 (both ch 864) · whole-word `court` 0 · `ledger` 0 · `ascendant` 0 · `choir` 0 · `forgiv` 0 · `the year` 0 · `thank` 0 · `twenty-two days` 0 · `nobody` 4 (line of thirty) · `eleven` 9 (line of forty) · one bracket (ch 866) · no paragraph over 120 words · titles unique manuscript-wide (870 headings) · no `##` heading duplicated in the volume · every ordinal re-derived under `((day − 134) mod 30) + 1` · no straight quotes, no em dashes, no digits of three or more.
