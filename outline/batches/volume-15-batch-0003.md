@@ -101,3 +101,22 @@ has forgiven Yuan. That his share of the tax has been set to nothing. That the c
 been stated, or its terms, or its price. That the peak has been taken or mentioned. That the boy's name is
 known. That the light has a figure for it. That the moral answer is finished — **it is finished at ch 885 and
 Volume 16 may not re-argue it, only pay for it.**
+
+## Correction recorded after the review of this card's drafting — 15 Oct 2026
+
+**Nothing in the day table, the midpoint, the climax or the irreversible step moves.** Three notes for anyone
+reading this card:
+
+1. **`Chapter 3` means *the third chapter of her keeping* on the page, and it is never written as a chapter.**
+   The drafting phase carried the phrase itself onto the page. So did `fifteen volumes`, `six volumes` and
+   `nineteen volumes` used as spans of time. **All zero across `chapters/` now.** The in-world durations are
+   nine years with him, nineteen years for her own life, four hundred years for the keeping, six years for a
+   belief, ten years for the column under the head and for the bar. **A volume is a book.**
+2. **The batch was rebuilt at review.** No finding above was lost and no card was remade. Three things the
+   card did not plan are now canon and Batch 0004 inherits them: **the fall at ch 875** and the widening of the
+   open place behind her fourth rib from a coin to a thumbnail, permanent and not to be re-measured more than
+   once · **the checker at ch 876**, which verifies any figure she has already written and can discover
+   nothing, and therefore cannot be put the four months or a ceiling · and **a thirteenth landing** at ch 875.
+3. **The card's own shape is what the review found wrong.** Eleven chapters of out-loud arithmetic in one
+   unbroken voice, a named feeling in a slot at the top of every chapter, and one closing sentence fifteen
+   times. Batch 0004 does not do any of that.

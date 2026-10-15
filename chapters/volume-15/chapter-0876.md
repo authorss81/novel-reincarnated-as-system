@@ -1,97 +1,159 @@
 # Answered Without Explaining
 
-One hundred and fifty-four days since the ninth stage. Five hundred and eighty-five days in that room. The cage out three hundred and fifty-two days. Right arm open five hundred and ninety-two days and it is not going to close. One thousand three hundred and twenty-seven of the days gone at this morning and not one coming back.
+Eleven days of work out of her own arithmetic and not one word of it from any mouth in the world.
 
-There was a lamp burning on the stone of the third landing above a room that was not a room, and there was a woman sitting beside it who had worked walking, and there was one figure she could take where no arithmetic reaches, and she was going to take it there and be told no.
+She had got to the edge of what arithmetic can reach. A taking that runs whether she climbs or not, that thins every ninth in the building, and points at a ceiling cannot be finished from one end of a woman's mouth on a dark landing. She knew that the way she knew the order of the landings, and she had known it since the fourteenth, and she had spent two days sitting with it.
 
-## Taking It There
+So she took a figure up.
 
-She said it out loud, sitting, in the ordinary voice, at about the sixth hour of the twenty-third of the month, before she did anything else about it.
+She said the day's numbers on the fourth landing on the way, in the ordinary voice, standing, because she was not going to arrive at the top of this with a figure held back out of nerves.
 
-She said, “Figures first and the reason after. One hundred and fifty-four days since the ninth. Five hundred and eighty-five in that room. Three hundred and fifty-two since a lamp in a cage went out. Five hundred and ninety-two with this arm open and it is not going to close. One thousand three hundred and twenty-seven of the days gone and not one coming back.”
+“One hundred and fifty-four days since the ninth stage. Five hundred and eighty-five days in that room. The cage out three hundred and fifty-two. This arm open five hundred and ninety-two days. One thousand three hundred and twenty-seven gone at this morning.”
 
-She said, “And here is the reason. Five mornings I have worked out of my own arithmetic, and nobody has told me anything, and the work has got to the edge of what arithmetic reaches. A taking that runs without me, thins every ninth, and points at a ceiling cannot be finished from my mouth alone. This morning I am going to take one figure to it and be told no.”
+## The Figure Put Up
 
-She said, “It is resolve, and it is grim, and it is the first grim resolve on this stair.”
+She got to the twelfth and sat down on the stone with her back against the wall, because after the twentieth her ribs were not what they had been and she was not going to pretend otherwise for the sake of a figure.
 
-She said, “Not daring, which I had yesterday and know its shape. Resolve to ask where asking is refused, because not asking has cost me five hundred and ninety-two days, and asking will cost me one morning.”
+She lay the figure out loud, standing first and then sitting, because it was the biggest single thing she had put in front of anything.
 
-She said, “And what I want is one answered figure. I can carry one.”
+“One thousand three hundred and twenty-seven gone, against ten days and twenty-one hours and thirty-six minutes at the head, with four months gone in one night to start it. Is the remainder one thousand three hundred and more after the head is taken off.”
 
-She left the lamp burning on the third landing and went up past it in the dark with nothing in either hand, with her left hand on the stone, saying the landings where they were used, fourth through eleventh, because the resolve needed every one of them.
+Then she waited.
 
-## The Figure Taken Up
+The sentences went on above her, one at a time, plain, reporting, through her to him. His half went on inside her where she could hear it, at their own intervals, and she waited for a space in them the way she used to wait for a space in work to put a question.
 
-She stood on the twelfth landing in the dark with nothing in either hand, and the sentences went on, one at a time, plain, reporting, through her to him, and she waited for a space between them the way she used to wait for a space in work to put a question.
-
-She said, out loud, standing, in the ordinary voice, “Here is the figure. One thousand three hundred and twenty-seven gone against ten days and twenty-one hours and thirty-six minutes at the head, with four months gone in one night to start it. Is the remainder one thousand three hundred and more after the head is taken off.”
-
-The sentences went on, one at a time, plain, reporting, through her to him, and his half went on inside her where she could hear it, and then a sentence came that was not for him.
+A sentence came that was not one of the going-on ones.
 
 It said, “One thousand three hundred and sixteen after the head.”
 
-She stood on the twelfth landing in the dark with her hands on nothing, and her breath went nine counts standing still, and she said it out loud, standing, in the ordinary voice, before she argued with it, because that is what she does.
+She stood up off the floor of that landing. Her breath went nine counts standing still and she said it out loud before she argued with it, because that is what she does.
 
-She said, “That is the Scribe answering a figure, correctly, and explaining nothing.”
+[That figure is entered.]
 
-She said, “And here is the whole of what happened, said plain. It does not answer questions. I put no question. I put a figure with a wrong remainder in it, and it put the right remainder in its place, one sentence, plain, reporting, brief, and even in manner, and not one word more.”
+Then she said, “That is the Scribe answering a figure. Correctly. And explaining nothing.”
 
-[The figure stands as said.]
+## Eleven Off
 
-She stood there for about a count of a hundred and forty with that in her, and then she said the rest.
+“It did not answer a question,” she said. “I put no question. I put a figure with a wrong remainder in it and it put the right remainder in the place of the wrong one, one sentence, plain, reporting, brief, and even in manner, and not one word more.”
 
-She said, “Eleven off my remainder. I said more and it said one thousand three hundred and sixteen. It is correct. My own second going said the same within eleven, and eleven on thirteen hundred is nothing, and the nothing is the proof. It is correct and it does not explain.”
+She stood there with her hands on nothing.
 
-He said, “You ask.”
+“Eleven off my remainder. I said more by eleven and it said one thousand three hundred and sixteen. My own second going on the eighth said the same within eleven, and eleven on thirteen hundred is nothing.”
 
-She said, “I did. And asking got a figure and no reason, and I am saying so out loud. It is one figure answered, and the taking goes on.”
+She waited until she was sure of the next sentence before she said it.
+
+“The nothing is the proof. Five mornings of my own arithmetic came within dust of a keeping four hundred years old, and the dust is in my favour, and I am going to be careful with it, because a person who has been proved right over and over by something that cannot be argued with is a person about to stop arguing.”
+
+## The Second Figure
+
+She sat up straighter against the wall.
+
+“Wait,” she said. “Answer me again.”
+
+She put it out the way she had put the first one, a figure with a wrong thing in it.
+
+“One thousand three hundred and twenty-nine gone at the sixth hour of the day after this one, against the same head. Is the remainder one thousand three hundred and twenty after the head.”
+
+Nothing came for a long time. She sat in the dark with her hand on the stone and the sentences going on above her one at a time, and she counted eleven of them the way she counted boards, and then the twelfth one came.
+
+It said, “One thousand three hundred and nineteen after the head.”
+
+She did not move.
+
+“Ten days, twenty-one hours and thirty-six minutes is three hundred and a half days of taking,” she said, slowly. From one thousand three hundred and sixteen that leaves one thousand three hundred and twelve and a half, and what came back says one thousand three hundred and nineteen.
+
+It is right. It does not round the halves and it does not round the quarters, because a span is a span, and what it is a fraction of depends on what it is being subtracted from, and it has four hundred years of practice at not rounding.
+
+She said that last part three times under her breath, which is a thing she did when she wanted a sentence to stay.
+
+“Twice now. And I know what it can do, and I know what it cannot do, and it took me two figures to find out which is which.”
+
+She said it out loud so that it was on the record.
+
+“It can check. If I put a number in with something wrong in it, it puts the thing right and nothing else. That means I can take any figure I have ever kept and find out whether my own arithmetic is true, and every one of those figures is mine, and I have nineteen years of them.”
+
+She put her hand flat on the stone of that landing.
+
+“And it cannot tell me one thing I do not already have a figure for. I cannot put the four months in, because I have no unit for the four months. I cannot put a ceiling in, because I have no figure for a ceiling. It checks what I have and it has nothing of its own.”
+
+He said, “That is a good deal safer than you are making it sound.”
+
+“No. It is exactly as dangerous as it sounds and it is dangerous because it works.”
+
+## What He Heard
+
+“You heard that,” she said.
+
+“Yes.”
+
+“What was it?”
+
+“A sentence.”
+
+She stopped there, because that was as far as the arithmetic got.
+
+“A sentence going past in the traffic, the same as the others. It came through and it went to me and there was nothing on it.”
+
+“There was nothing on it?”
+
+“Ning Yan. I have been on the other end of this for nine years and there is no mark on anything that comes through. It is one sentence where a sentence was. If that was an answer then it is the first answer I have ever been unable to tell from the news.”
+
+She sat down again, and not because she wanted to.
+
+“So it is answering me and not you.”
+
+“It is answering whoever put the figure out.”
+
+“Which was me.”
+
+“Which was you.”
+
+She put that down in front of herself and looked at it for a while, because it was a different thing from anything she had gone up the stair expecting to find, and she had been assuming for four days that answering and hearing were going to turn out to be the same place.
+
+She had said his name once, three days ago, on the fourteenth, and he had used it.
+
+“Do not do that,” he said.
+
+“Do what.”
+
+“Say my name the way you did on the fourteenth, in the middle of a thing you are about to say out loud, and then do not say it again. That is a thing the traffic can hear and you know it is, because you have known it since the twelfth of the month beginning two thousand eight hundred and fifty-two.”
+
+She had known it. She had known it for four days and had been walking nine landings to a place where sentences go past with it in her mouth like a lamp.
+
+“All right,” she said. “Not today.”
+
+“Not today.”
 
 ## What Correct Means
 
-She sat down on the stone of the twelfth landing with her back against the wall, because the answering needed sitting, and she said the rest sitting, in the ordinary voice.
+She sat on the stone with the cold coming up through the floor into her and put the whole of it in the ordinary voice, sitting, because she wanted to hear it as a sentence and not as a finding.
 
-She said, “Here is what correct means, said plain. A thing that answers a figure correctly and explains nothing is a keeping, not a teacher. It keeps the count true and keeps the reason back, and both keepings are four hundred years old, and both have six hundred more of practice behind them.”
+“A thing that answers a figure correctly and explains nothing is a keeping, not a teacher. It keeps the count true. It keeps the reason back. Both of those keepings are four hundred years old and both of them have six hundred more years of practice behind them.”
 
-She said, “And fury, sudden, clean, and I am not going to cool it. Five mornings of work out of my own arithmetic, and one sentence puts eleven right and leaves everything else standing. Correct without explaining is how a ceiling is kept. The count true. The reason back. The thinned going on thinning.”
+She put her hand on the place behind her fourth rib, and it was still the size of her thumbnail, and she took her hand off again.
 
-She said, “And here is the part that steadies, said plain. The Scribe did not object when I named it, and it does not object now. It answers what is put as a figure. It never lies. It never explains. It never asks. That is all of it, and it is enough to go on with, and I am saying so out loud so that I do not ask it to be more.”
+“And fury. Sudden and clean and I am not going to cool it. Six mornings of work out of my own arithmetic and one sentence puts eleven right and leaves every other thing standing exactly where it was.”
 
-She got up and stood with nothing in either hand, and she said it standing, because the answering was standing work.
+She looked up the dark stair at the thirteenth landing she had never meant to stand on.
 
-She said, “One figure answered correctly, unexplaining. That is got, and it holds.”
+“Correct without explaining is how a ceiling is kept. The count true. The reason back. The thinned going on thinning.”
 
-## The Small Error Kept
+## Down With the Check in Hand
 
-She stayed on the twelfth landing after the answering was kept, standing with nothing in either hand, because the small error wanted keeping, and she kept it standing.
+She came down in the dark with her left hand on the stone and the cold going out of her arm somewhere around the sixth, and she sat down beside the lamp with the light six paces out from where it stood and stopping.
 
-She said, out loud, standing, in the ordinary voice, “Here is the small error, said plain. I said more by a small count and it said one thousand three hundred and sixteen. On thirteen hundred, a small count is dust. My five mornings of my own arithmetic came within dust of a keeping four hundred years old. That is not nothing. That is five mornings against four hundred years, and dust between them.”
+She put the day into words, sitting, in the ordinary voice.
 
-She said, “And here is the whole of what dust means, said plain. Dust means my arithmetic is true. True arithmetic with no mouth in it reached the kept count. If my count is true, my shape is true. If my shape is true, the thinning is true. If the thinning is true, the ceiling is true. Dust proves the road, and the road leads to the lid.”
+“Lamp on the third landing. Burning. One figure answered correctly by a thing that will not say why, and eleven in thirteen hundred in my favour, and not one mark on it anywhere on the side he is on.”
 
-She said, “And pride, sudden, sharp, and I am naming it because it is the first pride on this stair, and it is small, and I am not going to make it bigger than it is. Five mornings true against four hundred years kept. I am proud, and the pride sits next to the fury, and neither moves the other.”
+She put the grit from the sixth landing's chip in a line on the stone where she had left it two days ago, in order, four pieces, and she put one finger on the first of them.
 
-He said, “You count true.”
+Then she said the one thing the two answers had actually bought her, sitting, with her hand on the cold stone.
 
-She said, “I do. And trueness finishes nothing, and I am saying so out loud. It is one count true, and the taking goes on.”
+“I can check anything I have ever written down. Nineteen years of figures, and every one of them can be put in front of that with a wrong thing in it and come back true. I could not have told you on the fourteenth what the head of my column was worth. I can tell you now that it is worth three hundred and a half days, and I would not have got that out of my own arithmetic in a year.”
 
-## The Dust Carried Down
+She sat with her thumb on the first of the four pieces of chip.
 
-She stayed standing after the trueness was said, with nothing in either hand, because the dust wanted carrying, and she carried it standing.
+What she still could not do, and had not been able to do on either of the two figures, was put the four months in. She had no unit for it. You cannot put a thing in front of a thing that checks things unless you have got a figure for the thing, and she had spent nine years being careful about figures and had never once thought of that as costing her anything.
 
-She said, out loud, standing, in the ordinary voice, “Here is the carrying, said plain. Dust true carried down nine landings to a lamp, past the doorless landing, saying each one where it is used. Carried dust proves the road every step. Every landing said with dust in me says true counts can be walked.”
-
-She said, “And here is the whole of what walked true means, said plain. Tomorrow the walked true goes against four hundred years of building, because dust proved my road, and roads lead to lids, and lids cover what is kept.”
-
-## Down With the Answer
-
-She came down in the dark with her left hand on the stone, past the eleventh, past the tenth with no doorway, past the ninth, saying each one where it was used, and she took longer over the sixth than the rest, because the eleven was still in her.
-
-She sat beside the lamp, and the light went six paces out from where it stood and stopped, and she stayed inside the reach of it until her breath went four counts sitting still.
-
-She said, out loud, sitting, in the ordinary voice, “Lamp on the third landing. Burning. Mine. A figure answered and no reason given. That is the record and there is nothing else in it.”
-
-She said, “And here is what tomorrow is, said plain. The answered figure goes against four hundred years of a building that counts to nine, because a taking kept true for four hundred years is protecting something, and I am going to work out what it protects.”
-
-There was a lamp burning on the stone of the third landing, and one thousand three hundred and sixteen standing answered where eleven was wrong, and a woman sitting beside the light with fury and steadiness both in her.
-
-And it had answered a figure and explained nothing, and that was the day, and the unexplaining would be there in the morning to be worked around.
+Tomorrow this was going against four hundred years of a building that counted to nine and stopped, because a keeping that has been true for four hundred years is a keeping something.

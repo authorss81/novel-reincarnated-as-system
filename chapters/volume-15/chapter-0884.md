@@ -1,83 +1,151 @@
 # Merit on Cold Ground
 
-One hundred and seventy-seven days since the ninth stage. Six hundred and eight days in that room. The cage out three hundred and seventy-five days. Right arm open six hundred and fifteen days and it is not going to close. One thousand three hundred and fifty of the days gone at this morning and not one coming back.
+Two days of it.
 
-There was a lamp burning on the stone of the third landing above a room that was not a room, and there was a woman sitting beside it who had placed her anger in two places, and there were two days of cold and arm and landing in front of her, and she was going to sit with it.
+She had said on the way up the fourteenth that placed anger needs sitting the way a wall needs drying, and then she had said out loud, on a landing, in the ordinary voice, that she was going to sit it for two days, and the only way to be a person who does what she says she was going to do about it was to do it.
 
-## Sitting Two Days
+So she sat.
 
-She said it out loud, sitting, in the ordinary voice, at about the sixth hour of the sixteenth of the month, before she did anything else about it.
+## The Sitting, Described
 
-She said, “Figures first and the reason after. One hundred and seventy-seven days since the ninth. Six hundred and eight in that room. Three hundred and seventy-five since a lamp in a cage went out. Six hundred and fifteen with this arm open and it is not going to close. One thousand three hundred and fifty of the days gone and not one coming back.”
+She got as far as describing it on the way up and stopped herself, and then decided to finish, because she had been a month on this stair finding out that the only instrument she had was saying things out loud and she was not going to be one of those people who stops using an instrument because it is uncomfortable.
 
-She said, “And here is the reason. Two days ago the anger went into its two true places, and yesterday and today there is nothing to do about it. The ceiling cannot be spoken to. He has been spoken to. This morning there are two days of sitting, cold, arm, landing, and I am going to sit them.”
+Here is what sitting was.
 
-She said, “It is endurance, and it is dull, and it is the first dull endurance on this stair.”
+It was cold through the floor. It was the arm shaking at intervals she could not predict and having nothing to do about. It was nine counts lying still and four counts sitting still. It was the sentences going on above her one at a time, plain, reporting, at their own intervals, and his half going on inside her in the ordinary way.
 
-She said, “Not wrath, which I had two days ago and know its shape. Endurance of sitting with placed anger without throwing it, because throwing would be warm and false, and sitting is cold and true.”
+It was not working.
 
-She said, “And what I want is to sit it out. Two days. I can sit two days.”
+Fourteen mornings of arithmetic had made fourteen things. Two days of nothing had made nothing, and the nothing was not a failing and it was not peace, it was the space where a thing would go if it were going to go.
 
-She left the lamp burning on the third landing and went up past it in the dark with nothing in either hand, with her left hand on the stone, saying the landings where they were used, fourth through eleventh, because the endurance needed every one of them under it.
+## The First Day
 
-## The First Day Sitting
+She went up at about the sixth hour and she did not work.
 
-She sat on the stone of the twelfth landing with her back against the wall through the morning, with the cold coming up through the floor into her, and her breath nine counts lying still when she lay and four counts sitting still when she sat, and her arm open six hundred and fifteen days shaking twice, and lying still until it stopped twice.
+That was the whole of the first day. She sat on the stone of the twelfth landing with her back against the wall and the cold coming up through the floor into her, and her breath went nine counts lying still and four counts sitting still, and her arm shook twice, and she lay still until it stopped twice.
 
-She said, out loud, sitting, in the ordinary voice, “Here is the first day, said plain. Cold through the floor, arm shaking, sentences going through me to him one at a time, his half going on inside me where I can hear it. No working. No measuring. No saying. Sitting with two angers that do not warm.”
+The sentences went on above her one at a time, plain, reporting, through her to him. His half went on inside her where she could hear it.
 
-She sat there for about a count of three hundred with that in her, and the sentences went on, and his half went on, and she did not work, which she had never done on the twelfth.
+Nothing came down the stair to her, because there was nothing down the stair.
 
-She said, “And here is what not working does, said plain. Fourteen mornings of arithmetic made a head, a night, a shape, a lid, a name, a many, a share, a saying, a placing. This morning makes nothing, and the nothing sits next to the fourteen makings, and neither moves the other.”
+She had done twelve mornings of arithmetic. That had given her a mouth where a column had been, a rate instead of a sum, a night, a chip of stair, a wall, a lid, a mercy, a name, a hundred rooms, a man who was not a thief, a figure said out loud, and a sentence said to a man in her own head that she had not answered.
 
-He said, “You sit.”
+The morning made nothing. The nothing sat next to the fourteen makings and did not move them.
 
-She said, “I do. And sitting is the whole of today, and I have done it, and the doing holds.”
+At about the fourth hour she said one figure out loud, because she could not help it, and it was the wrong one, and she let it go by and did not correct it.
 
-## The Second Day, and Going Off
+## The Second Day
 
-She came up again the next morning in the dark with her left hand on the stone, saying the landings where they were used, and she sat on the twelfth landing with her back against the wall, and the cold came up through the floor into her, and she stayed.
+She came up again at about the sixth hour in the dark and said the landings where they were used and sat down on the twelfth and the cold came up through the floor into her and she stayed.
 
-She said, out loud, sitting, in the ordinary voice, “Here is the second day, said plain. Same cold, same arm, same sentences, same half heard. The anger in its two places, unthrown. The Anchor named, unheard below. The small share said, undefended. Sitting does not move one of them.”
+Same arm. Same cold. Same sentences, same half heard.
 
-She sat there for about a count of three hundred, and then she put her hand flat on the stone beside her, off the ground the building stands on, the way merit was once settled off the ground the room stands on, and she said the rest sitting, because merit said sitting is a settling and merit said standing is a claim.
+The anger in its two places, unthrown. The Anchor named on a landing nine flights above the tables it holds. The small share said to a man who did not defend himself. A wall with a man's shape cut out of it.
 
-She said, “Here is what settles, said plain, with my hand on cold stone. I kept the keeping. He kept the hearing. The ceiling kept the Anchor. Three keepings, all real, none told in full, all paid. Merit settles between them, off the ground, never on a death, with no figure stated, and goes off, and it is not for the page.”
+Sitting had not moved one of them. She had expected sitting to move something and she had known for about a count of a hundred that it would not, and she had come up anyway, twice, on two days, with nothing to do, which was the hardest thing she had done in a month.
 
-She sat there for about a count of forty with that settled, and his half went on inside her where she could hear it, quiet, the way he goes quiet after a settling, and the sentences went on above her whether she heard them or not.
+She put her hand flat on the cold stone beside her.
 
-She said, “And quietness, sudden, whole, and I am naming it because it is the first quietness on this stair, and it is large, and I am not going to make it smaller than it is. Two days sat, anger unthrown, merit gone off stone, nothing made, everything held.”
+## The Place Behind Her Fourth Rib
 
-## The Stone Witness
+She put her other hand on the place behind her fourth rib without deciding to, the way she had been doing it since the twentieth.
 
-She stayed on the twelfth landing after the quietness was named, sitting with her back against the wall, because the stone wanted naming, and she named it sitting.
+It had been the size of a coin at the sixth hour on the twentieth and the size of her thumbnail on the twentieth at about the sixth hour, and this was the sixteenth and it was still the size of her thumbnail.
 
-She said, out loud, sitting, in the ordinary voice, “Here is the stone, said plain. Cold under my hand two days, through my front two days, witness to sitting that made nothing. Stone keeps nothing and holds everything. My hand on it settled merit off the ground, and the settling went off and is not for the page, and the stone stayed cold.”
+She sat with two fingers on it for a long time, waiting for it to do anything at all, and it did not do anything at all.
 
-She said, “And here is the whole of what witness means, said plain. The Anchor named above stone. The many found above stone. The small share said above stone. The count still unsaid above stone. Stone heard all of it the way the wire hears sentences, by being between. Between is not nothing. Between is where I live.”
+Five days, she said to herself, and then out loud, because five was a figure and figures were the only thing she had ever been able to trust.
 
-She said, “And homeness, sudden, strange, and I am naming it because it is the first homeness on this stair, and it is small, and I am not going to hide it. Cold stone under my hand two days is nearer home than any table. Tables take figures. Stone takes sitting. Sitting is what I have done, and the stone took it.”
+“Five days. It was not smaller yesterday and it is not smaller today. It is not going to go down on its own and I have not done anything that would make it go down. I went up onto a landing I had never stood on and I put an open arm out into the dark and the dark took it.”
 
-He said, “You rest now.”
+She took her fingers off.
 
-She said, “I do. And resting finishes nothing, and I am saying so out loud. It is one stone named, and the taking goes on.”
+“I am not going to sit here for two days and pretend that does not count as damage. It counts as damage. It is sitting at the size of a thumbnail, and I do not have an instrument that will tell me whether that is a serious thing or a small thing, and I have spent nineteen years refusing to put figures in that have nothing behind them.”
 
-## The Resting Kept
+She put her hand back on the cold stone.
 
-She stayed sitting after the stone was named, with her back against the wall, because the resting wanted keeping, and she kept it sitting.
+“So it is a thing that is worse than it was. Not a catastrophe. Worse. I can carry worse. I have been carrying worse at the rate of one a day for a month and I have not once put it down.”
 
-She said, out loud, sitting, in the ordinary voice, “Here is the resting, said plain. Two days sat with anger unthrown, merit settled off stone and gone, quietness named, homeness found. Resting after sitting is different resting than resting before. Before was waiting. After is holding. Holding rests deeper.”
+## What Settles
 
-She said, “And here is the whole of what deeper means, said plain. Deeper means tomorrow the quietness gets broken by a number, because held anger asks its count, and the count is derived, and derived said is the last work.”
+Something settled.
 
-## Down After Sitting
+Not loudly. There was no sound and no sentence in the traffic came out of order and no voice anywhere in the building said anything. She felt it the way she had felt the four months go out of her as a child, which is to say she did not feel it at all until afterwards.
 
-She came down in the dark with her left hand on the stone, past the eleventh, past the tenth with no doorway, past the ninth, saying each one where it was used, and the cold went out of her arm somewhere around the sixth and did not come back for a space.
+She sat there for a count of forty with her hand on cold stone and worked out what had happened.
 
-She sat beside the lamp, and the light went six paces out from where it stood and stopped, and she stayed inside the reach of it until her breath went four counts sitting still.
+She had kept a keeping. He had kept a hearing. The ceiling had kept the Anchor. Three keepings, all real, none of them told in full, all of them paid.
 
-She said, out loud, sitting, in the ordinary voice, “Lamp on the third landing. Burning. Mine. Two days sat with anger unthrown. That is the record and there is nothing else in it.”
+The merit of that settled between them, off the ground the building stands on, and it went off, and there was no figure for it and she was not going to look for one.
 
-There was a lamp burning on the stone of the third landing, and two days of sitting gone into stone, and merit settled off the ground and gone off, and a woman sitting beside the light with quietness sitting beside her.
+She said that out loud, sitting, with her hand on the stone, because a thing that settles without being said does not get said.
 
-And she had sat with it and thrown nothing, and that was the two days, and tomorrow there would be a number to say whether the quietness allowed it or not.
+“I kept the keeping. You kept the hearing. It held what it was for. And it went off, and there is no figure, and there is not one person in this for anything.”
+
+She sat with that for a while and found she was not even tired about it.
+
+## The Stone
+
+The stone under her hand had been cold for two days and had stayed cold and had not once asked her for anything.
+
+She said that out loud too, because she had begun the stair on the seventeenth saying things before she had worked out why, and it had turned out to be the reason.
+
+“Stone keeps nothing and holds everything. It has been under this stair for four hundred years and it has had every kind of person on it and it has never once had an opinion about any of them.”
+
+She moved her hand about a foot and put it back down.
+
+“It heard the Anchor named. It heard the figure said to him. It heard me not answering him. Between is not nothing. Between is where I live.”
+
+She was quiet for a long moment and then she said the thing she had been not saying for two days.
+
+“I have been standing under a warm wall on a landing in a building that does not stop, and two days of cold stone has been nearer home than the table ever was. Tables take figures. Stone takes sitting.”
+
+## Him, on the Second Day
+
+He had been quiet for a long time. Not gone quiet. She had learned the difference in a month and she could hear the difference now the way you hear a room with one person in it against a room with none.
+
+He said, “Have you eaten today.”
+
+She sat on the cold stone of the twelfth landing with her back against the wall and her hand flat on the floor and the cold coming up through her and the sentences going on above her one at a time, and he asked her that.
+
+It was not in any of the four hundred years of anything she had worked out in a fortnight. It was not a finding and it was not a want and it was not arithmetic and it had no place on any column she had ever kept.
+
+She was not hungry. She had not been hungry for two years. That was the whole of what she knew about eating and it was that the layer took it out of the same foundation it took everything else out of, so that not being hungry was not health, it was the bill.
+
+“I have not eaten today,” she said.
+
+“No.”
+
+“I have not eaten since the nineteenth of the month beginning two thousand eight hundred and fifty-four and I have not been hungry once in two years and you knew that.”
+
+“Yes.”
+
+“So it is not a question about the body.”
+
+“It is not a question about anything,” he said. “It is the only sentence I have got that is not about the arithmetic, and I have been sitting on it for two days waiting to see whether you would be all right.”
+
+She left it where it was.
+
+She sat with her hand on the stone and let it be the thing it was, which was a man asking whether she had eaten, in the fourteenth month of a year in which not one person had asked her that in nineteen years, and there being nothing whatever to be done about it.
+
+“Not,” she said. “I am not all right. I have been not all right for two days and I got up this morning expecting sitting to do something and it has done nothing at all and that was the arrangement and I have kept it.”
+
+“That is what I asked,” he said.
+
+“No, it was not.”
+
+“No,” he said. “It was not. I had one sentence and I used it on the wrong question, because it was the only one I had, and I have been sorry about that for about a count of twenty.”
+
+She put her head back against the wall of the landing and looked up at a ceiling she could not see.
+
+“You do not have to be sorry about it.”
+
+“I am going to be,” he said. “Nine years is a long time to have one sentence in you and I have not spent any of them on anything that was not arithmetic.”
+
+The lamp was on the third landing and the cold was under her and the place behind her fourth rib was still the size of her thumbnail and two days of sitting had moved none of it, and the count was still in her, derived and unsaid, and there was a man in her head who had asked her a question about food and got it wrong on purpose and knew that he had got it wrong.
+
+She had not been asked anything like that in nineteen years, and she had never once noticed the absence of it until a fortnight.
+
+That was the worst thing that had happened to her on this stair, and she was not going to say so, and she did not have to, because he heard everything now.
+
+That was the price of the fourth of the month beginning two thousand eight hundred and fifty-two, paid daily, and she had gone into it with her eyes open and had never once been asked whether she was all right.

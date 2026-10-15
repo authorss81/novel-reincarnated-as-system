@@ -24,13 +24,13 @@ She left the lamp burning on the third landing and went up past it in the dark w
 
 She went on up with the count in her mouth, and she came onto the twelfth, and the sentences were already going on there, one at a time, plain, reporting, going through her to him, and he was listening, and she stood on it in the dark with nothing in either hand and six days of a want in her.
 
-She stood there for about a count of a hundred and forty, and then she said it out loud, standing, in the ordinary voice, the word she has used for six volumes, in the sense she has always used it, which means it costs the person who is not in the room.
+She stood there for about a count of a hundred and forty, and then she said it out loud, standing, in the ordinary voice, the word she has used for six years, in the sense she has always used it, which means it costs the person who is not in the room.
 
 She said, “It is good.”
 
 She stood with that said, and the sentences went on, one at a time, through her to him, and his half went on inside her where she could hear it.
 
-She said, “And here is the whole of what good means, said plain, because I have used the word for six volumes and I am not going to let it be soft now. What it said to him is good for him. To be answered instead of found. To be heard where he is. Fifteen years of asking in half sentences, and now an audience, polite, and correct, and offering.”
+She said, “And here is the whole of what good means, said plain, because I have used the word for six years and I am not going to let it be soft now. What it said to him is good for him. To be answered instead of found. To be heard where he is. Fifteen years of asking in half sentences, and now an audience, polite, and correct, and offering.”
 
 She said, “And it costs the person who is not in the room. That is what good has always meant and it means it now. Every sentence he says to me is now a thing that can be heard by the thing that made him. There is no room in my head that is his alone any more. I am the wire and not the voice. That is the cost and it is on me and it cannot be un-taken.”
 
@@ -40,7 +40,7 @@ She said, “And he chose it for the two of us and did not ask me. That stands n
 
 She stood on the twelfth landing in the dark with her hands on nothing, and the sentences went on, one at a time, and his half went on inside her, and she said the rest out loud, standing, in the ordinary voice.
 
-She said, “I have wanted him not to die for fifteen volumes. That is one sentence and I have said it in every way there is to say it. This is a different sentence and I have never said it.”
+She said, “I have wanted him not to die for nine years. That is one sentence and I have said it in every way there is to say it. This is a different sentence and I have never said it.”
 
 She stood there for about a count of ninety, and then she said it, out loud, standing, in the ordinary voice, in the channel that can be heard, where it cannot be got back.
 
@@ -48,7 +48,7 @@ She said, “I want it for him.”
 
 The sentences went on, one at a time, plain, reporting, through her to him, and nothing in them changed, and nothing answered her, and nothing objected, and his half went on inside her where she could hear it.
 
-She said, “And here is the whole of that, said plain, because it is the first time in fifteen volumes I have wanted anything for him, and it is going to hold. I want him answered. I want him heard. It costs me every private room I ever had in my own head, and I want it for him anyway, and I have said so where it can be heard, and I cannot get it back.”
+She said, “And here is the whole of that, said plain, because it is the first time in nine years I have wanted anything for him, and it is going to hold. I want him answered. I want him heard. It costs me every private room I ever had in my own head, and I want it for him anyway, and I have said so where it can be heard, and I cannot get it back.”
 
 She said, “And it is joy. And I am naming it because it is the first joy on this stair, and it is small, and I am not going to make it bigger than it is, and it sits next to the unwillingness and neither of them moves the other. I want a thing for him that costs me, and I said so out loud, and the saying holds.”
 

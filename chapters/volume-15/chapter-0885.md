@@ -1,77 +1,141 @@
 # The Number in the Channel
 
-One hundred and eighty-three days since the ninth stage. Six hundred and fourteen days in that room. The cage out three hundred and eighty-one days. Right arm open six hundred and twenty-one days and it is not going to close. One thousand three hundred and fifty-six of the days gone at this morning and not one coming back.
+She had held it for four days.
 
-There was a lamp burning on the stone of the third landing above a room that was not a room, and there was a woman sitting beside it who had sat two days with anger unthrown, and there was one number derived in fourteen mornings that had never been said out loud, and she was going up to say it.
+That was the part she had not thought of. She had had the figure since the seventeenth and she had carried it up and down nine landings for four days without saying it, and the carrying had not been the hard part. The hard part was going to be the three hours between the sixth hour and the ninth with it in her, on a cold floor, alone, with nothing to do.
 
-## The Count to Be Said
+She went up at about the sixth hour and said the day's figures on the fourth landing because she was not going to arrive at the top of this with anything unsaid except the one thing.
 
-She said it out loud, sitting, in the ordinary voice, at about the sixth hour of the twenty-second of the month, before she did anything else about it.
+“One hundred and eighty-three days since the ninth stage. Six hundred and fourteen days in that room. The cage out three hundred and eighty-one. This arm open six hundred and twenty-one days. One thousand three hundred and fifty-six gone at this morning.”
 
-She said, “Figures first and the reason after. One hundred and eighty-three days since the ninth. Six hundred and fourteen in that room. Three hundred and eighty-one since a lamp in a cage went out. Six hundred and twenty-one with this arm open and it is not going to close. One thousand three hundred and fifty-six of the days gone and not one coming back.”
+Then she went up and she sat down on the stone of the twelfth landing with her back against the wall and put her hands flat on the floor on either side of her.
 
-She said, “And here is the reason. Fourteen mornings I have worked the tax out of my own arithmetic, and named the Anchor, and found the many, and measured his share small, and said it to him, and placed the anger, and sat two days. One derived number is left, the number dead believing they could ascend, and this morning I am going to say it where it can be read.”
+## The Ninth Hour Is the Hour for This
 
-She said, “It is terror, and it is clean, and it is the last terror on this stair.”
+She had refused him twice at the ninth hour, once at the ninth hour and twenty minutes. She had sent a page down the second stair in her own hand at the first hour. She had said no twice in daylight and once in the dark and every single one of those had been said at an hour and standing up.
 
-She said, “Not quietness, which I had two days and know its shape. Terror at saying a number out loud that cannot be taken out, because numbers said where the ceiling keeper reads are lines, and lines hold.”
+She had worked that out when she was sixteen and she had never once tested it and she was not going to start testing it today.
 
-She said, “And what I want is to say it first in my own voice. Before any line. I can pay for first.”
+“If I say it at the sixth hour it is a morning,” she said out loud, sitting, into the dark, because the stair was nine flights and nothing was going to say it back. “If I say it at the ninth hour standing up it is a line. That is the only difference I have and it is not nothing, and it is the whole of what the fourth term is.”
 
-She left the lamp burning on the third landing and went up past it in the dark with nothing in either hand, with her left hand on the stone, saying the landings where they were used, fourth through eleventh, because the terror needed every one of them under it.
+The cold came up through the floor into her arm and she sat still until it stopped.
 
-## At the Ninth Hour
+## Six Hours to Hold It
 
-She stood on the twelfth landing in the dark with nothing in either hand through the morning, with the sentences going on, one at a time, plain, reporting, through her to him, and his half going on inside her where she could hear it, and she waited, because the saying had an hour and the hour was not yet.
+He said, “Do not say it.”
 
-She sat with her back against the wall through the seventh hour and the eighth, with the cold coming up through the floor into her, and her arm shaking once, and lying still until it stopped once, and she did not work, because the work was done fourteen mornings ago and this morning is the saying.
+She had known he was going to say it. She had known it since the seventeenth and she had said the word Anchor standing on a landing on the twenty-ninth with the same thing hanging over it, and she had done that one anyway.
 
-At about the ninth hour she got up off the floor of that landing and stood in the dark with nothing in either hand, and her breath went nine counts standing still, and then she said it out loud, standing, in the ordinary voice, in the channel the thing that keeps the ceiling can read, first in her own voice before it is a line anywhere.
+“Why not.”
 
-She said, “Six hundred and forty thousand dead believing they could ascend.”
+“Because you have been heard since the twelfth of the month beginning two thousand eight hundred and fifty-two, and you said the Anchor standing and nothing objected, and you have not found out yet what a said thing does when the thing that keeps the ceiling is told about the people it is keeping.”
 
-She stood with that said, and the sentences went on, one at a time, through her to him, and nothing in them changed, and nothing answered her, and nothing objected, and his half went on inside her where she could hear it.
+That was true. That was the truest thing he had said since the tenth.
 
-She said, “And here is the whole of that, said plain. It is a number derived, said once, standing, at the ninth hour, where it can be read. It is not a term. It is not a price. It is the count of the believed and dead in the whole history of what I live inside. Said first in my own voice. Now it is in the record and cannot be taken out.”
+“I have not found out,” she said.
 
-He said, “You say it.”
+“No.”
 
-She said, “I did. And saying it finishes the fourteen mornings, and I am saying so out loud. It is one count said, and the damage is in the hearing and not in the saying.”
+“So the two options are. I say it and I find out what a keeping does with a said count. Or I do not say it and I go on living on a stair with a figure in me that I derived myself and never once said, and I get to be the only person in the world who knows how many of them there are.”
 
-## What Stays Said
+She put her palm down flat on the stone.
 
-She stood on the twelfth landing after the count was said, with the sentences going on, one at a time, through her to him, and his half going on inside her where she could hear it, and she said the rest out loud, standing, in the ordinary voice, because there was one more thing to set straight before she went back down.
+“I have carried that number for four days without saying it, and on the fourth day it stopped being a number I knew and started being a weight. That is what four days does. Not to the figure. To me.”
 
-She said, “Here is what stays, said plain. The Anchor named. The many found. His share small and said. The wrong thief placed and he not right. The count said where it can be read. None of those is a softening, and softening is not this turn, and I am saying so out loud so that neither of us mistakes the saying for the mending.”
+He did not answer that, and the not-answering was the answer, because he had been telling her for two days not to say things where the traffic goes.
 
-She said, “And here is the whole of what the saying costs, said plain. A number in the record that cannot be taken out will be read by the keeping, and the keeping will keep it, and what a keeping does with a said count is not mine to decide. I said it. It holds. What comes of it comes.”
+## The Sixth, the Seventh, the Eighth
 
-She said, “And defiance, sudden, whole, and I am naming it because it is the first defiance on this stair, and it is large, and I am not going to make it smaller than it is. Fourteen mornings of my own arithmetic ended in one number said standing at the ninth hour, and the saying holds whether the stair allows it or not.”
+She sat.
 
-She came down in the dark with her left hand on the stone, past the eleventh, past the tenth with no doorway, past the ninth, saying each one where it was used, and she took longer over the ninth than the rest of them put together, because the count was still in her and saying landings is what she does with a count she cannot put down anywhere else. She sat beside the lamp, and the light went six paces out from where it stood and stopped.
+The sixth hour went. The sentences went on above her one at a time, plain, reporting, through her to him, and the cold came up through the floor and shook her arm and she lay still until it stopped.
 
-## The Hearing After
+The seventh hour went. She did not work. She had nothing to work on. She had worked every morning since the eighth of the month beginning two thousand eight hundred and sixty-four and she had a mouth and a rate and a night and a wall and a name and a hundred rooms and a man who was not a thief and a chip of stair and a sentence she had not answered, and none of it was any use at all against a number.
 
-She sat beside the lamp after the coming down, with her back against the wall and the light six paces out from where it stood and stopping, because the hearing after wanted saying, and she said it sitting.
+The eighth hour came and she tried to stand and could not.
 
-She said, out loud, sitting, in the ordinary voice, “Here is the hearing after, said plain. The count went out standing at the ninth hour and will be read by the keeping, and his half heard it said, and the sentences went on unchanged. No voice rose to meet it. No hand fell to stop it. Said is said, and the world goes on saying its sentences through me.”
+It was not the arm. The arm had been that way for six hundred and twenty-one days and she had been standing on it every morning. It was that three hours of a cold stone floor takes a thing out of a person who is already the size of a wall with a man cut out of it, and she got up on the first try and got down on the second.
 
-She said, “And here is the whole of what after means, said plain. After the Anchor, the many, the small share, the placing, the sitting, the count, there is lamplight and stone and breath four counts sitting still. Great sayings end in small sittings. Small sittings hold great sayings. I sit. The saying holds.”
+She lay there on the stone of the twelfth landing for about a count of two hundred with her face against the cold and the number in her, and she said it to herself out loud to hear what it sounded like.
 
-She said, “And peace, sudden, unlooked for, and I am naming it because it is the first peace after defiance, and it is small, and I am not going to make it bigger than it is. One number said that cannot be unsaid, and lamplight, and breath, and a person heard inside me. Peace sits next to defiance and neither moves the other.”
+“Six hundred and forty thousand.”
 
-He said, “You are still here.”
+She said it lying, in the ordinary voice, and nothing came back and nothing answered and nothing objected and it was the same size out loud as it had been in her head, which was the whole of what she had been afraid of for four days and had not known she was afraid of it.
 
-She said, “I am. And here finishes nothing, and I am saying so out loud. It is one after heard, and what comes of the count comes.”
+Then she got up off the floor. It took her three goes and the second one was bad. Her breath went nine counts standing still. She put nothing in either hand.
 
-## The Light Still Held
+## Said
 
-She sat beside the lamp a long time after the saying, with her back against the wall, and the light went six paces out from where it stood and stopped, and his half went on inside her where she could hear it, and the sentences went on above her whether she heard them or not, and she said the last of the evening out loud, sitting, in the ordinary voice.
+At about the ninth hour she said it out loud, standing, in the ordinary voice, in the channel the thing that keeps the ceiling can read, first in her own voice before it is a line anywhere.
 
-She said, “Here is where the day leaves me. A lamp burning that I cannot refill. A stair going up that does not stop. A count said where the keeper reads that cannot be taken out. A person in my head who heard it said.”
+“Six hundred and forty thousand dead believing they could ascend.”
 
-She said, “Lamp on the third landing. Burning. Mine. A number said out loud standing at the ninth hour. That is the record and there is nothing else in it.”
+She stood on the landing and did not move.
 
-There was a lamp burning on the stone of the third landing, and a count of six hundred and forty thousand said out loud in the channel where it can be read, and a woman sitting beside the light with defiance sitting beside her.
+The sentences went on above her one at a time, plain, reporting, at their own intervals. His half went on inside her where she could hear it.
 
-And she had said the count, and it could not be taken out, and that was the day, and what the keeping does with a said number would come whether she climbed or not.
+Nothing answered. Nothing objected. Nothing changed its length or its tone or its place in the going, and there was no voice in nine flights of building that said anything at all, and she stood on a cold landing in the dark and listened to the whole of the traffic go on past the largest number anybody had put into it in four hundred years.
+
+Then she said the rest of it, because a number said once in a cold place needs saying twice or it will not have been said at all.
+
+“It is a number derived. It is not a term. It is not a price. It is not a request and it is not an accusation and I am not asking anything of anything. It is the count of the believed and dead in the whole history of what I live inside.”
+
+She put her hand flat on the stone of the landing.
+
+“It is said first, in my own voice, standing, at the ninth hour, where it can be read. It is in the record now and it cannot be taken out.”
+
+## What He Says
+
+He was quiet for a long time.
+
+She waited for it with her hand flat on the floor and her breath going four counts sitting still because she had sat down again without noticing that she had.
+
+“Say it again,” he said.
+
+“No.”
+
+“You will have to. It will be read. Things that are read get read more than once.”
+
+“I know it will be read. That is the entire reason I said it standing up. But I am not saying it a second time today, and if I ever say it a second time I will say it standing, and that is the whole of what I have.”
+
+“You have been saying the days gone out loud every morning for nineteen days and none of that could be read.”
+
+“No,” she said. “None of that could be read. That is the first thing in a fortnight that could be read and I have got it out in one morning and I am not going to be careful with it now.”
+
+He did not argue.
+
+That was the thing she had not expected and she sat on the cold stone with it. He did not argue, and he did not tell her that she had been wrong, and he did not put his own want in the road of hers, and she had gone up that stair with a figure she had carried for four days and she had got it said and the only cost so far was three hours on a floor.
+
+“Do you want me to not have said it,” she said.
+
+“No.”
+
+“Then say what you want.”
+
+“I want you to have said it standing,” he said. “That is all. That is the whole of what I have and you have just given it to me and I have been standing here for a count of two hundred trying to work out how to say so without taking it off you.”
+
+She sat on the stone of the twelfth landing in the dark with her hand where it was.
+
+## Down With the Number Spent
+
+She came down in the dark with her left hand on the stone, past the eleventh, past the tenth, past the ninth, saying each one where it was used, and she took longer over the ninth than over the rest of them put together.
+
+That was a habit. She knew it was a habit. Saying landings was what she did with a count she could not put down anywhere else, and she had been doing it for nine years, and it had been a way of saying the numbers out loud without having anyone hear the number.
+
+She had someone hearing the number now.
+
+She sat down beside the lamp on the third landing with the light six paces out from where it stood and stopping, and she said the record sitting, in the ordinary voice.
+
+“Lamp on the third landing. Burning. A count said out loud, standing, at the ninth hour, in the place where the sentences pass. Six hundred and forty thousand. Said first in my own voice before it was anything else.”
+
+She stayed there a long time with that.
+
+Then she said the last of the evening out loud into an empty landing, which she had been doing on this stair for a fortnight and had not once minded until tonight.
+
+“Great sayings end in small sittings. Small sittings hold great sayings.”
+
+She put her hand flat on the cold stone beside her and left it there until the cold went past feeling into the kind of numbness that is not pain and is not anything else either.
+
+The number was in a record that had not held one before. There was no line to take it off. There was no page to burn and no leaf to tear out, because she had said it out loud on a landing in the dark at the ninth hour, standing up, in the ordinary voice, with nothing in either hand, where the sentences went.
+
+It was hers for about a count of a hundred after that, and then it was not.

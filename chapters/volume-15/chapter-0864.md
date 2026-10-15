@@ -14,7 +14,7 @@ She said, “And here is the reason. Three days ago on the twelfth landing I hea
 
 She said, “It is resolve, and it is under the wrath I had three days ago and it is not going to move it, and I am putting it in front of the figures because that is where it belongs.”
 
-She said, “Not wrath. I had wrath three days ago and it is still there and it has not moved. Under it there is resolve, and the resolve is that a thing I have carried for fifteen volumes without a name is going to get one, out loud, standing up, before I argue with it, because that is what I do.”
+She said, “Not wrath. I had wrath three days ago and it is still there and it has not moved. Under it there is resolve, and the resolve is that a thing I have carried for nine years without a name is going to get one, out loud, standing up, before I argue with it, because that is what I do.”
 
 She said, “And what I want is to say what I heard, all of it, standing, in the ordinary voice, and then to give it its word. That is the whole of what I came up this stair with in my head, and there is not one other thing in it.”
 
@@ -38,7 +38,7 @@ She stood on the twelfth landing in the dark with her right arm open in front of
 
 She said, “That is the grammar of an announcement. One sentence. The plain report form. Never advice. Never an explanation. I have been hearing that grammar since I was seven years old without knowing it had a source, and three days ago I lay under the source.”
 
-She said, “And it does not lie. It has never lied to me in fifteen volumes and it did not lie three days ago. And it does not explain. Four sentences and not one of them said why. And it does not ask. Nothing was asked of him and nothing was asked of me.”
+She said, “And it does not lie. It has never lied to me in nine years and it did not lie three days ago. And it does not explain. Four sentences and not one of them said why. And it does not ask. Nothing was asked of him and nothing was asked of me.”
 
 ## The Name
 

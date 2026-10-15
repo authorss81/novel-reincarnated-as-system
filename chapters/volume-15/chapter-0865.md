@@ -14,7 +14,7 @@ She said, “And here is the reason. Three days ago I stood on the twelfth landi
 
 She said, “It is tenderness, and I have not used that word at a table in nineteen years, and I am saying it before I go up and try to refuse a thing on somebody else’s behalf.”
 
-She said, “Not wrath and not resolve. Under both of them there is tenderness toward a person I have carried for fifteen volumes, and it is the first tenderness on this stair, and it is small, and I am not going to make it bigger than it is, and it is going to be the reason if I do what I am going up to do.”
+She said, “Not wrath and not resolve. Under both of them there is tenderness toward a person I have carried for nine years, and it is the first tenderness on this stair, and it is small, and I am not going to make it bigger than it is, and it is going to be the reason if I do what I am going up to do.”
 
 She said, “And what I want is to refuse it on his behalf. I know it is somebody else’s to refuse. I want it anyway, and nothing is under the wanting but that.”
 
@@ -38,7 +38,7 @@ She said, “It is not addressed to me.”
 
 And that was said quieter than the rest, and it came out with her hand flat on the wall and her right arm open in front of her, and the sentences went on, one at a time, through her to him, and he went on listening.
 
-She said, “Here is the whole of it, said plain, because I am standing here and there is no other place to stand. It has not asked me anything. It has never asked me anything in fifteen volumes. It reports and it does not advise, and a refusal is advice turned round, and there is nothing in its grammar for advice to land on.”
+She said, “Here is the whole of it, said plain, because I am standing here and there is no other place to stand. It has not asked me anything. It has never asked me anything in nine years. It reports and it does not advise, and a refusal is advice turned round, and there is nothing in its grammar for advice to land on.”
 
 She said, “I said no twice where everything could hear it. The first time out loud in that room. The second time in my own hand down nine hundred and four steps. Both of them were mine to say. Both of them stand. This one is not mine to say, and saying it does not make it mine.”
 
@@ -50,7 +50,7 @@ She said, “I have no standing. It is not addressed to me and it has not asked 
 
 She said, “And I have no instrument. The instrument in my head is also him, and he is the one being spoken to, and there is no second instrument for me to answer on. Everything I say here goes out into the dark off a landing, and everything it says goes through me whether I speak or not.”
 
-She said, “And it is grief again, the grief from the sixth landing with the forty under it, come back higher up, and it is worse the way I said it would be. I am the wire and not the voice, and the wire does not get to refuse for the voice, and I have spent fifteen volumes being the one who decides everything, and here I decide nothing.”
+She said, “And it is grief again, the grief from the sixth landing with the forty under it, come back higher up, and it is worse the way I said it would be. I am the wire and not the voice, and the wire does not get to refuse for the voice, and I have spent nine years being the one who decides everything, and here I decide nothing.”
 
 She said, “And what I want now is not what I wanted this morning. This morning I wanted to refuse for him. Now I want him to refuse for himself, if refusing is what he wants, and I want him to know that I stood here and found out I could not do it for him, and I am saying that out loud so that it is said.”
 

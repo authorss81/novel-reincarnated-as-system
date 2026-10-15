@@ -1,97 +1,139 @@
 # Walking While Counting
 
-One hundred and fifty-one days since the ninth stage. Five hundred and eighty-two days in that room. The cage out three hundred and forty-nine days. Right arm open five hundred and eighty-nine days and it is not going to close. One thousand three hundred and twenty-four of the days gone at this morning and not one coming back.
+Nineteen days she had been keeping the work and the going apart.
 
-There was a lamp burning on the stone of the third landing above a room that was not a room, and there was a woman sitting beside it who had found a shape of thinning, and there was a stair she had never worked out loud on, and she was going to work walking.
+That was the whole of the discipline and it had been the whole of the discipline for nineteen years: work sitting, work standing, work with the feet still. The mouth did one thing and the feet did another and neither was ever asked to do the other's job.
 
-## Work on the Stair
+She had put the two apart when she was seven, on a night she could still put a date to, because she had said a figure out loud while walking down a stair and had come to the end of the sentence before she had come to the end of the stair, and the sentence had been about the stair.
 
-She said it out loud, sitting, in the ordinary voice, at about the sixth hour of the twentieth of the month, before she did anything else about it.
+She did not want that again. She had spent nineteen years keeping the two of them apart, and this morning she had undone all of it in one climb.
 
-She said, “Figures first and the reason after. One hundred and fifty-one days since the ninth. Five hundred and eighty-two in that room. Three hundred and forty-nine since a lamp in a cage went out. Five hundred and eighty-nine with this arm open and it is not going to close. One thousand three hundred and twenty-four of the days gone and not one coming back.”
+So this morning she went up past the lamp with the day's figures in her mouth before her foot had left the third step.
 
-She said, “And here is the reason. Yesterday the thinning pointed at a ceiling, and all night the ceiling stayed over me the way a lid stays over a pot. This morning I am going to work out loud while walking up a stair, which I have never done, because the work has outgrown the sitting.”
+## Going Up With It
 
-She said, “It is daring, and it is small, and it is mine.”
+“One hundred and fifty-one days since the ninth stage. Five hundred and eighty-two days in that room. The cage out three hundred and forty-nine. This arm open five hundred and eighty-nine days and not going to close. One thousand three hundred and twenty-four gone at this morning.”
 
-She said, “Not hunger, which I had yesterday and know its shape. Daring to let the mouth go while the feet go, because keeping them apart has been my discipline for nineteen volumes, and the discipline is now too small for the work.”
+Fourth landing. She said the fourth and went on saying as she went.
 
-She said, “And what I want is to keep both going to the twelfth. Feet and mouth. I have never asked that of myself.”
+“Ten days at the head, and one thousand three hundred and twenty-four gone. Fifth. Four months in one night to start it. Sixth. Thinner at the rate of stronger.”
 
-She left the lamp burning on the third landing and went up past it in the dark with nothing in either hand, with her left hand on the stone, saying the landings where they were used, and as she said them she said the arithmetic between them, which she had never done.
+She got to the seventh with her breath at seven on the rise and stood on it until it went back to four, and then she went on and kept talking.
 
-## Fourth to Ninth, Aloud
+“Seventh. A taking that thins the wall. Eighth. A passage made easier. Ninth. A ceiling over every ninth.”
 
-She said, out loud, going, in the ordinary voice, “Fourth. Ten days at the head, and one thousand three hundred and twenty-four gone. Fifth. Four months in one night to start it. Sixth. Thinner at the rate of stronger.”
+She stopped there, because the ninth was under her feet and she had not expected the ninth to be under her feet while she was saying it.
 
-She came onto the seventh landing breathing seven counts on the rise, and she stopped until it went four, and then she went on, saying it.
+“Sitting makes the figures into a column,” she said. “Walking makes them into a stair. A column is looked at. A stair is climbed. I have looked at this taking for four mornings. This morning I am climbing it.”
 
-She said, out loud, going, “Seventh. A taking that thins the wall. Eighth. A passage made easier. Ninth. A ceiling over every ninth.”
+## The Thirteenth
 
-She stood on the ninth landing with nothing in either hand, and her arm shook, and she stood still until it stopped, and his half went on inside her where she could hear it, steady under her working, the way ground is steady under feet.
+She went up past the tenth with no doorway in it and past the eleventh and past the twelfth, and this time she did not lay her ear on the floor of the twelfth. She laid her palm flat on the stone for a count of forty out of respect for a habit and then she went on up.
 
-She said, out loud, standing, “And here is what walking does, said plain. Sitting makes the figures into a column. Walking makes them into a stair. A column is looked at. A stair is climbed. I have looked at this taking for four mornings. This morning I am climbing it.”
+There was a thirteenth landing.
 
-She went on up past the tenth with no doorway in it, past the eleventh, with her left hand on the stone, saying each one where it was used with the arithmetic between, and the cold came up into her arm, and she went on through the shaking, which she had never done.
+There was no more on it than there was on any of the others. Stone, cold, no doorway, no wear, nothing on the wall. The stair kept going out of the far side of it into the dark, exactly as it had done out of the far side of the ninth, and the only difference was that she had never stood here.
 
-## The Climbing Proof
+She stood on it for a while and said so.
 
-She stood on the twelfth landing in the dark with nothing in either hand, breathing nine counts standing still, and the sentences went on, one at a time, plain, reporting, through her to him, and she said the proof standing, because it was proved walking and must be said standing.
+“This is the first landing I have ever stood on that I did not know was here. I have been counting them since the eighth of the month beginning two thousand eight hundred and sixty-four and I got to twelve and I stopped. I did not stop because it ended. I stopped because I had run out of the morning and I did not think to come back.”
 
-She said, “Here is what the walking proved, said plain. Four mornings of sitting gave me a first night, a dateless price, a running count, and a thinning. One morning of walking gives me the going together. The thinning grows with the count. The count grows with the mornings. The mornings grow whether I climb or not. The taking runs without me the way the room runs without me.”
+She carried on up the rest of that climb.
 
-She stood there for about a count of a hundred with that in her, and then she said the rest.
+## Talking and Going
 
-She said, “And here is the whole of what running without me means, said plain. If the taking runs whether I climb or not, then it is not kept by my climbing. It is kept by something else, something that keeps every ninth thin, and I am one of a great many thinned, and the great many is the next figure, and I do not have it yet.”
+It was different and it was not different the way she had expected.
 
-He said, “You keep going.”
+The figures came out slightly wrong while she was moving. She got a nine for a ten and a thirty-one for a thirty-one that was right, and the wrong one was wrong by one in the middle of a step, which is the one place she had spent nineteen years telling herself not to put a number.
 
-She said, “I do. And going finishes nothing, and I am saying so. It is one proof walked, and the taking goes on.”
+She went back and did that landing again and said it properly, and then she went on and let the next one be what it was.
 
-## The Cold and the Arm
+“There is no fixing a stair by walking it once,” she said. “I have said every figure twice since I was nine. Twice is the only number I trust. So the walking does not replace the going back. It only lets me find out which of the two I am doing today.”
 
-She sat down on the stone of the twelfth landing with her back against the wall, because the walking had spent her, and the cold was in her front from the stone, and her arm shook twice, and she lay still until it stopped twice.
+The cold came up into her arm on the twelfth and she went on through the shaking instead of stopping until it stopped, which she had done every morning since the twenty-second of the month beginning two thousand eight hundred and four, and the going on through it took something out of her and gave something back that she could not name yet.
 
-She said, out loud, sitting, in the ordinary voice, “Here is what the morning took, said plain. Cold through the floor, breath nine counts standing still, arm open five hundred and eighty-nine days shaking through the climbing, and going on through it, which I have never done.”
+“It is not discipline,” she said. “Discipline was the two of them kept apart. This is the two of them used at once and it is untidy and I keep losing the ends of sentences.”
 
-She said, “And triumph, sudden, bodily, and I am not going to hide it. I worked out loud walking up a stair in the dark with nothing in either hand, and the work held, and the feet held, and both got to the twelfth. Nineteen volumes of sitting work, and this is the first walking work, and it held.”
+He said, “Keep going anyway.”
 
-She said, “And here is the part that stays, said plain. The triumph does not touch the taking. The taking runs without me. My feet proved it by going. That is the use of the walking, and it is enough for one day, and I am saying so out loud so that I do not ask the triumph to be more.”
+“I am. That is what untidy is.”
 
-She got up and stood with nothing in either hand, and she said the record standing, because the morning was standing work.
+## The Worn Place
 
-She said, “Worked walking to the twelfth and back in the head. That is done, and it holds.”
+The next step out of the thirteenth had a lip on it.
 
-## The Feet Prove Twice
+Not a broken lip. A worn one, a shallow dish in the middle of the tread about the width of her hand, worn by something that had come down this stair a great many times over a great many years. The lamp was on the third landing and there was nothing above the third landing at all.
 
-She stayed on the twelfth landing after the record was said, standing with nothing in either hand, because the proof wanted a second going, and she said it standing.
+She put her left hand flat on the wall and stepped down into the dish.
 
-She said, out loud, standing, in the ordinary voice, “Here is the second proof, said plain. Going up I said the figures between the landings and the going held. Standing here I say them again without the going, and they hold thinner. The figures need the feet the way sentences need the wire. Apart, both thin. Together, both carry.”
+Her foot did not go through the tread. Her foot went through the idea of the tread, which is to say that the stone under her heel was polished to nothing and it rolled, once, a half-turn, and her weight went out from under her sideways into the dark over the edge of a stair nine landings above a room she had left and did not intend to return to.
 
-She said, “And here is the whole of what together means, said plain. Nineteen volumes I sat to work and climbed to listen, and kept the two apart as discipline. The discipline served the room. The room is left. Up here the work and the going are one stair, and one stair wants one climber, mouth and feet together, and I am the one climber.”
+She put her right arm out.
 
-She said, “And joy, sudden, bodily, small, and I am naming it because it is the first joy in work on this stair, and I am not going to make it bigger than it is. Mouth and feet together got to the twelfth with the arithmetic whole. That is enough joy for one morning, and I am saying so out loud so that I do not spend it twice.”
+It did not take her. It had been open at the elbow for five hundred and eighty-nine days and it was open now, and what an open arm does at the elbow is nothing at all, and she went down onto the stone of the thirteenth landing on her hip and her left side with her right arm coming after her and landing on the stone a half-count later than the rest of her.
 
-He said, “You climb whole.”
+The impact went through her and into the open place behind her fourth rib.
 
-She said, “I do. And wholeness finishes nothing, and I am saying so out loud. It is one climber found, and the taking goes on.”
+## What Went Out
 
-## The Whole Kept Walking
+She lay on the stone of the thirteenth landing in the dark and did not move for a long time.
 
-She stayed standing after the wholeness was found, with nothing in either hand, because the whole wanted keeping down, and she kept it going down.
+Then she said, out loud, lying, in the ordinary voice, because if she was going to be badly hurt she was going to be badly hurt in a language she could hear herself in.
 
-She said, out loud, standing, in the ordinary voice, “Here is the keeping, said plain. Whole going down is mouth and feet together on the descent, figures between landings all the way to the lamp. What was climbed whole gets descended whole, or the wholeness thins at the top like walls.”
+“One hundred and fifty-one days since the ninth stage. Five hundred and eighty-two days in that room. The cage out three hundred and forty-nine. This arm open five hundred and eighty-nine days. One thousand three hundred and twenty-four gone at this morning.”
 
-She said, “And here is the whole of what descended whole means, said plain. Tomorrow the whole gets taken where no arithmetic reaches, because the edge of arithmetic is reached, and edges want answered figures, and answered wants asking.”
+Then, after a while, she said the other thing.
 
-## Down Working Still
+“Ten days at the head and a page of my own column with a head on it that does not cover what is under it. Four months in one night. Thinner at the rate of stronger. A taking that thins the wall. A passage made easier.”
 
-She came down in the dark with her left hand on the stone, past the eleventh, past the tenth with no doorway, past the ninth, saying each one where it was used with the arithmetic between, and the working went on all the way down, which it had never done.
+She lay there and listened to the sentences going on above her, one at a time, plain, reporting, and to his half going on inside her where she could hear it.
 
-She sat beside the lamp, and the light went six paces out from where it stood and stopped, and she stayed inside the reach of it until her breath went four counts sitting still.
+He had not stopped.
 
-She said, out loud, sitting, in the ordinary voice, “Lamp on the third landing. Burning. Mine. Work done walking that was never done before. That is the record and there is nothing else in it.”
+Whatever he was saying, he had not stopped, and she had not heard one word of it, and she lay on a cold floor on a landing she had never stood on before and understood, for the first time since the eighth of the month beginning two thousand eight hundred and sixty-four, what the other side of that cost actually was.
 
-There was a lamp burning on the stone of the third landing, and a woman sitting beside it who had climbed and counted at once, and a taking that runs without her going on above her.
+It was not that he could be anywhere but inside her.
 
-And she had worked walking, and it held, and that was the day, and tomorrow the work would be taken where no arithmetic reaches.
+It was that when she went out, he went on.
+
+## The Place Behind the Fourth Rib
+
+She got herself up off the stone in three goes and sat against the wall with her arm out in front of her in the dark and put her other hand on the place behind her fourth rib.
+
+It had been the size of a coin since she was seventeen and she had checked it every morning for two years and she knew the size of a coin the way she knew the size of her own hand.
+
+It was the size of her thumbnail.
+
+She sat with her hand on it and worked out whether that was a real difference or the cold talking, and she did not work it out, because she was cold and she was on a floor and the only instrument she had was a hand.
+
+She said it out loud anyway, because she had started this stair on the seventeenth and had not stopped saying things and was not going to start lying to a floor.
+
+“The place behind my fourth rib is bigger than it was at the sixth hour this morning. I do not have a unit for it. I have one hand and no lamp and I am going to check it again tomorrow and the day after, and if it has not gone back down then it has not gone back down.”
+
+She said that and then she said the other half out loud, because the other half was the true one.
+
+“I went up onto a landing I had never stood on. Nobody sent me. There is no reason in the world for me to have gone up and I went, and the stair was worn and I put an open arm out into the dark and it did nothing.”
+
+## Down With It
+
+She came down in the dark with her left hand on the stone, and it took a great deal longer than it had ever taken her, because the descent had to be done with the left hand only and the left hand is not the one she trusts.
+
+She passed the twelfth and said it. She passed the eleventh and said it. She passed the tenth with no doorway in it and said it, and she passed the ninth and said it, and she took longer over the ninth than over the rest because the shape had touched the ninth and the ninth had been under her feet while she was saying it.
+
+She sat down on the eleventh, which was warm, and stayed there longer than she had stayed anywhere in nine days, with her hand on the place behind her fourth rib and her breath going four counts sitting still.
+
+Four mornings of a mouth and a column, she thought, in the way she thought, which was without words and fast. And this morning, the fifth, a mouth and a pair of feet. And a stair with a worn lip on it four landings above where she had ever been, and a chip of stone that came apart in her hand on the way down, and a landing she had not known was there until she stood on it.
+
+She had gone up further than she had meant to and had got more than she had meant to and had paid for it in the one place on her body that had been getting worse for two years without her doing anything about it.
+
+That was a fair trade and she would not have made it differently, and she sat on the warm stone and said so out loud, because there was not another person in the building to say it to.
+
+“I would not have made it differently. That is not the same as being glad of it.”
+
+She sat down beside the lamp with the light six paces out from where it stood and stopping, and she put her hand on the place behind her fourth rib one more time before she let herself stop doing it.
+
+She did not work out a new figure. She had nothing to say that had not already been said on the way up, and she had said it walking, in the dark, with the feet and the mouth together, which she had never done before and which had held all the way up to the worn place.
+
+Then she went to bed on the stone of the third landing with the lamp burning six paces off.
+
+Somewhere above her, where she could not hear it any more, a man in her own head went on talking about a thing she had not asked him about.

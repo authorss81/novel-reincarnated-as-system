@@ -2,7 +2,7 @@
 
 One hundred and eleven days since the ninth stage. Five hundred and forty-two days in that room. The cage out three hundred and nine days. Right arm open five hundred and forty-nine days and it is not going to close. One thousand two hundred and eighty-four of the days gone at this morning and not one coming back.
 
-There was a lamp burning on the stone of the third landing above a room that was not a room, and there was a woman sitting beside it who had heard sentences starting above the eleventh landing, and there was a question she had carried for fifteen volumes without knowing it, and she was going up to put her ear against it.
+There was a lamp burning on the stone of the third landing above a room that was not a room, and there was a woman sitting beside it who had heard sentences starting above the eleventh landing, and there was a question she had carried for nine years without knowing it, and she was going up to put her ear against it.
 
 ## What That Is
 
@@ -70,7 +70,7 @@ She said, “That is an address. It is addressed to him and it is coming through
 
 She said, “And it is polite. And it is correct. And it is offering. And it talks to him the way I talk to him, and I have never heard any voice do that, and that is the horror, and I am saying so out loud because it would be dishonest not to.”
 
-She said, “And it is wrath. And I am naming it because it is the first wrath in this building since I came up it, and it is mine, and it is at a thing that is using my head as a stair to get to a person I have carried for fifteen volumes.”
+She said, “And it is wrath. And I am naming it because it is the first wrath in this building since I came up it, and it is mine, and it is at a thing that is using my head as a stair to get to a person I have carried for nine years.”
 
 ## What She Does Standing There
 
@@ -86,7 +86,7 @@ She stood on the twelfth landing after the fourth sentence with her hands on not
 
 She said, out loud, standing, in the ordinary voice, “Here is where I am in this. The sentences come down through me. He is at the far end of me. I am the length between them. That is the whole of my place and there is nothing else in it.”
 
-She said, “And I have been that length for fifteen volumes without knowing it. Every announcement I ever read went through me to nobody I knew, and I called the far end nothing, and the far end was him, listening, the way he listened tonight, turned toward it like a person turns toward a voice speaking his name.”
+She said, “And I have been that length for nine years without knowing it. Every announcement I ever read went through me to nobody I knew, and I called the far end nothing, and the far end was him, listening, the way he listened tonight, turned toward it like a person turns toward a voice speaking his name.”
 
 She said, “And bitterness, and I will leave it the size it is. Fifteen years of sentences through me to a person in me, and I never once asked where they were made, and the reason I never asked is that the layer is not a thing anybody has a maker of, and I said that on the eighth of the month beginning two thousand seven hundred and seventy-four, and it was true, and it is still true, and it is also not the whole of it any more.”
 

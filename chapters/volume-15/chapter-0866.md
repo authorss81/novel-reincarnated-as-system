@@ -16,7 +16,7 @@ She said, “And here is the reason. He has decided something without me, on pur
 
 She said, “It is terror, and I am naming it before I argue with it, because I do that.”
 
-She said, “Not fear of the top. Not dread of the wire. Terror at a person I have carried for fifteen volumes making a decision for the two of us without asking me, the way I made decisions for the two of us for fifteen volumes without asking him.”
+She said, “Not fear of the top. Not dread of the wire. Terror at a person I have carried for nine years making a decision for the two of us without asking me, the way I made decisions for the two of us for nine years without asking him.”
 
 She said, “And what I want is to stop him. That is the want and there is nothing else under it, and I know it cannot be stopped, and I want it anyway.”
 
@@ -52,11 +52,11 @@ She said it out loud, standing, in the ordinary voice, at about the eighth hour 
 
 She said, “You can be anywhere but inside me, and I can hear your half.”
 
-She stood there with that said, and the sentences went on, one at a time, through her to him, and his half went on inside her where she could hear it, and every sentence he had ever said to her in fifteen volumes was now a thing that could be heard by the thing that made him.
+She stood there with that said, and the sentences went on, one at a time, through her to him, and his half went on inside her where she could hear it, and every sentence he had ever said to her in nine years was now a thing that could be heard by the thing that made him.
 
 She said, “That is the price and it cannot be un-taken. There is no room in my head that is yours alone any more and there never will be one again. Everything you say to me from tonight is said where it can be heard, and everything said to you is said through me.”
 
-She said, “And here is the rest, said plain. You decided it for the two of us and you did not ask me. That is the oldest habit either of us has, and it was mine for fifteen volumes, and tonight it is yours, and I found out afterwards, and I cannot stop it, and I am not withdrawing from you.”
+She said, “And here is the rest, said plain. You decided it for the two of us and you did not ask me. That is the oldest habit either of us has, and it was mine for nine years, and tonight it is yours, and I found out afterwards, and I cannot stop it, and I am not withdrawing from you.”
 
 She stood there for about a count of a hundred and forty, and then she said one thing about it, once, and it was not the thing she would have said.
 
@@ -68,13 +68,13 @@ She said, “Three days ago I stood on this landing and found out I have no stan
 
 She stood on the twelfth landing after the cost was said, with the sentences going on, one at a time, through her to him, and his half going on inside her where she could hear it, and she said the rest out loud, standing, in the ordinary voice, because there was one more thing to set straight before she went back down, and it was about the telling.
 
-She said, “You told me afterwards. I want that said with it, because a thing said afterwards is still said, and I have spent fifteen volumes deciding for the two of us without asking you, and you know how that sounds from the other end, and now I know too.”
+She said, “You told me afterwards. I want that said with it, because a thing said afterwards is still said, and I have spent nine years deciding for the two of us without asking you, and you know how that sounds from the other end, and now I know too.”
 
 He said, “You know now.”
 
-She said, “I do. And here is the whole of what knowing does to fifteen volumes, said plain. Every time I said a figure at a table without asking you, every time I spent you on a price without asking you, every time I read you as a column and said so out loud, I told you afterwards the way you told me tonight, which is to say I told you by going on. And you stayed. And tonight I am staying. And neither of those lets anything go and neither of them is withdrawal, and I am saying so out loud so that neither of us mistakes it.”
+She said, “I do. And here is the whole of what knowing does to nine years, said plain. Every time I said a figure at a table without asking you, every time I spent you on a price without asking you, every time I read you as a column and said so out loud, I told you afterwards the way you told me tonight, which is to say I told you by going on. And you stayed. And tonight I am staying. And neither of those lets anything go and neither of them is withdrawal, and I am saying so out loud so that neither of us mistakes it.”
 
-She said, “And it is evenness. And I am naming it because it is the first evenness in fifteen volumes, and it is cold, and I am not going to make it warmer than it is. You decided without asking me, the way I decided without asking you, and we both found out afterwards, and we are both still here.”
+She said, “And it is evenness. And I am naming it because it is the first evenness in nine years, and it is cold, and I am not going to make it warmer than it is. You decided without asking me, the way I decided without asking you, and we both found out afterwards, and we are both still here.”
 
 ## The Landings Unsaid
 

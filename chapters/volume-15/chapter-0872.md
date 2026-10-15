@@ -1,91 +1,139 @@
 # The Price Without a Date
 
-One hundred and forty-two days since the ninth stage. Five hundred and seventy-three days in that room. The cage out three hundred and forty days. Right arm open five hundred and eighty days and it is not going to close. One thousand three hundred and fifteen of the days gone at this morning and not one coming back.
+He had said it at the sixth hour last night and she had lain awake on the stone of the third landing with it, the way a person lies awake with a thing that has been handed to her and not yet opened.
 
-There was a lamp burning on the stone of the third landing above a room that was not a room, and there was a woman sitting beside it who had found a remainder larger than her spending, and there was a head of ten days and hours and minutes with no day on it, and she was going up to ask when it was for.
+Ask what a count is for.
 
-## Standing With the Head
+She had asked it of herself before she had gone up. A count is not a sum. A count is a thing that is still owed.
 
-She said it out loud, sitting, in the ordinary voice, at about the sixth hour of the eleventh of the month, before she did anything else about it.
+So she went up to find out what the head of her own column was a count of, and she took the ninth landing on the way and said it out loud twice without stopping, and the second time she said it slower and it was the same.
 
-She said, “Figures first and the reason after. One hundred and forty-two days since the ninth. Five hundred and seventy-three in that room. Three hundred and forty since a lamp in a cage went out. Five hundred and eighty with this arm open and it is not going to close. One thousand three hundred and fifteen of the days gone and not one coming back.”
+## The Count and the Price
 
-She said, “And here is the reason. Last night the head did not cover the body, and I called the column a mouth, and all night beside the lamp the mouth stayed open. This morning I am going to find out whether the head has a day on it, because a price with a day is for something, and a price with no day is for everything.”
+“One hundred and forty-two days since the ninth stage. Five hundred and seventy-three days in that room. The cage out three hundred and forty. This arm open five hundred and eighty days. One thousand three hundred and fifteen gone at this morning.”
 
-She said, “It is suspicion, and it is cold, and it is the first cold thought I have had since the want.”
+She got that out of the way standing on the fourth landing, because it was habit and habit was cheap and she had begun to distrust cheap things.
 
-She said, “Not restlessness, which I had yesterday and know its shape. Suspicion that I wrote a price in my own hand and dated it to a first and never asked what morning it paid for, and that the not asking was the price.”
+Then she said the rest of it, which was the whole of what yesterday had cost her.
 
-She said, “And what I want is the day the head pays for. One day. I can hold one day.”
+“A count is an owing. That is what it is for. You do not count a thing you have paid for. You count a thing you have not paid for and the counting is how you know it is still unpaid.”
 
-She left the lamp burning on the third landing and went up past it in the dark with nothing in either hand, with her left hand on the stone, saying the landings where they were used, fourth, fifth, sixth, seventh, because the suspicion needed the discipline under it.
+She put her hand flat on the wall and waited for that to be disagreeable. It was not disagreeable. It was the plainest thing she had said in a month and it had taken her nineteen days to arrive at it.
+
+“So the head is not a sum. Then the head is a rate.”
+
+She went on up past the fifth and the sixth and the seventh and said nothing at all for the rest of the climb, because the rate had to be said once it was found and not four times on the way to finding it.
+
+## Testing It Going Up
+
+She tested it going up, because she had tested figures going up all her life and because a rate said sitting on a landing is a rate somebody could have written down.
+
+From the fourth to the ninth she put the figure against the stone every landing. Five hundred and eighty days. Five hundred and eighty days of standing under a head of ten days, twenty-one hours and thirty-six minutes.
+
+“Nine days is one head and half of another. Twelve days is one head and a little. Fourteen days is one head and four days over.”
+
+She stopped on the ninth and stood with her hand on the wall.
+
+“In four hundred and seventy-eight days I would have had forty heads. In four hundred and ninety I would have had forty-nine. I have been under this head for five hundred and eighty days and it has never once crossed my mind to ask where the next head went, because a head is a thing you write once at the top of a column and I have been writing it in the same five seconds every morning since I was nine.”
+
+She went on past the tenth with no doorway in it, and the stone there was warmer, and she said the landing where she always said it, and then the eleventh, and she sat down on the warm stone in the dark.
 
 ## When It Was Written
 
-She came onto the eighth landing and stopped, because the date of the writing was in her the way the shape of a table is in a hand that has gone along it ten thousand times, and she said it out loud, standing, in the ordinary voice.
+She came onto the eleventh, which had no doorway in it and had been the warmest stone in the building for as long as she had been climbing, and she sat down on it in the dark, and took out the book that had been against her ribs for nineteen days and looked at it without opening it.
 
-She said, “First of the month beginning two thousand two hundred and ninety-four. I wrote it that morning, four feet off the near end of a table, with the nib against my fourth rib afterwards, and I have carried it five hundred and eighty days.”
+The cold came up out of the floor into her right arm until it shook, and she put her left hand flat on the stone to hold herself still, and she sat there and let the shaking have its way and then went on.
 
-She stood with that said, and the cold came up out of the stone into her arm until it shook, and she stood still until it stopped, and his half went on inside her where she could hear it.
+“The first of the month beginning two thousand two hundred and ninety-four. In my own hand. At the near end of a table, standing up, between two lines.”
 
-She said, “And here is the whole of what writing means, said plain. I wrote ten days and twenty-one hours and thirty-six minutes as the cost of the standing, the whole standing, and I dated the writing, and dating the writing is not dating the price. The writing has a day. The price has none.”
+She had carried it five hundred and eighty days.
 
-She said, “I knew that the morning I wrote it. A price for a standing that goes on cannot have a day, because every morning after it needs the same price again. I knew it and I never used it, and the never using it is on me.”
+“Dating the writing is not dating the price.”
 
-She went on up past the ninth, past the tenth with no doorway in it, past the eleventh, with her left hand on the stone, and she said each one where it was used, and none of them was a stage.
+She said it once and then said it again in the ordinary voice, sitting, with her back against the warm stone, because it was the kind of thing that has to be heard twice to be believed by the person who worked it out.
 
-## No Day on the Price
+“The writing has a day. The price has none. I have been carrying a dated thing and reading an undated thing out of it for five hundred and eighty days and calling them one column.”
 
-She stood on the twelfth landing in the dark with nothing in either hand, and the sentences went on, one at a time, plain, reporting, through her to him, and she said the finding standing, because it was a line and lines are said standing.
+## What She Knew at Nine
 
-She said, “The price does not date. Ten days and the hours and the minutes are for no morning. They are for the standing itself, once, and the standing went on five hundred and eighty mornings after the writing, and every one of those mornings took the same again, and none of them is in the head.”
+The cold had got into her hand on the stone. She took it off and put it on her knee and said the part she had not come up to say.
 
-She stood there for about a count of a hundred and forty with that in her, and then she said the rest.
+“I knew it the morning I wrote it.”
 
-She said, “And here is the whole of it, said plain. One thousand three hundred and fifteen of the days gone, and ten days at the head, and the ten days are not the first ten, and not the last ten, and not any ten. They are the shape of a taking that happens every day, and I wrote the shape once and called it the price, and the taking went on.”
+The sentences went on above her, one at a time, plain, reporting, through her to him. His half went on inside her where she could hear it, and she went on anyway.
 
-He said, “You see it.”
+“I was nine years old and keeping a column. I knew by twelve that a price with no day on it does not get paid late. It gets taken. Every morning. Same figure, same taking, and no end to it, because there is nothing to bring the owing up to.”
 
-She said, “I do. And seeing it finishes nothing, and I am saying so out loud so that neither of us mistakes the seeing for the paying. It is one thing seen, and the taking goes on.”
+She put her hand back on the warm stone.
 
-## The Knew and Never Used
+“I knew that at twelve. I have had that knowledge since I was twelve years old and I have been standing under this head since I was nine, and I have never once used one against the other.”
 
-She sat down on the stone of the twelfth landing with her back against the wall, because the finding needed sitting the way a weight needs a floor, and she said the rest sitting, in the ordinary voice.
+He was quiet for long enough that she thought he had gone.
 
-She said, “Here is what I knew and never used. That a price with no day is taken daily. That ten days at the head meant ten days every span, not ten days once. That one thousand three hundred and fifteen is not a remainder but a running count, and it runs because something takes, and the taking does not stop for a head.”
+Then he said, “Ask me.”
 
-She said, “And shame, hot, sudden, and I am not going to cool it. I was nine years old when I started keeping columns, and I knew by twelve what a dateless price means, and I carried this one five hundred and eighty days without using what I knew.”
+She did not, immediately. She sat with the shape of the asking and turned it over, and what came up first was not the question she had spent nineteen years carrying.
 
-She said, “And here is the part that is actually on me, said plain. Using it would have meant asking what takes it, and I did not ask, because asking would have meant finding out the taking was not his, and I had already decided whose it was, and I had been angry for fifteen volumes, and anger is warmer than asking. The taking it points at will run in the morning whether I name its start or not.”
+“When you take it out of me, does it come out as days?”
 
-She got up off the floor of that landing and stood with nothing in either hand, and her arm shook, and she stood still until it stopped, and then she said it standing, because the shame needed the standing to hold it.
+“No.”
 
-She said, “I knew and I never used it. That is said, and it holds.”
+“Does it come out as anything you could count?”
+
+“I do not know.”
+
+She turned her head in the dark even though there was nothing in it to see. That was the first time in nine years he had said I do not know to her about a thing he had an answer for.
+
+“No,” he said. “That is the honest answer and I am not going to improve on it. I have been on the other end of this for nine years and I have never once been shown what comes out. Ask me again when you have a figure that fits and I will tell you what I can see from here.”
+
+She sat with that too.
+
+It was not comfort. She had been getting comfort out of him in half sentences for nine years and she knew exactly what comfort looked like in him and this was not it. This was a man telling her the edge of what he could reach, which was a thing she had never once asked him for and had never once been given.
+
+“All right,” she said. “I will ask you again.”
 
 ## The Span Priced
 
-She stayed on the twelfth landing after the shame was said, standing with nothing in either hand, because the undated price wanted one more putting, and she said it standing, the way lines are said.
+She stood up off the warm stone, and the standing took four counts because of the arm and the cold, and she said the span out loud with her back against the wall.
 
-She said, out loud, standing, in the ordinary voice, “Here is the span priced, said plain. Ten days and twenty-one hours and thirty-six minutes at the head. Five hundred and eighty days of standing under it. If the head is the shape of each span and not the price of all, then fifty and more such heads have gone through me since the writing, and one thousand three hundred and fifteen is the running sum of them.”
+“Ten days, twenty-one hours and thirty-six minutes at the head. Five hundred and eighty days of standing under it. Fifty-eight heads.”
 
-She said, “And here is the whole of what span pricing means, said plain. Four months gone in one night started it. Ten days a span kept it. One thousand three hundred and fifteen now is the piling of fifty spans, every one untold, every one thinned. The head I wrote once was never the whole. It was the measure of one.”
+She let that go on its own.
 
-She said, “And steadiness, cold, new, and I am naming it because it is the first steadiness after shame, and it is small, and I am not going to make it bigger than it is. Fifty spans priced out of one head means the work has a scale now, and scale can be climbed, and I have been climbing scales for nineteen days.”
+“Fifty-eight times ten days is over five hundred days of a taking. And one thousand three hundred and fifteen is nearly three times that again. So the head is not even the whole of the taking. The head is one span of it and the span is one thirtieth of what has come out of me.”
 
-He said, “You measure.”
+She was quiet for a moment with her hand on the wall.
 
-She said, “I do. And measuring finishes nothing, and I am saying so out loud. It is one scale found, and the taking goes on.”
+“For five hundred and eighty days I have believed that a number was owed to me. There is not a number owed to me. There is a rate, and it has been running, and it was never once going to be paid up.”
 
-## Carrying the Undated Down
+## Down With the Night in It
 
-She came down in the dark with her left hand on the stone, past the eleventh, past the tenth with no doorway, past the ninth, saying each one where it was used, and the cold went out of her arm somewhere around the sixth and did not come back for a space.
+She came down in the dark with her left hand on the stone, and the cold went out of her arm somewhere around the sixth and did not come back for a space, and she sat down beside the lamp with the light going six paces out from where it stood and stopping.
 
-She sat beside the lamp, and the light went six paces out from where it stood and stopped, and she stayed inside the reach of it until her breath went four counts sitting still.
+She said the record sitting, in the ordinary voice.
 
-She said, out loud, sitting, in the ordinary voice, “Lamp on the third landing. Burning. Mine. A price with no day on it, known and never used. That is the record and there is nothing else in it.”
+“Lamp on the third landing. Burning. A rate and not a sum. Fifty-eight heads under one head. One thousand three hundred and fifteen gone and not one of them waiting to be settled.”
 
-She said, “And here is what tomorrow is, said plain. I put the undated price against the one night I have never named to anybody, because a taking that runs daily must have started somewhere, and I know where mine started, and I have never said it out loud.”
+She stayed where she was with it for a while.
 
-There was a lamp burning on the stone of the third landing, and a price of ten days and hours and minutes with no morning on it, and a woman sitting beside the light who knew what undated means.
+She got out the book and opened it on her knee, in the dark, because she did not need the lamp to know where the leaves were.
 
-And she had found out the price does not date, and she had known it all along, and that was the day, and the taking it points at would run in the morning whether she named its start or not.
+Eight leaves. Four of them written on, and one of those sent down nine hundred and four steps into the dark and never opened by anybody. Four of them blank, and blank since the day she wrote the refusal, and she had carried them blank through five hundred and seventy days of saying figures out loud under a head she had never once checked.
+
+She put her thumb on one of the blank leaves and left it there.
+
+That was the whole of the habit she had never looked at. Every morning for nineteen years the arithmetic had gone out of her mouth into a room, or onto a stair, or into a column under a head, and never once onto a leaf.
+
+There was no leaf anywhere in the world with one single one of these mornings on it.
+
+And there was no leaf in the world with the night on it either, and that was the other half of the habit, and she had carried both of them since she was nine.
+
+She closed the book and put it back against her ribs.
+
+The rate has to have started somewhere.
+
+She knew where hers started. She had known since she was a child with a column in her hand and no other person in the room. She had a night, and the night had a month, and the month had four of her months in it that had never gone anywhere she could name.
+
+She knew the date. She had known it for nine years.
+
+She did not say it, and that was the second thing she had carried up nine landings in the dark and not said.

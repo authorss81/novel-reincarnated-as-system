@@ -72,7 +72,7 @@ She said, “And I am going to say the one thing that is not in that list, becau
 
 She said, “I am frightened of the top. And that is not the same as being frightened of the stair, and I have worked out that it is not the same, and it is worse.”
 
-She said, “Whatever is at the top of this building is the first thing in fifteen volumes that has ever been above me. And I do not know what a person does when she gets to a thing she has spent nineteen years walking towards, and there is not one figure in any of this that tells me.”
+She said, “Whatever is at the top of this building is the first thing in nineteen years that has ever been above me. And I do not know what a person does when she gets to a thing she has spent nineteen years walking towards, and there is not one figure in any of this that tells me.”
 
 She said, “And I am going up there anyway, with a lamp I am not bringing back.”
 

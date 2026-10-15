@@ -673,3 +673,22 @@ day, a stage, a batch title, a midpoint or a climax, and no cell of the day tabl
    · 30,016. Zero bracketed layer lines in sixty. All sixty day-table rows parse, the table runs 2,781 → 2,960,
    it is strictly increasing, and no two chapters fall on one day. Batch 0001's prompt table matches this day
    table day for day, so **the next phase needs no change and the repair does not reach Batch 0001.**
+
+3. **`Chapter 3` and `N volumes` in this outline are references to the book, not to the world, and they must never
+   be carried onto a page.** The review of the Volume 15 Batch 0003 drafting phase found the fiction referring to
+   itself by publication structure: `fifteen volumes`, `six volumes` and `nineteen volumes` standing in for
+   elapsed time, and one `Chapter 3`, in ch 854, ch 863–867, ch 870 and in all fifteen chapters of Batch 0003.
+   **All of it is now zero across `chapters/`.** The in-world phrases are **the third chapter of her keeping**
+   and **nine years** with him, **nineteen years** for her own life, **four hundred years** for the keeping,
+   **six years** for a belief she has been carrying, **ten years** for the column under the head and for the bar.
+   A volume is a book and nothing else. **Nothing below is struck and nothing in the day table, the batch table,
+   the stage table or the fixed resolutions moves.**
+4. **Batch 0003 was rebuilt at review on 15 Oct 2026 and no finding of this outline was lost.** Three things the
+   repair added to the page that this outline did not plan and that are now canon: **a fall at ch 875** and a
+   permanent widening of the small open place behind her fourth rib from the size of a coin to the size of a
+   thumbnail · **the checker at ch 876**, an instrument that verifies any figure she has already written down
+   and can discover nothing, and therefore cannot be asked about the four months or about a ceiling · and **a
+   thirteenth landing** at ch 875. The repair also **gave the male lead a voice in all fifteen chapters of
+   ch 871–885**, including a first refusal of hers at ch 877 and a saying of her name at ch 873. Full record
+   at `state/continuity.md` §*VOLUME 15 BATCH 0003 — ch 871–885, days 2,871–2,915. WRITTEN, THEN REBUILT
+   AT REVIEW*.

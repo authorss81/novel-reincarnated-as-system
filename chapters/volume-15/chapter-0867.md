@@ -2,7 +2,7 @@
 
 One hundred and twenty-three days since the ninth stage. Five hundred and fifty-four days in that room. The cage out three hundred and twenty-one days. Right arm open five hundred and sixty-one days and it is not going to close. One thousand two hundred and ninety-six of the days gone at this morning and not one coming back.
 
-There was a lamp burning on the stone of the third landing above a room that was not a room, and there was a woman sitting beside it who had not slept, and there was a conversation going on inside her head that she could hear both sides of for the first time in fifteen volumes, and she was going to live one morning inside it.
+There was a lamp burning on the stone of the third landing above a room that was not a room, and there was a woman sitting beside it who had not slept, and there was a conversation going on inside her head that she could hear both sides of for the first time in nine years, and she was going to live one morning inside it.
 
 ## One Morning
 
@@ -88,7 +88,7 @@ She said, “And strangeness, and not the frightening kind, which after nineteen
 
 ## The Morning’s End
 
-She spent the morning beside the lamp hearing him, and at about the eleventh hour the sentences stopped for a space, the way they stop between speakings, and his half went quiet inside her, the way he goes quiet, and she sat with the quiet the way she had sat with his silence for fifteen volumes, except that now she knew what the silence was made of.
+She spent the morning beside the lamp hearing him, and at about the eleventh hour the sentences stopped for a space, the way they stop between speakings, and his half went quiet inside her, the way he goes quiet, and she sat with the quiet the way she had sat with his silence for nine years, except that now she knew what the silence was made of.
 
 She said, out loud, sitting, in the ordinary voice, “I heard fifteen years of you this morning and it is not what I thought. I thought you were stillness. You were asking. I thought you were patience. You were waiting to be answered. And I am not going to pretend that does not change everything under it, because it does.”
 

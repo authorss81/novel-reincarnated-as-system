@@ -1,93 +1,143 @@
 # Four Months Aloud
 
-One hundred and forty-five days since the ninth stage. Five hundred and seventy-six days in that room. The cage out three hundred and forty-three days. Right arm open five hundred and eighty-three days and it is not going to close. One thousand three hundred and eighteen of the days gone at this morning and not one coming back.
+She got up off the stone of the third landing before the light was good and left the lamp where it was and went up past it, and she went up in the dark because there was nothing above the ninth landing but stone and her own mouth and that was the arrangement.
 
-There was a lamp burning on the stone of the third landing above a room that was not a room, and there was a woman sitting beside it who had found a price with no day, and there was one night fifteen volumes back she had never named to anybody, and she was going up to name it standing.
+She did not say the day's figures on the way. She said them once on the fourth landing, standing, in the ordinary voice, out of nineteen days of habit, and then she stopped saying them and let them go unsaid for the rest of the climb.
 
-## The Night Never Named
+One hundred and forty-five days since the ninth stage. Five hundred and seventy-six days in that room. The cage out three hundred and forty-three. This arm open five hundred and eighty-three days. One thousand three hundred and eighteen gone at this morning.
 
-She said it out loud, sitting, in the ordinary voice, at about the sixth hour of the fourteenth of the month, before she did anything else about it.
+Then nothing until the ninth.
 
-She said, “Figures first and the reason after. One hundred and forty-five days since the ninth. Five hundred and seventy-six in that room. Three hundred and forty-three since a lamp in a cage went out. Five hundred and eighty-three with this arm open and it is not going to close. One thousand three hundred and eighteen of the days gone and not one coming back.”
+## The Half Said
 
-She said, “And here is the reason. Yesterday the price had no day, and I knew it and never used it, and all night the never using sat beside the lamp with me. This morning I am going to put the undated price against the one night that started my taking, because a taking that runs must have a first morning, and mine has one, and I have never said it out loud to anybody.”
+She stopped on the ninth landing because the unsaid was heavy the way a bundle is heavy before it is put down, and she stood there with nothing in either hand and her breath went nine counts standing still.
 
-She said, “It is fear, and it is old, and it is the first old fear on this stair.”
+“In the third chapter of my keeping, in one night, four months of my own cultivation went out of me.”
 
-She said, “Not suspicion, which I had yesterday and know its shape. Fear of saying a thing that has been unsaid for fifteen volumes, because unsaid that long is load bearing, and taking it out may bring down more than the saying.”
+She stood with that half said.
 
-She said, “And what I want is to say it once and have it hold. One saying. I can pay for one saying.”
+It did not get any lighter. That was the first thing. She had expected it to get lighter the way a thing gets lighter when it is put down, and it did not, because it was not a bundle. It was four months of a thing she had gone on building, standing on the spot where it had gone.
 
-She left the lamp burning on the third landing and went up past it in the dark with nothing in either hand, with her left hand on the stone, saying the landings where they were used, fourth, fifth, sixth, seventh, eighth, because the fear needed every one of them under it.
+She went on up past the tenth with no doorway in it and past the eleventh, with her left hand on the stone, and the cold came up into her arm and she stopped twice until it stopped shaking and then she went on.
 
-## Up With the Unsaid
-
-She came onto the ninth landing and stopped, because the unsaid was heavy the way a bundle is heavy before it is put down, and she stood there with nothing in either hand, and her breath went nine counts standing still.
-
-She said, out loud, standing, in the ordinary voice, “In the third chapter of my keeping, in one night, four months of my own cultivation went out of me.”
-
-She stood with that half said, and his half went on inside her where she could hear it, still, listening, and the sentences went on above her whether she heard them or not.
-
-She said, “And here is the whole of what that night was, said plain. I was a child with a voice in my head and a column in my hand, and in one night the work of four months left me, and I wrote the loss nowhere, and I told him nothing, and I told no person, and I carried it fifteen volumes as the thing under everything.”
-
-She went on up past the tenth with no doorway in it, past the eleventh, with her left hand on the stone, and the cold came up into her arm, and she stopped twice until the shaking stopped, and then she went on.
-
-She said, out loud, in the dark, “Twelfth.”
-
-And the word went out and did not come back.
+She said the landing out loud in the dark on the way, the way she always said the landings, and the word went out and did not come back.
 
 ## Said Standing Whole
 
-She stood on the twelfth landing in the dark with nothing in either hand, and the sentences went on, one at a time, plain, reporting, through her to him, and she said it whole standing, because it had never been said and the first saying must be standing.
+She stood on the twelfth landing in the dark and the sentences went on above her, one at a time, plain, reporting, through her to him, and she said it whole, standing, because it had never been said and the first saying has to be standing.
 
-She said, “Four months of my own cultivation went in one night in the third chapter of my keeping, and I never named it to anybody, and I am naming it now, standing, in the ordinary voice, on the twelfth landing, with nothing in either hand.”
+“Four months of my own cultivation went in one night in the third chapter of my keeping, and I never named it to anybody, and I am naming it now, standing, in the ordinary voice, on the twelfth landing, with nothing in either hand.”
 
-She stood there for about a count of a hundred and forty with that said, and then she said the rest.
+She stood there for about a count of a hundred and forty with that said.
 
-She said, “And here is the whole of what the saying does, said plain. Four months gone in one night is not a price with no day. It has a night. It is the first taking, and everything after it is the same taking, daily, dateless, ten days at the head of every span, and one thousand three hundred and eighteen now at the foot.”
+Then she said the rest of it, and her voice did not do anything she had not asked it to do.
 
-She said, “The head and the night belong to each other. The night took four months once. The head says ten days and hours and minutes for the standing. Both are shapes of the same taking, and I have carried both unsaid, one of them fifteen volumes, one of them five hundred and eighty-three days.”
+“The night has a night. That is what makes it different from the head. The head is ten days and hours and minutes and it stands at the top of a column and it covers nothing. The night is one night and it has a month on it, and everything that has come out of me since is the same taking, running.”
 
-He said, “I hear you.”
+She stopped there, because that was the part she had said out loud on the fourth landing and had not expected to say twice.
 
-She said, “You do. And hearing it finishes nothing, and I am saying so out loud so that neither of us mistakes the hearing for the mending. It is one night said, and the taking goes on.”
+Then she went at it from the other side, which is what she did with anything that would not sit still in one shape.
 
-## The Cost of the Saying
+“Four months of my own cultivation. I cannot put that in days. Days were never the unit and that is the first thing I have ever lost that will not go into a column.”
 
-She sat down on the stone of the twelfth landing with her back against the wall, because the saying had taken the legs from under the morning, and she said the cost sitting, in the ordinary voice.
+She put her hand out in the dark in front of her, palm up, with three fingers and a thumb on it, and looked at the shape of that without being able to see it.
 
-She said, “Here is what the saying cost, said plain. Fifteen volumes of carrying unsaid is a kind of keeping, and I kept it the way I kept the second place, by not sitting in it, and now I have sat in it by saying it, and there is no unsaying.”
+“I have put everything into days. Nineteen years of days. And four months of my own work went somewhere in one night and the only measurement I have ever had for it is the length of the time, which is not the same as the size of the thing.”
 
-She said, “And relief, sudden, and larger than the fear, and I am not going to make it smaller. Four months said out loud after fifteen volumes is lighter than four months carried silent, and the lightness is real, and I am saying so out loud because it would be dishonest not to.”
+She lowered the hand.
 
-She said, “And here is the part that stays, said plain. The night has a night and the price has no day, and the two together mean the taking started once and then went on running, and running takings are kept by something, and I do not know what keeps this one, and I am saying that I do not know.”
+“So I have a rate and an owing and no unit for the first loss. That is what is at the bottom of the stack.”
 
-She got up and stood with nothing in either hand, and she said the record standing, because the saying was standing and the record must match it.
+Then he said her name.
 
-She said, “Four months in one night, said out loud, standing, in the ordinary voice, in a place with no doorway below it and sentences above it. That is said, and it holds.”
+She had not heard him say it in nine years. She had heard him count boards and say you work and you stay and I hear you, and she had said his name out loud three times in her life, and he had never once used hers.
 
-## The Weight After Saying
+He said it twice and then he said the thing he wanted said.
 
-She stayed on the twelfth landing after the record was said, standing with nothing in either hand, because the said night wanted weighing, and she weighed it standing, the way weighings are done.
+“Ning Yan. What the night is for.”
 
-She said, out loud, standing, in the ordinary voice, “Here is the weight, said plain. Four months carried silent fifteen volumes weighed more than four months said once. Silent weighs by staying. Said weighs by holding. Staying I know. Holding I am learning. The night said tonight must be held every morning after, the way the head is held, or it sinks back to silent.”
+She had not been ready for it and she was not going to pretend she had been.
 
-She said, “And here is the whole of what holding means, said plain. Tomorrow the night goes against the thinning, because a first taking must meet the daily taking, and the two must be one taking or two. If one, the shape is single. If two, I carry two thieves. I do not know which, and I am saying that I do not know, and the not knowing is held, not hidden.”
+“That is the second part,” she said.
 
-She said, “And tenderness, sudden, toward the child who lost four months in one night and told no person, and I am not going to hide it. She kept columns and said figures and grew, and the growing covered the hole, and covering is not mending, and I am the grown of that child, and tonight I uncovered her.”
+“It is the only part anybody is ever going to ask you. Four months is the small half. Nobody has ever asked you the small half.”
 
-He said, “You keep her.”
+“No,” she said. “Nobody ever has.”
 
-She said, “I do. And keeping her finishes nothing, and I am saying so out loud. It is one night held, and the taking goes on.”
+“You have had a version of that night in your mouth since you were a child and it has been a version and not a fact. I want the fact. Tell me what it was for and I will not say one word about it again tonight.”
 
-## Down With It Named
+She stood on the twelfth landing in the dark and felt the whole shape of the thing she had been carrying turn over.
 
-She came down in the dark with her left hand on the stone, past the eleventh, past the tenth with no doorway, past the ninth, saying each one where it was used, and she took longer over the seventh than the rest, because the lightness was still in her and she did not trust it yet.
+It had never once been about the four months.
 
-She sat beside the lamp, and the light went six paces out from where it stood and stopped, and she stayed inside the reach of it until her breath went four counts sitting still.
+She had not named it because naming it meant saying that a voice in my head spent her, and she was nine years old and had a column in her hand and no other person in the room, and she had worked out at the time that a thing you say about the only person you have is a thing you cannot unsay.
 
-She said, out loud, sitting, in the ordinary voice, “Lamp on the third landing. Burning. Mine. Four months said that were never said in fifteen volumes. That is the record and there is nothing else in it.”
+She said, “No.”
 
-There was a lamp burning on the stone of the third landing, and four months gone in one night now said out loud where sentences pass, and a woman sitting beside the light with the lightness and the distrust of it both in her.
+“All right,” he said.
 
-And she had named the night, standing, and it held, and that was the day, and the taking it started would be there in the morning to be asked what it is for.
+That was all. He did not press it and he did not go quiet in a way that made her feel watched, and she had expected him to do one or the other, and he had done a third thing she had no name for.
+
+She found her hand was flat on the stone and that she had put it there without knowing.
+
+## The Weight of It
+
+She sat down with her back against the wall of the twelfth landing, and the cold came up through the floor into her, and she said the rest of it sitting, in the ordinary voice.
+
+“Relief. Sudden and larger than the fear, and I am not going to make it smaller than it is to be able to say something.”
+
+She put her head back against the stone.
+
+“Four months said out loud after nine years is lighter than four months carried silent. Silent weighs by staying. Said weighs by holding. I know staying. I am nineteen years old and holding is the thing I have never once had to do.”
+
+The sentences went on above her. His half went on inside her where she could hear it, and it was not the way it went on when she was working.
+
+She said that out loud too, because she had started saying things out loud today and was not going to stop mid-sentence.
+
+“It is different. You are listening differently. For nine years I have said figures into a room and you have gone on behind my eyes at whatever you were doing, and this morning you have stopped.”
+
+“I am listening,” he said.
+
+“I know. That is why I said it.”
+
+She let that sit and then put a second thing next to it, because there was one and she had not had it before this morning.
+
+“You were not listening differently before because you were not paying attention. You were paying attention to something else and you had been for nine years, and I have never once been able to find out what.”
+
+“No,” he said. “You have not.”
+
+“All right. Tomorrow I am going to find out what the taking is for, and you are going to be in my head while I do it, and if it turns out you were paying attention to it the whole time you can tell me then.”
+
+“That is fair,” he said.
+
+## The Child in the Column
+
+She sat with that for a while, and then the tenderness came up, and she let it, which was the second thing she had allowed herself today that she had not allowed herself in a long time.
+
+“I was a child. I had a column and a voice and not one other living soul in the world, and I lost four months in one night and I wrote the loss nowhere.”
+
+She put her hand over the open place behind her fourth rib without meaning to.
+
+“She went on and got better at the one thing she had. Every year after that she got a little better and the getting better covered the hole, and covering is not mending. I am the grown of that child. Tonight I took the covering off and she is still in here and she has been in here the whole time, and she did not get any bigger while I was busy.”
+
+Then she said the thing she had actually come up the stair to say, and she said it standing, because the record had to match.
+
+“Four months in one night. Said out loud, standing, in the ordinary voice, in a place with no doorway below it and sentences above it. That is said and it holds.”
+
+He said, “It holds.”
+
+## Down With the Covering Off
+
+She came down in the dark with her left hand on the stone, past the eleventh, past the tenth with no doorway, past the ninth, saying each one where it was used, and she took longer over the seventh than over the rest of them because the lightness was in her and she did not trust it yet.
+
+The lamp was where she had left it. She sat down beside it and put the light six paces behind her and let it sit on her shoulder.
+
+She had said the thing at about the sixth hour on a stone landing nine flights above the only room she had ever lived in, in a building that did not stop, in the dark, to a person who lives in her head and who was heard by the thing that made him, standing up, out loud, in a place where sentences go past.
+
+She had not thought about that part once. She had been thinking about the child.
+
+She had said a thing out loud standing up on a stone landing nine flights above the only room she had ever lived in, in a building that does not stop, in the dark, where sentences go past, and the sentence had gone where sentences go.
+
+The covering was off.
+
+The hole was the size it had always been.

@@ -1,99 +1,131 @@
 # The Subtraction That Fails
 
-One hundred and thirty-nine days since the ninth stage. Five hundred and seventy days in that room. The cage out three hundred and thirty-seven days. Right arm open five hundred and seventy-seven days and it is not going to close. One thousand three hundred and twelve of the days gone at this morning and not one coming back.
+The stair had a cold in it that got worse the higher she went, and by the eighth landing she could feel that cold in the open place behind her fourth rib before her hand found the wall.
 
-There was a lamp burning on the stone of the third landing above a room that was not a room, and there was a woman sitting beside it who had said she wants it for him where it can be heard, and there was a figure at the head of her own column she had never once checked, and she was going to check it going up.
+She stopped on the ninth with her palm flat against the stone and said the day's figures out loud, because she had said them out loud every morning since the first of the month beginning two thousand eight hundred and sixty-four and she was not going to stop on the morning she had something to check.
 
-## The Figure Never Checked
+“One hundred and thirty-nine days since the ninth stage. Five hundred and seventy days in that room. Three hundred and thirty-seven since a lamp in a cage went out. Five hundred and seventy-seven with this arm open, and it is not going to close. One thousand three hundred and twelve of the days gone at this morning, and not one coming back.”
 
-She said it out loud, sitting, in the ordinary voice, at about the sixth hour of the eighth of the month, before she did anything else about it.
+The words came out in the order they always came out. She had been saying them in that order since the twenty-second of the month beginning two thousand eight hundred and four and she had never once heard the order until this morning.
 
-She said, “Figures first and the reason after. One hundred and thirty-nine days since the ninth. Five hundred and seventy in that room. Three hundred and thirty-seven since a lamp in a cage went out. Five hundred and seventy-seven with this arm open and it is not going to close. One thousand three hundred and twelve of the days gone and not one coming back.”
+It was a column with a head on it.
 
-She said, “And here is the reason. Last night I said I want it for him where it can be heard, and the saying holds, and this morning the head is full of his half going on, and under it there is one figure I have carried since the first of the month beginning two thousand two hundred and ninety-four that I have never once put against anything.”
+She went on up. The tenth landing had no doorway in it and had been warmer than the ninth for as long as she had been climbing, and she said the landing where she always said it, and then the eleventh, and then the twelfth, and she lay down on the stone of it with her ear against the floor, because the sentences came up through the stone from somewhere she had never been able to find.
 
-She said, “It is restlessness, and I am saying it first because it is on me before the work.”
+They went through her to him, one at a time, plain, reporting, at their own intervals. His half went on inside her where she could hear it, the way it had gone on for a hundred and thirty-nine days, and she lay still and let it go and did the work in her head at the same time.
 
-She said, “Not the cold in the stone, which has been here a month and more and I know its shape. Restlessness at having said the largest thing in fifteen volumes and waking to find the arithmetic still there, untouched, waiting, the way a table waits after a weighing.”
-
-She said, “And what I want is to put the head of my own column against the days gone and see what comes out. That is all of it, and I am not dressing it.”
-
-She left the lamp burning on the third landing and went up past it in the dark with nothing in either hand, with her left hand on the stone, saying the landings where they were used, fourth, fifth, sixth, the way she had said them every morning she climbed to hear.
+Because there was one figure in her head that she had never once put against anything.
 
 ## The Head of the Column
 
-She came onto the sixth landing and stopped with her hand on the stone, and she said the head out loud, standing, in the ordinary voice, because a figure said sitting is a guess and a figure said standing is a line.
+She got up off the floor and stood with nothing in either hand and said it out loud, standing, in the ordinary voice, because a figure said sitting is a guess and a figure said standing is a line.
 
-She said, “Ten days, twenty-one hours and thirty-six minutes, in my own hand, since the first of the month beginning two thousand two hundred and ninety-four.”
+“Ten days, twenty-one hours and thirty-six minutes. In my own hand. Since the first of the month beginning two thousand two hundred and ninety-four.”
 
-She stood with that said, and his half went on inside her where she could hear it, quiet, listening, the way he goes quiet when she works, and the sentences went on above her whether she heard them or not.
+The stair took it and gave nothing back. That was what a stair was for.
 
-She said, “And here is the whole of what that head is, said plain. It stands at the top of the column I kept for nineteen years, four feet off the near end of a table, and every line under it was a morning, and the head was the price of the standing, and I wrote it and never once checked it, because checking it would have meant asking what the standing cost.”
+She had written it four feet off the near end of a table, at the standing, in the ordinary voice, and every line under it had been a morning for ten years, and she had never once checked it, because checking it would have meant asking what the standing cost.
 
-She said, “Nineteen days I have been on this stair, and every morning I have said the days gone, one thousand two hundred and more, and never once put the head against them. That is the neglect, and I am saying it so that it is said.”
+That was the neglect and she put it where it belonged, which was on herself, out loud.
 
-She went on up past the seventh, past the eighth, with her left hand on the stone, and the cold came up into her arm, and she stopped until the shaking stopped, and then she went on.
+## The Morning She Wrote It
 
-She said, out loud, in the dark, “Ninth.”
+The date was in her the way the shape of a table is in a hand that has gone along it ten thousand times, and she let it come up without reaching for it.
 
-And the word went out and did not come back, and she went on past it.
+The first of the month beginning two thousand two hundred and ninety-four. She had stood at the near end of a table twenty-two paces long, four feet off the floor.
 
-## The First Subtraction
+Forty boards face up in a stack under the middle of it. A bundle corded twice under the far end. A bar against the wall on the left that she had been carrying since she was nine. A lamp in a cage out on the shelf at the far end, and it had been out for a long time by then.
 
-She lay flat on the stone of the twelfth landing with her ear against it for a count of forty, hearing the sentences go through her to him, one at a time, plain, reporting, and then she got up and stood with nothing in either hand, because the work was not listening tonight.
+She had written ten days, twenty-one hours and thirty-six minutes at the head of the column, in her own hand, and then she had put the nib and the ink against her fourth rib afterwards and gone on down the column line by line, which is what she had done every morning for nineteen years.
 
-She said, out loud, standing, in the ordinary voice, “Here is the subtraction. One thousand three hundred and twelve of the days gone, against ten days and twenty-one hours and thirty-six minutes at the head.”
+She stood on the twelfth landing and put one detail on the record, because she had never said it and because a head written in the middle of a working morning is a different animal from a head written at the end of one.
 
-She stood there for about a count of a hundred with that in her, and then she said the rest, standing, in the ordinary voice.
+“I did not sit down to write it. I wrote it standing, between two lines, because I was working. That is the whole of how a person comes to put a price on a thing they are in the middle of doing.”
 
-She said, “It does not come out. I take the head off the days gone, and what is left is still more than twelve hundred, and the head was supposed to be the price, and a price taken off leaves something a person can hold, and this leaves nothing a person can hold.”
+Then she took the head off the count.
 
-She said, “And here is the part I did not expect, said plain. The remainder is larger than anything I ever spent in that room. I stood there nineteen volumes of mornings spending, and I called the spending mine, and the remainder after the head is larger than all of it, which means the head was never the whole of the price.”
+## The Subtraction
 
-He said, “You work.”
+“One thousand three hundred and twelve gone. Ten days and twenty-one hours and thirty-six minutes at the head.”
 
-She said, “I do. And working is the whole of tonight, and I have started it, and the starting holds.”
+She stood on the stone of the twelfth landing and did it twice, and the second time she did it slowly out loud with her fingers against the wall, because a column checked once is a guess.
 
-## The Mouth Checked Twice
+It did not come out.
 
-She sat beside the lamp after the coming down, with her back against the wall and her right arm open across her knees, and she did the subtraction a second way, the way she used to check a column by going along it twice, slow, because a column checked once is a guess.
+What was left after the head was taken off was still more than twelve hundred, and it was larger than everything she had ever spent in that room in five hundred and seventy days, and she had stood there for five hundred and seventy days spending and called the spending hers.
 
-She said, out loud, sitting, in the ordinary voice, “Here is the second going. The head has stood since the first of the month beginning two thousand two hundred and ninety-four. That is five hundred and seventy-seven days of standing. In those days the days gone grew by five hundred and seventy-seven. The head did not grow at all.”
+So the head had never been the whole of the price.
 
-She said, “And here is what that means, said plain. Every morning I said a larger number under a head that stayed the same, and I called the column mine, and a column whose body outgrows its head is not a column any more. It is a mouth.”
+She said that much out loud. Then she sat down with her back against the wall because a finding that size needs a floor under it, and she said the rest sitting, in the ordinary voice.
 
-She said, “And grief, sudden, and larger than the vexation, and I am not going to make it smaller. I kept that column for nineteen volumes the way a person keeps a lamp trimmed, and tonight it reads as a mouth, and I am the one who kept it.”
+“Not fear. Restlessness. I said the largest thing I have said in nine years and then I woke up in the morning and the arithmetic was exactly where I had left it, the way a table is still in the same place after a weighing.”
 
-She put her hand flat on the floor of that landing, and the stone was cold under her palm, and his half went on inside her where she could hear it, and she said the rest sitting, because a grief said sitting is a weight and a grief said standing is a claim.
+He said, “You are subtracting a price from a count.”
 
-She said, “He heard nineteen years of that column in half sentences, asking, and he never once said the head did not cover the body. He let me keep it. That stands next to the grief and neither of them moves the other.”
+She waited. Nothing else came, and she waited longer, because he had started something and she had not heard the end of it.
 
-## The Mornings Counted Forward
+“No,” he said. “Those are not the same kind of thing and you know it. You have been treating one of them as a sum all along. Ask what a count is for.”
 
-She stayed beside the lamp through the middle of the day, with her back against the wall and the light six paces out from where it stood and stopping, and she counted the mornings forward the way she used to count boards forward to a first, slow, out loud, because forward counting finds what backward checking hides.
+She sat with that.
 
-She said, out loud, sitting, in the ordinary voice, “Here is the forward count, said plain. Tomorrow the days gone grow by one. The head stays ten days and the hours and the minutes. The day after, the days gone grow by one more. The head stays. Every morning the mouth opens wider by one, and no morning closes it.”
+Nine years of him in her head, and the sum of every sentence he had ever said to her had been four words and a shrug. She had said his name out loud three times. She had given him a pen. She had counted with him for ten years.
 
-She said, “And here is the whole of what forward means, said plain. A price written once against a count that grows daily is not a price paid late. It is a price never paid. I have paid nothing off in five hundred and seventy-seven days. I have only watched the owing grow, and called the watching keeping.”
+“Ask me something,” she said.
 
-She said, “And bitterness, thin, steady, and I am leaving it the size it is. Nineteen days on this stair I have said the days gone every morning, one thousand two hundred and more, and every saying widened the mouth, and I called the saying discipline, and discipline that feeds a mouth is feeding.”
+He did not answer that either. It went on being an evening in which the two of them had said four useful sentences and she had the whole of a bad morning to show for it, and she sat with her hand flat on the floor of that landing until the cold came up through the stone into her palm.
 
-She put her hand flat on the floor of that landing, and the stone was cold under her palm, and his half went on inside her where she could hear it, quiet, staying, the way he stays through her findings, and she said the rest sitting.
+## The Column Is a Mouth
 
-She said, “He stays through the findings the way ground stays under feet. That is said, and it holds, and tomorrow the head gets put against its own writing, because a price must have a day or own the lack of one.”
+Later, sitting beside the lamp, with her back against the wall and the light going six paces out from where it stood and stopping, she went along the head the way she used to go along a column twice.
 
-## What Does Not Come Out
+The head had stood since the first of the month beginning two thousand two hundred and ninety-four. That was five hundred and seventy-seven days. In five hundred and seventy-seven days the count had grown by five hundred and seventy-seven.
 
-She stood on the twelfth landing after the subtraction with the sentences going on, one at a time, through her to him, and his half going on inside her where she could hear it, and she said the finding out loud, standing, in the ordinary voice, because a finding done silent is a finding that will be done again.
+The head had not moved at all.
 
-She said, “Here is what does not come out, said plain. Ten days and the hours and the minutes are in my own hand, and one thousand three hundred and twelve is in my mouth every morning, and the two do not belong to each other. One is a price written once. The other grows every morning by one. A price written once cannot cover a thing that grows.”
+She said it out loud, twice, because she wanted to hear it in the ordinary voice and not in the voice she used for things she had already decided.
 
-She said, “And it is vexation, small, and I am leaving it the size it is. I have been carrying a head that gets more wrong every day, and I knew it was getting wrong, and I went on saying the days gone under it as if they were the same column, and they are not the same column.”
+“Every morning I said a larger number under a head that stayed the same. I called the column mine. A column whose body outgrows its head is not a column any more.”
 
-She said, “Lamp on the third landing. Burning. Mine. A subtraction started that does not come out. That is the record and there is nothing else in it.”
+She stopped there a while.
 
-She came down in the dark with her left hand on the stone, past the eleventh, past the tenth with no doorway, past the ninth, saying each one where it was used, and she took longer over the eighth than the rest, because the remainder was still in her and saying landings is what she does with a remainder she cannot put down.
+“It is a mouth.”
 
-There was a lamp burning on the stone of the third landing, and a head of ten days and hours and minutes that did not cover twelve hundred days gone, and a woman sitting beside the light with the mismatch in her.
+The lamp went on burning. She put her right arm open across her knees and looked at it the way she had been looking at it for five hundred and seventy-seven days, which is to say without much hope, and then she went on, because grief was not going to carry her to the sixth hour tomorrow and neither was looking.
 
-And she had started the subtraction, and it did not come out, and that was the day, and the remainder would be there in the morning whether she climbed or not.
+“He has heard nineteen years of that column in half sentences, all of it asking, and he has never once said that the head does not cover the body. He let me keep it.”
+
+She said that to the stair and not to him, and she knew which of the two it was for.
+
+Then she counted forward, which she had not done in five hundred and seventy-seven days and which is the only way of finding what backward checking hides.
+
+“Tomorrow the count grows by one and the head stays where it is. The day after, the count grows by one more and the head stays. No morning closes it.”
+
+She let that sit in her.
+
+“A price written once against a count that grows every morning is not a price paid late. It is a price never paid. I have paid nothing off in five hundred and seventy-seven days. I have watched the owing grow, and I have been calling the watching keeping.”
+
+She put her hand flat on the floor of that landing again. The stone was colder than it had been at dawn. She had said the days out loud every morning since the eighth of the month beginning two thousand eight hundred and sixty-four and every one of them had widened it, and she had been calling that discipline.
+
+Discipline that feeds a mouth is feeding.
+
+She stayed where she was for a while with that, and then she did the one thing she had not done, which was to go back over every morning since the eighth of the month beginning two thousand eight hundred and sixty-four and find out whether the mouth had been there before she started climbing.
+
+She had been saying the count out loud under the head since the first of the month beginning two thousand eight hundred and sixty-four. Before that she had said it under the head in the room, every morning, for five hundred and forty-eight days.
+
+The mouth was no older than her climbing. The owing was five hundred and seventy-seven days old.
+
+So the thing she had been feeding on this stair had a name, and the name was not discipline and the name was not grief, and putting the two dates side by side took her three tries and no arithmetic at all.
+
+## Down With the Mouth Open
+
+She came down in the dark with her left hand on the stone, past the eleventh, past the tenth with no doorway, past the ninth, saying each one where it was used, because saying landings is what she did with a remainder she could not put down anywhere else. She took longer over the eighth than over the rest.
+
+The lamp was where she had left it, on the stone of the third landing, burning. She sat down beside it and put her open arm across her knees and said the record out loud, sitting, in the ordinary voice, because a finding done silent is a finding that will be done again tomorrow.
+
+“Lamp on the third landing. Burning. Mine. A subtraction started that does not come out, and a mouth where a column was, and a man who has told me four sentences in nine years and one of them was worth the stair.”
+
+She stayed a long time after that with her hand flat on the floor and the light six paces out from where it stood and stopping.
+
+The remainder was there.
+
+It was going to be there at the sixth hour tomorrow, and at the sixth hour after that, and at every sixth hour for as long as she kept saying the numbers out loud under it, and she had no instrument in the world that would tell her what it was for.

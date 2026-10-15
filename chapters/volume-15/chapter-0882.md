@@ -1,87 +1,161 @@
 # The Ashamed Figure Said
 
-One hundred and seventy-one days since the ninth stage. Six hundred and two days in that room. The cage out three hundred and sixty-nine days. Right arm open six hundred and nine days and it is not going to close. One thousand three hundred and forty-four of the days gone at this morning and not one coming back.
+She had never said a figure she was ashamed of. She had said figures she was tired of, figures she was proud of, figures at about the sixth hour in the ordinary voice standing up, and once a figure at the ninth hour in a room with a table twenty-two paces long in it.
 
-There was a lamp burning on the stone of the third landing above a room that was not a room, and there was a woman sitting beside it who had measured his share small, and there was one figure she had never said ashamed, and she was going up to say it to him.
+She had never had to look at one first and then say it out loud to the person it belonged to.
 
-## The Saying She Has Never Done
+She went up at about the sixth hour and she had the figure ready and it was two numbers long.
 
-She said it out loud, sitting, in the ordinary voice, at about the sixth hour of the tenth of the month, before she did anything else about it.
+“One hundred and seventy-one days since the ninth stage. Six hundred and two days in that room. The cage out three hundred and sixty-nine. This arm open six hundred and nine days. One thousand three hundred and forty-four gone at this morning.”
 
-She said, “Figures first and the reason after. One hundred and seventy-one days since the ninth. Six hundred and two in that room. Three hundred and sixty-nine since a lamp in a cage went out. Six hundred and nine with this arm open and it is not going to close. One thousand three hundred and forty-four of the days gone and not one coming back.”
-
-She said, “And here is the reason. Yesterday his share measured small, and all night the smallness sat beside the lamp with me. This morning I am going to say it out loud to him, because a measured figure kept from the measured is a second untold, and I have had enough of untold.”
-
-She said, “It is shame, and it is hot, and it is the first hot shame on this stair.”
-
-She said, “Not dread, which I had two days ago and know its shape. Shame at having to say to a person inside my head that fifteen volumes of anger mismeasured him, because mismeasuring said out loud cannot be unsaid.”
-
-She said, “And what I want is to say it clean. One saying. I can pay for one saying.”
-
-She left the lamp burning on the third landing and went up past it in the dark with nothing in either hand, with her left hand on the stone, saying the landings where they were used, fourth through eleventh, because the shame needed every one of them under it.
+She said that much on the fourth landing because she was not going to arrive at the top of this with anything held back except the thing itself.
 
 ## Said to Him
 
-She stood on the twelfth landing in the dark with nothing in either hand, and the sentences went on, one at a time, plain, reporting, through her to him, and his half went on inside her where she could hear it, and she waited for a space the way she used to wait for a space in work to put the line.
+She got to the twelfth and stood up off the floor and got her breath and did not sit down, which she had never once done on that landing.
 
-She said, out loud, standing, in the ordinary voice, “Here it is, said to you. One thousand three hundred and forty-four gone from me, with four months gone in one night to start it. Of that, your share is the small part. The rest went into the ceiling. I was angry at you for fifteen volumes for the whole, and the whole was never yours.”
+“Here it is, said to you. One thousand three hundred and forty-four gone from me, with four months gone in one night to start it. Your share is nine years. The ceiling’s share is four hundred years.”
 
-She stood there for about a count of a hundred and forty with that said, and the sentences went on, one at a time, through her to him, and his half went on inside her where she could hear it, and he did not defend himself.
+She stood up in the dark with it.
 
-He said, “I know.”
+“I have been angry at you for nine years for the whole of it. The whole was never yours.”
 
-She said, out loud, standing, in the ordinary voice, “And here is the whole of the shame, said plain. I measured wrong for fifteen volumes and called the wrongness yours, and now the rightness is said, and you do not defend yourself, and the not defending is worse, because defending would give me something to push against.”
+The sentences went on above her one at a time, plain, reporting, through her to him, and his half went on inside her where she could hear it.
 
-She said, “You chose it. You knew it was designed. You did not tell me in fifteen volumes. Those three stand next to the smallness and neither moves the other. Small does not make right. Right does not make small.”
+He did not defend himself.
 
-He said, “I stay.”
+She had got up this stair with her hands shaking, which she had not told him and was not going to tell him, and she had expected the usual thing, which was for him to say something about the four months, or something about the growing, or something that she could push.
 
-She said, “You do. And staying finishes nothing, and I am saying so out loud. It is one figure said ashamed, and the taking goes on.”
+Nothing came. He took it and stood in it.
 
-## What Not Defending Does
+She said it into the quiet where it had been.
 
-She sat down on the stone of the twelfth landing with her back against the wall, because the saying had taken the legs from under the morning, and she said the rest sitting, in the ordinary voice.
+“That is worse.”
 
-She said, “Here is what not defending does, said plain. Fifteen volumes I argued with him in my head and he argued back in half sentences, and the arguing was a wall I could lean on. Tonight there is no wall. He takes the small share said and stays, and I am left holding the anger with nothing under it.”
+“Yes,” he said.
 
-She said, “And anger still, cold, homeless, and I am not going to house it falsely. Anger at him for choosing and knowing and not telling stands. Anger at him for the whole taking falls. One stands and one falls, and both are true, and I am saying so out loud so that I do not mix them up.”
+“Why is it worse.”
 
-She said, “And here is the part that stays, said plain. Said is said. He did not defend himself. I do not withdraw. Those two stand next to each other the way the lamp stands next to the stone, near, not touching, both there in the morning.”
+“Because you had built me into something you could push at and I have just stopped being it, and you are left holding it with nothing under it.”
 
-She got up and stood with nothing in either hand, and she said the record standing, because the saying was standing and the record must match it.
+## What He Said Instead
 
-She said, “Small share said to him, no defense, no withdrawal. That is said, and it holds.”
+She stood there and waited for the rest of it and he did not say the rest of it.
 
-## Carrying the Shame Down
+“Do you know what I actually wanted,” he said.
 
-She stayed on the twelfth landing after the record was said, standing with nothing in either hand, because the shame wanted carrying, and she said the carrying standing.
+She gave him nothing back.
 
-She said, out loud, standing, in the ordinary voice, “Here is the carrying, said plain. Shame said standing must be carried down nine landings in the dark with nothing in either hand, past the doorless landing, past the ninth, saying each one where it is used, with the no defense still in me. Carrying changes the shame. Said, it burned. Carried, it cools into weight. Weight can be set down beside a lamp. Burning cannot.”
+“Nine years. You have had it the other way round since you were ten years old. You have had it that I wanted to take, and that the taking was for me, and that everything you gave up went into a man in your head.”
 
-She said, “And here is the whole of what cooling means, said plain. Cooled shame does not excuse the mismeasuring. It holds it. Fifteen volumes aimed wrong is a fact, and facts carried cool keep their edges. I will not warm this one dull. Dull shame forgets. Cool shame remembers.”
+“No,” she said. “That is not what I have had. I have had that you knew and you did not tell me. I have said that out loud four times in three days and it is true and I am not letting you move it.”
 
-She said, “And steadfastness, quiet, new, and I am naming it because it is the first steadfastness after shame, and it is small, and I am not going to make it bigger than it is. I mismeasured and I said so to him and he stayed, and I stay, and the staying after mismeasuring is different staying, thinner, truer.”
+“I am not moving it. I am putting something next to it.”
 
-He said, “I am still here.”
+She waited through eleven sentences and then twelve.
 
-She said, “You are. And here finishes nothing, and I am saying so out loud. It is one shame carried, and the taking goes on.”
+“You are right about the number. You are wrong about the wanting. I did not want it small. I wanted it not told.”
 
-## The Staying After
+The stair did not do anything at all.
 
-She stayed standing after the shame was carried, with nothing in either hand, because the staying wanted saying, and she said it standing.
+“Nine years,” he said, “and every span of that time there was a thing coming out of you that I had no way of asking you about, because the moment I ask, it is a conversation between us, and a conversation between us is a thing that can be listened to.”
 
-She said, out loud, standing, in the ordinary voice, “Here is the staying, said plain. He stays after mismeasuring said. I stay after smallness said. Two stayings, both thinner, both truer. Staying after is different staying than staying before. Before was warm with anger. After is cool with measured. Cool staying holds further.”
+He had worked it out. She could hear that he had worked it out and had not worked it out this morning.
 
-She said, “And here is the whole of what further means, said plain. Further means the grievance gets got back to tomorrow, because measured staying does not end anger. It places it. Placed anger is next.”
+“You have been standing under a ceiling for four hundred years,” he said, “and I am under it too, and I have been able to hear the traffic for nine years and never once been able to ask what it costs. That is not a want. A want has a person on the other end of it. That is a wall with my shape cut out of it.”
 
-## Down With It Carried
+She opened her mouth and nothing came out of it.
 
-She came down in the dark with her left hand on the stone, past the eleventh, past the tenth with no doorway, past the ninth, saying each one where it was used, and she took longer over the eighth than the rest, because the shame was still in her.
+## Not Saying It Back
 
-She sat beside the lamp, and the light went six paces out from where it stood and stopped, and she stayed inside the reach of it until her breath went four counts sitting still.
+She did not say it back.
 
-She said, out loud, sitting, in the ordinary voice, “Lamp on the third landing. Burning. Mine. A shamed figure said where it can be heard. That is the record and there is nothing else in it.”
+She wanted to say it back more than she had wanted to say anything in a month, and she stood on the twelfth landing of a building that did not stop and worked out why she was not going to, and the reason was that he had said it as a fact and not as a defence, and a fact has to be checked before it is agreed with, and she had not checked it.
 
-There was a lamp burning on the stone of the third landing, and a small share said out loud to the one who took it, and a woman sitting beside the light with shame sitting beside her.
+She said that out loud instead, which was the honest version.
 
-And she had said it and he had not defended himself, and that was the day, and tomorrow the grievance would be got back to whether she wanted it or not.
+“I am not going to agree with it. I want to and I am not going to, because you have said it at about the sixth hour on a stair and I have no instrument and no figure and nothing to put in front of it.”
+
+“You do not need one.”
+
+“I need one for everything. That is the whole of what I am.”
+
+“Then do not agree with it.”
+
+She turned her head up into the dark and found nothing in it.
+
+“That is the second time this week you have told me to leave a thing alone and the first time it was you asking me not to say his name on this landing. Both times the reason was the same and I did not like either of them.”
+
+“Both times the reason was that I would be saying something about what I want to a thing that listens for what I want to use,” he said. “You worked that out in a month. I have been working on it since the twelfth of the month beginning two thousand eight hundred and fifty-two.”
+
+## Trying It Against the Checker
+
+She sat back down on the stone of the twelfth landing for a count of two hundred, because she had found an instrument on the twenty-third and she was going to try to use it before the day was out of her hands.
+
+She laid it out the way she had laid the other one out, with something wrong in it on purpose, standing first and then sitting, and she waited for a space in the going.
+
+“Four hundred years and nine years, at the rate of one person against the many in every room.”
+
+Nothing came.
+
+She waited through eleven sentences and then twelve and then twenty, and the sentences went on, plain, reporting, at their own intervals, and none of them came and sat down in the middle of the traffic.
+
+She laid her hand out flat on the stone of that landing.
+
+“It will not take it.”
+
+“No,” he said. “It is not a figure.”
+
+“It is not a figure,” she said, “and it is the most important thing anybody has said to me in nineteen years, and the one thing in the world I cannot check.”
+
+She sat there with that for a while, and it was not a small thing, because she had spent a month finding out what she could do with numbers and this was the morning she found out what a person is for.
+
+“All right,” she said. “Then it stands on what he said about himself and what I have seen in a month of watching, and there is no third thing and I am not going to go looking for one because I want him to be right.”
+
+“That is the arrangement. That is all any of this is.”
+
+“That is a very cold way to live.”
+
+“It is the only way there is in here,” he said. “In here the only thing you can ever check is a number.”
+
+## Shame Carried Down
+
+She got down off the twelfth landing and started down the stair, and it took a long time, because she had to say each landing where it was used and she had to do it with her left hand on the stone and the cold coming up into her arm, and she stopped twice.
+
+She said it at the ninth.
+
+“Said. Standing. In the ordinary voice. To the one it belongs to. He did not defend himself and I did not agree with him and I am not going to think about why I did not agree with him until I have got off this stair.”
+
+She said it at the sixth.
+
+“Cooled shame does not excuse the mismeasuring. It holds it. Cool shame remembers. Warm shame lets itself off and I have had nine years of warm shame about him and it has not once cost me anything.”
+
+She said it at the third.
+
+“Small share said. No defence. No withdrawal. He said the thing about the telling and I have not answered it and the not answering is standing in a room with me.”
+
+She stopped on the stair between the fifth and the fourth with her left hand flat against the wall and made herself say the other one, the one she had been carrying down behind the first three.
+
+“And I am not going to answer it on a stair.”
+
+She stood there in the dark in the middle of a building that did not stop, nine flights above a room she had left, and heard herself say it and mean it.
+
+“There is no place in this building where the answer to that does not go past into the thing that listens for what he wants. If I say it here it is a line. If I say it in the room it is a line and there is a person in the room who writes. I have looked at every floor of this place that I have ever stood on and there is no floor of it that is only us.”
+
+“That is true,” he said.
+
+“Do not be kind about it. I am not asking to be answered. I am telling you I have noticed.”
+
+## Beside the Lamp
+
+She sat down beside the lamp on the stone of the third landing with the light six paces out from where it stood and stopping, and she said the record in the ordinary voice, sitting.
+
+“Lamp on the third landing. Burning. A figure said to him that I have been carrying wrongly for nine years, out loud, standing, first in my own voice. And a man who did not defend himself and then told me the reason he did not, and who was right to tell me and who I have not answered.”
+
+She stayed a long time with that.
+
+She had gone up that stair to say one figure to a man. She had said it, and he had taken it, and then he had said the true thing about why he had gone quiet for nine years, and she had come down nine landings with it.
+
+And she had said out loud, in nineteen years, not one sentence to him about what he wanted. She had asked what the taking was for, and what his share was, and what the layer called the people it took from. She had never once asked him a question whose answer was about him and not about the arithmetic.
+
+She had a checker for numbers and no instrument at all for a man, and she had been going for nine days calling that a shortage of arithmetic.

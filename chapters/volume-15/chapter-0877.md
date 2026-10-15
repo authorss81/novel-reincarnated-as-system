@@ -1,87 +1,157 @@
 # A Mercy With a Lid
 
-One hundred and fifty-seven days since the ninth stage. Five hundred and eighty-eight days in that room. The cage out three hundred and fifty-five days. Right arm open five hundred and ninety-five days and it is not going to close. One thousand three hundred and thirty of the days gone at this morning and not one coming back.
+She had asked him the question on the way up and he had gone quiet about it for six landings, and she had let him, because a man who has stopped talking inside her head is not a man who is thinking.
 
-There was a lamp burning on the stone of the third landing above a room that was not a room, and there was a woman sitting beside it who had been answered correctly and explained nothing, and there was a building four hundred years old that counts to nine, and she was going up to work out what it protects.
+She had asked him whether he knew there was a ceiling.
 
-## What It Protects
+He had not said no. She went up the stair for the eleventh morning with that hanging between them, a silence that had lasted from the sixth landing to the ninth and had not been filled in by either of them.
 
-She said it out loud, sitting, in the ordinary voice, at about the sixth hour of the twenty-sixth of the month, before she did anything else about it.
+## The Building
 
-She said, “Figures first and the reason after. One hundred and fifty-seven days since the ninth. Five hundred and eighty-eight in that room. Three hundred and fifty-five since a lamp in a cage went out. Five hundred and ninety-five with this arm open and it is not going to close. One thousand three hundred and thirty of the days gone and not one coming back.”
+She said the figures on the fourth landing out of nineteen days of habit and went on saying as she went.
 
-She said, “And here is the reason. Yesterday a figure came back right with no reason on it, and all night the rightness sat beside the lamp with me. This morning I am going to work out what a taking kept true for four hundred years protects, because corrected counts are kept for something, and I have the count and not the something.”
+“One hundred and fifty-seven days since the ninth stage. Five hundred and eighty-eight days in that room. The cage out three hundred and fifty-five. This arm open five hundred and ninety-five days. One thousand three hundred and thirty gone at this morning.”
 
-She said, “It is gravity, and it is heavy, and it is not on me.”
+She got to the ninth and stopped with her palm on the warm wall of the landing above it and said the building, because the building was the work.
 
-She said, “Not resolve, which I had yesterday and know its shape. Gravity at standing under four hundred years of keeping, because keeping that long is not habit. It is shelter.”
+“Hundreds of rooms. Each with a table twenty-two paces long, forty boards face up in a stack under the middle of it, a bundle corded twice under the far end, and a kept place at the far side between the twentieth pace and the end with no one in it. I walked a long way down the row of them before I ever came up this stair, and every one of them was the same room.”
 
-She said, “And what I want is the thing sheltered. One thing. I can hold one thing.”
+She went on up past the tenth and the eleventh.
 
-She left the lamp burning on the third landing and went up past it in the dark with nothing in either hand, with her left hand on the stone, saying the landings where they were used, fourth through eleventh, because the gravity needed every one of them under it.
+“Four hundred years of the same working. Every room counting to nine and stopping.”
 
-## Four Hundred Years of Nine
+She said that last part twice, and the second time she said it the way you say the name of a thing you have just noticed has a shape.
 
-She stood on the twelfth landing in the dark with nothing in either hand, and the sentences went on, one at a time, plain, reporting, through her to him, and she said the building standing, because the building was the work tonight.
+“What runs four hundred years without stopping is not a hunger. It is a lid.”
 
-She said, out loud, standing, in the ordinary voice, “Here is the building. Hundreds of rooms, each with a table, forty boards, a bundle, a lamp out, and a kept place at the far side with no person in it. Four hundred years of the same working. Every room counting to nine and stopping.”
+## Nine
 
-She stood there for about a count of a hundred with that in her, and then she said the rest.
+She sat down on the warm stone of the eleventh for a while with the building in her, because there was one thing in it she had walked past a dozen times and never once turned round on.
 
-She said, “And here is the whole of what four hundred years means, said plain. A working kept four hundred years does not feed on its keepers. Han Liang was paid out of a forearm and went on. I am paid out of foundation and go on. The working does not stop for the paying. It stops for nothing. What runs four hundred years without stopping is not a hunger. It is a lid.”
+“Nine,” she said. “Every room counts to nine and stops. I have been counting landings since the eighth of the month beginning two thousand eight hundred and sixty-four and I counted twelve and stopped counting, and the stair went on. But the rooms count to nine and they stop.”
 
-She said, “A lid keeps something in and keeps something out. This lid keeps ascent in under nine and keeps unbounded going out past it. Every ninth thinned lets one person through. Unbounded ascent would let all of them through at once.”
+She said the day's count again under it without meaning to.
 
-He said, “You are close.”
+“One thousand three hundred and thirty gone. And I have a ninth. And the ninth is what thins. So the number nine is not a stage and it is not a level. It is the point in every room where the working is not allowed past.”
 
-She said, “I am. And closeness finishes nothing, and I am saying so out loud. It is one lid found, and the taking goes on.”
+She put her hand flat on the warm stone.
 
-## A Mercy and a Ceiling
+“For four hundred years, in hundreds of rooms, the same number has been the wall. Nobody has to be cruel at nine. It simply is nine.”
 
-She sat down on the stone of the twelfth landing with her back against the wall, because the lid needed sitting, and she said the rest sitting, in the ordinary voice.
+## What a Lid Is For
 
-She said, “Here is the ceiling as mercy, said plain. If all ascent went through at once, the weak would be drained by the strong, the way a lamp burning brighter drains oil. A ceiling that thins each ninth and lets one through at a time keeps the weak alive to ascend at all. That is mercy, and it is real, and I have lived inside it nineteen volumes.”
+She got to the twelfth and sat down with her back against the wall and put the whole of it out standing first, and then sat.
 
-She said, “And here is the ceiling as ceiling, said plain. The mercy is paid for out of foundation, daily, dateless, without telling, one thousand three hundred and thirty from me alone. A mercy that takes without telling is also a lid on the told. None of the thinned were told. I was not told. Han Liang was told nothing.”
+“A lid keeps something in and keeps something out. This lid keeps ascent in under nine and keeps unbounded ascent going out past it. Every ninth in this building gets thinned by a tenth of itself every day, and one person goes through, and the rest of the thinning stays in the wall.”
 
-She said, “And sorrow, deep, quiet, and I am not going to move it. Four hundred years of mercy with a lid on it, and I am one of the coins it is made of, and the mercy is real, and the lid is real, and both are true, and one does not soften the other.”
+She laid her hand flat on the warm stone.
 
-She got up and stood with nothing in either hand, and her arm shook, and she stood still until it stopped, and then she said it standing, because the finding was a line.
+“If all of it went through at once the wall would have nothing holding it, and whatever is behind the wall would go through with it. So it is not a wall for the people going up. It is a wall for the thing behind the wall.”
 
-She said, “The ceiling is a mercy and it is also a ceiling. That is found, and it holds.”
+She stopped there, because that was as far as the arithmetic went and she was not going to cross it with nothing.
 
-## How the Lid Is Kept
+“I do not know what is behind it,” she said. “I have got the shape of the lid and I have got the arithmetic of the thinning and I do not have one figure, one name, or one day for the thing on the other side of it, and I am not going to pretend a shape is a thing.”
 
-She stayed on the twelfth landing after the finding was kept, standing with nothing in either hand, because the keeping wanted saying, and she said it standing.
+## The Mercy
 
-She said, out loud, standing, in the ordinary voice, “Here is how the lid is kept, said plain. Corrected counts, brief answers, no reasons. A tender states a figure wrong by dust and the keeping puts dust right and nothing more. Four hundred years of dust put right. Six hundred more of practice behind it. No face. No mouth explaining. Only the count true and the reason back.”
+“It is also a mercy,” she said. “That is the part I did not expect and it is the part that is true.”
 
-She said, “And here is the whole of what that keeping does, said plain. True counts keep tenders working, because working needs trueness the way climbing needs stone. Reasons kept back keep tenders unasking, because asking needs a door, and there is no door. Work without asking is the lid. I worked fourteen mornings inside it.”
+She said it to the stair, not to him, and she let it be said.
 
-She said, “And clarity, cold, whole, and I am naming it because it is the first clarity after sorrow, and it is large, and I am not going to make it smaller than it is. The lid is not locked. It is kept by trueness given and reason held, and I have been kept that way since I was seven, and now I see the keeping.”
+“If all ascent went through at once, the strong would drink the wall and the weak would be drunk dry, the way a lamp burning brighter drains the oil out of a lamp burning dimmer. A ceiling that thins one ninth and lets one person through at a time keeps the weak alive to ascend at all. Anyone with a ninth gets through. One at a time, but they get through.”
 
-He said, “You see clear.”
+She sat with that for a while and it did not go soft.
 
-She said, “I do. And clearness finishes nothing, and I am saying so out loud. It is one keeping seen, and the taking goes on.”
+“A mercy that takes without telling is also a lid on the told. None of the thinned were told. I was not told. Han Liang was told nothing, and he has carried boards up nine hundred and four steps for three hundred years out of a forearm and was never once asked what for.”
 
-## The Lid Weighed
+She heard her own voice go flat on the word mercy and did not stop it.
 
-She stayed standing after the clearness was said, with nothing in either hand, because the lid wanted weighing whole, and she weighed it standing.
+“I am one of the coins it is made of.”
 
-She said, out loud, standing, in the ordinary voice, “Here is the weighing, said plain. Mercy real on one side, ceiling real on the other, both four hundred years old, both kept by untold thinning. The mercy outweighs nothing. The ceiling excuses nothing. Both stand. I stand under both.”
+Then she said the half that she was not proud of, and she said it to the stair.
 
-She said, “And here is the whole of what standing under means, said plain. Tomorrow the standing ends in a word, because weighed lids have names under them, and the name is in my mouth unsaid, and unsaid weighs more every hour.”
+“Nine years I have been angry, and the anger has been warm, and it has been the warmest thing in my head, and there are two people in this account and one of them is a hole.”
 
-## The Name Coming
+She pressed her palm down on the cold stone of that landing.
 
-She came down in the dark with her left hand on the stone, past the eleventh, past the tenth with no doorway, past the ninth, saying each one where it was used, and she took longer over the ninth than the rest, because the lid touched the ninth and the ninth was under her feet.
+“I am aware of what I am doing when I say it. I am telling the stair a true thing in order to feel the warmth of it, and I have done that every morning for nine years, and the doing of it is not grief. It is feeding.”
 
-She sat beside the lamp, and the light went six paces out from where it stood and stopped, and she stayed inside the reach of it until her breath went four counts sitting still.
+She left it there.
 
-She said, out loud, sitting, in the ordinary voice, “Lamp on the third landing. Burning. Mine. A lid four hundred years old that keeps ascent in. That is the record and there is nothing else in it.”
+## Him, on the Sixth Landing
 
-She said, “And here is what tomorrow is, said plain. The lid has something under it that it keeps, because lids are kept for what is under them, and I have the arithmetic of the taking and the shape of the thinning and the mercy and the ceiling, and tomorrow I say what is under it out loud.”
+“When I made myself heard,” he said, “did I know there was a ceiling.”
 
-There was a lamp burning on the stone of the third landing, and a mercy with a lid on it found out of four hundred years, and a woman sitting beside the light with sorrow sitting beside her.
+She had not said it out loud. She had asked it on the sixth landing with her hand on the stone and her back to the stair, and he had gone quiet, and she had carried it up five flights behind her like a stone in a shoe.
 
-And she had found the ceiling a mercy and also a ceiling, and that was the day, and the thing under the lid would be named in the morning whether the stair allowed it or not.
+He had been working on it for six landings. He had found a sentence to refuse with and she was not going to be allowed to see him find it.
+
+“Do not do this in this building,” he said.
+
+She looked up the dark stair, where there was nothing at all to look at.
+
+“That is the first thing you have ever refused me for a reason about.”
+
+“Yes.”
+
+“You have refused me things nine years running and every one of them was a joke and this one is not.”
+
+“I cannot say it here. I am heard where I am. You worked that out four days ago and you have been walking nine landings every morning with my name in your mouth like a lamp.”
+
+She sat on the stone of the twelfth landing and felt the whole of the arrangement land where it belonged.
+
+He was not refusing her because of a disagreement. He was refusing her because he was read now, and she had put him there.
+
+She had wanted him answered. She had said so out loud four days ago where the sentences go past, and she had been right that she wanted it, and here was the price of it standing on a landing in the dark in front of her.
+
+“All right,” she said. “Not here.”
+
+“Not here.”
+
+“Where.”
+
+“Not in nine years of my life,” he said. “That is the honest answer and it is a bad one.”
+
+She sat there and let the arrangement be what it was.
+
+There were rules about where a thing could be said and she had been keeping them for nine years without knowing that was what they were. You could say anything on a stair. You could say anything in a room with no person in it. You could say anything standing at a table at four feet off the near end at about the ninth hour, which is where she had said no twice.
+
+You could not say it here, because here had sentences going through it, and had had them since the twelfth of the month beginning two thousand eight hundred and fifty-two, and he was in them.
+
+“And if I ask you outside,” she said.
+
+“Then you will be outside.”
+
+That was not a refusal and it was not a promise and she could not get her hands round any part of it.
+
+“All right,” she said. “I will hold it until there is a place.”
+
+## Weighing It
+
+She sat for a long time after that and did not do any work.
+
+Then she weighed it, sitting, in the ordinary voice, because a weighed thing that is not put in the mouth stays in the mouth and she did not want it there.
+
+“Mercy on one side. Ceiling on the other. Four hundred years old both. The mercy is paid for out of foundation daily, dateless, without telling, and the ceiling excuses none of it, and the mercy excuses none of the ceiling.”
+
+She put her hand on the cold stone beside her.
+
+“I stand under both. I am not going to be told which of them I would rather be under, because I have not got a choice and a person who weighs a thing they cannot change is only looking for permission.”
+
+The cold came up through the floor into her arm and shook it and she sat still until it stopped, and the place behind her fourth rib was still the size of her thumbnail, and she checked it without meaning to.
+
+## Down With the Word Getting Heavier
+
+She came down in the dark with her left hand on the stone, past the eleventh, past the tenth, past the ninth, saying each one where it was used, and she took longer over the ninth than over the rest, because the ceiling touched the ninth and the ninth had been under her feet.
+
+The lamp was where she had left it. She sat down beside it with the light six paces out from where it stood and stopping.
+
+She said the record, in the ordinary voice, sitting.
+
+“Lamp on the third landing. Burning. A lid four hundred years old that keeps ascent in under nine and keeps something else in behind it. A mercy. A ceiling. A man who has a sentence he cannot say in this building because of something I did on the seventeenth.”
+
+She stayed where she was a long time with that.
+
+And she had a word for what was behind the lid.
+
+It had been in her mouth since the seventh landing and she had put it down there and picked it up and put it down again three times on the way up and three times on the way down, and it had got heavier every time, and she had thought that was because it was a true one.

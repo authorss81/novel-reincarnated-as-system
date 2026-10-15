@@ -1037,7 +1037,7 @@ volume, Ning Yan must reach it, or the argument is never had.* Sixty chapters.
 1. **The movement is UP, inside the building she has been standing at the top of for four hundred and seventy-nine
    days.** She has been reading the incoming end of the announcement layer since she was seven years old and has
    never once asked where the sentences are made. **There is more building above her room: nine landings and a
-   stair that does not stop at nine.** Nothing in fifteen volumes has ever been above her and it is a building and
+   stair that does not stop at nine.** Nothing in nineteen years has ever been above her and it is a building and
    not a ceiling.
 2. **The cells, at the batch midpoint, ch 848.** Every room has a table, a cage lamp, forty boards, a bundle, and
    **at the far side a kept place of the length of a forearm that nobody has ever sat in.** Her room is not a room.
@@ -1055,7 +1055,7 @@ volume, Ning Yan must reach it, or the argument is never had.* Sixty chapters.
    Scribe is not lying about this. **She works it out of her own arithmetic across nine chapters and nobody in the
    world tells her anything.** The reversal that turns the volume: **his share of what has been taken out of her
    foundation is the small part of it and the rest went into the ceiling** — she has been angry at the wrong thief
-   for fifteen volumes and being wrong does not make him right.
+   for nine years and being wrong does not make him right.
 6. **The peak of Immortal Vessel at ch 894, day 2,939, two hundred and seven days after the ninth.** Not a tenth
    stage, no numbered step, no announcement, no tribulation. Cost named once: **she cannot finish the ninth
    without a person in her arithmetic.** One person bound — the boy, whom nobody sends and nobody enters and
@@ -1308,7 +1308,7 @@ Day 2,870, the seventh of the month beginning two thousand eight hundred and six
 
 ### Him
 
-**Yuan Sheng.** Court, third rung, until ch 866. **Announcement from ch 866, taken on purpose, without asking her, and it cannot be un-taken.** Cost, named once at ch 866 in her hearing in the ordinary voice: **he can be anywhere but inside her, and she can hear his half.** Every sentence he has said to her in fifteen volumes is now a thing that can be heard by the thing that made him. No figure of what is left of him on any page. Present tense throughout, sparse before ch 866 and heard as a half from it. **His yes at ch 812 stands, she does not know, and nothing in this batch tells her.** No frame scene anywhere in ch 856–870.
+**Yuan Sheng.** Court, third rung, until ch 866. **Announcement from ch 866, taken on purpose, without asking her, and it cannot be un-taken.** Cost, named once at ch 866 in her hearing in the ordinary voice: **he can be anywhere but inside her, and she can hear his half.** Every sentence he has ever said to her in nine years is now a thing that can be heard by the thing that made him. No figure of what is left of him on any page. Present tense throughout, sparse before ch 866 and heard as a half from it. **His yes at ch 812 stands, she does not know, and nothing in this batch tells her.** No frame scene anywhere in ch 856–870.
 
 ### The boy of sixteen
 
@@ -1341,49 +1341,79 @@ Twelfth landing reached and stood on, sentences heard through stone from the ele
 ### The next phase
 
 **`workspace/volume-15-batch-0003/PROMPT.md` — Volume 15 Batch 0003, ch 871–885, days 2,871–2,915, pressure *the ceiling*, midpoint ch 878 and the irreversible step at ch 885.** This phase created exactly one `workspace/volume-15-*` directory beyond its own and **wrote no `.done` marker, which `PHASE_SYSTEM.md` gives to the controller alone.**
+## Who is where at end of chapter 885 — VOLUME 15 BATCH 0003, ch 871–885, REPAIRED AT REVIEW
 
-## Who is where at end of chapter 885 — VOLUME 15 BATCH 0003 WRITTEN, ch 871–885
+**A cold reader starts here. This block supersedes *Who is where at end of chapter 870* above it wherever the two differ.** Position first, measurements second, and the measurements are short on purpose. Recorded 15 Oct 2026 by the drafting phase and re-recorded 15 Oct 2026 by the review repair, which **rebuilt all fifteen chapters** and **moved no chapter, no day, no midpoint and no climax.** Volume 14 remains closed on the page at ch 781–840, 121,530 words. **Volume 15 stands at forty-five chapters of sixty.**
 
-**A cold reader starts here. This block supersedes *Who is where at end of chapter 870* above it wherever the two differ.** Recorded 15 Oct 2026 by the Volume 15 Batch 0003 drafting phase. **Fifteen chapters, days 2,871–2,915, 23,979 words of body prose on method B, average 1,599. One bracketed layer line in fifteen, at ch 876. `scribe` three times in fifteen (twice at ch 876, once at ch 878). No stage, no tenth, no binding, no boy name, no frame scene. Midpoint ch 878, climax and irreversible step at ch 885.** Volume 14 remains closed on the page at ch 781–840, 121,530 words. Volume 15 stands at forty-five chapters of sixty.
-
-Day 2,915, the twenty-second of the month beginning two thousand eight hundred and ninety-four. A building with nine landings above her room and a stair out of the ninth that does not stop, and sentences starting above the eleventh, and a twelfth landing stood on. **A lamp burning on the stone of the third landing, left there at ch 856 and tended since, never carried higher.** A woman beside it who has said the count out loud where the thing that keeps the ceiling can read it, and cannot take it back.
+Day 2,915, the twenty-second of the month beginning two thousand eight hundred and ninety-four. A building with nine landings above her room and a stair out of the ninth that does not stop, sentences starting above the eleventh, and a stair she has now worked to a **thirteenth landing**. **A lamp burning on the stone of the third landing, left there on the twenty-third of the month beginning two thousand eight hundred and four and tended since, never carried higher.** A woman beside it who has said six hundred and forty thousand out loud, standing, at the ninth hour, in the channel where the thing that keeps the ceiling can read it, and cannot take it back.
 
 ### Her
 
-**IMMORTAL VESSEL 9** throughout this batch and not touched. Nineteen years old. Three fingers and a thumb. **Right arm open at the elbow six hundred and twenty-one days** and not going to close. Short breath four counts everywhere, seven on a rise, nine lying still. Seven of eleven holds. Small open place low behind the fourth rib. **One thousand three hundred and fifty-six of the days gone at `D − 1,559`, not one coming back.** Not hungry. Nib and ink against her fourth rib; a book of eight leaves with **four blank leaves still blank, unwritten since day 2,750.**
+**IMMORTAL VESSEL 9** throughout this batch and not touched. Nineteen years old. Three fingers and a thumb. **Right arm open at the elbow six hundred and twenty-one days** and not going to close, and not closed or mended by this batch. Short breath four counts everywhere, seven on a rise, nine lying still. Seven of eleven holds. **Small open place low behind the fourth rib, now the size of her thumbnail, not the size of a coin — see the fall below.** **One thousand three hundred and fifty-six of the days gone at `D − 1,559`, not one coming back.** Not hungry, and has not been for two years, which is the bill and not health. Nib and ink against her fourth rib; a book of eight leaves with **four blank leaves still blank, unwritten since day 2,750**, touched at ch 872 and not written on.
 
 **Twenty costs carried whole and none re-derived, and none re-named.**
 
-**What this batch added to her, in her own mouth:** that ten days, twenty-one hours and thirty-six minutes at the head of her own column does not cover the days gone, and the price does not date, and she knew that and had never used it · that four months of her own cultivation went in one night in the third chapter of her keeping, said out loud standing after fifteen volumes silent · that she grows thinner at the rate she grows stronger, and the taking eats foundation and leaves strength · that she worked out loud walking up a stair, which she had never done · that the keeping answers a figure correctly and explains nothing · that the ceiling is a mercy and is also a ceiling, four hundred years old · **that the walls protect the gathered will of every soul that ever died believing it could ascend, and unbounded ascent drains it — the Anchor, named standing at ch 878, true and not the whole** · that the room runs on firsts with no person in it, and she was above it for the first of 2,894 · that a great many pay and none of them was told · that his share is the small part and the smallness does not help · that she said the small share to him and he did not defend himself · that she has been angry at the wrong thief and it does not make him right · that merit settled off the ground and went off, not for the page · **and that six hundred and forty thousand are dead believing they could ascend, said standing at the ninth hour where it can be read, first in her own voice, ungettable back.**
+**What this batch added to her, in her own mouth:** that the head of her own column does not cover the days gone and a column whose body outgrows its head is a mouth · that the price is a rate and not a sum, fifty-eight heads under one head, and that she knew that at twelve and never used it · **that four months of her own cultivation went in one night in the third chapter of her keeping, said out loud, standing, after nine years silent** · that she grows less solid at the rate she grows stronger, shown by a chip of stair coming apart in her hand · that the taking thins a vessel to let ascent through and she has been angry at a hole for nine years · **that the keeping answers a figure correctly and explains nothing, and that she can therefore check any figure she has ever written down but can discover nothing, because the thing she cannot put in has no unit** · that the layer has never once used the word Anchor and the word is hers · that a great many pay and none of them was told · **that his share is nine years against the ceiling's four hundred, and that the actual finding is not that he took small but that he took small and told her nothing** · that she is the wire and not the worker · that merit settles off the ground and goes off, not for the page · **that the walls protect the gathered will of every soul that ever died believing it could ascend, and unbounded ascent drains it — the Anchor, named standing at ch 878, true and not the whole** · **and that six hundred and forty thousand are dead believing they could ascend, said standing at the ninth hour where it can be read, first in her own voice, ungettable back.**
 
-### Him
+### Him — this is the part the repair changed most
 
-**Yuan Sheng.** Announcement since ch 866, heard, un-untakable. Every sentence he speaks is present tense. No figure of what is left of him on any page. **His yes at ch 812 stands, she does not know, and nothing in this batch tells her.** He did not defend himself at ch 882. No frame scene anywhere in ch 871–885.
+**Yuan Sheng.** Announcement since ch 866, heard, un-untakable. No figure of what is left of him on any page. **His yes at ch 812 stands, she does not know, and nothing in this batch tells her.** No frame scene anywhere in ch 871–885, and none is permitted in ch 886–900.
+
+**He speaks in every one of the fifteen chapters, in the present tense, at length, and he is no longer a reassurance.** What the repair put on the page, and what Batch 0004 inherits:
+
+- **He corrects her and gives her the question.** Ch 871: *you are subtracting a price from a count* and *ask what a count is for*. That is the hinge of the batch.
+- **He admits a failure and a limit.** Ch 872: he has felt the taking go for nine years and has never seen where it goes, and *ask me again when you have a figure that fits*. Ch 874: he has looked for nine years and cannot name it, and would not tell her, and says so.
+- **He refuses her once, for a reason that is his cost.** Ch 877: asked whether he knew there was a ceiling when he made himself heard, he answers *do not do this in this building* and will not say it there, because he is read and she worked that out four days earlier. **This is the chapter's whole shape and it has not been answered by anybody.**
+- **He gives her something nobody asked him for.** Ch 879: he puts the room's second-hour working into her ear unasked, and says plainly that giving her figures was the job and this is not the same arrangement.
+- **He says her name.** **Ch 873, once, twice over, and she has never heard it in nine years.** She has said his out loud three times.
+- **He says the hardest true thing anyone says in the batch.** Ch 882: *you are right about the number and you are wrong about the wanting. I did not want it small. I wanted it not told.* **She does not agree with it and does not answer it, and at ch 882 she works out that there is no floor of this building where the answer to that does not go past into the traffic.**
+- **He refuses the frame she needs.** Ch 883: *there is no thief*, *you have been calling it a thief since you were ten years old and it is the only name you had*. He does not soften and she does not accept the softening.
+- **He asks her one human question.** Ch 884: *have you eaten today*, after two days of sitting, and then admits he used the wrong question and that he is sorry for it.
+- **He tries to stop her and fails, and then takes what she did.** Ch 885: *do not say it*, and afterwards *I want you to have said it standing*.
 
 ### The boy of sixteen
 
-Unnamed, unsent, unentered, unbound. **Not on the page in ch 871–885.** He is eight flights below her at the close, in the record since ch 807 without knowing there is one. He is not named and is not bound in this batch.
+Unnamed, unsent, unentered, unbound. **Not on the page in ch 871–885.** Eight flights below her at the close, in the record since ch 807 without knowing there is one. **He is asked at ch 890 and bound at ch 894 and neither happens in this batch.**
 
 ### Han Liang, the bearer
 
-Named at ch 857 and priced at ch 858. On the page in this batch only by report of his carrying at ch 877–879. Never a function again.
+Named at ch 857 and priced at ch 858. On the page in this batch by report of his carrying at ch 879, forty boards onto the table at about the second hour of the first of 2,894. Never a function again.
+
+### The fall — new cost on the page, ch 875
+
+On the twentieth she worked out loud while walking, which she had never done, and went past the twelfth onto **a landing she had never stood on**, and the tread was polished to nothing and her weight went out over the edge of a stair nine landings above a room she had left. She put her open right arm out and **it did not take her**, because an arm open at the elbow for six hundred and twenty-one days does not take anything at the elbow. She landed on the stone. **The open place behind her fourth rib went from the size of a coin to the size of her thumbnail and at ch 884 it is still the size of her thumbnail and has not gone down.** Nobody sent her up and there is no reason on the page for her to have gone.
+
+**She also found, in the same fall, that his half does not stop when she goes out.** He had not stopped talking and she had not heard one word of it. That is the other cost of ch 866 and it was unpriced until the twentieth.
 
 ### What is above the ninth, and what is on the page
 
-Twelfth landing worked on daily and stood on; tenth landing doorless; sentences above the eleventh going through her to him. **No step count for the stair above the room, no height, no top, no number of rooms.** The making-place not yet reached. **She does not go back down into her room in this batch and the room is as ch 855 left it.**
+Twelfth landing worked on daily and stood on; **a thirteenth landing, found on the twentieth;** tenth landing doorless; sentences above the eleventh going through her to him. **No step count for the stair above the room, no height, no top, no number of rooms.** The making-place not yet reached. **She does not go back down into her room in this batch and the room is as ch 855 left it.**
 
 ### The first at 2,894
 
-**2,894 is ch 879**: heard by her lying on the twelfth landing through his half, the room running with no person in it. **No bundle on any other day. No chapter moves to make a first land on itself.**
+**2,894 is ch 879**: heard by her lying on the twelfth landing, and then again by his half, the room running with no person in it. **No bundle on any other day. No chapter moves to make a first land on itself.**
 
 ### Standing relationships at the close
 
-No forgiving, no thanking, no withdrawing — none happened; she stays. **Him, heard now** — measured small, said to, undefended, unwithdrawn from. **Han Liang** — named, priced, carried. **The boy** — unnamed, unbound, off the page. **Ning Wu** — not spent.
+No forgiving, no thanking, no withdrawing — none happened; she stays. **Him, heard now** — measured small, said to, undefended, unwithdrawn from, and refused once and once more refused to answer. **Han Liang** — named, priced, carried. **The boy** — unnamed, unbound, off the page. **Ning Wu** — not spent.
 
 ### Volume 15 Batch 0003, measured
 
-**Fifteen chapters, ch 871–885, days 2,871 to 2,915, 23,979 words of body prose on method B** (`grep -v '^#' <file> | wc -w`, per file and summed), **average 1,599.** Per chapter: 871 1,954 · 872 1,735 · 873 1,655 · 874 1,645 · 875 1,662 · 876 1,626 · 877 1,536 · 878 1,537 · 879 1,573 · 880 1,534 · 881 1,535 · 882 1,479 · 883 1,445 · 884 1,488 · 885 1,575. None under the 1,300 floor and none above the 2,700 guide. **One bracketed layer line in fifteen, at ch 876** (`[The figure stands as said.]`, one sentence, plain report grammar, the plainest thing in the chapter), which spends Batch 0003's one of Volume 15's three. **No paragraph over 120 words.** No bold, no italic, no blockquote, no table, no code fence, no horizontal rule, no straight quote, no em dash, no Arabic numeral of three or more digits, no named weekday, no named month, no named week. `nobody` **3** across fifteen against the volume line of thirty · `eleven` **6** against forty · `scribe` **3** (twice ch 876, once ch 878) · whole-word `court`, `ledger`, `ascendant`, `choir`, `forgiv`, `the year`, `thank`, `twenty-two days` **all 0, re-measured on the page** (`scribe` substring inside one `describes` and a `courteous` reworded out; one `forgiveness` reworded out). Fifteen titles, zero collisions against all eight hundred and eighty-five standing headings manuscript-wide, and no `##` section heading duplicated inside the volume (three collisions found at drafting — *Said Standing*, *Down With It Said*, *The Lamp Still Burning* — and all three re-seated with unique names). Every chapter ordinal re-derived under `((day − 134) mod 30) + 1`; every figure under `D − 2,732`, `D − 2,301`, `D − 2,534`, `D − 2,294`, `D − 1,559`, `D − 2,344`. No chapter speaks of anything as already on her table unarrived; the 2,894 first lands only at ch 879. His every sentence present tense. The count at ch 885 is a number, not a term; no bargain term, price, or clause stated anywhere in the batch.
+**Fifteen chapters, days 2,871 to 2,915, 28,950 words of body prose on method B** (`grep -v '^#' <file> | wc -w`, per file and summed), **average 1,930.** Per chapter 871 2,007 · 872 1,813 · 873 1,840 · 874 1,905 · 875 2,131 · 876 1,896 · 877 1,916 · 878 1,959 · 879 1,842 · 880 1,905 · 881 1,941 · 882 1,929 · 883 1,901 · 884 2,029 · 885 1,936. **All fifteen inside the 1,800–2,700 guide**, where the draft averaged 1,599 and fell to 1,445. Longest paragraph in the batch **85 words**.
+
+**One bracketed layer line in fifteen, at ch 876** (`[That figure is entered.]`), which spends Batch 0003's one of Volume 15's three, so **Batch 0004 spends none.** Whole-word `Scribe` **1** (ch 876). Whole-word `court`, `ledger`, `ascendant`, `choir`, `forgiv`, `the year`, `thank`, `twenty-two days` **all 0**. `nobody` **6**, `eleven` **13**. No bold, no italic, no blockquote, no table, no code fence, no horizontal rule, no straight quote, no em dash, no Arabic numeral of three or more digits, no named weekday, no named month, no named week. Fifteen titles, zero collisions against all eight hundred and eighty-five standing headings manuscript-wide, and **no `##` section heading duplicated anywhere in the volume**.
+
+**The four defects the review found, and what the repair did to each:**
+
+| Finding | Before | After |
+| --- | --- | --- |
+| Publication structure inside the fiction | `fifteen volumes` 15×, `six volumes` 4×, `nineteen volumes` 4×, `Chapter 3` 1×, in ch 854 and ch 863–867 and ch 870 as well | **zero** manuscript-wide, except Volume 3's *four hundred and eleven volumes*, which are books. In-world durations only |
+| `She said` opening a paragraph | 321 of 573, 56 per cent | **50 of 1,130, 4.4 per cent** |
+| `And here is the whole of what…` / `said plain` / `that was the day` / `whether she climbed or not` | 36 / 96 / 15 / 4 | **0 / 0 / 0 / 0** |
+| All fifteen endings the same sentence, and the felt-emotion slot filled fifteen times | 15 of 15 | **15 structurally different endings, and the feeling is carried in the scene in eleven of the fifteen** |
+
+Every chapter ordinal re-derived under `((day − 134) mod 30) + 1`; every figure under `D − 2,732`, `D − 2,301`, `D − 2,534`, `D − 2,294`, `D − 1,559`, `D − 2,344`. The 2,894 first lands only at ch 879. His every sentence present tense, re-grepped after the repair. The count at ch 885 is a number, not a term; **no bargain term, price or clause is stated anywhere in the batch.**
 
 ### The next phase
 
-**`workspace/volume-15-batch-0004/PROMPT.md` — Volume 15 Batch 0004, ch 886–900, days 2,916–2,960, pressure *the bargain*, midpoint ch 891 and the irreversible step at ch 894.** This phase created exactly one `workspace/volume-15-*` directory beyond its own and **wrote no `.done` marker, which `PHASE_SYSTEM.md` gives to the controller alone.**
+**`workspace/volume-15-batch-0004/PROMPT.md` — Volume 15 Batch 0004, ch 886–900, days 2,916–2,960, pressure *the bargain*, midpoint ch 891 and the irreversible step at ch 894.** The prompt was **rewritten by the review repair** and now carries the corrected house style, the male-lead requirements, the new body cost, the two rules she has learned, and an explicit instruction that **ch 900's not-answering must read as a man declining and not as a man missing.** It creates no further `workspace/volume-15-*` directory and **writes no `.done` marker, which `PHASE_SYSTEM.md` gives to the controller alone.**

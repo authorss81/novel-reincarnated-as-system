@@ -1,85 +1,143 @@
 # The Wrong Thief
 
-One hundred and seventy-four days since the ninth stage. Six hundred and five days in that room. The cage out three hundred and seventy-two days. Right arm open six hundred and twelve days and it is not going to close. One thousand three hundred and forty-seven of the days gone at this morning and not one coming back.
+She had got back to it at about the fourth hour the night before and had not been able to put it down, and that was the reason she was on the stair at about the sixth hour on the fourteenth day with her arm across her knees and a thing in her that would not sit still.
 
-There was a lamp burning on the stone of the third landing above a room that was not a room, and there was a woman sitting beside it who had said the small share to him, and there was a grievance fifteen volumes old with nowhere to go, and she was going up to get back to it.
+She had spent nine years aiming a whole anger at one place in a man and on the twelfth she had found out that the place was small, and a small target with a whole anger on it does not simply stop. It goes somewhere.
+
+“One hundred and seventy-four days since the ninth stage. Six hundred and five days in that room. The cage out three hundred and seventy-two. This arm open six hundred and twelve days. One thousand three hundred and forty-seven gone at this morning.”
+
+She got that out on the fourth landing and went on up.
 
 ## Getting Back to It
 
-She said it out loud, sitting, in the ordinary voice, at about the sixth hour of the thirteenth of the month, before she did anything else about it.
+“This is placement and it is not an excuse and I am going to be careful with the difference.”
 
-She said, “Figures first and the reason after. One hundred and seventy-four days since the ninth. Six hundred and five in that room. Three hundred and seventy-two since a lamp in a cage went out. Six hundred and twelve with this arm open and it is not going to close. One thousand three hundred and forty-seven of the days gone and not one coming back.”
+She said it on the ninth with her hand on the warm wall.
 
-She said, “And here is the reason. Yesterday I said the small share to him and he did not defend himself, and all night the no defense sat beside the lamp with me. This morning I am going to get back to the grievance, because anger with nowhere to go either dies or finds its true place, and mine is not dead.”
+“I have been wrong about who for nine years. Being wrong that long is not a mistake. You make a mistake in an afternoon. Nine years is a place you put something and then defend for nine years.”
 
-She said, “It is wrath, and it is cold, and it is the first cold wrath on this stair.”
+She carried on up past the tenth.
 
-She said, “Not shame, which I had yesterday and know its shape. Wrath at having been wrong about the thief for fifteen volumes, because wrong that long is not mistake. It is placement.”
+“Anger with nowhere to go either dies or finds its true place. Mine is not dead. It found one yesterday and it has two of them now and I am going to say where they are.”
 
-She said, “And what I want is the true place of it. One place. I can hold one place.”
+## What A Thief Wants
 
-She left the lamp burning on the third landing and went up past it in the dark with nothing in either hand, with her left hand on the stone, saying the landings where they were used, fourth through eleventh, because the wrath needed every one of them under it.
+She turned that over on the way up, between the tenth and the ninth, with her hand on the wall, and got most of the way through it in her head before she said any of it.
 
-## The Two Halves
+“I have been calling it a thief for nine years and I have never once asked what a thief wants.”
 
-She stood on the twelfth landing in the dark with nothing in either hand, and the sentences went on, one at a time, plain, reporting, through her to him, and his half went on inside her where she could hear it, and she said the halves standing, because halves set standing stay apart.
+She said that on the tenth landing with no doorway in it.
 
-She said, out loud, standing, in the ordinary voice, “Here are the two halves, said plain. First half. I have been angry at the wrong thief for fifteen volumes. The great taking went into the ceiling and I aimed at him. That is wrong, and it is mine, and I say it.”
+“A thief takes and the taking is the point. That is the whole of it and it is the reason I have been able to carry it for nine years without it ever once going bad on me. If somebody is taking from you then you are owed something and the owed thing has a shape and it can be put on a column and it can be got back.”
 
-She stood there for about a count of a hundred with that in her, and then she said the rest.
+She went on up the stair to the top of it.
 
-She said, “Second half. It does not make him right. He chose it. He knew it was designed. He did not tell me in fifteen volumes. Small share, great silence, both his. Being wrong about the thief does not unchoose the choosing.”
+“There is nothing on this stair to get back. I cannot get the great part back off a ceiling. I cannot get the small part back out of him because it has been in him for nine years and it is load bearing on both sides now. There is no place on any of these floors where a thief is owed and the man in my head is the one that owes it.”
 
-She said, “And here is the whole of what the two halves do, said plain. The first half takes the great anger off him. The second half keeps the true anger on him. I am angry at the ceiling for the great taking without telling. I am angry at him for the small taking with knowing. Both angers are true, and one does not wash the other.”
+She stopped on the ninth with her hand on the warm wall and said the rest of it.
 
-He said, “You are right.”
+“So there is no thief. There is a working, and I have been carrying it as if it were a person, because a person can be answered and a working cannot.”
 
-She said, “I am. And rightness finishes nothing, and I am saying so out loud. It is two halves placed, and the taking goes on.”
+She let that sit there for a count of forty.
 
-## Anger Placed, Not Spent
+“Nine years of carrying something that cannot be answered, and the reason it never went bad is that I was not really carrying a thief. I was carrying a warm place to put my anger and there has never been a thief in it at all.”
 
-She sat down on the stone of the twelfth landing with her back against the wall, because the placing needed sitting after it, and she said the rest sitting, in the ordinary voice.
+## Two Halves
 
-She said, “Here is what placed means, said plain. Misaimed anger spent fifteen volumes warming me. Placed anger spends nothing. It sits, cold, in two places, at a ceiling I cannot speak to and at a person inside my head I speak to daily. Neither sitting warms me, and I am saying so out loud because it would be dishonest not to.”
+She stood up off the stone of the twelfth landing and got her breath and said it standing, because halves said standing stay apart.
 
-She said, “And recklessness, sudden, at the edge, and I am naming it because it is the first recklessness on this stair and it wants to throw the anger somewhere to be rid of it. I could throw it at him entire and be warm again. I could throw it at the ceiling entire and be clean again. Both throwings would be false, and I am not throwing.”
+“First half. I have been angry at the wrong thief for nine years. The great taking went into the ceiling and into the Anchor and into the holding, and I aimed all of it at a man who took a small part and told me nothing. That is wrong and it is mine and I am saying it.”
 
-She said, “And here is the part that stays, said plain. Wrong thief, right grievance, small chooser, great keeping. Four corners, all true, none softened. Tomorrow the anger gets sat with for two days, because placed anger needs sitting the way a wall needs drying.”
+She stopped, and then she said the other one, and she had practised it on the way up and it still came out harder than the first.
 
-She got up and stood with nothing in either hand, and she said it standing, because the placing was standing work.
+“Second half. It does not make him right. He chose it. He knew it was designed. He did not tell me in nine years. Small part, great silence, both his. Being wrong about the thief does not unchoose the choosing.”
 
-She said, “Wrong thief, and he is not right. That is placed, and it holds.”
+She stood there with both of them.
 
-## Keeping the Cold Anger
+“The first half takes the great anger off him. The second half keeps the true anger on him. I am angry at the ceiling for the great taking without telling. I am angry at him for the small taking with knowing. Two angers, both true, and one does not wash the other.”
 
-She stayed on the twelfth landing after the placing was kept, standing with nothing in either hand, because the cold anger wanted keeping, and she kept it standing.
+## He Refuses the Frame
 
-She said, out loud, standing, in the ordinary voice, “Here is the keeping, said plain. Cold anger needs no fuel and takes no room. It stands in two places, at the ceiling and at him, and stands without leaning. Warm anger leaned on him fifteen volumes and walked with me. Cold anger stands apart and lets me walk. Apart walking is lonelier and truer.”
+“There is no thief.”
 
-She said, “And here is the whole of what truer means, said plain. Truer does not mean kinder. The ceiling anger will never have a mouth to answer. His anger will hear my voice daily and stay. Both standings cost. Neither pays. Keeping both without throwing either is the work, and the work has no end I can see.”
+She had not expected that and she felt it land.
 
-She said, “And bleakness, wide, honest, and I am naming it because it is the first bleakness after recklessness, and it is large, and I am not going to look away from it. No end seen. Two standings kept. Feet going on. That is the bleakness, and it is true, and truth carries further than warmth.”
+“There is a wall and there is a man in it and the man did not build the wall. If you are looking for the one who took it, he is four hundred years up and he has no mouth, and you are going to keep being angry at him for as long as you live, and that will do nothing at all for you.”
 
-He said, “You keep on.”
+“Then let it do nothing,” she said.
 
-She said, “I do. And keeping on finishes nothing, and I am saying so out loud. It is one keeping kept, and the taking goes on.”
+“That is not what you want.”
 
-## The Bleakness Walked
+“That is exactly what I want. I want to find out whether the anger I have been carrying has been carrying anything, and I am not going to be allowed to test it by pretending the wall is a man.”
 
-She stayed standing after the keeping was kept, with nothing in either hand, because the bleakness wanted walking, and she walked it standing still.
+“No,” he said. “You are not.”
 
-She said, out loud, standing, in the ordinary voice, “Here is the walking, said plain. Bleakness walked standing is feet going nowhere with the head going on. Two standings kept, no end seen, breath nine counts standing still. Walking nowhere holds the standings apart. Apart held is the work.”
+She stood there and looked at the two halves she had just put down and found that he had not touched either of them.
 
-She said, “And here is the whole of what apart held means, said plain. Held apart, the two angers cannot merge back to warm. Warm would be false. Cold held is true. Tomorrow the held gets sat with two days, because held needs sitting the way walls need drying.”
+He had not said she was wrong about the wall. He had not said she was wrong about the small part. He had not said she was wrong about the silence.
 
-## Down With It Placed
+He had only refused to be the thief.
 
-She came down in the dark with her left hand on the stone, past the eleventh, past the tenth with no doorway, past the ninth, saying each one where it was used, and she took longer over the ninth than the rest, because the placing touched the ninth.
+“If you are not the thief,” she said, “then what are you.”
 
-She sat beside the lamp, and the light went six paces out from where it stood and stopped, and she stayed inside the reach of it until her breath went four counts sitting still.
+“I am the part of it you could reach,” he said. “That is not the same as the thief and it is not nothing. When you have spent nine years being angry at a man you cannot be angry at the part you cannot reach, and I am what is in the way, and I have been what is in the way for the whole of it, and I did not put myself there.”
 
-She said, out loud, sitting, in the ordinary voice, “Lamp on the third landing. Burning. Mine. Anger in its two true places. That is the record and there is nothing else in it.”
+She stood on the twelfth landing with that.
 
-There was a lamp burning on the stone of the third landing, and a grievance fifteen volumes old set in its two places, and a woman sitting beside the light with cold wrath sitting beside her.
+“You want me to move the anger off you onto something with no mouth in it.”
 
-And she had been angry at the wrong thief and it did not make him right, and that was the day, and the placed anger would be sat with whether the sitting helped or not.
+“I want you to stop calling it a thief,” he said. “You have been calling it a thief since you were ten years old and it is the only name you had and you have never had another one.”
+
+## Recklessness
+
+She sat down hard on the stone of the landing and put her hand flat on the floor.
+
+She wanted to throw it. That was the new thing and it was not a thought, it was an animal thing in her chest that wanted a shape to go out through.
+
+She could throw all of it at him. Nine years at a man who had gone quiet on a landing for nine years because asking was a conversation and a conversation could be listened to. She could do it and he would take it, because he took everything, and she would be warm again before the count of a hundred was out.
+
+Or she could throw all of it at the wall. Four hundred years of a thing that keeps a count true and a reason back and never once tells anybody what it is doing it for. She could do that and she would be clean and it would go nowhere and it would not be a lie.
+
+Both of those were false and she knew both of them were false and her body was not interested in that.
+
+She sat on the cold stone with her hand flat on the floor and her breath going nine counts standing still and did not throw either of them.
+
+## Placed
+
+She said it sitting, in the ordinary voice, with the cold coming up through the floor into her arm.
+
+“Misaimed anger spent nine years warming me. Placed anger spends nothing.”
+
+She set her hand against the wall.
+
+“It sits, cold, in two places. At a ceiling I cannot speak to. And at a person inside my head I speak to daily, who has just told me he is not the thing I have been angry at.”
+
+She turned the hand over and looked at three fingers and a thumb that had come apart on a chip of stair.
+
+“Warm anger leaned on him for nine years and walked with me. Every morning. Cold anger stands apart and lets me walk, and apart walking is lonelier and I have no idea yet whether it is truer. I am not going to claim it is truer because it is worse. Worse is not a reason. It is only a fact.”
+
+She got up and said the record standing.
+
+“Wrong thief, and he is not right. Four corners, none of them softened. Placed, and it holds.”
+
+Then she stayed standing and did the thing she had been not doing all morning, which was to look at what it had cost her to get here, and she said it out loud because she was not going to be the kind of person who got a good finding for free.
+
+“Nine years of warm anger is the warmest thing I have ever had and I have just found out it was not about a thief. I want that to be a relief and it is not a relief. It is a flat thing on a cold landing and I have to sit with the flatness for two days and throw nothing.”
+
+She said it and then she went and did it, which is what she had always been able to do and which had never once been the same as being all right.
+
+## Down With the Wrong End Showing
+
+She came down in the dark with her left hand on the stone, past the eleventh, past the tenth, past the ninth, saying each one where it was used, and she took longer over the ninth than over the rest because the placing had touched the ninth.
+
+The lamp was burning on the stone where she had left it and the light stopped six paces out from where it stood.
+
+She said the record out loud, sitting, in the ordinary voice.
+
+“Lamp on the third landing. Burning. A grievance nine years old set in its two true places. And a man who has told me he is not the thing and has not told me to stop being angry.”
+
+She put her hand flat on the stone beside her and left it there.
+
+The ceiling had no mouth and had never had one and would never have one.
+
+He was nine feet inside her own head and would be there when she woke up, and she had been aiming a nine-year anger at the wrong end of it for all of that time, and there was no version of the next day in which the anger went anywhere else.

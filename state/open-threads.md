@@ -3970,7 +3970,7 @@ read the repair.**
 ### What Volume 15 opens, and what a card must not assume has been settled
 
 1. **THE BUILDING HAS MORE ABOVE HER ROOM.** Nine landings and a stair that does not stop at nine. **The first
-   time in fifteen volumes anything has been above her.**
+   time in nineteen years anything has been above her.**
 2. **HER ROOM IS ONE OF HUNDREDS**, and every one of them has a kept place at the far side and nobody in it.
 3. **THE SCRIBE SPEAKS** — at ch 863, in the grammar of an announcement, one sentence at a time, and she hears
    both sides. **`outline/series.md` §7 milestone 8, spent once.**
@@ -4059,7 +4059,7 @@ nine years old with a lamp in her left hand and did not come back down.**
 | **The firsts** | one missed on purpose (2,804) | **2,834 named-and-counted across ch 859–860; 2,864 heard through him at ch 869 with nobody in the room** | open. She will be on the twelfth landing at second hours |
 | **The lamp** | in her hand, going up | **burning on the third landing since ch 856, tended, never carried higher; she climbs in the dark** | open. No oil figure may appear |
 | **The stair above** | nine landings, past nine, no top | **twelfth landing stood on; tenth doorless and warmer; sentences above eleventh** | open. No step count, height, top, or room count ever |
-| **What she wants** | wanted him not to die | **wants it for him (ch 870), said in the channel, ungettable back — first time in fifteen volumes** | open. The cost sits on her |
+| **What she wants** | wanted him not to die | **wants it for him (ch 870), said in the channel, ungettable back — first time in nine years** | open. The cost sits on her |
 | **His yes at ch 812** | stands, she does not know | **stands, she does not know, untouched and untold** | stands. Volume 15 does not tell her |
 | **The boy** | asked for a lamp once, unnamed | **off the page all fifteen; unnamed, unbound** | unnamed until ch 890. Batch 0003 does not name or bind him |
 | **The room below** | left as at ch 855 | **unchanged; runs without her on firsts** | untouched. She does not go back down |
@@ -4078,32 +4078,40 @@ nine years old with a lamp in her left hand and did not come back down.**
 
 ---
 
-## VOLUME 15 BATCH 0003 CLOSED at ch 885 — the threads this batch moved, opened, or closed
+## VOLUME 15 BATCH 0003 CLOSED at ch 885 — rebuilt at review 15 Oct 2026
 
-**Fifteen chapters, days 2,871–2,915, 23,979 words, one bracketed line at ch 876, midpoint ch 878, climax and irreversible step at ch 885. Recorded 15 Oct 2026 by the drafting phase.**
+**Fifteen chapters, days 2,871–2,915, 28,950 words, average 1,930, one bracketed line at ch 876, midpoint ch 878, climax and irreversible step at ch 885. Recorded by the drafting phase and re-recorded by the review repair, which rebuilt the chapters and moved no chapter, day, midpoint or climax.**
 
-| Thread | State at ch 870 | State at ch 885 | Owner in Batch 0004 |
+| Thread | State at ch 870 | State at ch 885, after the repair | Owner in Batch 0004 |
 | --- | --- | --- | --- |
-| **The tax** | unworked, head never checked | **worked out of her own arithmetic across eleven chapters: dateless head, first night, thinning at the rate of stronger; answered correctly once, unexplaining (ch 876)** | closed as found. The bargain's price belongs to Batch 0004 |
-| **The Anchor** | unnamed, unhinted | **NAMED standing at ch 878: the gathered will of every soul dead believing ascent; true and not the whole** | closed as named. Volume 16 may pay for it, never re-argue it |
-| **Who pays** | assumed one person six volumes | **a great many, none told (ch 880); his share the small part (ch 881), said to him (ch 882), no defense** | closed as placed. Wrong thief, and he is not right (ch 883) |
+| **The tax** | unworked, head never checked | **worked out of her own arithmetic: a rate and not a sum, a dateless head, a first night, less solid at the rate of stronger; answered correctly twice, unexplained; head worth three hundred and a half days** | closed. Volume 16 pays for it, never re-argues it |
+| **The checker** | did not exist | **NEW. She can put any figure she has ever kept in front of it and get the truth back, and it can discover nothing. Two things she can never put in: the four months (no unit) and a ceiling (no figure)** | carried. **Do not hand her a third use and do not let it explain or advise** |
+| **The Anchor** | unnamed, unhinted | **NAMED standing at ch 878: the gathered will of every soul dead believing ascent; true and not the whole. He tells her the layer has never used the word and that the word is hers** | closed as named |
+| **Who pays** | assumed one person for six years | **a great many, none told (ch 880); his share nine years against the ceiling's four hundred (ch 881), said to him and not defended (ch 882), wrong thief and he is not right (ch 883)** | closed as placed |
+| **The Fall** | did not exist | **NEW. ch 875. She went past the twelfth onto a landing she had never stood on, the tread gave, the open arm did not take her, and the small open place behind her fourth rib went from the size of a coin to the size of her thumbnail. Still that size at ch 884. His half did not stop when she went out** | carried, **not healed, not re-measured more than once, not re-explained** |
 | **Merit** | settled at ch 839, balancing ch 779 | **settled once at ch 884, off the ground the building stands on, never on a death, no figure, not for the page** | closed. No further settling in Volume 15 |
-| **The count** | underived, unsaid | **SAID OUT LOUD standing at the ninth hour where the ceiling-keeper reads (ch 885): six hundred and forty thousand; in the record, ungettable out** | stands. Whether a number can be argued with is Volume 16's |
-| **The firsts** | 2,834 named-and-counted; 2,864 heard through him | **2,894 heard through him at ch 879 with no person in the room; she does not go down** | open. 2,924 and 2,954 belong to Batch 0004 |
-| **The lamp** | burning on the third landing, tended, never higher | **unchanged; she climbs in the dark; no oil figure anywhere** | open. No oil figure may ever appear |
-| **The stair above** | twelfth stood on; tenth doorless; sentences above eleventh | **unchanged; worked on daily; no step count, height, top, or room count ever** | open. The top and the making-place belong to Batch 0004 |
-| **His yes at ch 812** | stands, she does not know | **stands, she does not know, untouched and untold** | stands. Volume 15 does not tell her |
+| **The count** | underived, unsaid | **SAID OUT LOUD standing at the ninth hour where the ceiling-keeper reads (ch 885): six hundred and forty thousand; in the record, ungettable out. Held four days first and spent three hours on a cold floor holding it** | stands. **Batch 0004 does not re-say it and does not do the subtraction again** |
+| **What he wants** | never asked in nineteen years | **asked at nothing; he offered one true thing about it at ch 882 and she did not answer, and at ch 884 he asked her one human question and got the wrong one right afterward** | **ch 900 asks it. The prompt now requires the not-answering to read as a man declining** |
+| **The firsts** | 2,834 named-and-counted; 2,864 heard through him | **2,894 heard through him at ch 879 with no person in it; she does not go down** | open. 2,924 and 2,954 belong to Batch 0004 |
+| **The lamp** | burning on the third landing, tended, never higher | **unchanged; left on the twenty-third of the month beginning two thousand eight hundred and four and still there; she climbs in the dark; no oil figure anywhere** | open. **No oil figure may ever appear** |
+| **The stair above** | twelfth stood on; tenth doorless; sentences above the eleventh | **a thirteenth landing found at ch 875 and fell on; still no step count, no height, no top, no room count** | open. The top and the making-place are Batch 0004's |
+| **His name for her** | he had never used it | **NEW. He says it at ch 873, twice, after nine years of never having said it. She has said his out loud three times** | carried. **It is not to be made a moment again inside Batch 0004** |
+| **His ch 812 yes** | stands, she does not know | **stands, she does not know, untouched and untold** | stands. Volume 15 does not tell her |
 | **The boy** | off the page all fifteen; unnamed, unbound | **off the page all fifteen; unnamed, unbound** | Batch 0004 names him at ch 890 and binds him at ch 894 |
 | **The room below** | runs without her on firsts | **unchanged; runs without her; she does not go back down** | untouched. She does not return in this volume |
 | **Finding day / wear gap / hands** | open, carried | **carried, none spoken, none resolved** | still open. No card settles them |
 
 ### What Batch 0003 did to the batch, in one paragraph
 
-**She worked the tax out of her own arithmetic across eleven mornings, named four months silent fifteen volumes, found herself thinning at the rate of stronger, worked walking, got one figure answered correctly with no reason, found the ceiling a mercy and also a ceiling, named the Anchor standing, missed a first above the room that ran without her, found a great many paying none told, measured his share small and said it to him without defense, placed the anger at the wrong thief without making him right, sat two days until merit settled off the ground, and said six hundred and forty thousand dead believing at the ninth hour where it can be read.**
+**She worked the tax out of her own arithmetic across fifteen mornings, named four months silent for nine years, found herself less solid at the rate she grows stronger on the evidence of a chip of stair, worked out loud walking for the first time in her life and fell on a landing she had never stood on, got two figures answered correctly by a keeping that explains nothing and learned that she can check anything she has written down and discover nothing, found a lid and a mercy and named the Anchor standing, heard the room run without her through him and found out he was giving her something nobody had asked him for, found that a great many pay and none were told and that his share is nine years against four hundred, said it to him and was told he had wanted it not told and not small, placed nine years of anger on the wrong thief and could not throw it, sat two days and had merit settle off the ground, and said six hundred and forty thousand at the ninth hour in the place where the sentences go.**
 
-### Four things Batch 0004 must not inherit as clean prose
+### Eight things Batch 0004 must not inherit as clean prose
 
 1. **That the Scribe is forgiven or condemned.** Neither. It is right about the Anchor and the book does not adjudicate.
 2. **That she has forgiven Yuan.** She has not. Small does not make right, and this was not forgiveness's turn.
 3. **That his share of the tax has been set to nothing.** It is small, not nothing. Both halves stand.
-4. **That the bargain has been stated, or its terms, or its price.** None is on the page. The count at ch 885 is a number, not a term. That the peak has been taken or mentioned. That the boy's name is known. That the light has a figure for it.
+4. **That the bargain has been stated, or its terms, or its price.** None is on the page. The count at ch 885 is a number, not a term.
+5. **That the peak has been taken or mentioned.**
+6. **That the boy's name is known.**
+7. **That the light has a figure for it.**
+8. **That the repair's prose habits are the house style.** The templates are gone on purpose: `She said` does not open a paragraph in one chapter in six, `And here is the whole of what…` and `said plain` and `that was the day` are zero, and **no two chapter endings share a shape.** Batch 0004 does not put any of them back.

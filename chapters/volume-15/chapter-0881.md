@@ -1,87 +1,165 @@
 # The Small Share
 
-One hundred and sixty-eight days since the ninth stage. Five hundred and ninety-nine days in that room. The cage out three hundred and sixty-six days. Right arm open six hundred and six days and it is not going to close. One thousand three hundred and forty-one of the days gone at this morning and not one coming back.
+She went up with the question made up, because she had learned in a month of it that a question she assembles on the stair arrives in better order than one she waits for.
 
-There was a lamp burning on the stone of the third landing above a room that was not a room, and there was a woman sitting beside it who had found a great many paying, and there was one share among them she had called his for fifteen volumes, and she was going up to measure it.
+The question was this: how much of the thinning was his.
 
-## How Much Was His
+She said the day's figures on the fourth landing because she was going to need them on the twelfth and it was cheaper to say them once.
 
-She said it out loud, sitting, in the ordinary voice, at about the sixth hour of the seventh of the month, before she did anything else about it.
+“One hundred and sixty-eight days since the ninth stage. Five hundred and ninety-nine days in that room. The cage out three hundred and sixty-six. This arm open six hundred and six days. One thousand three hundred and forty-one gone at this morning.”
 
-She said, “Figures first and the reason after. One hundred and sixty-eight days since the ninth. Five hundred and ninety-nine in that room. Three hundred and sixty-six since a lamp in a cage went out. Six hundred and six with this arm open and it is not going to close. One thousand three hundred and forty-one of the days gone and not one coming back.”
+## She Tries To Get a Figure
 
-She said, “And here is the reason. Yesterday the payers turned out to be a great many, and all night the many sat beside the lamp with me. This morning I am going to work out how much of my thinning was his, because he is on the other half of a conversation I can hear, and I have called the taking his for fifteen volumes, and the calling needs a number.”
+She got to the twelfth and sat down and tried for the best part of a count of a hundred to put a number on it, and could not, and said so out loud, which took about nine seconds and cost her a morning.
 
-She said, “It is dread, and it is specific, and it is the first specific dread on this stair.”
+“There is no figure. I cannot get one and I am not going to invent one, because the only figures I have are mine and the taking out of me is not the same size as the taking out of a ceiling.”
 
-She said, “Not horror, which I had yesterday and know its shape. Dread of finding the number smaller than the anger, because anger that outruns its number has nowhere to go.”
+She put her hand out flat on the stone.
 
-She said, “And what I want is his share, exact. I can carry exact.”
+“If I take my own number and divide it by the number of tenders in the building I have neither of those, because I have never counted the tender and I am not going to start.”
 
-She left the lamp burning on the third landing and went up past it in the dark with nothing in either hand, with her left hand on the stone, saying the landings where they were used, fourth through eleventh, because the dread needed every one of them under it.
+She sat there with the failure of it for a while.
 
-## The Measuring
+“All I have is the order, and the order is this. He has been taking out of me for nine years. The ceiling has been taking for four hundred. Four hundred against nine.”
 
-She stood on the twelfth landing in the dark with nothing in either hand, and the sentences went on, one at a time, plain, reporting, through her to him, and his half went on inside her where she could hear it, and she put the two takings against each other the way she used to put two columns against each other, slow, twice over.
+She said it twice.
 
-She said, out loud, standing, in the ordinary voice, “Here is the measuring, from my own arithmetic. One thousand three hundred and forty-one gone, with four months gone in one night to start it and ten days at the head of every span. Of that, what settled into him instead of going up is a small part. The rest went into the ceiling, into the Anchor, into the holding.”
+“That is not a ratio. It is the shape of the thing and it is enough.”
 
-She stood there for about a count of a hundred and forty with that in her, and then she said the rest.
+## What the Small Part Went Into
 
-She said, “And here is the whole of it, said plain. Fifteen volumes I was angry at him for the tax, and the tax is real, and his share of it is small. The layer took the great part for the ceiling. He took the small part for the growing, his growing and mine together. The number is smaller than I thought, and the smaller does not help.”
+“So the layer took the great part for the ceiling and into the Anchor and into the holding, and he took a small part, and the small part did not go anywhere dark.”
 
-She said, “Smaller does not mean nothing. It means small. A small taking without telling is still without telling. But fifteen volumes of anger aimed at the small taker missed the great taker entirely, and the missing is on me.”
+She said the rest of it standing, because it was a finding and findings were lines.
+
+“His share settled into him. And into me. Growing, for growing, on both sides, for nine years. I grew by work and he grew by what came out of my work, and neither of those was free, and both of them were real.”
+
+She put her hand on the wall of that landing.
+
+“I have called that theft for nine years. Theft needs a thief, a thing taken, and something kept back. The taken is real. The keeping back is real. The thief I have been naming took the small part and told me nothing about it, and the great part went into a wall that has been there for four hundred years and that I did not know was a wall.”
+
+## What Smaller Does
+
+She sat down again, and the cold came up through the floor into her arm and she let it come this time.
+
+“Here is what smaller does and it is not what I expected. It does not cool the anger.”
+
+She said it carefully, because she had come up here expecting one of two things and had got the other.
+
+“Being angry at him was warm. It was the warmest thing in my head every day for nine years, it was near, it was daily, it was the way a lamp is near a person who is sitting beside it. And I have just found out that the lamp was not warming me. I have just found out that the warmth was mine and the lamp was nine years old and four hundred years small.”
+
+She put her hand flat on the stone and left it there.
+
+“Cold anger is worse. I am saying that out loud because it would be dishonest not to and because I have been honest on this stair for a month now and there is no reason to stop being honest now that it has gone against me.”
+
+“I will put it in a column when it stops being warm.”
+
+He did not answer that.
+
+## What She Cannot Do With It
+
+She sat on the cold stone of the twelfth landing with her back against the wall and did the arithmetic of the thing she could not do, which was the only arithmetic left.
+
+“There is no column for it. That is what a small share is. A small share has nowhere to go and everything I have ever used to put things down in is a column, and I have been sitting here for nine years using one, and there is nothing to put this in.”
+
+She set her palm against the stone.
+
+“I cannot put it against the room. The room has been there longer than I have and the room is not what took it.”
+
+She lifted the hand.
+
+“I cannot put it against the wall. The wall has a name now and I said the name standing on this stair yesterday and it did not move.”
+
+She put the hand down again.
+
+“And I cannot put it against him, because he has just agreed with me, and there is no dispute left to have, and a grievance with no dispute in it is not a grievance. It is a habit with a figure in it.”
+
+She said the next part slowly.
+
+“Nine years of being warm at him and I have found out that there is nothing on the other side of it. Not because he is good. Because the shape I had was never the shape of the thing.”
+
+## Grief
+
+“Grief,” she said. “Next to the anger and not moving it.”
+
+She did not try to put that one in order and it came out badly, which she had expected.
+
+“I fed him out of foundation for nine years and called it theft, and it was keeping, his and mine, and it was kept, and I never marked it as kept once, because there was nothing in me that was soft enough to notice a thing being kept.”
+
+She looked at her own hand in the dark.
+
+“I did notice. I am noticing now. It is nine years late and it is not a good trade and I am not going to describe it as one.”
+
+## The Hard Name
+
+She stood up and said the last of it standing, because that was the part with a shape.
+
+“Theft is the name I gave it. I am not taking it back. I am taking it apart, and here is how it comes apart.”
+
+She held her hand out in the dark with three fingers and a thumb on it.
+
+“Thief is a word for a person. What I have found is that there is a great taker and it is not a person, and a small taker and he is one, and I have spent nine years aiming the whole of my anger at the small one because the small one had a face I could say a name to.”
+
+She let the hand fall.
+
+“Hard names need persons. That is why the hard name held so long. It is not going to be wrong exactly, but it is going to be small and pointed at the wrong place, and the wrong place has been getting warmer for nine years while the right place has no mouth at all.”
 
 He said, “I take it.”
 
-She said, “You did. And saying so finishes nothing, and I am saying so out loud. It is one share measured, and the taking goes on.”
+She waited for him to finish.
 
-## Smaller and No Help
+“You have said that before.”
 
-She sat down on the stone of the twelfth landing with her back against the wall, because the smallness needed sitting, and she said the rest sitting, in the ordinary voice.
+“I have said it before. I am saying it again because it is still true and because you have spent nine years not believing me and there is not going to be a morning when believing me is convenient.”
 
-She said, “Here is what smaller does, said plain. It does not cool the anger. It moves it. Anger at him for fifteen volumes was warm, near, daily, the way a lamp is near. Finding his share small puts the anger out in the cold, at a ceiling, at a keeping four hundred years old, at no person I can speak to. Cold anger is worse, and I am saying so out loud because it would be dishonest not to.”
+She stood on the twelfth landing in the dark and had nothing to put back.
 
-She said, “And grief next to the anger, and neither moves the other. Grief that I fed him out of foundation for fifteen volumes and called it theft, and it was keeping, his and mine, and the keeping was real, and I never once marked the keeping as kept because there was no softness in me.”
+“All right,” she said. “Then here is the whole of it. Nine years ago I decided the taking was his because deciding that was warmer than asking, and I have never once had cause to regret it until the last four days, and I am not going to have cause to regret it twice.”
 
-She caught the last thought before it ran, because there is one word she does not spend in this building, and she put another in its place.
+## The Thing Under the Name
 
-She said, “And here is the part that stays, said plain. His share small, the ceiling great, both untold, both on me. Tomorrow the small share gets said to him, because a measured figure kept silent is a second untold, and I have had enough of untold.”
+She went at it from the other side, standing, because she was not going to let a word do nine years of work on its own.
 
-She got up and stood with nothing in either hand, and she said it standing, because the measuring was standing work.
+“Untold made keeping read as theft.”
 
-She said, “His share small. That is measured, and it holds.”
+She said it and then said it again in the ordinary voice, standing, because it was the whole of what she had got and she wanted to hear whether it was true when it came out of her a second time.
 
-## The Growing Beside the Taking
+“That is the actual finding. Not that he took small. That he took small and told me nothing, and a small taking told to no one reads as a theft in nine years or in ninety.”
 
-She stayed on the twelfth landing after the measuring was kept, standing with nothing in either hand, because the growing wanted setting beside the taking, and she set it standing.
+She put the flat of her hand against the wall.
 
-She said, out loud, standing, in the ordinary voice, “Here is the growing, said plain. His small share did not vanish into dark. It settled into him and into me together, growing for growing. Fifteen volumes he grew by proxy, and I grew by work, and neither growth was free, and both growths were real. Small taking, true growing, both his, both mine.”
+“If he had told me on the first day, there would have been no word for any of this. There would have been a taking, and a reason, and two people who had agreed about it, and I would have been angry about the taking, which is a thing you can be angry about and put down.”
 
-She said, “And here is the whole of what beside means, said plain. The ceiling took the great part for the holding. He took the small part for the growing. I called the growing theft because the taking was untold. Told, the growing reads as keeping, his and mine, bought, paid, carried. Untold made keeping read as theft. The untold is the thief, not he.”
+She let that stand.
 
-She said, “And tenderness, sudden, unwelcome, and I am naming it because it is the first tenderness after cold anger, and it is small, and I am not going to hide it. Fifteen volumes fed by him and feeding him, and the feeding was real, and I called it by a hard name, and the hard name held fifteen volumes, and tonight it thins.”
+“Untold is the thief. He is the man who did not tell me. That is a smaller charge than the one I have been carrying and it is the only one the arithmetic will hold up.”
 
-He said, “I grow with you.”
+## Down With the Anger Cold
 
-She said, “You did. And growing finishes nothing, and I am saying so out loud. It is one growing set, and the taking goes on.”
+She came down in the dark with her left hand on the stone, past the eleventh, past the tenth, past the ninth, saying each one where it was used, and she took longer over the fourth than over the rest, because the smallness was still in her.
 
-## The Hard Name Thinning
+The lamp was on the stone where she had left it and the light reached six paces out from where it stood and stopped there.
 
-She stayed standing after the growing was set, with nothing in either hand, because the hard name wanted saying, and she said it standing.
+She set the day down in words, sitting, in the ordinary voice.
 
-She said, out loud, standing, in the ordinary voice, “Here is the hard name, said plain. Theft. I called fifteen volumes theft. Theft needs a thief and a taken and a keeping back. The taken is real. The keeping back is real. The thief I named took small and told nothing. The great taker told nothing and is no person. Hard names need persons. Tonight the hard name thins.”
+“Lamp on the third landing. Burning. His share nine years. The ceiling’s share four hundred. The great part went into the holding and the small part went into the growing and I called it theft and it was not the whole of what I was angry about.”
 
-She said, “And here is the whole of what thinning names means, said plain. Thinned names do not vanish. Theft thins to untold taking. Untold taking still takes. Tomorrow the thinned name gets said to him, because thinned said is truer than hard silent.”
+She stayed where she was a long time with that, and then she said one more thing out loud, sitting, with the lamp six paces off and the stone cold under her hand.
 
-## Down With the Small
+“I am not going to go and tell him this.”
 
-She came down in the dark with her left hand on the stone, past the eleventh, past the tenth with no doorway, past the ninth, saying each one where it was used, and she took longer over the fourth than the rest, because the smallness was still in her.
+He said, “No.”
 
-She sat beside the lamp, and the light went six paces out from where it stood and stopped, and she stayed inside the reach of it until her breath went four counts sitting still.
+“No. Because he has known it since I found it and has not once put it in front of me as a way of being let off, and a man who lets you do your own arithmetic and does not stand in the road is not a thing I am going to reward with a speech.”
 
-She said, out loud, sitting, in the ordinary voice, “Lamp on the third landing. Burning. Mine. A share measured smaller than anger. That is the record and there is nothing else in it.”
+She put her head back against the wall.
 
-There was a lamp burning on the stone of the third landing, and a small share found where a great theft was assumed, and a woman sitting beside the light with cold anger and grief both in her.
+“Tomorrow I say the figure to him. Not the finding. The figure. Nine years against four hundred, out loud, standing, in the ordinary voice, said first in my own voice before it is anything else.”
 
-And the number was smaller than thought and it did not help, and that was the day, and tomorrow it would be said to him whether the saying helped or not.
+He said, “Say it standing.”
+
+“I always say it standing.”
+
+“You always say it standing,” he said, “and that is not the same as saying it at me.”
+
+The anger was still there and it was still real and it had nowhere to go at all. There was no mouth four hundred years up and no room to stand in front of and there was only the lamp and the stone and a man inside her head who had just agreed with her for the ninth time in nine years and had not enjoyed any of it.
