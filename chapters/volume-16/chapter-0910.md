@@ -77,7 +77,7 @@ He waited.
 
 “You would have been in the room with me,” she said.
 
-“I would have been in the room with you,” he said, “the way I am in every room, including this one, including the ones you cannot get out of. I said it on the twentieth of the month beginning two thousand nine hundred and fifty-four and you held it and you have been holding it for thirteen days and it has not once come out of you.”
+“I would have been in the room with you,” he said, “the way I am in every room, including this one, including the ones you cannot get out of. I said it on the twentieth of the month beginning two thousand nine hundred and fifty-four and you held it and you have been holding it for eleven days and it has not once come out of you.”
 
 “I know.”
 
@@ -131,7 +131,7 @@ Then she stood up and said it out loud, standing, in the ordinary voice, into th
 
 “That is what the third term says.”
 
-“Yes,” she said. “I read it standing on the twentieth of the month beginning two thousand nine hundred and fifty-four, standing in the ordinary voice, before it was a line anywhere, and I have been carrying it for thirteen days as a thing I believed. And this morning it did not have to be believed. It arrived.”
+“Yes,” she said. “I read it standing on the twentieth of the month beginning two thousand nine hundred and fifty-four, standing in the ordinary voice, before it was a line anywhere, and I have been carrying it for eleven days as a thing I believed. And this morning it did not have to be believed. It arrived.”
 
 She put her hands flat on the stone.
 

@@ -12,7 +12,7 @@ He did not answer.
 
 “I have given you the other side of it.”
 
-“You have given me a word,” she said. “You have given me as long as it takes to be useful. That is not a figure. That is a rule with no number in it, and I have been standing in this room for thirteen days trying to turn a rule with no number in it into a number, and I am not able to do it, and that has never once happened to me.”
+“You have given me a word,” she said. “You have given me as long as it takes to be useful. That is not a figure. That is a rule with no number in it, and I have been standing in this room trying to turn a rule with no number in it into a number, and I am not able to do it, and that has never once happened to me.”
 
 ## The Arithmetic She Could Not Do
 
@@ -56,7 +56,7 @@ He was quiet for a count of a hundred.
 
 “Which is.”
 
-“I want you to stop turning it,” he said. “You have been standing in this room for thirteen days trying to get a number out of a machine that does not keep numbers, and every morning you have come back to it and every morning it has not had one, and you are going to keep coming back to it until something in you breaks or something in me gives, and I would rather you had it plainly today than worked it out of me over the next month.”
+“I want you to stop turning it,” he said. “You have been standing in this room trying to get a number out of a machine that does not keep numbers, and every morning you have come back to it and every morning it has not had one, and you are going to keep coming back to it until something in you breaks or something in me gives, and I would rather you had it plainly today than worked it out of me over the next month.”
 
 She stood at the near end of the table with her hands flat on the wood.
 
@@ -66,7 +66,7 @@ She stood at the near end of the table with her hands flat on the wood.
 
 “Why now.”
 
-“Because on the seventh of this month you watched me be the happiest you have ever heard anybody be for four minutes without speaking,” he said, “and thirteen days ago you stood up at that table and used the one rule in this room on me, and both of those were you putting something down for me. I have noticed both of them and I have not said one word about either and I am saying one word about this one now.”
+“Because on the seventh of the month beginning two thousand nine hundred and eighty-four you watched me be the happiest you have ever heard anybody be for four minutes without speaking,” he said, “and fifteen days ago you stood up at that table and used the one rule in this room on me, and both of those were you putting something down for me. I have noticed both of them and I have not said one word about either and I am saying one word about this one now.”
 
 ## Her Own Length
 

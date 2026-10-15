@@ -62,7 +62,7 @@ He Yu said, “Then my name goes in and not just the number.”
 
 “No,” Ning Yan said. “Your name goes in first.”
 
-## Said First
+## Hers To Say
 
 That was the whole of what was left and it took her about a count of forty to work out why she had said it.
 
@@ -94,7 +94,7 @@ He Yu stood in the rain for about a count of a hundred.
 
 “I am saying yes.”
 
-## The Line
+## Where There Was No Light
 
 Ning Yan said it standing, in the ordinary voice, at the end of a road, in front of Guo Sheng and about nine other people, and there was no light on it and nothing came back and nothing ever does.
 
@@ -102,7 +102,7 @@ Ning Yan said it standing, in the ordinary voice, at the end of a road, in front
 
 Four hundred.
 
-## What She Said Next
+## The Figure She Does Not Have
 
 And then, because there was nowhere else to put it and she had been carrying it for a day on a road in the rain, she said the other thing, out loud, standing, in the ordinary voice, in the plainest words she had.
 

@@ -76,7 +76,7 @@ There was no turn in it. There was no new cut anywhere. Three days and the stone
 
 “There is nothing on the table,” he said, “because the table is not where it goes. The table is where it was written so that a woman would come up and find it. I do not know where it has gone. I have no hands and I cannot go and look and there is nothing on the page here to tell me.”
 
-She stood with her thumb on a cut that had been in that stone for four hundred years and had outlived everything she had done in the last four days without changing.
+She stood with her thumb on a cut that had been in that stone for four hundred years and had outlived everything she had done in the last three days without changing.
 
 “Three days,” she said.
 
@@ -119,7 +119,7 @@ He was quiet for a count of forty.
 She stood at the near end of the table and did not move for a long time.
 Not for the figures, which would have been a relief and were not available. Not for the arithmetic, which had never once got her through anything in nineteen years.
 
-She stood there because a man had told her at about the second hour on the seventh of this month that he was the happiest she had ever heard anybody be, and she had watched him be it for four minutes without speaking, and it was still in her, and it had not got any smaller in four days, and there was no way to set it down.
+She stood there because a man had told her at about the second hour on the seventh of this month that he was the happiest she had ever heard anybody be, and she had watched him be it for four minutes without speaking, and it was still in her, and it had not got any smaller in three days, and there was no way to set it down.
 
 “Do not do that,” he said.
 

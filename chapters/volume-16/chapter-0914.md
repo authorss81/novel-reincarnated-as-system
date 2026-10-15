@@ -47,7 +47,7 @@ She took the lamp.
 
 That was the whole of what she took off that table, and she stood in the doorway for a count of a hundred with the lamp in her right hand and the open arm hanging against her side and looked at the room behind her.
 
-No lamp over the table. No wear in it. A place at the far side with nothing worn at all, not a mark, not a hollow, not a place where a person had ever put a forearm down or shifted in a chair or waited. Four hundred years of a table at the top of a tower with nothing worn in it anywhere on it, and thirteen days of her standing at the near end of it, and not one mark.
+No lamp over the table. No wear in it. A place at the far side with nothing worn at all, not a mark, not a hollow, not a place where a person had ever put a forearm down or shifted in a chair or waited. Four hundred years of a table at the top of a tower with nothing worn in it anywhere on it, and sixty-three days of her standing at the near end of it, and not one mark.
 
 She had not put one there either. That was the finding and she had expected it to be something else.
 

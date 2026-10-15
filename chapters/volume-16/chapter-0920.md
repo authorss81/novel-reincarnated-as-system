@@ -82,7 +82,7 @@ He was quiet for a count of a hundred.
 
 He was quiet for a count of a hundred.
 
-“Because you put a rule on me yesterday, standing, in the ordinary voice, and it is in the record in your mouth about me, and because a thing that is in the record once can be put in again, and if I go on being the man who does not know, then before long you are going to stand up at that table and use that rule on me a second time, and the second time it will not be a question.”
+“Because you put a rule on me two days ago, standing, in the ordinary voice, and it is in the record in your mouth about me, and because a thing that is in the record once can be put in again, and if I go on being the man who does not know, then before long you are going to stand up at that table and use that rule on me a second time, and the second time it will not be a question.”
 
 “You would rather have the true no answer in the record than the true not-knowing.”
 
