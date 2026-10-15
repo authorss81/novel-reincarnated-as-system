@@ -1,8 +1,8 @@
 # Her Brother And The Work
 
-He came up the lane with a barrow and a length of timber on his shoulder at about the fourth hour of the afternoon on the seventeenth of a month, and Ning Yan was in the yard and she knew him in about a count of forty and did not go any faster for it.
+She knew him in about a count of forty and she did not go any faster for it.
 
-He was older. That was the first thing and it was the only thing she was ever going to be able to put in a column, and there is no column in it.
+He was up the lane with a barrow and a length of timber on his shoulder and the light was off the top of the far wall. He was older. That was the first thing and it was the only thing she was ever going to be able to put in a column, and there is no column in it.
 
 He had not been in the yard in about fifteen years and the lane had not been a lane when he last came up it.
 
@@ -44,7 +44,7 @@ She stood at the west end of a yard and worked out, standing, in the ordinary vo
 
 A boy of about seventeen in the yard called him uncle.
 
-It was a mistake. Ning Wu had never been anybody’s uncle in his life and he had a brother in the yard and no children and he had been in the ground once.
+It was a mistake. Ning Wu had never been anybody’s uncle in his life and he had a brother in the yard and no children, and at thirteen he had been taken off a furnace crew by a signature no hand at the furnace had ever put to.
 
 The boy said, “Sorry. I did not know.”
 
@@ -62,7 +62,7 @@ He had not said that he had let it go either. That was the thing she could stand
 
 She had it ready at about the seventh hour and she had had it ready for about fifteen years, and she worked out standing, in the ordinary voice, at the west end of the yard, that it was not a question about the gate and not a question about the wall and not a question about the boy who had called him uncle.
 
-It was about the fifth of a month beginning three thousand one hundred and seventy-four, when she was the only one who knew what she was, and a man with a wet thumb had written it down because it was his day to write it down, and her brother had been moved up out of the furnace crew before he was in the ground and had told her so on the tenth day of a month in a lane in the open with no wall on either side of it and had asked her for nothing.
+It was the winter she was seventeen, when she was the only one who knew what she was, and a man with a wet thumb had written it down because it was his day to write it down, and her brother had been moved up out of a furnace crew above the authority of the furnace, and had told her so on the tenth day of a month in a lane in the open with no wall on either side of it and had asked her for nothing.
 
 She had the sentence. She had had it ready since she was about twenty-two years old and it had got no worse in twelve years of carrying it.
 

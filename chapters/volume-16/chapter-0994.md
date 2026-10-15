@@ -4,7 +4,9 @@ There were people in the yard above Lowwater when she came back to it, and they 
 
 That was the first thing and it took her about a count of six hundred to stand in a lane with a lamp in her left hand and work out that it was true.
 
-There was a boy of about ten on an upturned bucket with a slate on his knee copying a line of writing very slowly with a stick in the wet. There were two men at the far wall doing something to a length of timber. A woman of about forty was beating a mat and two girls were carrying water in and out of the east side of it and going out by the west side without any arrangement about it, because they had been doing it long enough not to need one.
+There was a boy of about ten on an upturned bucket with a slate on his knee copying a line of writing very slowly with a stick in the wet. There were two men at the far wall doing something to a length of timber.
+
+A woman of about forty was beating a mat and two girls were carrying water in and out of the east side of it and going out by the west side without any arrangement about it, because they had been doing it long enough not to need one.
 
 Not one of them looked up when she came up the lane. Not one of them stopped.
 
@@ -42,17 +44,17 @@ She asked the woman of about nineteen who had told her about the light at the we
 
 “The old woman with the slate,” said the woman. “About four years back. She was here first.”
 
-She asked the old woman with the slate, who was nineteen years old and who had a piece of chalk she was still using.
+She asked the old woman with the slate, who was about sixteen years old and who had a piece of chalk she was still using.
 
 “A woman on a road in the third county,” the old woman said. “She said it three and a half times and she got it wrong the way I got it wrong, and I stayed about nine days and taught it to anybody who stood still.”
 
-She asked the woman on the road in the third county, by walking to her, which took five days.
+She asked the woman on the road in the third county, by walking to her, which took her two days and most of one night.
 
 “I was in her yard for a week,” the woman said. “She stood in it and she said a true thing out loud every morning at the ninth hour and I watched her do it for seven days and then I thought, somebody could do that here.”
 
 And then Ning Yan asked the last question, standing, in the ordinary voice, in a yard above Lowwater on the fourth day, and it was the only question in four days that she had not already known the answer to.
 
-“When you said *somebody could do that here*, who did you have in mind.”
+“When you said that somebody could do that here, who did you have in mind.”
 
 The woman thought about it.
 

@@ -12,7 +12,7 @@ She could not give that answer here.
 
 There were about nine people in a yard above Lowwater who had walked or been carried there, and two of them could stand in front of another person and say a true thing out loud for four or five minutes, and a woman was in the eighth county trying to make a third, and a boy of about ten was copying a hand that had been dead longer than he had been alive, and there was a rule about the fourth hour because of the light.
 
-She was the only one in nine counties who was answerable for any of it and the yard knew it and had known it for about two years and had stopped asking.
+She was the only one in nine counties who was answerable for any of it and the yard knew it and had known it for about four years and had stopped asking.
 
 ## What She Found Out Standing There
 
@@ -26,9 +26,9 @@ And there is not one person alive she is able to ask what she is for, and there 
 
 She came to the end of it standing in a yard in the afternoon with a timber lying across the beaten earth where it had come out of the top of the far wall an hour before, and about nine people standing four paces off her, and she said the last of it.
 
-“I have been putting a question into the air at the ninth hour every morning for eleven years,” she said, “and there is not one person in the world who has heard it, and there never was, and I did not find that out this afternoon. I found out that I had already found out.
+“I have been putting a question into the air at the ninth hour every morning for close on twelve years,” she said, “and there is not one person in the world who has heard it, and there never was, and I did not find that out this afternoon. I found out that I had already found out.
 
-“There is not one person to tell me what to do and there has not been one since I was ten years old. And I have gone on standing in the middle of a yard waiting to be told, and the waiting has got its own shape now and I have been inside it for about four hundred days, and it looks exactly like teaching.”
+“There is not one person to tell me what to do and there has not been one since I was ten years old. And I have gone on standing in the middle of a yard waiting to be told, and I have been inside that for about four hundred days, and it looks exactly like teaching.”
 
 ## The Timber In The Yard
 
@@ -64,7 +64,9 @@ The girl said, “What are you for.”
 
 And then she did the thing she had just said she was going to do, standing, in the ordinary voice, in front of about nine people, at about the fifth hour, and it turned out to be a completely different thing from anything she had said out loud in nineteen years.
 
-She told them what they were doing that afternoon. Two women were going to dig out the east drain. The boy on the bucket was going to finish the line and then start another one and she did not tell him whose it was. A man of about forty was to go and find out whether the lane to the third county was passable, and if it was not passable he was to come back and not try it, which was the only instruction in the whole of it that she cared about.
+She told them what they were doing that afternoon. Two women were going to dig out the east drain. The boy on the bucket was going to finish the line and then start another one and she did not tell him whose it was.
+
+A man of about forty was to go and find out whether the lane to the third county was passable, and if it was not passable he was to come back and not try it, which was the only instruction in the whole of it that she cared about.
 
 That took about four minutes and about nine people did not leave.
 

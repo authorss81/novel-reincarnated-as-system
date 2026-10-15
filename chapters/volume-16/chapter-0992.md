@@ -68,7 +68,9 @@ And then she sat down on the verge of the road with her right arm across her kne
 
 There was not one person in the world who had ever taught her a thing.
 
-She had been taught the four-count breath by a woman in a furnace yard who had taught about forty children and had not time for any of them, and the breath had stuck. She had been taught the run of figures by a wall that wrote them down at the ninth hour every morning and had never once asked her whether she had understood them, and the run had stuck. Everything she had ever learned had come to her as a thing that was happening to her while somebody else was busy.
+She had been taught the four-count breath by a woman in a furnace yard who had taught about forty children and had not time for any of them, and the breath had stuck. She had been taught the run of figures by a wall that wrote them down at the ninth hour every morning and had never once asked her whether she had understood them, and the run had stuck.
+
+Everything she had ever learned had come to her as a thing that was happening to her while somebody else was busy.
 
 And she had spent nineteen years being the one who stood in front of people and saying a true thing out loud, and she had never once been on the other side of it, and she had no idea what the other side was like, and she had just failed at it four times in front of nine children.
 
@@ -106,7 +108,7 @@ She did it again at the fourth hour of the next day, in a yard, in front of abou
 
 The girl was still not right. She went back to saying it fast in the middle of it, and she said the no part at the end instead of the front the second time, and two of the fourteen looked at Ning Yan when she got it wrong, which was the right thing for them to do and the wrong thing for the girl to cause.
 
-But she stood there for eleven minutes and she let two people say no, and she wrote both of the noes down on the slate in her own hand with a line under the names, upside down, the way the girl of about nine had once done at a rim with a piece of chalk.
+But she stood there for twelve minutes and she let two people say no, and she wrote both of the noes down on the slate in her own hand with a line under the names, upside down, the way the girl of about nine had once done at a rim with a piece of chalk.
 
 And when it was finished the girl turned round and said, “How was that.”
 

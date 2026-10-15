@@ -14,15 +14,15 @@ She said the figures out loud at about the ninth hour, standing, in the ordinary
 
 “Seven thousand five hundred and six days with this arm open at the elbow. Three fingers and a thumb. Seven of the holds gone.
 
-“And there is no sixth figure and there has not been one for seventeen years, and I am not going to stand here on the last morning of what I have got and invent one.”
+“And there is no sixth figure and there has not been one for eighteen years, and I am not going to stand in the middle of this ring this morning and invent one.”
 
 ## The Book Of Eight Leaves
 
-The book came out against her fourth rib where it has been since she was six years old, and a boy of about ten put his hand out flat for it before she had got it open, because he has been allowed to take it out of the frame since he was eight.
+The book came out against her fourth rib where it has been for nineteen years, and a boy of about ten put his hand out flat for it before she had got it open, because he has been allowed to take it out of the frame since he was eight.
 
 He opened it at the front, which he always does, and copied the third line of the first leaf into a slate with a piece of chalk, and then he began to write it out again underneath in his own hand, badly, with the letters leaning the wrong way.
 
-It is the first thing anybody reads in this yard. Not the accounts, not the figures, not anything she says at the ninth hour. The first line anybody comes to is the first line in it, and the hand on it is the last clear hand of a man who had been dead for years by the time she met him and who wrote down what he had seen in a place with a Lung in his chest so that it could get her through a wall.
+It is the first thing anybody reads in this yard. Not the accounts, not the figures, not anything she says at the ninth hour. The first line anybody comes to is the first line in it, and the hand on it is the last clear hand in the world, and the man who wrote it believed her before anybody in nine counties did and died a long way from here having written down what he had seen at cost to himself, and he was not here for any of it.
 
 She has never said that to anybody. She said it now, standing, in the ordinary voice, in the middle of the ring of stones, to about forty people, and what she said was: “That is the clearest hand anybody in this yard will ever see and he never came here, and if you are going to learn to write then learn it off that leaf and not off anything else.”
 
@@ -36,7 +36,7 @@ That is the whole of what she did about it and it is the whole of what anybody d
 
 He got to the place about the seventh hour where a body stops being able to hold what it is holding, and she had been to the peak of a thing once and had been shut at the top of it, and she knew the shape of a person going at that place and she knew it from the outside the way you know the shape of a foot.
 
-He held it for about a count of two hundred. Then his knees went and two people caught him and sat him down on the wall with his boots off, and he put his face into his hands, and one of the two who had caught him said *all right* and one of them said nothing.
+He held it for about a count of two hundred. Then his knees went and two people caught him and sat him down on the wall with his boots off, and he put his face into his hands, and one of the two who had caught him said all right and one of them said nothing.
 
 Then he sat there for about an hour and a quarter and got up and did it again and it did not come again, and he sat down on the wall a second time and did not put his face in his hands that time.
 
@@ -44,7 +44,7 @@ There was not one person in that yard who said out loud what had just happened.
 
 There was not one person in nine counties who was going to say it out loud either. There was no office. There was no one to report to and nowhere to report and not one instrument left in the world that had ever held a record of a person, and about forty people had watched a young man not get past nine and every one of them had watched it the way they had watched a man drop a load and pick it up again.
 
-She said the thing out loud herself, at about the ninth hour, standing, in the ordinary voice, in the middle of the ring of stones, to about forty people, and she said it because she had decided on the seventeenth of a month beginning seven thousand one hundred and fifty-four that what she was for was telling them what was happening to them.
+She said the thing out loud herself, at about the ninth hour, standing, in the ordinary voice, in the middle of the ring of stones, to about forty people, and she said it because she had decided on the twenty-seventh of a month beginning seven thousand one hundred and fifty-four that what she was for was telling them what was happening to them.
 
 “He has not got it,” she said. “He will not get it this morning and he will not get it this year. That is not a thing to be said to him and it is a thing to be said here, and I am saying it here, and there is not one other person in this yard who is going to say it to him, and he knows that, and I am not going to pretend to him that I can do anything about it.”
 
@@ -62,7 +62,11 @@ And then he said it. He said it to the young man of about twenty with his hands 
 
 “That is the shape of a happy life.”
 
-She was standing about nine paces off with a lamp in her left hand and it went through her and out the other side, because a man of about sixty said it once to a woman in a lamp shop in Lowwater in a conversation about what he was not going to be able to buy out of other people’s children, and it had not been said out loud in nineteen years, and it had never been said in a yard, and there was nothing whatever in the world to say about what he meant by it.
+She was standing about nine paces off with a lamp in her left hand and it went through her and out the other side.
+
+A woman who kept a lamp shop in Lowwater had said it once to a boy who was not hers, and a man who had been at a furnace for forty-one years had carried it out of that shop in his own mouth and put it in front of her in a corridor.
+
+It had not been said out loud in front of anybody since, and it had never been said in a yard, and there was nothing whatever in the world to say about what her brother meant by it.
 
 ## The Window And The Plate
 
@@ -74,11 +78,11 @@ She looked at it for about four counts. There is not one mark on it and there is
 
 Then she put her hand inside her coat, where the plate from the Broken Kiln was against her chest and not against her skin.
 
-It is warm. It has been under two feet of ordinary ground for about sixteen years and it is warm, and it gives about the eighth of an inch under her thumb and comes back up when she lets go, the way a forearm does, and there is not one person in nine counties she has ever told that to and there is not going to be one.
+It is warm. It has been under two feet of ordinary ground for about twenty years and it is warm, and it gives about the eighth of an inch under her thumb and comes back up when she lets go, the way a forearm does, and there is not one person in nine counties she has ever told that to and there is not going to be one.
 
 ## The Four Months
 
-She said the other thing standing, in the ordinary voice, at the window, late in the morning, into an empty room, because it had not been said out loud in eighteen years and she was going to say it before the end of the day.
+She said the other thing standing, in the ordinary voice, at the window, late in the morning, into an empty room, because it had not been said out loud in nineteen years and she was going to say it before the end of the day.
 
 “I lost four months of my own work in one night in the third year of my keeping. It was the only time anything was ever taken out of me that I can still name, and it never came back, and it did not get any lighter by being put down, and not one person took it and not one person gave it and it was not a payment.
 
@@ -90,7 +94,9 @@ And then she stood at the window and said the other one, in the ordinary voice, 
 
 Assembly Hall of Qinghe. Ning Yan of the Qinghe furnace crew, servant-born. What was held is let go. What was taken is held.
 
-She has never told it to one person in the world. It went into her head at about the seventh hour of a day in the first year of a life she had been having in a building, and it came out of a mouth she could not see, and she was seven, and it has been the first line of everything that has happened to her ever since, and it has never been said out loud by her to a living soul, and she has not improved on it, and she is not going to now.
+She has never told it to one person in the world. It went into her head at about the seventh hour of a day in the first year of a life she had been having in a building, and it came out of a mouth she could not see, and she was seven.
+
+It has been the first line of everything that has happened to her ever since, and it has never been said out loud by her to a living soul, and she has not improved on it, and she is not going to now.
 
 ## The Count Of Forty
 
@@ -100,7 +106,7 @@ The young man of about nineteen was still on the wall with his boots off and he 
 
 She got about nine paces out of the ring of stones and then stopped, in the middle of the yard, in the open, with about forty people in it, and stood there for about a count of two hundred.
 
-She had been waiting for something for thirty days and she was not going to name what for, and the waiting had a place in her that had been there for eighteen years and it was not empty and it was not a hole either.
+She had been waiting for something for eighteen years and she was not going to name what for, and the waiting had a place in her that was not empty and was not a hole either.
 
 Then she said it out loud, in the ordinary voice, to the yard, once, and she did not explain it and she was never going to.
 
@@ -116,6 +122,8 @@ And then she said it, and it took about a count of forty, and there was not one 
 
 “And I have done a forgiveness. That is the whole of it. Housekeeping. It is what you do at the end of a thing you have been carrying for nineteen years, and it does not make it right and it does not make it better and it does not mean that any part of it is finished, and I am not going to say one word more about it to anybody ever, and I would rather not one person in this yard noticed that I have done it.”
 
-Then she went back to the west end, because the light was better there after the fourth hour, and she picked up the slate off the wall where the boy of about ten had left it, and she looked at the line he had copied off the first leaf and the four lines he had put underneath it in his own bad hand with the letters leaning the wrong way, and she turned the slate round so the writing faced away from him, the way you do with a slate a child is still learning on.
+Then she went back to the west end, because the light was better there after the fourth hour, and she picked up the slate off the wall where the boy of about ten had left it, and she looked at the line he had copied off the first leaf and the four lines he had put underneath it in his own bad hand with the letters leaning the wrong way.
+
+She turned the slate round so the writing faced away from him, the way you do with a slate a child is still learning on.
 
 “All right,” she said. “Nine of them at the far end and then the trough. Go on.”

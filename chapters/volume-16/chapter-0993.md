@@ -28,9 +28,9 @@ Then she had said the run and there was a sixth figure in it and there was nothi
 
 She did the arithmetic, out loud, standing, in the ordinary voice, on the side of a road in the seventh county, which is what she does, and she got four answers before the light went.
 
-She did it by counties. Nine counties, and she had walked all nine, and she had stood in about two hundred and thirty villages in them over two years and seven months, and if the four hundred were spread evenly across nine counties that was about forty-four to a county, and forty-four to a county across twenty-five villages was under two to a village, and she had stood in front of people who were not hers every single day of it.
+She did it by counties. Nine counties, and she had walked all nine, and she had stood in about two hundred and thirty villages in them over four years and nine months, and if the four hundred were spread evenly across nine counties that was about forty-four to a county, and forty-four to a county across twenty-five villages was under two to a village, and she had stood in front of people who were not hers every single day of it.
 
-She did it by villages. Two hundred and thirty villages and about two hundred and ninety days of walking, and about four people to a village in the villages where she had found the ones that were hers, and that gave a number she was not willing to say out loud twice.
+She did it by villages. Two hundred and thirty villages and about seventeen hundred days of walking, and about four people to a village in the villages where she had found the ones that were hers, and that gave a number she was not willing to say out loud twice.
 
 She did it by days, which is the instrument she has always trusted, and it came out with a remainder.
 
@@ -54,7 +54,7 @@ Not the same slate. She did not know where the first one had gone and he did not
 
 “Villages or stops.”
 
-“Villages. I stopped at four hundred and ninety-one places. I stopped at about nine every day and I counted the ones with people in them and I did not count a village twice.”
+“Villages. I stopped at four hundred and ninety-one places. I counted the ones that had people in them and I did not count a village twice, and I did most of the counting myself after about a year, and I know the two places I have got wrong.”
 
 “Who counted you.”
 
@@ -76,7 +76,7 @@ The boy said, “I thought you wanted a number.”
 
 She said it out loud on the second evening, standing, in the ordinary voice, in a village in the seventh county, in front of about fourteen people who had come to be told something and did not know yet that they were going to be given a problem instead.
 
-“Four hundred,” she said. “That is the number on the record and it has been there since the nineteenth of a month beginning three thousand and one hundred and seventy-four, and not one of you can be un-bound from it, including me, and I have not got any way of finding out how many of the four hundred I have said the three sentences to in the last two years and seven months.
+“Four hundred,” she said. “That is the number on the record and it has been there since the nineteenth of a month beginning three thousand and one hundred and four, and not one of you can be un-bound from it, including me, and I have not got any way of finding out how many of the four hundred I have said the three sentences to in the last four years and nine months.
 
 “And I have got the number in my mouth this evening and it is the first time in nineteen years that I have said it without knowing what came after it.”
 

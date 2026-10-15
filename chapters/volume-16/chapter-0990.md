@@ -48,7 +48,9 @@ The woman looked at the dark lane for a while.
 
 She said it out loud, standing, in the ordinary voice, in the lane, at about the fifth hour on the first of a month, because it was a true thing and because she said true things out loud standing.
 
-“Nine hundred and four steps was a number of steps in a stair that went somewhere. It is a name now. That is all it is. There is no stair and there is nothing to come up it and there has not been anything to come up it since the thirtieth of a month beginning three thousand and one hundred and thirty-four, and that is thirty-one days, and I am not going to improve on the nine words I said on that day and I have not got better ones and I am not going to look.”
+“Nine hundred and four steps was a number of steps in a stair that went somewhere. It is a name now. That is all it is.
+
+There is no stair and there is nothing to come up it and there has not been anything to come up it since the thirtieth of a month beginning three thousand and one hundred and thirty-four, and that is thirty-one days, and I am not going to improve on the nine words I said on that day and I have not got better ones and I am not going to look.”
 
 The woman of about sixty picked her lamp up off the trough.
 

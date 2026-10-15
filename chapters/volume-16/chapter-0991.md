@@ -1,8 +1,8 @@
 # The Words Went On Without Her
 
-Five hundred and forty days is a year and a hundred and eighty days, and she said it out loud, standing, in the ordinary voice, in a lane outside a village in the third county, at about the ninth hour, to about nine people, and it was the first time she had ever said a number that covered a stretch of her own life which had not been a series of next days.
+About nine people had come to a lane outside a village in the third county to find out what she was, and she had been in the lane since the seventh hour, and by the ninth hour she had said the three sentences to every one of them and they were still standing there.
 
-“A year and a hundred and eighty days,” she said. “That is what has happened since the seventh of the month beginning two thousand nine hundred and fifty-four. Three hundred and thirty-seven days since the thirtieth of a month beginning three thousand and one hundred and thirty-four, and nine of them were the fall, and the rest of it was roads.
+“Five hundred and forty days,” Ning Yan said. “That is a year and a hundred and eighty days, and it is what has happened since the seventh of the month beginning two thousand nine hundred and fifty-four. Three hundred and thirty-seven days since the thirtieth of a month beginning three thousand and one hundred and thirty-four, and nine of them were the fall, and the rest of it was roads.
 
 “I have never had a year before. Not one. I had next days and I had a room and I had a wall, and the wall is nine hundred years of a thing and I have never once had a year inside it, and I did not know until this morning that that was an unusual thing to have gone without.”
 
@@ -22,7 +22,9 @@ He stood in the road with a cloth over his arm and a look on his face that had b
 
 She stood in a road with about twenty people behind him and she worked out, standing, in the ordinary voice, in front of all of them, what had happened, and it took her about a count of two hundred.
 
-It was that she had stood in a village twenty days back and said the three sentences to a woman of about thirty, and that the woman had asked whether there was a price, and that she had said she did not know what it cost her, and that the woman had heard *I do not know what it will cost you* and had gone and told four people that there was a price and that it was going to be taken out of the first person who could be found.
+It was that she had stood in a village twenty days back and said the three sentences to a woman of about thirty, and that the woman had asked whether there was a price.
+
+What she had said in answer was that she did not know what it cost her, and the woman had heard “I do not know what it will cost you” and had gone and told four people that there was a price and that it was going to be taken out of the first person who could be found.
 
 “Give it to the woman you heard it from,” Ning Yan said. “And tell her I said so, and that if she asks me again I will say the same thing again.”
 
@@ -64,7 +66,7 @@ It did.
 
 She stood in a lane with a lamp in her left hand that would never be lit again and said the three figures out loud to about nothing at all, and they came out the way they had every morning since she was ten, in the same order, in the same voice, and the order had nothing in it that she had put there.
 
-That was the whole of it. Three hundred and six days of walking, and about nine thousand paces a week of them, and thirty-one villages where she had said it three and a half times, and about four hundred times she had said it to one person at a time, and not one of those villages knew anything about the other thirty.
+That was the whole of it. Three hundred and six days of walking, and about two thousand paces a day of them by the length of her own leg, and thirty-one villages where she had said it three and a half times, and about four hundred times she had said it to one person at a time, and not one of those villages knew anything about the other thirty.
 
 ## The People Waiting At A Place She Had Left
 
@@ -88,7 +90,9 @@ The man looked at her for a while.
 
 “He said you would come back through by the sixth day.”
 
-And Ning Yan stood in a road in the fourth county, in front of nine people who had been standing in it for three days on a date a man with a broken shaft had made up in a village twenty days ago, and she worked out standing, in the ordinary voice, that she was not able to be met where she was expected, that she had said that out loud at a gate ten days after the fall, and that she had never once thought about what it would do to a person to be told that a date.
+And Ning Yan stood in a road in the fourth county, in front of nine people who had been standing in it for three days on a date a man with a broken shaft had made up in a village twenty days ago.
+
+She worked out, standing, in the ordinary voice, that she was not able to be met where she was expected, that she had said that out loud at a gate ten days after the fall, and that she had never once thought about what it would do to a person to be told that a date.
 
 That was new. That was the first thing in three hundred and six days that she had not had a shape for.
 

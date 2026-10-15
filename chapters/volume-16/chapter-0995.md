@@ -4,7 +4,7 @@ She had been in the yard above Lowwater for about two years and she had failed a
 
 She put it out loud on the morning of the seventeenth of a month beginning six thousand four hundred and four, standing, in the ordinary voice, at the west end where the light was better after the fourth hour, in front of about twenty people who had come to be told a true thing.
 
-“Two thousand five hundred and ninety-nine days out of a room. Four thousand one hundred and nineteen days in that room before it. Four thousand one hundred and twenty-six days with this arm open at the elbow, and it is not going to close, and I have said that out loud to you and I am going to keep saying it out loud to you.
+“Three thousand three hundred and thirty-six days out of a room. Four thousand one hundred and nineteen days in that room before it. Four thousand one hundred and twenty-six days with this arm open at the elbow, and it is not going to close, and I have said that out loud to you and I am going to keep saying it out loud to you.
 
 “Three thousand four hundred and sixty days since the seventh of the month beginning two thousand nine hundred and fifty-four. That is nine years and two hundred and twenty days and I am twenty-eight.
 
@@ -14,7 +14,7 @@ Then she said the other half, which was the half she had said out loud at the we
 
 “I have failed at one thing since I was nineteen years old and I have not got better at it at all. I can stand in front of a person and say a true thing out loud in the ordinary voice for as long as the other person will stand there, and I have never once been able to teach anybody to do it.
 
-“Not one. Nine years. There are people in this yard who can say a short version and there are people who cannot, and every single one of the ones who can got there by watching me for seven days or staying near me for nine, and I have never once been able to put it in somebody faster than that, and I have tried.”
+“Not one. Ten years. There are people in this yard who can say a short version and there are people who cannot, and every single one of the ones who can got there by watching me for seven days or staying near me for nine, and I have never once been able to put it in somebody faster than that, and I have tried.”
 
 ## The Woman With Four Days
 
@@ -64,7 +64,7 @@ On the fourth day the woman came and said she was going that afternoon, and Ning
 
 “It is not,” said the woman. “You have said it nine times in four days. You said it four hundred times in a county once. That is not the same thing at all and you know it is not the same thing.”
 
-And then she said the other thing, which Ning Yan carried for the rest of the chapter and put down in front of about nine people at the ninth hour two days later.
+And then she said the other thing, which Ning Yan carried out of the yard with her and put down in front of about nine people at the ninth hour two days later.
 
 “You do not know how to teach and you are not going to learn how to teach by watching yourself teach. You have been doing the one thing in the world that you can do, standing up, and you have been doing it at people for nineteen years, and there is not one of them who can do it.
 

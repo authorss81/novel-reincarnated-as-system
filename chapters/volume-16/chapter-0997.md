@@ -30,25 +30,23 @@ They got it out at about the fourth hour with a bar and about six of them, becau
 
 It was under about two feet of ground and it was in three pieces and it was wrapped in oiled cloth that had gone hard and black, and the cloth came off whole, and under the cloth there was a single fired plate the size of her hand.
 
-She had held it before. She had carried it against her skin inside a coat for a season when she was fourteen, with a copy of what was on it written out in her own hand in the lining, and she had read it by window light and traced the small brushed lines on its face, and it had a name on it that was not her brother’s and a date and a disposition in three words.
+She had held it before. She had carried it against her skin inside a coat for about a week when she was fourteen, with a copy of what was on it written out in her own hand in the lining, and she had read it by window light and traced the small brushed lines on its face, and it had a name on it that was not her brother’s and a date and a disposition in three words.
 
 She sat down on a fallen stone in the yard of the Broken Kiln at about the fifth hour and put it in her left hand, because that was the hand that carried the lamp, and she had never once put two things in one hand.
 
 ## The Part That Did Not Happen
 
-She waited for it.
+She put her hand flat on it and waited.
 
-That is the whole of what she can say about it and she has said it out loud in every version she has ever tried since. She waited for about a count of four hundred for the thing that had happened the first time to happen again.
+That is the whole of what she can say about it and she has said it out loud standing in front of everybody who has asked her about it since. She waited for about a count of four hundred for anything at all to happen.
 
-The first time, she had laid her hand flat on it through a coat and thought at a man in her head to touch it with her, and he had gone still and then gone bright, and he had said he could hold through her, and he had held it for exactly as long as the thing that bound her had held, and then it had cost them both something neither of them would name.
+The first time, she had laid her hand flat on it through a coat and it had gone warm under her palm and stayed warm until she took her hand off. And then she had put it back in that hole with her own two hands and covered it over, because a week of it was up and it was not hers.
 
-She laid her hand flat on it.
-
-Nothing came up through her hand. There was no warmth anywhere else in her, and there was no second feeling in her palm, and there was not one thing in the world that answered her from anywhere, and the ground under the yard of the Broken Kiln was ordinary ground.
+Nothing came up through her hand this time. There was no warmth anywhere else in her, and there was no second feeling in her palm, and there was not one thing in the world that answered her from anywhere, and the ground under the yard of the Broken Kiln was ordinary ground.
 
 That was the cost and it was the whole of the cost and she had not known when she set out on the four days walk that it was going to be that and she had not known when she sat down that it was going to be that and she had not known anything at all until the count of four hundred was finished.
 
-She was thirty-two years old and she had put her hand on the only object in the world that had ever let a person hold something and it had not let one single thing happen, because it had never been the plate.
+She was thirty-two years old and she had put her hand on the only object in the world that had ever let a person hold something and it had not let one single thing happen, and it had never been the plate.
 
 ## The Four Who Walked With Her
 
@@ -66,7 +64,7 @@ They dug for four hours and they said very little for most of it, and then the c
 
 The man of about thirty said, “You knew about this.”
 
-“I knew there was a hole in this yard when I was fourteen years old,” said Ning Yan, “and I did not know that anything was under it until about a quarter past the fourth hour this afternoon, and I have been wrong about that for about fifteen years and I did not know I was wrong about it, and that is worth more than the plate is.”
+“I knew there was a hole in this yard when I was fourteen years old, and I had had a plate in my hands in it for a week and I had put it back in that hole with my own hands and covered it over,” said Ning Yan. “And I had not thought about the hole again for about eighteen years, and finding it again this afternoon is worth more than the plate is.”
 
 And they carried on, and the woman of about twenty-two did not ask her anything else about it, and Ning Yan noticed that and did not know what to do with it, because she had a rule about saying true things out loud standing in front of people and had been telling these four things about a hole for three days.
 

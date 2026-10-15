@@ -1,8 +1,8 @@
 # The Account She Carried
 
-The question had been standing in nine counties for nineteen years and it came into the yard on the third of a month beginning nine thousand four hundred and thirty-four in the mouth of a woman of about thirty-four who had been in the yard about a month.
-
 “What did it cost you.”
+
+The question had been standing in nine counties for nineteen years and it came into a yard above Lowwater in the mouth of a woman of about thirty-four who had been in the yard about a month, on the third of a month, in the afternoon, with a yoke over her arm.
 
 Not what it cost the four hundred. Not what the ceiling was for. What it cost you.
 
@@ -64,9 +64,9 @@ And then about twenty people did something she had not expected and had not brac
 
 They started saying the figures after her.
 
-Not the entries without figures. The numbers. A woman of about forty said *six thousand three hundred and fifty-two days out of a room* back at her, in a flat voice, halfway through, and got it right. A man of about twenty said *seven thousand one hundred and forty-two* and got that wrong and was corrected by a boy of about nine who had it perfect.
+Not the entries without figures. The numbers. A woman of about forty said six thousand three hundred and fifty-two days out of a room back at her, in a flat voice, halfway through, and got it right. A man of about twenty said seven thousand one hundred and forty-two and got that wrong and was corrected by a boy of about nine who had it perfect.
 
-They had been in a yard for about five years watching a woman say numbers out loud at the ninth hour every morning and they had taken to doing it the way children take to a thing, and there were not one instruction anywhere in nineteen years that had ever told them to.
+They had been in a yard for about ten years watching a woman say numbers out loud at the ninth hour every morning and they had taken to doing it the way children take to a thing, and there were not one instruction anywhere in nineteen years that had ever told them to.
 
 “That is the second time somebody has taken a figure off me,” Ning Yan said, standing, in the ordinary voice, in front of about twenty people. “The first was in a lane in the seventh county and it was the wrong number by one and it went round nine counties and I could not get it back.
 

@@ -80,7 +80,7 @@ One hundred and six days out of a room. Eight hundred and eighty-nine days in th
 
 Twenty-seven days since the thirtieth of a month beginning three thousand and one hundred and thirty-four, and nine of them were the fall, and eighteen of them were walking.
 
-Two hundred and thirty days since the seventh of the month beginning two thousand nine hundred and fifty-four, which is where she had asked a man what he wanted and he had not answered, and which is the only fixed day in the world she still had.
+Two hundred and thirty days since the seventh of the month beginning two thousand nine hundred and fifty-four, which is the last day there has been with anything on it, and which is the only fixed day in the world she still had.
 
 Four days of walking since she went west out of Lowwater in the dark, and about nine thousand paces of them by the length of her own leg, and nine counties of road between that place and where she was standing.
 
