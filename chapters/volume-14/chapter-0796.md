@@ -22,13 +22,13 @@ She said, out loud, “That is the only thing in this room that is not mine.”
 
 She had not worked that out yet on the seventh and she worked it out on the eighth, standing, with the strip of pale wood in front of her and her right arm open at her side, and it took her about a hundred and forty counts and she said the whole of it out loud when she had it.
 
-She said, “A lamp does not make a thing visible. I have been treating that lamp as if it did, for four nights, and it does not, and that is why it has not answered anything.”
+She said, “A lamp does not make a thing visible. I have been treating that lamp as if it did, since last night, and it does not, and that is why it has not answered anything.”
 
-She said, “What it does is smaller than that and it is this. It puts one piece of one thing where my hand is. That is all it has ever done. On the twelfth of that month you put it on this table and I moved it two inches in and I told you that was the first thing anybody had done to this table in two hundred and forty-four days that was not taking something off it, and I was proud of that, and two inches.”
+She said, “What it does is smaller than that and it is this. It puts one piece of one thing where my hand is. That is all it has ever done. On the twelfth of the month beginning two thousand five hundred and thirty-four you put it on this table and I moved it two inches in and I told you that was the first thing anybody had done to this table in two hundred and forty-four days that was not taking something off it, and I was proud of that, and two inches.”
 
 She put her left hand flat on the wood and put her fingers on the edge of the lamp's base.
 
-“The rest of this table is exactly as dark as it was before you came up that stair. Twenty-two paces of it. A hand's width of it is lit and the other twenty-one paces and the rest of that foot is not, and it is not a little less dark than it was. It is the same dark.”
+She said, “The rest of this table is exactly as dark as it was before you came up that stair. Twenty-two paces of it. A hand's width of it is lit and the other twenty-one paces and the rest of that foot is not, and it is not a little less dark than it was. It is the same dark.”
 
 And that was the thing, and she said it last, because it had taken the longest and she wanted the other two first.
 
@@ -102,7 +102,7 @@ She said, “No. I have not been frightened of asking once in nineteen years and
 
 ## The Width Of My Own Hand
 
-And at about the ninth hour she did the thing she had been standing there wanting to do since the seventh hour, which was to find out how far the light actually went, in a figure, because she says figures before they are anything else and she had been saying a hand's width out loud for four nights without ever once checking what a hand was.
+And at about the ninth hour she did the thing she had been standing there wanting to do since the seventh hour, which was to find out how far the light actually went, in a figure, because she says figures before they are anything else and she had been saying a hand's width out loud since last night without ever once checking what a hand was.
 
 She turned her left hand over flat on the wood with the lamp on the far side of it, and she put the edge of the lamp's base against the first joint of her little finger, and she moved her hand away a count at a time and watched her own hand out of the light.
 
@@ -110,7 +110,7 @@ And when her hand went out of it, that was the end of it, and the wood after tha
 
 She said, out loud, standing, in the ordinary voice:
 
-“It is the width of my hand. From the knuckle of the little finger to the second joint of the thumb. That is a hand's width and it has been a hand's width for four nights and it is the width of my hand and it is the first figure I have had in this room that has got a person in it.”
+“It is the width of my hand. From the knuckle of the little finger to the second joint of the thumb. That is a hand's width and it has been a hand's width since last night and it is the width of my hand and it is the first figure I have had in this room that has got a person in it.”
 
 She said, “And I have been measuring this room with myself since I got into it, and this is the first time one of those measurements has been a figure instead of a habit.”
 

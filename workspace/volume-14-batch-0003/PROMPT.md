@@ -5,8 +5,8 @@ directory is created, and no `.done` marker, which `PHASE_SYSTEM.md` gives to th
 
 ## What this phase is
 
-**Volume 14 Batch 0002, ch 796–810, is CLOSED ON THE PAGE: fifteen chapters, 28,861 words of body prose on method B
-at average 1,924, day 2,601 to day 2,684, one stage at ch 809 on day 2,666 at sixty-eight days, one midpoint at
+**Volume 14 Batch 0002, ch 796–810, is CLOSED ON THE PAGE: fifteen chapters, 29,402 words of body prose on method B
+at average 1,960, day 2,601 to day 2,684, one stage at ch 809 on day 2,666 at sixty-eight days, one midpoint at
 ch 803, one irreversible step at ch 810, zero bracketed layer lines in fifteen. Full record in `state/continuity.md`
 under *VOLUME 14 BATCH 0002 — ch 796–810, \*the seat\****; chapter by chapter in `state/chapter-summaries.md`
 under the same heading; live position in `state/current.md` under *Who is where at end of chapter 810*.
@@ -54,17 +54,22 @@ finding and the eighteen days she accounts for (ch 810, said once).
 **What is on the table and has not moved:** a lamp standing a foot in from the near end with a trimmed wick and the
 light a hand's width along the wood and no further — **a hand's width being, since ch 796, the width of her own
 hand** · a strip of pale wood face up with a price at the head, the same price in the first pair, a five in the
-second, a seven in the third, an eight in the fourth, and **nine empty pairs** · forty boards face up in a stack
+second, a seven in the third, an eight in the fourth, and **eight empty pairs, which is what ch 809 left and what
+`state/current.md` now carries** · forty boards face up in a stack
 under the middle, **one of them carrying a paragraph of words in her own hand that she put there on the twentieth of
-the month beginning 2,594 and cannot find** · the bundle under the far end, corded round twice and not knotted,
+the month beginning 2,594 and cannot tell from the other thirty-nine** · the bundle under the far end, corded round twice and not knotted,
 touched by two pairs of hands and not opened · a bar nine feet nine against the left-hand wall, broken end towards
 the door, not moved, there since day 2,344 · a cage lamp out for a hundred and fifty days.
 
 **Yuan:** Court, second rung, readable by the room's hand since ch 748, found at ch 749 with the bill raised and
 unpaid, **the bill paid at ch 810 and not explained**. She said his name out loud in that room three times and once
 of them in front of the boy. **No figure of what is left of him on any page and none may be.** Every sentence he
-speaks is present tense. **He has spoken twice in Volume 14 and bought nothing either time. Nothing in this batch
-speaks to him that is not her, and the address is Volume 15's per `outline/series.md` §7 milestone 8.**
+speaks is present tense. **He does not speak anywhere in ch 796–810: there is no frame scene in that batch and the
+tenth one is this batch's ch 812. The one objection in that batch, at ch 808, is the boy of sixteen's and is spoken in
+her own hearing; an earlier draft of this card credited it to Yuan and the review pass corrected the record rather
+than the page. His one speech in Volume 14 is at ch 791, in her own hearing and not in a marked frame, and it
+bought nothing. Nothing in ch 796–810 speaks to him that is not her, and the address is Volume 15's per
+`outline/series.md` §7 milestone 8.**
 
 ## What this batch must do
 
@@ -182,8 +187,8 @@ board she has not said out loud first. Ending: the thing she would have to vacat
 it needs.
 
 **Ch 815 — What She Would Have To Stop.** POV her, room, day 2,701, the eighteenth. Goal: work out what the keeping
-is made of, without being told. Resistance: **she has told a boy of sixteen since the twelfth of the month beginning
-two thousand five hundred and thirty-four that a person who can be given a thing can be given a job, and she meant
+is made of, without being told. Resistance: **she has told a boy of sixteen, at ch 807 on the eleventh of the month
+beginning two thousand six hundred and fifty-four, that a person who can be given a thing can be given a job, and she meant
 it, and this is the first time it has been tested on her own arithmetic.** Reveal: none new — procedure once.
 Decision: **she says out loud what the keeping would need, which is the record, and she does not say the word
 offer.** Emotion: protectiveness, turned the other way. Power: none. Preserve: no job is described as offered and no
@@ -191,7 +196,7 @@ term is named. Ending: the one thing in that room she would have to move. Pull: 
 
 **Ch 816 — The Twenty-Seventh.** POV her, room + stair, day 2,705, the twenty-second. Goal: get the near end of
 that table to a place where forty boards can go down beside a figure of hers and she can watch it happen. Resistance:
-**she said out loud on the thirtieth of the month beginning 2,594 that she would not clear the near end of that
+**she said out loud on the thirtieth of the month beginning 2,624 that she would not clear the near end of that
 table, and the reason she gave was that she did not want a figure of hers in the room when forty of somebody else's
 went through it, and that was not a reason.** Reveal: none new. Decision: **she decides to say what she is not
 clearing it for, out loud, and the sentence is worse than the habit.** Emotion: shame, specific and workable.

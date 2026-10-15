@@ -58,7 +58,7 @@ She said, “That is what is under the seven. And I said out loud on the fifth o
 
 She said, “There are not nine nights ahead of me in those nine pairs. Nine is a number of nights and I have never worked out where the nights stop and the pairs begin, and I have been carrying them as the same thing for nineteen years.”
 
-She said, “A night is a day I have lived. A pair of cuts is a place a figure goes. And the reason there are nine of them is not that there are nine nights coming. It is that somebody cut nine pairs of cuts into that piece of wood before it came off the tree, and cut them the same day as the twelve that were under them, and I have never been able to work out why.”
+She said, “A night is a day I have lived. A pair of cuts is a place a figure goes. And the reason there are nine of them is not that there are nine nights coming. It is that somebody cut twelve pairs of cuts into that piece of wood before it came off the tree, and three of the twelve have had a figure in them in four hundred years and nine of them have nothing in them at all, and I have never been able to work out why anybody cut twelve.”
 
 He said, “Then what is the count of them.”
 
@@ -68,7 +68,7 @@ She said, “I do not know. And that is the second thing I cannot answer tonight
 
 And she said the whole row out loud, standing, at about the eighth hour, in the ordinary voice, with her arm open at her side and her breath at four counts.
 
-She said, “At the head of this strip, ten days, twenty-one hours and thirty-six minutes. The same figure in the first pair of cuts under the head. A five in the second pair. A seven in the third pair. Nine pairs of cuts under that with nothing in any of them, and two of the nine were cut before the wood came off the tree and the other seven were cut the same day as the others and she could not work that out either.”
+She said, “At the head of this strip, ten days, twenty-one hours and thirty-six minutes. The same figure in the first pair of cuts under the head. A five in the second pair. A seven in the third pair. Nine pairs of cuts under that with nothing in any of them, and all twelve of them were cut into that wood before it came off the tree, and I have never worked out why there are twelve.”
 
 She said it, and she stopped there, and the stopping was the decision.
 
@@ -84,7 +84,7 @@ She said, “That is not a rule, that is a preference, and I am the only one in 
 
 He said, “Then what happens to the ones that are already wrong.”
 
-She said, “The seven goes on being seven, and it will be twenty-six days old on the first of the month beginning two thousand five hundred and ninety-four, and no one in this building but me is ever going to know how old it is, including the hand at the far end of this table.”
+She said, “The seven goes on being seven, and it will be twenty-six days old on the first of the month beginning two thousand six hundred and twenty-four, and no one in this building but me is ever going to know how old it is, including the hand at the far end of this table.”
 
 ## The Question She Cannot Answer
 
@@ -110,6 +110,6 @@ She said, “And I am going to walk down that stair tonight with both of them un
 
 She put her left hand flat on the wood with the lamp on the far side of it, and the light went a hand's width along the near end of that table and stopped, and the other twenty-two paces of it were exactly as dark as they had been when she came up.
 
-She said, “Ten days, twenty-one hours and thirty-six minutes. What it is counting from. And nine pairs of cuts and nine of nothing.”
+She said, “Ten days, twenty-one hours and thirty-six minutes. What it is counting from. And nine pairs of cuts under me and nine of nothing in any of them.”
 
-She said, “Goodnight.”
+She said, “And that is what I am taking down that stair tonight. I have walked it about a hundred and forty times and I have never once taken anything down it I could not answer standing at the top of it.”

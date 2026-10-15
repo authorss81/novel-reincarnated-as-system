@@ -1,6 +1,6 @@
 # It Is Not A Job
 
-She said it out loud on the eleventh of the month beginning two thousand five hundred and ninety-four at about the seventh hour, standing four feet off the near end of that table, before he had asked it once, because she was not going to let him ask it.
+She said it out loud on the eleventh of the month beginning two thousand six hundred and fifty-four at about the seventh hour, before he had asked it once, because she was not going to let him ask it. She was four feet off the near end of that table when she said it and she did not move while she was saying it.
 
 She said, “You are not going to open it.”
 
@@ -48,21 +48,21 @@ He said, “This would cost you nothing.”
 
 She said, “It would cost you about the rest of your life and you are sixteen, and I am not going to be the woman who starts it.”
 
-## Nine Days Of Not Asking
+## Five Nights Of Not Asking
 
-And then she told him what she had done with herself for the nine days between the two of them, standing, in the ordinary voice, because she says a thing before it is a line anywhere and because she wanted it in the room before she gave him the answer.
+And then she told him what she had done with herself for the five nights since the sixth of that month, standing, in the ordinary voice, because she says a thing before it is a line anywhere and because she wanted it in the room before she gave him the answer.
 
-She said, “I have not slept properly since the second of that month when I did that under the far end of this table.”
+She said, “I have not slept properly since the sixth of that month, when I worked out that you had not asked me on purpose.”
 
 She said, “And the reason is not the bundle. It is that you did not ask me. You have been asking me something every night since the seventh of the month beginning two thousand five hundred and thirty-four, about a lamp, about a number, about what a thing felt like, about what a record is, about why a lamp at the top of a tower is lit, and you have been down here twice in two nights on the one thing that you have not asked me about.”
 
-She said, “And I worked out on the third day that you had not asked on purpose.”
+She said, “And I worked it out on the third day of those three.”
 
 She said, “Because you asked me for two nights. You asked me twice, in advance, and I had to say the whole arithmetic out loud to get either of them. And you have not asked me once for that.”
 
 He said, “You told me not to.”
 
-She said, “I did not tell you not to. There has never been one sentence in this building in which I told you not to do anything. I said a boy of sixteen is not being sent, and is not being entered, and there is no name of his on anything in this room. And you took the third of those and built a wall out of it and stood behind it and let me stand in front of it for nine days thinking I was the one being careful.”
+She said, “I did not tell you not to. There has never been one sentence in this building in which I told you not to do anything. I said a boy of sixteen is not being sent, and is not being entered, and there is no name of his on anything in this room. And you took the third of those and built a wall out of it and stood behind it and let me stand in front of it for five nights thinking I was the one being careful.”
 
 She stood there.
 
@@ -104,11 +104,11 @@ She said, “No.”
 
 He said, “You did not ask me to.”
 
-“That is what I am telling you. You did not ask me and I did not do it, and both of those are the same thing, and you did not give me a job and I am not standing here holding one.”
+She said, “That is what I am telling you. You did not ask me and I did not do it, and both of those are the same thing, and you did not give me a job and I am not standing here holding one.”
 
 She said, out loud, standing, in the ordinary voice:
 
-“That is the difference between you and a hand at the far end of this table and it took you ten days to arrive at it, and I have been trying to say it to you since the seventh of the month beginning two thousand five hundred and thirty-four, and I have never once been able to say it in fewer than about a hundred and forty counts.”
+“That is the difference between you and a hand at the far end of this table and it took you five nights to arrive at it, and I have been trying to say it to you since the seventh of the month beginning two thousand five hundred and thirty-four, and I have never once been able to say it in fewer than about a hundred and forty counts.”
 
 He said, “And I want to say the other half of it. I did not do that because you told me not to. I did it because there was a thing under a table and I am sixteen and no one else was going to, and if I had waited for you to give me leave then it would have been a job and I would have had to think of it as one, and it is not one.”
 
@@ -126,7 +126,7 @@ He said, “The eleventh of this month.”
 
 She said, out loud, standing, in the ordinary voice:
 
-“There is a record in this room of a hand that went into that bundle on the eleventh of the month beginning two thousand five hundred and ninety-four and came out of it without pulling, and it is the first line in this record that is not mine, and it is not on a board and it is not in that strip of pale wood and it is not going up any stair.”
+“There is a record in this room of a hand that went into that bundle on the eleventh of the month beginning two thousand six hundred and fifty-four and came out of it without pulling, and it is the first line in this record that is not mine, and it is not on a board and it is not in that strip of pale wood and it is not going up any stair.”
 
 She said, “And there is no place in this building for it and I am not going to make one.
 

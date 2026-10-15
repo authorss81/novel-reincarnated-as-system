@@ -50,15 +50,15 @@ She said, out loud, on her knees under that table with her right arm out in fron
 
 She got to the far end of that stack and started again.
 
-“There are forty boards. Thirty-eight of them carry nothing. Two of them carry something of mine and I cannot tell which. And one of them carries a paragraph that a boy of sixteen could read out loud in about a count of forty, and I cannot tell which one that is either, and it is not one of the two, because I know what the two have on them.”
+“There are forty boards. Thirty-eight of them carry nothing. Two of them carry something of mine and I cannot tell which two. And one of those two carries a paragraph that a boy of sixteen could read out loud in about a count of forty, and it is the one I put in last, and I have gone over all forty twice tonight and I still cannot tell you which one it is.”
 
-She got up out from under that table on her left hand and stood at the near end of it.
+She put the lamp down on the stone beside her and stayed on her knees with her right arm out in front of her, and she did not come out from under that table again until she had said all of it.
 
 She said, “And it is worse than that, and I am going to say the worse of it out loud because I have said the other half of it and it would be dishonest to stop there.”
 
 She said, “On the twentieth of that month I sat on this floor at about the ninth hour and asked myself whether that room can read. And I have known since the eighth of the month beginning two thousand five hundred and sixty-four that on the wood it is cuts and not letters, and I have known it for fifty-two days, and I have never once gone and asked what a room does with a sentence.”
 
-She said, “And I have now put a sentence in there. Out loud, in words, in my own hand, about three lamps and a boy and what is standing on that table and that I did not ask for it. And it is in a room that has been copying figures into a column for four hundred years.”
+And she had put a sentence in there. Out loud, in words, in her own hand, about three lamps and a boy and what is standing on that table and that she did not ask for it. And it was in a room that had been copying figures into a column for four hundred years.
 
 ## Nothing Else Has Moved
 
@@ -67,6 +67,8 @@ She said, “And nothing else in here has changed.”
 She said, “That lamp has been standing on the top of this table since the seventh of this month and not one thing in this room has been written on while it has been standing there. No figure, no cut, no stroke in the column at the far end of that table. Twenty-three days of a flame a foot in from my own hand and this room has not put one mark anywhere.”
 
 She said, “So either it cannot see it or it does not count it, and I have got no way of telling those two apart, and both of them are worse than the other one.”
+
+She got herself up out from under that table on her left hand and stood at the near end of it with the lamp a foot in from the edge, and she looked along twenty-two paces of that table at a shelf and a cage she could not see.
 
 She said, “And there is a third thing and I want it said out loud and I have been standing here about a count of a hundred and forty deciding whether to say it.”
 
@@ -92,13 +94,13 @@ She said, “I have put my hand on every one of those forty boards on the second
 
 She said, “I have never said that out loud. Not to you in the last four days and not in this room in nineteen years, and the reason is that it is the only count I have ever had that has never been checked by a second person, and I did not know until this morning that it was the only one.”
 
-She said, “And I could say ten right now and get it exactly right, because I have said it in my own head on every one of those ten nights. What I could not do was say it out loud to a person and have it be true, and that turns out to be a different kind of true and I have been treating it as one thing for nineteen years.”
+And she could say ten right now and get it exactly right, because she had said it in her own head on every one of those ten nights. What she could not do was say it out loud to a person and have it be true, and that turned out to be a different kind of true, and she had been treating it as one thing for nineteen years.
 
 He looked at the stack under that table for a while.
 
 He said, “That is every second of a month for ten months.”
 
-She said, “That is every second of a month for ten months, and there is one of them tomorrow, and that is the first of the month beginning two thousand five hundred and ninety-four, and a man is going to come up nine hundred and four steps in the dark and put forty boards on this table and go back down without looking at one of them.”
+She said, “That is every second of a month for ten months, and the first of the month is tomorrow, and a man is going to come up nine hundred and four steps in the dark and put forty boards on this table and go back down without looking at one of them, and on the morning after that I am going to put my hand on all forty of them for the eleventh time.”
 
 She said, “And I have never once been in this room on the second of a month when a bundle was coming.”
 

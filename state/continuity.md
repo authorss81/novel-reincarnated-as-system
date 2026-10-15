@@ -802,10 +802,13 @@ described as kept is ch 818's and was neither previewed nor mentioned.**
 
 ### What is on the page, measured
 
-- **Fifteen chapters, 28,862 words of body prose on method B** (`grep -v '^#' <file> | wc -w`, per file, summed),
-  average 1,924. Per chapter: 796 1,928 · 797 1,816 · 798 2,063 · 799 1,891 · 800 1,885 · 801 1,816 · 802 1,835 ·
-  803 1,940 · 804 2,055 · 805 1,903 · 806 1,807 · 807 1,918 · 808 1,873 · 809 2,149 · 810 1,983.
-  **Batch 0001 is 31,117, so the volume is 59,978 over thirty chapters at an average of 1,999.**
+- **Fifteen chapters, 29,402 words of body prose on method B** (headings removed per file, summed),
+  average 1,960. Per chapter: 796 1,937 · 797 1,868 · 798 2,106 · 799 1,925 · 800 1,963 · 801 1,850 · 802 1,884 ·
+  803 1,940 · 804 2,154 · 805 1,756 · 806 1,869 · 807 1,934 · 808 1,928 · 809 2,235 · 810 2,053.
+  **Batch 0001 is 31,117, so the volume is 60,519 over thirty chapters at an average of 2,017.** These are the
+  figures **after the review repair pass**; the pass added 540 words net, almost all of it back into ch 805, whose
+  twenty-two-pace walk had been staged twice and lost about 170 words with the duplicate, and into ch 804, 806,
+  808, 809 and 810, where speeches were converted to narration to break runs of consecutive `She said,`.
 - **Zero bracketed layer lines in fifteen**, per `outline/volume-14.md` D6. **Zero `[` characters of any kind.**
   The board that arrives at ch 810 is rendered as what a room does: forty strokes, a forty-first stroke, a hand
   that goes away down nine hundred and four steps, and a lamp carried twenty-two paces to read it.
@@ -815,25 +818,31 @@ described as kept is ch 818's and was neither previewed nor mentioned.**
   the only place in the batch where italics carry anything that is not prose about prose.
 - **Budgets:** `court` 0 · `ascendant` 0 · `choir` 0 · `ledger` 0 · `forgiv` 0 · `the year` 0 · `thank` 0 ·
   `twenty-two days` 0 · **`scribe` 1 and it is again the verb *describes*, at ch 807, the same false positive
-  Volume 13 carries at ch 723 and Batch 0001 carried at ch 789** · `nobody` 0, against a volume line of thirty ·
-  word-`eleven` 4, against a volume line of forty · retired seven phrases 0.
+  Volume 13 carries at ch 723 and Batch 0001 carried at ch 789** · `nobody` 0, against a volume cap of thirty ·
+  word-`eleven` 4, against a volume cap of forty · retired seven phrases 0.
 - **Fifteen new chapter titles, all measured free against all 810 standing headings:** 796 *Four Feet From A
   Place* · 797 *The Third Pair Of Cuts* · 798 *Words And Not Cuts* · 799 *The Thirty-Second Turn* · 800
   *Thirty-Eight* · 801 *The Head Figure* · 802 *Already Agreed* · 803 *The Same Stroke* · 804 *Nothing Answers* ·
   805 *Twenty-Two Paces* · 806 *Two Turns And Not A Knot* · 807 *It Is Not A Job* · 808 *Sixty-Eight* · 809 *Eight*
-  · 810 *The Third Hand*. **Five of the card's titles were replaced before a line was drafted and the reasons are
-  in *Card defects found while writing* below: ch 802 restated a date, ch 803 and ch 806 and ch 807 restated
-  their own scenes, and ch 804 restated a state.** No section heading in the volume duplicates another; six
-  duplicates created during drafting were renamed.
-- **Longest paragraph in the batch is 90 words and none exceeds it.** Every chapter worked in the room with a
+  · 810 *The Third Hand*. **Six of the card's titles were replaced before a line was drafted and the reasons are
+  in *Card defects found while writing* below: ch 798 restated its own beat, ch 802 restated a date, ch 803 and
+  ch 806 and ch 807 restated their own scenes, and ch 804 restated a state.** No section heading in the volume
+  duplicates another; six duplicates created during drafting were renamed, and the review pass renamed two more —
+  ch 798's section heading, which was a verbatim repeat of its own chapter title, and ch 808's, which was a repeat
+  of *Sixty-Eight* — and replaced two created in the pass itself.
+- **Longest paragraph in the batch is 94 words and none exceeds it.** The pass also cut three chapter openings
+  that all began at the same four feet of the same table and moved three of them off that footing; the phrase now
+  stands twelve times in fifteen chapters instead of thirteen and opens four instead of seven. Every chapter worked in the room with a
   lamp in it states how far the light goes, and no chapter explains why.
 - **Dialogue-tag ratio, measured and recorded rather than hidden.** Bare paragraph-initial `She said,` and
-  `He said,` as a share of prose paragraphs: 796 50% · 797 66% · 798 33% · 799 47% · 800 57% · 801 62% ·
-  802 66% · 803 50% · 804 74% · 805 43% · 806 69% · 807 66% · 808 68% · 809 63% · 810 59%. **The highest figure
+  `He said,` as a share of prose paragraphs: 796 51% · 797 67% · 798 33% · 799 46% · 800 52% · 801 62% ·
+  802 67% · 803 51% · 804 68% · 805 45% · 806 62% · 807 68% · 808 68% · 809 60% · 810 50%. **The highest figure
   in Batch 0001 as reviewed and left standing is ch 791 at 78% and ch 794 at 74%, so the batch is inside the
   range this voice already runs at two hundred days of this volume and no chapter needed to be rebuilt for it.**
   Eleven exchanges were converted to inline tags and three merged tag runs were collapsed to break mechanical
-  alternation in ch 807 and ch 808.
+  alternation in ch 807 and ch 808. **The review pass converted nine further speeches to narration, which is what
+  dropped the longest run of consecutive `She said,` paragraphs in the batch from eight to four: ch 799, ch 800
+  twice, ch 804 twice, ch 806, ch 810 twice.**
 
 ### The day table, every ordinal derived under `((day − 134) mod 30) + 1`
 
@@ -891,8 +900,8 @@ sixty-eight, because a count already written never comes right again and there i
 1. **ch 796** — she measured the light and **the unit of measurement is her own hand**, and she asked a person for
    a night and it took four seconds.
 2. **ch 797** — **a count dates and a price does not**, and she has had the two mixed up for nineteen years.
-3. **ch 798** — **a sentence in her own handwriting went into that stack and she cannot find it and cannot find
-   out whether that room reads words.**
+3. **ch 798** — **a sentence in her own handwriting went into that stack and she cannot tell which board it is and
+   cannot find out whether that room reads words.**
 4. **ch 799** — **nine hundred and four, counted in light, agreeing with the dark**, and a number she had kept for
    eleven years turning out to be a property of a building.
 5. **ch 800** — she gave a person the only count she had never said, **and the stack's order is the walking order
@@ -917,7 +926,7 @@ sixty-eight, because a count already written never comes right again and there i
 
 ### Card defects found while writing, and what the page says instead
 
-**Three figures in `workspace/volume-14-batch-0002/PROMPT.md` did not survive being checked against the page, and
+**Four figures in `workspace/volume-14-batch-0002/PROMPT.md` did not survive being checked against the page, and
 the page is the authority in all three. Nothing else in the card moved.**
 
 1. **The card's *six days* of lamp at ch 800.** The lamp has been standing on that table since the seventh of the
@@ -935,13 +944,103 @@ the page is the authority in all three. Nothing else in the card moved.**
    she has put her hand on all forty boards on the second of a month and never once in front of anybody — which is
    what the card's ending and pull both require, and which ch 801 then pays by making the number eleven.
 
-**And the five titles that were replaced before drafting**, because each restated its own chapter: ch 802 *The Last
+**And the five titles that were replaced before drafting**, because each restated its own chapter: ch 798 *What She
+Cannot Ask For* (the beat) became **Words And Not Cuts** · ch 802 *The Last
 Day Of A Month* (a date) became **Already Agreed** · ch 803 *The Second Bundle* (the event) became **The Same
 Stroke** · ch 804 *What She Said* (a state) became **Nothing Answers** · ch 806 *The Bundle She Has Not Opened* (the
 scene) became **Two Turns And Not A Knot** · ch 807 *The Boy And The Cord* (the scene) became **It Is Not A Job**.
-**Ten of the card's fifteen titles stand and all fifteen are free against all 810 standing headings.**
+**Nine of the card's fifteen titles stand and all fifteen are free against all 810 standing headings.**
+
+### REVIEW REPAIR PASS — what was wrong on the page and what the page says now
+
+**Run after the batch closed and before Batch 0003 was written to. Fifteen chapters were touched; none was
+restarted; the planned plot did not move. Grouped by what kind of fault it was.**
+
+- **Meta language, four places.** The narration and her own mouth referred to the book as a book: ch 805 *the whole
+  reason **this chapter** is a different thing*, ch 805 *she wants that **on the page***, ch 809 *I want that **on the
+  page***, ch 810 *I would rather **it was on the page***. All four now say the thing itself — *this time is not the
+  last time she did it* · *said as loud as the first* · *said out loud* · *she wanted it ruled out in the room*.
+- **A drafting instruction pasted in as prose, ch 808.** The card's own wording for the stage beat had been set on
+  the page as a verbless fragment. **It is now inside her mouth, as the sentence she is actually saying.**
+- **A POV break, ch 808.** Four unmarked first-person paragraphs in a batch rendered wholly in third person; two of
+  them then repeated each other's sentence. **All four are third person now and the duplicate is gone.**
+- **A verbatim duplicated paragraph, ch 802 and ch 805** — *So it stays where it is. That is the whole of the
+  preparation.* Each chapter now has its own line.
+- **Scenes staged twice.** ch 799 narrated the arrival at the bottom of that stair twice, once under a second
+  heading as though it were a first arrival; ch 805 walked the lamp twenty-two paces out, back, and out again, with
+  the two outward runs sharing identical lines, and only the second one carrying the reveal; ch 801 re-ran ch 800's
+  get-under-the-table, count, say-the-figure, replace-the-board sequence. **ch 799 and ch 805 now stage each thing
+  once; ch 801 opens on the change and compresses the mechanics to a line.**
+- **The stair's own arithmetic.** ch 799 said the turn was *at about the thirty-second* and also *four hundred and
+  forty to the turn*, and four hundred and forty plus four hundred and sixty-four is nine hundred and four. **The
+  turn is canonically the thirty-second step from the bottom** (ch 757, ch 792, `state/open-threads.md`), so the
+  chapter now reads **eight hundred and seventy-two to the turn and thirty-two from it to the door**, which still
+  sums to nine hundred and four, and the two worn treads are on the near side of the turn where they fit.
+- **Arithmetic on the page.** ch 800 counted **forty-one boards out of forty** — thirty-eight carrying nothing, two
+  carrying something of hers, and the paragraph-board counted as a third. **The paragraph is now one of the two.**
+  ch 809 said **nine** empty pairs under the eight and **eight** in the same chapter; **eight is what the page and
+  `state/current.md` now both carry**, because she wrote into the fourth pair that morning. ch 809 also dated the
+  strip's arrival three hundred years late; **it came up on the first of the month beginning 2,294** (ch 789, ch 793).
+- **Eight chapters with the wrong month.** ch 801, 802, 804, 805, 806, 807, 808 and 809 all opened on the month
+  beginning 2,594, which belongs to days 2,594–2,623. **They now open on 2,624 and 2,654 as the day table requires,
+  and every internal back-reference in those eight was re-derived against the day table rather than patched.**
+  Two anchors were used: the seven was written on **the fifth of the month beginning 2,594, day 2,598**, so from
+  ch 808 it is *the fifth of the month before last* and sixty-seven days old; and the head figure was worked out on
+  **the eighth of the month beginning 2,624, day 2,631**, so from ch 808 and ch 809 it is *the eighth of the month
+  before last*.
+- **A board declared gone.** ch 801 said in one line that the board with words on it *is not in that stack*. ch 798
+  has her put it back on the top herself and she touches all forty afterwards. **The line now says what the page
+  actually holds: it is in there and she still cannot tell which one it is.**
+- **The ch 808 objection is the boy's, not Yuan's.** The card assigned it to Yuan; the chapter was written with a
+  bare `He said,` whose speaker says *you told **a boy of sixteen***, which identifies him unambiguously, and there
+  is no frame scene in this batch. **The chapter is right and the card and the state file were wrong. `state/current.md`
+  and this file now say he does not speak in Batch 0002 at all.** The objection itself — that a column with a price
+  at the head is a column of amounts and the seven went in as a count — is unchanged and is still the right one.
+- **Runs of consecutive `She said,`.** The longest in the batch was eight, against `AGENTS.md`'s three-paragraph
+  ceiling on consecutive documentary register. **Nine speeches became narration across ch 799, 800, 804, 806, 808,
+  809 and 810, and the longest run now in the batch is four.** Genuine exchanges, where she and he go back and
+  forth, were left alone; they are the voice and not a register failure.
+- **A chapter ending on a neutral action.** ch 797 ended *She said, "Goodnight."* **It now ends on the question she
+  is carrying down the stair, which is the chapter's actual ending and was already on the page four paragraphs
+  earlier.**
+- **Self-colliding section headings.** ch 798's `## Words And Not Cuts` and ch 808's `## Sixty-Eight` each repeated
+  their own chapter title. Both renamed, and the two new headings from the pass checked against every heading in
+  the volume.
+- **Smaller date faults, all re-derived rather than nudged.** ch 796 *on the twelfth of that month* for the two
+  inches, which belongs to the twelfth of 2,534 and is now named · ch 796's **four nights** with a lamp that has
+  stood on that table since the seventh, which at day 2,601 is **one night, since last night**, named as such ·
+  ch 799 *four days before the seventh stage*, which is eight, and the descent it describes as the one with
+  nothing in either hand, which is not that descent at all · ch 800 *there is one of them tomorrow*, which is the
+  first of the month tomorrow with the touching on the morning after · ch 802 *the day after tomorrow* for the
+  first of the month, which is tomorrow, and *the fifteenth, four days after* for the stage, which is **the
+  thirteenth, thirteen days after** · ch 802's two asks dated to the twenty-second of 2,534 and the fifth of 2,594,
+  which are **the twelfth of 2,534 (ch 782) and the eighth of 2,594 (ch 796)** · ch 806 *the second hour yesterday*
+  for a bundle that came nine days ago · ch 806 and ch 805 *four hundred and forty-one days* in this room, which is
+  **three hundred and sixty-two and three hundred and sixty-one** · ch 807's *nine days*, which cannot be
+  reconciled with that chapter being the eleventh, and are now **the five nights since the sixth**, which reconcile
+  with her three days of anger stopping on the ninth · ch 807 *since the second of that month when I did that
+  under the far end of this table*, which is nothing that happened, and is now the sixth and the working-out ·
+  ch 808 *for nine days*, now *since the thirtieth of the month before last* · ch 809 *on the fourth of this month*
+  for two separate things that happened on the eighth of 2,624 · ch 810 *on the fourteenth I said the cost*, which
+  was the thirteenth, and *at about the second hour and twenty of the morning* for the forty-first stroke, which
+  came after the man was off that stair and the room had been quiet for a hundred and forty counts.
+- **The pass was re-reviewed after it ran and the re-review closed five further findings**, all of them damage the
+  pass itself had done: ch 799 narrated the turn arriving twice and carried a sentence that could not parse
+  (*going up from the top*) · ch 800 had her climb out from under that table twice, once in a beat the pass
+  inserted · ch 796 carried an untagged verbless quotation paragraph · ch 802 repeated one action line verbatim.
+  **All five are closed.** The first reviewer also cleared ch 800's *the second of the month beginning 2,324,
+  which is the twenty-fourth of the three hundred and twenty-two*, which is left standing because both halves of it
+  agree with each other and with `state/current.md`.
 
 ### What Batch 0003 inherits and may not re-open
+
+- **The batch boundaries moved once and the record is `workspace/volume-14-batch-0003/PROMPT.md`.**
+  `outline/volume-14.md`'s escalation table gives Batch 0003 as days 2,685–2,720 and Batch 0004 as 2,721–2,780,
+  and that band cannot hold fifteen chapters once ch 818 is fixed to a bundle day: bundles come up on a first of a
+  month, the only first inside 2,685–2,720 is **2,714**, ch 818 is the eighth chapter of the batch, and seven
+  chapters then have to fit into 2,715–2,720. **Batch 0003 is therefore 2,685–2,721 and Batch 0004 is 2,722–2,780.**
+  **No chapter range moved, no stage date moved and ch 840 is still day 2,780.** It has been carried into
+  `state/current.md` as well.
 
 - **The boy has all of it about the second place since ch 780 and nothing in this batch changed that.** No chapter
   in ch 796–810 says the word *addressed* or *the right size*, has him ask whether there is a second place, or has
@@ -957,9 +1056,11 @@ scene) became **Two Turns And Not A Knot** · ch 807 *The Boy And The Cord* (the
   further, the vessel went down the stair empty at ch 795, and a lamp has to be carried up eight hundred and eighty
   steps.** Its unit of measurement is now the width of her own hand and that is a fact about her, not about volume.
 - **Yuan** is Court, second rung, readable by the room's hand since ch 748, found at ch 749 with the bill raised
-  and unpaid. **In this batch he spoke once, at ch 808, in the present tense, in her own mouth, in her own hearing,
-  and his one objection was the right one and she took the stage anyway.** One frame scene in the volume and it is
-  ch 812's. **No figure of what is left of him on any page and none may be.**
+  and unpaid. **In this batch he did not speak at all: there is no frame scene in ch 796–810 and the tenth one is
+  ch 812's.** The one objection in the batch, at ch 808, is the boy of sixteen's, spoken in her own hearing and in
+  the ordinary room, and it was the right one and she took the stage anyway. **He has spoken once in Volume 14, at
+  ch 791, in her own hearing and not in a marked frame, and he has bought nothing.** **No figure of what is left of
+  him on any page and none may be.**
 - **Not spent and not to be spent early:** the place described as kept (ch 818) · the terms with the price (ch 826)
   · IV9 (ch 828, day 2,732, sixty-six days) · the third hand's *address*, which is Volume 15's per `outline/series.md`
   §7 milestone 8, and **nothing in Batch 0003 may have anything speak to him that is not her** · the two remaining

@@ -3761,8 +3761,9 @@ chapters, 28,862 words of body prose on method B, average 1,924, zero bracketed 
    out loud, from the shape of her own wood: it is the figure everything underneath it is read against, which makes
    it a price, and a price does not date and does not add up. So her column is a column of amounts and not a
    record of what happened, the five and the seven are amounts against ten days, twenty-one hours and thirty-six
-   minutes, and the nine empty pairs are nine entries rather than nine nights.** **New at ch 798 and ch 800: a
-   paragraph of words in her own handwriting is in the stack of forty boards and she cannot find it and cannot find
+   minutes, and the empty pairs are entries in a column of amounts rather than nights — nine of them until ch 809,
+   which wrote the eighth into the fourth pair and left eight.** **New at ch 798 and ch 800: a paragraph of words in
+   her own handwriting is in the stack of forty boards and she cannot tell which of the forty it is and cannot find
    out whether that room reads words or only cuts. At ch 810 the room copied a third hand's board exactly, which
    is the first evidence on the page that it reads what it is not given.** She has said she is not going to write to
    the price. Open.
@@ -3773,12 +3774,15 @@ chapters, 28,862 words of body prose on method B, average 1,924, zero bracketed 
    it and she is not going to make one.** **The finding she cannot put anywhere: he did not ask her permission, and
    she found out he had not asked on purpose.** Open, and Batch 0003 runs the chapter where he says yes and
    everything after it is done inside a record with three hands in it.
-5. **THE VOICE, HEARD BY A PERSON — spent once and not repeated.** **At ch 808 Yuan objected again, out loud, in
-   her own mouth, in her own hearing, and his objection was the right one: a column with a price at the head is a
-   column of amounts, so the column is reading a count she made against a price she cannot read, and the only way of
-   finding out what the column is doing is to use it. She took the stage anyway.** He has now spoken in two batches
-   of Volume 14 and bought nothing both times. **The tenth frame scene is ch 812 and he does not get into it and
-   nothing in Batch 0003 may have anything speak to him that is not her.**
+5. **THE VOICE, HEARD BY A PERSON — the objection is spent once and it is the boy's, not his.** **At ch 808 the
+   boy of sixteen objected, out loud, in the ordinary room and in her own hearing, and his objection was the right
+   one: a column with a price at the head is a column of amounts, so the column is reading a count she made against
+   a price she cannot read, and the only way of finding out what the column is doing is to use it. She took the
+   stage anyway.** **CORRECTED IN THE REVIEW PASS: an earlier record of this thread and of Batch 0002's card
+   credited this objection to Yuan and said he spoke in her own mouth. He did not speak in ch 796–810 at all — there
+   is no frame scene in that batch — and nothing on the page says he did.** His one speech in Volume 14 is at ch 791,
+   in her own hearing and not in a marked frame, and it bought nothing. **The tenth frame scene is ch 812 and he does
+   not get into it and nothing in Batch 0003 may have anything speak to him that is not her.**
 6. **THE STAGE, AND WHY IT WENT IN WHERE IT DID — the seventh stage's answer is superseded by the eighth's.**
    **Eight went into the fourth pair of cuts at ch 809, at sixty-eight days, on the thirteenth of the month
    beginning 2,654, in oil light at the near end of that table, in her own hand, read out loud first.** The

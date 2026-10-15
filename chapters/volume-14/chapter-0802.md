@@ -1,8 +1,8 @@
 # Already Agreed
 
-She stood four feet off the near end of that table on the thirtieth of the month beginning two thousand five hundred and ninety-four at about the seventh hour and looked at a lamp that has been standing on the top of the wood a foot in from the edge since the seventh of the month before this one.
+She stood four feet off the near end of that table on the thirtieth of the month beginning two thousand six hundred and twenty-four at about the seventh hour and looked at a lamp that has been standing on the top of the wood a foot in from the edge since the seventh of the month before this one.
 
-And she did arithmetic about a morning instead of doing arithmetic about a day, because the day after tomorrow was the first of a month and a man was going to come up nine hundred and four steps in the dark.
+And she did arithmetic about a morning instead of doing arithmetic about a day, because the next morning was the first of a month and a man was going to come up nine hundred and four steps in the dark.
 
 The light went a hand's width along the wood and no further.
 
@@ -38,7 +38,7 @@ She said, “And that is not a reason. That is me not wanting a figure of mine t
 
 She put her hand flat on the wood beside the strip.
 
-She said, “So it stays where it is. That is the whole of the preparation and it is not very much and I have made it out loud so that it is in here before it happens.”
+She said, “So the strip of pale wood stays where it is, with two of my own figures in it, and there is a cloth going over forty boards a foot away from it tomorrow morning, and I am not going to be the woman who could not stand to have that.”
 
 ## The Second Asking
 
@@ -48,7 +48,7 @@ She said, “I am going to ask you for a night again.”
 
 He said, “You are.”
 
-She said, “The first of the month beginning two thousand five hundred and ninety-four. I want you here at the seventh hour with a lamp in your hand, and I am asking you for it in advance and not on the morning.”
+She said, “The first of the month beginning two thousand six hundred and fifty-four. I want you here at the seventh hour with a lamp in your hand, and I am asking you for it in advance and not on the morning.”
 
 He said, “Why in advance.”
 
@@ -68,7 +68,7 @@ He said, “You are not going to tell me what it costs.”
 
 She said, “I am not, because I have already had that out loud on the seventh of the month beginning two thousand five hundred and ninety-four and I do not have a second version of it.”
 
-She said, “And the other one is the stage, and it is the fifteenth of that month, four days after, and I have not said that out loud to anybody and I am saying it to you at about the eighth hour on the thirtieth of a month because a rule I have is that a thing gets said nine days before it is a thing.”
+She said, “And the other one is the stage, and it is the thirteenth of that month, thirteen days after, and I have not said that out loud to anybody and I am saying it to you at about the eighth hour on the thirtieth of a month because a rule I have is that a thing gets said nine days before it is a thing.”
 
 He said, “You have said the first and not the second.”
 
@@ -76,7 +76,7 @@ She said, “I have said the first and I have worked out the second and they are
 
 She waited for about a count of ninety.
 
-She said, “That is nine days early and I am not apologising for it and you can do what you like with it.”
+She said, “That is four days earlier than the rule and I am not apologising for it and you can do what you like with it.”
 
 ## Worse Than Being Asked
 
@@ -86,11 +86,11 @@ He said, “You do not have to ask me twice.”
 
 She stood there.
 
-He said, “You asked me on the twenty-second of the month beginning two thousand five hundred and thirty-four and I came. You asked me in the doorway on the fifth of the month beginning two thousand five hundred and ninety-four and I came before the fifth hour. And you have asked me twice and both times I have said yes, and so you did not have to ask this one, and you asked it anyway, which means you have asked me twice for one night.”
+He said, “You asked me on the twelfth of the month beginning two thousand five hundred and thirty-four and I came. You asked me at this table on the eighth of the month beginning two thousand five hundred and ninety-four and I said yes in about four seconds. That is twice and both of those times I had said yes before you had finished asking, and you asked a third time this morning, so you did not have to, and I am telling you that you did not have to.”
 
 She said, “Say it the other way.”
 
-He said, “You did not ask me for tomorrow night. You told me what you are going to need and I agreed to it about three weeks ago and you have only now found out.”
+He said, “You did not ask me for tomorrow night. You told me on the eighth of that month what you were going to need one day, standing right here, and I agreed to it there and then, and you worked that out about a hundred and forty counts too late.”
 
 She said, “That is the other way and it is worse than being asked.”
 
@@ -100,7 +100,7 @@ He said, “You did not have to find out.”
 
 She said, “That is not a comfort and you know it is not, and I have been in this room three hundred and fifty-two days and I have not once been comfortable and being comfortable is not what I am asking about.”
 
-She put her hand flat on the wood beside the lamp.
+She put her hand flat on the wood again, on the far side of the lamp from the strip of pale wood.
 
 She said, “I have got a person in this building who has agreed in advance to do a thing for me and I did not know, and there is nothing in the world I can do about it, and it is exactly the shape of a debt and I have not got a name for it that makes it smaller.”
 

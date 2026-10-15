@@ -1,6 +1,6 @@
 # Eight
 
-She took the eighth stage on the thirteenth of the month beginning two thousand five hundred and ninety-four at the ninth hour, at the near end of a long table in a tower four miles up a mountain, on a strip of pale wood a foot long and two inches across, in her own hand, with the nib against her fourth rib.
+She took the eighth stage on the thirteenth of the month beginning two thousand six hundred and fifty-four at the ninth hour, at the near end of a long table in a tower four miles up a mountain, on a strip of pale wood a foot long and two inches across, in her own hand, with the nib against her fourth rib.
 
 The lamp was standing on the wood a foot in from the edge and the light went a hand's width along it and no further, and the lamp had come up that stair in the hand of a boy of sixteen, and she had got no figure at all for what was left in it and had not asked for one.
 
@@ -20,7 +20,7 @@ She said, “Here it is, once, slowly. Thirteen. Nine. Eight. Four stages into t
 
 She took her hand off.
 
-She said, “And it is eight. It has been eight since I woke up and I have spent eight hours being certain of it, and I want that on the page, because I have been certain of nothing at any length in this building before and I did not expect to be certain of this.”
+She said, “And it is eight. It has been eight since I woke up and I have spent eight hours being certain of it, and I want that said out loud, because I have been certain of nothing at any length in this building before and I did not expect to be certain of this.”
 
 ## Before The Nib
 
@@ -32,7 +32,7 @@ She stopped.
 
 She said, “That is wrong and I am going to say the right one and I am glad I said the wrong one, because it is the third time in nineteen years I have said a month wrong in this room and the two before it were both about to cost me a figure.”
 
-She said, “Eight stages into the seventh realm, taken at the ninth hour of the thirteenth of the month beginning two thousand six hundred and fifty-four, at the near end of a long table, on a strip of pale wood that came up that stair in an armful on the first of the month beginning two thousand five hundred and ninety-four, in my own hand, with a nib that has not touched a column in this building in nine years.”
+She said, “Eight stages into the seventh realm, taken at the ninth hour of the thirteenth of the month beginning two thousand six hundred and fifty-four, at the near end of a long table, on a strip of pale wood that came up that stair in an armful on the first of the month beginning two thousand two hundred and ninety-four, in my own hand, with a nib that has not touched a column in this building in nine years.”
 
 ## The Interval, Spoken Once More
 
@@ -40,7 +40,7 @@ And then she said the interval, with the nib in her right hand and not yet on th
 
 She said, “Two thousand six hundred and sixty-six less two thousand five hundred and ninety-eight is sixty-eight days.”
 
-She said, “It is not fifty-eight. Fifty-eight is what you use when that row holds one thing and the thing is standing still. It holds two things tonight and one of them is a count I wrote on the fifth of this month, and it is out of date by a day for every day I stand in this room, and there is no day on which it comes right again.”
+She said, “It is not fifty-eight. Fifty-eight is what you use when that row holds one thing and the thing is standing still. It holds two things tonight and one of them is a count I wrote on the fifth of the month before last, and it is out of date by a day for every day I stand in this room, and there is no day on which it comes right again.”
 
 And then she wrote it.
 
@@ -50,7 +50,7 @@ She put the nib into the fourth pair of cuts, which is the first one below the p
 
 She said, out loud, with the nib on the wood:
 
-“An empty pair of cuts is for the night you need somewhere to put a figure that you have got to write with your own hand on a piece of wood that is yours, in a room where there is no lamp in a cage and no look coming and nothing but oil. I said that on the fifth of this month and I have said it once and I am not going to say it again.”
+“An empty pair of cuts is for the night you need somewhere to put a figure that you have got to write with your own hand on a piece of wood that is yours, in a room where there is no lamp in a cage and no look coming and nothing but oil. I said that on the fifth of the month before last and I have said it once and I am not going to say it again.”
 
 She said, “Eight.”
 
@@ -70,9 +70,9 @@ She said, “Eight.”
 
 She stood there for about a count of a hundred and forty with the strip of pale wood face up in front of her and the lamp burning a hand's width along it.
 
-She said, “It is eight and I have got nine pairs under it now with nothing in them and one with eight in it, and I am eight stages into the seventh realm, and I know what that is worth at the top of that column and it is not a number.”
+She said, “It is eight and there are eight pairs under it now with nothing in them and one with eight in it, and I am eight stages into the seventh realm, and I know what that is worth at the top of that column and it is not a number.”
 
-She said, “And a boy of sixteen is standing four feet off me and a hand at the far end of that table has a column with a price at the head of it and I have just put a count into it, and on the fourth of the month beginning two thousand five hundred and ninety-four a woman worked out that a column like that is a column of amounts.”
+She said, “And a boy of sixteen is standing four feet off me and a hand at the far end of that table has a column with a price at the head of it and I have just put a count into it, and on the eighth of the month before last a woman worked out that a column like that is a column of amounts.”
 
 She said, “So I do not know what eight is in that column. I know that I am eight. And that is the first time in nineteen years I have put a figure into a thing and not known what the thing is going to do with it.”
 
@@ -96,13 +96,15 @@ He said, “Read.”
 
 She said, “I cannot be unread where I stand.”
 
+She put the strip of pale wood down on the wood in front of her, face up, and left her left hand flat on the table beside it, and the light came a hand's width along both of them and stopped.
+
 She said, “That is the whole of it and it is four seconds long. It is not the arm and it is not the forearm and it is not the figure going off my hand while the nib is still on the wood, and I have paid that twice. This is a different thing and it has come out of the taking and not out of the writing.”
 
-She said, “And here is the plain version, because a cost that is not said in the plain version does not get said at all.”
+And she said the plain version next, because a cost that is not said in the plain version does not get said at all.
 
 She said, “There is a room with a column in it that reads. And it has been copying for four hundred years whatever goes on that table, in a stroke that starts in the same place on every board, four to a minute, and it does not stop on anything. And from tonight there is not one place in this room where I can stand that nothing in it can make out what I am.”
 
-She said, “I said eight out loud in oil light in a room where something was taking it, and I put eight in a column with a price at the head of it, and I told a boy of sixteen the whole of that column on the eighth of this month, and I said a name in this room on the fifth of this month in front of him.”
+She said, “I said eight out loud in oil light in a room where something was taking it, and I put eight in a column with a price at the head of it, and I told a boy of sixteen the whole of that column on the eighth of the month before last, and I said a name in this room on the fifth of the month before last in front of him.”
 
 She said, “And none of those three things can be taken back, and any one of them could be the one that gets written on a board.”
 
@@ -110,9 +112,11 @@ And she stood there for about a count of a hundred and forty with the strip of p
 
 She said, “Sixty-eight days. Eight. A nib that has not touched a column in this building in nine years. And a figure that came off my own hand while the nib was still on the wood, the fourth time in my life and the fourth time on something that is mine.”
 
-She said, “There is a column at the far end of this table with a price at the head of it that I have read for three hundred and sixty-five days as a number that had gone stale, and on the fourth of this month I read it as a price that does not date, and on the fourth of this month I worked out that it is a column of amounts, and tonight I put an amount in it that I cannot read.”
+She said, “There is a column at the far end of this table with a price at the head of it that I have read for three hundred and sixty-five days as a number that had gone stale, and on the eighth of the month before last I read it as a price that does not date, and worked out that it is a column of amounts, and tonight I put an amount in it that I cannot read.”
 
-She said, “And there are eight empty pairs under the eight now. Nine a month ago. And I counted them out loud this morning and there were eight, and I counted them again after the writing and there were eight.”
+She said, “And there are eight empty pairs under the eight now. Nine before I wrote. And I counted them out loud this morning and there were eight, and I counted them again after the writing and there were eight.”
+
+She squared the strip up with two fingers of her left hand and the lamp went on burning a hand's width along the near end of that table, and she let about a count of a hundred and forty go past before she said the last of that night.
 
 She said, “And a man is going to come up nine hundred and four steps in the dark in eighteen days and put forty boards on this table and go back down, and the figure I put in this wood tonight will be eighteen days old on that morning, and it will be a count, and there is not one instrument in this building that could tell me whether a count of eighteen days is anything at all.”
 

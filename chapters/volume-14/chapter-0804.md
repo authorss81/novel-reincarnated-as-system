@@ -1,6 +1,6 @@
 # Nothing Answers
 
-She stood four feet off the near end of that table on the seventh of the month beginning two thousand five hundred and ninety-four at about the seventh hour and waited for something, and there was nothing, and she had known there would be nothing, and she said so out loud at about the fourth count of waiting, which is the rule she has kept since she was nine years old.
+She waited for something on the seventh of the month beginning two thousand six hundred and fifty-four at about the seventh hour, four feet off the near end of that table, and there was nothing, and she had known there would be nothing, and she said so out loud at about the fourth count of waiting, which is the rule she has kept since she was nine years old.
 
 The lamp was standing on the wood a foot in from the edge and the light went a hand's width along it and stopped, and that hand's width was the same hand's width it had been on the first of that month, and everything else in that room was in the same place it had been in six days ago.
 
@@ -58,11 +58,15 @@ She said, “Everything I have said out loud in this room for nineteen years has
 
 She said, “Six days ago there was a flame in this room when I said a sentence. That is the whole difference and it is not a small one, and it means that for the first time in nineteen years a thing I said out loud was said in front of something that could have stopped me.”
 
+She had not moved off that spot in any of it, and the lamp was burning a hand's width along the near end of that table with her own left hand flat on the wood at the edge of the light, and about a count of a hundred and forty of what she had meant to say had gone past without her noticing it go.
+
 She said, “And it did not stop me, and I am still here, and I am going on saying them. Because the other version of this is that I stop, and that I work it out quietly, and that the only record of it is on a strip of pale wood in a room with no light in it that one person on two occasions has been able to read.”
 
 She said, “And a record that has not been heard is not a record. It is a thing that happened.”
 
-She said, “And there is a second reason and I am not proud of it. I like it. I have been in this room three hundred and fifty-nine days saying figures into a dark room and not one thing in this county could have told me whether one of them was a mistake. Six days ago I said something and it went twenty-two paces and came back as silence, and I have been better for it. I have slept. I did not know that I was not sleeping before.”
+And there was a second reason and she was not proud of it. She liked it. She had been in this room three hundred and fifty-nine days saying figures into a dark room, and not one thing in this county could have told her whether any of them had been a mistake.
+
+She said, “Six days ago I said something and it went twenty-two paces and came back as silence, and I have been better for it. I have slept. I did not know that I was not sleeping before.”
 
 She said, “That is what a room that has heard you does to a person who has been talking to a wall, and I do not know yet whether it is a good thing, and I am going to keep saying things out loud either way.”
 
@@ -90,11 +94,13 @@ She said, “And there is a second half of the cost and it is the one I am going
 
 She said, “I told that room out loud, standing, in the ordinary voice, that I know what it is working to. And I have worked out since, standing on this floor on the fourth night of those six days, that a thing which is working to a set of figures it was never given is a thing that is working without one of the figures in the room.”
 
+She stopped there and put two fingers of her left hand on the wood beside the lamp and left them there, because what came next was the part she had not got a figure for.
+
 She said, “I do not know what that does to a sentence. I do not know whether a thing that is working blind gets a sentence wrong. I have got no figure and I have got no way of getting one and I am not going to stand here at the ninth hour and work out what a room does with a sentence by thinking about it.”
 
 She said, “All I have is this. Every figure I have said out loud in this building for nineteen years went into a room in the dark, and the room was doing whatever it does with a figure in the dark, and that was the whole arrangement, and the arrangement worked, because nothing in this room has ever once been out of date that I could see.”
 
-She said, “And as of six days ago the light in this room is mine and hers, a boy’s, and the arrangement has changed, and I have no figure for what it does to a figure when the light is standing a foot away from where I am saying it.”
+And as of six days ago the light in that room was a boy's and not the room's, and the arrangement had changed, and she had no figure at all for what a flame standing a foot away from where a person is saying a figure does to that figure.
 
 She said, “So I am going to keep saying things out loud. In the dark, on a floor, on a landing, four flights down, and in front of a person. All of them. And if one of them is wrong then it is wrong and I will have said it, and that is the only way I have ever found out that a thing was wrong.”
 

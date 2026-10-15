@@ -32,13 +32,13 @@ And she said that out loud at about the fourth hour, standing four feet off the 
 
 She said, “I did nothing for nine days that I am not going to account for, and then I did one thing.”
 
-She said, “On the fourteenth I said the cost out loud. I cannot be read where I stand. And then I stopped saying anything about it, because a cost that gets said again is a cost that is being paid in instalments, and this one was paid whole.”
+She said, “On the thirteenth I said the cost out loud. I cannot be read where I stand. And then I stopped saying anything about it, because a cost that gets said again is a cost that is being paid in instalments, and this one was paid whole.”
 
-She said, “And for nine days I did the thing I do every morning in this room, which is say every figure I have got out loud once so that none of them is only in my head. And I said eight out loud about two hundred counts on every one of those nine mornings, and the price out loud, and the days, and the number of empty pairs, and on the eighteenth day I said eight one hundred and forty times.”
+And for nine days she had done the thing she does every morning in this room, which is say every figure she has got out loud once so that none of them is only in her head. She had said eight out loud about two hundred counts on every one of those nine mornings, and the price out loud, and the days, and the number of empty pairs, and on the eighteenth day she had said eight one hundred and forty times.
 
 She said, “And on the same nine days I did not once go and look at the far end of that table.”
 
-She said, “That is not discipline. I have been calling it discipline for nine days. It is that I do not go to the far end of this table with a lamp in my hand and find out what it is doing, and I am not going to find out tonight either until I have to.”
+That was not discipline. She had been calling it discipline for nine days. It was that she did not go to the far end of that table with a lamp in her hand and find out what it was doing, and she was not going to find out tonight either until she had to.
 
 ## Walking It With A Lamp
 
@@ -60,7 +60,7 @@ She said, “It is a name.”
 
 She said, “It is the name I have been carrying against my ribs for ten years and it is on a board a foot long and two inches across in a hand that has never been in this room.”
 
-She said, “It is not my hand. My hand has three fingers and a thumb on it and the writing on this is not written by three fingers and a thumb. It is not the hand at the far end of this table either. That hand has written four hundred years of strokes into that column and every one of them starts in the same place and goes the same way and this is not one of them.”
+It was not her hand. Her hand had three fingers and a thumb on it and the writing on this was not written by three fingers and a thumb. It was not the hand at the far end of this table either. That hand had written four hundred years of strokes into that column and every one of them started in the same place and went the same way, and this was not one of them.
 
 She said, “It is a third hand.”
 
@@ -80,7 +80,7 @@ She said, out loud, in the ordinary voice:
 
 “It has copied it.”
 
-She said, “There is the name in the column at the far end of this table in the room's own hand, stroke for stroke, letter for letter, and the hand at the far end of this table put it there at about the second hour and twenty of the morning with one stroke that took a count of nine, and it did not stop on it.”
+She said, “There is the name in the column at the far end of this table in the room's own hand, stroke for stroke, letter for letter, and the hand at the far end of this table put it there after the man was off that stair and the room had been quiet for about a count of a hundred and forty, with one stroke that took a count of nine, and it did not stop on it.”
 
 She said, “It did not stop on it. That is what I want said first and I want it said out loud, because everything I have ever been told about a thing that works to a set of figures is that it stops on the figures that are wrong.”
 
@@ -106,10 +106,12 @@ She said, “It has been written down. Not by me and not by the hand at the far 
 
 She said, “He is readable now. By the thing that made him. And that cannot be put back.”
 
+And she stood in the dark at the far end of that table with the light a hand's width off her own hand and let that sit for about a count of a hundred and forty before she went on, and what she said next was not to the boy and was not to the room.
+
 She said, “And I am not going to work out tonight what a thing that reads does with a name. I have got no figure for it and I am not going to make one up standing in the dark at the far end of a table with a lamp I cannot hold, and I have been in this room three hundred and eighty-three days and I have never yet been wrong about a thing in it in a way that mattered.”
 
-She said, “And I am not frightened. I want that said too, because it is going to look like fear to anybody who has not watched me and I would rather it was on the page.”
+Not fear. That was the first thing she checked, and she said so out loud before she said anything else about it, because it was going to look like fear to anybody who had not watched her, and she wanted it ruled out in the room.
 
-She said, “This is not fear. Fear is about the next one. This is about one that is already here and already copied and cannot be unread.”
+She said, “Fear is about the next one. This is about one that is already here and already copied and cannot be unread.”
 
 She said, “And I have got a strip of pale wood lying face up at the near end of this table with a price at the head of it and a five and a seven and an eight in three pairs of cuts, and one of those figures went into this room eighteen days ago, and I do not know what any of them is worth, and there is a name at the far end of this table now that somebody else has paid for.”

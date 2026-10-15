@@ -1,14 +1,14 @@
 # The Head Figure
 
-The first of the month beginning two thousand five hundred and ninety-four came and went the way the firsts have gone for four hundred years, which is that she was in this room and it came up nine hundred and four steps in the dark at the second hour and forty boards went on that table and a cloth went over them and a man went back down without looking at one of them.
+The first of the month beginning two thousand six hundred and twenty-four came and went the way the firsts have gone for four hundred years, which is that she was in this room and it came up nine hundred and four steps in the dark at the second hour and forty boards went on that table and a cloth went over them and a man went back down without looking at one of them.
 
-She did not restage it. She said it out loud on the fourth of the month beginning two thousand five hundred and ninety-four at about the seventh hour, standing at the near end of that table with a lamp standing a foot in from the edge and the light going a hand's width along the wood and no further, and she said it in about a count of forty and did not give it any more of her morning than that.
+She did not restage it. She said it out loud on the fourth of the month beginning two thousand six hundred and twenty-four at about the seventh hour, standing at the near end of that table with a lamp standing a foot in from the edge and the light going a hand's width along the wood and no further, and she said it in about a count of forty and did not give it any more of her morning than that.
 
 ## Eleven
 
-And on the second of that month she went in under that table and did it again, because she said out loud on the thirtieth of the last one that she was going to, and she has never once in nineteen years said a thing out loud in this room and then not done it.
+And on the second of that month she went in under that table and came out again, because she had said out loud on the thirtieth of the last one that she was going to, and she has never once in nineteen years said a thing out loud in this room and then not done it.
 
-It took a count of a hundred and forty and she said the number out loud on her knees with her right arm out in front of her.
+She said the number out loud from under it, on her knees, with her right arm out in front of her.
 
 She said, “Eleven.”
 
@@ -18,7 +18,7 @@ She said, “It was ten on the thirtieth and it is eleven now and that is becaus
 
 She said, “I have been putting my hand on those forty boards on the second of a month since I got into this room and I have never once had to say the number out loud to do it, and I have always known what it was, and knowing it quietly is not the same as saying it to a person, and I did not know that until four days ago.”
 
-She said, “Thirty-eight and two. Unchanged. And the board with the words on it is not in that stack, and I have gone over all forty twice and I cannot find it, and I am not going to say anything else about that tonight.”
+She said, “Thirty-eight and two. Unchanged. And the one with a paragraph of words in it is still in there on the top of the stack where I put it myself, and I have gone over all forty twice and I still cannot tell you which one it is, and I have stopped expecting to.”
 
 ## What She Did About The Fourth Board
 
@@ -71,6 +71,8 @@ She worked it out in about two hundred counts and she worked it out standing, in
 She said, “There is a figure at the head of this wood. Under it, in the first pair of cuts, is the same figure. And under that there are pairs of cuts going down in a row, one under another, and every one of them is the same size.”
 
 She said, “That is not a list of totals. If it were a list of totals the head would be a sum of the pairs under it, and it is not a sum of anything. It is the same figure twice, and then a column underneath it.”
+
+She had her hand flat on the wood and she moved it half an inch along it without lifting it, which is the only way she has of thinking.
 
 She said, “So the head is not counting anything.”
 

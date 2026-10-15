@@ -718,9 +718,10 @@ standing on the top of a twenty-two-pace table about a foot in from the near end
 goes a hand's width along the wood and stops — a hand's width being, since ch 796, the width of her own hand.** A
 strip of pale wood lies face up on that wood with a price at the head of it, ten days, twenty-one hours and
 thirty-six minutes, the same price in the first pair of cuts, a five in the second, a seven in the third and an
-eight in the fourth, all four in her own hand, and **nine pairs of cuts under that with nothing in any of them.**
+eight in the fourth, all four in her own hand, and **eight pairs of cuts under that with nothing in any of them.**
 Forty boards face up in a stack under the middle of the table, **one of which carries a paragraph of words in her
-own hand that she put there on the twentieth of the month beginning 2,594 and cannot find.** A bundle of papers
+own hand that she put there on the twentieth of the month beginning 2,594 and cannot tell from the other
+thirty-nine.** A bundle of papers
 under the far end, corded round twice and not knotted, dust on the top of it in the shape of the cord, **touched
 by two pairs of hands in nineteen years and not opened.** A bar nine feet nine flat against the wall on the left,
 broken end towards the door, not moved. **A cage lamp in a cage on a shelf at the far end, out for a hundred and
@@ -754,11 +755,14 @@ batch's, named once at ch 809: she cannot be unread where she stands.**
 ### Him
 
 **Yuan Sheng.** Court, second rung. Readable by the room's hand since ch 748, found at ch 749 with the bill raised
-and unpaid. **In Batch 0002 he spoke once, in the present tense, in her own mouth, in her own hearing, at ch 808, and
-his one objection was the right one and she took the stage anyway.** **The bill for being found is paid at ch 810
-and not explained. The address is Volume 15's.** No figure of what is left of him on any page and none may be.
-**One frame scene in this volume and it is ch 812's, and there is no eleventh anywhere in ch 781–840.** Volume 14
-allowance for `Ledger` is 0.
+and unpaid. **He does not speak anywhere in Batch 0002: there is no frame scene in that batch and the tenth one is
+ch 812's. The objection at ch 808 is the boy of sixteen's, spoken in her own hearing and not in a frame — an
+earlier record of this line and of the Batch 0002 card credited it to Yuan, and the review pass corrected the record
+rather than the page.** He has spoken once in Volume 14, at ch 791, in her own hearing and not in a marked frame,
+and has bought nothing. **The
+bill for being found is paid at ch 810 and not explained. The address is Volume 15's.** No figure of what is left of
+him on any page and none may be. **One frame scene in this volume and it is ch 812's, and there is no eleventh
+anywhere in ch 781–840.** Volume 14 allowance for `Ledger` is 0.
 
 ### The boy of sixteen
 
@@ -774,17 +778,17 @@ nothing on any board. He has eleven in his head and has worked out on the page w
 ### Standing relationships
 
 **Unforgiven, unthanked, unkept.** The year still carrying. `grep -oi forgiv`, `grep -oi "the year"` and
-`grep -oi thank` all return **0** over ch 796–810, and **0 `nobody`**, and 4 word-`eleven` against a volume line of
-thirty and forty. **Him, the voice.** Counted with her for ten years, asked at ch 609, staying at ch 658, given a
-pen at ch 689, said out loud twice (ch 748, ch 780), named out loud to a second person at ch 793, and **objected
-once in Batch 0002 at ch 808.** She said at ch 658 she had been reading him as a column for eight years and that
+`grep -oi thank` all return **0** over ch 796–810, and **0 `nobody`**, and 4 word-`eleven` against a volume cap of
+forty. **Him, the voice.** Counted with her for ten years, asked at ch 609, staying at ch 658, given a
+pen at ch 689, said out loud twice (ch 748, ch 780), named out loud to a second person at ch 793, and **not heard
+from at all in Batch 0002.** She said at ch 658 she had been reading him as a column for eight years and that
 sentence is not softened and not withdrawn. **Ning Wu** — at most once in Volume 14 and it is optional, never a
 visit, and it has not been spent. **Shuyin, the Hunter, Wei Ran, Feng Lushi, the people at the turn** — none on the
 page.
 
 ### What is next and what is not
 
-**Batch 0003 is ch 811–825, days 2,685–2,720, pressure *the keeping*.** Midpoint ch 812: **the tenth frame scene,
+**Batch 0003 is ch 811–825, days 2,685–2,721, pressure *the keeping* — the one cross-file conflict `outline/volume-14.md`'s escalation table cannot hold and Batch 0003's card is the record: 2,714 is the only first of a month inside the old band, ch 818 is fixed to it, seven chapters then have to fit 2,715–2,720, and so Batch 0003 is 2,685–2,721 and Batch 0004 is 2,722–2,780.** Midpoint ch 812: **the tenth frame scene,
 in the dark room away from her hearing, he says yes to the keeping — one sentence, present tense, to the second
 place — and he does not get into it.** Climax ch 822: **she refuses the keeping the first time, out loud, in the
 dark, and a no said there cannot be unsaid.** Irreversible step ch 822. **The place described as kept comes up the
@@ -794,7 +798,7 @@ nineteenth of the month beginning 2,714, at sixty-six days, cost *she cannot be 
 
 **The next first of a month is 2,714**, which falls inside Batch 0003. **Volume 14's bracket budget is zero in sixty
 (`outline/volume-14.md` D6) and Volumes 12, 13 and 14 have between them spent none; this batch spent zero in
-fifteen.** Three `nobody` and four word-`eleven` in ch 781–795 plus zero and four in ch 796–810; three speeches by
+fifteen.** Seven `nobody` and eight word-`eleven` in ch 781–795 plus zero and four in ch 796–810; three speeches by
 the one at that table in the whole book so far (one spent at ch 772, two to come at ch 826 and ch 838); **no
-`Court` spoken anywhere in Volume 14; no `Scribe` before ch 810 and one at ch 810 which is the verb *describes*
+`Court` spoken anywhere in Volume 14; no `Scribe` in ch 796–810 except one at ch 807 which is the verb *describes*
 and is the same false positive ch 723 and ch 789 carry**; and no moral answer anywhere in it.

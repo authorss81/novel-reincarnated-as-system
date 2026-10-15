@@ -16,7 +16,7 @@ And that was the whole of it, and she had said the same four words on the eleven
 
 Nine hundred and four steps in the dark is a thing you can do.
 
-She had done it once with nothing in either hand, four days before the seventh stage, and had come back up it, and had deliberately not counted, and the number she has is the number she counted in the dark that night.
+She had done it once in oil light, eight days before the seventh stage, and had come back up it without counting on purpose, and the number she has is the number she counted in the dark three times before that.
 
 That was the arrangement. One count. She said so at the top of that stair before she put her hand on the wall, out loud, in the ordinary voice, standing in the low doorway with the lamp in her left hand and her right arm open at her side.
 
@@ -28,17 +28,19 @@ And then she went.
 
 ## The Turn At The Bottom
 
-The light went along the stone about a count ahead of her and went away behind her as she came down, and the stair is two flights and a turn, and the turn is at about the thirty-second and it is the only place on that whole stair where a lamp in a hand is worth anything at all.
+The light went along the stone about a count ahead of her and went away behind her as she came down, and there is one turn in that stair, and it is at about the thirty-second from the door at the bottom of it, and it is the only place on that whole stair where a lamp in a hand is worth anything at all.
 
-The first two flights are the same stone as the tower's own and she knows them under her feet without the lamp, and she counted them without looking, out loud, and got four hundred and forty to the turn.
+The stone is the same stone as the tower's own the whole way down and she knows it under her feet without the lamp, and she counted it without looking, out loud, and got on with it for the better part of an hour.
 
-And then the stair changed, the way it changed when she first came in here, and there is a place about sixty steps past the turn where the tread is worn in the middle and a place about a hundred and ten past it where the tread is worn at the left-hand edge. She found the second of those in the dark at about the two hundredth count and said so out loud because she says figures before they are anything else.
+And then, about sixty steps out from the turn, the stair changed on her the way it changed when she first came in here, and there is a place where the tread is worn in the middle and a place about fifty steps further back from it where the tread is worn at the left-hand edge. She found the second of those tonight at about the eight hundredth count and said so out loud because she says figures before they are anything else.
 
-She stopped before it, held the lamp out round the corner, looked at where the next four steps were, and then put her weight on them.
+She stopped before that one and looked at where the next four steps were, and then she put her weight on them.
 
 That had taken her a count of nine the first night and it took her a count of nine tonight, and she had thought for two days that it was going to take longer and that this was going to be the thing that was different about counting a stair in the light.
 
 It was not.
+
+Then the turn came up at her out of the dark at about the eight hundred and seventy-second, and she stopped at the top of it and held the lamp out at the height of her own chest with her left arm straight, so that the light went round the corner before she put her weight on it, and it went round, and she went round after it.
 
 ## At The Bottom
 
@@ -46,13 +48,13 @@ She got to the bottom on flat stone against a wall she does not go past, and she
 
 And she did the thing she had come down here to find out whether she could do, which was to count it wrong.
 
-She went back up about a hundred counts of steps and turned round and came down those hundred again, on purpose, out of order, skipping, and put the number back together at the bottom, and it came to the same figure, and she did it again going up from the top with a different order of the same steps and it came to the same figure.
+She went back up about a hundred counts of steps and turned round and came down those hundred again, on purpose, out of order, skipping, and put the number back together at the bottom, and it came to the same figure. Then she did it a third time from the top with the steps taken in a different order altogether, and a fourth time up off the flat stone with the lamp held in her right hand instead of her left, and both of those came to the same figure.
 
 She said, out loud, on the flat stone at the bottom of that stair:
 
-“I have tried it four ways and it is four hundred and forty to the turn and four hundred and sixty-four to the door and it is nine hundred and four, and there is nothing in the light of a lamp that makes it come out as anything else.”
+“I have tried it four ways and it is eight hundred and seventy-two to the turn and thirty-two from the turn to the door, and it is nine hundred and four, and there is nothing in the light of a lamp that makes it come out as anything else.”
 
-And she said, “And there was a version of this stair in the dark that was nine hundred and something else, about four days ago, that I have been carrying since I got into this building, and it has been gone for about a count of a hundred and forty and I am not going back down to find out whether I can find it.”
+And she said, “And I have been carrying a second stair since the twenty-second of that month that came to nine hundred and something else, and there is no such stair, and it has gone now that this one has come to the same figure twice, and I am not going back down to find out whether it comes back.”
 
 She put the lamp down on the flat stone and held it at arm's length so that the light went round her own feet and she could see where she was standing, and she stood there and looked at a wall she does not go past.
 
@@ -64,11 +66,7 @@ She picked the lamp up.
 
 She said the numbers out loud the whole way down.
 
-She got to the bottom on flat stone against a wall she does not go past, and she stood there with the lamp held down at her own knee and the breath in her own chest at seven on the way down, and she did it.
-
-And it came to nine hundred and four.
-
-She stood on the flat stone at the bottom of that stair for about a count of a hundred and forty and then she went back up, saying the numbers out loud, all of them, from the bottom up, which takes a count longer than going down does because you are saying them and you are climbing.
+And she stood on that flat stone for about a count of a hundred and forty before she went back up, saying them out loud again, all of them, from the bottom up, which takes a count longer than going down does because you are saying them and you are climbing.
 
 And it came to nine hundred and four the other way up as well.
 
@@ -86,7 +84,7 @@ She said, “And there is a second reason and it is worse and I am not going to 
 
 She said, “It has come to the same number twice, and that is not the answer I wanted, and I am not going to say tonight what the answer I wanted was.”
 
-She said, “I have counted the breath in my own chest at four and at seven and at nine for nineteen years and I have counted every day of every room I have been in and I have never held two numbers for one thing. Not once. Not for a day, not for a stair, not for anything.”
+And she had counted the breath in her own chest at four and at seven and at nine for nineteen years, and she had counted every day of every room she had ever been in, and she had never held two numbers for one thing. Not once. Not for a day, not for a stair, not for anything.
 
 She said, “And I have spent nineteen years building a life out of that and it has worked and it is the only method I have, and tonight I put it up one stair against a lamp and it agreed with itself, and I am going to sit down on that floor and be frightened of it for about a count of ninety.”
 

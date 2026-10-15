@@ -1,6 +1,6 @@
 # Two Turns And Not A Knot
 
-She went to the far end of that table on the tenth of the month beginning two thousand five hundred and ninety-four at about the eighth hour to decide about the bundle, and she decided, and the deciding took her about a count of ninety and the rest of the night she did not get back.
+She went to the far end of that table on the tenth of the month beginning two thousand six hundred and fifty-four at about the eighth hour to decide about the bundle, and she decided, and the deciding took her about a count of ninety and the rest of the night she did not get back.
 
 She carried the lamp twenty-two paces and put it down about four feet short of the far end and lay down on the stone under that end of the table with the light coming up onto the underside of the boards, and there was the bundle where it has been for three hundred and sixty-two days.
 
@@ -24,7 +24,7 @@ She said, “And I have not been able to work out why I want it badly enough to 
 
 ## The Fifth Time
 
-And while she lay there she went over the five times, out loud, one after another, because she does not let a thing stand that has not been put into words where it exists and because she had four hundred and forty-one days of not saying it.
+And while she lay there she went over the five times, out loud, one after another, because she does not let a thing stand that has not been put into words where it exists and because she had three hundred and sixty-two days of not saying it.
 
 She said, “The first was the nineteenth of the month beginning two thousand four hundred and forty-four and my hand went to the cord and came back.”
 
@@ -32,11 +32,13 @@ She said, “The second was the third of the month beginning two thousand four h
 
 She said, “The third was the ninth of the month beginning two thousand four hundred and sixty-four and I had a figure to put in that bundle and I did not put it in and I went away and I have not been back able to think about that one.”
 
+She lay still on the stone for about a count of a hundred and forty with the light coming up onto the undersides of those boards above her and the cord two hands in front of where her right hand was, and she did not put it there.
+
 She said, “The fourth was the twelfth of the month beginning two thousand five hundred and thirty-four and I had my arm in to the cord when the lamp went out, which is the only time I have ever been in this room with my arm in it and nothing to see by.”
 
 She said, “And the fifth was the twelfth of the month beginning two thousand five hundred and sixty-four, on this floor, with a lamp I had carried twenty-two paces, with the dust on the top of it and the shape of the cord in the dust, and I said the word tonight out loud on purpose.”
 
-She said, “Five, in nineteen years, and every one of them on a different day of a different month, and I have never once done it on the second of a month when there was a light in this room.”
+Five of them in nineteen years, every one of them on a different day of a different month, and she had never once done it on the second of a month when there was a light in this room.
 
 She said, “And I have done all five of them with no one standing at this end of this table except on the last two, and the last two are the only two where I could have been asked to stop.”
 
@@ -50,7 +52,7 @@ She said, “It is what I will be afterwards. In nineteen years I have not been 
 
 She said, “And if I open it then I am a person who opened a thing in this building, and there is not one figure anywhere in this county that can tell me what the difference is between that and a hand that goes along a column four to a minute and does not stop.”
 
-She said, “And I would rather not be the first one in four hundred years who found out by doing it.”
+And she would rather not be the first one in four hundred years who found out by doing it, and she said that as well, flat, with her face about a hand's width above the stone.
 
 She said, “That is the whole reason and it has been the whole reason the whole time and it took me nineteen years to say it out loud, and it is not about the bundle at all.”
 
@@ -64,7 +66,7 @@ He said, “You said that before.”
 
 She said, “I said it on the twelfth of the month beginning two thousand five hundred and sixty-four on this floor with a lamp I had carried twenty-two paces, and I said it because I had decided a thing with no date on it and it had cost me two days of thinking.”
 
-She said, “So I am going to say it again tonight, because tonight is the tenth of this month and a bundle came up this table at the second hour yesterday with a flame standing a foot in from the near end of it, and I want the word in the room on the night when I have had light to look at this by.”
+She said, “So I am going to say it again tonight, because tonight is the tenth of this month and a bundle came up this table at the second hour nine days ago with a flame standing a foot in from the near end of it, and I want the word in the room on the night when I have had light to look at this by.”
 
 She said, “And I am not opening it.”
 
@@ -90,7 +92,7 @@ She said, “It costs me the night.”
 
 She said, “That is all it costs. It costs me the night I was going to use, and there is one of those every night and I am standing in one of them choosing not to do the one thing in this building I could do.”
 
-She said, “And a boy of sixteen is standing at the near end of this table eight feet above my head with oil on his fingers and there is a lamp in this building and he is the only person above the line, and there is not one instruction in this room that says he may not come to this end of this table.”
+And a boy of sixteen was standing at the near end of that table eight feet above her head with oil on his fingers, and there was a lamp in this building, and he was the only person above the line, and there was not one instruction in that room that said he might not come to this end of that table.
 
 She said, “And I have not asked him not to.”
 

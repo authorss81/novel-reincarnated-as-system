@@ -52,6 +52,8 @@ She said, “There is not one thing in this building that makes light out of any
 
 She said, “And I said it out loud to a boy of sixteen on the seventh of that month, standing, in the ordinary voice, with the oil going from one lamp into another, and I said *there is not one instrument in this building that can make light out of anything that is not already burning*, and I said it to be true, and it was true, and it is the reason there is a flame on that table at all.”
 
+And there was a landing under her with a rail that stops there, and she stood on it, and the light out of the lamp in her left hand went up the wall beside her and stopped about where her own shoulder was.
+
 She said, “And I cannot unsay it.”
 
 She said, “So the answer to the question I went down those four flights with is that the lamp in that room is kept alive by a person, and there is one person above the line in that building, and he is sixteen, and he is not bound and not entered and not sent, and there is not one word in this building with any authority over what he does with an evening.”
@@ -62,7 +64,7 @@ She stopped on the landing for about a count of ninety.
 
 She said, “That is the whole of it and it took me four flights to say and it could have taken me a count of nine standing at the near end of that table. I do not have a way of asking for a thing and I have known that since I was nine years old and I have never tested it on a person.”
 
-## Words And Not Cuts
+## On A Board Out Of The Stack
 
 And then she went back up the first four hundred and forty with the lamp and went in under the middle of that table with it held low so that the light came off the stone and up the underside of the boards and not onto the tops of them.
 
