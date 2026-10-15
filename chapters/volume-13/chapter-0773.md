@@ -70,7 +70,7 @@ What she was feeling was that she had been carrying a purse she had never opened
 
 And then she said the sixth thing, which is the bar, and she said it standing up and she said why she is not going to count it.
 
-There is a bar nine feet nine flat against the wall on the left of that room, broken end towards the door, with no strap on it, and she left it there on purpose on the twenty-first of the month beginning two thousand three hundred and fifty-four, and she took it up when she was nine years old and she has carried it for nineteen years and that is the whole of what is known about where it came from.
+There is a bar nine feet nine flat against the wall on the left of that room, broken end towards the door, with no strap on it, and she left it there on purpose on the twenty-first of the month beginning two thousand three hundred and twenty-four, and she took it up when she was nine years old and she has carried it for ten years and that is the whole of what is known about where it came from.
 
 She said, standing, in daylight, at the near end of that table:
 
@@ -80,7 +80,7 @@ She said, “And I am not going to count it as something I have.”
 
 She said, “Not because it is not mine. It has been mine since I was nine and there is not one person alive who could tell me different.”
 
-She said, “Because I put it down on purpose. On the twenty-first of the month beginning two thousand three hundred and fifty-four, standing, in daylight, in this room, with a hand on it, and I left it against that wall because there was nothing in this building I could put it down for.”
+She said, “Because I put it down on purpose. On the twenty-first of the month beginning two thousand three hundred and twenty-four, standing, in daylight, in this room, with a hand on it, and I left it against that wall because there was nothing in this building I could put it down for.”
 
 She said, “And the putting down is the only thing about that bar that is mine. Everything else about it belongs to a man who got it when I was nine and to a barrow ground nine years and to a road I cannot get back to, and there is not one thing in nineteen years that has let me ask about any of that.”
 

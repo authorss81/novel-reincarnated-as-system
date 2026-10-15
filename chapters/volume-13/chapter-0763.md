@@ -94,7 +94,7 @@ She said, “And so this room is going to be holding a thing it cannot use, on a
 
 And then she said the part that is about herself and it is the plainest thing she has said in this room in a hundred and seventy-one days.
 
-She said, “I have been escaping being counted since I was nine years old, and I got a bar at nine and I have carried it ten years and I left it against a wall on purpose on the twenty-first of the month beginning two thousand three hundred and fifty-four because there was nothing in this room I could put it down for.”
+She said, “I have been escaping being counted since I was nine years old, and I got a bar at nine and I have carried it ten years and I left it against a wall on purpose on the twenty-first of the month beginning two thousand three hundred and twenty-four because there was nothing in this room I could put it down for.”
 
 She said, “And there was not one thing in this room I could put it down for until the eighth of the month beginning two thousand four hundred and fourteen, and it took me four days at the near end of that table to find out what it was, and it was a column with thirteen empty places in it.”
 

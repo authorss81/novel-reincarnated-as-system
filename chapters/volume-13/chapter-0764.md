@@ -16,7 +16,7 @@ She said that out loud, standing, in daylight, on the twenty-fifth of that month
 
 ## Five Days Of It
 
-She did not do anything else with those five days and she wants that on the page, because everything she has done in a hundred and sixty-eight days in this room has been a thing she found out, and five days of doing nothing at all to a thing she has already done is new.
+She did not do anything else with those five days and she wants that on the page, because everything she has done in a hundred and sixty-seven days in this room has been a thing she found out, and five days of doing nothing at all to a thing she has already done is new.
 
 She got up at the fifth hour and took a reading of her own right forearm, because it had been down by the width of the little finger on her left hand since the twelfth of that month and it had not come back, and she wanted a second figure against the first.
 
@@ -78,7 +78,7 @@ She said, “A price can only be added to. A person can only be counted. And I h
 
 And then she said the last of it, and she said it about the bar and about the bag and about a boy, and it took a count of ninety.
 
-She said, “There is a bar nine feet nine against the wall on the left of this room that I left there on purpose and I have not picked it up in a hundred and seventy-one days.”
+She said, “There is a bar nine feet nine against the wall on the left of this room that I left there on purpose and I have not picked it up in a hundred and twenty-seven days.”
 
 She said, “There is a strip of hand-made paper nine inches long in a bag at the bottom of that tower with eighty-one lines on it and the same sum under it in words, and I am not going down for it, and that is not the reason.”
 

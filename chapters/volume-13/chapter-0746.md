@@ -34,7 +34,7 @@ She said out loud, sitting on the floor of that room with it across her knees:
 
 At the tenth hour she got up on the near end of that table with her left hand and her weight on the arm that was closed that day and it took a count of nine and she did not have to try four times any more.
 
-And then she went along the top of it, twenty-two paces, on her hands and knees, with the grain of the wood under her palms and her breath at nine the whole way, and the light coming up on her from the far end the whole time, and the bar nine feet nine lying flat against the wall on the left of that room with its broken end towards the door where she put it on the twenty-first of the month beginning two thousand three hundred and fifty-four.
+And then she went along the top of it, twenty-two paces, on her hands and knees, with the grain of the wood under her palms and her breath at nine the whole way, and the light coming up on her from the far end the whole time, and the bar nine feet nine lying flat against the wall on the left of that room with its broken end towards the door where she put it on the twenty-first of the month beginning two thousand three hundred and twenty-four.
 
 She knelt on the shelf in front of the lamp with the board flat on the wood and she wrote on it with her right hand, three fingers and a thumb, on an arm that has been open since the first of the month beginning two thousand two hundred and ninety-four and is not going to close.
 

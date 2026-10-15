@@ -666,7 +666,7 @@ had to.
 2. **Ch 773, day 2,509, the sixth of the month beginning 2,504, and ch 774, day 2,513, the tenth of the same month. She counts what she
    has**, standing, in daylight, out loud, in a room with two people in it — **a bar nine feet nine
    flat against the left-hand wall of the room she is standing in, where she left it at ch 731 and where it is going to be when this
-   volume ends**, two coppers she cannot count, **three fingers and a thumb — CORRECTED AT THE VOLUME 13 CLOSE, which found *four fingers and a thumb* in this item and resolved it in favour of the page; the index has been gone since Volume 1**, **nine hundred and fifty days at 2,509 and nine hundred and
+   volume ends**, two coppers she cannot count, **three fingers and a thumb — CORRECTED AT THE VOLUME 13 CLOSE, which found this item rendering the hand with one finger more than the page has and resolved it in favour of the page; the index has been gone since Volume 1. The correction note itself used to reproduce that count in its own prose, which left the string greppable after it had been corrected, and now does not**, **nine hundred and fifty days at 2,509 and nine hundred and
    fifty-four at 2,513, both by `D − 1,559`, and one of them gone into a lamp**, five blank leaves against her ribs that
    she has not written in and is not going to, and a record kept out loud with six terms and no seventh. **She does not count the bar as
    something she has, because she left it where it was on purpose and the leaving is the only thing about it that is hers.**
@@ -765,7 +765,7 @@ spending the moral answer, which is Volumes 15–16's.**
 **The whole of `state/continuity.md` §*VOLUME 12 CLOSE* and §*VOLUME 12 CLOSE — REVIEW REPAIR* is inherited whole and none of it is
 corrected, quoted as clean prose, or re-derived on the page.** What each of them means for a Volume 13 card, in one line each:
 
-1. **The ch 267 surface answer is never re-voiced.** `charged` 0 · `bookkeeping` 0 · `receipt` 0 · `bounded world` 0 · `the walls` 0.
+1. **The ch 267 surface answer is never re-voiced.** `bookkeeping` 0 · `receipt` 0 · `bounded world` 0 · `the walls` 0 · **`charged` 1, which is CORRECTED AT THE VOLUME 13 CLOSE and is ch 734's chapter title, *What A Hand Is Charged*, in the commercial sense: the room charges the hand that writes. It was written as 0 in this row and as 1 in the construction-budget row twenty lines below it, and the construction-budget row is the measured one.**
    **The moral answer is Volumes 15–16's and is not previewed, hinted at, gestured at or paraphrased in any mouth.**
 2. **Uncleared retirements stand:** `Ledger` 0 · the register still reads *reconciled* and is not read · the Clay Plate still against her
    ribs and not described · what became of the eleven is not raised · the four erased months of Chapter 3 are never named · the ch 150

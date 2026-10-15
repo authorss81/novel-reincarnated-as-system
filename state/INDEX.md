@@ -106,6 +106,8 @@ five before it, at `## Volume 7 planned`, `## Volume 7 Batch 0001` … `## Volum
 
 ## For the next phase
 
+**LIVE READING INSTRUCTION, CORRECTED BY THE VOLUME 13 CLOSE. Volume 13 is planned, all four batches are on the page, and Volume 13 is closed, audited and reviewed.** Everything the section below says about Volume 13 being the live volume, and about `workspace/volume-13-batch-0001/PROMPT.md` being the one and only prompt a phase starting now may be sent to, is history and is not an instruction. **A phase starting now is VOLUME 14 PLANNING, and no `volume-14-*` prompt exists yet — the controller's seed step creates it. Until it does, the two files a phase starting now reads first are `outline/series.md` §9, which fixes Volume 14's title, its chapter range and its one-sentence goal, and `state/current.md` §*Who is where at end of Volume 13 — VOLUME 13 CLOSED AND AUDITED*, which is the live position.** The paragraphs after this one are left as the record of what Volume 11, Volume 12 and Volume 13 planning and batching read, and are not instructions. **Corrected in place by the Volume 13 close's review repair, which found this section still pointing at Volume 13 Batch 0001 and the archive sentence below still claiming the pass belonged to the Volume 13 close.**
+
 **LIVE READING INSTRUCTION, CORRECTED BY THE VOLUME 13 PLANNING PHASE. Volume 11 planning is discharged, the Volume 11 close is
 discharged, Volume 12 planning is discharged, Volume 12's four batches are on the page, and the Volume 12 close is discharged.** The
 paragraph immediately below names VOLUME 12 PLANNING as the live brief and that is not true: **the one and only prompt a phase starting
@@ -162,27 +164,25 @@ Batch 0001 and its PHASE ZERO, four phases discharged earlier. **Both are correc
 close repair order paragraph is left as written, because it is a record of a discharged obligation and not a reading
 instruction.**
 
-## Volume 13 — the live phase, and where a phase starting now should read
+## Volume 13 — closed, and where a phase starting now should read
 
-**VOLUME 12 IS CLOSED, AUDITED, AND REVIEWED, AND VOLUME 13 IS PLANNED. THIS IS THE ONLY READING ORDER IN THIS FILE.** The section above
+**VOLUME 13 IS CLOSED, AUDITED, AND REVIEWED. THIS IS THE ONLY READING ORDER IN THIS FILE.** The section above
 is the record of what Volume 12 planning and Batches 0003 and 0004 read; it is history and the table in it is not a map of where the
 manuscript is. A phase starting now reads these, in this order:
 
 | Order | Section | What it is |
 | --- | --- | --- |
-| 1 | `workspace/volume-13-batch-0001/PROMPT.md` | **THE LIVE BRIEF.** Volume 13 Batch 0001, ch 721–735, days 2,301–2,360, pressure *the bundles*. The bundles come up the stair on day 2,324, the midpoint at ch 728 is that the deciding takes one look and the look did not include her, ch 733 is the lamp and the person at the table being the same substance, and **ch 735 is the batch's irreversible step — she puts a day into the lamp and it does not come back** |
-| 2 | `outline/volume-13.md` | **THE AUTHORITY for Volume 13.** Goal, the eight structural decisions D1–D8, the stage table, the bracket budget, the batch plan, and **the whole 240-day calendar printed so a chapter can be checked without re-deriving it** |
-| 3 | `state/current.md` §*Volume 13 planned* | **What the plan fixed**, in nine items, and the one change to the lighter figure |
-| 4 | `state/continuity.md` §*VOLUME 13 PLANNING* | **The planning record.** The two deliverables, the eight decisions as a table, every number re-derived by script, the two errors caught in the plan's own first draft, the two in-place corrections, and what this phase did not do |
-| 5 | `state/current.md` §*Who is where at end of Volume 12* | **THE LIVE POSITION.** Day 2,300, one step up a second stair, IMMORTAL VESSEL 3, nineteen, 740 days lighter, three fingers and a thumb. Measured per file: **116,766 body words over sixty chapters at average 1,946 — 29,996 · 28,850 · 29,240 · 28,680 by batch** |
-| 6 | `state/continuity.md` §*VOLUME 12 CLOSE* | The volume as a whole: every figure, the eight firsts, the lighter series, the board, the geography, the craft lines, the ending |
-| 7 | `state/continuity.md` §*VOLUME 12 CLOSE — REVIEW REPAIR* | **READ SEVENTH.** The four sentences the close's review repaired, the two dated values it set deliberately, what it re-measured, and what it recorded without repairing |
-| 8 | `state/open-threads.md` §*VOLUME 12 CLOSED* | **What Volume 13 inherits, what it may not settle, and the one new standing fact: the bar is dated nowhere and was taken up at nine** |
-| 9 | `outline/volume-12.md` | **THE AUTHORITY for Volume 12**, read after the eight above and never before |
-| 10 | `outline/series.md` | **§9 fixes Volume 13's title, its chapter range and its one-sentence goal**, and §4 fixes Immortal Vessel 4–6 and Yuan's second rung |
+| 1 | `outline/series.md` §9 | **THE LIVE BRIEF'S AUTHORITY.** Volume 14 is *The Scribe's Apprentice*, ch 781–840, and §9 fixes its one-sentence goal: *In this volume, Ning Yan must refuse the thing Yuan was offered and refused, or the whole bargain survives.* **No `volume-14-*` prompt exists yet and the controller's seed step creates it; a phase starting now plans Volume 14 against this section and against `outline/ending.md`, which owns the ending** |
+| 2 | `state/current.md` §*Who is where at end of Volume 13 — VOLUME 13 CLOSED AND AUDITED* | **THE LIVE POSITION.** Day 2,540, the seventh of the month beginning 2,534, at the seventh hour, in the dark room, IMMORTAL VESSEL 6, nineteen, **981 days lighter, at `D − 1,559`**, three fingers and a thumb, the bar against the wall on the left, and a boy of sixteen in the doorway with an oil lamp. Measured: **118,951 body words over sixty chapters at average 1,983 — 29,923 · 30,152 · 31,000 · 27,876 by batch** |
+| 3 | `state/continuity.md` §*VOLUME 13 — THE CLOSE* | The volume as a whole: every figure, the eight firsts, the lighter series, the lamp, the bar, the geography, the craft lines, the ending, and the eight disagreements with the outline all resolved in favour of the page |
+| 4 | `state/continuity.md` §*VOLUME 13 CLOSE — REVIEW REPAIR* | **READ FOURTH.** The close's own review repair: six figures and six dates it corrected on the page, **including the bar's put-down day, which the close had canonised thirty days late**, and the three defects it found in the close's own state output |
+| 5 | `state/open-threads.md` §*VOLUME 13 CLOSED* | **What Volume 14 inherits, what it may not settle, the four defects the close recorded without rewriting, and the four figures the review repair moved and Volume 14 must not misread** |
+| 6 | `outline/volume-13.md` | **THE AUTHORITY for Volume 13**, read after the five above and never before. Goal, the eight structural decisions D1–D8, the stage table, the bracket budget, the batch plan, and **the whole 240-day calendar printed so a chapter can be checked without re-deriving it** |
+| 7 | `state/current.md` §*Who is where at end of Volume 12* | **The position Volume 13 started from.** Day 2,300, one step up a second stair, IMMORTAL VESSEL 3, nineteen, 740 days lighter, three fingers and a thumb. Historical |
+| 8 | `outline/series.md` §4 | **Fixes Immortal Vessel 4–6, all three of which she takes inside Volume 13, and Yuan's second rung** |
+| 9 | `outline/ending.md` | **Owns the ending and the moral answer, and Volume 13 may not preview either.** Read by the Volume 14 planning phase before it writes anything |
 
-**`workspace/volume-13-batch-0001/` holds the one and only next phase.** `workspace/volume-13-planning/` has been executed in full and is
-history. No batch directory beyond 0001 exists, no `.done` marker anywhere is written by hand, and `chapters/volume-13/` does not exist.
+**Every `workspace/volume-13-*` directory has been executed and is history: planning, four batches, close.** `chapters/volume-13/` exists and holds sixty chapters, 721 to 780, and the twelve volumes before it hold the seven hundred and twenty that come first, for 780 chapters in the book. **Corrected at the Volume 13 close's review repair, which found this section still naming Batch 0001 as the live brief and still stating that `chapters/volume-13/` did not exist.**
 
 ## Volume 12 — the live volume, and where a phase starting now should read
 
@@ -216,6 +216,7 @@ everything behind the live volume out of `current.md`, `continuity.md` and `chap
 under `state/archive/`, leave the stubs, and extend this index. **Do not prune.** `PHASE_SYSTEM.md` gives the
 remedy as an index and an archive, not a deletion, and every one of these files is a record of what was measured
 at the time it was measured. **Volume 12 is where that pass is now overdue:** the tables above stop at Volume 11 and
-`current.md` still carries every block from Volume 1 forward. **Volume 12 closed on 14 Oct 2026 and its close has been
-reviewed and repaired, so the archive pass now belongs to the Volume 13 close rather than to this phase; nothing was
-pruned or moved to do it.**
+`current.md` still carries every block from Volume 1 forward. Volume 12 closed on 14 Oct 2026 and its close has been
+reviewed and repaired. **THE PASS HAS STILL NOT BEEN RUN. `state/archive/` holds three files and covers Volumes 01–06 only, and `current.md` is now 5,884 lines and `continuity.md` 10,130. An earlier version of this paragraph said the pass belonged to the Volume 13 close; Volume 13 closed on 15 Oct 2026 and its close did not do it either, and the Volume 13 close's review repair corrected that false claim here rather than doing the pass. Nothing was pruned, moved or archived to make this sentence true.**
+
+**Run it first in Volume 14 planning, before `outline/volume-14.md` is written.** It is a mechanical pass with its own risk: three of the files it touches are the three files Volume 14 planning reads, and archiving a block that is still the live position would be worse than the growth it fixes. Move only what is behind the live volume, leave every stub, leave the reading order in this file intact, and measure the same numbers before and after so the archive is provable rather than asserted.

@@ -38,7 +38,7 @@ She said, “And I have still not got a figure for myself. Whatever is up on tha
 
 On the eleventh she got up on the table.
 
-It took a count of nine and it has not taken four tries since the twenty-first of the month beginning two thousand three hundred and fifty-four. She went twenty-two paces along the top of it on her hands and knees with the grain of the wood under her palms, and she knelt on the shelf in front of that lamp, in the light, with the wall behind it and nothing behind the light.
+It took a count of nine and it has not taken four tries since the twenty-first of the month beginning two thousand three hundred and twenty-four. She went twenty-two paces along the top of it on her hands and knees with the grain of the wood under her palms, and she knelt on the shelf in front of that lamp, in the light, with the wall behind it and nothing behind the light.
 
 And then she did the thing she had not done in that room in six months, which is to say a row out loud on purpose, standing, in daylight, at the place where the arms go.
 

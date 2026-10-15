@@ -6,7 +6,7 @@ She spent four days standing at the length the arms in that room go and nothing 
 
 She started on the eighth of that month because it was the first day since the seventh with nothing on it, and she wanted a day with nothing on it.
 
-She got up on the near end of that table with her left hand. It took a count of nine and it had not taken four tries since the twenty-first of the month beginning two thousand three hundred and fifty-four. Then she went along the top of it on her hands and knees, twenty-two paces, with the grain of the wood under her palms, and knelt on the shelf in front of that lamp and sat down on it with her legs out over the light.
+She got up on the near end of that table with her left hand. It took a count of nine and it had not taken four tries since the twenty-first of the month beginning two thousand three hundred and twenty-four. Then she went along the top of it on her hands and knees, twenty-two paces, with the grain of the wood under her palms, and knelt on the shelf in front of that lamp and sat down on it with her legs out over the light.
 
 That is where the arms go. She worked that out on the ninth of the month beginning two thousand three hundred and twenty-four off the place the hands come down to, and she had put the wood under her own hips on it that day and nothing had happened, and she did not do it again for two months because of what she wrote on a board at that same place.
 
