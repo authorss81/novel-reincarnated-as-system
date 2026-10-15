@@ -3505,7 +3505,7 @@ Fifteen chapters, **28,680 words of body prose on method B, average 1,913**, day
 
 ## VOLUME 13 BATCH 0003 — ch 751–765, *the measure* — what the batch added, what is still open, and what Batch 0004 inherits
 
-**Day 2,421 to day 2,480. Fifteen chapters, 30,920 words of body prose on method B, average 2,061.** A stale work-in-progress of ch 751–757 was on the page when the batch opened and was drafted over afresh; **the reasons are in `state/continuity.md` under *VOLUME 13 BATCH 0003*.** Batch 0001 is 29,923 and Batch 0002 is 30,152, so the volume is **91,080 over forty-five chapters at average 2,024.**
+**Day 2,421 to day 2,480. Fifteen chapters, 30,988 words of body prose on method B, average 2,066.** A stale work-in-progress of ch 751–757 was on the page when the batch opened and was drafted over afresh; **the reasons are in `state/continuity.md` under *VOLUME 13 BATCH 0003*, and three paragraphs of ch 751 were carried across from it.** **The batch has been through its review repair; the record is in `state/continuity.md` under *VOLUME 13 BATCH 0003 — REVIEW REPAIR*.** Batch 0001 is 29,923 and Batch 0002 is 30,152, so the volume is **91,063 over forty-five chapters at average 2,024.** The drafting figures of 30,920 and 91,080 were wrong by arithmetic and both are struck.
 
 ### What the batch added
 

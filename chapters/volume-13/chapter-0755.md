@@ -20,7 +20,7 @@ What she found at the bottom of it, going up, is that the four steps are the fir
 
 She had thought about them for three days as four steps at the end of something. They are not at the end. They are where the stair comes back down into the floor of the same room, out of the place in the wall behind the lamp’s shelf, and she had never once counted upward out of that place, because the seven steps that are visible from the door go up and the rest of it is behind the angle of the wall until you are nine hundred steps away from it.
 
-She said it out loud on the twenty-fifth at the ninth hour, standing at the near end of that table, in daylight, in the ordinary voice:
+She said it out loud on the twenty-fifth at the ninth hour, standing at the near end of that table, in daylight:
 
 “The four steps I could not hold are the four steps closest to this room. They are the first ones anybody gets and they are the last ones I counted.”
 
@@ -38,7 +38,7 @@ She said, “And there is not one step past nine hundred and four. There is no n
 
 She said, “And I have been at the top of that stair for five months working out how far it goes and it does not go anywhere. It goes down and it comes back. That is the whole of what is above the line that I have found in this building in a hundred and thirty-eight days, and it took me four days and nine hundred and four steps to find out that there was nothing on it.”
 
-And then she stopped for a count of ninety, and she said the thing she said about herself, in the ordinary voice, standing, in daylight.
+And then she stopped for a count of ninety, and she said the thing she said about herself, standing, in daylight.
 
 She said, “I stood at the top of a number for a hundred and thirty-eight days as if the number were a wall, and the number was not a wall, it was a piece of arithmetic about how far away the bottom of a stair is, and I could have walked down it in any of those days and I did not, because I could not hold the number, and not being able to hold a number is not the same as there being something in the way.”
 
@@ -68,13 +68,11 @@ She said, “And that is the first time in nineteen years that anything I have s
 
 And on the twenty-seventh she did the last thing of those six days with the figure, which was to work out what a number she can hold is for, because she has not had one since she was six years old and she had been treating the whole business as an account of what she had lost.
 
-She said, “I have got nine hundred and four and it is the same going up and coming down and I said it out loud in this room twice and a person standing at the far end of that table heard it and did not look up.”
-
 She said, “And that is not nothing. That is the first thing I have said in this room in a hundred and thirty-nine days that has come out the same twice, and there is not one instrument in this building that could have told me so except me, twice, at a cost of three hours and an arm.”
 
 She said, “And I know what it is for, and it is not for me. It is for the next time somebody in this building puts a number into a row and gets it wrong, and there has not been a next time in four hundred years, and if there is one then whoever is standing at that table will not be able to tell that the stair is nine hundred and four and only one person in this county can.”
 
-And she said the rest of it standing, in daylight, in the ordinary voice, and it is the thing the four days of counting a stair in the dark actually came to.
+And she said the rest of it standing, in daylight, and it is the thing the four days of counting a stair in the dark actually came to.
 
 She said, “I went up that stair three times in four days and I came away with a figure. I have been in this room one hundred and thirty-nine days and I have gone up the low door four times and come away with a bundle in my shirt, and that is the first time in one hundred and thirty-nine days that a thing she did has left her holding something instead of nothing.”
 
@@ -97,3 +95,5 @@ And that was the end of the twenty-seventh, and the thing she left with it was n
 She said, “I have four days to the first of that month and nine hundred and four steps between this floor and the bottom of the other end of this room and there is nothing on any of them.”
 
 She said, “And that is the first time in nineteen years that I have stood at the top of something and known what was at the bottom of it, and it was four steps, and I am going to have to decide what to do about the fact that I did not walk down there for five months.”
+
+And then she went to the foot of it, to the seven steps visible from the low door, and said nine hundred and four out loud in daylight, with no rail on it and no light on any part of it, and then she went back up and waited for the first of that month.

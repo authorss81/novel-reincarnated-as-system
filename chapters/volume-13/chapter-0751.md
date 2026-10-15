@@ -60,7 +60,7 @@ She said, “And the person has been standing in the same place at the same tabl
 
 She said, “And a comparison needs two things standing still. The thing being compared, and the thing it is being compared against. And there has only ever been one of the two things standing still in this room.”
 
-She stood there for a count of forty before she said the next of it, and it came out of her in the ordinary voice and it is the plainest thing she has said in this room.
+She stood there for a count of forty before she said the next of it, and it came out of her plain, and it is the plainest thing she has said in this room.
 
 She said, “Everything this building has ever decided about anything was decided against one arm, and one arm has been the same arm for four hundred years, and every figure in every column in this county is a comparison and not a measurement.”
 

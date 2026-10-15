@@ -26,7 +26,7 @@ The last turning before this one was at the second hour of the second of the mon
 
 Twenty-nine days from the second is the first of the month beginning two thousand four hundred and forty-four.
 
-And the reason it was the second is the fourth of the month beginning two thousand three hundred and fifty-four, and she put her own open arm up against her ribs and said out loud, standing, in daylight, in the ordinary voice:
+And the reason it was the second is the fourth of the month beginning two thousand three hundred and fifty-four, and she put her own open arm up against her ribs and said it out loud, standing, in daylight:
 
 “I put a day of my own life into that cage on that day and it did not come back, and that day is the only reason the mark on that wall has moved off the thirtieth, and it has moved it one day, and one day is the whole of what a day does to that light.”
 
@@ -40,7 +40,7 @@ She said, “Twenty-nine days from a turning is a thirtieth when the turning is 
 
 She said, “And that is not a thing about one month. That is what happens to every month from this one until a hand puts a day into that cage and takes a day out somewhere else, and there is not one hand in this building that is going to do that, because a hand does not know that a day goes into anything.”
 
-She stopped there and stood on the floor with her back against the near leg of that table for a count of a hundred and forty, and then she said the rest of it in the ordinary voice.
+She stopped there and stood on the floor with her back against the near leg of that table for a count of a hundred and forty, and then she said the rest of it.
 
 She said, “So the light is going to stand on that cut on the first of the month beginning two thousand four hundred and forty-four with nothing above it and nothing below it, and there is going to be no thirtieth in that month, and there is no slack in it at all, and there has never been a month in four hundred years without a day in it that nothing happens.”
 

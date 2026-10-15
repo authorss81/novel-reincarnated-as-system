@@ -1,6 +1,6 @@
 # The First Free Thing She Decided
 
-The sixth bundle came up that stair on the first of the month beginning two thousand four hundred and seventy-four and went down it again with everything on it, and she stood four feet off the end of that table and could not see one thing that was hers, and on the seventh of that month she said out loud, standing, in daylight, in the ordinary voice, that she is not going back, and that is the first thing she has decided in nineteen years that nothing at the bottom of a stair was going to come and undo.
+The sixth bundle came up that stair on the first of the month beginning two thousand four hundred and seventy-four and went down it again with everything on it, and she stood four feet off the end of that table and could not see one thing that was hers, and on the seventh of that month she said out loud, standing, in daylight, that she is not going back, and that is the first thing she has decided in nineteen years that nothing at the bottom of a stair was going to come and undo.
 
 ## The Sixth Bundle
 
@@ -14,7 +14,7 @@ Ten minutes for the forty boards and thirty for the bundle, and the hands did no
 
 She read it with her fingers in the dark under that table.
 
-She said, out loud, on the flat of her back, in the ordinary voice:
+Flat on the stone under that table, with her hand on her own strip of pale wood and nobody in the room with her, she said it out loud:
 
 “The head is ten days, twenty-one hours and thirty-six minutes and the first pair of cuts down has the same figure in it.”
 
@@ -22,7 +22,7 @@ She said, “And the second pair of cuts down has five in it, in my own hand, an
 
 She said, “And twelve pairs of cuts under that are empty.”
 
-And then she came out from under that table and stood at the near end of it and said the rest of it in the ordinary voice with a person standing nine feet off along it.
+And then she came out from under that table and stood at the near end of it and said the rest of it with a person standing nine feet off along it.
 
 She said, “Forty boards went along that table in ten minutes and there are two things in this building that are mine and I could not tell you which two of the forty carried them.”
 
@@ -50,7 +50,7 @@ On the third she went and stood at the bar against the wall on the left of that 
 
 On the fourth she went down the low door and the first four hundred and forty with a rail on one side and her left hand on it, and she got to the fourth landing where the lamp in a cage has been out since the third of the month beginning two thousand two hundred and ninety-four, and she put her hand into that cage and the iron was cold, and she went back up.
 
-On the fifth she said out loud, standing, in daylight, in the ordinary voice, at the near end of that table:
+On the fifth she said out loud, standing, in daylight, at the near end of that table:
 
 “There is a bag at the bottom of that tower with a dish and a lump of clay and a ring the width of a finger and a key to a drawer and a strip of hand-made paper in it, and I have been down there four times in a hundred and seventy-nine days and I have not gone down for any of them, and I am not going to go down for the drawer, and I am not going to go down for the paper either.”
 
@@ -80,7 +80,7 @@ She said, “And he settles nothing. He is not on a page of any book I have got 
 
 ## The Sums On The Seventh
 
-She did the sums on the seventh of the month beginning two thousand four hundred and seventy-four at the ninth hour, standing, in daylight, in the ordinary voice, at the near end of that table with the light at the far end of it ten of her own hand below the top of that cage.
+She did the sums on the seventh of the month beginning two thousand four hundred and seventy-four at the ninth hour, standing, in daylight, at the near end of that table with the light at the far end of it ten of her own hand below the top of that cage.
 
 She said, “Two thousand four hundred and eighty less one thousand five hundred and fifty-nine is nine hundred and twenty-one days, at one hour and twelve minutes a day, and not one of them going back and one of them gone into that lamp.”
 
@@ -88,7 +88,7 @@ She said, “And fifty-eight less ten is forty-eight and forty-eight divided by 
 
 She said, “And the figure at the head of my row is nine days, seven hours and twelve minutes out of date, and the figure in the second pair of cuts down under it went out of date the day after I put it there, and there is not one instrument in the world that puts either of them right.”
 
-And then she said the last of it, standing, in daylight, in the ordinary voice, and she said it looking at the far end of that long table and not at the place in the wall behind the lamp’s shelf, where the stair she has gone up and down three times in nine hundred and four steps comes back down into the floor of this room.
+And then she said the last of it, standing, in daylight, and she said it looking at the far end of that long table and not at the place in the wall behind the lamp’s shelf, where the stair she has gone up and down three times in nine hundred and four steps comes back down into the floor of this room.
 
 She said, “There are two figures in a column under that table now and one of them is a price and one of them is not a price, and the room has had them there since the twenty-second of the month beginning two thousand four hundred and forty-four and it has not made a sound about either of them.”
 

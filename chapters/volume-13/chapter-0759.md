@@ -12,7 +12,7 @@ What she had not asked in a hundred and forty-five days was where a figure gets 
 
 She went and got under that table at the second hour of the sixth of that month with a cross-beam across her shoulders and lay on her back on the stone with her hand flat on her own strip and her arm open on the floor beside her.
 
-She said, out loud, on the flat of her back, in the ordinary voice:
+Lying on the stone with her arm open on the floor beside her, she said it out loud:
 
 “A figure is said out loud in another room and it comes up a stair in an armful and a hand puts it in a column, and the hand copies it exactly. A copy is the same figure. It is not a measure.”
 
@@ -22,7 +22,7 @@ She said, “And the only thing in this room it can be a measure of is the perso
 
 ## A Figure About That Person
 
-She came out from under that table and said the rest of it standing up, in daylight, in the ordinary voice, at the near end of that table, on the sixth and then the seventh and then the eighth, one item at a time, and she did not say any item of it twice.
+She came out from under that table and said the rest of it standing up, in daylight, at the near end of that table, on the sixth and then the seventh and then the eighth, one item at a time, and she did not say any item of it twice.
 
 She said, “Every figure that has gone into a column in this room in four hundred years was said out loud by a person who was in some other building, on some other day, standing up, and it came up a stair, and a hand read it against the body of the one person at that table.”
 
@@ -42,7 +42,7 @@ She said, “There is a person at the far end of this table who has spent themse
 
 ## What She Cannot Do About It
 
-And she said out loud on the seventh and the eighth of that month what she is not going to do about it, standing, in daylight, in the ordinary voice, and it took a count of a hundred and forty each time and she did not say either of them twice.
+And she said out loud on the seventh and the eighth of that month what she is not going to do about it, standing, in daylight, and it took a count of a hundred and forty each time and she did not say either of them twice.
 
 She said, “A room cannot be asked. I worked that out on the first of the month beginning two thousand three hundred and fifty-four and I am not going to work it out again.”
 
@@ -64,7 +64,7 @@ She went back under there on the eighth and read all four of them with her finge
 
 There are four strips under that table. Hers and three older ones gone soft at every edge. Every one has a head at one end that is a figure and every one has a column, and the column is a column of figures and not a list of things.
 
-She said, out loud, on the flat of her back, in the ordinary voice:
+She put her fingers in the wood at the head of it and said it out loud, with her back on the stone and the boards over her:
 
 “There are four rows on the floor of this room and every one of them is a figure about the arm of the person standing at it.”
 
@@ -101,3 +101,7 @@ She said, “I have been a figure at the head of a column for a hundred and fift
 She said, “And so there is not one instrument in this building that has ever measured a thing in this building. There has been one person, standing still, for four hundred years, being used as a ruler by everybody who has ever sent anything up a stair.”
 
 She said, “And I cannot be that person and I am not going to try, and I have not got another instrument, and the only thing left to find out is what this room does when the thing it is measuring against is not available to it at all.”
+
+And then she got under that table one more time and lay on the stone with her hand flat on her own strip and her fingers in the second pair of cuts down in that column, which was empty, and had been empty for the whole of the hundred and fifty-one days.
+
+And she left it empty.

@@ -10,7 +10,7 @@ Four hundred and forty with a rail on one side and her left hand on it. Then fou
 
 Her right arm has been open since the first of the month beginning two thousand two hundred and ninety-four and it is not going to close, and it was open that day, and she counted all eight hundred and eighty out loud one number at a time because she worked out a long time ago that a count in her head on a stair is a count that can be lost.
 
-At the turn she stopped for a count of thirty and put her back against the wall and listened, and there was nothing to listen to, and she said out loud in the dark, in the ordinary voice:
+At the turn she stopped for a count of thirty and put her back against the wall and listened, and there was nothing to listen to, and she said out loud in the dark:
 
 “I have gone down this without a rail four times in nine years and I have never once let myself know that I am not frightened of it.”
 
@@ -52,7 +52,7 @@ At four hundred and forty she sat down on a step for a count of twenty and put h
 
 At six hundred and forty her breath went off nine and she stood still on the step in the dark and did not go on until it was nine again, and it took a count of seventy, and there is not one person in this building who would have known that had she not said it out loud.
 
-And at the top of it, on the floor of that room, with the bar nine feet nine against the wall on the left where she put it on purpose and the person at the far end of that table with both hands on the near edge, she said at the seventh hour of that day, standing, in daylight, in the ordinary voice:
+And at the top of it, on the floor of that room, with the bar nine feet nine against the wall on the left where she put it on purpose and the person at the far end of that table with both hands on the near edge, she said at the seventh hour of that day, standing, in daylight:
 
 “Four hundred and forty and four hundred and forty, and the lower four hundred and forty is the one I cannot put a hand on, and I did it with a nib and a cake of ink against my ribs and nothing in my hands at all, and I did it twice today.”
 
@@ -68,7 +68,7 @@ She counted the turns instead of the steps, because the turns are the only thing
 
 She came up out loud on each one. Sixty-four is a number she can hold and sixty-four is the number she counted that first time.
 
-And at the sixty-fourth turn she stopped and sat down on a step in the dark with her back to the wall and her arm open in front of her and said the whole of it out loud, in the ordinary voice, to a stair that has not got one thing to say back.
+And at the sixty-fourth turn she stopped and sat down on a step in the dark with her back to the wall and her arm open in front of her and said the whole of it out loud, to a stair that has not got one thing to say back.
 
 She said, “I have got sixty-four turns and nine runs that are long enough to count and the longest of them is a hundred and forty steps, and the other eight are between thirty and ninety, and that is everything I have and it is everything I had five months ago.”
 
@@ -91,3 +91,5 @@ And then she said the last of it out loud and it is not a plan and it is not a p
 She said, “There is a piece of hand-made paper in that bag nine inches long with eighty-one lines on it and the same sum under it in words, and there is a drawer thirty feet from where I was standing with a key in a bag I have left there on purpose, and I have not touched either of them and I am not going to this month.”
 
 She said, “And the reason is not the nine hundred steps. The reason is that the four sheets of rice paper in that drawer have been blank for ten years and if I open it and they are not blank any more then that is gone, and I would rather find that out with a reason than on a day when I have already spent myself on a stair, because a page with a true line on it is the last thing in the world I have got that has not been written on in nineteen years.”
+
+And then she stopped, and the lamp went on coming down that wall two of her own hand a day, and the hands at the near edge of that table went on doing the one thing they do.

@@ -30,7 +30,7 @@ She stood four feet off the near end of that table and watched it for the fifth 
 
 Ten minutes for the forty boards at four to a minute and thirty for the bundle, and the hands did not stop and did not hurry and did not go back, and the head came down over the near edge the whole time, and nothing in that room knew that a woman was standing four feet off the end of it watching a thing go that she had no part in.
 
-And at the end of it she said out loud, standing, in daylight, in the ordinary voice, at the near end of that table:
+And at the end of it she said out loud, standing, in daylight, at the near end of that table:
 
 “Forty minutes, and it has been forty minutes every month since the first of the month beginning two thousand three hundred and twenty-four, and not one of the forty boards went up that stair with anything in it that I can see.”
 
@@ -66,7 +66,7 @@ She had her own hand up at the end of that forearm before it and her own hand up
 
 And it was down by the width of the little finger on her left hand, and she does not have a little finger on that hand and has not had one since the first of the month beginning two thousand two hundred and ninety-four, and the one she used is the same as the other times.
 
-She said out loud, standing, in daylight, in the ordinary voice, at the seventh hour of the second of that month:
+She said out loud, standing, in daylight, at the seventh hour of the second of that month:
 
 “There it is again.”
 
@@ -90,7 +90,7 @@ She said, “I have been a figure at the head of a column for a hundred and fort
 
 ## The Sums On The Second Of That Month
 
-She did the sums on the second of that month at the ninth hour, standing, in daylight, in the ordinary voice, at the near end of that table, with the light above the top of that cage for the first time since the second of the month beginning two thousand three hundred and eighty-four.
+She did the sums on the second of that month at the ninth hour, standing, in daylight, at the near end of that table, with the light above the top of that cage for the first time since the second of the month beginning two thousand three hundred and eighty-four.
 
 She said, “Two thousand four hundred and forty-five less one thousand five hundred and fifty-nine is eight hundred and eighty-six days, and two thousand four hundred and forty-five less two thousand three hundred and one is a hundred and forty-four days in this room.”
 

@@ -1,6 +1,6 @@
 # Two Clocks On One Piece Of Wood
 
-She read both of those figures with her fingers for five days, standing, in daylight, in the ordinary voice, and worked out on the twenty-eighth of the month beginning two thousand four hundred and forty-four that the one she wrote is out of date as well, and by a different amount, and that she cannot correct it, and that this is the second of two ways in four days that she has made herself uncorrectable.
+She read both of those figures with her fingers for five days, standing, in daylight, and worked out on the twenty-eighth of the month beginning two thousand four hundred and forty-four that the one she wrote is out of date as well, and by a different amount, and that she cannot correct it, and that this is the second of two ways in four days that she has made herself uncorrectable.
 
 ## What She Did With It Afterwards
 
@@ -10,7 +10,7 @@ And then she got out from under the table and went and stood at the near end of 
 
 She had expected something to happen and nothing happened. The person at the far end of that table did not look up. No hand came off the near edge. No board came out from under the shelf. The light came down that wall two of her own hand a day and the low door stood open on a stair that goes down eight hundred and eighty steps, and there was not one thing in that room that knew a figure had gone into a column at the ninth hour of the twenty-second of that month.
 
-She said that out loud, standing, in daylight, in the ordinary voice, on the twenty-fifth of that month:
+She said that out loud, standing, in daylight, on the twenty-fifth of that month:
 
 “I have done the one thing I have spent nineteen years not doing and the room has not made a sound about it, and I have been standing here for five days waiting for it to make one, and it is not going to, and that is what being counted is.”
 
@@ -28,13 +28,13 @@ She did not go down the low door once. She did not go down the second stair. She
 
 And on the twenty-sixth she caught herself doing the thing she has done every day for one hundred and seventy-eight days, which is to count out loud, standing at the near end of that table, what the room was keeping for her, and she got as far as the head of the row before she stopped, and she stood there for a count of forty with her mouth shut.
 
-She said out loud afterwards, in the ordinary voice, standing, in daylight:
+She said out loud afterwards, standing, in daylight:
 
 “I have been keeping a figure of a figure for five months. And there are two figures down there now and I am going to be able to do that for the rest of my life, and there is not one person in this building who is going to ask me to stop.”
 
 ## Reading Both Of Them With Her Fingers
 
-She read them every day from the twenty-fourth to the twenty-eighth, in the ordinary voice, standing, on the flat of her back under that table with her arm open on the stone beside her, and she named them out loud so that she would know she had not made either of them up.
+She read them every day from the twenty-fourth to the twenty-eighth, standing, on the flat of her back under that table with her arm open on the stone beside her, and she named them out loud so that she would know she had not made either of them up.
 
 She said, “The head of this row is ten days, twenty-one hours and thirty-six minutes. It is what I cost. I chose that figure in the open at two posts at the first hour of the first of the month beginning two thousand two hundred and ninety-four and it went up that stair in an armful at the second hour of the same morning, and a hand at that table wrote it in this column, and that hand has never once known whose words it was writing.”
 
@@ -68,7 +68,7 @@ She said, “And in four days I have put two figures in one column, and one of t
 
 ## A Row That Gets Added Up
 
-And on the twenty-eighth of that month at the ninth hour she stood at the near end of that long table and said the whole of it out loud, standing, in daylight, in the ordinary voice, and she said it once and she did not improve on it.
+And on the twenty-eighth of that month at the ninth hour she stood at the near end of that long table and said the whole of it out loud, standing, in daylight, and she said it once and she did not improve on it.
 
 She said, “Ten days, twenty-one hours and thirty-six minutes, and five. That is what is in that column and it is in my own hand on both sides of it and the second one I wrote on the twenty-second of this month.”
 

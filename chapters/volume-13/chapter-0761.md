@@ -12,7 +12,7 @@ What there was, was that she had said a row out loud in that room on the twelfth
 
 And she did not know yet what that was going to have to do with a stage.
 
-She said out loud on the sixteenth of that month, standing, in daylight, in the ordinary voice, at the near end of that table:
+She said out loud on the sixteenth of that month, standing, in daylight, at the near end of that table:
 
 “There is not one mouth in this building that is going to tell me whether a stage can be taken against a row that has something wrong in it, and I am not going to put a figure on a board until I have got past the day before.”
 
@@ -32,11 +32,11 @@ There is nothing behind that light and the wall is the wall and the flame does n
 
 She wrote one figure.
 
-She said, out loud, kneeling on that shelf in the light, in the ordinary voice:
+She said it out loud, kneeling on that shelf in the light:
 
 “Five.”
 
-And then she stood up off the shelf on top of a four-foot table in daylight in a room with a person in it and said what that was, standing, in the ordinary voice, and she said it slowly.
+And then she stood up off the shelf on top of a four-foot table in daylight in a room with a person in it and said what that was, standing, and she said it slowly.
 
 She said, “Immortal Vessel 5. Five stages into the seventh realm, and ten stages past a ceiling that has not existed since before I could hold a bar.”
 
@@ -46,7 +46,7 @@ The person at that table did not look up and did not turn round and did not move
 
 ## Fifty-Eight And Not A Hundred And Thirteen
 
-And she said the interval out loud on the floor at the near end of that table at the sixth hour of the eighteenth of that month, standing, in daylight, in the ordinary voice, because she cannot let a thing stand that she has not put into words where it exists.
+And she said the interval out loud on the floor at the near end of that table at the sixth hour of the eighteenth of that month, standing, in daylight, because she cannot let a thing stand that she has not put into words where it exists.
 
 She said, “The fourth was at two thousand four hundred and three days and the third was at two thousand two hundred and ninety and the second at two thousand two hundred and six and the first at two thousand one hundred and twenty-eight.”
 
@@ -72,7 +72,7 @@ She said, “And so from today, in every room there is, the thing that does the 
 
 She said, “And that is the whole of what it cost and there is not one other part of it.”
 
-And then she took her own account of herself out loud, standing, in daylight, in the ordinary voice, because there were two figures in that room that had moved and she is not going to let one of them go by unsaid.
+And then she took her own account of herself out loud, standing, in daylight, because there were two figures in that room that had moved and she is not going to let one of them go by unsaid.
 
 She said, “Seven of eleven holds. It was seven this morning and it is seven now, and I did not lose it going up that table and I did not lose it coming down it, and it did not move at all this time and I have not worked out what that means and I am not going to guess in a room where a hand copies figures exactly.”
 
@@ -80,7 +80,7 @@ She said, “And my right forearm is still down by the width of the little finge
 
 ## The Sums On The Eighteenth
 
-She did the sums at the ninth hour of the eighteenth of that month, standing, in daylight, in the ordinary voice, at the near end of that table with the lamp at the far end of it thirty-two of her own hand below the top of that cage.
+She did the sums at the ninth hour of the eighteenth of that month, standing, in daylight, at the near end of that table with the lamp at the far end of it thirty-two of her own hand below the top of that cage.
 
 She said, “Two thousand four hundred and sixty-one less one thousand five hundred and fifty-nine is nine hundred and two days, at one hour and twelve minutes a day, and not one of them going back and one of them gone into that lamp on the fourth of the month beginning two thousand three hundred and fifty-four.”
 
@@ -95,3 +95,5 @@ She said, “A boy of sixteen four miles down that mountain is not going to be a
 She said, “And there is a board on that stack with five on it in my own hand, and a column with one figure in it that is a price, and I have got a nib and a cake of ink against the fourth rib and a room that copies figures exactly.”
 
 She said, “And I am going to write a second figure in that column before the first of that month, and it is not going to be a price, and there is not one instrument in the world that takes a line out of a record that has been above the line for four hundred years.”
+
+And then she got down off that table the long way, on her hands and knees, twenty-two paces, and put the board she had written on back under the shelf in the stack of forty, and she could not see it go.

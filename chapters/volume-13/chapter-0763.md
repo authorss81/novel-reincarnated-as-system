@@ -1,6 +1,6 @@
 # Two Figures In One Column
 
-She wrote a five into her own row on the twenty-second of the month beginning two thousand four hundred and forty-four at the ninth hour, standing, in daylight, in the ordinary voice, with a nib out of a bag she had carried up eight hundred and eighty steps, under the figure the room had put there, and it cost her an arm and it cannot be taken out.
+She wrote a five into her own row on the twenty-second of the month beginning two thousand four hundred and forty-four at the ninth hour, standing, in daylight, with a nib out of a bag she had carried up eight hundred and eighty steps, under the figure the room had put there, and it cost her an arm and it cannot be taken out.
 
 ## The Board She Chose
 
@@ -10,15 +10,15 @@ It is a board of pale wood a foot long and two inches across with the grain runn
 
 She did not use one of the forty boards in the stack and she had thought about it for three days and she is not going to explain why out loud because there is not one instrument in this world that would tell the difference.
 
-She said, standing, in daylight, in the ordinary voice, at the near end of that table with the strip in her left hand:
+She said, standing, in daylight, at the near end of that table with the strip in her left hand:
 
 “This is mine. This is the only piece of this room that has ever been mine and it has been lying face up under a table where it is not looked at for one hundred and seventy-one days, and I am not going to put it in a bundle with forty other things and send it out of the building.”
 
-She said, “And I am not going to be rescued out of it and I am not going to be let. There is not one mouth in this building that knows I am in this room. There is no voice in my head that is going to ask me not to, and if there were one I would say no to it in the ordinary voice and I would go on.”
+She said, “And I am not going to be rescued out of it and I am not going to be let. There is not one mouth in this building that knows I am in this room. There is no voice in my head that is going to ask me not to, and if there were one I would say no to it where I could be heard and I would go on.”
 
 ## What A Price Is
 
-She stood there for a count of a hundred and forty before she did it, and she said out loud what she was about to do, standing, in daylight, in the ordinary voice, so that the room had it in the air before the nib went near the wood.
+She stood there for a count of a hundred and forty before she did it, and she said out loud what she was about to do, so that the room had it in the air before the nib went near the wood.
 
 She said, “A row has a head and a head is a figure, and the figure at the head of this one is ten days, twenty-one hours and thirty-six minutes and it is what I cost.”
 
@@ -52,7 +52,7 @@ It did it in a count of about nine while the nib was still on the wood, and it w
 
 And the hand that wrote it was hers.
 
-She said, standing, in daylight, in the ordinary voice, at the near end of that table, with her arm open in front of her and her left hand round the wrist of it:
+She said, standing, in daylight, at the near end of that table, with her arm open in front of her and her left hand round the wrist of it:
 
 “There it is again.”
 
@@ -66,7 +66,7 @@ And what she was doing was not feeling sorry and it was not feeling brave. She w
 
 It did not do anything. The light came down that wall two of her own hand a day and the low door stood open on a stair that goes down eight hundred and eighty steps, and the person at the far end of that table did not look up, and there was no sound anywhere in that room, and nothing had changed in that room since the fifth hour of that morning except that a forearm was thinner and a piece of wood had a five in it.
 
-She said out loud, standing, in daylight, in the ordinary voice, at the seventh hour of the twenty-second of that month:
+She said out loud, standing, in daylight, at the seventh hour of the twenty-second of that month:
 
 “That is the whole of what it feels like and I had expected more and I am not going to pretend I had expected more.”
 
@@ -94,13 +94,11 @@ She said, “And so this room is going to be holding a thing it cannot use, on a
 
 And then she said the part that is about herself and it is the plainest thing she has said in this room in a hundred and seventy-one days.
 
-She said, “I have been escaping being counted since I was nine years old.”
-
-She said, “And I got a bar at nine and I have carried it nineteen years and I left it against a wall on purpose on the twenty-first of the month beginning two thousand three hundred and fifty-four because there was nothing in this room I could put it down for.”
+She said, “I have been escaping being counted since I was nine years old, and I got a bar at nine and I have carried it nineteen years and I left it against a wall on purpose on the twenty-first of the month beginning two thousand three hundred and fifty-four because there was nothing in this room I could put it down for.”
 
 She said, “And there was not one thing in this room I could put it down for until the eighth of the month beginning two thousand four hundred and fourteen, and it took me four days at the near end of that table to find out what it was, and it was a column with thirteen empty places in it.”
 
-And she said the last of it standing, in daylight, in the ordinary voice, on the twenty-fourth of that month at the ninth hour, with the strip of pale wood flat on the top of that table and her right forearm open across her knees.
+And she said the last of it standing, in daylight, on the twenty-fourth of that month at the ninth hour, with the strip of pale wood flat on the top of that table and her right forearm open across her knees.
 
 She said, “I am not going to be let out of this and I am not going to be pulled out of it and nobody has asked me and nobody is going to.”
 
@@ -108,4 +106,4 @@ She said, “And being entered is not the same thing as being rescued and I know
 
 She said, “I put it in there because a figure that is a price can only be added up and a figure that is a person can be counted, and there are not one person in this building who has ever counted me, and I am nineteen years old and there is a boy of sixteen four miles down that mountain who does not know what a row is.”
 
-She said, “And I did that at the ninth hour of the twenty-second of that month, standing, in daylight, in the ordinary voice, and there is not one mouth above this line that knows it happened, and I am not going to tell the room.”
+She said, “And I did that at the ninth hour of the twenty-second of that month, standing, in daylight, at the place where the arms go, and there is not one mouth above this line that knows it happened, and I am not going to tell the room.”

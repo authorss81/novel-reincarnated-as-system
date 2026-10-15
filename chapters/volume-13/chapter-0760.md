@@ -10,7 +10,7 @@ She stood at the near end of that table with her feet together and her arms down
 
 Then her weight went onto the outside of one foot and her breath came off nine and she got it back, and it went off again on the seventh count, and she stood there for most of a day with nothing at all happening at the far end of the table.
 
-She said out loud, standing, in daylight, in the ordinary voice, at the seventh hour of that day:
+She said out loud, standing, in daylight, at the seventh hour of that day:
 
 “A comparison needs two things standing still and this room has only ever had one of them, and the one it has is a person, and I am not going to be able to be the other one of those two things while I am standing on my own feet in the middle of this floor.”
 
@@ -26,7 +26,7 @@ Then she stood there for the rest of that day with nothing at all happening at t
 
 And in the evening of the tenth she got under that table with a cross-beam across her shoulders and lay on her back on the stone and put her hand flat on her own strip and read the head of the row and the one figure in the column with her fingers, the way she has done about forty times.
 
-She said, out loud, on the flat of her back, in the ordinary voice:
+She said it out loud, on the flat of her back, with the boards over her and the strip under her hand:
 
 “If I say a figure out loud in this room at the place where the arms go, then that is a row, and a row is the only instrument this building has, and the instrument is a person, and I have not got one of my own.”
 
@@ -40,7 +40,7 @@ On the eleventh she got up on the table.
 
 It took a count of nine and it has not taken four tries since the twenty-first of the month beginning two thousand three hundred and fifty-four. She went twenty-two paces along the top of it on her hands and knees with the grain of the wood under her palms, and she knelt on the shelf in front of that lamp, in the light, with the wall behind it and nothing behind the light.
 
-And then she did the thing she had not done in that room in six months, which is to say a row out loud on purpose, standing, in daylight, in the ordinary voice, at the place where the arms go.
+And then she did the thing she had not done in that room in six months, which is to say a row out loud on purpose, standing, in daylight, at the place where the arms go.
 
 She said, “I am nineteen years old.”
 
@@ -78,7 +78,7 @@ The hands let go of her and went back up the leg of the table and along the wood
 
 She came down off the table the long way, on her hands and knees, twenty-two paces, and got her feet on the stone and stood there with her right arm open in front of her and her left hand round the wrist of it.
 
-And then she said the whole of it out loud, standing, in daylight, in the ordinary voice, at the near end of that table, and it took a count of a hundred and forty and she said it once.
+And then she said the whole of it out loud, standing, in daylight, at the near end of that table, and it took a count of a hundred and forty and she said it once.
 
 She said, “It measured me.”
 
@@ -100,7 +100,7 @@ She said, “And not one mouth in this building is going to correct it. There is
 
 ## The Sums On The Thirteenth
 
-She did the sums on the thirteenth at the ninth hour, standing, in daylight, in the ordinary voice, at the near end of that table with the light at the far end of it twenty-two of her own hand below the top of that cage.
+She did the sums on the thirteenth at the ninth hour, standing, in daylight, at the near end of that table with the light at the far end of it twenty-two of her own hand below the top of that cage.
 
 She said, “Two thousand four hundred and fifty-six less one thousand five hundred and fifty-nine is eight hundred and ninety-seven days, at one hour and twelve minutes a day, and two thousand four hundred and fifty-six less two thousand three hundred and one is a hundred and fifty-five days in this room.”
 
@@ -112,4 +112,4 @@ She said, “A hundred and fifty-five days I have been a figure in a column that
 
 She said, “And it cost me an arm and it gave me a price, and I asked it nothing and it told me nothing, and I said what I am and it wrote down what I cost, and that is the whole of what a measure does to a person in this building.”
 
-She said, “And I did that on purpose, standing up, in daylight, in the ordinary voice, and I am not going to be able to put it back, and there is a boy of sixteen four miles down that mountain who cannot be weighed by anything at all and who would not have believed me if I had said any part of this to him.”
+She said, “And I did that on purpose, standing up, in daylight, at the place where the arms go, and I am not going to be able to put it back, and there is a boy of sixteen four miles down that mountain who cannot be weighed by anything at all and who would not have believed me if I had said any part of this to him.”

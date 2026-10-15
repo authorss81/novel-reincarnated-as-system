@@ -60,7 +60,7 @@ She had expected a wall. She had said out loud on the nineteenth of the month be
 
 The floor was the floor of that room. The same stone. The same cold under her feet. The wall behind her was the wall behind the lamp’s shelf and she put her right hand flat on it and it was the same cut in the stone she has been looking at for a hundred and forty-four days from the other side.
 
-She said, out loud, in the dark, at the bottom of that stair, in the ordinary voice:
+She said, out loud, in the dark, at the bottom of that stair:
 
 “This is the same room.”
 
@@ -100,7 +100,7 @@ She said, “This is the first distance I have ever counted. Every other thing I
 
 She went back up it on the twenty-third at the sixth hour, in the dark, with nothing in her hands, and it took her two hours and forty of it and she counted every number out loud going up, and the number was the same going up as it had been coming down, which is the one thing about it that she had not known on the nineteenth of the month beginning two thousand two hundred and ninety-four and had not been able to find out until she had come back up.
 
-And on the twenty-third at the ninth hour she said out loud, standing, in daylight, in the ordinary voice, the thing she said about the boy, and then the sums.
+And on the twenty-third at the ninth hour she said out loud, standing, in daylight, the thing she said about the boy, and then the sums.
 
 She said, “There is a boy of sixteen four miles down that mountain who counted forty boards coming off that table in ten minutes on his own, and he does not know what a row is, and I have counted nine hundred and four steps of a stair in the dark twice today and there is not one thing in this building that will pay either of us for it.”
 

@@ -28,7 +28,7 @@ And she got to the four and they were the four, and they were the first four out
 
 It was not. It was a number she had found on the twenty-third of the month beginning two thousand four hundred and fourteen and carried up eight hundred and eighty steps and put against the fourth rib, and it had come out the same going up as it had coming down.
 
-She said it out loud at the bottom of it, in the dark, in the ordinary voice, to a stair:
+She said it out loud at the bottom of it, in the dark, to a stair:
 
 “Nine hundred and four, going up.”
 
@@ -42,7 +42,7 @@ She went down hard on her left hip and her right arm went out ahead of her into 
 
 She sat on that step in the dark with her back to the wall and her right arm across her knees and she did not move for a count of ninety, and then she said the number out loud, which was seven hundred and forty-one, and she had lost count and she had not lost it.
 
-She said, out loud, in the dark, in the ordinary voice:
+She said, out loud, in the dark:
 
 “Seven hundred and forty-one. And I did not lose it, and that is what is new, because on the nineteenth of the month beginning two thousand two hundred and ninety-four the number went and there was nothing left of it anywhere.”
 
@@ -58,7 +58,7 @@ She said, “I have hurt this arm in four countries and I have never once been t
 
 She came back down in about two hours and forty and came out of the place in the wall behind the lamp’s shelf onto the stone of that room with the light above the top of that cage and a person standing at the far end of that table with both hands on the near edge doing the one thing they do.
 
-And she said out loud, standing, in daylight, in the ordinary voice, at the seventh hour of the third of that month:
+And she said out loud, standing, in daylight, at the seventh hour of the third of that month:
 
 “I have been at the top of that stair and at the bottom of it on the same day twice now in nineteen years.”
 
@@ -84,7 +84,7 @@ She said, “Two thousand four hundred and forty-six less one thousand five hund
 
 She said, “And fifty-eight less two is fifty-six and fifty-six divided by two is twenty-eight and the twenty-eighth day from the third of this month is the first of the month beginning two thousand four hundred and seventy-four, and the figure at the head of my row is seven days, fourteen hours and twenty-four minutes out of date.”
 
-And then she said out loud, standing, in the ordinary voice, the thing she has not got an answer to and is not going to pretend she has, and it is about a boy and a record and not about a stair.
+And then she said out loud, standing, the thing she has not got an answer to and is not going to pretend she has, and it is about a boy and a record and not about a stair.
 
 She said, “The only instrument I have ever had is my own count, and I have used it on a row and on a lamp and on a forearm and on this stair, and it has never once been wrong, and there is not one other person in this county who has got one.”
 
@@ -93,3 +93,5 @@ She said, “And the boy of sixteen has not got one. He counted forty boards in 
 She said, “And I have said out loud in this room that I am not going to spend a day of my own life on a thing I do not understand while there is a thing in this room I do not understand, and I said that at the ninth hour of the sixth of the month beginning two thousand four hundred and fourteen, and there are twenty-eight days of it from this morning to the first of the month beginning two thousand four hundred and seventy-four, and there is a thing in this room I have not understood since the eighth of that month.”
 
 She said, “And it is a measure. And I have never in nineteen years been able to stand still where a person is standing still.”
+
+And then she got up off the stone at the near end of that table and stood in the middle of that floor with nothing on any part of it, and put her hands down flat at her sides, and held still.

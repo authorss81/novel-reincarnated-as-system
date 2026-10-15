@@ -8,7 +8,7 @@ She went under it at the second hour of the nineteenth with a cross-beam across 
 
 She has had it under her hand more times than she has counted and she has never once moved it off that stone. A foot long and two inches across, pale wood, the grain running up it, face up, and a head at one end that is a figure and a column.
 
-She said, out loud, on the flat of her back, in the ordinary voice:
+She got her hand round the wood and said it out loud, to the floor of that room:
 
 “The head is ten days, twenty-one hours and thirty-six minutes, and it is in my own hand, and I chose that figure at two posts on a road at the first hour of the first of the month beginning two thousand two hundred and ninety-four, standing, in the open, with nineteen words and a date and a place under it.”
 
@@ -82,8 +82,10 @@ And she put the nib and the cake of ink back inside her shirt against the fourth
 
 She said, “Fifty-eight less thirty-eight is twenty and twenty divided by two is ten and the tenth day from the twenty-first of this month is the first of the month beginning two thousand four hundred and seventy-four.”
 
-And then she said the last of that day out loud, standing, in daylight, in the ordinary voice, and it was about a boy and not about a stair and not about a lamp.
+And then she said the last of that day out loud, standing, in daylight, and it was about a boy and not about a stair and not about a lamp.
 
 She said, “There is a boy of sixteen four miles down that mountain who has never been in a row in his life and who does not know what one is, and there is not one thing I could hand him on the first of that month except a number, and a number is not a hand.”
 
 She said, “And there is no way on the face of it that he is going to find out what a row is from me, and I am going to be in one before the first of that month, and I am not going to be able to tell him.”
+
+And after that she did not go down either stair, and the second pair of cuts down in that column was still empty.

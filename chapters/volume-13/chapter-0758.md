@@ -12,7 +12,7 @@ And she could not do it for a count of eleven.
 
 Her breath went off nine on the fourth count and she got it back and it went off again. Her weight went onto the outside of one foot and she did not put it back. And she understood while she was standing there that the reason is not that the room would look at her. The room does not look at her. The reason is that being looked at is what holds a person still, and there is not one thing in this building that is looking at her, and there has not been since she came into it.
 
-She said out loud, standing, in daylight, in the ordinary voice, at the near end of that table:
+She said out loud, standing, in daylight, at the near end of that table:
 
 “There is not one thing in this room that has ever looked at me, and I have spent a hundred and forty-seven days trying to be measured by an instrument that would have to do it.”
 
