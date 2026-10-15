@@ -383,6 +383,11 @@ chapter prose was written, no chapter of Volume 16 exists, no plot was moved, an
 | `## Volume 16 planning REVIEW REPAIR, 15 Oct 2026 — eleven findings, no prose written, no plot moved` | `state/current.md`, at the foot | The twelve defects, what each was and what it is now, and the four cards that now exist |
 | `## VOLUME 16 PLANNING — REVIEW REPAIR, 15 Oct 2026. The nine findings, and the three found alongside them` | `state/continuity.md`, at the foot | The finding-by-finding table, why the bracket budget was the worst of them, and what the repair did not do |
 | `## VOLUME 16 PLANNED — REVIEW REPAIR, 15 Oct 2026. One thread closed, twelve figures fixed, and what stays open` | `state/open-threads.md`, at the foot | The one closed thread, the twelve figures the next four phases will quote instead of re-deriving, and what is still refused |
+| `## VOLUME 16 BATCH 0004 — REVIEW REPAIR, 15 Oct 2026. Twenty-four findings, nine chapters, no chapter restarted` | `state/continuity.md`, at the foot | The finding-by-finding table, the nine spoken figures that did not re-derive, and what the repair did not touch |
+| `## What the Batch 0004 review repair changed, 15 Oct 2026, and what it did not` | `state/current.md`, at the foot | The cold-reader version of the same repair, with the four-hundred, the lamp, the firsts and the market-day facts a drafter must take from here |
+| `## VOLUME 16 BATCH 0004 — REVIEW REPAIR, 15 Oct 2026. What moved, what did not, and the one line a drafter of Batch 0005 must not re-derive wrongly` | `state/open-threads.md`, at the foot | That no thread moved, three re-derived carried facts, the counts after the repair, and the lesson the next batch has to act on |
+| `### Batch 0004 review repair, second pass — twenty-three more findings, of which nineteen were applied` | `state/continuity.md`, at the foot | The second table, the four findings that were checked and rejected, and the hands, which is a canon question for the volume close and not a Batch 0004 defect |
+| `### OPEN CANON ITEM raised by the Batch 0004 review repair, 15 Oct 2026 — the hands, and which of them is the working one` | `state/open-threads.md`, at the foot | Three answers to one fact across sixteen volumes, and what the volume close has to do about it |
 
 **The one thing that will be forgotten if it is not written down: cards for Volume 16 Batches 0004–0007 existed for
 no phase to write.** The chain is 0001 → 0002 → 0003 → 0004 and each drafting phase writes only the next prompt, so
@@ -398,3 +403,24 @@ the descent's *first time in … days* is **783**, from the room series the Batc
 has a **word band of 1,450–2,700 a chapter**, derived from Volume 15's measured 1,455–2,178 · and **`nobody` and
 `eleven` are 42 and 26 across Volume 15, not 0**, so Volume 16's line of thirty is a deliberate tightening that a
 batch going over has to write down beside the number.
+
+**Volume 16 Batch 0004 was reviewed on 15 Oct 2026 and repaired: twenty-four findings across nine chapters, no
+chapter restarted, no plot moved.** The reviewer's own run was cut off before it could write a verdict, and what
+`logs/volume-16-batch-0004.review.log` contains is its check commands — every completed check came back clean, and
+the last line of the file is a rejected shell call. The repair was made against the committed prose and those
+checks. **Nine of the twenty-four findings were spoken figures that did not re-derive against their own day, and
+every one of the nine sat inside a scene rather than in a morning block**, which is how the batch closed with a note
+claiming that all fifteen chapters' spoken figures reproduced. The rest were a lamp out *since the fourteenth* on
+the fourteenth, a morning block at the sixth hour where the volume keeps them at the ninth, a chapter calling the
+twenty-ninth the last day of a month one chapter before the thirtieth, two references to the wrong day for Dai
+Yu, two hours running backwards and a second day inside the midpoint chapter, **fourteen people whose count rose
+without a single binding being said**, a bundle on the eleventh of a month, a duplicated section heading and two
+that ran into their neighbours, an underived number that contradicted its own chapter, and a count one short of the
+three hundred and ninety-nine the climax needs.
+
+**The second pass found nineteen more defects in Batch 0004 and rejected four of the twenty-three it raised**, including a
+claim that ch 947's day figures were a day out — they are not, and the three figures in that chapter agree with
+each other before they agree with the table. It also turned up a canon question that is not this batch's to
+settle: **three fingers and a thumb on the left hand, against three fingers and a thumb on each in ch 903, 908,
+919 and 920, against four fingers and a thumb on the right hand in the early volumes.** That is now an open item
+at `state/open-threads.md` for the Volume 16 close.

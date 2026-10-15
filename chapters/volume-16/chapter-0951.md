@@ -54,7 +54,7 @@ That was not a figure of speech. The cloth came off the woman’s hands and it w
 
 “I could not take it,” Ning Yan said.
 
-And she tried. That was the part the woman watched. She tried four times with both hands, three fingers and a thumb on the left and a right hand that could hold a lamp and nothing heavier, and the cloth would not stay on her and would not stay in her hands, and it went to the ground.
+And she tried. That was the part the woman watched. She tried four times with both hands, three fingers and a thumb on the left and a right arm that stayed open at the elbow whatever she asked of it, and the cloth would not stay on her and would not stay in her hands, and it went to the ground.
 
 “Can you not hold a cloth?”
 
@@ -100,7 +100,7 @@ Out on the road the figures stood still.
 
 The arm was open at the elbow because it was open at the elbow. The days were gone because they were gone. The place behind her fourth rib was the size of her thumbnail and she had put her hand on it under a lean-to on the nineteenth and had found it exactly the same size it had been on the eleventh.
 
-Seven hundred and eighty-nine days in that room had been seven hundred and eighty-nine days in that room and not one day of it had been a day of this road.
+Seven hundred and ninety-eight days in that room had been seven hundred and ninety-eight days in that room and not one day of it had been a day of this road.
 
 She stood by a wall at about the seventh hour on the twenty-first and worked out, standing, that she had spent nineteen years being afraid of a place and she had come down a mountain out of it and nothing had followed her.
 
@@ -114,7 +114,7 @@ The high country was behind a shoulder of hill and it was gone. She could not se
 
 She stood there and let that be the whole of what she got out of going and looked back over it, because there was a lot in it and she was not going to pretend there was not.
 
-She had been in a room for seven hundred and eighty-nine days when she walked out of it. She was not in a room now. She had a dead lamp in her left hand and four blank leaves against her fourth rib, one of them with her own hand on it in charcoal, and she had told a woman at a stall that the price was on the record and she did not know what it cost her.
+She had been in a room for seven hundred and eighty-three days when she walked out of it. She was not in a room now. She had a dead lamp in her left hand and four blank leaves against her fourth rib, one of them with her own hand on it in charcoal, and she had told a woman at a stall that the price was on the record and she did not know what it cost her.
 
 Ahead of her, where the road crossed another one, there were people.
 

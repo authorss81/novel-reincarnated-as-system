@@ -2,7 +2,7 @@
 
 Three hundred and fifty-eight days since the ninth stage. One hundred and fifty-one since it was shut. Seven hundred and eighty-nine days in that room, and there was no room.
 
-Five hundred and fifty-six days since a cage lamp went out on a shelf in a building she had walked out of three days ago. Seven hundred and ninety-six days with this arm open at the elbow. One thousand five hundred and thirty-one days gone at the sixth of this month and four days since, taken out of her at a rate she derived out of her own life, not one of them coming back.
+Five hundred and fifty-six days since a cage lamp went out on a shelf in a building she had walked out of three days ago. Seven hundred and ninety-six days with this arm open at the elbow. One thousand five hundred and twenty days gone at the sixth of this month and eleven days since, taken out of her at a rate she derived out of her own life, not one of them coming back.
 
 She said all of it standing in the open air at about the ninth hour on the seventeenth of the month beginning three thousand and seventy-four, in the ordinary voice, into nothing, first in her own voice before it was a line anywhere, because that was the rule and because she was not going to stop keeping it because there was no room to keep it in.
 

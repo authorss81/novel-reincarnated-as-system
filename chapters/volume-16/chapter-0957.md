@@ -50,7 +50,7 @@ That was not a thing she had done since the morning of the eleventh of the month
 
 Twenty-eight days.
 
-She had been in a room for seven hundred and eighty-nine days before that and she had been out of one for twenty-eight, and both numbers were correct and they were about a quarter of what the keeping had been doing to her, and she had got so far from thinking of the arithmetic as belonging to the mountain that she had put those two facts side by side on a floor in a village and had to stop for a count of a hundred before she could go on.
+She had been in a room for seven hundred and eighty-three days before that and she had been out of one for twenty-eight, and both numbers were correct and they were about a quarter of what the keeping had been doing to her, and she had got so far from thinking of the arithmetic as belonging to the mountain that she had put those two facts side by side on a floor in a village and had to stop for a count of a hundred before she could go on.
 
 The woman of the house came in at about the fifth hour with a bowl of something hot and put it down on the floor beside her, and did not stay.
 
@@ -60,7 +60,7 @@ Then she got up and went and found the woman in the yard and said, out loud, sta
 
 The woman said that was a strange thing to be and went on with what she was doing.
 
-## What It Sounds Like From Outside
+## Said To Herself
 
 She tried them on herself on the tenth, out loud, standing, in a yard, to nothing.
 
@@ -102,14 +102,14 @@ And then she stopped with her mouth still open, because she had not done the sum
 
 She had sixty-eight on the first of the month and a hundred and forty-nine by the fifth hour of the fourth, and two hundred and twenty-one by the seventh, and after that she had been adding in her head between sentences the way you add while you walk, and it had gone up every time.
 
-The number came out of her mouth in about a count of two, the way the first two hundred days had come out of her mouth, and it was three hundred and something more than the last one she had said out loud, and she had not got a row of anything behind it.
+The number came out of her mouth in about a count of two, the way the first two hundred days had come out of her mouth, and it was bigger than the last one she had said out loud, and she had not got a row of anything behind it.
 
 She stood on that road with a lamp in her hand that had not carried a flame since the fourteenth of a month and worked out, standing, that she had said out loud a number she could not derive.
 
 That was the rule. She had said it out loud, in her own mouth, since she was ten years old, every morning for nineteen years, that she does not say a number she cannot derive.
 
-And she had just said one in front of two hundred and eighty-eight people and about forty other strangers, and there was not one line of work behind it.
+And she had just said one out loud, to everybody standing at that end of the road, and the number in it was the number of people in her arithmetic, and there was not one line of work behind it.
 
 She put her hand flat on the wall at the gap in the road and did not move for about a count of a hundred and twenty.
 
-Then she went back to the end of the queue.
+Then she went back to the end of the queue and put the next number out loud to find out whether it came out of her the same way, because she had just told forty people she did not say a number she could not derive.

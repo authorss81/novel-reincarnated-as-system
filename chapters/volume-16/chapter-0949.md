@@ -40,7 +40,7 @@ The woman behind the stall had not moved once.
 
 “For how long.”
 
-“Seven hundred and eighty-nine days in the room. Nine years since it began.”
+“Seven hundred and ninety-two days in the room. Nine years since it began.”
 
 The woman put her thumb on the edge of the boards and did not say anything for about a count of a hundred and twenty.
 

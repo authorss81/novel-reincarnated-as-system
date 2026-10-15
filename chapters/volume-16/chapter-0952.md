@@ -1,6 +1,6 @@
 # Not On The Edge Of A Road
 
-She found her again on the twenty-ninth about two days after the woman had walked off down the road, because there was nowhere else she could be.
+She found her again on the twenty-ninth about three days after the woman had walked off down the road, because there was nowhere else she could be.
 
 The crossing was where the made road came off the hill road and there was a low stone wall at one end of it with a gap in it, and the woman with the pole came off the pass on the last day of every third day or something near it, and Ning Yan had been sitting at the gap in the wall for two days.
 
@@ -82,7 +82,7 @@ The woman looked at her.
 
 Dai Yu laughed. It was not a kind laugh. It was the noise a person makes when they have been arguing with a wall and the wall turns out to be right.
 
-“That is the first sensible thing you have said to me since the twentieth,” she said.
+“That is the first sensible thing you have said to me since the twenty-third,” she said.
 
 ## The Part She Was Bad At
 
@@ -108,7 +108,7 @@ She went back to the wall at the gap and wrote the fourth sentence on the flat o
 
 “All right,” Dai Yu said. “That is a question.”
 
-## The Last Day Of The Month
+## The Day Before The Market
 
 They sat on the wall until the light went.
 
@@ -116,9 +116,9 @@ Ning Yan asked her twice more over those hours, standing, both times, both times
 
 And then, somewhere in the middle of it, Ning Yan said something she had not meant to.
 
-She said, “You are the third person I have asked and the second one who has not said yes and I have been walking round this wall for two days and I want you to know that I am not good at this and that I am doing it anyway.”
+She said, “The only person who has said yes to me is a woman who sells oil at a stall, and I have been walking round this wall for two days, and I want you to know that I am not good at this and that I am doing it anyway.”
 
-“Everybody knows that,” Dai Yu said. “Everything you have said to me for four days has been about a machine. All I have wanted from you since the twentieth is a straight sentence about what you do not know.”
+“Everybody knows that,” Dai Yu said. “Everything you have said to me for four days has been about a machine. All I have wanted from you since the twenty-third is a straight sentence about what you do not know.”
 
 “It is three sentences.”
 
@@ -128,15 +128,13 @@ And then the light went and the woman shouldered her pole and went up the pass, 
 
 ## What Was On The Road
 
-It was the last day of the month.
-
-She had not been counting to that and she found it out from the road, which was something new. The made road was full. There were carts and there were people on foot and there were people standing about at the edges of it not going anywhere, and they were not there for any reason she could see.
+It was the day before the last day of the month, and she had not been counting to that and she found it out from the road, which was something new. The made road was full. There were carts and there were people on foot and there were people standing about at the edges of it not going anywhere, and they were not there for any reason she could see.
 
 She asked a boy with a drove of pigs what the day was.
 
-“Market day,” he said. “Last day of the month. Everybody comes down off the hills for it and then they all go back up and it is the same every month and there is nothing to buy.”
+“Market tomorrow,” he said. “Last day of the month. Everybody comes down off the hills the night before and sleeps in the row and then they all go back up on the second day, and it is the same every month and there is nothing to buy tonight.”
 
-There were going to be people there tomorrow.
+There were going to be four times as many people on that road tomorrow as there were on it now, and every one of them would be there because of something that had nothing to do with her.
 
 She stood up off the wall and worked out, standing, in the ordinary voice, that she had asked one question in four days and got a better answer out of it than she had got out of nine hundred and four steps of stair, and that the answer was that she was going to have to say a thing in front of a crowd and she was going to have to be watched while she said it.
 

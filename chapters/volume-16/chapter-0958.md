@@ -2,7 +2,7 @@
 
 Bao Ren had been at the back of the queue for two days with a broken cart shaft and a tarred bed on his own cart, and he came to her on the thirteenth of the month and he came to her on purpose.
 
-He was about forty and he had hands like a man who had been getting up before the light for thirty years and he had listened to her say the three sentences twice before he came forward, which she knew because she had said them on the ninth to somebody else in front of him.
+He was about forty and he had hands like a man who had been getting up before the light for thirty years and he had listened to her say the three sentences twice before he came forward, which she knew because she had said them on the tenth to somebody else in front of him.
 
 She said them to him standing, in the ordinary voice, at the edge of the road with the rain going past them both.
 
@@ -80,7 +80,7 @@ He had asked her one question, about himself, and he had wanted the answer to be
 
 ## Taking It Back
 
-She tried to take it back at about the ninth hour and it was the first time in nineteen years she had tried.
+She tried to take it back at about the seventh hour and it was the first time in nineteen years she had tried.
 
 She stood at the gap in the low wall with the count in her head and the rain still going and she said it out loud, standing, in the ordinary voice, in front of a queue of about forty people, in the plainest words she could find.
 
@@ -120,7 +120,7 @@ Three hundred and forty-four by the ninth hour on the thirteenth.
 
 She said it out loud, standing, in the ordinary voice, and she derived it, because she had worked out on the tenth that she was going to have to do it every single night whether she wanted to or not, and it was the one figure in her life that had ever got away from her.
 
-Three hundred and forty-four. One of them was a boy of sixteen in a mountain with oil he made and could not buy. One of them was a man of forty-one in the second county who had spent nine days getting a thing that could not be got out of.
+Three hundred and forty-four. One of them was a boy of sixteen in a mountain with oil he made and could not buy. One of them was a man of forty-one in the second county who had spent four days getting a thing that could not be got out of.
 
 There was no place in nine hundred years of a keeping where a promise like that was written down except the record of the binding, and the record of the binding said nothing about promises, and she had made it out loud, in front of twenty people, on a road, in the rain.
 

@@ -1,6 +1,6 @@
 # Four Hundred
 
-Her name was He Yu and she had been standing at the far end of that road for two days because she had a farm, a daughter-in-law, and a house she could not leave without two days’ work being left undone in it, and she had decided twice to go home and finish it and had not gone.
+Her name was He Yu and she had been standing at the far end of that road for four days because she had a farm, a daughter-in-law, and a house she could not leave without two days’ work being left undone in it, and she had decided twice to go home and finish it and had not gone.
 
 She came forward when Ning Yan came down the road towards her, and she said the first thing.
 
@@ -16,7 +16,7 @@ She came forward when Ning Yan came down the road towards her, and she said the 
 
 ## What She Was Told First
 
-She stood in the rain at the edge of a road and said it standing, in the ordinary voice, with her hands where anybody could see them was empty.
+She stood in the rain at the edge of a road and said it standing, in the ordinary voice, with her hands, where anybody could see them, empty.
 
 “The price of it is on the record. I do not know what it costs me. No name taken into the keeping is sent anywhere. Nothing is done to you. I am the only one who binds you.
 
@@ -40,7 +40,7 @@ He Yu did the arithmetic her way, which is to say slowly and without moving her 
 
 “You have got the number.”
 
-“I have got the number and about fifty names and one face I could find this morning for about thirty of them.”
+“I have got the number, and about fifty names, and I could put a face to about thirty of them this morning.”
 
 ## The Question She Asked Back
 
@@ -66,7 +66,7 @@ He Yu said, “Then my name goes in and not just the number.”
 
 That was the whole of what was left and it took her about a count of forty to work out why she had said it.
 
-A thing is said in the voice of the person it is about, standing, before it is a line anywhere. She had bound a boy at a table with one clause and then a woman at a stall and three hundred and ninety-five more out of her own mouth in the ordinary voice, and not one name of them had ever gone into a record in nine hundred years because not one of them had asked to be in a record.
+A thing is said in the voice of the person it is about, standing, before it is a line anywhere. She had bound a boy at a table with one clause and then a woman at a stall and three hundred and ninety-seven more out of her own mouth in the ordinary voice, and not one name of them had ever gone into a record in nine hundred years because not one of them had asked to be in a record.
 
 He Yu had asked. She was the person it was about. It was hers to say.
 
@@ -136,7 +136,7 @@ She had said that once in nineteen years and she had said it standing in a room 
 
 Nobody unbound a person out of this by wanting them less.
 
-She said that out loud too, standing, in the ordinary voice, on the nineteenth of the month beginning three thousand and seventy-four, and she said it as a finding and not as a warning, because she was not warning anybody of anything. She was putting the last of it in.
+She said that out loud too, standing, in the ordinary voice, on the nineteenth of the month beginning three thousand and one hundred and four, and she said it as a finding and not as a warning, because she was not warning anybody of anything. She was putting the last of it in.
 
 “This is on the record now and it is the four hundredth line of it and there is no sentence in the world that takes one of these off a person who said yes. Not in a year. Not when I am gone. Not by me and not by anybody.
 
@@ -144,11 +144,9 @@ She said that out loud too, standing, in the ordinary voice, on the nineteenth o
 
 ## The End Of It
 
-She put her hand up under her own ribs on the left side, high, behind the fourth one, because that is where it would be if she were able to feel what she had just done.
+She put two fingers under her own ribs on the left side, high, behind the fourth one, and pressed, and there was nothing at all under her fingers.
 
-It was the size of her thumbnail.
-
-It was not different.
+It was the size of her thumbnail and it had been the size of her thumbnail since she was a child, and it had not been any different on any of the days she had put her hand on it since she came down out of that mountain.
 
 She stood there in the rain at a gap in a low wall with a lamp in her left hand that had not carried a flame since the fourteenth of the month beginning three thousand and seventy-four, and four hundred people in an arithmetic she had carried off a mountain on her own, and there was no report, and there was no number, and the place behind her fourth rib was the size of her thumbnail and had been since she was a child.
 
@@ -158,7 +156,7 @@ She looked at the road. It ran on past the gap, down across the flat and away in
 
 She had nine hundred years of a ceiling and a keeping behind her and four hundred people in front of her and a sentence she had not got.
 
-She said that out loud, standing, in the ordinary voice, in the rain, on the nineteenth of the month beginning three thousand and seventy-four, and about nine people heard it.
+She said that out loud, standing, in the ordinary voice, in the rain, on the nineteenth of the month beginning three thousand and one hundred and four, and about nine people heard it.
 
 “I have got four hundred people and I have not got one sentence, and the sentence has to be said by me, standing, in the ordinary voice, before it is a line anywhere, and I do not have it yet.”
 

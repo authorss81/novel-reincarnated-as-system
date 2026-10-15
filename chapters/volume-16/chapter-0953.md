@@ -26,7 +26,7 @@ Dai Yu saw her.
 
 “Right,” Ning Yan said. “All right.”
 
-## Said First
+## Said First, In The Open
 
 She stood up straight in the middle of a road with people looking at her and said it.
 
@@ -70,7 +70,7 @@ Nobody moved.
 
 And she felt her own face go hot in the middle of a road, which she had not done since she was ten years old, and she stood there with the feeling going all the way down through her the way heat goes through a hand.
 
-## The Part She Was Bad At
+## Getting It Wrong
 
 She got it wrong for about two hours.
 
@@ -94,7 +94,7 @@ A woman of about sixty asked her what happened to the ones who said yes if she d
 
 ## The Anger
 
-She snapped at somebody about the fourth hour.
+She snapped at somebody about the ninth hour.
 
 She did not mean to and she heard herself do it. A man had asked her twice for the price and she had told him twice that she did not know, and on the third time she said, “If you cannot hear a sentence the first two times that is a thing about you and not about me,” and it came out of her mouth in the ordinary voice and it went across that road and a woman two places along put a hand on her arm.
 
@@ -106,13 +106,13 @@ Then she went and found the man and said it again properly, that she was sorry, 
 
 ## What She Did With The Rest Of It
 
-She stopped asking at about the sixth hour of the second day.
+She stopped asking at about the tenth hour.
 
 Not because the road ran out. There were still people standing at the edges of it who had not heard and who came over when she stopped.
 
 She stood in the middle of the road with her dead lamp in her hand and said the true thing.
 
-“I have asked people every single day since I came off that mountain and I have got three of them. One of them said yes to me in the wind on her own. The second one said she would only say it in front of people, and she has, this morning. That is three.
+“I have been asking people since the twentieth and I have got three of them. One of them said yes to me in the wind on her own. The second one said she would only say it in front of people, and she has, this morning. That is three.
 
 “I have been doing this for ten days and I am bad at it and I have told at least four of you about a machine when I should have told you about myself, and one of the four was me being short with him, and I said sorry out loud and I meant it.
 
@@ -120,17 +120,19 @@ She stood in the middle of the road with her dead lamp in her hand and said the 
 
 “I will be on this road tomorrow and the day after that and the day after that, and I will keep asking, and I will keep saying sorry in the open when I get it wrong.”
 
-## What Happened Next
+## The Queue Builds Itself
 
 A woman about half way back said, “I will come back tomorrow.”
 
-And then somebody else said it, and then eleven of them said it at once, raggedly, over each other, not because she had asked them to and not because anybody told them to, and one more said it after the eleven had stopped.
+And then nine of them said it at once, raggedly, over each other, not because she had asked them to and not because anybody told them to, and one more said it after the nine had stopped.
 
 Ning Yan stood in the middle of that road with the rain going into her collar and did not move for about a count of two hundred.
 
-She had been in a room for seven hundred and eighty-nine days. She had said six figures a morning into a wall for nineteen years and had been answered by nothing, and she had got to the end of that road and said one sentence to a crowd of strangers in the wrong way and been watched while she said it.
+She had been in a room for eight hundred and two days. She had said six figures a morning into a wall for nineteen years and had been answered by nothing, and she had got to the end of that road and said one sentence to a crowd of strangers in the wrong way and been watched while she said it.
 
 And then a road full of people had built itself a queue.
+
+She said the line to every one of the eleven, standing, in the ordinary voice, in the middle of the road, one at a time, and it took her about a count of four hundred, and not one of the eleven went away afterwards.
 
 She put her hand up under her own ribs on the left side, high, behind the fourth one, because that is where she had put it every morning for nineteen years, and it was the size of her thumbnail and it was not different.
 
@@ -138,4 +140,4 @@ Then she said the count out loud, standing, in the ordinary voice, in the middle
 
 There were about sixty people at the end of that road in the rain who had not heard one word of any of it.
 
-She had not slept under a roof since the eleventh and she was going to have to do all of it again in about six hours.
+She had not slept under a roof since the eleventh and she was going to have to do all of it again in about twenty hours.

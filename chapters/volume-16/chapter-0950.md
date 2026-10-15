@@ -74,7 +74,7 @@ She was not going to read it. She knew that standing at the end of the row with 
 
 ## What She Could Not Learn
 
-She tried to learn it on the twenty-second and she could not.
+She tried to learn it on the twenty-third and she could not.
 
 She got a man on the road at about the sixth hour, a man of about fifty going somewhere with a bundle on his back, and she stood in front of him and opened her mouth to say the three sentences and the three sentences were not there.
 

@@ -16,7 +16,7 @@ She was standing at the edge of the road with a queue of nine people in front of
 
 A bundle of boards, corded twice, going up nine hundred and four steps of a stair that did not stop at nine.
 
-She had felt it come up under her twenty-five times standing at the foot of that stair, and she had felt it come up under her twice standing on a stone floor with a board in her hand, and she had felt it come up on the eleventh of a month while she was being born as a person who had decided to walk out of a building.
+She had felt it come up under her twenty-five times standing at the foot of that stair, and she had felt it come up under her once standing on a stone floor with a board in her hand, and that one had been ten days before she walked out of a building and she had not gone down the stair for it on purpose.
 
 She had not felt one the whole of the time she had been on the mountain and she did not know why she had thought she would.
 
@@ -78,7 +78,7 @@ She watched a man’s face and she waited until he had actually finished, and ab
 
 She could tell the difference by the fourth hour.
 
-On the first day she had not been able to tell the difference at all.
+On the first day she had asked anybody, she had not been able to tell the difference at all.
 
 ## The Count
 

@@ -2,7 +2,7 @@
 
 Three hundred and eighty-seven days since the ninth stage. One hundred and eighty since it was shut. Eight hundred and eighteen days in that room. Five hundred and eighty-five days since a cage lamp went out on a shelf. Eight hundred and twenty-five days with this arm open at the elbow. One thousand five hundred and sixty days gone, taken out of her at a rate she derived out of her own life, not one of them coming back.
 
-She said all of it standing at the ninth hour on the sixteenth of the month beginning three thousand and seventy-four, in the ordinary voice, at the gap in the low wall, first in her own voice before it was a line anywhere.
+She said all of it standing at the ninth hour on the sixteenth of the month beginning three thousand and one hundred and four, in the ordinary voice, at the gap in the low wall, first in her own voice before it was a line anywhere.
 
 And then she said the other one, which was the number of people in the arithmetic of a woman standing at a gap in a wall.
 
@@ -26,7 +26,7 @@ Then she went through them.
 
 That was the part of the morning she had not planned. She sat on a wall at a gap in a road and went through three hundred and ninety-nine people, one at a time, and looked for them in herself the way she looked for a figure in her head, and found out where the number stopped being made of people.
 
-She could put a face to Kan Shou, and to Dai Yu, and to Guo Sheng, and to Bao Ren and his broken cart shaft, and to Fen and his thumb, and to the woman of fifty who had asked her what happened when she died, and to about thirty others.
+She could put a face to Kan Shou, and to Dai Yu, and to Bao Ren and his broken cart shaft, and to Fen and his thumb, and to the woman of fifty who had asked her what happened when she died, and to about thirty others.
 
 She could put names to maybe fifty.
 
@@ -40,7 +40,7 @@ Three hundred and ninety-nine had nothing behind it but the fact that she had sa
 
 She said that out loud, standing, in the ordinary voice, at a gap in a wall, and then she said the other half of it.
 
-“I put a hundred and forty-nine of them in a keeping nine hundred years old and I cannot put forty faces to them and I cannot find one road between here and where most of them live. That is what a number is. A number is a thing that does not remember what went into it.”
+“I put three hundred and ninety-nine of them in a keeping nine hundred years old and I cannot put forty faces to them and I cannot find one road between here and where most of them live. That is what a number is. A number is a thing that does not remember what went into it.”
 
 ## What The Road Had Left
 
@@ -78,7 +78,7 @@ The left leg had gone at the knee by the eighth day and she had stopped noticing
 
 She went looking for the four hundredth on the fifteenth.
 
-That was the last day of a queue and she understood on the fourteenth that it was the last day, and she spent the fifteenth going down the road on her own two feet for about as long as the light lasted, because a queue only exists where people have heard and there were nine people in nine counties who had heard and she had already got them all except one.
+That was the last day of a queue and she understood on the fourteenth that it was the last day, and she spent the fifteenth going down the road on her own two feet for about as long as the light lasted, because a queue only exists where people have heard and there were eleven people in nine counties who had heard and she had already got them all except one.
 
 She went down the road past the flat and up onto the first rise and along the side of the hill and back again, and she asked about eleven people on the way, and ten of them had heard of it and had been and had said no and had reasons.
 

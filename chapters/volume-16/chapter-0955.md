@@ -30,7 +30,7 @@ It had been written down after her.
 
 That was the whole of what had happened on the road and she stood there and worked it out in pieces while a queue waited behind her.
 
-The rule is that a thing is said in the voice of the person it is about, standing, before it is a line anywhere.
+The rule was hers and she had not broken it once in nineteen years, and what had come up out of the ground was not a judgement on anything she had done.
 
 She had been saying it in the open air, on hillsides, in the rain, to people who had not agreed yet, and she had believed, somewhere underneath the believing, that it could not work out here. That the room was the instrument. That the mountain was in it.
 
@@ -116,9 +116,9 @@ She stood with that for a count of forty.
 
 ## What She Could Not Take Back
 
-At about the seventh hour on the fourth she had stood in the road with a hundred and forty-nine in a line in the keeping and forty-five of them the road had watched her put there.
+At about the seventh hour on the fourth she had stood in the road with a hundred and forty-nine in a line in the keeping and sixty-eight of them the road had watched her put there.
 
-The other hundred and four she had done in her own voice with no one looking on, on a hillside, on a road, in front of a woman at a stall and a carter at a wall and thirty-eight others who had come to her one at a time in the dark.
+The other eighty-one she had done in her own voice with no one looking on, on a hillside, on a road, in front of a woman at a stall and a carter at a wall and thirty-eight others who had come to her one at a time in the dark.
 
 She had said all of it standing, in the ordinary voice, before it was a line anywhere.
 
