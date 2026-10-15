@@ -137,3 +137,7 @@ Then she said, “Then that was where you had been living.”
 “Then you had been living in the wrong place,” the woman said, “and so had I, and there was not one of us that knew.”
 
 And she went up the stairs to look at it.
+
+The stone under her hand on the way up was the same stone and it was cold the whole way, and there were about four hundred people on the top of that terrace and under it, and not one of them had known that morning that there was anything underneath them at all.
+
+And then she was going to have to go back out into a street with about four hundred people on and under the stone above it and say that out loud, standing, in the ordinary voice, to whichever of them was standing there, which was the only way she had of saying anything at all.

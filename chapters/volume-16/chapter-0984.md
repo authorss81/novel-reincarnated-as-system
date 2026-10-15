@@ -10,7 +10,11 @@ She had a thing to do on the ninth day and it was the only thing she had, and sh
 
 She had been counting stones.
 
-The quarry terrace above the flat. Nine gaps in the wall line with two posts in each of them. The ring of twenty-two around a bowl. A ring of nine on the far side of that bowl, which she had not been able to reach and had counted off the west rim. A marker at the top of a house on the road east. The Nine Steps Terrace at Lowwater. One at the head of the pass. One at the top of the weir, where the water comes off. One on the made road out of the flat, that she had gone past on the sixth day without stopping. And one at a gateway by the weir that four families use every day and have never once looked at.
+The quarry terrace above the flat. Nine gaps in the wall line with two posts in each of them. The ring of twenty-two around a bowl. A ring of nine on the far side of that bowl, which she had not been able to reach and had counted off the west rim. A marker at the top of a house on the road east.
+
+Five of them, and five more that had come at her one at a time over nine days.
+
+The Nine Steps Terrace at Lowwater. One at the head of the pass. One at the top of the weir, where the water comes off. One on the made road out of the flat, that she had gone past on the sixth day without stopping. And one at a gateway by the weir that four families use every day and have never once looked at.
 
 Ten places in four counties where the same stone stands with nothing cut on it anywhere.
 

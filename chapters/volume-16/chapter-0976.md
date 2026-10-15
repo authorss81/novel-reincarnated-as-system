@@ -136,7 +136,7 @@ And there is no reason that stone has ever been given for letting go at the top 
 
 She put her palm flat on the top course. It was warm under her hand. The day was cold and wet and had been since before the light, and nine hundred years of that stone had never once been warm.
 
-That one did not go into a column either. She had told four hundred people on a road that she does not put a thing into a keeping she cannot derive, and she was not going to start making an exception for a warm stone on a hillside at the eighth hour.
+That one did not get said out loud either. She had told four hundred people on a road that she does not put a thing into a keeping she cannot derive, and she was not going to start making an exception for a warm stone on a hillside at the eighth hour.
 
 So she came down off it. Forty-one people, one firing, and a thumb’s width of gap.
 

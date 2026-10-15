@@ -106,7 +106,11 @@ He put it down on the bank between them at about the seventh hour without saying
 
 “I am not able to be given anything.”
 
-“You are standing at a gate on a hill in the cold for nine hours a day and there is nothing on you from this morning, and I have walked nine days and I have eaten every day of it, and that is the whole of the arithmetic and I worked it out on the fourth day.” He did not look at her. “I am not giving it to you. I am putting it on the bank and you can do what you want with it and it does not cost you anything to do it.”
+“You are standing at a gate on a hill in the cold for nine hours a day and there is nothing on you from this morning. I have walked nine days and I have eaten every day of it. That is the whole of the arithmetic and I worked it out on the fourth day.”
+
+He did not look at her.
+
+“I am not giving it to you. I am putting it on the bank and you can do what you want with it and it does not cost you anything to do it.”
 
 She stood there for about a count of four hundred with her hand out and not touching it.
 

@@ -74,7 +74,7 @@ She stood at the weir for about a count of four hundred after the woman had gone
 
 She could not.
 
-Not one part. She had two counties of ground that had moved and she had eighty-six days out of a room and a road that had lost a bend, and she had no instrument on any of the three that would put one against another, and there is no column in nine hundred years of anything that takes a county.
+Not one part. She had two counties of ground that had moved and she had eighty-six days out of a room and a road that had lost a bend, and she had no instrument on any of the three that would put one against another, and there was nothing standing anywhere in nine hundred years that would take a county.
 
 So she said the true thing, standing, in the ordinary voice, at the weir, out loud, which is a thing she has done about four times in nineteen years.
 

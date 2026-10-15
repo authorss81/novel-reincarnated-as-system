@@ -120,7 +120,7 @@ She could not refill it. There is no oil in nine hundred years of any keeping in
 
 She could leave it on the wall outside the gap, which is where it had been for seventeen days and where it would keep perfectly well.
 
-She picked it up and put it in her left hand and carried it down the road, and there was no reason on this earth that she could put in a column, and she was not going to try.
+She picked it up and put it in her left hand and carried it down the road, and there was no reason on this earth that she could put down anywhere, and she was not going to try.
 
 And then she stood in the gap for about a count of a hundred and worked out what she actually had, standing, in the ordinary voice, on her own, which is the whole of what the next of it is going to be made out of.
 

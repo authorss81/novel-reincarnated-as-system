@@ -6,7 +6,7 @@ She had known that at about the fourth hour of the second day, sitting on the wa
 
 ## Getting Out Of The Flat
 
-She started at the fifth hour with a basket, because a basket is the only excuse a person can carry for walking in a straight line all day and she had wanted somebody to ask her about it.
+She started at about the fifth hour of the third day with a basket, because a basket is the only excuse a person can carry for walking in a straight line all day and she had wanted somebody to ask her about it.
 
 Not one person asked her about it. Not one person in the flat had asked her about anything since the ninth hour of the second day except the kiln-man’s wife, who came out into the road at the fourth hour with a pot in each hand and put them down in front of her and said, “That is four hundred of them and one of them is whole.”
 
@@ -100,7 +100,7 @@ Not a short bit of it. She stood in the road and looked both ways until the ligh
 
 She had a number of paces in her. She had been counting since the fifth hour and she could have put the figure down out loud in about a count of six hundred.
 
-There was nothing to put it against. That was the part she stood there with. A number of paces is a real thing and it is the only instrument she has ever had, and a number of paces against what, against a thing she cannot name, in a country where there is no column anywhere that would take it.
+There was nothing to put it against. That was the part she stood there with. A number of paces is a real thing and it is the only instrument she has ever had, and a number of paces against what, against a thing she cannot name, in a country where there was nothing left standing anywhere that a figure would go into.
 
 So she did not say it, and there was not one person there to hear her not say it.
 
