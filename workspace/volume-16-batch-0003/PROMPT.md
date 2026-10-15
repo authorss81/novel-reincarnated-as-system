@@ -146,8 +146,11 @@ at ch 965 is the last bundle in the world.
   and two remain after it, at ch 955 and ch 971, and ch 971 is the last bracketed line in the manuscript.** A batch
   that carries one and says two is the defect this line exists to prevent. No bracket explains anything, is about her,
   or is his voice.
-- **No `forgiv` across all fifteen.** The only one in the volume is at ch 1000. **No `thank` in the volume. No
-  `the year` before ch 999.** **She does not forgive him, does not thank him, does not call it brave, does not call it
+- **No `forgiv` across all fifteen.** The only one in the volume is at ch 1000. **No `thank` as a whole word anywhere in
+  the volume, and the stem is already spent once: ch 930 carries one `thanked`, in her interior and negated — *she was not
+  going to tell him that she was not going to be thanked for it, because he would not have been able to hear it* — kept on
+  purpose as the one line that turns that construction against itself. Do not use the construction again in any form,
+  including the negation, and do not reach for it by writing around a whole word. No `the year` before ch 999. **She does not forgive him, does not thank him, does not call it brave, does not call it
   good, and does not fill the silence after.**
 - **`ascendant` 0** unless it is inside the offer in her reading of it. **`scribe` within the volume line of fourteen
   (two spent, both inside the word *describe, and twelve remain), never as a speaker, never with a motive, never with a
@@ -270,7 +273,9 @@ writes only the next prompt and no further.**
 Re-derive every ordinal under `((day − 134) mod 30) + 1` and confirm fifteen rows, 3,043 → 3,081, strictly
 increasing, no two chapters on one day; confirm the 3,044 and 3,074 firsts land only at ch 932 and ch 943 and no other
 bundle appears on any day; confirm **exactly one bracket, at ch 940, and none elsewhere**; confirm `forgiv`, `thank`,
-`the year`, `court`, `ledger`, `choir`, `twenty-two days` all 0; confirm `ascendant` 0 or inside the offer and
+`the year`, `court`, `ledger`, `choir`, `twenty-two days` all 0 **and that `grep -oi 'thank[a-z]*'` over ch 931–945
+returns 0, since the stem is spent at ch 930 and a whole-word count alone will not see a second use**; confirm
+`ascendant` 0 or inside the offer and
 `scribe` within the volume line of fourteen with no speaker, motive or term; confirm **nobody dies, on the page or off
 it**; confirm the apology is in his mouth, in the present tense, with no number on it, for decisions and not costs,
 and that no chapter calls it brave or good; confirm she does not thank, forgive, praise or fill silence at any point;
@@ -285,6 +290,8 @@ third hand, the bundle, the four months, the count, the ch 812 yes, the firsts, 
 **Report the figures in the same sentence as the numbers, and do not report a figure the files do not carry: the
 per-batch total and average on method B, the per-chapter list, the count of bracketed lines and where they are, and the
 whole-word counts of `court`, `ledger`, `ascendant`, `choir`, `forgiv`, `thank`, `the year`, `twenty-two days`, `tax`,
-`scribe` and `Scribe`. `nobody` and `eleven` are to be measured and reported as they come out, against a line of thirty
+`scribe` and `Scribe` — **and the `thank` stem by `grep -oi 'thank[a-z]*'`, which is 1 across the volume after ch 930 and
+must not become 2** — **and the ordinal-phrase count and the distinct month-beginnings actually on the page, both taken by
+script over the fifteen files and not read back out of Batch 0002's record, which carried them wrong at 41 and 8.** `nobody` and `eleven` are to be measured and reported as they come out, against a line of thirty
 and forty — a batch that goes over the line writes the overage down beside the number rather than leaving a reader to
 find it.**

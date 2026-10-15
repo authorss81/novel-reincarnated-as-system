@@ -4197,7 +4197,10 @@ for Batches 0001, 0002 and 0003 only; `workspace/volume-16-batch-0001/PROMPT.md`
 
 ### Carried, closed, or reserved — and the words that must not appear
 
-`forgiv` **1** (ch 1000 only) · `thank` **0** in the volume · `the year` **at most 2**, ch 999–1000 ·
+`forgiv` **1** (ch 1000 only) · `thank` **0** as a whole word in the volume, and **the stem is 1 and is spent** — one
+`thanked`, ch 930, in her interior and negated, *she was not going to tell him that she was not going to be thanked for
+it, because he would not have been able to hear it* — so the construction is not reusable in any form including its own
+negation · `the year` **at most 2**, ch 999–1000 ·
 `court` **0** in Batch 0001 and no more than 3 in the volume, only as the word for a building ·
 `ledger` **0** · `choir` **0** · `ascendant` **only inside the offer** in her reading of it, never a rank anybody
 holds · `scribe` no more than 14 in the volume, none before ch 903, never as a speaker, none after ch 974 ·
@@ -4328,4 +4331,4 @@ Inherited as fact: the yes cannot be un-said and has not begun · she is in the 
 
 ### Things Batch 0003 inherits, and what may not be re-opened
 
-Inherited as fact: he is gone and the silence has begun and is not yet shaped · the offer is withdrawn, not refused, and the register is where she left it · the Foundation account is open and unanswered · the layer is going on keeping the walls correctly, for forty-five more days · **she does not know the channel is hers alone and is not to find out before ch 975** · the apology has not been made and no attempt at it has been made · the six costs of hers and the twenty-one carried whole · `eleven` at 23 of its volume line of 40, `nobody` at 0 of 30, brackets three left at ch 940 · 955 · 971. May not be re-opened: that the tax is new to the reader (it is Volume 11's own and is not explained again) · whether she should have stopped him at ch 908 or at ch 919 or at ch 926 (she did not, three times, in three different registers, and each was hers) · that she is thanked, or that he is forgiven, or that anything he did in this batch is called brave · that the Scribe argued, or is a villain, or is lying · that anyone died.
+Inherited as fact: he is gone and the silence has begun and is not yet shaped · the offer is withdrawn, not refused, and the register is where she left it · the Foundation account is open and unanswered · the layer is going on keeping the walls correctly, for forty-five more days · **she does not know the channel is hers alone and is not to find out before ch 975** · the apology has not been made and no attempt at it has been made · the six costs of hers and the twenty-one carried whole · `eleven` at 23 of its volume line of 40, `nobody` at 0 of 30, brackets three left at ch 940 · 955 · 971, and **the `thank` stem spent once at ch 930 in its negated form and not reusable in any form, including that one**. May not be re-opened: that the tax is new to the reader (it is Volume 11's own and is not explained again) · whether she should have stopped him at ch 908 or at ch 919 or at ch 926 (she did not, three times, in three different registers, and each was hers) · that she is thanked, or that he is forgiven, or that anything he did in this batch is called brave · that the Scribe argued, or is a villain, or is lying · that anyone died.
