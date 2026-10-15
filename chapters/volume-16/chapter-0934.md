@@ -16,7 +16,7 @@ She stood and let it go all the way down and understood that he had begun, and t
 
 She had not said the day’s figures at the sixth hour.
 
-That was a choice and she had made it at about the fifth hour standing at the near end of the table with her hands on the wood, and she had stood at the ninth hour on the four days between with them still in her mouth and had let them go out anyway into a room, and this morning she had decided that if he ever began it was going to begin into a room that had not just had six figures put into it.
+That was a choice and she had made it at about the fifth hour standing at the near end of the table with her hands on the wood, and she had stood at the ninth hour on the two days between with them still in her mouth and had let them go out anyway into a room, and this morning she had decided that if he ever began it was going to begin into a room that had not just had six figures put into it.
 
 She had not expected it at the seventh hour and she had not expected him to start with her name.
 
@@ -24,7 +24,7 @@ She stood at the near end of the table with her thumb in the hollow and felt the
 
 Seven hundred and forty-nine days.
 
-She had said it herself that morning. She had not said it that morning because she had opened with the apology instead, which was four days of his work coming out of a wall in the ordinary voice, and it was the most beautiful thing she had heard in nine years.
+She had said it herself that morning. She had not said it that morning because she had opened with the apology instead, which was four days of his work coming out of a wall in the ordinary voice, and she had felt something go through her that she had no name for and had not looked at.
 
 She did not open her mouth.
 
@@ -56,7 +56,7 @@ She put her hand flat on the table on either side of the hollow and left it ther
 
 “You had a figure in it,” she said.
 
-“I had a figure in the second sentence and I did not hear it go in,” he said. “I have been waiting nine days to say something and I got four sentences and I did not hear the number. I heard it come out of my mouth and I let it go past me the way it went past you for six thousand mornings. I am not able to hear myself at all. That is what a wall is.”
+“I had a figure in the second sentence and I did not hear it go in,” he said. “I have been waiting ten days to say something and I got four sentences and I did not hear the number. I heard it come out of my mouth and I let it go past me the way it went past you every morning for nine years. I am not able to hear myself at all. That is what a wall is.”
 
 She said nothing.
 
@@ -68,7 +68,7 @@ She said nothing.
 
 “You would have got it right.”
 
-“No,” he said. “I would have got it *written*. Those are not the same and I have been a writer for six hundred years and that is the whole of what I am able to do.”
+“No,” he said. “I would have got it written down. Those are not the same and I have been a writer for six hundred years and that is the whole of what I am able to do.”
 
 ## Say It Again
 

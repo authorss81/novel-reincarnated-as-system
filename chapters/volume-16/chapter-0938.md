@@ -12,7 +12,7 @@ She stood at the near end of her own table and let the first four go past and sh
 
 “I told you what you were going to be when you were eleven,” he said, “and you believed me, and your arm has been open at the elbow ever since.”
 
-He did not say the number of the days. She looked for it and it was not there, and the not-there was worse, because she had spent sixteen days listening for a figure in every sentence he said and a list with none of them in it was the same list with a thing cut off the end of every line.
+He did not say the number of the days. She looked for it and it was not there, and the not-there was worse, because she had spent every day since the twenty-seventh listening for a figure in every sentence he said and a list with none of them in it was the same list with a thing cut off the end of every line.
 
 “I told you what a stage meant and you took nine of them, and you took the ninth on your own and I was in there for all of it and I did not ask you once whether you knew what you were spending.”
 
@@ -30,7 +30,7 @@ It was the same stop as the seventh of the month. There was no last word to it. 
 
 “It is an entry.”
 
-“It is a list with nothing on the ends of the lines,” he said. “That is what I have been doing for two days. I have gone down it and I have taken every day off the front of every line and I have taken every figure off the back and I have not touched the order and there is nothing in it to argue with.”
+“It is a list with nothing on the ends of the lines,” he said. “That is what I have been doing since the eighth of this month. I have gone down it and I have taken every day off the front of every line and I have taken every figure off the back and I have not touched the order and there is nothing in it to argue with.”
 
 He said it with an anger in it that was not at her.
 
@@ -54,7 +54,7 @@ He was quiet for a long time.
 
 “You stood there for about a count of one hundred and fifty and you said nothing at all while a man read you six decisions in the order he made them.”
 
-“Yes,” she said. “That is what you asked me for. On the thirteenth you told me you were going to lose the thread and you told me to let you lose it. You have been asking me for eleven days not to be the ear. I am not the ear. I am the room.”
+“Yes,” she said. “That is what you asked me for. On the thirteenth you told me you were going to lose the thread and you told me to let you lose it. You have been asking me for six days not to be the ear. I am not the ear. I am the room.”
 
 ## The Fifth Line
 
@@ -100,7 +100,7 @@ It came out of the wall a little to the left of where the other one had come fro
 
 That was all of the first one. She waited for the cost at the end of it and the day at the front of it and there was not either, and it stood in the room about a count of forty, and he went on.
 
-“I decided what a stage was. I decided what you could be got to spend. I decided you should keep the count. I decided you should not be met where you are expected and I did not tell you that I had decided it. I decided the sheet. I decided that a man in your head should not be looked at by anybody and I decided it on the sixteenth of a month and I did not say one word of it to you.”
+“I decided what a stage was. I decided what you could be got to spend. I decided you should keep the count. I decided you should not be met where you are expected and I did not tell you that I had decided it. I decided the sheet. I decided that a man in your head should not be looked at by anybody and I decided it on the nineteenth of the month beginning two thousand eight hundred and thirty-four and I did not say one word of it to you.”
 
 It did not stop.
 
@@ -110,4 +110,20 @@ It went on for a count of four hundred and two hundred and then it came apart in
 
 And he started again.
 
-Neither of them said a word about it. She stood at the near end of her own table with her hands flat on the worn wood and he went on into the twentieth of a month that had twenty days left in it, and there was no list in it any more and there was nothing at the end of any of the lines, and she had not asked him for one single thing.
+She understood what it had cost him to let a finished thing go in the middle of a line without a word about it, because she spent a count of two hundred looking for something she was allowed to put in the way of it and there was nothing she was allowed to put in the way of it.
+
+He went over things. He said a decision he had made about a count of forty earlier and he said it again a count of forty after that in a different order and worse, and he did not appear to know that he had said it the first time.
+
+That was the thing she put down standing in her own head, in the ordinary voice, before it was a line anywhere: the failing was not that he could not make the sentence. The failing was that there was nobody in the thing he was made of who could tell him he had already made it.
+
+She had spent nine years reading figures off a man who had never once needed telling. She had not known until that morning that it was a thing he was doing.
+
+Just before the ninth hour she said, “You have gone over the same ground.”
+
+“No,” he said.
+
+“All right.”
+
+“All right,” he said.
+
+Neither of them said a word about it again. She stood at the near end of her own table with her hands flat on the worn wood and he went on, and the morning went past the ninth hour with both of them still standing in it, and there was no list in it any more and there was nothing at the end of any of the lines, and she had not asked him for one single thing.

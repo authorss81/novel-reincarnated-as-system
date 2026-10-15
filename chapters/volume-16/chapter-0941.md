@@ -2,7 +2,7 @@
 
 He did not ask her for anything on the twenty-eighth of the month beginning three thousand and forty-four, and it was on that morning that she answered him.
 
-She had thought about it for four days. She had gone over it on the twenty-fifth while she sat on a stone floor and did not get up, and on the twenty-sixth and the twenty-seventh while a man in a wall went on saying the whole of what he had done to her without a figure in it, and she had put it the way she puts everything, which is as an order of days.
+She had thought about it for three days. She had gone over it on the twenty-fifth while she sat on a stone floor and did not get up, and on the twenty-sixth and the twenty-seventh while a man in a wall went on saying the whole of what he had done to her without a figure in it, and she had put it the way she puts everything, which is as an order of days.
 
 She stood up off the stone at about the seventh hour and put both hands flat on the worn wood.
 
@@ -12,13 +12,13 @@ She stood up off the stone at about the seventh hour and put both hands flat on 
 
 ## Four Days Of It
 
-She had gone over it four times and each time the answer had come out different and each time the different one had been worse.
+She had gone over it three times before this morning and each time the answer had come out different and each time the different one had been worse.
 
 On the twenty-fifth, sitting still on the stone, she had had an answer that was a list, and it had had the shape of a settlement in it, and she had thrown it out before she got to the sixth hour because a settlement is a thing two people make and she was not making one.
 
 On the twenty-sixth she had had an answer that was nothing at all, four words long, and she had gone back up the room and looked at the place at the far side of the table to see whether she could get it out of her mouth, and she could not, and she had understood then that the whole of it was that she had nothing to give him that was not arithmetic and she would not give him arithmetic as a gift.
 
-On the twenty-seventh she had had an answer that was the truth and it had been one sentence and it had been about her, not about him, and she had taken it apart and found a decision in it, and a decision of hers made about him was exactly the thing she had been refusing to do for three weeks.
+On the twenty-seventh she had had an answer that was the truth and it had been one sentence and it had been about her, not about him, and she had taken it apart and found a decision in it, and a decision of hers made about him was exactly the thing she had been refusing to do for eighteen days.
 
 And on the twenty-eighth she had got up off the stone and come to the near end of her own table and had found the thing that was left, which was that she had an account and he had never been told what it was, and that telling him was not a gift and was not a punishment and was not a settlement.
 
@@ -30,7 +30,7 @@ It was a woman saying out loud what had been done to her, in front of the person
 
 She stood there and let it be in the room.
 
-“Nine years and one month since a voice came into my head on the tenth of the month beginning two thousand eight hundred and thirty-four and I was ten years old and I did not run. Nineteen years of a girl being told what she was going to be.
+“Nine years since a voice came into my head and I was ten years old and I did not run. Nineteen years of a girl being told what she was going to be.
 
 Three fingers and a thumb on my left hand since I was sixteen. Seven of eleven holds. A place behind my fourth rib the size of my thumbnail that has not closed since the third of the month beginning two thousand two hundred and four and that does not feel like anything when I touch it.
 
@@ -48,7 +48,7 @@ He was quiet for about a count of a hundred and two hundred, and she went on bef
 
 “Say it again.”
 
-“I am not going to say it is all right, and I am not going to say it is not all right, and I am not going to say anything about it at all, because I do not know, and I have not known since the eighth of the month before last, and I have had nineteen days of not knowing and that is not the same as the nineteen years before it.”
+“I am not going to say it is all right, and I am not going to say it is not all right, and I am not going to say anything about it at all, because I do not know, and I have not known since the twenty-seventh, and I have had thirty-one days of not knowing and that is not the same as the nineteen years before it.”
 
 She put her hands flat on the wood.
 
@@ -102,14 +102,14 @@ She took a breath of four and let it out.
 
 He went on with it.
 
-She stood at the near end of her own table for the rest of the seventh hour and the whole of the eighth hour and at the ninth hour she said the day’s figures out loud into a room where a keeping had stopped answering some days before, and the days went in and there was nothing in her head to hear them.
+She stood at the near end of her own table for the rest of the seventh hour and the whole of the eighth hour and at the ninth hour she said the day’s figures out loud into a room where the keeping had not given her anything back since the twenty-fifth, and the days went in and there was nothing in her head to hear them.
 
 That was the last conversation the two of them had.
 
 She knew it standing there, at the ninth hour, with her hands on the wood, and she did not mark it and she did not say one word about it, and nothing after that morning was a conversation. He went on and she sat in it and neither of them asked the other for anything again.
 
-She had wanted, for about four days, to be the kind of woman who said it was all right. That was the whole of what she had wanted and it was not a noble want and she did not pretend to herself that it was.
+She had wanted, for about three days, to be the kind of woman who said it was all right. That was the whole of what she had wanted and it was not a noble want and she did not pretend to herself that it was.
 
 She had wanted to put one sentence in a room on the twenty-eighth of a month and have it be the end of it, because she was nineteen years old and she had been carrying an account since she was ten and she was so tired of carrying it that she would have given a man four walls and a name and a ward of her own to put it down.
 
-She did not say it. Not because she was holding it over him. Because the sentence was not in her, and she had known that for four days, and she was not a woman who said things she had not found.
+She did not say it. Not because she was holding it over him. Because there was nothing in her that said it, and she had known that for three days, and she was not a woman who said things she had not found.

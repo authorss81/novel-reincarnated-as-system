@@ -12,13 +12,13 @@ She did not go to the foot of the stair.
 
 ## The One She Did Not Go Under
 
-She stood where she was and listened to it go, and she worked out, standing there with the board in her hand, that this was the fourth first of a month she had been in this room for and that she had gone to the bottom of the stair and stood under three of them and had not gone under this one, and that she had not gone under it on purpose and that she had not decided to.
+She stood where she was and listened to it go, and she worked out, standing there with the board in her hand, that this was the twenty-sixth first of a month she had been in this room for and that she had gone to the bottom of the stair and stood under twenty-five of them and had not gone under this one, and that she had not gone under it on purpose and that she had not decided to.
 
 At about the fifth hour a bundle came up nine hundred and four steps to a room with no wear in it and a table with a register on it and an offer withdrawn on it, and a woman at the near end of a table eight flights and a stair below it heard it go and did not move.
 
 Nothing came back.
 
-That was the other half of it and she had not been expecting it. There was no line about a bundle and there was no line about anything else, and the building had been silent for six days at the ninth hour and it was silent now at the fifth hour of a first of a month, and a thing that has said a sentence about a bundle to the woman in this room every first for four hundred years had said nothing at all on this one.
+That was the other half of it and she had not been expecting it. There was no line about a bundle and there was no line about anything else, and the keeping had given her nothing back at the ninth hour since the twenty-fifth and it gave her nothing at the fifth hour of a first of a month, and a thing that had said a sentence about a bundle to the woman in this room every first for four hundred years had said nothing at all on this one.
 
 ## What A First Of A Month Is
 
@@ -38,7 +38,7 @@ She stood there with the whole of it in front of her and did not like the shape 
 
 “It came up nine hundred and four steps on the first and it is going to come up nine hundred and four steps on the next one, and on every one of them after that, and it is going to do that whether there is a woman at the near end of a table in the room below or not.”
 
-“Yes,” he said. “That is what I have been trying to tell you since the first of the month before last and you have not asked me once about it.”
+“Yes,” he said. “That is what I have been trying to tell you since the twenty-seventh and you have not asked me once about it.”
 
 She took her hand off the wood and put it back.
 
@@ -94,6 +94,6 @@ He said nothing about that for the rest of the day.
 
 She stood at the near end of her own table at about the ninth hour of the first of the month beginning three thousand and seventy-four and did the whole of the day again, near board and terms board and the length of the table with her hand along the wood.
 
-She did not say a figure. The keeping did not say a line. The bundle went up nine hundred and four steps to a room with no wear in it and came to the top and was cut and went somewhere, and nothing in the world was different by a single thing.
+She did not say a figure. The keeping gave her no line. The bundle went up nine hundred and four steps to a room with no wear in it and came to the top and was cut and went somewhere, and nothing in the world was different by a single thing.
 
 The next first of a month was thirty days off. She stood there at the ninth hour and worked that out and had nothing to do with it, because a day had used to come up a stair every thirty days and it had been on her calendar every morning of nineteen years, and it was going to keep coming up that stair whether she was standing under it or not, and there was not one figure in the world that put her at the bottom of it.

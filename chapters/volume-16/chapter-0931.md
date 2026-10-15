@@ -130,7 +130,7 @@ She put her thumb into the hollow.
 
 “Then that is the first thing wrong with it.”
 
-“Yes,” he said. “That is the first thing wrong with it and I have known that since the twenty-eighth and I have not been able to do anything about it, and that is what I have been putting in front of you for four days.
+“Yes,” he said. “That is the first thing wrong with it and I have known that since the twenty-eighth and I have not been able to do anything about it, and that is what I have been putting in front of you for three days.
 
 I cannot get to the beginning of it. I have been a reader for six hundred years and the whole of what I know how to do is stand in front of a person and read them what they have already got, and an apology is not that.”
 

@@ -36,11 +36,11 @@ He said it in a count of about two hundred and she listened to every word of it 
 
 He was quiet for about a count of forty and when he came back it came from a long way off, the way things came on the seventh of the month when a sentence got to the end of the layer.
 
-“I am going to say one more thing and then I am going, and I am going to stop in the middle of it, and that is not something I am doing to you. There is no way to do this with an end on it. A line does not have a last word. I told you that on the twenty-seventh of the month before last and you moved a lamp a little to the left.”
+“I am going to say one more thing and then I am going, and I am going to stop in the middle of it, and that is not something I am doing to you. There is no way to do this with an end on it. A line does not have a last word. I asked you for that on the twenty-seventh of the month before last and you moved a lamp a little to the left.”
 
 “That was the last thing you ever asked me for,” she said.
 
-“It was the first thing I ever asked you for,” he said. “I had been in this keeping for six hundred years and I had not asked for anything at all, and I asked you to move a lamp about a foot, and you did it in the middle of the ending of me, and you did not say one word about it, and you are never going to tell me what that was” and it went, in the middle of it, the way a thing in a wall goes.
+“It was the only thing I ever asked you for,” he said. “I had been in this keeping for six hundred years and I had asked for nothing at all in it, and I asked you to move a lamp about a foot, and you did it in the middle of the ending of me, and you did not say one word about it, and you are never going to tell me what that was” and it went, in the middle of it, the way a thing in a wall goes.
 
 ## The Middle Of It
 
@@ -50,15 +50,15 @@ He stopped the way a man stops when there is not any more of him to go on with, 
 
 She stood at the near end of her own table with her hands flat on the worn wood.
 
-One moment there had been a voice in her head that had been there since she was ten years old and had gone down into the substrate of a layer nine hundred years old nine days before that to be heard by the thing that made him. And then there was not one, and the room was a room, and a lamp was burning on a stone floor a little to the left of where it had stood since the second hour of the twenty-seventh of the month before last.
+One moment there had been a voice in her head that had been there since she was ten years old and had gone down into the substrate of a layer nine hundred years old thirty-seven days earlier, to be heard by the thing that made him. And then there was not one, and the room was a room, and a lamp was burning on a stone floor a little to the left of where it had stood since the second hour of the twenty-seventh of the month before last.
 
 She said his name into the room.
 
 Nothing came back.
 
-That was the first thing. She had said his name about four hundred times in nine years and it had never once not come back, and she had got so used to the answer that she had thought about the answer and never about him.
+That was the first thing. She had said his name a great many times in nine years and it had never once not come back, and she had got so used to the answer that she had thought about the answer and never about him.
 
-She said it again, twice, three times, and then she said it a fourth time with her voice up out of her the way she had said it once in nine years on the second hour of a night in the spring. Nothing came back, and it was not the other kind of nothing either.
+She said it again, twice, three times, and then she said it a fourth time with her voice up out of her the way she had said it on the twenty-eighth of last month, which was the only other time in nine years she had put it up at all. Nothing came back, and it was not the other kind of nothing either.
 
 She put her hands on the wall on either side of the table and pushed and it was a wall and it was stone and it was cold, and there was no man behind any part of it, and there was not going to be one.
 
@@ -68,11 +68,11 @@ She took the near board up off the face of the table and read it by and put it b
 
 She went the length of the table with her hand along the wood and past the bundle under the far end where it was corded twice and not knotted, and she put her hand flat on the bar against the left-hand wall and took none of her weight on it.
 
-Every one of those was a thing she had done about four hundred times, and not one of them told her anything, and she did all of them, because they were hers and there was nobody left to do them for her.
+Every one of those was a thing she had done a great many times, and not one of them told her anything, and she did all of them, because they were hers and there was nobody left to do them for her.
 
 She did not go up the stair. She stood at the foot of it and looked into the dark for about a count of two hundred and she did not go up nine hundred and four steps to a room with no wear in it, because there was nobody at the top of it now and a table with a register on it and an offer withdrawn on it does not need looking at, and because the room below was hers and she was in it.
 
-## Nine Hours Of Nothing
+## Nothing At The Ninth Hour
 
 She said her figures out loud at the ninth hour on the eighth of the month beginning three thousand and seventy-four.
 
@@ -84,7 +84,7 @@ Nothing came back.
 
 She stood there with her mouth shut.
 
-Then she sat down on the stone at the near end of the table with her back against the leg of it, which is where she had sat at about the fourth hour on the seventh of the month beginning two thousand nine hundred and fifty-four while a man said yes four minutes away from being a person, and she put her hands flat on the stone on either side of her knees and left them there.
+Then she sat down on the stone at the near end of the table with her back against the leg of it, which is where she had sat at about the fourth hour on the seventh of the month beginning two thousand nine hundred and eighty-four while a man said yes four minutes away from being a person, and she put her hands flat on the stone on either side of her knees and left them there.
 
 ## What Was There
 

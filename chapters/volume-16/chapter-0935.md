@@ -82,7 +82,7 @@ She went and stood at the near board with her hand flat on it for a count of two
 
 A man who had wanted four words had asked her for them four times and had gone away with nothing, and that was correct, and she had done it on purpose, and it had taken her about eleven words and one of them was a rule she had found herself.
 
-Nine years. She had had a voice in her head since she was ten years old and it had asked her for a great many things in all that time, and she had found out on the second of a month that the asking had been the easy half of it, because the hard half was the part where a person says no to the thing they want to hand over.
+Nine years. She had had a voice in her head since she was ten years old and it had asked her for a great many things in all that time, and she had found out the morning she asked him what he wanted that the asking had been the easy half of it, because the hard half was the part where a person says no to the thing they want to hand over.
 
 She had handed things over her whole life. Her arm. Her days. A sheet of her own hand nine hundred and four steps down a stair. Nineteen years of saying what she wanted out loud in a room to something that kept the walls up.
 
@@ -106,7 +106,7 @@ She stood there with her mouth shut and understood that he had done that on purp
 
 He let them past her.
 
-“Nineteen years,” she said. “That is the sixth thousand morning and you have answered it every single one.”
+“Nine years,” she said. “That is every morning of it and you have answered it every single one.”
 
 “I have answered it because you put it in the room and a figure in a room is the only thing in this building that ever got an answer out of anybody.”
 

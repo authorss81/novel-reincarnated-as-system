@@ -18,9 +18,9 @@ She said it a third time at about the eighth hour and she said it as a question,
 
 ## What He Meant By A Beginning
 
-“You have had five days.”
+“You have had seven days.”
 
-“I have had five days and four first sentences and none of them is a beginning of anything,” he said. “Say why you think I cannot get to it.”
+“I have had seven days and four first sentences and none of them is a beginning of anything,” he said. “Say why you think I cannot get to it.”
 
 “Because you cannot hear yourself.”
 
@@ -58,7 +58,7 @@ He was quiet for about a count of a hundred.
 
 “You have said that.”
 
-“I have said the shape of it and I have not said it to you, and I am going to say it now because you have been standing in a room for five days asking me to begin and the reason is that I am frightened of the first one, and that is not a thing I have said out loud in six hundred years.”
+“I have said the shape of it and I have not said it to you, and I am going to say it now because you have been standing in a room for seven days asking me to begin and the reason is that I am frightened of the first one, and that is not a thing I have said out loud in six hundred years.”
 
 She waited.
 
@@ -84,7 +84,7 @@ She was not hungry. She had not been hungry since the ninth was shut and she had
 
 What she wanted, and she let herself have the whole of it for about a count of a hundred because there was nobody to hear her want it, was for him to say it badly today. Any part of it, in any shape at all, said on the fourth instead of the seventh, so that she would have heard something before she knew what the seventh was going to be.
 
-That was what wanting was like in a room with no one in it. She had nineteen years of a man in her head and every want she had ever had had been put in front of her by somebody else, and now she wanted one thing, and the wanting of it could not be asked about, and she had to hold it by herself for four days the way you hold a weight.
+That was what wanting was like in a room with no one in it. She had nineteen years of a man in her head and every want she had ever had had been put in front of her by somebody else, and now she wanted one thing, and the wanting of it could not be asked about, and she had to hold it by herself for three days the way you hold a weight.
 
 She was frightened too, and she found that out about the eighth hour when she noticed that she had been listening to the wall for about a count of two hundred without knowing that she was doing it.
 
@@ -128,4 +128,4 @@ He said one more thing before the light went.
 
 “You should know what you have agreed to by standing here,” he said. “On the seventh I am going to say something badly and there is going to be nothing at the end of it but you, and there is no one else in the world who can tell me whether any part of it landed, because you are the only hearing there has ever been in here.”
 
-That was the seventh of a month she had four days to get to, and she stood up off the floor with her arm hanging open against her side and went to the near end of her own table and put her hands flat on the wood, and worked out that she had just agreed to sit in a room on her own and be the way a man heard.
+That was the seventh of a month she had three days to get to, and she stood up off the floor with her arm hanging open against her side and went to the near end of her own table and put her hands flat on the wood, and worked out that she had just agreed to sit in a room on her own and be the way a man heard.

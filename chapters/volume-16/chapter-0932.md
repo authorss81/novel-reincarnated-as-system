@@ -4,9 +4,9 @@ She heard it in the floor of her own room at about the fifth hour, before she ha
 
 A first of a month came up this building on the first of every month and it had come up this building for four hundred years, and it came up as a sound in the stone rather than as a noise, the way weather comes up through a mountain and does not arrive all at once. Boards, corded twice, and nine hundred and four steps of a stair that did not stop at nine.
 
-She stood at the near end of her own table with the lamp on the stone at her feet and her hands flat on the wood and let it come up under her, the whole way, the way she had let four hundred of them come up under her while she stood in this room and did the near board and the terms board and went along the table with her hand on the wood.
+She stood at the near end of her own table with the lamp on the stone at her feet and her hands flat on the wood and let it come up under her, the whole way, the way she had let twenty-four of them come up under her while she stood in this room and did the near board and the terms board and went along the table with her hand on the wood.
 
-Three hundred and twelve days since the ninth stage. One hundred and five since it was shut. Seven hundred and forty days with this arm open at the elbow. Seven hundred and forty-three days in this room. One thousand four hundred and eighty-five days gone at this morning, taken out of her at a rate she derived out of her own life, not one of them coming back.
+Three hundred and twelve days since the ninth stage. One hundred and five since it was shut. Seven hundred and fifty days with this arm open at the elbow. Seven hundred and forty-three days in this room. One thousand four hundred and eighty-five days gone at this morning, taken out of her at a rate she derived out of her own life, not one of them coming back.
 
 She said all of it out loud, standing, in the ordinary voice, and the going of the bundle came up under it the whole time, and neither of the two of them stopped the other.
 
@@ -62,7 +62,7 @@ In nineteen years she had had a man in her head and he had been with her on ever
 
 She stood at the bottom of the stair for the whole of the going of it.
 
-It took about a count of six hundred and two hundred, and she had been under it before on six firsts and had never once listened, and this time she put her back against the wall of the stair with her right arm hanging open against her side and her left hand flat on the stone and let a month go up over her head.
+It took about a count of six hundred and two hundred, and she had been under it before on twenty-four firsts and had never once listened, and this time she put her back against the wall of the stair with her right arm hanging open against her side and her left hand flat on the stone and let a month go up over her head.
 
 It made no difference to the room she was standing in. That was the thing she had gone down to the bottom of the stair to find out and she found it out in the first count of two hundred.
 

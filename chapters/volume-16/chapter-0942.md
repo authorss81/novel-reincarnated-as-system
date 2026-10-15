@@ -8,11 +8,11 @@ She stood at the near end of her own table from the sixth hour and she did not s
 
 It was the thirtieth of a month, which was the last day of it, and that was the only thing about the date that she allowed herself to think about at the fifth hour with her hands on the worn wood.
 
-She had wanted him to finish for eleven days and she had not once said so, and she was standing up in a room on purpose because she wanted it, and wanting a thing out loud in the ordinary voice is the only thing she has ever been able to do properly and she had spent nine years doing it about figures.
+She had wanted him to finish for as long as he had been going at it and she had not once said so, and she was standing up in a room on purpose because she wanted it, and wanting a thing out loud in the ordinary voice is the only thing she had ever been able to do properly and she had spent nine years doing it about figures.
 
 There were four things in the room that she did not do on the morning of the last day of a month and she noticed all four of them and let them go. She did not take the near board up. She did not take the terms board up. She did not go the length of the table with her hand along the wood. She did not put her hand flat on the strip of pale wood under the table at the near end of the leg.
 
-A woman who has done a piece of work every day for nineteen years and does not do it on the last day of a month has said something with her body that she has not said with her mouth, and what she had said with her body was that this man was going to get to the end of it today.
+A woman who had done a piece of work every day for nineteen years and did not do it on the last day of a month had said something with her body that she had not said with her mouth, and what she had said with her body was that this man was going to get to the end of it today.
 
 “All right,” she said. “That is the last of them.”
 
@@ -46,11 +46,11 @@ He said it for the better part of two hours and it was the worst hour of the thr
 
 She did not stop him once. That was hers and she had decided it at the fifth hour and she kept to it.
 
-About halfway through the seventh hour he came out of it and asked her a question, which was the first question he had asked her in four days.
+About halfway through the seventh hour he came out of it and asked her a question she had not had to stand still for since the twenty-second.
 
 “Why did you not stop me.”
 
-“Because you asked me on the seventh of this month not to stop you and I said at the seventh hour that I was not going to be the thing that stops you.”
+“Because you told me to let you lose the thread and I said at the seventh hour that I was not going to be the thing that stops you.”
 
 “I am asking now.”
 
@@ -60,11 +60,11 @@ He was quiet for about a count of forty and then he went on, and it was worse af
 
 ## What It Was Actually About
 
-At about the seventh hour she worked out what he was doing and she had to go and stand at the near board with her hand flat on it for a count of two hundred.
+In the last of the seventh hour she worked out what he was doing and she had to go and stand at the near board with her hand flat on it for a count of two hundred.
 
 He was not explaining her.
 
-He was standing nine years in front of a question and describing what he had decided about the answer, and it was not an apology to her at all, it was a case he was making about a person he had been in love with for nine years and had never once spoken to, and it had come out of the same mouth as the decisions and it was going to be in the middle of them for ever.
+He was standing nine years in front of a question and describing what he had decided about the answer, and it was not an apology to her at all, it was a case he was making about a person he had carried in his head for nine years and had never once spoken to, and it had come out of the same mouth as the decisions and it was going to be in the middle of them for ever.
 
 That was what an apology turned into when a man who had been keeping accounts for six hundred years got to the one item he could not file.
 
@@ -86,7 +86,7 @@ And it was not a defence, because that was what he had gone into it to do, and s
 
 The ninth hour came.
 
-She knew it came. She could always tell what hour it was in that room without a figure, the way a person can tell what part of the night it is from how much noise the building is making, and at the ninth hour the building was silent and had been silent for five days.
+She knew it came. She could always tell what hour it was in that room without a figure, the way a person can tell what part of the night it is from how much noise the building is making, and at the ninth hour the building gave her nothing at all, as it had not for five days.
 
 She stood at the near end of her own table at the ninth hour of the thirtieth of the month beginning three thousand and forty-four and she did not say the day’s figures out loud.
 

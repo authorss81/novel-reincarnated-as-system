@@ -38,7 +38,7 @@ She put her hand flat on the table where the wood had gone down under her own ar
 
 ## The Part She Stopped
 
-About the eighth hour he came to it and said, “I want to tell you how hard this has been,” and then he said that he had never once in six hundred years been allowed to do that in a room and had always found somebody who let him.
+About the eighth hour he came to it and said, “I want to tell you how hard this has been,” and then he said that he had never once in six hundred years had anybody standing in a room who would have let him.
 
 “No.”
 
@@ -58,7 +58,7 @@ He did not say it again. She heard him not say it again for the rest of the day 
 
 Somewhere in the middle of it the place behind her fourth rib began to pull.
 
-It does that when her body takes in a sentence she has not got anywhere to put. It had happened to her perhaps six times in nineteen years and she had never once worked out what it was, and it was doing it now on a morning of a month in a room with a lamp on the floor, and there was no place in this building she could put six hundred years of a man telling her what he had decided.
+It had done that before, when her body took in a sentence she had not got anywhere to put. It had happened to her perhaps six times in nineteen years and she had never once worked out what it was, and it was doing it now on a morning of a month in a room with a lamp on the floor, and there was no place in this building she could put six hundred years of a man telling her what he had decided.
 
 So she stood there and took them.
 
@@ -78,13 +78,13 @@ He said that he had decided a man in her head should not be looked at by anybody
 
 He said that he had decided a place would be kept at the far side of her table, and that he had known before it was offered that she would not sit in it.
 
-He said that he had heard a question asked of him standing in a room on a night near the end and had not answered it, and that not answering it had been a decision. He had made it standing in the same room and in the same voice, and she had kept the silence for him for the whole of it.
+He said that he had heard a question asked of him standing in a room on a night near the end and had sat on the answer for a whole day, and that sitting on it had been a decision. He had made it standing in the same room and in the same voice, and she had kept the silence for him for the whole of it.
 
 He said that he had decided what went down the stair in a cloth with forty boards on the top of it, and that he had let a woman of eighteen go on believing that a thing she had put in her own hand had been put there by her.
 
 That one stopped the room.
 
-She put both hands flat on the wood and stood in a room eight flights and a stair below the stair and worked out that she had been wrong about it for years, and that she had gone over that decision in her own arithmetic more times than any other in her life, and that there was nothing she could do about it now because the only person who could have told her had gone into the substrate of a layer nine hundred years old nine days ago.
+She put both hands flat on the wood and stood in a room eight flights and a stair below the stair and worked out that she had been wrong about it for years, and that she had gone over that decision in her own arithmetic more times than any other in her life, and that there was nothing she could do about it now because the only person who could have told her had gone into the substrate of a layer nine hundred years old thirty-seven days ago.
 
 She did not say a word.
 
@@ -92,19 +92,19 @@ He went on.
 
 ## The Last One
 
-“I decided yesterday, before I had said one word of this, that I was going to do it, and I decided that on a morning near the end of a month, and I decided it in the morning and told you in the evening, and I decided that you were not to be asked.”
+“I decided on the twenty-fifth of the month before last, before you had asked me for anything, that I was going to refuse it. I decided that in the morning. You came and asked me for it in the afternoon and I did not tell you that I had already said no.”
 
 She stood at the near end of her own table.
 
-“That was the twenty-second,” she said.
+“That was the twenty-fifth,” she said. “You had already decided before I opened my mouth.”
 
-He was quiet.
+“Yes.”
 
-“I worked it out that night and it has been sitting under everything else for nine days. I counted it. I counted how many days it was between the morning you decided and the evening you asked me to stand at the table, and then I started the count again, because it was not a figure and I had no business doing it.”
+“You let me ask you for it.”
 
-“No,” he said. “You had no business doing it.”
+“I let you ask me for it,” he said. “I had the count of it in me and I started it twice and I did not put it in, because a number on the day I decided to end what I am comes out of me as a figure, and a figure on this is the whole of what has been wrong with it since the seventh.”
 
-“I am not going to do it again,” she said, “and I am not going to say that number to you either, and you do not get to have it.”
+“No,” she said, “and I am not going to say that number either, and you do not get to have it.”
 
 “All right.”
 

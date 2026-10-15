@@ -2,21 +2,21 @@
 
 Three hundred and twenty-seven days since the ninth stage. One hundred and twenty since it was shut. Seven hundred and sixty-five days with this arm open at the elbow. Seven hundred and fifty-eight days in this room. One thousand five hundred days gone at this morning, taken out of her at a rate she derived out of her own life, not one of them coming back.
 
-She said it standing at the near end of her own table at about the sixth hour on the sixteenth of the month beginning three thousand and forty-four, with the lamp on the stone at her feet, and then she stood there and waited for it to go past her the way it had gone past her every morning for six thousand mornings, and this time something came back from the wall and it was not arithmetic.
+She said it standing at the near end of her own table at about the sixth hour on the sixteenth of the month beginning three thousand and forty-four, with the lamp on the stone at her feet, and then she stood there and waited for it to go past her the way it had gone past her every morning for nine years, and this time something came back from the wall and it was not arithmetic.
 
 “What do you want to say to me,” she said.
 
 He was quiet for about a count of forty.
 
-“I have been able to say that to myself for nine years in about a count of two and it has taken me sixteen days to not be able to say it at all.”
+“I have been able to say that to myself for nine years in about a count of two and it has taken me nineteen days to not be able to say it at all.”
 
 ## What He Had Been Doing Since The Seventh
 
 She put her hands flat on the wood and waited.
 
-“I have been turning the five mercies over,” he said. “Since the seventh of the month before last. I have turned them the way a man turns a cup. I did it on the seventh and I did it on the eighth and I did it on every day after that.
+“I have been turning the five mercies over,” he said. “Since I said yes. I have turned them the way a man turns a cup.
 
-“I did it while I was saying yes and I did it while I was finding the tax and I did it on the morning I said no. I have turned them so many times that they come out the same every single time, and they come out the same at the fifth hour of the sixteenth of a month as they came out at the fifth hour of the seventh of the month before last.”
+“I did it on the morning I said yes and I did it while I was finding the tax and I did it on the morning I said no. I have turned them so many times that they come out the same every single time, and they come out the same at the fifth hour of the sixteenth of a month as they came out at the fifth hour of the seventh.”
 
 “That is not what I asked you.”
 
@@ -30,7 +30,7 @@ She stood at the near end of the table with her thumb in the hollow.
 
 “You knew to the day how long each of them would be of use.”
 
-“No,” he said. “Not one of them. Not a single day of any of it, not one, and that is the thing I said to you on the thirteenth and it is the thing I am saying again because you have gone quiet in the way you go quiet when you are adding two figures together.”
+“No,” he said. “Not one of them. Not a single day of any of it, not one, and that is the thing I said to you when you asked me what the tax was, and it is the thing I am saying again because you have gone quiet in the way you go quiet when you are adding two figures together.”
 
 “I was not adding anything.”
 
@@ -48,11 +48,15 @@ She did not answer it, because it was true and because the answer was going to b
 
 He was quiet for about a count of two hundred.
 
-“There are eleven,” he said.
+“There is a list,” he said.
 
 She stood very still at the near end of her own table.
 
-“I wrote them out the way I write anything, which is as a list with a place for each one, and I know every line of it and I can say any line of it in about a count of forty, and I have had the list since the eighth of this month and I have not used a word of it.”
+“I wrote it out the way I write anything, which is as a list with a place for each one, and I know every line of it and I can say any line of it in about a count of forty, and I have had it since the eighth of this month and I have not used a word of it.”
+
+“Say how many lines there are.”
+
+“No,” he said. “You would make a figure out of it before I had got to the first line, and then the whole of it goes the way it went on the seventh.”
 
 “Say the first one.”
 
@@ -74,7 +78,7 @@ She put her hands flat on the wood and looked at the near board face up a foot i
 
 “That is not an answer about whether there is a figure in it.”
 
-“It is the whole of the answer,” he said, “and I have given you the number as well, and I did not mean to, and you did not ask me for it.”
+“It is the whole of the answer,” he said, “and I have given you the reason for it as well, and you did not ask me for it.”
 
 ## The Thing She Did Not Say
 
@@ -82,7 +86,7 @@ She stood there for a while with her thumb in the hollow.
 
 What she was carrying at the ninth hour was a list of things, in order, in a wall, and she knew what it looked like because she had been standing in rooms reading lists of things in order since she was ten years old and she had heard the keeping’s own voice describe what it did with a life in exactly that grammar on a morning near the end, and it was the same grammar, and there was not one thing in it that was about what she wanted to hear.
 
-Eleven women had gone through a machine that he had designed and not one of them was written down anywhere in nine hundred years. There was a list of them in a wall four miles off and she was not going to be able to check a single line of it against her own arithmetic, because the whole of it was hers and there was nobody else in the world to have been in the room.
+She stood there with a list of decisions four miles off in the substrate of the machine she had been inside since she was ten years old, and there was not one line of it that anybody else in the world could check, because there had never been a second person in that machine and there was not going to be one now.
 
 She was not going to say that to him. Not because it was a rule, and not because she was protecting herself from the truth of it.
 
@@ -100,7 +104,7 @@ She went the length of the table with her hand along the wood and she put her ha
 
 And about the eighth hour she sat down on the stone at the near end of the table with her back against the leg of it and did the thing her hands do when they have nothing to hold, which is to go round the rim of the near board with a thumb and follow the grain of it to the end and come back.
 
-A woman in her own arithmetic, nineteen years old, on the sixteenth of a month, deciding what she was going to say out loud on the nineteenth of a month to a man who was going to read her a list of eleven things in the right order.
+A woman in her own arithmetic, nineteen years old, on the sixteenth of a month, deciding what she was going to say out loud on the nineteenth of a month to a man who was going to read her a list of things in the right order and was not going to tell her how many of them there were.
 
 She had not said a word to him about any of that, and she was not going to, and the not-saying was the hardest work of her day and nobody would ever have known she had done it.
 
@@ -122,4 +126,4 @@ He said it flat, and the way he said dates, and she understood that he had alrea
 
 And she was not going to tell him.
 
-She stood at the near end of her own table with the lamp on the stone at her feet and the boards face up and the far end of the room dark and the bar nine feet nine against the left-hand wall dated nowhere, and she took a breath of four and let it out, and she had a woman in her own arithmetic for the first time since the third of the month beginning two thousand two hundred and four and she did not tell him that either.
+She stood at the near end of her own table with the lamp on the stone at her feet and the boards face up and the far end of the room dark and the bar nine feet nine against the left-hand wall dated nowhere, and she took a breath of four and let it out, and she had worked out more about that man in one morning than she had in nine years, and she did not tell him that either.

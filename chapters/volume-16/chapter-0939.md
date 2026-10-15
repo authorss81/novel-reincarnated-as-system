@@ -40,7 +40,7 @@ About the seventh hour he said one of her decisions and got it slightly wrong, a
 
 It was the decision about the lamp in this room, and about what was on the shelf, and about what she was to do with the oil a boy makes in a building with no store in it.
 
-He said it as one thing and it had been three things done on three separate mornings for reasons she could have named, and she stood at the near end of her own table and let a man in a wall get it wrong about the lamp in a room she has lived in for seven hundred and sixty-four days.
+He said it as one thing and it had been three things done on three separate mornings for reasons she could have named, and she stood at the near end of her own table and let a man in a wall get it wrong about the lamp in a room she had lived in for seven hundred and sixty-four days.
 
 That was the part of the morning she was not going to put back in order and was never going to tell him about.
 
@@ -92,7 +92,7 @@ He went on.
 
 ## Where He Went Past The Hardest Part
 
-There is a thing in a life where the worst of it is, and everybody who has ever lived has one, and she knew where hers was without having to look for it because it had been on the ninth of the month beginning two thousand eight hundred and thirty-four in a furnace crew in Qinghe and it had been a girl of ten who did not run.
+There is a thing in a life where the worst of it is, and everybody who has ever lived has one, and she knew where hers was without having to look for it, because it had been in a furnace crew in Qinghe and it had been a girl of ten who did not run, and there was no day she could put on it, because the day is not there any more.
 
 She sat at the near end of her own table on the twenty-second of the month beginning three thousand and forty-four with a lamp burning at her feet and waited for him to come to it, because it was the middle of the whole of what he had done to her and there was no way to get to the far end of it without going through.
 
@@ -120,7 +120,7 @@ The lamp burned on the stone at her feet and the far end of the room was dark wh
 
 “You decided I would refuse.”
 
-“I decided that you would not sit in it,” he said. “That is not the same and I have had thirty days to be exact about it and that is the exact shape of it. I never knew when. I never knew how many times. I knew the answer and I let the question be asked.”
+“I decided that you would not sit in it,” he said. “That is not the same and I have had a long time to be exact about it and that is the exact shape of it. I never knew when. I never knew how many times. I knew the answer and I let the question be asked.”
 
 She did not say anything to that.
 
