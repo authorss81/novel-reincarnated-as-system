@@ -26,11 +26,11 @@ She got back up to the top of that room at the seventh hour of the fourth of tha
 
 She said, “There are three things in this building that are about me and I know what all three of them are.”
 
-She said, “There is a strip of wood on the floor under that table with my price at the head of it and one figure in the column, and the figure is ten days, twenty-one hours and thirty-six minutes, and it is six days, seven hours and twelve minutes out of date and there is not one person above this line who could ever know.”
+She said, “There is a strip of wood on the floor under that table with my price at the head of it and one figure in the column, and the figure is ten days, twenty-one hours and thirty-six minutes, and it is six days, three hours and thirty-six minutes out of date and there is not one person above this line who could ever know.”
 
 She said, “There is a board in a stack at the far end of that table with a figure on it that I wrote in my own hand on the twentieth of the month beginning two thousand three hundred and eighty-four, and it went up that stair on the first of this month and it came back down empty and I cannot see it and I am not going to be able to.”
 
-She said, “And there is a name on a board that I said out loud in this room on the eighth of that month in the ordinary voice, and it is not mine, and it went up that stair on the first with forty others.”
+She said, “And there is a name on a board that I said out loud in this room on the twenty-eighth of that month in the ordinary voice, and it is not mine, and it went up that stair on the first with forty others.”
 
 She said, “And there are two coppers I cannot count, and a bar nine feet nine against the wall on the left that I put there on purpose, and four fingers and a thumb, and five blank leaves against my ribs that have been blank for ten years, and a bag at the bottom of eight hundred and eighty steps that I decided I was not going down for and have not.”
 
@@ -40,9 +40,9 @@ And on the fifth of that month she worked out the light, standing, in daylight, 
 
 She said, “The lamp was turned at the second hour of the second of the month beginning two thousand three hundred and eighty-four and it went up past the top of that cage and stayed there, and it has come down two of my own hand every day since and there has not been one hand in that cage since.”
 
-She said, “On the fourth of this month it was four of my own hand below the top of that cage. On the fifth it is six. On the sixth it is eight. On the seventh, which is today, it is ten.”
+She said, “On the fourth of this month it was four of my own hand below the top of that cage. On the fifth it is six. On the sixth it will be eight. On the seventh it will be ten.”
 
-She said, “And fifty-eight less ten is forty-eight and forty-eight divided by two is twenty-four and the twenty-fourth day from the seventh of this month is the first of the month beginning two thousand four hundred and forty-four, which is the day the next forty things come up that stair.”
+She said, “And fifty-eight less six is fifty-two and fifty-two divided by two is twenty-six and the twenty-sixth day from the fifth of this month is the first of the month beginning two thousand four hundred and forty-four, which is the day the next forty things come up that stair.”
 
 She said, “So on that day the lamp stands on that line with nothing above it and nothing below it for the third time in four hundred years, and there has never been one of those days used, and I used one on the fourth of the month beginning two thousand three hundred and fifty-four and not one person in this building knows.”
 
@@ -60,7 +60,7 @@ She said, “And I am not going to do it.”
 
 She said, “Not because it is dangerous and not because I have not worked out that a day buys one day. Because I put a day into that lamp on the fourth of the month beginning two thousand three hundred and fifty-four and I have not got an instrument for what came out of it, and I have not got one now, and there is not one mouth in this building that is going to give me one.”
 
-She said, “And because there is a row in this room with my figure at the head of it and a name in it that is not mine, and on the eighth of this month I put two words into a record that has been above the line for four hundred years, and I have not worked out what either of those is for.”
+She said, “And because there is a row in this room with my figure at the head of it and a name in it that is not mine, and on the twenty-eighth of that month I put two words into a record that has been above the line for four hundred years, and I have not worked out what either of those is for.”
 
 She said, “And I am not going to spend a day of my own life on a thing I do not understand while there is a thing in this room I do not understand.”
 
@@ -76,6 +76,6 @@ She said, “And a row is a place a thing is decided about. And a figure at the 
 
 She said, “So there is a row in this room with me in it and there is nobody in this building who has read it, and it is not going to keep me fed and it is not going to tell me what I am and it is not going to cost me a day, and I cannot work out what it is for.”
 
-She said, “And that is the one thing I have been in this room a hundred and nineteen days to find out and I have not found out, and the lamp is ten of my own hand further down that wall than it was on the first of this month, and there is a boy of sixteen four miles down that mountain, and there is a bar against that wall that I left there on purpose, and I am not going to find out by asking.”
+She said, “And that is the one thing I have been in this room a hundred and nineteen days to find out and I have not found out, and the lamp is ten of my own hand below the top of that cage and forty-eight of my own hand off that line where it stood at the fourth hour of the first of this month, and there is a boy of sixteen four miles down that mountain, and there is a bar against that wall that I left there on purpose, and I am not going to find out by asking.”
 
 She said, “And I am not going to find out by waiting either, because the light comes down two of my own hand a day whether I know what a row is for or not.”

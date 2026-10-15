@@ -94,7 +94,7 @@ She said, “Seven of eleven holds. It was eight this morning and it is seven no
 
 She said, “And two thousand four hundred and three less one thousand five hundred and fifty-nine is eight hundred and forty-four days, at one hour and twelve minutes a day, and that is one more than it was on the twentieth and it did not come off my arm or off my breath or off my hand, and I have not been able to work out where it came off and I am not going to guess in a room where a hand copies figures exactly.”
 
-She said, “And the figure on the strip under that table is five days, ten hours and forty-eight minutes out of date, and there is not one person in this building who could ever know that, and now there is one stage more that not one person in this building knows about.”
+She said, “And the figure on the strip under that table is five days, twelve hours out of date, and there is not one person in this building who could ever know that, and now there is one stage more that not one person in this building knows about.”
 
 ## What She Said At The End Of It
 
@@ -105,6 +105,8 @@ She said, “I am not going to be able to be handed anything again as long as I 
 She said, “And I got up on a table four feet off the floor and took a stage off it with a hand that has three fingers and a thumb on it, in a room with a person in it, and nothing happened, and nothing about that is going to be able to be put back the way it was.”
 
 She said, “And there is a board on top of that table with a figure on it in my own hand and there is not one instrument in the world that takes a line out of a record, and I wrote it myself, and that is the first time in nineteen years I have written something and known exactly what it was for.”
+
+She said, “And the boy of sixteen can get up on that table in one movement and he cannot get under it, and there is not one thing in this building that would have put a hand under it for him, and I went under it on my back with a beam across my shoulders and it took me two tries to get one board out of that stack of forty.”
 
 And the light at the far end of that room was thirty-eight of her own hand below the top of that cage and she went and looked at it, standing, in daylight.
 

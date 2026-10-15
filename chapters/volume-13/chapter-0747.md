@@ -80,7 +80,9 @@ She said, “And there is one thing in me that has a name in it and a row can on
 
 She said, “And I am not going to say them on the twenty-sixth, or the twenty-seventh, or the twenty-eighth, or the twenty-ninth of this month, and I do not know yet which day I am going to say them on.”
 
-She said, “And I have got nine days to the first of the month beginning two thousand four hundred and fourteen and forty things are going to come up that stair on it, and I am not going to know a day until I know a day, and that is the first time in nineteen years I have said out loud that I do not know a day and meant it.”
+She said, “And the boy of sixteen came up eight hundred and eighty steps to ask me one question and I gave him a number, and a hand that copies figures exactly is not going to take his word for one word of it, and there is not one thing I could do with him afterwards that would make it true that I said it, and I am not going to spend one of those four days finding out whether he would.”
+
+She said, “And I have got six days to the first of the month beginning two thousand four hundred and fourteen and forty things are going to come up that stair on it, and I am not going to know a day until I know a day, and that is the first time in nineteen years I have said out loud that I do not know a day and meant it.”
 
 ## The Sums She Did Anyway
 
