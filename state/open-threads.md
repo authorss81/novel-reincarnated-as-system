@@ -4299,3 +4299,33 @@ and a later phase that wants him inside the nine days has to record that it is m
 ### Things Batch 0002 inherits, and what may not be re-opened
 
 Inherited as fact: the yes cannot be un-said and has not begun · she is in the room she cannot be met in and is not leaving · the offer is read, real in every term, sincerity unadjudicated · *work that matters* undefined · the next first thirty days off · two brackets spent, six left · his ch 812 yes untold · the count un-re-said · the four months unnamed · the second place unsat. May not be re-opened: whether she was right at ch 908 (she was not right or wrong; she did it) · whether the offer is a trap (it is not) · what the work is (Batch 0002's discovery, his mouth) · the tax before ch 923 (his mouth, his chapter).
+
+## VOLUME 16 BATCH 0002 CLOSED at ch 930 — *the tax* is the recruitment, and he refuses it
+
+**Fifteen chapters, days 3,002–3,040, 27,855 words of body prose on method B, average 1,857, three bracketed layer lines (ch 918, 923, 930), midpoint ch 923, climax and irreversible step ch 930. The next phase is `workspace/volume-16-batch-0003/PROMPT.md`, ch 931–945, days 3,043–3,081, pressure *the apology*.**
+
+**Two figures this batch overrules in its own card, and `outline/volume-16.md` wins both: ch 930's bracketed line is *the last thing the layer ever says to him* and not the last bracketed line in the manuscript, which is at ch 971; and the card's *one thousand four hundred and two days* is not carried anywhere in ch 916–930, the batch saying only the figure its own day derives.**
+
+| Thread | State at ch 915 | State at ch 930 | Owner after Batch 0002 |
+| --- | --- | --- | --- |
+| **The yes** | said in the channel, cannot be un-said, nothing begun | **withdrawn out loud at ch 930, in the ordinary voice, out of her mouth, and cannot be un-withdrawn** | closed as crossed |
+| **The tax** | never named; the word not on the page | **named at ch 923 in his mouth: the Foundation tax is how the layer finds its one Chosen One, every Chosen One is a person made less solid by a voice in their head for as long as it takes to be useful and then filed, eleven before her, and he designed the shape of it six hundred years before he was born out of a man** | closed as discovered |
+| ***Work that matters*** | named at ch 906, never defined | **defined at ch 923: it is the running of the tax, and the offer needs somebody to keep it going, and it is the same machine that made her** | closed as defined |
+| **What he wants** | answered at ch 901 | **he has given it up out loud, correctly, in front of the intelligence, and he is gone** | closed as spent |
+| **Her question** | asked at ch 915, unanswered | **still unanswered; she has had it in her hands since the sixteenth and there is nothing in it yet, and she does not say so** | open. Batch 0003 carries it, unanswered |
+| **Him, as a person** | heard, inside her, present tense | **dissolved at ch 930; she is on her own and does not yet know what that means** | closed as gone. Batch 0003 owns the apology |
+| **The eleven** | never raised | **raised at ch 923 and ch 925, and they have no names anywhere and no column, and she says somebody is going to have to write them** | open. The seed of the four hundred. Not to be spent before ch 946 |
+| **Her own arithmetic** | the only instrument, nineteen years | **fails for the first time at ch 925: she cannot derive the length of her own use and cannot derive the length of the walls, and the two of them are the same figure** | closed as an instrument. Batch 0003 gives her the second instrument, the apology |
+| **The six costs of hers that are body** | right arm open 708 days, three fingers and a thumb, seven of eleven holds, the open place | **the same, 746 days at the last page, and she touches the open place behind her fourth rib on purpose once, at ch 925, and it does not feel like anything** | carried untouched |
+| **The second place** | kept four hundred years and empty | **unsat in fifteen chapters, named in four** | carried untouched |
+| **The bar** | against the left-hand wall, dated nowhere | **unchanged; she puts her hand flat on it twice and takes no weight on it** | carried untouched |
+| **The bundle** | under the far end, corded twice, not knotted | **counted by her at forty, in the room, at ch 921, and not touched** | carried untouched |
+| **Lu An** | on the page once (ch 907), told nothing | **not on the page in this batch and told nothing** | carried. Still untold |
+| **His ch 812 yes** | stands, untold | **stands, untold** | stands |
+| **The count** | stands, never re-said | **stands, never re-said** | stands |
+| **The four months** | unnamed | **unnamed** | ch 1000 |
+| **Finding-day, the wear gap, the fair hand and the third hand** | open, unraised | **open, unraised** | carried |
+
+### Things Batch 0003 inherits, and what may not be re-opened
+
+Inherited as fact: he is gone and the silence has begun and is not yet shaped · the offer is withdrawn, not refused, and the register is where she left it · the Foundation account is open and unanswered · the layer is going on keeping the walls correctly, for forty-five more days · **she does not know the channel is hers alone and is not to find out before ch 975** · the apology has not been made and no attempt at it has been made · the six costs of hers and the twenty-one carried whole · `eleven` at 23 of its volume line of 40, `nobody` at 0 of 30, brackets three left at ch 940 · 955 · 971. May not be re-opened: that the tax is new to the reader (it is Volume 11's own and is not explained again) · whether she should have stopped him at ch 908 or at ch 919 or at ch 926 (she did not, three times, in three different registers, and each was hers) · that she is thanked, or that he is forgiven, or that anything he did in this batch is called brave · that the Scribe argued, or is a villain, or is lying · that anyone died.
