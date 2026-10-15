@@ -38,7 +38,7 @@ And she wrote it.
 
 It is one stroke and a turn and it is a count and not a price, and it took a count of nine, and her right forearm went down by the width of the little finger on her left hand while the nib was still on the wood, which is the cost of writing and has been the cost of writing since the twelfth of the month beginning two thousand four hundred and forty-four.
 
-## The Second Look
+## They Had Not Looked Up Once
 
 And the person at that table looked up.
 

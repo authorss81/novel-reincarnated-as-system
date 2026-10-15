@@ -72,7 +72,7 @@ And then she stopped for a count of ninety and said what it costs, and she said 
 
 She said, “Once that figure is in that column, that column has two figures in it. A price and a count. And a column with two figures in it is a column that gets added up, and that is not me being found out. That is me being counted, by a room that has never once been asked to count anything.”
 
-She said, “I have been escaping that since I was nine years old. I got a bar at nine and I have never once put it down in nineteen years. And there is not one instrument in the world that takes a line out of a record that has been above the line for four hundred years, and this one is under a table on a stone floor and it has been above the line for one hundred and seventy days.”
+She said, “I have been escaping that since I was nine years old. I got a bar at nine and I have carried it ten years and I put it down once, on purpose, and I am not going back for it. And there is not one instrument in the world that takes a line out of a record that has been above the line for four hundred years, and this one is under a table on a stone floor and it has been above the line for one hundred and seventy days.”
 
 She said, “And I am not going to be rescued out of it. There is not one mouth in this building that knows I am in this room, and not one mouth is going to come up that stair about it, and there is no voice in my head that is going to ask me not to.”
 

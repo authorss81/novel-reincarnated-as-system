@@ -2,7 +2,7 @@
 
 On the fourteenth of the month beginning two thousand four hundred and seventy-four she went down the low door and stood in front of a drawer with a lock on it thirty feet from a copying floor with four hundred volumes on the shelves, and she measured it, and she did not open it, and she had already said out loud on the nineteenth of the month beginning two thousand four hundred and forty-four that she was not going to.
 
-## Thirty Feet From A Copying Floor
+## The Lock On It
 
 The drawer is in the wall at the end of that floor and the lock on it has not been turned in ten years. There are four sheets of rice paper in it and five blank leaves, and the five blank leaves have been blank for ten years, and she has never found out what is on the four sheets.
 

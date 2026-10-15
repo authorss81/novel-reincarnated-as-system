@@ -38,7 +38,7 @@ She lost a step on the way back at the thirty-second turn, and she said it out l
 
 What happened is that her left hand was on the wall at the twenty-ninth turn and not at the thirtieth, because she had been counting turns and not steps for a count of forty and there was a step at the thirty-second turn that she did not put her hand out for.
 
-She went down hard on her left hip and her right arm went out ahead of her into a step edge and she felt the skin go off it from the wrist to about a third of the way up the forearm, which is the arm she writes with, and it is open and it has been open for one hundred and forty-nine days.
+She went down hard on her left hip and her right arm went out ahead of her into a step edge and she felt the skin go off it from the wrist to about a third of the way up the forearm, which is the arm she writes with, and it is open and it has been open for one hundred and fifty-three days.
 
 She sat on that step in the dark with her back to the wall and her right arm across her knees and she did not move for a count of ninety, and then she said the number out loud, which was seven hundred and forty-one, and she had lost count and she had not lost it.
 

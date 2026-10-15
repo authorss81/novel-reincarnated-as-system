@@ -16,7 +16,7 @@ She said that out loud, standing, in daylight, on the twenty-fifth of that month
 
 ## Five Days Of It
 
-She did not do anything else with those five days and she wants that on the page, because everything she has done in a hundred and seventy-eight days in this room has been a thing she found out, and five days of doing nothing at all to a thing she has already done is new.
+She did not do anything else with those five days and she wants that on the page, because everything she has done in a hundred and sixty-eight days in this room has been a thing she found out, and five days of doing nothing at all to a thing she has already done is new.
 
 She got up at the fifth hour and took a reading of her own right forearm, because it had been down by the width of the little finger on her left hand since the twelfth of that month and it had not come back, and she wanted a second figure against the first.
 
@@ -26,7 +26,7 @@ She ate. She has eaten at the second and the seventh hour on every day since the
 
 She did not go down the low door once. She did not go down the second stair. She did not put a hand on that table except to move her own strip back onto the stone.
 
-And on the twenty-sixth she caught herself doing the thing she has done every day for one hundred and seventy-eight days, which is to count out loud, standing at the near end of that table, what the room was keeping for her, and she got as far as the head of the row before she stopped, and she stood there for a count of forty with her mouth shut.
+And on the twenty-sixth she caught herself doing the thing she has done every day for one hundred and sixty-eight days, which is to count out loud, standing at the near end of that table, what the room was keeping for her, and she got as far as the head of the row before she stopped, and she stood there for a count of forty with her mouth shut.
 
 She said out loud afterwards, standing, in daylight:
 
@@ -52,7 +52,7 @@ And on the twenty-seventh she worked out the part that she had not thought of wh
 
 She said, out loud, standing, in daylight, in the ordinary voice, at the near end of that table on the twenty-seventh:
 
-“The figure at the head of this row goes out of date at one hour and twelve minutes a day, and it has been going out of date since the first of the month beginning two thousand two hundred and ninety-four, and it is eight days, fifteen hours and thirty-six minutes out of date this morning, and it gets more out of date every hour and there is not one instrument above this line that would tell me so.”
+“The figure at the head of this row goes out of date at one hour and twelve minutes a day, and it has been going out of date since the first of the month beginning two thousand two hundred and ninety-four, and it is eight days, nineteen hours and twelve minutes out of date this morning, and it gets more out of date every hour and there is not one instrument above this line that would tell me so.”
 
 She said, “And five does not do that.”
 

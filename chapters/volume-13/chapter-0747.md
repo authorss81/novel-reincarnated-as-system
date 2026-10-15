@@ -16,7 +16,7 @@ She said, “I breathe four counts everywhere and seven on a rise and nine stand
 
 She said, “I had eight of eleven holds this morning before I got on that table and I have one less now.”
 
-She said, “There is a small open place low behind my fourth rib the size of a coin and it opened on the eighteenth of the month beginning one thousand five hundred and forty-four and it has not closed in eight hundred and twenty-four days.”
+She said, “There is a small open place low behind my fourth rib the size of a coin and it opened on the eighteenth of the month beginning one thousand five hundred and forty-four and it has not closed in eight hundred and forty-four days.”
 
 She said, “I am lighter by a figure that is the day less one thousand five hundred and fifty-nine and it has been one hour and twelve minutes a day the whole time and not one of them going back, and one of them went into a lamp on the fourth of the month beginning two thousand three hundred and fifty-four and did not come back.”
 
@@ -44,7 +44,7 @@ She said, “There are two kinds of thing I could say in this room that are not 
 
 She said, “One of them is a name. A name goes in a column and the row knows what the thing is, and I have known that since I was nine years old, because a name has had a fifth of it taken every day since the ninth hour of the twenty-fourth of the month beginning two thousand and fifty-four and it is still in a column and still going.”
 
-She said, “And a name is not free and it does not stop. One in twenty of every day comes off a name, at one hour and twelve minutes a day, and I have been paying that on my own name for eight hundred and twenty-four days and it has not once been entered.”
+She said, “And a name is not free and it does not stop. One in twenty of every day comes off a name, at one hour and twelve minutes a day, and I have been paying that on my own name for eight hundred and forty-six days and it has not once been entered.”
 
 She said, “And the other one is a sentence. And a sentence is what a column is not for, and a hand that copies figures exactly is not going to put a sentence in a column and hand it back to me.”
 

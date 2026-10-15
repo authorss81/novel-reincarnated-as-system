@@ -666,7 +666,7 @@ had to.
 2. **Ch 773, day 2,509, the sixth of the month beginning 2,504, and ch 774, day 2,513, the tenth of the same month. She counts what she
    has**, standing, in daylight, out loud, in a room with two people in it — **a bar nine feet nine
    flat against the left-hand wall of the room she is standing in, where she left it at ch 731 and where it is going to be when this
-   volume ends**, two coppers she cannot count, four fingers and a thumb, **nine hundred and fifty days at 2,509 and nine hundred and
+   volume ends**, two coppers she cannot count, **three fingers and a thumb — CORRECTED AT THE VOLUME 13 CLOSE, which found *four fingers and a thumb* in this item and resolved it in favour of the page; the index has been gone since Volume 1**, **nine hundred and fifty days at 2,509 and nine hundred and
    fifty-four at 2,513, both by `D − 1,559`, and one of them gone into a lamp**, five blank leaves against her ribs that
    she has not written in and is not going to, and a record kept out loud with six terms and no seventh. **She does not count the bar as
    something she has, because she left it where it was on purpose and the leaving is the only thing about it that is hers.**
@@ -712,7 +712,7 @@ had to.
 - **What she is at the last page of Volume 13:** **Immortal Vessel 6**, six stages into the seventh realm, in a dark room at the top of
   eight flights and eight hundred and eighty steps in a tower four miles up a mountain, at the foot of nine hundred and four more,
   **nine hundred and eighty-one days lighter and not one of them going back and one of them
-  going the other way**, three fingers and a thumb, an arm that has not closed in two hundred and forty days, a row in the dark that
+  going the other way**, three fingers and a thumb, **an arm that has not closed in two hundred and forty-six days, which is `2,540 − 2,294` and is what ch 779 and ch 780 say — CORRECTED AT THE VOLUME 13 CLOSE, which found the stale figure *two hundred and forty* in this item and resolved it in favour of the page**, a row in the dark that
   says what she is in her own hand, **and a brother six hundred feet below her and a boy of sixteen in the doorway and a voice in her
   head that is a person and is readable now, and is not being spoken to.**
 
@@ -885,9 +885,9 @@ that produced it in the same sentence is not a figure at all.**
 | ***Thank*** | **1, and that one is a refusal at ch 702** | **0.** **Nobody above the line thanks anybody, and the volume does not thank Feng, and Feng is dead.** She never thanks him |
 | ***Forgiv*** | **0** on the substring | **0 naming it.** The year is still running and nothing forgives it. Measured on `grep -oi forgiv` and **never on the word boundary** |
 | ***The year*** | **0** | **0 naming it**, measured on `grep -oi 'the year'` with the command named in the sentence with the number |
-| ***About four seconds* · *eleven weeks* · *week*** | 0 / 0 / 0 | **0 / 0 / 0** |
+| ***About four seconds* · *eleven weeks* · *week*** | 0 / 0 / 0 | **0 / 0 / 1** — **CORRECTED AT THE VOLUME 13 CLOSE. The allowance was written at 0 and the committed page carries one instance of `grep -oi week`, at ch 735, in the ordinary duration *that has not changed in four weeks*. It is not a named week, not a calendar week and not a dated interval. The close judged it harmless, left it standing, and corrected the allowance to the measured figure rather than the other way round** |
 | **Banned reflexes** — *his eyes widened · couldn't believe it · suddenly · little did he know* | **0** | **0** |
-| **The surface answer** | **0** | **0, and the moral answer is Volumes 15–16's and may not be previewed.** `charged` 0 · `bookkeeping` 0 · `receipt` 0 · `bounded world` 0 · `the walls` 0 |
+| **The surface answer** | **0** | **0, and the moral answer is Volumes 15–16's and may not be previewed.** `bookkeeping` 0 · `receipt` 0 · `bounded world` 0 · `the walls` 0 — **and `charged` is 1, which is CORRECTED AT THE VOLUME 13 CLOSE. The single instance is ch 734's chapter title, *What A Hand Is Charged*, in the commercial sense: the room charges the hand that writes, one figure for the width of the little finger on her left hand, which is the volume's own economics and is on the page at ch 745. It is not the Volume 12 surface answer and it gestures at nothing in Volumes 15–16. The close left the standing heading alone and corrected the allowance to the measured figure** |
 | **Zeroed proper nouns** — `Ledger · reconciled · plate · licence · license · clearance · countersignature · seal · kiln-born · MEMBER ABSENT · tribulation · Anchor · Sisterhood · bargain · vouch · field agent · Wall writ · Warden · Hunter · Shuyin · Xie Changyin · Feng Lushi` | all 0 | **all 0, measured before claimed.** **`Court` at most once, in Batch 0004, as the word for a building · `Ascendant` 0 · `Choir` 0 · `Ning Wu` at most once and optional · `Scribe` at most 2, only as the thing he was a fragment of, never speaking** |
 | **Titles** | **60 names, 3–12 words, 0 collisions against all 720 standing headings** | **Sixty more, names, 3–12 words, unique against all 720 standing headings and against each other, nothing over about 90 characters.** Batch 0001's fifteen are in its card and have been checked against all 720 with `sort \| uniq -d` |
 | **Section-heading identity** | **0 within a chapter and 0 across the volume** | **0 within a chapter, 0 across the volume, measured on `^## ` before it is claimed** |
