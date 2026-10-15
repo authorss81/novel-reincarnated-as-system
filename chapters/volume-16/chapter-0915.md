@@ -43,6 +43,7 @@ He was quiet for a count of forty.
 “Yes,” he said. “That is what it is. And you are standing in it.”
 
 “I am not leaving it.”
+
 “No,” he said. “I have watched you not leave things for nineteen years and I am not going to be the one who argues you out of the one room you have ever had. You are not leaving it and I would not want you to and I want you to hear me say that, because you have spent six days thinking you have given something up and you have not.”
 
 She put her thumb into the hollow in the table that her own forearms had worn there over nineteen years.
@@ -68,6 +69,7 @@ She stood with that and put her hands flat on the worn wood where her forearms h
 “You asked me what I wanted,” he said. “At the ninth hour on the seventh of the month beginning two thousand nine hundred and fifty-four, standing, in the ordinary voice, in front of the thing that made me, and it was the first question you had asked me in nineteen years and I did not answer it for a whole day.”
 
 “I asked you why you did not answer it.”
+
 “I did not answer that either,” he said. “That is not the same as the first one. The first one is mine and I am answering it and I have answered it, and I am going to stop you putting them together, because what I am about to ask you has never once been asked of you by anybody in this world.”
 
 She had her hands flat on the table and had not moved them.
@@ -81,6 +83,7 @@ She put her hands still on the table.
 “What do you want, Ning Yan.”
 
 The room sat there with it.
+
 She opened her mouth and there was nothing in it.
 
 Nineteen years of a life built entirely out of things she was after, and every one of them had been a thing somebody else had put in front of her and then taken away, and she had wanted all of them with a completeness she had never once had cause to look at, and now a man who could hear the inside of her head had asked her a question with nothing in the question and she had no answer at all.

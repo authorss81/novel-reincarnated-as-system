@@ -65,6 +65,7 @@ She went back three days of it and stopped him at the end of it.
 “You were trying to be quiet. That is the one thing I have never been able to be wrong about, because I have been listening to you try to be quiet for nine years and it is a sound. What was it like.”
 
 He was quiet for a long time, which she let him have, because this one was his and not hers.
+
 “It was like shouting with my hands over my own mouth,” he said. “There is no mouth. There is the channel and the channel is where everything you feel goes through on the way to me, and when I went at it, everything you felt came up at me at once. Every day you had ever had.”
 
 She stood in the dark where she was and did not move.

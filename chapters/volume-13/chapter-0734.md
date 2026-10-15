@@ -84,7 +84,6 @@ She said, “And so there are two figures about me in the world. One of them is 
 
 She said, “And I have been able to see the second one since the twelfth of the month beginning 2,324 and I have not been able to do one single thing about it, and I am not going to be able to, and that is the whole of what this room has given me to do.”
 
-
 ## What A Room Can Be Asked For
 
 And then she said what she worked out at the ninth hour, which is the only thing out of the whole of this that she can use.

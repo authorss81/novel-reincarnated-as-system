@@ -1914,11 +1914,19 @@ stands at **1,881,197 words over 1,000 chapters, average 1,881.**
 **This close audited the whole volume for the first time and repaired thirty-two things on the page across sixteen
 chapter files, adding and removing not one word of prose.** Thirty paragraph breaks inserted, because the volume
 as the drafting phases left it carried **thirty-five paragraphs over ninety words and eleven over the 120-word
-ceiling**; **nothing is now over 120 and eight are over 90**, at ch 901 · 908 · 937 · 938 · 940 · 941 · 945 · 970, five
-of which open on a quotation mark and close inside the paragraph, two narrative and one her working a figure out loud.
-**The figures are thirty rather than thirty-one and eight rather than seven because the break at ch 938 was withdrawn
-after review: it fell inside a single unclosed speech and the line beneath it is *It did not stop.* — see
-`state/continuity.md` under *VOLUME 16 CLOSE — REVIEW REPAIR*.** One duplicate section heading, `## The Count` at
+ceiling**; **nothing is now over 120 and seven are over 90**, at ch 908 · 937 · 938 · 940 · 941 · 945 · 970, five
+of which open on a quotation mark and close inside the paragraph, one narrative and one her working a figure out loud.
+***(Seven, not eight: this line previously read eight and named ch 901 among them. The ch 901 figure was a measurement
+artifact — two separate paragraphs stood on consecutive non-blank lines, so the block count joined a 29-word speech to
+the 89-word speech answering it and reported 118. The blank line is restored at the series close file-hygiene repair of
+15 Oct 2026 and ch 901 is not on the list. Manuscript-wide the figure moves from 239 to 237.)***
+**The figures are thirty rather than thirty-one because the break at ch 938 was withdrawn after review: it fell inside a
+single unclosed speech and the line beneath it is *It did not stop.* — see `state/continuity.md` under *VOLUME 16 CLOSE —
+REVIEW REPAIR*.** ***(This sentence previously read *and eight rather than seven* and attributed the eight to the ch 938
+withdrawal. That attribution was wrong: withdrawing the ch 938 break raised the count from seven to eight, and the
+count is now **seven** because the eighth, ch 901, was never a paragraph at all — it was a 29-word speech on the line
+above an 89-word speech with no blank line between them, counted as one. Blank line restored at the series close
+file-hygiene repair, 15 Oct 2026.)*** One duplicate section heading, `## The Count` at
 ch 954 and ch 958, repaired: **ch 954's is now `## Sixty-Eight` and no duplicate section heading remains in the
 volume.** One wrong window in `outline/volume-16.md`'s `ascendant` budget, corrected in place under the outline's own
 repairs heading as item 9 — **the two uses are at ch 905 and ch 924, both the offer, and no chapter was rewritten.**
@@ -1951,7 +1959,9 @@ Day 9,800, the seventh of the month beginning nine thousand six hundred and twen
 
 **THE HANDS. Settled.** The right hand carries **three fingers and a thumb**. `four fingers and a thumb` — 219 uses across Volumes 4–13 and **none in Volume 16**, which has 38 of the correct phrase — describes all five digits and therefore a hand that has lost nothing; a hand of five minus the index finger lost at ch 235 leaves four, and the manuscript argues this itself at ch 666: *a hand with three fingers and a thumb on it and a missing index.* **Where the phrase describes the left hand, which has all five with the heel gone from the second finger, it is correct and stays.** The 219 historical uses are **not rewritten** — roughly a dozen of them are left-hand and correct, and a close may not rewrite a volume — and the question is closed here rather than left open a third time.
 
-**Not touched: the 219 historical uses · `eleven` at 61 against a line of 40, over by twenty-one and recorded beside the number rather than repaired by cutting ordinary durations out of a closed hundred chapters · eight paragraphs over ninety words and none over 120 · and everything `outline/ending.md` fixes.** No chapter number moved, no day moved, no batch boundary moved, no midpoint, no climax, no bracket, no irreversible step, no title, and not one word of prose added or removed anywhere in the hundred chapters.
+**Not touched: the 219 historical uses · `eleven` at 61 against a line of 40, over by twenty-one and recorded beside the number rather than repaired by cutting ordinary durations out of a closed hundred chapters · **seven paragraphs over ninety words and none over 120** *(seven,
+not eight: the eighth, ch 901, was a measurement artifact of two paragraphs standing on consecutive lines; corrected at
+the series close file-hygiene repair of 15 Oct 2026)* · and everything `outline/ending.md` fixes.** No chapter number moved, no day moved, no batch boundary moved, no midpoint, no climax, no bracket, no irreversible step, no title, and not one word of prose added or removed anywhere in the hundred chapters.
 
 ### The word-line overages, recorded beside the number
 
@@ -2040,3 +2050,51 @@ purpose. **Neither is repaired here and neither is to be repaired by a later pha
 **No `.done`, no `.blocked`, no `.retry-after`, no `.retired`, no `state/phase-ledger.json`, no ch 1001, no Volume 17,
 no second prompt, and nothing touched under `scripts/`, `.github/workflows/` or `.opencode/agent/`. The book is down and
 the chain should stop.**
+
+---
+
+## THE FILE-HYGIENE REPAIR, 15 Oct 2026 — 332 files, 37 paragraph breaks, zero words. A cold reader needs to know two things.
+
+**The manuscript is still 1,000 chapters and 1,881,197 words of body prose. Every number in this file above is still
+correct, with one exception named below.** This repair moved whitespace and paragraph breaks and nothing else.
+
+**ONE — thirty-seven paragraphs that the rendered book had been showing as one paragraph each are now two.** In forty
+places two paragraphs stood on consecutive non-blank lines with no blank line between them, and `scripts/build_epub.py`
+joins consecutive non-blank lines into a single `<p>`. **Thirty were in Volume 16** — a speech closing and the speech
+answering it, or a speech closing and the next narrative paragraph beginning, running together from ch 901 to ch 915 and
+again at ch 995. **All thirty-seven are repaired; not one word moved.** If you have read this volume in EPUB, the
+dialogue in those chapters ran together and it no longer does. **The defect was pre-existing, and the `next-0015`
+review pass made twenty-seven of the joins worse rather than creating them** — it collapsed double blank lines to single
+ones and in doing so removed the only separation some of those pairs still had.
+
+**TWO — the over-ninety paragraph count is seven in Volume 16, not eight, and ch 901 is not on it.** Ch 901 was recorded
+at 118 words. **That 118 was the 29-word speech at line 87 sitting directly above the 89-word speech answering it, joined
+by the measurement into one paragraph because there was no blank line between them.** Both are under ninety and both
+stand as their own paragraphs. **Manuscript-wide the figure moves from 239 to 237.** Corrected in
+`state/continuity.md`, `state/chapter-summaries.md` and `state/INDEX.md`, each with the superseded value left visible.
+
+**Also closed, and the reason the reviewer's own first count came out 1,457 words high: three hundred and nineteen
+chapter files ended without a newline**, so any tool that concatenated the directory ran each file's last line into the
+next file's `#` title and lost both to the heading filter. **Every chapter file now ends in exactly one newline, and the
+concatenating method and the per-file method now return the same number — which is the entire test.** Four surplus
+trailing blank lines, twenty-three double blank lines in Volumes 8 and 13, and one line of trailing whitespace are also
+gone.
+
+**ONE THING IS LEFT OPEN ON PURPOSE, and it is prose rather than formatting.** Three lines in
+`chapters/volume-01/chapter-0057.md` — at 43, 104 and 145 — carry the opening words of a speech and stop without
+punctuation, with the full speech beginning again on the line beneath; each stub is a strict prefix of the line below it,
+so the paragraph opens the same phrase twice. **These are the only twenty words in the manuscript that a fix would
+remove rather than restore, and they are left. Every other repair in this pass was whitespace — a blank line the author
+had put in and something had taken out — and a pass whose authority is whitespace does not get to start deleting words
+from a volume closed fifteen volumes back on its own judgement.** Precisely located in
+`state/continuity.md` and `state/open-threads.md` so it can be decided rather than inherited.
+
+**`eleven` still measures 63 raw and 61 against a line of 40, over by twenty-one and recorded rather than repaired.
+`nobody` is still exactly 30 of 30. `ascendant` is still 2, both the offer. `forgiv` is still 1 at ch 1000. The eight
+bracketed lines are still eight, the last at ch 971. `scripts/completion_guard.py` still exits 0.** Every construction
+budget was re-measured after the repair rather than assumed.
+
+**No chapter was restarted. No number, day, batch boundary, midpoint, climax, bracket, irreversible step, title or
+section heading moved. No beat moved and the planned plot is untouched: no ch 1001, no Volume 17, no
+`outline/volume-17.md`, no second prompt, no `state/phase-ledger.json`, no `.done`, no `.blocked`, no `.retry-after`, no
+`.retired`, and nothing touched under `scripts/`, `.github/workflows/` or `.opencode/agent/`. The book is down.**

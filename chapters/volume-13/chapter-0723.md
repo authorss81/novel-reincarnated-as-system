@@ -56,7 +56,6 @@ She said, “And if I get to the top of it I will not know what is up there. Tha
 
 She said, “And the reason I am going up it anyway is not courage. It is that I have been at the bottom of stairs since the seventh of the month beginning 2,054 and every single thing that has ever happened to me has happened at the bottom of a stair, and there is one thing at the top of this one and I would like to know whether it is worth the seven counts.”
 
-
 ## Nine Hundred
 
 And on the nineteenth of the month beginning 2,294, at the fourth hour, standing on a step on a stair that turns, she said nine hundred out loud and could not go on.

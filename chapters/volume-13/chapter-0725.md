@@ -38,7 +38,6 @@ She put her hand in behind it again to be sure, and it was wall.
 
 She said, “That is the whole of it and I have got it down in a count of a hundred and it took me seventeen days to be able to say it because I could not get to it.”
 
-
 ## What Is Not In It
 
 She put her face against the bars and looked into it for a count of a hundred.

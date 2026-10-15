@@ -117,6 +117,7 @@ He was quiet for a count of forty.
 “You did,” he said.
 
 She stood at the near end of the table and did not move for a long time.
+
 Not for the figures, which would have been a relief and were not available. Not for the arithmetic, which had never once got her through anything in nineteen years.
 
 She stood there because a man had told her at about the second hour on the seventh of this month that he was the happiest she had ever heard anybody be, and she had watched him be it for four minutes without speaking, and it was still in her, and it had not got any smaller in three days, and there was no way to set it down.
@@ -128,6 +129,7 @@ She stood there because a man had told her at about the second hour on the seven
 “Carry it as mine.”
 
 “It is yours.”
+
 “It is not,” he said. “I have had six hundred years of things that were mine. The offer is mine and the wanting is mine and the four minutes were mine and every one of them I put my own hand to.”
 
 She sat on the stone at the near end of the table and let it come at her.
@@ -135,6 +137,7 @@ She sat on the stone at the near end of the table and let it come at her.
 “What is not mine is a woman standing at a table for four minutes with her mouth shut when she had the standing to open it. That is yours, and you are going to have to put it somewhere, and I am telling you now that you do not have to put it on me.”
 
 She sat down on the stone at the near end of the table, because standing was for saying and she had nothing to say.
+
 The four minutes were over and nothing had happened.
 
 He was still there and so was she, and the walls were up and the layer was up and the offer was answered and had not begun, and neither of them knew what happened next, and she had done the whole of it standing up, in the ordinary voice, in front of the thing that made him, and it was the worst thing she had ever done and it was also the only thing she had ever done that she could not go and take back.

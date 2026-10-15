@@ -60,7 +60,6 @@ Near the eighth hour, while he waited for sheets, he said to the lamp more than 
 
 She felt that land. She had been the smallest person in every room for two years and she knew what it was to be kept for one thing and not told it. She said nothing because there was nothing useful to say to a man of twenty-six in a room full of lamps.
 
-
 ## The Carrier’s Child
 
 At midday the carriers eat outside in turns. She ate with them, bread dry, chewed slow. They talked of oil and wicks and a child with a cough that will not clear. One carrier, a woman past middle age, said the cough eases when the child sleeps propped up, and another nodded.
@@ -68,7 +67,6 @@ At midday the carriers eat outside in turns. She ate with them, bread dry, chewe
 Ordinary talk. Ning Yan listened and said little. She has no child and no cure to offer, but she knows coughs that sit in winter rooms. She told them propping helps, and the woman thanked her, and that was the whole of her part in it.
 
 She likes these people. They carry and square and trim, steady, without wasted motion. None of them asked her name. None asked about her arm. Work first, names later, if ever. That suits her. She has been entered three times and read for two years, and a place where she is hands before she is a name feels like rest.
-
 
 ## The Eighth Hour
 

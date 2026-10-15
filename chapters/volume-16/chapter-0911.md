@@ -57,6 +57,7 @@ The lamp stood on the stone. The register lay on the table with everything in it
 “Not in the morning,” he said. “Not in a count of ninety. I have been at the edge since the twenty-ninth and I have three more days of being at it in me and then I am not going to have it any more.”
 
 “Which day.”
+
 “The seventh of this month,” he said. “That is three days. I have not said it before because a date said out loud in this building is a date that cannot be taken back, and I have had two hundred and fifty-five days since the ninth stage and one hundred and sixty-two days since you left your own room and six hundred years of being a voice.”
 
 She heard where the sentence turned.

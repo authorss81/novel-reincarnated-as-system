@@ -1,6 +1,7 @@
 # The Cuts Go On
 
 She went at the register the wrong way.
+
 It was the fourteenth of the month beginning two thousand nine hundred and fifty-four and she had been reading it in the same direction for nine days, always from the near end of the table toward the far side, because the five mercies are five mercies in an order and you do not read them backwards.
 
 She had put her left thumb on the first cut and gone along to the fifth, twice, once by lamp and once by her own fingers in the dark, and both readings had found five clauses and no conditions in any of them.
@@ -42,6 +43,7 @@ Same words. Same cuts.
 She put her hand flat on it and did not lift it.
 
 She stood at the table in the dark and let the six days she had been here settle around that sentence and she found every one of them standing inside it.
+
 The binding at the peak, said out loud standing in her own voice before it was a line anywhere, by her and by no other mouth. The count at the ninth hour, said out loud standing where the keeper reads, first in her own voice, ungettable back. The six terms on the stairs, said standing.
 
 Every finding she had made in nineteen years that mattered had been said out loud by her before anything wrote it, and she had done it so long and so automatically that she had stopped thinking of it as a rule and had started thinking of it as the way she was built.

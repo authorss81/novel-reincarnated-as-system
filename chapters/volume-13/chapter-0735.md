@@ -128,7 +128,6 @@ She said, “And today, one day of mine into the cage at the fourth hour, and it
 
 She said, “That is sixty days. And there are five blank leaves against my ribs and a bar against the wall on the left and a lamp at the far end of this table higher than it has ever been, and none of the sixty days has gone into the book and not one word of any of it has gone out of this room.”
 
-
 ## What She Has Found Out
 
 And she said the last of it at the ninth hour of the seventh of the month beginning 2,354, sitting on the floor with her back against the doorframe and her arm open across her knees and a bar nine feet nine against the wall on the left where she left it on purpose.

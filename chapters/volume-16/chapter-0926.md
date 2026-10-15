@@ -123,4 +123,3 @@ She put her hands flat on the worn wood and stood there and did not fill it.
 She did not fill anything after that. She left the room with the sentence standing where it was and went and sat down on the stone at the near end of the table with her back against the leg of it, which is where she had sat at about the fourth hour on the seventh of the month beginning two thousand nine hundred and fifty-four while a man said yes four minutes away from being a person.
 
 She had not known then what she was sitting with. She had had it in her hands for six weeks and this was the first time she had put it in the open air.
-

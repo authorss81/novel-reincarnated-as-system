@@ -1,6 +1,7 @@
 # A Ward of Her Own
 
 She read it in the dark, which she had not done standing before, and standing is what readings are.
+
 The lamp had gone on the seventeenth and there was no oil in the building and there had not been for nine years, and the only light past that was what came in through a doorless room at the top of a tower past the last landing, which was nothing.
 
 So she stood at the near end of the table with her left hand on the register and moved it a breadth at a time, three fingers and a thumb finding the start of each cut the way a hand finds a step in the dark, and she said every line out loud before she let it be a line anywhere.

@@ -20,14 +20,11 @@ He opened it to the last page and turned it so she could see. The name from the 
 
 “It does not strike names off,” the man said. “There is no hand in this building that takes one off and there has never been one. I have looked, twice, for my own.”
 
-
 ## The Dates
 
 She looked at the folder dates running back while he shelved the new one. Forty-two years, month after month, each folder tied with string, each string dated on the outside. She thought of Rao’s third floor with sixteen years of columns, four hours a month for nothing, margin correction four. She thought of Geng’s lifting floor with nineteen years of sheets and a second column she helped write by reading aloud. Paper holds when people hold it. That is the whole of every archive she has stood in.
 
 Her reading sits in the ninth’s folder now, tied with string, dated on the outside. The name sits in the book with the date against it. The sheet sits squared beneath. Three marks for one reading. She put them there with her mouth. She cannot take them out. No hand in that building takes names off. He looked twice for his own. She believes him, and she has looked for ways out of entries herself, and found none that hold.
-
-
 
 ## The Walk Out
 
@@ -36,7 +33,6 @@ She walked out past the windows with the book behind her eyelids, four hundred a
 Her arm ached from carrying. Her breath ran four counts. She thought about names that cannot come off, her own three entries on nine days of road, entered as good, entered for materials, entered by a copy in a hand she has never seen, and now a fourth entry she asked for, another person’s name by her mouth.
 
 Each entry shuts a door. Each was made in daylight, in the ordinary voice, with nobody lying. That is what frightens her about competent rooms. Nothing in them is wrong. Everything in them holds. And holding is what keeps names down forever.
-
 
 ## The Shelf
 

@@ -97,6 +97,7 @@ She stood in the dark and had it in her mouth and it came out before she had a c
 “No,” she said. “I will not.”
 
 “You have not heard the reason.”
+
 “The reason is on this table,” she said, “and I found it on the fourteenth, and it is the sixth cut, and it says a thing is said in the voice of the person it is about, standing, before it is a line anywhere.”
 
 She put her thumb on the cut to show him where it was, and the dark did not take any notice.

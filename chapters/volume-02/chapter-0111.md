@@ -61,7 +61,9 @@ She had been told that about this office before by a different man in a differen
 She wrote it in the docket in the lining, in the wash code, on the back of the line she had written about the two men on the wall.
 
 *Gone from the sheet. Second hour. Entered. Not asked, not left, not consulted.*
+
 *Paper for a licence: schedule, Hall clerk, certified, season's hours, via quarter.*
+
 *Closes last week of thaw.*
 
 And then, because the log was in the lining and the wash code was in the log and the log had been a laundry ledger's back pages for a year and she had been so careful about what went into it for so long that she had forgotten what it was for, she stood in the middle of a county ante-room at the second hour and wrote a line of plain text, without code, at the foot of the docket.

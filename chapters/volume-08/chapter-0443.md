@@ -30,14 +30,11 @@ That was all. Five sentences, short, broken across beats with pauses where he ha
 
 She went and stood off to the side where people who are waiting stand. She did not ask twice. She would never ask twice. The condition was plain and she kept it the way she keeps every condition men at gates put on her.
 
-
 ## The Cup Again
 
 At midday he drank from his cup and set it down without sound. She watched because watching steady hands steadies her. Nine years at that gate, four hundred and more turned back, nine hundred carts nodded through. The cup has been lifted and set down ten thousand times. It still sets down without sound. That is practice. She respects practice. She has squared sheets and carried bars and read columns until the work sits in her shoulders, and she knows what ten thousand repetitions cost and what they buy.
 
 He caught her watching and lifted the cup a finger’s width in salute before drinking. She nodded back. No words. Gate men and women waiting understand each other. The chain hangs. The road runs. The building works on, paper and breath, a hundred readers by lamplight. His five sentences sit in her chest, separate, each in its own hour. It does not tell me. I decided. I am not going to say. Not twice. She keeps them the way she keeps dates, exact.
-
-
 
 ## The Evening Road
 
@@ -45,12 +42,9 @@ In the evening she walked four hundred yards down the road and back, to stretch 
 
 His second year he decided what to do with people turned back and keeps it nine years. Her second year reading she answered because answering was the only thing she had instead of strength. Both decisions hold. His keeps a gate kind. Hers brought an Order to her door. She walks back to the gate with that measured true, neither proud nor ashamed, only exact.
 
-
-
 ## The Night Watch
 
 She sleeps light at the gate, bar beside her, waking once to check the chain by starlight. It hangs in its loop, quiet. The man breathes slow on his stool, cup set square. She counts her breaths to sleep again, four counts in, four out, steady. His decision keeps him. Hers keeps her. Both hold through the night.
-
 
 ## The Rest Of The Day
 

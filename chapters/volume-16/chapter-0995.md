@@ -79,6 +79,7 @@ She got angry about it that night, which she had not done about this in about ni
 She stood in a yard at about the ninth hour with about nine people still in it and the anger came up out of the place where she kept the thing she could not do, and it was not a good anger and she did not pretend it was.
 
 The woman had been right and she knew exactly how she was right, and the knowing was the whole of what she had. There was not one thing about it that she could blame on a machine or on a wall or on a person who was gone.
+
 A person had watched her for seven days and gone and did it. A person had stayed nine days near her and did it. Those two were not taught at all.
 
 “You have four hundred days of standing in the middle of this yard,” she said out loud, standing, in the ordinary voice, to about nine people at the ninth hour, “and four days of one of the three sentences, and you have told two people in ten years and it took nine days each, and you worked that out at the fourth hour this morning in about a count of forty.

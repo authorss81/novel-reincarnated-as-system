@@ -457,7 +457,7 @@ own state files, and one scope disagreement is recorded rather than obeyed.**
 | What | Where | Read it for |
 | --- | --- | --- |
 | **VOLUME 16 CLOSE — REVIEW REPAIR**, after `logs/next-0015.review.log` | `state/continuity.md` | all six findings worked one at a time: the withdrawn ch 938 break and why, the blank-line claim that was false, the divergence closed, the `eleven` note, `.done` ownership, and the scope finding recorded as a disagreement |
-| **The repairs, sixteen chapter files** — corrected in place | `state/continuity.md` | the split count is **thirty**, not thirty-one, and the over-ninety paragraphs are **eight**, not seven, because ch 938 is restored to one unbroken speech |
+| **The repairs, sixteen chapter files** — corrected in place | `state/continuity.md` | the split count is **thirty**, not thirty-one, because ch 938 is restored to one unbroken speech. **The over-ninety paragraphs are seven, not eight — superseded by the series close file-hygiene repair below, which showed ch 901's 118 was two paragraphs of 29 and 89 standing on consecutive lines** |
 | **`## Repairs made to this outline at the Volume 16 close`**, item 10 | `outline/volume-16.md` | the `eleven` line now carries the measured overage — **63 raw, 61 against a line of 40, over by twenty-one** — and says the overage is recorded rather than repaired |
 
 **What moved and what did not.** Sixteen chapter files changed: **fifteen are whitespace only and one is a paragraph
@@ -489,6 +489,13 @@ phase: **the first consequence in ch 1 closes at about word 892 rather than insi
 *about* allows; and **the manuscript holds thirty chapters under the 1,300-word floor and twenty-seven over the 2,700-word
 guide**, all in Volumes 1, 2, 3, 6, 10 and 14 except the two in Volume 16 that `outline/volume-16.md` names as short on
 purpose.
+
+**The series close file-hygiene repair, 15 Oct 2026, after `logs/volume-16-close.review.log`.** 332 chapter files normalised at the file level and 334 chapter files touched in all, 37 paragraph breaks restored, not one word of prose changed, manuscript total 1,881,197 before and after.
+
+| What | Where | Read it for |
+| --- | --- | --- |
+| **SERIES CLOSE — FILE-HYGIENE REPAIR** | `state/continuity.md`, last block | the 319 missing trailing newlines and the 1,457-word phantom they caused in any concatenating count · the 37 lost paragraph breaks, 30 of them in Volume 16, that `build_epub.py` was rendering as single merged `<p>` blocks · why the over-ninety count moved from eight to seven and why ch 901's 118 words were a seam rather than a paragraph · findings 1–4 worked or recorded as human calls, and the three Volume 1 stubs left unrepaired on purpose |
+| **The series close file-hygiene repair** | `state/open-threads.md`, last block | what was closed, what was deliberately left open, and the confirmation that every other entry in that register is unchanged |
 
 **Nothing was created after this commit that the chain should run.** No ch 1001, no Volume 17, no `outline/volume-17.md`,
 no second prompt, no `state/phase-ledger.json`, no `.done`, no `.blocked`, no `.retry-after`, no `.retired`, and nothing

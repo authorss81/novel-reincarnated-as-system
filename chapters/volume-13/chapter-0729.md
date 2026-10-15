@@ -58,7 +58,6 @@ She said, “And it has been under that table since the first of this month and 
 
 And then she came out from under it and went and sat on the floor against the bar lying flat against the wall on the left, with her back against the wood and her arm open across her knees, and she did not touch it and she did not move it.
 
-
 ## Why It Is In Her Hand
 
 And she worked that out the same day, lying on the floor against the doorframe with her arm open and her breath at seven, and she said it out loud in the ordinary voice to a doorframe.

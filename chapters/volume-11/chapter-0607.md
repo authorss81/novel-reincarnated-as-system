@@ -167,4 +167,3 @@ He said, “And you are going to sit on that kerb and go through them again.”
 She said, “I have already gone through them twice.”
 
 He said, “Then you are going to do it a third time, and that is what you do, and I am not going to stop you.”
-

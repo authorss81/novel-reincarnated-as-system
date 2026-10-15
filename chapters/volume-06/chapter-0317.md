@@ -99,4 +99,3 @@ She had been standing at a material shed about a mile east of that shed, with a 
 She had five at the seventh hour on the thirteenth and enough again by the fifteenth, and she stood at a gate on the fourteenth with her hand shut over them and understood that she was two days away from being able to afford a third of a charge, and that everything else on that ground was going to go on costing exactly what it had always cost.
 
 Five months of a season had taught her the first half of this. The works three miles east had taught her the second half on the third of a month, standing in a gateway, looking at boxes with brick and clay already broken into them in a size one arm could carry.
-

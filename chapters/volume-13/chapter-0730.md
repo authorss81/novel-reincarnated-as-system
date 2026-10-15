@@ -64,7 +64,6 @@ She said, “And I am aware that the last figure I got in this room is two days 
 
 She said, “And that is the first time in nineteen years I have had two correct numbers that do not fit and both of them are mine.”
 
-
 ## The Other Rate
 
 And while she was standing there she did the other one, because she has been doing the other one every day since the ninth hour of the twenty-fourth of the month beginning 2,054 and it takes nine counts.

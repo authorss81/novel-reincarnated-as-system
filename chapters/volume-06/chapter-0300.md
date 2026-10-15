@@ -125,4 +125,3 @@ At about the eighth hour the cart came out of the yard loaded to about the heigh
 Everything on this ground sent one a month. Every reach of them.
 
 Eleven trays on a stack was a normal morning, and the sorter had not looked twice at any of them, and she was the only thing in that yard that had ever wanted to know what any of it was for.
-

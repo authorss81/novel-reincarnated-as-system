@@ -62,7 +62,6 @@ She said, “And I am not going to be able to put it down.”
 
 She put it back where it was and it cost her fifty-four counts, and she stood in the dark near the door with her forehead against the frame and her hands on the wood.
 
-
 ## What She Did
 
 And on the twenty-first of the month beginning 2,324, at the second hour, she put it down for the last time and it cost her fifty-four counts and she did not pick it up again.

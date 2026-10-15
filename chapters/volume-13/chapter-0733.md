@@ -102,7 +102,6 @@ She said, “That is a reason.”
 
 He said, “It is the only one you have got.”
 
-
 ## What It Is Not
 
 And then she said what she does not know, out loud, standing, in the ordinary voice, at the sixth hour of the twenty-eighth of the month beginning 2,324, in a room where a hand copies figures exactly and where she has been keeping things out of words for a month because she will not say a guess.

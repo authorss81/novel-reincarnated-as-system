@@ -33,6 +33,7 @@ She read the second, and the third, and the fourth, and then she stood with all 
 A rule had been found on the fourteenth of this month that said a thing goes into the world in the mouth of the person it is about, standing, before it is a line anywhere.
 
 And here, cut past the mercies in the same hand to the same depth, was what a bargain made under that rule looks like when it is finished being written.
+
 It had been written the way she writes. Her mouth first and the writing after.
 
 Somebody had taken the method she has used for nineteen years and built an offer in it, and had built it into a table at the top of a tower that she would come to and put her hands on, and had put the rule behind the mercies so that a woman coming up for the price of a thing would have to go past the answer to find out what the answer was standing on.
@@ -96,6 +97,7 @@ The lamp went then.
 It did not go with any warning. It had been an eyelash for four days and she had told herself that an eyelash was a light, and the wick went into the oil that was not there and the room closed over like water.
 
 She stood at the table in the dark with her hands on the register and the register under her hands and nothing else in the world within reach.
+
 She had four paces. That was what the lamp had given her for four days and she had been reading at two and had believed she had more. The table was in front of her.
 
 The far side of it was somewhere in the dark at the end of her left arm and the place at the far side with nothing worn at all was somewhere past that, and the cuts past the fourth of the four were under her hands and she could not see one line of them.

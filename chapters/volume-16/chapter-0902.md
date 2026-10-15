@@ -53,6 +53,7 @@ She sat with that for a while and her breath went four counts and the lamp gave 
 “What finding.”
 
 She thought about it for long enough that he waited, which he had never once failed to do, in nine years, when she needed a count of forty and got it.
+
 “That a thing you can put a figure on can be argued with,” she said. “Days since. Days at a stage. Every cost in this has a day on it and I can set it against another day and it moves. This has no day on it. There is nothing to set it against.”
 
 She turned her thumb over on the stone without lifting it.
@@ -124,4 +125,5 @@ She waited.
 The lamp gave its eyelash across the stone. The register lay under her hand with five cuts in it and nothing worn in the table.
 
 Eight flights and a stair below her a boy was carrying oil he made and could not buy, and the room was running on firsts without her. Inside her head a man who had wanted one thing since before she was born had just told her that he wanted one more thing and had put a wall around it.
+
 She sat on the floor of a room with no wear in it holding an unmeasured want in both hands and no place in her at all to set it down.

@@ -55,6 +55,7 @@ She stood at the near end of a table with no wear in it with her hands on the re
 “Come down and stand in it,” he said.
 
 She did not move.
+
 “You have not been in that room in one hundred and fifty-nine days,” he said, “and you have not been in it for any reason except that you lived in it, and the bundle is on the table for about a count of four hundred before the hand takes it off and puts it where it goes. Come down.”
 
 She stayed where she was standing.
@@ -136,4 +137,5 @@ She put her hands flat on the stone.
 “It is the third thing on that register and it is the reason the other two are possible and it cost the morning nothing at all. The ceiling pays and the people under it pay and they are told nothing, and this morning I got all of it, free, on the worst day of my life, from the bottom of a stair I refused to walk down.”
 
 She stood there in the light with the lamp steady and the room unworn and her hand on the register.
+
 “I cannot tell you whether that is a mercy,” she said. “That is the finding and I am not going to soften it and I am not going to give it back. I have said the worst thing I have ever said and I am sitting eight flights above a room that has just proved, on its own, for nothing, that everything you have been offered is real.”

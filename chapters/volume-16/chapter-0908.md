@@ -75,6 +75,7 @@ She put her hands flat on the table edge.
 He was quiet for a count of a hundred.
 
 “That is not an argument,” he said. “That is the thinnest thing you have ever said to me and I have had nine years of them.”
+
 “It is not thin,” she said. “It is a fact and it is the only fact in this room that has anything under it. In nineteen years of a voice in my head you have never once asked me for anything, and the reason is not a limit and I found that out on the eighth, it is you.”
 
 She did not raise her voice. There was nothing to raise it with.
@@ -90,6 +91,7 @@ She did not raise her voice. There was nothing to raise it with.
 “I cannot un-know that you said yes to me on the eighth,” she said. “Not today. Not on the thirtieth. Not ever. That was twenty-one days ago and I put it in my own mouth standing at this table and it is in the record in my voice. Whatever I decide between now and the day I die, I will always be a woman who was asked what a man inside her head wanted and was told, and there is no finding in the world that takes that out.”
 
 “That is not a cost.”
+
 “It is the whole of what I have left,” she said, “because the second thing is this. After the seventh of this month there will be no version of this where I did not know.”
 
 She looked at the register under her hand and it did not move.

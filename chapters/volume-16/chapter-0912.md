@@ -85,4 +85,5 @@ He stopped.
 The four minutes were over.
 
 Nothing happened.
+
 The lamp burned on the stone beside her. The register lay under her hands. The table had no wear in it and the place at the far side had nothing worn at all, and eight flights and a stair below her a room was running on firsts, and the walls were up, and the layer was up, and the offer was answered.

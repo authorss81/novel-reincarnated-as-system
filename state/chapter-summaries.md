@@ -871,7 +871,16 @@ files without adding or removing one word of prose: thirty paragraph breaks, bec
 over ninety words and eleven were over the 120-word ceiling, and nothing is now over 120; one duplicate section
 heading at ch 954; and one wrong window in the volume outline's `ascendant` budget.** **A later review withdrew one
 of the thirty breaks, the one at ch 938 that fell inside a single unclosed speech, so the count stands at thirty and
-the over-ninety paragraphs at eight — see `state/continuity.md` under *VOLUME 16 CLOSE — REVIEW REPAIR*.** Full record at
+the over-ninety paragraphs at **seven** — see `state/continuity.md` under *VOLUME 16 CLOSE — REVIEW REPAIR*.** *(Seven,
+not eight: the eighth, ch 901 at 118 words, was a measurement artifact found at the series close file-hygiene repair of
+15 Oct 2026 — two separate paragraphs standing on consecutive non-blank lines, joined by the block count into one. The
+blank line is restored.)* **The chain, reconciled once, because the three figures above were taken on two different
+measuring bases and did not add up on the page: thirty-five over ninety and eleven over 120 was measured on
+blank-line-delimited blocks; withdrawing the ch 938 break put one back, to eight; and the eighth, ch 901 at 118 words,
+was never a paragraph — a 29-word speech standing on the line above an 89-word speech with no blank line between them,
+which the block count joined into one. With the blank line restored, ch 937 and ch 940 were re-read as narrative and the
+rest classified by opening character, and the end state is seven — 908, 937, 938, 940, 941, 945, 970 — being four
+speeches, two narrative and one spoken figure.** Full record at
 `state/continuity.md` under ***VOLUME 16 CLOSE***, and the canon ruling on the hands at `state/open-threads.md` under
 *The Volume 16 close, 15 Oct 2026*.
 

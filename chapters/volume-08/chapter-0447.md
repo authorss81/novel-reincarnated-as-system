@@ -30,7 +30,6 @@ He studied her for four seconds. Then he swept the four coppers back under the c
 
 “The rate stands,” he said. “The book stands. You read a page and the page is on the roll. Nothing about the money changes that.”
 
-
 ## The Morning After
 
 She woke at the first hour with her hand open on the boards beside her, empty, the shape of four coins still behind her eyelids. For a moment in the half-dark she thought she could still feel the cool wood where they lay. Then the moment passed. Her breath ran four counts. Her arm hung open. The building stood lit down the road, lamps coming up one by one in the windows.
@@ -39,14 +38,11 @@ She ate nothing, having nothing. She drank from her skin, sparing, half left. Sh
 
 After that she walks west. The rate board stands behind the counter, two coppers a page, fair and true, and her hand will not close on it in any weather. That is the price of the reading, which she cannot take, and never could.
 
-
-
 ## The Board At Dusk
 
 At dusk she stood before the rate board once more, reading it a fourth time to be sure. Two coppers a page. Second rate by difficulty. Third at twice the first for a hand nobody can read. The paint is fresh where hands have not touched, worn where carriers brush past. Someone repaints it when it fades. Someone wipes the lamps.
 
 Someone ties the folders. The building holds because people hold it, steady, without wasted motion. She respects every hand in it. She cannot join them. Her hand stops in the air over coin for reading, and never will close, in any weather, in any room. She turns away with that plain and carries the next bundle with edges exact.
-
 
 ## The Coppers Under The Counter
 

@@ -42,7 +42,6 @@ He did not say who. She did not ask twice. That was the rule between them and sh
 
 “All right,” she said.
 
-
 ## The Notebook
 
 She has never seen it open. The corners are worn soft, the string tie frayed. It rides under his arm as if grown there. She wonders what sits inside it, what hands he has watched, what twice means when he says he has watched reading-back happen twice.
@@ -52,7 +51,6 @@ The asking came up in her throat at the seventh mile and she held it where it wa
 That is the rule between them and she keeps it the way she keeps every rule that lets a decent man stay decent.
 
 They pass the seventh mile where kerb starts. She puts her hand on a kerb stone in passing, brief, cool through the palm. Four hundred years of maintenance under her fingers. He notices and says nothing. He notices everything and says little. That is his trade, watching, the way hers is reading. For a moment they are two trades walking one road, matched, neither owing the other.
-
 
 ## The Walk Back
 

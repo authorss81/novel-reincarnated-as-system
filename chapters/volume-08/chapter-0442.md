@@ -36,7 +36,6 @@ She crossed. He did not ask her a question. He did not write anything down. He d
 
 She fetched her water at seven miles with a copper and carried it back with the skin slung over her left shoulder and the bar in her right hand held at the light end. She had ten coppers now, less one, which left her nine, and bread for one day.
 
-
 ## The Evening Count
 
 That night she counted her coppers by touch in the dark, fold stitched shut, nine coins cool under her fingers. Bread gone by morning. Water in her skin half gone. Bar strap thinning at the shoulder point. She made a list in her head the way she makes every list: bread at the store five miles west, twine if any seller has it, water at seven miles, floor nowhere, she sleeps at the gate free.
@@ -44,7 +43,6 @@ That night she counted her coppers by touch in the dark, fold stitched shut, nin
 The arithmetic comes out. She can stay eleven days more eating once a day. After that she walks west whether the reading is done or not.
 
 She checked the bar strap by feel, found the thin place, planned the rebind with coat lining. She does such mending with her left hand and her teeth. Her right hangs open, four fingers and a thumb, eight of eleven holds. It holds light ends. It holds string. It does not hold heavy ends. That is the arrangement since the middle-bank method went, and she works inside it.
-
 
 ## The Water Mile
 

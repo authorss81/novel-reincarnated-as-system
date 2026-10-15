@@ -14,7 +14,6 @@ She carried bundles to the third table and back for the empty string. She square
 
 “I have squared worse,” she said.
 
-
 ## The Far End
 
 She walked the length of the room once with bundles, counter to far end, to see it whole. The tables run true, gaps wide enough for carriers. The lamps stand one to a table, flames straight, glass wiped. Readers bend over sheets, brushes moving, lips moving once on hard lines.
@@ -23,14 +22,11 @@ At the far end the man of sixty-one sits with the book under his arm, folders sh
 
 The air is warmest at the far end, a hundred breaths gathered under a low roof. It touches her face like summer. She has not been warm like that since the shed in winter with a ring coming up a finger’s width. She stands in it a moment longer than the carry needs, letting warmth reach the ache in her shoulder, then goes back for the empty string. Work first. Warmth is a thing that comes with work, not instead of it.
 
-
-
 ## The Oil Hour
 
 At the sixth hour the carriers trim every lamp down the room, each with a practised turn. She watched from the counter in, flames dipping and standing straight again, glass wiped, oil filled. The smell of hot oil sits in the warm air. On nine days of road oil is counted by drops. Here it is counted by nights, a hundred lamps a night, forty-two years of nights.
 
 She worked no figures. She let the smell sit in her chest beside the warmth. A good trade tends its lamps. This one does. That is why it tempts, and why it will take her all the same if she lets it. She carries the next bundle steady, edges exact, and does not let wanting touch her hands.
-
 
 ## The Rate Board
 

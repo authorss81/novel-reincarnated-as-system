@@ -60,7 +60,6 @@ She said, “And I am not going to find out that either. I have got no instrumen
 
 She sat down on the floor at the near end and said the two of them again inside her own head, which is the only place she has ever put anything she is not going to say out loud, and both of them stayed where they were.
 
-
 ## The Look Did Not Include Her
 
 And then she worked out the half of it that was worse, and it took her the rest of the sixth and the whole of the seventh and most of the eighth, standing, and at the sixth hour of the eighth of the month beginning 2,324 she put it out loud in a room with a lamp in it.

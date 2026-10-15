@@ -29,6 +29,7 @@ She turned round and walked back to the table and set the register down on it, i
 “Why.”
 
 He was quiet for a count of forty.
+
 “Because I would rather be held to a thing by somebody who has read it twice,” he said, “and you are the only person alive who has read it twice. And because I have never once in six hundred years been able to check my own word against anything.”
 
 She kept her hand flat on the register where it had been all morning.
@@ -74,6 +75,7 @@ She went down off the twelfth.
 The tread past the twelfth was polished. It had been polished on the twenty-fourth of the month beginning two thousand nine hundred and twenty-four by the feet of a man with oil on his hands who had gone up past her without surprise and told her to mind it, and it took her foot exactly the way it had always taken it and she went down.
 
 The lamp went out. She went down about four treads and put her right forearm across the step above and her left hand flat on the stone and lay there.
+
 Her arm went. Not the open one.
 
 The other one, which had carried the lamp nine hundred and four steps up a stair in the dark a month ago and had not been asked to carry anything since, and it shook hard and then went out of her shoulder altogether the way it went when she had been standing too long, and she lay on a cold stair in the dark in a tower with her back against a step and listened to her own breath going nine and then four and then four.

@@ -4670,3 +4670,45 @@ manuscript failed to keep. Every item below was raised on the page and left rais
 
 **No thread in this file is open because a phase ran out of room. Every one of them is open because the book decided it
 should be. The run is over.**
+
+---
+
+## The series close file-hygiene repair, 15 Oct 2026 — one defect closed, one left open on purpose
+
+**Two things changed on the page after `logs/volume-16-close.review.log`, and only one of them is a thread anyone
+should read this file for.**
+
+**CLOSED — thirty-seven paragraphs that had been running together as one.** In forty places across the manuscript, two
+paragraphs stood on consecutive non-blank lines with no blank line between them, and `scripts/build_epub.py` joins
+consecutive non-blank lines into a single `<p>`. **Thirty of the forty were in Volume 16 and every one is a speech
+followed immediately by the speech answering it or by the next narrative paragraph** — ch 901 twice, 902 twice, 903
+twice, 904 twice, 905, 906, 907, 908 twice, 909 four times, 910 twice, 911, 912, 913 three times, 914 twice, 915 three
+times, and ch 995. The other seven are two in ch 111 of Volume 2 and five in ch 745 of Volume 13. **All thirty-seven
+blank lines are restored and not one word moved.** The defect was pre-existing — the same forty positions were joined at
+`80683ed` — and the `next-0015` review pass **removed twenty-seven of the separations rather than creating joins**,
+taking pairs that had been divided by a double blank down to pairs divided by nothing. Full reasoning in
+`state/continuity.md` under *SERIES CLOSE — FILE-HYGIENE REPAIR*.
+
+**This closed one recorded figure and it is worth knowing which.** Volume 16 was recorded as carrying eight paragraphs
+over ninety words, the first being ch 901 at 118 words. **The 118 was a seam: a speech of 29 words standing directly
+above the 89-word speech answering it, joined by the block measurement into one over-long paragraph.** With the blank
+line restored neither exceeds ninety, **Volume 16 is at seven and not eight, ch 901 is not among them, and
+manuscript-wide the figure moves from 239 to 237.** Corrected in all four state files that carried it, old value left
+standing beside the new.
+
+**LEFT OPEN ON PURPOSE — three truncated stubs at `chapters/volume-01/chapter-0057.md`, lines 43, 104 and 145.** At each
+of these a line carries the opening words of a speech and stops without punctuation, and the line beneath it begins
+again with the same words and carries the speech to its end; each stub is a strict prefix of the line below it, so the
+rendered paragraph opens the same phrase twice. **This is the only place in the manuscript where a fix would remove
+text rather than whitespace — twenty words, 7 + 6 + 7, each an exact prefix of the speech beneath it — and no phase in
+this run cut them.** Thirty-seven lost paragraph breaks were restored because each was a blank line the author had put
+in and something had taken out; **these are text nobody can show was ever meant to be there, in a volume closed fifteen
+volumes back, and a repair whose authority is whitespace does not get to start deleting words from closed volumes on its
+own judgement.** It is located precisely here and in `state/continuity.md` so the decision can be made rather than
+inherited. `chapters/volume-01/` is otherwise clean.
+
+**Everything else in this file's register is unchanged by that repair.** `eleven` still measures 63 raw and 61 against a
+line of 40, over by twenty-one and recorded rather than repaired; `nobody` still measures exactly 30 of 30; `ascendant`
+still measures 2, both the offer, at ch 905 and ch 924; `forgiv` is still 1 at ch 1000 and 0 for her brother; the eight
+bracketed lines are still eight with the last at ch 971; and the two openings-contract and calendar findings above stand
+as written. **The run is still over.**

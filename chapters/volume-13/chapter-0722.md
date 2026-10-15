@@ -64,7 +64,6 @@ She said it out loud at the seventh hour of the fifteenth of the month beginning
 
 She said, “And I have got three counts and I can do about four hundred of them in a day and I cannot sleep, and so I have got the day. And that is the only reason I have not lost track, and it is the same reason I have not lost track of anything since I was nine.”
 
-
 ## Nobody Above This Line Loses A Day
 
 And then she worked out the rest of it, standing in the open door at the second hour of the fifteenth, and she worked it out out loud because that is the only way she has ever got a thing to stay still long enough to be looked at.

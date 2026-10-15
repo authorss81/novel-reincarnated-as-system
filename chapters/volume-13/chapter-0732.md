@@ -64,7 +64,6 @@ She said, “And the next forty things come up that stair on the first of the mo
 
 She said, “And I have five days and there is nothing I am going to do with five days, and I am not going to be here on the twenty-eighth.”
 
-
 ## One Day In Every Month
 
 And then she worked out what twenty-nine is, standing, in the ordinary voice, and it is the whole of what she found and it took her a count of a hundred and forty.
@@ -98,7 +97,6 @@ And then she said the reason she was not going to do anything about it, and she 
 She said, “Because the last time I put a true number where a hand could reach it, it went up a stair in a bundle with about forty other boards and it is the only figure about me in this building and it has been out of date since the first of the month beginning 2,294 and there is not one person in this room who could tell me.”
 
 She said, “And I am not putting another one anywhere until I know what the first one is for.”
-
 
 ## Why She Did Not Say It To The Room
 

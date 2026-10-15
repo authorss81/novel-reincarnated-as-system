@@ -12,7 +12,6 @@ She had meant *I hear you*. Xie Changyin had taken it as *yes, she stays*. It we
 
 Two things she has said yes to without meaning to. Two small assents in the ordinary voice, given tired, given polite, given the way people answer when they are not refusing. Neither was a refusal of anything. Neither was an entry. Both closed an option all the same.
 
-
 ## The Stone
 
 She kept the flat stone with its two pebbles off the road where she can see it from the gate. All day while carrying bundles and squaring sheets she glanced at it when passing. Two pebbles. Two yeses. First, the folder that says the room. Second, staying for the book, standing, a person they can call. Neither written with her name. Both true whether she meant them or not.
@@ -20,8 +19,6 @@ She kept the flat stone with its two pebbles off the road where she can see it f
 In the evening she went to the stone and sat before it a while. She could sweep the pebbles off with one finger and the stone would be empty. The folders would still hold. The room would still hold her as staying. Sweeping changes nothing on paper.
 
 It changes only the stone. She left the pebbles where they lie, because lying to a stone is worse than useless. She stood, shouldered the bar, and went to sleep at the gate with the two yeses sitting in her chest, one on top of the other, heavy as two small stones.
-
-
 
 ## The Third Pebble
 
@@ -36,8 +33,6 @@ She said a date then and found eleven days later she cannot call a halt. She sai
 She checked the stone once more before she shouldered the bar. Two pebbles on it, and the third out in the dirt beside it, lying where her finger put it and not going anywhere. She named the two aloud once, quiet, to get the order right. Folder, staying.
 
 Then she went to carry bundles, because carrying is what she has instead of un-saying. The room takes her bundles without comment. The tied folder waits on its shelf. The book holds four hundred and seven. The two yeses hold with them. All true. None removable. That is the day.
-
-
 
 ## The Lamp Smoke
 

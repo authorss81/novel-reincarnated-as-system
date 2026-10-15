@@ -20,7 +20,6 @@ Ning Yan said nothing at all.
 
 She stood in daylight and looked at the woman of sixty-one and kept her mouth shut. Not from refusal. Not from anger. Not from strength. From knowledge that anything she says in that road will be taken down, whether in ink or in memory, and carried somewhere, and put on a roll or in a folder or in a room’s understanding of what she is. She can still say no. She just cannot make the no take. So she says nothing.
 
-
 ## The Minute
 
 Xie Changyin waited. She is a woman who has waited forty-two years at tables and eleven miles on roads. She waited a full minute.
@@ -41,7 +40,6 @@ Xie Changyin nodded once, the way she nods at hands. She took the folded sheet o
 
 Ning Yan stood in the road with the bar over her shoulder and watched her go. Her heart beat hard once and settled. She had wanted to answer for two years because answering was the only thing she had instead of strength. Now she had strength and she had used it once in a room with a lamp in it and it had gone on a roll, and she was done answering for a while.
 
-
 ## The Gate Afterwards
 
 She went to the gate and sat off to the side where people who are waiting stand. The man sat on his stool with his cup in his hand. He had watched her stand in daylight and say nothing, and he asked nothing about it. That is his rule and his decision both: the chain does not tell people which, and he does not call after them either way. He lives it. She leans on it without saying so.
@@ -49,8 +47,6 @@ She went to the gate and sat off to the side where people who are waiting stand.
 She cleaned her skin and stoppered it. She checked the bar strap, thinning, planned the rebind. She counted nine coppers by touch, fold stitched shut. The sun went down. The building lit window by window, lamps one by one, warm in the dusk. A hundred readers bent over sheets. Four hundred and seven names in a book under a man’s arm. One reading there because of her mouth.
 
 Two yeses there because of her politeness. Nothing said today because she held her mouth shut. The arithmetic of the month sits plain: eleven days of bread if she eats once a day, then west. She holds it all without flinching. That is what saying nothing bought her: one clear evening with everything counted true.
-
-
 
 ## The Last Lamp
 

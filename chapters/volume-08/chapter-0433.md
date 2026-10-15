@@ -2,7 +2,7 @@
 
 The nineteenth and the twentieth of a month passed the way most days in that shed pass, which is at the sixth hour and at the second hour and on nothing else.
 
-She went down to the rail at the sixth hour and read the board and could take none of it. She dug the run at the gate and got a copper. 
+She went down to the rail at the sixth hour and read the board and could take none of it. She dug the run at the gate and got a copper.
 
 She walked four miles up a made road to a hundred-foot room with nine men in it and read a floor sheet out loud, and when she got to the line about a bell that had already gone she put her left hand flat on the bench and nothing came up, and the man of fifty-one said nothing about it and two of the nine said nothing about it.
 

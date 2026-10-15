@@ -71,6 +71,7 @@ She put her hands flat on the stone.
 “I was in a hurry for two hundred and thirty-three days and there was not one person in the world who knew, and that is the second worst thing about the seventh of the month beginning two thousand seven hundred and forty-four.”
 
 She got herself through the day on the register.
+
 That was the whole of what she had for it and she took it the way she took everything, which was fully and without deciding in advance. Seventh cut, eighth, ninth, tenth.
 
 A breadth at a time with three fingers and a thumb, standing at the near end of a table with no wear in it, saying each line out loud before she let it be a line anywhere, and the lines were what they had been and there was nothing new in any of them and she read all of it twice.
@@ -104,12 +105,15 @@ She sat on the stone and let that go on past her without picking it up, because 
 “Yes,” he said. “I want you to be angry. I want it more than I wanted four minutes ago.”
 
 The thirtieth went past at the top of a tower.
+
 She did not sleep and he did not go quiet and neither of them said anything that was going into the traffic, so the day went by the way days go by in a room at the top of a tower that has a stair which does not stop: nothing done, nothing written, nothing moved. She read the register by thumb for three hours and got nothing she had not already had. She ate nothing because she was not hungry.
 
 She put her right hand flat on the stone and held it there while it shook and it shook for a count of a hundred and then it stopped.
+
 Her mouth was empty. The lamp stood on the stone beside her with a boy’s oil in it. The register lay on the table with the offer standing open at the top of it until answered or withdrawn. The man inside her head had said nothing at the ninth hour yesterday and would say nothing today.
 
 She had said the worst sentence of her life standing in the ordinary voice in front of the thing that made him, and there was no figure for it anywhere in the world, because it was not a cost.
 
 It was the first thing she had ever handed somebody that she could not carry, and she had handed it to a man who was going to spend it, and the whole of the day was the sitting with that.
+
 Tomorrow was the first of a month and a bundle would come up nine hundred and four steps whether there was anybody standing under it or not.

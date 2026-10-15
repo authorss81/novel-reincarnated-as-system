@@ -60,7 +60,6 @@ And the thirty minutes that took for the bundle was three times what the forty b
 
 “There are three times as many leaves in that bundle as there were boards on that table, and the hand went along all of them at the same rate, and the whole of it took forty minutes, and that is the whole of the work of this room for a month.”
 
-
 ## Four To The Minute
 
 The one at the table went along them at four to a minute and did not stop.

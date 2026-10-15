@@ -30,7 +30,6 @@ She said, “And nothing happened. The hands stayed where they were and the head
 
 She stood there in the dark for a count of a hundred afterwards with her hands on it, and she did not put her shoulder into it again.
 
-
 ## A Hand On It At Last
 
 On the twenty-third she went to it at the fifth hour and put her left hand flat on the top of the table with the fingers spread and got her weight on the arm that is closed four days in five, which was not this day, and she had it.
@@ -62,7 +61,6 @@ She said, “I am on the top of a table I am not allowed to be on and I can see 
 She said, “I can see the grain and the marks, forty of them, in one span, which means forty things have gone along that table and come off it and gone somewhere, and I have not seen one of them leave this room.”
 
 She said, “And I can see the far side of it now and the far side is bare, and I have already said out loud that there is something on the far side of that table, and I am not going to say one word more about it, and I would like to be able to take that back and I cannot.”
-
 
 ## Along It
 

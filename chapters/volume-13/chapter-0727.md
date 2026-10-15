@@ -52,7 +52,6 @@ She could get them under it and she did not pull it, and she said out loud why, 
 
 “Because the first time a person touches a bundle in a room where a hand copies figures exactly, that is a fact about the person and not about the bundle, and I am not going to be that fact. Not yet.”
 
-
 ## The Same On Every One
 
 And on the third of the month beginning 2,324 she got to the eleventh board and she found the mark, and on the twelfth, and on the thirteenth, and it was the same on all three.

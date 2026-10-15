@@ -7,10 +7,15 @@ She went back to the readings of that forearm on the fourteenth of the month beg
 She had six readings of that forearm and she took the sixth on the fourteenth of that month at the seventh hour and it is the only set of six she has ever taken of anything.
 
 The fourteenth of the month beginning two thousand three hundred and twenty-four, at the seventh hour.
+
 The seventeenth of the same month, at the seventh hour.
+
 The twentieth of the same month, at the seventh hour.
+
 The twenty-eighth of the same month, at the second hour, before the hand went up into the cage.
+
 The second of the month beginning two thousand three hundred and fifty-four, at the second hour, before the hand went up into the cage.
+
 The fourteenth of this month, at the seventh hour, which is after a figure I said out loud in this room went onto a board.
 
 She said, standing, in daylight, in the ordinary voice, at the near end of that table, holding her own left hand up at the end of that forearm the way she has held it up six times:
