@@ -13,7 +13,9 @@ to be quoted as the current position and the live block at the foot supersedes e
 
 ## How to read this file
 
-**THE LIVE POSITION IS AT THE FOOT OF THIS FILE: `## Volume 16 planned — outline/volume-16.md exists and what the plan fixed`, and the last chapter written anywhere in this run is ch 900.** Volume 15, *The Scribe*, ch 841–900, **is closed on the page: sixty chapters, days 2,781–2,960, 111,007 words of body prose on method B, average 1,850, three bracketed layer lines at ch 850, 866 and 876, irreversible steps at ch 855 · 866 · 885 · 894.** Volume 16, *The Last Announcement*, ch 901–1000, **is planned** in `outline/volume-16.md` with **all seven** batch cards in `outline/batches/`. **The next phase is `workspace/volume-16-batch-0001/PROMPT.md`, Volume 16 Batch 0001, ch 901–915, days 2,961–2,999, pressure *the answer*, and it is the first batch of the last volume of the book.** Do not edit any of the run's controller files.
+**THE LIVE POSITION IS AT THE FOOT OF THIS FILE: `## Who is where at end of chapter 915`, and the last chapter written anywhere in this run is ch 915.** Volume 15, *The Scribe*, ch 841–900, **is closed on the page: sixty chapters, days 2,781–2,960, 111,007 words of body prose on method B, average 1,850, three bracketed layer lines at ch 850, 866 and 876, irreversible steps at ch 855 · 866 · 885 · 894.** Volume 16, *The Last Announcement*, ch 901–1000, **is open, with Batch 0001 (ch 901–915) on the page** in `outline/volume-16.md` with **all seven** batch cards in `outline/batches/`. **The next phase is `workspace/volume-16-batch-0002/PROMPT.md`, Volume 16 Batch 0002, ch 916–930, days 3,002–3,040, pressure *the tax*.** Do not edit any of the run's controller files.
+
+*Corrected in place by the Volume 16 Batch 0001 drafting phase: the line above named ch 900 as the last chapter written and `workspace/volume-16-batch-0001/PROMPT.md` as the next phase, both true when written. The pointer is now the foot block.*
 
 *The paragraph above was corrected in place 15 Oct 2026 at the Volume 16 planning review, which found this line
 still naming `## Volume 15 planned` as the live block and `workspace/volume-15-batch-0001/PROMPT.md` as the next
@@ -1629,10 +1631,34 @@ seven hundred and forty-nine — corrected there.
 **All seven cards' day tables were checked against the outline's hundred-row table and match day for day, and all 100
 printed month-day ordinals re-derive under `((day − 134) mod 30) + 1` with zero mismatches.**
 
-### Position unchanged
+### Position changed by the Batch 0001 drafting phase
 
-**Nothing in the block for the end of chapter 900 moved, and no chapter of Volume 16 exists.** She is still at the
-peak of Immortal Vessel, nineteen, three fingers and a thumb, right arm open six hundred and sixty-six days, seven of
-eleven holds, 1,401 days lighter at `D − 1,559`, at the near end of the making-place table with five mercies on a
-register and a lamp nearly out on the stone beside her, and a man at the edge of a decision inside her head who did
-not answer a question she asked standing yesterday. **The next phase is `workspace/volume-16-batch-0001/PROMPT.md`.**
+**The block above for the end of chapter 900 stands as history; fifteen chapters of Volume 16 now exist.**
+`chapters/volume-16/` holds ch 901–915, days 2,961–2,999. The live position is `## Who is where at end of chapter 915`
+at the foot of this file. **The next phase is `workspace/volume-16-batch-0002/PROMPT.md`.**
+
+## Who is where at end of chapter 915 — VOLUME 16 BATCH 0001 WRITTEN, ch 901–915
+
+**A cold reader starts here. This block supersedes *Who is where at end of chapter 900* above it wherever the two differ.** Position first, measurements second. Recorded by the Batch 0001 drafting phase, which also repaired twenty-nine date and figure faults on the page (full list in `state/continuity.md` under *VOLUME 16 BATCH 0001*). **Volume 16 stands at fifteen chapters of one hundred: Batch 0001 (ch 901–915, days 2,961–2,999, 27,343 words of body prose on method B, average 1,823) is on the page.** Per chapter 901 1,855 · 902 1,842 · 903 1,916 · 904 1,886 · 905 1,844 · 906 2,033 · 907 1,942 · 908 2,030 · 909 1,883 · 910 1,948 · 911 1,923 · 912 1,082 · 913 1,695 · 914 1,824 · 915 1,640. **Two bracketed layer lines in fifteen, at ch 904 and ch 910, and the volume's budget of eight has six left.** Whole-word `ascendant` 1 (ch 905, inside the offer's reading); `scribe` 2 (ch 903, 906; none before ch 903, never a speaker, never a motive, never a term); `court`, `ledger`, `choir`, `forgiv`, `thank`, `the year`, `twenty-two days`, `tax` all 0; `nobody` 0, `eleven` 0, against the volume lines of thirty and forty. Fifteen titles unique manuscript-wide against 915 standing headings. Longest paragraph in the batch 89 words. **No `.done` marker written, no ch 916 or later written, no `workspace/volume-16-*` directory created beyond `workspace/volume-16-batch-0002/PROMPT.md` — the next drafting phase follows under the controller.**
+
+Day 2,999, the sixteenth of the month beginning two thousand nine hundred and eighty-four, at about the ninth hour. Her own room eight flights and a stair below the making-place, which she left on day 2,996 and does not come back to in this volume. A table with wear in it, boards face up, a strip of pale wood face up under it, a bundle corded twice and not knotted, a bar nine feet nine against the left-hand wall dated nowhere, a cage lamp out on a shelf, and the second place kept four hundred years and empty. A lamp on the stone floor. A man inside her head who has said yes in the channel where the thing that made him reads, and been addressed, remembered, named otherwise and given work that matters, and nothing has begun. A woman standing at the near end of her own table who cannot be met where she is expected and is not leaving, asked one question no one has ever asked her: what she wants.
+
+### Her
+
+**At the peak of Immortal Vessel, shut**, no tenth, no Last Ascension, no new cuts, no number. Nineteen years old. Three fingers and a thumb. **Right arm open at the elbow seven hundred and five days** and not going to close. Seven of eleven holds. Small open place low behind her fourth rib, thumbnail size, unhealed. **One thousand four hundred and forty days gone at `D − 1,559` at day 2,999 by the series, not one coming back** (last said 1,434 at day 2,993; none said in ch 912, the four minutes, and that absence unchosen). Not hungry. The register left on the making-place table, read whole twice over; the lamp taken down.
+
+What this batch added to her, in her own mouth: that his one line has no figure and that is why it is true (901–902) · the sixth cut, the rule the whole thing runs on, read standing before any line (903) · the four lines entered in her voice, entered not answered, and the lamp gone (904) · the first new term, a Ward of her own, heard as about her, answered not today (905) · his part read to his face, the naming refused under the sixth cut (906) · that he shows her on purpose so she can stop him, and oil on the stair (907) · **that she does not stop him, because it is not hers to make, said standing in the channel (908, midpoint)** · that deciding once without asking is a precedent she cannot prove right (909) · that the room runs without her on the first and nothing changes (910) · three days to refuse him, and the count refused inside his four minutes (911) · **four minutes watched in silence, and the worst thing she has ever done (912, climax, irreversible)** · three days after, nothing begun, and the carrying is hers (913) · **out of the making-place with the lamp, down nine hundred and four steps, a fall on the tread past the twelfth, and no return (914)** · in the room she cannot be met in, at the ninth hour, saying she is here (915).
+
+### Him
+
+**Yuan.** Announcement, heard, answered at last. No figure of what is left of him on any page. **His ch 812 yes stands, she does not know, and nothing in this batch tells her.** No frame scene, no bracket in his voice, anywhere in ch 901–915.
+
+**He speaks in all fifteen chapters, and carries exchanges in eleven of them.** What Batch 0001 puts on the page, a different want every chapter: he wants it, since nineteen, no figure (901) · wants something from her and will not name it (902) · wants her to read all of it, in her voice, with him in the room (903) · entered not answered, and what being written on felt like (904) · wants her to want it, in daylight, for herself (905) · wants her to name him, and is refused under the rule (906) · **shows her on purpose so she can stop him, because he has no door (907)** · wants her to stop him, and is not stopped (908) · wants her angry, and is not given it (909) · wants her down in the room, and is refused; answers straight two days running (910) · **picks the seventh, asks four minutes of silence, is counted nothing (911)** · **says yes in the channel; is addressed, remembered, named otherwise, given work; is happy, and she watches (912)** · same as at the second hour on the seventh, nothing begun (913) · wants her to hold what he said yes to, and is refused the stone (914) · **asks her what she wants, first time by anybody (915).**
+
+### The offer
+
+Read whole by her standing, in her own voice, before any line: five mercies, no conditions · the sixth cut, the rule · four lines (open till answered or withdrawn; answered in the channel out loud standing; a yes there cannot be un-said; one line with no name) · **she ascends properly, an Ascendant with a Ward of her own** · **he is archived, addressed, remembered, named not Sheng, given work that matters** · **walls, layer and bounded mercy stay**. Every term real, none a lie, sincerity unadjudicated. *Work that matters* named at ch 906 and never defined. The register sits on the making-place table; she carries no stone down.
+
+### Standing relationships at the close
+
+Him, answered — addressed and named otherwise, work begun nowhere, still heard. **Lu An** — on the page once (ch 907), oil on his hands, told nothing, asked nothing. The room below runs on firsts; the next first is thirty days off. His ch 812 yes stands. The count stands, never re-said. The four months unnamed. The second place unsat in.

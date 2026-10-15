@@ -642,3 +642,25 @@ unit between anything above the line and anything below it.
 
 **Cards written: 0001, 0002, 0003. Cards 0004–0007 are outlined in the volume plan and are owed to a later
 planning phase.**
+
+## VOLUME 16 BATCH 0001 — ch 901–915, *the answer*, days 2,961–2,999. WRITTEN AND REPAIRED ON THE PAGE.
+
+**Fifteen chapters, 27,343 words of body prose on method B, average 1,823.** Per chapter 901 1,855 · 902 1,842 · 903 1,916 · 904 1,886 · 905 1,844 · 906 2,033 · 907 1,942 · 908 2,030 · 909 1,883 · 910 1,948 · 911 1,923 · 912 1,082 · 913 1,695 · 914 1,824 · 915 1,640. Two bracketed layer lines (904, 910). Midpoint ch 908 (she does not stop him) · climax and irreversible step ch 912 (four minutes, yes in the channel). He speaks in all fifteen. Twenty-nine date/figure faults repaired; no beat, day, title, bracket, midpoint or climax moved. Full record in `state/continuity.md` under *VOLUME 16 BATCH 0001*.
+
+- **ch 901, day 2,961, the eighth, *Since He Was Nineteen*.** The morning after the unanswered question. He answers in one line with no figure: he wants it, since nineteen. She cannot check it and takes it for that reason. Discovery.
+- **ch 902, day 2,964, the eleventh, *Nowhere to Put It*.** She makes him say it a third time and asks for a figure; there is none. He wants something from her and will not name it. Emotional consequence.
+- **ch 903, day 2,967, the fourteenth, *The Cuts Go On*.** Past the fifth mercy by hand: the sixth cut, the rule — said first standing in the voice of the person it is about. He wants her to read all of it with him in the room. Discovery.
+- **ch 904, day 2,970, the seventeenth, *Entered in Stone*.** Four lines past the sixth, read standing into the record: open till answered, answered in the channel, un-sayable once said. Entered, not answered; the lamp goes. Cost. **Bracket one.**
+- **ch 905, day 2,973, the twentieth, *A Ward of Her Own*.** First new term read in the dark: carried up whole, made Ascendant, a Ward of her own. She says yes to part of herself before finishing; answers not today. Decision.
+- **ch 906, day 2,976, the twenty-third, *His Part of It*.** His part read to his face: archived, addressed, remembered, named not Sheng, given work that matters. He asks her to name him; she refuses under the sixth cut. Emotional consequence.
+- **ch 907, day 2,979, the twenty-sixth, *The Door He Cannot Close*.** He shows her on purpose so she can stop him: no door since taking Announcement, three failed attempts. The boy up with oil, told nothing. Decision.
+- **ch 908, day 2,982, the twenty-ninth, *It Is Not Mine to Make*. MIDPOINT.** She does not stop him, standing in the channel: stopping the unasked is deciding for him, and she will not do the last one. Reversal.
+- **ch 909, day 2,983, the thirtieth, *The Precedent*.** She sits with deciding once without asking and never proving it right. Reads the whole offer through; writes nothing. Cost.
+- **ch 910, day 2,984, the first of 2,984, *The Room Runs On*.** The bundle comes up without her; forty boards, cloth, cord twice, the hand. She will not go down. Cost. **Bracket two.**
+- **ch 911, day 2,987, the fourth, *The Seventh*.** After two days quiet he picks the seventh and asks four minutes of her silence; she gives them and refuses to count. Earned hook.
+- **ch 912, day 2,990, the seventh, *Four Minutes*. CLIMAX, IRREVERSIBLE.** Four minutes, every second: yes in the channel, addressed, remembered, named otherwise, work given; she watches him happy and says nothing. Irreversible.
+- **ch 913, day 2,993, the tenth, *Nothing Has Happened*.** Three days after, nothing begun, stone unmoved. He is the same; she carries his happiness with nowhere to set it. Cost.
+- **ch 914, day 2,996, the thirteenth, *Nothing Worn*.** She leaves the register, takes the lamp, goes down nine hundred and four steps, falls past the twelfth, reaches her own room, and will not come back up. Decision.
+- **ch 915, day 2,999, the sixteenth, *What She Wants*.** At the ninth hour in the room she cannot be met in, saying she is here: he asks what she wants, first time by anybody, and she has no answer. Earned hook.
+
+**Batch 0001 closes with the yes said and unbegun, her asked and unanswered, and the making-place left. The next phase is `workspace/volume-16-batch-0002/PROMPT.md`, ch 916–930, days 3,002–3,040, pressure *the tax*.**

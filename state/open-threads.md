@@ -4269,3 +4269,30 @@ learns`.
 when the ceiling comes down* and the plan's ch 985, day 3,173 — one day after the ninth day.** `outline/ending.md` is
 unrewritable, **so this is now a recorded decision in `outline/volume-16.md`'s fall section rather than a question,
 and a later phase that wants him inside the nine days has to record that it is moving ch 985.**
+
+## VOLUME 16 BATCH 0001 CLOSED at ch 915 — *the answer* is his, and it is yes
+
+**Fifteen chapters, days 2,961–2,999, 27,343 words of body prose on method B, average 1,823, two bracketed layer lines (ch 904, 910), midpoint ch 908, climax and irreversible step ch 912. Recorded by the drafting phase, which repaired twenty-nine date and figure faults on the page (full list in `state/continuity.md` under *VOLUME 16 BATCH 0001*). The next phase is `workspace/volume-16-batch-0002/PROMPT.md`, ch 916–930, days 3,002–3,040, pressure *the tax*.**
+
+| Thread | State at ch 900 | State at ch 915 | Owner after Batch 0001 |
+| --- | --- | --- | --- |
+| **What he wants** | asked, unanswered, kept | **answered at ch 901 in one line with no figure: he wants it, since nineteen** | closed as answered. Batch 0002 owns what it costs |
+| **The register** | five mercies, no conditions | **read whole: sixth cut (the rule), four lines, three new terms — her Ascendant Ward, his archiving/naming/work, walls and layer staying** | closed as read. Never re-read |
+| **Stopping him** | hers to do, twice done | **not done at ch 908, said standing in the channel: not hers to make** | closed as decided. Batch 0002 owns the four minutes' aftermath |
+| **The four minutes** | in front of him | **spent at ch 912: yes in the channel, addressed, remembered, named otherwise, given work; nothing begun** | closed as crossed. Cannot be un-said |
+| **The making-place** | occupied | **left at ch 914 with the lamp; not returned to in this volume** | closed as left |
+| **Her question** | never asked of her by anyone | **asked at ch 915 by him: what does she want; unanswered** | open. She carries it into Batch 0002 |
+| **The boy** | bound, untold, below | **on the page once (ch 907), oil on his hands, still told nothing** | carried. Still untold |
+| **The firsts** | next thirty days off | **2,984 run without her (ch 910); nothing changed** | open. Next first thirty days off |
+| **His ch 812 yes** | stands, untold | **stands, untold** | stands |
+| **The count** | stands | **stands; never re-said** | stands |
+| ***Work that matters*** | unnamed | **named (ch 906), never defined** | open. Batch 0002 defines it, and it is his discovery |
+| **The tax** | unspent, unnamed | **unnamed; the word never appears in ch 901–915** | open. Batch 0002's whole work |
+
+### What Batch 0001 did to the batch, in one paragraph
+
+**He answered in one line with no figure on it, she checked it by its lack of anywhere to put it, she found the rule past the fifth mercy and entered four lines in her own voice, she read his part to his face and refused to name him, he showed her on purpose so she could stop him, she did not stop him standing in the channel, she sat with the precedent she cannot prove right, the room ran without her on the first, he picked the seventh and asked four minutes, he said yes in four minutes and was happy and she watched, nothing began for three days, she carried the lamp down nine hundred and four steps and fell past the twelfth and did not come back, and he asked her what she wants.**
+
+### Things Batch 0002 inherits, and what may not be re-opened
+
+Inherited as fact: the yes cannot be un-said and has not begun · she is in the room she cannot be met in and is not leaving · the offer is read, real in every term, sincerity unadjudicated · *work that matters* undefined · the next first thirty days off · two brackets spent, six left · his ch 812 yes untold · the count un-re-said · the four months unnamed · the second place unsat. May not be re-opened: whether she was right at ch 908 (she was not right or wrong; she did it) · whether the offer is a trap (it is not) · what the work is (Batch 0002's discovery, his mouth) · the tax before ch 923 (his mouth, his chapter).
