@@ -4075,3 +4075,35 @@ nine years old with a lamp in her left hand and did not come back down.**
 2. **That he is forgiven, thanked, or withdrawn from.** None of those happened; she stays, unwanting back what she said.
 3. **That the tax, the Anchor, the walls, or the bargain have been stated.** None is on the page; Batch 0003 opens all of that.
 4. **That hearing his half is free, or that the room needs her.** The hearing is paid for and cannot be un-paid; the room runs on firsts with nobody in it.
+
+---
+
+## VOLUME 15 BATCH 0003 CLOSED at ch 885 — the threads this batch moved, opened, or closed
+
+**Fifteen chapters, days 2,871–2,915, 23,979 words, one bracketed line at ch 876, midpoint ch 878, climax and irreversible step at ch 885. Recorded 15 Oct 2026 by the drafting phase.**
+
+| Thread | State at ch 870 | State at ch 885 | Owner in Batch 0004 |
+| --- | --- | --- | --- |
+| **The tax** | unworked, head never checked | **worked out of her own arithmetic across eleven chapters: dateless head, first night, thinning at the rate of stronger; answered correctly once, unexplaining (ch 876)** | closed as found. The bargain's price belongs to Batch 0004 |
+| **The Anchor** | unnamed, unhinted | **NAMED standing at ch 878: the gathered will of every soul dead believing ascent; true and not the whole** | closed as named. Volume 16 may pay for it, never re-argue it |
+| **Who pays** | assumed one person six volumes | **a great many, none told (ch 880); his share the small part (ch 881), said to him (ch 882), no defense** | closed as placed. Wrong thief, and he is not right (ch 883) |
+| **Merit** | settled at ch 839, balancing ch 779 | **settled once at ch 884, off the ground the building stands on, never on a death, no figure, not for the page** | closed. No further settling in Volume 15 |
+| **The count** | underived, unsaid | **SAID OUT LOUD standing at the ninth hour where the ceiling-keeper reads (ch 885): six hundred and forty thousand; in the record, ungettable out** | stands. Whether a number can be argued with is Volume 16's |
+| **The firsts** | 2,834 named-and-counted; 2,864 heard through him | **2,894 heard through him at ch 879 with no person in the room; she does not go down** | open. 2,924 and 2,954 belong to Batch 0004 |
+| **The lamp** | burning on the third landing, tended, never higher | **unchanged; she climbs in the dark; no oil figure anywhere** | open. No oil figure may ever appear |
+| **The stair above** | twelfth stood on; tenth doorless; sentences above eleventh | **unchanged; worked on daily; no step count, height, top, or room count ever** | open. The top and the making-place belong to Batch 0004 |
+| **His yes at ch 812** | stands, she does not know | **stands, she does not know, untouched and untold** | stands. Volume 15 does not tell her |
+| **The boy** | off the page all fifteen; unnamed, unbound | **off the page all fifteen; unnamed, unbound** | Batch 0004 names him at ch 890 and binds him at ch 894 |
+| **The room below** | runs without her on firsts | **unchanged; runs without her; she does not go back down** | untouched. She does not return in this volume |
+| **Finding day / wear gap / hands** | open, carried | **carried, none spoken, none resolved** | still open. No card settles them |
+
+### What Batch 0003 did to the batch, in one paragraph
+
+**She worked the tax out of her own arithmetic across eleven mornings, named four months silent fifteen volumes, found herself thinning at the rate of stronger, worked walking, got one figure answered correctly with no reason, found the ceiling a mercy and also a ceiling, named the Anchor standing, missed a first above the room that ran without her, found a great many paying none told, measured his share small and said it to him without defense, placed the anger at the wrong thief without making him right, sat two days until merit settled off the ground, and said six hundred and forty thousand dead believing at the ninth hour where it can be read.**
+
+### Four things Batch 0004 must not inherit as clean prose
+
+1. **That the Scribe is forgiven or condemned.** Neither. It is right about the Anchor and the book does not adjudicate.
+2. **That she has forgiven Yuan.** She has not. Small does not make right, and this was not forgiveness's turn.
+3. **That his share of the tax has been set to nothing.** It is small, not nothing. Both halves stand.
+4. **That the bargain has been stated, or its terms, or its price.** None is on the page. The count at ch 885 is a number, not a term. That the peak has been taken or mentioned. That the boy's name is known. That the light has a figure for it.

@@ -1341,3 +1341,49 @@ Twelfth landing reached and stood on, sentences heard through stone from the ele
 ### The next phase
 
 **`workspace/volume-15-batch-0003/PROMPT.md` — Volume 15 Batch 0003, ch 871–885, days 2,871–2,915, pressure *the ceiling*, midpoint ch 878 and the irreversible step at ch 885.** This phase created exactly one `workspace/volume-15-*` directory beyond its own and **wrote no `.done` marker, which `PHASE_SYSTEM.md` gives to the controller alone.**
+
+## Who is where at end of chapter 885 — VOLUME 15 BATCH 0003 WRITTEN, ch 871–885
+
+**A cold reader starts here. This block supersedes *Who is where at end of chapter 870* above it wherever the two differ.** Recorded 15 Oct 2026 by the Volume 15 Batch 0003 drafting phase. **Fifteen chapters, days 2,871–2,915, 23,979 words of body prose on method B, average 1,599. One bracketed layer line in fifteen, at ch 876. `scribe` three times in fifteen (twice at ch 876, once at ch 878). No stage, no tenth, no binding, no boy name, no frame scene. Midpoint ch 878, climax and irreversible step at ch 885.** Volume 14 remains closed on the page at ch 781–840, 121,530 words. Volume 15 stands at forty-five chapters of sixty.
+
+Day 2,915, the twenty-second of the month beginning two thousand eight hundred and ninety-four. A building with nine landings above her room and a stair out of the ninth that does not stop, and sentences starting above the eleventh, and a twelfth landing stood on. **A lamp burning on the stone of the third landing, left there at ch 856 and tended since, never carried higher.** A woman beside it who has said the count out loud where the thing that keeps the ceiling can read it, and cannot take it back.
+
+### Her
+
+**IMMORTAL VESSEL 9** throughout this batch and not touched. Nineteen years old. Three fingers and a thumb. **Right arm open at the elbow six hundred and twenty-one days** and not going to close. Short breath four counts everywhere, seven on a rise, nine lying still. Seven of eleven holds. Small open place low behind the fourth rib. **One thousand three hundred and fifty-six of the days gone at `D − 1,559`, not one coming back.** Not hungry. Nib and ink against her fourth rib; a book of eight leaves with **four blank leaves still blank, unwritten since day 2,750.**
+
+**Twenty costs carried whole and none re-derived, and none re-named.**
+
+**What this batch added to her, in her own mouth:** that ten days, twenty-one hours and thirty-six minutes at the head of her own column does not cover the days gone, and the price does not date, and she knew that and had never used it · that four months of her own cultivation went in one night in the third chapter of her keeping, said out loud standing after fifteen volumes silent · that she grows thinner at the rate she grows stronger, and the taking eats foundation and leaves strength · that she worked out loud walking up a stair, which she had never done · that the keeping answers a figure correctly and explains nothing · that the ceiling is a mercy and is also a ceiling, four hundred years old · **that the walls protect the gathered will of every soul that ever died believing it could ascend, and unbounded ascent drains it — the Anchor, named standing at ch 878, true and not the whole** · that the room runs on firsts with no person in it, and she was above it for the first of 2,894 · that a great many pay and none of them was told · that his share is the small part and the smallness does not help · that she said the small share to him and he did not defend himself · that she has been angry at the wrong thief and it does not make him right · that merit settled off the ground and went off, not for the page · **and that six hundred and forty thousand are dead believing they could ascend, said standing at the ninth hour where it can be read, first in her own voice, ungettable back.**
+
+### Him
+
+**Yuan Sheng.** Announcement since ch 866, heard, un-untakable. Every sentence he speaks is present tense. No figure of what is left of him on any page. **His yes at ch 812 stands, she does not know, and nothing in this batch tells her.** He did not defend himself at ch 882. No frame scene anywhere in ch 871–885.
+
+### The boy of sixteen
+
+Unnamed, unsent, unentered, unbound. **Not on the page in ch 871–885.** He is eight flights below her at the close, in the record since ch 807 without knowing there is one. He is not named and is not bound in this batch.
+
+### Han Liang, the bearer
+
+Named at ch 857 and priced at ch 858. On the page in this batch only by report of his carrying at ch 877–879. Never a function again.
+
+### What is above the ninth, and what is on the page
+
+Twelfth landing worked on daily and stood on; tenth landing doorless; sentences above the eleventh going through her to him. **No step count for the stair above the room, no height, no top, no number of rooms.** The making-place not yet reached. **She does not go back down into her room in this batch and the room is as ch 855 left it.**
+
+### The first at 2,894
+
+**2,894 is ch 879**: heard by her lying on the twelfth landing through his half, the room running with no person in it. **No bundle on any other day. No chapter moves to make a first land on itself.**
+
+### Standing relationships at the close
+
+No forgiving, no thanking, no withdrawing — none happened; she stays. **Him, heard now** — measured small, said to, undefended, unwithdrawn from. **Han Liang** — named, priced, carried. **The boy** — unnamed, unbound, off the page. **Ning Wu** — not spent.
+
+### Volume 15 Batch 0003, measured
+
+**Fifteen chapters, ch 871–885, days 2,871 to 2,915, 23,979 words of body prose on method B** (`grep -v '^#' <file> | wc -w`, per file and summed), **average 1,599.** Per chapter: 871 1,954 · 872 1,735 · 873 1,655 · 874 1,645 · 875 1,662 · 876 1,626 · 877 1,536 · 878 1,537 · 879 1,573 · 880 1,534 · 881 1,535 · 882 1,479 · 883 1,445 · 884 1,488 · 885 1,575. None under the 1,300 floor and none above the 2,700 guide. **One bracketed layer line in fifteen, at ch 876** (`[The figure stands as said.]`, one sentence, plain report grammar, the plainest thing in the chapter), which spends Batch 0003's one of Volume 15's three. **No paragraph over 120 words.** No bold, no italic, no blockquote, no table, no code fence, no horizontal rule, no straight quote, no em dash, no Arabic numeral of three or more digits, no named weekday, no named month, no named week. `nobody` **3** across fifteen against the volume line of thirty · `eleven` **6** against forty · `scribe` **3** (twice ch 876, once ch 878) · whole-word `court`, `ledger`, `ascendant`, `choir`, `forgiv`, `the year`, `thank`, `twenty-two days` **all 0, re-measured on the page** (`scribe` substring inside one `describes` and a `courteous` reworded out; one `forgiveness` reworded out). Fifteen titles, zero collisions against all eight hundred and eighty-five standing headings manuscript-wide, and no `##` section heading duplicated inside the volume (three collisions found at drafting — *Said Standing*, *Down With It Said*, *The Lamp Still Burning* — and all three re-seated with unique names). Every chapter ordinal re-derived under `((day − 134) mod 30) + 1`; every figure under `D − 2,732`, `D − 2,301`, `D − 2,534`, `D − 2,294`, `D − 1,559`, `D − 2,344`. No chapter speaks of anything as already on her table unarrived; the 2,894 first lands only at ch 879. His every sentence present tense. The count at ch 885 is a number, not a term; no bargain term, price, or clause stated anywhere in the batch.
+
+### The next phase
+
+**`workspace/volume-15-batch-0004/PROMPT.md` — Volume 15 Batch 0004, ch 886–900, days 2,916–2,960, pressure *the bargain*, midpoint ch 891 and the irreversible step at ch 894.** This phase created exactly one `workspace/volume-15-*` directory beyond its own and **wrote no `.done` marker, which `PHASE_SYSTEM.md` gives to the controller alone.**

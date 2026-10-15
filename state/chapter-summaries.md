@@ -554,3 +554,29 @@ the irreversible step at ch 866.**
 ### State of the manuscript at the close of this batch
 
 Volume 15 Batch 0002 is on the page at ch 856–870. **Volume 14, ch 781–840, remains closed on the page at 121,530 words.** Volume 15 stands at thirty chapters of sixty. **The next phase is `workspace/volume-15-batch-0003/PROMPT.md`, ch 871–885, days 2,871–2,915, pressure *the ceiling*, midpoint ch 878 and the irreversible step at ch 885.**
+
+## VOLUME 15 BATCH 0003 — ch 871–885, *the ceiling*, days 2,871–2,915. WRITTEN
+
+**Fifteen chapters, 23,979 words of body prose on method B, average 1,599** — per chapter 871 1,954 · 872 1,735 · 873 1,655 · 874 1,645 · 875 1,662 · 876 1,626 · 877 1,536 · 878 1,537 · 879 1,573 · 880 1,534 · 881 1,535 · 882 1,479 · 883 1,445 · 884 1,488 · 885 1,575. **ONE bracketed layer line in fifteen, at ch 876.** Midpoint ch 878, climax and irreversible step ch 885.
+
+- **ch 871, day 2,871, the eighth. THE SUBTRACTION STARTED.** Head of her own column put against the days gone going up; remainder larger than her spending; column reads as mouth; forward count proves the mouth widens daily. Discovery.
+- **ch 872, day 2,874, the eleventh. THE PRICE HAS NO DAY.** Writing dated, price undated; knew and never used; span priced at fifty heads piled. Discovery.
+- **ch 873, day 2,877, the fourteenth. FOUR MONTHS SAID.** Four months gone in one night in the third chapter of her keeping, said standing after fifteen volumes silent; night and head belong to each other. Revelation.
+- **ch 874, day 2,880, the seventeenth. THE SHAPE.** Thinner at the rate of stronger; taking eats foundation, leaves strength; wall thinned lets ascent through; road walked unwitting, now witting. Discovery.
+- **ch 875, day 2,883, the twentieth. WORKED WALKING.** Arithmetic said between landings going up and down; figures need feet the way sentences need wire; one climber, mouth and feet together. Emotional consequence.
+- **ch 876, day 2,886, the twenty-third. ANSWERED, UNEXPLAINING.** Figure with wrong remainder put to it; one thousand three hundred and sixteen put right, one sentence, nothing more; dust proves her road. The batch's one bracket. Cost.
+- **ch 877, day 2,889, the twenty-sixth. THE LID.** Four hundred years counting to nine is a lid kept by trueness given and reason held; mercy real, ceiling real, neither softens the other. Discovery.
+- **ch 878, day 2,892, the twenty-ninth. THE ANCHOR. MIDPOINT.** Walls protect the gathered will of the dead believing ascent; unbounded ascent drains it; named standing, true, not the whole; two halves — who pays, how much his — still unsaid. Revelation.
+- **ch 879, day 2,894, the first of 2,894. THE FIRST WITHOUT HER.** Twelfth landing at the second hour; forty, cloth, cord twice, hand along, no person; wire, not worker. Cost.
+- **ch 880, day 2,897, the fourth. THE MANY.** Hundreds of rooms, hundreds of tenders, four hundred years; great many pay, none told; kept apart so the counted never gather. Revelation.
+- **ch 881, day 2,900, the seventh. THE SMALL SHARE.** His share of her thinning small, rest into ceiling; growing beside taking, his and hers; hard name theft thins to untold taking. Emotional consequence.
+- **ch 882, day 2,903, the tenth. SAID TO HIM.** Small share said ashamed standing; he does not defend himself; neither withdraws; cool staying holds further. Cost.
+- **ch 883, day 2,906, the thirteenth. THE WRONG THIEF. REVERSAL.** Great anger off him, true anger kept on him; ceiling and chooser both stand; bleakness walked, held apart. Reversal.
+- **ch 884, day 2,909, the sixteenth. TWO DAYS SAT.** Cold, arm, landing, no working; merit settles off the ground and goes off, never on a death, no figure, not for the page; stone named, homeness found. Discovery.
+- **ch 885, day 2,915, the twenty-second. THE COUNT. CLIMAX, IRREVERSIBLE.** Six hundred and forty thousand dead believing, said standing at the ninth hour where the keeper reads, first in her own voice; damage in hearing, not saying; not softening's turn; peace beside defiance. Irreversible.
+
+**What changed that could not have changed before it:** **a dateless price found undated by its writer** · **four months said after fifteen volumes silent** · **a body reading thinner-stronger as one taking** · **work done walking that was never done before** · **one figure answered correctly with no reason** · **a four-hundred-year lid named as mercy and ceiling** · **the Anchor named standing, true, not whole** · **a first heard secondhand with no person in the room** · **payers found many where one was assumed** · **his share measured small** · **small said to him with no defense** · **anger set in two true places** · **merit settled off the ground and gone** · **and a count of the dead believing said where it can be read and ungettable out.**
+
+### State of the manuscript at the close of this batch
+
+Volume 15 Batch 0003 is on the page at ch 871–885. **Volume 14, ch 781–840, remains closed on the page at 121,530 words.** Volume 15 stands at forty-five chapters of sixty. **The next phase is `workspace/volume-15-batch-0004/PROMPT.md`, ch 886–900, days 2,916–2,960, pressure *the bargain*, midpoint ch 891 and the irreversible step at ch 894.**

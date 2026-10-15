@@ -2405,3 +2405,32 @@ No stage and no tenth; no binding and no boy name (boy off the page all fifteen)
 ### The sweep, re-run after the last edit
 
 **27,483 words, average 1,832, none under 1,300 and none above 2,700. One bracket in fifteen, at ch 866. Zero duplicate paragraphs above 150 characters across the batch, and zero non-formula paragraph pairs above 0.90 similarity. Zero orphaned section headings. Longest paragraph in the batch 109 words, under the 120 hard cap. Zero `##` headings duplicated in the volume. `nobody` 14, `eleven` 6, `scribe` 2, and `court` / `ledger` / `ascendant` / `choir` / `forgiv` / `the year` / `thank` / `twenty-two days` all 0. No em dash, no bold or italic line, no blockquote, no table, no code fence, no horizontal rule, no straight quote, no digit at all, no named weekday, month or week.**
+
+## VOLUME 15 BATCH 0003 — ch 871–885, *the ceiling*, days 2,871–2,915. WRITTEN
+
+**Fifteen chapters, 23,979 words of body prose on method B, average 1,599** — per chapter 871 1,954 · 872 1,735 · 873 1,655 · 874 1,645 · 875 1,662 · 876 1,626 · 877 1,536 · 878 1,537 · 879 1,573 · 880 1,534 · 881 1,535 · 882 1,479 · 883 1,445 · 884 1,488 · 885 1,575. **ONE bracketed layer line in fifteen, at ch 876** (`[The figure stands as said.]`), which spends Batch 0003's one of Volume 15's three. Recorded 15 Oct 2026 by the drafting phase.
+
+### What the batch established on the page, and what it may not re-derive
+
+- **The head against the days (ch 871–872)**: ten days, twenty-one hours and thirty-six minutes in her own hand since the first of the month beginning 2,294 does not cover one thousand three hundred and more gone; the price does not date, and she knew that and had never used it.
+- **Four months said out loud (ch 873)**: four months of her own cultivation went in one night in the third chapter of her keeping, said standing in the ordinary voice after fifteen volumes silent, never named to anybody before.
+- **The shape (ch 874)**: she grows thinner at the rate she grows stronger; the taking eats foundation and leaves strength; a thinned wall lets ascent through easier.
+- **Worked walking (ch 875)**: she works out loud while walking up a stair, mouth and feet together, which she had never done.
+- **Answered without explaining (ch 876)**: she puts a figure with a wrong remainder in it; the keeping puts one thousand three hundred and sixteen in its place, one sentence, plain, reporting, brief, even in manner, nothing more. The batch's one bracket.
+- **The lid (ch 877)**: four hundred years of a building that counts to nine is a lid; the ceiling is a mercy and is also a ceiling.
+- **THE ANCHOR (ch 878, midpoint)**: the walls protect the gathered will of every soul that ever died believing it could ascend; unbounded ascent drains it; named by her standing in the ordinary voice, true and not the whole.
+- **The first without her (ch 879)**: 2,894 heard through him on the twelfth landing, forty down, cloth, cord twice, hand along, no person in the room. She does not go down.
+- **The many (ch 880)**: a great many pay and none of them was told; hundreds of rooms, hundreds of tenders, four hundred years.
+- **His share small (ch 881)**: of her thinning, his share is the small part; the rest went into the ceiling; the smallness does not help.
+- **Said to him (ch 882)**: she says the small share out loud to him, ashamed; he does not defend himself; neither withdraws.
+- **The wrong thief (ch 883, reversal)**: she has been angry at the wrong thief for fifteen volumes and it does not make him right; anger placed in two true places, at the ceiling and at him.
+- **Merit settles (ch 884)**: two days sat with anger unthrown; merit settles off the ground the building stands on and goes off, never on a death, no figure stated, not for the page.
+- **THE COUNT (ch 885, climax, irreversible)**: six hundred and forty thousand dead believing they could ascend, said standing in the ordinary voice at the ninth hour in the channel the thing that keeps the ceiling can read, first in her own voice before it is a line anywhere. A number in the record that cannot be taken out. Not forgiveness's turn.
+
+### Things this batch deliberately did not spend
+
+No stage and no tenth; no binding and no boy name (boy off the page all fifteen); no bargain term, price, or clause; no peak taken or hinted; no reopening of the room, place, bar, bundle, cage lamp; no finding-day, no wear-gap resolution, no fair-hand identity; no burn rate, cups, exhaustion date, or lamp hour; no step count, height, top, or room count above; no distance in any unit between anything above the line and anything below it; no fifth person, new intelligence, or office above anything; his ch 812 yes untouched and untold; the four erased months named once at ch 873 and never again.
+
+### Construction budget, measured on the page
+
+`scribe` 3 (twice ch 876, once ch 878) · whole-word `court` 0 · `ledger` 0 · `ascendant` 0 · `choir` 0 · `forgiv` 0 · `the year` 0 · `thank` 0 · `twenty-two days` 0 · `nobody` **3** (volume now 17 of thirty) · `eleven` **6** (volume now 12 of forty) · one bracket (ch 876) · no paragraph over 120 words · titles unique manuscript-wide (885 headings) · no `##` heading duplicated in the volume after three re-seatings · every ordinal re-derived under `((day − 134) mod 30) + 1` · no straight quotes, no em dashes, no digits of three or more.
