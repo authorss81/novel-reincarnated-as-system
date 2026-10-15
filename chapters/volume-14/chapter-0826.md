@@ -44,7 +44,7 @@ She said, “And I have not said it out loud. Once. Not to this room and not to 
 
 She stopped for about a count of ninety.
 
-She said, “That is keeping the fourth of the six this morning and not breaking it. A thing gets said out loud before it is a line anywhere. I have said that term every day since I was nine years old and I have never once had a thing written on a board in this building and not said it here first, and I have one this morning and I am saying it.”
+She said, “That is keeping the fourth of the six this morning and not breaking it. A thing gets said out loud before it is a line anywhere. I have said that term every day since I was nine years old and I have never once had a thing written on a board in this building and not said it here first, and I have one this morning and I know what rule it goes under.”
 
 She said, “And I want that said in this room at about the eighth hour and forty-five minutes on the first of the month beginning two thousand seven hundred and forty-four, because a person who has a new board needs it on the record that she knows what rule it goes under, and because I am going to keep it in about a count of forty.”
 

@@ -1,6 +1,6 @@
 # The Middle Of The Table
 
-Nine days since the ninth stage. Four hundred and forty days in that room. The cage out two hundred and seven days. Right arm open four hundred and forty-seven days and it is not going to close. One thousand one hundred and eighty-two days lighter at this morning and not one going back.
+Fifteen days since the ninth stage. Four hundred and forty-six days in that room. The cage out two hundred and thirteen days. Right arm open four hundred and fifty-three days and it is not going to close. One thousand one hundred and eighty-eight days lighter at this morning and not one going back.
 
 There was no person in the room. The lamp was standing on the wood a foot in from the near end of that table with a trimmed wick and the light went a hand’s width along it and stopping there, and she said her figures out loud at the seventh hour, standing four feet off the near end of it, and then she went and stood about a count of ninety doing nothing at all, on purpose.
 
@@ -60,7 +60,7 @@ She stood there for about a count of a hundred and forty, and the lamp was nine 
 
 And then she went back along that table to the near end, with her left hand on the leg of it, and when her foot came into the light again she stood four feet off the near end of that table and said out loud what it had cost her to do that, which is the rule, and the cost is not the standing in the dark.
 
-She said, “It is not the dark. I have stood in the dark in this room four hundred and forty days and I did it on purpose tonight as well.”
+She said, “It is not the dark. I have stood in the dark in this room four hundred and forty-six days and I did it on purpose tonight as well.”
 
 She put two fingers of her left hand on the near end of the strip of pale wood.
 
@@ -84,7 +84,7 @@ And then she said the last of it out loud, standing, in the ordinary voice, at a
 
 She said, “Here is what the middle of twenty-two paces is.”
 
-She said, “It is eleven paces from the end of that table where a hand has been writing down whatever goes across it for four hundred years, and the same again from the end where there is a person who has been standing four feet off it every morning since she was nine years old.”
+She said, “It is eleven paces from the end of that table where a hand has been writing down whatever goes across it for four hundred years, and eleven paces from the end of that table where there is a person who has been standing four feet off it every morning since she was nine years old.”
 
 She said, “And it is the only place in this room that a sentence cannot be accused of having been aimed.”
 

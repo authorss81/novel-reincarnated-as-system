@@ -1,6 +1,6 @@
 # The First Of The Five
 
-Sixteen days since the ninth stage. Four hundred and forty-seven days in that room. The cage out two hundred and fourteen days. Right arm open four hundred and fifty-four days and it is not going to close. One thousand one hundred and eighty-nine days lighter at this morning and not one going back.
+Eighteen days since the ninth stage. Four hundred and forty-nine days in that room. The cage out two hundred and sixteen days. Right arm open four hundred and fifty-six days and it is not going to close. One thousand one hundred and ninety-one days lighter at this morning and not one going back.
 
 There was no person in the room. The lamp was standing on the wood a foot in from the near end of that table and the light went a hand’s width along it and stopped.
 
@@ -10,7 +10,7 @@ She turned the fourth piece of wood over at about the eighth hour and she said o
 
 She put two fingers of her left hand on the near edge of it and turned it over onto its own face, not over the other way, and slid it about a foot along the wood so that it was not under the lamp.
 
-She said, “I said at about the ninth hour and twenty minutes on the thirtieth of the month beginning two thousand seven hundred and fourteen, standing four feet off the near end of that table, that I was going to do this on the morning I said the sentence, and I am doing it at about the eighth hour this morning, and I am not going to get a date out of the fact that I did it early.”
+She said, “I said at about the ninth hour and twenty minutes on the sixth of the month beginning two thousand seven hundred and forty-four, standing four feet off the near end of that table, that I was going to do this on the morning I said the sentence, and I am doing it at about the eighth hour this morning, and I am not going to get a date out of the fact that I did it early.”
 
 She said, “And I want it said that I did not turn it over. It is lying on its own face. There is a board on this table with a name cut into it in a third hand and it has been face up since the first of the month beginning two thousand six hundred and eighty-four and it is staying face up and I have said out loud in this room that I am not turning that one over and I have not.”
 
@@ -94,10 +94,10 @@ She said, “And I am not putting it anywhere.”
 
 She said, “It is not in the book. It is not under the table with the bundle. It is not in the stack of forty under the middle of this table with the paragraph of words on one of them. It is not in the drawer, because there is no drawer in this room and has not been one since I got here.”
 
-She said, “It is in my left hand and it is going to be in my left hand for the next twenty-six days and it is going to be in the fold of my shirt against my fourth rib tonight, and I have not put it inside the book because the one thing I would not be able to do is lose a page in a thing I cannot find things in.”
+She said, “It is in my left hand and it is going to be in my left hand for the next twenty-four days and it is going to be in the fold of my shirt against my fourth rib tonight, and I have not put it inside the book because the one thing I would not be able to do is lose a page in a thing I cannot find things in.”
 
 And then she put her right arm open at her side and got the book out of the fold of her shirt with her left hand and put the eight leaves back against her fourth rib, and then she put the folded leaf in with them, outside the paper, against the rib, and she held her hand there for about a count of forty.
 
 And then she took her hand off, and squared her own strip of pale wood up, and squared the board with the name on it, and left the third one where it lay.
 
-And there was a piece of paper against her fourth rib with six sentences on it in her own hand, written on the fifth of the month beginning two thousand seven hundred and forty-four at about the eighth hour of the morning, and there were twenty-six mornings in front of her, and the first morning a bundle came up that stair was the first of the month beginning two thousand seven hundred and seventy-four, and nothing had gone down that stair out of that room in nineteen years.
+And there was a piece of paper against her fourth rib with six sentences on it in her own hand, written on the seventh of the month beginning two thousand seven hundred and forty-four at about the eighth hour of the morning, and there were twenty-four mornings in front of her, and the first morning a bundle came up that stair was the first of the month beginning two thousand seven hundred and seventy-four, and nothing had gone down that stair out of that room in nineteen years.

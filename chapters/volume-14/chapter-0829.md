@@ -1,18 +1,18 @@
 # How A Room Names A Person
 
-Four days since the ninth stage. Four hundred and thirty-five days in that room. The cage out two hundred and two days. Right arm open four hundred and forty-two days and it is not going to close. One thousand one hundred and seventy-seven days lighter at this morning and not one going back.
+Thirteen days since the ninth stage. Four hundred and forty-four days in that room. The cage out two hundred and eleven days. Right arm open four hundred and fifty-one days and it is not going to close. One thousand one hundred and eighty-six days lighter at this morning and not one going back.
 
 There was no person in the room. The lamp was standing on the wood a foot in from the near end of that table and the light went a hand’s width along it and stopped.
 
-She said her figures out loud at the seventh hour, standing, in the ordinary voice, and then she went to work on it, and it was the thing she had been carrying since the nineteenth of the month beginning two thousand seven hundred and fourteen.
+She said her figures out loud at the seventh hour, standing, in the ordinary voice, and then she went to work on it, and it was the thing she had been carrying since the ninth hour on the first of the month beginning two thousand seven hundred and forty-four.
 
-## Four Hundred And Thirty-Five Days Without One
+## Four Hundred And Forty-Four Days Without One
 
 She said it out loud first, standing four feet off the near end of that table at about the seventh hour and twenty minutes, and she said it in the plain version, because she is at the stage of a thing where the long version stops working.
 
-She said, “I have been in this room four hundred and thirty-five days and nothing in it has named me.”
+She said, “I have been in this room four hundred and forty-four days and nothing in it has named me.”
 
-She said, “That is the whole of it and it has taken me four days to say it and it is not a complaint.”
+She said, “That is the whole of it and it has taken me a day and a night to say it and it is not a complaint.”
 
 She put two fingers of her left hand on the near end of the strip of pale wood.
 
@@ -24,7 +24,7 @@ She said, “And there is a place worn into that table of the length of a forear
 
 She said, “And there is me.”
 
-She said, “And in four hundred and thirty-five days not one thing in this room has said what I am. I am the one who says figures out loud at this table. That is a use and it is not a name, and I have known that since I was nine years old and I have never once minded it until this morning.”
+She said, “And in four hundred and forty-four days not one thing in this room has said what I am. I am the one who says figures out loud at this table. That is a use and it is not a name, and I have known that since I was nine years old and I have never once minded it until this morning.”
 
 ## What A Binding Does
 
@@ -34,7 +34,7 @@ She said, “A binding is a room’s way of naming a person it has already decid
 
 She stopped for about a count of ninety.
 
-She said, “And I am going to say the rest of that sentence slowly, because it took me four days and it is the whole of what I have got on this.”
+She said, “And I am going to say the rest of that sentence slowly, because it took me a day and a night and it is the whole of what I have got on this.”
 
 She said, “A room with a column in it has four hundred years of rows. Every row is an amount, and every amount is somebody, and not one of those rows has a name against it. It does not need one. It uses people the way a column uses a figure and it does not have to know what to call them.”
 
@@ -46,7 +46,7 @@ She said, “So the room decides first. It decides somewhere between the first o
 
 She put her hand flat on the top of that table.
 
-She said, “And the word on that board is not *you* and it is not *the writer*. It is *one person*. And a board that says *one person* is a board that is waiting for the room to have somebody standing in it, and I have been standing in it for four hundred and thirty-five days.”
+She said, “And the word on that board is not *you* and it is not *the writer*. It is *one person*. And a board that says *one person* is a board that is waiting for the room to have somebody standing in it, and I have been standing in it for four hundred and forty-four days.”
 
 ## The Part That Was Not About The Lamp
 
@@ -82,7 +82,7 @@ She said it out loud and she stopped dead after it and stood there.
 
 She said, “And those are five words and they are not a job, and they are not a sentence addressed to me, and they are not anybody’s name. And if they go into that column then I am those five words in that room for as long as the column stands, and there is a no said in that room that cannot be unsaid.”
 
-She said, “I have been here four hundred and thirty-five days without being named by anything in this room. That is the whole of what has happened to me in this room. And the thing on that board that I cannot have is the only thing that would ever have fixed it.”
+She said, “I have been here four hundred and forty-four days without being named by anything in this room. That is the whole of what has happened to me in this room. And the thing on that board that I cannot have is the only thing that would ever have fixed it.”
 
 She put her left hand flat on the top of that table.
 

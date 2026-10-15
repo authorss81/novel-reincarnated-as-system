@@ -1,6 +1,6 @@
 # The Board That Is Already There
 
-Ten days since the ninth stage. Four hundred and forty-one days in that room. The cage out two hundred and eight days. Right arm open four hundred and forty-eight days and it is not going to close. One thousand one hundred and eighty-three days lighter at this morning and not one going back.
+Sixteen days since the ninth stage. Four hundred and forty-seven days in that room. The cage out two hundred and fourteen days. Right arm open four hundred and fifty-four days and it is not going to close. One thousand one hundred and eighty-nine days lighter at this morning and not one going back.
 
 There was no person in the room. The lamp was standing on the wood a foot in from the near end of that table and the light went a hand’s width along it and stopped, and there were four pieces of wood lying face up side by side about a foot in from the edge of it.
 
@@ -96,7 +96,7 @@ She said, “I read it as seven conditions because I have been reading boards in
 
 She said, “And it is a description of a room. And a description of a room cannot be refused, because there is nothing in it to say no to. You can say no to *you will*. You cannot say no to *is*.”
 
-She said, “And I have spent a month holding a sentence against a board that cannot hear it, and the sentence is right, and it is exactly the right sentence, and it is aimed at a thing that does not ask for anything.”
+She said, “And I have spent four days holding a sentence against a board that cannot hear it, and the sentence is right, and it is exactly the right sentence, and it is aimed at a thing that does not ask for anything.”
 
 She said, “Which means there is nothing on that board for a refusal to push against. It does not want me to stop standing here. It does not want me to go into the place. It wants nothing. It is a room being a room and putting it in writing so that there is a copy.”
 
@@ -106,4 +106,4 @@ And she said that last sentence out loud and then stood there and did not fill t
 
 She left the board lying face up where it lay, and she squared her own strip of pale wood up and squared the board with the name on it, and left the other two where they lay.
 
-And against her fourth rib there were five blank leaves that were still blank, and there were thirty-two days in front of her, and the morning a bundle came up that stair was going to be on the first of the month beginning two thousand seven hundred and seventy-four.
+And against her fourth rib there were five blank leaves that were still blank, and there were twenty-six days in front of her, and the morning a bundle came up that stair was going to be on the first of the month beginning two thousand seven hundred and seventy-four.

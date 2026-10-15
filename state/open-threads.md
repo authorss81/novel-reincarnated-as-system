@@ -3911,9 +3911,9 @@ before ch 826** · **the speech of the one at that table before ch 826** · **th
 second look · any second occasion for the one look spent at ch 776 · the writing on a leaf before ch 838 · **the
 gap in the wear said out loud to anybody**.
 
-## VOLUME 14 CLOSED — ch 781–840, *The Scribe's Apprentice*, 15 Oct 2026
+## VOLUME 14 WRITTEN — ch 781–840, *The Scribe's Apprentice*, 15 Oct 2026
 
-**Sixty chapters, days 2,541–2,780, 121,410 words, zero brackets, three stages, one frame scene, four irreversible steps. Goal met: she refused the thing Yuan was offered and refused, said at ch 822 and sent at ch 838.**
+**Sixty chapters, days 2,541–2,780, 121,530 words, zero brackets, three stages, one frame scene, four irreversible steps. Goal met: she refused the thing Yuan was offered and refused, said at ch 822 and sent at ch 838.**
 
 | Thread | Owner | State at close |
 | --- | --- | --- |
@@ -3929,3 +3929,15 @@ gap in the wear said out loud to anybody**.
 | The wear gap (two fingers, no edges) | her | Found at ch 820, told to nobody, never said out loud to anybody. |
 
 **New question for Volume 15, carried verbatim from `outline/volume-14.md`:** he is readable now by the thing that made him, and he said yes once where she could not hear it, and she said no twice where everything could hear it. The refusal went down the stair in her own hand and nothing came back up. **The question is not whether it heard. It is what a thing that reads does with a no.**
+
+## ADDED BY THE VOLUME 14 BATCH 0004 REVIEW REPAIR, 15 Oct 2026
+
+**Four things a later phase must not get wrong, recorded here because the next reader of this file will not have
+read the repair.**
+
+| Item | State | Where it is written down |
+| --- | --- | --- |
+| Batch 0004's day table, ch 829–834 | **CORRECTED** to 2,745 · 2,746 · 2,747 · 2,748 · 2,749 · 2,750, all six of the month beginning 2,744. The old cells put those chapters before the terms board came up and four of them spoke of it as already on her table. | `outline/volume-14.md` Corrections item six · `state/continuity.md` under *VOLUME 14 BATCH 0004 — REVIEW REPAIR* · `state/current.md` |
+| The date the page was written on | **the seventh of the month beginning 2,744, day 2,750**, and it rests against her fourth rib for **twenty-four days** before ch 838. Anywhere else in the manuscript or in a Volume 15 plan that says the fifth, or twenty-six days, is stale. | ch 834 and ch 838 on the page · corrections item six |
+| The lead of this novel | **Ning Yan, a woman, deliberately, and the deviation is recorded rather than left in silence.** `AGENTS.md` asks for male leads as a fleet default; the manuscript is 840 chapters into a premise about a room that will not name the person standing in it, and nothing about that is being changed. | `state/continuity.md` under *VOLUME 14 BATCH 0004 — REVIEW REPAIR*, §5 |
+| Phase closure markers | **Not this file's business and not a repair phase's.** `workspace/volume-14-batch-0004/` still carries `.deferred`, `.wip-conflict`, `.attempts` and `.retry-after`, and only the controller may clear them. No state file claims the phase is closed. | `state/continuity.md`, the batch 0004 header |

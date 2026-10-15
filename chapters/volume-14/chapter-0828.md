@@ -32,7 +32,7 @@ She said, “And I am going to say what it is taken against, and I am saying it 
 
 She said, “It is taken against a no I said out loud in this room at about the ninth hour and ten minutes on the fifth of the month beginning two thousand seven hundred and fourteen, standing, in the ordinary voice, into twenty-two paces of dark, that cannot be unsaid.”
 
-She said, “And it is taken against a piece of paper with no name on it that came up a stair on the first of the month beginning two thousand seven hundred and forty-four, and against a page I have not written.”
+She said, “And it is taken against a page I have not written. There is no paper in this room with a sentence on it and there is going to be one, and that is the whole of what this is taken against, and I am saying it at the ninth hour so that it is on the record that I took it against something that does not exist yet.”
 
 ## The Figure At The Head Of It
 
@@ -100,7 +100,7 @@ She said, “And here is the plain version and I am saying it once.”
 
 She said, “A place at the far side of that table has been kept for four hundred years and keeping it is being there when the figures are said out loud. That has not been anybody’s work this morning until this second. From tonight it is somebody’s. Not mine. I have refused it and a refusal I said in the dark does not put it back where it was.”
 
-She said, “And I have said no to being kept and I have said no to a binding and I have said no to a lamp fed in place of me by one person, and none of those three was about this. Every one of them was about what happens to a record and who is standing in a room when it is made. This is about the room itself.”
+She said, “And I have said no to being kept, and I have said no to a lamp, and I have said no to a board coming up that stair with a place on it, and none of those three was about this. Every one of them was about what happens to a record and who is standing in a room when it is made. This is about the room itself.”
 
 She said, “So from tonight, when I stand here at the seventh hour and the room is empty, I will not be standing in a room. I will be standing in a room that is waiting for somebody, and the somebody is not going to be chosen tonight and it is not going to be chosen by me, because I have not asked anybody for anything since I was nine years old and I am not starting on the night of a stage.”
 

@@ -34,7 +34,7 @@ She said, “So: nothing has ever come back up that stair. Not once. In four hun
 
 And then she got to the second thing, which was the one that mattered, and she did it quickly because she had been carrying it since the seventh hour.
 
-She said, “So the finding is that a page goes down nine hundred and four steps and does not come up, and that is not a finding. That is a thing I already knew, and I have been carrying a folded piece of paper against my fourth rib for four days as though it were a question, and a question that has been answered before it is asked is not a question. It is a habit.”
+She said, “So the finding is that a page goes down nine hundred and four steps and does not come up, and that is not a finding. That is a thing I already knew, and I have been carrying a folded piece of paper against my fourth rib for two days as though it were a question, and a question that has been answered before it is asked is not a question. It is a habit.”
 
 She said, “And the question is not whether it comes up. The question is whether I am going to find out, and the way I find out is that a room puts something on that table at the second hour of a month, and it has not done it yet because the next one is twenty-two mornings away.”
 
@@ -54,7 +54,7 @@ She said it out loud where the table was in the dark on both sides of her.
 
 She said, “There is a bundle of papers under the far end of this table. Two turns of cord and not a knot. I have had my arm into it five times in nineteen years and I have never once pulled anything out of it.”
 
-She said, “And in the fold of my shirt against my fourth rib there is a folded piece of paper with six sentences on it in my own hand, written at the eighth hour four days ago, and it is going to go down that stair in a cloth with forty boards on the top of them on the morning a bundle comes up.”
+She said, “And in the fold of my shirt against my fourth rib there is a folded piece of paper with six sentences on it in my own hand, written at the eighth hour two days ago, and it is going to go down that stair in a cloth with forty boards on the top of them on the morning a bundle comes up.”
 
 She did not move while she was saying it.
 
@@ -80,7 +80,7 @@ She said, “Nothing. That is the honest answer and I am going to give it before
 
 She said, “The lamp is where it goes. The cage is out. The bar is against the wall on the left. The bundle is under the far end. There are three pieces of wood face up at this end of that table and one face down about a foot along. There is a column at the far end of that table with a price at the head of it and four hundred years of amounts in it and not one person.”
 
-She said, “And there is a sentence that was said out loud in this room at about the eighth hour on the fifth of this month, and it is folded against my fourth rib now, and this room is the one I have been standing in.”
+She said, “And there is a sentence that was said out loud in this room at about the eighth hour on the seventh of this month, and it is folded against my fourth rib now, and there is one room in this building that has heard it, and it is the one I have been standing in.”
 
 She put her hand flat on the top of that table.
 

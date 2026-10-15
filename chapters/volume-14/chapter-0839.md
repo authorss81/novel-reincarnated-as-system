@@ -16,7 +16,7 @@ She said, “And I am going and getting it myself this morning and I am saying t
 
 She went down.
 
-She did not count it, and she said out loud at the foot of the first run that she was not going to, and that she had counted that stair in daylight ten days ago and had got eight hundred and eighty and had put the figure in the record, and that a figure only has to be got once.
+She did not count it, and she said out loud at the foot of the first run that she was not going to, and that she had counted that stair in daylight thirty days ago and had got eight hundred and eighty and had put the figure in the record, and that a figure only has to be got once.
 
 ## Not Counting
 

@@ -34,9 +34,9 @@ She said, “And I am going to keep standing four feet off the near end of this 
 
 She said, “And you may do what you like with the paper.”
 
-And then she turned the fourth piece of wood over onto its own face and slid it back about a foot along the wood, into the light, where she had put it on the fifth of the month beginning two thousand seven hundred and forty-four.
+And then she turned the fourth piece of wood over onto its own face and slid it back about a foot along the wood, into the light, where she had put it on the seventh of the month beginning two thousand seven hundred and forty-four.
 
-She said, out loud, standing, “I put that one face down so that a sentence would not go out past it. It is face up now, before the sentence goes, and it is going to be lying face up on that table for as long as I am in this room, and I am not taking the twenty days back.”
+She said, out loud, standing, “I put that one face down so that a sentence would not go out past it. It is face up now, before the sentence goes, and it is going to be lying face up on that table for as long as I am in this room, and I am not taking the twenty-four days back.”
 
 And then she went to the near end of that table where the cloth and the cord were and she put the folded leaf into the cloth under the forty boards with her left hand, and her right arm was open in front of her the whole time and she could not see what her hand was doing.
 
@@ -136,7 +136,7 @@ And then she said what she was feeling, out loud, standing, in the ordinary voic
 
 She said, “It is the cold.”
 
-She said, “It came up out of the stone out of my ankles on the first of the month beginning two thousand seven hundred and forty-four and it has been there on and off since and it is not new and I have said that.”
+She said, “It came up out of the stone out of my ankles on the first of the month beginning two thousand seven hundred and fourteen and it has been there on and off since and it is not new and I have said that.”
 
 She said, “And it is not the cold of a person who has won. I want that said before anything else about it. I do not know what it is the cold of.”
 
@@ -146,7 +146,7 @@ She said, “It is the cold of a person standing in a room at the ninth hour wit
 
 She said, “I said no in this room on the fifth of the month beginning two thousand seven hundred and fourteen and it could not be unsaid.”
 
-She said, “And on the fifth of the month beginning two thousand seven hundred and forty-four I wrote the refusal on a leaf of a book that has been against my fourth rib for nineteen years, and it has gone down that stair this morning in a cloth with forty boards on the top of them.”
+She said, “And on the seventh of the month beginning two thousand seven hundred and forty-four I wrote the refusal on a leaf of a book that has been against my fourth rib for nineteen years, and it has gone down that stair this morning in a cloth with forty boards on the top of them.”
 
 She said, “And it is the first thing I have ever sent anywhere at all.”
 

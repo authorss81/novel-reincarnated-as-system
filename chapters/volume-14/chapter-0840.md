@@ -104,8 +104,8 @@ She said, “There is a stair in this tower of eight hundred and eighty steps in
 
 She said, “And nobody has asked him for one drop of it in nineteen years, and he is not bound and not entered and not sent, and there is no line anywhere in this building that says where he goes in the evening.”
 
-She said, “And I said that term out loud on that stair ten days ago in daylight with the sun on the wall opposite the second opening, and I am not going to be able to say it in daylight again.”
+She said, “And I said that term out loud on that stair thirty-four days ago in daylight with the sun on the wall opposite the second opening, and I am not going to be able to say it in daylight again.”
 
-She said, “So I am saying it in the dark, and it is not about light. It is about the stair, and it has been about the stair since the twenty-seventh of the month beginning two thousand seven hundred and fourteen, and there is no seventh term and there is not going to be one.”
+She said, “So I am saying it in the dark, and it is not about light. It is about the stair, and it has been about the stair since the third of the month beginning two thousand seven hundred and forty-four, and there is no seventh term and there is not going to be one.”
 
 She said, “And I am not going up there to tell him.”

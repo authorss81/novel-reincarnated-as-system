@@ -925,7 +925,7 @@ restarted; the batch is 30,995 words and still fifteen chapters.** Batch 0004 in
   naming it. The current fifteen, in order, are in `state/continuity.md` under *VOLUME 14 BATCH 0003* and in
   `state/chapter-summaries.md`, and **none of them names a date, an hour or an age.**
 
-## Who is where at end of chapter 840 — VOLUME 14 CLOSED, ch 781–840
+## Who is where at end of chapter 840 — VOLUME 14 WRITTEN, ch 781–840
 
 **A cold reader starts here. This block supersedes *Who is where at end of chapter 825* above it wherever the two
 differ.** Day 2,780, the seventh of the month beginning 2,774, at about the ninth hour and twenty minutes. A dark
@@ -989,11 +989,22 @@ out loud three times, readable now and not spoken to. She said at ch 658 she had
 eight years and that sentence is not softened and not withdrawn. **Ning Wu** — not spent in Volume 14. **Shuyin,
 the Hunter, Wei Ran, Feng Lushi, the people at the turn** — none on the page.
 
-### Volume 14 is closed
+### Volume 14 is written
 
-**Sixty chapters, ch 781–840, days 2,541–2,780, 121,410 words of body prose on method B over four batches (31,117
-· 29,402 · 30,995 · 29,896), average 2,023.** Three stages at 74, 68 and 66 days. One frame scene at ch 812, one
+**Sixty chapters, ch 781–840, days 2,541–2,780, 121,530 words of body prose on method B over four batches (31,117
+· 29,402 · 30,995 · 30,016), average 2,026.** Three stages at 74, 68 and 66 days. One frame scene at ch 812, one
 stage in the whole volume at ch 809 before this batch, one midpoint at ch 812, irreversible steps at ch 795, ch
 810, ch 822 and ch 838. **Zero bracketed layer lines in sixty.** The volume goal is met: she refused the thing Yuan
 was offered and refused, out loud at ch 822 and on a page sent down at ch 838. **The next phase is the controller's.
 No `workspace/volume-15-*` directory was created and no Volume 15 planning prompt was written by this phase.**
+
+### One thing a reader of this file must know before Volume 15 is planned
+
+**Batch 0004's day table was corrected after review on 15 Oct 2026 and six chapters moved onto their own days.
+Nothing about the story moved with them.** The terms board comes up with the sixteenth bundle on the first of the
+month beginning 2,744 and is read out loud that morning; the ninth stage is taken at 2,732 and the refusal is
+written on the seventh of the month beginning 2,744 and goes down at 2,774. **The live table is 826 2,744 · 827
+2,730 · 828 2,732 · 829 2,745 · 830 2,746 · 831 2,747 · 832 2,748 · 833 2,749 · 834 2,750 · 835 2,752 · 836 2,756
+· 837 2,760 · 838 2,774 · 839 2,776 · 840 2,780**, with one step back, at ch 827, and no two chapters on one day.
+It is also `outline/volume-14.md` Corrections item six. **Volume 15 planning must use that table and not the one
+in Corrections item five, whose ch 829–834 cells are struck.**

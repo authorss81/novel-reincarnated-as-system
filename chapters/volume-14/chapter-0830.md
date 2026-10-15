@@ -1,8 +1,8 @@
 # The Second One About A Stair
 
-Eight days since the ninth stage. Four hundred and thirty-nine days in that room. The cage out two hundred and six days. Right arm open four hundred and forty-six days and it is not going to close. One thousand one hundred and eighty-one days lighter at this morning and not one going back.
+Fourteen days since the ninth stage. Four hundred and forty-five days in that room. The cage out two hundred and twelve days. Right arm open four hundred and fifty-two days and it is not going to close. One thousand one hundred and eighty-seven days lighter at this morning and not one going back.
 
-She went down the tower's own stair at about the seventh hour of the twenty-seventh of the month beginning two thousand seven hundred and fourteen, with an empty lamp in her left hand and her right arm open in front of her, and it was in daylight, and it was the first daylight there had been in that stair in four hundred and thirty-nine days.
+She went down the tower's own stair at about the seventh hour of the third of the month beginning two thousand seven hundred and forty-four, with an empty lamp in her left hand and her right arm open in front of her, and it was in daylight, and it was the first daylight there had been in that stair in four hundred and forty-five days.
 
 ## Four Openings And The Sun On Them
 
@@ -10,7 +10,7 @@ There are four openings in that stair and at the seventh hour of that morning th
 
 She said out loud at the first opening, standing, in the ordinary voice:
 
-“There is light on this wall. There has been light on this wall at this hour every morning for nineteen years and I have come up and down eight hundred and eighty steps on four hundred and thirty-nine of them in the dark, and the light has been here the whole time.”
+“There is light on this wall. There has been light on this wall at this hour every morning for nineteen years and I have come up and down eight hundred and eighty steps on four hundred and forty-five of them in the dark, and the light has been here the whole time.”
 
 She said, “And I am not going to make anything out of that this morning. I have a lamp to fill and I have said what I came down for.”
 
@@ -62,7 +62,7 @@ She said, “And I have never worked that out before this morning and it took me
 
 She did not move while she was saying it.
 
-She said, “A board came up a stair on the first of the month beginning two thousand seven hundred and forty-four with a line on it that says one person is bound to feed the lamp in place of the writer. And it has no name on it and no date on it. And I said out loud in this room this month that a naming that does not name the person can be put on anybody.”
+She said, “A board came up a stair on the first of the month beginning two thousand seven hundred and forty-four with a line on it that says one person is bound to feed the lamp in place of the writer. And it has no name on it and no date on it. And I said out loud in this room this month that a naming that leaves the person unnamed can be put on anybody.”
 
 She said, “That kind of naming can only be done in daylight. That is the whole of what that board is and it is not hiding.”
 
@@ -84,7 +84,7 @@ He put oil in it without asking her a single question, and she noticed that he d
 
 The floor he works on is boards and there is a bench along the wall with the two lamps standing on it and the bag he carries them up in is on the floor by his knee, and there is no window in that tower at that height and the light comes down from four flights above and lands on the boards in one long shape about the length of the bench.
 
-She said, out loud, standing on that floor with the lamp full in her left hand, “I have been in this building four hundred and thirty-nine days and I have been on this floor twice, and both of those times I was going somewhere else.”
+She said, out loud, standing on that floor with the lamp full in her left hand, “I have been in this building four hundred and forty-five days and I have been on this floor twice, and both of those times I was going somewhere else.”
 
 She said one thing, at about the ninth hour, on the landing with the dead cage:
 

@@ -2,7 +2,7 @@
 
 Four hundred and twenty-nine days in that room. The cage out a hundred and ninety-six days. Right arm open four hundred and thirty-six days and it is not going to close. One thousand one hundred and seventy-one days lighter at this morning and not one going back.
 
-There was no person in the room. The lamp was standing on the wood a foot in from the near end of that table and the light went a hand’s width along it and stopped, and the four pieces of wood lay face up side by side about a foot in from the edge, and one of the four had no name on it at all.
+There was no person in the room. The lamp was standing on the wood a foot in from the near end of that table and the light went a hand’s width along it and stopped, and the three pieces of wood lay face up side by side about a foot in from the edge, and there has never been a fourth one in nineteen years.
 
 She said her figures out loud at the seventh hour, standing, in the ordinary voice, and then she stood there and did not do one single thing for about a count of ninety, and then she started.
 
@@ -14,7 +14,7 @@ She said, “I am not writing on a leaf today.”
 
 She said, “I am not writing on my own wood.”
 
-She said, “I am not going to answer that board out loud. I said it out loud once and a no said in this room cannot be unsaid and I am not giving it a second answer.”
+She said, “I am not going to say out loud what I have said to myself this week about the thing that has not come up that stair yet. A no said in this room cannot be unsaid and I am not giving it a second answer to a board that is not on this table.”
 
 She said, “And I am not going down that stair with anything in my hand.”
 
@@ -24,7 +24,7 @@ She said, “That is the whole of what I have been doing since I stood up and it
 
 ## What A Refusal Costs Before It Is Refused
 
-And then she got to the work, and it was the thing she had been standing there for since the eighth hour, and it came out of her fast because she had been carrying it since the first of the month beginning two thousand seven hundred and forty-four.
+And then she got to the work, and it was the thing she had been standing there for since the eighth hour, and it came out of her fast because she had been carrying it since the fifth of the month beginning two thousand seven hundred and fourteen.
 
 She said, “Here is the arithmetic and it took me two days to get it and it is four lines.”
 
@@ -32,7 +32,7 @@ She said, “A refusal costs what the thing costs, and it can only cost that aft
 
 She said, “And on the fifth of the month beginning two thousand seven hundred and fourteen, at about the ninth hour and ten minutes, I said no in this room to a person keeping what I say out loud in this room. There was no board then. There was a place described as kept and a pair of cuts and a boy of sixteen and a fair hand under my own arithmetic. That was a no to a noise.”
 
-She said, “And then a board came up that stair with a price on it and no name on it and no date on it, and it is thirty days old, and I have not refused it.”
+She said, “And a board is coming up that stair on the first of the month beginning two thousand seven hundred and forty-four, which is fourteen days from this morning, because one came up on the first of the month beginning two thousand six hundred and eighty-four and one came up on the first of the month beginning two thousand seven hundred and fourteen, and I did not know what either of those said until the morning they were lying in front of me with the light on them.”
 
 She stopped for about a count of ninety.
 
@@ -44,9 +44,9 @@ She put her hand flat on the top of that table and kept it there.
 
 She said, “And here is what it costs and I worked it out standing here at about the seventh hour and forty minutes and it is one figure with nothing on the other side of it.”
 
-She said, “Refusing in advance means being wrong for a month. It means that from this morning until the first of the month beginning two thousand seven hundred and seventy-four I will have said no to a thing in my own head, in the dark, standing up, where nothing can check it, and there is not one instrument in this building or in this county that can tell me on any morning in between whether I was right.”
+She said, “Refusing in advance means being wrong for a month. It means that from the morning that board comes up until the first of the month beginning two thousand seven hundred and seventy-four I will have said no to a thing in my own head, in the dark, standing up, where nothing can check it, and there is not one instrument in this building or in this county that can tell me on any morning in between whether I was right.”
 
-She said, “And if the room comes up that stair on the first of that month with a second board and a second price, then I have been wrong for thirty days and I will have said so out loud in here every morning at the seventh hour, in the ordinary voice, and the ordinary voice is the part that does not come off it.”
+She said, “And if that board says something I have not once stood in this room and imagined, then I have been wrong for thirty days and I will have said so out loud in here every morning at the seventh hour, in the ordinary voice, and the ordinary voice is the part that does not come off it.”
 
 She said, “That is the whole of what it costs. It is not courage and it is not the cold. It is thirty days of being the only person in the world who knows what I have refused and cannot prove it.”
 
@@ -106,4 +106,4 @@ She said, “And I am not going to write the decision down anywhere, because a d
 
 She left the lamp where it was. The light went a hand’s width along the near end of that table and stopped.
 
-And there were five blank leaves against her fourth rib that were still blank, and there was a piece of paper with no name and no date on it lying face up about a foot in from the edge of that table, and there was one pair of cuts with nothing in it that she had put her thumb on twice and said nothing about, and the nineteenth of the month beginning two thousand seven hundred and fourteen was two days away.
+And there were five blank leaves against her fourth rib that were still blank, and there was a bundle of papers corded round twice under the far end of that table that she has had her arm into five times in nineteen years and has never once pulled, and there was one pair of cuts with nothing in it that she had put her thumb on twice and said nothing about, and the nineteenth of the month beginning two thousand seven hundred and fourteen was two days away.
