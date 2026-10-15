@@ -372,3 +372,29 @@ of a month fall before the fall and all six land on a chapter** — 2,984 · 3,0
 **and the plan names the last of them, at ch 965, as the last bundle that will ever come up nine hundred and four
 steps.** Nothing in the plan moves a chapter, a day, a batch title, a midpoint, a climax, a stage, a bracket or any
 element of `outline/ending.md`.
+
+## ADDED 15 OCT 2026 — Volume 16 planning REVIEW REPAIR
+
+**Review of `next-0013` (commit `0b9dec8`), the Volume 16 planning phase. Planning files and state files only: no
+chapter prose was written, no chapter of Volume 16 exists, no plot was moved, and no controller file was touched.**
+
+| Section | File | Read it for |
+| --- | --- | --- |
+| `## Volume 16 planning REVIEW REPAIR, 15 Oct 2026 — eleven findings, no prose written, no plot moved` | `state/current.md`, at the foot | The twelve defects, what each was and what it is now, and the four cards that now exist |
+| `## VOLUME 16 PLANNING — REVIEW REPAIR, 15 Oct 2026. The nine findings, and the three found alongside them` | `state/continuity.md`, at the foot | The finding-by-finding table, why the bracket budget was the worst of them, and what the repair did not do |
+| `## VOLUME 16 PLANNED — REVIEW REPAIR, 15 Oct 2026. One thread closed, twelve figures fixed, and what stays open` | `state/open-threads.md`, at the foot | The one closed thread, the twelve figures the next four phases will quote instead of re-deriving, and what is still refused |
+
+**The one thing that will be forgotten if it is not written down: cards for Volume 16 Batches 0004–0007 existed for
+no phase to write.** The chain is 0001 → 0002 → 0003 → 0004 and each drafting phase writes only the next prompt, so
+Batch 0004 was going to stall on an empty slot at the fifth phase. **All four cards are now on the page in
+`outline/batches/`, and their day tables were checked against the outline's hundred-row table day for day.**
+
+**The twelve figures, all of which were inherited numbers that did not reproduce:** the descent is **sixteen days**
+inclusive, not thirty-nine · her figures' anchor is **the first** of the month beginning 2,864, not the eighth ·
+ch 910 is the **first** first of the volume · **eight** firsts land on a chapter, and 3,164 is the seventh and the
+first with nothing on it · ch 982 is the **seventh** day of the fall · the bracket budget is **2 / 3 / 1 / 1 / 1**
+across Batches 0001–0005 and none after, because **ch 918 falls inside Batch 0002 and no card accounted for it** ·
+the descent's *first time in … days* is **783**, from the room series the Batch 0001 prompt carries · Volume 16 now
+has a **word band of 1,450–2,700 a chapter**, derived from Volume 15's measured 1,455–2,178 · and **`nobody` and
+`eleven` are 42 and 26 across Volume 15, not 0**, so Volume 16's line of thirty is a deliberate tightening that a
+batch going over has to write down beside the number.

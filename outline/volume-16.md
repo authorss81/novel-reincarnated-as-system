@@ -415,7 +415,13 @@ anyone; it removes the ceiling.**
   bound-markers do not survive, and it is rubble, and there are people on and under it.
 - **Ning Wu is at the gate at ch 985**, and he has come because a first of a month passed with nothing on it and he
   is the only person inside the bound who knows what she is. **They do not make up. He has a decade of his own and
-  he is not required to fold it into hers.**
+  he is not required to fold it into hers.** **`outline/ending.md` §5 puts him *at the gate when the ceiling comes
+  down*, and this outline does not move him into the nine days to make that exact, because ch 985 at day 3,173 is
+  the first chapter after the ninth day and is as close as Batch 0006 comes: he is not on the page during the fall,
+  and the fall is the loudest thing in the book and has no room in it for him.** Ch 988's *ceiling is off* is the
+  batch's last chapter and the hour after which nothing can put it back, not the morning the ceiling began to go.
+  **`outline/ending.md` is unrewritable and ch 985 stands; a later phase that reads §5 and wants to move him has to
+  record that it is moving ch 985, not silently re-derive the moment.**
 
 ## The courtyard
 
@@ -454,7 +460,7 @@ the last one and it is the only one that has to land.**
 | 0003 | 931–945 | 3,043–3,081 | **the apology** — a man who has never done this, doing it badly, three times | midpoint ch 938: the second attempt, which is also an entry, and he starts again · climax ch 944: **the apology that has no number on it** | **ch 945 — he stops being a thing that can apologise and she hears nothing, and the silence has a shape** |
 | 0004 | 946–960 | 3,084–3,122 | **the descent and the four hundred** — the loudest movement in the book, and it is people | midpoint ch 953: she asks the second one, out loud, in front of everybody · climax ch 960: **the four hundred** | **ch 960 — the four hundred said standing, the price of each on the record, the layer writes it, and it cannot be un-bound** |
 | 0005 | 961–975 | 3,125–3,163 | **the sentence** — she is alone and has to find nine words and it is the worst quiet in the book | midpoint ch 968: **she finds what the sentence has to be** · climax ch 975: **she says it** | **ch 975 — the sentence, spoken standing in the ordinary voice, and the fall begins and cannot be stopped** |
-| 0006 | 976–988 | 3,164–3,186 | **the fall** — nine days, no announcements, nobody dead | midpoint ch 982: the sixth day and the ground has changed under a whole county · climax ch 984: **the ninth day and nobody dead** | **ch 988 — the ceiling is off; there is no way to put it back and nobody in the world wants it back** |
+| 0006 | 976–988 | 3,164–3,186 | **the fall** — nine days, no announcements, nobody dead | midpoint ch 982: **the seventh day** and the ground has changed under a whole county · climax ch 984: **the ninth day and nobody dead** | **ch 988 — the ceiling is off; there is no way to put it back and nobody in the world wants it back** |
 | 0007 | 989–1000 | 3,190–9,800 | **the courtyard** — nineteen years, four hundred students, one brother, and a silence with a shape to it | midpoint ch 994: **the four hundred are a school** · climax ch 999: **the account, and nineteen years, and no sound** | **ch 1000 — she forgives him and it is housekeeping, and she goes back to teaching** |
 
 **No chapter range, no day, no batch title, no midpoint and no climax is moved by any later phase.** The day table
@@ -591,8 +597,9 @@ peak at ch 894** and `outline/series.md` §4's Last Ascension is ended rather th
   never returned to.** The room below it runs without her to the last bundle at ch 965 and not one day after.
 - **The descent.** Four miles down a mountain and then out of the bound's high country, on foot, in ch 946–951,
   with a lamp she cannot refill and an open arm and a body at the peak of the seventh realm. **The longest physical
-  movement in the book and the first time in four hundred and seventy-nine days that she has been anywhere for a
-  reason that was not the next day.**
+  movement in the book and the first time in seven hundred and eighty-three days that she has been anywhere for a
+  reason that was not the next day** — day 3,084 less the day 2,301 she has been in that room since, on the same
+  series the Batch 0001 prompt carries.
 - **Lowwater, and the courtyard above it.** The last forty chapters. A courtyard, a furnace, four hundred over the
   years, and a window with a sky behind it.
 - **The Nine Steps Terrace.** A bound-marker. **Rubble from the ninth day of the fall** (`outline/ending.md` §7).
@@ -697,6 +704,16 @@ who will say so out loud, and her watching it happen, and going back to teaching
 
 ## Construction budgets, measured by grep, the method named in the sentence with the number
 
+- **Per-chapter body prose, on method B (`grep -v '^#' <file> | wc -w`, per file, summed):** **no chapter under
+  1,450 and none over the house guide of 2,700.** The band is not invented: **Volume 15's sixty chapters, measured
+  the same way, run 1,455 to 2,178 and average 1,850**, and this volume carries no stage and no number, so there is
+  nothing here to inflate a chapter with. **A batch of fifteen lands between 26,000 and 28,000.**
+- **Two chapters are named short and are short on purpose, and neither may be padded back:** **ch 912 is four
+  minutes and lands near 900**, and **ch 930 is a refusal and a dissolving and is not allowed a minute of it that is
+  not the refusal.** Both are inside the band above on the strength of the other fourteen, and **a batch that lands
+  under 26,000 because of them is correct and does not need repairing** — a batch under 26,000 for any other reason
+  reports the shortfall in `state/current.md` in the same sentence as the number rather than padding a chapter.
+
 - **Bracketed layer lines: 8 in a hundred**, at ch 904 · 910 · 918 · 923 · 930 · 940 · 955 · 971, and **none after
   ch 971**. The last one in the manuscript is at ch 971 (D3).
 - `grep -oi scribe`: no more than **14 in the volume**, none before ch 903, never as a speaker, never with a motive,
@@ -707,7 +724,11 @@ who will say so out loud, and her watching it happen, and going back to teaching
 - `grep -oiw ledger`: **0.** **No clearance, seal or countersignature named or implied: 0 for all three.**
 - `grep -oi forgiv`: **1** (ch 1000). `grep -oi thank`: **0.** `grep -oi "the year"`: **at most 2**, ch 999–1000.
 - `grep -oiw nobody`: volume line of **thirty.** `grep -oiw eleven`: volume line of **forty**, and **the eleven at
-  ch 1000 is `outline/ending.md` §7 and is not a spend against the line.**
+  ch 1000 is `outline/ending.md` §7 and is not a spend against the line.** **Both lines are re-derived from the page
+  rather than inherited, because Volume 15 carried the same two numbers and did not keep to them: measured by
+  `grep -oiw` over ch 841–900, `nobody` is **42** against that volume's own line of thirty and `eleven` is **26**
+  against its line of forty.** Volume 16's thirty is therefore a deliberate tightening and is not an oversight, and
+  a batch that goes over it records the overage in `state/current.md` in the same sentence as the number.
 - Retired seven phrases: Volume 15 spent 1 of 3; **Volume 16 spends at most 1** and the other stays available to
   nothing, because there is nothing after it.
 - `grep -oi "twenty-two days"`: **0.** The stale county total *thirteen days* is not on the page as itself.
@@ -737,8 +758,16 @@ day, no step back.
 on a chapter, at 910 · 921 · 932 · 943 · 954 · 965. A bundle comes up nine hundred and four steps on every one of
 them. 3,134 at ch 965 is the last bundle in the world.**
 
+**Seven firsts land on a chapter up to and including the first day of the fall, and the seventh is 3,164 at ch 976.
+It is named here rather than left in the gap between two lists, because a reader counting firsts off this section
+found six and then one and could not account for it.** The fall section above fixes what is on that morning:
+**no bundle comes up nine hundred and four steps anywhere in the bound.** Six firsts in this volume carry a bundle
+and the seventh carries nothing, and it is the first thing anybody in the world knows has happened.
+
 **The first after the fall is 3,194 at ch 990, and it is the first month in nine hundred years with nothing on it at
-all, and it is the last time a chapter in this book is dated by the layer's calendar.**
+all, and it is the last time a chapter in this book is dated by the layer's calendar.** **Eight firsts land on a
+chapter in the volume: six with a bundle on it, one with nothing on it, and one after the layer's calendar has
+stopped being a calendar.**
 
 | Ch | Day | Month-day | Ch | Day | Month-day | Ch | Day | Month-day | Ch | Day | Month-day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -768,8 +797,10 @@ all, and it is the last time a chapter in this book is dated by the layer's cale
 | 924 | 3,023 | 10th | 949 | 3,093 | 20th | 974 | 3,160 | 27th | 999 | 9,436 | 3rd of 9,434 |
 | 925 | 3,026 | 13th | 950 | 3,096 | 23rd | 975 | 3,163 | **30th — SHE SAYS IT, THE FALL BEGINS** | 1000 | 9,800 | 7th of 9,794 |
 
-**The descent is ch 946–951: six chapters, thirty-nine days, four miles down a mountain and then out. No distance
-is stated and no height is stated.**
+**The descent is ch 946–951: six chapters, day 3,084 to day 3,099 — sixteen days counted inclusively and fifteen
+between the two dates, which is the same counting the nine days of the fall are counted in, so that ch 976 to ch
+984 is nine and not eight.** Four miles down a mountain and then out. No distance is stated and no height is
+stated.
 
 **Batch 0007 spans nineteen years in twelve chapters and no chapter may skip a year without saying so out loud in
 her own arithmetic.** Day 9,800 is six thousand eight hundred and forty days after day 2,960, which is nineteen
@@ -803,3 +834,40 @@ no later phase may treat any struck cell below as live.**
 7. **The volume-close audit of Volume 15 has not been written at the time of this plan.** If it repairs a figure on
    the page, it may repair a figure **in this outline's inherited state**, and **it may not move a chapter, a day, a
    batch title, a midpoint, a climax, a stage, a bracket or any element of `outline/ending.md`.**
+
+## Repairs made to this outline at its review, 15 Oct 2026 — no chapter, day, batch, midpoint or climax moved
+
+**Eight findings, all of them arithmetic or bookkeeping, all of them closed on the page. The plan's plot, its sequence
+and its authority over `outline/ending.md` are exactly what they were.** Recorded here because a later phase must be
+able to tell a correction from a re-plan.
+
+1. **The descent's length was wrong.** It read *six chapters, thirty-nine days*. The outline's own table gives ch
+   946 at day 3,084 and ch 951 at day 3,099: **sixteen days inclusive, fifteen between the dates.** Corrected at the
+   day table, with the counting named in the sentence so that ch 976–984 reads the same way.
+2. **The first-of-a-month list was short by one.** It gave six firsts up to the fall and then jumped to the first
+   after it, and never accounted for **3,164 at ch 976**, which is both the first of its month and day one of the
+   fall. **The fall section already fixed what is on that morning — no bundle comes up nine hundred and four steps
+   anywhere in the bound — and the day table already carries it as the first of 3,164.** The list now names it as the
+   seventh, says what is on it, and counts all eight firsts that land on a chapter in the volume.
+3. **The descent was also the only thing in the volume with no derivation.** `## Construction budgets` now carries the
+   per-chapter word band and derives it from Volume 15's measured sixty chapters (1,455 to 2,178, average 1,850),
+   and names the two chapters that are short on purpose.
+4. **The batch table called ch 982 the sixth day of the fall and the day table calls it the seventh.** Ch 976 is
+   day one at day 3,164 and one day is one chapter through the ninth day, so ch 982 at day 3,170 is the **seventh**.
+   The ordinal is corrected and **ch 982 stays the midpoint.**
+5. **The bracket budget did not add up across cards 0001–0003.** `outline/volume-16.md` D3 allocates eight
+   bracketed lines at ch 904 · 910 · 918 · 923 · 930 · 940 · 955 · 971, and **ch 918 falls inside Batch 0002** — a
+   chapter whose own day table spends it, while its power section permitted two. Cards 0001, 0002 and 0003 now
+   allocate 2 / 3 / 1 and the remaining two are assigned to ch 955 in Batch 0004 and ch 971 in Batch 0005, **which
+   sums to eight and puts the last line in the manuscript in the batch the outline says it is in.** No bracket moved.
+6. **`nobody` and `eleven` were inherited as unexamined ceilings.** Measured by `grep -oiw` over ch 841–900 they are
+   **42 and 26**, against Volume 15's own lines of thirty and forty. The Volume 16 line of thirty for `nobody` stands
+   and is now recorded as a deliberate tightening rather than an oversight, and a batch that goes over it has to
+   write the overage down beside the number.
+7. **Ning Wu's arrival is one day after the ninth day of the fall**, which is as close as Batch 0006 puts him to
+   `outline/ending.md` §5's *at the gate when the ceiling comes down*. That divergence is now named in the fall
+   section rather than left for a later phase to find and act on.
+8. **Cards 0004–0007 were never assigned to any phase**, although the dispatch chain is 0001 → 0002 → 0003 → 0004 and
+   each drafting phase writes only the next prompt. **The four cards are written at this repair**, out of this
+   outline's own batch table and day table, so that Batch 0004 has a card to draft against and no chain has to be
+   restarted by hand. **Writing a card filled a slot and moved nothing.**

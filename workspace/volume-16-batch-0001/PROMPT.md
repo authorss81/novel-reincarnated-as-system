@@ -9,11 +9,15 @@ workflow, agent or dispatcher file.**
 
 **Volume 15, *The Scribe*, ch 841–900, IS CLOSED ON THE PAGE.** Sixty chapters, days 2,781–2,960, **111,007 words
 of body prose on method B** (`grep -v '^#' <file> | wc -w` per file, summed), **average 1,850** — per batch 28,448 ·
-27,483 · 28,950 · 26,126. **Three bracketed layer lines in sixty, at ch 850, 866 and 876, and the volume's budget of
-three is spent.** Whole-word `Scribe` **6** in the volume against a line of twelve. Whole-word `court`, `ledger`,
-`ascendant`, `choir`, `forgiv`, `the year`, `thank`, `twenty-two days`, `nobody` and `eleven` **all 0**. **No stage
-and no tenth stage** — the peak of Immortal Vessel was shut at ch 894, and it is a finished vessel, not a step. **No
-frame scene anywhere in the volume.** Irreversible steps at ch 855 · 866 · 885 · 894.
+27,483 · 28,950 · 26,126, and the sixty chapters run 1,455 to 2,178. **Three bracketed layer lines in sixty, at ch 850,
+866 and 876, and the volume's budget of three is spent.** Whole-word `Scribe` **6** in the volume against a line of
+twelve. Whole-word `court`, `ledger`, `ascendant`, `choir`, `forgiv`, `the year`, `thank` and `twenty-two days`
+**all 0 across the whole volume.** **`nobody` and `eleven` are not 0 and this prompt does not claim they are:
+measured by `grep -oiw` over ch 841–900 they are 42 and 26, against Volume 15's own lines of thirty and forty. They
+are 0 only in ch 886–900, which is the batch those figures were measured on, and the thirty this batch inherits is a
+deliberate tightening, not a clean page.** **No stage and no tenth stage** — the peak of Immortal Vessel was shut at
+ch 894, and it is a finished vessel, not a step. **No frame scene anywhere in the volume.** Irreversible steps at
+ch 855 · 866 · 885 · 894.
 
 **`outline/volume-16.md` is this batch's authority and `outline/batches/volume-16-batch-0001.md` is its card.
 `outline/ending.md` is the authority for everything the volume spends. Where this prompt and either outline ever
@@ -160,7 +164,7 @@ chapter puts a bundle on any day but the first.**
 | 907 | 2,979 | 26th | Work out why he is telling her | He could not keep her out of his half if he tried | **HE SAYS HE IS SHOWING HER ON PURPOSE SO SHE CAN STOP HIM** | decision |
 | 908 | 2,982 | **29th — MIDPOINT** | Stop him, or not | She has stopped him twice and can do it again | **SHE DOES NOT STOP HIM, AND SAYS WHY, STANDING, IN THE ORDINARY VOICE** | reversal |
 | 909 | 2,983 | 30th | Sit with what she has done | Nine years of being the one who decides | She does not take it back and she does not sleep | cost |
-| 910 | 2,984 | **1st of 2,984** | Be somewhere when the bundle comes | Third first; she is eight flights up | The room runs without her and the layer says so once. **Bracket two** | cost |
+| 910 | 2,984 | **1st of 2,984** | Be somewhere when the bundle comes | First first of this volume; she is eight flights up | The room runs without her and the layer says so once. **Bracket two** | cost |
 | 911 | 2,987 | 4th | Get to the edge of it | Two days of silence and he is still there | He has been turning it and it comes out the same every time | earned hook |
 | 912 | 2,990 | **7th — CLIMAX, IRREVERSIBLE** | Cross the edge | Everything he said he wanted, in one place, for four minutes | **HE ACCEPTS. FOUR MINUTES. A YES IN THE CHANNEL THAT CANNOT BE UN-SAID** | irreversible |
 | 913 | 2,993 | 10th | Get through the day after | Four minutes over and nothing has happened | He is still there and so is she and it is worse | cost |
@@ -213,11 +217,20 @@ discovery, decision, reversal, or emotional consequence — never bed, arithmeti
 only in present tense. Felt emotion plus concrete want every chapter. Vary emotional temperature. No procedure loop:
 every chapter transforms the larger situation.**
 
+**Length, so that there is something to land against.** Per chapter, on method B (`grep -v '^#' <file> | wc -w`,
+per file, summed): **no chapter under 1,450 and none over the house guide of 2,700; the batch of fifteen lands
+between 26,000 and 28,000.** The band is Volume 15's, measured the same way — **its sixty chapters run 1,455 to 2,178
+and average 1,850** — and this volume carries no stage and no number, so there is nothing here to pad a chapter
+with. **One chapter is named short and is short on purpose: ch 912 is four minutes and lands near 900.** Fourteen at
+the band and one at nine hundred is about 26,800, which is inside the range, and **a chapter may not be lengthened
+to make up a short one.**
+
 **Do not re-explain known principles**, and **do not rebuild what Volume 15's reviews took out of fifteen chapters.**
 Concretely, in this batch:
 
-- **Openings must vary.** She has said her day's figures every morning since the eighth of the month beginning 2,864
-  and she does not recite them all fifteen times. **At most four of these fifteen chapters may open on the
+- **Openings must vary.** She has said her day's figures every morning since the first of the month beginning 2,864 —
+  and 2,864 is the first of its month, which is what `((day − 134) mod 30) + 1` gives, and not a day in the middle of
+  one — and she does not recite them all fifteen times. **At most four of these fifteen chapters may open on the
   figures**, and those four must not be consecutive.
 - **`She said` must not open more than about one paragraph in six.** In ch 871–885 it was 50 of 1,130.
 - **Do not write** `And here is the whole of what…`, `said plain`, `I am naming it because…`, `X finishes nothing,
@@ -244,10 +257,10 @@ one next-phase prompt this batch writes.
 
 **That next prompt is the whole of Batch 0002's job: ch 916–930, days 3,002–3,040, *the tax*, midpoint ch 923, the
 refusal and the dissolving at ch 930, irreversible, and the last bracketed line in the manuscript. It drafts against
-`outline/batches/volume-16-batch-0002.md`, which exists.** Batch 0003's card exists at
-`outline/batches/volume-16-batch-0003.md`. **Cards for Batches 0004–0007 are NOT written yet: they are outlined in
-`outline/volume-16.md` and a planning phase must write them before Batch 0004 is drafted. Do not draft Batch 0004
-from the volume outline's batch table alone, and do not create `workspace/volume-16-batch-0004/` without its card.**
+`outline/batches/volume-16-batch-0002.md`, which exists. All seven of Volume 16's cards are now on the page — 0001 ·
+0002 · 0003 · 0004 · 0005 · 0006 · 0007 in `outline/batches/`. The four the planning phase did not deliver were
+written at that phase's review, out of the outline's own batch table and day table, so that this chain does not stall
+on an empty slot at Batch 0004. Each drafting phase still writes only the next prompt and no further.**
 
 ## Checks before closing
 
@@ -263,3 +276,10 @@ the same shape; confirm the retired phrases are all zero; confirm **no frame sce
 `grep -n 'Chapter [0-9]' chapters/volume-16/` returns nothing and no sentence refers to a volume, a chapter or a page;
 confirm Volume 16's fixed inherited facts are untouched (the second place, the bar, the wear gap, the fair hand and
 the third hand, the bundle, the four months, the count, the ch 812 yes, the firsts).
+
+**Report the figures in the same sentence as the numbers, and do not report a figure the files do not carry:** the
+per-batch total and average on method B, the per-chapter list, the count of bracketed lines and where they are, and
+the whole-word counts of `court`, `ledger`, `ascendant`, `choir`, `forgiv`, `thank`, `the year`, `twenty-two days`,
+`scribe` and `Scribe`. **`nobody` and `eleven` are to be measured and reported as they come out, against a line of
+thirty and forty — Volume 15 came out at 42 and 26, and a batch that goes over the line writes the overage down
+beside the number rather than leaving a reader to find it.**

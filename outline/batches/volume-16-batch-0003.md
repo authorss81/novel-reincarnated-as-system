@@ -38,9 +38,10 @@ until Volume 16, paid in the last chapter.**
 
 He tries three times.
 
-**Attempt one (ch 934):** it has a number in it. Four hundred and seventy-nine days in a room; sixteen volumes; a
-figure at the head of her own column. He gets four sentences in and stops, because a number attached to an apology
-turns it into an entry, and he knows it, and he has been a clerk his whole existence.
+**Attempt one (ch 934):** it has a number in it. Seven hundred and forty-nine days in a room (day 3,050 less the
+day 2,301 she has been in it since); sixteen volumes; a figure at the head of her own column. He gets four sentences
+in and stops, because a number attached to an apology turns it into an entry, and he knows it, and he has been a
+clerk his whole existence.
 
 **Attempt two (ch 938):** it has none and it is worse. It is a list of things he did, in order, in the present
 tense, correctly, one of them on each day she can derive — and it is **an entry with the numbers taken out**, and
@@ -102,7 +103,7 @@ nineteen years and she has still not asked: what the announcements are made of, 
 | 931 | 3,043 | 30th of 3,014 | Find out whether he is still there | He is further away and not gone | She can hear him and cannot reach him | discovery |
 | 932 | 3,044 | **1st of 3,044** | Be somewhere on the first | Third first of this volume; the bundle comes up nine hundred and four steps | The bundle comes up nine hundred and four steps and nobody is in the room | cost |
 | 933 | 3,047 | 4th | Make him say it | He is in a wall and cannot hold a shape | He says he has to try three times and that is worse | earned hook |
-| 934 | 3,050 | 7th | Listen to the first attempt | Four hundred and seventy-nine days in it by the second sentence | **A number on it and he stops** | cost |
+| 934 | 3,050 | 7th | Listen to the first attempt | Seven hundred and forty-nine days in it by the second sentence | **A number on it and he stops** | cost |
 | 935 | 3,053 | 10th | Make him start again | Nineteen years of her saying everything out loud | She does not help him once | cost |
 | 936 | 3,056 | 13th | Sit with a man failing at a sentence | She has never watched him fail | The failing is visible and it is the most human thing in the book | emotional consequence |
 | 937 | 3,059 | 16th | Hear what he actually wants to say | He has been turning five mercies for a month | He does not know and drafts | discovery |
@@ -121,5 +122,6 @@ That she forgave him. **`forgiv` is 0 across ch 931–945 and the only one in th
 thanked anybody. That the apology was good. **It was not, and Batch 0004 must not have anybody on the page call it
 brave or moving or well done.** That the shape of the silence has been explained twice — it is said once, at ch 945,
 and never again. That the four months have been named between ch 873 and ch 1000. **They have not.** That the
-bracket budget is spent: Batch 0001 spent two, Batch 0002 spent two, Batch 0003 spent one, **five remain and
-Batch 0004 spends two, at ch 955 and one of the remaining three is the last line in the manuscript at ch 971.**
+bracket budget is spent: Batch 0001 spent two, Batch 0002 spent three, Batch 0003 spent one, **six of the volume's
+eight are gone and two remain — ch 955 in Batch 0004, and ch 971 in Batch 0005, which is the last bracketed line in
+the whole manuscript and the only one after ch 930.** Batch 0006 and Batch 0007 spend none.

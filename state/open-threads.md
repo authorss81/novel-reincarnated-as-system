@@ -4217,3 +4217,55 @@ the fifth one is where this will otherwise be discovered at the wrong moment.
 **This phase wrote no `.done` marker, created no phase-closure marker, cleared none, and created exactly one
 directory, `workspace/volume-16-batch-0001/`, which holds the one next-phase prompt.** Markers under `workspace/`
 are controller-owned. `state/phase-ledger.json` is controller-owned and was not touched.
+
+## VOLUME 16 PLANNED — REVIEW REPAIR, 15 Oct 2026. One thread closed, twelve figures fixed, and what stays open
+
+**Review of `next-0013`, the Volume 16 planning phase. Planning and state files only, no chapter prose, no plot
+moved.** Full record in `state/current.md` under *Volume 16 planning REVIEW REPAIR* and in `state/continuity.md`
+under *VOLUME 16 PLANNING — REVIEW REPAIR*.
+
+### The one open thread this repair closes
+
+**Cards for Volume 16 Batches 0004–0007.** The planning phase disclosed in four places that it had delivered three
+cards out of seven and left four to a phase that did not exist, because the chain is 0001 → 0002 → 0003 → 0004 and each
+drafting phase writes only the next prompt. **All four cards are now on the page** —
+`outline/batches/volume-16-batch-0004.md` *the descent and the four hundred* · `volume-16-batch-0005.md` *the
+sentence* · `volume-16-batch-0006.md` *the fall* · `volume-16-batch-0007.md` *the courtyard* — and every one of their
+day tables matches the outline's hundred-row table day for day, with all 100 printed ordinals re-derived under
+`((day − 134) mod 30) + 1`.
+
+**What the four cards add that no thread file had recorded:** the descent is **sixteen days, not thirty-nine** · the
+four hundred is reached at ch 960 with **the layer writing it and no one able to un-bind** · ch 965 is the **last
+bundle in the world** and the bearer is never told · the sentence is found by her, in her own arithmetic, and the
+layer's last act in the book is to obey it · the fall runs **nine days and nobody dies, not even in an offstage
+report** · **ch 989 is the first time she says out loud that the figures have run out, and no card may have her
+compute it twice** · ch 994 is where the four hundred become a school without anybody deciding it.
+
+### The twelve figures, and why a thread file has to carry them
+
+**Every one of these was an inherited number that did not reproduce.** They are listed here because the next four
+phases are drafting phases and will quote the figures rather than re-derive them: the descent's length **16 days**
+inclusive · the anchor at which she has said her figures **the first of the month beginning 2,864** · ch 910 is the
+**first** first of the volume and the third is ch 932 · **eight** firsts land on a chapter, six with a bundle, one
+with nothing at 3,164, one after the calendar stops · ch 982 is the **seventh** day of the fall · the bracket budget
+is **2 / 3 / 1 / 1 / 1** across Batches 0001–0005 with **none in Batches 0006 and 0007**, and ch 971 is the last
+bracketed line in the manuscript · the descent's *first time in … days* is **783** · the word band is **1,450–2,700
+per chapter against a batch of 26,000–28,000**, with ch 912 near 900 and ch 930 short on purpose.
+
+**And the ceiling that was inherited without being checked: `nobody` and `eleven` are 42 and 26 across Volume 15,
+not 0, against Volume 15's own lines of thirty and forty.** Volume 16's line of thirty for `nobody` stands and is
+**a deliberate tightening, not a clean page** — and a batch that goes over it writes the overage down beside the
+number instead of leaving a reader to find it.
+
+### What is still open, and is still refused
+
+**Nothing below was opened or closed by this repair.** The day she found the second place · the gap in the wear ·
+whether the fair hand and the third hand are the same hand · whether the Scribe was sincere · what happens to the
+Anchor once it is released · whether anything answers from beyond · whether Ning Wu forgives her · what the
+announcements are made of and who is left to refuse them · `his yes at ch 812, which stands and which she never
+learns`.
+
+**One new closed item to carry, not a new open thread: the divergence between `outline/ending.md` §5's *at the gate
+when the ceiling comes down* and the plan's ch 985, day 3,173 — one day after the ninth day.** `outline/ending.md` is
+unrewritable, **so this is now a recorded decision in `outline/volume-16.md`'s fall section rather than a question,
+and a later phase that wants him inside the nine days has to record that it is moving ch 985.**

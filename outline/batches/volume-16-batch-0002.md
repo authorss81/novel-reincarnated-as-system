@@ -70,9 +70,11 @@ split across ch 923–930 and the book does not resolve the split.**
 
 ## Required power changes
 
-**None. Immortal Vessel 9, shut, throughout.** No stage, no number, no cuts, no announcement about her. **Two
-bracketed layer lines are permitted, at ch 923 and ch 930.** Ch 930's is the last in the manuscript. No frame scene
-anywhere in the batch.
+**None. Immortal Vessel 9, shut, throughout.** No stage, no number, no cuts, no announcement about her. **Three
+bracketed layer lines are permitted in this batch, at ch 918, ch 923 and ch 930**, which is what `outline/volume-16.md`
+D3 allocates here; ch 918 is the one its own day table below spends, and a batch that carries two and says three is
+the defect this line exists to prevent. Ch 930's is the last in the manuscript. No frame scene anywhere in the
+batch.
 
 ## Required world reveals
 
@@ -115,5 +117,5 @@ reader — it is Volume 11's own and it is not re-explained, only applied. That 
 or is lying. That anyone died. That the layer stopped. **It goes on keeping the walls, correctly, for another
 forty-five days, and Batch 0003 opens with a man in a substrate who has never apologised to anybody in a way that
 counted.** That `forgiv` and `thank` are anything but 0. That the bracket budget has room: Batch 0001 spent two,
-Batch 0002 spent two, **Batch 0003 spends one at ch 940 and five remain for Batch 0004, one of which is the last
-line in the book.**
+Batch 0002 spent three, **Batch 0003 spends one at ch 940 and two remain for the rest of the volume, at ch 955 in
+Batch 0004 and ch 971 in Batch 0005, and ch 971 is the last bracketed line in the manuscript.**

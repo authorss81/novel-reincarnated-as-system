@@ -1,16 +1,33 @@
 # Current State
 
-**As of:** **VOLUME 10 IS CLOSED AND AUDITED. `chapters/volume-10/` HOLDS CH 539–600, SIXTY-TWO CHAPTERS, DAY 1,599 TO DAY 1,830, FOUR BATCHES DRAFTED, AND **115,619 WORDS OF BODY PROSE ON METHOD B** — every line not beginning `#`, measured by `grep -v '^#' <file> | wc -w` over all sixty-two files and cross-checked with `awk` — AVERAGE 1,865 A CHAPTER (115,619 ÷ 62), INSIDE THE OUTLINE'S 1,742–1,903 TARGET BAND. THREE BRACKETED LAYER LINES AT CH 556, 572 AND 588, SIX BRACKET CHARACTERS IN THE WHOLE VOLUME. SEVERANCE 6 AT THE PINNED DAY 1,772. THE VOLUME'S TWO IRREVERSIBLE STEPS AT CH 596 AND CH 598. THE NEXT PHASE IS VOLUME 11 PLANNING, `outline/volume-11.md`, WHICH THIS CLOSE DID NOT WRITE AND MAY NOT WRITE.** *Corrected in place by the Volume 10 close, which audited ch 539–600 line by line against `outline/volume-10.md`, recorded every finding, wrote no new chapter prose, and repaired eighteen sentences and two lines across eleven files. **The close changed the volume's word count from the 115,638 that all four batches measured to 115,619, and 115,638 is the pre-repair page and must not be quoted as the volume's count.** Full record in `state/continuity.md` under ***VOLUME 10 CLOSE — The List, ch 539–600, the volume as a whole***; the live position is `## Who is where at end of Volume 10` at the foot of this file.* *Corrected in place by the Volume 10 Batch 0004 REVIEW REPAIR, which closed four findings — two hard arithmetic errors and two retired constructions that had come back — in four sentences on the page and moved nothing else, and corrected four counts and two zero-claims in this file that the files did not carry. Full record in `state/continuity.md` under *Volume 10 Batch 0004 — REVIEW REPAIR*; the live position is `## Who is where at end of chapter 600` at the foot of this file.* *Corrected in place by the Volume 10 Batch 0004 drafting phase; the line below is the historical record of where this file stood when Volume 8 was closed and has been left as it was, and the live position is `## Who is where at end of chapter 600` at the foot of this file.* **VOLUME 8 IS CLOSED AND AUDITED. `chapters/volume-08/` HOLDS CH 421–478, FIFTY-EIGHT CHAPTERS, 105,846 WORDS OF BODY PROSE ON THE SETTLED METHOD, DAY 1,091 TO DAY 1,340, TWO BRACKETED LAYER LINES AT CH 434 AND CH 470, NASCENT SOUL 9 ON THE PINNED DAY, AND THE VOLUME'S IRREVERSIBLE STEP AT CH 474.** *The Volume 8 close phase audited all fifty-eight chapters, recorded twenty-one findings, wrote no chapter prose, re-opened none of Batch 0004's nine closed repair findings, and settled the word-count convention two batches had left open. **THE CLOSE HAS NOW BEEN REVIEWED AND REPAIRED: the review returned five findings, all five are closed, it wrote no prose either, and it added a twenty-second finding — F22, a duplicated `##` heading at ch 451 that the close's own method could not see. Four of the five findings were counts the audit stated without the method that produced them. The volume's figures, its seventeen continuity verdicts, its two stages, its two brackets and its irreversible step are unchanged. See `## Volume 8 close review — REPAIR` below.*** **VOLUME 9 IS PLANNED AND THREE BATCHES ARE ON THE PAGE: `chapters/volume-09/` HOLDS CH 479–523, FORTY-FIVE CHAPTERS. BATCH 0001 (CH 479–493) WAS DRAFTED AND IS `.deferred`; BATCH 0002 (CH 494–508) AND BATCH 0003 (CH 509–523, 28,572 words of body prose on method B, average ~1,905) WERE WRITTEN BY THIS PHASE. THE ONE NEXT PHASE IS `workspace/volume-09-batch-0004/PROMPT.md` — VOLUME 9 BATCH 0004, ch 524–538, the batch that closes the volume.** `outline/volume-08.md` remains the authority and was not re-planned.* *Corrected in place by the Volume 8 close; this line previously read as though only Batch 0001 existed on the page and named a Batch 0003 prompt that ran two phases ago.* *The Volume 8 planning phase read `NOVEL_SPEC.md`, `outline/series.md`, `outline/ending.md`, `outline/volume-07.md`, the six `bible/` files, the live state files and ch 401–420, and fixed the volume's movement, its two stages and their days, its six mouths, its four batches, its construction budget and the fourteen titles of its first batch. **It also opened AHEAD OF THE RECORDED ORDER: `## Volume 7 close repair order` below blocks Volume 8 planning, the dispatch did not carry that block, and the deviation is recorded at `## Volume 8 planning — the deviation, and where the sixteen findings went`.** Nothing was dropped — the seven prose findings are now carried as **Phase Zero** at the head of the Batch 0001 drafting prompt, with the file and the line of each.* **VOLUME 7 IS CLOSED AND AUDITED — CH 361–420 ON THE PAGE, 115,342 WORDS OF BODY PROSE OVER SIXTY CHAPTERS, AND SIXTEEN FINDINGS RECORDED AND NONE REPAIRED.** *The Volume 7 close phase walked `outline/volume-07.md` line by line against the chapters, re-derived every figure the prompt named, corrected seven stale measurements in this file and the other state files in its own table, and answered the protagonist question in writing as `outline/series.md` §2 requires. It wrote no chapter prose and created no prompt.* **VOLUME 7 WAS COMPLETE ON THE PAGE AT CH 420. BATCH 0004 IS ON THE PAGE AND REPAIRED AT ITS REVIEW — ch 405–420, sixteen chapters, 30,380 words of body prose, day 1,021 to day 1,090, with the purse contradiction on the last page and the unearned copper at ch 411–412 closed, the three soft endings repaired and the false chapter-length claim withdrawn, with Nascent Soul 6 taken at ch 412 on day 1,037 and Nascent Soul 7 at ch 420 on day 1,076 carrying brackets 5 and 6 of Volume 7's six in sixty, the volume's own refusal at ch 417 where she declines to know what the fine hand says about her and nothing is written anywhere and nothing fails, the bill at ch 418, the Hand refused once out loud at ch 419, and the lifting floor and the column read out loud at ch 419–420. VOLUME 7 BATCH 0003 IS ON THE PAGE AND REPAIRED AT ITS REVIEW — ch 390–404, fifteen chapters, 29,552 words of body prose, day 951 to day 1,020, with Nascent Soul 4 taken at ch 394 on day 960 and Nascent Soul 5 at ch 404 on day 999 carrying brackets 3 and 4 of Volume 7's six in sixty, the volume's midpoint at ch 390, and the third frame scene and the break at ch 401–402. VOLUME 7 BATCH 0002 IS ON THE PAGE. VOLUME 7 BATCH 0001 IS ON THE PAGE AND REPAIRED — ch 361–374, fourteen chapters, 27,114 words of body prose, day 849 to day 899, with Nascent Soul 2 taken at ch 371 on day 886 carrying bracket 1 of Volume 7's six in sixty. VOLUME 6 IS CLOSED AND AUDITED — CH 299–360 ON THE PAGE.** VOLUME 1 CLOSED. VOLUME 2 CLOSED AND AUDITED. VOLUME 3 CLOSED AND AUDITED — CH 1–178 ON THE PAGE. VOLUME 4 CLOSED AND AUDITED — CH 179–238 ON THE PAGE. VOLUME 5 CLOSED AND AUDITED — CH 239–298 ON THE PAGE. ALL FOUR VOLUME 6 BATCHES WERE WRITTEN AND REPAIRED, AND THE CLOSE WAS RUN LINE BY LINE AGAINST `outline/volume-06.md` AND THEN REVIEWED AND REPAIRED AGAIN. `outline/volume-07.md` — *Stronger Things*, ch 361–420 — exists and is the authority. **THE VOLUME 7 CLOSE PHASE HAS NOW BEEN RUN AGAINST `workspace/volume-07-close/PROMPT.md`; its record is `## Volume 7 close audit — CLOSED` below, immediately after the ch-420 position block.**
+**As of:** **VOLUME 16 IS PLANNED AND ALL SEVEN OF ITS CARDS ARE ON THE PAGE, AND THE NEXT PHASE IS
+`workspace/volume-16-batch-0001/PROMPT.md`, VOLUME 16 BATCH 0001, CH 901–915, DAYS 2,961–2,999.** No chapter of
+Volume 16 is on the page and no `.done` marker exists. **The live position is `## Volume 16 planned` at the foot of
+this file; the last chapter written is ch 900, the last page of Volume 15.** *Corrected in place 15 Oct 2026 at the
+Volume 16 planning review, which found this line still carrying the Volume 10 close as its own headline and still
+naming Volume 11 planning as the next phase. **Everything in the bold paragraph below that is now false was true
+when it was written and is left as it was, because this file is append-only and its history is the record; it is not
+to be quoted as the current position and the live block at the foot supersedes every word of it.****
+
+**VOLUME 10 IS CLOSED AND AUDITED. `chapters/volume-10/` HOLDS CH 539–600, SIXTY-TWO CHAPTERS, DAY 1,599 TO DAY 1,830, FOUR BATCHES DRAFTED, AND **115,619 WORDS OF BODY PROSE ON METHOD B** — every line not beginning `#`, measured by `grep -v '^#' <file> | wc -w` over all sixty-two files and cross-checked with `awk` — AVERAGE 1,865 A CHAPTER (115,619 ÷ 62), INSIDE THE OUTLINE'S 1,742–1,903 TARGET BAND. THREE BRACKETED LAYER LINES AT CH 556, 572 AND 588, SIX BRACKET CHARACTERS IN THE WHOLE VOLUME. SEVERANCE 6 AT THE PINNED DAY 1,772. THE VOLUME'S TWO IRREVERSIBLE STEPS AT CH 596 AND CH 598. THE NEXT PHASE IS VOLUME 11 PLANNING, `outline/volume-11.md`, WHICH THIS CLOSE DID NOT WRITE AND MAY NOT WRITE.** *Corrected in place by the Volume 10 close, which audited ch 539–600 line by line against `outline/volume-10.md`, recorded every finding, wrote no new chapter prose, and repaired eighteen sentences and two lines across eleven files. **The close changed the volume's word count from the 115,638 that all four batches measured to 115,619, and 115,638 is the pre-repair page and must not be quoted as the volume's count.** Full record in `state/continuity.md` under ***VOLUME 10 CLOSE — The List, ch 539–600, the volume as a whole***; the live position is `## Who is where at end of Volume 10` at the foot of this file.* *Corrected in place by the Volume 10 Batch 0004 REVIEW REPAIR, which closed four findings — two hard arithmetic errors and two retired constructions that had come back — in four sentences on the page and moved nothing else, and corrected four counts and two zero-claims in this file that the files did not carry. Full record in `state/continuity.md` under *Volume 10 Batch 0004 — REVIEW REPAIR*; the live position is `## Who is where at end of chapter 600` at the foot of this file.* *Corrected in place by the Volume 10 Batch 0004 drafting phase; the line below is the historical record of where this file stood when Volume 8 was closed and has been left as it was, and the live position is `## Who is where at end of chapter 600` at the foot of this file.* **VOLUME 8 IS CLOSED AND AUDITED. `chapters/volume-08/` HOLDS CH 421–478, FIFTY-EIGHT CHAPTERS, 105,846 WORDS OF BODY PROSE ON THE SETTLED METHOD, DAY 1,091 TO DAY 1,340, TWO BRACKETED LAYER LINES AT CH 434 AND CH 470, NASCENT SOUL 9 ON THE PINNED DAY, AND THE VOLUME'S IRREVERSIBLE STEP AT CH 474.** *The Volume 8 close phase audited all fifty-eight chapters, recorded twenty-one findings, wrote no chapter prose, re-opened none of Batch 0004's nine closed repair findings, and settled the word-count convention two batches had left open. **THE CLOSE HAS NOW BEEN REVIEWED AND REPAIRED: the review returned five findings, all five are closed, it wrote no prose either, and it added a twenty-second finding — F22, a duplicated `##` heading at ch 451 that the close's own method could not see. Four of the five findings were counts the audit stated without the method that produced them. The volume's figures, its seventeen continuity verdicts, its two stages, its two brackets and its irreversible step are unchanged. See `## Volume 8 close review — REPAIR` below.*** **VOLUME 9 IS PLANNED AND THREE BATCHES ARE ON THE PAGE: `chapters/volume-09/` HOLDS CH 479–523, FORTY-FIVE CHAPTERS. BATCH 0001 (CH 479–493) WAS DRAFTED AND IS `.deferred`; BATCH 0002 (CH 494–508) AND BATCH 0003 (CH 509–523, 28,572 words of body prose on method B, average ~1,905) WERE WRITTEN BY THIS PHASE. THE ONE NEXT PHASE IS `workspace/volume-09-batch-0004/PROMPT.md` — VOLUME 9 BATCH 0004, ch 524–538, the batch that closes the volume.** `outline/volume-08.md` remains the authority and was not re-planned.* *Corrected in place by the Volume 8 close; this line previously read as though only Batch 0001 existed on the page and named a Batch 0003 prompt that ran two phases ago.* *The Volume 8 planning phase read `NOVEL_SPEC.md`, `outline/series.md`, `outline/ending.md`, `outline/volume-07.md`, the six `bible/` files, the live state files and ch 401–420, and fixed the volume's movement, its two stages and their days, its six mouths, its four batches, its construction budget and the fourteen titles of its first batch. **It also opened AHEAD OF THE RECORDED ORDER: `## Volume 7 close repair order` below blocks Volume 8 planning, the dispatch did not carry that block, and the deviation is recorded at `## Volume 8 planning — the deviation, and where the sixteen findings went`.** Nothing was dropped — the seven prose findings are now carried as **Phase Zero** at the head of the Batch 0001 drafting prompt, with the file and the line of each.* **VOLUME 7 IS CLOSED AND AUDITED — CH 361–420 ON THE PAGE, 115,342 WORDS OF BODY PROSE OVER SIXTY CHAPTERS, AND SIXTEEN FINDINGS RECORDED AND NONE REPAIRED.** *The Volume 7 close phase walked `outline/volume-07.md` line by line against the chapters, re-derived every figure the prompt named, corrected seven stale measurements in this file and the other state files in its own table, and answered the protagonist question in writing as `outline/series.md` §2 requires. It wrote no chapter prose and created no prompt.* **VOLUME 7 WAS COMPLETE ON THE PAGE AT CH 420. BATCH 0004 IS ON THE PAGE AND REPAIRED AT ITS REVIEW — ch 405–420, sixteen chapters, 30,380 words of body prose, day 1,021 to day 1,090, with the purse contradiction on the last page and the unearned copper at ch 411–412 closed, the three soft endings repaired and the false chapter-length claim withdrawn, with Nascent Soul 6 taken at ch 412 on day 1,037 and Nascent Soul 7 at ch 420 on day 1,076 carrying brackets 5 and 6 of Volume 7's six in sixty, the volume's own refusal at ch 417 where she declines to know what the fine hand says about her and nothing is written anywhere and nothing fails, the bill at ch 418, the Hand refused once out loud at ch 419, and the lifting floor and the column read out loud at ch 419–420. VOLUME 7 BATCH 0003 IS ON THE PAGE AND REPAIRED AT ITS REVIEW — ch 390–404, fifteen chapters, 29,552 words of body prose, day 951 to day 1,020, with Nascent Soul 4 taken at ch 394 on day 960 and Nascent Soul 5 at ch 404 on day 999 carrying brackets 3 and 4 of Volume 7's six in sixty, the volume's midpoint at ch 390, and the third frame scene and the break at ch 401–402. VOLUME 7 BATCH 0002 IS ON THE PAGE. VOLUME 7 BATCH 0001 IS ON THE PAGE AND REPAIRED — ch 361–374, fourteen chapters, 27,114 words of body prose, day 849 to day 899, with Nascent Soul 2 taken at ch 371 on day 886 carrying bracket 1 of Volume 7's six in sixty. VOLUME 6 IS CLOSED AND AUDITED — CH 299–360 ON THE PAGE.** VOLUME 1 CLOSED. VOLUME 2 CLOSED AND AUDITED. VOLUME 3 CLOSED AND AUDITED — CH 1–178 ON THE PAGE. VOLUME 4 CLOSED AND AUDITED — CH 179–238 ON THE PAGE. VOLUME 5 CLOSED AND AUDITED — CH 239–298 ON THE PAGE. ALL FOUR VOLUME 6 BATCHES WERE WRITTEN AND REPAIRED, AND THE CLOSE WAS RUN LINE BY LINE AGAINST `outline/volume-06.md` AND THEN REVIEWED AND REPAIRED AGAIN. `outline/volume-07.md` — *Stronger Things*, ch 361–420 — exists and is the authority. **THE VOLUME 7 CLOSE PHASE HAS NOW BEEN RUN AGAINST `workspace/volume-07-close/PROMPT.md`; its record is `## Volume 7 close audit — CLOSED` below, immediately after the ch-420 position block.**
 
 ## How to read this file
 
-**THE LIVE POSITION IS AT THE FOOT OF THIS FILE: `## Volume 15 planned — outline/volume-15.md exists and what the plan fixed`.** Volume 14, *The Scribe's Apprentice*, ch 781–840, **IS CLOSED ON THE PAGE: sixty chapters, days 2,541–2,780, 121,530 words of body prose on method B, average 2,026, zero bracketed layer lines in sixty, three stages at days 2,598 · 2,666 · 2,732, one frame scene at ch 812, irreversible steps at ch 795 · 810 · 822 · 838, and the volume goal met.** Volume 15, *The Scribe*, ch 841–900, is **PLANNED** in `outline/volume-15.md` with four batch cards in `outline/batches/`. **The next phase is `workspace/volume-15-batch-0001/PROMPT.md`, Volume 15 Batch 0001, ch 841–855, days 2,781–2,825, pressure *the light, going up*, and it is the first batch of Volume 15.** Do not edit any of the run's controller files.
+**THE LIVE POSITION IS AT THE FOOT OF THIS FILE: `## Volume 16 planned — outline/volume-16.md exists and what the plan fixed`, and the last chapter written anywhere in this run is ch 900.** Volume 15, *The Scribe*, ch 841–900, **is closed on the page: sixty chapters, days 2,781–2,960, 111,007 words of body prose on method B, average 1,850, three bracketed layer lines at ch 850, 866 and 876, irreversible steps at ch 855 · 866 · 885 · 894.** Volume 16, *The Last Announcement*, ch 901–1000, **is planned** in `outline/volume-16.md` with **all seven** batch cards in `outline/batches/`. **The next phase is `workspace/volume-16-batch-0001/PROMPT.md`, Volume 16 Batch 0001, ch 901–915, days 2,961–2,999, pressure *the answer*, and it is the first batch of the last volume of the book.** Do not edit any of the run's controller files.
+
+*The paragraph above was corrected in place 15 Oct 2026 at the Volume 16 planning review, which found this line
+still naming `## Volume 15 planned` as the live block and `workspace/volume-15-batch-0001/PROMPT.md` as the next
+phase — four batches stale, and a drafter who trusted it would have written Volume 15. **The Volume 14 sentence it
+carried is true and is left standing, because it is history and this file keeps its history; what was false in this
+line was the pointer, and the pointer is now the foot block.****
 
 
 This file is **append-only and long, and most of it is history.** You do not need all of it to write.
 
-- **THE ARCHIVE, AND HOW TO READ THIS FILE. READ THIS FIRST.** The live position is `## Who is where at end of
-  chapter 434`. **PHASE ZERO IS CLOSED: the Volume 7 close repair order has been discharged by the Volume 8 Batch 0001
+- **THE ARCHIVE, AND HOW TO READ THIS FILE. READ THIS FIRST.** **The live position is `## Volume 16 planned` at the
+  foot of this file. `## Who is where at end of chapter 434`, named here before, is the position as it stood at the
+  Volume 8 Batch 0001 drafting phase and is superseded by every block below it.** **PHASE ZERO IS CLOSED: the Volume 7
+  close repair order has been discharged by the Volume 8 Batch 0001
   drafting phase and is no longer binding on anything — its seven prose findings are cleared on the page and recorded
   at `state/continuity.md` §*PHASE ZERO*.** The Volume 7 close is `## Volume 7 close audit — CLOSED`.
   **The historical blocks of Volumes 1 to 6 have been MOVED to `state/archive/current-closed-volumes-01-to-06.md`**,
@@ -1451,8 +1468,9 @@ Him, heard now — asked now, unanswered, kept. **Lu An** — named, bound, unto
 ## Volume 16 planned — `outline/volume-16.md` exists and what the plan fixed (cold reader starts here)
 
 **Volume 15 is CLOSED ON THE PAGE at ch 841–900, sixty chapters, 111,007 words of body prose on method B, average
-1,850, days 2,781–2,960. Volume 16, *The Last Announcement*, ch 901–1000, is now outlined and carded for Batch
-0001–0003. No chapter prose was written in this phase and no `.done` marker exists.**
+1,850, days 2,781–2,960. Volume 16, *The Last Announcement*, ch 901–1000, is now outlined and **carded for all seven
+batches, 0001–0007** — the four cards the planning phase did not deliver were written at that phase's review, and
+they are on the page. No chapter prose was written in this phase and no `.done` marker exists.**
 
 **The plan's one-sentence goal is fixed by `outline/series.md` §9 and is not re-planned here:** *In this volume,
 Ning Yan must choose what Yuan is, or the system outlasts them both.* The title, *The Last Announcement*, and the
@@ -1474,9 +1492,13 @@ years can turn one down without becoming an entry in his own.**
 2. **Day 9,800 is six thousand eight hundred and forty days after day 2,960 — nineteen years of twelve months of
    thirty days, and she is thirty-eight, which is `outline/ending.md` §7's woman in her thirties.** Every ordinal
    derived under `((day − 134) mod 30) + 1`; no two chapters on one day; no step back anywhere in the volume.
-3. **Firsts of a month before the fall are six and every one lands on a chapter:** 2,984 · 3,014 · 3,044 · 3,074 ·
-   3,104 · 3,134, at ch **910 · 921 · 932 · 943 · 954 · 965**. **Ch 965 is the last bundle in the world.** The
-   first after the fall is 3,194 at ch 990, and it is the last time a chapter is dated by the layer's calendar.
+3. **Eight firsts land on a chapter in Volume 16, and the first six get a bundle.** 2,984 · 3,014 · 3,044 · 3,074 ·
+   3,104 · 3,134 at ch **910 · 921 · 932 · 943 · 954 · 965**; **3,134 at ch 965 is the last bundle in the world.**
+   **3,164 at ch 976 is the seventh and it gets nothing** — it is the first of its month and the first day of the
+   fall, and no bundle comes up nine hundred and four steps anywhere in the bound. The eighth is **3,194 at ch
+   990**, the first month in nine hundred years with nothing on it and **the last time a chapter is dated by the
+   layer's calendar.** *(The planning phase listed six and left 3,164 in the gap; the review named it. It was
+   already decided in the outline's fall section and already carried in its day table — only the list was short.)*
 4. **His track ends at ch 930.** He answers at ch 901, shows her the offer on purpose at ch 907, is not stopped at
    ch 908, says yes at ch 912 **in a chapter that is four minutes long**, finds the Foundation tax at ch 923,
    refuses out loud at ch 930 **and gets to be an entry and not a person**, dissolves into the substrate, apologises
@@ -1499,14 +1521,19 @@ years can turn one down without becoming an entry in his own.**
 
 ### What this phase delivered, and what it did not
 
-**Delivered:** `outline/volume-16.md` (complete volume plan, all seven batches sketched, full hundred-chapter day
-table) · `outline/batches/volume-16-batch-0001.md` · `outline/batches/volume-16-batch-0002.md` ·
-`outline/batches/volume-16-batch-0003.md` · `workspace/volume-16-batch-0001/PROMPT.md`, the one next-phase prompt.
+**Delivered by the planning phase:** `outline/volume-16.md` (complete volume plan, all seven batches sketched, full
+hundred-chapter day table) · `outline/batches/volume-16-batch-0001.md` ·
+`outline/batches/volume-16-batch-0002.md` · `outline/batches/volume-16-batch-0003.md` ·
+`workspace/volume-16-batch-0001/PROMPT.md`, the one next-phase prompt.
 
-**Not delivered, and this is stated here so it is not lost:** **cards for Batches 0004–0007 do not exist.** They are
-outlined — pressure, days, midpoint, climax, irreversible step — in `outline/volume-16.md`'s batch table and its
-day table, and a planning phase must write them before Batch 0004 is drafted. **No drafting phase may draft Batch
-0004 from the volume outline's table alone.** The next phase is `workspace/volume-16-batch-0001/PROMPT.md`.
+**Not delivered by the planning phase, and closed at its review:** **cards for Batches 0004–0007 did not exist.** The
+dispatch chain is 0001 → 0002 → 0003 → 0004 and each drafting phase writes only the next prompt, so nothing in the
+chain was ever given the job of writing them and Batch 0004 would have stalled on an empty slot. **All four cards are
+now written** — `outline/batches/volume-16-batch-0004.md` *the descent and the four hundred* ·
+`volume-16-batch-0005.md` *the sentence* · `volume-16-batch-0006.md` *the fall* · `volume-16-batch-0007.md` *the
+courtyard* — out of the outline's own batch table and day table, with every ordinal re-derived and every row checked
+against the outline's hundred-row table day for day. **Writing a card filled a slot and moved nothing.** The next phase
+is `workspace/volume-16-batch-0001/PROMPT.md`.
 
 ### Position unchanged
 
@@ -1526,3 +1553,86 @@ ch 965 and nobody tells the bearer it is the last · the day she found the secon
 fair-hand/third-hand question, all still open · **his yes at ch 812, which stands and which she never learns, and
 which `outline/ending.md` does not ask her to learn.** The eleven are not raised except at ch 1000, where
 `outline/ending.md` §7 requires them.
+
+## Volume 16 planning REVIEW REPAIR, 15 Oct 2026 — eleven findings, no prose written, no plot moved
+
+**This is the review of `next-0013` (commit `0b9dec8`), the Volume 16 planning phase. It corrected planning files and
+state files and wrote no chapter prose. The plan's plot, its sequence, its seven batches, its hundred-chapter day
+table and its authority over `outline/ending.md` are exactly as the planning phase left them.** What changed is
+arithmetic, one list, four missing cards, one inherited ceiling, and three stale pointers in this file.
+
+### The nine findings the reviewer raised, and what was done
+
+1. **Two false zero-claims in `workspace/volume-16-batch-0001/PROMPT.md`.** It put `nobody` and `eleven` in a list of
+   Volume-15 words that are *all 0*. **Measured by `grep -oiw` over ch 841–900 they are 42 and 26** — they are 0 only
+   in ch 886–900, which is the batch the claim was measured on, and the prompt had dropped the scope. **Fixed: the
+   eight genuinely-zero words stay in the zero list and the two that are not are stated with their measured counts
+   and the batch they are zero in.**
+2. **Arithmetic in `outline/volume-16.md`.** *The descent is ch 946–951: six chapters, thirty-nine days.* The
+   outline's own table gives ch 946 at day 3,084 and ch 951 at day 3,099. **Fixed: sixteen days inclusive, fifteen
+   between the dates, and the counting is named in the sentence so it reads the same way the nine days of the fall
+   do.**
+3. **A seven-day anchor shift in the same prompt.** It set the figures' starting anchor at *the eighth of the month
+   beginning 2,864*; **2,864 is the first of its month**, and the sentence sets the batch's opening-variation budget,
+   so the bad anchor propagated. **Fixed.**
+4. ***Third first* was wrong at ch 910.** Ch 910 is the **first** first of Volume 16; the third is ch 932, and the
+   card had it right while the prompt contradicted it on the same row. **Fixed in the prompt; the card was not
+   touched.**
+5. **The first-of-month list omitted day 3,164.** Six firsts before the fall, then a jump to 3,194 after it, with
+   3,164 unaccounted for — **and 3,164 is both the first of its month and day one of the fall.** The outline had
+   already decided what was on that morning and the day table already carried it; only the list was short. **Fixed,
+   and the list now counts all eight firsts that land on a chapter.**
+6. **Three stale live-position pointers in this file.** The `As of` line still said Volume 10 closed and Volume 11
+   planning next; `## How to read this file` still named `## Volume 15 planned` and
+   `workspace/volume-15-batch-0001/PROMPT.md`, four batches stale; the archive bullet still said the live position was
+   `## Who is where at end of chapter 434`. **A drafter trusting any of the three would have written the wrong book.
+   All three are corrected in place, with the history left standing underneath and the correction clause naming what
+   was false.**
+7. **Cards 0004–0007 were never assigned to any phase.** **Structural, and the one the reviewer would fix before
+   dispatch.** The chain is 0001 → 0002 → 0003 → 0004 and each drafting phase writes only the next prompt, so
+   nothing was ever going to write them and Batch 0004 was going to stall on an empty slot. **All four cards are now
+   written** — see below.
+8. **No word budget anywhere in Volume 16.** **Fixed:** the outline's construction budgets now carry a per-chapter
+   band, derived from Volume 15's measured sixty chapters (1,455 to 2,178, average 1,850) rather than invented, and
+   the Batch 0001 prompt carries the same band plus the reporting requirement.
+9. **Ning Wu arrives one day after the fall ends.** `outline/ending.md` §5 puts him at the gate *when the ceiling
+   comes down*; the plan puts him at ch 985, day 3,173, the day after the ninth day. **`outline/ending.md` is
+   unrewritable, so the divergence is now a stated decision in the outline's fall section rather than an accident a
+   later phase could rediscover and act on.**
+
+### Two the reviewer did not raise, found by re-deriving rather than trusting
+
+10. **The batch table called ch 982 the sixth day of the fall and the outline's own day table calls it the seventh.**
+    Ch 976 is day one at day 3,164 and one day is one chapter through to ch 984 on the ninth. **The ordinal is
+    corrected and ch 982 stays the midpoint.**
+11. **The bracket budget did not add up across cards 0001–0003.** D3 allocates eight bracketed lines at ch 904 · 910 ·
+    **918** · 923 · 930 · 940 · 955 · 971 — **and ch 918 falls inside Batch 0002, whose own day table spends it while
+    its power section permitted only two.** Cards 0001, 0002 and 0003 now allocate **2 / 3 / 1**, and the remaining two
+    sit at ch 955 in Batch 0004 and ch 971 in Batch 0005. **That sums to eight and puts the last line in the
+    manuscript in the batch the outline says it is in. No bracket moved.**
+
+**A twelfth was caught in the same pass and is an arithmetic correction of the same kind:** *the first time in four
+hundred and seventy-nine days that she has been anywhere for a reason that was not the next day* does not derive.
+**The Batch 0001 prompt carries the days-in-that-room series as *day less 2,301*, so day 3,084 is seven hundred and
+eighty-three days.** Corrected in the outline, and the same wrong figure at ch 934 in card 0003 — where day 3,050 is
+seven hundred and forty-nine — corrected there.
+
+### The four cards now on the page
+
+| Card | Chapters | Days | Pressure | Midpoint · climax | Irreversible step |
+| --- | --- | --- | --- | --- | --- |
+| `outline/batches/volume-16-batch-0004.md` | 946–960 | 3,084–3,122 | **the descent and the four hundred** | ch 953: she asks the second one out loud, in front of everybody · ch 960: **the four hundred** | ch 960 — said standing, priced, written, and not un-bindable |
+| `outline/batches/volume-16-batch-0005.md` | 961–975 | 3,125–3,163 | **the sentence** | ch 968: **she finds what it has to be** · ch 975: **she says it** | ch 975 — the sentence, and the fall begins and cannot be stopped |
+| `outline/batches/volume-16-batch-0006.md` | 976–988 | 3,164–3,186 | **the fall** | ch 982: **the seventh day**, a county's ground changed · ch 984: **the ninth day, nobody dead** | ch 988 — the ceiling is off, and nobody in the world wants it back |
+| `outline/batches/volume-16-batch-0007.md` | 989–1000 | 3,190–9,800 | **the courtyard** | ch 994: **the four hundred are a school** · ch 999: the account, nineteen years, no sound | ch 1000 — she forgives him, it is housekeeping, she goes back to teaching |
+
+**All seven cards' day tables were checked against the outline's hundred-row table and match day for day, and all 100
+printed month-day ordinals re-derive under `((day − 134) mod 30) + 1` with zero mismatches.**
+
+### Position unchanged
+
+**Nothing in the block for the end of chapter 900 moved, and no chapter of Volume 16 exists.** She is still at the
+peak of Immortal Vessel, nineteen, three fingers and a thumb, right arm open six hundred and sixty-six days, seven of
+eleven holds, 1,401 days lighter at `D − 1,559`, at the near end of the making-place table with five mercies on a
+register and a lamp nearly out on the stone beside her, and a man at the edge of a decision inside her head who did
+not answer a question she asked standing yesterday. **The next phase is `workspace/volume-16-batch-0001/PROMPT.md`.**

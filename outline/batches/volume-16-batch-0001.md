@@ -132,6 +132,7 @@ it is real and nothing softens that. That *work that matters* has been defined. 
 Batch 0002's whole work and it is his discovery, not hers.** That the tax was mentioned. It has not been, and no
 card in ch 901–915 may put the word tax, the recruitment, or the eleven in anybody's mouth. That the Scribe is
 hostile, or is lying, or has a motive, or has been named as a speaker. That the bracket budget is spent — Batch
-0001 spends two of the volume's eight and Batch 0002 spends two and no card may spend a third. That the boy has
-been told what is on him. He has not. That she has forgiven anybody, thanked anybody, or said the year. `forgiv`
-and `thank` are both 0 across ch 901–915 and `thank` is 0 across the whole volume.
+0001 spends two of the volume's eight, at ch 904 and ch 910, Batch 0002 spends three at ch 918, 923 and 930, and
+**no card in ch 901–915 may spend a third.** That the boy has been told what is on him. He has not. That she has
+forgiven anybody, thanked anybody, or said the year. `forgiv` and `thank` are both 0 across ch 901–915 and `thank`
+is 0 across the whole volume.

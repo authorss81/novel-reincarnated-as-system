@@ -2572,3 +2572,76 @@ conditions in any of them. A lamp on the stone with the oil nearly out of it and
 **And a question asked yesterday that was not answered, which she did not fill and did not let go of.**
 
 **She is the wire and not the voice. He is heard, answered at last, and about to be the reason the book ends.**
+
+## VOLUME 16 PLANNING — REVIEW REPAIR, 15 Oct 2026. The nine findings, and the three found alongside them
+
+**Review of `next-0013`, the Volume 16 planning phase. Planning and state files only; no chapter prose was
+written, no chapter of Volume 16 exists, and no plot was moved.** Full record in `state/current.md` under
+*Volume 16 planning REVIEW REPAIR*; the live position is unchanged and is `## Who is where at end of chapter 900`.
+
+**The rule this repair followed: re-derive, do not trust.** Every figure in the review was measured again against the
+files before anything was edited, and three defects the review did not name were found by the same method. **The
+method matters more than the findings: `grep -oiw` is case-insensitive and whole-word, and a case-sensitive count
+under-reports by a third on this manuscript — `nobody` is 42, not the 32 a case-sensitive regex returns.**
+
+| # | Defect | Was | Now |
+| --- | --- | --- | --- |
+| 1 | `nobody` and `eleven` put in a list of Volume-15 words that are *all 0* | 0 | **42 and 26** across ch 841–900; 0 only in ch 886–900 |
+| 2 | The descent's length | *six chapters, thirty-nine days* | **sixteen days inclusive** (day 3,084 → 3,099), fifteen between |
+| 3 | The figures' starting anchor | *the eighth of the month beginning 2,864* | **the first of the month beginning 2,864** — which is what the month rule gives |
+| 4 | Ch 910 labelled | *Third first* | **First first of the volume**; the third is ch 932 |
+| 5 | The first-of-month list | six before the fall, then a jump to 3,194 | **eight firsts counted, with 3,164 named as the seventh and the first with nothing on it** |
+| 6 | Three live-position pointers in `state/current.md` | Volume 10 closed · Volume 15 planned · ch 434 | **all three corrected in place, history kept underneath** |
+| 7 | Cards 0004–0007 | did not exist, and no phase was given the job | **all four written and checked against the outline's day table** |
+| 8 | Word budget | none anywhere in Volume 16 | **1,450–2,700 per chapter, derived from Volume 15's measured 1,455–2,178** |
+| 9 | Ning Wu at ch 985 vs `outline/ending.md` §5 | an accident | **a stated decision in the outline's fall section** |
+| 10 | Ch 982 labelled in the batch table | *the sixth day* | **the seventh day** — ch 976 is day one and one day is one chapter through ch 984 |
+| 11 | Bracket budget across cards 0001–0003 | 2 / 2 / 1 = five, with five "remaining" against a budget of eight | **2 / 3 / 1 = six, with two remaining at ch 955 and ch 971; eight in total** |
+| 12 | The descent's "first time in … days" | *four hundred and seventy-nine days* | **seven hundred and eighty-three** — day 3,084 less the day 2,301 the room series is measured from |
+
+### Why finding 11 was the most serious of the twelve
+
+`outline/volume-16.md` D3 allocates eight bracketed layer lines at **ch 904 · 910 · 918 · 923 · 930 · 940 · 955 ·
+971**. **Ch 918 is inside Batch 0002's chapter range, and card 0002's own day table spends a bracket on it — while
+its power section permitted only two, at ch 923 and ch 930.** So the outline's budget and the cards' budgets disagreed
+about a chapter that was already written into a card, and card 0003's closing arithmetic inherited the error and
+reported five remaining out of a budget of ten.
+
+**Cards 0001, 0002 and 0003 now allocate 2 / 3 / 1, the remaining two sit at ch 955 in Batch 0004 and ch 971 in
+Batch 0005, and the last bracketed line in the manuscript lands in the batch the outline says it lands in.** No
+bracket moved, and **the outline remains the authority: the cards were corrected to it, not the reverse.**
+
+### What this repair did not do
+
+**It did not move a chapter, a day, a batch title, a midpoint, a climax, a stage or a bracket. It did not alter
+`outline/ending.md`, which is unrewritable. It did not re-decide the sentence, the four hundred, the fall, the
+courtyard or the last chapter's five obligations. It did not create a `workspace/` directory other than the one next-
+phase prompt that already existed, and it wrote no `.done` marker.** Where `outline/ending.md` and the plan diverge —
+Ning Wu one day after the fall ends — **the divergence is now recorded as a decision rather than left to be found.**
+
+### The one thing a later phase must not re-open
+
+**The word-count band is measured, not invented, and it is not a target to be padded to.** Volume 15's sixty chapters
+run 1,455 to 2,178 and average 1,850 on method B. **Ch 912 is four minutes and lands near 900 and ch 930 is a
+refusal and is not padded; those two are short on purpose, and a batch that lands under 26,000 because of them is
+correct.** A batch under 26,000 for any other reason reports the shortfall beside the number.
+
+### Where two of the wrong figures came from — recorded so no later phase revives them
+
+**Four hundred and seventy-nine is a real and correct Volume 15 number.** `outline/batches/volume-15-batch-0001.md`
+gives 480 days in that room at day 2,781, **of which four hundred and seventy-nine were in the room she lived in**,
+and the same figure is carried in `outline/volume-15.md` at day 2,781 and at ch 848. **It measures a different span,
+in a different volume, about a room rather than about a mountain.** Volume 16's plan copied it into *the first time in
+four hundred and seventy-nine days that she has been anywhere for a reason that was not the next day*, where it
+does not derive. **The Volume 16 derivation is the room series the Batch 0001 prompt already carries: day less 2,301,
+so seven hundred and eighty-three at day 3,084 and seven hundred and forty-nine at day 3,050.**
+
+**The eighth of the month beginning 2,864 is also a real ordinal, and it is day 2,871.**
+`outline/batches/volume-15-batch-0003.md` opens Volume 15 Batch 0003 on day 2,871 with exactly that ordinal, and it
+is correct there. **The Batch 0001 prompt's sentence anchors on day 2,864, and 2,864 is the first of its month.**
+
+**Both defects have the same shape, and it is the shape worth remembering: not an invented figure but a real one in
+the wrong place.** A figure quoted from Volume 15's day table was read as Volume 16's; an ordinal quoted from a
+Volume 15 card was attached to a different day. **Neither can be caught by asking whether a number looks reasonable.
+Both are caught only by re-deriving, which is why this repair measured everything it touched and why the next four
+drafting phases must do the same with every figure they inherit.**
