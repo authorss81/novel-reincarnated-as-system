@@ -1085,8 +1085,12 @@ volume, Ning Yan must reach it, or the argument is never had.* Sixty chapters.
 
 **The volume runs days 2,781 to 2,960, one hundred and seventy-nine days, sixty chapters, no two chapters on one
 day and no step back anywhere.** Every month-day in the table is derived under `((day − 134) mod 30) + 1` and
-reproduces. Firsts of a month in the volume: **2,804 · 2,864 · 2,894 · 2,924 · 2,954**, five of them, and a
-bundle comes up the second stair on each one whether or not she is in the room to hear it.
+reproduces. Firsts of a month in the volume: **2,804 · 2,834 · 2,864 · 2,894 · 2,924 · 2,954**, six of them, and
+a bundle comes up the second stair on every one whether or not she is in the room to hear it. **Five land on a
+chapter — 850 · 869 · 879 · 889 · 898. 2,834 falls in the gap between ch 859 (2,833, the thirtieth) and ch 860
+(2,836, the third) and is landed by both, named once out loud at ch 859 and counted inside a figure of forty at
+ch 860.** That is the Volume 14 rule from 2,624 between ch 800 and ch 801, not a new one, and no chapter moves
+to make a first land on one.
 
 ### Where she is, unchanged, and what is added to her
 

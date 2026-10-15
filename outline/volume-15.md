@@ -187,7 +187,10 @@ and that somebody is not her and is not anybody she has met.** No card in Volume
 - **In the room, still working, with nobody in it:** the one at the table, standing, four hundred years, one
   hand, one look spent at ch 776, one column. **The room does not stop because she leaves it. The bundles
   come on the firsts of a month whether or not she is there to hear them.** Firsts inside Volume 15: **2,804
-  · 2,864 · 2,894 · 2,924 · 2,954**, and each one is a chapter.
+  · 2,834 · 2,864 · 2,894 · 2,924 · 2,954**, six of them. **Five of the six are chapters — 2,804 is ch 850,
+  2,864 is ch 869, 2,894 is ch 879, 2,924 is ch 889, 2,954 is ch 898. The sixth, 2,834, falls in the gap
+  between ch 859 and ch 860 and is landed by both**, named once and then counted inside a figure, on the rule
+  that 2,624 set between ch 800 and ch 801 in Volume 14.
 - **In-world date.** Day 2,781 opens ch 841, the eighth of the month beginning 2,774 — (2,781 − 134) = 2,647;
   2,647 mod 30 = 7; +1 = 8 — the day after ch 840 closed.
 
@@ -606,13 +609,18 @@ the first time in nineteen years.
 | 856 | 2,826 | 23rd of 2,804 | 876 | 2,886 | 23rd | 896 | 2,946 | 23rd — the bargain |
 | 857 | 2,829 | **26th — the bearer's name** | 877 | 2,889 | 26th | 897 | 2,951 | 28th — every part of it is a mercy |
 | 858 | 2,831 | 28th | 878 | 2,892 | **29th — THE ANCHOR** | 898 | 2,954 | **1st of 2,954** |
-| 859 | 2,833 | 30th | 879 | 2,894 | **1st of 2,894** | 899 | 2,957 | **4th — THE ARGUMENT** |
-| 860 | 2,836 | 3rd of 2,834 | 880 | 2,897 | 4th of 2,894 | 900 | 2,960 | **7th — she asks him** |
+| 859 | 2,833 | **30th — the first is tomorrow** | 879 | 2,894 | **1st of 2,894** | 899 | 2,957 | **4th — THE ARGUMENT** |
+| 860 | 2,836 | **3rd of 2,834 — the first is counted inside the figure** | 880 | 2,897 | 4th of 2,894 | 900 | 2,960 | **7th — she asks him** |
 
 **Sixty chapters, days 2,781 to 2,960, one hundred and seventy-nine days. No two chapters on one day, no
 step back, and every ordinal above derived under `((day − 134) mod 30) + 1` from day 134 the first of a
-month.** Firsts of a month in the volume: **2,804 · 2,864 · 2,894 · 2,924 · 2,954**, five of them, and a
-bundle comes up the second stair on each one whether or not she is in the room to hear it.
+month.** Firsts of a month in the volume: **2,804 · 2,834 · 2,864 · 2,894 · 2,924 · 2,954**, six of them, and a
+bundle comes up the second stair on every one of them whether or not she is in the room to hear it. **Five of
+the six land on a chapter — 850 · 869 · 879 · 889 · 898. The sixth, 2,834, falls in the gap between ch 859
+(2,833, the thirtieth) and ch 860 (2,836, the third) and is landed by both of them**, named once out loud at
+ch 859 and counted inside a figure of forty at ch 860. **That is the Volume 14 rule and it is not new here:
+2,624 fell in the gap between ch 800 and ch 801 and was landed by both.** The room does not wait for a chapter
+to be standing under it, and **no chapter moves to make a first land on one.**
 
 ## Corrections and things this outline does not decide
 
@@ -633,3 +641,35 @@ midpoint, and no later phase may treat any struck cell below as live.
    this volume does not pre-empt it.
 4. **No card may settle whether the Scribe was sincere, and no card may give it a motive, a face, a body, a
    room of its own or a name that anybody but her says out loud.**
+
+## Corrections recorded after the review of this outline
+
+**Recorded 15 Oct 2026, on the review of the Volume 15 planning phase.** **Nothing below moves a chapter, a
+day, a stage, a batch title, a midpoint or a climax, and no cell of the day table is struck.**
+
+1. **The firsts of a month in this volume are six, not five, and 2,834 was dropped from the list.** Under
+   `((day − 134) mod 30) + 1` the band 2,781–2,960 holds **2,804 · 2,834 · 2,864 · 2,894 · 2,924 · 2,954**.
+   The five-item list in *Where she is*, in the day-table note, in `state/current.md`, in
+   `state/continuity.md` and in `state/chapter-summaries.md` omitted 2,834, and the rule *each one is a
+   chapter* was true only because of the omission. **2,834 falls in the gap between ch 859 (2,833) and ch 860
+   (2,836).**
+
+   **It is landed by both chapters, on the Volume 14 rule, and the rule is the precedent and not a licence.**
+   Day 2,624 fell in the gap between ch 800 (2,623, the thirtieth) and ch 801 (2,631, the eighth) and was
+   landed by both — named once in about a count of forty at ch 801 and counted inside the figure of ten at
+   ch 800. The record of it is at `state/continuity.md` under *VOLUME 14 BATCH 0002*. **So: named once, out
+   loud, standing, at ch 859 on the thirtieth — the morning coming, and what a bundle is, and that she is not
+   going down for it — and counted inside a figure of forty at ch 860 on the third, without the date being
+   said a second time.** The bundle comes up that stair on 2,834 whether or not a chapter is standing under
+   it, and **no chapter moves to make a first land on one.**
+
+   **This must not read as ch 869.** Ch 869 is the room found still working with nobody in it, and she
+   discovers it. Ch 859–860 is a first **she named the day before and chose not to go down for**, which is a
+   colder act and a different one. **No card may merge them and no chapter may put the bundle on any day but
+   2,804, 2,834, 2,864, 2,894, 2,924 and 2,954.**
+
+2. **Every other figure this outline states was re-measured by that review and reproduces.** 121,530 words of
+   body prose on method B over Volume 14's sixty chapters, average 2,025.5; per batch 31,117 · 29,402 · 30,995
+   · 30,016. Zero bracketed layer lines in sixty. All sixty day-table rows parse, the table runs 2,781 → 2,960,
+   it is strictly increasing, and no two chapters fall on one day. Batch 0001's prompt table matches this day
+   table day for day, so **the next phase needs no change and the repair does not reach Batch 0001.**

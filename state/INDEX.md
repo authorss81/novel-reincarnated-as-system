@@ -301,3 +301,46 @@ not touched, and no phase-closure marker in `workspace/` was created or cleared.
 **The cold-start pointer in `state/current.md` under *How to read this file* was corrected in place**: it named
 *Who is where at end of chapter 765 — VOLUME 13 BATCH 0003* as the live position, which stopped being true when
 Volume 13 closed. It now names the Volume 15 planning block. **Nothing was deleted and no historical block moved.**
+
+---
+
+## ADDED 15 OCT 2026 — Volume 15 planning, REVIEW REPAIR
+
+**One new section, and six edits in place across four files.** `state/phase-ledger.json` is controller-owned and was
+not touched, **no phase-closure marker in `workspace/` was created or cleared**, nothing under
+`workspace/continuation/` was written, and **no new `workspace/volume-15-*` directory was created** — the next
+phase prompt belongs to the drafting phase.
+
+| Section | File | Read it for |
+| --- | --- | --- |
+| `## VOLUME 15 PLANNING — REVIEW REPAIR` | `state/continuity.md`, at the foot | The four findings, the Volume 14 precedent that settles the first of them, the re-measured table, and what was deliberately not acted on |
+
+**The one finding that mattered was a first of the month deleted from the calendar.** The band 2,781–2,960 holds
+**six** firsts under `((day − 134) mod 30) + 1`, not five: **2,804 · 2,834 · 2,864 · 2,894 · 2,924 · 2,954**. The
+plan listed five and dropped 2,834, and the rule printed beside the list held only because of the drop.
+**2,834 falls in the gap between ch 859 and ch 860 and is now landed by both chapters** — named once out loud at
+ch 859, which is the thirtieth, and counted inside a figure of forty at ch 860, which is the third. **That rule is
+Volume 14's own**: 2,624 fell in the gap between ch 800 and ch 801 and was landed by both.
+
+**Five files carried the five-item list and all five now carry six.** `outline/volume-15.md` (twice, plus a new
+*Corrections recorded after the review of this outline*), `outline/batches/volume-15-batch-0002.md` (the day table,
+a standing note above it, and a sixth required world reveal), `state/current.md`, `state/continuity.md`,
+`state/chapter-summaries.md`.
+
+**A stale present-tense claim was corrected in `state/open-threads.md`.** Its *Phase closure markers* row said
+`workspace/volume-14-batch-0004/` still held four markers the controller cleared in commit `d0f4683`, and that no
+state file claimed the phase closed — which the same commit's own `state/current.md` does. The row now names what
+was wrong and carries the standing rule: **markers under `workspace/` are controller-owned, and a state file
+records only what it can see on disk and never asserts that a phase is open.** **The past-tense record of the same
+event in `state/continuity.md` under *VOLUME 14 BATCH 0004 — REVIEW REPAIR* was left alone, because a past-tense
+record of a superseded state is not the defect.**
+
+**`state/book-metadata.md` gained the three entries it was missing** — Volume 13, Volume 14 and Volume 15 — with
+every figure re-measured at the repair rather than copied: **Volume 13 is 118,951 words of body prose on method B
+over sixty chapters at average 1,983, per batch 29,923 · 30,152 · 31,000 · 27,876; Volume 14 is 121,530 at average
+2,026, per batch 31,117 · 29,402 · 30,995 · 30,016.** The file's missing entries for Volumes 1, 10 and 11 are
+recorded in the file rather than passed over.
+
+**Nothing in the day table moved.** Sixty rows, 2,781 → 2,960, strictly increasing, no two chapters on one day,
+all four cards and the Batch 0001 prompt day-for-day identical to the outline. **Batch 0001's band holds exactly
+one first, at ch 850, so `workspace/volume-15-batch-0001/PROMPT.md` needs no change and was not touched.**

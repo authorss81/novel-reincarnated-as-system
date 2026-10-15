@@ -353,8 +353,13 @@ ch 812, irreversible steps at 795 · 810 · 822 · 838.**
 | 0004 | 886–900 | 2,916–2,960 | the bargain | 891, the ninth is not finished and a container with nothing in it is not a container | 899, the argument is had and she does not win it | **894, the peak, and one person bound, said out loud first** |
 
 **Fixed and not to be re-derived by any card:** days 2,781 to 2,960, sixty chapters, no two on one day and no
-step back, every ordinal under `((day − 134) mod 30) + 1`. Firsts of a month: **2,804 · 2,864 · 2,894 · 2,924 ·
-2,954**. **The peak of Immortal Vessel at ch 894, day 2,939, two hundred and seven days after the ninth at
+step back, every ordinal under `((day − 134) mod 30) + 1`. Firsts of a month: **2,804 · 2,834 · 2,864 · 2,894 ·
+2,924 · 2,954**, six of them. **Five land on a chapter — 850 · 869 · 879 · 889 · 898. 2,834 falls in the gap
+between ch 859 (2,833) and ch 860 (2,836) and is landed by both**: named once out loud at ch 859, which is the
+thirtieth, and counted inside a figure of forty at ch 860, which is the third. That is the Volume 14 rule from
+2,624 between ch 800 and ch 801, and **no chapter moves to make a first land on one.** *(The five-item list this
+block carried before the review of 15 Oct 2026 omitted 2,834 and is struck.)* **The peak of Immortal Vessel at
+ch 894, day 2,939, two hundred and seven days after the ninth at
 2,732** — not a tenth stage, and its cost, named once, is that she cannot finish the ninth without a person in
 her arithmetic. **Nobody dies in Volume 15.** **Merit settles once, at ch 884.** **Three bracketed lines in sixty,
 none after ch 885.**

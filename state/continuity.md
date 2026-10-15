@@ -1735,9 +1735,13 @@ stages at days 2,598 · 2,666 · 2,732. One frame scene, ch 812. Irreversible st
    for that stair and none may.** This is the plan's own defence against a figure with no derivation.
 3. **The cells at ch 848.** Every room has a kept place at the far side and nobody in any of them. **Her room is
    not a room, it is one of hundreds.**
-4. **The first of a month at 2,804, at ch 850, with her nine landings above it.** The room runs without her. Five
-   firsts inside Volume 15 — **2,804 · 2,864 · 2,894 · 2,924 · 2,954** — and a bundle comes up the second stair on
-   every one of them.
+4. **The first of a month at 2,804, at ch 850, with her nine landings above it.** The room runs without her.
+   **Six** firsts inside Volume 15 — **2,804 · 2,834 · 2,864 · 2,894 · 2,924 · 2,954** — and a bundle comes up
+   the second stair on every one of them. **Five land on a chapter: 850 · 869 · 879 · 889 · 898. 2,834 falls
+   in the gap between ch 859 and ch 860 and is landed by both**, named once at ch 859 and counted inside a
+   figure of forty at ch 860, on the rule 2,624 set between ch 800 and ch 801 in Volume 14. **The five-item
+   list this item carried before the review of 15 Oct 2026 omitted 2,834 and is struck; the rule that each
+   first is a chapter was true only because of the omission and is struck with it.**
 5. **The address at ch 863**, `outline/series.md` §7 milestone 8, spent once, by the only mechanism available: a
    fragment is carried by its layer and the layer's only instrument in the world is the Chosen One.
 6. **Announcement at ch 866, taken on purpose and not asked for.** Cost named once: **he can be anywhere but
@@ -1812,3 +1816,110 @@ table's ch 829–834 correction is Volume 14's and Volume 15 does not quote any 
 written, the seventh of the month beginning 2,744, day 2,750, is Volume 14's and is not restated. **The male-lead
 deviation is recorded and stands and is not re-opened by this plan.** Phase-closure markers in
 `workspace/volume-14-batch-0004/` are the controller's and were not touched.
+
+---
+
+## VOLUME 15 PLANNING — REVIEW REPAIR
+
+**Recorded 15 Oct 2026, on the review of the Volume 15 planning phase.** **No chapter prose exists in Volume 15 and
+none was written. Nothing below moves a chapter, a day, a stage, a batch title, a midpoint or a climax, and no cell
+of the day table is struck. Four findings; one was real and propagating, one was a stale state claim, one was a
+standing gap in a state file, and one is an observation this repair deliberately did not act on.**
+
+### 1. A first of the month had been deleted from the calendar — CLOSED
+
+**Under the volume's own formula `((day − 134) mod 30) + 1` the band 2,781–2,960 holds SIX firsts, not five:
+2,804 · 2,834 · 2,864 · 2,894 · 2,924 · 2,954.** The plan listed five and dropped **2,834**, and the rule printed
+beside the list — *each one is a chapter* — was true only because of the omission. Five files carried the error:
+`outline/volume-15.md` twice, `state/current.md`, this file, and `state/chapter-summaries.md`.
+
+**2,834 falls in the gap between ch 859 (2,833, the thirtieth) and ch 860 (2,836, the third).**
+
+**It is landed by both chapters, and the rule that does it is not new and not invented here. Volume 14 already set
+it:** day **2,624** fell in the gap between **ch 800** (2,623, the thirtieth) and **ch 801** (2,631, the eighth) and
+was landed by both — *named once in about a count of forty at ch 801 and counted inside the figure of ten at ch
+800*. The record of that is above, under *VOLUME 14 BATCH 0002*, and `outline/volume-14.md` Corrections item six
+carries the same sentence. **So the manuscript's own precedent is not "every first is a chapter". It is "a first
+may come between two chapters, and the room does not wait for a chapter to be standing under it."**
+
+**What ch 859 and ch 860 now carry.** Ch 859, the thirtieth: **the first is tomorrow, and she names it out loud,
+standing, and says she is not going down for it.** Ch 860, the third: **the first is behind her and is counted
+inside a figure of forty, and the date is not said a second time.** The card carries both, carries the Volume 14
+precedent by name, and carries the standing prohibition: **no chapter in Batch 0002 may move to make a first land
+on one, and no chapter may put a bundle on any day but 2,834 and 2,864.**
+
+**And it must not read as ch 869.** Ch 869 is the room found still working at the bottom of the tower with nobody
+in it, and she discovers that. Ch 859–860 is a first **she named the day before and chose not to go down for**,
+which is a colder act and a different one. **The card says so, because three bundle chapters in one batch with two
+of them identical is how a batch turns into a refrain.**
+
+**What the repair did NOT do.** It did not move a chapter, and it specifically did not put ch 860 on 2,834. That
+was the reviewer's first suggestion and it is worse on the page: it would have handed Batch 0002 a third
+first-of-a-month chapter in a band that already has one at ch 869, and a chapter whose whole content is *get above
+the ninth* would have become the morning the room runs without her for the second time in fifteen chapters.
+
+### 2. A state file claimed markers the controller had already cleared — CLOSED
+
+`state/open-threads.md` carried a row asserting that `workspace/volume-14-batch-0004/` **still held** `.deferred`,
+`.wip-conflict`, `.attempts` and `.retry-after`, and that no state file claimed the phase closed. **Both halves
+were wrong.** Commit `d0f4683`, immediately before the planning phase, renamed `.deferred` to `.done` and deleted
+the other three; the directory holds `.done` and `PROMPT.md` and nothing else, and that same commit's
+`state/current.md` declares Volume 14 closed on the page. The row is corrected in place and the struck text is
+named so a reader can see what changed.
+
+**The standing rule the corrected row carries: markers under `workspace/` are controller-owned, no writer or
+repair phase writes or clears one, and a state file records only what it can see on disk and never asserts that a
+phase is open.**
+
+**The matching paragraph in this file, under *VOLUME 14 BATCH 0004 — REVIEW REPAIR* §4, is past tense and is left
+alone.** It says *this file said CLOSED ON THE PAGE while the directory still carried* — which was true when it was
+written and is a correct historical record. **A past-tense record of a superseded state is not the defect Finding 2
+was about. The present-tense claim in `open-threads.md` was.**
+
+### 3. `state/book-metadata.md` understated the manuscript by three volumes — CLOSED
+
+The file stopped at Volume 12. **Entries for Volume 13, Volume 14 and Volume 15 are added at the foot, and every
+figure in them was re-measured at the repair rather than copied from a neighbouring state file.** Measured with
+the documented command, `for f in chapters/volume-N/*.md; do grep -v '^#' "$f" | wc -w; done | paste -sd+ | bc`:
+
+| Volume | Chapters | Files | Body prose, method B | Average | Per batch |
+| --- | --- | --- | --- | --- | --- |
+| 13 | 721–780 | 60 | **118,951** | **1,983** | 29,923 · 30,152 · **31,000** · 27,876 |
+| 14 | 781–840 | 60 | **121,530** | **2,026** | 31,117 · 29,402 · 30,995 · 30,016 |
+
+**Volume 13's Batch 0003 is 31,000 and not 30,988.** The close repair added twelve words at ch 762 and moved the
+volume from 118,939 to 118,951; the new entry says so and strikes 30,988, because three state files carry the
+correct figure and one habit of quoting an old one is how 30,988 got back into circulation. **Both volumes measured
+zero bracketed layer lines across all sixty chapters each**, confirmed by grep on `^\[`.
+
+**The file also has no entry for Volume 1, Volume 10 or Volume 11**, which are closed and audited. That gap is
+pre-existing, was outside the finding and outside this repair, and **is now written down in the file rather than
+left for the next reader to discover.**
+
+### 4. Two prompts reading as the next phase — NOT ACTED ON, DELIBERATELY
+
+`workspace/continuation/next-0012/PROMPT.md` and `workspace/volume-15-batch-0001/PROMPT.md` both read as the next
+phase. **next-0012 is the generic dispatcher prompt and is consumed input, not a competitor; the run's own
+`## How to read this file` pointer in `state/current.md` names `workspace/volume-15-batch-0001/PROMPT.md`, and
+that pointer is correct.** **Nothing under `workspace/continuation/` is controller-owned fiction, outline, state or
+prompt and this repair wrote none of it.** The observation is recorded here and **the next phase must create exactly
+one prompt, `workspace/volume-15-batch-0002/PROMPT.md`, and nothing else.**
+
+### Re-measured after the repair, and it reproduces
+
+| Check | Result |
+| --- | --- |
+| Day table rows parsed | **60**, ch 841–900, no gaps |
+| Span | **2,781 → 2,960** |
+| Strictly increasing | **yes — no step back anywhere** |
+| Two chapters on one day | **no** |
+| True firsts in band | **six** — 2,804 · 2,834 · 2,864 · 2,894 · 2,924 · 2,954 |
+| Firsts landing on a chapter | **five** — ch 850 · 869 · 879 · 889 · 898 |
+| Firsts landing between chapters | **one** — 2,834, between ch 859 and ch 860, landed by both |
+| Batch 0001–0004 cards against the outline | **day for day, no disagreement** |
+| `workspace/volume-15-batch-0001/PROMPT.md` against the outline | **day for day, no disagreement** |
+| Batch 0001 band 2,781–2,825 | **holds exactly one first, at ch 850 — the next phase needs no change** |
+
+**The one hundred and seventy-nine days is the elapsed difference, 2,960 less 2,781, and the inclusive span is one
+hundred and eighty. Volume 14's own record uses the elapsed difference in the same way and the review of this plan
+found no fault in it, so it stands.**

@@ -71,6 +71,9 @@ and it must be the plainest thing in the chapter.**
    she does the arithmetic in her mouth instead of on a board.
 5. That the room at the bottom of the tower is still being worked, at ch 869, on a first of a month, with
    nobody in it.
+6. **That a first of a month came up that stair at 2,834 while she was under the building and she did not go
+   down for it** — named the day before at ch 859, counted inside a figure at ch 860. **She knows the boards
+   went up. She does not know what was on them and does not go and find out.**
 
 ## Open questions after the batch
 
@@ -80,13 +83,25 @@ batch does not ask, because she is the one who works things out: what the ceilin
 
 ## The day table — every ordinal derived under `((day − 134) mod 30) + 1`
 
+**THE ONE FIRST OF A MONTH IN THIS BAND THAT IS NOT A CHAPTER.** Days 2,826–2,870 hold two firsts: **2,834**
+and **2,864**. **2,864 is ch 869. 2,834 falls in the gap between ch 859 and ch 860 and is landed by both** —
+named once, out loud, standing, at ch 859, which is the thirtieth; counted inside a figure of forty at ch 860,
+which is the third, and the date is not said a second time. **That is the Volume 14 rule and it is precedent:
+2,624 fell in the gap between ch 800 and ch 801 and was landed by both.** The bundle comes up that stair on
+2,834 whether or not a chapter is standing under it, **no chapter in this batch may move to make it land on
+one, and no chapter may put a bundle on any day but 2,834 and 2,864.**
+
+**And ch 859–860 is not ch 869.** Ch 869 is the room found still working with nobody in it, and she finds
+that out. Ch 859–860 is a first **she named the day before and chose not to go down for**, which is colder
+and is a different act. Do not merge them and do not let either one repeat the other.
+
 | Ch | Day | Month-day | Immediate goal | Resistance | What changes | Ending type |
 | --- | --- | --- | --- | --- | --- | --- |
 | 856 | 2,826 | 23rd of 2,804 | Get on with the stair | The lamp and the cold coming up out of the stone | She goes up in the dark rather than carry a light she cannot refill | cost |
 | 857 | 2,829 | **26th — THE BEARER'S NAME** | Keep going | She has never spoken to a person in this building who was not the boy | **She asks his name and he says it**, and she says the arithmetic out loud instead of writing it | emotional consequence |
 | 858 | 2,831 | 28th | Find out what he has been doing for four hundred years | He has never been asked and does not have the answer in a form | He has been paid out of a forearm, and he knew, and he said no to it once | revelation |
-| 859 | 2,833 | 30th | Go on up | The landings are the same and she is getting slower | The stair is the same all the way and that is worse than different | discovery |
-| 860 | 2,836 | 3rd of 2,834 | Get above the ninth | The lamp | She is above the ninth and the building goes on | earned hook |
+| 859 | 2,833 | **30th — the first is tomorrow, and she names it** | Go on up | The landings are the same and she is getting slower | The stair is the same all the way and that is worse than different, and she says out loud that the bundle comes at the first and that she is not going down for it | decision |
+| 860 | 2,836 | **3rd of 2,834 — the first is counted inside the figure** | Get above the ninth | The lamp, and forty boards that went up in the dark above her head while she was under it | She is above the ninth, the first is behind her, and the building goes on | earned hook |
 | 861 | 2,839 | 6th | Work out whether anything is above the cells | Four hundred years of a building nobody has climbed | Something is, and it is not a room like the others | discovery |
 | 862 | 2,841 | 8th | Get to it | She cannot see it | She gets close enough to hear the announcements start | earned hook |
 | 863 | 2,843 | **10th — MIDPOINT, THE ADDRESS** | Find out what that is | She has one instrument in her head and it is also him | **THE SCRIBE ADDRESSES HIM AND SHE HEARS IT HAPPEN** | revelation |
