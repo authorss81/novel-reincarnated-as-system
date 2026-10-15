@@ -4712,3 +4712,27 @@ line of 40, over by twenty-one and recorded rather than repaired; `nobody` still
 still measures 2, both the offer, at ch 905 and ch 924; `forgiv` is still 1 at ch 1000 and 0 for her brother; the eight
 bracketed lines are still eight with the last at ch 971; and the two openings-contract and calendar findings above stand
 as written. **The run is still over.**
+
+---
+
+## STANDING BAN — no Volume 17, and no phase after the closing declaration. Added 15 Oct 2026 by `workspace/continuation/next-0016`.
+
+**This is not a thread. It is the one rule a phase dispatched after this one has to obey before it reads anything else.**
+
+**The manuscript is finished.** `chapters/` holds ch 0001–1000 with no gap and no duplicate, `outline/series.md` fixes
+the book in its third line at **1000 chapters across 16 volumes**, and `outline/ending.md` §7 fixes the final chapter
+image, which is on the page at ch 1000. **No phase may write `outline/volume-17.md`, a ch 1001, a Volume 17 batch card,
+an epilogue, or a coda.** The continuation prompt that dispatched this phase says *if the current volume is complete,
+plan the next volume*, and that instruction is wrong here in a way a phase must not obey: **the complete volume is the
+last volume in the plan, so there is nothing to plan.** Writing a Volume 17 would also raise the guard's planned end and
+make `scripts/completion_guard.py` exit 1 on a manuscript that currently passes it.
+
+**What is left in this repository, in order, and it is four steps and then nothing.** `workspace/closing/PROMPT.md` is
+the declaration and is the next phase selected — the runner recognises it, writes `state/complete.md`, and runs no model.
+`retire_obsolete_phases` then retires every pending phase, including the sixteen `workspace/continuation/` directories
+this run accumulated. The workflow seeds `workspace/postface/synopsis/`, which writes `state/synopsis.md` and creates no
+phase after it. `epub.yml` publishes once `state/complete.md` and `state/synopsis.md` both exist.
+
+**Nothing in this file's register changes.** Every thread above is still exactly where the series close left it, and
+every one of them is open because the book decided it should be. **The run is over, and this is the file that says so
+last.**

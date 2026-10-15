@@ -500,3 +500,33 @@ purpose.
 **Nothing was created after this commit that the chain should run.** No ch 1001, no Volume 17, no `outline/volume-17.md`,
 no second prompt, no `state/phase-ledger.json`, no `.done`, no `.blocked`, no `.retry-after`, no `.retired`, and nothing
 under `scripts/`, `.github/workflows/` or `.opencode/agent/`.
+
+---
+
+## Added 15 Oct 2026 — the completion declaration, by `workspace/continuation/next-0016`
+
+**The run had already written the series close record and the book was already finished; what was missing was the one
+line the machinery reads.** The Volume 16 close told the next phase to write no further prompt, which stopped the prose
+and not the chain, so the controller's fallback seeded a sixteenth continuation and dispatched it with *if the current
+volume is complete, plan the next volume*. The current volume is complete **and it is the last volume in the plan**, so
+the answer is that there is no Volume 17 to plan. Planning one would also have raised `scripts/completion_guard.py`'s
+planned end and flipped a passing completion to a refusal.
+
+**This phase wrote `workspace/closing/PROMPT.md` and nothing else of substance. That is the one next-phase prompt.**
+
+| What | Where | Read it for |
+| --- | --- | --- |
+| **THE CHAIN'S LAST GAP IS NOW CLOSED** | `state/current.md`, last block | the verification by measurement — 1,000 files, 1,881,197 words, guard exit 0, ch 1000 against `outline/ending.md` §7 — and why a Volume 17 would break the book three ways |
+| **THE COMPLETION DECLARATION** | `state/continuity.md`, last block | every figure with its method in the same row, the defect this phase was dispatched into, and what was deliberately not written |
+| **STANDING BAN — no Volume 17, and no phase after the closing declaration** | `state/open-threads.md`, last block | the one rule a phase dispatched after this one reads first, and the four steps from here to the EPUB |
+
+**The four steps, and they are the end of it:** the runner recognises `workspace/closing/PROMPT.md` as a declaration and
+writes `state/complete.md` **without running a model**; `retire_obsolete_phases` retires all sixteen `continuation/`
+directories and every other pending phase; the workflow seeds `workspace/postface/synopsis/`, which writes
+`state/synopsis.md` and creates no phase after it; `epub.yml` builds and publishes. **`workspace/closing` sorts first of
+every `PROMPT.md` under `workspace/`, so the declaration is the next phase selected.**
+
+**Re-measured, not quoted: 1,000 chapter files and 1,881,197 body words reproduce the series close exactly; Volume 16 is
+185,481 over 100 chapters at average 1,855; Volumes 13, 14 and 15 reproduce at 118,951, 121,530 and 111,007; zero
+chapters are under 200 body words; ch 981–1000 hold no bracketed line and the last in the manuscript is still ch 971.**
+No chapter was touched, no controller file was touched, and `outline/ending.md` is unchanged.

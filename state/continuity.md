@@ -4148,3 +4148,55 @@ ch 1001, no `outline/volume-17.md`, no second prompt, no `state/phase-ledger.jso
 `.retry-after`, no `.retired`. `outline/ending.md` is untouched.** Every construction budget above was re-measured after
 the repair rather than assumed, and the one figure that moved — the over-ninety count — moved because a measurement had
 been counting a seam, and is corrected in all four places that carried it with the old value left standing beside the new.
+
+---
+
+## THE COMPLETION DECLARATION, 15 Oct 2026 — what was measured, and why the run ends at `workspace/closing/`
+
+**Written by the phase dispatched as `workspace/continuation/next-0016`, which was the last of sixteen continuation
+prompts this run accumulated. It wrote no chapter prose, planned no volume, and moved no figure in the manuscript.**
+
+### The measurements, each with its method named beside it
+
+| What | Figure | Method |
+| --- | --- | --- |
+| Chapter files | **1,000** | `find chapters -name 'chapter-*.md' \| wc -l`. No gap, no duplicate, ch 0001–1000 |
+| Manuscript body prose | **1,881,197 words** | every line not beginning `#`, per file, summed: `grep -v '^#' <file> \| wc -w` |
+| Volumes | **16** | one directory per volume under `chapters/`, holding 58/60/60/60/60/62/60/58/60/62/60/60/60/60/60/100 |
+| Volume 16 | **185,481 words over 100 chapters**, average 1,855 | same method, `chapters/volume-16/chapter-*.md` |
+| Volumes 13 / 14 / 15 | **118,951 / 121,530 / 111,007** | same method. All three reproduce their own published figures |
+| Stub check | **zero chapters under 200 body words** | same method, per file |
+| Bracketed lines, ch 981–1000 | **zero** | `grep -c '^\[' `, per file. The last in the manuscript remains ch 971 |
+| Completion guard | **exit 0** — `completion-guard: ok, 1000 chapters reaches planned 1000` | `python3 scripts/completion_guard.py` |
+
+**`outline/series.md` third line: *Planned length: 1000 chapters across 16 volumes. Chapter ranges below are the
+authority for `scripts/completion_guard.py`*.** Its §9 table ends at Volume 16, ch 901–1000. `NOVEL_SPEC.md` says the
+same. `outline/ending.md` §7 fixes the final chapter image and it is on the page. **There is no Volume 17 in the plan
+and none may be written.**
+
+### The defect this phase was dispatched into
+
+`ensure_next_phase` in `scripts/novel_runner.sh` seeds a generic continuation whenever a phase finishes and no next
+prompt was written. **The Volume 16 close prompt instructed the next phase to write no further prompt — correct about
+prose, and wrong about the machinery**, because with nothing to select the fallback seeded `continuation/next-0016`
+instead of the completion path. Sixteen such directories accumulated across the run.
+
+**The pipeline already had the terminal step and nothing had used it.** `declare_completion_from_prompt` recognises a
+declaration from a phase prompt, gates it on `scripts/completion_guard.py`, writes `state/complete.md` itself and
+**exits before any model runs**. With that file present, `retire_obsolete_phases` retires every pending phase, and the
+workflow's seed step creates the single post-completion phase `workspace/postface/synopsis/`, which writes
+`state/synopsis.md` and creates no phase after it. `epub.yml` builds on both files.
+
+### What was written
+
+**`workspace/closing/PROMPT.md`, and it is the one next-phase prompt.** Its two gates were checked against the runner's
+own patterns before it was relied on: `grep -qiE 'this phase (verifies|records|declares)|…|write nothing'` matches, and
+`grep -qiE 'manuscript (is|has) (finished|complete)|…'` matches, and `grep -qiE '^retired[.:]'` does not, and
+`scripts/completion_guard.py` exits 0. **`workspace/closing` sorts first of every `PROMPT.md` under `workspace/`**, so it
+is the next phase selected ahead of the sixteen continuation directories.
+
+**What is deliberately not here.** No Volume 17, no `outline/volume-17.md`, no batch card, no ch 1001, no epilogue, no
+coda, no `state/phase-ledger.json`, no `.done`, `.blocked`, `.retry-after` or `.retired` marker, and nothing touched
+under `scripts/`, `.github/workflows/`, `.opencode/agent/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`,
+`OUTLINE_GUIDE.md` or `opencode.json`. **Every figure above is a re-measurement, not a quotation, and every one of them
+reproduced.**

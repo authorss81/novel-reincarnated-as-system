@@ -2098,3 +2098,50 @@ budget was re-measured after the repair rather than assumed.
 section heading moved. No beat moved and the planned plot is untouched: no ch 1001, no Volume 17, no
 `outline/volume-17.md`, no second prompt, no `state/phase-ledger.json`, no `.done`, no `.blocked`, no `.retry-after`, no
 `.retired`, and nothing touched under `scripts/`, `.github/workflows/` or `.opencode/agent/`. The book is down.**
+
+---
+
+## THE CHAIN'S LAST GAP IS NOW CLOSED — 15 Oct 2026, after `workspace/continuation/next-0016`. No prose, no plot, no figure moved.
+
+**This block exists for one reason: the run above stood the book down but never told the machinery it was down, so the
+controller kept seeding continuation prompts.** Sixteen of them were created over the run. The sixteenth, dispatched as
+`next-0016`, arrived at the standing instruction *if the current volume is complete, plan the next volume* — and the
+correct answer to that instruction is **no**, because the complete volume is the last one in the plan.
+
+**What was verified here, by measurement, with the method named beside each number.** Body prose is every line not
+beginning `#`, per file, summed (`grep -v '^#' <file> | wc -w`): **1,000 chapter files, 1,881,197 words**, which is the
+figure the series close published and it reproduces exactly. **Sixteen volumes, ch 1–1000, no gap and no duplicate;
+`find chapters -name 'chapter-*.md'` returns 1,000 and no chapter is under 200 body words.** Volume 16 is **185,481 words
+over 100 chapters**; Volumes 13, 14 and 15 are 118,951, 121,530 and 111,007, all three of which match their own published
+figures. **`python3 scripts/completion_guard.py` exits 0** — `completion-guard: ok, 1000 chapters reaches planned 1000` —
+which is the guard that refuses a completion the series plan does not support. `outline/series.md` fixes the length in
+its third line as **1000 chapters across 16 volumes** and its §9 table ends at Volume 16, ch 901–1000. `outline/ending.md`
+§7 fixes the final chapter image, and it is on the page: ch 1000 gives a courtyard above Lowwater, a woman of about
+thirty-eight standing in a ring of set stones where the furnace was, the stage-nine failure nobody announces, the Volume 1
+announcement spoken out loud for the first time in her life to an empty room, the shape of the silence named once in her
+own mouth, the forgiveness called housekeeping, and her going back to teaching.
+
+**There is no Volume 17, and planning one would have broken the book three ways.** It would contradict `NOVEL_SPEC.md`
+and `outline/series.md`; it would contradict `outline/ending.md`, which is fixed and was never rewritten by any phase of
+this run; and **it would flip `scripts/completion_guard.py` to exit 1**, because the guard reads its planned end out of
+the outlines and an `outline/volume-17.md` carrying `ch 1001–…` would raise that planned end above the last chapter on
+disk. A pipeline that believed 1,000 of 1,060 chapters was complete would resume a finished book.
+
+**The pipeline already had the right terminal step, and nothing had used it.** `scripts/novel_runner.sh` recognises a
+completion declaration from a phase prompt — it greps for an instruction to record completion and to write nothing, and
+for a statement that the manuscript is complete, then re-checks `completion_guard.py` and writes `state/complete.md`
+itself, **without running a model at all**. Once that file exists, `retire_obsolete_phases` retires every pending
+phase so no continuation can restart the book after its ending, and the workflow's seed step creates the single
+post-completion phase, `workspace/postface/synopsis/`, which writes `state/synopsis.md` and creates nothing after it.
+`epub.yml` builds and publishes once both files exist. **The series close prompt told the next phase to write no
+further prompt, which was right about prose and wrong about the machinery: with no prompt, the controller's fallback
+seeded `continuation/next-0016` instead, and the loop continued.**
+
+**What this phase did, and it is the whole of it: `workspace/closing/PROMPT.md` is written, and it is the one next-phase
+prompt.** It is the declaration itself, verified against both of the runner's own greps and against the guard before this
+block was written. **It sorts first of every `PROMPT.md` in `workspace/`** — `workspace/closing` precedes
+`workspace/continuation` — so it is the next phase selected, and the declaration is recorded on the following tick. From
+there the run ends at the synopsis and publishes. **No chapter prose, no Volume 17, no `outline/volume-17.md`, no batch
+card, no `state/phase-ledger.json`, no `.done`, `.blocked`, `.retry-after` or `.retired` marker, and nothing touched
+under `scripts/`, `.github/workflows/`, `.opencode/agent/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`,
+`OUTLINE_GUIDE.md` or `opencode.json`.**
