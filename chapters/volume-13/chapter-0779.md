@@ -24,7 +24,7 @@ She said, “And two thousand five hundred and thirty-five less two thousand thr
 
 ## The Bundle Against A Different Leg
 
-She had her arm into that bundle of papers three times in this building and never pulled it. It is under the far end of that long table and it is corded round twice and not knotted, and she had felt the cord on it in the dark on the seventh of the month beginning two thousand three hundred and twenty-four and again in the month beginning two thousand three hundred and fifty-four and again in the month beginning two thousand four hundred and forty-four.
+She had her arm into that bundle of papers three times in this building and never pulled it. It is under the far end of that long table and it is corded round twice and not knotted, and she had felt the cord on it in the dark on the seventh of the month beginning two thousand three hundred and twenty-four and again in the month beginning two thousand three hundred and fifty-four and again on the third of the month beginning two thousand four hundred and fourteen.
 
 On the second of the month beginning two thousand five hundred and thirty-four she got down on her hands and knees and went along the floor of that room on her hands and knees with her hand on the leg of the table until she found it, and the cord was under the second leg from the near end.
 
@@ -82,7 +82,7 @@ And she went back up the first four hundred and forty with her left hand on the 
 
 She stood four feet off the near end of that long table in the dark and she put her left hand flat on the near edge of it, which she can reach, and she could not see her own hand on it.
 
-She said out loud, standing, in the dark, at the near end of that table:
+She said out loud, standing in the dark four feet off the near end of that table, in the same place she had stood in six days before:
 
 “There is a strip of pale wood under this table a foot long and two inches across and there is a price at the head of it and a five in the column in my own hand and twelve pairs of cuts under that are empty.”
 

@@ -42,7 +42,9 @@ It is one stroke and a turn and it is a count and not a price, and it took a cou
 
 And the person at that table looked up.
 
-They had not looked up once since the sixth of the month beginning two thousand three hundred and twenty-four, and every day since then has been the same day over again with a figure on it. Not once on the eighteenth of the month beginning two thousand four hundred and forty-four when a hand came off the near edge and closed on her forearm at the wrist. Not once when she wrote a five on the twenty-second of that month with a nib under a table on the floor. Not once on the seventeenth of the month beginning two thousand four hundred and seventy-four when a head came down over a foot of pale wood on the top of that table.
+They had not looked up once since the sixth of the month beginning two thousand three hundred and twenty-four, and every day since then has been the same day over again with a figure on it.
+
+Not once on the eighteenth of the month beginning two thousand four hundred and forty-four when a hand came off the near edge and closed on her forearm at the wrist. Not once when she wrote a five on the twenty-second of that month with a nib under a table on the floor. Not once on the seventeenth of the month beginning two thousand four hundred and seventy-four when a head came down over a foot of pale wood on the top of that table.
 
 They looked up at her while she was kneeling on a shelf four feet off the floor with a board in front of her and a nib still on it.
 

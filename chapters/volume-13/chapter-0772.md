@@ -4,7 +4,7 @@ On the first of the month beginning two thousand five hundred and four, at the f
 
 ## Forty Things Coming Up That Stair
 
-The man came up the turn at the second hour with about forty boards under one arm and a bundle of papers in a cloth under the other, and he has been on that road a year, and he came out of the place in the wall behind the lamp's shelf and put them down and went back out without looking at anything.
+The man came up the turn at the second hour with about forty boards under one arm and a bundle of papers in a cloth under the other, and he has been on that road a year, and he came out of the place in the wall behind the lamp’s shelf and put them down and went back out without looking at anything.
 
 She stood four feet off the near end of that table and did not say one word.
 
@@ -24,7 +24,7 @@ She got a hand on the top board in the stack before the light came down that wal
 
 That is not a thing she is able to do anything about and she made herself go through all forty anyway, on her back under the middle of that table with a cross-beam across her shoulders, three fingers and a thumb on the edges of them, face up, flat, the way she has done since the second of the month beginning two thousand three hundred and twenty-four.
 
-She said out loud, lying on the flat of her back under that table with her arm open on the stone beside her:
+She said it out loud on the flat of her back under that table with her arm open on the stone beside her, and the whole of it came out in the same order it came out in last time, because there was nothing else in that room that would take it:
 
 “There are forty boards in this room and two of them have the same figure on them and one of those two has been in this building since the twelfth of the month beginning two thousand four hundred and forty-four and the other one was lying on the top of that table from the seventeenth of the month before.”
 
@@ -70,7 +70,7 @@ They said, “And I am not going to put a day in there on my own and have nothin
 
 They said the last of it in the same voice and at the same speed as the rest of it and it is the only thing anybody in this building has ever said to her that was about her:
 
-“If I put a name in that column then the figure you wrote in it stops being yours and becomes the column's. And the column will go on taking a day out of you every day at one hour and twelve minutes, the same as it has since the ninth hour of the twenty-fourth of the month beginning two thousand and fifty-four, and it will do that whether this room decides anything about it or not.”
+“If I put a name in that column then the figure you wrote in it stops being yours and becomes the column’s. And the column will go on taking a day out of you every day at one hour and twelve minutes, the same as it has since the ninth hour of the twenty-fourth of the month beginning two thousand and fifty-four, and it will do that whether this room decides anything about it or not.”
 
 They said, “A column is not a person. You can argue with a person.”
 

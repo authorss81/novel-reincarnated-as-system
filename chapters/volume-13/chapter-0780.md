@@ -114,7 +114,7 @@ She said, “There is a bar nine feet nine flat against the wall on the left of 
 
 She said, “There is a stub of a nib and a cake of ink against my fourth rib that has not been let dry since the seventh of the month beginning one thousand eight hundred and seventy-four.”
 
-She said, “There is a bundle of papers under the far end of that table corded round twice and not knotted and I have had my arm into it three times and never pulled it.”
+She said, “There is a bundle of papers under the far end of that table corded round twice and not knotted and I have had my arm into it five times and never pulled it.”
 
 She said, “There is a strip of pale wood on the floor under that table, a foot long and two inches across, with ten days, twenty-one hours and thirty-six minutes at the head of it and the same figure in the first pair of cuts under the head and five in the second pair, in my own hand, and twelve pairs of cuts under that are empty.”
 

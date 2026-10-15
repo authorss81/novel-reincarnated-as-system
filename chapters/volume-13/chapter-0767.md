@@ -34,7 +34,7 @@ She went over it three times that day with her hand on the edge of the table and
 
 A thing that is put in front of a hand, the hand reads. That is all it does. It does not become yours and it does not stop being what it was. You have not given it and you have not got it. You have put something where something else could look at it.
 
-A thing that is given is taken. It goes out of the giver's hands and into somebody else's and after that it is a different thing with a different person holding it.
+A thing that is given is taken. It goes out of the giver’s hands and into somebody else’s and after that it is a different thing with a different person holding it.
 
 She said it out loud, standing, in daylight, at the ninth hour of the thirteenth, and she said it slowly because it is the sentence the whole two days came to:
 
