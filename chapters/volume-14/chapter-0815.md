@@ -46,7 +46,7 @@ He said, “That is what you said to me.”
 
 She said, “Yes.”
 
-Her breath was at nine and it stayed at nine.
+Her breath stayed at nine for all of it.
 
 He said, “About a bundle.”
 
@@ -60,7 +60,7 @@ She said, “I built it so that nothing could be put in this room that I had not
 
 She said, “There is nothing in this room that has been put on me. There is a lamp and there are two nights and there is a boy who came up eight hundred and eighty steps on his own feet and was never asked to, and every one of the three things I say out loud about him is still true.”
 
-Her breath was at nine and it stayed at nine.
+It was at nine and it did not go up for him and it did not go up for her.
 
 She said, “And I am standing here in the fourth hundred day of it working out how a keeper is put together, and I have worked out four parts, and I have got three of them.”
 
@@ -68,7 +68,7 @@ She said, “I have got the first part. There is a thing in this room that is tr
 
 She said, “I have got the second part. I am standing at the near end of that table, four feet off it, at the time it is being made, every morning, and I have never once been late and I have never once done it from the far end.”
 
-She put her hand flat on the top of the table between the two speeches.
+She put her hand flat on the wood again and left it there while she said the next of it.
 
 She said, “I have got the third part, and it is a boy’s oil lamp and it came up eight hundred and eighty steps and not one person asked it to.”
 
@@ -76,13 +76,15 @@ She put her hand flat on the top of the table.
 
 She said, “And I have not got the fourth part and I am never going to get the fourth part, and it is not about a boy of sixteen at all and that is what I had to find out this morning.”
 
-She said, “The fourth part is that not one person sent anybody for it and not one person gave it to anybody and not one person can be asked for it twice. And I have been in this room four hundred days on my own feet, and I chose it, and I would choose it again, and I can stand here and say every one of those three things is true.”
+She said, “The fourth part is that nothing was sent for it and nothing was given to anybody to do it and nothing in the world can be asked for it twice. And I have got three of those four things. I came up that stair on my own feet and I chose it and I would choose it again and not one person has handed me anything to be in this room for.”
 
-She waited about a count of ninety.
+She took her hand off the wood and turned it over and put it back the other way up.
 
-She said, “And a woman who is in a room because she is in a room is not the same arrangement as a person who is in a room because nobody sent for them, and I know which of those two I am, and so does that column, and it has known since the fifth of the month beginning two thousand five hundred and ninety-four when I said a name out loud in front of a boy of sixteen in this room.”
+She said, “What I have not got is the difference between a thing that was never given to anybody and a thing that nobody has got round to giving to anybody yet. Those are the same thing until the first time somebody thinks of it.”
 
-She said, “That is the part that cannot be got. And I worked it out at this table on the eighteenth of this month and I wrote nothing against it, and it is the fourth part and it is the only one of the four that costs anything.”
+She said, “And I have stood four feet off this table for four hundred days and not one of those four hundred days has been the first time, and on the thirteenth of the month beginning two thousand six hundred and fifty-four a room with a column in it made out what I am where I stand, and it has known ever since, and there is nothing in that column that has to be given to me for it to know it.”
+
+She said, “That is the part that cannot be got. I worked it out at this table on the fourteenth of this month and I wrote nothing against it, and it is the fourth part and it is the only one of the four that costs anything.”
 
 ## The Part That Is Hers
 
@@ -94,15 +96,19 @@ She said, “I want that said in the ordinary voice where it exists and I am not
 
 She said, “For four hundred days I have stood four feet off the near end of this table and said every figure I have got out loud in the ordinary voice, and it has gone twenty-two paces into a room and hit nothing, and there is a stack of forty boards under the middle of this table with my handwriting on them and one fair hand under some of mine, and that is what a keeping looks like from the inside.”
 
-She put her hand flat on the top of the table between the two speeches.
+She squared that hand up against the grain of the table and did not move it again.
 
-She said, “The difference between what I am doing and a keeping is not the standing and it is not the voice and it is not the light. It is that no arrangement exists. Nothing in this building was ever written down about what I do at this table, so there is nothing anybody can ask me for a second time, and a room with a column in it cannot put a job on a woman who has not got one.”
+She said, “The difference between what I am doing and a keeping is not the standing and it is not the voice and it is not the light. It is that no arrangement was ever written down.”
 
-She said, “And the cost of the eighth stage was named out loud in this room on the thirteenth of the month beginning two thousand six hundred and fifty-four and it is not coming off, and I am not going to say it again tonight.”
+She said, “Nothing in this building was ever written down about what I do at this table, so there is nothing anybody can ask me for a second time, and a room with a column in it cannot put a job on a woman who has not got one.”
 
-She said, “I worked out on the thirteenth of that month, sitting here, that it does not stop me from reading and it does not cost me a thing I had. What it took was the other side.”
+She said, “That is the sentence I have been standing behind for nineteen years and I said it out loud this morning as though it were still standing.”
 
-She did not fill the count with anything.
+She said, “And the cost of the eighth stage was named out loud in this room on the thirteenth of the month beginning two thousand six hundred and fifty-four and it is not coming off, and I am not going to say it again today.”
+
+She said, “I worked out on the thirteenth of that month, standing here, that it does not stop me from reading and it does not cost me a thing I had. What it took was the other side.”
+
+The count of a hundred and forty went past with nothing in it.
 
 She said, “A wall. I built one in nineteen years out of one sentence a boy of sixteen found in five nights, and I built it to keep things out of this room, and a room with a column in it can now make out what I am where I stand and there is not one place in this building where I can stand that nothing in it can make out what I am.”
 
@@ -124,7 +130,7 @@ She said, “Here is the whole of it and there is no other version. A keeper sta
 
 She said, “And there is not one other piece of wood in this building with a figure of mine on it. Not one. It came up that stair in an armful on the first of the month beginning two thousand two hundred and ninety-four and it is a foot long and two inches across and there is no second copy of it anywhere on this mountain.”
 
-Her breath was at nine and it stayed at nine.
+Nine, and it held at nine, and the lamp went on doing a hand’s width of the wood while it did.
 
 She said, “On the ninth of the month beginning two thousand six hundred and fifty-four I carried it twenty-two paces in my left hand with the lamp in that same hand because I would not leave a figure of mine in the dark. And I cannot do that every morning and also stand where the saying is done, because I have two hands and one of them has three fingers and a thumb on it and the other one does not close.”
 

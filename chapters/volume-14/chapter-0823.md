@@ -54,7 +54,7 @@ She said, “I have said a no in this room and the room has not answered it and 
 
 ## What She Went Back To
 
-And then she went back to work, and she said that out loud too, because a woman who says something at the seventh hour and then goes and stands about a count of a hundred and forty doing nothing has done the thing she did on the tenth of the month beginning two thousand five hundred and fifty-four and got a hundred and forty counts of for nothing.
+And then she went back to work, and she said that out loud too, because a woman who says something at the seventh hour and then goes and stands about a count of a hundred and forty doing nothing has done the thing she did on the tenth of the month beginning two thousand six hundred and fifty-four and got a hundred and forty counts of for nothing.
 
 She said, “I said a no yesterday and it is said and it cannot be unsaid and I said that out loud as well, and I am not going to say one more word about it today. It is said. It is in the room. That is the whole of what happened to me yesterday and it is finished.”
 
@@ -66,7 +66,7 @@ She did not move while she was saying it.
 
 She said, “And there is a board beside it with a name on it in a third hand that has not gone back down that stair. And there is a third board beside that which says where a place is and says that it is not given to anybody.”
 
-She said, “And none of those three have moved in five days, and I did not move them, and the lamp goes a hand’s width along this table and no further, and the bar is against the wall on the left where it has been since before I came into this room, and the bundle under the far end has two turns in it and not a knot.”
+She said, “And none of those three have moved in five days, and I did not move them, and the lamp goes a hand’s width along this table and no further, and the bar is against the wall on the left where it has been since I came up that stair with it on my shoulder, and the bundle under the far end has two turns in it and not a knot.”
 
 She said, “That is the morning. That is all of it. That is what four hundred and eighteen days has produced and it is going to be produced again tomorrow at the seventh hour in the ordinary voice.”
 
@@ -78,11 +78,11 @@ She carried the lamp no distance at all, because they were lying a foot in from 
 
 She read the third hand’s board first and said it out loud, standing, in the ordinary voice: a name, one worn pair of cuts under it with nothing in them, and a column at the far end of the shelf with the same name in it stroke for stroke.
 
-She read the place board second and said it out loud, standing, in the ordinary voice, from the fifteenth pace to the seventeenth pace there is a place, it is not a seat, it is kept, it is not given to anybody, and it is kept by being there when the figures are said out loud.
+She read the place board second and said it out loud, standing, in the ordinary voice: between the twentieth pace and the end of it there is a place, it is not a seat, nobody has sat in it, it is kept, it has been kept for four hundred years, it is not given to anybody, and it is kept by being there when the figures are said out loud.
 
 And then she put two fingers on her own strip of pale wood and did not read it, because she can read that one without light and has been able to for nineteen years.
 
-She said, out loud, standing, in the ordinary voice:
+And she said it out loud, standing, in the ordinary voice, before she did anything else with the morning:
 
 “Three boards a foot long and two inches across lying side by side on the near end of this table. One of the three is mine and I have not said that out loud this morning and it is not going to surprise me that it is the one I read first every day.”
 
@@ -94,7 +94,7 @@ She said, “I have not worked out whether the fair hand and the third hand are 
 
 She said, “I have seen the fair hand nineteen times underneath my own arithmetic on boards in a stack under the middle of this table, and once at the end of a stroke on a board that came up nine hundred and four steps in the dark on the first of this month, and that is twenty times, and twenty times is still not enough to say a thing about a hand.”
 
-She said, “They could be the same. They are not the same size. The one that wrote the name is not the hand at the far end of this table and neither is the fair one and the two of them are not a hand I have seen write anything else in nineteen years.”
+She said, “They could be the same and I am not going to find out which. The one that wrote the name is not the hand at the far end of this table and neither is the fair one and neither of them is a hand I have watched write anything else in nineteen years.”
 
 The light went a hand’s width along the wood and stopped.
 
@@ -112,7 +112,7 @@ She stood there.
 
 She said, “There is a strip of pale wood and it has a price at the head of it and a column with a price at the head of it is a column of amounts. And a no is not an amount. And a board that came up that stair does not go back down it and there is no board in this building that has not been put on that table by somebody who was not me.”
 
-She said, “And a person can write on a leaf. That is the thing. A person can put a nib on a piece of paper and a thing that is not an amount can be on it, and I have not written on anything since I was nine years old.”
+She said, “And a person can write on a leaf. That is the thing. A person can put a nib on a piece of paper and a thing that is not an amount can be on it, and I have not written a sentence on anything since I was nine years old.”
 
 She put her left hand against her fourth rib, where a book of eight leaves has been against that rib for nineteen years, and five of those eight leaves are still blank, and she left her hand there for about a count of ninety and took it off again.
 

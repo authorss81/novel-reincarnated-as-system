@@ -3815,7 +3815,7 @@ it exactly into the column at the far end of that table, stroke for stroke, and 
 by the thing that made him and that cannot be put back.** **The bill raised at ch 749 and unpaid across four
 hundred chapters is paid at ch 810 and not explained here; the address is Volume 15's per `outline/series.md` §7
 milestone 8.** **She said his name out loud in that room three times — at the tenth hour of the twenty-eighth of the
-month beginning 2,384, on the fifth of the month beginning 2,534, and on the fifth of the month beginning 2,594 in
+month beginning 2,384, on the seventh of the month beginning 2,534, and on the fifth of the month beginning 2,594 in
 front of the boy — and one of those three went with a boy in the room and one went with a figure of hers and one
 went the length of that table.** **No one said the word for the third hand. There is no line in brackets. No face
 and no voice. The board did not go back down that stair.**
@@ -3824,3 +3824,89 @@ and no voice. The board did not go back down that stair.**
 mercy · anything a thing above the room is doing · the place described as kept before ch 818 · the terms or the
 price before ch 826 · **anything that speaks to him that is not her** · any second look · any second occasion for
 the one look spent at ch 776.
+
+## VOLUME 14 BATCH 0003 CLOSED at ch 825 — the open threads, the irreversible list, and what Batch 0004 may not inherit as clean prose
+
+**Batch 0003 is ch 811–825, day 2,685 to day 2,721, pressure *the keeping*, 30,977 words of body prose on method B
+at average 2,065, one midpoint at ch 812, one irreversible step at ch 822, zero bracketed layer lines in fifteen.
+Full record in `state/continuity.md` under ***VOLUME 14 BATCH 0003 — ch 811–825, \*the keeping\****.**
+
+**THE TEN OPEN THREADS, as the page carries them at ch 825.**
+
+1. **THE FAIR HAND UNDER HER COLUMN — new in this batch, and the volume's damage.** From ch 813 the rows she says
+   out loud in the dark come back on boards in two hands. The second is fair, even, a little smaller than hers,
+   with not one place where the nib had to be lifted, and **under every figure of hers it is the same figure one
+   day further on.** She has read twenty boards; on nineteen the second row differs from hers and on one it does
+   not, and that one is the board out of twenty where she cannot tell a correction from a copy. **The second row
+   begins four figures back from the head of each board and runs to the end, and that is how she knows it is
+   new.** She can check fourteen of the twenty against her own mouth and **it is right on all fourteen**; she
+   cannot put her mouth against the other six. **She has not asked who is doing it and has said out loud that she
+   is not going to, and she is not going to tell it to stop, and she wrote nothing against it.** **She has
+   decided, and said so out loud, that she is not going to work out whether the fair hand and the third hand are
+   the same hand, and that the decision is a decision and not a giving up.** Open, and Batch 0004 may not settle it
+   before the refusal goes down the stair.
+2. **HIS YES, AT ch 812 — new in this batch, and she does not know it happened.** One sentence, present tense,
+   away from her hearing, to a piece of wood about the length of his own forearm: **I will keep what she says out
+   loud in this room.** **He did not get into the place, did not sit in it and did not put his weight on it**, and
+   all three are named in the chapter as decisions he made on purpose. **No card in ch 811–825 tells her, no card
+   puts her and that sentence in the same room, and she says out loud at ch 822 that it is not said to him.**
+3. **THE PLACE DESCRIBED AS KEPT — advanced, and it is described, not offered.** A board came up with the
+   fifteenth bundle at the second hour on the first of the month beginning 2,714 and says where the place is, how
+   long it is, how wide it is, that it is not a seat, that nobody has sat in it, that it has been kept for four
+   hundred years, **that it is not given to anybody, and that it is kept by being there when the figures are said
+   out loud.** **There is no job in it and no second half of it and no terms and no price and no binding**, and
+   she says all of that out loud at about the fourth hour. Open, and the terms are ch 826's.
+4. **THE NO — new in this batch, and it cannot be unsaid.** Said out loud, standing, in the ordinary voice, at
+   about the ninth hour and ten minutes on the fifth of the month beginning 2,714, into twenty-two paces of dark:
+   **a no to a person keeping what she says out loud in this room.** It is not a no to the record, not a no to the
+   place, not a no to the boy and not a no to the fair hand, and she says each of those out loud so that the no
+   is a no to the keeping and not to the record. **Nothing was written on anything and nothing went down that
+   stair.** Open, and it goes on a blank leaf at ch 838.
+5. **THE FIVE BLANK LEAVES — advanced, and none of them is written on.** Eight leaves against her fourth rib for
+   nineteen years; three written on, the last when she was nine and it was a date; five blank and blank since she
+   was nine. **She has said out loud, when and how and on what morning**: the first morning anything comes up that
+   stair, the leaf in her hand at about the first hour, the sentence said out loud before the nib goes on the
+   paper, and then the leaf folded and put in the hand that goes down the stair. **She has also said out loud that
+   she is not going to write on one tonight, or tomorrow, or on any morning in between**, because a leaf is for the
+   sentence and not for the wanting to have said it. Open, and Batch 0004 owns the writing and the sending.
+6. **THE GAP IN THE WEAR — new in this batch, and told to nobody.** At ch 820, looking along the edge of the worn
+   place instead of down onto it, she finds **a place about two fingers wide in the middle of the length of the
+   wear where the wood is not worn down at all, and it is not worn on either side of the gap either, so the gap
+   does not have edges to it and there is no way at all of looking at that which makes it an edge.** The other two
+   things about the wear were said out loud in this room at ch 805 and she has said she will not say them again.
+   **She has told nobody this one and has said out loud that she is not going to, and she has not put her hand in
+   the place, or her weight, and nobody has put her in it.** Open, and Batch 0004 may not have her say it aloud.
+7. **THE BOY OF SIXTEEN — advanced, and still not bound, not entered and not sent.** She has said all three out
+   loud in this batch with the reason attached under each one, and has told him about the board with his name on
+   it before he has to find it out, **because there is one exception and she made it and did not make it and cannot
+   stop it.** He asked for the second hour of a first of a month at ch 821 and she said yes in about a second;
+   she had refused him the same thing at ch 817 and **has said out loud that she changed her mind in three days.**
+   He works the oil count the way she works days and the two counts have never agreed, because oil is not days. He
+   is not on a page of any book, nothing above the line knows he exists, and he comes up eight hundred and eighty
+   steps on his own account.
+8. **THE BUNDLE UNDER THE FAR END — untouched in this batch.** Two turns and not a knot, corded round twice,
+   touched by two pairs of hands and not opened, five times in nineteen years and never once in light. Open, and
+   Batch 0004 may not open it before the refusal goes down the stair.
+9. **THE BEARER — advanced.** **At ch 818 the fifteenth bundle came up in the dark and put forty boards on that
+   table and went back down and not one word of it was said, and then a single stroke, the second time in thirty
+   days, from the same place as the forty that went before it, lasting about a count of nine.** Open.
+10. **THE DAY SHE FOUND THE PLACE — still open, three anchors still disagree.** **No chapter in ch 811–825 stated a
+    day for the finding, did the subtraction, or treated any one of the three as settled.**
+11. **WHAT THE LAMP GOING OUT MEANS — untouched.** The cage lamp is out for a hundred and eighty-seven days at ch
+    825 and nothing in this batch relit it, fed it, or discussed it as relightable.
+
+**NEW AND IRREVERSIBLE AT ch 822, CLOSED AND NOT TO BE RE-OPENED.** **She said no out loud, standing, in the
+ordinary voice, in the dark, to a thing that works** — the correction that is right on all fourteen of the
+mornings she can check, the lamp that comes up eight hundred and eighty steps on a boy's back, the fair hand, the
+board with a name on it and the board that describes a place, every part of it working. **She said out loud what
+it is not a no to, because a no said there cannot be unsaid and because she refuses the keeping and not the
+record, and a refusal that read as a refusal of the record would be a different thing with a different price.**
+**She did not move the strip of pale wood off the top of that table and she did not vacate the record and she said
+both of those out loud so that the no could not be taken for either.** Nothing was written on anything. Nothing
+went down that stair.
+
+**Not to be named in Batch 0004 before its own chapter:** the moral answer · the Anchor · the tax · what the
+walls are for · the bargain's mercy · **anything that speaks to him that is not her** · **the terms or the price
+before ch 826** · **the speech of the one at that table before ch 826** · **the acceptance before ch 838** · any
+second look · any second occasion for the one look spent at ch 776 · the writing on a leaf before ch 838 · **the
+gap in the wear said out loud to anybody**.

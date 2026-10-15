@@ -8,7 +8,7 @@ In four days a bundle comes up that stair.
 
 She looked at him for about a count of ninety before she said anything, and she said the reason for that out loud, standing, in the ordinary voice.
 
-She said, “I am looking at you because I have worked something out in the last four days and I have decided how much of it you are getting, and I am not going to do it in a hurry.”
+She said, “I am looking at you because I have worked something out in the last seventeen days and I have decided how much of it you are getting, and I am not going to do it in a hurry.”
 
 ## What She Is Going To Tell Him
 
@@ -24,7 +24,7 @@ She said, “I am not going to tell you whose and I am not going to find out.”
 
 She said, “Two. It is not a copy. A copy puts down what I said. That puts down what I should have said. On nineteen boards it has differed from me every single time and it has differed the same way every single time.”
 
-She put her left hand flat on the top of the table and left it there.
+Her left hand went down flat on the top of that table and stayed there.
 
 She said, “Three. That is the oldest thing there is. A fair hand under a column means somebody is doing the part of the work that the one doing it cannot do, and has been doing it without being asked, and has not stopped.”
 
@@ -56,15 +56,15 @@ She said, “I am not going to confirm that.”
 
 He said, “You have got three of the four parts. You have got the truth and you have got the light and you have got the whole of it so far as it goes in a room. And there is one person in this building who could stand at the near end of this table and you have said out loud three times in the last month that he is not bound and not entered and not sent.”
 
-She put her left hand flat on the top of the table and left it there.
+She left her hand on the wood where it was and did not take it up again.
 
 He said, “So there is a place at that table for a person to stand.”
 
 She said, “I am not going to confirm that either.”
 
-He said, “There is a place at that table, and it is at the far side, and I found it in the five nights after the seventh of the month beginning two thousand five hundred and thirty-four, because you told me about it standing four feet off the other end of it, and it is the right size for somebody who is not here, and you cannot tell me what it is for.”
+He said, “There is a place at that table, and it is at the far side, and I found it on the seventh of the month beginning two thousand five hundred and thirty-four, in the hour you told me about it standing four feet off the other end of it, and it is the right size for somebody who is not here, and you cannot tell me what it is for.”
 
-She did not move while she was saying it.
+She stayed exactly where she was for that one, and so did the light.
 
 She said, “That is all still true and I have not changed one word of it.”
 
@@ -80,7 +80,7 @@ She said, “Not bound: nothing has put a hand on you and asked you for anything
 
 She said, “Not entered: there is no name of yours on anything in this building and I am the only person who checks it. There is one exception and I made it on the first of this month and I did not make it and I cannot stop it, and I am telling you about it now instead of waiting for you to find out.”
 
-She did not move while she was saying it.
+She did not shift a foot of herself for any part of it.
 
 He said, “The board.”
 
@@ -100,7 +100,7 @@ She said, “I said a name out loud three times. It was yours. It is not said ag
 
 He said, “Not sent.”
 
-She put her left hand flat on the top of the table and left it there.
+Her hand stayed where she had put it and she did not look at it.
 
 She said, “Not sent. Not one person sent you up that stair and not one person is going to.”
 
@@ -114,7 +114,7 @@ And then she said the last of that morning out loud, standing, in the ordinary v
 
 She said, “I have told you four things and I have kept back four and I have done it on purpose and I am not going to explain it tonight.”
 
-She said, “And I want it said where you can hear it that I did not keep them back because I think you cannot work the rest out. You can work the rest out. You worked out more of this room in five nights after the seventh of the month beginning two thousand five hundred and thirty-four than I have worked out in four hundred and nine days of standing in it.”
+She said, “And I want it said where you can hear it that I did not keep them back because I think you cannot work the rest out. You can work the rest out. You worked out more of this room in the first five nights you ever came up that stair than I have worked out in four hundred and nine days of standing in it.”
 
 She said, “I kept them back because a boy of sixteen who has worked out the shape of a thing in this building and does not know what is on a board at the far end of the table is standing somewhere different from a boy of sixteen who knows.”
 

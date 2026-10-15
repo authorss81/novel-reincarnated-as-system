@@ -1074,3 +1074,308 @@ restarted; the planned plot did not move. Grouped by what kind of fault it was.*
   sixteen-days-is-nineteen · ch 734's title *What A Hand Is Charged* and ch 735's *four weeks* · the moral answer,
   the Anchor, the tax and the bargain's mercy · the four erased months · Ning Wu · the year · ch 150 ·
   MEMBER ABSENT · anything of Volumes 15–16.
+
+## VOLUME 14 BATCH 0003 — ch 811–825, *the keeping*, days 2,685–2,721
+
+**This is the third batch of Volume 14 and it is CLOSED ON THE PAGE.** Fifteen chapters, day 2,685 to day 2,721,
+pressure *the keeping*, **midpoint ch 812 — the tenth frame scene and the last one in the manuscript**, climax and
+irreversible step **ch 822**, the bundle and the place described as kept at **ch 818**, **zero bracketed layer lines
+in fifteen**. It spends the third rung of the offer and nothing else: **no terms, no price, no binding named or
+numbered, no Sisterhood, no person bound, no speech by the one at that table, no `Court` spoken, and `scribe`,
+`ascendant`, `choir` and `ledger` 0 as words on any page.** The terms with the price are ch 826's and belong to
+Batch 0004.
+
+### THE DAY BAND, AND THE CORRECTION THAT CARRIED IT
+
+`outline/volume-14.md`'s escalation table gives Batch 0003 as days 2,685–2,720 and Batch 0004 as 2,721–2,780.
+**That band cannot hold fifteen chapters once ch 818 is fixed to a bundle day.** Bundles come up on a first of a
+month, the only first inside 2,685–2,720 is **2,714**, ch 818 is the eighth chapter of the batch, and seven
+chapters then have to fit into 2,715–2,720. **Batch 0003 is therefore days 2,685–2,721 and Batch 0004 is days
+2,722–2,780. No chapter range moved, no stage date moved, no batch title moved, and ch 840 is still day 2,780.**
+The reasoning and the record are in `workspace/volume-14-batch-0003/PROMPT.md`; the correction is written into
+`outline/volume-14.md`'s *Corrections to this outline* section, fourth item.
+
+### What is on the page, measured
+
+- **Fifteen chapters, 30,977 words of body prose on method B** (every line not beginning `#`, per file, summed),
+  average 2,065. Per chapter: 811 1,928 · 812 1,949 · 813 1,946 · 814 2,158 · 815 2,417 · 816 2,185 · 817 1,979 ·
+  818 2,132 · 819 2,112 · 820 1,977 · 821 2,134 · 822 2,138 · 823 2,216 · 824 1,857 · 825 1,849. **All fifteen
+  inside the 1,800–2,700 guide and none under the floor.** Batch 0001 is 31,117 and Batch 0002 is 29,402, so the
+  volume is **91,495 words over forty-five chapters at an average of 2,033.**
+- **Zero bracketed layer lines in fifteen and zero `[` characters of any kind**, per `outline/volume-14.md` D6.
+- **Open and close quotation marks equal in every one of the fifteen files.** No straight quotes, no em dashes, no
+  Arabic numerals of three or more digits, no blockquote, no rule, no table, no code fence, no backtick, **no bold
+  and no italic anywhere in the batch** (the draft's eight italic lines carrying the place board at ch 818 were
+  converted into her spoken reading, because the card requires the reader to hear that board **in her mouth**).
+- **Budgets:** `court` 0 · **`scribe` 0 as a word** and 4 by `grep -oi scribe`, all four inside *describes* and
+  *described*, the same false positive Batch 0002 recorded at ch 807 · `ascendant` 0 · `choir` 0 · `ledger` 0 ·
+  `forgiv` 0 · `the year` 0 · `thank` 0 · `twenty-two days` 0 · **`nobody` 4** against a volume line of thirty ·
+  word-`eleven` 3 against a volume line of forty.
+- **Fifteen new chapter titles, measured free against all 840 standing headings:** 811 *The Morning After The Name* ·
+  812 *Away From Her Hearing* · 813 *What Came Back In Two Hands* · 814 *One Day In Twenty* · 815 *What She Would
+  Have To Stop* · 816 *The Near End* · 817 *What He Is Not Being Told* · 818 *The Place Described As Kept* · 819
+  *The Thing It Costs To Say It Twice* · 820 *The Lamp And The Person* · 821 *What He Wants Her To Do* · 822 *No* ·
+  823 *The Morning After A No* · 824 *Five Blanks And None Of Them* · 825 *The Bundle Before The Bundle*. **The
+  card's ch 816 title *The Twenty-Seventh* was replaced before the chapter was written**: 2,705 is the twenty-
+  second under `((day − 134) mod 30) + 1`, and a title that restated a date belongs nowhere near the title line.
+  **No `##` section heading in the volume duplicates another** (`uniq -d` over the volume's section headings is
+  empty).
+- **No paragraph in the batch is over 90 words** (the longest is exactly 90, at ch 818, and none exceeds the 120 ceiling) and **five paragraphs the draft carried between 91 and 122 words were broken at a beat.** Every chapter worked in the room with a lamp
+  in it states how far the light goes — a hand's width along the near end and no further — and **no chapter
+  explains why, and no chapter may.**
+
+### The day table, every ordinal derived under `((day − 134) mod 30) + 1`
+
+811: 2,685 (2nd of 2,684) · 812: 2,689 (6th) · 813: 2,693 (10th) · 814: 2,697 (14th) · 815: 2,701 (18th) ·
+816: 2,705 (22nd) · 817: 2,710 (27th) · 818: 2,714 (**1st of 2,714**) · 819: 2,715 (2nd) · 820: 2,716 (3rd) ·
+821: 2,717 (4th) · 822: 2,718 (5th) · 823: 2,719 (6th) · 824: 2,720 (7th) · 825: 2,721 (8th).
+
+**One first of a month falls in the band and it is 2,714, and it carries ch 818.** The fourteenth bundle came up
+on the first of the month beginning 2,684 at ch 810 and the fifteenth comes up here: **two firsts in three
+consecutive chapters' worth of band and no third.**
+
+### The four moving series, re-derived and checked against the page
+
+- **Time in the room, `D − 2,301`:** 384 · 388 · 392 · 396 · 400 · 404 · 409 · 413 · 414 · 415 · 416 · 417 · 418 ·
+  419 · **420 at ch 825.**
+- **Lighter, `D − 1,559`:** 1,126 · 1,130 · 1,134 · 1,138 · 1,142 · 1,146 · 1,151 · 1,155 · 1,156 · 1,157 · 1,158 ·
+  1,159 · 1,160 · 1,161 · **1,162 at ch 825.** One of them is a stage and none is written down.
+- **Row staleness, `(D − 2,294) × 72 min`:** **THE CARD'S TWO FIGURES ARE BOTH WRONG AND THE PAGE CARRIES THE
+  RIGHT ONES.** At 2,685 the multiplication is 391 × 72 = 28,152 min = **nineteen days and thirteen hours and
+  twelve minutes**; the card said nineteen days and fourteen hours. At 2,721 it is 427 × 72 = 30,744 min = **twenty-
+  one days and eight hours and twenty-four minutes**; the card said twenty days and eleven hours and twelve
+  minutes. **The figure is spoken once in fifteen chapters and not at all after ch 822**, at ch 814, day 2,697,
+  where the multiplication gives **twenty days, three hours and thirty-six minutes** (403 × 72 = 29,016) and that
+  is what the page says.
+- **Bar against the left-hand wall since day 2,344:** 341 → 377. **Not counted in any chapter of this batch.** Its
+  dust is not named once, that having been named once at ch 721.
+- **Cage lamp:** out since the first of the month beginning 2,534. **One hundred and fifty-one days at ch 811 to a
+  hundred and eighty-seven at ch 825.** Nothing in the fifteen chapters relights it, feeds it, or discusses it as
+  relightable.
+- **Right arm open since day 2,294:** 391 → 427.
+
+### The tenth frame scene, at ch 812, and only there
+
+**ch 812 is the tenth frame scene in the manuscript and there is no eleventh anywhere in ch 781–840.** It is his
+POV, present tense throughout, away from her hearing, and **he says one sentence and nothing else is said by
+anybody in it**: *I will keep what she says out loud in this room.* **He does not get into the place, does not sit
+in it and does not put his weight on it** — all three are named in the chapter as decisions he makes on purpose.
+The yes is to the **keeping**, not to the sitting. **She does not know, is not told, and no card in ch 811–825 puts
+her and that sentence in the same room.**
+
+**The second hand begins after the yes, and the draft had it wrong.** The inherited draft had him see a fair hand
+under her rows at ch 812, before the sentence, which would have dated the damage before its cause. **It is now
+`There is nothing under any of them` at ch 812, and the first board with two hands on it is found at ch 813 on
+the tenth.** The damage runs from ch 813 forward exactly as `outline/volume-14.md` states.
+
+### Stages
+
+**No stage falls in this batch.** Immortal Vessel 8 was taken at ch 809, day 2,666, and **Immortal Vessel 9 is at
+ch 828, day 2,732, at sixty-six days, at the cost *she cannot be alone in the room any more*, and it is Batch
+0004's.** No stage word stands on any page in ch 811–825.
+
+### The damage, and the arithmetic of the second hand, as the page now carries it
+
+**The fair hand corrects her arithmetic by one day and is right on all fourteen mornings she can put her own mouth
+against, and she cannot check it, and it is right.** The arithmetic that supports it, stated once and not varied:
+
+- **A price does not date; a count does.** One morning in twenty she says a count instead of the price at the head
+  of the column, and a count is out of date by a day for every day she stands in that room.
+- **She read twenty boards over four mornings at ch 814** and put every one back the way she found it. **All
+  twenty carry her row and a second row under it; on nineteen of the twenty the second row is not the same figure
+  as hers, and on one it is, which is the one board out of twenty where she cannot tell a correction from a copy.**
+- **The second row begins four figures back from the head of each board and runs to the end of it**, and under the
+  four figures before that there is nothing but her own hand going back as far as it goes. **That is how she knows
+  it is new**, and it is the repair that made the second hand possible four days after the yes instead of four
+  hundred years before it.
+- **Fourteen of the twenty she can check against her own mouth and it is right on all fourteen. Six she cannot**,
+  because saying a figure and keeping it are not the same and the only figure she has kept in nineteen years is
+  one she wrote on her own wood. **She writes nothing against any of it**, because a figure on the strip would be
+  an amount.
+
+### The place described as kept, as the page now carries it
+
+**The board comes up with the fifteenth bundle at the second hour on 2,714 and describes a place, not a job, and no
+terms, no price and no binding.** Read out loud by her, standing, in the ordinary voice, at about the fourth hour,
+at about the sixth and again at about the ninth: *the far side of this table is twenty-two paces long · between
+the twentieth pace and the end of it there is a place · it is not a seat, nobody has sat in it · it is of the
+length of a forearm and of the breadth of a hand · it is kept · it has been kept for four hundred years · it is
+not given to anybody · it is kept by being there when the figures are said out loud.* **The draft located the place
+between the fifteenth pace and the seventeenth, which is four feet of table and not the length of a forearm; the
+page now puts it between the twentieth pace and the end of it, which is where the lamp goes at ch 805 (about four
+feet short of the far end) and is the only length that agrees with the wear she has seen.**
+
+### What the fifteen chapters changed, in the order it changed
+
+1. **ch 811** — a board with a name on it went face up on the near end of that table and will not be turned over.
+2. **ch 812** — **he said yes, out loud, in the present tense, to a piece of wood, where she cannot hear it.**
+3. **ch 813** — **the rows came back in two hands and she cannot check the second one and cannot refuse it.**
+4. **ch 814** — **she worked out it is a correction and not a copy, right on all fourteen she can check, and she
+   wrote nothing.**
+5. **ch 815** — **she took a keeper apart in four parts, has three, and named the fourth as the one that costs.**
+6. **ch 816** — **she said the second half of why she has not cleared the near end of that table for eighty-two days.**
+7. **ch 817** — **she told a boy of sixteen four things and kept four back, out loud, on purpose, and he worked out
+   the rest of it anyway.**
+8. **ch 818** — **the place described as kept came up that stair and she read it out loud where the far end of that
+   table could hear it, knowing it while she was saying it, and answered it with nothing.**
+9. **ch 819** — **she said a third sentence across twenty-two paces and it went nowhere, and she found out she had
+   been measuring how long it does not take.**
+10. **ch 820** — **she looked at the worn place along its edge and found a gap in the middle of it that has no
+    edges, and told nobody.**
+11. **ch 821** — **a boy of sixteen asked for the second hour and was told by her, to his face, that the yes was
+    not about him.**
+12. **ch 822** — **the no, out loud, standing, in the ordinary voice, to a thing that works, and it cannot be
+    unsaid, and nothing was written on anything and nothing went down that stair.**
+13. **ch 823** — **she worked out that a refusal has to be a thing that leaves that room and that a person can
+    write on a leaf, and put her hand on five blank ones.**
+14. **ch 824** — **she said when and how and on what morning, and did not write on one, and it is not tonight.**
+15. **ch 825** — **she went down nine hundred and four steps without the lamp and without counting and it was
+    lighter, and she put the no and the plan in the same room together so that neither can be changed on its own.**
+
+### The twelve defects this batch's own review found in the draft it inherited, and what the page says now
+
+**The chapters were drafted by an earlier run of this phase, deferred without a review, and were on the page when
+this phase opened. Nothing was restarted. These are the findings, all measured against the page and the day table,
+and all repaired.**
+
+1. **ch 812, a date that put the damage before its cause.** He saw a fair hand under her rows at ch 812, four days
+   before the yes. **Now: `There is nothing under any of them. Not one row of anything, in any hand`**, and the
+   second hand's first appearance is ch 813.
+2. **ch 812, three smaller inventions.** *Ten times in rooms like this one* (he has been in this tower room for
+   months and in this one for 149 days) · *a cut in the stone a hand's breadth to the left of the cage*, which is a
+   position the page has never given the line cut in the stone · **and *the oldest thing in here that is not the
+   table*, which is false: the bar came up that stair on her shoulder at day 2,300 and the room is four hundred
+   years old.** Now *the only thing in here that came up that stair on a person's shoulder*. The ending's *has just
+   been told it is not going to be* contradicted the sentence he had just said and is now *told in words that it is
+   not going to be left that way*.
+3. **ch 813, a POV break.** *a board with a paragraph of words on it that **I** put there myself* in a chapter
+   rendered wholly in third person. **Now third person.** The second row also ran *the whole length of the board*,
+   which left no room for ch 814's finding that it begins four figures back from the head; **it now runs as far as
+   her row went and then stops.**
+4. **ch 814, a contradiction inside one chapter.** *On every one of the twenty boards … there is a second row
+   under it, and on nineteen of them the second row is not the same figure*, and then, eight lines later, *one of
+   the twenty has no second row on it at all*. **Both are now true of the same twenty**: all twenty carry a second
+   row, nineteen differ and one does not, and that one is the board out of twenty where she cannot tell a
+   correction from a copy. The third hand's board *has been in this room eighteen days* is **thirteen**.
+5. **ch 815, an argument that contradicted itself and a date in the future.** She said she had *not got the fourth
+   part* and then, three lines later, listed the fourth part and said she had every one of those three things; and
+   *I worked it out at this table on the eighteenth of this month* is 2,701, the day the chapter is on. **The four
+   parts and the fourth are rewritten as one argument** — she has three of the four conditions, and what she has
+   not got is the difference between a thing that was never given to anybody and a thing nobody has got round to
+   giving to anybody yet — **and the date is the fourteenth of that month, which is ch 814's.** The sentence a
+   room cannot put a job on is now said *as though it were still standing* and knocked down in the same chapter.
+6. **ch 816, two figures.** *That was fifty-two days ago* for the thirtieth of the month beginning 2,624, which is
+   **day 2,623 and eighty-two days**; and *I have been keeping it since the eighth of this month* twice, which
+   points at 2,691, a day nothing happened on. **Both are the eighteenth of that month, which is ch 815.**
+7. **ch 817, a claim about the boy.** *I found it in the five nights after the seventh of the month beginning two
+   thousand five hundred and thirty-four* — ch 780 is the seventh itself, at the seventh hour, and is where he saw
+   the worn place. **He found it on the seventh, in the hour she told him.** *I have worked something out in the
+   last four days* covered nothing she said she worked out (the four parts are nine days back) and is
+   **seventeen**.
+8. **ch 818, the bundle chapter, five defects.** The third of the four lamp carries was dated *the ninth of the
+   month beginning two thousand six hundred and eighty-four* and is **the first of it, which is ch 810** · *I have
+   seen that hand nineteen times before* was impossible four days after she first saw it and is **once before, on
+   the tenth** · the place was located *between the fifteenth pace and the seventeenth* and is **between the
+   twentieth pace and the end of it** · *on the first of this month I said a sentence at about the seventh hour*
+   was **sixty days earlier, on the first of the month beginning two thousand six hundred and fifty-four** · and
+   **the eight italic lines carrying the board are now her spoken reading**, because the card requires the reader
+   to hear it in her mouth and the volume's construction budget allows no italic lines. A summary line that
+   announced the whole of her morning and was then followed by another act at the sixth hour has been reordered so
+   the act comes first.
+9. **ch 819, two hard errors and a count.** *The first was on the first of this month* is **the first of the
+   month beginning two thousand six hundred and fifty-four** · *they are a day apart* is **sixty days** · and the
+   second of the three name-sayings was dated *the fifth of the month beginning two thousand five hundred and
+   thirty-four*, which is not ch 780; it is **the seventh of that month**. The whole count of what the far end of
+   that table has had from her is now consistent with ch 822's: a name three times, then four sentences, the
+   fourth of which is the no, and the board with the name on it came up **between the first sentence and the
+   second** and so came back to the wrong one.
+10. **ch 820, a month reference in the future and a dodge.** *On the ninth of this month I solved that once* at day
+    2,716 is 2,722; it is **the ninth of the month beginning two thousand six hundred and fifty-four** ·
+    *on the second of this month* is **the second of the month beginning two thousand six hundred and eighty-four**
+    · and the chapter gave her a third finding about the wear by saying it *out loud, standing in her own head and
+    not in the room*, which is a thing she cannot do since ch 809. **It is now narration of a thing she has not
+    said and is not going to say**, with nothing said out loud in the room in it.
+11. **ch 821 and ch 822, five figures.** A *no she said at the seventh hour and forty minutes on the fourth* that
+    is not on the page anywhere and is now **the line about not asking a person what they were going to say, which
+    she has said before** · *on the eighteenth of this month* is **the month beginning two thousand six hundred and
+    eighty-four** · *four times in nine days* for four lamp carries is **sixty days** · *on the eighteenth of this
+    month that keeping would mean it stopped travelling* is **the eighteenth of the month before last** · and
+    ch 822 counted nine words into its third reason and then quoted thirty-three. **The chapter now says she got
+    nine words into it and said the stopping out loud instead.** Ch 821 also changed its mind about the second hour
+    between ch 817 and itself, and **now says out loud that it has changed its mind in three days.**
+12. **ch 823, ch 824, ch 825, six more.** *The tenth of the month beginning two thousand five hundred and fifty-
+    four* is **five hundred and sixty-four** (2,563 is the thirtieth of the month beginning 2,534 and is ch 787's
+    day) · *the bar … since before I came into this room* is false, it came up with her, and is **since I came up
+    that stair with it on my shoulder** · *they are not the same size* asked a hand to be measured and is cut ·
+    *I have not written on anything since I was nine years old* is false, she writes on her own wood daily, and is
+    **I have not written a sentence on anything** · **a lamp has gone down it four times** is one, on the
+    twenty-seventh of the month beginning 2,564, which is ch 792 · and ch 825 said *tonight* four times at the
+    eighth hour of a morning and dated the one lamp that has ever gone to the bottom of that stair to the twelfth
+    of the month beginning 2,564, which is ch 790 and is a room, not a stair. **The date is the twenty-seventh of
+    that month, the claim that nothing has ever carried light to the bottom of that stair is now that she is the
+    only person who has, and every *tonight* at the eighth hour of a morning is now *this morning* or *today*.**
+
+### What Batch 0004 inherits and may not re-open
+
+- **The day band moved once**: Batch 0003 is 2,685–2,721 and **Batch 0004 is 2,722–2,780**, and ch 840 is still
+  day 2,780. Recorded in `outline/volume-14.md`'s corrections and here.
+- **The no is said and it is at ch 822, out loud, standing, in the ordinary voice, at about the ninth hour and ten
+  minutes on the fifth of the month beginning 2,714.** **Nothing was written on anything and nothing went down that
+  stair.** The refusal is put on a blank leaf and sent down at ch 838, which is Batch 0004's, and no chapter in
+  this batch may send anything down that stair or write on a leaf.
+- **The fair hand is established and unresolved.** It corrects by one day, it is right on all fourteen she can
+  check, she has not asked who is doing it, she has decided **not** to work out whether the fair hand and the
+  third hand are the same hand, and she has said out loud that she is not going to tell the hand to stop.
+- **He has said yes, once, at ch 812, where she cannot hear it, and he has not been told and does not know it was
+  a yes to a keeping.** **She does not know and no chapter in this batch tells her.**
+- **The boy is not bound, not entered and not sent, and she has said all three out loud in this batch with the
+  reason attached under each one**, and she has agreed to the second hour of a first of a month at ch 821, having
+  refused him the same thing at ch 817 and said out loud that she changed her mind in three days. **He comes up
+  that stair on his own account and nobody above the line knows he exists.**
+- **She has not sat in the place, has not put her hand in it, has not put her weight on it, and nobody has put her
+  in it.** What she knows about the wear is three things, two of them said out loud in this room at ch 805 and one
+  of them told to nobody at ch 820: **in the middle of the length of the wear there is a place about two fingers
+  wide where the wood is not worn down at all, and it is not worn on either side of the gap either, so the gap does
+  not have edges to it.** **No card may have her say it out loud to anybody.**
+- **The oil.** Three lamps in rotation. **No burn rate, no cups-per-day figure, no hour the lamp runs out and no
+  exhaustion date appears in fifteen chapters and none may appear in Batch 0004.** What is on the page: the lamp
+  stands a foot in from the near end of that table, the light goes a hand's width along it and no further, the
+  vessel went down the stair empty at ch 795, and a lamp has to be carried up eight hundred and eighty steps.
+- **Yuan** is Court, second rung, readable by the room's hand since ch 748, found at ch 749 with the bill raised
+  and unpaid. **He said one sentence in Volume 14 before this batch and one in it, and both are accounted for: the
+  amending offer of the six terms at ch 772, the ch 791 sentence in her own hearing, and the yes at ch 812.** **No
+  figure of what is left of him is on any page and none may be.**
+- **Not spent and not to be spent early:** the terms with the price (ch 826) · **IV9 (ch 828, day 2,732, at
+  sixty-six days, and the page has already fixed what it costs: she cannot be alone in the room any more)** · the
+  two remaining speeches of the one at that table (826 and 838) · **the address, a voice speaking to him that is
+  not her, which is Volume 15's** · the four hundred bound people, which are Volume 15's · anything of the moral
+  answer, the Anchor, the tax or the bargain's mercy.
+- **The day she found the place is still open and three anchors still disagree.** No chapter in this batch stated a
+  day for the finding and none did the subtraction.
+- **Still owed, still unquotable, still untouched:** ch 764's *a hundred and seventy-eight days* · ch 766's
+  sixteen-days-is-nineteen · ch 734's title *What A Hand Is Charged* and ch 735's *four weeks* · Ning Wu · the
+  year · ch 150 · MEMBER ABSENT · anything of Volumes 15–16.
+
+### The second day-order conflict, recorded before Batch 0004 is drafted, 15 Oct 2026
+
+**`outline/volume-14.md`'s escalation table puts Batch 0004's midpoint at ch 832 and calls it *the terms with the price
+come up*. D1, D2 and *Who is in the room* each put the terms page at ch 826, three times over, and ch 832's cell is
+the same class of struck cell as the one that put the place described as kept at ch 803, which item one of this
+outline's corrections struck on the same day.** The terms page has to come up on a bundle, bundles come up on firsts
+of months, and **the only firsts of a month inside 2,722–2,780 are 2,744 and 2,774**, so **ch 826 is 2,744** and
+the midpoint cell is struck.
+
+**That puts ch 826 twelve days after Immortal Vessel 9, which the stage table fixes at ch 828, day 2,732, at
+sixty-six days, and which the volume's final chapter image and all three stage intervals depend on.** The stage
+date is not moved and ch 840 is not moved, so **the batch's chapter order steps back once, at ch 827**: 826 2,744 ·
+827 2,730 · 828 2,732 · 829 2,736 · 830 2,740 · 831 2,741 · 832 2,742 · 833 2,743 · 834 2,748 · 835 2,752 · 836
+2,756 · 837 2,760 · 838 2,774 · 839 2,776 · 840 2,780. Every ordinal derives under `((day − 134) mod 30) + 1` as
+every other chapter in the book derives its own, **no bundle falls on any day but 2,744 and 2,774, and ch 840 at
+2,780 is not a bundle day.** The row and the reasoning are in `workspace/volume-14-batch-0004/PROMPT.md` and the
+correction is item five in `outline/volume-14.md`.
+
+**Two things follow that Batch 0004 must hold.** **First, the bundle at 2,774 is ch 838, and that is the morning
+the refusal goes down that stair**, because a page leaves that room on a bundle day and there are only two bundle
+days in the band. **Second, the refusal is written on a blank leaf at ch 834 and sits against her fourth rib for
+twenty-six days before it goes down,** which is the waiting the outline's climax is made of and which no card may
+shorten by writing it and sending it in one chapter.

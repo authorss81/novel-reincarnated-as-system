@@ -20,7 +20,7 @@ She said, “It is the tenth of the month beginning two thousand six hundred and
 
 She got the top board out of the stack by touch and carried it back along eleven paces to the near end and put it down on the wood face up in the light, and then she went back for three more, one at a time, because she could carry one in her left hand and she could not carry four.
 
-The first three had nothing on them. Not a mark. Thirty-eight of the forty had nothing on them. The thirty-ninth is a board with a paragraph of words on it that I put there myself on the twentieth of the month beginning two thousand five hundred and ninety-four and cannot tell from any of the others.
+The first three had nothing on them. Not a mark. Thirty-eight of the forty had nothing on them. The thirty-ninth is a board with a paragraph of words on it that she put there herself on the twentieth of the month beginning two thousand five hundred and ninety-four and cannot tell from any of the others.
 
 The fourth one had a row on it.
 
@@ -44,7 +44,7 @@ She said, “So it reads words.”
 
 ## The Second Hand
 
-And under that row, about a finger’s width below it and running the whole length of the board, there was a second row.
+And under that row, about a finger’s width below it, there was a second row, and it ran as far as the row above it went and then it stopped.
 
 It was not the hand at the far end of that table. That hand has written four hundred years of one stroke starting in the same place on every board and this was not that.
 
@@ -98,11 +98,11 @@ And she stayed on the stone with her back against the leg of that table for abou
 
 She said, “I am not going to ask who is doing it.”
 
-She said, “Not tonight and not by asking a person and not by standing at that end of this table with a lamp in my hand at the ninth hour making a face at the dark until something gives. I have had a name written down in this room that I did not write and I did not ask about that either, and asking is how you find out, and finding out is not the same as being able to do anything.”
+She said, “Not this morning and not by asking a person and not by standing at that end of this table with a lamp in my hand at the ninth hour making a face at the dark until something gives. I have had a name written down in this room that I did not write and I did not ask about that either, and asking is how you find out, and finding out is not the same as being able to do anything.”
 
 She said, “And I am not going to stop putting them down.”
 
-Her right arm was open at her side the whole time and it did not get any better.
+Her right arm was open at her side the whole of that and it did not get any better by the end of it.
 
 She said, “That is the half I am not going to lose. I said every figure out loud this morning at the seventh hour and I am going to say every figure out loud tomorrow morning at the seventh hour.”
 

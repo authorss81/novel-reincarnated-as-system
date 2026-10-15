@@ -802,3 +802,105 @@ fifteen.** Seven `nobody` and eight word-`eleven` in ch 781–795 plus zero and 
 the one at that table in the whole book so far (one spent at ch 772, two to come at ch 826 and ch 838); **no
 `Court` spoken anywhere in Volume 14; no `Scribe` in ch 796–810 except one at ch 807 which is the verb *describes*
 and is the same false positive ch 723 and ch 789 carry**; and no moral answer anywhere in it.
+
+## Who is where at end of chapter 825 — VOLUME 14 BATCH 0003 CLOSED, ch 811–825
+
+**A cold reader starts here. This block supersedes *Who is where at end of chapter 810* above it wherever the two
+differ.** Day 2,721, the eighth of the month beginning 2,714, at about the ninth hour. A dark room at the top of
+eight flights and eight hundred and eighty steps in a tower four miles up a mountain from a square. **An oil lamp is
+standing on the top of a twenty-two-pace table about a foot in from the near end with a trimmed wick, and the light
+goes a hand's width along the wood and stops — a hand's width being, since ch 796, the width of her own hand.**
+**Three pieces of wood lie face up side by side on that wood about a foot in from the edge: her strip of pale wood
+with a price at the head of it, ten days, twenty-one hours and thirty-six minutes, the same price in the first pair
+of cuts, a five in the second, a seven in the third and an eight in the fourth, all four in her own hand, and eight
+pairs of cuts under that with nothing in any of them; beside it, a board a foot long and two inches across with a
+name cut into it in a third hand and one worn pair of cuts under the name with nothing in them; and beside that, a
+third board a foot long describing a place at the far side of that table.** The two she squares every morning are
+squared and the third is left where it fell. Forty boards face up in a stack under the middle of the table, **one of
+which carries a paragraph of words in her own hand that she put there on the twentieth of the month beginning 2,594
+and cannot tell from the other thirty-nine.** A bundle of papers under the far end, corded round twice and not
+knotted, touched by two pairs of hands in nineteen years and not opened. A bar nine feet nine flat against the wall
+on the left, not moved. **A cage lamp in a cage on a shelf at the far end, out for a hundred and eighty-seven
+days.** One hand, one look, one column at that far end; the one look was spent at ch 776 and there is no second.
+**No person in the room.**
+
+### Her
+
+**IMMORTAL VESSEL 8.** Eight stages into the seventh realm, taken at ch 809 on day 2,666, the thirteenth of the
+month beginning 2,654, at sixty-eight days, in oil light at the near end of that table on her own strip of pale
+wood, in her own hand, with the nib against her fourth rib, read out loud before it was a line anywhere. **No stage
+has fallen since and Immortal Vessel 9 is at ch 828, day 2,732, at sixty-six days.** Nineteen years old. Three
+fingers and a thumb on the right hand. **Right arm open since day 2,294, four hundred and twenty-seven days, and
+not going to close.** Short breath four counts everywhere, seven on a rise, nine standing still. Seven of eleven
+holds. Small open place low behind the fourth rib, the size of a coin. **One thousand one hundred and sixty-two
+days lighter at `D − 1,559`, not one going back.** Not hungry. Time in the room `D − 2,301` = **420**. Row
+staleness `(D − 2,294) × 72 min` at 2,721 = **twenty-one days and eight hours and twenty-four minutes**, and it was
+spoken once in the batch, at ch 814. Nib and ink against her fourth rib; a book of eight leaves against her ribs
+with **five blank leaves still blank and none of them written on.**
+
+**Nineteen costs carried whole, none re-derived here:** the furnace will not light itself · the hand cannot write a
+false line · a thing she reaches cannot be put back · she cannot be given anything · she cannot be paid · the reach
+answers a question and only a question · she cannot call a halt · there is nothing above her and the door is a
+document · she cannot keep a place by staying in it · she cannot be met where she is expected · she cannot be
+counted where she stands · she cannot go back down the road she came · she cannot keep what she finds by holding it
+· she cannot follow a name she is given — **plus the three Volume 13 stage costs, each named once in its own
+chapter:** she cannot be given a thing (ch 746) · she cannot be measured with a person (ch 761) · she cannot be
+looked at again (ch 776) — **plus ch 793's: she cannot be hidden by the dark — plus ch 809's: she cannot be unread
+where she stands.**
+
+**What this batch added to her, in her own mouth:** a no said out loud on the fifth of the month beginning 2,714
+at about the ninth hour and ten minutes, standing, in the ordinary voice, **to a person keeping what she says out
+loud in that room, and not to the record and not to the place and not to the boy and not to the fair hand**, and
+**a no said in that room cannot be unsaid.**
+
+### Him
+
+**Yuan Sheng.** Court, second rung. Readable by the room's hand since ch 748, found at ch 749 with the bill raised
+and unpaid, **and the bill paid at ch 810 and not explained.** **He spoke once in this batch, at ch 812, away from her
+hearing, in the dark room, and he said one sentence in the present tense to a piece of wood: I will keep what she
+says out loud in this room.** **He did not get into the place, did not sit in it and did not put his weight on
+it.** **She does not know this and no chapter in ch 811–825 tells her and no card may put her and that sentence
+in the same room.** No figure of what is left of him is on any page and none may be. **One frame scene in this
+volume and it is ch 812's, and there is no eleventh anywhere in ch 781–840.** Volume 14 allowance for `Ledger` is 0.
+
+### The boy of sixteen
+
+Unnamed. Unsent, unentered, unbound, and **nobody is to change that**; she has said all three out loud in this
+batch with the reason attached under each one. **He asked for the second hour of a first of a month at ch 821 and she
+said yes in about a second; she had refused him the same thing at ch 817 and has said out loud that she changed her
+mind in three days.** He works the oil count the way she works days and the two counts have never agreed, because
+oil is not days. **He has been told four things and kept back four, on purpose, and worked out the rest of it
+anyway.** He knows the second place, since ch 780, and nothing in this batch changed that. He wrote nothing on any
+board and is on no page of any book.
+
+### Standing relationships
+
+**Unforgiven, unthanked, unkept.** The year still carrying. `grep -oi forgiv`, `grep -oi "the year"` and
+`grep -oi thank` all return **0** over ch 811–825, and **4 `nobody`** against a volume line of thirty, and 3
+word-`eleven` against a volume line of forty. **Him, the voice.** Counted with her for ten years, asked at ch 609,
+staying at ch 658, given a pen at ch 689, **said out loud in that room three times — the twenty-eighth of the month
+beginning 2,384, the seventh of the month beginning 2,534, and the fifth of the month beginning 2,594 — and said yes
+once, at ch 812, where she cannot hear it.** She said at ch 658 she had been reading him as a column for eight
+years and that sentence is not softened and not withdrawn. **Ning Wu** — at most once in Volume 14 and it is
+optional, never a visit, and it has not been spent. **Shuyin, the Hunter, Wei Ran, Feng Lushi, the people at the
+turn** — none on the page.
+
+### What is next and what is not
+
+**Batch 0004 is ch 826–840, days 2,722–2,780, pressure *the refusal*, and it is the last batch of Volume 14.**
+Midpoint ch 832: **the terms with the price come up the stair on a board and one binding is named.** Climax
+ch 836–838: **Immortal Vessel 9 refused-into at ch 828, day 2,732, the nineteenth of the month beginning 2,714, at
+sixty-six days, cost *she cannot be alone in the room any more*, and the refusal at ch 838.** Irreversible step
+ch 838: **she sends the refusal down the second stair in her own hand on a blank leaf out of the book against her
+ribs, and the first thing she has ever sent down cannot be called back.** **The one speech by the one at that table
+at ch 826 and the second at ch 838 are both answers to her and not offers, and neither of them is out loud: she
+reads the first in her own voice and the second happens at the end.**
+
+**The next first of a month after 2,714 is 2,744**, which falls inside Batch 0004 and is the morning the leaf goes
+down the stair, and the stage at 2,732 falls three days before it. **Volume 14's bracket budget is zero in sixty
+(`outline/volume-14.md` D6) and Volumes 12, 13 and 14 have between them spent none; this batch spent zero in
+fifteen.** `nobody` and word-`eleven` in ch 781–795 (7 and 8), ch 796–810 (0 and 4) and ch 811–825 (4 and 3);
+three speeches by the one at that table in the whole book so far (one spent at ch 772, two to come at ch 826 and
+ch 838); **no `Court` spoken anywhere in Volume 14; no `Scribe` in ch 811–825 except inside the words *describes*
+and *described*, which is the same false positive ch 723, ch 789 and ch 807 carry; and no moral answer anywhere in
+it.**

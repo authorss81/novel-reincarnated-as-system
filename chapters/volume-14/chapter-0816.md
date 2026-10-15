@@ -16,7 +16,7 @@ She said, “On the thirtieth of the month beginning two thousand six hundred an
 
 She said, “I said out loud that I was not clearing it because I did not want a figure of mine in the room when forty of somebody else’s went through it. And I said out loud, standing right here, that that was not a reason. That it was me not wanting a figure of mine to be in a room when forty of somebody else’s went through it.”
 
-She said, “And that was fifty-two days ago and I have not cleared this end of this table on any day since, and I have not said the second half of it once.”
+She said, “And that was eighty-two days ago and I have not cleared this end of this table on any day since, and I have not said the second half of it once.”
 
 ## The Second Half
 
@@ -56,7 +56,7 @@ And then she said what she is not clearing it for, and she said it out loud, sta
 
 She said, “I am not clearing the near end of this table.”
 
-She said, “And here is the reason and I have been keeping it since the eighth of this month and it is the worst thing I have said out loud in this room.”
+She said, “And here is the reason and I have been keeping it since the eighteenth of this month and it is the worst thing I have said out loud in this room.”
 
 She said, “If I clear this end of this table then forty boards will go down on bare wood with nothing of mine on it, and then this strip of pale wood goes on the stone or under the table or against my fourth rib, and then I am a person who got it off her own table before a bundle came, and I will have moved it.”
 
@@ -64,7 +64,7 @@ She put two fingers of her left hand on the near end of the strip and did not li
 
 She said, “And there is nowhere in this building to move it to. There is no second copy of it anywhere on this mountain. There is a bag at the bottom of the first four flights with a dish and a clay and a ring and a key and nine inches of hand-made paper in it, and I have not used one of them in four hundred days, because a piece of paper with a sentence on it has nowhere to go.”
 
-She said, “So if I move that strip of pale wood then it is gone out of this room and it does not come back, and I have known that since the eighth of this month and I have not said it out loud until now and I am saying it now because on the first of a month I want it said in the room before it is a thing I have done.”
+She said, “So if I move that strip of pale wood then it is gone out of this room and it does not come back, and I have known that since the eighteenth of this month and I have not said it out loud until now and I am saying it now because on the first of a month I want it said in the room before it is a thing I have done.”
 
 ## The Nine Days
 

@@ -16,7 +16,7 @@ She said it out loud first, standing in the doorway, in the ordinary voice, at a
 
 She said, “I have been down that stair in the light once. Once. On the twenty-sixth of the month beginning two thousand five hundred and ninety-four, which was a hundred and two days ago, and I counted it four ways and the number is nine hundred and four and there is no nine hundred and fifth.”
 
-She said, “I am not counting it tonight. I want that said first because everything I have done in nineteen years has been counting and I am about to go down nine hundred and four steps and do not do it.”
+She said, “I am not counting it this morning. I want that said first because everything I have done in nineteen years has been counting and I am about to go down nine hundred and four steps and do not do it.”
 
 ## Why No Lamp
 
@@ -24,9 +24,9 @@ She said, “I am not taking the lamp and I have worked out why, and it is not c
 
 She did not move while she was saying it.
 
-She said, “A lamp goes down that stair and then it is a lamp in the dark at the bottom of it, and nothing in this building has ever carried light to the bottom of that stair.”
+She said, “A lamp goes down that stair and then it is a lamp in the dark at the bottom of it, and the only person in this building who has ever carried light to the bottom of that stair is me.”
 
-She said, “On the twelfth of the month beginning two thousand five hundred and sixty-four I had a lamp in my hand down there and I laid it on a step and it was the only light in that stair in nineteen years and it did not help, because a lamp that goes down with me is a lamp that is not on the table, and the table is where the figures are said.”
+She said, “On the twenty-seventh of the month beginning two thousand five hundred and sixty-four I went down that stair in oil light with a lamp in my left hand, and it was the only light in that stair in nineteen years and it did not help, because a lamp that goes down with me is a lamp that is not on the table, and the table is where the figures are said.”
 
 She put her right hand out and found the edge of the low door in the dark with the flat of it.
 
@@ -48,7 +48,7 @@ She stood on the turn for about a count of a hundred and forty.
 
 She said, “I know the number is nine hundred and four. I am carrying that. It came up out of me without my doing anything and I am not checking it against anything and I am not adding it to anything.”
 
-She said, “And there is a stair in this tower of eight hundred and eighty steps in two runs of four hundred and forty with a rail on the first four, and the two of those are two stairs and they have never been one stair and I am not going to make them one tonight.”
+She said, “And there is a stair in this tower of eight hundred and eighty steps in two runs of four hundred and forty with a rail on the first four, and the two of those are two stairs and they have never been one stair and I am not going to make them one this morning.”
 
 And then she went down the rest of it, and the bottom of that stair is a low door in a floor and she came out of it on the near side of that table into a room with a lamp standing a foot in from the near end with a trimmed wick, and the light went a hand’s width along the wood and stopped.
 
@@ -64,11 +64,11 @@ She said, out loud, standing four feet off the near end of that table, in the or
 
 She said, “And the first time I came up it afterwards I could not have done it for about a count of a hundred and forty and I stood at the near end of this table breathing at nine and counting the days since the light came down to that cut in the stone.”
 
-She said, “And tonight it was lighter. Not easier. There is no version of that stair that is easy and I have been down it in the dark twice in nineteen years and I know exactly what it is. Lighter.”
+She said, “And this morning it was lighter. Not easier. There is no version of that stair that is easy and I have been down it in the dark twice in nineteen years and I know exactly what it is. Lighter.”
 
 She stood there for about a count of a hundred and forty.
 
-She said, “That is the second thing that has come out of this room in eight days that I did not go looking for. The first was a fair hand putting a day on my arithmetic that was right. This one is a stair I went down and came back up without counting and did not fall over.”
+She said, “That is the second thing that has come out of this room in twenty-eight days that I did not go looking for. The first was a fair hand putting a day on my arithmetic that was right. This one is a stair I went down and came back up without counting and did not fall over.”
 
 She said, “And I am not going to work out what either of those two means, because I have a refusal to get down nine hundred and four steps in a hand and it takes everything I have got and I am not spending the rest of it on working out why a stair felt lighter.”
 

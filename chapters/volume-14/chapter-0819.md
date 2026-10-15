@@ -14,19 +14,19 @@ She said it out loud at about the eighth hour, standing, in the ordinary voice:
 
 She said, “Two. That is the count and it is mine and I am not rounding it.”
 
-She said, “The first was on the first of this month, at about the seventh hour, and it was that a room which does not account for the light in it is a room working to a set of figures it was never given.”
+She said, “The first was on the first of the month beginning two thousand six hundred and fifty-four, at about the seventh hour, and it was that a room which does not account for the light in it is a room working to a set of figures it was never given. That is sixty days ago and it is the only other one.”
 
 She said, “And I said it standing four feet off the near end of this table in the ordinary voice and I did not know it would carry, and it carried, and I found out at about the eighth hour that it had gone to the far end of this table and into a room that has one thing in it that has got ears.”
 
 She put two fingers on the strip of pale wood and did not move them.
 
-She said, “And the second was yesterday, at about the ninth hour, and it was a description of a place at the far side of this table read off a board that came up this stair at the second hour, line for line, twice, in the ordinary voice, with a boy of sixteen standing four feet off me and a lamp he carried up eight hundred and eighty steps.”
+She said, “And the second was yesterday, and it was a description of a place at the far side of this table read off a board that came up this stair at the second hour, line for line, three times, at about the fourth hour and about the sixth and about the ninth, in the ordinary voice, with a boy of sixteen standing four feet off me and a lamp he carried up eight hundred and eighty steps.”
 
 She said, “That one I chose. I chose the voice and I chose the length. I knew where it went while I was saying it.”
 
 She put her hand flat on the top of the table.
 
-She said, “So there are two things I have said at that end of this table and they are a day apart, and one of them I sent by accident and one of them I aimed.”
+She said, “So there are two things I have said at that end of this table and they are sixty days apart, and one of them I sent by accident and one of them I aimed.”
 
 ## The Evidence
 
@@ -34,9 +34,11 @@ And then she said the part that made the morning turn over, and she said it out 
 
 She said, “And there is a third thing and it is not a sentence.”
 
-She said, “On the twenty-eighth of the month beginning two thousand three hundred and eighty-four, at about the tenth hour, and on the fifth of the month beginning two thousand five hundred and thirty-four, in the middle of six things I was saying, and on the fifth of the month beginning two thousand five hundred and ninety-four, in front of a boy of sixteen, I said a name out loud three times in this room.”
+She said, “On the twenty-eighth of the month beginning two thousand three hundred and eighty-four, at about the tenth hour, and on the seventh of the month beginning two thousand five hundred and thirty-four, in the middle of six things I was saying, and on the fifth of the month beginning two thousand five hundred and ninety-four, in front of a boy of sixteen, I said a name out loud three times in this room. Those are three and they are all older than either of the sentences.”
 
-She said, “And on the first of this month there was a board at the far end of this table with that name on it in a hand that is not mine and not the room’s. And there is a pair of worn cuts under it with nothing in them, and they were not cut that morning. And the hand at the far end of this table copied it into the column stroke for stroke, letter for letter, and did not stop on it.”
+She said, “And on the first of the month beginning two thousand six hundred and eighty-four, which was between the first sentence and the second, there was a board at the far end of this table with that name on it in a hand that is not mine and not the room’s.”
+
+She said, “There is a pair of worn cuts under it with nothing in them and they were not cut that morning. And the hand at the far end of this table copied the whole of it into the column, stroke for stroke, letter for letter, and did not stop on it.”
 
 She stood there.
 
@@ -84,7 +86,9 @@ And then she looked at the three pieces of wood lying side by side on the near e
 
 She said, “Here is what the third sentence cost and I am going to say it before I have got used to having said it.”
 
-She said, “It is the third thing that end of this table has had from me since the first of the month beginning two thousand five hundred and ninety-four, and I have got no figure for what happens to a room that is told the same woman is going to keep standing there. Not the figures I say, which have been going into that room for nineteen years and which that room copies and does not stop on. The thing I said about me.”
+She said, “It is the third sentence that end of this table has had from me. A name three times, and both of the sentences came after the name, and a name is not a sentence and it is not a figure and it is the only one of the four things I have put across this table that has come back as anything at all.”
+
+She said, “And I have got no figure for what happens to a room that is told the same woman is going to keep standing there. Not the figures I say, which have been going into that room for nineteen years and which that room copies and does not stop on. The thing I said about me.”
 
 She said, “A room can copy a figure. A room cannot act on a figure. And I have not worked out what it does with a sentence, and I have not worked out what it will do with a sentence about a woman standing four feet off the near end of a table telling it what she is going to keep doing, and I have said it anyway.”
 
@@ -98,9 +102,9 @@ And then she said the rest of that morning out loud, standing, in the ordinary v
 
 She said, “That is a sentence about me and it is not addressed to anybody and there is no person in this building it can be refused by, and I have known that about every sentence I have said in this room for nineteen years.”
 
-She said, “And it went twenty-two paces. I know that because I said it at this end of this table in this voice and that voice goes the length of this table, and I worked that out on the first of this month at about the eighth hour and it has not changed.”
+She said, “And it went twenty-two paces. I know that because I said it at this end of this table in this voice and that voice goes the length of this table, and I worked that out on the first of the month beginning two thousand six hundred and fifty-four at about the eighth hour and it has not changed.”
 
-She said, “And it is the third thing that end of this table has had from me and I have got it now: a sentence about what it is working to, a description of a place kept at the far side of a table, and a woman standing four feet off the near end of that table telling it what she is going to keep doing.”
+She said, “And here are the three in the order they went, because I want them said in an order for once: a sentence about what that room is working to, and then a description of a place kept at the far side of a table, and then a woman standing four feet off the near end of that table telling it what she is going to keep doing.”
 
 She waited, and the light went on doing a hand’s width of the near end of that table.
 
@@ -110,7 +114,7 @@ She waited about a count of a hundred and forty.
 
 She said, “And it is thin. I want that said in this room at the ninth hour and not later, because it is going to sound like something else in four days and it is not something else.”
 
-She said, “I have said three things at that end of this table. One came back as a board with a name on it, one came back as a board with a place on it, and the third one is me, and I have got no figure at all for what a room does with the third one, and I am standing here having said it anyway.”
+She said, “I have said three sentences at that end of this table. The name came back as a board, between the first sentence and the second, so it came back to the wrong one and I am not going to call that an answer. The other two have come back as nothing at all. The third one is me. And I have got no figure whatever for what a room does with it, and I am standing here having said it anyway.”
 
 She said, “And it is thin and it holds. That is the whole of what I have got and I have had it for about a count of a hundred and forty and I have checked it twice and it has not gone anywhere.”
 

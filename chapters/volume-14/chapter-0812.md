@@ -2,15 +2,15 @@
 
 On the sixth of the month beginning two thousand six hundred and eighty-four there is a room in here and he is in it.
 
-There is no floor in this place and there is nothing to put a hand on, and he checks both of those before he lets anything arrive, because he has been in one of these ten times and he has never once been in a hurry.
+There is no floor in this place and there is nothing to put a hand on, and he checks both of those before he lets anything arrive, because he has stood in rooms like this one before and he has never once been in a hurry about one.
 
-The lamp in the cage at the far end of that long table is out and has been out a hundred and fifty-five days, and the wall behind it is the wall, and the cut in the stone a hand’s breadth to the left of the cage is a cut in the stone and nothing is standing at it.
+The lamp in the cage at the far end of that long table is out and has been out a hundred and fifty-five days, and the wall behind it is the wall, and the line cut in the stone of that wall is a line cut in a stone wall and the only light in this building that ever came down to it went out on the first of a month a hundred and fifty-five days ago.
 
 The only light is an oil lamp standing on the top of the table a foot in from the near end. The light goes a hand’s width along the wood and stops there. Past that it is twenty-two paces of dark, and the light has no business going further, and he does not know why and does not spend a count of a hundred on it.
 
 ## What Is In The Room
 
-There is a bar nine feet nine flat against the wall on the left with a hold-iron at each end, and it is the oldest thing in here that is not the table.
+There is a bar nine feet nine flat against the wall on the left with a hold-iron welded at each end, and it is the only thing in here that came up that stair on a person’s shoulder.
 
 There is a bundle of papers under the far end of the table corded round twice and not knotted, and nothing has moved it.
 
@@ -40,9 +40,9 @@ He carries it twenty-two paces with it in his right hand, and at about the eleve
 
 There are rows of figures on them. Rows of figures in a small hand with three fingers and a thumb in it, running the length of the wood, going back a long way, and they are the figures that are cut into the pale strip at the near end of this table.
 
-And under some of those rows, and not under all of them, there is a second row in a fair hand.
+There is nothing under any of them. Not one row of anything, in any hand, anywhere along any of those boards, and he looks at the middle of that stack for about a count of ninety because a stack of forty boards with figures on the tops of them is a thing a person looks at the middle of, and there is nothing there.
 
-He does not work out what that is. He looks at it for about a count of ninety and he goes on down the table, which is the way he has put down about four hundred things in nineteen years.
+He does not work that out either. He goes on down the table, which is the way he has put down about four hundred things in nineteen years.
 
 He puts the lamp down on the top of the table about four feet short of the far end.
 
@@ -56,7 +56,7 @@ A stretch of the far side of the table about the length of a forearm, paler than
 
 He has been told about it. He was told about it in a dark room on the seventh of the month beginning two thousand five hundred and thirty-four by a woman standing four feet off the other end of the same table, and what she told him was that it is not a chair, and that it is addressed, and that it is the right size for somebody who is not here, and that she cannot tell him what it is for.
 
-That is all she told him. He has had it for a hundred and forty-nine days and he has been in front of it once, from a doorway, at a distance, on the evening she told him, and that is the whole of the standing he has got.
+That is all she told him. He has had it for a hundred and forty-nine days and he has been in this room and looked down that table at that end of it once, from a doorway, at a distance, on the day she told him, and that is the whole of the standing he has got.
 
 He stands in front of it now.
 
@@ -84,7 +84,7 @@ A woman has been standing four feet off the near end of that table for three hun
 
 The boards under the middle of that table are the sound of it.
 
-And under some of those rows there is a second hand, in fair writing, that does not make the mistakes the first hand has already made, and neither of them has said anything about it.
+And the boards under the middle of that table are the sound of it, and there is no other person in this room to hear what they sound like, and there has not been one in nineteen years.
 
 He looks at the worn place for a count of a hundred and forty.
 
@@ -112,4 +112,4 @@ And he does not go and stand at the near end of that table, four feet off, where
 
 He leaves the lamp where he found it and the room goes on being the room.
 
-And that is what a yes said to a chair is: it is a sentence in the present tense in a room with no one in it, made by a person who cannot hear it, about a thing that has been empty for four hundred years and has just been told it is not going to be.
+And that is what a yes said to a chair is: a sentence in the present tense, in a room with no one in it, made by a person who cannot hear it, to a thing that has been empty for four hundred years and has just been told in words that it is not going to be left that way.

@@ -10,7 +10,9 @@ She said it out loud at about the seventh hour, standing four feet off the near 
 
 She said, “The light goes a hand’s width along the near end of this table and stops, and to look at anything at the far end of it I have to carry this lamp twenty-two paces and put it down there, and then this end of the table is a dark table with three pieces of wood on it and a figure of mine in two of them.”
 
-She said, “On the ninth of this month I solved that once. I took the strip of pale wood off this table and put it under my left arm against my fourth rib and carried the lamp in my left hand as well and walked twenty-two paces on the stones with my right arm open in front of me, and that is the only time in nineteen years that I have looked at anything at the far end of that table and had my own record with me.”
+She said, “On the ninth of the month beginning two thousand six hundred and fifty-four I solved that once. I took the strip of pale wood off this table and put it under my left arm against my fourth rib, and carried the lamp in my left hand as well, and walked twenty-two paces on the stones with my right arm open in front of me.”
+
+She said, “And that is the only time in nineteen years that I have looked at anything at the far end of that table and had my own record with me.”
 
 She held up her left hand in the light.
 
@@ -56,7 +58,7 @@ What came up out of the wood under a light that came in across it was the line w
 
 She lay still on the stone for about a count of a hundred and forty.
 
-What she said out loud, standing in her own head and not in the room, was this, and there is no record anywhere in this building that she said any of it, because she did not say it.
+And here is the thing she did not say, and she has not said it in this room and she is not going to say it now, and there is no line anywhere in that stack of forty boards that says any of it, because nothing was written and nothing was said.
 
 ## The One More Thing
 
@@ -66,7 +68,7 @@ And not deeper in the middle than at the edges. She said that one out loud in th
 
 And in the middle there is no depth at all. There is a place about two fingers wide, in the middle of the length of that wear, where the wood is not worn down at all, and it is not worn on either side of the gap either, so the gap does not have edges to it, and there is no way at all of looking at that which makes it an edge.
 
-She has been carrying that one about since the ninth of this month and she has told no one, and there is no instrument in this county that could read it off a piece of wood, and she was not going to say it out loud standing in the dark forty feet from a boy of sixteen with a lamp at his feet.
+She has been carrying that one about since the ninth of the month beginning two thousand six hundred and fifty-four and she has told no one, and there is no instrument in this county that could read it off a piece of wood, and she was not going to say it out loud standing in the dark twenty-two paces from a boy of sixteen with a lamp at his feet.
 
 ## Not Sitting In It
 
@@ -90,7 +92,7 @@ She said, “And I am not sitting in it and not one person has put me in it. Not
 
 And then she carried the lamp back twenty-two paces herself and put it down on the wood a foot in from the near end of that table, and the light went a hand’s width along it and stopped.
 
-And the three pieces of wood were where she had left them, face up, side by side, and she squared her own two of them with two fingers of her left hand and left the third one where it fell, and she had said out loud on the second of this month that she was not going to turn that one over.
+And the three pieces of wood were where she had left them, face up, side by side, and she squared her own two of them with two fingers of her left hand and left the third one where it fell, and she had said out loud on the second of the month beginning two thousand six hundred and eighty-four that she was not going to turn that one over.
 
 And she said the last of that morning out loud, standing, in the ordinary voice, at about the ninth hour, and she said it about the light and not about the wood.
 

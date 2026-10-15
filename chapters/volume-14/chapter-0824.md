@@ -34,7 +34,7 @@ She did not move while she was saying it.
 
 She said, “And I counted it four ways in the light on the twenty-sixth of the month beginning two thousand five hundred and ninety-four and the number has not changed.”
 
-She said, “Things have gone down that stair. I have gone down it. A lamp has gone down it four times. Nine hundred and four steps is not a distance, it is a way of getting something out of this room and nowhere else.”
+She said, “Things have gone down that stair. I have gone down it. A lamp has gone down it once, on the twenty-seventh of the month beginning two thousand five hundred and sixty-four, and I have never found out what it was for. Nine hundred and four steps is not a distance, it is a way of getting something out of this room and nowhere else.”
 
 She said, “And a man comes up it on the first of a month with forty boards under one arm, and he has done that since before this building was a building, and the two of those are the same stair going the same way at the same hour on the same morning, and that is not a coincidence I have worked out. That is how this building works. Something goes down that stair on the morning something comes up it, or it does not go at all.”
 
@@ -46,7 +46,7 @@ She said, “I am not going to give you the sentence I have given you before abo
 
 She said, “I have said a sentence like that in this room before, about other things, about other mornings, and I am not going to spend it here. I have got one of those and it has been true more than once and it has never once helped, and I am not going to use it on the one thing in nineteen years that I actually have to do.”
 
-She said, “So I am going to say the other one, which is that I know what a refusal is made of, and I worked it out on the second of the month beginning two thousand two hundred and ninety-four with a strip of pale wood in my hand, and it is a piece of paper with a sentence on it and a hand that put it there, and that is it. That is the whole of it and there is nothing else in this building that can carry one.”
+She said, “So I am going to say the other one, which is that I know what a refusal is made of and have known it since I was nine years old, and it is a piece of paper with a sentence on it and a hand that put it there, and that is it. That is the whole of it and there is nothing else in this building that can carry one.”
 
 ## Five Blanks
 

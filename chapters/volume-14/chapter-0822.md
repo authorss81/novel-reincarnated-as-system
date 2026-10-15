@@ -4,7 +4,7 @@ Fifty-two days since the eighth stage. Four hundred and seventeen days in that r
 
 There was no person in the room. The lamp was standing on the wood a foot in from the near end of that table and the light was going a hand’s width along it and stopping.
 
-She had said her figures out loud at the seventh hour as she says them every morning, standing, in the ordinary voice, and then she had nothing to do for an hour and forty minutes, and then she did this.
+She had said her figures out loud at the seventh hour as she says them every morning, standing, in the ordinary voice, and then there was an hour and forty minutes in which she did not do one single thing, and then she did this.
 
 ## What The Keeping Is
 
@@ -24,13 +24,13 @@ There is a fair hand that puts a day on her arithmetic about one morning in twen
 
 There is a light. It is not the room’s light and it does not matter that it is not the room’s light. It comes up eight hundred and eighty steps in a bag on the back of a boy who has never been asked for it and has never been sent and is not bound and not entered.
 
-There is a third hand that wrote a name on a board on the first of this month and a board that describes a place at the far side of the table with the words *it is kept* in it.
+There is a third hand that wrote a name on a board that came up that stair on the first of the month beginning two thousand six hundred and eighty-four, and a fair hand on a board that came up on the first of this month, and the fair hand is not the room’s own hand and she cannot tell you that it is the third hand’s.
 
 Every part of that works.
 
 ## What She Cannot Say
 
-There are three reasons a person says no to a thing that works, and she had all three, and she said two of them out loud standing four feet off the near end of that table at about the ninth hour, and the third one she said at the fourth hour and did not get to the end of.
+There are three reasons a person says no to a thing that works, and she had all three, and she said two of them out loud standing four feet off the near end of that table at about the ninth hour, and she got nine words into the third one at about the fourth hour and then stopped talking.
 
 The first is that she cannot be given anything. That is nineteen years old and it is paid and it is not going to be argued about.
 
@@ -38,11 +38,11 @@ The second is that she cannot check it. That is the one she said at length.
 
 A row of figures gets said out loud in a dark room by a woman standing four feet off a table, and a fair hand copies it, and the copy is a day on.
 
-And the only thing in the building that could say whether the copy was right is at the far end of that table, in the dark, where the lamp does not reach. She has carried that lamp twenty-two paces four times in nine days and two of those four times cost her both hands.
+And the only thing in the building that could say whether the copy was right is at the far end of that table, in the dark, where the lamp does not reach. She has carried that lamp twenty-two paces four times in sixty days and two of those four times cost her both hands.
 
 The third one is that she is alone in that room at night and has been for four hundred and seventeen days and has never once been able to say that that is why.
 
-She said the third one out loud at the fourth hour and she got nine words into it.
+She got nine words into that one at about the fourth hour and stopped, and she said the stopping out loud instead of the rest of it.
 
 She said, “I am not saying this one. I have not said this one in nineteen years and I am not starting on a morning where it would be the reason.”
 
@@ -86,17 +86,19 @@ She said, “There is a strip of pale wood lying face up on this table with a pr
 
 She said, “And I am not moving it off the top of this table, and I am not moving it into a column, and I am not leaving it lying in the dark at the far end while I carry a lamp in two hands.”
 
-She said, “I worked out on the eighteenth of this month that keeping would mean it stopped travelling, and that it would have to stop travelling, and that there is nowhere in this building to move it to. That is still true and I am not doing it.”
+She said, “I worked out on the eighteenth of the month beginning two thousand six hundred and eighty-four that keeping would mean it stopped travelling, and that it would have to stop travelling, and that there is nowhere in this building to move it to. That is still true and I am not doing it.”
 
 She did not move while she was saying it.
 
-She said, “And I am not vacating the record. I am not stopping saying figures out loud at this table at the seventh hour in the ordinary voice. I said at this table on the second of this month that I am going to keep standing four feet off the near end of it and I said it at the ninth hour yesterday where twenty-two paces of that table could hear it, and I meant it then and I mean it now.”
+She said, “And I am not vacating the record. I am not stopping saying figures out loud at this table at the seventh hour in the ordinary voice.”
+
+She said, “And yesterday, at the ninth hour, standing four feet off this end of it in front of a lamp, I said out loud across twenty-two paces of that table that I am going to keep standing here. I meant it then and I mean it now, and I am not moving the strip to make sure of it.”
 
 She said, “So the no is a no to the keeping. It is not a no to the record.”
 
 She said, “It is not a no to the place at the far side of this table, which is not mine and is not anybody’s and was not given to anybody when it was described to me on the first of this month.”
 
-She did not fill the count with anything.
+Nothing went into that count and nothing came out of it.
 
 She said, “It is not a no to a boy of sixteen who is not bound and not entered and not sent. And it is not a no to a hand that puts a day on my arithmetic and is right, and I have not asked for that hand and I am not going to ask for it and I am not going to tell it to stop.”
 
@@ -104,15 +106,15 @@ She said, “It is not a no to a boy of sixteen who is not bound and not entered
 
 And then she said the last of it, out loud, standing, in the ordinary voice, at about the ninth hour and twenty minutes, and it is the sentence she has been walking towards since the fifth of the month beginning two thousand five hundred and ninety-four when she first said a name out loud in front of a person and could not put it back.
 
-She said, “And I am going to say the last of it now while I am standing here, because I am not saying it out loud twice and I am not writing it on anything tonight.”
+She said, “And I am going to say the last of it now while I am standing here, because I am not saying it out loud twice and I am not writing it on anything today.”
 
 She said, “A no said in this room cannot be unsaid.”
 
 She stood there for about a count of a hundred and forty with her hand on the wood and the light going a hand’s width along the near end of that table and twenty-two paces of dark behind the light.
 
-She said, “Not because a thing hears it. I have said that three times now and I do not know that it does and it does not matter. Because there is a hand at the far end of this table that has been writing down what goes out across this table for four hundred years, and it took one stroke that lasted a count of nine on a board with a name on it, and it did not stop on it.”
+She said, “Not because a thing hears it. I have said that before, in this room, more than once, and I do not know that it hears and it does not matter. Because there is a hand at the far end of this table that has been writing down what goes out across this table for four hundred years, and it took one stroke that lasted a count of nine on a board with a name on it, and it did not stop on it.”
 
-She said, “So that is in the room now. It is the third thing that end of this table has had from me and it is the first one that is a no, and it is out loud and standing and in the ordinary voice, and there is nothing in this building I can do to put it back.”
+She said, “So that is in the room now. It is the fourth sentence that end of this table has had from me and the first one of the four that is a no, and it is out loud and standing and in the ordinary voice, and there is nothing in this building I can do to put it back.”
 
 She took her hand off the wood.
 

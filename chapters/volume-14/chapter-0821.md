@@ -56,13 +56,13 @@ He stopped.
 
 He did not take a breath for about a count of ninety and she watched him not take it, and the lamp went on going a hand’s width along the wood and stopping.
 
-She said, “That was the whole of what you were going to say. I am not asking you what you were going to say and you are not going to tell me, and both of those are true and I said that no out loud at the seventh hour and forty minutes on the fourth of the month beginning two thousand seven hundred and fourteen, in this room, in front of a lamp.”
+She said, “That was the whole of what you were going to say. I am not asking you what you were going to say and you are not going to tell me, and both of those are true, and I have said the first of the two out loud in this room before, and it is on the page of me in four hundred and sixteen days that I do not ask a person what they were going to say.”
 
 She said, “And I am not giving you a job. I am not giving you a task and I am not giving you an instruction and I am not going to, now or on any night after this one, and when it comes up again in this building in front of anybody I am going to stand four feet off that table and say that I said it here first.”
 
 She said, “I told you on the eleventh of the month beginning two thousand six hundred and fifty-four that a person who can be given a thing can be given a job. That is still true and it is the whole reason and I have not found a better one in fifty-three days.”
 
-She did not fill the count with anything.
+Nothing went into that count and nothing came out of it.
 
 He said, “That is a different reason.”
 
@@ -78,7 +78,7 @@ She said, “No.”
 
 He said, “Why not.”
 
-She did not move while she was saying it and neither did he.
+Neither of them moved while that was being said, and the lamp went on doing a hand’s width of the near end of that table behind them.
 
 She said, “Because there is not one other person in this building and that is the whole of the reason and I have had about a count of ninety of knowing that it was going to be the answer.”
 
@@ -90,21 +90,23 @@ He said, “I have got a yes because there was not one alternative and that is n
 
 She said, “That is right and it took you four seconds and I am not going to pretend it did not cost me something to hear it.”
 
-The light went a hand’s width along the wood and stopped.
+The light went on going a hand’s width along that wood and stopping there.
 
 She said, “And I want it said out loud in this room at about the ninth hour and forty minutes, because it is the best argument that anybody has made in this room in four hundred and sixteen days against me giving you anything at all, and it was made by a boy of sixteen in four seconds and it is correct.”
 
 He said, “Then why did you not just not say it.”
 
-She said, “Because there is not one person in this building to keep a record who is not me, and I worked that out at this table on the eighteenth of this month out loud, and there is not one person in this building who can be given the fourth part, and I would rather the fourth part stay with me than go into a thing that cannot be undone.”
+She said, “Because there is not one person in this building to keep a record who is not me, and I worked that out at this table on the eighteenth of the month beginning two thousand six hundred and eighty-four out loud, and there is not one person in this building who can be given the fourth part, and I would rather the fourth part stay with me than go into a thing that cannot be undone.”
 
 ## Nine Counts Of Something
 
-And then it went through her, the whole of it, about as long as it takes a lamp to be looked at properly, and she did not name it and she did not put it anywhere and she did not say one word about it out loud, and it went.
+And then it went through her, the whole of it, about nine counts of it, which is about as long as it takes a lamp to be looked at properly, and there was nothing in it an instrument could get at, and she did not have a word for it and she did not go looking for one, and it went.
 
 Afterwards she put two fingers of her left hand on the top of that table and said, out loud, in the ordinary voice:
 
-“I have got the second hour. You will be in this building on the first of the month at the second hour with the lamp and you will not be asked, because I am not asking anybody for anything and I am agreeing to you, and I know which of those two it is and so do you.”
+“I have got the second hour. And on the twenty-seventh of the month beginning two thousand six hundred and eighty-four I said out loud standing at this table that you would not be in this building at the second hour of a month, and I have changed my mind in three days, and I am not going to do that quietly.”
+
+“You will be in this building on the first of the month at the second hour with the lamp and you will not be asked, because I am not asking anybody for anything and I am agreeing to you, and I know which of those two it is and so do you.”
 
 He said, “Then I will say it in the ordinary voice like everything else in this room.”
 
@@ -112,7 +114,7 @@ She said, “Do not do that either.”
 
 He said, “Why.”
 
-She did not fill the count with anything.
+Nothing came into the room while she said it and nothing went out of it.
 
 She said, “Because you have not done it before and I have not heard it in a long time and I would rather it did not start on a morning like this one.”
 
@@ -124,7 +126,7 @@ She said, “If I stop then a fair hand under a column stops having anything to 
 
 He said, “And you will not stop.”
 
-She did not move while she was saying it and neither did he.
+He had a finger on the edge of that table and he left it there, and so did she.
 
 She said, “No.”
 
@@ -140,7 +142,7 @@ She said, “I have just said no to you in this room and I have said yes to you 
 
 She said, “And there is not one instruction in this building that says you may not, and there is not one thing above the line that knows you exist, and that is the arrangement and it has been the arrangement since the eighth of the month beginning two thousand five hundred and thirty-four, the morning after I told you about a place at that table, when you came up that stair with a cup and a half of oil in your hand and nothing in your face at all.”
 
-The light went a hand’s width along the wood and stopped.
+A hand’s width of it went along the wood and stopped, and it does that at the tenth hour as it does at any other hour.
 
 She said, “So the no I have just said does not keep you out of this room. It keeps one thing out of this room and it is the fourth part, and you know the fourth part and I have not told you anything else.”
 
