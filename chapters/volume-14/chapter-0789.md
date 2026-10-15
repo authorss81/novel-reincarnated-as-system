@@ -1,14 +1,14 @@
-# Under The Table In Oil Light
+# The Grain Runs Up
 
 She had been putting her hand on that strip of pale wood in the dark for two hundred and seventy days and she had never once seen it, and on the eighth of the month beginning two thousand five hundred and sixty-four at the seventh hour she said that out loud, standing, in the ordinary voice, at the near end of that table, to a boy of sixteen holding a lamp two inches in from the edge of it.
 
-He said, “Then get it into the light.”
+“Then get it into the light.”
 
-She said, “It is under the table.”
+“It is under the table.”
 
-He said, “I know where it is.”
+“I know where it is.”
 
-She said, “I know where it is as well and that is not the difficulty.”
+“I know where it is as well and that is not the difficulty.”
 
 ## Two Hours
 
@@ -74,9 +74,13 @@ He said, “It is not one number. It is three. Days and hours and minutes.”
 
 She said, “It is.”
 
+He put his finger back at the top of the wood and went over the head of it again, slowly, the way a person goes over a line they have been given the wrong reading of.
+
 He said, “And the same three are cut again in the first pair under the head.”
 
 She said, “The same three.”
+
+He went on down past the head of it.
 
 He said, “And there is a five in the second pair.”
 
@@ -98,21 +102,21 @@ She said, “Nothing in any of them, and I said that out loud to you on the seve
 
 ## What An Empty Pair Is For
 
-He said, “What is an empty pair for.”
+“What is an empty pair for,” he said, from off the stone and not close to her.
 
 And she lay on the stone with her left hand flat on her own record and found that she had an answer, and that the answer was not a rule, and that she had built it herself out of what she has seen that hand do.
 
-She said, “A pair of cuts is where a figure goes when I am put up that stair in an armful. That is what it is for. That is the whole of what it has ever been for in my life, and I have been in this room two hundred and seventy days and I have watched four of them get carried past that shelf and I have never once been inside one.”
+“A pair of cuts is where a figure goes when I am put up that stair in an armful. That is what it is for. That is the whole of what it has ever been for in my life, and I have been in this room two hundred and seventy days and I have watched four of them get carried past that shelf and I have never once been inside one.”
 
-She said, “And a pair with nothing in it is a pair that was cut and not written in. And I have known about those twelve since the seventh of that month and I have not said them out loud to anybody until tonight, because I have never had anybody in this room who was going to ask.”
+“And a pair with nothing in it is a pair that was cut and not written in. And I have known about those twelve since the seventh of that month and I have not said them out loud to anybody until tonight, because I have never had anybody in this room who was going to ask.”
 
-He said, “You have just said them out loud to me.”
+“You have just said them out loud to me.”
 
-She said, “I have just said them out loud to you, which is the first of those two things happening and not the second.”
+“I have just said them out loud to you, which is the first of those two things happening and not the second.”
 
-He said, “What is the second.”
+“What is the second.”
 
-She said, “Working out what they are.”
+“Working out what they are.”
 
 And then she said the whole of it, on her back, on the stone, with her arm open at her side and the lamp standing up off the floor.
 
@@ -146,9 +150,7 @@ She said, “Tonight. And I have said the word tonight out loud, because I have 
 
 ## Not Letters
 
-And before he could say anything about that, he said the other thing, which was the thing she carried for the rest of that month.
-
-He said, “It is not letters.”
+“It is not letters,” he said, before he could have said anything about the word tonight.
 
 She said, “No.”
 
@@ -159,6 +161,8 @@ She said, “I know there is not one letter on it. I put two of those figures th
 He said, “Then how do you know what is on it.”
 
 And she stopped.
+
+She stayed where she was, with her back against that leg of the table and the lamp standing on the stone in front of her, and the light went a hand’s width along the strip of pale wood and stopped there, and the rest of that room was twenty-two paces of dark.
 
 She said, “I do not know how I know what is on it.”
 

@@ -3712,3 +3712,22 @@ been to the bottom of her own stair in light and did not count it, and said why.
 **Not to be named in Batch 0002:** the moral answer · the Anchor · the tax · what the walls are for ·
 the bargain's mercy · anything a thing above the room is doing · the third hand's board before ch 810 ·
 the terms before ch 826 · the price before ch 826 · the address before Volume 15.
+
+**Re-measured after the 15 Oct 2026 review, nothing here moved.** The repair closed ten defects and none of
+them touched a thread. Two of them bear on what Batch 0002 inherits and are recorded here so the next drafter
+has them in the same place.
+
+1. **THE CONDITION SHE SET IS NOW SPENT AS A CONDITION AND NOT AS A RULE.** At ch 791 she said out loud that
+   **if there is no lamp in this room on the fifth of the month beginning 2,594 then she does not take the
+   seventh stage**, and at ch 793 the condition came within a count of a hundred and forty of being true:
+   **two hours of that night she stood four feet off that table in the dark with no oil in the building for
+   nine years and none on the mountain and no figure anywhere that said the lamp would come up eight hundred
+   and eighty steps.** He arrived about a count of a hundred and forty past the eighth hour. **The condition
+   has now been tested once, in front of a person, and held. It is not a rule and it is not a precedent; it
+   is one night. Batch 0002 may put the supply in front of her again and it may not restate this one.**
+2. **NO BURN RATE, NO EXHAUSTION DATE, NO CUPS FIGURE EXISTS ON THE PAGE, AND NONE MAY BE INVENTED.** The
+   review's repair to ch 793 states the supply problem in the only terms available — no oil in the building,
+   none on the mountain, a lamp arrives by hand up eight hundred and eighty steps or it does not — **and
+   deliberately stops short of a figure.** **That boundary still holds for Batch 0002**, whose firsts of a
+   month are 2,624, 2,654 and 2,684. **What is on the page and may be relied on: from ch 795 the light in
+   that room is owed and not hers, the vessel went down the stair empty, and a lamp has to be carried up.**

@@ -10341,10 +10341,14 @@ repair's own claims were wrong and a future phase must not inherit them.
 
 9. **Immortal Vessel 8 sat outside its own batch.** Ch 809 is dated **2,666**; Batch 0002 was stated as days
    **2,601–2,660**, so the stage sat six days past the end of the batch that names it the climax, in the one
-   table a drafter trusts. **Batch 0002 is now 2,601–2,666 and Batch 0003 is 2,667–2,720.** 0001 and 0004
-   are unchanged. **No chapter range moved**, the four batches still cover 781–840 with no gap and no
-   overlap, and each of the three stages now sits inside its own batch. This also corrects the range the
-   Batch 0001 prompt hands to the Batch 0002 creation instruction.
+   table a drafter trusts. 0001 and 0004 are unchanged. **No chapter range moved**, the four batches still
+   cover 781–840 with no gap and no overlap, and each of the three stages now sits inside its own batch. This
+   also corrects the range the Batch 0001 prompt hands to the Batch 0002 creation instruction.
+   **SUPERSEDED IN PART AFTER THE 15 OCT 2026 REVIEW, AND THE FIGURES HERE WERE ONCE MORE WRONG.** The first
+   pass moved Batch 0002's end only as far as 2,666, which left the third hand's board with nowhere to land:
+   bundles come up on a first of a month, and **the only first of a month after ch 809 is 2,684.** The
+   settled bands are **Batch 0002 = 2,601–2,684 and Batch 0003 = 2,685–2,720.** Ch 810 is therefore
+   eighteen days after ch 809 rather than four. **No chapter range and no stage date moved to achieve it.**
 
 **One canonisation the first repair performed and has now undone.**
 
@@ -10400,7 +10404,9 @@ figure it carried is already implied by the arrangement standing since the twelf
 ### What is on the page, measured
 
 - **Fifteen chapters, 30,500 words of body prose on method B** (`grep -v '^#' <file> | wc -w`, summed),
-  average 2,033. Per chapter: 781 1,924 · 782 1,907 · 783 2,061 · 784 1,801 · 785 1,822 · 786 2,049 ·
+  average 2,033. **SUPERSEDED BY THE 15 OCT 2026 REVIEW REPAIR BELOW, which re-measures the batch at 31,117
+  words, average 2,074, and which retitles four chapters.** The figures here are kept as written at the time
+  and are not to be quoted. Per chapter: 781 1,924 · 782 1,907 · 783 2,061 · 784 1,801 · 785 1,822 · 786 2,049 ·
   787 1,921 · 788 2,131 · 789 2,630 · 790 1,733 · 791 1,855 · 792 1,904 · 793 2,854 · 794 1,884 ·
   795 2,024. **Ch 793 is the longest in the batch and ch 790 the shortest, and both are where the scene's
   arc is longest and shortest.**
@@ -10535,3 +10541,129 @@ stage date or a cost.**
 from different layers of the plan; the review that repaired Batch 0001's card checked the batch's own figures
 against the page and did not check D1's 2,624 against D4's ch 809. **A drafter who has not read this will put
 a bundle day in the wrong chapter and cannot undo it inside a batch.**
+
+## VOLUME 14 BATCH 0001 — REPAIRED AFTER THE 15 OCT 2026 REVIEW, ten defects, the plot unmoved
+
+**`logs/next-0011.review.log` reviewed the finished batch (ch 789–795 written this phase, one repair to
+ch 788) and returned ten findings. All ten are closed. None of them moved a chapter, a date, a stage, a
+cost, a promise or the batch's shape. What moved is arithmetic that contradicted the batch's own state
+record, two dead cells in a planning table that were still live text, three hours that contradicted the
+hour before them, four titles that restated their own chapters, and the dialogue-tag ceiling.**
+
+### The two blocking ones
+
+1. **`state/current.md` handed the next batch the struck figures.** Its *What is next and what is not* block
+   still read *Batch 0002 is ch 796–810, days 2,601–2,666 … midpoint ch 803: the second bundle comes up with
+   the place described as kept*, and named Batch 0003 at 2,667 — every one of which the outline's own
+   Corrections section and `workspace/volume-14-batch-0002/PROMPT.md` had already resolved the other way.
+   **`current.md` is the file headed *a cold reader starts here* and it was carrying the dead numbers.**
+   Corrected to **2,601–2,684**, to ch 803 being a plain forty-board bundle on the first of the month
+   beginning 2,654, to **the place described as kept being ch 818 and Batch 0003's**, to Batch 0003 at
+   **2,685–2,720**, and to the three firsts of a month in the band being 2,624, 2,654 and 2,684. The
+   *Four retitled cards* bullet was wrong in the same file and is corrected below.
+2. **The escalation table's bad cells were never struck.** `outline/volume-14.md` said of itself that the
+   table's `2,601–2,666` *is struck*, and it was not: rows 0002 and 0003 still carried live text reading
+   `2,601–2,666`, `2,667–2,720` and *midpoint ch 803: the second bundle comes up with the place described as
+   kept*. **A correction section that asserts a strike it has not performed is worse than no correction,
+   because the reader believes it.** Both cells are now struck in place with `~~…~~` and the corrected value
+   set beside them, with a note under the table saying the strikes are live and not annotations.
+
+### Four arithmetic errors on the page, all of the same kind
+
+3. **ch 792 said the wrong in-room count, twice.** `D − 2,301` at day 2,590 is **289**. The chapter said
+   *two hundred and eighty-three days* at both line 23 and line 87. **It was the only one of the seven new
+   chapters that drifted on the series its own state file derives.**
+4. **ch 791 gave nineteen days to a first eleven days away.** Day 2,583 → 2,594 is **eleven**; → 2,598 is
+   fifteen, and the fifteen was right, so the sentence carried one correct figure and one wrong one under a
+   heading built out of the wrong one (`## Nineteen And Fifteen`). The same chapter also dated the day she
+   first named the first of 2,594 to the **twenty-second** of the month beginning 2,534 — twice — when
+   **ch 782, the twelfth**, is where she says that date out loud for the first time and ch 791's own line 47
+   already says *the twelfth*. Corrected: the heading is `## Eleven And Fifteen`, and the closing section's
+   `## Four Days Off` was ch 792's arithmetic carried backwards and is now `## Fifteen Nights`.
+5. **ch 791 leaked a later chapter's count.** *a room with a person at the far end of it who has not looked up
+   in two hundred and ninety-nine days* — **299 is ch 795's in-room figure, seventeen chapters later** — and
+   at day 2,583 it is **282**. Corrected.
+6. **Two hours contradicted the hour in front of them.** **ch 795**: *at about the ninth hour he picked up the
+   empty lamp* and then, the same continuous descent two paragraphs later, *she said out loud … at the seventh
+   hour of the seventh* — the chapter's own opening hour, carried down. Corrected to the ninth. **ch 793**
+   had the same defect inside one sentence: the lamp burns *until the eleventh hour* and then she says the
+   last of the night *at the ninth hour*. Corrected to the eleventh.
+
+**Two more of the same family, found while fixing the four, not on the reviewer's list.** ch 793 said she had
+been working on the objection *for eleven nights* when the twentieth to the fifth is **fifteen**. And ch 791
+carried ch 792's *four days to the first* into a chapter that is **eleven** days out. **And ch 793 closed by
+calling the leaking of her figure *the first* time, in the same chapter that had already said out loud that
+it was *the second* — the closing said *And that is one, and it is the first* against *that is the second
+time* four hundred words earlier.** Corrected to two, and to a sentence that does not restate the exchange.
+**The pattern is one bug — a figure remembered from a neighbouring chapter or an earlier line instead of
+derived from this one — and it is the exact failure the day table exists to prevent.**
+
+### Craft, four findings
+
+7. **The dialogue-tag ceiling.** ch 789 ran **sixty-six** tag paragraphs out of eighty-four (thirty-nine
+   `She said,`, twenty-five `He said,`); ch 793 ran sixty out of eighty-six. `AGENTS.md` caps a construction at
+   two consecutive and a chapter built almost entirely out of `She said, "…"` is a transcript with the
+   physical detail left standing around it. **ch 789 is down to fifty-two bare tags and ch 793 to forty-two,
+   longest unbroken run six in both**, by converting the mechanical exchanges into inline-tag speech, by
+   giving the reading of the strip an action beat between the boy's discoveries so that he keeps discovering
+   it, and by putting physical business where a stage direction would once have been a speech tag. **No line
+   of dialogue was dropped.** *In the ordinary voice* was cut from two places where it was decorative and
+   kept in the two in ch 793 where it carries the naming of Yuan and the naming of the cost, because the
+   phrase only means anything while it is rare. **The same ceiling still stands elsewhere in the batch and is
+   recorded rather than hidden: ch 783 runs twenty-nine bare tags and ch 788 thirteen, both written before
+   this pass and both outside the seven chapters the review covered.**
+
+8. **Outline rule D3 was carried for eleven chapters and never applied to two.** Every chapter worked in the
+   room has to say how far the light goes. **ch 789 and ch 794 had it between them and neither had it.** Both
+   now carry the measure, ch 789 at the moment her hand stops on the strip in the light and ch 794 at the
+   strip face up on the table. ch 791 is not a gap: **he is not on that stair that night and there is no lamp
+   in that room to measure.** ch 781–785 and ch 787 are not gaps either; the lamp is not in the room yet.
+9. **Four titles restated their own chapters.** *Under The Table In Oil Light* · *The Lamp Down Nine Hundred
+   And Four* · *Taken In Oil Light* · *After The Writing*. Each names the scene instead of naming the thing,
+   which is what a chapter title is for. **Four replaced, all re-measured free against all 795 standing
+   headings:** ch 789 **The Grain Runs Up** · ch 792 **What A Lamp Does On A Stair** · ch 793 **Seven** · ch 794
+   **The Little Finger**. Every reference updated in `state/chapter-summaries.md`, `state/current.md`,
+   `workspace/volume-14-batch-0001/PROMPT.md` and `workspace/volume-14-batch-0002/PROMPT.md`, the last of which
+   had borrowed the retired *Taken In Oil Light* for its ch 809 card. **Titles only. Nothing else in any of
+   the four chapters moved.**
+10. **The batch climax had no resistance.** ch 791 set a hard conditional — *if there is no lamp in this room
+    on the fifth then I do not take the seventh stage* — and ch 792 resolved the supply question eight days
+    early, so ch 793 opened with the stage simply happening. **A climax with nothing standing in front of it
+    is an execution.** ch 793 now opens on **two hours in the dark with the conditional live and hers**, no
+    oil in the building for nine years, none on the mountain, no figure anywhere that says the lamp will come
+    up eight hundred and eighty steps, and a woman counting a stair because counting is the only thing she
+    has. He arrives about a count of a hundred and forty past the eighth hour and she makes him ask what she
+    was waiting for, and *then what was the two hours* is answered with one word. **The stage is still taken
+    at ch 793, on day 2,598, at the ninth hour, in oil light, at seventy-four days, and its cost is still *she
+    cannot be hidden by the dark*.** What changed is that she nearly did the other thing and had a person in
+    the room to say so to.
+
+### What was deliberately not touched
+
+- **The ch 788 repair stays.** The reviewer was right that *I have not broken it once in twenty-two days*
+  was arithmetically correct — ch 788 is day 2,567, the arrangement was made at ch 782 on the twelfth, and
+  2,567 − 2,545 = 22 — and wrong that it should come back: `outline/volume-14.md` budgets
+  `grep -oi "twenty-two days"` at **0** for the volume, the budget exists to retire a stale stat about days
+  of notice, and **a grep budget is cheaper to obey than a volume-wide collision to explain.** The prose now
+  reads *I have not broken it once since that day*, which is vaguer and loses the tie to ch 782, and that
+  is the price paid and recorded rather than a defect left open.
+- **The titles of ch 781–788, 790, 791 and 795 are untouched.** They name rather than describe, and all are
+  unique.
+- **Nothing about the plot moved.** Fifteen chapters, two firsts of a month, one stage at ch 793 at
+  seventy-four days with its cost named once, one irreversible step at ch 795 where the dark becomes owed and
+  she says she would not have it back if it were offered. **All of it stands exactly as written.**
+
+### Re-measured after the repair
+
+**Brackets 0 in fifteen · `court` 0 · `ascendant` 0 · `choir` 0 · `ledger` 0 · `forgiv` 0 · `the year` 0 ·
+`thank` 0 · `twenty-two days` 0 · `scribe` 1 and still the same false positive, *described* in ch 789 ·
+`nobody` 7 · word-`eleven` 8.** No straight quotes, no em dashes, no Arabic numerals of three or more
+digits, no bold, no italic, no blockquote, no rule, no table, and open and close quotation marks equal in
+every one of the fifteen files. **Longest paragraph in the batch is 114 words and nothing exceeds 120.** All
+fifteen chapter titles unique across all 795 standing headings, and no section heading in the volume
+duplicates another. Every chapter worked in the room with a lamp in it states how far the light goes.
+**Body-prose word counts after the repair:** 781 1,924 · 782 1,907 · 783 2,061 · 784 1,801 · 785 1,822 ·
+786 2,049 · 787 1,921 · 788 2,131 · 789 2,701 · 790 1,733 · 791 1,880 · 792 1,892 · 793 3,370 · 794 1,900 ·
+795 2,025 — **31,117 words, average 2,074.** **ch 793 is the longest in the batch by six hundred and seventy
+words because the repair gave the climax its resistance; it is the volume's climax and length is what it earns,
+but a later pass should watch it.**

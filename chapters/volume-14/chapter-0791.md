@@ -6,13 +6,13 @@ She said, “There is a boy of sixteen four miles down this mountain and he is n
 
 She said, “That is the arrangement and I am not going to stand in a dark room being frightened of a boy who is four miles away doing the thing I told him to do.”
 
-## Nineteen And Fifteen
+## Eleven And Fifteen
 
 And then she did the sums, because that is what the ninth hour is for and because there was nothing else in the room to do them to.
 
-She said, “Nineteen days to the first of the month beginning two thousand five hundred and ninety-four, and fifteen days to the fifth of that month.”
+She said, “Eleven days to the first of the month beginning two thousand five hundred and ninety-four, and fifteen days to the fifth of that month.”
 
-She said, “Fifteen days, and that is the day, and I have had it in front of me since the twenty-second of the month beginning two thousand five hundred and thirty-four and I have not been able to make it into a reason yet.”
+She said, “Fifteen days, and that is the day, and I have had it in front of me since the twelfth of the month beginning two thousand five hundred and thirty-four and I have not been able to make it into a reason yet.”
 
 And then she made it into a reason, and it took her about a count of ninety, and it came out in four sentences and she said them out loud in the dark.
 
@@ -22,7 +22,7 @@ She said, “And the only light in this room comes down to a cut in the stone on
 
 She said, “And it is going to be dark on the first of the month beginning two thousand five hundred and ninety-four, and it is going to be four days after that one that there is a lamp in this room, because that is the day the man brings forty boards up that stair and puts them down on that table in front of one oil lamp.”
 
-She said, “So I am taking the seventh stage on the fifth of the month beginning two thousand five hundred and ninety-four, in oil, and the fifth is the one day I have, and I have had it since the twenty-second and it is the first decision I have made in this building out of a lamp instead of out of a rule.”
+She said, “So I am taking the seventh stage on the fifth of the month beginning two thousand five hundred and ninety-four, in oil, and the fifth is the one day I have, and I have had it since the twelfth and it is the first decision I have made in this building out of a lamp instead of out of a rule.”
 
 ## The One Objection
 
@@ -84,7 +84,7 @@ He said, “You do not have to.”
 
 She said, “That is not why I am saying it and you know it is not. I am saying it because there is nothing in this building that can write a figure in the dark and there is not one instrument in this county that can do it, and I have been taking a stage in light since the seventh of the month beginning two thousand three hundred and eighty-four and I have never once done it in anything else.”
 
-She said, “So on the fifth of that month, if he is not on the stair, then I stand four feet off the near end of this table at the ninth hour and I say seven stages into the seventh realm out loud, in the ordinary voice, standing up, in the dark, to a room with a person at the far end of it who has not looked up in two hundred and ninety-nine days.”
+She said, “So on the fifth of that month, if he is not on the stair, then I stand four feet off the near end of this table at the ninth hour and I say seven stages into the seventh realm out loud, in the ordinary voice, standing up, in the dark, to a room with a person at the far end of it who has not looked up in two hundred and eighty-two days.”
 
 She said, “And there is not one instrument in the world that would tell me whether it happened.”
 
@@ -94,11 +94,11 @@ She said, “It would not be the same as saying it, and that is the whole of wha
 
 She said, “And then the seventh stage waits. And the interval is seventy-four days whatever I do, and the next one after that is a number I will not be able to pick, because I pick days for reasons and the reason for that one is the dark and there is going to be no dark.”
 
-## Four Days Off
+## Fifteen Nights
 
-And at the ninth hour she said the last of it, standing, in the ordinary voice, in the dark, with a room with nothing in it.
+And at the ninth hour she said the last of it, standing, out loud, in the dark, with a room with nothing in it.
 
-She said, “It is four days to the first and fifteen days to the fifth and nineteen days of not having any light in this room on one of them and a lamp on two of them, and I do not know which two.”
+She said, “It is eleven days to the first and fifteen days to the fifth, and fifteen nights of this room between tonight and the day I have named, and on one of them the light does not depend on anybody at all and on the other fourteen it depends entirely on a boy of sixteen who has told me it will be three of every six and not which three.”
 
 She said, “He said at the fourth of this month that he would be here on three of every six nights and that which three was his, and he gave that to me and not to me and I have not asked, and that means there is a lamp in this room on the fifth of that month or there is not, and I have not got one word in my head that tells me which.”
 

@@ -1,8 +1,46 @@
-# Taken In Oil Light
+# Seven
 
 She took the seventh stage on the fifth of the month beginning two thousand five hundred and ninety-four at the ninth hour, in oil light, at the near end of a long table, on her own strip of pale wood, in her own hand, with a nib and a cake of ink against her fourth rib.
 
 Four days after a man came up nine hundred and four steps in the dark and put forty boards down on that table and went back down without looking at anything.
+
+## Two Hours Of It Standing
+
+And the part of that night which is not on any strip of wood is the two hours in front of it.
+
+She had said out loud, on the twentieth of that month, that if there was no lamp in this room on the fifth then she would not take the seventh stage, and she had said it as a condition and not as a hope, and she had gone on saying it to herself every ninth hour since.
+
+The lamp in that room has been out since the first of the month beginning two thousand five hundred and thirty-four. There is no oil in that building and there has not been for nine years and there is none on this mountain. So every flame that was ever going to be on this table on the fifth of this month was going to arrive by hand, up eight hundred and eighty steps, and there was no figure in the world that said whether it would.
+
+So she stood four feet off the near end of that table from the seventh hour with her right arm open at her side, and she did the only thing she has got, which is to count. Eight hundred and eighty steps in two runs of four hundred and forty. A boy of sixteen on it, on three nights out of six, two hours on each, who has not told her which three and whom she is not going to ask.
+
+And at about a count of a hundred and forty past the eighth hour she heard the low door come open.
+
+## It Came Within A Count
+
+He stood in it with the lamp in his right hand and oil on his fingers, and shut it behind him the way he shuts it, which is carefully, with the flat of his hand, and did not say anything for about a count of a hundred and forty.
+
+And she did not go down onto the stone and go in under that table, which is what she had come up that stair to do, and she made him ask her what she was standing there waiting for.
+
+He said, “You said you would not do it without one.”
+
+She said, “I said that.”
+
+He said, “And there was not one in here for two hours.”
+
+She said, “There was not.”
+
+He said, “Then what was the two hours.”
+
+She said, “Standing.”
+
+And then she said the rest of it out loud, standing, in the dark, to a person and not to a room, because the fourth of the six is that a thing gets said before it is anything else.
+
+She said, “There was a version of tonight in which I stood four feet off this table at the ninth hour and said seven stages into the seventh realm out loud into the dark and did not write one line anywhere, and that version was mine until about a count of a hundred and forty ago.”
+
+He said, “You can tell me that.”
+
+She said, “I know, and I have had about two hours to decide whether to, and I am saying it into a room with a person in it and not into the dark, and those are two different sentences.”
 
 ## What She Lifted Off The Floor
 
@@ -12,11 +50,11 @@ She said, “I am not.”
 
 He said, “It is on the floor. It has been on the floor for as long as you have been in this room.”
 
-She said, “Two hundred and ninety-seven days. And on the eighth of the month beginning two thousand five hundred and sixty-four you asked me to take it out of the dark and I said no, and I said it out loud and I put the word tonight on it so that I could not go back on it without saying so.”
+“Two hundred and ninety-seven days,” she said. “And on the eighth of the month beginning two thousand five hundred and sixty-four you asked me to take it out of the dark and I said no, and I said it out loud and I put the word tonight on it so that I could not go back on it without saying so.”
 
-She said, “And I have changed my mind, and that is the first thing I have changed my mind about in this building that was not a figure.”
+“And I have changed my mind, and that is the first thing I have changed my mind about in this building that was not a figure.”
 
-She said, “The reason is that a stage is taken where it can be read. That is the whole of it. That is the sixth term and it has been the sixth term since I was nine years old and I have never once had a reason to use it, and tonight I have.”
+“The reason is that a stage is taken where it can be read. That is the whole of it. That is the sixth term and it has been the sixth term since I was nine years old and I have never once had a reason to use it, and tonight I have.”
 
 She got down onto the stone and went in under that table on her hands and her knees with the beam across her shoulders, and she took the lamp in with her in her left hand because she was not going to put a figure on that wood that she had not looked at, and it took her about a count of ninety.
 
@@ -40,23 +78,25 @@ She said, “I know I do not have to. I have not done it once in nine years.”
 
 And then she said it out loud, standing at the near end of that table in oil light, in the ordinary voice, to a boy of sixteen.
 
-She said, “A voice in my head has said that I am taking this stage against a lamp you carried up that stair for me, and that a stage taken against a thing that can be carried back down a stair is a stage taken against something somebody can take away, and that I have spent nineteen years on the rule that nothing in this room can be taken away from me, and that this is the first one I have broken on purpose.”
+“A voice in my head has said that I am taking this stage against a lamp you carried up that stair for me, and that a stage taken against a thing that can be carried back down a stair is a stage taken against something somebody can take away, and that I have spent nineteen years on the rule that nothing in this room can be taken away from me, and that this is the first one I have broken on purpose.”
 
-He said, “Whose voice.”
+He did not ask whose.
 
-She said, “Yuan Sheng.”
+That was the question she had been standing at the top of that table waiting to be asked since the seventh of that month and she had been wrong about which one it would be.
 
-He said, “That is a name.”
+“Yuan Sheng,” she said.
 
-She said, “It is a name and it is not mine and it has been with me nine years and I have carried it against my ribs for ten. He cannot touch anything and he cannot leave and he cannot be anywhere in this building except here, and he has not been able to say one word to me in a room where there was somebody else in it until tonight.”
+“That is a name.”
 
-He said, “Can he hear me.”
+“It is a name and it is not mine and it has been with me nine years and I have carried it against my ribs for ten. He cannot touch anything and he cannot leave and he cannot be anywhere in this building except here, and he has not been able to say one word to me in a room where there was somebody else in it until tonight.”
 
-She said, “He can hear you. He has been listening to you since the seventh of the month beginning two thousand five hundred and thirty-four and he has never asked me a question about you and I have never asked him one.”
+“Can he hear me.”
+
+“He can hear you. He has been listening to you since the seventh of the month beginning two thousand five hundred and thirty-four and he has never asked me a question about you and I have never asked him one.”
 
 And then she answered the objection, and it came out of her flat and fast, standing, in oil light, with a strip of pale wood on the top of the table in front of her.
 
-She said, “And he is right, and he has been right since the twentieth of that month, and I have had about a hundred and forty counts a day for eleven nights trying to get around it, and I have got around it.”
+She said, “And he is right, and he has been right since the twentieth of that month, and I have had about a hundred and forty counts a day for fifteen nights trying to get around it, and I have got around it.”
 
 She said, “A stage taken in the dark cannot be taken against a look, because there has not been one. The look was spent on the twenty-first of the month beginning two thousand five hundred and four and there is no second look and there is nothing to appeal with, and I am not going to pretend in a room that there is going to be one.”
 
@@ -64,31 +104,33 @@ She said, “So there is nothing in this room to take it against except a lamp t
 
 ## Seventy-Four And Not Sixty-Three
 
-He said, “How long is it.”
+“How long is it,” he said, and then, before she had answered it, “No. How long since the last one.”
 
-She said, “Say it the other way.”
+“Say it the other way.”
 
-He said, “How long since the last one.”
+“Two thousand five hundred and ninety-eight less two thousand five hundred and twenty-four is seventy-four days.”
 
-She said, “Two thousand five hundred and ninety-eight less two thousand five hundred and twenty-four is seventy-four days.”
+“And the fifth was at fifty-eight days and the sixth was at sixty-three days, and I want the seventy-four said out loud and I want the reason said out loud, because I have told you once already and I do not know that you were listening.”
 
-She said, “And the fifth was at fifty-eight days and the sixth was at sixty-three days, and I want the seventy-four said out loud and I want the reason said out loud, because I have told you once already and I do not know that you were listening.”
+He waited with his thumb on the side of that lamp.
 
-He said, “I am listening.”
+“I am listening,” he said.
 
-She said, “Then it is this. The sixth was taken at sixty-three days and it was taken on the twentieth of a month in lamplight on a board out of that stack in front of a person, and that person looked at me, and it was the second look anybody in this building has ever taken of me, and it cost me the ability to be looked at again.”
+“Then it is this. The sixth was taken at sixty-three days and it was taken on the twentieth of a month in lamplight on a board out of that stack in front of a person, and that person looked at me, and it was the second look anybody in this building has ever taken of me, and it cost me the ability to be looked at again.”
 
-She said, “Tonight there is no look coming. There has not been one since the twenty-first of the month beginning two thousand five hundred and four, which is the seventy-four days I have just said out loud, and there is not going to be one tonight. So there is nothing in this room to take a stage against except the light.”
+“Tonight there is no look coming. There has not been one since the twenty-first of the month beginning two thousand five hundred and four, which is the seventy-four days I have just said out loud, and there is not going to be one tonight.”
 
-She said, “A stage taken against a look is taken at sixty-three days. A stage taken against a lamp that is not the room’s is taken at seventy-four, and it is longer, and that is the whole of the difference, and I am not going to be able to explain the other eleven days to you or to myself and I have stopped trying.”
+She put two fingers of her left hand flat on the strip of pale wood and left them there.
 
-He said, “Eleven days.”
+“A stage taken against a look is taken at sixty-three days. A stage taken against a lamp that is not the room’s is taken at seventy-four, and it is longer, and that is the whole of the difference, and I am not going to be able to explain the other eleven days to you or to myself and I have stopped trying.”
 
-She said, “Eleven days. And I have not got a rule and I have not got a figure and I have not got anybody to ask, and I am writing it down anyway.”
+“Eleven days,” he said.
+
+“Eleven days. And I have not got a rule and I have not got a figure and I have not got anybody to ask, and I am writing it down anyway.”
 
 ## The Third Pair Of Cuts
 
-And she took the nib out from against her fourth rib with her right hand, three fingers and a thumb, on an arm that has been open since the first of the month beginning two thousand two hundred and ninety-four, and she said it out loud before it was a line anywhere.
+And she took the nib out from against her fourth rib with her right hand, three fingers and a thumb, on an arm that has been open since the first of the month beginning two thousand two hundred and ninety-four, and she said it before it was a line anywhere.
 
 She said, “Seven stages into the seventh realm, taken at the ninth hour of the fifth of the month beginning two thousand five hundred and ninety-four, at the near end of a long table in a tower four miles up a mountain, on a strip of pale wood a foot long and two inches across that came up that stair in an armful on the first of the month beginning two thousand two hundred and ninety-four, in my own hand, with a nib that has not touched a column in this building in nine years.”
 
@@ -128,21 +170,21 @@ She said, “There is a person in this building who can put a flame in his hand 
 
 She said, “For nineteen years I have stood in rooms where the only thing that ever looked at me was a room. And a room has one look and I have had it twice and there is no third one. And from tonight there is a boy of sixteen with three lamps who can look at me as often as he can afford the oil for, and it costs him two hours a night and me everything, and neither of us gets to call it anything.”
 
-He did not say anything for about a count of a hundred and forty.
+He did not say anything for about a count of a hundred and forty, and the lamp went on standing where it had been standing and the light did not move.
 
-Then he said, “Say the figure.”
+“Say the figure,” he said.
 
-She said, “Which one.”
+“Which one.”
 
-He said, “The one you just put in the wood.”
+“The one you just put in the wood.”
 
-She said, “Seven.”
+“Seven.”
 
-He said, “That is a count.”
+“That is a count.”
 
-She said, “That is a count and it is not a price and it is in the first empty pair under the one I put a five in on the twenty-second of the month beginning two thousand four hundred and forty-four, and it is mine, and I have been carrying twelve empty pairs under that head since the eighteenth of the month beginning two thousand five hundred and thirty-four and I have not got a figure for what they were for.”
+“That is a count and it is not a price and it is in the first empty pair under the one I put a five in on the twenty-second of the month beginning two thousand four hundred and forty-four, and it is mine.”
 
-He said, “Then that is what they were for.”
+He looked down at that strip of wood on the top of that table for about a count of a hundred and forty, and then he said, “Then that is what they were for.”
 
 She said, “Yes. And that is the second time.”
 
@@ -150,7 +192,7 @@ He said, “What is the second time.”
 
 And she said it out loud, standing at the near end of that table with the oil burning a hand’s width along the wood and twenty-two paces of dark past the end of it.
 
-She said, “That is the second time a figure of mine has been in this room in a voice that is not mine. The first was the twelve empty pairs on the eighth of that month, read off the wood by a boy on a stone floor with a fingertip and his own lamp. And that is two, and I have never in nineteen years had a figure of mine go out of this room in a voice that was not my own, and I am not bound and not entered and not sent, and that was said out loud on the sixteenth of the month beginning two thousand five hundred and thirty-four and it still stands.”
+She said, “That is the second time a figure of mine has been in this room in a voice that is not mine. The first was the twelve empty pairs on the eighth of that month, read off the wood by a boy on a stone floor with a fingertip and his own lamp. And I am not bound and not entered and not sent, and that was said out loud on the sixteenth of the month beginning two thousand five hundred and thirty-four and it still stands.”
 
 He said, “Then I am a column.”
 
@@ -174,9 +216,9 @@ She said, “You do not need me to and that is exactly why I am saying it out lo
 
 She said, “You are not on a board. You are not on the floor. You are standing four feet off the near end of this table with oil on your fingers and there is not one instrument above this line that will ever find out what you do with a figure you have heard once.”
 
-And the lamp went on burning a hand’s width along that table until the eleventh hour, and neither of them said anything for about a hundred and forty counts, and then she said the last of that night out loud at the ninth hour of a day she had taken a stage on, standing, with a strip of pale wood face up in front of her and a figure in it that was hers.
+And the lamp went on burning a hand’s width along that table until the eleventh hour, and neither of them said anything for about a hundred and forty counts, and then she said the last of that night out loud at about the eleventh hour, standing, with a strip of pale wood face up in front of her and a figure in it that was hers.
 
-She said, “Two hundred and ninety-seven days in this room and not one figure I have ever said out loud in it has gone out of the door in a voice that was not mine. And that is one, and it is the first, and I did not choose it and I cannot call it back, and I am not going to try.”
+She said, “Two hundred and ninety-seven days in this room and not one figure of mine has ever gone out of the door in a voice that was not mine. And now there are two, and I did not choose them and I cannot call them back, and I am not going to try.”
 
 He said, “All right.”
 

@@ -1,18 +1,18 @@
-# The Lamp Down Nine Hundred And Four
+# What A Lamp Does On A Stair
 
 She took the lamp down the second stair on the twenty-seventh of the month beginning two thousand five hundred and sixty-four at the seventh hour, four days out from the first of the month beginning two thousand five hundred and ninety-four, and she told him she was taking it before she took it, and she told him what it was for, and he gave her the lamp without saying anything.
 
-He said, “There is no rail on it.”
+“There is no rail on it.”
 
-She said, “I know there is no rail on it. I have been down it twice. I am telling you because there is a flame in my hand for the first time in my life on a stair that goes down under a mountain.”
+“I know there is no rail on it. I have been down it twice. I am telling you because there is a flame in my hand for the first time in my life on a stair that goes down under a mountain.”
 
-He said, “I am coming with you.”
+“I am coming with you.”
 
-She said, “No.”
+“No.”
 
-He said, “You said no before I had finished.”
+“You said no before I had finished.”
 
-She said, “I did, and I have said no to this before tonight and I am not going to be a person who changes it four days out. It takes about a long time and there is a turn in it and I want to do it once.”
+“I did, and I have said no to this before tonight and I am not going to be a person who changes it four days out. It takes about a long time and there is a turn in it and I want to do it once.”
 
 ## Nine Hundred And Four In Light
 
@@ -20,7 +20,7 @@ She went down the low door and took the first four hundred and forty with her le
 
 And then she was at the head of the second stair with the lamp in her left hand.
 
-Nine hundred and four. She had counted it three times in two hundred and eighty-three days and she was not going to count it again tonight, because a number you have counted three times does not get truer and it does not get false, and there is nothing on that stair to check it against.
+Nine hundred and four. She had counted it three times in two hundred and eighty-nine days and she was not going to count it again tonight, because a number you have counted three times does not get truer and it does not get false, and there is nothing on that stair to check it against.
 
 What she was going for was the light.
 
@@ -84,7 +84,7 @@ And she went back up.
 
 Nine hundred and four again, and she did not count.
 
-She had gone down that stair three times in two hundred and eighty-three days and counted it every single one of those, in the dark, on the way down and on the way up, and she had a number and it was a number she trusted, and on the night of the twenty-seventh of the month beginning two thousand five hundred and sixty-four she carried a lit lamp down nine hundred and four steps and back up nine hundred and four steps and did not count one of them.
+She had gone down that stair three times in two hundred and eighty-nine days and counted it every single one of those, in the dark, on the way down and on the way up, and she had a number and it was a number she trusted, and on the night of the twenty-seventh of the month beginning two thousand five hundred and sixty-four she carried a lit lamp down nine hundred and four steps and back up nine hundred and four steps and did not count one of them.
 
 She stopped on the second flight of that stair with the lamp on the step beside her and said it out loud to a wall, because she has never let a thing stand that has not been put into words where it exists.
 

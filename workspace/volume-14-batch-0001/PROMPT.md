@@ -260,7 +260,7 @@ visits to make his own count true. Emotion: delight, unwilling, with a cost unde
 Preserve: neither count corrected ever again, and no burn rate stated for either. Ending: discovery — two
 true counts and a shorter rotation. Pull: what the drift does to a stage.
 
-**Ch 789 — Under The Table In Oil Light.** POV her, room, day 2,571. Goal: get the strip where oil can
+**Ch 789 — The Grain Runs Up.** POV her, room, day 2,571. Goal: get the strip where oil can
 reach it. Resistance: it has been under that table since she came up, and moving it is moving her record
 out of the place the room put it in. Reveal: **that wood has never been in light** — she has said its
 contents aloud and nobody has ever seen the cuts — and he reads it off the wood, not off her mouth: the
@@ -290,7 +290,7 @@ with. Decision: she decides to take it on the fifth of the new month. Emotion: w
 yet. Preserve: stage day 2,598 fixed. Ending: decision — the taking is set. Pull: whether the oil reaches
 that day.
 
-**Ch 792 — The Lamp Down Nine Hundred And Four.** POV her, second stair, day 2,590, **four days out.**
+**Ch 792 — What A Lamp Does On A Stair.** POV her, second stair, day 2,590, **four days out.**
 Goal: test whether oil can make that stair at all, before the day it has to. Resistance: dark, no rail in
 parts, thirty-second turn, three fingers and a thumb, one arm open. Reveal: 904 both ways, no 905th —
 **carried, not re-derived, and not the chapter**; the new thing is that the stair has been in light for the
@@ -301,7 +301,7 @@ Ending: **the turn, not a confirmation — the bottom of that stair has been in 
 four hundred years and she has learned that the stair and the oil are the same length, which means the second
 first is reachable and costs her nothing to reach.** Pull: the stage-day and the first both coming.
 
-**Ch 793 — Taken In Oil Light (climax).** POV her, room, day 2,598, the fifth of the month beginning 2,594
+**Ch 793 — Seven (climax).** POV her, room, day 2,598, the fifth of the month beginning 2,594
 — **four days after the bundle day, on what is left of the oil that was spent to reach it.** Goal: take
 Immortal Vessel 7. Resistance: no cage light, no look, no hand to check — only oil, strip, nib, and the
 fourth term. Reveal: interval spoken (seventy-four, and why not sixty-three), month-begin named.
@@ -309,7 +309,7 @@ Decision: she writes seven on the strip in oil light and reads it out loud. **Co
 be hidden by the dark.** Emotion: triumph with its price on it. Power: IV7 taken. Preserve: Sisterhood 0,
 no binding. Ending: cost. Pull: what the boy saw.
 
-**Ch 794 — After The Writing.** POV her, room, day 2,599. Goal: rest and check the cost. Resistance:
+**Ch 794 — The Little Finger.** POV her, room, day 2,599. Goal: rest and check the cost. Resistance:
 forearm measured — the writing came off her hand, width stated once. Reveal: the oil that is left will not
 last the week, and she now has a second thing she cannot be hidden from. Decision: she does not correct
 either figure, and she does not put the lamp out. Emotion: exhaustion, earned. Power: none new. Preserve:

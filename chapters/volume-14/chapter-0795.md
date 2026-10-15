@@ -108,7 +108,7 @@ She said, “And I would not have it back if it were offered.”
 
 And at about the ninth hour he picked up the empty lamp and stood at the low door with it, and she went down the first four hundred and forty with her left hand on the rail after him because it is worse going down.
 
-And at the fourth landing, with her hand flat on a rail that stops there, she said out loud, to the dark, at the seventh hour of the seventh of the month beginning two thousand five hundred and ninety-four:
+And at the fourth landing, with her hand flat on a rail that stops there, she said out loud, to the dark, at about the ninth hour of the seventh of the month beginning two thousand five hundred and ninety-four:
 
 “Light in this room now comes up that stair and I am not going to ask him for it and I am not going to be able to say no to it if he brings it, and both of those are true and only one of them is mine.”
 

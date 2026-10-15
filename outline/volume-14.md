@@ -372,9 +372,14 @@ any trade term.
 | Batch | Chapters | Days | Pressure | Midpoint / climax | Irreversible step |
 | --- | --- | --- | --- | --- | --- |
 | 0001 | 781–795 | 2,541–2,600 | the oil, running out | midpoint ch 788: the boy's count disagrees with hers and both are right, and the disagreement now decides whether he can reach a first of a month · climax ch 793: IV7 in oil light | ch 795 — she lets the oil lamp stay in the room, and the dark is no longer hers alone, on oil that will not be replaced |
-| 0002 | 796–810 | 2,601–2,666 | the seat | midpoint ch 803: the second bundle comes up with the place described as kept · climax ch 809–810: IV8, and the third hand's board with his name | ch 810 — he is readable by the Scribe now, and it cannot be unread |
-| 0003 | 811–825 | 2,667–2,720 | the keeping | midpoint ch 812: the tenth frame scene, he says yes where she cannot hear · climax ch 822: she refuses the keeping the first time | ch 822 — she says no to the second place out loud in the dark, and a no said there cannot be unsaid |
+| 0002 | 796–810 | ~~2,601–2,666~~ **2,601–2,684** | the seat | midpoint ch 803: ~~the second bundle comes up with the place described as kept~~ **the second bundle of the batch comes up with forty boards and nothing else, and what turns at it is that the room is worked in front of a flame it did not put there** · climax ch 809–810: IV8, and the third hand's board with his name | ch 810 — he is readable by the Scribe now, and it cannot be unread |
+| 0003 | 811–825 | ~~2,667–2,720~~ **2,685–2,720** | the keeping | midpoint ch 812: the tenth frame scene, he says yes where she cannot hear · climax ch 822: she refuses the keeping the first time | ch 822 — she says no to the second place out loud in the dark, and a no said there cannot be unsaid |
 | 0004 | 826–840 | 2,721–2,780 | the refusal | midpoint ch 832: the terms with the price come up, one binding named · climax ch 836–838: IV9 refused-into, and she refuses the binding | ch 838 — she sends the refusal down the stair in her own hand, and the first thing she has ever sent down cannot be called back |
+
+**Struck cells are struck in place, not annotated elsewhere.** Batch 0002's day band, Batch 0003's day band and
+Batch 0002's midpoint description were wrong and are dead text above, so that no later run reads a dead cell
+and takes it for live. The reasoning is in *Corrections to this outline*, recorded 15 Oct 2026, and in
+`workspace/volume-14-batch-0002/PROMPT.md`. **No chapter range, no stage date and no batch title moved.**
 
 ## The oil, as a clock — Batch 0001 runs on a deadline and not on a mood
 

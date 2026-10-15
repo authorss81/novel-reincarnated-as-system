@@ -307,7 +307,7 @@ arithmetic. Decision: she decides to take it on the thirteenth of the month begi
 the fear underneath it. Power: none yet. Preserve: stage day 2,666 fixed. Ending: decision. Pull: whether the
 light reaches that day.
 
-**Ch 809 — Taken In Oil Light Again (climax).** POV her, room, day 2,666, the thirteenth of the month beginning
+**Ch 809 — Eight (climax).** POV her, room, day 2,666, the thirteenth of the month beginning
 2,654. Goal: take Immortal Vessel 8. Resistance: **there are two figures in that row now and one of them is
 getting more wrong every day, and a stage has to be taken against all of it.** Reveal: interval spoken
 (sixty-eight, and why not fifty-eight), month-begin named. Decision: she writes eight in the fourth pair of cuts

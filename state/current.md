@@ -5971,17 +5971,27 @@ budget 0 in fifteen.**
   being owed it.** **No exhaustion date is asserted anywhere**, and the cup at ch 795 is not reconciled
   against the lamp still burning at ch 793 four days earlier by any invented figure.
 - **The batch ranges were wrong in the outline's own table and are corrected: Immortal Vessel 8 is at ch 809
-  on day 2,666, which sat six days outside Batch 0002's stated 2,601–2,660.** **No chapter range moved.**
-  Batch 0002 is now **2,601–2,666** and Batch 0003 **2,667–2,720**; 0001 and 0004 are unchanged. Contiguous,
-  no gaps, no overlaps, and each stage now sits inside its own batch.
+  on day 2,666, which sat outside Batch 0002's stated band.** **No chapter range moved.** Batch 0002 is now
+  **2,601–2,684** and Batch 0003 **2,685–2,720**; 0001 and 0004 are unchanged. Contiguous, no gaps, no
+  overlaps, and each stage now sits inside its own batch. **A second correction followed the first and moved
+  no chapter: the place described as kept is ch 818 in Batch 0003, not ch 803.** Ch 803's midpoint is the
+  second bundle of Batch 0002 on the first of the month beginning 2,654, bringing nothing but forty boards,
+  and what turns at it is that the room has now been worked in front of a flame it did not put there. **The
+  two dead cells are struck in place in `outline/volume-14.md`'s escalation table and are not to be read as
+  live.** See *Corrections to this outline*, recorded 15 Oct 2026.
 - **The one at the table speaks twice in the volume and that is now flagged as a first, with the history
   as the page has it: one hand, one look (spent ch 776), and one speech, the amending offer at ch 772, on
   the page, in her hearing, with a speech tag and the word *they*.** The speech is a cost paid in the look
   and restores nothing; both new speeches land after IV8 at ch 809; no third speech, no voice, no face, no
   figure of what is left of him.
 - **Four retitled cards, all re-measured free against all 780 standing headings:** ch 781 *The Fare* ·
-  ch 789 *Under The Table In Oil Light* · ch 790 *The Far End Of The Table* · ch 792 *The Lamp Down Nine
-  Hundred And Four*, the last replacing a heading that was **exactly ch 779's**.
+  ch 789 ~~*Under The Table In Oil Light*~~ **now *The Grain Runs Up*** · ch 790 *The Far End Of The Table*
+  · ch 792 ~~*The Lamp Down Nine Hundred And Four*~~ **now *What A Lamp Does On A Stair***, the earlier
+  retitling having replaced a heading that was **exactly ch 779's**. **Two further cards were retitled after
+  the 15 Oct 2026 review, for the same reason: ch 793 *Taken In Oil Light* is now *Seven* and ch 794
+  *After The Writing* is now *The Little Finger*.** All four of the chapter titles that restated their own
+  scene are gone; **every one of the four replacements is a name and every one is free against all 795
+  standing headings.** Titles, not plot. Nothing else in either chapter moved.
 - **The owed archive pass now has an owner.** Batch 0001's *After the batch* list instructs that
   `workspace/volume-14-batch-0002/PROMPT.md` open with the pass as its first job, before the ch 796–810
   cards, with the line and word counts measured before and after. **This repair did not run the pass and
@@ -6065,10 +6075,16 @@ she had been reading him as a column for eight years and that sentence is not so
 
 ### What is next and what is not
 
-**Batch 0002 is ch 796–810, days 2,601–2,666, pressure *the seat*.** Midpoint ch 803: the second bundle comes
-up with the place described as kept. Climax ch 809–810: **Immortal Vessel 8 at ch 809 on day 2,666 at
-sixty-eight days, cost *she cannot be unread where she stands*, and then the third hand's board with his name
-on it, read but not written by the room.** Irreversible step at ch 810: **he is readable by the Scribe now and
-it cannot be unread.** Volume 14 still holds five brackets, six `nobody`, three speeches by the one at that
-table (one spent at ch 772, two to come at ch 826 and ch 838), zero `Scribe` before ch 810, and no moral
-answer anywhere in it.
+**Batch 0002 is ch 796–810, days 2,601–2,684, pressure *the seat*.** Midpoint ch 803: the second bundle of
+the batch comes up on the first of the month beginning 2,654 with forty boards and nothing else, and what
+turns at it is that the room has now been worked in front of a flame it did not put there. **The place
+described as kept is ch 818 and it is Batch 0003's, not this batch's. Batch 0003 is days 2,685–2,720.** Three
+firsts of a month fall in this batch — 2,624, 2,654 and 2,684 — and 2,684 is the day the third hand's board
+comes up. Climax ch 809–810: **Immortal Vessel 8 at ch 809 on day 2,666 at sixty-eight days, cost *she cannot
+be unread where she stands*, and then, eighteen days later, the third hand's board with his name on it, read
+but not written by the room.** Irreversible step at ch 810: **he is readable by the Scribe now and it cannot
+be unread.** **Volume 14's bracket budget is zero in sixty (`outline/volume-14.md` D6) and Volumes 12, 13 and
+14 have between them spent none — a figure of five brackets in this volume was carried in an earlier version
+of this block and is false; measure it at 0 and keep it there.** Six `nobody` in the fifteen chapters written
+so far against a volume line of thirty, three speeches by the one at that table (one spent at ch 772, two to
+come at ch 826 and ch 838), zero `Scribe` before ch 810, and no moral answer anywhere in it.

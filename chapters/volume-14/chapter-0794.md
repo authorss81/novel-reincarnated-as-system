@@ -1,4 +1,4 @@
-# After The Writing
+# The Little Finger
 
 She did not go down that stair on the sixth of the month beginning two thousand five hundred and ninety-four and she did not go down it on the fifth either, and that is the first night of the two hundred and ninety-eight days she has been in this room that she has spent every hour of standing.
 
@@ -24,7 +24,7 @@ She said, “That was not me and my arm went down by the width of the little fin
 
 ## The Figure She Will Not Give Him
 
-And then she went down onto the stone at the near end of that table and put her hand on the strip of pale wood where it was lying face up on the top of the wood, and the lamp was burning a hand’s width along it and there was a seven in the third pair of cuts in her own hand.
+And then she went down onto the stone at the near end of that table and put her hand on the strip of pale wood where it was lying face up on the top of the wood, and the lamp was burning a hand’s width along it and there was twenty-two paces of dark past the end of what the light could do, and there was a seven in the third pair of cuts in her own hand.
 
 And she said the other figure, out loud, in the ordinary voice, standing up.
 
