@@ -445,3 +445,23 @@ that `PHASE_SYSTEM.md` §The volume close defines.
 **61 against the line** once the two at ch 1000 are set aside as `outline/ending.md` §7's eleven old students — the
 Batch 0007 close published 61 and 59. And `state/current.md`'s claim that all six `scribe` matches across the volume
 are inside the word *describe* is wrong: **two are the name, at ch 903 and ch 906, and both are in her mouth.**
+
+---
+
+## Added by the Volume 16 close review repair, 15 Oct 2026, after `logs/next-0015.review.log`
+
+**Six findings from the review of the Volume 16 close are addressed. One paragraph break is withdrawn, one false
+verification claim is corrected, a style divergence is closed on the volume, the outline is brought into line with its
+own state files, and one scope disagreement is recorded rather than obeyed.**
+
+| What | Where | Read it for |
+| --- | --- | --- |
+| **VOLUME 16 CLOSE — REVIEW REPAIR**, after `logs/next-0015.review.log` | `state/continuity.md` | all six findings worked one at a time: the withdrawn ch 938 break and why, the blank-line claim that was false, the divergence closed, the `eleven` note, `.done` ownership, and the scope finding recorded as a disagreement |
+| **The repairs, sixteen chapter files** — corrected in place | `state/continuity.md` | the split count is **thirty**, not thirty-one, and the over-ninety paragraphs are **eight**, not seven, because ch 938 is restored to one unbroken speech |
+| **`## Repairs made to this outline at the Volume 16 close`**, item 10 | `outline/volume-16.md` | the `eleven` line now carries the measured overage — **63 raw, 61 against a line of 40, over by twenty-one** — and says the overage is recorded rather than repaired |
+
+**What moved and what did not.** Sixteen chapter files changed: **fifteen are whitespace only and one is a paragraph
+break withdrawn**, and **not one word of prose was added or removed anywhere in the manuscript** — verified per file
+across all 1,000 chapters against `HEAD`. The volume body total is **185,481 before and after** and the
+manuscript-wide total is **1,881,197**. **No chapter was restarted and no chapter number, day, batch boundary,
+midpoint, climax, bracket or irreversible step moved.** `outline/ending.md` is untouched.

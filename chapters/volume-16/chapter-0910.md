@@ -1,6 +1,5 @@
 # The Room Runs On
 
-
 The first of the month beginning two thousand nine hundred and eighty-four came up through her before she was awake enough to stand, the way it had come up six times in nine years, and she lay on the stone with her hands flat on the floor and let it turn over.
 
 It came the way traffic comes past a heavy line. It was not a sound in this room. It was the whole of the going getting heavier somewhere far below, the way a day gets heavier when it has weather in it.
@@ -61,7 +60,6 @@ She did not move.
 She stayed where she was standing.
 
 “You do not have to touch anything. You do not have to do anything. Stand at the near end of the table where you stood for six hundred and eighty-three days and let it come up in a room you are in.”
-
 
 “No,” she said.
 

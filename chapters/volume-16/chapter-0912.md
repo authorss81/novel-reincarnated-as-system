@@ -1,6 +1,5 @@
 # Four Minutes
 
-
 He had it at about the second hour and she did not know that and would not have believed him if she had, because he had no hours and no day and nothing that turns.
 
 She was standing at the near end of the table with both hands flat on the register when he said it.

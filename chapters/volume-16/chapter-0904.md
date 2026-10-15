@@ -1,6 +1,5 @@
 # Entered in Stone
 
-
 She read on the seventeenth of the month beginning two thousand nine hundred and fifty-four, standing, with the lamp moved a hand’s breadth at a time and her right hand flat on the table edge because the arm had started to shake and it shakes on days when it has been open a long while without a hand in it.
 
 Two hundred and thirty-eight days since the ninth stage stood in the record and not in her mouth that morning, because the register wanted reading and not figures.
@@ -106,6 +105,5 @@ She put her right hand flat on the stone and it shook, hard, the way it shook wh
 She had read the four lines. She had not read what was past them. She had read what was past the fifth and the sixth and four more, and there was more, and she could feel it under the heel of her hand if she moved it a breadth at a time in the dark, and she could not read a word of it and there was no light in the building and there had not been for nine years.
 
 “Four paces,” she said out loud, standing, in the ordinary voice, into a room with no light in it at all. “That is what it gave me and I have had it since the fourteenth and I am at the end of it.”
-
 
 The register lay under her hands in the dark at the top of a tower with more of the offer in it than she had read, and she had put it into the record in her own voice, and there was no oil anywhere in the building, and eight flights and a stair below her a boy made oil he could not buy and carried it up on his own account every morning and had never once been told that anybody was up here.

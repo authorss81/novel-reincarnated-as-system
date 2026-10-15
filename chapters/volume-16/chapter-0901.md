@@ -1,6 +1,5 @@
 # Since He Was Nineteen
 
-
 He had been not-silent all night, which was a thing she had only learned to hear in the past two months, and on the eighth of the month beginning two thousand nine hundred and fifty-four she woke to find that the not-silence had stopped.
 
 She lay still with her hands flat on the stone and gave it a count of a hundred before she moved. A room with one person in it sounds different from a room with none. He was in there. His half was in there. It was not turned the way it had been turned for four days.
@@ -88,7 +87,6 @@ She put her hand on the place behind her fourth rib without deciding to, the way
 “I thought it was because you could not. I thought nineteen years of a voice in my head and not one asking was a limit and not a choice.”
 “It was not a limit,” he said. “It was me. I did not want to be the thing in your life that wanted something and then got it. I have watched the whole shape of it for nineteen years and I know exactly what it does to a person, and I decided a long time ago that I would not be one, and I did not tell you that I had decided it, and that is the one thing I have kept from you that I kept on purpose.”
 
-
 The dark past the last landing sat around her and did not change.
 
 “That is a decision you made about me,” she said.
@@ -133,6 +131,5 @@ She sat in the dark and let that be on the table between them, because she was n
 
 “That is why it is true,” he said. “You can check every other thing I have ever said to you. That one you cannot check, and it is the only one I have ever been certain of.”
 The lamp stood nearly out on the stone beside her. The register lay on the table with five lines cut deep into it and nothing worn in the table at all.
-
 
 Eight flights and a stair below her a room was running on firsts and a boy was somewhere under her with oil on his hands and no idea that there was a record, and inside her head a man who had wanted one thing since before she was born had said it out loud for the first time in his life, in a single line, and had put no number in it at all.

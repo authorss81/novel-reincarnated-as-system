@@ -1,6 +1,5 @@
 # His Part of It
 
-
 “Two hundred and forty-four days since the ninth stage. Six hundred and seventy-five days in that room. The cage out four hundred and forty-two. This arm open six hundred and eighty-two days. One thousand four hundred and seventeen gone at this morning.”
 
 She said it standing in the dark at the near end of the table in the making-place, on the twenty-third of the month beginning two thousand nine hundred and fifty-four, with her hands on the register and no light anywhere in the room and the oil gone since the seventeenth.
@@ -104,7 +103,6 @@ She put her thumb on the cut to show him where it was, and the dark did not take
 
 “If I say a name to you in this room then my mouth is the first one it goes in by, and I will have put you in the record as a person I named, and you will spend whatever there is carrying that I did it.”
 
-
 He did not answer for a long time.
 
 “You found that on the fourteenth and you have been carrying it for nine days,” he said, “and you did not tell me that was why.”
@@ -159,8 +157,6 @@ She almost laughed and did not.
 
 “Not one word of it,” he said. “And I want you to leave it that way for as long as you can, because you have read five mercies twice and found nothing behind any of them, and the day you start finding what is behind this one is the day this stops being a table and starts being something else, and I do not know what it is yet.”
 
-
 She stood at the table with her hands on the register and read out loud, in the ordinary voice, standing, in a room with no light in it, the whole of what there was for a man called Sheng on a table at the top of a tower. He did not stop her once.
-
 
 It was the loneliest thing she had done in nineteen years of keeping a record, because she was the only person in the world who had ever said out loud what he was owed, and she had said it standing, in the ordinary voice, into the dark, to his face.

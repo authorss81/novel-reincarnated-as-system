@@ -733,6 +733,14 @@ who will say so out loud, and her watching it happen, and going back to teaching
   `grep -oiw` over ch 841–900, `nobody` is **42** against that volume's own line of thirty and `eleven` is **26**
   against its line of forty.** Volume 16's thirty is therefore a deliberate tightening and is not an oversight, and
   a batch that goes over it records the overage in `state/current.md` in the same sentence as the number.
+  **Closed at the volume close: `nobody` is kept at exactly 30 of 30, and `eleven` is not.** Measured by
+  `grep -oiw` over ch 901–1000, `eleven` is **63** raw, of which **two are ch 1000 line 59 and are `outline/ending.md`
+  §7's eleven old students of her brother**, so **61 spends against a line of forty — over by twenty-one.** Nineteen
+  of the twenty-one are ordinary duration uses and are **not repaired**, because cutting a duration out of a closed
+  hundred chapters to buy a stylistic line would spend real prose for a cosmetic number; the overage is recorded here
+  and in `state/current.md` beside the figure rather than hidden. **The line itself was the rule and the page is the
+  book, and this is the one place in the volume where the book is over the rule and is left that way on purpose.**
+  `logs/next-0015.review.log` finding 5 is applied by this note; nothing else in this bullet moved.
 - Retired seven phrases: Volume 15 spent 1 of 3; **Volume 16 spends at most 1** and the other stays available to
   nothing, because there is nothing after it.
 - `grep -oi "twenty-two days"`: **0.** The stale county total *thirteen days* is not on the page as itself.
@@ -887,6 +895,14 @@ able to tell a correction from a re-plan.
    are her reading of it, which is the rule; only the window was wrong.** The budget line now carries the measured
    chapter numbers. **No chapter was rewritten, no occurrence was moved, and `ascendant` is still nowhere a rank
    anybody holds.** Full record at `state/continuity.md` under *VOLUME 16 CLOSE — The Last Announcement*.
+10. **The `eleven` line still read as a kept budget.** Item 9 corrected the `ascendant` window but left the neighbouring
+   `eleven` bullet stating a line of forty with no account of what the volume actually spent.
+   `logs/next-0015.review.log` finding 5 is right that the outline then contradicted `state/current.md` and
+   `state/continuity.md`, which both report the overage honestly. **The bullet now carries the measured figure —
+   63 raw, two of them `outline/ending.md` §7's eleven old students at ch 1000 line 59, 61 against a line of forty,
+   over by twenty-one — and says plainly that the overage is recorded rather than repaired.** Nineteen of the
+   twenty-one are ordinary durations, and removing a duration from a closed hundred chapters would spend real prose to
+   buy a cosmetic number. **The budget is not met, the outline says so, and the page is not touched.**
 
 **The volume is complete on the page at ch 901–1000 and the manuscript closes at ch 1000. This outline is not
 re-planned and no Volume 17 exists: `NOVEL_SPEC.md` fixes the book at one thousand chapters across sixteen volumes

@@ -1,6 +1,5 @@
 # What She Wants
 
-
 Three days in her own room and she had not once minded it, and on the sixteenth of the month beginning two thousand nine hundred and eighty-four at about the ninth hour she stood up off the stone at the near end of the table and found out why.
 
 The ninth hour was when the keeper read. She had put a number into the channel at the ninth hour on the twenty-second of the month beginning two thousand eight hundred and ninety-four and it could not be gotten back, and she had stood in this room and said it standing in the ordinary voice, and the whole of the bound had heard it at once.
@@ -29,7 +28,6 @@ She stood at the near end of the table with that and did it in the arithmetic, w
 
 She could not be met where she is expected. She had carried that since the third of the month beginning two thousand two hundred and four and she had never once had it in her mouth as a finding because she had had no reason to, and the reason was that not one person had ever come looking for her.
 
-
 Six hundred and ninety-eight days in this room, and before this room a stair in the same tower, and before that other rooms she cannot name in the order she passed through them. A boy who carried oil up past the ninth landing twice a day for two hundred days and put it down on the twelfth and had never once come through a door. A bearer who came and went and was paid out of a forearm and did not stay.
 
 A voice in her head since she was ten. And a woman who could not be met in any of it, standing at the near end of a table with wear in it, saying out loud at the ninth hour that she was here.
@@ -50,7 +48,6 @@ He was quiet for a count of forty.
 She put her thumb into the hollow in the table that her own forearms had worn there over nineteen years.
 
 “You have walked nine hundred and four steps down a dark stair to the one place you cannot be met in, and that is not a loss. That is a woman going where she is known.”
-
 
 She stood with that and put her hands flat on the worn wood where her forearms had gone ten thousand times.
 
@@ -76,7 +73,6 @@ She stood with that and put her hands flat on the worn wood where her forearms h
 She had her hands flat on the table and had not moved them.
 
 “I am asking it now while you are standing in the only room you have, because if I wait until tomorrow you will have counted and counting is a kind of armour and I want you without it.”
-
 
 She put her hands still on the table.
 
@@ -106,6 +102,5 @@ He was quiet for a count of a hundred.
 “That is the whole of what you want.”
 
 “That is the whole of what I have said I want since the eighth, and you already know the rest of it, and this is the first piece of it you have ever heard me say that is not about me.”
-
 
 She stood at the near end of the table and understood that there was no answer to that in nineteen years of record, and that the not being able to meet him was the same cost as the not being able to be met, and that it had been the same cost for the whole nineteen years and neither of them had ever once said so out loud, and that was the first thing either of them had said that was about the future in six hundred years.

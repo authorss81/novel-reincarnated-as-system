@@ -58,8 +58,10 @@ series half on top of them and do not re-derive what they already say.**
 **This phase creates no next phase.** There is nothing after it. `PHASE_SYSTEM.md` §Self-dispatch sends at most one
 dispatch for a novel, and the correct thing for the chain to do after this commit is stop.
 
-**Do not** write `state/phase-ledger.json` — it is controller-owned and does not exist. **Do not** create a `.done`
-marker, a ch 1001, a Volume 17, an `outline/volume-17.md`, or a second prompt anywhere.
+**Do not** write `state/phase-ledger.json` — it is controller-owned and does not exist. **A `.done` marker is
+runner-owned** (`scripts/novel_runner.sh` touches it after a phase commits, and every completed phase directory
+already carries one) — you do not create it, and you must not create a `.blocked`, a `.retry-after` or a `.retired`
+either. **Do not** create a ch 1001, a Volume 17, an `outline/volume-17.md`, or a second prompt anywhere.
 
 ## What you may edit
 

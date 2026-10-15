@@ -1911,11 +1911,14 @@ chapters `outline/volume-16.md` names as short on purpose and forbids padding ba
 ch 916 at 2,388, ch 1000 at 2,486. Nothing over the 2,700 house guide, nothing under the 1,300 floor.** The manuscript
 stands at **1,881,197 words over 1,000 chapters, average 1,881.**
 
-**This close audited the whole volume for the first time and repaired thirty-two things on the page across eighteen
-chapter files, adding and removing not one word of prose.** Thirty-one paragraph breaks inserted, because the volume
+**This close audited the whole volume for the first time and repaired thirty-two things on the page across sixteen
+chapter files, adding and removing not one word of prose.** Thirty paragraph breaks inserted, because the volume
 as the drafting phases left it carried **thirty-five paragraphs over ninety words and eleven over the 120-word
-ceiling**; **nothing is now over 120 and seven are over 90**, at ch 901 · 908 · 937 · 940 · 941 · 945 · 970, five of
-which are a single unbroken speech and one a derived list of dates. One duplicate section heading, `## The Count` at
+ceiling**; **nothing is now over 120 and eight are over 90**, at ch 901 · 908 · 937 · 938 · 940 · 941 · 945 · 970, five
+of which open on a quotation mark and close inside the paragraph, two narrative and one her working a figure out loud.
+**The figures are thirty rather than thirty-one and eight rather than seven because the break at ch 938 was withdrawn
+after review: it fell inside a single unclosed speech and the line beneath it is *It did not stop.* — see
+`state/continuity.md` under *VOLUME 16 CLOSE — REVIEW REPAIR*.** One duplicate section heading, `## The Count` at
 ch 954 and ch 958, repaired: **ch 954's is now `## Sixty-Eight` and no duplicate section heading remains in the
 volume.** One wrong window in `outline/volume-16.md`'s `ascendant` budget, corrected in place under the outline's own
 repairs heading as item 9 — **the two uses are at ch 905 and ch 924, both the offer, and no chapter was rewritten.**
@@ -1948,7 +1951,7 @@ Day 9,800, the seventh of the month beginning nine thousand six hundred and twen
 
 **THE HANDS. Settled.** The right hand carries **three fingers and a thumb**. `four fingers and a thumb` — 219 uses across Volumes 4–13 and **none in Volume 16**, which has 38 of the correct phrase — describes all five digits and therefore a hand that has lost nothing; a hand of five minus the index finger lost at ch 235 leaves four, and the manuscript argues this itself at ch 666: *a hand with three fingers and a thumb on it and a missing index.* **Where the phrase describes the left hand, which has all five with the heel gone from the second finger, it is correct and stays.** The 219 historical uses are **not rewritten** — roughly a dozen of them are left-hand and correct, and a close may not rewrite a volume — and the question is closed here rather than left open a third time.
 
-**Not touched: the 219 historical uses · `eleven` at 61 against a line of 40, over by twenty-one and recorded beside the number rather than repaired by cutting ordinary durations out of a closed hundred chapters · seven paragraphs over ninety words and none over 120 · and everything `outline/ending.md` fixes.** No chapter number moved, no day moved, no batch boundary moved, no midpoint, no climax, no bracket, no irreversible step, no title, and not one word of prose added or removed anywhere in the hundred chapters.
+**Not touched: the 219 historical uses · `eleven` at 61 against a line of 40, over by twenty-one and recorded beside the number rather than repaired by cutting ordinary durations out of a closed hundred chapters · eight paragraphs over ninety words and none over 120 · and everything `outline/ending.md` fixes.** No chapter number moved, no day moved, no batch boundary moved, no midpoint, no climax, no bracket, no irreversible step, no title, and not one word of prose added or removed anywhere in the hundred chapters.
 
 ### The word-line overages, recorded beside the number
 

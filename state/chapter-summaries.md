@@ -866,9 +866,11 @@ thing anybody reads · Qiu's line spoken once, by Ning Wu, meaning it differentl
 texture remembered by the one person who has never told anybody · and the four months named once, as a loss that is
 never recovered and is not forgiven.
 
-**This close audited the volume as a whole for the first time and repaired thirty-two things across eighteen chapter
-files without adding or removing one word of prose: thirty-one paragraph breaks, because thirty-five paragraphs were
+**This close audited the volume as a whole for the first time and repaired thirty-two things across sixteen chapter
+files without adding or removing one word of prose: thirty paragraph breaks, because thirty-five paragraphs were
 over ninety words and eleven were over the 120-word ceiling, and nothing is now over 120; one duplicate section
-heading at ch 954; and one wrong window in the volume outline's `ascendant` budget.** Full record at
+heading at ch 954; and one wrong window in the volume outline's `ascendant` budget.** **A later review withdrew one
+of the thirty breaks, the one at ch 938 that fell inside a single unclosed speech, so the count stands at thirty and
+the over-ninety paragraphs at eight — see `state/continuity.md` under *VOLUME 16 CLOSE — REVIEW REPAIR*.** Full record at
 `state/continuity.md` under ***VOLUME 16 CLOSE***, and the canon ruling on the hands at `state/open-threads.md` under
 *The Volume 16 close, 15 Oct 2026*.

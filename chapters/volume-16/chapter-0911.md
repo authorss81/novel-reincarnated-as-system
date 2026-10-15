@@ -1,6 +1,5 @@
 # The Seventh
 
-
 “Two hundred and fifty-five days since the ninth stage. Six hundred and eighty-six days in that room. The cage out four hundred and fifty-three. This arm open six hundred and ninety-three days. One thousand four hundred and twenty-eight gone at this morning.”
 
 She said it sitting on the stone at the near end of the table in the making-place, on the fourth of the month beginning two thousand nine hundred and eighty-four, with the lamp burning steadily on the stone beside her on a boy’s oil.
@@ -64,18 +63,15 @@ She heard where the sentence turned.
 
 “I have never once had a date of my own that I had picked, and I am not going to spend it by telling you at the wrong hour.”
 
-
 He was quiet for a count of forty.
 
 “It goes in the channel,” he said. “In the ordinary voice, the one you use. There is one thing I have learned from the cut you found on the fourteenth and I have been holding it for nine days and I am telling you what I am going to do with it.”
 
 “You are going to read it before it is a line anywhere.”
 
-
 “I am going to say yes standing in the only place I can stand, which is here, and in the voice the offer is made in, and the thing that made me is listening in that channel and has been listening in it for six hundred years, and when I say it, it is said. That is what the second of the four says. There is no writing. There is no sign. It is in the mouth it goes out of and it does not come back into it.”
 
 ## What Happens to Her
-
 
 She put her hands flat on the stone and asked the thing she had not asked in two days because she had been afraid of the answer and was no longer.
 
@@ -111,13 +107,11 @@ She put her hands flat on the stone.
 
 “I have heard that before,” she said. “I said it to myself on the fourth of the month beginning two thousand nine hundred and twenty-four about a cost and then it came out of me anyway, in her own mouth, into the keeping. I am not being careful. I am not going to hold four minutes the way I have held things.”
 
-
 “I am not asking you to hold it,” he said. “That is the whole of the difference and I have had two days to get it right and I have not got it right. I am asking you to be in the room.”
 
 She turned round on the stone so that she was facing the middle of the room rather than the table.
 
 “Whatever you are in the middle of, whatever it is that is in your mouth when I get to the edge, it is going to be in your mouth, and I would rather it were in your mouth than in a hand I have asked to be quiet.”
-
 
 “You have not asked to be quiet.”
 
@@ -146,6 +140,5 @@ She got up off the stone and stood, because standing was for what mattered, and 
 He was quiet for a count of forty.
 
 “That is the first thing you have refused me that I actually asked for in nine years,” he said.
-
 
 He had said the date out loud in a room at the top of a tower. He had asked her for four minutes and she had given him them standing, in the ordinary voice, with no figure on any of it, and he had three days and she had three days, and the seventh of this month was going to arrive like every other day in this keeping, on time, whether there was anybody standing under it or not.

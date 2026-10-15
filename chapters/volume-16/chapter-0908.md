@@ -1,6 +1,5 @@
 # It Is Not Mine to Make
 
-
 She stood up at the near end of the table on the twenty-ninth of the month beginning two thousand nine hundred and fifty-four, with nothing in either hand, three fingers and a thumb on each, her right arm hanging open at the elbow for six hundred and eighty-eight days, and she stood because standing is for saying.
 
 She had had three days to do it and had not done any of them.
@@ -29,13 +28,11 @@ She stood at the table and let the silence be a silence and did not put anything
 
 “You do not have the standing to say that,” he said, after a while. “That is not me arguing you out of it. That is me telling you what is true so that you know what you are standing in.”
 
-
 “I know what I am standing in,” she said. “I have stood in it twice and I know exactly what it is. On the third of the month beginning two thousand eight hundred and ninety-four I stopped you taking the small share and you went still for a count of two hundred and then you started again.”
 
 She put her hands flat on the table edge and did not look down at them.
 
 “On the sixteenth of the month beginning two thousand nine hundred and twenty-four I stopped you coming to me in the cells and you went still for a count of a hundred and then you started again.”
-
 
 “You remember the counts.”
 
@@ -86,14 +83,11 @@ She did not raise her voice. There was nothing to raise it with.
 
 ## What She Gave Up By Doing It
 
-
 “I am going to tell you what this costs me and you are going to let me say it once.”
 
 “Say it.”
 
-
 “I cannot un-know that you said yes to me on the eighth,” she said. “Not today. Not on the thirtieth. Not ever. That was twenty-one days ago and I put it in my own mouth standing at this table and it is in the record in my voice. Whatever I decide between now and the day I die, I will always be a woman who was asked what a man inside her head wanted and was told, and there is no finding in the world that takes that out.”
-
 
 “That is not a cost.”
 “It is the whole of what I have left,” she said, “because the second thing is this. After the seventh of this month there will be no version of this where I did not know.”
@@ -101,7 +95,6 @@ She did not raise her voice. There was nothing to raise it with.
 She looked at the register under her hand and it did not move.
 
 “If you say it and it goes wrong, I will have been asked at the ninth hour on the twenty-ninth what a man inside her head wanted and been told, and I said yes to him about it standing in the ordinary voice in front of the thing that made him. That is the paper. That is what there is.”
-
 
 He did not answer for a count of a hundred.
 
@@ -119,13 +112,11 @@ He did not answer for a count of a hundred.
 
 She stood at the table in the light the boy’s oil had given her and did not soften it and did not look for the way out of it and did not find, afterwards, that she had been right, because she had not been right or wrong. She had done a thing. That was all it was.
 
-
 “You told me on the twenty-sixth that kindness would be letting me keep not knowing,” she said. “This is the other side of the same thing and I am telling you what it is so that you have it in your half the way I have it in mine. It is not mine to make.”
 
 She put both hands flat on the table edge, one over the other, the way she had put them on it every morning since the eighth.
 
 “Not because I am frightened of what happens if I make it and not because I think I would get it right. Because there are two of us in this and one of us has to be able to say that he was not stopped.”
-
 
 He did not answer for a while and she stood there and let him not answer it.
 
@@ -141,8 +132,6 @@ She stood at the table with her hands on the register and found the seventh cut 
 
 “That is the worst thing you have ever done to me,” he said, “and I would not have stopped you from doing it.”
 
-
 She sat down at the near end of the table, because standing was for saying and the saying was done. The lamp stood on the stone beside her with a boy’s oil in it and a flame on it that she did not put there. The register lay under her hand with everything she had read in it and the offer standing open at the top of a tower until it is answered or withdrawn.
-
 
 Eight flights and a stair below her the room was running on firsts without her and would run on tomorrow, and the day after that, and not one person in the world knew that anything had been said at the top of a tower at about the ninth hour on the twenty-ninth, and the man who had wanted one thing since he was nineteen was inside her head with his mouth shut for the first time in nineteen years, and she had not stopped him.

@@ -1,6 +1,5 @@
 # Nothing Worn
 
-
 She left it on the thirteenth of the month beginning two thousand nine hundred and eighty-four, at about the ninth hour, and she had known since the seventh that she was going to and had not let herself do it any sooner, because there was a thing she wanted done first and the thing she wanted done first was on the seventh and the seventh was six days gone.
 
 She stood at the near end of the table with her hands on the register and read the whole of it once more, standing, in the ordinary voice, first in her own voice, from the first cut to the end of what her fingers could find.
@@ -35,7 +34,6 @@ He was quiet for a count of forty.
 She kept her hand flat on the register where it had been all morning.
 
 “That is the whole of what is wrong with me and it is not the offer and it is not the walls. I say a thing and it stands in me and nothing in the world can come and set it against what I am.”
-
 
 She put her hand flat on the register one last time and felt the cuts go past under her palm, deep and even, made by a hand that never wore anything.
 
@@ -96,7 +94,6 @@ She went past the ninth, the eighth, the seventh, the sixth, the fifth and the f
 
 One hundred and seventy-one days since she had walked out of it with six terms said out loud standing and had not come back. The table was under her hand and it had wear in it, and she knew the wear without putting her hand on it, because it was the table she had done every figure of nineteen years at and the near end was rubbed into a hollow where her forearms had gone.
 
-
 The boards were face up a foot in from the near end. The terms board was face up a foot further along. A strip of pale wood lay face up under the table at the near end of the leg, in the same place it had lain on the fourth of the month beginning two thousand seven hundred and seventy-four, and a hundred and seventy-one days had not moved it.
 
 A bundle was corded twice under the far end of the table and it was not knotted and it had not been pulled. A bar stood nine feet nine against the left-hand wall.
@@ -108,6 +105,5 @@ She put her hand flat on the table she had done every figure of nineteen years a
 “Why is that.”
 
 “Because the moment you put a light in this room the room stops being the room you were kept in and starts being a room you are standing in,” he said. “You have never once been allowed that and you have never once wanted it and I have never told you, and I am telling you now because in about an hour you are going to want to be able to see this place.”
-
 
 She stood in the dark of her own room and put the lamp on the stone floor, on the near end, where she had put it ten thousand times, and the light lay along the boards and the terms board and the bar, and the second place at the far side was where it had been, kept four hundred years and empty, and she did not look at it for long.

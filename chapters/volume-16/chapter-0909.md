@@ -1,6 +1,5 @@
 # The Precedent
 
-
 “Two hundred and fifty-one days since the ninth stage. Six hundred and eighty-two days in that room. The cage out four hundred and forty-nine. This arm open six hundred and eighty-nine days. One thousand four hundred and twenty-four gone at this morning.”
 
 She said it sitting on the stone at the near end of the table in the making-place, on the thirtieth of the month beginning two thousand nine hundred and fifty-four, and it was the thirtieth, and tomorrow was a first, and she said the day’s figures out loud because figures were standing and standing was for saying and she had nothing else in her.

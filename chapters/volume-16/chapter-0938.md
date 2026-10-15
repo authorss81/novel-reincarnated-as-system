@@ -100,9 +100,7 @@ It came out of the wall a little to the left of where the other one had come fro
 
 That was all of the first one. She waited for the cost at the end of it and the day at the front of it and there was not either, and it stood in the room about a count of forty, and he went on.
 
-“I decided what a stage was. I decided what you could be got to spend. I decided you should keep the count. I decided you should not be met where you are expected and I did not tell you that I had decided it.
-
-I decided the sheet. I decided that a man in your head should not be looked at by anybody and I decided it on the nineteenth of the month beginning two thousand eight hundred and thirty-four and I did not say one word of it to you.”
+“I decided what a stage was. I decided what you could be got to spend. I decided you should keep the count. I decided you should not be met where you are expected and I did not tell you that I had decided it. I decided the sheet. I decided that a man in your head should not be looked at by anybody and I decided it on the nineteenth of the month beginning two thousand eight hundred and thirty-four and I did not say one word of it to you.”
 
 It did not stop.
 

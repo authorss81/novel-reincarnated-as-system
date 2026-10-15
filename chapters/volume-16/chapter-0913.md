@@ -1,10 +1,8 @@
 # Nothing Has Happened
 
-
 She slept for part of the night and dreamed of nothing, which was new.
 
 She woke on the tenth of the month beginning two thousand nine hundred and eighty-four at about the fifth hour with her back against a table with no wear in it and her hands flat on the stone, and for the first time in her life she woke up waiting to find out what had happened, and nothing had.
-
 
 The walls were up. The layer was up. The stair ran nine flights below her and did not stop. The strip of pale wood was face up under a table in a room eight flights and a stair down, in the same place it had been in since the fourth of the month beginning two thousand seven hundred and seventy-four. The boy was somewhere under her with oil on his hands and a figure in a column.
 
@@ -136,9 +134,7 @@ She sat on the stone at the near end of the table and let it come at her.
 
 “What is not mine is a woman standing at a table for four minutes with her mouth shut when she had the standing to open it. That is yours, and you are going to have to put it somewhere, and I am telling you now that you do not have to put it on me.”
 
-
 She sat down on the stone at the near end of the table, because standing was for saying and she had nothing to say.
 The four minutes were over and nothing had happened.
-
 
 He was still there and so was she, and the walls were up and the layer was up and the offer was answered and had not begun, and neither of them knew what happened next, and she had done the whole of it standing up, in the ordinary voice, in front of the thing that made him, and it was the worst thing she had ever done and it was also the only thing she had ever done that she could not go and take back.
