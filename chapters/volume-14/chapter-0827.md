@@ -72,7 +72,7 @@ She said, “I am not going to say anything about that pair. Not here, not today
 
 And then she did the last part of the day, which was arithmetic, and she did it standing up with the wood face up in front of her on the table and the light coming a hand’s width along both of them.
 
-She said, “Four intervals. Fifty-eight, which is a row with one figure in it that stands still. Sixty-three, which is one figure and a look. Seventy-four, which is a row with nothing to take it against but a lamp that is not the room’s, taken on the fifth of the month beginning two thousand five hundred and ninety-eight with a stage cost of not being able to be hidden by the dark.”
+She said, “Four intervals. Fifty-eight, which is a row with one figure in it that stands still. Sixty-three, which is one figure and a look. Seventy-four, which is a row with nothing to take it against but a lamp that is not the room’s, taken on the fifth of the month beginning two thousand five hundred and ninety-eight with the cost of not being able to be hidden by the dark.”
 
 She said, “Sixty-eight, which is two figures and one of them a count that dates, taken on the thirteenth of the month beginning two thousand six hundred and fifty-four.”
 
@@ -90,7 +90,7 @@ She said, “I have been standing four feet off the near end of that table for f
 
 She put her thumb on the empty pair of cuts again and took it off.
 
-She said, “So it is sixty-six and it is not seventy-four. Seventy-four was for a stage taken against nothing but a lamp. This one is taken against a refusal that a room has not answered, and a room that has not answered has not finished, and you do not take the stage out of the middle of that.”
+She said, “So it is sixty-six and it is not seventy-four. Seventy-four was for one taken against nothing but a lamp. This one is taken against a refusal that a room has not answered, and a room that has not answered has not finished, and you do not take the figure out of the middle of that.”
 
 ## The Interval She Has Had And The One She Is Choosing
 

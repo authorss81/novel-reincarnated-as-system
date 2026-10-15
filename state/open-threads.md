@@ -3910,3 +3910,22 @@ walls are for · the bargain's mercy · **anything that speaks to him that is no
 before ch 826** · **the speech of the one at that table before ch 826** · **the acceptance before ch 838** · any
 second look · any second occasion for the one look spent at ch 776 · the writing on a leaf before ch 838 · **the
 gap in the wear said out loud to anybody**.
+
+## VOLUME 14 CLOSED — ch 781–840, *The Scribe's Apprentice*, 15 Oct 2026
+
+**Sixty chapters, days 2,541–2,780, 121,410 words, zero brackets, three stages, one frame scene, four irreversible steps. Goal met: she refused the thing Yuan was offered and refused, said at ch 822 and sent at ch 838.**
+
+| Thread | Owner | State at close |
+| --- | --- | --- |
+| The offer (name ch 810, place ch 818, terms ch 826) | room | CLOSED as refused. One binding named once at ch 826 and refused at ch 834/838. No person bound. No Sisterhood. |
+| The keeping (his yes ch 812) | Yuan | STANDS and she does not know. He said one sentence present tense to the second place and did not get into it. No eleventh frame scene. |
+| The refusal (no ch 822, page ch 834, sent ch 838) | her | SENT and staying. First thing she ever sent anywhere; cannot be called back and she would not call it back. |
+| The second place | room | Kept and empty and addressed. Lamp fed by a boy not bound and not entered and not sent. |
+| The six terms | her | Stand, no seventh. Second one said in daylight at ch 830 for the last time; all six said in the dark at ch 840 meaning the stair. |
+| The boy of sixteen | boy | Stays. Asleep on the fourth landing at close with oil on his hands. Never bound, entered or sent. |
+| Merit | ground | Settled once at ch 839, off the ground the room stands on, never on a death, no figure, balancing ch 779. |
+| The bar / cage lamp / bundle | room | Bar unlifted 436 days at close. Cage out 246 days, never relit. Bundle under far end never opened. |
+| The finding day (three anchors) | — | Still open, still disagreeing, never settled on the page. |
+| The wear gap (two fingers, no edges) | her | Found at ch 820, told to nobody, never said out loud to anybody. |
+
+**New question for Volume 15, carried verbatim from `outline/volume-14.md`:** he is readable now by the thing that made him, and he said yes once where she could not hear it, and she said no twice where everything could hear it. The refusal went down the stair in her own hand and nothing came back up. **The question is not whether it heard. It is what a thing that reads does with a no.**

@@ -74,7 +74,7 @@ She said, “And I have refused on his behalf, twice, out loud, in this room, st
 
 She did not move while she was saying that.
 
-She said, “And those two things do not cancel each other. He said yes once, somewhere I was not, and I said no twice, everywhere. Both of them stand at this table tonight and I am not going to spend the ninth hour of the seventh of a month working out which of them counts.”
+She said, “And those two things do not cancel each other. He is readable now and I was not in the room when it was paid, and I have said no twice, everywhere. Both of them stand at this table tonight and I am not going to spend the ninth hour of the seventh of a month working out which of them counts.”
 
 She said, “And I am not speaking to him. That is the whole of it and I am putting it in this room because there has not been one word said to him by anything that is not me in nineteen years, and there is not going to be one from this table.”
 

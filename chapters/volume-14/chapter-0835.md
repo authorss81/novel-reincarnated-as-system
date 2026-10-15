@@ -76,17 +76,17 @@ And then she went back along that table to the near end with her left hand on th
 
 She said, “Here is what is different about a room with a page in it, and I worked it out on the way back along this table.”
 
-She said, “Nothing. That is the honest answer and I am going to give it before anything else, because I am not going to have thirty chapters of this volume building toward a thing where a piece of paper changes a room.”
+She said, “Nothing. That is the honest answer and I am going to give it before anything else, because I am not going to have weeks of building toward a thing where a piece of paper changes a room.”
 
 She said, “The lamp is where it goes. The cage is out. The bar is against the wall on the left. The bundle is under the far end. There are three pieces of wood face up at this end of that table and one face down about a foot along. There is a column at the far end of that table with a price at the head of it and four hundred years of amounts in it and not one person.”
 
-She said, “And there is a sentence that was said out loud in this room at about the eighth hour on the fifth of this month, and it is down nine hundred and four steps now, and this room does not know that. That room has never heard it and this room is the one I have been standing in.”
+She said, “And there is a sentence that was said out loud in this room at about the eighth hour on the fifth of this month, and it is folded against my fourth rib now, and this room is the one I have been standing in.”
 
 She put her hand flat on the top of that table.
 
 She said, “So the difference is not in the room. The difference is that a thing said out loud once in a room is only true in that room, and there is not one instrument in this building that can carry it out of the door, and I have said every figure I have got in this room every morning since I was nine years old and every one of them has stopped at twenty-two paces.”
 
-She said, “And there is one sentence of mine that has gone past twenty-two paces, and it is at the bottom of nine hundred and four steps, and there is nothing I can do about it and there is nothing I want to do about it, and that is the first difference and it is not the one I expected.”
+She said, “And there is one sentence of mine that is going past twenty-two paces on the first of the month beginning two thousand seven hundred and seventy-four, and there is nothing I can do about it after that and there is nothing I want to do about it, and that is the first difference and it is not the one I expected.”
 
 She said, “The second difference is that I took a stage on the nineteenth of the month beginning two thousand seven hundred and fourteen and it cost me the right to be alone in this room, and I said at the ninth hour that night that there was not one instrument in this county that could tell me who with.”
 

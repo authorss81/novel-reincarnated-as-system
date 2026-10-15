@@ -924,3 +924,76 @@ restarted; the batch is 30,995 words and still fifteen chapters.** Batch 0004 in
 - **Five titles in ch 811–825 were renamed after the batch closed** because they restated the chapter instead of
   naming it. The current fifteen, in order, are in `state/continuity.md` under *VOLUME 14 BATCH 0003* and in
   `state/chapter-summaries.md`, and **none of them names a date, an hour or an age.**
+
+## Who is where at end of chapter 840 — VOLUME 14 CLOSED, ch 781–840
+
+**A cold reader starts here. This block supersedes *Who is where at end of chapter 825* above it wherever the two
+differ.** Day 2,780, the seventh of the month beginning 2,774, at about the ninth hour and twenty minutes. A dark
+room at the top of eight flights and eight hundred and eighty steps in a tower four miles up a mountain from a
+square. **A dead lamp in a cage on a shelf at the far end of a twenty-two-pace table, out two hundred and forty-six
+days. A boy's oil lamp with a cup of oil in it putting a hand's width of light along the near end of that table and
+going no further.** Three pieces of wood face up side by side about a foot in from the near end and a fourth about
+a foot further along where she put it back on the first of this month. **A strip of pale wood under the table no
+instrument can read.** A bar nine feet nine flat against the left-hand wall, broken end towards the door, not lifted
+in four hundred and thirty-six days. A bundle of papers under the far end, corded twice and not knotted, not
+opened. **A boy of sixteen asleep on the fourth landing with oil on his hands.** A woman standing four feet off the
+near end of the table saying the six terms out loud in the dark, meaning the second one about a stair. And in her
+head, a voice that is a person, and is readable now, and is not being spoken to.
+
+### Her
+
+**IMMORTAL VESSEL 9.** Nine stages into the seventh realm, taken at ch 828 on day 2,732, the nineteenth of the
+month beginning 2,714, at sixty-six days, in oil light at the near end of that table on her own strip of pale wood,
+in her own hand, with the nib against her fourth rib, read out loud before it was a line anywhere, into the fifth
+pair of cuts, the first pair below the eight. **Cost, named once at ch 828 and never re-explained: she cannot be
+alone in the room any more.** Nineteen years old. Three fingers and a thumb on the right hand. **Right arm open
+since day 2,294, four hundred and eighty-six days, and not going to close.** Short breath four counts everywhere,
+seven on a rise, nine standing still. Seven of eleven holds. Small open place low behind the fourth rib, the size of
+a coin. **One thousand two hundred and twenty-one days lighter at `D − 1,559`, not one going back.** Not hungry.
+Time in the room `D − 2,301` = **479**. Row staleness `(D − 2,294) × 72 min` at 2,780 = twenty-four days and seven
+hours and twelve minutes, not spoken after ch 838. Nib and ink against her fourth rib; a book of eight leaves
+against her ribs with **four blank leaves still blank, one written on at ch 834 and sent down at ch 838.**
+
+**Twenty costs carried whole, none re-derived here:** the fourteen from Volume 13 and before · she cannot be hidden
+by the dark (ch 793) · she cannot be unread where she stands (ch 809) · **she cannot be alone in the room any more
+(ch 828).**
+
+**What this batch added to her, in her own mouth:** the terms read out loud in her own voice at ch 826 and not
+answered there · the ninth stage taken refused-into at ch 828 against the no of ch 822 and a page not yet written ·
+the refusal written on the first of five blank leaves at ch 834, folded, and sent down nine hundred and four steps
+at ch 838 in the cloth with forty boards, the first thing she has ever sent anywhere, which cannot be called back
+and which she would not call back · the six terms said out loud in the dark at ch 840, meaning the second one
+about a stair.
+
+### Him
+
+**Yuan Sheng.** Court, second rung, readable by the room's hand since ch 748, found at ch 749, **the bill paid at
+ch 810 and not explained.** **He said yes once in this volume, at ch 812, away from her hearing, one sentence,
+present tense, to the second place, and he did not get into it. She does not know.** No card in ch 826–840 told
+her, nobody told her, and she was never put in the same room with that sentence. No figure of what is left of him
+on any page. Every sentence he speaks is present tense. **He does not speak anywhere in ch 826–840. There is no
+eleventh frame scene anywhere in ch 781–840.** Volume 14 allowance for `Ledger` is 0.
+
+### The boy of sixteen
+
+Unnamed. Unsent, unentered, unbound, and nobody changed that. He asked for the second hour of a first of a month at
+ch 821 and she said yes in about a second. He keeps three oil lamps in rotation and works the oil count the way she
+works days. He wrote nothing on any board and is on no page of any book. **At ch 840 he is asleep on the fourth
+landing with oil on his hands.**
+
+### Standing relationships
+
+**Unforgiven, unthanked, unkept.** The year still carrying. `forgiv`, `the year`, `thank` all 0 over ch 826–840.
+**Him, the voice.** Counted with her for ten years, asked at ch 609, staying at ch 658, given a pen at ch 689, said
+out loud three times, readable now and not spoken to. She said at ch 658 she had been reading him as a column for
+eight years and that sentence is not softened and not withdrawn. **Ning Wu** — not spent in Volume 14. **Shuyin,
+the Hunter, Wei Ran, Feng Lushi, the people at the turn** — none on the page.
+
+### Volume 14 is closed
+
+**Sixty chapters, ch 781–840, days 2,541–2,780, 121,410 words of body prose on method B over four batches (31,117
+· 29,402 · 30,995 · 29,896), average 2,023.** Three stages at 74, 68 and 66 days. One frame scene at ch 812, one
+stage in the whole volume at ch 809 before this batch, one midpoint at ch 812, irreversible steps at ch 795, ch
+810, ch 822 and ch 838. **Zero bracketed layer lines in sixty.** The volume goal is met: she refused the thing Yuan
+was offered and refused, out loud at ch 822 and on a page sent down at ch 838. **The next phase is the controller's.
+No `workspace/volume-15-*` directory was created and no Volume 15 planning prompt was written by this phase.**

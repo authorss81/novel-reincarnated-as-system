@@ -56,15 +56,15 @@ She said that twice and then she stopped talking for about a count of a hundred 
 
 She said, out loud, into the light coming in at the opening beside her:
 
-“There is no version of a binding that gets done in the dark. A person is put into a column standing up, in front of another person, in daylight, with both of them able to see, because that is the only arrangement in which the person being put there can afterwards say it out loud and have it be a fact about them and not a thing that happened in a room.”
+“There is no version of that kind of naming that gets done in the dark. A person is put into a column standing up, in front of another person, in daylight, with both of them able to see, because that is the only arrangement in which the person being put there can afterwards say it out loud and have it be a fact about them and not a thing that happened in a room.”
 
 She said, “And I have never worked that out before this morning and it took me one hundred and forty counts on a landing, and I have been saying the second of those six terms every morning since I was nine years old and it has never once been about anything except light.”
 
 She did not move while she was saying it.
 
-She said, “A board came up a stair on the first of the month beginning two thousand seven hundred and forty-four with a line on it that says one person is bound to feed the lamp in place of the writer. And it has no name on it and no date on it. And I said out loud in this room this month that a binding that does not name the person can be put on anybody.”
+She said, “A board came up a stair on the first of the month beginning two thousand seven hundred and forty-four with a line on it that says one person is bound to feed the lamp in place of the writer. And it has no name on it and no date on it. And I said out loud in this room this month that a naming that does not name the person can be put on anybody.”
 
-She said, “A binding can only be done in daylight. That is the whole of what that board is and it is not hiding.”
+She said, “That kind of naming can only be done in daylight. That is the whole of what that board is and it is not hiding.”
 
 ## The Asking
 

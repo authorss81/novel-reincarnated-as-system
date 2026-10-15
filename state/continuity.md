@@ -1452,3 +1452,125 @@ the refusal goes down that stair**, because a page leaves that room on a bundle 
 days in the band. **Second, the refusal is written on a blank leaf at ch 834 and sits against her fourth rib for
 twenty-six days before it goes down,** which is the waiting the outline's climax is made of and which no card may
 shorten by writing it and sending it in one chapter.
+
+## VOLUME 14 BATCH 0004 — ch 826–840, *the refusal*, days 2,722–2,780 — VOLUME 14 CLOSED ON THE PAGE
+
+**This is the fourth and last batch of Volume 14 and it is CLOSED ON THE PAGE.** Fifteen chapters, days 2,722 to
+2,780, pressure *the refusal*, **midpoint ch 832, climax ch 838, irreversible step ch 838**, Immortal Vessel 9 at
+ch 828, **zero bracketed layer lines in fifteen and zero in sixty**. It spends nothing but what `outline/volume-14.md`
+owns: **the terms with the price on a board at ch 826 with one binding named once, the ninth stage refused-into at
+ch 828, the refusal written at ch 834 and sent down nine hundred and four steps at ch 838, the single merit settling
+at ch 839, and the six terms in the dark at ch 840.** No new final enemy and nothing of Volume 15. No `Court`
+spoken in the batch and none in the volume. `scribe` 0 as a word (3 inside *describes/described*, the same false
+positive as ch 723, 789, 807 and Batch 0003). `ascendant`, `choir`, `ledger`, `forgiv`, `the year`, `thank`,
+`twenty-two days` all 0. `nobody` 8 against a volume line of thirty. Word-`eleven` 10 against a volume line of forty.
+Retired seven phrases 1 (`there is no column` once at ch 832). Fifteen titles unique against all 840 standing
+headings; no `##` section heading duplicates another in the volume; open quotes equal close quotes in every file;
+paragraphs two to four sentences, none over 90 words.
+
+### What is on the page, measured
+
+- **Fifteen chapters, 29,896 words of body prose on method B** (every line not beginning `#`, per file, summed),
+  average 1,993. Per chapter: 826 2,502 · 827 1,910 · 828 1,970 · 829 1,910 · 830 1,890 · 831 1,814 · 832 1,897 ·
+  833 1,837 · 834 1,894 · 835 1,926 · 836 1,857 · 837 1,939 · 838 2,592 · 839 1,885 · 840 2,073. **All fifteen inside
+  the 1,800–2,700 guide and none under the floor.** Batches 0001–0003 are 31,117 · 29,402 · 30,995, so **Volume 14 is
+  121,410 words over sixty chapters at an average of 2,024** (31,117 + 29,402 + 30,995 + 29,896).
+- **Zero bracketed layer lines in fifteen and zero `[` characters of any kind**, per `outline/volume-14.md` D6.
+  Sixty chapters, zero brackets.
+- **Titles, in order:** 826 *One Binding* · 827 *The Work Before The Writing* · 828 *Sixty-Six* · 829 *How A Room
+  Names A Person* · 830 *The Second One About A Stair* · 831 *The Middle Of The Table* · 832 *The Board That Is
+  Already There* · 833 *The Morning Before* · 834 *The First Of The Five* · 835 *Nothing Comes Back Up* · 836 *Four
+  Feet Off The Near End* · 837 *The Waiting* · 838 *The Acceptance* · 839 *The Settling* · 840 *Six Terms In The
+  Dark*.
+
+### The day table, every ordinal derived under `((day - 134) mod 30) + 1`, with the one step back held
+
+826: 2,744 (1st of 2,744, sixteenth bundle, terms page) · 827: 2,730 (17th of 2,714) · 828: 2,732 (19th, ninth stage)
+· 829: 2,736 (23rd) · 830: 2,740 (27th) · 831: 2,741 (28th) · 832: 2,742 (29th) · 833: 2,743 (30th) · 834: 2,748
+(5th of 2,744, the page) · 835: 2,752 (9th) · 836: 2,756 (13th) · 837: 2,760 (17th) · 838: 2,774 (1st of 2,774,
+seventeenth bundle, refusal goes down) · 839: 2,776 (3rd) · 840: 2,780 (7th). Two bundles in the band, at 2,744
+and 2,774, and none on any other day. Ch 840 is not a bundle day.
+
+### The four moving series, re-derived and checked against the page
+
+- **Time in the room, `D - 2,301`:** 443 · 429 · 431 · 435 · 439 · 440 · 441 · 442 · 447 · 451 · 455 · 459 · 473 ·
+  475 · **479 at ch 840.**
+- **Lighter, `D - 1,559`:** 1,185 · 1,171 · 1,173 · 1,177 · 1,181 · 1,182 · 1,183 · 1,184 · 1,189 · 1,193 · 1,197 ·
+  1,201 · 1,215 · 1,217 · **1,221 at ch 840.**
+- **Row staleness, `(D - 2,294) x 72 min`:** spoken twice, the budget, and never after ch 838. At 2,732 it is
+  438 x 72 = 31,536 min = **twenty-one days and twenty-one hours and thirty-six minutes** (ch 828, as the price
+  out of date). At 2,774 it is 480 x 72 = 34,560 min = **twenty-four days exactly** (ch 838). Both multiplications
+  checked before they were written down.
+- **Bar against the left-hand wall since day 2,344:** 400 at ch 826 to **436 at ch 840, stated on the last page.**
+  Dated nowhere; dust not named again.
+- **Cage lamp out since day 2,534:** 210 at ch 826 to 246 at ch 840. Never relit.
+- **Right arm open since day 2,294:** 450 at ch 826 to 486 at ch 840.
+
+### The six repairs this phase made to the draft it inherited, plot unmoved
+
+The fifteen chapters were drafted by an earlier run of this phase, deferred without a review, and were on the page
+when this phase opened. Nothing was restarted. All measured against the page, the day table and the cards:
+
+1. **ch 826, the terms arrival and the bundle number.** The draft had the sixteenth bundle as the seventeenth and
+   had the terms board arriving on 2,714 and lying thirty days. Per `outline/volume-14.md` D1/D2 the terms arrive
+   at ch 826 on the sixteenth bundle at 2,744. Now: sixteenth bundle, board up this morning, read the same morning,
+   no thirty-day history. The fifteen-times-before count is kept.
+2. **ch 826, the refusal not refused.** The draft spoke the refusal words out loud at ch 826 while saying it was not
+   saying them. Per the card she does not answer or refuse at ch 826. Now: the shape described, the words not
+   spoken; the sentence is named as withheld.
+3. **ch 827, the stage word before the stage.** Two instances of the word *stage* stood before ch 828. Per the card
+   no stage word stands before ch 828. Both rephrased with the arithmetic kept.
+4. **ch 830, the word on the stair.** Three instances of the word *binding*, two of them sentences about it, stood
+   on the tower stair in daylight. Per the card she does not say that word on that stair. All three rephrased; the
+   six terms and the asking are untouched.
+5. **ch 831, the eleven budget.** Eleven instances of word-`eleven` against a budget of ten. One doubled instance
+   (*eleven paces ... and eleven paces*) reduced to *eleven paces ... and the same again*. Now exactly ten.
+6. **ch 835, outline language and a premature sending.** One instance of *this volume* in her mouth and two
+   sentences with the page already down nine hundred and four steps before ch 838. Per the cards no outline
+   language in narration and nothing goes down that stair before ch 838. Now: weeks of building, page folded
+   against her rib, sentence going down on the first of 2,774.
+7. **ch 840, the yes she must not know.** The draft had her say out loud that he said yes once where she was not.
+   Per the volume outline and every card she does not know about ch 812 and nobody tells her. Now: he is readable
+   now and she was not there when it was paid, and she has said no twice; both stand without the yes.
+
+### What the fifteen chapters changed, in the order it changed
+
+1. **ch 826** — the terms with the price came up that stair on the sixteenth bundle and she read every line out
+   loud in her own voice, standing, in the dark, and did not answer it.
+2. **ch 827** — she set the ninth stage on the nineteenth and said why sixty-six and not seventy-four, as
+   arithmetic and not as a lesson, holding five blank leaves and writing on none.
+3. **ch 828** — **IMMORTAL VESSEL 9, refused-into**, nine into the fifth pair of cuts against the no of ch 822 and
+   a page not yet written, at a cost named once: she cannot be alone in the room any more.
+4. **ch 829** — she said out loud that a binding is a room naming a person it has already decided about, and that
+   she has been four hundred and thirty-five days without being named by anything in it.
+5. **ch 830** — the only daylight in the volume; she went down for oil and said the second of the six terms out
+   loud on that stair, for the last time anywhere in the book.
+6. **ch 831** — she broke her own rule once, deliberately, and said one sentence into the middle of that table with
+   nothing at either end of it.
+7. **ch 832** — **THE MIDPOINT**; she did not write the terms on her own wood and read the whole of them out loud
+   twice, and got a different thing the second time: it is a schedule and not an offer.
+8. **ch 833** — she took the book of eight leaves out, held it in the light, counted three written and five blank
+   by touch, and did not open it to a blank one.
+9. **ch 834** — **THE PAGE**; she said the six-sentence refusal out loud standing before the nib went on the paper,
+   wrote it on the first of the five, folded it, and put it nowhere but against her rib.
+10. **ch 835** — nothing comes back up that stair, and that is the finding; the bundle under the far end stays
+    unopened.
+11. **ch 836** — she said out loud that she goes on standing four feet off the near end of that table anyway,
+    keeping the ninety-count stop without filling it.
+12. **ch 837** — she said out loud that this waiting is the one time, stood through the quiet, and heard the lamp
+    for the first time in four hundred and fifty-nine days.
+13. **ch 838** — **THE VOLUME CLIMAX AND THE IRREVERSIBLE STEP**; she put the folded leaf in the cloth under forty
+    boards and sent it down nine hundred and four steps, heard no stroke after a hundred and forty counts and forty
+    more, and named the acceptance as what is not there: no binding made, second place kept and empty, lamp fed by
+    a boy not bound and not entered and not sent; the refusal stays and cannot be called back.
+14. **ch 839** — the volume single merit settling, off the ground the room stands on, on a warm place on the fourth
+    landing, never on a death, no figure stated; she carried oil up without counting.
+15. **ch 840** — **THE FINAL IMAGE**; bar unlifted four hundred and thirty-six days, boy asleep on the fourth
+    landing, strip under the table, six terms said in the dark meaning the second one about a stair, and a voice
+    that is a person, readable now, not spoken to. Ending sentence about a person and a stair.
+
+**VOLUME 14 IS CLOSED.** Sixty chapters, 121,410 words, zero brackets, goal met: she refused the thing Yuan was
+offered and refused, said at ch 822 and sent at ch 838. The wound Volume 15 inherits stands: he is readable and
+said yes where she cannot hear; she said no twice where everything can hear; the refusal went down in her own hand.
+The next question is what a thing that reads does with a no. No `workspace/volume-15-*` directory was created by
+this phase.

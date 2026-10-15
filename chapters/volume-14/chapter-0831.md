@@ -84,7 +84,7 @@ And then she said the last of it out loud, standing, in the ordinary voice, at a
 
 She said, “Here is what the middle of twenty-two paces is.”
 
-She said, “It is eleven paces from the end of that table where a hand has been writing down whatever goes across it for four hundred years, and eleven paces from the end of that table where there is a person who has been standing four feet off it every morning since she was nine years old.”
+She said, “It is eleven paces from the end of that table where a hand has been writing down whatever goes across it for four hundred years, and the same again from the end where there is a person who has been standing four feet off it every morning since she was nine years old.”
 
 She said, “And it is the only place in this room that a sentence cannot be accused of having been aimed.”
 

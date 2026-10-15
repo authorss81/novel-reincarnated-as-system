@@ -12,7 +12,7 @@ Nine hundred and four coming up, and the step at the turn did not change.
 
 Forty boards going on that table in ten minutes, four to a minute, and then thirty counts for the cloth and the cord going round them, and then nine hundred and four going back down in the dark.
 
-It was the seventeenth bundle and she did not say so out loud until after, because it had come up fifteen times before that morning and each time she had named it and this one she had better things to do with her mouth.
+It was the sixteenth bundle and she did not say so out loud until after, because it had come up fifteen times before that morning and each time she had named it and this one she had better things to do with her mouth.
 
 And then the room was quiet for about a count of a hundred and forty.
 
@@ -34,19 +34,19 @@ And then she said, at about the eighth hour and forty minutes, standing four fee
 
 “Now I am going to do the other thing, and I am going to say why I have not done it, and I am not doing the why first.”
 
-She said, “There is a board lying face up on this table about a foot in from the edge that came up with that bundle on the first of the month beginning two thousand seven hundred and fourteen, and it has been lying on this table for thirty days.”
+She said, “There is a board lying face up on this table about a foot in from the edge that came up with that bundle this morning on the first of the month beginning two thousand seven hundred and forty-four, and it has been lying on this table since the second hour.”
 
 She put two fingers of her left hand on the near edge of that board and did not turn it over.
 
-She said, “I have read it every morning for thirty days. I have read it before I read my own strip and I have read it after I have said my figures out loud and I have read it standing and I have read it on my knees, and I have read it thirty times in the ordinary voice of a woman reading a thing to herself.”
+She said, “I have read it through twice this morning before I read my own strip and after I have said my figures out loud and I have read it standing, and I have read it in the ordinary voice of a woman reading a thing to herself.”
 
 She said, “And I have not said it out loud. Once. Not to this room and not to a person and not to myself standing here.”
 
 She stopped for about a count of ninety.
 
-She said, “That is thirty days of breaking the fourth of the six. A thing gets said out loud before it is a line anywhere. I have said that term every day since I was nine years old and I have never once had a thing written on a board in this building and not said it here first, and I have had one for thirty days and I have not said it.”
+She said, “That is keeping the fourth of the six this morning and not breaking it. A thing gets said out loud before it is a line anywhere. I have said that term every day since I was nine years old and I have never once had a thing written on a board in this building and not said it here first, and I have one this morning and I am saying it.”
 
-She said, “And I want that said in this room at about the eighth hour and forty-five minutes on the first of the month beginning two thousand seven hundred and forty-four, because a person who has broken a rule for thirty days needs it on the record that she knows she has broken it, and because I am going to break it again in about a count of forty.”
+She said, “And I want that said in this room at about the eighth hour and forty-five minutes on the first of the month beginning two thousand seven hundred and forty-four, because a person who has a new board needs it on the record that she knows what rule it goes under, and because I am going to keep it in about a count of forty.”
 
 ## Every Line Of It
 
@@ -86,7 +86,7 @@ She put her hand flat on the top of that table.
 
 She said, “And there is not one word of it that says when it begins. There is no first of a month on it and there is no second hour on it and there is no day on it of any kind.”
 
-She said, “So here is what it is: a thing with a price on it and no name on it and no date on it, which means it can go on anybody who is standing in this room, and it has been sitting on my table for thirty days waiting for one of us to be the person it is for.”
+She said, “So here is what it is: a thing with a price on it and no name on it and no date on it, which means it can go on anybody who is standing in this room, and it has been sitting on my table since the second hour this morning waiting for one of us to be the person it is for.”
 
 She stood there for about a count of a hundred and forty.
 
@@ -122,9 +122,9 @@ She said, “It came back this morning at about the second hour and it is the sa
 
 ## What She Is Not Going To Say
 
-And then she said the sentence, which was the sentence she was not going to refuse out loud that day, and she said it out loud as a description of a sentence and not as the sentence, which is a distinction she is aware of and is not proud of.
+And then she said the sentence, which was the sentence she was not going to say out loud that day, and she said the shape of it out loud as a description and not the words, which is a distinction she is aware of and is not proud of.
 
-She said, “Here it is, and I have had it for thirty days. I refuse the place at the far side of this table. I refuse the binding on it. And I am not vacating this record.”
+She said, “Here it is, and I have had it since the second hour. It is the refusal of the place and the price on it. And I am not vacating this record.”
 
 She said, “And I am not going to say it out loud standing at this table today.”
 
