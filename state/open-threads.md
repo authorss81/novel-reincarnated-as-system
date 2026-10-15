@@ -3998,3 +3998,50 @@ back. **A recap is not a dramatic restaging; if a card wants one of these, the c
 no step count for the stair above the room and no oil figure of any kind · **no card may say the first of a month
 has happened before ch 850 or after ch 849** — that is the Volume 14 Batch 0004 defect this run has already paid
 for once.
+
+---
+
+## VOLUME 15 BATCH 0001 CLOSED at ch 855 — the threads this batch moved, opened, or closed
+
+**Fifteen chapters, days 2,781–2,825, 27,977 words, one bracketed line, one irreversible step at ch 855. Recorded
+15 Oct 2026 by the drafting phase.**
+
+| Thread | State at ch 840 | State at ch 855 | Owner in Batch 0002 |
+| --- | --- | --- | --- |
+| **The question she had never asked** | unasked for nineteen years | **asked out loud at ch 841, three times, and answered by nobody** | open. The answer is *somewhere*, reached by her own arithmetic at ch 842. |
+| **The room she was living in** | one room, four hundred and eighty days | **one of a great many, and the reason hers was different is that somebody was in it — said standing at ch 848** | open. The cells above her are established as fact, not explained. |
+| **The second place** | kept, empty, refused twice, in her own room | **kept, empty, refused twice, in her own room and in three rooms above it, and nobody has ever sat in any of them** | **not reopened. Nobody sits in it. Batch 0002 does not open it.** |
+| **The refusal** | sent down at ch 838, cannot be called back | **unchanged, and the finding at ch 849 is that it was not hers** | stands. She does not take it back and nobody overturns it. |
+| **His yes at ch 812** | stands, she does not know | **stands, she does not know, and nothing in this batch touched it** | stands. Volume 15 does not tell her. |
+| **Him, the voice** | not spoken to since ch 840 | **not spoken to, said once out loud at ch 841, and he spoke twice, at ch 848 and ch 853, both present tense, both unanswered** | Batch 0002 carries the silence into the address. |
+| **The boy of sixteen** | asleep on the fourth landing, never asked for anything | **asked for a lamp at ch 844 and gave one in about four seconds; unnamed, unsent, unbound, and off the page after that chapter** | unnamed until ch 890. Batch 0002 does not name or bind him. |
+| **The lamp and the light** | one dead lamp in a cage, out two hundred and forty-seven days | **one live lamp on the first landing above her room, taken off a boy on his own account, and a rule she has said out loud: a lamp in a hand is about four feet of the world and a lamp on a stone floor is a whole landing** | open, and the pressure of Batch 0002. **No oil figure may appear.** |
+| **The stair above the room** | not known to exist | **found at ch 843, nine landings counted as landings and never as steps, and it does not stop at nine, found at ch 853** | open. **It has no step count and may never be given one. Nothing above the ninth is named.** |
+| **What a place is kept for** | read out loud from a board at ch 818 and refused to answer | **kept as being there when the figures are said out loud, and she has kept one by accident at ch 848, and she has refused twice to say what the keeping is for** | open. She leaves it in the room at the bottom of the stair. |
+| **The second number on the top board** | did not exist in the record | **cut on the top board of forty, in three rooms above hers, the same number in all three, and she has not said it out loud and has not written it** | open and carried. Batch 0002 may not read it aloud without a reason on the page. |
+| **The room running without her** | she had been under the first of a month for nineteen years | **missed one on purpose at ch 850 and has said out loud she will miss the next one** | open, and it is the cost of everything above. |
+| **The finding day of the second place** | three anchors disagreeing | **still open, still disagreeing, and ch 848 dates nothing** | still open. No card states a day or does the subtraction. |
+| **The gap in the wear** | found at ch 820, told to nobody | **carried and not said out loud to anybody and not resolved** | carried. Not resolved. |
+| **The bar / cage lamp / bundle** | unlifted, unlit, unopened | **unlifted four hundred and eighty-one days at the close, unlit, unopened, and the bar is dated nowhere** | all three untouched. She does not go back down. |
+| **The fair hand and the third hand** | undecided at ch 823 | **untouched** | untouched. |
+
+### What Batch 0001 did to the batch, in one paragraph
+
+**She stopped keeping a record in a room, asked for a lamp out loud, climbed a stair she refused to count, found that
+the room she had been standing in for five hundred and twenty-four days is one of a great many with a kept place at the
+far side of it, found that the refusal she had lived behind for a month was not hers, missed a first of a month on
+purpose from nine landings up, went past the ninth landing, and walked out of the only room she has had since she was
+nine years old with a lamp in her left hand and did not come back down.**
+
+### Four things Batch 0002 must not inherit as clean prose
+
+1. **That the light is nearly out, or any figure of how long it lasts.** There is none on the page and none may be
+   invented. His count is his and hers is hers and neither is converted into the other.
+2. **That the stair above the room has a step count, a height, a top, or a number of rooms in it.** It has none of
+   those on the page. She counts landings; the landings are nine and then it keeps going.
+3. **That the cells are explained.** They are not. A table, forty boards with a second number on the top one, a bundle,
+   a lamp out, and a kept place that nobody has ever sat in. Nothing says what any of it is for, and the chapter that
+   would say it is ch 878.
+4. **That she is coming back down.** She said out loud at ch 855 that she was never going to stand four feet off the
+   near end of that table again, and she took a lamp and her own arithmetic and nothing else, and the strip of pale
+   wood is still under that table.

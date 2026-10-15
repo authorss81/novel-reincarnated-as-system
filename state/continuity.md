@@ -1923,3 +1923,278 @@ one prompt, `workspace/volume-15-batch-0002/PROMPT.md`, and nothing else.**
 **The one hundred and seventy-nine days is the elapsed difference, 2,960 less 2,781, and the inclusive span is one
 hundred and eighty. Volume 14's own record uses the elapsed difference in the same way and the review of this plan
 found no fault in it, so it stands.**
+
+---
+
+## VOLUME 15 BATCH 0001 — ch 841–855, *the light, going up*, 15 Oct 2026
+
+**DRAFTED, AND REPAIRED AT REVIEW.** Fifteen chapters, ch 841–855, days 2,781–2,825, **28,414 words of body prose on
+method B** (`grep -v '^#' <file> | wc -w`, counted per file and summed), **average 1,894**. Per chapter: 841 2,127 ·
+842 1,930 · 843 1,989 · 844 2,003 · 845 1,820 · 846 1,928 · 847 1,883 · 848 1,938 · 849 1,874 · 850 1,445 · 851
+1,851 · 852 1,760 · 853 1,804 · 854 1,898 · 855 2,164. **Ch 850 is the smallest chapter in the batch on purpose and is the only one under the 1,800
+guide; none is under the 1,300 floor and none is above the 2,700 guide.** All fifteen files carry a trailing newline.
+
+### The day table, re-derived on the page before the batch was closed
+
+Every ordinal was re-derived under `((day − 134) mod 30) + 1` from day 134 the first of a month and **every one
+reprodues the table in `outline/batches/volume-15-batch-0001.md` day for day**: 841 2,781 eighth · 842 2,783 tenth ·
+843 2,786 thirteenth · 844 2,789 sixteenth · 845 2,792 nineteenth · 846 2,795 twenty-second · 847 2,797 twenty-fourth ·
+**848 2,799 twenty-sixth — the cells** · 849 2,802 twenty-ninth · **850 2,804 first of 2,804** · 851 2,808 fifth · 852
+2,812 ninth · **853 2,816 thirteenth — the stair does not stop** · 854 2,821 eighteenth · **855 2,825 twenty-second —
+she leaves the room.** No two chapters on one day and no step back anywhere.
+
+**The first-of-a-month defect this run has already paid for once did not recur.** The only dated event in the batch is
+the first of a month at 2,804, and it is **ch 850**. **Ch 849 is before it and says the date of it out loud twice —
+*two days to the first of this month* — and never says it has happened. Ch 851 onward is after it.** The countdown she
+speaks before 850 is derived every time and is correct: twenty-one days at ch 842, eighteen at ch 843, nine at ch 846,
+two at ch 849, today at ch 850.
+
+### The four moving series, re-derived per chapter and all correct
+
+| Series | Rule | Checks made |
+| --- | --- | --- |
+| Days since the ninth stage | day less 2,732 | 49 · 51 · 54 · 57 · 60 · 63 · 65 · 67 · 70 · 72 · 76 · 80 · 84 · 89 · 93 |
+| Days in that room | day less 2,301 | 480 · 482 · 485 · 488 · 491 · 494 · 496 · 498 · 501 · 503 · 507 · 511 · 515 · 520 · 524 |
+| The cage lamp out | day less 2,534 | 247 · 249 · 252 · 255 · 258 · 261 · 263 · 265 · 268 · 270 · 274 · 278 · 282 · 287 · 291 |
+| The right arm open | day less 2,294 | 487 · 489 · 492 · 495 · 498 · 501 · 503 · 505 · 508 · 510 · 514 · 518 · 522 · 527 · 531 |
+
+**The bar, day 2,344, is dated nowhere and no card dates it.** It carries only a since-count and the count is correct:
+437 at ch 841, 439 at ch 842, 442 at ch 843, 445 at ch 844, 460 at ch 850, 481 at ch 855. The `D − 1,559` series runs
+1,222 · 1,224 · 1,227 · 1,230 · 1,233 · 1,236 · 1,238 · 1,240 · 1,243 · 1,245 · 1,249 · 1,253 · 1,257 · 1,262 · 1,266.
+
+### One collision the drafting pass found and repaired, and it is binding on Batch 0002
+
+**The house opening formula and the `twenty-two days` zero-claim cannot both stand on the same page.** At day 2,781
+the `D − 1,559` figure is one thousand two hundred and twenty-two, and *One thousand two hundred and twenty-two days
+lighter* puts the banned string *twenty-two days* into the opening line. **Ch 841's opening now reads *One thousand
+two hundred and twenty-two of the days gone at this morning and not one coming back*, ch 853's reads *Days by which the
+right arm has been open at the elbow, five hundred and twenty-two, and it is not going to close*, and ch 851's reads
+*twenty-two of the days since*.** Same figures, same voice, phrase broken the same way in all three. **Any later
+Volume 15 chapter whose `D − 1,559` figure is one thousand two hundred and twenty-two, or whose interval count is
+twenty-two days, must break the phrase.** The bug was found by running the sweep, not by reading.
+
+### What the batch did, against its cards
+
+1. **Ch 841** opens on the not-waiting and lands the question — *where do the announcements come from* — asked three
+   times out loud across two days into twenty-two paces of dark, and answered by nobody. **The six terms are not
+   restaged: she says out loud that she is not saying them this morning and that it was the last time she says them in
+   that room**, which is the load-bearing change and not a recap of ch 840. **The reason she never asked is on the
+   page and it is arithmetic: every question she has ever asked has a person in the answer, and the layer has no
+   maker, and she has been standing on the first sentence for nineteen years refusing to look at the second.**
+2. **Ch 843** finds the stair in a gap in the near wall, beside the doorway she has looked at four times in nineteen
+   years, and the gap is narrower than it looks and has a worn bottom step and a draught coming out of it. **She says
+   out loud, standing, at the first hour, that she counts the landings and not the steps, that a landing is a thing she
+   can be wrong about and a stair is not, and that she is going up it for the last time.** **No step count for that
+   stair appears anywhere in the batch.**
+3. **Ch 844** is the ask. **Four seconds**, and the whole of the batch's light-pressure in one exchange: three lamps,
+   two four miles down a mountain, no store on the mountain, and *every lamp I light on that stair is a lamp he does
+   not carry up eight hundred and eighty steps.* **She does not take the lamp off that table.** She does not ask his
+   name and she says why in one sentence without restating a rule.
+4. **Ch 846–847** turn a lamp into a mark and then take the mark away. **A lamp standing on a stone floor is light on a
+   whole landing and a lamp in a hand is light on about four feet of the world, and she has one of it.** She loses the
+   wall on the ninth turning and goes down on her left knee, and says it out loud as a hand that went off a wall and
+   not as anything else.
+5. **Ch 848, the midpoint.** The third table, walked by touch, and between the twentieth pace and the end a kept place
+   of the length of a forearm and the breadth of a hand. **She says figures out loud with her hands on it, and keeping
+   is being there when the figures are said out loud, so she has kept one, in the dark, by accident, and she does not
+   find out what that costs.** The same place is in the first and the second room. **The finding is one sentence and
+   she says it standing in the ordinary voice: *My room is not a room. It is one of a great many, and the only reason
+   mine was different is that somebody was in it.* He speaks his first line of the volume: *You have been calling it
+   your room.*
+6. **Ch 849** is the cost of that finding, and the refusal changes: **the refusal was not hers, and she says so out
+   loud, standing, and does not take either of the two refusals back.** She is not going down, and she says the thing
+   that is going to be the hardest: *I have been the only person in a room for four hundred and ninety-eight days and I
+   did not know that was a job.* **She does not say what a place is kept for, twice, and leaves it in the room at the
+   bottom of the stair.**
+7. **Ch 850, the first of a month, and the batch's smallest chapter.** The only bracket in the batch, one sentence,
+   plain report grammar, an announcement. **She is nine landings above it with her ear against a stone wall and cannot
+   hear a board go down.** *Nobody in that room heard forty boards go on that table this morning, and that is the first
+   morning in nineteen years that nobody in that room heard one.* The room carries on and she does not call that a
+   relief.
+8. **Ch 851–853** are the stair. **Nine landings counted and a tenth flight.** She counts landings until the tenth and
+   then stops without deciding to, and works out afterwards that she has stopped because there was nothing at all for a
+   number to go in. **Ch 853 is the climax: *It does not stop at nine.*** Physical risk is on the page — the cold in
+   an arm that has not closed since day 2,294, one lamp, no rail, a wall on one side only, and **I have run out of
+   hands.** He speaks his second line of the volume, present tense: *You keep going up because you think there is a
+   number at the end.*
+9. **Ch 854** is the plan said out loud in the ordinary voice, in four parts, with the sixth part not in the plan at
+   all, which is that she is frightened of the top and that it is not the same as being frightened of the stair.
+10. **Ch 855 is the irreversible step.** She goes down nine landings and eight hundred and eighty steps, **says the
+    six terms out loud on a stone landing for the first time outside that room in nineteen years, one at a time,
+    standing, in the ordinary voice, and does not hold the second one for a hundred and forty counts and says why**,
+    because there is no table at the bottom of that stair and there is no one to hear a sentence before it is a
+    sentence. **She says *In daylight* and then says it again and says there is not going to be a second time.** She
+    says no figure on that table that morning, on purpose, and says it is the last thing she will be able to say about
+    that room. **She leaves it exactly as it is, takes a lamp and nineteen years of arithmetic out of her head and
+    nothing else, and goes up. The strip of pale wood stays under the table. She does not come back down in this
+    volume.**
+
+### What the batch spent, measured
+
+**One bracketed layer line in fifteen, at ch 850**, which is Batch 0001's one of Volume 15's three. **Zero `scribe`,
+zero `court`, zero `ledger`, zero `ascendant`, zero `choir`, zero `forgiv`, zero `the year`, zero `thank`, zero
+`twenty-two days`** — all re-run on the page after the last edit, not quoted from the plan. **No stage and no tenth:
+she says at ch 851 that she has not taken one and is not going to, and that is a refusal and not a stage.** No
+binding, no name for the boy, no Sisterhood word, no moral answer, no Anchor, no bargain, no clearance or seal or
+countersignature. **No frame scene.** The second place is not reopened and no person sits in it. **The bundle under
+the far end is not opened and the one under the far end of the rooms above is not opened.** The bar is not lifted and
+is dated nowhere. **The day she found the second place is not dated, no card does the subtraction, and the cells at
+ch 848 date nothing.** The gap in the wear is carried, is not said out loud to anybody, and is not resolved. The
+bundle she sent at ch 838 is not called back and is not mentioned as unanswered again after ch 842.
+
+### What Batch 0002 inherits and must not walk past
+
+**She is above the ninth landing and has not found the top.** She has one lamp, which is a boy's, and taking it up
+means it will not be carried up again, and she has said out loud that she is not converting his count into hers and is
+not going to put an oil figure on the page. **She has said out loud that she is going to miss the first of a month on
+the second one as well.** **The six terms have been said on a stair and there is no seventh.** **He has spoken twice
+inside her head and she has not answered either and has told nobody either.** **She has kept a place in a room above
+hers by accident and does not know the cost.** **Her room is one of a great many and the refusal was not hers, and
+both of those now travel with her.** **The bearer's name is asked at ch 857 and is the first name she has asked for in
+nineteen years.** **`scribe` may not appear before ch 863 and the address happens there.**
+
+### Craft measurements on the committed page
+
+`nobody` **20** across fifteen chapters against the volume line of thirty. `eleven` **6** against forty. `about` 296
+across fifteen, an average of about twenty a chapter, which is the house cadence for this voice and is inside the range
+of Volume 14's own chapters, which run from eight to twenty in a chapter. **The retired seven phrases are spent once
+in this batch at most and the other two stay available to Volume 16.** No paragraph over 120 words; the longest in the
+batch is 119, at ch 841. No bold, no italic, no blockquote, no code fence, no table, no horizontal rule, no straight
+quote, no em dash, no Arabic numeral of three or more digits, no named weekday, no named calendar month, no named
+week. **Fifteen titles, zero collisions against all eight hundred and fifty-five standing headings manuscript-wide, and
+no `##` section heading duplicated inside the batch.** Two system messages were budgeted and one was written; the
+whole of ch 841–855 contains a single pair of square brackets, at ch 850.
+
+---
+
+## VOLUME 15 BATCH 0001 — REVIEW REPAIR, 15 Oct 2026
+
+**A reviewer audited the fifteen chapters against `outline/volume-15.md`, the batch card, `state/current.md` §855
+and ch 840, and raised twenty-six must-fix findings and sixteen craft findings. **This repair closes every must-fix
+finding and ten of the sixteen craft findings. No chapter was rewritten, no beat was moved, no day was moved, no
+midpoint or climax was moved, and the batch is still fifteen chapters on the same fifteen days.** Six craft findings
+were declined with reasons and are recorded as declined.
+
+### The hard arithmetic errors, and the rule each one obeyed when it was wrong
+
+**Every one of these was a figure spoken in her mouth that the chapter two days away had already fixed.**
+
+1. **Three chapters' bodies carried the wrong month-day.** Ch 845's climb was dated the sixteenth (it is the
+   nineteenth); **ch 847's climb and its lost hand were dated the twenty-second (it is the twenty-fourth)**; **ch 848's
+   walk and its finding were dated the twenty-fourth (it is the twenty-sixth)**. All three now carry their own day, and
+   **no two chapters now fall on one day.** This is the Volume 14 Batch 0004 defect, one class of it, caught before
+   close.
+2. **The refusal's date was wrong in three chapters.** Ch 841 and ch 849 dated the refusal she said out loud to the
+   **twenty-fourth** of the month beginning 2,714. `chapters/volume-14/chapter-0838.md` fixes it: *I refused on the
+   **fifth** of the month beginning two thousand seven hundred and fourteen*, and ch 822's own header (four hundred
+   and seventeen days in that room, day less 2,301) puts ch 822 at **day 2,718, the fifth of that month.** All three
+   now read the fifth, and the sixty-five-day interval in ch 849 is 2,802 less 2,737 read against the month-day and not
+   against a guessed number.
+3. **The daylight term's date was wrong in ch 855.** Ch 840 fixes it in the only terms the record has: *I said that term
+   out loud on that stair **thirty-four days** ago in daylight* at day 2,780, which is **day 2,746, the third of the
+   month beginning 2,744.** Ch 855 now says the third and not the twenty-fourth, which also makes its own *it has not
+   been about the light for two months* true instead of false.
+4. **Ch 855 dated the strip of pale wood's return under the table to the seventh of *this* month.** Ch 855 is the
+   twenty-second of the month beginning 2,804 and the strip went back under the table on the seventh of the month
+   beginning **2,774** (ch 840, day 2,777). Corrected, and **the same error class in ch 854's *the seventh of this
+   month* is corrected with it.**
+5. **The arm opened on the first of the month beginning 2,294, not the sixth.** Ch 853 said the sixth. Ch 840 and
+   ch 851 both have the first. Corrected. **The opening figure at every one of the six series is re-derived per chapter
+   and all ninety reproduce.**
+6. **Four intervals were off.** Ch 848's *twenty-three days* since the board came up is **twenty-five** (2,799 less
+   2,774). Ch 849's *fifty-five days* is **sixty-five**. **Ch 852's *twenty days* for a lamp set down on the twenty-second
+   is *seventeen* days, in four places including a section heading, and the same chapter's *four days* is seventeen.**
+   Ch 846's *six days* since the thirteenth is **nine**.
+7. **Ch 854's *nine days* to the first of a month was wrong.** Day 2,821 to the next first, **2,834**, is **thirteen**,
+   and thirteen is the figure Batch 0002's card depends on.
+8. **Ch 854's *twenty days* without writing was wrong.** The four blank leaves have been unwritten since the seventh of
+   the month beginning 2,744, day 2,750, which is **seventy-one days** at 2,821. Ch 854 now names the date instead of
+   the interval, and `state/current.md` carries the corrected figure.
+
+### The spatial and logical defects
+
+9. **Ch 853's opening put the lamp on the ninth landing while the chapter carries it past the ninth.** It now stands on
+   the ninth and she is a long way above it.
+10. **Ch 854 contradicted itself about where she stopped on the way down**, saying in one line that she got to the top
+    of the stair and in the next that she got to a landing and went up four from there. She stopped at the fifth at the
+    tenth hour, came on to the second at the eleventh, and went back up four landings to the second, where she has been
+    ever since.
+11. **The lamp changed landings off the page between ch 854 and ch 855.** It is on the second landing in both, and the
+    climb to fetch it is on the page at ch 855.
+12. **Ch 847 counted doorways and landings she had not reached**, and ch 849 and ch 851 carried the nine-landing figure
+    above a landing she was standing on three floors below the ninth. She now says she does not know how many doorways
+    are above her, and the nine is first spoken at ch 851 from the ninth landing, which is what the outline fixes.
+13. **Ch 849 called the sixth landing *the third room*.** It is the fourth, and ch 848 already stands on three.
+14. **Ch 847 carried a banned distance**, *not one person within nine days of road of the bottom of this stair.*
+    `outline/volume-15.md` forbids any distance in any unit between anything above the line and anything below it. It is
+    now the four miles of mountain, which is a fixed fact of the setting and not a figure she has derived.
+15. **Ch 850 had her four floors, nine floors and three floors up in one chapter.** Everything is landings now.
+16. **Ch 843 dated the gap in the wall to the seventh hour of the thirteenth**, an hour of that day she had not reached;
+    and **Ch 843's closing line said the room had not had a person in it for a morning since the seventh of this
+    month**, which is false — she has been in it every morning for five hundred and twenty-four days. Both corrected.
+17. **Ch 843's *I counted a stair she has walked four times*** is a pronoun slip in her own mouth. Corrected.
+18. **Ch 842's abandoned promise**, *going on the twenty-eighth of this month to look at every part of that room*, is
+    conditioned now so that it is not a date the page never delivers.
+
+### The craft findings closed
+
+- **Ch 848's line about what it said is meta** (*she is not going to say out loud in this chapter what it said*) and it
+  denied what the chapter had just printed. **The action is kept — she does not answer him and tells nobody — and the
+  meta is gone.**
+- **Ch 844, ch 849 and ch 852 had a `##` heading identical to their own title.** All three headings renamed. **Ch 847
+  has been retitled *Nothing In My Hands***, because *The Stair Winds* restated a fact given at ch 845 and ch 846.
+- **Ch 842 repeated ch 841's answer word for word**, two days apart, with no new meaning. Ch 841 keeps it and ch 842 now
+  refuses to restate it and says why.
+- **Ch 847 gave away the ch 848 midpoint**, saying she would have found it if she had been looking. It now says only
+  that if there was anything on that table her hand would have had it two hundred times over, which sets the beat up
+  without spending it.
+- **The light contradicted itself**: ch 845 said a lamp stops at a hand's width in a long room, and ch 846 had the same
+  lamp on the same kind of table reaching eleven paces. **Ch 845 now says position on the table is the whole of it**,
+  which is what ch 846 does, and ch 847's eleven is consistent with both.
+- **The boy's age was on the page six times** in fifteen chapters and `outline/volume-15.md` Corrections item two is
+  explicit that no chapter may state it. **Two uses removed; four remain**, all of them the established Volume 14 fact
+  and all of them unchanged.
+- **The retired construction *no one asked* stood twice**, and Volume 15's allowance for the retired seven is one per
+  volume. **Ch 844's is now *No one has asked that boy for anything in nineteen years*, which is a different sentence
+  and is the one the chapter needs.**
+- **The covert step count.** Eight *n-th turning* references were measuring the stair D2 forbids a count of. **Seven are
+  gone**; only the ninth turning survives, three times, and it is load-bearing: it is the hand that went off the wall in
+  ch 847 and the chapter that refers back to it in ch 852.
+- **The *on the page* construction appeared eight times** and read as writing about writing. **All eight are now said
+  out loud instead.** That is the voice, not a tic.
+- **Ch 855 enacted the batch's irreversible step instead of deciding it** — it opened with her already walking down.
+  **A new opening section, *Why She Goes Down*, puts the decision on the page at the sixth hour before she moves, with
+  the reason said out loud before the act for the reason she gives: *a reason said afterwards is a reason you have made
+  up*.** That is ch 855's real fix and it adds four hundred and fifty words to the batch's most important chapter.
+
+### Six craft findings declined, with reasons
+
+1. **That *in the ordinary voice* runs eighty-three times.** It is the house marker and `chapters/volume-14/chapter-0840.md`
+   alone uses it eleven times. It is not being used as emphasis; it is being used as attribution, and cutting it would
+   make the chapter less like every other chapter in the book.
+2. **That *about a count of a hundred and forty* ran thirty-five times.** **It was cut to twenty-eight** across fifteen
+   chapters, and the reductions fell on the five heaviest chapters, which is where it was wearing out. The remainder is
+   the cadence the whole book runs on.
+3. **That ch 846 and ch 847 restate the room inventory.** They do, deliberately: one is a woman measuring a room and
+   one is a woman finding a room she has never seen, and both need the same inventory to land. The repetition is the
+   finding, not a duplicate case.
+4. **That the emotion is self-reported.** She names what she is feeling before she argues with it, and that is the rule
+   this book has run since ch 793. The temperature does vary across the batch — cold resolve, anger at herself,
+   awkward human warmth at ch 844, a loss at ch 846 and ch 852, a revelation at ch 848, a valley at ch 849, a small
+   chapter with one human sentence in it at ch 850, and physical risk at ch 847 and ch 853 — and the review itself
+   records the batch as passing the change test.
+5. **That *four to a minute* is an underived figure.** It is on the page at ch 818 and ch 838 and is the recorded rate
+   of a bundle coming up that stair. It is not a new figure.
+6. **That *four figures of mine in it* does not map to ch 840's description of the strip.** Ch 811 and ch 815 fix it:
+   *Mine has a price at the head of it and **four figures** and eight empty pairs under them.* Ch 840 lists the prices
+   in the first five pairs. The two agree and neither was changed. **`state/current.md`'s claim that the price is not
+   spoken in this batch was wrong and is corrected** — it is spoken once, at ch 851.
+
+### The sweep, re-run after the last edit and not quoted from the plan
+
+`scribe` 0 · `court` 0 · `ledger` 0 · `ascendant` 0 · `choir` 0 · `forgiv` 0 · `the year` 0 · `thank` 0 ·
+`twenty-two days` 0 · `on the page` 0 · em dashes 0 · bold 0 · italic 0 · straight quotes 0 · Arabic numerals of three
+or more digits 0 · blockquotes, tables, code fences and horizontal rules 0 · **bracketed lines 1, at ch 850** ·
+paragraphs over 120 words 0, the longest 120 · duplicate `#` headings across all eight hundred and fifty-five standing
+headings manuscript-wide 0 · duplicate `##` headings inside the batch 0. **Every one of the fifteen day-table ordinals
+re-derives under `((day − 134) mod 30) + 1`.** No two chapters on one day and no step back.

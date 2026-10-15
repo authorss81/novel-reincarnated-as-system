@@ -1131,3 +1131,157 @@ between anything above the line and anything below it.
 light, going up*.** It drafts fifteen chapters and nothing else and creates exactly one prompt after itself,
 `workspace/volume-15-batch-0002/PROMPT.md`. **This phase created no second `workspace/volume-15-*` directory and
 no `.done` marker.**
+
+## Who is where at end of chapter 855 — VOLUME 15 BATCH 0001 WRITTEN, ch 841–855
+
+**A cold reader starts here. This block supersedes *Volume 15 planned* and *Who is where at end of chapter 840*
+above it wherever the two differ.** Recorded 15 Oct 2026 by the Volume 15 Batch 0001 drafting phase. **Fifteen
+chapters, days 2,781–2,825, 28,414 words of body prose on method B, average 1,894. One bracketed layer line in
+fifteen, at ch 850. No stage, no tenth, no binding, no name, no Scribe word, no frame scene. Irreversible step at
+ch 855.** Volume 14 remains closed on the page at ch 781–840, 121,530 words, zero brackets.
+
+Day 2,825, the twenty-second of the month beginning two thousand eight hundred and four, at about the tenth hour. A
+tower with nine landings above her room and a stair out of the ninth that does not stop. A lamp standing on the
+first landing above her room, brought up on a boy's own account and not to be carried up again. A woman going up.
+
+### Her
+
+**IMMORTAL VESSEL 9** throughout this batch and not touched. Nine stages into the seventh realm, taken at ch 828 on
+day 2,732. Nineteen years old. Three fingers and a thumb. **Right arm open at the elbow five hundred and thirty-one
+days** and not going to close. Short breath four counts everywhere, seven on a rise, nine standing still. Seven of
+eleven holds. Small open place low behind the fourth rib. **One thousand two hundred and sixty-six of the days gone
+at `D − 1,559`, not one coming back.** Not hungry. Nib and ink against her fourth rib; a book of eight leaves with
+**four blank leaves still blank, and not one line written on any of them since the seventh of the month beginning
+two thousand seven hundred and forty-four, day 2,750, which is seventy-one days.** The price at the head of the
+strip **is** spoken once in this batch, at ch 851, and the four figures of hers in it are established on the page at
+ch 811 and ch 815. Row staleness is not spoken.
+
+**Twenty costs carried whole and none re-derived, and none re-named:** the fourteen from Volume 13 and before · she
+cannot be given anything · she cannot be paid · the reach answers a question and only a question · she cannot call a
+halt · she cannot be met where she is expected · she cannot be counted where she stands · she cannot go back down
+the road she came · she cannot keep what she finds by holding it · she cannot follow a name she is given · she
+cannot be hidden by the dark · she cannot be unread where she stands · she cannot be alone in the room any more.
+**None of them is spoken aloud in ch 841–855 and the last of them is shown, never defined, at ch 845 and ch 847.**
+
+**What this batch added to her, in her own mouth:** that the layer is not a thing anybody has a maker of, and that
+a thing with no maker still has to be somewhere when it is made · that she has been reading the wrong end of the
+announcement layer for nineteen years · that there is more building above her room and nobody has ever been in it ·
+that her room is one of a great many and the only reason hers was different is that somebody was in it · **that the
+refusal was not hers** · that a lamp is the end of her own reach and not a light · **and that the room at the bottom
+of that stair carried on without her and nobody in it heard forty boards go on a table.**
+
+### Him
+
+**Yuan Sheng.** Court, third rung. Readable since ch 810, found, not addressed, and **not spoken to by her since
+ch 840 — said out loud once in this batch, at ch 841, and once only.** **He speaks twice in fifteen chapters**, and
+both are present tense: *You have been calling it your room* at ch 848, and *You keep going up because you think
+there is a number at the end* at ch 853. **She does not answer either and tells nobody either.** No figure of what is
+left of him on any page. **No frame scene anywhere in ch 841–855.**
+
+### The boy of sixteen
+
+Unnamed, unsent, unentered, unbound. **He is asked for a lamp at ch 844 and he gives one in about four seconds, and
+it is the first thing anybody in that building has been asked him for in nineteen years.** He asks *Which*, she says
+*Any of them*, and he works out that she means one and not the other and puts it on the step in front of her and does
+not ask what for. **He does not appear on the page again after ch 844.** He is asleep on the fourth landing at the
+close with oil on his hands and one of his three lamps still four miles down a mountain and one still standing on that table.
+
+### What is in the building above her room, and what is not
+
+**Nine landings above her room, counted as landings and never as steps.** The stair above the room **is never given a
+step count on the page** and no card may give it one. She went up it on the nineteenth, twenty-second, twenty-fourth,
+twenty-sixth, twenty-ninth of the month beginning 2,774 and on the fifth, ninth, thirteenth, eighteenth and twenty-
+second of the month beginning 2,804.
+
+- **Landings one, two and three are rooms and she has been in all three.** A table twenty-two paces long in each,
+  four feet off the floor, a leg at every two paces, the flag that moves at about the nineteenth. A lamp in a cage out
+  on the shelf at the far end. **Forty boards face up under the middle of each, with a second number cut on the top
+  board of each, the same second number, which she has not said out loud and has not written anywhere.** A bundle
+  under the far end of each, corded twice and not knotted, which she has not put a hand into. Nothing on the near end
+  of any of them.
+- **THE CELLS, CH 848, THE MIDPOINT.** In all three, between the twentieth pace and the end of the table, **a place of
+  the length of a forearm and the breadth of a hand that is kept, that is not a seat, and that no person has ever
+  sat in.** The finding, one sentence, said standing in the ordinary voice: *My room is not a room. It is one of a
+  great many, and the only reason mine was different is that somebody was in it.*
+- **She kept a place herself, by accident, at ch 848.** Keeping is being there when the figures are said out loud. She
+  said figures out loud, standing up, in the ordinary voice, with her hands on the place, in a room with no person in
+  it, on the twenty-fourth of the month beginning 2,774. **She does not know what that cost and does not find out in
+  this batch.**
+- **Landings four, five, six, seven and eight.** Doorways in four of them. She went into the sixth and it is the same
+  room. She has not been into the other three.
+- **Landing nine is the ninth above her room** and a stair goes up out of it. Past it, at ch 853, **the stair does not
+  stop at nine.** She got one landing past the tenth and stopped because she has run out of hands: one on a lamp and
+  one on a wall, and a right arm that has not closed since day 2,294. **She could not see the end of the landing she
+  stopped on and she has not got the top.**
+- **No room above nine is on the page.** No making-place, no name for it, no use for it. **No step count, no figure
+  for how high it is, no cell count.**
+
+### What the room was left as, and it is the last page of it
+
+**She left it at ch 855 and she does not come back down in this volume.** Three pieces of wood face up about a foot in
+from the near end of a table twenty-two paces long. A fourth about a foot further along, the terms board, face up
+since the first of the month beginning 2,804. **A strip of pale wood face up on the floor under the table at the near
+end of the leg, and she did not take it.** A bar nine feet nine against the wall on the left, broken end towards the
+door, there four hundred and eighty-one days and not lifted and **dated nowhere**. A bundle under the far end corded
+twice and not knotted and never opened. A lamp in a cage on the shelf at the far end, out two hundred and ninety-one
+days, and no chapter in Volume 15 relights it. **The second place, kept four hundred years, empty, refused twice,
+and nobody sat in it.** **The second term *in daylight* was spent at ch 830 — day 2,746, the third of the month beginning 2,744 — and is
+not found again: at ch 855 she says it on a stone landing in the dark and says out loud that there is not going to
+be a second time.**
+
+### The first of a month at 2,804, and what it cost
+
+**The one bracketed layer line in this batch** is at ch 850: `[Forty boards are on the table at the top of the second
+stair.]` One sentence, plain report grammar, an announcement, no explanation. She was on the ninth landing with her
+ear against the stone and **she did not hear it and she could not have heard it and she did not go down.** She has now
+missed one first of a month on purpose and she has said out loud that she is going to miss the next one. **No card may
+say the first of a month has happened before ch 850 or after ch 849.**
+
+### Still open, not spent, not settled by anything in this batch
+
+**His yes at ch 812 and her two refusals — both stand, neither cancels, she has not been told about the yes, and
+Volume 15 does not tell her in this batch.** The day she found the second place, three anchors still disagreeing, no
+card dated it and the cells at ch 848 date nothing. The gap in the wear, two fingers, carried and not said out loud
+to anybody and not resolved. Whether the fair hand and the third hand are the same hand. The second place, kept and
+empty and not reopened. The bundle, not opened. The bar, dated nowhere. The second number cut on the top board in
+each of the three rooms, not spoken and not written. **What a place is kept for, which she has refused to say twice
+and which ch 849 leaves in the room at the bottom of the stair.** **What is at the top of a building that does not
+stop at nine.** **Whether what is above is a person** — this batch does not ask it.
+
+### Standing relationships at the close
+
+**Unforgiven, unthanked, unkept.** `forgiv`, `the year`, `thank`, `twenty-two days`, `scribe`, `court`, `ledger`,
+`ascendant`, `choir` — **all 0 across ch 841–855 and re-measured on the page.** **Him, the voice** — not spoken to,
+spoken twice at her, unanswered twice. **The boy** — asked for a lamp once, named never. **Ning Wu** — not spent.
+
+### Volume 15 Batch 0001, measured
+
+**Fifteen chapters, ch 841–855, days 2,781 to 2,825, 28,414 words of body prose on method B** (`grep -v '^#' <file> |
+wc -w`, per file and summed), **average 1,894.** Per chapter: 841 2,127 · 842 1,930 · 843 1,989 · 844 2,003 · 845
+1,820 · 846 1,928 · 847 1,883 · 848 1,938 · 849 1,874 · 850 1,445 · 851 1,851 · 852 1,760 · 853 1,804 · 854 1,898 ·
+855 2,164. **Ch 850 is the smallest in the batch on purpose** and is the only chapter under the 1,800 guide; none is
+under the 1,300 floor and none is above the 2,700 guide. **One bracketed layer line in fifteen, at ch 850**, which
+spends Batch 0001's one bracket of Volume 15's three. **No paragraph over 120 words**; the longest is 120. No bold,
+no italic, no blockquote, no table, no code fence, no horizontal rule, no straight quote, no em dash, no Arabic
+numeral of three or more digits, no named weekday, no named month, no named week. `nobody` 20 across fifteen against
+the volume line of thirty; `eleven` 6 against forty. Fifteen titles, zero collisions against all eight hundred and
+fifty-five standing headings manuscript-wide, and no `##` section heading duplicated inside the batch.
+
+### One defect repaired on the page at drafting time, and it is recorded so the next reader does not undo it
+
+**The `twenty-two days` zero-claim collides with the house opening formula.** At day 2,781 the `D − 1,559` figure is
+one thousand two hundred and twenty-two, and the phrase *One thousand two hundred and twenty-two days lighter* puts the
+banned string *twenty-two days* in the opening line of ch 841 and of ch 853. **Ch 841's opening therefore reads
+*One thousand two hundred and twenty-two of the days gone at this morning and not one coming back*, and ch 853's reads
+*Days by which the right arm has been open at the elbow, five hundred and twenty-two, and it is not going to close.*
+Both are the same figure, said the same way she says every other figure in the record, and both are on the page
+because the zero-claim is binding and the figure is fixed. Every other day-lighter figure in the batch is spoken in
+the house formula unchanged.** The same collision is why ch 851 reads *twenty-two of the days since*. **Any later
+phase that drafts a Volume 15 day at which the lighter figure is one thousand two hundred and twenty-two must break
+the phrase the same way.**
+
+### The next phase
+
+**`workspace/volume-15-batch-0002/PROMPT.md` — Volume 15 Batch 0002, ch 856–870, days 2,826–2,870, pressure *the
+address*, midpoint ch 863 and the irreversible step at ch 866.** This phase created exactly one `workspace/volume-15-*`
+directory beyond its own and **wrote no `.done` marker, which `PHASE_SYSTEM.md` gives to the controller alone.**
