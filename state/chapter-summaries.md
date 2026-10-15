@@ -874,3 +874,92 @@ of the thirty breaks, the one at ch 938 that fell inside a single unclosed speec
 the over-ninety paragraphs at eight — see `state/continuity.md` under *VOLUME 16 CLOSE — REVIEW REPAIR*.** Full record at
 `state/continuity.md` under ***VOLUME 16 CLOSE***, and the canon ruling on the hands at `state/open-threads.md` under
 *The Volume 16 close, 15 Oct 2026*.
+
+---
+
+## THE SERIES CLOSE — ch 1–1000, sixteen volumes, the whole book in one record
+
+**Written by the volume close record, phase `volume-16-close`, 15 Oct 2026. The last block in this file in this run.**
+The per-chapter record for ch 901–1000 and the seven Volume 16 batch blocks are above; the volume as a whole is under
+***Volume 16 closed — the whole volume***. **This block is the series, and it does not repeat them.**
+
+**THE BOOK IS FINISHED: 1,000 chapter files in sixteen directories, 1,881,197 words of body prose on method B — every line
+not beginning `#`, counted per file and summed — average 1,881. `scripts/completion_guard.py` exits 0.
+`outline/ending.md` was never rewritten by any phase of the run.**
+
+| Vol | Title | Chapters | Files | Body prose | Avg | Days | Irreversible step |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | A Voice in the Dark | 1–58 | 58 | 95,591 | 1,648 | no numbered calendar on the page | ch 88 — the ceiling signed on herself, Foundation barred without relicensing |
+| 2 | The Chosen One | 59–118 | 60 | 110,418 | 1,840 | no numbered calendar | ch 104 — stage four suppressed so it reaches no county book |
+| 3 | The Hunter | 119–178 | 60 | 135,014 | 2,250 | no numbered calendar | ch 171 — Condensing nine announced under a ceiling in her own hand, three holes in the column |
+| 4 | The Wall | 179–238 | 60 | 120,572 | 2,010 | closes at day 470 | the right index finger, gone at the blind run, never named again |
+| 5 | Mortal Ash | 239–298 | 60 | 101,266 | 1,688 | 471–620 | ch 294 — the claim answered in ink, the Lowwater date torn off |
+| 6 | The Real Realm | 299–360 | 62 | 95,113 | 1,534 | 621–848 | ch 358 — the sending refused, entered, and standing |
+| 7 | Stronger Things | 361–420 | 60 | 115,464 | 1,924 | 849–1,090 | ch 417 — the refusal, and a denial is an entry |
+| 8 | Recruited | 421–478 | 58 | 105,846 | 1,825 | 1,091–1,340 | ch 474 — the Order refused on the record, read back before it went in |
+| 9 | The Warden | 479–538 | 60 | 113,811 | 1,897 | 1,341–1,598 | ch 518 — *Open it*, and he is left on the wrong side permanently |
+| 10 | The List | 539–600 | 62 | 115,619 | 1,865 | 1,599–1,830 | ch 598 — she finds her brother alive, once, and tells him nothing |
+| 11 | What He Was | 601–660 | 60 | 118,748 | 1,979 | 1,831–2,060 | ch 609 — she asks him what he was, and it cannot be un-asked |
+| 12 | The Road Up | 661–720 | 60 | 116,766 | 1,946 | 2,061–2,300 | ch 674 — her name and her days into a column on the turn's board |
+| 13 | The Immortal Court | 721–780 | 60 | 118,951 | 1,983 | 2,301–2,540 | ch 763 — her own figure written under the room's in her own hand |
+| 14 | The Scribe's Apprentice | 781–840 | 60 | 121,530 | 2,026 | 2,541–2,780 | ch 838 — the first thing she ever sent cannot be called back |
+| 15 | The Scribe | 841–900 | 60 | 111,007 | 1,850 | 2,781–2,960 | ch 894 — the peak, and Lu An bound, said out loud first |
+| 16 | The Last Announcement | 901–1000 | 100 | 185,481 | 1,855 | 2,961–9,800 | ch 930 — the refusal, the dissolving, and the entry he gets to be |
+| | **The book** | **1–1000** | **1,000** | **1,881,197** | **1,881** | | **ch 1000 — she forgives him, it is housekeeping, and she goes back to teaching** |
+
+### The spine, one line per volume, in the words the volume used for itself
+
+1. **Getting through a day.** A quota run at dawn, four hands short, and a voice in her head that counts her breaths.
+2. **The grant.** A licence with a ceiling on it, and a brother who is a name in a book instead of a person.
+3. **The signature.** Condensing nine announced at her own order, with three holes in the column and four counties
+   holding the shape of them.
+4. **The wall.** Across, in a wage-book on a trestle, with one index finger gone and a claim nobody will answer.
+5. **The ash.** A season that closes and produces nothing, and a date torn off a page by a stranger's hand.
+6. **The other side.** Three Golden Cores, a sending refused and entered, and a bar she learned to carry one-handed
+   that now needs two hands she has not got.
+7. **Stronger things.** Six stages taken where nine men watched, and one refusal that puts a permanent entry in a book.
+8. **The instrument.** The Order refused in daylight, read back to the room, and written down with a date.
+9. **The list.** A nine-hundred-year-old man's rule in her own handwriting, and a wall opened from the inside with him on
+   the wrong side of it for good.
+10. **The name.** Her brother alive in front of her, once, and the book shut on a plank table in daylight.
+11. **What he was.** A fragment of the thing that made him, burned out of a layer at nineteen, and a tax that was designed.
+12. **The stair.** Her name and her days in a column where the levy can reach her.
+13. **The measure.** Four hundred stages held in a lamp, and a bundle that goes back down the stair for the first time in
+    four hundred years.
+14. **The refusal.** The thing he was offered, refused again, and the first message she has ever sent.
+15. **The bargain.** Six hundred and forty thousand said aloud where the keeper reads, and six terms on a table.
+16. **The answer.** Four minutes of acceptance, one refusal, three apologies, and a sentence in eight words that ends
+    the layer.
+
+### What changed that could not have changed before it — the book's own accounting
+
+- **ch 88** the ceiling is in her own hand, so no office anywhere can raise it for her.
+- **ch 104** the chain of her filing has a hole in it, and nobody will ever know whether that reads as an absence or a
+  break.
+- **ch 171** three stages are missing from a column that has been read aloud across nine counties.
+- **ch 238** her hours belong to her in a book nine days of road away, and her index finger does not.
+- **ch 298** the season is closed and the next pay-day produces nothing, forever.
+- **ch 417** she will never know what the fine hand says about her, on purpose.
+- **ch 474** the Order has been refused in the best book on nine days of road and a man of sixty-one wrote the date.
+- **ch 518** one person is on the wrong side of an opened wall permanently, and it is the man who opened it.
+- **ch 598** her brother has been found and nobody has told him anything.
+- **ch 609** he has been asked what he was and cannot be un-asked.
+- **ch 674** the levy can reach her.
+- **ch 763** she has written two figures in one row and a row with two figures in it is a row that gets counted.
+- **ch 838** the first thing she ever sent cannot be called back.
+- **ch 885** six hundred and forty thousand is in nine mouths and cannot be put back in one.
+- **ch 912** a yes said in the channel where the thing that made him reads cannot be un-said.
+- **ch 930** he is an entry and not a person, and there is no way back.
+- **ch 960** four hundred people, the price of each on the record, and the rule does not run backwards.
+- **ch 975** the layer has been told the one sentence it cannot survive being told.
+- **ch 988** the ceiling is off and nobody in the world wants it back.
+- **ch 1000** the account closes because he is gone and not because the debt was settled.
+
+### What the whole book is, said once
+
+**Being recorded is not the same as being used up, and the difference is whether the person inside the record gets to
+decide what the record is for.** Sixteen volumes, a hundred and eighty-five thousand words in the last hundred chapters
+alone, four hundred and one people learning to be strong in a courtyard with no wall and no announcement, **and a woman
+at the end of it who says the four months out loud twice in nineteen years and goes back to teaching.**
+
+**That is the end. Nothing follows this block.**

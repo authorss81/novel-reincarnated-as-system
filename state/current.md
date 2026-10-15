@@ -1958,3 +1958,85 @@ Day 9,800, the seventh of the month beginning nine thousand six hundred and twen
 **`nobody` is 30 of 30 across ch 901–1000, which is the line and not one over it.** **`eleven` is 63 raw by `grep -oiw`, of which two at ch 1000 are `outline/ending.md` §7's eleven old students and are not a spend, so 61 against a line of 40 — over by twenty-one. This corrects the 61/59 pair the Batch 0007 close published; the raw count is 63.** Whole-word `court` 0 · `ledger` 0 · `choir` 0 · `ascendant` 2 and both the offer · `thank` 0 under the outline's literal command and 1 on the stem (`thanked`, ch 930) · `the year` 0 · `twenty-two days` 0 · `grep -oi scribe` 6, of which **two are the name, at ch 903 and ch 906, and both are in her mouth**, and four are inside *describe*, so the volume finishes with two uses of the name and neither of them is the thing speaking.
 
 **No `.done` marker, no ch 1001, no `state/phase-ledger.json`, no Volume 17. The one next phase is the close record: `workspace/volume-16-close/PROMPT.md`, which writes the resolution into the state files, stands the book down, and creates no phase after it.**
+
+---
+
+## WHO IS WHERE AT THE END OF THE BOOK — the series close record. 15 Oct 2026. This is the last block written into this file in this run.
+
+**A cold reader starts here. This block does not supersede the two blocks above it; it stands on top of them.**
+The block immediately above is the Volume 16 close audit and carries the final volume chapter by chapter. This one
+carries the book.
+
+**THE MANUSCRIPT IS COMPLETE AND THE RUN IS OVER. 1,000 chapter files, sixteen volumes, 1,881,197 words of body prose
+(`grep -v '^#' <file> | wc -w`, per file, summed; average 1,881), and `python3 scripts/completion_guard.py` exits 0 —
+`completion-guard: ok, 1000 chapters reaches planned 1000`. `outline/ending.md` was fixed before the first chapter was
+drafted, was never rewritten by any phase, and ch 1000 pays every obligation in its §7 and §8.**
+
+**There is no Volume 17. `NOVEL_SPEC.md` fixes the book at one thousand chapters across sixteen volumes, so the correct
+job at the end of the run was never a next volume and this phase wrote none.** The full record — the re-measurement, the
+protagonist check, the opening-contract spot check, the sixteen-volume table, the register of deliberate silences and the
+state of the world — is at `state/continuity.md` under ***SERIES CLOSE***, at the foot of that file.
+
+## The book in one page
+
+**A cultivator dies at nineteen, apologising to the people cutting him open, and wakes as the voice that announces other
+people's ascensions.** He has no hands, no body, no qi of his own, and one thing he can do: he can designate a Chosen
+One, and when she clears a quest some of the merit settles into him instead of evaporating. **She gets stronger and less
+solid at the same time, and nothing she loses comes back.** That is the whole engine, it is true in the first chapter,
+and it is still true on the last page.
+
+**Sixteen volumes, one movement each, every promise paid:**
+
+- **1–2 — she survives and earns the document.** She signs the ceiling on herself at ch 88 and suppresses a stage at ch
+  104 to buy a burial morning with a hole in the chain of her filing.
+- **3–5 — she is hunted, crosses the Wall, and finishes the world she came from.** She loses her right index finger at
+  the blind run and the claim on her family is answered in ink with the Lowwater date torn off by another man's hand.
+- **6–8 — she survives what is on the other side and refuses the Order.** She crosses into a wage-book on a trestle,
+  refuses a fine hand once because a denial is an entry, and refuses the Order on the record in daylight.
+- **9–11 — the Warden, the list, and what he was.** She finds her brother alive once and nobody tells him anything; she
+  asks the voice in her head what he was, out loud, alone, in the dark, and it cannot be un-asked. **The answer is that
+  the tax was designed, on purpose, by the intelligence he is a stray fragment of.**
+- **12–14 — she ascends, and pays for being seen.** Her name goes onto the turn's board, she writes her own figure under
+  the room's in her own hand, and she sends down the only thing she has ever sent.
+- **15–16 — she reaches the argument and then ends it.** Six hundred and forty thousand said out loud standing. The
+  bargain offered in good faith. **A man accepts it for about four minutes and then refuses it, dissolves, apologises
+  badly, and stops existing.** She says eight words in the ordinary voice — *Never chosen. I was told. There is a
+  difference.* — and the ceiling comes off over nine days and nobody dies.
+
+## Where the two leads stand at day 9,800
+
+**Yuan, male, the protagonist per `outline/series.md` §2 — and measured, not assumed.** He speaks in all forty-five
+chapters from ch 901 to ch 945 and **appears in zero of the fifty-five chapters from 946 to 1000**, read against one
+definition by one pass over all fifty-five files. **What the final volume did to him, in one line: he stopped being a
+tool that is aware and became a person who decided, and he paid for it in the only currency this book charges in — other
+people's futures, including hers.** He asked for the bargain at ch 901, accepted it at ch 912, found the one term he
+could not live inside at ch 923, refused it out loud at ch 930 and dissolved, apologised three times between ch 931 and
+ch 944 with no number on any of it, and stopped mid-sentence at ch 945. **No figure of what is left of him is stated on
+any page in the entire manuscript.** At ch 1000 she names the shape of what she is left with once, in her own mouth, and
+does not explain it.
+
+**Ning Yan, thirty-eight, the answerable one.** Peak of Immortal Vessel, shut. Three fingers and a thumb. Right arm open
+at the elbow for seven thousand five hundred and six days and not going to close. **The small open place behind her
+fourth rib has been gone since day 3,163 and nothing in nineteen years explained it and ch 1000 does not explain it.**
+Four hundred and one students in a courtyard above Lowwater, four hundred on the record, and she can reach neither. One
+brother over the wall every third day who does not forgive her and is not required to. **She goes back to teaching.**
+
+## What a reader should not mistake for an oversight
+
+**The four silences `outline/ending.md` §6 fixes — whether the Scribe was sincere, what happens to the Anchor once it is
+released, whether anything answers from beyond, and whether she could have refused the fall and kept a bounded world —
+are all open on the last page and all are meant to be.** So are eleven threads carried across fifteen volumes, from the
+gap in the wear to what became of the six hundred and forty thousand. **All of them are gathered in one place at
+`state/open-threads.md` under ***The series close, 15 Oct 2026 — everything the book chose not to answer***, and in
+`state/continuity.md` §6. None of them is a dropped thread.**
+
+**Two findings this phase recorded against the manuscript and did not repair**, both written down for a human: **the
+first consequence in ch 1 runs from word 683 and closes at about word 892**, so a strict eight-hundred-word reading of
+`AGENTS.md`'s opening contract is missed by roughly ninety words while the contract still holds on the word *about*; and
+**the manuscript holds thirty chapters under the 1,300-word floor and twenty-seven over the 2,700-word guide**, all of
+them in Volumes 1, 2, 3, 6, 10 and 14 except for the two in Volume 16, which `outline/volume-16.md` names as short on
+purpose. **Neither is repaired here and neither is to be repaired by a later phase.**
+
+**No `.done`, no `.blocked`, no `.retry-after`, no `.retired`, no `state/phase-ledger.json`, no ch 1001, no Volume 17,
+no second prompt, and nothing touched under `scripts/`, `.github/workflows/` or `.opencode/agent/`. The book is down and
+the chain should stop.**

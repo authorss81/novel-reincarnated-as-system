@@ -465,3 +465,31 @@ break withdrawn**, and **not one word of prose was added or removed anywhere in 
 across all 1,000 chapters against `HEAD`. The volume body total is **185,481 before and after** and the
 manuscript-wide total is **1,881,197**. **No chapter was restarted and no chapter number, day, batch boundary,
 midpoint, climax, bracket or irreversible step moved.** `outline/ending.md` is untouched.
+
+---
+
+## THE RUN IS OVER — added by the series close record, phase `volume-16-close`, 15 Oct 2026
+
+**A cold reader arriving at this repository now, start at the block below and nowhere else. The manuscript is complete:
+1,000 chapter files, sixteen volumes, 1,881,197 words of body prose on method B, `scripts/completion_guard.py` exits 0,
+and `outline/ending.md` was never rewritten by any phase of the run. There is no Volume 17 and none is planned, because
+`NOVEL_SPEC.md` fixes the book at one thousand chapters across sixteen volumes.**
+
+**This is the last entry this index receives.** The four blocks below it are where the series lives.
+
+| What | Where | Read it for |
+| --- | --- | --- |
+| **WHO IS WHERE AT THE END OF THE BOOK — the series close record** | `state/current.md`, last block | the cold reader's one page: the book in one page, where the two leads stand at day 9,800, and what must not be mistaken for an oversight |
+| **THE SERIES CLOSE — ch 1–1000** | `state/continuity.md`, last block | **the master record.** §1 the re-measurement of every published figure with the method named beside it, and the manuscript-wide table no close had taken · §2 the protagonist check · §3 the opening-contract spot check · §4 the sixteen volumes promised against paid · §5 the final table of chapter range, day range, word count and irreversible step · §6 what the series deliberately never answered · §7 the world at ch 1000 · §8 the repair note and the phase's limits |
+| **THE SERIES CLOSE — ch 1–1000, sixteen volumes** | `state/chapter-summaries.md`, last block | the volume table, one line of spine per volume, and the book's own accounting of what changed that could not have changed before it |
+| **The series close — everything the book chose not to answer** | `state/open-threads.md`, last block | the four silences `outline/ending.md` §6 fixes, fourteen threads raised and never raised again, and the two rulings this run closed |
+
+**Two findings recorded against the manuscript and deliberately not repaired**, both for a human rather than for a later
+phase: **the first consequence in ch 1 closes at about word 892 rather than inside 800**, which `AGENTS.md`'s own word
+*about* allows; and **the manuscript holds thirty chapters under the 1,300-word floor and twenty-seven over the 2,700-word
+guide**, all in Volumes 1, 2, 3, 6, 10 and 14 except the two in Volume 16 that `outline/volume-16.md` names as short on
+purpose.
+
+**Nothing was created after this commit that the chain should run.** No ch 1001, no Volume 17, no `outline/volume-17.md`,
+no second prompt, no `state/phase-ledger.json`, no `.done`, no `.blocked`, no `.retry-after`, no `.retired`, and nothing
+under `scripts/`, `.github/workflows/` or `.opencode/agent/`.

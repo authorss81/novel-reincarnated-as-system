@@ -3608,3 +3608,388 @@ continued by a paragraph that does not reopen the mark occurs 42 times**, from c
 established way of setting a long speech down.** The ch 938 break at 103/105 was wrong for a reason that has nothing
 to do with where the quotation marks are — **the line beneath it is *It did not stop.*** A break in the middle of the
 one sentence in the book that says the speech does not stop, is a break the prose is arguing against.
+
+---
+
+## SERIES CLOSE — the record the run ends on. Written 15 Oct 2026 by the volume close record, phase `volume-16-close`. Nothing follows this block.
+
+**THE BOOK IS FINISHED. `chapters/` holds one thousand chapter files in sixteen volumes, `scripts/completion_guard.py` exits 0
+— `completion-guard: ok, 1000 chapters reaches planned 1000` — and `NOVEL_SPEC.md` and `outline/series.md` fix the length
+at one thousand chapters across sixteen volumes and `outline/ending.md` fixes the last chapter. There is no Volume 17 and
+this phase plans none, which is the correct outcome rather than a shortfall: `PHASE_SYSTEM.md` §The volume close has two
+halves, a close audit and a close record, the audit ran at `next-0015` and recorded itself at `state/continuity.md` under
+***VOLUME 16 CLOSE — The Last Announcement, ch 901–1000, the volume as a whole***, and **this is the second half.**
+
+**This phase wrote no chapter prose, created no next phase, wrote no `.done`, no `.blocked`, no `.retry-after` and no
+`.retired`, and touched nothing under `scripts/`, `.github/workflows/` or `.opencode/agent/`. The correct thing for the
+chain to do after this commit is stop.**
+
+---
+
+## 1 — THE RE-MEASUREMENT. Every published figure re-derived from the chapter files, method named with the number
+
+**Body prose is every line not beginning `#`, counted per file and summed** (`grep -v '^#' <file> | wc -w`). Word-line
+counts are `grep -oi PATTERN chapters/volume-16/*.md | wc -l`, which counts **occurrences and not lines** — the
+difference matters and is the method note at the foot of this section.
+
+**Every figure the Volume 16 close published reproduces exactly. No figure required correction in place, and the repair
+note at §8 is therefore short. The two things this phase adds are a method note and a series-wide measurement.**
+
+### The Volume 16 figures
+
+| Figure | Published | Measured, method named |
+| --- | --- | --- |
+| Files, body prose, average | 100 files · 185,481 · 1,854 | **100 · 185,481 · 1,854.81**, `grep -v '^#' <file> \| wc -w` per file, summed |
+| Batches 0001–0007 | 27,355 · 27,865 · 27,132 · 27,803 · 26,546 · 25,769 · 23,011 | **identical, on chapters 901–915 / 916–930 / 931–945 / 946–960 / 961–975 / 976–988 / 989–1000** |
+| Shortest five | ch 930 at 931 · ch 912 at 1,082 · ch 990 at 1,535 · ch 964 at 1,567 · ch 943 at 1,638 | **identical** |
+| Longest three | ch 1,000 at 2,486 · ch 916 at 2,388 · ch 981 at 2,191 | **identical** |
+| The manuscript | 1,000 files · 1,881,197 words · average 1,881 | **1,000 · 1,881,197 · 1,881.20**, same method over all sixteen directories |
+| Bracketed layer lines | 8, at ch 904 · 910 · 918 · 923 · 930 · 940 · 955 · 971 | **8, at exactly those eight**, `grep -c '^\['` per file |
+| Last bracket in the manuscript | ch 971 | **ch 971**, `grep -rl '^\[' chapters/ \| sort \| tail -1` |
+| `nobody` | 30 of a line of 30 | **30**, `grep -oiw nobody chapters/volume-16/*.md \| wc -l` |
+| `eleven` | 63 raw, 61 against a line of 40 | **63**, `grep -oiw eleven`; of which 2 sit on one line at ch 1000 and are `outline/ending.md` §7's eleven old students of her brother |
+| `eleven` distribution | ch 923 nine · ch 925 eight · ch 956 four | **identical** |
+| `court` | 0 | **0** whole-word |
+| `ledger` | 0 | **0** |
+| `choir` | 0 | **0** |
+| `ascendant` | 2, both the offer, at ch 905 and ch 924 | **2**, `grep -oi ascendant` |
+| `forgiv` | 1, ch 1000 line 123 | **1**, `grep -oi 'forgiv[a-z]*'`, and the hit is `forgiveness` |
+| `thank` | 0 whole-word, 1 on the stem at ch 930 | **0 and 1**; the stem hit is `thanked` at ch 930 line 39 |
+| `the year` | 0 | **0** |
+| `twenty-two days` | 0 | **0** |
+| `scribe` | 6, two of them the name at ch 903 and ch 906 | **6**, `grep -oi scribe` |
+| Paragraphs over 90 words | 8, at ch 901 (118) · 908 (97) · 940 (92) · 941 (92) · 937 (91) · 938 (91) · 945 (91) · 970 (91) | **8, at exactly those eight**, blank-line-delimited block, non-`#` lines joined and split on whitespace |
+| Paragraphs over 120 words | 0 | **0** |
+| `python3 scripts/completion_guard.py` | exit 0 | **exit 0, `completion-guard: ok, 1000 chapters reaches planned 1000`** |
+
+### The manuscript-wide measurements this phase adds, because no close had taken them
+
+| Figure | Measured | Method |
+| --- | --- | --- |
+| Bracketed layer lines, whole manuscript | **78**, in thirteen of the sixteen volumes | `grep -c '^\['` per file over `chapters/*/*.md`, summed |
+| Where they fall | 24 v1 · 5 v2 · 4 v3 · 8 v4 · 3 v5 · 6 v6 · 6 v7 · 2 v8 · 3 v9 · 3 v10 · 3 v11 · **0 v12 · 0 v13 · 0 v14** · 3 v15 · 8 v16 | per-directory count |
+| Chapter titles | **1,000 headings, 1,000 distinct, zero duplicates** | `# ` first line per file, `len(set())` |
+| Shortest chapters, whole manuscript | **ch 31 at 511 · ch 21 at 578 · ch 32 at 604 · ch 20 at 613 · ch 30 at 625** — all Volume 1 | method B, per file |
+| Longest chapters, whole manuscript | **ch 55 at 3,634 · ch 793 at 3,370 · ch 56 at 3,329 · ch 140 at 3,193 · ch 72 at 3,134** | method B, per file |
+| Chapters under the 1,300 floor | **30** — v1 26 · v2 2 · **v16 2** | method B, per volume |
+| Chapters over the 2,700 house guide | **27** — v1 9 · v2 5 · v3 9 · v6 1 · v10 1 · v14 2 | method B, per volume |
+
+**The 2,700-word guide is a guide and not a ceiling, and thirty chapters sit under the 1,300 floor.** Both are recorded
+here rather than left for a future reader to find. **Twenty-eight of the thirty short chapters are Volume 1 and
+Volume 2, and the two that are not are ch 912 at 1,082 and ch 930 at 931 — the two chapters `outline/volume-16.md` §
+Construction budgets names as short on purpose, and which may not be padded back.** Every chapter over the guide is in
+Volumes 1, 2, 3, 6, 10 and 14. **The manuscript's shape is an early book that had not yet found its length and a late one
+that holds it: from Volume 11 forward not one chapter in the whole book is outside 1,300–2,700.**
+
+**A sentence in this block as first written said all fifty-seven were in Volumes 1 to 5 and Volume 14, and that was
+wrong. It is corrected above and the correction is entered in the repair note at §8.**
+
+### Two method notes, because both would mislead a reader who counted differently
+
+1. **Whole word or not.** `eleven` is **63** on `grep -oiw` and **101** on `grep -oi`, the difference being thirty-eight
+   uses of *eleventh* and ten capitalised sentence-starts. `court` is **0** on `grep -oiw` and **1** on `grep -oi`, and
+   the one is *courtyard* at ch 994 line 75. **Every word-line figure in this record is whole-word unless it says
+   otherwise**, because the word lines in this book are about words and not about substrings.
+2. **Occurrences or lines.** `grep -oiw eleven chapters/volume-16/chapter-0923.md | wc -l` is **9**; the line-counting
+   form `grep -ciw` is **8**. Every count in the table above is the occurrence form. This phase checked it, because the
+   difference is exactly the kind that produces a confident wrong number.
+
+---
+
+## 2 — THE PROTAGONIST CHECK, which had never been run against the final volume
+
+**`outline/series.md` §2 names Yuan, male, as the protagonist, and the reader follows the book through Ning Yan's eyes,
+which is a design and not a demotion. `AGENTS.md` requires the lead's escalation to be visible. Neither had been checked
+against Volume 16.**
+
+### What he is on the page, measured
+
+- **`Yuan` appears by name three times in a hundred chapters** — ch 901, ch 907 and ch 931, **all three of them spoken
+  by her, once in the first chapter of the book that he acts in, once in the chapter where she uses his name to get him
+  to repeat himself, and once at the top of the apology.** (`grep -oiw yuan chapters/volume-16/*.md | wc -l` = 3.)
+  **He is not named because he is `he`.**
+- **He speaks in every one of the forty-five chapters from ch 901 to ch 945.** Batch records carry *He speaks in all
+  fifteen* for Batches 0001, 0002 and 0003, and this phase confirmed the underlying fact on the page rather than taking
+  it from the record: in ch 944 he is still making decisions in the present tense, and **the last line he says anywhere
+  in the manuscript is in ch 945**, mid-dissolution.
+- **From ch 946 to ch 1000 he is in no chapter in any form.** This is not a figure read off a state file. **Fifty-five
+  chapters were read against one definition** — appearing means he speaks, or his point of view is narrated, or a
+  character on the page addresses him as a present interlocutor, or an action of his is narrated — and **the count of
+  chapters in which he appears is zero of fifty-five, and the last chapter in which he speaks in the fifty-five is
+  none.** Every speech attribution in the fifty-five resolves to Ning Yan, Ning Wu, He Yu, Dai Yu, Guo Sheng, Bao Ren,
+  Kan Shou, Han Liang, Du Wen, a carter, a villager or a boy with a yoke. The near-misses were read and are not him: the
+  absence she keeps testing, her brother's living voice in the yard, a dead writer's hand, the Broken Kiln plate, and the
+  shape of the silence.
+
+**So the honest answer is that the final volume is not a volume in which he is a decorative voice, and the reason it
+does not read as one is that his absence is the event.** A man who comments for forty-five chapters and is then gone for
+fifty-five is not a decoration. A decoration would have been a voice in her head in ch 990.
+
+### What the final volume did to him, plainly
+
+**He stopped being a tool that is aware and became a person who decided, which is `outline/series.md` §2's final change,
+and he paid for the deciding in the only currency the book has ever charged him in: other people's futures, including
+hers.**
+
+- **Ch 901–912 — he asks.** One line, no figure attached: *I want it. I have wanted it since I was nineteen.* Then
+  **four minutes in which he accepts the bargain**, in the channel where the thing that made him reads, **and a yes said
+  there cannot be un-said.**
+- **Ch 916–930 — he finds the term he cannot live inside, and it is not glory.** The Foundation tax is the recruitment,
+  eleven women went through the machine before her, **and the tax was his design before he had a name.** At ch 930 he
+  refuses out loud in front of the intelligence, **dissolves into the substrate, and gets to be an entry and not a
+  person.** The layer does not argue, does not retaliate, and does not acknowledge the refusal.
+- **Ch 931–944 — he apologises.** Three attempts, the first two entries and caught, **no number attached to any of it,
+  in the present tense**, over three hours, and **it is not very good and nobody on the page calls it good.** `forgiv` is
+  **0 across all fourteen chapters** of that run: she does not forgive him in it and does not let him finish it for her.
+- **Ch 945 — he stops being a thing that can apologise**, mid-sentence, and she hears nothing after it. **That is the
+  point at which `AGENTS.md`'s escalation ladder is complete.** He began the book *investigating* what he is inside a
+  bodyless system, spent Volumes 3 to 8 *manipulating* and *breaking* it, spent Volumes 9 to 14 being found by it, and
+  ends by *choosing what he personally pays and refusing the bargain*.
+- **What it cost him, measured:** his unentered state and the date of the morning he died went at ch 272 and never came
+  back; his ability to be anywhere but inside her went at ch 866 and never came back; and at ch 930 the thing he had
+  wanted since he was nineteen went, **on purpose, in the open, at the cost of being a person.**
+- **What is left of him on the final page: no figure.** Not one number anywhere states what remains. The book says so
+  once and refuses to say it again, and at ch 1000 she names the shape of what she is left with **exactly once, in her
+  own mouth, unexplained**: *The shape of what I wait for is a man standing in a doorway with his hands empty, waiting
+  to be let in.* **A scan of ch 976–988 returns eight uses of the word *shape* and not one of them is the silence, and
+  no chapter before ch 1000 characterises it.**
+
+**One thing this check did not establish and is not claimed: it did not test whether he could carry a volume on his own.
+He cannot and was never asked to. He is a voice with no body, and the book's answer to that was written in Volume 14 and
+paid in this one.**
+
+---
+
+## 3 — THE OPENING CONTRACT, spot-checked once and not repaired
+
+**`AGENTS.md` requires, in Chapter 1 and before roughly eight hundred words, a concrete objective, an anomaly, and a
+consequence; and requires the central mechanic and its cost to be demonstrated by an event by the end of Chapter 3.
+Volumes 1 to 3 are closed and audited, this is the close record and not a re-plan, and nothing below was repaired. Where
+something does not hold it is recorded as a finding for a human.**
+
+Measured by counting body-prose words into `chapters/volume-01/chapter-0001.md` paragraph by paragraph.
+
+| Requirement | Where it lands | Holds |
+| --- | --- | --- |
+| A concrete immediate objective, with a deadline | **word 181**, third paragraph: *The bell would ring at dawn. If her token came up whole, the run counted her as a person. If it came up short, the Elder Hall could substitute her for one of the losses.* Four hands short, three hours to the quota bell. | **yes, and comfortably** |
+| Something impossible she can see and cannot explain | **word 431**: *Then a voice spoke inside her head, clear as a finger pressed to the inside of her skull.* It counts her breaths, knows her name, and knows Ning Wu, and she tests it in the open yard rather than believing it | **yes** |
+| A consequence that follows from what she does about it | **word 683** she says *Ning Wu* aloud before she means to; by **word 792** Shen Xiu asks *What did you say?*; by **word 824** she has lied to him. The consequence of her **choice** — walking out toward the run rather than toward the infirmary lamp — is the chapter's last two paragraphs, at words 1,795 and 1,807 | **yes, with a note** |
+
+**The note, stated rather than smoothed over.** **Two of the three land well inside the line and the third begins inside
+it and closes about ninety words past it.** The consequence chain runs 683 → 892. `AGENTS.md` says *by about the first
+eight hundred words*, and 890 is about 800, so the contract holds on its own terms. **A stricter reading — that the
+consequence of her decision, not only of the anomaly, must be inside 800 — is not met, and the consequence of the
+decision is the closing beat of the chapter at 1,795.** **Recorded as a finding. Not repaired, and not to be repaired in
+this phase.**
+
+**The mechanic and its cost, by the end of ch 3: demonstrated, twice, as events and not as exposition.**
+
+- **Ch 2, at the Ashjaw**, is the demonstration of the mechanic. *You accept. I hold the door. You do the work.* Nine
+  steps of a technique learned off the back page of a laundry manual cross twenty paces of grey snow without sound and
+  the jaw comes off the hinge. **And the cost is already named on the last page of the chapter, in her own understanding
+  and not in his: *something had to have been taken to pay for that warmth in her legs.*** The reader is shown the taking
+  before the reader is told what is taken.
+- **Ch 3 is the demonstration of the cost.** Her arm is in two pieces, a boy's blade is a finger's width from her
+  throat, he spends the last of what he holds, and **the machine takes the four months she spent at dawn on the terrace
+  edge learning the Nine-Step** — *Cold went in through the floor of her chest and found the stored place… and it did not
+  fight for it. It simply took it out of her.* She goes from stage nine to stage four and **the technique is gone and
+  cannot be relearned, because there is nothing left to relearn from.** `outline/ending.md` §8 names those four months as
+  a debt to be called in at ch 1000, **and ch 1000 calls it in: *a loss. It is not going to be recovered*, not forgiven,
+  and she says she has said it out loud exactly twice in nineteen years.**
+
+**The contract is met on the mechanic and the cost without qualification. The only softness in the first three chapters
+is where the first consequence closes.**
+
+---
+
+## 4 — SIXTEEN VOLUMES: WHAT EACH PROMISED AGAINST WHAT IT PAID
+
+Every goal below is `outline/series.md` §9 verbatim. **Every one of the sixteen was paid on the page.** The right-hand
+column is measured, not remembered, and the two columns are set against each other because a volume that promised one
+thing and paid another is the failure mode this book is most exposed to.
+
+| Vol | Promised | Paid on the page, at |
+| --- | --- | --- |
+| 1 | survive her first ascension, or Yuan loses his only Chosen One and dies again | **ch 88**, she signs the ceiling on herself at Condensing 5 — Foundation barred without relicensing, one stage gone for good, and the reader knows the voice in her head is the reason she is visible at all |
+| 2 | earn the document that lets her advance at all | **ch 104**, she suppresses stage four so it reaches no county book, and buys a burial morning with a hole in the chain of the filing |
+| 3 | survive being hunted as an unauthorised System | **ch 171**, Condensing nine announced at her own order under a ceiling written in her own hand, and the announced column reads 1, 2, 3, 5, 6, 7, 9 — three holes written into the books of four counties out of nine and read out across all nine |
+| 4 | break the boundary, or neither of them ever learns what they are | **ch 238**, *A Name In A Book* — she is across, in a wage-book on a trestle, with the right index finger gone permanently at the blind run |
+| 5 | finish the world they came from | **ch 298**, the season closes and the next pay-day produces nothing, and the Lowwater date is torn off by another man's hand |
+| 6 | survive what is on the other side | **ch 360**, Nascent Soul 1 taken by hand and not announced, with the Hand refused once at ch 355 and the sending refused and entered at ch 358 |
+| 7 | survive being the weakest person in every room | **ch 417**, a man whose job it is offers to read the fine hand to her once and she refuses in six words — **a denial is an entry**, so she goes on not knowing, on purpose, forever |
+| 8 | refuse the Order, or become exactly the tool Yuan hated | **ch 474**, she refuses the Order on the record in daylight, reads the sheet to the room first, and a man of sixty-one writes one line and the date |
+| 9 | survive Shuyin, or the walls stay and the reason for them goes unrecorded | **ch 535**, she writes his rule down in her own hand; and at **ch 518** she tells a man of nine hundred years to open the wall and **he is left on the wrong side permanently, and it is him** |
+| 10 | find her brother before the Warden's list closes for good | **ch 598**, she finds Ning Wu alive, in person, in her hearing, **once** — and he is not thanked, and nobody tells him his carry ended |
+| 11 | learn what Yuan was before he died | **ch 609**, she asks him out loud, alone, in the dark, and it cannot be un-asked; the answer at ch 644 is that the Foundation tax was **designed, on purpose**, by the intelligence he is a stray fragment of |
+| 12 | ascend at all | **ch 716**, Immortal Vessel 3, and at **ch 674** her name and her days go into a column on the turn's board after eleven volumes off every board in the world |
+| 13 | survive being small in a world of enormous people | **ch 763**, she writes her own figure under the room's in her own hand, and a row with two figures in it is a row that gets counted |
+| 14 | refuse the thing Yuan was offered and refused | **ch 838**, she sends the refusal down the stair in her own hand, and the first thing she has ever sent cannot be called back |
+| 15 | reach it, or the argument is never had | **ch 885**, six hundred and forty thousand said out loud standing at the ninth hour where the keeper reads — first in her own voice, ungettable back — and the bargain is on the table at ch 900, unanswered |
+| 16 | choose what Yuan is, or the system outlasts them both | **ch 975**, eight words: *Never chosen. I was told. There is a difference.* — and the fall begins, and cannot be stopped, and nobody dies |
+
+**The escalation across the sixteen is visible in one line: the thing that costs her gets bigger and the things that
+cannot be undone get fewer.** Volume 1 costs her a stage. Volume 5 costs her an arm and a season. Volume 8 costs her the
+one institution that would have fed her. Volume 12 costs her the right not to be counted. Volume 16 costs the world its
+ceiling. **No volume repeated another volume's shape: fifteen of the sixteen pressures are distinct and the sixteenth is
+the one thing none of the others could do, which is to remove the ceiling without killing anybody.**
+
+---
+
+## 5 — THE FINAL TABLE. Read off the chapter files, not off the outlines
+
+**Chapter ranges and word counts are measured per file. Day ranges are the recorded volume figures and are marked where
+the numbered calendar is not on the page, because a table that silently supplies a number the chapters do not carry is
+the exact fault this run spent sixteen volumes refusing to commit.**
+
+| Vol | Title | Chapters | Files | Body prose | Avg | Days | The irreversible step the volume is remembered for |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | A Voice in the Dark | 1–58 | 58 | 95,591 | 1,648 | **no numbered calendar on the page** | ch 88 — the ceiling signed on herself; Foundation barred without relicensing |
+| 2 | The Chosen One | 59–118 | 60 | 110,418 | 1,840 | **no numbered calendar** | ch 104 — stage four suppressed so it reaches no county book |
+| 3 | The Hunter | 119–178 | 60 | 135,014 | 2,250 | **no numbered calendar** | ch 171 — Condensing nine announced under a ceiling written in her own hand, with three holes in the column |
+| 4 | The Wall | 179–238 | 60 | 120,572 | 2,010 | closes at **day 470** | the right index finger, gone at the blind run and never named again |
+| 5 | Mortal Ash | 239–298 | 60 | 101,266 | 1,688 | **471–620** | ch 294 — the claim answered in ink and the Lowwater date torn off |
+| 6 | The Real Realm | 299–360 | 62 | 95,113 | 1,534 | **621–848** | ch 358 — the sending refused, entered, and standing |
+| 7 | Stronger Things | 361–420 | 60 | 115,464 | 1,924 | **849–1,090** | ch 417 — the refusal, and a denial is an entry |
+| 8 | Recruited | 421–478 | 58 | 105,846 | 1,825 | **1,091–1,340** | ch 474 — the Order refused on the record, read back before it went in |
+| 9 | The Warden | 479–538 | 60 | 113,811 | 1,897 | **1,341–1,598** | ch 518 — *Open it*, and he is left on the wrong side permanently |
+| 10 | The List | 539–600 | 62 | 115,619 | 1,865 | **1,599–1,830** | ch 598 — she finds her brother alive, once, and nobody tells him anything |
+| 11 | What He Was | 601–660 | 60 | 118,748 | 1,979 | **1,831–2,060** | ch 609 — she asks him what he was, and it cannot be un-asked |
+| 12 | The Road Up | 661–720 | 60 | 116,766 | 1,946 | **2,061–2,300** | ch 674 — her name and her days into a column on the turn's board |
+| 13 | The Immortal Court | 721–780 | 60 | 118,951 | 1,983 | **2,301–2,540** | ch 763 — her own figure written under the room's in her own hand |
+| 14 | The Scribe's Apprentice | 781–840 | 60 | 121,530 | 2,026 | **2,541–2,780** | ch 838 — the first thing she ever sends cannot be called back |
+| 15 | The Scribe | 841–900 | 60 | 111,007 | 1,850 | **2,781–2,960** | ch 894 — the peak, and Lu An bound, said out loud first |
+| 16 | The Last Announcement | 901–1000 | 100 | 185,481 | 1,855 | **2,961–9,800** | ch 930 — the refusal, the dissolving, and the entry he gets to be |
+| | **The book** | **1–1000** | **1,000** | **1,881,197** | **1,881** | **the last nineteen years are the last third of the calendar** | **ch 1000 — she forgives him, it is housekeeping, and she goes back to teaching** |
+
+**Two things the table shows that a reader of the outlines would not.**
+
+1. **The calendar is not linear and the book knows it.** ch 900 is day 2,960. **ch 1000 is day 9,800.** Nineteen years
+   of twelve months of thirty pass in the final hundred chapters, and **the fall itself is nine days.** The reader who
+   reads Volume 16 as a hundred chapters of continuous action is reading the wrong thing: **fifty-five of its hundred
+   chapters are the rest of a life.**
+2. **The numbered calendar reaches the page late.** Measured: `grep -rl 'month beginning' chapters/volume-NN/*.md`
+   returns **zero files in Volumes 1 through 6**, eighteen in Volume 7, three each in Volumes 8 and 9, **and 61 of 62,
+   60 of 60, 60 of 60, 60 of 60, 51 of 60 and 83 of 100 in Volumes 10 through 16**. **The early volumes count days as
+   elapsed intervals and month ordinals, and the numbered scale the later volumes do their arithmetic on is a
+   state-file construction that the prose adopts at Volume 7 and takes for granted from Volume 10.**
+
+---
+
+## 6 — WHAT THE SERIES DELIBERATELY NEVER ANSWERED
+
+**Gathered here in one place, because the failure this record exists to prevent is a reader of the state files mistaking
+a thread the book chose to leave open for a thread somebody dropped.** `outline/series.md` §3 fixes four;
+`outline/ending.md` §6 fixes the same four; `state/open-threads.md` carries the run's full register and nothing here
+supersedes it.
+
+**The four the ending outline fixes, all open on the final page and all to stay open:**
+
+1. **Whether the Scribe was sincere.** It offers the bargain in good faith, every term of it real, and it is also the
+   reason the walls exist. **She names it twice in her own mouth (ch 903, ch 906) and it refuses to sign and has never
+   given one word back out of itself.** The manuscript does not adjudicate and must not.
+2. **What happens to the Anchor once it is released.** The window at the west end of the yard at ch 1000, and a sky with
+   nothing written on it. **Nothing more is said about it.**
+3. **Whether anything answers from beyond.** Nothing does. **The book does not promise that nothing ever will.**
+4. **Whether Ning Yan could have refused the fall and kept a bounded world.** She could not, and she is the one who
+   decided, **and that is why the ending is hers and not his.**
+
+**Carried from fifteen volumes and raised nowhere in ch 901–1000, gathered so that nothing is mistaken for a lost end:**
+
+- **The day she found the second place**, three anchors disagreeing.
+- **The gap in the wear**, two fingers wide, no edges, found at ch 820.
+- **Whether the fair hand and the third hand are the same hand** — she decided at ch 823 not to work it out, and Feng's
+  handwriting becoming the founding document does not answer it.
+- **The bundle under the far end of that table**, two turns not a knot, five arms into it, never pulled — **and the last
+  one carried up nine hundred and four steps by the man who carried them, on time, and never told.**
+- **The eleven** — never raised except at ch 1000, where the word is spent twice on the last page and means her
+  brother's old students.
+- **MEMBER ABSENT**, not raised.
+- **What became of the six hundred and forty thousand**, said once, at ch 885.
+- **Lu An** — bound at ch 894, said out loud first, told nothing, twice on the page, never told.
+- **Han Liang** — one chapter, and nobody ever tells him his carry ended.
+- **The second place** — kept four hundred years and empty and refused twice, left behind in a building in a mountain.
+- **The fourth child of the Ning household**, never named.
+- **Whether Shuyin's own name is on his list.**
+- **Whether Ning Wu forgives her.** Refused, and refused on purpose: **`forgiv` is 1 in the whole final volume, at ch 1000,
+  and it is hers.**
+
+**And one thing that is not a mystery but an arithmetic the book refuses to close:** **the small open place low behind
+her fourth rib, gone since day 3,163, which nothing in nineteen years explained and which ch 1000 does not explain.**
+**She says out loud that there is no sixth figure and has not been for eighteen years, and she does not invent one.**
+
+---
+
+## 7 — THE WORLD AT CHAPTER 1000, in the terms a cold reader needs
+
+**Day 9,800. The seventh of the month beginning nine thousand six hundred and twenty-four, late in the afternoon, in a
+courtyard above Lowwater.** No announcement layer. No walls, because the walls were made of announcements. No bound
+realm, in any of nine counties, at once, over nine days, and nobody killed. Cultivators are exactly as strong as their own
+practice and exactly as mortal, and **nothing is left to write down what happened to them with**, which is the last
+sentence of the world and not the last sentence of the book.
+
+**She is thirty-eight. Three fingers and a thumb.** Her right arm has been open at the elbow for seven thousand five
+hundred and six days and will not close in any of the time she has left. Seven of eleven holds are gone. **The small
+open place behind her fourth rib is still gone and is not explained.** She is at the peak of Immortal Vessel, shut, with
+no tenth and no Last Ascension, and **she cannot ascend, because there is nowhere to ascend to any more.** What she is
+for, said out loud and then said every morning at the ninth hour: *I am the one who teaches here.* **It is the
+answerable one, with no office above the yard and nothing in the world that can take it off her.**
+
+**Four hundred and one students, and four hundred on the record, and she can reach neither.** Twenty-two names on one
+leaf of a book of eight leaves, two leaves still blank. **The first leaf is Feng Lushi's last fair handwriting, and a boy
+of about ten copies its third line into a slate every morning because it is the first thing anybody comes to.** He is
+named in the chapter. He is not in it.
+
+**Her brother comes over the far wall every third day and teaches a technique he learned on the far side of a wall she
+broke.** They do not make up. They work a wall together and it is enough. `forgiv` is **0** for him across the whole
+final volume.
+
+**There is a calendar that changed hands and is available to nobody including her.** There is a lamp in the building she
+left, and it is dead, and she cannot refill it. **There is a table with a bar against the left-hand wall and a bundle
+under the far end of it and a worn place still addressed to somebody who is not here, and all three are in a building in
+a mountain that is not on the page again.**
+
+**And a silence with a shape.** She waits for the sound in her head and there has been no sound for years. It is not
+silence exactly. It is warm on one side. **She names it once, at ch 1000, and does not explain it, and then she goes
+back to teaching.**
+
+---
+
+## 8 — THE REPAIR NOTE, and the phase's own limits
+
+**No figure published by the Volume 16 close failed to reproduce, and no state-file line outside this block was corrected
+in place.** The re-measurement in §1 was run specifically to find one and did not. What it did produce is two method notes
+(whole word against substring; occurrences against lines), the manuscript-wide table no close had ever taken, and **two
+corrections to this block's own first draft.**
+
+**The two corrections, entered here rather than tidied away.**
+
+1. **A sentence claimed all fifty-seven of the manuscript's out-of-band chapters — thirty under the 1,300 floor and
+   twenty-seven over the 2,700 guide — sat in Volumes 1 to 5 and Volume 14. Measured per volume it is twenty-six in
+   Volume 1, two in Volume 2, **two in Volume 16**, and over the guide nine in Volume 1, five in Volume 2, nine in
+   Volume 3, one in Volume 6, one in Volume 10 and two in Volume 14.** The claim was wrong on both halves: it put
+   Volume 16 outside the list when Volume 16 holds the book's two deliberate short chapters, and it put Volume 6 and
+   Volume 10 outside the long list when each holds one chapter over the guide. **Corrected in place in §1.**
+2. **Volume 3's payoff chapter was written as ch 149 and is ch 171.** `grep -n '^\[' chapters/volume-03/*.md` returns
+   four bracketed layer lines in that volume, at ch 135, 140, 148 and **171**, and the fourth reads *What is carried
+   past the seventh is let go. Condensing, stage nine* — which is the announcement at her own order under a ceiling
+   written in her own hand. **Corrected in place in §4 and §5.**
+
+**A third thing this phase checked and did not change:** the Volume 16 close's `eleven` distribution — *ch 923 nine, ch
+925 eight, ch 956 four* — is **right**, and is right only because it counted occurrences. `grep -ciw eleven` on ch 923
+gives **8 lines** and `grep -oiw eleven | wc -l` gives **9 uses**, because two of that chapter's uses share a line.
+
+**The one finding this phase records against the manuscript and does not repair** is in §3: **in ch 1 the first
+consequence of the anomaly runs from word 683 and closes at about word 892, so a strict reading of `AGENTS.md`'s
+eight-hundred-word line is missed by roughly ninety words**, while the consequence of her *decision* is the chapter's
+closing beat at 1,795. **The contract holds on the word *about*. The finding is written down for a human and stops
+there.**
+
+**What this phase did not touch.** No chapter prose, anywhere. No chapter number, day, batch boundary, midpoint, climax,
+bracket or irreversible step. No title. `outline/ending.md` is untouched and was not rewritten by any phase of this run.
+No coda, no epilogue, no author's note in the fiction, no Volume 17, no `outline/volume-17.md`, no second prompt, no
+`state/phase-ledger.json`, no `.done`, no `.blocked`, no `.retry-after`, no `.retired`, and nothing under `scripts/`,
+`.github/workflows/` or `.opencode/agent/`.
+
+**The two state files that carry the Volume 16 half of this — `state/current.md` and `state/chapter-summaries.md` — were
+left standing as written and the series half was built on top of them.** `state/open-threads.md` carries the series
+register at the end of this run. **`state/INDEX.md` carries the pointer.** **The book is down.**

@@ -4584,3 +4584,89 @@ whole final volume and it is hers and not his.**
   ch 924**, and both are the offer — her reading the fifth thing out of the register, and the same first term said
   back out of her own memory standing. **The rule held; only the window was wrong, and it is corrected in place under
   the outline's own repairs heading as item 9.**
+
+---
+
+## The series close, 15 Oct 2026, phase `volume-16-close` — everything the book chose not to answer
+
+**The book is finished. 1,000 chapters, sixteen volumes, the planned ending, and `scripts/completion_guard.py` exits 0.**
+This block exists so that no reader of this file mistakes an open thread for a dropped one, and so that the last act of
+the run is a record and not an omission. **Nothing in this list is an oversight, a dropped plotline, or a promise the
+manuscript failed to keep. Every item below was raised on the page and left raised on purpose, or was fixed as open by
+`outline/ending.md` §6, or is a question the prose declines to convert into a fact.** Full record at
+`state/continuity.md` under ***SERIES CLOSE***, §6.
+
+### FIXED AS OPEN BY THE ENDING OUTLINE — four, and the manuscript must not adjudicate any of them
+
+1. **Whether the Scribe was sincere.** It offers the bargain in good faith and every term of it is real, and it is also
+   the reason the walls exist. **She names it twice in her own mouth, at ch 903 and ch 906, and it refuses to sign and
+   has never given one word back out of itself.** The argument the series ends on is not walls-good or walls-bad. **It is
+   who pays, and whether the payer is told.**
+2. **What happens to the Anchor once it is released.** The window at the west end of the yard at ch 1000, and a sky with
+   nothing written on it. **Nothing more is said about it and nothing should be.**
+3. **Whether anything answers from beyond.** Nothing does. **The book does not promise that nothing ever will.**
+4. **Whether Ning Yan could have refused the fall and kept a bounded world.** She could not, and she is the one who
+   decided, **and that is precisely why the ending is hers and not his.**
+
+### RAISED ON THE PAGE AND NEVER RAISED AGAIN
+
+- **The day she found the second place**, three anchors disagreeing.
+- **The gap in the wear**, two fingers wide, no edges, found at ch 820, and told to nobody.
+- **Whether the fair hand and the third hand are the same hand.** She decided at ch 823 not to work it out, and Feng's
+  handwriting becoming the founding document does not answer it.
+- **The bundle under the far end of that table** — two turns and not a knot, five arms into it, never pulled — **and the
+  last one carried up nine hundred and four steps by the man who carried them, on time, and never told it was the last.**
+  The last bracketed line in the manuscript, at ch 971, is about that bundle and the walls and nothing else.
+- **The eleven.** Never raised except at ch 1000, where the word is spent twice on the last page and means her brother's
+  old students, not the eleven Chosen Ones before her.
+- **MEMBER ABSENT.** Not raised.
+- **What became of the six hundred and forty thousand.** Said once, at ch 885, standing, in nine mouths.
+- **Lu An.** Bound at ch 894, said out loud first, told nothing, twice on the page, never told.
+- **Han Liang.** One chapter, and nobody ever tells him his carry ended.
+- **The second place.** Kept four hundred years, empty, refused twice, and left behind in a building in a mountain.
+- **The fourth child of the Ning household.** Never named.
+- **Whether Shuyin's own name is on his list.**
+- **Whether Ning Wu forgives her.** **Refused, and refused on purpose: `forgiv` is 1 across the whole final volume, at
+  ch 1000, and it is hers and not his. They do not make up. They work a wall together and it is enough.**
+
+### NOT A MYSTERY BUT AN ARITHMETIC THE BOOK REFUSES TO CLOSE
+
+- **The small open place low behind her fourth rib**, gone since day 3,163, which nothing in nineteen years explained
+  and which ch 1000 does not explain. **She says out loud that there is no sixth figure and has not been for eighteen
+  years, and she does not invent one.**
+- **The four hundred and one.** Four hundred and one in nine mouths, four hundred on the record, and she can reach
+  neither. **At ch 993 she says *four hundred* out loud in a village in the seventh county and does not correct the
+  woman beside her.**
+
+### CLOSED IN THIS RUN, and recorded here so it is not re-opened
+
+- **THE HANDS.** The right hand carries **three fingers and a thumb**. `four fingers and a thumb` is a miscount of an
+  index finger lost at ch 235 — 219 uses across Volumes 4 to 13, **none in Volume 16, which has 38 of the correct
+  phrase** — and it is **not** swept on the page in closed volumes, because about a dozen of the 219 correctly describe
+  her **left** hand, which has all five with the heel gone from the second finger. **The ruling applies forward.** Full
+  record in the block above this one.
+- **`eleven` is 63 raw across ch 901–1000 and 61 against a line of 40, over by twenty-one**, and the overage is
+  **recorded beside the number and not repaired**, because removing twenty-one ordinary durations out of a closed hundred
+  chapters to buy a stylistic line spends real prose for a cosmetic number.
+- **The numbered calendar does not exist on the page before Volume 7.** Measured: `grep -rl 'month beginning'` returns
+  zero files in Volumes 1 through 6, eighteen in Volume 7, three each in Volumes 8 and 9, and effectively every file
+  from Volume 10 on. **Where a table gives a day range for Volumes 1 to 4, the figure is the state record's and not the
+  chapter's.**
+
+### WHAT THIS PHASE ADDED TO THIS FILE'S REGISTER
+
+**The two checks the run never ran against the last volume, both now on the record:**
+
+- **The protagonist.** `outline/series.md` §2 names Yuan, male. **He speaks in all forty-five chapters from ch 901 to
+  ch 945 and appears in zero of the fifty-five chapters from ch 946 to ch 1000**, read against one definition by one pass
+  over all fifty-five files. **He was never a decorative voice in the final volume; his absence is the event**, and
+  `state/continuity.md` §2 says in full what the volume did to him and what it cost.
+- **The opening contract.** `AGENTS.md` requires objective, anomaly and consequence inside roughly the first eight
+  hundred words of ch 1, and the central mechanic and its cost demonstrated by an event by the end of ch 3.
+  **Objective lands at word 181, the anomaly at word 431, the first consequence runs 683 to about 892 — ninety words past
+  the line, and the contract holds on the word *about* — and the mechanic and its cost are demonstrated as events at
+  ch 2 and ch 3 without qualification.** **The finding is recorded in `state/continuity.md` §3 and is not repaired, because
+  Volumes 1 to 3 are closed and audited and this is the close record and not a re-plan.**
+
+**No thread in this file is open because a phase ran out of room. Every one of them is open because the book decided it
+should be. The run is over.**
