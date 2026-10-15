@@ -4,7 +4,7 @@ She had been listening for what came after it for four days and it did not come.
 
 The apology had stopped at about the ninth hour and a hundred of the fourth of the month beginning three thousand and seventy-four without a last word, the way it had stopped three times before it.
 
-She had spent the fifth and the sixth and the seventh standing at the near end of her own table waiting for whatever a man says when he has finished saying the whole of what he did, and nothing had come out of the wall.
+She had spent the fifth and the sixth and the seventh standing at her own table waiting for whatever a man says when he has finished saying the whole of what he did, and nothing had come out of the wall.
 
 She had gone on putting her figures in at the ninth hour on all three of those days, because the ninth hour was hers and she was not going to hand it over.
 
@@ -34,7 +34,7 @@ He said it in a count of about two hundred and she listened to every word of it 
 
 “No,” she said. “It did matter.”
 
-He was quiet for about a count of forty and when he came back it came from a long way off, the way things came on the seventh of the month when a sentence got to the end of the layer.
+The wall held for about a count of forty and when he came back it came from a long way off, the way things came on the seventh of the month when a sentence got to the end of the layer.
 
 “I am going to say one more thing and then I am going, and I am going to stop in the middle of it, and that is not something I am doing to you. There is no way to do this with an end on it. A line does not have a last word. I asked you for that on the twenty-seventh of the month before last and you moved a lamp a little to the left.”
 
@@ -50,7 +50,7 @@ He stopped the way a man stops when there is not any more of him to go on with, 
 
 She stood at the near end of her own table with her hands flat on the worn wood.
 
-One moment there had been a voice in her head that had been there since she was ten years old and had gone down into the substrate of a layer nine hundred years old thirty-seven days earlier, to be heard by the thing that made him. And then there was not one, and the room was a room, and a lamp was burning on a stone floor a little to the left of where it had stood since the second hour of the twenty-seventh of the month before last.
+One moment there had been a voice in her head that had been there since she was ten years old and had gone down into the substrate of a layer nine hundred years old forty-one days earlier, to be heard by the thing that made him. And then there was not one, and the room was a room, and a lamp was burning on a stone floor a little to the left of where it had stood since the second hour of the twenty-seventh of the month before last.
 
 She said his name into the room.
 
@@ -76,7 +76,7 @@ She did not go up the stair. She stood at the foot of it and looked into the dar
 
 She said her figures out loud at the ninth hour on the eighth of the month beginning three thousand and seventy-four.
 
-Three hundred and forty-nine days since the ninth stage. One hundred and forty-two since it was shut. Seven hundred and eighty-seven days with this arm open at the elbow. Seven hundred and eighty days in this room. One thousand five hundred and twenty days gone at this morning, taken out of her at a rate she derived out of her own life, not one of them coming back.
+Three hundred and forty-nine days since the ninth stage. One hundred and forty-two since it was shut. Seven hundred and eighty-seven days with this arm open at the elbow. Seven hundred and eighty days in this room. One thousand five hundred and twenty days gone at the sixth of this month and two days since, taken out of her at a rate she derived out of her own life, not one of them coming back.
 
 She said them standing, in the ordinary voice, into the dark past the last landing, first in her own voice before it was a line anywhere, because that was the rule and because the rule was hers and she was not going to let it lapse on the morning there was nobody to lapse it for.
 

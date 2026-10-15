@@ -78,7 +78,7 @@ She stood there and let it go, and she thought, for no reason she could have nam
 
 ## What Came Back At Nine
 
-At the ninth hour she stood up off the stone and stood at the near end of her own table and said the day’s figures out loud in the ordinary voice, in the order she had been saying them in since she was ten years old.
+At the ninth hour she stood up off the stone and went to her own table and said the day’s figures out loud in the ordinary voice, in the order she had been saying them in since she was ten years old.
 
 She said them all.
 

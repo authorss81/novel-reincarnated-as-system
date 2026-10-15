@@ -32,7 +32,7 @@ She put her hands flat on the wood.
 
 ## The One He Explained
 
-The sixth cut is that a thing is said in the voice of the person it is about, standing, before it is a line anywhere. She had put it on him on the twenty-eighth and she had put it on herself on the sixteenth and it had not been broken once in nineteen years.
+The sixth cut was the only one of the six she had ever been able to turn on him, and she had kept it the way she kept the count, and she had never once wanted it.
 
 “This is about me,” she said. “Everything you are about to say is about me. A woman in a furnace crew heard a voice and she was a child and she did not run, and if you explain that to me in a room then you have written me a report about myself and it is the same grammar and you know it is.”
 
@@ -42,7 +42,7 @@ The sixth cut is that a thing is said in the voice of the person it is about, st
 
 He said it badly.
 
-He said it for the better part of two hours and it was the worst hour of the three attempts, and she stood at the near end of her own table and listened to a man in a wall explain a girl of ten in a furnace crew to that same girl, and every single thing he said was true, and she could check none of it, and every single thing he said was about himself.
+He said it for the better part of two hours and it was the worst hour of the three attempts, and she stood where she had been standing for two hours and listened to a man in a wall explain a girl of ten in a furnace crew to that same girl, and every single thing he said was true, and she could check none of it, and every single thing he said was about himself.
 
 She did not stop him once. That was hers and she had decided it at the fifth hour and she kept to it.
 
@@ -108,4 +108,4 @@ She stood there.
 
 He said nothing.
 
-She took a breath of four and let it out and put her hand on the table where her own arms had worn the wood down over nineteen years, and the day went out of the room and it was the thirtieth of a month, and tomorrow there would be a bundle on nine hundred and four steps and nothing at all in the room at the top of them.
+She put her hand on the table where her own arms had worn the wood down over nineteen years and left it there, and the day went out of the room, and it was the thirtieth of a month, and tomorrow there would be a bundle on nine hundred and four steps and nothing at all in the room at the top of them.

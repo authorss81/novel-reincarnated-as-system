@@ -6,7 +6,7 @@ She said it standing at the near end of her own table at about the sixth hour on
 
 “What do you want to say to me,” she said.
 
-He was quiet for about a count of forty.
+He did not answer for about a count of forty.
 
 “I have been able to say that to myself for nine years in about a count of two and it has taken me nineteen days to not be able to say it at all.”
 
@@ -50,7 +50,7 @@ He was quiet for about a count of two hundred.
 
 “There is a list,” he said.
 
-She stood very still at the near end of her own table.
+She stood very still.
 
 “I wrote it out the way I write anything, which is as a list with a place for each one, and I know every line of it and I can say any line of it in about a count of forty, and I have had it since the eighth of this month and I have not used a word of it.”
 
@@ -98,9 +98,9 @@ She was not going to be the ear. She was going to be the room.
 
 She spent the whole of the afternoon of the sixteenth of the month beginning three thousand and forty-four in that room.
 
-She took the near board up and read it and put it back face up a foot in from the near end. She took the terms board up and read that and put it back a foot further along.
+She did the boards. Both of them, and the strip of pale wood under the table at the near end of the leg, which she touched with the side of a finger on the way past and did not look at.
 
-She went the length of the table with her hand along the wood and she put her hand flat on the bar against the left-hand wall and took none of her weight on it, and she did not go and stand four feet off the place at the far side, though she thought about it twice.
+She put her hand flat on the bar against the left-hand wall and took none of her weight on it, and she did not go and stand four feet off the place at the far side, though she thought about it twice.
 
 And about the eighth hour she sat down on the stone at the near end of the table with her back against the leg of it and did the thing her hands do when they have nothing to hold, which is to go round the rim of the near board with a thumb and follow the grain of it to the end and come back.
 
@@ -126,4 +126,10 @@ He said it flat, and the way he said dates, and she understood that he had alrea
 
 And she was not going to tell him.
 
-She stood at the near end of her own table with the lamp on the stone at her feet and the boards face up and the far end of the room dark and the bar nine feet nine against the left-hand wall dated nowhere, and she took a breath of four and let it out, and she had worked out more about that man in one morning than she had in nine years, and she did not tell him that either.
+That was the whole of what the sixteenth of a month was for. He had put a date on it and she had handed the date straight back to him, and he had already written it, and she was not going to be the one to take it off him.
+
+She could have stopped the whole of it in about a count of twenty with one sentence. She knew what came up a stair in this building on a date, and she knew what it was when it arrived, and she was not going to spend the sentence.
+
+She was going to let the nineteenth come, and she was going to stand in this room and hear the whole of it out of the wall in the ordinary voice in the right order, and she was not going to give a man in a wall one warning about what he had promised her for the day after tomorrow.
+
+There was going to be a thing at the end of every line. She had heard it in the way he said dates, and she had been hearing it in the way he said dates for about nine years, and there was not one figure in the world that told her what was going to be at the end of them.

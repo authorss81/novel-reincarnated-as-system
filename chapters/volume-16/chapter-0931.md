@@ -8,7 +8,7 @@ Nothing did the sum back at her.
 
 She gave it until the seventh hour.
 
-She took the near board up off the face of the table and read it by and put it back face up a foot in from the near end, and she took the terms board up and read that and put it back a foot further along.
+She read the near board by and put it back face up a foot in from the near end, and read the terms board and put that back a foot further along.
 
 She went the length of the table with her hand along the wood, past the bundle under the far end where it was corded twice and not knotted, and she came back to the near end and put her hand in the hollow her own forearms had worn there over nineteen years.
 

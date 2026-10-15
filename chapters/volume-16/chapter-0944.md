@@ -64,7 +64,7 @@ So she stood there and took them.
 
 She put one hand up under her own ribs on the left side, high, behind the fourth one, and held it there and let it pull.
 
-She went on standing at the near end of her own table with the other hand flat on the wood while a voice she could not account for said decision after decision at her about her own life. She did not sit down and she did not go and touch a board and she did not put her hand on the bar against the wall.
+She went on standing where she was with the other hand flat on the wood while a voice she could not account for said decision after decision at her about her own life. She did not sit down and she did not go and touch a board and she did not put her hand on the bar against the wall.
 
 That was the whole of what she did with her body for the better part of four hours and there was nobody in the world who could have told her that it was enough.
 
@@ -94,7 +94,7 @@ He went on.
 
 “I decided on the twenty-fifth of the month before last, before you had asked me for anything, that I was going to refuse it. I decided that in the morning. You came and asked me for it in the afternoon and I did not tell you that I had already said no.”
 
-She stood at the near end of her own table.
+She did not move off the wood.
 
 “That was the twenty-fifth,” she said. “You had already decided before I opened my mouth.”
 
@@ -122,6 +122,10 @@ She did not say that it had not been good. She did not say that it had been good
 
 She put her hands flat on the worn wood where her own arms had been for nineteen years and she stood there in a room that was a room and let what had been said in it stay said, and she understood standing there, in the ordinary voice, in her own head, which nobody would ever hear, that there was not one decision in the whole of nineteen years left in him that she did not now know about.
 
-That was all. He had got to the end of what he had done and had not got to the end of what he was, and she was not going to wait for the rest of it, because she had asked him on the seventh of a month at about the eighth hour not to be a thing that got to the end of things.
+He had got to the end of what he had done and had not got to the end of what he was, and she was not going to wait for the rest of it, because she had asked him on the seventh of a month at about the eighth hour not to be a thing that got to the end of things.
 
-She took a breath of four and let it out, and the lamp burned on the stone at her feet, and she did not say one more word.
+She had wanted it to be a thing she could put down. That was the whole of what she had carried it down the stair for, and there was nobody in the room to put it down in front of, and she had known that since the twenty-eighth of a month.
+
+She had asked him not to finish. He had finished.
+
+She got exactly the opposite of what she had asked for, and she was still standing at the wood with her hands flat on it at about the ninth hour and a hundred of the fourth of a month, nineteen years old, and the lamp was burning on the stone at her feet, and it was the only thing in that room that had answered her all day.

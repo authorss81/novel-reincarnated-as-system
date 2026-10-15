@@ -8,7 +8,7 @@ She had said her figures out loud at the ninth hour on three mornings into a roo
 
 And at about the sixth hour of the nineteenth of the month beginning three thousand and forty-four it came, and it came with no figures in it at all.
 
-She stood at the near end of her own table and let the first four go past and she knew inside about two counts what it was.
+She stood at her table and let the first four go past and she knew inside about two counts what it was.
 
 “I told you what you were going to be when you were eleven,” he said, “and you believed me, and your arm has been open at the elbow ever since.”
 
@@ -34,7 +34,7 @@ It was the same stop as the seventh of the month. There was no last word to it. 
 
 He said it with an anger in it that was not at her.
 
-She stood at the near end of her own table and let the anger go past and did not put a hand on anything.
+She stood at her table and let the anger go past and did not put a hand on anything.
 
 ## She Saw It First
 

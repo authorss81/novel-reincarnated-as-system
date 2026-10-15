@@ -46,7 +46,7 @@ He did not say anything for a long time.
 
 “Say it properly. If you say it properly I will do the next one.”
 
-She stood up straight at the near end of her own table with nothing in either hand.
+She stood up straight with nothing in either hand.
 
 “I am going to close my eyes,” she said. “And I am not going anywhere and I am not going to do anything else, and I am telling you that in my own voice before it is a line anywhere, and it is not for you. It is so that you have one fewer thing between you and the sentence.”
 
@@ -104,7 +104,7 @@ It was not a laugh. It went out of her before she knew it was in there, about fo
 
 “I am laughing at the fact that you told me you were going to lose the thread and then you lost the thread,” she said. “You have been in here nine hundred years and you have never been seen to try anything. Neither have I. That is what it is.”
 
-He was quiet for about a count of forty.
+He stopped for about a count of forty, and she let the count run out instead of filling it.
 
 “No,” he said. “That is not what it is at all. You have watched me be right for nine years. You have never once watched me not be right, and there has not been anybody in this keeping since before I had a body who was in a room with me while it happened.”
 
@@ -124,6 +124,8 @@ Not because she had nothing to say. Because it was not an apology and it was not
 
 He did not know he had said it. That was the part she understood as the ninth hour came and she said the day’s figures out loud, standing, in the ordinary voice, into a room that did nothing back.
 
-If he had known he had said it, he would have turned it into a beginning, and if he had turned it into a beginning it would have been an entry, and if it had been an entry it would have been the sixth cut kept and nothing else. Instead it was a thing said once and gone, in the middle of a morning of failing, by a man who had not been able to see it while he said it.
+If he had known he had said it, he would have turned it into a beginning, and if he had turned it into a beginning it would have been an entry, and if it had been an entry it would have been the sixth cut kept and nothing else.
+
+It was not a beginning. It was a thing said once and gone, in the middle of a morning of failing, by a man who had not been able to see it while he said it, and it was going to stay the sixth cut she had refused him, because she was the only one in the room who could see what he had just done.
 
 She sat down on the stone with her back against the leg of the table and did not tell him.

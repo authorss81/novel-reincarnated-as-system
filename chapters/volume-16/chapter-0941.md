@@ -104,9 +104,11 @@ He went on with it.
 
 She stood at the near end of her own table for the rest of the seventh hour and the whole of the eighth hour and at the ninth hour she said the day’s figures out loud into a room where the keeping had not given her anything back since the twenty-fifth, and the days went in and there was nothing in her head to hear them.
 
-That was the last conversation the two of them had.
+That was the last answer she gave him.
 
-She knew it standing there, at the ninth hour, with her hands on the wood, and she did not mark it and she did not say one word about it, and nothing after that morning was a conversation. He went on and she sat in it and neither of them asked the other for anything again.
+She knew it standing there, at the ninth hour, with her hands on the wood, and she did not mark it and she did not say one word about it. Nothing after that morning was an answer.
+
+What came after it was a man going on with the whole of what he had decided about her, day after day of it, and her standing in a room while it came. Not one more figure of hers set against one of his. She had been carrying that account since she was ten years old and she had set it down once, on the twenty-eighth, and she was not going to pick it up again for a man with four more mornings of it left to say.
 
 She had wanted, for about three days, to be the kind of woman who said it was all right. That was the whole of what she had wanted and it was not a noble want and she did not pretend to herself that it was.
 

@@ -6,7 +6,7 @@ She said it standing at the near end of her own table at about the sixth hour on
 
 She felt it come up.
 
-It came up through the stone under her feet the way it had come up on the last first of a month, a bundle of boards corded twice going up nine hundred and four steps of a stair that did not stop at nine, and she stood at the near end of her own table with a board in her hand and let it come the whole way up.
+It came up through the stone under her feet the way it had come up on the last first of a month, a bundle of boards corded twice going up nine hundred and four steps of a stair that did not stop at nine, and she stood where she was with a board in her hand and let it come the whole way up.
 
 She did not go to the foot of the stair.
 
@@ -58,7 +58,7 @@ She sat down on the stone at the near end of the table with her back against the
 
 And then she sat there and worked out what she had with her for the next thirty days.
 
-A first of a month, and thirty days between this one and the next. One of them, on time, going up nine hundred and four steps whether she was standing under it or not. And then the ordinary days in between, thirty of them, of which there was not one that would come up a stair or go down one or turn anything over, and every one of which she would get to by standing at the near end of her own table and saying six figures out loud into a room.
+A first of a month, and thirty days between this one and the next. One of them, on time, going up nine hundred and four steps whether she was standing under it or not. And then the ordinary days in between, thirty of them, of which there was not one that would come up a stair or go down one or turn anything over, and every one of which she would get to by standing where she was standing and saying six figures out loud into a room.
 
 She had thirty days of that in front of her, and she had never once in nineteen years had a day that was not the day after something or the day before something.
 
@@ -78,7 +78,7 @@ She put her hands flat on the wood.
 
 “You told me the reason and the reason was that you were not going to be the thing that stopped me,” he said, “and you have not said one since, and I have been sitting in a wall for a whole day waiting to hear six numbers out of a woman.”
 
-She stood at the near end of her own table and felt the ninth hour coming up on the room the way she had felt it every day of her life.
+She stayed where she was and felt the ninth hour coming up on the room the way she had felt it every day of her life.
 
 “No,” she said. “I am not going to say them on a first of a month.”
 
@@ -92,7 +92,7 @@ She stood at the near end of her own table and felt the ninth hour coming up on 
 
 He said nothing about that for the rest of the day.
 
-She stood at the near end of her own table at about the ninth hour of the first of the month beginning three thousand and seventy-four and did the whole of the day again, near board and terms board and the length of the table with her hand along the wood.
+She was still standing there at about the ninth hour of the first of the month beginning three thousand and seventy-four and did the whole of the day again, near board and terms board and the length of the table with her hand along the wood.
 
 She did not say a figure. The keeping gave her no line. The bundle went up nine hundred and four steps to a room with no wear in it and came to the top and was cut and went somewhere, and nothing in the world was different by a single thing.
 

@@ -16,7 +16,7 @@ It was not very good because he went over the same ground twice inside the first
 
 “It is a defence,” she said, “and you have not got to one, and if you put a why in the middle of that then everything on either side of it stops being a decision and becomes an argument about a decision.”
 
-He was quiet for about a count of forty.
+The silence out of the wall went on for about a count of forty.
 
 “That is a thing I have never once had to do,” he said. “I have explained six hundred years of things to people and not one of them has ever told me to leave the explanation in.”
 
@@ -40,7 +40,7 @@ About the seventh hour he said one of her decisions and got it slightly wrong, a
 
 It was the decision about the lamp in this room, and about what was on the shelf, and about what she was to do with the oil a boy makes in a building with no store in it.
 
-He said it as one thing and it had been three things done on three separate mornings for reasons she could have named, and she stood at the near end of her own table and let a man in a wall get it wrong about the lamp in a room she had lived in for seven hundred and sixty-four days.
+He said it as one thing and it had been three things done on three separate mornings for reasons she could have named, and she let a man in a wall get it wrong about the lamp in a room she had lived in for seven hundred and sixty-four days, standing where she had been standing all morning.
 
 That was the part of the morning she was not going to put back in order and was never going to tell him about.
 

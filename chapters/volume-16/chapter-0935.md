@@ -18,7 +18,7 @@ He asked again at the seventh hour and she said no again, and he asked a third t
 
 “I have given you a reason.”
 
-“You have given me a word. A thing is said in the voice of the person it is about. You found that rule and you put it on me on the twenty-eighth and you put it on yourself on the sixteenth and you have never broken it, and you are using it now to keep yourself out of your own apology.”
+“You have given me a word. That is your rule and you have never once broken it, and you are using it now to keep yourself out of your own apology.”
 
 “I am.”
 
@@ -42,7 +42,7 @@ She stood at the near end of the table with the lamp on the stone at her feet an
 
 “Then say that of this one.”
 
-He was quiet for about a count of forty.
+Nothing came for about a count of forty.
 
 “I cannot.”
 

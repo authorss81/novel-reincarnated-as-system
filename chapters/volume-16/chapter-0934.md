@@ -74,7 +74,7 @@ She said nothing.
 
 “Say the second sentence again.”
 
-He was quiet for about a count of forty.
+The wall said nothing for about a count of forty.
 
 “I cannot.”
 
@@ -140,7 +140,7 @@ It was just not a sentence a person can hand to another person.
 
 “Try the second one on the tenth.”
 
-She put her hand flat on the bar against the left-hand wall and took no weight on it, because a bar nine feet nine that is dated nowhere is not a thing to lean on, and because she needed something under her hand that was not the table.
+She crossed to the wall and set her palm flat on the bar there, which is nine feet nine long and has never been dated, and stood with her weight on her own two feet and none of it on the iron, because she wanted something under her hand that was not the table and the bar was the only other thing in the room that had been in it longer than she had.
 
 “The tenth,” she said. “That is three days.”
 
