@@ -5907,3 +5907,87 @@ directory was created.
   not deliver the pass and the plan both well, so the plan narrowed to outline plus first-batch card and
   the pass is recorded as still owed before Batch 0002. Nothing was pruned, moved or archived to make
   this true.
+
+## Volume 14 Batch 0001 — REPAIRED AFTER REVIEW, and what a drafter of ch 781–795 reads first
+
+**`workspace/volume-14-batch-0001/PROMPT.md` was reviewed on 15 Oct 2026 and repaired. Nine defects were
+fixed; the plot did not move. Ch 781–795, days 2,541–2,600, pressure *the oil, running out*, midpoint ch
+788, climax ch 793 (IV7), irreversible step ch 795, two firsts of a month at 2,564 and 2,594, bracket
+budget 0 in fifteen.**
+
+- **A drafter must not re-plan the batch and must not re-derive these. Four of them are on the page and
+  the plan had got them wrong.**
+- **Ch 780 does not end on the boy's question.** He asked *is there anybody in here*, she answered, he
+  asked whether she knows he is here, she said she did not know, and the chapter's last line — the last
+  thing she says in this building — is *I had a sentence for you and I have not got it… and I do not have
+  an answer that is small* (780:137–155). **Ch 781 opens on her having just failed at the one thing he
+  asked for, on him still standing there, and on no new question.**
+- **Four beats are SPENT at ch 780 and are named as spent in the prompt, with line references: the whole
+  arithmetic given aloud (780:67–83, 111–129); the hand's width of light along the near end of the table
+  and no further (780:53); him looking at her for a count of nine and nothing in the room deciding
+  anything (780:57); and his finding the worn place (780:87–107).**
+- **The boy already knows about the second place.** At 780:93–107 he says *there is a place worn in it*
+  and she tells him, in her own words, that it is not a chair, not a seat, **addressed**, **the right size
+  for somebody who is not here**, put there by no instruction, and said to have been found by her on the
+  ninth of the month beginning 2,384 and never touched — **and that day is open and three anchors disagree,
+  see the next bullet** — and that she cannot tell him what it is for. **The open thing is who,
+  not whether, and that is Batch 0002's *the seat* and Batch 0003's *the keeping*.** Nothing in this batch
+  may have him learn there is a second place, and nothing may have her explain that there is one.
+- **Ch 758 is YUAN'S frame scene and must not be given to the boy.** Dated the fifth of the month
+  beginning 2,444, away from her hearing, and the shape in that wood is *his* — Yuan's — and he says *That
+  is mine* on the page. **The boy was not in it and does not know it happened. His own two notices are ch 749
+  and ch 780; the place has been seen from inside once, and by him.** An earlier version of this block
+  claimed the boy worked out at ch 758 that the shape was his own. That is false and it is struck.
+- **The day she found the second place is OPEN and three anchors disagree — no card states one.** She says
+  at ch 780 that she found it on the ninth of the month beginning 2,384 (day 2,392). The page stages the
+  discovery itself at **ch 724, at the sixth hour of the twenty-third of the month beginning 2,294 — day
+  2,316, seventy-six days earlier.** Ch 758's own hundred-and-forty-eight-days figure resolves from a third
+  anchor. **An earlier version of this block canonised the ch 780 figure; it does not, and that is the same
+  failure the Volume 13 close recorded against the bar's put-down day.**
+- **The figures, re-derived and correct.** Row staleness `(D − 2,294) × 72 min` is **twelve days, eight
+  hours and twenty-four minutes at day 2,541** and **fifteen days, seven hours and twelve minutes at
+  2,600** — the plan carried 10h24m and 4h48m-into-the-next-day, both wrong, and both corrected.
+  `D − 2,301` runs 240 → 299. `D − 1,559` runs 982 → 1,041. Bar 197 days against the left wall at 2,541
+  (since day 2,344), 231 at 2,575. **Two firsts of a month in the batch, 2,564 and 2,594 — the plan
+  counted one.** 2,564 falls between ch 787 and ch 788; 2,594 falls in the gap between ch 792 and ch 793
+  and both cards land it.
+- **The batch runs on a clock, and the clock is the room's own clock rather than an invented one.** A hand
+  went into that cage at the second hour of the second of every month; the light came down two of her own
+  hand a day out of fifty-eight; fifty-eight divided by two is twenty-nine; so the light came down to that
+  cut **on the first of a month**. She has not put a hand in since the first of 2,534 and the lamp went out
+  on that same first, **so the clock strikes on nothing.** The batch has two firsts, **2,564 and 2,594**,
+  and on both the only light in that building is a boy's oil. **2,594 is four days after ch 792 and four
+  before ch 793.** Alongside it: a lamp lit in that room is a lamp not lit below the line, no oil in that
+  building for nine years and none on that mountain, three lamps in rotation and about a cup and a half in
+  the one he carried up (780:49). **No card states a burn rate, a cups-per-day figure, or an hour the oil
+  runs out** — none of those is on the page. **An earlier version of this block justified the deadline by
+  saying he had never seen forty boards go on. He had: he watched a bearer put them down at ch 741 and
+  ch 749. And the forty he counted at ch 750 came off that table on a copying floor four miles down the
+  mountain. Struck.**
+- **The ch 795 irreversible step keeps its words — she lets the oil lamp stay in the room and the dark is no
+  longer hers alone and it cannot be un-let — and its price is that the light is OWEED rather than dying:
+  she fills the cup out of what he carried up and did not use, and it goes down the stair with him when he
+  goes, so from the last page of the batch the light in that room is a light she cannot hold except by
+  being owed it.** **No exhaustion date is asserted anywhere**, and the cup at ch 795 is not reconciled
+  against the lamp still burning at ch 793 four days earlier by any invented figure.
+- **The batch ranges were wrong in the outline's own table and are corrected: Immortal Vessel 8 is at ch 809
+  on day 2,666, which sat six days outside Batch 0002's stated 2,601–2,660.** **No chapter range moved.**
+  Batch 0002 is now **2,601–2,666** and Batch 0003 **2,667–2,720**; 0001 and 0004 are unchanged. Contiguous,
+  no gaps, no overlaps, and each stage now sits inside its own batch.
+- **The one at the table speaks twice in the volume and that is now flagged as a first, with the history
+  as the page has it: one hand, one look (spent ch 776), and one speech, the amending offer at ch 772, on
+  the page, in her hearing, with a speech tag and the word *they*.** The speech is a cost paid in the look
+  and restores nothing; both new speeches land after IV8 at ch 809; no third speech, no voice, no face, no
+  figure of what is left of him.
+- **Four retitled cards, all re-measured free against all 780 standing headings:** ch 781 *The Fare* ·
+  ch 789 *Under The Table In Oil Light* · ch 790 *The Far End Of The Table* · ch 792 *The Lamp Down Nine
+  Hundred And Four*, the last replacing a heading that was **exactly ch 779's**.
+- **The owed archive pass now has an owner.** Batch 0001's *After the batch* list instructs that
+  `workspace/volume-14-batch-0002/PROMPT.md` open with the pass as its first job, before the ch 796–810
+  cards, with the line and word counts measured before and after. **This repair did not run the pass and
+  does not claim to have run it.**
+- **Still owed, still unquotable, still untouched:** ch 764's *a hundred and seventy-eight days* · ch
+  766's sixteen-days-is-nineteen · ch 734's title *What A Hand Is Charged* and ch 735's *four weeks*, both
+  measured against the allowance and not renamed · the second hand's board is Volume 14's and is not
+  previewed · no bracket in fifteen · no clearance, seal or countersignature · no `Court` spoken in this
+  batch and no `Scribe` before ch 810 · nothing of Volumes 15–16.

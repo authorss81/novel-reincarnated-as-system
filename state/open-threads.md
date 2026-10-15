@@ -3622,3 +3622,39 @@ Fifteen chapters, **28,680 words of body prose on method B, average 1,913**, day
 ### What Volume 14 may not do, restated once and not twice
 
 **No bracket** — the layer is not in the room and Volume 14 inherits that argument · **no clearance, seal or countersignature named or implied** · **`Ascendant` 0 and `Choir` 0, and `Court` may be used again on Volume 14's own budget** · **nothing that explains what the lamp above the line is for, because that is the moral answer and `outline/ending.md` owns it** · **no preview of the Anchor, the Sisterhood, the bargain or the Scribe's terms** · **no office above the Standing Office of the Second Account** · **no figure of what is left of him** · **no thanking, and `thank` 0** · **the year of non-forgiveness still running and `forgiv` 0 and `the year` 0** · **no harem and nothing a romance, and she never says her mother's name** · **MEMBER ABSENT not raised** · **the eleven never raised, and the four erased months of Chapter 3 never named, and the ch 150 refusal never softened** · **one Lung and one appointment, Feng's, both spent, Feng dead and on no page** · **the four accounts of nine seconds and no fifth** · **the 2,920 and the 301 of 912 unattributed and unmentioned, and what a third of a name is is open** · **how far the rows sit past the wall is open and Volume 13 does not settle it** · **the Order is not a conspiracy and not a chamber and is not on the page** · **the window a hundred yards off the east side, the lime off the bar at ch 604 and the hut light stay unspent** · **the bar is dated nowhere and its dust is broken at one end and is not resolved** · **and the two stairs stay two stairs: eight hundred and eighty in two runs of four hundred and forty, and nine hundred and four, never added.**
+
+## VOLUME 14 PLANNING REVIEW REPAIR — two threads corrected and one added (15 Oct 2026)
+
+**The plan asserted two things about the second place at that table that the page contradicts. Both are
+corrected here, and a third thread the plan had missed is opened. No chapter prose exists.**
+
+- **CORRECTED — "the boy does not know about the second place" was false, and the thread's shape changes
+  with it.** At ch 780:93–107 he said *there is a place worn in it*, and she told him out loud, standing,
+  in the dark, in the ordinary voice, that **it is not a chair, it is not a seat, it is addressed, it is
+  the right size for somebody who is not here, not one instruction in this room put anybody in it, and she
+  found it on the ninth of the month beginning 2,384 and has not touched it** — and that she **cannot tell
+  him what it is for.** He has it. He has had it in her own words since the seventh of the month beginning
+  2,534. **So the thread is no longer *whether he finds out there is a second place*. It is *who it is the
+  right size for*, and he has not asked, and she has said she cannot tell him.** Batch 0002's *the seat*
+  and Batch 0003's *the keeping* both run on that, and neither was re-planned. **The thread as it stood
+  before this repair is struck and is not to be answered by any card in Batch 0001.**
+- **ADDED, AND CORRECTED ONCE — the frame scene at ch 758 is Yuan's, not the boy's.** Ch 758 is dated the
+  fifth of the month beginning 2,444, it is a frame scene away from her hearing, and the shape in that wood
+  is **his** — Yuan's — and he says on the page: *That is mine. I know it is mine the way I know my own
+  count is mine.* **The boy of sixteen was not in that scene and does not know it happened; his own two
+  notices of the second place are ch 749 and ch 780.** A first draft of this repair wrongly handed the boy
+  that scene. It is struck, and no card may give him Yuan's knowledge, Yuan's shape or Yuan's line.
+- **ADDED — WHEN SHE FOUND THE PLACE IS OPEN AND THREE ANCHORS DISAGREE.** She says at **ch 780** that she
+  found it on the ninth of the month beginning 2,384, which is **day 2,392**. The page stages the discovery
+  itself at **ch 724, at the sixth hour of the twenty-third of the month beginning 2,294 — day 2,316,
+  seventy-six days earlier**, where she looks along the far side, stops counting, and says *it is not a
+  chair*. **Ch 758's own figure of a hundred and forty-eight days since she said one word about it out loud
+  resolves from a third anchor again.** **No card in any batch may state a day for the finding, may do the
+  subtraction, or may treat any one of the three as settled** — this is the failure the Volume 13 close
+  recorded against the bar's put-down day, where a close canonised one chapter's figure without noticing
+  that another chapter disagreed.
+- **UNCHANGED — what the thread still is.** The second place at that table has been **seen from inside
+  once, by Yuan at ch 758, and noticed twice by the boy, at ch 749 and ch 780; the boy has still neither got
+  into it nor said no to it, and she has still not refused it and has still said out loud only that she
+  cannot say what it is for.** Not addressed in Batch 0001. Addressed and refused at ch 822, said, and at ch 838, sent. The
+  place stays empty and addressed at the last page of the volume.

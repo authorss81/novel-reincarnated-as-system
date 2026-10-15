@@ -23,9 +23,22 @@ authority for all three and none of them is re-planned here.
 
 **And the last thing Volume 13 said, which is ch 780 and which this volume opens on top of — from the
 page, at the seventh hour of the seventh of the month beginning 2,534, in a dark room at the top of eight
-flights and eight hundred and eighty steps, a boy of sixteen in the doorway with an oil lamp in his hand:**
+flights and eight hundred and eighty steps, a boy of sixteen in the doorway with an oil lamp in his hand.
+He asked *is there anybody in here*, she told him about the figure at the far end of the table, he asked
+whether she knows he is here, and she said she did not know. **That question is three speeches back and it
+is answered on the page. The thing ch 781 opens on is the last line of the chapter, which is the last
+thing she says in this building:**
 
-> He said, *is there anybody in here.*
+> I had a sentence for you and I have not got it. I have got an arithmetic and it is true and it is all
+> of it and it is not one sentence, and I have been in this room two hundred and thirty-nine days and I
+> have not had one sentence that was any use to anybody until this afternoon, and you asked me for one,
+> and I do not have an answer that is small.
+
+**So ch 781 opens on a woman who has just been asked for one small thing and has none, and not on a boy
+who has just asked a question.** The live pressure at the first line is the shape of what she said: a boy
+of sixteen wants a sentence and has been handed the whole of a room, and the next thing that happens is
+not an answer but a condition. **The whole arithmetic is already spent at ch 780 and must not be given
+again** — not at ch 781, not as a summary, not as a recap speech.
 
 **It comes out of what Volume 13 resolves — the lamp out, the row in the dark, the name said twice, the
 second place noticed twice — and not out of fresh furniture.** It hands Volume 14 its engine without
@@ -125,7 +138,9 @@ re-derive it.**
    written by the room. **The room copies it exactly and does not know whose words it is writing.**
 2. **The cost is paid and not explained.** *The Scribe can find him, and does* is Volumes 12–14's standing
    bill. **Volume 14 pays the finding; the address — a voice speaking to him that is not her — is
-   Volume 15's** per `outline/ending.md` §7 milestone 8, and nothing in Volume 14 speaks to him that is not
+   Volume 15's** per `outline/series.md` §7 milestone 8 (`outline/ending.md` §7 is *Final chapter image*
+and carries no milestone; the citation was wrong and is corrected here), and nothing in Volume 14 speaks to
+him that is not
    her.
 3. **What the tenth frame scene is, at ch 812:** in the dark room, away from her hearing, **he says yes.**
    One sentence, present tense, to the second place. **He does not get into it yet.** The yes is to the
@@ -161,8 +176,11 @@ here, or the whole bargain survives into Volume 15 with her consent on it.**
 
 ### D2 — The offer arrives in writing, never in speech
 
-**Nobody in Volume 14 offers anybody anything out loud.** The one at the table spoke once in sixty
-chapters (ch 772) and does not speak again until the climax. The offer comes up the stair on boards, on
+**Nobody in Volume 14 offers anybody anything out loud.** The one at the table has one speech in seven
+hundred and eighty chapters, the amending offer at ch 772, and the volume's only other two are the ch 826
+terms page and the ch 838 acceptance — both of which are **answers to her and not offers**, and neither of
+which is out loud: she reads the first out loud in her own voice and the second happens at the end. See
+*Who is in the room*, where this is flagged as the first it is. The offer comes up the stair on boards, on
 firsts of months, in a fair hand: first his name (ch 810), then the place described as kept (ch 818),
 then the terms with the price (ch 826). **She reads each one out loud in the dark in the ordinary voice,
 standing, and that is how the reader hears them — in her mouth, not in a mouth.** The Scribe does not
@@ -215,7 +233,8 @@ a nib in it, and the thing that reads is a boy with oil, and that is the whole o
 - **Ning Yan: IMMORTAL VESSEL 6**, taken at ch 776 on day 2,524. Three fingers and a thumb. Right arm open
   since day 2,294 (247 days at day 2,541). Seven of eleven holds. `D − 1,559` days lighter (982 at day
   2,541). Time in the room `D − 2,301` (240 at day 2,541). Row staleness `(D − 2,294) × 72 min` (twelve
-  days, ten hours and twenty-four minutes at day 2,541). Not hungry. **Nineteen years old.**
+  days, eight hours and twenty-four minutes at day 2,541, and fifteen days, seven hours and twelve minutes
+  at the last day of the batch, 2,600). Not hungry. **Nineteen years old.**
 - **In the room:** a long table twenty-two paces long, forty boards face up in a stack under the middle, a
   bundle of papers corded round twice under the far end (had an arm into five times, never pulled), a cage
   lamp out for six days and going on seven, a strip of pale wood under the table with ten days, twenty-one
@@ -224,8 +243,25 @@ a nib in it, and the thing that reads is a boy with oil, and that is the whole o
   her ribs with five blank leaves still blank, a nib and ink against her ribs, a bag at the bottom of the
   first four flights with dish, clay, ring, key and nine inches of hand-made paper.
 - **In the doorway:** a boy of sixteen with an oil lamp, a cup and a half of oil, two more lamps below,
-  who has asked why the lamp is lit and been given the whole arithmetic. He does not know what the second
-  place is. He is the only mortal above the line and he got there on his own feet.
+  who has asked why the lamp is lit and been given the whole arithmetic. **He has already found the worn
+  place and she has already told him what it is — not a chair, not a seat, addressed, the right size for
+  somebody who is not here, put there by no instruction, and said to have been found by her on the ninth of
+  the month beginning 2,384 and never touched — and she told him she cannot tell him what it is for.** No
+  card in Volume 14 may have him learn that there is a second place, that it is a place, or that it is
+  somebody's, because he has all three in her own words at ch 780. **The open thing is who, not whether,
+  and that is Batch 0002's *the seat* and Batch 0003's *the keeping* rather than a withhold.**
+
+  **TWO THINGS A CARD MUST NOT GET WRONG, BOTH OF THEM ON THE PAGE.** **First, ch 758 is YUAN'S frame
+  scene, dated the fifth of the month beginning 2,444, away from her hearing, and the shape in that wood is
+  *his* — Yuan's — and he says *That is mine* on the page. The boy was not in it, does not know it happened,
+  and must not be given Yuan's knowledge, Yuan's shape or Yuan's line. The boy's own two notices are ch 749
+  and ch 780; the place has been seen from inside once, and by him.** Second, **the day she found it is open
+  and three anchors disagree: she says at ch 780 that she found it on the ninth of the month beginning 2,384
+  (day 2,392); the page stages the discovery itself at ch 724, at the sixth hour of the twenty-third of the
+  month beginning 2,294, which is day 2,316, seventy-six days earlier; and ch 758's own hundred-and-forty-
+  eight-days figure resolves from a third anchor again. No card states a day for the finding, does the
+  subtraction, or treats any one of the three as settled.** Recorded in `state/open-threads.md`.
+- **He is the only mortal above the line and he got there on his own feet.**
 - **Yuan.** Court, second rung. Readable by the room's hand since ch 748. Found at ch 749, bill raised and
   unpaid. No figure of what is left of him on any page and none may be. Volume 14 allowance for
   `Ledger` is 0.
@@ -279,8 +315,24 @@ No more than five people in it at once, and the only mortal among them came up t
 
 - **The one at the table.** No name. Standing four hundred years, never sat down, never wanted to. One
   hand, one look (spent at ch 776), one column. Correct about everything said and wrong about nothing
-  except by being uninformed. Speaks twice in the volume: once to describe the keeping (ch 826 terms
-  page, read aloud by her), once to accept the refusal (ch 838).
+  except by being uninformed.
+  **THE SPEECH IS A FIRST AND IS FLAGGED AS ONE HERE, BECAUSE NOTHING ELSE IN THIS SECTION IS.** Across 780
+  chapters this figure has one hand, one look, and **exactly one speech, the amending offer at ch 772, on
+  the page, in her hearing, in her own POV, with a speech tag and the word *they* — not a frame scene,
+  not a report.** Volume 14 takes it from one speech in seven hundred and eighty chapters to **three, and
+  puts two of them on the volume's two largest beats**: the ch 826 terms page, read aloud by her, and the
+  ch 838 acceptance of her refusal. Three things follow and all three are binding on the cards.
+  **First, the speech is a cost and it is paid in the look:** the one look was spent at ch 776 on a foot of
+  pale wood and it does not come back, and no card may imply a third occasion, a second look, or that
+  speaking restores anything. **Second, the two new speeches land after Immortal Vessel 8 at ch 809** — 826
+  and 838 are both past it — **so the volume's three stages at 74, 68 and 66 days and this change are
+  separate events and no chapter may write them as one.** **Third, Volume 14 does not get to make it
+  warm, kindly or pleased:** at ch 772 it was correct and unhelpful and offered once, and she refused it at
+  ch 777. **Its last speech was thirty-five days before the last page of Volume 13 — thirty-five and not four
+  hundred, because ch 772 is on the page and dated — and it says nothing at all across the thirty days
+  between that and this one.** It does not get a motive now. No voice is described, no face, no figure of
+  what is left of him, **no speech beyond the two named above, since a third would be a fourth in the book
+  and is not available**, no speech by any other character, and nothing but her ever addresses him.
 - **The one who brings the bundles.** No name. Comes up once a month on the first, puts it on the table,
   goes down. Does not look at her. Not the carter.
 - **The boy of sixteen.** Unnamed. Keeps three oil lamps in rotation, counts oil the way she counts days.
@@ -319,10 +371,63 @@ any trade term.
 
 | Batch | Chapters | Days | Pressure | Midpoint / climax | Irreversible step |
 | --- | --- | --- | --- | --- | --- |
-| 0001 | 781–795 | 2,541–2,600 | the oil | midpoint ch 788: the boy's count disagrees with hers and both are right · climax ch 793: IV7 in oil light | ch 795 — she lets the oil lamp stay in the room, and the dark is no longer hers alone |
-| 0002 | 796–810 | 2,601–2,660 | the seat | midpoint ch 803: the second bundle comes up with the place described as kept · climax ch 809–810: IV8, and the third hand's board with his name | ch 810 — he is readable by the Scribe now, and it cannot be unread |
-| 0003 | 811–825 | 2,661–2,720 | the keeping | midpoint ch 812: the tenth frame scene, he says yes where she cannot hear · climax ch 822: she refuses the keeping the first time | ch 822 — she says no to the second place out loud in the dark, and a no said there cannot be unsaid |
+| 0001 | 781–795 | 2,541–2,600 | the oil, running out | midpoint ch 788: the boy's count disagrees with hers and both are right, and the disagreement now decides whether he can reach a first of a month · climax ch 793: IV7 in oil light | ch 795 — she lets the oil lamp stay in the room, and the dark is no longer hers alone, on oil that will not be replaced |
+| 0002 | 796–810 | 2,601–2,666 | the seat | midpoint ch 803: the second bundle comes up with the place described as kept · climax ch 809–810: IV8, and the third hand's board with his name | ch 810 — he is readable by the Scribe now, and it cannot be unread |
+| 0003 | 811–825 | 2,667–2,720 | the keeping | midpoint ch 812: the tenth frame scene, he says yes where she cannot hear · climax ch 822: she refuses the keeping the first time | ch 822 — she says no to the second place out loud in the dark, and a no said there cannot be unsaid |
 | 0004 | 826–840 | 2,721–2,780 | the refusal | midpoint ch 832: the terms with the price come up, one binding named · climax ch 836–838: IV9 refused-into, and she refuses the binding | ch 838 — she sends the refusal down the stair in her own hand, and the first thing she has ever sent down cannot be called back |
+
+## The oil, as a clock — Batch 0001 runs on a deadline and not on a mood
+
+**Batch 0001 is sixty chapters of pressure and the pressure has a date on it. Without this the batch is
+fifteen variations on *she states arithmetic and he asks*. Everything below is already on the page; none
+of it is new machinery.**
+
+**The fare is the trip.** At ch 780 he is at the top of eight flights and eight hundred and eighty steps
+with one lamp holding about a cup and a half, it was in his hand from the second hour of the morning, he
+has three lamps in rotation, there is no oil in that building and there has not been for nine years, and
+there is none to be had on that mountain. **So every lamp he lights in that room is a lamp he does not
+light below the line, and the trip is what the oil pays for.** This is the batch's whole engine and it
+costs him nothing to say and her everything to accept: he is spending his own store on her arithmetic.
+
+**The date is a first of a month, and it is the room's own date.** A hand goes into that cage at the second
+hour of the second of every month; the light comes down two of her own hand a day out of fifty-eight;
+fifty-eight divided by two is twenty-nine; so the light comes down to that cut **on the first of a month**.
+That machinery has run on a hand every twenty-nine days since before the building was a building. **She has
+not put a hand in it since the first of the month beginning 2,534, and the lamp went out on that same
+first, so the clock strikes on nothing.** Batch 0001 contains two firsts — **2,564 and 2,594** — and on both
+the only light in that building is a boy's oil. **2,594 is four days after ch 792 and four days before
+ch 793.** Whether he has oil left for it has one answer in oil and a different answer in days.
+
+**What he wants is already on the page and is not restated here as a new motive.** He wants one small
+thing, to know why the lamp at the top of that tower is lit, and he has been given an arithmetic and not
+one sentence. **He has already watched a bearer put forty boards down (ch 741, ch 749), so no card may say
+he has never seen forty go on — and the forty he counted at ch 750 came off that table on a copying floor
+four miles down the mountain. Both facts are on the page and neither is this volume's discovery.** The
+deadline needs a date, not a new want.
+
+**Why the midpoint bites.** At ch 788 the two counts disagree by one day in twenty and both check out,
+because oil burns by a wick and his wick is his, and a day goes by the count of it and the count is hers.
+**Neither is converted into the other, and no card states a burn rate, a cups-per-day figure, or an hour the
+oil runs out: none of those is on the page, and a figure with no derivation is the defect this manuscript
+has been repairing since ch 764.**
+**Stated with no consequence that is a curiosity; stated against a date it is the batch.** He cuts his
+visits to make his own count true and the rotation shortens, and from ch 789 he is spending less time in
+the room in order to be in the room later. Neither count is corrected, ever.
+
+**Why the stair matters at ch 792.** The lamp goes **down** nine hundred and four steps and comes back up,
+in her hands, four days out, because nothing has ever carried light to the bottom of that stair and the
+bundle day cannot be reached with oil that has never been tested there. It is also the last time anything
+is carried down that stair in this batch, and it is a rehearsal, and she does not call it one.
+
+**Why ch 795 costs what it costs.** She trims the wick and fills the cup at the near end of that table on
+day 2,600 out of **what he carried up and did not use**, and it goes down the stair with him when he goes.
+So from the last page of this batch the light in that room is a light **she cannot hold except by being owed
+it**, by a boy of sixteen, who is not bound, not entered, and not sent, and who may stop coming. **The dark
+stops being hers alone and starts being hers and owed.** That is the price and it is a real one: it is not
+paid by deferring the ch 793 cost, and it is not undone when the lamp goes out. **No card states when the
+oil runs out, asserts an exhaustion date, or reconciles the cup at ch 795 against the lamp still burning at
+ch 793 four days earlier — there is no figure on the page for a burn rate and none is invented here.** The
+cage lamp is not relit and no store is replenished anywhere in the batch.
 
 ## Midpoint reversal (ch 810–812)
 

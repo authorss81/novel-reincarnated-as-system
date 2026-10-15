@@ -227,3 +227,16 @@ deliver the archive and the plan both well, so planning narrowed to `outline/vol
 Batch 0002. Nothing was pruned, moved or archived to make this true, and the reading order above is
 intact: a phase starting now reads `outline/series.md` §9, `state/current.md` §*Volume 14 planned* and
 §*Who is where at the end of Volume 13*, then the Volume 13 close blocks.
+
+**VOLUME 14 PLANNING REVIEW REPAIR (15 Oct 2026): the pass is still NOT run, and now it has an owner.**
+The Volume 14 plan and its Batch 0001 card were reviewed and repaired — two wrong staleness figures, the
+wrong last line of ch 780, a false premise about what the boy knows about the second place, four cards
+restaging ch 780, a title that duplicated ch 779's, an uncounted second first of a month, and a batch with
+no deadline. Full record in `state/continuity.md` under *VOLUME 14 PLANNING — REVIEW REPAIR*. **None of
+that repair was the archive pass either, and this paragraph does not claim it was: `state/archive/` still
+holds Volumes 01–06 only and `current.md` is 5,971 lines and `continuity.md` 10,282.** What changed is that
+`workspace/volume-14-batch-0001/PROMPT.md` now instructs that the Batch 0002 prompt open with the pass as
+its first job, before the ch 796–810 cards, with the same counts measured before and after. A phase
+starting now still reads, in this order: `outline/series.md` §9, `state/current.md` §*Volume 14 Batch 0001
+— REPAIRED* and §*Who is where at the end of Volume 13*, then `outline/volume-14.md`, then
+`workspace/volume-14-batch-0001/PROMPT.md`, then the Volume 13 close blocks.

@@ -10155,3 +10155,233 @@ opened and no figure on the page was moved.
 - **Archive pass:** not run. One call could not deliver the mechanical archive and the plan both well, so
   the phase narrowed to the plan per PHASE_SYSTEM.md's empirical rule and the pass is owed before Batch
   0002. Hot files untouched and valid.*
+
+## VOLUME 14 PLANNING — REVIEW REPAIR, applied 15 Oct 2026
+
+**Phase `next-0010` was reviewed and nine defects were fixed across `outline/volume-14.md` and
+`workspace/volume-14-batch-0001/PROMPT.md`. No chapter prose exists and no date, stage, batch range,
+midpoint, climax or irreversible step moved. What changed is that the plan now agrees with the page.**
+
+**The plot is unchanged and must be read as unchanged:** four batches at 781–795 / 796–810 / 811–825 /
+826–840 over days 2,541–2,600 / 2,601–2,660 / 2,661–2,720 / 2,721–2,780; Immortal Vessel 7 at ch 793 day
+2,598 (5th of 2,594, 74 days after IV6 at 2,524) · 8 at ch 809 day 2,666 (13th of 2,654, 68) · 9 at ch 828
+day 2,732 (19th of 2,714, 66); costs named once each · midpoint ch 788 · climax ch 793 · irreversible
+step ch 795 · midpoint reversal ch 810–812 · volume climax ch 836–838 · bracket budget 0 in sixty.
+
+### Six blocking defects, fixed
+
+1. **The row-staleness figure at day 2,541 was two hours out, in both files.** `(2,541 − 2,294) × 72 min`
+   = 17,784 min = **twelve days, eight hours and twenty-four minutes**, not *twelve days, ten hours and
+   twenty-four minutes*. Corrected at `outline/volume-14.md` in *Starting state* and in the prompt's
+   *Where the batch opens*. The series is exact on the page (12d 7h 12m at 2,540, fixed by the ch 764
+   repair), so the plan had introduced a fresh instance of the defect the Volume 13 close found three
+   times in sixty chapters.
+2. **The end-of-batch figure was worse and did not derive from the plan's own opening figure.** At 2,600
+   the true value is **fifteen days, seven hours and twelve minutes** (306 × 72 = 22,032 min); the prompt
+   carried *sixteen days 4h48m*, twenty-one hours and thirty-six minutes out. Checked from its own start:
+   59 days × 72 = 2d 22h 48m, and 12d 8h 24m + that = 15d 7h 12m. Corrected, and the prompt now carries
+   the derivation in the line so the drafter checks both ends before writing either down.
+3. **The batch's opening state was wrong about ch 780.** The outline called *is there anybody in here* the
+   last thing Volume 13 said and the prompt said the boy "has just said" it. The page does not: ch 780
+   continues through her answer about the four-hundred-year figure, his *does she know I am here*, her
+   answer, and ends on *I had a sentence for you and I have not got it… and I do not have an answer that
+   is small* (780:137–155). **Both files now open the batch on that line.** Ch 781 opens on her having
+   just failed at the one thing he asked for, on him still standing there, and on no new question.
+4. **The premise that the boy does not know about the second place was flatly false, and four cards rested
+   on it.** At ch 780:93–107 he says *there is a place worn in it*, and she answers that it is not a
+   chair, not a seat, **addressed**, **the right size for somebody who is not here**, put there by no
+   instruction, said to have been found by her on the ninth of the month beginning 2,384 and never touched
+   — **that day is open, see the second review below, and this line is not to be read as settling it** —
+   and that she
+   **cannot tell him what it is for**. Every card withholding the second place from him — 781, 782, 790,
+   and the whole *the seat* pressure of Batch 0002 and *the keeping* of Batch 0003 — was built on a false
+   premise. **Both files now carry the true knowledge state: he has it, in her words, and the open thing
+   is who, not whether.** Batch 0002 and 0003 are stronger for it, not weaker, and neither was re-planned.
+   **One asymmetry is now recorded that the plan had missed entirely: at ch 758, in the ninth frame scene
+   and away from her hearing, he worked out by himself that the shape in the wood is his own shape and said
+   so. She does not know he said it.** He holds one thing she has not told him; she holds one he has not
+   asked for; neither knows it, and neither finds out in this batch.
+5. **Four of ch 781's beats were already spent in ch 780.** The whole arithmetic given aloud (780:67–83,
+   111–129) was card 781's decision and card 789's reveal; *a hand's width of itself along the near end of
+   that long table and went no further* (780:53) was card 781's reveal; *he looked at her for a count of
+   nine* (780:57) was card 790's *counted to nine*; the finding of the worn place (780:87–107) was card
+   781's ending hook. **Four cards were rewritten, not one, and the four spent beats are now named in the
+   prompt as spent, with line references, so no card can stage them again.** New spines: **ch 781 The
+   Fare** (the oil as fare, an allocation rather than an answer — retitled from *The Worn Place Worn Again*,
+   which named a beat that no longer happens) · **ch 786 Forty Empty** (the forty boards already under the
+   middle of that table, read in oil for the first time and unaccountable for) · **ch 789 Under The Table
+   In Oil Light** (that wood has never been in light; he reads it off the wood, not off her mouth —
+   retitled from *Hands In Oil Light*) · **ch 790 The Far End Of The Table** (twenty-two paces of dark
+   floor, a lamp in one hand, the first light at the far end since the lamp went out — retitled from *What
+   He Sees* and moved off looking-at-her entirely, since 780:57 spends the count of nine).
+6. **Ch 792's title duplicated a standing heading.** *Nine Hundred And Four In The Dark* is exactly ch
+   779's (`chapters/volume-13/chapter-0779.md:1`), against the prompt's own requirement of 15 titles
+   unique against all 780 standing headings. The other 14 were free and were re-measured as free.
+   **Retitled *The Lamp Down Nine Hundred And Four*** — six words, a name, free against all 780 — and the
+   beat re-anchored, because 779 and ch 754 and ch 755 have already settled that number three times. The
+   chapter is now the first light ever carried down nine hundred and four steps and back, four days out
+   from the bundle day, and the 904 is carried rather than re-derived.
+
+### A seventh defect the review did not raise, found while fixing the sixth
+
+7. **The prompt counted the firsts of a month wrongly.** It carried *First of a month in the batch: 2,564
+   (one)* and instructed *carry one first of a month (day 2,564, between ch 787 and 788)*. **There are
+   two: 2,564 and 2,594.** 2,594 is the first of the month beginning 2,594 and it falls inside the gap
+   between ch 792 (2,590, the 27th of 2,564) and ch 793 (2,598, the 5th of 2,594) — a gap the plan's own
+   day table created and did not notice. The prompt now carries both, states which gap each falls in, and
+   requires ch 792 and ch 793 between them to land it. **This also revealed a third card that could not
+   be drafted as written: card 786 at day 2,559 had the protagonist watching a bundle come up, and no
+   bundle comes up on 2,559, because bundles come on the first.** Card 786 was re-anchored to the forty
+   boards already under the middle of that table, and the bundle arrival was moved to the end of ch 787
+   crossing into the fourth hour of 2,564, with ch 788 opening on the morning after. No day moved.
+
+### Three moderate findings, fixed
+
+8. **The owed archive pass had no owner in the next phase.** INDEX, continuity and current all recorded
+   it as owed before Batch 0002, but Batch 0001's *After the batch* list did not schedule it while
+   instructing the writer to grow `current.md` (5,909 lines) and `continuity.md` (10,157). **The Batch 0002
+   creation instruction now carries it as that prompt's first job, before the ch 796–810 cards**, with the
+   reason: it is mechanical, it carries its own risk of archiving a block that is still the live position,
+   and it belongs to a writer who has a whole batch in front of them rather than at the end of a batch
+   that has just finished.
+9. **A silent rule change.** The outline had the one at the table speak twice, on the volume's two largest
+   beats, and flagged it nowhere. **It is now flagged as a first, with the history corrected by the page:
+   the figure has one hand, one look (spent ch 776) and exactly one speech — the amending offer at ch 772,
+   on the page, in her hearing, in her own POV, with a speech tag and the word *they*, not a frame scene
+   and not a report.** The review recorded no speech at all in 780 chapters; that is wrong and the repair
+   does not repeat it. Volume 14 takes it from one speech in seven hundred and eighty chapters to three,
+   and three consequences are now binding on the cards: **the speech is a cost paid in the look, which was
+   spent at ch 776 and does not come back and is not restored by speaking**; **both new speeches land after
+   IV8 at ch 809, so the stages at 74, 68 and 66 days and this change are separate events and no chapter
+   may write them as one**; and Volume 14 does not get to make it warm or kindly, because at ch 772 it was
+   correct and unhelpful and offered once, and she refused it at ch 777.
+10. **Card-shape monotony.** Twelve of fifteen cards were *Power: none*, eleven in the same room, and the
+    only physical movement was ch 784 and ch 792, neither of them a deadline. **The batch now runs on a
+    clock and the clock is built out of facts already on the page, with no new machinery.** The fare is
+    the trip: a lamp lit in that room is a lamp not lit below the line, there is no oil in that building
+    and none for nine years and none on that mountain, so he is spending his own store to be in a dark
+    room and she is the reason. **The deadline is day 2,594, the first of the month beginning 2,594 — four
+    days after ch 792 and four days before ch 793** — because he has counted forty boards coming *off* that
+    table at ch 750 and has never seen forty go *on*, and that is the one day a month the room is worked
+    in front of a person. ch 782 names it, ch 783 makes staying depend on it, ch 788 makes the one-day-in-
+    twenty drift decide whether he makes it and he cuts his visits to keep his own count true, ch 792 tests
+    the oil down nine hundred and four steps four days out, and ch 795 spends the last of what he has.
+    **The ch 795 irreversible step keeps its words exactly — she lets the oil lamp stay in the room and the
+    dark is no longer hers alone and it cannot be un-let — and gains a price it did not have: she is
+    committing the room to a light out of the last of his oil, which nothing in the batch replaces. The
+    dark stops being hers alone and starts being hers and dying.** The batch now has three scenes of
+    physical risk (ch 784 a lit lamp on a rail-less stair, ch 790 twenty-two paces of dark floor, ch 792
+    nine hundred and four steps with a flame in her hand), two bundle days, and a deadline that costs a
+    character something before the climax.
+
+### What this repair did not touch
+
+**No chapter was opened for editing and no figure on the page was moved. The four Volume 13 close defects
+are carried as unquotable and are still unquotable. No new final enemy, no new stage, no new cost, no
+bracket, and nothing of Volumes 15–16.** The title *The Lamp Stays* and the ch 793 and ch 795 climaxes
+stand as planned. `state/open-threads.md` records the corrected second-place knowledge state and the
+added ch 758 asymmetry. The reading order in `state/INDEX.md` is intact and the archive pass is still
+owed before Batch 0002 — **this repair did not run it either, and says so rather than implying it did.**
+
+### VOLUME 14 PLANNING — SECOND REVIEW, applied 15 Oct 2026, and what the first repair got wrong
+
+**A second review pass was run against the first repair and found ten defects the first repair had
+introduced or left. All ten are fixed. None of the plot moved and no date, stage, batch range, chapter
+range, midpoint, climax, irreversible step or cost moved.** The record below is kept because the first
+repair's own claims were wrong and a future phase must not inherit them.
+
+**The first repair invented two facts about the world and both are struck.**
+
+1. **It gave the boy Yuan's scene at ch 758.** The first repair wrote, in three files, that at ch 758 the
+   boy worked out that the shape in that wood is his own shape and said so, and that she does not know it.
+   **That is false.** Ch 758 is dated the fifth of the month beginning 2,444, it is a frame scene away from
+   her hearing, and the shape is *his* — **Yuan's** — and he says *That is mine* on the page
+   (758:3, 57, and the section at 758:43–51). The boy was not in it and does not know it happened. **The
+   boy's own two notices of the second place are ch 749 and ch 780.** All three files now say so and the
+   false asymmetry is struck in each.
+2. **It justified the new deadline by saying the boy had never seen forty boards go on.** **He had.** He
+   watched a bearer put forty boards down: `chapter-0741.md:29` and `chapter-0749.md:33`. And the forty he
+   counted at ch 750 came **off** that table but on a copying floor four miles down the mountain
+   (`chapter-0751.md:75`, `chapter-0754.md:105`, `chapter-0750.md:13`). **The deadline's justification is
+   gone and has been replaced with the room's own clock**, which is on the page: a hand goes into that cage
+   at the second hour of the second of every month, the light comes down two of her own hand a day out of
+   fifty-eight, fifty-eight divided by two is twenty-nine, so the light comes down to that cut **on the
+   first of a month**. She has not put a hand in since the first of 2,534 and the lamp went out on that
+   same first, so the clock strikes on nothing, and on both firsts in this batch the only light in that
+   building is a boy's oil. **No new motive is invented; what he wants is already on the page and is
+   already stated at ch 780.**
+
+**Two arithmetic contradictions the first repair wrote into the outline.**
+
+3. **It asserted the oil was gone by 2,594 and then lit a lamp at 2,598 and filled a cup at 2,600.** That
+   is impossible and the first repair's own text sat sixteen lines from its own contradiction. **No
+   exhaustion date is asserted anywhere now.** Ch 795 fills the cup out of **what he carried up and did not
+   use**, and it goes down the stair with him when he goes — so the irreversible step's price is that the
+   light in that room is now **owed** rather than hers, which is a better price and needs no figure. **No
+   card states a burn rate, a cups-per-day figure, or an hour the oil runs out: none of those is on the
+   page, and a figure with no derivation is the defect this manuscript has been repairing since ch 764.**
+4. **It said *days go by the light and the light is the room's*** in the new deadline paragraph, in a volume
+   whose own D6 fixes that the lamp is never relit. Corrected to *a day goes by the count of it and the
+   count is hers*, with neither currency converted into the other.
+
+**Four contradictions inside the outline's own new section.**
+
+5. **D2 said the figure at the table *does not speak again until the climax*,** and the speech paragraph put
+   one on the ch 826 terms page — and the climax is ch 836–838. D2 now states the two accurately and says
+   both are **answers and not offers**, neither out loud.
+6. **The speech paragraph promised three speeches and then forbade a third.** *No third speech* would have
+   forbidden the ch 838 acceptance it had just required. Now: no speech **beyond the two named above**.
+7. **It said the figure had not spoken in the four hundred years of Volume 14's opening.** It spoke **thirty-
+   five days before the last page of Volume 13**, at ch 772, which is on the page and dated. Corrected.
+8. **D2's citation was wrong** — it pointed at `outline/ending.md` §7 milestone 8, and ending §7 is *Final
+   chapter image* with no milestone in it. Milestone 8 is `outline/series.md` §7 item 8. Corrected, with
+   the error noted.
+
+**One pre-existing planning contradiction the first review missed and this pass found.**
+
+9. **Immortal Vessel 8 sat outside its own batch.** Ch 809 is dated **2,666**; Batch 0002 was stated as days
+   **2,601–2,660**, so the stage sat six days past the end of the batch that names it the climax, in the one
+   table a drafter trusts. **Batch 0002 is now 2,601–2,666 and Batch 0003 is 2,667–2,720.** 0001 and 0004
+   are unchanged. **No chapter range moved**, the four batches still cover 781–840 with no gap and no
+   overlap, and each of the three stages now sits inside its own batch. This also corrects the range the
+   Batch 0001 prompt hands to the Batch 0002 creation instruction.
+
+**One canonisation the first repair performed and has now undone.**
+
+10. **The first repair stated as settled fact that she found the second place on the ninth of the month
+    beginning 2,384.** That is ch 780's figure — day 2,392. **The page stages the discovery at ch 724, at
+    the sixth hour of the twenty-third of the month beginning 2,294, which is day 2,316, seventy-six days
+    earlier** (724:77–81), and ch 758's own hundred-and-forty-eight-days figure resolves from a third
+    anchor again. **This is the exact failure the Volume 13 close recorded against the bar's put-down day,
+    where a close canonised one chapter's figure without noticing that another chapter disagreed. All three
+    files now carry the conflict as open and forbid any card from stating a day for the finding.**
+
+**Four smaller fixes, three of them also first-repair errors.** Ch 787 was restaging a ch 777 discovery —
+that she has been saying the second of the six terms in lamplight for 226 days — which `chapter-0777.md:47`
+puts on the page and `chapter-0778.md:7` closes; the card is re-anchored to the harder and different
+problem, that there is no daylight and no lamp and the term can now not be kept at all. Ch 790's card had
+the far end dark **since the second** of the month beginning 2,534; the light went out on the **first**
+(780:3, "gone out six days before" the seventh), and the interval at 2,575 is forty-one days. Ch 786
+carried **twenty-one** paces where the page and the rest of the plan say **twenty-two** (780:53), and its
+ending question did not follow from its reveal; both are corrected and the card is re-anchored to the forty
+boards under the middle of that table, of which she has taken three herself (ch 754, ch 772, ch 776).
+Ch 792's ending was the neutral confirmation *it works* and is now the turn it should be — the bottom of
+that stair has been in light for the first time in four hundred years. Ch 788 opened "the morning after"
+a day three days earlier and now opens three days after. The prompt's own summary of its repair said *six
+defects and one more* over a list of nine, and now says nine plus three cross-file conflicts.
+
+**Two items recorded and deliberately not acted on.** **The bar's dust is named once, at ch 721** (721:83,
+87), not at ch 781 as both the outline and the prompt had it — **so ch 781 may not name it**, and both files
+now say so. **`outline/volume-13.md` says the four hundred bound people begin in Volume 14** while
+`outline/ending.md` §1 requires only *by Volume 16* and this outline says Volume 15; **Volume 13 is closed
+and is not edited here, and the conflict is recorded rather than resolved.** `bible/characters.md`'s line
+about him issuing quests, which `series.md` §7 puts at Volume 8, is likewise noted and not edited.
+
+**Where the batch stands.** Fifteen cards, days 2,541–2,600, pressure the oil running out against the room's
+own first-of-a-month clock, two firsts at 2,564 and 2,594, three scenes of physical risk (ch 784 a lit lamp
+on a rail-less stair, ch 790 twenty-two paces of dark floor, ch 792 nine hundred and four steps), midpoint
+ch 788, climax ch 793 with IV7 and its cost named once, irreversible step ch 795. **The monotony finding is
+half-answered and is recorded as such: `Power: none` still stands on twelve of fifteen cards and thirteen of
+fifteen are still in that room.** The fix for that is a drafting judgement and not a plan defect, and no
+stage is available inside Batch 0001 to break it, because IV7 is at ch 793 and IV8 is at ch 809 in Batch
+0002.
