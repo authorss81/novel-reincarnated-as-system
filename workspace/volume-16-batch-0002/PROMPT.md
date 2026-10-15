@@ -97,6 +97,11 @@ sweep again before closing, not after.
 - **She did not stop him, day 2,982, standing, in the ordinary voice, in the channel.** Not right or wrong. Done.
 - **She left the making-place, day 2,996, with the lamp, and does not come back to it in this volume.** The
   register sits on its table; she carries no stone down.
+- **She left her own room, day 2,825, the twenty-second of the month beginning two thousand eight hundred and
+  four** (ch 855 has it five times; ch 860 counts back eleven days to it). **Ch 889, in closed Volume 15, gives
+  2,864 — day 2,885 — and is the outlier, because on its own arithmetic its *over two months* is thirty-nine days.**
+  Ch 889 is not this batch's to edit. **Any figure counting from that leaving counts from 2,825 and not from 2,885;
+  do not pull ch 910's one hundred and fifty-nine or ch 911's one hundred and sixty-two back to 99 and 102.**
 - **Peak of Immortal Vessel, ninth shut, day 2,939 · Lu An bound, day 2,939**, said out loud first, standing, by her
   and no other mouth. **The price is on the record and nobody told him.**
 - **The four months named once at ch 873 and never again.** The next time they are named in this book is ch 1000.

@@ -23,7 +23,7 @@ Eight flights and a stair below her, a room was doing the thing it had done six 
 
 She did not go down.
 
-She had not been in that room in one hundred and fifty-nine days. She had left it on the first of the month beginning two thousand eight hundred and twenty-five with six terms said out loud standing and had gone up a stair that did not stop at nine, and she had not gone back down in all the time since, and the room had run on firsts in her absence every time and nothing had changed.
+She had not been in that room in one hundred and fifty-nine days. She had left it on the twenty-second of the month beginning two thousand eight hundred and four with six terms said out loud standing and had gone up a stair that did not stop at nine, and she had not gone back down in all the time since, and the room had run on firsts in her absence every time and nothing had changed.
 
 [Forty boards are taken up nine hundred and four steps on the first.]
 

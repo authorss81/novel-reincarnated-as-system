@@ -4272,7 +4272,9 @@ and a later phase that wants him inside the nine days has to record that it is m
 
 ## VOLUME 16 BATCH 0001 CLOSED at ch 915 — *the answer* is his, and it is yes
 
-**Fifteen chapters, days 2,961–2,999, 27,343 words of body prose on method B, average 1,823, two bracketed layer lines (ch 904, 910), midpoint ch 908, climax and irreversible step ch 912. Recorded by the drafting phase, which repaired twenty-nine date and figure faults on the page (full list in `state/continuity.md` under *VOLUME 16 BATCH 0001*). The next phase is `workspace/volume-16-batch-0002/PROMPT.md`, ch 916–930, days 3,002–3,040, pressure *the tax*.**
+**Fifteen chapters, days 2,961–2,999, 27,343 words of body prose on method B, average 1,823, two bracketed layer lines (ch 904, 910), midpoint ch 908, climax and irreversible step ch 912. Recorded by the drafting phase, which repaired thirty date and figure faults on the page — twenty-nine of its own, and one month-begin in ch 910 caught by the batch's review, which moved no day, no interval and no word count (full list in `state/continuity.md` under *VOLUME 16 BATCH 0001*). The next phase is `workspace/volume-16-batch-0002/PROMPT.md`, ch 916–930, days 3,002–3,040, pressure *the tax*.**
+
+**One date is pinned at the top of this block because two chapters disagree and a later phase will meet both. She left her own room on day 2,825, the twenty-second of the month beginning two thousand eight hundred and four. Ch 855 has it five times and ch 860 counts eleven days back to it. Ch 889, in closed Volume 15, says the twenty-second of the month beginning 2,864 — day 2,885 — and is the outlier: on its own arithmetic it is thirty-nine days, which is not *over two months*. Ch 889 is not this batch's to edit and was not edited. Count every interval from that leaving off 2,825; do not pull ch 910's 159 or ch 911's 162 back to 99 and 102.**
 
 | Thread | State at ch 900 | State at ch 915 | Owner after Batch 0001 |
 | --- | --- | --- | --- |
@@ -4284,6 +4286,7 @@ and a later phase that wants him inside the nine days has to record that it is m
 | **Her question** | never asked of her by anyone | **asked at ch 915 by him: what does she want; unanswered** | open. She carries it into Batch 0002 |
 | **The boy** | bound, untold, below | **on the page once (ch 907), oil on his hands, still told nothing** | carried. Still untold |
 | **The firsts** | next thirty days off | **2,984 run without her (ch 910); nothing changed** | open. Next first thirty days off |
+| **The day she left her room** | given twice in Volume 15 and not once consistently | **pinned to 2,825 at this review (ch 855, ch 860; ch 889's 2,885 is the outlier) and used by the 159 and the 162** | closed as a figure. Volume 15's ch 889 may be corrected only by a Volume 15 repair |
 | **His ch 812 yes** | stands, untold | **stands, untold** | stands |
 | **The count** | stands | **stands; never re-said** | stands |
 | ***Work that matters*** | unnamed | **named (ch 906), never defined** | open. Batch 0002 defines it, and it is his discovery |
