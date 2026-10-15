@@ -1710,3 +1710,105 @@ goal is unchanged and met: she refused the thing Yuan was offered and refused, s
 and the refusal went down nine hundred and four steps in a cloth with forty boards on the top of them and cannot be
 called back. The wound Volume 15 inherits is unchanged: he is readable and said yes where she cannot hear, she said
 no twice where everything can hear, and the page is in a hand that has read what is on it.
+
+---
+
+## VOLUME 15 PLANNING — what the plan fixed, what it refuses, and what Batch 0001 inherits
+
+**Recorded 15 Oct 2026. Planning phase. No chapter prose was written and none may be. Deliverables:
+`outline/volume-15.md` · `outline/batches/volume-15-batch-0001.md` through `0004.md` · and exactly one next
+phase prompt, `workspace/volume-15-batch-0001/PROMPT.md`.**
+
+### The starting position, re-measured off the committed page
+
+**Volume 14 is CLOSED ON THE PAGE: ch 781–840, sixty files, days 2,541–2,780.** Body prose by method B (`grep -v
+'^#' <file> | wc -w`, counted per file and summed) re-measured at drafting time of this plan: **31,117 · 29,402 ·
+30,995 · 30,016 = 121,530 over sixty at an average of 2,026**, which is the figure `state/current.md` and
+`state/chapter-summaries.md` both carry and which reproduces. **Zero bracketed layer lines in sixty.** Three
+stages at days 2,598 · 2,666 · 2,732. One frame scene, ch 812. Irreversible steps at ch 795, 810, 822, 838.
+
+### The eleven things the plan fixed, and each one is binding on every card
+
+1. **The movement is upward and it is inside the building she is standing in.** Nine landings above her room and
+   a stair that does not stop at nine. **Nothing in fifteen volumes has ever been above her.**
+2. **She counts the landings and not the steps, and says why out loud at ch 843.** **No card states a step count
+   for that stair and none may.** This is the plan's own defence against a figure with no derivation.
+3. **The cells at ch 848.** Every room has a kept place at the far side and nobody in any of them. **Her room is
+   not a room, it is one of hundreds.**
+4. **The first of a month at 2,804, at ch 850, with her nine landings above it.** The room runs without her. Five
+   firsts inside Volume 15 — **2,804 · 2,864 · 2,894 · 2,924 · 2,954** — and a bundle comes up the second stair on
+   every one of them.
+5. **The address at ch 863**, `outline/series.md` §7 milestone 8, spent once, by the only mechanism available: a
+   fragment is carried by its layer and the layer's only instrument in the world is the Chosen One.
+6. **Announcement at ch 866, taken on purpose and not asked for.** Cost named once: **he can be anywhere but
+   inside her, and she can hear his half.**
+7. **The moral answer at ch 878 and ch 885, delivered once**, worked out of her own arithmetic and not out of a
+   mouth, with the reversal that **his share of the tax is the small part and being wrong does not make him
+   right.**
+8. **The peak of Immortal Vessel at ch 894, day 2,939, two hundred and seven days after the ninth.** Not a tenth
+   stage. Cost named once: **she cannot finish the ninth without a person in her arithmetic.** One bound, the
+   boy, whose name is asked for at ch 890 because a record with nothing in it is not a record. **The fourth term
+   is kept: the binding is said out loud, standing, in the ordinary voice, before the layer writes it.**
+9. **She reaches it at ch 892**, and the bargain is on the table at ch 900 and unanswered.
+10. **Nobody dies in Volume 15.** Fifteen volumes of deaths, and the sixty chapters in which she finds out what
+    the deaths were for have nobody die on the page. Merit settles once, at ch 884, off the ground, never on a
+    death, no figure stated, balancing ch 839's.
+11. **Brackets return: three in sixty**, one in each of Batches 0001–0003, none in ch 886–900, every one an
+    announcement in the plain report grammar and never an explanation. Volume 14 spent zero and gave the reason —
+    above the line the layer is not in the room — and Volume 15 is the volume the layer is in.
+
+### Four decisions that were open on the page and are now decisions
+
+1. **Whether the boy's name would ever be given.** Volume 14's thread said the open question was who, not
+   whether. **The plan asks it at ch 890 and makes it the price of the peak, not a sentiment**, and no card may
+   give him a name before that chapter or use it before ch 894.
+2. **Whether the bearer's name would ever be given.** `outline/volume-14.md` fixed him as *no name*. **Volume 15
+   asks at ch 857 — the first name she has asked for in nineteen years — and he says it, and she does the
+   arithmetic in her mouth instead of on a board.**
+3. **Whether Volume 15 would leave the room.** It does, at ch 855, and does not come back down in this volume.
+   **The room is left exactly as she leaves it and the plan fixes what that means**: three boards face up a foot
+   in from the near end, the terms board a foot further along, the strip of pale wood under the table, the bar
+   against the wall on the left, the bundle under the far end corded twice, the cage lamp out in its cage.
+4. **Whether the ch 828 cost travels.** It does, **as a fact and not a lesson**, and no card stops to define it.
+
+### What the plan refuses, so that a later phase does not spend it
+
+The bargain's acceptance and his four minutes (`outline/ending.md` §2) · **the discovery that the bargain requires
+the Foundation tax kept running, which is §3's turn and happens in Volume 16 — he may hear the tax in Volume 15
+and may not notice that the bargain needs it, and no card may put the two in the same sentence** · his apology ·
+her ending of the layer · whether Ning Wu forgives · **whether the Scribe was sincere, which §6 fixes as
+unadjudicated and which no card may soften into a villain or harden into a saint** · the second place, kept and
+empty and refused twice · the second term *in daylight*, spent at ch 830 · the six terms and no seventh · the
+finding day of the second place, the gap in the wear, and whether the fair hand and the third hand are the same
+hand, all three still open · the bundle under the far end, never opened · the bar, dated nowhere.
+
+### The day table, machine-checked before this record was written
+
+**Sixty chapters, days 2,781 to 2,960, one hundred and seventy-nine days.** Every ordinal derived under
+`((day − 134) mod 30) + 1` from day 134 the first of a month: 841 2,781 eighth of 2,774 · 842 2,783 tenth · 843
+2,786 thirteenth · 844 2,789 sixteenth · 845 2,792 nineteenth · 846 2,795 twenty-second · 847 2,797 twenty-fourth ·
+**848 2,799 twenty-sixth** · 849 2,802 twenty-ninth · **850 2,804 first of 2,804** · 851 2,808 fifth · 852 2,812
+ninth · **853 2,816 thirteenth** · 854 2,821 eighteenth · **855 2,825 twenty-second** · 856 2,826 twenty-third ·
+857 2,829 twenty-sixth · 858 2,831 twenty-eighth · 859 2,833 thirtieth · 860 2,836 third of 2,834 · 861 2,839
+sixth · 862 2,841 eighth · **863 2,843 tenth** · 864 2,846 thirteenth · 865 2,849 sixteenth · **866 2,852
+nineteenth** · 867 2,855 twenty-second · 868 2,858 twenty-fifth · **869 2,864 first of 2,864** · **870 2,870
+seventh** · 871 2,871 eighth · 872 2,874 eleventh · 873 2,877 fourteenth · 874 2,880 seventeenth · 875 2,883
+twentieth · 876 2,886 twenty-third · 877 2,889 twenty-sixth · **878 2,892 twenty-ninth** · **879 2,894 first of
+2,894** · 880 2,897 fourth · 881 2,900 seventh · 882 2,903 tenth · 883 2,906 thirteenth · 884 2,909 sixteenth ·
+**885 2,915 twenty-second** · 886 2,916 twenty-third · 887 2,919 twenty-sixth · 888 2,922 twenty-ninth · **889
+2,924 first of 2,924** · **890 2,927 fourth** · **891 2,930 seventh** · **892 2,933 tenth** · 893 2,936 thirteenth ·
+**894 2,939 sixteenth** · 895 2,942 nineteenth · 896 2,946 twenty-third · 897 2,951 twenty-eighth · **898 2,954
+first of 2,954** · **899 2,957 fourth** · **900 2,960 seventh**. **No two chapters on one day and no step back
+anywhere in the volume.**
+
+**The interval on the peak, checked the same way: 2,939 less 2,732 is two hundred and seven days**, and the plan
+says out loud in her mouth why two hundred and seven and not sixty-six — the ninth was taken against a refusal
+and this is taken against a person, and a person is not got in a hurry.
+
+### Where Volume 14 Batch 0004's six findings stand
+
+**All six were closed on the page before this plan was written and none is carried forward as open.** The day
+table's ch 829–834 correction is Volume 14's and Volume 15 does not quote any of those days. The date the page was
+written, the seventh of the month beginning 2,744, day 2,750, is Volume 14's and is not restated. **The male-lead
+deviation is recorded and stands and is not re-opened by this plan.** Phase-closure markers in
+`workspace/volume-14-batch-0004/` are the controller's and were not touched.

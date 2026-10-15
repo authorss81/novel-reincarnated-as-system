@@ -4,7 +4,7 @@
 
 ## How to read this file
 
-**THE LIVE POSITION IS AT THE FOOT OF THIS FILE: `## Who is where at end of chapter 765 — VOLUME 13 BATCH 0003 WRITTEN AND REPAIRED`.** Volume 13, *The Immortal Court*, ch 721–780, is in progress: **Batch 0001 (ch 721–735, *the bundles*, 29,923 words of body prose on method B), Batch 0002 (ch 736–750, *the row*, 30,152) and Batch 0003 (ch 751–765, *the measure*, 30,988) are all on the page**, forty-five chapters at **91,063 words and an average of 2,024**, days 2,301 to 2,480, **zero bracketed layer lines across all forty-five chapters**, Immortal Vessel 4 taken at ch 746 on day 2,403 at one hundred and thirteen days and Immortal Vessel 5 at ch 761 on day 2,461 at fifty-eight days, one irreversible step per batch at ch 735, ch 748 and ch 763. **All three batches have been reviewed and repaired; the Batch 0003 repair closed nine findings plus a tenth repetition it found itself, and full record is in `state/continuity.md` under *VOLUME 13 BATCH 0003 — REVIEW REPAIR*.** **The next phase is `workspace/volume-13-batch-0004/PROMPT.md`, Volume 13 Batch 0004, ch 766–780, days 2,481–2,540, pressure *the second look*, and it is the last batch of Volume 13.** Do not edit any of the run's controller files.
+**THE LIVE POSITION IS AT THE FOOT OF THIS FILE: `## Volume 15 planned — outline/volume-15.md exists and what the plan fixed`.** Volume 14, *The Scribe's Apprentice*, ch 781–840, **IS CLOSED ON THE PAGE: sixty chapters, days 2,541–2,780, 121,530 words of body prose on method B, average 2,026, zero bracketed layer lines in sixty, three stages at days 2,598 · 2,666 · 2,732, one frame scene at ch 812, irreversible steps at ch 795 · 810 · 822 · 838, and the volume goal met.** Volume 15, *The Scribe*, ch 841–900, is **PLANNED** in `outline/volume-15.md` with four batch cards in `outline/batches/`. **The next phase is `workspace/volume-15-batch-0001/PROMPT.md`, Volume 15 Batch 0001, ch 841–855, days 2,781–2,825, pressure *the light, going up*, and it is the first batch of Volume 15.** Do not edit any of the run's controller files.
 
 
 This file is **append-only and long, and most of it is history.** You do not need all of it to write.
@@ -1008,3 +1008,122 @@ written on the seventh of the month beginning 2,744 and goes down at 2,774. **Th
 · 837 2,760 · 838 2,774 · 839 2,776 · 840 2,780**, with one step back, at ch 827, and no two chapters on one day.
 It is also `outline/volume-14.md` Corrections item six. **Volume 15 planning must use that table and not the one
 in Corrections item five, whose ch 829–834 cells are struck.**
+
+## Volume 15 planned — `outline/volume-15.md` exists and what the plan fixed
+
+**A cold reader starts here. This block supersedes *Who is where at end of chapter 840* above it wherever the two
+differ.** Recorded 15 Oct 2026 by the Volume 15 planning phase. **No chapter prose was written in this phase and
+none may be. The three deliverables are `outline/volume-15.md`, four card files in `outline/batches/`, and one
+next-phase prompt, `workspace/volume-15-batch-0001/PROMPT.md`.**
+
+**Volume 14 is CLOSED ON THE PAGE.** ch 781–840, sixty chapters, days 2,541–2,780, **121,530 words of body prose
+on method B, average 2,026**, four batches at 31,117 · 29,402 · 30,995 · 30,016. Three stages at days 2,598 ·
+2,666 · 2,732 at intervals of 74 · 68 · 66. One frame scene at ch 812. Irreversible steps at ch 795, 810, 822 and
+838. **Zero bracketed layer lines in sixty.** The volume goal is met and was met on the page: she refused the thing
+Yuan was offered and refused, said out loud at ch 822 and written on a leaf and sent down nine hundred and four
+steps at ch 838.
+
+### What the plan fixed, and what it did not touch
+
+**Fixed by `outline/series.md` §9 and not re-planned here:** *The Scribe*, ch 841–900, and the goal *In this
+volume, Ning Yan must reach it, or the argument is never had.* Sixty chapters.
+
+**The question Volume 15 is planned out of, carried verbatim from the Volume 14 close:**
+
+> He is readable now by the thing that made him, and he said yes once where she could not hear it, and she said
+> no twice where everything could hear it. The refusal went down the stair in her own hand and the bundle came
+> back empty. **The question is not whether the Scribe heard. It is what a thing that reads does with a no.**
+
+1. **The movement is UP, inside the building she has been standing at the top of for four hundred and seventy-nine
+   days.** She has been reading the incoming end of the announcement layer since she was seven years old and has
+   never once asked where the sentences are made. **There is more building above her room: nine landings and a
+   stair that does not stop at nine.** Nothing in fifteen volumes has ever been above her and it is a building and
+   not a ceiling.
+2. **The cells, at the batch midpoint, ch 848.** Every room has a table, a cage lamp, forty boards, a bundle, and
+   **at the far side a kept place of the length of a forearm that nobody has ever sat in.** Her room is not a room.
+   It is one of hundreds, and the only reason hers was different is that somebody was in it.
+3. **The address, at ch 863, and it is `outline/series.md` §7 milestone 8 spent once.** The Scribe addresses him
+   directly and she hears it happen. **The mechanism is fixed and no card may substitute another: a fragment of a
+   layer is carried by that layer and cannot step outside it, and the layer's only instrument in the world is the
+   Chosen One, and there has been exactly one at a time for fifteen years and it has been her.**
+4. **He takes Announcement at ch 866, on purpose, without asking her, and it cannot be un-taken.** Cost named
+   once: **he can be anywhere but inside her, and she can hear his half.** `outline/ending.md` §1 requires this and
+   requires that he has been doing it on purpose since Volume 14; `outline/ending.md` §2 requires that by Volume 16
+   he can no longer keep her out of his half of the conversation, deliberately, and the mechanism is in place here.
+5. **The moral answer is Volume 15's and is delivered once, at ch 878 and ch 885.** The walls protect the Anchor,
+   the accumulated will of every soul that ever died believing it could ascend; unbounded ascent drains it; the
+   Scribe is not lying about this. **She works it out of her own arithmetic across nine chapters and nobody in the
+   world tells her anything.** The reversal that turns the volume: **his share of what has been taken out of her
+   foundation is the small part of it and the rest went into the ceiling** — she has been angry at the wrong thief
+   for fifteen volumes and being wrong does not make him right.
+6. **The peak of Immortal Vessel at ch 894, day 2,939, two hundred and seven days after the ninth.** Not a tenth
+   stage, no numbered step, no announcement, no tribulation. Cost named once: **she cannot finish the ninth
+   without a person in her arithmetic.** One person bound — the boy, whom nobody sends and nobody enters and
+   nobody but her binds, and whose name she asks for at ch 890 three chapters earlier because a record with
+   nothing in it is not a record. **She says the binding out loud first, standing, in the ordinary voice, before
+   it is a line anywhere. The fourth term is kept; the damage is entirely in the audience and not at all in the
+   method.**
+7. **She reaches it at ch 892.** The making-place: a table, no cage lamp, no wear, and a place at the far side with
+   nothing worn at all, because nobody has ever needed keeping there. The other end of the trade; her room has been
+   the receiving end for four hundred years.
+8. **The bargain is on the table at ch 900 and is unanswered.** It arrives on the making-place's own register, she
+   reads every line of it out loud twice, **there are no conditions in it at all, and every part of it is a mercy,
+   and none of it is a lie, and it is made in good faith, and the book does not adjudicate whether the Scribe was
+   sincere.** She asks, standing, in the ordinary voice: **who pays.** She does not refute the answer and does not
+   accept it. **The argument has been had and the volume goal is met.**
+9. **The last thing she does is the thing she has never done.** She asks him what he wants. He does not answer.
+   `outline/ending.md` §2 puts his acceptance, for about four minutes, at the head of Volume 16.
+
+### The four batches, fixed
+
+| Batch | Chapters | Days | Pressure | Midpoint | Climax | Irreversible step |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0001 | 841–855 | 2,781–2,825 | the light, going up | ch 848, the cells | ch 853, the stair does not stop at nine | **ch 855, she leaves the room and does not come back down in this volume** |
+| 0002 | 856–870 | 2,826–2,870 | the address | ch 863, the address | ch 870, she wants it for him | **ch 866, he takes Announcement without asking her** |
+| 0003 | 871–885 | 2,871–2,915 | the ceiling | ch 878, the Anchor | ch 885, it is right and she has to live inside it | **ch 885, she says the count out loud where the ceiling can read it** |
+| 0004 | 886–900 | 2,916–2,960 | the bargain | ch 891, the ninth is not finished | ch 899, the argument is had | **ch 894, the peak, and one person bound** |
+
+**The volume runs days 2,781 to 2,960, one hundred and seventy-nine days, sixty chapters, no two chapters on one
+day and no step back anywhere.** Every month-day in the table is derived under `((day − 134) mod 30) + 1` and
+reproduces. Firsts of a month in the volume: **2,804 · 2,864 · 2,894 · 2,924 · 2,954**, five of them, and a
+bundle comes up the second stair on each one whether or not she is in the room to hear it.
+
+### Where she is, unchanged, and what is added to her
+
+**IMMORTAL VESSEL 9** at ch 841, nineteen years old, three fingers and a thumb, right arm open four hundred and
+eighty-seven days and not going to close, seven of eleven holds, **1,222 days lighter at `D − 1,559`** and not one
+going back, 480 days in that room, not hungry. **Twenty costs carried whole and none re-derived here** — the
+fourteen from Volume 13 and before, she cannot be hidden by the dark (ch 793), she cannot be unread where she
+stands (ch 809), she cannot be alone in the room any more (ch 828), and **one more, named once at ch 894: she
+cannot finish the ninth without a person in her arithmetic.**
+
+**The ch 828 cost travels as a fact and is not re-explained.** It is carried out of the room as the fact that the
+second place is kept and the keeping is somebody's, and that somebody is not her and is not anybody she has met.
+**No card in Volume 15 stops to define it.**
+
+### Where he is
+
+**Yuan Sheng. Court, third rung — readable by the Scribe since ch 810, found, and not addressed — until ch 866,
+and Announcement from ch 866.** Said yes once in Volume 14 at ch 812 where she could not hear him, said out loud
+three times in her own hearing (ch 748, ch 780, ch 794), **and Volume 15 does not tell her about the yes.**
+No figure of what is left of him on any page and none may be. Every sentence he speaks is present tense. **No
+frame scene anywhere in ch 841–900.**
+
+### What the plan refuses to spend, and a later phase must not spend either
+
+The bargain's acceptance and his four minutes · his apology · the discovery that the bargain needs the Foundation
+tax kept running, which is `outline/ending.md` §3's turn and happens in Volume 16 · her ending of the layer ·
+whether Ning Wu forgives · **whether the Scribe was sincere, which the book refuses to adjudicate** · the second
+place at that table, kept and empty and refused twice · the second term *in daylight*, spent at ch 830, and no
+further daylight is found for it · the six terms, and there is no seventh · the day she found the second place,
+the gap in the wear, and whether the fair hand and the third hand are the same hand, **all three still open and
+none settled by any card in Volume 15** · the bundle under the far end, never opened · the bar, dated nowhere and
+not lifted · a step count for the stair above the room, a burn rate for the oil, and any distance in any unit
+between anything above the line and anything below it.
+
+### The next phase
+
+**`workspace/volume-15-batch-0001/PROMPT.md` — Volume 15 Batch 0001, ch 841–855, days 2,781–2,825, pressure *the
+light, going up*.** It drafts fifteen chapters and nothing else and creates exactly one prompt after itself,
+`workspace/volume-15-batch-0002/PROMPT.md`. **This phase created no second `workspace/volume-15-*` directory and
+no `.done` marker.**

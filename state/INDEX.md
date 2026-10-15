@@ -283,3 +283,21 @@ its first job, before the ch 796–810 cards, with the same counts measured befo
 starting now still reads, in this order: `outline/series.md` §9, `state/current.md` §*Volume 14 Batch 0001
 — REPAIRED* and §*Who is where at the end of Volume 13*, then `outline/volume-14.md`, then
 `workspace/volume-14-batch-0001/PROMPT.md`, then the Volume 13 close blocks.
+
+---
+
+## ADDED 15 OCT 2026 — Volume 15 planning
+
+**Three new sections, all in the hot files, none archived.** `state/phase-ledger.json` is controller-owned and was
+not touched, and no phase-closure marker in `workspace/` was created or cleared.
+
+| Section | File | Read it for |
+| --- | --- | --- |
+| `## Volume 15 planned — outline/volume-15.md exists and what the plan fixed` | `state/current.md`, at the foot | The live position, the eleven things the plan fixed, the four batches, and the next phase |
+| `## VOLUME 15 PLANNING — what the plan fixed, what it refuses, and what Batch 0001 inherits` | `state/continuity.md`, at the foot | The machine-checked day table, the moral-answer rules, and the list of things Volume 15 may not spend |
+| `## VOLUME 15 PLANNED — what it inherits, what it opens, and what Batch 0001 must not walk past` | `state/open-threads.md`, at the foot | The ten Volume 14 threads carried, the nine threads Volume 15 opens, and Batch 0001's bans |
+| `## VOLUME 15 PLANNED — *The Scribe*, ch 841–900. NO CHAPTER PROSE.` | `state/chapter-summaries.md`, at the foot | The four batches in one table and the fixed day table |
+
+**The cold-start pointer in `state/current.md` under *How to read this file* was corrected in place**: it named
+*Who is where at end of chapter 765 — VOLUME 13 BATCH 0003* as the live position, which stopped being true when
+Volume 13 closed. It now names the Volume 15 planning block. **Nothing was deleted and no historical block moved.**

@@ -334,3 +334,32 @@ Fifteen chapters, **30,016** words of body prose on method B, average 2,001. Per
 - **ch 840, day 2,780, the seventh. SIX TERMS IN THE DARK, FINAL IMAGE.** Bar unlifted four hundred and thirty-six days, boy asleep on the fourth landing, strip put back under the table, no stage and no writing and nothing sent. Voice in her head a person, readable now, not spoken to; both the readability and her two refusals stand. Six terms said, second one held a hundred and forty counts, meaning the stair. **Ending sentence about a person and a stair. VOLUME 14 WRITTEN.**
 
 **What changed that could not have changed before it:** **terms with one binding read out loud and not answered** · **ninth stage refused-into with the cost she cannot be alone** · **second term said in daylight for the last time** · **middle sentence that cannot be checked** · **terms read twice and found to be a schedule** · **book held and not opened to a blank** · **refusal written on the first of five** · **finding that nothing comes back up** · **decision to stand there anyway** · **one-time waiting and the lamp heard** · **refusal sent down and accepted as no binding, staying** · **merit settled once off the ground** · **six terms in the dark meaning the stair.**
+
+## VOLUME 15 PLANNED — *The Scribe*, ch 841–900. NO CHAPTER PROSE.
+
+**Recorded 15 Oct 2026 by the Volume 15 planning phase. Nothing is drafted. The volume outline is
+`outline/volume-15.md`; the cards are `outline/batches/volume-15-batch-0001.md` through `0004.md`; the one next
+phase prompt is `workspace/volume-15-batch-0001/PROMPT.md`.**
+
+Volume 14 closed on the page at **ch 781–840, sixty chapters, 121,530 words of body prose on method B, average
+2,026, days 2,541–2,780, zero brackets in sixty, three stages at 2,598 · 2,666 · 2,732, one frame scene at
+ch 812, irreversible steps at 795 · 810 · 822 · 838.**
+
+| Batch | Chapters | Days | Pressure | Midpoint | Climax | Irreversible |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0001 | 841–855 | 2,781–2,825 | the light, going up | 848, the cells — every room has a kept place and there is nobody in any of them | 853, the stair does not stop at nine | **855, she leaves the room and does not come back down in this volume** |
+| 0002 | 856–870 | 2,826–2,870 | the address | 863, the Scribe addresses him and she hears it happen | 870, she wants it for him, and has never done that, and cannot get it back | **866, he takes Announcement on purpose and does not ask her** |
+| 0003 | 871–885 | 2,871–2,915 | the ceiling | 878, the Anchor is named and it is true | 885, it is right and she has to live inside it | **885, she says the count out loud where the thing that keeps the ceiling can read it** |
+| 0004 | 886–900 | 2,916–2,960 | the bargain | 891, the ninth is not finished and a container with nothing in it is not a container | 899, the argument is had and she does not win it | **894, the peak, and one person bound, said out loud first** |
+
+**Fixed and not to be re-derived by any card:** days 2,781 to 2,960, sixty chapters, no two on one day and no
+step back, every ordinal under `((day − 134) mod 30) + 1`. Firsts of a month: **2,804 · 2,864 · 2,894 · 2,924 ·
+2,954**. **The peak of Immortal Vessel at ch 894, day 2,939, two hundred and seven days after the ninth at
+2,732** — not a tenth stage, and its cost, named once, is that she cannot finish the ninth without a person in
+her arithmetic. **Nobody dies in Volume 15.** **Merit settles once, at ch 884.** **Three bracketed lines in sixty,
+none after ch 885.**
+
+**The last page, in one line:** day 2,960, the seventh of the month beginning 2,954, at the making-place at the
+top of a tower that has nine landings above her room and does not stop there, nineteen years old, at the peak
+of the seventh realm, with one person in her arithmetic who did not know it when he said his name, and she has
+just asked the voice in her head what he wants for the first time in nineteen years, and he has not answered.

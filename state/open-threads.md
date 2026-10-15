@@ -3941,3 +3941,60 @@ read the repair.**
 | The date the page was written on | **the seventh of the month beginning 2,744, day 2,750**, and it rests against her fourth rib for **twenty-four days** before ch 838. Anywhere else in the manuscript or in a Volume 15 plan that says the fifth, or twenty-six days, is stale. | ch 834 and ch 838 on the page · corrections item six |
 | The lead of this novel | **Ning Yan, a woman, deliberately, and the deviation is recorded rather than left in silence.** `AGENTS.md` asks for male leads as a fleet default; the manuscript is 840 chapters into a premise about a room that will not name the person standing in it, and nothing about that is being changed. | `state/continuity.md` under *VOLUME 14 BATCH 0004 — REVIEW REPAIR*, §5 |
 | Phase closure markers | **Not this file's business and not a repair phase's.** `workspace/volume-14-batch-0004/` still carries `.deferred`, `.wip-conflict`, `.attempts` and `.retry-after`, and only the controller may clear them. No state file claims the phase is closed. | `state/continuity.md`, the batch 0004 header |
+
+## VOLUME 15 PLANNED — what it inherits, what it opens, and what Batch 0001 must not walk past
+
+**`outline/volume-15.md` exists as of 15 Oct 2026. No chapter prose. Volume 14, *The Scribe's Apprentice*, ch
+781–840, is closed on the page; Volume 15, *The Scribe*, ch 841–900, is planned and its four cards are written.**
+
+### The thread Volume 15 is planned out of, carried verbatim from the Volume 14 close
+
+> He is readable now by the thing that made him, and he said yes once where she could not hear it, and she said
+> no twice where everything could hear it. The refusal went down the stair in her own hand and the bundle came
+> back empty. **The question is not whether the Scribe heard. It is what a thing that reads does with a no.**
+
+### The ten Volume 14 threads and where Volume 15 puts each of them
+
+| Thread | State at ch 840 | Owner in Volume 15 |
+| --- | --- | --- |
+| **The offer** — name (ch 810), place (ch 818), terms (ch 826) | Closed as refused. One binding named once and refused. No person bound. No Sisterhood. | **The bargain is a different offer and a different size.** Terms on the making-place's register at ch 893, read out loud twice at 896–897, on the table at ch 900, unanswered. Volume 14's terms are not reopened. |
+| **The keeping — his yes at ch 812** | Stands and she does not know. He did not get into the place. | **STANDS. Volume 15 does not tell her, and his taking Announcement at ch 866 does not touch it.** Both stand at ch 900 and they do not cancel. |
+| **The refusal — no ch 822, page ch 834, sent ch 838** | Sent and staying. First thing she ever sent. Cannot be called back. | **Stands. Nobody answers it, nobody overturns it, and ch 895's binding is the first thing that gets a figure into the layer that she chose on purpose.** |
+| **The second place** | Kept, empty, addressed, refused twice. | **Kept, empty, addressed, refused twice. Volume 15 does not reopen it and nobody sits in it. The cells at ch 848 establish that every room has one, which is a fact about the building and not about hers.** |
+| **The six terms** | Stand, no seventh. Second one said in daylight at ch 830 for the last time. | **SIX TERMS SAID OUT LOUD ON A STAIR AT ch 855, FOR THE FIRST TIME OUTSIDE THAT ROOM IN NINETEEN YEARS.** No seventh. The second term is not given any further daylight. |
+| **The boy of sixteen** | Stays. Unnamed, unbound, unentered, unsent. | **STAYS. Unnamed until ch 890, BOUND at ch 894, never entered and never sent.** Nobody binds him but her. |
+| **Merit** | Settled once at ch 839, off the ground, never on a death, no figure. | **Settles once at ch 884**, same terms, balancing ch 839's. |
+| **The bar / cage lamp / bundle** | Bar unlifted four hundred and thirty-six days. Cage out two hundred and forty-six days, never relit. Bundle never opened. | **All three untouched. She leaves the room at ch 855 with them exactly as they are. No chapter relights the cage lamp and no card states an oil figure.** |
+| **The finding day — three anchors** | Still open, still disagreeing. | **STILL OPEN. The cells at ch 848 date nothing and no card states a day for it or does the subtraction.** |
+| **The wear gap** | Found at ch 820, told to nobody. | **May be carried. May not be said out loud to anybody and may not be resolved.** |
+
+### What Volume 15 opens, and what a card must not assume has been settled
+
+1. **THE BUILDING HAS MORE ABOVE HER ROOM.** Nine landings and a stair that does not stop at nine. **The first
+   time in fifteen volumes anything has been above her.**
+2. **HER ROOM IS ONE OF HUNDREDS**, and every one of them has a kept place at the far side and nobody in it.
+3. **THE SCRIBE SPEAKS** — at ch 863, in the grammar of an announcement, one sentence at a time, and she hears
+   both sides. **`outline/series.md` §7 milestone 8, spent once.**
+4. **HE IS ANNOUNCED** at ch 866, by choice, without asking her. **Cost: he can be anywhere but inside her, and
+   she can hear his half.**
+5. **THE MORAL ANSWER** — the Anchor, the ceiling, the tax, nine hundred years — at ch 878 and ch 885, once, worked
+   out of her own arithmetic, and **his share is the small part of it.**
+6. **A NUMBER IN THE RECORD THAT CANNOT BE TAKEN OUT**, said out loud standing in the ordinary voice at ch 885.
+7. **THE PEAK** at ch 894 and **THE SISTERHOOD'S FIRST ENTRY**, with the boy, said out loud first.
+8. **THE BARGAIN**, on the table at ch 900, good in every part, unanswered.
+9. **THE QUESTION SHE HAS NEVER ASKED HIM** — what he wants — asked at ch 900, unanswered.
+
+### What Batch 0001 must not walk past
+
+The six terms are said one at a time and the second one is held alone for a hundred and forty counts and means
+the stair, **and that has been said and is not said again in that room**. The strip of pale wood went back under
+the table on the seventh of this month and why. **She cannot be alone in the room any more — named once at ch 828
+and not to be named again.** The two refusals and the readability do not cancel and both stand. The bar and its
+four hundred and thirty-six days. The first thing she ever sent cannot be called back and she would not call it
+back. **A recap is not a dramatic restaging; if a card wants one of these, the card is wrong, not the page.**
+
+**And, for Batch 0001 specifically:** no stage · no binding and no name for the boy · no Scribe and the word
+`scribe` 0 · no moral answer, not even hinted · **one bracketed line in fifteen and it is the bundle at 2,804** ·
+no step count for the stair above the room and no oil figure of any kind · **no card may say the first of a month
+has happened before ch 850 or after ch 849** — that is the Volume 14 Batch 0004 defect this run has already paid
+for once.
