@@ -5991,3 +5991,84 @@ budget 0 in fifteen.**
   measured against the allowance and not renamed · the second hand's board is Volume 14's and is not
   previewed · no bracket in fifteen · no clearance, seal or countersignature · no `Court` spoken in this
   batch and no `Scribe` before ch 810 · nothing of Volumes 15–16.
+
+## Who is where at end of chapter 795 — VOLUME 14 BATCH 0001 CLOSED, ch 781–795
+
+**A cold reader starts here.** Day 2,600, the seventh of the month beginning 2,594, at about the ninth hour.
+A dark room at the top of eight flights and eight hundred and eighty steps in a tower four miles up a mountain
+from a square. **An oil lamp is standing on the top of a twenty-two-pace table about a foot in from the near
+end, with a trimmed wick, and the light goes a hand's width along the wood and no further.** A strip of pale
+wood lies face up on that wood beside it with a figure at the head, the same figure in the first pair of cuts,
+a five in the second in her own hand, **and a seven in the third pair of cuts in her own hand, written last
+night** — and twelve pairs under that, of which one is now full. Forty boards face up in a stack under the
+middle of the table. A bundle of papers under the far end, corded round twice and not knotted, dust on the top
+of it in the shape of the cord. A bar nine feet nine flat against the wall on the left, broken end towards the
+door, not moved. **A cage lamp in a cage on a shelf at the far end, out for sixty-six days.** One hand, one
+look, one column at that far end; **the one look was spent at ch 776 and there is no second and nothing to
+appeal with.** A boy of sixteen four feet off the near end of that table with lamp oil on his fingers and an
+empty lamp in his other hand, going down the low door.
+
+### Her
+
+**IMMORTAL VESSEL 7.** Seven stages into the seventh realm, taken at ch 793 on day 2,598, the fifth of the
+month beginning 2,594, **at seventy-four days**, in oil light at the near end of that table on her own strip of
+pale wood, off the floor, in her own hand, with a nib against her fourth rib. **Nineteen years old.** **Three
+fingers and a thumb on the right hand. Right arm open since day 2,294, three hundred and six days, and not
+going to close.** Short breath four counts everywhere, seven on a rise, nine standing still. **Seven of eleven
+holds.** Small open place low behind the fourth rib, the size of a coin. **One thousand and forty-one days
+lighter at `D − 1,559`, not one going back.** Not hungry. Time in the room `D − 2,301` = **299**. Row staleness
+`(D − 2,294) × 72 min` = **fifteen days and seven hours and twelve minutes**. Nib and ink against her fourth
+rib; a book of eight leaves against her ribs with **five blank leaves still blank**; bag at the bottom of the
+first four flights with dish, clay, ring, key and nine inches of hand-made paper. Knees still not right from
+the nineteenth of the month beginning 2,534.
+
+**Eighteen costs carried whole, none re-derived here:** the furnace will not light itself · the hand cannot
+write a false line · a thing she reaches cannot be put back · she cannot be given anything · she cannot be paid
+· the reach answers a question and only a question · she cannot call a halt · there is nothing above her and
+the door is a document · she cannot keep a place by staying in it · she cannot be met where she is expected ·
+she cannot be counted where she stands · she cannot go back down the road she came · she cannot keep what she
+finds by holding it · she cannot follow a name she is given — **plus the three Volume 13 stage costs, each
+named once in its own chapter:** she cannot be given a thing (ch 746) · she cannot be measured with a person
+(ch 761) · she cannot be looked at again (ch 776) — **plus this batch's, named once at ch 793: she cannot be
+hidden by the dark.**
+
+### Him
+
+**Yuan Sheng.** Court, second rung. Readable by the room's hand since ch 748, found at ch 749 with the bill
+raised and unpaid. **In Batch 0001 he spoke four times, in the present tense, and bought nothing, offered
+nothing and asked for nothing:** *you are taking it against a lamp a boy carried up for you* (ch 791, and the
+answer is at ch 793) · *a stage taken against a thing that can be carried back down a stair is a stage taken
+against something somebody can take away, and that is the first one you have broken on purpose* (ch 791) ·
+*he knows how many steps it is* (ch 792) · *you do not have to* (ch 791). **She said his name out loud in front
+of the boy at ch 793 and told him the voice can hear him.** No figure of what is left of him on any page and
+none may be. **One frame scene in this volume and it is ch 812's.** Volume 14 allowance for `Ledger` is 0.
+
+### The boy of sixteen
+
+Unnamed. Unsent, unentered, unbound, and **nobody is to change that.** Three lamps in rotation; **on three
+nights out of six and two hours on each**, the rotation cut at ch 788 to make his own count come out right.
+About a cup and a half in the lamp he filled, **and no figure in the book for what is in any of the three.**
+He read a strip of pale wood off the stone by a fingertip (ch 789). He stayed at the near end of that table
+while she walked twenty-two paces of dark floor with his lamp (ch 790) and carried an empty lamp back down
+eight hundred and eighty steps at the end of it (ch 795). **He wrote nothing on anything.** He has a seven in
+his head and has worked out on the page that that makes him a column.
+
+### Standing relationships
+
+**Unforgiven, unthanked, unkept.** The year still carrying. Not named once in fifteen chapters;
+`grep -oi forgiv`, `grep -oi "the year"` and `grep -oi thank` all return 0 over ch 781–795.
+**Him, the voice.** Counted with her for ten years, asked at ch 609, staying at ch 658, given a pen at ch 689,
+said out loud twice (ch 748, ch 780) **and named out loud to a second person at ch 793.** She said at ch 658
+she had been reading him as a column for eight years and that sentence is not softened and not withdrawn.
+**Ning Wu** — at most once in Volume 14 and it is optional, never a visit, and it has not been spent.
+**Shuyin, the Hunter, Wei Ran, Feng Lushi, the people at the turn** — none on the page.
+
+### What is next and what is not
+
+**Batch 0002 is ch 796–810, days 2,601–2,666, pressure *the seat*.** Midpoint ch 803: the second bundle comes
+up with the place described as kept. Climax ch 809–810: **Immortal Vessel 8 at ch 809 on day 2,666 at
+sixty-eight days, cost *she cannot be unread where she stands*, and then the third hand's board with his name
+on it, read but not written by the room.** Irreversible step at ch 810: **he is readable by the Scribe now and
+it cannot be unread.** Volume 14 still holds five brackets, six `nobody`, three speeches by the one at that
+table (one spent at ch 772, two to come at ch 826 and ch 838), zero `Scribe` before ch 810, and no moral
+answer anywhere in it.

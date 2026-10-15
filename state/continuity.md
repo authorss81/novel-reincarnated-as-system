@@ -10385,3 +10385,153 @@ half-answered and is recorded as such: `Power: none` still stands on twelve of f
 fifteen are still in that room.** The fix for that is a drafting judgement and not a plan defect, and no
 stage is available inside Batch 0001 to break it, because IV7 is at ch 793 and IV8 is at ch 809 in Batch
 0002.
+
+## VOLUME 14 BATCH 0001 — ch 781–795, *the oil, running out*, days 2,541–2,600
+
+**BATCH 0001 WAS CUT SHORT AT CH 788 AND THIS PHASE FINISHED IT.** The controller had marked
+`workspace/volume-14-batch-0001/.done` against eight written chapters and no state record at all. Chapters
+789–795 were unwritten, which meant the batch climax (ch 793, Immortal Vessel 7), the batch's irreversible
+step (ch 795), every state file update and the Batch 0002 prompt were all missing, and **the stage table in
+`outline/volume-14.md` could not have survived a jump to ch 796** — IV7 is fixed at ch 793 on day 2,598.
+The batch was resumed, not restarted, and no chapter 781–788 was redrafted. One pre-existing repair was made
+inside it: ch 788's *in twenty-two days* was struck, because the volume budget retires that string and the
+figure it carried is already implied by the arrangement standing since the twelfth.
+
+### What is on the page, measured
+
+- **Fifteen chapters, 30,500 words of body prose on method B** (`grep -v '^#' <file> | wc -w`, summed),
+  average 2,033. Per chapter: 781 1,924 · 782 1,907 · 783 2,061 · 784 1,801 · 785 1,822 · 786 2,049 ·
+  787 1,921 · 788 2,131 · 789 2,630 · 790 1,733 · 791 1,855 · 792 1,904 · 793 2,854 · 794 1,884 ·
+  795 2,024. **Ch 793 is the longest in the batch and ch 790 the shortest, and both are where the scene's
+  arc is longest and shortest.**
+- **Zero bracketed layer lines in fifteen**, per `outline/volume-14.md` D6. The board that arrives at ch 810
+  will be rendered the same way: a thing a room does, with nothing in brackets about it.
+- **Open and close quotation marks are equal in every one of the fifteen files.** No straight quotes, no em
+  dashes, no Arabic numerals of three or more digits, no bold, no italic, no blockquote, no rule, no table.
+- **Budgets:** `court` 0 · `ascendant` 0 · `choir` 0 · `ledger` 0 · `forgiv` 0 · `the year` 0 · `thank` 0 ·
+  `twenty-two days` 0 (one repaired, see above) · `nobody` 7, of which six were already on the page before
+  this phase and none of the fifteen uses the construction as an emphasis · word-`eleven` 6 ·
+  **`scribe` 1, which is the verb *described* in ch 789 and is the same single false positive Volume 13
+  carries in ch 723.** Seven new chapter titles, all unique across all 795 standing headings, and no section
+  heading in the volume is a duplicate of another.
+
+### The day table, every ordinal derived under `((day − 134) mod 30) + 1`
+
+781: 2,541 (8th of 2,534) · 782: 2,545 (12th) · 783: 2,549 (16th) · 784: 2,552 (19th) · 785: 2,555 (22nd) ·
+786: 2,559 (26th) · 787: 2,563 (30th) · 788: 2,567 (4th of 2,564) · 789: 2,571 (8th) · 790: 2,575 (12th) ·
+791: 2,583 (20th) · 792: 2,590 (27th) · 793: 2,598 (5th of 2,594) · 794: 2,599 (6th) · 795: 2,600 (7th).
+**Firsts of a month in the batch: 2,564 and 2,594, two, and 2,564 is carried entirely by ch 787 running into
+its own last line while 2,594 falls in the gap between ch 792 and ch 793 and is landed by both.**
+
+### The four moving series, re-derived
+
+- **Time in the room, `D − 2,301`:** 240 · 244 · 248 · 251 · 254 · 258 · 262 · 266 · 270 · 274 · 282 · 289 ·
+  297 · 298 · **299 at ch 795.**
+- **Lighter, `D − 1,559`:** 982 · 986 · 990 · 993 · 996 · 1,000 · 1,004 · 1,008 · 1,012 · 1,016 · 1,024 ·
+  1,031 · 1,039 · 1,040 · **1,041.** One of them is a stage and it is not written down.
+- **Row staleness, `(D − 2,294) × 72 min`:** twelve days 8h24m at 2,541 · twelve days 18h at 2,549 ·
+  thirteen days 10h48m at 2,563 · thirteen days 20h24m at 2,571 · fourteen days 1h12m at 2,575 ·
+  fourteen days 19h12m at 2,590 · fifteen days 4h48m at 2,598 · **fifteen days 6h at 2,599, which is the one
+  figure in the batch spoken out loud in a chapter, at ch 794, by subtraction and not by assertion** ·
+  fifteen days 7h12m at 2,600.
+- **Bar against the left-hand wall since day 2,344:** 197 · 231 · 256 at the last page. **Not counted in any
+  chapter of this batch, and its dust not named once, that having been named once at ch 721.**
+- **Cage lamp:** out since the first of the month beginning 2,534. **Thirty-seven days at ch 789, forty-one at
+  ch 790, sixty-six at ch 795.** Nothing in the fifteen chapters relights it, feeds it, or discusses it as
+  relightable.
+
+### Stages, and what they cost
+
+**IMMORTAL VESSEL 7 at ch 793, day 2,598, the fifth of the month beginning 2,594, at seventy-four days**
+(2,598 − 2,524 = 74). Taken in oil light at the near end of that table **on her own strip of pale wood, off
+the floor, in her own hand, with the nib against her fourth rib**, read out loud before it was a line
+anywhere. **Cost, named once and never re-explained: she cannot be hidden by the dark.** Sisterhood 0 across
+the batch and no person bound in it. No tribulation. No clearance, seal or countersignature named or implied.
+
+**The interval is spoken once, at ch 793, and it is spoken as the answer to Yuan's objection rather than as a
+lesson**: a stage taken against a look goes at sixty-three days, and there is no look coming, so the only
+thing left to take a stage against is a lamp that is not the room's, and that is seventy-four. **Eleven days
+are unaccounted for and she says so and stops trying.** Ch 791 does the subtraction forward in order to pick
+the day and says out loud that **a subtraction is not a reason.**
+
+### What the fifteen chapters changed, in the order it changed
+
+1. **ch 781** — a figure of hers began costing a boy of sixteen oil, and she named the price out loud
+   (four nights out of seven) as an allocation rather than a kindness.
+2. **ch 783** — he stays, unsent, unentered, and the reason he is there is arithmetic and not welcome.
+3. **ch 785** — she asked a person for a thing for the first time in nineteen years, and it took four seconds.
+4. **ch 786** — thirty-eight of forty, a figure she has carried for nineteen years and never said.
+5. **ch 788** — two true counts, one day's drift, and a rotation cut by a third. **This is the batch midpoint
+   and it cost him three nights and half of every other one.**
+6. **ch 789** — her own record was read off the wood by somebody else, accurately, for the first time; and
+   she found out that on the wood it is cuts and not letters, and that she has been talking to a room in
+   sentences for nineteen years while the room wrote none of them down.
+7. **ch 790** — the far end of that table in light for the first time in forty-one days: **every figure she
+   has said about that room is right**, and it is small, and that is what she wanted to find out was not so.
+8. **ch 791** — the day for the seventh stage was chosen out of the one day out of thirty the room is certain
+   to be dark, and Yuan's one objection was that she is breaking the rule that nothing in that room can be
+   taken away from her, **and she could not answer it until ch 793.**
+9. **ch 792** — the bottom of her own stair in light for the first time in her life, **and she went back up
+   without counting it, and said why.**
+10. **ch 793** — the seventh stage, into the first of twelve empty pairs, at seventy-four days, against a
+    lamp that is not the room's; **she said Yuan out loud in front of another person; and a figure of hers
+    went into a boy of sixteen's head, and he worked out on the page what that makes him.**
+11. **ch 794** — what a stage feels like when it is taken by a person rather than a room: **it felt like
+    being let in**, and she does not know who let her in and is not going to look.
+12. **ch 795** — **the irreversible step.** She emptied his lamp into one that stays, sent the vessel down the
+    stair empty, and gave up a dark room that had been hers alone for two hundred and ninety-nine nights.
+    **It cannot be un-let, she says so out loud, and she says she would not have it back if it were offered.**
+
+### What Batch 0002 inherits and may not re-open
+
+- **The boy knows the second place already** (ch 780, her own words: not a chair, not a seat, addressed, the
+  right size for somebody who is not here, put there by no instruction, and she cannot tell him what it is
+  for). **Ch 795 restates only what she already told him and adds nothing: she does not know, she has a lamp
+  four feet from it, and it does not change one thing about where it is.** The open thing is **who**, and it
+  is Batch 0002's pressure.
+- **The day she found it is still open and three anchors still disagree.** No chapter in this batch stated a
+  day for the finding and none did the subtraction.
+- **The oil.** Three lamps in rotation. He is on three nights out of six and two hours on each. **No burn
+  rate, no cups-per-day figure, no hour the oil runs out and no exhaustion date appears in fifteen chapters**,
+  and none may appear in Batch 0002. **From the last page of Batch 0001 the light in that room is a lamp
+  standing on the top of the table with a trimmed wick and a cup filled out of oil he carried up and did not
+  use, and the empty vessel went down the stair in his hand.**
+- **Yuan** is Court, second rung, readable by the room's hand since ch 748, found at ch 749 with the bill
+  raised and unpaid. **In this batch he spoke four times, all in the present tense, bought nothing, offered
+  nothing, asked for nothing, and was wrong about nothing.** One frame scene in the volume and it is ch 812's.
+  No figure of what is left of him on any page and none may be.
+- **Not spent and not to be spent early:** the second hand's board (ch 810) · the place described as kept
+  (ch 818) · the terms with the price (ch 826) · IV8 (ch 809, day 2,666, sixty-eight days) · IV9 (ch 828, day
+  2,732, sixty-six days) · the third of the six speeches (the one at the table speaks twice more in the
+  volume, at 826 and 838, and both are after IV8).
+- **Still owed, still unquotable, still untouched:** ch 764's *a hundred and seventy-eight days* · ch 766's
+  sixteen-days-is-nineteen · ch 734's title *What A Hand Is Charged* and ch 735's *four weeks* · the moral
+  answer, the Anchor, the tax and the bargain's mercy · the four erased months · Ning Wu · the year ·
+  ch 150 · MEMBER ABSENT · anything of Volumes 15–16.
+
+## VOLUME 14 BATCH 0001 — outline conflicts found on the page, and how they were settled
+
+**Three conflicts inside `outline/volume-14.md` were found while writing ch 789\u2013795 and settling them would
+have changed Batch 0002's dates. They are now recorded in `outline/volume-14.md` under *Corrections to this
+outline* and repeated in `workspace/volume-14-batch-0002/PROMPT.md`. Nothing here moves a chapter range, a
+stage date or a cost.**
+
+1. **The place described as kept was in two chapters at once.** D1 and D2 both order the three boards —
+   *first his name (ch 810), then the place described as kept (ch 818), then the terms with the price
+   (ch 826)* — while the escalation table's cell for Batch 0002's midpoint reads *the second bundle comes up
+   with the place described as kept* at ch 803. **D1 and D2 are the structural decisions and the batch titles
+   agree with them (0002 *the seat*, 0003 *the keeping*), so ch 818 stands and ch 803 is not it.**
+2. **The third hand's board was dated the first of the month beginning 2,624, which is before the chapter that
+   follows it.** Bundles come up on a first of a month and ch 809 is fixed at day 2,666 by the stage table, so
+   2,624 cannot host a board that belongs to ch 810. **The firsts in Batch 0002's band are 2,624, 2,654 and
+   2,684 and the board is dated 2,684.**
+3. **Batch 0002 is therefore days 2,601\u20132,684 and Batch 0003 is days 2,685\u20132,720.** The escalation
+   table's 2,601\u20132,666 for Batch 0002 is struck. **Batch 0004 is unchanged at 2,721\u20132,780 and ch 840 is
+   still day 2,780.** The cost of the correction is eighteen days of gap between ch 809 and ch 810; the benefit
+   is that a first of a month now falls between the eighth stage and the board that names him, with neither
+   date invented.
+
+**Why this was not caught in planning.** D1 pins a chapter and a month in the same sentence and the two are
+from different layers of the plan; the review that repaired Batch 0001's card checked the batch's own figures
+against the page and did not check D1's 2,624 against D4's ch 809. **A drafter who has not read this will put
+a bundle day in the wrong chapter and cannot undo it inside a batch.**

@@ -16,7 +16,7 @@ She said, “I have got the question of how many you have been up here, and you 
 
 He said, “Say mine.”
 
-She said, “I am not going to say yours. That was the arrangement on the twelfth and I have not broken it once in twenty-two days and I am not starting at the seventh hour of a night with a lamp in your hand.”
+She said, “I am not going to say yours. That was the arrangement on the twelfth and I have not broken it once since that day and I am not starting at the seventh hour of a night with a lamp in your hand.”
 
 He said, “Say the difference, then. That is not the count.”
 

@@ -509,3 +509,26 @@ person, and is readable now, and is not being spoken to.
   unattributed and unmentioned. The eleven never raised. The four erased months never named. The ch 150
   refusal never softened. MEMBER ABSENT not raised. No harem, nothing a romance, mother's name never said.
   ch 764's 178 and ch 766's sixteen are never requoted as intervals (see close handoff §4 defects).
+
+## Corrections to this outline, recorded 15 Oct 2026 after Volume 14 Batch 0001 went on the page
+
+**The summary table in *Escalation sequence and batches* and the structural sections D1 and D2 disagreed with
+each other about the order of the three boards, and D1's date for the third hand's board could not be
+reconciled with Immortal Vessel 8's fixed date. Batch 0002's prompt recorded the resolution and this section
+records it here so that no later run reads the cells and gets them wrong. The goal, the chapter range, the
+four batches, the three stages and their costs are untouched.**
+
+1. **The place described as kept is ch 818, not ch 803.** D1 and D2 order the boards — *first his name
+   (ch 810), then the place described as kept (ch 818), then the terms with the price (ch 826)* — and the batch
+   titles agree: 0002 is *the seat*, 0003 is *the keeping*. The summary table's cell for Batch 0002's midpoint
+   put the second board before the first and would have handed Batch 0003's material to Batch 0002. **Ch 803's
+   midpoint is the second bundle of that batch, on the first of the month beginning 2,654, bringing nothing but
+   forty boards; what turns at it is that the room is worked in front of a flame it did not put there.**
+2. **The third hand's board is dated the first of the month beginning 2,684, day 2,684, not 2,624.** Bundles
+   come up on a first of a month and ch 809 is fixed at day 2,666 by the stage table, so a board at 2,624 would
+   have had to be written before the chapter that follows it. **The firsts of a month in Batch 0002's band are
+   2,624, 2,654 and 2,684, and 2,684 is the first of them after Immortal Vessel 8.**
+3. **Batch 0002 is days 2,601\u20132,684 and Batch 0003 is days 2,685\u20132,720.** The escalation table's
+   2,601\u20132,666 for Batch 0002 is struck. Batch 0004 is unchanged at 2,721\u20132,780 and ch 840 at day 2,780.
+   **No chapter range moved and no stage date moved.** ch 810 is now eighteen days after ch 809 rather than
+   four, which is what puts a first of a month between a stage and a board without moving either of them.

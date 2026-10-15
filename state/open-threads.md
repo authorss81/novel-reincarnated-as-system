@@ -3658,3 +3658,57 @@ corrected here, and a third thread the plan had missed is opened. No chapter pro
   into it nor said no to it, and she has still not refused it and has still said out loud only that she
   cannot say what it is for.** Not addressed in Batch 0001. Addressed and refused at ch 822, said, and at ch 838, sent. The
   place stays empty and addressed at the last page of the volume.
+
+## VOLUME 14 BATCH 0001 CLOSED at ch 795 — ten open threads carried into Batch 0002
+
+1. **THE OIL, AND WHO OWNS THE LIGHT.** Three lamps in rotation; he is on three nights out of six and two
+   hours on each. **From ch 795 the lamp is standing on the top of that table and the dark in that room is
+   owed rather than hers, and she cannot hold it, and there is no oil in this building and none on this
+   mountain.** Open: what happens when his store runs to the place where the next first of a month is
+   unreachable. **No burn rate, no exhaustion date and no cups figure exists on the page and none may be
+   invented in Batch 0002.**
+2. **THE SECOND PLACE.** **Unchanged by this batch.** She has told him what she can (not a chair, addressed,
+   the right size for somebody who is not here, put there by no instruction, she cannot say what it is for)
+   and at ch 795 she adds only that a lamp at the near end does not change one thing about where it is.
+   **Not addressed, not refused, not occupied. Addressed and refused at ch 822, said, and at ch 838, sent.**
+3. **WHO WROTE HER RECORD.** Two hands: hers and one at the far end of that table. **New at ch 789** — she has
+   been saying the contents of that wood out loud for thirty-one days in sentences and **has never seen a
+   single cut on it**, and it is not letters, it is cuts, and **a thing made of cuts can be read by somebody
+   who cannot read.** Open: what the head figure is written *as*, and whether the twelve empty pairs were cut
+   in advance or cut for something that did not happen. **She gave two answers at ch 789 and took the
+   question away with her.**
+4. **A FIGURE IN SOMEONE ELSE'S HEAD.** **New and irreversible at ch 793.** Seven is in a boy of sixteen's
+   head. **He is not bound, not entered, not sent**, he learned the word *column* off the wood on the eighth
+   and used it correctly on the fifth, and **there is not one instrument above this line that will ever find
+   out what he does with it.** She has said out loud that she will not ask.
+5. **THE VOICE, HEARD BY A PERSON.** **New at ch 793.** She said Yuan's objection out loud, in the room, in
+   front of him, and gave his name, and told him the voice can hear him. **He has not yet asked it a
+   question and she has not yet answered one in front of the boy.** Open for Batch 0002: whether that
+   continues. **The tenth frame scene is ch 812 and he does not get into it.**
+6. **THE STAGE, AND WHY IT WENT IN WHERE IT DID.** Seven went into the third pair of cuts, the first of the
+   twelve empties. **She answered her own ch 789 question with it, and the answer is hers and not a rule.**
+   IV8 is at ch 809 on day 2,666 at sixty-eight days, taken against a row with two figures in it, and its cost
+   is **she cannot be unread where she stands.**
+7. **THE BUNDLE UNDER THE FAR END.** Corded round twice and not knotted; **dust on the top of it with the
+   shape of the cord lying in it, which means it has not been touched in as long as the dust has been there.**
+   She has had her arm in it five times and has never pulled. **She decided at ch 790 not to open it
+   *tonight* and said the word out loud on purpose. Open.**
+8. **THE BEARER.** Nine hundred and four steps once a month with forty boards under one arm, in the dark,
+   for four hundred years, **never looking at one of them, and now known by her to be walking a stair in the
+   dark with no light on the boards he is carrying.** Open.
+9. **THE DAY SHE FOUND THE PLACE.** Still open, three anchors still disagree (her ch 780 figure, the ch 724
+   staging, ch 758's own). **No chapter in Batch 0001 stated a day, did the subtraction, or treated any one
+   of the three as settled.**
+10. **WHAT THE LAMP GOING OUT MEANS.** She put the cage lamp out at ch 778 and has not fed it since, and the
+    room's own clock has struck on nothing every month since. **Ch 795 leaves the cage out at sixty-six days.**
+    **Nothing in this batch relit it and nothing in Batch 0002 may either.**
+
+**Irreversible, closed, do not re-open:** she emptied his lamp into one that stays and sent the vessel down
+the stair empty, and **the dark in that room is now owed and cannot be un-let, and she has said she would
+not have it back if it were offered** · her own strip of pale wood is off the floor of that table and has not
+gone back · seven is in the third pair of cuts in her own hand · she cannot be hidden by the dark · she has
+been to the bottom of her own stair in light and did not count it, and said why.
+
+**Not to be named in Batch 0002:** the moral answer · the Anchor · the tax · what the walls are for ·
+the bargain's mercy · anything a thing above the room is doing · the third hand's board before ch 810 ·
+the terms before ch 826 · the price before ch 826 · the address before Volume 15.
