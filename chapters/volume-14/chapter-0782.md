@@ -136,6 +136,6 @@ And he took the lamp off the table and stood with it, and she stood four feet of
 
 She said, “Forty-nine days is forty-nine days and I have counted forty-nine days, and a lamp is a lamp and he has counted lamps, and the two of us are not going to add them together.”
 
-And she said the last of it to herself, in the ordinary voice, standing, with nobody left in the room but the one at the far end of the table who had not looked up once in two hundred and forty-four days.
+And she said the last of it to herself, in the ordinary voice, standing, with the room holding nothing but the one at the far end of the table, who had not looked up once in two hundred and forty-four days.
 
 She said, “One of those two counts is going to be short on the first of the month beginning two thousand five hundred and ninety-four, and I have given mine away and I am not going to know whose it was.”

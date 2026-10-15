@@ -60,7 +60,7 @@ She said, “I have been letting people work things out on stairs since I was ni
 
 And then she said the thing under it, which was the reason she had not slept on the night between the twelfth and the thirteenth.
 
-She said, “And if you stop coming then I am standing in this room on the first of the month beginning two thousand five hundred and ninety-four with no light in it, and there is not one instrument in this county that can tell me what a room does when it is worked and there is nobody in it to watch it.”
+She said, “And if you stop coming then I am standing in this room on the first of the month beginning two thousand five hundred and ninety-four with no light in it, and there is not one instrument in this county that can tell me what a room does when it is worked and there is no one in it to watch it.”
 
 She said, “And I do not want that. I want a person in this room on that day and I have no idea in the world what I am entitled to, and I am saying it out loud because I do not get to want a thing quietly in a room with a person in it.”
 

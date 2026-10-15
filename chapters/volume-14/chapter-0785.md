@@ -22,7 +22,7 @@ She stood there for a count of a hundred and forty with her arm open at her side
 
 She said, “Two thousand five hundred and sixty-four less two thousand five hundred and fifty-five is nine. And two thousand five hundred and ninety-four less two thousand five hundred and fifty-five is thirty-nine, and both of those are firsts, and one of them is nine days off and one of them is thirty-nine.”
 
-She said, “And on the thirty-ninth I need him here for the fifth of that month and I do not know yet whether there is oil in the three lamps for the ninth night, the tenth night and the eleventh night, and if there is not then he is not here on the fifth of that month, and if he is not here on the fifth of that month then I am taking the seventh stage of my own life in the dark with nobody in the room but the person at the far end of that table.”
+She said, “And on the thirty-ninth I need him here for the fifth of that month and I do not know yet whether there is oil in the three lamps for the ninth night, the tenth night and the eleventh night, and if there is not then he is not here on the fifth of that month, and if he is not here on the fifth of that month then I am taking the seventh stage of my own life in the dark with the room holding nothing but the person at the far end of that table.”
 
 ## Clearing The Near End
 
@@ -94,4 +94,4 @@ Then he said, “You have got it.”
 
 She said, “I know that I have got it. I am not talking about the lamp.”
 
-And then he took the lamp and went down the low door, and she went to the first four hundred and forty with her left hand on the rail after him because it is worse going down, and her knees were still not right, and at the fourth landing she said out loud, to the dark, to nobody, at the ninth hour on the twenty-second of the month beginning two thousand five hundred and thirty-four, the single sentence that had cost her more than anything she has said in this building in two hundred and forty-one days, which was that she had asked, and that it had taken four seconds, and that she had not known until after she had said it that she was frightened.
+And then he took the lamp and went down the low door, and she went to the first four hundred and forty with her left hand on the rail after him because it is worse going down, and her knees were still not right, and at the fourth landing, with her hand flat on a rail that stops there, she said out loud, to the dark, at the ninth hour on the twenty-second of the month beginning two thousand five hundred and thirty-four, the single sentence that had cost her more than anything she has said in this building in two hundred and forty-one days, which was that she had asked, and that it had taken four seconds, and that she had not known until after she had said it that she was frightened.
