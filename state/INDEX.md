@@ -20,6 +20,49 @@ read `state/current.md` and `state/continuity.md`. **There was no index, so the 
 **12 of 20** in `chapter-summaries.md`. **`## ` heading count is unchanged in all three** — 73, 69 and 20, the
 69 being the 68 that were there plus the one new section this pass added to `current.md`.
 
+## THE SECOND ARCHIVE PASS — run 15 Oct 2026 by the Volume 14 Batch 0002 drafting phase, before ch 796
+
+**`state/INDEX.md` ordered this pass and Volume 14 planning recorded it as not run. It has now been run, before a
+single line of ch 796 was drafted, by the writer who had Batch 0002 in front of them rather than by a writer closing
+another batch. Before and after, measured the same way both times.**
+
+| File | Before — lines / words / bytes | After (hot) — lines / words / bytes | Archived, verbatim |
+| --- | --- | --- | --- |
+| `state/continuity.md` | 10,669 / 266,492 / 1,424,570 | 792 / 15,281 / 91,268 | `state/archive/continuity-through-volume-13-batch-0004.md` — 133 `## ` sections |
+| `state/current.md` | 6,090 / 162,287 / 883,505 | 710 / 18,092 / 109,345 | `state/archive/current-volume-05-through-volume-13-batches.md` — 110 `## ` sections |
+| `state/chapter-summaries.md` | 2,594 / 119,363 / 613,717 | 268 / 21,737 / 116,279 | `state/archive/chapter-summaries-volume-07-through-volume-13.md` — 36 `## ` sections |
+
+**Hot `state/` across the three touched files fell from 2,921,842 B to 316,892 B. The reading order in this file is
+unchanged and every heading still resolves: each moved section keeps its original `## ` heading in the hot file under
+a stub naming the archive file to read. **`## ` heading counts are unchanged in all three — 141 in `continuity.md`,
+121 in `current.md`, 51 in `chapter-summaries.md` — which is the pass's own proof that it moved rather than deleted.**
+
+**WHAT WAS LEFT IN PLACE, AND WHY, STATED SO A LATER PHASE CAN CHECK IT.** `state/continuity.md` keeps its spine
+(`## World rules`, `## The layer's rules`, `## Registers`, `## Prose`, `## Content`, `## Named and reserved`,
+`## Established facts (through ch 24)`) and everything from **`## VOLUME 13 — THE CLOSE`** to the foot of the file.
+`state/chapter-summaries.md` keeps **`## Rolling volume summary`** — the standing one-paragraph-per-volume summary
+this index tells phases to read instead of the archives — and `## Volumes 5–16` and `## Volume 6`, and keeps
+**`## VOLUME 14 BATCH 0001`** and everything after it. `state/current.md` keeps **`## How to read this file`**,
+because it is the cold-start reading order and it names blocks by heading, and it keeps the eight standing-ban blocks
+— `## Chapter-length decision`, `## What batch 0007 must not do`, `## What Volume 3 must not do`, `## Proposed canon
+changes`, `## Volume 2 plan decisions`, `## Construction budget — Volume 1 items, do not reuse`, `## Canon changes made
+in batch 0006`, `## Planning traps this file still carries` — **because a ban moved out of the hot file is a ban a
+later phase does not read**, and it keeps everything from **`## Who is where at the end of Volume 13`** to the foot of
+the file, which is the immediate predecessor and the live volume's own record.
+
+**ONE DISCREPANCY IN THE CARD THIS PASS ANSWERED, RECORDED RATHER THAN SILENTLY RESOLVED.**
+`workspace/volume-14-batch-0002/PROMPT.md` says *leave `## Who is where at end of chapter 795` and everything above it
+in place* and, two sentences earlier and three times over, *move everything up to and including the Volume 12 close
+and the Volume 13 planning and batch records*. In `state/current.md` the ch-795 block is the **last** block in the
+file, so the first reading leaves the whole file in place and archives nothing from it. **The enumeration was taken as
+the operative rule** — it names three specific cut points and the blocks they stop at, and leaving the ch-795 block
+and everything from the Volume 13 close down is exactly what it prescribes — **and the block it names last is at line
+6,005 of 6,090, so the difference between the two readings is 5,754 lines of history.** **No hot block that a Volume
+14 writer reads was moved: the live position, the Volume 13 close, the Volume 14 planning and the Batch 0001 record all
+stay whole.**
+
+**Pruned: nothing.** No line was deleted, no heading dropped, no figure re-derived.
+
 **HOW IT WORKS, AND WHY IT LOSES NOTHING.** Whole `## ` sections were **moved**, not deleted. In the hot file
 each one is replaced by a stub that **keeps the original heading line**, so `grep '^## '`, `grep 'Volume 6
 close'` and every other search still finds the section where a phase expects to find it, and the stub names

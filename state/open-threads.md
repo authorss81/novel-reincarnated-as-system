@@ -3731,3 +3731,92 @@ has them in the same place.
    deliberately stops short of a figure.** **That boundary still holds for Batch 0002**, whose firsts of a
    month are 2,624, 2,654 and 2,684. **What is on the page and may be relied on: from ch 795 the light in
    that room is owed and not hers, the vessel went down the stair empty, and a lamp has to be carried up.**
+
+## VOLUME 14 BATCH 0002 CLOSED at ch 810 — the threads this batch moved, opened, or closed
+
+**Ten threads carried in from Batch 0001 at ch 795, and what ch 796–810 did to each. Days 2,601 to 2,684, fifteen
+chapters, 28,862 words of body prose on method B, average 1,924, zero bracketed layer lines. Full record in
+`state/continuity.md` under ***VOLUME 14 BATCH 0002 — ch 796–810, \*the seat\****.**
+
+1. **THE OIL, AND WHO OWNS THE LIGHT — still open, and the batch did not pretend otherwise.** Three lamps in
+   rotation. **No burn rate, no cups figure, no hour the lamp runs out and no exhaustion date exists on the page and
+   none was invented; a draft line at ch 809 carrying *about three hours of it was already gone* was cut before the
+   chapter closed.** What is on the page: the lamp stands on the top of the table, the light goes a hand's width
+   along the near end and stops, **the unit of measurement is the width of her own hand** (ch 796), the vessel went
+   down the stair empty at ch 795, and a lamp has to be carried up eight hundred and eighty steps.
+   **New at ch 796: she asked him for a night and it took four seconds, and at ch 802 she found out she has been
+   agreed to in advance for about three weeks without knowing, which she says is worse than being asked and then
+   says she would rather have.** Open for Batch 0003: the same open question — what happens when his store runs to
+   the place where the next first of a month is unreachable — and nothing about it may be answered with a figure.
+2. **THE SECOND PLACE — advanced, not answered.** **She got light onto it at ch 805, from about four feet off, at
+   the ninth hour of the ninth, having carried the lamp twenty-two paces and brought her own record with her
+   because she would not leave a figure of hers in the dark. The finding is one sentence: it is not the shape of a
+   person sitting in it.** She describes only what she can stand behind — deeper at the front than at the back, not
+   deeper in the middle than at the edges — and says out loud that she will not guess. **She also corrects a thing
+   she said to him at ch 780: that it had been worn by somebody sitting in it.** **She has told no one the finding.**
+   **New at ch 804: she lost the right to say out loud, standing in that room, *I do not know what that is for*,
+   because at ch 803 she told the far end of that table what she knows about what it is working to.** Addressed and
+   refused at ch 822, said, and ch 838, sent. The place stays empty and addressed at the last page of the volume.
+3. **WHO WROTE HER RECORD — advanced twice and still open.** **At ch 801 she worked out what a head figure is for,
+   out loud, from the shape of her own wood: it is the figure everything underneath it is read against, which makes
+   it a price, and a price does not date and does not add up. So her column is a column of amounts and not a
+   record of what happened, the five and the seven are amounts against ten days, twenty-one hours and thirty-six
+   minutes, and the nine empty pairs are nine entries rather than nine nights.** **New at ch 798 and ch 800: a
+   paragraph of words in her own handwriting is in the stack of forty boards and she cannot find it and cannot find
+   out whether that room reads words or only cuts. At ch 810 the room copied a third hand's board exactly, which
+   is the first evidence on the page that it reads what it is not given.** She has said she is not going to write to
+   the price. Open.
+4. **A FIGURE IN SOMEONE ELSE'S HEAD — grew by one, and the boy is still not bound, not entered, not sent.** **He
+   now has eleven, given to him at ch 800 as the only count she had never said out loud.** **And at ch 807 he has
+   a line in the record that is not hers — the fact of his own hand going into the bundle under the far end of that
+   table on the eleventh of that month and coming out without pulling — and there is no place in that building for
+   it and she is not going to make one.** **The finding she cannot put anywhere: he did not ask her permission, and
+   she found out he had not asked on purpose.** Open, and Batch 0003 runs the chapter where he says yes and
+   everything after it is done inside a record with three hands in it.
+5. **THE VOICE, HEARD BY A PERSON — spent once and not repeated.** **At ch 808 Yuan objected again, out loud, in
+   her own mouth, in her own hearing, and his objection was the right one: a column with a price at the head is a
+   column of amounts, so the column is reading a count she made against a price she cannot read, and the only way of
+   finding out what the column is doing is to use it. She took the stage anyway.** He has now spoken in two batches
+   of Volume 14 and bought nothing both times. **The tenth frame scene is ch 812 and he does not get into it and
+   nothing in Batch 0003 may have anything speak to him that is not her.**
+6. **THE STAGE, AND WHY IT WENT IN WHERE IT DID — the seventh stage's answer is superseded by the eighth's.**
+   **Eight went into the fourth pair of cuts at ch 809, at sixty-eight days, on the thirteenth of the month
+   beginning 2,654, in oil light at the near end of that table, in her own hand, read out loud first.** The
+   interval is fixed by arithmetic and said as arithmetic: **a stage taken against a row with two figures in it has
+   to be taken against both of them, and one of them is a count she wrote on the fifth of that month, and a count
+   already written never comes right again and there is no day to wait for.** **The cost of the eighth stage, named
+   once: she cannot be unread where she stands.** **IV9 is at ch 828, day 2,732, the nineteenth of the month
+   beginning 2,714, at sixty-six days, and its cost is that she cannot be alone in the room any more.**
+7. **THE BUNDLE UNDER THE FAR END — decided twice and closed for this batch.** **At ch 806 she did not open it and
+   said the word *tonight* out loud on purpose, in light, for the second time in her life, and spent a count of a
+   hundred and forty doing nothing in front of a person.** **At ch 807 she gave the boy nothing and said why: a
+   person who can be given a thing can be given a job, and she has not asked for one and is not going to. He went
+   under that table on his own account with nothing in it that she had sent him, found the two turns himself, and
+   did not pull.** **The bundle has been touched by a second pair of hands. It has not been opened, the cord is not
+   knotted, the dust is undisturbed, and it is not pulled.** Open, and Batch 0003 may not open it before the place
+   is refused.
+8. **THE BEARER — advanced, and the finding is one sentence.** **At ch 803 he came up nine hundred and four steps
+   in the dark and put forty boards on a table with a flame burning a foot in from the near end of it and did not
+   look at it** — not at the top of the stair, not in the doorway, not while walking past it with forty boards
+   under his arm. **And a hand went along that table afterwards, forty strokes, four to a minute, the same stroke,
+   starting in the same place on every board, and none of them stopped.** Open.
+9. **THE DAY SHE FOUND THE PLACE — still open, three anchors still disagree.** **No chapter in ch 796–810 stated a
+   day for the finding, did the subtraction, or treated any one of the three as settled.**
+10. **WHAT THE LAMP GOING OUT MEANS — untouched.** **The cage lamp is out for a hundred and fifty days at ch 810
+    and nothing in this batch relit it, fed it, or discussed it as relightable.**
+
+**NEW AND IRREVERSIBLE AT CH 810, CLOSED AND NOT TO BE RE-OPENED.** **A board came up that stair on the first of
+the month beginning 2,684 with his name on it in a hand that is not hers and not the room's, and the room copied
+it exactly into the column at the far end of that table, stroke for stroke, and did not stop on it. He is readable
+by the thing that made him and that cannot be put back.** **The bill raised at ch 749 and unpaid across four
+hundred chapters is paid at ch 810 and not explained here; the address is Volume 15's per `outline/series.md` §7
+milestone 8.** **She said his name out loud in that room three times — at the tenth hour of the twenty-eighth of the
+month beginning 2,384, on the fifth of the month beginning 2,534, and on the fifth of the month beginning 2,594 in
+front of the boy — and one of those three went with a boy in the room and one went with a figure of hers and one
+went the length of that table.** **No one said the word for the third hand. There is no line in brackets. No face
+and no voice. The board did not go back down that stair.**
+
+**Not to be named in Batch 0003:** the moral answer · the Anchor · the tax · what the walls are for · the bargain's
+mercy · anything a thing above the room is doing · the place described as kept before ch 818 · the terms or the
+price before ch 826 · **anything that speaks to him that is not her** · any second look · any second occasion for
+the one look spent at ch 776.
