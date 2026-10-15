@@ -28,6 +28,8 @@ That was the part. She had been listening for a whole count of a hundred with he
 She stood at the near end of the table with that and did it in the arithmetic, which was the only way she had ever got anywhere.
 
 She could not be met where she is expected. She had carried that since the third of the month beginning two thousand two hundred and four and she had never once had it in her mouth as a finding because she had had no reason to, and the reason was that not one person had ever come looking for her.
+
+
 Six hundred and ninety-eight days in this room, and before this room a stair in the same tower, and before that other rooms she cannot name in the order she passed through them. A boy who carried oil up past the ninth landing twice a day for two hundred days and put it down on the twelfth and had never once come through a door. A bearer who came and went and was paid out of a forearm and did not stay.
 
 A voice in her head since she was ten. And a woman who could not be met in any of it, standing at the near end of a table with wear in it, saying out loud at the ninth hour that she was here.
@@ -104,4 +106,6 @@ He was quiet for a count of a hundred.
 “That is the whole of what you want.”
 
 “That is the whole of what I have said I want since the eighth, and you already know the rest of it, and this is the first piece of it you have ever heard me say that is not about me.”
+
+
 She stood at the near end of the table and understood that there was no answer to that in nineteen years of record, and that the not being able to meet him was the same cost as the not being able to be met, and that it had been the same cost for the whole nineteen years and neither of them had ever once said so out loud, and that was the first thing either of them had said that was about the future in six hundred years.

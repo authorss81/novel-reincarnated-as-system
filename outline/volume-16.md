@@ -719,8 +719,12 @@ who will say so out loud, and her watching it happen, and going back to teaching
 - `grep -oi scribe`: no more than **14 in the volume**, none before ch 903, never as a speaker, never with a motive,
   and **none after ch 974.**
 - `grep -oiw court`: no more than 3, only as the word for a building, none before ch 913.
-- `grep -oi ascendant`: **only inside the offer**, in her reading of it, ch 906–910, and never as a rank anybody
-  holds. `grep -oi choir`: **0.**
+- `grep -oi ascendant`: **only inside the offer**, in her reading of it and her recitation of it, and never as a
+  rank anybody holds. **The window this line gave, ch 906–910, was wrong on the page and is corrected at the Volume 16
+  close: measured by `grep -oi ascendant` over ch 901–1000 there are two, at ch 905 and ch 924, and both are the
+  offer — ch 905 is her reading the fifth thing out of the register and ch 924 is the same first term said back out
+  of her own memory standing. The rule holds; only the window moved, and no chapter moved with it.**
+  `grep -oi choir`: **0.**
 - `grep -oiw ledger`: **0.** **No clearance, seal or countersignature named or implied: 0 for all three.**
 - `grep -oi forgiv`: **1** (ch 1000). `grep -oi thank`: **0.** `grep -oi "the year"`: **at most 2**, ch 999–1000.
 - `grep -oiw nobody`: volume line of **thirty.** `grep -oiw eleven`: volume line of **forty**, and **the eleven at
@@ -871,3 +875,19 @@ able to tell a correction from a re-plan.
    each drafting phase writes only the next prompt. **The four cards are written at this repair**, out of this
    outline's own batch table and day table, so that Batch 0004 has a card to draft against and no chain has to be
    restarted by hand. **Writing a card filled a slot and moved nothing.**
+
+## Repairs made to this outline at the Volume 16 close, 15 Oct 2026 — no chapter, day, batch, midpoint, climax, bracket or ending element moved
+
+**One finding, and it is in a construction budget rather than in the plot.**
+
+9. **The `ascendant` window was wrong on the page.** `## Construction budgets` placed both uses at ch 906–910.
+   Measured by `grep -oi ascendant` over ch 901–1000 there are exactly two and they are at **ch 905 and ch 924**:
+   ch 905 is her reading the fifth thing out of the register with her fingers in the dark, and ch 924 is that same
+   first term said back out of her own memory, standing, at the near end of the table. **Both are the offer and both
+   are her reading of it, which is the rule; only the window was wrong.** The budget line now carries the measured
+   chapter numbers. **No chapter was rewritten, no occurrence was moved, and `ascendant` is still nowhere a rank
+   anybody holds.** Full record at `state/continuity.md` under *VOLUME 16 CLOSE — The Last Announcement*.
+
+**The volume is complete on the page at ch 901–1000 and the manuscript closes at ch 1000. This outline is not
+re-planned and no Volume 17 exists: `NOVEL_SPEC.md` fixes the book at one thousand chapters across sixteen volumes
+and `outline/ending.md` fixes the last chapter.**

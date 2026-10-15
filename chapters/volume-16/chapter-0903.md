@@ -50,6 +50,8 @@ Every finding she had made in nineteen years that mattered had been said out lou
 It was not the way she was built. It was written down. It was cut into the stone of the table at the top of a tower by something that had never once lied to her, in a register that already carried five mercies and a second reading that found no conditions in any of them, and it was not one of the five and it was not a condition and it asked nothing of anybody.
 
 It was the rule the whole thing ran on.
+
+
 “Nineteen years,” she said out loud, standing, in the ordinary voice, into the dark past the last landing. “I have been saying everything in my own voice before it is a line anywhere, and I thought that was mine. It is written on this table and it is older than the bargain and there is no name at the head of it and no name at the foot of it, which is the whole of the Scribe’s manner, and it has never given one word back out of itself.”
 
 ## What It Does Not Let Her Do
@@ -58,6 +60,8 @@ It was the rule the whole thing ran on.
 She stood at the register with her hands on it and worked out what a rule like that one costs, which was nothing at all, and that was the difficulty.
 
 It asks nothing. It is not a condition and it does not narrow the offer and it does not take anything. It says only that a thing goes into the world in the mouth of the person it belongs to, first, and not afterward, and everything after that is written.
+
+
 She put her thumb on the sixth cut and thought about the reading she had done on the sixth day, when she read five clauses with her fingers in the dark and found no turn and no hook and no narrowed cut where a keeping becomes a price. She had been reading under this rule the whole time.
 
 Her own voice had gone in front of five mercies before anything wrote them, and the layer had written after, and the writing had not moved, and she had taken that as the proof that nothing was behind them.
@@ -101,4 +105,6 @@ It was not the end of it.
 She put her hand back on the stone at the near end of the register and found the sixth cut by thumb and held it there, and she said out loud, standing, in the ordinary voice, first in her own voice, the thing she had brought nine hundred and four steps up to say and had not said on the way:
 
 “This is mine,” she said. “I came up here to find out what a bargain costs and what it costs is that the person it is about says it first. That is what I have been doing for nineteen years for free and there is somebody who noticed.”
+
+
 The lamp stood nearly out on the table. The register lay under her hands with five mercies in it and one thing past them and more past that, and there were numbers in the breaks she had not read yet, and inside her head a man who had wanted one thing since he was nineteen was very quiet, and she could not tell whether the quiet was surprise or something worse.

@@ -122,4 +122,6 @@ He did not answer.
 “That is not a withholding and it is not a trick and it is not me keeping a silence the way I kept yours on the seventh,” she said. “It is the first time in nineteen years that I have made a decision and not said why, and I have found out this evening that I do not have the why yet, and I would rather hold the decision than hand you a reason I have not finished.”
 
 “I know,” he said. “I have been listening for it since I said it, and there is no why in there, and that is the first good thing about tonight.”
+
+
 She stood at the near end of the table in a room with light in it for the first time in nine days, with everything he wanted read out to his face and standing open on a register in front of her, and he had just told her in plain words that he was showing her all of it on purpose so that she could stop him, and she had asked him why and been told, and she was not going to say tonight.

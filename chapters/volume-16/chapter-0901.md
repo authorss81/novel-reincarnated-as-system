@@ -133,4 +133,6 @@ She sat in the dark and let that be on the table between them, because she was n
 
 “That is why it is true,” he said. “You can check every other thing I have ever said to you. That one you cannot check, and it is the only one I have ever been certain of.”
 The lamp stood nearly out on the stone beside her. The register lay on the table with five lines cut deep into it and nothing worn in the table at all.
+
+
 Eight flights and a stair below her a room was running on firsts and a boy was somewhere under her with oil on his hands and no idea that there was a record, and inside her head a man who had wanted one thing since before she was born had said it out loud for the first time in his life, in a single line, and had put no number in it at all.

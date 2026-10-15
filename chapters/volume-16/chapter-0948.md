@@ -24,7 +24,9 @@ Every morning for nineteen years she had stood in that room and put six numbers 
 
 She put the six of them apart on a hillside in the wind.
 
-The ninth stage was taken on a day. She subtracted the day. The arm went open on a day. She subtracted the day. The days came out of her at a rate she had derived out of her own life and the rate was the only arithmetic in any of it and it was hers, and she had made it herself, out of her own life, when she was a child, and she had gone on believing since then that a thing she had made herself must have come from somewhere else.
+The ninth stage was taken on a day. She subtracted the day. The arm went open on a day. She subtracted the day.
+
+The days came out of her at a rate she had derived out of her own life and the rate was the only arithmetic in any of it and it was hers, and she had made it herself, out of her own life, when she was a child, and she had gone on believing since then that a thing she had made herself must have come from somewhere else.
 
 Nothing on this mountain had ever given her a number.
 

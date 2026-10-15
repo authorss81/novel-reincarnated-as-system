@@ -12,7 +12,9 @@ She said all of it out loud, standing, in the ordinary voice, and the going of t
 
 ## What Came Up It
 
-Eight flights and a stair above her a room had no wear in it. Nine hundred and four steps. A table with a lamp over it that had not been lit since she carried a lamp down them herself, and a place at the far side with nothing worn at all in four hundred years, and the register with the offer on it, and the offer withdrawn at the second hour on the twenty-seventh by a man who had said it out loud in the channel and out of her mouth.
+Eight flights and a stair above her a room had no wear in it. Nine hundred and four steps.
+
+A table with a lamp over it that had not been lit since she carried a lamp down them herself, and a place at the far side with nothing worn at all in four hundred years, and the register with the offer on it, and the offer withdrawn at the second hour on the twenty-seventh by a man who had said it out loud in the channel and out of her mouth.
 
 She went to the foot of the stair and stood at the bottom of it.
 

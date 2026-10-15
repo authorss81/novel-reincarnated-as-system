@@ -33,11 +33,15 @@ Read, they were a description of an arrangement. Spoken standing in her own voic
 They sounded like somebody describing the rest of her life to her and calling it a mercy.
 
 She stood very still in the dark with her hand flat on the stone and she heard it, and it was not a voice reading. It was a woman of nineteen hearing a thing about herself that she had never once been told, said in a room by a person who did not know her, on a night when she had nothing in her hands and nowhere to be.
+
+
 Nineteen years. A voice since she was ten. Nine stages and a peak shut at the top of a mountain a month ago. An arm open at the elbow for six hundred and seventy-nine days and not going to close. One thousand four hundred and fourteen days gone at a rate she derived from her own life and not one of them coming back. A bound boy she had never spoken to. A brother four miles down and a long way off.
 
 Nineteen years of arithmetic, every morning, standing, alone, with the figures going out into the machinery one at a time, and no one at any point in any of it had said one word about what it was for.
 
 And here was a sentence in a register cut into a table, in a hand four hundred years old, that said she would be carried up whole and given a place of her own to keep.
+
+
 A Ward of her own. She had stood behind the Wall once with the whole of the keeping in front of her, and a man who kept walls and a list had told her what those two things were for, and the whole of what she had learned from that week was that keeping is something people are given and not something they are owed. She had wanted a place of her own since she was a child.
 
 ## The Part That Said Yes

@@ -1890,3 +1890,68 @@ Day 9,800, the seventh of the month beginning nine thousand six hundred and twen
 **Twelve rows, day 3,190 → 9,800, strictly increasing, no two chapters on one day and no step back:** 3,190 · 3,194 · 3,500 · 4,150 · 4,900 · 5,660 · 6,420 · 7,180 · 7,940 · 8,700 · 9,436 · 9,800. **Every month-beginning named on the page — nine of them, 2,954 · 3,074 · 3,104 · 3,134 · 4,874 · 6,404 · 7,934 · 8,684 · 9,434 — satisfies `(day − 134) mod 30 == 0`, and every interval is the exclusive subtraction from its true anchor.** **Every one of the five elapsed series was re-derived from each chapter's own day and matched the page exactly: fifty-seven distinct elapsed figures asserted across the twelve files — out of a room, in that room, the arm, and the two intervals — plus the arm restated once in ch 995's closing paragraph, and zero mismatches.** Two figures the repair closed were not in that fifty-eight and are named here so nobody re-derives them wrongly: **ch 995's *two thousand five hundred and ninety-nine days out of a room* was a neighbouring chapter's figure and is now *three thousand three hundred and thirty-six*, which is 6,420 − 3,084**; and **ch 998's *the fifth of a month beginning three thousand one hundred and seventy-four* named a month that does not exist under `(day − 134) mod 30 == 0` and is now *the winter she was seventeen*.** One inherited date was checked and left alone: **the fourteenth of a month beginning three thousand and seventy-four, the day the lamp in her hand lost its flame, stands in ch 970, 975, 987 and 989 and is a fact of five chapters, not a Batch 0007 figure.**
 
 **No `.done` marker written, no ch 1001 or later, no `workspace/volume-16-*` directory created beyond the one that holds this batch's prompt, and no volume-close prompt, because this batch closes the volume and there is no next phase.**
+
+---
+
+## Who is where at end of chapter 1000 — VOLUME 16 CLOSED AND AUDITED, AND THE MANUSCRIPT IS COMPLETE
+
+**A cold reader starts here. This block supersedes *Who is where at end of chapter 1000* above it only where the two
+differ, and the block above it is the Batch 0007 record and is left standing as history.** Recorded by the **Volume 16
+close audit**, phase `next-0015`, 15 Oct 2026. **The book is finished: 1,000 chapters, 16 volumes, the planned ending,
+and `scripts/completion_guard.py` exits 0 — `completion-guard: ok, 1000 chapters reaches planned 1000`. There is no
+Volume 17 and none is planned, because `NOVEL_SPEC.md` fixes the book at one thousand chapters across sixteen volumes
+and `outline/ending.md` fixes the last chapter.** Full record at `state/continuity.md` under ***VOLUME 16 CLOSE — The
+Last Announcement, ch 901–1000, the volume as a whole***.
+
+**THE VOLUME IS CLOSED ON THE PAGE. `chapters/volume-16/` HOLDS ch 901–1000, ONE HUNDRED CHAPTERS, DAYS 2,961–9,800,
+185,481 WORDS OF BODY PROSE ON METHOD B (`grep -v '^#' <file> | wc -w`, per file, summed), AVERAGE 1,854.** Batches
+0001 27,355 · 0002 27,865 · 0003 27,132 · 0004 27,803 · 0005 26,546 · 0006 25,769 · 0007 23,011. **Shortest five:
+ch 930 at 931, ch 912 at 1,082, ch 990 at 1,535, ch 964 at 1,567, ch 943 at 1,638 — and the first two are the two
+chapters `outline/volume-16.md` names as short on purpose and forbids padding back. Longest three: ch 981 at 2,191,
+ch 916 at 2,388, ch 1000 at 2,486. Nothing over the 2,700 house guide, nothing under the 1,300 floor.** The manuscript
+stands at **1,881,197 words over 1,000 chapters, average 1,881.**
+
+**This close audited the whole volume for the first time and repaired thirty-two things on the page across eighteen
+chapter files, adding and removing not one word of prose.** Thirty-one paragraph breaks inserted, because the volume
+as the drafting phases left it carried **thirty-five paragraphs over ninety words and eleven over the 120-word
+ceiling**; **nothing is now over 120 and seven are over 90**, at ch 901 · 908 · 937 · 940 · 941 · 945 · 970, five of
+which are a single unbroken speech and one a derived list of dates. One duplicate section heading, `## The Count` at
+ch 954 and ch 958, repaired: **ch 954's is now `## Sixty-Eight` and no duplicate section heading remains in the
+volume.** One wrong window in `outline/volume-16.md`'s `ascendant` budget, corrected in place under the outline's own
+repairs heading as item 9 — **the two uses are at ch 905 and ch 924, both the offer, and no chapter was rewritten.**
+
+Day 9,800, the seventh of the month beginning nine thousand six hundred and twenty-four, late in the afternoon, in a yard above Lowwater, standing in the middle of a ring of set stones where a furnace had been, with a slate in her hand and about forty people in the yard.
+
+### Her
+
+**At the peak of Immortal Vessel, shut**, no tenth, no Last Ascension, no new cuts, no number, no announcement of her. **Thirty-eight years old.** Three fingers and a thumb. **Right arm open at the elbow seven thousand five hundred and six days** and not going to close, and it will not close in any of the time she has left. Seven of the holds gone. Breath four counts, seven on a rise, nine standing still. Not hungry.
+
+**The small open place low behind her fourth rib is still gone**, and it went on day 3,163, and nothing in nineteen years explained it and **nothing at ch 1000 explains it.** It is hers and it is not answered.
+
+**Her instrument, at the last page.** Six thousand eight hundred and forty days since ch 900 and nineteen years of twelve months of thirty · six thousand six hundred and thirty-seven days since day 3,163 · six thousand seven hundred and sixteen days out of a room · seven thousand four hundred and ninety-nine days in that room before it · seven thousand five hundred and six days with the arm open · **and no sixth figure, and she says out loud that she is not going to invent one.** After the fall her figures are days, weather, bodies and hands.
+
+**What she is for, said out loud at ch 996 and then said every morning at the ninth hour: *I am the one who teaches here.*** The answerable one, with no office above the yard and nothing in the world that can take it off her.
+
+### Him
+
+**Yuan. Announcement, heard, dissolved at ch 930, gone at ch 945, and in no chapter from ch 946 on in any form — with the one exception `outline/ending.md` §7 requires: at ch 1000, and only at ch 1000, she names the shape of the silence once, in her own words, and does not explain it — *The shape of what I wait for is a man standing in a doorway with his hands empty, waiting to be let in.*** No figure of what is left of him is on any page. His ch 812 yes stands and she does not know it. **The shape is not named, described or characterised anywhere before ch 1000**, and the eight uses of the word *shape* in ch 976–988 are none of them the silence.
+
+### The four hundred
+
+**Four hundred, cannot be un-bound, the price of each on the record, and she does not know what it costs, and she says so out loud.** Twenty-two names on one leaf of the eight-leaf book and two leaves still blank, and **the first leaf is Feng Lushi's last fair handwriting and a boy of about ten copies its third line into a slate every morning because it is the first thing anybody reads in that yard.** **Four hundred and one in nine mouths and four hundred on the record and she can reach neither**, and at ch 993 she says *four hundred* out loud in a village in the seventh county and does not correct the woman beside her.
+
+### Standing relationships at the close
+
+**Him — gone, and the shape of the silence named once at ch 1000 and explained not at all.** The layer — gone, and it obeyed, and its last sentence in the book is the most ordinary sentence in it, at ch 971. **Ning Wu — a brother in the yard every third day for about fifteen years, `forgiv` 0 for him across the whole volume, they do not make up, they work a wall together and it is enough, and the sentence she has carried since she was twenty-two is not said at ch 998 and she does not say it.** The four hundred — four hundred and one in nine mouths. The four months — named at ch 873 and named here as a loss that is never recovered, and it is the only time in nineteen years she has said it. Lu An — still not met, still told nothing, not on the page. Han Liang — not on the page, and nobody ever tells him.
+
+### What this close settled, and what it deliberately did not touch
+
+**THE HANDS. Settled.** The right hand carries **three fingers and a thumb**. `four fingers and a thumb` — 219 uses across Volumes 4–13 and **none in Volume 16**, which has 38 of the correct phrase — describes all five digits and therefore a hand that has lost nothing; a hand of five minus the index finger lost at ch 235 leaves four, and the manuscript argues this itself at ch 666: *a hand with three fingers and a thumb on it and a missing index.* **Where the phrase describes the left hand, which has all five with the heel gone from the second finger, it is correct and stays.** The 219 historical uses are **not rewritten** — roughly a dozen of them are left-hand and correct, and a close may not rewrite a volume — and the question is closed here rather than left open a third time.
+
+**Not touched: the 219 historical uses · `eleven` at 61 against a line of 40, over by twenty-one and recorded beside the number rather than repaired by cutting ordinary durations out of a closed hundred chapters · seven paragraphs over ninety words and none over 120 · and everything `outline/ending.md` fixes.** No chapter number moved, no day moved, no batch boundary moved, no midpoint, no climax, no bracket, no irreversible step, no title, and not one word of prose added or removed anywhere in the hundred chapters.
+
+### The word-line overages, recorded beside the number
+
+**`nobody` is 30 of 30 across ch 901–1000, which is the line and not one over it.** **`eleven` is 63 raw by `grep -oiw`, of which two at ch 1000 are `outline/ending.md` §7's eleven old students and are not a spend, so 61 against a line of 40 — over by twenty-one. This corrects the 61/59 pair the Batch 0007 close published; the raw count is 63.** Whole-word `court` 0 · `ledger` 0 · `choir` 0 · `ascendant` 2 and both the offer · `thank` 0 under the outline's literal command and 1 on the stem (`thanked`, ch 930) · `the year` 0 · `twenty-two days` 0 · `grep -oi scribe` 6, of which **two are the name, at ch 903 and ch 906, and both are in her mouth**, and four are inside *describe*, so the volume finishes with two uses of the name and neither of them is the thing speaking.
+
+**No `.done` marker, no ch 1001, no `state/phase-ledger.json`, no Volume 17. The one next phase is the close record: `workspace/volume-16-close/PROMPT.md`, which writes the resolution into the state files, stands the book down, and creates no phase after it.**

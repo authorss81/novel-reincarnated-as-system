@@ -424,3 +424,24 @@ each other before they agree with the table. It also turned up a canon question 
 settle: **three fingers and a thumb on the left hand, against three fingers and a thumb on each in ch 903, 908,
 919 and 920, against four fingers and a thumb on the right hand in the early volumes.** That is now an open item
 at `state/open-threads.md` for the Volume 16 close.
+
+---
+
+## Added by the Volume 16 close audit, phase `next-0015`, 15 Oct 2026
+
+**The book is complete: 1,000 chapters, 16 volumes, the planned ending, and `scripts/completion_guard.py` exits 0.**
+Volume 16 is the last volume in `NOVEL_SPEC.md` and there is no Volume 17 to plan, so this phase ran the volume close
+that `PHASE_SYSTEM.md` §The volume close defines.
+
+| What | Where | Read it for |
+| --- | --- | --- |
+| **VOLUME 16 CLOSE — The Last Announcement, ch 901–1000, the volume as a whole** | `state/continuity.md` | the full audit: every figure re-derived, every budget measured, the eleven things checked and not defective, the thirty-two repairs, the D5 death scan, ch 1000 against `outline/ending.md` §7 and §8 obligation by obligation, the hands ruling, the ten resolutions walked one at a time, and what stays open on purpose |
+| **Who is where at end of chapter 1000 — VOLUME 16 CLOSED AND AUDITED, AND THE MANUSCRIPT IS COMPLETE** | foot of `state/current.md` | the live position. **Supersedes the Batch 0007 block above it.** Day 9,800, her, him, the four hundred, the standing relationships, what this close settled and what it deliberately did not touch |
+| **The Volume 16 close, 15 Oct 2026 — what is now closed and what is open on purpose** | `state/open-threads.md` | **the hands, settled** with the evidence and the measurement, and why the 219 historical uses are not swept · what `outline/ending.md` §6 leaves open on purpose · what fifteen volumes left unraised · the two figures that were corrected |
+| **Volume 16 closed — the whole volume, ch 901–1000, and the manuscript** | `state/chapter-summaries.md` | the seven batches, their midpoints, their climaxes and their irreversible steps, for a cold reader who wants the shape before the chapter list |
+| **Repairs made to this outline at the Volume 16 close**, item 9 | `outline/volume-16.md` | the `ascendant` window corrected from ch 906–910 to the measured ch 905 and ch 924 |
+
+**Two figures corrected here that did not reproduce.** `eleven` is **63 raw** by `grep -oiw` across ch 901–1000 and
+**61 against the line** once the two at ch 1000 are set aside as `outline/ending.md` §7's eleven old students — the
+Batch 0007 close published 61 and 59. And `state/current.md`'s claim that all six `scribe` matches across the volume
+are inside the word *describe* is wrong: **two are the name, at ch 903 and ch 906, and both are in her mouth.**

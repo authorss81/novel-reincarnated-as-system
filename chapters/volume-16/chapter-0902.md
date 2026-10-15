@@ -82,6 +82,8 @@ He was quiet for a count of forty, which was his way of keeping a thing where sh
 “No,” he said. “Because if I give you a figure, then it is a figure, and then it is a claim, and then you owe me the argument you give every claim, and I would have spent the one thing I have on making you do arithmetic about the one thing I do not want arithmetic about.”
 
 She sat on the stone in the dark at the top of a tower with a lamp nearly out beside her and had nothing at all to do with what he had given her.
+
+
 That was the part that was new. Not the answer. The lack of anywhere to put it. Six hundred and sixty-three days in a room. Six hundred and seventy days of an arm open at the elbow. One thousand four hundred and five days gone at a rate she could derive from her own life. Every single one of them held by a date and a column and a sum she did in her mouth before her hand ever moved.
 
 Nineteen years of a life built out of the certainty that everything that happens to a person has a figure on it somewhere, and a man had just handed her the largest thing in it and the figure was not there.
@@ -121,6 +123,10 @@ He was quiet for a count of a hundred.
 She waited.
 
 “I am not going to tell you what it is,” he said. “Not because you would use it against me or because you would say no. Because you would say yes, and you would say yes before you knew what it was, and that is the thing I have spent nineteen years refusing to do to you.”
+
+
 The lamp gave its eyelash across the stone. The register lay under her hand with five cuts in it and nothing worn in the table.
+
+
 Eight flights and a stair below her a boy was carrying oil he made and could not buy, and the room was running on firsts without her. Inside her head a man who had wanted one thing since before she was born had just told her that he wanted one more thing and had put a wall around it.
 She sat on the floor of a room with no wear in it holding an unmeasured want in both hands and no place in her at all to set it down.

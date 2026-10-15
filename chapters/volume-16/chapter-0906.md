@@ -158,5 +158,9 @@ She almost laughed and did not.
 “None of the work is named,” she said. “Not one word of it.”
 
 “Not one word of it,” he said. “And I want you to leave it that way for as long as you can, because you have read five mercies twice and found nothing behind any of them, and the day you start finding what is behind this one is the day this stops being a table and starts being something else, and I do not know what it is yet.”
+
+
 She stood at the table with her hands on the register and read out loud, in the ordinary voice, standing, in a room with no light in it, the whole of what there was for a man called Sheng on a table at the top of a tower. He did not stop her once.
+
+
 It was the loneliest thing she had done in nineteen years of keeping a record, because she was the only person in the world who had ever said out loud what he was owed, and she had said it standing, in the ordinary voice, into the dark, to his face.

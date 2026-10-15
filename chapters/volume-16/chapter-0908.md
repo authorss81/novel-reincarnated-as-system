@@ -28,6 +28,8 @@ She stood at the table and let the silence be a silence and did not put anything
 “It is not mine to make.”
 
 “You do not have the standing to say that,” he said, after a while. “That is not me arguing you out of it. That is me telling you what is true so that you know what you are standing in.”
+
+
 “I know what I am standing in,” she said. “I have stood in it twice and I know exactly what it is. On the third of the month beginning two thousand eight hundred and ninety-four I stopped you taking the small share and you went still for a count of two hundred and then you started again.”
 
 She put her hands flat on the table edge and did not look down at them.
@@ -88,6 +90,8 @@ She did not raise her voice. There was nothing to raise it with.
 “I am going to tell you what this costs me and you are going to let me say it once.”
 
 “Say it.”
+
+
 “I cannot un-know that you said yes to me on the eighth,” she said. “Not today. Not on the thirtieth. Not ever. That was twenty-one days ago and I put it in my own mouth standing at this table and it is in the record in my voice. Whatever I decide between now and the day I die, I will always be a woman who was asked what a man inside her head wanted and was told, and there is no finding in the world that takes that out.”
 
 
@@ -114,6 +118,8 @@ He did not answer for a count of a hundred.
 “No,” he said, and it came out of him without any weight on it at all. “Because I have wanted you to be standing at this table when I do it for three days and for six hundred years, and I am tired of turning things.”
 
 She stood at the table in the light the boy’s oil had given her and did not soften it and did not look for the way out of it and did not find, afterwards, that she had been right, because she had not been right or wrong. She had done a thing. That was all it was.
+
+
 “You told me on the twenty-sixth that kindness would be letting me keep not knowing,” she said. “This is the other side of the same thing and I am telling you what it is so that you have it in your half the way I have it in mine. It is not mine to make.”
 
 She put both hands flat on the table edge, one over the other, the way she had put them on it every morning since the eighth.
@@ -134,5 +140,9 @@ She stood at the table with her hands on the register and found the seventh cut 
 “I am going to sit down,” she said, “and I am going to be here tomorrow, and I am not going to leave you alone in here with it.”
 
 “That is the worst thing you have ever done to me,” he said, “and I would not have stopped you from doing it.”
+
+
 She sat down at the near end of the table, because standing was for saying and the saying was done. The lamp stood on the stone beside her with a boy’s oil in it and a flame on it that she did not put there. The register lay under her hand with everything she had read in it and the offer standing open at the top of a tower until it is answered or withdrawn.
+
+
 Eight flights and a stair below her the room was running on firsts without her and would run on tomorrow, and the day after that, and not one person in the world knew that anything had been said at the top of a tower at about the ninth hour on the twenty-ninth, and the man who had wanted one thing since he was nineteen was inside her head with his mouth shut for the first time in nineteen years, and she had not stopped him.

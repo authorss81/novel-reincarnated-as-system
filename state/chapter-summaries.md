@@ -811,3 +811,64 @@ Nine days of a ceiling coming off, told through what people do and through one w
 - **1000 · Where The Furnace Was** (day 9,800, the seventh of a month beginning nine thousand six hundred and twenty-four) — **The last chapter in the manuscript.** She stands in the ring of stones where a furnace had been and says the figures, **including that there is no sixth figure and there has not been one for eighteen years and she is not going to invent one.** A boy of about ten takes the book out of the frame and copies the third line of the first leaf into a slate every morning, because **it is the first thing anybody reads in this yard**, and she says out loud, once, that it is the clearest hand anybody there will ever see and that he never came here. **A young man of about nineteen fails a ninth-stage breakthrough at the far end and there is not one person in the world who will say so out loud, and she says it herself.** Her brother comes over the far wall, fixes a young man's four-count rise with two fingers, and says **that is the shape of a happy life** to a student who has never heard it, and the book does not say what he means by it. She looks out of a window: **there is nothing written on the sky.** She puts her hand inside her coat where the plate is, and it is warm. She says the four months out loud into an empty room, **as a loss that is not going to be recovered, and says she has said it exactly twice in nineteen years.** She says the announcement, in her own words, out loud, into an empty room, having never told one person in the world. **She goes back out, stands in the yard with about forty people in it, and names the shape of the silence once, in one sentence, and does not explain it: a man standing in a doorway with his hands empty, waiting to be let in.** Then she does a forgiveness and it is housekeeping and it makes nothing right and nothing better, and she says she would rather not one person in that yard noticed she had done it. **She goes back to the west end, picks up the slate, turns it round so the child cannot see his own bad handwriting, and says: All right. Nine of them at the far end and then the trough. Go on.**
 
 **Volume 16 Batch 0007: irreversible step at ch 996 (she is the one who teaches here, the answerable one, and she stops waiting to be told, and there is nothing in the world that can take it off her) · midpoints at ch 993 (four hundred leaves her mouth and comes back as four hundred and one) and ch 994 (the four hundred are a school and nobody decided it) · climax at ch 999 (the account read out loud and closed because there is no one left to hand it to, and not settled) · and ch 1000, where she forgives him and goes back to work. Nobody dies. No stage, no tenth, no frame scene, no bracket, no `scribe`, no `thank`, no `nobody`.**
+
+---
+
+## Volume 16 closed — the whole volume, ch 901–1000, and the manuscript
+
+**Recorded by the Volume 16 close audit, phase `next-0015`, 15 Oct 2026.** The per-chapter record for ch 901–1000 is
+above and in the seven batch blocks this file already carries; this block is the volume as a whole, for a cold reader
+who wants the shape before the chapter list.
+
+**In this volume, Ning Yan must choose what Yuan is, or the system outlasts them both.** One hundred chapters, seven
+batches, days 2,961 to 9,800, **185,481 words of body prose on method B, average 1,854**, and the manuscript closes at
+ch 1000.
+
+- **901–915, the answer.** Two people at a table at the top of a tower and one of them says yes. Midpoint ch 908, **she
+  does not stop him**, and it is not a failure of nerve. Climax ch 912, **the four minutes**, which is 1,082 words and
+  the shortest chapter in the volume and the shortest on purpose. **Irreversible: ch 912 — he accepts, in the channel
+  where the thing that made him reads, and a yes said there cannot be un-said.**
+- **916–930, the tax.** Four minutes over and nothing has happened and that is worse. Midpoint ch 923, **the tax is what
+  the open is, and it is his design, and it is her.** Climax ch 930, **he refuses out loud, in front of the
+  intelligence, and gets to be an entry instead of a person.** **Irreversible: ch 930 — the refusal, the dissolving, and
+  the eighth and last bracket in the manuscript.**
+- **931–945, the apology.** A man who has never done this, doing it badly, three times, the first two entries and
+  caught. Midpoint ch 938, the second attempt. Climax ch 944, **the apology with no number on it.** **Irreversible:
+  ch 945 — he stops being a thing that can apologise, and she hears nothing after it. `forgiv` is 0 across all
+  fourteen chapters.**
+- **946–960, the descent and the four hundred.** Four miles down and out, on foot, six chapters, and the loudest
+  movement in the book. Midpoint ch 953, **she asks the second one out loud in front of everybody.** Climax ch 960,
+  **the four hundred.** **Irreversible: ch 960 — the four hundred said standing, the price of each on the record, the
+  layer writes it, and it cannot be un-bound.**
+- **961–975, the sentence.** She is alone and has to find it and it is the worst quiet in the book. Midpoint ch 968,
+  **she finds what it has to be.** Climax ch 975, titled *Never Chosen*, **eight words: *Never chosen. I was told.
+  There is a difference.*** **Irreversible: ch 975 — the sentence, standing, in the ordinary voice, and the fall begins
+  and cannot be stopped.**
+- **976–988, the fall.** Nine days, day 3,164 to day 3,172, no announcements, **nobody dies**, and the Nine Steps
+  Terrace comes down with people on and under it. Midpoint ch 982, the seventh day. Climax ch 984, the ninth day.
+  **Irreversible: ch 988 — the ceiling is off and nobody in the world wants it back.**
+- **989–1000, the courtyard.** Nineteen years, four hundred students, one brother, a calendar that changed hands, a
+  silence with a shape. Midpoint ch 994, **the four hundred are a school.** Climax ch 999, **the account, read out
+  loud, and closed because there is no one left to hand it to, and not settled.** **Irreversible: ch 1000 — she
+  forgives him, it is housekeeping, and she goes back to teaching.**
+
+**Across the hundred chapters: eight brackets and not one after ch 971, so the last sentence the layer ever says is
+*The bundle came up nine hundred and four steps on time, and the walls are kept.* No stage of anything — the ceiling
+coming off is not a stage and gets no number. No death on the page or off it. No frame scene. No fight. No new
+antagonist, no office above anything, no second intelligence. `nobody` 30 of 30. `eleven` 61 against a line of 40 and
+the overage is recorded beside the number. `thank` 0 under the outline's command and 1 on the stem. `scribe` 6, of
+which two are the name and both are in her mouth. `court` 0, `ledger` 0, `choir` 0, `the year` 0,
+`twenty-two days` 0.**
+
+**The five things the last chapter owes the rest of the book are all paid at ch 1000:** the announcement that named
+her in Volume 1 recalled in her own words and not in brackets · Feng Lushi's fair hand as the first leaf and the first
+thing anybody reads · Qiu's line spoken once, by Ning Wu, meaning it differently and unexplained · the Clay Tablet's
+texture remembered by the one person who has never told anybody · and the four months named once, as a loss that is
+never recovered and is not forgiven.
+
+**This close audited the volume as a whole for the first time and repaired thirty-two things across eighteen chapter
+files without adding or removing one word of prose: thirty-one paragraph breaks, because thirty-five paragraphs were
+over ninety words and eleven were over the 120-word ceiling, and nothing is now over 120; one duplicate section
+heading at ch 954; and one wrong window in the volume outline's `ascendant` budget.** Full record at
+`state/continuity.md` under ***VOLUME 16 CLOSE***, and the canon ruling on the hands at `state/open-threads.md` under
+*The Volume 16 close, 15 Oct 2026*.

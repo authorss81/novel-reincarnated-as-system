@@ -30,7 +30,9 @@ She had said the ninth hour of every one of them in a room with a lamp on the fl
 
 This was the first first of a month she had spent outside that mountain.
 
-She stood there in the middle of it and understood that there was nothing whatever for her to do with it. It did not want anything off her. It was not a day that came up a stair for her, and it was not a day she was going to give anything to, and she had brought a queue of nine people to a first of a month and had nowhere to put them and no hour of the day that belonged to her except the one she had just used.
+She stood there in the middle of it and understood that there was nothing whatever for her to do with it.
+
+It did not want anything off her. It was not a day that came up a stair for her, and it was not a day she was going to give anything to, and she had brought a queue of nine people to a first of a month and had nowhere to put them and no hour of the day that belonged to her except the one she had just used.
 
 She had not known that a first of a month could be an ordinary day. She had spent nineteen years being told by the arithmetic that it could not.
 
@@ -80,7 +82,7 @@ She could tell the difference by the fourth hour.
 
 On the first day she had asked anybody, she had not been able to tell the difference at all.
 
-## The Count
+## Sixty-Eight
 
 She said it out loud at the ninth hour, standing, in the ordinary voice, with the queue still on the road behind her.
 

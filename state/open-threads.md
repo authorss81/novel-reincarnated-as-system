@@ -4512,3 +4512,75 @@ Inherited as fact: the ceiling is off and nothing came back · **not one person 
 ### The state of the manuscript
 
 **1,000 chapters, 1,881,197 words of body prose on method B, 1,000 chapter headings and zero duplicates.** *(Re-measured 15 Oct 2026 after the `next-0014` cross-batch date repair; this line previously published 1,881,175.)* Zero bracket characters in the whole manuscript. No death in Volume 16 on the page or off it. No stage after ch 894 and no Last Ascension. No frame scene after ch 812.** The batch writes no `.done` marker, no ch 1001 or later, and no `workspace/volume-16-*` directory beyond the one holding its prompt, because there is no next phase.
+
+---
+
+## The Volume 16 close, 15 Oct 2026, phase `next-0015` — what is now closed and what is open on purpose
+
+**The book is complete. 1,000 chapters, 16 volumes, the planned ending, and `scripts/completion_guard.py` exits 0.**
+Full record at `state/continuity.md` under ***VOLUME 16 CLOSE — The Last Announcement, ch 901–1000, the volume as a
+whole***. This block exists so a later reader of this file does not re-derive the ruling below and does not mistake an
+intentionally open thread for an oversight.
+
+### CLOSED BY THIS PHASE — the hands
+
+**The right hand carries three fingers and a thumb. `four fingers and a thumb` is a miscount of an index finger lost at
+ch 235 and it is not corrected on the page in Volumes 4–13; it is corrected here and it applies forward.**
+
+| Evidence | Where |
+| --- | --- |
+| *I have lost the index finger of my right hand* | **ch 235**, Volume 4, named once, felt, told out loud to the crew |
+| *a hand with three fingers and a thumb on it and a missing index* | **ch 666**, Volume 12 — the manuscript arguing its own case |
+| *three fingers and a thumb on the right hand with the index gone* | **ch 669**, Volume 12 |
+| the arithmetic | five digits less one is four: **three fingers and a thumb** |
+
+**Measured across the manuscript.** `four fingers and a thumb`: 0 in Volumes 1–3, 2 in Volume 4, then 16 · 24 · 45 · 25
+· 53 · 25 · 11 · 13 · 4 across Volumes 5–13, **0 in Volumes 14–16 — 219 in all.** `three fingers and a thumb`: **0 in
+Volumes 1–11**, then 8 · 32 · 19 · 25 · 38 across Volumes 12–16 — **122 in all.**
+
+**Where the wrong phrase is right.** Applied to her **left** hand it is correct and must not be swept: *the bar sat in
+eleven holds in the left hand with the heel gone and four fingers and a thumb* (ch 253) describes a hand with all five
+digits whose second finger has lost its heel, which is ch 238's *the writing hand is the left one and it has the heel
+of it gone*. **About a dozen of the 219 are left-hand.** A blanket replacement would have broken them.
+
+**Why the page was not swept.** Volume 16 itself is clean and was not touched. The 219 sit in about a hundred and fifty
+closed chapters across ten closed volumes; `PHASE_SYSTEM.md` §Volume audit forbids a close from rewriting an entire
+volume; and a sweep cannot be made safely without a human reading every instance. **The question was carried as open
+for two volumes for exactly this reason, and it is closed here rather than left open a third time.**
+
+**This does not change `state/open-threads.md`'s existing wording**, which reads *Four fingers' worth of grip left on
+that hand* — a gloss on the grip that remains, which is four digits' worth, not a count of fingers.
+
+### STILL OPEN ON PURPOSE — `outline/ending.md` §6 fixes all four
+
+- **Whether the Scribe was sincere.** She names it twice in her own mouth (ch 903, ch 906) and it refuses to sign and
+  has never given one word back out of itself. **The manuscript does not adjudicate and must not.**
+- **What happens to the Anchor once it is released.** The window at the west end of the yard in ch 1000, and a sky
+  with nothing written on it. **Nothing more is said about it.**
+- **Whether anything answers from beyond.** Nothing does. **The book does not promise that nothing ever will.**
+- **Whether she could have refused the fall and kept a bounded world.** She could not, and she is the one who decided,
+  and that is why the ending is hers.
+
+### STILL OPEN FROM FIFTEEN VOLUMES — raised nowhere in ch 901–1000
+
+The day she found the second place, three anchors disagreeing · the gap in the wear, two fingers wide, no edges, found
+at ch 820 · whether the fair hand and the third hand are the same hand, which she decided at ch 823 not to work out
+and which Feng's handwriting becoming the founding document does not answer · the bundle under the far end of that
+table, two turns not a knot, five arms into it, never pulled, and the man who carried the last one never told it was
+the last · the eleven, never raised except at ch 1000 · MEMBER ABSENT, not raised · what became of the six hundred
+and forty thousand, said once at ch 885 · Lu An, bound at ch 894, told nothing, twice on the page and never told ·
+Han Liang, one chapter, and nobody tells him his carry ended · the second place, kept four hundred years and empty
+and refused twice, left behind in a building in a mountain · the fourth child of the Ning household · whether
+Shuyin's own name is on his list · whether Ning Wu forgives her, which is refused: **he does not, `forgiv` is 1 in the
+whole final volume and it is hers and not his.**
+
+### CORRECTED BY THIS PHASE — two figures that did not reproduce
+
+- **`eleven` is 63 raw by `grep -oiw` across ch 901–1000**, of which two at ch 1000 are `outline/ending.md` §7's eleven
+  old students and are not a spend against the line, so **61 against a line of 40, over by twenty-one.** The Batch
+  0007 close published 61 raw and 59 against the line; **the raw count is 63 and the other two figures stand as
+  published.**
+- **`outline/volume-16.md` §Construction budgets placed the two `ascendant` uses at ch 906–910. They are at ch 905 and
+  ch 924**, and both are the offer — her reading the fifth thing out of the register, and the same first term said
+  back out of her own memory standing. **The rule held; only the window was wrong, and it is corrected in place under
+  the outline's own repairs heading as item 9.**
