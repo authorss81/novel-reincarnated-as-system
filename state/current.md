@@ -2104,9 +2104,12 @@ section heading moved. No beat moved and the planned plot is untouched: no ch 10
 ## THE CHAIN'S LAST GAP IS NOW CLOSED — 15 Oct 2026, after `workspace/continuation/next-0016`. No prose, no plot, no figure moved.
 
 **This block exists for one reason: the run above stood the book down but never told the machinery it was down, so the
-controller kept seeding continuation prompts.** Sixteen of them were created over the run. The sixteenth, dispatched as
-`next-0016`, arrived at the standing instruction *if the current volume is complete, plan the next volume* — and the
-correct answer to that instruction is **no**, because the complete volume is the last one in the plan.
+controller kept seeding continuation prompts.** **Seventeen directories now sit under `workspace/continuation/` — the
+original `next` seed and `next-0001` through `next-0016` — so the numbered prompts are sixteen and the directories are
+seventeen; the counting basis is stated here because the two numbers were previously used interchangeably.** The
+sixteenth numbered prompt, dispatched as `next-0016`, arrived at the standing instruction *if the current volume is
+complete, plan the next volume* — and the correct answer to that instruction is **no**, because the complete volume is the
+last one in the plan.
 
 **What was verified here, by measurement, with the method named beside each number.** Body prose is every line not
 beginning `#`, per file, summed (`grep -v '^#' <file> | wc -w`): **1,000 chapter files, 1,881,197 words**, which is the
@@ -2145,3 +2148,42 @@ there the run ends at the synopsis and publishes. **No chapter prose, no Volume 
 card, no `state/phase-ledger.json`, no `.done`, `.blocked`, `.retry-after` or `.retired` marker, and nothing touched
 under `scripts/`, `.github/workflows/`, `.opencode/agent/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`,
 `OUTLINE_GUIDE.md` or `opencode.json`.**
+
+---
+
+## REVIEW REPAIR — the declaration's own two anchors and one wrong count, 15 Oct 2026, after `logs/next-0016.review.log`. Three findings worked, five files touched, not one word of prose.
+
+**`logs/next-0016.review.log` reviewed the block above and returned three findings, none blocking and none about prose.
+Two were misquotations and one was a wrong count, and all three are worked here.**
+
+**1. `workspace/closing/PROMPT.md` misquoted two of the four headers it told an auditing model to look for.** It sent a
+reader to `state/continuity.md` at *THE SERIES CLOSE — ch 1–1000*, and that string is not in the file; the real header at
+line 3625 is `## SERIES CLOSE — the record the run ends on. Written 15 Oct 2026 by the volume close record, phase
+`volume-16-close`.` It also sent a reader to `state/open-threads.md` at *The series close, 15 Oct 2026 — everything the
+book chose not to answer*, and the real header at line 4590 inserts *phase `volume-16-close`* between the date and the
+dash. The other two anchors, `state/current.md:1974` and `state/chapter-summaries.md:889`, matched as written. **All four
+are now quoted as they actually read, with the line number beside each**, so two of four anchors cannot miss again. **The
+declaration's own gates were re-run after the edit and all three behave exactly as before:** `grep -qiE 'this phase
+(verifies|records|declares)|the runner recognises the declaration|declare (the )?completion|write nothing'` matches,
+`grep -qiE 'manuscript (is|has) (finished|complete)|…'` matches, `grep -qiE '^retired[.:]'` does not match, and
+`python3 scripts/completion_guard.py` still exits 0 with `completion-guard: ok, 1000 chapters reaches planned 1000`.
+
+**2. The number of continuation directories was wrong wherever it appeared.** `state/INDEX.md` and `state/open-threads.md`
+each said `retire_obsolete_phases` retires *all sixteen continuation directories*, and the same figure was carried in this
+file's block above and in two places in `state/continuity.md`. **Measured: `ls workspace/continuation/ | wc -l` returns 17**
+— the original `next` seed plus `next-0001` through `next-0016` — **and `ls workspace/continuation/*/.done | wc -l`
+returns 16.** The retirement loop skips a directory carrying `.done` at `scripts/novel_runner.sh:98`, line 97 being the
+`.retired` check above it, so **exactly one directory is pending and is retired: `next-0016`.** Sixteen retirements do not
+happen. The sentence now says that, in all five locations, with the method beside the number.
+
+**3. The counting basis was never stated, which is how finding 2 got in.** `next-0016` is the sixteenth *numbered*
+continuation prompt and the seventeenth *directory* under `workspace/continuation/`, and the two were being used
+interchangeably. **Both numbers are now named separately wherever either appears** — sixteen numbered prompts, seventeen
+directories, sixteen carrying `.done`, one pending. The distinction does not change a single instruction.
+
+**What this repair did not touch.** No chapter file was opened and no prose, figure, day, title or bracket moved; the
+1,000 files and 1,881,197 body words published above are untouched and this repair re-measured none of them, because none
+was in question. `outline/ending.md` and `outline/series.md` are unchanged. No second next-phase prompt was written —
+`workspace/closing/PROMPT.md` remains the one — and no `state/phase-ledger.json`, `.done`, `.blocked`, `.retry-after` or
+`.retired` marker was created. Nothing under `scripts/`, `.github/workflows/` or `.opencode/agent/` was edited, and the
+batch was not restarted.

@@ -4153,8 +4153,9 @@ been counting a seam, and is corrected in all four places that carried it with t
 
 ## THE COMPLETION DECLARATION, 15 Oct 2026 — what was measured, and why the run ends at `workspace/closing/`
 
-**Written by the phase dispatched as `workspace/continuation/next-0016`, which was the last of sixteen continuation
-prompts this run accumulated. It wrote no chapter prose, planned no volume, and moved no figure in the manuscript.**
+**Written by the phase dispatched as `workspace/continuation/next-0016`, which was the last of the sixteen numbered
+continuation prompts this run accumulated — the seventeenth directory under `workspace/continuation/` if the original
+`next` seed is counted. It wrote no chapter prose, planned no volume, and moved no figure in the manuscript.**
 
 ### The measurements, each with its method named beside it
 
@@ -4179,7 +4180,8 @@ and none may be written.**
 `ensure_next_phase` in `scripts/novel_runner.sh` seeds a generic continuation whenever a phase finishes and no next
 prompt was written. **The Volume 16 close prompt instructed the next phase to write no further prompt — correct about
 prose, and wrong about the machinery**, because with nothing to select the fallback seeded `continuation/next-0016`
-instead of the completion path. Sixteen such directories accumulated across the run.
+instead of the completion path. Seventeen such directories accumulated across the run — `next` and `next-0001` through
+`next-0016` — of which **sixteen carry `.done` and one, `next-0016`, was still pending when the declaration was written.**
 
 **The pipeline already had the terminal step and nothing had used it.** `declare_completion_from_prompt` recognises a
 declaration from a phase prompt, gates it on `scripts/completion_guard.py`, writes `state/complete.md` itself and
@@ -4193,10 +4195,48 @@ workflow's seed step creates the single post-completion phase `workspace/postfac
 own patterns before it was relied on: `grep -qiE 'this phase (verifies|records|declares)|…|write nothing'` matches, and
 `grep -qiE 'manuscript (is|has) (finished|complete)|…'` matches, and `grep -qiE '^retired[.:]'` does not, and
 `scripts/completion_guard.py` exits 0. **`workspace/closing` sorts first of every `PROMPT.md` under `workspace/`**, so it
-is the next phase selected ahead of the sixteen continuation directories.
+is the next phase selected, ahead of all seventeen continuation directories. **Of those, sixteen already carry `.done` and
+are skipped by `retire_obsolete_phases` at `scripts/novel_runner.sh:98`, so the only continuation it will retire is
+`next-0016`.**
 
 **What is deliberately not here.** No Volume 17, no `outline/volume-17.md`, no batch card, no ch 1001, no epilogue, no
 coda, no `state/phase-ledger.json`, no `.done`, `.blocked`, `.retry-after` or `.retired` marker, and nothing touched
 under `scripts/`, `.github/workflows/`, `.opencode/agent/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`,
 `OUTLINE_GUIDE.md` or `opencode.json`. **Every figure above is a re-measurement, not a quotation, and every one of them
 reproduced.**
+
+---
+
+## THE COMPLETION DECLARATION — REVIEW REPAIR, 15 Oct 2026, after `logs/next-0016.review.log`. Three findings worked, five files touched, no figure moved and no prose opened
+
+**The declaration above was reviewed and came back with three findings and nothing blocking. The runner logic it relied on
+was traced end to end and reproduces; what was wrong was descriptive text — two headers the prompt misquoted and one
+directory count stated as sixteen where the disk holds seventeen.**
+
+### The findings, each with what it was and what it is now
+
+| # | Finding | Was | Is |
+| --- | --- | --- | --- |
+| 1 | `workspace/closing/PROMPT.md` sent an auditing model to two headers that do not exist as written | `state/continuity.md` at *THE SERIES CLOSE — ch 1–1000*; `state/open-threads.md` at *The series close, 15 Oct 2026 — everything the book chose not to answer* | Both quoted verbatim with the line beside them: `state/continuity.md:3625` **SERIES CLOSE** — the record the run ends on; `state/open-threads.md:4590` **The series close, 15 Oct 2026, phase `volume-16-close`** — everything the book chose not to answer. The two anchors that already matched, `state/current.md:1974` and `state/chapter-summaries.md:889`, are listed with their lines too |
+| 2 | The retirement count was wrong in five places | *retires all sixteen `continuation/` directories* | **Seventeen directories, sixteen carrying `.done`, one pending and retired: `next-0016`.** `ls workspace/continuation/ \| wc -l` → 17 · `ls workspace/continuation/*/.done \| wc -l` → 16 · the `.done` skip is `scripts/novel_runner.sh:98`, line 97 being the `.retired` check |
+| 3 | The counting basis was unstated, which is how 2 got in | *Sixteen of them were created over the run. The sixteenth…* | **Sixteen numbered prompts, `next-0001` through `next-0016`, plus the original `next` seed = seventeen directories.** Both numbers now named separately wherever either appears |
+
+### What was re-run after the edit, and what it returned
+
+**The declaration's three gates, re-checked on the edited prompt and unchanged in behaviour:** the
+`this phase (verifies|records|declares)|the runner recognises the declaration|declare (the )?completion|write nothing`
+grep matches; the `manuscript (is|has) (finished|complete)|…` grep matches; `^retired[.:]` does **not** match; and
+`python3 scripts/completion_guard.py` exits 0 — `completion-guard: ok, 1000 chapters reaches planned 1000`. **Selection
+ordering is unaffected**: `workspace/closing/PROMPT.md` still sorts first of every `PROMPT.md` under `workspace/`, ahead
+of all seventeen continuation directories.
+
+**The manuscript's own figures were not in question and were not re-measured into a different number.** 1,000 files,
+1,881,197 body words, Volumes 13/14/15 at 118,951 / 121,530 / 111,007, Volume 16 at 185,481 over 100 chapters, zero
+chapters under 200 body words, zero bracketed lines in ch 981–1000, and the ch 1000 image of `outline/ending.md` §7 —
+**all stand exactly as the table above published them.**
+
+**What this repair did not touch.** No chapter file was opened. No prose, figure, day, title, bracket or planned beat
+moved. `outline/series.md` and `outline/ending.md` are unchanged and no Volume 17 was written. No second next-phase
+prompt was created — `workspace/closing/PROMPT.md` is still the only one — and no `state/phase-ledger.json`, `.done`,
+`.blocked`, `.retry-after` or `.retired` marker exists from this repair. Nothing under `scripts/`, `.github/workflows/` or
+`.opencode/agent/` was edited. The phase was repaired in place and not restarted.

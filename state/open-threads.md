@@ -4729,10 +4729,39 @@ make `scripts/completion_guard.py` exit 1 on a manuscript that currently passes 
 
 **What is left in this repository, in order, and it is four steps and then nothing.** `workspace/closing/PROMPT.md` is
 the declaration and is the next phase selected — the runner recognises it, writes `state/complete.md`, and runs no model.
-`retire_obsolete_phases` then retires every pending phase, including the sixteen `workspace/continuation/` directories
-this run accumulated. The workflow seeds `workspace/postface/synopsis/`, which writes `state/synopsis.md` and creates no
-phase after it. `epub.yml` publishes once `state/complete.md` and `state/synopsis.md` both exist.
+`retire_obsolete_phases` then retires every pending phase. **The run accumulated seventeen `workspace/continuation/`
+directories — the `next` seed plus `next-0001` through `next-0016` — and sixteen of them already carry `.done`, which the
+loop skips at `scripts/novel_runner.sh:98`, so exactly one, `next-0016`, is pending and is retired.** The workflow seeds
+`workspace/postface/synopsis/`, which writes `state/synopsis.md` and creates no phase after it. `epub.yml` publishes once
+`state/complete.md` and `state/synopsis.md` both exist.
 
 **Nothing in this file's register changes.** Every thread above is still exactly where the series close left it, and
 every one of them is open because the book decided it should be. **The run is over, and this is the file that says so
 last.**
+
+## The series close review repair, 15 Oct 2026 — three findings worked, and the standing ban above is unchanged
+
+**`logs/next-0016.review.log` reviewed the completion declaration above and returned three findings. None touched a story
+thread, and none of them changes anything this file is read for.**
+
+**One — the closing prompt misquoted two of its four audit anchors.** It named `state/continuity.md` at *THE SERIES CLOSE
+— ch 1–1000* and `state/open-threads.md` at *The series close, 15 Oct 2026 — everything the book chose not to answer*,
+and neither string is a header in the file it points at. **Both are now quoted as they actually read, with the line number
+beside them** — `state/continuity.md:3625` and `state/open-threads.md:4590`, the latter carrying *phase
+`volume-16-close`* that the quotation had dropped. The other two anchors, `state/current.md:1974` and
+`state/chapter-summaries.md:889`, matched as written and are listed with their lines as well. **The declaration's own
+gates were re-run on the edited prompt and all three behave exactly as before**, including
+`python3 scripts/completion_guard.py` exiting 0.
+
+**Two — the continuation count was wrong in five places, and the repair corrected the reviewer's own line number while
+doing it.** The count had been written as *all sixteen `continuation/` directories*. **Measured: 17 directories under
+`workspace/continuation/` and 16 carrying `.done`, so exactly one — `next-0016` — is pending and is retired.** The `.done`
+skip is `scripts/novel_runner.sh:98`; line 97 is the `.retired` check above it, which is the line first cited and is off
+by one. Corrected here, in `state/INDEX.md`, `state/current.md` and twice in `state/continuity.md`.
+
+**Three — the counting basis, which is the reason two got in.** `next-0016` is the sixteenth *numbered* prompt and the
+seventeenth *directory*. Both numbers are now named separately wherever either appears.
+
+**Nothing in this file's register changes.** Every thread above is still exactly where the series close left it, and every
+one of them is open because the book decided it should be. **The standing ban still reads: no Volume 17, no ch 1001, no
+epilogue, no coda, and no phase after `workspace/closing/PROMPT.md`.**

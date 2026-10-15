@@ -21,11 +21,16 @@ currently accepts**, because it reads its planned end out of the outlines and wo
 last one written.
 
 If this prompt is ever executed by a model instead of being recognised as a declaration, the correct output is **no
-change at all**. The series close record is already written: `state/current.md` at
-***WHO IS WHERE AT THE END OF THE BOOK***, `state/continuity.md` at ***THE SERIES CLOSE — ch 1–1000***,
-`state/chapter-summaries.md` at ***THE SERIES CLOSE — ch 1–1000, sixteen volumes***, and `state/open-threads.md` at
-***The series close, 15 Oct 2026 — everything the book chose not to answer***. There is nothing left to audit and no
-figure left to re-derive.
+change at all**. The series close record is already written, and these four headers are where it lives, quoted as they
+actually read:
+
+- `state/current.md:1974` — **WHO IS WHERE AT THE END OF THE BOOK** — the series close record
+- `state/continuity.md:3625` — **SERIES CLOSE** — the record the run ends on
+- `state/chapter-summaries.md:889` — **THE SERIES CLOSE — ch 1–1000, sixteen volumes**, the whole book in one record
+- `state/open-threads.md:4590` — **The series close, 15 Oct 2026, phase `volume-16-close`** — everything the book chose
+  not to answer
+
+There is nothing left to audit and no figure left to re-derive.
 
 ## What happens after this, in order
 
