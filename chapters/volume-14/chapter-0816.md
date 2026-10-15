@@ -12,7 +12,7 @@ She had been at the near end of that table since the seventh hour and had got no
 
 She said it out loud at about the eighth hour, standing four feet off the near end, in the ordinary voice, and she said it the way she says a thing she has to hear herself say.
 
-She said, “On the thirtieth of the month beginning two thousand six hundred and twenty-four I stood at the near end of this table and I was going to clear it before a bundle came up the stair, and I stopped with my hand on the wood and I did not clear it.”
+She said, “On the thirtieth of the month beginning two thousand five hundred and ninety-four I stood at the near end of this table and I was going to clear it before a bundle came up the stair, and I stopped with my hand on the wood and I did not clear it.”
 
 She said, “I said out loud that I was not clearing it because I did not want a figure of mine in the room when forty of somebody else’s went through it. And I said out loud, standing right here, that that was not a reason. That it was me not wanting a figure of mine to be in a room when forty of somebody else’s went through it.”
 

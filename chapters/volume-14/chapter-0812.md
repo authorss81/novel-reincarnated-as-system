@@ -84,7 +84,7 @@ A woman has been standing four feet off the near end of that table for three hun
 
 The boards under the middle of that table are the sound of it.
 
-And the boards under the middle of that table are the sound of it, and there is no other person in this room to hear what they sound like, and there has not been one in nineteen years.
+And there is nobody in this room to hear what they sound like, and there has not been anybody in nineteen years, and the wood goes on making the noise either way, which is the whole of what a room does with nineteen years of a woman talking to it.
 
 He looks at the worn place for a count of a hundred and forty.
 

@@ -1097,11 +1097,11 @@ The reasoning and the record are in `workspace/volume-14-batch-0003/PROMPT.md`; 
 
 ### What is on the page, measured
 
-- **Fifteen chapters, 30,977 words of body prose on method B** (every line not beginning `#`, per file, summed),
-  average 2,065. Per chapter: 811 1,928 · 812 1,949 · 813 1,946 · 814 2,158 · 815 2,417 · 816 2,185 · 817 1,979 ·
-  818 2,132 · 819 2,112 · 820 1,977 · 821 2,134 · 822 2,138 · 823 2,216 · 824 1,857 · 825 1,849. **All fifteen
+- **Fifteen chapters, 30,995 words of body prose on method B** (every line not beginning `#`, per file, summed),
+  average 2,066. Per chapter: 811 1,928 · 812 1,961 · 813 1,946 · 814 2,158 · 815 2,417 · 816 2,185 · 817 1,979 ·
+  818 2,132 · 819 2,113 · 820 1,977 · 821 2,134 · 822 2,143 · 823 2,216 · 824 1,857 · 825 1,849. **All fifteen
   inside the 1,800–2,700 guide and none under the floor.** Batch 0001 is 31,117 and Batch 0002 is 29,402, so the
-  volume is **91,495 words over forty-five chapters at an average of 2,033.**
+  volume is **91,514 words over forty-five chapters at an average of 2,034.**
 - **Zero bracketed layer lines in fifteen and zero `[` characters of any kind**, per `outline/volume-14.md` D6.
 - **Open and close quotation marks equal in every one of the fifteen files.** No straight quotes, no em dashes, no
   Arabic numerals of three or more digits, no blockquote, no rule, no table, no code fence, no backtick, **no bold
@@ -1112,13 +1112,21 @@ The reasoning and the record are in `workspace/volume-14-batch-0003/PROMPT.md`; 
   `forgiv` 0 · `the year` 0 · `thank` 0 · `twenty-two days` 0 · **`nobody` 4** against a volume line of thirty ·
   word-`eleven` 3 against a volume line of forty.
 - **Fifteen new chapter titles, measured free against all 840 standing headings:** 811 *The Morning After The Name* ·
-  812 *Away From Her Hearing* · 813 *What Came Back In Two Hands* · 814 *One Day In Twenty* · 815 *What She Would
-  Have To Stop* · 816 *The Near End* · 817 *What He Is Not Being Told* · 818 *The Place Described As Kept* · 819
-  *The Thing It Costs To Say It Twice* · 820 *The Lamp And The Person* · 821 *What He Wants Her To Do* · 822 *No* ·
+  812 *Away From Her Hearing* · 813 *The Hand Beneath Hers* · 814 *One Day In Twenty* · 815 *The Fourth Part* ·
+  816 *The Near End* · 817 *A Place For Somebody Not Here* · 818 *The Place Described As Kept* · 819 *A Hundred
+  And Forty Counts* · 820 *The Lamp And The Person* · 821 *The Answer Was Not About Him* · 822 *No* ·
   823 *The Morning After A No* · 824 *Five Blanks And None Of Them* · 825 *The Bundle Before The Bundle*. **The
   card's ch 816 title *The Twenty-Seventh* was replaced before the chapter was written**: 2,705 is the twenty-
-  second under `((day − 134) mod 30) + 1`, and a title that restated a date belongs nowhere near the title line.
+  second under `((day − 134) mod 30) + 1`, and a title that restates a date belongs nowhere near the title line.
+  **Five more were replaced after the review of the batch on the page, and the reason is the same one: 813, 815,
+  817, 819 and 821 as first written (*The Hand Beneath Hers*, *The Fourth Part*, *What He Is
+  Not Being Told*, *A Hundred And Forty Counts*, *The Answer Was Not About Him*) each restated what the chapter
+  does instead of naming anything, and four of the five opened *What*, which alternated mechanically with *The*
+  down the whole table of contents.** They are now names of things in the rooms and on the wood. *A Hundred And
+  Forty Counts* is also the ch 819 echo of ch 812's *He looks at the worn place for a count of a hundred and forty*
+  — the same count once watched from the end of the table and once stood through at the near end of it.
   **No `##` section heading in the volume duplicates another** (`uniq -d` over the volume's section headings is
+  empty), and **no chapter heading in the manuscript duplicates another** (`uniq -d` over all 825 headings is
   empty).
 - **No paragraph in the batch is over 90 words** (the longest is exactly 90, at ch 818, and none exceeds the 120 ceiling) and **five paragraphs the draft carried between 91 and 122 words were broken at a beat.** Every chapter worked in the room with a lamp
   in it states how far the light goes — a hand's width along the near end and no further — and **no chapter
@@ -1264,9 +1272,20 @@ and all repaired.**
    not got is the difference between a thing that was never given to anybody and a thing nobody has got round to
    giving to anybody yet — **and the date is the fourteenth of that month, which is ch 814's.** The sentence a
    room cannot put a job on is now said *as though it were still standing* and knocked down in the same chapter.
-6. **ch 816, two figures.** *That was fifty-two days ago* for the thirtieth of the month beginning 2,624, which is
-   **day 2,623 and eighty-two days**; and *I have been keeping it since the eighth of this month* twice, which
-   points at 2,691, a day nothing happened on. **Both are the eighteenth of that month, which is ch 815.**
+6. **ch 816, three figures and one date, and the date was half-fixed.** *That was fifty-two days ago* is now **eighty-
+   two days**, which from 2,705 is **day 2,623**; and *I have been keeping it since the eighth of this month*
+   twice pointed at 2,691, a day nothing happened on, and is now **the eighteenth of that month, which is ch 815.**
+   **What this repair missed, and what the review of the batch on the page caught, is that the date the eighty-two
+   days is measured from still read *the thirtieth of the month beginning two thousand six hundred and twenty-
+   four*, which is day 2,653 and fifty-two days, and which undid the correction in the next breath. The thirtieth
+   of the month beginning 2,624 is not day 2,623; **day 2,623 is the thirtieth of the month beginning 2,594, and
+   that is ch 800's day, and ch 800 is the morning she went under that table with the lamp held low and counted
+   the stack of forty twice.** The page now says *two thousand five hundred and ninety-four*, and the section
+   heading it sits under, *What She Said On The Thirtieth*, is ch 800's thirtieth and not a new one. **The
+   parenthetical written into this record on the first pass, which asserted that the thirtieth of the month
+   beginning 2,624 is day 2,623, was itself wrong and is corrected here.** No other spoken date in the batch
+   claims a month that is not a first of a month, and no other relative day-count contradicts its own date: the
+   batch was re-measured line by line against `((day − 134) mod 30) + 1` and against the five opening series.
 7. **ch 817, a claim about the boy.** *I found it in the five nights after the seventh of the month beginning two
    thousand five hundred and thirty-four* — ch 780 is the seventh itself, at the seventh hour, and is where he saw
    the worn place. **He found it on the seventh, in the hour she told him.** *I have worked something out in the
@@ -1315,7 +1334,61 @@ and all repaired.**
     that month, the claim that nothing has ever carried light to the bottom of that stair is now that she is the
     only person who has, and every *tonight* at the eighth hour of a morning is now *this morning* or *today*.**
 
-### What Batch 0004 inherits and may not re-open
+### The review of this batch on the page, after it closed, and what it changed
+
+**Recorded 15 Oct 2026. Fifteen chapters, 30,995 words, drafted, reviewed, closed, then read again in full with
+the day table beside it. Nothing was rewritten and nothing was restarted: five figures and one date were
+corrected, one duplicated sentence was un-duplicated, five titles were renamed, and two card figures that the
+page had already overruled were written down here so that the next reader inherits the reasoning and not the
+error.**
+
+1. **ch 822, a callback that named the wrong day.** *And **yesterday**, at the ninth hour … I said out loud across
+   twenty-two paces of that table that I am going to keep standing here.* Ch 822 is day 2,718, so yesterday was
+   2,717, and **the sentence is ch 819's, spoken on the second of that month.** It is now **on the second of this
+   month**, which is the register the rest of the chapter already uses for the bundle (*on the first of this
+   month*).
+2. **ch 819, the same fault, nine chapters earlier, and it survived the first pass.** *… because I am the one who
+   paid it, at the ninth hour and ten minutes **yesterday***. The third sentence was said on **that** morning, at
+   about the ninth hour and ten minutes, and the cost was named twenty minutes later at about the ninth hour and
+   thirty minutes. **It is now *this morning***, and ch 819's own hour sequence runs forward for the first time:
+   seventh · eighth · ninth hour and ten minutes · ninth hour and thirty minutes.
+3. **ch 816, the month in a date the day-count contradicted.** *On the thirtieth of the month beginning two
+   thousand six hundred and twenty-four* is now *two thousand five hundred and ninety-four* — **day 2,623, ch 800's
+   thirtieth, eighty-two days before 2,705.** The full reasoning is under defect 6 above, where the earlier repair
+   is recorded and its own arithmetic corrected.
+4. **ch 812, a sentence that had been duplicated by a find and replace.** *The boards under the middle of that
+   table are the sound of it* stood alone as a paragraph and then opened the next paragraph whole, so the beat
+   landed twice in two sentences and read as a typing fault. **The one-line beat is untouched; the paragraph after
+   it now carries the second half of the thought** — nobody in the room to hear it, nineteen years of nobody, and
+   the wood going on making the noise either way — which is the fact he is about to give a sentence to.
+5. **Five titles renamed**, for the reason given under the titles above.
+6. **The budgets after the repair, measured, not asserted.** Zero `[` characters in fifteen, unchanged. **Zero
+   consecutive `She said,` paragraph openers in any file** (longest run 1 in all fourteen her chapters, and ch
+   812 is his). **No paragraph over 90 words** — the longest is exactly 90, at ch 818 — and none near the 120
+   ceiling. **`nobody` in ch 811–825 went from three to four**, and the fourth is the one the ch 812 rewrite put
+   in, so the figure recorded above is now a true one rather than a hoped-for one; `anybody` went from
+   twenty-nine to thirty, which is the same paragraph and is inside the volume's line. **Word-`eleven` is three,
+   unchanged.** **A trailing newline was added to the fourteen files in this batch that lacked one**, so the
+   batch's own diffs are clean; **eleven earlier files in Volume 14 still have none, and that is Batch 0001's and
+   Batch 0002's and is not this batch's to churn.**
+
+**Two card figures the page had already overruled and nobody had written down, so that Batch 0004 and every
+reviewer after it inherit the reasoning rather than re-deriving it from a card that is wrong:**
+
+- **The lamp carried twenty-two paces, four times, not three.** Card 818 says three. **The page says four and
+  names four dates for them at ch 818**, and ch 822's third reason — *the light that comes up eight hundred and
+  eighty steps in a bag on the back of a boy who has never been asked for it* — is written to the figure of four
+  and breaks if the count goes back to three. **The page is self-consistent and is the record: four.**
+- **Four hundred and seventeen days alone at night, not three hundred and ninety-seven.** Card 822 says 397.
+  **417 is `2,718 − 2,301`** and it is the same series as the room clock she has been keeping since ch 781, and
+  ch 812 puts **three hundred and eighty-eight days** on the identical claim four days earlier, which is
+  `2,689 − 2,301`. **397 has no anchor anywhere in the volume and is a card's arithmetic slip.** The page's 417
+  stands.
+- **Also inherited, unchanged and already true: the staleness figure.** `(D − 2,294) × 72 min` is spoken once in
+  fifteen chapters, at ch 814, and **both of the card's endpoints were wrong**; the page carries the
+  multiplication.
+
+**What Batch 0004 inherits and may not re-open**
 
 - **The day band moved once**: Batch 0003 is 2,685–2,721 and **Batch 0004 is 2,722–2,780**, and ch 840 is still
   day 2,780. Recorded in `outline/volume-14.md`'s corrections and here.

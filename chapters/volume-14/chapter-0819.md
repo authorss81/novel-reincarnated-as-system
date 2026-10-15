@@ -1,4 +1,4 @@
-# The Thing It Costs To Say It Twice
+# A Hundred And Forty Counts
 
 Forty-nine days since the eighth stage. Four hundred and fourteen days in that room. The cage out a hundred and eighty-one days. Right arm open four hundred and twenty-one days and it is not going to close. One thousand one hundred and fifty-six days lighter at this morning and not one going back.
 
@@ -94,7 +94,7 @@ She said, “A room can copy a figure. A room cannot act on a figure. And I have
 
 She put her hand flat on the strip of pale wood and did not move it.
 
-She said, “That is the cost. It goes into a room that copies and it is the first thing I have put into that room in nineteen years that is not a number, and I do not know what a number costs and I do know what this one cost, because I am the one who paid it, at the ninth hour and ten minutes yesterday, standing four feet off this table.”
+She said, “That is the cost. It goes into a room that copies and it is the first thing I have put into that room in nineteen years that is not a number, and I do not know what a number costs and I do know what this one cost, because I am the one who paid it, at the ninth hour and ten minutes this morning, standing four feet off this table.”
 
 ## Thin, And It Holds
 

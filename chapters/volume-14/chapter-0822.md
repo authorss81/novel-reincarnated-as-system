@@ -92,7 +92,7 @@ She did not move while she was saying it.
 
 She said, “And I am not vacating the record. I am not stopping saying figures out loud at this table at the seventh hour in the ordinary voice.”
 
-She said, “And yesterday, at the ninth hour, standing four feet off this end of it in front of a lamp, I said out loud across twenty-two paces of that table that I am going to keep standing here. I meant it then and I mean it now, and I am not moving the strip to make sure of it.”
+She said, “And on the second of this month, at the ninth hour, standing four feet off this end of it in front of a lamp, I said out loud across twenty-two paces of that table that I am going to keep standing here. I meant it then and I mean it now, and I am not moving the strip to make sure of it.”
 
 She said, “So the no is a no to the keeping. It is not a no to the record.”
 

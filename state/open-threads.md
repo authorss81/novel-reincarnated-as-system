@@ -3827,7 +3827,7 @@ the one look spent at ch 776.
 
 ## VOLUME 14 BATCH 0003 CLOSED at ch 825 — the open threads, the irreversible list, and what Batch 0004 may not inherit as clean prose
 
-**Batch 0003 is ch 811–825, day 2,685 to day 2,721, pressure *the keeping*, 30,977 words of body prose on method B
+**Batch 0003 is ch 811–825, day 2,685 to day 2,721, pressure *the keeping*, 30,995 words of body prose on method B
 at average 2,065, one midpoint at ch 812, one irreversible step at ch 822, zero bracketed layer lines in fifteen.
 Full record in `state/continuity.md` under ***VOLUME 14 BATCH 0003 — ch 811–825, \*the keeping\****.**
 

@@ -904,3 +904,23 @@ three speeches by the one at that table in the whole book so far (one spent at c
 ch 838); **no `Court` spoken anywhere in Volume 14; no `Scribe` in ch 811–825 except inside the words *describes*
 and *described*, which is the same false positive ch 723, ch 789 and ch 807 carry; and no moral answer anywhere in
 it.**
+
+### Batch 0003 was re-read after it closed, and four things moved. Do not re-open any of them.
+
+**Recorded 15 Oct 2026, after the review of ch 811–825 on the page. No chapter was rewritten and no chapter was
+restarted; the batch is 30,995 words and still fifteen chapters.** Batch 0004 inherits these as settled:
+
+- **The morning she stopped clearing the near end of that table is the thirtieth of the month beginning 2,594,
+  which is day 2,623 and ch 800's thirtieth, and it is eighty-two days before 2,705.** The page had been saying
+  *the month beginning two thousand six hundred and twenty-four*, which is day 2,653 and fifty-two days, and had
+  been carrying both numbers at once. **If ch 826 or any chapter after it goes back to that morning, it is
+  2,623.**
+- **The third sentence went across that table on the second of the month beginning 2,714, at about the ninth hour
+  and ten minutes.** Not the previous day, and not the day before that. It is the sentence ch 822 recalls when
+  she scopes what her no is not a no to.
+- **She has carried the lamp twenty-two paces four times and not three**, and **she has been alone at night in
+  that room four hundred and seventeen days and not three hundred and ninety-seven.** Both card figures are
+  wrong and the page is the record.
+- **Five titles in ch 811–825 were renamed after the batch closed** because they restated the chapter instead of
+  naming it. The current fifteen, in order, are in `state/continuity.md` under *VOLUME 14 BATCH 0003* and in
+  `state/chapter-summaries.md`, and **none of them names a date, an hour or an age.**
