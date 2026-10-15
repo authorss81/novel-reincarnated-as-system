@@ -34,7 +34,7 @@ She came into that room at about the ninth hour of the twenty-second of the mont
 
 She said, “Three pieces of wood face up about a foot in from this end of this table. One of them is mine and one of them has a man’s name cut into it in a third hand and came up this stair on the first of the month beginning two thousand six hundred and eighty-four and has never gone back down. And the third one sets a place out at the far side of this table.”
 
-She said, “And a fourth piece of wood about a foot further along, which is the six terms, and which I put back face up on the first of this month at about the seventh hour.”
+She said, “And a fourth piece of wood about a foot further along, which is the six terms, and which I put back face up on the first of the month beginning two thousand seven hundred and seventy-four at about the seventh hour.”
 
 She said, “And a strip of pale wood face up on the floor under this table at the near end of the leg, which came up this stair in an armful on the first of the month beginning two thousand two hundred and ninety-four, and which I put back under here on the seventh of the month beginning two thousand seven hundred and seventy-four, and which has a price at the head of it and four figures of mine in it.”
 
@@ -58,7 +58,7 @@ She said, out loud, standing, in the ordinary voice, at about the ninth hour and
 
 She said, “And I have said them every morning since I was nine years old and I have said them in that room every single time, and today is the first day in nineteen years that I am saying them anywhere else, and I am not saying them in that room first and then coming out here and saying them again. I am saying them once and it is going to be here.”
 
-She said, “And I am not holding the second one for a hundred and forty counts and I want to say why before I say it. I held it for a hundred and forty counts on the seventh of this month in that room because I was waiting for something. I am not waiting for anything here. There is no table at the bottom of this stair and there is no hand at the far end of it and there is nobody to hear a sentence before it is a sentence, and a thing I have been doing for nineteen years does not have anything to wait for out here.”
+She said, “And I am not holding the second one for a hundred and forty counts and I want to say why before I say it. I held it for a hundred and forty counts on the seventh of the month beginning two thousand seven hundred and seventy-four in that room because I was waiting for something. I am not waiting for anything here. There is no table at the bottom of this stair and there is no hand at the far end of it and there is nobody to hear a sentence before it is a sentence, and a thing I have been doing for nineteen years does not have anything to wait for out here.”
 
 And then she said the six out loud, one at a time, standing up on that step, in the ordinary voice, in the dark, the way she has said them in every room she has ever said them in since she was nine years old.
 
@@ -74,7 +74,7 @@ She said, “And if you put down one word that is not true, I will know it insid
 
 She said, “And it is a record. It is not a hand. You do not decide anything. I decide everything, and the only thing you have is that it is written down.”
 
-And then she said the second one, alone, standing, in the ordinary voice, on a step in the dark, with a lamp standing on the first landing over her head and four miles of mountain under her feet.
+And then she said the second one, alone, standing, in the ordinary voice, on a step in the dark, with a lamp standing on the second landing over her head and four miles of mountain under her feet.
 
 She said, “In daylight.”
 

@@ -4003,8 +4003,9 @@ for once.
 
 ## VOLUME 15 BATCH 0001 CLOSED at ch 855 — the threads this batch moved, opened, or closed
 
-**Fifteen chapters, days 2,781–2,825, 27,977 words, one bracketed line, one irreversible step at ch 855. Recorded
-15 Oct 2026 by the drafting phase.**
+**Fifteen chapters, days 2,781–2,825, 28,448 words, one bracketed line, one irreversible step at ch 855. Recorded
+15 Oct 2026 by the drafting phase; the word count was re-measured at the review repair and the figures repaired on the
+page are listed at `state/continuity.md` §*VOLUME 15 BATCH 0001 — REVIEW REPAIR*.**
 
 | Thread | State at ch 840 | State at ch 855 | Owner in Batch 0002 |
 | --- | --- | --- | --- |
@@ -4015,7 +4016,7 @@ for once.
 | **His yes at ch 812** | stands, she does not know | **stands, she does not know, and nothing in this batch touched it** | stands. Volume 15 does not tell her. |
 | **Him, the voice** | not spoken to since ch 840 | **not spoken to, said once out loud at ch 841, and he spoke twice, at ch 848 and ch 853, both present tense, both unanswered** | Batch 0002 carries the silence into the address. |
 | **The boy of sixteen** | asleep on the fourth landing, never asked for anything | **asked for a lamp at ch 844 and gave one in about four seconds; unnamed, unsent, unbound, and off the page after that chapter** | unnamed until ch 890. Batch 0002 does not name or bind him. |
-| **The lamp and the light** | one dead lamp in a cage, out two hundred and forty-seven days | **one live lamp on the first landing above her room, taken off a boy on his own account, and a rule she has said out loud: a lamp in a hand is about four feet of the world and a lamp on a stone floor is a whole landing** | open, and the pressure of Batch 0002. **No oil figure may appear.** |
+| **The lamp and the light** | one dead lamp in a cage, out two hundred and forty-seven days | **one live lamp taken off a boy on his own account at ch 844, set burning on the stone of the second landing at the fourth hour of the twenty-second and left there seventeen days, brought back down to her table and carried up again at ch 855 — and she picks it up out of the first landing at the close and does not leave it there, and goes up holding it — and a rule she has said out loud: a lamp in a hand is about four feet of the world and a lamp on a stone floor is a whole landing** | open, and the pressure of Batch 0002. **No oil figure may appear.** |
 | **The stair above the room** | not known to exist | **found at ch 843, nine landings counted as landings and never as steps, and it does not stop at nine, found at ch 853** | open. **It has no step count and may never be given one. Nothing above the ninth is named.** |
 | **What a place is kept for** | read out loud from a board at ch 818 and refused to answer | **kept as being there when the figures are said out loud, and she has kept one by accident at ch 848, and she has refused twice to say what the keeping is for** | open. She leaves it in the room at the bottom of the stair. |
 | **The second number on the top board** | did not exist in the record | **cut on the top board of forty, in three rooms above hers, the same number in all three, and she has not said it out loud and has not written it** | open and carried. Batch 0002 may not read it aloud without a reason on the page. |

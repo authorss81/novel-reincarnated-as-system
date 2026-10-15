@@ -6,7 +6,7 @@ There was no person in that room at the second hour of the first of the month be
 
 ## The Second Hour
 
-She said the figures out loud, standing, in the ordinary voice, on the ninth landing, at about the second hour, because she says them at the second hour on the first of a month whether or not there is a person within nine floors of her to hear them.
+She said the figures out loud, standing, in the ordinary voice, on the ninth landing, at about the second hour, because she says them at the second hour on the first of a month whether or not there is a person within nine landings of her to hear them.
 
 She said, “Forty boards.”
 
@@ -38,7 +38,7 @@ Then she said, out loud, at about the second hour and twenty minutes, standing, 
 
 “That is another bundle that has come up that stair since I came into this room, and it is the first one I have been told about while it was happening.”
 
-She said, “And it was four words and I am not going to ask what they are, because I have known since I was seven years old that they are not for asking, and I have asked one question out loud this month and it has been enough.”
+She said, “And it was one sentence and I am not going to ask what is in it, because I have known since I was seven years old that they are not for asking, and I have asked one question out loud in the last month and it has been enough.”
 
 She said, “And I am not going to pretend that I did not feel it go through. It is the only instrument I have got and it has never once said anything to me about a thing I was doing, and this morning it said something about a table nine landings under me and I was not at it.”
 
@@ -74,7 +74,7 @@ She said, “That is the first morning in nineteen years that nobody in that roo
 
 She said, “And there is a hand at the far end of that table that has not said a word in four hundred years and it went along those boards this morning at about the second hour and ten minutes with me nine landings up a stair with my ear on a wall.”
 
-She said, “And it did not stop because I was not in it. And it did not stop because I was in it either. That is what I have known since the seventh of this month and I have said it out loud in that room and I want it said on a landing nine landings above it where it cannot reach me.”
+She said, “And it did not stop because I was not in it. And it did not stop because I was in it either. That is what I have known since the seventh of the month beginning two thousand seven hundred and seventy-four and I have said it out loud in that room and I want it said on a landing nine landings above it where it cannot reach me.”
 
 ## And She Did Not Go Down
 

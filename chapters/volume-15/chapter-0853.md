@@ -82,7 +82,7 @@ And then she said the thing out loud, standing, in the ordinary voice, at about 
 
 She said, “It does not stop at nine.”
 
-She said, “That is the whole of what I have found out in five days and I am going to say it as one sentence because there is not one word to put in front of it and there is not one word to put after it.”
+She said, “That is the whole of what I have found out in a month and I am going to say it as one sentence because there is not one word to put in front of it and there is not one word to put after it.”
 
 She said, “I have been in this building five hundred and fifteen days and I have believed every morning of them that there is nothing above this line, and there is a stair going up out of the ninth landing and I have been on it for a long time and it has not ended and I cannot see where it ends.”
 
@@ -108,6 +108,6 @@ She said, “A number is a thing you can hold. And up there I had one hand on a 
 
 She said, “And there is a stair in this building that goes up out of the ninth landing and it does not stop, and I cannot see how much of it there is, and I am going to have to come back up it in the dark to find out, and I know that about myself now and it did not surprise me.”
 
-She said, “Four hundred and seventy-nine days is a long time to stand at the top of something.”
+She said, “Five hundred and fifteen days is a long time to stand at the top of something.”
 
 There was a lamp standing on a landing with no end in it, above the ninth, and a woman sitting down beside it with one hand on the stone behind her and one hand on the arm that would not close, and below her nine landings of building in the dark, and above her as much of it as four feet of lamp could not show.

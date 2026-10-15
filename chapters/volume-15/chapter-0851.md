@@ -22,7 +22,7 @@ She said the count out loud, standing, in the ordinary voice, because that is th
 
 She said, “One. Two. That is the one where there is a lamp burning on it now and has been since the twenty-second of the month beginning two thousand seven hundred and seventy-four.”
 
-She said, “Three. That is the one where the kept place is, and where I said a figure out loud standing up in the dark on the twenty-fourth, and I am not going into that room again this month.”
+She said, “Three. That is the one where the kept place is, and where I said a figure out loud standing up in the dark on the twenty-sixth, and I am not going into that room again this month.”
 
 She said, “Four. Five. Six. Seven. Eight. Nine.”
 
@@ -82,7 +82,7 @@ She said, “That is not a figure I have got wrong. That is a building that has 
 
 She said, “And I want to be careful here, because I have got two things and I am not going to mix them up. I have believed for nineteen years that nothing in the world goes past nine. And I have been standing in this building for five hundred and seven days and there are nine landings above me and a tenth flight going up out of the one I am sitting on.”
 
-She said, “Those are both true. And one of them has been true for nineteen years and the other one has been true since the thirteenth of this month and neither of them knows about the other.”
+She said, “Those are both true. And one of them has been true for nineteen years and the other one has been true since the thirteenth of the month beginning two thousand seven hundred and seventy-four and neither of them knows about the other.”
 
 She said, “And I am not going to use the second one to get at the first. I have got a strip of pale wood about a foot under a table four flights and nine landings down that has a price at the head of it and four figures of mine in it, and every figure I have ever had has had something above it that stopped at nine.”
 

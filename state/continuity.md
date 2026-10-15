@@ -1928,10 +1928,10 @@ found no fault in it, so it stands.**
 
 ## VOLUME 15 BATCH 0001 — ch 841–855, *the light, going up*, 15 Oct 2026
 
-**DRAFTED, AND REPAIRED AT REVIEW.** Fifteen chapters, ch 841–855, days 2,781–2,825, **28,414 words of body prose on
-method B** (`grep -v '^#' <file> | wc -w`, counted per file and summed), **average 1,894**. Per chapter: 841 2,127 ·
-842 1,930 · 843 1,989 · 844 2,003 · 845 1,820 · 846 1,928 · 847 1,883 · 848 1,938 · 849 1,874 · 850 1,445 · 851
-1,851 · 852 1,760 · 853 1,804 · 854 1,898 · 855 2,164. **Ch 850 is the smallest chapter in the batch on purpose and is the only one under the 1,800
+**DRAFTED, AND REPAIRED AT REVIEW.** Fifteen chapters, ch 841–855, days 2,781–2,825, **28,448 words of body prose on
+method B** (`grep -v '^#' <file> | wc -w`, counted per file and summed), **average 1,897**. Per chapter: 841 2,127 ·
+842 1,930 · 843 1,989 · 844 2,003 · 845 1,820 · 846 1,928 · 847 1,883 · 848 1,938 · 849 1,881 · 850 1,455 · 851
+1,858 · 852 1,760 · 853 1,804 · 854 1,894 · 855 2,178. **Ch 850 is the smallest chapter in the batch on purpose and is the only one under the 1,800
 guide; none is under the 1,300 floor and none is above the 2,700 guide.** All fifteen files carry a trailing newline.
 
 ### The day table, re-derived on the page before the batch was closed
@@ -2088,8 +2088,8 @@ were declined with reasons and are recorded as declined.
    **twenty-fourth** of the month beginning 2,714. `chapters/volume-14/chapter-0838.md` fixes it: *I refused on the
    **fifth** of the month beginning two thousand seven hundred and fourteen*, and ch 822's own header (four hundred
    and seventeen days in that room, day less 2,301) puts ch 822 at **day 2,718, the fifth of that month.** All three
-   now read the fifth, and the sixty-five-day interval in ch 849 is 2,802 less 2,737 read against the month-day and not
-   against a guessed number.
+   now read the fifth. **Ch 849's interval off that refusal was then read against the wrong day and is corrected in the
+   second pass below: it is 2,802 less 2,718, which is eighty-four days and not sixty-five.**
 3. **The daylight term's date was wrong in ch 855.** Ch 840 fixes it in the only terms the record has: *I said that term
    out loud on that stair **thirty-four days** ago in daylight* at day 2,780, which is **day 2,746, the third of the
    month beginning 2,744.** Ch 855 now says the third and not the twenty-fourth, which also makes its own *it has not
@@ -2102,9 +2102,12 @@ were declined with reasons and are recorded as declined.
    ch 851 both have the first. Corrected. **The opening figure at every one of the six series is re-derived per chapter
    and all ninety reproduce.**
 6. **Four intervals were off.** Ch 848's *twenty-three days* since the board came up is **twenty-five** (2,799 less
-   2,774). Ch 849's *fifty-five days* is **sixty-five**. **Ch 852's *twenty days* for a lamp set down on the twenty-second
-   is *seventeen* days, in four places including a section heading, and the same chapter's *four days* is seventeen.**
-   Ch 846's *six days* since the thirteenth is **nine**.
+   2,774). Ch 849's *fifty-five days* is **sixty-five** — **which the second pass below corrects again to
+   eighty-four, because 2,737 is not a day the refusal was said on and the interval has to come off ch 822's own
+   header.** **Ch 852's *twenty days* for a lamp set down on the twenty-second is *seventeen* days.** Ch 846's *six days*
+   since the thirteenth is **nine**. **The section heading *The Lamp, Twenty Days On* and a sixth sentence in that
+   chapter were missed by this pass and are corrected in the second pass below.** The same chapter's separate *four
+   days* — how long she has been going down in the dark, fifth to ninth — was never wrong and is left alone.
 7. **Ch 854's *nine days* to the first of a month was wrong.** Day 2,821 to the next first, **2,834**, is **thirteen**,
    and thirteen is the figure Batch 0002's card depends on.
 8. **Ch 854's *twenty days* without writing was wrong.** The four blank leaves have been unwritten since the seventh of
@@ -2116,9 +2119,9 @@ were declined with reasons and are recorded as declined.
 9. **Ch 853's opening put the lamp on the ninth landing while the chapter carries it past the ninth.** It now stands on
    the ninth and she is a long way above it.
 10. **Ch 854 contradicted itself about where she stopped on the way down**, saying in one line that she got to the top
-    of the stair and in the next that she got to a landing and went up four from there. She stopped at the fifth at the
-    tenth hour, came on to the second at the eleventh, and went back up four landings to the second, where she has been
-    ever since.
+    of the stair and in the next that she got to a landing and went up four from there. **She stopped at the fifth at
+    the tenth hour and came on to the second at the eleventh — which is three landings down, not four up, and the
+    second pass below corrects the sentence, which had been left reading *went back up four landings to the second*.**
 11. **The lamp changed landings off the page between ch 854 and ch 855.** It is on the second landing in both, and the
     climb to fetch it is on the page at ch 855.
 12. **Ch 847 counted doorways and landings she had not reached**, and ch 849 and ch 851 carried the nine-landing figure
@@ -2133,8 +2136,9 @@ were declined with reasons and are recorded as declined.
     and **Ch 843's closing line said the room had not had a person in it for a morning since the seventh of this
     month**, which is false — she has been in it every morning for five hundred and twenty-four days. Both corrected.
 17. **Ch 843's *I counted a stair she has walked four times*** is a pronoun slip in her own mouth. Corrected.
-18. **Ch 842's abandoned promise**, *going on the twenty-eighth of this month to look at every part of that room*, is
-    conditioned now so that it is not a date the page never delivers.
+18. **Ch 842's abandoned promise**, *going on the twenty-eighth of this month to look at every part of that room*, was
+    conditioned here and is dated properly in the second pass below, where it becomes the **thirteenth**, which is the
+    day ch 843 actually opens on and the day the page pays it off.
 
 ### The craft findings closed
 
@@ -2198,3 +2202,124 @@ or more digits 0 · blockquotes, tables, code fences and horizontal rules 0 · *
 paragraphs over 120 words 0, the longest 120 · duplicate `#` headings across all eight hundred and fifty-five standing
 headings manuscript-wide 0 · duplicate `##` headings inside the batch 0. **Every one of the fifteen day-table ordinals
 re-derives under `((day − 134) mod 30) + 1`.** No two chapters on one day and no step back.
+
+---
+
+## VOLUME 15 BATCH 0001 — REVIEW REPAIR, SECOND PASS, 15 Oct 2026
+
+**A second reviewer read `logs/volume-15-batch-0001.review.log` and audited the fifteen chapters against the batch
+card, `outline/volume-15.md`, the day table in `outline/batches/volume-15-batch-0001.md`, ch 840 and the state
+files the first pass wrote. **Nineteen defects were found on the page and thirteen in the state files and in the next
+phase's prompt.** All thirty-two are closed. **No chapter was rewritten, no beat was moved, no day was moved,
+no midpoint or climax was moved, no character changed what she does or decides, and the batch is still fifteen
+chapters on the same fifteen days, 2,781–2,825.** The batch's word count moved from 28,414 to **28,448** and its
+average from 1,894 to **1,897**, and nothing else about the page's shape changed.
+
+**The single defect class behind almost all of it: a *this month* that means the previous one.** The batch runs from
+the eighth of the month beginning 2,774 into the twenty-second of the month beginning 2,804, and after ch 850 every
+chapter is in a month that did not exist when the earlier chapters were written. A reference to *this month* written
+for a chapter before 2,804 and left standing in a chapter after it points at a day in the future. **Six instances
+were found and all six are corrected**, and the first pass corrected two more of the same class, at ch 854 and at
+ch 855.
+
+### The nineteen on the page
+
+1. **Ch 848 dated the board that sets out the kept place to the first of the month beginning 2,714.** The same
+   chapter says *the first of this month* twice and *twenty-five days* once, and 2,799 less 25 is **2,774**. Now the
+   first of the month beginning **2,774**. **This is the first-of-a-month defect the batch card warned about, one
+   class of it, and the first pass did not catch it.**
+2. **Ch 849 carried 2,799's room-count in its body.** Its own opening line says *five hundred and one days in that
+   room* and three sentences in the chapter said *four hundred and ninety-eight*. All three now say five hundred and
+   one.
+3. **Ch 849's interval off the refusal was sixty-five days, derived off 2,737.** Ch 822 is **day 2,718** and
+   2,802 less 2,718 is **eighty-four days**. The first pass introduced this error while correcting the month-day, and
+   it is corrected here.
+4. **Ch 849 dated the refusal leaf to *the seventh of this month*.** It was written on the seventh of the month
+   beginning **2,744**, day 2,750, which ch 834's own header (four hundred and forty-nine days in that room) and ch
+   838 both fix. Now named.
+5. **Ch 850 dated the first of a month she missed as *since the seventh of this month*** — a day seven of the future.
+   Now the seventh of the month beginning **2,774**.
+6. **Ch 850 said the announcement was *four words*.** The bracketed layer line above it is thirteen. It is now *one
+   sentence*, which is what the chapter needs and what the bracket is.
+7. **Ch 850 counted her distance in *nine floors*** where the whole batch counts landings. Now **nine landings**.
+8. **Ch 847 said the stair had never been lit before the seventh hour of the sixteenth**, and the lamp is set down on
+   that stair at the fourth hour of the **twenty-second**, which ch 846, ch 849, ch 851, ch 852 and ch 854 all say
+   again. Now the twenty-second.
+9. **Ch 851 dated the figure she said out loud with her hands on the kept place to the twenty-fourth.** She said it
+   on the **twenty-sixth** — ch 848's own day, and ch 847 is explicit that on the twenty-fourth she stood at the far
+   end of that table and said nothing at all for a count of a hundred and forty.
+10. **Ch 851 dated the start of the second fact to *the thirteenth of this month*** — a day in the future. Now the
+    thirteenth of the month beginning **2,774**.
+11. **Ch 852 left the lamp at twenty days in six sentences and in its section heading** after the first pass had
+    corrected four of that chapter's body sentences and missed the fifth, the sixth and the heading. **All seven now
+    read seventeen**, and the heading is *The Lamp, Seventeen Days On*. The same chapter's separate *four days* —
+    how long she has been going down in the dark, the fifth to the ninth — is correct and was left alone.
+12. **Ch 852 dated the hand that went off the wall to the twenty-second.** Ch 847 puts that on the **twenty-fourth**
+    at about the fifth hour, and ch 847 is the chapter that says so out loud. Now the twenty-fourth.
+13. **Ch 853 ended on *four hundred and seventy-nine days is a long time to stand at the top of something* — a figure
+    copied from ch 840's opening line.** The chapter's own count is **five hundred and fifteen**. Now that.
+14. **Ch 855 dated the terms board to *the first of this month*** — 2,804, the day she was nine landings up with her
+    ear against a wall and had not been near her own table in three days. It went back face up on the morning of the
+    first of the month beginning **2,774**, which is the morning the refusal went down nine hundred and four steps in
+    a cloth with forty boards on top of it, and `chapter-0840.md` says so on the page.
+15. **Ch 855 dated the hundred and forty counts she held on the second term to *the seventh of this month*** — 2,811,
+    a day that has not happened. Now the seventh of the month beginning **2,774**, which is ch 840.
+16. **Ch 855 put the lamp on the first landing while she says the six terms on the bottom step of the stair.** She
+    left it on the **second** landing at the seventh hour, an hour and a half earlier, and does not move it until the
+    ninth hour and forty minutes.
+17. **Ch 854 said she *turned round and went back up four landings* from the fifth to the second.** Four up from the
+    fifth is the ninth. She went **down three**.
+18. **Ch 854 called the seventeenth *three days* after the thirteenth.** It is **four**.
+19. **Ch 842's closing promise was dated the twenty-eighth of the month**, a day no chapter reaches and a day ch 849's
+    own header rules out — *I have not been inside the room at the bottom of that stair since the sixteenth of this
+    month.* Now the **thirteenth**, which is the day ch 843 opens on and pays off, and which makes ch 843's first
+    line — *I am going to look at the wall* — the answering beat instead of a second promise.
+
+### The thirteen in the state files and the next prompt
+
+- **`state/open-threads.md` carried 27,977 words for the batch.** Measured four separate times, the batch is
+  **28,448**. Corrected.
+- **`workspace/volume-15-batch-0002/PROMPT.md` carried 27,977 words and an average of 1,865** — the figures from
+  before the first pass, which no file agreed with. Now 28,448 and 1,897. **This is the file Batch 0002 will be
+  drafted from, so a wrong count in it is a wrong count in the next batch's hand-off.**
+- **Three state files placed the live lamp *on the first landing above her room*.** At the close of ch 855 the lamp
+  is **in her left hand**, past the first landing, going up: she carried it back up to the second landing at the ninth
+  hour and forty minutes, set it down on her own table, picked it up, carried it through the gap and put it on the
+  first landing **and did not leave it there.** Corrected in `state/current.md`, `state/open-threads.md` and the
+  Batch 0002 prompt.
+- **`state/current.md` carried ch 848's kept place at the twenty-fourth** of the month beginning 2,774 — the
+  twenty-fourth is the day she found it with her hand and said nothing over for a count of a hundred and forty. The
+  twenty-sixth is the day she said the figures. Corrected.
+- **`state/current.md` and the Batch 0002 prompt dated the terms board to *the first of the month beginning 2,804*.**
+  It is face up since the morning of the first of the month beginning **2,774**. Corrected in both, and the prompt now
+  carries it in the *Two dates Batch 0002 inherits* list so the next phase cannot get it wrong again.
+- **`state/chapter-summaries.md` carried a stale title, *The Stair Winds*, for ch 847** (retitled *Nothing In My
+  Hands* by the first pass), **two rooms entered at ch 851** where the page has three, **five doorways in nine
+  landings attributed to ch 847** where ch 847 has not been past the fourth landing, **a twenty-day lamp and a
+  twenty-day first sight of the stair at ch 852**, **nine days to the first of a month and twenty days without
+  writing at ch 854** where the page says thirteen and seventy-one, and **four hundred and ninety-eight days at
+  ch 849** where the chapter now says five hundred and one. All six corrected. **The batch's word count and average
+  in `state/current.md`, `state/chapter-summaries.md`, `state/continuity.md` and `state/book-metadata.md` are now
+  28,448 and 1,897, re-measured per file after the last edit.**
+
+### What was checked and deliberately left alone
+
+**`two thousand seven hundred and forty-four` is not a slip and was not touched.** It is a standing Volume 14 month
+and ch 843's *the ninth of the month beginning two thousand seven hundred and forty-four* is the same doorway-look at
+the same hour that `chapters/volume-14/chapter-0836.md` puts on page, and ch 855's *the third of* that month is the
+daylight term ch 830 spends. **All four *forty-four* references in the batch are correct, and every one of them would
+have been flagged by a grep for *forty-four*.**
+
+**Ch 841 and ch 853's opening lines stay broken in the way the first pass broke them.** *One thousand two hundred and
+twenty-two of the days gone* and *Days by which the right arm has been open at the elbow, five hundred and twenty-two*
+are the same figures as every other chapter's formula, phrased to keep the banned string *twenty-two days* off the
+page. Do not restore them.
+
+**The batch's paragraph rhythm was measured and found to be the book's.** *She said* opens 487 of 841 non-blank
+paragraphs across the fifteen chapters, fifty-seven per cent, against fifty per cent in `chapters/volume-14/`
+ch 820–839; the longest run is eight, against ten at `chapter-0826.md`. **It is the voice of the book and not a tic
+of this batch, and no line was rewritten to break it.**
+
+**The bracketed layer line at ch 850 keeps its wording, including *the top of the second stair*.** The outline and
+the batch card both name the second stair there and the card is the authority; the line is a plain report of forty
+boards on a table, which is what happened, and it is one sentence and it explains nothing.

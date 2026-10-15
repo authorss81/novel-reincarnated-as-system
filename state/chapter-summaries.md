@@ -369,22 +369,23 @@ top of a tower that has nine landings above her room and does not stop there, ni
 of the seventh realm, with one person in her arithmetic who did not know it when he said his name, and she has
 just asked the voice in her head what he wants for the first time in nineteen years, and he has not answered.
 
-## VOLUME 15 BATCH 0001 — ch 841–855, *the light, going up*, the opening batch of Volume 15. Day 2,781–2,825. WRITTEN.
+## VOLUME 15 BATCH 0001 — ch 841–855, *the light, going up*, the opening batch of Volume 15. Day 2,781–2,825. WRITTEN
+AND REPAIRED AT REVIEW.
 
-**Fifteen chapters, 28,414 words of body prose on method B** (every line not beginning `#`, counted per file with
-`grep -v '^#' <file> | wc -w` and summed), **average 1,894**. Per chapter: 841 2,127 · 842 1,930 · 843 1,989 · 844
-2,003 · 845 1,820 · 846 1,928 · 847 1,883 · 848 1,938 · 849 1,874 · 850 1,445 · 851 1,851 · 852 1,760 · 853 1,804 ·
-854 1,898 · 855 2,164. **One bracketed layer line in fifteen, at ch 850**, spending Batch 0001's one of Volume 15's
+**Fifteen chapters, 28,448 words of body prose on method B** (every line not beginning `#`, counted per file with
+`grep -v '^#' <file> | wc -w` and summed), **average 1,897.** Per chapter: 841 2,127 · 842 1,930 · 843 1,989 · 844
+2,003 · 845 1,820 · 846 1,928 · 847 1,883 · 848 1,938 · 849 1,881 · 850 1,455 · 851 1,858 · 852 1,760 · 853 1,804 ·
+854 1,894 · 855 2,178. **One bracketed layer line in fifteen, at ch 850**, spending Batch 0001's one of Volume 15's
 three. Zero `scribe`, zero `court`, zero `ledger`, zero `ascendant`, zero `choir`, zero `forgiv`, zero `the year`,
 zero `thank`, zero `twenty-two days`. No stage, no tenth, no binding, no name, no frame scene. **Ch 850 is the
 smallest chapter in the batch on purpose and is the only one under the 1,800 guide; none is under the 1,300 floor.**
 **Ch 855 is the batch's irreversible step.** Titles: *Not Waiting · The Other End · The Second Opening · Four Seconds ·
-Another Table · The Lamp She Left · The Stair Winds · One Of Hundreds · Not Hers · The Room Ran On · Nine Counted ·
+Another Table · The Lamp She Left · Nothing In My Hands · One Of Hundreds · Not Hers · The Room Ran On · Nine Counted ·
 Back Down Four · Above Nine · The Whole Of It · What She Left.*
 
 - **ch 841, day 2,781, the eighth. NOT WAITING.** Names the cold first, then says she is not saying the six this
   morning and that it was the last time in that room, which is the change and not a recap of ch 840. Says out loud once
-  that she is not speaking to him, and that nine days of it has not been difficult. Runs her own method and finds the
+  that she is not speaking to him, and that one day of it has not been difficult. Runs her own method and finds the
   one question she never asked and the arithmetic reason she never asked it. **Asks it three times. Gets nothing.
   Decides not to wait, because that stair carries boards and has never once carried an answer back.**
 - **ch 842, day 2,783, the tenth. THE OTHER END.** Nobody answers it and she says that in the ordinary voice and claims
@@ -420,14 +421,15 @@ Back Down Four · Above Nine · The Whole Of It · What She Left.*
   she has been carrying the end of her own reach. Sets the lamp down on the second landing and leaves it burning,
   which is the first thing of hers she has ever set going that she cannot stop, and goes up in the dark with nothing
   in her hands. Nine days to the first of a month.**
-- **ch 847, day 2,797, the twenty-fourth. THE STAIR WINDS.** Up in the dark. The fear named first, and then the thing
+- **ch 847, day 2,797, the twenty-fourth. NOTHING IN MY HANDS.** Up in the dark. The fear named first, and then the thing
   under the fear, which is that no person would come if she did not come back. **Loses the wall on the ninth turning
   and goes down on her left knee and says it out loud as a hand that went off a wall and not as anything else.**
   Third landing, third room, walked by touch: twenty-two paces, the boards, the bundle, the cage, nothing on the near
-  end. The flag moves at about the nineteenth pace under a table she has never seen. Five doorways in nine landings and
-  she has been inside two. **Decides to walk each table by touch the way she walks her own, because her hand has been
-  passing that far end for two hundred days and has never once stopped on anything. She is going to be up here a
-  while.**
+  end. The flag moves at about the nineteenth pace under a table she has never seen. **Three doorways in three
+  landings and she has been inside all three of them, and she has not gone past the fourth landing since the
+  twenty-second and says out loud that not knowing is not carefulness.** **Decides to walk each table by touch the way
+  she walks her own, because her hand has been passing that far end for two hundred days and has never once stopped on
+  anything. She is going to be up here a while.**
 - **ch 848, day 2,799, the twenty-sixth. ONE OF HUNDREDS. THE MIDPOINT.** Walks the third table in the dark and stops
   between the twentieth pace and the end. **A place of the length of a forearm and the breadth of a hand, kept, not a
   seat, and no person has ever sat in it.** She knew it before she had it, because she has walked past it two hundred
@@ -441,12 +443,12 @@ Back Down Four · Above Nine · The Whole Of It · What She Left.*
 - **ch 849, day 2,802, the twenty-ninth. NOT HERS.** Two days on a stone floor without going down. Walks all three
   tables twice; the second number is on all three and is the same and she says nothing and writes nothing; goes into
   the sixth room and says four figures out loud at the near end of it because there is nothing else to do with her
-  mouth. **The picture she carried for fifty-five days was that the place had been kept for her. It was not. The
+  mouth. **The picture she carried for eighty-four days was that the place had been kept for her. It was not. The
   refusal was not hers, and she says that out loud, standing, and does not take either of the two refusals back.**
   Every figure she ever said in that room went into a table that was not hers, and the reason she never worked out
   what it was a part of is that there was no reason to. **Refuses twice to say what a place is kept for and leaves it
-  in the room at the bottom of the stair.** Ends: *I have been the only person in a room for four hundred and
-  ninety-eight days and I did not know that was a job.*
+  in the room at the bottom of the stair.** Ends: *I have been the only person in a room for five hundred and
+  one days and I did not know that was a job.*
 - **ch 850, day 2,804, the first of the month. THE ROOM RAN ON. The batch's smallest chapter and the one a reader
   keeps.** Nine landings up, at the ninth landing, at the second hour, with her ear against stone. Says the figures
   out loud. **Puts her ear to the wall for a hundred and forty counts and hears nothing and says it is the first time
@@ -457,8 +459,9 @@ Back Down Four · Above Nine · The Whole Of It · What She Left.*
   that room heard one.** The room ran on. She does not call it a relief. **First time in nineteen years she has chosen
   to miss a first of a month on purpose, and she is not going down half an hour after it happened either.**
 - **ch 851, day 2,808, the fifth. NINE COUNTED.** Says out loud that she is counting landings and not steps and has kept
-  it for twenty-two days. **What is on the nine**, one to nine, five doorways, two rooms entered and both the same, and
-  the sixth which is the same room with nothing on the near end. Turns round at the ninth. **There is a stair going up
+  it for twenty-two days. **What is on the nine**, one to nine, five doorways, three rooms entered and all three of
+  them the same, and the sixth entered on the twenty-seventh, which is the same room with nothing on the near end.
+  Turns round at the ninth. **There is a stair going up
   out of this landing, it goes up for longer than two paces, and the stone is warmer on that side and she has noticed
   it and is putting it on the page because the things she notices and does not say are the ones that cost.** Nine, and
   every number she has ever had stops at nine, and this building does not. **Says out loud that she has not taken a
@@ -467,9 +470,9 @@ Back Down Four · Above Nine · The Whole Of It · What She Left.*
   moved once.
 - **ch 852, day 2,812, the ninth. BACK DOWN FOUR.** Down four landings in the dark, says out loud that this is the part
   she does not like, and is not counting it and says so once. **The lamp has been burning unattended on that stone for
-  twenty days, the wick is black and standing two hands up, and that is the second thing of hers running in this
+  seventeen days, the wick is black and standing two hands up, and that is the second thing of hers running in this
   building without her.** Trims it. **Says the cost before she picks it up: a mark is worth what it is worth until the
-  day you need to carry it.** Picks it up. **First time in twenty days she can see the stair**, and will not hold that
+  day you need to carry it.** Picks it up. **First time in seventeen days she can see the stair**, and will not hold that
   against anybody, and knows what she is trading. Loses the wall twice, the lamp goes over on its side on the second,
   says *Hold there* in a voice that is not quite the ordinary voice. **Puts it on the ninth landing and says she is
   going up out of the ninth and is not going to count anything and is not going to stop when she stops being able to
@@ -489,11 +492,11 @@ Back Down Four · Above Nine · The Whole Of It · What She Left.*
   the second thing under it: taking the lamp up means the landings behind her are unmarked, and if she does not come
   back there is no one to find out for a long time, and she bought that with the lamp.** The plan in four parts, out
   loud, standing, in the ordinary voice, and none of them is a figure. **And the one thing that is not in the plan:
-  she is frightened of the top, and that is not the same as being frightened of the stair, and it is worse.** **Nine
+  she is frightened of the top, and that is not the same as being frightened of the stair, and it is worse.** **Thirteen
   days to the first of a month and she is going to miss this one as well.** No oil figure, no exhaustion date. Has
-  written nothing on a blank leaf in twenty days and does not intend to up there either: a plan does not need a leaf.
+  written nothing on a blank leaf in seventy-one days, since the seventh of the month beginning two thousand seven hundred and forty-four, and does not intend to up there either: a plan does not need a leaf.
 - **ch 855, day 2,825, the twenty-second. WHAT SHE LEFT. THE IRREVERSIBLE STEP.** Down nine landings in the dark, leaves
-  the lamp on the first landing, down eight hundred and eighty steps in two runs of four hundred and forty, and at the
+  the lamp on the second landing, down eight hundred and eighty steps in two runs of four hundred and forty, and at the
   fourth opening says out loud that it is the last time and that she is not going to make anything of it because it
   is a stair and it has been there all along. **In her own room, in the dark, at the ninth hour, she says what is in
   it and touches none of it: three boards face up a foot in from the near end, the terms board a foot further along,

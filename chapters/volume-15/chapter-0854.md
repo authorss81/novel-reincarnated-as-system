@@ -16,9 +16,9 @@ She said, “And I did not go into my own room.”
 
 She said, “That is the thing I want to say first, because I have had five days to decide how to say it, and if I say it in the wrong order it is going to look like a thing I did on purpose. And it was not on purpose.”
 
-She said, “It was that I got as far as the fifth landing at about the tenth hour with a lamp in my hand and my arm open and my breath going nine counts standing still, and I stood in the dark, and then I turned round and went back up four landings and sat down here on the second, which is where I have been ever since.”
+She said, “It was that I got as far as the fifth landing at about the tenth hour with a lamp in my hand and my arm open and my breath going nine counts standing still, and I stood in the dark, and then I went down three landings and sat down here on the second, which is where I have been ever since.”
 
-She said, “And then I came down the rest of it on the seventeenth, which was three days after I came off it.”
+She said, “And then I came down the rest of it on the seventeenth, which was four days after I came off it.”
 
 ## A Lamp, A Stair, And No Plan
 

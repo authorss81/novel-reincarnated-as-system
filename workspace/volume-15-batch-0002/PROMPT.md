@@ -7,9 +7,10 @@ gives to the controller alone.**
 
 ## What this phase is
 
-**Volume 15 Batch 0001, ch 841–855, IS ON THE PAGE.** Fifteen chapters, days 2,781–2,825, **27,977 words of body
-prose on method B** (`grep -v '^#' <file> | wc -w` per file, summed), **average 1,865**. **One bracketed layer line in
-fifteen, at ch 850**, which spends Batch 0001's one of Volume 15's three. No stage and no tenth. No binding, no
+**Volume 15 Batch 0001, ch 841–855, IS ON THE PAGE AND REPAIRED AT REVIEW TWICE.** Fifteen chapters, days
+2,781–2,825, **28,448 words of body prose on method B** (`grep -v '^#' <file> | wc -w` per file, summed),
+**average 1,897**. **One bracketed layer line in fifteen, at ch 850**, which spends Batch 0001's one of Volume 15's
+three. No stage and no tenth. No binding, no
 name, no `scribe`, no frame scene. Midpoint ch 848, climax ch 853, **irreversible step at ch 855**. The live position
 is `state/current.md` under *Who is where at end of chapter 855*; the compact pass is `state/chapter-summaries.md`
 under *VOLUME 15 BATCH 0001*; the threads are `state/open-threads.md` under *VOLUME 15 BATCH 0001 CLOSED at ch 855*.
@@ -20,12 +21,16 @@ ever disagree, the outline wins.**
 ## What this batch opens on — from the page at 855, not from a plan
 
 Day 2,825, the twenty-second of the month beginning two thousand eight hundred and four, at about the tenth hour. A
-woman of nineteen with three fingers and a thumb standing on the first landing above a room she has just walked out
-of for the first time in five hundred and twenty-four days, with a lamp in her left hand, a right arm open at the
-elbow five hundred and thirty-one days, and a stair going up out of the ninth landing that does not stop. **She said
-out loud at the tenth hour that she was never going to stand four feet off the near end of that table again, and she
-did not say it out loud, and she was never going to.** Down below her, untouched: three boards face up a foot in from
-the near end, the terms board a foot further along, the strip of pale wood face up on the floor under the table at the
+woman of nineteen with three fingers and a thumb **past the first landing above a room she has just walked out of for
+the first time in five hundred and twenty-four days and going up**, with a right arm open at the elbow five hundred and
+thirty-one days, and a stair going up out of the ninth landing that does not stop. **The lamp is in her left hand and
+it is not standing anywhere: she carried it back up to the second landing at the ninth hour and forty minutes, brought
+it down and set it on her own table, picked it up again, carried it through the gap and put it on the stone of the
+first landing, and she did not leave it there.** **She said out loud at the tenth hour that she was never going to
+stand four feet off the near end of that table again, and she did not say it out loud, and she was never going to.**
+Down below her, untouched: three boards face up a foot in from
+the near end, the terms board a foot further along and face up since the morning of the first of the month beginning
+2,774, the strip of pale wood face up on the floor under the table at the
 near end of the leg, the bar nine feet nine against the wall on the left and dated nowhere, a bundle under the far
 end corded twice and not knotted, a lamp in a cage on the shelf at the far end out two hundred and ninety-one days, and
 the second place, kept four hundred years, empty, that no person has ever sat in.
@@ -79,6 +84,10 @@ close the batch, not after.
 - **The strip of pale wood went back under that table on the seventh of the month beginning two thousand seven hundred
   and seventy-four, day 2,777** — not *the seventh of this month*, which at any day in this band means a month
   beginning 2,804.
+- **The terms board went back face up about a foot further along on the morning of the first of the month beginning
+  two thousand seven hundred and seventy-four, day 2,774** — the same morning the refusal went down nine hundred and
+  four steps in a cloth — and it is still face up where she left it. **Not the first of this month**, which at any day
+  in this band means 2,864 or 2,894.
 - **The right arm opened at the elbow on the first of the month beginning two thousand two hundred and ninety-four,
   day 2,294**, and has not closed. Not the sixth.
 - **The four figures of hers in that strip are established on the page at ch 811 and ch 815** — *a price at the head of

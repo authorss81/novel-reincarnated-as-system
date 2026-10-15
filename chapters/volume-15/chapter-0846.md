@@ -72,7 +72,7 @@ She said, “And I am not going to put a hand into this one. I said that out lou
 
 She put her hand flat on the top of that table instead.
 
-She said, “There are nine days to the first of this month, and forty boards are going on a table four miles down a mountain from me on the morning of the ninth, and I am not going to be standing under them, and that is a thing I chose on the thirteenth and I have not gone back on it.”
+She said, “There are nine days to the first of this month, and forty boards are going on a table four miles down a mountain from me on the morning of the first, and I am not going to be standing under them, and that is a thing I chose on the thirteenth and I have not gone back on it.”
 
 ## The Lamp Is A Mark
 

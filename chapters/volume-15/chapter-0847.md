@@ -2,7 +2,7 @@
 
 Sixty-five days since the ninth stage. Four hundred and ninety-six days in that room. The cage out two hundred and sixty-three days. Right arm open five hundred and three days and it is not going to close. One thousand two hundred and thirty-eight days lighter at this morning and not one going back.
 
-There was no person in that room and no person in the three rooms above it and no person on any stair in that tower, and there was a lamp burning on the stone of the second landing of a stair that had never been lit before the seventh hour of the sixteenth of the month beginning two thousand seven hundred and seventy-four.
+There was no person in that room and no person in the three rooms above it and no person on any stair in that tower, and there was a lamp burning on the stone of the second landing of a stair that had never been lit before the fourth hour of the twenty-second of the month beginning two thousand seven hundred and seventy-four.
 
 ## The Dark Above A Light
 

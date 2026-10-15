@@ -1136,13 +1136,16 @@ no `.done` marker.**
 
 **A cold reader starts here. This block supersedes *Volume 15 planned* and *Who is where at end of chapter 840*
 above it wherever the two differ.** Recorded 15 Oct 2026 by the Volume 15 Batch 0001 drafting phase. **Fifteen
-chapters, days 2,781–2,825, 28,414 words of body prose on method B, average 1,894. One bracketed layer line in
+chapters, days 2,781–2,825, 28,448 words of body prose on method B, average 1,897. One bracketed layer line in
 fifteen, at ch 850. No stage, no tenth, no binding, no name, no Scribe word, no frame scene. Irreversible step at
 ch 855.** Volume 14 remains closed on the page at ch 781–840, 121,530 words, zero brackets.
 
 Day 2,825, the twenty-second of the month beginning two thousand eight hundred and four, at about the tenth hour. A
-tower with nine landings above her room and a stair out of the ninth that does not stop. A lamp standing on the
-first landing above her room, brought up on a boy's own account and not to be carried up again. A woman going up.
+tower with nine landings above her room and a stair out of the ninth that does not stop. **A lamp in her left hand
+at the first landing above her room and going up past it — taken off a boy on his own account at ch 844, set down on
+the stone of the second landing at the fourth hour of the twenty-second and left burning there seventeen days, and
+picked up off it at the ninth hour and forty minutes of the twenty-second, carried down to her own table, picked up
+again, carried through the gap, set on the stone of the first landing, and not left there.** A woman going up.
 
 ### Her
 
@@ -1205,8 +1208,9 @@ second of the month beginning 2,804.
   great many, and the only reason mine was different is that somebody was in it.*
 - **She kept a place herself, by accident, at ch 848.** Keeping is being there when the figures are said out loud. She
   said figures out loud, standing up, in the ordinary voice, with her hands on the place, in a room with no person in
-  it, on the twenty-fourth of the month beginning 2,774. **She does not know what that cost and does not find out in
-  this batch.**
+  it, on the **twenty-sixth** of the month beginning 2,774, which is ch 848's own day; the place itself she found with
+  her hand on the twenty-fourth and said nothing out loud over for a count of a hundred and forty. **She does not know
+  what that cost and does not find out in this batch.**
 - **Landings four, five, six, seven and eight.** Doorways in four of them. She went into the sixth and it is the same
   room. She has not been into the other three.
 - **Landing nine is the ninth above her room** and a stair goes up out of it. Past it, at ch 853, **the stair does not
@@ -1219,8 +1223,10 @@ second of the month beginning 2,804.
 ### What the room was left as, and it is the last page of it
 
 **She left it at ch 855 and she does not come back down in this volume.** Three pieces of wood face up about a foot in
-from the near end of a table twenty-two paces long. A fourth about a foot further along, the terms board, face up
-since the first of the month beginning 2,804. **A strip of pale wood face up on the floor under the table at the near
+from the near end of a table twenty-two paces long. A fourth about a foot further along, the terms board, turned back
+onto its own face at about the seventh hour **on the morning of the first of the month beginning 2,774, day 2,774** —
+the morning the refusal went down nine hundred and four steps in a cloth with forty boards on the top of it — and not
+moved since. **A strip of pale wood face up on the floor under the table at the near
 end of the leg, and she did not take it.** A bar nine feet nine against the wall on the left, broken end towards the
 door, there four hundred and eighty-one days and not lifted and **dated nowhere**. A bundle under the far end corded
 twice and not knotted and never opened. A lamp in a cage on the shelf at the far end, out two hundred and ninety-one
@@ -1256,10 +1262,10 @@ spoken twice at her, unanswered twice. **The boy** — asked for a lamp once, na
 
 ### Volume 15 Batch 0001, measured
 
-**Fifteen chapters, ch 841–855, days 2,781 to 2,825, 28,414 words of body prose on method B** (`grep -v '^#' <file> |
-wc -w`, per file and summed), **average 1,894.** Per chapter: 841 2,127 · 842 1,930 · 843 1,989 · 844 2,003 · 845
-1,820 · 846 1,928 · 847 1,883 · 848 1,938 · 849 1,874 · 850 1,445 · 851 1,851 · 852 1,760 · 853 1,804 · 854 1,898 ·
-855 2,164. **Ch 850 is the smallest in the batch on purpose** and is the only chapter under the 1,800 guide; none is
+**Fifteen chapters, ch 841–855, days 2,781 to 2,825, 28,448 words of body prose on method B** (`grep -v '^#' <file> |
+wc -w`, per file and summed), **average 1,897.** Per chapter: 841 2,127 · 842 1,930 · 843 1,989 · 844 2,003 · 845
+1,820 · 846 1,928 · 847 1,883 · 848 1,938 · 849 1,881 · 850 1,455 · 851 1,858 · 852 1,760 · 853 1,804 · 854 1,894 ·
+855 2,178. **Ch 850 is the smallest in the batch on purpose** and is the only chapter under the 1,800 guide; none is
 under the 1,300 floor and none is above the 2,700 guide. **One bracketed layer line in fifteen, at ch 850**, which
 spends Batch 0001's one bracket of Volume 15's three. **No paragraph over 120 words**; the longest is 120. No bold,
 no italic, no blockquote, no table, no code fence, no horizontal rule, no straight quote, no em dash, no Arabic

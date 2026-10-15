@@ -2,7 +2,7 @@
 
 Eighty days since the ninth stage. Five hundred and eleven days in that room. The cage out two hundred and seventy-eight days. Right arm open five hundred and eighteen days and it is not going to close. One thousand two hundred and fifty-three days lighter at this morning and not one going back.
 
-There was no person in that room and no person in the nine landings above it and no person on any stair in that tower, and there was a lamp burning on the second of those landings that had been burning there for twenty days without any one tending it.
+There was no person in that room and no person in the nine landings above it and no person on any stair in that tower, and there was a lamp burning on the second of those landings that had been burning there for seventeen days without any one tending it.
 
 ## Down To The Lamp
 
@@ -22,25 +22,25 @@ She got to the fifth landing and stopped and put her back against the wall and b
 
 She said, out loud, with her forehead almost against the stone, “There. Down there.”
 
-## The Lamp, Twenty Days On
+## The Lamp, Seventeen Days On
 
 She went the rest of the way down in the light of it.
 
-The lamp was standing where she had put it on the stone of that landing on the twenty-second of the month beginning two thousand seven hundred and seventy-four, and it had been burning on that stone for twenty days and nobody had been in the room behind it and nobody had been on the landing.
+The lamp was standing where she had put it on the stone of that landing on the twenty-second of the month beginning two thousand seven hundred and seventy-four, and it had been burning on that stone for seventeen days and nobody had been in the room behind it and nobody had been on the landing.
 
 The wick had gone up. It was twice what it should have been and it was black along the top of it and the flame was standing up off the oil on a dark stone floor by about two hands.
 
 She said, out loud, standing, in the ordinary voice, “That is a wick that wants trimming and it has wanted trimming for a long time.”
 
-She said, “And it has been going up and up on a stone floor with no person in the room for twenty days, and I set it going and I told that landing that it burns whether I am standing beside it or not, and I did not know that that also means it does not matter whether it is trimmed.”
+She said, “And it has been going up and up on a stone floor with no person in the room for seventeen days, and I set it going and I told that landing that it burns whether I am standing beside it or not, and I did not know that that also means it does not matter whether it is trimmed.”
 
 She trimmed it with two fingers of her right hand, three of them and a thumb, on an arm that has been open at the elbow five hundred and eighteen days.
 
 She said, out loud, while she was doing it, “This is the second thing of mine that has been running in this building without me and I am going to stop saying anything about that.”
 
-She said, “Twenty days on a stone floor with no person in the room behind it. And it has gone up about two hands and there is black along the top of it, and there is no person in this building who would come up here and trim a wick.”
+She said, “Seventeen days on a stone floor with no person in the room behind it. And it has gone up about two hands and there is black along the top of it, and there is no person in this building who would come up here and trim a wick.”
 
-She said, “And there is no person in this building who knows there is anything up here to trim one on, except me, and I have been above it for twenty days.”
+She said, “And there is no person in this building who knows there is anything up here to trim one on, except me, and I have been above it for seventeen days.”
 
 ## The Cost Of Taking It Back
 
@@ -50,7 +50,7 @@ She said, out loud, standing, in the ordinary voice, at about the third hour of 
 
 “Here is the cost and I am going to say it before I do it and I am not going to pretend to have found it out afterwards.”
 
-She said, “A lamp standing on a stone floor is light on a whole landing and it is the only mark in this building. That is the whole of what it is for. I worked that out on the twenty-second and I set it there on purpose and I have relied on it every day for twenty days.”
+She said, “A lamp standing on a stone floor is light on a whole landing and it is the only mark in this building. That is the whole of what it is for. I worked that out on the twenty-second and I set it there on purpose and I have relied on it every day for seventeen days.”
 
 She said, “And I am picking it up. When I pick it up, that landing goes out, and the landing below it has been out since the twenty-second, and I am taking the only light in this building off the only mark in it and putting it in my hand, where it is good for about four feet of the world.”
 
@@ -62,7 +62,7 @@ She went up.
 
 She said, out loud, about two landings up, in the ordinary voice, “I can see the stair.”
 
-She said, “That is the first time in twenty days. I have been going up this in the dark with my hand on a wall and I have not seen one step of it, and I have a lamp and I can see four steps in front of me and I can see the wall going up on the left.”
+She said, “That is the first time in seventeen days. I have been going up this in the dark with my hand on a wall and I have not seen one step of it, and I have a lamp and I can see four steps in front of me and I can see the wall going up on the left.”
 
 She said, “And I am not going to hold this against anybody. The four steps are worth what I can do with them and that is all they are.”
 
@@ -78,7 +78,7 @@ She lost the wall twice on the way up and got it back both times, and on the sec
 
 She said that afterwards, sitting on the step for about a count of forty, in the ordinary voice again:
 
-“It was the same kind of turn as the one on the ninth turning on the twenty-second of the month beginning two thousand seven hundred and seventy-four. On that one I had nothing in my hands and I went down on my left knee. On this one I had a lamp and I went down on my left knee.”
+“It was the same kind of turn as the one on the ninth turning on the twenty-fourth of the month beginning two thousand seven hundred and seventy-four. On that one I had nothing in my hands and I went down on my left knee. On this one I had a lamp and I went down on my left knee.”
 
 She said, “So it is not the lamp. I have been treating this stair all week as though it were going to be different because I could see, and it is not one step different. It is the same stair, and I am the same person standing on it with one more thing to hold.”
 

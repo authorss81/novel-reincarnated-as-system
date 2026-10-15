@@ -30,7 +30,7 @@ She said, “I came up here with a refusal.”
 
 She said, “I refused the place at the far side of that table. I said it out loud in that room at the ninth hour and twenty minutes on the fifth of the month beginning two thousand seven hundred and fourteen, standing up, in the ordinary voice, where the far end of the table could hear me, and I could not un-say it and I did not want to.”
 
-She said, “And I wrote it on a leaf on the seventh of this month and put it in a cloth with forty boards on top of it and sent it down nine hundred and four steps, and it is the first thing I have ever sent anywhere, and it cannot be called back, and I would not call it back.”
+She said, “And I wrote it on a leaf on the seventh of the month beginning two thousand seven hundred and forty-four and put it in a cloth with forty boards on top of it and sent it down nine hundred and four steps, and it is the first thing I have ever sent anywhere, and it cannot be called back, and I would not call it back.”
 
 She said, “And I had a picture of that in my head for nineteen years before I said it, and the picture was mine.”
 
@@ -40,7 +40,7 @@ She said, “Here is the picture and it is the whole of what I am going to take 
 
 She said, “There was a room with a place in it. The place had been kept for four hundred years. A person kept it, and the person was going to be me, and it had been kept a long time and nobody had been in it and the keeping was waiting for me.”
 
-She said, “And when I said no, I said no to a thing that had been kept for me. That was the shape of it. That was what it felt like at the ninth hour and twenty minutes on the fifth of the month beginning two thousand seven hundred and fourteen, and I have carried that shape for sixty-five days and I was not standing four feet off the near end of that table.”
+She said, “And when I said no, I said no to a thing that had been kept for me. That was the shape of it. That was what it felt like at the ninth hour and twenty minutes on the fifth of the month beginning two thousand seven hundred and fourteen, and I have carried that shape for eighty-four days and I was not standing four feet off the near end of that table.”
 
 She stood there for about a count of ninety.
 
@@ -72,13 +72,13 @@ She said, “I thought the room was mine because I was the only thing in it that
 
 She said, “And the sentence from the twenty-sixth stands and it is not going to be softened this morning. The only reason that room was different is that somebody was in it, and the somebody was me, and the room did not do that. I did it. And when I go up that stair it is a room with a lamp in a cage on the shelf and forty boards under the middle of the table and nothing on the near end of it, the same as the three above it.”
 
-She said, “And the part that is going to be in me a long time is this. In four hundred and ninety-eight days I never once looked at that table and worked out what it was a part of.”
+She said, “And the part that is going to be in me a long time is this. In five hundred and one days I never once looked at that table and worked out what it was a part of.”
 
 She said, “I thought about the boy. I thought about the oil. I thought about my own arithmetic forty times a morning, and I thought about the hand at the far end of that table, and I thought about the second place, and I thought about what a price does not date.”
 
 She said, “And I never once thought: this is one of a great many, and it is a building, and I am in a part of it.”
 
-She said, “And the reason I never thought it is that there was no reason to think it. That is the whole of it. That is what four hundred and ninety-eight days of a person who is good at arithmetic does to her when every question she asks has an answer that is about herself.”
+She said, “And the reason I never thought it is that there was no reason to think it. That is the whole of it. That is what five hundred and one days of a person who is good at arithmetic does to her when every question she asks has an answer that is about herself.”
 
 ## And The Part She Is Not Going To Say
 
@@ -96,6 +96,6 @@ She said, “There are two days to the first of this month. I am going to sit he
 
 And then she said the last of that morning out loud, standing, in the ordinary voice, at about the eighth hour, with her right arm open in front of her and the dark going up in one direction and down in the other.
 
-She said, “I have been the only person in a room for four hundred and ninety-eight days and I did not know that was a job.”
+She said, “I have been the only person in a room for five hundred and one days and I did not know that was a job.”
 
 There was a lamp burning on the stone of the second landing with no one near it, and three rooms above a room with nobody in it, and a woman on a stone floor two landings below a ceiling she had not found, not going down, with two days in front of her and a first of a month at the end of them.

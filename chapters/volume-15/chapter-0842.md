@@ -112,4 +112,4 @@ She left the lamp where it was. The light went a hand’s width along the near e
 
 There were three pieces of wood lying face up about a foot in from the near end of it and a fourth about a foot further along, and a bar against the wall on the left that had been there four hundred and thirty-nine days, and a bundle under the far end with two turns of cord in it and not a knot.
 
-And a woman standing four feet off the near end of it who had been reading the wrong end of a sentence for nineteen years, and who was going to stand in front of that wall on the twenty-eighth of this month, if she was still in that room on the twenty-eighth, and look at every part of it she has not looked at.
+And a woman standing four feet off the near end of it who had been reading the wrong end of a sentence for nineteen years, and who was going to stand in front of that wall on the thirteenth of this month, if she was still in that room on the thirteenth, and look at every part of it she has not looked at.

@@ -66,7 +66,7 @@ She said, out loud, in the ordinary voice, and it came out very quiet:
 
 She stood there for about a count of ninety.
 
-She said, “A board came up that stair on the first of the month beginning two thousand seven hundred and fourteen and it set out a place at the far side of a table, and it said what keeping it is, and I read it out loud in that room at the fourth hour before I understood any of it.”
+She said, “A board came up that stair on the first of the month beginning two thousand seven hundred and seventy-four and it set out a place at the far side of a table, and it said what keeping it is, and I read it out loud in that room at the fourth hour before I understood any of it.”
 
 She said, “It is kept by being there when the figures are said out loud.”
 

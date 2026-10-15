@@ -32,7 +32,7 @@ She said, “And there is no seventh thing and I am not adding one.”
 
 She said, “And there is a voice in my head and it is a person and I am not speaking to him. I said that out loud in this room on the seventh of this month at about the ninth hour and ten minutes and I have not said one word to him since and I am not going to say it again after this one.”
 
-She said, “That has been nine days now and it has not been difficult, and I want that said out loud too, because the thing I expected to be difficult was not difficult.”
+She said, “That has been one day now and it has not been difficult, and I want that said out loud too, because the thing I expected to be difficult was not difficult.”
 
 She put her hand flat on the top of that table.
 
