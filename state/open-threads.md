@@ -4115,3 +4115,31 @@ nine years old with a lamp in her left hand and did not come back down.**
 6. **That the boy's name is known.**
 7. **That the light has a figure for it.**
 8. **That the repair's prose habits are the house style.** The templates are gone on purpose: `She said` does not open a paragraph in one chapter in six, `And here is the whole of what…` and `said plain` and `that was the day` are zero, and **no two chapter endings share a shape.** Batch 0004 does not put any of them back.
+
+## VOLUME 15 BATCH 0004 CLOSED at ch 900 — VOLUME 15 CLOSED ON THE PAGE
+
+**Fifteen chapters, days 2,916–2,960, 26,126 words, average 1,742, zero bracketed lines, midpoint ch 891, climax ch 899, irreversible step ch 894. Recorded by the drafting phase; no review repair. The next phase is the volume close, under the controller.**
+
+| Thread | State at ch 885 | State at ch 900 | Owner after Volume 15 |
+| --- | --- | --- | --- |
+| **The stair above** | thirteenth found and fallen on; no top | **a top reached on foot (ch 888); the making-place at it (ch 892)** | closed as reached |
+| **The ninth** | open, unexamined | **NOT FINISHED (ch 891, nine sentences); shut at the peak (ch 894), no tenth** | closed as finished |
+| **The boy** | unnamed, unbound, off the page | **named Lu An (ch 890); bound once by her (ch 894); never sent, entered or told** | carried. Volume 16 owns whether he is told |
+| **The bargain** | nothing on the page | **five clauses read twice by her standing; every part a mercy; no conditions; offer stands unanswered** | open. Volume 16 owns the answering |
+| **Who pays** | a great many, none told | **asked and answered correctly (ch 899): ceiling pays, people pay, told nothing, best in nine hundred years and a thousand more; not refuted, not accepted** | closed as had. Volume 16 pays for it |
+| **What he wants** | never asked in nineteen years | **asked at ch 900; he does not answer, heard as declining** | open. Volume 16 opens on his four minutes |
+| **The lamp** | burning on the third, tended; climbing on wick | **carried past the top to an eyelash; stands nearly out at the close** | carried. No oil figure anywhere |
+| **The firsts** | 2,894 heard without her | **2,924 (ch 889) and 2,954 (ch 898) run without her; nothing changes** | open. Next first thirty days off |
+| **The room below** | runs without her | **unchanged; she does not go back down in this volume** | untouched |
+| **His ch 812 yes** | stands, she does not know | **stands, she does not know, untouched and untold** | stands |
+| **The count** | said, ungettable out | **stands; never re-said** | stands |
+| **Merit** | settled at ch 884 | **settled; no further settling in Volume 15** | closed |
+| **`outline/ending.md` §3** | unspent | **unspent: he has not noticed what the bargain needs** | Volume 16's turn |
+
+### What Batch 0004 did to the batch, in one paragraph
+
+**She climbed past the ninth on wick as much as oil and found a top, let the fourth first run without her, asked the second name in nineteen years on a landing and carried it in her mouth, worked out in nine sentences that the ninth is not finished and a container with nothing in it is not one, reached the making-place at the other end of the trade, read five mercies twice and found no conditions in any of them, bound one boy into the Sisterhood said first in her own voice, lived a morning with no figures, had the argument and did not win it because it is right, and asked him what he wants for the first time in nineteen years and kept his silence with him.**
+
+### Things Volume 16 inherits, and what may not be re-opened
+
+Inherited as fact: the offer is on the table and unanswered and every part of it is real · he is announced and heard and can be anywhere but inside her · he said yes twice where she could not hear him and she said no twice where everything could hear her, and both stand and do not cancel · one number is in the record that cannot be taken out · one person is bound and the price of each binding is on the record · she is at the peak of the seventh realm and knows exactly what he is · she asked him what he wants and he has not answered. May not be re-opened: the moral answer (finished at ch 885, paid for, not re-argued) · whether the Scribe was sincere (the book refuses to adjudicate) · the second place (kept, empty, refused twice) · the second term *in daylight* (spent) · the six terms (no seventh) · the four months (named once at ch 873, never again) · the bar (dated nowhere, not lifted) · finding-day, wear gap, fair/third hand (all still open).
