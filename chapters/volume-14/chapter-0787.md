@@ -16,9 +16,9 @@ And then she said it out loud, to a room with nothing in it, standing up, in the
 
 She said, “There is no daylight in this room. There is a lamp in a cage at the far end of that table and it went out on the first of the month beginning two thousand five hundred and thirty-four and it is not coming back on its own, and there is not one window in this building that I have ever been able to see from the inside, and tonight there is not even a lamp in my hand.”
 
-She said, “On the twenty-third of the month beginning two thousand five hundred and four I worked out that I had been saying this one in lamplight for two hundred and twenty-six days without knowing, and that is a mistake and I have got it in front of me.”
+She said, “On the twenty-ninth of the month beginning two thousand five hundred and four I said out loud that I would say this one on the thirtieth as well, and that it would be the last time I said it in this room. I said it on the thirtieth. It was not the last time, and the reason it was not the last time is that on the first of that month I put the lamp out myself.”
 
-She said, “And tonight is not that. Tonight it is not a mistake. Tonight there is nothing in here for the term to be true in, and I am going to say it anyway, and that is a worse thing and a different thing, and I am not going to stand in the dark and pretend to myself that the two of them are the same.”
+She said, “And tonight it is not a mistake either. It was a mistake for a long time and I worked that out standing in that light with a person at the far end of this table, and I have had it in front of me ever since. Tonight there is nothing in here for the term to be true in. I am going to say it anyway, and that is a worse thing and a different thing, and I am not going to stand in the dark and pretend to myself that the two of them are the same.”
 
 ## What She Did With The Other Five
 
@@ -54,7 +54,7 @@ She said, “He is coming up the turn.”
 
 And she stood there and listened to a loaded floor come up out of the wall behind that lamp’s shelf, and she said, “I cannot hear the stair. I can hear the shelf.”
 
-And she said, “The shelf came off the frame at the middle of that table and there are hands going along the wood from the near end to the far end of it at about four to a minute, and that table has not been worked in front of me with nothing to see it by at any hour in two hundred and sixty-two days, and I am hearing it now.”
+And she said, “The shelf came off the frame at the middle of that table and there are hands going along the wood from the near end to the far end of it at about four to a minute, and that table has not been worked in front of me with nothing to see it by at any hour in two hundred and sixty-three days, and I am hearing it now.”
 
 And she stood four feet off the near end of that table in the dark and let it happen, and she counted, because she counts.
 
@@ -90,7 +90,7 @@ He said, “I said the ninth hour. I did not say I would not be here at four.”
 
 And she stood in that light and did not say a single word for about a count of a hundred and forty, because there are forty things on that table in that building for the first time in nine years and the only light in the world that has ever been on them is in the hand of a boy of sixteen who came up four hundred and forty steps with no rail on them five hours early, because he worked out somewhere on that stair that a day he had promised her was going to come round whether he was standing on it or not.
 
-She said, “That is the whole of what that oil is for, and I have understood it on my own for six nights and I have had it wrong.”
+She said, “That is the whole of what that oil is for, and I have understood it on my own for seven nights and I have had it wrong.”
 
 He said, “What is the whole of what it is for.”
 
@@ -100,6 +100,10 @@ And then she went along that table with him in the light, ten paces to the middl
 
 And the top board was blank.
 
-And so was the one under it, and the one under that, and she said out loud, standing, in the ordinary voice, with the light on the wood and a person four feet off her, that she had been counting a number for nineteen years and it had taken her until the twenty-sixth to find out that four out of forty were written on and that she could not tell which four.
+And so was the one under it, and the one under that, and she said out loud, standing, in the ordinary voice, with the light on the wood and a person four feet off her, that she had been putting her hand into that stack for nineteen years and it had taken her until the twenty-sixth to find out that two out of forty were written on, and that she could not tell which two.
 
-And the thirty-six that were not on that table either, and the man had gone back down nine hundred and four steps with a cloth under his arm, and the lamp in the cage at the far end of that room had been out for thirty days, and nothing in that building had said one word to either of them.
+And then she went back to the near end with the lamp and got down onto the stone and went along the floor to the middle of that table and put the light under it, which is a thing she had promised herself she would do on the night of the twenty-sixth and had not expected to do with a person standing at the end of it.
+
+And it took her about a count of ninety, and the top board of that stack was blank in light, and she did not go any further than the two she knew were in there, because she could not tell which two they were and there is not one instrument in this building or in this county that would take one board out of that stack and tell her.
+
+And the man had gone back down eight hundred and eighty steps with a cloth under his arm, and the lamp in the cage at the far end of that room had been out for thirty days, and nothing in that building had said one word to either of them.

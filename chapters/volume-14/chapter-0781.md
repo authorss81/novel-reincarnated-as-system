@@ -2,9 +2,11 @@
 
 He did not go out of the doorway.
 
-She had said the last of what she had, which was that she did not have an answer that was small, and the room had gone back to being the room it had been for seven days, which is to say that there was nothing in it to tell apart, and a boy of sixteen stood in the light of his own lamp with the lamp held up at about the height of his own chest because that is the height a person holds a lamp at when they are standing in a doorway of a room they have just been given the whole of.
+She had said the last of what she had, which was that she did not have an answer that was small, and she had said it on the night before and had gone on saying nothing since.
 
-That was the seventh hour of the seventh of the month beginning two thousand five hundred and thirty-four. It was the tenth hour of that same day.
+And the room had gone back to being the room it had been for two hundred and forty days, which is to say that there was nothing in it to tell apart, and a boy of sixteen stood in the light of his own lamp with the lamp held up at about the height of his own chest because that is the height a person holds a lamp at when they are standing in a doorway of a room they have just been given the whole of.
+
+That was the seventh hour of the eighth of the month beginning two thousand five hundred and thirty-four. It was the tenth hour of that same day.
 
 She had been standing four feet off the near end of that table for three hours and she had counted ninety twice and a hundred and forty once, and every one of those counts had come out the way she had left it, and she had said nothing at all in any of them.
 
@@ -46,7 +48,9 @@ She said, “Because it was lit.”
 
 He said, “By who.”
 
-And she stood there in the dark with her left hand on the near edge of that table and she found that she could get as far as the first of a month and no further, and that the rest of it was a room that had been standing at a table for four hundred years without ever once wanting to, and there was no sentence in that either. It was a fact and it was the wrong shape for the thing he wanted, and she had said the whole arithmetic already and it had not been any use, and she was not going to say it a second time to a person who had come eight hundred and eighty steps to get it.
+And she stood there in the dark with her left hand on the near edge of that table and she found that she could get as far as the first of a month and no further, and that the rest of it was a room that had been standing at a table for four hundred years without ever once wanting to, and there was no sentence in that either.
+
+It was a fact and it was the wrong shape for the thing he wanted, and she had said the whole arithmetic already and it had not been any use, and she was not going to say it a second time to a person who had come eight hundred and eighty steps to get it.
 
 She said, “I did that on purpose and I am the only person in this building who could have done it, and that is the whole of what I have got for you, and I have said it once.”
 
@@ -54,7 +58,7 @@ He said, “All right.”
 
 ## What A Lamp Costs The Person Who Carries It
 
-And then she worked out the thing she had been working on since the seventh hour, standing in the dark, with nothing in her hands and no light to work it out by, which is that she had spent the whole of an evening handing a boy of sixteen the arithmetic of a lamp in a cage and had not once said what the lamp in his hand costs him.
+And then she worked out the thing she had been working on since the seventh hour, standing in the dark, with nothing in her hands and no light to work it out by, which is that she had spent the whole of the night before handing a boy of sixteen the arithmetic of a lamp in a cage, and had come to the end of that night with nothing in her hands, and had not once said what the lamp in his hand costs him.
 
 She said it out loud, and it was the first time in this building that she had told anybody what a thing costs the person who brings it.
 

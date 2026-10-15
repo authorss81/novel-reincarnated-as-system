@@ -1,6 +1,6 @@
 # A Cup And A Half
 
-He came up on the twelfth of the month beginning two thousand five hundred and thirty-four at the seventh hour and put the lamp down on the near end of that table, and she moved it two inches towards her, because the light of it was running along the edge of the wood and not onto the wood, and that was the first thing anybody had done to that table in two hundred and forty days that was not taking something off it.
+He came up on the twelfth of the month beginning two thousand five hundred and thirty-four at the seventh hour and put the lamp down on the near end of that table, and she moved it two inches towards her, because the light of it was running along the edge of the wood and not onto the wood, and that was the first thing anybody had done to that table in two hundred and forty-four days that was not taking something off it.
 
 He said, “You can put it back.”
 
@@ -50,13 +50,13 @@ She said, “I am not angry about it. I am angry about having asked, and I am go
 
 And then he said the number, because she had asked for it without asking, which is the only way she has ever got anything out of anybody in nineteen years.
 
-He said, “I have carried one up five times since the seventh and I have carried one down five times, and three of the lamps have not been in this room once, and it is the fifth of the seventh that is here and it is not the one I thought it was going to be.”
+He said, “I have carried one up three times since the seventh and I have carried one down three times, and two of the three lamps have been in this room and one of them has not, and it is the third of the three that is here and it is not the one I thought it was going to be.”
 
-She said, “Five.”
+She said, “Three.”
 
-He said, “Five.”
+He said, “Three.”
 
-She said, “And the fifth of the month beginning two thousand five hundred and thirty-four is the eighth, and the seventh is the day you came up the first time and the two in between are the nights you were not here, and that is five days and not five nights, and I do not know which of the two of us is counting better.”
+She said, “And the seventh and the eighth and the twelfth, and the ninth and the tenth and the eleventh are three nights out of the six that I have stood in this room with no light in it at all, and there are two figures in that and neither of them is a count of anything, and I do not know which of the two of us is counting better.”
 
 He said, “Days.”
 
@@ -92,7 +92,7 @@ She said, “And on the first of a month a man comes up that stair at the second
 
 She said, “And on the first of the month beginning two thousand five hundred and thirty-four I watched it too, and there was light, and I told him to take them back down, and he took them back down eight hundred and eighty steps, and it is the only time in four hundred years that a bundle has gone back down that stair the way it came.”
 
-She said, “And I have never seen that room worked with nothing in it. Not once, in two hundred and forty days. It is the one day out of thirty it does anything, and there has been no light in here since the first, and on the first of that month there is going to be forty boards put down on that table in front of one lamp, and that lamp is yours.”
+She said, “And I have never seen that room worked with nothing in it. Not once, in two hundred and forty-four days. It is the one day out of thirty it does anything, and there has been no light in here since the first, and on the first of that month there is going to be forty boards put down on that table in front of one lamp, and that lamp is yours.”
 
 ## Three Lamps In Order
 
@@ -112,7 +112,7 @@ She said, “That is the part I do not know, and neither do you, and it is the l
 
 ## Whose Count It Is
 
-And then she did the thing she had come up the day for, which was the sixth sentence, and she said it standing at the near end of that table with the lamp two inches in front of her and her right arm open at her side where it has been open for two hundred and forty-seven days.
+And then she did the thing she had come up the day for, which was the sixth sentence, and she said it standing at the near end of that table with the lamp two inches in front of her and her right arm open at her side where it has been open for two hundred and fifty-one days.
 
 She said, “I am not going to keep your count.”
 

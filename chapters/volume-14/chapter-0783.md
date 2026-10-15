@@ -24,7 +24,7 @@ She said, “No.”
 
 He said, “Somebody sends a man up that stair once a month.”
 
-She said, “A man comes up that stair once a month and he has been on that road a year and he does not look at anything and not one person in this building has ever asked him a question. He is not sent to me. He brings forty things to a table and goes back out. That is the whole of him and I have watched him every month since the sixth of the month beginning two thousand three hundred and twenty-four.”
+She said, “A man comes up that stair once a month and he has been on that road a year and he does not look at anything and not one person in this building has ever asked him a question. He is not sent to me. He brings forty things to a table and goes back out. That is the whole of him and I have watched him every month since the first of the month beginning two thousand three hundred and twenty-four.”
 
 He said, “Then nobody above this line wants you to have light.”
 
@@ -86,7 +86,7 @@ She said, “Because I have kept a record in this building for nineteen years an
 
 He said, “You said that about the lamp. That the arm it costs is somebody’s.”
 
-She said, “A hand goes into that cage every twenty-nine days in this building and it costs that person the width of the little finger on my left hand off their own forearm, and it has been doing that for four hundred years, and the last time it happened in here it was the second of the month beginning two thousand five hundred and four.”
+She said, “A hand goes into that cage at the second hour of the second of every month and it costs whoever puts it there something I have never once been able to put a figure on, and it has been doing that for four hundred years, and I have watched it eight times, and it is not oil and it is not money and there is nothing anybody in this county has ever been able to put in a lamp in a cage.”
 
 She said, “And I am not going to be the reason a person of sixteen pays that, and that is the whole of why I said nothing to you, and you can put it where you like in your own arithmetic.”
 
@@ -108,11 +108,11 @@ He said, “All right.”
 
 She said, “That is not all right, and you are not going to be all right about it, and I am telling you now so that it is not a surprise in about a week.”
 
-She said, “The first one of them is one thing at a time. The second one is a thing about where I am standing, and I cannot keep the second one in this room any more, and I have known that since the twenty-third of the month beginning two thousand five hundred and four, and I have not told anybody that until tonight.”
+She said, “The first one of them is one thing at a time. The second one is a thing about where I am standing, and I cannot keep the second one in this room any more, and I have not told anybody that until tonight.”
 
 He said, “What has happened to it.”
 
-She said, “The light went out. That is all that has happened to it, and I put the light out myself, and I have not been able to say that one out loud in this room since, and I say it anyway, and I have been getting it wrong for two hundred and forty-eight days and I did not notice until the twenty-third of that month.”
+She said, “The light went out on the first of that month and I put it out myself. I worked out on the twenty-seventh of that month what that does to the second one, standing in that light, with a person at the far end of this table, and I have not said one word of it out loud to anybody in the month since.”
 
 He said, “So you will say it tonight.”
 
@@ -120,7 +120,7 @@ She said, “I will say all six tonight, and it will be the second one that cost
 
 He said, “It counts the same.”
 
-She said, “You have been up here nine nights and you have not worked out a single other thing about this room, and that is the first sensible thing anybody has said to me in two hundred and forty-eight days.”
+She said, “You have been up here four nights and you have not worked out a single other thing about this room, and that is the first sensible thing anybody has said to me in two hundred and forty-eight days.”
 
 ## He Stays
 

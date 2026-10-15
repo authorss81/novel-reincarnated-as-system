@@ -1,18 +1,18 @@
 # What Comes Up
 
-She had nine days and she spent them getting ready for a thing she had watched twenty-four times.
+She had nine days and she spent them getting ready for a thing she had watched eight times.
 
 That is the whole of what a month is at the top of that stair. A man comes up at the second hour with about forty boards under one arm and a bundle of papers in a cloth under the other, and he comes out of the place in the wall behind that lamp's shelf, and he puts them down on the middle of that table, and hands go along the wood at about four to a minute and stop on every one of them, and then he picks up whatever has to go back up and he goes back out into the place in the wall and he does not look at anything.
 
-Ten minutes for the boards and thirty for the bundle. It has been ten and thirty every single time since the sixth of the month beginning two thousand three hundred and twenty-four, and the hands have never once hurried and have never once gone back over one they had already been along.
+Ten minutes for the boards and thirty for the bundle. It has been ten and thirty every single time since the first of the month beginning two thousand three hundred and twenty-four, and the hands have never once hurried and have never once gone back over one they had already been along.
 
 She said all of it out loud on the twenty-second of the month beginning two thousand five hundred and thirty-four, standing at the near end of that table, in the dark, in the ordinary voice, in one go, without stopping in it, because a thing that is going to be a procedure has to be said in the shape of a procedure and not in the shape of a story about the last time.
 
 ## The One Day A Month It Is Worked
 
-And then she said the part that was the problem, which is that she had watched every one of those twenty-four in lamplight or in daylight, and had never once watched one with no light at all in the room.
+And then she said the part that was the problem, which is that she had watched every one of those eight in lamplight or in daylight, and had never once watched one with no light at all in the room.
 
-She said, “For two hundred and forty-one days this room has not had to decide anything in the dark, and I have said that out loud in here twice and both times I have been glad of it.”
+She said, “For two hundred and fifty-four days this room has not had to decide anything in the dark, and I have said that out loud in here twice and both times I have been glad of it.”
 
 She said, “And on the first of the month beginning two thousand five hundred and sixty-four it is going to have to do a thing with forty things arriving on a table and there is going to be no light in it, and there has not been any oil in this building for nine years, and the only lamp within reach of that table is four feet away in the hand of a boy of sixteen who comes up that stair on about four nights out of seven.”
 
@@ -22,19 +22,19 @@ She stood there for a count of a hundred and forty with her arm open at her side
 
 She said, “Two thousand five hundred and sixty-four less two thousand five hundred and fifty-five is nine. And two thousand five hundred and ninety-four less two thousand five hundred and fifty-five is thirty-nine, and both of those are firsts, and one of them is nine days off and one of them is thirty-nine.”
 
-She said, “And on the thirty-ninth I need him here for the fifth of that month and I do not know yet whether there is oil in the three lamps for the ninth night, the tenth night and the eleventh night, and if there is not then he is not here on the fifth of that month, and if he is not here on the fifth of that month then I am taking the seventh stage of my own life in the dark with the room holding nothing but the person at the far end of that table.”
+She said, “And on the thirty-ninth I need him here, and I do not know yet whether there is oil in three lamps for twenty-nine nights of it, and if there is not then he is not here on the thirty-ninth, and four days after that I am taking the seventh stage of my own life in the dark with the room holding nothing but the person at the far end of that table.”
 
 ## Clearing The Near End
 
-On the twenty-third she cleared a place at the near end of that table.
+On the twenty-second, at about the sixth hour, she cleared a place at the near end of that table.
 
-There was nothing on it to clear. That is the thing about it. The near end of that table has had nothing on it since the sixth of the month beginning two thousand three hundred and twenty-four, and the whole of what she did on that day was put her left hand flat on the wood at the near end, about a foot in from the edge, and go along it for about two feet each way, and take her hand off it, and do it again.
+There was nothing on it to clear. That is the thing about it. The near end of that table has had nothing on it for as long as she has been standing at it, and the whole of what she did that morning was put her left hand flat on the wood at the near end, about a foot in from the edge, and go along it for about two feet each way, and take her hand off it, and do it again.
 
 She said out loud, standing, in the dark, at the ninth hour:
 
 “There is a place at the near end of this table that is clear.”
 
-She said, “And it is clear because I have just cleared it, and there is nothing on this table to clear, and I want that written down in this room in words on the day itself, because on the first of the month beginning two thousand five hundred and sixty-four a man is going to put forty things down in the middle of it and every one of those forty is going to be counted off against a place I have had clear for eight months for a lamp that has not been in this room in nine years.”
+She said, “And it is clear because I have just cleared it, and there is nothing on this table to clear, and I want that written down in this room in words on the day itself, because on the first of the month beginning two thousand five hundred and sixty-four a man is going to put forty things down in the middle of it and every one of those forty is going to be counted off against a place I have had clear for the whole of the two hundred and fifty-four days I have been standing here, for a lamp that has not been in this room in nine years.”
 
 She said, “And it is the first thing I have cleared in this building that was not a space for a person, and I am aware of that, and I am not going to pretend tonight that I am not.”
 
@@ -94,4 +94,8 @@ Then he said, “You have got it.”
 
 She said, “I know that I have got it. I am not talking about the lamp.”
 
-And then he took the lamp and went down the low door, and she went to the first four hundred and forty with her left hand on the rail after him because it is worse going down, and her knees were still not right, and at the fourth landing, with her hand flat on a rail that stops there, she said out loud, to the dark, at the ninth hour on the twenty-second of the month beginning two thousand five hundred and thirty-four, the single sentence that had cost her more than anything she has said in this building in two hundred and forty-one days, which was that she had asked, and that it had taken four seconds, and that she had not known until after she had said it that she was frightened.
+And then he took the lamp and went down the low door, and she went to the first four hundred and forty with her left hand on the rail after him because it is worse going down, and her knees were still not right.
+
+And at the fourth landing, with her hand flat on a rail that stops there, she said out loud, to the dark, at the ninth hour on the twenty-second of the month beginning two thousand five hundred and thirty-four, the single sentence that had cost her more than anything she has said in this building in two hundred and fifty-four days.
+
+And the sentence was that she had asked, and that it had taken four seconds, and that she had not known until after she had said it that she was frightened.

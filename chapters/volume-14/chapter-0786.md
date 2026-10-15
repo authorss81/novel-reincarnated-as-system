@@ -2,7 +2,9 @@
 
 She went to count a thing on the twenty-sixth of the month beginning two thousand five hundred and thirty-four that she had never counted once in nineteen years, and she did not tell the boy of sixteen what it was, and she worked out at about the eighth hour that she was not going to tell him at the end of it either.
 
-There are forty boards face up in a stack under the middle of that table. She put her hand on all forty of them on the second of the month beginning two thousand three hundred and twenty-four, in the dark, and not one of them was different from any of the others. She turned all forty over on the second of the month beginning two thousand five hundred and four, on her back with a cross-beam across her shoulders, three fingers and a thumb on the edges of them. She has taken four of them out of that stack in her life. She put every one of them back and she could not see it go.
+There are forty boards face up in a stack under the middle of that table, and she has put her hand on all forty of them on the second of a month, in the light, since the second of the month beginning two thousand three hundred and twenty-four, and not one of them has ever been different from any of the others to her hand.
+
+She has taken three of them out of that stack in her life. She put every one of the three back and she could not see it go.
 
 ## Counting The Edges
 
@@ -40,7 +42,7 @@ And she got down onto the stone and went along the near side of that table on he
 
 That is the thing about a lamp held low. It lights the floor and the undersides of things and not the tops of anything.
 
-She got the light up off the stone with three fingers and a thumb on the handle, and the handle was warm, and there is no draught in that room and it had been in a boy’s hand since the second hour of the morning.
+She got the light up off the stone with three fingers and a thumb on the handle, and the handle was warm, and there is no draught in that room, and she had carried it eight hundred and eighty steps to where she was sitting.
 
 And then she put it onto the stack.
 
@@ -60,13 +62,15 @@ Forty again.
 
 She said both of them out loud, and then she took the end of one finger and put it on the stone under that table and began to write the figure there out of nothing, which is a thing a person does and which does not work, and she caught herself doing it and took her finger off the stone.
 
-## Thirty-Six
+## Thirty-Eight
 
 And then she sat down on the floor under that table with her back against a leg of it and the lamp standing on the stone beside her, and she did the arithmetic, and the arithmetic is the whole of what happened that night and it took her about a count of ninety.
 
 She said, out loud, under that table, to the stone, in the ordinary voice:
 
-“I have counted the steps of two stairs down and back more times than I can hold in my head. I have counted nine flights and two runs of four hundred and forty and about sixty-four turns. I have counted every day of the two hundred and fifty-eight days I have been in this room and I have counted the breath in my own chest at four and at seven and at nine. I counted forty boards going on to that table at four to a minute from the near end to the far end of it on a first of a month in the light, out loud, with a person standing there watching me do it.”
+“I have counted the steps of two stairs down and back more times than I can hold in my head. I have counted eight flights and two runs of four hundred and forty, and I have counted a second stair of nine hundred and four on three occasions, and I have never once added the two of them together and I am not going to start.”
+
+She said, “I have counted every day of the two hundred and fifty-eight days I have been in this room and I have counted the breath in my own chest at four and at seven and at nine. I counted forty boards going on to that table at four to a minute from the near end to the far end of it on a first of a month in the light, out loud, with a person standing there watching me do it.”
 
 She said, “And I have never once counted that.”
 
@@ -74,17 +78,17 @@ She said, “Two hundred and fifty-eight days in this room, and nineteen years b
 
 And then she did the subtraction, because that is what she is.
 
-She said, “Two of the forty have a figure on them that I put there myself. One is a five, written on the twenty-second of the month beginning two thousand four hundred and forty-four at the ninth hour with a nib under that table on the floor, and it has been lying in that stack since the eighteenth of that month. One is a six, written on the twenty-first of the month beginning two thousand five hundred and four, and I put it back under the shelf myself and I could not tell which one it was when it had gone.”
+She said, “Two of the forty have a figure on them that I put there myself. One is a five, written on the twenty-second of the month beginning two thousand four hundred and forty-four at the ninth hour with a nib under that table on the floor, and it has been lying in that stack since the eighteenth of that month. One is a six, written on the twenty-first of the month beginning two thousand five hundred and four, on a board out of that stack, and I put it back myself and I could not tell which one it was when it had gone.”
 
-She said, “Two of the forty have my price on them and the room put those there. I watched the hands go along every one of the forty on the first of the month beginning two thousand five hundred and four and I could not tell which two, and I turned all forty over on the second of it on my back and I could not tell which two then either, and there is not one instrument in this building or in this county that would tell two of them apart.”
+She said, “And I turned all forty of them over on the second of the month beginning two thousand five hundred and four, on my back under that table with a cross-beam across my shoulders, three fingers and a thumb on the edges of them, and I could not tell which two then either. I have done it on the second of every month since the second of the month beginning two thousand three hundred and twenty-four and I have not told which two since, and there is not one instrument in this building or in this county that would take one board out of that stack and tell me which one it was.”
 
-She said, “Four.”
+She said, “Two.”
 
 And she sat there under that table with the lamp standing on the stone and looked up into the underside of it for about a count of a hundred and forty.
 
-She said, “Thirty-six of the forty have nothing on them that anybody in this building put there. Thirty-six. That is a figure I have never said out loud, and I have said every other figure in this room that I have ever had, and I have said some of them twice.”
+She said, “Thirty-eight of the forty have nothing on them that anybody in this building put there. Thirty-eight. That is a figure I have never said out loud, and I have said every other figure in this room that I have ever had, and I have said some of them twice.”
 
-## The One She Kept
+## The Two She Kept
 
 And he asked her from the near end of the table what she had said, because he had heard a number go past twice and a number go past once and he is sixteen and he was listening to all three.
 
@@ -96,17 +100,17 @@ He said, “And then you said something else and it was not forty.”
 
 She stood up off the stone with her left hand on the leg of that table and got herself out from under it on her hands and her knees, in the light, which took her about as long as the counting had.
 
-She said, “It was thirty-six.”
+She said, “It was thirty-eight.”
 
 He said, “Out of forty.”
 
 She said, “Out of forty.”
 
-He said, “What is in the other four.”
+He said, “What is in the other two.”
 
-And she stood there at the near end of that table with a lamp she was holding for a boy of sixteen in a room with no light in it, and she had told him a figure and had not told him the other one, and she had built her whole life on not letting a figure go past her in the dark without saying where it went.
+And she stood there at the near end of that table with a lamp she was holding for a boy of sixteen in a room with no light in it, and she had told him a figure and had not told him which two, and she had built her whole life on not letting a figure go past her in the dark without saying where it went.
 
-She said, “Two of them I wrote on and two of them the room wrote on, and that is the whole of the four, and I am not going to tell you which two are which.”
+She said, “Both of them I wrote on, and I am not going to tell you which two, and I have told you the number and not the two, and those are two different things and I decided which one to do about a count of ninety ago, standing in the dark, before I ever came down here.”
 
 He said, “Why not.”
 
@@ -114,8 +118,10 @@ She said, “Because I have not worked out whether I am allowed to.”
 
 He said, “You have told me the number.”
 
-She said, “I have told you the number and not the four. Those are two different things and I decided which one to do about a count of ninety ago, standing in the dark, before I ever came down here, and I want it on the page that I decided it before, because it is the first figure I have ever withheld in this room.”
+She said, “I have told you the number and not the two. That is the first figure I have ever withheld in this room and I want it said out loud in here tonight, because there is a person standing four feet off me who has a right to know that there is a hole in it and not one word of what is in the hole.”
 
 And she said the rest of it out loud, standing, in the ordinary voice, at the near end of that table with the light going a hand’s width along the wood and no further, and it came out in about four seconds.
 
-She said, “I have been putting my hand into a thing I cannot read for two hundred and fifty-eight days. That is not a figure and that is not a record, that is only where my hand has been. And on the first of the month beginning two thousand five hundred and sixty-four a man is going to put forty boards on that table and I am going to be standing in this room with no light in it at all, and I have found out tonight that if there were light in it I would look at the top of that stack and I would not learn one single thing.”
+She said, “I have been putting my hand into a thing I cannot read for two hundred and fifty-eight days. That is not a figure and that is not a record, that is only where my hand has been.”
+
+And on the first of the month beginning two thousand five hundred and sixty-four a man is going to put forty boards on that table and a boy of sixteen is going to be standing in this room with a lamp in his hand, and she has found out tonight that she is going to walk twenty paces and put light on the top of that stack, and it will take her about a count of ninety, and she has not had to do it in the dark.
