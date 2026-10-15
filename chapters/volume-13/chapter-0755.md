@@ -1,105 +1,99 @@
-# A Number Used As A Wall
+# A Number Is Not A Wall
 
-She went up the second stair for the fourth time in twenty-four days, on the twenty-fourth of the month beginning two thousand four hundred and fourteen, and counted only the last two hundred steps, and worked out that the four she was missing at nine hundred are the last four of the stair and that there is nothing at all on the far side of them, and that she has spent a hundred and thirty-nine days standing at the top of a number as if the number were a wall.
+She went up that stair on the twenty-fourth and twenty-fifth of the month beginning two thousand four hundred and fourteen and counted only the last two hundred steps from the room end, and on the twenty-sixth she worked out that there is no ninth hundred and fifth, and that she has been standing at the top of a number for a hundred and thirty-nine days as if the number were a wall.
 
-## Going Up It And Not Counting The First Eight Hundred
+## The Last Two Hundred Steps
 
-She did not count the first eight hundred this time. She had said the number three times and she had checked it three times and a fourth check of a thing she is sure of is a thing she is doing to keep from thinking about something else.
+She started at the wrong end on purpose.
 
-So she started saying numbers at the eighth hundred and she had her hand on the wall and her back to it and the turns counted, and she went up the last two hundred in about a count of two hundred of breath.
+On the twenty-fourth, at the second hour, she went down the seven steps that are visible from the door and kept on going, and she did not count anything at all for the first hundred, because the first hundred she had counted going up and coming down on the twenty-third and they were the same and she was not going to spend the count on them.
 
-And she found the four.
+Then she counted the last two hundred going up, which she had never done, because both times before she had started at the top of the room and gone down and the number had gone out of her at nine hundred before she ever got to this part.
 
-They are the last four. They are at the top, where the stair comes out onto the landing, and they are the same width as every other step on that stair and there is nothing on them and nothing about them.
+She went up from the room end in the dark with her left hand on the wall and her breath at seven on anything that rises and she counted out loud, one number at a time, and she got to two hundred with nothing at all happening.
 
-She said, out loud, standing on that landing in the dark with her hand on the wall, in the ordinary voice:
+And on the twenty-fifth she did it again, all the way from the room end, nine hundred and four going up, and the second time was the same as the first time and she got to it without putting a hand anywhere except the wall.
 
-“The four are the four at the end. And on the nineteenth of the month beginning two thousand two hundred and ninety-four I went up this for four days and I got to nine hundred and I never saw them.”
+## Going Up From The Room End
 
-She said, “And I did not lose the count. Nothing happened to the count. I was finished.”
+What she found at the bottom of it, going up, is that the four steps are the first four.
 
-## What Is On The Far Side Of That Stair
+She had thought about them for three days as four steps at the end of something. They are not at the end. They are where the stair comes back down into the floor of the same room, out of the place in the wall behind the lamp’s shelf, and she had never once counted upward out of that place, because the seven steps that are visible from the door go up and the rest of it is behind the angle of the wall until you are nine hundred steps away from it.
 
-And then she stood on that landing and looked at the far side of it, which took her a count of two hundred, and it is the whole of what there is above the line in this building.
+She said it out loud on the twenty-fifth at the ninth hour, standing at the near end of that table, in daylight, in the ordinary voice:
 
-There is a landing. It is about as deep as her own two feet put end to end. The wall behind it is the same wall, and the same cut, and there is a mouth in it about the width of her shoulders where the other half of that stair comes down, and that stair comes down into the floor of the room she is standing in, past the end of that table, out of a place behind the shelf that lamp is on.
+“The four steps I could not hold are the four steps closest to this room. They are the first ones anybody gets and they are the last ones I counted.”
 
-And there is no light on any of it and there never has been.
+She said, “And on the nineteenth of the month beginning two thousand two hundred and ninety-four I went up that stair from the top of it and stopped at nine hundred, and nine hundred is nine hundred and four less four, and so what stopped me was not that I had run out of stair.”
 
-She said, out loud, standing on that landing, in the ordinary voice, in the dark:
+She said, “What stopped me was that I could not hold the number and I had nothing to hold it with and no light and no rail and nothing at all to do except stop at nine hundred and go home up eight flights.”
 
-“Every step of this stair is unlit. There is no lamp at the bottom of it and there is no lamp at the top of it and there is no oil in this building to make one with. And I have just gone up nine hundred and four of them three days running and there is not one thing on any of them.”
+## There Is No Ninth Hundred And Fifth
 
-She said, “And I have gone up a stair for a hundred and thirty-nine days as if there were a thing at the top of it.”
+And on the twenty-sixth she went and stood at the foot of it, on the seven visible steps, in daylight from the low door, and she worked out the last of it and it took her most of the day.
 
-## The Two Stairs Are Two Stairs
+She said, “A stair that goes up out of this room and comes back down into the floor of this room has two ends and both of them are in here, and one of them is under my feet and the other one is out of sight of me.”
 
-And then she did the part that took the rest of that day, standing, in the ordinary voice, at the near end of that table when she came out of it, and it is a thing she has known since the nineteenth of the month beginning two thousand two hundred and ninety-four and had never once put into words.
+She said, “And there is not one step past nine hundred and four. There is no ninth hundred and fifth. There is no place on that stair where a person could stand and be further away from this room than the bottom of it, and I have never once seen what is at the top of it because the top of it is seven steps from where I sleep.”
 
-She said, “There are two stairs in this building and they are two stairs and they have never been one and they do not make one.”
+She said, “And I have been at the top of that stair for five months working out how far it goes and it does not go anywhere. It goes down and it comes back. That is the whole of what is above the line that I have found in this building in a hundred and thirty-eight days, and it took me four days and nine hundred and four steps to find out that there was nothing on it.”
 
-She said, “The tower’s own is four hundred and forty and four hundred and forty, and the first four hundred and forty has a rail on it and the second four hundred and forty has a wall four inches off your hand on one side and nothing on the other, and it comes out at a copying floor with four hundred volumes on the shelves in their cages and a lamp in a cage on the fourth landing that went out on the third of the month beginning two thousand two hundred and ninety-four.”
+And then she stopped for a count of ninety, and she said the thing she said about herself, in the ordinary voice, standing, in daylight.
 
-She said, “And the second one is nine hundred and four and it has no rail on any of it and it has no light on any of it and it comes out on the floor of this room out of a hole in the wall behind that lamp.”
+She said, “I stood at the top of a number for a hundred and thirty-eight days as if the number were a wall, and the number was not a wall, it was a piece of arithmetic about how far away the bottom of a stair is, and I could have walked down it in any of those days and I did not, because I could not hold the number, and not being able to hold a number is not the same as there being something in the way.”
 
-She said, “And a boy of sixteen has been up the first of those three times and has never been on the second of them and he is not going to be, and I am not going to take him.”
+## What She Was Doing With A Number
 
-## A Number Used As A Wall
+She said the last of it out loud on the twenty-seventh, standing at the near end of that table with the boards under it and the bar against the wall on the left, and it is the plainest account she has given in this room of what she was doing with her own time.
 
-And on the twenty-seventh of that month she worked out the last of it, standing, in daylight, in the ordinary voice, at the near end of that table with the strip of hand-made paper in her left hand and nine hundred and four written on the back of it in her own hand.
+She said, “I have been standing here for a hundred and thirty-eight days telling myself that I had a figure I could not put down and no place to put it, and the truth is that I had a figure and I could say it out loud in a room with a person in it, and I worked that out in four days and I had known how to do it since I was six years old.”
 
-She said, “I counted nine hundred and four steps three times in three days and I have got it on a piece of paper that came out of a bag four hundred and forty steps down, and it is the first distance above this line that has ever been counted by anybody.”
+She said, “And I have been using the number as a reason. That is what it was for. A number I cannot hold is a reason not to go down a stair, and I have used it every day since the nineteenth of the month beginning two thousand two hundred and ninety-four and I did not notice once that it was a reason and not a wall.”
 
-She said, “And there is nothing at the top of it.”
+She said, “And there is a boy of sixteen four miles down that mountain who cannot leave a thing alone, and I have been standing at the top of nine hundred for five months, and neither of us was doing anything and both of us were telling ourselves it was because of a number.”
 
-She said, “And I have been treating a number like a wall for a hundred and thirty-nine days. Not the stair. The number. I thought the number was the end of what I could have.”
+She said, “He asked me twice why the lamp at the top of this tower is lit and I gave him a number the first time.”
 
-She said, “And it was not the end of what I could have. It was nine hundred and four, and the four were the end, and I stopped at nine hundred because I had been counting for four days and my head is not big enough for a stair, and I have known that about myself since I was ten years old with a bundle of kindling on my back.”
+She said, “He does not know what a row is. He counted forty boards in ten minutes on his own and there is not one thing in this room that will pay him for it.”
 
-She said, “And the whole of the thing I have been standing in front of for a hundred and thirty-nine days is four steps.”
+She said, “And I cannot go down eight hundred and eighty steps and put nine hundred and four on a strip of hand-made paper and hand it to him, because he would not know what it was for either, and because I would have to write it down, and I do not write things down.”
 
-And she stopped there, and she sat down on the floor at the near end of that table with her back against the leg of it and her arm open across her knees, and she did not say anything for a count of three hundred.
+And then she stopped, and she said the last of it in a voice that was not the ordinary one for about four words and then was.
 
-## A Nib And An Ink And Five Blank Leaves
+She said, “Nine hundred and four is the first distance I have counted in nineteen years and the first figure I have had to put anywhere other than my head, and I put it in this room, out loud, and a person who has been standing at that table for four hundred years heard it and did not look up.”
 
-And on the twenty-sixth of that month she did the other thing that came out of going down that stair, and it took her most of a day and she did it standing, in daylight, in the ordinary voice, on the floor at the near end of that table.
+She said, “And that is the first time in nineteen years that anything I have said has been in the same room as another person and gone nowhere. And I do not know yet whether that is a failure.”
 
-She said, “I have got a stub of a nib and a cake of ink against the fourth rib for the first time in nineteen years. I picked them up off a floor on the twelfth of this month and I have had them in my hand every day since and I have not used them on one thing.”
+## What A Number Is For Now That She Has It
 
-She said, “And I have five blank leaves against my ribs that have been blank for ten years and that are mine, and I have not written in them since the day I made the book, and I said so out loud on the eighth of the month beginning two thousand two hundred and ninety-four and I said it again on the fourth of the month beginning two thousand three hundred and fifty-four.”
+And on the twenty-seventh she did the last thing of those six days with the figure, which was to work out what a number she can hold is for, because she has not had one since she was six years old and she had been treating the whole business as an account of what she had lost.
 
-She said, “And I am not going to put anything in them now. Not a figure. Not a stair. Not a name.”
+She said, “I have got nine hundred and four and it is the same going up and coming down and I said it out loud in this room twice and a person standing at the far end of that table heard it and did not look up.”
 
-And then she said the reason out loud, because the reason is the whole of why she went down four hundred and forty steps and the reason is not the one she expected.
+She said, “And that is not nothing. That is the first thing I have said in this room in a hundred and thirty-nine days that has come out the same twice, and there is not one instrument in this building that could have told me so except me, twice, at a cost of three hours and an arm.”
 
-She said, “I have not had an instrument in nineteen years. A thing I cannot write with is a thing that cannot be kept, and I have made my whole life out of counting, and what I have just found out on that stair is that a number I can hold is a number I can lose.”
+She said, “And I know what it is for, and it is not for me. It is for the next time somebody in this building puts a number into a row and gets it wrong, and there has not been a next time in four hundred years, and if there is one then whoever is standing at that table will not be able to tell that the stair is nine hundred and four and only one person in this county can.”
 
-She said, “And now I have got one, and the first thing it wants to do is go into a book that has been blank for ten years, and I am not going to let a tool I picked up four days ago decide anything.”
+And she said the rest of it standing, in daylight, in the ordinary voice, and it is the thing the four days of counting a stair in the dark actually came to.
 
-## The Cord Under The Far End Of That Table
+She said, “I went up that stair three times in four days and I came away with a figure. I have been in this room one hundred and thirty-nine days and I have gone up the low door four times and come away with a bundle in my shirt, and that is the first time in one hundred and thirty-nine days that a thing she did has left her holding something instead of nothing.”
 
-And there is a bundle of papers on the floor under the far end of that table with a cord round it twice and not knotted, and she has had her arm into it three times in a hundred and forty days and she has not pulled it once.
+She said, “And I am not going to be able to give it to anybody. A boy of sixteen four miles down that mountain cannot use nine hundred and four. A brother two days of road and six hundred feet below me is not going to come up a tower for a distance. And the only other thing in this room is a person who has stood at that table for four hundred years and is not going to look up.”
 
-She put her arm into it on the twenty-sixth of that month at the sixth hour, with a nib and a cake of ink against her ribs, and she did not pull it.
+She said, “So I have got a number with no use to anybody, on a stair with nothing on it, in a room with no second place anybody is going to sit in, and I have been putting one in the other all month and it has not once stopped the second.”
 
-She said, out loud, with her arm in up to the elbow in a bundle of papers she has never looked at, in the ordinary voice, on the floor of that room:
+## The Sums On The Twenty-Seventh
 
-“I can read this now. I could not read it four days ago. That is the whole of what has changed in this room since the twelfth of this month and it is the first time in nineteen years that an instrument of mine has been in the same room as a thing I have not read.”
+She did the sums at the ninth hour of the twenty-seventh, standing, in daylight, in the ordinary voice, with the lamp at the far end of that table fifty of her own hand below the top of that cage.
 
-She said, “And a thing that has been four hundred years old and not shut is not a thing that goes bad. It is a thing that was left for somebody who did not come.”
+She said, “Two thousand four hundred and forty less one thousand five hundred and fifty-nine is eight hundred and eighty-one days, and two thousand four hundred and forty less two thousand three hundred and one is a hundred and thirty-nine days in this room.”
 
-She said, “And I have been living on the not knowing for a hundred and forty days and I am not going to stop living on it on the day I got a nib, and if there is one reason and one reason only for me not to pull it today it is that I want to read it with an instrument I have had for four days and not with the one I will have had for a month.”
+She said, “And fifty-eight less fifty is eight and eight divided by two is four and the fourth day from this one is the first of the month beginning two thousand four hundred and forty-four, and that is four days off and the number has been the same every day since the eleventh and it is not going to move before then unless a hand goes into that cage.”
 
-And she took her arm out of it and she did not pull it and she has not pulled it.
+She said, “And the figure at the head of my row is seven days, seven hours and twelve minutes out of date, and it is a foot long and two inches across and it is on the stone under that table and I read it with my fingers this morning and not one of its four edges has moved.”
 
-## The Sums And Four Days
+And that was the end of the twenty-seventh, and the thing she left with it was not a figure at all.
 
-And then she did the sums on the twenty-seventh of that month at the ninth hour, standing, in daylight, in the ordinary voice, at the near end of that table with the light at the far end of it fifty of her own hand below the top of that cage.
+She said, “I have four days to the first of that month and nine hundred and four steps between this floor and the bottom of the other end of this room and there is nothing on any of them.”
 
-She said, “Two thousand four hundred and forty less one thousand five hundred and fifty-nine is eight hundred and eighty-one days, at one hour and twelve minutes a day, and one of them went into that lamp on the second of the month beginning two thousand three hundred and fifty-four and did not come back.”
-
-She said, “And fifty-eight less fifty is eight and eight divided by two is four and the fourth day from this one is the first of the month beginning two thousand four hundred and forty-four.”
-
-She said, “And the figure at the head of my row is seven days, seven hours and twelve minutes out of date, and that is a figure about me that is getting more wrong every day, and the number on the back of a piece of paper is the only figure in this building that has not changed at all in three days.”
-
-She said, “And there are four days between this one and the first of a month, and on that day forty things are going to come up that stair and the light is going to come down onto that cut at the same hour, for the second time in four hundred years, and I am going to be standing in this room and there is not one thing I can do about either of them.”
+She said, “And that is the first time in nineteen years that I have stood at the top of something and known what was at the bottom of it, and it was four steps, and I am going to have to decide what to do about the fact that I did not walk down there for five months.”

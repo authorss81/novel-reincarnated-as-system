@@ -1,123 +1,115 @@
-# Nine Hundred And Four
+# The Four She Had Not Counted
 
-She went down the second stair at the second hour of the twenty-first of the month beginning two thousand four hundred and fourteen with nothing in her hands and no light on any of it, and she came back up the whole way, and the count is nine hundred and four, and that is the first distance above the line she has ever counted and the first figure in thirteen years she has had to put down anywhere other than in her head.
+She went down that stair on the twenty-third of the month beginning two thousand four hundred and fourteen with nothing in either hand and came back up the whole way, and the count is nine hundred and four, and that is the first distance above the line she has ever counted and the first figure in thirteen years she has had to put down anywhere other than in her head.
 
-## What She Left On The Stone
+## Three Days Of Not Going
 
-She put the nib and the ink on the stone at the near end of that table before she went into the stair, with a hand’s breadth between them and the wall, so that she could find them with her hand when she came out of it.
+She did not go on the twentieth, the twenty-first or the twenty-second, and the reason was not rest, or not only rest.
 
-She said it out loud at the second hour of the twenty-first of that month, standing, in daylight, in the ordinary voice, in a room with a person in it who has both hands on the near edge of that table:
+On the sixteenth of the month beginning two thousand two hundred and ninety-four she went up that stair for four days and counted it to nine hundred and could not hold nine hundred, and she put the number nowhere, and the reason she put it nowhere was that there was nothing in that room to put it on.
 
-“I am going down that with nothing in my hands. There is not one lamp in this building I can carry and there is no oil in it to put in a lamp and the light at the far end of this room goes away from that door, and I am going down it anyway.”
+She had a nib and a cake of ink against the fourth rib since the twelfth of this month. What she did not have was a thing to write it on.
 
-She said, “And I am going to do it in one push today, because on the fifteenth of this month I went down it and got to nine hundred and eleven and could not get my breath and had to come back up, and that is not a thing you can do twice.”
+The strip of hand-made paper with eighty-one lines and the same sum under it in words is in a bag at the bottom of that tower and she left it there on purpose on the nineteenth of the month beginning two thousand two hundred and ninety-four and she said out loud on the twenty-first of the month beginning two thousand three hundred and eighty-four that she was not going down for it this month, and she has not.
 
-## The Way She Counts A Stair That Turns
+There are forty boards under that table. She could take one out on her back with a cross-beam across her shoulders, and she did it in a count of sixty on the twentieth of the month beginning two thousand three hundred and eighty-four, and she could do it in less than that now.
 
-Counting a stair that turns is not counting a stair, and she found that out on the seventeenth of the month beginning two thousand two hundred and ninety-four, and she has not improved on it since.
+And she was not going to put a number about a stair on a board that goes up a stair in an armful with forty other things.
 
-So she counted the steps and the turns together out loud, one number at a time, all the way down and all the way up: one, two, three, and turn, four, five, six, and turn.
+So she said it out loud instead, in a room with a person standing at the far end of a table who had not looked up in a hundred and thirty-five days, and she worked out on the twentieth of this month that saying it out loud in daylight standing is a place a figure can go, and that it is the only place she has got.
 
-And the thing that happened on the way down is that her breath went to seven on the second hundred and stayed at seven and she did not fight it, because she has been on a rise nine years and seven is what a rise costs and she had a hundred and thirty-four days of sitting still in her to spend on it.
+## What She Held Differently This Time
 
-She said a number out loud at every hundred and she did not do it silently, because a number said silently is a number in her head and she has been where that goes.
+The difference was that she did not try to hold nine hundred.
 
-## Nine Hundred And One
+On the twentieth she went down it with nothing in her hands and counted the turns out loud, sixty-four of them, and at every turn she put her left hand flat on the stone on both sides and said the number out loud twice. On the twenty-first she did it again and got to the forty-eighth turn and her breath came off nine and she stood still on a step in the dark for a count of seventy until it was nine.
 
-At the eighth hundred she was still counting. At the ninth hundred she stopped.
+On the twenty-second she counted the runs instead and said each one out loud as she started it. Nine of them long enough to count. The longest of them is a hundred and forty steps and she has known that since the eighteenth of the month beginning two thousand two hundred and ninety-four. The other eight are between thirty and ninety and she does not know each of them separately and is not going to pretend she does.
 
-Not because the number would not hold. That is what she expected and it did not happen, and the thing that actually happened was much smaller and much worse.
+And what she did on the twenty-second, in the dark, on a step, with her back to a wall, was put a hand on the wall at every hundred and keep the hand there until she had another one.
 
-She stopped because she had been counting since the fourth hour of the sixteenth of the month beginning two thousand two hundred and ninety-four, and the last time she came off that stair and said a number out loud it was nine hundred, and nine hundred was the end of what she had.
+That is all it was. She was not leaving marks, because there is nothing up there to leave a mark on and nothing below her to see one. She was putting her own hand against a wall at a place she could find again, which is the oldest thing she knows how to do and the only one that has never failed her.
 
-She sat down on a step in the dark at that point with her back against the wall and her arm open across her knees and her breath going from seven to nine and staying at nine, and she put her hand flat on the stone at her side and she waited for the number to stop being a thing she could hold.
+## The Whole Way Down
 
-It did not stop.
+She went down the whole way on the twenty-third, at the second hour, with nothing in her hands.
 
-She said, out loud, on that step, in the dark, in the ordinary voice:
+There is no light on any part of that stair. It is narrow and it turns and it comes back down on the far side of the room out of a place in the wall behind the lamp’s shelf, and it has two ends in the same room, and she had known that since the sixteenth of the month beginning two thousand two hundred and ninety-four.
 
-“Eight hundred and ninety-nine.”
+Going down it is a rise and her breath goes to seven on anything that rises and she is at nine standing still at the top of eight flights.
 
-And then she waited again, because she wanted to be certain.
+She said the numbers out loud the whole way, which is a thing she has never once done for any other count in her life except the ones on that stair. Sixty-four turns. Nine runs. A hundred and forty in the long one. And the steps in the short ones, out loud, one at a time, with a hand on the wall at every hundred.
 
-She said, “Nine hundred.”
+Eight hundred and forty she put a hand on the wall.
 
-And then she said, “Nine hundred and one.”
+Nine hundred she put a hand on the wall and she waited for the number to go, because it went on the nineteenth of the month beginning two thousand two hundred and ninety-four and she had five months to think about what that would feel like the second time.
 
-## The Dark On The Last Of It
+It did not go.
 
-She went on up to the landing from there, and the last four steps are the ones she has not been on, and they are ordinary steps and they are the same width as every other step on that stair.
+Nine hundred and one. Nine hundred and two. Nine hundred and three.
 
-She stood on that landing at the sixth hour of the twenty-first of that month, in the dark, with her hand flat on the wall, and found out that she was shaking.
+Nine hundred and four.
 
-Not from the stair. She has gone up and down four miles of mountain road in nine years with a bar on her shoulder and she has never once been tired in a way she could not name. She was shaking because she had sat on a step in the dark for a count of a hundred and forty waiting for a number to stop being a thing she could hold, and it did not stop, and every one of the four hundred days since she was nine has been built on that number going.
+And then her feet were on the stone of the floor of the room she had started from, and the wall behind her was the wall behind the lamp’s shelf, and the light was coming up past the top of that cage with a person standing at the near edge of that table with both hands on it doing the one thing they do.
 
-She said, out loud, standing on that landing, in the ordinary voice, to a stair that has never once answered her:
+## What Was At The Bottom Of It
 
-“I have been afraid of a figure for a hundred and thirty-five days, and the figure was wrong.”
+And she stood at the bottom of that stair in the dark for a count of a hundred and forty before she said anything else, and she had not expected to be standing there.
 
-And then she went back down the whole of it and up the whole of it again, because there is no other way to be certain of a thing a person has only ever done once.
+She had expected a wall. She had said out loud on the nineteenth of the month beginning two thousand two hundred and ninety-four that there was nothing on the top of that stair and she had been wrong about that too, and the thing that was at the bottom of it was nine hundred and four steps of nothing and then a floor.
 
-And she said, standing, in the ordinary voice, at the near end of that table when she came out of it the second time:
+The floor was the floor of that room. The same stone. The same cold under her feet. The wall behind her was the wall behind the lamp’s shelf and she put her right hand flat on it and it was the same cut in the stone she has been looking at for a hundred and forty-four days from the other side.
 
-“If it comes out nine hundred and four a third time then I will believe the count and not the shock, and I have never in nineteen years had to check a thing twice, and I am not going to start now.”
+She said, out loud, in the dark, at the bottom of that stair, in the ordinary voice:
 
-## The Whole Way Back Up
+“This is the same room.”
 
-And she went on down to the landing and she went back up the whole of it, and she counted the whole way up too, out loud, in the ordinary voice, with the turns.
+She said, “There is a bar nine feet nine against the wall on the left of that room with the broken end towards the door, and it is nine feet nine, and I can hear nothing at all from this side of it.”
 
-She came off the top of that stair at the seventh hour of the twenty-first of that month with her breath at nine and her arm open and her right hand on the stone of the room floor, and there is not one mark on that floor that says a person went down it and came back.
+She said, “And I have been up here for a hundred and forty-four days telling myself there was something above the line I had not found, and the whole of it is a stair that goes out of one room and comes back into it, and I was afraid of the number.”
+
+And then she said the thing she had not expected to say, and it came out of her in about four words and then she let it run.
+
+She said, “I have never been this far from that bar in nineteen years.”
+
+And then she stopped, and she stood on the floor of that room at the bottom of a stair with her back against a wall and her arm open in front of her and did not go up for a count of a hundred and forty, which she had never once done on that stair in five months.
+
+## Nine Hundred And Four
+
+She said it out loud on that floor, standing, in daylight, in the ordinary voice, and she said it once and it did not shake.
 
 She said, “Nine hundred and four.”
 
-And then she said, standing, in daylight, in the ordinary voice, at the near end of that table with the nib and the ink a hand’s breadth off the wall where she left them:
+And then she stood there for a count of a hundred and forty and said the rest of it, and the sentences came out short because there was nothing long in them.
 
-“Nine hundred and four going down and nine hundred and four coming up, and they are the same number, and I did them both in one day, and I am not going to add them together because I do not add two stairs.”
+She said, “The whole of it is nine hundred and four.”
 
-## Nine Hundred And Four, Twice
+She said, “I counted to nine hundred on the nineteenth of the month beginning two thousand two hundred and ninety-four and I could not go on, and I put the number nowhere, and there was nothing here to put it on.”
 
-She did it again on the twenty-second of that month and she did it a third time on the twenty-third, and the third time she did it in the dark at the second hour and counted only out loud with no counting of turns at all, and all three numbers came out the same.
+She said, “The four I could not hold were the last four.”
 
-She said it out loud on the twenty-third, standing, in daylight, in the ordinary voice, and she said it three times because she wanted to hear it three times:
+She said, “They are the last four steps of that stair. And that is the whole of what I was missing. It was four steps at the bottom of a stair and I stood at the top of nine hundred for one hundred and thirty-five days and treated the number like a wall.”
 
-“Nine hundred and four. Nine hundred and four. Nine hundred and four.”
+And then she said the part that is the reason it matters, and she said it standing in daylight at the near end of that table with the boards under it.
 
-And then she said the other half of it, out loud, standing, in the ordinary voice, at the near end of that table.
+She said, “I have been counting things since before I could walk. I have never once had to put one of them down anywhere except in my head, and the only time I could not hold one was the length of a stair, and that was a number and not a distance.”
 
-She said, “On the nineteenth of the month beginning two thousand two hundred and ninety-four I went up that stair for four days and I said nine hundred out loud and it never went to nine hundred and one and I put the number nowhere.”
+She said, “This is the first distance I have ever counted. Every other thing I have measured in nineteen years has been a figure, and a figure is not a place. This one is how far it is from this floor to the other end of this room and back, and I can say it out loud in a room and it is the same for whoever is standing here.”
 
-She said, “And I have spent a hundred and thirty-five days since then treating nine hundred like a wall.”
+## Four Steps
 
-She said, “And it is not a wall. It was a number and it was nine hundred because I had four days of counting in my head and my head is not big enough for a stair, and there were four steps on the end of it and I never got to them.”
+She went back up it on the twenty-third at the sixth hour, in the dark, with nothing in her hands, and it took her two hours and forty of it and she counted every number out loud going up, and the number was the same going up as it had been coming down, which is the one thing about it that she had not known on the nineteenth of the month beginning two thousand two hundred and ninety-four and had not been able to find out until she had come back up.
 
-## Where She Put It
+And on the twenty-third at the ninth hour she said out loud, standing, in daylight, in the ordinary voice, the thing she said about the boy, and then the sums.
 
-And then she took the strip of hand-made paper out from against the fourth rib where she has carried it for nineteen years, nine inches long with eighty-one lines on it and the same sum written under it in words, and she turned it over.
+She said, “There is a boy of sixteen four miles down that mountain who counted forty boards coming off that table in ten minutes on his own, and he does not know what a row is, and I have counted nine hundred and four steps of a stair in the dark twice today and there is not one thing in this building that will pay either of us for it.”
 
-She wrote on the back of it with three fingers and a thumb, on an arm that is open and has been open since the first of the month beginning two thousand two hundred and ninety-four, kneeling at the near end of that table.
+She said, “And I am not going to tell him a number. He would come up here with it and there is nothing here it would let him do.”
 
-She wrote nine hundred and four.
+She said, “Two thousand four hundred and thirty-six less one thousand five hundred and fifty-nine is eight hundred and seventy-seven days, and two thousand four hundred and thirty-six less two thousand three hundred and one is a hundred and thirty-five days in this room.”
 
-And it took a count of nine, which is not many, and the strokes are not all the same width and they catch the way the cuts in her own row catch.
+She said, “And fifty-eight less forty-two is sixteen and sixteen divided by two is eight and the eighth day from this one is the first of the month beginning two thousand four hundred and forty-four, and the figure at the head of my row is seven days, two hours and twenty-four minutes out of date and I read it with my fingers under that table this morning and it has not moved and it is the only figure in this building that has not moved.”
 
-She said, out loud, kneeling on the floor of that room with the lamp at the far end of it and the person at that table nine feet off along it:
+And that was the last of the twenty-third, and the last thing she said about it out loud was this.
 
-“This is the first figure in thirteen years that I have had to put down somewhere other than in my head.”
-
-She said, “And I have had five blank leaves against my ribs for ten years and I am not going to put a number about a stair on one of them, because that is a thing to be written down and not a thing to be kept, and I have known that since I was nine years old.”
-
-She said, “And a line on a thing is not a decision and it stops being a decision the second it is down, and I have learned that one the hard way and it is why I did not do this in the month beginning two thousand two hundred and ninety-four. I did not have the count then.”
-
-## The Sums And What Is Left Of It
-
-And she did the sums on the twenty-third of that month at the ninth hour, standing, in daylight, in the ordinary voice, at the near end of that table with the light at the far end of it forty-two of her own hand below the top of that cage.
-
-She said, “Two thousand four hundred and thirty-six less one thousand five hundred and fifty-nine is eight hundred and seventy-seven days, and two thousand four hundred and thirty-six less two thousand three hundred and one is a hundred and thirty-five days.”
-
-She said, “Fifty-eight less forty-two is sixteen and sixteen divided by two is eight and the eighth day from this one is the first of the month beginning two thousand four hundred and forty-four, and the figure at the head of my row is seven days, two hours and twenty-four minutes out of date, and there is no instrument above this line that could tell me so.”
-
-She said, “And I have seven of eleven holds and I had the same this morning before I went down that stair and I spent a count of twenty standing still on a step at the eight hundred and did not lose it.”
-
-She said, “And there is a boy of sixteen four miles down that mountain who counted forty boards off that table in ten minutes without being told twice, and he could not have come up that stair with me in the dark because he has never been on it and he would not have held the count past the six hundred.”
-
-She said, “And there is not one person in this building who knows that the stair is nine hundred and four, because there is not one person in this building who has been on it, and I am going up it again in the morning to find out whether the three numbers I have got are the stair or the shock.”
+She said, “I am going to go up that stair again before the first of that month, and I am going to do it with nothing in my hands, and if the number is the same a third time then nine hundred and four is a fact about this room and not a thing that happened to me twice.”

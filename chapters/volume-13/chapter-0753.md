@@ -1,83 +1,83 @@
-# A First And Not A Thirtieth
+# A Mark On A First
 
-She worked out in four days that the line cut in the stone behind that lamp is going to be reached on the first of the month beginning two thousand four hundred and forty-four and not on a thirtieth, for the second time in four hundred years, and it is going to be reached that way because she spent a day of her own life into that cage, and she said the whole of it out loud in that room and did not tell the room.
+She worked the light out again over four days and found out that the cut in the stone behind that lamp is going to be reached on the first of the month beginning two thousand four hundred and forty-four and not on a thirtieth.
 
-## Fifteen Days On The Nineteenth
+That is the second time in four hundred years it has happened and it is her own fault.
 
-She started on the sixteenth of that month and the sixteenth is the nineteenth day of it, and the first of the month beginning two thousand four hundred and forty-four is the fifteenth day after that.
+She said the whole of it out loud in that room, on the sixteenth, seventeenth, eighteenth and nineteenth of the month beginning two thousand four hundred and fourteen, and she did not tell the room.
 
-She said it out loud on that floor at the near end of that table, standing, in daylight, in the ordinary voice, with the boards under the table and the bar nine feet nine against the wall on the left of it where it has been since the twenty-first of the month beginning two thousand three hundred and fifty-four:
+## Twenty-Nine Against Thirty, Once More
 
-“Fifteen days from the sixteenth of this month is the first of the month beginning two thousand four hundred and forty-four. And on that day forty things are going to come up that stair and put down on that table, and it is going to be the fifth time anything has come up that stair while I have been in this room.”
+The numbers had not moved. Fifty-eight of her own hand from the top of that cage down to the cut in the wall behind it. Two of her own hand a day. Fifty-eight divided by two is twenty-nine, done four times, standing, out loud, and it does not get a different answer for being done a fifth time.
 
-She said, “And there is a light at the far end of this room that has come down two of my own hand a day since the second of the month beginning two thousand three hundred and eighty-four and there has not been one hand in that cage since, and I have worked out that it is going to be on that line on the same day.”
+Twenty-nine days from a turning is the thirtieth of a month, because a month is thirty and the turnings that have happened in this room that she can see have all been on the first.
 
-## How A Mark Is Supposed To Fall
+The first of the month beginning two thousand three hundred and twenty-four. The first of the month beginning two thousand three hundred and fifty-four. The first of the month beginning two thousand three hundred and eighty-four. The first of the month beginning two thousand four hundred and fourteen.
 
-And then she did the part that took her three days, which is that she had been been running the room’s rule backwards for a hundred and twenty-nine days and the rule does not say what she thought it said.
+So on every ordinary month the light comes down onto that cut on the thirtieth and stands there overnight with nothing above it and nothing below it, and a hand goes up into that cage at the second hour of the first and puts it back to the top.
 
-She said, out loud, standing, in daylight, in the ordinary voice, at the ninth hour of the eighteenth of that month:
+And there has been one day of slack in that arrangement every month for four hundred years. The thirtieth is the thirtieth and the first is the first and there is nothing left over.
 
-“Fifty-eight of my own hand from the top of that cage to the line cut in the stone, and two of my own hand a day, and fifty-eight divided by two is twenty-nine. Twenty-nine days from the first of a month is the thirtieth of that month. So the mark is supposed to fall on the thirtieth and the hand is supposed to go into the cage on the first, and there has been one day of slack in every month of that for four hundred years and not one person has ever spent it.”
+## The Day She Spent
 
-She said, “That is the rule. I have had that for a hundred and twenty-nine days and it fits four hundred years of a room exactly and it is not what is going to happen.”
+Except that there is not one month in the last four hundred years with a turning on the second of it, and she worked that out standing at the near end of that table on the seventeenth at the ninth hour and said it out loud twice because she wanted to hear it in her own mouth before she believed it.
 
-She said, “And I have not got a date for a single one of the last three turnings and I am not going to invent one, and what I have got is the days themselves and the days are in front of me on a piece of wood I have been carrying for nineteen years.”
+The last turning before this one was at the second hour of the second of the month beginning two thousand four hundred and fourteen.
 
-## The Two Times A Hand Went In
+Twenty-nine days from the second is the first of the month beginning two thousand four hundred and forty-four.
 
-What she has instead is this, and she said it out loud on the nineteenth of that month, standing, in daylight, in the ordinary voice, one item at a time, because there are only two items.
+And the reason it was the second is the fourth of the month beginning two thousand three hundred and fifty-four, and she put her own open arm up against her ribs and said out loud, standing, in daylight, in the ordinary voice:
 
-She said, “The light came down onto the line cut in the stone on the first of the month beginning two thousand three hundred and eighty-four, and it stood on that cut, and there was nothing above it and nothing below it, and that was the first time in four hundred years and I put a day of my own into that cage the day before.”
+“I put a day of my own life into that cage on that day and it did not come back, and that day is the only reason the mark on that wall has moved off the thirtieth, and it has moved it one day, and one day is the whole of what a day does to that light.”
 
-She said, “And a hand went into that cage at the second hour of the second of that month, and it came back up past the top of that cage, and it has come down two of my own hand a day ever since.”
+She said, “And I did that so that the light would stand on that cut on the first of the month beginning two thousand three hundred and eighty-four and I could be standing in this room when it did, and it did, and a hand went into that cage at the second hour of the second and the light came up past the top of it, and I have had what I wanted and I am not going to pretend it was free.”
 
-She said, “And then the light came down onto the same cut again on the first of the month beginning two thousand four hundred and fourteen, on the day the fourth bundle came up that stair, and a hand went into that cage at the second hour of the second of that month.”
+## Twenty-Nine Days From The Turning
 
-She stopped there and stood for a count of sixty, and then she did the sum that is the whole of the four days she has spent on it, and she said it out loud in the ordinary voice.
+And on the eighteenth she did the part that made it a month instead of a day, standing at the near end of that table with the lamp at the far end of it thirty of her own hand below the top of that cage.
 
-She said, “The second of the month beginning two thousand three hundred and eighty-four is day two thousand three hundred and eighty-five. Twenty-nine days from day two thousand three hundred and eighty-five is day two thousand four hundred and fourteen.”
+She said, “Twenty-nine days from a turning is a thirtieth when the turning is on a first, and it is a first when the turning is on a second, and the turning was on a second, and so from the second of this month the mark falls on the first of the month beginning two thousand four hundred and forty-four.”
 
-She said, “The second of the month beginning two thousand four hundred and fourteen is day two thousand four hundred and fifteen. Twenty-nine days from day two thousand four hundred and fifteen is day two thousand four hundred and forty-four.”
+She said, “And that is not a thing about one month. That is what happens to every month from this one until a hand puts a day into that cage and takes a day out somewhere else, and there is not one hand in this building that is going to do that, because a hand does not know that a day goes into anything.”
 
-She said, “And the first of the month beginning two thousand four hundred and forty-four is a first, and not a thirtieth.”
+She stopped there and stood on the floor with her back against the near leg of that table for a count of a hundred and forty, and then she said the rest of it in the ordinary voice.
 
-## The Second Time In Four Hundred Years
+She said, “So the light is going to stand on that cut on the first of the month beginning two thousand four hundred and forty-four with nothing above it and nothing below it, and there is going to be no thirtieth in that month, and there is no slack in it at all, and there has never been a month in four hundred years without a day in it that nothing happens.”
 
-And then she said why, standing, in daylight, in the ordinary voice, at the near end of that table on the twentieth of that month, and this is the part she said twice because she wanted it in the room twice.
+She said, “And the day I bought on the fourth of the month beginning two thousand three hundred and fifty-four did not buy me a day. It bought me the loss of one. That is the price and I worked it out in four days standing at the near end of a table and I could not have worked it out any other way.”
 
-She said, “A hand went into that cage on the first of a month for four hundred years and the mark fell on the thirtieth. That is the rule and it fits everything that happened before I was born.”
+## A First And Not A Thirtieth
 
-She said, “And a hand has gone into that cage on the second of a month twice, because of one day, and on both of those times the mark has fallen on the first of a month, and it is going to fall on the first of a month for the second time in four hundred years on the day forty things come up that stair.”
+On the nineteenth she said the whole of it out loud again from the top, standing, in daylight, in the ordinary voice, at the near end of that table with the boards under it and the bar against the wall on the left, and she said it in four parts and she did not say any part of it twice.
 
-She said, “And the reason is that I put a hand up between four bars on the second of the month beginning two thousand three hundred and fifty-four and closed it on the base of that light, and it went up about a day’s worth, and it cost me a day, and the day did not come back.”
+She said, “There is a line cut in the stone of that wall behind that lamp and the light stops on it and does not go under it. Fifty-eight of my own hand from the top of the cage to the cut. Two of my own hand a day. Twenty-nine days from a turning.”
 
-She said, “And that is the whole of it. Twenty-nine days from the second of a month is the first of a month, and I did that, and not one row in this building has a word about it and not one person in this building knows it.”
+She said, “And the mark fell on the first of the month beginning two thousand three hundred and eighty-four, and on the first of the month beginning two thousand four hundred and fourteen, and it is going to fall on the first of the month beginning two thousand four hundred and forty-four, and that is three, and the first two of them are mine and the third one is mine too.”
 
-And then she had to stand there for a count of a hundred, because the other half of it came up on her while she was saying the first half and she was not ready for it.
+She said, “And it is the second time in four hundred years that the mark has fallen on a first, and there is not one row in this building with a word about either time, and there is not one person in this building who was in the room on the day the first of those three happened.”
 
-She had spent a hundred and thirty-one days in that room telling anybody who would listen how much every single thing in it cost. She had said it out loud to a stair and to a strip of wood and to a bar nine feet nine against a wall. She had worked out that one figure copied exactly costs a person the width of the little finger on her left hand, and she had said that out loud too, and she had said that the whole of what was standing at that table had gone into that lamp on a day the room chose.
+She said, “And on the fourth of the month beginning two thousand four hundred and forty-four forty things are going to come up that stair and put a board on that table, and a hand is going to go along them at four to a minute, and it is going to be standing on that line while it does it, and not one person in this building is going to notice that anything is different about that night.”
 
-And in four days she had found out something about herself that she did not want written on a board above the line, and there was not one single place in nineteen years she had ever had that before.
+And then she stopped for a count of ninety and said the last of it, and it is the one that is about a person instead of a wall.
 
-## Why She Did Not Say It Where The Hand Could Hear
+She said, “There is a boy of sixteen four miles down that mountain who has been keeping a lamp in a cage on the fourth landing going since the third of the month beginning two thousand two hundred and ninety-four with nothing to put in it, on his own, after he asked me to stop asking him.”
 
-And then she said the other half of it, which is why she is saying all of this out loud to a room and not to the room, and she said it on the twenty-first of that month standing at the near end of that table with a person at the far end of it who has both hands on the near edge.
+She said, “And the lamp at the top of this tower has been coming down two of my own hand a day, and the lamp at the bottom of it has been out, and he has never once been able to put those two together, and neither can I, and he is going to come up that stair one more time before this month is out because he cannot leave a thing alone and I have not got a reason that is both true and short.”
 
-She said, “A hand at that table copies a figure exactly and does not decide anything, and it cannot decide anything, because there is nothing on that table to write with, and I worked that out on the ninth of the month beginning two thousand three hundred and eighty-four.”
+## The Sums On The Nineteenth
 
-She said, “And if I say this where that hand can hear it then it goes on a board and goes up that stair on the first and I will not see it come down, and there is not one thing in this building that could do a single thing with a day of mine.”
+She did the sums at the ninth hour of the nineteenth, standing at the near end of that table with the lamp at the far end of it thirty-four of her own hand below the top of that cage.
 
-She said, “And a day I spent is mine and not the room’s. The room did not ask me for it and the room has not been told and I am not going to be the one who tells it, and that is the first thing I have kept off a page in nineteen years that was not a five-leaf book against my ribs.”
+She said, “Two thousand four hundred and thirty-two less one thousand five hundred and fifty-nine is eight hundred and seventy-three days, and two thousand four hundred and thirty-two less two thousand three hundred and one is a hundred and thirty-one days in this room.”
 
-## What Is Going To Happen On That Day
+She said, “And fifty-eight less thirty-four is twenty-four and twenty-four divided by two is twelve and the twelfth day from the nineteenth of this month is the first of the month beginning two thousand four hundred and forty-four, and the figure at the head of my row is six days, twenty-one hours and thirty-six minutes out of date.”
 
-And on the twenty-second of that month, which is the last day before the first, she stood at the near end of that table with her arm open across her knees and said the last of it out loud, and the light at the far end of that room was thirty hands below the top of that cage.
+She said, “And I said at the ninth hour of the sixth of this month that I am not going to put a day into that cage and I am not going to change that today, and if I did it on that day it would push the mark to the second of that month and take the last of the slack out of it, and that is the third month I would have taken it out of and the reason does not change.”
 
-She said, “Fifty-eight less thirty is twenty-eight and twenty-eight divided by two is fourteen and the fourteenth day from this one is the first of the month beginning two thousand four hundred and forty-four.”
+And then she said the thing she had not said in four days of standing at the near end of a table, and it is the last line of that day.
 
-She said, “And two thousand four hundred and thirty-two less one thousand five hundred and fifty-nine is eight hundred and seventy-three days, and the figure at the head of my row is six days and twenty-one hours and thirty-six minutes out of date, and neither of those numbers is going to change before that morning.”
+She said, “I have been standing here for four days working out where a mark on a wall is going to fall, and I have not once looked at the board that went up that stair on the first of this month with a figure on it that I wrote myself.”
 
-She said, “And the light is going to come down onto that cut on the same day that forty things come up that stair, for the second time in four hundred years, and there is no row in this building that has a word about either of those happening on the same day.”
+She said, “It came back down empty like every other board and there is not one person in this building who knows it is mine, and on the first of the month beginning two thousand four hundred and forty-four I am going to be standing in this room when another one goes up.”
 
-She said, “And I am going to be standing in this room when it does and I am not going to be able to say one word about it to anybody, and there is a boy of sixteen four miles down that mountain who would not understand a word of it and who I am not going to be able to tell anyway, because everything I have just worked out is a number of days and a number of my own hands, and there is not one person on either side of this line who could turn a number of days into a reason.”
+She said, “And I have got a nib and a cake of ink against the fourth rib that I picked up off a floor on the twelfth of this month, and I have had them in a bag for thirteen years and this is the first month they have not been in a bag.”
