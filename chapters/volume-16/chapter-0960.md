@@ -62,7 +62,7 @@ He Yu said, “Then my name goes in and not just the number.”
 
 “No,” Ning Yan said. “Your name goes in first.”
 
-## Hers To Say
+## The One Who Asked
 
 That was the whole of what was left and it took her about a count of forty to work out why she had said it.
 

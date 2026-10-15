@@ -90,7 +90,7 @@ And this morning at the seventh hour she had wanted to open her mouth and give a
 
 That was the whole of what refusing him had cost and she had put it there on her own, standing, in the ordinary voice, and it was not in the keeping because the keeping had nothing to do with it.
 
-## A Whole Day Without One
+## The One Time In The Day
 
 She did the whole day after that without a sentence in it.
 

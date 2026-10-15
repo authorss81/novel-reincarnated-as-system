@@ -50,7 +50,7 @@ She stood up, because she had to move, and walked the four paces and came back.
 
 “Is it in the record,” she said.
 
-“It is in the record. I was written on on the seventeenth of this month and I was answered on the seventh, and the layer takes what is said in the channel and puts it where it puts things, and it has had three days and it has not begun, and that is not a mercy and it is not a cruelty. It is a thing arriving.”
+“It is in the record. I was written on the seventeenth of the month beginning two thousand nine hundred and fifty-four and I was answered on the seventh of this month, and the layer takes what is said in the channel and puts it where it puts things, and it has had three days and it has not begun, and that is not a mercy and it is not a cruelty. It is a thing arriving.”
 
 “Three days.”
 

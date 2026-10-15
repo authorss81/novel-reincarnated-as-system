@@ -4511,4 +4511,4 @@ Inherited as fact: the ceiling is off and nothing came back · **not one person 
 
 ### The state of the manuscript
 
-**1,000 chapters, 1,881,175 words of body prose on method B, 1,000 chapter headings and zero duplicates. Zero bracket characters in the whole manuscript. No death in Volume 16 on the page or off it. No stage after ch 894 and no Last Ascension. No frame scene after ch 812.** The batch writes no `.done` marker, no ch 1001 or later, and no `workspace/volume-16-*` directory beyond the one holding its prompt, because there is no next phase.
+**1,000 chapters, 1,881,197 words of body prose on method B, 1,000 chapter headings and zero duplicates.** *(Re-measured 15 Oct 2026 after the `next-0014` cross-batch date repair; this line previously published 1,881,175.)* Zero bracket characters in the whole manuscript. No death in Volume 16 on the page or off it. No stage after ch 894 and no Last Ascension. No frame scene after ch 812.** The batch writes no `.done` marker, no ch 1001 or later, and no `workspace/volume-16-*` directory beyond the one holding its prompt, because there is no next phase.
