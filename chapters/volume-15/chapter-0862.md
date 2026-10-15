@@ -12,11 +12,11 @@ She said, “Figures first and the reason after. One hundred and nine days since
 
 She said, “And here is the reason. Two days ago I lay flat on the tenth landing with my ear against the stone, and there was something in it above me, steady and too far to hear. I have had two days beside a lamp to decide what that was, and what I have got is that it is regular, and a thing that is regular in a building is either work or sentences, and I am going up to find out which.”
 
-She said, “It is hunger, and I am naming it before I argue with it, because I do that.”
+She said, “It is hunger. I am putting it down in front of the figures, and then I am going to say which hunger it is, because a hunger you have not named is a hunger you argue with twice.”
 
 She said, “Not hunger in the body. I have not been hungry since the ninth and that has not changed. Hunger for the next of it. I have had three findings on this stair and every one of them has been stone and sameness, and two days ago the stone had something in it, and I have been hungry for the something ever since, the way I used to be hungry for morning figures.”
 
-She said, “And what I want is to get close enough to hear it start. Not to understand it. To hear it start. That is the want and there is nothing else under it.”
+She said, “And what I want is to get close enough to hear it start. Not to understand it. To hear it start. That is the want, and I could not put a second thing under it if I tried.”
 
 She left the lamp burning on the third landing and went up in the dark with nothing in either hand, past the fourth landing, past the fifth, past the sixth, with her left hand on the stone, and she counted the landings and said them where they were used, and her breath went seven counts on every rise.
 
@@ -56,8 +56,6 @@ She said, “And it is fear. And I am naming it because it is the fear I named o
 
 She said, “And what I want now is not what I wanted this morning. This morning I wanted to hear it start. Now I want to know what it is saying, and who it is saying it to, and I am going to find out, and I know that about myself now and it did not surprise me.”
 
-She went back down in the dark to the third landing, slow, with her left hand on the stone, and she sat beside the lamp, and the light went six paces out from where it stood and stopped, and she put her hands where the light was and looked at them to be sure they were still hers.
-
 ## The Climb That Earns It
 
 She had not got to the eleventh landing cheaply, and she said so out loud on the way back down, because a price said afterwards is a thing you have made up, and tonight’s price had been paid in full before anything was heard.
@@ -71,6 +69,8 @@ She said, “And here is the part I want said plainest. Twice before I came back
 She stopped on the tenth landing in the dark and put her left hand flat on the warmer stone, the way she had put it two days before, and it was warmer, or her hand had learned it, and she did not decide, the way she had not decided before.
 
 She said, “Warmer. Or learned. Still one of the two and still not decided. And tonight there is a third thing with them, which is that under this stone the sentences start, and I heard them start one landing up, and the stone is warmer where the sentences are nearer, and I am saying that with them, and I am not saying what it means.”
+
+She went down in the dark with her left hand on the stone and said each landing out loud where it was used, and she did not hurry it, because the sentences were still going on above her and there was no hurry in the building tonight. She sat beside the lamp, and the light went six paces out from where it stood and stopped, and she put her hands where the light was and looked at them to be sure they were still hers.
 
 There was a lamp burning on the stone of the third landing, and sentences starting somewhere above the eleventh landing, one at a time, plain, reporting, too far to hear as words.
 

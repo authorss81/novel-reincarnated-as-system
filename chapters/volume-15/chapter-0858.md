@@ -12,11 +12,11 @@ She said, “Figures first and the reason after. Ninety-nine days since the nint
 
 She said, “And here is the reason. Two days ago a man told me his name through a wall and I did the arithmetic in my mouth and came back up, and I have had two days to sit beside a lamp with it, and what I have got is that I know how many steps he walks and I do not know what he walks them for.”
 
-She said, “And it is shame, and I am naming it before I argue with it, because I do that.”
+She said, “And it is shame, and I have not had it out loud in nineteen years, and I am having it out loud now, before I ask him what he is paid in, because that is the order I do things in.”
 
 She said, “I have been read to since I was seven years old by a layer I never asked the maker of, and I have stood at a table for nineteen years putting figures into hands I never asked the owner of, and the shame is not that I did not know. The shame is that it never once felt like not knowing.”
 
-She said, “And what I want is to find out what a man does for four hundred years on nine hundred and four steps. That is the want and there is nothing else under it.”
+She said, “And what I want is to find out what a man does for four hundred years on nine hundred and four steps. That is the want and it stands on its own, with nothing underneath it holding it up.”
 
 She picked up the lamp and went down the stair in its light to the first landing, and she counted the landings and not the steps, and she said so out loud where it was used.
 

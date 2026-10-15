@@ -14,13 +14,13 @@ She said, “And here is the reason. I have been in three rooms above mine and t
 
 She said, “And for four hundred years no person has climbed past them, and I have climbed past nine landings twice, and both times I stopped where I could not see the end of a landing, and neither time did I find out whether there is anything above the cells.”
 
-She said, “It is doubt, and I am naming it before I argue with it, because I do that.”
+She said, “It is doubt, and it is doing the same work grief did four days ago, and I am calling it by its own name before I argue with it, because I have learned what happens when I do not.”
 
 She said, “Not doubt of the stair. The stair is there and it goes up and my hand has been on it. Doubt of whether going up it a third time is work or habit. Twice I have gone up and twice I have come back down with four feet of nothing and a sentence about nine. A third time has to find out something or stop being work.”
 
-She said, “And what I want is to know whether anything is above the cells. That is the want and there is nothing else under it.”
+She said, “And what I want is to know whether anything is above the cells. That is the whole of the want. There is not a second thing in it.”
 
-She left the lamp burning on the third landing and went up in the dark with nothing in either hand, past the fourth landing, past the fifth, with her left hand on the stone, and she counted the landings and said them where they were used.
+She got up off the third landing where she had been sitting since the light, and went up past the fourth and the fifth in the dark with her left hand on the stone and nothing in the other, saying each landing out loud where it was used, and she noticed saying them and did it in one breath, the way she has done it every morning of this stair.
 
 ## The Landing With No Doorway
 
@@ -40,7 +40,7 @@ She said, out loud, standing, in the ordinary voice, “There is no doorway here
 
 She said, “And I want the whole of that said, because it is the first landing in this building that has not had one. One, two and three have rooms and I have been in all three. Six has a room and I have been in it. Four, five, seven and eight have doorways I have not gone through. Nine has the stair going up out of it. This one has nothing, and I have felt every hand of it twice.”
 
-She sat down on the stone of that landing with her back against the wall, and she put her left hand flat on the floor, and the floor was warmer there than it had been on any landing below it, the way the stone of the ninth landing had been warmer on the side the stair went up eleven days before.
+She sat down on the stone of that landing with her back against the wall, and she put her left hand flat on the floor, and the floor was warmer there than it had been on any landing below it, the way the stone of the ninth landing had been warmer on the side the stair went up thirty-one days before.
 
 She said, “And it is warmer. I noticed it with the flat of my hand, and it is warmer, and the rest of this building has been the same cold for five hundred and thirty-eight days, and I am saying it out loud because the things I notice and do not say are the ones that cost.”
 
@@ -60,8 +60,6 @@ She said, “And here is the whole of what I know about it, and it is short. No 
 
 She said, “And it is hope. And I am naming it because it is the first hope in this building since I came up it, and it is small, and I am not going to make it bigger than it is. Something is up there and it is not another table with forty boards under it, and I have spent nineteen days climbing to find out exactly that.”
 
-She went back down in the dark to the third landing, slow, with her left hand on the stone, and she sat beside the lamp, and the light went six paces out from where it stood and stopped, and she stayed inside the reach of it until her breath went four counts standing still.
-
 ## What She Does Not Bring Up
 
 She sat on the tenth landing for a long time after that, with her back against the wall that had no doorway in it, and she thought about going back down for the lamp, and she said the thinking out loud, because thinking said afterwards is thinking made up.
@@ -72,11 +70,13 @@ She said, “And here is why I am not doing it. A lamp in a hand is light on abo
 
 She said, “And there is more, said plain. If I bring it up and set it here, then this landing has a mark on it, and a mark is a promise to come back to, and I am not promising this landing anything. I found it today and I am leaving it the way I found it, with nothing on it, and that is not neglect, and I have worked out that it is not the same, and it is better, because neglect is forgetting and this is remembering on purpose.”
 
-She put her left hand flat on the warmer stone and felt along it for about the length of two paces, the way she had felt along the ninth landing’s stair eleven days before, and the warmth was there, steady, a little more than the stone of the landing under it, and she said so out loud.
+She put her left hand flat on the warmer stone and felt along it for about the length of two paces, the way she had felt along the ninth landing’s stair thirty-one days before, and the warmth was there, steady, a little more than the stone of the landing under it, and she said so out loud.
 
 She said, “Warmer going up. Two paces of it by hand. And I do not know what it means and I am not going to find out tonight.”
 
-She said, “And it is patience. And I am naming it because I have not had it once in twenty days of climbing, and it is small, and I am not going to make it bigger than it is. Something is above the cells and it is not a room like the others, and it will still be there tomorrow, and I am going back down to a lamp that is still burning, and both of those are true, and neither of them is going anywhere.”
+She said, “And patience. I have not had it once in twenty days of climbing and I have not noticed until this landing, which is itself a kind of finding. I am not going to make anything of it either way. Something is above the cells and it is not a room like the others, and it will still be there tomorrow, and I am going back down to a lamp that is still burning, and both of those are true, and neither of them is going anywhere.”
+
+She went back down in the dark to the third landing, slow, with her left hand on the stone, and she sat beside the lamp, and the light went six paces out from where it stood and stopped, and she put her hand flat on the warmer stone of the third to bring the last of that day down with her.
 
 There was a lamp burning on the stone of the third landing, and a landing above the ninth with no doorway in it and warmer stone under her hand, and something in the stone above that landing that was steady and too far to hear.
 

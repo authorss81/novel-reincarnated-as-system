@@ -12,11 +12,11 @@ She said, “Figures first and the reason after. One hundred and twenty-six days
 
 She said, “And here is the reason. For three days his half has been open inside me where I can hear it, and there is a great deal in it, fifteen years of asking and listening, and I have been sitting beside a lamp being glad and being naked and being loving, and none of those is a use. This morning I am going to find one thing in it I can use.”
 
-She said, “It is practicality, and I am naming it before I argue with it, because I do that.”
+She said, “It is practicality, and it is the first word this morning that is not a temperature, and I am saying it before I argue with it, because that is what I do and I have not found a reason to stop.”
 
 She said, “Not coldness. I have been cold on this stair for twenty-seven days and I know its shape. Practicality is what I had every morning for nineteen years standing four feet off a table, and I have not had it once since I came up here, and I miss it, and I am saying so out loud because it would be dishonest not to.”
 
-She said, “And what I want is one thing he was right about that I can put my hand on. That is the want and there is nothing else under it.”
+She said, “And what I want is one thing he was right about that I can put my hand on. That is the want, and there is nothing underneath it I have not already said out loud.”
 
 She stayed beside the lamp through the morning, sitting with her back against the wall, and she listened into his half the way she used to run her thumb along a board to find writing, slow, twice over, for the thing that was not straight.
 
@@ -34,7 +34,7 @@ He had said, “It goes on without you standing under it.”
 
 She sat beside the lamp with that in her for about a count of a hundred and forty, and then she said it out loud, sitting, in the ordinary voice.
 
-She said, “Say it again where I can hold it.”
+She said, “Say that one again, and let me keep it.”
 
 He said, “It goes on without you standing under it.”
 
@@ -68,7 +68,7 @@ She said, “Here is another. On the thirteenth you said I keep going up because
 
 She said, “And here is the one I can use, set beside them. On the first of this volume you said it goes on without me standing under it, and I was nine landings above that table with my ear on stone, and I found it out the slow way, and nobody in that room heard one board go down. That one I can use, because there are more firsts coming, and I know now where to be standing for them.”
 
-She said, “And it is exactness. And I am naming it because it is the first exactness on this stair since the figures, and it is small, and I am not going to make it bigger than it is. Three lines sifted, two already paid for, one useful, and the useful one is the one about the first, and I am going to be on the twelfth landing at the second hour of every first that comes, lying flat with my ear on the stone, hearing through him.”
+She said, “And exactness, which I have not had since the figures, and which is not a small thing to have back on a stair in the dark. Three lines sifted, two already paid for, one useful, and the useful one is the one about the first, and I am going to be on the twelfth landing at the second hour of every first that comes, lying flat with my ear on the stone, hearing through him.”
 
 ## The Intervals
 

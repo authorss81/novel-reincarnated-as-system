@@ -3146,7 +3146,6 @@ the wall · the fourth sentence on the second leaf of the book · `Ledger` 0 · 
 3. **The record has six terms and there is no seventh, and a document agreed to in daylight cannot be added to either.**
    **Batch 0003 may not let her ask for a seventh term, soften the six, or take the agreement back.** It may not thank him.
 
-
 ## VOLUME 12 BATCH 0002 — REVIEW REPAIR, and what it changed in this file
 
 `logs/volume-12-batch-0002.review.log` raised six hard errors and two false claims in `state/continuity.md`. **All are cleared
@@ -4034,9 +4033,22 @@ far side of it, found that the refusal she had lived behind for a month was not 
 purpose from nine landings up, went past the ninth landing, and walked out of the only room she has had since she was
 nine years old with a lamp in her left hand and did not come back down.**
 
+### Four things Batch 0002 must not inherit as clean prose
+
+1. **That the light is nearly out, or any figure of how long it lasts.** There is none on the page and none may be
+   invented. His count is his and hers is hers and neither is converted into the other.
+2. **That the stair above the room has a step count, a height, a top, or a number of rooms in it.** It has none of
+   those on the page. She counts landings; the landings are nine and then it keeps going.
+3. **That the cells are explained.** They are not. A table, forty boards with a second number on the top one, a bundle,
+   a lamp out, and a kept place that nobody has ever sat in. Nothing says what any of it is for, and the chapter that
+   would say it is ch 878.
+4. **That she is coming back down.** She said out loud at ch 855 that she was never going to stand four feet off the
+   near end of that table again, and she took a lamp and her own arithmetic and nothing else, and the strip of pale
+   wood is still under that table.
+
 ## VOLUME 15 BATCH 0002 CLOSED at ch 870 — the threads this batch moved, opened, or closed
 
-**Fifteen chapters, days 2,826–2,870, 27,020 words, one bracketed line at ch 866, one irreversible step at ch 866. Recorded 15 Oct 2026 by the drafting phase.**
+**Fifteen chapters, days 2,826–2,870, 27,483 words, one bracketed line at ch 866, one irreversible step at ch 866. Recorded 15 Oct 2026 by the drafting phase and repaired at review the same day; the thread table below is unchanged by that repair.**
 
 | Thread | State at ch 855 | State at ch 870 | Owner in Batch 0003 |
 | --- | --- | --- | --- |
@@ -4063,16 +4075,3 @@ nine years old with a lamp in her left hand and did not come back down.**
 2. **That he is forgiven, thanked, or withdrawn from.** None of those happened; she stays, unwanting back what she said.
 3. **That the tax, the Anchor, the walls, or the bargain have been stated.** None is on the page; Batch 0003 opens all of that.
 4. **That hearing his half is free, or that the room needs her.** The hearing is paid for and cannot be un-paid; the room runs on firsts with nobody in it.
-
-### Four things Batch 0002 must not inherit as clean prose
-
-1. **That the light is nearly out, or any figure of how long it lasts.** There is none on the page and none may be
-   invented. His count is his and hers is hers and neither is converted into the other.
-2. **That the stair above the room has a step count, a height, a top, or a number of rooms in it.** It has none of
-   those on the page. She counts landings; the landings are nine and then it keeps going.
-3. **That the cells are explained.** They are not. A table, forty boards with a second number on the top one, a bundle,
-   a lamp out, and a kept place that nobody has ever sat in. Nothing says what any of it is for, and the chapter that
-   would say it is ch 878.
-4. **That she is coming back down.** She said out loud at ch 855 that she was never going to stand four feet off the
-   near end of that table again, and she took a lamp and her own arithmetic and nothing else, and the strip of pale
-   wood is still under that table.

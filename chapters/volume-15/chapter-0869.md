@@ -12,7 +12,7 @@ She said, out loud, lying, in the ordinary voice, “Figures first and the reaso
 
 She said, “And here is the reason. It is the first of the month, and at about the second hour forty boards go on that table at the bottom of this building, and I am on the twelfth landing with my ear on the stone, and I am not going down for it, and I am going to hear it through him, because he hears the layer and I hear his half.”
 
-She said, “It is coldness, and I am naming it before I argue with it, because I do that.”
+She said, “It is coldness, and it is the first of these I have had that is at a room and not at a stone, and I am saying it out loud before I lie down and listen to it run without me.”
 
 She said, “Not the cold in the stone. That has been here thirty-one days and I know its shape. Coldness in me toward a room I stood in for nineteen years, and it is the first coldness toward it, and I am saying so out loud because it would be dishonest not to. I am lying above it to hear it secondhand, and secondhand is colder than missing it, and I chose it.”
 
@@ -48,11 +48,9 @@ She said, “The cage lamp stood out on the shelf. The bar stood against the wal
 
 She said, “And I heard it lying on stone nine landings above it, secondhand, through a person inside my head, and that is colder than missing it from the ninth with my ear on a wall, and I chose it, and I am saying so out loud.”
 
-## The Cost
-
 ## The Hour Before
 
-She had waited through the hour before it on the twelfth landing, lying flat with her ear on the stone, and the waiting had been work, and she said so out loud afterwards, sitting beside the lamp, because work unsaid is work that is going to be asked for twice.
+She had waited through the hour before it on the twelfth landing, lying flat with her ear on the stone, and the waiting had been work, and she said so out loud afterwards, once she was down out of the light, because work unsaid is work that is going to be asked for twice.
 
 She said, “Here is what the hour before took. Cold through the floor into my front, and my breath nine counts lying still, and my arm open at the elbow five hundred and seventy days, shaking twice, and lying still until it stopped twice, and not moving, because moving would have meant missing the start, and the start was the whole of why I was there.”
 
@@ -60,9 +58,11 @@ She said, “And here is what went through me while I waited. The sentences at t
 
 She said, “And it is endurance. And I am naming it because it is the first endurance on this stair that was not climbing, and it is small, and I am not going to make it bigger than it is. One hour flat on stone, cold, shaking twice, still, for forty boards I did not hear with my own ears.”
 
-She went back down in the dark to the third landing, slow, with her left hand on the stone, and she sat beside the lamp, and the light went six paces out from where it stood and stopped, and she stayed inside the reach of it until her breath went four counts sitting still.
+## The Cost
 
-She said, out loud, sitting, in the ordinary voice, “Here is the cost, and I am saying it before it is paid, because a price said afterwards is a thing you have made up.”
+She came down in the dark, nine landings, with her left hand on the stone the whole way, and the cold went out of her arm somewhere around the fourth and did not come back. She sat beside the lamp, and the light went six paces out from where it stood and stopped, and she stayed inside the reach of it until her breath went four counts sitting still.
+
+She said, out loud, sitting, in the ordinary voice, “Here is what the day cost, and I am saying it sitting down beside the lamp instead of saying it afterwards, because afterwards is where I make things up.”
 
 She said, “That room does not need me. It never needed me. I stood four feet off the near end of that table for nineteen years saying figures into it, and every one of them went somewhere, and this morning forty boards went on it with no person standing under them, and a hand went along them, and it went on.”
 

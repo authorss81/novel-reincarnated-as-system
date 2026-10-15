@@ -9,7 +9,6 @@ each original heading so a search still finds them here. **Nothing was deleted.*
 section in this run's state files to where it now lives. **Read the archive by chapter number when a beat has to
 land on something that happened a long time ago, and do not re-derive an archived figure.**
 
-
 **Ch 421–478 (Volume 8, *Recruited*, PLANNED AND NOT YET DRAFTED).** An arrival, then a building with more lamps in it than anything she has stood in, and a woman of sixty-one who is right about nine things out of ten offering a trade that is genuinely good. She is the strongest person in every room for the first time and it turns out to be a qualification. The ch 401 answer is quoted back to him by a stranger with no name at all. He starts putting listings where other people's hands already are, she catches it on the two-column floor sheet she built at ch 420, and she makes him stop. He gives her the bill, in a number, once. She reads a fine hand in a room because four people cannot and it goes on a roll, which is how she finds out that her ch 417 refusal was the evidence that brought the Order to her door. She refuses the Order on the record, the Order stops reading her, and at the last page nothing on nine days of road wants anything from her at all — and she waits anyway.
 ## Volume 1 — A Voice in the Dark (ch 1–58)
 
@@ -523,9 +522,16 @@ out loud with no figure in it, and one thing in it that is not in the plan** · 
 stair for the first time in nineteen years, and a woman walking out of the only room she has had since she was nine
 years old with a lamp in her hand, and not coming back down.**
 
-## VOLUME 15 BATCH 0002 — ch 856–870, *the address*, days 2,826–2,870. WRITTEN
+### State of the manuscript at the close of this batch
 
-**Fifteen chapters, 27,020 words of body prose on method B, average 1,801** — per chapter 856 1,679 · 857 1,895 · 858 1,695 · 859 1,694 · 860 1,780 · 861 1,804 · 862 1,712 · 863 1,803 · 864 1,819 · 865 1,897 · 866 1,775 · 867 1,865 · 868 1,923 · 869 1,836 · 870 1,843. **ONE bracketed layer line in fifteen, at ch 866.** Midpoint ch 863, climax ch 870, irreversible step ch 866.
+Volume 15 Batch 0001 is on the page at ch 841–855. **Volume 14, ch 781–840, remains closed on the page at 121,530
+words.** Volume 15 stands at fifteen chapters of sixty. **The next phase is
+`workspace/volume-15-batch-0002/PROMPT.md`, ch 856–870, days 2,826–2,870, pressure *the address*, midpoint ch 863 and
+the irreversible step at ch 866.**
+
+## VOLUME 15 BATCH 0002 — ch 856–870, *the address*, days 2,826–2,870. WRITTEN AND REPAIRED AT REVIEW
+
+**Fifteen chapters, 27,483 words of body prose on method B, average 1,832** — per chapter 856 1,679 · 857 1,907 · 858 1,724 · 859 1,711 · 860 1,844 · 861 1,863 · 862 1,766 · 863 1,824 · 864 1,892 · 865 1,933 · 866 1,775 · 867 1,860 · 868 1,943 · 869 1,883 · 870 1,879. **ONE bracketed layer line in fifteen, at ch 866.** Midpoint ch 863, climax ch 870, irreversible step ch 866.
 
 - **ch 856, day 2,826, the twenty-third. THE UNCARRIED LIGHT.** Up in the morning with the lamp as far as the second landing and the figures said where they are used. Anger at the lamp named first. A lamp is four feet of world, not light. Decision standing: leaves it burning on the third landing and goes up in the dark with nothing in either hand. Cost paid before anything found: everything behind the light unmarked.
 - **ch 857, day 2,829, the twenty-sixth. A NAME ON THE STAIR.** Boots below where none belong. First speech to any person in the building who is not the boy, through the gap, without entering the room. **Asks his name and he says Han Liang**, said back to fix it. Arithmetic in the mouth: nine hundred and four up and down is one thousand eight hundred and eight steps every carrying. Glad next to grief, neither moving the other.
@@ -548,10 +554,3 @@ years old with a lamp in her hand, and not coming back down.**
 ### State of the manuscript at the close of this batch
 
 Volume 15 Batch 0002 is on the page at ch 856–870. **Volume 14, ch 781–840, remains closed on the page at 121,530 words.** Volume 15 stands at thirty chapters of sixty. **The next phase is `workspace/volume-15-batch-0003/PROMPT.md`, ch 871–885, days 2,871–2,915, pressure *the ceiling*, midpoint ch 878 and the irreversible step at ch 885.**
-
-### State of the manuscript at the close of this batch
-
-Volume 15 Batch 0001 is on the page at ch 841–855. **Volume 14, ch 781–840, remains closed on the page at 121,530
-words.** Volume 15 stands at fifteen chapters of sixty. **The next phase is
-`workspace/volume-15-batch-0002/PROMPT.md`, ch 856–870, days 2,826–2,870, pressure *the address*, midpoint ch 863 and
-the irreversible step at ch 866.**

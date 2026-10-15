@@ -80,7 +80,7 @@ She said, “And it is evenness. And I am naming it because it is the first even
 
 She went back down past the eleventh, past the tenth with no doorway, past the ninth, and she did not say one of them, and halfway down the ninth flight she stopped, because there was a discipline unkept behind her like a lamp left burning, and she said so out loud, standing in the dark.
 
-She said, “I have not said the landings. Twenty-four days of saying them where they are used, and tonight I have come up and I am going down and I have said none of them.”
+She said, “I have not said the landings. Twenty-six days of saying them where they are used, and tonight I have come up and I am going down and I have said none of them.”
 
 She said, “And here is why, said plain. I came up to stop a decision and the decision was made before I stood up. There was no room in the going for counting, because all of me was in the going, and there is no room in the going back either, because his half goes on inside me where I can hear it, and hearing it takes the whole of me.”
 

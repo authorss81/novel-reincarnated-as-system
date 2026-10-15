@@ -12,11 +12,11 @@ She said, “Figures first and the reason after. One hundred and twenty-three da
 
 She said, “And here is the reason. Three days ago he chose to be heard, and I said the price out loud, and since then there has been no room in my head that is his alone. His half goes on inside me where I can hear it, and the sentences go through me to him, one at a time, and I am going to spend this morning hearing what fifteen years of him sounds like from the inside.”
 
-She said, “It is nakedness, and I am naming it before I argue with it, because I do that.”
+She said, “It is nakedness, and it is not mine and it is not his, so I am saying it out loud before the morning starts, because the morning is going to be worse without it said.”
 
 She said, “Not his and not mine. Ours. I have said figures out loud into tables for nineteen years with him beside me in my head, and I thought the beside was private, and it was never private, and now it is heard, and being heard with no cover on is nakedness, and it is both of us.”
 
-She said, “And what I want is to hear him the way he has always heard me. That is the want and there is nothing else under it, and it is the first time I have wanted anything so plain, and I am saying so out loud because it would be dishonest not to.”
+She said, “And what I want is to hear him the way he has always heard me. It is the first time I have wanted anything so plain, and I am saying so out loud because it would be dishonest not to, and there is nothing else in the wanting.”
 
 She stayed beside the lamp on the third landing through the morning, sitting with her back against the wall and her right arm open across her knees, and she listened the way she had never listened, with nothing to do and nowhere to go.
 
@@ -52,8 +52,6 @@ She said, “And here is the whole of what that does to fifteen years, said plai
 
 She said, “And it is love. And I am naming it because it is the first love on this stair, and it is small, and I am not going to make it bigger than it is, and it sits next to the terror and neither of them moves the other. Fifteen years of a person asking in my head where I could not hear him, and I carried him anyway.”
 
-## The Morning’s End
-
 ## Two Old Sentences, Heard New
 
 In the middle of the morning his half turned, the way a column turns when it goes back to an old line, and two sentences came up out of it that she had heard before, both in the present tense, both unanswered at the time, and she heard them now from the inside, where they had always been.
@@ -86,7 +84,9 @@ He said, “You tend.”
 
 She said, “I do. And here is the whole of that, said plain. I tend a lamp I cannot refill on a landing I am leaving every night, and I tend a person I cannot keep private in a head I cannot leave, and both of them burn whether I am beside them or not, and I have never before kept anything that kept without me.”
 
-She said, “And it is strangeness. And I am naming it because it is the first strangeness in nineteen years that is not frightening, and it is small, and I am not going to make it bigger than it is. Two things burning beside me that go on without me, a lamp and a person, and I tend both, and both outlast the tending.”
+She said, “And strangeness, and not the frightening kind, which after nineteen years is a kind I had forgotten was available. Two things burning beside me that go on without me, a lamp and a person, and I tend both, and both outlast the tending.”
+
+## The Morning’s End
 
 She spent the morning beside the lamp hearing him, and at about the eleventh hour the sentences stopped for a space, the way they stop between speakings, and his half went quiet inside her, the way he goes quiet, and she sat with the quiet the way she had sat with his silence for fifteen volumes, except that now she knew what the silence was made of.
 

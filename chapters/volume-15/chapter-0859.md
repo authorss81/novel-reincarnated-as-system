@@ -20,11 +20,11 @@ She said, “And that is a landing and not a stage, and there is nothing cut in 
 
 She went on up, and the sixth was the same as the fifth, and the seventh was the same as the sixth, and on the seventh she sat down with her back against the wall and stayed there for about a count of a hundred and forty.
 
-She said, “It is sorrow, and I am naming it before I argue with it, because I do that.”
+She said, “It is sorrow, and I am not going to argue with it, because I know what arguing with it costs and it costs an hour and a lamp.”
 
 She said, “It is not the cold and it is not the slowness. It is that every landing is the same landing, and I have been climbing sameness for eight days, and sameness is worse than height, because height ends and sameness does not.”
 
-She said, “And what I want is one landing that is not like the last one. That is the want and there is nothing else under it, and I know I am not going to get it, and I want it anyway.”
+She said, “And what I want is one landing that is not like the last one. I know I am not going to get it. I want it anyway, and there is nothing else under the wanting.”
 
 ## What Tomorrow Is
 
@@ -48,7 +48,7 @@ She said, “And that is the second first I have missed on purpose. The first on
 
 ## The Price of Not Going
 
-She went back down in the dark to the third landing, slow, with her left hand on the stone, and she sat beside the lamp, and the light went six paces out from where it stood and stopped, and she put her hands where the light was and looked at them.
+She went down in the dark with her left hand on the stone, and it took her longer than the way up had, and she sat beside the lamp, and the light went six paces out from where it stood and stopped, and she put her hands where the light was and looked at them.
 
 She said, out loud, sitting, in the ordinary voice, “Here is the price, and I am saying it before it is paid, because a price said afterwards is a thing you have made up.”
 
@@ -68,7 +68,7 @@ She went up one more landing in the dark after that, to be sure the decision wou
 
 She said, out loud, standing, in the ordinary voice, “There it is again.”
 
-She said, “I have done that on every turning since the thirteenth. My hand goes out for a wall on the right and there is nothing there, and I take it back, and I go on. Eleven days of it and I have said it twice.”
+She said, “I have done that on every turning since the first night I went up past the light. My hand goes out for a wall on the right and there is nothing there, and I take it back, and I go on. Seven days of it and I have said it twice.”
 
 She said, “And here is what it is, said plain. I have walked along a wall for nineteen years with my left hand on it and never needed the other side, and now I am on a stair with one side missing, and my hand keeps checking the missing side, as though a wall I never had could have gone somewhere.”
 

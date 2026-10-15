@@ -12,17 +12,17 @@ She said, “Figures first and the reason after. One hundred and seventeen days 
 
 She said, “And here is the reason. Three days ago I stood on the twelfth landing and said its word out loud and it did not object. It goes on speaking to him through me, one sentence at a time, in the plain report grammar, and he goes on listening. I have refused twice in this trade and both refusals stand, and I am going up tonight to find out whether there is a third one in me, for him.”
 
-She said, “It is tenderness, and I am naming it before I argue with it, because I do that.”
+She said, “It is tenderness, and I have not used that word at a table in nineteen years, and I am saying it before I go up and try to refuse a thing on somebody else’s behalf.”
 
 She said, “Not wrath and not resolve. Under both of them there is tenderness toward a person I have carried for fifteen volumes, and it is the first tenderness on this stair, and it is small, and I am not going to make it bigger than it is, and it is going to be the reason if I do what I am going up to do.”
 
-She said, “And what I want is to refuse it on his behalf. That is the want and there is nothing else under it, and I know it is somebody else’s to refuse, and I want it anyway.”
+She said, “And what I want is to refuse it on his behalf. I know it is somebody else’s to refuse. I want it anyway, and nothing is under the wanting but that.”
 
-She left the lamp burning on the third landing and went up in the dark with nothing in either hand, past the fourth landing, past the fifth, past the sixth, with her left hand on the stone, and she counted the landings and said them where they were used, and her breath went seven counts on every rise.
+She left the lamp burning on the third landing and went up past it in the dark with nothing in either hand, and she said each landing out loud as she came to it, because there was nothing else on the stair to hold and the counting was the only discipline she had left.
 
 ## The Attempt
 
-She went past the seventh, past the eighth, past the ninth, past the tenth with no doorway in it, past the eleventh, to the twelfth, and she stood on it in the dark with nothing in either hand, and the sentences were there, one at a time, plain, reporting, going through her to him.
+She went up to the twelfth the way she had gone up every morning of this stair, naming the landings as she used them, and she stood on it in the dark with nothing in either hand, and the sentences were there, one at a time, plain, reporting, going through her to him, and she had come up to refuse them.
 
 She listened for about a count of a hundred and forty, standing, to be sure of the grammar, and then she said it out loud, standing, in the ordinary voice, the way she had said every refusal she had ever made.
 
@@ -50,7 +50,7 @@ She said, “I have no standing. It is not addressed to me and it has not asked 
 
 She said, “And I have no instrument. The instrument in my head is also him, and he is the one being spoken to, and there is no second instrument for me to answer on. Everything I say here goes out into the dark off a landing, and everything it says goes through me whether I speak or not.”
 
-She said, “And it is grief. And I am naming it because it is the grief from the sixth landing with the forty under it, come back higher up, and it is worse the way I said it would be. I am the wire and not the voice, and the wire does not get to refuse for the voice, and I have spent fifteen volumes being the one who decides everything, and here I decide nothing.”
+She said, “And it is grief again, the grief from the sixth landing with the forty under it, come back higher up, and it is worse the way I said it would be. I am the wire and not the voice, and the wire does not get to refuse for the voice, and I have spent fifteen volumes being the one who decides everything, and here I decide nothing.”
 
 She said, “And what I want now is not what I wanted this morning. This morning I wanted to refuse for him. Now I want him to refuse for himself, if refusing is what he wants, and I want him to know that I stood here and found out I could not do it for him, and I am saying that out loud so that it is said.”
 
@@ -84,7 +84,7 @@ He went on listening inside her, and whether he heard the telling she did not kn
 
 She said, out loud, on the sixth landing, standing in the dark, “Sixth. And that is a landing and not a stage. And I am saying it because the discipline holds whether the night holds or not, and tonight the night does not hold and the discipline does.”
 
-She went back down in the dark to the third landing, slow, with her left hand on the stone, past the eleventh, past the tenth with no doorway, past the ninth, and she said each one where it was used, and she sat beside the lamp, and the light went six paces out from where it stood and stopped, and she stayed inside the reach of it until her arm stopped shaking.
+She came the rest of the way down in the dark with her left hand on the stone and nothing in the other, and she did not stop on any of the landings under the sixth, because a thing said once on a stair is said, and saying it twice is how a rule turns into a habit, and she has not got the discipline for a habit. She sat beside the lamp, and the light went six paces out from where it stood and stopped, and she stayed inside the reach of it until her arm stopped shaking.
 
 There was a lamp burning on the stone of the third landing, and sentences going through a woman on the twelfth landing to a person inside her head, one at a time, plain, reporting, and a refusal said standing that had changed nothing.
 

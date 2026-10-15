@@ -16,13 +16,13 @@ She said, “It is unwillingness, and I am naming it before I argue with it, bec
 
 She said, “Not anger and not grief and not terror. Those I have had on this stair and I know their shapes. Unwillingness to say the last thing, because the last thing cannot be unsaid, and everything I have said on this stair has held, and this one will hold further than any of them.”
 
-She said, “And what I want is to decide what I think of what he has done. That is the want and there is nothing else under it, and it is the hardest want I have had on this stair, because thinking it finishes nothing and saying it finishes everything.”
+She said, “And what I want is to decide what I think of what he has done. It is the hardest want I have had on this stair, because thinking it finishes nothing and saying it finishes everything. Nothing else is under it.”
 
-She left the lamp burning on the third landing and went up in the dark with nothing in either hand, past the fourth landing, past the fifth, past the sixth, with her left hand on the stone, and she counted the landings and said them where they were used, and her breath went seven counts on every rise.
+She left the lamp burning on the third landing and went up past it in the dark with nothing in either hand, saying the landings as she went the way she had said them every morning, and she went slower than she had gone on any morning of this stair, and she did not find out why until she was most of the way up it.
 
 ## Good
 
-She went past the seventh, past the eighth, past the ninth, past the tenth with no doorway in it, past the eleventh, to the twelfth, and she stood on it in the dark with nothing in either hand, and the sentences were there, one at a time, plain, reporting, going through her to him, and he was listening.
+She went on up with the count in her mouth, and she came onto the twelfth, and the sentences were already going on there, one at a time, plain, reporting, going through her to him, and he was listening, and she stood on it in the dark with nothing in either hand and six days of a want in her.
 
 She stood there for about a count of a hundred and forty, and then she said it out loud, standing, in the ordinary voice, the word she has used for six volumes, in the sense she has always used it, which means it costs the person who is not in the room.
 
@@ -62,9 +62,9 @@ She said, “And here is the cost, once more, so that it is whole. No room in my
 
 She said, “And here is the weighing, said plain. The good is his and the cost is mine, and I am the one saying so, and I say the good outweighs, and I am not asking him to agree, and he has not asked me to say it, and that is the whole of it.”
 
-She said, “And it is solemnity. And I am naming it because it is the first solemnity on this stair, and it is large, and I am not going to make it smaller than it is. A thing wanted for him that costs me, said where it can be heard, where it cannot be got back, standing, in the ordinary voice, with nothing in either hand.”
+She said, “And solemnity, and it is large, and I am not going to make it smaller than it is, because the only way it gets smaller from here is if I take one of the two halves of it back. A thing wanted for him that costs me, said where it can be heard, where it cannot be got back, standing, in the ordinary voice, with nothing in either hand.”
 
-She went back down in the dark to the third landing, slow, with her left hand on the stone, past the eleventh, past the tenth with no doorway, past the ninth, and she said each one where it was used, and she sat beside the lamp, and the light went six paces out from where it stood and stopped.
+She came down in the dark with her left hand on the stone, past the eleventh, past the tenth with no doorway, past the ninth, saying each one where it was used, and she took longer over the ninth than the rest of them put together, because the want was still in her and saying landings is what she does with a want she cannot put down anywhere else. She sat beside the lamp, and the light went six paces out from where it stood and stopped.
 
 ## The Lamp Still Burning
 

@@ -22,7 +22,7 @@ And a voice came up out of the dark below her, an old voice, rough with the cold
 
 She stood on the second landing with the lamp in her hand and did not move for about a count of ninety.
 
-She said, “It is grief, and I am naming it before I argue with it, because I do that.”
+She said, “It is grief, and it came up under me before anything was said, and I am putting it down in front of the figures where I can see it.”
 
 She said, “I have been in this building five hundred and twenty-eight days and there has been a man on a stair under me the whole of it, and I have never once spoken to a person in this building who was not that boy, and I did not know until this morning that there was anybody to speak to.”
 

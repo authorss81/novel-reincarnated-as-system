@@ -12,17 +12,17 @@ She said, “Figures first and the reason after. One hundred and eleven days sin
 
 She said, “And here is the reason. Two days ago I lay on the eleventh landing and heard sentences starting, one at a time, plain, reporting, too far to hear as words. I have had two days beside a lamp to decide what to do about that, and what I have got is that there is one thing in my head that hears such sentences, and it is also a person, and I have not spoken to him since the seventh of the month beginning two thousand seven hundred and seventy-four.”
 
-She said, “It is dread, and I am naming it before I argue with it, because I do that.”
+She said, “It is dread. I have said a feeling out loud before I argue with it since I was nine years old, and dread is the name of this one, and I am saying it here, on the landing where I am going to find out.”
 
 She said, “Not fear of the top. I have had that eighteen days and I know its shape. Dread of finding out that the instrument in my head is also somebody’s ear, and that somebody has been speaking into it all along, and that I have been the wall the sentences come through.”
 
-She said, “And what I want is to find out what that is. That is the want and there is nothing else under it, and it is the oldest want I have got, because I have been reading the incoming end of that layer since I was seven years old and I have never once asked where the sentences are made.”
+She said, “And what I want is to find out what that is. It is the oldest want I have got, because I have been reading the incoming end of that layer since I was seven years old and I have never once asked where the sentences are made. That want has been in me since I was seven and it has never once come with anything attached to it.”
 
-She left the lamp burning on the third landing and went up in the dark with nothing in either hand, past the fourth landing, past the fifth, past the sixth, with her left hand on the stone, and she counted the landings and said them where they were used.
+She left the lamp burning on the third landing where it had been standing since the twenty-third, and went up past it in the dark with nothing in either hand, counting as she went, fourth, fifth, sixth, and saying each one where it was used, because going up to find out where the sentences are made is not the kind of going up a person does without a count.
 
 ## Up to the Eleventh
 
-She went past the seventh, past the eighth, past the ninth, past the tenth with no doorway in it, and she said each one out loud, standing, in the ordinary voice, and each one was a landing and not a stage, and there was nothing cut in her ribs about any of them.
+She went on up, past the seventh, past the eighth, past the ninth, past the tenth with no doorway in it, saying each one where it was used, and none of them was a stage, and nothing cut in her ribs about any of them.
 
 She came to the eleventh landing and lay flat on the stone and put her ear against it, and the sentences were there, nearer than they had been, one at a time, plain, reporting, and still too far to hear as words.
 
@@ -88,7 +88,7 @@ She said, out loud, standing, in the ordinary voice, “Here is where I am in th
 
 She said, “And I have been that length for fifteen volumes without knowing it. Every announcement I ever read went through me to nobody I knew, and I called the far end nothing, and the far end was him, listening, the way he listened tonight, turned toward it like a person turns toward a voice speaking his name.”
 
-She said, “And it is bitterness. And I am naming it because it is the first bitterness in this building since I came up it, and it is small, and I am not going to make it bigger than it is. Fifteen years of sentences through me to a person in me, and I never once asked where they were made, and the reason I never asked is that the layer is not a thing anybody has a maker of, and I said that on the eighth of the month beginning two thousand seven hundred and seventy-four, and it was true, and it is still true, and it is also not the whole of it any more.”
+She said, “And bitterness, and I will leave it the size it is. Fifteen years of sentences through me to a person in me, and I never once asked where they were made, and the reason I never asked is that the layer is not a thing anybody has a maker of, and I said that on the eighth of the month beginning two thousand seven hundred and seventy-four, and it was true, and it is still true, and it is also not the whole of it any more.”
 
 She said, “A thing with no maker still has to be somewhere when it is made. I said that too, on the same day, and tonight I am lying on the stone under the somewhere, and the somewhere is above me, and the sentences start there, and they come down through me, and that is all I know, and it is enough for tonight.”
 

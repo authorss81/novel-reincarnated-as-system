@@ -12,13 +12,13 @@ She said, “Figures first and the reason after. One hundred and fourteen days s
 
 She said, “And here is the reason. Three days ago on the twelfth landing I heard somebody speaking to him through me, one sentence at a time, in the plain report grammar, four sentences, and he listened, and I stood between them like a wire. I came back down and I have had three days beside a lamp, and what I have got is that I know what I heard and I have never once said what it is.”
 
-She said, “It is resolve, and I am naming it before I argue with it, because I do that.”
+She said, “It is resolve, and it is under the wrath I had three days ago and it is not going to move it, and I am putting it in front of the figures because that is where it belongs.”
 
 She said, “Not wrath. I had wrath three days ago and it is still there and it has not moved. Under it there is resolve, and the resolve is that a thing I have carried for fifteen volumes without a name is going to get one, out loud, standing up, before I argue with it, because that is what I do.”
 
-She said, “And what I want is to say what I heard, all of it, standing, in the ordinary voice, and then to give it its word. That is the want and there is nothing else under it.”
+She said, “And what I want is to say what I heard, all of it, standing, in the ordinary voice, and then to give it its word. That is the whole of what I came up this stair with in my head, and there is not one other thing in it.”
 
-She left the lamp burning on the third landing and went up in the dark with nothing in either hand, past the fourth landing, past the fifth, past the sixth, with her left hand on the stone, and she counted the landings and said them where they were used.
+She left the lamp burning on the third landing and took nothing with her, not the lamp and not a board and not a hand kept free for the side that is not there, and went up in the dark with her left hand on the stone, past the fourth, past the fifth, past the sixth, saying each one out loud where it was used, and by the sixth her breath was going seven counts on the rise and she stopped on the landing until it went four again.
 
 ## Said Standing
 
@@ -58,7 +58,7 @@ She said, “And it is steadiness. And I am naming it because it is the first st
 
 ## What Does Not Change
 
-She stood on the ninth landing a while with the word said twice in her, and she listened up the stair for what would be different, the way she had listened for forty boards with her ear on stone, and there was nothing different to hear.
+She stood on the ninth landing a while with the word in her, and she listened up the stair for what would be different, the way she had listened for forty boards with her ear on stone, and there was nothing different to hear.
 
 The sentences went on above her, one at a time, plain, reporting, at the same intervals, through her to him, and he went on listening, and the stone stayed cold under her hand, and her breath went seven counts on the rise going on up and four counts standing still.
 
@@ -66,11 +66,11 @@ She said, out loud, standing in the dark, in the ordinary voice, “Same grammar
 
 She said, “And here is what that means, said plain. It does not answer names. It reports. I have given it the word it has gone without for nineteen years, and it goes on reporting, and the reporting is all it has ever done, and all it will ever do, and knowing its word does not give me any hold on it.”
 
-She said, “And it is smallness. And I am naming it because it is the first smallness on this stair, and it is cold, and I am not going to make it warmer than it is. I named the thing that reads me and I am exactly as big as I was this morning, standing on a ninth landing in the dark with an arm that will not close.”
+She said, “And smallness, and I will not dress it up. I have been carrying a name around in my head for nineteen years without knowing what it was, and I have said it out loud twice tonight, and I am exactly as big as I was this morning, standing on a ninth landing in the dark with an arm that will not close. There is no more of me this evening than there was this morning. That is the whole of the smallness and it is not going to be any different tomorrow.”
 
 ## Nineteen Years Without It
 
-She went back down in the dark to the third landing, slow, with her left hand on the stone, past the eleventh, past the tenth with no doorway, past the ninth, and she said each one where it was used, and all the way down she turned the word over in her mouth the way she used to turn a new figure over before she said it at a table.
+She went on down in the dark with her left hand on the stone and nothing in the other, and said what was left of the landings out loud where she used them, and all the way down she turned the word over in her mouth the way she used to turn a new figure over before she said it at a table.
 
 She said, out loud, on the ninth landing, standing in the dark, “Scribe.”
 
@@ -82,7 +82,7 @@ She went on down past the eighth, past the seventh, past the sixth, and on the f
 
 She said, out loud, sitting, in the ordinary voice, “Here is what nineteen years without it means. I have said figures out loud every morning since I was nine years old. I have said the six terms out loud in every room I ever said them in. I said a refusal out loud in that room and sent one down in my own hand. And in all of it, in every sentence, there was a thing reading, and I never gave it a word, and tonight I gave it one, standing up, and it did not object, and I am still here.”
 
-She said, “And it is gravity. And I am naming it because it is the first gravity on this stair, and it is small, and I am not going to make it bigger than it is. A word said where it can be heard, and nothing struck, and everything going on, and me sitting on a fifth landing in the dark with my arm open across my knees, heavier than I was this morning by exactly one word.”
+She said, “And it is gravity, and this one I am not shrinking, because it has earned the weight. A word said where it can be heard, and nothing struck, and everything going on, and me sitting on a fifth landing in the dark with my arm open across my knees, heavier than I was this morning by exactly one word.”
 
 And she sat beside the lamp, and the light went six paces out from where it stood and stopped.
 
