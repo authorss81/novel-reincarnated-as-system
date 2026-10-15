@@ -5882,3 +5882,28 @@ pressure *the bundles*.**
 - **Untouched and unraised:** the bar is still dated nowhere and she took it up when she was nine — **she has carried it ten years, put it down once on purpose on the twenty-first of the month beginning 2,324, which is day 2,344, and has not picked it up since, so it has been against that wall for 196 days at the last page** — and its dust is broken at one end, named once at ch 721, never explained · the bag is at the bottom of the first four flights with the dish, the clay, the ring, the key to a locked drawer and the nine inches of hand-made paper in it, and the nib and the ink are against her ribs · **the locked drawer is not opened; she measured it at ch 768 and put her fingers on the grey in the wood where a hand goes** · **the five blank leaves are still blank** · the register still reads *reconciled* and is not read · the Clay Plate is still against her ribs and is not described · *kiln-born* zero · what became of the eleven is not raised · the four erased months of Chapter 3 are never named · the ch 150 refusal is not softened · one Lung and one appointment, Feng's, both spent, Feng dead and on no page · no office above the Standing Office of the Second Account · the stale county total *thirteen days* is not on the page as itself · the four accounts of nine seconds and no fifth; no account is on the page · the 2,920 and the 301 of 912 are unattributed and unmentioned, and what a third of a name is is open and is not answered · **how far the rows sit past the wall is not stated and Volume 13 states no distance between anything above the line and anything below it in any unit** · the Order is not a conspiracy and not a chamber and is not on the page · **no clearance, seal or countersignature named or implied** · **no frame scene but the one, no bracket, no bold, no all-caps line, no straight quote, no em dash and no three-digit Arabic numeral, in sixty** · no harem, nothing a romance; she never says her mother's name · **nobody is thanked and she never thanks him** · **the year of non-forgiveness is not named once in Volume 13 and still carrying.**
 - **What is still open at the last page of the volume:** what the lamp is · what the lamp is paying for · why the bar's dust is broken at one end · why the bar moved · **the second place at the table, seen from inside once and noticed twice, and still not got into and not refused** · what was written on the four boards that went up that stair and came back empty · what a room does with a column it cannot add up, **and she knows the room's answer now and it is that it waits** · what is in the locked drawer · what is in the bundle of papers · **what the person at that table looks like from the outside, which nobody has ever been in a position to describe** · **whether anything in that dark room heard a name said out loud** · **and the finding at ch 749, which is raised and unpaid and is Volume 14's.**
 - **Next phase:** the Volume 13 close, `workspace/volume-13-close/`, which is this phase. **This close does not plan Volume 14 and does not create a `volume-14-*` directory.** Volume 14 is *The Scribe's Apprentice*, ch 781–840, and `outline/series.md` §9 fixes its goal as *In this volume, Ning Yan must refuse the thing Yuan was offered and refused, or the whole bargain survives.*
+
+## Volume 14 planned — outline/volume-14.md exists and what the plan fixed (cold reader starts here)
+
+**VOLUME 13 IS CLOSED AND AUDITED. VOLUME 14 IS PLANNED.** `outline/volume-14.md` (*The Scribe's
+Apprentice*, ch 781–840, days 2,541–2,780) is written against `outline/series.md` §9 and against the
+Volume 13 close handoff, and it changes nothing the close measured. **The one and only next phase is
+`workspace/volume-14-batch-0001/PROMPT.md`: Volume 14 Batch 0001, ch 781–795, days 2,541–2,600, pressure
+*the oil*, Immortal Vessel 7 at ch 793 (day 2,598, seventy-four days), irreversible step at ch 795 (the
+oil lamp stays).** No chapter prose was written in this phase and no second `workspace/volume-14-*`
+directory was created.
+
+- **Stages fixed:** IV7 ch 793 day 2,598 (5th of 2,594, interval 74) · IV8 ch 809 day 2,666 (13th of 2,654,
+  interval 68) · IV9 ch 828 day 2,732 (19th of 2,714, interval 66). Costs named once each: she cannot be
+  hidden by the dark · she cannot be unread where she stands · she cannot be alone in the room any more.
+  Sisterhood 0 across the volume; the 400 begin in Volume 15.
+- **Yuan fixed:** readable by the Scribe at ch 810 (finding raised at ch 749 paid, not explained);
+  tenth frame scene at ch 812 (he says yes where she cannot hear, does not get in); no eleventh; no
+  figure of what is left of him; nothing but her speaks to him (address is Volume 15's).
+- **Batches fixed:** 0001 ch 781–795 *the oil* · 0002 ch 796–810 *the seat* · 0003 ch 811–825 *the keeping*
+  · 0004 ch 826–840 *the refusal*. Midpoint reversal ch 810–812 (third hand's board, then his yes);
+  climax ch 836–838 (binding refused, refusal sent down on a blank leaf); bracket budget 0 in sixty.
+- **Archive pass not run in this phase.** `state/INDEX.md` orders it before the outline; one call could
+  not deliver the pass and the plan both well, so the plan narrowed to outline plus first-batch card and
+  the pass is recorded as still owed before Batch 0002. Nothing was pruned, moved or archived to make
+  this true.

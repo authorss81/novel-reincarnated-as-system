@@ -220,3 +220,10 @@ at the time it was measured. **Volume 12 is where that pass is now overdue:** th
 reviewed and repaired. **THE PASS HAS STILL NOT BEEN RUN. `state/archive/` holds three files and covers Volumes 01–06 only, and `current.md` is now 5,884 lines and `continuity.md` 10,130. An earlier version of this paragraph said the pass belonged to the Volume 13 close; Volume 13 closed on 15 Oct 2026 and its close did not do it either, and the Volume 13 close's review repair corrected that false claim here rather than doing the pass. Nothing was pruned, moved or archived to make this sentence true.**
 
 **Run it first in Volume 14 planning, before `outline/volume-14.md` is written.** It is a mechanical pass with its own risk: three of the files it touches are the three files Volume 14 planning reads, and archiving a block that is still the live position would be worse than the growth it fixes. Move only what is behind the live volume, leave every stub, leave the reading order in this file intact, and measure the same numbers before and after so the archive is provable rather than asserted.
+
+**VOLUME 14 PLANNING NOTE (15 Oct 2026): the pass was NOT run before the outline.** One call could not
+deliver the archive and the plan both well, so planning narrowed to `outline/volume-14.md` plus
+`workspace/volume-14-batch-0001/PROMPT.md` per PHASE_SYSTEM.md's empirical rule. The pass is owed before
+Batch 0002. Nothing was pruned, moved or archived to make this true, and the reading order above is
+intact: a phase starting now reads `outline/series.md` §9, `state/current.md` §*Volume 14 planned* and
+§*Who is where at the end of Volume 13*, then the Volume 13 close blocks.

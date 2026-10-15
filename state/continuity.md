@@ -10128,3 +10128,30 @@ The register still reads *reconciled* and is not read · *plate* 0 and the Clay 
 3. **`state/INDEX.md` claimed the archive pass as the Volume 13 close's and it was not done.** `state/archive/` still holds only Volumes 01–06, and `current.md` is 5,884 lines and `continuity.md` 10,101. **The ownership sentence is corrected and the pass is recorded as owed and not done, with no claim that any closed volume did it.** Nothing was pruned, moved or archived to make this true, and doing it is a separate pass with its own risk to the three files Volume 14 planning reads.
 
 **Left standing on purpose, as before:** ch 764 line 87's *a hundred and seventy-eight days*, which still fits no anchor and is recorded in §8a above and in `state/open-threads.md`; ch 766's sixteen-days-is-nineteen, recorded and not touched; ch 734's chapter title and ch 735's *four weeks*, recorded against the measured allowance rather than renamed. **No `volume-14-*` directory exists and none was created — the close recorded that it does not plan Volume 14, and the controller's seed step creates the continuation.**
+
+## VOLUME 14 PLANNING — The Scribe's Apprentice, ch 781–840 (no prose in this phase)
+
+**This phase wrote two files and nothing else: `outline/volume-14.md` and
+`workspace/volume-14-batch-0001/PROMPT.md`.** Read NOVEL_SPEC.md, `outline/series.md` in full,
+`outline/ending.md`, `outline/volume-13.md`, `state/current.md` (*Who is where at the end of Volume 13*),
+`state/continuity.md` (*VOLUME 13 — THE CLOSE* and its review repair), `state/open-threads.md` (*VOLUME
+13 CLOSE*), `state/INDEX.md`, the six `bible/` files, and ch 778–780 for voice. No previous chapter was
+opened and no figure on the page was moved.
+
+- **Volume fixed:** *The Scribe's Apprentice*, ch 781–840, days 2,541–2,780 (months begin 2,534 · 2,564 ·
+  2,594 · 2,624 · 2,654 · 2,684 · 2,714 · 2,744 · 2,774). Every stage day re-derived under
+  `((day − 134) mod 30) + 1` before it was written: 2,598 the 5th of 2,594 · 2,666 the 13th of 2,654 ·
+  2,732 the 19th of 2,714 · 2,780 the 7th of 2,774.
+- **What the plan decided (D1–D6 in the outline):** the apprenticeship is a keeper's place for him, priced
+  at one binding, arriving in writing and never in speech; the dark with the boy's oil as the instrument;
+  three stage costs named once each; stage-takings in oil light under the fourth term; bracket budget 0 in
+  sixty with the reason carried from Volume 13.
+- **Disagreements with the page:** none — the outline resolves everything in favour of the page, and the
+  four close defects (ch 764's 178, ch 766's sixteen, ch 734's *charged*, ch 735's *week*) are carried as
+  unquotable rather than rewritten.
+- **Batch cards:** all four batches sketched in the outline (ranges, days, pressures, midpoints, climaxes,
+  one irreversible step each); Batch 0001's fifteen chapter cards written in full in the prompt (days
+  2,541–2,600, first of a month at 2,564, IV7 at ch 793, irreversible at ch 795).
+- **Archive pass:** not run. One call could not deliver the mechanical archive and the plan both well, so
+  the phase narrowed to the plan per PHASE_SYSTEM.md's empirical rule and the pass is owed before Batch
+  0002. Hot files untouched and valid.*
